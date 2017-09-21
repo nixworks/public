@@ -10,7 +10,7 @@ _Context: Cap-Haitien, Haiti_
 _Context: Al-Aqsa Martyrs' Brigades, Bethlehem, Fatah, International Court of Justice, Israeli-Palestinian conflict, barrier, suicide bombing_
 
 ### [ 2004 U.S. Presidential Election: Ralph Nader declares his candidacy for the position of President of the United States as an independent candidate. ](/news/2004/02/22/2004-u-s-presidential-election-ralph-nader-declares-his-candidacy-for-the-position-of-president-of-the-united-states-as-an-independent-ca.md)
-_Context: 2004 U.S. Presidential Election, President, Ralph Nader_
+_Context: 2004 U.S. presidential election, Ralph Nader, U.S. President_
 
 ### [ Same-sex marriage in the United States: Saying he will defend California's laws limiting marriage to opposite-sex couples, state attorney general Bill Lockyer dismisses California governor Arnold Schwarzenegger's "order" in the San Francisco marriage licenses debate, saying his office is independent of gubernatorial power. ](/news/2004/02/22/same-sex-marriage-in-the-united-states-saying-he-will-defend-california-s-laws-limiting-marriage-to-opposite-sex-couples-state-attorney-g.md)
 _Context: Arnold Schwarzenegger, Bill Lockyer, California, marriage license, same-sex marriage_

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304281004579222303336597192)
+1. [Cover Image](https://si.wsj.net/public/resources/images/MI-BZ928_MKTLED_G_20131126164745.jpg)
 
 ### Related:
 

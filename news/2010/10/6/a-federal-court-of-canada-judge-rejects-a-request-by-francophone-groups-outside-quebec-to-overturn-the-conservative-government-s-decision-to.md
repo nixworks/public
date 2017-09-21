@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Toronto Sun](http://www.torontosun.com/news/canada/2010/10/06/15603441.html)
+1. [Cover Image](http://www.torontosun.com/assets/img/interface/sun.com.png)
 
 ### Related:
 

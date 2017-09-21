@@ -9,6 +9,7 @@ The prevalence of HIV among young people in Africa falls because of changing sex
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10616274.stm)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE66C0O520100713)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

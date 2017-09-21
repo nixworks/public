@@ -8,3 +8,4 @@ Bloxham Stockbrokers has agreed to transfer all its private client and fund mana
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2012/0528/bloxham-transfers-business-to-davy.html)
+1. [Cover Image](https://img.rasset.ie/0005f347-1600.jpg)

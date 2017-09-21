@@ -9,6 +9,7 @@ Iran has been developing contacts in more than 30 countries to acquire technolog
 
 1. [ (Reuters](http://www.reuters.com/article/idUSTRE70F19Y20110116)
 2. [The Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=203855)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

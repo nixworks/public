@@ -17,6 +17,7 @@ Irish Prime Minister Brian Cowenwill address the media at 1400 GMT on Saturday, 
 8. [The Guardian](http://www.guardian.co.uk/world/2011/jan/22/brian-cowen-full-speech-resignation)
 9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0122/breaking19.html)
 10. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0122/breaking5.html)
+10. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

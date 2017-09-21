@@ -10,6 +10,7 @@ NASA&#039;s Dawn spacecraft has become the first mission to achieve orbit around
 1. [AP](http://bigstory.ap.org/article/34b5bf4679324ea39140b686f272503b/nasas-dawn-spacecraft-moves-dwarf-planet-ceres)
 2. [AP](http://bigstory.ap.org/article/f406818ffc2344cbab2db0b2c83cc2a6/nasas-dawn-spacecraft-moves-dwarf-planet-ceres)
 3. [JPL](http://www.jpl.nasa.gov/news/news.php?feature=4503)
+3. [Cover Image](//www.jpl.nasa.gov/images/dawn/20150306/pia19311-16.jpg)
 
 ### Related:
 

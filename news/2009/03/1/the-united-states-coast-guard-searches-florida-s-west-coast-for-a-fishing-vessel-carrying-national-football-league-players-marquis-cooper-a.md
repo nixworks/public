@@ -8,6 +8,7 @@ The boat departed from a ramp in Clearwater Pass early Saturday morning with fou
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,502785,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

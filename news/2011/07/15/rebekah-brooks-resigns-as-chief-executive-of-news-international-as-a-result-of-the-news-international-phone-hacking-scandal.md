@@ -22,6 +22,7 @@ News&#x20;International&#x20;chief&#x20;Rebekah&#x20;Brooks&#x20;resigned&#x20;F
 13. [The New York Times](http://www.nytimes.com/2011/07/16/world/europe/16hacking.html?)
 14. [The New York Times](http://www.nytimes.com/2011/07/16/world/europe/16hacking.html?hp)
 15. [The Washington Post](http://www.washingtonpost.com/politics/congress/murdochs-refuse-then-agree-to-be-questioned-by-uk-parliament-fbi-opens-911-hacking-review/2011/07/15/gIQAwxNTFI_story.html?hpid=z1&wpisrc=al_national)
+15. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Brooks-Murdoch.jpg)
 
 ### Related:
 

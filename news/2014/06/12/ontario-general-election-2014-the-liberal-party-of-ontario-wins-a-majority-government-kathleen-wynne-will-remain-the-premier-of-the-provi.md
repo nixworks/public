@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/elections/ontariovotes2014/)
+1. [Cover Image](http://www.cbc.ca/includes/provincialelections/ontariovotes2014/gfx/open_graph.jpg)
 
 ### Related:
 

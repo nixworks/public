@@ -8,6 +8,7 @@ After slamming the eastern coast of China, Chan-hom bring heavy rain to Korean P
 ### Source:
 
 1. [Accuweather](http://www.accuweather.com/en/weather-news/chanhom-aims-for-guam-this-wee/49416782)
+1. [Cover Image](https://accuweather.brightspotcdn.com/650x366_07120217_hd22.jpg)
 
 ### Related:
 

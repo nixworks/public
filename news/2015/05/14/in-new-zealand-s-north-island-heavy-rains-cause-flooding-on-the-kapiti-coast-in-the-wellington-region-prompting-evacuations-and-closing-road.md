@@ -9,6 +9,7 @@ Flooding caused widespread flooding and damage in Kapiti Coast yesterday.
 
 1. [Fairfax New Zealand](http://www.stuff.co.nz/national/68535256/evacuations-after-heavy-rain-floods-and-slips-in-kapiti-live-blog)
 2. [TVNZ](http://tvnz.co.nz/national-news/pictures-flooding-turns-kapiti-coast-roads-into-rivers-6313081)
+2. [Cover Image](https://www.tvnz.co.nz/content/dam/images/news/2015/05/14/flooding-on-kapiti-coast.jpg.hashed.576dee65.desktop.story.share.video.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ BERLIN -- The 63rd Berlin International Film Festival handed out its awards Satu
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21485735)
 2. [Los Angeles Times](http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-childs-pose-wins-golden-bear-prize-at-berlin-film-festival-20130216,0,4668655.story)
 3. [Reuters](http://www.reuters.com/article/2013/02/17/film-berlin-golden-bear-idINDEE91G00220130217)
+3. [Cover Image](http://www.trbimg.com/img-5120052a/turbine/la-et-mn-childs-pose-wins-golden-bear-prize-at-001/600/600x400)
 
 ### Related:
 

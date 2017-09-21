@@ -55,3 +55,4 @@ Al Jazeera English is available free-to-air through satellite and cable provider
 46. [Times'' LIVE](http://www.timeslive.co.za/africa/article882834.ece/Egypt-switches-off-Al-Jazeera)
 47. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/31/c_13714065.htm)
 48. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4020878,00.html)
+48. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/11/14/20131114162127164734_20.jpg)

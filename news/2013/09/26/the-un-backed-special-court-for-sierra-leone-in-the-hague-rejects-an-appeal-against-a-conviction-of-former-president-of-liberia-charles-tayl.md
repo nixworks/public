@@ -8,6 +8,7 @@ A UN-backed special court in The Hague rejects an appeal against war crimes conv
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24279323#)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/70127000/jpg/_70127197_019445448-1.jpg)
 
 ### Related:
 

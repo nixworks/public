@@ -8,6 +8,7 @@ Japan’s Sakurajima volcano, situated about 50km from the Sendai nuclear statio
 ### Source:
 
 1. [RT](https://www.rt.com/news/331387-japan-sakurajima-volcano-plant/)
+1. [Cover Image](https://img.rt.com/files/2016.02/article/56b48815c461882f2e8b45de.jpg)
 
 ### Related:
 

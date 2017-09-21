@@ -11,6 +11,7 @@ Pro-democracy supporters hold fresh rallies in Cairo, just hours after the relea
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112851424979539.html)
 3. [MSNBC](http://www.msnbc.msn.com/id/41469240/ns/world_news-mideastn_africa/)
 4. [New York Times](http://thelede.blogs.nytimes.com/2011/02/08/latest-updates-on-day-15-of-egypt-protests/?src=twt&twt=thelede#video-of-protest-at-egyptian-parliament)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/8/20112862034841621_20.jpg)
 
 ### Related:
 

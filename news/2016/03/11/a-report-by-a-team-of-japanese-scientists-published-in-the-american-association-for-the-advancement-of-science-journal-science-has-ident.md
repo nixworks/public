@@ -10,6 +10,7 @@ Scientists say a newly discovered microbe can break down plastic containers that
 1. [LiveScience'' via CBS News](http://www.cbsnews.com/news/plastic-eating-bacteria-could-help-make-trash-disappear/)
 2. [Science](http://science.sciencemag.org/content/351/6278/1196)
 3. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/03/11/these-plastic-eating-bacteria-could-help-cut-down-on-waste/)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/03/11/3fcd6858-bef5-4809-b7ec-367801fb0479/gettyimages-72619206.jpg)
 
 ### Related:
 

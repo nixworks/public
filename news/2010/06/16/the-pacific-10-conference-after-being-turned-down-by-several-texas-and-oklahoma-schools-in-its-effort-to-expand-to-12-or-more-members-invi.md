@@ -8,6 +8,7 @@ Utah will join the Pac-10 Conference as its 12th team, with an announcement comi
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/ncaa/news/story?id=5293329)
+1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F254.png)
 
 ### Related:
 

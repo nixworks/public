@@ -10,6 +10,7 @@ Eight-member government panel to focus on breakdown of 2002 truce with Tamil Tig
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j2OeVRmLxI1ruq3G2OnH5XEWucAwD9HH6US00)
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108117241491813.html)
 3. [BBC](http://www.bbc.co.uk/news/world-south-asia-10934663)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

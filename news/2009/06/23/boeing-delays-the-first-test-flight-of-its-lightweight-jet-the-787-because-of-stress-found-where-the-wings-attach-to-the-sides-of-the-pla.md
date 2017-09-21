@@ -8,6 +8,7 @@ Additional stress was found where the wings attach to the sides of the plane, bu
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/06/24/business/24boeing.html)
+1. [Cover Image](https://static01.nyt.com/images/2009/06/24/business/23boeing-75.jpg)
 
 ### Related:
 

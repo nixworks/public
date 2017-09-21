@@ -8,6 +8,7 @@ MANILA - The Philippines goes to the polls Monday to choose thousands of local l
 ### Source:
 
 1. [ABS CBN](http://www.abs-cbnnews.com/nation/05/12/13/ph-vote-seen-referendum-aquino)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/oct26_pnoy2.jpg)
 
 ### Related:
 

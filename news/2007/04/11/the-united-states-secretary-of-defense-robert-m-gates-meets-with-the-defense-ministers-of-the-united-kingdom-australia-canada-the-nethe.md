@@ -9,6 +9,7 @@ Critics of the Bush administration say that the focus on the Iraq war has jeopar
 
 1. [New York Times](http://www.nytimes.com/2007/04/12/world/asia/12gates.html?_r=1&oref=slogin)
 2. [Reuters via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/04/11/AR2007041102013.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

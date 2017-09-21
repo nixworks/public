@@ -8,6 +8,7 @@ China is warning Iran against developing nuclear weapons, observers said.
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2012/01/20/China-warns-Iran-against-nuclear-weapons/UPI-66931327073815/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/66931327073815/2012/1/101817cea414e02e8207c430c8fe69c1/v2.1/China-warns-Iran-against-nuclear-weapons.jpg)
 
 ### Related:
 

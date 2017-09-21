@@ -11,6 +11,7 @@ BARBARA KINGSOLVER&#039;S epic, ambitious novel straddling the Mexican revolutio
 2. [The Guardian](http://www.guardian.co.uk/books/2010/jun/10/barbara-kingsolver-orange-prize)
 3. [The Hindu](http://beta.thehindu.com/news/international/article452116.ece)
 4. [The Sydney Morning Herald](http://www.smh.com.au/entertainment/books/kingsolver-takes-orange-honours-with-revolutionary-epic-20100610-y09i.html)
+4. [Cover Image](http://www.smh.com.au/content/dam/images/y/0/8/9/image.related.thumbnail.320x214.y09i.png/1276189201000.jpg)
 
 ### Related:
 

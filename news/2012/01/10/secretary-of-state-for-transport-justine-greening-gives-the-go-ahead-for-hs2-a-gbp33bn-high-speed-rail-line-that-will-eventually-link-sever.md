@@ -8,6 +8,7 @@ Plans for a £33bn high-speed rail network - HS2 - receive a mixed reaction as t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16494354)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57789000/jpg/_57789515_013642711-1.jpg)
 
 ### Related:
 

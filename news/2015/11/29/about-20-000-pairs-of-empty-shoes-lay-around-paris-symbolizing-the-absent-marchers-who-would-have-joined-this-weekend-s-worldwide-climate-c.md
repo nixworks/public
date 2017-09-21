@@ -9,6 +9,7 @@ The Pope, actress Marion Cotillard and designer Vivienne Westwood were among tho
 
 1. [The Daily Mirror](http://www.mirror.co.uk/news/world-news/paris-turned-sea-shoes-climate-6922670)
 2. [The Washington Post](https://www.washingtonpost.com/world/climate-change-protests-take-place-around-the-world-on-eve-of-summit/2015/11/29/9172b6ca-9530-11e5-befa-99ceebcbb272_story.html)
+2. [Cover Image](http://i2.mirror.co.uk/incoming/article6921268.ece/ALTERNATES/s1200/Paris-2015-UN-Climate-change-Summit-logo.jpg)
 
 ### Related:
 

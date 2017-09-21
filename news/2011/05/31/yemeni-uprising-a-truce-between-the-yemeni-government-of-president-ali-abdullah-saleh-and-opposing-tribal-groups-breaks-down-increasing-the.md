@@ -17,6 +17,7 @@ More than 50 people have been killed in demonstrations in the southern Yemeni ci
 8. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=223057)
 9. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=222973)
 10. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=222965)
+10. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53074000/jpg/_53074699_012104575-2.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The Pentagon demands that Wikileaks remove secret US documents on the Afghan war
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010851940060127.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10888993)
 3. [Reuters](http://www.reuters.com/article/idUSTRE6744AO20100805)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

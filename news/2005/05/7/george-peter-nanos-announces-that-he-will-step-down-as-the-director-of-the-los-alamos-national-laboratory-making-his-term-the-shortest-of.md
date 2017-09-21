@@ -8,6 +8,7 @@ The former Navy admiral hired two years ago to fix security and safety breaches 
 ### Source:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-nanos7may07,1,5284673.story?coll=la-headlines-nation&ctrack=1&cset=true)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

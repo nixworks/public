@@ -8,6 +8,7 @@ At least seven people have been killed and dozens hurt in a suicide attack at a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20114839)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63763000/jpg/_63763543_63763541.jpg)
 
 ### Related:
 

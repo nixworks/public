@@ -8,6 +8,7 @@ Judges including journalist John Pilger voted unanimously for the WikiLeaks foun
 ### Source:
 
 1. [journalism](http://www.journalism.co.uk/news/julian-assange-wins-martha-gellhorn-prize-for-journalism/s2/a544492/)
+1. [Cover Image](https://www.journalism.co.uk/assets/6/PA-11126554.jpg)
 
 ### Related:
 

@@ -17,6 +17,7 @@ Renewed clashes broke out in Bahrain overnight between hundreds of anti-governme
 8. [Reuters](http://uk.reuters.com/article/2012/04/22/uk-bahrain-grandprix-idUKBRE83I0S720120422)
 9. [Sky News](http://news.sky.com/home/world-news/article/16213553)
 10. [The Guardian](http://www.guardian.co.uk/world/2012/apr/22/bahrain-grand-prix-protests-live)
+10. [Cover Image](https://img.rasset.ie/0005cd55-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Sony plans to restore all its PlayStation Network services by this weekend in al
 ### Source:
 
 1. [Tech World](http://www.techworld.com.au/article/388414/sony_playstation_network_fully_restored_by_weekend/)
+1. [Cover Image](https://dv3ta1lexo3ac.cloudfront.net/dimg/600x600//idg_sites/logos/techworld_3.png)
 
 ### Related:
 

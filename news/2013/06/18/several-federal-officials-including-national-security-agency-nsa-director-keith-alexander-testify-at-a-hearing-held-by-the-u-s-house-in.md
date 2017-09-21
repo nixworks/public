@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2013/06/18/politics/nsa-leaks/index.html)
 2. [Fox News](http://www.foxnews.com/politics/2013/06/18/nsa-chief-defends-surveillance-says-helped-prevent-terror-more-than-50-times/)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2013/06/18/nsa-chief-defends-surveillance-says-helped-prevent-terror-more-than-50-times/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1447091353642.jpg?ve=1)
 
 ### Related:
 

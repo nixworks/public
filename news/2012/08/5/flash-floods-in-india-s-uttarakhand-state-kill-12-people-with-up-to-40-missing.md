@@ -8,6 +8,7 @@ ITBP and police personnel on Sunday searched debris of flattened homes and dug r
 ### Source:
 
 1. [Jagran Post](http://post.jagran.com/12-killed-40-missing-in-uttarakhand-flash-floods-1344151259)
+1. [Cover Image](http://images.jagran.com/uttrakhand-flash-floods-bb-.jpg)
 
 ### Related:
 

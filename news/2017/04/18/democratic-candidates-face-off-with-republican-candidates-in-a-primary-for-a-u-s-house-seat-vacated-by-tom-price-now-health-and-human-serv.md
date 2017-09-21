@@ -11,6 +11,7 @@
 2. [CNN](http://www.cnn.com/2017/04/18/politics/georgia-house-6th-special-election-jon-ossoff/)
 3. [NBC News](http://www.nbcnews.com/storyline/democrats-vs-trump/democrat-jon-ossoff-falls-short-georgia-special-election-race-goes-n748111)
 4. [The New York Times](http://www.nytimes.com/elections/results/georgia-house-special-election-district-6)
+4. [Cover Image](https://cmgajcpolitics.files.wordpress.com/2017/04/ossoff-a1.jpg?w=640)
 
 ### Related:
 

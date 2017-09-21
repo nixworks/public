@@ -8,6 +8,7 @@ The Oscar-winning film-maker joins leading arts figures to write a letter protes
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20197610)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63316000/jpg/_63316243_141293314.jpg)
 
 ### Related:
 

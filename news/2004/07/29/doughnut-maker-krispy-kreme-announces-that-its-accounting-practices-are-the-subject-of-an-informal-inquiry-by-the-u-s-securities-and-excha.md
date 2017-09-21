@@ -8,6 +8,7 @@ Find a local lawyer and free legal information at FindLaw, the award-winning web
 ### Source:
 
 1. [AP](http://news.findlaw.com/ap/f/1310/7-29-2004/20040729073007-13.html)
+1. [Cover Image](http://www.findlawimages.com/public/thumbnails_62x62/findlaw_62x62.png)
 
 ### Related:
 

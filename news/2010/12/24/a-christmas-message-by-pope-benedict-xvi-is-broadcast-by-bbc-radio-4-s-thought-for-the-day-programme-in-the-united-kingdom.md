@@ -9,6 +9,7 @@
 
 1. [PA](http://www.google.com/hostednews/ukpress/article/ALeqM5gE6ZZ1RhPxWOtjgVlVHKtykWMwAA?docId=N0315411293158974212A)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6BN0UD20101224)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20101224&t=2&i=285228177&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-24T115911Z_01_BTRE6BN0XAP00_RTROPTP_0_POPE)
 
 ### Related:
 

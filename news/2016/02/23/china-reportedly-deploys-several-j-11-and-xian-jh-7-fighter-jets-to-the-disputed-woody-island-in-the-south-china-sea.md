@@ -8,6 +8,7 @@ In a move likely to further increase already volatile tensions in the South Chin
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2016/02/23/exclusive-china-sends-fighter-jets-to-contested-island-in-south-china-sea.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/02/24/0/0/694940094001_4772182336001_2d5a3ec8-1021-4ca2-9b22-1f138b0a58b6.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Of the 110,000 the U.S. intends to admit, at least 40,000 are from the Near East
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/storyline/syrias-suffering-families/us-boost-number-refugees-it-will-admit-2017-n648191)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_37/1708616/160914-syria-migrant-greece-1111a_f864e4597cf285aac89b4f2a58dad02b.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

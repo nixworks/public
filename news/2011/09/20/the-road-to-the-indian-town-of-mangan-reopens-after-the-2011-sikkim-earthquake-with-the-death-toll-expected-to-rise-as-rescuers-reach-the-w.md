@@ -8,6 +8,7 @@ Two days after the earthquake that hit Sikkim, the road connecting the worst aff
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Quake-toll-may-mount-as-recue-teams-start-reaching-interior-areas/articleshow/10058855.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

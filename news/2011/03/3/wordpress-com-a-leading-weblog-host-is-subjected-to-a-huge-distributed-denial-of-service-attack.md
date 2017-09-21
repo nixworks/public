@@ -8,6 +8,7 @@ You have no idea how hard it was to get this post up, as Wordpress.com, our blog
 ### Source:
 
 1. [Techcrunch](http://techcrunch.com/2011/03/03/wordpress-com-suffers-major-ddos-attack/)
+1. [Cover Image](https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/techcrunch.opengraph.default.png)
 
 ### Related:
 

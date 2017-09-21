@@ -9,6 +9,7 @@
 
 1. [AP via News24](http://www.news24.com/news24/World/News/US-sports-bar-deck-collapses-20130614)
 2. [Miami Herald](http://www.miamiherald.com/2013/06/13/3450248/breaking-deck-collapses-at-shuckers.html)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1964/516168109dc64702b1c965cb7d6e8263.jpg)
 
 ### Related:
 

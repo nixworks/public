@@ -8,6 +8,7 @@
 ### Source:
 
 1. [TV2](http://www.tv2.no/nyheter/innenriks/22-juli-terror-oslo-og-utoya/-40000-har-moett-opp-paa-youngstorget-3766143.html)
+1. [Cover Image](http://www.tv2.no/s/lab/2.5/p/img/logo/tv2-default.jpg)
 
 ### Related:
 

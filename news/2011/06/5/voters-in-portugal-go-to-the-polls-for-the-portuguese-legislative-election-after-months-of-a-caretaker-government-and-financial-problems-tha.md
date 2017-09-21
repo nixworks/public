@@ -11,6 +11,7 @@
 2. [AP via Yahoo](http://sg.finance.yahoo.com/news/Projection-Opposition-wins-apf-3560171811.html?x=0)
 3. [CNN](http://www.cnn.com/2011/WORLD/europe/06/05/portugal.election/index.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/jun/05/pedro-passos-coelho-election-portugal)
+4. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/06/05/portugal.election/tzvids.pedro.passos.jpg)
 
 ### Related:
 

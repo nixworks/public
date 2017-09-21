@@ -8,6 +8,7 @@ AMERICAN Amanda Knox has been found guilty of the gruesome murder of a British s
 ### Source:
 
 1. [News Limited](http://www.news.com.au/world/amanda-knox-guilty-of-the-gruesome-murder-of-british-student-meredith-kercher/story-fndir2ev-1226814554214)
+1. [Cover Image](http://api.news.com.au/content/1.0/foxsports/images/1226814554133?format=jpg)
 
 ### Related:
 

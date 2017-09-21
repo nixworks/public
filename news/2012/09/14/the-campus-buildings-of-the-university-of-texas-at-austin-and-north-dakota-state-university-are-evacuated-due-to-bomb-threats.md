@@ -8,6 +8,7 @@ UT-Austin and North Dakota State reopen after bomb threats prompted each to evac
 ### Source:
 
 1. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2012/09/14/university-of-texas-emergency-threat-evacatuion/70000347/1#.UFNO3LJgLWY)
+1. [Cover Image](http://www.gannett-cdn.com/media/USATODAY/ondeadline/2012/09/14/AP_Campus_Bomb_Threats-x-wide-community.jpg)
 
 ### Related:
 

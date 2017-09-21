@@ -8,6 +8,7 @@ The number of people in Melbourne dying from the rare phenomenon thunderstorm as
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-australia-38121579)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15A15/production/_92679588_mediaitem92679587.jpg)
 
 ### Related:
 

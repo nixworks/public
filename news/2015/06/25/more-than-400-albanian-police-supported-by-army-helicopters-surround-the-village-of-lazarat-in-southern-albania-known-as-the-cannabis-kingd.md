@@ -8,6 +8,7 @@ A police officer is killed during a shootout involving machine guns and anti-tan
 ### Source:
 
 1. [AFP via ABCNews Australia](http://www.abc.net.au/news/2015-06-25/policeman-killed-in-shootout-in-albanias-cannabis-kingdom/6572042)
+1. [Cover Image](http://www.abc.net.au/news/image/6572576-1x1-700x700.jpg)
 
 ### Related:
 

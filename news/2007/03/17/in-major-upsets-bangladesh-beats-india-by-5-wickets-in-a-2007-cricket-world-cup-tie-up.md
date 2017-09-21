@@ -11,6 +11,7 @@ The Age 404 Page
 2. [Reuters](http://in.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2007-03-18T025652Z_01_NOOTR_RTRJONC_0_India-291379-4.xml)
 3. [Reuters](http://www.reuters.com/article/sportsNews/idUSL1721626220070318)
 4. [The Age](http://www.theage.com.au/news/Sport/Bangladesh-shock-India-in-World-Cup/2007/03/18/1174152858052.html)
+4. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

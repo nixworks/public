@@ -9,6 +9,7 @@ Soaring across the predawn haze, the space shuttle Atlantis glided back to Earth
 
 1. [CNN](http://www.cnn.com/2011/US/07/21/shuttle.landing/)
 2. [USA TODAY](http://www.usatoday.com/tech/science/space/2011-07-21-shuttle-atlantis-landing_n.htm)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/07/21/shuttle.landing/tzvids.atlantis.landing.nasa.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Rio de Janeiro (AFP) - Brazil&amp;#39;s government on Thursday declared an end t
 ### Source:
 
 1. [AFP via Seven News](https://au.news.yahoo.com/world/a/35476694/brazil-calls-off-zika-emergency/#page1)
+1. [Cover Image](https://s.yimg.com/iu/api/res/1.2/qGFejGz.U7_78PsnfN8jpQ--/YXBwaWQ9eXZpZGVvO3c9Njk2O2g9MzU0O2R4PTE7ZHk9MTtjdz01MTE7Y2g9Mjg4O3E9NzA7bj0xO3VsY3JvcDtyb3RhdGU9YXV0bw--/https://s.yimg.com/ea/img/-/170512/5914ce81eae6d_4292ee2c88b7bd5056d98f8bd445e055c3c64b70.jpg)
 
 ### Related:
 

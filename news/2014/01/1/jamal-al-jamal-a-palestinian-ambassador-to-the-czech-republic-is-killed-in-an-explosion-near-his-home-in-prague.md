@@ -9,6 +9,7 @@ The Palestinian ambassador to Prague was killed on Wednesday in an explosion tha
 
 1. [CNN](http://edition.cnn.com/2014/01/01/world/europe/czech-republic-blast-palestinian/index.html?hpt=hp_t3)
 2. [Reuters](http://www.reuters.com/article/2014/01/01/us-czech-palestinian-idUSBREA0008E20140101)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140101&t=2&i=825965044&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA001EJT00)
 
 ### Related:
 

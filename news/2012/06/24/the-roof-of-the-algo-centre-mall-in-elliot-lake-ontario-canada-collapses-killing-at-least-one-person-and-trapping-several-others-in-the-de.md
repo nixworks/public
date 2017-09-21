@@ -8,6 +8,7 @@ Part of the roof of a shopping mall in Elliot Lake, Ont., has collapsed, apparen
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/sudbury/story/2012/06/23/elliot-lake-mall-collapse.html)
+1. [Cover Image](https://i.cbc.ca/1.1881134.1380774403!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-elliot-lake-mall2.jpg)
 
 ### Related:
 

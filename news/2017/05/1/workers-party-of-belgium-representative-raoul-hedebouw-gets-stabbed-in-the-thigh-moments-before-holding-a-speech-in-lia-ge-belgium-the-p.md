@@ -10,6 +10,7 @@ Police in Istanbul fired tear gas and rubber bullets to break up a group of May 
 1. [Evening Standard](http://www.standard.co.uk/news/world/paris-protests-ugly-scenes-in-french-capital-as-riot-police-clash-with-demonstrators-ahead-of-a3527816.html)
 2. [Reuters](http://www.reuters.com/article/us-may-day-turkey-idUSKBN17X1I4)
 3. [Sudinfo](http://www.sudinfo.be/1835704/article/2017-05-01/raoul-hedebouw-attaque-a-l-arme-blanche-a-liege-suivez-son-discours-en-video)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170501&t=2&i=1182755459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED400ZY)
 
 ### Related:
 

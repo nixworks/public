@@ -8,6 +8,7 @@ Five very different psych disorders have something in common--genetics.
 ### Source:
 
 1. [Science World Report](http://www.scienceworldreport.com/articles/5266/20130228/five-very-different-major-psych-disorders-shared-genetics.htm)
+1. [Cover Image](http://images.scienceworldreport.com/data/images/full/3819/dna.jpg)
 
 ### Related:
 

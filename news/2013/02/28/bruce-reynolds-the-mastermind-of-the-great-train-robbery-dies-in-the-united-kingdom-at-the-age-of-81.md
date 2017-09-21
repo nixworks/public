@@ -8,6 +8,7 @@ Bruce Reynolds hid out in Mexico and Canada before returning to England in 1968,
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2013/02/28/173146010/mastermind-of-great-train-robbery-dies)
+1. [Cover Image](https://media.npr.org/assets/img/2013/02/28/2663707_wide-3b2f41f0489b7df050d285dac88e0f0ee4e7e8a4.jpg?s=1400)
 
 ### Related:
 

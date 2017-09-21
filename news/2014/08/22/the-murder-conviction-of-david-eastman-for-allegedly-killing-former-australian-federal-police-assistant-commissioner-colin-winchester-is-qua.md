@@ -8,6 +8,7 @@ David Eastman&#039;s conviction has been quashed and he could soon walk from pri
 ### Source:
 
 1. [Brisbane Times](http://www.brisbanetimes.com.au/act-news/david-eastman-to-be-released-from-prison-after-conviction-quashed-20140822-10777y.html)
+1. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/1/0/7/f/d/n/image.related.articleLeadwide.620x349.10777y.png/1408875535444.jpg)
 
 ### Related:
 

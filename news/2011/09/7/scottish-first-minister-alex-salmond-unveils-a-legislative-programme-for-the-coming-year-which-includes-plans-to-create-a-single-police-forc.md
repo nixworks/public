@@ -8,6 +8,7 @@ Legislation to create a single police force and single fire service in Scotland 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-14804184)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55219000/jpg/_55219658_012834369-1.jpg)
 
 ### Related:
 
@@ -19,5 +20,5 @@ Legislation to create a single police force and single fire service in Scotland 
 6. [At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-bank-account-record.md) _Context: Alex Salmond, First Minister_
 7. [First Minister of Scotland Alex Salmond launches the "Yes" campaign for Scottish independence at Cineworld in Edinburgh. ](/news/2012/05/25/first-minister-of-scotland-alex-salmond-launches-the-yes-campaign-for-scottish-independence-at-cineworld-in-edinburgh.md) _Context: Alex Salmond, First Minister_
 8. [ Alex Salmond, the leader of the Scottish National Party, is elected as the first non-Labour First Minister of Scotland. ](/news/2007/05/16/alex-salmond-the-leader-of-the-scottish-national-party-is-elected-as-the-first-non-labour-first-minister-of-scotland.md) _Context: Alex Salmond, First Minister_
-9. [The Met Office issues travel warnings for parts of Wales, Scotland and England as Storm Doris, described as a "weather bomb", brings gales, heavy rain and snow to the United Kingdom. At least one person is killed. ](/news/2017/02/23/the-met-office-issues-travel-warnings-for-parts-of-wales-scotland-and-england-as-storm-doris-described-as-a-aweather-bomba-brings-gal.md) _Context: Scotland_
-10. [The Met Office issues warnings for parts of Scotland, Northern England and Northern Ireland as Storm Barbara prepares to make landfall. ](/news/2016/12/20/the-met-office-issues-warnings-for-parts-of-scotland-northern-england-and-northern-ireland-as-storm-barbara-prepares-to-make-landfall.md) _Context: Scotland_
+9. [ The First Minister of Scotland, Jack McConnell, announces to the Scottish Parliament that the Executive intends to introduce a law to prohibit smoking in all public enclosed spaces in Scotland. Both of the ruling coalition parties, as well as the main opposition party, the SNP, are in favour and the move is likely to come into effect in spring 2006. ](/news/2004/11/9/the-first-minister-of-scotland-jack-mcconnell-announces-to-the-scottish-parliament-that-the-executive-intends-to-introduce-a-law-to-prohi.md) _Context: First Minister, Scotland_
+10. [The Met Office issues travel warnings for parts of Wales, Scotland and England as Storm Doris, described as a "weather bomb", brings gales, heavy rain and snow to the United Kingdom. At least one person is killed. ](/news/2017/02/23/the-met-office-issues-travel-warnings-for-parts-of-wales-scotland-and-england-as-storm-doris-described-as-a-aweather-bomba-brings-gal.md) _Context: Scotland_

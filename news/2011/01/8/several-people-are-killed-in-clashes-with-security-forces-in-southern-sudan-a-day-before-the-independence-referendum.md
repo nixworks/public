@@ -8,6 +8,7 @@ At least 7 people feared dead in unrest involving south Sudan security forces in
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111813935854947.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/8/20111819737586472_20.jpg)
 
 ### Related:
 

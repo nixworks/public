@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Age](http://news.theage.com.au/breaking-news-world/german-minister-lashes-out-at-facebook-20100717-10f9u.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Incidents occur as crowds in Isfahan mourn death of dissident Hossein Ali Montaz
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/2009122384311481322.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article6966053.ece)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

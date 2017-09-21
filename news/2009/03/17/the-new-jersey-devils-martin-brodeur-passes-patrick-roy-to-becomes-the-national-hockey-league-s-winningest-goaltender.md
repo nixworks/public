@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://espn.go.com/nhl/recap?gameId=290317011)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

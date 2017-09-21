@@ -8,6 +8,7 @@ The brightly coloured plastic vuvuzela has achieved its own form of immortality 
 ### Source:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/08/19/2987714.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/image/911834-1x1-700x700.jpg)
 
 ### Related:
 

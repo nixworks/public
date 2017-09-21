@@ -8,3 +8,4 @@ A Greek journalist is arrested after publishing what he says is a list of Greeks
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20116548)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63764000/jpg/_63764729_63764728.jpg)

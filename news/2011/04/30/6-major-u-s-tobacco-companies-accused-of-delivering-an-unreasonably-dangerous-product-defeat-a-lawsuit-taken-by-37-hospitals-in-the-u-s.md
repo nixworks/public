@@ -9,6 +9,7 @@ Six major US tobacco companies defeat a lawsuit filed by hospitals seeking finan
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13246990)
 2. [Bloomberg / ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0430/breaking5.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52430000/jpg/_52430541_52430540.jpg)
 
 ### Related:
 

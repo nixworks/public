@@ -8,6 +8,7 @@ Earth-moving equipment maker Caterpillar Inc. said Friday will lay off an additi
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/business/breaking/chi-caterpillar-inc-will-lay-off-an-additional-300-employees-by-july-20130503,0,3526751.story)
+1. [Cover Image](http://www.trbimg.com/img-51845dcc/turbine/chi-caterpillar-inc-will-lay-off-an-additional-001/600/600x399)
 
 ### Related:
 

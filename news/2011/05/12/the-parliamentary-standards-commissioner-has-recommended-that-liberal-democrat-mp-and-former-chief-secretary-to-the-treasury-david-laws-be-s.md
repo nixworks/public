@@ -8,6 +8,7 @@ Lib Dem MP David Laws will be suspended from the Commons for seven days after be
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13371746)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52673000/jpg/_52673540_011941006-1.jpg)
 
 ### Related:
 

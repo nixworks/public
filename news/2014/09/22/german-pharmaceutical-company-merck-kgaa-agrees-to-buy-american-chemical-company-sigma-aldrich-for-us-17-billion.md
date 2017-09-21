@@ -8,6 +8,7 @@ German drug company Merck KGaA says it has agreed to buy St. Louis-based chemica
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/money/business/2014/09/22/merck-buys-sigma-aldrich/16037547/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

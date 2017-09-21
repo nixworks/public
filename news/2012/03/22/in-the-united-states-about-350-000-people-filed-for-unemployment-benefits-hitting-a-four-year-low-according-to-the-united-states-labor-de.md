@@ -8,6 +8,7 @@ The number of first-time filers for unemployment insurance fell to a four-year l
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/03/22/news/economy/unemployment-benefits/index.htm?iid=HP_LN&hpt=hp_t3)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/03/22/news/economy/unemployment-benefits/job-fair-line-nyc3-03071201.jc.01.jpg)
 
 ### Related:
 

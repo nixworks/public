@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/11/12/us-health-ebola-who-idUKKCN0IW25L20141112)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141112&t=2&i=991298380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAB11Z)
 
 ### Related:
 

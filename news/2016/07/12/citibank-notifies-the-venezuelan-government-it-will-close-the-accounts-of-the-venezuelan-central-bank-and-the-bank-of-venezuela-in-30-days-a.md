@@ -8,6 +8,7 @@ Citibank will close the accounts of the Venezuelan Central Bank and the Bank of 
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/07/13/Citibank-to-close-Venezuelan-government-accounts-Maduro-slams-financial-blockade/9901468420097/?spt=rln&or=4)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/9901468420097/2016/1/1e1d3ac80cc0875605f908f3f10819fe/v1.5/Citibank-to-close-Venezuelan-government-accounts-Maduro-slams-financial-blockade.jpg)
 
 ### Related:
 

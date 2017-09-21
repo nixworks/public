@@ -8,6 +8,7 @@ The tall figure was barely visible at first as it lay sideways in a muddy pit be
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/2017/03/09/archaeologists-hail-big-discovery-egypt-statue-depicting-ramses/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/r/4/r4yxjhyte6l9rp8cklal9rwehsnqtgbm-xlarge.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Russia scrambled a fighter jet on Tuesday to intercept a nuclear-capable U.S. B-
 
 1. [EURACTIV](http://www.euractiv.com/section/politics/news/russian-fighter-intercepts-us-bomber-over-baltic-sea/)
 2. [Reuters](http://www.reuters.com/article/us-russia-usa-bomber-idUSKBN18X166)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170606&t=2&i=1187819604&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED551DU)
 
 ### Related:
 

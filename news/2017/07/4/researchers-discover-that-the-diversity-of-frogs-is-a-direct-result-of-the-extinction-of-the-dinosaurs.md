@@ -8,6 +8,7 @@ Frogs are &quot;master survivors,&quot; able to take advantage of the ecological
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction)
+1. [Cover Image](https://media.npr.org/assets/img/2017/07/03/frog_wide-a484f2e9b1313987be577f86412d032bbd42bd5e.jpg?s=1400)
 
 ### Related:
 

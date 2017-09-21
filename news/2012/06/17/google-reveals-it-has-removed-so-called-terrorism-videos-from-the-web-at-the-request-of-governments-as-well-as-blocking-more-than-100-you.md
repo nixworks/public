@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-18479137)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60964000/jpg/_60964323_terror.jpg)
 
 ### Related:
 

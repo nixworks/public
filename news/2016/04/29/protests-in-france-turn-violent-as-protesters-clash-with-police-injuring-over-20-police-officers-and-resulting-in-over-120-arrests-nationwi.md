@@ -8,6 +8,7 @@ Two dozen police injured and more than 120 arrests during night of demonstration
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/29/france-labour-law-protests-turn-violent)
+1. [Cover Image](https://i.guim.co.uk/img/media/e2ab7c59268017b3ad70b31e3e8f23ccab4a7587/0_0_4928_2957/4928.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5f58d9472dfbb5f09b811c5b26bdaeca)
 
 ### Related:
 

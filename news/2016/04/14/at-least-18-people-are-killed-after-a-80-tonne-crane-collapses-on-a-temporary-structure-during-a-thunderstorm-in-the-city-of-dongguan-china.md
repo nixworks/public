@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/world/china/Crane-collapse-at-Chinese-construction-site-kills-18/articleshow/51820938.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/51820938.cms)
 
 ### Related:
 

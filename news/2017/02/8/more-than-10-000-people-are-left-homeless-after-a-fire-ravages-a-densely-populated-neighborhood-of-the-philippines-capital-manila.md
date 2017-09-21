@@ -8,6 +8,7 @@ A massive fire swept through crowded shanty town near the docks in Manila, destr
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/02/08/shanty-town-fire-philippines-leaves-15000-homeless/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/j/n/jnehlpote6zxkcugf1lozfxgf4gom2v-xlarge.jpg)
 
 ### Related:
 

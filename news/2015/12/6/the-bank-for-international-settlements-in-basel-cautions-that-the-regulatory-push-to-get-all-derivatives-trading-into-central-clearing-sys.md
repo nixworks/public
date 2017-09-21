@@ -8,6 +8,7 @@ The consequences of forcing more derivative trades through clearing houses are n
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-bis-derivatives-idUSKBN0TP0AR20151206#i0J5VpQesjwgDeZx.97)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151206&t=2&i=1100259773&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB506K)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [WFAA](http://www.wfaa.com/story/news/local/dallas-county/2015/09/05/woman-arrested-dallas-dentist-murder-case/71764896/)
+1. [Cover Image](http://content.wfaa.com/photo/2015/11/01/635768938232582664-jeepcherokke1_1519298_ver1.0.jpg)
 
 ### Related:
 

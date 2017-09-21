@@ -8,6 +8,7 @@ Police say two men were stabbed to death when they tried to intervene as a man s
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/ricky-john-best-taliesin-namkai-meche-named-as-victims-in-deadly-portland-stabbing/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/05/27/918a57df-18fa-4ccc-89b2-e54866551890/18698226-1345034025572809-6948661219417017973-n.jpg)
 
 ### Related:
 

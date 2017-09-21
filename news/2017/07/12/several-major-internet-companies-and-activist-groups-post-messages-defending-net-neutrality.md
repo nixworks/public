@@ -8,6 +8,7 @@ Today, some of the world’s biggest internet companies and activist groups are 
 ### Source:
 
 1. [The Verge](https://www.theverge.com/2017/7/12/15958030/net-neutrality-day-of-action-internet-companies-list)
+1. [Cover Image](https://cdn.vox-cdn.com/thumbor/fsx86T6xfvWxXjjziFO3RHbAIO8=/0x156:3000x1844/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/55676209/acastro_170619_1777_FCCserver2.1499873248.jpg)
 
 ### Related:
 

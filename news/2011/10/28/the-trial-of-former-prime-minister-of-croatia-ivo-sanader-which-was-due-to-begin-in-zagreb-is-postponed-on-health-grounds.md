@@ -8,6 +8,7 @@ The trial of former Croatian Prime Minister Ivo Sanader for corruption over a lo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15488522)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56336000/jpg/_56336522_013239444-1.jpg)
 
 ### Related:
 

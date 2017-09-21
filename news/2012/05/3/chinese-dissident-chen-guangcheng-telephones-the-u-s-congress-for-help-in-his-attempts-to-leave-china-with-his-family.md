@@ -8,6 +8,7 @@ Chinese dissident Chen Guangcheng telephones a US Congressional hearing to plead
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-17947131)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60024000/jpg/_60024779_9pb6y6hx.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Albuquerque Journal](https://www.abqjournal.com/953557/jewish-community-center-evacuated-for-second-time-in-three-weeks.html)
+1. [Cover Image](https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2017/02/20/jcc1-1000x667.jpg)
 
 ### Related:
 

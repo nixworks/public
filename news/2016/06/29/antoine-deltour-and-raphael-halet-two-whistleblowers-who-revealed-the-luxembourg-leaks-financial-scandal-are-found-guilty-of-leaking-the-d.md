@@ -8,6 +8,7 @@ Two whistleblowers in &quot;Luxleaks&quot; tax scandal get suspended jail terms 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36662636)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/D705/production/_90154055_mediaitem90154053.jpg)
 
 ### Related:
 

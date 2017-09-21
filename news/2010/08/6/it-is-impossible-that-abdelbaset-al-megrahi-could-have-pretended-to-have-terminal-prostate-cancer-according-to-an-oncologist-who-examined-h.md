@@ -8,6 +8,7 @@ Professor Karol Sikora, who examined Abdelbaset al-Megrahi in jail, insists the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-10878514)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/48621000/jpg/_48621630_008452630-1.jpg)
 
 ### Related:
 

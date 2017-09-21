@@ -9,6 +9,7 @@
 
 1. [AP](http://www.washingtonpost.com/wp-dyn/content/article/2006/06/27/AR2006062700055.html)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=azTIQJ3kJLxM&refer=top_world_news)
+2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

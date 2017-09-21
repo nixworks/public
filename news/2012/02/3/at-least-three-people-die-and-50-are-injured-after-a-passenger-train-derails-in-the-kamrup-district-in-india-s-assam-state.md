@@ -8,6 +8,7 @@ At least three people have been killed and 50 others have been injured after sev
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/guwahati-bound-passenger-train-derails-in-assam-50-injured-172909)
+1. [Cover Image](http://i.ndtvimg.com/mt/2012-02/Assam-train-accident-295x200_t2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The shuttle landed at 8:39 p.m., roughly an hour after Capt. Dominic L. Gorie fi
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/03/26/science/space/26cnd-shuttle.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/03/26/science/27shuttle02_75.jpg)
 
 ### Related:
 

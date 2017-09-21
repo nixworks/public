@@ -13,3 +13,4 @@ One of the killers of UK toddler James Bulger has been put back behind bars afte
 4. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/murderer-british-toddler-back-jail)
 5. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10629641)
 6. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/james-bulger-killer-back-behind-bars-20100303-pgx8.html)
+6. [Cover Image](https://img.rasset.ie/00030f12-1600.jpg)

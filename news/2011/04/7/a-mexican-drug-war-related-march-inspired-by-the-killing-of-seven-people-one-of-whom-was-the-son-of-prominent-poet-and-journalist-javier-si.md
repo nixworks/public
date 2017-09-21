@@ -9,6 +9,7 @@ As Mexicans march in protest at the drug violence sweeping the nation, at least 
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12992664)
 2. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-mexico-marches-20110407,0,1152174.story)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

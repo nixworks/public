@@ -8,6 +8,7 @@ About 84 children have died over the past three months after taking a teething d
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2009/02/06/2484846.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Police in Athens destroy a letter bomb sent to the French embassy, the 14th susp
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gbjsLiiD5uTPICdvAxa4AeQiQpeg?docId=CNG.e8b48c4874bff22ac42fef23e4e46678.7a1)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11692949)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

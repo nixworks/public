@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/politics/elections/2016/130498-lawyers-human-rights-defenders-advocates-leni-robredo)
+1. [Cover Image](https://assets.rappler.com/E43181CFD6E64AFC89732AE4927C9E7F/img/8796FBA4444E4823853568ACAEE1E693/Robredo-visits-roxas-city-20160123-003.jpg)
 
 ### Related:
 

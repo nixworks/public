@@ -9,6 +9,7 @@ A ruling would let providers slow down access to certain content and favor their
 
 1. [The New York Times](http://www.nytimes.com/2010/04/07/technology/07net.html)
 2. [Wired News](http://www.wired.com/epicenter/2010/04/fcc-next/)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

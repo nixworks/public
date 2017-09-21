@@ -10,6 +10,7 @@ Scientists say they have found a large helium gas field in Tanzania, amid concer
 1. [BBC](http://www.bbc.com/news/science-environment-36651048)
 2. [Goldschmidt conference](http://goldschmidt.info/2016/)
 3. [Phys.org](http://phys.org/news/2016-06-huge-helium-discovery-life-saving.html)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FF0D/production/_90139256_c0087402-helium_ion_microscope-spl.jpg)
 
 ### Related:
 

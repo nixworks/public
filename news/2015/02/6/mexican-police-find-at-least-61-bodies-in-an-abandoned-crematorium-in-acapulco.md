@@ -8,6 +8,7 @@ Mexican police investigate after 60 bodies are found piled up in an abandoned cr
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-31169312)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80839000/png/_80839057_capture.png)
 
 ### Related:
 

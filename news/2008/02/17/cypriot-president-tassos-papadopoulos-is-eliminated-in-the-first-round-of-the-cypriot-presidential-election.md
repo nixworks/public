@@ -8,6 +8,7 @@ Cypriot President Tassos Papadopoulos was eliminated in the first round of a pre
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSL1643082220080217)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080217&t=2&i=3185741&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-17T053043Z_01_L16430822_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

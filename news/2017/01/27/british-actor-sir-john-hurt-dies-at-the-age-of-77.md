@@ -8,3 +8,4 @@ The British actor of stage and screen also received an Academy Award nom for &#0
 ### Source:
 
 1. [Hollywood Reporter](http://www.hollywoodreporter.com/news/john-hurt-dead-elephant-man-809521)
+1. [Cover Image](http://cdn3.thr.com/sites/default/files/2017/01/john_hurt.jpg)

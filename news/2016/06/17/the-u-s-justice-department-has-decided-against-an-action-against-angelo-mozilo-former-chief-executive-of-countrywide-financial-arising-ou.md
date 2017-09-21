@@ -8,6 +8,7 @@ Former Countrywide Financial Corp CEO Angelo Mozilo and other executives will no
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-countrywide-lawsuit-mozilo-idUSKCN0Z326X)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160617&t=2&i=1141808999&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5G1BB)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Al-Bashir tells Darfur rebels there will be no more peace talks if no deal is re
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012307480550532.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/18/2010121821259191734_20.jpg)
 
 ### Related:
 

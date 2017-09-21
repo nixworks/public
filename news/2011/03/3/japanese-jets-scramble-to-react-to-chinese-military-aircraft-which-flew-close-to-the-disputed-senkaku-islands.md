@@ -8,6 +8,7 @@ Japan scrambles jets as two Chinese military aircraft approach disputed East Chi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12632042)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/51500000/jpg/_51500311_010197814-1.jpg)
 
 ### Related:
 

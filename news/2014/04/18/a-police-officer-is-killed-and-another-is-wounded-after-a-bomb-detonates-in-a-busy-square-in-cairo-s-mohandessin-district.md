@@ -8,6 +8,7 @@ Security official says bomb detonated next to traffic post in Lebanon Square in 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/apr/18/cairo-bomb-explosion-kills-one-police-officer)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/4/18/1397855992861/Liberation-Square-in-Cair-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d67f3e62722dcf93fa8fa9bf40cf2714)
 
 ### Related:
 

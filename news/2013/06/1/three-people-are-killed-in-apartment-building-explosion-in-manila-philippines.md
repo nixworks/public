@@ -8,6 +8,7 @@ An explosion that ripped through a Manila apartment complex has left three peopl
 ### Source:
 
 1. [Sydney Morning Herald'' via AFP](http://news.smh.com.au/breaking-news-world/three-dead-in-manila-apartment-blast-20130601-2ni4t.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

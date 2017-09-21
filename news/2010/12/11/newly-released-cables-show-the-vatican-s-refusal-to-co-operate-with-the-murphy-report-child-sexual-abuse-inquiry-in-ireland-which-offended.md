@@ -14,6 +14,7 @@ Requests for information from the Murphy Commission &ldquo;offended many in the 
 5. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/wikileaks-pope-anglicans-catholics)
 6. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/wikileaks-vatican-child-sex-abuse-investigation)
 7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1211/breaking3.html?via=mr)
+7. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

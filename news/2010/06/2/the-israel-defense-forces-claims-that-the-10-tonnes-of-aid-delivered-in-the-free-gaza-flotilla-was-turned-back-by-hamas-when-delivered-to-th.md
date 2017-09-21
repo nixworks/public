@@ -19,6 +19,7 @@ Ankara threatens to cut Israel ties unless flotilla activists are returned by We
 10. [The Guardian](http://www.guardian.co.uk/world/2010/jun/02/israel-deport-gaza-flotilla-activists)
 11. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100602/FOREIGN/706019813/1002/FOREIGN)
 12. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13330246.htm)
+12. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

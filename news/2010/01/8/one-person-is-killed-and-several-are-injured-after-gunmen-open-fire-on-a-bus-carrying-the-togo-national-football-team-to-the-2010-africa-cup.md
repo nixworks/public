@@ -11,6 +11,7 @@ Togo threaten to withdraw from competition after a coach carrying the country&rs
 2. [ESPN](http://soccernet.espn.go.com/news/story?id=722453&sec=global&campaign=rss&source=soccernet&cc=5739)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/6953884/Togo-we-cannot-play-after-this-bloodshed.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/jan/08/togo-football-team-ambushed-angola)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01556/togo-team_1556029a.jpg)
 
 ### Related:
 

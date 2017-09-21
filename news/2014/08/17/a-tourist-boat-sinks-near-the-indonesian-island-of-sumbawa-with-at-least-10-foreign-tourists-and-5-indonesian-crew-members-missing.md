@@ -8,6 +8,7 @@ Twenty-three people have been rescued but two remain missing after a boat carryi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-28826352)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77001000/jpg/_77001605_hi023537927.jpg)
 
 ### Related:
 

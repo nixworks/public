@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSLR14998720090627)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090627&t=2&i=10659761&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-27T135844Z_01_BTRE55Q12U600_RTROPTP_0_LEBANON-HARIRI)
 
 ### Related:
 

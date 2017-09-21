@@ -12,6 +12,7 @@ The ACLU filed a legal challenge to President Donald Trump&#039;s order to deny 
 3. [CNN](http://edition.cnn.com/2017/01/28/middleeast/iran-will-ban-us-citizens/)
 4. [Reuters](http://live.reuters.com/Event/Election_2016)
 5. [The New York Times](https://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html)
+5. [Cover Image](https://images.scribblelive.com/2017/2/4/c8f5c728-17eb-4d28-a49c-2d13215900a9.jpg)
 
 ### Related:
 

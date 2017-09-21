@@ -10,6 +10,7 @@
 1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7536666.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/20114261370629175.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-13190411)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/26/2011426142618855811_20.jpg)
 
 ### Related:
 

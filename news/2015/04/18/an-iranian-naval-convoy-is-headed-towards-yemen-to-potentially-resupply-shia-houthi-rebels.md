@@ -10,6 +10,7 @@ U.S. officials are concerned about a confrontation with Saudi Arabia.
 1. [AFP via Maktoob Yahoo!](https://en-maktoob.news.yahoo.com/least-27-dead-fighting-yemens-taez-084813389.html)
 2. [Reuters](http://uk.reuters.com/article/2015/04/18/uk-yemen-security-iran-idUKKBN0N90S020150418)
 3. [The Hill](http://thehill.com/policy/defense/239295-us-officials-concerned-about-iranian-convoy-headed-towards-yemen)
+3. [Cover Image](http://thehill.com/sites/default/files/article_images/yemenairstrike_041715getty.jpg)
 
 ### Related:
 

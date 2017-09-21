@@ -8,6 +8,7 @@ A rare comet from the Ort Cloud races past Mars at a distance less than half tha
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2014-10-20/comet-makes-rare-close-pass-by-mars-as-spacecraft-watch/5825528)
+1. [Cover Image](http://www.abc.net.au/news/image/5825588-1x1-700x700.jpg)
 
 ### Related:
 

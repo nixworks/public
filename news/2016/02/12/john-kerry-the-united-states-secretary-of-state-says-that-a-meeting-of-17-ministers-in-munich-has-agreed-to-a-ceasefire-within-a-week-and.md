@@ -8,6 +8,7 @@ Ministers holding crisis talks over Syria agree to cease hostilities within a we
 ### Source:
 
 1. [Reuters via ABC News](http://www.abc.net.au/news/2016-02-12/kerry-says-cessation-of-hostilities-in-syria-agreed/7162926)
+1. [Cover Image](http://www.abc.net.au/news/image/7044468-1x1-700x700.jpg)
 
 ### Related:
 

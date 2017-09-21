@@ -9,6 +9,7 @@ Germany&#039;s parliament overwhelmingly endorses a second rescue package for Gr
 
 1. [ABC News](http://www.abc.net.au/news/2012-02-28/bundestag-votes-for-greek-bailout/3856162?section=business)
 2. [AP via ''Washington Post](http://www.washingtonpost.com/business/markets/german-parliament-to-vote-on-new-greek-bailout-amid-tensions-over-way-forward/2012/02/27/gIQAqrQFdR_story.html)
+2. [Cover Image](http://www.abc.net.au/news/image/3754732-1x1-700x700.jpg)
 
 ### Related:
 

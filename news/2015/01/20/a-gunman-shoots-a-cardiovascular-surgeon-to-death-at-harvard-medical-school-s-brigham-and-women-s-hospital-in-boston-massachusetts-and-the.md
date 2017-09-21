@@ -8,6 +8,7 @@ Still not clear why man shot cardiac surgeon, then himself.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2015/01/21/boston-hospital-shooting/22096101/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Demonstrators in Ankara protested a bill proposed by government that seeks to bo
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/03/201232920153676163.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/29/2012329202146536734_20.jpg)
 
 ### Related:
 

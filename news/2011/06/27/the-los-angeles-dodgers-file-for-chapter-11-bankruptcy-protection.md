@@ -8,6 +8,7 @@ The Los Angeles Dodgers filed for bankruptcy protection in a Delaware court Mond
 ### Source:
 
 1. [ESPN.com](http://sports.espn.go.com/los-angeles/mlb/news/story?id=6708046)
+1. [Cover Image](http://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Ftex.png)
 
 ### Related:
 

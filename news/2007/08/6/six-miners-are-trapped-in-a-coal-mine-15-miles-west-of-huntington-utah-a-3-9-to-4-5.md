@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN0641764920070806?src=080607_1406_TOPSTORY_coal_mine_collapses)
 2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/uu00007535.php)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070806&t=2&i=1255435&w=&fh=545px&fw=&ll=&pl=&sq=&r=1255435)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/11/us-usa-sodaban-appeal-idUSBRE95A09M20130611)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130611&t=2&i=740126341&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95A0Q7400)
 
 ### Related:
 

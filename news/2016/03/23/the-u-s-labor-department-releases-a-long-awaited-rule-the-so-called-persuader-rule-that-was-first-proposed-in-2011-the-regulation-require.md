@@ -9,6 +9,7 @@ The Department of Labor on Wednesday released a long-awaited rule requiring comp
 
 1. [Reuters](http://www.reuters.com/article/us-usa-labor-persuader-idUSKCN0WP2GX)
 2. [The Hill](http://thehill.com/regulation/pending-regs/274022-dol-unveils-persuader-rule)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

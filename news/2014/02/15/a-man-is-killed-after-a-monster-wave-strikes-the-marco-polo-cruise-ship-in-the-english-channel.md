@@ -10,6 +10,7 @@ A passenger on a cruise ship has been killed in the English Channel and another 
 1. [BBC](http://www.bbc.co.uk/news/uk-26200497)
 2. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/floods-may-get-worse-warns-cameron-30011988.html)
 3. [The Independent](http://www.independent.co.uk/news/uk/home-news/uk-weather-man-killed-after-huge-wave-batters-cruise-ship-marco-polo-in-english-channel-as-storms-set-to-continue-9129944.html)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/02/14/22/marco-polo.jpg)
 
 ### Related:
 

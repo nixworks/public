@@ -9,6 +9,7 @@ A 16-year-old Russian ban on importing British beef and lamb is to be lifted.
 
 1. [BBC](http://www.bbc.co.uk/news/business-20454206)
 2. [The Telegraph](http://www.telegraph.co.uk/travel/destinations/europe/russia/9697289/Russia-lifts-16-year-ban-on-British-beef-and-lamb-imports.html)
+2. [Cover Image](http://www.telegraph.co.uk/content/dam/Travel/leadAssets/24/05/Casserole-summary_2405597a-xlarge.jpg)
 
 ### Related:
 

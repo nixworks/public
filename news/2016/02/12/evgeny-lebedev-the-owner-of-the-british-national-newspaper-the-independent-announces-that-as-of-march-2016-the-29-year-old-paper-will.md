@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-britain-newspaper-independent-idUKKCN0VL17A)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160213&t=2&i=1117123772&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1C00U)
 
 ### Related:
 

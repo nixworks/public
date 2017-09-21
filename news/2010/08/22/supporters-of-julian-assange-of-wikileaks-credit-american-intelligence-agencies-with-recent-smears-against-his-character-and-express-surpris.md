@@ -9,6 +9,7 @@ Wikileaks founder says Australian intelligence warned him on August 11 to expect
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010822135529927326.html)
 2. [The Guardian](http://www.guardian.co.uk/media/2010/aug/21/julian-assange-wikileaks-arrest-warrant-sweden)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

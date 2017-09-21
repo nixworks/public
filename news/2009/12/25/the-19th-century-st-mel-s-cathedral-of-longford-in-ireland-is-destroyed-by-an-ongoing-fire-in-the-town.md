@@ -9,6 +9,7 @@ The Bishop of Ardagh and Clonmacnoise has said he will restore St Mel&#39;s Cath
 
 1. [Longford Leader](http://www.longfordleader.ie/news/St-Mel39s-Cathedral-destroyed-by.5938801.jp)
 2. [RTÉ](http://www.rte.ie/news/2009/1225/longford.html)
+2. [Cover Image](https://img.rasset.ie/0002def7-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Roger Ailes, who transformed Fox News Channel from a start-up into one of the na
 ### Source:
 
 1. [Variety](http://variety.com/2016/tv/news/roger-ailes-fox-news-out-1201817638/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2016/07/roger-ailes-fired-fox-news.jpg?w=1000&amp;h=563&amp;crop=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Kurdish forces in northern Iraq are largely in control of the Mosul dam previous
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28826349)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76997000/jpg/_76997381_76997377.jpg)
 
 ### Related:
 

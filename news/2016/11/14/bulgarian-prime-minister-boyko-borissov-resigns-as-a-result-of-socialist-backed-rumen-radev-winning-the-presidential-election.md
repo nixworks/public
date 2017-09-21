@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-bulgaria-election-government-idUSKBN1390WE?il=0)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161114&t=2&i=1161609535&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAD0Q1)
 
 ### Related:
 

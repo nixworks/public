@@ -8,6 +8,7 @@ Former PM Margaret Thatcher was told a senior Merseyside police officer blamed &
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17382896)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59090000/jpg/_59090648_005431466-2.jpg)
 
 ### Related:
 

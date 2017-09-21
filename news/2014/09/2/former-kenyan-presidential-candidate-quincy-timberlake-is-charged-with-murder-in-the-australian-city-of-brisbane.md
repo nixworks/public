@@ -8,6 +8,7 @@ Former presidential hopeful charged with murder of boy.
 ### Source:
 
 1. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/kenyan-presidential-hopeful-quincy-timberlake-charged-with-murder-in-brisbane-20140902-10bftn.html)
+1. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/1/0/b/g/i/5/image.related.articleLeadwide.620x349.10bftn.png/1410496235545.jpg)
 
 ### Related:
 

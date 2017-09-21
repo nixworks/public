@@ -11,6 +11,7 @@ The man suspected of shooting Russian journalist Anna Politkovskaya in 2006 is a
 2. [CNN](http://www.cnn.com/2011/WORLD/europe/05/31/russia.journalist.killed.arrest/index.html)
 3. [RIA Novosti](http://en.rian.ru/russia/20110531/164351457.html)
 4. [Reuters via ''The Guardian](http://www.guardian.co.uk/media/2011/may/31/anna-politkovskaya-murder-suspect-arrested)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53077000/jpg/_53077288_003143508-1.jpg)
 
 ### Related:
 

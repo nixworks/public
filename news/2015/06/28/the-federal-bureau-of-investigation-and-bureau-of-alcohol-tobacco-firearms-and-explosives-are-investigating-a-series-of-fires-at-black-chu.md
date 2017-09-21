@@ -8,6 +8,7 @@ There’s no indication the fires in states across the South are connected, a sp
 ### Source:
 
 1. [Buzzfeed](http://www.buzzfeed.com/darrensands/fbi-investigating-black-church-fires#.bplMlB4VkY)
+1. [Cover Image](https://img.buzzfeed.com/buzzfeed-static/static/2015-06/28/16/campaign_images/webdr12/fbi-investigating-black-church-fires-2-18704-1435523068-1_dblbig.jpg)
 
 ### Related:
 

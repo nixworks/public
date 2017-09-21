@@ -9,6 +9,7 @@ Dozens of firefighters battle a blaze on the top floor of the famous Paris Ritz 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35351013)
 2. [Reuters](http://www.reuters.com/article/us-france-fire-ritz-idUSKCN0UX18S)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/12BB8/production/_87782767_aad98560-04b5-4f96-bbb8-3bc643b8acc9.jpg)
 
 ### Related:
 

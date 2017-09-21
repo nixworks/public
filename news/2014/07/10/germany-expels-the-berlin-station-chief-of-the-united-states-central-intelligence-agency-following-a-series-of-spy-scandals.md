@@ -8,6 +8,7 @@ Germany&#039;s decision to expel the US CIA station chief in Berlin has met with
 ### Source:
 
 1. [AAP via SBS Australia](http://www.sbs.com.au/news/article/2014/07/11/germany-expels-top-cia-agent-over-espionage-claims)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/us_embassy_berlin_aap.jpg)
 
 ### Related:
 

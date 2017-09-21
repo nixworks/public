@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8453321.stm)
 2. [Vanguard](http://www.vanguardngr.com/2010/01/12/yar%E2%80%99adua-speaks-at-last/)
+2. [Cover Image](http://d19lga30codh7.cloudfront.net/wp-content/uploads/2010/01/turaiturai480-300x268.jpg)
 
 ### Related:
 

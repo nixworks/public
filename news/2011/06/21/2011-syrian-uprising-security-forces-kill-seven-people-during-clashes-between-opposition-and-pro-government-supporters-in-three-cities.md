@@ -8,6 +8,7 @@ Activists say seven people killed as government supporters and opponents clash i
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162115512111728.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/21/2011621163544884734_20.jpg)
 
 ### Related:
 

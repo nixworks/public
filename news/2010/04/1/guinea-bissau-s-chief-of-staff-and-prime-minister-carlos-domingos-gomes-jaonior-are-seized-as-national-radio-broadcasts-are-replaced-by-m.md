@@ -11,6 +11,7 @@ Guinea&#x20;Bissau&#x20;Prime&#x20;Minister&#x20;Carlos&#x20;Gomes&#x20;Junior&#
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8599070.stm)
 3. [CNN](http://edition.cnn.com/2010/WORLD/africa/04/01/Guinear.Bissau.arrests/index.html)
 4. [France24](http://www.france24.com/en/20100401-soldiers-arrest-guinea-bissau-prime-minister-carlos-gomes-junior-africa-military)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/EN-guinea-bissau-m.JPG)
 
 ### Related:
 

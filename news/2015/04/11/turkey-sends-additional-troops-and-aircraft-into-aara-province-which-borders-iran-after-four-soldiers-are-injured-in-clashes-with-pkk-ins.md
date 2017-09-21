@@ -8,6 +8,7 @@ Five Kurdish insurgents were killed in a clash with Turkish forces in the easter
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/04/11/uk-turkey-kurds-idUKKBN0N206W20150411)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Opposition leaders say the call is a tactic to divert attention from crackdown o
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/200910117636509521.html)
 2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL1213668)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

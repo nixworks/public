@@ -9,6 +9,7 @@ UAE warplanes carried out air strikes on Yemeni rebels Saturday as Emiratis mour
 
 1. [Reuters](http://www.reuters.com/article/2015/09/04/us-yemen-security-bahrain-idUSKCN0R41OS20150904)
 2. [Yahoo](http://news.yahoo.com/uae-says-several-soldiers-killed-yemen-094850620.html)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/X3qwjac1I6nwO2LQ4X6F9A--/aD02ODQ7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-REF-TS-Nic6482659-1-1-0.jpg)
 
 ### Related:
 

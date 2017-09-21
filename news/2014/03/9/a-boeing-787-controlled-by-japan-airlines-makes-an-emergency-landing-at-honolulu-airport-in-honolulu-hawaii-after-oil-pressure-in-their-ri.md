@@ -8,6 +8,7 @@ The Boeing 787 had engine troubles, forcing it to land early; same plane had exp
 ### Source:
 
 1. [AP via CBS](http://www.cbsnews.com/news/japan-airlines-787-makes-emergency-landing-in-honolulu/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/09/40e857d4-3459-4f90-8117-b407d3490978/japan-airlines-462699333.jpg)
 
 ### Related:
 

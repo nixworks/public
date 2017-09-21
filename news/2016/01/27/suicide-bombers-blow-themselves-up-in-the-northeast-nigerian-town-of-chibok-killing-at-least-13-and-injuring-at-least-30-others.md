@@ -11,6 +11,7 @@ At least 13 people were killed on Wednesday when three suicide bombers blew them
 2. [Reuters](http://www.reuters.com/article/us-nigeria-violence-idUSKCN0V522Q)
 3. [The News](http://thenewsnigeria.com.ng/2016/01/suicide-bombing-cameroon-shuts-border-markets-with-nigeria/)
 4. [Voice of America](http://www.voanews.com/content/cameroon-closes-border-markets-after-boko-haram-attack/3164544.html)
+4. [Cover Image](https://s.yimg.com/uu/api/res/1.2/fTRBgmwbmsRQZ9hnsvTBwQ--/aD03Njg7dz04MzM7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/d8a6533603b233c36d68ef7194d89f699a73b182.jpg)
 
 ### Related:
 

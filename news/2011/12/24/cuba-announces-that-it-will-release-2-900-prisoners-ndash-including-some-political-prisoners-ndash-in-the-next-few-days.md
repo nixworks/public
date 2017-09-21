@@ -8,6 +8,7 @@ Cuban President Raul Castro says 2,900 prisoners, including some convicted of po
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16324331)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57561000/jpg/_57561555_013580669-1.jpg)
 
 ### Related:
 

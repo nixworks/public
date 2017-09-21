@@ -8,6 +8,7 @@ Rep. Paul Ryan, R-Wisc., informed House Republicans late Thursday that he would 
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/politics/congress/paul-ryan-says-hell-run-house-speaker-n449631?cid=eml_nbn_20151022)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_43/1269661/151020-paul-ryan-jsw-847p_cb363c22563a66e355641dbd5fbc2028.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

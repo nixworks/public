@@ -8,6 +8,7 @@ The Hubble Space Telescope has now seen to within &#034;a stone&#146;s throw&#03
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2004/03/09/science/space/09CND-HUBB.html?ex=1079499600&amp;en=cfad33ff91ec4f91&amp;ei=5062&amp;partner=GOOGLE)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

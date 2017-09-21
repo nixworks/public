@@ -8,6 +8,7 @@ Update on &apos;Essential Politics July archives&apos;
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-sac-essential-politics-updates-obama-biden-endorse-kamala-harris-for-1468889660-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-57b7444f/turbine/la-pol-sac-essential-politics-updates-obama-biden-endorse-kamala-harris-for-1468889660)
 
 ### Related:
 

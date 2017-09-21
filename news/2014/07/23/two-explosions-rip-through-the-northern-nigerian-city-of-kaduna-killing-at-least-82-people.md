@@ -8,6 +8,7 @@ By Garba Muhammed KADUNA Nigeria (Reuters) - At least 82 people were killed on W
 ### Source:
 
 1. [Yahoo News](http://news.yahoo.com/blast-north-nigerian-city-kaduna-kills-several-122045415.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/QbU4hr.OgiDnfKHBV11BoA--/aD0yNTkyO3c9MzcxMTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://l.yimg.com/os/publish-images/news/2014-07-23/dd48cd80-127f-11e4-953c-03a84c2b8c3b_Kaduna.jpg)
 
 ### Related:
 

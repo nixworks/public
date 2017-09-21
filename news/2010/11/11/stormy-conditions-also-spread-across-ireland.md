@@ -9,6 +9,7 @@ Stormy conditions have battered the country, with strong winds and heavy rain sp
 
 1. [RTÉ](http://www.rte.ie/news/2010/1111/weather.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1111/breaking4.html?via=mr)
+2. [Cover Image](https://img.rasset.ie/0003e842-1600.jpg)
 
 ### Related:
 

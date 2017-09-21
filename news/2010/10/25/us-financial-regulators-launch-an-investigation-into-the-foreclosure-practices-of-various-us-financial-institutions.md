@@ -8,6 +8,7 @@ US banking regulators plan their own investigation into whether lenders were wro
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/business-11619724)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Airline operations were expected to return to normal Wednesday after a mysteriou
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/chi-faa-glitch-webaug27,0,4886632.story?track=rss)
 2. [MarketWatch](http://www.marketwatch.com/news/story/technical-glitch-causes-flight-delays/story.aspx?guid=%7B30B72F2B%2DB304%2D47F4%2DA108%2DF5F60FCFC835%7D)
+2. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

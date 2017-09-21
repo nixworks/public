@@ -8,6 +8,7 @@ Maria Sharapova claimed the second grand slam of her fledgling career with a con
 ### Source:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2006-09-10/sharapova-wins-us-open/1260210)
+1. [Cover Image](http://www.abc.net.au/news/image/1260214-1x1-700x700.jpg)
 
 ### Related:
 

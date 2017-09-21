@@ -8,6 +8,7 @@ Warning comes after hundreds of Kenyan troops crossed into Somalia to pursue al-
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/10/20111017171543493140.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/8/31/201183112149417790_20.jpg)
 
 ### Related:
 

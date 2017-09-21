@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7072554.stm)
 2. [El Universal](http://www.eluniversal.com.mx/primera/29850.html)
+2. [Cover Image](/img/2007/11/Pri/tab1_int.jpg)
 
 ### Related:
 

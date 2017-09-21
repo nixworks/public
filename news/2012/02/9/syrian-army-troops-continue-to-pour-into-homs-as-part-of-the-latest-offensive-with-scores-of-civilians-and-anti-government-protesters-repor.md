@@ -8,6 +8,7 @@ Syrian government artillery barrages killed dozens of civilians in Homs on Thurs
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/09/us-syria-idUSTRE80S08620120209)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120209&t=2&i=568857561&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81810V000)
 
 ### Related:
 

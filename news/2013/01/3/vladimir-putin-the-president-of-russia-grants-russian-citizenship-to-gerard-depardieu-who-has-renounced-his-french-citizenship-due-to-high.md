@@ -8,6 +8,7 @@ Russia grants citizenship to Gerard Depardieu, who has threatened to quit France
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2013-01-03/putin-grants-depardieu-russian-citizenship/4452142)
+1. [Cover Image](http://www.abc.net.au/news/image/2406414-1x1-700x700.jpg)
 
 ### Related:
 

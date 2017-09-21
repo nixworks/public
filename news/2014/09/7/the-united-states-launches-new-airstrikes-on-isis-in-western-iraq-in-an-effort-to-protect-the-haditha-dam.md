@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2014/09/07/us-launches-new-airstrikes-against-isis-in-western-iraq/)
+1. [Cover Image](//a57.foxnews.com/media2.foxnews.com/thumbnails/i/090614/0/0/090614_anhq_NATO_640.jpg?ve=1)
 
 ### Related:
 

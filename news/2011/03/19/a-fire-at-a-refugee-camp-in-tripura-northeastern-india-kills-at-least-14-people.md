@@ -9,6 +9,7 @@ Most of the deceased were children who were sheltered in Naisinghpara camp in No
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/14-burnt-to-death-in-Tripura-unofficial-figure-19/articleshow/7743499.cms)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/03/19/Fire-kills-at-least-14-refugees-in-India/UPI-82651300547392/)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

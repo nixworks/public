@@ -8,6 +8,7 @@ The analogue TV signal in NI will be turned off permanently on Tuesday night, co
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20033934)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53094000/jpg/_53094566__52636752_switchover-1.jpg)
 
 ### Related:
 

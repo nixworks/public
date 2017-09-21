@@ -8,6 +8,7 @@ In the fourth attack since 2007, heavily-armed terrorists, including suicide bom
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/india-news/9-killed-in-attack-on-indian-consulate-in-afghanistans-jalalabad-1283335)
+1. [Cover Image](http://i.ndtvimg.com/i/2016-03/jalabad-attack_650x400_81456927873.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Boost for talks backed by Russia and Turkey as opposition groups consent to send
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jan/16/syrian-rebels-agree-to-attend-peace-talks-kazakhstan)
+1. [Cover Image](https://i.guim.co.uk/img/media/ed7f0c9c4f5440db68f33ee1b2784a5422974094/0_30_5760_3456/master/5760.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=3c335a3e3e2654e154efe67aac57084a)
 
 ### Related:
 

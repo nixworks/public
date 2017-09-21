@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8636455.stm)
 2. [CBS News](http://www.cbsnews.com/8301-504083_162-20003151-504083.html)
 3. [The Guardian](http://www.guardian.co.uk/tv-and-radio/2010/apr/22/south-park-censored-fatwa-muhammad)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)
 
 ### Related:
 

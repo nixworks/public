@@ -8,6 +8,7 @@ Bank of America agreed to pay nearly $800 million in fines and restitution to se
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/09/us-financial-regulations-bank-of-am-idUSBREA381FF20140409)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140409&t=2&i=881930067&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3819M600)
 
 ### Related:
 

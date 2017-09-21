@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21875157)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-2296862/One-dead-injured-horrific-German-police-helicopter-crash.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66524000/jpg/_66524400_017553480-1.jpg)
 
 ### Related:
 

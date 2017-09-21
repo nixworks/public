@@ -8,3 +8,4 @@ Political parties welcome a report calling for banks to separate their retail ba
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14877865)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55302000/jpg/_55302297_tln7l4rf.jpg)

@@ -9,6 +9,7 @@ Adobe said it plans to stop updating and distributing its Flash Player by the en
 
 1. [CNN](http://money.cnn.com/2017/07/25/technology/adobe-killing-flash/index.html)
 2. [Reuters](https://www.reuters.com/article/us-adobe-systems-flash-idUSKBN1AA22R)
+2. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/150714102052-adobe-flash-logo-780x439.jpg)
 
 ### Related:
 

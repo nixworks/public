@@ -9,6 +9,7 @@ Inquiry looking into press standards told ex-editor of News of the World tabloid
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/2012510174542885161.html)
 2. [The Guardian](http://www.guardian.co.uk/media/2012/may/10/andy-coulson-top-secret-material)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/8/20117861956786734_20.jpg)
 
 ### Related:
 

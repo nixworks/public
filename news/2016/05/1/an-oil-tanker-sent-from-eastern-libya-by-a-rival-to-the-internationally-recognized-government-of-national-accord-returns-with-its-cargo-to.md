@@ -8,6 +8,7 @@ A tanker with oil from eastern Libya returned with its cargo to the North Africa
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-01/tanker-with-disputed-libyan-oil-returns-to-country-for-unloading)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in.i15N3zKxk/v2/1200x716.jpg)
 
 ### Related:
 

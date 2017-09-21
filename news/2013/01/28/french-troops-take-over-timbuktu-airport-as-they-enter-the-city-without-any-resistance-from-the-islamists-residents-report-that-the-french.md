@@ -11,6 +11,7 @@ French-led troops in Mali have entered the historic city of Timbuktu, after capt
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21227053)
 3. [Sky News](http://news.sky.com/story/1044015/mali-french-troops-advance-in-timbuktu)
 4. [The Guardian](http://www.guardian.co.uk/world/2013/jan/28/mali-timbuktu-library-ancient-manuscripts)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65557000/jpg/_65557376_65557375.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Donald Trump was formally chosen as the Republican Party&#x27;s presidential nom
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/2016-conventions/trump-set-become-gop-s-official-presidential-nominee-n612616?cid=eml_nbn_20160719)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_29/1628601/577709794_942362406637aafc58d058d0bb2f3d1b.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

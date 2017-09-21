@@ -8,6 +8,7 @@ Rupert Murdoch tells the Leveson Inquiry into media ethics there was a &quot;cov
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17850093)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59874000/jpg/_59874391_jex_1389439_de27-1.jpg)
 
 ### Related:
 

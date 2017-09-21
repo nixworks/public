@@ -9,6 +9,7 @@ JAKARTA, Indonesia (AP) — Indonesia&#039;s most wanted Islamic militant was ki
 
 1. [AP](http://bigstory.ap.org/article/28571f6febf44de980531b2da8455f52/police-kill-militants-say-1-may-be-indonesias-most-wanted)
 2. [Reuters via Euronews](http://www.euronews.com/newswires/3222028-indonesian-forces-kill-militants-suspect-most-wanted-man-among-them/)
+2. [Cover Image](http://binaryapi.ap.org/b251d26bc4cd41a9a7e0050ced0428ca/460x.jpg)
 
 ### Related:
 

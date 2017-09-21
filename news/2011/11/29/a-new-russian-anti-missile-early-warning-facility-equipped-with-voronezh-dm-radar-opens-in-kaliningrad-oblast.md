@@ -9,6 +9,7 @@ Russia turns on a new incoming missile early warning system in its westernmost r
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15938494)
 2. [Voice of America](http://www.voanews.com/english/news/europe/-New-Russian-Anti-Missile-Facility-Opens-in-Kaliningrad-134668393.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57002000/jpg/_57002371_013415685-1.jpg)
 
 ### Related:
 

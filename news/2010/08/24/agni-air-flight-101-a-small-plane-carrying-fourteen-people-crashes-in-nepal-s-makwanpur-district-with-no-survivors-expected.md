@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/08/24/nepal.plane.crash/index.html?eref=edition&wom=false)
 2. [Kantipur](http://www.ekantipur.com/2010/08/24/top-story/agni-air-plane-crashes-in-makwanpur-14-aboard-killed/321029/)
+2. [Cover Image](http://jcss-cdn.ekantipur.com/the-kathmandu-post/images/logo.jpg)
 
 ### Related:
 

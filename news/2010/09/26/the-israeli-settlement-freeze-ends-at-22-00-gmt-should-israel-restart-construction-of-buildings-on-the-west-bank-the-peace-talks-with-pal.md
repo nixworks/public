@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11415719)
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/09/26/israel.settlement.moratorium/index.html?hpt=T1)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

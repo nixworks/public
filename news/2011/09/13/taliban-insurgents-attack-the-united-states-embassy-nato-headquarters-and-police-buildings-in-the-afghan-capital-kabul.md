@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14909004)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55369000/jpg/_55369851_wygxr0dd.jpg)
 
 ### Related:
 

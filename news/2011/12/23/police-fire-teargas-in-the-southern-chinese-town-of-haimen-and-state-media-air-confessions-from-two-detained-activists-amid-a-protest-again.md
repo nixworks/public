@@ -8,6 +8,7 @@ Riot police fired teargas to break up a protest against a planned power station 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/23/us-china-protest-power-idUSTRE7BM08M20111223)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111223&t=2&i=550213745&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BM0B9800)
 
 ### Related:
 

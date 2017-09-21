@@ -10,6 +10,7 @@ A stabbing spree at Lone Star Community College in Texas has left 14 people inju
 1. [ABC Local](http://abclocal.go.com/wls/story?section=news/iteam&id=9059049)
 2. [ABC News](http://abcnews.go.com/US/14-people-stabbed-lone-star-community-college-texas/story?id=18915596)
 3. [The Huffington Post](http://www.huffingtonpost.com/2013/04/09/lone-star-stabbing-texas-community-college_n_3045991.html)
+3. [Cover Image](http://a.abcnews.com/images/US/ap_Stabbing_ac_130409_wmain.jpg)
 
 ### Related:
 

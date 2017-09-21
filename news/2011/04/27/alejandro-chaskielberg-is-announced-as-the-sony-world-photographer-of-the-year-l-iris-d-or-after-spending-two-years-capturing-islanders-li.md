@@ -10,6 +10,7 @@ Argentinian photographer Alejandro Chaskielberg is the Sony world photographer o
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13213796)
 2. [Der Spiegel](http://www.spiegel.de/international/zeitgeist/0,1518,759556,00.html)
 3. [The Guardian](http://www.guardian.co.uk/artanddesign/2011/apr/27/sony-world-photography-award-alejndro-chaskielberg)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52370000/jpg/_52370108_52370107.jpg)
 
 ### Related:
 

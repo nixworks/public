@@ -8,6 +8,7 @@ A train has derailed and smashed into homes in southeastern Brazil, killing 8.
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Train-smash-in-Brazil-kills-8-20131125)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1886/dfa6c5ad7f5d4fae9f8c17a41f7f760e.jpg)
 
 ### Related:
 

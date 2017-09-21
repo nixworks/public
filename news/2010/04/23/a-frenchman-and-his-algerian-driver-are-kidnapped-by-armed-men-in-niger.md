@@ -11,6 +11,7 @@ A&#x20;Frenchman&#x20;and&#x20;an&#x20;Algerian&#x20;national&#x20;were&#x20;kid
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8639205.stm)
 3. [France24](http://www.france24.com/en/20100422-niger-frenchman-algerian-national-kidnapped-armed-men)
 4. [News24](http://www.news24.com/Africa/News/French-tourist-kidnapped-in-Niger-20100423)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/niger-niamey-EN.jpg)
 
 ### Related:
 

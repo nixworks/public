@@ -8,6 +8,7 @@ The case provides more evidence that early treatment can occasionally bring abou
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/girls-hiv-infection-seems-under-control-without-aids-drugs/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2009/09/24/dc88bb54-a642-11e2-a3f0-029118418759/image5334557x.jpg)
 
 ### Related:
 

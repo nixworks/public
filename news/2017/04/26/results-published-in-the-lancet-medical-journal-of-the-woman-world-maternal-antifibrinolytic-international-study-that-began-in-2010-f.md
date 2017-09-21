@@ -9,6 +9,7 @@ Tranexamic acid could save the lives of a third of women who die in childbirth f
 
 1. [The Guardian](https://www.theguardian.com/science/2017/apr/26/cheap-widely-available-drug-could-stop-thousands-of-mothers-bleeding-to-death-tranexamic-acid#img-1)
 2. [The New York Times](https://www.nytimes.com/2017/04/26/health/inexpensive-drug-prevents-deaths-in-new-mothers-study-finds.html)
+2. [Cover Image](https://i.guim.co.uk/img/media/e45eacf702a1f2ce3f5adff1ac5e17b0e19e5b56/0_141_5303_3182/master/5303.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=3a3d2b1939cbd84057e29dab4dca440f)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The seven Harry Potter novels are to be sold as e-books for the first time in Oc
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13889578)
 2. [The Guardian](http://www.guardian.co.uk/books/2011/jun/22/harry-potter-internet-treasure-hunt-game)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53641000/jpg/_53641390_53638915.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ AT least 35 people have been killed after a bus in which they were riding plunge
 ### Source:
 
 1. [NEWS.CO.AU](http://www.news.com.au/world/breaking-news/egyptian-bus-accident-kills-at-least-35/story-e6frfkui-1227272929634)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

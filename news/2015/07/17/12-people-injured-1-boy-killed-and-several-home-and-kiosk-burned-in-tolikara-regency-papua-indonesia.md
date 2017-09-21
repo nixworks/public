@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Solopos](http://solopos.com/2015/07/17/masjid-di-papua-dibakar-jemaat-gereja-diduga-marah-karena-speaker-masjid-625016)
+1. [Cover Image](http://images.solopos.com/2015/07/bcv08brBwm.jpg)
 
 ### Related:
 

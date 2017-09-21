@@ -8,6 +8,7 @@ The two companies have more than 2.9 billion cards issued on its combined networ
 ### Source:
 
 1. [AP via AL.com](http://www.al.com/business/index.ssf/2015/11/visa_buying_visa_europe_in_23.html)
+1. [Cover Image](http://image.al.com/home/bama-media/width620/img/business_impact/photo/visajpg-94343a6352b838ea.jpg)
 
 ### Related:
 

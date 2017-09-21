@@ -9,6 +9,7 @@ At least five dead as suspected gang members go on rampage in drug-violence-rava
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/08/2012811194618626237.html)
 2. [Global Post](http://www.globalpost.com/dispatch/news/regions/americas/mexico/120811/mexico-drug-war-bodies-car)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/11//2012811195119883734_20.jpg)
 
 ### Related:
 

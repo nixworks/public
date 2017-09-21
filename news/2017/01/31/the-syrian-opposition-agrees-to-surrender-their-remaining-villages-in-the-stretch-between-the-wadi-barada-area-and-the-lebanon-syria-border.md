@@ -8,6 +8,7 @@ BEIRUT, LEBANON (2:00 A.M.) - The jihadist rebels have agreed to surrender the r
 ### Source:
 
 1. [Al Masdar News](https://www.almasdarnews.com/article/jihadist-rebels-surrender-lebanese-border-points-syrian-army/)
+1. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2017/01/IMG_0744.jpg)
 
 ### Related:
 

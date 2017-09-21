@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP](https://apnews.com/7a2ba78801fd4cf0885e3b75f6692c62/6.2-magnitude-earthquake-shakes-western-Turkey,-Greek-island)
+1. [Cover Image](https://storage.googleapis.com/afs-prod/media/media:56dfd3c5e0804b46a89ea94548af16fa/800.jpeg)
 
 ### Related:
 

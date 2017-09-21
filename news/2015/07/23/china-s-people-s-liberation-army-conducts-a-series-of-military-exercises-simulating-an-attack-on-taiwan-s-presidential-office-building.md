@@ -10,6 +10,7 @@ This is pretty scary if you&#039;re Taiwanese.
 1. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201507220031.aspx)
 2. [Quartz](http://qz.com/461110/video-a-chinese-military-drill-simulates-an-attack-on-taiwans-presidential-office/)
 3. [Wall Street Journal](http://blogs.wsj.com/chinarealtime/2015/07/23/palace-intrigue-chinese-soldiers-storm-replica-of-taiwan-presidential-office/)
+3. [Cover Image](https://qzprod.files.wordpress.com/2015/07/taipei_taiwan_presidential-office-building-011.jpg?quality=80&amp;strip=all&amp;w=1280)
 
 ### Related:
 

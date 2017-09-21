@@ -8,6 +8,7 @@ Explosion at check-in desk seems to have been caused by homemade explosive, says
 ### Source:
 
 1. [AP via ''The Guardian](https://www.theguardian.com/world/2016/jun/12/shanghai-airport-blast-injures-three)
+1. [Cover Image](https://i.guim.co.uk/img/media/ca6df0d3595871acc8c0b05178c5baad785b9f3b/0_117_3504_2102/3504.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=fe611981c06cecc279821384058a80db)
 
 ### Related:
 

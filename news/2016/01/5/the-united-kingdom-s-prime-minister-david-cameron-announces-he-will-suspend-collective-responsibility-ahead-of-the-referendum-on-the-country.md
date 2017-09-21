@@ -8,6 +8,7 @@ The Prime Minister announces that he will suspend collective responsibility ahea
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/eureferendum/12082083/EU-referendum-David-Cameron-gives-ministers-free-vote.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02525/cameron-europe_2525409k.jpg)
 
 ### Related:
 

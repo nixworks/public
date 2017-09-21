@@ -9,6 +9,7 @@
 
 1. [AP](https://apnews.com/f0a281ba42724049ab7a5c16401fa90e/1-dead,-1-missing-after-explosion-at-Minneapolis-school)
 2. [CBS News](http://www.cbsnews.com/news/minneapolis-school-explosion-collapses-building/)
+2. [Cover Image](https://storage.googleapis.com/afs-prod/media/media:12df5725e770474fa2d5eacca70ecd4f/800.jpeg)
 
 ### Related:
 

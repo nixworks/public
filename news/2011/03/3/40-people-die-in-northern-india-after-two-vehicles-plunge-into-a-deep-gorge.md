@@ -9,6 +9,7 @@
 
 1. [AP via Breitbart](http://www.breitbart.com/article.php?id=D9LNIQUG1&show_article=1)
 2. [Rediff](http://www.rediff.com/news/report/dead-as-truck-falls-into-gorge-in-himachal/20110303.htm)
+2. [Cover Image](//imworld.rediff.com/worldrediff/pix/r-shareicon.png)
 
 ### Related:
 

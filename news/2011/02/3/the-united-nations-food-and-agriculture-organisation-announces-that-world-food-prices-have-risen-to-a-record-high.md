@@ -10,6 +10,7 @@ Global food prices rose in January,with the FAO Food Price Index at a record hig
 1. [BBC](http://www.bbc.co.uk/news/business-12354402)
 2. [FAO](http://www.fao.org/news/story/en/item/50519/icode/)
 3. [Reuters](http://www.reuters.com/article/2011/02/03/food-fao-index-idUSLDE7111TR20110203)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

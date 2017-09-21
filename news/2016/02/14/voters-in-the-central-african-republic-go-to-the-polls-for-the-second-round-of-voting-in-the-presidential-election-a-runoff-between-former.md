@@ -8,6 +8,7 @@ People in the violence-hit Central African Republic vote in the second round of 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-35572330)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/EA84/production/_88263006_88263005.jpg)
 
 ### Related:
 

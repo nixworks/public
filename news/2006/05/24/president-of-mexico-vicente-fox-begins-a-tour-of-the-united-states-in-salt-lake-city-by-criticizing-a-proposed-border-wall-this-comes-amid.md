@@ -10,6 +10,7 @@
 1. [AP via Yahoo!](http://news.yahoo.com/s/ap/20060523/ap_on_re_us/us_fox_visit_11;_ylt=Ak6VI6_GWm8p29y3g7pcJAkdl.0A;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
 2. [AP](http://news.yahoo.com/s/ap/20060524/ap_on_go_ca_st_pe/immigration_26;_ylt=Ags18swU_uP6Rs0jkyCi_mBQuk0A;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
 3. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-fox24may24,1,3193193.story?coll=la-headlines-nation)
+3. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

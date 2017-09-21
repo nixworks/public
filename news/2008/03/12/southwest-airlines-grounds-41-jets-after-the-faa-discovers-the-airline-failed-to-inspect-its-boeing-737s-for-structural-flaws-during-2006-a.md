@@ -8,6 +8,7 @@ Southwest Airlines Co said on Wednesday it had grounded more than three dozen pl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSWEN444620080312)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080312&t=2&i=3496545&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-12T175112Z_01_WEN4446_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

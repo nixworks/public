@@ -8,6 +8,7 @@ With world oil prices north of $50 a barrel and rising, OPEC ministers meeting i
 ### Source:
 
 1. [MSNBC](http://msnbc.msn.com/id/7190109/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Photos/050315/050315_opec_reporters_vmed.standard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ News International chairman James Murdoch is to face more questions from MPs on 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14899265)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55341000/jpg/_55341191_011107353-1.jpg)
 
 ### Related:
 

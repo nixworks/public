@@ -9,6 +9,7 @@ Two weeks of fighting between militias in Libya&#x27;s capital Tripoli have left
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/38-killed-libya-army-islamists-clash-benghazi-104010394.html)
 2. [Independent Online](http://www.iol.co.za/news/africa/rocket-attack-kills-23-egyptians-in-libya-1.1726272#.U9TjibHiA0U)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/jKHoF3JSnc9wn3A8HKQp8g--/aD03OTA7dz0xMTg2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/d30a322230d1e12c603f107a32fdba244cf85f75.jpg)
 
 ### Related:
 

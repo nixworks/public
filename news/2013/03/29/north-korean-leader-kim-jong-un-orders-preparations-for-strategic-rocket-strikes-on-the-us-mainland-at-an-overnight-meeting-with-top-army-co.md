@@ -8,6 +8,7 @@ North Korea has revealed its plans to strike targets in Hawaii and the continent
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/northkorea/9960933/North-Korea-plan-to-attack-US-mainland-revealed-in-photographs.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02522/north-korea-jong-2_2522858k.jpg)
 
 ### Related:
 

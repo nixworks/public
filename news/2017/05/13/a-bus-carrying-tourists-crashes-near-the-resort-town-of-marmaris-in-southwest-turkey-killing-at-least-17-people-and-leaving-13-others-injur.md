@@ -8,6 +8,7 @@ Seventeen people were killed and 13 injured when a bus carrying Turkish tourists
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-tourism-crash-idUSKBN1890CQ)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170513&t=2&i=1184487452&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4C0E4)
 
 ### Related:
 

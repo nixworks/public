@@ -8,6 +8,7 @@ Democrat Ron Barber defeated Republican Jesse Kelly in an emotionally charged an
 ### Source:
 
 1. [The Hill](http://thehill.com/blogs/ballot-box/house-races/232461-former-giffords-aide-wins-race-to-replace-her)
+1. [Cover Image](http://thehill.com/sites/default/files/ron-barber_headshot_0.jpg)
 
 ### Related:
 

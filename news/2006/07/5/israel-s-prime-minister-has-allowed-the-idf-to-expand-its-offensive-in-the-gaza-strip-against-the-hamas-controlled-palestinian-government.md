@@ -10,6 +10,7 @@ Security forces nab terrorist, foil large-scale attack after deploying in great 
 1. [Reuters](http://reuters.myway.com/article/20060705/2006-07-05T111648Z_01_L04812837_RTRIDST_0_NEWS-MIDEAST-DC.html)
 2. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=topNews&storyid=2006-07-05T070405Z_01_L05801663_RTRUKOC_0_US-MIDEAST-CAPTIVE-BUNKER.xml&src=rss&rpc=22)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3271470,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

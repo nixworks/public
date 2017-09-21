@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?type=bondsNews&storyID=2007-12-05T223230Z_01_N05332545_RTRIDST_0_SHOOTING-NEBRASKA-UPDATE-2.XML)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

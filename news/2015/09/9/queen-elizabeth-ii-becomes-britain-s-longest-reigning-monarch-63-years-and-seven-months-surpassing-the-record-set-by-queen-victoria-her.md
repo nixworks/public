@@ -10,6 +10,7 @@ Elizabeth, aged 89, surpasses the 63 years her great-great-grandmother Queen Vic
 1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/queen-elizabeth-uk-longest-reigning-monarch-150909020842759.html)
 2. [BBC](http://www.bbc.com/news/uk-34177107)
 3. [The Huffington Post UK](http://www.huffingtonpost.co.uk/2014/09/06/elizabeth-set-to-beat-victorias-record-as-longest-reigning-monarch-in-british-history_n_5777134.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/9/d751bbe268bf478092d34f7b6fe4705e_18.jpg)
 
 ### Related:
 

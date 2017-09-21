@@ -8,6 +8,7 @@ China has arrested more than 380 suspects in the first month of a year-long crac
 ### Source:
 
 1. [AFP via iAfrica](http://news.iafrica.com/worldnews/945386.html)
+1. [Cover Image](http://news.iafrica.com/apps/imageUtil/view/article/945386/1/630x385/)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/news/sweden-to-deport-up-to-80000-asylum-seekers/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/01/28/4a299a5b-b769-4bea-a796-7b5d91c6b94b/migrantsap316581546099.jpg)
 
 ### Related:
 

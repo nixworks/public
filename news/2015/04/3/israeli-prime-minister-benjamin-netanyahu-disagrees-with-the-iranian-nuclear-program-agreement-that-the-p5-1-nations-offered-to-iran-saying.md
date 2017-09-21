@@ -10,6 +10,7 @@ Security cabinet united in opposition to Iran deal as Netanyahu tells Obama nucl
 1. [Fox](http://www.foxnews.com/politics/2015/04/03/netanyahu-on-collision-course-with-allies-in-wake-iran-deal-framework/)
 2. [Reuters](http://www.reuters.com/article/2015/04/03/us-israel-iran-framework-idUSKBN0MU0BR20150403)
 3. [YNet news](http://www.ynetnews.com/articles/0,7340,L-4644036,00.html)
+3. [Cover Image](http://www.ynetnews.com/PicServer4/2015/04/01/5969802/59698010991499640360no.jpg)
 
 ### Related:
 

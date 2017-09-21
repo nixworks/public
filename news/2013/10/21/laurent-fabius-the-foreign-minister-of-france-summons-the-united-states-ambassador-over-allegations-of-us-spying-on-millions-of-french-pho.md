@@ -9,6 +9,7 @@ France summons the US ambassador over claims in Le Monde newspaper that the US r
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24607880)
 2. [France 24](http://www.france24.com/en/breaking/20131021-france-summons-us-ambassador-immediate-talks-spying-claims?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20131021_1042&ns_linkname=20131021_breaking_news&ns_fee=0&f24_member_id=1080960490882)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/70555000/jpg/_70555860_70555857.jpg)
 
 ### Related:
 

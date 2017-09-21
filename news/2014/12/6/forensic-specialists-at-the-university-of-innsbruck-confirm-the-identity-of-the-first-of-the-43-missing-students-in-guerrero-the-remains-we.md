@@ -8,6 +8,7 @@
 ### Source:
 
 1. [El Universal](http://www.eluniversal.com.mx/nacion-mexico/2014/reportan-a-padres-que-restos-de-cocula-son-de-normalista-1059936.html)
+1. [Cover Image](/img/2014/12/Nac/mora_alexander_300.jpg)
 
 ### Related:
 

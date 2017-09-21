@@ -10,6 +10,7 @@
 1. [IBN Live](http://ibnlive.in.com/news/bhopal-gas-tragedy-victims-hold-torch-rally/106368-3.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6942219.ece)
 3. [Times of India](http://timesofindia.indiatimes.com/india/On-25th-Bhopal-anniversary-victims-left-high-and-dry/articleshow/5294162.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/5294777.cms)
 
 ### Related:
 

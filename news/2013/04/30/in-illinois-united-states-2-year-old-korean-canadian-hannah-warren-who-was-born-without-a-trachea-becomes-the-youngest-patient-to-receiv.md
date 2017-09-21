@@ -8,6 +8,7 @@ Doctors have built and implanted a windpipe, developed with plastic fibers and h
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/30/science/groundbreaking-surgery-for-girl-born-without-windpipe.html?pagewanted=all&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/30/us/TISSUE-1/TISSUE-1-videoLarge.jpg)
 
 ### Related:
 

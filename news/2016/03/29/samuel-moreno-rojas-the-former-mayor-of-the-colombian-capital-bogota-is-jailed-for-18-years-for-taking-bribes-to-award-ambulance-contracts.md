@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Town Hall](http://townhall.com/news/politics-elections/2016/03/29/exmayor-of-colombias-capital-jailed-18-years-for-graft-n2140740)
+1. [Cover Image](https://media.townhall.com/townhall/reu/ha/2016/89/5205f4c5-2e4c-43ce-8e8a-b462e5f86634.jpg)
 
 ### Related:
 

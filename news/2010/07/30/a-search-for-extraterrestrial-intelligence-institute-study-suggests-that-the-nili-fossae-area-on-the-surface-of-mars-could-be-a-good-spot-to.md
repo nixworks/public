@@ -8,6 +8,7 @@ A spot on Mars called Nili Fossae that is rich in clay mineral-rich rocks could 
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/38494792/ns/technology_and_science-space/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/100730-MineralRichMars-hmed-328p.standard.jpg)
 
 ### Related:
 

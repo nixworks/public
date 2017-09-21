@@ -8,6 +8,7 @@ A case between PETA and nature photographer David Slater and Blurb is now being 
 ### Source:
 
 1. [CNET](https://www.cnet.com/news/a-monkey-selfie-copyright-case-returns-to-the-spotlight/)
+1. [Cover Image](https://cnet3.cbsistatic.com/img/Ry0E1dvuQjs7donxp6k1mp_Krcs=/670x503/2014/08/06/472688a7-9be4-4a05-8c79-10199989c847/wikimonkey-cropped.jpg)
 
 ### Related:
 

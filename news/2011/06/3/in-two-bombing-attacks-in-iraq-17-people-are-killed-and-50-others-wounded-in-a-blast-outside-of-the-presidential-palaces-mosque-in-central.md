@@ -8,6 +8,7 @@ Seventeen people were killed and 50 others wounded in a blast from a container f
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/06/03/iraq.violence/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/.element/img/3.0/newsscanner/no_image_cnn_90x51.jpg)
 
 ### Related:
 

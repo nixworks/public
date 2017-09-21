@@ -8,6 +8,7 @@ At least 21 people, including some foreign nationals, were feared killed when a 
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/pakistan/Small-plane-crashes-in-Pakistan-20-on-board/articleshow/6874969.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/6875493.cms)
 
 ### Related:
 

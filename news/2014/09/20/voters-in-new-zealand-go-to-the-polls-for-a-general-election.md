@@ -9,6 +9,7 @@ Forget dirty politics, high-profile scalps and accusations of lies and spies - J
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/voters-polls-zealand-election-25636200)
 2. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11328652)
+2. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201439/SCCZEN_210914NZHBPKEY4_1024x768.jpg)
 
 ### Related:
 

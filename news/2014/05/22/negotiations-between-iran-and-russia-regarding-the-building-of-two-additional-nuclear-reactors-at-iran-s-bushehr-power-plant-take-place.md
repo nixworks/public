@@ -8,6 +8,7 @@ Russia plans to sign a contract with Iran this year to build two more nuclear re
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/22/us-iran-nuclear-russia-idUSBREA4L0KX20140522)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

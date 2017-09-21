@@ -8,6 +8,7 @@ Homosexuals and transgender people in all regions face discrimination and violen
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2011/12/15/uk-rights-un-sexual-idUKTRE7BE1Q220111215)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

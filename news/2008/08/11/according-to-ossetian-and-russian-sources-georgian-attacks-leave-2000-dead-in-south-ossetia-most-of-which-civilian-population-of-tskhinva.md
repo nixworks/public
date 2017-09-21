@@ -14,6 +14,7 @@
 5. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/11/georgia.president/index.html)
 6. [The Guardian](http://www.guardian.co.uk/world/2008/aug/10/georgia.russia4)
 7. [The New York Times](http://www.nytimes.com/2008/08/12/world/europe/12georgia.html)
+7. [Cover Image](https://i.ytimg.com/vi/EOTjtO7bMyY/hqdefault.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Mughrabi and Ori Lewis
 4. [Reuters](http://www.reuters.com/article/2014/08/04/us-mideast-gaza-idUSKBN0G008720140804)
 5. [Times Of Israel](http://www.timesofisrael.com/in-tractor-rampage-a-return-to-a-familiar-and-deadly-terror-method/)
 6. [Times of Israel](http://www.timesofisrael.com/israel-hamas-agree-to-egypt-proposal-for-72-hour-truce/)
+6. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140804&t=2&i=956431671&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA730CR)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Survivors of a deadly nightclub fire and stampede in Romania say the lead singer
 
 1. [CBC](http://www.cbc.ca/news/world/romania-nightclub-fire-1.3298237)
 2. [Reuters](http://www.reuters.com/article/2015/10/31/us-romania-blast-idUSKCN0SP0KM20151031)
+2. [Cover Image](https://i.cbc.ca/1.3298665.1446327069!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/romania-nightclub-fire.jpg)
 
 ### Related:
 

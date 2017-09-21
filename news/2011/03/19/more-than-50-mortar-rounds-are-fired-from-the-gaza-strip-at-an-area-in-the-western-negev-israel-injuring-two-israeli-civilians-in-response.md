@@ -12,6 +12,7 @@ Hamas military wing claims responsibility for more than 50 mortar shells fired a
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=213035)
 4. [UPI](http://www.upi.com/Top_News/World-News/2011/03/19/Hamas-breaks-up-rally-attacks-the-press/UPI-31221300554368/)
 5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4044337,00.html)
+5. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

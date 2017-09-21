@@ -11,6 +11,7 @@ Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace
 2. [Jerusalem Post](http://www.jpost.com/Operation-Protective-Edge/Iron-Dome-intercepts-several-rockets-over-greater-Tel-Aviv-362723)
 3. [Reuters](http://af.reuters.com/article/worldNews/idAFKBN0FI04D20140715)
 4. [The Guardian](http://www.theguardian.com/world/2014/jul/15/israel-accepts-egypt-ceasefire-gaza-hamas)
+4. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2014/7/15/1405431523011/Tony-Blair-and-Shimon-Per-014.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=e852efe83e6aa2520c6b6da703e84ff2)
 
 ### Related:
 

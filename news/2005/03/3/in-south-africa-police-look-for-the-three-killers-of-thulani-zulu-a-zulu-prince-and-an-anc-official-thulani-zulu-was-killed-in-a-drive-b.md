@@ -11,6 +11,7 @@
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=15&art_id=qw1109844361159B265)
 3. [News24](http://www.news24.com/News24/South_Africa/News/0,,2-7-1442_1670789,00.html)
 4. [SABC](http://www.sabcnews.com/south_africa/crime1justice/0,2172,99184,00.html)
+4. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

@@ -13,6 +13,7 @@ The head of Scotland Yard says any police officer found to have received &quot;i
 4. [BBC](http://www.bbc.co.uk/news/uk-14046070)
 5. [BBC](http://www.bbc.co.uk/news/uk-14052909)
 6. [BBC](http://www.bbc.co.uk/news/uk-politics-14036673)
+6. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53636000/jpg/_53636797_012022821-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ YANGON: At least 11 people died in a landslide in a remote jade mining region of
 ### Source:
 
 1. [AFP via ''New Straits Times](http://www.nst.com.my/news/2016/05/147543/11-dead-myanmar-jade-mine-landslide-many-feared-missing)
+1. [Cover Image](http://assets.nst.com.my/images/articles/mynasa_field_image_listing_featured.var_1464072856.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/world-news/tanks-cross-border-into-ukraine-30350041.html)
+1. [Cover Image](http://www.belfasttelegraph.co.uk/news/world-news/article30350040.ece/ALTERNATES/h342/PANews%20BT_P-2e9c754b-a20e-47c3-be62-9057af8c2693_I1.jpg)
 
 ### Related:
 

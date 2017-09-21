@@ -11,6 +11,7 @@
 2. [IN.gr](http://www.pasok.gr/portal/gr/41/10084/7/7/1/showdoc2.html)
 3. [MPA](http://www.mpa.gr/article.html?doc_id=439306)
 4. [MPA](http://www.mpa.gr/article.html?doc_id=439384)
+4. [Cover Image]({{ngMeta.image}})
 
 ### Related:
 

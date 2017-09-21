@@ -9,6 +9,7 @@ BAGHDAD (AP) — A suicide car bomb ripped through an outdoor market in a Shiite
 
 1. [AP](http://bigstory.ap.org/article/d3fcebd97190475c941c602095f1bb2d/iraq-suicide-bombing-baghdad-shiite-district-kills-11)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/07/iraq-deaths-car-bomb-market-attack-baghdad-160712070446950.html)
+2. [Cover Image](http://binaryapi.ap.org/04d9a5c72ead403090c04f7bb4f18072/460x.jpg)
 
 ### Related:
 

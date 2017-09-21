@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Scoop](http://www.scoop.co.nz/stories/WO0505/S00374.htm)
+1. [Cover Image](http://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg)
 
 ### Related:
 

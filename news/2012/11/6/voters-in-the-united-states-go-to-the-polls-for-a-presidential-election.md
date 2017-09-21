@@ -13,6 +13,7 @@ US President takes key states Pennsylvania and Wisconsin, though race with Mitt 
 4. [CNN](http://www.cnn.com/)
 5. [Reuters](http://www.reuters.com/article/2012/11/06/us-usa-campaign-idUSBRE89M11220121106)
 6. [The Guardian](http://www.guardian.co.uk/world/2012/nov/06/us-election-2012-results-live-blog)
+6. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/7//201211732453202734_20.jpg)
 
 ### Related:
 

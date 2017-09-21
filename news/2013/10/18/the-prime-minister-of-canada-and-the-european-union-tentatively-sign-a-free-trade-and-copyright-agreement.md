@@ -8,6 +8,7 @@ Canada and the EU have sign a tentative deal to open up markets and drop nearly 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/canada-eu-free-trade-deal-lauded-by-harper-barroso-1.2125122)
+1. [Cover Image](https://i.cbc.ca/1.2125277.1382102091!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/harper-barroso-eu-trade-deal.jpg)
 
 ### Related:
 

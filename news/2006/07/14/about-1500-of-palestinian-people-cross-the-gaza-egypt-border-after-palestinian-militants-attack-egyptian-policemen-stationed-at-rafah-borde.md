@@ -16,6 +16,7 @@ Gunmen blow a hole in wall on Gaza-Egypt border, allowing Palestinians to enter 
 7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3275382,00.html)
 8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3275466,00.html)
 9. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3275801,00.html)
+9. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Thousands of people have taken part in a silent march in solidarity with survivo
 
 1. [Irish Independent](http://www.independent.ie/national-news/abuse-victims-furious-as-dail-debate-is-pushed-back-1767737.html)
 2. [RTÉ](http://www.rte.ie/news/2009/0610/abuse.html)
+2. [Cover Image](https://img.rasset.ie/00025bf8-1600.jpg)
 
 ### Related:
 

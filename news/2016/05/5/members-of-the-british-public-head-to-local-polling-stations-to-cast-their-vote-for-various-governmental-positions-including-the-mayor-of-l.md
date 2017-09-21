@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/2016/05/05/uk-local-elections-2016-follow-the-latest-results-and-news/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/05/05/SPLIT_RESTRICTED_local_elections-xlarge-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwRhFWbuVgcGVGDX-rc9R57Q.jpg)
 
 ### Related:
 

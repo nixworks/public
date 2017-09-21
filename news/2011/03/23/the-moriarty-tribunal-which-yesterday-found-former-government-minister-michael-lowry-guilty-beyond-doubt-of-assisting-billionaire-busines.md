@@ -10,6 +10,7 @@
 1. [Inside Ireland](http://insideireland.ie/2011/03/23/martin-calls-for-michael-lowry-to-consider-position-12837/)
 2. [RTÉ](http://www.rte.ie/news/2011/0323/moriarty.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0323/1224292847422.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

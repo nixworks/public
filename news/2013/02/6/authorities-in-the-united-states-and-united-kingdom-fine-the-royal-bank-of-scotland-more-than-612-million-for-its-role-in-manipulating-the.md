@@ -8,6 +8,7 @@ STATE-RESCUED Royal Bank of Scotland says it will pay fines totalling $US612 mil
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/business/breaking-news/royal-bank-of-scotland-fined-over-libor/story-e6frfkur-1226572270656)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

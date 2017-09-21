@@ -8,6 +8,7 @@ Gulf kingdom says it will implement 158 of 176 recommendations in new UN report,
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/09/2012919235852501851.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/18/20128182201344734_20.jpg)
 
 ### Related:
 

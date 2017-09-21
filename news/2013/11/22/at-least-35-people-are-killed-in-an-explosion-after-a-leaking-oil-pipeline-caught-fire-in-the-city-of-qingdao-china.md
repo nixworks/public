@@ -8,6 +8,7 @@ At least 44 people are killed when a leaking oil pipeline catches fire and explo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-25050300)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71276000/jpg/_71276897_020088891-1.jpg)
 
 ### Related:
 

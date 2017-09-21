@@ -11,6 +11,7 @@
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/05/08/uk.harrods.sale/)
 3. [RTÉ](http://www.rte.ie/news/2010/0508/harrods.html)
 4. [The Times](http://business.timesonline.co.uk/tol/business/industry_sectors/retailing/article7120443.ece)
+4. [Cover Image](https://img.rasset.ie/00034554-1600.jpg)
 
 ### Related:
 

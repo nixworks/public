@@ -8,6 +8,7 @@ Second Israeli lightly wounded after Palestinian ploughed into two Israelis, bot
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.781886)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.781919.1491470023!/image/721248071.jpg_gen/derivatives/headline_1200x630/721248071.jpg)
 
 ### Related:
 

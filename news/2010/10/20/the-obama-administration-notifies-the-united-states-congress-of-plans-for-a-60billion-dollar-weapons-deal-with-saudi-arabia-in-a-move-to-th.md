@@ -9,6 +9,7 @@ The United States plans to sell up to $60 billion worth of military aircraft to 
 
 1. [CNN](http://edition.cnn.com/2010/US/10/20/us.saudi.arms.deal/index.html?eref=edition)
 2. [Reuters](http://www.reuters.com/article/idUSTRE69J4ML20101020)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20101020&t=2&i=230124141&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-20T180850Z_01_BTRE69J1EES00_RTROPTP_0_SAUDI-ARABIA)
 
 ### Related:
 

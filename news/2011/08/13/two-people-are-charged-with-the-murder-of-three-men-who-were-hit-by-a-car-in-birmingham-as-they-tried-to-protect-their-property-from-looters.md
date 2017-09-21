@@ -9,6 +9,7 @@ A man and a teenager are charged with murdering three men run over by a car whil
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-birmingham-14519779)
 2. [BBC](http://www.bbc.co.uk/news/world-14501282)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54540000/jpg/_54540371_threepic118.jpg)
 
 ### Related:
 

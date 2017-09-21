@@ -8,6 +8,7 @@ US&#x20;airline&#x20;Continental&#x20;has&#x20;been&#x20;found&#x20;criminally&#
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20101206-france-aviation-continental-airlines-concorde-crash-engineers-aerospatiale)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/concorde-n_1.jpg)
 
 ### Related:
 

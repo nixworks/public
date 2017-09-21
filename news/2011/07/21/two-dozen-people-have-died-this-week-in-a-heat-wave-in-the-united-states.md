@@ -8,6 +8,7 @@ A blistering band of heat that has killed two dozen people this week is expected
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/07/22/us/22heat.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/07/22/us/22heat1-cnd/22heat1-cnd-thumbStandard.jpg)
 
 ### Related:
 

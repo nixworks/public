@@ -8,6 +8,7 @@ Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morni
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/intl-yoga-day-marked-millions-india-began-48174787)
+1. [Cover Image](http://a.abcnews.com/images/International/WireAP_6db746dc9a4c42699d826f96ce02406f_16x9_992.jpg)
 
 ### Related:
 

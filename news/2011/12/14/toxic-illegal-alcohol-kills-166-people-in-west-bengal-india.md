@@ -9,6 +9,7 @@ South 24 Parganas officials fear death toll could rise further
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-16174531)
 2. [The Hindu](http://www.thehindu.com/news/national/article2714355.ece)
+2. [Cover Image](http://www.thehindu.com/migration_catalog/article13397382.ece/ALTERNATES/LANDSCAPE_615/14%20liquor)
 
 ### Related:
 

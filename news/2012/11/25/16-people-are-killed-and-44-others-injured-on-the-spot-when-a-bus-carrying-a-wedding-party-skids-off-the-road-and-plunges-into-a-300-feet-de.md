@@ -8,6 +8,7 @@ Jammu, Nov 24: At least 16 people were killed and 44 others injured when a bus c
 ### Source:
 
 1. [India TV](http://www.indiatvnews.com/news/india/-killed-in-bus-accident-in-udhampur-18772.html)
+1. [Cover Image](http://resize.indiatvnews.com/en/resize/newbucket/740_-/mainnational/_killed_in_bus_18772.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iran&#39;s navy said Sunday it test-fired an advanced surface-to-air missile dur
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/45839276/ns/world_news-mideast_n_africa/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Video/120101/nn_07ksn_iran_120101.standard.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Three more bodies were recovered from under the debris of the flyover that colla
 
 1. [Indian Express](http://indianexpress.com/article/india/india-news-india/kolkata-under-construction-bridge-collapses-several-feared-dead-latest-updates/)
 2. [NBC News](http://www.nbcnews.com/news/world/kolkata-overpass-collapse-kills-least-14-scores-feared-trapped-n548361)
+2. [Cover Image](http://images.indianexpress.com/2016/04/kolkataflyover-480.jpg?w=480)
 
 ### Related:
 

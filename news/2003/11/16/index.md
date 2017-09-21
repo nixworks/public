@@ -4,7 +4,7 @@
 _Context: Dragoljub Micunovic, Serbian presidential election, Tomislav Nikolic, Velimir Ilic_
 
 ### [ An audio-tape, purportedly from Saddam Hussein, airs on the Dubai station al-Arabiya. The CIA later informs that it is probably not the voice of Saddam Hussein. At least two loud blasts echo across Baghdad after dark on Sunday night. Top Iraqi scientist Dr. Modher Sadeq-Saba al-Tamimi flees to Iran. After eight months without work, and with no clear plans from the occupying Coalition, the scientist seeks work abroad. Iranian officials deny the claims. In the United Kingdom, Tony Blair faces the "electoral poison" of U.S. President George W. Bush's state visit next week.](/news/2003/11/16/an-audio-tape-purportedly-from-saddam-hussein-airs-on-the-dubai-station-al-arabiya-the-cia-later-informs-that-it-is-probably-not-the-voi.md)
-_Context: Al Arabiya, Baghdad, CIA, Dubai, George W. Bush, Iran, President, Saddam Hussein, Tony Blair_
+_Context: Al Arabiya, Baghdad, CIA, Dubai, George W. Bush, Iran, Saddam Hussein, Tony Blair, U.S. President_
 
 ### [ A BBC poll suggests that there is dangerously poor AIDS awareness in China and India; the poll leaves little grounds for optimism.](/news/2003/11/16/a-bbc-poll-suggests-that-there-is-dangerously-poor-aids-awareness-in-china-and-india-the-poll-leaves-little-grounds-for-optimism.md)
 _Context: AIDS, BBC_

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/business-21936554)
 2. [CNN](http://money.cnn.com/2013/03/25/news/economy/cyprus-bailout-banks)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66605000/jpg/_66605969_66605968.jpg)
 
 ### Related:
 

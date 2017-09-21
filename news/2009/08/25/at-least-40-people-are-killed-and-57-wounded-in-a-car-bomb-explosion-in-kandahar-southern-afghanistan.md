@@ -11,6 +11,7 @@ At least 30 people were killed and 57 wounded, all civilians, by a massive car b
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8221233.stm)
 3. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSSP546804._CH_.2400)
 4. [The New York Times](http://www.nytimes.com/2009/08/26/world/asia/26kandahar.html?hpw)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

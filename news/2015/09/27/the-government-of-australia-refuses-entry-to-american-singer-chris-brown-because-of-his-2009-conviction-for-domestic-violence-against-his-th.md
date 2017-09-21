@@ -8,6 +8,7 @@ The Federal Government follows through on its threat to block US R &#039;n&#039;
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-09-27/chris-brown-blocked-from-australia/6807794)
+1. [Cover Image](http://www.abc.net.au/news/image/1607148-1x1-700x700.jpg)
 
 ### Related:
 

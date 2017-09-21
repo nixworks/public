@@ -9,6 +9,7 @@
 
 1. [M2006](http://melbourne2006.com.au/M2006/Homepage+News/20060323+Closing+Ceremony.htm)
 2. [Rediff](http://in.rediff.com/sports/2006/mar/26cwgi-jung.htm)
+2. [Cover Image](//imworld.rediff.com/worldrediff/pix/r-shareicon.png)
 
 ### Related:
 

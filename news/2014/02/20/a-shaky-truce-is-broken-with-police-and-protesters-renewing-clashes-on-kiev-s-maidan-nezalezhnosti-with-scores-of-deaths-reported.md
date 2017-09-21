@@ -11,6 +11,7 @@ The EU agrees to impose sanctions on Ukrainian officials &quot;responsible for v
 2. [BBC](http://www.bbc.co.uk/news/world-europe-26280710#)
 3. [Kiev Post](http://www.kyivpost.com/content/kyiv/euromaidan-rallies-in-ukraine-feb-19-live-updates-337098.html)
 4. [RIA Novosty](http://en.ria.ru/world/20140220/187724983/Kiev-Mayor-Quits-Ruling-Party-Amid-Deadly-Clashes.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73121000/jpg/_73121479_73121478.jpg)
 
 ### Related:
 

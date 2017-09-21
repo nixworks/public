@@ -8,6 +8,7 @@ The Obama administration imposed sanctions on about two dozen Russians under a n
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/13/world/europe/us-issues-penalties-against-russians-for-rights-violations.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/13/world/prexy1/prexy1-videoLarge.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The last B53 nuclear bomb, a powerful weapon some 600 times more powerful than t
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_NUKE_BOMB_DISASSEMBLY?SITE=OKOKL&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-15453872)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56279000/jpg/_56279223_013221677-1.jpg)
 
 ### Related:
 

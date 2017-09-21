@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/01/201011235131565705.html)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=349672&CategoryId=12393)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

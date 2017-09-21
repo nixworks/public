@@ -8,6 +8,7 @@ The Islamic State of Iraq and the Levant (Isis) has reportedly declared the area
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/middle-east/isis-declares-new-islamic-state-in-middle-east-with-abu-bakr-albaghdadi-as-emir-removing-iraq-and-syria-from-its-name-9571374.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/06/16/20/4-Iraq1-AFPv1.jpg)
 
 ### Related:
 

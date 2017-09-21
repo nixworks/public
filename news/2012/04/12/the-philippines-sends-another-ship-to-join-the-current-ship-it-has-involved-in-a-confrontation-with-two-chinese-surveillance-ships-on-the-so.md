@@ -9,6 +9,7 @@ The Philippines says it has withdrawn its largest warship from a stand-off with 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17686107)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702303624004577337651683294064.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59612000/jpg/_59612847_m7tc02i7.jpg)
 
 ### Related:
 

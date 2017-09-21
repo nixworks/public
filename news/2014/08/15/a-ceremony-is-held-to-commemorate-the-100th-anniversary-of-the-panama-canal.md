@@ -8,6 +8,7 @@ Katy Watson takes a close-up look at the Panama Canal, 100 years after it offici
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-28794485#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76950000/jpg/_76950948_76950946.jpg)
 
 ### Related:
 

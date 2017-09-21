@@ -8,6 +8,7 @@ The inaugural test launch of a new commercial rocket has slipped from May 28 to 
 ### Source:
 
 1. [Space.com News](http://www.space.com/missionlaunches/spacex-falcon9-launch-debut-slip-100526.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMC8yMzcvb3JpZ2luYWwvZmFsY29uLTktZHJhZ29uLWdyYXBoaWMtMTAwMi0wMi5qcGc=)
 
 ### Related:
 

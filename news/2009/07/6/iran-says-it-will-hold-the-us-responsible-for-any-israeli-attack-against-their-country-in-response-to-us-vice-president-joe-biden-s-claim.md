@@ -8,6 +8,7 @@ US vice-president Joe Biden says Iran nuclear issue for Israel to decide how to 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/07/20097633411395606.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

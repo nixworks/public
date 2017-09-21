@@ -9,6 +9,7 @@ Decision comes amid growing concern among investigators and regulators about spo
 
 1. [CBS News](http://www.cbsnews.com/news/daily-fantasy-sports-sites-ordered-to-shut-down-in-nevada/)
 2. [ESPN](http://espn.go.com/chalk/story/_/id/13897401/daily-fantasy-outlawed-nevada-gaming-control-board-being-unlicensed-gambling)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/10/07/664fcf8d-b63b-4eda-8656-8409cf2c7a85/ap430250344806.jpg)
 
 ### Related:
 

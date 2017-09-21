@@ -8,6 +8,7 @@ Tens of thousands of students in Chile resume their protests for free education 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22459229)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67489000/jpg/_67489209_168303918.jpg)
 
 ### Related:
 

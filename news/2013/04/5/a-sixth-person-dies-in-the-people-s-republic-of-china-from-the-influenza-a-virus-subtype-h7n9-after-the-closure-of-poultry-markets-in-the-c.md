@@ -8,6 +8,7 @@ China confirmed Friday a sixth death from a lesser known H7N9 strain of the bird
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.com/six-dead-new-bird-flu-virus-china-authorities-resort-mass-culling-poultry-after-virus-detection)
+1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2013/04/05/china-confirms-sixth-death-new-bird-flu-virus-authorities-resorted-mass-culling-poutry-after-virus.jpg)
 
 ### Related:
 

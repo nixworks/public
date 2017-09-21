@@ -8,6 +8,7 @@ Ethiopian forces have killed 123 separatist rebels in the eastern region of the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11315967)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

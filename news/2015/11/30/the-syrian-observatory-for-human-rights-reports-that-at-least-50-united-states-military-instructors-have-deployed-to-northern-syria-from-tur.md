@@ -8,6 +8,7 @@ US soldiers have reportedly arrived in northern Syria - the first official deplo
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/us-soldiers-reportedly-arrive-in-syria-to-train-kurds-fighting-islamic-state/a-18878930?maca=en-RSS_en_Flipboard-9487-xml-media)
+1. [Cover Image](http://www.dw.com/image/18648624_304.jpg)
 
 ### Related:
 

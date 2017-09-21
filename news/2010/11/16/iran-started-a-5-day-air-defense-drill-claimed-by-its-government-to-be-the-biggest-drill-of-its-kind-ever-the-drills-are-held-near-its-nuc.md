@@ -8,6 +8,7 @@ Iran began what it said was its biggest ever air defense drill on Tuesday to tes
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6AF4P320101116)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20101116&t=2&i=250692042&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-16T202812Z_01_BTRE6AF1KV600_RTROPTP_0_IRAN)
 
 ### Related:
 

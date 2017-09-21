@@ -8,6 +8,7 @@ Publishing group Pearson has announced it is to sell the Financial Times Group t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-33636321)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11C5A/production/_84449727_gh2m9x71.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ MANILA &ndash; The official death toll from super typhoon &quot;Yolanda&quot; is
 ### Source:
 
 1. [ABS-CBN](http://www.abs-cbnnews.com/nation/regions/12/02/13/yolanda-death-toll-rises-5670)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/others/111213_dead-bodies.jpg)
 
 ### Related:
 

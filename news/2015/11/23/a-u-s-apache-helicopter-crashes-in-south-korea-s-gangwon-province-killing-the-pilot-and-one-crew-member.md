@@ -8,6 +8,7 @@ A U.S. Army Apache helicopter crashed in central South Korea on Monday during a 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/23/us-southkorea-usa-crash-idUSKBN0TC0ZM20151123)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151123&t=2&i=1097128804&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAM0V5)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Israeli troops, some smiling and dancing, began to withdraw from Gaza Sunday aft
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28651944/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090118-israeltroops-hmed-3p.standard.jpg)
 
 ### Related:
 

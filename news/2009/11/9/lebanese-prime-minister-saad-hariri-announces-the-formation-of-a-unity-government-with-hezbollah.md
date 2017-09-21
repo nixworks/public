@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/newsMaps/idUSTRE5A84B620091109)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-11/10/content_12420371.htm)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20091109&t=2&i=12261406&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-09T223608Z_01_BTRE5A81HD600_RTROPTP_0_LEBANON-GOVERNMENT-LIST)
 
 ### Related:
 

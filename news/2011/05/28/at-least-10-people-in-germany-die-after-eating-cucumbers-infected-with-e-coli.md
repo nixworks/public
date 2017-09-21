@@ -8,6 +8,7 @@ At least 10 people are now thought to have died and hundreds made sick in German
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13587182)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53051000/jpg/_53051228_012084590-1.jpg)
 
 ### Related:
 

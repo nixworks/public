@@ -10,6 +10,7 @@
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Europe/2011/0914/Denmark-s-election-a-litmus-test-for-Europe-s-far-right-politics)
 2. [NPR](http://www.npr.org/blogs/thetwo-way/2011/09/15/140517030/helle-thorning-schmidt-to-become-denmarks-first-female-prime-minister)
 3. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20110915-711622.html)
+3. [Cover Image](https://media.npr.org/assets/img/2011/09/15/505798359_8746710_wide-ea95bfb559114672391511b5dd441e50861fcc57.jpg?s=1400)
 
 ### Related:
 

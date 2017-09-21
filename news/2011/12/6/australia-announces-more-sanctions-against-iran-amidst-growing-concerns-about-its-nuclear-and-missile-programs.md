@@ -8,6 +8,7 @@ Foreign minister Kevin Rudd has announced additional sanctions against Iran afte
 ### Source:
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/australia-adopts-more-sanctions-on-iran-20111206-1ogf9.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

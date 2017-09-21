@@ -8,6 +8,7 @@ Egyptian security forces kill 12 Mexicans and Egyptians by accident in an attack
 ### Source:
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-09-14/egyptian-security-forces-kill-12-mexican-tourists-in-error/6773172)
+1. [Cover Image](http://www.abc.net.au/news/image/525686-1x1-700x700.jpg)
 
 ### Related:
 

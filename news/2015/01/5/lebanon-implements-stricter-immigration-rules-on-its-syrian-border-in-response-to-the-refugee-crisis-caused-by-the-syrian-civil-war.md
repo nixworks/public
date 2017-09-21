@@ -8,6 +8,7 @@ Lebanon enforced new immigration controls at the Syrian border on Monday in a mo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/05/us-mideast-crisis-lebanon-refugees-idUSKBN0KE10C20150105)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150105&t=2&i=1012999990&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB040GZ)
 
 ### Related:
 

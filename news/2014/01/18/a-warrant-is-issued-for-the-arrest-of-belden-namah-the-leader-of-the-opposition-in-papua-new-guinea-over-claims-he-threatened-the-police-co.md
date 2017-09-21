@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Limited](http://www.news.com.au/national/breaking-news/order-out-to-arrest-png-opposition-leader/story-e6frfku9-1226804925259?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

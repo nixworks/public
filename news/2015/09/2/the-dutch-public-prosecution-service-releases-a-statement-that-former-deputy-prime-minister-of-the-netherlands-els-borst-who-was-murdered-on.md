@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NOS](http://nos.nl/artikel/2055364-els-borst-gedood-met-41-messteken.html)
+1. [Cover Image](https://nos.nl/data/image/2015/01/26/126777/xxl.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7558985)
 2. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5522077)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -20,5 +21,5 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 6. [ Rafael Nadal of Spain wins the 2008 Wimbledon Championships for the first time defeating Roger Federer of Switzerland in a marathon match, winning 6-4, 6-4, 6-7 (5), 6-7 (8), 9-7. ](/news/2008/07/6/rafael-nadal-of-spain-wins-the-2008-wimbledon-championships-for-the-first-time-defeating-roger-federer-of-switzerland-in-a-marathon-match.md) _Context: Spanish, Switzerland_
 7. [ A number of people are taken hostage in the Spanish consulate in Bern, Switzerland. ](/news/2005/02/7/a-number-of-people-are-taken-hostage-in-the-spanish-consulate-in-bern-switzerland.md) _Context: Bern, hostage_
 8. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: Spanish_
-9. [More than 700 Catalan mayors meet in Barcelona with Catalan President Carles Puigdemont to confirm their support for the October 1 independence referendum. Earlier this week, Spanish prosecutors warned that officials participating in this vote could be criminally charged. ](/news/2017/09/16/more-than-700-catalan-mayors-meet-in-barcelona-with-catalan-president-carles-puigdemont-to-confirm-their-support-for-the-october-1-independe.md) _Context: Spanish_
-10. [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _Context: Switzerland_
+9. [Spanish police raid Catalan government offices and arrest Catalan officials as part of the effort to halt a banned referendum on independence. Catalan President Carles Puigdemont says, "The Spanish state has by all rights intervened in Catalonia's government and has established emergency rule." ](/news/2017/09/20/spanish-police-raid-catalan-government-offices-and-arrest-catalan-officials-as-part-of-the-effort-to-halt-a-banned-referendum-on-independenc.md) _Context: Spanish_
+10. [Spain's Guardia Civil raid private delivery offices in the Catalan city of Terrassa, searching for and confiscating envelopes suspected of containing voting cards for the upcoming Catalan independence referendum. ](/news/2017/09/19/spain-s-guardia-civil-raid-private-delivery-offices-in-the-catalan-city-of-terrassa-searching-for-and-confiscating-envelopes-suspected-of-c.md) _Context: Spanish_

@@ -8,6 +8,7 @@ Pedersen and Ron Bousso
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-dong-m-a-maersk-exclusive-idUSKBN14311L)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161214&t=2&i=1165415026&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBD0JN)
 
 ### Related:
 

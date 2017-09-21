@@ -9,6 +9,7 @@ Chinese President Hu Jintao kicks off a four-day US visit with a rare private di
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011118204656644593.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12212843)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

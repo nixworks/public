@@ -9,6 +9,7 @@ Hamas said it suspended the elections commission for not treating its supporters
 
 1. [Reuters](http://news.yahoo.com/hamas-suspends-gaza-voter-registration-100055747.html;_ylt=A2KJ3CRyefJPsVcAtlTQtDMD)
 2. [The New York Times](http://www.nytimes.com/2012/07/03/world/middleeast/hamas-suspends-voter-registration-in-gaza.html?_r=1)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ African leaders meet to push forward the idea of planting a tree belt - the Grea
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10344622.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
@@ -20,4 +21,4 @@ African leaders meet to push forward the idea of planting a tree belt - the Grea
 7. [ A six-nation east African regional bloc consisting of Djibouti, Ethiopia, Kenya, Somalia, Sudan and Uganda urges global sanctions on Eritrea for backing Islamist rebels in neighbouring war-torn Somalia. ](/news/2009/09/19/a-six-nation-east-african-regional-bloc-consisting-of-djibouti-ethiopia-kenya-somalia-sudan-and-uganda-urges-global-sanctions-on-eritre.md) _Context: Africa, Djibouti_
 8. [ The United Nations Security Council goes on a mission to Africa with the first leg of the mission to Djibouti to discuss the Somali Civil War. ](/news/2008/06/2/the-united-nations-security-council-goes-on-a-mission-to-africa-with-the-first-leg-of-the-mission-to-djibouti-to-discuss-the-somali-civil-w.md) _Context: Africa, Djibouti_
 9. [ Darfur Conflict: Chad's President Idriss Deby and Sudan's President Omar al-Bashir meet in Senegal to sign the Dakar Agreement, the sixth peace agreement in five years. ](/news/2008/03/13/darfur-conflict-chad-s-president-idriss-da-c-by-and-sudan-s-president-omar-al-bashir-meet-in-senegal-to-sign-the-dakar-agreement-the-sixth.md) _Context: Chad, Senegal_
-10. [Voters in Senegal elect all 165 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-165-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md) _Context: Senegal_
+10. [ Experts and officials from Interpol and 19 countries met Tuesday in Burkina Faso to elaborate a strategy to combat terrorism and crime in Africa. Countries participating included France, the United States, Britain, Morocco, Algeria, Egypt, Turkey, Senegal, Burkina Faso, Chad, Sudan, Cte d'Ivoire, Lesotho, Zimbabwe, Cambodia, Benin, Burundi, Togo and Mauritania. ](/news/2004/09/22/experts-and-officials-from-interpol-and-19-countries-met-tuesday-in-burkina-faso-to-elaborate-a-strategy-to-combat-terrorism-and-crime-in-a.md) _Context: Chad, Senegal_

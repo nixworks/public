@@ -8,6 +8,7 @@ The US and Russia reach an agreement on Syria, starting with a cessation of host
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37324872)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/79EA/production/_91101213_hi035098433.jpg)
 
 ### Related:
 

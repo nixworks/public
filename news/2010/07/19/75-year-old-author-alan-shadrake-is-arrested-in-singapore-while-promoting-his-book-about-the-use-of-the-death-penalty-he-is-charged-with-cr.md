@@ -9,6 +9,7 @@ The British author of a book that seeks to expose &quot;disturbing truths&quot; 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10680143)
 2. [The Independent](http://www.independent.co.uk/news/world/asia/singapore-arrests-author-who-criticised-death-penalty-2030347.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/07/19/23/416411.bin)
 
 ### Related:
 

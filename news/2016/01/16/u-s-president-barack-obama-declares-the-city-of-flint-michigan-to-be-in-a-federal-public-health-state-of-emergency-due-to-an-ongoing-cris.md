@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Flint Journal'' on MLive](http://www.mlive.com/news/flint/index.ssf/2016/01/president_obama_signs_emergenc.html)
+1. [Cover Image](http://image.mlive.com/home/mlive-media/width620/img/grpress/news_impact/photo/19512545-standard.jpg)
 
 ### Related:
 

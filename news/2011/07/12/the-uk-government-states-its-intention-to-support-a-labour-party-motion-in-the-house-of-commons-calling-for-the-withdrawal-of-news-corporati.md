@@ -8,6 +8,7 @@ News Corporation boss Rupert Murdoch may appear before MPs next week over the ph
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-14127282)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/54035000/jpg/_54035258_rupertjamesmurdoch464in_pa.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A man accused of shooting a fellow student to death after an argument outside a 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/25/us-usa-southcarolina-shooting-idUSBREA0N1LS20140125)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

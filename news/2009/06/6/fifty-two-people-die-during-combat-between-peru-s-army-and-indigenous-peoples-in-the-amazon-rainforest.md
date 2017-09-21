@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55463G20090607)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090607&t=2&i=10408774&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-07T005407Z_01_BTRE55602IM00_RTROPTP_0_PERU-VIOLENCE)
 
 ### Related:
 

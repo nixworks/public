@@ -8,6 +8,7 @@ Mr. Freud, a grandson of Sigmund Freud, was called “the greatest living realis
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/07/22/arts/lucian-freud-adept-portraiture-artist-dies-at-88.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/07/21/arts/design/Lucianfreudss-slide-A3YK/Lucianfreudss-slide-A3YK-thumbStandard.jpg)
 
 ### Related:
 

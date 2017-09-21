@@ -10,6 +10,7 @@ Fans of Pink Floyd could soon be unable to buy their songs individually on websi
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8561963.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/music-news/7421247/Pink-Floyd-stops-EMI-from-cutting-up-albums-online.html)
 3. [The Guardian](http://www.guardian.co.uk/music/2010/mar/11/pink-floyd-win-download-case)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01458/floyd_1458197a.jpg)
 
 ### Related:
 

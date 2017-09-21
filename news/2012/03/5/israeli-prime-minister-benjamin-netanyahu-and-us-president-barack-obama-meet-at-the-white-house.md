@@ -8,6 +8,7 @@ Israeli PM Benjamin Netanyahu tells US President Barack Obama that Israel must a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17260083)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58887000/jpg/_58887459_58887458.jpg)
 
 ### Related:
 

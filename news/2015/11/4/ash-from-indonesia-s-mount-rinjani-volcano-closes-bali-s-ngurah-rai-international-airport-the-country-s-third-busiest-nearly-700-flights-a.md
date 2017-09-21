@@ -9,6 +9,7 @@ Indonesia has closed Bali airport, one of its busiest international terminals, c
 
 1. [International Business Times](http://www.ibtimes.com/mount-rinjani-eruption-indonesia-leads-bali-airport-closure-several-flights-cancelled-2168332)
 2. [Reuters](http://www.reuters.com/article/2015/11/04/us-indonesia-volcano-airport-idUSKCN0ST0LR20151104#ESFc86PW5SKoCcQM.97)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151104&t=2&i=1092152460&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA308Z)
 
 ### Related:
 

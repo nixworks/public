@@ -8,6 +8,7 @@ A series of barrel bombs dropped by Syria&#39;s regime killed at least 45 civili
 ### Source:
 
 1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/May-30/299862-regime-barrel-bombs-kill-45-civilians-in-syrias-aleppo-activists.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/05/30/421309_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

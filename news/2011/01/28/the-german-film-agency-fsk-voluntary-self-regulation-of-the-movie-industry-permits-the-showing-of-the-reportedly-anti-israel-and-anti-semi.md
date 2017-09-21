@@ -12,6 +12,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 3. [The Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5h644s36e4-43BQDqfuYA1a22YbPg?docId=5785576)
 4. [The Guardian](http://www.guardian.co.uk/film/2011/jan/28/turkish-flotilla-film-holocaust-day-germany)
 5. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=205596)
+5. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

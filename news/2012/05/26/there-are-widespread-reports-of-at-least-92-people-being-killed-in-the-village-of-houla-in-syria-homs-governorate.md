@@ -8,6 +8,7 @@ Calls for Western military action against Syria intensified last night after gri
 ### Source:
 
 1. [Agencies via ''The Canberra Times](http://www.canberratimes.com.au/world/horror-comes-to-houla-dozens-of-children-dead-as-syrian-forces-lay-siege-on-neighbourhood-20120527-1zcjy.html)
+1. [Cover Image](http://www.canberratimes.com.au/content/dam/images/1/z/c/k/1/image.related.articleLeadwide.620x349.1zcjy.png/1338078621663.jpg)
 
 ### Related:
 

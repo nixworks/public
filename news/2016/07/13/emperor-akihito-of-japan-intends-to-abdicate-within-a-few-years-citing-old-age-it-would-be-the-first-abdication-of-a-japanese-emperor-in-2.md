@@ -9,6 +9,7 @@ Monarch, 82, who has had health problems, is said to have announced intention to
 
 1. [BBC](http://www.bbc.com/news/world-asia-36784045)
 2. [The Guardian](https://www.theguardian.com/world/2016/jul/13/japans-emperor-akihito-plans-step-down-reports)
+2. [Cover Image](https://i.guim.co.uk/img/media/0a5a1d05a204a676ce9d3b7c29cc33f86e3ef4fa/0_116_3469_2082/3469.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=39a69161d406bd5a4833cc8e3ddde96e)
 
 ### Related:
 

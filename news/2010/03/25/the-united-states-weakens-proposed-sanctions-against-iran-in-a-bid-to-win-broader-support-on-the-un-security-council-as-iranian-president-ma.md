@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2010/0325/Iran-nuclear-sanctions-Ahmadinejad-says-they-won-t-bite)
+1. [Cover Image](http://images.csmonitor.com/csmarchives/2010/03/0325-Ahmadinejad.jpg?alias=standard_900x600)
 
 ### Related:
 

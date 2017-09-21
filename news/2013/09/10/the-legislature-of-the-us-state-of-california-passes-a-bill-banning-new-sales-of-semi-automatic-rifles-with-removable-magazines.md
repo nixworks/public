@@ -8,6 +8,7 @@ New sales of semi-automatic rifles with removable magazines would be banned in C
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/09/10/us-usa-california-gun-control-idUSBRE9891ID20130910)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130910&t=2&i=791956501&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9891T0U00)
 
 ### Related:
 

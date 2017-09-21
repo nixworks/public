@@ -9,6 +9,7 @@ Supporters of Mumtaz Qadri, who was executed for killing a reformist Pakistani p
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/03/pro-blasphemy-protesters-clash-police-pakistan-160327142503305.html)
 2. [BBC](http://www.bbc.com/news/world-asia-35909716)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/129C3/production/_88972267_418aa6d8-6a7f-4895-a177-f955edd69141.jpg)
 
 ### Related:
 

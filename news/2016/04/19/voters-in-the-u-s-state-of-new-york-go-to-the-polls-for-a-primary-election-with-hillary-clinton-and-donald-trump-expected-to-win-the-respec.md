@@ -12,6 +12,7 @@ New York election results from the 2016 general election.
 3. [New York Times](http://www.nytimes.com/elections/results/new-york)
 4. [Reuters via ''The Star](http://www.thestar.com.my/news/world/2016/04/19/its-up-to-you-new-york--state-takes-centre-stage-in-election-campaign/)
 5. [The Washington Post](https://www.washingtonpost.com/politics/strong-showing-by-clinton-in-defeat-of-sanders-in-new-york-primary/2016/04/19/0c0c5c72-0621-11e6-b283-e79d81c63c1b_story.html)
+5. [Cover Image](https://int.nyt.com/applications/elections/2016/assets/87277bc9f26e/img/general-NY.png)
 
 ### Related:
 

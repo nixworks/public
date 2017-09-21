@@ -8,6 +8,7 @@ Electoral body says all 60,000 ballots boxes have not been counted and will wait
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2011/12/2011128994408623.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/8/2011128213023911734_20.jpg)
 
 ### Related:
 

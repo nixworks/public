@@ -9,6 +9,7 @@ Rebel leader in the Democratic Republic of Congo, General Laurent Nkunda, has ac
 
 1. [BBC via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/08/2027603.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/6984758.stm)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

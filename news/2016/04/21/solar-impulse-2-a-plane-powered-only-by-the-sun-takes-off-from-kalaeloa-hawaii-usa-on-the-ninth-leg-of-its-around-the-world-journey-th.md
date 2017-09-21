@@ -8,6 +8,7 @@ KAPOLEI, Hawaii (AP) — A solar plane on an around-the-world journey has reache
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/2cae34c09e754fd39833492dbbc2a0fa/crew-prepares-fly-solar-plane-hawaii-california)
+1. [Cover Image](http://binaryapi.ap.org/37b08092ca99491fab22a4343ffb9e9d/460x.jpg)
 
 ### Related:
 

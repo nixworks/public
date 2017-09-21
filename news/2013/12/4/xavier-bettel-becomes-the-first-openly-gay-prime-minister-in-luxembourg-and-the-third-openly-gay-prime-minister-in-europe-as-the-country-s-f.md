@@ -8,6 +8,7 @@ New leader is expected to make changes including replacing religious classes wit
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/12/luxembourg-gets-first-openly-gay-pm-2013124165441367915.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/12/4/201312417326547734_20.jpg)
 
 ### Related:
 

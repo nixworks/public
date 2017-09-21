@@ -11,6 +11,7 @@ The gunman who killed 32 people and then himself at Virginia Tech university on 
 2. [CBS](http://www.cbsnews.com/stories/2007/04/16/national/main2686709.shtml)
 3. [CNN](http://edition.cnn.com/2007/US/04/16/vtech.shooting/index.html)
 4. [Reuters](http://www.reuters.com/article/topNews/idUSN1631133620070416)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070417&t=2&i=611019&w=&fh=545px&fw=&ll=&pl=&sq=&r=611019)
 
 ### Related:
 

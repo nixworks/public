@@ -9,6 +9,7 @@
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hX8P0LZnd4XSj92ygla5HV0raXWA?docId=CNG.5e300c93ec9b464f061edc2145035df7.2a1)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-12046964)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

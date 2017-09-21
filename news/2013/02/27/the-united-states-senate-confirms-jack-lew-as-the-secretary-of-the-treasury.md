@@ -8,6 +8,7 @@ The U.S. Senate, late Wednesday, confirmed Jack Lew as the nation’s next Treas
 ### Source:
 
 1. [Fox Business](http://www.foxbusiness.com/government/2013/02/27/lew-garners-votes-for-treasury-secretary-confirmation/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/politics/2013/02/27/lew-garners-votes-for-treasury-secretary-confirmation/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1456962335556.jpg?ve=1)
 
 ### Related:
 

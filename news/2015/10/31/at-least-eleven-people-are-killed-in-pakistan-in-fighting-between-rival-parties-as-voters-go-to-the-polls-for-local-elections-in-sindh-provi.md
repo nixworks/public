@@ -8,6 +8,7 @@ Eleven people were killed when rival political parties fired on each other on Sa
 ### Source:
 
 1. [Reuters via ''Sydney Morning Herald](http://www.smh.com.au/world/at-least-11-killed-as-pakistanis-vote-in-election-20151031-gkntjn.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/k/n/t/l/h/image.related.socialLead.620x349.gkntjn.png/1446303956433.jpg)
 
 ### Related:
 

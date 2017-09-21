@@ -8,6 +8,7 @@ A series of shootings and bombings have left at least 33 people dead across Iraq
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25118720)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71375000/jpg/_71375254_71375253.jpg)
 
 ### Related:
 

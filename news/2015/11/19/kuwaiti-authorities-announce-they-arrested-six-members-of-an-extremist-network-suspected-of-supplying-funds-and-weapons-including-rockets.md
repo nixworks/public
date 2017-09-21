@@ -10,6 +10,7 @@ Kuwaiti authorities have arrested members of an extremist network that supplied 
 1. [Reuters](http://in.reuters.com/article/2015/11/19/kuwait-security-idINKCN0T82M320151119)
 2. [The Gulf News](http://gulfnews.com/news/gulf/kuwait/kuwait-busts-multi-national-daesh-cell-1.1623170)
 3. [Time](http://time.com/4121728/kuwait-detained-weapons-isis-terrorism/)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

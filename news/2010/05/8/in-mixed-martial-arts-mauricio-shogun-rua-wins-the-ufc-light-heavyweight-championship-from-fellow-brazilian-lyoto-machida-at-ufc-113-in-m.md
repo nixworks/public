@@ -8,6 +8,7 @@ This time, Mauricio “Shogun” Rua made sure the judges were not involved. Rua
 ### Source:
 
 1. [Sherdog](http://www.sherdog.com/news/news/Revenge-Shogun-Stops-Machida-in-First-Round-24356)
+1. [Cover Image](http://www1.cdn.sherdog.com/_images/headers/20100508094939_big_shogun.JPG)
 
 ### Related:
 

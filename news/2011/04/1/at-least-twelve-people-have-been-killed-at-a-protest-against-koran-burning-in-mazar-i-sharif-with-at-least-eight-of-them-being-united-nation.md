@@ -9,6 +9,7 @@ I-SHARIF, Afghanistan (Reuters) - Afghan protesters angered by the burning of a 
 
 1. [Fox News](http://www.foxnews.com/world/2011/04/01/seven-killed-koran-burning-protest-headquarters-afghanistan/)
 2. [Reuters](http://www.reuters.com/article/2011/04/01/us-afghanistan-unitednations-deaths-idUSTRE7303VN20110401?WT.tsrc=Social%20Media&WT.z_smid=twtr-reuters_%20com&WT.z_smid_dest=Twitter)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110401&t=2&i=376084888&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-01T173511Z_01_BTRE7301CUQ00_RTROPTP_0_AFGHANISTAN)
 
 ### Related:
 

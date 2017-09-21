@@ -8,6 +8,7 @@ Two men convicted of the murder of Stephen Lawrence have been given life sentenc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16403655)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57595000/jpg/_57595277_013336068-1.jpg)
 
 ### Related:
 

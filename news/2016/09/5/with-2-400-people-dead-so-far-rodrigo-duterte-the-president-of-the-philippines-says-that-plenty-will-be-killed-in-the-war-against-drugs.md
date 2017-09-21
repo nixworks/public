@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-philippines-drugs-duterte-idUSKCN11B0TK?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160905&t=2&i=1152347718&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC840WH)
 
 ### Related:
 

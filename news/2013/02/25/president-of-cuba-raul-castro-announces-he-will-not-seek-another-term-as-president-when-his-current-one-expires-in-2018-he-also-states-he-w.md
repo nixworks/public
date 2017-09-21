@@ -8,6 +8,7 @@ Mr. Castro, whose term will end in 2018, said he hoped to establish term limits 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/02/25/world/americas/raul-castro-to-step-down-as-cubas-president-in-2018.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/02/25/world/americas/25cuba-cnd/25cuba-snc-videoLarge.jpg)
 
 ### Related:
 

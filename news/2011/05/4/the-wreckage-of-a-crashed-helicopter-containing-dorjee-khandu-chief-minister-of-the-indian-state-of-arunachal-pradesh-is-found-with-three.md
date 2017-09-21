@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13276530)
 2. [Indian Express](http://www.indianexpress.com/news/3-bodies-sighted-at-presumed-crash-site-of-arunachal-cms-chopper/785706/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606887_bn-304x171.jpg)
 
 ### Related:
 

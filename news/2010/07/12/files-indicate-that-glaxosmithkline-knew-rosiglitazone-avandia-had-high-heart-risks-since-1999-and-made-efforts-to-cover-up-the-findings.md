@@ -8,6 +8,7 @@ SmithKline Beecham found in a study as early as 1999 that its diabetes medicine,
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/07/13/health/policy/13avandia.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

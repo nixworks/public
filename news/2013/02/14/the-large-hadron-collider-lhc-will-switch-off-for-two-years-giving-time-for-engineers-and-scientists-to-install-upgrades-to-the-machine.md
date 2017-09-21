@@ -8,6 +8,7 @@ The Large Hadron Collider shuts down for a two-year-long period of maintenance a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-21421460)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65863000/jpg/_65863874_65863873.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [New York Times](http://www.nytimes.com/2006/05/13/washington/13rendition.html?_r=1&oref=slogin)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/05/12/AR2006051201018.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

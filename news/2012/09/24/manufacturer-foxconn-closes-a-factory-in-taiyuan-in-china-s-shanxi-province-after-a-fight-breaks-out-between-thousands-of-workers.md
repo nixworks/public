@@ -8,6 +8,7 @@ It supplies the world&#039;s technology giants, including Apple, but Foxconn has
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/thousands-involved-in-chinese-factory-fight-20120924-26gn1.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/6/g/n/c/image.related.articleLeadwide.620x349.26gn1.png)
 
 ### Related:
 

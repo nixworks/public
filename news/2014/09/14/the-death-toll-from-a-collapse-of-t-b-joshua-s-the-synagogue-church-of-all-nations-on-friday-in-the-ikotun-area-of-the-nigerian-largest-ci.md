@@ -8,6 +8,7 @@ Forty people died after a building collapse at the megachurch of one of Nigeria&
 ### Source:
 
 1. [The Express Tribune](http://tribune.com.pk/story/762153/death-toll-now-40-in-nigeria-building-collapse-rescuers/)
+1. [Cover Image](https://c.tribune.com.pk/2014/09/762153-AFPLagosChurch-1410697064-846-640x480.jpg)
 
 ### Related:
 

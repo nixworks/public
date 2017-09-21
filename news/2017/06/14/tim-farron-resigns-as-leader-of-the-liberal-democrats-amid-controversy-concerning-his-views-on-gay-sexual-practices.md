@@ -8,6 +8,7 @@ Tim Farron has resigned as leader of the Liberal Democrats, following a furore o
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/politics/tim-farron-resigns-liberal-democrats-leader-election-statement-announcement-a7790396.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/22/15/farron-manchester-1.jpg)
 
 ### Related:
 

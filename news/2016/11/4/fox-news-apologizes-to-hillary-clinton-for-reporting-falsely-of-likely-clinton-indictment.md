@@ -8,6 +8,7 @@ Bret Baier also retracted his report that Clinton&#39;s email server had been ha
 ### Source:
 
 1. [USA Today ](http://www.usatoday.com/story/news/politics/onpolitics/2016/11/04/fox-news-apologizes-clinton-report/93300254/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

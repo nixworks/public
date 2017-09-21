@@ -8,6 +8,7 @@ Forty-six seriously injured people needed to be evacuated immediately in Beichua
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/GCA-China/idUST33033520080517)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

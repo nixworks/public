@@ -9,6 +9,7 @@ Airlines canceled about 500 European flights as the ash cloud from the Grimsvotn
 
 1. [New York Times](http://www.nytimes.com/2011/05/25/world/europe/25volcano.html?_r=1)
 2. [The Daily Telegraph](http://www.dailytelegraph.com.au/news/volcanic-ash-shuts-down-european-airports/story-e6freuy9-1226061965502)
+2. [Cover Image](https://static01.nyt.com/images/2011/05/25/world/25volcano_cnd/25volcano_cnd-thumbStandard.jpg)
 
 ### Related:
 

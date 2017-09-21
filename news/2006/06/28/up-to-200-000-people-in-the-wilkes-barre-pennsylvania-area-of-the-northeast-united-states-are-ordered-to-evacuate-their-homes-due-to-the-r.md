@@ -9,6 +9,7 @@
 
 1. [CBS News Alert](http://www.kfmb.com/stories/story.55131.html)
 2. [FOX News](http://www.foxnews.com/story/0,2933,201297,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

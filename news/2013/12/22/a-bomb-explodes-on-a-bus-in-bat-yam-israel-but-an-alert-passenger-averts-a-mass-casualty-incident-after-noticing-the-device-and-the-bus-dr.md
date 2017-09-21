@@ -8,6 +8,7 @@ Device in apparent Bat Yam terror attack blew up as sapper was defusing it; publ
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/i-injured-in-explosion-on-bat-yam-bus/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/12/F131222ZEL03.jpg)
 
 ### Related:
 

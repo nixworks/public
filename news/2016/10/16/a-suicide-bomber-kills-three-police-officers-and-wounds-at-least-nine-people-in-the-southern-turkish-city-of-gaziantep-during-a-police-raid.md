@@ -8,6 +8,7 @@ A suicide bomber killed three police officers and wounded at least nine people i
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKBN12G0C8)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161016&t=2&i=1157655980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9F0FN)
 
 ### Related:
 

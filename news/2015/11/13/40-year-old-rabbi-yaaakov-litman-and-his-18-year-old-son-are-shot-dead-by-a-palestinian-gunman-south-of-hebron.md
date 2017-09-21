@@ -8,6 +8,7 @@ Yaakov Litman and Netanel, 18, were shot dead four days before daughter&#8217;s 
 ### Source:
 
 1. [The Times Of Israel](http://www.timesofisrael.com/hundreds-attend-funeral-of-father-and-son-killed-in-terror-attack)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/11/F151114YS15-e1447537943152.jpg)
 
 ### Related:
 

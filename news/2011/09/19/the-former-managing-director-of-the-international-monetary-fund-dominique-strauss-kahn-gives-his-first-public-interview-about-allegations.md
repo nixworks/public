@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/09/18/france.strauss.kahn.interview/index.html?hpt=wo_c2)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/09/18/france.strauss.kahn.interview/tzvids.dsk.car.gi.jpg)
 
 ### Related:
 

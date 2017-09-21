@@ -8,6 +8,7 @@ Financial constraints, maritime regulations and campaigns by activists will not 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-14132320)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/54043000/jpg/_54043275_54043274.jpg)
 
 ### Related:
 

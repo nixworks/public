@@ -12,6 +12,7 @@ Tuesday’s GOP victory is the party’s largest win congressional elections sin
 3. [BBC](http://www.bbc.co.uk/news/world-us-canada-11663672)
 4. [BBC](http://www.bbc.co.uk/news/world-us-canada-11671935)
 5. [Wall Street Journal](http://blogs.wsj.com/washwire/2010/11/03/gop-congressional-wins-largest-in-over-a-century/)
+5. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

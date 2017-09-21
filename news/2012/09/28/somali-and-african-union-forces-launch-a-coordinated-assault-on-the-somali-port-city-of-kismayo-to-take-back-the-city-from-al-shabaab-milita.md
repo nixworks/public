@@ -8,6 +8,7 @@ African Union forces launch a pre-dawn beach assault in an attempt to seize the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19754639)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63177000/jpg/_63177624_63177623.jpg)
 
 ### Related:
 

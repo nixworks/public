@@ -9,6 +9,7 @@
 
 1. [Swiss Info](http://www.swissinfo.ch/eng/bomb-kills-nine-iraqi-soldiers-during-raid-south-of-baghdad/42163872)
 2. [Time](http://time.com/4327503/isis-chemical-weapons-iraq-bashir/?xid=gonewsedit&google_editors_picks=true)
+2. [Cover Image](/static/Themes/basic/img/logos/swi_logo_1200x630.jpg)
 
 ### Related:
 

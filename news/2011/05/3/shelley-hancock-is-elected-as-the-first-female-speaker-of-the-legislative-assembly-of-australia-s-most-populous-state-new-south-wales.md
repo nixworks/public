@@ -8,6 +8,7 @@ Liberal MP Shelley Hancock has been elected the first female speaker of the NSW 
 ### Source:
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/nsw-gets-first-female-speaker-20110503-1e5w8.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

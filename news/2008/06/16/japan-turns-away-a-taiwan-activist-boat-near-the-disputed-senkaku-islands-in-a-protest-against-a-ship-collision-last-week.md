@@ -8,6 +8,7 @@ Japan on Monday turned back a Taiwan activist boat which approached a group of d
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-34077920080616)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20080616&t=2&i=4774783&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2008-06-16T102834Z_01_NOOTR_RTRMDNC_0_India-340779-3)
 
 ### Related:
 

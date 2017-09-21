@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/2011/08/26/139977272/grim-situation-in-abu-salim-hospital-in-libya)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

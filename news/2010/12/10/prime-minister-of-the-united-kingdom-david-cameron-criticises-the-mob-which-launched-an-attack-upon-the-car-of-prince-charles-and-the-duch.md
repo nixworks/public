@@ -15,6 +15,7 @@ Inquiries launched into royal security and alleged beating of student a day afte
 6. [The Guardian](http://www.guardian.co.uk/education/2010/dec/10/royal-car-attack-cameron-charles)
 7. [The Guardian](http://www.guardian.co.uk/uk/2010/dec/10/schoolboy-quizzed-cameron-office-picket)
 8. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/student-operation-tuition-fees-protest?intcmp=239)
+8. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/10/2010121015288820784_20.jpg)
 
 ### Related:
 

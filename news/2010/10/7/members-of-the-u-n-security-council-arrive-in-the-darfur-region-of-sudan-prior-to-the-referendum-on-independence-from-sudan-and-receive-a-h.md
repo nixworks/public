@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hrc6LWr2Iaob17mZVpeb9YVAwDIQ?docId=CNG.9a2217c8f9372029e402c72d739a5595.01)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11497460)
 3. [VOA](http://www.voanews.com/english/news/africa/South-Sudan-Considers-Referendum-without-North-104490179.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

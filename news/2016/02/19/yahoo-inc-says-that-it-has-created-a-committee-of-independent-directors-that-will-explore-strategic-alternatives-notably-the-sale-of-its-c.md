@@ -8,6 +8,7 @@ Yahoo Inc officially launched the sale of its core business on Friday, a move se
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yahoo-strategicalternatives-idUSKCN0VS1KM)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160220&t=2&i=1119000354&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1J0EM)
 
 ### Related:
 

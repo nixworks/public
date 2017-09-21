@@ -8,6 +8,7 @@ Hospital officials in Indian-administered Kashmir say 36 people have now died in
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-36781367)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3DBF/production/_90370851_gettyimages-546103598.jpg)
 
 ### Related:
 

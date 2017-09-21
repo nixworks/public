@@ -8,6 +8,7 @@ Michael Hirst considers the cases made by critics of Pope Benedict XVI, and the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11294941)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/49093000/jpg/_49093686_010135635-1.jpg)
 
 ### Related:
 

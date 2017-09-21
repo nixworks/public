@@ -12,6 +12,7 @@ Official Website of the Founders
 3. [RIAN](http://en.rian.ru/russia/20081004/117435265.html)
 4. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=28148&pg=1&im=main&ct=0&wth=)
 5. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=28168&pg=1&im=main&ct=0&wth=)
+5. [Cover Image](https://rustavi2.info/wp-content/uploads/2017/03/SocialImageHigh.jpg)
 
 ### Related:
 

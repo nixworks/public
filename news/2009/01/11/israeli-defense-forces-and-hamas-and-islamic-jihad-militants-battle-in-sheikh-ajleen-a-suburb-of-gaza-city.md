@@ -8,6 +8,7 @@ Israeli ground forces made their deepest foray yet Sunday into Gaza&#39;s most p
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28573204/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090111-gaza-hmed-5p.standard.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A roadside bomb exploded under a passenger van in southern Afghanistan on Thursd
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5gXCFO1usbl4dAvqlYU9MP_E12T1w)
 2. [Reuters](http://www.reuters.com/article/2012/11/29/us-afghanistan-bomb-idUSBRE8AS0IB20121129)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ European Union member states are ready to help resettle detainees freed from the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55E3YC20090615)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090615&t=2&i=10508849&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-15T143647Z_01_BTRE55E14LX00_RTROPTP_0_GUANTANAMO-OBAMA)
 
 ### Related:
 

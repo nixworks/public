@@ -12,6 +12,7 @@
 3. [Reuters](http://uk.reuters.com/article/idUKTRE58M1KF20090923?feedType=RSS&feedName=worldNews)
 4. [The Guardian](http://www.guardian.co.uk/world/2009/sep/23/death-flights-pilot-arrest-argentina)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article6845817.ece)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

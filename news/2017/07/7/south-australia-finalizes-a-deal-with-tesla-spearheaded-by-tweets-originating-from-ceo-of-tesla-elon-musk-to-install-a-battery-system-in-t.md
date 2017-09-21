@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-australia-power-tesla-idUSKBN19S0EV)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170707&t=2&i=1192024150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED660AI)
 
 ### Related:
 

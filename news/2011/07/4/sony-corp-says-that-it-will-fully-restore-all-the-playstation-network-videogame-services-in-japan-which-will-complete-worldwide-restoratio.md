@@ -8,6 +8,7 @@ Sony Corp said it will fully restore all Playstation Network videogame services 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/04/us-sony-playstation-idUSTRE7630O020110704)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110704&t=2&i=451819209&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-04T062917Z_01_BTRE7630I0X00_RTROPTP_0_SONY)
 
 ### Related:
 

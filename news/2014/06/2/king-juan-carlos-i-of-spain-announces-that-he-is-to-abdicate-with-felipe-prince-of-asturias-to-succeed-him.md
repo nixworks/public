@@ -8,6 +8,7 @@ Spanish Prime Minister Mariano Rahoy has said 76-year-old King Juan Carlos is to
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2014/0602/621067-spains-king/)
+1. [Cover Image](https://img.rasset.ie/000904b4-1600.jpg)
 
 ### Related:
 

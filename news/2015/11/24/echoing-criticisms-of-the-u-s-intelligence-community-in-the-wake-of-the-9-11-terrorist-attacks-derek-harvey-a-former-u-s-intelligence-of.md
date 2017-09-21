@@ -9,6 +9,7 @@ In echoes of the criticisms after the 9/11 attacks, a top former intelligence of
 
 1. [Fox News](http://www.foxnews.com/politics/2015/11/23/emails-show-dod-analysts-told-to-cut-it-out-on-isis-warnings-ig-probe-expands.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/12013132/US-intelligence-officials-have-underestimated-Isils-plan-to-attack-the-West.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03330/isil_3330462k.jpg)
 
 ### Related:
 

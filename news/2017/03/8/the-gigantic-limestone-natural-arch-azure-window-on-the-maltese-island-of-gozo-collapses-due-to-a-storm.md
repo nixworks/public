@@ -8,6 +8,7 @@ Updated 2.39pm - Added Environment Minister comments The Azure Window has collap
 ### Source:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20170308/local/the-azure-window-lost-and-gone-forever.641810)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/c3205af5bb00d34560a26847715f97ffa9dd3770-1488966530-58bfd382-620x348.jpg)
 
 ### Related:
 

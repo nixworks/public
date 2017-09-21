@@ -8,6 +8,7 @@ PNG politicians will hold a special sitting of parliament tomorrow to elect a ne
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-05-29/png-leader27s-office-declared-vacant/4039798)
+1. [Cover Image](http://www.abc.net.au/news/image/3738924-1x1-700x700.jpg)
 
 ### Related:
 

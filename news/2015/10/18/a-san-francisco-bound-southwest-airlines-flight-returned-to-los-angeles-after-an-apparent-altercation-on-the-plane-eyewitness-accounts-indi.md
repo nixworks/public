@@ -9,6 +9,7 @@ One person was removed from the flight after &#39;a rapidly escalating situation
 
 1. [NBC News](http://www.nbcnews.com/business/travel/alleged-choking-forces-southwest-flight-make-emergency-landing-los-angeles-n447006)
 2. [USA Today](http://www.usatoday.com/story/travel/flights/todayinthesky/2015/10/19/san-francisco-bound-southwest-flight-returns-lax-after-altercation/74206954/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/india-news/65-000-people-affected-due-to-floods-in-assam-781909)
+1. [Cover Image](http://i.ndtvimg.com/i/2015-07/assam-floods_650x400_81436990946.jpg)
 
 ### Related:
 

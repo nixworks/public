@@ -8,6 +8,7 @@ Woodside is looking at other options after shelving its $45 billion Browse LNG d
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-04-12/woodside-looking-at-alternative-browse-options/4625064)
+1. [Cover Image](http://www.abc.net.au/news/image/4624672-1x1-700x700.jpg)
 
 ### Related:
 

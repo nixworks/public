@@ -9,6 +9,7 @@ The US calls on North Korea to grant amnesty to US citizen Kenneth Bae, sentence
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-22385151)
 2. [The Australian](http://www.theaustralian.com.au/news/world/n-korea-jails-american-for-15-years/story-e6frg6so-1226633820653)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/67369000/jpg/_67369051_67369050.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Premier Colin Barnett has refused to back a call from one of his most senior min
 ### Source:
 
 1. [Western Australia Today](http://www.watoday.com.au/wa-news/senior-wa-minister-endorses-secession-to-address-broken-federal-system-20110713-1hd2n.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/h/d/2/4/image.related.articleLeadwide.620x349.1hd2n.png/1310545033367.jpg)
 
 ### Related:
 

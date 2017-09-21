@@ -8,3 +8,4 @@ Authorities rescue five-year-old boy held in a bunker for seven days.
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/WNT/video/alabama-hostage-standoff-jimmy-lee-dykes-dead-18404939)
+1. [Cover Image](http://a.abcnews.com/images/WNT/abc_wn_benitez_130204_wg.jpg)

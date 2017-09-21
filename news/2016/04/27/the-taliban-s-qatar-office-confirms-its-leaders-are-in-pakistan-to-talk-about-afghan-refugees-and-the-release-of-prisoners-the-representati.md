@@ -9,6 +9,7 @@ Share this on WhatsApp
 
 1. [ (''Pakistan Today](http://www.pakistantoday.com.pk/2016/04/27/foreign/reconciliation-afghan-taliban-confirm-presence-of-top-level-delegation-in-pakistan/)
 2. [The  Nation'' PK](http://nation.com.pk/international/27-Apr-2016/afghan-taliban-confirm-leaders-visit-to-pakistan)
+2. [Cover Image](http://cache.pakistantoday.com.pk/taliban7-640x360.jpg)
 
 ### Related:
 

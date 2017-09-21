@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-gabon-election-idUSKCN11D0GU)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160907&t=2&i=1152564809&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8607X)
 
 ### Related:
 

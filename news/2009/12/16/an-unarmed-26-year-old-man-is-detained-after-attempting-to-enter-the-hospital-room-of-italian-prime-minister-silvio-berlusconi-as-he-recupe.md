@@ -9,6 +9,7 @@ A young Italian man was overpowered by police guards as he attempted to enter Si
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/12/16/italy.berlusconi/)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/6827805/Italian-man-overpowered-as-he-targets-Silvio-Berlusconi.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01543/Silvio-Berlusconi_1543102a.jpg)
 
 ### Related:
 

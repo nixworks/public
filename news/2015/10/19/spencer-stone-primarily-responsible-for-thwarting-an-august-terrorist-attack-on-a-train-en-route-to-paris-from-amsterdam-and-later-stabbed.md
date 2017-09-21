@@ -8,6 +8,7 @@ Airman 1st Class Spencer Stone’s wounds were much more serious than previously
 ### Source:
 
 1. [Air Force Times](http://www.airforcetimes.com/story/military/2015/10/16/fundraiser-spencer-stone-underwent-open-heart-surgery/74070194/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/60/7b/424f60cb4c6c851ad827e29d903f/635806084862246684-air-stone-go-fund-mejpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A number of soldiers and civilians were also injured in the twin attacks in Hadr
 ### Source:
 
 1. [The National](http://www.thenational.ae/world/middle-east/isil-militants-kill-15-yemeni-government-soldiers)
+1. [Cover Image](http://www.thenational.ae/storyimage/AB/20151121/ARTICLE/151129925/AR/0/AR-151129925.jpg)
 
 ### Related:
 

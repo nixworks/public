@@ -8,6 +8,7 @@ In a tragedy with many echoes elsewhere, a teacher at a school in Viljandi was f
 ### Source:
 
 1. [ERR](http://news.err.ee/v/society/0d3e7c48-df6a-45b8-9571-f5b17d6e0f59)
+1. [Cover Image](http://s.err.ee/photo/crop/2014/10/27/84662hb227t24.jpg)
 
 ### Related:
 

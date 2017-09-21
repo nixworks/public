@@ -8,6 +8,7 @@ Thousands of Twitter users are backing Paul Chambers, the man convicted and fine
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-11742182)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

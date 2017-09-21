@@ -8,6 +8,7 @@ A fast-moving fire in Santa Barbara County more than tripled in size Friday as s
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-sherpa-fire-20160617-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-57657e35/turbine/la-me-ln-sherpa-fire-20160617-snap)
 
 ### Related:
 

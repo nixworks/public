@@ -8,6 +8,7 @@ Rene Angelil, the husband and former manager of singer Celine Dion, dies aged 73
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-35319898)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/11D2A/production/_87720037_87720036.jpg)
 
 ### Related:
 

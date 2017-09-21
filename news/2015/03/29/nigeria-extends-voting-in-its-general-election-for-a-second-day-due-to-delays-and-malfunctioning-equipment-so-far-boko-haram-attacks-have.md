@@ -8,6 +8,7 @@ As results from Nigeria’s closely contested elections started coming in on Sun
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-03-28/nigeria-extends-vote-to-second-day-after-polling-station-delays)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

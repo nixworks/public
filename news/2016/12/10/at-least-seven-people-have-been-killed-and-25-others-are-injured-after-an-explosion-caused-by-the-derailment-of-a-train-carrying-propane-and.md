@@ -11,6 +11,7 @@ A freight train derails and explodes in a north-east Bulgarian village, killing 
 2. [Independent Ireland](http://www.independent.ie/world-news/europe/residents-evacuated-and-at-least-four-killed-as-propanebutane-train-derails-and-explodes-35283328.html)
 3. [Reuters](http://www.reuters.com/article/us-bulgaria-expolosion-idUSKBN13Z05T?il=0)
 4. [The New York Times](http://www.nytimes.com/aponline/2016/12/10/world/europe/ap-eu-bulgaria-explosion.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/D17F/production/_92913635_mediaitem92913634.jpg)
 
 ### Related:
 

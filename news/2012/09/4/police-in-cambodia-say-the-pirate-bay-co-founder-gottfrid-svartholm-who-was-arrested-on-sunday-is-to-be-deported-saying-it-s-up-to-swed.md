@@ -8,6 +8,7 @@ One of the founders of the popular file-sharing The Pirate Bay website, Gottfrid
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19475202)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59105000/jpg/_59105600_pirateeee.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two former Burundi presidents pleaded for the United Nations Security Council on
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-burundi-unrest-un-idUSKCN0UZ2Y7)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160121&t=2&i=1111410137&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0K1GW)
 
 ### Related:
 

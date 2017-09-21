@@ -8,6 +8,7 @@ Cagayan de Oro City is now under “orange alert,” paving the way for preempti
 ### Source:
 
 1. [Manila Bulletin](http://news.mb.com.ph/2017/01/16/preemptive-evacuation-in-cdo-as-floods-landslides-hit-south/)
+1. [Cover Image](http://news.mb.com.ph/wp-content/uploads/2017/01/15941246_337792546620577_6099040853573620116_n.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Shares in Qantas have recovered after the airline said its fleet of A380 superju
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/business/qantas-shares-recover-on-a380-comeback-20101123-184qr.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/6/8/r/x/image.related.thumbnail.320x214.184qr.png/1290471630170.jpg)
 
 ### Related:
 

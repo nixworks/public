@@ -8,6 +8,7 @@ Sixteen imprisoned rebels have been hanged in south-eastern Iran in retaliation 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24682729)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70726000/jpg/_70726465_83860338.jpg)
 
 ### Related:
 

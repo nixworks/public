@@ -10,6 +10,7 @@ Donald Trump says it is hard to believe South Korea and Japan will put up with t
 1. [ABC News Australia](http://www.abc.net.au/news/2017-07-04/north-korea-launches-ballistic-missile%3A-south-korea/8676404)
 2. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-idUSKBN19P02W)
 3. [Xinhua News Agency](http://news.xinhuanet.com/english/2017-07/04/c_136416688.htm)
+3. [Cover Image](http://www.abc.net.au/news/image/8676914-1x1-700x700.jpg)
 
 ### Related:
 

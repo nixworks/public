@@ -8,6 +8,7 @@ Andrew Parker says current level of threat from homegrown jihadis the highest he
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/11962037/Islamic-State-planning-mass-attack-on-Britain-warns-head-of-MI5.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02522/Andrew-Parker-MI5-_2522423k.jpg)
 
 ### Related:
 

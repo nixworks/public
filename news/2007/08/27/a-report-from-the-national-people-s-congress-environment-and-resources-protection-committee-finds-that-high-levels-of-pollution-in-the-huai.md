@@ -8,6 +8,7 @@ Polluters along two of China&#039;s main rivers have defied years of clean-up ef
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/27/2016373.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/652020-1x1-700x700.jpg)
 
 ### Related:
 

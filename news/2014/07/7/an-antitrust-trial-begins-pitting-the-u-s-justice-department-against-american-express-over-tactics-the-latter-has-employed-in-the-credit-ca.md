@@ -8,6 +8,7 @@ American Express Co (AXP.N) has hindered price competition in the U.S. credit ca
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/07/us-usa-antirust-amex-idUSKBN0FC22T20140707)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140707&t=2&i=923283382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA660UK)
 
 ### Related:
 

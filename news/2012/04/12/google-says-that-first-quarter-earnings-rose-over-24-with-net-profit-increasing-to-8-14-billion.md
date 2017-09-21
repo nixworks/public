@@ -9,6 +9,7 @@ Plus: a lot of talk about Android.
 
 1. [Business Insider](http://www.businessinsider.com/live-google-earnings-2012-4)
 2. [Google](http://investor.google.com/earnings/2012/Q1_google_earnings.html)
+2. [Cover Image](http://static3.businessinsider.com/image/4f7b2766eab8ea6b0e00000b-1190-625/google-beats-on-earnings-and-declares-stock-split-but-still-gives-no-real-answer-on-google.jpg)
 
 ### Related:
 

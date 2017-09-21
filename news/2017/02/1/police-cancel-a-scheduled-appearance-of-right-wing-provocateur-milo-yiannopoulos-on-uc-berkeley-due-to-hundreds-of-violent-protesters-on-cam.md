@@ -8,6 +8,7 @@ A protest at UC Berkeley over a scheduled appearance by right-wing provocateur M
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/bayarea/article/Protesters-storm-Milo-Yiannopoulos-event-at-UC-10901829.php)
+1. [Cover Image](http://ww4.hdnux.com/photos/56/72/10/12296731/5/rawImage.jpg)
 
 ### Related:
 

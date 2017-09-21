@@ -8,6 +8,7 @@ A mysterious disease that kills patients within 24 hours has claimed at least 18
 ### Source:
 
 1. [AFP via ABC Australia](http://www.abc.net.au/news/2015-04-18/mysterious-disease-in-nigeria-kills-18/6403558)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

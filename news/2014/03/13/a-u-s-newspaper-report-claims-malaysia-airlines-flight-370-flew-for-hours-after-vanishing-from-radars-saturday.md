@@ -9,6 +9,7 @@ Still no trace of missing aircraft, as newspaper report claims plane flew for ho
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/03/china-will-not-give-up-malaysia-mh370-201431345238173432.html)
 2. [Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304914904579434653903086282)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/3/12/20143129139990734_20.jpg)
 
 ### Related:
 

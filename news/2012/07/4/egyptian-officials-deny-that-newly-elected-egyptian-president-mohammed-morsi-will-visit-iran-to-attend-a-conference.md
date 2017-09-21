@@ -8,6 +8,7 @@ Cairo says newly elected leader will not be attending conference in Tehran
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/egypt-denies-its-new-president-will-visit-iran/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/07/Mideast-Egypt-Turkey_Horo.jpg)
 
 ### Related:
 

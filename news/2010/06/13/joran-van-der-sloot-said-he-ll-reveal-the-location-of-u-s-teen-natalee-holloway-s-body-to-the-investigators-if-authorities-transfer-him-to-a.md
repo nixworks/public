@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2010/06/11/van-der-sloot-reveal-location-holloways-remains-transferred-aruban-prison/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2010/06/11/van-der-sloot-reveal-location-holloways-remains-transferred-aruban-prison/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449613970654.jpg?ve=1)
 
 ### Related:
 

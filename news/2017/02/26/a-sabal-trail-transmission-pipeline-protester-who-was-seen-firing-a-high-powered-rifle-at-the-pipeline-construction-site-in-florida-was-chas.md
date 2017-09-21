@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/police-shoot-man-citrus-county-florida-seen-shooting-natural-gas-pipeline/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/02/26/74456ef1-b87b-4c2d-8717-9187cbabca55/citrus-county-sheriff-fla-jpg.jpg)
 
 ### Related:
 

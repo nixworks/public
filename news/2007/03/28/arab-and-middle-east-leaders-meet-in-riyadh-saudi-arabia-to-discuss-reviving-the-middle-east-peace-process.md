@@ -8,6 +8,7 @@ Bush administration attempts to revive Arab-Israeli peace talks suffered a setba
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-arabs29mar29,0,7532362.story?coll=la-home-world)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

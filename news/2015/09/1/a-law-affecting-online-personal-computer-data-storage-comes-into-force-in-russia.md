@@ -8,6 +8,7 @@ As of September 1, Russia has new rules obliging all companies offering internet
 ### Source:
 
 1. [RT](http://www.rt.com/politics/313978-controversial-law-on-personal-data/)
+1. [Cover Image](https://img.rt.com/files/2015.09/article/55e565a4c3618824358b45b4.jpg)
 
 ### Related:
 

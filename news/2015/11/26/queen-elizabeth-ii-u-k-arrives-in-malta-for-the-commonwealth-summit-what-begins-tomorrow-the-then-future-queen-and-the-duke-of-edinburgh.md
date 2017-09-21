@@ -8,6 +8,7 @@ Armed Forces band of Malta sets the tone as they chose to play Thanks For The Me
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/uknews/queen-elizabeth-II/12019780/Queen-in-Malta-Melancholy-on-what-is-likely-to-be-monarchs-last-trip-to-her-former-island-home.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03511/queen-1_3511009k.jpg)
 
 ### Related:
 

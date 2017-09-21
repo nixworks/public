@@ -10,6 +10,7 @@ Fifa has given fines to both Holland and Spain for poor discipline during the Wo
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/8881092.stm)
 2. [Sky Sports](http://www.skysports.com/story/0,19528,11095_6292868,00.html)
 3. [The Monitor'' - Uganda](http://www.monitor.co.ug/Sports/Soccer/-/690266/970244/-/14n7w6rz/-/index.html)
+3. [Cover Image](http://e2.365dm.com/10/07/150x150/De-Jong-Alonso-Foul-Holland-Spain-World-Cup-F_2476492.jpg?20100711203702)
 
 ### Related:
 

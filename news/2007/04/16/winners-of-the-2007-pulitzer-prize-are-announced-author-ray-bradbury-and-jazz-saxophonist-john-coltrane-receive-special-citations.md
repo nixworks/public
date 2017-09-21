@@ -8,6 +8,7 @@ Wedding pros offer unique tips to save and still have your dream wedding.
 ### Source:
 
 1. [CBC](http://www.cbc.ca/arts/story/2007/04/16/2007-pulitzer-prize.html)
+1. [Cover Image](https://i.cbc.ca/1.4002919.1488303159!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/save-money-on-weddings.jpg)
 
 ### Related:
 

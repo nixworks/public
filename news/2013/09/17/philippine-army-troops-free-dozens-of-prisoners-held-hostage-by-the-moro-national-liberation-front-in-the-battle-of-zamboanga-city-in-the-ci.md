@@ -8,6 +8,7 @@ Dozens of civilians held by Muslim rebels in a stand-off in the Philippine south
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24121935)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69883000/jpg/_69883162_69883161.jpg)
 
 ### Related:
 

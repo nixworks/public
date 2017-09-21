@@ -13,6 +13,7 @@
 4. [The Hindu](http://beta.thehindu.com/news/international/article95870.ece)
 5. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_483160.html)
 6. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/girl-alive-15-days-after-haiti-quake-20100129-n25w.html)
+6. [Cover Image](http://s1.lemde.fr/image/2010/01/29/644x322/1298469_3_83c6_une-petite-fille-victime-du-seisme-du-12.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Most Montrealers are being told they must boil their water before drinking it, a
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2013/05/22/montreal-boil-water-advisory.html)
+1. [Cover Image](https://i.cbc.ca/1.1595485.1379059396!/httpImage/image.jpg_gen/derivatives/16x9_1180/boilmap-852-new.jpg)
 
 ### Related:
 

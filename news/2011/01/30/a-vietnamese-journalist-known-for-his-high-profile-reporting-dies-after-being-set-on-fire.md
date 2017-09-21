@@ -9,6 +9,7 @@ A Vietnamese journalist, set on fire after being doused with chemicals as he sle
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12319032)
 2. [CP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5ioDxPQhEWGC41zGgxVtXrPta3-0g?docId=5801969)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

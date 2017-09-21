@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Breaking News](http://www.chicagobreakingnews.com/news/local/chibrknews-6-killed-in-apartment-fire-in-west-suburb-20110515,0,3446407.story)
+1. [Cover Image](http://www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650)
 
 ### Related:
 

@@ -8,6 +8,7 @@ With new violence&#160; just days before transfer of sovereignty to a new Iraqi 
 ### Source:
 
 1. [AP](http://www.msnbc.msn.com/id/5225026/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/040627/040627_iraq_attacks_hmed.standard.jpg)
 
 ### Related:
 

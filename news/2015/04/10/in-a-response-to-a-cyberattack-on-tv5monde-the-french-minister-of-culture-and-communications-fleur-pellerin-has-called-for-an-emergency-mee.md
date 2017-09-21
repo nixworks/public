@@ -8,6 +8,7 @@ Culture minister calls talks after television network TV5Monde is taken over by 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/apr/09/french-tv-network-tv5monde-hijacked-by-pro-isis-hackers)
+1. [Cover Image](https://i.guim.co.uk/img/media/0cce381ec8458ad46a9b440c575951c2347233e9/0_0_2361_1417/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=28d3c463332aa8e2458252e8286edba9)
 
 ### Related:
 

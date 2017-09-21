@@ -9,6 +9,7 @@ Dash cams all over New Zealand are proving to be useful after at least two cams 
 
 1. [kelownanow.com](http://www.kelownanow.com/galavanting/news/Galavanting/15/02/11/Dash_Cam_Captured_Possible_Meteor_Blazing_Over_New_Zealand)
 2. [stuff.co.nz](http://www.stuff.co.nz/environment/66079293/Meteor-lights-up-New-Zealand-sky)
+2. [Cover Image](https://www.kelownanow.com/files/lightning.JPG)
 
 ### Related:
 

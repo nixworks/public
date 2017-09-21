@@ -8,6 +8,7 @@ Taliban insurgents in captured military Humvee vehicles launched suicide attacks
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/afghanistan-taliban-idINKCN0VM0UH)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ BERLIN (Reuters Life!) - Italian-American actress and director Isabella Rosselli
 2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11130680)
 3. [Reuters](http://www.reuters.com/article/idUSTRE67T3EX20100830)
 4. [UPI](http://www.upi.com/Entertainment_News/Movies/2010/08/30/Actress-Rossellini-to-lead-Berlin-jury/UPI-43761283195817/)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100830&t=2&i=192959450&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-30T160012Z_01_BTRE67T18GE00_RTROPTP_0_USA)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ariel Castro agrees to plead guilty to raping and holding three women captive fo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-23468222)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68974000/jpg/_68974340_68974339.jpg)
 
 ### Related:
 

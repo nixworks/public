@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Marketwatch](http://www.marketwatch.com/story/deutsche-bank-shares-drop-after-report-of-14-billion-fine-2016-09-15)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

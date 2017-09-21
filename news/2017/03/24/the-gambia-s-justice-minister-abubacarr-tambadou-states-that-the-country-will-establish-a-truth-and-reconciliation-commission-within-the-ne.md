@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39378345)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/629C/production/_93644252_jammehglasses.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=100318&sectionid=351020101)
 2. [The Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-iran-prayers11-2009jul11,0,5284455.story)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

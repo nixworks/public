@@ -8,6 +8,7 @@ The State House voted unanimously Monday evening to go forward with a plan to ga
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/12/16/us/politics/16illinois.html?ref=us)
+1. [Cover Image](https://static01.nyt.com/images/2008/12/16/us/16illinois.75.jpg)
 
 ### Related:
 

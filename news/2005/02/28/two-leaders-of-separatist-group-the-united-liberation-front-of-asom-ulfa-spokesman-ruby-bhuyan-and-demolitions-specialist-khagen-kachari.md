@@ -9,6 +9,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 1. [NDTV](http://www.ndtv.com/template/template.asp?template=Northeast&slug=ULFA+leader+Ruby+Bhuyan+surrenders&id=69248&callid=1)
 2. [Rediff](http://in.rediff.com/news/2005/feb/28ulfa.htm)
+2. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

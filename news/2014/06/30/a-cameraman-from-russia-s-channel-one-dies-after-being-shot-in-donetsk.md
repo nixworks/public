@@ -8,6 +8,7 @@ A cameraman for Russia&#039;s Channel One TV station died from injuries after be
 ### Source:
 
 1. [RT](http://rt.com/news/169268-ukraine-cameramen-shot-donetsk/)
+1. [Cover Image](https://img.rt.com/files/news/29/53/40/00/press.si.jpg)
 
 ### Related:
 

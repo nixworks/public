@@ -8,6 +8,7 @@ The accident happened in the city of Marawi where Islamists have clashed with th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-40116042)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9451/production/_96296973_f8573864-8286-45e5-b0fd-e4b87bc59397.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A war of words between Turkey and Russia escalates as Putin accuses the US of kn
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1595566/turkey-warns-russia-not-to-play-with-fire)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/cropped-image-1_3499024.jpg?20160704101204)
 
 ### Related:
 

@@ -8,6 +8,7 @@ George Osborne unveils the biggest spending cuts in decades - with welfare, coun
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-11579979)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

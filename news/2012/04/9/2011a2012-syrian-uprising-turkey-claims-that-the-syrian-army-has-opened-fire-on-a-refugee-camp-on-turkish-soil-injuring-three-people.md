@@ -13,6 +13,7 @@ Al-Jadeed TV cameraman Ali Shaaban was killed Monday at a border crossing in the
 4. [CNN](http://edition.cnn.com/2012/04/09/world/meast/yemen-attack/index.html?eref=edition)
 5. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Local-News/2012/Apr-09/169668-al-jadeed-cameraman-killed-on-lebanon-syria-border.ashx#axzz1rY2hfmZ9)
 6. [Daily Times of Pakistan](http://www.dailytimes.com.pk/default.asp?page=2012\04\09\story_9-4-2012_pg7_30)
+6. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/04/09/62610_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

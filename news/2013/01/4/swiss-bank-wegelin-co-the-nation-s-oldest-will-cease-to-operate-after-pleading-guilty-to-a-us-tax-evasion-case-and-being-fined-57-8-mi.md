@@ -8,3 +8,4 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-20907359)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65072000/jpg/_65072364_wegelin.jpg)

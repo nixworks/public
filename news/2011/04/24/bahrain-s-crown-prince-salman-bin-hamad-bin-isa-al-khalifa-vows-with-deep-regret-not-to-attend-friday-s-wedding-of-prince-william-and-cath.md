@@ -9,6 +9,7 @@ Salman bin Hamad al-Khalifa declines British royal wedding invite amid criticism
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011424165555715419.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-13181999)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/201012515245299150_20.jpg)
 
 ### Related:
 

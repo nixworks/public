@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.trust.org/item/20140624100954-ig604)
 2. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/06/25/nine-dead-as-ukraine-helicopter-downed.html)
+2. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/790b7395-cb0c-40e1-a931-2d8cb19bdd4e/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

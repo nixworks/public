@@ -8,6 +8,7 @@ Footage emerges of migrants being thrown bags of food at a Hungarian camp near t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34216883)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13676/production/_85487497_roszke.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A court in Ecuador convicts six policemen of crimes against state security after
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13952584)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53748000/jpg/_53748100_000184548-1.jpg)
 
 ### Related:
 

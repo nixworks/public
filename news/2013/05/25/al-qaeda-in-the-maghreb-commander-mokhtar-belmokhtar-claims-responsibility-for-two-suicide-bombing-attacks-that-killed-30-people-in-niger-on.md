@@ -8,6 +8,7 @@ If true, Mokhtar Belmokhtar’s claim would put one of the Sahel’s most harden
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/05/25/world/africa/militant-says-he-is-behind-fatal-niger-attack.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

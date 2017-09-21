@@ -8,6 +8,7 @@ Fine Gael and Fianna Fail have signed off on a deal to pave the way for a Fine G
 ### Source:
 
 1. [Newstalk](http://www.newstalk.com/Fine-Gael-and-Fianna-Fail-have-signed-off-on-a-deal-to-pave-the-way-for-a-Fine-Gaelled-government)
+1. [Cover Image](http://www.newstalk.com/content/000/images/000164/168804_54_news_hub_148984_656x500.jpg)
 
 ### Related:
 

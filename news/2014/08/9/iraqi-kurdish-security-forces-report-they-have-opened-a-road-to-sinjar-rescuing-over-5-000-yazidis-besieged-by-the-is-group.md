@@ -8,6 +8,7 @@ Kurdish forces tell Al Jazeera they have opened a road to Sinjar, reaching more 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/08/kurds-rescue-yazidis-from-iraq-mountain-201489135227783157.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/8/6/20148681947563734_20.jpg)
 
 ### Related:
 

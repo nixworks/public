@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-01-10T175835Z_01_L10385465_RTRUKOC_0_US-BOSNIA-COURT.xml)
 2. [The Local](http://www.thelocal.se/6051/20070110/)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

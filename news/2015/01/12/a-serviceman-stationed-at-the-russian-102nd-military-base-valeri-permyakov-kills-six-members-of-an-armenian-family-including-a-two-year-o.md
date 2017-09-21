@@ -9,6 +9,7 @@
 
 1. [ArmeniaNow](http://armenianow.com/news/59715/armenia_president_serzh_sargsyan_gyumri_murder)
 2. [News.Armenia](http://news.am/arm/news/247459.html)
+2. [Cover Image](https://news.am/img/news/24/74/59/default.jpg)
 
 ### Related:
 

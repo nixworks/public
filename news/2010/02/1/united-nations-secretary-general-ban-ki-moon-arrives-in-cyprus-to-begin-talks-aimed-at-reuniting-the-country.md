@@ -10,6 +10,7 @@
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5197793,00.html)
 2. [The Hindu](http://beta.thehindu.com/news/international/article98552.ece)
 3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33631&Cr=cyprus&Cr1=)
+3. [Cover Image](/News/dh/photos/large/2010/426798-ki-moon.jpg)
 
 ### Related:
 

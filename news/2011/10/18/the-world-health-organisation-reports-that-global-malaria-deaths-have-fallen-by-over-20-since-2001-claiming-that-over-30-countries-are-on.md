@@ -8,6 +8,7 @@ There has been a fall of just over 20% in the number of deaths from malaria worl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-15346624)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56118000/jpg/_56118484_001069344-1.jpg)
 
 ### Related:
 

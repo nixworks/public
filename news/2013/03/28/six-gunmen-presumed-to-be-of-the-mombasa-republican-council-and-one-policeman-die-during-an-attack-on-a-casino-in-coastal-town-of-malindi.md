@@ -8,6 +8,7 @@ Six gunmen and one policeman die in fierce gunbattles during raid by mob on casi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/03/2013328615365215.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/28/2013328174635167734_20.jpg)
 
 ### Related:
 

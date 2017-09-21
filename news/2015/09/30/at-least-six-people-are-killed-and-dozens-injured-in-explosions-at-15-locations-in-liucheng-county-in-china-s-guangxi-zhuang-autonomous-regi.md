@@ -9,6 +9,7 @@ At least six people are dead and dozens injured after a series of explosions tor
 
 1. [South China Morning Post](http://www.scmp.com/news/china/society/article/1862823/multiple-explosions-said-be-triggered-parcel-bombs-rock-county)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/09/30/Series-of-explosions-in-China-kills-six-injures-dozens/8771443618156/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/8771443618156/2015/1/14436182866084/v2.1/Series-of-explosions-in-China-kills-six-injures-dozens.jpg)
 
 ### Related:
 

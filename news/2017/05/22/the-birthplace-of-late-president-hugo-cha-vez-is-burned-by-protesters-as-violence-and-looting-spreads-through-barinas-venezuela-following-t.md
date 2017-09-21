@@ -8,6 +8,7 @@ Protesters set fire to late President Hugo Chavez&apos;s childhood home in weste
 ### Source:
 
 1. [AP via ''The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-venezuela-protesters-burn-down-hugo-chavez-childhood-home-20170522-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5923841e/turbine/ct-venezuela-protesters-burn-down-hugo-chavez-childhood-home-20170522)
 
 ### Related:
 

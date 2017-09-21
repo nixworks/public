@@ -8,6 +8,7 @@ The U.S. Air Force launched its second next-generation missile defense satellite
 ### Source:
 
 1. [Space.com](http://www.space.com/20309-military-launches-missile-defense-satellite.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyNy8yNDcvb3JpZ2luYWwvYXRsYXMtNS1yb2NrZXQtbGlmdG9mZi1zYmlycy1nZW8yLmpwZw==)
 
 ### Related:
 

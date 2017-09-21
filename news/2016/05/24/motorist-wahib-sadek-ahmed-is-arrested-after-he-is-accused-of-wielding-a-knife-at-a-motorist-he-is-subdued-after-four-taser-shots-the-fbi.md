@@ -8,3 +8,4 @@ Arlington police dash-cam video showed suspect Wahib Sadek getting out of his ca
 ### Source:
 
 1. [CBSDFW local](http://dfw.cbslocal.com/2016/05/25/good-samaritans-help-police-subdue-man-being-investigated-by-feds/)
+1. [Cover Image](https://cbsdallas.files.wordpress.com/2016/05/coptaser.png?w=855)

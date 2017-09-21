@@ -8,3 +8,4 @@ Bennett and Horace Helps
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/05/us-usa-airplane-cuba-idUSKBN0H020J20140905)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

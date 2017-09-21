@@ -9,6 +9,7 @@ MPs in New Zealand are revealed to have used official credit cards to buy flower
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10291353.stm)
 2. [The Scotsman](http://thescotsman.scotsman.com/world/Porn-on-expenses-of-39redblooded39.6355571.jp)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

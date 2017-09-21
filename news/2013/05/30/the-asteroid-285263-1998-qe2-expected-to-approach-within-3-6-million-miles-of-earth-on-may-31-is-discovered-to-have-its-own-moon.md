@@ -8,3 +8,4 @@ When asteroid 1998 QE2 makes its closest approach to Earth on Friday, it will no
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-asteroid-qe2-moon-20130530,0,367858.story)
+1. [Cover Image](http://www.trbimg.com/img-51a7c3e8/turbine/la-sci-sn-asteroid-qe2-moon-20130530)

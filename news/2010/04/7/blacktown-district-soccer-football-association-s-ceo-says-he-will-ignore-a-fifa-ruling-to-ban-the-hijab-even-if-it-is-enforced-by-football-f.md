@@ -8,6 +8,7 @@ The chief executive of a Sydney football club says he will ignore a ruling by th
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/sport/football/sydney-football-boss-to-ignore-hijab-rule-20100407-rqfi.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

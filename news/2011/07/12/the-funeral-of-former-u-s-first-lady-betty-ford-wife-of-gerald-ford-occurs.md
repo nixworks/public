@@ -8,6 +8,7 @@ Former occupants of the White House and other US dignitaries gather at a Califor
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-14132170)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54043000/gif/_54043168_28dwxpzy.gif)
 
 ### Related:
 

@@ -13,6 +13,7 @@ A senior Taliban commander confirmed early Sunday the death of the group’s Afg
 4. [Stripes](http://www.stripes.com/news/bomber-targets-nato-convoy-coalition-troops-not-injured-1.410778)
 5. [The Guardian](http://www.theguardian.com/world/2016/may/21/us-airstrike-taliban-leader-mullah-akhtar-mansoor)
 6. [VOA News](http://www.voanews.com/content/taliban-suicide-bomber-hits-nato-convoy-near-kabul/3340089.html)
+6. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/05/21/0/0/694940094001_4905593739001_4e25a4d7-c10a-4ed3-80d4-b39648e1f230.jpg?ve=1)
 
 ### Related:
 

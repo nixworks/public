@@ -8,6 +8,7 @@ Sixty people are injured as more than 130 vehicles are involved in a series of c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-kent-23970047)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69660000/jpg/_69660420_019171204-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Syrian jets bombed rebel-held areas of Damascus on Saturday, residents said, as 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/12/01/us-syria-crisis-idUSBRE8AJ1FK20121201)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121201&t=2&i=680218225&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B01LVK00)
 
 ### Related:
 

@@ -10,6 +10,7 @@ It’s a reminder to her supporters that more Americans voted the way they did t
 1. [CNN](http://www.cnn.com/2016/11/23/politics/election-hack-hillary-clinton-donald-trump/)
 2. [Jill2016](https://jillstein.nationbuilder.com/recount)
 3. [The Atlantic](http://www.theatlantic.com/politics/archive/2016/11/clinton-vote-lead/508667/)
+3. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2016/11/RTX2RZKJ/facebook.jpg?1479930119)
 
 ### Related:
 

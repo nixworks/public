@@ -13,6 +13,7 @@ A suicide car bomber crashed into a gate outside a hotel frequented by lawmakers
 4. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKCN0YO0E5)
 5. [VOA News](http://www.voanews.com/content/militant-behind-2015-garissa-attack-killed-in-somalia/3356923.html)
 6. [Washington Times](http://www.washingtontimes.com/news/2016/jun/1/abdullahi-daud-key-al-shabaab-leader-killed-us-air/)
+6. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160601&t=2&i=1139603349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC502RP)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Speaking in an interview to The Associated Press, Deputy Foreign Minister Gennad
 ### Source:
 
 1. [AP via Haaretz](http://www.haaretz.com/news/middle-east/russia-we-have-guarantees-assad-won-t-move-or-use-syria-s-chemical-weapons-1.460371)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.459951.1345737188!/image/2858390614.jpg_gen/derivatives/headline_1200x630/2858390614.jpg)
 
 ### Related:
 

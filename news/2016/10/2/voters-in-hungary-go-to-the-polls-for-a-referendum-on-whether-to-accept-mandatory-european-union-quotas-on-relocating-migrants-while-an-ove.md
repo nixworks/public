@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-37528325)
 2. [Reuters](http://www.reuters.com/article/us-europe-migrants-hungary-referendum-idUSKCN1213Q3)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161002&t=2&i=1155826801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC910LG)
 
 ### Related:
 

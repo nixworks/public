@@ -8,6 +8,7 @@ WASHINGTON -- Fourteen federal law enforcement officials -- from field agents in
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-justice-department-fast-and-furious-report-20120919,0,305599.story)
+1. [Cover Image](http://www.trbimg.com/img-505a0471/turbine/la-pn-justice-department-fast-and-furious-repo-001/600)
 
 ### Related:
 

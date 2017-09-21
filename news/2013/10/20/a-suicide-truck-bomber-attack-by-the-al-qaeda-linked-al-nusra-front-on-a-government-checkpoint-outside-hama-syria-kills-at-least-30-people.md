@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/10/20/car-bomb-syria-hama/3090413/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

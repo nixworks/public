@@ -9,6 +9,7 @@ Eight people, including two children, were found Sunday morning inside a tractor
 
 1. [Fox News](http://www.foxnews.com/us/2017/07/23/bodies-found-in-trailer-in-san-antonio.html)
 2. [Reuters](http://www.reuters.com/article/us-texas-bodies-idUSKBN1A80F5)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

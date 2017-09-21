@@ -9,6 +9,7 @@ China is trying its hardest to keep the South China Sea off the agenda -- but th
 
 1. [The Diplomat](http://thediplomat.com/2015/11/us-japan-put-south-china-sea-at-the-forefront-of-asia-summits/)
 2. [The New York Times](http://www.nytimes.com/2015/11/19/world/asia/obama-apec-summit-south-china-sea-philippines.html?ref=asia&_r=1)
+2. [Cover Image](http://thediplomat.com/wp-content/uploads/2015/05/thediplomat_2015-05-22_17-23-59-553x360.jpg)
 
 ### Related:
 

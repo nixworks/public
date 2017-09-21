@@ -8,6 +8,7 @@ The vote today opened the way for the Sunni coalition that had installed him to 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/06/11/world/middleeast/11cnd-Iraq.html?ex=1339214400&en=df7a85e68a17d746&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/06/11/world/11baghdad.75.jpg)
 
 ### Related:
 

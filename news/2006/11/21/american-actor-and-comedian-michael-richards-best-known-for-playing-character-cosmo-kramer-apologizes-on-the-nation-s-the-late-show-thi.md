@@ -8,10 +8,11 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 ### Source:
 
 1. [Newsday](http://www.newsday.com/entertainment/am-kramer1121,0,5594694.story?coll=ny-entertainment-headlines)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 
-1. [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man, Kenneth James Gleason, is arrested on suspicion of the murders. Gleason was out on bail for drug-related charges. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md) _Context: African-American_
+1. [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man is arrested on suspicion of the murders. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md) _Context: African-American_
 2. [The Primetime Emmy Awards is held in Los Angeles at the Microsoft Theater. Political satirist and "The Late Show" host Stephen Colbert hosts the event. ](/news/2017/09/17/the-primetime-emmy-awards-is-held-in-los-angeles-at-the-microsoft-theater-political-satirist-and-the-late-show-host-stephen-colbert-hosts.md) _Context: Los Angeles_
 3. [An explosion at a Northridge power plant causes a widespread power outage in the San Fernando Valley, Los Angeles. ](/news/2017/07/8/an-explosion-at-a-northridge-power-plant-causes-a-widespread-power-outage-in-the-san-fernando-valley-los-angeles.md) _Context: Los Angeles_
 4. [Chicago Police arrest four African-American suspects after they stream a video on Facebook showing themselves torturing and scalping a bound and gagged, kidnapped, white man with a mental disorder. The four suspects will face elevated hate crime charges. ](/news/2017/01/4/chicago-police-arrest-four-african-american-suspects-after-they-stream-a-video-on-facebook-showing-themselves-torturing-and-scalping-a-bound.md) _Context: African-American_

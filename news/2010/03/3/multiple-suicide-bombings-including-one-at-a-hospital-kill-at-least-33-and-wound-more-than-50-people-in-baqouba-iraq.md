@@ -10,6 +10,7 @@ Dozens die in Baquba as suicide bombers launch co-ordinated attacks days before 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/201033961873832.html)
 2. [CNN](http://www.cnn.com/2010/WORLD/meast/03/03/iraq.violence/index.html)
 3. [The Hindu](http://beta.thehindu.com/news/international/article125545.ece)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

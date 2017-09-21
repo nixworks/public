@@ -8,6 +8,7 @@ An estimated 300 people joined a protest march in Burns Saturday to support a lo
 ### Source:
 
 1. [Oregon Live](http://www.oregonlive.com/pacific-northwest-news/index.ssf/2016/01/drama_in_burns_ends_with_quiet.html)
+1. [Cover Image](http://image.oregonlive.com/home/olive-media/width620/img/oregonian/photo/2016/01/03/19486415-large.jpg)
 
 ### Related:
 

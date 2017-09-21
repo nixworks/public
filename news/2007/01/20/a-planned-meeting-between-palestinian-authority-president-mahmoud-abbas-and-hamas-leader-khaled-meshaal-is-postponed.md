@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6282867.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-01-20T220450Z_01_OWE057883_RTRUKOC_0_US-PALESTINIANS-ABBAS-MESHAAL.xml&WTmodLoc=IntNewsHome_C1_%5bFeed%5d-2)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

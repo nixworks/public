@@ -8,6 +8,7 @@ Airstrikes sent up dust and rubble and crushed several dozen people who had retu
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/10/19/world/middleeast/horrific-bombing-in-northern-syria-kills-dozens.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/10/19/Syria/Syria-superJumbo.jpg)
 
 ### Related:
 

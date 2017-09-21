@@ -8,6 +8,7 @@ The capture Tuesday of a fugitive Mexican mayor suspected of ordering the disapp
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-mayor-iguala-arrested-20141104-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5458c4e6/turbine/la-fg-mayor-iguala-arrested-20141104)
 
 ### Related:
 

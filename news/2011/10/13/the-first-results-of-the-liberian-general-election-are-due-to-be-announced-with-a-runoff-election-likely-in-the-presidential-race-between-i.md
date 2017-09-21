@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15271680)
 2. [VOA](http://www.voanews.com/english/news/africa/Liberias-Sirleaf-Leads-Early-Election-Tally-131802988.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55987000/jpg/_55987787_vot.jpg)
 
 ### Related:
 

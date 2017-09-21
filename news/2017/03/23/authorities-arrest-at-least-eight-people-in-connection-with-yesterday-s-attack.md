@@ -10,6 +10,7 @@ The Islamic State has claimed responsibility of the terror attack that left four
 1. [Fox News](http://www.foxnews.com/world/2017/03/23/london-attack-british-police-reportedly-make-arrests-in-raid-on-home.html)
 2. [Reuters](http://www.reuters.com/article/us-britain-security-attacker-idUSKBN16U26E)
 3. [The Telegraph](http://www.telegraph.co.uk/news/2017/03/23/london-attack-seven-arrested-police-raid-properties-linked-islamist/)
+3. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/03/23/0/0/694940094001_5369789822001_5369786204001-vs.jpg?ve=1)
 
 ### Related:
 

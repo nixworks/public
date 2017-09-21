@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/weather/2011/12/2011122610824200416.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/26/2011122695937750734_20.jpg)
 
 ### Related:
 

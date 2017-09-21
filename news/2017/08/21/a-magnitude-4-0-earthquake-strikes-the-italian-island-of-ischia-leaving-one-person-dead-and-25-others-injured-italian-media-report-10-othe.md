@@ -8,6 +8,7 @@ An earthquake on Ischia leaves at least one person dead, with reports of others 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-41007613)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/80EF/production/_97470033_epaischia.jpg)
 
 ### Related:
 

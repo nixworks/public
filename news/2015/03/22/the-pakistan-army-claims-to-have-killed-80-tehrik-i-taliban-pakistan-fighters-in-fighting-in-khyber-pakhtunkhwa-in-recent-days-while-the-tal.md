@@ -8,6 +8,7 @@ Pakistani troops kill 80 militants in heavy clashes in the country&#039;s lawles
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-03-22/pakistan-says-80-militants-killed-in-heavy-khyber-clashes/6339260)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

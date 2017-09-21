@@ -8,6 +8,7 @@ A winter storm bringing icy rain to the Great Plains and Midwest claimed the lif
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-weather-idUSKBN14X0ZU)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

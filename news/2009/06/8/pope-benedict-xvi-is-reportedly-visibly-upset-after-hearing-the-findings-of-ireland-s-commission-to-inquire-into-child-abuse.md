@@ -8,6 +8,7 @@ Pope Benedict was visibly upset by accounts of the Child Abuse Commission&#39;s 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0608/abuse.html)
+1. [Cover Image](https://img.rasset.ie/00025a9b-1600.jpg)
 
 ### Related:
 

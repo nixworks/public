@@ -8,6 +8,7 @@ More than 16,000 residents remain isolated and 3350 people are waiting to return
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/environment/weather/thousands-remain-isolated-as-floodwaters-ease-20110617-1g6iv.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/g/6/j/5/image.related.articleLeadwide.620x349.1g6iv.png/1308260139420.jpg)
 
 ### Related:
 

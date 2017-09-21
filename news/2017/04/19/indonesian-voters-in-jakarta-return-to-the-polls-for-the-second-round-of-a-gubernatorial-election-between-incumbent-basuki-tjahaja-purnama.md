@@ -9,6 +9,7 @@ The second round of voting in a bitterly fought campaign for Jakarta&#039;s top 
 
 1. [ABC News](http://www.abc.net.au/news/2017-04-18/jakarta-governor-election-to-go-ahead-amid-tensions/8448100)
 2. [BBC](http://www.bbc.com/news/world-asia-39636974)
+2. [Cover Image](http://www.abc.net.au/news/image/8448272-1x1-700x700.jpg)
 
 ### Related:
 

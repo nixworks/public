@@ -8,6 +8,7 @@ Friday&#39;s public announcement is unusual for South Korea, which typically kee
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/2016/04/08/13-north-korean-restaurant-workers-defect-en-masse-south-korea/82783440/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

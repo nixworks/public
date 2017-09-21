@@ -8,6 +8,7 @@ Pakistani authorities say a suicide bomber targeting policemen has killed four p
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/04/29/suicide-bomber-targeting-police-kills-4-people-in-northwest-pakistan/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/04/29/suicide-bomber-targeting-police-kills-4-people-in-northwest-pakistan/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422541858695.jpg?ve=1)
 
 ### Related:
 

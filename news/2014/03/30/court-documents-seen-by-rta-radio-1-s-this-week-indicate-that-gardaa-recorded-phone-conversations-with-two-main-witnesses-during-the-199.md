@@ -8,6 +8,7 @@ Gardaí recorded phone conversations with two main witnesses during the Sophie T
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2014/0330/605496-ian-bailey/)
+1. [Cover Image](https://img.rasset.ie/0003af82-1600.jpg)
 
 ### Related:
 

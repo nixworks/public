@@ -8,6 +8,7 @@ Bob Brown will spearhead Sea Shepherd Society&#039;s next anti-whaling protest i
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-01-08/bob-brown-takes-sea-shepherd-helm/4456424)
+1. [Cover Image](http://www.abc.net.au/news/image/4456458-1x1-700x700.jpg)
 
 ### Related:
 

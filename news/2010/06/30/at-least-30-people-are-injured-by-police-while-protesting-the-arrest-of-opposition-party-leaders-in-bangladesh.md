@@ -8,6 +8,7 @@ Dozens protesting arrest of opposition Islamic party leaders injured in clashes.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201063084745434188.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

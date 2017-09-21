@@ -8,6 +8,7 @@ Now there are eight. Suffolk police, investigating a likely serial killer since 
 ### Source:
 
 1. [Newsday](http://www.newsday.com/long-island/suffolk/three-more-remains-found-in-gilgo-area-1.2799238)
+1. [Cover Image](http://cdn.newsday.com/polopoly_fs/1.2801125.1302005282!/httpImage/image.JPG_gen/derivatives/landscape_1280/image.JPG)
 
 ### Related:
 

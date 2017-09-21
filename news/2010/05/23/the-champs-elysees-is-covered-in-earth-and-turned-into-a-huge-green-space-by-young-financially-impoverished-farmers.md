@@ -10,6 +10,7 @@ The Champs-Elysees avenue in Paris is turned into a green space by farmers to hi
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10143393.stm)
 2. [The Independent](http://www.independent.co.uk/news/world/europe/paris-goes-green-1979717.html)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/french-farmers-turn-champs-elysees-green-20100523-w3we.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

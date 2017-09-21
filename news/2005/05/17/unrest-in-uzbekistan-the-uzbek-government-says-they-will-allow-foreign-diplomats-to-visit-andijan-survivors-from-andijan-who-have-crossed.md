@@ -16,6 +16,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 7. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L16216312.htm)
 8. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L17559363.htm)
 9. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/05/17/wuzbek17.xml&sSheet=/news/2005/05/17/ixnewstop.html)
+9. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)
 
 ### Related:
 

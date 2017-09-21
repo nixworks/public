@@ -8,6 +8,7 @@ The pullback from an area where the Taliban and Al Qaeda have forged close ties 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/08/11/world/asia/11pstan.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

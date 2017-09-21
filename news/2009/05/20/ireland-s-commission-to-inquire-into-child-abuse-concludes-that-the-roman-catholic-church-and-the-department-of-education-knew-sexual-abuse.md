@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0520/abuse.html)
+1. [Cover Image](https://img.rasset.ie/00024dc0-1600.jpg)
 
 ### Related:
 

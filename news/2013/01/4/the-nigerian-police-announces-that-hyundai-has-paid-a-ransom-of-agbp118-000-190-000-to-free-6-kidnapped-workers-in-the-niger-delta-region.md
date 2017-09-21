@@ -8,6 +8,7 @@ South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six work
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20916441)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64858000/jpg/_64858204_62036323.jpg)
 
 ### Related:
 

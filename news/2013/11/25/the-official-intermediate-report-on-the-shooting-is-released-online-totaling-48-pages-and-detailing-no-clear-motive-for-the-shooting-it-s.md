@@ -9,6 +9,7 @@ A 40-plus page document based on hundreds of pages of research into the shooting
 
 1. [CNN](http://www.cnn.com/2013/11/25/justice/sandy-hook-shooting-report/index.html?hpt=hp_t2)
 2. [News 12 Connecticut](http://connecticut.news12.com/news/sandy-hook-elementary-school-shooting-summary-report-to-be-released-today-1.6492131)
+2. [Cover Image](http://cdn.news12.com/polopoly_fs/1.6495995.1385422114!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Efforts to curtail the environmental agency’s programs are not likely to end: 
 2. [New York Times](http://www.nytimes.com/2011/04/07/us/politics/07epa.html?_r=1)
 3. [Reuters](http://www.reuters.com/article/2011/04/07/us-climate-congress-idUSTRE7357HU20110407)
 4. [Washington Times](http://www.washingtontimes.com/news/2011/apr/6/senate-fails-to-curb-epa-s-climate-authority)
+4. [Cover Image](https://static01.nyt.com/images/2011/04/07/us/EPA/EPA-thumbStandard.jpg)
 
 ### Related:
 

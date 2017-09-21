@@ -8,6 +8,7 @@ Historically, a European has led the international financial body, but emerging 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/indepth/features/2011/05/2011529122148311156.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/31/20113318750762580_20.jpg)
 
 ### Related:
 

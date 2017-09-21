@@ -8,6 +8,7 @@ They promised a funeral fit for a king. There were to be dignitaries; a long red
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-vang-pao-20110205,0,1005839.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

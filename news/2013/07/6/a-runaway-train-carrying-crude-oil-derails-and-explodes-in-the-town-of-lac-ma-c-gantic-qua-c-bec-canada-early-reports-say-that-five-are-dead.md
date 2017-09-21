@@ -9,6 +9,7 @@ The train that careened into the centre of town early Saturday was unmanned when
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2013/07/07/quebec-train-derailment-explosion-lac-megantic.html)
 2. [The Gazette](http://www.montrealgazette.com/news/Train+carrying+crude+derails+explodes+Megantic/8625250/story.html)
+2. [Cover Image](http://www.montrealgazette.com/cms/binary/8625715.jpg)
 
 ### Related:
 

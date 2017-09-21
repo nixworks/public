@@ -10,6 +10,7 @@ NORTH Korea has issued a fresh warning to Seoul and Washington, threatening a hu
 1. [News.com.au](http://www.news.com.au/world/asia/north-korea-threatens-to-turn-washington-and-seoul-into-a-heap-of-ash/news-story/f1851e5cde3ef6cf88697b57a8a1f11f)
 2. [Reuters](http://www.reuters.com/article/us-northkorea-mines-idUSKCN10Y0YO)
 3. [Yonhap](http://english.yonhapnews.co.kr/news/2016/08/23/0200000000AEN20160823007200315.html?input=www.tweeter.com)
+3. [Cover Image](http://cdn.newsapi.com.au/image/v1/bb3604c343649e3bbce0f21901cca361)
 
 ### Related:
 
@@ -22,4 +23,4 @@ NORTH Korea has issued a fresh warning to Seoul and Washington, threatening a hu
 7. [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md) _Context: North Korea, North Korea-South Korea relations, Seoul_
 8. [China says that United States plans to bolster missile defences in response to provocations by North Korea would only intensify antagonism, and urges Washington to act prudently. ](/news/2013/03/18/china-says-that-united-states-plans-to-bolster-missile-defences-in-response-to-provocations-by-north-korea-would-only-intensify-antagonism.md) _Context: District of Columbia, North Korea, United States_
 9. [Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md) _Context: District of Columbia, North Korea, United States_
-10. [In a video interview posted on the state-run website Uriminzokkiri, the two sons of James Joseph Dresnok (the last remaining American defector to North Korea) have confirmed that their father has died of a stroke last November 2016. ](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.md) _Context: North Korea, North Korea-United States relations_
+10. [U.S. President Donald Trump defends U.S. sovereignty and threatens to "totally destroy" North Korea if it attacks the U.S. or its allies. ](/news/2017/09/19/u-s-president-donald-trump-defends-u-s-sovereignty-and-threatens-to-totally-destroy-north-korea-if-it-attacks-the-u-s-or-its-allies.md) _Context: North Korea, North Korea-United States relations_

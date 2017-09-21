@@ -11,6 +11,7 @@ Opposition socialists plan hunger strike as stalemate over June elections drags 
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8655575.stm)
 3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5527481,00.html?maca=en-rss-en-eu-2092-rdf)
 4. [France24](http://www.france24.com/en/20100501-albania-rama-socialists-call-recount-june-2009-elections-protests-tirana)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

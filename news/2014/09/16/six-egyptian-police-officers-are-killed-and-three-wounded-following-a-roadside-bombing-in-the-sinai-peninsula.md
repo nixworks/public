@@ -8,6 +8,7 @@ Six Egyptian policemen have been killed by a roadside bomb in the Sinai peninsul
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-29218654)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77611000/jpg/_77611979_egyptsinaigazael-arish4640914.jpg)
 
 ### Related:
 

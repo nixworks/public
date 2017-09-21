@@ -8,6 +8,7 @@ Uzbekistan’s first and only president was confirmed dead last week.
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/uzbek-prime-minister-shavkat-mirziyoyev-appointed-interim-president-report-496624?rx=us)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/09/06/putin-and-mirziyoyev.jpg)
 
 ### Related:
 

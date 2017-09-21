@@ -8,6 +8,7 @@ An Egyptian court sentenced the leader of the outlawed Muslim Brotherhood and 68
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/04/28/uk-egypt-brotherhood-idUKKBN0DE0LK20140428)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140428&t=2&i=892549272&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA3R0QU)
 
 ### Related:
 

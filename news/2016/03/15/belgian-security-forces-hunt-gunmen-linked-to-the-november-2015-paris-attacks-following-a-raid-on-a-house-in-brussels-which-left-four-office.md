@@ -9,6 +9,7 @@ Police in Brussels have shot dead a suspect in an anti-terror operation linked t
 
 1. [Irish Times](http://www.irishtimes.com/news/world/europe/brussels-on-high-alert-after-anti-terrorism-raid-leaves-one-dead-1.2573973)
 2. [The Independent](http://www.independent.co.uk/news/world/europe/brussels-anti-terror-raid-shooting-a6932326.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/15/14/brussels-shooting-5.jpg)
 
 ### Related:
 

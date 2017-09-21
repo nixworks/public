@@ -8,6 +8,7 @@ A Swedish Green Party politician, who ignited a storm of controversy after refus
 ### Source:
 
 1. [The Local](http://www.thelocal.se/20160420/swedish-politician-quits-after-refusing-to-shake-womens-hands)
+1. [Cover Image](https://www.thelocal.se/userdata/images/article/4d5473fcf312db78c1a195bbeeeaaf69eeee53d9d1bac173855f9f5fe263ccfc.jpg)
 
 ### Related:
 

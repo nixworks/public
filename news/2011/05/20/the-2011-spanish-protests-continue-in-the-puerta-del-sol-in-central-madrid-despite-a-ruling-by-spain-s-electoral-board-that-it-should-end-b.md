@@ -8,6 +8,7 @@ Young Spaniards plan to defy a ban on their protest camp in Madrid as their chal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13466977)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52851000/jpg/_52851317_012021638-1.jpg)
 
 ### Related:
 

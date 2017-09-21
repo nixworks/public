@@ -8,3 +8,4 @@ Investigators were headed Tuesday to the scene of a sightseeing helicopter crash
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2016/04/04/tourist-helicopter-crashes-in-tennessee-fatalities-reported.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/04/05/0/0/694940094001_4832080571001_c853c636-333e-4713-89e7-de2f8bc539d1.jpg?ve=1)

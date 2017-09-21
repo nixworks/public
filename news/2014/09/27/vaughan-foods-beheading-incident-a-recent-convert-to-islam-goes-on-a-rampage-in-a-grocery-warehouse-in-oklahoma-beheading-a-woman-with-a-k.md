@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://nation.foxnews.com/2014/09/26/women-beheaded-oklahoma-muslim-convert)
+1. [Cover Image](http://nation.foxnews.com/sites/nation.foxnews.com/files/styles/story_624_300/public/sep26_bt.gif)
 
 ### Related:
 

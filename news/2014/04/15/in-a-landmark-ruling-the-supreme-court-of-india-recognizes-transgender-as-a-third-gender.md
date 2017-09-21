@@ -8,6 +8,7 @@ The Supreme Court today created the &quot;third gender&quot; status for hijras o
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Supreme-Court-recognizes-transgenders-as-third-gender/articleshow/33767900.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/33769568.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Chinese diplomat injured and two consulate staff shot at an upmarket Philippine 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/philippines/11945268/Two-Chinese-consulate-staff-killed-at-Philippine-restaurant.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03478/Cebu_3478718k.jpg)
 
 ### Related:
 

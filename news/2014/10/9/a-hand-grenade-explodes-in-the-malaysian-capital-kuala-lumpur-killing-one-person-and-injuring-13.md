@@ -8,6 +8,7 @@ A hand grenade hurled from a parking lot into a popular tourist area of Kuala Lu
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/hand-grenade-kills-one-injures-13-in-kuala-lumpur-1412839820?tesla=y&mg=reno64-wsj&url=http://online.wsj.com/article/SB11955092128744023881304580203560440763730.html)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-EX688_malexp_G_20141009031303.jpg)
 
 ### Related:
 

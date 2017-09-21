@@ -9,6 +9,7 @@ Philippine miners claim the government’s environmental crackdown is a “demol
 
 1. [Gulf Times](http://www.gulf-times.com/story/509602/Philippine-miners-slam-demolition-campaign)
 2. [Jakarta Globe](http://jakartaglobe.beritasatu.com/se-asia/philippines-suspend-mines-environmental-crackdown/)
+2. [Cover Image](http://img.gulf-times.com/Content/Upload/Slider/82016252342273565977240.jpg)
 
 ### Related:
 

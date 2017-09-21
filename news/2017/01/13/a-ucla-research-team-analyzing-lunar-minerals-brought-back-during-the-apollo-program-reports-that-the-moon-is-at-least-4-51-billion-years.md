@@ -9,6 +9,7 @@ By analyzing minerals brought back by the 1971 Apollo mission, a new study from 
 
 1. [Independent](http://www.independent.co.uk/news/science/moon-age-how-old-earth-planet-satellite-science-scientists-ucla-a7524071.html)
 2. [Sci Tech Daily](http://scitechdaily.com/ucla-study-shows-the-moon-is-older-than-previously-thought/)
+2. [Cover Image](https://scitechdaily.com/images/Study-Shows-the-Moon-is-Older-Than-Prevoiusly-Thought.jpg)
 
 ### Related:
 

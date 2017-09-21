@@ -9,6 +9,7 @@ Japan&#039;s Jiroemon Kimura, recognised by Guinness World Records as the oldest
 
 1. [AFP via ''New Strait Times](http://www.nst.com.my/latest/world-s-oldest-ever-man-dies-aged-116-1.298657)
 2. [The Age](http://www.theage.com.au/world/oldest-man-in-history-dies-at-age-116-20130612-2o35e.html)
+2. [Cover Image](http://www.theage.com.au/content/dam/images/2/k/7/2/9/image.related.articleLeadwide.620x349.2o35e.png/1371004454247.jpg)
 
 ### Related:
 

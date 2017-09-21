@@ -8,6 +8,7 @@ The death toll in this week&#x27;s ferry disaster rose to 116 on Thursday when v
 ### Source:
 
 1. [AP via Yahoo News](http://news.yahoo.com/116-dead-more-missing-bangladesh-ferry-sinking-043153729.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

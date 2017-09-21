@@ -8,6 +8,7 @@ South Africa said on Friday it was quitting the International Criminal Court (IC
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-safrica-icc-idUSKCN12L025)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161021&t=2&i=1158386463&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9K0TJ)
 
 ### Related:
 

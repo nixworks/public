@@ -8,6 +8,7 @@ As shelling in the Damascus suburbs worsened, the United Nations warned that it 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/12/05/world/middleeast/assad-syria-conflict-updates.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/12/05/world/SYRIA/SYRIA-superJumbo.jpg)
 
 ### Related:
 

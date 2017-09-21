@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8224424.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE57Q16120090827)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090827&t=2&i=11381778&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-27T182935Z_01_BTRE57Q0YGY00_RTROPTP_0_SUDAN)
 
 ### Related:
 

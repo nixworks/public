@@ -9,6 +9,7 @@ PSLV-C38 blasted off from the first launch pad at Satish Dhawan Space Centre in 
 
 1. [Orlando Sentinel](http://www.orlandosentinel.com/news/space/os-bz-spacex-launch-bulgaria-sat-friday-20170623-story.html)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/isros-pslv-c38-places-cartosat-2s-and-30-nano-satellites-in-orbit/articleshow/59280366.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/msid-59280856/59280856.jpg?7665)
 
 ### Related:
 

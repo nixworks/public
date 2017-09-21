@@ -11,6 +11,7 @@ Thousands of Argentines filed past a flag-draped coffin to pay their respects to
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11657248)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Argentinas-Former-President-Nestor-Kirchner-Is-Buried-In-Private-Ceremony-Attended-By-Hugo-Chavez/Article/201010415786824?lpos=World_News_First_Home_Article_Teaser_Region_4&amp;lid=ARTICLE_15786824_Argentinas_Fo)
 4. [The Independent](http://www.independent.co.uk/news/world/americas/chanting-crowds-bid-farewell-to-beloved-argentinian-president-2120528.html)
+4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/10/29/21/484744.bin)
 
 ### Related:
 

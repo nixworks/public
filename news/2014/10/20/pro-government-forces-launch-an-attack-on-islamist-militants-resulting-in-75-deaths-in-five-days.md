@@ -8,6 +8,7 @@ Nine people have been killed in new violence in Benghazi where pro-government fo
 ### Source:
 
 1. [AFP via ''Business Standard](http://www.business-standard.com/article/pti-stories/75-killed-in-five-days-of-fighting-in-libya-s-benghazi-114102000044_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

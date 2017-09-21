@@ -9,6 +9,7 @@ A U.S. commando died and three others were wounded carrying out a deadly dawn ra
 
 1. [Reuters](http://www.reuters.com/article/us-usa-yemen-qaeda-idUSKBN15D08J)
 2. [The Guardian](https://www.theguardian.com/world/2017/jan/29/al-qaida-suspects-yemen-killed-raid-us-commandos)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170129&t=2&i=1170608786&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0S0GQ)
 
 ### Related:
 

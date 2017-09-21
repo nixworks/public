@@ -8,6 +8,7 @@ A woman is jailed for six months for enslaving two children in Mauritania, where
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12205329)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

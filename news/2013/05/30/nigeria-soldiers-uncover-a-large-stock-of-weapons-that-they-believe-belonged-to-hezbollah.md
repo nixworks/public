@@ -8,6 +8,7 @@ Soldiers in northern Nigeria uncovered a hidden arms cache that authorities beli
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2013/05/30/nigeria-military-secret-police-say-discovered-hezbollah-arms-cache-in-northern/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/05/30/nigeria-military-secret-police-say-discovered-hezbollah-arms-cache-in-northern/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422570886218.jpg?ve=1)
 
 ### Related:
 

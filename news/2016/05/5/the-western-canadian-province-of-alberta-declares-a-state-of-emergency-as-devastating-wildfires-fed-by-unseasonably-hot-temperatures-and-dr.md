@@ -12,6 +12,7 @@ Thousands of people trapped in isolated oilfield work camps north of Fort McMurr
 3. [Reuters via Voice of America](http://www.voanews.com/content/canada-fire-hit-as-government-cut-spending-on-prevention-planes/3317951.html)
 4. [Reuters](http://www.reuters.com/article/us-canada-wildfire-fortmcmurray-idUSKCN0XU2D8)
 5. [USA Today](http://www.usatoday.com/story/news/2016/05/05/raging-wildfire-drives-out-newly-resettled-evacuees/83960660/)
+5. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.2890616.1462536685!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

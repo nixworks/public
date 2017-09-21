@@ -9,6 +9,7 @@ At least 75 people have been killed and many are missing after flash floods and 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010672430476943.html)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_587283.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/6/20101065501277734_20.jpg)
 
 ### Related:
 

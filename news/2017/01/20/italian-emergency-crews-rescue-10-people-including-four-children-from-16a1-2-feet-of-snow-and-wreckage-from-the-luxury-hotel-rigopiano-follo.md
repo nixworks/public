@@ -8,6 +8,7 @@ Among the people pulled out alive was a plucky 6-year-old who just wanted her fa
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/avalanche-italy-hotel-five-pulled-put-five-being-saved/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/01/20/a812dd78-2402-4b61-b8c2-9ac4a02e1a06/italy.jpg)
 
 ### Related:
 

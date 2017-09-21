@@ -10,6 +10,7 @@ Chinese artist and activist Ai Weiwei returns home &quot;in good health&quot; ha
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/06/2011622155318767503.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13878859)
 3. [China Daily](http://www.chinadaily.com.cn/china/2011-06/22/content_12755816.htm)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53629000/jpg/_53629089_012277109-2.jpg)
 
 ### Related:
 

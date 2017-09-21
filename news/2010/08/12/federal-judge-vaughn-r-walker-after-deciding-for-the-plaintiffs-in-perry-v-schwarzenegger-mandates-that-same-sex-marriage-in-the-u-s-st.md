@@ -10,6 +10,7 @@ A federal district judge lifted a stay on his decision on same-sex marriage, but
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10956033)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/13/us-california-judge-gay-marriage)
 3. [The New York Times](http://www.nytimes.com/2010/08/13/us/13prop.html?_r=1&hp)
+3. [Cover Image](https://static01.nyt.com/images/2010/08/13/us/13prop_337-span/prop-1-thumbStandard.jpg)
 
 ### Related:
 

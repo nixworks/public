@@ -9,6 +9,7 @@ Lightning strikes a primary school in western Uganda, killing at least 18 childr
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13957968)
 2. [Uganda Monitor](http://www.monitor.co.ug/News/National/-/688334/1191234/-/byplbnz/-/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53747000/gif/_53747202_uganda_masindi304.gif)
 
 ### Related:
 

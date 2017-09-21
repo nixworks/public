@@ -8,6 +8,7 @@ Sri Lankan President Maithripala Sirisena dissolves parliament, paving the way f
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33292592)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/DD3E/production/_83883665_d8a58ce1-a5b8-4b19-bbfb-e215a7bc87ae.jpg)
 
 ### Related:
 

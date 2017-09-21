@@ -8,3 +8,4 @@ The US and UK bans affect direct flights from some Middle East airports.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39391562)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10F9B/production/_95313596_mediaitem95313591.jpg)

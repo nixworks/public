@@ -11,3 +11,4 @@ Bishop Abel Muzorewa, who died on April 8 aged 84, was the first black prime min
 2. [Daily Nation](http://www.nation.co.ke/News/africa/Former%20Zimbabwean%20PM%20Muzorewa%20dies%20at%2085/-/1066/895916/-/m8hjaqz/-/)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/obituaries/religion-obituaries/7572323/Bishop-Abel-Muzorewa.html)
 4. [Voice of America](http://www1.voanews.com/zimbabwe/news/human-interest/Zimbabwean-Transition-Figure-Muzorewa-Dies-In-Zimbabwe-of-Cancer-09Apr10-90385914.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01612/abel-muzorewa_1612930a.jpg)

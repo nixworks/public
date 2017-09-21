@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/20/us-china-unrest-village-idUSTRE7BJ0I320111220)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111220&t=2&i=549066227&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BJ11TP00)
 
 ### Related:
 

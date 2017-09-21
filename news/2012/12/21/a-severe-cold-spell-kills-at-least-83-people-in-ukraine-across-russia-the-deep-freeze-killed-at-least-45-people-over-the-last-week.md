@@ -9,6 +9,7 @@ At least 83 people have died in Ukraine from the severe cold spell gripping the 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20809898)
 2. [NBC News](http://worldnews.nbcnews.com/_news/2012/12/20/16022433-russias-deep-freeze-dozens-die-feels-like-50-below)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64893000/jpg/_64893609_64893608.jpg)
 
 ### Related:
 

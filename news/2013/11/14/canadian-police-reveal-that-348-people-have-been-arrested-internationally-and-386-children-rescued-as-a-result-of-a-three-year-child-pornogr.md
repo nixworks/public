@@ -9,6 +9,7 @@ Canadian police revealed that 348 people have been arrested and 386 children res
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-24944358)
 2. [RT](http://rt.com/news/hundreds-arrested-pornography-case-743/)
+2. [Cover Image](https://img.rt.com/files/news/21/23/f0/00/toronto-police.si.jpg)
 
 ### Related:
 

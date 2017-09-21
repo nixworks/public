@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-people-weiner-idUSKCN18F1K1)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170519&t=2&i=1185429251&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED4I192)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Alberto Fernandez apologized for saying that the U.S. had acted with “arroganc
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2006/10/23/world/23diplo.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

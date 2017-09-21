@@ -9,6 +9,7 @@ Indonesian President Susilo Bambang Yudhoyono urges Asian nations to agree on a 
 
 1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/asean-ministers-arrive-for-bali-talks-20110719-1hmn6.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14195994)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54145000/jpg/_54145168_012482450-1.jpg)
 
 ### Related:
 

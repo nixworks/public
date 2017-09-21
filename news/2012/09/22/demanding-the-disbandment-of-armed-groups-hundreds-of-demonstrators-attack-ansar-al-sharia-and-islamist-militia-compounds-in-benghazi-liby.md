@@ -10,6 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 1. [AFP via ''Libération](http://www.liberation.fr/depeches/2012/09/22/libye-benghazi-se-rebelle-contre-les-milices-les-autorites-craignent-le-chaos_848105)
 2. [AP via ''ABC News](http://abcnews.go.com/International/wireStory/libya-killed-protester-militia-clashes-17297504#.UF23f1HN58E)
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=285822)
+3. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=203448)
 
 ### Related:
 

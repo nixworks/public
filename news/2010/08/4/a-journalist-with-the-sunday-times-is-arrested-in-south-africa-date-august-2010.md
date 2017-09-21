@@ -11,6 +11,7 @@ Police became involved in a screaming match with senior Sunday Times editors as 
 2. [The Sowetan](http://www.sowetanlive.co.za/news/2010/08/04/journalist-arrested)
 3. [Times LIVE](http://www.timeslive.co.za/local/article586878.ece/Clampdown-feared-as-journalist-arrested)
 4. [iAfrica](http://news.iafrica.com/sa/2568140.htm)
+4. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/795120/drug-war-spiraling-out-of-control/amp)
 2. [Rappler](http://www.rappler.com/nation/139146-palace-critics-war-drugs-proof-violations)
+2. [Cover Image](https://assets.rappler.com/624D965093184F7E80C531A36F760172/img/BE4A8AF85B9948A794E44834CDC54B41/NBI-escort-five-suspects-selling-ecstasy-20160601-05.jpg)
 
 ### Related:
 

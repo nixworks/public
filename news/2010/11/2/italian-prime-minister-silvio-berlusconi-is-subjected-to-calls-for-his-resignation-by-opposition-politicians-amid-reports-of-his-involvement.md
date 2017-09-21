@@ -11,6 +11,7 @@ AS IF he did not have quite enough on his plate at the moment, Italian prime min
 2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/1103/1224282556592.html)
 3. [The New York Times](http://thelede.blogs.nytimes.com/2010/11/02/embattled-berlusconi-picks-fight-with-gays/?partner=rss&emc=rss)
 4. [The Times of India](http://timesofindia.indiatimes.com/world/europe/Berlos-latest-Better-to-be-fond-of-girls-than-be-gay/articleshow/6862813.cms)
+4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

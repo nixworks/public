@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/video/nightly-news/51898005/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Video/130515/nn_08bwi_everest_130515.blocks_desktop_large.jpg)
 
 ### Related:
 

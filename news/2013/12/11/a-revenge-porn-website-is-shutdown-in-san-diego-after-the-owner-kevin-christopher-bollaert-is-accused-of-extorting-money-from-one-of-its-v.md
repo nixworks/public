@@ -8,6 +8,7 @@ SAN DIEGO - A 27-year-old San Diego man was arrested Tuesday on suspicion of ope
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/la-me-revenge-porn-20131211,0,6054423.story#axzz2n0z8xNrL)
+1. [Cover Image](http://www.trbimg.com/img-52a7837f/turbine/la-me-ln-revenge-porn-20131210-001/600/600x400)
 
 ### Related:
 

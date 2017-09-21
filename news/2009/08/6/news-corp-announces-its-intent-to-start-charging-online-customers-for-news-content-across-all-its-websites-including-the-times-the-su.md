@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8186701.stm)
 2. [Reuters](http://www.reuters.com/article/paiddealsAtoms/idUS96313172220090806)
 3. [The New Zealand Herald](http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=10589130&ref=rss)
+3. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

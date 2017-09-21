@@ -11,6 +11,7 @@ Iran has accused Saudi Arabia of using warplanes to attack the Iranian embassy i
 2. [Reuters](http://bigstory.ap.org/article/8c809e01cbe34319af3b42e7d2d52d89/iran-says-saudi-led-airstrike-hit-iranian-embassy-yemen)
 3. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKBN0UL0OQ20160107)
 4. [The Washington Post](https://www.washingtonpost.com/world/middle_east/iran-claims-saudi-airstrike-on-yemen-embassy-amid-deepening-tensions/2016/01/07/fc6131ae-b52f-11e5-a76a-0b5145e8679a_story.html)
+4. [Cover Image](https://img.rt.com/files/2016.01/article/568e4664c36188e8358b45aa.jpg)
 
 ### Related:
 

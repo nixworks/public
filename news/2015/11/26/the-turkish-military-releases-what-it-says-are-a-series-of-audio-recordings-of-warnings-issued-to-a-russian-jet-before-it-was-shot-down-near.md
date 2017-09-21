@@ -8,6 +8,7 @@ Turkey&#039;s military releases recordings of apparent warnings issued to a Russ
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/2015-11-26/turkish-military-releases-recording-warning-sent-to-russian-jet/6976156)
+1. [Cover Image](http://www.abc.net.au/news/image/6976422-1x1-700x700.jpg)
 
 ### Related:
 

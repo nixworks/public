@@ -8,6 +8,7 @@ Venezuelan, Colombian presidents expected to meet on Tuesday to mend diplomatic 
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/20108823266455303.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

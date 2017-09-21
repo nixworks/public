@@ -8,6 +8,7 @@ The Taoiseach has rejected a claim that the holding of a second referendum on th
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0912/eulisbon.html)
+1. [Cover Image](https://img.rasset.ie/000295a2-1600.jpg)
 
 ### Related:
 

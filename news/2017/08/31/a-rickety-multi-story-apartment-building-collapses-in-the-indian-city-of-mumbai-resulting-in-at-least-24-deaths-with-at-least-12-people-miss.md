@@ -8,6 +8,7 @@ Rescuers work through the night to remove the rubble of a collapsed apartment bu
 ### Source:
 
 1. [AP via ABC News](http://www.abc.net.au/news/2017-09-01/rescuers-at-india-building-collapse-find-15-injured-24-dead/8863584)
+1. [Cover Image](http://www.abc.net.au/news/image/8863900-1x1-700x700.jpg)
 
 ### Related:
 

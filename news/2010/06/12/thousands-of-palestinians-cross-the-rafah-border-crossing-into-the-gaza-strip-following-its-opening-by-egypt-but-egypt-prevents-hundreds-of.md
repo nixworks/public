@@ -9,6 +9,7 @@ Gaza blockade not ending yet: Egypt prevents hundreds of activists carrying Pale
 
 1. [Sify News](http://sify.com/news/thousands-of-palestinians-aid-cross-egypt-s-border-with-gaza-news-international-kgmsabjbfhh.html)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3904043,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

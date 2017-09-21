@@ -8,6 +8,7 @@ Shia leader urges peaceful resistance and a rejection of violence in his first a
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111872647305497.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/8/201118143050539797_20.jpg)
 
 ### Related:
 

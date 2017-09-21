@@ -9,6 +9,7 @@ A proposal in Dmitri A. Medvedev’s state of the nation address has sparked rum
 
 1. [CBC](http://www.cbc.ca/world/story/2008/11/05/medvedev-speech.html)
 2. [The New York Times](http://www.nytimes.com/2008/11/07/world/europe/07putin.html?)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

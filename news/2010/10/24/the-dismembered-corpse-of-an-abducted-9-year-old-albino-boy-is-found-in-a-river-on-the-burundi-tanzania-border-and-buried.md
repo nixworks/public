@@ -8,6 +8,7 @@ The dismembered body of a young albino boy is found in a river on the Burundi-Ta
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11614957)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

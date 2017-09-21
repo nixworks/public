@@ -8,6 +8,7 @@ Former Luton South MP Margaret Moran is handed a two-year supervision order afte
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-20725315)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64108000/jpg/_64108052_margaretmoran.jpg)
 
 ### Related:
 

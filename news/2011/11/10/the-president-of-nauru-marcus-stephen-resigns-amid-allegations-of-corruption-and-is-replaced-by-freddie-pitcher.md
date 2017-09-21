@@ -8,6 +8,7 @@ The Opposition says a change of leadership in Nauru will not impact its policy o
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2011-11-10/nauru-president-resigns/3658114/?site=sydney)
+1. [Cover Image](http://www.abc.net.au/news/image/911230-1x1-700x700.jpg)
 
 ### Related:
 

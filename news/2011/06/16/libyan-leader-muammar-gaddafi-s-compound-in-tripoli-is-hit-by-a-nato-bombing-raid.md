@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/libya-jun-16-2011-0645)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13787681)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53439000/jpg/_53439247_aziziya.jpg)
 
 ### Related:
 

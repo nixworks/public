@@ -9,6 +9,7 @@ The UN torture investigator accuses the US of violating long-established rules b
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-14126223)
 2. [United Nations Human Rights Council](http://www2.ohchr.org/english/issues/torture/rapporteur/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52263000/gif/_52263959_0f7ufvkz.gif)
 
 ### Related:
 

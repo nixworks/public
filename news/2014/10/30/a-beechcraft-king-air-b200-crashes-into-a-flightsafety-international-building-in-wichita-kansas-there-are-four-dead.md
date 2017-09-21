@@ -8,6 +8,7 @@ NTSB officials arrive to begin investigating crash at Wichita airport that kille
 ### Source:
 
 1. [Wichita Eagle](http://www.kansas.com/news/local/article3468723.html)
+1. [Cover Image](http://www.kansas.com/news/local/ab8s76/picture3488905/ALTERNATES/LANDSCAPE_1140/103014kingaircrash_bc6%20(2).JPG)
 
 ### Related:
 

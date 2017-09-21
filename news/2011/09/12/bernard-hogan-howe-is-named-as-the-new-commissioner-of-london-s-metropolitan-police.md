@@ -8,6 +8,7 @@ Bernard Hogan-Howe is named as the new commissioner of the Metropolitan Police.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14888118)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55323000/jpg/_55323929_012891373-1.jpg)
 
 ### Related:
 

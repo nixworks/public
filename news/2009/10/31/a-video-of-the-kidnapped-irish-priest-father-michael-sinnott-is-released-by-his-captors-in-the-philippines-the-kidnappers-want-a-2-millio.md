@@ -8,6 +8,7 @@ Kidnappers holding Fr Michael Sinnott hostage in the Philippines have released a
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1031/sinnottm.html)
+1. [Cover Image](https://img.rasset.ie/0002b73c-1600.jpg)
 
 ### Related:
 

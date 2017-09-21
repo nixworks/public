@@ -8,6 +8,7 @@ Michael Vick has been indicted by a federal grand jury in connection with the do
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/nfl/news/story?id=2940065)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fheadshots%2Fnfl%2Fplayers%2Ffull%2F2549.png)
 
 ### Related:
 

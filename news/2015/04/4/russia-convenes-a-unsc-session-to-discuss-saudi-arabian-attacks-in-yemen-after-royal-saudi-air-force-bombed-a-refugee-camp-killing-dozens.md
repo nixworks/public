@@ -9,6 +9,7 @@ As the fighting in Yemen intensifies, Russia has submitted a draft resolution to
 
 1. [RT](http://rt.com/news/246685-yemen-security-council-meeting/)
 2. [Sputnik](http://sputniknews.com/politics/20150403/1020456724.html)
+2. [Cover Image](https://img.rt.com/files/news/3c/39/d0/00/un.si.jpg)
 
 ### Related:
 

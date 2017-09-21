@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22813905)
 2. [The Guardian](http://www.guardian.co.uk/uk/2013/jun/07/queen-photobombs-bbc-news-broadcasting-house)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68038000/jpg/_68038416_queenstudio.jpg)
 
 ### Related:
 

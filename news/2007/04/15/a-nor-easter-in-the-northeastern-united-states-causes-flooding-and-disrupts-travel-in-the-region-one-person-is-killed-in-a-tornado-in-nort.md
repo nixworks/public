@@ -9,6 +9,7 @@ A rare spring northeaster flooded shorelines and rivers, disrupted travel and wa
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory?id=3044325)
 2. [New York Times](http://www.nytimes.com/2007/04/16/nyregion/16storm.html?ex=1334376000&en=fffee2aa398f171f&ei=5088&partner=rssnyt&emc=rss)
+2. [Cover Image](https://static01.nyt.com/images/2007/04/16/nyregion/16storm-75.jpg)
 
 ### Related:
 

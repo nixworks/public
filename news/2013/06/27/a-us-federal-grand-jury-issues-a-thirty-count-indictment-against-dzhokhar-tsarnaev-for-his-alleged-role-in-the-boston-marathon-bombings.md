@@ -8,6 +8,7 @@ Dzhokhar Tsarnaev, the surviving Boston Marathon bombing suspect, was indicted T
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/06/28/us/boston-bombing-suspect-is-indicted-on-30-counts.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/06/28/us/BOMBINGS-2/BOMBINGS-2-videoLarge.jpg)
 
 ### Related:
 

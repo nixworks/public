@@ -9,6 +9,7 @@ Military officials and residents say al Qaeda has taken control of a major airpo
 
 1. [AP via ''Washington Times](http://www.washingtontimes.com/news/2015/apr/16/al-qaeda-captures-major-airport-oil-terminal-south/)
 2. [Zawya](http://www.zawya.com/story/Oman_receives_2695_Yemen_refugees_in_two_weeks-GN_16042015_170438/)
+2. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2015/04/16/AP187576774753.jpg)
 
 ### Related:
 

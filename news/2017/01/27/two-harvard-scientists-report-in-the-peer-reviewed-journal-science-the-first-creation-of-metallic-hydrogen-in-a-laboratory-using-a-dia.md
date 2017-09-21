@@ -10,6 +10,7 @@ US scientists draw controversy as they claim to have fulfilled the decades-long 
 1. [BBC](http://www.bbc.com/news/science-environment-38768683)
 2. [Chemistry World](https://www.chemistryworld.com/news/metallic-hydrogen-claim-faces-fiery-scrutiny/2500300.article)
 3. [Scientific American](https://www.scientificamerican.com/article/doubts-cloud-claims-of-metallic-hydrogen/)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/180F9/production/_93835589_saturn.jpg)
 
 ### Related:
 

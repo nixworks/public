@@ -8,6 +8,7 @@ At least 44 inmates are killed and several more injured after a fight breaks out
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17091170)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58589000/jpg/_58589611_mexicopolice.jpg)
 
 ### Related:
 

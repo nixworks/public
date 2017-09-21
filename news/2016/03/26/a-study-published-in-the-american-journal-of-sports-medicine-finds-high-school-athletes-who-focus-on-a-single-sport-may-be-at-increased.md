@@ -8,6 +8,7 @@ High school athletes who focus on a single sport may be at increased risk for kn
 ### Source:
 
 1. [UPI](http://www.upi.com/Health_News/2016/03/26/Injuries-More-Common-in-Teens-Who-Focus-on-Single-Sport/8341458998305/?spt=rln&or=3)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/8341458998305/2016/1/aa0c585584cfd90c1efb356f5645e64e/v1.5/Injuries-More-Common-in-Teens-Who-Focus-on-Single-Sport.jpg)
 
 ### Related:
 

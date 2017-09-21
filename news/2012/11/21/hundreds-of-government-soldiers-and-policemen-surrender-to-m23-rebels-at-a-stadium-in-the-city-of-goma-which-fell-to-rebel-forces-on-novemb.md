@@ -8,6 +8,7 @@ Thousands of soldiers and police surrender to M23 at a stadium in Goma after the
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/11/201211218184314168.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/21/20121121142816189734_20.jpg)
 
 ### Related:
 

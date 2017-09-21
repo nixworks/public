@@ -8,6 +8,7 @@ A fictional feature film is shot in Antarctica for the first time, using British
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-highlands-islands-19980602)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63555000/jpg/_63555262_darknesstwo_kw.jpg)
 
 ### Related:
 

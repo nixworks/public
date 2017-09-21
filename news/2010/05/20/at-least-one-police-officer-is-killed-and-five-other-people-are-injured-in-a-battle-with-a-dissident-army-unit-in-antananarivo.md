@@ -8,6 +8,7 @@ At least one police officer killed in battle with dissident army unit in capital
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010520131218435486.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

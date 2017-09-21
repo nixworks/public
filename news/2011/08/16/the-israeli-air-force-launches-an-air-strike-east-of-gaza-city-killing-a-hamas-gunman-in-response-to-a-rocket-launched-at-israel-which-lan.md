@@ -8,6 +8,7 @@ Palestinian sources: Air strike wounds 3 gunmen; separate strike targets smuggli
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=233931)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=163612)
 
 ### Related:
 

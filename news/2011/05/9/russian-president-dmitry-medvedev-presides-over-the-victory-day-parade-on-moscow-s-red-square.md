@@ -10,6 +10,7 @@ Not everyone regards Victory Day as a cause for celebration. In Western Ukraine,
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iZgBBB8nxx8JshXVaSWxVkrauxDg?docId=200c7f62a28445cfb6b9f3cf6165107d)
 2. [RT](http://rt.com/news/wwii-veterans-ukraine-police/)
 3. [Wikimedia Photos](http://commons.wikimedia.org/wiki/Category:Russian_May_2011_Parade)
+3. [Cover Image](https://img.rt.com/files/oldfiles/news/wwii-veterans-ukraine-police/soldiers-parties-entrance-radical.si.jpg)
 
 ### Related:
 

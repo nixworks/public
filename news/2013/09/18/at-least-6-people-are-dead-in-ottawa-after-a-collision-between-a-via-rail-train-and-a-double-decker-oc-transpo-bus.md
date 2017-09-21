@@ -8,6 +8,7 @@ An Ottawa city bus slammed into a Via Rail train at a level crossing during Wedn
 ### Source:
 
 1. [CTV](http://ottawa.ctvnews.ca/via-train-and-city-bus-crash-at-least-5-dead-officials-1.1459791)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1461003.1379588787!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

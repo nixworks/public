@@ -8,6 +8,7 @@ One person has died and as many as 50 workers are feared trapped after the roof 
 ### Source:
 
 1. [AFP via the ''Melbourne Age](http://www.theage.com.au/world/south-african-mall-collapses-leaving-50-trapped-1-dead-20131120-2xts7.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/2/x/t/u/3/image.related.articleLeadwide.620x349.2xts7.png/1384907475557.jpg)
 
 ### Related:
 

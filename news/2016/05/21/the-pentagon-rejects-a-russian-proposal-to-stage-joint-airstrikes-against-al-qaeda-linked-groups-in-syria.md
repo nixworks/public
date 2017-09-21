@@ -10,6 +10,7 @@ Russia has proposed to the U.S.-led coalition that they stage joint air strikes 
 1. [Huffington Post](http://www.huffingtonpost.com/entry/russia-proposes-joint-syria-airstrikes_us_573f28bce4b0613b512a0751)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-russia-usa-syria-idUSKCN0YB1HB)
 3. [VOA News](http://www.voanews.com/content/pentagon-rejects-joint-strikes-with-russia/3339269.html)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160520&t=2&i=1138062501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4J0UF)
 
 ### Related:
 

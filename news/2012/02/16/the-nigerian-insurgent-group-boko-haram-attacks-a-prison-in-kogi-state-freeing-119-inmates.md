@@ -8,6 +8,7 @@ Gunmen in Nigeria free more than 100 inmates from a jail in the centre of the co
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17059895)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58535000/gif/_58535080_nigeria_kogi304.gif)
 
 ### Related:
 

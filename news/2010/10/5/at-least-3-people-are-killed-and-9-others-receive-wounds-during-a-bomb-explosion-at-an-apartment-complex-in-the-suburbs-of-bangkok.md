@@ -9,6 +9,7 @@ A bomb explosion at an apartment building on the outskirts of the Thai capital o
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/10/06/3030454.htm)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11478509)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

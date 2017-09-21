@@ -8,6 +8,7 @@ Activists in Syria say a government MiG fighter jet has dropped a cluster bomb o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20491697)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64377000/gif/_64377148_weapons.gif)
 
 ### Related:
 

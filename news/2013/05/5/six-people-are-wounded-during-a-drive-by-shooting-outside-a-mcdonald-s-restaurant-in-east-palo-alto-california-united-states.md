@@ -9,6 +9,7 @@
 
 1. [Huffington Post](http://www.huffingtonpost.com/2013/05/06/east-palo-alto-mcdonalds_n_3223814.html?ir=San+Francisco)
 2. [San Francisco Chronicle](http://www.sfgate.com/columns/article/Six-people-shot-at-East-Palo-Alto-McDonald-s-4490167.php)
+2. [Cover Image](http://www.sfgate.com/img/pages/article/opengraph_default.png)
 
 ### Related:
 

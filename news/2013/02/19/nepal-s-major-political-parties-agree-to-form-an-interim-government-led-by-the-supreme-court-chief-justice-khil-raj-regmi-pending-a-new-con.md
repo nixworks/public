@@ -8,6 +8,7 @@ Nepal&#039;s major political parties have agreed to form an interim government l
 ### Source:
 
 1. [AP via NDTV](http://www.ndtv.com/article/world/nepal-parties-agree-on-interim-prime-minister-new-elections-332701)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

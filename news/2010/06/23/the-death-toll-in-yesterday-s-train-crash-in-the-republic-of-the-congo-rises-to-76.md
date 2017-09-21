@@ -9,6 +9,7 @@ Railway staff continue search for survivors of accident that killed at least 76 
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/201062317015408260.html)
 2. [TVNZ](http://tvnz.co.nz/world-news/congo-train-crash-death-toll-rises-76-3607092)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,3 +8,4 @@ At least five people are killed in an attack on the Kenyan coast, close to the s
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27991517#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75764000/jpg/_75764640_022754824-1.jpg)

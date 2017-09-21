@@ -8,6 +8,7 @@ Eleven people were injured, two seriously, when a stone staircase collapsed insi
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0705/museum.html)
+1. [Cover Image](https://img.rasset.ie/0000ee74-1600.jpg)
 
 ### Related:
 

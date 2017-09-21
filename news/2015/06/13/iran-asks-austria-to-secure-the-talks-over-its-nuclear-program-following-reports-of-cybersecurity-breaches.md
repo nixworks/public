@@ -8,6 +8,7 @@ Iran has asked Austria&#39;s government to take immediate measures to protect th
 ### Source:
 
 1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jun-13/301927-iran-asks-austria-to-secure-nuclear-talks-against-spying.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/06/13/425954_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

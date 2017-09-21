@@ -8,6 +8,7 @@ A federal judge ordered the release of five Algerian men held at Guantánamo Bay
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/11/21/us/21guantanamo.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

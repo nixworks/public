@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://espn.go.com/horse-racing/story/_/id/7972979/drug-cartel-linked-quarter-horse-operation)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

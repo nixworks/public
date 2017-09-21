@@ -15,3 +15,4 @@
 6. [The Independent](http://news.independent.co.uk/world/middle_east/article1188875.ece)
 7. [The Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1153433434727&call_pageid=970599119419)
 8. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20060721-114631-5605r)
+8. [Cover Image](http://graph.facebook.com/10227041841/picture)

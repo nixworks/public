@@ -13,6 +13,7 @@ The blast happened at the time when dozens of people were busy shopping in the v
 4. [Dawn News](http://www.dawn.com/news/1309800/several-injured-in-blast-at-parachinar-market)
 5. [Radio Pakistan](http://www.radio.gov.pk/21-Jan-2017/6-killed-30-injured-in-parachinar-blast)
 6. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKBN15507W)
+6. [Cover Image](http://img.astroawani.com/2016-11/81479112827_SuicideBombGeneric.jpg)
 
 ### Related:
 

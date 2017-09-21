@@ -8,6 +8,7 @@ Most Americans think the United States should raise taxes for the rich to balanc
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE7022AK20110103)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110103&t=2&i=294561124&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-03T161525Z_01_BTRE702185H00_RTROPTP_0_USA-TAXES)
 
 ### Related:
 

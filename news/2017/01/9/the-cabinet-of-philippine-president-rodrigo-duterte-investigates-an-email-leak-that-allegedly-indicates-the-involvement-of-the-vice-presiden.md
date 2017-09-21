@@ -8,6 +8,7 @@ Malacanang is investigating the alleged &quot;LeniLeaks&quot; controversy that s
 ### Source:
 
 1. [ABS-CBN](http://news.abs-cbn.com/news/01/09/17/palace-investigates-lenileaks)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/2017/news/01/09/010917_leni.jpg)
 
 ### Related:
 

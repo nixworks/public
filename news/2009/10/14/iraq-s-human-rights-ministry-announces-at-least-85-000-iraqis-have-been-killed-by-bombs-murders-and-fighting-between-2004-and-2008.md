@@ -9,6 +9,7 @@ A human rights ministry report says 85,000 killed in violence between 2004 and 2
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/10/2009101320124344577.html)
 2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hwK_CSpBxsNuVUEaDuOwmSSCiqGwD9BAUJF80)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

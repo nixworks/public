@@ -9,6 +9,7 @@ Nick Clegg faces calls to step down as Lib Dem leader after the party suffered h
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13303885)
 2. [The Guardian](http://www.guardian.co.uk/politics/2011/may/06/election-results-collapse-lib-dems?CMP=twt_fd)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52569000/jpg/_52569238_011911595-1.jpg)
 
 ### Related:
 
@@ -21,4 +22,4 @@ Nick Clegg faces calls to step down as Lib Dem leader after the party suffered h
 7. [ British polls open in the 2005 general election. Voters will elect 645 of the 646 members of the House of Commons. Most expect Tony Blair and his Labour Party to win, but both Michael Howard and the Conservative Party along with Charles Kennedy and the Liberal Democrats are expected to make major gains in Parliament. (Wikinews) ](/news/2005/05/5/british-polls-open-in-the-2005-general-election-voters-will-elect-645-of-the-646-members-of-the-house-of-commons-most-expect-tony-blair-a.md) _Context: Labour, Liberal Democrats_
 8. [ British Liberal Democrat leader Charles Kennedy calls for a reform of the UK voting system after Labour took the majority of the seats in the UK election with just 35% of the votes. ](/news/2005/05/26/british-liberal-democrat-leader-charles-kennedy-calls-for-a-reform-of-the-uk-voting-system-after-labour-took-the-majority-of-the-seats-in-t.md) _Context: Labour, Liberal Democrats_
 9. [ British Labour Party member Brian Sedgemore moves to the Liberal Democrats. ](/news/2005/04/26/british-labour-party-member-brian-sedgemore-moves-to-the-liberal-democrats.md) _Context: Labour, Liberal Democrats_
-10. [ Voting takes place in the Birmingham Hodge Hill and Leicester South parliamentary by-elections in the United Kingdom. The Labour Party retains Hodge Hill, narrowly, but loses Leicester South to the Liberal Democrats. The Conservative Party is pushed into third place in both seats. ](/news/2004/07/15/voting-takes-place-in-the-birmingham-hodge-hill-and-leicester-south-parliamentary-by-elections-in-the-united-kingdom-the-labour-party-reta.md) _Context: Labour, Liberal Democrats_
+10. [ A by-election for the Hartlepool constituency of the UK parliament, to fill the seat of Peter Mandelson, who resigned to take up a role in the European Union, results in a win for Labour (12,752), with the Liberal Democrats second (10,719). The Conservative Party (3,044) is pushed into fourth place by the UK Independence Party (3,193). ](/news/2004/09/30/a-by-election-for-the-hartlepool-constituency-of-the-uk-parliament-to-fill-the-seat-of-peter-mandelson-who-resigned-to-take-up-a-role-in.md) _Context: Labour, Liberal Democrats_

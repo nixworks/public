@@ -8,6 +8,7 @@ Toronto police confirm there is a link between the three deaths involving a cros
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/stabbing-scarborough-1.3735718)
+1. [Cover Image](https://i.cbc.ca/1.3736505.1472173438!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/crossbow-deaths-crime-scene.jpg)
 
 ### Related:
 

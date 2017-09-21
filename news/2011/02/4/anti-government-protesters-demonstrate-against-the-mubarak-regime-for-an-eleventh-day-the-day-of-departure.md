@@ -22,3 +22,4 @@
 13. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live#block-58)
 14. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/05/AR2011020500696.html?hpid=topnews)
 15. [a live stream](http://english.aljazeera.net/watch_now/)
+15. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2011/02/04/egypt-vp-targeted-assassination-attempt-killed-bodyguards-sources-tell-fox-news/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449532004981.jpg?ve=1)

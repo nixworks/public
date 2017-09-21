@@ -8,6 +8,7 @@ Four countries to launch joint command centre in Algerian city to counter growin
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201042193824466990.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

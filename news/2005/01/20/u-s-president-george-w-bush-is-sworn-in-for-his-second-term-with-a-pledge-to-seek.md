@@ -13,6 +13,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 4. [NewStandard](http://newstandardnews.net/content/index.cfm/items/1400)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=7385987)
 6. [freedom in all the world](http://www.whitehouse.gov/nsc/nss.pdf)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

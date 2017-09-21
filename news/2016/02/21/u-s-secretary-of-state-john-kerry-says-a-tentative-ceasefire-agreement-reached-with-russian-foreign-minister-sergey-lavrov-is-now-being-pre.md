@@ -9,6 +9,7 @@ Explosions rip through Homs and Damascus suburb as world leaders attempt to get 
 
 1. [CBS News](http://www.cbsnews.com/news/kerry-claims-provisional-agreement-on-syrian-cease-fire/)
 2. [Reuters via ''The Australian Financial Review](http://www.afr.com/news/world/kerry-says-he-and-lavrov-reach-provisional-deal-on-terms-of-syria-ceasefire-20160221-gmztat)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/02/12/e196a114-907c-469c-8328-95fcd082a5f7/ap324349324987.jpg)
 
 ### Related:
 

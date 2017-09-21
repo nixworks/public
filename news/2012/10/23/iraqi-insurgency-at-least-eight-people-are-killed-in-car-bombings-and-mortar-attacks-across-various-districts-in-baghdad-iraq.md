@@ -8,6 +8,7 @@ At least nine people have been killed in car bomb and mortar attacks in predomin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20039632)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63659000/jpg/_63659503_63659502.jpg)
 
 ### Related:
 

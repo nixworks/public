@@ -8,6 +8,7 @@ TUCSON -- At least five people were killed and 17 injured when a van crashed dur
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-ff-fatal-van-crash-ariz-20130421,0,5880885.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

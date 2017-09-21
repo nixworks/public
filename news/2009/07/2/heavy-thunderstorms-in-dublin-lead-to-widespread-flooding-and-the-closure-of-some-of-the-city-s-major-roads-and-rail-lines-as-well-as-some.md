@@ -9,6 +9,7 @@ There is extensive flooding in parts of Co Mayo following several hours of torre
 
 1. [RTÉ](http://www.rte.ie/news/2009/0702/dublin.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0702/breaking3.htm)
+2. [Cover Image](https://img.rasset.ie/00026afc-1600.jpg)
 
 ### Related:
 

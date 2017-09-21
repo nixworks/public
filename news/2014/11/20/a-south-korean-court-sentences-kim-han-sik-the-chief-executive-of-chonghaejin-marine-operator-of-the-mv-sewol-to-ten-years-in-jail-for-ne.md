@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/20/us-southkorea-ferry-idUSKCN0J40JP20141120)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141120&t=2&i=993227488&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAJ08F)
 
 ### Related:
 

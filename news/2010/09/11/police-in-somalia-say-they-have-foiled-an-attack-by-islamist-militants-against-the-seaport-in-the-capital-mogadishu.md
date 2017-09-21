@@ -9,6 +9,7 @@ Police in Somalia have said they foiled a suicide attack in the capital city of 
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE68A0RP20100911)
 2. [Sify](http://sify.com/news/suicide-attack-foiled-in-somalia-news-international-kjluudcdgjc.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

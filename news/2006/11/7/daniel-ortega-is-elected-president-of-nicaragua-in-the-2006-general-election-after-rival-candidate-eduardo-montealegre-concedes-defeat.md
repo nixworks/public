@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/6117704.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/americas/11/07/nicaragua.elections.reut/index.html)
 3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-11-08T004102Z_01_N05175492_RTRUKOC_0_US-NICARAGUA-ELECTION.xml)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

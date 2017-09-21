@@ -10,6 +10,7 @@ A nurse who was duped into transferring a prank call from two Australian radio p
 1. [BBC](http://www.bbc.co.uk/news/uk-20645838)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-2244608/Jacintha-Saldanha-Familys-grief-suicide-nurse-transferred-DJs-hoax-Kate-Middleton-hospital-call.html)
 3. [The Independent](http://www.independent.co.uk/news/uk/home-news/nurse-jacintha-saldanha-who-took-a-prank-phone-call-at-duchess-of-cambridges-hospital-is-found-dead-in-suspected-suicide-8393289.html)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/12/08/14/NurseREUTPA.jpg)
 
 ### Related:
 

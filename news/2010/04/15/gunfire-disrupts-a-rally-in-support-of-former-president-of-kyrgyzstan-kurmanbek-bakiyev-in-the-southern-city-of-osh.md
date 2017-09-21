@@ -9,6 +9,7 @@ Ousted President Kurmanbek Bakiyev fled Kyrgyzstan on Thursday and a government 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/20104156123795859.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6363CR20100415)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100415&t=2&i=92466514&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-15T205032Z_01_BTRE63E13M400_RTROPTP_0_KYRGYZSTAN-UNREST-USA)
 
 ### Related:
 

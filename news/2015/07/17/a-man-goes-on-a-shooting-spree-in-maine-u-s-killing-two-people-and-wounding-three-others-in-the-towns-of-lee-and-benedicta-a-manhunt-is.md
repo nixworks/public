@@ -8,6 +8,7 @@ A manhunt in Maine for a suspect wanted in connection with the fatal shootings o
 ### Source:
 
 1. [CBC](http://www.cbc.ca/m/news/canada/new-brunswick/manhunt-for-maine-shooting-suspect-ends-near-woodstock-border-1.3157496)
+1. [Cover Image](https://i.cbc.ca/1.3157716.1437153269!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/hi-woodstock-border.jpg)
 
 ### Related:
 

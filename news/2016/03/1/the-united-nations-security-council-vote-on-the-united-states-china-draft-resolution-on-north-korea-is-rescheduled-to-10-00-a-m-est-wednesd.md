@@ -8,6 +8,7 @@ A U.N. Security Council vote on a resolution to dramatically expand sanctions on
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-nuclear-un-idUSKCN0W34QN)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160301&t=2&i=1121529305&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC202IJ)
 
 ### Related:
 

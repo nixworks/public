@@ -8,6 +8,7 @@ One person dies and several are wounded in an explosion in a mainly Somali distr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-19118915)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62023000/gif/_62023813_kenya_nairobi304.gif)
 
 ### Related:
 

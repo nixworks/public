@@ -9,6 +9,7 @@ South Korean and Chinese defence ministers are to meet in Beijing in February am
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12079866)
 2. [China Daily](http://www.chinadaily.com.cn/world/2010-12/26/content_11756216.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

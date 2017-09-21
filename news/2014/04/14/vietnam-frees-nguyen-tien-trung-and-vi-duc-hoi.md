@@ -8,6 +8,7 @@ Vietnam frees two high-profile political activists after the recent release of d
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27019624)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74228000/jpg/_74228734_120232651.jpg)
 
 ### Related:
 

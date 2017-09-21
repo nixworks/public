@@ -8,6 +8,7 @@ Government troops have killed at least 11 members of a rebel group in the southe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-philippines-militants-idUSKBN13M0LQ?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

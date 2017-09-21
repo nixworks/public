@@ -8,6 +8,7 @@ General Motors Co is recalling more than 284,000 older Chevrolet small cars in t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/21/us-gm-recall-aveo-idUSBREA4K0G420140521?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140521&t=2&i=898728769&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA4K1C5000)
 
 ### Related:
 

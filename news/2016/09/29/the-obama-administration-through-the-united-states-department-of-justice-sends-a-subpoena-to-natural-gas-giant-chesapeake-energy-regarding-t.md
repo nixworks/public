@@ -8,6 +8,7 @@ Chesapeake Energy Corp (CHK.N) said it received a subpoena from the U.S. Departm
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-chesapeake-enrgy-investigation-doj-idUSKCN11Z23B?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160929&t=2&i=1155472968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8S16Z)
 
 ### Related:
 

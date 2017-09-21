@@ -10,6 +10,7 @@ Once known as a Polish center, Hamtramck now has big Arab and Bangladeshi popula
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/USA-Update/2015/1108/Michigan-city-elects-for-the-first-time-a-Muslim-majority-city-council)
 2. [Detroit Free Press](http://www.freep.com/story/news/local/michigan/wayne/2015/11/05/hamtramck-elects-muslim-majority-city-council/75237920/)
 3. [New Civil Rights Movement](http://www.thenewcivilrightsmovement.com/uncucumbered/michigan_city_makes_history_elects_muslim_majority_city_council)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/freep.png)
 
 ### Related:
 

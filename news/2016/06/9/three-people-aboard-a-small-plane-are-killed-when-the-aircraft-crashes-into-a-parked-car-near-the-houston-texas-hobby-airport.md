@@ -8,6 +8,7 @@ HOUSTON (AP) — A small plane crashed into a car Thursday in a parking lot near
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/96792d03734a46128176a3394cdb2b74/3-dead-after-plane-crashes-car-near-houston-airport)
+1. [Cover Image](http://binaryapi.ap.org/d881f7e6a3a245eaaf401364056eab42/460x.jpg)
 
 ### Related:
 

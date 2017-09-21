@@ -8,6 +8,7 @@ Humanitarian crisis feared as thousands of north African migrants, mainly from T
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/europe/2011/02/20112122328974957.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/12/20112127586834621_20.jpg)
 
 ### Related:
 

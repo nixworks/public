@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/08/20098133741167236.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/americas/08/01/venezuela.radio.stations/)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

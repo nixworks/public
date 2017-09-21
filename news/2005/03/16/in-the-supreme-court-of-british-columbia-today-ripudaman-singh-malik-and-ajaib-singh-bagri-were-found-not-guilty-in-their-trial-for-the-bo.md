@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000082&sid=aG32VeuUFtVw&refer=Canada)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7923863)
 3. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050316.w4airindiamain0316/BNStory/National/)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

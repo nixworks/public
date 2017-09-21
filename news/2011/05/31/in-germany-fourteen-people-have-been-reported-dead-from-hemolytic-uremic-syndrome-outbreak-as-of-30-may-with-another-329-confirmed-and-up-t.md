@@ -8,6 +8,7 @@ German officials held crisis talks, with reports at least 14 people have died am
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2011/05/31/3231232.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2735650-1x1-700x700.jpg)
 
 ### Related:
 

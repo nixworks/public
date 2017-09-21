@@ -9,6 +9,7 @@ Security forces enter Lalgarh region of West Bengal under rebel control.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/06/200962085058724519.html)
 2. [Press Trust of India](http://www.ptinews.com/pti%5Cptisite.nsf/0/01908C93652ECE02652575DB003ED65C?OpenDocument)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

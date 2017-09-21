@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17553696)
 2. [The Guardian](http://www.guardian.co.uk/news/blog/2012/mar/29/fuel-panic-live-updates-petrol)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59374000/jpg/_59374543_014389451-1.jpg)
 
 ### Related:
 

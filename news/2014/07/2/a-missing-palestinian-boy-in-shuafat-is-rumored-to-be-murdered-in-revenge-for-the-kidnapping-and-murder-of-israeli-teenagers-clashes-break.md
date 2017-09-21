@@ -8,6 +8,7 @@ The rumors of the murder of 17-year-old Muhammad Abu Khdeir passed among many re
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/National-News/In-Shuafat-the-summer-heat-and-Ramadan-are-no-match-for-Palestinian-rage-361356)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=247903)
 
 ### Related:
 

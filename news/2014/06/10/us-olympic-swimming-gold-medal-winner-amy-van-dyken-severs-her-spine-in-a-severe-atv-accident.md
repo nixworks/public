@@ -8,6 +8,7 @@ A six-time US Olympic gold medal-winning swimmer severs her spinal cord in an al
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-27783961)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75427000/jpg/_75427658_75427657.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Boeing received a $35 billion contract even though it and its supporters had see
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/02/25/business/25tanker.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/02/25/business/25tanker/25tanker-thumbStandard.jpg)
 
 ### Related:
 

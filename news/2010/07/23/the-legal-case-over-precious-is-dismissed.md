@@ -8,6 +8,7 @@ A lawsuit between two film companies over the rights to the film Oscar-winning f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10733421)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

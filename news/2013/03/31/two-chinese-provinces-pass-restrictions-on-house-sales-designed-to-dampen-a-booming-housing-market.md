@@ -8,6 +8,7 @@ Beijing and Shanghai announced they would put in place new restrictions and pena
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/01/business/global/china-releases-new-measures-to-restrict-housing-sales.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/01/world/YUAN/YUAN-videoLarge.jpg)
 
 ### Related:
 

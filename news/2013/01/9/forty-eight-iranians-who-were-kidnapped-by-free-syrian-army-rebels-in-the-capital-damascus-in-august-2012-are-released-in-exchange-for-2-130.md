@@ -8,6 +8,7 @@ Forty-eight Iranians held hostage by Syrian rebels since August are freed, repor
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20958065)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65185000/jpg/_65185999_65185998.jpg)
 
 ### Related:
 

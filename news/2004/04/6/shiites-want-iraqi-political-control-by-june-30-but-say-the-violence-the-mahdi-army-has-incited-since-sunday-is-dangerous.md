@@ -13,6 +13,7 @@ Shiites want Iraqi political control by June 30 but say the violence the Mahdi A
 4. [Christian Science Monitor](http://www.csmonitor.com/2004/0407/p01s02-wome.html)
 5. [Democracy Now!](http://www.democracynow.org/article.pl?sid=04/04/06/1354213)
 6. [Financial Times](http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1079420198499)
+6. [Cover Image](https://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_900x600.png)
 
 ### Related:
 

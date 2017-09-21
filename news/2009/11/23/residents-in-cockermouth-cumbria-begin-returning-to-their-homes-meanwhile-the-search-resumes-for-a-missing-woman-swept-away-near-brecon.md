@@ -10,6 +10,7 @@ Parts of Co Clare are on high flood alert because of increasing water levels in 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/8373937.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/wales/8373327.stm)
 3. [RTÉ](http://www.rte.ie/news/2009/1123/weather.html)
+3. [Cover Image](https://img.rasset.ie/0002c71c-1600.jpg)
 
 ### Related:
 

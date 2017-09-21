@@ -8,6 +8,7 @@ Fitch Ratings upgraded Ford Motor Co (F.N) to investment grade on Tuesday, marki
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/04/24/us-ford-rating-idUSBRE83N0OS20120424)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120424&t=2&i=598648247&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE83N12J800)
 
 ### Related:
 

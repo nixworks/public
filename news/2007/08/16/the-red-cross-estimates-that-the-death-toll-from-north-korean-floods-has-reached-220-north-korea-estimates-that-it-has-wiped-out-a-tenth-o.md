@@ -9,6 +9,7 @@ North Korea detailed a picture of widespread devastation on Wednesday after heav
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6949275.stm)
 2. [NYT](http://www.nytimes.com/2007/08/16/world/asia/16korea.html?_r=1&ref=world&oref=slogin)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

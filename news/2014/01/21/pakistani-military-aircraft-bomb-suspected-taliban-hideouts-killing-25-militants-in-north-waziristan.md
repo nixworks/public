@@ -9,6 +9,7 @@
 
 1. [India Today](http://indiatoday.intoday.in/story/25-taliban-militants-killed-in-pakistan-air-strikes/1/338932.html)
 2. [Reuters](http://www.reuters.com/article/2014/01/21/us-pakistan-bomb-idUSBREA0K11020140121)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140121&t=2&i=831375855&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0K1F5O00)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Haaretz](http://www.haaretz.com/news/middle-east/syria-shells-port-city-of-latakia-at-least-26-dead-1.378593)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4108606,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

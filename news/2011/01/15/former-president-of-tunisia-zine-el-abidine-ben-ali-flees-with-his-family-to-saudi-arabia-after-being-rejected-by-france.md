@@ -21,6 +21,7 @@ Tunisian President Zine al-Abidine Ben Ali flees to Saudi Arabia with his family
 12. [The Guardian](http://www.guardian.co.uk/world/2011/jan/15/jordanians-protest-over-food-prices)
 13. [Toronto Star](http://www.thestar.com/news/world/article/922567--rallies-across-canada-support-tunisian-uprising)
 14. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4013877,00.html)
+14. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

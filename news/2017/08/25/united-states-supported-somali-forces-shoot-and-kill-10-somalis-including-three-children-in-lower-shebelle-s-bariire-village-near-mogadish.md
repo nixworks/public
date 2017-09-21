@@ -9,6 +9,7 @@ Somali forces supported by U.S. troops shot dead 10 Somalis, including three chi
 
 1. [Garowe Online](http://www.garoweonline.com/en/news/somalia/conflicting-accounts-emerge-in-wake-of-raid-in-somalia)
 2. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKCN1B523H)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170825&t=2&i=1198571475&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7O1HO)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Japanese prime minister threatens force if China attempts to land on island chai
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134234352877776.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/2/9/20132962754747734_20.jpg)
 
 ### Related:
 

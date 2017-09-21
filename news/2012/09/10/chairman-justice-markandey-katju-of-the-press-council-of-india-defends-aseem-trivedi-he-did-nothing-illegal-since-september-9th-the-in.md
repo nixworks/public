@@ -10,6 +10,7 @@ Aseem Trivedi was arrested on charges of sedition and insulting national honor, 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Asia-South-Central/2012/0910/Indian-artist-jailed-for-anticorruption-cartoons)
 2. [First Post](http://www.firstpost.com/india/cartoonist-sent-to-judicial-custody-on-sedition-charges-449214.html)
 3. [Indian Express](http://www.indianexpress.com/news/arrest-of-cartoonist-aseem-trivedi-a-crime-katju/1000413/)
+3. [Cover Image](http://images.csmonitor.com/csm/2012/09/0910-India-Cartoonist-Jailed.jpg?alias=standard_900x600)
 
 ### Related:
 

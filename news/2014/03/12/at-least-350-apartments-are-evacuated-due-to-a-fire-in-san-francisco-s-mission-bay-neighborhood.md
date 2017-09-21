@@ -8,6 +8,7 @@
 ### Source:
 
 1. [KNTV](http://www.nbcbayarea.com/news/local/Winds-Hamper-Mission-Bay-Fire-Hot-Spots-in-San-Francisco-Fire-Near-ATT-Park--249718291.html?_osource=SocialFlowTwt_BAYBrand)
+1. [Cover Image](http://media.nbcbayarea.com/images/1200*685/chinabasin3.jpg)
 
 ### Related:
 

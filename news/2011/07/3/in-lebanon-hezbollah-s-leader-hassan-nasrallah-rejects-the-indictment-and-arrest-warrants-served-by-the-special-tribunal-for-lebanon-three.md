@@ -10,6 +10,7 @@ Hezbollah leader says UN tribunal investigating death of former Lebanese PM shou
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201172183540290278.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-14004096)
 3. [The Daily Star](http://www.dailystar.com.lb/News/Politics/2011/Jul-03/Lebanons-Arabic-press-digest---July-3-2011.ashx)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/2/201172184519402621_20.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ TEHRAN (Tasnim) – Former Iranian president Mahmoud Ahmadinejad said he does no
 2. [Tasnim](http://www.tasnimnews.com/en/news/2016/09/27/1197899/iran-s-ahmadinejad-says-has-no-plans-to-run-for-president-next-year)
 3. [The New York Times](http://www.nytimes.com/2016/09/27/world/middleeast/iran-ayatollah-ali-khamenei-mahmoud-ahmadinejad.html?_r=0)
 4. [The Tehran Times](http://www.tehrantimes.com/news/406791/Ahmadinejad-writes-to-Leader-says-doesn-t-contest-presidential)
+4. [Cover Image](https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1395/07/06/139507061452465148773983.jpg)
 
 ### Related:
 

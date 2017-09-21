@@ -9,6 +9,7 @@ A former peanut company executive was sentenced Monday to 28 years in prison for
 
 1. [LA Times](http://www.latimes.com/nation/nationnow/la-na-nn-salmonella-sentence-20150921-story.html)
 2. [USA Today](http://www.usatoday.com/story/money/business/2015/09/21/peanut-executive-salmonella-sentencing/72549166)
+2. [Cover Image](http://www.trbimg.com/img-560081f1/turbine/la-na-nn-salmonella-sentence-20150921)
 
 ### Related:
 

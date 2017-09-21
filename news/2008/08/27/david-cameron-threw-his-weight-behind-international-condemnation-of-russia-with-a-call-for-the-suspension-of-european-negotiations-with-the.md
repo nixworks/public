@@ -21,6 +21,7 @@ Ukrainian President Viktor Yushchenko has condemned Russia&#39;s &#39;unacceptab
 12. [The Independent](http://www.independent.co.uk/news/world/europe/miliband-warns-russia-against-starting-a-new-cold-war-909861.html)
 13. [USA Today](http://blogs.usatoday.com/ondeadline/2008/08/french-diplomat.html)
 14. [Xinhua](http://www.chinadaily.com.cn/world/2008-08/27/content_6976203.htm)
+14. [Cover Image](https://img.rasset.ie/0001af3f-1600.jpg)
 
 ### Related:
 

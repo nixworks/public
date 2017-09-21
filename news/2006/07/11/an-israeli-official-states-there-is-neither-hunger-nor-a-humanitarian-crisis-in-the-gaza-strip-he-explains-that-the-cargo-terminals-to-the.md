@@ -8,6 +8,7 @@ Palestinians often present exaggerated picture to advance their own interests, h
 ### Source:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274086,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

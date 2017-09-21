@@ -8,6 +8,7 @@ The President of Azerbaijan has said in a highly militant series of messages tha
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/president-of-azerbaijan-declares-state-of-war-with-armenia-on-twitter-9655692.htmll)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/08/07/23/Ilham-Aliyev.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two powerful bombs exploded near a military compound in the northwestern Syrian 
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/2-blasts-kill-least-8-syrian-city-idlib-090752286.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

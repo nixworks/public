@@ -9,6 +9,7 @@
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/breaking-news/greenland-to-get-first-woman-pm/story-fn3dxix6-1226596814879)
 2. [AP via CBC](http://www.cbc.ca/news/canada/north/story/2013/03/13/north-greenland-election-results.html)
+2. [Cover Image](https://i.cbc.ca/1.1378675.1378965681!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-aleqa-hammond-greenland-cp04127774.jpg)
 
 ### Related:
 

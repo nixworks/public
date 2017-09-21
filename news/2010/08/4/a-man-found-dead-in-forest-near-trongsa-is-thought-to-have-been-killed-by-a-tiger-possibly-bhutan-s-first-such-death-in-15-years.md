@@ -8,6 +8,7 @@ Officials in Bhutan investigate whether a man found dead in forest near the town
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10872121)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

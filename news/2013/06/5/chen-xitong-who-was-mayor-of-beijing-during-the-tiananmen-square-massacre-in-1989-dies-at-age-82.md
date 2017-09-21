@@ -8,6 +8,7 @@ Mr. Chen’s stance on the Tiananmen Square protests of 1989 earned him promotio
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/06/06/world/asia/chen-xitong-mayor-during-tiananmen-protests-dies.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/06/06/world/asia/06chen/06chen-videoLarge.jpg)
 
 ### Related:
 

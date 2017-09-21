@@ -10,6 +10,7 @@ SINGAPORE - June 8 has been declared a Day of National Remembrance for the victi
 1. [AP via Yahoo! News](http://news.yahoo.com/malaysia-climber-says-lucky-live-quake-kills-13-055130664.html)
 2. [Straits Times](http://www.straitstimes.com/news/singapore/more-singapore-stories/story/sabah-quake-day-national-remembrance-day-june-8-20150607)
 3. [Today](http://www.todayonline.com/singapore/sabah-quake-monday-declared-day-national-remembrance)
+3. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/06/07/KatongBouquets070615e_2x.jpg?itok=FW-rjVWm)
 
 ### Related:
 

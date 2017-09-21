@@ -12,6 +12,7 @@
 3. [The Guardian](http://www.guardian.co.uk/media/2010/dec/05/columbia-students-wikileaks-cables)
 4. [The Guardian](http://www.guardian.co.uk/media/2010/dec/05/julian-assange-lawyers-being-watched)
 5. [The Times of India](http://timesofindia.indiatimes.com/world/europe/WikiLeaks-bank-account-in-Switzerland-under-scrutiny-Report/articleshow/7049045.cms)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/2010125135242587876_20.jpg)
 
 ### Related:
 

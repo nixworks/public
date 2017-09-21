@@ -8,6 +8,7 @@ Group ends 20-month campaign after army captures last hilltop strongholds, raisi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/11/dr-congo-army-defeats-m23-rebels-201311653333587664.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/11/6/201311645355473734_20.jpg)
 
 ### Related:
 

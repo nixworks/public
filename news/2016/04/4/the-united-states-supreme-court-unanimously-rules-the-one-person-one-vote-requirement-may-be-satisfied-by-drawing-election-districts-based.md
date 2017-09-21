@@ -10,6 +10,7 @@ The constitutional maxim does not require states to use eligible voters when dra
 1. [Reuters via CNBC](http://www.cnbc.com/2016/04/04/us-supreme-court-declines-to-take-up-wal-mart-class-action-appeal.html)
 2. [The Atlantic](http://www.theatlantic.com/politics/archive/2016/04/evenwel-ruling-supreme-court/470280/)
 3. [The Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-rejects-conservative-bid-to-count-only-eligible-voters-for-districts/2016/04/04/67393e52-fa6f-11e5-9140-e61d062438bb_story.html)
+3. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2016/02/RTX26TC0/facebook.jpg?1456262172)
 
 ### Related:
 

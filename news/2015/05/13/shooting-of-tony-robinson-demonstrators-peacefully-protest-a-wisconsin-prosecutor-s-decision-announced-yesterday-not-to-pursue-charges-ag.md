@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Milwaukee Wisconsin Journal Sentine''l](http://www.jsonline.com/news/crime/protesters-march-in-madison-day-after-da-declines-to-charge-officer-in-tony-robinson-killing-b994996-303603071.html)
+1. [Cover Image](http://media.jrn.com/images/b99499639z.1_20150513172907_000_gr9b3iub.2-2.jpg)
 
 ### Related:
 

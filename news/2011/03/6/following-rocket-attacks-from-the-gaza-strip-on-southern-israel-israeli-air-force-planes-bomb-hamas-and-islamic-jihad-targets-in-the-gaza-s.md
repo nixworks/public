@@ -10,6 +10,7 @@ Sources in Strip say Air Force jets bombed several targets in Khan Younis, Deir 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113613338552670.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/06/c_13763379.htm)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4037968,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

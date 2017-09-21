@@ -9,6 +9,7 @@ Bomb shelter of family in Homs countryside hit by apparent Russian rocket, killi
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/10/russian-strike-kills-48-single-family-syria-151018080911182.html)
 2. [The New York Times](http://www.nytimes.com/2015/10/19/world/middleeast/leader-of-qaeda-cell-killed-in-airstrike-in-syria-pentagon-says.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/10/15/c28bc2e966a1440d9cea8a8850969460_18.jpg)
 
 ### Related:
 

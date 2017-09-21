@@ -8,6 +8,7 @@ Dissident Northern Ireland republican group warns it will step up campaign of vi
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/2010915112756408739.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/15/2010915112624217734_20.jpg)
 
 ### Related:
 

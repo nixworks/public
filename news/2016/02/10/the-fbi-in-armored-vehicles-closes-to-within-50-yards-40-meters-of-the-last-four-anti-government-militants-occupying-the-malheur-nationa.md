@@ -9,6 +9,7 @@ The four holdouts in the armed occupation of a federal wildlife refuge in Oregon
 
 1. [OregonLive](http://www.oregonlive.com/oregon-standoff/2016/02/oregon_standoff_fbi_moves_in_o.html)
 2. [Reuters](http://www.reuters.com/article/us-oregon-militia-idUSKCN0VK05F)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160217&t=2&i=1118198003&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1B006)
 
 ### Related:
 

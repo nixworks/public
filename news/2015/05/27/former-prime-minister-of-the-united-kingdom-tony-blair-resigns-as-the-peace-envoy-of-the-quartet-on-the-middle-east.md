@@ -8,6 +8,7 @@ Former British prime minister Tony Blair resigns as envoy of the Middle East Qua
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2015-05-28/british-ex-pm-tony-blair-quits-as-middle-east-envoy/6502688)
+1. [Cover Image](http://www.abc.net.au/news/image/5271124-1x1-700x700.jpg)
 
 ### Related:
 

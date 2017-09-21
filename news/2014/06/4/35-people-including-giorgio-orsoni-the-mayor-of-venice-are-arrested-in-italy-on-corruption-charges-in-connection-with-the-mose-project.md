@@ -8,6 +8,7 @@ The mayor of Venice is among 35 people arrested in Italy over alleged corruption
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-27692334)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75289000/jpg/_75289011_022535160-1.jpg)
 
 ### Related:
 

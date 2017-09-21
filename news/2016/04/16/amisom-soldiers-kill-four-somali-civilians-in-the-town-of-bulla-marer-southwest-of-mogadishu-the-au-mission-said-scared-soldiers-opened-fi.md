@@ -8,6 +8,7 @@ African Union (AU) kill four civilians travelling in a car in southern Somalia, 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36063753)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D54F/production/_89270645_032204707-1.jpg)
 
 ### Related:
 

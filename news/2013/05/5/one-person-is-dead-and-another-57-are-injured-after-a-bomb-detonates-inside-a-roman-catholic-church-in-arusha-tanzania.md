@@ -8,6 +8,7 @@ A suspected bomb attack on a new Catholic church in the northern Tanzanian town 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/05/us-tanzania-blast-idUSBRE94404320130505)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130505&t=2&i=728881804&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94416TJ00)
 
 ### Related:
 

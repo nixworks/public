@@ -9,6 +9,7 @@
 
 1. [De Standaard'', in Dutch](http://www.standaard.be/artikel/detail.aspx?artikelid=DMF20120823_00268925)
 2. [MSN Malaysia](http://news.malaysia.msn.com/regional/swedish-prosecutors-rule-out-london-assange-visit-1)
+2. [Cover Image](https://dsofront.akamaized.net/extra/assets/img/dummy-social.gif)
 
 ### Related:
 

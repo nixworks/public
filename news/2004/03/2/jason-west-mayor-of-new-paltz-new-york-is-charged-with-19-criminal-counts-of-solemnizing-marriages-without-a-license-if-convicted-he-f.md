@@ -9,6 +9,7 @@ Follow all the latest news on Long Island with Newsday. Read top local stories, 
 
 1. [Newsday](http://www.newsday.com/news/local/state/ny-stgay0302,0,382817.story?coll=ny-top-span-headlines)
 2. [SF Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/news/archive/2004/03/02/state2223EST7030.DTL)
+2. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

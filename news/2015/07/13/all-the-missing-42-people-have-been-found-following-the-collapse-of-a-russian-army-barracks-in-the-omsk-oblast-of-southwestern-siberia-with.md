@@ -8,6 +8,7 @@ All servicemen have been removed from the debris
 ### Source:
 
 1. [TASS](http://tass.ru/en/russia/808057)
+1. [Cover Image](https://cdn2.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20150713/1099319.jpg)
 
 ### Related:
 

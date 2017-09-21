@@ -11,6 +11,7 @@
 2. [ReliefWeb](http://www.reliefweb.int/rw/rwb.nsf/db900sid/JDUN-8AN4NG?OpenDocument)
 3. [Sky News Australia](http://www.skynews.com.au/eco/article.aspx?id=535251&vId=1904767)
 4. [The Weather Network](http://www.theweathernetwork.com/news/storm_watch_stories3&stormfile=some_102_people_killed_by_ri_041110)
+4. [Cover Image](http://www.skynews.com.au/content/skynews/93/26/gif/layout/hm/common_containers/hmbrandinggreendotcontainer0x0/files/4361/bp_unmeteredicon.png/_jcr_content/renditions/skynews.img.368.276.jpeg)
 
 ### Related:
 

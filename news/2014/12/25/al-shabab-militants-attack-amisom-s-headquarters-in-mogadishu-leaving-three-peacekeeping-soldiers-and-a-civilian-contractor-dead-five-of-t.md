@@ -8,6 +8,7 @@ At least three African Union soldiers, five fighters and one civilian contractor
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2014/12/reports-al-shabab-strikes-au-base-somalia-20141225112253311677.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/12/25/2014122522112323734_20.jpg)
 
 ### Related:
 

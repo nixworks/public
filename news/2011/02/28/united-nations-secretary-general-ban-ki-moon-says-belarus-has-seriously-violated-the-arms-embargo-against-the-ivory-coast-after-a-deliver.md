@@ -9,6 +9,7 @@ Belarus is seriously violating the international arms embargo on Ivory Coast by 
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12595145)
 2. [Times Live South Africa](http://www.timeslive.co.za/africa/article941084.ece/Arms-for-Gbagbo)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

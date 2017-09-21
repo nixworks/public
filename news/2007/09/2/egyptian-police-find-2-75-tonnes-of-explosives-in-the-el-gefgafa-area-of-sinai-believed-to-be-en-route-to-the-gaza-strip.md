@@ -8,6 +8,7 @@ Egyptian police have found 2.75 tonnes of explosives in central Sinai, a securit
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/03/2021878.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

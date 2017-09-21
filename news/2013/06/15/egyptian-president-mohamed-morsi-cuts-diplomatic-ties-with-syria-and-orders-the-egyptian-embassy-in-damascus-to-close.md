@@ -8,6 +8,7 @@ Egypt has cut diplomatic ties with Syria and has ordered the Damascus Embassy in
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1104188/egypt-cuts-diplomatic-ties-with-syria)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/145411425-1_3654059.jpg?20160706064605)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police in Bangladesh have arrested 31 men suspected of plotting a terrorist atta
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bangladesh-arrests-31-alleged-militants-20090418-aaq6.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

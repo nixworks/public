@@ -9,6 +9,7 @@ Pakistani troops took the main town in strategically important Buner Valley on W
 
 1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2009%5C04%5C30%5Cstory_30-4-2009_pg1_1)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE53R1K820090429)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090429&t=2&i=9905932&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-04-29T155328Z_01_BTRE53S185B00_RTROPTP_0_PAKISTAN-TALIBAN)
 
 ### Related:
 

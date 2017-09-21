@@ -8,6 +8,7 @@ THE death toll from the strongest typhoon to hit the Philippines this year has c
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/philippines-typhoon-death-toll-tops-900/story-e6frfkui-1226536046034)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

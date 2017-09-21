@@ -12,6 +12,7 @@ The withdrawal of Lincoln Chafee caps a winnowing week for the Democratic conten
 3. [Miami Herald](http://www.miamiherald.com/news/politics-government/elections-2016/jeb-bush/article41192604.html)
 4. [NBC News](http://www.nbcnews.com/politics/2016-election/lincoln-chafee-drops-out-democratic-presidential-race-n449871)
 5. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/10/23/jeb-bush-shakes-up-his-struggling-campaign-with-major-spending-cuts/)
+5. [Cover Image](http://images.csmonitor.com/csm/2015/10/943229_1_1023-Lincoln-Chafee_standard.jpg?alias=standard_900x600)
 
 ### Related:
 

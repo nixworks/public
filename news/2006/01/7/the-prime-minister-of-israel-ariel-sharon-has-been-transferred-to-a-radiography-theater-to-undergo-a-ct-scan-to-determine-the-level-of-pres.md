@@ -8,6 +8,7 @@ Cautious optimism: Hadassah Hospital director briefs reporters, says latest CT s
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3196098,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

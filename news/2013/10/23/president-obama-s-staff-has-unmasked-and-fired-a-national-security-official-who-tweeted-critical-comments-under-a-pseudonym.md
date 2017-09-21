@@ -8,3 +8,4 @@ President Obama&#39;s staff has unmasked and fired a national security official 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/theoval/2013/10/23/obama-white-house-twitter-jofi-joseph/3168757/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)

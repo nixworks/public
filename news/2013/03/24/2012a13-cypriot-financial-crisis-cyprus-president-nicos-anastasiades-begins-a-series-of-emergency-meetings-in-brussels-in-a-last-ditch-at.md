@@ -8,6 +8,7 @@ Eurozone finance ministers agree a deal on a bailout for Cyprus to prevent its b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21916102)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66584000/jpg/_66584922_66584583.jpg)
 
 ### Related:
 

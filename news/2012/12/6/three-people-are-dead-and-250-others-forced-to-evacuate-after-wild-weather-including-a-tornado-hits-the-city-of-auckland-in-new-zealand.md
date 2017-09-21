@@ -10,6 +10,7 @@ Three people have been killed as a rare tornado ripped through western suburbs o
 1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/3-dead-as-rare-tornado-hits-new-zealands-largest-city-authorities-warn-of-more-to-come/2012/12/05/9538a6f4-3f4b-11e2-8a5c-473797be602c_story.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20622348)
 3. [Daily Telegraph](http://www.dailytelegraph.com.au/news/deaths-as-tornado-hits-auckland/story-e6freuy9-1226531160729)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64606000/jpg/_64606044_64606040.jpg)
 
 ### Related:
 

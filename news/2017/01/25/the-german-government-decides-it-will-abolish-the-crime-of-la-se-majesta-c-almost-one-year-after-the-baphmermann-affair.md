@@ -8,6 +8,7 @@ The German government voted Wednesday to scrap a &quot;lese majeste&quot; law th
 ### Source:
 
 1. [AFP by ''Digital Journal](http://www.digitaljournal.com/news/world/germany-to-scrap-lese-majeste-law-after-turkey-row/article/484394)
+1. [Cover Image](http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/3/3/0/p-large/db569ecf4b3375340861a38a3766b6f26c7f8552_4.jpg)
 
 ### Related:
 

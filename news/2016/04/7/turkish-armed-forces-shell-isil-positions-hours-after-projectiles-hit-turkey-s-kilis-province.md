@@ -8,6 +8,7 @@ Turkish artillery units began to shell Syrian positions of the Islamic State of 
 ### Source:
 
 1. [Hurriyet](http://www.hurriyetdailynews.com/turkish-military-shells-isil-after-projectiles-hit-southeastern-province.aspx?pageID=238&nID=97449&NewsCatID=352)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201604/n_97449_1.jpg)
 
 ### Related:
 

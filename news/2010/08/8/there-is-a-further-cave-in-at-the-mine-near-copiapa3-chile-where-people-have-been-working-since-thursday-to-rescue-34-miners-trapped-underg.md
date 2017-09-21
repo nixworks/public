@@ -8,6 +8,7 @@ Rescuers in Chile start drilling holes to provide 33 trapped miners with oxygen 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10905276)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

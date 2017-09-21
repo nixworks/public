@@ -8,6 +8,7 @@ Since 1999 India till date has launched 40 satellites of other countries and the
 ### Source:
 
 1. [IBN Live](http://www.ibnlive.com/news/india/isro-set-for-heaviest-commercial-launch-of-five-british-satellites-at-one-go-today-1018353.html)
+1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2015/07/isro-pslv.jpg)
 
 ### Related:
 

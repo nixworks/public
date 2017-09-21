@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6jtny6rOmiwS39lfjbJ2n6ybwuQ)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/09/200992653918859243.html)
 3. [CNN](http://www.cnn.com/2009/WORLD/meast/09/25/iran.nuclear/index.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

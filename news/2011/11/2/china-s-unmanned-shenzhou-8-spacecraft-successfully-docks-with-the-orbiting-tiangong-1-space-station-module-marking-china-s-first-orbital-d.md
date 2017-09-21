@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-15562928)
 2. [China.org](http://www.china.org.cn/china/special_coverage/shenzhou%C2%AD_8_tiangong_1/node_7140200.htm)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56437000/jpg/_56437478_56436412.jpg)
 
 ### Related:
 

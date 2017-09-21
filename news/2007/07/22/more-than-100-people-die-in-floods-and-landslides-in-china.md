@@ -8,6 +8,7 @@ More than 100 people have died in floods and landslides in China where dykes pro
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/22/1984918.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

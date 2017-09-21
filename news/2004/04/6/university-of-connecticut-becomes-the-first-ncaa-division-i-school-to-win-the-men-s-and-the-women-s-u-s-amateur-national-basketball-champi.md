@@ -9,6 +9,7 @@
 
 1. [ESPN](http://sports.espn.go.com/ncw/ncaatourney04/news/story?id=1777154)
 2. [Sports Illustrated](http://sportsillustrated.cnn.com/2004/basketball/ncaa/women/specials/ncaa_tourney/2004/04/06/uconn.tenn.ap/)
+2. [Cover Image](http://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F41.png)
 
 ### Related:
 

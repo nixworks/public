@@ -8,6 +8,7 @@ An Egyptian court orders the release of ex-President Hosni Mubarak, amid reports
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23783055)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69409000/jpg/_69409178_69409177.jpg)
 
 ### Related:
 

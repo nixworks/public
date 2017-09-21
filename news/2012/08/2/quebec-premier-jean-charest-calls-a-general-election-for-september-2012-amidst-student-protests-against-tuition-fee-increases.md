@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Hamilton Spectator](http://www.thespec.com/news/canada/article/772678--quebec-election-set-for-sept-4)
+1. [Cover Image](http://www.thespec.com/portals/9/images/fb_logo.jpg)
 
 ### Related:
 

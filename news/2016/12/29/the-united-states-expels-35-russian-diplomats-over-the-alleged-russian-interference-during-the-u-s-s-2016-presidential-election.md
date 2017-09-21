@@ -8,6 +8,7 @@ The US expels 35 Russian diplomats in the wake of cyber attacks related to the U
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-38463025)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/122D9/production/_93175447_gettyimages-499269206.jpg)
 
 ### Related:
 

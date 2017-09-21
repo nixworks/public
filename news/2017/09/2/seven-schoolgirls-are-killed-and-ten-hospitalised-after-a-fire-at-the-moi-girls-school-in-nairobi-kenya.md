@@ -8,6 +8,7 @@ Eight Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-kenya-school-fire/seven-kenyan-schoolgirls-die-in-dormitory-blaze-government-idUSKCN1BD0BS)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170902&t=2&i=1199696165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8108X)
 
 ### Related:
 

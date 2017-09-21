@@ -10,6 +10,7 @@ Army ceases military operations against Houthi fighters following ceasefire.
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/02/2010211183014399724.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=118439&sectionid=351020206)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/feb/12/yemen-government-rebels-call-ceasefire)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

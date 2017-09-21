@@ -8,6 +8,7 @@ The rains left 102 people dead in Uttarakhand, almost as many injured, and smash
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Rain-toll-rises-to-99-over-73000-stranded/articleshow/20655540.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/20658985.cms)
 
 ### Related:
 

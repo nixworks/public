@@ -8,6 +8,7 @@ Boeing has launched the biggest version of its Dreamliner at the Paris Air Show 
 ### Source:
 
 1. [AFP vis News24](http://www.news24.com/news24/Technology/News/Boeing-launches-bigger-Dreamliner-20130618)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/911/a8e187d9a2f4458097219a9f908a0b2e.jpg)
 
 ### Related:
 

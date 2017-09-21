@@ -8,6 +8,7 @@ Chinese artist and government critic Ai Weiwei is to challenge a bill of more th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13965323)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53740000/jpg/_53740025_012278114-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Vladimir Putin is officially sworn in as president of Russia after four years as
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17979914)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60071000/jpg/_60071789_putinoathap.jpg)
 
 ### Related:
 

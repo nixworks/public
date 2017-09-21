@@ -8,6 +8,7 @@ Taavi Rõivas&#039;s Reform Party and Social Democrat coalition has been sworn i
 ### Source:
 
 1. [Eesti Rahvusringhääling](http://news.err.ee/v/politics/61276eb8-4933-485d-988d-8ab08cfcf100)
+1. [Cover Image](http://s.err.ee/photo/crop/2014/03/26/82940h3f3ct24.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Exclusive: New research report highlights extensive use of civilians during Gaza
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/8567706.stm)
 2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=171009)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=139737)
 
 ### Related:
 

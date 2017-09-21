@@ -9,6 +9,7 @@ Authorities identify the three fishermen as Flipino Bajaus, who are believed to 
 
 1. [International Business Times](http://www.ibtimes.sg/filipino-militants-kidnap-three-fishermen-sabah-waters-3217)
 2. [The Sun Daily](http://m.thesundaily.my/node/393969)
+2. [Cover Image](http://data1.ibtimes.sg/en/full/1588/four-abducted-sarawakians-freed-by-by-abu-sayyaf.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Anti-government demonstrations in Thailand continue into a third day, with prote
 ### Source:
 
 1. [Australia Network News](http://www.abc.net.au/news/2014-01-15/an-thai-pm-refuses-to-step-down-as-bangkok-shutdown-continues/5200602)
+1. [Cover Image](http://www.abc.net.au/news/image/5202324-1x1-700x700.jpg)
 
 ### Related:
 

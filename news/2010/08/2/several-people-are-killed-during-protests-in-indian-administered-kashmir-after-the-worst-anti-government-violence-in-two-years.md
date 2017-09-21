@@ -9,6 +9,7 @@ Seven civilians died in continuing violence in the Kashmir Valley on Monday as t
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10839411)
 2. [The Hindu](http://www.thehindu.com/news/national/article548095.ece?homepage=true)
+2. [Cover Image](http://www.thehindu.com/migration_catalog/article16093671.ece/ALTERNATES/LANDSCAPE_615/pro)
 
 ### Related:
 

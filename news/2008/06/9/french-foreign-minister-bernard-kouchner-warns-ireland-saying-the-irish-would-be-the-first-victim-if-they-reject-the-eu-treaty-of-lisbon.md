@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTL France](http://www.rtl.fr/fiche/146420/bernard-kouchner-tout-le-monde-se-tourne-vers-l-europe-au-moment-ou-on-la-refuse-a-l-interieur.html)
+1. [Cover Image](https://static.rtl.fr/versions/www/6.0.352/img/rtl_fb.jpg)
 
 ### Related:
 

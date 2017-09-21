@@ -12,6 +12,7 @@ Man allegedly helped Mabhouh killers obtain fake German passport.
 3. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178204)
 4. [Press TV](http://www.presstv.ir/detail.aspx?id=130103&sectionid=351020605)
 5. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE65B1SY20100612)
+5. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=138718)
 
 ### Related:
 

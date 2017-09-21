@@ -12,6 +12,7 @@ Palestinian in Turkish Embassy &quot;threatened to blow up building.&quot;
 3. [Haaretz](http://www.haaretz.com/print-edition/news/palestinian-shot-after-seeking-asylum-in-turkish-embassy-in-ta-1.308665)
 4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=185097)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/18/c_13449517.htm)
+5. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=147926)
 
 ### Related:
 

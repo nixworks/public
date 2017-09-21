@@ -9,6 +9,7 @@ American Airlines passengers should notexpect any near-term changes after the ai
 
 1. [CNN](http://money.cnn.com/2011/11/29/pf/american_airlines_tickets/index.htm?iid=HP_LN&hpt=us_c2)
 2. [Reuters](http://www.reuters.com/article/2011/11/29/americanairlines-passengers-idUSN1E7AS1DS20111129)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

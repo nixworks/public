@@ -8,6 +8,7 @@ Three people were injured when the car mounted the pavement and sent bodies &quo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-39397669)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8CCA/production/_95324063_mediaitem95322849.jpg)
 
 ### Related:
 

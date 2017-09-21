@@ -11,6 +11,7 @@ South America-Africa summit aims to increase co-operation and trade between cont
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8277016.stm)
 3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE58Q00A20090927)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12116296.htm)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

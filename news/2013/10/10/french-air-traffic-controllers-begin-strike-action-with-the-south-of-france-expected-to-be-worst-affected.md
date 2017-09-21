@@ -8,6 +8,7 @@ Thousands of UK air travellers face possible delays and cancellations later toda
 ### Source:
 
 1. [ITV](http://www.itv.com/news/story/2013-10-10/french-air-traffic-strike-delays/)
+1. [Cover Image](http://www.itv.com/news/assets/branding/fb.png)
 
 ### Related:
 

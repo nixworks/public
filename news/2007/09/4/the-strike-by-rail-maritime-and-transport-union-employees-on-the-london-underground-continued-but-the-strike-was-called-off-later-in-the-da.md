@@ -9,6 +9,7 @@ London commuters are in for more chaos and disruption as unions set to embark up
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/04/2023982.htm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/09/05/ntube105.xml)
+2. [Cover Image](http://www.abc.net.au/news/image/661058-1x1-700x700.jpg)
 
 ### Related:
 

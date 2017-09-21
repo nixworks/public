@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pennsylvania-sandusky-idUSKBN18T1BC)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170602&t=2&i=1187338564&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED511A4)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ivorian president Alassane Ouattara says cancellation of the debt will help the 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/07/2012726171730989279.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/26/2012726194338388734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Yemen President Ali Abdullah Saleh announces a plan to change the constitution t
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12697077)
 2. [Yemen News Agency](http://www.sabanews.net/en/news237430.htm)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

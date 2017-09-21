@@ -14,6 +14,7 @@ More than 260 people are reported killed after a major earthquake hits north-eas
 5. [L.A. Times](http://www.latimes.com/world/afghanistan-pakistan/la-fg-afghan-earthquake-20151026-story.html)
 6. [Reuters](http://www.reuters.com/article/2015/10/26/earthquake-afghanistan-idUSL3N12Q3C520151026)
 7. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10003re5#general_summary)
+7. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13EEB/production/_86334618_86334617.jpg)
 
 ### Related:
 

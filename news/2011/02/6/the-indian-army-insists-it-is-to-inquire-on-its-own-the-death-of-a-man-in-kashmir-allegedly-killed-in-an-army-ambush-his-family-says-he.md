@@ -9,6 +9,7 @@ Army Chief General V.K. Singh today said that the Army would make an enquiry on 
 
 1. [Kashmir Observer](http://www.kashmirobserver.net/index.php?option=com_content&view=article&id=6860:troops-kill-handwara-youth-massive-protests-erupt&catid=15:top-news&Itemid=2)
 2. [Sify](http://www.sify.com/news/army-to-conduct-its-own-probe-in-kashmir-youth-killing-army-chief-news-national-lcgsuedhdde.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 
@@ -21,4 +22,4 @@ Army Chief General V.K. Singh today said that the Army would make an enquiry on 
 7. [An Indian Army soldier is killed in an exchange of fire with the Pakistan Army over the Kashmir border. ](/news/2011/05/14/an-indian-army-soldier-is-killed-in-an-exchange-of-fire-with-the-pakistan-army-over-the-kashmir-border.md) _Context: Indian Army, Kashmir_
 8. [The Indian Army says that nearly 40 militants have been killed by security forces during 25 infiltration attempts in Indian-controlled Kashmir from across the border in the last two months. ](/news/2010/10/11/the-indian-army-says-that-nearly-40-militants-have-been-killed-by-security-forces-during-25-infiltration-attempts-in-indian-controlled-kashm.md) _Context: Indian Army, Kashmir_
 9. [Senior Indian Army officer Major A. K. Thinge is killed in battle in Kashmir. ](/news/2010/07/14/senior-indian-army-officer-major-a-k-thinge-is-killed-in-battle-in-kashmir.md) _Context: Indian Army, Kashmir_
-10. [Six people are killed and two are missing after the Jhelum River in Kashmir overflows following heavy rain and snowfall. ](/news/2017/04/7/six-people-are-killed-and-two-are-missing-after-the-jhelum-river-in-kashmir-overflows-following-heavy-rain-and-snowfall.md) _Context: Kashmir_
+10. [ Indian policemen and soldiers of the Indian Army recover 300&nbsp;kg of RDX from a grocery store near the southern Kashmir town of Anantnag, 55&nbsp;km from Srinagar. This is the biggest ever explosive haul in the state of Jammu and Kashmir. ](/news/2004/11/20/indian-policemen-and-soldiers-of-the-indian-army-recover-300-nbsp-kg-of-rdx-from-a-grocery-store-near-the-southern-kashmir-town-of-anantnag.md) _Context: Indian Army, Kashmir_

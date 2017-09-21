@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-bangladesh-blast-idUSKBN19P0A0?il=0)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170704&t=2&i=1191570426&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6307L)
 
 ### Related:
 

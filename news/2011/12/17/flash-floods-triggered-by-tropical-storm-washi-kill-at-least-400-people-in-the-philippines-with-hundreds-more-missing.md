@@ -10,6 +10,7 @@ A tropical storm kills at least 430 people in the Philippines, as night-time fla
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2011-12-18/hundreds-killed-in-massive-philippines-storm/3736782)
 2. [AP via WVEC](http://hosted.ap.org/dynamic/stories/A/AS_PHILIPPINES_STORM?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-16229394)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57390000/jpg/_57390226_57389530.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ The Pope calls for a political solution to the conflict in Syria during his Chri
 2. [BBC](http://www.bbc.co.uk/news/world-europe-20841387)
 3. [Reuters](http://www.reuters.com/article/2012/12/25/us-christmas-pope-idUSBRE8BN0M620121225)
 4. [The Guardian](http://www.guardian.co.uk/world/2012/dec/25/pope-hope-syria-nigeria-speech)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64938000/jpg/_64938012_64938011.jpg)
 
 ### Related:
 

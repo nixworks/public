@@ -8,6 +8,7 @@ Two pilots killed as Indonesian fighter jet crashes during an aerobatic display
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/indonesia/12060915/Two-pilots-killed-as-jet-crashes-at-Indonesia-air-show.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03531/PLANE1_3531683k.jpg)
 
 ### Related:
 

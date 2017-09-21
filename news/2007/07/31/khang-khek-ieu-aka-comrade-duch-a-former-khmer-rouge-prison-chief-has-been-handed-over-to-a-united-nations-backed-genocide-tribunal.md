@@ -8,6 +8,7 @@ A former Khmer Rouge prison chief has been handed over to the UN-backed tribunal
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/31/1992859.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2500774-1x1-700x700.jpg)
 
 ### Related:
 

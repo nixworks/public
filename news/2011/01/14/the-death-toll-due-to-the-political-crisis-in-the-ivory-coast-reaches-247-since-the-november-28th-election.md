@@ -8,6 +8,7 @@ At least 247 people have been killed in violence in Ivory Coast since its disput
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70D3HD20110114)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110114&t=2&i=306154911&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-14T213935Z_01_BTRE70D16H700_RTROPTP_0_IVORY-COAST)
 
 ### Related:
 

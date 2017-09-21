@@ -8,6 +8,7 @@ Rep. Jesse Jackson Jr. will announce his resignation from Congress &quot;momenta
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-brother-rep-jackson-to-announce-resignation-20121121,0,3302727.story)
+1. [Cover Image](http://www.trbimg.com/img-50ae2ff0/turbine/chi-brother-rep-jackson-to-announce-resignation-20121121)
 
 ### Related:
 

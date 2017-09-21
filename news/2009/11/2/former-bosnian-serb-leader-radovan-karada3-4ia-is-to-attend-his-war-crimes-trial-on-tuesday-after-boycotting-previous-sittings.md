@@ -9,6 +9,7 @@ Radovan Karadzic will on Tuesday appear before a United Nations war crimes tribu
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/bosnia/6485467/Radovan-Karadzic-will-appear-in-court-on-Tuesday.html)
 2. [euronews](http://www.euronews.net/2009/11/02/karadzic-to-attend-war-crimes-trial-on-tuesday/)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01511/Radovan-Karadzic_1511278a.jpg)
 
 ### Related:
 

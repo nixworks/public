@@ -8,6 +8,7 @@ The Gaza Strip is in danger of running out of food and fuel after Israel locked 
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2008/11/15/2420739.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

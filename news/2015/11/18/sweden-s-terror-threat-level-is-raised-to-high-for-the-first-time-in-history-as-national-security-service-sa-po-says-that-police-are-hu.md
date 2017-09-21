@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Local](http://www.thelocal.se/20151118/sweden-reported-to-be-raising-terror-threat)
+1. [Cover Image](https://www.thelocal.se/userdata/images/article/387072035723797bfc870bc1578d18cf6000237f23f885f3bc757e699565829f.jpg)
 
 ### Related:
 

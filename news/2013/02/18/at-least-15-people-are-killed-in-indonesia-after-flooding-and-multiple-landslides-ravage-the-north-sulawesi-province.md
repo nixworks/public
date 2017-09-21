@@ -9,6 +9,7 @@ Rescuers found five more bodies in the mud after flooding and landslides in nort
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/02/17/indonesia-landslides-floods/1927105/)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21495988)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

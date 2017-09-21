@@ -9,6 +9,7 @@ A man dies, thousands are without power and roads and rail lines blocked as heav
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-18624085)
 2. [BBC](http://www.bbc.co.uk/news/uk-scotland-south-scotland-18623801)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61238000/jpg/_61238569_morgan_stephenson_5.jpg)
 
 ### Related:
 

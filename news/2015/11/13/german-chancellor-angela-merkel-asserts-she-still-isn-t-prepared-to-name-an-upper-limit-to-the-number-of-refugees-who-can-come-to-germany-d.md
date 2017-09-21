@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/00d5817deb6d48c58ebad590a2f27b2d/latest-german-police-say-3-teens-assaulted-refugee)
 2. [Reuters](http://www.reuters.com/article/2015/11/13/us-europe-migrants-bulgaria-idUSKCN0T20RJ20151113#wyh6zHMmhAVedDvW.97)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151113&t=2&i=1094636713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAC0W0)
 
 ### Related:
 

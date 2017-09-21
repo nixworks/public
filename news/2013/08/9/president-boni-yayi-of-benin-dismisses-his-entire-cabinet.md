@@ -8,6 +8,7 @@ Benin President Boni Yayi sacked his entire government on Friday &quot;to breath
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/09/us-benin-government-idUSBRE9780HR20130809)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130809&t=2&i=758584945&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9780XC600)
 
 ### Related:
 

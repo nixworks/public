@@ -8,6 +8,7 @@ Elon Musk&#39;s firm SpaceX has won long-waited approval from the US Air Force t
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/Green/News/SpaceX-cleared-for-US-military-launches-20150527)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2954/4956ddabf5b843d68a19a7777c27f4de.jpg)
 
 ### Related:
 

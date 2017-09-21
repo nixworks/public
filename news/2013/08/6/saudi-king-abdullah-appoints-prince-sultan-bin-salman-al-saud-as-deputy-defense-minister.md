@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Son-of-Saudi-crown-prince-named-deputy-defence-minister-322287)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)
 
 ### Related:
 

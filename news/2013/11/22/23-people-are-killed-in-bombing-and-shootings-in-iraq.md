@@ -8,6 +8,7 @@ At least 23 people were killed in bombings and shootings in Iraq on Friday, poli
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/22/us-iraq-violence-idUSBRE9AL0ZP20131122)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ year-old winner opts for $370 million lump sum
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2013/06/05/usa-lottery-idINL1N0EH1MM20130605)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

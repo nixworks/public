@@ -13,6 +13,7 @@ Rioting has spread across London with cars and buildings set alight on a third n
 4. [BBC](http://www.bbc.co.uk/news/uk-politics-14454516)
 5. [The Australian](http://www.theaustralian.com.au/news/world/police-on-streets-as-britain-burns/story-e6frg6so-1226112164851)
 6. [The Guardian](http://www.guardian.co.uk/football/2011/aug/09/england-holland-off-london-riots)
+6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54492000/jpg/_54492983_croydon.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A protected forest in Romania&#8217;s Bucegi mountains, at some 1,700 m altitude
 
 1. [EuroNews](http://www.euronews.com/newswires/1593636-fires-kill-3-rage-on-in-girona-in-northern-spain/)
 2. [Romania Insider](http://www.romania-insider.com/protected-forest-in-romanian-mountains-keeps-burning-while-authorities-struggle-to-put-out-fire/61288/)
+2. [Cover Image](http://www.romania-insider.com/wp-content/uploads/2012/07/forest-fire-sxchu-1024x708.jpg)
 
 ### Related:
 

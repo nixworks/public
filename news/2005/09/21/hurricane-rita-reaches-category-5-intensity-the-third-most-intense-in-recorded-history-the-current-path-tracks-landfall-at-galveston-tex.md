@@ -9,6 +9,7 @@
 
 1. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/topstory/3364562)
 2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCUAT3+shtml/211955.shtml)
+2. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

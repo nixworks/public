@@ -8,6 +8,7 @@ South Sudan accused Sudan of launching a ground attack in an oil region of the n
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/05/01/us-sudan-idUSBRE84013B20120501)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120501&t=2&i=601597454&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8401A6T00)
 
 ### Related:
 

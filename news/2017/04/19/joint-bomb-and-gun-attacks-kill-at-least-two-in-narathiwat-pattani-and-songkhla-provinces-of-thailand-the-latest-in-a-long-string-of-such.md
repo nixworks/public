@@ -8,6 +8,7 @@ A string of bomb and gun attacks killed two people in southern Thailand late on 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-thailand-south-attacks-idUSKBN17L243?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170419&t=2&i=1181215225&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3I15B)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Taliban suicide bomber targeting security forces killed at least 11 people on 
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6230HI20100313)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/at-least-6-killed-in-pakistan-suicide-attack-police-20100313-q4ws.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100313&t=2&i=75149753&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-13T101037Z_01_BTRE62C0S9W00_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The first ever launch from New Zealand is a step towards making it cheaper to ge
 
 1. [BBC](http://www.bbc.com/news/world-asia-39971843)
 2. [Smithsonian](http://www.smithsonianmag.com/smart-news/new-zealand-sent-3d-printed-rocket-space-180963463/#6DCX5PYvcesgUC6b)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/12BC4/production/_96204767_1.jpg)
 
 ### Related:
 

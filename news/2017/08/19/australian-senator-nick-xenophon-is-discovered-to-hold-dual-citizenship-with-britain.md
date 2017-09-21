@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/national/politics/south-australian-senator-nick-xenophon-confirmed-as-a-dual-citizen-of-the-united-kingdom/news-story/b73a72b7f2d3a89e50a9249d8cbfde24)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/a77b9ec6c43d7b6889e0d61368ca7c55)
 
 ### Related:
 

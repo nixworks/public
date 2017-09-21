@@ -8,6 +8,7 @@ The U.N. Security Council unanimously approved a plan to back an African-led mil
 ### Source:
 
 1. [Daily Star of Lebanon](http://www.dailystar.com.lb/News/International/2012/Oct-12/191213-un-resolution-seeks-recovery-of-malis-north.ashx#axzz2980NJ9EY)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/10/12/107476_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

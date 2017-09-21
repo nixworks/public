@@ -8,6 +8,7 @@ Nine dangerous chemicals used in farming and industry will be added to a list of
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL81014131)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

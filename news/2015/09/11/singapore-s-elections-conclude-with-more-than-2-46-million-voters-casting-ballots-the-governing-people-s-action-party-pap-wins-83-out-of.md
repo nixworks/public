@@ -11,6 +11,7 @@ Singapore&#039;s ruling party has romped to a substantial election victory and i
 2. [CNBC](http://www.cnbc.com/2015/09/11/singapore-elections-voting-underway.htm)
 3. [IANS via Daijiworld](http://www.daijiworld.com/news/news_disp.asp?n_id=352918)
 4. [Sydney Morning Herald](http://www.smh.com.au/world/singapore-ruling-party-in-decisive-election-win-20150911-gjkysi.html)
+4. [Cover Image](http://www.smh.com.au/content/dam/images/g/j/k/z/5/c/image.related.articleLeadwide.620x349.gjkysi.png/1442018301149.jpg)
 
 ### Related:
 

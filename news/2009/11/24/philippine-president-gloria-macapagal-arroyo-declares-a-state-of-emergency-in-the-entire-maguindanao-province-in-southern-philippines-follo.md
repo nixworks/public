@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/11/24/09/maguindanao-massacre-toll-rises-39)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/maps/std_400px_24112009094.jpg)
 
 ### Related:
 

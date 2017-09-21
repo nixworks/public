@@ -8,6 +8,7 @@ Mexican riot police are deployed to Chilpancingo after local government offices 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-29609409)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78206000/jpg/_78206907_78206906.jpg)
 
 ### Related:
 

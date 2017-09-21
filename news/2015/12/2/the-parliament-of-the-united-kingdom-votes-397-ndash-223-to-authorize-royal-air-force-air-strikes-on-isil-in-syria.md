@@ -8,6 +8,7 @@ Conservative PM David Cameron won the support of almost one third of Labour MPs 
 ### Source:
 
 1. [The Journal](http://www.thejournal.ie/uk-parliament-syria-air-strikes-vote-isis-2480205-Dec2015/)
+1. [Cover Image](http://img2.thejournal.ie/article/2480205/river/?height=400&version=2480216)
 
 ### Related:
 

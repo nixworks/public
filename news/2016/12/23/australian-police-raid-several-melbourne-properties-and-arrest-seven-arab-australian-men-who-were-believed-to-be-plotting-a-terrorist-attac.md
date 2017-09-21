@@ -8,6 +8,7 @@ Police say they have disrupted a terrorist plot targeting Melbourne&#039;s CBD, 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-12-23/police-foil-alleged-christmas-day-'terrorist-plot'-in-melbourne/8143762)
+1. [Cover Image](http://www.abc.net.au/news/image/8145936-1x1-700x700.jpg)
 
 ### Related:
 

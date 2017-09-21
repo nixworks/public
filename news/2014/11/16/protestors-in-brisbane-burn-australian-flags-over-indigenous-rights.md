@@ -8,6 +8,7 @@ PROTESTERS at the G20 burned Australian flags today in a demonstration over indi
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/national/g20-protesters-burn-australian-flag-in-rally-on-indigenous-rights/story-fncynjr2-1227124714154)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/21907c75aa15a262676981d5de8280e7)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A doctor is arrested in connection with the deaths of 15 women at two state-run 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-30032878)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78952000/jpg/_78952186_78952185.jpg)
 
 ### Related:
 

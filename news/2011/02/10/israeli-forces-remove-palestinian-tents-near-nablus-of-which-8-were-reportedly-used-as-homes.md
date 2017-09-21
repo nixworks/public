@@ -9,6 +9,7 @@
 
 1. [Arab News](http://arabnews.com/middleeast/article255266.ece)
 2. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=207539)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)
 
 ### Related:
 

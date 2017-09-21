@@ -8,6 +8,7 @@ The group Black Lives Matter Minneapolis organized the gathering in the mall&#39
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/12/20/protesters-rally-at-mall-of-america/20698085/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

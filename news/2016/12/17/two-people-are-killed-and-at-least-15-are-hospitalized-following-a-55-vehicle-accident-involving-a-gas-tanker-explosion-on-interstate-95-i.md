@@ -11,6 +11,7 @@ A winter storm of snow, freezing rain and bone-chilling temperatures socked the 
 2. [AP](http://bigstory.ap.org/article/bc94f00213dc48cdbf8e6cc41ad7efd9/slick-roads-cause-crashes-maryland-virginia)
 3. [The Baltimore Sun](http://www.baltimoresun.com/news/weather/bs-md-icy-conditions-20161217-story.html)
 4. [The Washington Post](https://www.washingtonpost.com/local/four-people-killed-dozens-injured-in-vehicle-wrecks-on-icy-roadways/2016/12/17/a7aa9114-c460-11e6-9a51-cd56ea1c2bb7_story.html?hpid=hp_local-news_ice-1245pm%3Ahomepage%2Fstory)
+4. [Cover Image](http://binaryapi.ap.org/95ef567a3860432a84daff781fef37ad/460x.jpg)
 
 ### Related:
 

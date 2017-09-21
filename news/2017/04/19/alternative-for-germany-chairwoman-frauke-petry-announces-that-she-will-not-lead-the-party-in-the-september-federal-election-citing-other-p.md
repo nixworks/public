@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-germany-election-afd-idUSKBN17L1LC?il=0)
 2. [Reuters](http://www.reuters.com/article/us-germany-election-poll-idUSKBN17L0PZ?il=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

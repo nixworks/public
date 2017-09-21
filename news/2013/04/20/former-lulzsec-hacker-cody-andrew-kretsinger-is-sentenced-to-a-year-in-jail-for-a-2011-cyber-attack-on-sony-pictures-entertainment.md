@@ -8,6 +8,7 @@ A member of the LulzSec hacker group was sentence to a year in federal prison Th
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/technology/la-fi-tn-lulzsec-hacker-year-sentence-20130418,0,4727623.story)
+1. [Cover Image](http://www.trbimg.com/img-51706bd2/turbine/la-fi-tn-lulzsec-hacker-1-year-sentence-201304-001/511/511x247)
 
 ### Related:
 

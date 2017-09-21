@@ -8,6 +8,7 @@ Fears of a China-led global economic slowdown drove Wall Street to its steepest 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/21/us-markets-stocks-usa-idUSKCN0QQ15Y20150821)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150821&t=2&i=1073541504&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7K0JF)
 
 ### Related:
 

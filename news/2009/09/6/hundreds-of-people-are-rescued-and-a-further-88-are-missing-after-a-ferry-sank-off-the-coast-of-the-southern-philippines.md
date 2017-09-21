@@ -11,6 +11,7 @@
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20090906-223813/Tilting-ship-in-Zambo-sinks)
 3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSMAN456276)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-09/06/content_12003038.htm)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

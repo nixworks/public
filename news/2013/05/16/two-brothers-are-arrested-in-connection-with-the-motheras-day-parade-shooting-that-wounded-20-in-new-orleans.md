@@ -9,6 +9,7 @@ Two brothers, who belong to a New Orleans gang, have been charged with opening f
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Brothers-charged-in-New-Orleans-shooting-20130516)
 2. [The Washington Post](http://www.washingtonpost.com/national/new-orleans-police-suspect-arrested-in-mothers-day-parade-shooting-that-wounded-19-people/2013/05/16/a08739dc-bdde-11e2-b537-ab47f0325f7c_story.html)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2302/dca82d03cb1c4d9f8d1c08db4b52bd78.jpg)
 
 ### Related:
 

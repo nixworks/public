@@ -8,6 +8,7 @@ Scientists confirm that white-nose syndrome, a disease killing off bats in North
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-15460894)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56289000/jpg/_56289203_z9150128-little_brown_bat-spl.jpg)
 
 ### Related:
 

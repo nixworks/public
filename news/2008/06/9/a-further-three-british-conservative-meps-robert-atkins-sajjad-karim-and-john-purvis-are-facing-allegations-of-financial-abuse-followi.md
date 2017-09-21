@@ -11,6 +11,7 @@ More than half of David Cameron&#039;s European MPs have refused to comply with 
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/conservative/2096020/Half-of-Conservative-Party-MEPs-ignoring-expenses-rules.html)
 3. [The Independent](http://www.independent.co.uk/news/uk/politics/cameron-will-sack-meps-found-to-have-broken-expenses-rules-842774.html)
 4. [The Times](http://www.timesonline.co.uk/tol/news/politics/article4087645.ece)
+4. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

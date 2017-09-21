@@ -9,6 +9,7 @@ Leaked US diplomatic cables quote IDF chief as saying army must stop Hamas from 
 
 1. [France 24](http://www.france24.com/en/20110102-israel-preparing-large-scale-war-cable)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4007951,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

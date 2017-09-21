@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''The Sydney Morning Herald](http://www.smh.com.au/world/china-rejects-philippine-un-mediation-effort-20130220-2eq94.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/e/q/9/j/image.related.articleLeadwide.620x349.2eq94.png/1361311435377.jpg)
 
 ### Related:
 

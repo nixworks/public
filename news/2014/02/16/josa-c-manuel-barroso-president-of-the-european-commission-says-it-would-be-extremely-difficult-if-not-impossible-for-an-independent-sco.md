@@ -8,6 +8,7 @@ European Commission President Jose Manuel Barroso says it would be &quot;extreme
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-26215963)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73018000/jpg/_73018662_barroso.jpg)
 
 ### Related:
 

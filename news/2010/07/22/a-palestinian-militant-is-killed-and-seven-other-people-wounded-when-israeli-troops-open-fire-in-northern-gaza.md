@@ -8,6 +8,7 @@ Israeli troops kill one man and injure at least 10, including a child, in an att
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10717185)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48441000/jpg/_48441885_009841184-1.jpg)
 
 ### Related:
 

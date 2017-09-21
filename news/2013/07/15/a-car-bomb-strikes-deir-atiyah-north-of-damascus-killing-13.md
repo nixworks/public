@@ -8,6 +8,7 @@ A car bomb explodes north of the Syrian capital Damascus killing at least 13 peo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23315034)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68731000/jpg/_68731022_018652271.jpg)
 
 ### Related:
 

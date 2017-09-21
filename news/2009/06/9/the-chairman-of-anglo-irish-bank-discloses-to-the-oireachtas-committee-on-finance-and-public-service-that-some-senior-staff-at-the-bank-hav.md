@@ -8,6 +8,7 @@ The chairman of Anglo Irish Bank has disclosed that some staff of the bank have 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0609/angloirish.html)
+1. [Cover Image](https://img.rasset.ie/00025b16-1600.jpg)
 
 ### Related:
 

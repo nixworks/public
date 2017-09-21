@@ -8,6 +8,7 @@ Cambodian opposition leader Sam Rainsy on Monday delayed his return home from So
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/16/us-cambodia-politics-idUSKCN0T52LH20151116#mUcMM0qBeuwbOPO2.97)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151116&t=2&i=1095464156&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAF163)
 
 ### Related:
 

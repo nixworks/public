@@ -9,6 +9,7 @@ Wreckage of the EgyptAir Paris-Cairo flight MS804 has been found in the Mediterr
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36543969)
 2. [CNN](http://edition.cnn.com/2016/06/15/middleeast/egyptair-wreckage/index.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1102F/production/_89997696_4794b2f2-9f21-41fb-8c5c-70ab6b358571.jpg)
 
 ### Related:
 

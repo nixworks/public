@@ -11,6 +11,7 @@
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11068805)
 3. [New York Times](http://www.nytimes.com/2010/08/25/world/africa/25somalia.html?src=mv)
 4. [euronews](http://www.euronews.net/2010/08/24/somali-gunmen-storm-hotel-kill-15-lawmakers/)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

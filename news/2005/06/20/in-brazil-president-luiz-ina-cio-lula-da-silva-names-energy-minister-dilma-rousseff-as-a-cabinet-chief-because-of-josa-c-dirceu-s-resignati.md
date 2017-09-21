@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [AE Brazil](http://www.aebrazil.com/highlights/2005/jun/20/96.htm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-21T030116Z_01_N20555890_RTRIDST_0_INTERNATIONAL-BRAZIL-POLITICS-DC.XML)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

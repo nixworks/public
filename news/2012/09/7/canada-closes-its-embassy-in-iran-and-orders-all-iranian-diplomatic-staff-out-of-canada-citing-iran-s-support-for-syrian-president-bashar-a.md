@@ -10,6 +10,7 @@ Canada has suspended diplomatic relations with Iran and is expelling Iranian dip
 1. [CBC](http://www.cbc.ca/news/politics/story/2012/09/07/pol-baird-canada-iran-embassy.html)
 2. [Communiqué](http://www.international.gc.ca/media/aff/news-communiques/2012/09/07a.aspx?lang=eng&view=d)
 3. [Justice for Victims of Terrorism Act](http://laws-lois.justice.gc.ca/eng/acts/J-2.5/page-1.html)
+3. [Cover Image](https://i.cbc.ca/1.1497702.1380777512!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-baird-dec-852-01849329.jpg)
 
 ### Related:
 

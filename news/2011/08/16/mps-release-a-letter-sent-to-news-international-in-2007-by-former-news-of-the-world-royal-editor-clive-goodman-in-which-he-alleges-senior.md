@@ -8,6 +8,7 @@ MPs release a letter from a journalist jailed for phone hacking, alleging senior
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14541848)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/54632000/jpg/_54632895_011072711-1.jpg)
 
 ### Related:
 

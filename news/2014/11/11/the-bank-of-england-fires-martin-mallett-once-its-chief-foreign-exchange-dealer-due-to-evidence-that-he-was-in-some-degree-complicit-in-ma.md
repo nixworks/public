@@ -8,6 +8,7 @@ Governor says dismissal of chief currency dealer Martin Mallett was unrelated to
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/finance/mark-carney/11226491/Mark-Carney-distances-Bank-of-England-from-foreign-exchange-scandal.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02655/mark-carney_2655022a.jpg)
 
 ### Related:
 

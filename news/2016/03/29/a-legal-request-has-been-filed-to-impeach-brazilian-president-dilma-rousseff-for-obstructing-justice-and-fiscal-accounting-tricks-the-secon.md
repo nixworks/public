@@ -10,6 +10,7 @@ Second impeachment case filed against President Rousseff for obstructing justice
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/03/brazil-rousseff-faces-impeachment-coalition-collapse-160329044900462.html)
 2. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0WU1AC)
 3. [Reuters²](http://www.reuters.com/article/us-brazil-politics-coalition-idUSKCN0WV2NF?mod=related&channelName=worldNews)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160329&t=2&i=1128692628&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2S1AT)
 
 ### Related:
 

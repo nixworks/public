@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-22161572)
 2. [ESPN](http://espn.go.com/boston/nhl/story/_/id/9175332/)
+2. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

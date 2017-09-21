@@ -9,6 +9,7 @@
 
 1. [Philippine Inquirer](http://newsinfo.inquirer.net/36817/aquino-meets-with-moro-rebel-leader-in-tokyo)
 2. [Radio Australia](http://www.radioaustralianews.net.au/stories/201108/3286942.htm?desktop)
+2. [Cover Image](http://www.radioaustralianews.net.au/wp-content/uploads/2011/08/r387897_1811480.jpg)
 
 ### Related:
 

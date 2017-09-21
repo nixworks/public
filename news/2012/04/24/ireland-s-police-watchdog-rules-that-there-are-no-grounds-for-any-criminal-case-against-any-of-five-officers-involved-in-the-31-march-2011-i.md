@@ -9,6 +9,7 @@ Jerrie Ann Sullivan says she is &#8220;not at all surprised&#8221; about the fin
 
 1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/watchdog-no-grounds-for-criminal-case-in-corrib-gas-rape-tape-furore-548792.html)
 2. [The Journal](http://www.thejournal.ie/rape-tape-controversy-woman-says-investigation-was-about-protecting-gardai-428047-Apr2012/)
+2. [Cover Image](http://img2.thejournal.ie/article/428047/river/?height=400&version=428139)
 
 ### Related:
 

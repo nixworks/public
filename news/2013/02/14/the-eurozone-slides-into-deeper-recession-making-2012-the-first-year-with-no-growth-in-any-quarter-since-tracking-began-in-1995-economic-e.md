@@ -8,6 +8,7 @@ The euro zone slipped deeper into recession in the last three months of 2012 aft
 ### Source:
 
 1. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0214/breaking24.html)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1231394&origw=706)
 
 ### Related:
 

@@ -12,6 +12,7 @@ The Vatican has confirmed that Pope Benedict XVI has accepted the resignation of
 3. [Limerick Leader](http://www.limerickleader.ie/news/Bishop-of-Limerick-resigns-Click.5920340.jp)
 4. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1386210.html)
 5. [RTÉ](http://www.rte.ie/news/2009/1217/abuse.html)
+5. [Cover Image](https://img.rasset.ie/0002d9bf-1600.jpg)
 
 ### Related:
 

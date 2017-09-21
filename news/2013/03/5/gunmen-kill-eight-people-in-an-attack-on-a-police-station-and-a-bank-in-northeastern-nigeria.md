@@ -8,6 +8,7 @@ Gunmen killed eight people in an attack on a police station and a bank in north-
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/03/05/uk-nigeria-violence-idUKBRE92410K20130305)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

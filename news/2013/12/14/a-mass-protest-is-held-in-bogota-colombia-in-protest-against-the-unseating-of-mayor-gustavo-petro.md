@@ -8,6 +8,7 @@ Tens of thousands of people gather in Bogota to protest against the dismissal of
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-latin-america-25372868)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71738000/jpg/_71738953_71738952.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Madagascar’s president has accepted the resignation of Jean Ravelonarivo and h
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/08/madagascars-prime-minister-and-cabinet-resign)
+1. [Cover Image](https://i.guim.co.uk/img/media/08795c1e905140d51109c9c6765342bc36fcc0d9/178_220_2091_1254/2091.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=47d821a188fbfc55c43cb7354bc0d8bb)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Microsoft will not kill of Paint, it has now said. A suggestion from the company
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/news/microsoft-paint-dead-windows-coming-back-download-how-to-app-store-3d-a7858536.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/07/25/10/paint.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Eighty-four migrants are missing after their inflatable dinghy sank off the Liby
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36178582)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C960/production/_89525515_89525514.jpg)
 
 ### Related:
 

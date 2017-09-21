@@ -11,6 +11,7 @@ News and opinion from The Times &amp; The Sunday Times
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1845792,00.html)
 3. [The Independent](http://news.independent.co.uk/world/africa/article331302.ece)
 4. [TimesOnLine](http://www.timesonline.co.uk/article/0,,3-1905578,00.html)
+4. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

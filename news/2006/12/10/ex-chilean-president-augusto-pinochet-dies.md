@@ -9,6 +9,7 @@ Augusto Pinochet, who ruled Chile from 1973 to 1990, and spent his old age fight
 
 1. [CNN](http://www.cnn.com/2006/WORLD/americas/12/10/pinochet.ap/index.html)
 2. [The New York Times](http://www.nytimes.com/2006/12/10/world/americas/10cnd-pinochet.html?_r=1&oref=slogin)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Turkey begins blocking access to YouTube after a recording is posted on it purpo
 
 1. [BBC](http://www.bbc.com/news/world-europe-26773702)
 2. [Business Insider](http://www.businessinsider.com/youtube-blocked-in-turkey-2014-3)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73856000/jpg/_73856602_73847542.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A STRONG earthquake hit off the southwest coast of Turkey overnight near a popul
 ### Source:
 
 1. [AFP via News Limited](http://www.news.com.au/world/dozens-in-hospital-after-60-quake-hits-near-turkish-resort/story-e6frfkyi-1226390736299)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times Of India](http://timesofindia.indiatimes.com/Lok-Sabha-polls-Big-guns-Rahul-Gandhi-Ram-Vilas-Paswan-Chandrababu-Naidu-Jagmohan-Reddy-in-fray-today/liveblog/34758787.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/34758787.cms)
 
 ### Related:
 

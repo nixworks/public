@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/04/us-india-train-idUSBREA4307Q20140504)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140504&t=2&i=894135208&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA431I0P00)
 
 ### Related:
 

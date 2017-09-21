@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-08-29T190728Z_01_MAC925159_RTRUKOC_0_US-IRAQ-PIPELINE.xml&archived=False)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

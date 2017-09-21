@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/05/21/us-greece-tsipras-idUSBRE84K06C20120521)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120521&t=2&i=609567117&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84K0FKG00)
 
 ### Related:
 

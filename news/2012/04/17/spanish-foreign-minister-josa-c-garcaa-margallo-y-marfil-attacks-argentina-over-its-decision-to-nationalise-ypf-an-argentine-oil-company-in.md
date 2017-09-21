@@ -8,6 +8,7 @@ Spain says Argentina has shot itself in the foot with its decision to nationalis
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17739204)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59695000/jpg/_59695146_014529439-1.jpg)
 
 ### Related:
 

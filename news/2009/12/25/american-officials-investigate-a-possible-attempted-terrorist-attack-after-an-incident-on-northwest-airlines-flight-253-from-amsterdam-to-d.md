@@ -9,6 +9,7 @@ The Obama administration vows to review security procedures at airports and the 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8430612.stm)
 2. [MSNBC](http://www.msnbc.msn.com/id/34592031/ns/us_news-crime_and_courts/)
+2. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Video/091228/tdy_pwms_flight_091228.standard.jpg)
 
 ### Related:
 

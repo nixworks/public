@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17403715)
 2. [E Online](http://au.eonline.com/news/george_clooney_arrested_protesting/301719)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59124000/jpg/_59124494_59124493.jpg)
 
 ### Related:
 
@@ -18,4 +19,5 @@
 4. [Actor George Clooney is to receive an award for humanitarian work. ](/news/2010/07/21/actor-george-clooney-is-to-receive-an-award-for-humanitarian-work.md) _Context: George Clooney_
 5. [ Tens of thousands of people, including Howard University students and NAACP members, arrive in the U.S. city of Jena, Louisiana, to protest in support of six black teenagers involved in a schoolyard brawl. ](/news/2007/09/20/tens-of-thousands-of-people-including-howard-university-students-and-naacp-members-arrive-in-the-u-s-city-of-jena-louisiana-to-protest.md) _Context: NAACP_
 6. [ The board of the NAACP unanimously selects business executive Bruce S. Gordon as the civil rights organization's next president. ](/news/2005/06/25/the-board-of-the-naacp-unanimously-selects-business-executive-bruce-s-gordon-as-the-civil-rights-organization-s-next-president.md) _Context: NAACP_
-7. [Madonna marries film director Guy Ritchie, at Skibo Castle in Dornoch, Sutherland, Scotland with Gwyneth Paltrow, Stella McCartney, Sting, George Clooney, Jon Bon Jovi, Celine Dion, Bryan Adams, Rupert Everett and others in attendance.](/news/2000/12/22/madonna-marries-film-director-guy-ritchie-at-skibo-castle-in-dornoch-sutherland-scotland-with-gwyneth-paltrow-stella-mccartney-sting-g.md) _Context: George Clooney_
+7. [ NAACP sends out warnings about a forged letter that threatens the arrest of voters who have outstanding parking tickets or have failed to pay child support. ](/news/2004/10/29/naacp-sends-out-warnings-about-a-forged-letter-that-threatens-the-arrest-of-voters-who-have-outstanding-parking-tickets-or-have-failed-to-p.md) _Context: NAACP_
+8. [Madonna marries film director Guy Ritchie, at Skibo Castle in Dornoch, Sutherland, Scotland with Gwyneth Paltrow, Stella McCartney, Sting, George Clooney, Jon Bon Jovi, Celine Dion, Bryan Adams, Rupert Everett and others in attendance.](/news/2000/12/22/madonna-marries-film-director-guy-ritchie-at-skibo-castle-in-dornoch-sutherland-scotland-with-gwyneth-paltrow-stella-mccartney-sting-g.md) _Context: George Clooney_

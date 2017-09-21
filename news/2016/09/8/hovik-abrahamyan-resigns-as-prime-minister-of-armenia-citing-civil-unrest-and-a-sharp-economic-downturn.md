@@ -8,6 +8,7 @@ Move follows standoff in capital Yerevan between police and armed men, and could
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/sep/08/armenia-prime-minister-hovik-abrahamyan-resigns-unrest)
+1. [Cover Image](https://i.guim.co.uk/img/media/fb3f2d67dba87e3f685a1ae90e15478b65a9c972/0_0_3361_2016/3361.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=acddb3fc2ff6d8a01e9d30a0d7760b75)
 
 ### Related:
 

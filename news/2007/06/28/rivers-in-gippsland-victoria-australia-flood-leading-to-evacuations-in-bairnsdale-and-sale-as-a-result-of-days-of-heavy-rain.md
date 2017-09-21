@@ -9,6 +9,7 @@ Emergency services in Gippsland in eastern Victoria are being swamped by calls f
 
 1. [ABC](http://www.abc.net.au/news/stories/2007/06/28/1964523.htm)
 2. [ABC](http://www.abc.net.au/news/stories/2007/06/28/1964832.htm)
+2. [Cover Image](http://www.abc.net.au/news/image/85012-1x1-700x700.jpg)
 
 ### Related:
 

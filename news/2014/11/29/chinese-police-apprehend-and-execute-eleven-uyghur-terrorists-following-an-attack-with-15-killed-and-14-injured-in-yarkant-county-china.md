@@ -8,6 +8,7 @@ Fifteen people have been killed and 14 others wounded in a &quot;terrorist attac
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/fifteen-killed-terrorist-attack-chinas-xinjiang-state-media-100747830.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/xX9.3gKclHU2Ilzww0Xl0w--/aD05Nzc7dz0xNDY4O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/b910e7159e57ce8dc44a3f61dd939a9d2bb96f40.jpg)
 
 ### Related:
 

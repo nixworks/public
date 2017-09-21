@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-iran-missiles-idUSKCN0WV2HE)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160329&t=2&i=1128700109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2S1CC)
 
 ### Related:
 

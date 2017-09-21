@@ -8,6 +8,7 @@ Fine Gael leader Enda Kenny has been elected Taoiseach of the 31st D&aacute;il a
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0309/breaking5.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

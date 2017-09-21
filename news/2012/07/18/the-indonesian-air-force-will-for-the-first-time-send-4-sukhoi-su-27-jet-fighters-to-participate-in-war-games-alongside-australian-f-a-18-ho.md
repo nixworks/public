@@ -8,6 +8,7 @@ Indonesia will send its front-line Sukhoi jet fighters to take part in Australia
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/indonesian-jets-in-australian-war-games-20120717-228f3.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/2/8/w/b/image.related.thumbnail.320x214.228f3.png/1342544400000.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ BNamericas is the business intelligence tool for Latin America with data, news, 
 ### Source:
 
 1. [BNamericas](http://www.bnamericas.com/news/telecommunications/bolivian-satellite-successfully-launches-from-china)
+1. [Cover Image](https://w5s.bnamericas.com/bnamericas/imagebank/31160.jpg)
 
 ### Related:
 

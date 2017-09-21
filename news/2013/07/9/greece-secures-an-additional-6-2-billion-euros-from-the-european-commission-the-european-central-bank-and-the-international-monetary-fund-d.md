@@ -8,6 +8,7 @@ Greece secures 6.8bn euros in further funding from its creditors, but is told th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-23235415)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68618000/jpg/_68618594_greekwomanatdemo8thjuly2013.jpg)
 
 ### Related:
 

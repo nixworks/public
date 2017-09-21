@@ -8,6 +8,7 @@ A US judge has sentenced Russian businessman Viktor Bout to 25 years behind bars
 ### Source:
 
 1. [RT](http://rt.com/news/viktor-bout-sentence-usa-301/)
+1. [Cover Image](https://img.rt.com/files/oldfiles/news/viktor-bout-sentence-usa-301/viktor-bout.si.jpg)
 
 ### Related:
 

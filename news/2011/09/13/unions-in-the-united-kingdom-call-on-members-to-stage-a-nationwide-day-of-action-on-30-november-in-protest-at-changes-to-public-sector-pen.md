@@ -8,6 +8,7 @@ Unions schedule a nationwide day of strikes and demonstrations for 30 November, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14907909)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55362000/jpg/_55362510_002343766-1.jpg)
 
 ### Related:
 

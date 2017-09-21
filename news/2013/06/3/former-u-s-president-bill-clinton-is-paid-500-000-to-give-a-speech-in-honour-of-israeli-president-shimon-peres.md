@@ -10,6 +10,7 @@ Former US president Bill Clinton has been paid $500,000 for a speech to be given
 1. [Khaleej Times](http://www.khaleejtimes.com/kt-article-display-1.asp?xfile=data/international/2013/June/international_June82.xml&section=international)
 2. [Press TV](http://www.presstv.com/detail/2013/06/03/306947/clinton-paid-500000-to-honor-peres/)
 3. [Xinhua](http://news.xinhuanet.com/english/world/2013-06/03/c_124799826.htm)
+3. [Cover Image](http://www.khaleejtimes.com/images/default/default_490x276.jpg)
 
 ### Related:
 

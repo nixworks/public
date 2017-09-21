@@ -8,6 +8,7 @@ Bucking a global trend which pushes workers to work longer and older, Bolivians 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/2010121135142432606.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/11/201012114244547734_20.jpg)
 
 ### Related:
 

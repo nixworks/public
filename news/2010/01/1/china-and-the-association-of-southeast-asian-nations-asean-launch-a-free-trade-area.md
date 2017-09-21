@@ -9,6 +9,7 @@ The new zone, consisting of China and 10 Southeast Asian nations, will remove ta
 
 1. [New York Times](http://www.nytimes.com/2010/01/01/business/global/01trade.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2010-01/01/content_12739017.htm)
+2. [Cover Image](https://static01.nyt.com/images/2010/01/01/business/01trade_CA0/thumbStandard.jpg)
 
 ### Related:
 

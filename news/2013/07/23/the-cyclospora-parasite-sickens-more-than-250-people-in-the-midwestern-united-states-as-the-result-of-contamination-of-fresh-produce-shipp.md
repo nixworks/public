@@ -8,6 +8,7 @@ More than 250 people have been sickened, mostly in the Midwest, by a rare parasi
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/health/parasite-sickens-250-midwest-fresh-produce-suspected-6C10709186)
+1. [Cover Image](https://media2.s-nbcnews.com/j/streams/2013/july/130722/6c8352781-130722-parasite-4p.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The Panama Canal is open again after heavy rains forced a temporary closure for 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/201012962741835420.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11953800)
 3. [CNN](http://edition.cnn.com/2010/WORLD/americas/12/08/panama.canal.closed/index.html?eref=edition)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

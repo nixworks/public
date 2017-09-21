@@ -8,6 +8,7 @@ At least 17 people have been killed and 21 others injured in a fire at a shoe fa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14352275)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

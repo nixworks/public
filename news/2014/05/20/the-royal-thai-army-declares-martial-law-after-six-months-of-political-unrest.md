@@ -8,6 +8,7 @@ Military claims it is not part of a coup, coming one day after the caretaker pri
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/may/20/thai-army-declares-martial-law-amid-unrest)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/8/7/1407424119828/9063922_thumb.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4b5e63581c7c6cfee8dfe1e2212b4970)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/rudd-gillard-shape-up-for-labor-battle-20120224-1trgx.html?rand=8755826)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 23 people die in Syria as violence between army defectors and troops lo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16018002)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57109000/jpg/_57109234_013439536-1.jpg)
 
 ### Related:
 

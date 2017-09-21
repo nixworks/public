@@ -8,6 +8,7 @@ Three expert skiers die in an avalanche in the Cascade Mountains, north-east of 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17092780)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58607000/jpg/_58607513_58607512.jpg)
 
 ### Related:
 

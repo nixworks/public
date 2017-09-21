@@ -8,6 +8,7 @@ New Zealand is one of five countries to win seats for two years on the powerful 
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-10-17/new-zealand-wins-seat-on-united-nations-security-council/5820584)
+1. [Cover Image](http://www.abc.net.au/news/image/5323854-1x1-700x700.jpg)
 
 ### Related:
 

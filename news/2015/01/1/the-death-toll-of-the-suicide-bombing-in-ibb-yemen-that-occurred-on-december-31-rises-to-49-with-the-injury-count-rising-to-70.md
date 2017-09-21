@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ''Business Standard](http://www.business-standard.com/article/pti-stories/death-toll-of-yemen-anti-huthi-bomb-blast-rises-to-49-115010100472_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

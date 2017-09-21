@@ -8,6 +8,7 @@ Yosemite National Park in California is to gain a 400-acre addition, its largest
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-37303251)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5D80/production/_91063932_035150886.jpg)
 
 ### Related:
 

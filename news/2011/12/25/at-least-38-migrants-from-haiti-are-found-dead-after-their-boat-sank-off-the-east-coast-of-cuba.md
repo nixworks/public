@@ -8,6 +8,7 @@ At least 38 migrants, including 17 women, reportedly found dead after boat sinks
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2011/12/201112253336567689.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/25/2011122534533265734_20.jpg)
 
 ### Related:
 

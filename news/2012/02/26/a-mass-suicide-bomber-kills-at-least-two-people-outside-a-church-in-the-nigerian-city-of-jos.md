@@ -8,6 +8,7 @@ A suicide car bomb attack on a church in the Nigerian city of Jos kills three pe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17169935)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58733000/jpg/_58733733_014096741-1.jpg)
 
 ### Related:
 

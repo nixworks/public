@@ -10,6 +10,7 @@
 1. [AP](http://bigstory.ap.org/article/08f41ab3928b490f81647579ab2f1dcb/challenge-socialists-venezuelans-elect-legislature)
 2. [AP](http://hosted.ap.org/dynamic/stories/L/LT_VENEZUELA_ELECTIONS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 3. [Reuters](http://www.reuters.com/article/us-venezuela-election-idUSKBN0TP03Y20151207#kBG7mf0wty4AB8cq.97)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151207&t=2&i=1100499644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB60M6)
 
 ### Related:
 

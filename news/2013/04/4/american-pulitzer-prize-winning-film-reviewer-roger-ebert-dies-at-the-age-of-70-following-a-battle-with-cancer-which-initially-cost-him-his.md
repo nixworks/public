@@ -9,6 +9,7 @@ Ebert had been the film critic for the Chicago Sun-Times since April 3, 1967. He
 
 1. [Chicago Sun-Times](http://www.suntimes.com/news/metro/17320958-418/roger-ebert-dies-at-70-after-battle-with-cancer.html)
 2. [NPR](http://www.npr.org/blogs/thetwo-way/2013/04/04/176261560/roger-ebert-legendary-film-critic-dies)
+2. [Cover Image](https://media.npr.org/assets/img/2013/04/04/97472678_wide-1423fe67e919e56d5aa6c079810c3f9b38edd847.jpg?s=1400)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pope-bomb-idUSKBN1820LJ)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170506&t=2&i=1183510583&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED450GO)
 
 ### Related:
 

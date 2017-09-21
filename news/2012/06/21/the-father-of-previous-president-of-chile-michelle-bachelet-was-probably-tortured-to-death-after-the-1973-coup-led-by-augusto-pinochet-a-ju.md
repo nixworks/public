@@ -8,6 +8,7 @@ The father of ex-Chilean President Michelle Bachelet probably died as a result o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18528580)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54834000/jpg/_54834168_bacheletsitting.jpg)
 
 ### Related:
 

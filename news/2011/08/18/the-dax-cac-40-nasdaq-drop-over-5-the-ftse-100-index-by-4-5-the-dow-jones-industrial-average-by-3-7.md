@@ -9,6 +9,7 @@ The S.&P. dropped 4.5 percent amid heightened concerns over the impact of the eu
 
 1. [BBC](http://www.bbc.co.uk/news/business-14574125)
 2. [New York Times](http://www.nytimes.com/2011/08/19/business/daily-stock-market-activity.html?_r=1&emc=na)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

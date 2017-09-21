@@ -8,6 +8,7 @@ Prime Minister Julia Gillard has unveiled a complete reshuffle at the top of the
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/06/01/3232564.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2740510-1x1-700x700.jpg)
 
 ### Related:
 

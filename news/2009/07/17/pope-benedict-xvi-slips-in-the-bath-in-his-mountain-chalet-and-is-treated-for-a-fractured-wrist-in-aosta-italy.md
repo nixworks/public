@@ -12,6 +12,7 @@ Pope Benedict slipped in the bath today and broke his wrist but aides said there
 3. [The Guardian](http://www.guardian.co.uk/world/2009/jul/17/pope-fall-hospital)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0717/breaking23.htm)
 5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/5849172/Pope-Benedict-XVI-taken-to-hospital-after-breaking-wrist.html)
+5. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

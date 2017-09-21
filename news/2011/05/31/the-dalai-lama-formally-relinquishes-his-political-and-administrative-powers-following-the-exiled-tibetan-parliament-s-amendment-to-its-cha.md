@@ -8,6 +8,7 @@ The Dalai Lama has formally relinquished his political and administrative powers
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/31/india.dalai.lama/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/31/india.dalai.lama/tzvids.dalai.lama.gi.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Europe&#39;s best known landmarks fall dark,&#160; following Sydney&#39;s Opera 
 2. [Irish Independent](http://www.independent.ie/opinion/analysis/party-leader-locates-a-smoking-gun-to-shoot-himself-in-foot-2113997.html)
 3. [MSNBC](http://www.msnbc.msn.com/id/36064095/ns/world_news-world_environment/)
 4. [RTÉ](http://www.rte.ie/news/2010/0327/greens.html)
+4. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/gss-100327-earthhr/gss-100327-earthhr-06.standard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Rebels and army forces in eastern DR Congo are engaged in heavy fighting close t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23316609)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68730000/jpg/_68730809_68730808.jpg)
 
 ### Related:
 

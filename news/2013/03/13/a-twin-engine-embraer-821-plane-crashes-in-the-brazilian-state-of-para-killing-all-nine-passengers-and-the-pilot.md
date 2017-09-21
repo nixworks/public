@@ -8,6 +8,7 @@ A twin-engine plane has crashed in the Brazilian Amazon state of Para, killing a
 ### Source:
 
 1. [SAPA via News24](http://www.news24.com/news24/World/News/10-die-in-air-taxi-crash-20130313)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1809/4655237a54814d8c93ce409510a9deb6.jpg)
 
 ### Related:
 

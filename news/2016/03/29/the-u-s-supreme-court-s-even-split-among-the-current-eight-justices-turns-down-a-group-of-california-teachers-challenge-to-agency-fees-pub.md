@@ -8,6 +8,7 @@ WASHINGTON – An even split among the current eight justices of the U.S. Suprem
 ### Source:
 
 1. [Boston Herald](http://www.bostonherald.com/news/columnists/kimberly_atkins/2016/03/atkins_split_court_gives_unions_a_win)
+1. [Cover Image](http://www.bostonherald.com/sites/default/files/styles/gallery/public/media/2016/03/29/Supreme%20Court%20Union%20F_Berr.jpg?itok=BDbs6CWr)
 
 ### Related:
 

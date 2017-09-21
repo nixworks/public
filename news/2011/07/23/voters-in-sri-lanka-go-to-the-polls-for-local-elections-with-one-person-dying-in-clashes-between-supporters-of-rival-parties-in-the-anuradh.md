@@ -8,6 +8,7 @@ Sri Lankans vote in local elections - many in the northern former war zone, wher
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14259705)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54227000/jpg/_54227506_012510987-1.jpg)
 
 ### Related:
 

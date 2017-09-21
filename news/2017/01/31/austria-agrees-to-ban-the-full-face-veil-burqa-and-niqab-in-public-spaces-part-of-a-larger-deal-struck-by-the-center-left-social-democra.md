@@ -9,6 +9,7 @@ The governing coalition may also prevent civil servants from wearing religious s
 
 1. [BBC](http://www.bbc.com/news/world-europe-38808495)
 2. [The Christian Science Monitor](http://www.csmonitor.com/World/2017/0131/Why-Austria-joins-other-European-nations-in-banning-the-full-face-veil)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/11416/production/_93887607_72e7131e-5504-42d2-9d54-f5e87d717646.jpg)
 
 ### Related:
 

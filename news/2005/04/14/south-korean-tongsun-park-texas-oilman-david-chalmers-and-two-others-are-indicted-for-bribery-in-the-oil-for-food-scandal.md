@@ -9,6 +9,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8186105)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A54645-2005Apr14.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

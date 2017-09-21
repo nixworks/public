@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/world-europe-34485865)
 2. [CNN](http://www.cnn.com/2015/10/09/world/nobel-peace-prize/index.html)
 3. [Nobel Peace Prize](http://nobelpeaceprize.org/en_GB/laureates/laureates-2015/announce-2015/)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0775/production/_85990910_85990909.jpg)
 
 ### Related:
 

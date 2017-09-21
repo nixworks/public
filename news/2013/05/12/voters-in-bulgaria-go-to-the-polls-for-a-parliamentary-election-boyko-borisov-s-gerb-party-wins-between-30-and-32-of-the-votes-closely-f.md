@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/05/201351245128337905.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-22498433)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/5/12/2013512194636141734_20.jpg)
 
 ### Related:
 

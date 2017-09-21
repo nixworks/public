@@ -8,6 +8,7 @@ First-time offenders will face $270 fine if caught using marijuana in a public p
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.775331)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.770785.1486647382!/image/2113513749.jpg_gen/derivatives/headline_1200x630/2113513749.jpg)
 
 ### Related:
 

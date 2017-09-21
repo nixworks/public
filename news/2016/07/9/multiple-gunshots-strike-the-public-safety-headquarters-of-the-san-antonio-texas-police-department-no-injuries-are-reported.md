@@ -8,6 +8,7 @@ Police are seeking a suspect who was seen running from the area, Chief William M
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/07/10/gunfire-hits-san-antonio-police-headquarters/86915612/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

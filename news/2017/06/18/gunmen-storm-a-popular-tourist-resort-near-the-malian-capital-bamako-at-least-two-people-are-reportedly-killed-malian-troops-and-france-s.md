@@ -8,6 +8,7 @@ Troops free 20 hostages, the government says, as the resort is attacked by suspe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-40322039)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/28AE/production/_96541401_maliresort.jpg)
 
 ### Related:
 

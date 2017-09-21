@@ -9,6 +9,7 @@ Santa Clara police: Activist Ly Tong arrested in pepper spray attack on singer
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10699376)
 2. [San Jose Mercury News](http://www.mercurynews.com/top-stories/ci_15555629?nclick_check=1)
+2. [Cover Image](http://www.mercurynews.com/wp-content/uploads/2016/08/20100719__lytongfile1.jpg?w=400&amp;h=267)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Bombs explode at the Swiss and Russian embassies in Athens and several other sus
 4. [BBC](http://www.bbc.co.uk/news/world-europe-11674535)
 5. [China Daily](http://www.chinadaily.com.cn/world/2010-11/02/content_11492825.htm)
 6. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/greece/8105449/Parcel-bombs-hit-two-more-embassies-in-Greece.html)
+6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

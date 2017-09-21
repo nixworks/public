@@ -10,6 +10,7 @@ The footage of the aide, Rafiq Husseini, has sent shock waves through conservati
 1. [MSNBC](http://www.msnbc.msn.com/id/35369092/ns/world_news-mideastn_africa/)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/feb/12/palestinian-president-aide-sex-scandal)
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=168623)
+3. [Cover Image](http://media2.s-nbcnews.com/j/ap/mideast israel palestinians corruption--925448927.standard.jpg)
 
 ### Related:
 

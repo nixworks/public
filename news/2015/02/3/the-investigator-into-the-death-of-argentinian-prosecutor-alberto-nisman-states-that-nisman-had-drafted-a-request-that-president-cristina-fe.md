@@ -8,6 +8,7 @@ An Argentine prosecutorfound dead in mysterious circumstances last month had dra
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/03/argentina-prosecutor-warrant-idUSL1N0VD2E720150203)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

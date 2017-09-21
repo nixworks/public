@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11539845)
 2. [The Australian](http://www.theaustralian.com.au/news/world/israel-destined-to-disappear-mahmoud-ahmadinejad/story-e6frg6so-1225939369753)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/49509000/jpg/_49509987_010421440-1.jpg)
 
 ### Related:
 

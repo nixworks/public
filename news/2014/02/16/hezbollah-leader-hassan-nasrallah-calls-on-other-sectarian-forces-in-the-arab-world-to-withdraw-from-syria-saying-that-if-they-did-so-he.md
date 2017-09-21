@@ -9,6 +9,7 @@ Poriya Hospital in Tiberias treats child with shrapnel wounds, the latest of hun
 
 1. [Reuters](http://www.reuters.com/article/2014/02/16/us-syria-crisis-hezbollah-lebanon-idUSBREA1F0US20140216)
 2. [The Times of Israel](http://www.timesofisrael.com/five-year-old-syrian-boy-rushed-to-israeli-hospital)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/06/pic.jpg)
 
 ### Related:
 

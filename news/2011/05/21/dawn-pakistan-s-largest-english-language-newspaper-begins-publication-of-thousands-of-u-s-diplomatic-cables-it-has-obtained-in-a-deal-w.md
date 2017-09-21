@@ -8,6 +8,7 @@ Leaked US diplomatic messages show Pakistani military requested more drone strik
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/05/201152175836483568.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/21/2011521121819639734_20.jpg)
 
 ### Related:
 

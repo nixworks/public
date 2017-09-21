@@ -8,6 +8,7 @@ His AK-47 assault rifle has killed more people than any other firearm in the wor
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/news/world/europe/gun-designer-kalashnikov-dies-aged-94-1.1636704)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1636703&origw=960)
 
 ### Related:
 

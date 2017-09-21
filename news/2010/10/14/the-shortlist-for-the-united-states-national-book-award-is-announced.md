@@ -8,6 +8,7 @@ Acclaimed Australian author Peter Carey might have missed out the Booker Prize, 
 ### Source:
 
 1. [AAP and ABC Australia Online](http://www.abc.net.au/news/stories/2010/10/15/3039239.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1238778-1x1-700x700.jpg)
 
 ### Related:
 

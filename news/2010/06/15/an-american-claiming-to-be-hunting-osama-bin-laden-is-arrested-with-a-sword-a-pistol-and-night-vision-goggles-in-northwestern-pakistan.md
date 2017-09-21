@@ -9,6 +9,7 @@ Pakistan detains US armed man for trying to cross into Afghanistan to hunt al-Qa
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201061514523798317.html)
 2. [Wall St. Journal](http://online.wsj.com/article/SB10001424052748704009804575308440143301092.html?mod=rss_Today%27s_Most_Popular)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

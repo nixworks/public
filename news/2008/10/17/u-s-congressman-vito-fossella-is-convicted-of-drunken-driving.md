@@ -8,6 +8,7 @@ Fox 5 NY, New York News, Breaking News, weather, sports, traffic, entertainment
 ### Source:
 
 1. [AP via Fox News](http://www.myfoxny.com/myfox/pages/News/Detail?contentId=7670983&version=3&locale=EN-US&layoutCode=TSTY&pageId=3.2.1)
+1. [Cover Image](http://static.lakana.com/lakana-fox-global/theme/images/wnyw/placeholder-4x3.jpg)
 
 ### Related:
 

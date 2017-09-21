@@ -9,6 +9,7 @@
 
 1. [Reuters](http://in.reuters.com/article/2015/10/29/us-environment-ozone-idINKCN0SN1R920151029)
 2. [USA Today via WTSP](http://www.wtsp.com/story/news/2015/10/29/antarctic-ozone-hole-expands-near-record-size/74842060/)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

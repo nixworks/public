@@ -8,6 +8,7 @@ A decision was expected Monday on whether to prosecute Samsung chief Lee Jae-yon
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-south-korea-samsung-chief-2017-story.html)
+1. [Cover Image](http://www.trbimg.com/img-587cffb7/turbine/la-fg-south-korea-samsung-chief-2017)
 
 ### Related:
 

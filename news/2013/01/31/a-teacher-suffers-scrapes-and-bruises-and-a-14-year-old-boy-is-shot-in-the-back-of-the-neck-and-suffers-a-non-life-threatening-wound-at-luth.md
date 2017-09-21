@@ -11,6 +11,7 @@ A 14-year-old is taken to hospital after being shot in the back of the neck outs
 2. [CBS News](http://www.cbsnews.com/8301-201_162-57566972/two-shot-at-middle-school-in-atlanta/)
 3. [Fox News](http://www.foxnews.com/us/2013/01/31/school-officials-confirm-shooting-at-atlanta-middle-school/)
 4. [NBC News](http://usnews.nbcnews.com/_news/2013/01/31/16793842-14-year-old-shot-at-atlanta-middle-school-officials-say)
+4. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65637000/jpg/_65637233_z03da07w.jpg)
 
 ### Related:
 

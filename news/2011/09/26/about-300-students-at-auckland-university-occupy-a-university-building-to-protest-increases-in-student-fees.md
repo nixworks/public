@@ -8,3 +8,4 @@ Student protesters in Auckland have returned to the university for pizza and a f
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10754503)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201140/SCCZEN_260911NZHDPSTUDENTS11_1024x768.JPG)

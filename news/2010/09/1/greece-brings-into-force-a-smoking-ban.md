@@ -11,6 +11,7 @@ A new law comes into force in Greece banning smoking in enclosed public spaces a
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11148448)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Greece-Bans-Smoking-In-Enclosed-Public-Spaces-And-Tobacco-Advertising/Article/201009115710298?f=rss)
 4. [The Independent](http://www.independent.co.uk/news/world/europe/greece-aims-to-extinguish-its-addiction-to-smoking-2068109.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Police break down barricades erected by opponents of a new tunnel being bored th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13923741)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53710000/jpg/_53710147_italy-hi012316240.jpg)
 
 ### Related:
 

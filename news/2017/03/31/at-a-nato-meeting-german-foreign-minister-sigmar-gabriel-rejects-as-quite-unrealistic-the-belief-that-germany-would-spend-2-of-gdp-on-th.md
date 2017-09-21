@@ -8,6 +8,7 @@ Foreign minister says it is unrealistic to expect Germany to spend 2% of GDP on 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39460685)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12139/production/_95414047_mediaitem95414046.jpg)
 
 ### Related:
 

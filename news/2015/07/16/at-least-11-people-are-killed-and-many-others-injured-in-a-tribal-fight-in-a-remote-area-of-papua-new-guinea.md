@@ -8,6 +8,7 @@ At least 11 people are killed and many others injured in a fight between two war
 ### Source:
 
 1. [AFP via ABC Australia](http://www.abc.net.au/news/2015-07-16/at-least-11-people-killed-in-png-tribal-fight-reports-say/6626244)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

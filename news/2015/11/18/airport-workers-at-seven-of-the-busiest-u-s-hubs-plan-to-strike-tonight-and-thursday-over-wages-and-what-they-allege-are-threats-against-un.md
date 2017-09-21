@@ -9,6 +9,7 @@ Airport workers at seven of thebusiest U.S. hubs plan to strike on Wednesday nig
 
 1. [Reuters](http://in.reuters.com/article/2015/11/19/usa-airport-strike-idINL1N13D2R020151119)
 2. [The Philly Voice](http://www.phillyvoice.com/some-us-airport-workers-to-strike-wednesday-night-/)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

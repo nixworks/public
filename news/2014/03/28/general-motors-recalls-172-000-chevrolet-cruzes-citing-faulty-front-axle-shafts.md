@@ -9,6 +9,7 @@ General Motors Co is adding 971,000 cars to its global ignition switch recall, w
 
 1. [CNN](http://money.cnn.com/2014/03/29/autos/gm-cruze-ignition-recalls/)
 2. [Reuters](http://www.reuters.com/article/2014/03/28/us-gm-recall-expanded-idUSBREA2R1Y920140328)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140328&t=2&i=872171608&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2R1O8F00)
 
 ### Related:
 

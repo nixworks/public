@@ -8,6 +8,7 @@ Fighters led by ISIL capture more territory as Prime Minister Nouri al-Maliki co
 ### Source:
 
 1. [AlJazeera](http://www.aljazeera.com/news/middleeast/2014/06/sunni-rebels-seize-more-towns-iraq-2014622542922219.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/6/22//201462262215674734_20.jpg)
 
 ### Related:
 

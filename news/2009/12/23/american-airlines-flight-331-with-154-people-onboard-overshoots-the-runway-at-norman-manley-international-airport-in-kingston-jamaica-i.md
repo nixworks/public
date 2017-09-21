@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h1NLd7Srdn5OB1cBDGTvQtgMCUAA)
 2. [China Daily](http://www.chinadaily.com.cn/world/2009-12/23/content_9220183.htm)
 3. [Jamaica Observer](http://www.jamaicaobserver.com/news/Plane-crash-at-airport)
+3. [Cover Image](http://www.jamaicaobserver.com/assets/3846313/AA-passengers-ld_w400.jpg)
 
 ### Related:
 

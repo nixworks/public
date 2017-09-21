@@ -8,6 +8,7 @@ The Philippine government says it is facing its biggest logistical challenge aft
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24928138)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71089000/jpg/_71089134_dbd99b60-0308-451e-b9f7-5b37a0e2cc29.jpg)
 
 ### Related:
 

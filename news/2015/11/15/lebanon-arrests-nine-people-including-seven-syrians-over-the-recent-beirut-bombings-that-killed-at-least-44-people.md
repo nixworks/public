@@ -8,6 +8,7 @@ Seven Syrians and two Lebanese detained for allegedly planning deadly explosions
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/11/lebanon-arrests-deadly-beirut-bombings-151115145052707.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/11/15/c00ec5d64e45486ba10e5c00dc04467f_18.jpg)
 
 ### Related:
 

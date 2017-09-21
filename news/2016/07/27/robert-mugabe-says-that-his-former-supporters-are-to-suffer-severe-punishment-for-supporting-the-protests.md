@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2016/07/27/zimbabwes-president-mugabe-vows-severe-punishment-for-loyalists-who-turned-on-him.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2016/07/27/zimbabwes-president-mugabe-vows-severe-punishment-for-loyalists-who-turned-on-him/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1469640860348.jpg?ve=1)
 
 ### Related:
 

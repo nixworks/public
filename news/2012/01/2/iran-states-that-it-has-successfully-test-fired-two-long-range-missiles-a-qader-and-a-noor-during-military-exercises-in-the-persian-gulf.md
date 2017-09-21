@@ -14,6 +14,7 @@ Iran said on Monday it had successfully test-fired what it described as two long
 5. [Reuters](http://www.reuters.com/article/2012/01/02/us-iran-missile-idUSTRE80007E20120102)
 6. [WSJ](http://onespot.wsj.com/politics/2012/01/02/6ab4a/iran-test-fires-long-range-missiles)
 7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4170000,00.html)
+7. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120102&t=2&i=553584897&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE801154V00)
 
 ### Related:
 

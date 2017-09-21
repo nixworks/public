@@ -8,6 +8,7 @@ There has been an armed robbery at the European Parliament in Brussels.
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0212/euparliament.html)
+1. [Cover Image](https://img.rasset.ie/00021054-1600.jpg)
 
 ### Related:
 

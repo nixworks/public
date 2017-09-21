@@ -8,6 +8,7 @@ Crew members are rescued from a ship in the English Channel, as Storm Angus hits
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-38038992)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7735/production/_92571503_hi036495797.jpg)
 
 ### Related:
 

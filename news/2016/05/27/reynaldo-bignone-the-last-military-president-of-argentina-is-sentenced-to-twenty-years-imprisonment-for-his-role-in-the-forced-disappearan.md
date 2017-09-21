@@ -8,6 +8,7 @@ BUENOS AIRES, Argentina (AP) — In a story May 27 about an Argentina court ruli
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/7dd39e6ad03a42d893d6458cd2b25289/argentine-court-sentences-ex-dictator-operation-condor)
+1. [Cover Image](http://binaryapi.ap.org/1418c4cf45a947d8897b7208820c8304/460x.jpg)
 
 ### Related:
 

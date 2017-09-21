@@ -9,6 +9,7 @@ The event is being held for the first time in five years. with reports speaking 
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-40993591)
 2. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-4806838/Injuries-rocket-hits-near-Damascus-business-fair-state-TV.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/11E27/production/_97455237_5215eb8f-3810-4046-9b8b-49f2185e921e.jpg)
 
 ### Related:
 

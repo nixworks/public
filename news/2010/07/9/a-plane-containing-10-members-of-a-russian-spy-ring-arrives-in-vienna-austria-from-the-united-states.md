@@ -8,6 +8,7 @@ Washington announces the successful completion of its biggest spy swap with Russ
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10564994.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

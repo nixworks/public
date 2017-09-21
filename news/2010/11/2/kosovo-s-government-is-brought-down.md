@@ -8,6 +8,7 @@ The Kosovan government has been brought down by a vote of no-confidence less tha
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11677809)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

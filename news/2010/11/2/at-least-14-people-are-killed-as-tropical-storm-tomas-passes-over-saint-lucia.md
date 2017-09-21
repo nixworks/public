@@ -9,6 +9,7 @@ At least 14 people are now known to have died on the Caribbean island of St Luci
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11672819)
 2. [Jamaica Observer](http://www.jamaicaobserver.com/news/Death-and-destruction-as-Tomas-barrels-through-Eastern-Caribbean_8110764)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

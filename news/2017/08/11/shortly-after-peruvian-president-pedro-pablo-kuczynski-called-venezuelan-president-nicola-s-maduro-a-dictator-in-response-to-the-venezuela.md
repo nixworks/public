@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-venezuela-politics-peru-idUSKBN1AR2B7)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170811&t=2&i=1196767773&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED7A1HR)
 
 ### Related:
 

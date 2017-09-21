@@ -8,6 +8,7 @@ New Zealand launched its first commercially available biofuel Wednesday. The fue
 ### Source:
 
 1. [AFP via The China Post](http://www.chinapost.com.tw/business/2007/08/02/116797/New-Zealand.htm)
+1. [Cover Image](http://www.chinapost.com.tw/cplogo.jpg)
 
 ### Related:
 

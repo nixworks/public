@@ -9,6 +9,7 @@ Tel Aviv made its most definitive statement accusing Syria of using chemical wea
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22272463)
 2. [The New York Times](http://www.nytimes.com/2013/04/24/world/middleeast/israel-says-syria-has-used-chemical-weapons.html)
+2. [Cover Image](https://static01.nyt.com/images/2013/04/24/world/SYRIA-1/SYRIA-1-videoLarge.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ EU Council chief Van Rompuy is ending his five-year term true to his nature, wit
 ### Source:
 
 1. [EUobserver](http://euobserver.com/institutional/126725)
+1. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/c1bf5180ef9e6a8943b775e46242d5e1-480x.jpg)
 
 ### Related:
 

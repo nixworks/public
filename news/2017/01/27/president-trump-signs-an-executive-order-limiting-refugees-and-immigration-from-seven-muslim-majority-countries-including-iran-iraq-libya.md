@@ -10,6 +10,7 @@ Five Iraqi passengers and one Yemeni were barred from boarding an EgyptAir fligh
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-38777437)
 2. [Reuters](http://www.reuters.com/article/us-usa-trump-refugees-idUSKBN15B2HL)
 3. [The Washington Post](https://www.washingtonpost.com/local/march-for-life-thousands-assemble-at-washington-monument/2017/01/27/7d880d52-e40a-11e6-ba11-63c4b4fb5a63_story.html)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170128&t=2&i=1170482974&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0R03L)
 
 ### Related:
 

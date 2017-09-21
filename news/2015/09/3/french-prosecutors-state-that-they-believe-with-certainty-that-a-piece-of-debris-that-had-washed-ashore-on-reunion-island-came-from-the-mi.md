@@ -8,6 +8,7 @@ French prosecutors say &quot;with certainty&quot; that a wing part found on Reun
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-34145127)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2085/production/_85352380_85352379.jpg)
 
 ### Related:
 

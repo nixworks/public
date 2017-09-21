@@ -8,6 +8,7 @@ Afghan President Hamid Karzai today condemned US troops for killing a four-year-
 ### Source:
 
 1. [Business Standard](http://www.business-standard.com/article/pti-stories/killing-of-boy-4-by-us-troops-frays-afghan-ties-further-114011100045_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

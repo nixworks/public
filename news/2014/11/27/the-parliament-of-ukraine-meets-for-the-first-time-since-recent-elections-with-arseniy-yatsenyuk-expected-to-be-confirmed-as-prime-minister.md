@@ -8,6 +8,7 @@ Government needed quickly to face Russian-backed insurgency and dying economy
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/news/world/europe/ukraine-s-new-parliament-convenes-in-blizzard-of-crises-1.2016233)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2016231&origw=960)
 
 ### Related:
 

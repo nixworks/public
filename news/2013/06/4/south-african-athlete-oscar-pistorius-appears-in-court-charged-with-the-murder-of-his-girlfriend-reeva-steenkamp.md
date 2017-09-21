@@ -8,6 +8,7 @@ A South African magistrate has postponed the murder trial of Oscar Pistorius unt
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2013/0604/454386-oscar-pistorius-reeva-steenkamp/)
+1. [Cover Image](https://img.rasset.ie/0007716c-1600.jpg)
 
 ### Related:
 

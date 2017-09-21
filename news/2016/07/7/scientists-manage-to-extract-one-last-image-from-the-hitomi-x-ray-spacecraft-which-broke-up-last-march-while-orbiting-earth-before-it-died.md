@@ -8,6 +8,7 @@ A doomed Japanese satellite managed to capture a spectacular view of a cluster o
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36732336)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/5CBD/production/_90314732_8cc74140-8d3f-436d-b27b-1594e9999871.jpg)
 
 ### Related:
 

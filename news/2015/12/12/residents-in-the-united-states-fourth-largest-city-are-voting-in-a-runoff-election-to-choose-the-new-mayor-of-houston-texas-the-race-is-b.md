@@ -9,6 +9,7 @@ Voters in Houston, the fourth most-populous U.S. city, went to the polls on Satu
 
 1. [KPRC-TV](http://www.click2houston.com/news/polls-open-for-houston-mayoral-runoff-election)
 2. [Reuters](http://www.reuters.com/article/us-houston-vote-idUSKBN0TV0GW20151212#B6JbEypdBG2qgpqF.97)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151212&t=2&i=1101826562&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBB07N)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/14/2005153.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

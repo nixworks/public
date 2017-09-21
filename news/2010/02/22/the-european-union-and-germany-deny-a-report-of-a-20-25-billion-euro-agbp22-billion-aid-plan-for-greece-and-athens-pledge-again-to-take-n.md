@@ -8,6 +8,7 @@ The European Union and Germany on Monday denied a report of a 20-25 billion euro
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE61L2NP20100222)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

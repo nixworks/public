@@ -9,6 +9,7 @@ Space shuttle Discovery has launched on a mission to deliver new science equipme
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hj746YnMWMiOCA2SO8-WVok56FIQ)
 2. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/08/29/2009082900513.html)
+2. [Cover Image](http://english.chosun.com/site/data/img_dir/2009/08/29/2009082900512_0.jpg)
 
 ### Related:
 

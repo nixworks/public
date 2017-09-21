@@ -8,3 +8,4 @@ A-Center;Updates Swift Transportation, Bain Capital and Cinven)
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/deals-day-idUSL3N1HI3EC)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

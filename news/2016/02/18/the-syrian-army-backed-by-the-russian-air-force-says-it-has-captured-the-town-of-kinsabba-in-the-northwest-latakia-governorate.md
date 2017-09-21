@@ -8,6 +8,7 @@ The Syrian army backed by heavy Russian aerial bombing said on Thursday it had c
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-latakia-idUSKCN0VR10Y)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

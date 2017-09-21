@@ -8,3 +8,4 @@ Alaska SeaLife Center converts the use of fossil fuel into renewable seawater sy
 ### Source:
 
 1. [Tech Times](http://www.techtimes.com/articles/153176/20160424/alaska-sealife-center-replaces-fossil-fuel-with-renewable-seawater-system.htm)
+1. [Cover Image](http://images.techtimes.com/data/images/full/235672/alaska-sealife-center.jpg)

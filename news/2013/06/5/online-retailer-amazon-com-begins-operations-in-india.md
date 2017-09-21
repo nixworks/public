@@ -8,6 +8,7 @@ Amazons India launch is expected to add to the pressure on incumbent online reta
 ### Source:
 
 1. [Economic Times](http://economictimes.indiatimes.com/tech/internet/amazon-debuts-in-india-with-marketplace-model-fierce-competition-ahead/articleshow/20453002.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-20453073,width-672,resizemode-4,imglength-27645/tech/internet/amazon-debuts-in-india-with-marketplace-model-fierce-competition-ahead.jpg)
 
 ### Related:
 

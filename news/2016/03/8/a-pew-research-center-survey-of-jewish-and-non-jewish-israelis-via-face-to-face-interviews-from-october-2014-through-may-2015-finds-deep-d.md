@@ -9,6 +9,7 @@ There are deep divisions in Israeli society over political values and religion&#
 
 1. [Pew Research Center](http://www.pewforum.org/2016/03/08/israels-religiously-divided-society/)
 2. [The Jerusalem Post](http://www.jpost.com/Israel-News/You-cant-have-democracy-just-for-Jews-Rivlin-said-in-wake-of-Pew-poll-447319)
+2. [Cover Image](http://assets.pewresearch.org/wp-content/uploads/sites/11/2016/03/PF_16.03.08_IsraelSurveyPromos_feature640x320.png)
 
 ### Related:
 

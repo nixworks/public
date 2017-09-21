@@ -10,6 +10,7 @@ Five men are killed and a sixth is seriously injured in an explosion at a Lincol
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-lincolnshire-14146993)
 2. [Channel 4](http://www.channel4.com/news/several-dead-at-serious-incident-in-boston)
 3. [The Guardian](http://www.guardian.co.uk/uk/2011/jul/13/explosion-boston-deaths)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54066000/jpg/_54066810_012448677-1.jpg)
 
 ### Related:
 

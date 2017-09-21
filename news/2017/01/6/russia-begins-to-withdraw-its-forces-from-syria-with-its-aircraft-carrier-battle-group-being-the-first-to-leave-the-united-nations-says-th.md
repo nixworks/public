@@ -8,6 +8,7 @@ Russia begins reducing its forces in Syria, starting with its aircraft carrier g
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38528654)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1749C/production/_93288359_admkuznetsovreuters.jpg)
 
 ### Related:
 

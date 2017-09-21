@@ -8,6 +8,7 @@ TWO IRISH nationals have been detained at the airport in Libya&rsquo;s capital T
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0216/1224264554590.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

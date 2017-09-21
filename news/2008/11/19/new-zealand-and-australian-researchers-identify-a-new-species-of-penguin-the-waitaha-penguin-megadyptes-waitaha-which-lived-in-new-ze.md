@@ -10,6 +10,7 @@ Australian and New Zealand researchers have used ancient DNA to identify a previ
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/national/research-identifies-new-penguin-species-20081119-6b8i.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/science/nature/7735500.stm)
 3. [Science Daily](http://www.sciencedaily.com/releases/2008/11/081118194528.htm)
+3. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

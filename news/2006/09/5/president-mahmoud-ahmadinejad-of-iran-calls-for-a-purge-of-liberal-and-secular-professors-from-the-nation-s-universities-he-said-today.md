@@ -8,6 +8,7 @@ Iranian &#160;President Mahmoud Ahmadinejad called Tuesday for a purge of libera
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/14676069/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/060905/060905_iran_vmed_3a.standard.jpg)
 
 ### Related:
 

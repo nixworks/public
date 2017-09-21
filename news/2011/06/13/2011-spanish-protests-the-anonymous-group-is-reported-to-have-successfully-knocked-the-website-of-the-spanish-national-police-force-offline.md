@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/technology-13749181)
 2. [The Guardian](http://www.guardian.co.uk/technology/2011/jun/13/turkish-arrests-global-war-hackers-police)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53380000/jpg/_53380123_anonmask.jpg)
 
 ### Related:
 

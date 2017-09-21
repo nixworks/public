@@ -10,6 +10,7 @@ The Commission of Investigation into Dublin&rsquo;s Catholic Archdiocese has con
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8381119.stm)
 2. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1126/breaking73.htm)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5AP2IG20091126)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

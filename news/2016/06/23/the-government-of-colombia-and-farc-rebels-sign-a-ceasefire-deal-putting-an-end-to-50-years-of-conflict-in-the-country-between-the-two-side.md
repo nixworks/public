@@ -8,6 +8,7 @@ The Colombian government and leftist Farc rebels sign a ceasefire deal to end fi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36611952)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B475/production/_90079164_mediaitem90079163.jpg)
 
 ### Related:
 

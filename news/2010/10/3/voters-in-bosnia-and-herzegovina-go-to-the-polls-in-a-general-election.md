@@ -8,6 +8,7 @@ Political stalemate likely to continue as voters are expected to cast their ball
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/europe/2010/10/201010314621960702.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/3/201010321433280734_20.jpg)
 
 ### Related:
 

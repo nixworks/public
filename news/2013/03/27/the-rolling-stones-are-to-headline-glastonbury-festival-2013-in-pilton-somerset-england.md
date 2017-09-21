@@ -9,6 +9,7 @@ As the Rolling Stones confirm they will headline Glastonbury for the first time 
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/glastonbury/9957693/Rolling-Stones-at-Glastonbury-2013-The-Stones-need-this-festival-and-it-needs-them.html)
 2. [The Guardian](http://www.guardian.co.uk/music/2013/mar/27/rolling-stones-headline-glastonbury-2013)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02478/rollingstones2_2478517k.jpg)
 
 ### Related:
 

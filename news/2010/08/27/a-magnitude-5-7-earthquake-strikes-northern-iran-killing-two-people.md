@@ -10,6 +10,7 @@ State television in Iran says an earthquake east of Tehran has caused damage in 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/world/55397/quake-reported-in-iran)
 2. [WireUpdate](http://wireupdate.com/wires/9155/two-young-children-die-in-northern-iran-earthquake-also-felt-in-tehran/)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/28/c_13466421.htm)
+3. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

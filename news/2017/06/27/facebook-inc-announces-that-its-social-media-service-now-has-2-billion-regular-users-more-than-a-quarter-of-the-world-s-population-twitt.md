@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-facebook-users-idUSKBN19I2GG)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170628&t=2&i=1190770514&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5R01E)
 
 ### Related:
 

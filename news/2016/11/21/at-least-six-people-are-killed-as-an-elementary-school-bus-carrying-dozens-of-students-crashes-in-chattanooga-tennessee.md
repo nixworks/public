@@ -8,6 +8,7 @@ Tree slices through school bus carrying 35 passengers, grades K-5, after acciden
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/police-chief-bus-carrying-35-students-crashes-in-tennessee/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/11/21/83c6fe58-5f5d-4ed9-befd-fa69fadeed04/buscrash.jpg)
 
 ### Related:
 

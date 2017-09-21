@@ -9,6 +9,7 @@ A South Korean pastor has been sentenced to five years in jail for an unauthoriz
 
 1. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2931333)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/01/21/Pastor-sentenced-to-jail-for-N-Korea-trip/UPI-11841295612965/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/11841295612965/2011/1/52db119b28da2cd58e9364f9e3ba0080/v2.1/Pastor-sentenced-to-jail-for-N-Korea-trip.jpg)
 
 ### Related:
 

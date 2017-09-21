@@ -8,6 +8,7 @@ PNG Prime Minister Michael Somare threatened to kill an opposition member after 
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/high-drama-as-somare-survives-png-vote-20100721-10kjy.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

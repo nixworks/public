@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/20101026155212903364.html)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE69P0AR20101026?sp=true)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/26/20101026202450333436_20.jpg)
 
 ### Related:
 

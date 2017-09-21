@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez announced Wednesday that China will invest 16 b
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/17/china-to-invest-16-billion-usd-to-develop-new-oilfields-in-venezuela)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21941/200x200/ba495195cde45c86bc069ea74a893be4.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Pennsylvania state Senate on Tuesday voted for a state takeover of the finan
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/10/18/us-harrisburg-takeover-idUSTRE79H5VD20111018)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111018&t=2&i=518679908&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79H1G6100)
 
 ### Related:
 

@@ -12,6 +12,7 @@ SIX bodies, including that of a child, have been found in the sodden wreckage le
 3. [Radio New Zealand News](http://www.radionz.co.nz/news/world/127416/five-killed-in-solomons-quake)
 4. [The Australian](http://www.theaustralian.com.au/news/world/fear-for-villages-after-major-solomons-quake/story-e6frg6so-1226571708194)
 5. [The Guardian](http://www.guardian.co.uk/world/2013/feb/06/tsunami-alert-solomon-islands-earthquake)
+5. [Cover Image](http://cdn.newsapi.com.au/image/v1/4c6379b5bfcbbc416a69a03726a0ceee)
 
 ### Related:
 

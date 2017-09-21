@@ -8,6 +8,7 @@ German Foreign Minister Guido Westerwelle criticized on Saturday a reported Isra
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article520659.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article16170701.ece/ALTERNATES/LANDSCAPE_615/ALBERT_ESTONIA_NATO_AFGHANISTAN)
 
 ### Related:
 

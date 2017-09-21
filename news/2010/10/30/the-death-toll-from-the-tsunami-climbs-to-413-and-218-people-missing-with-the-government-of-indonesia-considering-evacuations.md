@@ -9,6 +9,7 @@ Rescue workers in Indonesia find group hiding on higher ground, halving number o
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/20101030123745478172.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/29/indonesia.quake/index.html?eref=edition)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/30/2010103013126825572_20.jpg)
 
 ### Related:
 

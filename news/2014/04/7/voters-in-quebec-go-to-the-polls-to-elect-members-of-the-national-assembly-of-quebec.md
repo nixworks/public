@@ -8,6 +8,7 @@ Quebecers head to the polls tomorrow morning, meaning this is the final day for 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/quebec-votes-2014/quebec-election-2014-campaign-in-home-stretch-1.2600078)
+1. [Cover Image](https://i.cbc.ca/1.2600087.1396818571!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/leaders-final-day.jpg)
 
 ### Related:
 

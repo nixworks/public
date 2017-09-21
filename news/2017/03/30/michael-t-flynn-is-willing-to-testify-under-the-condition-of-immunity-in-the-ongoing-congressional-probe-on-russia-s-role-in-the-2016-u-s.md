@@ -10,6 +10,7 @@ The Kremlin paid an army of more than 1,000 people to create fake anti-Hillary C
 1. [CNN](http://www.cnn.com/2017/03/30/politics/michael-flynn-immunity-testimony/)
 2. [CNN](http://www.cnn.com/2017/03/30/politics/senate-intelligence-committee-hearing-russia/)
 3. [The Independent](http://www.independent.co.uk/news/world/americas/us-politics/russian-trolls-hilary-clinton-fake-news-election-democrat-mark-warner-intelligence-committee-a7657641.html/)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/29/20/burr-warner.jpg)
 
 ### Related:
 

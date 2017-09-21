@@ -8,6 +8,7 @@ A look at Tiger Woods&#x27; troubles since the Thanksgiving incident of 2009.
 ### Source:
 
 1. [Sports Illustrated](https://www.si.com/golf/2017/05/29/tiger-woods-arrested-dui-troubles-timeline)
+1. [Cover Image](https://cdn-s3.si.com/s3fs-public/styles/inline_gallery_desktop/public/2017/05/29/tiger.jpg?itok&#x3D;PK998tlT)
 
 ### Related:
 

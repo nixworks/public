@@ -8,6 +8,7 @@ East Timor is facing a new humanitarian emergency, with hundreds of houses burnt
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2007/08/10/2001661.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/634578-1x1-700x700.jpg)
 
 ### Related:
 

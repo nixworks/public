@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Denver Post](http://www.denverpost.com/breakingnews/ci_18434449)
+1. [Cover Image](http://www.denverpost.com/wp-content/uploads/2016/05/20110707_064722_cd07storm1.jpg?w=600&amp;h=400)
 
 ### Related:
 

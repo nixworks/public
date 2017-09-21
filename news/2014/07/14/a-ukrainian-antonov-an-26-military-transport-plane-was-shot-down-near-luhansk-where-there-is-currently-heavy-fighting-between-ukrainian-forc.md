@@ -10,6 +10,7 @@ Contact has been lost with the crew of an An-26 military transport plane in Luha
 1. [AP via CBC](http://www.cbc.ca/news/world/ukraine-says-plane-shot-down-by-rocket-from-russia-1.2706039)
 2. [Interfax](http://en.interfax.com.ua/news/general/213460.html)
 3. [Reuters](http://www.reuters.com/article/2014/07/14/us-ukraine-crisis-idUSKBN0FJ0R720140714?feedType=RSS&feedName=topNews)
+3. [Cover Image](http://images.interfax.com.ua/img/0207_182741.jpg)
 
 ### Related:
 

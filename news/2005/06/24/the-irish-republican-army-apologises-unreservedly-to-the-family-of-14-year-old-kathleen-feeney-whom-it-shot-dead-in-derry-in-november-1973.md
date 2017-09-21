@@ -9,6 +9,7 @@ The Sinn Féin President, Gerry Adams, has said that he is fairly certain that t
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4618125.stm)
 2. [RTE](http://www.rte.ie/news/2005/0624/ira.html)
+2. [Cover Image](https://img.rasset.ie/0000475b-1600.jpg)
 
 ### Related:
 

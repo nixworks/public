@@ -8,6 +8,7 @@ The Queen and Prince Philip join 2,000 guests for a service at Westminster Abbey
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22762878)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67968000/jpg/_67968649_queenclose_rtr.jpg)
 
 ### Related:
 

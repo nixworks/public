@@ -8,6 +8,7 @@ Two leading Egyptian journalists will go on trial accused of incitement to murde
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19249152)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62251000/jpg/_62251564_62251563.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Two major aid agencies launch appeals for seven million people facing food short
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10362459.stm)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/aid-agencies-appeal-for-west-africa-food-crisis-20100621-yqbi.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

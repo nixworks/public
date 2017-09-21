@@ -8,6 +8,7 @@ Protesters try to storm offices of Lebanese PM Mikati, demanding his resignation
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=288690)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=205180)
 
 ### Related:
 

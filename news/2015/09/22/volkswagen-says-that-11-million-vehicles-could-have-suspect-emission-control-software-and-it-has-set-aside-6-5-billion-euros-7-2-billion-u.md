@@ -8,6 +8,7 @@ It&#x27;s a figure that could be eclipsed by potential penalties and lawsuits fa
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/business/autos/volkswagen-11-million-vehicles-could-have-suspect-software-emissions-scandal-n431456?cid=eml_nbn_20150922)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_39/1231146/vwflag_786cf3b591562939e0f7d768610af5a4.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

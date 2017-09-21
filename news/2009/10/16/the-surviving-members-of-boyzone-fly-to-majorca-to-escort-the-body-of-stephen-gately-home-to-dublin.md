@@ -16,6 +16,7 @@ Stephen Gately&#39;s body has arrived at the Church of St Laurence O&#39;Toole, 
 7. [The Huffington Post](http://www.huffingtonpost.com/2009/10/16/jan-moir-column-on-stephe_n_323964.html)
 8. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1016/breaking3.htm)
 9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1016/breaking78.htm)
+9. [Cover Image](https://img.rasset.ie/0002aa3c-1600.jpg)
 
 ### Related:
 

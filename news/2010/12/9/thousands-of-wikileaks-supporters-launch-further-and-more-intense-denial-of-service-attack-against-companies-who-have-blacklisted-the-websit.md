@@ -28,6 +28,7 @@ A group of computer hackers are planning to attack Amazon, the online retailer, 
 19. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/americans-supported-pragmatic-gillard-20101208-18pwk.html)
 20. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/mark-arbib-aka-cia-agent-007-20101209-18q50.html)
 21. [Times LIVE](http://www.timeslive.co.za/scitech/article806742.ece/US--China-has-no-morals-in-Africa)
+21. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01782/amazon_1782135a.jpg)
 
 ### Related:
 

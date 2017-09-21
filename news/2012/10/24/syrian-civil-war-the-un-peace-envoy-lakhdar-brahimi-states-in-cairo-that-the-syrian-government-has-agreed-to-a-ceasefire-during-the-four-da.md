@@ -8,6 +8,7 @@ Bashar al-Assad&#039;s government has agreed to a ceasefire in Syria during the 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9630086/Syrian-government-agrees-to-four-day-ceasefire.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02377/syria-fighter_2377059k.jpg)
 
 ### Related:
 

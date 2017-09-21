@@ -8,6 +8,7 @@ Occupy London: anti-capitalist protesters evicted from St Paul&#039;s Cathedral.
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/picturegalleries/uknews/9110392/Occupy-London-anti-capitalist-protesters-evicted-from-St-Pauls-Cathedral.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02152/st-pauls_occupy_2152803i.jpg)
 
 ### Related:
 

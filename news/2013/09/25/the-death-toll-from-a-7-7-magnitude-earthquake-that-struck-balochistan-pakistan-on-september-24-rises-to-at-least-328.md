@@ -8,6 +8,7 @@ At least 328 people are killed and hundreds more injured as a 7.7-magnitude eart
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24222760)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70104000/jpg/_70104181_019430328.jpg)
 
 ### Related:
 

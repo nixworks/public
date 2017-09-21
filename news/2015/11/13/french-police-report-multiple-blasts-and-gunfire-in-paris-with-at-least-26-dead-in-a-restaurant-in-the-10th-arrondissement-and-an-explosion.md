@@ -13,6 +13,7 @@ UPDATED Saturday, 6:15PM: The terrorist rampage that left at least 129 dead and 
 4. [The Daily Beast](http://www.thedailybeast.com/cheats/2015/11/13/explosion-and-gunfire-reported-in-paris.html?via=twitter_page)
 5. [The Guardian](http://www.theguardian.com/world/live/2015/nov/13/shootings-reported-in-eastern-paris-live)
 6. [Washington Post](http://www.washingtonpost.com/world/europe/french-police-report-shootout-and-explosion-in-paris/2015/11/13/3288452e-8a4c-11e5-bd91-d385b244482f_story.html)
+6. [Cover Image](https://pmcdeadline2.files.wordpress.com/2015/11/vigil-paris-attacks.jpg?w=605)
 
 ### Related:
 

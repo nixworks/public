@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/09/02/us-vodafone-verizon-idUSBRE97S08C20130902)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130902&t=2&i=783354217&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9801IDC00)
 
 ### Related:
 

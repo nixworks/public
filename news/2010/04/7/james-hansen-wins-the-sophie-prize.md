@@ -10,6 +10,7 @@ U.S. climate scientist James Hansen won a $100,000 environmental prize Wednesday
 1. [350.org](http://www.350.org/about/blogs/james-hansen-wins-sophie-prize)
 2. [Reuters](http://www.reuters.com/article/idUSTRE63636N20100407)
 3. [The Independent](http://www.independent.co.uk/environment/us-scientist-hansen-awarded-for-climate-work-1938689.html)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100407&t=2&i=88177729&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-07T142639Z_01_BTRE636144J00_RTROPTP_0_DENMARK)
 
 ### Related:
 

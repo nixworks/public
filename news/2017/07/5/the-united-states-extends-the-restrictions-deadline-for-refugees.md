@@ -8,6 +8,7 @@ Refugee resettlement agencies say the State Department has given them updated in
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/politics/washington/la-na-essential-washington-updates-trump-administration-extends-travel-ban-1499304520-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-595d9cdc/turbine/la-na-essential-washington-updates-trump-administration-extends-travel-ban-1499304520)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Syrian government forces backed by fighters from Lebanon&#x27;s Hezbollah entere
 ### Source:
 
 1. [AFP via Yahoo! News](https://uk.news.yahoo.com/airstrikes-hit-multiple-targets-syria-stronghold-234000585.html#hKoCZeo)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/IHXVq5Cx4bB2benoZ328Hw--/aD01MTA7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/98ee4258ba2b2d1d273186f883d6a0d4e6978036.jpg)
 
 ### Related:
 

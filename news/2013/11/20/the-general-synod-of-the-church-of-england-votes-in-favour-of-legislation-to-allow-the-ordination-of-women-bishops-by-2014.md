@@ -8,6 +8,7 @@ The Church of England votes in favour of proposals which could see final approva
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-25019566)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71231000/jpg/_71231508_927609c8-e0a2-40b4-be9f-c76fc2d3910e.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ In search for legendary “City of the Monkey God,” explorers find the untouch
 ### Source:
 
 1. [National Geographic](http://news.nationalgeographic.com/news/2015/03/150302-honduras-lost-city-monkey-god-maya-ancient-archaeology/)
+1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/2015/03/02/lostcity/01lostcity-16x9.ngsversion.1426196595750.adapt.1900.1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Kuwait says the suicide bomber who carried out a mosque attack claimed by Islami
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-06-28/kuwait-mosque-bomber-was-saudi-national-interior-ministry-says/6579188)
+1. [Cover Image](http://www.abc.net.au/news/image/6577232-1x1-700x700.jpg)
 
 ### Related:
 
@@ -19,5 +20,5 @@ Kuwait says the suicide bomber who carried out a mosque attack claimed by Islami
 6. [Kuwait and France sealed a deal whereby the Gulf nation will upgrade its defense capabilities with $2.8 billion worth of military equipment. Defense experts cite the ongoing conflict in Iraqi Civil War, the June 2015 terror attack claimed by ISIS in Kuwait City, and a reluctance by the U.S. to supply Kuwait as reasons for the deal. ](/news/2015/10/23/kuwait-and-france-sealed-a-deal-whereby-the-gulf-nation-will-upgrade-its-defense-capabilities-with-2-8-billion-worth-of-military-equipment.md) _Context: June 2015 terror attack, Kuwait_
 7. [Kuwait declares a day of mourning for the victims of the bombing of a Shia mosque yesterday. ](/news/2015/06/27/kuwait-declares-a-day-of-mourning-for-the-victims-of-the-bombing-of-a-shia-mosque-yesterday.md) _Context: June 2015 terror attack, Kuwait_
 8. [ At least 27 people are killed and 227 injured after a suicide bombing at the Shia Imam Sadiq mosque in Kuwait City, Kuwait. ISIL claims responsibility for the attack. ](/news/2015/06/26/at-least-27-people-are-killed-and-227-injured-after-a-suicide-bombing-at-the-shia-imam-sadiq-mosque-in-kuwait-city-kuwait-isil-claims-res.md) _Context: June 2015 terror attack, Kuwait_
-9. [ Saudi Arabia deploys 3,300 troops to Kuwait in preparation for a potential Iraq conflict.](/news/2003/03/5/saudi-arabia-deploys-3-300-troops-to-kuwait-in-preparation-for-a-potential-iraq-conflict.md) _Context: Kuwait, Saudi Arabia_
-10. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Saudi Arabia_
+9. [ Conflict in Iraq: The nineteen member Paris Club agrees to forgive 80% of nearly $40 billion in Iraqi debt, in three stages: 20% now, 30% in 2005 and 20% in 2008 in tandem with Iraq's implementation of an International Monetary Fund economic programme. $80 billion in debt to Saudi Arabia and Kuwait, among others, will remain. ](/news/2004/11/21/conflict-in-iraq-the-nineteen-member-paris-club-agrees-to-forgive-80-of-nearly-40-billion-in-iraqi-debt-in-three-stages-20-now-30-i.md) _Context: Kuwait, Saudi Arabia_
+10. [ Kuwait bans Michael Moore's "Fahrenheit 9/11" because it deems the movie insulting to the Saudi Arabian royal family and critical of America's invasion of Iraq. ](/news/2004/08/1/kuwait-bans-michael-moore-s-fahrenheit-9-11-because-it-deems-the-movie-insulting-to-the-saudi-arabian-royal-family-and-critical-of-americ.md) _Context: Kuwait, Saudi Arabia_

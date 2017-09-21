@@ -9,6 +9,7 @@ The Australian government unveils plans for two more detention centres to accomm
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11562976)
 2. [Sydney Morning Herald](http://www.smh.com.au/national/children-to-be-released-under-changes-to-immigration-detention-20101018-16q1p.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

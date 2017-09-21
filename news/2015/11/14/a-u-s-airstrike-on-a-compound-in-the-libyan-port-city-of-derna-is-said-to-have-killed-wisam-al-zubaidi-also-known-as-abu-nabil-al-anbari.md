@@ -9,6 +9,7 @@ A US air strike has probably killed Abu Nabil, the &quot;senior leader&quot; of 
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-34823466)
 2. [The Washington Post](https://www.washingtonpost.com/world/national-security/us-officials-leader-of-islamic-state-in-libya-believed-killed-in-us-airstrike/2015/11/14/b42cb714-8af0-11e5-be39-0034bb576eee_story.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/4716/production/_86689181_gettyimages-121328826.jpg)
 
 ### Related:
 

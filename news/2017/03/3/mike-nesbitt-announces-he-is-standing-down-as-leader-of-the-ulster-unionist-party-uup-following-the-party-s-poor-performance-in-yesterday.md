@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-politics-39160617)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4153/production/_94932761_nesbittresigns.jpg)
 
 ### Related:
 

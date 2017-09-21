@@ -8,6 +8,7 @@ Price, who served in Congress since 2005, has been a major proponent of dismantl
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/tom-price-confirmed-as-secretary-of-health-and-human-services/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/01/18/c1f9753d-f0be-4726-9601-a82dcb0eb5e4/2017-01-18t155155z-2109170532-rc181c78a430-rtrmadp-3-usa-congress-price.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Republican held a commanding place in Alaska politics while wielding power o
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/27789536/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Video/081118/n_countdown_stevenslost_081118.standard.jpg)
 
 ### Related:
 

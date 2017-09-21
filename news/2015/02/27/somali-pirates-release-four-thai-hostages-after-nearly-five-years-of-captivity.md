@@ -8,6 +8,7 @@ Somali pirates have freed four Thai nationals seized from a fishing vessel at se
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/27/us-somalia-piracy-idUSKBN0LV20Q20150227)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Negotiations over a new contract between the EchoStar and Viacom have failed to 
 3. [Motley Fool](http://www.fool.com/News/Take/2004/take040309.htm)
 4. [NYT](http://www.nytimes.com/2004/03/09/business/media/09CND-DISH.html)
 5. [Reuters](http://www.reuters.com/financeNewsArticle.jhtml?type=businessNews&storyID=4530636)
+5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

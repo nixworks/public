@@ -8,6 +8,7 @@ A museum in Italy has started burning its artworks in protest at budget cuts whi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17754129)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59715000/jpg/_59715608_59715606.jpg)
 
 ### Related:
 

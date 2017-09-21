@@ -8,6 +8,7 @@ Union workers took to picketlines on Sunday after strikes were called at nine U.
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2015/02/02/refineries-labor-strikes-idINL1N0VB09D20150202)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

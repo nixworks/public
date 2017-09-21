@@ -8,6 +8,7 @@ Clive Palmer will stand for a Qld seat at the federal election, declaring he wan
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-04-26/i-want-to-be-pm-says-palmer/4652864)
+1. [Cover Image](http://www.abc.net.au/news/image/4652934-1x1-700x700.jpg)
 
 ### Related:
 

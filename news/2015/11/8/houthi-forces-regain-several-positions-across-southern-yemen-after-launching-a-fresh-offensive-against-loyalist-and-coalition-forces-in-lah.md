@@ -8,6 +8,7 @@ Iran-backed rebels retook positions in southern Yemen in a bid to advance on sec
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/iran-backed-huthi-rebels-retake-positions-south-yemen-112620896.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/fK_qUaek17LWRhO92kv2FQ--/aD02MDM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6492755-1-1-0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An official says a bomb attached to a donkey has exploded, killing a policeman a
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/04/05/bomb-attached-to-donkey-kills-policeman-in-eastern-afghanistan/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

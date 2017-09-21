@@ -11,6 +11,7 @@ Editor&#039;s Note: On May 11, the People&#039;s Republics of Donetsk and Luhans
 2. [Kyiv Post](https://www.kyivpost.com/content/ukraine/ukrainian-servicement-killed-in-firefight-as-luhansk-peoples-republic-declares-martial-law-live-updates-348854.html)
 3. [Ukrainian Policy](http://ukrainianpolicy.com/welcome-to-new-russia/)
 4. [Voice of Russia](http://voiceofrussia.com/news/2014_05_24/Donetsk-Lugansk-Peoples-Republics-unite-in-Novorossiya-1012/)
+4. [Cover Image](https://www.kyivpost.com/wp-content/uploads/2014/05/21/p18og594tc79miv41mit15vllh69/original.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The United States and China have been conducting joint naval exercises in the At
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/09/US-China-conduct-joint-drills-near-Florida-naval-base/6211447082444/?spt=rln&or=5)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/6211447082444/2015/1/14470873652273/v2.1/US-China-conduct-joint-drills-near-Florida-naval-base.jpg)
 
 ### Related:
 

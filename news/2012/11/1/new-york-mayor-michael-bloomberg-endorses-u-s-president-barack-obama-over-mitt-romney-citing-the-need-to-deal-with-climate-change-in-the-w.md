@@ -10,6 +10,7 @@ New York Mayor Bloomberg endorses Obama for re-election, cites leadership on cli
 1. [BusinessWeek](http://www.businessweek.com/ap/2012-11-01/new-york-mayor-bloomberg-endorses-obama)
 2. [Fox News](http://www.foxnews.com/politics/2012/11/01/nyc-mayor-bloomberg-backs-obama-for-re-election-citing-climate-change/)
 3. [New York Times](http://www.nytimes.com/2012/11/02/nyregion/bloomberg-endorses-obama-saying-hurricane-sandy-affected-decision.html)
+3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2012/11/01/nyc-mayor-bloomberg-backs-obama-for-re-election-citing-climate-change/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421999080531.jpg?ve=1)
 
 ### Related:
 

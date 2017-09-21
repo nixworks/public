@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [IHT](http://www.iht.com/articles/2005/06/12/news/italy.php)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L08712352.htm)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8765686)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

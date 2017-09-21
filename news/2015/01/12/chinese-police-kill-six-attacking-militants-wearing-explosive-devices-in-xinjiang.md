@@ -9,6 +9,7 @@
 
 1. [Naharnet](http://www.naharnet.com/stories/en/162623-govt-police-kill-six-attackers-in-china-s-xinjiang)
 2. [Reuters](http://www.reuters.com/article/2015/01/12/us-china-xinjiang-idUSKBN0KL0GQ20150112)
+2. [Cover Image](http://images2.naharnet.com/images/147933/w140.jpg?1421049404)
 
 ### Related:
 

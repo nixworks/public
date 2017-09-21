@@ -8,6 +8,7 @@ Theresa May and Andrea Leadsom are in the final round of the contest to become C
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-36618738)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16ADC/production/_90329829_mediaitem90329828.jpg)
 
 ### Related:
 

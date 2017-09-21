@@ -8,6 +8,7 @@ Hillary Clinton and Donald Trump will square off for the third and final time in
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/10/19/donald-trump-and-hillary-clinton-to-clash-in-las-vegas-fight-nig/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/i/5/i5nnvqnje6rxtwdhxvg2yohyr1hvzkq4-xlarge.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A man wielding a fake gun is arrested in a studio of Dutch news broadcaster NOS,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-31051114)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80662000/jpg/_80662914_de18-1.jpg)
 
 ### Related:
 

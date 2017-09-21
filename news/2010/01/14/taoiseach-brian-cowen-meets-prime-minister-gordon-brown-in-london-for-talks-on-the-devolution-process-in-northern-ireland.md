@@ -10,6 +10,7 @@ Taoiseach Brian Cowen and British prime minister Gordon Brown Mr Brown played do
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8458244.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0114/northpolitics.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0114/breaking5.htm)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

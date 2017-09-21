@@ -1,0 +1,24 @@
+### [2004-09-8](/news/2004/09/8/index.md)
+
+#  Conflict in Russia (Chechnya): Russian President Vladimir Putin's government offers 300 million rubles (USD 10 million) for information leading to the arrest of Chechen rebel leaders Shamil Basayev and Aslan Maskhadov. Maskhadov was the last democratically elected leader of Chechnya. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/3636818.stm)
+2. [Guardian](http://www.guardian.co.uk/russia/article/0,2763,1299663,00.html)
+
+### Related:
+
+1. [Indian Prime Minister Narendra Modi and Russian President Vladimir Putin sign several agreements including a $12.9 billion defense and energy deal. Russian state oil major Rosneft pays for a controlling stake in both India's Essar Oil and port facilities that it already owns. ](/news/2016/10/15/indian-prime-minister-narendra-modi-and-russian-president-vladimir-putin-sign-several-agreements-including-a-12-9-billion-defense-and-energ.md) _Context: US$, Vladimir Putin_
+2. [Russian President Vladimir Putin holds a press conference, saying that "force isn't needed right now" after deploying roughly 16,000 troops to Crimea. ](/news/2014/03/4/russian-president-vladimir-putin-holds-a-press-conference-saying-that-aforce-isnat-needed-right-nowa-after-deploying-roughly-16-000-t.md) _Context: Russian President, Vladimir Putin_
+3. [Russian President Vladimir Putin unveils a new $50 billion drive for the country to preserve its status as a top space power, including the construction of the new Vostochny Cosmodrome to fly humans to space by the end of the decade. ](/news/2013/04/12/russian-president-vladimir-putin-unveils-a-new-50-billion-drive-for-the-country-to-preserve-its-status-as-a-top-space-power-including-the.md) _Context: US$, Vladimir Putin_
+4. [Russian President Vladimir Putin signs a federal law "On ratification of the Protocol on the Accession of the Russian Federation to the Marrakesh Agreement Establishing the World Trade Organization on April 15, 1994" that authorizes Russia's accession to the World Trade Organization (WTO) after almost 18 years of negotiations. ](/news/2012/07/21/russian-president-vladimir-putin-signs-a-federal-law-on-ratification-of-the-protocol-on-the-accession-of-the-russian-federation-to-the-marr.md) _Context: Russian President, Vladimir Putin_
+5. [ The President of France Nicolas Sarkozy travels to Moscow to meet with the President of Russia Vladimir Putin to discuss a broad range of policies including Kosovo, Chechnya, and Iran. ](/news/2007/10/9/the-president-of-france-nicolas-sarkozy-travels-to-moscow-to-meet-with-the-president-of-russia-vladimir-putin-to-discuss-a-broad-range-of-p.md) _Context: Chechnya, Vladimir Putin_
+6. [ Russian journalist Anna Politkovskaya, famous for her criticism of President Vladimir Putin and his government's actions in Chechnya, is found murdered in Moscow. ](/news/2006/10/7/russian-journalist-anna-politkovskaya-famous-for-her-criticism-of-president-vladimir-putin-and-his-government-s-actions-in-chechnya-is-fo.md) _Context: Chechnya, Vladimir Putin_
+7. [ Viktor Khristenko, the Russian Industry and Energy Minister, and Baktykozha Izmukhambetov, the Kazakh Energy and Mineral Resources' Minister, sign an intergovernmental agreement creating a joint venture to process gas from the Karachaganak field in West Kazakhstan. Russian President Vladimir Putin said the agreement was the solution to "the energy problems of key partners, including those in Western Europe." ](/news/2006/10/3/viktor-khristenko-the-russian-industry-and-energy-minister-and-baktykozha-izmukhambetov-the-kazakh-energy-and-mineral-resources-ministe.md) _Context: Russian President, Vladimir Putin_
+8. [ Chechnya's terrorist Shamil Basayev is allegedly killed, according to Russian authorities. He was said to have been killed together with other Chechen fighters working with him at the time of his alleged death. ](/news/2006/07/10/chechnya-s-terrorist-shamil-basayev-is-allegedly-killed-according-to-russian-authorities-he-was-said-to-have-been-killed-together-with-ot.md) _Context: Chechnya, Shamil Basayev_
+9. [ Akhmed Zakayev, envoy of the killed Chechen separatist leader Aslan Maskhadov, states that Maskhadov's death does not end resistance to Russian rule and that his successor would be chosen in a couple of days ](/news/2005/03/9/akhmed-zakayev-envoy-of-the-killed-chechen-separatist-leader-aslan-maskhadov-states-that-maskhadov-s-death-does-not-end-resistance-to-rus.md) _Context: Aslan Maskhadov, Chechnya_
+10. [ Russian armed forces claim that Chechen separatist leader Aslan Maskhadov has been killed in a special forces operation. ](/news/2005/03/8/russian-armed-forces-claim-that-chechen-separatist-leader-aslan-maskhadov-has-been-killed-in-a-special-forces-operation.md) _Context: Aslan Maskhadov, Chechnya_

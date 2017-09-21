@@ -9,6 +9,7 @@ Islamic State militants released a video on Thursday threatening the White House
 
 1. [CNN](http://www.cnn.com/2015/11/18/us/new-york-isis-video-threat/index.html)
 2. [Reuters](http://www.reuters.com/article/2015/11/19/us-france-shooting-usa-video-idUSKCN0T831K20151119#bXToIeV735C8TPe6.97)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

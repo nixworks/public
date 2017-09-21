@@ -8,6 +8,7 @@ The gunman believed to have opened fire with a rifle at a Washington state mall,
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-washington-crime-shooting-idUSKCN11U02L)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160925&t=2&i=1154856065&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8O04V)
 
 ### Related:
 

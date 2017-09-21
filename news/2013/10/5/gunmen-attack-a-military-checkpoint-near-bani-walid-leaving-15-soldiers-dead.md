@@ -8,6 +8,7 @@ Gunmen attack military checkpoint south-east of the Libyan capital Tripoli killi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24411346)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/70297000/jpg/_70297394_70297393.jpg)
 
 ### Related:
 

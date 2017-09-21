@@ -8,6 +8,7 @@ An Australian mother was arrested for murder in the stabbing deaths of eight chi
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2014/12/20/8-children-killed-in-northern-australian-city/?intcmp=HPBucket)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/121914/0/0/121914_edge_australia_640.jpg?ve=1)
 
 ### Related:
 

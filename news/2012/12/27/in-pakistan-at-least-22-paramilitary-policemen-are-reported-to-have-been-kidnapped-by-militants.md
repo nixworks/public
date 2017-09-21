@@ -8,6 +8,7 @@ In Pakistan, at least 22 paramilitary policemen are reported to have been kidnap
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20852681)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64984000/jpg/_64984420_1hm18xxm.jpg)
 
 ### Related:
 

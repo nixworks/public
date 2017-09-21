@@ -14,3 +14,4 @@
 5. [Sky News](http://news.sky.com/skynews/Home/World-News/US-Vice-President-Dick-Cheney-Pledges-Support-To-Georgias-Mikheil-Saakashvili-On-Visit-To-Tbilisi/Article/200809115092985?lpos=World%2BNews_7&lid=ARTICLE_15092985_US%2BVice%2BPresident%2BDick%2BCheney%2BPledges%2BSupport%2BTo%2BGeorgia%2527s%2BMikheil%2BSaakashvili%2BOn%2BVisit%2BTo%2BTbilisi)
 6. [Spiegel](http://www.spiegel.de/international/world/0,1518,526493,00.html)
 7. [The International Herald Tribune](http://www.iht.com/articles/reuters/2008/09/13/europe/OUKWD-UK-GEORGIA-OSSETIA-PULLOUT.php)
+7. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080913&t=2&i=5976951&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-09-13T113759Z_01_LD282942_RTRUKOP_0_PICTURE0)

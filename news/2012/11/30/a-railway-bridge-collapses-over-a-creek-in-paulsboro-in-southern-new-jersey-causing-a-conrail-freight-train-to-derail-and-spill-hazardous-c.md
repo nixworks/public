@@ -9,6 +9,7 @@ A railroad bridge collapsed on Friday over a creek in southern New Jersey, causi
 
 1. [NY Daily News](http://www.nydailynews.com/news/national/train-derails-n-spills-toxic-chemicals-article-1.1210839)
 2. [Reuters](http://www.reuters.com/article/2012/11/30/us-usa-train-derailment-idUSBRE8AT0PF20121130)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121130&t=2&i=679964623&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8AT1RMN00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Erik Prince has been hired to assemble a force of foreign troops in the United A
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/05/15/world/middleeast/15prince.html?pagewanted=1&_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2011/05/15/world/15prince1_span/sub-prince-thumbStandard.jpg)
 
 ### Related:
 

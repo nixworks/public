@@ -10,6 +10,7 @@ Ivo Sanader, wanted for corruption, has been arrested by Austrian police near Sa
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j7zt_sE9Ar9dS_yVmPO6UcOHH4Yw?docId=cc721a9f74ee4dba92bec60e865860c0)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101210165914745706.html)
 3. [Sify India](http://sify.com/news/croatian-prosecutors-order-arrest-of-former-pm-news-international-kmkkanehfdf.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/10/2010121014340845784_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Metropolitan Police detective who tried to sell information on the phone-hacki
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21292338)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65164000/jpg/_65164233_ggi747b8.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Syrian security forces fired liverounds on Thursday at hundreds of protesters ma
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/26/syria-protests-deraa-idUSLDE74P2E620110526)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

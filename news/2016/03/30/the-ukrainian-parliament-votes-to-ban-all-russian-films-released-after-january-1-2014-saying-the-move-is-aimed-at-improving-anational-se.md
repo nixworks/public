@@ -8,6 +8,7 @@ The Ukrainian parliament has banned all Russian films released after January 1, 
 ### Source:
 
 1. [RT](https://www.rt.com/news/337728-ukraine-bans-russian-movies/)
+1. [Cover Image](https://img.rt.com/files/2016.03/article/56fb53b7c461884e028b45e1.jpg)
 
 ### Related:
 

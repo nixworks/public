@@ -10,6 +10,7 @@ Prime Minister Benjamin Netanyahu declared &quot;war&quot; on stone-throwing fol
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/.premium-1.677421)
 2. [NBC News](http://www.nbcnews.com/news/world/israel-approves-harsher-laws-combat-stone-throwers-n433116)
 3. [Newsweek](http://www.newsweek.com/israel-palestinians-crackdown-stone-throwers-376307)
+3. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_39/1235636/150924-palestinians-stone-throwing-jpo-529a_26a8c43aa69847aa1e7ebbf4decbbb78.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

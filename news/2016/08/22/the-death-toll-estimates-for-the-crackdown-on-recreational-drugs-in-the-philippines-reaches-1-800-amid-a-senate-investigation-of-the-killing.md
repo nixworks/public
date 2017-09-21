@@ -8,6 +8,7 @@ Senator Leila de Lima, a staunch critic of the president, started a two-day cong
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/philippines-drug-war-deaths-double-president-duterte-lashes-out-u-n635686)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_34/1678906/160822-duterte2-0404_7cd3b87ca44e998f4813805ad4c070ce.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

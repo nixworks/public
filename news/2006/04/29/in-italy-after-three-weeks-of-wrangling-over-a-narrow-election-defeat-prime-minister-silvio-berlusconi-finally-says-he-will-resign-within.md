@@ -9,6 +9,7 @@ Italian Prime Minister Silvio Berlusconi indicated on Saturday that he was ready
 
 1. [CBC](http://www.cbc.ca/world/story/2006/04/29/italy_060429.html)
 2. [CNN](http://edition.cnn.com/2006/WORLD/europe/04/30/italy.election.ap/)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

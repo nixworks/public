@@ -8,6 +8,7 @@ Syrian rebels said they captured Dabiq, forcing ISIS from a stronghold where it 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/syria-rebels-capture-dabiq-where-isis-promised-final-battle-west-n667131)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_41/1752906/161016-world-dabiq-isis-fsa-dawn-0708_91528e430d9e6c30f94a38bcc718db06.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

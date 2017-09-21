@@ -9,6 +9,7 @@ Washington puts US-born Muslim cleric Anwar al-Awlaki on a terror blacklist for 
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10669422)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE66F4SQ20100716?feedType=RSS&feedName=worldNews)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

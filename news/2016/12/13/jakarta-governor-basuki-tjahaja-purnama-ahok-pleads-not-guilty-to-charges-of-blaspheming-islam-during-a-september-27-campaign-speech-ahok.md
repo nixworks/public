@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-indonesia-politics-court-idUSKBN1411Q2)
 2. [Time](http://time.com/4598716/ahok-trial-governor-jakarta-indonesia-blasphemy-islam/)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161214&t=2&i=1165406354&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBD0H6)
 
 ### Related:
 

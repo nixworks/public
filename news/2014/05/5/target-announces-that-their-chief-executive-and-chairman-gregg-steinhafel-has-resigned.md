@@ -8,6 +8,7 @@ US clothing retail giant Target announces the resignation of its chief executive
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-27283872)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74647000/jpg/_74647648_target.sign.g.jpg)
 
 ### Related:
 

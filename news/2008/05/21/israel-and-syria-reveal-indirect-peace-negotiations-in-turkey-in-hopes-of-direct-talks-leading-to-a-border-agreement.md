@@ -10,6 +10,7 @@
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7411835.stm)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aAvYW2GSUA7U&refer=africa)
 3. [Reuters via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/05/21/AR2008052100126.html)
+3. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

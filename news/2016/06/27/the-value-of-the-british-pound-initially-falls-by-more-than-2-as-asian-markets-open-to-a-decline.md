@@ -11,6 +11,7 @@ U.S. stocks closed about 1.5 percent lower or more Monday, extending Friday&#039
 2. [Poundsterlinglive](https://www.poundsterlinglive.com/usd/5095-pound-to-dollar-exchange-rate-222311)
 3. [Reuters](http://www.reuters.com/article/us-global-markets-idUSKCN0ZC14U)
 4. [The Guardian](https://www.theguardian.com/business/live/2016/jun/27/pound-shares-markets-brexit-crisis-osborne-lew-business-live)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160627&t=2&i=1143069678&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5Q120)
 
 ### Related:
 

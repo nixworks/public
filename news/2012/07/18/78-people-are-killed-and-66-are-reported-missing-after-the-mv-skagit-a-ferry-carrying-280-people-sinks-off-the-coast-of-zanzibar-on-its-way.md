@@ -8,6 +8,7 @@ At least 31 people dead, including foreigners, and many missing after vessel cap
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/07/201271814217312822.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/18/201271818292124734_20.jpg)
 
 ### Related:
 

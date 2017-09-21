@@ -9,6 +9,7 @@ Israeli jets launch a night time bombing raid on the Gaza strip injuring several
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10160892.stm)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=176452)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

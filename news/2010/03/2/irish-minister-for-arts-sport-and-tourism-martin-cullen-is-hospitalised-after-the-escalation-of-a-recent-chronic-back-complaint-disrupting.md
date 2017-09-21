@@ -11,6 +11,7 @@ Arts, Sports &amp; Tourism Minister Martin Cullen has been admitted to hospital 
 2. [Newstalk](http://www.newstalk.ie/news/news-headlines/martin-cullen-hospitalised638/)
 3. [RTÉ](http://www.rte.ie/news/2010/0302/cullenm.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0302/breaking46.html)
+4. [Cover Image](https://img.rasset.ie/00016fa5-1600.jpg)
 
 ### Related:
 

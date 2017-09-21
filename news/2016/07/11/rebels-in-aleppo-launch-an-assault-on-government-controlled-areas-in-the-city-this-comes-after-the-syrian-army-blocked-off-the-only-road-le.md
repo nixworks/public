@@ -8,6 +8,7 @@ Syrian rebel fighters launch an assault on government-held districts of Aleppo, 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36763836)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/190F/production/_90351460_mediaitem90351459.jpg)
 
 ### Related:
 

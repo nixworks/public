@@ -9,6 +9,7 @@ Pro-Russian separatists reinforced barricades around the state security building
 
 1. [CNN](http://www.cnn.com/2014/04/09/world/europe/ukraine-crisis/)
 2. [Reuters](http://www.reuters.com/article/2014/04/09/us-ukraine-crisis-luhansk-idUSBREA380C620140409)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140409&t=2&i=881741407&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3816M300)
 
 ### Related:
 

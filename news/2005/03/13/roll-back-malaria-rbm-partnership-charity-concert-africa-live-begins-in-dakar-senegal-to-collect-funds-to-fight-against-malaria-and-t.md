@@ -11,6 +11,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 2. [News24](http://www.news24.com/News24/Entertainment/Abroad/0,,2-1225-1243_1675830,00.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=musicNews&storyID=7884134)
 4. [Roll Back Malaria Africa Live Concert website](http://www.rollbackmalaria.org/africalive/)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

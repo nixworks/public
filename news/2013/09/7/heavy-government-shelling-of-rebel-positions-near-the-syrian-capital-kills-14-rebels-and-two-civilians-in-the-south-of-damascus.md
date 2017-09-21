@@ -8,6 +8,7 @@ Heavy government shelling of rebel positions near the Syrian capital killed 16 p
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/09/07/syria-activists-say-shelling-near-capital-kills-16/2779231/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

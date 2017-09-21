@@ -9,6 +9,7 @@ The United States has carried out a fresh delivery of ammunition to fighters fro
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_FRANCE_PARIS_ATTACKS_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-11-15-14-28-24)
 2. [Reuters](http://www.reuters.com/article/2015/11/15/us-mideast-crisis-ammunition-exclusive-idUSKCN0T412O20151115#5kLpChkyGDMjHAoD.97)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151115&t=2&i=1095156403&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAE0JL)
 
 ### Related:
 

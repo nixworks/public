@@ -8,6 +8,7 @@ BBC journalists hold a vigil to demand the release of colleague Urunboy Usmonov,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13863913)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53448000/jpg/_53448240_dsc_0160.jpg)
 
 ### Related:
 

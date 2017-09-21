@@ -8,6 +8,7 @@ India took a big leap in space technology on Wednesday when Indian Space Researc
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/home/science/India-sets-new-record-in-space-mission-PSLV-C34-successfully-injects-20-satellites-into-orbit/articleshow/52862382.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/52862234.cms)
 
 ### Related:
 

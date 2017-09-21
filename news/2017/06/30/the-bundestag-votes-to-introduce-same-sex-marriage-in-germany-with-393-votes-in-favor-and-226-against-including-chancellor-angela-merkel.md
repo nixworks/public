@@ -8,6 +8,7 @@ MPs pass bill granting gay and lesbian couples full rights, including on adoptio
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jun/30/germany-poised-legalise-same-sex-marriage-bill-law)
+1. [Cover Image](https://i.guim.co.uk/img/media/bde4a36c091b57f1a90cac192f8d623b11257c11/0_0_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b7f7192d8bf1f1628f1abd7205a80880)
 
 ### Related:
 

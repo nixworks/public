@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/10/24/us-tunisia-election-idUSTRE79L28820111024)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111024&t=2&i=521541003&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79N19ZY00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Canadian singer is the first person in the world to graduate with a Masters de
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-merseyside-12292054)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

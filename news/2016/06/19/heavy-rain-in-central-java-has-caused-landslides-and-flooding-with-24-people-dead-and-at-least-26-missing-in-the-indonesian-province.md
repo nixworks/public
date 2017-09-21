@@ -8,6 +8,7 @@ Flash flooding and landslides in Indonesia kill 35 and leave more than two dozen
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-06-19/indonesias-central-java-hit-by-deadly-floods-and-landslides/7524230)
+1. [Cover Image](http://www.abc.net.au/news/image/7524320-1x1-700x700.jpg)
 
 ### Related:
 

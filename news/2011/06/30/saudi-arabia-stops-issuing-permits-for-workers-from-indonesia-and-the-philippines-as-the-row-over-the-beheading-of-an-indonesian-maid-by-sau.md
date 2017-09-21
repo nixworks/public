@@ -8,6 +8,7 @@ Saudi Arabia says it will stop issuing work permits for domestic workers from In
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13970689)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53776000/jpg/_53776475_53776474.jpg)
 
 ### Related:
 

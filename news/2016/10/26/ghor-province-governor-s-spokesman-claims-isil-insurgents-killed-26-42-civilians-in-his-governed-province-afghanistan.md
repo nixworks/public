@@ -8,6 +8,7 @@ Gunmen rounded up and shot dozens of civilians in a remote part of Afghanistan o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-kidnapping-idUSKCN12Q0HY)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

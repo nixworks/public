@@ -8,6 +8,7 @@ Dewani will appear in court in South Africa the day after leaving the UK - he is
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1230486/dewani-extradition-date-set-by-south-africa)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/15952803_3508254.jpg?20160704114137)
 
 ### Related:
 

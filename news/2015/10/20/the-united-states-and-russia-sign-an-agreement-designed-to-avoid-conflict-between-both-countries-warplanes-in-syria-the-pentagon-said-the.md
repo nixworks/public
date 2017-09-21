@@ -9,6 +9,7 @@ Terms attempting to avoid conflict in Syrian airspace comes days after closest a
 
 1. [CBS News](http://www.cbsnews.com/news/russian-american-deal-on-syrian-air-space-expected-shortly/?google_editors_picks=true)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/10/20/US-Russia-sign-deal-to-avoid-conflict-between-warlanes-over-Syria/7661445365741/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/10/07/428bdda3-1811-4977-8fe5-c710cc839865/2015-10-05t153543z1020679880gf10000233076rtrmadp3mideast-crisis-syria-rebels.jpg)
 
 ### Related:
 

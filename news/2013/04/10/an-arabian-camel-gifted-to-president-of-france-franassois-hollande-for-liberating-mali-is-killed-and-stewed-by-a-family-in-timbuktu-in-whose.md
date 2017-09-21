@@ -8,6 +8,7 @@ With his pledge to create a morally irreproachable republic in tatters over a mi
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/francois-hollande/9978635/Francois-Hollandes-camel-eaten-in-Mali.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02529/hollande-camel_2529868k.jpg)
 
 ### Related:
 

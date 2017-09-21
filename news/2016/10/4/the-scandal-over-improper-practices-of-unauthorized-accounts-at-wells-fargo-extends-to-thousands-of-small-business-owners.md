@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-wells-fargo-accounts-business-exclusi-idUSKCN124261)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161004&t=2&i=1156100982&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC931C8)
 
 ### Related:
 

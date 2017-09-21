@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/news/0,1567,12215_1,00.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8418947)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

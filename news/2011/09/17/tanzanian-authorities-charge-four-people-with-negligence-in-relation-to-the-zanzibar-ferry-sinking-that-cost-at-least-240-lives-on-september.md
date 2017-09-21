@@ -8,6 +8,7 @@ More than 240 people died when a ferry sank in the early hours of Sept. 10.
 ### Source:
 
 1. [AP via ''New York Times](http://www.nytimes.com/2011/09/18/world/africa/four-are-charged-in-tanzania-ferry-sinking.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

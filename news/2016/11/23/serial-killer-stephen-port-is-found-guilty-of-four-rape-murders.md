@@ -8,6 +8,7 @@ Serial killer Stephen Port is found guilty of murdering four men he met on datin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-38077859)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B20E/production/_92628554_mediaitem92628553.jpg)
 
 ### Related:
 

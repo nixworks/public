@@ -10,6 +10,7 @@ The euro has tumbled to its lowest level in 10 months against the dollar after F
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8584812.stm)
 2. [CNN](http://money.cnn.com/2010/03/24/markets/thebuzz/)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/finance/financetopics/financialcrisis/7514987/Portugal-downgrade-knocks-euro-as-Merkel-imposes-IMF-solution-for-Greece.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01603/eurogreece_1603250a.jpg)
 
 ### Related:
 

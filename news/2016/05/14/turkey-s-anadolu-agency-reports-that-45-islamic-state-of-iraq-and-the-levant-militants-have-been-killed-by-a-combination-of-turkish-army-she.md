@@ -11,6 +11,7 @@ MIDEAST CRISIS/SYRIA-TURKEY:Turkish shelling, coalition air strike kills 45 IS m
 2. [CNN](http://edition.cnn.com/2016/05/13/politics/isis-raqqa-state-of-emergency/)
 3. [FOX News](http://www.foxnews.com/world/2016/05/14/us-military-official-says-islamic-state-declared-state-emergency-in-raqqa.html)
 4. [Reuters vs Trust](http://news.trust.org/item/20160514090205-mlxsq)
+4. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/94a8b14d-4934-4b8d-896d-45a31cd3c7a0/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

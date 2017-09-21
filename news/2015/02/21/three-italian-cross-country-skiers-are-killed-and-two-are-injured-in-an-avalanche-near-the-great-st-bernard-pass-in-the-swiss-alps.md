@@ -8,6 +8,7 @@ Three Italians are killed after an avalanche in an area known as Death Valley in
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-02-22/three-italians-killed-in-swiss-alps-avalanche-police/6188814)
+1. [Cover Image](http://www.abc.net.au/news/image/6189316-1x1-700x700.jpg)
 
 ### Related:
 

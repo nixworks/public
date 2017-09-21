@@ -8,6 +8,7 @@ A large asteroid the size of the Rock of Gibraltar has passed safely by Earth.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-39642995)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/BA04/production/_95702674_mediaitem95702673.jpg)
 
 ### Related:
 

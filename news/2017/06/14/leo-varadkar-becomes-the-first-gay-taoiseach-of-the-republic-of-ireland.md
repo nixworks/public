@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/06/14/532916075/irelands-first-openly-gay-prime-minister-formally-takes-office)
+1. [Cover Image](https://media.npr.org/assets/img/2017/06/14/ap_17165529034708_wide-dd3edaadadcbb336593e3d0c26c50a3512d2f25d.jpg?s=1400)
 
 ### Related:
 

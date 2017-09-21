@@ -9,6 +9,7 @@ A hot air balloon crashes and catches fire in Slovenia, killing four people and 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19354150)
 2. [STA](http://www.sta.si/en/vest.php?s=a&id=1792470)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62449000/jpg/_62449187_rescuersreut.jpg)
 
 ### Related:
 

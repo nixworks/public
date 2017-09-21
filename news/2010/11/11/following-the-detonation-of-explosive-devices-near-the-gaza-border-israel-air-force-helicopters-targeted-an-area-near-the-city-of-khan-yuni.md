@@ -10,6 +10,7 @@ Palestinian sources report of exchanges of fire east of Khan Younis; missiles sa
 1. [Al Jazeera](http://www.aljazeera.com/news/articles/34/Israeli-warplanes-bombard-Gaza-Strip.html)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=194918)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3983200,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

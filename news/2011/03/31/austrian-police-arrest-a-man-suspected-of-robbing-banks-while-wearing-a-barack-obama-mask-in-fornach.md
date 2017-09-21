@@ -8,6 +8,7 @@ Austria police have arrested a man suspected of robbing banks while wearing a ma
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12923582)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

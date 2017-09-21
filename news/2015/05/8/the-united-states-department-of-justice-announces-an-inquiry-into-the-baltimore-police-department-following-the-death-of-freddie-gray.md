@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-32632516)
 2. [WBAL](http://www.wbaltv.com/news/Motion-filed-to-have-Marilyn-Mosby-recuse-herself/32895776)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82843000/jpg/_82843301_hi027069904.jpg)
 
 ### Related:
 

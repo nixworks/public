@@ -8,6 +8,7 @@ A German engineer abducted in January by gunmen in Kano in northern Nigeria has 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18278740)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60613000/gif/_60613431_nigeria_kwara_kano_304.gif)
 
 ### Related:
 

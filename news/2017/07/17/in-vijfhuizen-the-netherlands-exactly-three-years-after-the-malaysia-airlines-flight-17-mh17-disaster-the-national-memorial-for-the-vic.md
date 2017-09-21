@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NOS](http://nos.nl/artikel/2183659-onthulling-nationaal-monument-mh17-deze-dag-sloeg-een-gat-in-ons-leven.html)
+1. [Cover Image](https://nos.nl/data/image/2017/07/17/403837/xxl.jpg)
 
 ### Related:
 

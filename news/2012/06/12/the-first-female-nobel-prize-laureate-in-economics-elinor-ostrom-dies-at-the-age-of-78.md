@@ -8,6 +8,7 @@ Elinor Ostrom, the first and only woman to win the Nobel Prize in economics, die
 ### Source:
 
 1. [Wall Street Journal](http://blogs.wsj.com/economics/2012/06/12/elinor-ostrom-only-female-nobel-laureate-in-economics-dies/)
+1. [Cover Image](http://s.wsj.net/public/resources/images/OB-TI261_ostrom_G_20120612103941.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Tony Blair spoke of a &quot;moment of opportunity&quot; after he met Palestinian
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL2472137620070725?feedType=RSS)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070725&t=2&i=1184021&w=&fh=545px&fw=&ll=&pl=&sq=&r=1184021)
 
 ### Related:
 

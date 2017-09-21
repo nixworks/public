@@ -8,6 +8,7 @@ The Saudis pledged to make only a slight increase in oil production, and the sum
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/06/23/world/middleeast/23saudi.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/06/23/business/23saudi.751.jpg)
 
 ### Related:
 

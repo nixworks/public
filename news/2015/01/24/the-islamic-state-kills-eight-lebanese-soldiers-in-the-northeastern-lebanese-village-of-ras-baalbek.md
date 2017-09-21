@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/58f423fa4a2c47e080237e0593be66f1/official-says-8-lebanese-troops-killed-fighting-militants)
 2. [BBC](http://www.bbc.com/news/world-middle-east-30966651)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80496000/jpg/_80496667_80496666.jpg)
 
 ### Related:
 

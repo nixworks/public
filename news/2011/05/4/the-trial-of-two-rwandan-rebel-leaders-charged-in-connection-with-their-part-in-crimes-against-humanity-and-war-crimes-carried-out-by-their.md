@@ -8,6 +8,7 @@ Two Rwandan rebel leaders went on trial in Germany on Wednesday on charges of cr
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/CRIME/05/04/germany.rwanda.war.crimes/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/CRIME/05/04/germany.rwanda.war.crimes/tzvids.rwanda.ignace.gi.jpg)
 
 ### Related:
 

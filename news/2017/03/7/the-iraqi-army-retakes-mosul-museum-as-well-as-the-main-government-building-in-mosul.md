@@ -8,6 +8,7 @@ Iraqi forces on Tuesday recaptured the main government building in Mosul, the ce
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-idUSKBN16E0DG)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170307&t=2&i=1175184972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED260BO)
 
 ### Related:
 

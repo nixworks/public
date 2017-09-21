@@ -8,6 +8,7 @@ Hurricane Flossie weakened on Tuesday before it approached the waters off Hawaii
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN1342670720070814)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070814&t=2&i=1297197&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-14T192335Z_01_N13426707_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

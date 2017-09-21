@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/detained-vice-news-staff-turkish-court-150831113044822.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/8/31/91fcd41a98684dcaa0dc8d765202430e_18.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/200912505810264927.html)
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20091206-240387/Senators-oppose-Arroyos-martial-law-proclamation)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The fate of 29 Chinese workers kidnapped in Sudan is unclear after Chinese offic
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16784009)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58168000/jpg/_58168970_jcpgekfg.jpg)
 
 ### Related:
 

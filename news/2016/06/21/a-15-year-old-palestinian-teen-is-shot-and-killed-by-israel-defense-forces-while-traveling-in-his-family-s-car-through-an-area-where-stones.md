@@ -8,6 +8,7 @@ Initial army probe said teen was mistakenly shot at by IDF forces on Route 443; 
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.726312)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.726314.1466526648!/image/2125792486.jpg_gen/derivatives/headline_1200x630/2125792486.jpg)
 
 ### Related:
 

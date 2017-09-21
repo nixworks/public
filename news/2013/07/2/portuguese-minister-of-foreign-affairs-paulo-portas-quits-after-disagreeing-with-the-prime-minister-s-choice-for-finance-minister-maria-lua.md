@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-23146635)
 2. [Euro news](http://www.bloomberg.com/news/2013-07-02/portugal-foreign-minister-quits-over-choice-of-finance-minister.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68509000/jpg/_68509445_68509444.jpg)
 
 ### Related:
 

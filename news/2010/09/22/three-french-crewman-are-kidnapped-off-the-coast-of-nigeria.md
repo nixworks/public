@@ -10,6 +10,7 @@
 1. [Reuters](http://www.reuters.com/article/idUSWEA921620100922)
 2. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Three+French+oil+workers+%27kidnapped+off+Niger+Delta%27&NewsID=258781)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/22/c_13525378.htm)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

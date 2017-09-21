@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12072845)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-12/24/content_11747970.htm)
+2. [Cover Image](http://news.bbcimg.co.uk/media/images/50567000/jpg/_50567401_010896607-1.jpg)
 
 ### Related:
 

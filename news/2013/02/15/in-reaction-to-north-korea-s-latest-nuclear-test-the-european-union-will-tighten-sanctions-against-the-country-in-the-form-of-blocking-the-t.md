@@ -9,6 +9,7 @@ The European Union will tighten sanctions on North Korea to curb trade in gold a
 
 1. [NDTV](http://www.ndtv.com/article/world/eu-to-tighten-sanctions-on-north-korea-after-nuclear-test-331576)
 2. [Reuters](http://www.reuters.com/article/2013/02/15/us-korea-north-nuclear-idUSBRE91E0J820130215)
+2. [Cover Image](http://i.ndtvimg.com/mt/2013-02/nkorean-soldiers-295.jpg)
 
 ### Related:
 

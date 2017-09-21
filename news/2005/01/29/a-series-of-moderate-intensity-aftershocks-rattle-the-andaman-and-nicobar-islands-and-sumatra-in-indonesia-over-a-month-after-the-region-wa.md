@@ -8,6 +8,7 @@ NEW DELHI: A series of aftershocks of moderate intensity were felt in the Andama
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/articleshow/1005177.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

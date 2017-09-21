@@ -9,6 +9,7 @@ An Indonesian volcano has erupted, spewing rocks, lava and ash hundreds of metre
 
 1. [AFP via ABC News Online](http://www.abc.net.au/news/2011-07-15/indonesia-volcano-erupts/2796222?WT.mc_id=newsmail)
 2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/07/15/indonesia.volcano/index.html?eref=edition)
+2. [Cover Image](http://www.abc.net.au/news/image/2796332-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkish police arrested a total of 41 people in connection with a terrorist atta
 ### Source:
 
 1. [UPI.com](http://www.upi.com/Top_News/World-News/2016/07/02/Turkish-police-arrest-11-more-in-connection-with-airport-bombing/1361467484576/?spt=hts&or=5)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/1361467484576/2016/1/941c9571ed83b06c4d8882203c3b8958/v1.5/Turkish-police-arrest-11-more-in-connection-with-airport-bombing.jpg)
 
 ### Related:
 

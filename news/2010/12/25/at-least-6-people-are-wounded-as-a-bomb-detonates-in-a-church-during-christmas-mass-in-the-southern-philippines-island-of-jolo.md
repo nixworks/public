@@ -8,6 +8,7 @@ Blasts in Philippines and Nigeria kill at least 38 as church leaders call for pe
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/12/201012254184365530.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/25/2010122552514350360_20.jpg)
 
 ### Related:
 

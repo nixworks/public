@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Japan Today](http://www.japantoday.com/category/crime/view/japan-executes-three-death-row-inmates)
+1. [Cover Image](https://www.japantoday.com/img/jt_logo_fb.gif)
 
 ### Related:
 

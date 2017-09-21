@@ -8,6 +8,7 @@ Street fighting erupts in Mingora as the military attempts to push out Taliban f
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/05/2009523111020448920.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

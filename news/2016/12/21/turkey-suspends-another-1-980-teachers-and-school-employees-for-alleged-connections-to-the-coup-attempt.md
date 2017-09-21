@@ -8,6 +8,7 @@ Turkey suspended nearly 2,000 teachers and school employees on Wednesday, an off
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-security-education-idUSKBN14A1RS?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166295786&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK134)
 
 ### Related:
 

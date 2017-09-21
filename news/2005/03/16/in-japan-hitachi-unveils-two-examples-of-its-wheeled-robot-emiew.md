@@ -9,6 +9,7 @@ Get the latest technology news, including new product releases, sales figures an
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=technologyNews&storyID=7903371)
 2. [Slashdot](http://slashdot.org/articles/05/03/16/2314240.shtml?tid=126&tid=216)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

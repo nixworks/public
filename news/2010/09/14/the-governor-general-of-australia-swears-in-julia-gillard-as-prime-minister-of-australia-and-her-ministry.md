@@ -9,6 +9,7 @@ Julia Gillard has been sworn in as Prime Minister at Government House in Canberr
 
 1. [AAP via ''Sydney Morning Herald](http://www.smh.com.au/national/gillard-sworn-in-as-prime-minister-20100914-15ae6.html?from=smh_sb)
 2. [ABC Online](http://www.abc.net.au/news/stories/2010/09/14/3011462.htm)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/1/5/a/f/7/image.related.articleLeadwide.620x349.15ae6.png/1284446228080.jpg)
 
 ### Related:
 

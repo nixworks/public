@@ -8,6 +8,7 @@ A horrific storm system that killed more than 290 people in seven states across 
 ### Source:
 
 1. [Fox Alabama](http://www.myfoxal.com/story/14532637/southern-storms-toll-surpasses-300-deaths)
+1. [Cover Image](http://RAYCOMGROUP.images.worldnow.com/images/14532637_BG3.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Koronis Pharmaceuticals, a privately held U.S. biotech firm working on a new kin
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/13/us-koronis-hiv-idUSTRE72C1AX20110313)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

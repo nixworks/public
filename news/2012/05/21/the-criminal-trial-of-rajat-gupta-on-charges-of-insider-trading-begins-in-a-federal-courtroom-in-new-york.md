@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/05/22/us-goldman-gupta-idUSBRE84K05320120522)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120522&t=2&i=609952243&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84L055Y00)
 
 ### Related:
 

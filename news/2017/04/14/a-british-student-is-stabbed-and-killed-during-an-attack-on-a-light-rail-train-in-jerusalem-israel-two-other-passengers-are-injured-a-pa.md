@@ -8,6 +8,7 @@ Two others lightly hurt ■ The assailant, a Palestinian from East Jerusalem, ha
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.783493)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.783520.1492174918!/image/3842942891.jpg_gen/derivatives/headline_1200x630/3842942891.jpg)
 
 ### Related:
 

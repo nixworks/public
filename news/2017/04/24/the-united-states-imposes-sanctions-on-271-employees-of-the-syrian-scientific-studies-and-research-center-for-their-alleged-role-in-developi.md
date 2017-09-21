@@ -8,6 +8,7 @@ The US has issued sanctions against hundreds of Syrian scientists and officials 
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/us-imposes-new-sanctions-on-syrian-officials-over-chemical-attack/a-38571869)
+1. [Cover Image](http://www.dw.com/image/38298947_304.jpg)
 
 ### Related:
 

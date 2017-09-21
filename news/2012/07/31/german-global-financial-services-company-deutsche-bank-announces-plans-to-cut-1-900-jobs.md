@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/31/us-deutschebank-savings-jobs-idUSBRE86U0KL20120731)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120731&t=2&i=636650514&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86U0XAO00)
 
 ### Related:
 

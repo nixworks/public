@@ -8,6 +8,7 @@ Typhoon Nari has pummelled the northern Philippines, killing five people and lea
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2013-10-12/an-phils-typhoon/5018502)
+1. [Cover Image](http://www.abc.net.au/news/image/4481102-1x1-700x700.jpg)
 
 ### Related:
 

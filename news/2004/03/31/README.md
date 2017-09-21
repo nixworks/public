@@ -1,7 +1,7 @@
 ## [2004-03-31](/news/2004/03/31/index.md)
 
 ### [ Four U.S. civilian contractors are killed in a grenade attack by Iraqi guerrillas in Fallujah, Iraq. A violent mob pulls charred bodies from the burning vehicles and hang two bodies from a bridge over the Euphrates. In a separate incident, five U.S. soldiers are killed in a large roadside bomb attack 12 mi northwest of Fallujah. ](/news/2004/03/31/four-u-s-civilian-contractors-are-killed-in-a-grenade-attack-by-iraqi-guerrillas-in-fallujah-iraq-a-violent-mob-pulls-charred-bodies-fro.md)
-_Context: Blackwater, Euphrates, Fallujah, Iraq, Iraqi resistance, bridge, grenade, mob, soldier, vehicle_
+_Context: Blackwater, Euphrates, Fallujah, Iraq, bridge, grenade, mob, rebel-held, soldier, vehicle_
 
 ### [ The Korea Train Express high-speed rail line opens, connecting Seoul to Busan and Mokpo. ](/news/2004/03/31/the-korea-train-express-high-speed-rail-line-opens-connecting-seoul-to-busan-and-mokpo.md)
 _Context: Busan, Korea Train Express, Mokpo, Seoul, bullet train_

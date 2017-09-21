@@ -9,6 +9,7 @@
 
 1. [NDTV](http://www.ndtv.com/article/india/all-india-bandh-call-by-trade-unions-bengal-kerala-worst-hit-50088)
 2. [samaylive](http://english.samaylive.com/nation/676473013.html)
+2. [Cover Image](http://i.ndtvimg.com/mt/2010-09/295x200_KolkataBandh_wplay-NEW.jpg)
 
 ### Related:
 

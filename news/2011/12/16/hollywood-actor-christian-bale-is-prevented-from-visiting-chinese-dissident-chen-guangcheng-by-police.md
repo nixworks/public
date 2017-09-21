@@ -9,6 +9,7 @@ Hollywood actor Christian Bale was roughed up by Chinese security guards as he a
 
 1. [CNN](http://edition.cnn.com/2011/12/15/world/asia/china-bale-activist/?hpt=hp_c1)
 2. [Reuters](http://www.reuters.com/article/2011/12/16/uk-china-bale-activist-idUSLNE7BF00J20111216)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111216&t=2&i=547555652&w=&fh=545px&fw=&ll=&pl=&sq=&r=ALNE7BF0V0D00)
 
 ### Related:
 

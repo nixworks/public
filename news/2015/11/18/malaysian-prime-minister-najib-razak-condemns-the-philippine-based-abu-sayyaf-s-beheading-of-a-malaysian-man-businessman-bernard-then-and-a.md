@@ -11,6 +11,7 @@ A Malaysian man who was being held by Islamist militants in the southern Philipp
 2. [AFP via Yahoo](http://news.yahoo.com/malaysia-pm-says-hostage-held-philippines-murdered-063550229.html)
 3. [BBC](http://www.bbc.com/news/world-asia-34853883)
 4. [The International Business Times](http://www.ibtimes.com/abu-sayyaf-beheading-who-bernard-then-malaysia-shocked-sickened-citizens-killing-2189453)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/EFF0/production/_86742416_malaysiaphilippines.png)
 
 ### Related:
 

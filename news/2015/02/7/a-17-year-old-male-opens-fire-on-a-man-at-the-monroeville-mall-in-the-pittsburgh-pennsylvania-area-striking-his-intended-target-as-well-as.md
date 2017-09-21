@@ -9,6 +9,7 @@ Three people have been hospitalised with gunshot wounds after a 17-year-old male
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Teen-arrested-in-US-mall-shooting-20150208)
 2. [Pittsburgh Post-Gazette](http://www.post-gazette.com/local/2015/02/07/Shots-fired-at-Monroeville-Mall/stories/201502070146)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2951/c5752be16dcc447cb8d45d61b4d651a2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ It is the first time an anti-discrimination bill reaches the Senate plenary
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/156139-lgbt-anti-discrimination-bill-senate-plenary)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/CF7E98F405A343D3884A2B7F99BDFA47/pridemarch-10072013.jpg)
 
 ### Related:
 

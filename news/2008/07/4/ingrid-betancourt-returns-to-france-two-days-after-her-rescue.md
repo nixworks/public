@@ -8,6 +8,7 @@ Two days after her rescue from the clutches of guerrillas in the Colombian jungl
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/07/05/world/europe/05france.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/07/05/world/05france.75.jpg)
 
 ### Related:
 

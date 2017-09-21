@@ -9,6 +9,7 @@ Government forces seek to capture high ground as UN official calls for pause in 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/2011518144731555933.html)
 2. [Reuters](http://www.reuters.com/article/2011/05/18/us-libya-wife-idUSTRE74H6H220110518)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/18/2011518104857468734_20.jpg)
 
 ### Related:
 

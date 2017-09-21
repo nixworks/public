@@ -8,6 +8,7 @@ The European Commission withdraws a video promoting EU enlargement after it was 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17276838)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58913000/jpg/_58913139_eugrowing.jpg)
 
 ### Related:
 

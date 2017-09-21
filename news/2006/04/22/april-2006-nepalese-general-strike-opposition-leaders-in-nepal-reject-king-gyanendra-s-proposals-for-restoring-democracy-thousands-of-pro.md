@@ -10,6 +10,7 @@
 1. [CBC](http://www.cbc.ca/world/story/2006/04/22/nepal2206.html)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-04-22T125431Z_01_L1969978_RTRUKOC_0_UK-NEPAL.xml)
 3. [VOA](http://www.voanews.com/english/2006-04-22-voa17.cfm)
+3. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

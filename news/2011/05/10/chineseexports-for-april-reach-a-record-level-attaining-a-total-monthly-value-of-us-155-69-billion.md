@@ -8,6 +8,7 @@ Chinese factories appear to have passed on rising costs to buyers who are findin
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/05/10/business/global/10yuan.html?smid=tw-nytimes&seid=auto)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

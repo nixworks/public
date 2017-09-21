@@ -8,6 +8,7 @@ Move marks effective end to political deadlock that has left Himalayan nation wi
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/2011261594443204.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/6/201126153346850738_20.jpg)
 
 ### Related:
 

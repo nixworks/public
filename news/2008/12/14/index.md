@@ -13,7 +13,7 @@ Turkmenistan votes on Sunday in a snap parliamentary election touted by the gove
 _Context: 2008 Garamba offensive, Democratic Republic of the Congo, Garamba National Park, Lord's Resistance Army, Lord's Resistance Army insurgency, Southern Sudan, Uganda_
 
 ### [ Al-Baghdadia TV journalist Muntadhar al Zaidi is subdued after throwing both his shoes at United States President George W. Bush during his farewell speech in Iraq. ](/news/2008/12/14/al-baghdadia-tv-journalist-muntadhar-al-zaidi-is-subdued-after-throwing-both-his-shoes-at-united-states-president-george-w-bush-during-his.md)
-_Context: Al-Baghdadia TV, George W. Bush, Iraq, Muntadhar al-Zaidi, President, United States, throws a shoe_
+_Context: Al-Baghdadia TV, George W. Bush, Iraq, Muntadhar al-Zaidi, U.S. President, United States, throws a shoe_
 
 ## [Previous Day...](/news/2008/12/13/index.md)
 

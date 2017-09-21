@@ -8,6 +8,7 @@ Vice-President Nicolas Maduro is due to be sworn in as acting president of Venez
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21711587)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66273000/jpg/_66273497_crowdgetty.jpg)
 
 ### Related:
 

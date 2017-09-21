@@ -8,6 +8,7 @@ Suspected Abu Sayyaf gunmen abducted four workers in a school in a southern Phil
 ### Source:
 
 1. [The Japan Times](http://www.japantimes.co.jp/news/2017/07/16/world/new-kidnappings-jailbreak-hit-restive-sulu-province-southern-philippines/)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2017/07/f-duterte-a-20170717-870x638.jpg)
 
 ### Related:
 

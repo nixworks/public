@@ -9,6 +9,7 @@ Officials said the addition of the USS Mesa Verde will give the White House &quo
 
 1. [NBC](http://www.nbcnews.com/storyline/iraq-turmoil/pentagon-sends-another-ship-arabian-gulf-amid-iraq-turmoil-n131956)
 2. [Voice of America](http://www.voanews.com/content/residents-say-militants-seize-northern-iraqi-town/1937615.html)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2014_25/511841/140616-mesa-verde-1336_56d2a3637e00f99add1ea49c6b9f9ae1.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

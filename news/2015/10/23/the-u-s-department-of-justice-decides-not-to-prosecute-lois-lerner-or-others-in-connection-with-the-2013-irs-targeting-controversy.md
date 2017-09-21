@@ -12,6 +12,7 @@ Lerner is the former IRS official who was at the center of a controversy over th
 3. [FOX News](http://www.foxnews.com/politics/2015/10/23/justice-department-no-criminal-charges-for-ex-irs-official-lerner/)
 4. [Reuters](http://uk.reuters.com/article/2015/10/23/us-usa-justice-irs-idUKKCN0SH2E320151023)
 5. [The Wall Street Journal](http://www.wsj.com/articles/u-s-wont-prosecute-former-irs-official-lois-lerner-1445627727)
+5. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/06/26/9ea1d485-5e1e-4f14-8499-e21b63a258d3/476775033.jpg)
 
 ### Related:
 

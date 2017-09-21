@@ -13,6 +13,7 @@ Iran will be invited to participate in talks in Vienna on Friday to discuss endi
 4. [New York Times](http://www.nytimes.com/2015/10/28/world/middleeast/iran-is-invited-to-join-us-russia-and-europe-for-talks-on-syrias-future.html)
 5. [Reuters](http://www.reuters.com/article/2015/10/27/us-mideast-crisis-syria-talks-idUSKCN0SL2OH20151027)
 6. [Sputnik News](http://sputniknews.com/middleeast/20151028/1029205056/iran-syria-civil-war-talks.html)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

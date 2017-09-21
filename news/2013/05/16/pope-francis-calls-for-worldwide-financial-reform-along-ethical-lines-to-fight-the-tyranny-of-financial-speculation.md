@@ -8,6 +8,7 @@ Vatican Bank says it will launch its own website as well as publish annual repor
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/news/world/europe/pope-francis-calls-for-ethical-financial-and-economic-reform-1.1396450)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1396448&origw=960)
 
 ### Related:
 

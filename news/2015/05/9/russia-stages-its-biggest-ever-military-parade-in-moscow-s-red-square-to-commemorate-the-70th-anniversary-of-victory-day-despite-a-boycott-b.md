@@ -8,6 +8,7 @@ Russia stages its biggest WW2 Victory Day military parade, an event avoided by m
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32668511)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82878000/jpg/_82878957_82878956.jpg)
 
 ### Related:
 

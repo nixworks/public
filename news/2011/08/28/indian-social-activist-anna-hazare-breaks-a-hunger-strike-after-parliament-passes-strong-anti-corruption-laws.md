@@ -8,6 +8,7 @@ Anna Hazare ended his 12-day fast on Sunday morning before thousands of cheering
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Anna-Hazare-breaks-fast-after-288-hours-nation-relieved/articleshow/9766385.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/9766636.cms)
 
 ### Related:
 

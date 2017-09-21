@@ -10,3 +10,4 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 1. [Famagusta Gazette](http://www.famagusta-gazette.com/default.asp?sourceid=&smenu=69&twindow=Default&mad=No&sdetail=10284&wpage=&skeyword=&sidate=&ccat=&ccatm=&restate=&restatus=&reoption=&retype=&repmin=&repmax=&rebed=&rebath=&subname=&pform=&sc=2350&hn=famagusta-gazette&he=.com)
 2. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=turkeys-eu-membership-depends-on-cyprus-solution-2010-04-14)
 3. [Today's Zaman](http://www.todayszaman.com/tz-web/news-207420-102-trnc-president-says-turkeys-eu-membership-depends-on-solution-of-cyprus-problem.html)
+3. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)

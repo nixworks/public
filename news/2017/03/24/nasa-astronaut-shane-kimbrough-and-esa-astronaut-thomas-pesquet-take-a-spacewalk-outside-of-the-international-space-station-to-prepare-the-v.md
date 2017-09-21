@@ -8,6 +8,7 @@ Two astronauts are taking a spacewalk outside the International Space Station to
 ### Source:
 
 1. [Space.com](http://www.space.com/36198-space-station-astronauts-march-24-spacewalk-webcast.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA2My85MjYvb3JpZ2luYWwvZXhwZWRpdGlvbi01MC1zcGFjZXdhbGstcHJlcC1qYW4tMTMtMjAxNy5qcGc=)
 
 ### Related:
 

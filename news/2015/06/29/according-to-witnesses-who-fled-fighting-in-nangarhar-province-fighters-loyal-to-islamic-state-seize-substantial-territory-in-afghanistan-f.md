@@ -8,6 +8,7 @@ Hundreds of insurgents pledging allegiance to Islamic State pushed out the Talib
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/islamic-state-seizes-territory-afghanistan-threatens-stability-348083)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2015/06/29/0626afghanistan.jpg)
 
 ### Related:
 

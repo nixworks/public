@@ -9,6 +9,7 @@ This was not the O.J. Simpson of old.His wrists shackled, eyes reddened and husk
 
 1. [AFP via ''Melbourne Age](http://www.theage.com.au/world/emotional-oj-simpson-gets-15-years-jail-for-kidnapping-20081206-6snm.html?page=-1)
 2. [Los Angeles Times](http://www.latimes.com/news/local/la-na-oj-sentencing6-2008dec06,0,3919620.story)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

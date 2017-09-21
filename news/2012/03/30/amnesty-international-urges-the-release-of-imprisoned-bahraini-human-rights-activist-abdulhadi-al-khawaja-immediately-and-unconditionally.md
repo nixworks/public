@@ -8,6 +8,7 @@ Amnesty International has demanded the jailed Bahraini human rights activist, Ab
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-17564341)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59394000/jpg/_59394296_014390503-1.jpg)
 
 ### Related:
 

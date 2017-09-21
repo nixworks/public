@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6AO2AY20101125)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20101125&t=2&i=257441311&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-25T151908Z_01_BTRE6AO16JY00_RTROPTP_0_EGYPT-CHRISTIANS)
 
 ### Related:
 

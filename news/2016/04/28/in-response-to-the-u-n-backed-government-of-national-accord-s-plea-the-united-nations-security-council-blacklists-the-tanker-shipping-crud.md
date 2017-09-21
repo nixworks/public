@@ -8,6 +8,7 @@ Security council blacklists Indian-flagged cargo ship for illegally transporting
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/28/un-slaps-ban-on-renegade-libyan-oil-shipment)
+1. [Cover Image](https://i.guim.co.uk/img/media/e4efdee1f1e80a50a7a4269babebdc4da19997df/0_91_3500_2101/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=60bbaf5e7ef91158ec93547529b56eb7)
 
 ### Related:
 

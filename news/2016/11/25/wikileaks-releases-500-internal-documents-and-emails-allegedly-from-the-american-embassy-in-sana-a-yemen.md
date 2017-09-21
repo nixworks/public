@@ -8,6 +8,7 @@
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.co.uk/wikileaks-releases-500-files-allegedly-showing-us-arming-funding-yemeni-forces-1593474)
+1. [Cover Image](http://d.ibtimes.co.uk/en/full/1565034/julian-assange.jpg)
 
 ### Related:
 

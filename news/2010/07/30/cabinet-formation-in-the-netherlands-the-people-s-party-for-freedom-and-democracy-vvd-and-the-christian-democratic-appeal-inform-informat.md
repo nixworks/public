@@ -8,6 +8,7 @@ De fractievoorzitters van VVD, PVV en CDA zien perspectieven op een minderheidsk
 ### Source:
 
 1. [NOS](http://nos.nl/artikel/175315-onderhandelingen-over-minderheidskabinet.html)
+1. [Cover Image](http://nos.nl/bundles/nossite/img/placeholders/no_image.png?170322)
 
 ### Related:
 

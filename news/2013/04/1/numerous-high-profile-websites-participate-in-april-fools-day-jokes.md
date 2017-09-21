@@ -8,6 +8,7 @@ Every April 1, the Web explodes with nonsense. Here is a rundown of many of 2013
 ### Source:
 
 1. [PC World](http://www.pcworld.com/article/2032761/april-fools-day-2013-a-roundup-of-the-best-tech-gags.html)
+1. [Cover Image](http://images.techhive.com/images/article/2013/04/fools2013_primary_b-100031400-large.jpg)
 
 ### Related:
 

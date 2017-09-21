@@ -12,6 +12,7 @@
 3. [The Guardian](http://www.guardian.co.uk/world/richard-adams-blog/2010/jun/07/helen-thomas-jews-biography-retire)
 4. [The Sydney Morning Herald](http://www.smh.com.au/world/veteran-white-house-correspondent-helen-thomas-89-retires-in-flap-over-israel-remarks-20100608-xr4r.html)
 5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3901659,00.html)
+5. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

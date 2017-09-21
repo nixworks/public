@@ -8,3 +8,4 @@ Ever wondered how a turtle gets its shell? They are one of the most unique anima
 ### Source:
 
 1. [Nature World News](http://www.natureworldnews.com/articles/2193/20130530/evolution-turtle-shell-scientists-learn-turtles-lived-shells-earlier-predicted.htm)
+1. [Cover Image](http://images.natureworldnews.com/data/images/full/2005/turtle.jpg)

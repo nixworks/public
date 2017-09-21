@@ -8,6 +8,7 @@ Three people were killed and a dozen injured in four separate bomb blasts in Tha
 ### Source:
 
 1. [AFP via ''The Daily Star](http://www.dailystar.com.lb/News/World/2015/Jul-11/306193-seven-dead-dozen-injured-as-attacks-rock-thai-south.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

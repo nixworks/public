@@ -8,6 +8,7 @@ Amazon boss Jeff Bezos has furthered his ambition to launch people into space by
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-37568540)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8E65/production/_91535463_bez3.jpg)
 
 ### Related:
 

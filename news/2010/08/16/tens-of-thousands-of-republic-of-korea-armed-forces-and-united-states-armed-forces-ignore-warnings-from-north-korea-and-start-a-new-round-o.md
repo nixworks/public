@@ -9,6 +9,7 @@ North Korea continues to issue threats as combined military exercises continue.
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jjz-1FsdSMQjYDWp3qoa60B4b_jwD9HKBKTO0)
 2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081635517497970.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

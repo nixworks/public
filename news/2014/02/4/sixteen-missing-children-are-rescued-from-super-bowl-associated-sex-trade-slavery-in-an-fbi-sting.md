@@ -8,6 +8,7 @@ Sixteen children were rescued from commercial sex trafficking and more than 45 p
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/us/2014/02/04/fbi-sting-rescues-missing-children-from-super-bowl-sex-trade/?intcmp=latestnews)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

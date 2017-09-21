@@ -8,6 +8,7 @@ Mnuchin, former head of One West bank, which was embroiled in the foreclosure cr
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/congress/senate-gears-partisan-vote-treasury-secretary-n719581)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_07/1871111/170119-steven-mnuchin-hearing-ok-1328_709d45f9175f3120d4a00b47b644df54.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

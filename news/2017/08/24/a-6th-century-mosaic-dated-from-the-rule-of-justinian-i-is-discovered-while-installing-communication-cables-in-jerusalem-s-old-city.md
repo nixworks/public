@@ -8,6 +8,7 @@ An almost entirely intact mosaic dating to AD 550/551 is uncovered by constructi
 ### Source:
 
 1. [Reuters via ABC Australia](http://www.abc.net.au/news/2017-08-25/construction-workers-unearth-6th-century-mosaic-in-jerusalem/8841794)
+1. [Cover Image](http://www.abc.net.au/news/image/8841508-1x1-700x700.jpg)
 
 ### Related:
 

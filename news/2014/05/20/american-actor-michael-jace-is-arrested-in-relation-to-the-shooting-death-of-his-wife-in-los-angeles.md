@@ -8,6 +8,7 @@ Actor Michael Jace, who played a Los Angeles police officer in the FX drama The 
 ### Source:
 
 1. [AFP via ''Melbourne Age](http://www.theage.com.au/lifestyle/celebrity/michael-jace-star-of-the-shield-arrested-after-shooting-death-of-his-wife-in-los-angeles-20140520-zrj90.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/3/8/m/y/o/image.related.articleLeadwide.620x349.zrj90.png/1400629238017.jpg)
 
 ### Related:
 

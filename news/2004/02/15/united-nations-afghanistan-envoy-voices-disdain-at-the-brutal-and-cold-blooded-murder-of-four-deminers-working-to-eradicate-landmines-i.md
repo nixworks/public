@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=9775&Cr=Afghanistan&Cr1=)
+1. [Cover Image](/News/dh/photos/large/10-23afghan.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Scores of flights are cancelled and many more delayed by a second day of dense f
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-34695577)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/37CD/production/_86458241_plane2_ap.jpg)
 
 ### Related:
 

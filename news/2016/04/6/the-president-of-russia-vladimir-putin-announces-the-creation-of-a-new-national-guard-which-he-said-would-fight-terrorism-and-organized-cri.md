@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35975840)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/82D2/production/_89109433_putinzolotovafp.png)
 
 ### Related:
 

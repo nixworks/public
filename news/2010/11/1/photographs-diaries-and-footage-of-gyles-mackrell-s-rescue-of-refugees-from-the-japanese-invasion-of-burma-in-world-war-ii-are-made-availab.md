@@ -8,6 +8,7 @@ Photographs, diaries and remarkable amateur film charting the epic rescue of ref
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/asia/wwii-elephant-man-rescue-revealed-on-film-2122153.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/11/01/10/485924.bin)
 
 ### Related:
 

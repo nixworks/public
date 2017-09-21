@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Anguilla News](http://www.anguillanews.com/enews/news/local/3278.html)
+1. [Cover Image](http://www.anguillanews.com/enews//files/electoralmap_961879676.jpg)
 
 ### Related:
 

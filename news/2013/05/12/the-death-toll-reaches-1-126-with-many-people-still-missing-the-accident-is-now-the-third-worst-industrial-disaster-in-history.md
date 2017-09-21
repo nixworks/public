@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Xinhua](http://www.clickittefaq.com/featured-area/savar-collapse-death-toll-reaches-1126/)
+1. [Cover Image](http://www.clickittefaq.com/wp-content/uploads/2013/05/savar17-300x261.jpg)

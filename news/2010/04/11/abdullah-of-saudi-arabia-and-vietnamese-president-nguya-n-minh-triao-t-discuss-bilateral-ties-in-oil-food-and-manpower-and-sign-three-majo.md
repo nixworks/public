@@ -12,6 +12,7 @@ Vietnam will sign an agreement with the kingdom of Saudi Arabia to encourage Sau
 3. [Radio Australia](http://www.radioaustralianews.net.au/stories/201004/2869645.htm?desktop)
 4. [Reuters](http://uk.reuters.com/article/idUKLDE6390C320100411)
 5. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2010041068956)
+5. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2010/04/12/20104112150410.5-business.jpg_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

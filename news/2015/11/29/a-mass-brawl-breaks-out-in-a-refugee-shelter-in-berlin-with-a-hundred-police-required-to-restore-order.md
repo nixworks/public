@@ -8,6 +8,7 @@ Hundreds of refugees fought each other on Sunday in a mass brawl at a Berlin she
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/World/2015/Nov-29/325110-german-police-tackle-mass-brawl-at-berlin-refugee-shelter.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

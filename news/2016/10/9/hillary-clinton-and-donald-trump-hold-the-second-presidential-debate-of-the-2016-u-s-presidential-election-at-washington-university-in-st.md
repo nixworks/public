@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/second-presidential-debate-2016-what-time-how-to-watch-and-live-stream-online-washington-university-st-louis/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/10/08/fbcf0120-4f75-45c4-88fd-586f07c57c42/rtsra7x.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ They travel thousands of miles to Beijing to bring their problems – land-grabb
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/2009111281953905410.html)
 2. [Ghana Broadcasting Corporation](http://www.gbcghana.com/news/29546detail.html)
 3. [The Independent](http://www.independent.co.uk/news/world/asia/they-come-in-search-of-justice-ndash-but-end-up-thrown-into-jail-1819033.html)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/11/11/23/Pg-27-china-ap.jpeg)
 
 ### Related:
 

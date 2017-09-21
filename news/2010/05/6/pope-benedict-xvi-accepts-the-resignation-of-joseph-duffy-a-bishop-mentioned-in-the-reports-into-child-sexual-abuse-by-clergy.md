@@ -10,6 +10,7 @@ Pope Benedict has accepted the resignation of Bishop Joseph Duffy, who is retiri
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8664814.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0506/duffy.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0506/breaking26.html)
+3. [Cover Image](https://img.rasset.ie/00031ebc-1600.jpg)
 
 ### Related:
 

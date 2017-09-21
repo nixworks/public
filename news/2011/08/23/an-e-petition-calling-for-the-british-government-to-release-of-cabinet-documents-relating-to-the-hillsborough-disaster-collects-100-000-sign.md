@@ -8,6 +8,7 @@ A petition calling for Hillsborough disaster Cabinet papers to be released reach
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-merseyside-14623591)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54762000/jpg/_54762851_54762850.jpg)
 
 ### Related:
 

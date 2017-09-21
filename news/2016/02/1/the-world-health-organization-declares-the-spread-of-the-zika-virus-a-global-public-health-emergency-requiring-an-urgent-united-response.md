@@ -8,6 +8,7 @@ Zika poses a global public health emergency requiring a united response - WHO.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/health-35459797)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/89D3/production/_88038253_gettyimages-507162214.jpg)
 
 ### Related:
 

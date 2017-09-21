@@ -8,6 +8,7 @@ A small aircraft with 7 on board crashed into a colony in Faridabad on Wednesday
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/delhi/Small-plane-crashes-near-Delhi-12-dead/articleshow/8575098.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/8580946.cms)
 
 ### Related:
 

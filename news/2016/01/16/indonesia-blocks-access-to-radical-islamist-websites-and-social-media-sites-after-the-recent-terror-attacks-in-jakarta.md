@@ -8,6 +8,7 @@ Indonesia shut down at least 11radical websites and several social media account
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/indonesia-blast-idUSL3N15006G)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

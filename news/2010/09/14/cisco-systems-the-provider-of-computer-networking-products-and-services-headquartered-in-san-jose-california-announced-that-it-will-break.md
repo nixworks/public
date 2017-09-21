@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Cisco Blogs](http://blogs.cisco.com/news/comments/cisco_intends_to_issue_dividend_in_fiscal_year_11)
+1. [Cover Image](https://blogs.cisco.com/wp-content/themes/cisco_brand/images/Cisco_Logo_RGB-2color_92x52.gif)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Activists sail from Greece as others pledge to continue efforts to reach Palesti
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/201175114643849116.html)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4091576,00.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/5/201175121155273833_20.jpg)
 
 ### Related:
 

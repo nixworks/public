@@ -8,6 +8,7 @@ One hundred kilograms of horsemeat imported from Hungary and labelled as beef ha
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21900728)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65912000/jpg/_65912784_wnx4a8ox.jpg)
 
 ### Related:
 

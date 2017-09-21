@@ -10,6 +10,7 @@ Donald Trump has &quot;actively encouraged&quot; foreign powers to hack his US p
 1. [BBC](http://www.bbc.com/news/election-us-2016-36907541)
 2. [Reuters](http://www.reuters.com/article/us-usa-election-trump-cyber-idUSKCN10723A)
 3. [The New York Times](http://www.nytimes.com/2016/07/28/us/politics/donald-trump-russia-clinton-emails.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E30B/production/_90532185_mediaitem90532184.jpg)
 
 ### Related:
 

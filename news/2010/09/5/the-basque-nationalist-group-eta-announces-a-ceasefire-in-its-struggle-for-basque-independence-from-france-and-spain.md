@@ -8,6 +8,7 @@ The armed Basque separatist group Eta has decided not to carry out &quot;armed a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11192246)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-europe-11192246A/playlist.sxml)
 
 ### Related:
 

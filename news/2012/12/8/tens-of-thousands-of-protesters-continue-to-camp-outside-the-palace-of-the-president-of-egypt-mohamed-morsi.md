@@ -9,6 +9,7 @@ The Egyptian opposition maintains protests outside the presidential palace in Ca
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/egyptian-president-mohamed-morsi-annuls-decree-that-sparked-cairo-protests/story-e6frg6so-1226533009376)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20648387)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64645000/jpg/_64645829_40ee3o8k.jpg)
 
 ### Related:
 

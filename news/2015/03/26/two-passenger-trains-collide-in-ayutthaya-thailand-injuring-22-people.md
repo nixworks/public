@@ -8,6 +8,7 @@ Thai authorities say two passenger trains have collided north of Thailand&#39;s 
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Trains-collide-in-Thailand-22-injured-20150326)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/286/98bfde2f3d454bd29dd2c492d0d788cc.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A junior commissioned officer (JCO) and five jawans of 29 Assam Rifles were kill
 
 1. [Hindustan Times](http://www.hindustantimes.com/india/manipur-assam-rifles-officer-5-jawans-killed-in-ambush-by-militants/story-LL8SscHOsqrimh0Mctm0PL.html)
 2. [The New York Times](http://www.nytimes.com/aponline/2016/05/22/world/asia/ap-as-india-rebel-attack.html?_r=0)
+2. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/05/22/Pictures/weapons-manipur_743bc5c4-201d-11e6-a451-36c3a3fdf989.jpg)
 
 ### Related:
 

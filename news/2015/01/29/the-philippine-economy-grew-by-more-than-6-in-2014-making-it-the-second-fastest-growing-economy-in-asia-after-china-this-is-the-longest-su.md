@@ -8,6 +8,7 @@ The Philippines has been blighted by decades of corrupt governments, besides it 
 ### Source:
 
 1. [Economic Times](http://m.economictimes.com/news/international/business/philippines-economy-surges-by-6-per-cent-for-third-consecutive-year/articleshow/46051103.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-46051121,width-672,resizemode-4,imglength-117014/news/international/business/philippines-economy-surges-by-6-per-cent-for-third-consecutive-year.jpg)
 
 ### Related:
 

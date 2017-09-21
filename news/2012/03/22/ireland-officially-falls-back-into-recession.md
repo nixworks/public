@@ -8,6 +8,7 @@ The Republic of Ireland fell back into recession in the last three months of 201
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17474799)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59237000/jpg/_59237228_014126131-1.jpg)
 
 ### Related:
 

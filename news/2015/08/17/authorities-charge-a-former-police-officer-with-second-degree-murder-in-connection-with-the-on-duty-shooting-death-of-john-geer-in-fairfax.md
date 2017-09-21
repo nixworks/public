@@ -8,6 +8,7 @@ The former Fairfax County Police officer who shot and killed Springfield, Virgin
 ### Source:
 
 1. [NBC Washington](http://www.nbcwashington.com/news/local/Former-Fairfax-Co-Police-Officer-Indicted-on-Second-Degree-Murder-Charge-in-Shooting-of-John-Geer-322093652.html)
+1. [Cover Image](http://media.nbcwashington.com/images/1200*675/081715+Adam+Torres.jpg)
 
 ### Related:
 

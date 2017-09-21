@@ -8,6 +8,7 @@ Iranians demonstrate for action against people who targeted four women, reported
 ### Source:
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/2014-10-23/acid-attacks-on-women-spark-protests-in-iran/5834828)
+1. [Cover Image](http://www.abc.net.au/news/image/5834830-1x1-700x700.jpg)
 
 ### Related:
 

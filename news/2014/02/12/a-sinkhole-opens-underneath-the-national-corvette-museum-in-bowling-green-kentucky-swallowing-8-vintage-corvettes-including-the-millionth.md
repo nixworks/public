@@ -8,6 +8,7 @@ A 40-foot sinkhole developed inside the National Corvette Museum overnight in Bo
 ### Source:
 
 1. [Autoblog](http://www.autoblog.com/2014/02/12/national-corvette-museum-sinkhole/)
+1. [Cover Image](http://o.aolcdn.com/dims-shared/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/adam/d70d27316efb388dc79be8f25a9fe4bc/ncv-sinkhole-2.jpg)
 
 ### Related:
 

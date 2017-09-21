@@ -9,6 +9,7 @@ Supporters of the Indiana family under attack for refusing to cater a hypothetic
 
 1. [The Washington Post](http://www.washingtonpost.com/news/morning-mix/wp/2015/04/02/indianas-memories-pizza-wouldnt-cater-gay-wedding-gets-40k-in-crowdfunding/)
 2. [The Washington Times](http://www.washingtontimes.com/news/2015/apr/2/indiana-pizzeria-owners-close-doors-may-leave-town/)
+2. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2015/03/29/4e9724740454120e720f6a7067000a80.jpg)
 
 ### Related:
 

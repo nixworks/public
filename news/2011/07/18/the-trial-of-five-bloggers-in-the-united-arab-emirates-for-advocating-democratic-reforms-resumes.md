@@ -8,6 +8,7 @@ Five bloggers arrested in April after calling for political reforms in the Unite
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011717213325459958.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/17/20117172223739734_20.jpg)
 
 ### Related:
 

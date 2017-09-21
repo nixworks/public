@@ -8,6 +8,7 @@ MALE, Maldives (AP) — A Maldives court has convicted the country&#039;s former
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/ee0a33ba0b3042238be040a1c06cc846/maldives-ex-vp-jailed-15-years-attempt-president)
+1. [Cover Image](http://binaryapi.ap.org/75adf9348c064aa19a1a7c0daf78f668/460x.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The 74-year-old&#039;s family thought the punishment for being caught with alcoh
 
 1. [Sky News](http://news.sky.com/story/1577750/karl-andree-saudi-to-release-man-facing-lashes)
 2. [The Telegraph](http://www.telegraph.co.uk/news/uknews/11960683/British-grandfather-Karl-Andree-to-be-released-from-Saudi-Arabia-prison.html)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/andree-1_3505595.jpg?20160704112321)
 
 ### Related:
 

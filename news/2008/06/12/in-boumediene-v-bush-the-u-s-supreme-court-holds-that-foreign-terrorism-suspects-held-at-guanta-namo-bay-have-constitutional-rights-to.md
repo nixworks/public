@@ -8,6 +8,7 @@ The Supreme Court rejected the Bush administration’s argument that the Guantá
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/06/13/washington/12cnd-gitmo.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/06/12/us/12gitmo-75.jpg)
 
 ### Related:
 

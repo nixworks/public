@@ -8,6 +8,7 @@ Civil servants stage 24-hour strike in protest against pay cuts and pension free
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010107132224725399.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/7/201010713332245621_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Typhoon Megi will threaten lives and property across Taiwan and eastern China in
 ### Source:
 
 1. [AccuWeather](http://www.accuweather.com/en/weather-news/taiwan-eastern-china-typhoon-threat-storm-megi/60258886)
+1. [Cover Image](https://accuweather.brightspotcdn.com/c2/c2d078f68e41d960837f6fb102318906/650x366_09260928_page.jpg)
 
 ### Related:
 

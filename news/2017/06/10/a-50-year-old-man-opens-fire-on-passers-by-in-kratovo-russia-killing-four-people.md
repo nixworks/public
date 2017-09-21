@@ -8,6 +8,7 @@ Police have confirmed the deaths of four people after a shooting spree in the vi
 ### Source:
 
 1. [RT](https://www.rt.com/news/391813-shooter-moscow-grenade-storm/)
+1. [Cover Image](https://img.rt.com/files/2017.06/article/593c43c8c461884e538b4590.jpg)
 
 ### Related:
 

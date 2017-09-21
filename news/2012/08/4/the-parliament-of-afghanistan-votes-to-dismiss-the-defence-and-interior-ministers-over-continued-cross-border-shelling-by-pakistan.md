@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/08/04/us-afghanistan-pakistan-rockets-idUSBRE87305620120804?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120804&t=2&i=638332451&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8730TS600)
 
 ### Related:
 

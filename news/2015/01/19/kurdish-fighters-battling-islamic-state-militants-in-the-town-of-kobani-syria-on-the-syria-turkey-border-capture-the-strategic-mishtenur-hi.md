@@ -8,6 +8,7 @@ Kurdish fighters have captured a strategic hilltop, reports say, in their battle
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-30883041)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80366000/jpg/_80366232_80366039.jpg)
 
 ### Related:
 

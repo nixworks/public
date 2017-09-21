@@ -9,6 +9,7 @@ A passenger train crashed into the back of a freight train in the eastern Belgia
 
 1. [Reuters](http://www.reuters.com/article/us-belgium-train-crash-idUSKCN0YR0YX)
 2. [Reuters² via ABC News Australia](http://www.abc.net.au/news/2016-06-06/belgium-train-crash/7480492)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160606&t=2&i=1140165660&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC550J7)
 
 ### Related:
 

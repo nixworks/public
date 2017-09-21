@@ -8,6 +8,7 @@ Muhuammad Abu Kaf of East Jerusalem was indicted on 8 counts of incitement to vi
 ### Source:
 
 1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4738881,00.html)
+1. [Cover Image](http://www.ynetnews.com/PicServer4/2015/12/13/6691888/669187720921192640360no.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Britain has protested to the Spanish authorities after police opened a diplomati
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-25100083)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71212000/jpg/_71212503_71212501.jpg)
 
 ### Related:
 

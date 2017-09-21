@@ -9,6 +9,7 @@ Seventeen people were killed in Iraq on Saturday in air strikes targeting areas 
 
 1. [CNN](http://edition.cnn.com/2014/11/29/world/meast/syria-kobani-fighting/index.html)
 2. [Reuters](http://uk.reuters.com/article/2014/11/29/uk-mideast-crisis-iraq-idUKKCN0JD0O220141129)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

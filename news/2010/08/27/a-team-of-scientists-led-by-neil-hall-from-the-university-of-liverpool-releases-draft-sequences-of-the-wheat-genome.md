@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11099378)
+1. [Cover Image](http://news.bbcimg.co.uk/media/images/48881000/jpg/_48881484_e7701124-wheat_harvest-spl-1.jpg)
 
 ### Related:
 

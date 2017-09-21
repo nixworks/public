@@ -8,6 +8,7 @@ All the victims die on the spot.
 ### Source:
 
 1. [Thanh Nien News](http://www.thanhniennews.com/society/10-dead-after-buses-crash-headon-in-central-vietnam-38559.html)
+1. [Cover Image](http://static.thanhniennews.com/Uploaded/andien/2015_02_09/crash_2_VWXP.jpg)
 
 ### Related:
 

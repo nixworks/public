@@ -11,6 +11,7 @@ AN AUSTRALIAN was among the 64 people, including high school students, forced to
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/australian-safe-after-ship-sinks-20100220-omvp.html)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7035244.ece)
 4. [The Vancouver Sun](http://www.vancouversun.com/news/Survivors+tell+tales+hour+ordeal/2593693/story.html)
+4. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

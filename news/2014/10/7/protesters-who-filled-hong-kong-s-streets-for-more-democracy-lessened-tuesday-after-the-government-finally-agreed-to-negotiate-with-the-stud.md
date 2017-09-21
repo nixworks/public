@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/hong-kong-protests-crowds-thin-dramatically-1.2789816)
+1. [Cover Image](https://i.cbc.ca/1.2789817.1412672482!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/hong-kong-democracy-protest.jpg)
 
 ### Related:
 

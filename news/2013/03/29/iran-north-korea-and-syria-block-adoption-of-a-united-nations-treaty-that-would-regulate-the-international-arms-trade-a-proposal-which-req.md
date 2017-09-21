@@ -8,6 +8,7 @@ Move prevents adoption of first-ever international treaty to regulate the $70bn 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/03/2013328202658934672.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/18/201331814514892734_20.jpg)
 
 ### Related:
 

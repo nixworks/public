@@ -14,6 +14,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 5. [Globe&Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050302.wchtung0302/BNStory/International/)
 6. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7782051)
 7. [The Standard](http://www.thestandard.com.hk/stdn/std/Front_Page/GC02Aa01.html)
+7. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Battles between the Syrian military and rebels burst a main pipe that delivered 
 3. [Reuters](http://www.reuters.com/article/2012/09/09/us-syria-crisis-idUSBRE8860TF20120909)
 4. [The New York Times](http://www.nytimes.com/2012/09/09/world/middleeast/syria.html?src=mv&ref=world)
 5. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/08/c_131836965.htm)
+5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

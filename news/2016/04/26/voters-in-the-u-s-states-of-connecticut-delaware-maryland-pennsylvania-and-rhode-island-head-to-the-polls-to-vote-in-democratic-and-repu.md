@@ -14,6 +14,7 @@ Pennsylvania, Maryland, Connecticut, Rhode Island and Delaware take their turn i
 5. [NBC News](http://www.nbcnews.com/politics/2016-election/live-blog-battle-delegates-intensifies-east-coast-primaries-n562336)
 6. [The Hill](http://thehill.com/blogs/ballot-box/dem-primaries/277699-sanders-takes-rhode-island)
 7. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/04/26/trump-is-projected-to-win-in-pennsylvania-and-connecticut/)
+7. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_17/1513766/160426-donald-trump-new-york-yh-1017p_8cc2b602cd7072886d5f2df0af250696.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

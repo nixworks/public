@@ -13,6 +13,7 @@ By remaining silent on the issue of punishment for church figures, the pope’s 
 4. [The New York Times](http://www.nytimes.com/2010/03/22/world/europe/22ireland.html)
 5. [The Sunday Business Post](http://www.sbpost.ie/news/ireland/victims-groups-react-angrily-to-popes-letter-48070.html)
 6. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704454004575135873010410654.html?mod=googlenews_wsj)
+6. [Cover Image](https://static01.nyt.com/images/2010/03/22/world/22ireland_337-span/22ireland_337-span-thumbStandard.jpg)
 
 ### Related:
 

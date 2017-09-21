@@ -9,6 +9,7 @@ Women-only train carriages are launched in the Indonesian capital Jakarta in an 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11028078)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/191855/indonesia-railway-launches-women-only-carriages)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

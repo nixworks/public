@@ -14,6 +14,7 @@ Severe storms blowing across the Southeast killed at least five people in Georgi
 5. [The Tennesseean](http://www.tennessean.com/article/20110405/NEWS21/104050326/-1/MTCN06/Storms-leave-trail-fear-damage-across-much-TN)
 6. [The Weather Space](http://www.theweatherspace.com/news/TWS-04_05_2011_mondayreports.html)
 7. [WDSU](http://www.wdsu.com/r/27371422/detail.html)
+7. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

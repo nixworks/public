@@ -9,6 +9,7 @@ The bill is expected to face fierce resistance from congressional Democrats and 
 
 1. [NPR](http://www.npr.org/2017/08/02/541104795/trump-to-unveil-legislation-limiting-legal-immigration)
 2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/02/trump-gop-senators-to-introduce-bill-to-slash-legal-immigration-levels/)
+2. [Cover Image](https://media.npr.org/assets/img/2017/08/02/ap_17171520532821_wide-4f9bab96fd7949fb6689342905ac806c522e55f4.jpg?s=1400)
 
 ### Related:
 

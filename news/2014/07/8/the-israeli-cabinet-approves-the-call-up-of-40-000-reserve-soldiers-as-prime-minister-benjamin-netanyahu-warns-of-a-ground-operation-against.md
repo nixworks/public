@@ -10,6 +10,7 @@ No injuries or major damage after massive barrage targets north, Jerusalem, and 
 1. [AP](http://www.apnewsarchive.com/2014/Israeli-army-launches-offensive-operation-on-Gaza-Strip-to-quell-rocket-attacks/id-83befce5948e44b68d9604c39806ce33)
 2. [BBC](http://www.bbc.com/news/world-middle-east-28205090#)
 3. [The Times of Israel](http://www.timesofisrael.com/israel-pounds-dozens-of-gaza-targets-in-major-counteroffensive)
+3. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/07/000_Hkg10034795.jpg)
 
 ### Related:
 

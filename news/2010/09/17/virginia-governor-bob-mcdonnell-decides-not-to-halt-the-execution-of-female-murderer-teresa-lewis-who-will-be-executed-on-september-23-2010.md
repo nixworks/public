@@ -8,6 +8,7 @@ Gov. Bob McDonnell issued a statement Friday regarding the scheduled execution o
 ### Source:
 
 1. [WHSV](http://www.whsv.com/news/headlines/103174994.html)
+1. [Cover Image](http://media.graytvinc.com/images/488*315/TeresaWilsonLewis.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ One of the daughters of Venezuela&#039;s late president Hugo Chávez received th
 ### Source:
 
 1. [Mail & Guardian Online](http://mg.co.za/article/2013-06-28-chavez-wins-posthumous-journalism-award)
+1. [Cover Image](https://cdn.mg.co.za/crop/content/images/2012/05/12/chavez.jpg/1280x720/)
 
 ### Related:
 

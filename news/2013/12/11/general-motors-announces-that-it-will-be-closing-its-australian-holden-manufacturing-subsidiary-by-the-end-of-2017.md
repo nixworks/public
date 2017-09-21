@@ -8,6 +8,7 @@ THE Australian car industry is all but dead and South Australia is in shock foll
 ### Source:
 
 1. [News Limited](http://www.news.com.au/finance/business/gm-to-name-mary-barra-ceo-as-holden-decision-nears/story-fnda1bsz-1226780247370)
+1. [Cover Image](http://api.news.com.au/content/1.0/newscomau/images/1226781004145?format=jpg)
 
 ### Related:
 

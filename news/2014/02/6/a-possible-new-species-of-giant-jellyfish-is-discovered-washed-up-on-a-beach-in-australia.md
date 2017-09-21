@@ -8,6 +8,7 @@ Scientists in Australia are working to classify a new species of giant jellyfish
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-26062303)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72787000/jpg/_72787654_jf.jpg)
 
 ### Related:
 

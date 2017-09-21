@@ -12,6 +12,7 @@ An Arab Israeli stabbed four people near a bus stop in northern Israel on Sunday
 3. [AP via Houston Chronicle](http://www.chron.com/news/world/article/The-Latest-Gaza-officials-say-airstrike-kills-6564490.php)
 4. [AP via New York Times](http://www.nytimes.com/aponline/2015/10/11/world/middleeast/ap-ml-israel-palestinians-the-latest.html?_r=0)
 5. [Reuters](http://www.reuters.com/article/2015/10/11/us-israel-palestinians-idUSKCN0S501720151011)
+5. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151011&t=2&i=1086244243&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9A0KS)
 
 ### Related:
 

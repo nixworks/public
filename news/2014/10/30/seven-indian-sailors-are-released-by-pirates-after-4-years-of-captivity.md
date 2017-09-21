@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2014/10/31/Somali-pirates-release-Indian-hostages-after-4-years/1051414775750/)
+1. [Cover Image](http://cdnph.upi.com/ph/st/th/1051414775750/2014/upi_com/f3761d0ae846db5faa27ff29d856dc0d/v1.5/Somali-pirates-release-Indian-hostages-after-4-years.jpg?lg=2)
 
 ### Related:
 

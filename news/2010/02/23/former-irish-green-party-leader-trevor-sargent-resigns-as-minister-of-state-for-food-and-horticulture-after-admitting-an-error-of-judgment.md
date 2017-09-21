@@ -9,6 +9,7 @@ Former Green Party leader Trevor Sargent has resigned as Minister of State after
 
 1. [RTÉ](http://www.rte.ie/news/2010/0223/sargentt.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0223/breaking39.html)
+2. [Cover Image](https://img.rasset.ie/000309af-1600.jpg)
 
 ### Related:
 

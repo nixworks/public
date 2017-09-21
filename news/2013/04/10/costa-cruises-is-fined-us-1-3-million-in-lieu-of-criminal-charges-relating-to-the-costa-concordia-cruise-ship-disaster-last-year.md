@@ -8,6 +8,7 @@ ROME -- The operator of the Costa Concordia cruise ship, which struck rocks and 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-costa-concordia-fine-20130410,0,2757099.story)
+1. [Cover Image](http://www.trbimg.com/img-5165da0b/turbine/la-fg-wn-costa-concordia-fine-20130410-001/600/600x450)
 
 ### Related:
 

@@ -10,6 +10,7 @@ As the world readies to open for business on Monday, companies and governments a
 1. [Der Spiegel](http://www.spiegel.de/netzwelt/web/ransomware-wannacry-experten-fuerchten-neue-cyber-attacken-a-1147610.html)
 2. [Tech Crunch](https://techcrunch.com/2017/05/14/companies-governments-brace-for-a-second-round-of-cyberattacks-in-wannacrys-wake/)
 3. [The Hacker News](http://thehackernews.com/2017/05/wannacry-ransomware-cyber-attack.html)
+3. [Cover Image](https://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-539085410.jpg?w=764&amp;h=400&amp;crop=1)
 
 ### Related:
 

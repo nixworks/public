@@ -9,6 +9,7 @@ Illicit commerce thrives in the Republic of Georgia, where some regions have bec
 
 1. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=worldNews&storyID=2007-01-25T113314Z_01_L25148227_RTRUKOC_0_UK-NUCLEAR-GEORGIA-ARREST.xml&WTmodLoc=NewsLanding-C4-World-3)
 2. [The New York Times](http://www.nytimes.com/2007/01/25/world/europe/25nuke.html?_r=1&ref=europe&pagewanted=all)
+2. [Cover Image](https://static01.nyt.com/images/2007/01/25/world/75_smug_1.jpg)
 
 ### Related:
 

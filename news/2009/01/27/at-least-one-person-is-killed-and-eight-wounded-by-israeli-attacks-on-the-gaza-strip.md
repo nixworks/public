@@ -9,6 +9,7 @@ Incidents mark first day of violence since Gaza ceasfires were declared.
 
 1. [Australian News](http://www.australia.to/index.php?option=com_content&view=article&id=4287:mideast-ceasefire-broken-from-day-one&catid=71:world-news&Itemid=30)
 2. [BBC](http://english.aljazeera.net/news/middleeast/2009/01/20091271411489965.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

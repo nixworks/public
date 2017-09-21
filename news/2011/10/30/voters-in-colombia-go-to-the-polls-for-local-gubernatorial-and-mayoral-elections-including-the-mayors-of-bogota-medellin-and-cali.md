@@ -13,6 +13,7 @@ Liberal Party candidate Anibal Gaviria won Medellin&#8217;s mayoral election, na
 4. [Colombia Reports](http://colombiareports.com/colombia-news/news/20060-progressives-seize-mayors-offices-in-5-of-7-major-colombian-cities.html)
 5. [Financial Times](http://blogs.ft.com/beyond-brics/2011/10/31/colombia-bogotas-new-radical-mayor/#axzz1cP85Jo8h)
 6. [Washington Post](http://www.washingtonpost.com/world/intellectual-former-rebel-wins-bogota-mayors-seat/2011/10/30/gIQAuSS4WM_story.html)
+6. [Cover Image](http://www.colombiareports.co/wp-content/uploads/gaviria_fajardo1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ About 1.2 million people die prematurely every year in China from exposure to ou
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/health/2013/04/02/176017887/chinas-air-pollution-linked-to-millions-of-early-deaths)
+1. [Cover Image](https://media.npr.org/assets/img/2013/04/02/beijing-jan-12_wide-654eecd1ebe4303baafc017738c1ebb0f8aa027d.jpg?s=1400)
 
 ### Related:
 

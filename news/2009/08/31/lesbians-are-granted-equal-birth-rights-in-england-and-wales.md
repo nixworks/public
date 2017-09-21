@@ -10,6 +10,7 @@ Children can legally have two lesbian mothers and no father under laws that come
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8229401.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/health/healthnews/6106983/Children-can-now-have-two-lesbian-mothers-and-no-father-on-birth-certificate.html)
 3. [The Guardian](http://www.guardian.co.uk/society/2009/aug/31/lesbian-partners-birth-certificates)
+3. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

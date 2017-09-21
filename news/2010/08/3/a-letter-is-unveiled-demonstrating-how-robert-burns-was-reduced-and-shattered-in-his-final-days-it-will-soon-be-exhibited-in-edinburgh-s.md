@@ -8,6 +8,7 @@ A letter which describes how Scottish poet Robert Burns was &quot;reduced and sh
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-10848775)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

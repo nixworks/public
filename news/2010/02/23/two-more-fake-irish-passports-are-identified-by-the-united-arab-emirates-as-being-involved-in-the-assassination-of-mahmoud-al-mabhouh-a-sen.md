@@ -9,6 +9,7 @@ The United Arab Emirates has identified a further two Irish passport numbers all
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0223/breaking16.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0223/breaking7.html?via=rel)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

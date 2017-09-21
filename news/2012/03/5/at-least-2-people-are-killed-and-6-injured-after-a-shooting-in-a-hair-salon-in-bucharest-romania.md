@@ -8,6 +8,7 @@ A gunman opened fire Monday in a hair salon in the Romanian capital, killing two
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2012/03/05/2-dead-6-wounded-in-hair-salon-shooting-in-romania/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

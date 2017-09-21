@@ -8,6 +8,7 @@ The soldier was taking part in an operation against Islamic State, which is thou
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/us-special-forces-soldier-killed-in-operation-against-is-in-afghanistan-10830909)
+1. [Cover Image](http://e3.365dm.com/17/04/1600x900/086e975cebca8b7f77600ec83335fcb5714e7d07b049cf2a8daa49df6e710289_3926971.jpg?20170408201208)
 
 ### Related:
 

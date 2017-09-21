@@ -10,6 +10,7 @@ A roadside bomb planted by Kurdish militants ripped apart a military armored veh
 1. [Azeri-Press Agency {APA}](http://en.apa.az/world-news/asia-news/soldier-martyred-in-pkk-attack-in-southeast-turkey-6934.html)
 2. [Daily Sabah](http://www.dailysabah.com/war-on-terror/2016/06/29/pkk-car-bomb-attack-injures-8-in-southeast)
 3. [Reuters](http://www.reuters.com/article/us-turkey-security-kurds-idUSKCN0ZF0DJ)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

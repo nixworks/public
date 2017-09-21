@@ -8,6 +8,7 @@ Probe ordered into behaviour depicted by images showing troops posing with mangl
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/04/2012418143418753265.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/19/201241912123792734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ WASHINGTON (AP) — A U.S. drone strike in Somalia has targeted a key leader of 
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/644c2df9b1024eaaa4c5e20eb8b788ce/officials-al-shabab-leader-killed-somalia-drone-strike)
+1. [Cover Image](http://binaryapi.ap.org/c6842d78338b42dfbf853ce56053921a/460x.jpg)
 
 ### Related:
 

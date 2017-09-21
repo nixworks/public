@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5488648&startrow=1&date=2005-04-04&do_alert=0)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8080583)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

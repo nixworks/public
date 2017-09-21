@@ -9,6 +9,7 @@ SpaceX&#039;s Falcon 9 rocket blasted the company&#039;s Dragon cargo capsule to
 
 1. [Space.com](http://www.space.com/28173-spacex-reusable-rocket-test-dragon-launch.html)
 2. [Twitter](https://twitter.com/elonmusk/status/553963793056030721)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA0NC84NjIvb3JpZ2luYWwvc3BhY2V4LWZhbGNvbi05LWNycy01LWxhdW5jaC5qcGc=)
 
 ### Related:
 

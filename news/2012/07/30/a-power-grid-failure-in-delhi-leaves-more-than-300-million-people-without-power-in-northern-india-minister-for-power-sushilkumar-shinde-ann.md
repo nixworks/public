@@ -8,6 +8,7 @@ A massive grid failure inDelhi and much of northern India left more than 300 mil
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/30/india-blackout-idUSL4E8IU1AJ20120730)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/05/10/uk-benghazi-bomb-idUKBRE9490DO20130510)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130510&t=2&i=730474914&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9490Z5O00)
 
 ### Related:
 

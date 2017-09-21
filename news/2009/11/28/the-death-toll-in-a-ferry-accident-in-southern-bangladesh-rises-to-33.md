@@ -10,6 +10,7 @@ Rescue workers struggled to find survivors Saturday after at least 33 people die
 1. [Bangkok Post](http://www.bangkokpost.com/news/world/161359/at-least-33-die-in-bangladesh-ferry-accident-police)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=112390&sectionid=351020406)
 3. [Sify](http://sify.com/news/at-least-33-die-in-bangladesh-ferry-accident-police-news-international-jl3baccfjdg.html)
+3. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

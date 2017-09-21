@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Kleine Zeitung](http://www.kleinezeitung.at/service/newsticker/5187457/Iran-droht-den-USA-mit-Ausstieg-aus-dem-Atomabkommen)
+1. [Cover Image](http://static.kleinezeitung.at/social_klz/images/uploads_520/7/8/1/5187457/67690011435111528_BLD_Online.jpg)
 
 ### Related:
 

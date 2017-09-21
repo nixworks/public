@@ -9,6 +9,7 @@ Chinese authorities are preparing to drain a &#039;quake lake&#039;.
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/06/01/2261435.htm)
 2. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/06/01/2261632.htm?section=world)
+2. [Cover Image](http://www.abc.net.au/news/image/2452630-1x1-700x700.jpg)
 
 ### Related:
 

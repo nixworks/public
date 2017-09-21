@@ -12,6 +12,7 @@ Democrats are kicking off their convention with a prime-time lineup of some of t
 3. [Los Angeles Times](http://www.latimes.com/nation/politics/trailguide/la-na-democratic-convention-2016-live-keynote-address-by-elizabeth-warren-1469443430-htmlstory.html)
 4. [The Washington Post](https://www.washingtonpost.com/news/post-politics/paloma/the-daily-trail/2016/07/25/the-daily-trail-breaking-apparently-the-revolution-will-be-televised-after-all/57967e084acce2050515b979/)
 5. [Variety](http://variety.com/2016/music/news/paul-simon-demi-lovato-democratic-national-convention-1201822403/)
+5. [Cover Image](http://www.trbimg.com/img-5797a575/turbine/la-na-democratic-convention-2016-live-keynote-address-by-elizabeth-warren-1469443430)
 
 ### Related:
 

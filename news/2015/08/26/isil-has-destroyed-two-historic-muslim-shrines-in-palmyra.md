@@ -9,6 +9,7 @@ Hussain and his wife, Sally Jones, from Kent, had been dubbed &#039;Mr and Mrs T
 
 1. [CNN](http://edition.cnn.com/2015/06/24/middleeast/syria-isis-palmyra-shrines/index.html?eref=edition)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/islamic-state/11827214/British-hacker-for-Islamic-State-Junaid-Hussain-killed-in-Syria-drone-attack.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03420/Junaid_Hussain_3420415k.jpg)
 
 ### Related:
 

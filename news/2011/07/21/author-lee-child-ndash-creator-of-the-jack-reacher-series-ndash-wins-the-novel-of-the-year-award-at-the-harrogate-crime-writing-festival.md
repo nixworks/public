@@ -8,3 +8,4 @@ Lee Child, who is behind the best-selling Jack Reacher series, wins the novel of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-14246226)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54210000/jpg/_54210056_leechildaward.jpg)

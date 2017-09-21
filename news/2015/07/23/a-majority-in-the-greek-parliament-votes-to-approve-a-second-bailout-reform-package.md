@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2015/07/23/greek-lawmakers-pass-second-reform-package/)
+1. [Cover Image](http://static.euronews.com/articles/310494/1000x563_310494.jpg)
 
 ### Related:
 

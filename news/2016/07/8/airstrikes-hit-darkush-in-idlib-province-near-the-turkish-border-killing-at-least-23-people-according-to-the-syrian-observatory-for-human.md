@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters²](http://www.reuters.com/article/us-mideast-crisis-syria-idlib-idUSKCN0ZO1BZ)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160708&t=2&i=1144669296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC671EU)
 
 ### Related:
 

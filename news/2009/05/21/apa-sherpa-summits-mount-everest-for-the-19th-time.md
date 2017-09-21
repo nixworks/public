@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Salt Lake Tribune](http://www.sltrib.com/ci_12416228)
+1. [Cover Image](http://www.sltrib.com/csp/mediapool/sites/shared/assets/img/tribune1200x630.jpg)
 
 ### Related:
 

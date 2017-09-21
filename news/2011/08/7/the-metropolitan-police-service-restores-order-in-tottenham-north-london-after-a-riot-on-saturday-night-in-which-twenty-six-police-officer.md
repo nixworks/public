@@ -11,6 +11,7 @@ More than 40 people are arrested after rioting saw police attacked, buildings lo
 2. [BBC](http://www.bbc.co.uk/news/uk-england-london-14435251)
 3. [The Guardian](http://www.guardian.co.uk/uk/blog/2011/aug/07/tottenham-riots-police-duggan-live)
 4. [The Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8687177/Tottenham-riot-live.html)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/54463000/jpg/_54463672_012613438-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A convicted felon who was wearing body armor when police arrested him in a Detro
 ### Source:
 
 1. [AP via FOX News](http://www.foxnews.com/us/2013/11/07/third-person-dies-after-barbershop-shooting-police-say/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2013/11/07/third-person-dies-after-barbershop-shooting-police-say/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422667874960.jpg?ve=1)
 
 ### Related:
 

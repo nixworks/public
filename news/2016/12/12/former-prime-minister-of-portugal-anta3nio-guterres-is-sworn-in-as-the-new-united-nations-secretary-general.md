@@ -8,6 +8,7 @@ Former Portuguese Prime Minister Antonio Guterres was sworn in on Monday as the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-un-guterres-idUSKBN14121H?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161212&t=2&i=1165158476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBB14S)
 
 ### Related:
 

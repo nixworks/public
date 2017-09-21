@@ -8,6 +8,7 @@ David Cameron hits back at criticism by cabinet colleague Vince Cable, who brand
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13072509)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52160000/jpg/_52160298_010889376-1.jpg)
 
 ### Related:
 

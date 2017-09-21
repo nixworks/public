@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/12/usa-bomber-sentencing-idUSL2E8EC4B120120312)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -16,3 +17,4 @@
 3. [2013 Los Angeles International Airport shooting: A gunman opens fire at Los Angeles International Airport, killing a US Transportation Security Administration employee, and wounding several other people. It prompts a terminal evacuation. ](/news/2013/11/1/2013-los-angeles-international-airport-shooting-a-gunman-opens-fire-at-los-angeles-international-airport-killing-a-us-transportation-secur.md) _Context: Los Angeles International Airport_
 4. [A dry ice bomb explodes in an employee restroom at Los Angeles International Airport. Nobody was injured, and no arrests were made. Terminal 2 was briefly shut down and evacuated. It was the second incident of its kind to have occurred at the airport in two days. ](/news/2013/10/14/a-dry-ice-bomb-explodes-in-an-employee-restroom-at-los-angeles-international-airport-nobody-was-injured-and-no-arrests-were-made-terminal.md) _Context: Los Angeles International Airport_
 5. [ JetBlue Airways Flight 292 en route to New York from Burbank, California, experiences nose gear malfunctions shortly after takeoff when the nose wheels rotated 90 degrees to the left. The Airbus A320-232 circles Los Angeles to burn off fuel before landing at Los Angeles Airport without serious incident or injury.](/news/2005/09/21/jetblue-airways-flight-292-en-route-to-new-york-from-burbank-california-experiences-nose-gear-malfunctions-shortly-after-takeoff-when-the.md) _Context: Los Angeles International Airport_
+6. [ In Southern California, the radio system linking air traffic controllers to high-altitude planes breaks down at 17:00 local time, Tuesday (0000 UTC September 15), prompting the U.S. Federal Aviation Administration (FAA) to halt outgoing flights for three hours at Los Angeles International and several other airports. ](/news/2004/09/15/in-southern-california-the-radio-system-linking-air-traffic-controllers-to-high-altitude-planes-breaks-down-at-17-00-local-time-tuesday.md) _Context: Los Angeles International Airport_

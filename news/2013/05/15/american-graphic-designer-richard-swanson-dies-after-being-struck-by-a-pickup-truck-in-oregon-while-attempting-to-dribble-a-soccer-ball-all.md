@@ -8,6 +8,7 @@ Tributes are appearing online for Richard Swanson, the Seattle man whose plan to
 ### Source:
 
 1. [AP via National Public Radio](http://www.npr.org/blogs/thetwo-way/2013/05/15/184259354/richard-swanson-didnt-reach-brazil-but-he-found-an-audience)
+1. [Cover Image](https://media.npr.org/assets/img/2013/05/15/swanson_wide-abfc6b850441752695a7ce80edfcf27a059109f2.jpg?s=1400)
 
 ### Related:
 

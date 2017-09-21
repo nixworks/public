@@ -10,6 +10,7 @@ More than 2,000 Christian Copts confront police after Christmas Eve drive-by kil
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201017103725493374.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8444851.stm)
 3. [CNN](http://edition.cnn.com/2010/WORLD/meast/01/06/egypt.shootings/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

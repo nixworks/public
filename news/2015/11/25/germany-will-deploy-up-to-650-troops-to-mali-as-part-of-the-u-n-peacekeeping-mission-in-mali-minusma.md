@@ -8,6 +8,7 @@ Germany will send up to 650 soldiers to Mali, Defence Minister Ursula von der Le
 ### Source:
 
 1. [The Daily Star](https://www.dailystar.com.lb/News/World/2015/Nov-25/324546-germany-to-send-up-to-650-soldiers-to-mali-for-peacekeeping-mission.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/11/25/472585_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

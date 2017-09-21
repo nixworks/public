@@ -8,6 +8,7 @@ A hospital in north Yemen run by the medical aid group Medecins Sans Frontieres 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/27/uk-yemen-security-idUKKCN0SL0WE20151027)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

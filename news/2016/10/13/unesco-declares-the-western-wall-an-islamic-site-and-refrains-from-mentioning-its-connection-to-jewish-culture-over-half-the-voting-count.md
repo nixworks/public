@@ -8,6 +8,7 @@ The historic UNESCO vote claims Temple Mount and the Western Wall are solely Mus
 ### Source:
 
 1. [The International Business Times](http://www.ibtimes.com/palestine-wins-victory-against-israel-jerusalem-holy-site-declared-muslim-not-jewish-2431205)
+1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/10/13/rtx23iyx.jpg)
 
 ### Related:
 

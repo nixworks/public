@@ -9,6 +9,7 @@ South Korea plans to import $3.5 billion worth of arms this year to enhance its 
 
 1. [UPI](http://www.upi.com/Business_News/Security-Industry/2016/05/26/South-Korea-to-import-3-billion-worth-of-arms/8361464272886/?spt=hs&or=si)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2016/05/25/0301000000AEN20160525005500315.html)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/8361464272886/2016/1/c619630ff5803097804d79fa5a6c5430/v1.5/South-Korea-to-import-3-billion-worth-of-arms.jpg)
 
 ### Related:
 

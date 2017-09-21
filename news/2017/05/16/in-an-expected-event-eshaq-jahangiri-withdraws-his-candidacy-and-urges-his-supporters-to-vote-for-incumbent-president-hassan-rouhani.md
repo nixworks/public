@@ -8,6 +8,7 @@ Eshaq Jahangiri pulled out to smooth the path for the moderate incumbent, Hassan
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-39939619)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/9021/production/_96079863_mediaitem96078438.jpg)
 
 ### Related:
 

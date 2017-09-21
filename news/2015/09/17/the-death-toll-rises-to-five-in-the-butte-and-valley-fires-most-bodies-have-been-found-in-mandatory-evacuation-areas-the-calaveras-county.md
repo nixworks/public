@@ -9,6 +9,7 @@ One was a music composer and teacher. Another was a former newspaper reporter wh
 
 1. [Reuters](http://www.reuters.com/article/2015/09/18/us-usa-wildfires-idUSKCN0RC0J720150918)
 2. [Sacramento Bee](http://www.sacbee.com/news/state/california/fires/article35562669.html)
+2. [Cover Image](http://www.sacbee.com/news/state/california/fires/jfgx6o/picture35648139/ALTERNATES/LANDSCAPE_1140/1_20150916_PK_VALLEY_FIRE_0772)
 
 ### Related:
 

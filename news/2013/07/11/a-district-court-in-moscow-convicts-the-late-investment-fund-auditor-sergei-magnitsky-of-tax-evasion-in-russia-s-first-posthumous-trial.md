@@ -8,6 +8,7 @@ A district court in Moscow has ruled both the fugitive boss of the Hermitage Cap
 ### Source:
 
 1. [Russia Today](http://rt.com/politics/magnitsky-court-moscow-browder-942/)
+1. [Cover Image](https://img.rt.com/files/news/1f/b9/60/00/2magnitsky-court-moscow-browder.si.jpg)
 
 ### Related:
 

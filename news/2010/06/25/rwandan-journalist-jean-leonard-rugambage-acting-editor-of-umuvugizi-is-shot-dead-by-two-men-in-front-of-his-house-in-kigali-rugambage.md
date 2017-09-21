@@ -11,6 +11,7 @@ A Rwandan journalist working for a private newspaper is shot dead by two men in 
 2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE65O0HN20100625?feedType=RSS&feedName=topNews)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jun/25/rwandan-journalist-shot-dead)
 4. [The Independent](http://www.independent.co.uk/news/world/africa/journalist-shot-dead-at-home-2011023.html)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

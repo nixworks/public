@@ -8,6 +8,7 @@ Officials say 500 people could be onboard boat from Sri Lanka.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/20108123484598511.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

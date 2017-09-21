@@ -8,6 +8,7 @@ Protesters&#x20;are&#x20;expected&#x20;to&#x20;rally&#x20;in&#x20;more&#x20;than
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20150816-huge-crowds-demand-rousseff-impeachment-day-protests-brazil?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2015-08-16&dlvrit=66745)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Roussef-m.jpg)
 
 ### Related:
 

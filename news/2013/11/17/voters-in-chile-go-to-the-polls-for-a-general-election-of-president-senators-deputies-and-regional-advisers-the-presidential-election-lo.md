@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-24938253)
 2. [Reuters](http://www.reuters.com/article/2013/11/17/us-chile-election-idUSBRE9AG07S20131117)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131117&t=2&i=812668569&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AG1J7800)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The nephew of deposed Tunisian President Zine el Abidine Ben Ali found his sente
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/africa/06/26/tunisia.ben.ali.nephew/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/06/26/tunisia.ben.ali.nephew/tzvids.trabelsi.afp.gi.jpg)
 
 ### Related:
 

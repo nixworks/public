@@ -10,6 +10,7 @@ The United States has followed the Economic Community of West African States (Ec
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=114313)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8429739.stm)
 3. [allAfrica.com](http://allafrica.com/stories/200912240515.html)
+3. [Cover Image](http://allafrica.com/static/images/structure/aa-logo-rgba-no-text-128x128.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ John Dalli has resigned from the European Commission, the Commission announced i
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19964248)
 2. [Times of Malta](http://www.timesofmalta.com/articles/view/20121016/local/john-dalli-resigns-from-the-european-commission.441363)
+2. [Cover Image](https://cdn-attachments.timesofmalta.com/4b05b79acf16067995e20ed796cbc5ca2826778440-1350400617-507d7a69-620x348.jpg)
 
 ### Related:
 

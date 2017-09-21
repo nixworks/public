@@ -8,6 +8,7 @@ Prominent South African anti-apartheid activist Mamphela Ramphele is to be the p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25925456)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72574000/jpg/_72574025_index_large.jpg)
 
 ### Related:
 

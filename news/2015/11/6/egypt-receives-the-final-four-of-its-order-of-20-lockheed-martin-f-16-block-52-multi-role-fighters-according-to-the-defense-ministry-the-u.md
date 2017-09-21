@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Business_News/Security-Industry/2015/11/06/Egypt-receives-final-delayed-F-16-delivery/8101446837393/?spt=hs&or=si)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/8101446837393/2015/1/14468379327605/v2.1/Egypt-receives-final-delayed-F-16-delivery.jpg)
 
 ### Related:
 

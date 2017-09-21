@@ -8,6 +8,7 @@ Mark Carney, the head of the Canadian central bank, is named as the surprise cho
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-20501990)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64391000/jpg/_64391786_64391785.jpg)
 
 ### Related:
 

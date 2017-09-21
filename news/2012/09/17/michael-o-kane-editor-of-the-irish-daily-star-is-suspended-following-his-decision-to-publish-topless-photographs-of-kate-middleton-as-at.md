@@ -9,6 +9,7 @@
 
 1. [RTÉ News](http://www.rte.ie/news/2012/0917/closing-star-over-photos-disproportionate-inm-business.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0917/breaking31.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

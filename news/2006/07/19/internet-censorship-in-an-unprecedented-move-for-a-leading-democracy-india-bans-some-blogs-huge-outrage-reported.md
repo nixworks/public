@@ -11,6 +11,7 @@ Indian bloggers have reacted with anger and confusion, accusing the government o
 2. [Blog-Herald](http://www.blogherald.com/2006/07/17/india-blocks-blog/)
 3. [Business Standard](http://www.business-standard.com/common/storypage.php?autono=98680&leftnm=8&subLeft=0&chkFlg=)
 4. [New York Times](http://www.nytimes.com/2006/07/18/world/asia/18cnd-india.html?_r=2&oref=slogin&oref=slogin)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

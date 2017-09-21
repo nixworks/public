@@ -8,6 +8,7 @@ Israel must freeze all pending east Jerusalem home demolitions, UN report says.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/05/20095113927141744.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

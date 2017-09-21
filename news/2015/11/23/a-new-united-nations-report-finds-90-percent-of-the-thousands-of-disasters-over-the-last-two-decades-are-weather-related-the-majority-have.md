@@ -8,6 +8,7 @@ A new United Nations report aims to shine the light on the economic costs of wea
 ### Source:
 
 1. [UPI](http://www.upi.com/Science_News/2015/11/23/UN-study-Vast-majority-of-world-disasters-caused-by-weather/6091448310499/?spt=hs&or=sn)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/6091448310499/2015/1/45d8684be630bef848167248a57ff1ea/v1.5/UN-study-Vast-majority-of-world-disasters-caused-by-weather.jpg)
 
 ### Related:
 

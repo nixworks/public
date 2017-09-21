@@ -8,6 +8,7 @@ MOSCOW (AP) — Russian opposition leader and anti-corruption crusader Alexei Na
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/russias-navalny-found-guilty-libel-case-121700541.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/DYy0Oy37Huw7p.wh3E4Ctg--/aD0yNjY3O3c9NDAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/8e004157c80a130f520f6a70670062f2.jpg)
 
 ### Related:
 

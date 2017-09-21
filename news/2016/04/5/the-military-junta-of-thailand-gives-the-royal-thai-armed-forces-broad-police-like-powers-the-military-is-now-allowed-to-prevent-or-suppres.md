@@ -8,6 +8,7 @@ The US and human rights groups call for Thailand’s coup leaders to limit milit
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/05/thailand-junta-gives-army-sweeping-powers-of-arrest)
+1. [Cover Image](https://i.guim.co.uk/img/media/66850d3c9f5798026f3dea1716dc116cea9814b7/0_37_3000_1799/master/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9a6e50a270ea6da2049492a15bc5cd7f)
 
 ### Related:
 

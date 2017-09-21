@@ -8,6 +8,7 @@ Three car bombs exploded within minutes of each other in northwest Syria on Wedn
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/16/us-syria-crisis-idUSBRE90E0V820130116)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130116&t=2&i=694835405&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90F0VWJ00)
 
 ### Related:
 

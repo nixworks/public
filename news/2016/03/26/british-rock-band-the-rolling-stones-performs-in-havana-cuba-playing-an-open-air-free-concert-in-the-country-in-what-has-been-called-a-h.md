@@ -8,6 +8,7 @@ Veteran rockers become first western band to play in an open-air concert in Hava
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/music/2016/mar/26/rolling-stones-enjoy-historic-cuba-gig-havana-obama)
+1. [Cover Image](https://i.guim.co.uk/img/media/8478691b0a1ac41d582ac7b6a92e12f560601ddc/0_610_6043_3626/master/6043.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4d79dd405bd947fa7131695526625e90)
 
 ### Related:
 

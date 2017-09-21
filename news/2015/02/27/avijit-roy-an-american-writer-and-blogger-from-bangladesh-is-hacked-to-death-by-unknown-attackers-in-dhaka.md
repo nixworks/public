@@ -8,6 +8,7 @@ Hardline Islamist groups have long demanded the public execution of atheist blog
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/bangladesh/11438812/Atheist-US-blogger-hacked-to-death-in-Bangladesh.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03213/bangla_3213756a.gif)
 
 ### Related:
 

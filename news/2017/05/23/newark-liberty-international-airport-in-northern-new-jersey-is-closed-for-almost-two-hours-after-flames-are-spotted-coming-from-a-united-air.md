@@ -9,6 +9,7 @@ Newark Liberty International Airport in New Jersey reopened late on Tuesday afte
 
 1. [CBSNewYork](http://newyork.cbslocal.com/2017/05/23/newark-airport-engine-fire/)
 2. [Reuters](http://www.reuters.com/article/us-usa-newark-idUSKBN18K06X)
+2. [Cover Image](//s3.reutersmedia.net/resources/r/?m=02&d=20170524&t=2&i=1186023377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4N03K)
 
 ### Related:
 

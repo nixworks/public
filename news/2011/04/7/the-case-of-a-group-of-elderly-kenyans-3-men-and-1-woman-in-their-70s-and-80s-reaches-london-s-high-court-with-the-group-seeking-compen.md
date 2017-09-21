@@ -8,6 +8,7 @@ Group of elderly Kenyans who say they were tortured by British officers in the 1
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/20114783851777673.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/7/20114784521378371_20.jpg)
 
 ### Related:
 

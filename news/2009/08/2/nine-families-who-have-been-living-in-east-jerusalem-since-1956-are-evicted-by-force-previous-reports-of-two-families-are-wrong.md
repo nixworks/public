@@ -10,6 +10,7 @@ Two families are forcibly expelled from their homes in East Jerusalem.
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hce1b3lWDANrCmFY5sLsCEWLGOCA)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/2009825148146153.html)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8180413.stm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

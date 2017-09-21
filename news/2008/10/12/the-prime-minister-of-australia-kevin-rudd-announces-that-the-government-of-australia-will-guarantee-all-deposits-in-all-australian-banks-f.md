@@ -8,6 +8,7 @@ Kevin Rudd announced that the Government will guarantee all deposits in all Aust
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/10/12/2388681.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/231960-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Atlanta police say passengers who were evacuated from a terminal at Atlanta&#39;
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/suspicious-package-at-atlanta-airport-cleared-20160323)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/3818/82bbeff2c82144298678f584acf366a9.jpg)
 
 ### Related:
 

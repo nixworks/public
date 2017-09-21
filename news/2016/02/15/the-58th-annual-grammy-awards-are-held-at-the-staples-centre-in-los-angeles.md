@@ -11,6 +11,7 @@ Pop superstar Taylor Swift becomes the first woman to win the Grammy for album o
 2. [Courier Mail](http://www.couriermail.com.au/entertainment/grammy-awards-2016-lady-gaga-taylor-swift-rihanna-and-kendrick-lamar-perform/news-story/4b6e497661eb17f5c683601a35bd3339?from=public_rss)
 3. [Entertainment Weekly](http://www.ew.com/article/2016/02/14/grammys-2016-who-is-performing)
 4. [Huffington Post](http://www.huffingtonpost.com.au/entry/grammy-winners-list-2016_us_56c00551e4b08ffac1259831?ir=Entertainment&section=australia)
+4. [Cover Image](http://www.abc.net.au/news/image/7173216-1x1-700x700.jpg)
 
 ### Related:
 

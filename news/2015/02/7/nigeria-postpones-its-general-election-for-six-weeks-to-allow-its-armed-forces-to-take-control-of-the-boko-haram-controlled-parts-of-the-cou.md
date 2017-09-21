@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/news/world/africa/nigeria-to-postpone-elections-ahead-of-boko-haram-offensive-1.2095524)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2095523&origw=1440)
 
 ### Related:
 

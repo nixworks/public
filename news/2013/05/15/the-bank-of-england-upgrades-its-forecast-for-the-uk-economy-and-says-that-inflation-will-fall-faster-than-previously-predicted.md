@@ -8,6 +8,7 @@ The Bank of England upgrades its economic growth forecast, but separate figures 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-22539965)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67616000/jpg/_67616973_bankofenglandlogo.jpg)
 
 ### Related:
 

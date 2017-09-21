@@ -11,6 +11,7 @@ Deadly blast hits a northern city just hours after Goodluck Jonathan begins four
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/201152984646173248.html)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-13587545)
 4. [Reuters](http://uk.reuters.com/article/2011/05/29/nigeria-president-idUKLDE74S06F20110529)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/29/2011529152620477734_20.jpg)
 
 ### Related:
 

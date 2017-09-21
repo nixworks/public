@@ -9,6 +9,7 @@ Craig Thomson’s public fall has been like few others in Australia and it conti
 
 1. [Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/craig-thomson-found-guilty-of-fraud-theft-charges-20140218-32xay.html)
 2. [The Australian](http://www.theaustralian.com.au/news/nation/craig-thomson-found-guilty-of-defrauding-hsu/story-e6frg6nf-1226830337709)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/3/3/0/r/d/image.related.thumbnail.320x214.32xay.png/1392794828200.jpg)
 
 ### Related:
 

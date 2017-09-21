@@ -9,6 +9,7 @@
 
 1. [AFP via ''The Times of India](http://timesofindia.indiatimes.com/world/china/First-human-H7N9-bird-flu-case-in-Beijing-confirmed/articleshow/19523938.cms)
 2. [AP via ''The Vancouver Sun](http://www.vancouversun.com/health/China+reports+bird+death+infections+bringing+total+deaths/8233847/story.html)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

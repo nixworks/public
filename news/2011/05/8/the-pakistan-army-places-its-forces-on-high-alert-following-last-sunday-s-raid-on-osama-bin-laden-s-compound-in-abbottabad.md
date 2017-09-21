@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Pakistan-troops-along-LoC-put-on-high-alert/articleshow/8191538.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/8191571.cms)
 
 ### Related:
 

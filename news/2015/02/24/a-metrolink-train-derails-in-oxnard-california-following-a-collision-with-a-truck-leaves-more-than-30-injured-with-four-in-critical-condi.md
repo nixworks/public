@@ -10,6 +10,7 @@ California Metrolink train derails, injuring 28, including the engineer, officia
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-california-trail-derails-30-injured-20150224-story.html#page=1)
 2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-california-trail-derails-30-injured-20150224-story.html?track=rss&dlvrit=649324)
 3. [MSN](http://www.msn.com/en-us/news/us/metrolink-train-strikes-truck-in-southern-california/ar-BBhUYOr)
+3. [Cover Image](http://www.trbimg.com/img-54ed4fdf/turbine/la-me-ln-california-trail-derails-30-injured-20150224)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Barents Observet](http://barentsobserver.com/en/security/2014/06/putin-envoy-warns-finland-against-joining-nato-09-06)
+1. [Cover Image](http://barentsobserver.com/sites/barentsobserver.com/files/main/articles/finland_sweden_flags_edited-2.jpg)
 
 ### Related:
 

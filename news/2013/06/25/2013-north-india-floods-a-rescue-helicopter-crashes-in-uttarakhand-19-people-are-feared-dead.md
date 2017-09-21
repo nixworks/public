@@ -8,6 +8,7 @@ Following the latest updates from Uttarakhand, where relief and rescue operators
 ### Source:
 
 1. [FirstPost](http://www.firstpost.com/india/uttarakhand-live-iaf-chopper-crashes-19-feared-dead-899735.html)
+1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2013/06/Uttarakhand-rescue-AFP.jpg)
 
 ### Related:
 

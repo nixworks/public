@@ -9,6 +9,7 @@ The Department of Homeland Security says Milwaukee County Sheriff David Clarke i
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/milwaukee-sheriff-clarke-rejects-homeland-security-position-48117690)
 2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/06/17/milwaukee-sheriff-david-clarke-rescinds-acceptance-of-homeland-security-post/?utm_term=.23516357175a)
+2. [Cover Image](http://a.abcnews.com/images/US/WireAP_22167a9c95504cc898770cf7a3c95f70_16x9_992.jpg)
 
 ### Related:
 

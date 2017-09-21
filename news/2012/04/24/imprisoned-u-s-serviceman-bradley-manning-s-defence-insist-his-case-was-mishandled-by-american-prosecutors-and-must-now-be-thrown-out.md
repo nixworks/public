@@ -8,6 +8,7 @@ Defence team for US soldier Bradley Manning argues that case was mishandled by p
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/04/2012424171319480942.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/23/20122232192991734_20.jpg)
 
 ### Related:
 

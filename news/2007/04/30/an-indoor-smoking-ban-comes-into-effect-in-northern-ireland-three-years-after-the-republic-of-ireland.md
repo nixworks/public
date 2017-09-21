@@ -8,6 +8,7 @@ A smoking ban in enclosed public places has come into effect in Northern Ireland
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0430/smoking.html)
+1. [Cover Image](https://img.rasset.ie/0000d92b-1600.jpg)
 
 ### Related:
 

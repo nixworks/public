@@ -8,6 +8,7 @@ South Korea bans all fisheries imports from eight Japanese prefectures, amid con
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23968282)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69681000/jpg/_69681726_019183507.jpg)
 
 ### Related:
 

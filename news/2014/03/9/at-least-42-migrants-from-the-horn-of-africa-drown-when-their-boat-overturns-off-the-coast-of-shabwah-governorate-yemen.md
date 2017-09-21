@@ -8,6 +8,7 @@ Boat smuggling scores of migrants overturns off southern Yemen coast, leaving at
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/03/scores-african-migrants-drown-off-yemen-201439225338349870.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/7/20138795116636734_20.jpg)
 
 ### Related:
 

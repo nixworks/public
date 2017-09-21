@@ -10,6 +10,7 @@ Sudan president arrives in Chad despite being wanted on genocide and war crimes 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jlkI8U2fBjRaxg79Nkfsi-Hf8_xgD9H3FEP83)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/07/201072183438656172.html)
 3. [Reuters](http://www.reuters.com/article/idUSTRE66K2U420100721)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The majority died while trying to flee in their cars in the Pedrogao Grande area
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-40316934)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p0566v1n.jpg)
 
 ### Related:
 

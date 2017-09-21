@@ -8,6 +8,7 @@ Infrastructures Minister Landau recites ‘Shehecheyanu’ blessing, calling it 
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Sci-Tech/Article.aspx?id=213562)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=162035)
 
 ### Related:
 

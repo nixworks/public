@@ -9,6 +9,7 @@ Ecuador votes in a crucial presidential election runoff on Sunday. Here’s why 
 
 1. [SBS News](http://www.sbs.com.au/news/article/2017/04/02/ecuador-determines-its-future-key-poll-and-maybe-assanges)
 2. [TeleSUR](http://www.telesurtv.net/english/news/Ecuadors-Lenin-Moreno-Defeats-Banker-in-Presidential-Election-20170402-0037.html)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20170402001302030172-original.jpg)
 
 ### Related:
 

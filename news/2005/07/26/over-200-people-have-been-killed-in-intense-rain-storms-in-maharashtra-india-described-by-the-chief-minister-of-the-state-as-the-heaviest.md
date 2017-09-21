@@ -9,6 +9,7 @@ Life in Mumbai and the rest of Maharashtra came to a standstill as torrential ra
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4720343.stm)
 2. [Rediff](http://in.rediff.com/news/2005/jul/27rain.htm)
+2. [Cover Image](http://www.rediff.com/money/pix/bs.jpg)
 
 ### Related:
 

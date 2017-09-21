@@ -8,6 +8,7 @@ At least 11 Afghan civilians were killed and 16 wounded on Wednesday when a NATO
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-casualties-idUSKCN1BA1VQ?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

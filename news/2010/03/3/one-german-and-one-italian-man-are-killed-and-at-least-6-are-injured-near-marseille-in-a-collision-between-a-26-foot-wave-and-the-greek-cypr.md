@@ -11,6 +11,7 @@ Two cruise passengers died when their liner was hit by a freak wave off the Medi
 2. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/two-dead-when-wave-hits-cruise-ship/story-e6frf7jx-1225836773655)
 3. [Irish Independent](http://www.independent.ie/breaking-news/world-news/two-die-as-giant-waves-hit-liner-2087881.html)
 4. [USA Today](http://www.usatoday.com/travel/cruises/item.aspx?type=blog&ak=81618.blog)
+4. [Cover Image](http://www.independent.ie/migration_catalog/article25151268.ece/ALTERNATES/h342/B511323441267639237A00_1)
 
 ### Related:
 

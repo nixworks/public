@@ -8,6 +8,7 @@ The Palestinian prime minister, Salam Fayyad, resigned on Saturday in a move int
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/palestinianauthority/4953837/Palestinian-PM-Salam-Fayyad-resigns.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

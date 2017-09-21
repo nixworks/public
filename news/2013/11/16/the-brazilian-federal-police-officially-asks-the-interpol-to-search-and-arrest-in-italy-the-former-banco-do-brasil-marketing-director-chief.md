@@ -9,6 +9,7 @@ An ex-director of the Brazilian state-run bank Banco do Brasil convicted in a ma
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-24975142)
 2. [GloboNews](http://g1.globo.com/rio-de-janeiro/noticia/2013/11/pf-pede-para-interpol-buscar-henrique-pizzolato-na-italia.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71160000/jpg/_71160457_71160456.jpg)
 
 ### Related:
 

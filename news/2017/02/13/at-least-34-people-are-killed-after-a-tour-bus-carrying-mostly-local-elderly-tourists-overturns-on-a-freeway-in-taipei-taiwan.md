@@ -9,6 +9,7 @@ At least 32 people were killed after their bus overturned near the capital, Taip
 
 1. [BBC](http://www.bbc.com/news/world-asia-38959031)
 2. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201702140001.aspx)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12A19/production/_94631367_mediaitem94631366.jpg)
 
 ### Related:
 

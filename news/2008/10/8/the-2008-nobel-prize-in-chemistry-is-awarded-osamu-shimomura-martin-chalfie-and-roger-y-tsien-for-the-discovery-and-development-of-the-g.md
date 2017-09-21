@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Nobel Foundation](http://nobelprize.org/nobel_prizes/chemistry/laureates/2008/)
+1. [Cover Image](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2008/tsien_postcard.jpg)
 
 ### Related:
 

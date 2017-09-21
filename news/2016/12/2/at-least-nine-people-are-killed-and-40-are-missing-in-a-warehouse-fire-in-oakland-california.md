@@ -9,6 +9,7 @@ Police say they are preparing for as many as 40 deaths after a fire breaks out a
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-12-03-US--Warehouse%20Party%20Fire-The%20Latest/id-814e62dd893f485399b20784569ea8b5)
 2. [BBC](http://www.bbc.com/news/world-us-canada-38195612)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D7C0/production/_92823255_mediaitem92823254.jpg)
 
 ### Related:
 

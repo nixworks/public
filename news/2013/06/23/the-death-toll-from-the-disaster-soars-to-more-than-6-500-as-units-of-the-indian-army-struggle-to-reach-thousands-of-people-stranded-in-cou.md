@@ -8,6 +8,7 @@ Army suspends rescue helicopter flights in Uttarakhand state due to dense fog as
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/06/201362365822873987.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/23//20136237417148734_20.jpg)
 
 ### Related:
 

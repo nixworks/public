@@ -9,6 +9,7 @@ A former Greek prime minister was injured when a booby-trapped package exploded 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-40052213)
 2. [Reuters](http://www.reuters.com/article/us-greece-bomb-papademos-idUSKBN18L28G)
+2. [Cover Image](//s3.reutersmedia.net/resources/r/?m=02&d=20170525&t=2&i=1186311248&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4O1NM)
 
 ### Related:
 

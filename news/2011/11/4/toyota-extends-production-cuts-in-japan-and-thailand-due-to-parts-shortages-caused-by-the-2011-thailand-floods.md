@@ -8,6 +8,7 @@ Toyota extends production cuts at its factories in Thailand and Japan due to sho
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15587229)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56467000/jpg/_56467503_toyota2.jpg)
 
 ### Related:
 

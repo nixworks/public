@@ -8,6 +8,7 @@ Agathon Rwasa, a former rebel leader, said he had been threatened by the governm
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/2010630131733366396.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

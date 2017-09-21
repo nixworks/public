@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2015/03/05/usa-new-york-wages-idUSL1N0W72EQ20150305)
 2. [UPI](http://www.upi.com/Business_News/2015/10/17/Papa-Johns-franchises-to-pay-500k-in-wage-theft-settlement/2141445108710/?spt=hs&or=bn)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

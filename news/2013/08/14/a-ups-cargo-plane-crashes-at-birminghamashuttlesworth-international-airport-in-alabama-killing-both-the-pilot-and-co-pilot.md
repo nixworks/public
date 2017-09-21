@@ -9,6 +9,7 @@ A large UPS cargo plane crashed and burst into flames, killing its pilot and cop
 
 1. [Alabama 13](http://www.alabamas13.com/story/23132151/east-birmingham-plane-crash)
 2. [Reuters](http://www.reuters.com/article/2013/08/14/us-crash-ups-urgent-idUSBRE97D0JW20130814)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130814&t=2&i=763680864&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97D104U00)
 
 ### Related:
 

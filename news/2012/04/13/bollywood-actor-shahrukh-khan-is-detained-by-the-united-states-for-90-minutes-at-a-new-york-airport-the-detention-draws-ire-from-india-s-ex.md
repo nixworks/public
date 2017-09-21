@@ -8,6 +8,7 @@ India reacts angrily to the detention of Bollywood star Shah Rukh Khan by US aut
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-17699074)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59633000/jpg/_59633538_srkcalllap.jpg)
 
 ### Related:
 

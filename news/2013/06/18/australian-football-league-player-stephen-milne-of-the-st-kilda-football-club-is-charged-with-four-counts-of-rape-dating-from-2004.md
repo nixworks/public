@@ -8,6 +8,7 @@ Stephen Milne charged with four counts of rape dating back to an incident involv
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/afl/afl-news/st-kilda-forward-charged-with-rape-20130618-2ofzh.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/o/f/z/t/image.related.articleLeadwide.620x349.2ofzh.png/1371597121207.jpg)
 
 ### Related:
 

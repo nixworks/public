@@ -8,6 +8,7 @@ Peter O&#039;Neill says the Manus Island regional processing centre will be clos
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-04-27/png-pm-oneill-to-shut-manus-island-detention-centre/7364414)
+1. [Cover Image](http://www.abc.net.au/news/image/2867526-1x1-700x700.jpg)
 
 ### Related:
 

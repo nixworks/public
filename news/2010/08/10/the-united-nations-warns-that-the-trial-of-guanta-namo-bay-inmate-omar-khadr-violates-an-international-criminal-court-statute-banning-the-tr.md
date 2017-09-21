@@ -8,6 +8,7 @@ Even as the United States proceeds this week to prosecute Omar Khadr, a child so
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article562968.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article16098696.ece/ALTERNATES/LANDSCAPE_615/LAT_GUANTANAMO_MILITARY_TRIALS)
 
 ### Related:
 

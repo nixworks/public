@@ -8,6 +8,7 @@ JAKARTA – Indonesian President Joko Widodo on Wednesday dropped his sole nomin
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/indonesias-president-jokowi-drops-budi-gunawan-police-chief-nominee-)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/02/18/CORRUPTION180215e_2x.jpg?itok=k5b8QXUD)
 
 ### Related:
 

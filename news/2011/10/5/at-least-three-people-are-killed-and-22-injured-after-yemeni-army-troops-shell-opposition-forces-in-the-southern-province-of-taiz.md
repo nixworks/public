@@ -9,6 +9,7 @@ Pro-democracy protests which swept the Arab world earlier in the year have erupt
 
 1. [The Independent](http://www.independent.co.uk/news/world/middle-east/saudi-police-open-fire-on-civilians-as-protests-gain-momentum-2365614.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-10/05/c_131174776.htm)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/10/04/21/654273.bin)
 
 ### Related:
 

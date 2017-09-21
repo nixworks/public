@@ -8,6 +8,7 @@ Researchers have discovered antibodies that can protect against a wide range of 
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/38151534/ns/health-aids/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

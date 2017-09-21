@@ -8,6 +8,7 @@ Nurses, officers and a Rabbi among 71 arrested for allegedly sharing child porno
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/humanrights/2014/05/dozens-arrested-us-child-porn-bust-20145229154981666.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/24/201222491424473734_20.jpg)
 
 ### Related:
 

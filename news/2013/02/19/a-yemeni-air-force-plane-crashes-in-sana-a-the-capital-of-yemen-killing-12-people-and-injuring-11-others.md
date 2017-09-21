@@ -9,6 +9,7 @@ A Yemeni air force plane crashed in the capital Sanaa on Tuesday, killing at lea
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21505467)
 2. [Reuters](http://uk.reuters.com/article/2013/02/19/uk-yemen-crash-idUKBRE91I0DL20130219)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130219&t=2&i=705374856&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91I0VDB00)
 
 ### Related:
 

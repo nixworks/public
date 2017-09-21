@@ -8,3 +8,4 @@ A Pakistani diplomat calls for a probe into allegations that rich landowners div
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11160995)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48886000/jpg/_48886268_48886274.jpg)

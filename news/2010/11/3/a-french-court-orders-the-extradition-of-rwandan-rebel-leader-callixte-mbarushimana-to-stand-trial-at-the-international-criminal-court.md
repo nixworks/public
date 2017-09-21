@@ -9,6 +9,7 @@ A&#x20;French&#x20;court&#x20;approved&#x20;Wednesday&#x20;the&#x20;transfer&#x2
 
 1. [RFI](http://www.english.rfi.fr/africa/20101103-french-court-approves-extradition-icc-rwandan-rebel-leader)
 2. [The East African](http://www.theeastafrican.co.ke/news/-/2558/1046172/-/omvax3z/-/)
+2. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/callixte_mbarushimana_0.JPG)
 
 ### Related:
 

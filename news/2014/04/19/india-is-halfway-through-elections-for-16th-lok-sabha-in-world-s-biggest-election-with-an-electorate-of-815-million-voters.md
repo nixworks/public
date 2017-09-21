@@ -8,6 +8,7 @@ India called a quarter of its 815 million voters to polls on Thursday, the bigge
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2014/04/17/us-india-election-idINKBN0D301R20140417)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140417&t=2&i=887861135&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA3G00N)
 
 ### Related:
 

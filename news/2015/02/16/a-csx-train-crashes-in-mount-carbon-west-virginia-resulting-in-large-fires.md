@@ -8,6 +8,7 @@ Two West Virginia towns have been evacuated after a freight train carrying crude
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-31492659)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81049000/jpg/_81049984_kcc.jpg)
 
 ### Related:
 

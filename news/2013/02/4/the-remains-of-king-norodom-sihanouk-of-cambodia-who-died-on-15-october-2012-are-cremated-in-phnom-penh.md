@@ -8,6 +8,7 @@ Thousands of Cambodians gather in the capital for the cremation of former King N
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21318394)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65682000/jpg/_65682033_017122338-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ US Airways Group Inc has made a formal merger proposal to American Airlines pare
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/12/07/us-amr-pilots-idUSBRE8B614320121207)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121207&t=2&i=682427749&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B61P8Y00)
 
 ### Related:
 

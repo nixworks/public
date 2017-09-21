@@ -11,6 +11,7 @@
 2. [Financial Times](http://www.ft.com/cms/s/0/8165e4a6-2ba7-11e6-a18d-a96ab29e3c95.html)
 3. [Fox News Latino](http://latino.foxnews.com/latino/politics/2016/06/06/peru-kuczynski-sees-lead-shrink-with-2-pct-votes-counted/)
 4. [Reuters](http://www.reuters.com/article/us-peru-election-idUSKCN0YS0KW)
+4. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160607&t=2&i=1140374836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC560N5)
 
 ### Related:
 

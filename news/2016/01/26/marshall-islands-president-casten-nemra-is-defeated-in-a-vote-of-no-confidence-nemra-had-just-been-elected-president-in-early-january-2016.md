@@ -8,6 +8,7 @@ The Marshall Islands newly elected president Casten Nemra has been toppled in a 
 ### Source:
 
 1. [Radio New Zealand International](http://www.radionz.co.nz/international/pacific-news/294896/marshall-islands-president-toppled)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

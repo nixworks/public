@@ -8,6 +8,7 @@ The U.S., with 4.5 percent of the world’s population and 25 percent of the wor
 ### Source:
 
 1. [AP via SanFranciscoBay](http://sfbayview.com/2011/protest-retaliation-against-georgia-prisoners)
+1. [Cover Image](http://sfbayview.com/wp-content/uploads/2011/02/Georgia-State-Prison-Reidsville.jpg)
 
 ### Related:
 

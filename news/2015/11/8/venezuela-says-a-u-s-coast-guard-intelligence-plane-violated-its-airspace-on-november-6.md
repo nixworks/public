@@ -8,6 +8,7 @@ Venezuela said a U.S. Coast Guard intelligence plane violated its airspace on Fr
 ### Source:
 
 1. [Reuters via Yahoo](http://news.yahoo.com/venezuela-says-u-intelligence-plane-violated-air-space-183252161.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

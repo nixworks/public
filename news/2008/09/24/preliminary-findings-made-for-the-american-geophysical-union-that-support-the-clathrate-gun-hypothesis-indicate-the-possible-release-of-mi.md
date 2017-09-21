@@ -8,6 +8,7 @@ The first evidence that millions of tons of a greenhouse gas 20 times more poten
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/environment/climate-change/exclusive-the-methane-time-bomb-938932.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2008/09/22/23/55732.bin)
 
 ### Related:
 

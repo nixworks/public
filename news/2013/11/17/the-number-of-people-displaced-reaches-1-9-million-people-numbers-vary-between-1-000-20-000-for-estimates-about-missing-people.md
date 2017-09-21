@@ -10,3 +10,4 @@ Flooding in Vietnam has killed at least 28 people since Friday, with nine others
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2013/11/16/245584484/shattered-but-not-shuttered-hospital-survived-typhoon-haiyan)
 2. [Reuters](http://www.reuters.com/article/2013/11/17/us-vietnam-floods-idUSBRE9AG01Z20131117)
 3. [Voice of America](http://www.voanews.com/content/philippines-typhoon-numbers-of-missing-disparate/1791467.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

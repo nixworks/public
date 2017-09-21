@@ -8,6 +8,7 @@ MEXICO CITY (Reuters) - Mexico has extradited a drug gang leader to face charges
 ### Source:
 
 1. [Chicago Tribune](http://articles.chicagotribune.com/2012-06-29/news/sns-rt-us-mexico-usa-extraditionbre85t028-20120629_1_mexico-extradites-barrio-azteca-consulate-worker)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

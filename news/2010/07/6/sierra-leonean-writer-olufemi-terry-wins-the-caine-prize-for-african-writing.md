@@ -10,6 +10,7 @@ Explore the explosively colourful tattooed portraits of Ricardo Cavolo, the arti
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10519045.stm)
 2. [CBC](http://www.cbc.ca/arts/books/story/2010/07/06/caine-prize-african-writing.html?ref=rss)
 3. [National Post](http://arts.nationalpost.com/2010/07/06/olufemi-terry-wins-caine-prize/)
+3. [Cover Image](https://i.cbc.ca/1.3651756.1466798163!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kaytranada-99-9.jpg)
 
 ### Related:
 

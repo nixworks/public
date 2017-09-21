@@ -8,6 +8,7 @@ North Korean leader Kim Jong-un misses a key political ceremony, increasing spec
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-29563837)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78104000/jpg/_78104584_462150303.jpg)
 
 ### Related:
 

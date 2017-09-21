@@ -8,6 +8,7 @@ Security forces used a water cannon and other weapons to end the three-month pro
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/11/2012112945342227292.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/29/2012112952133401734_20.jpg)
 
 ### Related:
 

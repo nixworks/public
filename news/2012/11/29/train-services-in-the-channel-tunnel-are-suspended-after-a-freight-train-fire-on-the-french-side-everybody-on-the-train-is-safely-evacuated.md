@@ -8,6 +8,7 @@ Train services resume in the Channel Tunnel after a fire on a freight train on t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20545637)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64467000/jpg/_64467486_64461615.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Denmark tightens its border controls with Germany, just hours after Sweden impos
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35222015)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/57A5/production/_87473422_87473421.jpg)
 
 ### Related:
 

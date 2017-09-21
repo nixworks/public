@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/08/saudis-give-1bn-lebanon-amid-fighting-20148654551988154.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/8/6/20148655724649734_20.jpg)
 
 ### Related:
 

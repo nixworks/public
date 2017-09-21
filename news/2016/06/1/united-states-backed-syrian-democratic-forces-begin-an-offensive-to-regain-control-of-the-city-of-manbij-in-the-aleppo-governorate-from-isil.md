@@ -8,6 +8,7 @@ MIDEAST-CRISIS/SYRIA-OFFENSIVE (EXCLUSIVE, URGENT):EXCLUSIVE-U.S.-backed Syria f
 ### Source:
 
 1. [Reuters via Trust](http://news.trust.org/item/20160601040520-o42uq)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/dfdebed8-d8e8-4db2-b483-6ce90cc54e3b/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

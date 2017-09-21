@@ -10,6 +10,7 @@ Pakistan&#039;s prime minister will on Monday warn the United States it will def
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42955171)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-13330909)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/al-qaeda/8501266/Pakistan-Prime-Minister-to-warn-US-over-Osama-bin-Laden-raid.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01886/gilani-osama_1886882a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/kentucky-s-mall-st-matthews-shuts-down-after-brawls-involving-n486341)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_52/1354426/151227-mall-st-matthews-fight-yh-11a_91c07aa0cdf05f6e6921a65f8249afd2.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

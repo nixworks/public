@@ -9,6 +9,7 @@ U.S. companies that merge with foreign competitors to reduce their U.S. tax bill
 
 1. [CNN Money](http://money.cnn.com/2016/04/04/news/tax-inversion/)
 2. [Reuters](http://www.reuters.com/article/us-usa-tax-inversions-idUSKCN0X1299)
+2. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/160404172851-jack-lew-treasury-secretary-newseum-780x439.jpg)
 
 ### Related:
 

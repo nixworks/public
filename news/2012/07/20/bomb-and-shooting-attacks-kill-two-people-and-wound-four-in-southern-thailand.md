@@ -8,6 +8,7 @@ Two civilians were killed and four wounded in bomb and shooting attacks in south
 ### Source:
 
 1. [Naharnet](http://www.naharnet.com/stories/en/47183-two-killed-four-wounded-in-thai-south-as-ramadan-starts)
+1. [Cover Image](http://images3.naharnet.com/images/45833/w140.jpg?1342762660)
 
 ### Related:
 

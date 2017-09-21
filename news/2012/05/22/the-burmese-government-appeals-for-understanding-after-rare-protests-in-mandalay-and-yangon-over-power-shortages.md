@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18162333)
 2. [VOA](http://blogs.voanews.com/breaking-news/2012/05/22/burmese-electricity-protests-end-without-arrests/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60405000/jpg/_60405677_014820305-1.jpg)
 
 ### Related:
 

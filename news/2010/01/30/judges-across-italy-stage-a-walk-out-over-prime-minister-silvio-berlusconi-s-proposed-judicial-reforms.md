@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8489253.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE60T1AS20100130)
 3. [euronews](http://www.euronews.net/2010/01/30/italian-magistrates-protest-over-reforms/)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100130&t=2&i=53149315&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-30T135534Z_01_BTRE60T12OQ00_RTROPTP_0_ITALY-JUSTICE)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Welsh farmers were today on high alert for signs of a deadly virus that has kill
 ### Source:
 
 1. [Wales Online](http://www.walesonline.co.uk/news/wales-news/2012/02/26/farming-alert-across-wales-as-deadly-schmallenberg-sheep-virus-confirmed-in-74-english-farms-91466-30410632/)
+1. [Cover Image](http://i1.walesonline.co.uk/incoming/article1984157.ece/ALTERNATES/s1200/welsh-farmers-were-today-on-high-alert-for-signs-of-a-deadly-virus-that-has-killed-thousands-of-lambs-469425495.jpg)
 
 ### Related:
 

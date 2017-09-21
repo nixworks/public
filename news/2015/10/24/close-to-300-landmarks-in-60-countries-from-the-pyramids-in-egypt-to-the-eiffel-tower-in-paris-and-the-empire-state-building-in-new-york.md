@@ -10,6 +10,7 @@
 1. [Blue photos UN](https://www.flickr.com/photos/unicphoto/sets/72157657328013193)
 2. [New York Times](http://www.nytimes.com/aponline/2015/10/23/world/ap-un-united-nations-at-70.html?_r=0)
 3. [UN](http://www.un.org/apps/news/story.asp?NewsID=52346#.ViwB1G5BnYs)
+3. [Cover Image](/News/dh/photos/large/2015/October/UNBlue_EDD6806_UN.jpg)
 
 ### Related:
 

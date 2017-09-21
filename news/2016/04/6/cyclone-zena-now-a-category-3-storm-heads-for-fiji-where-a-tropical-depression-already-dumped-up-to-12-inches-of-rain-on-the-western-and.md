@@ -9,6 +9,7 @@ For the second time this week Fiji, still recovering from late-February Winston,
 
 1. [Television New Zealand](https://www.tvnz.co.nz/one-news/world/least-two-dead-category-3-cyclone-zena-bears-down-fiji)
 2. [Weather.com](https://weather.com/storms/hurricane/news/fiji-flooding-tropical-cyclone-zena-april2016)
+2. [Cover Image](http://s.w-x.co/fiji-flood-korociri-4apr16.jpg)
 
 ### Related:
 

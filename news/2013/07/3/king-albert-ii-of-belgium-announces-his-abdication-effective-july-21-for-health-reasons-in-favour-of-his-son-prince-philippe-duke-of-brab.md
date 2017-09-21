@@ -9,6 +9,7 @@
 
 1. [DeRedactie.be](http://www.deredactie.be/cm/vrtnieuws/binnenland/130702_koningalbert_toespraak)
 2. [Nieuwsblad](http://www.nieuwsblad.be/article/detail.aspx?articleid=DMF20130703_00645593)
+2. [Cover Image](https://nbocdn.akamaized.net/Assets/Images_Upload/2013/07/03/albert.jpg)
 
 ### Related:
 

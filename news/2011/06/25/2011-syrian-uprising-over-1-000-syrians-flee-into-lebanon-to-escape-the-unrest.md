@@ -15,6 +15,7 @@ A group of Libyan football figures, including members of the national team, tell
 6. [CNN](http://www.cnn.com/2011/WORLD/meast/06/25/syria.unrest/index.html)
 7. [The Guardian](http://www.guardian.co.uk/world/2011/jun/25/syria-border-turkey-president-assad)
 8. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=226473)
+8. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53685000/jpg/_53685260_dsc_5917.jpg)
 
 ### Related:
 

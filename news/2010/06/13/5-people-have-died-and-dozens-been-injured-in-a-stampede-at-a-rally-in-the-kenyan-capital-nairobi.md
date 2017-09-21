@@ -9,6 +9,7 @@ Five die in a stampede following an explosion at a rally in Nairobi organised by
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/10305750.stm)
 2. [aajmedia](http://www.aajmedia.com/news/2010/06/five-killed-in-kenyan-rally-crush/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

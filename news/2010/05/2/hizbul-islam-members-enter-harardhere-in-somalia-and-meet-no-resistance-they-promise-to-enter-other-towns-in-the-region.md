@@ -8,6 +8,7 @@ Hizbul Islam members enter the pirate base of Haradheere, residents say.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/20105213620982480.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

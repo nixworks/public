@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Dagens Nyheter](http://www.dn.se/kultur-noje/nyheter/pelarvagen-i-uppsala-ar-ett-mysterium/)
+1. [Cover Image](https://cached-images.bonnier.news/cms30/UploadedImages/2015/10/23/10959993-8718-45f7-aab0-e8af4a463498/bigOriginal.jpg?interpolation=lanczos-none&fit=inside|470:246&output-quality=80&output-format=jpeg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/01/a-black-woman-poised-for-presidential-candidate-in-brazil)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21749/200x200/b90b479c7315f1c543f75fefbcc07a93.jpg)
 
 ### Related:
 

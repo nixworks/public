@@ -8,6 +8,7 @@ Sun Hung Kai Properties Ltd said on Friday that former chairman Walter Kwok hasi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/05/04/shk-walterkwok-idUSH9E8FO02020120504)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

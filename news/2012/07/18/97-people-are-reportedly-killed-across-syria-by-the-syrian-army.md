@@ -11,6 +11,7 @@ Nearly 100 people were killed on Wednesday in violence across Syria, including 1
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18882149)
 3. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2012/Jul-18/181068-nearly-100-killed-across-syria-including-16-in-damascus-ngo.ashx#axzz2119mPugC)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9408200/Syria-Security-building-in-Damascus-bombed.html)
+4. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

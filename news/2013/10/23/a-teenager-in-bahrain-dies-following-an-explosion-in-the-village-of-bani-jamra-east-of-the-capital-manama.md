@@ -8,6 +8,7 @@ A 17-year-old boy was killed while transporting a bomb that exploded in a predom
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24636242)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70651000/jpg/_70651796_70651793.jpg)
 
 ### Related:
 

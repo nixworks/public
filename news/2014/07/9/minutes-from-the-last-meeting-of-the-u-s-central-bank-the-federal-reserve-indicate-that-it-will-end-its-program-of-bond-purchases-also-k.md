@@ -8,6 +8,7 @@ Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, af
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/09/us-markets-stocks-idUSKBN0FD14H20140709)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140708&t=2&i=924513150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA670O0)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Six French mountaineers have been found dead after a fall in the French Alps, lo
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13919018)
 2. [CNN](http://www.cnn.com/2011/WORLD/europe/06/26/france.alps.bodies/index.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/jun/26/alps-climbers-died-falling-mountainside)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53702000/jpg/_53702377_012310636-1.jpg)
 
 ### Related:
 

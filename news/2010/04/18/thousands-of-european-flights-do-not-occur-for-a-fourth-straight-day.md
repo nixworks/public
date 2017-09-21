@@ -16,3 +16,4 @@ Tens of thousands of people gathered in the city of Krakow on Sunday for the sta
 7. [RTÉ](http://www.rte.ie/news/2010/0418/travel.html)
 8. [Reuters](http://www.reuters.com/article/industrialsSector/idUSLDE63H0F220100418)
 9. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7101167.ece)
+9. [Cover Image](https://i.cbc.ca/1.2067723.1381900059!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-kaczynski-funeral-cp-rtr.jpg)

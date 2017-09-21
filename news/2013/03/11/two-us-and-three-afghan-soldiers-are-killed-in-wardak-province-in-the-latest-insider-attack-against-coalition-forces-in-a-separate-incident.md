@@ -9,6 +9,7 @@ Two US soldiers and a number of Afghan troops are shot dead in the latest &quot;
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/03/2013311113555455539.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21738169)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66316000/jpg/_66316508_66316507.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands of Egyptian doctors demonstrated in Cairo on Friday in a rare protest 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-egypt-protests-police-idUSKCN0VL21O)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160212&t=2&i=1117082042&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1B17F)
 
 ### Related:
 

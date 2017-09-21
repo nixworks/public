@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via New York Times](http://www.nytimes.com/2006/10/19/world/middleeast/19citizen_wire.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

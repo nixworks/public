@@ -9,6 +9,7 @@ Jean Lapierre, political commentator and former Liberal federal cabinet minister
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/magdalen-islands-plane-crash-1.3510975)
 2. [CTV News](http://www.ctvnews.ca/canada/tva-former-mp-jean-lapierre-six-others-killed-in-quebec-plane-crash-1.2836751)
+2. [Cover Image](https://i.cbc.ca/1.3511779.1459308024!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/plane-crash-20160329.jpg)
 
 ### Related:
 

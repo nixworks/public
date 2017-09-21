@@ -8,6 +8,7 @@ NFL.com - The official source for NFL news, schedules, stats, scores and more.
 ### Source:
 
 1. [NFL.com](http://www.nfl.com/news/story/10240829)
+1. [Cover Image]( )
 
 ### Related:
 

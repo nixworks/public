@@ -9,6 +9,7 @@ A United Arab Emirates soldier was killed and another was wounded while fighting
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKCN0VN0EB)
 2. [The Washington Post](https://www.washingtonpost.com/world/middle_east/saudi-arabia-shoots-down-scud-missile-fired-from-yemen/2016/02/14/cc181a6a-d2ff-11e5-a65b-587e721fb231_story.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Zika virus is likely to spread across nearly all of the Americas, the World 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/health-35399403?ocid=global_bbccom_email_25012016_top+news+stories)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13678/production/_87908497_hi030701139.jpg)
 
 ### Related:
 

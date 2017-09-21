@@ -8,6 +8,7 @@ In separate incident, two 12-year-old Palestinian kids arrested with knives in J
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/palestinian-kids-arrested-with-knives-in-jerusalem/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2016/04/unnamed1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A husband and wife were crushed in their car as a temporary support structure ga
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39218467)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/7A3F/production/_95059213_mediaitem95059212.jpg)
 
 ### Related:
 

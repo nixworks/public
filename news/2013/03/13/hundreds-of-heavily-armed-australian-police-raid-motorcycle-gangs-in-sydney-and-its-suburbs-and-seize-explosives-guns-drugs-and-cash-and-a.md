@@ -8,6 +8,7 @@ Hundreds of heavily armed police have swooped on motorcycle gangs in Sydney and 
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/wheels24/BikesQuads/BikingNews/Armed-Oz-cops-crash-biker-dens-20130312)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2339/c0f6f793f5d846538d7ae7738d3ed1d5.jpg)
 
 ### Related:
 

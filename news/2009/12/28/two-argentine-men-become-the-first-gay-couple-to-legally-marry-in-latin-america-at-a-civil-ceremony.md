@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8433240.stm)
 2. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/21127)
+2. [Cover Image](/files/imagenes//2010/13992_parejagay.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [VG](http://www.vg.no/rampelys/artikkel.php?artid=10044458)
+1. [Cover Image](https://1.vgc.no/drpublish/images/article/2010/08/20/20979572/1/765x469/Her_tar_Hans_Morten_verdensrekorden_i_maraton_standup.jpg)
 
 ### Related:
 

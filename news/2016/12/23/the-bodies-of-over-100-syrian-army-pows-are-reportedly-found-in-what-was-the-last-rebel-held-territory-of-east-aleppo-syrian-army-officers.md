@@ -8,6 +8,7 @@ BEIRUT, LEBANON (10:40 P.M.) - The jihadist rebels of Fatah Halab and Jabhat Fat
 ### Source:
 
 1. [Al-Masdar News](https://www.almasdarnews.com/article/graphic-18-rebels-massacre-100-hostages-leaving-east-aleppo/)
+1. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2016/11/Aleppo-civilians-exit.jpg)
 
 ### Related:
 

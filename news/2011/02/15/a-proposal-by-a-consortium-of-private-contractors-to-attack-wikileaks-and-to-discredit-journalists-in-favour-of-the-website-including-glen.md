@@ -8,6 +8,7 @@ The computer hackers&#039; collective Anonymous has uncovered a proposal by a co
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/americas/the-us-bank-and-the-secret-plan-to-destroy-wikileaks-2215059.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/02/14/20/556306.bin)
 
 ### Related:
 

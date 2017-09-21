@@ -8,6 +8,7 @@ The U.S. 4x400m relay team that won gold at the Sydney Games in 2000 have been s
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSL272397020080802)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080802&t=2&i=5405889&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-08-02T073636Z_01_L2723970_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

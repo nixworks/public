@@ -8,6 +8,7 @@ Microsoft Chairman and founder Bill Gates said Thursday he plans to step away fr
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/13348456/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/060615/060615_gates_vmed_2p.standard.jpg)
 
 ### Related:
 

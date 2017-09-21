@@ -8,6 +8,7 @@ The opposition-led parliament says the move will be rejected by Venezuelans.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-40983115)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/EA28/production/_97444995_mediaitem97444994.jpg)
 
 ### Related:
 

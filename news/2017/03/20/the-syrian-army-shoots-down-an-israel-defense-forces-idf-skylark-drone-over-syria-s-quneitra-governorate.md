@@ -8,6 +8,7 @@ Military says no immediate fear classified info could be retrieved from UAV down
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/idf-confirms-israeli-drone-shot-down-in-syria/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/07/skylark-e1383481325699.jpg)
 
 ### Related:
 

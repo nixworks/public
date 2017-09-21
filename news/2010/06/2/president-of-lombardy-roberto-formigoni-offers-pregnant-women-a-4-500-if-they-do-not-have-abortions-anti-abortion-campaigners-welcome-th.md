@@ -9,6 +9,7 @@ Pregnant women in northern Italy who face economic hardship are to be offered mo
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10214872.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7142150.ece)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

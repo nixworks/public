@@ -9,6 +9,7 @@ The violence comes after 10 tourists were killed on Tuesday in a suicide bombing
 
 1. [BBC](http://www.bbc.com/news/world-europe-35308750)
 2. [Middle East Eye](http://www.middleeasteye.net/news/5-killed-dozens-injured-pkk-attack-southeast-turkey-206412125)
+2. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/Bombing%20Suruc.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Federal Bureau of Investigation carried out a raid on a Republican fundraisi
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-05-11/republican-fundraising-firm-in-maryland-raided-by-fbi-reports)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iu9mEVB9AZP0/v0/1200x800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ivory Coast ex-President Laurent Gbagbo denies charges of crimes against humanit
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-35424653#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/33E6/production/_87968231_87968230.jpg)
 
 ### Related:
 

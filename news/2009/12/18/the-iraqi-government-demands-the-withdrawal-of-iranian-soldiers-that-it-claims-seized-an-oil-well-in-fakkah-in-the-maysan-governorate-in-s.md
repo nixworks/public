@@ -11,6 +11,7 @@ Baghdad says Iranian troops crossed border to seize disputed southern oil well.
 2. [CNN](http://edition.cnn.com/2009/WORLD/meast/12/18/iran.iraq.oil.well/index.html)
 3. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=266833)
 4. [NYT](http://www.nytimes.com/2009/12/20/world/middleeast/20iraq.html)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

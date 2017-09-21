@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Korean Daily News](http://english.chosun.com/site/data/html_dir/2009/05/29/2009052900510.html)
+1. [Cover Image](http://english.chosun.com/site/data/img_dir/2009/05/29/2009052900468_0.jpg)
 
 ### Related:
 

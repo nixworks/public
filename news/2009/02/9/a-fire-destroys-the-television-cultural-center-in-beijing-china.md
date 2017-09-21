@@ -8,6 +8,7 @@ A fierce blaze started by an illegal fireworks show engulfed one of the Chinese 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/02/10/world/asia/10beijing.html?ref=world)
+1. [Cover Image](https://static01.nyt.com/images/2009/02/09/world/09beijing-75.jpg)
 
 ### Related:
 

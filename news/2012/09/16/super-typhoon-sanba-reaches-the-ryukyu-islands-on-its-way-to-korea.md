@@ -11,6 +11,7 @@
 2. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120916p2a00m0na008000c.html)
 3. [NPR](http://www.npr.org/blogs/thetwo-way/2012/09/14/161142510/did-you-know-a-super-typhoon-is-heading-for-asia)
 4. [Times Online](http://www.timesonline.com/news/world/asia/typhoon-brings-blackouts-floods-to-southern-japan/article_5211eb7a-5920-5e2c-8a1e-684c2eb6f818.html)
+4. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

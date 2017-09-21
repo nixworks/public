@@ -8,6 +8,7 @@ The London Mayor says he did not want to go against David Cameron but after &quo
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1645982/boris-johnson-backs-campaign-to-leave-eu)
+1. [Cover Image](http://e3.365dm.com/16/02/1600x900/gettyimages-511563226-1-2048x1536_3419426.jpg?20160221194619)
 
 ### Related:
 

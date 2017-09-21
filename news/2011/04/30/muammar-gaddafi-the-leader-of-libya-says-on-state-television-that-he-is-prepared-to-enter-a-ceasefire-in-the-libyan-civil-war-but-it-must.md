@@ -13,6 +13,7 @@ Libyan leader Colonel Muammar Gaddafi says no-one can force him to leave his cou
 4. [BBC](http://www.bbc.co.uk/news/world-africa-13251570)
 5. [New York Times](http://www.nytimes.com/2011/05/01/world/africa/01libya.html?_r=1)
 6. [The Hindu](http://www.thehindu.com/news/international/article1981333.ece)
+6. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52430000/jpg/_52430359_52430358.jpg)
 
 ### Related:
 

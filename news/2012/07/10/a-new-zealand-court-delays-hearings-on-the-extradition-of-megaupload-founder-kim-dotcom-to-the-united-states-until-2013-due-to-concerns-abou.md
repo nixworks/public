@@ -8,6 +8,7 @@ A New Zealand court has delayed an extradition hearing for internet tycoon and M
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/10/net-us-megaupload-extradition-idUSBRE86901Y20120710)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120710&t=2&i=628391467&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86902YF00)
 
 ### Related:
 

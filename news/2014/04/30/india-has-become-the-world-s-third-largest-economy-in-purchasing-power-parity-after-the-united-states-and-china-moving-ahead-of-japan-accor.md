@@ -8,6 +8,7 @@ Purchasing Power Parity is used to compare economies and incomes of people by ad
 ### Source:
 
 1. [Times of India](http://economictimes.indiatimes.com/news/economy/indicators/india-displaces-japan-to-become-third-largest-world-economy-in-terms-of-ppp-world-bank/articleshow/34392694.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-34392838,width-672,resizemode-4,imglength-191366/news/economy/indicators/india-displaces-japan-to-become-third-largest-world-economy-in-terms-of-ppp-world-bank/india-displaces-japan-to-become-third-biggest-economy-in-terms-of-ppp-world-bank.jpg)
 
 ### Related:
 

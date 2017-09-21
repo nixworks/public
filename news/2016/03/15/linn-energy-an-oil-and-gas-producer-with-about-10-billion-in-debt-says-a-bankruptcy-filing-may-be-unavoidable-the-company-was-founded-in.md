@@ -8,6 +8,7 @@ Linn Energy LLC said on Tuesday thatbankruptcy may be unavoidable as the oil-and
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/lnn-going-concern-idUSL2N16N17N)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

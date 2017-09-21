@@ -9,6 +9,7 @@ A new government report released by the Centers for Disease Control and Preventi
 
 1. [Daily Mail](http://www.dailymail.co.uk/health/article-3370965/Twin-birth-rate-hits-new-high-drop-higher-multiples.html)
 2. [Science World Report](http://www.scienceworldreport.com/articles/35043/20151223/twin-birth-rate-in-u-s-hits-historic-high.htm)
+2. [Cover Image](http://images.scienceworldreport.com/data/images/full/2147/scottish-mothers-beats-all-odds-and-gives-birth-to-third-set-of-twins.jpg)
 
 ### Related:
 

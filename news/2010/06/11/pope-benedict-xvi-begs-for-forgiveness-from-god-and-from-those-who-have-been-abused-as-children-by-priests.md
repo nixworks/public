@@ -11,6 +11,7 @@ Pope Benedict made his humblest plea for forgiveness yet for the paedophile prie
 2. [RTÉ](http://www.rte.ie/news/2010/0611/abuse.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/vaticancityandholysee/7821412/Pope-issues-fresh-apology-for-paedophile-priest-scandals.html)
 4. [The New York Times](http://www.nytimes.com/2010/06/12/world/europe/12pope.html?src=mv)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01614/pope_1614003a.jpg)
 
 ### Related:
 

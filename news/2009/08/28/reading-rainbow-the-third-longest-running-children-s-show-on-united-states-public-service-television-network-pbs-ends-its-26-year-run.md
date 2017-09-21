@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=112312561)
+1. [Cover Image](https://media.npr.org/assets/artslife/arts/2009/08/readingrainbow_wide-dac6e69084dcda1eebafb47b7f2c9008cffb8c9d.jpg?s=1400)
 
 ### Related:
 

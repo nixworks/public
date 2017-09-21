@@ -8,6 +8,7 @@ Islamic State fighters in Syria said on Monday they had taken control of a gas f
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2014/11/03/mideast-crisis-homs-idINKBN0IN0ET20141103)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141103&t=2&i=988423426&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEAA206J)
 
 ### Related:
 

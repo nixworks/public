@@ -8,6 +8,7 @@ Fighting&#x20;raged&#x20;in&#x20;a&#x20;key&#x20;town&#x20;in&#x20;western&#x20;
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20110328-ivory-coast-gbagbo-ouattara-fighters-dawn-raid-duekoue-western-town)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/cote-divoire_1.jpg)
 
 ### Related:
 

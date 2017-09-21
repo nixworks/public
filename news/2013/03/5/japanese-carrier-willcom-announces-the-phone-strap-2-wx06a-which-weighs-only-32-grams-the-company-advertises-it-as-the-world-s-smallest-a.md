@@ -8,6 +8,7 @@ Japanese carrier Willcom has just announced the Phone Strap 2 WX06A, which it ca
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2013/3/5/4066102/willcom-phone-strap-2-wx06a-minature-phone-worlds-smallest-and-lightest-handset)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/2GI9rtA5iLlUk8dY1RpF3U-SJIU=/0x55:590x387/1600x900/cdn0.vox-cdn.com/imported_assets/1482495/phone-strap-2-590x442.jpg)
 
 ### Related:
 

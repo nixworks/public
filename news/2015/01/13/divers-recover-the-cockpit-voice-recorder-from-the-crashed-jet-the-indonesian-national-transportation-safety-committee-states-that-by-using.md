@@ -8,6 +8,7 @@ Indonesian Navy confirms the cockpit voice recorder from the AirAsia plane that 
 ### Source:
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-01-13/divers-retrieve-airasia-cockpit-voice-recorder/6014360?WT.mc_id=newsmail)
+1. [Cover Image](http://www.abc.net.au/news/image/6014702-1x1-700x700.jpg)
 
 ### Related:
 

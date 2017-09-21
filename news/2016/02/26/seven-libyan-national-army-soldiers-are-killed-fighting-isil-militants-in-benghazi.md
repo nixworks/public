@@ -8,6 +8,7 @@ Seven soldiers were killed on Friday in clashes with Islamist militants in the e
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-libya-security-idUKKCN0VZ2V5)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160226&t=2&i=1120622995&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1P1MF)
 
 ### Related:
 

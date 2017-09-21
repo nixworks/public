@@ -8,6 +8,7 @@ After week of strikes and demonstrations, South American country cancels decree 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011116339693721.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/1/20111164547920797_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ MELTING ICE is pouring off Greenland and Antarctica into the sea far faster than
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/world-news/europe/ancient-glaciers-are-disappearing-faster-than-ever-1895217.html)
+1. [Cover Image](http://www.independent.ie/migration_catalog/Getty_Editorial/article25094639.ece/ALTERNATES/h342/moon_getty)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-thailand-politics-yingluck-idUSKCN1B603U)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170826&t=2&i=1198650564&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7P02H)
 
 ### Related:
 

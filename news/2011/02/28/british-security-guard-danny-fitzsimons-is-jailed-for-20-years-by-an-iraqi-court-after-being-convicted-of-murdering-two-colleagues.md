@@ -8,3 +8,4 @@ British security guard Danny Fitzsimons is jailed for 20 years by an Iraqi court
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-12594245)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

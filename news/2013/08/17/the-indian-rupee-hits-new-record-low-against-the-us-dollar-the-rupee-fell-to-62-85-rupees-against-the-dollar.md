@@ -8,6 +8,7 @@ The rupee hit a record low on Monday as defence of the currency failed to stop i
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2013/08/19/markets-rupee-dollar-idINDEE97I01R20130819)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130819&t=2&i=768429907&w=&fh=545px&fw=&ll=&pl=&sq=&r=CDEE97I0UWQ00)
 
 ### Related:
 

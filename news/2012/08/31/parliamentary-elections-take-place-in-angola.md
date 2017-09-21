@@ -8,6 +8,7 @@ Second election since end of 27-year civil war likely to keep Eduardo dos Santos
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/08/2012830194249415936.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/31/2012831104550219580_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2015/05/25/southchinasea-china-usa-complaint-idINKBN0OA0DX20150525)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150525&t=2&i=1050992783&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB4O05T)
 
 ### Related:
 

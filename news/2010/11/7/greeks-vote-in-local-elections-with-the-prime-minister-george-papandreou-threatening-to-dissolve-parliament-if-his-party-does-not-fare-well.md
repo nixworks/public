@@ -10,6 +10,7 @@
 1. [AP via ''Beaver County Times](http://www.timesonline.com/bct_news/news_details/article/1373/2010/november/07/crisis-hit-greece-votes-under-threat-of-snap-poll.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/201011731637126716.html)
 3. [The Observer](http://www.guardian.co.uk/world/2010/nov/07/angry-greeks-prepare-to-vote-on-austerity)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/7/20101174172992580_20.jpg)
 
 ### Related:
 

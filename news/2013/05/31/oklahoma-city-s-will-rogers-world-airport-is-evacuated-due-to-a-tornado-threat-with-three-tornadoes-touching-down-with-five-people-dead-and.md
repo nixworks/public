@@ -9,6 +9,7 @@ Deadly storm bore down on an interstate highway as commuters tried to beat it ho
 
 1. [CNN](http://www.cnn.com/2013/05/31/us/severe-weather/index.html)
 2. [USA Today](http://www.usatoday.com/story/weather/2013/05/31/tornado-oklahoma/2378497/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

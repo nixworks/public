@@ -9,6 +9,7 @@
 
 1. [Dailymail](http://www.dailymail.co.uk/news/article-146572/Teenager-killed-vicious-knife-gang.html)
 2. [Peter Borough Today](http://www.peterboroughtoday.co.uk/news/local/murdered_ross_parker_remembered_10_years_on_1_3077380)
+2. [Cover Image](http://res.cloudinary.com/jpress/image/fetch/w_300,f_auto,ar_3:2,c_fill/http://www.peterboroughtoday.co.uk/webimage/1.3077377.1316682211!/image/1970559989.jpg)
 
 ### Related:
 

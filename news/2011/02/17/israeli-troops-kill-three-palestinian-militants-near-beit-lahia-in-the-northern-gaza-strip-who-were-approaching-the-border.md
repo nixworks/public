@@ -10,6 +10,7 @@ Israeli army says three men working on shore were trying to plant bomb near secu
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121775215281864.html)
 2. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=208636)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4029953,00.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/17/2011217152346971965_20.jpg)
 
 ### Related:
 

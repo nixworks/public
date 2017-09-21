@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-35593009)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2016/02/17/71/0301000000AEN20160217006700315F.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5E60/production/_88306142_031507594-1.jpg)
 
 ### Related:
 

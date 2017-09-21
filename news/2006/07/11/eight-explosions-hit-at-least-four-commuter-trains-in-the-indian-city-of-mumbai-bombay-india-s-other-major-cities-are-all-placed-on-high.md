@@ -12,6 +12,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 3. [Rediff](http://in.rediff.com/news/2006/jul/11train.htm)
 4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-07-11T181703Z_01_SP141887_RTRUKOC_0_US-INDIA-BLAST.xml)
 5. [Zee News](http://www.zeenews.com/articles.asp?aid=308478&sid=NAT&ssid=)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

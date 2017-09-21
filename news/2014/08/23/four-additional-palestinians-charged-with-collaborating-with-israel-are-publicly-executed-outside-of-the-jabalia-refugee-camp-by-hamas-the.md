@@ -9,6 +9,7 @@ Tayeb Abdel Rahim calls killings of suspected collaborators with Israel &#8216;c
 
 1. [The Guardian](http://www.theguardian.com/world/2014/aug/23/israel-admits-mortar-bomb-not-fired-un-school)
 2. [Times of Israel](http://www.timesofisrael.com/pa-official-says-hamas-executions-like-isis/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/08/Screen-Shot-2014-08-22-at-10.00.36-PM-e1408733806792.png)
 
 ### Related:
 

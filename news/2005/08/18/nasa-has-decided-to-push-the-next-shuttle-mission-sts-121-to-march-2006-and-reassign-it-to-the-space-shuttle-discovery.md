@@ -8,6 +8,7 @@ Because of the repercussions of the shuttle Discovery&#39;s fuel tank problems, 
 ### Source:
 
 1. [MSNBC](http://msnbc.msn.com/id/8989072/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/050817/050817_shuttledelay_hmed6p.standard.jpg)
 
 ### Related:
 

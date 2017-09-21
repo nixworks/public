@@ -14,6 +14,7 @@ NBC News projects that Republicans will retain their majority in the U.S. House 
 5. [NBC News](http://www.nbcnews.com/feature/in-plain-sight/minimum-wage-hikes-where-voters-gave-themselves-raise-n241616)
 6. [NBC News](http://www.nbcnews.com/politics/elections/nbc-news-republicans-projected-retain-house-majority-n241386)
 7. [Washington Post](http://www.washingtonpost.com/politics/senate-control-at-stake-in-todays-midterm-elections/2014/11/04/e882353e-642c-11e4-bb14-4cfea1e742d5_story.html?wpisrc=al_comboPN)
+7. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2014_45/751026/141104-130204_boehner-1922_5be4081d92991e8b4459355556795b1e.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

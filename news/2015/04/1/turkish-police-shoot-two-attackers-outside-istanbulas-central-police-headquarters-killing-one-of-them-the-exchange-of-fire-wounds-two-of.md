@@ -8,6 +8,7 @@ Attack comes day after Turkish prosecutor taken hostage dies in police shootout 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/apr/01/turkish-police-shoot-attackers-outside-headquarters)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/1/1427903850281/7e9b6da8-56c3-4b8a-8f0b-2dbb45997ce1-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=ebc11c576cf752461ccd1e8a47e87e70)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Fernando Lugo, diagnosed with lymphoma, plans to carry on with business as usual
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010870281523314.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10900677)
 3. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/41477)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

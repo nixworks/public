@@ -8,6 +8,7 @@ Three US soldiers are killed by a gunman wearing uniform in the province of Helm
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19205894)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62186000/jpg/_62186675_62183811.jpg)
 
 ### Related:
 

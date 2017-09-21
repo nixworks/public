@@ -8,6 +8,7 @@ Tens of thousands of Syrian Kurds have flooded into Turkey, prompting an appeal 
 ### Source:
 
 1. [AFP, ''New York Times'' via ''Sydney Morning Herald](http://www.smh.com.au/world/thousands-of-syrian-kurds-flee-isil-onslaught-20140921-10jw9v.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/3/g/8/t/d/image.related.articleLeadwide.620x349.10jw9v.png/1411268310517.jpg)
 
 ### Related:
 

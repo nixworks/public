@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35019302)
 2. [Reuters](http://www.reuters.com/article/us-yemen-security-governor-idUSKBN0TP05K20151206?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/38B4/production/_87061541_87061022.jpg)
 
 ### Related:
 

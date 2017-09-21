@@ -9,6 +9,7 @@ A disaster situation has been declared for the town of Mitchell in western Queen
 
 1. [The Age](http://www.theage.com.au/queensland/disaster-declared-in-western-queensland-20120202-1qujc.html)
 2. [The Australian](http://www.theaustralian.com.au/news/nation/flood-evacuation-warning-for-nsw-towns/story-e6frg6nf-1226260478443)
+2. [Cover Image](http://images.theage.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

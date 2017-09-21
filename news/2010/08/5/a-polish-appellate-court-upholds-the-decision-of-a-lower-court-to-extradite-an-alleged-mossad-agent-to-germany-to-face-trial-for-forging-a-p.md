@@ -11,6 +11,7 @@ A Polish appeals court upholds a decision to hand over to Germany an alleged Isr
 2. [BBC](http://www.bbc.co.uk/news/world-europe-10883014)
 3. [Haaretz](http://www.haaretz.com/news/international/suspected-mossad-agent-loses-extradition-fight-over-dubai-hit-1.306209)
 4. [Press TV](http://www.presstv.ir/detail.aspx?id=137583&sectionid=351020605)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

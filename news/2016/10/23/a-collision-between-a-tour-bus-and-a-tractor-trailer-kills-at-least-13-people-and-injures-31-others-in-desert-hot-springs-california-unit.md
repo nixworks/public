@@ -8,3 +8,4 @@
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-tour-bus-20161023-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-580d1d0e/turbine/la-me-tour-bus-20161023-snap)

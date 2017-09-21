@@ -8,6 +8,7 @@ THE power of Cyclone Olwyn is now being felt in WA’s North West — and the st
 ### Source:
 
 1. [Perth Now](http://www.perthnow.com.au/news/western-australia/cyclone-olwyn-could-reach-170kmh-and-intensify-to-a-category-3-storm/story-fnhocxo3-1227259684409)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/3700d10a540e61c9af16d8712e55aea1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least three people died and 13 were injured after a powerful gas explosion ri
 ### Source:
 
 1. [RT](https://www.rt.com/news/363787-ryazan-house-gas-blast/)
+1. [Cover Image](https://img.rt.com/files/2016.10/article/580c6d39c36188282f8b4591.jpg)
 
 ### Related:
 

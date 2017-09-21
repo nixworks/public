@@ -8,6 +8,7 @@ Britain&#39;s National Crime Agency on Thursday said it has broken up an organiz
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2014/01/16/britain-philippines-child-abuse-online/4504911/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

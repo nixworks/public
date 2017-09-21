@@ -8,6 +8,7 @@ WikiLeaks founder Julian Assange has accused the Federal Government of helping t
 ### Source:
 
 1. [ABC News and Current Affairs](http://www.abc.net.au/news/stories/2011/02/14/3137972.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/1940158-1x1-700x700.jpg)
 
 ### Related:
 

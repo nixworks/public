@@ -11,6 +11,7 @@ Russian news reports are saying a unit of the nation’s military has arrived in
 2. [CNN](http://www.cnn.com/2012/03/19/world/meast/syria-unrest/?hpt=hp_c1)
 3. [Fox News](http://www.foxnews.com/world/2012/03/19/russian-troops-reportedly-enter-syria/)
 4. [The Guardian](http://www.guardian.co.uk/world/2012/mar/19/syria-leaked-document-assads-role?newsfeed=true)
+4. [Cover Image](http://a57.foxnews.com/video.foxnews.com/thumbnails/031912/640/360/0/0/031912_vittert_syria_640.jpg?ve=1)
 
 ### Related:
 

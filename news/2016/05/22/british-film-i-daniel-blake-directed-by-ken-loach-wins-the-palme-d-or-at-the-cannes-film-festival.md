@@ -8,6 +8,7 @@ All the awards at the 69th Cannes film festival, as it happens, with Ken Loachâ€
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/film/live/2016/may/22/cannes-2016-palme-dor-winners-live)
+1. [Cover Image](https://i.guim.co.uk/img/media/c127c5712357fcdb1f3dc684c92aad417d8d1ef2/0_0_3827_2298/3827.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=dc7a7bb2c00ebf6de596e8f3604559bb)
 
 ### Related:
 

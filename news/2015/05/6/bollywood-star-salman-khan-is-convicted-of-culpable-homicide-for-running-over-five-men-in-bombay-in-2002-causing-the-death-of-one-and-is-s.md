@@ -8,6 +8,7 @@ Bollywood star Salman Khan is jailed for five years for killing a homeless man i
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-32603596?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82801000/jpg/_82801357_82801353.jpg)
 
 ### Related:
 

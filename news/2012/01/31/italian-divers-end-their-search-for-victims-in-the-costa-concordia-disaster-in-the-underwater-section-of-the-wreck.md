@@ -8,6 +8,7 @@ Italian divers have abandoned their search for bodies inside the wrecked cruise 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16826269)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-europe-16826269A/playlist.sxml)
 
 ### Related:
 

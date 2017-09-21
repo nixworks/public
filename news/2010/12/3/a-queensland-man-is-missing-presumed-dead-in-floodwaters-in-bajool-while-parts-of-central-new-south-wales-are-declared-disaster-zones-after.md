@@ -8,6 +8,7 @@ There are concerns flood waters have claimed the life of a man in Queensland, as
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/12/04/3084618.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2362348-1x1-700x700.jpg)
 
 ### Related:
 

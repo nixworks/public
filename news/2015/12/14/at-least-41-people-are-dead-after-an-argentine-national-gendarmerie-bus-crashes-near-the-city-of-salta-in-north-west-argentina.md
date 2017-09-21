@@ -9,6 +9,7 @@ At least 41 people, most of them police officers, are killed after a bus falls o
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/41-gendarmes-die-bus-crash-northern-argentina-35752859)
 2. [BBC](http://www.bbc.com/news/world-latin-america-35093063)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/0D83/production/_87195430_666a8584-c6e2-4e2c-a657-3e1d5d4e2e04.jpg)
 
 ### Related:
 

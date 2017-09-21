@@ -19,6 +19,7 @@ Police believe they have found the body of a gunman suspected of shooting 12 peo
 10. [The Guardian](http://www.guardian.co.uk/uk/2010/jun/02/gunman-sought-person-shot-dead-whitehaven)
 11. [The Times](http://www.timesonline.co.uk/tol/news/uk/crime/article7142413.ece#cid=OTC-RSS&attr=797084)
 12. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13330977.htm)
+12. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/47978000/jpg/_47978373_splash.jpg)
 
 ### Related:
 

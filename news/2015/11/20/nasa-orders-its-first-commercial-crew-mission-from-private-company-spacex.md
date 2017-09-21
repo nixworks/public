@@ -8,6 +8,7 @@ NASA has officially ordered its first commercial crew mission from private space
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2015/11/20/9772564/spacex-iss-nasa-astronaut-crewed-mission-announced)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/AmBiu6wQqUWPthcESBpJE5KA8Vc=/0x84:969x629/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47708667/17324793792_2dd13ea3f3_o__1_.0.0.jpg)
 
 ### Related:
 

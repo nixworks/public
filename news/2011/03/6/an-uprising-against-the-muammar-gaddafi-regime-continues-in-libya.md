@@ -17,6 +17,7 @@ Intense gunfire was heard in the center of the Libyan capital Tripoli before daw
 8. [The Guardian](http://www.guardian.co.uk/world/2011/mar/06/sas-diplomatic-mission-in-libya)
 9. [The Guardian](http://www.guardian.co.uk/world/blog/2011/mar/06/arab-and-middle-east-protests-libya)
 10. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/06/c_13764110.htm)
+10. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Video/110304/tdy_engel_libya_110304.standard.jpg)
 
 ### Related:
 

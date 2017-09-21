@@ -29,6 +29,7 @@ The aging jet was taking a delegation to a ceremony marking the 70th anniversary
 20. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/10/c_13245614.htm)
 21. [lenta.ru; ''Russian](http://lenta.ru/news/2010/04/10/cause/)
 22. [Вести; ''Russian](http://www.vesti.ru/)
+22. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/100410-crash-hmed-2p.standard.jpg)
 
 ### Related:
 

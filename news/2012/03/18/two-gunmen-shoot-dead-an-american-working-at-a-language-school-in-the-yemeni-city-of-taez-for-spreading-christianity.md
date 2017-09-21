@@ -8,6 +8,7 @@ Gunmen on motorbikes kill man believed to have been a language teacher in southe
 ### Source:
 
 1. [AFP via Al-Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/201231873142476900.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/18/2012318161234267734_20.jpg)
 
 ### Related:
 

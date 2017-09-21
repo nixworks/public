@@ -10,6 +10,7 @@ Over 3,000 schools are closed and transport is disrupted as a band of heavy snow
 1. [BBC](http://www.bbc.co.uk/news/uk-21071608)
 2. [BBC](http://www.bbc.co.uk/news/uk-england-21088484)
 3. [Bloomberg](http://www.bloomberg.com/news/2013-01-18/london-heathrow-cancels-160-flights-as-snow-sweeps-across-u-k-.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65364000/jpg/_65364644_65364643.jpg)
 
 ### Related:
 

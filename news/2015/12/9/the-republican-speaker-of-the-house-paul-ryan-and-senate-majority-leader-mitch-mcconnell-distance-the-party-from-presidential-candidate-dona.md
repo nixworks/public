@@ -9,6 +9,7 @@ Pentagon Press Secretary Peter Cook insists that the U.S. is not at war with Isl
 
 1. [CNN](http://www.cnn.com/2015/12/08/politics/paul-ryan-trump-comments-not-who-we-are-as-a-party/)
 2. [Politico](http://www.politico.com/story/2015/12/pentagon-muslim-rhetoric-donald-trump-islamic-state-216560)
+2. [Cover Image](http://s3-origin-images.politico.com/2015/06/19/150619_peter_cook_gty_1160.jpg)
 
 ### Related:
 

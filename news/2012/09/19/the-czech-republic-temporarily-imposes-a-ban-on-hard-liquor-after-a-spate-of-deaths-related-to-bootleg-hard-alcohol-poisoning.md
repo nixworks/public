@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/09/czech-alcohol-ban-poisonings-controversy.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef017744da10ba970d-120pi)
 
 ### Related:
 

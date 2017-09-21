@@ -8,6 +8,7 @@ Eighteen inmates were killed and a prison guard shot and wounded during a prison
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2010/11/10/3061954.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

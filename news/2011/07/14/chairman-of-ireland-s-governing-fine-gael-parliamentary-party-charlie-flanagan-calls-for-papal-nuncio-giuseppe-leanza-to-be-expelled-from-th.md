@@ -8,6 +8,7 @@ The chairman of the Fine Gael parliamentary party has called for the expulsion o
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0714/cloyne.html)
+1. [Cover Image](https://img.rasset.ie/0004c8e4-1600.jpg)
 
 ### Related:
 

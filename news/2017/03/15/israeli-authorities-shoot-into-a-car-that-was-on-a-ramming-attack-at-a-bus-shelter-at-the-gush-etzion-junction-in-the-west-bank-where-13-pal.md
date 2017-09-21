@@ -9,6 +9,7 @@
 
 1. [Fars](http://en.farsnews.com/newstext.aspx?nn=13951227000378)
 2. [Jewish Press](http://www.jewishpress.com/news/israel/ramming-attack-foiled-at-gush-etzion-junction/2017/03/15/)
+2. [Cover Image](http://www.jewishpress.com/wp-content/uploads/GUSH-ETZION-JUNCTION-SHIMI-LEVY.jpg)
 
 ### Related:
 

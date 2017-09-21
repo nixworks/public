@@ -13,6 +13,7 @@ Capping one of the tightest races in recent Academy Awards history, director Ste
 4. [Reuters](http://in.reuters.com/article/2014/03/03/us-oscars-foreignlanguage-idINBREA2205120140303)
 5. [Reuters](http://www.reuters.com/article/2014/03/03/oscars-bestactor-idUSW1N0BP02D20140303)
 6. [euronews](http://www.euronews.com/2014/03/03/oscars-2014-gravity-dominate-awards-as-12-years-a-slave-takes-best-film/)
+6. [Cover Image](http://www.trbimg.com/img-53140c07/turbine/la-et-oscars-2014-12-years-slave-wins-best-picture-20140226)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Chinese vessel leaking oil after running aground on the Great Barrier Reef.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/2010445364139321.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

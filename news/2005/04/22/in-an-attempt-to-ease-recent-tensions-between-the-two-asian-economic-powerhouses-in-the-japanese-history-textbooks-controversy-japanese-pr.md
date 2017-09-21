@@ -12,6 +12,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=9&id=335039)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8260899)
 5. [Telegraph UK](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/04/23/wjapan23.xml&sSheet=/news/2005/04/23/ixnewstop.html)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

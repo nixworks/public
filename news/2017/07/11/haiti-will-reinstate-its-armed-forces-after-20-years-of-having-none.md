@@ -8,6 +8,7 @@ The recruitment drive follows the announcement that the UN is leaving Haiti.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-40576545)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/5699/production/_96896122_c837a4ef-5d08-41e9-a8df-01010814f068.jpg)
 
 ### Related:
 

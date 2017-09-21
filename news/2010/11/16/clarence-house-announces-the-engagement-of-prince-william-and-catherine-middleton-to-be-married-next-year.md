@@ -8,6 +8,7 @@ Prince William is to marry long-term girlfriend Kate Middleton next year after t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11765422)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/50003000/jpg/_50003502_010658420-2.jpg)
 
 ### Related:
 

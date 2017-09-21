@@ -8,6 +8,7 @@ The five banks involved in setting the London benchmark gold price have been acc
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/03/05/us-gold-fix-idUSBREA240R620140305)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140305&t=2&i=854380644&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA240U9600)
 
 ### Related:
 

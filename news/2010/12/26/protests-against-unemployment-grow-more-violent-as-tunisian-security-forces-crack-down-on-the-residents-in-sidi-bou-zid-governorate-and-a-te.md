@@ -9,6 +9,7 @@ Clashes erupt between security forces and residents in Sidi Bouzid amid wave of 
 
 1. [Ahram Online](http://english.ahram.org.eg/NewsContent/2/8/2639/World/Region/Clashes-continue-across-Tunisia.aspx)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010122682433751904.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/28/20101228191429392811_20.jpg)
 
 ### Related:
 

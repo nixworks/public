@@ -12,6 +12,7 @@ World and Arab powers are urging Syria to immediately cease all violence but hav
 3. [DPA via ''Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/world-powers-demand-ceasefire-in-syria-20120225-1tuq8.html)
 4. [Press TV](http://www.presstv.ir/detail/228192.html)
 5. [Voice of America](http://www.voanews.com/english/news/middle-east/Tunis-Conference-Aims-to-Pressure-Syrias-Assad-on-Aid-Political-Change-140246613.html)
+5. [Cover Image](http://images.brisbanetimes.com.au/2011/08/09/2545353/facebook-thumb-brisbanetimes.png)
 
 ### Related:
 

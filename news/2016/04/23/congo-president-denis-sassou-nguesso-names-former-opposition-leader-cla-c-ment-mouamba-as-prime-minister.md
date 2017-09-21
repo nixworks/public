@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-congo-politics-idUSKCN0XL005?il=0)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160424&t=2&i=1134236119&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3N00A)
 
 ### Related:
 

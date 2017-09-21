@@ -8,6 +8,7 @@ FEMA now says money could last through the week
 ### Source:
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/us-senate-reaches-deal-to-avoid-government-shutdown/article2180972/)
+1. [Cover Image](http://static.theglobeandmail.ca/48e/incoming/article888427.ece/ALTERNATES/w620/fema927.jpeg)
 
 ### Related:
 

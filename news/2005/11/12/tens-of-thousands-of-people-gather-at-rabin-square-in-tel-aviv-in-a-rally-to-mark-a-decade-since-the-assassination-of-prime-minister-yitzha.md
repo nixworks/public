@@ -8,6 +8,7 @@ Masses gather in Tel Aviv for emotional memorial ceremony to mark 10 years since
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3168038,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

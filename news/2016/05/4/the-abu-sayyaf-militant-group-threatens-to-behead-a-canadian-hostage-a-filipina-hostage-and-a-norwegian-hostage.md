@@ -8,6 +8,7 @@ Video shows captives from Canada, Norway and the Philippines begging governments
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/may/03/philippines-militants-hostage-video-abu-sayyaf-canada-norway)
+1. [Cover Image](https://i.guim.co.uk/img/media/8c988a03e8d46523a5ee4296dc26ad5f60ef2d5e/0_0_4096_2458/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=20eee947b1d9ba71b9731fd6994e1e0f)
 
 ### Related:
 

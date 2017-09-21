@@ -8,6 +8,7 @@ Uruguay’s vice president quit on Saturday, hours before a planned meeting of p
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-09-09/uruguay-vp-quits-ahead-of-party-meeting-on-alleged-funds-misuse)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYM6auo4t00I/v0/1200x795.jpg)
 
 ### Related:
 

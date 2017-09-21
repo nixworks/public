@@ -1,0 +1,26 @@
+### [2004-08-30](/news/2004/08/30/index.md)
+
+#  Election dispute in Chechnya: After leading rival Malik Saidullayev was disqualified on a technicality. Alu Alkhanov, supported by Russian President Vladimir Putin, wins in a landslide. US and EU dispute results. 
+
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+
+
+### Source:
+
+1. [NYT](http://www.nytimes.com/2004/08/30/international/europe/30CND-CHEC.html)
+2. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=574493&section=news)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6096967)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Related:
+
+1. [ The President of France Nicolas Sarkozy travels to Moscow to meet with the President of Russia Vladimir Putin to discuss a broad range of policies including Kosovo, Chechnya, and Iran. ](/news/2007/10/9/the-president-of-france-nicolas-sarkozy-travels-to-moscow-to-meet-with-the-president-of-russia-vladimir-putin-to-discuss-a-broad-range-of-p.md) _Context: Chechnya, Vladimir Putin_
+2. [ Russian journalist Anna Politkovskaya, famous for her criticism of President Vladimir Putin and his government's actions in Chechnya, is found murdered in Moscow. ](/news/2006/10/7/russian-journalist-anna-politkovskaya-famous-for-her-criticism-of-president-vladimir-putin-and-his-government-s-actions-in-chechnya-is-fo.md) _Context: Chechnya, Vladimir Putin_
+3. [ Conflict in Russia (Chechnya): Russian President Vladimir Putin's government offers 300 million rubles (USD 10 million) for information leading to the arrest of Chechen rebel leaders Shamil Basayev and Aslan Maskhadov. Maskhadov was the last democratically elected leader of Chechnya. ](/news/2004/09/8/conflict-in-russia-chechnya-russian-president-vladimir-putin-s-government-offers-300-million-rubles-usd-10-million-for-information-lea.md) _Context: Chechnya, Vladimir Putin_
+4. [ Alu Alkhanov is confirmed as the winner of the presidential election in Chechnya, with 73.68 percent of the vote. ](/news/2004/09/1/alu-alkhanov-is-confirmed-as-the-winner-of-the-presidential-election-in-chechnya-with-73-68-percent-of-the-vote.md) _Context: Alu Alkhanov, Chechnya_
+5. [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cyber security unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cyber-security-unit-so-that-elec.md) _Context: Vladimir Putin_
+6. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Vladimir Putin_
+7. [Russian President Vladimir Putin appoints Vasily Nebenzya to be the new Permanent Representative of Russia to the United Nations following the sudden death of Vitaly Churkin in February. ](/news/2017/07/27/russian-president-vladimir-putin-appoints-vasily-nebenzya-to-be-the-new-permanent-representative-of-russia-to-the-united-nations-following-t.md) _Context: Vladimir Putin_
+8. [Philippine President Rodrigo Duterte, who later had to cut short his visit to Moscow because of terrorist attacks on the Philippine southern island of Mindanao, tells Russia President Vladimir Putin that the Philippines is looking to Russia for modern arms to fight ISIL. ](/news/2017/05/22/philippine-president-rodrigo-duterte-who-later-had-to-cut-short-his-visit-to-moscow-because-of-terrorist-attacks-on-the-philippine-southern.md) _Context: Vladimir Putin_
+9. [Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The "Novaya Gazeta" newspaper reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. ](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men-in-chechnya-including-television-personalities-and-religious-figures-for-nontraditional.md) _Context: Chechnya_
+10. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Vladimir Putin_

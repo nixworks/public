@@ -8,6 +8,7 @@ Floods and mudslides from heavy rains in northern Brazil have driven more than 1
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/30588909/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090505-Brazil-floods-6p.standard.jpg)
 
 ### Related:
 

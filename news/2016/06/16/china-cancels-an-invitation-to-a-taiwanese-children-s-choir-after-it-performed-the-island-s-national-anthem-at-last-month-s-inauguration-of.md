@@ -10,6 +10,7 @@
 1. [AP](http://bigstory.ap.org/article/0e78184955664314a5a332c431822211/report-china-cancels-visit-kids-who-sang-taiwan-anthem)
 2. [BBC](http://www.bbc.com/news/world-asia-china-36547305)
 3. [The New York Times](http://www.nytimes.com/2016/06/17/world/asia/china-taiwan-puzangalan-choir.html?_r=0)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/0ADB/production/_89997720_childrenschoirafp.jpg)
 
 ### Related:
 

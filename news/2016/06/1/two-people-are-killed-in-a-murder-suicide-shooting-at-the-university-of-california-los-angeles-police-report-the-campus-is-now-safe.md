@@ -10,6 +10,7 @@ Victim described as popular teacher, devoted family man.
 1. [LA Times](http://www.latimes.com/local/lanow/la-me-ln-ucla-shooting-20160601-snap-story.html)
 2. [The New York Times](http://www.nytimes.com/2016/06/02/us/ucla-shooting.html)
 3. [USA Today](http://www.usatoday.com/story/news/2016/06/01/police-check-reports-shooter-ucla/85245782/)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Roma (Gypsies) block a major road near Bordeaux in protest after hundreds of the
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10982129)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5911704,00.html?maca=en-rss-en-all-1573-rdf)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

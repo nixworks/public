@@ -8,6 +8,7 @@ BEIJING (Reuters) - China expelled a disgraced senior aide to former President H
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/news/asia/east-asia/story/top-china-advisory-body-cppcc-ousts-former-top-hu-jintao-aide-ling-jihua-2)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/02/28/jdchi28e_2x.jpg?itok=RuYfk-v1)
 
 ### Related:
 

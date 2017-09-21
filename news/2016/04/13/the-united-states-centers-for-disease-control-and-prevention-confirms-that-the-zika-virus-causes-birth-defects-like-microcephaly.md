@@ -8,6 +8,7 @@ The Centers for Disease Control and Prevention (CDC) said Wednesday evening that
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/health/2016/04/13/cdc-says-its-now-clear-that-zika-virus-causes-microcephaly.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2016/04/13/cdc-says-its-now-clear-that-zika-virus-causes-microcephaly/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1460581457204.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Islamist movements say elections &quot;illegal,&quot; designed to favor Fatah.
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=176326)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=140342)
 
 ### Related:
 

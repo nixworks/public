@@ -9,6 +9,7 @@ Rejecting UN famine claims, opposition group says it will not allow certain supp
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/201172291538656428.html)
 2. [CBC News](http://www.cbc.ca/news/world/story/2011/07/22/famine-funding.html?ref=rss)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/22/2011722103230552734_20.jpg)
 
 ### Related:
 

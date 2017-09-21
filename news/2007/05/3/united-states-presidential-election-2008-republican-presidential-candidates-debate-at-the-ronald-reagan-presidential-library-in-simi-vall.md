@@ -8,6 +8,7 @@ Republican presidential candidates gave a qualified endorsement Thursday night t
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/18466314/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/070503/070503_debate_hmed_7p.standard.jpg)
 
 ### Related:
 

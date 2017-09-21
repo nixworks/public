@@ -11,6 +11,7 @@ Former Bond girl Michelle Yeoh is barred from entering Burma after making a film
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13938359)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/8602489/Bond-girl-Michelle-Yeoh-deported-from-Burma-over-Aung-San-Suu-Kyi-role.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/jun/28/michelle-yeoh-deported-burma-film)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53727000/jpg/_53727735_assk_afp.jpg)
 
 ### Related:
 

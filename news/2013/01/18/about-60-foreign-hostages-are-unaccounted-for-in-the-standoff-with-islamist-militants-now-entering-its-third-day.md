@@ -12,6 +12,7 @@ Hundreds of hostages have been freed from militants at a gas facility in Algeria
 3. [New York Daily News](http://www.nydailynews.com/news/world/algeria-hostage-crisis-continues-fighting-article-1.1242432)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/algeria/9811841/Algeria-hostage-crisis-militant-group-wanted-to-trade-US-hostages-for-Blind-Sheikh.html)
 5. [USA Today](http://www.usatoday.com/story/news/world/2013/01/18/algeria-hostage-crisis/1844217/)
+5. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65374000/jpg/_65374043_65374042.jpg)
 
 ### Related:
 

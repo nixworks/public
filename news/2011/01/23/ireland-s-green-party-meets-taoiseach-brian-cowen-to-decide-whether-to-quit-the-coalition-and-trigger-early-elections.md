@@ -19,6 +19,7 @@ The Greens in the Republic of Ireland are to decide whether to leave the coaliti
 10. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0123/breaking18.html)
 11. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0123/breaking33.html)
 12. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704213404576099760598195684.html)
+12. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

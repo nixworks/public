@@ -9,6 +9,7 @@ According to NBC News, fugitive drug lord Joaquin &#8220;El Chapo&#8221; Guzman 
 
 1. [CNN](http://edition.cnn.com/2015/10/17/americas/mexico-el-chapo-injured/)
 2. [The Yucatan Times](http://www.theyucatantimes.com/2015/10/el-chapo-wounded-but-not-caught-after-mexican-armed-forces-operation/)
+2. [Cover Image](http://www.theyucatantimes.com/wp-content/uploads/2015/07/El-chapo-wanted.png)
 
 ### Related:
 

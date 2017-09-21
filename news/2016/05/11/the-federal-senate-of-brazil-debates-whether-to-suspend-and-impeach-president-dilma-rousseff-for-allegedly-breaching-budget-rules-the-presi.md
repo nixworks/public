@@ -9,6 +9,7 @@
 
 1. [India.Com](http://www.india.com/news/world/brazils-senate-debates-impeaching-cornered-dilma-rousseff-1178928/)
 2. [New York Times](http://www.nytimes.com/reuters/2016/05/10/world/americas/10reuters-brazil-politics.html?ref=world&_r=0)
+2. [Cover Image](http://www.india.com/wp-content/uploads/2016/01/dilma1.jpg)
 
 ### Related:
 

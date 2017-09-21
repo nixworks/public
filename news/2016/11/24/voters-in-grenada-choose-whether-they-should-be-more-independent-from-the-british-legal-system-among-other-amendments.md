@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Jamaica Observer](http://www.jamaicaobserver.com/news/Grenadians-vote-on-referendum-today_81407)
+1. [Cover Image](http://www.jamaicaobserver.com/assets/12584981/181353__w400.jpg)
 
 ### Related:
 

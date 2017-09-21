@@ -9,6 +9,7 @@
 
 1. [Huffington Post](http://www.huffingtonpost.com/entry/hawaii-dengue-emergency_us_56b92060e4b04f9b57dadece)
 2. [Reuters](http://www.reuters.com/article/us-hawaii-dengue-idUSKCN0VI0G2)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160209&t=2&i=1116257054&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1815W)
 
 ### Related:
 

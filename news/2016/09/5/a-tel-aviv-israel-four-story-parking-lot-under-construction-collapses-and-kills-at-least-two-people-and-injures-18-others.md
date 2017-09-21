@@ -8,6 +8,7 @@ Multi-story parking garage gives way, injuring 23 in Ramat Hahayal neighborhood;
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.740303)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.740411.1473090244!/image/2349077637.jpg_gen/derivatives/headline_1200x630/2349077637.jpg)
 
 ### Related:
 

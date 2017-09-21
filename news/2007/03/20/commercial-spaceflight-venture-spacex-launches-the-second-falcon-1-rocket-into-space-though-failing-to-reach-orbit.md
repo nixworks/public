@@ -8,6 +8,7 @@ The second test launch of the privately-built Falcon 1 rocket failed to reach it
 ### Source:
 
 1. [Space.com](http://www.space.com/missionlaunches/070320_spacex_falc1_test2.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMi8zMjgvb3JpZ2luYWwvMDcwMzIwX2ZhbGMxX3NlcF8wMi5qcGc=)
 
 ### Related:
 

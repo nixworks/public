@@ -8,6 +8,7 @@ Thirty-five militants and a soldier have died in fighting in the restive Khyber 
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/35-militants-1-soldier-killed-in-Pakistan-clashes/articleshow/20507089.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

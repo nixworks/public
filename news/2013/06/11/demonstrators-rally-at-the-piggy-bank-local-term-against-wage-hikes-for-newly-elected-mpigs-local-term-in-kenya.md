@@ -9,6 +9,7 @@ Demonstrators douse themselves in animal blood after parliamentarians decide to 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/06/2013611163115482543.html)
 2. [The Washington Post](http://www.washingtonpost.com/world/africa/kenyan-protesters-spill-cow-blood-as-parliamentarians-_-or-mpigs-_-push-for-more-pay-again/2013/06/11/f400f538-d2ad-11e2-b3a2-3bf5eb37b9d0_story.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/11/2013611171957232734_20.jpg)
 
 ### Related:
 

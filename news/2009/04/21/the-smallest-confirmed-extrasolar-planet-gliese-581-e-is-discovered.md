@@ -8,6 +8,7 @@ The lightest exoplanet yet discovered &#8212; only about twice the mass of Earth
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/30325498/)
+1. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090421-space-exoplanet-hmed-830a.standard.jpg)
 
 ### Related:
 
@@ -19,5 +20,5 @@ The lightest exoplanet yet discovered &#8212; only about twice the mass of Earth
 6. [ Astronomers announce the discovery of the Earth-like exoplanet Gliese 581 c, which may support liquid water and is potentially habitable. ](/news/2007/04/25/astronomers-announce-the-discovery-of-the-earth-like-exoplanet-gliese-581-c-which-may-support-liquid-water-and-is-potentially-habitable.md) _Context: extrasolar planet_
 7. [ Traces of water vapor are reported to have been found in the atmosphere of HD 209458 b, a first for extrasolar planets. ](/news/2007/04/11/traces-of-water-vapor-are-reported-to-have-been-found-in-the-atmosphere-of-hd-209458-b-a-first-for-extrasolar-planets.md) _Context: extrasolar planet_
 8. [ The French Space Agency (CNES) spacecraft COROT was successfully launched in Baikonur Cosmodrome in Kazakhstan at 14:28 UTC (GMT+4) to search for extrasolar planets.](/news/2006/12/27/the-french-space-agency-cnes-spacecraft-corot-was-successfully-launched-in-baikonur-cosmodrome-in-kazakhstan-at-14-28-utc-gmt-4-to-sear.md) _Context: extrasolar planet_
-9. [ Astronomers detect the presence of oxygen and carbon in the atmosphere of the extrasolar planet HD 209458 b (Osiris), known to be venting gas into space.](/news/2004/02/3/astronomers-detect-the-presence-of-oxygen-and-carbon-in-the-atmosphere-of-the-extrasolar-planet-hd-209458-b-osiris-known-to-be-venting-g.md) _Context: extrasolar planet_
-10. [ NASA reports the discovery of PSR B1620-26 b (unofficially dubbed "Methuselah"), the oldest extrasolar planet yet discovered. The planet, which is estimated to be 12.7 billion years old, is orbiting the pulsar PSR B1620-26 in the core of the ancient globular star cluster M4, located 5,600 light-years away in the summer constellation Scorpius.](/news/2003/07/10/nasa-reports-the-discovery-of-psr-b1620-26-b-unofficially-dubbed-methuselah-the-oldest-extrasolar-planet-yet-discovered-the-planet-w.md) _Context: extrasolar planet_
+9. [ The two smallest extrasolar planets ever discovered are announced: one orbiting 55 Cancri in the constellation Cancer, and another orbiting Gliese 436 in the constellation Leo. They are both around the size of Neptune. ](/news/2004/08/31/the-two-smallest-extrasolar-planets-ever-discovered-are-announced-one-orbiting-55-cancri-in-the-constellation-cancer-and-another-orbiting.md) _Context: extrasolar planet_
+10. [ Astronomers announce the discovery of a third extrasolar planet orbiting Mu Arae. The planet may be the first rocky world detected orbiting a star other than the Sun.](/news/2004/08/25/astronomers-announce-the-discovery-of-a-third-extrasolar-planet-orbiting-mu-arae-the-planet-may-be-the-first-rocky-world-detected-orbiting.md) _Context: extrasolar planet_

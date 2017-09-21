@@ -9,6 +9,7 @@ At least seven people, including a gunman, have died in a shooting at a Sikh tem
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19138754)
 2. [CNN](http://edition.cnn.com/2012/08/05/us/wisconsin-temple-shooting/index.html?hpt=hp_t1)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62060000/jpg/_62060414_62060413.jpg)
 
 ### Related:
 
@@ -17,3 +18,4 @@ At least seven people, including a gunman, have died in a shooting at a Sikh tem
 3. [Police in Oak Creek, Wisconsin investigate a shooting incident at a Sikh temple which left seven people dead, including the gunman. ](/news/2012/08/6/police-in-oak-creek-wisconsin-investigate-a-shooting-incident-at-a-sikh-temple-which-left-seven-people-dead-including-the-gunman.md) _Context: Oak Creek_
 4. [A Sikh man is given a life sentence in Vienna, Austria, for murdering Rama Nand, a leader of the Dera Sach Khand sect in 2009; five other Indian-born defendants are given sentences of various lengths. ](/news/2010/09/28/a-sikh-man-is-given-a-life-sentence-in-vienna-austria-for-murdering-rama-nand-a-leader-of-the-dera-sach-khand-sect-in-2009-five-other-in.md) _Context: Sikh_
 5. [Two of three Sikhs kidnapped in Khyber Agency on the Afghan border in January are recovered by Pakistan's security forces. The decapitated corpse of the other was found last week. ](/news/2010/03/1/two-of-three-sikhs-kidnapped-in-khyber-agency-on-the-afghan-border-in-january-are-recovered-by-pakistan-s-security-forces-the-decapitated-c.md) _Context: Sikh_
+6. [ Lieutenant General Joginder Jaswant Singh is named the next chief of army staff of the Indian Army. He will be the first Sikh to become the chief. ](/news/2004/11/27/lieutenant-general-joginder-jaswant-singh-is-named-the-next-chief-of-army-staff-of-the-indian-army-he-will-be-the-first-sikh-to-become-the.md) _Context: Sikh_

@@ -9,6 +9,7 @@ Scott Kelly has officially spent more time in space than any other American.
 
 1. [NASA](https://www.nasa.gov/feature/scott-kelly-becomes-us-astronaut-to-spend-the-most-time-living-in-space)
 2. [NBC News](http://www.nbcnews.com/tech/tech-news/astronaut-scott-kelly-sets-another-record-time-space-n453876)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_17/989856/scottkelly_2629471405e6c9f0c26f2ebba2a13239.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

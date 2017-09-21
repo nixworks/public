@@ -8,6 +8,7 @@ A ruling by a judge in Trinidad brings three men one step closer to Brooklyn and
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/08/07/nyregion/07jfk.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/08/07/nyregion/jfk75.jpg)
 
 ### Related:
 

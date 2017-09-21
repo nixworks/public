@@ -8,6 +8,7 @@ At least ten people have died in fighting between police and demonstrators in a 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/kazakhstan/8961356/Ten-die-in-fighting-between-police-and-demonstrators-in-Kazakhstan.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02087/kaz_2087016a.jpg)
 
 ### Related:
 

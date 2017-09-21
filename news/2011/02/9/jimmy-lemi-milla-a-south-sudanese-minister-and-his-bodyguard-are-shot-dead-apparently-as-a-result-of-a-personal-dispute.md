@@ -8,6 +8,7 @@ Jimmy Lemi Milla, minister for cooperatives and reural development, shot dead al
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201129133511388343.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/5/20112518740102811_20.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Counting is under way in Kenya after a poll on political reform which seems to h
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10856761)
 3. [CNN](http://edition.cnn.com/2010/WORLD/africa/08/04/kenya.elections/index.html?hpt=T2)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE6730EN20100804)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

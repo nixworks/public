@@ -8,6 +8,7 @@ Peacekeepers to stay another year as war estimated to have taken five million li
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/africa/2011/06/201163065513179256.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/30/201163065432552734_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 1. [Dallas News](http://www.dallasnews.com/sharedcontent/dws/bus/stories/062204dnbusmusuits.cd39b.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=5484693)
 3. [newsfactor.com](http://www.newsfactor.com/story.xhtml?story_title=RIAA-Sues-----More-File-Sharers-in-Anti-Piracy-Onslaught&story_id=25532#story-start)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

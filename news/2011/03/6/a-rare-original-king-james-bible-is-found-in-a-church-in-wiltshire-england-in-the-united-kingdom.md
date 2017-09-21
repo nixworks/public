@@ -8,6 +8,7 @@ A rare original King James Bible printed in 1611 has been discovered on a shelf 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-wiltshire-12647043)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

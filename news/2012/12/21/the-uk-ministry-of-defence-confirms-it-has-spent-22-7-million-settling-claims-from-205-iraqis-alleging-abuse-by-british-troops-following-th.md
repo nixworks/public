@@ -8,6 +8,7 @@ Ministry of Defence has spent $22.7m settling claims from 205 Iraqis who alleged
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/20121221144431944878.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/21/2012122115186696734_20.jpg)
 
 ### Related:
 

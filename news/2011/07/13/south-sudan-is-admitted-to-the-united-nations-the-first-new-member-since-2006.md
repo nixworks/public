@@ -8,6 +8,7 @@ The United Nations General Assembly votes unanimously to accept South Sudan as i
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-africa-14151390)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54076000/jpg/_54076735_012451391-1.jpg)
 
 ### Related:
 

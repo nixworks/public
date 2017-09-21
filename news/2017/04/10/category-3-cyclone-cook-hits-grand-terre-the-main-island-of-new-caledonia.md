@@ -9,6 +9,7 @@ People in northern parts of New Caledonia are told to stay indoors as Cyclone Co
 
 1. [ABC](http://www.abc.net.au/news/2017-04-10/cyclone-cook-hits-new-caledonia/8431952)
 2. [Stuff.co.nz](http://www.stuff.co.nz/world/south-pacific/91430832/category-three-cyclone-cook-hits-new-caledonia)
+2. [Cover Image](http://www.abc.net.au/news/image/8431942-1x1-700x700.jpg)
 
 ### Related:
 

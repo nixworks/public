@@ -9,6 +9,7 @@ US commander Odierno says 4,000 troops will be sent home by the end October.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/09/20099307597965129.html)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/29/AR2009092904133.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

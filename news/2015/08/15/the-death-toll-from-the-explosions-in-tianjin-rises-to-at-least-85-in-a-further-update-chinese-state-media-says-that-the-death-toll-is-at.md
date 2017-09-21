@@ -10,6 +10,7 @@ Everyone within three kilometres of blast site in China urged to get out amid fe
 1. [AFP, AP, via ''The Daily Telegraph](http://www.dailytelegraph.com.au/news/world/death-toll-from-tianjin-fireball-still-rising-as-authorities-struggle-to-understand-the-cause-of-the-blast/story-fni0xs63-1227484728649)
 2. [AP via MSN](http://www.msn.com/en-us/news/world/death-toll-in-china-blasts-at-104/ar-BBlLRWY?ocid=spartanntp)
 3. [The Guardian](http://www.theguardian.com/world/2015/aug/15/tianjin-blasts-police-order-mass-evacuations-amid-further-explosions)
+3. [Cover Image](https://i.guim.co.uk/img/media/2e3b0c82e72bcac9708d6271362a024eec1dbd9f/0_37_4270_2562/master/4270.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=260685275db77d3dfae7b2e7bdee25b3)
 
 ### Related:
 

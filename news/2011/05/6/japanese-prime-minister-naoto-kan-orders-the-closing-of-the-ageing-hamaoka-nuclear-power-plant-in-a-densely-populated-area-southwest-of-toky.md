@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/06/japan.nuclear/index.html)
 2. [The Australian](http://www.theaustralian.com.au/news/world/japan-pm-naoto-kan-orders-shutdown-of-nuclear-plant-near-faultline/story-e6frg6so-1226051468854)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/06/japan.nuclear/tzvids.hamaoka.plant.gi.jpg)
 
 ### Related:
 

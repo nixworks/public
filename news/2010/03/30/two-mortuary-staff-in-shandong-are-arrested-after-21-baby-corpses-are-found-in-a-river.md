@@ -11,6 +11,7 @@ TWO senior hospital staff and two mortuary workers have been fired in eastern Ch
 2. [China Daily](http://www.chinadaily.com.cn/photo/2010-03/30/content_9662611.htm)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/China-Babies-21-Bodies-Found-In-River-Two-Mortuary-Staff-At-Hospital-In-Shandong-Arrested/Article/201003415588688?lpos=World_News_First_World_News_Article_Teaser_Region_1&lid=ARTICLE_15588688_China_Babies%3A_21_Bodies_Found_In_River%2C_Two_Mortuary_Staff_At_Hospital_In_Shandong_Arrested)
 4. [news.com.au](http://www.news.com.au/world/bodies-of-21-infants-found-in-river/story-e6frfkyi-1225847756194)
+4. [Cover Image](http://cdn.newsapi.com.au/image/v1/3d093145e068eba6411d4fe1c2ee87b7)
 
 ### Related:
 

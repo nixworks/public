@@ -9,6 +9,7 @@ A group of &#39;murderous misfits&#39; planned to massacre as many people as pos
 
 1. [CBC](http://www.cbc.ca/news/canada/nova-scotia/randall-steven-shepherd-lindsay-kantha-souvannarath-charged-in-halifax-shooting-plot-1.2957685)
 2. [Reuters via News24](http://www.news24.com/news24/World/News/Canadian-misfits-planned-Valentines-Day-massacre-20150214)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/297/53dd6dc5f93e43499cd34be7540ad0ef.jpg)
 
 ### Related:
 

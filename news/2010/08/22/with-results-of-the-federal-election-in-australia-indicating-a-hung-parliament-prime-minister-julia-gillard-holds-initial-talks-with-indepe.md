@@ -9,6 +9,7 @@ Australian Prime Minister Julia Gillard contacts independent candidates as she b
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/20108228112312201.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11050525)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

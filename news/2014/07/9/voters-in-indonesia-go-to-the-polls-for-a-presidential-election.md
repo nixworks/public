@@ -8,6 +8,7 @@ Indonesia&#039;s benchmark share gauge rose to highest level in weeks, and the r
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-07-09/indonesian-markets-watch-presidential-poll/5584050)
+1. [Cover Image](http://www.abc.net.au/news/image/5584052-1x1-700x700.jpg)
 
 ### Related:
 

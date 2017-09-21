@@ -8,6 +8,7 @@ A deal is done between the three main political parties for a Royal Charter cove
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-24498662)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/70434000/jpg/_70434521_getty.jpg)
 
 ### Related:
 

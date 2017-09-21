@@ -8,6 +8,7 @@ The ambitious desert emirate of Dubai has claimed another first, this time in th
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/newstopics/howaboutthat/5153780/Worlds-first-cloned-camel-unveiled-in-Dubai.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01383/camel_1383558a.jpg)
 
 ### Related:
 

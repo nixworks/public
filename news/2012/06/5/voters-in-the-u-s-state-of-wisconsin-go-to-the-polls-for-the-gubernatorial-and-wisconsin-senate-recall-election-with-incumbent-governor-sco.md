@@ -11,6 +11,7 @@ RACINE &mdash; In a crucial election that swings control of the state Senate to 
 2. [CBS News](http://www.cbsnews.com/8301-503544_162-57447954-503544/wisconsin-recall-walker-opens-slight-lead-as-votes-are-counted/)
 3. [Journal Times](http://www.journaltimes.com/news/local/govt-and-politics/elections/as-republicans-see-victory-wanggaard-in-razor-thin-lead-over/article_90a8c3ae-af76-11e1-ba46-0019bb2963f4.html)
 4. [Madison.com](http://host.madison.com/ct/news/local/govt-and-politics/politiscope/madison-politiscope-democrats-claim-the-state-senate---does/article_debae2ee-afa2-11e1-803d-0019bb2963f4.html)
+4. [Cover Image](http://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/c/ad/cad87cb4-afa7-11e1-96a6-0019bb2963f4/4fcf044566e1a.preview-620.jpg?crop=620%2C349%2C0%2C0&amp;resize=620%2C349&amp;order=crop%2Cresize)
 
 ### Related:
 

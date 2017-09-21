@@ -8,6 +8,7 @@ An earthquake rattled central Oklahoma tonight, reportedly damaging multiple bui
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/earthquake-hits-oklahoma-damage-reported/story?id=43348131)
+1. [Cover Image](http://a.abcnews.com/images/US/HT-oklahoma-earthquake-01-as-1161106_16x9_992.jpg)
 
 ### Related:
 

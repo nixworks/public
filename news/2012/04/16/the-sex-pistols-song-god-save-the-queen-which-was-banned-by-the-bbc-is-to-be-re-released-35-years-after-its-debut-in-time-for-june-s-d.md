@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17725902)
 2. [The New York Times](http://artsbeat.blogs.nytimes.com/2012/04/16/sex-pistols-to-reissue-god-save-the-queen/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59673000/jpg/_59673927_004727825-1.jpg)
 
 ### Related:
 

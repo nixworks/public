@@ -8,6 +8,7 @@ A cargo ship contracted by the U.S Military Sealift Command fired &quot;a few bu
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/24312230/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Video/080425/n_iran_boat_080425.standard.jpg)
 
 ### Related:
 

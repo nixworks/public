@@ -11,6 +11,7 @@ A senior Defense official told NBC News Monday that an American infrared satelli
 2. [NBC News](http://www.nbcnews.com/storyline/russian-plane-crashes-in-the-sinai/satellite-shows-heat-flash-when-russian-metrojet-plane-crashed-no-n456161)
 3. [Reuters](http://www.reuters.com/article/2015/11/02/us-egypt-crash-russia-airline-fault-idUSKCN0SR12O20151102)
 4. [Voice of America](http://www.voanews.com/content/crash-victims-bodies-return-to-russia/3032663.html)
+4. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_45/1287121/151102-ss-151031-russia-plane-crash-11-1826_56d7e86a7e46cd5fb72a3dc7bfa17af2.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

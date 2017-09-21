@@ -8,6 +8,7 @@ Apple Inc and Samsung Electronics Co Ltd agreed that their chief executives woul
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/04/17/us-apple-samsung-lawsuit-idUSBRE83G19W20120417)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120417&t=2&i=595916092&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE83G1GVO00)
 
 ### Related:
 

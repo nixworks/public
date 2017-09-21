@@ -8,6 +8,7 @@ French Green party candidate Yannick Jadot has said he will support Socialist pr
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/french-green-candidate-jadot-drops-from-presidential-race/a-37696085)
+1. [Cover Image](http://www.dw.com/image/37239827_304.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/idUSN1625957320101216)
 2. [Vancouver Sun](http://www.vancouversun.com/news/Mackenzie+pipeline+gets+approved/3989170/story.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

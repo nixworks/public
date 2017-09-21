@@ -9,6 +9,7 @@ An envelope addressed to Senator Roger Wicker of Mississippi showed positive res
 
 1. [NBC News](http://usnews.nbcnews.com/_news/2013/04/16/17783383-letter-sent-to-us-senator-tests-positive-for-deadly-poision)
 2. [The New York Times](http://www.nytimes.com/2013/04/17/us/politics/toxic-ricin-detected-on-mail-sent-to-senator.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

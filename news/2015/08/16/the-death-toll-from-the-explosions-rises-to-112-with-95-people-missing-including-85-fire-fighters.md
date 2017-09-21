@@ -9,6 +9,7 @@ Nearly 100 people missing from Tianjin blasts, including 85 firefighters, offici
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/fears-missing-firefighters-china-toll-climbs-150816040329059.html)
 2. [Reuters](http://www.reuters.com/article/2015/08/16/us-china-blast-idUSKCN0QL03920150816)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/8/16/287578dbb85241feae8c774d366f879b_18.jpg)
 
 ### Related:
 

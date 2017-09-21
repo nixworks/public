@@ -8,6 +8,7 @@ France has banned the breeding of killer whales and dolphins in captivity. Campa
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/france-ban-captive-breeding-killer-whales-dolphins-a7722701.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/07/14/dophins.jpg)
 
 ### Related:
 

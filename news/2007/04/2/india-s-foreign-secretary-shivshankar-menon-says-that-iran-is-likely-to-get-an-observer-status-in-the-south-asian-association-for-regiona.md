@@ -9,6 +9,7 @@ Iran is set to be the new observer at Saarc and, apart from the UN, may end up s
 
 1. [IHT](http://www.iht.com/articles/ap/2007/04/01/asia/AS-GEN-India-SAARC-Iran.php)
 2. [Times of India](http://timesofindia.indiatimes.com/NEWS/India/Iran_to_be_observer_at_Saarc_meet/articleshow/1839676.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

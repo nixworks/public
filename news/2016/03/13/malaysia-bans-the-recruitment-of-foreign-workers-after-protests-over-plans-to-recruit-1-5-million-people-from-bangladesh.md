@@ -8,6 +8,7 @@ Malaysia banned the recruitment of new foreign workers after widespread criticis
 ### Source:
 
 1. [Economic Times](http://economictimes.indiatimes.com/news/international/world-news/malaysia-bans-recruitment-of-foreign-workers/articleshow/51374006.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-51374029,width-672,resizemode-4,imglength-95433/news/international/world-news/malaysia-bans-recruitment-of-foreign-workers/corporate-workforce_reuters.jpg)
 
 ### Related:
 

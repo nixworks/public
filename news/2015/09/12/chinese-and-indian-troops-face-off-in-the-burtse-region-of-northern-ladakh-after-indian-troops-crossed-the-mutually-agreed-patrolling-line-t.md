@@ -8,6 +8,7 @@ According to officials, the Chinese troops had built a temporary hut in Burtse, 
 ### Source:
 
 1. [Economic Times](http://economictimes.indiatimes.com/news/defence/india-china-troops-face-off-near-line-of-actual-control-in-ladakh/articleshow/48937565.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-48937571,width-672,resizemode-4,imglength-54704/news/defence/india-china-troops-face-off-near-line-of-actual-control-in-ladakh/india-china-troops-face-off-near-lac-in-ladakh.jpg)
 
 ### Related:
 

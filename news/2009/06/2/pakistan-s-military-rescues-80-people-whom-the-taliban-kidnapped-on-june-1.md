@@ -8,6 +8,7 @@ Pakistani soldiers Tuesday rescued scores of students and staff from a military-
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSISL35626520090602)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090602&t=2&i=10345932&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-02T112759Z_01_BTRE54U0LOV00_RTROPTP_0_PAKISTAN-VIOLENCE-COMMANDER)
 
 ### Related:
 

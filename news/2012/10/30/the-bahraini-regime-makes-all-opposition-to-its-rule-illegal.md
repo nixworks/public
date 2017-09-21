@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012103093735935103.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20135218)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63791000/jpg/_63791798_63791797.jpg)
 
 ### Related:
 

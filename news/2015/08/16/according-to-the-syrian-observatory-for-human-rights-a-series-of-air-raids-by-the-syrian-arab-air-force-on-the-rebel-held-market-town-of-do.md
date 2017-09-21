@@ -12,6 +12,7 @@ At least 80 people have died after government air strikes on a marketplace in th
 3. [Reuters](http://www.reuters.com/article/2015/08/16/us-mideast-crisis-syria-idUSKCN0QL0E320150816)
 4. [The International Business Times](http://www.ibtimes.co.uk/douma-air-strike-80-people-dead-attack-by-syrias-military-rebel-held-town-1515698)
 5. [Xinhua](http://news.xinhuanet.com/english/2015-08/16/c_134523422.htm)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8554/production/_84923143_84923142.jpg)
 
 ### Related:
 

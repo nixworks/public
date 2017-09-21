@@ -8,6 +8,7 @@ Darfur rebels have accused the Sudanese Government of bombing South Darfur, the 
 ### Source:
 
 1. [Reuters via ABC News Online](http://www.abc.net.au/news/stories/2007/08/31/2020230.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

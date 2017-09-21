@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/NewsTrack/Top_News/2007/06/03/girlkiller_suspect_on_most_wanted_list/3563/)
+1. [Cover Image](//www.upi.com/img/upi-fb.png)
 
 ### Related:
 

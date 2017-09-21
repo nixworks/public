@@ -9,6 +9,7 @@ Concern is growing in China for relatives and friends of blind activist Chen Gua
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-17885372)
 2. [Hindustan Times](http://www.hindustantimes.com/world-news/China/China-police-detain-friend-of-fugitive-activist/Article1-847965.aspx)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

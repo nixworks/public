@@ -8,6 +8,7 @@ HYDERABAD, India - At least 800 people have died in a major heatwave that has sw
 ### Source:
 
 1. [AFP via AsiaOne](http://news.asiaone.com/news/asia/india-heatwave-kills-800-capitals-roads-melt)
+1. [Cover Image](http://news.asiaone.com/sites/default/files/original_images/May2015/20150526_india_afp.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/19/us-astrazeneca-pfizer-idUSBREA3R0H520140519)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140519&t=2&i=898073638&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA460M4L00)
 
 ### Related:
 

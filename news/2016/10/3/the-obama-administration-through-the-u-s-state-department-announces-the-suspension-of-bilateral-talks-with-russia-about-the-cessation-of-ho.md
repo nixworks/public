@@ -9,6 +9,7 @@ The U.S. announced it has suspended bilateral talks with Russia on a cease-fire 
 
 1. [CNN](http://www.cnn.com/2016/10/03/politics/us-suspends-talks-with-russia-over-syria/)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/10/03/US-suspends-bilateral-talks-with-Russia-on-Syria-cease-fire/8361475518169/?spt=hs&or=tn_int)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/8361475518169/2016/1/cf2be0ca3247bf59edfdea3a87bd7068/v1.5/US-suspends-talks-with-Russia-on-Syria-cease-fire.jpg)
 
 ### Related:
 

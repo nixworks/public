@@ -9,6 +9,7 @@ Contrary to rampant speculation, NASA&#039;s Mars rover Curiosity has not made a
 
 1. [CBS News](http://www.cbsnews.com/8301-205_162-57556453/mars-rover-curiosity-continues-drilling-amid-rumors/)
 2. [Space.com](http://www.space.com/18697-mars-rover-curiosity-discovery-rumors.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyMy8zNDcvb3JpZ2luYWwvY3VyaW9zaXR5LXNlbGYtcG9ydHJhaXQtaGktcmVzLmpwZw==)
 
 ### Related:
 

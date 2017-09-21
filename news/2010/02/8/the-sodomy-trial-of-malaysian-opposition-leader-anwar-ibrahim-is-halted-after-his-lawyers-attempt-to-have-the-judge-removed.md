@@ -10,6 +10,7 @@ Proceedings halted as lawyers for opposition leader seeks to remove presiding ju
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/20102882054509647.html)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=474210)
 3. [UPI](http://www.upi.com/Top_News/International/2010/02/08/Anwar-sodomy-trial-delayed/UPI-86361265631816/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 
@@ -20,6 +21,6 @@ Proceedings halted as lawyers for opposition leader seeks to remove presiding ju
 5. [ Malaysian opposition leader Anwar Ibrahim's trial on sodomy charges of engaging in sexual intercourse with a male aide is delayed after his main defence lawyer falls ill. ](/news/2009/07/8/malaysian-opposition-leader-anwar-ibrahim-s-trial-on-sodomy-charges-of-engaging-in-sexual-intercourse-with-a-male-aide-is-delayed-after-his.md) _Context: Anwar Ibrahim, Malaysia, sodomy_
 6. [ Leader of Malaysian opposition Anwar Ibrahim is formally charged with sodomy, which he claims is a politically motivated charge. ](/news/2008/08/6/leader-of-malaysian-opposition-anwar-ibrahim-is-formally-charged-with-sodomy-which-he-claims-is-a-politically-motivated-charge.md) _Context: Anwar Ibrahim, Malaysia, sodomy_
 7. [ Malaysian opposition leader Anwar Ibrahim is arrested over allegations he sodomised a male aide. ](/news/2008/07/16/malaysian-opposition-leader-anwar-ibrahim-is-arrested-over-allegations-he-sodomised-a-male-aide.md) _Context: Anwar Ibrahim, Malaysia, sodomy_
-8. [Malaysian police arrest parliamentarian Nurul Izzah Anwar for alleged sedition. Izzah is the daughter of former Opposition Leader Anwar Ibrahim. ](/news/2015/03/16/malaysian-police-arrest-parliamentarian-nurul-izzah-anwar-for-alleged-sedition-izzah-is-the-daughter-of-former-opposition-leader-anwar-ibra.md) _Context: Anwar Ibrahim, Malaysia_
-9. [The Federal Court of Malaysia rejects opposition leader Anwar Ibrahim's appeal against sodomy charges meaning he will start serving a five-year sentence. ](/news/2015/02/10/the-federal-court-of-malaysia-rejects-opposition-leader-anwar-ibrahim-s-appeal-against-sodomy-charges-meaning-he-will-start-serving-a-five-y.md) _Context: Anwar Ibrahim, sodomy_
-10. [Malaysian opposition leader Anwar Ibrahim is sentenced to 5 years in prison for sodomy after his 2012 acquittal is overturned. ](/news/2014/03/7/malaysian-opposition-leader-anwar-ibrahim-is-sentenced-to-5-years-in-prison-for-sodomy-after-his-2012-acquittal-is-overturned.md) _Context: Anwar Ibrahim, Malaysia_
+8. [ Former Malaysian opposition leader Anwar Ibrahim is freed from jail after his sodomy conviction is overturned by the country's highest court. ](/news/2004/09/2/former-malaysian-opposition-leader-anwar-ibrahim-is-freed-from-jail-after-his-sodomy-conviction-is-overturned-by-the-country-s-highest-cour.md) _Context: Anwar Ibrahim, Malaysia, sodomy_
+9. [Malaysian police arrest parliamentarian Nurul Izzah Anwar for alleged sedition. Izzah is the daughter of former Opposition Leader Anwar Ibrahim. ](/news/2015/03/16/malaysian-police-arrest-parliamentarian-nurul-izzah-anwar-for-alleged-sedition-izzah-is-the-daughter-of-former-opposition-leader-anwar-ibra.md) _Context: Anwar Ibrahim, Malaysia_
+10. [The Federal Court of Malaysia rejects opposition leader Anwar Ibrahim's appeal against sodomy charges meaning he will start serving a five-year sentence. ](/news/2015/02/10/the-federal-court-of-malaysia-rejects-opposition-leader-anwar-ibrahim-s-appeal-against-sodomy-charges-meaning-he-will-start-serving-a-five-y.md) _Context: Anwar Ibrahim, sodomy_

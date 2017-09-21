@@ -9,6 +9,7 @@ Verdict ending police presence in universities is hailed, but government may use
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/20101023133934791518.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11613209)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/23/201010231560269150_20.jpg)
 
 ### Related:
 

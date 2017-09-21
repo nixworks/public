@@ -8,6 +8,7 @@ The first round of the Australian Open is underway at Melbourne Park.
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2009/01/19/2468973.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1011944-1x1-700x700.jpg)
 
 ### Related:
 

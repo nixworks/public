@@ -8,6 +8,7 @@ A man who led an obscure Maoist collective and allegedly held three women agains
 ### Source:
 
 1. [AP via CTV News](http://www.ctvnews.ca/world/comrade-bala-charged-with-rape-cruelty-in-u-k-enslavement-case-1.2143159)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1544932.1473449627!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

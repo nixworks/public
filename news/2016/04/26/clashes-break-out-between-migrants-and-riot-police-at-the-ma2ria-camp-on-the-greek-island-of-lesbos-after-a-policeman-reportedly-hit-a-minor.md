@@ -9,6 +9,7 @@ Clashes break out between migrants and riot police at a detention centre on the 
 
 1. [BBC](http://www.bbc.com/news/world-europe-36144267)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2016/04/26/riot-breaks-out-at-refugee-camp-on-greek-island-of-lesbos/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A59B/production/_89459324_89459315.jpg)
 
 ### Related:
 

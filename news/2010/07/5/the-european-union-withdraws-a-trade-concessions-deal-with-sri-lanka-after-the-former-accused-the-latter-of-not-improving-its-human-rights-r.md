@@ -9,6 +9,7 @@
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/south_asia/10514634.stm)
 2. [Hindustan Times](http://www.hindustantimes.com/Lanka-loses-EU-trade-concession-worth-billions/Article1-567811.aspx)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

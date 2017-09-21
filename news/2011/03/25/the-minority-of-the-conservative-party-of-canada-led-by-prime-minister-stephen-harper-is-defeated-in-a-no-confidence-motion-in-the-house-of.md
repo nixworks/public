@@ -9,6 +9,7 @@ Stephen Harper on Saturday will ask that an election be called, after opposition
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2011/03/25/pol-defeat.html)
 2. [Reuters](http://www.reuters.com/article/2011/03/25/us-canada-politics-idUSTRE72O0U820110325)
+2. [Cover Image](https://i.cbc.ca/1.2049961.1381651543!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-parliament-852-rtr2kee5.jpg)
 
 ### Related:
 

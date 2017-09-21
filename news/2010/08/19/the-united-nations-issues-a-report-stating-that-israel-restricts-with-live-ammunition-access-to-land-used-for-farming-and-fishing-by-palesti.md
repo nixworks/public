@@ -9,6 +9,7 @@ A UN report says the Israeli army has increasingly restricted Palestinian access
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11030512)
 2. [United Nations Report](http://www.ochaopt.org/documents/ocha_opt_special_focus_2010_08_19_english.pdf)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

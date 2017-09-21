@@ -8,6 +8,7 @@ Dozens of fighters from the Islamic State group were killed in Libya Saturday as
 ### Source:
 
 1. [Yahoo](http://news.yahoo.com/dozens-killed-attack-libya-agency-203406865.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/JOOLyojelQJ3pIL_eWQT7g--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/0884f98436c9d9d01961671cb0784b3161885948.jpg)
 
 ### Related:
 

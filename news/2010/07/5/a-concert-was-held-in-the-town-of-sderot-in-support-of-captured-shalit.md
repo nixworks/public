@@ -9,6 +9,7 @@ A classical concert in support of captured Israeli soldier Gilad Shalit is held 
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/middle_east/10506625.stm)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3915146,00.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

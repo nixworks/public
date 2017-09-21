@@ -8,6 +8,7 @@ SACRAMENTO — Gov. Jerry Brown signed legislation Tuesday that will make Califo
 ### Source:
 
 1. [SFgate](http://www.sfgate.com/news/article/Brown-signs-bill-requiring-childhood-vaccinations-6358317.php)
+1. [Cover Image](http://ww4.hdnux.com/photos/37/33/52/8239779/3/rawImage.jpg)
 
 ### Related:
 

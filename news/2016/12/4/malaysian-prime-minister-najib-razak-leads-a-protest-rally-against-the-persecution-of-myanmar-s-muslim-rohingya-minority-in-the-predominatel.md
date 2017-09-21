@@ -10,6 +10,7 @@ KUALA LUMPUR, Malaysia (AP) — Malaysian Prime Minister Najib Razak led a prote
 1. [AP](http://bigstory.ap.org/article/9701bb6b50ba46b3aff5ff071957ec73/malaysian-pm-leads-protest-against-genocide-rohingya)
 2. [Asian Correspondent](https://asiancorrespondent.com/2016/12/malaysia-najib-razak-pro-rohingya-rally-warning-burma/)
 3. [The Myanmar Times](http://www.mmtimes.com/index.php/national-news/24018-myanmar-tells-malaysia-not-to-interfere-in-internal-issues.html)
+3. [Cover Image](http://binaryapi.ap.org/2a57789608c44d58b064a29430d5c8aa/460x.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The brains of 99 percent of former National Football League players studied show
 1. [CNN](http://www.cnn.com/2017/07/25/health/cte-nfl-players-brains-study/index.html)
 2. [JAMA](http://jamanetwork.com/journals/jama/fullarticle/2645104)
 3. [Reuters](http://www.reuters.com/article/us-usa-nfl-cte-idUSKBN1AA2BW)
+3. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170725&t=2&i=1194374279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6O1GU)
 
 ### Related:
 

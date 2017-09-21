@@ -9,6 +9,7 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 
 1. [ (Star-Tribune](http://www.startribune.com/462/story/1338294.html)
 2. [CNN](http://www.cnn.com/2007/US/08/01/bridge.collapse/index.html)
+2. [Cover Image](http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1490813369)
 
 ### Related:
 

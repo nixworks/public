@@ -8,6 +8,7 @@ Video shows the vehicle revving its engines before launching over the top of car
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1343744/monster-truck-crash-reportedly-kills-three)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/456270064-1_3566796.jpg?20160705011735)
 
 ### Related:
 

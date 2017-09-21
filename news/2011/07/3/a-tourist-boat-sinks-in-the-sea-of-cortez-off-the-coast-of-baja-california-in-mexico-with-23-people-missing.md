@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2011/WORLD/americas/07/07/mexico.boat.capsize/index.html)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE7630TV20110704)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/07/07/mexico.boat.capsize/tzvids.baja.rescue.semar.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Colombian TV channels Caracol and RCN are the latest foreign media to be pulled 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-41041585)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/9A43/production/_97519493_mediaitem97519489.jpg)
 
 ### Related:
 

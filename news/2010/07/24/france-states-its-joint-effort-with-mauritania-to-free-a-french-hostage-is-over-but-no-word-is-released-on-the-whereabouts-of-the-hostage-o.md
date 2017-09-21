@@ -8,6 +8,7 @@ French-backed Mauritanian raid gives no news of the French hostage taken by al-Q
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010724145143658524.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

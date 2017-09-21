@@ -10,6 +10,7 @@ Nina Bawden, who wrote 48 novels including Carrie&#039;s War, and whose husband 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-19341736)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/books/booknews/9492604/Nina-Bawden-author-of-Carries-War-dies.html)
 3. [The Guardian](http://www.guardian.co.uk/books/2012/aug/22/nina-bawden-author-carries-war-dies?newsfeed=true)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02317/ninabawden_2317198k.jpg)
 
 ### Related:
 

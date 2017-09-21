@@ -9,6 +9,7 @@ Scotland Yard launches a formal criminal investigation into the Sir Jimmy Savile
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20006049)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9619962/BBC-to-rush-out-special-edition-of-Panorama-on-Jimmy-Savile.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63591000/jpg/_63591828_8caqy382.jpg)
 
 ### Related:
 

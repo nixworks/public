@@ -10,6 +10,7 @@ Egypt plane crash investigators &quot;90% sure&quot; the explosion heard on the 
 1. [AP](http://bigstory.ap.org/article/5a37254fd9734557bc5382e4f8664638n/latest-33-victims-plane-crash-egypt-identified)
 2. [CNN](http://edition.cnn.com/2015/11/04/africa/russian-plane-crash-egypt-sinai/)
 3. [ITV](http://www.itv.com/news/story/2015-11-04/egypt-crash-flights-from-sharm-el-sheikh-to-uk-delayed-over-bomb-fears/)
+3. [Cover Image](http://news-assets.sn.itv.com/image/file/816532/mobile_article_img.jpg)
 
 ### Related:
 

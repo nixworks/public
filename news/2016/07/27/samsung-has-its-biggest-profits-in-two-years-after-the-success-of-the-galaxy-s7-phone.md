@@ -8,6 +8,7 @@ The South Korean company beats expectations thanks in part to strong sales of th
 ### Source:
 
 1. [CNET](http://www.cnet.com/news/samsung-sees-profit-rise-on-sales-of-galaxy-s7-second-quarter/)
+1. [Cover Image](https://cnet1.cbsistatic.com/img/G3z-O9zJ9QGsJvzZtjTD9BFWaC8=/670x503/2016/03/07/4c95e6a4-12af-4980-87d8-75a3eb042e8c/samsung-galaxy-s7-edge-out-about.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The government should slow the pace of budget cuts next year if growth in the UK
 
 1. [BBC](http://www.bbc.co.uk/news/business-18908882)
 2. [The Independent](http://www.independent.co.uk/news/uk/politics/age-of-austerity-cuts-will-last-until-at-least-the-end-of-decade-says-david-cameron-7957244.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61688000/jpg/_61688475_015239729-1.jpg)
 
 ### Related:
 

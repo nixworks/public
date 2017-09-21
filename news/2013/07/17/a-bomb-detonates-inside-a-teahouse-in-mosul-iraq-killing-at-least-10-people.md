@@ -8,6 +8,7 @@ A bomb blast in a teahouse in the northern Iraqi city of Mosul killed at least s
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/07/17/us-iraq-violence-idUSBRE96G1A320130717?feedType=RSS&feedName=worldNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

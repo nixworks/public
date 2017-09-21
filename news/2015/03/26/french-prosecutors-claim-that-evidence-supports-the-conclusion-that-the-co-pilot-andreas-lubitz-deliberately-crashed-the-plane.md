@@ -8,6 +8,7 @@ Marseille public prosecutor says co-pilot of Airbus A320 deliberately forced the
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/live/2015/mar/26/germanwings-plane-crash-investigation-press-conference-live-updates-4u9525)
+1. [Cover Image](https://i.guim.co.uk/img/media/7fd35133f90558385f87d155a412d98d5299ac08/0_207_4256_2553/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=27fccb83bb03e2799d864f8b794eb033)
 
 ### Related:
 

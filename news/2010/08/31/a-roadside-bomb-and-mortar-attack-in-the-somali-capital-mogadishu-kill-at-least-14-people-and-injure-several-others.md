@@ -8,6 +8,7 @@ Roadside bomb blast and mortar attack in capital Mogadishu, kills at least 14 pe
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/201083116387598506.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/31/201083120425626621_20.jpg)
 
 ### Related:
 

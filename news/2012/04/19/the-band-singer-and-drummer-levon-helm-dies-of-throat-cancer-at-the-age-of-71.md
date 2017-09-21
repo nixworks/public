@@ -8,3 +8,4 @@ Mr. Helm, whose drumming merged muscle, swing, economy and finesse, helped forge
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/04/20/arts/music/levon-helm-drummer-and-singer-dies-at-71.html?_r=2)
+1. [Cover Image](https://static01.nyt.com/images/2012/04/20/arts/HELM1-obit/HELM1-obit-superJumbo.jpg)

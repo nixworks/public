@@ -9,6 +9,7 @@ Police in Tehran shut offices of Mehdi Karroubi, prominent opposition politician
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/09/20099942010748275.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=105637&sectionid=351020101)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

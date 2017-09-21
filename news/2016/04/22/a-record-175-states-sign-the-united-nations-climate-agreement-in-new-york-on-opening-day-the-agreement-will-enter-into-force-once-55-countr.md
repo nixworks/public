@@ -9,6 +9,7 @@ Records are set to be broken as 168 countries line up to sign the historic UN Pa
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-04-22/what-happens-after-this-paris-climate-deal-is-signed/7350506)
 2. [AP](http://bigstory.ap.org/article/c43a6ba78bd44903873174d451e83060/170-states-poised-sign-landmark-climate-agreement)
+2. [Cover Image](http://www.abc.net.au/news/image/6629940-1x1-700x700.jpg)
 
 ### Related:
 

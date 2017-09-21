@@ -8,6 +8,7 @@ Assaults, smoke bombs and vandalism were left in the wake of a protest in San Fr
 ### Source:
 
 1. [NBC](http://www.nbcbayarea.com/news/local/Bayview-Shooting-Protest-End-with-Arrests-125866423.html)
+1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/bayviewofficershooting.jpg)
 
 ### Related:
 

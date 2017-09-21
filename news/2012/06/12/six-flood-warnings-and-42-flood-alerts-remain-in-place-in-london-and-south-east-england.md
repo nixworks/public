@@ -8,6 +8,7 @@ Six flood warnings and 42 flood alerts remain in place across London and the sou
 ### Source:
 
 1. [ITV](http://www.itv.com/news/london/update/2012-06-12/flood-warnings-and-alerts-remain-in-place/)
+1. [Cover Image](http://www.itv.com/news/assets/branding/fb.png)
 
 ### Related:
 

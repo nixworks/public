@@ -10,6 +10,7 @@ Saskatoon-based visual artist Zachari Logan explores spaces in Saskatchewan that
 1. [Al Arabiya](http://www.alarabiya.net/articles/2009/10/26/89298.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8326520.stm)
 3. [CBC](http://www.cbc.ca/arts/media/story/2009/10/26/saudi-tv-sex-talk-punish.html)
+3. [Cover Image](https://i.cbc.ca/1.3649736.1466710122!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/zachari-logan-artwork.png)
 
 ### Related:
 

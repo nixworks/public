@@ -8,6 +8,7 @@ The government distances itself from suggestions that wealthy students could pay
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13343824)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52235000/jpg/_52235890_students464.jpg)
 
 ### Related:
 

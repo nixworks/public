@@ -9,6 +9,7 @@ Interior minister Yishai says African migrants should be jailed or expelled; Aha
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/may/20/israel-netanyahu-african-immigrants-jewish)
 2. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=270682)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=183254)
 
 ### Related:
 

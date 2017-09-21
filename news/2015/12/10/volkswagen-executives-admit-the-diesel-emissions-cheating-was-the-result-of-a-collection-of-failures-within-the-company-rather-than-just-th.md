@@ -10,6 +10,7 @@ German carmaker says company suffered from mindset that tolerated rule-breaking
 1. [New York Times via SFGate.com](http://www.sfgate.com/business/article/Volkswagen-emissions-cheating-was-not-a-one-time-6690045.php)
 2. [The Guardian'' press conference text](http://www.theguardian.com/business/live/2015/dec/10/volkswagen-vw-grilling-emissions-scandal-bank-of-england-business-live)
 3. [The Guardian](http://www.theguardian.com/business/2015/dec/10/volkswagen-emissions-scandal-systematic-failures-hans-dieter-potsch)
+3. [Cover Image](https://i.guim.co.uk/img/media/e7892cf7bb0c08c2c0fe8fa8dda739ee676a5584/0_117_3421_2054/master/3421.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4b154b8afb7491c8db7705ceda5ae809)
 
 ### Related:
 

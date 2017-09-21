@@ -9,6 +9,7 @@
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5ju1c4O407dHy4l6GHjNcGCJrlJkA)
 2. [Interfax](http://www.interfax.ru/e/B/politics/28.html?id_issue=11975823)
+2. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)
 
 ### Related:
 

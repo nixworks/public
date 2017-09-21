@@ -9,6 +9,7 @@ At least 31 people die and around 170 are missing after a ferry with more than 8
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23729996)
 2. [World Maritime News](http://worldmaritimenews.com/archives/91407/at-least-17-dead-after-ferry-collides-with-cargo-ship-in-philippines/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/69331000/jpg/_69331725_69331724.jpg)
 
 ### Related:
 

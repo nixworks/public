@@ -8,6 +8,7 @@ Pakistan has been roused to fight the &quot;existential threat&quot; of a growin
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSSP42878020090510)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090510&t=2&i=10046662&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-10T095532Z_01_BTRE5490R9N00_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

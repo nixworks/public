@@ -10,6 +10,7 @@ Provisional results showed Ethiopia&#039;s ruling party has won national electio
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10150894.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/ethiopia/7761507/Ethiopias-ruling-party-on-course-for-election-win.html)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article7135510.ece)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01393/MelesZenawi_1393583a.jpg)
 
 ### Related:
 

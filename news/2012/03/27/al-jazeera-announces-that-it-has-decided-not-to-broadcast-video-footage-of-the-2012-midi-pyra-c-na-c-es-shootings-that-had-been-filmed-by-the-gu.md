@@ -8,6 +8,7 @@ AL-JAZEERA television has decided not to broadcast video footage of the seven ki
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2012/0328/1224314009488.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

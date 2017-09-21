@@ -8,6 +8,7 @@ CHINA-POLLUTION/:China to send air pollution inspection teams to provinces
 ### Source:
 
 1. [Reuters Trust](http://www.trust.org/item/20131024035605-nev3z)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/eefc368b-a85d-4cdd-a11a-e23f9a25429d/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

@@ -14,6 +14,7 @@ In&#x20;a&#x20;major&#x20;diplomatic&#x20;victory&#x20;for&#x20;the&#x20;Libyan&
 5. [France 24](http://www.france24.com/en/20110310-France-NTC-national-transitional-council-embassy-Libya)
 6. [The Guardian](http://www.guardian.co.uk/world/2011/mar/10/guardian-correspondent-missing-libya)
 7. [The Guardian](http://www.guardian.co.uk/world/blog/2011/mar/10/libya-uprising-gaddafi-live)
+7. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/gaddafi_NEW_TOP.jpg)
 
 ### Related:
 

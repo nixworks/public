@@ -8,6 +8,7 @@ George Lucas has chosen L.A.&apos;s Exposition Park for his Museum of Narrative 
 ### Source:
 
 1. [LA Times](http://www.latimes.com/entertainment/arts/la-et-cm-la-wins-lucas-museum-20170110-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-5875cdc9/turbine/la-et-cm-la-wins-lucas-museum-20170110)
 
 ### Related:
 

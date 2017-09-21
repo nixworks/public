@@ -8,6 +8,7 @@ Hundreds of people in WA&#039;s Pilbara take shelter in evacuation centres as Cy
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-02-26/residents-seek-shelter-as-rusty-gathers-strength/4541854)
+1. [Cover Image](http://www.abc.net.au/news/image/4543234-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A US report says 48 women and girls are raped every hour in DR Congo, a rate sig
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13367277)
 2. [New York Times](http://www.nytimes.com/2011/05/12/world/africa/12congo.html?partner=rss&emc=rss)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52668000/jpg/_52668332_006525248-1.jpg)
 
 ### Related:
 

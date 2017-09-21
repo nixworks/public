@@ -8,6 +8,7 @@ Vietnam is preparing itself for Typhoon Sarika, which has already brought torren
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2016/10/18/vietnam-braces-for-typhoon-sarika-as-death-toll-rises-to-31.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

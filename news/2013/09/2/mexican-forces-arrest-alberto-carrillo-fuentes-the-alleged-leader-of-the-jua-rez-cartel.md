@@ -8,6 +8,7 @@ Mexican security forces say they have arrested the drug lord known as &#034;Ugly
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/mexico/10280466/Mexican-forces-seize-drug-kingpin-Alberto-Carrillo-Fuentes-alias-Ugly-Betty.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02473/acapulco-security_2473158k.jpg)
 
 ### Related:
 

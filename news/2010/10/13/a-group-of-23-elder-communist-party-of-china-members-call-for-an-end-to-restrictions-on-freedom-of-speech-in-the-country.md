@@ -9,6 +9,7 @@ Twenty-three veterans of the Communist Party write open letter, calling for scra
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/20101013125048141291.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11529920)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/13/20101013132329891833_20.jpg)
 
 ### Related:
 

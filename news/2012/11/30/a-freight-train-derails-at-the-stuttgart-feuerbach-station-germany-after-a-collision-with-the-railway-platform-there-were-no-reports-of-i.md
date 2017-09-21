@@ -9,6 +9,7 @@
 
 1. [SWR](http://www.swr.de/nachrichten/bw/-/id=1622/nid=1622/did=10657866/pv=gallery/vx3ksw/index.html)
 2. [Stuttgarter-Zeitung](http://www.stuttgarter-zeitung.de/inhalt.schwerer-unfall-in-stuttgart-feuerbach-waggons-rasen-in-bahnhof-feuerbach.86e49a06-9064-42af-a3d2-a3adcff20ec0.html)
+2. [Cover Image](http://www.stuttgarter-zeitung.de/www/stuttgarter_zeitung/images/logo_social.jpg)
 
 ### Related:
 

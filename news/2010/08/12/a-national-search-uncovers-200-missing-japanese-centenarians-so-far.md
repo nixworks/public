@@ -11,6 +11,7 @@ Nearly 200 Japanese centenarians are missing, according to a national audit carr
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10949562)
 3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20100812081608189C721133)
 4. [Japan Today](http://www.japantoday.com/category/national/view/38-of-47-prefectures-checking-whereabouts-of-elderly)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

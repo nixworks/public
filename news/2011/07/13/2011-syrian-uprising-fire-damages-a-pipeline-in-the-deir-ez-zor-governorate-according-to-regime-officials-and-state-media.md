@@ -12,6 +12,7 @@ Fire has damaged an oil pipeline in north-east Syria, the oil ministry says, tho
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-14137680)
 4. [SANA](http://www.sana.sy/eng/21/2011/07/13/358092.htm)
 5. [White House](http://www.whitehouse.gov/the-press-office/2011/07/13/statement-press-secretary-presidents-meeting-russian-foreign-minister-la)
+5. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54016000/jpg/_54016310_012430804-1.jpg)
 
 ### Related:
 

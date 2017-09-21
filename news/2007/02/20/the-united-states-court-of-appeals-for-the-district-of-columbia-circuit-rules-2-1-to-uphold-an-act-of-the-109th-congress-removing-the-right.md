@@ -9,6 +9,7 @@ Things to do in Miami
 
 1. [Miami Herald](http://www.miami.com/mld/miamiherald/16740785.htm)
 2. [Reuters](http://www.reuters.com/article/politicsNews/idUSN2016803120070220)
+2. [Cover Image](http://www.miami.com/wp-content/themes/miami/images/sg/img-16x9.png)
 
 ### Related:
 

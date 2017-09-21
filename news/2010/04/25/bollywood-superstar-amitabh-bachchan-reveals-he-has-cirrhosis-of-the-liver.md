@@ -11,6 +11,7 @@ Mikey Bustos has &quot;a couple million or so,&quot; he says, the result of his 
 2. [CBC](http://www.cbc.ca/arts/film/story/2010/04/25/amitabh-liver-disease.html)
 3. [The Straits Times](http://www.straitstimes.com/BreakingNews/Lifestyle/Story/STIStory_519271.html)
 4. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7107672.ece)
+4. [Cover Image](https://i.cbc.ca/1.3404491.1452808379!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mikey-bustos.jpg)
 
 ### Related:
 

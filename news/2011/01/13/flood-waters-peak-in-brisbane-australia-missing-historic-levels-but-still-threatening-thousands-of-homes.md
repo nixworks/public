@@ -11,6 +11,7 @@ Many Brisbane residents have taken the ongoing flood crisis in their stride, eve
 2. [ABC News](http://www.abc.net.au/news/stories/2011/01/13/3112246.htm?section=justin)
 3. [Dow Jones via ''Wall Street Journal](http://online.wsj.com/article/BT-CO-20110112-713822.html)
 4. [The Australian](http://www.theaustralian.com.au/news/nation/anna-bligh-maintains-state-of-emergency-despite-reprieve-for-brisbane/story-e6frg6nf-1225986947129?from=public_rss)
+4. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

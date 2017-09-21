@@ -9,6 +9,7 @@ Four-time French Open champion Rafael Nadals reign as the king of clay has come 
 
 1. [Sky News](http://www.skysports.com/story/0,19528,12110_5357235,00.html)
 2. [The Telegraph](http://www.telegraph.co.uk/sport/tennis/frenchopen/5417550/French-Open-2009-Ana-Ivanovic-suffers-shock-defeat.html)
+2. [Cover Image](http://e0.365dm.com/09/05/150x150/rafael-nadal_2312790.jpg?20090531170924)
 
 ### Related:
 

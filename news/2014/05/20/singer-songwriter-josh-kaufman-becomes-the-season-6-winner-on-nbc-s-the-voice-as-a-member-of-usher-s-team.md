@@ -8,6 +8,7 @@ The Indianapolis singer is the sixth-season winner of the NBC competition.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/tv/2014/05/20/nbc-the-voice-season-6-finale-winner/9355663/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

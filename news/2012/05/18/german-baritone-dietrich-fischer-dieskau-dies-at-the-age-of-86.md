@@ -8,3 +8,4 @@
 ### Source:
 
 1. [BBC](http://www.youtube.com/watch?v=33jsQcS_hmI&feature=related)
+1. [Cover Image](https://i.ytimg.com/vi/33jsQcS_hmI/hqdefault.jpg)

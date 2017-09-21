@@ -9,6 +9,7 @@ The United States will send thousands of troops to respond to the Ebola outbreak
 
 1. [Reuters](http://www.reuters.com/article/idUSKBN0HD2JE20140918?irpc=932)
 2. [The Hindu](http://www.thehindu.com/news/international/us-sends-troops-to-build-ebola-clinics-train-health-workers/article6415242.ece)
+2. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

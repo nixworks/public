@@ -10,6 +10,7 @@ Woody Harrelson says he has no intention of making another live movie like Lost 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-38686697)
 2. [The Guardian](https://www.theguardian.com/film/2017/jan/20/lost-in-london-review-woody-harrelson-live-movie)
 3. [The Telegraph](http://www.telegraph.co.uk/films/2017/01/20/lost-london-woody-harrelson-breaks-boundaries-supercharged-allen/)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15F8D/production/_93679998_woody_smile.jpg)
 
 ### Related:
 

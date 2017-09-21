@@ -11,6 +11,7 @@
 2. [Miami Herald](http://www.miamiherald.com/2010/06/17/1686441/an-angry-congress-lambasts-bp.html)
 3. [The Australian](http://www.theaustralian.com.au/news/breaking-news/bp-ceo-grilled-by-us-congress/story-fn3dxity-1225881174531)
 4. [The Australian](http://www.theaustralian.com.au/news/world/bankruptcy-an-option-for-energy-giant/story-e6frg6so-1225881061975)
+4. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)
 
 ### Related:
 

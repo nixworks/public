@@ -8,6 +8,7 @@ N&#x27;Djamena (AFP) - Chad&#x27;s government Monday decreed a state of emergenc
 ### Source:
 
 1. [AFP via Yahoo News](http://news.yahoo.com/chad-decrees-state-emergency-lake-chad-region-official-184956542.html;_ylt=A0LEVjcL8UBW5IIAo0JjmolQ)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/IPyZ.99wI9EMZrGpjWCJ1Q--/aD02NTY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8324294-1-1-0.jpg)
 
 ### Related:
 

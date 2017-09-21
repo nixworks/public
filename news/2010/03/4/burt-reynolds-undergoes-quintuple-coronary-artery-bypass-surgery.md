@@ -11,6 +11,7 @@ Leah McLaren briefly published a story in the Globe &amp; Mail this week about a
 2. [CBC](http://www.cbc.ca/arts/media/story/2010/03/03/burt-reynolds-bypass.html)
 3. [CNN](http://www.cnn.com/2010/SHOWBIZ/Movies/03/03/burt.reynolds.surgery/?hpt=T2)
 4. [Ireland Online](http://breakingnews.iol.ie/entertainment/reynolds-undergoes-heart-surgery-448609.html)
+4. [Cover Image](https://i.cbc.ca/1.4044765.1490735442!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mclaren-breastfeeding.jpg)
 
 ### Related:
 

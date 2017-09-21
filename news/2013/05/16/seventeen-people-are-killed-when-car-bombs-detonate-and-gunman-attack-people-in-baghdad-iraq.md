@@ -8,6 +8,7 @@ Spike in violence comes amid tensions between the Shiite-led government and Sunn
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/05/16/iraq-shooting-bombs-baghdad/2165419/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

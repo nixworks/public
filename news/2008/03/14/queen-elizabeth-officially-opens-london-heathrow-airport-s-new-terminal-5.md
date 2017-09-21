@@ -8,6 +8,7 @@ The notoriously congested London airport has opened a fifth terminal, at a cost 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/03/15/world/europe/15britain.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/03/15/world/15britain-span-75.jpg)
 
 ### Related:
 

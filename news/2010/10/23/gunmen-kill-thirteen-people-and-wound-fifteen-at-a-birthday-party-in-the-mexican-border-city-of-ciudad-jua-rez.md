@@ -9,6 +9,7 @@ Gunmen raid house party in violent border city of Ciudad Juarez, killing at leas
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010102314111613167.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE69M1JY20101023)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/11/20109112817933734_20.jpg)
 
 ### Related:
 

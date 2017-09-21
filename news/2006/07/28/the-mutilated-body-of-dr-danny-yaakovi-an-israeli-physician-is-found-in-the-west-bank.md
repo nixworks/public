@@ -8,6 +8,7 @@ Body of Dr. Danny Yaakovi from West Bank settlement of Yakir found Thursday in c
 ### Source:
 
 1. [YNET NEWS](http://www.ynetnews.com/articles/0,7340,L-3282531,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

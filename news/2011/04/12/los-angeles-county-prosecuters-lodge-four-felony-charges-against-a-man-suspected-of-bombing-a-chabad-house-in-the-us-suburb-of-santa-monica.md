@@ -8,6 +8,7 @@ News, weather, traffic, entertainment and sports for the Greater Los Angeles are
 ### Source:
 
 1. [LA Fox](http://www.myfoxla.com/dpp/news/local/suspect-in-synagogue-explosion-charged-20110412)
+1. [Cover Image](http://static.lakana.com/lakana-fox-global/theme/images/kttv/placeholder-4x3.jpg)
 
 ### Related:
 

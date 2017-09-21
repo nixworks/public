@@ -12,6 +12,7 @@ State says 42-year old Palestinian engineer abducted in Ukraine being interrogat
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israel-admits-to-arrest-and-detention-of-gaza-engineer-1.350631)
 4. [Ma'an News Agency](http://www.maannews.net/eng/ViewDetails.aspx?ID=370613)
 5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4045135,00.html)
+5. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

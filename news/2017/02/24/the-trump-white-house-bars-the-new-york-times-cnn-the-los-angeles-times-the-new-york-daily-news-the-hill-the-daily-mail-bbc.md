@@ -12,6 +12,7 @@ News organizations including The New York Times, the Los Angeles Times, CNN and 
 3. [Reuters](http://www.reuters.com/article/us-usa-trump-media-idUSKBN1632JG?il=0)
 4. [The Hill'' via MSN.Com](http://www.msn.com/en-us/news/politics/media-slams-limited-wh-press-access/ar-AAnksZB?ocid=edgsp)
 5. [The New York Times](https://www.nytimes.com/2017/02/24/us/politics/white-house-sean-spicer-briefing.html?_r=0)
+5. [Cover Image](http://binaryapi.ap.org/a0e41faff5b04a1c8c0f324ddf40c778/460x.jpg)
 
 ### Related:
 

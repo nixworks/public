@@ -8,6 +8,7 @@ Nasdaq Inc (NDAQ.O) is in talks to buy the Canadian unit of alternative equities
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/13/us-chi-xcanada-m-a-nasdaq-idUSKCN0T22M020151113#tmC4wgdpvCFMAprR.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151113&t=2&i=1094700602&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAC159)
 
 ### Related:
 

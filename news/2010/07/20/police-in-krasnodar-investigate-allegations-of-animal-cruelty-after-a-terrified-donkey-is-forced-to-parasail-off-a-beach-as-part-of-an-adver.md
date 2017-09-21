@@ -12,6 +12,7 @@ Police in southern Russia are investigating allegations of animal cruelty after 
 3. [IOL](http://www.iol.co.za/index.php?from=rss_Europe&set_id=1&click_id=24&art_id=nw20100720171518249C656636)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Donkey-Parasails-Over-Russian-Beach-Cruel-Video-Of-Abusive-Publicity-Stunt-In-Golubitskaya/Article/201007315667950?f=rss)
 5. [iAfrica](http://technology.iafrica.com/news/science/2540881.htm)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

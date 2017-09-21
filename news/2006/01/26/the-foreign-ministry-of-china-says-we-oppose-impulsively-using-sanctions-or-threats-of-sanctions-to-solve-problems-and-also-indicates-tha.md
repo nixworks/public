@@ -8,3 +8,4 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-01-26T095925Z_01_L25291163_RTRUKOC_0_US-NUCLEAR-IRAN.xml)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

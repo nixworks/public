@@ -8,6 +8,7 @@ Four people who are feared dead after an explosion at a wood treatment works in 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-33585263)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/685C/production/_84361762_bosleycompo.jpg)
 
 ### Related:
 

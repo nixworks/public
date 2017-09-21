@@ -8,6 +8,7 @@ The first official painting of the Duchess of Cambridge goes on display at the N
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20978904)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65215000/jpg/_65215197_portraithighres.jpg)
 
 ### Related:
 

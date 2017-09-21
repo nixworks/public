@@ -8,6 +8,7 @@ The Syrian army has seized oil wells in Raqqa as IS militants battle to defend t
 ### Source:
 
 1. [Sky News Australia](http://www.skynews.com.au/news/world/mideast/2017/07/16/syrian-army-seizes-oil-wells-in-raqqa-from-is.html)
+1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/news/world/mideast/2017/07/16/skynews_9300887.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

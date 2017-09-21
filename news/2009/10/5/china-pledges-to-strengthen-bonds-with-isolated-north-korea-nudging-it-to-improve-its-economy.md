@@ -8,6 +8,7 @@ North Korea said on Tuesday it was ready to return to international talks on end
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSSP48900020091005)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091005&t=2&i=11843729&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-05T233727Z_01_BTRE5931SXQ00_RTROPTP_0_KOREA-NORTH)
 
 ### Related:
 

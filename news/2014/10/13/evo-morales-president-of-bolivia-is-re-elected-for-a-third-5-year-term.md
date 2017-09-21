@@ -8,6 +8,7 @@ Supporters pour into the streets of La Paz as populist leader dedicates landslid
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/oct/13/bolivia-evo-morales--president-third-term)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/13/1413187479885/Bolivian-president-Evo-Mo-014.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=78f6f461b1e29ea8210391d61fe4bc05)
 
 ### Related:
 

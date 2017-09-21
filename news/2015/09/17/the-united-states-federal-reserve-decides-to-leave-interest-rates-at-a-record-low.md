@@ -8,6 +8,7 @@ The U.S. Federal Reserve kept interest rates unchanged on Thursday in a bow to w
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/17/us-usa-fed-idUSKCN0RH0GH20150917)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150917&t=2&i=1080196399&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8G156)
 
 ### Related:
 

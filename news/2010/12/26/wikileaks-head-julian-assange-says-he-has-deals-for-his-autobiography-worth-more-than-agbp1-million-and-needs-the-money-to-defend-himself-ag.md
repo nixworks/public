@@ -10,6 +10,7 @@
 1. [ (''The Australian](http://www.theaustralian.com.au/news/world/julian-assanges-book-deals-worth-15-million/story-fn3dxix6-1225976408168)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101226132724395724.html)
 3. [The Times of India](http://timesofindia.indiatimes.com/world/europe/WikiLeaks-founder-Assange-signs-15-mn-autobiography-deal/articleshow/7167458.cms)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/26/20101226134940766738_20.jpg)
 
 ### Related:
 

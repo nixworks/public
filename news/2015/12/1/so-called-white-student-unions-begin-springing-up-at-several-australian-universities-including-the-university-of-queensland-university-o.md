@@ -8,6 +8,7 @@ SO-CALLED white student unions are springing up at universities across Australia
 ### Source:
 
 1. [News Corp Australia](http://www.news.com.au/finance/work/careers/behind-the-white-student-unions-springing-up-at-australian-universities/news-story/1ec829bb66b30a8e98544784f1746b75)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/2203e0b46bcf52687f5f2e2a0648328b)
 
 ### Related:
 

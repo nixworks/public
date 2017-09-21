@@ -11,6 +11,7 @@
 2. [CNN](http://edition.cnn.com/2013/07/21/world/asia/china-quake/?hpt=wo_c2)
 3. [NBC News](http://worldnews.nbcnews.com/_news/2013/07/21/19602512-22-reported-dead-in-central-chinese-earthquake?lite)
 4. [Reuters](http://www.reuters.com/article/2013/07/22/us-quake-china-idUSBRE96L00420130722)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68873000/jpg/_68873943_68873942.jpg)
 
 ### Related:
 

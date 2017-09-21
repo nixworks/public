@@ -10,6 +10,7 @@ Perez was elected Saturday as the new DNC chair, tasked with rebuilding the fact
 1. [CNN](http://edition.cnn.com/2017/02/25/politics/dnc-chair-election/)
 2. [NBC News](http://www.nbcnews.com/politics/elections/dnc-race-tom-perez-becomes-dnc-chair-narrow-election-victory-n725596)
 3. [The Washington Post](https://www.washingtonpost.com/powerpost/tom-perez-elected-as-first-latino-leader-of-democratic-party/2017/02/25/1fd76f52-fad7-11e6-9845-576c69081518_story.html)
+3. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_08/1914656/25217-tom-perez-dnc-chair-334p-rs_6d8a134e1daf03b09fe6745b4badb248.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

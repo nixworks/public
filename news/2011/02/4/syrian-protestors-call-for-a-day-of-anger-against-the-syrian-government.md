@@ -9,6 +9,7 @@ Protesters&#x20;have&#x20;called&#x20;for&#x20;&quot;a&#x20;day&#x20;of&#x20;ang
 
 1. [CP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5hFHMKFa4GUqWoKwUBD6VLjfmKWWg?docId=5852175)
 2. [France 24](http://www.france24.com/en/20110203-syria-democracy-protests-facebook-twitter-friday-prayers-egypt)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/syrie-anti-moubarak.jpg)
 
 ### Related:
 

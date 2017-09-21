@@ -9,6 +9,7 @@ Cuban leader Fidel Castro said the worst is over and he is recovering well from 
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/34C0D508-E8F7-4A53-A2D7-C02FDFFAF255.htm)
 2. [MSNBC](http://www.msnbc.msn.com/id/14675929/)
+2. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Photos/060905/060905_castro_vmed_215a.standard.jpg)
 
 ### Related:
 

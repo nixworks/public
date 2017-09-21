@@ -8,6 +8,7 @@ Since the army ousted president Mohammed Mursi, the government has launched a bl
 ### Source:
 
 1. [AFP, Reuters vis ''Sydney Morning Herald](http://www.smh.com.au/world/egypt-jails-78-teenage-boys-for-taking-part-in-protests-20141126-11urpy.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/1/u/s/h/4/image.related.articleLeadwide.620x349.11urpy.png/1479806120784.jpg)
 
 ### Related:
 

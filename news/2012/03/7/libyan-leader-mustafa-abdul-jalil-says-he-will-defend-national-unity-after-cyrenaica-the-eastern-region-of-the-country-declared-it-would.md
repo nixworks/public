@@ -8,6 +8,7 @@ Mustafa Abdel Jalil accuses Arab countries of funding effort to carve out easter
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/201237103524945859.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/7/201237103754197734_20.jpg)
 
 ### Related:
 

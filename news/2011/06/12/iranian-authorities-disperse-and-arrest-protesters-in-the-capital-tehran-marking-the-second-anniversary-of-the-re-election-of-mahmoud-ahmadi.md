@@ -9,6 +9,7 @@
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jpIwGbFUtLcINm-Vx1K4bfREGbCw?docId=CNG.b7019a130f1e32ef787343ebff49380f.301)
 2. [CBC](http://www.cbc.ca/news/world/story/2011/06/12/iran-opposition-death.html)
+2. [Cover Image](https://i.cbc.ca/1.2017018.1381569106!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-iran-saber-852.jpg)
 
 ### Related:
 

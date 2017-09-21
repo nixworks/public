@@ -11,6 +11,7 @@ WASHINGTON: Turkish President Tayyip Erdogan said an attack in the southeastern 
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/03/loud-explosion-rocks-turkey-diyarbakir-160331142831391.html)
 3. [Arab News](http://www.arabnews.com/news/903911)
 4. [CNN](http://www.cnn.com/2016/03/31/europe/turkey-violence/index.html)
+4. [Cover Image](http://www.arabnews.com/sites/default/files/2016/04/01/file-01-1459445960033638800-%281%29.jpg)
 
 ### Related:
 

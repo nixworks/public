@@ -8,6 +8,7 @@ Basque separatist group Eta says it is ready to disband, give up its weapons and
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20482620)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64364000/jpg/_64364866_u8tym0ux.jpg)
 
 ### Related:
 

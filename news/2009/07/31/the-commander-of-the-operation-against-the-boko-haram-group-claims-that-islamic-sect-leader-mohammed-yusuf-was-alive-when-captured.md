@@ -9,6 +9,7 @@ Rights group urges investigation into death of Boko Haram leader blamed for atta
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/07/200973113346486172.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8178820.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Forest fires on the island of Sumatra have caused air pollution and a thick clou
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11606711)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_594170.html)
+2. [Cover Image](http://playlists.bbc.co.uk/news/world-asia-pacific-11606711A/playlist.sxml)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2007-08-23T100817Z_01_N22235695_RTRUKOC_0_US-MIDWEST-FLOODS.xml&src=nl_usmorningdigest)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A leading Roman Catholic cardinal and a former government minister in Italy face
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10361256.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0620/vatican.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

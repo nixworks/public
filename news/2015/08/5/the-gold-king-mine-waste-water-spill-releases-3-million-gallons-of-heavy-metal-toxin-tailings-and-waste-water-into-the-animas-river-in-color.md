@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/epa-causes-massive-colorado-spill-1-million-gallons-mining-waste-turns-river-361019)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2015/08/07/0807pollution01.jpg)
 
 ### Related:
 

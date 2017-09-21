@@ -11,6 +11,7 @@ At least 74 people were killed in the twin blasts that hit Kampala during the Wo
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/07/2010711212520826984.html)
 3. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/10593771.stm)
 4. [The Monitor](http://www.monitor.co.ug/News/National/-/688334/956212/-/x22qke/-/)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

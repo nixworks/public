@@ -8,6 +8,7 @@ Radiation from cell phones can possibly cause cancer, according to the World Hea
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/HEALTH/05/31/who.cell.phones/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/HEALTH/05/31/who.cell.phones/tzvids.cell.phone.gi.jpg)
 
 ### Related:
 

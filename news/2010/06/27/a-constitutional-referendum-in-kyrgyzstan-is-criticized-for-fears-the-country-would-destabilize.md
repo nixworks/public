@@ -9,6 +9,7 @@
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/20106272166146294.html)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/kyrgyzstan-votes-on-new-constitution-20100627-zbl4.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -11,6 +11,7 @@ At least 84 people killed in attack on vegetable market that targeted Hazara Shi
 2. [Ary News](http://www.arynews.tv/english/newsdetail.asp?nid=70203)
 3. [Dawn.com](http://dawn.com/2013/02/16/large-blast-hits-quetta-at-least-five-wounded/)
 4. [RT](http://rt.com/news/bomb-blast-pakistan-200-383/)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/2/17/201321753121285734_20.jpg)
 
 ### Related:
 

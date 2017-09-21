@@ -15,6 +15,7 @@ According to the group, military courts in Gaza sentenced 16 people to death in 
 6. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2010040868747)
 7. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=172540)
 8. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=172543)
+8. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=139741)
 
 ### Related:
 

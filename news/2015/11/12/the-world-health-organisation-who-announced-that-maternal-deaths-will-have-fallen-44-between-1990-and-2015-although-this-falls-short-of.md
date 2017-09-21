@@ -8,6 +8,7 @@ A United Nations report says pregnancy-related deaths have fallen by almost 50% 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34796833)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/BA12/production/_86643674_029696709-1.jpg)
 
 ### Related:
 

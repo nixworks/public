@@ -8,6 +8,7 @@ Authorities in Peru press criminal charges after accusing real-estate companies 
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-latin-america-23173628)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68535000/jpg/_68535335_68535334.jpg)
 
 ### Related:
 

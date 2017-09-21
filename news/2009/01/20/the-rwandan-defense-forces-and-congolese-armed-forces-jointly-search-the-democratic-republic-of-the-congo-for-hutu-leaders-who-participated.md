@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/01/20/AR2009012001045.html)
+1. [Cover Image](http://www.washingtonpost.com/wp-dyn/content/photo/2009/01/20/PH2009012004065.jpg)
 
 ### Related:
 

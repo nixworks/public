@@ -9,6 +9,7 @@ David Cameron says he is a &quot;very proud dad&quot; after his wife Samantha ga
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11074163)
 2. [Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/david-cameron/7961958/Samantha-Cameron-gives-birth-to-baby-girl.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

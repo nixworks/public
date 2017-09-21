@@ -8,6 +8,7 @@ Seven of nine presidential candidates could receive up to 15-year sentences amid
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101222171735966368.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/22/20101222172630436140_20.jpg)
 
 ### Related:
 

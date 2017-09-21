@@ -8,6 +8,7 @@ AU-PRINCE (Reuters) - Grammy-award winning singer Wyclef Jean said on Thursday t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE66Q5TX20100730)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100730&t=2&i=166984475&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-30T000429Z_01_BTRE66T007P00_RTROPTP_0_QUAKE-HAITI)
 
 ### Related:
 

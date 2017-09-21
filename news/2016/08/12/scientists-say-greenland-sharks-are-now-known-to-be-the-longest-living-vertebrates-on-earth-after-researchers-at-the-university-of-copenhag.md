@@ -8,6 +8,7 @@ Scientists say they have found a Greenland shark that is about 400 years old - m
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-37047168)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/72E7/production/_90751492_nielsen2hr.jpg)
 
 ### Related:
 

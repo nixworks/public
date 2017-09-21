@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Local 8 News](http://www.local8now.com/content/news/Four-Tennessee-children-stabbed-to-death-385241141.html)
+1. [Cover Image](http://media.graytvinc.com/images/559*315/memphisstabbing2.jpg)
 
 ### Related:
 

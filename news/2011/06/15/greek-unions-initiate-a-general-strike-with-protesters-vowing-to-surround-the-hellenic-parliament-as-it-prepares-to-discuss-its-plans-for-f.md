@@ -19,6 +19,7 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 10. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1626680)
 11. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-06/15/c_13931590.htm)
 12. [euronews](http://www.euronews.net/2011/06/15/greece-braced-for-anti-austerity-protest/)
+12. [Cover Image](http://www.capital.bg/i/quarterly_share.jpg)
 
 ### Related:
 

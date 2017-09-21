@@ -8,6 +8,7 @@ Two police officers were shot dead in Kenya on Sunday in the northern town of Ga
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/09/30/us-kenya-church-attack-idUSBRE88T0G620120930)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

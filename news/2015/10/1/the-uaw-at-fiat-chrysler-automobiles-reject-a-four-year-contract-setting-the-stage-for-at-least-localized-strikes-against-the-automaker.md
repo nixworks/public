@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/10/01/us-autos-uaw-idUSKCN0RV54F20151001)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151001&t=2&i=1083768780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB902A7)
 
 ### Related:
 

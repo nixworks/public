@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6A27B120101104)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101104&t=2&i=241426994&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-04T131044Z_01_BTRE6A310LY00_RTROPTP_0_USA-SECURITY-BORDER)
 
 ### Related:
 

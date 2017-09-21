@@ -8,6 +8,7 @@ Temperatures have soared past 50C in some countries recently and caused scores o
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/summer-heatwave-engulfs-middle-east-150817092432196.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/8/17/4dcc7b233cb841848473f62150451202_18.jpg)
 
 ### Related:
 

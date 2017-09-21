@@ -8,6 +8,7 @@ The Government has passed legislation for the first time allowing for abortion i
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2013/0712/462013-abortion-law/)
+1. [Cover Image](https://img.rasset.ie/00079b94-1600.jpg)
 
 ### Related:
 

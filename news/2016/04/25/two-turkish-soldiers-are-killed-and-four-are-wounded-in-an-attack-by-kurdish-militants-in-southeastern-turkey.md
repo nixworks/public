@@ -9,6 +9,7 @@ The Kurdish rebel group, the PKK, tells the BBC it is ready to escalate its figh
 
 1. [BBC](http://www.bbc.com/news/world-europe-36081204)
 2. [Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3557390/Two-Turkish-soldiers-killed-4-wounded-Kurdish-militant-attack.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2166/production/_89305580_pkkpic2.jpg)
 
 ### Related:
 

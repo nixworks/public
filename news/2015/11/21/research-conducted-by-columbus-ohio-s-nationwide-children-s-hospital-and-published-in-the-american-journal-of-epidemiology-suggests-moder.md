@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Health_News/2015/11/21/Moderate-caffeine-consumption-during-pregnancy-not-detrimental-to-babys-health/5301448129043/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/5301448129043/2015/1/e73cffbd36d85b8b29ca3475063e54ac/v1.5/Moderate-caffeine-consumption-during-pregnancy-not-detrimental-to-babys-health.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A 450-year-old Madonna and Child painting by Titian sells for $16.9m (£10.7m), 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12305296)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

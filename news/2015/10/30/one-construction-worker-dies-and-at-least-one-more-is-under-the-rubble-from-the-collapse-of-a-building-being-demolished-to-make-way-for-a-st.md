@@ -9,6 +9,7 @@ A building undergoing demolition in New York partially collapsed on Friday, kill
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/building-demolished-partially-collapses-nyc-dead-34853556)
 2. [Reuters](http://www.reuters.com/article/2015/10/30/us-new-york-collapse-idUSKCN0SO20520151030)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151030&t=2&i=1091060371&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9T0X6)
 
 ### Related:
 

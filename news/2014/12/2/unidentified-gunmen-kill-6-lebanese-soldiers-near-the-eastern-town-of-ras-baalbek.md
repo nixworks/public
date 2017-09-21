@@ -8,6 +8,7 @@ At least six soldiers killed and one wounded as fighters ambush an army patrol, 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/12/lebanese-troops-killed-near-syrian-border-2014122193646646562.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/12/2//201412219438998734_20.jpg)
 
 ### Related:
 

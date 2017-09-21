@@ -8,6 +8,7 @@ Jay Leno has concluded his run as host of “The Tonight Show with Jay Leno” b
 ### Source:
 
 1. [tvbythenumbers.com](http://tvbythenumbers.zap2it.com/2014/02/07/jay-leno-wraps-his-the-tonight-show-run-with-14-6-million-viewers/235483/)
+1. [Cover Image](http://tvbtn.files.wordpress.com/2013/04/jay-leno-september-15-350x232.jpg)
 
 ### Related:
 

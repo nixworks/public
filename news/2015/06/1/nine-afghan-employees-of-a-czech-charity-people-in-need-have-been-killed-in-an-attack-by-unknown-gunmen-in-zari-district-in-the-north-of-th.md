@@ -10,3 +10,4 @@ Officials say at least nine killed, including a woman, in attack on NGO compound
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/06/aid-workers-killed-afghanistan-attack-150602051956762.html)
 2. [BBC](http://www.bbc.com/news/world-asia-32970671)
 3. [Radio Prague](http://www.radio.cz/en/section/news/nine-people-in-need-local-staff-killed-in-attack-in-afghanistan)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/2/cb1f80bd086e41709c91ed7d6aebb894_18.jpg)

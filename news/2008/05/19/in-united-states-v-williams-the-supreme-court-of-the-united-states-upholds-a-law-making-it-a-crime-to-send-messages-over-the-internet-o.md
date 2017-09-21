@@ -8,6 +8,7 @@ The Supreme Court gave prosecutors a powerful tool Monday to attack the spread o
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-scotus20-2008may20,0,7137841.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

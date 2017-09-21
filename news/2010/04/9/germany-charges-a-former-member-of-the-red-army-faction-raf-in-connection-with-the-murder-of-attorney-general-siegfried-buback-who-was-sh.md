@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8611020.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5447973,00.html?maca=en-rss-en-top-1022-rdf)
 3. [Die Welt](http://www.welt.de/politik/deutschland/article7101608/Ex-RAF-Terroristin-Verena-Becker-angeklagt.html)
+3. [Cover Image](https://www.welt.de/img/politik/deutschland/mobile101622314/5091353157-ci16x9-w1200/cn-becker-DW-Politik-Erfurt-jpg.jpg)
 
 ### Related:
 

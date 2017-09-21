@@ -11,6 +11,7 @@ More than 2,000 civilian and military personnel from 18 countries began a 12-day
 2. [MercoPress](http://en.mercopress.com/2010/08/18/military-exercise-to-defend-the-panama-canal-brings-together-18-countries)
 3. [UPI](http://www.upi.com/Business_News/Security-Industry/2010/08/18/18-nation-military-maneuvers-focus-on-Panama-Canal-security/UPI-45921282166076/)
 4. [United States Department of Defense](http://www.defense.gov/news/newsarticle.aspx?id=60492)
+4. [Cover Image](http://en.mercopress.com/imgs.php/noticias/28454/200x200/panamax-2010.jpg)
 
 ### Related:
 

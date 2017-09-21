@@ -10,6 +10,7 @@ Scientists examining the jawbone of a saber-toothed, mammal-like beast that prow
 1. [JAMA](http://jamanetwork.com/journals/jamaoncology/fullarticle/2591155)
 2. [Reuters](http://www.reuters.com/article/us-science-tumor-idUSKBN13X2PG?feedType=RSS&feedName=scienceNews)
 3. [UPI](http://www.upi.com/Science_News/2016/12/08/Tumor-found-in-fossil-of-255-million-year-old-mammal-predecessor/3711481214971/)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161209&t=2&i=1164753661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB71BT)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The former president of the Maldives, Mohamed Nasheed, on Friday demanded new el
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/02/10/uk-maldives-idUKTRE8180LG20120210)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20120210&t=2&i=569080823&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-02-10T112828Z_1_BTRE8190VVH00_RTROPTP_0_MALDIVES)
 
 ### Related:
 

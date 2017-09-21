@@ -9,6 +9,7 @@ Iran has released 10 US Navy sailors who were detained when their vessels straye
 
 1. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2016/01/13/us-boats-in-iranian-custody.html)
 2. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/01/13/iran-sends-mixed-message-on-quick-release-of-u-s-navy-crews/)
+2. [Cover Image](http://www.skynews.com.au/content/dam/skynews/news/top-stories/2016/01/13/skynews_1752808532.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

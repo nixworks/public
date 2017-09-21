@@ -10,6 +10,7 @@ As officials struggle with immediate response to the disaster, concerns are grow
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010816112835740506.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10984477)
 3. [New York Times](http://www.nytimes.com/2010/08/17/world/asia/17pstan.html?hp)
+3. [Cover Image](https://static01.nyt.com/images/2010/08/17/world/17pakistan-span1/17pakistan-span1-thumbStandard.jpg)
 
 ### Related:
 

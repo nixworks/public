@@ -11,6 +11,7 @@
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11367622)
 3. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/19/sweden.election/?hpt=T1)
 4. [EuroNews](http://www.euronews.net/2010/09/18/centre-right-favourites-to-take-swedish-general-election/)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

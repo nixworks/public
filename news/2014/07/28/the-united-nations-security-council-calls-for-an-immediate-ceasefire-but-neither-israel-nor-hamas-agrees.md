@@ -12,6 +12,7 @@ Reporters are bullied, have equipment confiscated, barred from sensitive sites&#
 3. [Times of Israel](http://www.timesofisrael.com/hamas-threatening-journalists-in-gaza-who-expose-abuse-of-civilians/)
 4. [Times of Israel](http://www.timesofisrael.com/the-terrorist-misfire-that-deepened-the-conflict/)
 5. [Washington Post](http://www.washingtonpost.com/world/un-calls-for-immediate-cease-fire-in-gaza-as-lull-in-fighting-prevails/2014/07/28/01dea116-9195-424b-85b1-da93899d8250_story.html?wpisrc=nl_hdtop)
+5. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/07/cameraman-gaza.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Chaldean Catholic archbishop who was kidnapped in Iraq last month was found de
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsMaps/idUSRAT00361720080313)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080313&t=2&i=3514187&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-13T220754Z_01_RAT003617_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

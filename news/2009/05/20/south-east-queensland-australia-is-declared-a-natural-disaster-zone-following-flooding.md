@@ -8,6 +8,7 @@ Flood-hit south-east Queensland has been declared a natural disaster zone after 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/05/20/2576498.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1687942-1x1-700x700.jpg)
 
 ### Related:
 

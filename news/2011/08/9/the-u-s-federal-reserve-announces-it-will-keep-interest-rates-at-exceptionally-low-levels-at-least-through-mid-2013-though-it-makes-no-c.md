@@ -8,6 +8,7 @@ The Federal Reserve on Tuesday took the unprecedented step of promising to keep 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/08/09/us-usa-fed-idUSTRE7775G120110809)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110809&t=2&i=475979599&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-09T184517Z_01_BTRE7781EA800_RTROPTP_0_FINANCIAL-REGULATION-INTERCHANGE)
 
 ### Related:
 

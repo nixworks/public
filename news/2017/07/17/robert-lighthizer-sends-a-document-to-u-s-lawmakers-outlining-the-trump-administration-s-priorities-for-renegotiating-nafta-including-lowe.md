@@ -8,6 +8,7 @@ The United States on Monday launched the first salvo in the renegotiation of the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trade-nafta-statement-idUSKBN1A2272)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170718&t=2&i=1193359462&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6G1CM)
 
 ### Related:
 

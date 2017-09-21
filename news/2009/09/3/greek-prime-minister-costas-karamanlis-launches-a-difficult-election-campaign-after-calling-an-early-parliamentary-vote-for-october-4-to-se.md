@@ -8,6 +8,7 @@ Greek Prime Minister Costas Karamanlis launched a difficult election campaign Th
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE58235O20090903)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090903&t=2&i=11459377&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-03T121835Z_01_BTRE5820Y7400_RTROPTP_0_GREECE-VOTE)
 
 ### Related:
 

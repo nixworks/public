@@ -9,6 +9,7 @@ Nearly all of anestimated 1,150 prisoners, including some 400 Taliban inmates,ha
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5i8dGftYb0s4XWdUMRdIVs3vh1CKAD919SOOG0)
 2. [Reuters](http://in.reuters.com/article/domesticNews/idINL1336099020080613)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

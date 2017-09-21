@@ -8,6 +8,7 @@ A new case of Ebola has been confirmed in Sierra Leone, officials said Thursday,
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/confirms-second-ebola-case-sierra-leone-093944697.html;_ylt=AwrC1CoWXKFWmkIAwYfQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/TC9YZ00eI0bEXr_rwHA2Qw--/aD02NzQ7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/e4e6f8f5f753d6de2adcdc927964c84c74f1bfbf.jpg)
 
 ### Related:
 

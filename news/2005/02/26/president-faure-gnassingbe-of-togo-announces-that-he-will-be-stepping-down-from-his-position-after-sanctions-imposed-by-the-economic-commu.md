@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7746487)
 2. [Xinhua](http://news.xinhuanet.com/english/2005-02/26/content_2622258.htm)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A British Airways plane bound for London catches fire at Las Vegas airport, forc
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-34193767)
 2. [NBC News](http://www.nbcnews.com/business/travel/british-airways-jet-catches-fire-las-vegas-airport-14-injured-n423831)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/151B6/production/_85445468_jordan-masters-604242.jpg)
 
 ### Related:
 

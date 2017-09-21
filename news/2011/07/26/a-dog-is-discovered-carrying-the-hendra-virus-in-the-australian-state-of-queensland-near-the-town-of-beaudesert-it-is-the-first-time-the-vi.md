@@ -8,6 +8,7 @@ THE deadly Hendra virus has been detected in a dog on a Queensland farm, authori
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/national/dog-near-beaudesert-believed-to-be-the-first-of-species-detected-with-the-hendra-virus/story-e6frfkvr-1226102106856)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ PNP Chief Ronald Dela Rosa says, if confirmed the armed men are members of the t
 ### Source:
 
 1. [CNN Philippines](http://cnnphilippines.com/news/2017/04/11/Abu-Sayyaf-firefight-Bohol.html)
+1. [Cover Image](http://cnnphilippines.com/incoming/50g7uy-Bohol-Firefight-vs-Abu-Sayyaf_b_CNNPH.png/ALTERNATES/LANDSCAPE_640/Bohol-Firefight-vs-Abu-Sayyaf_b_CNNPH.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Iran emerged from years of economic isolation on Saturday when world powers lift
 2. [New York Times](http://www.nytimes.com/2016/01/17/world/middleeast/iran-releases-washington-post-reporter-jason-rezaian.html?emc=edit_na_20160116&nlid=66213151&ref=cta)
 3. [Reuters](http://www.reuters.com/article/us-iran-nuclear-zarif-idUSKCN0UU0C7)
 4. [Washington Post](https://www.washingtonpost.com/world/iran-releases-post-correspondent-jason-rezaian-iranian-reports-say/2016/01/16/e8ee7858-ba38-11e5-829c-26ffb874a18d_story.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160116&t=2&i=1110103187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0F0JY)
 
 ### Related:
 

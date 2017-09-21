@@ -10,6 +10,7 @@ Second day of march for kidnapped soldier comes to end in northern town of Kirya
 1. [Ha’aretz](http://www.haaretz.com/print-edition/news/shalit-march-reaches-acre-meshal-threatens-to-abduct-more-troops-raise-price-of-prisoner-deal-1.298837)
 2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=179831)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3912058,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

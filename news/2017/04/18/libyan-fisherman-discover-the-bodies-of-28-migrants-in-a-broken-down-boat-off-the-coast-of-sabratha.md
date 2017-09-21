@@ -8,6 +8,7 @@ Libyan fishermen found the bodies of 28 migrants who appeared to have died of th
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-europe-migrants-europe-idUSKBN17K1XU?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

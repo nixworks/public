@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-germany-election-idUSKCN1190XG)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160904&t=2&i=1152260129&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC830PV)
 
 ### Related:
 

@@ -9,6 +9,7 @@ There has been a broad welcome for the announcement by the loyalist paramilitary
 
 1. [RTÉ](http://www.rte.ie/news/2007/0503/uvf.html)
 2. [Sky News](http://news.sky.com/skynews/article/0,,30100-1263912,00.html)
+2. [Cover Image](https://img.rasset.ie/0000da46-1600.jpg)
 
 ### Related:
 

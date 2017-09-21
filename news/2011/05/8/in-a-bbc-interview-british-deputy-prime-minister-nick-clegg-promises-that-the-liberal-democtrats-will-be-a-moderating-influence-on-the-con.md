@@ -8,6 +8,7 @@ Nick Clegg promises the Lib Dems will be &quot;a moderating influence&quot; on t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13325442)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52603000/gif/_52603881_b1pepozb.gif)
 
 ### Related:
 

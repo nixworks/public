@@ -8,6 +8,7 @@ Projectile strikes open area in Eshkol region, after two others hit near Ashkelo
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/rocket-fired-at-hof-ashkelon-from-gaza-strip/#ixzz2sZPR6uKS)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/07/F090102JN12.jpg)
 
 ### Related:
 

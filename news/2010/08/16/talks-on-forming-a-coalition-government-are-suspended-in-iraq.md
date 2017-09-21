@@ -11,6 +11,7 @@ Iraqi&#x20;political&#x20;turmoil&#x20;persisted&#x20;Monday&#x20;with&#x20;form
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10990437)
 3. [France24](http://www.france24.com/en/20100816-iraq-formation-government-delayed-opposing-groups-break-off-talks-election)
 4. [Mail & Guardian](http://www.mg.co.za/article/2010-08-16-iraqi-parties-break-off-coalition-talks)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/iraq-m.JPG)
 
 ### Related:
 

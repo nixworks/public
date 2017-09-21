@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTT](http://www.rttnews.com/2468460/pakistan-completely-lifts-moratorium-on-death-penalty.aspx?type=pn)
+1. [Cover Image](http://www.rttnews.com/images/RTTNews_Small_Logo.jpg)
 
 ### Related:
 

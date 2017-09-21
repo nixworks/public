@@ -8,6 +8,7 @@ Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today i
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1113/bic.html)
+1. [Cover Image](https://img.rasset.ie/0002be9f-1600.jpg)
 
 ### Related:
 

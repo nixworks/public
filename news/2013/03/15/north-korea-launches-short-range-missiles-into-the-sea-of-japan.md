@@ -9,6 +9,7 @@ SEOUL - North Korea has tested short-range missiles in the Sea of Japan (known a
 
 1. [AP via ''Japan Times](http://www.japantimes.co.jp/news/2013/03/17/world/u-s-to-boost-missile-defense-to-counter-north-korea-threat/)
 2. [NK News](http://www.nknews.org/2013/03/breaking-north-korea-launches-short-range-missiles-on-east-coast/)
+2. [Cover Image](https://www.nknews.org/wp-content/uploads/2015/08/north-korean-kn02-short-range-missiles.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [NDTV](http://www.ndtv.com/article/world/blast-at-sufi-shrine-in-pak-8-killed-reports-62087)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/25/c_13573953.htm)
 4. [irna](http://www.irna.ir/ENNewsShow.aspx?NID=30037197&SRCH=1)
+4. [Cover Image](http://i.ndtvimg.com/mt/2010-10/Paksufishrineblast295.jpg)
 
 ### Related:
 

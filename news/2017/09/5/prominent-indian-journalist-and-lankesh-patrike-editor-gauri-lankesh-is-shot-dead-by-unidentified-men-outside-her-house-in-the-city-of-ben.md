@@ -8,6 +8,7 @@ A senior Indian journalist was shot dead on Tuesday in the southern city of Beng
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-india-murder/indian-journalist-shot-dead-at-her-residence-idUSKCN1BG2VG)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

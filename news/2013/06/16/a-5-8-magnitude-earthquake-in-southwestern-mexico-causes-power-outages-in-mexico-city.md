@@ -9,6 +9,7 @@ Power outages hit the Mexican capital of Mexico City on Sunday after an earthqua
 
 1. [CNN](http://edition.cnn.com/2013/06/16/world/americas/mexico-earthquake/index.html)
 2. [Reuters](http://www.reuters.com/article/2013/06/16/us-mexico-quake-idUSBRE95F02720130616)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130616&t=2&i=741725687&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95F0HEA00)
 
 ### Related:
 

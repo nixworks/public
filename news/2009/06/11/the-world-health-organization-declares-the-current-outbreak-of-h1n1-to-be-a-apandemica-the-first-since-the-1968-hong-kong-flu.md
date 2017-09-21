@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/8094655.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0611/swineflu.html)
+2. [Cover Image](https://img.rasset.ie/00024a27-1600.jpg)
 
 ### Related:
 

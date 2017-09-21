@@ -8,6 +8,7 @@ NZ Finance Minister Bill English is set to be appointed prime minister after two
 ### Source:
 
 1. [AAP via Sky News Australia](http://www.skynews.com.au/news/top-stories/2016/12/08/bill-english-set-to-become-next-nz-pm.html)
+1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/news/top-stories/2016/12/08/skynews_1363084990.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

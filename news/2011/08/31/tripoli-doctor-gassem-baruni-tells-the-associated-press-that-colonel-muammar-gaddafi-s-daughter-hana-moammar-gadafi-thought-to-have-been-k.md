@@ -8,6 +8,7 @@ Evidence mounts that Libyan despot lied when he told the world a 1986 U.S. air s
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2011/08/31/501364/main20099663.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/08/31/a09c19c6-a643-11e2-a3f0-029118418759/hana_qaddafi_AP96092513896.JPG)
 
 ### Related:
 

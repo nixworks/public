@@ -8,6 +8,7 @@ OUTGOING Victorian Senator Steve Fielding has launched an ambitious plan to ban 
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/jokes-on-you-april-fools-day-too-much-for-senator-20110401-1cona.html?from=smh_sb)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

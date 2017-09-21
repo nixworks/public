@@ -8,6 +8,7 @@ Around one in a hundred deaths worldwide is due to passive smoking, which kills 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6AP00D20101126)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20101126&t=2&i=258298441&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-26T155611Z_01_BTRE6AP189P00_RTROPTP_0_SMOKING-PASSIVE-DEATHS)
 
 ### Related:
 

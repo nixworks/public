@@ -9,6 +9,7 @@ A suicide bomber killed at least 50 Yemeni soldiers at a base in the city of Ade
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-38275293)
 2. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKBN13Z0HS?il=0)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

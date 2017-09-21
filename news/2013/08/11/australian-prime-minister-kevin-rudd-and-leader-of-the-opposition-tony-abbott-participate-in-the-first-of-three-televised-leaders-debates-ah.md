@@ -8,6 +8,7 @@ Australian PM Kevin Rudd and opposition leader Tony Abbott clash over the econom
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23654148)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69225000/jpg/_69225915_69225914.jpg)
 
 ### Related:
 

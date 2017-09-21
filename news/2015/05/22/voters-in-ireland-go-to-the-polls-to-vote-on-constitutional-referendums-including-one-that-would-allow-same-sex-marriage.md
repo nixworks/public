@@ -8,6 +8,7 @@ A high turnout is reported as polls close after the Republic of Ireland votes in
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32835572)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/83158000/jpg/_83158517_ireland.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ President Vladimir Putin suggested on Friday Russia could move its troops closer
 
 1. [Oneindia](http://www.oneindia.com/international/putin-visits-finland-discusses-nato-issues-2142853.html)
 2. [Reuters](http://www.reuters.com/article/us-russia-finland-nato-putin-idUSKCN0ZH5IV)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160701&t=2&i=1143748948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC603BJ)
 
 ### Related:
 

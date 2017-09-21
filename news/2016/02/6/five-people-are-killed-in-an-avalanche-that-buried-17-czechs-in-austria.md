@@ -8,6 +8,7 @@ Search and rescue operations were still under way on Saturday afternoon, and it 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/five-killed-avalanche-austria-s-skiing-region-police-n512736)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_05/1406466/160206-austria-avalanche-search-1256p_4d2dad24b18e71fd9daf5f02f7bd69fa.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

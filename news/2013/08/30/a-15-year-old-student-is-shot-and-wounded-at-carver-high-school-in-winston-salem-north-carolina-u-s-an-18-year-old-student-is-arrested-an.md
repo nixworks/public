@@ -9,6 +9,7 @@ A shooting at Carver High School on Friday left one student with non-life-threat
 
 1. [Huffington Post](http://www.huffingtonpost.com/2013/08/30/carver-high-school-shooting_n_3845163.html)
 2. [Winston-Salem Journal](http://www.journalnow.com/news/local/article_247ee7d0-11a4-11e3-b183-001a4bcf6878.html)
+2. [Cover Image](http://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/d/11/d115ed0a-11c1-11e3-963d-001a4bcf6878/522119eea381a.preview-640.jpg?crop=581%2C436%2C29%2C0&amp;resize=581%2C436&amp;order=crop%2Cresize)
 
 ### Related:
 

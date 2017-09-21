@@ -8,6 +8,7 @@ Mexico will start a national register of mobile phone users that will include fi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/technologyNews/idUSTRE5187EB20090209)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090209&t=2&i=8189600&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-09T210852Z_01_BTRE5181MR000_RTROPTP_0_US-MEXICO-PHONES)
 
 ### Related:
 

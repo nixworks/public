@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39903968)
 2. [Reuters](http://www.reuters.com/article/us-italy-ship-idUSKBN1882MF?il=0)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170512&t=2&i=1184407864&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4B1R0)
 
 ### Related:
 

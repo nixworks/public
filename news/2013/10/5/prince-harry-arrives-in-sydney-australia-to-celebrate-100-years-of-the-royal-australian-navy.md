@@ -8,6 +8,7 @@ Prince Harry has arrived in Sydney to celebrate the Navy centenary as part of th
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2013-10-05/prince-harry-to-join-international-fleet-review/5000534)
+1. [Cover Image](http://www.abc.net.au/news/image/5000690-1x1-700x700.jpg)
 
 ### Related:
 

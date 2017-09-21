@@ -9,6 +9,7 @@ With 99.6 per cent of votes counted across the country, the ruling party won eig
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010111514145510301.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11754665)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/15/201011152182142580_20.jpg)
 
 ### Related:
 

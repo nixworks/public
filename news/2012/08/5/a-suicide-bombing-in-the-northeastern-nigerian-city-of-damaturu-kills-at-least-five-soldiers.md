@@ -8,6 +8,7 @@ A suicide bomber in the north-eastern Nigerian city of Damaturu has killed at le
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19140828)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60960000/gif/_60960574_nigeria_zaria_06_12.gif)
 
 ### Related:
 

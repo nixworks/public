@@ -8,6 +8,7 @@ Tens of thousands of people have been forced to flee to Liberia due to fresh unr
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/africa/2011/03/2011319164523643189.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/19/2011319164947820738_20.jpg)
 
 ### Related:
 

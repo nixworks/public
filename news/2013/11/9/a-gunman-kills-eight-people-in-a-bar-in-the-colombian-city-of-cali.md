@@ -8,6 +8,7 @@ A gunman opened fire in a bar on Friday night in the Colombian city of Cali, kil
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/09/us-colombia-shooting-bar-idUSBRE9A80CY20131109)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

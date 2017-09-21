@@ -8,6 +8,7 @@ At 6pm on Saturday the five-and-a-half-year countdown for Euro 2008 ends and the
 ### Source:
 
 1. [Swissinfo](http://www.swissinfo.ch/eng/news/sport/Let_the_games_begin.html?siteSect=181&sid=9182941&cKey=1212762362000&ty=st)
+1. [Cover Image](http://www.swissinfo.ch/blob/50774/f7b96361f38e606d5972a47e2b90da3a/keyimg20080606-9181422-1-data.jpg)
 
 ### Related:
 

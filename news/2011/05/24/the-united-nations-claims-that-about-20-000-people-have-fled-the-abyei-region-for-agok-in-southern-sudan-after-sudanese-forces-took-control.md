@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-13525795)
 2. [Reuters](http://www.reuters.com/article/2011/05/24/sudan-abyei-idUSLAE42890120110524)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52932000/jpg/_52932308_012054007-1.jpg)
 
 ### Related:
 

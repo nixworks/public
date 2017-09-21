@@ -9,6 +9,7 @@ A man accused of killing Jo Yeates, whose body was found near Bristol on Christm
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-13290187)
 2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Joanne-Yeates-Video-Vincent-Tabak-Admits-Manslaughter-Of-Architect-At-Old-Bailey/Article/201105115985869?lpos=UK_News_Carousel_Region_0&lid=ARTICLE_15985869_Joanne_Yeates%2C_Video%3A_Vincent_Tabak_Admits_Manslaughter_Of_Architect_At_Old_Bailey_)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52542000/jpg/_52542110_464_tabak_yeates_2.jpg)
 
 ### Related:
 

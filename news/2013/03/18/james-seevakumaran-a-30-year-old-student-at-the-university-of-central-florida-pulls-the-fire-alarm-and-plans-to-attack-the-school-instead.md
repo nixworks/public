@@ -9,6 +9,7 @@ HOUSTON -- An undergraduate student at the University of Central Florida apparen
 
 1. [AP via Fox News](http://www.foxnews.com/us/2013/03/19/central-fla-student-plotted-attack-on-other-students-then-changed-mind-and/)
 2. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-university-central-florida-dorm-explosives-20130318,0,6072224.story)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

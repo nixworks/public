@@ -8,6 +8,7 @@
 ### Source:
 
 1. [news24](http://www.news24.com/News24/World/News/0,,2-10-1462_1826915,00.html)
+1. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

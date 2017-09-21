@@ -8,6 +8,7 @@ Fifty-nine years after James Watson and Francis Crick deduced the double-helix s
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/50029929/ns/technology_and_science-science/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/121130_DNAPhoto-1240p.files.standard.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Rebel shelling killed eight children at a school in the government-held part of 
 1. [CNN](http://edition.cnn.com/2016/11/20/middleeast/syria-aleppo-airstrikes/)
 2. [FOX News](http://www.foxnews.com/world/2016/11/20/children-among-dozens-killed-in-latest-aleppo-attacks.html)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKBN13F0HS)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161120&t=2&i=1162403302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAJ0C2)
 
 ### Related:
 

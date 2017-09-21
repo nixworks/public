@@ -8,6 +8,7 @@ Gunmen murdered the mayor of a town in the Mexican state of Tamaulipas where 72 
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/mayor-assassinated-in-mexico-20100830-13y8g.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

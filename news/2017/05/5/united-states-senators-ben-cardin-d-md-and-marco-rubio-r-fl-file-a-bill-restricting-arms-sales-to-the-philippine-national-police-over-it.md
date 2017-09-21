@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/168973-us-bill-restrictions-weapons-exports-pnp)
+1. [Cover Image](https://assets.rappler.com/0330217A0D2642BB92600A0B0F65BC84/img/81C2F17E8606485291A3A8CC437BD4C9/duterte-erring-pnp-police-cabinet-20170207-016.jpg)
 
 ### Related:
 

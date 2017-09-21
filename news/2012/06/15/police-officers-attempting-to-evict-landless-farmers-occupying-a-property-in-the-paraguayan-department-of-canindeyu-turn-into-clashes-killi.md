@@ -8,6 +8,7 @@ At least 16 people die in eastern Paraguay as evictions of landless farmers turn
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18466238)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60946000/gif/_60946104_paraguay_canindeyu_0612.gif)
 
 ### Related:
 

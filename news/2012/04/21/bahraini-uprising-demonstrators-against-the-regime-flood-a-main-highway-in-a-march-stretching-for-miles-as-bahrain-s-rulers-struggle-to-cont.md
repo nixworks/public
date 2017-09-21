@@ -16,6 +16,7 @@ Anti-government protesters in Bahrain flooded a main highway in a march stretchi
 7. [The Guardian](http://www.guardian.co.uk/media/2012/apr/20/f1-grand-prix-bahrain-journalists?newsfeed=true)
 8. [The Guardian](http://www.guardian.co.uk/world/2012/apr/21/un-authorises-syria-monitors)
 9. [The Irish Times](http://www.irishtimes.com/newspaper/weekend/2012/0421/1224315001314.html)
+9. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02199/bahrain_2199491a.jpg)
 
 ### Related:
 

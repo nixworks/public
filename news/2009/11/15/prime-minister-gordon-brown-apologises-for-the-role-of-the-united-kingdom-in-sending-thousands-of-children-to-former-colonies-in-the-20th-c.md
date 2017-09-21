@@ -8,6 +8,7 @@ British PM Gordon Brown will apologise for the UK&#39;s role in sending thousand
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1115/children.html)
+1. [Cover Image](https://img.rasset.ie/00028d73-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Peak of the Furnace volcano on Reunion Island in the Indian Ocean erupted on
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/09/12/Reunion-Islands-Peak-of-the-Furnace-volcano-erupts/4651473681738/)
+1. [Cover Image](http://cdnph.upi.com/ph/st/th/4651473681738/2016/i/14736849793720/v1.5/Reunion-Islands-Peak-of-the-Furnace-volcano-erupts.jpg?lg=2)
 
 ### Related:
 

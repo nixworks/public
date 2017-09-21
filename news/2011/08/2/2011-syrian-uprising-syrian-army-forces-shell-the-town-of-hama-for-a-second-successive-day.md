@@ -8,6 +8,7 @@ Syrian forces are pushing towards the centre of the city of Hama as they continu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14368183)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-middle-east-14368183A/playlist.sxml)
 
 ### Related:
 

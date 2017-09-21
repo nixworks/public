@@ -9,6 +9,7 @@ Iran said it had put a dummy satellite into orbit on a home-grown rocket for the
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/in_depth/7566804.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSHAF75296620080817)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080817&t=2&i=5629533&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-08-17T171820Z_01_HAF752966_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

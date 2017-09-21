@@ -8,6 +8,7 @@ When politicians smear science, real people get hurt. I’m marching because we 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/commentisfree/2017/apr/22/march-for-science-when-attacked-only-elite-benefit)
+1. [Cover Image](https://i.guim.co.uk/img/media/35908e072876d6625da38f7f1f2cda053f28dc89/0_326_3872_2325/master/3872.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5e2d1894e7c63c9befa244028439542e)
 
 ### Related:
 

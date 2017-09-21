@@ -8,6 +8,7 @@ The European Union has won the Nobel Peace Prize, despite a year marked by riots
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/eu/9603745/EU-awarded-Nobel-Peace-Prize.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02260/flag_2260285k.jpg)
 
 ### Related:
 

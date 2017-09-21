@@ -9,6 +9,7 @@ NASA&#039;s Voyager 1 spacecraft has entered a new region at the far reaches of 
 
 1. [NASA](http://www.nasa.gov/mission_pages/voyager/voyager20121203.html)
 2. [Reuters](http://www.reuters.com/article/2012/12/04/space-voyager-idUSL1E8N407F20121204)
+2. [Cover Image](http://www.nasa.gov/sites/default/files/pia16482-full.jpg)
 
 ### Related:
 
@@ -21,4 +22,4 @@ NASA&#039;s Voyager 1 spacecraft has entered a new region at the far reaches of 
 7. [Data confirms that Voyager 1 has entered the heliopause, the area of space where the Sun's solar wind is stopped by the interstellar wind. It is believed the probe will now leave the Solar System within the next four years. ](/news/2010/12/15/data-confirms-that-voyager-1-has-entered-the-heliopause-the-area-of-space-where-the-sun-s-solar-wind-is-stopped-by-the-interstellar-wind-i.md) _Context: Solar System, Voyager 1_
 8. [ Michael D. Griffin, the current Administrator of NASA, announces the agency will concentrate more on the outer Solar System and less on Mars exploration, due to cuts to its 2009-2012 budget. ](/news/2008/03/15/michael-d-griffin-the-current-administrator-of-nasa-announces-the-agency-will-concentrate-more-on-the-outer-solar-system-and-less-on-mar.md) _Context: NASA, Solar System_
 9. [ Voyager 1, the most distant man-made object, has entered the heliosheath and is on the cusp of leaving the Solar System and entering the interstellar medium. ](/news/2005/05/25/voyager-1-the-most-distant-man-made-object-has-entered-the-heliosheath-and-is-on-the-cusp-of-leaving-the-solar-system-and-entering-the-in.md) _Context: Solar System, Voyager 1_
-10. [ NASA intentionally crashes the Lunar Prospector spacecraft into the Moon, thus ending its mission to detect frozen water on the moon's surface.](/news/1999/07/31/nasa-intentionally-crashes-the-lunar-prospector-spacecraft-into-the-moon-thus-ending-its-mission-to-detect-frozen-water-on-the-moon-s-surf.md) _Context: NASA, spacecraft_
+10. [ NASA/ESA Spacecraft Cassini-Huygens discovers two new natural satellites of Saturn. They are provisionally named "S/2004 S 1" (later named "Methone") and "S/2004 S 2" (later named "Pallene"). ](/news/2004/08/16/nasa-esa-spacecraft-cassiniahuygens-discovers-two-new-natural-satellites-of-saturn-they-are-provisionally-named-s-2004-s-1-later-name.md) _Context: NASA, spacecraft_

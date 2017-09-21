@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/philando-castile-shooting-protesters-arrested-minnesota-officers-acquittal/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/06/17/c91a2781-680b-433b-b237-f312fdc6513d/rts17ftx.jpg)
 
 ### Related:
 

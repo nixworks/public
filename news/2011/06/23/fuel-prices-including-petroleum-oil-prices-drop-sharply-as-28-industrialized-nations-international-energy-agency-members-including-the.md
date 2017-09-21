@@ -11,6 +11,7 @@ A surprise move to tap government oil reserves could slash painfully high gasoli
 2. [CNN Money](http://money.cnn.com/2011/06/23/markets/oil_prices/?hpt=po_bn1)
 3. [Los Angeles Times](http://www.latimes.com/business/la-fi-oil-economy-20110624,0,3865384.story)
 4. [USA Today](http://www.usatoday.com/money/industries/energy/2011-06-23-oil-prices_n.htm)
+4. [Cover Image](http://www.latimes.com/media/photo/2011-06/349682720-23075711.jpg)
 
 ### Related:
 

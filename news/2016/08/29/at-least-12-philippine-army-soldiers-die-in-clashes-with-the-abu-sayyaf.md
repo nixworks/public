@@ -8,6 +8,7 @@ At least 12 soldiers from the Philippines have died during heavy fighting with A
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/amp/37214635)
+1. [Cover Image](http://ichef.bbci.co.uk/news/976/cpsprodpb/660E/production/_90962162_mediaitem90962159.jpg)
 
 ### Related:
 

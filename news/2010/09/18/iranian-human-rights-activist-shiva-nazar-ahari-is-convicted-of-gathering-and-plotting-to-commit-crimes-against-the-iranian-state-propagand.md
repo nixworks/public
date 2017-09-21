@@ -8,6 +8,7 @@ Shiva Nazar Ahari sentenced to six years in prison for plotting crimes against s
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010918161829135229.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/18/201091816175929734_20.jpg)
 
 ### Related:
 

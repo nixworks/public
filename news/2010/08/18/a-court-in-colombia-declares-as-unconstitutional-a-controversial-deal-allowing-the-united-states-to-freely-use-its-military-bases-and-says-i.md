@@ -10,6 +10,7 @@ A Colombia court rules a 2009 deal allowing US troops access to army bases is un
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11007822)
 2. [The Age](http://news.theage.com.au/breaking-news-world/uscolombia-bases-deal-unconstitutional-20100818-129ej.html)
 3. [The Sydney Morning Herald](http://www.smh.com.au/world/court-bars-us-access-to-army-bases-20100818-12f9j.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

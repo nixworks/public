@@ -10,6 +10,7 @@ A Chinese court jails Tibetan environmentalist Karma Samdrup for 15 years on cha
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10414092.stm)
 2. [Reuters Africa](http://af.reuters.com/article/oddlyEnoughNews/idAFTRE65O2M720100625?sp=true)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jun/25/china-jails-tibetan-environmentalist)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

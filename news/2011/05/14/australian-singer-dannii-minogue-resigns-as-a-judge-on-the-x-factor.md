@@ -8,6 +8,7 @@ Dannii Minogue confirms she is standing down as a judge on The X Factor due to a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13402619)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52726000/jpg/_52726868_011793428-1.jpg)
 
 ### Related:
 

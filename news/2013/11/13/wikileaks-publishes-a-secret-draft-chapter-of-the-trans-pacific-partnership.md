@@ -8,6 +8,7 @@ The Trans-Pacific Partnership, negotiated in secret between 12 Pacific Rim natio
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/media/2013/nov/13/wikileaks-trans-pacific-partnership-chapter-secret)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/11/13/1384364349840/271437f2-4103-4bf7-ac7a-8bd972dd89a9-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7255697d0496ad35bb5884803dc5e249)
 
 ### Related:
 

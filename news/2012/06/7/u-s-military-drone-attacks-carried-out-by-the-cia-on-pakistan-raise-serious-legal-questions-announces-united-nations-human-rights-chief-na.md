@@ -8,6 +8,7 @@ UN human rights chief Navi Pillay says during a visit to Pakistan that US drone 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18363003)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60769000/jpg/_60769732_008664042-1.jpg)
 
 ### Related:
 

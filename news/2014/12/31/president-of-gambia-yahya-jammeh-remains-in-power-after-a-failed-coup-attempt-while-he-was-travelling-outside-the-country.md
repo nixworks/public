@@ -8,6 +8,7 @@ President Yahya Jammeh arrives in Gambian capital after a failed coup on his pre
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2014/12/gambia-leader-return-after-coup-attempt-2014123191702890.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/12/31/2014123144647938734_20.jpg)
 
 ### Related:
 

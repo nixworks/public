@@ -9,6 +9,7 @@ Government rejects resignation
 
 1. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/23878)
 2. [The Financial Times](http://www.ft.com/cms/s/0/91e7bf84-0d40-11df-af79-00144feabdc0.html)
+2. [Cover Image](/files/imagenes//2010/16009_3001_tapa_redrado.jpg)
 
 ### Related:
 

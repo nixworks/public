@@ -8,6 +8,7 @@ Yasuo Fukuda, a mild-mannered political moderate, is known for his ability to bu
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/23/world/asia/23cnd-japan.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2007/09/23/world/23cnd-japan2.75.jpg)
 
 ### Related:
 

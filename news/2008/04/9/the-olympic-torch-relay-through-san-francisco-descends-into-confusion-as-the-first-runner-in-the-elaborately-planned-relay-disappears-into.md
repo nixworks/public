@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/san-francisco-olympic-torch-relay/story.aspx?guid=%7B425BCDF1%2D1753%2D4499%2D91B8%2DCE4E69AE0FE6%7D)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

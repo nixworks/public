@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/19/us-serbia-kosovo-eu-idUSBRE93I0IB20130419)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130419&t=2&i=724056976&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93I1ORP00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Game-by-game commentray as Serena Williams beats sister Venus 7-6, 6-2 to win th
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/tennis/wimbledon/5741528/Wimbledon-2009-Serena-Williams-v-Venus-Williams-as-it-happened.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01436/serena-williams_1436738a.jpg)
 
 ### Related:
 

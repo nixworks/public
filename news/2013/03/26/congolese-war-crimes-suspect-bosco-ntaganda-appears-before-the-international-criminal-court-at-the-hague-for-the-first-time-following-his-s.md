@@ -8,6 +8,7 @@ Congolese war crimes suspect Bosco Ntaganda appears in court at the Hague for th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21933569)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66610000/jpg/_66610164_66610163.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Robotic legs developed by two Scottish engineers to help people with spinal inju
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-15629439)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56545000/jpg/_56545235_bionic_step.jpg)
 
 ### Related:
 

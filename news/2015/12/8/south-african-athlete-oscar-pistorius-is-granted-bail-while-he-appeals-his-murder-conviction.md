@@ -8,6 +8,7 @@ Oscar Pistorius granted bail on the provision he surrenders his passport and wea
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/oscar-pistorius/12037785/Oscar-Pistorius-bail-hearing-decision-live.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03516/pistorius1_3516672k.jpg)
 
 ### Related:
 

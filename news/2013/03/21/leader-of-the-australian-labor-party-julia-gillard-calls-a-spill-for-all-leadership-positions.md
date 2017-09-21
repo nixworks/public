@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-03-21/live-coverage-labor-leadership-crisis/4586250)
+1. [Cover Image](http://www.abc.net.au/news/image/4586930-1x1-700x700.jpg)
 
 ### Related:
 

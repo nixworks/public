@@ -9,6 +9,7 @@ Sanctions freeze Venezuelan president’s assets under US jurisdiction and preve
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-40784516)
 2. [The Guardian](https://www.theguardian.com/world/2017/jul/31/us-venezuela-sanctions-nicolas-maduro)
+2. [Cover Image](https://i.guim.co.uk/img/media/645dea556a3568e5254c0c8bbcf57e3d481273e7/0_135_3855_2314/master/3855.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=fafa234685e1445fd46c6ca4c2763d33)
 
 ### Related:
 

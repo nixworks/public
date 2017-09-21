@@ -8,6 +8,7 @@ Judge says Mohammad Reza Rahimi, an official under ex-president, has been jailed
 ### Source:
 
 1. [ (Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/09/iran-convicts-ahmadinejad-vice-president-20149113121587150.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/9/1/20149113122791734_20.jpg)
 
 ### Related:
 

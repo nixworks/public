@@ -8,6 +8,7 @@ Denver Police say two people were shot and one person was stabbed Saturday after
 ### Source:
 
 1. [9 News](http://www.9news.com/story/news/local/2016/01/30/shooting-stabbing-reported-denver-coliseum/79570036/)
+1. [Cover Image](http://content.9news.com/photo/2016/01/30/635897652766742643-stabbing_4322157_ver1.0.jpg)
 
 ### Related:
 

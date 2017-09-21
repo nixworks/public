@@ -9,6 +9,7 @@ Government officials have said the death toll from severe flooding in the Solomo
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/04/04/worst-flooding-memory-hits-solomon-islands)
 2. [ABC News Australia](http://www.abc.net.au/news/2014-04-03/an-heavy-rain-causes-flash-flooding-in-solomon-islands/5366284)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/IMG_110716418890852.jpeg)
 
 ### Related:
 

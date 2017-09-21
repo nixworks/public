@@ -8,6 +8,7 @@ Altar found on Mount Lykaion in Greece date back to 1400 B.C., oldest Zeus worsh
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,490244,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

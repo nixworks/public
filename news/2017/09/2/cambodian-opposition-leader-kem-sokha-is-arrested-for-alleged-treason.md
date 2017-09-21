@@ -8,6 +8,7 @@ Police in Cambodia arrested the leader of the country&apos;s main opposition par
 ### Source:
 
 1. [The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-cambodia-opposition-leader-treason-20170902-story.html)
+1. [Cover Image](http://www.trbimg.com/img-59ab1675/turbine/ct-cambodia-opposition-leader-treason-20170902)
 
 ### Related:
 

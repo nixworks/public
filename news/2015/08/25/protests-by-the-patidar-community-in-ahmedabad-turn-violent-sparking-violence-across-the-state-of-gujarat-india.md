@@ -8,6 +8,7 @@ Patel OBC quota protest turns violent; Gujarat Home Minister Rajni Patel&#039;s 
 ### Source:
 
 1. [DNA India](http://www.dnaindia.com/india/report-patel-obc-quota-protest-turns-violent-gujarat-home-minister-rajni-patel-s-house-torched-2118504)
+1. [Cover Image](http://static.dnaindia.com/sites/default/files/2015/09/24/369282-pti-patel-protest-hardik-patel.jpg)
 
 ### Related:
 

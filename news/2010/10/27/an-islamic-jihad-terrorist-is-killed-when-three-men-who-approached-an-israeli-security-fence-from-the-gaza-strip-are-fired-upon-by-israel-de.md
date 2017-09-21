@@ -9,6 +9,7 @@
 
 1. [Arutz Sheva](http://www.israelnationalnews.com/News/News.aspx/140300)
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/10/27/israel.march/index.html?eref=edition)
+2. [Cover Image](http://f.a7.org/pictures/244/244825.jpg)
 
 ### Related:
 

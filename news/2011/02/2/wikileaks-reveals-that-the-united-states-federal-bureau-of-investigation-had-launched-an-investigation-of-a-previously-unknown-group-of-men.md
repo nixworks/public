@@ -8,6 +8,7 @@ The FBI has launched a manhunt for a previously unknown team of men suspected to
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/wikileaks/8296860/WikiLeaks-FBI-hunts-the-911-gang-that-got-away.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01816/splash_1816404a.jpg)
 
 ### Related:
 

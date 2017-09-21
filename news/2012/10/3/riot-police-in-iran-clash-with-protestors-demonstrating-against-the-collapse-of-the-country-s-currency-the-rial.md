@@ -8,6 +8,7 @@ Police have reportedly fired tear gas to disperse demonstrators as they proteste
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012103113527747494.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/4/20121046242290580_20.jpg)
 
 ### Related:
 

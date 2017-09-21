@@ -8,3 +8,4 @@ Santa Cruz officials say the teenage boy accused of kidnapping, sexual assaultin
 ### Source:
 
 1. [ABC News](http://abc7news.com/news/teen-charged-as-an-adult-in-murder-of-madyson-middleton/891025/)
+1. [Cover Image](http://cdn.abclocal.go.com/content/kgo/images/cms/automation/vod/892235_1280x720.jpg)

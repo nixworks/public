@@ -11,6 +11,7 @@ Congressional leaders of both parties and President Obama had a framework for a 
 2. [Economic Times](http://economictimes.indiatimes.com/news/international-business/barack-obama-and-congressional-leaders-strike-a-deal-for-raising-us-debt-limit/articleshow/9437937.cms)
 3. [New York Times](http://www.nytimes.com/2011/08/01/us/politics/01FISCAL.html?_r=1&hp)
 4. [Washington Post](http://www.washingtonpost.com/business/economy/reid-signs-off-on-debt-deal-hopes-for-vote/2011/07/31/gIQALCW4lI_story.html)
+4. [Cover Image](https://static01.nyt.com/images/2011/08/01/us/01fiscal5_span/01fiscal5-thumbStandard-v2.jpg)
 
 ### Related:
 

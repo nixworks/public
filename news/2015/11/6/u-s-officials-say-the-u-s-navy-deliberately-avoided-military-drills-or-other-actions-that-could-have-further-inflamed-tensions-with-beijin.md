@@ -9,6 +9,7 @@ As soon as the guided-missile destroyer USS Lassen breached 12-nautical-mile ter
 
 1. [New York Post](http://nypost.com/2015/11/06/chinese-warship-to-us-destroyer-hope-to-see-you-again/)
 2. [Reuters](http://www.reuters.com/article/2015/11/06/us-southchinasea-usa-passage-idUSKCN0SV2QK20151106#2bhxDuJSu1BpgQBT.97)
+2. [Cover Image](https://thenypost.files.wordpress.com/2015/11/uss_lassen.jpg?quality=90&amp;strip=all&amp;w=1024)
 
 ### Related:
 

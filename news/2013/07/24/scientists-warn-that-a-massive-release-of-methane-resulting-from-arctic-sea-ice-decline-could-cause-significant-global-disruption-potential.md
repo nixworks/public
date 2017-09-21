@@ -9,6 +9,7 @@ The sudden release from the melting Arctic of vast quantities of methane – a g
 
 1. [Nature](http://www.nature.com/nature/journal/v499/n7459/full/499401a.html)
 2. [The Independent](http://www.independent.co.uk/news/science/economic-timebomb-methane-from-melting-arctic-could-cost-global-economy-40tr-8730408.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/07/24/20/web-arctic-graphic.jpg)
 
 ### Related:
 

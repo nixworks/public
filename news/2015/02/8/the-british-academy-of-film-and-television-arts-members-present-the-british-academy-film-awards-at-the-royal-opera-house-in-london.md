@@ -9,6 +9,7 @@ British and US stars arrive at the Royal Opera House for the Bafta Film Awards, 
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-31156610)
 2. [The Guardian](http://www.theguardian.com/film/2015/feb/08/baftas-2015-boyhood-wins-top-honours-but-grand-budapest-hotel-checks-out-with-most)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80870000/jpg/_80870443_redmayne_pike.jpg)
 
 ### Related:
 

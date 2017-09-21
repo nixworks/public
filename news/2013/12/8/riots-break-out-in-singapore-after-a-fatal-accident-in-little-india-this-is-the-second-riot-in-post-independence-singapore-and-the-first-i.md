@@ -9,6 +9,7 @@ Police in Singapore arrest 27 South Asian suspects after hundreds of foreign wor
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25294918)
 2. [Channel NewsAsia](http://www.channelnewsasia.com/news/singapore/riot-in-singapore-s/914834.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71619000/jpg/_71619521_71619520.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An Israeli soldier and a Palestinian have been killed during an exchange of fire
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18293186)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60635000/jpg/_60635734_014909756-1.jpg)
 
 ### Related:
 

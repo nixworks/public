@@ -8,6 +8,7 @@ A private company will make a trial cargo run to the International Space Station
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/09/us-space-business-idUSTRE7B825D20111209)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111209&t=2&i=544976385&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B81QA100)
 
 ### Related:
 

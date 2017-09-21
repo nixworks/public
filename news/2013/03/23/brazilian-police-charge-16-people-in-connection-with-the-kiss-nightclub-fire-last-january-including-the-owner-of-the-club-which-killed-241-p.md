@@ -8,6 +8,7 @@ Sixteen people have been charged in connection with the nightclub fire in Brazil
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/brazil/9949472/16-charged-in-connection-with-Brazil-nightclub-fire.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02463/BrazilFire2_2463428k.jpg)
 
 ### Related:
 

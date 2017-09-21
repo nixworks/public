@@ -8,6 +8,7 @@ Martin McGuinness steps down in protest against the handling of a botched energy
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-38561507)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/DC7B/production/_93334465_a169d6da-8445-4e35-ac9a-c417d0425a1c.jpg)
 
 ### Related:
 

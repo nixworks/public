@@ -8,6 +8,7 @@ Three people arrested during protests over disputed presidential poll are senten
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/10/2009101013811496700.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Extensive advertisements of direct-to-consumer prescription drugs and medical de
 
 1. [The Science Times](http://www.sciencetimes.com/articles/7736/20151119/medical-doctor-group-ama-seeks-ban-ads-prescription-drugs.htm)
 2. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/19/american-medical-association-urges-ban-on-tv-drug-ads/?uid=0ef76ca8-45d6-11e0-a478-1231380f446b&wpmm=1&wpisrc=nl_mix)
+2. [Cover Image](http://images.sciencetimes.com/data/images/full/7706/influential-medical-group-seeks-to-ban-extensive-prescripted-drugs.jpg)
 
 ### Related:
 

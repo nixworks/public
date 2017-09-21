@@ -8,6 +8,7 @@
 ### Source:
 
 1. ["Huffington Post"](http://www.huffingtonpost.ca/2012/03/23/quebec-student-protests-government-tuition_n_1375560.html)
+1. [Cover Image](http://i.huffpost.com/gen/542671/images/r-MANIFESTATION-ETUDIANTE-600x275.jpg)
 
 ### Related:
 

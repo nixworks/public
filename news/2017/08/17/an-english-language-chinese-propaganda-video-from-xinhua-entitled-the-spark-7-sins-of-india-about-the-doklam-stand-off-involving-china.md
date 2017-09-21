@@ -8,6 +8,7 @@ It features a Chinese actor in a turban and fake beard, mockingly assuming an In
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-40957719)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/47A5/production/_97414381_e0a5c4b6-6f18-4416-b596-2cd06ed456af.jpg)
 
 ### Related:
 

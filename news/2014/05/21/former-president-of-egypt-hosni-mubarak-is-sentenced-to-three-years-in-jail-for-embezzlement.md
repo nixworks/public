@@ -8,6 +8,7 @@ A court in Egypt sentences ousted President Hosni Mubarak to three years in pris
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27499325#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74998000/jpg/_74998276_74998275.jpg)
 
 ### Related:
 

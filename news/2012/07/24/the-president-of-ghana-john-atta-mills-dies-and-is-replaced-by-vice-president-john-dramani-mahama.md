@@ -9,6 +9,7 @@ News - Your daily dose of information: European and International latest breakin
 
 1. [Euronews](http://www.euronews.com/newswires/1595414-ghana-president-mills-dead-presidential-statement/)
 2. [Reuters](http://www.reuters.com/article/2012/07/24/us-ghana-president-idUSBRE86N14720120724)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120724&t=2&i=633916901&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86N1A1200)
 
 ### Related:
 

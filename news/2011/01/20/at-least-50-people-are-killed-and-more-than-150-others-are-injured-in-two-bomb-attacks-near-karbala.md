@@ -10,6 +10,7 @@ Two bombs near the Iraqi city of Karbala kill at least 50 people and wound many 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011120124327958681.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12242407)
 3. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/45-dead-in-twin-Iraq-suicide-car-bombs-Official/articleshow/7327848.cms)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

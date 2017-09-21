@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/29/us-cuba-dissident-idUSKCN0RT2O920150929)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150929&t=2&i=1083257706&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8S1DT)
 
 ### Related:
 

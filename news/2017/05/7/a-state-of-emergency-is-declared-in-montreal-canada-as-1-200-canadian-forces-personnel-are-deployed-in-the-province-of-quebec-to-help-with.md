@@ -8,6 +8,7 @@ Mayor Denis Coderre has declared a state of emergency for Montreal amid the risk
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/quebec-flooding-province-army-1.4103506)
+1. [Cover Image](https://i.cbc.ca/1.4103716.1494179300!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/que-flooding-20170505.jpg)
 
 ### Related:
 

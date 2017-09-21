@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [AGI](http://www.agi.it/english/news.pl?doc=200502221851-1217-RT1-CRO-0-NF11&page=0&id=agionline-eng.oggitalia)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4287995.stm)
 3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=musicNews&storyID=2005-02-22T180140Z_01_L22284494_RTRIDST_0_MUSIC-CRIME-ITALY-SATAN-DC.XML)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

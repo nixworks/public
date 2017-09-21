@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4117712.stm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-21T222611Z_01_N21640081_RTRIDST_0_INTERNATIONAL-BRAZIL-POLITICS-DC.XML)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

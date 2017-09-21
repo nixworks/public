@@ -10,6 +10,7 @@ Faisal Abedin Deepan killed on same day as attacks on publisher Ahmed Rahim Tutu
 1. [Prothom Alo](http://en.prothom-alo.com/bangladesh/news/84543/UN-condemns-Faisal-killing)
 2. [The Daily Star](http://www.thedailystar.net/frontpage/free-thinking-mauled-again-165493)
 3. [The Guardian](http://www.theguardian.com/world/2015/oct/31/faisal-abedin-deepan-bangladesh-secular-publisher-hacked-to-death)
+3. [Cover Image](https://i.guim.co.uk/img/media/3f9a455b39f4a1ede229b407d81350d663829cb6/21_164_4068_2444/master/4068.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=28983dde09e17133534b31f4459f64d0)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011321164113728994.html)
 2. [CNN](http://www.cnn.com/2011/WORLD/meast/03/23/yemen.protests/)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/mar/23/yemen-emergency-laws-protests)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/22/20113225652583360_20.jpg)
 
 ### Related:
 

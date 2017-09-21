@@ -9,6 +9,7 @@ At least 12 people, including several children, have died in a series of bomb at
 
 1. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2012-01-03/afghanistan-suicide-attack/52350918/1)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-16391049)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52908000/jpg/_52908535_bn-448x252.jpg)
 
 ### Related:
 

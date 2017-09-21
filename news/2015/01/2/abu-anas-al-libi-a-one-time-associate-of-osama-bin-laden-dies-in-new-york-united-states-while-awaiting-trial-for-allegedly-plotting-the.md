@@ -8,6 +8,7 @@ Terror suspect Abu Anas al-Libi has died in New York while awaiting trial for al
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/suspected-plotter-u-s-embassy-attacks-abu-anas-al-libi-n278866)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_01/464396/8c9289601-131005-anas-al-liby-752p_55e9a9875c24e6ca6e27aa750a522037.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

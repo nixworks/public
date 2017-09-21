@@ -8,6 +8,7 @@ A fresh attack by the Nigerian Islamist group Boko Haram in Cameroon has left ab
 ### Source:
 
 1. [News24](http://www.news24.com/Africa/News/Boko-Haram-slaughter-dozens-in-Cameroon-village-20141228)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2913/3c0f2c28d9b24783875bdaaf1e6ac9e2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Scientists find live specimens of the giant shipworm, described as &quot;rare an
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39626131)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6336/production/_95689352_page-2-image-3.png)
 
 ### Related:
 

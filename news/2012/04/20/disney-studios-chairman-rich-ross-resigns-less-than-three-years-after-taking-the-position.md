@@ -8,3 +8,4 @@ The exec had a rocky tenure at the film studio, with his greatest setback being 
 ### Source:
 
 1. [The Hollywood Reporter](http://www.hollywoodreporter.com/news/rich-ross-disney-314584)
+1. [Cover Image](http://cdn2.thr.com/sites/default/files/2012/04/rich_ross_resigns_from_disney.jpg)

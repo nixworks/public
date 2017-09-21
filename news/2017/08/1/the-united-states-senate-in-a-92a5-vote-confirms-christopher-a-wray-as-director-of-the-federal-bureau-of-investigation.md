@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-usa-fbi-wray-idUSKBN1AH5AC)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170801&t=2&i=1195374250&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED7038Y)
 
 ### Related:
 

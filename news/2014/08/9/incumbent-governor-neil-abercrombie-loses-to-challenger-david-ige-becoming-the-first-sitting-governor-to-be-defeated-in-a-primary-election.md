@@ -10,6 +10,7 @@ State Chief Elections Officer Scott Nago has announced that, after being briefed
 1. [Hawaii News Now](http://www.hawaiinewsnow.com/story/26235519/2014-primary-gov-abercrombie-ige-senate-results)
 2. [Hawaii News Now](http://www.hawaiinewsnow.com/story/26239647/ige-maintains-large-lead-over-abercrombie-in-primary-election)
 3. [Hawaii News Now](http://www.hawaiinewsnow.com/story/26241820/democratic-candidates-up-for-lieutenant-governors-seat-prove-tight-race-in-primary-election)
+3. [Cover Image](http://KHNL.images.worldnow.com/images/4442660_G.jpg)
 
 ### Related:
 

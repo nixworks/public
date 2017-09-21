@@ -8,6 +8,7 @@ Australian researchers find that a species of dolphin thought to be a common bot
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-14921665)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55382000/jpg/_55382849_tv012916760.jpg)
 
 ### Related:
 

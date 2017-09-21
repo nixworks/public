@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2012/06/4-dead-in-kenya-police-helicopter-crash/)
+1. [Cover Image](http://www.capitalfm.co.ke/news/files/2012/06/SAITOTI-OJODE.jpg)
 
 ### Related:
 

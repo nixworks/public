@@ -8,6 +8,7 @@ Israel confirms it imprisoned an Australian-Israeli man under a false identity f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21452836)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65878000/jpg/_65878756_65878755.jpg)
 
 ### Related:
 

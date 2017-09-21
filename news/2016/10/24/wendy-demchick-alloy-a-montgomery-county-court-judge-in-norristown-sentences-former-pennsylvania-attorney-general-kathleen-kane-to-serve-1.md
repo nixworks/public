@@ -8,6 +8,7 @@ Former Pennsylvania Attorney General Kathleen Kane was sentenced on Monday to se
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pennsylvania-kane-idUSKCN12O133)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161024&t=2&i=1158773570&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9N1G9)
 
 ### Related:
 

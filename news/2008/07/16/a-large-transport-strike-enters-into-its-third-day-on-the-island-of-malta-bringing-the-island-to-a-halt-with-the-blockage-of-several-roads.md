@@ -9,6 +9,7 @@ Scuffles broke out between policemen and striking transport workers who at about
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aj5I5xF00zv8&refer=europe)
 2. [Times of Malta](http://www.timesofmalta.com/articles/view/20080714/local/scuffles-outside-castille)
+2. [Cover Image](https://cdn-attachments.timesofmalta.com/default-article-image.png)
 
 ### Related:
 

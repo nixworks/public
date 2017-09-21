@@ -8,3 +8,4 @@ An Indian woman, who wrote a popular memoir about her escape from the Taliban, i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23968427)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69664000/jpg/_69664139_69664138.jpg)

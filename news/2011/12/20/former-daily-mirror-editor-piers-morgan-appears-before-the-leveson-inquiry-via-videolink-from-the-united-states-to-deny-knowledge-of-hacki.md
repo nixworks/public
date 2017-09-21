@@ -8,6 +8,7 @@ Former Daily Mirror editor Piers Morgan tells the Leveson Inquiry he does not be
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16259941)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57439000/jpg/_57439870_jex_1270218_de54.jpg)
 
 ### Related:
 

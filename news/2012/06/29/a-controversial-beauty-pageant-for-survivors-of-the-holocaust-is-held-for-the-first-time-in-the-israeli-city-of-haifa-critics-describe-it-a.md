@@ -9,6 +9,7 @@ A beauty pageant for Holocaust survivors has been held in Israel for the first t
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18638941)
 2. [The Times of Israel](http://www.timesofisrael.com/miss-holocaust-survivor-crowned/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61243000/jpg/_61243793_holocaust_afp.jpg)
 
 ### Related:
 

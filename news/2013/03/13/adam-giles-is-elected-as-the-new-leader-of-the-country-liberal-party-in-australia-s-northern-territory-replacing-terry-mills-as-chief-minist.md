@@ -9,6 +9,7 @@ Terry Mills has been dumped as Chief Minister of the NT, with Adam Giles the new
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-03-13/terry-mills-dumped-as-nt-leader/4570820)
 2. [Northern Territory News](http://www.ntnews.com.au/article/2013/03/13/318520_ntnews.html)
+2. [Cover Image](http://www.abc.net.au/news/image/4241968-1x1-700x700.jpg)
 
 ### Related:
 

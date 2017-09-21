@@ -11,6 +11,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 2. [CBC](http://www.cbc.ca/arts/story/2007/01/08/rock-hall.html)
 3. [Detroit Free Press](http://www.freep.com/apps/pbcs.dll/article?AID=/20070108/ENT04/70108012/0/NEWS06)
 4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=musicNews&storyID=2007-01-08T230841Z_01_N08363125_RTRIDST_0_MUSIC-ROCKHALL-DC.XML&WTmodLoc=EntNewsMusic_C1_%5BFeed%5D-3)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

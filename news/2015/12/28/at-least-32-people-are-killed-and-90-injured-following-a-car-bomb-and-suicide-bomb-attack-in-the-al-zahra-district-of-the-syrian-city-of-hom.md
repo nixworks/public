@@ -10,6 +10,7 @@ At least 32 people were killed and 90 wounded in two bomb explosions in the Syri
 1. [Raidió Teilifís Éireann](http://www.rte.ie/news/2015/1228/756499-syria-fighter-evacuation-un/)
 2. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-evacuation-idINKBN0UB04N20151228)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-homs-idUSKBN0UB0PB20151228)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151228&t=2&i=1105361880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBR0EY)
 
 ### Related:
 

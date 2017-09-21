@@ -8,3 +8,4 @@ The fatal accident is the latest in a series of shipwrecks involving Haitian mig
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/11/27/us/10-haitians-dead-after-boat-capsizes-off-bahamas.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/11/27/us/BOAT/BOAT-videoSixteenByNine600.jpg)

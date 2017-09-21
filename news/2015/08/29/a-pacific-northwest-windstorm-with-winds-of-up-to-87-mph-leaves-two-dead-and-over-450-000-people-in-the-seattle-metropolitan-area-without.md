@@ -8,6 +8,7 @@ A powerful and rare summertime windstorm packing 50-70 mph winds is being blamed
 ### Source:
 
 1. [The Seattle P-I](http://www.seattlepi.com/local/komo/article/Rare-August-storm-blows-ashore-knocks-out-power-6473481.php)
+1. [Cover Image](http://ww4.hdnux.com/photos/40/50/42/8554643/3/rawImage.jpg)
 
 ### Related:
 

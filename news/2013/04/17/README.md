@@ -13,7 +13,7 @@ Sixteen people are injured in an explosion near the office of a political party 
 Images show a backpack and apparent fragments of a pressure cooker as bureau probes attack that left three people dead.
 
 ### [Further suspicious letters are found addressed to President Barack Obama and to members of the United States Senate. ](/news/2013/04/17/further-suspicious-letters-are-found-addressed-to-president-barack-obama-and-to-members-of-the-united-states-senate.md)
-_Context: Barack Obama, President, United States Senate_
+_Context: Barack Obama, U.S. President, United States Senate_
 
 ### [An explosion at a fertilizer plant in the city of West, Texas, United States, kills 15 and injures more than 100 people and damages many nearby buildings, including residences, a nursing home, and a middle school. ](/news/2013/04/17/an-explosion-at-a-fertilizer-plant-in-the-city-of-west-texas-united-states-kills-15-and-injures-more-than-100-people-and-damages-many-nea.md)
 Rescuers searched on Thursday for survivors in the rubble of homes destroyed by a fiery fertilizer plant explosion in a small rural Texas town, as authorities struggled to determine how many people had been killed.

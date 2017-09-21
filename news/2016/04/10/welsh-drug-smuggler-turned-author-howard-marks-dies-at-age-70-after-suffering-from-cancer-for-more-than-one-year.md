@@ -8,3 +8,4 @@ Former drug smuggler turned author Howard Marks has died at the age of 70.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-36012026)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15D2/production/_89168550_marks_getty.jpg)

@@ -8,6 +8,7 @@ The military parade in Beijing on September 3, celebrating Japan’s surrender i
 ### Source:
 
 1. [RT](https://www.rt.com/news/314089-china-parade-troops-hardware/)
+1. [Cover Image](https://img.rt.com/files/2015.09/article/55e6c850c36188425b8b45e1.jpg)
 
 ### Related:
 

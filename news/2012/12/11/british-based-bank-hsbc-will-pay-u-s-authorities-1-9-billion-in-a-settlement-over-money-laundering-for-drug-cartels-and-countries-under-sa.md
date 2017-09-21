@@ -9,6 +9,7 @@ HSBC is to pay US authorities record penalties of $1.9bn (£1.2bn) after failing
 
 1. [BBC](http://www.bbc.co.uk/news/business-20673466)
 2. [The Telegraph](http://www.telegraph.co.uk/finance/financial-crime/9736167/HSBC-pays-1.92bn-to-settle-US-money-laundering-claims.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64687000/jpg/_64687129_t866fani.jpg)
 
 ### Related:
 

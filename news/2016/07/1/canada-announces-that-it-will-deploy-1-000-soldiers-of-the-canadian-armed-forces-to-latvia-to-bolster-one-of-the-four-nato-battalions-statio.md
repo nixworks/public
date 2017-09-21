@@ -8,6 +8,7 @@ With US, UK and Germany, Canada will lead a high-readiness brigade of Nato’s e
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/01/canada-to-send-1000-soldiers-to-boost-nato-presence-on-russia-border)
+1. [Cover Image](https://i.guim.co.uk/img/media/69aa6b8fe51e70d75b7d62dd2bacd0f823a1fd0b/0_65_3515_2109/3515.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8f77aa06010367ecea39b0b011fbe443)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/190589#.VMl455t0zug)
+1. [Cover Image](http://f.a7.org/pictures/352/352128.jpg)
 
 ### Related:
 

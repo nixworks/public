@@ -9,6 +9,7 @@
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/gulf/2017/06/25/Bahrain-officially-publishes-list-of-demands-conveyed-to-Qatar.html)
 2. [Reuters](http://www.reuters.com/article/us-gulf-qatar-turkey-idUSKBN19G06H)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170625&t=2&i=1190395902&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5O078)
 
 ### Related:
 

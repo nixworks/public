@@ -10,6 +10,7 @@
 1. [CNN](http://www.cnn.com/2007/US/04/18/vtech.security.alert/index.html)
 2. [CNN](http://www.cnn.com/2007/US/04/18/vtech.shooting/index.html)
 3. [Romanian press release](http://www.presidency.ro/index.php?_RID=det&tb=date&id=8690&_PRID=)
+3. [Cover Image](http://www.presidency.ro/files/slider_images/15-12-18-09-06-18banner-bun-venit.jpg)
 
 ### Related:
 

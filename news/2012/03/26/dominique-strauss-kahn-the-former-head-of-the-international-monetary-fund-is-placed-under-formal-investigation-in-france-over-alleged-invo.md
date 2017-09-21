@@ -8,6 +8,7 @@ The former head of the International Monetary Fund, Dominique Strauss-Kahn, face
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17518628)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59315000/jpg/_59315749_014366452-1.jpg)
 
 ### Related:
 

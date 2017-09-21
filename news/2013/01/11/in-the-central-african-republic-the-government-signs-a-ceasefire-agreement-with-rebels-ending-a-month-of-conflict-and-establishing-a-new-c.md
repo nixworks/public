@@ -8,6 +8,7 @@ Rebels fighting the government in the Central African Republic have signed a for
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20990671)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65218000/jpg/_65218483_65218352.jpg)
 
 ### Related:
 

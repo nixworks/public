@@ -8,6 +8,7 @@ US authorities search for survivors and clear damage after a string of tornadoes
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17243838)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58856000/jpg/_58856443_014154702-1.jpg)
 
 ### Related:
 

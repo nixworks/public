@@ -8,6 +8,7 @@ Twenty-two Canadian junior hockey players will return from Sweden with a gold me
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/sports/hockey/story/2007/01/05/canada-russia.html)
+1. [Cover Image](https://i.cbc.ca/1.2302529.1383192406!/httpImage/image.jpg_gen/derivatives/16x9_1180/team-canada070105cp.jpg)
 
 ### Related:
 

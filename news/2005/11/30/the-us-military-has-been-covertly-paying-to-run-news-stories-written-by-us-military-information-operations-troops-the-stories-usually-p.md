@@ -9,6 +9,7 @@ As part of an information offensive in Iraq, the U.S. military is secretly payin
 
 1. [Al Jazeera](http://www.aljazeera.com/me.asp?service_ID=10010)
 2. [LA Times](http://www.latimes.com/news/printedition/la-fg-infowar30nov30,0,3132219.story?track=hpmostemailedlink)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Fire in a bunkhouse at campus may have been started to distract authorities away
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/01/grenade-attack-targets-school-philippines-201411342922218768.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/5/201385102518888734_20.jpg)
 
 ### Related:
 

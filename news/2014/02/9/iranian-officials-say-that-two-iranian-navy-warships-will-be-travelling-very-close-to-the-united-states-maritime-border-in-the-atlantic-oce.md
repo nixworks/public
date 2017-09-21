@@ -8,6 +8,7 @@ Iranian warships dispatched to the Atlantic Ocean will travel close to U.S. mari
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2014/02/08/iran-says-warships-headed-close-to-us-borders/5316199/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

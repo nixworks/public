@@ -8,6 +8,7 @@ Scientists from Britain and Japan shared a Nobel Prize on Monday for the discove
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/10/08/us-nobel-medicine-idUSBRE8970AB20121008)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121008&t=2&i=661248410&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8970Y8900)
 
 ### Related:
 

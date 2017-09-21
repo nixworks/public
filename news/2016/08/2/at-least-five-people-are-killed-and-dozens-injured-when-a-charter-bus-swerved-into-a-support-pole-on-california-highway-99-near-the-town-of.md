@@ -9,6 +9,7 @@ The charter bus swerved into a support pole, apparently at full speed, and trapp
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-merced-county-bus-crash-20160802-snap-story.html)
 2. [NBC News](http://www.nbcnews.com/news/us-news/bus-crash-merced-california-kills-least-five-n621531)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_31/1649781/160802-merced-bus-crach-ugc-mdl_96fdaf27057c044e2df42e039f103cbb.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Amnesty](https://www.amnesty.org/en/latest/news/2016/12/saudi-arabia-mass-death-sentences-in-spy-trial-a-travesty-of-justice/)
 2. [The New York Times](http://www.nytimes.com/aponline/2016/12/06/world/middleeast/ap-ml-saudi-iran.html?_r=0)
+2. [Cover Image](https://www.amnesty.org/remote.axd/amnestysgprdasset.blob.core.windows.net/media/14242/226704_death_penalty_2016_-_stills-1.jpg?center=0.5,0.5&amp;preset=fixed_1200_630)
 
 ### Related:
 

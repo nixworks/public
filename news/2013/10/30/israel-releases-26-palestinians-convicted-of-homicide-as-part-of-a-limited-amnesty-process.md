@@ -8,6 +8,7 @@ Israel freed 26 Palestinian prisoners on Wednesday, the second stage of a limite
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/29/us-palestinians-israel-idUSBRE99S1FJ20131029)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131029&t=2&i=807207577&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99S1U5J00)
 
 ### Related:
 

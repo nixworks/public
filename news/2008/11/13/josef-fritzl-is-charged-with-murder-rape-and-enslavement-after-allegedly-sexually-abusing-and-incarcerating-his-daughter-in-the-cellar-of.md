@@ -8,6 +8,7 @@ Austrian Josef Fritzl, who imprisoned his daughter in a cellar for 24 years and 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE4AC3MO20081113)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20081113&t=2&i=6801433&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-11-13T233114Z_01_BTRE4AC0ZU100_RTROPTP_0_US-AUSTRIA-INCEST)
 
 ### Related:
 

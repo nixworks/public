@@ -8,6 +8,7 @@ JOHANNESBURG, South Africa -- The second-place finisher in Kenya&rsquo;s recent 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-kenya-court-confirms-election-results-20130330,0,4613530.story)
+1. [Cover Image](http://www.trbimg.com/img-515713a3/turbine/la-fg-wn-kenya-court-confirms-election-results-001/599/599x377)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The U.S. Army expects to keep its troop strength in Iraq at the current level of
 ### Source:
 
 1. [MSNBC](http://msnbc.msn.com/id/6863956/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Meet Australia&#039;s answer to velociraptor.
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8131915.stm)
 2. [Sydney Morning Herald](http://www.smh.com.au/national/banjosaurus-new-aussie-dinosaurs-found-20090703-d78t.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/d/7/8/n/image.related.articleLeadwide.620x349.d78t.png/1246592629017.jpg)
 
 ### Related:
 

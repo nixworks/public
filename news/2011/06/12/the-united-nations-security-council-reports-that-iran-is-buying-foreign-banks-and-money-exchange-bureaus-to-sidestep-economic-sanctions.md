@@ -8,6 +8,7 @@ Leaked report by the UNSC says Iran is circumventing sanctions through foreign m
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=224589)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=166443)
 
 ### Related:
 

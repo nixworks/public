@@ -8,6 +8,7 @@ One vehicle parked near bakery and went off as people were queuing to buy bread
 ### Source:
 
 1. [AP via ''Irish Times](http://www.irishtimes.com/news/world/middle-east/at-least-seven-dead-after-car-bomb-blast-south-of-baghdad-1.2175169)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2175168&origw=960)
 
 ### Related:
 

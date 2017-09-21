@@ -8,6 +8,7 @@ The Afghan government declares a day of national mourning for hundreds killed wh
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27273684)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74631000/jpg/_74631004_74630915.jpg)
 
 ### Related:
 

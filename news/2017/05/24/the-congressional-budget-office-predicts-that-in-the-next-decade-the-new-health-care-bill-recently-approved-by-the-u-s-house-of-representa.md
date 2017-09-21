@@ -9,6 +9,7 @@ The Congressional Budget Office gave its projections Wednesday on the costs and 
 
 1. [NPR](http://www.npr.org/2017/05/24/529893114/cbo-releases-score-for-house-approved-american-health-care-act)
 2. [The New York Times](https://www.nytimes.com/2017/05/24/upshot/cbo-has-clear-message-about-losers-in-house-health-bill.html)
+2. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

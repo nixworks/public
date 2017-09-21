@@ -8,6 +8,7 @@ Previous reports of Comet ISON&#x27;s death may have been somewhat exaggerated, 
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/science/comet-isons-leftovers-fade-away-right-satellites-eyes-2D11674277)
+1. [Cover Image](https://media2.s-nbcnews.com/j/streams/2013/november/131130/2d9814349-131130-coslog-ison.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

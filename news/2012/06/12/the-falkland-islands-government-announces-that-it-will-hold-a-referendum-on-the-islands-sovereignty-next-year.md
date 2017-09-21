@@ -8,6 +8,7 @@ The Falkland Islands government says it intends to send Argentina the message it
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18412195)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60853000/jpg/_60853159_hi003899172.jpg)
 
 ### Related:
 

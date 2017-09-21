@@ -10,6 +10,7 @@ The White House has defended its decision to award the highest civilian honour i
 1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/white-house-defends-mary-robinson-honour-421289.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0805/breaking1.html?via=mr)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/proisrael-group-slams-us-robinson-award-20090805-e90n.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

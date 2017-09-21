@@ -8,6 +8,7 @@ Police fired teargas on Friday to disperse thousands of Sudanese demanding that 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/09/27/us-sudan-protests-idUSBRE98Q0DP20130927)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130927&t=2&i=797955003&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98Q0RIT00)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The FBI said it was &quot;unaware of any known threat&quot; to public safety
 
 1. [Asbury Park Press](http://www.app.com/story/news/local/emergencies/2016/09/17/device-explodes-seaside-park-evacuated/90576408/)
 2. [The New York Times](http://www.nytimes.com/2016/09/18/nyregion/chelsea-explosion-new-york-city.html)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/app.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Prime Minister Ehud Olmert said that the early stage cancer was not life-threate
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/10/30/world/middleeast/30mideast.html?_r=1&hp&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/10/30/world/30mideast.75.jpg)
 
 ### Related:
 

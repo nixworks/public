@@ -8,6 +8,7 @@ Annual: Motorists and motorcyclists drive through the flood at the Taman Ratu ho
 ### Source:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2016/02/29/hundreds-evacuate-one-toddler-dies-after-heavy-rain-jakarta.html)
+1. [Cover Image](http://thejakartapost.com/files/images2/09aNNUAL.jpg)
 
 ### Related:
 

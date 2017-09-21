@@ -9,6 +9,7 @@ Rescuers find the body of an eighth victim following a gas leak and explosion th
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-26558068)
 2. [NBC](http://www.nbcnewyork.com/news/local/NYC-Explosion-Park-Avenue-Harlem-116th-Street-Witnesses-249804091.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/73550000/jpg/_73550608_73550607.jpg)
 
 ### Related:
 

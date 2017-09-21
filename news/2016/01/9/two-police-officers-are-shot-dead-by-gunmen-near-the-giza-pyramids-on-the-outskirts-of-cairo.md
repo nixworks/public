@@ -8,6 +8,7 @@ Two Egyptian police officers have been shot dead in Cairo as they made their way
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/africa/egypt-attacks-two-police-officers-shot-dead-by-unidentified-gunmen-near-pyramids-of-giza-in-cairo-a6803746.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/07/10/Cario-pyramids-police.jpg)
 
 ### Related:
 

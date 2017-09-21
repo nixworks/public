@@ -10,6 +10,7 @@ Police officers who have been stationed outside London&#x27;s Ecuadorian Embassy
 1. [AP via Newser](http://www.newser.com/article/b5f47d7e04fd4f5fa75169aec647b58d/uk-police-remove-officers-from-outside-ecuadorean-embassy-where-julian-assange-is-holed-up.html)
 2. [London Metropolitan Police](http://news.met.police.uk/news/covert-plan-at-ecuadorian-embassy-strengthened-after-removing-dedicated-guards-132799)
 3. [NBC News](http://www.nbcnews.com/news/world/police-guarding-julian-assange-londons-ecuadorian-embassy-are-withdrawn-n442801)
+3. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2014_34/622851/lv_assange_140818_425bf6c0eedfc2f9344f787b5f21a2b2.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

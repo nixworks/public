@@ -8,6 +8,7 @@ Foreign Affairs Minister John Baird said today that Canada will open an embassy 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2012/07/13/pol-baird-burma-democracy-aid.html)
+1. [Cover Image](https://i.cbc.ca/1.1482463.1379084826!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-baird-burma-new-852.jpg)
 
 ### Related:
 

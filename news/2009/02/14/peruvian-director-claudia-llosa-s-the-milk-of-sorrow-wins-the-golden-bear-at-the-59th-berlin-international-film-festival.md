@@ -8,6 +8,7 @@ Judges unanimous: Peru&#039;s Milk Of Sorrow pick of the flicks at the Berlin Fi
 ### Source:
 
 1. [ABC/Reuters](http://www.abc.net.au/news/stories/2009/02/15/2491925.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/297828-1x1-700x700.jpg)
 
 ### Related:
 

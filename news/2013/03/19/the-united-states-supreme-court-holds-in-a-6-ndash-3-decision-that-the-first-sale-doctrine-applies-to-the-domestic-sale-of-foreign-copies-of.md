@@ -8,6 +8,7 @@ Today, the United States Supreme Court handed US copyright owners a stinging def
 ### Source:
 
 1. [IP-Watch](http://www.ip-watch.org/2013/03/19/us-supreme-court-applies-first-sale-doctrine-worldwide/)
+1. [Cover Image](https://media.ip-watch.org/weblog/wp-content/uploads/2016/10/ip-watch-small-logo-twitter.png?b2a414)
 
 ### Related:
 

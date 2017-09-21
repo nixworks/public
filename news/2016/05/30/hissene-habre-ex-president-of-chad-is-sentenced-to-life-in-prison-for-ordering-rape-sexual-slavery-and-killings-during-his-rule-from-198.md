@@ -8,6 +8,7 @@ A Senegalese court jails Chad ex-leader Hissene Habre for life for crimes agains
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36411466)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5625/production/_89835022_89835018.jpg)
 
 ### Related:
 

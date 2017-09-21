@@ -11,6 +11,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 2. [AP via ABC](http://abcnews.go.com/International/wireStory/syria-suicide-bomber-kills-central-town-16777577)
 3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/201271422479946799.html)
 4. [Washington Post](http://www.washingtonpost.com/world/middle_east/fresh-wave-of-protests-in-bahrain-after-authorities-move-to-curb-opposition-rallies/2012/07/14/gJQAAD0OkW_story.html)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/14/20127142396854734_20.jpg)
 
 ### Related:
 

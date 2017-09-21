@@ -8,6 +8,7 @@ John Sudworth reports from Hong Kong a day after violent clashes between police 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30287965)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79440000/jpg/_79440345_79440344.jpg)
 
 ### Related:
 

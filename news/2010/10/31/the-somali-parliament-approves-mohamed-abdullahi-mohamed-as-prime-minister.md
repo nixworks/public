@@ -9,6 +9,7 @@ Somalia&amp;&#x23;039&#x3B;s&#x20;parliament&#x20;has&#x20;approved&#x20;the&#x2
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/2010103112257922232.html)
 2. [RFI](http://www.english.rfi.fr/africa/20101031-somalia-approves-new-prime-minister)
+2. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/somalia%20pm.jpg)
 
 ### Related:
 

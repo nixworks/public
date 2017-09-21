@@ -8,6 +8,7 @@ Noam Chomsky, the linguist and icon of the American left, had been barred from e
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/05/18/world/middleeast/18chomsky.html)
+1. [Cover Image](https://static01.nyt.com/images/2010/05/18/world/18chomsky_CA0/18chomsky_CA0-thumbStandard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSL0685678320080306)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080306&t=2&i=3421955&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-06T121546Z_01_L06856783_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -8,6 +8,7 @@ NEW YORK (AP) — Bill de Blasio took the oath of office administered by former 
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/politics/2014/01/01/deblasio-sworn-in/4274669/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

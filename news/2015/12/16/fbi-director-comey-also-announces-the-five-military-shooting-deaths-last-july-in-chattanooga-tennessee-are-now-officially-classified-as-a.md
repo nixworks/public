@@ -9,6 +9,7 @@ Syed Rizwan Farook and his wife Tashfeen Malik did not make open posts on social
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/navy-award-purple-hearts-chattanooga-victims-35808480)
 2. [Los Angeles Times](http://www.latimes.com/nation/la-ln-fbi-san-bernardino-social-media-20151216-story.html)
+2. [Cover Image](http://www.trbimg.com/img-5671e27d/turbine/la-ln-fbi-san-bernardino-social-media-20151216)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A week-long hearing into a territorial dispute between Thailand and Cambodia beg
 ### Source:
 
 1. [ABC/AFP via Radio Australia](http://www.radioaustralia.net.au/international/2013-04-15/thaicambodia-dispute-to-be-heard-by-un-court/1116410)
+1. [Cover Image](http://www.radioaustralia.net.au/sites/default/files/images/2013/04/15/541748-3x2-700x467_6.jpg)
 
 ### Related:
 

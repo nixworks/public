@@ -11,6 +11,7 @@
 2. [Dow Jones via ''Wall Street Journal](http://online.wsj.com/article/SB10001424127887324640104578164561908122342.html)
 3. [ENS](http://ens-newswire.com/2012/12/07/magnitude-7-3-earthquake-shakes-northeast-japan/)
 4. [Reuters](http://uk.reuters.com/article/2012/12/07/us-japan-quake-idUKBRE8B607Z20121207)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121207&t=2&i=682240689&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B60S6T00)
 
 ### Related:
 

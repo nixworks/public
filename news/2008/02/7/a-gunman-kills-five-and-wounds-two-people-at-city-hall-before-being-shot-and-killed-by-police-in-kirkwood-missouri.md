@@ -9,6 +9,7 @@ A gunman killed two police officers and three city officials on Thursday night w
 
 1. [Reuters](http://www.reuters.com/article/domesticNews/idUSN0743157520080208)
 2. [St. Louis Post-Dispatch](http://www.stltoday.com/stltoday/news/stories.nsf/stlouiscitycounty/story/C9F47E8DFBA0B871862573E90007E20F?OpenDocument)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080208&t=2&i=3093491&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-08T235124Z_01_N07431575_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Albanian Prime Minister Edi Rama said on Sunday he would replace four of his min
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-albania-government-reshuffle-idUSKBN16J0YH?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170312&t=2&i=1175813614&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2B0HD)
 
 ### Related:
 

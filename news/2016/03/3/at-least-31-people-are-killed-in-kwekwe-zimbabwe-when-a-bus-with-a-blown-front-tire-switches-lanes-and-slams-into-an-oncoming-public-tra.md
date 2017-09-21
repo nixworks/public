@@ -8,6 +8,7 @@ Zimbabwe police say 31 people were killed in a bus accident after a burst front 
 ### Source:
 
 1. [AP ia Fox News](http://www.foxnews.com/world/2016/03/05/at-least-31-killed-in-zimbabwe-bus-crash.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

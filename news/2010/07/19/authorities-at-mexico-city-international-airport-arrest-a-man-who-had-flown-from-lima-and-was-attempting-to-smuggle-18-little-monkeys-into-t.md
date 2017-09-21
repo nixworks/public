@@ -9,6 +9,7 @@ A man is arrested in Mexico trying to smuggle 18 monkeys into the country by hid
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10692772)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/customs-hold-man-with-18-hidden-monkeys-20100720-10i4c.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48417000/jpg/_48417500_mexico1907_titi2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Seven former British soldiers are suing an American defence firm, accusing it of
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/politics/10276978.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

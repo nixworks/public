@@ -10,6 +10,7 @@
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/cricket/counties/8876960.stm)
 2. [Sky Sports](http://www.skysports.com/cricket/match_report/0,19822,11066_85604,00.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/cricket/counties/7927466/Record-breaking-Surrey-ease-past-Glamorgan-to-close-in-on-Clydesdale-Bank-40-semi-final-place.html)
+3. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

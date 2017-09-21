@@ -8,6 +8,7 @@ Leaders will discuss how to reduce the risk posed by stocks of weapons-grade nuc
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/video/europe/2014/03/world-leaders-meet-nuclear-security-talks-2014323235324622430.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/3/24/20143240232376734_20.jpg)
 
 ### Related:
 

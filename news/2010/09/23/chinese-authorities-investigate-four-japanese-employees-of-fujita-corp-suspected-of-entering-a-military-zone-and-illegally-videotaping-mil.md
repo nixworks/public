@@ -9,6 +9,7 @@ China is investigating four Japanese who allegedly entered and filmed a Chinese 
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jSWUFCkbjDIM0ni_MEC_zYz9l17gD9IDVV4O0)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11398933)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/49225000/jpg/_49225478_009993770-1.jpg)
 
 ### Related:
 

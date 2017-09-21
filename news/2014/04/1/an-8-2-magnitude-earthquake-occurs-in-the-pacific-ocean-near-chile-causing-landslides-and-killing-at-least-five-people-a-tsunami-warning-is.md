@@ -10,6 +10,7 @@
 1. [AP via ''The Australian](http://www.theaustralian.com.au/news/world/magnitude-82-earthquake-strikes-chile-sparking-tsunami-landslides/story-e6frg6so-1226872234580)
 2. [Fox News](http://www.foxnews.com/world/2014/04/02/80-magnitude-earthquake-reported-off-chilean-coast/)
 3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usc000nzvd#summary)
+3. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/040114/0/0/040114_kelly_quake_640.jpg?ve=1)
 
 ### Related:
 

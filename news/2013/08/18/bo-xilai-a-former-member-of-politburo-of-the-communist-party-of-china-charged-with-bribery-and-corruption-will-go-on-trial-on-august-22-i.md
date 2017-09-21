@@ -8,6 +8,7 @@ Disgraced Chinese politician Bo Xilai is to go on trial on Thursday, charged wit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-23745515)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69345000/jpg/_69345659_69345274.jpg)
 
 ### Related:
 

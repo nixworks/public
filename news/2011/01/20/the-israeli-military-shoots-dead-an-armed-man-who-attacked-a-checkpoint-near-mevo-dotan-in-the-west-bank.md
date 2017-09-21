@@ -9,6 +9,7 @@ An armed Palestinian man has been shot dead at a Jenin army post in the latest o
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12242969)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4016539,00.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

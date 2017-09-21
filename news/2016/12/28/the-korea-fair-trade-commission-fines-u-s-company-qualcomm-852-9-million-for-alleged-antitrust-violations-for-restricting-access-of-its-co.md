@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-12-28/qualcomm-fined-853-million-by-south-korea-s-antitrust-agency-ix8csvth)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

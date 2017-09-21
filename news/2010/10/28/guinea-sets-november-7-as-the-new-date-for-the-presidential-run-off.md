@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/201010281127186594.html)
 2. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFLDE69Q2OH20101028)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/23/201010235259122621_20.jpg)
 
 ### Related:
 

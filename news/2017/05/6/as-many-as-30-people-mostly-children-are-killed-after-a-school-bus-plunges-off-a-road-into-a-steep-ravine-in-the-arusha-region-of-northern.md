@@ -8,6 +8,7 @@ The students from a primary school in northern Tanzania were travelling to sit a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-39830309)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/101F1/production/_95933066_tanzaniakaratuarusha4640517.png)
 
 ### Related:
 

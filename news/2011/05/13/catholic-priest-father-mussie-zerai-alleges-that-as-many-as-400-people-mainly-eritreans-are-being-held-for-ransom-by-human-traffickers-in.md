@@ -9,6 +9,7 @@ Hundreds of Eritrean migrants are being held hostage in brutal conditions in the
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13388039)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/05/13/Priest-Eritrean-migrants-being-tortured/UPI-94941305293696/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52700000/jpg/_52700078_fatherzerai.jpg)
 
 ### Related:
 

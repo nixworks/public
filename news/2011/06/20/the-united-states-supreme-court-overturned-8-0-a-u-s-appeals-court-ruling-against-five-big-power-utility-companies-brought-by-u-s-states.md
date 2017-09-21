@@ -13,6 +13,7 @@ Court said climate change regulation is the business of the federal government, 
 4. [Reuters](http://www.reuters.com/article/2011/06/20/us-usa-climate-lawsuit-idUSTRE75J3JR20110620)
 5. [Scientific American](http://www.scientificamerican.com/article.cfm?id=supreme-court-rejects-global-warmin)
 6. [USA Today](http://content.usatoday.com/communities/greenhouse/post/2011/06/supreme-court-backs-obama-epa-states-climate-change/1)
+6. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)
 
 ### Related:
 

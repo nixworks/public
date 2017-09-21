@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters UK](http://uk.reuters.com/article/2015/05/19/uk-azerbaijan-fire-idUKKBN0O41QB20150519)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150519&t=2&i=1049565041&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB4I0O2)
 
 ### Related:
 

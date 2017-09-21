@@ -9,6 +9,7 @@
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/20106224840216435.html)
 2. [Yahoo! News](http://news.yahoo.com/s/ap/20100622/ap_on_re_la_am_ca/It_salvador_bus_burning)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

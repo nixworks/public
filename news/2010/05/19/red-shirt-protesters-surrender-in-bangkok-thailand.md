@@ -10,6 +10,7 @@ Bangkok and about a third of the rest of Thailand spend a first night under curf
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/2010519154720425370.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10127048.stm)
 3. [Bangkok Post](http://www.bangkokpost.com/news/local/178444/violence-erupts-after-red-shirt-leaders-surrender)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/47879000/jpg/_47879308_009329525-1.jpg)
 
 ### Related:
 

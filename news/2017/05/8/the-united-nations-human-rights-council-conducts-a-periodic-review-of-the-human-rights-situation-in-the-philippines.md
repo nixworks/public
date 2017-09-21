@@ -8,6 +8,7 @@ The Philippine government will present the human rights situation before the Uni
 ### Source:
 
 1. [The Philippine Star](http://www.philstar.com/headlines/2017/05/08/1697908/live-un-reviews-philippines-human-rights-situation)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/headlines/20170508/philippines-universal-periodic-review-live.jpg)
 
 ### Related:
 

@@ -15,6 +15,7 @@ US conservative Rick Santorum wins races for the Republican presidential nominat
 6. [NPR](http://www.npr.org/2012/02/06/146453136/voters-gear-up-for-minnesota-caucuses)
 7. [Reuters](http://www.reuters.com/article/2012/02/08/us-usa-campaign-idUSTRE80Q2AQ20120208?feedType=RSS&feedName=topNews)
 8. [The Guardian](http://www.guardian.co.uk/world/2012/feb/07/colorado-minnesota-missouri-results-live)
+8. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58373000/jpg/_58373376_58373375.jpg)
 
 ### Related:
 

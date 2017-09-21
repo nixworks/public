@@ -8,6 +8,7 @@ The Government should set up a statutory investigation into allegations of tortu
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0606/breaking4.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

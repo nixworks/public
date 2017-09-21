@@ -8,6 +8,7 @@ The Labour leader says the general election is about &quot;the establishment ver
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-39649119)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/90CF/production/_95717073_mediaitem95717072.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A freight train crashes into homes in huge Nairobi slum of Kibera, injuring at l
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25483720)
 2. [Standard Media](http://www.standardmedia.co.ke/?articleID=2000100625&story_title=scores-injured-after-train-derails-in-kibera)
 3. [Zegabi](http://www.zegabi.com/articles/?p=6376)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71903000/jpg/_71903753_isaacongiri_dailynation1.jpg)
 
 ### Related:
 

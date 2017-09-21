@@ -8,6 +8,7 @@ Chinese authorities announce that artist Ai Weiwei will be allowed to challenge 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17992674)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57724000/jpg/_57724268_qjseusew.jpg)
 
 ### Related:
 

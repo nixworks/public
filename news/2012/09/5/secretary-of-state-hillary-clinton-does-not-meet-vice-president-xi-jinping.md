@@ -8,6 +8,7 @@ Despite Vice President Xi Jinping&#039;s cancellation, Clinton met with Presiden
 ### Source:
 
 1. [TIME](http://world.time.com/2012/09/05/hillary-clinton-visits-beijing-but-chinas-likely-next-leader-is-a-no-show/)
+1. [Cover Image](https://timeglobalspin.files.wordpress.com/2012/09/151253370.jpg?w=600)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The Republican presidential primary debates, hosted by Fox News, held at The Fox
 1. [CBS Local](http://newyork.cbslocal.com/2016/03/03/gop-debate-detroit/)
 2. [Fox News](http://www.foxnews.com/live-coverage/fox-news-gop-debate)
 3. [Hollywood Reporter](http://www.hollywoodreporter.com/news/tv-ratings-fox-news-gop-872681)
+3. [Cover Image](http://global.fncstatic.com/static/v/all/img/og/og-fn-foxnews.jpg)
 
 ### Related:
 

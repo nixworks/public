@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/UKNews1/idUKPEK30372720080610?sp=true)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20080610&t=2&i=4707199&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-10T122457Z_01_NOOTR_RTRIDSP_0_BTSCENES-CHINA-QUAKE-DC)
 
 ### Related:
 

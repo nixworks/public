@@ -9,6 +9,7 @@ Analysts and recent polls say Freedom Party candidate Norbert Hofer has a strong
 
 1. [BBC](http://www.bbc.com/news/world-europe-36351359)
 2. [USA Today](http://www.usatoday.com/story/news/world/2016/05/21/austria-presidency-elections-norbert-hofer-alexander-van-der-bellen/84642124/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

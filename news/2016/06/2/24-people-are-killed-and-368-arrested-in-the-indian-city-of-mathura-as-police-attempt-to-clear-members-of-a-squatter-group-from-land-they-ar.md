@@ -8,6 +8,7 @@ Mathura clashes: 24 killed, 368 arrested in violence - The clashes took place wh
 ### Source:
 
 1. [The Times of India](http://www.dnaindia.com/india/report-mathura-clashes-24-killed-368-arrested-in-violence-on-edge-as-violence-claims-24-lives-2219623)
+1. [Cover Image](http://static.dnaindia.com/sites/default/files/2016/06/03/467651-pti-mathura-clash-2.jpg)
 
 ### Related:
 

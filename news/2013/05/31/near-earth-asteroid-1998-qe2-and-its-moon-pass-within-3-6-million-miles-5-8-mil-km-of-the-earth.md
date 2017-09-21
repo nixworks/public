@@ -8,6 +8,7 @@ An asteroid that is nearly 3km across passes the Earth at a safe distance, makin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22736709)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67919000/jpg/_67919515_67919514.jpg)
 
 ### Related:
 

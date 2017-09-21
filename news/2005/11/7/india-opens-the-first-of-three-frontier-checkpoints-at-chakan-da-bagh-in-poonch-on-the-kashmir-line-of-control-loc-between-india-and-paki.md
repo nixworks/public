@@ -8,6 +8,7 @@ First of three points on the LoC between India and Pakistan opens. | White flags
 ### Source:
 
 1. [Rediff](http://in.rediff.com/news/2005/nov/07nlook.htm)
+1. [Cover Image](http://im.rediff.com/300-300/news/2005/nov/07nlook.jpg)
 
 ### Related:
 

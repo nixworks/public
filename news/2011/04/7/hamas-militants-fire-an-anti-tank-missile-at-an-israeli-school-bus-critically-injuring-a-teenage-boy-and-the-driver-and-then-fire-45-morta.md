@@ -16,6 +16,7 @@ Initial report suggests anti-tank fired from Gaza Strip hit bus driving near Sha
 7. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=215697)
 8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4053704,00.html)
 9. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4053931,00.html)
+9. [Cover Image](http://www.ynetnews.com/PicServer2/24012010/3149732/tapet.jpg)
 
 ### Related:
 

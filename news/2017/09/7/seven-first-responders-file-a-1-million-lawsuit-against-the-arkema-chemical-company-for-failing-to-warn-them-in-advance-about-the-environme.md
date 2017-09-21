@@ -9,6 +9,7 @@ Police officers sickened by fumes from explosions at an Arkema SA chemical plant
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-09-07/harvey-responders-say-they-were-sickened-by-arkema-plant-blaze)
 2. [UPI](https://www.upi.com/Top_News/US/2017/09/07/First-responders-sue-owner-of-chemical-plant-that-exploded-during-Hurricane-Harvey/4891504828161/)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii4a.opJbhvw/v0/1200x768.jpg)
 
 ### Related:
 

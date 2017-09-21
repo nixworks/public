@@ -8,6 +8,7 @@ Two Air France flights bound for Paris from the United States were diverted for 
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2015/11/18/france-shooting-airfranceair-france-klm-idINKCN0T70CP20151118)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151118&t=2&i=1095823329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAH085)
 
 ### Related:
 

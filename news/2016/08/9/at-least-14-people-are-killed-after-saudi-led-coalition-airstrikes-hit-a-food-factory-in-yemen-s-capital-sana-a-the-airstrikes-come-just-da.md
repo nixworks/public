@@ -8,6 +8,7 @@ Bombing of potato factory in the capital Sana’a comes just days after the coll
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/aug/09/saudi-led-airstrikes-yemen-food-factory-kill-people)
+1. [Cover Image](https://i.guim.co.uk/img/media/2d161ae1485ee3f540d0624531aa57d67cb59627/0_144_3500_2100/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5c72d7ffd1bcbc1ef6f84b037752c932)
 
 ### Related:
 

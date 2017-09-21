@@ -9,6 +9,7 @@ The recently formed Momentum Mozgalom (Momentum Movement) held a pro-EU, anti-Ru
 
 1. [BBJ](http://bbj.hu/politics/thousands-participate-in-pro-eu-anti-russia-march_132256)
 2. [Euractiv](http://www.euractiv.com/section/freedom-of-thought/news/pro-eu-hungarians-rally-against-russian-influence/)
+2. [Cover Image](http://bbj.hu/images2/201705/14937224388845Y5GTxTqvsG2_L.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Negligence, not arson, is the likely cause of the deadly forest fire burning out
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2010/12/04/israel-wildfire.html)
+1. [Cover Image](https://i.cbc.ca/1.2107872.1382066765!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-israel-forest-fire-cp-9846944.jpg)
 
 ### Related:
 

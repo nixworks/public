@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/BUSINESS/05/31/japan.economy/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/BUSINESS/05/31/japan.economy/tzvids.naoto.kan.gi.jpg)
 
 ### Related:
 

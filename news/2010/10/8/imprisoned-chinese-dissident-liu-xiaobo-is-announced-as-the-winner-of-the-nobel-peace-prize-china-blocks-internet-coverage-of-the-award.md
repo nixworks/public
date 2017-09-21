@@ -13,6 +13,7 @@
 4. [The Hindu](http://www.thehindu.com/news/international/article819886.ece?homepage=true)
 5. [The New York Times](http://www.nytimes.com/2010/10/09/world/09nobel.html?_r=1&hp)
 6. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-10/08/c_13547668.htm)
+6. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Twelve migrants, including four children, drowned on Friday after their boat cap
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/15/us-greece-immigrants-idUSBRE9AE06Z20131115)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A dust storm enveloped a swathe of northern China yesterday dragging down air qu
 ### Source:
 
 1. [The Daily Star](http://www.thedailystar.net/world/asia/dust-storm-hits-beijing-1400716)
+1. [Cover Image](http://www.thedailystar.net/sites/default/files/ds-logo.jpg)
 
 ### Related:
 

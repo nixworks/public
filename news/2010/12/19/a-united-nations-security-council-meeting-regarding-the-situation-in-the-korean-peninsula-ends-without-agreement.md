@@ -8,6 +8,7 @@ The U.N. Security Council met in emergency session on Sunday to try to cool tens
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTOE6BG05Y20101219)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20101219&t=2&i=280719984&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-19T190305Z_01_BTRE6BI1GX800_RTROPTP_0_KOREA-NORTH-UN)
 
 ### Related:
 

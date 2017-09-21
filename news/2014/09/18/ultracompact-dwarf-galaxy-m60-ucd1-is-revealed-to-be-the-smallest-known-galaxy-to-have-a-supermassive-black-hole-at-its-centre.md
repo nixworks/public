@@ -8,6 +8,7 @@ A supermassive black hole has been spotted in the tiniest galaxy yet - an ultrac
 ### Source:
 
 1. [Washington Post'' via ''Sydney Morning Herald](http://www.smh.com.au/technology/sci-tech/astronomers-find-tiniest-galaxy-ever-to-contain-a-supermassive-black-hole-20140918-10il88.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/3/g/1/2/x/image.related.articleLeadwide.620x349.10il88.png/1411012598470.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Syrian troops fire on tens of thousands of protesters as they hold rallies in fr
 1. [ABC News Australia](http://www.abc.net.au/news/2011-12-30/violence-erupts-as-thousands-take-to-syrian-streets/3753452)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-16360999)
 3. [Reuters](http://www.reuters.com/article/2011/12/30/us-syria-rebels-idUSTRE7BT0AM20111230)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57617000/jpg/_57617228_57617227.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jFD4LbJ-QVq-8_zG-lgt2B9cmRlwD9HJNGCO0)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10978571)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

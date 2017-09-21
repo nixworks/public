@@ -9,6 +9,7 @@ Passionately smashing every expectation.
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_PULITZERS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Buzzfeed](https://www.buzzfeed.com/davidmack/hamilton-the-musical-just-won-a-pulitzer-prize-for-lin-manue#.onWw9JEkD)
+2. [Cover Image](https://img.buzzfeed.com/buzzfeed-static/static/2016-04/18/15/campaign_images/webdr02/hamilton-the-musical-just-won-lin-manuel-miranda--2-30928-1461008336-1_dblbig.jpg)
 
 ### Related:
 

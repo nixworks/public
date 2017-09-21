@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/rudy-giuliani-im-gonna-vote-for-trump/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/02/20/34693401-e854-42b7-847b-642f3d5d5f7b/95010296.jpg)
 
 ### Related:
 
@@ -19,5 +20,5 @@
 6. [ U.S. Presidential Election, 2008: Former New York City mayor Rudy Giuliani (R) officially files for candidacy for President of the United States of America. ](/news/2007/02/5/u-s-presidential-election-2008-former-new-york-city-mayor-rudy-giuliani-r-officially-files-for-candidacy-for-president-of-the-united-s.md) _Context: New York City, Rudy Giuliani_
 7. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: Donald Trump_
 8. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: Donald Trump_
-9. [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md) _Context: New York City_
-10. [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md) _Context: Donald Trump_
+9. [ California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.-Mexico border. ](/news/2017/09/20/california-attorney-general-xavier-becerra-files-suit-in-federal-court-against-u-s-president-donald-trump-s-proposed-plan-for-a-wall-along.md) _Context: Donald Trump_
+10. [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md) _Context: New York City_

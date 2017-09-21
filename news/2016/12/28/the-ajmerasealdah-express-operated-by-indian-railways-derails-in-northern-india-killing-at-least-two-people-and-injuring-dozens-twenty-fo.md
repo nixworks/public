@@ -9,6 +9,7 @@ A train derailed in northern India on Wednesday injuring at least 43 people, pol
 
 1. [Daily Express](http://www.express.co.uk/news/world/747777/Sealdah-Ajmer-Express-Rura-Metha-Kanpur-Dehat-India-train-derail-crash-injured-killed)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2016/12/28/northern-india-train-derailment-kills-two-hospitalises-24/)
+2. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/v/p/vpanvsode6ek0ypp9vb2dwqrusw4lx2y-xlarge.jpg)
 
 ### Related:
 

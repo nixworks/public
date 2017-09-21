@@ -8,6 +8,7 @@ A man wielding an assault rifle, explosives and supplies to take hostages opened
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2014/06/07/suspect-fatally-shot-in-attack-on-georgia-courthouse-attack/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2014/06/07/suspect-fatally-shot-in-attack-on-georgia-courthouse-attack/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422716483167.jpg?ve=1)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Several high-ranking Syrian military figures reportedly defect to Turkey, amid h
 2. [BBC](http://www.bbc.co.uk/news/world-18445370)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18586645)
 4. [CNN](http://www.cnn.com/2012/06/25/world/meast/syria-unrest/index.html?hpt=hp_t2)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61126000/jpg/_61126891_regugees.jpg)
 
 ### Related:
 

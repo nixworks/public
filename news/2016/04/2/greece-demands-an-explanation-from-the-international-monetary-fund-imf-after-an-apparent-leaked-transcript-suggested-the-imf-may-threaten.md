@@ -8,6 +8,7 @@ International Monetary Fund Managing Director Christine Lagarde denied on Sunday
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eurozone-greece-idUSKCN0WZ0J6)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160403&t=2&i=1129928219&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC310AG)
 
 ### Related:
 

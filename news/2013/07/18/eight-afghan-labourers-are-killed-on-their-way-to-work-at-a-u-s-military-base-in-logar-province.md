@@ -8,6 +8,7 @@ Eight Afghan labourers who were on their way to work at a US military base in Lo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23353519)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68798000/gif/_68798724_afghan_logar_july10.gif)
 
 ### Related:
 

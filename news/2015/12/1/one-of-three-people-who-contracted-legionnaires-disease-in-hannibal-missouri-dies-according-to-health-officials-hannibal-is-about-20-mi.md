@@ -9,6 +9,7 @@ Illinois officials admit they were caught off-guard by the wave of Legionnaires&
 
 1. [ABC 7 via WLS AM](http://abc7chicago.com/health/quincy-legionnaires-outbreak-caught-state-officials-off-guard/991512/)
 2. [AP via ABC News](http://abcnews.go.com/US/wireStory/legionnaires-disease-bacteria-found-hotel-guest-died-35513533)
+2. [Cover Image](http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/991528_1280x720.jpg)
 
 ### Related:
 

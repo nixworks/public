@@ -8,6 +8,7 @@ Entertainer Rolf Harri is stripped of his Order of Australia honours, after bein
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-02-23/rolf-harris-stripped-of-oam/6218022)
+1. [Cover Image](http://www.abc.net.au/news/image/5200372-1x1-700x700.jpg)
 
 ### Related:
 

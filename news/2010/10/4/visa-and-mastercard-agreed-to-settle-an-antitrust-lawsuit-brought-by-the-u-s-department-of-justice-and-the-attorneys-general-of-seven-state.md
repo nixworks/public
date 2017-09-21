@@ -8,6 +8,7 @@ The suit centers on rules and fees the companies impose on merchants. They are c
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2010/10/04/130333872/visa-mastercard-to-settle-government-antitrust-suit-american-express-to-fight-it)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Queen Elizabeth wrote to editors over the issue of paparazzi photographers intru
 
 1. [ABC News](http://www.abc.net.au/news/stories/2009/12/06/2763307.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8397664.stm)
+2. [Cover Image](http://www.abc.net.au/news/image/915644-1x1-700x700.jpg)
 
 ### Related:
 

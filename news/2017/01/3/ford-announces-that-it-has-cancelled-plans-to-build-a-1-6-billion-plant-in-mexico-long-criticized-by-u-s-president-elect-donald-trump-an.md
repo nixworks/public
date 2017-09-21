@@ -9,6 +9,7 @@ Ford Motor Company on Tuesday announced plans to cancel the building of a $1.6 b
 
 1. [CNN](http://money.cnn.com/2017/01/03/news/economy/ford-700-jobs-trump/index.html)
 2. [Fox News](http://www.foxnews.com/politics/2017/01/03/ford-to-scrap-mexico-plant-invest-in-michigan-due-to-trump-policies.html)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/01/03/0/0/694940094001_5268976228001_010317-hn-ford-1280.jpg?ve=1)
 
 ### Related:
 

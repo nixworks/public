@@ -9,6 +9,7 @@ But federal authorities quickly said the pipeline near a lake will not go forwar
 
 1. [NBC](http://www.nbcnews.com/news/us-news/amp/federal-judge-denies-tribe-s-request-halt-dakota-access-pipeline-n645616)
 2. [The Los Angeles Times](http://www.latimes.com/nation/la-na-north-dakota-pipeline-20160909-snap-story.html)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_36/1703541/160909-no-dapl-ruling-halts-pipeline-1032p_3_6fbb6b9f6315c619149b82c62536e4cf.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

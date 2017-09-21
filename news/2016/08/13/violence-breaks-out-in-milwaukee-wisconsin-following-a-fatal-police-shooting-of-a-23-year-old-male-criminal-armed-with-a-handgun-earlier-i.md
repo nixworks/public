@@ -8,6 +8,7 @@ A police officer was injured by a thrown brick and a gas station was set on fire
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/milwaukee-cop-cars-smashed-torched-after-police-kill-suspect-n630236)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_32/1667166/ap_248627842143_7465fc7c1b1426a95b91d79756b8cc57.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

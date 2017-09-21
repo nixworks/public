@@ -8,6 +8,7 @@ Four Afghan asylum seekers have been hospitalised with dehydration after pushing
 ### Source:
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/situation-calm-in-darwin-protest-evans-20100901-14mvv.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ At least 25 people are killed and another 100 injured in Mexico City in a blast 
 2. [Euronews](http://www.euronews.com/2013/02/01/casualties-expected-to-rise-in-fatal-mexico-city-tower-explosion/)
 3. [Milenio](http://www.milenio.com/cdb/doc/noticias2011/232477c657d51aef35a2b7af450c86d2)
 4. [Reuters](http://www.reuters.com/article/2013/02/01/us-mexico-pemex-idUSBRE90U1FF20130201)
+4. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65636000/jpg/_65636716_3t6n87r0.jpg)
 
 ### Related:
 

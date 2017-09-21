@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10651367)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201024/underage-main.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22153911)
 2. [The Star](http://www.thestar.com/news/world/2013/04/14/somalia_militants_attack_mogadishu_courthouse.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67022000/jpg/_67022318_sokm.jpg)
 
 ### Related:
 

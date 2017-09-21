@@ -8,6 +8,7 @@ Legendary folk-rock singer Bob Dylan insists he was not censored by Chinese auth
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13398652)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52718000/jpg/_52718733_52717940.jpg)
 
 ### Related:
 

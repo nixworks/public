@@ -8,6 +8,7 @@ NSW Premier Barry O&#039;Farrell has sensationally resigned. Follow all the late
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/nsw/barry-ofarrell-resigns-after-being-caught-out-over-bottle-of-wine-20140416-36qpg.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/3/1/9/9/1/image.related.articleLeadwide.620x349.36qpg.png/1397614640530.jpg)
 
 ### Related:
 

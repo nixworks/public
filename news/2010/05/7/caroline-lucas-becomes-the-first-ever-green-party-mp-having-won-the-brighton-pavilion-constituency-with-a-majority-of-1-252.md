@@ -14,6 +14,7 @@
 5. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/d66.stm)
 6. [RTÉ](http://www.rte.ie/news/2010/0507/nielection.html)
 7. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0508/1224269946095.html)
+7. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

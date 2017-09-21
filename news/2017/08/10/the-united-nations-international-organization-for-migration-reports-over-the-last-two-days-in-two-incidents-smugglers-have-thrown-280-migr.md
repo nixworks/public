@@ -9,6 +9,7 @@ Smugglers have caused more than 50 to drown, the U.N. migration agency says
 
 1. [AP via CBS News](http://www.cbsnews.com/news/smugglers-throw-280-migrants-into-the-sea-off-yemen-u-n-says/)
 2. [Al Jazeera](http://www.aljazeera.com/news/2017/08/200-refugees-thrown-yemen-sea-50-missing-170810104006798.html)
+2. [Cover Image](https://cbsnews1.cbsistatic.com/hub/i/2017/08/09/1e330f01-748c-4faa-970c-391e6db9b804/170809-iom-yemen-migrants-deliberately-drowned-01.jpg)
 
 ### Related:
 

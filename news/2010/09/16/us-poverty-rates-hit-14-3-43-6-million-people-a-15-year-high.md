@@ -8,6 +8,7 @@ The U.S. poverty rate rose to 14.3 percent in 2009 from 13.2 percent the year be
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE68F4K520100916)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100916&t=2&i=205443924&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-16T184656Z_01_BTRE68F1G6B00_RTROPTP_0_ROUTE-RECOVERY)
 
 ### Related:
 

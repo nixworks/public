@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/dollar-slumps-top-china-official/story.aspx?guid=%7B49785919%2D0D1E%2D4E6A%2DBF51%2DD1DD1D2A874E%7D)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

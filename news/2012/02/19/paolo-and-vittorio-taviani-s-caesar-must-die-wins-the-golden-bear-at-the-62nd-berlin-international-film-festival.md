@@ -8,6 +8,7 @@ Caesar Must Die, by veteran Italian directors Paolo and Vittorio Taviani, wins t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17085227)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58576000/jpg/_58576655_014039571-1.jpg)
 
 ### Related:
 

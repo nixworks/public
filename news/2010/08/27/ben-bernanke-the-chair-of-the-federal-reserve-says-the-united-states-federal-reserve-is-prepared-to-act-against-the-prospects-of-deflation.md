@@ -8,6 +8,7 @@ Ben S. Bernanke signaled that the Fed was prepared to take several steps if the 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/08/28/business/economy/28fed.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2010/08/28/business/28fed1-cnd/28fed1-cnd-thumbStandard.jpg)
 
 ### Related:
 

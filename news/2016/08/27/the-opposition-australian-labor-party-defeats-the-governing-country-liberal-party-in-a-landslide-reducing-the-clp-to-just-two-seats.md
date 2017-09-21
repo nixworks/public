@@ -8,6 +8,7 @@ Outgoing chief minister Adam Giles delivers a succinct obituary for his one-term
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/australia-news/2016/aug/27/its-a-thumping-labor-wins-northern-territory-election)
+1. [Cover Image](https://i.guim.co.uk/img/media/b56261f14465effd372dd6b19b4395cc2df23a73/80_0_2473_1484/2473.png?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=68c6462db59c435d7cc5e4317ac67f73)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The authorities in Iraq say they have uncovered an al-Qaeda plot to use chemical
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22742201)
 2. [Sky new](http://news.sky.com/story/1098214/iraq-smashes-al-qaeda-poison-gas-cell)
 3. [VOA](http://www.voanews.com/content/more-than-1000-killed-in-iraq-violence-in-may/1673315.html)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67926000/jpg/_67926544_67926543.jpg)
 
 ### Related:
 

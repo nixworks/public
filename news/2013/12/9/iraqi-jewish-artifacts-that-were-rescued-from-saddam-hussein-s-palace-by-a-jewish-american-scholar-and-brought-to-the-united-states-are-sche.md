@@ -8,3 +8,4 @@ Harold Rhode&apos;s elation at finding a trove of Jewish texts during the Iraq w
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/la-fg-iraq-artifacts-20131202,0,616163.story)
+1. [Cover Image](http://www.trbimg.com/img-529c16ce/turbine/la-fg-iraq-artifacts-20131202)

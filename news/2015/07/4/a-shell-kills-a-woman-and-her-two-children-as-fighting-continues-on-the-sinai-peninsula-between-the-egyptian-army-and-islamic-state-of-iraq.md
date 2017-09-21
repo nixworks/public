@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ''Times of India](http://timesofindia.indiatimes.com/world/middle-east/Shell-kills-two-children-in-Egypts-Sinai/articleshow/47935828.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47936232.cms)
 
 ### Related:
 

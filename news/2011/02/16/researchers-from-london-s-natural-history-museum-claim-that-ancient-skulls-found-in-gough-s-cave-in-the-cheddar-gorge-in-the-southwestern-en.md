@@ -8,6 +8,7 @@ By Madeleine Cowley LONDON (Reuters Life!) - Ancient Britons devoured their dead
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2011/02/16/idINIndia-54947920110216?feedType=RSS&feedName=entertainmentNews&WT.tsrc=Social%20Media&WT.z_smid=twtr-RtrsIN_Entrtnmt&WT.z_smid_dest=Twitter)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

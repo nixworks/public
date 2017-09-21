@@ -8,3 +8,4 @@ Back in January, Gearbox Software released a Duke Nukem Forever trailer, and our
 ### Source:
 
 1. [Engadget.com](http://www.engadget.com/2011/05/24/duke-nukem-forever-goes-gold-will-meet-promised-june-deadline/)
+1. [Cover Image](https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&amp;quality=80&amp;image_uri=https%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2011%2F05%2Fnuke.jpg&amp;client=cbc79c14efcebee57402&amp;signature=4876ef7fa32c8820ee106002e492abad31e1d260)

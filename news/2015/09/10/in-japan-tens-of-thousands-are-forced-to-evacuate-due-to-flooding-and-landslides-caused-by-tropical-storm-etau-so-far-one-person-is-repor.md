@@ -11,6 +11,7 @@ Authorities in central Japan have ordered tens of thousands to flee their homes 
 2. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/japanese-city-submerged-river-bursts-banks-150910061924837.html)
 3. [BBC](http://www.bbc.com/news/world-asia-34205879)
 4. [Radio NZ Online](http://www.radionz.co.nz/news/world/283845/flooding,-landslides-in-central-japan)
+4. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The European Space Agency&#039;s multi-million euro project &quot;could eventual
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/esas-plato-deep-space-observatory-to-join-hunt-for-new-planets-10922376)
+1. [Cover Image](http://e3.365dm.com/17/06/1600x900/34a04bd80ee8a193f924c28f825e63d71af4a569d57187011a596aeb297a17af_3981652.jpg?20170619203450)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A female student died of an apparent self-inflicted gunshot wound after shooting
 ### Source:
 
 1. [The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-texas-school-active-shooter-20160908-story.html)
+1. [Cover Image](http://www.trbimg.com/img-57d1c0fc/turbine/ct-texas-school-active-shooter-20160908)
 
 ### Related:
 

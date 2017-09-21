@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: After 48 rounds of voting, Panama, Security Council, United Nations_
 
 ### [ Jos Montilla becomes the new President of the "Generalitat" of Catalonia, renewing the left-of-centre tripartite pact between his PSC, the pro-independence ERC and the leftist ICV-EUiA alliance after the election held on 2006-11-01. ](/news/2006/11/7/jose-montilla-becomes-the-new-president-of-the-generalitat-of-catalonia-renewing-the-left-of-centre-tripartite-pact-between-his-psc-the.md)
-_Context: ''Generalitat'', Catalonia, ERC, EUiA, ICV, Jos Montilla, PSC, election_
+_Context: ''Generalitat'', Catalan, ERC, EUiA, ICV, Jos Montilla, PSC, election_
 
 ### [ John R. Bolton, the United States Ambassador to the United Nations, claims that United States diplomat Josette Shiner has been selected to head the United Nations World Food Programme. ](/news/2006/11/7/john-r-bolton-the-united-states-ambassador-to-the-united-nations-claims-that-united-states-diplomat-josette-shiner-has-been-selected-to.md)
 Get the latest breaking news across the U.S. on ABCNews.com

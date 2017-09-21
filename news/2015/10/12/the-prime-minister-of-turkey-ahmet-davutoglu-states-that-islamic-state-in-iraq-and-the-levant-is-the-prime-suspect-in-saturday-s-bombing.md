@@ -8,6 +8,7 @@ TURKEY-EXPLOSION/ISLAMIC STATE (URGENT):Islamic State is prime suspect in Turkey
 ### Source:
 
 1. [Reuters via Thomson Reuters Foundation](http://www.trust.org/item/20151012084751-t24xw/?source=shtw)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/c29d54a1-10ab-40e5-b5d2-9ce3242b8644/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

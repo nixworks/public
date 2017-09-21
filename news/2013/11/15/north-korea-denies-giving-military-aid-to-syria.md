@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/11/n-korea-denies-giving-military-aid-syria-201311150579120661.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-24963241)
 3. [News.com](http://www.news.com.au/world/breaking-news/hezbollah-vows-to-keep-fighters-in-syria/story-e6frfkui-1226761123809)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71143000/jpg/_71143042_71143041.jpg)
 
 ### Related:
 

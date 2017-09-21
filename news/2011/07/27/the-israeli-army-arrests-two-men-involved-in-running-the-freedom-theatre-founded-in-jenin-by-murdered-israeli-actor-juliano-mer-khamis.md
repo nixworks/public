@@ -9,6 +9,7 @@ Officials say troops raided theater founded by slain actor Mer-Khamis, arrested 
 
 1. [Ma'an](http://www.maannews.net/eng/ViewDetails.aspx?ID=408710)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4100943,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

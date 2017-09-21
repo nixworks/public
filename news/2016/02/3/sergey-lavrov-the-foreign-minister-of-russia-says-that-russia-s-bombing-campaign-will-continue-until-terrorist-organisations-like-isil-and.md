@@ -8,6 +8,7 @@ Russia said Wednesday it would press ahead with its bombing campaign in Syria un
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/russia-keep-bombing-syria-until-terrorists-defeated-lavrov-093455748.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/if0SuM_nzjmt9fw3s4Umog--/aD03Mjc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2155602-1-1-1.jpg)
 
 ### Related:
 

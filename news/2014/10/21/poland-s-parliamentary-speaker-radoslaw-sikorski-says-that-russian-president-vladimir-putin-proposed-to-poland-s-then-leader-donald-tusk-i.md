@@ -9,6 +9,7 @@ WARSAW (Reuters) - Poland&#x27;s parliamentary speaker, Radoslaw Sikorski, has b
 
 1. [Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-2801977/Polands-speaker-backs-claim-Putin-proposed-dividing-Ukraine.html)
 2. [Reuters via Yahoo News](http://news.yahoo.com/putin-offered-divide-ukraine-poland-polish-ex-minister-210859509.html)
+2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

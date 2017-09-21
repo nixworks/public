@@ -8,6 +8,7 @@ Two man have been arrested amid widespread condemnation of the murder of a polic
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2009/03/11/2512664.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1615094-1x1-700x700.jpg)
 
 ### Related:
 

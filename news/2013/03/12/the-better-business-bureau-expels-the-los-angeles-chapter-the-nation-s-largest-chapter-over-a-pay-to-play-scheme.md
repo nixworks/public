@@ -8,6 +8,7 @@ The Better Business Bureau chapter that predominantly served the Los Angeles are
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/money/la-fi-mo-better-business-bureau-expels-los-angeles-chapter-largest-in-nation-20130312,0,730305.story)
+1. [Cover Image](http://www.trbimg.com/img-513f4430/turbine/la-fi-mo-better-business-bureau-expels-los-angeles-chapter-largest-in-nation-20130312)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least 17 soldiers have been killed, while 4 militants were shot dead by India
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-37399969)
 2. [International Business Times](http://www.ibtimes.co.uk/9-soldiers-killed-heavily-armed-militants-storm-indian-army-headquarters-near-pakistan-border-1581891)
+2. [Cover Image](http://d.ibtimes.co.uk/en/full/1550285/india-uri-army-base-terror-attack.jpg)
 
 ### Related:
 

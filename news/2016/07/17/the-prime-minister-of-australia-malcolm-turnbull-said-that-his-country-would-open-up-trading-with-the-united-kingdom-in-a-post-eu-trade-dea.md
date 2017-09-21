@@ -8,6 +8,7 @@ Prime Minister Theresa May describes Australian calls for a free trade deal with
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-36818055)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/159CA/production/_90422588_mediaitem79906331.jpg)
 
 ### Related:
 

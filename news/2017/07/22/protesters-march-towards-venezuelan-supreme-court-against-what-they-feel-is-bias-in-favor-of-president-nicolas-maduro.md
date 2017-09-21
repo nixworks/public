@@ -8,6 +8,7 @@ These photographs, taken over four weeks, capture the daily turmoil that antigov
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/22/world/americas/venezuela-protests-maduro.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/23/world/americas/xxvenezuela_ss-slide-6QZN/xxvenezuela_ss-slide-6QZN-facebookJumbo.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ A Philippine election candidate is declared winner of a Senate seat more than fo
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-asia-pacific-14500983)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -8,6 +8,7 @@ China sets up a rare earth association in a bid to streamline the sector as it c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17655146)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54834000/jpg/_54834975_010459537-1.jpg)
 
 ### Related:
 

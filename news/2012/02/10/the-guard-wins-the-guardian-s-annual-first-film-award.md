@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-16979339)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54651000/jpg/_54651047_aptv012537902.jpg)
 
 ### Related:
 

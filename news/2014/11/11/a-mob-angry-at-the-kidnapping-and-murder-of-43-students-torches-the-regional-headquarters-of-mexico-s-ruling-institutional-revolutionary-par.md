@@ -8,6 +8,7 @@ Riot police clash with protesters, angry at the government and police handling o
 ### Source:
 
 1. [Agencies via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/mexico/11224873/Fury-over-Mexico-student-massacre-boils-over-into-street-battles.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03103/mexico_3103382a.gif)
 
 ### Related:
 

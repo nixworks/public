@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/37282-pork-barrel-protests-nationwide)
+1. [Cover Image](http://static.rappler.com/images/millionpeoplemarch-us-rappler-20130826.jpg)
 
 ### Related:
 

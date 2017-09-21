@@ -14,6 +14,7 @@ Maine has joined California, Nevada and Massachusetts in backing recreational ma
 5. [The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-ballot-measures-marijuana-gun-control-minimum-wage-20161108-story.html)
 6. [The New York Times](http://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html?action=click&pgtype=Homepage&clickSource=story-heading&module=span-abc-region&region=span-abc-region&WT.nav=span-abc-region)
 7. [Time](http://time.com/4564119/california-calexit-donald-trump-victory/)
+7. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C8F4/production/_92344415_hi036287284.jpg)
 
 ### Related:
 

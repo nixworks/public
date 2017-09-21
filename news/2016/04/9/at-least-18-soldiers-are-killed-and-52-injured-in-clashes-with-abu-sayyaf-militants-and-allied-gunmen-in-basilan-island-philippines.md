@@ -8,6 +8,7 @@ Philippine military officials say at least 18 soldiers have been killed in fierc
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2016/04/09/18-filipino-soldiers-killed-52-others-wounded-in-clash.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

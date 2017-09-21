@@ -10,6 +10,7 @@ Two Greenpeace activists were given suspended jail sentences in Japan Monday for
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jMSHVlx1X9yF0eKxbBz_2omUdx4wD9I2AHSO0)
 2. [Reuters](http://www.reuters.com/article/idUSTRE68512920100906)
 3. [The Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20100906x2.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

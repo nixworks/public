@@ -11,6 +11,7 @@
 2. [Radio Televizija Vojvodine](http://www.rtv.rs/sr/vesti/drustvo/sudjenja/2007_05_22/vest_17164.jsp)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L22537217.htm)
 4. [Sky](http://news.sky.com/skynews/article/0,,70131-1267054,00.html)
+4. [Cover Image](http://static.rtv.rsslike/2011/11/28/rtv-logo-130x55_130x55.jpg)
 
 ### Related:
 

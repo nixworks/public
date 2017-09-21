@@ -9,6 +9,7 @@ The government announces an independent review of the workings of the Libor inte
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-18640916)
 2. [ITV News](http://www.itv.com/news/2012-06-30/how-will-the-banking-review-fair-to-the-leveson-inquiry/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61252000/jpg/_61252495_61252494.jpg)
 
 ### Related:
 

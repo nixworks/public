@@ -8,6 +8,7 @@ Voting has closed in a referendum on whether to retain the Senate in the Republi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24395339)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70274000/jpg/_70274872_seanad.jpg)
 
 ### Related:
 

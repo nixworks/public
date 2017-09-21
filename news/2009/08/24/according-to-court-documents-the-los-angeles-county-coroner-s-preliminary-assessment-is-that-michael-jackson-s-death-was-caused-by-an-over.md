@@ -8,6 +8,7 @@ Pop star Michael Jackson died from a lethal dose of the powerful anesthetic prop
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/domesticNews/idUSTRE57G4W020090824)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090824&t=2&i=11342306&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-24T203851Z_01_BTRE57K1DME00_RTROPTP_0_PEOPLE-JACKSON)
 
 ### Related:
 

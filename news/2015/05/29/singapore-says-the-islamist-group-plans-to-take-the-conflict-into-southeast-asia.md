@@ -10,6 +10,7 @@ Singapore has been identified as a possible target for attack by a recent Islami
 1. [CNN](http://edition.cnn.com/2015/05/29/middleeast/saudi-arabia-mosque-blast/index.html?eref=edition)
 2. [Straits Times](http://www.straitstimes.com/news/singapore/more-singapore-stories/story/isis-social-media-post-cites-singapore-possible-target-2)
 3. [The Express Tribune](http://tribune.com.pk/story/894284/car-explodes-near-mosque-in-saudi-arabias-dammam-witness/)
+3. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

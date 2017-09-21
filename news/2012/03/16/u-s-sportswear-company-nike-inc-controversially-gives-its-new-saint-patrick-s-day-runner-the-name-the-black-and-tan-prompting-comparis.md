@@ -8,6 +8,7 @@ Sports wear company Nike has apologised for a controversy that arose over the na
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0316/breaking2.html?via=mr)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

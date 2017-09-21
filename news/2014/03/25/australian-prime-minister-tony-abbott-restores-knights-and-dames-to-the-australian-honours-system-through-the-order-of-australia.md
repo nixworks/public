@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2014-03-25/pre-eminent-australians-could-be-made-knight-or-dame/5344646)
+1. [Cover Image](http://www.abc.net.au/news/image/5343350-1x1-700x700.jpg)
 
 ### Related:
 

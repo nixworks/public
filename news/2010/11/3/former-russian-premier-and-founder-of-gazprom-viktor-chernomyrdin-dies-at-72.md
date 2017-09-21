@@ -13,6 +13,7 @@ Viktor Chernomyrdin, who served under Boris Yeltsin as Russian prime minister du
 4. [The Guardian](http://www.guardian.co.uk/world/2010/nov/03/former-russian-prime-minister-dies)
 5. [The New York Times](http://www.nytimes.com/2010/11/04/world/europe/04chernomyrdin.html)
 6. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704462704575591602315511546.html)
+6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/49766000/jpg/_49766985_vik3.jpg)
 
 ### Related:
 

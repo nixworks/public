@@ -8,6 +8,7 @@ Jordan confirms the death of pilot Moaz al-Kasasbeh after a video published onli
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-31121160)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80578000/jpg/_80578822_0a385bc0-573d-4b8b-96e6-ed609a5c36cd.jpg)
 
 ### Related:
 

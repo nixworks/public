@@ -9,6 +9,7 @@ Opposition parties in Turkey boycott the swearing-in of the new parliament after
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/201162811315463516.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-13946916)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53738000/jpg/_53738020_012325218-1.jpg)
 
 ### Related:
 

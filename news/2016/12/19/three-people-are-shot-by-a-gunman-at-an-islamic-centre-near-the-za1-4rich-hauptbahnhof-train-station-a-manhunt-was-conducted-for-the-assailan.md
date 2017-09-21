@@ -8,6 +8,7 @@
 ### Source:
 
 1. [GlobalNews](http://globalnews.ca/news/3135958/3-injured-in-shooting-at-zurich-islamic-centre-reports/)
+1. [Cover Image](https://shawglobalnews.files.wordpress.com/2016/12/zurich-shooting.jpg?quality=70&strip=all&w=720&h=449&crop=1)
 
 ### Related:
 

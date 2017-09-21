@@ -8,6 +8,7 @@ The confirmed death toll from the South Korean ferry that capsized last week rea
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27107267)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74365000/jpg/_74365940_74365939.jpg)
 
 ### Related:
 

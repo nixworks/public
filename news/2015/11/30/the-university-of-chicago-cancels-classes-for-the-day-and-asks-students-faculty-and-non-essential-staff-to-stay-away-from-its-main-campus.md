@@ -10,6 +10,7 @@ University of Chicago officials asked students to stay away from campus on Monda
 1. [Reuters via ''The Jerusalem Post](http://www.jpost.com/Breaking-News/University-of-Chicago-cancels-classes-after-threats-435791)
 2. [The Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/ct-university-of-chicago-gun-threat-met-20151130-story.html)
 3. [USA Today](http://www.usatoday.com/story/news/2015/11/29/u-chicago-cancels-monday-classes-after-gun-violence-threat/76546560/)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

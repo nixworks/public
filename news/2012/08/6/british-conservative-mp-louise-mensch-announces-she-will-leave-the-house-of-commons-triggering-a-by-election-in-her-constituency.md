@@ -8,6 +8,7 @@ Conservative politician and novelist Louise Mensch is to stand down as an MP, tr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-19146805)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62067000/jpg/_62067607_ddd86d67-935f-41e9-ae21-e8ca295c7067.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Revolutionary Guard to test arsenal, including Sajjil missile, with range of 2,0
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?ID=226711&R=R1)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=165645)
 
 ### Related:
 

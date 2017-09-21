@@ -8,6 +8,7 @@
 ### Source:
 
 1. [TOI](http://timesofindia.indiatimes.com/Blast_in_Mehrauli_area_in_Delhi_2_killed/articleshow/3534219.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/3535914.cms)
 
 ### Related:
 

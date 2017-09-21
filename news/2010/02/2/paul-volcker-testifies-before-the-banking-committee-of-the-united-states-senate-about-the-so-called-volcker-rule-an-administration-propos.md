@@ -8,6 +8,7 @@
 ### Source:
 
 1. [L.A. Times](http://www.latimes.com/business/la-fi-volcker3-2010feb03,0,2853602.story)
+1. [Cover Image](http://www.latimes.com/media/photo/2010-02/51996303.jpg)
 
 ### Related:
 

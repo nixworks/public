@@ -11,6 +11,7 @@ A Greek investigative journalist is shot dead outside his home in Athens in an a
 2. [BBC](http://www.bbc.co.uk/news/world-europe-10684185)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE66I1TV20100719)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/19/AR2010071901135.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

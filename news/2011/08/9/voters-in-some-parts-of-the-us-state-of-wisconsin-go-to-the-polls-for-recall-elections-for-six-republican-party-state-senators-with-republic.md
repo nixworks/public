@@ -9,6 +9,7 @@ A series of recall votes is a culmination of a political year that is said to gi
 
 1. [Bloomberg](http://www.bloomberg.com/news/2011-08-10/wisconsin-republicans-keep-senate-control-after-recalls-in-win-for-walker.html)
 2. [The New York Times](http://www.nytimes.com/2011/08/09/us/09wisconsin.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

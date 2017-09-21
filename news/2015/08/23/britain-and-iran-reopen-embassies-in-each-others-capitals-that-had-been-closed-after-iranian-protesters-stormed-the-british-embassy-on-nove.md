@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/08/22/iran-nuclear-britain-idUKL5N10X02V20150822?feedType=RSS&feedName=rbssEnergyNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

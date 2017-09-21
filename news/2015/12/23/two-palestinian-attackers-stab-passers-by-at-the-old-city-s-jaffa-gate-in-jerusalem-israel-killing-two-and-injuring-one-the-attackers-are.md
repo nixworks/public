@@ -9,6 +9,7 @@ Both assailants shot and killed by 2 female Border Police officers; Police heigh
 
 1. [CNN](http://edition.cnn.com/2015/12/23/middleeast/jerusalem-violence-stabbing/)
 2. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Breaking-At-least-three-wounded-in-suspected-stabbing-attack-at-Jerusalems-Jaffa-Gate-438171)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=321991)
 
 ### Related:
 

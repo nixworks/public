@@ -8,6 +8,7 @@ American special forces are in the country as part of a train and advise mission
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/military/u-s-service-member-killed-2-hurt-somalia-exchange-gunfire-n755351)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2017_18/1989876/170505-somalia-map-mn-1355_a23b77308027721fdbc114c9ccb91311.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

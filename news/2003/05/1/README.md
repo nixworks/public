@@ -4,7 +4,7 @@
 _Context: Labour, Rhodri Morgan, Wales_
 
 ### [ President Bush safely lands in an S-3B Viking jet on the deck of the USS "Abraham Lincoln" returning from operations in Iraq while 100 miles off the coast of San Diego, California. It is the first time a sitting president has arrived on the deck of an aircraft carrier by plane. Bush makes a primetime address, surrounded by hundreds of sailors, in which he declares major combat operations in Iraq over while standing in front of a banner reading "Mission Accomplished".](/news/2003/05/1/president-bush-safely-lands-in-an-s-3b-viking-jet-on-the-deck-of-the-uss-abraham-lincoln-returning-from-operations-in-iraq-while-100-mile.md)
-_Context: George W. Bush, Iraq, Mission Accomplished, President, S-3B Viking, San Diego, California, USS ''Abraham Lincoln'', aircraft carrier_
+_Context: George W. Bush, Iraq, Mission Accomplished, S-3B Viking, San Diego, California, U.S. President, USS ''Abraham Lincoln'', aircraft carrier_
 
 ### [ A magnitude 6.4 earthquake hits Bingl, Turkey, killing at least 177 people and injuring 520.](/news/2003/05/1/a-magnitude-6-4-earthquake-hits-bingol-turkey-killing-at-least-177-people-and-injuring-520.md)
 _Context: Bingl, Turkey, magnitude 6.4 earthquake_

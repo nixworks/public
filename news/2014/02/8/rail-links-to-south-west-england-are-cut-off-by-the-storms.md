@@ -8,6 +8,7 @@ Gusts as high as 80mph hit southern and western parts of the UK as all rail rout
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-26095937)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72846000/jpg/_72846895_0f3izswh.jpg)
 
 ### Related:
 

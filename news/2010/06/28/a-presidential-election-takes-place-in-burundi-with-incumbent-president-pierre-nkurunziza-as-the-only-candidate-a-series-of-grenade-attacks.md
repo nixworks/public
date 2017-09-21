@@ -9,6 +9,7 @@ Incumbent president certain to win following boycott by oppositon candidates.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/06/2010628124152779802.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jun/28/burundi-vote-referendum-pierre-nkurunziza)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

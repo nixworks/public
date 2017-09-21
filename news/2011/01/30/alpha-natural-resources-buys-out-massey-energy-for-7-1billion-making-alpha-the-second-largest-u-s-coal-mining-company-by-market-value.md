@@ -8,6 +8,7 @@ Alpha Natural Resources said on Saturday it agreed to a $7.1 billion deal to buy
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/01/30/us-alpha-massey-idUSTRE70S0PC20110130)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

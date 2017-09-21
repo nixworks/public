@@ -8,6 +8,7 @@ Thomas Eric Duncan contracted the disease during travel to West Africa.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/10/08/dallas-ebola-patient-dies/16786011/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

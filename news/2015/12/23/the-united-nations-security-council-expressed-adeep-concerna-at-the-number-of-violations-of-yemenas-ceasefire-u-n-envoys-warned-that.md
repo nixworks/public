@@ -11,6 +11,7 @@ The United Nations Security Council on Wednesday voiced alarm at breaches of a c
 2. [Saudi Gazette](http://saudigazette.com.sa/world/yemen-peace-plan-fragile-says-special-un-envoy/)
 3. [Time](http://time.com/4159810/yemen-conflict-un-balkanization/)
 4. [UN](http://www.un.org/apps/news/story.asp?NewsID=52897#.VnsU5E9BmQw)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151223&t=2&i=1104451937&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBM11U)
 
 ### Related:
 

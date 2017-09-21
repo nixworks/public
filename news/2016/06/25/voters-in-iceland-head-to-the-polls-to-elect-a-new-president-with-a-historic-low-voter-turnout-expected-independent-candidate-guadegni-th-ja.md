@@ -9,6 +9,7 @@ Voter turnout could be at a historic low in tomorrow’s presidential election i
 
 1. [DPA](http://www.dpa-international.com/news/top_stories/johannesson-declares-victory-in-iceland-presidential-election-a-49796674.html)
 2. [Iceland Review](http://icelandreview.com/news/2016/06/24/low-voter-turnout-expected-election)
+2. [Cover Image](http://img.icelandreview.com/sites/default/files/bessastadir.jpg)
 
 ### Related:
 

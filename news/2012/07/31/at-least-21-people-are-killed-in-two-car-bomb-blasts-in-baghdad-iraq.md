@@ -8,6 +8,7 @@ At least 19 people are killed as two car bombs explode within minutes of each ot
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19066002)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61929000/jpg/_61929167_61929165.jpg)
 
 ### Related:
 

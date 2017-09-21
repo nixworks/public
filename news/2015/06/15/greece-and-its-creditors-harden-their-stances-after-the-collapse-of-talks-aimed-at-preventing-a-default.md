@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/06/15/us-eurozone-greece-idUSKBN0OS0E020150615)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150615&t=2&i=1056439131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB5E0XB)
 
 ### Related:
 

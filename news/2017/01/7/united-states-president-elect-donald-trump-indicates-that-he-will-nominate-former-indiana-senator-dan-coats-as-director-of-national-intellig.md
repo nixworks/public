@@ -8,6 +8,7 @@ US President-elect Donald Trump names Dan Coats as his national intelligence dir
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-38543124)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B96E/production/_93307474_mediaitem93307473.jpg)
 
 ### Related:
 

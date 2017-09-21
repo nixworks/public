@@ -8,6 +8,7 @@ Canadian judge refuses US extradition request for Abdullah Khadr, releases him f
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/20108420318101.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

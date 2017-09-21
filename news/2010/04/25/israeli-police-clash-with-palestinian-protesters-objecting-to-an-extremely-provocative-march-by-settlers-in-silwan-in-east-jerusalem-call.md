@@ -8,6 +8,7 @@ Settlers call for Palestinian homes to be demolished as US envoy tries to restar
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/20104258757856525.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

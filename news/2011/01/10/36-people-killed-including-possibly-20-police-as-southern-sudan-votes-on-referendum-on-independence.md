@@ -9,6 +9,7 @@ At least 36 people have died in clashes near Sudan&#39;s north-south border, lea
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12150292)
 2. [MSNBC](http://www.msnbc.msn.com/id/40997347/ns/world_news-africa/)
+2. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110110-sudan-vote-hmed-213a.standard.jpg)
 
 ### Related:
 

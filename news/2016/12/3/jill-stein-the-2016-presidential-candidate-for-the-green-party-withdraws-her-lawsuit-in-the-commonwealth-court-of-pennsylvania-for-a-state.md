@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/12/03/504285672/jill-stein-campaign-drops-her-recount-effort-in-pennsylvania)
+1. [Cover Image](https://media.npr.org/assets/img/2016/12/03/gettyimages-594382996_wide-50d30b7bcc745b46fcebca09cb7373a2cb15116b.jpg?s=1400)
 
 ### Related:
 

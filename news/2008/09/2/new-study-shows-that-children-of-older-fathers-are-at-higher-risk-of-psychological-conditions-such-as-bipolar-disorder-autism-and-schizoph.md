@@ -8,6 +8,7 @@ Children born to fathers older than 30 are more likely to develop bipolar disord
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSL138021820080901)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

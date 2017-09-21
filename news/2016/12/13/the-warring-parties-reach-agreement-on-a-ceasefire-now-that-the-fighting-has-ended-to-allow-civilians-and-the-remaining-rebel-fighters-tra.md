@@ -9,6 +9,7 @@ There was no immediate confirmation of the agreement from the Syrian government.
 
 1. [NBC News](http://www.nbcnews.com/storyline/aleppos-children/aleppo-civilians-killed-complete-meltdown-humanity-u-n-n695286?google_editors_picks=true)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKBN1420H5)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_50/1830941/ss-161213-syria-aleppo-covercrop-02_4d8135635051551549320387aa095e8f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

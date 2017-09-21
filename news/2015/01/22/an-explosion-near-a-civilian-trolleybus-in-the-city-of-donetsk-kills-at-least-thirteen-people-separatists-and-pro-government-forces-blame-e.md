@@ -8,6 +8,7 @@ Ukrainian troops leave the main terminal of the bitterly contested airport in Do
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30929344)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/80440000/jpg/_80440456_80440455.jpg)
 
 ### Related:
 

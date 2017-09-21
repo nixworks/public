@@ -8,6 +8,7 @@ Iran has remained within key limits on its nuclear activities imposed by its 201
 ### Source:
 
 1. [Reuters](https://in.reuters.com/article/iran-nuclear-iaea-idINKCN1BB26T)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170831&t=2&i=1199426859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7U1A9)
 
 ### Related:
 

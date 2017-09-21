@@ -8,6 +8,7 @@ The &#034;Swarmagaddon,&#034;-a cicada invasion as many people call, that is exp
 ### Source:
 
 1. [Design & Trend](http://www.designntrend.com/articles/4286/20130512/cicadapocalypse-exclusive-over-1-trillion-cicadas-come-cicada-killing-wasps.htm)
+1. [Cover Image](http://images.designntrend.com/data/images/full/9559/cicadapocalypse.jpg)
 
 ### Related:
 

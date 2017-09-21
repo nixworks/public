@@ -11,6 +11,7 @@
 2. [CNN](http://edition.cnn.com/2016/01/10/americas/el-chapo-sean-penn-rolling-stone-interview/index.html)
 3. [Rolling Stone](http://www.rollingstone.com/culture/features/el-chapo-speaks-20160109)
 4. [USA Today](http://www.usatoday.com/story/news/world/2016/01/10/el-chapo-sean-penn-interview-joaquin-guzman-mexico/78587470/)
+4. [Cover Image](http://img.wennermedia.com/social/rs-223430-RSARTICLE-projectC.png)
 
 ### Related:
 

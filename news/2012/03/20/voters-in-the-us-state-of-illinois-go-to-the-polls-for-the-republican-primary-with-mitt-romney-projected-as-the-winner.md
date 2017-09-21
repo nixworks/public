@@ -9,6 +9,7 @@ Mitt Romney left Rick Santorum with a dwindling number of opportunities to shake
 
 1. [Fox News](http://www.foxnews.com/politics/2012/03/20/romney-seeks-to-cushion-delegate-lead-in-illinois/)
 2. [National Journal](http://www.nationaljournal.com/2012-presidential-campaign/illinois-looking-like-fertile-ground-for-mitt-romney-20120319?page=1&mrefid=freehplead_1)
+2. [Cover Image](http://a57.foxnews.com/video.foxnews.com/thumbnails/032012/640/360/0/0/032012_aehq_romneyspeech_640.jpg?ve=1)
 
 ### Related:
 

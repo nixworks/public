@@ -9,6 +9,7 @@ Quebec provincial police now say only one of the two men arrested Sunday night f
 
 1. [CBC News](http://www.cbc.ca/news/canada/montreal/quebec-city-mosque-gun-shots-1.3957686)
 2. [Reuters](http://www.reuters.com/article/us-canada-mosque-shooting-idUSKBN15E04S?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://i.cbc.ca/1.3958733.1485809268!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/canada-mosque-shooting.jpg)
 
 ### Related:
 

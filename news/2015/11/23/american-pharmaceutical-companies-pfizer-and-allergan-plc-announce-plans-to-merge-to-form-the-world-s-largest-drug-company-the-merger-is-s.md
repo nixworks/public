@@ -10,6 +10,7 @@ $160 billion deal to combine Pfizer and Allergan raises outcry
 1. [AP via Denver Post](http://www.denverpost.com/business/ci_29157701/160b-deal-combine-pfizer-and-allergan-raises-outcry)
 2. [Reuters via The Washington Post](https://www.washingtonpost.com/national/merger-of-pfizer-and-allergan-would-create-worlds-biggest-drug-maker/2015/11/22/05ea4260-915e-11e5-a2d6-f57908580b1f_story.html)
 3. [Washington University](http://news.wustl.edu/news/Pages/Rosenzweig-Pfizer-tax-inversion.aspx)
+3. [Cover Image](http://www.denverpost.com/wp-content/themes/denverpost/static/images/denverpost.jpg)
 
 ### Related:
 

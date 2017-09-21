@@ -8,6 +8,7 @@ A warrant has been issued for the arrest of firebrand South African politician J
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19680419)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63040000/jpg/_63040517_63040516.jpg)
 
 ### Related:
 

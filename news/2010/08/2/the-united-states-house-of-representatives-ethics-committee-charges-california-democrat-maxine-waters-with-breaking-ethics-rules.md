@@ -8,6 +8,7 @@ A House ethics panel charged California Democrat Rep. Maxine Waters today with b
 ### Source:
 
 1. [USA Today](http://content.usatoday.com/communities/onpolitics/post/2010/08/house-ethics-panel-charges-rep-maxine-waters-/1)
+1. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-politics/2010/08/02/Watersx-inset-community.jpg)
 
 ### Related:
 

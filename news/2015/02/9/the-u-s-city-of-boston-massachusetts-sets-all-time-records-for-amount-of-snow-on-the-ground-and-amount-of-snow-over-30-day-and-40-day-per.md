@@ -9,6 +9,7 @@ Boston has recorded more than 69 inches of snow in 30 days, easily topping the r
 
 1. [NBC News](http://www.nbcnews.com/news/weather/boston-buried-snow-again-absurd-winter-drags-n303086)
 2. [WCVB](http://www.wcvb.com/weather/snow-sets-historic-records-in-boston/31168556)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_07/883341/150210-boston-commonwealth-snow-115a_fbfbb870f0cdc7882df82bca2564d9e9.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

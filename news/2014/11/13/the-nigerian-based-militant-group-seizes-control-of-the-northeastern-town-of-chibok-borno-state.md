@@ -8,6 +8,7 @@ Boko Haram militants seize Chibok, the north-eastern Nigerian town from which th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30058879)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/79002000/jpg/_79002709_79002708.jpg)
 
 ### Related:
 

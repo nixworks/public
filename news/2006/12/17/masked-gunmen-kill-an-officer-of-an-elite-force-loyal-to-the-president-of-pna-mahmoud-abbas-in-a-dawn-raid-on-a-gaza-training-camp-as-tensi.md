@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6188541.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/801983.html)
 3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-12-17T042616Z_01_L09553221_RTRUKOC_0_US-PALESTINIANS.xml)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

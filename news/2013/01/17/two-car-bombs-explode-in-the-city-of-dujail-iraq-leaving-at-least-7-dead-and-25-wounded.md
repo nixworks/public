@@ -9,6 +9,7 @@ The latest explosions struck Thursday morning near Dujail.
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/01/17/iraq-car-bomb/1841467/)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2013-01/17/c_132109650.htm)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

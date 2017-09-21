@@ -9,6 +9,7 @@ Former president Nicolas Sarkozy&#39;s conservative UMP party and their allies l
 
 1. [BBC](http://www.bbc.com/news/world-europe-32006268)
 2. [RTE](http://www.rte.ie/news/2015/0322/688851-france-local-elections/)
+2. [Cover Image](https://img.rasset.ie/000a55b7-1600.jpg)
 
 ### Related:
 

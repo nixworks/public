@@ -8,6 +8,7 @@ Taiwan scrambled jets and navy ships on Wednesday as a group of Chinese warships
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-china-taiwan-carrier-idUSKBN14V061)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170111&t=2&i=1168293698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0A02A)
 
 ### Related:
 

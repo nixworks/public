@@ -8,6 +8,7 @@ The idea of humans one day colonizing Mars is a tantalizing one, but there are s
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2013/11/18/5117312/maven-nasa-mission-to-mars-what-to-know)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/w4DzSqdzz0lrNDqWcVSaS4_IR60=/0x52:1000x615/1600x900/cdn0.vox-cdn.com/assets/3590735/maven-final-use.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000087&sid=aff59Spo3R3A&refer=top_world_news)
 2. [CNN](http://money.cnn.com/2004/05/25/news/fortune500/mtv_gay_network/)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=5253784)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

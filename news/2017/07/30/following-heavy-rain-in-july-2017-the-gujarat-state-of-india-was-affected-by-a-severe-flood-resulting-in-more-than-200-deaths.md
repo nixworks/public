@@ -9,6 +9,7 @@ The flood toll in Gujarat has risen to 218 this monsoon, with 61 people killed i
 
 1. [NDTV](http://www.ndtv.com/india-news/gujarat-floods-number-of-deaths-increases-to-218-as-more-bodies-found-1731662)
 2. [Times of India](http://timesofindia.indiatimes.com/india/80-dead-58-districts-affected-centre-says-damage-due-to-floods-in-northeast-unprecedented/articleshow/59580413.cms)
+2. [Cover Image](https://i.ndtvimg.com/i/2017-07/gujarat-floods-pti_650x400_51500955945.jpg)
 
 ### Related:
 

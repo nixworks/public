@@ -8,6 +8,7 @@ Scores of flights have been cancelled and thousands of passengers had their trav
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Rome-airport-in-chaos-after-fire-20150507)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/3181/3e247fc6a894427d9166bcbaa700e30a.jpg)
 
 ### Related:
 

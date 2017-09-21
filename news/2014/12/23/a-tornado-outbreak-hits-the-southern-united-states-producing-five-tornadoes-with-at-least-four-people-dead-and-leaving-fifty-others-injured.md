@@ -8,6 +8,7 @@ At least five tornadoes were reported in the southern United States, leading to 
 ### Source:
 
 1. [The Weather Network](http://www.theweathernetwork.com/news/articles/deadly-tornado-outbreak-hits-the-us/42457/)
+1. [Cover Image](http://s2.twnmm.com/thumb?src=//s2.twnmm.com/images/en_ca/12/NetherlandsTornado-15746.jpg&w=1200&h=630&scale=0&crop=0)
 
 ### Related:
 

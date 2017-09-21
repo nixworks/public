@@ -8,6 +8,7 @@ The last of the three inmates who escaped from an Arizona prison was captured wi
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/08/21/us/21inmate.html)
+1. [Cover Image](https://static01.nyt.com/images/2010/08/21/us/21inmate-cnd/21inmate-cnd-thumbStandard.jpg)
 
 ### Related:
 

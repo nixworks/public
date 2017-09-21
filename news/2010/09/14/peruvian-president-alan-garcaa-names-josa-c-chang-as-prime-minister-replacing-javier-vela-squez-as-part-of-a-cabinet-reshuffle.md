@@ -9,6 +9,7 @@ Peruvian President Alan Garcia names Jose Chang as his new prime minister as par
 
 1. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?id=3t49M4gYKp0=)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11306477)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

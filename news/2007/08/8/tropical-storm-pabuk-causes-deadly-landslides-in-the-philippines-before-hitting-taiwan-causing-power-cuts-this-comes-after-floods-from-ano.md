@@ -9,6 +9,7 @@ A tropical storm caused deadly landslides in the Philippines on Wednesday, befor
 
 1. [AP via the New York Times](http://www.nytimes.com/2007/08/09/world/asia/09asiastorms.html?_r=1&oref=slogin)
 2. [Reuters via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/08/08/AR2007080800082.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

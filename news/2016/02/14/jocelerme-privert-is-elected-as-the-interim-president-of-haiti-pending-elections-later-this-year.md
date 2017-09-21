@@ -8,6 +8,7 @@ Port-au-Prince (AFP) - Haitian lawmakers early Sunday elected Jocelerme Privert 
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/haiti-lawmakers-elect-jocelerme-privert-interim-president-084938170.html;_ylt=AwrXgSLNQMBWBAYAp53QtDMD;_ylu=X3oDMTByYnR1Zmd1BGNvbG8DZ3ExBHBvcwMyBHZ0aWQDBHNlYwNzcg--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/_aV1iYzaWXxmRNJnTutoHA--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/01833fd26d628dbb6bd22257e56d87165d1a1c35.jpg)
 
 ### Related:
 

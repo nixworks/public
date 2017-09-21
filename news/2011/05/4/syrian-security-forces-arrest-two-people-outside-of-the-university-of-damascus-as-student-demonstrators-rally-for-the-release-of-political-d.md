@@ -14,6 +14,7 @@ Syrian security forces arrested two people outside of the University of Damascus
 5. [Sky News](http://news.sky.com/skynews/Home/World-News/Video-SYRIA-Tanks-Sent-To-Homs-As-Government-Continues-Arrests-Of-Opposition-Protesters/Article/201105115985647?lpos=World_News_Top_Stories_Header_3&lid=ARTICLE_15985647_Video_SYRIA%3A_Tanks_Sent_To_Homs_As_Government_Continues_Arrests_Of_Opposition_Protesters)
 6. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=219223)
 7. [UPI](http://www.upi.com/Top_News/World-News/2011/05/04/Mass-arrests-in-Syria/UPI-55741304508738/)
+7. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/05/04/syria.unrest/tzvids.syrian.protesters.afp.gi.jpg)
 
 ### Related:
 

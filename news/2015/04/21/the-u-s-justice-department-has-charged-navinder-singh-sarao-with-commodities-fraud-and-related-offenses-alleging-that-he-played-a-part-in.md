@@ -8,6 +8,7 @@ A high-frequency trader was arrested in London over his alleged role in the May 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/21/us-usa-security-fraud-idUSKBN0NC21220150421)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150421&t=2&i=1042270086&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3K115)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ukrainian government forces reclaimed the port city of Mariupol from pro-Russian
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/06/13/us-ukraine-crisis-flag-idUSKBN0EO0MX20140613)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140613&t=2&i=906670510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5C0DM)
 
 ### Related:
 

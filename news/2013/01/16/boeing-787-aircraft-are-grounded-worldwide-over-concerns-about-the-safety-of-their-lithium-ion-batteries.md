@@ -12,6 +12,7 @@ European safety regulatorswill follow the United States in ordering the groundin
 3. [Reuters](http://www.reuters.com/article/2013/01/17/boeing-787-easa-idUSL6N0AM0E020130117)
 4. [The New York Times](http://www.nytimes.com/2013/01/17/business/faa-orders-grounding-of-us-operated-boeing-787s.html)
 5. [Time](http://business.time.com/2013/01/17/lithium-batteries-central-to-boeings-787-woes/)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

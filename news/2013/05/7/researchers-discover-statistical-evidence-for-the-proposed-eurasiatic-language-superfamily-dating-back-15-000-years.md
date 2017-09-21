@@ -8,3 +8,4 @@ Would Ice Age man understand us? It depends on the words we use. Digging through
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-ice-age-language-ancestor-superfamily-eurasia-20130507,0,1515430.story)
+1. [Cover Image](http://www.trbimg.com/img-518984a0/turbine/la-sci-sn-ice-age-language-ancestor-superfamily-eurasia-20130507)

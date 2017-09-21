@@ -8,3 +8,4 @@
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0401/breaking1.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

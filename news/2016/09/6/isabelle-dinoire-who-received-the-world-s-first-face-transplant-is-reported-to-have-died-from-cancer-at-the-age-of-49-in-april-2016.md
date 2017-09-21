@@ -8,6 +8,7 @@ The first-ever person to receive a face transplant, Frenchwoman Isabelle Dinoire
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-37290986)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15558/production/_91048378_mediaitem91048377.jpg)
 
 ### Related:
 

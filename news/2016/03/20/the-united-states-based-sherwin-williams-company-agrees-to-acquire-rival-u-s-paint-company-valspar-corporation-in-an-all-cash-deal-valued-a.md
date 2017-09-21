@@ -8,6 +8,7 @@ The Sherwin-Williams Co (SHW.N) has agreed to acquire rival U.S. paint company V
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/usa-sherwin-williams-valspar-idUSL2N16S0CK)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160321&t=2&i=1126446831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2K02G)
 
 ### Related:
 

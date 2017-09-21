@@ -9,6 +9,7 @@ An Iranian nuclear scientist is killed and another wounded in separate but simil
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/20101129131235776706.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11860928)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The two men convicted of the April 2011 Minsk subway bombing have been executed 
 ### Source:
 
 1. [Russia Today](http://rt.com/news/minsk-subway-executed-blast-811/)
+1. [Cover Image](https://img.rt.com/files/oldfiles/news/minsk-subway-executed-blast-811/vladislav-kovalev.si.jpg)
 
 ### Related:
 

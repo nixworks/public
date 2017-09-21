@@ -8,6 +8,7 @@ Five French Foreign Legionnaires are killed and six injured in an avalanche whil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35346453)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1DF3/production/_87776670_c434c4bb-7ea9-4aba-8df3-7abf02ddf57b.jpg)
 
 ### Related:
 

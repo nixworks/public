@@ -8,6 +8,7 @@ The deputy prime minister confirms plans for fewer MPs, a voting referendum and 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/politics/10516429.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

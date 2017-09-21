@@ -9,6 +9,7 @@
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB125883405294859215.html)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/11/21/AR2009112102186.html)
+2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

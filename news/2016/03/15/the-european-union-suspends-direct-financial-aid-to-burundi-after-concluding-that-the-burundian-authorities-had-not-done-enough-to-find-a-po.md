@@ -8,6 +8,7 @@ EU withholds direct financial support to Bujumbura after concluding that authori
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/global-development/2016/mar/15/eu-suspends-aid-to-burundi-government)
+1. [Cover Image](https://i.guim.co.uk/img/media/52368b7cc3d5e652497e9f790b6b1803dad294b0/0_0_5184_3110/master/5184.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=22702e3fc11f4e94918aa8e11004509d)
 
 ### Related:
 

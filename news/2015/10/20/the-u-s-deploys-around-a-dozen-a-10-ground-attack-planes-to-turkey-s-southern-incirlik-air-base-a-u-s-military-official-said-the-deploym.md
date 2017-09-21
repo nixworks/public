@@ -9,6 +9,7 @@ The US military has deployed a dozen A-10 ground-attack planes to the air base a
 
 1. [AFP via Yahoo](http://news.yahoo.com/canada-withdrawing-fighter-jets-iraq-syria-trudeau-tells-220007010.html)
 2. [AFP via Yahoo](http://news.yahoo.com/us-deploys-ground-attack-10-planes-turkey-155644211.html)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/C8_kjTtaZOVz4IEw.mjdww--/aD02Nzk7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/a72d879771c5c1c72399dc4712d16c7695d85f09.jpg)
 
 ### Related:
 

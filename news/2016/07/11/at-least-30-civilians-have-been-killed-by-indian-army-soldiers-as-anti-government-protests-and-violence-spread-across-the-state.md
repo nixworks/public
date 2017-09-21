@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN-News18](http://www.news18.com/news/india/kashmir-continues-to-boil-as-death-toll-touches-21-1267969.html)
+1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2016/07/545828090.jpg)
 
 ### Related:
 

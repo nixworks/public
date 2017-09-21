@@ -8,6 +8,7 @@ Muhammad Dahlan resigned today from his post as national security adviser to Mah
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/07/26/world/middleeast/26cnd-mideast.html?_r=1&hp&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

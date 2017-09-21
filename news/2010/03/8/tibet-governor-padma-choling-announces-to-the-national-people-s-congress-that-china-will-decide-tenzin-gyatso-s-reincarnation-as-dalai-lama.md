@@ -8,6 +8,7 @@ The Chinese government says that it will have the final say, rather than the Dal
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/7397440/China-insists-it-will-choose-Dalai-Lamas-successor.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01292/dalai-lama_1292940a.jpg)
 
 ### Related:
 

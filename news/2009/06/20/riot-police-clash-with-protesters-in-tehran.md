@@ -16,6 +16,7 @@ Tehran: Irans Guardian Council will recount 10 percent of the ballot boxes in la
 7. [Sify](http://sify.com/news/fullstory.php?a=jguvLhcehgi&title=Iran_to_recount_10_percent_of_ballot_boxes_Report&scategory=features&?vsv=TopHP1)
 8. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article6543269.ece)
 9. [Xinhua](http://news.xinhuanet.com/english/2009-06/21/content_11574456.htm)
+9. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

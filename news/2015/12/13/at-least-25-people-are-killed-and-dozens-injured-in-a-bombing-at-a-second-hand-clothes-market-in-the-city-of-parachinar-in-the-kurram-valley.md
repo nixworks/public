@@ -9,6 +9,7 @@ Sectarian outfit Lashkar-e-Jhangvi al-Alami claims responsibility for the attack
 
 1. [Pakistan Tribune](http://tribune.com.pk/story/1009233/four-dead-several-wounded-in-parachinar-blast/)
 2. [The News](http://www.thenews.com.pk/print/81755-25-killed-70-injured-in-Parachinar-market-blast)
+2. [Cover Image](https://c.tribune.com.pk/2015/12/1009233-parachinarblast-1449998585-589-640x480.jpg)
 
 ### Related:
 

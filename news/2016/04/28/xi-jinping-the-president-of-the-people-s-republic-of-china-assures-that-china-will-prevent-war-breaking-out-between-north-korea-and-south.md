@@ -9,6 +9,7 @@
 
 1. [AFP via Malay Mail](http://www.themalaymailonline.com/world/article/north-koreas-second-mid-range-missile-test-fails)
 2. [Time](http://time.com/4310621/china-xi-jinping-north-south-korea-peninsula-war/)
+2. [Cover Image](http://www.themalaymailonline.com/uploads/articles/2014-07/0907northkoreaWorld.jpg)
 
 ### Related:
 

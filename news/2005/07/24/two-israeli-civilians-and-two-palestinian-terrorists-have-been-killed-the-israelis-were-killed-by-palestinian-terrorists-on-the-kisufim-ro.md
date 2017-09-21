@@ -10,6 +10,7 @@ Two civilians murdered, three injured when gunmen ambush Israeli vehicle near Ga
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4711497.stm)
 2. [Reuters](http://news.yahoo.com/s/nm/mideast_dc;_ylt=AlQEVTw2zrm3RH.pleynPl6aK8MA;_ylu=X3oDMTA5bGVna3NhBHNlYwNzc3JlbA--)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3116961,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

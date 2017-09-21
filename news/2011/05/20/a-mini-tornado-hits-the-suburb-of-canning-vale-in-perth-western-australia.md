@@ -8,6 +8,7 @@ A mini-tornado damaged 10 homes in Canning Vale and Perth drivers faced lengthy 
 ### Source:
 
 1. [WA Today](http://www.watoday.com.au/wa-news/minitornado-hits-canning-vale-as-storm-tears-through-perth-20110520-1evpl.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/e/w/y/o/image.related.articleLeadwide.620x349.1evpl.png/1305888523223.jpg)
 
 ### Related:
 

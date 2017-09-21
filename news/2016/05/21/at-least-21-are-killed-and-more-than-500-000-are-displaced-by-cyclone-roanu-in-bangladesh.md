@@ -14,6 +14,7 @@ A cyclone battered coastal Bangladesh on Saturday, killing at least 21 people an
 5. [The Guardian](http://www.theguardian.com/world/2016/may/21/sri-lanka-landslides-torrential-rains)
 6. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/73-dead-scores-missing-in-weeklong-sri-lanka-storms/2016/05/21/a54d42ec-1f4f-11e6-82c2-a7dcb313287d_story.html)
 7. [bd24new.com](http://bdnews24.com/bangladesh/2016/05/21/cyclone-roanu-claims-19-lives-in-seven-bangladesh-districts)
+7. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

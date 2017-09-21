@@ -8,6 +8,7 @@ Turkey said on Monday it would not withdraw hundreds of soldiers who arrived las
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-turkey-idUSKBN0TQ0SS20151207)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151207&t=2&i=1100488220&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB60DV)
 
 ### Related:
 

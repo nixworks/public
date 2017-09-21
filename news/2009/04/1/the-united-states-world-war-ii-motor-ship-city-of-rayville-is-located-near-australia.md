@@ -8,6 +8,7 @@ Researchers mapping the sea floor off Victoria have uncovered the rusting wreck 
 ### Source:
 
 1. [The Age](http://news.theage.com.au/breaking-news-national/first-us-ship-sunk-in-wwii-found-off-vic-20090401-9j9q.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

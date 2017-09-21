@@ -8,6 +8,7 @@ Bells tolled and thousands bowed their heads in prayer in Hiroshima on Thursday 
 ### Source:
 
 1. [Reuters via ''The Melbourne Age](http://www.theage.com.au/world/hiroshima-marks-atomic-bombing-20150806-giszg7.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/g/i/s/z/1/z/image.related.articleLeadwide.620x349.giszg7.png/1438834171269.jpg)
 
 ### Related:
 

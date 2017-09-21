@@ -8,6 +8,7 @@ Italian Prime Minister Silvio Berlusconi plans to set aside every Monday in orde
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12655127)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

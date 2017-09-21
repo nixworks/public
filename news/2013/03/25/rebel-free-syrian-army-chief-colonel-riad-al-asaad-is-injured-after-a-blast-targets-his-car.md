@@ -9,6 +9,7 @@ Officials say National Coalition will represent Syria in upcoming pan-Arab summi
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2013/03/2013325105453834.html)
 2. [CNN](http://www.cnn.com/2013/03/25/world/meast/syria-civil-war/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/22/20121221820501734_20.jpg)
 
 ### Related:
 

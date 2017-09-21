@@ -8,6 +8,7 @@ The surprising act of defiance by Dede Scozzafava added another twist to the clo
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/11/02/nyregion/02district.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

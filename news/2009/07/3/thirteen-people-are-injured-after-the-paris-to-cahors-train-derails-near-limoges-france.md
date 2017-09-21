@@ -8,6 +8,7 @@ Thirteen people have been injured, after a train derailed near the southwestern 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0703/traincrash.html)
+1. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)
 
 ### Related:
 

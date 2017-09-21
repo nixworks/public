@@ -11,6 +11,7 @@ A prophecy that Saturday is Judgment Day, and the start of the five-month end of
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_671077.html)
 3. [The New York Times](http://www.nytimes.com/2011/05/20/us/20rapture.html?pagewanted=1&_r=3&hp)
 4. [The New York Times](http://www.nytimes.com/2011/05/22/us/22doomsday.html?_r=1)
+4. [Cover Image](https://static01.nyt.com/images/2011/05/20/nyregion/RAPTURE/RAPTURE-thumbStandard.jpg)
 
 ### Related:
 

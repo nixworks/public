@@ -9,6 +9,7 @@
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/metro-manila/04/25/10/fire-razes-1000-houses-qc)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8643300.stm)
+2. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/others/img00242-20100425-1711.jpg)
 
 ### Related:
 

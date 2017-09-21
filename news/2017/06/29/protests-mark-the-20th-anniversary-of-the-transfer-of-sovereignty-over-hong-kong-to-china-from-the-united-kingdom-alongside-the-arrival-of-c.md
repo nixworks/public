@@ -8,6 +8,7 @@ Hongkongers have expressed surprise at the appearance of China-style decorations
 ### Source:
 
 1. [Hong Kong Free Press](https://www.hongkongfp.com/2017/06/29/pictures-i-china-hongkongers-decry-ugly-handover-decorations-welcoming-xi-jinping/)
+1. [Cover Image](https://www.hongkongfp.com/wp-content/uploads/2017/06/19466416_10154509569871968_6693869493848151234_o-1.jpg)
 
 ### Related:
 

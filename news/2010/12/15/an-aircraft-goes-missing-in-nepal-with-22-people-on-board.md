@@ -9,6 +9,7 @@ All 22 people travelling in a small passenger plane that crashed in Nepal are de
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12000786)
 2. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=22+feared+dead+in+Tara+Air+Twin+Otter+crash&NewsID=269585)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

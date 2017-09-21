@@ -8,6 +8,7 @@ China will return an underwater U.S. drone seized by a naval vessel this week in
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-china-drone-idUSKBN14526J)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161216&t=2&i=1165763179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBF1BT)
 
 ### Related:
 

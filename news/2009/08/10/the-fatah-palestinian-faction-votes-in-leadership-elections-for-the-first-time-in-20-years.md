@@ -9,6 +9,7 @@ Delegates at West Bank conference hope to rejuvinate Palestinan political moveme
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jyM4Kmc4FGStJoyjvQmVkisB2m3A)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/200989195545400442.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A new deal has been made between the UK and Ireland to ensure that disqualified 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1028/driving.html)
+1. [Cover Image](https://img.rasset.ie/0001d7fa-1600.jpg)
 
 ### Related:
 

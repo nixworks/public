@@ -9,6 +9,7 @@ Officials acknowledge that killings might have been prevented with proper enforc
 
 1. [ (''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/training-suspended-for-new-afghan-recruits/2012/09/01/adc4ed1c-f398-11e1-b74c-84ed55e0300b_story.html)
 2. [AFP via ''Asia One](http://www.asiaone.com/News/Latest%2BNews/World/Story/A1Story20120902-369156.html)
+2. [Cover Image](http://www.asiaone.com/A1MEDIA/news/09Sep12/20120902.191412_afp_afghangunstn.jpg)
 
 ### Related:
 

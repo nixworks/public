@@ -12,6 +12,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 3. [France24](http://www.france24.com/en/20110323-gaddafi-keeps-assault-attacks-airstrikes-rain-down)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/mar/22/libya-gaddafi-forces-offensive)
 5. [hurrieyet](http://www.hurriyetdailynews.com/n.php?n=urgent--turkey-offers-warships-for-libya-arms-embargo-nato-2011-03-23)
+5. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Israeli officials dismiss Egyptian reports that a suspected Mossad spy has been 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13746605)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53377000/jpg/_53377970_012134201-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Britain-based Syrian Observatory for Human Rights monitoring group says ther
 
 1. [NBC News](http://www.nbcnews.com/news/world/syria-chemical-attack-reportedly-kills-dozens-idlib-province-n742416?cid=eml_nbn_20170404)
 2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/syrian-group-says-death-toll-in-suspected-gas-attack-up-to-58/article34574153/)
+2. [Cover Image](http://static.theglobeandmail.ca/3bd/news/world/article34574601.ece/ALTERNATES/w620/web-syria-gas-4.JPG)
 
 ### Related:
 

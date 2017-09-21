@@ -9,6 +9,7 @@ In&#x20;a&#x20;live&#x20;TV&#x20;interview,&#x20;French&#x20;President&#x20;Nico
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/europe/10607156.stm)
 2. [France24](http://www.france24.com/en/20100712-sarkozy-faces-nation-over-loreal-corruption-scandal-woerth-bettencourt)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/sarko-itw-m.jpg)
 
 ### Related:
 

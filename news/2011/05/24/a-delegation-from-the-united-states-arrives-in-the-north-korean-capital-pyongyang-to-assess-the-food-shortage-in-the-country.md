@@ -9,6 +9,7 @@ A U.S. delegation will travel to North Korea on Tuesday for a four-day trip to a
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/05/24/north.korea.us.delegation/)
 2. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/20110524/news_20110524_56_757553.htm)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/24/north.korea.us.delegation/tzvids.north.korea.soldier.gi.jpg)
 
 ### Related:
 

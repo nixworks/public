@@ -10,6 +10,7 @@ Flight recorders from a plane that crashed in Libya on 12 May killing 103 people
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10195452.stm)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_News&set_id=1&click_id=79&art_id=nw20100530133109472C266892)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE64T0VZ20100530)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44532000/jpg/_44532673_breaking_splash_466x260.jpg)
 
 ### Related:
 

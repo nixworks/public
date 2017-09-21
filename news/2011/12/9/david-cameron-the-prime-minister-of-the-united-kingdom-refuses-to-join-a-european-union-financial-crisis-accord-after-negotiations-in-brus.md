@@ -8,6 +8,7 @@ The PM effectively vetoes an EU-wide treaty change, after making what French Pre
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16104275#TWEET41911)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57235000/jpg/_57235726_013490314-1.jpg)
 
 ### Related:
 

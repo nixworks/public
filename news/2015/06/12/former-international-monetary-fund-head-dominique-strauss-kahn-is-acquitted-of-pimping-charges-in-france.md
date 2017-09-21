@@ -8,6 +8,7 @@ French court clears former International Monetary Fund chief of ‘aggravated pi
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/jun/12/dominique-strauss-kahn-acquitted-in-pimping-trial)
+1. [Cover Image](https://i.guim.co.uk/img/media/30287b8eb920c27164b332f0c28c505a7a4defe6/57_92_4337_2602/4337.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4bee0387fca81dd7754c5f7f5b972d01)
 
 ### Related:
 

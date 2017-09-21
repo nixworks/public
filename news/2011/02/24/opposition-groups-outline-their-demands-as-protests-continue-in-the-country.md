@@ -8,3 +8,4 @@ Manama, Feb 24 (IANS) An umbrella group of seven main opposition parties in Bahr
 ### Source:
 
 1. [Sify India](http://www.sify.com/news/bahrain-s-opposition-lists-demands-as-protests-rise-news-international-lcyoElcjfcb.html)
+1. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)

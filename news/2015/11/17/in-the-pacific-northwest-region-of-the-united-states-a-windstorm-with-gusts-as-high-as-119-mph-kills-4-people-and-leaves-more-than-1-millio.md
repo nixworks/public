@@ -10,6 +10,7 @@ A large storm system has brought widespread damage to the Northwest. Here&#039;s
 1. [KIRO-TV](http://www.kirotv.com/news/news/thousands-remain-without-power-after-violent-storm/npQJm/)
 2. [The Seattle Times](http://www.seattletimes.com/seattle-news/weather/high-winds-to-hit-puget-sound-area-flooding-downed-trees-landslides-possible/)
 3. [The Weather Channel](http://www.weather.com/news/weather/news/northwest-high-winds-rain-snow-impacts)
+3. [Cover Image](http://s.w-x.co/ap_402503216010.jpg)
 
 ### Related:
 

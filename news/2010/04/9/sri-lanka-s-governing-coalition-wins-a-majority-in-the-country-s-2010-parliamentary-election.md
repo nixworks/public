@@ -12,6 +12,7 @@
 3. [France24](http://www.france24.com/en/20100409-sri-lanka-ruling-alliance-wins-parliamentary-majority-rajapaksa-upfa-elections)
 4. [Reuters](http://www.reuters.com/article/idUSTRE63740B20100409?feedType=RSS&feedName=worldNews)
 5. [South China Morning Post](http://www.scmp.com/vgn-ext-templating/v/index.jsp?vgnextoid=456795772e0e7210VgnVCM100000360a0a0aRCRD&s=News&ss=Asia+%26+World)
+5. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20100409&t=2&i=89237380&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-09T122856Z_01_BTRE6380YOC00_RTROPTP_0_SRILANKA-ELECTIONS)
 
 ### Related:
 

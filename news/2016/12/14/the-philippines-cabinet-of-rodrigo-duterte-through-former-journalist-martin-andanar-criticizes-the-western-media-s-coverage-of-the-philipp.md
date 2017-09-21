@@ -11,6 +11,7 @@ Controversial leader – who has endorsed extrajudicial executions of drug offen
 2. [NBC News](http://www.nbcnews.com/news/us-news/philippine-president-under-fire-claims-he-personally-killed-criminals-n695936)
 3. [The Guardian](https://www.theguardian.com/world/2016/dec/14/philippines-president-rodrigo-duterte-personally-killed-criminals)
 4. [The New York Times](http://www.nytimes.com/2016/12/12/world/asia/philippines-president-criticizes-times-piece-on-deadly-antidrug-campaign.html)
+4. [Cover Image](https://i.guim.co.uk/img/media/d09b319d95034f7a713a369cccaf3aef3e543d21/151_302_4849_2909/master/4849.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4530009d62bc7f89db4bebbf47a63071)
 
 ### Related:
 

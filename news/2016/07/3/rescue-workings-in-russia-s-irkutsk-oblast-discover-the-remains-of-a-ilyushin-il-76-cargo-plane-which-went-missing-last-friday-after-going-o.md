@@ -8,6 +8,7 @@ At least eight people have died after a Russian plane on a fire-fighting mission
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russia-crash-idUSKCN0ZJ0DF)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

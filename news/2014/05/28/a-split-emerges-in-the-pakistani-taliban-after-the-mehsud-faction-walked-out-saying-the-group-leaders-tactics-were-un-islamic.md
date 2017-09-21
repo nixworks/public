@@ -8,6 +8,7 @@ A major faction of the Pakistani Taliban announce their split from the organisat
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27605651)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75149000/jpg/_75149185_75149183.jpg)
 
 ### Related:
 

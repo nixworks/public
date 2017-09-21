@@ -10,6 +10,7 @@ NASA ended its successful GRAIL mission by intentionally crashing the twin space
 1. [BBC](http://www.bbc.co.uk/news/science-environment-21851037)
 2. [NASA](http://www.nasa.gov/mission_pages/LRO/news/grail-results.html)
 3. [Space.com](http://www.space.com/20293-nasa-grail-moon-probes-graves.html)
+3. [Cover Image](http://www.nasa.gov/sites/default/files/images/735573main_robinson_GRAILA_timestep02.anim.gif)
 
 ### Related:
 

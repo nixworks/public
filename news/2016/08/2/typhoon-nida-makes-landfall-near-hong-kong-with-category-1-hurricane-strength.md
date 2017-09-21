@@ -8,6 +8,7 @@ Typhoon Nida has hit southeast China after impacting the Philippines.
 ### Source:
 
 1. [Weather.com](https://weather.com/storms/typhoon/news/typhoon-nida-carina-philippines-china-hong-kong?cm_ven=T_WX_BD_80116_2)
+1. [Cover Image](http://s.w-x.co/nida-mon-pm.jpg)
 
 ### Related:
 

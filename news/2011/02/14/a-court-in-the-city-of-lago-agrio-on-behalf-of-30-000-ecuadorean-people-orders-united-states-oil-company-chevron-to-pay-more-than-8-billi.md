@@ -10,6 +10,7 @@ An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12460333)
 2. [Bloomberg](http://www.bloomberg.com/news/2011-02-14/chevron-to-appeal-adverse-judgment-in-ecuador-pollution-case.html)
 3. [Reuters](http://www.reuters.com/article/2011/02/14/ecuador-chevron-plaintiff-idUSN149620320110214)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

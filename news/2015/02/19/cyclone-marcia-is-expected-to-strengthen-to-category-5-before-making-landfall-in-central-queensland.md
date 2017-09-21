@@ -10,6 +10,7 @@ Queenslanders are being warned to have enough supplies to last a couple of days 
 1. [ (News Limited](http://www.news.com.au/technology/environment/wild-weather-to-hit-queensland-and-northern-territory-as-cyclone-marcia-and-cyclone-lam-approach/story-e6frflp0-1227224925218)
 2. [ABC Australia](http://www.abc.net.au/news/2015-02-19/category-five-cyclone-expected-to-hit-central-queensland/6151198)
 3. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/brisbane-weather-queensland-braces-for-heavy-rain-as-cyclone-marcia-hits-20150219-13ilke.html)
+3. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/1/3/i/t/t/b/image.related.articleLeadwide.620x349.13ilke.png/1424421055970.jpg)
 
 ### Related:
 

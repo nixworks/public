@@ -9,6 +9,7 @@ The world’s first gun made using a 3D printer is successfully tested in the US
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22421185)
 2. [WGBH](http://www.wgbhnews.org/post/gun-made-3-d-printer-successfully-fired)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67431000/jpg/_67431205_firing.jpg)
 
 ### Related:
 

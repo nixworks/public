@@ -8,6 +8,7 @@ The government announces that prisoners serving fewer than four years will be el
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12022013)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

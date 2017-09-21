@@ -8,6 +8,7 @@ It is not immediately clear why the Shia leader left Iraq and how long he will s
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201112222343680162.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/22/2011122223353688954_20.jpg)
 
 ### Related:
 

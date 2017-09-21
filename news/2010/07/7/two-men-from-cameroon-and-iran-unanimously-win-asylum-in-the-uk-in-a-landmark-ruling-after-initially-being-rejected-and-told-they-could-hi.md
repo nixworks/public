@@ -11,6 +11,7 @@ Homosexuals who cannot live an open life in their own countries without fear of 
 2. [Daily Express](http://www.dailyexpress.co.uk/posts/view/185617/Now-asylum-if-you-re-gay/)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE6661NZ20100707?feedType=RSS&feedName=domesticNews)
 4. [The Scotsman](http://news.scotsman.com/politics/Two-gay-men-win-landmark.6407464.jp)
+4. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20100707&t=2&i=148562540&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-07T103600Z_01_BTRE6660TG700_RTROPTP_0_BRITAIN)
 
 ### Related:
 

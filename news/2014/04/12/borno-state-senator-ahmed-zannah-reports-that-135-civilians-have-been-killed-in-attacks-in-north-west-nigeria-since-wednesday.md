@@ -8,6 +8,7 @@ A senator from north-east Nigeria tells the BBC that 135 civilians have been kil
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27006876)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74206000/jpg/_74206607_73203834.jpg)
 
 ### Related:
 

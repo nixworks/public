@@ -11,6 +11,7 @@ The Red Cross says that more than 1,200 people are confirmed dead as Haiyan, one
 2. [The Guardian](http://www.theguardian.com/world/2013/nov/09/typhoon-haiyan-death-philippines)
 3. [The New York Times](http://www.nytimes.com/2013/11/10/world/asia/philippines-typhoon.html?_r=0)
 4. [Tuoi Tre News](http://tuoitrenews.vn/society/14954/453000-soldiers-mobilized-to-cope-with-super-typhoon)
+4. [Cover Image](https://img.rt.com/files/news/21/12/70/00/typhoon.si.jpg)
 
 ### Related:
 

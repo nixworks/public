@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2006/02/14/international/middleeast/14mideast.html?ei=5094&en=d28cff5caa1702fa&hp=&ex=1139979600&partner=homepage&pagewanted=print)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

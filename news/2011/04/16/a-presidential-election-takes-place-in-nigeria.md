@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13102541)
 2. [iAfrica](http://news.iafrica.com/worldnews/722333.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52200000/jpg/_52200240_52200239.jpg)
 
 ### Related:
 

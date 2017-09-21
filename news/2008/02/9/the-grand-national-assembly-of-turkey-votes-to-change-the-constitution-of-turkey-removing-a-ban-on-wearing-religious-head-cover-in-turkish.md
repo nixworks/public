@@ -8,6 +8,7 @@ The vote sets the stage for a showdown with the country’s secular elite over I
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/02/09/world/europe/09cnd-turkey.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/02/09/world/09turkey.1-75.jpg)
 
 ### Related:
 

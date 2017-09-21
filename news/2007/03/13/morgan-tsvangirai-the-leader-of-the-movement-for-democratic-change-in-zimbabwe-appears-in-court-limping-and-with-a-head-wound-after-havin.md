@@ -8,6 +8,7 @@ Morgan Tsvangirai was jailed and beaten for his role in a banned anti-government
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/03/13/world/africa/13cnd-zimbabwe.html?_r=1&hp&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2007/03/13/world/zim.7575.jpg)
 
 ### Related:
 

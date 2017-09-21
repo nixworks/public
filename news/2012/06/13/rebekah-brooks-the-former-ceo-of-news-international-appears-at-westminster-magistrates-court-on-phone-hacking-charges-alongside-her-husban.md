@@ -8,6 +8,7 @@ Rebekah Brooks appeared behind a high glass screen in the dock yesterday, alongs
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/crime/fashionably-late-rebekah-brooks-has-her-first-day-in-court-7848927.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/06/13/23/pg-2-brooks-1-ap.jpg)
 
 ### Related:
 

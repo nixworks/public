@@ -8,6 +8,7 @@ Ministers are proposing to set a minimum price of 45p a unit for the sale of alc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-20515918)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62413000/jpg/_62413033_013873627-1.jpg)
 
 ### Related:
 

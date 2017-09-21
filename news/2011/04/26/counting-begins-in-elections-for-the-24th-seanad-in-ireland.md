@@ -10,6 +10,7 @@ Former Fine Gael TD Deirdre Clune has become the first person to be deemed elect
 1. [Irish Independent](http://www.independent.ie/national-news/crucial-week-for-martin-as-seanad-count-begins-2629197.html)
 2. [RTÉ](http://www.rte.ie/news/2011/0426/seanad.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2011/0427/1224295546091.html)
+3. [Cover Image](https://img.rasset.ie/0003ed9d-1600.jpg)
 
 ### Related:
 

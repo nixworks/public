@@ -8,6 +8,7 @@ Bee Gees singer Robin Gibb has died aged 62 following a lengthy battle with canc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18140862)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60366000/jpg/_60366421_014517744-1.jpg)
 
 ### Related:
 

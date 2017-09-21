@@ -9,6 +9,7 @@ Republicans faced their first defeat, failing to pass a measure that they&#x27;v
 
 1. [NBC News](http://www.nbcnews.com/politics/congress/senate-sets-sights-skinny-repeal-obamacare-tuesday-s-voting-n786296)
 2. [The New York Times](https://www.nytimes.com/interactive/2017/07/25/us/politics/senate-votes-repeal-obamacare.html)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_30/2083936/170725-mcconnell-capital-health-care-vote-se-152p_4a5f690e3d205bc92938fce424695d3e.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

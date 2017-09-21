@@ -8,6 +8,7 @@ Personnel are understood to be returning to a North Sea oil rig after a security
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2008/0210/northsea.html)
+1. [Cover Image](https://img.rasset.ie/00007f32-1600.jpg)
 
 ### Related:
 

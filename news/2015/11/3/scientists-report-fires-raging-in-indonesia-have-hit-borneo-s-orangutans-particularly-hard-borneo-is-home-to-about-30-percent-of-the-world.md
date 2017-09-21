@@ -8,6 +8,7 @@ Wild orangutans in Borneo are being displaced by man-made fires that got out of 
 ### Source:
 
 1. [Live Science](http://www.livescience.com/52677-borneo-fires-hurt-orangutans.html?google_editors_picks=true)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA0Ny80Mzgvb3JpZ2luYWwvb3Jhbmd1dGFuLW1vbS5qcGc=)
 
 ### Related:
 

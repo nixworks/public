@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/30/us-imf-china-idUSKBN0TJ24Q20151130#Vkb5zzkpWoUSa3sG.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151130&t=2&i=1098779352&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAT13X)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The retired US space shuttle Endeavour finally reaches its new home in a Los Ang
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-19935264)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63486000/jpg/_63486690_63486689.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Peruvian President Alan Garcia denies slapping a man who called him corrupt duri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11547470)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

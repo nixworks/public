@@ -9,6 +9,7 @@
 
 1. [Gulf News](http://gulfnews.com/news/mena/turkey/turkey-police-shut-down-pro-kurdish-tv-channel-live-on-air-1.1906713)
 2. [Reuters](http://www.reuters.com/article/us-turkey-security-police-idUSKCN12408Z)
+2. [Cover Image](http://static.gulfnews.com/polopoly_fs/1.1906944!/image/2964763478.jpg_gen/derivatives/box_460346/2964763478.jpg)
 
 ### Related:
 

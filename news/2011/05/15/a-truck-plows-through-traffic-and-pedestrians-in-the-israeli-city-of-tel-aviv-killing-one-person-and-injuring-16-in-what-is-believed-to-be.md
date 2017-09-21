@@ -22,6 +22,7 @@ Police spokesman: Truck rampage &quot;looks deliberate,&quot; but probe ongoing;
 13. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=220575)
 14. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=220604)
 15. [Voice of America](http://www.voanews.com/english/news/Dozens-Shot-Injured-Near-Israel-Gaza-Border--121853324.html)
+15. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=165485)
 
 ### Related:
 

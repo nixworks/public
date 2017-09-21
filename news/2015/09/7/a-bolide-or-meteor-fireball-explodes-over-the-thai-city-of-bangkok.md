@@ -8,6 +8,7 @@ Dashcam footage captures the moment a bright white light blazes across the sky i
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/thailand/11848168/Mysterious-fireball-caught-on-camera-blazing-over-Bangkok.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03431/fireball_3431326k.jpg)
 
 ### Related:
 

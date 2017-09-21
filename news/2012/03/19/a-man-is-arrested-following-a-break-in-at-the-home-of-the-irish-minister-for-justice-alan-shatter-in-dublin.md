@@ -8,6 +8,7 @@ Police are investigating a break-in at the home of the Irish minister for Justic
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17425979)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59171000/jpg/_59171044_pacemaker_department_of_justice_04.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former Egyptian President Hosni Mubarak is fined $34m (£20m) for cutting off in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13585237)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52948000/jpg/_52948570_tv012033711.jpg)
 
 ### Related:
 

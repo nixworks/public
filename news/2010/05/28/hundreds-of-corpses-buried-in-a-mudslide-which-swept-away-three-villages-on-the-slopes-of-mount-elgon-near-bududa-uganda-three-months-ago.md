@@ -8,6 +8,7 @@ Hundreds of bodies buried in a mudslide in Uganda three months ago have yet to b
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10180940.stm)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

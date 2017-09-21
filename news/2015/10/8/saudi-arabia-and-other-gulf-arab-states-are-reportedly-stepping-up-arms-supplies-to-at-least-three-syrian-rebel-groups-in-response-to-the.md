@@ -14,6 +14,7 @@ Saudi Arabia is responding to Russian airstrikes on Syria by stepping up arms su
 5. [Reuters](http://www.albawaba.com/news/russian-missiles-aimed-syria-crash-iran-752700)
 6. [Reuters](http://www.reuters.com/article/2015/10/09/us-mideast-crisis-syria-idUSKCN0S20J920151009)
 7. [The Moscow Times](http://www.themoscowtimes.com/opinion/news/article/syrian-general-says-russian-strikes-aid-ground-offensive/537926.html)
+7. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1100F/production/_85974696_85974695.jpg)
 
 ### Related:
 

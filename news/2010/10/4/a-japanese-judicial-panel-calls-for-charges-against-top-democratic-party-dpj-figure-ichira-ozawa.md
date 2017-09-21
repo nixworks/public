@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11464313)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/199605/japan-hadow-shogun-faces-funding-scandal-case)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

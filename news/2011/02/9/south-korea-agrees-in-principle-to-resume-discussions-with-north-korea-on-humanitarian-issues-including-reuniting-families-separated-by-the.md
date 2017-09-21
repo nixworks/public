@@ -9,6 +9,7 @@ Military talks aimed at easing tensions between North and South Korea have broke
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12401126)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2011/02/09/83/0301000000AEN20110209009100315F.HTML)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

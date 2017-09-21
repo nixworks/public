@@ -34,7 +34,7 @@ _Context: Malaysia, Microsoft, Windows Vista_
 _Context: Great Internet Mersenne Prime Search, Mersenne prime, decimal, digits, prime number_
 
 ### [ The Pentagon announces that U.S.-born illegal combatant and Taliban fighter Yaser Esam Hamdi will be allowed access to a lawyer after having been denied such counsel for two years. [http://www.myafghan.com/news2.asp?id=985750365&search=12/3/2003]](/news/2003/12/2/the-pentagon-announces-that-u-s-born-illegal-combatant-and-taliban-fighter-yaser-esam-hamdi-will-be-allowed-access-to-a-lawyer-after-havin.md)
-_Context: Taliban, United States, United States military, Yaser Esam Hamdi, illegal combatant_
+_Context: Taliban, United States, United States military, Yaser Esam Hamdi, illegal enemy combatant_
 
 ## [Previous Day...](/news/2003/12/1/index.md)
 

@@ -8,6 +8,7 @@ One jet came within 150ft (45m) of the US plane and flew upside over it, officia
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-39971267)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BA73/production/_96113774_gettyimages-510521514.jpg)
 
 ### Related:
 

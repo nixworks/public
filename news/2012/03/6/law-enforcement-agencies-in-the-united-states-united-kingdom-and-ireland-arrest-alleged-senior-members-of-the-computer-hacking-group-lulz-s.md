@@ -9,6 +9,7 @@ Law enforcement agents on two continents swooped in on top members of the comput
 
 1. [Fox News](http://www.foxnews.com/scitech/2012/03/06/hacking-group-lulzsec-swept-up-by-law-enforcement/)
 2. [The Guardian](http://www.guardian.co.uk/technology/2012/mar/06/lulzsec-sabu-working-for-us-fbi)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2012/03/06/hacking-group-lulzsec-swept-up-by-law-enforcement/_jcr_content/par/featured-media/media-3.img.jpg/0/0/1445028615915.jpg?ve=1)
 
 ### Related:
 

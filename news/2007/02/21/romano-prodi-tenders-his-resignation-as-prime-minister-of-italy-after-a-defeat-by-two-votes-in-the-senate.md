@@ -9,6 +9,7 @@
 
 1. [Ansa Notizie](http://www.ansa.it)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/6383051.stm)
+2. [Cover Image](http://www.ansa.it/sito/img/ico/ansa-57-precomposed.png)
 
 ### Related:
 

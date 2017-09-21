@@ -15,6 +15,7 @@ After meeting with Israel&#39;s UN Ambassador Danny Gillerman, Secretary General
 6. [Süddeutsche Zeitung](http://www.sueddeutsche.de/ausland/artikel/315/78237)
 7. [The Australian](http://www.theaustralian.news.com.au/story/0,29867,19465042-2703.html)
 8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3263509,00.html)
+8. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

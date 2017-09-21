@@ -8,6 +8,7 @@ The Senate is set to return for a rare Sunday session on May 31.
 ### Source:
 
 1. [The Hill](http://thehill.com/policy/national-security/243016-senate-blocks-legislation-reforming-us-surveillance-programs)
+1. [Cover Image](http://thehill.com/sites/default/files/article_images/senategop_052215gn.jpg)
 
 ### Related:
 

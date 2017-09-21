@@ -8,6 +8,7 @@ The U.S. government for the first time on Friday formally accused Russia of a ca
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-cyber-russia-idUSKCN12729B)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161007&t=2&i=1156578909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC961LK)
 
 ### Related:
 

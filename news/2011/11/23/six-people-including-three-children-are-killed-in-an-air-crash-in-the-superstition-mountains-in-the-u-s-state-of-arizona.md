@@ -8,6 +8,7 @@ A father and his three young children planning to spend the Thanksgiving weekend
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/all-of-a-sudden-boom-tragedy-at-the-superstition-mountains-as-father-and-three-children-die-in-plane-crash-20111125-1nxqm.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/n/x/p/3/image.related.articleLeadwide.620x349.1nxqm.png/1322176356670.jpg)
 
 ### Related:
 

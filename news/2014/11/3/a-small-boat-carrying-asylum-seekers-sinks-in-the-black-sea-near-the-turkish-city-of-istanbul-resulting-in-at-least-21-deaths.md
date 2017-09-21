@@ -8,6 +8,7 @@ A migrant boat carrying more than four times its maximum capacity has sunk in th
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/11/04/migrant-boat-sinking-kills-21-istanbul)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20141103001055417822-original.jpg)
 
 ### Related:
 

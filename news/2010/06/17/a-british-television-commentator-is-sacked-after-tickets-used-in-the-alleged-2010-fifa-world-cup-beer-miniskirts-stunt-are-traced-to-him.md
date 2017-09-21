@@ -11,6 +11,7 @@
 2. [Fifa World Cup](http://www.fifa.com/live/competitions/worldcup/matchday=7/day=1/match=300061457/index.html)
 3. [Reuters Africa](http://af.reuters.com/article/sportsNews/idAFJOE65G0QH20100617)
 4. [The Sydney Morning Herald](http://www.smh.com.au/world-cup-2010/world-cup-news/commentator-sacked-as-fifa-clamps-down-over-beer-miniskirts-stunt-20100616-ydo9.html)
+4. [Cover Image](http://www.abc.net.au/news/image/862530-1x1-700x700.jpg)
 
 ### Related:
 

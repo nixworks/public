@@ -8,6 +8,7 @@ Soldiers allied to the Western-backed Somali government said they killed seven i
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKBN13S0JD)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

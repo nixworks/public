@@ -8,6 +8,7 @@ Israel said Thursday it had suspended entry permits for 83,000 Palestinians duri
 ### Source:
 
 1. [AFP via Naharnet](http://www.naharnet.com/stories/en/211146)
+1. [Cover Image](http://images2.naharnet.com/images/186763/w140.jpg?1465449844)
 
 ### Related:
 

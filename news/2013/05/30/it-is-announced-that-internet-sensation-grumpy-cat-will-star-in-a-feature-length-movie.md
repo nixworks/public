@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/30/entertainment-us-grumpycat-idUSBRE94T15H20130530)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

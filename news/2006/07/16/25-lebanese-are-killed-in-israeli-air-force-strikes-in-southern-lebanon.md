@@ -20,6 +20,7 @@ Israeli warplanes continue to strike targets all across Lebanon, reportedly kill
 11. [Reuters](http://www.alertnet.org/thenews/newsdesk/L16654109.htm)
 12. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276753,00.html)
 13. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276932,00.html)
+13. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

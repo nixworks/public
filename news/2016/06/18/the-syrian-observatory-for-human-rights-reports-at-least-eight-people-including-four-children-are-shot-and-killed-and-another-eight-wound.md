@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/2f834ca0edea4fd284cd8cff8c9e5063/activists-say-8-syrians-killed-trying-cross-turkey)
 2. [The Times of Israel](http://www.timesofisrael.com/8-syrian-refugees-gunned-down-trying-to-enter-turkey/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2016/06/000_BQ6V2.jpg)
 
 ### Related:
 

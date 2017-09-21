@@ -8,6 +8,7 @@ A lawyer, who two men are accused of trying to murder, as well as Celtic manager
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-17250107)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58865000/jpg/_58865873_mcbride.jpg)
 
 ### Related:
 

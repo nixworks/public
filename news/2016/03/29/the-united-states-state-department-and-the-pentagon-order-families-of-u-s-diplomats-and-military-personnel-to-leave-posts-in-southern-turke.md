@@ -8,6 +8,7 @@ WASHINGTON — The State Department and Pentagon ordered the families of US dipl
 ### Source:
 
 1. [AP via ''New York Post](http://nypost.com/2016/03/29/us-orders-diplomatic-military-families-out-of-south-turkey/)
+1. [Cover Image](https://thenypost.files.wordpress.com/2016/03/jet.jpg?quality=90&amp;strip=all&amp;w=1200)
 
 ### Related:
 

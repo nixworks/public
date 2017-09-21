@@ -8,6 +8,7 @@ Three men appear in court in Newry charged with involvement in terrorist activit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-17810412)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59801000/jpg/_59801450_newrycourthouse.jpg)
 
 ### Related:
 

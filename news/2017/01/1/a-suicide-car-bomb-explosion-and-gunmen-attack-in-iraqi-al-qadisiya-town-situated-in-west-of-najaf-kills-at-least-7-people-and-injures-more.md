@@ -9,6 +9,7 @@ TEHRAN (Tasnim) – A car bomb exploded in a district of Iraq’s holy city of N
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-attack-idUSKBN14L0X3?il=0)
 2. [Tasnim News Agency](https://www.tasnimnews.com/en/news/2017/01/01/1284497/multiple-casualties-as-bombing-rocks-neighborhood-in-iraqi-holy-city)
+2. [Cover Image](https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1395/10/12/13951012110253799595033.jpg)
 
 ### Related:
 

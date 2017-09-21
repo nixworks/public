@@ -8,6 +8,7 @@ A hospital nurse who used insulin to tamper with medical supplies is found guilt
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-32782153)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83069000/jpg/_83069294_027269111.jpg)
 
 ### Related:
 

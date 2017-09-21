@@ -10,6 +10,7 @@
 1. [AP](http://apnews.myway.com/article/20040407/D81Q35G84.html)
 2. [Democracy Now!](http://www.democracynow.org/article.pl?sid=04/04/07/1527241)
 3. [UPI photo](http://www.upi.com/)
+3. [Cover Image](//www.upi.com/img/upi-fb.png)
 
 ### Related:
 

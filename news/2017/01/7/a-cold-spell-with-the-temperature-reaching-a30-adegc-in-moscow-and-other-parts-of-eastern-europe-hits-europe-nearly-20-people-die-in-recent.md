@@ -8,6 +8,7 @@ Heavy snowfall and sub-zero temperatures have led to multiple deaths and disrupt
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/europe-weather-winter-snow-freezing-temperatures-multiple-deaths-travel-chaos-belgium-poland-italy-a7515351.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/01/07/21/poland-snow.jpg)
 
 ### Related:
 

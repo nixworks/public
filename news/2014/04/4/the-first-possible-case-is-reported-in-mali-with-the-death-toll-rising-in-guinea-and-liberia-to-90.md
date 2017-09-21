@@ -8,6 +8,7 @@ By Adama Diarra and Misha Hussain BAMAKO/CONAKRY (Reuters) - Mali said it had id
 ### Source:
 
 1. [Reuters via Yahoo! News](http://news.yahoo.com/mali-suspects-first-ebola-cases-regional-death-toll-141251884.html;_ylt=AwrBJR471j5TohQAZpjQtDMD)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ The European Court of Justice examined the case of an Austrian citizen who claim
 2. [Reuters](http://www.reuters.com/article/2015/10/06/us-eu-ireland-privacy-idUSKCN0S00NT20151006)
 3. [The New York Times](http://www.nytimes.com/2015/10/07/technology/european-union-us-data-collection.html?_r=0)
 4. [USA Today](http://www.usatoday.com/story/tech/2015/10/05/european-privacy-ruling-could-hurt-us-companies/73422412/)
+4. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

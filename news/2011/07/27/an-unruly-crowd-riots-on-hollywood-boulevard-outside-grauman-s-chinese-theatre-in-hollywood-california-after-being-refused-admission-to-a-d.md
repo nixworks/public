@@ -9,6 +9,7 @@ Police were unable to control an unruly crowd of roughly 2,000 people in Hollywo
 
 1. [CBS Los Angeles](http://losangeles.cbslocal.com/2011/07/27/unruly-crowds-setting-fires-vandalizing-police-cars-near-graumanns/#.TjDe2hikvVI.tweet)
 2. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/Cancelled-Movie-Promps-Crowd-Disturbance-on-Hollywood-Boulevard-126297928.html)
+2. [Cover Image](https://cbsla.files.wordpress.com/2011/07/hollywood-unruly-crowd5.jpg?w=420)
 
 ### Related:
 

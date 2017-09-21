@@ -9,6 +9,7 @@ MARCH 11--A former Democratic congressional aide was arrested today on charges t
 
 1. [CNN](http://edition.cnn.com/2004/LAW/03/11/iraq.spy.case.ap/index.html)
 2. [Smoking Gun](http://www.thesmokinggun.com/archive/0311041lind1.html)
+2. [Cover Image](http://www.thesmokinggun.com/sites/default/files/photos/20080317_saddam_hussein.jpg)
 
 ### Related:
 

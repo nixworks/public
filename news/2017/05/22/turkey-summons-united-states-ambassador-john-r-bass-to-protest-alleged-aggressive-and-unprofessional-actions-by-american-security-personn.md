@@ -9,6 +9,7 @@ Turkey is calling for a full investigation of &quot;aggressive&quot; actions tak
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/turkey-slams-us-aggressive-acts-bodyguards-47559398)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2017/05/22/529550044/u-s-turkey-dispute-over-washington-protest-heats-up)
+2. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

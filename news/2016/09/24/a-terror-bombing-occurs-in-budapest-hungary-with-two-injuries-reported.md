@@ -8,6 +8,7 @@ HUNGARIAN police are hunting a man they believed plotted a cold blooded terror a
 ### Source:
 
 1. [The Express](http://www.express.co.uk/news/world/714102/Massive-explosion-rocks-Hungarian-capital-Budapest-multiple-casualties-reported)
+1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/674x400/H-714102.jpg)
 
 ### Related:
 

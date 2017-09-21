@@ -8,6 +8,7 @@ Thai Prime Minister Yingluck Shinawatra tried to reassure residents of Bangkok o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/10/14/us-thailand-floods-idUSTRE79C0W720111014)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111014&t=2&i=515530969&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79C0FHZ00)
 
 ### Related:
 

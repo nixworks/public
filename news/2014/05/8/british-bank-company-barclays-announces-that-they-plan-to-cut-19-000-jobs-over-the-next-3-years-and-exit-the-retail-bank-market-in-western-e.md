@@ -8,6 +8,7 @@ The U.K. lender is abandoning its ambitions to be an elite global bank and said 
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304431104579549002925322362?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304431104579549002925322362.html)
+1. [Cover Image](https://si.wsj.net/public/resources/images/MI-CC841_BARCLA_G_20140508180937.jpg)
 
 ### Related:
 

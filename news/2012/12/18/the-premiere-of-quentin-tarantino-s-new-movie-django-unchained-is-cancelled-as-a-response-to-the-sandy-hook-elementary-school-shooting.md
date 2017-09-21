@@ -8,6 +8,7 @@ The decision comes following the Newtown, Conn., tragedy on Friday.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/people/2012/12/17/djanjo-unchained-premiere-canceled/1776155/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

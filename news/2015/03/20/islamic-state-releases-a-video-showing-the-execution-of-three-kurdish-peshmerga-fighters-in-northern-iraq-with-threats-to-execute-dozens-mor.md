@@ -9,6 +9,7 @@ Islamic State has published a video purporting to show the beheading of three Ku
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2015/03/22/syrian-festival-attack-death-toll-now-45)
 2. [Reuters](http://www.reuters.com/article/2015/03/20/us-mideast-crisis-islamicstate-beheading-idUSKBN0MG0VH20150320)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150320&t=2&i=1033947236&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2J0DY)
 
 ### Related:
 

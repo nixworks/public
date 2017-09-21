@@ -8,6 +8,7 @@ Saddam Hussein thinks that the United States will have to seek his help to quell
 ### Source:
 
 1. [Reuters](http://www.msnbc.msn.com/id/13495887/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/060623/060623_saddam_vsml_3a.standard.jpg)
 
 ### Related:
 

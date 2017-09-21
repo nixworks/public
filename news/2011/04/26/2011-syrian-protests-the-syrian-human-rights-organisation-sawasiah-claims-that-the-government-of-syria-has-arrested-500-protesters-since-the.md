@@ -17,6 +17,7 @@ The UK, France and Italy call for tough measures against Syria, after troops the
 8. [Press TV](http://www.presstv.ir/detail/176773.html)
 9. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110426/ts_nm/us_syria)
 10. [Reuters](http://www.reuters.com/article/2011/04/27/us-syria-idUSLDE73N02P20110427)
+10. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52339000/jpg/_52339624_52338823.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Edwin Wilson set up front companies abroad for the CIA, made millions in the arm
 ### Source:
 
 1. [AP via Yahoo News](http://news.yahoo.com/former-cia-operative-edwin-wilson-dies-84-200648173.html?_esi=1)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

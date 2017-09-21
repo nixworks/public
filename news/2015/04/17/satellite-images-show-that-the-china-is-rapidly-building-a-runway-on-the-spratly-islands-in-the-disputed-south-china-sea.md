@@ -8,6 +8,7 @@ Satellite images show China is making progress on building an airstrip on a reef
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32331964)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82375000/jpg/_82375916_fieryreef.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1015801/gas-leak-blast-levels-massachusetts-strip-club)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/gas-blast-1_3688608.jpg?20160706133906)
 
 ### Related:
 

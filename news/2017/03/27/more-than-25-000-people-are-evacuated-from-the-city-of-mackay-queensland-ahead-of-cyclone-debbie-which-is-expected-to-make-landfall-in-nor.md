@@ -8,6 +8,7 @@ Tropical Cyclone Debbie strengthens to category four and is expected to hit the 
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2017-03-27/cyclone-debbie-forces-evacuation-of-mackay-residents/8390904)
+1. [Cover Image](http://www.abc.net.au/news/image/8391012-1x1-700x700.jpg)
 
 ### Related:
 

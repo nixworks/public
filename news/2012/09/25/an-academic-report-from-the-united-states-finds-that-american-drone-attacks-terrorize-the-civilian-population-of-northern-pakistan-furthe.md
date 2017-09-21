@@ -8,6 +8,7 @@ Rescuers are being killed and civilians &quot;terrorised&quot; by CIA drone atta
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19704981)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63081000/jpg/_63081822_droneprotest.jpg)
 
 ### Related:
 

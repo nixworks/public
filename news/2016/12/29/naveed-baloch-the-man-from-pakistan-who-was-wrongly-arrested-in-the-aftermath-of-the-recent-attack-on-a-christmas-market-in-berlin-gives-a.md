@@ -8,6 +8,7 @@ Exclusive: Naveed Baloch says he was tied up, blindfolded and slapped by police 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/dec/29/naveed-baloch-man-wrongly-arrested-berlin-attack-fears-for-his-life)
+1. [Cover Image](https://i.guim.co.uk/img/media/8fbb3252d0e6dd1bd120e3bb55091b8af017869e/0_108_1632_979/master/1632.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=87223c686d233f75217b2410a27a154c)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Rescue services send divers to a flooded mine as a major operation to rescue fou
 
 1. [AP via ''Sydney Morning Herald](http://www.smh.com.au/world/four-coalminers-trapped-in-south-wales-20110916-1kccw.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-wales-14938837)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/55390000/jpg/_55390022_wns_miners_trapped_03.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Japan is putting its military on high alert, said to be ready to shoot down any 
 
 1. [RT](https://www.rt.com/news/347588-korea-launch-japan-alert/)
 2. [Reuters](http://www.reuters.com/article/us-northkorea-missile-idUSKCN0Z70AF)
+2. [Cover Image](https://img.rt.com/files/2016.06/article/5769174ac3618854608b456d.jpg)
 
 ### Related:
 

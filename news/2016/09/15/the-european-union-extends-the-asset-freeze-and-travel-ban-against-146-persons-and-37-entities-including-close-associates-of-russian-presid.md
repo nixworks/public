@@ -10,6 +10,7 @@ The following press release was issued by the European Council on September 13, 
 1. [EU press release](https://www.neweurope.eu/press-release/eu-prolongs-sanctions-over-actions-against-ukraines-territorial-integrity/)
 2. [Europe Online Magazine](http://en.europeonline-magazine.eu/eu-further-extends-sanctions-on-putin-associates-over-ukraine-action_484532.html)
 3. [The New York Times](http://www.nytimes.com/aponline/2016/09/15/world/europe/ap-eu-eu-ukraine-russia-sanctions.html?_r=0)
+3. [Cover Image](https://www.neweurope.eu/wp-content/uploads/2015/09/111InTheNews.jpg)
 
 ### Related:
 

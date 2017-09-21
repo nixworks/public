@@ -8,6 +8,7 @@
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/news/nation/story/2011-11-03/occupy-oakland/51059738/1)
+1. [Cover Image](http://i.usatoday.net/news/_photos/2011/11/03/Oakland-protesters-condemn-violent-clashes-LTI7G0G-x.jpg)
 
 ### Related:
 

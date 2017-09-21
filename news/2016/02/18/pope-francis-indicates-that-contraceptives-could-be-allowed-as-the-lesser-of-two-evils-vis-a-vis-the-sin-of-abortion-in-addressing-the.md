@@ -12,6 +12,7 @@ Vatican City, Feb 18, 2016 / 11:00 am (CNA).- In his hour-long inflight news con
 3. [Katholiek Nieuwsblad](http://www.katholieknieuwsblad.nl/nieuws/wat-zei-de-paus-over-zika-abortus-en-contraceptie)
 4. [Patheos](http://www.patheos.com/blogs/catholicnews/2016/02/full-text-of-pope-francis-in-flight-interview-from-mexico-to-rome/)
 5. [The Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2016/02/17/mexico-confirms-zika-virus-cases-in-pregnant-women-as-pope-francis-exits-the-country/)
+5. [Cover Image](http://feeds.feedburner.com/~r/catholicnewsagency/dailynews/~4/SnLFG3cI5Ik)
 
 ### Related:
 

@@ -9,6 +9,7 @@ International weapons inspectors say a trove of new evidence makes a “credible
 
 1. [CNN](http://www.cnn.com/2011/11/08/world/meast/iran-nuclear/index.html?hpt=imi_c2)
 2. [The New York Times](http://www.nytimes.com/2011/11/09/world/un-details-case-that-iran-is-at-work-on-nuclear-device.html?_r=1&pagewanted=all)
+2. [Cover Image](https://static01.nyt.com/images/2011/11/09/world/NUCLEAR/NUCLEAR-thumbStandard-v2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The decision Wednesday appeared to signal the end of the worst crisis in relatio
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/news/world/story/2012-02-29/egypt-travel-ban-lifted/53302054/1)
+1. [Cover Image](http://i.usatoday.net/news/_photos/2012/02/29/Egypt-lifts-travel-ban-on-US-workers-AC12PU70-x.jpg)
 
 ### Related:
 

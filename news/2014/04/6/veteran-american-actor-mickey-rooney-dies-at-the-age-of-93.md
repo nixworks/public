@@ -8,6 +8,7 @@ Mickey Rooney was the original Hardy boy. His 200-plus credits notwithstanding, 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/people/2014/04/06/mickey-rooney-dies/7404557/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

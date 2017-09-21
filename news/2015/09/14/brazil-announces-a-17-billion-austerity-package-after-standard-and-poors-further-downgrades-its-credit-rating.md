@@ -8,6 +8,7 @@ Brasília (AFP) - Brazil announced a massive $17 billion austerity package Monda
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/crisis-hit-brazil-announces-spending-cuts-tax-hikes-202929477.html;_ylt=AwrBT7hlV_dVnTgA1yFXNyoA;_ylu=X3oDMTEycjE3aGpxBGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjA5MzVfMQRzZWMDc2M-)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/HuGXIEmzr8LEkaqut2Ospw--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-MVD-Mvd6713658-1-1-0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Scientists in the US publish the most detailed brain scans the world has ever se
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-21660159)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66218000/jpg/_66218728_mgr_correl_all_infl_2.jpg)
 
 ### Related:
 

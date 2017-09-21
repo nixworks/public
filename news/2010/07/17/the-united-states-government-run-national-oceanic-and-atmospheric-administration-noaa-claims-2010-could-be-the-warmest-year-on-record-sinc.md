@@ -8,6 +8,7 @@ Heatwaves could make this year the warmest since 1880 and seriously damage crops
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010717132048381555.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

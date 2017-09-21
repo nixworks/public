@@ -10,6 +10,7 @@ Group publishes Unique IDs of 1 million devices online, which they claim were be
 1. [Al Jazeera English](http://www.aljazeera.com/news/americas/2012/09/201294155021237214.html)
 2. [Silicon Republic](http://www.siliconrepublic.com/strategy/item/29036-antisec-hackers-publish/)
 3. [The Guardian](http://www.guardian.co.uk/technology/2012/sep/04/fbi-denies-apple-id-hacking)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/4/20129416210489734_20.jpg)
 
 ### Related:
 

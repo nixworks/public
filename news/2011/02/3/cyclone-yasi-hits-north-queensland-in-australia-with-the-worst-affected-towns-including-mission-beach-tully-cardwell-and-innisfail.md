@@ -14,6 +14,7 @@
 5. [News Limited](http://www.news.com.au/breaking-news/floodrelief/north-queensland-braces-for-cyclone-anthony-as-cyclone-yasi-brews-behind-it/story-fn7ik2te-1225998711771)
 6. [Sydney Morning Herald](http://www.smh.com.au/environment/weather/second-surge-threatens-north-queensland-20110201-1acgp.html)
 7. [The Sydney Morning Herald](http://www.smh.com.au/environment/weather/100-stayed-at-cardwell-to-face-yasis-fury-still-no-word-20110203-1ae7a.html)
+7. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/3/20112313939136833_20.jpg)
 
 ### Related:
 

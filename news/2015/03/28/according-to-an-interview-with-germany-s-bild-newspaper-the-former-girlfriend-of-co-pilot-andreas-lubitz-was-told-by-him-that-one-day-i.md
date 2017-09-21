@@ -9,6 +9,7 @@ The co-pilot of the Germanwings Airbus which crashed in the French Alps predicte
 
 1. [BBC](http://www.bbc.com/news/world-europe-32098578)
 2. [Guardian](http://www.theguardian.com/world/2015/mar/28/germanwings-crash-service-held-for-victims-near-impact-zone)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81967000/jpg/_81967744_9750teuf.jpg)
 
 ### Related:
 

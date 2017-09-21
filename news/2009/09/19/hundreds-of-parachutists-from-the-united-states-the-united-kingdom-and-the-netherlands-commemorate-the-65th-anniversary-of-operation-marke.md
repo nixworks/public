@@ -8,6 +8,7 @@ HUNDREDS of British, American and Dutch parachutists jumped over the central Net
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/the-battle-of-arnhem-remembered-20090919-fw7n.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

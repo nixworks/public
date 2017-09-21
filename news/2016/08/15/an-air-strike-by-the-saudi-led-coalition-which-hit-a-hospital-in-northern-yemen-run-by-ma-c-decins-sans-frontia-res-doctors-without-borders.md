@@ -8,6 +8,7 @@ An air strike hits a hospital run by Medecins Sans Frontieres (MSF) in northern 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37083035)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11291/production/_90798207_hi034706572.jpg)
 
 ### Related:
 

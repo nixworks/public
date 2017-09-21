@@ -8,6 +8,7 @@
 ### Source:
 
 1. [GloboNews](http://g1.globo.com/jornal-da-globo/noticia/2013/06/dilma-sanciona-mp-dos-portos-e-veta-pontos-que-considera-prejudiciais.html)
+1. [Cover Image](http://s2.glbimg.com/snFi3InDaOv1zvKYk7sEQdgeTLU=/1200x630/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/68/79/2617968)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Flint Journal](http://blog.mlive.com/flintjournal/runners/2010/05/chris_solinsky_sets_american_1.html)
+1. [Cover Image](//static.advance.net/static/mlive/static/img/logos/logo_fb.jpg)
 
 ### Related:
 

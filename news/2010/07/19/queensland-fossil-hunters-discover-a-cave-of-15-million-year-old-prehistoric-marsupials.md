@@ -8,6 +8,7 @@ Fossil hunters in Australia have discovered a cave filled with the 15-million-ye
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-10686515)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48419000/jpg/_48419445_009813687-1.jpg)
 
 ### Related:
 

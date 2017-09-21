@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/18/us-japan-security-idUSKCN0RI03120150918)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150918&t=2&i=1080444682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8H0CQ)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The government directed NDTV India to go off air for 24 hours starting November 
 
 1. [The New York Times](http://www.nytimes.com/aponline/2016/11/04/world/asia/ap-as-india-news-channel-ban.html?_r=0)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/1-day-ban-on-TV-channel-over-terror-coverage/articleshow/55235279.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/55235280.cms)
 
 ### Related:
 

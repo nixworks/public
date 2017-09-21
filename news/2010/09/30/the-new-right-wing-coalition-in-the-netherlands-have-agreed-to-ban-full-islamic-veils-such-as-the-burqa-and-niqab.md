@@ -8,6 +8,7 @@ A ban on wearing the full Islamic veil in the Netherlands will be proposed if a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11448088)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

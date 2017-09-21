@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP](https://apnews.com/6ceb918cd95f45388900e013287f96ea/12-dead-as-strong-typhoon-floods-Macau,-southern-China)
+1. [Cover Image](https://storage.googleapis.com/afs-prod/media/media:15f8081178c143ee96eda4ba58788b49/800.jpeg)
 
 ### Related:
 

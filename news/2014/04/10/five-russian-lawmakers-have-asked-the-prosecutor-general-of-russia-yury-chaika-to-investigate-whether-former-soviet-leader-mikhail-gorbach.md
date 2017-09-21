@@ -8,6 +8,7 @@ Five Russian MPs call for former President Mikhail Gorbachev to be prosecuted ov
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-26975865)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74159000/jpg/_74159786_74159785.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two al Qaeda militants and two tribesmen allied to the army were killed in an at
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/10/16/us-al-qaeda-yemen-idUSBRE89F16G20121016)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

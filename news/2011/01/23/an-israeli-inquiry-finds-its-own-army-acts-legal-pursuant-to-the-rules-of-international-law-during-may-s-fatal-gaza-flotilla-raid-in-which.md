@@ -15,6 +15,7 @@ Contradicting a UN report, panel exonerates military of wrongdoing in the raid o
 6. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=204858)
 7. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=204876)
 8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4017772,00.html)
+8. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/4/2011147515562784_20.jpg)
 
 ### Related:
 

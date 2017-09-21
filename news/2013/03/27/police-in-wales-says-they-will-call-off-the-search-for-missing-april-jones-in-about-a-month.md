@@ -8,6 +8,7 @@ Police will focus on specific areas of land before ending their search operation
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1070481/missing-april-jones-police-to-end-search)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/evs-xtaccess-2012-10-09-cam-c-10h17m55s24-1_3658069.jpg?20160706074023)
 
 ### Related:
 

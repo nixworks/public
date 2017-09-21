@@ -19,7 +19,7 @@ _Context: North Waziristan, Pakistan, Times Square bomber_
 Pope Benedict XVI has begun a four-day trip to Portugal, during which he is likely to call for solidarity across Europe&#39;s struggling economies and urge people to uphold Christian values.
 
 ### [United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/united-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-response-to-the-gulf-of-mexico.md)
-_Context: Barack Obama, Deepwater Horizon oil spill, President, Thad Allen, United States Coast Guard, admiral_
+_Context: Barack Obama, Deepwater Horizon oil spill, Thad Allen, U.S. President, United States Coast Guard, admiral_
 
 ### [Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed-spain-s-air-traffic-control-agency-aena-said.md)
 _Context: Aena, Canary Islands', Spanish_

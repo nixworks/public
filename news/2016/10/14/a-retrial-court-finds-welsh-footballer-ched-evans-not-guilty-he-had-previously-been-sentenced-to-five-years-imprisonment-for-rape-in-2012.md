@@ -8,6 +8,7 @@ Footballer Ched Evans says he is &quot;overwhelmed&quot; after being found not g
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-wales-37659009)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16001/production/_91931109_wns_141016_ched_not_guilty_04.jpg)
 
 ### Related:
 

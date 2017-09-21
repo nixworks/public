@@ -9,6 +9,7 @@ There’s a real movement afoot to make the Golden State its own golden republic
 
 1. [CNBC](http://www.cnbc.com/2017/01/27/california-succession-movement-starts-gathering-petition-signatures.html)
 2. [New York'' magazine](http://nymag.com/daily/intelligencer/2017/01/is-california-really-going-to-secede.html)
+2. [Cover Image](http://pixel.nymag.com/imgs/daily/intelligencer/2017/01/27/27-calexit.w1200.h630.jpg)
 
 ### Related:
 

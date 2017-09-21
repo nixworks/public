@@ -8,3 +8,4 @@ Third World countries given one more day to address members of how global warmin
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,292008,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

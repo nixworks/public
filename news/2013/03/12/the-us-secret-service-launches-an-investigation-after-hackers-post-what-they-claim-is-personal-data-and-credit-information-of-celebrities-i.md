@@ -8,6 +8,7 @@ The US Secret Service has launched an investigation after hackers posted what th
 ### Source:
 
 1. [SAPA via News24](http://www.news24.com/news24/Technology/News/Hackers-post-Michelle-Obama-data-20130312)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2076/68ed5380236b4c0390d4ff192d045aa7.jpg)
 
 ### Related:
 

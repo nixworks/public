@@ -8,6 +8,7 @@ Former Taiwanese president Chen Shui-bian is to be released from prison after be
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30677700)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80008000/jpg/_80008393_002808281-1.jpg)
 
 ### Related:
 

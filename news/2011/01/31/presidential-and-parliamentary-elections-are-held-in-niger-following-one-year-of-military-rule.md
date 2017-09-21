@@ -9,6 +9,7 @@ Niger&amp;&#x23;039&#x3B;s&#x20;junta&#x20;leader&#x20;Salou&#x20;Djibo&#x20;cal
 
 1. [RFI](http://www.english.rfi.fr/africa/20110131-niger-goes-polls-elect-new-leader)
 2. [Times LIVE](http://www.timeslive.co.za/africa/article883387.ece/Polls-open-in-Niger-presidential-vote)
+2. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/niger%20voting.jpg)
 
 ### Related:
 

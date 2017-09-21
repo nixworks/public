@@ -8,6 +8,7 @@ The SDLP leader and South Down MP Margaret Ritchie has formally resigned from th
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0524/ritchiem.html)
+1. [Cover Image](https://img.rasset.ie/00016621-1600.jpg)
 
 ### Related:
 

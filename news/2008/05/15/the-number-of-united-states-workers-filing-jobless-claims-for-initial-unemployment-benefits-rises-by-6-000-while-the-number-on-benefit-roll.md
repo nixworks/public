@@ -9,6 +9,7 @@ The number of U.S. workersfiling claims for initial jobless benefits rose by 6,0
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/industrial-output-sinks-07-april/story.aspx?guid=%7B69D70941-5AE3-498F-A02E-7C521FF2ACE8%7D)
 2. [Reuters](http://www.reuters.com/article/bondsNews/idUSN1521814120080515)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

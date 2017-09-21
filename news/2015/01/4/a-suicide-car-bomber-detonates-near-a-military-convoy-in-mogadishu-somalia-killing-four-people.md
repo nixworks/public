@@ -8,6 +8,7 @@ A suicide car bomb attack by the Somali Islamist group al-Shabab kills four peop
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30672660)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80047000/jpg/_80047312_80047311.jpg)
 
 ### Related:
 

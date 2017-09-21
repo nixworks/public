@@ -8,6 +8,7 @@ Ministers say ending the arrangement will help the UK take back control of acces
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-40471466)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1124B/production/_90991207_mediaitem90991206.jpg)
 
 ### Related:
 

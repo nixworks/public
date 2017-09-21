@@ -10,6 +10,7 @@ A councillor from the Éirígí party has been questioned by gardaí after red p
 1. [ABC News](http://abcnews.go.com/Business/wireStory?id=12022960)
 2. [RTÉ](http://www.rte.ie/news/2010/1101/harneym.html)
 3. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_598214.html)
+3. [Cover Image](https://img.rasset.ie/0003dcb9-1600.jpg)
 
 ### Related:
 

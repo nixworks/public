@@ -8,6 +8,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 ### Source:
 
 1. [Newsday](http://www.newsday.com/entertainment/tv/nyc-frasier0514,0,4075992.story?coll=ny-television-bigpix)
+1. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

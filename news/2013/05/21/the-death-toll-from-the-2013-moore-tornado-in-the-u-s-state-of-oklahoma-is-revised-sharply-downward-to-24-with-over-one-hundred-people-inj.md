@@ -8,6 +8,7 @@ Rescuers went building to building in search of victims and thousands of survivo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/21/us-usa-tornadoes-idUSBRE94J0TK20130521)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130521&t=2&i=733936473&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94K1P3500)
 
 ### Related:
 

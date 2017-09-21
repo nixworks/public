@@ -8,6 +8,7 @@ Bodies of four tourists still on Fox Glacier unlikely to be recovered until at l
 ### Source:
 
 1. [stuff.co.nz](http://www.stuff.co.nz/national/74272467/seven-killed-in-helicopter-crash-on-fox-glacier)
+1. [Cover Image](https://resources.stuff.co.nz/content/dam/images/1/8/8/9/9/v/image.related.StuffLandscapeSixteenByNine.620x349.187x03.png/1448566571362.jpg)
 
 ### Related:
 

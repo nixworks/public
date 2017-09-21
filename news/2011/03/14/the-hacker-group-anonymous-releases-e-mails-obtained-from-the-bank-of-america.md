@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/13/us-bankofamerica-anonymous-idUSTRE72C3QA20110313?WT)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110313&t=2&i=361523387&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-13T215134Z_01_BTRE72C1OQC00_RTROPTP_0_BANKOFAMERICA-INVESTORS)
 
 ### Related:
 

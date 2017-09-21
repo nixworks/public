@@ -8,6 +8,7 @@ The CIA worked with three American mobsters in a botched &quot;gangster-type&quo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN2636255220070626?pageNumber=1)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070626&t=2&i=1016451&w=&fh=545px&fw=&ll=&pl=&sq=&r=1016451)
 
 ### Related:
 

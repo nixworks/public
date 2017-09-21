@@ -8,6 +8,7 @@ MANILA -- China must cease all provocations in the South China Sea before the Ph
 ### Source:
 
 1. [Nikkei Asian Review](http://asia.nikkei.com/Politics-Economy/International-Relations/No-talks-until-China-stops-provocations-Philippine-foreign-minister)
+1. [Cover Image](http://asia.nikkei.com/var/site_cache/storage/images/node_43/node_51/2016/201608/0830n/0830n-yasay/5007950-2-eng-GB/0830N-Yasay_article_main_image.jpg)
 
 ### Related:
 

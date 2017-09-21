@@ -21,6 +21,7 @@ Security around the Pope is to be stepped up for his visit to Malta after sex ab
 12. [The Sydney Morning Herald](http://www.smh.com.au/world/leading-atheists-richard-dawkins-and-christopher-hitchens-seek-popes-arrest-20100412-s1av.html)
 13. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/12/AR2010041202959.html)
 14. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3874439,00.html)
+14. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01614/pope_1614003a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Nauru&#039;s finance minister says the country is out of money and services will
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-09-26/nauru-government-runs-out-of-money/5772422)
+1. [Cover Image](http://www.abc.net.au/news/image/5454126-1x1-700x700.jpg)
 
 ### Related:
 

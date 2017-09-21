@@ -12,6 +12,7 @@ Teargas and water cannon deployed outside Elbphilharmonie concert hall while ins
 3. [CNN](http://www.cnn.com/2017/07/07/europe/ode-to-joy-beethoven-g20-merkel-trump/index.html)
 4. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-ceasefire-idUSKBN19S2DG)
 5. [The Guardian](https://www.theguardian.com/world/2017/jul/07/g20-protests-hamburg-altona-messehalle)
+5. [Cover Image](https://i.guim.co.uk/img/media/ca9681869b47f1289b46b7bff206a4de69742da8/0_310_5191_3115/master/5191.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=757003108ffe32d6b6a70d7bc5db55a4)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Starting this fall, college tuition will be covered for all New York residents m
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/education/new-york-becomes-first-state-offer-free-four-year-college-n744561)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_26/1091301/150624-college-grad-mt-1634_cfc07e84c392b1cba0abdec5b847a7d4.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

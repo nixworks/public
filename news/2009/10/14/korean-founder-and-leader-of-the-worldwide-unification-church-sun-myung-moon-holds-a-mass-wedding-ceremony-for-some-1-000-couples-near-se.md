@@ -8,6 +8,7 @@ ASAN, South Korea (Reuters Life!) - The founder of the Unification Church, Sun M
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE59D1H720091014)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20091014&t=2&i=11940250&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-14T093423Z_01_BTRE59D0QME00_RTROPTP_0_KOREA)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least five people have reportedly died and more than 60 wounded in the 6.5-ma
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-40869028)
 2. [Reuters](http://www.reuters.com/article/us-china-quake-idUSKBN1AP005)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/121DE/production/_97260247_mediaitem97260243.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkish authorities have seized control of the Cihan news agency, the agency sai
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-turkey-politics-gulen-idUKKCN0WA0P5)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160308&t=2&i=1123181505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC270B1)
 
 ### Related:
 

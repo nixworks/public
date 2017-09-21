@@ -8,6 +8,7 @@ Barclays appoints Antony Jenkins as its new chief executive following the resign
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-19420310)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62568000/jpg/_62568452_015813283-1.jpg)
 
 ### Related:
 

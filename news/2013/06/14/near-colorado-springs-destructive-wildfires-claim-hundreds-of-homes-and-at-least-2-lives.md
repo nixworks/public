@@ -8,6 +8,7 @@ About 900 inmates at a medium-security Colorado state prison have been evacuated
 ### Source:
 
 1. [LA Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-colorado-wildfires-20130612,0,3848270.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

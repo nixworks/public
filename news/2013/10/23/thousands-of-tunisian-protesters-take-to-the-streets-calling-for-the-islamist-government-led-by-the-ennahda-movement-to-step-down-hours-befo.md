@@ -8,6 +8,7 @@ Thousands of Tunisians marched through the capital on Wednesday chanting for the
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/10/23/uk-tunisia-crisis-idUKBRE99M0ML20131023)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131023&t=2&i=805390371&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99M15GE00)
 
 ### Related:
 

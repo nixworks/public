@@ -8,6 +8,7 @@ About 10,000 gallons of oil was vacuumed up from the LA streets after a pipe bro
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-27426220)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74882000/jpg/_74882697_spill_ap.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The blaze started soon after midnight and spread across dozens of floors in one 
 
 1. [The National](https://www.thenational.ae/uae/torch-tower-blaze-475-residents-evacuated-after-fire-starts-on-26th-floor-1.616755)
 2. [The New York Times](https://www.nytimes.com/2017/08/03/world/middleeast/torch-tower-dubai-fire.html)
+2. [Cover Image](https://static01.nyt.com/images/2017/08/04/world/04xp-DUBAI/04xp-DUBAI-facebookJumbo.jpg)
 
 ### Related:
 

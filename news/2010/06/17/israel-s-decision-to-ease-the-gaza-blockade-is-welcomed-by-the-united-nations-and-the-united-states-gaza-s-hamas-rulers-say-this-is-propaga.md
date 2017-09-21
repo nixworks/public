@@ -13,6 +13,7 @@ US State Department says Israeli decision &#39;positive,&#39; but wants to see &
 4. [The Hindu](http://beta.thehindu.com/news/international/article469858.ece)
 5. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178720)
 6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3906969,00.html)
+6. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iraq9 are killed as protesters, army clash
 ### Source:
 
 1. [Tampa Bay News](http://www.tampabay.com/news/9-killed-as-protesters-army-clash-in-iraq/1272380)
+1. [Cover Image](http://www.tampabay.com/iwov-resources/images/og-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15301859)
+1. [Cover Image](http://news.bbcimg.co.uk/media/images/56047000/jpg/_56047160_letwin_pa.jpg)
 
 ### Related:
 

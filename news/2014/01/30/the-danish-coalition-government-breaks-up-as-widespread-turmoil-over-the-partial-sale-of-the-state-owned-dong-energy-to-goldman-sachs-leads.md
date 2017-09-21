@@ -8,6 +8,7 @@ Disagreement over DONG sale spells doom for coalition. SF leaves government, Vil
 ### Source:
 
 1. [Copenhagen Post](http://cphpost.dk/news/sf-leaves-government-vilhelmsen-steps-down.8476.html)
+1. [Cover Image](http://cphpost.dk/wp-content/themes/cphpostssb/images/logo.png)
 
 ### Related:
 

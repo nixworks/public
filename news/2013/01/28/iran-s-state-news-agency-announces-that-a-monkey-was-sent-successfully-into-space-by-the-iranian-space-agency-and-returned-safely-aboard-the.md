@@ -10,6 +10,7 @@ Saying the animal returned successfully, state TV calls mission another step tow
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/201312811561227417.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21230691)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jan/28/iran-launches-monkey-into-space)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/1/28/2013128204731280734_20.jpg)
 
 ### Related:
 

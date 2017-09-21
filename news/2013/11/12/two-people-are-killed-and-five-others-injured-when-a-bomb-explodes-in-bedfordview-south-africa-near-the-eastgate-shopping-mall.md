@@ -8,6 +8,7 @@ Two people have been killed and five others injured when a bomb exploded in Bedf
 ### Source:
 
 1. [SAPA via News24](http://www.news24.com/news24/SouthAfrica/News/2-killed-in-Bedfordview-blast-20131112)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2591/7233c40369b946939fa160518b20372d.jpg)
 
 ### Related:
 

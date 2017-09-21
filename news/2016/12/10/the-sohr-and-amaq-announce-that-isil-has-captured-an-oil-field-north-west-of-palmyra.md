@@ -12,6 +12,7 @@ The US says it is sending 200 troops to help Syrian rebels recapture the IS stro
 3. [De Standaard](http://www.standaard.be/cnt/dmf20161210_02619148)
 4. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-carter-idUSKBN13Z051)
 5. [VOA](http://www.voanews.com/a/surprise-attack-is-fights-retake-ancient-palmyra/3630304.html)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/641F/production/_92913652_036443685-1.jpg)
 
 ### Related:
 

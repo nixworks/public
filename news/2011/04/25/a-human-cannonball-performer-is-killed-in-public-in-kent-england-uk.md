@@ -8,6 +8,7 @@ A man acting as a &quot;human cannonball&quot; is killed in an accident at a stu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-kent-13189254)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52337000/jpg/_52337087_cannon_464.jpg)
 
 ### Related:
 

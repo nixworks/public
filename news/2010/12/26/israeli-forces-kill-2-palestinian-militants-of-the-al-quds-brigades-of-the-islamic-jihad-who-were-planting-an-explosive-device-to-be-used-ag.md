@@ -10,6 +10,7 @@ Two Islamic Jihad militants killed by fire along Strip border; Deputy PM: &quot;
 1. [Al Jazeera](http://english.aljazeera.net/video/middleeast/2010/12/2010122674019495386.html)
 2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=200984)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4004325,00.html)
+3. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=150591)
 
 ### Related:
 

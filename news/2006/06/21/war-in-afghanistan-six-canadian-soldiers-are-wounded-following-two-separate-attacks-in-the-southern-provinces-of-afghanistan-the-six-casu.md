@@ -8,6 +8,7 @@ Two separate attacks, within hours of each other, have wounded six Canadian sold
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/06/21/canadians-afghanistan.html)
+1. [Cover Image](https://i.cbc.ca/1.2307587.1383368714!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-kandaharsuicide-cp-1542569.jpg)
 
 ### Related:
 

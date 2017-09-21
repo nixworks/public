@@ -8,6 +8,7 @@ More than 65 countries signed a landmark treaty Monday regulating the multibilli
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/06/03/arms-trade-treaty-united-nations/2386271/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

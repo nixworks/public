@@ -8,6 +8,7 @@ Modi will meet President Pranab Mukherjee after his election in the first formal
 ### Source:
 
 1. [Indian Express](http://indianexpress.com/article/india/politics/live-narendra-modi-to-be-elected-leader-of-bjp-nda-coalition-today/)
+1. [Cover Image](http://images.indianexpress.com/2014/05/modi-thumb8.jpg?w=209)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/news/article/Roche-buys-Brisbane-drugmaker-InterMune-for-8-3-5709455.php)
+1. [Cover Image](http://ww4.hdnux.com/photos/31/64/07/6767103/3/rawImage.jpg)
 
 ### Related:
 

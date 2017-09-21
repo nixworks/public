@@ -8,6 +8,7 @@ The Queen is in hospital as a precaution, while she is assessed for symptoms of 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21649494)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66177000/jpg/_66177445_nag37j1u.jpg)
 
 ### Related:
 

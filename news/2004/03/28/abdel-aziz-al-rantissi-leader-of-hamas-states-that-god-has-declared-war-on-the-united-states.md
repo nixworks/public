@@ -11,6 +11,7 @@ The new Hamas leader in the Gaza Strip, Dr. Abdel Aziz Rantisi, called President
 2. [NYTimes](http://www.nytimes.com/2004/03/28/international/middleeast/28CND-HAMA.html)
 3. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=484422&section=news)
 4. [abs-cbnNEWS](http://www.abs-cbnnews.com/NewsStory.aspx?section=WORLD&oid=47988)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

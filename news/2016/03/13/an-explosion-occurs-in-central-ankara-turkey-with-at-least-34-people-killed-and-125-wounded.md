@@ -9,6 +9,7 @@ Officials say at least 34 people have been killed and 125 wounded after a suicid
 
 1. [The Independent](http://www.independent.co.uk/news/world/middle-east/ankara-explosion-several-reportedly-injured-after-big-explosion-in-turkish-capital-a6928926.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/turkey/12192759/Ankara-explosion-Several-wounded-in-centre-of-Turkish-capital-Kizilay.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/13/18/Ankara-EPA1_0.jpg)
 
 ### Related:
 

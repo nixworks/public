@@ -8,6 +8,7 @@ CHINA said today its economy grew at a slower pace in the third quarter as gover
 ### Source:
 
 1. [News Limited](http://www.news.com.au/business/chinas-growth-slows-to-91-per-cent/story-e6frfm1i-1226169730690)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Dehra Dun: 22 killed as bus falls into gorge
 
 1. [NDTV](http://www.ndtv.com/article/cities/dehra-dun-22-killed-as-bus-falls-into-gorge-77364?pfrom=home-Cities)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_621181.html)
+2. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

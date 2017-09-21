@@ -10,6 +10,7 @@ John Yettaw, the American who was jailed for breaching the house arrest of Aung 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8200958.stm)
 2. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_417326.html)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/6034273/American-jailed-in-Burma-to-be-deported.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01411/John-Yettaw_1411384a.jpg)
 
 ### Related:
 

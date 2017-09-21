@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [GMANEWS.TV](http://www2.igma.tv/gmanews.tv/nation.php?sec=5)
 2. [INQ7.net](http://news.inq7.net/express/html_output/20060224-67295.xml.html)
 3. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nSP69755&imageid=2006-02-24T014826Z_01_MAN204D_RTRIDSP_2_PHILIPPINES-MILITARY.jpg&cap=Philippine%20soldiers%20at%20Camp%20Aguinaldo%20in%20Quezon%20city,%20north%20of%20Manila,%20Feb.%2024,%202006.%20REUTERS/Cheryl%20Ravelo)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

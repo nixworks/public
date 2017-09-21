@@ -8,6 +8,7 @@ Hunt on for vessel sailing from Singapore to Quang Tri port in Vietnam.
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.co.uk/vietnamese-oil-tanker-sunrise-689-goes-missing-hijack-feared-1468873)
+1. [Cover Image](http://d.ibtimes.co.uk/en/full/1403023/vietnamese-oil-tanker-goes-missing.jpg)
 
 ### Related:
 

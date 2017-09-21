@@ -8,6 +8,7 @@ Ministerial Committee for Symbols and Ceremonies decides that last summer&#39;s 
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3378240,00.html#n)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

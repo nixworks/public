@@ -8,6 +8,7 @@ Pakistan, which has yet to decide whether to offer military support to a Saudi-l
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/29/us-yemen-security-pakistan-idUSKBN0MP03J20150329)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

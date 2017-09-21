@@ -12,6 +12,7 @@ An official from a radical Palestinian Islamist party has used Islam&#039;s thir
 3. [The Guardian](http://www.guardian.co.uk/world/gallery/2011/may/04/osama-bin-laden-compound)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/al-qaeda/8492345/Uzbekistan-fails-to-report-the-story-of-the-decade.html)
 5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/al-qaeda/8492426/Osama-bin-Laden-dead-Palestinian-radical-denounces-dog-Barack-Obama.html)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01887/osama-obama_1887053a.jpg)
 
 ### Related:
 

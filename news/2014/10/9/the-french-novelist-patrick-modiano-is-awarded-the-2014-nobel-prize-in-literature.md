@@ -8,6 +8,7 @@ Patrick Modiano, author of Lacombe Lucien, wins the The Swedish Academy award fo
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/culture/books/booknews/11150833/Nobel-Prize-Literature-winner-2014-Patrick-Modiano.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03067/Patrick_Modiano_3067103k.jpg)
 
 ### Related:
 

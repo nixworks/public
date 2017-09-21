@@ -9,6 +9,7 @@ The CBI today conducted searches at the premises of former Telecom Minister A. R
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11945232)
 2. [The Hindu](http://www.thehindu.com/news/national/article939316.ece)
+2. [Cover Image](http://www.thehindu.com/migration_catalog/article15549677.ece/ALTERNATES/LANDSCAPE_615/pashaaa)
 
 ### Related:
 

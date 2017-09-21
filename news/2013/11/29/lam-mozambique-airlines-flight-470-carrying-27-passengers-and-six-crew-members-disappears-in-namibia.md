@@ -8,6 +8,7 @@ A Mozambique Airlines plane flying from the capital, Maputo, to the Angolan capi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25162278)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71442000/jpg/_71442207_71442206.jpg)
 
 ### Related:
 

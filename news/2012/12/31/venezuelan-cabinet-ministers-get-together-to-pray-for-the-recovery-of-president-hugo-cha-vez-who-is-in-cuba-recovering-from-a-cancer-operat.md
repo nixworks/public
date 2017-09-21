@@ -9,6 +9,7 @@ Venezuelan cabinet ministers gather at the presidential palace to pray for the h
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20878868)
 2. [Reuters](http://www.reuters.com/article/2012/12/31/us-venezuela-chavez-idUSBRE8BU00K20121231)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65026000/jpg/_65026933_65026932.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Despite a UN-brokered truce, Saudi-led coalition forces bombed Houthi targets in
 ### Source:
 
 1. [Business Standard](http://www.business-standard.com/article/news-ians/15-killed-in-saudi-led-airstrikes-in-yemen-115071200642_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

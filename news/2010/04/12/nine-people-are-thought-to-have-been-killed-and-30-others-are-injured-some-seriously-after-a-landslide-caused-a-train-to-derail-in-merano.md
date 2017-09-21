@@ -9,6 +9,7 @@ At least nine people killed as train crashes near northern town of Merano.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/201041210231888995.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8615002.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

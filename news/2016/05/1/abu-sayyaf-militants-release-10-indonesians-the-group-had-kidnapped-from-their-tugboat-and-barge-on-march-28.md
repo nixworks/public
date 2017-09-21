@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Jakarta Globe](http://jakartaglobe.beritasatu.com/news/breaking-ten-indonesians-held-hostage-abu-sayyaf-released-report-says/)
+1. [Cover Image](http://img.thejakartaglobe.com/2016/04/Doa-Untuk-Wni-Yang-Di-Sandera-Abu-Sayyaf-020416-Ajn-2-1024x667.jpg)
 
 ### Related:
 

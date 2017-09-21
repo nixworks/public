@@ -9,6 +9,7 @@ Tainan Mayor William Lai (賴清德) at 4:20pm yesterday announced that the sear
 
 1. [CNN](http://www.cnn.com/2016/02/13/asia/taiwan-earthquake/)
 2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2016/02/14/2003639340)
+2. [Cover Image](http://www.taipeitimes.com/images/2016/02/14/thumbs/p01-160214-aa2.jpg)
 
 ### Related:
 

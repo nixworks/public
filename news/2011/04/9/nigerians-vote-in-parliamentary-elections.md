@@ -8,6 +8,7 @@ Polls close in Nigeria in parliamentary elections that have been marred by blood
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13021594)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606885_331dc631-6340-4cda-ae6e-bda544b28681.jpg)
 
 ### Related:
 

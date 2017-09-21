@@ -8,6 +8,7 @@ Ikea is to recall 29 million Malm chests of drawers in North America after the d
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-36648589)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16F1F/production/_90138939_ikea2.jpg)
 
 ### Related:
 

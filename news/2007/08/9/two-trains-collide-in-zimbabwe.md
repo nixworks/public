@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ZimDaily](http://www.zimdaily.com/news/117/ARTICLE/1976/2007-08-09.html)
+1. [Cover Image](http://www.zimdaily.com/wp-content/uploads/2015/11/Robert-Mugabe.jpg)
 
 ### Related:
 

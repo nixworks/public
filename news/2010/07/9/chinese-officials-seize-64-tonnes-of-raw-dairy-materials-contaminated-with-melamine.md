@@ -9,6 +9,7 @@ Chinese officials seize dairy material tainted with the toxic chemical melamine,
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107945239389334.html)
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/asia_pacific/10565838.stm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

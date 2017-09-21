@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/12/us-exchanges-tradinghalt-idUSBRE9AB0OL20131112)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131112&t=2&i=811221440&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AB13BV00)
 
 ### Related:
 

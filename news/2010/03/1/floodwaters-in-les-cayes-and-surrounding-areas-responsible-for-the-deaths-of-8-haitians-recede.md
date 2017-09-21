@@ -8,6 +8,7 @@ Fearing worse flooding to come, residents flee after waters kill at least eight.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/03/2010311292138864.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

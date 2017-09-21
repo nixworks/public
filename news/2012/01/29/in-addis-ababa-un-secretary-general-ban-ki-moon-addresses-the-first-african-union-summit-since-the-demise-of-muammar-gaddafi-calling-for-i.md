@@ -8,6 +8,7 @@ UN Secretary General Ban Ki-moon urges African leaders to respect gay rights in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16780079)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58162000/jpg/_58162986_013855909-1.jpg)
 
 ### Related:
 

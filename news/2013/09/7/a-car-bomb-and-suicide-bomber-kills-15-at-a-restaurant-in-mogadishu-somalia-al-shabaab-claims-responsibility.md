@@ -8,6 +8,7 @@ Al Shabaab insurgents deployed a car bomb and a suicide bomber to attack a packe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/09/07/us-somalia-blasts-idUSBRE98607I20130907)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130907&t=2&i=788249383&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE986136100)
 
 ### Related:
 

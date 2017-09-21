@@ -8,6 +8,7 @@ A suspected remote-controlled bomb tore through a predominantly Somali neighborh
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/12/05/us-kenya-blast-idUSBRE8B414W20121205)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

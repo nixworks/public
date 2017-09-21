@@ -10,6 +10,7 @@ A deadly explosion at a military ammunition storage facility in Nevada during a 
 1. [CNN](http://www.cnn.com/2013/03/19/us/nevada-military-explosion)
 2. [Fox News](http://www.foxnews.com/us/2013/03/19/explosion-during-training-at-hawthorne-army-depot/)
 3. [Reuters](http://www.reuters.com/article/2013/03/19/us-usa-nevada-explosion-idUSBRE92I0FB20130319)
+3. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/031913/0/0/031913_griffin_hawthorne_640.jpg?ve=1)
 
 ### Related:
 

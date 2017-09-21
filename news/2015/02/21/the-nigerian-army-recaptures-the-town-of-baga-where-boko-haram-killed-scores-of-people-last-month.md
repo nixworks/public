@@ -8,6 +8,7 @@ The Nigerian army says it has retaken the town of Baga, held by Boko Haram milit
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-31568055?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/81154000/jpg/_81154211_81154209.jpg)
 
 ### Related:
 

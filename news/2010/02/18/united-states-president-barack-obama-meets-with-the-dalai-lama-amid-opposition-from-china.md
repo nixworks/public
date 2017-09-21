@@ -10,6 +10,7 @@ Obama holds talks with exiled Tibetan spiritual leader despite Chinese oppositio
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/02/201021817130810902.html)
 2. [Times Live South Africa](http://www.timeslive.co.za/world/article315516.ece)
 3. [Times of India](http://timesofindia.indiatimes.com/world/us/Obama-ignores-Beijing-threat-hosts-Dalai/articleshow/5590050.cms)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

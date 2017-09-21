@@ -8,6 +8,7 @@ The United States said it has received $US1.5 billion ($2.25 billion) from Libya
 ### Source:
 
 1. [AFP via ABC](http://www.abc.net.au/news/stories/2008/11/01/2407533.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

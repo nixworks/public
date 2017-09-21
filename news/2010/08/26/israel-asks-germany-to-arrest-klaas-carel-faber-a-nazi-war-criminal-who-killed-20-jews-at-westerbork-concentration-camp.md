@@ -8,6 +8,7 @@ Klaas Carel Faber reportedly murdered more than 20 Jews at the Westerbork concen
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/print-edition/news/israel-asks-germany-to-bring-fugitive-nazi-war-criminal-to-justice-1.310257)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.288204.1416747173!/image/20524179.jpg_gen/derivatives/headline_1200x630/20524179.jpg)
 
 ### Related:
 

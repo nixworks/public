@@ -11,6 +11,7 @@ A court blocked Colombian President Alvaro Uribe on Friday from running for re-e
 2. [Colombia Reports](http://colombiareports.com/colombia-news/news/8451-court-votes-against-referendum.html)
 3. [Mir](http://www.mirror.co.uk/news-old/northernireland/2006/11/18/dup-mayor-jailed-115875-18116374/)
 4. [Reuters](http://www.reuters.com/article/idUSTRE61P5PX20100227)
+4. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100227&t=2&i=67515823&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-02-27T015829Z_01_BTRE61Q05HM00_RTROPTP_0_COLOMBIA-URIBE)
 
 ### Related:
 

@@ -8,6 +8,7 @@ General Motors says it will immediately halt operations in Venezuela after its p
 ### Source:
 
 1. [CNN](http://money.cnn.com/2017/04/20/news/gm-venezuela-plant-seized/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/170420091840-gm-logo-780x439.jpg)
 
 ### Related:
 

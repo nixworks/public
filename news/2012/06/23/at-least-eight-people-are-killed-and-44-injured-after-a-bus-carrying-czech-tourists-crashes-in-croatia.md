@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CP-24](http://www.cp24.com/servlet/an/local/CTVNews/20120623/120623_Croatia_Bus_Crash/20120623/?hub=CP24Extras)
+1. [Cover Image](https://www.cp24.com/polopoly_fs/1.847474.1340292099!/httpImage/image.jpg_gen/derivatives/landscape_960/image.jpg)
 
 ### Related:
 

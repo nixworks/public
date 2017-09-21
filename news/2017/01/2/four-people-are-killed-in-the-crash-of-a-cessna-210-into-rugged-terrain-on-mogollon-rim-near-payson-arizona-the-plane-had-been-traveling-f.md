@@ -10,6 +10,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 1. [ABC News](http://abcnews.go.com/US/wireStory/dead-plane-crash-rugged-arizona-mountains-44537195)
 2. [Arizona Republic](http://www.reuters.com/article/us-arizona-crash-idUSKBN14N1ND)
 3. [Fox Spokane](http://www.myfoxspokane.com/4-dead-following-plane-crash-in-rugged-arizona-mountains/)
+3. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

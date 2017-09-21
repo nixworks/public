@@ -8,6 +8,7 @@ The German state of Bavaria plans &quot;emergency measures&quot; to slow arrival
 ### Source:
 
 1. [Yahoo](http://news.yahoo.com/bavaria-wants-send-refugees-back-austria-merkel-says-165617068.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

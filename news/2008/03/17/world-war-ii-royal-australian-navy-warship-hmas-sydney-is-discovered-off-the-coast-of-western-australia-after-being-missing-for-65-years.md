@@ -8,6 +8,7 @@ The group searching for HMAS Sydney has found the wreckage of the World War II A
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/03/17/2190983.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1074232-1x1-700x700.jpg)
 
 ### Related:
 

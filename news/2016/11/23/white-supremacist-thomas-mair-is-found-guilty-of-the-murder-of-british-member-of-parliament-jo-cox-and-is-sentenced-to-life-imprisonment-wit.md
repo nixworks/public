@@ -8,6 +8,7 @@ Unemployed gardener, 53, given whole-life sentence for murder of MP that judge s
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/uk-news/2016/nov/23/thomas-mair-found-guilty-of-jo-cox-murder)
+1. [Cover Image](https://i.guim.co.uk/img/media/51a8a1299e8c0689ad17181ebd2d905bf74e0b81/0_843_1898_1139/master/1898.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=283485c2ce92b7617bbfd6ccfc852066)
 
 ### Related:
 

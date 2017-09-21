@@ -9,6 +9,7 @@ An asteroid set to pass within 12,000 kilometres of Earth tonight is a timely re
 
 1. [ABC Australia](http://www.abc.net.au/news/stories/2011/06/27/3254447.htm?section=justin)
 2. [LiveScience.com](http://www.livescience.com/14792-asteroid-2011-md-barely-misses-earth.html)
+2. [Cover Image](http://www.abc.net.au/news/image/900140-1x1-700x700.jpg)
 
 ### Related:
 

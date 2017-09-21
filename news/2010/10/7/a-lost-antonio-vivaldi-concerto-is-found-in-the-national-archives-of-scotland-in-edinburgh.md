@@ -8,6 +8,7 @@ A lost flute concerto by the Italian composer Vivaldi is discovered at the Natio
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-11491307)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

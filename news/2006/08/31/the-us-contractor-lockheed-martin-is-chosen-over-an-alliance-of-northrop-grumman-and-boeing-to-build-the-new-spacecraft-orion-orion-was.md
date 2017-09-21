@@ -8,6 +8,7 @@ NASA begins its next step in human spaceflight with Thursday&#39;s announcement 
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/14594789/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/060831/n_nasa_orion_060831.standard.jpg)
 
 ### Related:
 

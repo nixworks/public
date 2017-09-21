@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Express](http://www.express.co.uk/news/world/541687/Nazi-who-worked-in-concentration-camps-found-new-job-as-torturer-for-Syria-s-regime)
+1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/590x/brunner-541687.jpg)
 
 ### Related:
 

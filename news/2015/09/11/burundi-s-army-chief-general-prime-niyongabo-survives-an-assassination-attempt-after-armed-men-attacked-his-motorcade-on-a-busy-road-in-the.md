@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-34219026)
 2. [The New York Times](http://www.nytimes.com/aponline/2015/09/11/world/africa/ap-af-burundi-violence.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/EF54/production/_85486216_85486215.jpg)
 
 ### Related:
 

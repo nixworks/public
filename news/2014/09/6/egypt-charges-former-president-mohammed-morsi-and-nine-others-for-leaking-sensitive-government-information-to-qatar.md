@@ -8,6 +8,7 @@ Egypt charged ousted president Mohamed Mursi and nine others on Saturday with en
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/06/us-egypt-mursi-qatar-idUSKBN0H108Z20140906)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140906&t=2&i=970511682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA8503V)
 
 ### Related:
 

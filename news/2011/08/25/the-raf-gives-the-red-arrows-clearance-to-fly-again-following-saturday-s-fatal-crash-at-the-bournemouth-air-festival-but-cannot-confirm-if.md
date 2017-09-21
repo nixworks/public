@@ -8,6 +8,7 @@ The Red Arrows are cleared to fly again following a fatal crash, but the RAF is 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-14666350)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54720000/jpg/_54720864_jex_1143410_de25-1.jpg)
 
 ### Related:
 

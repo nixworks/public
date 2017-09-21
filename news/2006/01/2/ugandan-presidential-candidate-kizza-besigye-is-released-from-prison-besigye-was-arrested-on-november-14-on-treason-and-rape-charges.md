@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1857533,00.html)
+1. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

@@ -14,6 +14,7 @@ Activists say 25 people killed as warships and tanks reportedly shell the northe
 5. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-syria-latakia-20110816,0,6681337.story)
 6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/8701592/Egypt-Libya-and-Syria-live.html)
 7. [VOA](http://blogs.voanews.com/breaking-news/2011/08/15/turkey-tells-syria-to-stop-civilian-bloodshed/)
+7. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/8/14/2011814195738541734_20.jpg)
 
 ### Related:
 

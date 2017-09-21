@@ -10,6 +10,7 @@ A cargo boat carrying the first Red Cross aid to survivors of Cyclone Nargis san
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080511/ap_on_re_as/myanmar)
 2. [Reuters](http://in.reuters.com/article/southAsiaNews/idINIndia-33519420080511)
 3. [Vatican Radio](http://www.oecumene.radiovaticana.org/en1/Articolo.asp?c=204822)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080511&t=2&i=4210129&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2008-05-11T173117Z_01_NOOTR_RTRMDNC_0_India-335194-1)
 
 ### Related:
 

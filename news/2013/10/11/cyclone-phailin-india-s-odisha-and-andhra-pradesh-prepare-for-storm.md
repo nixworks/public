@@ -8,6 +8,7 @@ As many as 500,000 people in India have been evacuated as a massive cyclone swee
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-24487130)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70443000/jpg/_70443822_70443821.jpg)
 
 ### Related:
 

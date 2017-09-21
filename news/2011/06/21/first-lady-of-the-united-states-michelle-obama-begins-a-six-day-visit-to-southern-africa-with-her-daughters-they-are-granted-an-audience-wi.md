@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13867530)
+1. [Cover Image](http://news.bbcimg.co.uk/media/images/53561000/jpg/_53561846_women_afp.jpg)
 
 ### Related:
 

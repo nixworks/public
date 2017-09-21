@@ -8,6 +8,7 @@ China warned the United States not to get involved in South China Sea territoria
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/09/04/us-china-usa-clinton-idUSBRE8820CI20120904)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120904&t=2&i=649236492&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88315RI00)
 
 ### Related:
 

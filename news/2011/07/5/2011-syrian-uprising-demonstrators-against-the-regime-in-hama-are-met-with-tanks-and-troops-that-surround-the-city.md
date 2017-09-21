@@ -14,6 +14,7 @@ At least 16 people reported killed by Syrian forces in city that has become foca
 5. [BBC](http://www.bbc.co.uk/news/world-middle-east-14029397)
 6. [BBC](http://www.bbc.co.uk/news/world-middle-east-14032765)
 7. [BBC](http://www.bbc.co.uk/news/world-middle-east-14035274)
+7. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/5/201175165434276734_20.jpg)
 
 ### Related:
 

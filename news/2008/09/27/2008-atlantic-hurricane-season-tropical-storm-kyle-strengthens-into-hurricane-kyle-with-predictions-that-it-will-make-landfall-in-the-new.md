@@ -8,6 +8,7 @@ Tropical Storm Kyle strengthened into a hurricane on Saturday in the Atlantic Oc
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE48Q37Z20080927)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20080927&t=2&i=6165363&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-09-27T204930Z_01_BTRE48Q1LVK00_RTROPTP_0_STORM-KYLE)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Suspects arrested ahead of donor meeting set to lay out security handover to Afg
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/201071823137256406.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

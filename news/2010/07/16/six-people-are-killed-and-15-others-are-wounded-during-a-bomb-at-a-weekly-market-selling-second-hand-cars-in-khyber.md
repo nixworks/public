@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10658560)
 2. [News24.com](http://www.news24.com/World/News/Pakistan-market-bomb-kills-10-20100716)
+2. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

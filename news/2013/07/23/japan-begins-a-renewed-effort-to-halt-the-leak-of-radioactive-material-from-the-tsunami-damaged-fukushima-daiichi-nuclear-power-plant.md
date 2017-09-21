@@ -8,6 +8,7 @@ Japan says it is taking steps to prevent contaminated water from the crippled Fu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23419325)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68798000/jpg/_68798607_68798606.jpg)
 
 ### Related:
 

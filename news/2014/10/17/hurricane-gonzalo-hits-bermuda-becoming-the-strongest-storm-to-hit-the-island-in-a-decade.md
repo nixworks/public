@@ -9,6 +9,7 @@ Bermuda issued a hurricane watch for Category 4 Hurricane Gonzalo, which is expe
 
 1. [NBC News](http://www.nbcnews.com/news/world/bermuda-braces-hurricane-gonzalo-tropical-storm-ana-heads-hawaii-n227056)
 2. [Reuters](http://in.reuters.com/article/2014/10/17/storm-gonzalo-idINL2N0SC0N920141017)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2014_42/722976/141017-hurricane-gonzalo-2143_f5e59231bc16755688128008e0b95803.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [3dPrint.com](http://3dprint.com/32269/made-in-space-emails-wrench/)
 2. [Medium.com](https://medium.com/backchannel/how-we-email-hardware-to-space-7d46eed00c98)
+2. [Cover Image](http://3dprint.com/wp-content/uploads/2014/12/ISS-Commander-Barry-Butch-Wilmore-with-ratcheting-socket-wrench-credit-NASA.jpeg)
 
 ### Related:
 

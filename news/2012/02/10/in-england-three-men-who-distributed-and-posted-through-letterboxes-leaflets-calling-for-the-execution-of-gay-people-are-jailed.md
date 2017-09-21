@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-derbyshire-16985147)
+1. [Cover Image](http://news.bbcimg.co.uk/media/images/58008000/jpg/_58008765_three_men.jpg)
 
 ### Related:
 

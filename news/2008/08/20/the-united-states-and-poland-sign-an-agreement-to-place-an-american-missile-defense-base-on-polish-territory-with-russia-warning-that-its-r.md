@@ -9,6 +9,7 @@ The agreement to place an American missile defense base on Polish territory is f
 
 1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/chronicle/5954993.html)
 2. [The New York Times](http://www.nytimes.com/2008/08/21/world/europe/21missile.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

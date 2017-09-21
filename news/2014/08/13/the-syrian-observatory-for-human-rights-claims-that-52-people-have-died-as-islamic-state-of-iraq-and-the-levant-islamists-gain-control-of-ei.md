@@ -8,6 +8,7 @@ Jihadists of the Islamic State (IS) group seized a string of villages in norther
 ### Source:
 
 1. [AFP via First Post](http://www.firstpost.com/world/syria-52-dead-jihadists-capture-eight-villages-1663625.html)
+1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2014/08/ISIS-fighters-Reuters3.jpg)
 
 ### Related:
 

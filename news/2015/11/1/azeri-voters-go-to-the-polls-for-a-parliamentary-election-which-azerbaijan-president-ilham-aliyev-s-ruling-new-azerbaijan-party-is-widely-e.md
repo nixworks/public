@@ -9,6 +9,7 @@ In accordance with the country’s legislation, the elections will be considered
 
 1. [Reuters](http://www.reuters.com/article/2015/11/01/azerbaijan-election-idUSL8N12W03W20151101)
 2. [TASS](http://tass.ru/en/world/833248)
+2. [Cover Image](https://phototass1.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20151101/1112574.jpg)
 
 ### Related:
 

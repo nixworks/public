@@ -8,6 +8,7 @@ Three Egyptian policemen were killed on Monday when masked men attacked a checkp
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/10/28/uk-egypt-attack-idUKBRE99R0C320131028)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

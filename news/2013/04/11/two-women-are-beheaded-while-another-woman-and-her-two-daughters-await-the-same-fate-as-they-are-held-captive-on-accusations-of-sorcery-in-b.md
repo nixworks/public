@@ -8,6 +8,7 @@ Two women have been beheaded while another woman and her two daughters await the
 ### Source:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10876884)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201315/153182003_1024x768.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Six Russian tourists die as their snowmobile flips over during a night-time run 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20919458)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65088000/jpg/_65088599_65088598.jpg)
 
 ### Related:
 

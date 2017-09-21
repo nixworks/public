@@ -8,6 +8,7 @@ The&#x20;Louvre&#x20;museum&#x20;in&#x20;Paris&#x20;has&#x20;opened&#x20;a&#x20;
 ### Source:
 
 1. [AFP via France 24](http://www.france24.com/en/20120922-france-paris-louvre-museum-unveils-new-islamic-art-wing-culture-peace)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/louvre-islamic-art.jpg)
 
 ### Related:
 

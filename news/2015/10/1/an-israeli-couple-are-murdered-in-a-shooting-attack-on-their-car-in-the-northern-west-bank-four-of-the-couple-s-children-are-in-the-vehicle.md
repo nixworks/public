@@ -11,6 +11,7 @@ Victims identified as Eitam and Naama Henkin; their 4 children were in the car, 
 2. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/201319)
 3. [The Times of Israel](http://www.timesofisrael.com/two-seriously-wounded-in-west-bank-terror-attack/)
 4. [VOA News](http://www.voanews.com/content/israeli-couple-fatally-shot-in-west-bank/2988384.html)
+4. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/10/CQQNCvrUEAASe21.jpg)
 
 ### Related:
 

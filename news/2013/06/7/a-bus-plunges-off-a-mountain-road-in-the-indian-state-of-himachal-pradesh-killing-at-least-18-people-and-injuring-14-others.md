@@ -8,6 +8,7 @@ Eighteen people die when their bus plunges off a mountain road in the northern I
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22809724)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62811000/gif/_62811637_india_himachal_nepal_0912.gif)
 
 ### Related:
 

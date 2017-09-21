@@ -8,6 +8,7 @@ President confirms death of French engineer captured by fighters in North Africa
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/africa/2010/07/201072610533161943.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

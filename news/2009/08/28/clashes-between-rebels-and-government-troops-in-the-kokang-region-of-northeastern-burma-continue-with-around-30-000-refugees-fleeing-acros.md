@@ -10,6 +10,7 @@ Fresh fighting has erupted between Myanmar forces and an armed ethnic group in t
 1. [China Daily](http://www.chinadaily.com.cn/world/2009-08/29/content_8630621.htm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE57R35Q20090828)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6813718.ece)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090828&t=2&i=11392252&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-28T154420Z_01_BTRE57R17PZ00_RTROPTP_0_MYANMAR-CHINA-REFUGEES)
 
 ### Related:
 

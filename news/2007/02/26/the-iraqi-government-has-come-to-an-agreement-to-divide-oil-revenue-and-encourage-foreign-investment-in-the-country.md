@@ -9,6 +9,7 @@ The attack was the most serious breach of an Iraqi government building since Nov
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/meast/02/26/iraq.main/index.html)
 2. [New York Times](http://www.nytimes.com/2007/02/26/world/middleeast/26cnd-baghdad.html?_r=1&oref=slogin)
+2. [Cover Image](https://static01.nyt.com/images/2007/02/26/world/26iraq75.jpg)
 
 ### Related:
 

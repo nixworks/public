@@ -9,6 +9,7 @@ Deal would pave way for army and civilian administrators to return to rebel-held
 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/world/africa/mali-and-tuareg-rebels-controlling-northern-city-to-sign-accord/2013/06/18/571282f0-d81b-11e2-b418-9dfa095e125d_story.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/06/201361813267518934.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/30/2012330134338779580_20.jpg)
 
 ### Related:
 

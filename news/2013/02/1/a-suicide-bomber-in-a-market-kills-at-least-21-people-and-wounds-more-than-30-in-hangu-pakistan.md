@@ -10,6 +10,7 @@ The explosion came as Sunni and Shiite villagers in northwestern Pakistan were l
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21289738)
 2. [Reuters](http://www.reuters.com/article/2013/02/01/us-pakistan-mosque-idUSBRE9100ER20130201)
 3. [The New York Times](http://www.nytimes.com/2013/02/02/world/asia/attack-on-mosque-in-pakistan-kills-many.html)
+3. [Cover Image](https://static01.nyt.com/images/2013/02/02/world/middleeast/02pakistan_image3/02pakistan_image3-videoLarge.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands of civil and public service workers have taken part in a work stoppage
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0319/pension.html)
+1. [Cover Image](https://img.rasset.ie/00021a87-1600.jpg)
 
 ### Related:
 

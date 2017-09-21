@@ -8,6 +8,7 @@ North Carolina on Thursday repealed a law restricting bathroom use for transgend
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-north-carolina-lgbt-idUSKBN1711V4?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170330&t=2&i=1178697229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2T11E)
 
 ### Related:
 

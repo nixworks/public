@@ -9,3 +9,4 @@ Jurors in Orlando today found Casey Anthony not guilty of murder in the death of
 
 1. [AP via ''Detroit Free Press](http://www.freep.com/article/20110705/NEWS07/110705037/Casey-Anthony-acquitted-daughter-s-slaying)
 2. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/07/casey-anthony-jury-reaches-verdict/1)
+2. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-deadline/2011/07/05/Verdictx-wide-community.jpg)

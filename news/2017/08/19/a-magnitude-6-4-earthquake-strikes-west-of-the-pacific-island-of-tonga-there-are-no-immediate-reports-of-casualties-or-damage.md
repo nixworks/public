@@ -8,6 +8,7 @@ An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific isl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-tonga-quake-idUSKCN1AZ021?il=0)
+1. [Cover Image](https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -15,7 +16,7 @@ An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific isl
 2. [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-ocean.md) _Context: Earthquakes in 2017, magnitude_
 3. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Earthquakes in 2017, magnitude_
 4. [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md) _Context: magnitude_
-5. [A magnitude 7.1 earthquake strikes Mexico, causing the collapse of 29 buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico earthquake. ](/news/2017/09/19/a-magnitude-7-1-earthquake-strikes-mexico-causing-the-collapse-of-29-buildings-in-mexico-city-and-widespread-evacuations-hours-after-a-yea.md) _Context: magnitude_
+5. [A magnitude 7.1 earthquake strikes Mexico, killing at least 220 people and collapsing several buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico City earthquake. ](/news/2017/09/19/a-magnitude-7-1-earthquake-strikes-mexico-killing-at-least-220-people-and-collapsing-several-buildings-in-mexico-city-and-widespread-evacua.md) _Context: magnitude_
 6. [Two people die in an earthquake in Leyte, Philippines. ](/news/2017/08/23/two-people-die-in-an-earthquake-in-leyte-philippines.md) _Context: Earthquakes in 2017_
 7. [A magnitude 4.0 earthquake strikes the Italian island of Ischia, leaving one person dead and 25 others injured. Italian media report 10 others are unaccounted for after several buildings collapsed in Casamicciola Terme. ](/news/2017/08/21/a-magnitude-4-0-earthquake-strikes-the-italian-island-of-ischia-leaving-one-person-dead-and-25-others-injured-italian-media-report-10-othe.md) _Context: Earthquakes in 2017_
 8. [A 6.8-magnitude earthquake strikes off the coast of Puerto San Jose, Guatemala. ](/news/2017/06/22/a-6-8-magnitude-earthquake-strikes-off-the-coast-of-puerto-san-josa-c-guatemala.md) _Context: Earthquakes in 2017_

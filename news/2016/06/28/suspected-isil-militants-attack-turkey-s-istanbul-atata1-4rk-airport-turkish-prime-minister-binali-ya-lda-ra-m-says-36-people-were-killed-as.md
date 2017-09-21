@@ -12,6 +12,7 @@ A suicide bomb and gun attack at Istanbul airport kills 41 people, at least 13 o
 3. [BBC](http://www.bbc.co.uk/news/world-europe-36658187)
 4. [The Australian](http://www.theaustralian.com.au/news/world/istanbul-airport-attack-several-killed-in-explosions/news-story/b4e50bc0f121945dcba758ac1b2fe24f)
 5. [The Guardian](https://www.theguardian.com/world/2016/jun/28/turkey-airport-explosions-ataturak-istanbul)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/4461/production/_90150571_mediaitem90150570.jpg)
 
 ### Related:
 

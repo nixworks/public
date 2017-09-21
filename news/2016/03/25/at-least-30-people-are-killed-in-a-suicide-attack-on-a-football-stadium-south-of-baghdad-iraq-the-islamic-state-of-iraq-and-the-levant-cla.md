@@ -8,6 +8,7 @@ In the latest terror attack linked to the Islamic State, at least 29 people were
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2016/03/25/suicide-blast-kills-29-at-iraq-football-stadium-isis-claims-responsibility.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

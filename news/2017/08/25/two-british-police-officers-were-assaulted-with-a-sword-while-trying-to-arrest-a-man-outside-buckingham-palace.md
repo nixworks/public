@@ -8,6 +8,7 @@ A man with a &quot;large knife&quot; who assaulted two police officers outside B
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-britain-security-buckinghampalace-idUSKCN1B52K3)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170825&t=2&i=1198608312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7O1SE)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A Marine shot and killed two fellow Marines at a barracks near Washington, D.C.,
 1. [CNN](http://www.cnn.com/2013/03/22/us/virginia-quantico-shooting)
 2. [USA Today](http://www.usatoday.com/story/news/nation/2013/03/22/1-dead-in-shooting-at-marine-base-quantico/2008509/)
 3. [WTOP](http://www.wtop.com/120/3259526/Vas-Quantico-Marine-Corp-Base-on-lockdown-after-shooting)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

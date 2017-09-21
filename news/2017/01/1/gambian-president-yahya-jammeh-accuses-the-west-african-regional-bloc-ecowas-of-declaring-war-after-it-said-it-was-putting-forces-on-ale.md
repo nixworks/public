@@ -8,6 +8,7 @@ Gambian leader Yahya Jammeh accused West African regional body ECOWAS of declari
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-gambia-politics-idUSKBN14L15P)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170101&t=2&i=1167280292&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED000M1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ German Chancellor Angela Merkel opens a monument in Berlin commemorating the Rom
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20050780)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63671000/jpg/_63671439_63668553.jpg)
 
 ### Related:
 

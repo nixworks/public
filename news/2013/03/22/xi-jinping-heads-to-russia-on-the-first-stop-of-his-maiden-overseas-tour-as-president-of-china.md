@@ -10,6 +10,7 @@ Xi Jinping arrives in Russia on the first stop of his maiden overseas tour as pr
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-21873944)
 2. [CNN](http://www.cnn.com/2013/03/22/world/asia/china-xijinping-moscow)
 3. [The New York Times](http://www.nytimes.com/2013/03/23/world/asia/xi-jinping-visits-russia-on-first-trip-abroad.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66547000/jpg/_66547367_66547361.jpg)
 
 ### Related:
 

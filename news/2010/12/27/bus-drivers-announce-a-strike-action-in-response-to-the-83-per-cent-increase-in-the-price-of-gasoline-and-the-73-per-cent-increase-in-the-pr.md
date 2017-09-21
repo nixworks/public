@@ -8,6 +8,7 @@ After government cuts petrol subsidies in South American nation, drivers announc
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/20101227235829302953.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/28/2010122802649513734_20.jpg)
 
 ### Related:
 

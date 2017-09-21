@@ -8,6 +8,7 @@ Tunisia faced a general strike on Friday as the country was plunged into crisis 
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/07/26/tunisia-faces-strike-after-opposition-mp-shot/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/07/26/tunisia-faces-strike-after-opposition-mp-shot/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1422594816272.jpg?ve=1)
 
 ### Related:
 

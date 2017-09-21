@@ -8,6 +8,7 @@ At least three people have died and a number are wounded in two explosions in th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27272072)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74629000/jpg/_74629586_022127123-1.jpg)
 
 ### Related:
 

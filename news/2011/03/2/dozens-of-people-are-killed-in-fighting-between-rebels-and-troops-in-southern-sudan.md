@@ -8,6 +8,7 @@ Renewed clashes between rebel group and military come three weeks after 240 peop
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201132133019841904.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/9/20111945243879580_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Peres lauds Pinera for heroism and determination in rescuing trapped miners.
 
 1. [Press TV](http://www.presstv.ir/detail/168457.html)
 2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=211058)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=160775)
 
 ### Related:
 

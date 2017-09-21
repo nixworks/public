@@ -9,6 +9,7 @@ U.S. President Donald Trump told his Philippine counterpart that Washington has 
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-submarines-idUSKBN18K15Y)
 2. [The Washington Post](https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/05/24/daily-202-trump-s-praise-for-duterte-s-drug-war-underscores-his-contempt-for-human-rights/5924d3dee9b69b2fb981db83/)
+2. [Cover Image](//s3.reutersmedia.net/resources/r/?m=02&d=20170524&t=2&i=1186138447&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4N0Y5)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Syrian government forces killed at least 100 people on Tuesday in assaults on vi
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1184289/1/.html)
 2. [Reuters](http://www.reuters.com/article/2012/02/21/us-syria-idUSL5E8DB0BH20120221)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120221&t=2&i=573651759&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81K0V4400)
 
 ### Related:
 

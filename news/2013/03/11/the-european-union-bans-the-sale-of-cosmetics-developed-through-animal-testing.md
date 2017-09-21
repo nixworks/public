@@ -8,6 +8,7 @@ A complete ban on the sale of cosmetics developed through animal testing is now 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21740745)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66317000/jpg/_66317304_euratgetty.jpg)
 
 ### Related:
 

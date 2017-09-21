@@ -8,6 +8,7 @@ A power plant in southern Iran is targeted by the Stuxnet computer worm but the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20842113)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/56431000/jpg/_56431066_security.jpg)
 
 ### Related:
 

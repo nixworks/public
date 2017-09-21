@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/beijing-vows-justice/2274612.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/674416/1370316057000/large16x9/640/360/asia-pacific.jpg)
 
 ### Related:
 

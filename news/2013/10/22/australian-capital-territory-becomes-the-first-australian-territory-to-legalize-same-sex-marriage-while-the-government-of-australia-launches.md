@@ -8,6 +8,7 @@ GAY marriage has been legalised in the ACT in an Australian first.
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/national/act-legalises-samesex-marriage/story-fncynjr2-1226744362166)
+1. [Cover Image](http://api.news.com.au/content/1.0/theaustralian/images/1226744440650?format=jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Mario Monti resigns as Italian prime minister, officials say, keeping a promise 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/20121221162257992718.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-20814796)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64898000/jpg/_64898954_64898953.jpg)
 
 ### Related:
 

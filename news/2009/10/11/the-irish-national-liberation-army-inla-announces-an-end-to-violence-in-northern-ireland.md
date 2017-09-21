@@ -10,6 +10,7 @@ An Irish republican paramilitary group responsible for dozens of murders during 
 1. [ABC News](http://www.abc.net.au/news/stories/2009/10/12/2711061.htm?section=world)
 2. [The Guardian](http://www.guardian.co.uk/uk/2009/oct/11/northern-ireland-republican-group-disband)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-10/12/content_12213433.htm)
+3. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

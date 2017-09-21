@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/europe/08/31/chechnya.suicide.bombing/)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/08/31/chechnya.suicide.bombing/tzvids.fighter.afp.gi.jpg)
 
 ### Related:
 

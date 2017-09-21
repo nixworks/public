@@ -8,3 +8,4 @@ The U.S. military carried out a missile strike in southern Somalia on Sunday to 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/01/26/us-carries-out-missile-raid-against-somali-militant-official-confirms/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/012714/0/0/012714_an_griffin_640.jpg?ve=1)

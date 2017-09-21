@@ -10,6 +10,7 @@ Police raid house where Noordin Mohammed Top and accomplices believed to be hidi
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/200987213621943955.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8190071.stm)
 3. [Jakarta Post](http://www.thejakartapost.com/news/2009/08/08/noordin-m-top-reportedly-killed-a-bathroom-after-16-hour-seige.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

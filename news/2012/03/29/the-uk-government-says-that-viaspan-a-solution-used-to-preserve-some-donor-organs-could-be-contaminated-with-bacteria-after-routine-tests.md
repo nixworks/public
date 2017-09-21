@@ -8,6 +8,7 @@ The solution used to preserve some donor organs could be contaminated with bacte
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-17556675)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53618000/gif/_53618707_m5800221-spare_kidneys.gif)
 
 ### Related:
 

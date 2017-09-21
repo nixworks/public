@@ -9,6 +9,7 @@ The Vatican denied an Italian newspaper report on Wednesday that Pope Francis ha
 
 1. [AP via Philly.com](http://www.philly.com/philly/news/nation_world/20151021_ap_d5009b7f244a45caba8107267fd5b0db.html)
 2. [Reuters](http://in.reuters.com/article/2015/10/21/pope-tumor-denial-idINKCN0SF0I220151021)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151021&t=2&i=1088568664&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9K09C)
 
 ### Related:
 

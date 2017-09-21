@@ -9,6 +9,7 @@ A Georgia antiques collector is the latest person to claim he&#039;s found the o
 
 1. [EBAY](http://www.ebay.com/itm/Coca-Cola-Recipe-Formula-Letter-January-15-1943-Historical-Document-/121110740676?pt=LH_DefaultDomain_0&hash=item1c32c33ec4)
 2. [Time](http://newsfeed.time.com/2013/05/14/original-coca-cola-recipe-for-sale-on-ebay/)
+2. [Cover Image](https://timenewsfeed.files.wordpress.com/2013/05/picture-220.png?w=704)
 
 ### Related:
 

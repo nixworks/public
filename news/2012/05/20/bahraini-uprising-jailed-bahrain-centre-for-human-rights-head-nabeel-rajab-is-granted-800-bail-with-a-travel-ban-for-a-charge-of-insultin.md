@@ -8,6 +8,7 @@ Jailed Nabeel Rajab, head of Bahrain human rights group, granted $800 bail but r
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012520175956728676.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/6//2012569821498621_20.jpg)
 
 ### Related:
 

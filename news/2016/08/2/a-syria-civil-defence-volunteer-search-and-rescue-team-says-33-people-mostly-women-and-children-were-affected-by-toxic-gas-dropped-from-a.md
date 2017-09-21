@@ -8,6 +8,7 @@ A Syrian rescue service operating in rebel-held territory said on Tuesday a heli
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idlib-idUSKCN10D0OZ?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160802&t=2&i=1148007676&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC710LE)
 
 ### Related:
 

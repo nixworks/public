@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1387060.htm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-08T011616Z_01_N07474018_RTRIDST_0_INTERNATIONAL-AUSTRALIA-CHINA-DEFECTOR-DC.XML)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

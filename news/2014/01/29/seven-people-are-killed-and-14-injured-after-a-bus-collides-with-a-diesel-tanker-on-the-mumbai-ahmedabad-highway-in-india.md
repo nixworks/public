@@ -8,6 +8,7 @@ Seven people were killed after a luxury bus caught fire after colliding with a d
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/7-killed-as-bus-catches-fire-after-colliding-with-diesel-tanker-on-mumbai-ahmedabad-highway-476654)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-01/mumbai-ahmedabad-bus-accident-360.jpg)
 
 ### Related:
 

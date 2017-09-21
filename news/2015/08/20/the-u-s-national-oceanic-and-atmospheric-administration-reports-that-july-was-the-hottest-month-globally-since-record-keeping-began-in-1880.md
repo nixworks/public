@@ -9,6 +9,7 @@
 
 1. [CBS News](http://www.cbsnews.com/news/july-2015-was-hottest-month-on-record-globally/)
 2. [NOAA](http://www.ncdc.noaa.gov/sotc/summary-info/global/201507)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/08/16/3dc6cd24-febf-4b48-9e81-f88fcff1e4bd/western-heat.jpg)
 
 ### Related:
 

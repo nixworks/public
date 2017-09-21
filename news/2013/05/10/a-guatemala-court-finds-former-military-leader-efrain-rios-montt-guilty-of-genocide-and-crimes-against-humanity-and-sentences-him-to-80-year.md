@@ -8,6 +8,7 @@ A court in Guatemala finds former leader Efrain Rios Montt guilty of genocide ag
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22490408)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67537000/jpg/_67537447_8ab8279f-bc1a-4dbd-abf3-f94e33d26bda.jpg)
 
 ### Related:
 

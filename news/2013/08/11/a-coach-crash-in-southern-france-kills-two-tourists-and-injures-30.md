@@ -8,6 +8,7 @@ A coach has crashed in southern France, killing two tourists and injuring 30 oth
 ### Source:
 
 1. [Euro News](http://www.euronews.com/2013/08/11/two-killed-in-tourist-bus-accident-in-france/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

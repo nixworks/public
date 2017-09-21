@@ -8,3 +8,4 @@ In its first apology for the scandal in 50 years, Grunenthal said on Friday it w
 ### Source:
 
 1. [AFP via ''The Globe and Mail](http://www.theglobeandmail.com/news/world/thalidomide-victims-reject-insulting-apology-from-drug-company/article4514146/)
+1. [Cover Image](http://static.theglobeandmail.ca/3cd/news/world/article4514145.ece/ALTERNATES/w620/thalidomide.JPG)

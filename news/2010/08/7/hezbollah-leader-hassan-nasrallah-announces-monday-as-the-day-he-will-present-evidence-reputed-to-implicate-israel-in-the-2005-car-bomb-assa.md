@@ -8,6 +8,7 @@ BEIRUT: Hezbollah&#039;s leader, Hassan Nasrallah, will present evidence on Mond
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/israel-blamed-for-hariri-assassination-20100806-11ojf.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

@@ -11,3 +11,4 @@ Russia warned the West on Tuesday against unilateral action on Syria, a day afte
 2. [Hürriyet Daily News](http://www.hurriyetdailynews.com/asala-threatens-turkey-over-syria-.aspx?pageID=238&nID=28244&NewsCatID=359)
 3. [RIA Novosti](http://en.rian.ru/russia/20120817/175263636.html)
 4. [Reuters](http://www.reuters.com/article/2012/08/21/us-syria-crisis-idUSBRE8610SH20120821)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120821&t=2&i=644755095&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE87K1MF500)

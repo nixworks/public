@@ -8,3 +8,4 @@ A 27-year-old Mississippi man murdered five people, including a pregnant woman, 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-alabama-crime-idUSKCN10W019)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

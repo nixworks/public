@@ -11,6 +11,7 @@ China has surpassed the United States as the top investor in clean energy with t
 2. [China Daily](http://www.chinadaily.com.cn/world/2010-03/26/content_9644737.htm)
 3. [L.A. Times](http://www.latimes.com/business/la-fi-energy-china25-2010mar25,0,356464.story)
 4. [The China Post](http://www.chinapost.com.tw/business/asia/b-china/2010/03/26/249971/China-passes.htm)
+4. [Cover Image](http://www.chinapost.com.tw/cplogo.jpg)
 
 ### Related:
 

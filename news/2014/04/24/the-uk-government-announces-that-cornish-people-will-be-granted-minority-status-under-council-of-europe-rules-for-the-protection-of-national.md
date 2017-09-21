@@ -8,6 +8,7 @@ Cornish people are granted minority status under European rules for the protecti
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-cornwall-27132035)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74407000/jpg/_74407076_139978306.jpg)
 
 ### Related:
 

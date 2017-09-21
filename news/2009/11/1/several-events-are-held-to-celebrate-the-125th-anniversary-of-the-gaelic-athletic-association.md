@@ -8,6 +8,7 @@ A number of events were held today to mark the 125th anniversary of the foundati
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1101/gaa.html)
+1. [Cover Image](https://img.rasset.ie/00020ac6-1600.jpg)
 
 ### Related:
 

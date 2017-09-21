@@ -9,6 +9,7 @@ Steering winds could take Ignacio, currently a post-tropical cyclone, into the s
 
 1. [AccuWeather](http://www.accuweather.com/en/weather-news/ignacio-stormy-weather-alaska-british-columbia-canada/52166553)
 2. [SurfLine.com](http://www.surfline.com/surf-news/healthy-ne-trending-nne-to-nnw-swell-through-second-half-of-the-week-tropical-storm-ignacio-weakens-north-of-h_130850/)
+2. [Cover Image](https://accuweather.brightspotcdn.com/80/80a3c539fe101077430af6359a871404/650x366_09031547_hd22.jpg)
 
 ### Related:
 

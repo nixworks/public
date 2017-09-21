@@ -8,6 +8,7 @@ The first boats carrying migrants being deported from Greece arrive in Turkey - 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35956836#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/30B2/production/_89066421_89066420.jpg)
 
 ### Related:
 

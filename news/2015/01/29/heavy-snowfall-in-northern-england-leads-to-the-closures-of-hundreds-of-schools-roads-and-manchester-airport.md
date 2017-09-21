@@ -8,6 +8,7 @@ Snowstorms bring travel chaos to northern England, closing more than 300 schools
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-31036671)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80640000/jpg/_80640962_80640961.jpg)
 
 ### Related:
 

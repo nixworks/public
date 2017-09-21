@@ -8,6 +8,7 @@ Mike Campbell - the white Zimbabwean farmer who took President Robert Mugabe to 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13016834)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

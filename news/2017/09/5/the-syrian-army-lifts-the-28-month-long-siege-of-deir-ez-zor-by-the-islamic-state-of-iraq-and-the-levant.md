@@ -9,6 +9,7 @@ Some 93,000 civilians were trapped there for years, leaving them dependent on ai
 
 1. [BBC News](http://bbcspain.localizer.co/news/world-middle-east-41162683)
 2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria/syrian-army-allies-break-islamic-state-siege-in-eastern-city-idUSKCN1BG1G6)
+2. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05f74nx.jpg)
 
 ### Related:
 

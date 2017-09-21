@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-cyber-heist-congress-idUSKCN0YN59X)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160601&t=2&i=1139561152&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC502PQ)
 
 ### Related:
 

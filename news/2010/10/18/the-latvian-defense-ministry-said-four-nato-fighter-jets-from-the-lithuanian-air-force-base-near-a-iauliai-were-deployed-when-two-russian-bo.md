@@ -8,6 +8,7 @@
 ### Source:
 
 1. [15 min](http://www.15min.lt/naujiena/aktualu/lietuva/dviem-rusijos-bombonesiams-priartejus-prie-latvijos-i-ora-buvo-pakelti-nato-naikintuvai-is-siauliu-56-120474)
+1. [Cover Image](https://s1.15min.lt/static/cache/NTgweDMwMywsNjE2MTk3LG9yaWdpbmFsLCxpZD0yMjA0NzEmZGF0ZT0yMDEwJTJGMDglMkYyNSwzOTQzNjIzMjAy/1282743746img_1228.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former Argentine President Cristina Fernandez was indicted on Tuesday on charges
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/12/27/former-argentine-presidentcristina-fernandez-de-kirchner-indicted/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/05/14/GettyImages-462532332-xlarge_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg)
 
 ### Related:
 

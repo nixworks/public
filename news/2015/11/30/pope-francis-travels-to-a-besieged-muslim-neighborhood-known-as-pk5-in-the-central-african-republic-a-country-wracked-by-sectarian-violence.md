@@ -9,6 +9,7 @@ Pope Francis visits a mosque in the capital of the Central African Republic, and
 
 1. [AP via ''The Bastrop Daily Enterprise](http://www.bastropenterprise.com/article/ZZ/20151130/NEWS/311309968/-1/sports)
 2. [BBC](http://www.bbc.com/news/world-africa-34960971)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/16ADE/production/_86949829_86949828.jpg)
 
 ### Related:
 

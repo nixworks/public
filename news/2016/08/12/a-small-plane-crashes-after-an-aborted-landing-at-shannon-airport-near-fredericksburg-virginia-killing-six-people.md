@@ -8,3 +8,4 @@ Six people, including three members of an Indiana family and a German exchange s
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-virginia-crash-idUSKCN10N2K5)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160813&t=2&i=1149544916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7C0KC)

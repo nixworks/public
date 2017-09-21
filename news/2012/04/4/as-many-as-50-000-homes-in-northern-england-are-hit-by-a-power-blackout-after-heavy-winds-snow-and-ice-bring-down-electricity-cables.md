@@ -8,6 +8,7 @@ Thousands of homes and businesses in England are without electricity after gales
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-17604412)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59493000/jpg/_59493488_snow_cycle.jpg)
 
 ### Related:
 

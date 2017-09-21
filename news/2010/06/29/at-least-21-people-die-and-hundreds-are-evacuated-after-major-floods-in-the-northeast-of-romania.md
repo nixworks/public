@@ -10,6 +10,7 @@
 1. [Hindustan Times](http://www.hindustantimes.com/Romania-floods-kill-21/Article1-565018.aspx)
 2. [Reuters](http://uk.reuters.com/article/idUKLDE65S1CB._CH_.2420)
 3. [Yahoo News](http://au.news.yahoo.com/a/-/world/7484911/romania-flood-death-toll-climbs-to-16/)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

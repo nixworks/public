@@ -8,6 +8,7 @@ Theresa May says she will trigger Brexit by the end of March, telling the Tory p
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-37532364#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/11E0D/production/_91492237_mediaitem91491758.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The rebellious Chinese fishing village of Wukan forced the ruling Communist Part
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8969702/Wukan-forces-Chinese-officials-to-release-three-villagers.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02088/Wukan_2088401a.jpg)
 
 ### Related:
 

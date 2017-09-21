@@ -8,6 +8,7 @@ A homemade bomb exploded in a central Athens avenue late on Thursday, causing se
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKTRE52I7KY20090319)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090319&t=2&i=9107155&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-03-19T234508Z_01_BTRE52I1TZB00_RTROPTP_0_GREECE-EXPLOSION)
 
 ### Related:
 

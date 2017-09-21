@@ -10,6 +10,7 @@ Police have launched an anti-terror operation in an eastern Belgian city, accord
 1. [AP via News24](http://www.news24.com/news24/World/News/Deaths-reported-in-anti-terror-raid-in-Belgium-20150115)
 2. [BBC](http://www.bbc.com/news/world-europe-30840160)
 3. [CNN](http://edition.cnn.com/2015/01/15/world/belgium-anti-terror-operation/index.html)
+3. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2962/6cd2a18584ed4444820bd5d7cb900ccf.jpg)
 
 ### Related:
 

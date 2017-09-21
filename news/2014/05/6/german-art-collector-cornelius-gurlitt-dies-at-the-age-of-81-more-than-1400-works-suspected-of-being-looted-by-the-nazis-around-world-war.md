@@ -8,6 +8,7 @@ Cornelius Gurlitt, the German who was found to have hoarded more than 1,400 work
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27298832)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73827000/jpg/_73827027_max-liebermann.jpg)
 
 ### Related:
 

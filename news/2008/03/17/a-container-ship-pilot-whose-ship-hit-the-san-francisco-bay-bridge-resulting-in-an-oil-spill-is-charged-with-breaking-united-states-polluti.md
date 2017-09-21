@@ -8,6 +8,7 @@ The pilot of a containership that hit the San Francisco Bay Bridge last year and
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/bondsNews/idUSN1761699020080317)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

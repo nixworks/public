@@ -8,6 +8,7 @@ Microsoft is offering a $250,000 reward for information leading to the convictio
 ### Source:
 
 1. [PC World](http://www.pcworld.com/businesscenter/article/159460/microsoft_puts_250000_bounty_on_conficker_worm.html)
+1. [Cover Image](http://images.pcworld.com/news/graphics/158277-Worms_thumb_original.gif)
 
 ### Related:
 

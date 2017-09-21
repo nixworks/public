@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=200306)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=152197)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Independent](http://www.independent.ie/entertainment/tv-radio/rte-guide-makes-majestic-blunder-as-queens-speech-becomes-lecture-3326657.html)
 2. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/25/queen-diamond-jubilee-christmas-message)
+2. [Cover Image](http://www.independent.ie/editorial/facebook_share_logos/FacebookPostImage_158x158_Ents.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 105 people have died in days of torrential rain and devastating floods 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23751598)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69376000/jpg/_69376792_019008025-1.jpg)
 
 ### Related:
 

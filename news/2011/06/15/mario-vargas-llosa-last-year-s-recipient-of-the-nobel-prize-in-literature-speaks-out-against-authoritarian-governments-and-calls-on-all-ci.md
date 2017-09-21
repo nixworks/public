@@ -8,6 +8,7 @@ Peruvian Nobel laureate Mario Vargas Llosa criticises authoritarian governments 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13776326)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53415000/jpg/_53415571_53415570.jpg)
 
 ### Related:
 

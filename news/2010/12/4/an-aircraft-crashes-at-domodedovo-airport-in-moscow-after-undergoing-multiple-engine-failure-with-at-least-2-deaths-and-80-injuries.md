@@ -12,6 +12,7 @@ Two people were killed and dozens injured when a Russian airliner rolled off the
 3. [The Guardian](http://www.guardian.co.uk/world/2010/dec/04/airplane-emergency-landing-moscow-two-killed)
 4. [The Hindu](http://www.thehindu.com/news/international/article931816.ece)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/04/c_13635236.htm)
+5. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Syrian President Bashar al-Assad vowed in an interview released today that he wi
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2012/11/08/syria-assad-red-cross.html)
+1. [Cover Image](https://i.cbc.ca/1.1508554.1379035426!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-assad-rt-interview.jpg)
 
 ### Related:
 

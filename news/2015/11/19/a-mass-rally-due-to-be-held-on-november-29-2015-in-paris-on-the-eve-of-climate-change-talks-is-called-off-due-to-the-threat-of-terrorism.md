@@ -8,6 +8,7 @@ A Paris rally to demand strong action on climate change has been cancelled due t
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2015-11-19/paris-climate-protests-cancelled/6955650)
+1. [Cover Image](http://www.abc.net.au/news/image/6941790-1x1-700x700.jpg)
 
 ### Related:
 

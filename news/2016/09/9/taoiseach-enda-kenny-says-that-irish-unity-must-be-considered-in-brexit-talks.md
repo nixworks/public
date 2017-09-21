@@ -8,6 +8,7 @@ Taoiseach says no convincing evidence people of North would vote to change statu
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/news/politics/irish-unity-must-be-considered-in-brexit-talks-enda-kenny-says-1.2785987)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2785986&origw=1440)
 
 ### Related:
 

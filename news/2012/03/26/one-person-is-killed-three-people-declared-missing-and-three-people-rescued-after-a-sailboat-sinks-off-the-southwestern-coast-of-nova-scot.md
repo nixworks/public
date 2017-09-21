@@ -8,6 +8,7 @@ A disaster at sea that cost one man his life and left three others missing early
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/nova-scotia/story/2012/03/27/ns-yacht-missing.html?cmp=rss)
+1. [Cover Image](https://i.cbc.ca/1.1881205.1380780401!/httpImage/image.jpg_gen/derivatives/16x9_1180/ns-hi-map-search-area-yacht.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Qassam explodes in open area just hours after Russia&#39;s Lavrov calls on Hamas
 2. [The Daily Star Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=1&article_id=113337#axzz0jrkMFuP2)
 3. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=172308)
 4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3870956,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A B-52 crashed around 8:30 a.m. Thursday on Andersen AFB&#39;s flight line.
 ### Source:
 
 1. [Pacific Daily News](http://www.guampdn.com/story/news/2016/05/18/downed-aircraft-reported-andersen-air-force-base-gfd-responding/84564970/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/guampdn.png)
 
 ### Related:
 

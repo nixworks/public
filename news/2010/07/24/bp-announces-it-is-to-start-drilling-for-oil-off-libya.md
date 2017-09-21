@@ -11,6 +11,7 @@ BP is set to begin drilling off Libya amid safety concerns over the Gulf of Mexi
 2. [France24](http://www.france24.com/en/20100724-bp-start-drilling-off-libya-within-weeks)
 3. [The Age](http://www.theage.com.au/world/bp-to-drill-for-oil-off-libya-20100725-10q2i.html)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bp-to-drill-for-oil-off-libya-in-weeks-20100725-10q0i.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

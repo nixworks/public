@@ -8,6 +8,7 @@ Israel and the Palestinians begin a fresh five-day ceasefire in Gaza, but immedi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28782224#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76931000/jpg/_76931177_76930405.jpg)
 
 ### Related:
 

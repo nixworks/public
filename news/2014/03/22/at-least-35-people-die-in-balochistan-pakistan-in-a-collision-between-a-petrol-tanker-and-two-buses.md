@@ -8,6 +8,7 @@
 ### Source:
 
 1. [PTI via Business Standard](http://www.business-standard.com/article/pti-stories/35-killed-in-road-accident-in-southwest-pakistan-114032200158_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Forty-four people were killed and 103 injured when one Iranian passenger train c
 1. [AP via Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3970524/Iran-state-TV-Train-collision-kills-5-20-reported-injured.html)
 2. [New York Times](http://www.nytimes.com/aponline/2016/11/25/world/middleeast/ap-ml-iran-train-collison.html)
 3. [Reuters](http://www.reuters.com/article/us-iran-train-crash-idUSKBN13K0JV?feedType=RSS&feedName=topNews)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Passengers on the Costa Allegra speak of difficult conditions on board as the st
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17216437)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58803000/jpg/_58803089_014135840-1.jpg)
 
 ### Related:
 

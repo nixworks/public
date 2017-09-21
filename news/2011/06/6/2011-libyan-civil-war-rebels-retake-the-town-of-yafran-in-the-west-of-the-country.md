@@ -9,6 +9,7 @@
 
 1. [New York Times](http://www.nytimes.com/2011/06/07/world/africa/07libya.html)
 2. [al Jazeera](http://english.aljazeera.net/news/africa/2011/06/20116613502238785.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/6/201166105656601734_20.jpg)
 
 ### Related:
 

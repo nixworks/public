@@ -8,6 +8,7 @@ Investors Optimistic That Federal Reserve Will Lower Interest Rates
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/10/04/business/main2060310.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/06/02/0efb6298-a643-11e2-a3f0-029118418759/image1676793x.jpg)
 
 ### Related:
 

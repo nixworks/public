@@ -8,6 +8,7 @@ A human rights group on Saturday urged Iranian authorities not to put acid in th
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/14/iran.acid.eyes/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/05/14/iran.acid.eyes/tzvids.bahrami.cnn.jpg)
 
 ### Related:
 

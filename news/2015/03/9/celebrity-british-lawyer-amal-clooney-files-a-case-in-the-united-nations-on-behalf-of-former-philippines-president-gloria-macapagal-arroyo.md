@@ -8,6 +8,7 @@ The lawyer wife of actor George Clooney has asked the United Nations Human Right
 ### Source:
 
 1. [Philippine Star](http://www.philstar.com/headlines/2015/03/09/1431539/clooneys-wife-wants-philippine-government-apologize-gma)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/entertainment/20140711/amal-alamuddin-ap.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 1. [CBS News](http://www.cbsnews.com/stories/2004/04/15/tech/main612112.shtml)
 2. [National Geographic](http://news.nationalgeographic.com/news/2004/04/0415_040415_songbirdmigration.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=4842420&section=news)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/australia-leader-disappointed-with-japans-return-to-whaling/2015/12/18/dfe2b820-a546-11e5-8318-bd8caed8c588_story.html)
 2. [Reuters](http://www.reuters.com/article/us-japan-australia-idUSKBN0U107T20151218)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151218&t=2&i=1103208801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBH03N)
 
 ### Related:
 

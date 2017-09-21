@@ -8,6 +8,7 @@ Police and protesters in Hong Kong scuffle for a second night as a group of demo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-29630893)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78252000/jpg/_78252227_457265042.jpg)
 
 ### Related:
 

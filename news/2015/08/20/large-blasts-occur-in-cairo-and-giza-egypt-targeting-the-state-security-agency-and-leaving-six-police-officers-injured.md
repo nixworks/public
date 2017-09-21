@@ -10,6 +10,7 @@
 1. [Al Jazeera via Twitter](https://twitter.com/AJENews/status/634161753660747777)
 2. [Al Jazeera](http://www.aljazeera.com/news/2015/08/blasts-government-offices-rock-egypt-cairo-150820005357727.html)
 3. [The Washington Post](https://www.washingtonpost.com/world/massive-blast-targets-security-forces-near-cairo/2015/08/19/ef6a074b-cf6a-448a-bc63-c313b687811d_story.html)
+3. [Cover Image](https://pbs.twimg.com/media/CMz-wSyWgAAgG45.jpg:large)
 
 ### Related:
 

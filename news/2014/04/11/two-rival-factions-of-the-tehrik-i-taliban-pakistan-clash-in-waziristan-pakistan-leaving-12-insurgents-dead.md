@@ -8,6 +8,7 @@ At least 12 insurgents were killed on Friday in the latest round of infighting b
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/south-asia/taliban-infighting-kills-12-in-northern-pakistan/article5901921.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

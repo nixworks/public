@@ -10,6 +10,7 @@ A Norwegian cargo vessel with a crew of six is believed to have sunk in Swedish 
 1. [CBC](http://www.cbc.ca/world/story/2009/07/31/norway-maritime-accidents.html)
 2. [RTÉ](http://www.rte.ie/news/2009/0731/sweden.html)
 3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLV335927)
+3. [Cover Image](https://img.rasset.ie/00027b93-1600.jpg)
 
 ### Related:
 

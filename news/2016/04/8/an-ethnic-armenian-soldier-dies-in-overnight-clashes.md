@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Armenia](http://news.am/eng/news/320985.html)
+1. [Cover Image](https://news.am/img/news/32/09/85/default.jpg)
 
 ### Related:
 

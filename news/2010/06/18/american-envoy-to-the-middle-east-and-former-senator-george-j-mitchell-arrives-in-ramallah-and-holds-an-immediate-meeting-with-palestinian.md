@@ -10,6 +10,7 @@ Palestinian president urges George Mitchell to press Israel to lift its blockade
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010618125139663907.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/18/c_13357201.htm)
 3. [balita.ph](http://balita.ph/2010/06/18/mitchell-holds-talks-with-abbas-in-ramallah/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

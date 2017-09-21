@@ -8,6 +8,7 @@ Texas Governor Rick Perry announces he will retire instead of seeking a fourth t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-23235693)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68618000/jpg/_68618969_68618968.jpg)
 
 ### Related:
 

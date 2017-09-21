@@ -8,6 +8,7 @@ Gunmen opened fire and killed a police colonel and his aide as their vehicle was
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKCN0W70MD)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ But environmentalists and rights groups warn the project will dramatically decre
 
 1. [AP](http://bigstory.ap.org/article/0073d996da8b4cb68e4ae1263a2e3d0e/ethiopia-opens-massive-gibe-3-hydroelectric-dam-omo-river)
 2. [The Indian Express](http://indianexpress.com/article/world/ethiopia-inaugurates-dam-to-double-energy-output-4432440/)
+2. [Cover Image](http://images.indianexpress.com/2016/10/ethiopia-4801.jpg?w=480)
 
 ### Related:
 

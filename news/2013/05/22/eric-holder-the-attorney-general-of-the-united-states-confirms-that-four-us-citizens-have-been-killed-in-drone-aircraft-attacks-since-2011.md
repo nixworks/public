@@ -8,6 +8,7 @@ Only one of those Americans, Anwar al-Awlaki, was targeted for his involvement i
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57585776/attorney-general-holder-drones-killed-4-americans-since-2009/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/12/30/be70332a-c3a4-11e2-a43e-02911869d855/Storm_Extra1.jpg)
 
 ### Related:
 

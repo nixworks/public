@@ -8,6 +8,7 @@ A mayor linked to the drugs trade in the Philippines is shot dead in his prison 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-37882562)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6E3A/production/_92281282_mediaitem92281281.jpg)
 
 ### Related:
 

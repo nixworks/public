@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2013/06/25/russian-official-balks-at-us-extradition-demand-for-snowden/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/062313/0/0/062313_FR_Snowdeni_640.jpg?ve=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Poland&apos;s former president confirms that he allowed a CIA black site to oper
 1. [Amnesty International](http://www.amnesty.org/en/news/30-years-torture-convention-states-still-failing-obligations-2014-12-09-0)
 2. [Daily Times Pakistan](http://www.dailytimes.com.pk/national/11-Dec-2014/malala-receives-nobel-prize)
 3. [Los Angeles Times](http://www.latimes.com/world/europe/la-fg-cia-torture-poland-20141210-story.html)
+3. [Cover Image](http://www.trbimg.com/img-5488a16a/turbine/la-fg-cia-torture-poland-20141210)
 
 ### Related:
 

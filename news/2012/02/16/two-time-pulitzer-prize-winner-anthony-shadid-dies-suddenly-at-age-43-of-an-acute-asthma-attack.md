@@ -8,6 +8,7 @@ Our veteran Lebanon reporter Nicholas Blanford recalls the courage, humility, an
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Global-News/2012/0217/Anthony-Shadid-Quite-simply-the-best)
+1. [Cover Image](http://images.csmonitor.com/csm/2012/02/0217-anthony-Shadid-tribute.jpg?alias=standard_900x600)
 
 ### Related:
 

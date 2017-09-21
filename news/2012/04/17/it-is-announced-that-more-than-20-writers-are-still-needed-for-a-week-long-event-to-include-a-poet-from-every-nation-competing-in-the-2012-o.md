@@ -9,6 +9,7 @@ More than 20 writers are still needed to complete the line-up for a poetry festi
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17746304)
 2. [The Guardian](http://www.guardian.co.uk/books/2012/apr/17/poetry-parnassus-poets-olympic-nation)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59704000/jpg/_59704220_shapcott464.jpg)
 
 ### Related:
 

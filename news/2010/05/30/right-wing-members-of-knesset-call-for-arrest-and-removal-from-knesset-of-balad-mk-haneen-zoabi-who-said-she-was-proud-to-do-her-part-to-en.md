@@ -15,6 +15,7 @@ Activists aboard an aid flotilla say they have left Cyprus and will reach Gaza o
 6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/kazakhstan/7786400/Pro-Palestinian-activists-set-sail-for-Gaza.html)
 7. [Voice of America](http://www1.voanews.com/english/news/middle-east/Humanitarian-Ships-Continue-Journey-to-Gaza-Strip-Israel-to-Prevent-95212999.html)
 8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/30/c_13323985.htm)
+8. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

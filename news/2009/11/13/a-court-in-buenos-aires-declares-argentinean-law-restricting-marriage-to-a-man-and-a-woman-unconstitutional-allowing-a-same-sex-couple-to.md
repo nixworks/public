@@ -9,6 +9,7 @@ An Argentine judge has granted a homosexual couple permission to get married, se
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/americas/11/14/argentina.same.sex.marriage/)
 2. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE5AC32X20091113)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Mars rover Curiosity, on a quest for signs the Red Planet once hosted ingred
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2012/08/05/us-usa-mars-idINBRE8721A920120805)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120805&t=2&i=638780473&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8721EAB00)
 
 ### Related:
 

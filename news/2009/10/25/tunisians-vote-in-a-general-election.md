@@ -8,6 +8,7 @@ Incumbent Ben Ali, who has been in power for 22 years, likely to win fifth term.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/2009102541949324120.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

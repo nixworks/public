@@ -8,6 +8,7 @@ Not the first time.
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/facebook-accused-of-click-fraud-by-advertiser-2012-7)
+1. [Cover Image](http://static2.businessinsider.com/image/4fb63ac1ecad04f06f000001-1190-625/yet-another-company-claims-facebook-ad-clicks-are-mostly-from-bots.jpg)
 
 ### Related:
 

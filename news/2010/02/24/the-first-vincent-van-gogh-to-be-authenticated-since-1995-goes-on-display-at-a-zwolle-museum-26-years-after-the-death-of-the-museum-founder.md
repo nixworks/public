@@ -11,6 +11,7 @@ A painting of a windmill newly attributed to the Dutch master Vincent Van Gogh w
 2. [Reuters](http://www.reuters.com/article/idUSTRE61N48120100224)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/culture/art/art-news/7309108/The-man-who-cried-Van-Gogh-proved-right-after-all.html)
 4. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/visual_arts/article7040100.ece)
+4. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100224&t=2&i=66255056&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-02-24T211021Z_01_BTRE61N1MTD00_RTROPTP_0_DUTCH-VANGOGH)
 
 ### Related:
 

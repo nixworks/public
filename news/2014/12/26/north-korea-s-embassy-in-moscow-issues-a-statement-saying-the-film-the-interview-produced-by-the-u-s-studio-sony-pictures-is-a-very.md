@@ -11,6 +11,7 @@ Sony will decide on a possible release in the country in the new year, but the m
 2. [Hollywood Reporter](http://www.hollywoodreporter.com/news/russian-official-speaks-interview-release-760370)
 3. [TASS](http://itar-tass.com/en/russia/769186)
 4. [The New York Times](http://sinosphere.blogs.nytimes.com/2014/12/26/chinese-viewers-mostly-give-thumbs-up-for-the-interview/?_r=0)
+4. [Cover Image](http://cdn5.thr.com/sites/default/files/2014/12/interview_xlg.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [SMH News](http://news.smh.com.au/breaking-news-world/iran-invites-un-human-rights-chief-20101120-181og.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

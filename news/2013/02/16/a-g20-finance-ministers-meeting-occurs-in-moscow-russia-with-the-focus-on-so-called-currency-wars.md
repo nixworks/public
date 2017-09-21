@@ -8,6 +8,7 @@ Japan&#039;s aggressive attempts to spur on its struggling economy were set to e
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/business/news/g20-summit-to-focus-on-currency-war-threat-to-economy-8497633.html?origin=internalSearch)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/02/16/19/Japan-REUT.jpg)
 
 ### Related:
 

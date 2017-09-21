@@ -8,6 +8,7 @@ Hawaii has passed a law to document sea level rise and set strategies to reduce 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/hawaii-becomes-first-state-enact-law-align-goals-paris-climate-n769791)
+1. [Cover Image](http://media1.s-nbcnews.com/i/newscms/2017_23/2030401/170608-hawaii-climate-accord-se-1136a_5e22b6242d692519eee30f901a8bd786.jpg)
 
 ### Related:
 

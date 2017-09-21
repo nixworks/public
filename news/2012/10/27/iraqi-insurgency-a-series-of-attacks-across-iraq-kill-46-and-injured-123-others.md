@@ -8,6 +8,7 @@ At least 30 people are killed in a series of bomb and gun attacks in Iraq, prima
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20110320)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63752000/jpg/_63752652_63752651.jpg)
 
 ### Related:
 

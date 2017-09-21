@@ -9,6 +9,7 @@ Rupert Murdoch exhibited &quot;wilful blindness&quot; to what was going on in hi
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/20125110498452985.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-17898029)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59967000/jpg/_59967034_014638684-1.jpg)
 
 ### Related:
 

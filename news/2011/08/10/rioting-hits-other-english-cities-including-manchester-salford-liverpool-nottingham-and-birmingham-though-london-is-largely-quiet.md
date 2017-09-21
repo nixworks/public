@@ -11,6 +11,7 @@ Rioting spreads to a number of cities with unrest in Manchester and Liverpool, w
 2. [BBC](http://www.bbc.co.uk/news/uk-scotland-14473068)
 3. [CNN](http://edition.cnn.com/2011/WORLD/europe/08/10/uk.riots/)
 4. [The Guardian](http://www.guardian.co.uk/uk/2011/aug/10/david-cameron-water-cannon-police-riots)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54516000/jpg/_54516595_pa_miss_manchester384.jpg)
 
 ### Related:
 

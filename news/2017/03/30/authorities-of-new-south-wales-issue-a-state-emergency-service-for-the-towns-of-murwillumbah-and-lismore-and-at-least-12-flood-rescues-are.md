@@ -10,6 +10,7 @@ Residents in parts of Lismore have been ordered to immediately evacuate as north
 1. [9 News](http://www.9news.com.au/national/2017/03/30/03/33/cyclone-debbie-s-remnants-to-lash-nsw)
 2. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/queensland-schools-closed-workers-ordered-home-20170329-gv9mb2.html)
 3. [Weatherzone](http://www.weatherzone.com.au/news/nsw-floods-evacuation-warnings-issued-in-murwillumbah-codong-tumbulgum-and-rescues-underway/526139)
+3. [Cover Image](http://9network-vod-progressive.akamaized.net/media2/664969388001/2017/03/664969388001_5378387187001_3658070233001-vs.jpg)
 
 ### Related:
 

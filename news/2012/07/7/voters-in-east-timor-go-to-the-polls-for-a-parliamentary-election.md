@@ -8,6 +8,7 @@ Early results in East Timor&#039;s parliamentary election indicate Xanana Gusmao
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2012-07-06/an-east-timorese-return-home-ahead-of-vote/4114932)
+1. [Cover Image](http://www.abc.net.au/news/image/4115010-1x1-700x700.jpg)
 
 ### Related:
 

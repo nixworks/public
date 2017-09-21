@@ -10,6 +10,7 @@ A fire at a budget hotel in the northern Philippines has killed 15 people and in
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12030276)
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20101219-309849/15-killed-in-Cagayan-hotel-fire)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/19/c_13655586.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

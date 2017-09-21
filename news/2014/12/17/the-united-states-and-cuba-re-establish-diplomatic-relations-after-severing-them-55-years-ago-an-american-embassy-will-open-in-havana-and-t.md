@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Daily Beast](http://www.thedailybeast.com/cheats/2014/12/17/alan-gross-released-from-cuban-prison.html)
+1. [Cover Image](http://cdn.thedailybeast.com/content/dailybeast/cheats/2014/12/17/alan-gross-released-from-cuban-prison/jcr:content/image.img.2000.jpg/1418843237287.cached.jpg)
 
 ### Related:
 

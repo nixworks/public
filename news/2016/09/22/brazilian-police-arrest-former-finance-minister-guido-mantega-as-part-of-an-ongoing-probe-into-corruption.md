@@ -8,6 +8,7 @@ Brazilian police arrested former Finance Minister Guido Mantega on Thursday as a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-brazil-corruption-mantega-idUSKCN11S14C)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160922&t=2&i=1154543899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8L0UC)
 
 ### Related:
 

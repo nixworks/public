@@ -9,3 +9,4 @@ Six people are killed, many injured and dozens more feared trapped after the roo
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25044427)
 2. [NBC News](http://worldnews.nbcnews.com/_news/2013/11/22/21574610-latvian-supermarket-collapse-death-toll-rises-to-48-including-3-firemen?lite)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71271000/jpg/_71271417_71271416.jpg)

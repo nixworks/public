@@ -1,0 +1,25 @@
+### [2004-10-4](/news/2004/10/4/index.md)
+
+#  At least three civilians are among the dead in the sixth day of the Israeli raid into the Jabaliya refugee camp. 
+
+Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3711996.stm)
+2. [Channel news Asia](http://www.channelnewsasia.com/stories/afp_world/view/110026/1/.html)
+3. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=596162&section=news)
+
+### Related:
+
+1. [Israeli shelling of a UNRWA school in Jabaliya refugee camp kills at least 19 Palestinian civilians and wounds scores more. ](/news/2014/07/30/israeli-shelling-of-a-unrwa-school-in-jabaliya-refugee-camp-kills-at-least-19-palestinian-civilians-and-wounds-scores-more.md) _Context: Jabaliya_
+2. [One civilian is killed and at least 20 others injured after an Israeli air strike on a militant base in Gaza City, Palestinian medics say. ](/news/2011/12/10/one-civilian-is-killed-and-at-least-20-others-injured-after-an-israeli-air-strike-on-a-militant-base-in-gaza-city-palestinian-medics-say.md) _Context: civilian_
+3. [ At least 20,000 civilians were reportedly killed during the final five months of Sri Lanka's civil war. ](/news/2009/05/29/at-least-20-000-civilians-were-reportedly-killed-during-the-final-five-months-of-sri-lanka-s-civil-war.md) _Context: civilian_
+4. [ Russia will supply US$1 billion of uranium to civilian nuclear reactors in the United States. ](/news/2009/05/27/russia-will-supply-us-1-billion-of-uranium-to-civilian-nuclear-reactors-in-the-united-states.md) _Context: civilian_
+5. [ Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. ](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.md) _Context: civilian_
+6. [ The Sri Lankan Army kills 91 people and injures 87 others at a hospital inside a civilian safe zone. ](/news/2009/05/2/the-sri-lankan-army-kills-91-people-and-injures-87-others-at-a-hospital-inside-a-civilian-safe-zone.md) _Context: civilian_
+7. [ A suicide attack at FOB Salerno kills seven civilians and injures 21 more in Khost, Afghanistan. ](/news/2009/05/13/a-suicide-attack-at-fob-salerno-kills-seven-civilians-and-injures-21-more-in-khost-afghanistan.md) _Context: civilian_
+8. [ Sri Lanka's Armed Forces temporarily suspend their offensive against the Tamil Tigers to allow civilians to find refuge. ](/news/2009/04/12/sri-lanka-s-armed-forces-temporarily-suspend-their-offensive-against-the-tamil-tigers-to-allow-civilians-to-find-refuge.md) _Context: civilian_
+9. [ A senior British Army officer is arrested in Afghanistan on suspicion of breaking the "Official Secrets Act" by leaking information on civilian casualties to a human rights campaigner. ](/news/2009/02/4/a-senior-british-army-officer-is-arrested-in-afghanistan-on-suspicion-of-breaking-the-official-secrets-act-by-leaking-information-on-civi.md) _Context: civilian_
+10. [ The US military is to 'review an inquiry' into an air raid on a village in Herat province, Afghanistan, after a new video evidence emerged indicating 'scores of civilian deaths'. The US air raid in Afghanistan left up to 90 people dead, 'many of them women and children', the Afghan government and the UN said. However, US officials claimed earlier that 'no more than seven civilians died'. The bodies of 'at least 10 children and many more adults' appear in two videos made with cell phones in the Afghan village Azizabad after the raid. ](/news/2008/09/8/the-us-military-is-to-review-an-inquiry-into-an-air-raid-on-a-village-in-herat-province-afghanistan-after-a-new-video-evidence-emerged.md) _Context: civilian_

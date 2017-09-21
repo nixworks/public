@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-11-20T103117Z_01_L20876778_RTRUKOC_0_US-GERMANY-SCHOOL.xml)
 2. [{{de icon}} (WDR](http://www.wdr.de/themen/panorama/21/schule_emsdetten/index.jhtml)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Weather Underground](https://www.wunderground.com/news/winter-storm-argos-impacts-latest-news?__prclt=GufGpi6X)
+1. [Cover Image](https://dsx.weather.com//util/image/w/cxka-zjusaalw52.jpg?v=at&w=73&h=49&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0)
 
 ### Related:
 

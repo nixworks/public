@@ -8,6 +8,7 @@ A House Republican is working to write a bill that, if passed, would completely 
 ### Source:
 
 1. [The Hill](http://thehill.com/policy/energy-environment/317203-lawmaker-to-propose-abolishing-epa)
+1. [Cover Image](http://thehill.com/sites/default/files/blogs/haze_coal_plant_utah_537940846.jpg)
 
 ### Related:
 

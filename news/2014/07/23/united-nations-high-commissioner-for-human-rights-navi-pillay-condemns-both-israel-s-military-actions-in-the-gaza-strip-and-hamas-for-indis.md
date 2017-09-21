@@ -11,6 +11,7 @@ UN human rights chief Navi Pillay says Israel may have committed war crimes in t
 2. [ESPN](http://www.espnfc.com/league-name/story/1958466/headline)
 3. [Huffington Post](http://www.huffingtonpost.co.uk/2014/07/22/france-jewish-shops-riot_n_5608612.html)
 4. [YNet](http://www.ynetnews.com/articles/0,7340,L-4549051,00.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76460000/jpg/_76460391_76460390.jpg)
 
 ### Related:
 

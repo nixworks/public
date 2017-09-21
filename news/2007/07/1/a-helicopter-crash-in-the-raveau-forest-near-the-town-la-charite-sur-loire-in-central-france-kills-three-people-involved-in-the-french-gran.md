@@ -8,6 +8,7 @@ A helicopter carrying people involved in the F1 French Grand Prix auto race has 
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/01/1966799.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iraqi Prime Minister Nouri al-Maliki has called for the senior leaders from Iraq
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/13/2002935.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/637922-1x1-700x700.jpg)
 
 ### Related:
 

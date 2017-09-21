@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/business/industries/208-infrastructure/117494-philipines-china-aiib-asian-infrastructure-investment-bank)
+1. [Cover Image](http://assets.rappler.com/5AFDD9D7878D4A329841646CFE614F26/img/CE975D3B51CC405FBF782E433A75FC39/epa-20141024-aiib-signing-001-640.jpg)
 
 ### Related:
 

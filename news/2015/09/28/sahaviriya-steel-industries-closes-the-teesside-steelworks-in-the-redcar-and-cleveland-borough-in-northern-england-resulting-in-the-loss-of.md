@@ -8,6 +8,7 @@ Iron and steel production at the SSI plant in the north-east of England is to be
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-34377756)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/177C6/production/_85789169_ssi.jpg)
 
 ### Related:
 

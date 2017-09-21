@@ -27,3 +27,4 @@ The conflict may be over, but not the war of words. Moscow claims some Western n
 18. [The New York Times](http://www.nytimes.com/2008/08/16/world/europe/16georgia.html)
 19. [The Times](http://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article4525885.ece)
 20. [USA Today](http://www.usatoday.com/news/world/2008-08-15-bush-georgia_N.htm)
+20. [Cover Image](https://i.ytimg.com/vi/KEijEa8KZ0w/hqdefault.jpg)

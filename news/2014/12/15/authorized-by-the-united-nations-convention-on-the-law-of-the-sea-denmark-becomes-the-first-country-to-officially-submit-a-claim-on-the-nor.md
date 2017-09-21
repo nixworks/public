@@ -8,6 +8,7 @@ Denmark filed an official claim on the North Pole, making it the first country t
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2014/12/15/Denmark-files-first-official-claim-on-North-Pole/7551418671808/?r=83761289833346)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/7551418671808/2014/1/14186733797742/v2.1/Denmark-files-first-official-claim-on-North-Pole.jpg)
 
 ### Related:
 

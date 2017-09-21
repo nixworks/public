@@ -10,6 +10,7 @@
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/mar/08/ivory-coast-troops-open-fire-civilians?CMP=twt_fd)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12682492)
 3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/4-killed-in-Ivory-Coast-after-hundreds-protest/articleshow/7659146.cms)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

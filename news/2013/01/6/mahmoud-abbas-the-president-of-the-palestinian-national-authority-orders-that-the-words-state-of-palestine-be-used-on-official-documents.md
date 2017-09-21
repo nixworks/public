@@ -8,6 +8,7 @@ Palestinian President Mahmoud Abbas tells West Bank officials to prepare to put 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20929367)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65103000/jpg/_65103163_65103162.jpg)
 
 ### Related:
 

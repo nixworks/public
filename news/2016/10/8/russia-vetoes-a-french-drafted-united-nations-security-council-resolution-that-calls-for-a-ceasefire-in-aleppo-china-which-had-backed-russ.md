@@ -8,6 +8,7 @@ Russia has vetoed a U.N. resolution on Syria for the fifth time since the confli
 ### Source:
 
 1. [NBC News/Reuters](http://www.nbcnews.com/storyline/syria-peace-talks/russia-vetoes-u-n-demand-end-bombing-syria-s-aleppo-n662511)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_40/1738906/161006-syria-destruction-jsw-742a_c5b7b7236efb8fdd45b27b5f1090eac3.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

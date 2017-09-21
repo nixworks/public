@@ -8,6 +8,7 @@ Mali has lifted its state of emergency to allow campaigning for a presidential e
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/07/06/uk-mali-security-idUKBRE96505420130706)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130706&t=2&i=748115313&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9650VRC00)
 
 ### Related:
 

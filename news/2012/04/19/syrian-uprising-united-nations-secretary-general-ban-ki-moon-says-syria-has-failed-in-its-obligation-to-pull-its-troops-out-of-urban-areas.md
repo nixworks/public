@@ -10,6 +10,7 @@ UN Secretary General Ban Ki-moon says Syria has failed to comply with a peace pl
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/2012419142047543442.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17765654)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-17766536)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59736000/jpg/_59736236_014543116-1.jpg)
 
 ### Related:
 

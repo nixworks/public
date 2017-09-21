@@ -8,6 +8,7 @@ Russia is constructing hundreds of military buildings on two of the disputed Kur
 ### Source:
 
 1. [The Japan Times](http://www.japantimes.co.jp/news/2015/12/02/national/politics-diplomacy/russia-expanding-military-presence-disputed-kuril-islands/#.Vl8KJL-oNFQ)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2015/12/n-russia-a-20151203-870x576.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former Swiss banker passes on details of alleged tax evasion by politicians, cel
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201111716474682302.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/17/201111718212683427_20.jpg)
 
 ### Related:
 

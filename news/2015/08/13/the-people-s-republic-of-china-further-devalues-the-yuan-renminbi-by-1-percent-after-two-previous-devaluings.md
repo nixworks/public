@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-33899735)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/2283/production/_84853880_nikkeiafpbike.jpg)
 
 ### Related:
 

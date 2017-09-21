@@ -10,6 +10,7 @@ A suicide bomber in an explosive-laden car rammed into a police station in Pesha
 1. [AFP via France 24](http://www.france24.com/en/20110525-suicide-bomb-kills-four-pakistan-police-station#)
 2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110525/wl_asia_afp/pakistanunrest)
 3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/25/pakistan.violence/index.html)
+3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/25/pakistan.violence/tzvids.pakistan.blast.gi.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former rugby league star Craig Field is found guilty of killing a man outside a 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-12-09/ex-league-star-craig-field-guilty-of-manslaughter/5955040)
+1. [Cover Image](http://www.abc.net.au/news/image/5899102-1x1-700x700.jpg)
 
 ### Related:
 

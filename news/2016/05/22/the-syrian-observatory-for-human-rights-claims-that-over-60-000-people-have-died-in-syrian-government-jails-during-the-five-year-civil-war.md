@@ -8,6 +8,7 @@ A monitoring group has said that at least 60,000 people have died in Syrian gove
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-detainees-idUSKCN0YD084)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160522&t=2&i=1138233687&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4L07L)
 
 ### Related:
 

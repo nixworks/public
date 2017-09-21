@@ -8,6 +8,7 @@ MP Patrick Mercer resigns the Tory whip to &quot;save my party embarrassment&quo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-22727903)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67915000/jpg/_67915530_mercer768x432_bbc.jpg)
 
 ### Related:
 

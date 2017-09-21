@@ -10,6 +10,7 @@ An Israeli rabbi says the world would be better without Palestinian leader Mahmo
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11127409)
 2. [Haaretz](http://www.haaretz.com/blogs/a-special-place-in-hell/a-special-place-in-hell-celebrate-jewish-new-year-with-a-de-occupation-seder-1.311068)
 3. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Palestinians-should-perish-from-this-world-Ovadia-Yosef/articleshow/6456799.cms)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

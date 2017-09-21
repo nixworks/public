@@ -9,6 +9,7 @@ At least 28 people have died and 40 are injured after two passenger trains derai
 
 1. [NDTV](http://www.ndtv.com/cheat-sheet/two-passenger-trains-derail-in-madhya-pradesh-5-bogies-fall-in-river-1203957)
 2. [Reuters via MSN](http://www.msn.com/en-us/news/world/india-floods-derail-two-trains-killing-at-least-20/ar-BBlpipv?ocid=spartandhp)
+2. [Cover Image](http://i.ndtvimg.com/i/2015-08/madhya-pradesh-trains-derail_240x180_71438756608.jpg)
 
 ### Related:
 

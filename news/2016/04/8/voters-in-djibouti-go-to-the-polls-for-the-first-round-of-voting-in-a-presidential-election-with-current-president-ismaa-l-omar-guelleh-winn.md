@@ -9,6 +9,7 @@
 
 1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3530921/Djibouti-President-elected-PM.html)
 2. [BBC](http://www.bbc.com/news/world-africa-35971744)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/11076/production/_89105796_airbase_dji_get.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iran agreed to open its newly revealed nuclear plant to inspectors and to send m
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/10/02/world/middleeast/02nuke.html?ref=global-home)
+1. [Cover Image](https://static01.nyt.com/images/2009/10/01/world/01nuke-75.jpg)
 
 ### Related:
 

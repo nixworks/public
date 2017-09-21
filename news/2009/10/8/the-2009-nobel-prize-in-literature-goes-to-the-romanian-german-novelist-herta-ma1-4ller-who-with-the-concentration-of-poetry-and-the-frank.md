@@ -12,6 +12,7 @@ comentarii, Romanian-born German writer Herta Muller won this year&#039;s Nobel 
 3. [Realitatea](http://www.realitatea.net/nobel-prize-in-literature-won-by-romanian-born-writer-herta-muller_636207.html)
 4. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26185837-12377,00.html)
 5. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article6866020.ece)
+5. [Cover Image](https://media.realitatea.net/multimedia/image/200910/full/image_125501935549428700_1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An overcrowded tourist boat carrying Muslim pilgrims was being piloted recklessl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-thailand-boat-idUSKCN11O0HP)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160919&t=2&i=1154055712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8I08R)
 
 ### Related:
 

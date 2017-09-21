@@ -8,6 +8,7 @@ Uruguayan president Tabare Vazquez called for an integrated Mercosur with a grea
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/18/uruguayan-president-calls-for-stronger-and-more-balanced-mercosur)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21965/200x200/b90e92d7b5b485a4dec4bd14a63e9f72.jpg)
 
 ### Related:
 

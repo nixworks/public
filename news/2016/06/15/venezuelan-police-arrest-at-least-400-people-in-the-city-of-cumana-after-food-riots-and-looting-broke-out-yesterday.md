@@ -8,6 +8,7 @@ Venezuelan security forces have arrested at least 400 people after the latest bo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-venezuela-violence-idUSKCN0Z11WW)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160615&t=2&i=1141513374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5E10U)
 
 ### Related:
 

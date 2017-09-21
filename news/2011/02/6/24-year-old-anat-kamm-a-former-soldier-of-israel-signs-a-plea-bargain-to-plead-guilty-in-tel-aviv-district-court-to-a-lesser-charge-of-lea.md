@@ -11,6 +11,7 @@ A former Israeli soldier admits leaking secret military information to a newspap
 2. [CP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5jiIZ8ycojqrzwZolOrO8eD0Xdndw?docId=5869980)
 3. [Reuters](http://in.reuters.com/article/2011/02/06/idINIndia-54688620110206)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/feb/06/israeli-soldier-anat-kam-faces-prison)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

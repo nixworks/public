@@ -10,6 +10,7 @@ The big winners for the 73rd Golden Globes were &quot;The Revenant,&quot; &quot;
 1. [AP](http://bigstory.ap.org/article/f42e8000148743ec96945f790865ec3c/golden-globes-should-provide-traction-oscar-race)
 2. [Los Angeles Times](http://www.latimes.com/entertainment/la-et-golden-globes-updates-htmlstory.html)
 3. [Variety](http://variety.com/2016/film/news/golden-globes-live-blog-2016-1201676284/)
+3. [Cover Image](http://www.trbimg.com/img-56906371/turbine/la-et-golden-globes-updates)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10861061)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_Southern&set_id=1&click_id=84&art_id=nw20100803194446768C364406)
 3. [News24](http://www.news24.com/Africa/Zimbabwe/Diplomats-slammed-for-walk-out-20100803)
+3. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

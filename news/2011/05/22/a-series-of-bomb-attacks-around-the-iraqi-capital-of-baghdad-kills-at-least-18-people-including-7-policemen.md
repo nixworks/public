@@ -8,6 +8,7 @@ More than a dozen bomb attacks in and around Baghdad left 18 people dead and mor
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2011/05/22/3223580.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

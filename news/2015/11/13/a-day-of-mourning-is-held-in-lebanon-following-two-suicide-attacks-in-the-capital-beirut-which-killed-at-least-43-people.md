@@ -8,6 +8,7 @@ Twin explosions in the capital kill at least 43 people with ISIL claiming respon
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/11/isil-claims-suicide-bombings-southern-beirut-151112193802793.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/11/13/5a18ad870dd64768be6226dabf67e387_18.jpg)
 
 ### Related:
 

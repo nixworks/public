@@ -11,6 +11,7 @@ Iran expresses &quot;regret&quot; after protesters force their way into the UK e
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-15936213)
 3. [CNN-IBN](http://ibnlive.in.com/news/unsc-condemns-attack-on-british-embassy/207066-2.html)
 4. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/11/-iranian-students-break-into-british-embassy-in-tehran/1?csp=34news)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57008000/jpg/_57008192_013416074-1.jpg)
 
 ### Related:
 

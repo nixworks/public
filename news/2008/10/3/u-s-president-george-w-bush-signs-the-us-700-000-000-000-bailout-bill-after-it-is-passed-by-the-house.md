@@ -8,6 +8,7 @@ President Bush signed a $700 billion financial bailout package Friday, shortly a
 ### Source:
 
 1. [NPR News](http://www.npr.org/templates/story/story.php?storyId=95336601&ft=1&f=1003)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

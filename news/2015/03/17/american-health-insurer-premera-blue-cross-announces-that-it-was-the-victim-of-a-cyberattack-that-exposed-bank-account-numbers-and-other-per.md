@@ -8,3 +8,4 @@ Health insurer Premera Blue Cross said on Tuesday it was a victim of a cyberatta
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/17/us-cyberattack-premera-idUSKBN0MD2FF20150317)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

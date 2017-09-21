@@ -10,6 +10,7 @@
 1. [Rue 89](http://www.rue89.com/2007/09/05/une-fausse-interview-dobama-dans-politique-internationale)
 2. [Rue 89](http://www.rue89.com/2007/09/13/apres-la-fausse-interview-dobama-celle-de-greenspan)
 3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/09/12/AR2007091202333.html?sub=AR)
+3. [Cover Image](http://referentiel.nouvelobs.com/logos/og/logo-nobstr.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Greek&#x20;unions&#x20;called&#x20;for&#x20;a&#x20;24-hour&#x20;general&#x20;str
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20130613-greece-ert-unions-strike-shut-down-government-crisis)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/greece-m_6.jpg)
 
 ### Related:
 

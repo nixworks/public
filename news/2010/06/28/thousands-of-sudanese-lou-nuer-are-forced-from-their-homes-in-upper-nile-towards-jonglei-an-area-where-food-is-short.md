@@ -8,6 +8,7 @@ Thousands of Sudanese forced from their homes are heading for an area already se
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10441530.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

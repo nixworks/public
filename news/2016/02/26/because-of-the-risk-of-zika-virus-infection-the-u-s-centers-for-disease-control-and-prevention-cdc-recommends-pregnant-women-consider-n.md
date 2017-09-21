@@ -9,6 +9,7 @@ Pregnant women should consider not traveling to the 2016 Olympic Games in Brazil
 
 1. [CDC](http://wwwnc.cdc.gov/travel/notices/alert/2016-summer-olympics-rio)
 2. [Reuters](http://www.reuters.com/article/us-health-zika-olympics-idUSKCN0VZ32K)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160227&t=2&i=1120648833&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1Q001)
 
 ### Related:
 

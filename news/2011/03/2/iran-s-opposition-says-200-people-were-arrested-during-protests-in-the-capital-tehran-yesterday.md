@@ -8,6 +8,7 @@ Iranian opposition groups say more than 200 people were arrested on Tuesday whil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12625798)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

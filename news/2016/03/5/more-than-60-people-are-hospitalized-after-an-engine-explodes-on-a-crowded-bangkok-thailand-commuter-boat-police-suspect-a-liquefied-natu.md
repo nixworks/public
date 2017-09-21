@@ -9,6 +9,7 @@ An initial police investigation suggested the blast was caused by a fuel leak ab
 
 1. [AP](http://bigstory.ap.org/article/184862c9cda348698949d60f936f2bcd/blast-bangkok-river-taxi-injures-several-dozen)
 2. [International Business Times](http://www.ibtimes.com/thailand-ferry-explosion-injures-more-60-cause-blast-unclear-2330732)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/03/05/thai-commuter-boat-blast.jpg)
 
 ### Related:
 

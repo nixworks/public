@@ -9,6 +9,7 @@ Germany will pay $5,000 each to the families of people killed or injured in an a
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10891695)
 2. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,710439,00.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

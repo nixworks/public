@@ -8,6 +8,7 @@ A French court jails former Rwandan spy chief Pascal Simbikangwa for 25 years fo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-26587816)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72737000/jpg/_72737131_simbikangwa.jpg)
 
 ### Related:
 

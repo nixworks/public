@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21394031)
 2. [Tunisia Live](http://www.tunisia-live.net/2013/02/09/tunisian-pm-reaffirms-commitment-to-technocratic-government/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65798000/jpg/_65798861_jebali.jpg)
 
 ### Related:
 

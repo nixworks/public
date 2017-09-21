@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2015/09/14/russia-shipping-tanks-into-syria-in-first-clear-sign-offensive-weapons/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/2015/09/12/0/0/091215_anhq_russia_640.jpg?ve=1)
 
 ### Related:
 

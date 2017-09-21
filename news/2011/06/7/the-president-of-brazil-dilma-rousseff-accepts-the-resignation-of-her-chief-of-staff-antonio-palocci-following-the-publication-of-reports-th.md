@@ -8,6 +8,7 @@ Brazilian President DilmaRousseff has accepted the resignation of her chief of s
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/07/brazil-politics-palocci-idUSN0716906220110607)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

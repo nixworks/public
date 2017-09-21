@@ -9,6 +9,7 @@ A policeman and three paramilitary soldiers were killed when gunmen opened fire 
 
 1. [FOX News](http://www.foxnews.com/world/2016/11/20/is-claims-deadly-attack-on-pakistani-security-forces.html)
 2. [Live Mint](http://www.livemint.com/Politics/9tKrJPCgDEV9l4A3pVJBWK/Two-killed-in-militant-attack-in-Quetta-officials.html)
+2. [Cover Image](http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2016/11/21/Photos/Processed/Pakistanbomb-kpkH--621x414@LiveMint.jpg)
 
 ### Related:
 

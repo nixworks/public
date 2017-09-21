@@ -8,6 +8,7 @@ Voters will head to the polls today in a historic consultative referendum on div
 ### Source:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20110528/local/Malta-votes-on-divorce-today.367676)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/default-article-image.png)
 
 ### Related:
 

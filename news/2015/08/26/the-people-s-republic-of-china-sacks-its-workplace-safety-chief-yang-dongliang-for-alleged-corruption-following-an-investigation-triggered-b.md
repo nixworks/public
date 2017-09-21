@@ -8,6 +8,7 @@ China has sacked the head of its work safety regulator for suspected corruption,
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/26/us-china-blast-corruption-idUSKCN0QV15T20150826?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150826&t=2&i=1074654085&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7P0HZ)
 
 ### Related:
 

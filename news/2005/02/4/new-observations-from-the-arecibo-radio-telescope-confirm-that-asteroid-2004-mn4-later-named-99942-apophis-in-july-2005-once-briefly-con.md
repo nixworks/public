@@ -8,6 +8,7 @@ An asteroid expected to fly past Earth in 2029 inside the orbits of some satelli
 ### Source:
 
 1. [Space.com](http://www.space.com/spacewatch/050204_2004_mn4.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwMC84NTIvb3JpZ2luYWwvMDUwMjA0XzIwMDRfbW40XzAyLmdpZg==)
 
 ### Related:
 

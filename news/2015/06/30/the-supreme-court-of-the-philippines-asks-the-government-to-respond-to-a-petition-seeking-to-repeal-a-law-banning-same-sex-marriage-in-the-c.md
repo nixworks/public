@@ -8,6 +8,7 @@ The Supreme Court en banc asks the Civil Registrar to respond to a petition file
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/97941-respond-same-sex-marriage-petition-supreme-court)
+1. [Cover Image](https://assets.rappler.com/5FBFD310A5D745F39B973D9D41D61EC2/img/920B3B2B3D6F4136A550D64C6465E80B/GPMoya_LGBT_MassWedding_20150628-14.jpg)
 
 ### Related:
 

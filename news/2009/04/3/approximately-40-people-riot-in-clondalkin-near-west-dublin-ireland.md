@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Evening Herald](http://www.herald.ie/national-news/city-news/dublin-riot-brought-under-control-1697869.html)
+1. [Cover Image](http://www.herald.ie/migration_catalog/article25346861.ece/ALTERNATES/h342/0906_garda_h)
 
 ### Related:
 

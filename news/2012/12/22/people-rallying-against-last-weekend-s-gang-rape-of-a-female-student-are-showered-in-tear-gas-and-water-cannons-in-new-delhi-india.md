@@ -9,6 +9,7 @@ Indian police use tear gas, water cannon and batons to disperse protesters march
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/12/2012122271026583563.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-india-20826070)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64915000/jpg/_64915532_64915531.jpg)
 
 ### Related:
 

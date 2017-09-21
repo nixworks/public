@@ -8,3 +8,4 @@ A car bomb and a suicide bomber killed at least nine people and wounded 54 in no
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/11/23/uk-iraq-violence-idUKBRE9AM08J20131123)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

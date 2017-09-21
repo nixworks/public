@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [FENA](http://www.fena.ba/uk/vijest.html?fena_id=FSA232709&rubrika=ES)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7758133)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

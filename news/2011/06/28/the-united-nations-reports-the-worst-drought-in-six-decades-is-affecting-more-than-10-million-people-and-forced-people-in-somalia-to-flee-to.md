@@ -8,6 +8,7 @@ The UN says the worst drought in 60 years has forced Somalis to flee to Kenya an
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13944550)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53734000/jpg/_53734917_rs31647_img_0676_habiba_&amp;_ruwayda_(1mnth).jpg)
 
 ### Related:
 

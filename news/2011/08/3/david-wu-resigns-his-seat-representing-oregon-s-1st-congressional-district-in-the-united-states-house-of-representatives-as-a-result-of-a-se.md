@@ -8,6 +8,7 @@ Rep. David Wu resigns. Now Gov. John Kitzhaber can pick a date for the replaceme
 ### Source:
 
 1. [The Oregonian](http://www.oregonlive.com/politics/index.ssf/2011/08/do_not_publish_rep_david_wu_ma.html)
+1. [Cover Image](http://image.oregonlive.com/home/olive-media/width620/img/oregonian/photo/2011/03/9407592-standard.jpg)
 
 ### Related:
 

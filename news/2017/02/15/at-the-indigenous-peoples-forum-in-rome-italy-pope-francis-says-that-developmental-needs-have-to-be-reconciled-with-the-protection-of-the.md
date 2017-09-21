@@ -8,6 +8,7 @@ Pope Francis appeared on Wednesday to back Native Americans seeking to halt part
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-north-dakota-pipeline-pope-idUSKBN15U1VA)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170215&t=2&i=1172813637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1E117)
 
 ### Related:
 

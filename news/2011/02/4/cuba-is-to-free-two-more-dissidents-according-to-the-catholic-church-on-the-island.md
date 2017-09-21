@@ -8,6 +8,7 @@ The Cuban government has freed prominent political prisoner Guido Sigler, who ha
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12368275)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

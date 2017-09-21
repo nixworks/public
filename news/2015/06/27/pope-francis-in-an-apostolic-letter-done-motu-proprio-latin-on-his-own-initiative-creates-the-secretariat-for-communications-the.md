@@ -10,6 +10,7 @@ The Vatican&rsquo;s nine communications offices will soon be consolidated under 
 1. [Catholic News Agency](http://www.catholicnewsagency.com/news/pope-francis-creates-new-secretariat-overseeing-all-vatican-communications-10481/)
 2. [English translation of Vatican's text of the document](http://www.microsofttranslator.com/BV.aspx?ref=IE8Activity&a=http%3A%2F%2Fw2.vatican.va%2Fcontent%2Ffrancesco%2Fit%2Fmotu_proprio%2Fdocuments%2Fpapa-francesco-motu-proprio_20150627_segreteria-comunicazione.html)
 3. [English translation of the appointment](http://www.microsofttranslator.com/BV.aspx?ref=IE8Activity&a=http%3A%2F%2Fpress.vatican.va%2Fcontent%2Fsalastampa%2Fit%2Fbollettino%2Fpubblico%2F2015%2F06%2F27%2F0515%2F01129.html)
+3. [Cover Image](http://www.catholicnewsagency.com/images/A_view_of_St_Peters_Basilica_1_and_Vatican_City_flag_from_the_roof_of_a_nearby_building_on_June_5_2015_Credit_Bohumil_Petrik_CNA_6_5_15.jpg)
 
 ### Related:
 

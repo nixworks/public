@@ -11,6 +11,7 @@ The Smashing Pumpkins frontman Billy Corgan collapses onstage during a gig in Fl
 2. [CBS News](http://www.cbsnews.com/8301-31749_162-20011529-10391698.html)
 3. [CNN](http://edition.cnn.com/2010/SHOWBIZ/Music/07/23/smashing.pumpkins.ppl/index.html)
 4. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1297179/Smashing-Pumpkins-Billy-Corgan-collapses-stage.html?ITO=1490)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

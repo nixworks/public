@@ -8,6 +8,7 @@ At least 21 people killed and many more injured after fighters clash with Africa
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101117141044140607.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/14/201091423946852734_20.jpg)
 
 ### Related:
 

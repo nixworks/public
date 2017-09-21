@@ -8,6 +8,7 @@ THE US National Weather Service has warned planes to avoid airspace near an erup
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/world/breaking-news/us-planes-warned-to-avoid-alaska-volcano/story-e6frfkui-1227124623409)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

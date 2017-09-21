@@ -9,6 +9,7 @@ A man is arrested after two tourists are killed at the Egyptian resort of Hurgha
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/egypts-state-run-media-attack-kills-police-giza-48631936)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-40611921)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/7C6D/production/_96935813_gettyimages-102342266.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Italian police searches on Tuesday of more than 30 Italian soccer clubs includes
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/25/us-italy-soccer-probe-idUSBRE95O0B920130625)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

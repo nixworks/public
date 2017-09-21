@@ -8,6 +8,7 @@ Gambia has announced its withdrawal from the Commonwealth, barely six weeks befo
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/gambia/10351767/Gambia-to-leave-the-Commonwealth.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02468/Yahya-Jammeh_2468947k.jpg)
 
 ### Related:
 

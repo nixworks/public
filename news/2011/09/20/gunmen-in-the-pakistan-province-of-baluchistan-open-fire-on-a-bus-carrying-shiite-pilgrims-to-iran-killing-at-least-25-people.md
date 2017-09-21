@@ -8,6 +8,7 @@ Gunmen in Baluchistan Province attacked a bus carrying Shiite pilgrims to Iran, 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/09/21/world/asia/dozens-killed-in-attack-on-pilgrim-bus-in-pakistan.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

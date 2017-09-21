@@ -8,6 +8,7 @@ IT was a bad New Year Day for some over 1,000 Nigerian pilgrims performing the 2
 ### Source:
 
 1. [Vanguard](http://www.vanguardngr.com/2011/01/bomb-scare-israel-shuts-borders-against-1000-nigerian-pilgrims/)
+1. [Cover Image](http://www.vanguardngr.com/vangurad.png)
 
 ### Related:
 

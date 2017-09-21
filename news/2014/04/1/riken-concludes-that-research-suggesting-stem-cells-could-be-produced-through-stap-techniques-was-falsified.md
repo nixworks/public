@@ -8,6 +8,7 @@ A probe into possible “research misconduct” by the authors of two potentiall
 ### Source:
 
 1. [The Japan Times](http://www.japantimes.co.jp/news/2014/04/01/national/obokata-falsified-data-in-stap-papers-probe/)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2014/04/p1-riken-z-20140402-870x554.jpg)
 
 ### Related:
 

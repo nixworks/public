@@ -8,6 +8,7 @@ Former Russian Press Minister Mikhail Lesin, who was found dead in a Washington 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russia-mikhaillesin-idUSKCN0WC2W1?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160311&t=2&i=1123949634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2A01T)
 
 ### Related:
 

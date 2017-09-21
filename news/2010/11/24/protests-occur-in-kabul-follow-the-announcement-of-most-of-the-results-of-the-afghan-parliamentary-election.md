@@ -8,6 +8,7 @@ Afghan officials announced most of the long-delayed results from a September par
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6AN0UI20101124)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101124&t=2&i=256577431&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-24T145057Z_01_BTRE6AN0POQ00_RTROPTP_0_AFGHANISTAN-PROTEST)
 
 ### Related:
 

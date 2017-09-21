@@ -9,6 +9,7 @@ Jared L. Loughner rejected charges that he tried to kill Representative Gabriell
 
 1. [ABC News](http://abcnews.go.com/US/wireStory?id=12752579)
 2. [New York Times](http://www.nytimes.com/2011/01/25/us/25loughner.html?partner=rss&emc=rss)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

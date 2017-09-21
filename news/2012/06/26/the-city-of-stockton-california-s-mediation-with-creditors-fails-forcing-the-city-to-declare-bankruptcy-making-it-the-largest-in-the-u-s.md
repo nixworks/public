@@ -8,6 +8,7 @@ Stockton set to become the largest American city ever to declare bankruptcy.
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2012/06/26/stockton-set-to-become-largest-us-city-to-declare-bankruptcy/)
+1. [Cover Image](http://a57.foxnews.com/video.foxbusiness.com/thumbnails/040612/640/360/0/0/040612_fb_stockton3.jpg?ve=1)
 
 ### Related:
 

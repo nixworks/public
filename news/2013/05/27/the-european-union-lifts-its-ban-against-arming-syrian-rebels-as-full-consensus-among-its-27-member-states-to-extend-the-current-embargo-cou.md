@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22684948)
 2. [CNN](http://www.cnn.com/2013/05/27/world/meast/syria-civil-war/index.html?hpt=hp_t1)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67839000/jpg/_67839278_67839277.jpg)
 
 ### Related:
 

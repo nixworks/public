@@ -8,6 +8,7 @@ Rebel forces fail to take oil town of Brega after a fourth straight day of fight
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/20114354942249240.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/4/201144173528486965_20.jpg)
 
 ### Related:
 

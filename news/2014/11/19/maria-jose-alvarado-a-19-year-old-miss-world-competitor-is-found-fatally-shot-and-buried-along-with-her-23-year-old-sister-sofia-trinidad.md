@@ -8,6 +8,7 @@ The boyfriend of Maria Jose Alvarado&#039;s sister Sofia Trinidad is one of two 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1376297/missing-miss-honduras-police-find-bodies)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/miss-honduras-maria-jose-alvarado-1_3558369.jpg?20160705001954)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Nobel laureate, known for his fight for democracy and human rights, was suff
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-40597514)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/85D4/production/_96906243_mediaitem96906240.jpg)
 
 ### Related:
 

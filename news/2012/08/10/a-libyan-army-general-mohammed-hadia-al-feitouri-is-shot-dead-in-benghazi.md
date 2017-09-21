@@ -8,6 +8,7 @@ A top Libyan defence official is shot dead in the eastern city of Benghazi, in t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19220027)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62199000/gif/_62199660_libya_benghazi0812.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ WILLEMSTAD – The Supreme Electoral Council (SEC) held its first briefing today
 ### Source:
 
 1. [The Curaçao Chronicle](http://curacaochronicle.com/main/update-curacao-votes-2016/)
+1. [Cover Image](http://curacaochronicle.com/wp-content/uploads/2016/10/P1060868.jpg)
 
 ### Related:
 

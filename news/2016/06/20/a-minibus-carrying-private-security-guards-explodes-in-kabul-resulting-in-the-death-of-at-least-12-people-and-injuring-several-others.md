@@ -8,6 +8,7 @@ The guards, who were from Nepal, were in their way to work in the Banaee area of
 ### Source:
 
 1. [Reuters and NBC News](http://www.nbcnews.com/news/world/multiple-people-killed-minibus-explosion-kabul-afghanistan-n595341)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_24/1586246/160619-kabul-explosion_0613b7cd14d94a76b8134321bd959de7.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

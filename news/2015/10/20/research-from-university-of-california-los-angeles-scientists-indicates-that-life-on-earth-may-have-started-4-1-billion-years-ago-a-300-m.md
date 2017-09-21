@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Economic Times](http://economictimes.indiatimes.com/news/science/life-on-earth-may-have-started-4-1-billion-years-ago/articleshow/49464944.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-49464982,width-672,resizemode-4,imglength-243852/news/science/life-on-earth-may-have-started-4-1-billion-years-ago.jpg)
 
 ### Related:
 

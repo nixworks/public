@@ -8,6 +8,7 @@ German Chancellor Angela Merkel told Prime Minister David Cameron she did not su
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/27/us-britain-germany-merkel-eu-idUSBREA1Q12D20140227)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140227&t=2&i=849256683&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1Q107H00)
 
 ### Related:
 

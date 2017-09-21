@@ -8,6 +8,7 @@ British author and former University of Sydney lecturer Howard Jacobson has edge
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/entertainment/books/howard-jacobson-wins-man-booker-prize-20101013-16ia1.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/6/i/a/p/image.related.articleLeadwide.620x349.16ia1.png/1286930169997.jpg)
 
 ### Related:
 

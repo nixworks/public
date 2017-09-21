@@ -9,6 +9,7 @@
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2012/06/09/montreal-f1-protests-continue.html)
 2. [Radio-Canada](http://www.lapresse.ca/actualites/dossiers/conflit-etudiant/201206/09/01-4533389-haute-tension-au-centre-ville.php)
+2. [Cover Image](http://images.lpcdn.ca/435x290/201206/09/509997.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Greek police fired teargas atdozens of leftist demonstrators in the centre of At
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/11/greece-teargas-idUSLDE74A17320110511)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Engineers say they have developed a bone-like substance that can be created by 3
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-15963467)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57032000/jpg/_57032401_xray.jpg)
 
 ### Related:
 

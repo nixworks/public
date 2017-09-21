@@ -8,3 +8,4 @@ GITEX shopper was opened at the Dubai Airport Expo by Shaikh Majid bin Mohammad 
 ### Source:
 
 1. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle09.asp?xfile=data/theuae/2010/October/theuae_October391.xml&section=theuae)
+1. [Cover Image](http://www.khaleejtimes.com/images/default/default_490x276.jpg)

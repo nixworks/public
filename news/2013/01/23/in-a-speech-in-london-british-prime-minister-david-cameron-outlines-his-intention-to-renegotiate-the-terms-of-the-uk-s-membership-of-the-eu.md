@@ -10,6 +10,7 @@
 1. [AP](http://bigstory.ap.org/article/cameron-propose-vote-eu-relationship-0)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-21170265)
 3. [The Guardian](http://www.guardian.co.uk/politics/2013/jan/23/david-cameron-uk-exemption-eu)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65467000/jpg/_65467298_65467297.jpg)
 
 ### Related:
 

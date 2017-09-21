@@ -8,6 +8,7 @@ A BRITISH judge has ordered Julian Assange to be extradited to Sweden to face se
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/assange-to-appeal-extradition-order/story-e6frfku0-1226011720300)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

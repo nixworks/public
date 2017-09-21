@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/raoul-wallenberg-to-be-officially-declared-dead-by-sweden/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/08/raoulbig.jpg)
 
 ### Related:
 

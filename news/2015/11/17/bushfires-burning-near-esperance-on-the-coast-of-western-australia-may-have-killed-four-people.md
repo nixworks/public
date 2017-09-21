@@ -8,6 +8,7 @@ Three German backpackers and a WA farmer are believed dead after becoming trappe
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2015-11-18/up-to-four-people-believed-dead-in-wa-bushfires/6950142)
+1. [Cover Image](http://www.abc.net.au/news/image/6950694-1x1-700x700.jpg)
 
 ### Related:
 

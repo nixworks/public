@@ -9,6 +9,7 @@ The Calbuco volcano in southern Chile erupted on Wednesday, forcing the governme
 
 1. [Reuters via Yahoo! Canada](https://ca.news.yahoo.com/volcano-erupts-southern-chile-sending-ash-smoke-miles-213237521.html)
 2. [Wall Street Journal](http://www.wsj.com/articles/chiles-calbuco-volcano-erupts-forcing-evacuation-of-4-000-residents-1429759757)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-IA829_0422vo_G_20150422221027.jpg)
 
 ### Related:
 

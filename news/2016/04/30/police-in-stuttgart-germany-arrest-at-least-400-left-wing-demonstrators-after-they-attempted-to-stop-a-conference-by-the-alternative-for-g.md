@@ -8,6 +8,7 @@ Riot police use pepper spray to disperse activists blocking entrance to Alternat
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/30/german-police-arrest-400-protesters-outside-far-right-party-meeting)
+1. [Cover Image](https://i.guim.co.uk/img/media/bcf9d02e43b66326cb2b9306d83894a5f86c9738/0_0_3983_2390/3983.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d64df6789b9c2d14ba082625f367d544)
 
 ### Related:
 

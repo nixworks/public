@@ -12,6 +12,7 @@
 3. [Democracy Now](http://www.democracynow.org/2012/5/11/headlines/pentagon_course_taught_total_war_against_islam)
 4. [San Francisco Gate](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/05/10/MN931OGF4H.DTL)
 5. [Wired](http://www.wired.com/dangerroom/2012/05/dempsey-islam-irresponsible/)
+5. [Cover Image](http://www.sfgate.com/img/pages/article/opengraph_default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Cyprus President Nicos Anastasiades says the island will not leave the euro, as 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21973809)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66665000/jpg/_66665778_66665777.jpg)
 
 ### Related:
 

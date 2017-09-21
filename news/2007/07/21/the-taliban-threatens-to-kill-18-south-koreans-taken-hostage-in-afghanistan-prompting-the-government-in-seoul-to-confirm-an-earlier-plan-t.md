@@ -11,6 +11,7 @@ Afghan Taliban rebels killed the second of two German hostages on Saturday after
 2. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/07/21/afghan.kidnappings/index.html)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSISL14081120070721?feedType=RSS)
 4. [Reuters](http://www.reuters.com/article/topNews/idUSSP14402720070721?feedType=RSS)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A federal judge sentenced a key player in a decade-long scheme to evade federal 
 
 1. [Reuters](https://www.reuters.com/article/us-volkswagen-emissions-sentencing-idUSKCN1B51YP)
 2. [The New York Times](https://www.nytimes.com/2017/08/25/business/volkswagen-engineer-prison-diesel-cheating.html)
+2. [Cover Image](https://static01.nyt.com/images/2017/08/26/business/26volkswagen1/26volkswagen1-facebookJumbo.jpg)
 
 ### Related:
 

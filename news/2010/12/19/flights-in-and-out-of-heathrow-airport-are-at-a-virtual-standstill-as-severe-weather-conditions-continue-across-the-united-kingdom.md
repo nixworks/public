@@ -8,6 +8,7 @@ Severe disruption caused by freezing weather continues, as Heathrow cancels hund
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12034317)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

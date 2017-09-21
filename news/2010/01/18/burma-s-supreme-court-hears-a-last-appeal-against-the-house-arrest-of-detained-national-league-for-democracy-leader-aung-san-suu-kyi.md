@@ -10,6 +10,7 @@
 1. [ABS-CBN News](http://www.abs-cbnnews.com/world/01/18/10/suu-kyi-lawyers-give-final-appeal-arguments)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011873558889466.html)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8464783.stm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

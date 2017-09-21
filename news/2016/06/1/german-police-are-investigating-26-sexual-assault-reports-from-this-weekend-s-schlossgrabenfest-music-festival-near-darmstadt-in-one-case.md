@@ -10,6 +10,7 @@ Darmstadt, Germany, police are seeking suspects after 26 women filed sexual assa
 1. [ (UPI](http://www.upi.com/Top_News/World-News/2016/06/01/26-sexual-assaults-reported-at-German-music-festival/8501464777574/)
 2. [CNN](http://www.cnn.com/2016/06/01/europe/germany-concert-sex-assaults/)
 3. [The Independent](http://www.independent.co.uk/news/world/europe/germany-sexual-assault-music-festival-cologne-darmstadt-a7057416.html)
+3. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/8501464777574/2016/1/14647794873883/v2.1/26-sexual-assaults-reported-at-German-music-festival.jpg)
 
 ### Related:
 

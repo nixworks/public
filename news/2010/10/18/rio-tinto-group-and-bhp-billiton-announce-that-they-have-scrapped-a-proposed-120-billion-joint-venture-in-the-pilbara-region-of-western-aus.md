@@ -8,6 +8,7 @@ Rio Tinto and BHP Billiton announce they have scrapped plans for their $120b iro
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/stories/2010/10/18/3040759.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/421854-1x1-700x700.jpg)
 
 ### Related:
 

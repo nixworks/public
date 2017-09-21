@@ -8,6 +8,7 @@ China and Norway signed a pact on Friday to resume free trade negotiations, mark
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-china-norway-idUSKBN1791VI?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170407&t=2&i=1179776393&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED360V4)
 
 ### Related:
 

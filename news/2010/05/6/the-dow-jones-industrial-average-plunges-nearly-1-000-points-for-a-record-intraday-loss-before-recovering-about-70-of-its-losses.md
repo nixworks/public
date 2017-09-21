@@ -10,6 +10,7 @@ Stocks plunged 9 percent in the last two hours of trading on Thursday before cla
 1. [CNBC](http://www.cnbc.com/id/36999483)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6341EA20100506)
 3. [The Wall Street Journal](http://blogs.wsj.com/deals/2010/05/06/four-mega-drops-of-the-flash-crash-sam-adams-goes-flat/)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100506&t=2&i=103185516&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-05-06T232913Z_01_BTRE6451LQX00_RTROPTP_0_MARKETS-STOCKSNEWS)
 
 ### Related:
 

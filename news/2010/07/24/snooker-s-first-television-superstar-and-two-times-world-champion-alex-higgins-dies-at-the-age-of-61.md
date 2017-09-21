@@ -13,6 +13,7 @@ Alex Higgins&rsquo; contribution to snooker can be measured in many ways &ndash;
 4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/snooker/7908747/Alex-Higginss-popularity-down-to-rare-magnetism-says-Steve-Davis.html)
 5. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/25/alex-higgins-dies-aged-61)
 6. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10661101)
+6. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01685/Alex_Higgins_1685100a.jpg)
 
 ### Related:
 

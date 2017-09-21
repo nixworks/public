@@ -9,6 +9,7 @@ min Park and Sue-Lin Wong
 
 1. [ABC News](http://www.abc.net.au/news/2017-04-16/north-korea-attempts-but-fails-to-launch-missile-south-korea-say/8446418)
 2. [Reuters](http://www.reuters.com/article/us-northkorea-usa-missile-idUSKBN17H0NL)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170416&t=2&i=1180765704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3F01I)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Senior statesman dies after suffering a stroke two weeks ago.
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37515057)
 2. [The Jerusalem Post](http://www.jpost.com/Israel-News/Former-President-Peres-dies-at-93-467659)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=354456)
 
 ### Related:
 

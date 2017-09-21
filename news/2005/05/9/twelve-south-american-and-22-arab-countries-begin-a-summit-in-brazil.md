@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [Arabic News](http://www.arabicnews.com/ansub/Daily/Day/050509/2005050920.html)
 3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=acjRcP6sMGNY&refer=latin_america)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8432204)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

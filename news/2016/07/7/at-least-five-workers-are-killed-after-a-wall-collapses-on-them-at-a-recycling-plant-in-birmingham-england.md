@@ -8,6 +8,7 @@ Five men are killed when a wall collapses at a recycling site in the Nechells ar
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-36736571)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FB2E/production/_90320346_policeatscene1.jpg)
 
 ### Related:
 

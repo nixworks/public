@@ -11,6 +11,7 @@ Passover terror attack: Huge explosion rattles shawarma stand at old central bus
 2. [CNN](http://www.cnn.com/2006/WORLD/meast/04/17/telaviv.blast/index.html)
 3. [Haaretz](http://www.haaretz.com/hasen/spages/706785.html)
 4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3240687,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

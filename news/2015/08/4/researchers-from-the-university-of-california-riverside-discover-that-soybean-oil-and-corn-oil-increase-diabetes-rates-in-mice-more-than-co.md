@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UCR Today](http://ucrtoday.ucr.edu/30416)
+1. [Cover Image](https://ucrtoday.ucr.edu/wp-content/uploads/2015/07/soy-illustration-0716.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Indian and Pakistani troops are continuing to trade heavy gunfire and mortar rou
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/08/16/8-killed-as-indian-pakistani-troops-trade-fire-and-blame-in-troubled-kashmir/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/08/16/8-killed-as-indian-pakistani-troops-trade-fire-and-blame-in-troubled-kashmir/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1439715744346.jpg?ve=1)
 
 ### Related:
 

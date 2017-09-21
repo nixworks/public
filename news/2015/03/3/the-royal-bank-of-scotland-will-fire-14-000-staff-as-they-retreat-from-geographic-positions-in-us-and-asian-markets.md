@@ -8,6 +8,7 @@ Ross McEwan wants to focus bailed-out bank on UK and reduce presence to 13 count
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/2015/mar/03/rbs-could-cut-14000-staff-us-asia-ross-mcewan)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/3/3/1425411462470/e1d1600a-2f7c-4a00-84ef-2e5205a9b5a0-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=e47c18fdd0dc2ec2547050593f407558)
 
 ### Related:
 

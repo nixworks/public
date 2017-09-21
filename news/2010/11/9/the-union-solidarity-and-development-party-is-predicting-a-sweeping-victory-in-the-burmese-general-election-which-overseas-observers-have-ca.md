@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6A600V20101109)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20101107&t=2&i=243671588&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-07T140141Z_01_BTRE6A612YY00_RTROPTP_0_MYANMAR-ELECTION)
 
 ### Related:
 

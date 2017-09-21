@@ -9,6 +9,7 @@ Indian shelling across the frontier into Pakistani-controlled Kashmir hit a bus,
 
 1. [Reuters](http://in.reuters.com/article/pakistan-india-kashmir-idINKBN13I0I2)
 2. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/deadly-clashes-in-kashmir-as-india-pakistan-tensions-deepen/2016/11/23/2b0a6533-2a18-495f-85ae-5dc06c287655_story.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

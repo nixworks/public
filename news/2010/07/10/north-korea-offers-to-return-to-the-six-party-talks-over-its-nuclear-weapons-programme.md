@@ -10,6 +10,7 @@ Pyongyang says it is will restart disarmament talks as UN condemns South Korea s
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h-a3_LT863Iii1hD_gT65Bi888WAD9GS4G4G1)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/201071042951838719.html)
 3. [Arirang News](http://www.arirang.co.kr/News/News_View.asp?nseq=104799&code=Ne2&category=2)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

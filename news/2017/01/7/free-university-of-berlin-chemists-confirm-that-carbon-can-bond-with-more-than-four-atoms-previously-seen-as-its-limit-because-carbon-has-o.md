@@ -9,6 +9,7 @@ This molecule doesn&#039;t play by the rules.
 
 1. [ (ZME Science](https://www.zmescience.com/science/news-science/carbon-six-bond-molecule/)
 2. [Science News](https://www.sciencenews.org/article/carbon-can-exceed-four-bond-limit)
+2. [Cover Image](http://cdn.zmescience.com/wp-content/uploads/2017/01/010417_LH_carbon-bonds_inline.png)
 
 ### Related:
 

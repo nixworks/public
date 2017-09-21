@@ -14,6 +14,7 @@ Interfax reported that Kyrgyz President Akayev had fled the country with this fa
 5. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5474204&startrow=1&date=2005-03-24&do_alert=0)
 6. [ReutersAlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/bbc5564933da930d7edbbcbdd8b4e4bc.htm)
 7. [Xinhua](http://news.xinhuanet.com/english/2005-03/25/content_2740426.htm)
+7. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

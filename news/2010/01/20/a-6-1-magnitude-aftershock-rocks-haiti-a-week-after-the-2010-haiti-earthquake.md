@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8469800.stm)
 2. [CBC](http://www.cbc.ca/world/story/2010/01/20/haiti-earthquake.html)
+2. [Cover Image](https://i.cbc.ca/1.2081937.1381981106!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-haiti-marines-cp-7974597.jpg)
 
 ### Related:
 

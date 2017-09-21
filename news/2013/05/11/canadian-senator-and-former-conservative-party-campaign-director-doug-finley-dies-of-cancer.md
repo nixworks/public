@@ -8,6 +8,7 @@ Sen. Doug Finley, husband to Minister of Human Resources Diane Finley, has died 
 ### Source:
 
 1. [CTV](http://www.ctvnews.ca/politics/senator-doug-finley-trusted-advisor-to-pm-dies-after-battle-with-cancer-1.1277235)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1277262.1368294253!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

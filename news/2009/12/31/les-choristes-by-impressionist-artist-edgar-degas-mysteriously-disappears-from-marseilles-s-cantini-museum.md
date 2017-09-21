@@ -11,6 +11,7 @@
 2. [Boston Globe](http://www.boston.com/ae/theater_arts/articles/2009/12/31/degas_painting_stolen_from_marseille_museum/)
 3. [France 24](http://www.france24.com/en/node/4959878)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE5BU2RC20091231?feedType=RSS&feedName=entertainmentNews)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

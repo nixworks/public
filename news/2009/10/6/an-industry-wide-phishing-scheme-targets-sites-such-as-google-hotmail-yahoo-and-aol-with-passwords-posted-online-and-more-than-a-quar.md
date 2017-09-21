@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8292928.stm)
 2. [The Guardian](http://www.guardian.co.uk/technology/2009/oct/06/gmail-yahoo-aol-phishing-scam)
 3. [The Wall Street Journal](http://blogs.wsj.com/digits/2009/10/06/hotmail-phishing-attacks-spread-to-other-email-services/)
+3. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

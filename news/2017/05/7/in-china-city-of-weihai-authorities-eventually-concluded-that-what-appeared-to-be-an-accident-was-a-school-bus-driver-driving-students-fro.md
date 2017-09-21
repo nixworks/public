@@ -9,3 +9,4 @@ BEIJING — A 22-year-old man made the bomb that exploded at the front gate of a
 
 1. [CTGN](https://news.cgtn.com/news/3d516a4d7945444e/share_p.html)
 2. [New York Post](http://nypost.com/2017/06/16/suspect-reportedly-used-homemade-bomb-in-deadly-blast-near-kindergarten/)
+2. [Cover Image](https://thenypost.files.wordpress.com/2017/06/china_kindergarten_explosion_145380588.jpg?quality=90&amp;strip=all&amp;w=1200)

@@ -8,6 +8,7 @@ The personal details of thousands of civil servants were on laptop computers sto
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0604/northcrime.html)
+1. [Cover Image](https://img.rasset.ie/00018473-1600.jpg)
 
 ### Related:
 

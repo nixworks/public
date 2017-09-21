@@ -12,6 +12,7 @@ Find out who won, and who lost, at the 2013 Academy Awards.
 3. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20973004)
 4. [CNN](http://www.cnn.com/2013/02/24/showbiz/movies/oscars-main)
 5. [Reuters](http://www.reuters.com/article/2013/02/25/oscars-bestactor-idUSL1N0BM7ZK20130225)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65199000/jpg/_65199378_65199377.jpg)
 
 ### Related:
 

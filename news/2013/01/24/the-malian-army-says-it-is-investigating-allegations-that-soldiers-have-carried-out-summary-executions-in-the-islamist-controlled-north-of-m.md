@@ -8,6 +8,7 @@ The Malian army investigates claims that soldiers have carried out summary execu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21191188)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65497000/jpg/_65497192_malianafp.jpg)
 
 ### Related:
 

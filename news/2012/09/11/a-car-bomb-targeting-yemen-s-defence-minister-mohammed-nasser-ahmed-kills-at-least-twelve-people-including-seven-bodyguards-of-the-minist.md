@@ -8,6 +8,7 @@ A blast alongside a convoy of vehicles used by Yemen’s defense minister came o
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/09/12/world/middleeast/car-bomb-kills-10-in-yemen-but-targeted-minister-escapes-harm.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/09/12/world/middleeast/YEMEN/YEMEN-superJumbo.jpg)
 
 ### Related:
 

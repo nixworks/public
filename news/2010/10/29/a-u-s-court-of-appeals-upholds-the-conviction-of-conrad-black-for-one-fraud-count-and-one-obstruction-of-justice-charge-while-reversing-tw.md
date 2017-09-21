@@ -8,6 +8,7 @@ Conrad Black faces the prospect of heading back to jail after a U.S. appeal cour
 ### Source:
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/report-on-business/us-court-upholds-two-charges-against-black/article1777946/)
+1. [Cover Image](http://beta.images.theglobeandmail.com/media/www/images/flag/gam-square.png)
 
 ### Related:
 

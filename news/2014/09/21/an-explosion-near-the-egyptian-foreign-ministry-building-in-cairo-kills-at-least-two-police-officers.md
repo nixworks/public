@@ -8,6 +8,7 @@ A bomb explosion near the Egyptian foreign ministry in Cairo kills at least two 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-29300205)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77723000/jpg/_77723351_023993161-1.jpg)
 
 ### Related:
 

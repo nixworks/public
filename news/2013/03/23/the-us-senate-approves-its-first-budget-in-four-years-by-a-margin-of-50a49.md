@@ -8,6 +8,7 @@ Senate Democrats neared approval of their first budget proposal in four years on
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2013/03/23/senate-approves-first-budget-proposal-in-4-years/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/032213/0/0/032213_sr_senate_640.jpg?ve=1)
 
 ### Related:
 

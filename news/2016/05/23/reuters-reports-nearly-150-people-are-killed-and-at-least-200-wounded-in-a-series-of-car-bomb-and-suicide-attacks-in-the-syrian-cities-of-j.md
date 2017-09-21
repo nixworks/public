@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/05/syria-multiple-bombs-rock-assad-government-strongholds-160523090721925.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-latakia-idUSKCN0YE0PB)
 3. [USA Today](http://www.usatoday.com/story/news/world/2016/05/23/state-media-up-65-killed-syria-bombings/84766500/)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

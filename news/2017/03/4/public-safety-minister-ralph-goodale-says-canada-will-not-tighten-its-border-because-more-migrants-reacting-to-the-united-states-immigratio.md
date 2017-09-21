@@ -8,6 +8,7 @@ Canada will not tighten its border to deter migrants crossing illegally from the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-immigration-canada-border-idUSKBN16B0P1)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170306&t=2&i=1175111205&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2515B)
 
 ### Related:
 

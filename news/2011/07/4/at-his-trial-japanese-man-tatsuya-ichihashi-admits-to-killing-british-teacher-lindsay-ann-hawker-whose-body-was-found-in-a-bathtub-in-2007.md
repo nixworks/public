@@ -8,6 +8,7 @@ A Japanese man admits raping and killing British teacher Lindsay Ann Hawker whos
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-14010308)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53837000/jpg/_53837081_hawkerfamilyapclearedforuse.jpg)
 
 ### Related:
 

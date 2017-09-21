@@ -8,6 +8,7 @@ The US space shuttle Atlantis has touched down in California&#039;s Mojave Deser
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/06/23/1959732.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/75612-1x1-700x700.jpg)
 
 ### Related:
 

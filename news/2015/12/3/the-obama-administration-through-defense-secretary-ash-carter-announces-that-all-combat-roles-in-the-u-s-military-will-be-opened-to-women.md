@@ -9,6 +9,7 @@ The Pentagon&#8217;s revolutionary move to open all direct land combat jobs to w
 
 1. [CNN](http://www.cnn.com/2015/12/03/politics/u-s-military-women-combat-positions/)
 2. [The Washington Times](http://www.washingtontimes.com/news/2015/dec/3/ash-carter-promises-same-standards-for-women-in-co/)
+2. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2015/12/03/123_2015_women-in-combat-38201.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The government has prepared a plan to take control of troubled mortgage giants F
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/26567533/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/reuters/2008-08-27t203946z_01_nootr_rtridsp_3_business-fannie-freddie-shakeup-dc.standard.jpg)
 
 ### Related:
 

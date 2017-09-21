@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AlJazeera](http://www.aljazeera.com/news/americas/2014/07/bolivia-congress-approves-child-labour-law-20147322484792982.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/7/3//20147323148336734_20.jpg)
 
 ### Related:
 

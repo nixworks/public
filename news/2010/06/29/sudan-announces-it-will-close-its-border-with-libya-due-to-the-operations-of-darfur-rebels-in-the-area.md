@@ -9,6 +9,7 @@ Sudan announces it is closing its border with Libya to protect travellers from a
 
 1. [AfricaNews](http://www.africanews.com/site/Sudan_to_close_border_with_Libya/list_messages/33069)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10445470.stm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

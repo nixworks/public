@@ -9,6 +9,7 @@ An explosion on the Baku-Tbilisi-Ceyhan (BTC) pipeline on Tuesday night in easte
 
 1. [Hürriyet](http://www.hurriyet.com.tr/english/finance/9594249.asp?scr=1)
 2. [Reuters](http://www.reuters.com/article/GCA-Oil/idUSSP31722720080806?sp=true)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

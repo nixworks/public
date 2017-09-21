@@ -9,6 +9,7 @@ A clean-up operation got under way today after torrential rains hit the Dublin r
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-15442031)
 2. [RTÉ](http://www.rte.ie/news/2011/1025/weather_updates_tuesday.html)
+2. [Cover Image](https://img.rasset.ie/00052588-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Airports around the United Kingdom will reopen in about an hour and passenger fl
 
 1. [Chicago Tribune](http://www.chicagotribune.com/travel/sns-ap-eu-iceland-volcano,0,1670826.story)
 2. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/04/british-airports-set-to-reopen-/1)
+2. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-deadline/2010/04/20/jetlandsx-wide-community.jpg)
 
 ### Related:
 

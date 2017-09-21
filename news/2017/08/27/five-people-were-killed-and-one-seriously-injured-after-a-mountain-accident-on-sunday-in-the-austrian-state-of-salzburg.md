@@ -8,6 +8,7 @@ Five people were killed and one seriously injured after a mountain accident on S
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-austria-accident-idUSKCN1B70EP?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

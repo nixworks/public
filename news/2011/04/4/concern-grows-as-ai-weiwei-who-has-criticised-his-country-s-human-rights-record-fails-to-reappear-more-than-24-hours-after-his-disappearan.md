@@ -11,6 +11,7 @@ The Chinese authorities are refusing to comment on the whereabouts of artist Ai 
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12954811)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12963468)
 4. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/news.htm?main&20110405&56&746087)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

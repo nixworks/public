@@ -8,6 +8,7 @@ Wildfires also devouring swaths of forests in Corsica, Portugal, Italy and Alban
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jul/26/france-wildfires-corsica-cote-d-azur-holiday)
+1. [Cover Image](https://i.guim.co.uk/img/media/5806c29553a93872af5967b74b0e49f64cfb264a/0_282_4772_2865/master/4772.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d8715c59be3ef3f7d432c715e2fdf1e2)
 
 ### Related:
 

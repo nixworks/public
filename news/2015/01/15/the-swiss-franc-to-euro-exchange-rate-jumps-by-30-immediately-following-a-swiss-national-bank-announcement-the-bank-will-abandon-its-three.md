@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/business-30829917)
 2. [Bloomberg](http://www.bloomberg.com/news/2015-01-15/snb-unexpectedly-gives-up-cap-on-franc-lowers-deposit-rate.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/80284000/jpg/_80284678_80284677.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ There was no &quot;express deal&quot; between Labour leader Tony Blair and Ruper
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18055381)
 2. [Irish Independent](http://www.independent.ie/lifestyle/independent-woman/celebrity-news-gossip/xfactor-judge-louis-walsh-wants-access-to-sun-documents-on-false-assault-accusation-3108842.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60225000/jpg/_60225078_campbell_grab.jpg)
 
 ### Related:
 

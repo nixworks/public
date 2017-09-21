@@ -8,6 +8,7 @@ Oil services company Baker Hughes Inc. has said that it will lay off about 7,000
 ### Source:
 
 1. [AP via ABC News America](http://abc13.com/business/baker-hughes-plans-to-lay-off-around-7000-workers/483230/)
+1. [Cover Image](http://cdn.abclocal.go.com/content/ktrk/images/cms/automation/images/483235_1280x720.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The House of Representatives Monday night approved a nine-month extension of the
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2011/02/14/house-representatives-votes-extend-patriot-act/#)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

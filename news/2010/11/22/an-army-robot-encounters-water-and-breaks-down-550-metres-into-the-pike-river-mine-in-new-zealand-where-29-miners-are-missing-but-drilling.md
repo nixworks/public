@@ -9,6 +9,7 @@ The Defence Force robot was the bright spot for West Coast residents waiting on 
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10689533)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/robot-set-to-enter-mine-where-29-are-trapped-20101122-182x3.html)
+2. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201048/robot_2_1024x768.jpg)
 
 ### Related:
 

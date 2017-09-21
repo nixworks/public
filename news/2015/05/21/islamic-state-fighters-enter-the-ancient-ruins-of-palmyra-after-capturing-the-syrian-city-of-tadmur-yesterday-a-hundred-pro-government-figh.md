@@ -9,6 +9,7 @@ Islamic State fighters tightened their grip on the historic Syrian city of Palmy
 
 1. [News Limited](http://www.news.com.au/world/breaking-news/is-controls-more-than-half-of-syria/story-e6frfkui-1227364263099?from=public_rss)
 2. [Reuters](http://www.reuters.com/article/2015/05/21/us-mideast-crisis-syria-idUSKBN0O60KH20150521?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150521&t=2&i=1050191283&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB4K143)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20080607/local/muscat-offers-cooperation-with-government-on-national-issues)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/default-article-image.png)
 
 ### Related:
 

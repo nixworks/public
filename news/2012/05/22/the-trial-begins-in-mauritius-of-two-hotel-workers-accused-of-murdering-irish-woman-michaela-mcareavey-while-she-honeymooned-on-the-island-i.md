@@ -8,6 +8,7 @@ The family of John McAreavey has appealed for privacy and cautioned members of t
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2012/0522/michaela-mcareavey-murder-trial-set-to-begin-today.html)
+1. [Cover Image](https://img.rasset.ie/0005ec74-1600.jpg)
 
 ### Related:
 

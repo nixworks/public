@@ -10,6 +10,7 @@ The United States Army’s finances are so jumbled it had to make trillions of d
 1. [CNN](http://www.cnn.com/2016/08/23/politics/us-army-audit-accounting-errors/)
 2. [Reuters](http://www.reuters.com/article/us-usa-audit-army-idUSKCN10U1IG)
 3. [The Hill](http://thehill.com/policy/defense/292084-army-made-trillions-in-improper-accounting-adjustments-audit)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160819&t=2&i=1150321608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7I0T9)
 
 ### Related:
 

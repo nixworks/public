@@ -8,6 +8,7 @@ India&rsquo;s efforts to isolate Pakistan on the issue of terrorism got a boost 
 ### Source:
 
 1. [The Hindustan Times](http://www.hindustantimes.com/world-news/saarc-summit-collapses-after-india-and-3-other-members-pull-out/story-kIMWfSqirGLzB6MEfuS3CN.html)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/09/28/Pictures/saarc-summit_ffbaeabc-8585-11e6-92b8-e7f1e026a3c4.jpg)
 
 ### Related:
 

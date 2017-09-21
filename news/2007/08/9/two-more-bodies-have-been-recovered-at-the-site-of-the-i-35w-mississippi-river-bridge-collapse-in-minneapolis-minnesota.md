@@ -8,6 +8,7 @@ Authorities said on Thursday that searchers have found the remains of more victi
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKN0922355520070810)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070809&t=2&i=1274325&w=&fh=545px&fw=&ll=&pl=&sq=&r=1274325)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The site in central Rome has yielded evidence of how actively the early Romans i
 ### Source:
 
 1. [Southern California Public Radio](http://www.scpr.org/news/2014/01/29/41878/archaeologists-unearth-what-may-be-oldest-roman-te/)
+1. [Cover Image](http://a.scpr.org/i/221a00c4e3148f4d68f2d9310af9c4f7/77017-full.jpg)
 
 ### Related:
 

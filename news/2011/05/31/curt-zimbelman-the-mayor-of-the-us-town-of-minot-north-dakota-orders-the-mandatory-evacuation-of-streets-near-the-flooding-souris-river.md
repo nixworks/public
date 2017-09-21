@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Minot Daily News](http://www.minotdailynews.com/page/content.detail/id/555276/CITY-ORDERS-MANDATORY-EVACUATIONS--High-water-forces-closure-of-streets--bridges--Sandbaggers-needed-today.html?nav=5010)
+1. [Cover Image](http://d14e0irai0gcaa.cloudfront.net/www.minotdailynews.com/images/2016/11/03084632/fblike.jpg)
 
 ### Related:
 

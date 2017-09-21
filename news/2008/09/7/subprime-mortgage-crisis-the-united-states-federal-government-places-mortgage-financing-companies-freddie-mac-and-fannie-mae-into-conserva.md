@@ -8,6 +8,7 @@ The U.S. government on Sunday seized control of mortgage finance companies Fanni
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/businessNews/idINIndia-35361320080907)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080907&t=2&i=5892121&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2008-09-07T210757Z_01_NOOTR_RTRMDNC_0_India-353613-2)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Torrential rains in southwestern China triggered landslides that have killed 17 
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0713/breaking18.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

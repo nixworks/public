@@ -8,6 +8,7 @@ Tehran&#39;s war games see various surface-to-surface medium and long-range miss
 ### Source:
 
 1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4088162,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

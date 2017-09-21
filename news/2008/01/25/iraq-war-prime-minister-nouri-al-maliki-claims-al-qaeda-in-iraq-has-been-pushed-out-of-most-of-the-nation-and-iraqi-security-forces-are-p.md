@@ -8,6 +8,7 @@ Iraqi security forces have begun a &quot;decisive&quot; final offensive against 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL1880448320080125?feedType=RSS&feedName=topNews&rpc=22&sp=true)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080125&t=2&i=2910280&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-01-25T113959Z_01_L18804483_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A South African newspaper removes from its website an image of a controversial p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18232979)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60533000/jpg/_60533193_014859782-1.jpg)
 
 ### Related:
 

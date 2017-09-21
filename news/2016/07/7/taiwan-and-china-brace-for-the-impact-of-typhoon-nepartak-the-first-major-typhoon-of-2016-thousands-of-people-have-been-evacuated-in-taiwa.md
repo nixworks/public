@@ -10,6 +10,7 @@ Taiwan is experiencing extreme winds and lashing rains as the first typhoon of t
 1. [ABC News](http://www.abc.net.au/news/2016-07-07/thousands-flee-as-super-typhoon-nepartak-barrels-towards-taiwan/7577330)
 2. [CNN](http://www.cnn.com/2016/07/06/world/super-typhoon-nepartak-taiwan/index.html)
 3. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/07/china-taiwan-brace-for-super-typhoon-after-dozens-killed-in-floo/)
+3. [Cover Image](http://www.abc.net.au/news/image/7577564-1x1-700x700.jpg)
 
 ### Related:
 

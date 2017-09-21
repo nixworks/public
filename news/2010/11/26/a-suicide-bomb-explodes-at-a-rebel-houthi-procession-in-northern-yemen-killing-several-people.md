@@ -9,6 +9,7 @@ A suicide attack on a Houthi rebel procession in northern Yemen kills at least t
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11846070)
 2. [The Hindu](http://www.thehindu.com/news/international/article915213.ece)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

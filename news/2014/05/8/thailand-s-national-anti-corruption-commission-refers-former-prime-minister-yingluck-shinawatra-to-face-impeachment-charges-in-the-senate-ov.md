@@ -8,6 +8,7 @@ Thailand&#x27;s deposed Prime Minister Yingluck Shinawatra will face impeachment
 ### Source:
 
 1. [AFP via Yahoo UK](https://uk.news.yahoo.com/deposed-thai-pm-yingluck-face-impeachment-anti-graft-082259187.html#dW5DUcT)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/4xJ4g093NgucIhqsoo54Vg--/aD01MjA7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/4e71deb482b34c59cb9287cfe7393dc134dfca4f.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Lord Hanningfield, who was jailed for expenses fraud, has been arrested over mon
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-essex-14922211)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53001000/jpg/_53001211_hanningfield464in_pa.jpg)
 
 ### Related:
 

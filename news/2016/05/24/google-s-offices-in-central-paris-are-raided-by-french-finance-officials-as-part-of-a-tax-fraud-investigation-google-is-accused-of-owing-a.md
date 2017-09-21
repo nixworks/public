@@ -8,6 +8,7 @@ French finance officials raid the Paris offices of US internet giant Google as p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-36370628)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/D89D/production/_88435455_google.g.jpg)
 
 ### Related:
 

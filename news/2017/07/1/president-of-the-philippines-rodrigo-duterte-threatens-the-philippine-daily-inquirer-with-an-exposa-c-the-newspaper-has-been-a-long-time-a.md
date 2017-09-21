@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/174445-duterte-prieto-inquirer-mile-long)
+1. [Cover Image](https://assets.rappler.com/92908B1D685845E2BA4F574754A851D3/img/AD319B6AA33649C7912633726AEF751D/duterte-5th-araw-ng-davao-del-sur-july12017-020.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2011/POLITICS/02/27/wisconsin.budget/index.html#)
 2. [Milwaukee Journal-Sentinel](http://www.jsonline.com/news/statepolitics/117011928.html)
+2. [Cover Image](http://media.jrn.com/images/js-for-social-200-final.jpg)
 
 ### Related:
 

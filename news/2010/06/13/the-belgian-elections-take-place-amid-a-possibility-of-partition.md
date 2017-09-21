@@ -9,6 +9,7 @@ Initial results indicate that party advocating a split of Belgium wins general e
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010613171728950113.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-06/13/c_13349049.htm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

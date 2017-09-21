@@ -8,6 +8,7 @@ A terror alert at the Eiffel Tower has been cleared after the monument was evacu
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2013/03/30/eiffel-tower-evacuated-after-bomb-threat/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

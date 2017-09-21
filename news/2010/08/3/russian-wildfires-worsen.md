@@ -9,6 +9,7 @@ Russia struggles to contain its disastrous wildfires with military aircraft hang
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10850048)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=3&art_id=iol1280819197173W431)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

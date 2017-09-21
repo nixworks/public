@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/tiger-woods-reportedly-out-remainder/story.aspx?guid=%7B7A6B83F8%2DE1AC%2D4756%2DA87D%2D695C13EC75D4%7D&siteid=bnbh)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The government cut the number of Jeeps it wants recalled and in turn, Chrysler s
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/money/cars/2013/06/18/chrysler-changes-mind-recalls-jeeps-government-sought/2434955/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

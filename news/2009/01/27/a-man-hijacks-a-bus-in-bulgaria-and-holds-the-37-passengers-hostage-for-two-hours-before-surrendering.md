@@ -8,6 +8,7 @@ An armed man surrendered to police after hijacking a bus and holding 37 people a
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-37686220090127)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

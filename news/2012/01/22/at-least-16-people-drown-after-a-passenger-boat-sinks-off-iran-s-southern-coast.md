@@ -8,6 +8,7 @@ Sixteen bodies recovered after passenger boat sinks off southern coast due to en
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/2012122135512760184.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/22/201212213563472621_20.jpg)
 
 ### Related:
 

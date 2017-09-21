@@ -8,6 +8,7 @@ A European Union member ofparliament with a diplomatic passport said she was pre
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/04/29/bahrain-protests-airport-idUSL5E8FT19B20120429)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

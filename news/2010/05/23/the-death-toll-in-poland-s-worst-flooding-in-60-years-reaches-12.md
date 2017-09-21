@@ -8,6 +8,7 @@ Cost of damage reaches 2.4bn euros as residents urged to vacate low-lying areas.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/201052391442354632.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

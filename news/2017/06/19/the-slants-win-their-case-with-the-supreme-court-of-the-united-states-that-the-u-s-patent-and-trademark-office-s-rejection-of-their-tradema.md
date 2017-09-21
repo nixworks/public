@@ -8,6 +8,7 @@ The case could have broad impact on how the First Amendment is applied in other 
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/06/19/533514196/the-slants-win-supreme-court-battle-over-bands-name-in-trademark-dispute)
+1. [Cover Image](https://media.npr.org/assets/img/2017/06/19/2016-01-12-the-slants-band-0032_edit_wide-30a2608842bd70d68dfbeffccd65e4a973a13839.jpg?s=1400)
 
 ### Related:
 

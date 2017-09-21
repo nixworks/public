@@ -9,6 +9,7 @@ The United States has found 500 chemical weapons in Iraq since 2003, and more we
 
 1. [AFP](http://www.breitbart.com/news/2006/06/22/060622055545.07o4imol.html)
 2. [FOX News](http://www.foxnews.com/story/0,2933,200499,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

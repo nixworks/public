@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-thailand-security-blast-idUSKCN10Y2H6)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160825&t=2&i=1151013959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7O0S3)
 
 ### Related:
 

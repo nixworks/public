@@ -10,6 +10,7 @@ News and opinion from The Times &amp; The Sunday Times
 1. [Times Online](http://www.timesonline.co.uk/article/0,,2089-1920074,00.html)
 2. [Y-Net](http://www.ynetnews.com/articles/0,7340,L-3182412,00.html)
 3. [Y-Net](http://www.ynetnews.com/articles/0,7340,L-3182678,00.html)
+3. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

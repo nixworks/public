@@ -8,3 +8,4 @@
 ### Source:
 
 1. [KTUU-TV](http://www.ktuu.com/content/news/Fire-at-Mat-Su-dog-kennel-kills-dozens-of-puppies-411704875.html)
+1. [Cover Image](http://media.graytvinc.com/images/kennel+fire1.jpg)

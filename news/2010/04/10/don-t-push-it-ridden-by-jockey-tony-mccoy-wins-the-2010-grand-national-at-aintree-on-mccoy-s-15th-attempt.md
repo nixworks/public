@@ -9,6 +9,7 @@ Tony McCoy has finally won the Grand National as Don&#039;t Push It - his 15th r
 
 1. [BBC News](http://news.bbc.co.uk/sport1/hi/other_sports/horse_racing/8611001.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/horseracing/7575435/Grand-National-2010-Tony-McCoy-rides-Dont-Push-It-to-victory-in-big-race-at-Aintree.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01613/tony-mccoy_1613619a.jpg)
 
 ### Related:
 

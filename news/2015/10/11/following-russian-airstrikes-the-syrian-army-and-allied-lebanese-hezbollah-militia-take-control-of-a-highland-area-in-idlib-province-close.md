@@ -9,6 +9,7 @@
 
 1. [Malaysian Insider](http://www.themalaysianinsider.com/world/article/syrian-army-advances-in-west-after-russian-strikes)
 2. [Reuters](http://www.reuters.com/article/2015/10/11/us-mideast-crisis-syria-idUSKCN0S506F20151011)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151011&t=2&i=1086140119&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9A05H)
 
 ### Related:
 

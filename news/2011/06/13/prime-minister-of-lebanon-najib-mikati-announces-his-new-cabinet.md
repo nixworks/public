@@ -8,6 +8,7 @@ Najib Mikati gives Hezbollah and its allies 16 posts, prompting resignation by a
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011613134047608919.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/13/2011613134410959734_20.jpg)
 
 ### Related:
 

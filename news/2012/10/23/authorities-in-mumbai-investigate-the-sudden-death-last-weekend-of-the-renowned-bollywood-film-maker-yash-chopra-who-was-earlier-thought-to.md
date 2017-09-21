@@ -8,6 +8,7 @@ Authorities in the Indian city of Mumbai announce a probe into whether top Bolly
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-20038380)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63649000/jpg/_63649566_63649565.jpg)
 
 ### Related:
 

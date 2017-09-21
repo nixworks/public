@@ -8,6 +8,7 @@ South Korea plans to break up its coastguard in the wake of the ferry disaster i
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27465378#TWEET1132272)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74711000/jpg/_74711746_021932014reu.jpg)
 
 ### Related:
 

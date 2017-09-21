@@ -9,6 +9,7 @@ An American official held in Pakistan after shooting dead two men is a CIA agent
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8337315/US-official-held-in-Pakistan-is-CIA.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/feb/20/us-raymond-davis-lahore-cia)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01828/raymond_1828761a.jpg)
 
 ### Related:
 

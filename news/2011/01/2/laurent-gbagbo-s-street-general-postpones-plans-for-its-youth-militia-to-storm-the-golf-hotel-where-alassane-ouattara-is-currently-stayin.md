@@ -12,6 +12,7 @@ Charles Ble Goude, the notorious &#039;Street General&#039; of Ivory Coast&#039;
 3. [The East African](http://www.theeastafrican.co.ke/news/-/2558/1082324/-/okhv6yz/-/)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/cotedivoire/8236702/Ivory-Coast-street-general-calls-off-Golf-Hotel-assault.html)
 5. [euronews](http://www.euronews.net/2011/01/02/agencies-prepare-for-flood-of-ivory-coast-refugees/)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01794/ivory_1794213a.jpg)
 
 ### Related:
 

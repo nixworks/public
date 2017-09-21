@@ -8,6 +8,7 @@ A militant group in Gaza said the first rocket strike in more than three months 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/02/27/world/middleeast/rocket-from-gaza-hits-israel-breaking-cease-fire.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/02/27/world/middleeast/27gaza_cnd/27gaza_cnd-videoLarge.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/2015/12/17/Libyan-factions-meet-to-sign-U-N-peace-deal.html)
 2. [Reuters](http://in.reuters.com/article/libya-security-idINKBN0U02FA20151217)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151217&t=2&i=1103102559&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBG154)
 
 ### Related:
 

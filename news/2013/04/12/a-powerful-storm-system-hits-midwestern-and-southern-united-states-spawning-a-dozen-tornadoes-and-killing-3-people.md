@@ -8,6 +8,7 @@ Storms packing snow, ice and dangerous winds knocked out power in communities th
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/weather/2013/04/12/state-emergency-declared-in-missouri-as-tornadoes-severe-storms-pound-midwest/)
+1. [Cover Image](http://a57.foxnews.com/global.fncstatic.com/static/managed/assets/0/0/SpringStormSouthDakota.JPG)
 
 ### Related:
 

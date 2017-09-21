@@ -8,6 +8,7 @@ Agreement reached to form a unity government and hold early elections, but quest
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/10653226/Ukraine-protests-live.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02829/ukraine_2829726k.jpg)
 
 ### Related:
 

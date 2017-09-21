@@ -9,6 +9,7 @@ A Tunisian court has sentenced a television journalist to four years in prison f
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10535282.stm)
 2. [News24.com](http://www.news24.com/Africa/News/Tunisia-jails-sick-journalist-20100706)
+2. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

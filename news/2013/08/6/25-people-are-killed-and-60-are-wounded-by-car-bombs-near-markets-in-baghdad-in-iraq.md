@@ -8,6 +8,7 @@ A series of car bombs targeting busy markets and shopping streets in and around 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/06/us-iraq-violence-idUSBRE9750ST20130806)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130806&t=2&i=757760231&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9751F7E00)
 
 ### Related:
 

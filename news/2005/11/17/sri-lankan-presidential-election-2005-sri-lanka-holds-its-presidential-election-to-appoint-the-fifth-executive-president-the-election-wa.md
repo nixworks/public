@@ -9,6 +9,7 @@ Amidst boycott by Tamils, Lanka elected Marxist-backed PM Mahinda Rajapakse as i
 
 1. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=worldNews&storyID=2005-11-18T085521Z_01_SCH766819_RTRUKOC_0_US-SRILANKA-ELECTION.xml)
 2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1300558.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

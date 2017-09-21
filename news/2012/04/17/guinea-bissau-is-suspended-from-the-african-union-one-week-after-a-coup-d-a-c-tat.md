@@ -8,6 +8,7 @@ West African nation barred from regional bloc a week after military leaders seiz
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/04/20124171148930754.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/15/2012415284837734_20.jpg)
 
 ### Related:
 

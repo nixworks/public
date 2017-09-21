@@ -8,6 +8,7 @@ A shootout between rival drug gangs in Honduras leaves 17 people dead in a regio
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23585125)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69131000/gif/_69131285_honduras_mosquitia_0813.gif)
 
 ### Related:
 

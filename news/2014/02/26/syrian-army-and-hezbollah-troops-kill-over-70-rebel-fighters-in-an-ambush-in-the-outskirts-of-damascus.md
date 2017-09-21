@@ -9,6 +9,7 @@ State media in Syria says army troops have killed 175 rebels in an ambush south 
 
 1. [Reuters](http://uk.reuters.com/article/2014/02/26/uk-syria-crisis-ambush-idUKBREA1P0TA20140226)
 2. [USA Today](http://www.usatoday.com/story/news/world/2014/02/26/syria-army-rebel-deaths/5829979/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

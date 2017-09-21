@@ -18,6 +18,7 @@ Thousands of others were stranded on rooftops, surrounded by water left by the t
 9. [Oregon Live](http://www.oregonlive.com/pacific-northwest-news/index.ssf/2011/03/tsunami_watch_issued_for_oregon_coast.html)
 10. [RT](http://rt.com/usa/news/japan-nuclear-emergency-earthquake/)
 11. [USGS](http://earthquake.usgs.gov/earthquakes/eqarchives/year/mag8/magnitude8_1900_mag.php)
+11. [Cover Image](http://www.trbimg.com/img-56fd643a/turbine/la-l-a-times-logo-20160331/600)
 
 ### Related:
 

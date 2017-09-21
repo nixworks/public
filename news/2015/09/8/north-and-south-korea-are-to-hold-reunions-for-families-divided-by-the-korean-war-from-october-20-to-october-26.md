@@ -8,6 +8,7 @@ North and South Korea have agreed to hold Oct. 20-26 reunions of families separa
 ### Source:
 
 1. [AP via ''Washington Times](http://www.washingtontimes.com/news/2015/sep/7/north-korea-south-korea-hold-reunions-war-divided-/)
+1. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2015/09/07/Koreas.jpg)
 
 ### Related:
 

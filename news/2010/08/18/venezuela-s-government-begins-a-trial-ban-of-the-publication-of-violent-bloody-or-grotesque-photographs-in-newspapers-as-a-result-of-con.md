@@ -8,6 +8,7 @@ A month-long ban begins in Venezuela on national newspapers printing &quot;viole
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11018751)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

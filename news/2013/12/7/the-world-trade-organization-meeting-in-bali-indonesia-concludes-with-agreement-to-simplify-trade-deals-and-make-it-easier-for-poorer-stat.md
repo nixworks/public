@@ -8,6 +8,7 @@ The World Trade Organization agrees a historic global deal aimed at boosting com
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-25274889#TWEET977692)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71596000/jpg/_71596053_71596052.jpg)
 
 ### Related:
 

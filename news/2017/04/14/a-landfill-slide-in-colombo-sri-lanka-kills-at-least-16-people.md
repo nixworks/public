@@ -8,6 +8,7 @@ A rubbish dump landslide in the Sri Lankan capital Colombo has killed at least 1
 ### Source:
 
 1. [RTÉ](https://www.rte.ie/news/2017/0415/867910-sri-lanka-garbage/)
+1. [Cover Image](https://img.rasset.ie/000dea0a-1600.jpg)
 
 ### Related:
 

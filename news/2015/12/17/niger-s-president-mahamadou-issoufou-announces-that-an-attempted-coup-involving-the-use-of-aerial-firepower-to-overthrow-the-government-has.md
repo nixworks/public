@@ -8,6 +8,7 @@ At least four senior military officers were arrested earlier in the week, for an
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/dec/17/niger-government-foiled-attempted-coup-president-announces)
+1. [Cover Image](https://i.guim.co.uk/img/media/68dc8e71f61416f750c80be53730779e77150083/295_809_829_497/master/829.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8015f81ebc18524cd8dfb342dbbeed3e)
 
 ### Related:
 

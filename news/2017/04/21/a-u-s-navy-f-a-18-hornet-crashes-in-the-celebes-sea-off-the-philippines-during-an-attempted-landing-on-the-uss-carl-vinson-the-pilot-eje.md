@@ -8,6 +8,7 @@ A Navy F/A-18E pilot has been safely recovered after ejecting from his fighter j
 ### Source:
 
 1. [Navy Times](https://www.navytimes.com/articles/fighter-pilot-from-aircraft-carrier-carl-vinson-ejects-safely-at-sea)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/6e/13/1d3c07974fc18ae87083a0196f98/uss-carl-vinson-transits-pacific-ocean.jpg)
 
 ### Related:
 

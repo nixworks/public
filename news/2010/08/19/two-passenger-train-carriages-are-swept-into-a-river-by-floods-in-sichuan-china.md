@@ -10,6 +10,7 @@ Two train carriages fell into a river in southwestern China on Thursday after fl
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11024357)
 2. [Reuters](http://www.reuters.com/article/idUSSGE67I0EL)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/19/c_13452760.htm)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

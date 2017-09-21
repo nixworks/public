@@ -8,6 +8,7 @@ Exactly at 9.12 a.m., the PSLV rocket standing 44.4 metres tall and weighing 320
 ### Source:
 
 1. [The Economic Times](http://economictimes.indiatimes.com/news/science/pslvs-longest-flight-places-scatsat-1-into-orbit-in-copybook-launch/articleshow/54518176.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-54518193,width-672,resizemode-4,imglength-126030/news/science/pslvs-longest-flight-places-scatsat-1-into-orbit-in-copybook-launch/launch.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2012/07/09/justice-unseals-indictment-charging-five-in-brian-terry-death/)
+1. [Cover Image](http://a57.foxnews.com/video.foxnews.com/thumbnails/071012/640/360/0/0/071012_an_terry_640.jpg?ve=1)
 
 ### Related:
 

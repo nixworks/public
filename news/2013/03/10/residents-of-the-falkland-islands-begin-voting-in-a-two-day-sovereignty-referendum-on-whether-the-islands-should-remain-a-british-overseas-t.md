@@ -8,6 +8,7 @@ The people of the Falkland Islands are voting in a referendum on whether to rema
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21731760)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66304000/jpg/_66304014_posters.jpg)
 
 ### Related:
 

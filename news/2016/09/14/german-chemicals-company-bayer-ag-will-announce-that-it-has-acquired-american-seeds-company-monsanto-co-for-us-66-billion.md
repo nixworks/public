@@ -8,6 +8,7 @@ Chemicals and healthcare group Bayer AG (BAYGn.DE) is poised to announce the acq
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-monsanto-m-a-bayer-board-exclusive-idUSKCN11J1PD?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160914&t=2&i=1153444109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8C0RK)
 
 ### Related:
 

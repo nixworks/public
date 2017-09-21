@@ -8,6 +8,7 @@ U.S. Democratic presidential candidate Hillary Clinton said Russian intelligence
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-election-clinton-idUSKCN10B0IX)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160731&t=2&i=1147771898&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6U0B4)
 
 ### Related:
 

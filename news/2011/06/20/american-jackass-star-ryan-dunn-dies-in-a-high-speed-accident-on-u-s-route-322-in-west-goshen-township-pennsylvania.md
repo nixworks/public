@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC Philadelphia](http://www.nbcphiladelphia.com/news/local/Jackass-Star-Ryan-Dunn-Dies-in-Car-Accident-124184189.html)
+1. [Cover Image](http://media.nbcphiladelphia.com/images/1200*675/RyanDunn.B1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-34557099)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2015/10/16/449286988/u-s-backs-away-from-offshore-arctic-drilling)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/14E90/production/_85784658_028173334-1.jpg)
 
 ### Related:
 

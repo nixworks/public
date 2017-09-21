@@ -8,6 +8,7 @@ Rolf Harris has been found guilty of indecently assaulting four girls in the UK 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-07-01/rolf-harris-guilty-of-indecently-assaulting-young-girls/5542644)
+1. [Cover Image](http://www.abc.net.au/news/image/5561592-1x1-700x700.jpg)
 
 ### Related:
 

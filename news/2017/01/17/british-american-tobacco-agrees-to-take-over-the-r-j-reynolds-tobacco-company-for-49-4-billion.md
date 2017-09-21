@@ -8,6 +8,7 @@ British American Tobacco agreed Tuesday to pay almost $50 billion for control of
 ### Source:
 
 1. [AFP by ''Yahoo](https://www.yahoo.com/news/tobacco-giant-bat-pays-49-4bn-control-us-075814249.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/GBTPGt0hmFm7X1HcGXpEVg--/aD03MTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-GTY-452041352-1-1-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Zee News](http://zeenews.india.com/news/world/over-200-killed-in-ghana-gas-station-explosion_1607811.html)
+1. [Cover Image](http://ste.india.com/sites/default/files/2015/06/05/365169-851.jpeg)
 
 ### Related:
 

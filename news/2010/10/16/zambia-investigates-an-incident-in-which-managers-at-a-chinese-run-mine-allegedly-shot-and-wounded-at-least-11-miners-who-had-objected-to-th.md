@@ -9,6 +9,7 @@ Zambian police investigate claims that managers at a Chinese-run coal mine in th
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11558741)
 2. [Zambia Post](http://www.postzambia.com/post-read_article.php?articleId=14693)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

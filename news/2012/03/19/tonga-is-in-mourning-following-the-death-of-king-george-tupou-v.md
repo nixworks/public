@@ -8,6 +8,7 @@ The South Pacific nation of Tonga is in mourning following the death of its king
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17429122)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59151000/jpg/_59151786_014293737-1.jpg)
 
 ### Related:
 

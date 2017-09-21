@@ -11,6 +11,7 @@ Islamist insurgents seize control of two radio stations in the Somali capital Mo
 2. [Sify India](http://sify.com/news/somali-islamists-storm-broadcaster-news-international-kjubkcicdaj.html)
 3. [Times Live South Africa](http://www.timeslive.co.za/africa/article666434.ece/Somali-insurgents-seize-Mogadishu-radio-stations)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/19/c_13519965.htm)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

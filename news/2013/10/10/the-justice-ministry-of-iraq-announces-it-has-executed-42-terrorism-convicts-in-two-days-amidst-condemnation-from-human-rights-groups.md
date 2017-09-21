@@ -8,6 +8,7 @@ Latest executions bring number of prisoners hanged this year to 132, as rights g
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/10/iraq-executes-42-convicts-terror-charges-20131010152434377755.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/18/201331895118868734_20.jpg)
 
 ### Related:
 

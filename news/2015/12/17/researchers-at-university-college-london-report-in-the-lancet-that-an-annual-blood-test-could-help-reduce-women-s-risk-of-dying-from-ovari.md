@@ -9,6 +9,7 @@ Large study is the first to find an effective method of screening for an often d
 
 1. [CBS News](http://www.cbsnews.com/news/ovarian-cancer-blood-test-saves-lives-study-finds/)
 2. [WebMD](http://www.webmd.com/ovarian-cancer/news/20151217/annual-blood-test-might-help-prevent-deaths-from-ovarian-cancer)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/05/07/8f77b5d8-0fff-445f-8862-5f9ef80e7bd7/istock000016153906large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russian President Vladimir Putin said on Thursday he was ready to meet U.S. pres
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russia-usa-putin-trump-idUSKBN1711EJ)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170330&t=2&i=1178657813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2T0RS)
 
 ### Related:
 

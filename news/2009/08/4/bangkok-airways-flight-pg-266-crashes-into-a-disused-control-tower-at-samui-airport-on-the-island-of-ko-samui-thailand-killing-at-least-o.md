@@ -11,6 +11,7 @@
 2. [Bangkok Post](http://www.bangkokpost.com/news/transport/151089/bangkok-airways-plane-crashes-on-samui)
 3. [China Daily](http://www.chinadaily.com.cn/world/2009-08/04/content_8520057.htm)
 4. [RTÉ](http://www.rte.ie/news/2009/0804/thailand.html)
+4. [Cover Image](https://img.rasset.ie/00027cd1-1600.jpg)
 
 ### Related:
 

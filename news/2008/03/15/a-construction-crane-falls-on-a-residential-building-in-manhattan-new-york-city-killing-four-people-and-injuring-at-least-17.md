@@ -10,6 +10,7 @@ A giant crane fell and crushed a residential building in Manhattan on Saturday, 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5jfj6MUk1LLECza7MfBHHPYIV1oGg)
 2. [BBC News](http://news.bbc.co.uk/2/hi/americas/7299650.stm)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSN1546852020080315?feedType=RSS&feedName=topNews)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080315&t=2&i=3534191&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-15T215552Z_01_N15468520_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

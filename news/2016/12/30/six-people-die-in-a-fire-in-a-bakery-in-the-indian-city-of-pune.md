@@ -8,6 +8,7 @@ Six migrant workers died of suffocation in a fire that broke out in a Pune baker
 ### Source:
 
 1. [Firstpost](http://www.firstpost.com/india/pune-bakery-fire-six-workers-killed-in-kondhwas-cakes-and-bakes-fire-contained-3180352.html)
+1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2016/12/fire.jpg)
 
 ### Related:
 

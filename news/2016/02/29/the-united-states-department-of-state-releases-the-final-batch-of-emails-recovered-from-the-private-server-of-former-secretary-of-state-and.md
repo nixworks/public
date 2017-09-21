@@ -8,6 +8,7 @@ The State Department will release later today the final batch of emails from Hil
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/after-10-months-thousands-pages-final-clinton-emails-be-released-n528286)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_08/1436941/hillary-clinton004_5ff74f3bd952d49dcafd26ef380d3c0f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

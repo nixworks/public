@@ -8,6 +8,7 @@ Two children also died Friday in a crash on rain-slick U.S. 175 in South Dallas;
 ### Source:
 
 1. [Dallas Morning News](http://www.dallasnews.com/news/metro/20151127-floodwaters-claim-3-another-person-missing-as-rain-pounds-d-fw.ece)
+1. [Cover Image](https://dallasnews.imgix.net/NM_GarlandCar_AL09.jpg?w=1200&h=630&format=jpg&crop=faces&fit=crop)
 
 ### Related:
 

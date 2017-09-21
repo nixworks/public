@@ -8,6 +8,7 @@ A pilot furious with the IRS crashed his small plane into an Austin, Texas, offi
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,586581,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

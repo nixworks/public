@@ -9,6 +9,7 @@ The&#x20;Taliban&#x20;claimed&#x20;responsibility&#x20;for&#x20;a&#x20;wave&#x20
 
 1. [AFP via France 24](http://www.france24.com/en/20110507-taliban-strikes-kandahar-deadly-wave-coordinated-attacks-afghanistan?ns_linkname=20110507_taliban_strikes_kandahar_deadly_wave_coordinated&ns_campaign=editorial&ns_mchannel=reseaux_sociaux&ns_source=twitter&ns_fee=0#)
 2. [AP via ''Washington Post](http://www.washingtonpost.com/world/gunmen_attack_governors_compound_in_southern_afghan_city_of_kandahar_fighting_ongoing/2011/05/07/AFTUT0FG_story.html?wprss=rss_world)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Afghanistan_kandahar_EN_0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Angola has deported nearly 200 Congolese citizens, according to humanitarian rep
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69N1BC20101024)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Sudanese military plane crashed in the central city of El-Obeid on Saturday, k
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/sudan-airplane-crash-idINKCN0XR0JM)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

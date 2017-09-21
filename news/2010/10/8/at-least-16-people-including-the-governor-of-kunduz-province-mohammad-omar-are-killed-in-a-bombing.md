@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/2010108101226418853.html)
 2. [Voice of America](http://www.voanews.com/english/news/Provincial-Governor-19-Others-Die-in-Afghan-Blast--104577979.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/9/201010964747669734_20.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Six bombers said to have stormed the Intercontinental, popular with foreigners a
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/06/201162819116708330.html)
 3. [BBC](http://www.bbc.co.uk/news/world-south-asia-13947169)
 4. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/06/28/afghanistan.kabul.attack/index.html)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/28/201162821531581734_20.jpg)
 
 ### Related:
 

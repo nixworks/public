@@ -10,6 +10,7 @@ The Finnish parliament approves constructing two nuclear power stations in a bid
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/10474511.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/07/01/finland.new.reactors/index.html?iref=allsearch&fbid=XiPj-PMGuif)
 3. [YLE](http://www.yle.fi/uutiset/news/2010/07/parliament_votes_in_favour_of_new_nuclear_reactors_1799285.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

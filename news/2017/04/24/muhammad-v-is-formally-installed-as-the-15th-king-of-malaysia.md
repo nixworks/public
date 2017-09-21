@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Berita Harian](http://www.bharian.com.my/node/275226)
+1. [Cover Image](https://assets.bharian.com.my/images/articles/jadilah_field_image_listing_featured.variant_0.jpg)
 
 ### Related:
 

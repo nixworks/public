@@ -8,6 +8,7 @@ The attack in northern Iraq during a meeting of local leaders was one of the wor
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2008/12/12/world/middleeast/12iraq.html?ref=middleeast)
+1. [Cover Image](https://static01.nyt.com/images/2008/12/12/world/middleeast/iraq75.jpg)
 
 ### Related:
 

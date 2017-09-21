@@ -9,6 +9,7 @@
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-01-13/mozambique-beer-poisoning-death-toll-rises-to-69/6013506)
 2. [Forbes](http://www.forbes.com/sites/davidkroll/2015/01/12/what-is-crocodile-bile-and-is-it-really-poisonous/)
+2. [Cover Image](http://www.abc.net.au/news/image/6013554-1x1-700x700.jpg)
 
 ### Related:
 

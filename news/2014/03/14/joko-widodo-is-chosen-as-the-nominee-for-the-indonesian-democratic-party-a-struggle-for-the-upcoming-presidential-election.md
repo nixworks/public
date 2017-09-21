@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Jakarta Globe](http://www.thejakartaglobe.com/news/jakarta-governor-joko-widodo-pegged-pdi-p-presidential-race/)
+1. [Cover Image](http://img.thejakartaglobe.com/2013/12/jokowi_005.jpg.jpg)
 
 ### Related:
 

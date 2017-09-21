@@ -8,6 +8,7 @@ The United States arrested on Monday a Mexican laboratory owner accused of helpi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN2339313220070724?feedType=RSS)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070724&t=2&i=1183224&w=&fh=545px&fw=&ll=&pl=&sq=&r=1183224)
 
 ### Related:
 

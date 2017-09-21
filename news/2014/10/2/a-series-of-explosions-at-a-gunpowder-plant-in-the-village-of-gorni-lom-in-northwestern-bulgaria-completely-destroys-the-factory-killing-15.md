@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Focus News](http://www.focus-fen.net/news/2014/10/02/350126/explosion-at-gunpowder-plant-in-nw-bulgaria-roundup.html)
+1. [Cover Image](http://images.focus-news.net/38ae1b84f7dbe353e6426359a9ba2cbd.jpg)
 
 ### Related:
 

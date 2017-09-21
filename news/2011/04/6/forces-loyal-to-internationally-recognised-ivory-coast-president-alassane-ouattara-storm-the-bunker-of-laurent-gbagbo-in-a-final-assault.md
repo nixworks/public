@@ -10,6 +10,7 @@ Negotiations&#x20;over&#x20;Ivory&#x20;Coast&#x20;presidential&#x20;incumbent&#x
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/20114613332780181.html)
 2. [France 24](http://www.france24.com/en/20110406-ivory-coast-live-final-assault-launched-gbagbo-bunker-abidjan)
 3. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/news.asp?nid=69677)
+3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/ivory-morn-m_0.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;acro
 
 1. [CBS News](http://www.cbsnews.com/news/pope-francis-shuts-off-vatican-fountains-in-response-to-rome-italy-drought/)
 2. [France24](http://www.france24.com/en/20170725-firefighters-struggle-battle-wildfires-across-southern-france-corsica)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/240717_wildfires_france.jpg)
 
 ### Related:
 

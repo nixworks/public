@@ -9,6 +9,7 @@ The government should be found in contempt of Parliament, a committee of MPs dec
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2011/03/21/pol-privilege-contempt.html)
 2. [The Toronto Star](http://www.thestar.com/news/canada/politics/article/957379--committee-finds-harper-government-in-contempt?bn=1)
+2. [Cover Image](https://i.cbc.ca/1.2022811.1381635988!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-contempt-00343537-852.jpg)
 
 ### Related:
 

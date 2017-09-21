@@ -8,6 +8,7 @@ Exactly 15 years after he was sworn as Philippine president, Joseph Estrada take
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/politics/elections-2013/32545-joseph-estrada-takes-oath-mayor-manila)
+1. [Cover Image](http://static.rappler.com/images/joseph-estrada-inaugural-20130630-3.jpg)
 
 ### Related:
 

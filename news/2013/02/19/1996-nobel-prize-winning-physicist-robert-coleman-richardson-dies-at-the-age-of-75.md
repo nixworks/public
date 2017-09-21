@@ -8,6 +8,7 @@ Dr. Richardson’s prize-winning work involved cooling helium to liquid form, a 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/02/22/science/robert-c-richardson-nobel-winning-physicist-dies-at-75.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/02/22/us/RICHARDSON-obit/RICHARDSON-obit-superJumbo.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Police were simultaneously serving six search warrants for the Mayor, his daught
 
 1. [CNN Philippines](http://cnnphilippines.com/news/2017/07/30/Ozamiz-Mayor-killed-in-police-raid.html)
 2. [GMA News](http://www.gmanetwork.com/news/news/regions/619989/two-killed-ozamiz-city-vice-mayor-arrested-in-police-raid/story/)
+2. [Cover Image](http://cnnphilippines.com/regional/elj0xm-Reynaldo-Parojinog_CNNPH.jpg/ALTERNATES/LANDSCAPE_640/Reynaldo-Parojinog_CNNPH.jpg)
 
 ### Related:
 

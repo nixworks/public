@@ -9,6 +9,7 @@ A group of 32 hospitals will pay a total of $28 million to settle allegations th
 
 1. [Reuters](http://www.reuters.com/article/us-hospitals-medicare-settlement-idUSKBN0U120420151218)
 2. [The Arizona Republic](http://www.azcentral.com/story/news/arizona/investigations/2015/12/18/banner-health-settlement-overbilling-medicare/77578924/)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

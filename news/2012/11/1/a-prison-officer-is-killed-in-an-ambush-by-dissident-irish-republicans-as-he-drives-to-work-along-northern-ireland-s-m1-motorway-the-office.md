@@ -8,6 +8,7 @@ The family of a Northern Ireland prison officer murdered as he drove to work are
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20164370)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63870000/jpg/_63870633_davidblackprisonofficerkilled02(2).jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A military statement has ordered civilians to leave the &quot;Islamic State&quot
 1. [Deutsche Welle](http://www.dw.com/en/civilians-told-to-leave-is-held-iraqi-city-of-ramadi/a-18884014)
 2. [The Hill](http://thehill.com/policy/defense/overnights/261727-overnight-defense-pentagon-deploying-task-force-to-fight-isis)
 3. [The Washington Post](https://www.washingtonpost.com/world/national-security/new-iraq-task-force-expands-direct-us-role-in-battle-against-islamic-state/2015/12/01/6cc41ef2-9861-11e5-8917-653b65c809eb_story.html)
+3. [Cover Image](http://www.dw.com/image/18743693_304.png)
 
 ### Related:
 

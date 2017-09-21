@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/dozens-reported-killed-in-attacks-on-nigerian-cities/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/12/02/91b449f7-b3b4-4a1f-b44c-e5c5f8ae2856/nigeria2014-11-29t164404z1327245062gm1eabu01vl01rtrmadp3nigeria-violence.jpg)
 
 ### Related:
 

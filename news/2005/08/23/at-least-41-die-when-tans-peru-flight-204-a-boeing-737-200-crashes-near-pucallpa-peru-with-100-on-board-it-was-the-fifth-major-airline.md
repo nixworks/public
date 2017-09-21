@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4178868.stm)
 2. [CNN](http://edition.cnn.com/2005/WORLD/americas/08/24/peru.crash/index.html)
 3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-24T000712Z_01_MCC383700_RTRIDST_0_INTERNATIONAL-PERU-DC.XML)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

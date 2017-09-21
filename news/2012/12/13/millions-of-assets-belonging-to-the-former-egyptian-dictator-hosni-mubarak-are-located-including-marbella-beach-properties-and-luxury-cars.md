@@ -8,6 +8,7 @@ Millions of assets of ex-Egyptian president and associates located, including Ma
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/20121213173425562653.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/30/201253010231636734_20.jpg)
 
 ### Related:
 

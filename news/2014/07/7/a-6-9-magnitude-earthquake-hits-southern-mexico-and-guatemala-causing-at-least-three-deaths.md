@@ -8,6 +8,7 @@ A strong earthquake rocked southern Mexico and Guatemala, killing at least four 
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/strong-quake-hits-mexico-and-guatemala-1404737897)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-DO765_0707qu_G_20140707161727.jpg)
 
 ### Related:
 

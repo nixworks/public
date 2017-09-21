@@ -10,6 +10,7 @@ Italy becomes the latest European country to announce tough austerity measures i
 1. [BBC](http://news.bbc.co.uk/2/hi/business/10157432.stm)
 2. [Reuters](http://www.reuters.com/article/idUSLDE64O0R120100525)
 3. [The Miami Herald](http://www.miamiherald.com/2010/05/25/1647648/italian-govt-approves-euro24-billion.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

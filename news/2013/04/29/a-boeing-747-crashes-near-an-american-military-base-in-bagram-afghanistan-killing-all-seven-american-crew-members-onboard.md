@@ -8,6 +8,7 @@ This is the terrifying moment a civilian cargo plane in Afghanistan spun out of 
 ### Source:
 
 1. [AP via Belfast Telegraph UK](http://www.belfasttelegraph.co.uk/news/world-news/video-the-horrific-moment-a-boeing-747-plane-crashes-to-the-ground-29235554.html)
+1. [Cover Image](http://www.belfasttelegraph.co.uk/editorial/web/facebook/fb-holder.png)
 
 ### Related:
 

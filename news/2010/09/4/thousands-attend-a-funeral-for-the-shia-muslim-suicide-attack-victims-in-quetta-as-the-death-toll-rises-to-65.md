@@ -8,6 +8,7 @@ Thousands attend funeral in Pakistani city for dozens killed in suicide attack o
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/09/2010948413333315.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/4/201094105545873734_20.jpg)
 
 ### Related:
 

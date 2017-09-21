@@ -9,6 +9,7 @@ Rwandan President Paul Kagame has extended his 17 years in power after winning t
 
 1. [BBC](http://www.bbc.com/news/world-africa-40822530)
 2. [Sky News](http://www.skynews.com.au/news/politics/international/2017/08/05/rwanda-s-kagame-wins-presidential-election.html)
+2. [Cover Image](http://www.skynews.com.au/content/dam/skynews/news/politics/international/2017/08/05/skynews_13304475.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

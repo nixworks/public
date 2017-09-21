@@ -8,6 +8,7 @@ A man arrested last month in a 2015 homicide has been charged in the Phoenix ser
 ### Source:
 
 1. [ABC 15](http://www.abc15.com/news/region-phoenix-metro/central-phoenix/phoenix-serial-street-shootings-aaron-saucedo-facing-charges-in-shootings)
+1. [Cover Image](http://media2.abc15.com/photo/2017/04/24/SaucedoCar675_1493073614432_58801803_ver1.0_640_480.jpg)
 
 ### Related:
 

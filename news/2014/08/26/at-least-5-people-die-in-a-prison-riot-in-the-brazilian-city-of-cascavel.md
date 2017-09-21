@@ -8,6 +8,7 @@ Officials in Brazil say a prison riot in which at least five inmates were killed
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-28930150)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77163000/jpg/_77163522_77163521.jpg)
 
 ### Related:
 

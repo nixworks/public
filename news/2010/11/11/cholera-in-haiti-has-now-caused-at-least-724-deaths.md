@@ -8,6 +8,7 @@ Fears grow over rapid spread of cholera in the capital, as death toll rises to 7
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/11/2010111116141596571.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/11/20101111172513622884_20.jpg)
 
 ### Related:
 

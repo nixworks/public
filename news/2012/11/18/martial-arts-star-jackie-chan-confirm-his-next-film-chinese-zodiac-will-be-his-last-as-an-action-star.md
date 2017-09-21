@@ -8,6 +8,7 @@ Actor Jackie Chan, famed for his daring stunts, confirms he will be steering awa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18114255)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60323000/jpg/_60323587_014776160-1.jpg)
 
 ### Related:
 

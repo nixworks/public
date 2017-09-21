@@ -9,6 +9,7 @@ Dan Mureşan, the son of former Agriculture Minister Ioan Avram Muresan, died in
 
 1. [Bucharest Herald](http://www.bucharestherald.com/dailyevents/41-dailyevents/36738--son-of-ex-minister-ioan-avram-muresan-dies-in-kenya-hotel-)
 2. [HotNews.ro](http://translate.google.com/translate?sl=ro&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.hotnews.ro%2Fstiri-esential-13189518-fiul-fostului-ministru-ioan-avram-muresan-murit-subit-intr-hotel-din-kenya.htm&act=url)
+2. [Cover Image](http://www.bucharestherald.com/images/herald/ioan%20avram%20mure%C5%9Fan%20909_mic.jpg)
 
 ### Related:
 

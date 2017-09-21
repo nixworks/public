@@ -12,6 +12,7 @@ The fashion world&#039;s leading voices have paid tribute to the outlandish avan
 3. [The New York Times](http://www.nytimes.com/2010/02/12/fashion/12iht-mcqueen.html)
 4. [The New Zealand Herald](http://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&objectid=10625729)
 5. [The Sydney Morning Herald](http://www.smh.com.au/lifestyle/fashion/fashion-world-mourns-genius-alexander-mcqueen-20100212-nvhc.html?autostart=1)
+5. [Cover Image](http://www.smh.com.au/content/dam/images/n/w/1/y/image.related.thumbnail.320x214.nvhc.png/1268357066937.jpg)
 
 ### Related:
 

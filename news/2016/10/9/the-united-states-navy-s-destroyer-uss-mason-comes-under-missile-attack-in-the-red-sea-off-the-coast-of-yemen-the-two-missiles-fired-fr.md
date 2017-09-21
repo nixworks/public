@@ -8,6 +8,7 @@ A U.S. Navy guided missile destroyer was targeted on Sunday in a failed missile 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-usa-ship-idUSKCN12A082)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161010&t=2&i=1156879662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC990DA)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Manila Archbishop Luis Antonio Cardinal Tagle denounces not only extrajudicial k
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/144517-philippines-cardinal-tagle-extrajudicial-killings-war-drugs)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/029CA4D5EF574647B729BA8E13C63871/cardinal-tagle-murder-20160828-1.jpg)
 
 ### Related:
 

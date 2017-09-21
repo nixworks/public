@@ -8,3 +8,4 @@ The Age 404 Page
 ### Source:
 
 1. [AAP via the Melbourne Age](http://www.theage.com.au/news/National/New-SA-governor-being-sworn-in/2007/08/08/1186530412678.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)

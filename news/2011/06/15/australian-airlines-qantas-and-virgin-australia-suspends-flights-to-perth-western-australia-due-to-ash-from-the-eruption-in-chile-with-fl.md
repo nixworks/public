@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g9DcQLpFCGPKBirlX5owAAoSdXBg?docId=CNG.b80e20ba7a8a0ad5c8dedc098860570c.01)
 2. [BBC News](http://www.bbc.co.uk/news/business-13772979)
 3. [NineMSN](http://news.ninemsn.com.au/national/8261320/virgin-qantas-suspend-flights-to-perth)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53367000/jpg/_53367727_53367726.jpg)
 
 ### Related:
 

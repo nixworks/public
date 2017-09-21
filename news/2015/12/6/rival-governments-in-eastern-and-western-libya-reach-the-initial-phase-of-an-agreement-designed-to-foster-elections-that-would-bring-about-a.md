@@ -8,6 +8,7 @@ Rival governments in Libya reached the initial phase of a deal designed to foste
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/12/06/Rival-governments-in-Libya-reach-power-sharing-agreement/1051449444071/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/1051449444071/2015/1/fa9a872a4bc22f5c7f5f8a7c2c4d6d0b/v1.5/Rival-governments-in-Libya-reach-power-sharing-agreement.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Italian coastguard, navy, as well as humanitarian agency Doctors Without Borders
 1. [AFP via Asian Age](http://www.asianage.com/international/syrian-girl-5-dies-boat-sinks-668)
 2. [Al-Jazeera](http://www.aljazeera.com/news/2015/09/italy-rescues-thousands-refugees-libyan-coast-150919183041430.html)
 3. [Reuters](http://www.reuters.com/article/2015/09/19/europe-migrants-greece-idUSL5N11P07D20150919)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/19/c9bf3e483de54aba9b70c15b2c9ec77e_18.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The city will celebrate Christmas and New Year under the shadow of terror . Mumb
 
 1. [IOL](http://www.iol.co.za/news/world/mumbai-alert-after-terrorist-threat-1.1005003)
 2. [Times of India](http://timesofindia.indiatimes.com/city/mumbai/4-LeT-men-on-prowl-in-Mumbai/articleshow/7154680.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

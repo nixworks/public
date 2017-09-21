@@ -8,6 +8,7 @@ Two leading activists were taken to a military jail by security forces in the mi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-40787830)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/119F8/production/_97148127_6bfb6d49-c0a3-4b81-8e99-e506bd5eaa39.jpg)
 
 ### Related:
 

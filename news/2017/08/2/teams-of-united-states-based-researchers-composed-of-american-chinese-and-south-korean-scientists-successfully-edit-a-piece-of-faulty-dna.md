@@ -11,6 +11,7 @@ The technique could prevent deadly diseases being passed down the generations.
 2. [CNN](http://www.cnn.com/2017/08/02/health/crispr-human-embryos-gene-editing-study/index.html)
 3. [Science News Magazine](https://www.sciencenews.org/article/crispr-gene-editing-human-embryos)
 4. [Scientific American](https://www.scientificamerican.com/article/embryo-gene-editing-experiment-reignites-ethical-debate/)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/65DC/production/_97167062_trio.jpg)
 
 ### Related:
 

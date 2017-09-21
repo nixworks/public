@@ -8,6 +8,7 @@ Another 100 people thought to have been injured and thousands displaced in capit
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/centralafricanrepublic/11894550/Muslim-Christian-clashes-in-Central-African-Republic-leave-21-dead.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03455/General_Hospital_i_3455023k.jpg)
 
 ### Related:
 

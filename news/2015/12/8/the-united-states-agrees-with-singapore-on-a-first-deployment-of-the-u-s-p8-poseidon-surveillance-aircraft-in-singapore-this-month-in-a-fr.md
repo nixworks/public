@@ -9,6 +9,7 @@ The United States has agreed with Singapore on a first deployment of the U.S. P8
 
 1. [Reuters](http://www.reuters.com/article/us-usa-singapore-southchinasea-idUSKBN0TQ2K720151208#vX4iuGDfd6exVztH.97)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/12/08/US-deploys-P-8-Poseidon-spy-plane-to-Singapore-amid-South-China-Sea-tensions/1341449581297/)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151208&t=2&i=1100742369&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB70IS)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ghana holds the funeral of President John Atta Mills, who died in July, with Afr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19204106)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62180000/jpg/_62180352_62180351.jpg)
 
 ### Related:
 

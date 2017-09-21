@@ -10,6 +10,7 @@ Twin blasts targeting police near a stadium in Istanbul kill 38 people and injur
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-12-10-EU--Turkey-Explosions/id-8500622885bf4db5a9b022b98eced481)
 2. [BBC](http://www.bbc.com/news/world-europe-38276794)
 3. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKBN13Z0QS)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5B6A/production/_92920432_036834601.jpg)
 
 ### Related:
 

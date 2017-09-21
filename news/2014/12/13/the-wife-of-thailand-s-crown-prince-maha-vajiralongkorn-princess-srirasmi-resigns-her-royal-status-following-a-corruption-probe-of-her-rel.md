@@ -9,6 +9,7 @@ The wife of Thailand&#039;s crown prince has relinquished her royal title, the p
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/12/13/thailands-crown-prince-divorces-wife)
 2. [AFP via ABC News Australia](http://www.abc.net.au/news/2014-12-13/thailand-crown-princes-wife-resigns-her-royal-title/5965214)
+2. [Cover Image](http://www.abc.net.au/news/image/5965252-1x1-700x700.jpg)
 
 ### Related:
 

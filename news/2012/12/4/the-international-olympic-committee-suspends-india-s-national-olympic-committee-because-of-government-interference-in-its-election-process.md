@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CBC](http://www.cbc.ca/sports/story/2012/12/04/sp-ioc-olympics-india.html)
+1. [Cover Image](https://i.cbc.ca/1.1918847.1381031017!/httpImage/image.jpg_gen/derivatives/16x9_1180/dutt-yogeshwar-120811.jpg)
 
 ### Related:
 

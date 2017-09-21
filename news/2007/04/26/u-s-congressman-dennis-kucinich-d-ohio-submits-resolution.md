@@ -10,6 +10,7 @@
 1. [AP via CBS News](http://www.cbsnews.com/stories/2007/04/25/politics/main2726626.shtml)
 2. [Asia Times](http://www.atimes.com/atimes/Middle_East/ID27Ak04.html)
 3. [HRES 333](http://thomas.loc.gov/cgi-bin/query/z?c110:H.RES.333.IH:)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2007/04/25/d7726e3e-a642-11e2-a3f0-029118418759/image2726687x.jpg)
 
 ### Related:
 

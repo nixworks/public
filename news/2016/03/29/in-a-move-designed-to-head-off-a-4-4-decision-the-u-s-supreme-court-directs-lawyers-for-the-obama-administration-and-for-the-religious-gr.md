@@ -8,6 +8,7 @@ The U.S. Supreme Court today asked new questions in one of the term&#x27;s most 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/supreme-court-raises-new-obamacare-questions-n547421)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_13/1477161/160329-supreme-court-mn-1550_bd94c9fb63f5227350cf698cfdee8c8d.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

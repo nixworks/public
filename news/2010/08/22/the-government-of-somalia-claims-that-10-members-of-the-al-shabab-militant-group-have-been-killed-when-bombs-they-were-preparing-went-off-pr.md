@@ -8,6 +8,7 @@ Government says the men died while preparing or planting bombs in two separate i
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/201082262043413966.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

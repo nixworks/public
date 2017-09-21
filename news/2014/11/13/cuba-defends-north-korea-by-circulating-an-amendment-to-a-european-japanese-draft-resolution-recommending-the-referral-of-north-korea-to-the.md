@@ -8,6 +8,7 @@ Cuba, which was involved in a violation of U.N. sanctions against North Korea la
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/11/12/uk-northkorea-un-cuba-idUKKCN0IW2QE20141112)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141112&t=2&i=991364520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAB1AN)
 
 ### Related:
 

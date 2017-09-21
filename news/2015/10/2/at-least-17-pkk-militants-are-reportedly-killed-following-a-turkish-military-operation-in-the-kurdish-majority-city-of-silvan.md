@@ -8,6 +8,7 @@ At least 17 members of the Kurdistan Workers Party (PKK) have been killed in a T
 ### Source:
 
 1. [RT](https://www.rt.com/news/317341-turkish-army-police-silvan/)
+1. [Cover Image](https://img.rt.com/files/2015.10/article/560e4e1ac3618846038b457e.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Limited](http://www.news.com.au/top-stories/bali-jail-set-to-be-evacuated/story-e6frfkp9-1226279864774)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/ad29f2dc7a25f43e48691d3811daff22)
 
 ### Related:
 

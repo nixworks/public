@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20375395)
 2. [Xinhuanet](http://news.xinhuanet.com/english/world/2012-11/17/c_131981006.htm)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64205000/jpg/_64205497_016525771-2.jpg)
 
 ### Related:
 

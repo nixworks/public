@@ -8,6 +8,7 @@ Syria&#39;s main opposition bloc on Friday urged the international community to 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/07/05/syrian-opposition-bloc-urges-world-to-protect-homs/2491139/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

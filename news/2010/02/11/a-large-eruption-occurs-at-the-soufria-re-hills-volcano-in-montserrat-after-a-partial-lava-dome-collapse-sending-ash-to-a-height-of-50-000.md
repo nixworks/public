@@ -8,6 +8,7 @@ The Government of Montserrat, the Disaster Management Coordinating Agency (DMCA)
 ### Source:
 
 1. [Montserrat Volcano Obeservatory](http://www.montserratvolcanoobservatory.info/index.php?option=com_content&view=article&id=792%3Apartial-dome-collapse-11-feb-2010&catid=129%3Aslideshow-home&Itemid=94&lang=en)
+1. [Cover Image](http://www.montserratvolcanoobservatory.info/wp-content/uploads/2015/01/HL_1.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Stolen artworks, cultural items and archaeological items recovered in a European
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-38723099)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/4251/production/_93777961_operationpandora3.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Intelligence official confirms masked ISIS militant seen in many beheading video
 2. [National Post](http://news.nationalpost.com/2015/02/26/video-shows-isis-militants-roaming-through-iraq-museum-with-sledgehammers-and-power-tools-destroying-artifacts/)
 3. [The New York Times](http://www.nytimes.com/2015/02/27/world/europe/jihadi-john-mohammed-emwazi-identified.html?_r=0)
 4. [The Washington Post](http://www.washingtonpost.com/world/national-security/jihadi-john-the-islamic-state-killer-behind-the-mask-is-a-young-londoner/2015/02/25/d6dbab16-bc43-11e4-bdfa-b8e8f594e6ee_story.html)
+4. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/01/20/36a89bb9-6217-4af9-99b8-60fb88f68f86/isisjihadijohn.jpg)
 
 ### Related:
 

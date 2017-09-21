@@ -9,6 +9,7 @@ Sen. Larry Craig has all but dropped any notion of trying to complete his term, 
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,295881,00.html)
 2. [UPI](http://www.upi.com/NewsTrack/Top_News/2007/09/05/craig_seeks_to_block_ethics_investigation/7806/)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

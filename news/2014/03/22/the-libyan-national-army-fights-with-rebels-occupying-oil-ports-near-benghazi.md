@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/03/22/us-libya-oil-fighting-idUSBREA2L06020140322)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140322&t=2&i=868298062&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2L14HD00)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Seattle police review training procedures after video of an officer punching a t
 2. [CNN](http://us.cnn.com/2010/CRIME/06/16/police.jaywalker/index.html?hpt=Sbin)
 3. [IOL](http://www.iol.co.za/index.php?from=rss_North%20America&set_id=1&click_id=22&art_id=iol127669613486D515)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Cop-Caught-Hitting-Girl-In-The-Face-Seattle-Police-Officer-Punches-17-Year-Old-Female/Article/201006315650356?f=rss)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The HSE says it has written to a number of pharmacies warning them of possible H
 
 1. [RTÉ](http://www.rte.ie/news/2009/0805/pharmacy.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0805/breaking30.htm)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least seven militants were killed during a raid by U.S. Special Forces troops
 
 1. [Reuters](http://in.reuters.com/article/usa-yemen-raid-idINKBN18J2NF)
 2. [The New York Times](https://www.nytimes.com/2017/05/23/world/middleeast/navy-seals-yemen-raid.html)
+2. [Cover Image](//s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

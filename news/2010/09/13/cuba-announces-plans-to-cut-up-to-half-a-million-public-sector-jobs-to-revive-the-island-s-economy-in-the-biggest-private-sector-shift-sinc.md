@@ -10,6 +10,7 @@ Cuba plans to lay off more than a million public sector workers, with half the j
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/09/201091320523592986.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11291267)
 3. [CNN](http://www.cnn.com/2010/WORLD/americas/09/13/cuba.economy/index.html?on.cnn=1)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

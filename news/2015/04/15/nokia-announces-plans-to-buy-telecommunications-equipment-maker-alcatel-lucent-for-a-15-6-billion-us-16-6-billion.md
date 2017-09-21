@@ -8,6 +8,7 @@ Nokia has announced its intention to acquire telecoms equipment company Alcatel-
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2015/4/15/8418709/nokia-alcatel-lucent-merge)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/02OjKW4HjV3sks0vX1g3zKESwX0=/0x214:2039x1361/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/46127522/DSC_4561.0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A grandson of the creator of the Red Bull energy drink has been arrested for dri
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/red-bull-heir-arrested-deadly-thai-hit-run-123313108.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

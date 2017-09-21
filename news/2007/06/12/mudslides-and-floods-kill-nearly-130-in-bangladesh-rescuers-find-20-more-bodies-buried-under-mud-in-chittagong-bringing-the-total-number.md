@@ -8,6 +8,7 @@ Rescuers found 20 more bodies buried under mud in the Bangladesh port city of Ch
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSSP1987._CH_.2400)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070612&t=2&i=946114&w=&fh=545px&fw=&ll=&pl=&sq=&r=946114)
 
 ### Related:
 

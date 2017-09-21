@@ -10,6 +10,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 1. [Asahi Shimbun](http://www.asahi.com/english/nation/TKY200503010170.html)
 2. [Daily Yomiuri](http://www.yomiuri.co.jp/newse/20050303wo21.htm)
 3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=peopleNews&storyID=2005-03-03T031510Z_01_N02452593_RTRIDST_0_PEOPLE-CRIME-JAPAN-TSUTSUMI-DC.XML)
+3. [Cover Image](http://www.asahicom.jp/ajw/images/logo_ogp.png)
 
 ### Related:
 

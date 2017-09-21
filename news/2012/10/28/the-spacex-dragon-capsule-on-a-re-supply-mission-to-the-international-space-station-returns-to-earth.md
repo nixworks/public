@@ -8,6 +8,7 @@ A capsule owned by the private SpaceX company returns to Earth after the first c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-20118963)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63768000/jpg/_63768344_63768343.jpg)
 
 ### Related:
 

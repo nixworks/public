@@ -8,6 +8,7 @@ Gunmen opened fire on a passenger bus in the northern Pakistani district of Kohi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/28/us-pakistan-violence-idUSTRE81R0AI20120228)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

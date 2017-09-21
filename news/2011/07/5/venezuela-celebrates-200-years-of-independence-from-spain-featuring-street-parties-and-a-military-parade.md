@@ -8,6 +8,7 @@ Venezuela marks the 200th anniversary of independence from Spain, a day after Pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14028095)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53884000/jpg/_53884009_012382349-1.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@ Venezuela marks the 200th anniversary of independence from Spain, a day after Pr
 7. [ Spanish prime minister Zapatero signs an agreement with president Hugo Chavez of Venezuela on the sale of warships and military transport planes. Conservative opposition leader Mariano Rajoy denounces the sale. ](/news/2005/03/29/spanish-prime-minister-zapatero-signs-an-agreement-with-president-hugo-cha-vez-of-venezuela-on-the-sale-of-warships-and-military-transport.md) _Context: Spanish, Venezuela_
 8. [ The Spanish parliament rejects an appeal from the Basque regional government for more autonomy and a referendum for eventual independence. ](/news/2005/02/2/the-spanish-parliament-rejects-an-appeal-from-the-basque-regional-government-for-more-autonomy-and-a-referendum-for-eventual-independence.md) _Context: Spanish, independent_
 9. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: Spanish_
-10. [More than 700 Catalan mayors meet in Barcelona with Catalan President Carles Puigdemont to confirm their support for the October 1 independence referendum. Earlier this week, Spanish prosecutors warned that officials participating in this vote could be criminally charged. ](/news/2017/09/16/more-than-700-catalan-mayors-meet-in-barcelona-with-catalan-president-carles-puigdemont-to-confirm-their-support-for-the-october-1-independe.md) _Context: Spanish_
+10. [Spanish police raid Catalan government offices and arrest Catalan officials as part of the effort to halt a banned referendum on independence. Catalan President Carles Puigdemont says, "The Spanish state has by all rights intervened in Catalonia's government and has established emergency rule." ](/news/2017/09/20/spanish-police-raid-catalan-government-offices-and-arrest-catalan-officials-as-part-of-the-effort-to-halt-a-banned-referendum-on-independenc.md) _Context: Spanish_

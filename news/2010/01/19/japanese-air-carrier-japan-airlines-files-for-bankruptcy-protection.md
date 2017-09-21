@@ -9,6 +9,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 1. [Asahi Shimbun](http://www.asahi.com/english/Herald-asahi/TKY201001190458.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/business/8466997.stm)
+2. [Cover Image](http://www.asahicom.jp/ajw/images/logo_ogp.png)
 
 ### Related:
 

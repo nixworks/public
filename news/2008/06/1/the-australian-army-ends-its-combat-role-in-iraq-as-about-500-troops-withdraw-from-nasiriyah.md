@@ -8,6 +8,7 @@ About 500 Australian combat troops pulled out of their base in southern Iraq on 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/GCA-GCA-iraq/idUSL0164801020080601)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080601&t=2&i=4599155&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-01T144758Z_01_L01648010_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

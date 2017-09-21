@@ -8,3 +8,4 @@ US artist LeRoy Neiman, an official painter of five Olympiads famed for his inst
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18530676)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61043000/jpg/_61043556_015117106-1.jpg)

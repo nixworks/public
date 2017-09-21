@@ -8,6 +8,7 @@ Astronomer, broadcaster and author Sir Patrick Moore has died at his home at the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20657939)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64659000/jpg/_64659082_js6ai4x7.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Syrian tanks and helicopters opened fire and killed at least two civilians as th
 4. [BBC](http://www.bbc.co.uk/news/world-europe-13979632)
 5. [CNN](http://www.cnn.com/2011/WORLD/meast/06/30/syria.unrest/index.html)
 6. [Reuters via Alertnet](http://www.trust.org/alertnet/news/egypt-court-to-rule-on-activist-death-sept-24)
+6. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/06/30/syria.unrest/tzvids.syria.soldiers.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands of people have protested in the German city of Hannover against a prop
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36120560)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/4BAA/production/_89407391_a7586dba-0e47-46ed-a4db-e4706e77ff58.jpg)
 
 ### Related:
 

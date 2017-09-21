@@ -8,6 +8,7 @@ Oscar Pistorius was rushed to Pretoria’s Kalafong Hospital after sustaining in
 ### Source:
 
 1. [News24](http://www.news24.com/news24/SouthAfrica/News/pistorius-rushed-to-hospital-after-injury-20160807)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2862/31b583ee70cb495e804ae06f0e931d28.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The nearly complete skeleton of a massive Columbian mammoth who died during the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/domesticNews/idUSTRE51H7R220090219)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090219&t=2&i=8317457&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-19T012507Z_01_BTRE51I03Y000_RTROPTP_0_MAMMOTH)
 
 ### Related:
 

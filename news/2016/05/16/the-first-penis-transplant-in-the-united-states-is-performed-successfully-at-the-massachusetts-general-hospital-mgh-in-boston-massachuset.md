@@ -9,6 +9,7 @@ The patient is recovering well and showing no signs of rejecting the transplant.
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-36304320)
 2. [USA Today](http://www.usatoday.com/story/news/nation/2016/05/16/first-penis-transplant-us-performed-boston/84433658/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

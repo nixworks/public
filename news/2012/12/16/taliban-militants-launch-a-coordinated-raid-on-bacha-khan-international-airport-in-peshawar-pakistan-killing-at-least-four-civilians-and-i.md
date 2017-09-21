@@ -8,6 +8,7 @@ The Taliban launch an attack on Peshawar airport in north-west Pakistan, killing
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20742260)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64791000/jpg/_64791055_64791053.jpg)
 
 ### Related:
 

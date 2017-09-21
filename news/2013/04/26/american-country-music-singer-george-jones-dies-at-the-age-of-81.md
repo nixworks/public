@@ -8,6 +8,7 @@ George Jones’s baritone singing, universally respected, found vulnerability an
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/27/arts/music/george-jones-country-singer-dies-at-81.html?pagewanted=all&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/27/arts/jpJONES1-obit/jpJONES1-obit-videoLarge-v2.jpg)
 
 ### Related:
 

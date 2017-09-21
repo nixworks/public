@@ -10,6 +10,7 @@ Opposition fighters in besieged western city continue advance after breaking thr
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42990151)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/201151175157419895.html)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-13342919)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/11/2011511191728501734_20.jpg)
 
 ### Related:
 

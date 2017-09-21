@@ -8,6 +8,7 @@ A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fu
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-crime-shkreli-idUSKBN1AK27F)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20170804&t=2&i=1195832544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED731HA)
 
 ### Related:
 

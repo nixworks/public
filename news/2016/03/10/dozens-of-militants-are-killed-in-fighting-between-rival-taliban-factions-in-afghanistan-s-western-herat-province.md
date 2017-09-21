@@ -8,6 +8,7 @@ Up to 100 militants die in Herat during latest insurrection against group’s le
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/mar/10/dozens-killed-clashes-rival-taliban-factions-afghanistan-herat)
+1. [Cover Image](https://i.guim.co.uk/img/media/d50c694913c90aa0a10b13c502b818607b242b74/219_500_3131_1880/master/3131.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a98061d765a0aa17f7a51f62fd0e7163)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Gulf Coast landfall will only be part of the danger.
 ### Source:
 
 1. [The Weather Channel](https://weather.com/storms/hurricane/news/tropical-storm-hurricane-harvey-gulf-of-mexico-forecast)
+1. [Cover Image](https://s.w-x.co/harvey-stall-potential-22aug17.jpg)
 
 ### Related:
 

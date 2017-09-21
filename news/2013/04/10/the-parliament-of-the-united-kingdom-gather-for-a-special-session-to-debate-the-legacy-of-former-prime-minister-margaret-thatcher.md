@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/world/british-lawmakers-gather/633642.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/549274/1365472331000/large16x9/640/360/then-british-prime-minister-margaret-thatcher-522734.jpg)
 
 ### Related:
 

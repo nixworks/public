@@ -8,6 +8,7 @@ For the first time, astronomers map a nearby &quot;super-Earth&quot; exoplanet c
 ### Source:
 
 1. [Discovery via ABC News](http://www.abc.net.au/news/2016-03-31/two-faced-alien-planet-55-cancri-e-has-solid-and-liquid-surfaces/7287638)
+1. [Cover Image](http://www.abc.net.au/cm/rimage/7176744-1x1-large.jpg?v=4)
 
 ### Related:
 

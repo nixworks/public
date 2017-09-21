@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13979606)
 2. [Canadian Press via ''Winnipeg Free Press](http://www.winnipegfreepress.com/canada/breakingnews/124763414.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53795000/jpg/_53795133_012346196-1.jpg)
 
 ### Related:
 

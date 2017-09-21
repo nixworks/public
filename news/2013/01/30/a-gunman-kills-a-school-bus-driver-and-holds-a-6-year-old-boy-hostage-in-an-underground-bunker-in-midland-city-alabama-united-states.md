@@ -10,6 +10,7 @@ Authorities say a man shot the driver, grabbed a 5-year-old passenger and ran, h
 1. [CBS](http://www.cbsnews.com/8301-201_162-57566577/child-hostage-drama-after-gunman-kills-alabama-school-bus-driver/)
 2. [CNN](http://www.cnn.com/2013/01/30/us/alabama-bus-man-shot)
 3. [USA Today](http://www.usatoday.com/story/news/nation/2013/01/29/school-bus-driver-shot/1876257/)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

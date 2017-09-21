@@ -8,6 +8,7 @@ An Israeli man was killed and his wife injured in what appeared to be an attack 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/11/us-israel-palestinians-attack-idUSBRE99A04A20131011)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

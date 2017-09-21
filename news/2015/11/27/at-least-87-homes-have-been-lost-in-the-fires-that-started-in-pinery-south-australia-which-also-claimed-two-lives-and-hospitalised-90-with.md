@@ -8,6 +8,7 @@ Janet Hughes, who died in the huge Pinery bushfire north of Adelaide, had just o
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-11-27/sa-fires-87-homes-lost-premier-says/6981240)
+1. [Cover Image](http://www.abc.net.au/news/image/6981448-1x1-700x700.jpg)
 
 ### Related:
 

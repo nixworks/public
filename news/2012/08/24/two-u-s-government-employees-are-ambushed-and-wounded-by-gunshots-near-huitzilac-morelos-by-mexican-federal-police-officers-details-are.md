@@ -8,6 +8,7 @@ Two people employed at the US embassy in Mexico are wounded when police open fir
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-latin-america-19372427)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62487000/jpg/_62487019_015776474.jpg)
 
 ### Related:
 

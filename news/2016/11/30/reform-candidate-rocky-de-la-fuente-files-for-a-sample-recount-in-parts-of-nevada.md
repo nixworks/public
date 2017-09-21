@@ -9,6 +9,7 @@ Roque “Rocky” De La Fuente, an independent candidate for president who garne
 
 1. [Las Vegas Review-Journal](http://www.reviewjournal.com/news/politics-and-government/nevada/independent-candidate-files-recount-sample-nevada-presidential)
 2. [US News and World Report](http://www.usnews.com/news/politics/articles/2016-11-30/the-latest-stein-to-seek-presidential-recount-in-michigan)
+2. [Cover Image](http://www.reviewjournal.com/sites/default/files/field/media/web1_webap_16302710597275_7494841.jpg)
 
 ### Related:
 

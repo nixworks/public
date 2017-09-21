@@ -8,6 +8,7 @@ Her party’s top official was forced to step aside after he was cited questioni
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-04-28/national-front-president-steps-down-after-death-camp-remarks)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i50TC_KXzuC0/v0/1200x771.jpg)
 
 ### Related:
 

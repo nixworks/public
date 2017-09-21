@@ -8,6 +8,7 @@ European Central Bank (ECB) on Wednesday decided to once again raise the amount 
 ### Source:
 
 1. [The Independent](http://www.independent.mk/articles/20050/European+Central+Bank+Increases+Amount+of+Funds+for+Greek+Banks+to+EUR++Million)
+1. [Cover Image](http://www.independent.mk/media/images/2015-07/photo_big_20050.jpg)
 
 ### Related:
 

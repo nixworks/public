@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/05/01/us-bahrain-protests-leaders-idUSBRE84017I20120501)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120501&t=2&i=601619495&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8401D6G00)
 
 ### Related:
 

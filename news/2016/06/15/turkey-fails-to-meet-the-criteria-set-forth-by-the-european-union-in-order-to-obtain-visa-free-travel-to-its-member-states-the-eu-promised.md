@@ -8,6 +8,7 @@ European commission says Turkey has not met conditions of possible deal includin
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jun/15/turkey-misses-deadline-visa-free-travel-eu-ambassador-withdraw)
+1. [Cover Image](https://i.guim.co.uk/img/media/a13ca6e008c97d6e45364a1f6f6b3338bce7b553/0_1_2936_1762/2936.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4e35b6ed67ac6ffc4e920bc1e96db2d1)
 
 ### Related:
 

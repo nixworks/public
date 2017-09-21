@@ -8,6 +8,7 @@ A gunman shot dead a 15-year-old girl and wounded two other children at a Bulgar
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/23589577/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

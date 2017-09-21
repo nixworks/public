@@ -8,6 +8,7 @@ A suicide bomber has targeted a mosque in eastern Saudi Arabia as worshippers co
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/world-news/shiites-die-in-saudi-suicide-blast-31244985.html)
+1. [Cover Image](http://www.independent.ie/world-news/article31244984.ece/ALTERNATES/h342/PANews_P-4d8868cf-015b-43ab-9e7f-9c9c4ee3eb53_I1.jpg)
 
 ### Related:
 

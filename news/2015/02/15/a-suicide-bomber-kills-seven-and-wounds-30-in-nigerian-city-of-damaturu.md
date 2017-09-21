@@ -8,6 +8,7 @@ A female suicide bomber kills seven people at a bus station in the Nigerian city
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-31480100)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81021000/jpg/_81021176_017773199.jpg)
 
 ### Related:
 

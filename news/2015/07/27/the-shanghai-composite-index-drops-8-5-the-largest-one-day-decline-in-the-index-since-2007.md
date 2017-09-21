@@ -8,6 +8,7 @@ China’s stocks tumbled, with the benchmark index falling the most since Februa
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-07-27/chinese-stock-index-futures-drop-before-industrial-profits)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

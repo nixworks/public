@@ -8,6 +8,7 @@ The North Fire started at about 2:30 p.m. near Interstate 15 north of Highway 13
 ### Source:
 
 1. [CBS-Los Angeles](http://losangeles.cbslocal.com/2015/07/18/3-homes-44-vehicles-destroyed-in-3500-acre-north-fire-in-baldy-mesa/)
+1. [Cover Image](https://cbsla.files.wordpress.com/2015/07/north-fire.jpg?w=625)
 
 ### Related:
 

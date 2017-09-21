@@ -8,6 +8,7 @@ A huge new study conducted in 33 sites across Europe finds that seeds coated wit
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows)
+1. [Cover Image](https://media.npr.org/assets/img/2017/06/29/crop-assessments-by-ceh-ecologists_wide-a8edc693d8d63e6adbb1caa205f9035b58c9eddb.jpg?s=1400)
 
 ### Related:
 

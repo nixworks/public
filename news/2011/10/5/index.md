@@ -31,7 +31,7 @@ _Context: Cupertino, California_
 Airliners will be grounded, trains halted and tax offices shut when Greek state workers strike against austerity measures on Wednesday, defying a plea by the government to rally behind its effort to fend off national bankruptcy.
 
 ### [Luis Fortuo, the Governor of the US Commonwealth of Puerto Rico, submits a plan for a two-part referendum to change the islands's status. ](/news/2011/10/5/luis-fortuno-the-governor-of-the-us-commonwealth-of-puerto-rico-submits-a-plan-for-a-two-part-referendum-to-change-the-islands-s-status.md)
-_Context: Governor of Puerto Rico, Luis Fortuo, Puerto Rico, islands's status, referendum_
+_Context: Luis Fortuo, Puerto Rican Governor, Puerto Rico, islands's status, referendum_
 
 ### [The Governor of the US state of Alabama, Robert Bentley, orders flags on state government buildings to fly at half-mast following the death of civil rights leader Fred Shuttlesworth. ](/news/2011/10/5/the-governor-of-the-us-state-of-alabama-robert-bentley-orders-flags-on-state-government-buildings-to-fly-at-half-mast-following-the-death.md)
 The governor called him &quot;a true pioneer for civil rights&quot; and &quot;an Alabama treasure.&quot; 

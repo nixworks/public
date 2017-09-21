@@ -8,6 +8,7 @@ Move comes as FARC rebels declare two-month unilateral truce after holding meeti
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/11/20121119172026891751.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/28/201282863853980734_20.jpg)
 
 ### Related:
 

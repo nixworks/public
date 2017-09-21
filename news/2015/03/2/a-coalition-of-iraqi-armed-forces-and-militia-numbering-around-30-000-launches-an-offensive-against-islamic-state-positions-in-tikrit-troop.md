@@ -8,6 +8,7 @@ Iraqi forces say they have retaken some districts around Tikrit in their fight t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-31699632)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81347000/jpg/_81347115_026133865.jpg)
 
 ### Related:
 

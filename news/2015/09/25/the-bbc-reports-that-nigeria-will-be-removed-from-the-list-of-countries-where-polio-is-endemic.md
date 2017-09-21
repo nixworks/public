@@ -8,6 +8,7 @@ The World Health Organization removes Nigeria from the list of polio endemic cou
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/health-34328447)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11858/production/_85686717_30polioimm2.jpg)
 
 ### Related:
 

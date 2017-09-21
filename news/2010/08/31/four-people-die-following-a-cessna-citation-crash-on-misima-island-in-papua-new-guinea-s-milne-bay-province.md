@@ -9,6 +9,7 @@ Foreign Minister Stephen Smith has confirmed three Australians were among those 
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/australian-dies-in-png-plane-crash-20100831-14fd5.html)
 2. [ABC Online](http://www.abc.net.au/news/stories/2010/09/01/2998822.htm)
+2. [Cover Image](http://www.abc.net.au/news/image/965288-1x1-700x700.jpg)
 
 ### Related:
 

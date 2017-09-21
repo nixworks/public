@@ -8,6 +8,7 @@ Hundreds of thousands face running out of food in besieged city, while Isis laun
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/27/dozens-dead-in-syria-bomb-blast-qamishli)
+1. [Cover Image](https://i.guim.co.uk/img/media/1898e79531241089edd6ab3a0a33bc2f3cdae3dc/0_200_3000_1800/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9ace21645f6b11dab777ada470f42049)
 
 ### Related:
 

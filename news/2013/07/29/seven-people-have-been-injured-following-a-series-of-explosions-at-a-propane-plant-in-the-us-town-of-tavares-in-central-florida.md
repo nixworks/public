@@ -10,6 +10,7 @@ All the night shift workers at a central Florida gas plant are safe after a seri
 1. [AP via ''Vancouver Post](http://www.vancouversun.com/news/world/Multiple+explosions+blow+roof+Florida+plant+fatalities/8723691/story.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-23499689#TWEET838784)
 3. [Fox News](http://www.foxnews.com/us/2013/07/30/explosions-reported-at-gas-plant-in-central-florida/)
+3. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/073013/0/0/073013_an_propaneplant_640.jpg?ve=1)
 
 ### Related:
 

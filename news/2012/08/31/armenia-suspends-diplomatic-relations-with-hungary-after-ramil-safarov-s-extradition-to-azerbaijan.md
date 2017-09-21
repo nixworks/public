@@ -8,6 +8,7 @@ Armenia is severing diplomatic ties with Hungary after the release of an Azeri a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19440661)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62612000/jpg/_62612835_62612834.jpg)
 
 ### Related:
 

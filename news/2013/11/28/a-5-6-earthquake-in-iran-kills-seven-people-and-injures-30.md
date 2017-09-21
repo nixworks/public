@@ -9,6 +9,7 @@ The epicentre lies 35 miles from the Bushehr nuclear plant, where concerns have 
 
 1. [Reuters](http://www.reuters.com/article/2013/11/28/us-iran-quake-idUSBRE9AR0O120131128)
 2. [Sky News](http://news.sky.com/story/1175142/iran-earthquake-near-nuclear-plant-kills-seven)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/iran-earthquake-map-1_3624695.jpg?20160705155228)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A prominent Burundi opposition politician urged the United Nations on Friday to 
 1. [Al Jazeera](http://america.aljazeera.com/articles/2015/11/13/us-urges-dialogue-in-burundi-as-dangerous-rhetoric-threatens-more-violence.html)
 2. [Reuters](http://www.reuters.com/article/2015/11/13/us-burundi-unrest-idUSKCN0T20ZJ20151113#Yku8TkjMRXTFmpEE.97)
 3. [UN](http://www.un.org/apps/news/story.asp?NewsID=52538#.VkZzhF5BnYs)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151113&t=2&i=1094635392&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAC0VQ)
 
 ### Related:
 

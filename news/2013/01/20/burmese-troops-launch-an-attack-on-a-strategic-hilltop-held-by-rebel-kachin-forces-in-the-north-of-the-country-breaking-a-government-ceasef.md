@@ -8,6 +8,7 @@ Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21107440)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65394000/jpg/_65394620_kachinkiasoldiers-1160057.jpg)
 
 ### Related:
 

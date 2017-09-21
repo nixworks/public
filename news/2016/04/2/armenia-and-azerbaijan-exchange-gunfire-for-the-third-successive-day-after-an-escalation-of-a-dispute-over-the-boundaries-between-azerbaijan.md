@@ -8,6 +8,7 @@ Hostilities on the border of the disputed Nagorno-Karabakh region with Azerbaija
 ### Source:
 
 1. [RT](https://www.rt.com/news/338102-armenia-azerbaijan-karabakh-violence/)
+1. [Cover Image](https://img.rt.com/files/2016.04/article/56ff6a90c36188377b8b45fb.jpg)
 
 ### Related:
 

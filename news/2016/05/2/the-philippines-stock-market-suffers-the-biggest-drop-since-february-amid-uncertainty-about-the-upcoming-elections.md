@@ -8,6 +8,7 @@ Philippine stocks fell the most since February after a poll showed tough-talking
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-02/election-jitters-send-philippine-stock-investors-to-sidelines)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1qcPRaEBRXI/v3/1200x800.jpg)
 
 ### Related:
 

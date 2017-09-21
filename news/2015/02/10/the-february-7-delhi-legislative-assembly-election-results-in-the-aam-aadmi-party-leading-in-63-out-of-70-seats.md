@@ -8,3 +8,4 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-31294500?OCID=twitterasia)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/80899000/jpg/_80899912_80899911.jpg)

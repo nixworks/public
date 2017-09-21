@@ -8,6 +8,7 @@ Ernesto Fazzalari of Calabrian ’Ndrangheta faces life sentence having been fou
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jun/26/mafia-ernesto-fazzalari-arrest-ndrangheta-calabrian-italy)
+1. [Cover Image](https://i.guim.co.uk/img/media/1edf36f887089d7f643011fd7fcd520121b8fd86/0_33_2024_1214/2024.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0762616cef44d20b58a425c0daadd45e)
 
 ### Related:
 

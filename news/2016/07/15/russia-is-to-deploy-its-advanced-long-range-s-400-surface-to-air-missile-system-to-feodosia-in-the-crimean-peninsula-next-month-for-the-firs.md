@@ -9,6 +9,7 @@ Russia is to deploy its advanced long-range surface-to-air missiles S-400 in Cri
 
 1. [RT](https://www.rt.com/news/351219-crimea-s-400-missiles/)
 2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/russia-crimea-antimissile-system-s-400/27860314.html)
+2. [Cover Image](https://img.rt.com/files/2016.07/article/5788ac77c46188b3328b4572.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Saudi Arabia has warned France it is the target of an imminent al-Qaeda attack, 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11562598)
 2. [CNN](http://www.cnn.com/2010/WORLD/europe/10/17/france.terror.threat/index.html)
 3. [Reuters via Yahoo!](http://news.yahoo.com/s/nm/20101017/ts_nm/us_france_terrorism)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

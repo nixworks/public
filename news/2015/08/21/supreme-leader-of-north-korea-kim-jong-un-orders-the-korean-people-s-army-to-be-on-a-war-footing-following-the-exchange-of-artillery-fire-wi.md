@@ -9,6 +9,7 @@ North Korean leader Kim Jong-un has ordered his frontline troops to be on a war 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/north-korea-state-media-army-mobilised-150821003337584.html)
 2. [BBC](http://www.bbc.com/news/world-asia-34013475)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A79E/production/_85101924_nkorealeaderphoto2.png)
 
 ### Related:
 

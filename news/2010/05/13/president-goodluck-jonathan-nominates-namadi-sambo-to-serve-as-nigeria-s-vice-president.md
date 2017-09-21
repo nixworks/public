@@ -8,6 +8,7 @@ Nomination of Sambo, a governor from north, must be approved by houses of parlia
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201051317124433566.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

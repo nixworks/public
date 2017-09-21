@@ -9,6 +9,7 @@ The push comes as President Obama is reportedly weighing taking executive action
 
 1. [Reuters](http://www.reuters.com/article/2015/10/27/us-usa-guns-police-idUSKCN0SK2RR20151027)
 2. [USA Today](http://www.usatoday.com/story/news/2015/10/26/polaice-chiefs-renew-push-for-expanded-background-checks-guns/74650146/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

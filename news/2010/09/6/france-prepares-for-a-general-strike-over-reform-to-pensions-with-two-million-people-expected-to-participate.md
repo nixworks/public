@@ -8,6 +8,7 @@ Two million French people will take to the streets on Tuesday to protest against
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7985033/Two-million-French-people-to-strike-over-Sarkozys-pensions-reform.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01709/Pension_1709571a.jpg)
 
 ### Related:
 

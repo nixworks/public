@@ -8,6 +8,7 @@ Syrian rebel fighters launch an attack on Aleppo prison, and government forces r
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22536489)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67624000/jpg/_67624983_rebels_grab.jpg)
 
 ### Related:
 

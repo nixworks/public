@@ -10,6 +10,7 @@ Dutch voters back pro-European centrist parties and inflict heavy losses on a fa
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ibcJkDt1I7l85Agu5ybzUvKn9GKw?docId=3a2b82a380c843fca68ef98da08c87ba)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-19566165)
 3. [The Washington Post](http://www.washingtonpost.com/business/dutch-election-could-change-countrys-allegiances-in-eu-efforts-to-resolve-debt-crisis/2012/09/12/c077d5d4-fc97-11e1-98c6-ec0a0a93f8eb_story.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62878000/jpg/_62878066_62878065.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Israeli soldiers shot dead two Palestinian teens who had attacked an Israeli set
 
 1. [AFP via i24news](http://www.i24news.tv/en/news/israel/diplomacy-defense/104762-160302-west-bank-two-palestinian-terrorists-killed-after-attempted-attack)
 2. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKCN0W40I8)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

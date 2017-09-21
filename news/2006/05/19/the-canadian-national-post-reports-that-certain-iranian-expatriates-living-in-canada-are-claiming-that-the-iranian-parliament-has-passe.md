@@ -13,6 +13,7 @@ Iranian expatriates reveal that ‘National Uniform Law’ authorized by Iranian
 4. [National Post](http://www.canada.com/nationalpost/news/story.html?id=6626a0fa-99de-4f1e-aebe-bb91af82abb3)
 5. [UPI](http://www.upi.com/InternationalIntelligence/view.php?StoryID=20060519-105912-5198r)
 6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3252830,00.html)
+6. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

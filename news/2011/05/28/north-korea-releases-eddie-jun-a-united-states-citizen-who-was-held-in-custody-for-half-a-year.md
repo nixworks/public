@@ -8,6 +8,7 @@ The United States is welcoming a North Korean announcement that it will free an 
 ### Source:
 
 1. [The Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2011/05/28/2011052800329.html)
+1. [Cover Image](http://image.chosun.com/facebook/newson.gif)
 
 ### Related:
 

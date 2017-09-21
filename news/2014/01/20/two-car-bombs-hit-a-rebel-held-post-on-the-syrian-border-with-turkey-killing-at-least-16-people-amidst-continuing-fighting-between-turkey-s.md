@@ -8,6 +8,7 @@ Two car bombs hit a rebel-held post on the Syrian border with Turkey on Monday, 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/20/us-syria-crisis-bomb-idUSBREA0J10L20140120)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140120&t=2&i=831079852&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0J19WI00)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2009/08/200982318443710242.html)
 2. [Baltic Times](http://www.baltictimes.com/news/articles/23392/)
 3. [Guardian](http://www.guardian.co.uk/commentisfree/2009/aug/19/eu-parliament-soviet-nazi-history)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

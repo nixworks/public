@@ -11,6 +11,7 @@
 2. [RT](http://rt.com/Top_News/2010-03-28/firts-step-time-reform.html)
 3. [Reuters](http://www.reuters.com/article/idUSTRE62R0DS20100328)
 4. [The Moscow Times](http://www.themoscowtimes.com/news/article/regions-edge-toward-moscow-time/402585.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

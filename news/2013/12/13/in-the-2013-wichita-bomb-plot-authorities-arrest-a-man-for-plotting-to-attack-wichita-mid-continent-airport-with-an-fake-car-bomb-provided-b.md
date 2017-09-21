@@ -8,6 +8,7 @@ Authorities said Friday they foiled a suicide bombing plot to blow up the Mid-Co
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/12/13/us-usa-kansas-plot-idUSBRE9BC0UI20131213)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131213&t=2&i=820169363&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BC1SS400)
 
 ### Related:
 

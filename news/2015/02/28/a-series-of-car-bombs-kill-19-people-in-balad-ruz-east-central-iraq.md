@@ -8,6 +8,7 @@ A series of car bombs has ripped through a crowded marketplace and a Shi’ite m
 ### Source:
 
 1. [AP via News 24](http://www.news24.com/news24/World/News/Bombings-kill-19-people-in-Iraq-20150228)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2421/285666f1fc434bbb93ba998270509823.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [EITB](http://www.eitb24.com/noticia_en.php?id=75268)
 2. [EuroNews](http://euronews.net/create_html.php?page=detail_info&article=298862&lng=1)
 3. [Reuters](http://www.alertnet.org/thenews/newsdesk/L12423678.htm)
+3. [Cover Image](http://imagenes22.eitb.org/multimedia/recursos/generales/img_facebook_eitbcom.jpg)
 
 ### Related:
 

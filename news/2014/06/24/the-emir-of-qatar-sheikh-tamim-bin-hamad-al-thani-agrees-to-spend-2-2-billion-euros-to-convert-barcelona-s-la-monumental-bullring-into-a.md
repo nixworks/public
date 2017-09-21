@@ -8,6 +8,7 @@ The Emir of Qatar has reportedly agreed to roll out €2.2 billion ($2.99 bn) to
 ### Source:
 
 1. [RT](http://rt.com/news/168100-qatar-build-barcelona-mosque/)
+1. [Cover Image](https://img.rt.com/files/news/29/0a/40/00/la-monumental.si.jpg)
 
 ### Related:
 

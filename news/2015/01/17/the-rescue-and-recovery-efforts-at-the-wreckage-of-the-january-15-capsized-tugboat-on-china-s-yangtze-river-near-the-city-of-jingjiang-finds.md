@@ -8,6 +8,7 @@ Twenty-two people are confirmed dead after the body of the last missing person i
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/news/asia/east-asia/story/21-confirmed-dead-one-missing-after-tugboat-capsized-chinas-yangtze-river-#)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/01/17/ChinaBoat17011502e_2x.jpg?itok=k-4nA1gn)
 
 ### Related:
 

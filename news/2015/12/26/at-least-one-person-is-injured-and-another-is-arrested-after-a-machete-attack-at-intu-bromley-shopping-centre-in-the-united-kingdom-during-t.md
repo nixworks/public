@@ -8,6 +8,7 @@ Reports of a man injured in ‘altercation’ as images on social media show sho
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/uk-news/2015/dec/26/armed-police-respond-to-man-with-machete-at-kent-shopping-centre)
+1. [Cover Image](https://i.guim.co.uk/img/media/4f8fdf98aa11c127cb7aba1899cb334185a04f06/0_312_4816_2890/master/4816.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b1591ff086be879910f5adb4d4cc928a)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The siblings said the Madonna told them three secrets, which were later interpre
 
 1. [NBC News](http://www.nbcnews.com/news/world/pope-francis-canonizes-children-behind-three-secrets-fatima-n758531)
 2. [The New York Times](https://www.nytimes.com/2017/05/13/world/europe/in-portugal-pope-proclaims-two-fatima-siblings-saints.html?_r=0)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_19/1998836/popefrancis_f0d218914304c940d0e85003c5d70316.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

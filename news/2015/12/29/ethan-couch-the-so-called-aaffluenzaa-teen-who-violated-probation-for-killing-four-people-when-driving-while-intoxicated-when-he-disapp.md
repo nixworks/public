@@ -8,6 +8,7 @@ A rich Texas teenager who fled with his mother to Mexico to avoid possible jail 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-texas-affluenza-idUSKBN0UC07420151229)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151229&t=2&i=1105690627&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBS0MO)
 
 ### Related:
 

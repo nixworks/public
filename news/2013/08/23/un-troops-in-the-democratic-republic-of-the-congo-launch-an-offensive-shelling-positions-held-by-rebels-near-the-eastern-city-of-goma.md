@@ -8,6 +8,7 @@ UN troops in DR Congo launch an offensive on M23 rebels after shelling on Goma k
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23816186)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69452000/jpg/_69452878_69452877.jpg)
 
 ### Related:
 

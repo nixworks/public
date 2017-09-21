@@ -8,6 +8,7 @@ ROME -- Former Italian Prime Minister Silvio Berlusconi was ordered Tuesday to s
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-silvio-berlusconi-sentenced-community-service-20140415,0,4150086.story#axzz2yxViuXIB)
+1. [Cover Image](http://www.trbimg.com/img-534d1f2a/turbine/la-fg-wn-silvio-berlusconi-sentenced-community-service-20140415)
 
 ### Related:
 

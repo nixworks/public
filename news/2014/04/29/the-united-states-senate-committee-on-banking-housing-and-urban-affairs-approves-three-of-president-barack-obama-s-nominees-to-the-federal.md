@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/29/us-usa-fed-nominees-idUSBREA3S0N720140429)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140429&t=2&i=892820677&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3S13Q900)
 
 ### Related:
 

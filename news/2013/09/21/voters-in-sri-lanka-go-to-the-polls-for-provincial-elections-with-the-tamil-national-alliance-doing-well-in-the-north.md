@@ -8,6 +8,7 @@ Sri Lanka&#039;s main Tamil party Sunday won a whopping landslide in the first s
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2013/09/22/tamil-party-heads-big-win-sri-lanka)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/public%3A/tamil_vote_srilanka_getty_130922.jpg)
 
 ### Related:
 

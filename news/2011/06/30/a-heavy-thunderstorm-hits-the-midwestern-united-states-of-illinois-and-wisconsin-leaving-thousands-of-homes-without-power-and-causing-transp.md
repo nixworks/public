@@ -9,6 +9,7 @@ About 20,000 homes and businesses served by Commonwealth Edison Co. were without
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-temperatures-headed-for-upper-90s-20110630,0,7913478.story)
 2. [WISN](http://www.wisn.com/r/28415289/detail.html)
+2. [Cover Image](http://www.trbimg.com/img-5326870f/turbine/chi-temperatures-headed-for-upper-90s-20110630)
 
 ### Related:
 

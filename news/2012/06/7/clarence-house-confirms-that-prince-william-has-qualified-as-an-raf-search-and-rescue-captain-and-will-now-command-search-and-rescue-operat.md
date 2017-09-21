@@ -8,6 +8,7 @@ Prince William qualified as an RAF search and rescue captain just a few days bef
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18354699)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60754000/jpg/_60754790_william_mod.jpg)
 
 ### Related:
 

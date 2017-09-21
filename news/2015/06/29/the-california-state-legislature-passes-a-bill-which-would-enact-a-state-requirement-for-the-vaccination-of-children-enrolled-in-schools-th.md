@@ -8,6 +8,7 @@ Gov. Jerry Brown must now decide whether to sign into law a bill that would requ
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/political/la-me-ln-california-legislature-expected-to-pass-tough-vaccination-law-20150628-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5591a294/turbine/la-me-ln-california-legislature-expected-to-pass-tough-vaccination-law-20150628)
 
 ### Related:
 

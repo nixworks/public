@@ -8,6 +8,7 @@ Thirty years ago today, Filipinos achieved the impossible and brought down a dic
 ### Source:
 
 1. [The Philippine Star](http://www.philstar.com/headlines/2016/02/25/1556601/1986-people-power-philippiness-gift-world)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/headlines/20150225/Anti-government-demostrators-8.jpg)
 
 ### Related:
 

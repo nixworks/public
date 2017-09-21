@@ -11,6 +11,7 @@ Canberra has found itself at the centre of clashing rallies by climate action ca
 2. [Daily Telegraph](http://www.dailytelegraph.com.au/news/more-than-3000-rally-against-carbon-tax-outside-parliament-house/story-e6freuy9-1226026717154)
 3. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/tax-climate-protesters-rally-20110323-1c5iy.html)
 4. [The Australian](http://www.theaustralian.com.au/national-affairs/climate/carbon-tax-protesters-labelled-extremists-as-they-rally-in-canberra/story-e6frg6xf-1226026565064)
+4. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

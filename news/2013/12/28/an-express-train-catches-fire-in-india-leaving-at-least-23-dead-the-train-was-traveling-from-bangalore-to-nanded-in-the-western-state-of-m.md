@@ -8,6 +8,7 @@ A fire broke out on an express train in southern India early Saturday and killed
 ### Source:
 
 1. [AP via FOX News](http://www.foxnews.com/world/2013/12/27/india-train-crash-leaves-at-least-23-dead-officials-say/?intcmp=latestnews)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

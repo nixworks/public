@@ -8,6 +8,7 @@ At least 39 people die as a bus transporting Hindu pilgrims from India swerves o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18847034)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61581000/jpg/_61581048_buscrash1507_rtr.jpg)
 
 ### Related:
 

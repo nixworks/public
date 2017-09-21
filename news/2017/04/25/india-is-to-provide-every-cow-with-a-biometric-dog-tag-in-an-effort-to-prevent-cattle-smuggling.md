@@ -8,6 +8,7 @@ NEW DELHI: All cows, their calves, oxen and bulls in the country will be tagged 
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/soon-aadhaar-like-id-for-cattle/articleshow/58352347.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/58352349.cms?106310)
 
 ### Related:
 

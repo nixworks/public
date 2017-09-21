@@ -9,6 +9,7 @@ Truckers sound their horns across Poland as the first victim of the Berlin lorry
 
 1. [BBC](http://www.bbc.com/news/world-europe-38470982)
 2. [Deutsche Welle](http://www.dw.com/en/poles-bid-farewell-to-first-victim-of-berlin-attack/a-36956779)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BC0A/production/_93183184_mediaitem93183183.jpg)
 
 ### Related:
 

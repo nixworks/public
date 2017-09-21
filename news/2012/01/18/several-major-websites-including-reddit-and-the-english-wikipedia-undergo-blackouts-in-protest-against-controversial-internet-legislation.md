@@ -11,6 +11,7 @@ With a Web-wide protest on Wednesday that includes a shutdown of Wikipedia, the 
 2. [New York Times](http://www.nytimes.com/2012/01/18/technology/web-wide-protest-over-two-antipiracy-bills.html)
 3. [O'Reilly Radar](http://radar.oreilly.com/2012/01/the-week-the-web-changed-washi.html)
 4. [Washington Post](http://www.washingtonpost.com/business/six-us-lawmakers-abandon-anti-piracy-bills-as-google-protests/2012/01/18/gIQAzBHz8P_story.html?tid=pm_business_pop)
+4. [Cover Image](https://static01.nyt.com/images/2012/01/19/business/19sopaspan/19sopaspan-thumbStandard.jpg)
 
 ### Related:
 

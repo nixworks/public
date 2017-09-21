@@ -8,6 +8,7 @@ Helicopters managed to extract 65 people from the gondolas late on Thursday — 
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/09/09/493238090/after-cable-cars-got-stuck-in-the-alps-dozens-spent-night-suspended-in-midair)
+1. [Cover Image](https://media.npr.org/assets/img/2016/09/09/gettyimages-600973218_wide-d2af1932099949499042a9a6e655d4a4b28d6aed.jpg?s=1400)
 
 ### Related:
 

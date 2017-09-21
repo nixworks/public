@@ -8,6 +8,7 @@ The Guardian Council confirms the result of Iran’s 12th presidential election.
 ### Source:
 
 1. [PressTV](http://www.presstv.ir/Detail/2017/05/30/523687/Iran-Guardian-Council-Hassan-Rouhani-presidential-election)
+1. [Cover Image](http://cdn.presstv.com/photo/20170530/b57164b7-8e11-4722-b35d-7e7075a04cbe.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gov. Eliot Spitzer has been caught on a federal wiretap arranging to meet with a
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/03/10/nyregion/10cnd-spitzer.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/03/10/us/11spitzer04_75.jpg)
 
 ### Related:
 

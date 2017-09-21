@@ -8,6 +8,7 @@ Former Pope Benedict returns to a new home in the Vatican, two months after beco
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22385252)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67385000/jpg/_67385706_67385705.jpg)
 
 ### Related:
 

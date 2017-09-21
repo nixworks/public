@@ -9,6 +9,7 @@
 
 1. [Daily News](http://www.nydailynews.com/new-york/stabbed-jamaica-article-1.1255200)
 2. [NBC New York](http://www.nbcnewyork.com/news/local/Subway-Stabbing-J-Train-Jamaica-Archer-Avenue-Parsons-Boulevard-189709621.html)
+2. [Cover Image](http://media.nbcnewyork.com/images/1232*675/police_tape_crime_generic.jpg)
 
 ### Related:
 

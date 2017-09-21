@@ -8,6 +8,7 @@ At least 16 children and a teacher are killed in a fire on their school bus in t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22664819)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/67812000/jpg/_67812262_67812079.jpg)
 
 ### Related:
 

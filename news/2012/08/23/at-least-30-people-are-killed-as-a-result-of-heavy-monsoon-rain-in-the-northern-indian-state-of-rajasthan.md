@@ -8,6 +8,7 @@ Heavy monsoon rains in northern India and north-western Pakistan claim dozens of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-19352689)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62439000/jpg/_62439309_62439308.jpg)
 
 ### Related:
 

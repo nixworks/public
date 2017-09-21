@@ -8,6 +8,7 @@ Fans hoping to see German rock giants Rammstein stream out of the Nuerburg arena
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-40140968)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1766C/production/_96325859_mediaitem96325858.jpg)
 
 ### Related:
 

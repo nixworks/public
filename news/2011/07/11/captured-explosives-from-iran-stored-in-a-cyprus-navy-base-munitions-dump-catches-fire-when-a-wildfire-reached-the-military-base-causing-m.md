@@ -11,6 +11,7 @@ Massive explosions rocked anavy base in southern Cyprus on Monday after a muniti
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-cyprus-explosion-20110712,0,4119758.story)
 3. [Reuters](http://www.reuters.com/article/2011/07/11/cyprus-base-explosions-idUSLDE76A01S20110711)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/cyprus/8630190/Iran-explosives-at-centre-of-Cypriot-intrigue.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

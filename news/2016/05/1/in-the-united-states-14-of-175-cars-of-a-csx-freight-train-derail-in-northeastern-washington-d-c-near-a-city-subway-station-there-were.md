@@ -10,6 +10,7 @@ Crews are expected to work through the night to clean hazardous material spilled
 1. [Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3568169/CSX-train-derails-Washington-DC-possible-hazardous-leak.html)
 2. [The Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/csx-train-cars-derail-in-ne-washington-hazardous-substance-leaking/2016/05/01/568ae3fc-0f97-11e6-8967-7ac733c56f12_story.html)
 3. [WRC-TV](http://www.nbcwashington.com/news/local/CSX-Train-Derails-Hazardous-Material-Leaking-377725691.html)
+3. [Cover Image](http://media.nbcwashington.com/images/1200*675/firedepartment3.jpg)
 
 ### Related:
 

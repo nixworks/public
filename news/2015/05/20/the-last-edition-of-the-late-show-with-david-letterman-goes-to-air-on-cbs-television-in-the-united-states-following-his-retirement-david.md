@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN Money](http://money.cnn.com/2015/05/20/media/david-letterman-signs-off-late-show/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/150520104745-foos-letterman-780x439.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Palestinian man is killed in an Israeli military raid on a West Bank refugee c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14134711)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54044000/jpg/_54044753_012441024-1.jpg)
 
 ### Related:
 

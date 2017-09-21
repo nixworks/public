@@ -8,6 +8,7 @@ The move allows for a return to democracy after a 2014 coup, but the military wi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39517889)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E1BC/production/_95488775_hi038874426.jpg)
 
 ### Related:
 

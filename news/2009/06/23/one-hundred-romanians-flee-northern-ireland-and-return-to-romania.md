@@ -9,6 +9,7 @@ President McAleese has described recent racist attacks in Belfast as distressing
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8114234.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0623/racism.html)
+2. [Cover Image](https://img.rasset.ie/00026428-1600.jpg)
 
 ### Related:
 

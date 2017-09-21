@@ -9,6 +9,7 @@ North Korea has again urged the United States to accept its demand for direct ta
 
 1. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2912052)
 2. [UPI](http://www.upi.com/Top_News/Special/2009/11/02/North-Korea-pushes-for-direct-US-talks/UPI-71101257172857/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/71101257172857/2009/9/0bbb45d81db480c2da2de58c7af4504e/v2.1/North-Korea-pushes-for-direct-US-talks.jpg)
 
 ### Related:
 

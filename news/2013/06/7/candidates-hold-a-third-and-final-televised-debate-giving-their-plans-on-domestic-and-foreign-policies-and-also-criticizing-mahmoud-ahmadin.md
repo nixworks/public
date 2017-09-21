@@ -10,6 +10,7 @@
 1. [Live Blog](http://www.rferl.org/contentlive/live-blog-iran-presidential-debate/25010153.html)
 2. [PressTV](http://www.presstv.ir/detail/2013/06/07/307654/iranian-candidates-hold-third-debate/)
 3. [Reuters](http://www.reuters.com/article/2013/06/07/us-iran-election-debate-idUSBRE9560UR20130607)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130607&t=2&i=739171973&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9561JWA00)
 
 ### Related:
 

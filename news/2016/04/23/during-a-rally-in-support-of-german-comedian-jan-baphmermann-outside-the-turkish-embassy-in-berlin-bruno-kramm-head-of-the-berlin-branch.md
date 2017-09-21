@@ -8,6 +8,7 @@ During a rally supporting comedian Jan Boehmermann, Bruno Kramm, the head of the
 ### Source:
 
 1. [RT](https://www.rt.com/news/340691-pirate-party-leader-arrest-erdogan/)
+1. [Cover Image](https://img.rt.com/files/2016.04/article/571b07cbc461888a588b45d5.jpg)
 
 ### Related:
 

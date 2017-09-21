@@ -24,6 +24,7 @@ Israel has detained 487 pro-Palestinian activists captured in its deadly command
 15. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3897599,00.html)
 16. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3897091,00.html)
 17. [YouTube](http://www.youtube.com/watch?v=EVrhQTiAJxM)
+17. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

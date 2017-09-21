@@ -10,6 +10,7 @@ Brazil launches an international Portuguese-language TV station based in Africa.
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10152301.stm)
 2. [France24](http://www.france24.com/en/20100525-brazil-launches-international-tv-network)
 3. [MercoPress](http://en.mercopress.com/2010/05/24/brazil-launches-its-public-broadcasting-service-targeted-to-africa)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

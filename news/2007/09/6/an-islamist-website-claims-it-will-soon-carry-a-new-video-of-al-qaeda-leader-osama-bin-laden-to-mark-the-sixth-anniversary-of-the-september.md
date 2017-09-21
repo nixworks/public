@@ -8,6 +8,7 @@ An Islamist Web site said on Friday it would soon carry a new video of al Qaeda 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL0664701620070906)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070906&t=2&i=1667084&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-06T213023Z_01_L06647016_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

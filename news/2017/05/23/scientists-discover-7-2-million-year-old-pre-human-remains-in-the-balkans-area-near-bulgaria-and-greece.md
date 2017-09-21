@@ -8,6 +8,7 @@ The common lineage of great apes and humans split several hundred thousand earli
 ### Source:
 
 1. [Phys.org](https://phys.org/news/2017-05-scientists-million-year-old-pre-human-balkans.html)
+1. [Cover Image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/8-scientistsfi.jpg)
 
 ### Related:
 

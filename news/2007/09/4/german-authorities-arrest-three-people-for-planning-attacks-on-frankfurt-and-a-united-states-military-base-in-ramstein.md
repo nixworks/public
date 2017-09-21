@@ -8,6 +8,7 @@ German security services foiled a plan by Islamist militants to carry out &quot;
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSL0546383320070905)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070905&t=2&i=1657549&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-05T160419Z_01_L05463833_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

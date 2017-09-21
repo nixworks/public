@@ -8,6 +8,7 @@ A 17-year-old Briton became the youngest person to sail round the globe single-h
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE57Q2V220090827)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090827&t=2&i=11377840&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-27T132044Z_01_BTRE57Q112P00_RTROPTP_0_BRITAIN)
 
 ### Related:
 

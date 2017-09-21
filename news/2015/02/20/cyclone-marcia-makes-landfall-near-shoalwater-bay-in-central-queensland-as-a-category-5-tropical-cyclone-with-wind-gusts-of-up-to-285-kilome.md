@@ -9,6 +9,7 @@ Tropical Cyclone Marcia is downgraded to a category two storm after battering th
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-02-20/tropical-cyclone-lam-crosses-mainland-coast/6153902)
 2. [ABC News Australia](http://www.abc.net.au/news/2015-02-20/tropical-cyclone-marcia-category-five-looms-off-queensland-coast/6153166)
+2. [Cover Image](http://www.abc.net.au/news/image/6159370-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ China’s Haier Group agreed to buy General Electric Co.’s appliance business 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-01-15/haier-said-to-be-near-4-billion-deal-to-buy-ge-unit-wsj-says)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEvuROJa0E4U/v1/1200x800.jpg)
 
 ### Related:
 

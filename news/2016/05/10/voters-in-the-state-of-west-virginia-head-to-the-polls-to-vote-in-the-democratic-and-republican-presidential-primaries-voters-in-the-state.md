@@ -12,6 +12,7 @@ West Virginia election results from the 2016 general election.
 3. [New York Daily News](http://www.nydailynews.com/news/politics/bernie-sanders-poised-primary-win-west-virginia-article-1.2630672)
 4. [New York Times](http://www.nytimes.com/elections/results/west-virginia)
 5. [Washington Examiner](http://www.washingtonexaminer.com/trump-triumphs-in-west-virginia-nebraska/article/2590967)
+5. [Cover Image](https://int.nyt.com/applications/elections/2016/assets/87277bc9f26e/img/general-WV.png)
 
 ### Related:
 

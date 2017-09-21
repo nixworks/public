@@ -9,6 +9,7 @@ Police in Belarus beat and arrest scores of protesters and several presidential 
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12037486)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/12/20/belarus.election/index.html?eref=edition)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

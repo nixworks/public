@@ -9,6 +9,7 @@ Myanmar President Thein Sein and the powerful army congratulated democratic cham
 
 1. [Channel 3000](http://www.channel3000.com/news/myanmar-vote-suu-kyi-predicts-majority/36358008)
 2. [Reuters](http://www.reuters.com/article/2015/11/11/us-myanmar-election-idUSKCN0SW0TP20151111#TZdzAMkJp5jOPYS2.97)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151111&t=2&i=1094003690&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAA0EU)
 
 ### Related:
 

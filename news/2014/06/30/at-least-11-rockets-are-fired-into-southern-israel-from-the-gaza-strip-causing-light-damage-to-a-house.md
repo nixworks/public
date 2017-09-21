@@ -8,6 +8,7 @@ According to military assessments, Hamas has not been behind recent rocket attac
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Defense/In-sign-of-rising-tensions-8-more-rockets-explode-in-southern-Israel-360988)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=247620)
 
 ### Related:
 

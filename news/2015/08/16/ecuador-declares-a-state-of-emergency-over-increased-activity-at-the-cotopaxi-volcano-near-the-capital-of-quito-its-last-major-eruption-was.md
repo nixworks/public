@@ -10,6 +10,7 @@ Officials evacuate several hundred people amid increasing activity in Cotopaxi v
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/state-emergency-ecuador-volcano-spews-ash-150816161844170.html)
 2. [BBC](http://www.bbc.co.uk/newsround/33947860)
 3. [Dalje.com](http://dalje.com/en-world/volcanos-rumblings-prompt-ecuador-to-declare-state-of-emergency/552855)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/8/16/2d17811a8f864ed585aed7d69e632141_18.jpg)
 
 ### Related:
 

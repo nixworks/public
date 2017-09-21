@@ -8,6 +8,7 @@ It was a second hung jury for Ray Tensing, the ex-officer charged in the death o
 ### Source:
 
 1. [New York Times](https://www.nytimes.com/2017/06/23/us/raymond-tensing-samuel-dubose-cincinnati.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/06/21/us/00cincinnati/00cincinnati-facebookJumbo.jpg)
 
 ### Related:
 

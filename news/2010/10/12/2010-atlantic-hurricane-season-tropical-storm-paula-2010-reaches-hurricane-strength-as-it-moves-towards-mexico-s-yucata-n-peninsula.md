@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69A4TD20101012)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20101012&t=2&i=224327175&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-12T200410Z_01_BTRE69B1J6000_RTROPTP_0_STORM-PAULA)
 
 ### Related:
 

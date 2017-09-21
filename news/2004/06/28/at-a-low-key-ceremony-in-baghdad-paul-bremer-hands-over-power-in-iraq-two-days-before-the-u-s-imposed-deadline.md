@@ -11,6 +11,7 @@ A militant Iraqi group said it would behead an American marine unless the U.S. r
 2. [AlJazeera](http://english.aljazeera.net/NR/exeres/4E4D8BDF-ED99-40F1-8C9C-E98BAFC543C6.htm)
 3. [BBC](http://news.bbc.co.uk/2/hi/europe/3845517.stm)
 4. [NYT](http://www.nytimes.com/2004/06/27/international/middleeast/27CND-IRAQ.html?hp)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

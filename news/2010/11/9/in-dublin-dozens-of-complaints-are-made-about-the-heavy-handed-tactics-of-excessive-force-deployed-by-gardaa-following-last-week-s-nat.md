@@ -9,6 +9,7 @@ The Garda S&iacute;och&aacute;na Ombudsman Commission has received 28 complaints
 
 1. [RTÉ](http://www.rte.ie/news/2010/1109/education.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1109/breaking20.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

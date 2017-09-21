@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-33546465)
 2. [NHK](http://www3.nhk.or.jp/nhkworld/english/news/20150716_28.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/D034/production/_84300335_84300334.jpg)
 
 ### Related:
 

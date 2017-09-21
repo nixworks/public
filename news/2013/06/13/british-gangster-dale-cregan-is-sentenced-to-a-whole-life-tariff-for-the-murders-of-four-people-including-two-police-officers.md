@@ -8,6 +8,7 @@ Dale Cregan will spend the rest of his life in jail for four murders including t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-22893157)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68154000/jpg/_68154326_cregan_beard_464.jpg)
 
 ### Related:
 

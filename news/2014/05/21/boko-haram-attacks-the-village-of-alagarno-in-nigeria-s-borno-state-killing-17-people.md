@@ -8,6 +8,7 @@ Suspected Boko Haram fighters are accused of killing at least 27 people in two n
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27498598)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74999000/jpg/_74999814_74999813.jpg)
 
 ### Related:
 

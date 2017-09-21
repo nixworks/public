@@ -9,6 +9,7 @@
 
 1. [Haaretz](http://www.haaretz.com/print-edition/news/high-court-frees-arab-in-case-of-rape-by-impersonating-jew-1.305845)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/04/saber-kushour-rape-deception-release)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.305887.1280880741!/image/808252099.jpg_gen/derivatives/headline_1200x630/808252099.jpg)
 
 ### Related:
 

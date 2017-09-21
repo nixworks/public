@@ -16,7 +16,7 @@ Berlin to begin returning newly arrived asylum seekers to Greece after five-year
 The jury deliberating on the fate of accused murderer Robert Xie is having trouble reaching a unanimous verdict, a Sydney court has heard.
 
 ### [The President of the United States Barack Obama awards his Vice President Joe Biden the Presidential Medal of Freedom with Distinction, the only time the president has awarded this particular honor during his tenure. ](/news/2017/01/12/the-president-of-the-united-states-barack-obama-awards-his-vice-president-joe-biden-the-presidential-medal-of-freedom-with-distinction-the.md)
-_Context: Barack Obama, Joe Biden, President, Presidential Medal of Freedom with Distinction_
+_Context: Barack Obama, Joe Biden, Presidential Medal of Freedom with Distinction, U.S. President_
 
 ## [Previous Day...](/news/2017/01/11/index.md)
 

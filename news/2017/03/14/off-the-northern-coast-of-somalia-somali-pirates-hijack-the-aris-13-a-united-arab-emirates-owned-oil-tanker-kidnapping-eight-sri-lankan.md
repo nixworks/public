@@ -8,6 +8,7 @@ Pirates have hijacked an oil tanker off the coast of Somalia, Somali officials a
 ### Source:
 
 1. [AP via ''The Independent](http://www.independent.co.uk/news/world/africa/somali-pirates-oil-tanker-hijack-puntland-al-qaeda-al-shabab-dijibouti-mogadishu-sri-lanka-crew-a7629001.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/12/01/17/Pirates.jpg)
 
 ### Related:
 

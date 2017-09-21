@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/chandigarh/Truckers-gang-rape-US-tourist-in-Manali/articleshow/20436060.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/20430665.cms)
 
 ### Related:
 

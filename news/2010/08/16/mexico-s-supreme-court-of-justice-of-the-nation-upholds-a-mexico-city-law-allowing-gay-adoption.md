@@ -8,6 +8,7 @@ Mexico’s Supreme Court voted Monday to uphold a Mexico City law allowing adopt
 ### Source:
 
 1. [AP via ''New York Times](http://www.nytimes.com/2010/08/17/world/americas/17briefs-Mexico.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

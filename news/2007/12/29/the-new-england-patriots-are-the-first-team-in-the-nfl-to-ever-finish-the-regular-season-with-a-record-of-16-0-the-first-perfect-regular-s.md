@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/nfl/news/story?id=3173309&lpos=spotlight&lid=tab1pos2)
+1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2007%2F1229%2Fnfl_g_brady5_580.jpg)
 
 ### Related:
 

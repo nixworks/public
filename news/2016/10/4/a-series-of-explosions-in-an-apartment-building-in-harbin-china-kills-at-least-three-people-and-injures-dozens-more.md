@@ -8,6 +8,7 @@ A series of explosions rocked a high-rise building in the northeastern Chinese c
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/10/04/Apartment-building-explosion-in-northeast-China-kills-3-injures-dozens/9891475605241/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/9891475605241/2016/1/106738d73dbaa291b5929b21e73159f6/v1.5/Apartment-building-explosion-in-northeast-China-kills-3-injures-dozens.jpg)
 
 ### Related:
 

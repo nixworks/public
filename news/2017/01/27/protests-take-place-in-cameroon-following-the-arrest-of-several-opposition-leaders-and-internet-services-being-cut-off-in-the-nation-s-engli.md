@@ -8,6 +8,7 @@ Opposition leaders have been arrested and the internet has been cut in English-s
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/programmes/insidestory/2017/01/cameroon-english-speakers-170127041221360.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2017/1/27/477af900a0824b69b8d93f7c0696bf7e_18.jpg)
 
 ### Related:
 

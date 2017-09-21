@@ -8,6 +8,7 @@ The US Supreme Court partly implements the travel and refugee bans pending a ful
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-us-canada-40409490)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/E162/production/_96689675_gettyimages-633845268.jpg)
 
 ### Related:
 

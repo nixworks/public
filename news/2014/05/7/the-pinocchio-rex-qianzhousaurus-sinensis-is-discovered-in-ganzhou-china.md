@@ -9,6 +9,7 @@
 
 1. [National Geographic](http://news.nationalgeographic.com/news/2014/05/140507-pinocchio-rex-dinosaurs-tyrannosaurus-science-new-species/)
 2. [Reuters](http://in.reuters.com/article/2014/05/06/uk-science-dinosaurs-idINKBN0DM1L220140506)
+2. [Cover Image](http://news.nationalgeographic.com/content/dam/news/photos/000/793/79399.ngsversion.1422285504866.adapt.1900.1.jpg)
 
 ### Related:
 

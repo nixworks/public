@@ -9,6 +9,7 @@ Adele, Kate Bush and PJ Harvey will battle it out for best album at the Ivor Nov
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17739529)
 2. [The Guardian](http://www.guardian.co.uk/music/2012/apr/17/adele-ivor-novello-awards)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59696000/jpg/_59696018_ivor_comp.jpg)
 
 ### Related:
 

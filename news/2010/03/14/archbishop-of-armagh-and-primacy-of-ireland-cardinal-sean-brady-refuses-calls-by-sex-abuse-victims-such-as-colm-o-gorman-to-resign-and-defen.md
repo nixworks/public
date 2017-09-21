@@ -11,6 +11,7 @@ Cardinal SÃ©an Brady has defended his role in the Church&#39;s handling of child
 2. [RTÉ](http://www.rte.ie/news/2010/0314/abuse.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/mar/14/irish-catholic-church-cardinal-brady)
 4. [The Sunday Times](http://www.timesonline.co.uk/tol/news/world/ireland/article7061133.ece)
+4. [Cover Image](https://img.rasset.ie/0003044b-1600.jpg)
 
 ### Related:
 

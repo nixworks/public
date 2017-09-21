@@ -8,6 +8,7 @@ North Korea said on Thursday it would put two U.S. journalists it arrested in Ma
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54D0A620090514)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090514&t=2&i=10103782&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-14T011431Z_01_BTRE54D03GG00_RTROPTP_0_KOREA-NORTH)
 
 ### Related:
 

@@ -8,6 +8,7 @@ President Barack Obama on Wednesday announced he will visit Japan, South Korea, 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/13/us-usa-obama-asia-idUSBREA1C00220140213)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140213&t=2&i=837867446&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1C003900)
 
 ### Related:
 

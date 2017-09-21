@@ -8,6 +8,7 @@ Bipartisan members of the House Intelligence Committee denounce Edward Snowden a
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/09/15/494157921/house-intel-panel-edward-snowden-was-no-whistleblower)
+1. [Cover Image](https://media.npr.org/assets/img/2016/09/15/ap_269016455821_wide-ce8c48b031f46833adc842f845268408668ee967.jpg?s=1400)
 
 ### Related:
 

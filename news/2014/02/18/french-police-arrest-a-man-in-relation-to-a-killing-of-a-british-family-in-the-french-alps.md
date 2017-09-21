@@ -8,6 +8,7 @@ French police investigating the killing of a British family in the Alps in 2012 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26240055)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73056000/jpg/_73056741_73056740.jpg)
 
 ### Related:
 

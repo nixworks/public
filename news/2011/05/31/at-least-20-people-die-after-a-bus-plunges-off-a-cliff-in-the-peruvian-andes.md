@@ -8,6 +8,7 @@ AT least 20 people were killed and 34 injured when a speeding inter-provincial b
 ### Source:
 
 1. [AFP via News Limited](http://www.news.com.au/world/bus-plunges-off-cliff-in-peru-killing-20/story-e6frfkyi-1226067086695)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

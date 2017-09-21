@@ -9,6 +9,7 @@ Russia and China have vetoed a UN Security Council proposal that would have bann
 
 1. [RT](https://www.rt.com/news/378930-russia-china-un-veto-syria/)
 2. [The Guardian](https://www.theguardian.com/world/2017/mar/01/russia-and-china-veto-un-resolution-to-impose-sanctions-on-syria)
+2. [Cover Image](https://img.rt.com/files/2017.02/article/58b5b14ec36188cc3d8b45aa.jpg)
 
 ### Related:
 

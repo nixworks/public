@@ -9,6 +9,7 @@
 
 1. [Der Spiegel](http://www.spiegel.de/international/world/german-press-supports-sale-of-submarines-to-israel-a-837093.html)
 2. [PRESS TV](http://presstv.com/detail/2012/06/06/244813/aiding-nuclear-israel-troubles-germany/)
+2. [Cover Image](http://cdn1.spiegel.de/images/image-359634-galleryV9-cbmb-359634.jpg)
 
 ### Related:
 

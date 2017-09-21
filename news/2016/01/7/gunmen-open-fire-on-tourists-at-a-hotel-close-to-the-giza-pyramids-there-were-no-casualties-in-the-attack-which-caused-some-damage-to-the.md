@@ -8,6 +8,7 @@ Two masked gunmen opened fire at a hotel to the pyramids in Cairo as tourists bo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35251258)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1894/production/_87529260_87526212.jpg)
 
 ### Related:
 

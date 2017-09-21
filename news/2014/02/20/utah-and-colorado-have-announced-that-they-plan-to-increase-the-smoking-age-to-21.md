@@ -8,6 +8,7 @@ Colorado, Utah move to hike smoking age to 21
 ### Source:
 
 1. [Denver Post](http://www.denverpost.com/news/ci_25196980/colorado-utah-move-hike-smoking-age-21)
+1. [Cover Image](http://www.denverpost.com/wp-content/themes/denverpost/static/images/denverpost.jpg)
 
 ### Related:
 

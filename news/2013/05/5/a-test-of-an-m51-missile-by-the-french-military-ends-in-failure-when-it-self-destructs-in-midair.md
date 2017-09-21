@@ -8,6 +8,7 @@ A&#x20;ballistic&#x20;missile&#x20;was&#x20;launched&#x20;during&#x20;a&#x20;tri
 ### Source:
 
 1. [RFI](http://www.english.rfi.fr/france/20130505-failed-missile-launch-normandy-0)
+1. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/800px-Mar%C3%A9e_verte_-_Ulva_armoricana_-_006.JPG)
 
 ### Related:
 

@@ -8,6 +8,7 @@ EU regulators are set toformally object to the proposed merger of Deutsche Boers
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/10/04/eu-deutscheboerse-nyse-idUSB5E7KS06120111004)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

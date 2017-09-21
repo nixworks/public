@@ -9,6 +9,7 @@ Two people are killed and 12 are injured when a helicopter crashes into a crane 
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-21040410)
 2. [Sky News](http://news.sky.com/story/1038710/helicopter-crash-in-vauxhall-pilot-named)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65321000/jpg/_65321417_65315794.jpg)
 
 ### Related:
 

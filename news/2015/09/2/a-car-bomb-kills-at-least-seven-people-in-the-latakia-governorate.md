@@ -8,6 +8,7 @@ At least ten people were killed and scores wounded when a car bomb exploded in t
 ### Source:
 
 1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Sep-02/313689-car-bomb-kills-seven-in-syrias-latakia-state-media.ashx#.VebOksUZv9U.twitter)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/09/02/316645_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

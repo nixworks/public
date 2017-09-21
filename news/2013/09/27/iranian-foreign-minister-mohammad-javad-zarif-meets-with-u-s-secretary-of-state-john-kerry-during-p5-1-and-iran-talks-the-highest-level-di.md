@@ -10,6 +10,7 @@ UNITED NATIONS (AP) — U.S. and European diplomats welcomed a &quot;significant
 1. [Fox News](http://www.foxnews.com/world/2013/09/26/rouhani-breaks-ice-despite-missed-handshake-with-obama/)
 2. [NBC News](http://firstread.nbcnews.com/_news/2013/09/27/20722870-obama-speaks-with-iranian-president-rouhani?lite)
 3. [Yahoo! News](http://news.yahoo.com/diplomats-hail-iranian-attitude-nuke-talks-220409043.html)
+3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/wZdPaMeGtAig2GgVCesCQg--/aD0yMDE0O3c9MzIwNDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/cf858b147ca586203e0f6a706700fbe5.jpg)
 
 ### Related:
 

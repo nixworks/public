@@ -8,6 +8,7 @@ Rains lash south a day after region witnesses its heaviest rainfall in 48 years.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/04/201047142835717833.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

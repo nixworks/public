@@ -16,6 +16,7 @@ Japan has marked 64 years since Hiroshima was hit in the world&#39;s first atomi
 7. [The Guardian](http://www.guardian.co.uk/world/2009/aug/06/hiroshima-mayor-nuclear-weapons-abolition)
 8. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1249418533509&pagename=JPost%2FJPArticle%2FShowFull)
 9. [Xinhua](http://news.xinhuanet.com/english/2009-08/06/content_11833234.htm)
+9. [Cover Image](https://img.rasset.ie/00027e53-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Opposition leader-in-exile Sam Rainsy took to the airwaves over the weekend to d
 ### Source:
 
 1. [The Phnom Penh Post](http://www.phnompenhpost.com/national/hun-sen-tried-split-cnrp-rainsy)
+1. [Cover Image](http://www.phnompenhpost.com/sites/default/files/field/image/kem_sokha_and_sam_rainsy_attend_a_meeting_at_the_national_assembly_in_phnom_penh_last_year_25_01_2016_vireak_mai.jpg)
 
 ### Related:
 

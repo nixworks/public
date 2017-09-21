@@ -8,6 +8,7 @@ Former pop star Gary Glitter is released on bail after being arrested on suspici
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20114378)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63765000/jpg/_63765344_duz42kub.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Federal and state authorities announced a $95.5-million settlement Monday with t
 
 1. [AP Via Washington Post](https://www.washingtonpost.com/lifestyle/us-reaches-955m-settlement-in-for-profit-education-case/2015/11/16/5c2a0cc2-8c7d-11e5-934c-a369c80822c2_story.html)
 2. [Los Angeles Times](http://www.latimes.com/business/la-fi-for-profit-college-settlement-20151116-story.html)
+2. [Cover Image](http://www.trbimg.com/img-564a5670/turbine/la-fi-for-profit-college-settlement-20151116)
 
 ### Related:
 

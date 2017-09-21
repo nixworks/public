@@ -8,6 +8,7 @@ Wife of Bosnian Serb military leader wanted on charges of genocide is detained.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106982043394505.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

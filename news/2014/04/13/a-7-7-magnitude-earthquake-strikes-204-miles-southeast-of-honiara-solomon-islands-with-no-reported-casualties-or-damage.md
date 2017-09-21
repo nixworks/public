@@ -8,6 +8,7 @@ Another powerful earthquake has struck the Solomon Islands, the second strong te
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/04/13/solomon-islands-hit-by-another-strong-earthquake-no-immediate-reports-injuries/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

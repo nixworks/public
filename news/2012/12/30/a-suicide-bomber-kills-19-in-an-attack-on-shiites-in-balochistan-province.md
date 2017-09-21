@@ -10,6 +10,7 @@ A suicide bomber driving a vehicle packed with explosives rammed into a bus.
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2012/12/30/pakistan-bomb-bus-shiites/1798653/)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20869409)
 3. [Reuters](http://www.reuters.com/article/2012/12/30/us-pakistan-taliban-idUSBRE8BT00T20121230)
+3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

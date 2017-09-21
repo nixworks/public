@@ -8,6 +8,7 @@ At least 20 people are killed by Syrian security forces in the north-west town o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-18077394)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60257000/jpg/_60257616_014751583-1.jpg)
 
 ### Related:
 

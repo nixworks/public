@@ -8,6 +8,7 @@ Presidential candidate Park Geun-Hye apologised for abuses committed by her fath
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/09/2012924821369510.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/9/24//20129248235843734_20.jpg)
 
 ### Related:
 

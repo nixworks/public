@@ -10,6 +10,7 @@ Chile raises the alert to the highest level as the Copahue volcano on its border
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jO9qEb-MteY3s-d3XjujIA2-lH9g)
 2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/12/2012122384619614833.html)
 3. [BBC](http://www.bbc.co.uk/news/world-latin-america-20828832)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64927000/jpg/_64927202_64927201.jpg)
 
 ### Related:
 

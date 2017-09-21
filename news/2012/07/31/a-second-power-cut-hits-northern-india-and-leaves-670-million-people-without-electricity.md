@@ -11,6 +11,7 @@ Hundreds of millions are left without electricity in northern and eastern India,
 2. [BBC](http://www.bbc.co.uk/news/world-asia-india-19060279)
 3. [CNN](http://edition.cnn.com/2012/07/31/world/asia/india-blackout/index.html?hpt=hp_t1)
 4. [Reuters](http://www.reuters.com/article/2012/07/31/us-india-blackout-idUSBRE86U0C520120731)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61931000/jpg/_61931085_indiapower_ap.jpg)
 
 ### Related:
 

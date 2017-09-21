@@ -8,6 +8,7 @@ Turkey, Austria and Japan won nonpermanent seats on the United Nations Security 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/10/18/world/18nations.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

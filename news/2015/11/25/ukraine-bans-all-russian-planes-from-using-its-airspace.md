@@ -8,6 +8,7 @@ Ukraine bans all Russian planes from using its airspace as Russian state-control
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34920207)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1562C/production/_86869578_gettyimages-173319331.jpg)
 
 ### Related:
 

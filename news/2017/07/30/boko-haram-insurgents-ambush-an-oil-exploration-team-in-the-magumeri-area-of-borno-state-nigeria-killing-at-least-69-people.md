@@ -8,6 +8,7 @@ At least 69 people are known to have died in a Boko Haram ambush of an oil explo
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/Africa/News/boko-haram-ambush-death-toll-hits-69-20170729)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/3629/e23778532bef47c880927f1a4fbb50e2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A poisonous gas leak at a fertiliser plant in south-west China has killed six pe
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/06/13/2274285.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

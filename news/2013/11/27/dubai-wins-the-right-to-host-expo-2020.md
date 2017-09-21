@@ -8,6 +8,8 @@ Nation erupts in joy; leaders extend congratulations; educational institutions g
 ### Source:
 
 1. [Khaleej Times](http://www.khaleejtimes.com/kt-article-display-1.asp?xfile=data/expo/2013/November/expo_November40.xml&section=expo)
+1. [Cover Image](http://www.khaleejtimes.com/storyimage/KT/20131128/ARTICLE/311289973/AR/0/AR-311289973.jpg&NCS_modified=
+&imageversion=1by1&exif=.jpg)
 
 ### Related:
 

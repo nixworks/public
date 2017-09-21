@@ -9,6 +9,7 @@
 
 1. [Sina](http://news.sina.com.cn/c/nd/2016-07-01/doc-ifxtsatn7871098.shtml)
 2. [Sina](http://news.sina.com.cn/c/nd/2016-07-04/doc-ifxtsatn8067292.shtml)
+2. [Cover Image](http://n.sinaimg.cn/news/transform/20160701/QPpw-fxtsatm1106456.jpg)
 
 ### Related:
 

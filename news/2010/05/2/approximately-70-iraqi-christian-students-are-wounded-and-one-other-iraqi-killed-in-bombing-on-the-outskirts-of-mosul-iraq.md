@@ -8,6 +8,7 @@ An Iraqi was killed and about 70 college students were wounded on the outskirts 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/05/03/world/middleeast/03iraq.html?src=mv)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

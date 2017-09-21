@@ -8,6 +8,7 @@ WASHINGTON (Reuters) - A new nationwide strategy to prevent suicides, especially
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-usa-health-suicidebre8890o7-20120910,0,2108594.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

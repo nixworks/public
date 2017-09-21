@@ -9,6 +9,7 @@ Federal land managers say escalating tensions led them to release all 400 or so 
 
 1. [Fox](http://www.foxnews.com/politics/2014/04/13/safety-concerns-led-to-nevada-cow-release-federal-land-managers-say/)
 2. [Yahoo News](http://news.yahoo.com/u-agency-ends-nevada-cattle-roundup-releases-herd-003456278.html)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/041314/0/0/041314_ff_bundysupporters_640.jpg?ve=1)
 
 ### Related:
 

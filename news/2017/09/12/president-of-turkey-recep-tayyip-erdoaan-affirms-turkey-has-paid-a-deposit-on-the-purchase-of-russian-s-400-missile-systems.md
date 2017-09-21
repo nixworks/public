@@ -8,6 +8,7 @@ Turkey has already paid a deposit to Russia for the purchase of the S-400 anti-b
 ### Source:
 
 1. [Hürriyet](http://www.hurriyetdailynews.com/turkey-has-put-down-a-deposit-on-s-400-missiles-to-russia-erdogan-.aspx?PageID=238&NID=117844&NewsCatID=510)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201709/n_117844_1.jpg)
 
 ### Related:
 

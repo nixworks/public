@@ -8,6 +8,7 @@ President Lula da Silva said that Brazil is climbing out, and strengthened, from
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/05/lula-da-silva-boasts-brazil-now-advises-the-imf)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19721/200x200/9ec00ff96e427859868706153b031955.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Hackers released documents and files on Friday that cybersecurity experts said i
 1. [Engadget](https://www.engadget.com/2017/04/14/shadow-brokers-dump-windows-zero-day/)
 2. [Motherboard](https://motherboard.vice.com/en_us/article/we-can-calm-down-microsoft-already-patched-most-of-the-shadow-brokers-exploits)
 3. [Reuters](http://www.reuters.com/article/us-usa-cyber-swift-idUSKBN17G1HC)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170414&t=2&i=1180670219&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3D0T3)
 
 ### Related:
 

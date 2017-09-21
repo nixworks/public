@@ -11,6 +11,7 @@
 2. [Financial Times](http://www.ft.com/cms/s/0/3bc0a53c-6b9f-11de-9320-00144feabdc0.html)
 3. [Reuters](http://uk.reuters.com/article/idUKL871023920090708?sp=true)
 4. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20090708-703945.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

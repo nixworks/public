@@ -8,6 +8,7 @@ Two turkey farms in Chile have been put under quarantine restrictions after fear
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/22/turkey-layers-in-chile-infected-with-the-human-ah1n1-virus-flu)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19904/200x200/c7c5ec35dfb6249d02a371fd883c1f0b.jpg)
 
 ### Related:
 

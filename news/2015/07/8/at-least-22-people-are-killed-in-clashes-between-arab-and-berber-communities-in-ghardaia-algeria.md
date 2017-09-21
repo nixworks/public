@@ -8,6 +8,7 @@ At least 22 people have died in clashes between Arabs and Berbers around the Alg
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-33455563)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1136A/production/_84160507_84160506.jpg)
 
 ### Related:
 

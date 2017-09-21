@@ -8,6 +8,7 @@ The departures come a week after hacked DNC emails showed party officials conspi
 ### Source:
 
 1. [Washington Examiner](http://www.washingtonexaminer.com/dnc-collapse-top-staffers-leave-100-days-before-the-election/article/2598408)
+1. [Cover Image](http://cdn.washingtonexaminer.biz/cache/1060x600-42c3aeeb1e97374c9e6c9cf7bb32698d.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Philippine President Rodrigo Duterte told Russian leader Vladimir Putin that the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russis-philippines-idUSKBN18J2XF)
+1. [Cover Image](//s4.reutersmedia.net/resources/r/?m=02&d=20170523&t=2&i=1185985517&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4M1UU)
 
 ### Related:
 

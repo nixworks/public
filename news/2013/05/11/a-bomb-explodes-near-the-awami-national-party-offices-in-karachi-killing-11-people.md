@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Limited](http://www.news.com.au/world-news/strong-turnout-for-pakistan-vote-but-17-killed/story-fndir2ev-1226640012939)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/8b65f91cbcdb46b954f8cf4fa27a7d45)
 
 ### Related:
 

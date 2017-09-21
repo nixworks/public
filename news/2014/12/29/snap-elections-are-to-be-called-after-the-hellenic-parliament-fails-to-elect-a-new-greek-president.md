@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/29/us-greece-vote-idUSKBN0K60MA20141229)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141229&t=2&i=1008299082&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABS0E7)
 
 ### Related:
 

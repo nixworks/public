@@ -8,6 +8,7 @@ EU leaders reach a landmark climate deal, including a target to cut carbon emiss
 ### Source:
 
 1. [AFP/Reuters via ABC News](http://www.abc.net.au/news/2014-10-24/eu-reaches-landmark-climate-change-deal/5839330)
+1. [Cover Image](http://www.abc.net.au/news/image/5068010-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Tunisian security forces have killed 10 Islamist militants near the border with 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/19/us-tunisia-security-idUSBRE99I05Y20131019)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

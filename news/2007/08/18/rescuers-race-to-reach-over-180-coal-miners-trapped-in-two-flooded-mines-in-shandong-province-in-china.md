@@ -8,6 +8,7 @@ Rescuers were battling to reach more than 180 miners trapped by floods in easter
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/18/2008675.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

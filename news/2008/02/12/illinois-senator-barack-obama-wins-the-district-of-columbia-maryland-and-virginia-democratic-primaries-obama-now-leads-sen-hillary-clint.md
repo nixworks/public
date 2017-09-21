@@ -10,6 +10,7 @@ Barack Obama extended his winning streak over Hillary Rodham Clinton, while John
 1. [CNN](http://edition.cnn.com/''2006''/POLITICS/02/12/potomac.primaries/index.html)
 2. [The New York Times](http://www.nytimes.com/''2006''/02/12/us/politics/12cnd-campaign.html)
 3. [The New York Times](http://www.nytimes.com/2008/02/12/us/politics/12cnd-campaign.html)
+3. [Cover Image](https://static01.nyt.com/images/2008/02/12/us/12obama04_75.jpg)
 
 ### Related:
 

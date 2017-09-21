@@ -9,6 +9,7 @@ The nation bid its final farewell to former President Guido de Marco today with 
 
 1. [The Malta Independent](http://www.independent.com.mt/news.asp?newsitemid=110749)
 2. [The Times](http://www.timesofmalta.com/articles/view/20100816/local/arrivederci-prof-de-marco)
+2. [Cover Image](https://cdn-attachments.timesofmalta.com/a2c7a707440fba5bffdc480d1b465ee0-694681281-1300493786-4d83f5da-620x348.jpg)
 
 ### Related:
 

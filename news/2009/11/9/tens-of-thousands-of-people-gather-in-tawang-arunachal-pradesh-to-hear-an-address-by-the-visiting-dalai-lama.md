@@ -10,6 +10,7 @@ Tawang (Arunachal Pradesh): Tibetan spiritual leader the Dalai Lama on Monday ca
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8349875.stm)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20091109&56&625419)
 3. [Sify](http://sify.com/news/Dalai-Lama-stresses-on-peace-as-30-000-attend-Tawang-discourse-news-Features-jljl4bihbdd.html)
+3. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

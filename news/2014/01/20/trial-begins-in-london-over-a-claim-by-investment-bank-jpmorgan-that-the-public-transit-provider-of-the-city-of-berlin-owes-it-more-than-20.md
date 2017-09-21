@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/20/us-britain-jpmorganbvg-idUSBREA0J17P20140120)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140120&t=2&i=831083568&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0J1E9600)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Authorities in Sierra Leone say a three-day curfew aimed at containing the Ebola
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-29305591)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77732000/jpg/_77732435_77732113.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The International Committee of the Red Cross says it is putting its work in Afgh
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-38908312)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15327/production/_94232868_mediaitem94226962.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Philippines evacuated northern coastal villages, suspended ferry services an
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/09/20/uk-asia-typhoon-idUKBRE98J04A20130920)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

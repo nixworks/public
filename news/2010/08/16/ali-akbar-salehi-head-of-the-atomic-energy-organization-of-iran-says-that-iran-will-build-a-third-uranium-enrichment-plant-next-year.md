@@ -9,6 +9,7 @@ Nuke chief Salehi: New uranium enrichment site to open next year.
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5itEJjGhdSQtKSiZZccPPDRcJ2CRw)
 2. [Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=184912)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=143300)
 
 ### Related:
 

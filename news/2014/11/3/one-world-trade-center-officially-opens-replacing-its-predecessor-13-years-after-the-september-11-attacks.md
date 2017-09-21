@@ -8,6 +8,7 @@ Thirteen years after the 9/11 terrorist attack, World Trade Center is opening fo
 ### Source:
 
 1. [FOXNews](http://www.foxnews.com/us/2014/11/03/resurrection-world-trade-center-reopens-for-business-13-years-after-11/?intcmp=ob_homepage_US&intcmp=obnetwork)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2014/11/03/resurrection-world-trade-center-reopens-for-business-13-years-after-11/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422842137511.jpg?ve=1)
 
 ### Related:
 

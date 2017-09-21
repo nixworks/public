@@ -9,6 +9,7 @@ The NDP is requesting Elections Canada add an extra day of advance polling so pe
 
 1. [CBC News](http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/18/cv-election-advance-polling-1147.html)
 2. [CBC News](http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/22/cv-election-goodfriday.html)
+2. [Cover Image](https://i.cbc.ca/1.1944485.1381381697!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-cv-mayrand-cp-9891237-852.jpg)
 
 ### Related:
 

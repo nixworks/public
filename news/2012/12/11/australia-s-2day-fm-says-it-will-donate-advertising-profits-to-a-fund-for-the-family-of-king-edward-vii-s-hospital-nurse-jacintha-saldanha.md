@@ -8,6 +8,7 @@ The Australian radio station whose DJs made a hoax call to a nurse who was later
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20673899)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64687000/jpg/_64687994_64687993.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ About 170 people were rescued and three lightly injured after a passenger ferry 
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/170-rescued-from-fire-stricken-ferry-in-Spain-20150428)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2725/97fcda58f4204b6cba7c9d1e37e0a69a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Russia’s Crimea has switched to autonomous reserve power after transmission to
 ### Source:
 
 1. [RT](https://www.rt.com/news/323012-crimea-blackout-lines-blown-up/)
+1. [Cover Image](https://img.rt.com/files/2015.11/article/56512eb2c4618820098b45d2.jpg)
 
 ### Related:
 

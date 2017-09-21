@@ -8,6 +8,7 @@ LONDON &ndash; Ending four decades of perfect attendance, Queen Elizabeth II wil
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-queen-elizabeth-commonwealth-meeting-20130507,0,3284523.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

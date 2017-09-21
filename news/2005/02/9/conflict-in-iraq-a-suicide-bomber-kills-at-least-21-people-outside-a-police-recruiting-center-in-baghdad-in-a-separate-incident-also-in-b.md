@@ -8,6 +8,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 ### Source:
 
 1. [Newsday/AP](http://www.newsday.com/ny-woiraq0208,0,2619531.story?coll=ny-homepage-big-pix)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

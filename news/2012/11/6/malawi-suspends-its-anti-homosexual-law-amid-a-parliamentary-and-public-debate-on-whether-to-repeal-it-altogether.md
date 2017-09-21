@@ -8,6 +8,7 @@ Malawi has suspended its anti-homosexual law ahead of a public debate and parlia
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/malawi/9656134/Malawi-suspends-anti-homosexual-law.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02389/ma_2389054a.jpg)
 
 ### Related:
 

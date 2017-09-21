@@ -8,6 +8,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/template/template.asp?template=Indopakfaceoff&slug=Foreign+Ministers+clear+SAFTA+draft&id=13501&callid=0&category=National)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

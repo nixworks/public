@@ -8,6 +8,7 @@ Planet Venus puts on a show for skywatchers by moving across the face of the Sun
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-17745366)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60726000/jpg/_60726014_60719090.jpg)
 
 ### Related:
 

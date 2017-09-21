@@ -8,6 +8,7 @@ A London-based trader accused of contributing to the 2010 Wall Street &quot;flas
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-flashcrash-trader-extradition-idUSKBN12E196)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161014&t=2&i=1157450541&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9D0UJ)
 
 ### Related:
 

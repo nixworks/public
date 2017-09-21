@@ -8,6 +8,7 @@ The ambassador must be approved by GOP-controlled Senate, where it will face res
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2016/09/27/obama-appoints-ambassador-to-cuba-jeffrey-delaurentis/91185468/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [GloboNews](http://g1.globo.com/jornal-nacional/noticia/2015/02/mais-de-cinco-mil-funcionarios-da-general-motors-entram-em-greve.html)
 2. [The Peninsula Qatar](http://thepeninsulaqatar.com/business/international-business/323127/layoffs-spark-general-motors-strike-in-brazil)
+2. [Cover Image](http://s2.glbimg.com/3kvQrUF0X8UJbXEEwsUb2M0qPBA=/1200x630/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/07/24/3982407)
 
 ### Related:
 

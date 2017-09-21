@@ -14,6 +14,7 @@
 5. [IRNA](http://www.irna.ir/en/news/view/line-24/0608044727124145.htm)
 6. [MFA](http://www.mfa.gov.il/MFA/Terrorism-+Obstacle+to+Peace/Terrorism+from+Lebanon-+Hizbullah/Israel-Hizbullah+conflict-+Victims+of+rocket+attacks+and+IDF+casualties+July-Aug+2006.htm)
 7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3286247,00.html)
+7. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

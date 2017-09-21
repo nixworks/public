@@ -8,6 +8,7 @@ A police officer who hit Ian Tomlinson with a baton and pushed him to the ground
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18900484)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60999000/jpg/_60999903_015083760-1.jpg)
 
 ### Related:
 

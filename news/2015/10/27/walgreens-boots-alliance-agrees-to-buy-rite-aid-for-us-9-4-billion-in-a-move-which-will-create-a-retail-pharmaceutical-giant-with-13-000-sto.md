@@ -8,6 +8,7 @@ The move would create a drugstore giant at a time when companies in nearly every
 ### Source:
 
 1. [Dow Jones via Fox Business](http://www.foxbusiness.com/markets/2015/10/27/walgreens-boots-to-buy-rite-aid-in-172-billion-deal/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/markets/2015/10/27/walgreens-boots-to-buy-rite-aid-in-172-billion-deal/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1445982530841.jpg?ve=1)
 
 ### Related:
 

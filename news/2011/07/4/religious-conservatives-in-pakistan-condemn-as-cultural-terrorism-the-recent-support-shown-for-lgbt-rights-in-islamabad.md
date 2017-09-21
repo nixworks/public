@@ -8,6 +8,7 @@ A group of religious conservatives in Pakistan condemns as &quot;cultural terror
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14010106)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53839000/jpg/_53839442_53839441.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Sri Lanka recalls assembly as flood toll nears 100
 1. [EconomyNext](http://www.economynext.com/Sri_Lanka_recalls_assembly_as_flood_toll_nears_100-3-5059-13.html)
 2. [The Navhind Times](http://www.navhindtimes.in/24-killed-5-lakh-evacuated-as-cyclone-roanu-hits-bangladesh/)
 3. [The Weather Channel](https://weather.com/storms/hurricane/news/deadly-cyclone-roanu-hits-asia)
+3. [Cover Image](http://www.economynext.com/images/ogimage.png)
 
 ### Related:
 

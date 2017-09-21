@@ -16,6 +16,7 @@ The son of a retired Libyan academic fears the worst for his father and three br
 7. [Reuters via CNBC](http://www.cnbc.com/id/41882123)
 8. [The Guardian](http://www.guardian.co.uk/education/2011/mar/03/lse-director-resigns-gaddafi-scandal)
 9. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-03/03/c_13759456.htm)
+9. [Cover Image](http://www.abc.net.au/news/image/1966492-1x1-700x700.jpg)
 
 ### Related:
 

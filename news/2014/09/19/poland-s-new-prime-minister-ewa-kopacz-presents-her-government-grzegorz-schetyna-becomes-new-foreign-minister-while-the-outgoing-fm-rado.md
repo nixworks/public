@@ -8,6 +8,7 @@ Poland’s Prime Minister-designate Ewa Kopacz has unveiled her new cabinet, day
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2014/09/19/new-polish-pm-ewa-kopacz-unveils-new-cabinet/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

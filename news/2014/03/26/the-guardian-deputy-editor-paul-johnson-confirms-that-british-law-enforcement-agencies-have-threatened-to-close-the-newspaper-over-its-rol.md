@@ -8,6 +8,7 @@ Deputy editor details extent to which intelligence agencies tried to stop newspa
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/news/world/uk/guardian-threatened-with-closure-over-snowden-leaks-conference-told-1.1738203)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1738201&origw=960)
 
 ### Related:
 

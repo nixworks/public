@@ -15,6 +15,7 @@ Methodist Church rejects products from the West Bank.
 6. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=180043)
 7. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=180008)
 8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/01/c_13378118.htm)
+8. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=45433)
 
 ### Related:
 

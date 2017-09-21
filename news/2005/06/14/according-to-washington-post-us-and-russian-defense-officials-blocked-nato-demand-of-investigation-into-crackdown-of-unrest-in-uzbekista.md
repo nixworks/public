@@ -10,6 +10,7 @@
 1. [IHT](http://www.iht.com/articles/2005/06/14/news/uzbek.php)
 2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/RMOI-6DD2ZP?OpenDocument)
 3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/06/13/AR2005061301550.html?nav=rss_politics)
+3. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

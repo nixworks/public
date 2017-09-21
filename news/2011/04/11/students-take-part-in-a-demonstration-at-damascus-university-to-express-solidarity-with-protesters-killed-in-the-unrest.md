@@ -11,6 +11,7 @@
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011411143055997548.html)
 3. [Haaretz](http://www.haaretz.com/news/international/student-killed-after-syria-forces-attack-damascus-university-protest-1.355380)
 4. [Press TV](http://www.presstv.ir/detail/174298.html)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/11/201141116304473954_20.jpg)
 
 ### Related:
 

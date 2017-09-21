@@ -8,6 +8,7 @@ Outcome of US Fed meet on quantitative easing eyed
 ### Source:
 
 1. [Business Standard](http://www.business-standard.com/article/finance/rupee-closes-at-record-low-of-58-77-a-dollar-113061800125_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/_media/bs/img/article/2013-01/29/full/1359434174-1832.jpg)
 
 ### Related:
 

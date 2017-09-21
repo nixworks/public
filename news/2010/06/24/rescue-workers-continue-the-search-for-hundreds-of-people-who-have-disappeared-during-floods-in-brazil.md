@@ -8,6 +8,7 @@ Rescue workers search for survivors as rains begin to ease in northeastern Brazi
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/2010623204827268861.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

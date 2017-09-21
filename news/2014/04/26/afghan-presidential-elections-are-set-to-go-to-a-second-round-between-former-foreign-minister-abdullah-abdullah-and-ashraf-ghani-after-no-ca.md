@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/26/us-afghanistan-election-idUSBREA3P04I20140426)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140426&t=2&i=892020473&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3P1FW900)
 
 ### Related:
 

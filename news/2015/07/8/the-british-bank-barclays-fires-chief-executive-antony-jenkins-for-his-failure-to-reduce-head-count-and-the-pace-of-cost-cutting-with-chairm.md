@@ -9,6 +9,7 @@ New chairman John McFarlane will run the bank until a replacement is found
 
 1. [BBC](http://www.bbc.com/news/business-33438914#)
 2. [The Guardian](http://www.theguardian.com/business/2015/jul/08/barclays-fires-chief-executive-antony-jenkins?CMP=twt_gu)
+2. [Cover Image](https://i.guim.co.uk/img/media/5d88fc435902f8270cf2d4580bc02df8e0f09c92/84_321_3353_2012/master/3353.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f876b64e65e81078c0329c05559cf67d)
 
 ### Related:
 

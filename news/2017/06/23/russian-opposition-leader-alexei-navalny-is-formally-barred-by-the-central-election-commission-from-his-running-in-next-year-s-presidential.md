@@ -8,6 +8,7 @@ The anti-corruption campaigner led mass street protests against Vladimir Putin i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-40385503)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p04pwr2c.jpg)
 
 ### Related:
 

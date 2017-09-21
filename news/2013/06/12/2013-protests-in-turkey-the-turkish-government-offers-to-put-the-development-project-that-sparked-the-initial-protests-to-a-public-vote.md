@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2013/06/12/turkey-protests-istanbul-erdogan.html)
+1. [Cover Image](https://i.cbc.ca/1.1386028.1378968347!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-turkey-lawyers-852-45725.jpg)
 
 ### Related:
 

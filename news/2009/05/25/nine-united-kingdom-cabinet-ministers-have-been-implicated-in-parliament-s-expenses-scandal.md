@@ -8,6 +8,7 @@ Britain&#39;s Chancellor of the Exchequer is among nine cabinet members who alle
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0525/ukpolitics.html)
+1. [Cover Image](https://img.rasset.ie/0001c93e-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The pilot and co-pilot killed in a small jet crash in South Carolina died from s
 ### Source:
 
 1. [Today.com](http://www.today.com/id/26803108#.Ue1aKW3hdQw)
+1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/080921/nn_holt_plane_080921.standard.jpg)
 
 ### Related:
 

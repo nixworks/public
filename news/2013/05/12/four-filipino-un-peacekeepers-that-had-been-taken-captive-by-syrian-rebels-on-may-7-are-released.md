@@ -8,6 +8,7 @@ BEIRUT--Syrian rebels released four U.N. peacekeepers Sunday, five days after th
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-syria-peacekeepers-20130512,0,6873281.story)
+1. [Cover Image](http://www.trbimg.com/img-518f78b8/turbine/lat-peacekeepers-wre0009331360-20130509/600/600x313)
 
 ### Related:
 

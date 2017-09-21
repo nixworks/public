@@ -8,6 +8,7 @@ The launch of a flagship nuclear power station in Finland is delayed for a third
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18862422)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61602000/jpg/_61602123_002528131.jpg)
 
 ### Related:
 

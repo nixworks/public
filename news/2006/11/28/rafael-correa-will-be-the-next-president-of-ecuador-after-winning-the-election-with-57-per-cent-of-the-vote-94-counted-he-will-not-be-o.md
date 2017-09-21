@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?type=bondsNews&storyID=2006-11-28T173714Z_01_N28247228_RTRIDST_0_ECUADOR-ELECTION-URGENT.XML)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

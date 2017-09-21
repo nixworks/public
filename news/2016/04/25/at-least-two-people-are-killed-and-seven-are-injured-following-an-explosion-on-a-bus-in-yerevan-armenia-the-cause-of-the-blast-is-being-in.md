@@ -8,6 +8,7 @@ At least two people have been killed and seven injured after a bus exploded in c
 ### Source:
 
 1. [RT](https://www.rt.com/news/340889-armenia-blast-bus-yerevan/)
+1. [Cover Image](https://img.rt.com/files/2016.04/article/571e6cf1c46188ed628b45b6.jpg)
 
 ### Related:
 

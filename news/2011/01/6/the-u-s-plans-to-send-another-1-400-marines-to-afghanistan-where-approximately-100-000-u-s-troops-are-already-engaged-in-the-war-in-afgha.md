@@ -8,6 +8,7 @@ The United States will temporarily send 1,400 more Marines to Afghanistan in an 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70518320110106)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110106&t=2&i=297710857&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-06T190750Z_01_BTRE7050K3Y00_RTROPTP_0_AFGHANISTAN)
 
 ### Related:
 

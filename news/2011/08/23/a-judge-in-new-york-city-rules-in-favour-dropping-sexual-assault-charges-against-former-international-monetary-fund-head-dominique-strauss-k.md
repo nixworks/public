@@ -8,6 +8,7 @@ A judge’s dismissal of the sexual assault case against Dominique Strauss-Kahn 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/08/24/nyregion/charges-against-strauss-kahn-dismissed.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/08/24/nyregion/jpydsk1/jpydsk1-thumbStandard.jpg)
 
 ### Related:
 

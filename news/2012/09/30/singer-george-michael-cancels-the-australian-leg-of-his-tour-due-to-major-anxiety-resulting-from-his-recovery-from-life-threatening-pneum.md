@@ -8,6 +8,7 @@ Singer George Michael cancels the Australian leg of his tour due to &quot;major 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-19776875)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63204000/jpg/_63204597_michael.jpg)
 
 ### Related:
 

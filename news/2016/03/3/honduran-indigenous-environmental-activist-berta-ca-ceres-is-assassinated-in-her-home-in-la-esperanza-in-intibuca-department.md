@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Telesur](http://www.telesurtv.net/english/news/Honduras-Indigenous-Leader-Berta-Caceres-Assassinated-in-Home-20160303-0010.html)
+1. [Cover Image](http://www.telesurtv.net/__export/1457005866667/sites/telesur/img/news/2016/03/03/honduras_indigenous_leader_berta_caceres_killed_at_her_home.jpg_1810791533.jpg)
 
 ### Related:
 

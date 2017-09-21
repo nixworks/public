@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=politicsNews&storyID=2006-11-29T234802Z_01_WAT006653_RTRUKOC_0_US-IRAQ-USA-GROUP-DATE.xml&WTmodLoc=NewsHome-C3-politicsNews-3)
 2. [web site](http://www.usip.org)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

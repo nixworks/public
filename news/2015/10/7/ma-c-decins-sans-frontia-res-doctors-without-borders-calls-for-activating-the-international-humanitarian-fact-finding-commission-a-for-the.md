@@ -10,6 +10,7 @@ Aid agency Medecins Sans Frontieres wants a never-used body to investigate the U
 1. [BBC](http://www.bbc.com/news/world-asia-34463608)
 2. [Reuters](http://www.reuters.com/article/2015/10/07/us-afghanistan-attack-msf-idUSKCN0S10SX20151007)
 3. [Washington Post](http://www.washingtonpost.com/news/post-politics/wp/2015/10/07/obama-apologizes-for-afghan-hospital-bombing/)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/73BD/production/_85892692_85892691.jpg)
 
 ### Related:
 

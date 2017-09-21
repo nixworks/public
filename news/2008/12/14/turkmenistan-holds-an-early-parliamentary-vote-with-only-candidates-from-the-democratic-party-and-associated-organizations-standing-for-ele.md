@@ -8,6 +8,7 @@ Turkmenistan votes on Sunday in a snap parliamentary election touted by the gove
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4BC1Z720081213)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

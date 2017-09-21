@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8134851.stm)
 2. [Sofia News Agency](http://www.novinite.com/view_news.php?id=105360)
+2. [Cover Image](http://www.novinite.com/media/images/2009-07/photo_verybig_105360.jpg)
 
 ### Related:
 

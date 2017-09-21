@@ -9,6 +9,7 @@ Business news & Financial news from Reuters.com.
 
 1. [Forbes](http://www.forbes.com/newswire/2004/02/23/rtr1271929.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=businessNews&storyID=4419627)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

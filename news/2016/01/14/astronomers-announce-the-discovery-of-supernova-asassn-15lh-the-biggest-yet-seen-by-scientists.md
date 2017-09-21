@@ -8,6 +8,7 @@ Superluminous supernova ASASSN-15lh is 200 times as powerful as typical dead sta
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/science/sciencenow/la-sci-sn-huge-supernova-20160114-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5697eff5/turbine/la-sci-sn-huge-supernova-20160114)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The accomplishment gave a significant boost to medicine’s dream of growing hum
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/01/14/health/14heart.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

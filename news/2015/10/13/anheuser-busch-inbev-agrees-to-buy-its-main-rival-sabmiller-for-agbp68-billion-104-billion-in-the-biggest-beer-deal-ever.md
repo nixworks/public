@@ -8,6 +8,7 @@ SABMiller agrees to Anheuser-Busch InBev latest takeover offer, creating a super
 ### Source:
 
 1. [CNN](http://money.cnn.com/2015/10/13/investing/ab-inbev-sabmiller-beer-merger/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/151012201327-bud-miller-bottle-merger-780x439.jpg)
 
 ### Related:
 

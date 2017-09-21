@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/world/regions/asia-pacific/173377-indonesia-malaysia-philippines-launch-joint-naval-patrols)
+1. [Cover Image](http://assets.rappler.com/FBA07C66FEC84879A842F4E06CAD7D62/img/19C3CE01A8EA4219B810E31C2459E6DF/Navy_Anniversary_in_Davao-June-01-2017-008.jpg)
 
 ### Related:
 

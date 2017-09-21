@@ -8,6 +8,7 @@ An Illinois judge sentenced Jack McCullough, 73, to serve the rest of his “nat
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/12/11/us/maria-ridulphs-killer-gets-life-55-years-after-her-death.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/12/11/us/SENTENCE/SENTENCE-superJumbo.jpg)
 
 ### Related:
 

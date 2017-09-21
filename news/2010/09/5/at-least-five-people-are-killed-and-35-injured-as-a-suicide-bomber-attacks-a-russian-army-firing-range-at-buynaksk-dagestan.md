@@ -9,6 +9,7 @@
 
 1. [RIA Novosti](http://en.rian.ru/crime/20100905/160470803.html)
 2. [Reuters](http://www.reuters.com/article/idUSLDE68400Q20100905)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

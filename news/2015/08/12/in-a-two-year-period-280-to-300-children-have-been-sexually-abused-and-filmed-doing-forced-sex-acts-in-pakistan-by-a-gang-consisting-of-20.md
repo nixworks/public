@@ -10,6 +10,7 @@ Seven people are arrested in eastern Pakistan on suspicion of involvement in a w
 1. [Anadolu Agency](http://www.aa.com.tr/en/world/572735--growing-child-abuse-scandal-in-pakistani-village)
 2. [BBC](http://www.bbc.com/news/world-asia-33843765)
 3. [CNN](http://edition.cnn.com/2015/08/10/asia/pakistan-child-abuse/)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5654/production/_84800122_84800121.jpg)
 
 ### Related:
 

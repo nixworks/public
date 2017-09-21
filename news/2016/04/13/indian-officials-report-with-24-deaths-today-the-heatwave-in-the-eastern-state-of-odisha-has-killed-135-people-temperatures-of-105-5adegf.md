@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/04/13/India-heatwave-death-toll-rises-to-135/3471460555447/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/3471460555447/2016/1/14605565051552/v2.1/India-heatwave-death-toll-rises-to-135.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ The Obama administration intends to use some of the billions of dollars in froze
 3. [The Australian](http://www.theaustralian.com.au/news/breaking-news/us-to-tap-gaddafi-billions-to-aid-rebels/story-fn3dxity-1226050770901)
 4. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=219331)
 5. [Washington Post](http://www.washingtonpost.com/national/rome-meeting-on-libya-to-discuss-how-to-improve-rebels-finances/2011/05/04/AF5njTsF_story.html?wpisrc=al_national)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/5/20115594653653734_20.jpg)
 
 ### Related:
 

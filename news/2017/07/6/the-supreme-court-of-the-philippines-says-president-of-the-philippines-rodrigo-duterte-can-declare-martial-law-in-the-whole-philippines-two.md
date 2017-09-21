@@ -9,6 +9,7 @@
 
 1. [Rappler](http://www.rappler.com/nation/174819-sc-ruling-martial-law-duterte-nationwide)
 2. [ruled](http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2017/july2017/231658.pdf)
+2. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/AE54DA5A20444BBD9C2B0393243618D0/01-duterte-expanding-martial-law.jpg)
 
 ### Related:
 

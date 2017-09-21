@@ -8,6 +8,7 @@ One person killed and more than 100 injured in ongoing violence in Port Said fol
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/201232421448253544.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/25/201232534134309734_20.jpg)
 
 ### Related:
 

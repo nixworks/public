@@ -10,6 +10,7 @@
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161424/1/.html)
 2. [Dong, South Korea](http://english.donga.com/srv/service.php3?bicode=020000&biid=2005080464158)
 3. [Science Daily](http://www.sciencedaily.com/upi/index.php?feed=Science&article=UPI-1-20050803-13371400-bc-us-dogclone.xml)
+3. [Cover Image](http://dimg.donga.com/egc/CDB/ENGLISH/Article/20/05/08/04/2005080464158.jpg)
 
 ### Related:
 

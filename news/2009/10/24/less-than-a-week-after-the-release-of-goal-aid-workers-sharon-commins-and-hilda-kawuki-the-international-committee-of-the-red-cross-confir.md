@@ -8,6 +8,7 @@ KHARTOUM: The International Committee of the Red Cross says a French employee ha
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/red-cross-kidnap-in-darfur-20091023-hdc8.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkey&#039;s army kills 35 Kurdish militants after they attempted to storm a ba
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2016-07-30/turkey-kills-militants-after-they-try-to-storm-base-officials/7675136)
+1. [Cover Image](http://www.abc.net.au/news/image/7675148-1x1-700x700.jpg)
 
 ### Related:
 

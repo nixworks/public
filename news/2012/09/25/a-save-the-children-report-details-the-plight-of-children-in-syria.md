@@ -8,6 +8,7 @@ British charity talks to refugees to document alleged atrocities suffered by Syr
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/8301-202_162-57519595/charitys-report-details-alleged-atrocities-suffered-by-syria-children-in-civil-war/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/09/25/f877a687-a644-11e2-a3f0-029118418759/children_refugees_AP446857430258.jpg)
 
 ### Related:
 

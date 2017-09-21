@@ -8,3 +8,4 @@ An emaciated man whose boat washed up on the shores of the Pacific’s Marshall 
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2014/01/31/man-washed-up-on-boat-on-marshall-islands-says-been-adrift-16-months/?intcmp=HPBucket)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

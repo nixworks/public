@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2012/09/10/us-china-japan-idUSBRE8890AU20120910)
 2. [Wall Street Journals](http://online.wsj.com/article/SB10000872396390443921504577643261139002438.html)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120910&t=2&i=651254244&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8890UMX00)
 
 ### Related:
 

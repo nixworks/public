@@ -9,6 +9,7 @@ The Archbishop of Canterbury, Dr Rowan Williams, announces he is to stand down i
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/03/201231613413724482.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-17399403)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59113000/jpg/_59113783_014274522-1.jpg)
 
 ### Related:
 

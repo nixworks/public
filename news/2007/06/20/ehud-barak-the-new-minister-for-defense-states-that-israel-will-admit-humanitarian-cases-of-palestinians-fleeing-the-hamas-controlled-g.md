@@ -8,6 +8,7 @@ Israel will allow an unspecified number of Palestinians desperately fleeing the 
 ### Source:
 
 1. [AP via CBC](http://www.cbc.ca/world/story/2007/06/20/israel-palestinians.html)
+1. [Cover Image](https://i.cbc.ca/1.2269771.1383018968!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-erez-cp-3167673.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The army was the last institution in officially secular Turkey with a ban on the
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39053064)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9E15/production/_94796404_gettyimages-577599444.jpg)
 
 ### Related:
 

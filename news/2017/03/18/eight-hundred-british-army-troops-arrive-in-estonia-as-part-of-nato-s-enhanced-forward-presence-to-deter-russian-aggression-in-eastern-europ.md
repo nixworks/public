@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/uk-news/2017/mar/18/british-troops-land-in-estonia-for-nato-mission-to-deter-russia)
+1. [Cover Image](https://i.guim.co.uk/img/media/c00a095ebbf684ef38b05c7ac26ffb3bfa5066ea/0_36_2016_1210/master/2016.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=22f5a06561461814fa9f0e7462816e3f)
 
 ### Related:
 

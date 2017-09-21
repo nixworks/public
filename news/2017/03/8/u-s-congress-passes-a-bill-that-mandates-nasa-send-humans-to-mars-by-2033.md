@@ -9,6 +9,7 @@ It also gives NASA a $19.5 billion budget, cancels a mission to capture an aster
 
 1. [Business Insider](http://www.businessinsider.com/nasa-funding-authorization-bill-2017-3)
 2. [Gizmodo](http://gizmodo.com/congress-just-ordered-nasa-to-get-crackin-on-mars-and-a-1793109838)
+2. [Cover Image](http://static4.businessinsider.com/image/58c04153402a6bdc118b4a98-1190-625/congress-just-passed-a-bill-that-tells-nasa-to-send-humans-to-mars-by-2033.jpg)
 
 ### Related:
 

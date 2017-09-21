@@ -11,6 +11,7 @@
 2. [CNN](http://edition.cnn.com/2015/06/03/us/fifa-chuck-blazer-transcript/index.html?eref=edition)
 3. [ITV](http://www.itv.com/news/2015-06-03/revealed-shamed-fifa-executives-corruption-confession-to-secret-us-court/)
 4. [Interpol via Twitter](https://twitter.com/INTERPOL_HQ/status/606004728795959296)
+4. [Cover Image](https://pbs.twimg.com/media/CGj2D8AXEAEWKyP.jpg:large)
 
 ### Related:
 

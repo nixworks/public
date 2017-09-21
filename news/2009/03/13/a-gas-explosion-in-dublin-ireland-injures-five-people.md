@@ -8,6 +8,7 @@ A house in Blackrock has been completely destroyed by an explosion this afternoo
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0313/blackrock.html)
+1. [Cover Image](https://img.rasset.ie/00022517-1600.jpg)
 
 ### Related:
 

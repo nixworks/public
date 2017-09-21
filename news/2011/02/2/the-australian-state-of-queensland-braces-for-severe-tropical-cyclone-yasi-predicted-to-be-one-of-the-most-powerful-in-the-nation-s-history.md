@@ -10,6 +10,7 @@ Looking for local news? Find your Fairfax newspaper on the list below.
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/02/201122141533487439.html)
 2. [New Zealand Stuff](http://www.stuff.co.nz/nz-newspapers/west-coast-6013/news-6662/4609661/Yasi-shuts-Queensland-airports)
 3. [Reuters](http://in.reuters.com/article/2011/02/01/idINIndia-54576720110201?feedType=RSS&feedName=worldNews)
+3. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110201&t=2&i=325240476&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-02-02T041306Z_01_NOOTR_RTRMDNC_0_India-545767-1)
 
 ### Related:
 

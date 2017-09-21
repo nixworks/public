@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2011/POLITICS/05/11/gingrich/index.html?on.cnn=2)
 2. [Newt Gingrich Youtube Channel](http://www.youtube.com/watch?v=xRSz21Vedxc)
+2. [Cover Image](https://i.ytimg.com/vi/xRSz21Vedxc/maxresdefault.jpg)
 
 ### Related:
 

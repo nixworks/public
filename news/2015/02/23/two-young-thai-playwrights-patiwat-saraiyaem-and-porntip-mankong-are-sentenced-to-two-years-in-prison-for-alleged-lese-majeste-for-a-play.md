@@ -8,6 +8,7 @@ Two young Thais accused of defaming the monarchy in a university play were jaile
 ### Source:
 
 1. [AFP via Google News](https://uk.news.yahoo.com/two-thais-await-sentence-insulting-royals-play-213145030.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/crKdSAqNCUYjkGy7F3EidA--/aD01MzQ7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/4048d8d4a31272d7aeec2f918386c1f251e61f16.jpg)
 
 ### Related:
 

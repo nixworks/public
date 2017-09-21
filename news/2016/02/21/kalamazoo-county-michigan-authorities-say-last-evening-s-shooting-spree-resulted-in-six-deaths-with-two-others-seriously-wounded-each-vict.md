@@ -9,6 +9,7 @@ Jason Dalton, 45, is in custody following the string of apparently random shooti
 
 1. [CNN](http://www.cnn.com/2016/02/21/us/michigan-kalamazoo-county-shooting-spree/index.html)
 2. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/02/21/reports-gunman-kills-least-6-michigan/80694468/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

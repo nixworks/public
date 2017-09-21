@@ -8,6 +8,7 @@ WASHINGTON – President-elect Donald Trump has selected James Mattis, a legenda
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/politics/2016/12/01/trump-picks-mattis-defense-secretary/94608474/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

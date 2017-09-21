@@ -12,6 +12,7 @@ Colonel Bob Seddon, Britain&rsquo;s senior bomb disposal officer, has resigned h
 3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Armys-Top-Bomb-Disposal-Officer-Colonel-Bob-Seddon-Quits-Over-Pressures-In-Afghanistan/Article/201005415637065?lpos=UK_News_News_Your_Way_Region_0&lid=NewsYourWay_ARTICLE_15637065_Armys_Top_Bomb_Disposal_Officer_Colonel_Bob_Seddon_Quits_Over_Pressures_In_Afghanistan)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/7758021/Top-bomb-disposal-officer-in-Afghanistan-resigns.html)
 5. [The Hindu](http://beta.thehindu.com/news/international/article436928.ece)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01642/Seddon_1642223a.jpg)
 
 ### Related:
 

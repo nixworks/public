@@ -12,6 +12,7 @@ Ex-News International boss James Murdoch tells the Leveson Inquiry it &quot;rema
 3. [BBC](http://www.bbc.co.uk/news/uk-scotland-17827228)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0424/breaking10.html)
 5. [The Scotsman](http://www.scotsman.com/news/uk/leveson-inquiry-alex-salmond-was-at-ni-s-disposal-over-bskyb-bid-1-2252801)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59823000/jpg/_59823387_014585651-1.jpg)
 
 ### Related:
 

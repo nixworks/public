@@ -8,6 +8,7 @@ The coup leader in Burkina Faso says he is ready to hand over power to transitio
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-34318143)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/149CB/production/_85672448_dadbed8e-8180-43ca-ba0d-7dedcc32f001.jpg)
 
 ### Related:
 

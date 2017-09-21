@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/09/05/us-samsung-apple-germany-idUSTRE78400L20110905)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110905&t=2&i=494484211&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-05T083855Z_01_BTRE7840O0Z00_RTROPTP_0_SAMSUNG-APPLE-GERMANY)
 
 ### Related:
 

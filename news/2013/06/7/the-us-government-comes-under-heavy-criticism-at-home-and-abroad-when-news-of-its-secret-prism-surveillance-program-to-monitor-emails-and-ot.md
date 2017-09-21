@@ -13,3 +13,4 @@
 4. [The Guardian](http://www.guardian.co.uk/world/2013/jun/07/obama-china-targets-cyber-overseas)
 5. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887324299104578529112289298922.html)
 6. [Welt](http://www.welt.de/politik/ausland/article116934481/Unter-Obama-explodierte-die-Ueberwachung.html)
+6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68048000/jpg/_68048226_gchq_pa.jpg)

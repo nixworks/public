@@ -8,6 +8,7 @@ MORE than 300 southern right whales, most of them young calves, have been found 
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/environment/whale-watch/riddle-of-the-dead-whales-20100328-r5a7.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/r/5/c/9/image.related.articleLeadwide.620x349.r5a7.png/1269792001000.jpg)
 
 ### Related:
 

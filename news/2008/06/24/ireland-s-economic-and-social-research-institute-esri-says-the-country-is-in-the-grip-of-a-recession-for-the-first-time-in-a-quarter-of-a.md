@@ -8,6 +8,7 @@ Brian Lenihan has said the latest report from the ESRI indicated that there was 
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2008/0624/economy.html)
+1. [Cover Image](https://img.rasset.ie/00015631-1600.jpg)
 
 ### Related:
 

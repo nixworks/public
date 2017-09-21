@@ -8,6 +8,7 @@ Seven employees of a popular Afghan TV channel are killed after their bus is tar
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-35359215)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/92FF/production/_87813673_4d5783b8-7b82-4cdb-be36-97b90d39b483.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ British troops are pulling out of a base at a palace in the southern Iraqi city 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/topNews/idUKL029804520070902)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070902&t=2&i=1394276&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-02T185921Z_01_L0298045_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

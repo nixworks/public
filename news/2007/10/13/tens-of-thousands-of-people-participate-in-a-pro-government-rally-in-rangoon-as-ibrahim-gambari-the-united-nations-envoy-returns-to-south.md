@@ -8,6 +8,7 @@ Tens of thousands of people have been taken to a pro-government rally in Rangoon
 ### Source:
 
 1. [AFP via ABC](http://www.abc.net.au/news/stories/2007/10/13/2058865.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

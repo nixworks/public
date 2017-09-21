@@ -10,6 +10,7 @@ Indian officials are investigating the leak of a radioactive substance into drin
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8384894.stm)
 2. [Indian Express](http://www.indianexpress.com/news/radiation-leak-at-kaiga-nuke-plant-leave-employees-sick/547611/)
 3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSDEL383267)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Sri Lankan troops carried out widespread shelling which killed most of the thous
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-13190576)
 3. [The Australian](http://www.theaustralian.com.au/news/world/un-tells-of-sri-lankan-carnage/story-e6frg6so-1226045228695)
 4. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=38187&Cr=Sri+Lanka&Cr1=)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52338000/jpg/_52338035_007438387-1.jpg)
 
 ### Related:
 

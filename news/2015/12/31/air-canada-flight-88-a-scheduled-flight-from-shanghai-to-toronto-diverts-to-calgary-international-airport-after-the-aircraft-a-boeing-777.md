@@ -8,6 +8,7 @@ Twenty-one passengers &mdash; including three children &mdash; on an Air Canada 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/calgary/turbulence-injures-21-air-canada-passengers-coming-into-calgary-1.3384986)
+1. [Cover Image](https://i.cbc.ca/1.3385097.1451524954!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/passenger-from-air-canada-flight-ac88-wednesday-afternoon.jpg)
 
 ### Related:
 

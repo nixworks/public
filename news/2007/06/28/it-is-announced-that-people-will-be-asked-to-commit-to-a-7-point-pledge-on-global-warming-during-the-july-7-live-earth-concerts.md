@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Live Earth](http://liveearth.org/?p=101)
+1. [Cover Image](http://liveearth.org/img/live-earth-road-to-paris.jpg)
 
 ### Related:
 

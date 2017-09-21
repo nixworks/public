@@ -9,6 +9,7 @@ Rescuers cut into upside-down hull of capsized Eastern Star in the Yangtze river
 
 1. [NBC News](http://www.nbcnews.com/news/china/china-ship-capsize-rescuers-cut-holes-hull-find-no-survivors-n369571)
 2. [The Guardian](http://www.theguardian.com/world/2015/jun/04/death-toll-jumps-to-65-after-china-river-cruise-capsize-as-rescuers-slice-hull)
+2. [Cover Image](https://i.guim.co.uk/img/media/7242237ea1ee7e907605aa9cc39e76154a9c8673/150_11_1838_1103/1838.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=c8e2d5d5017934c44bcbbbdfbabc59aa)
 
 ### Related:
 

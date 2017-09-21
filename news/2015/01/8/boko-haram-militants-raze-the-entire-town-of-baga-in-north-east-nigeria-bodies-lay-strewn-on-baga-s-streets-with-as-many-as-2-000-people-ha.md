@@ -8,6 +8,7 @@ Bodies lay strewn on the streets of a key north-eastern Nigerian town following 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-30728158)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80134000/png/_80134604_boko.png)
 
 ### Related:
 

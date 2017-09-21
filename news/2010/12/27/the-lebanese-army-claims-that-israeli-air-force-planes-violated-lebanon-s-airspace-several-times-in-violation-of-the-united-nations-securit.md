@@ -8,6 +8,7 @@ Lebanon stresses breach constitutes violation of UN Security Council Resolution 
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/lebanon-army-says-iaf-jets-violated-country-s-airspace-1.333366)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.320038.1287501822!/image/1334951839.jpg_gen/derivatives/headline_1200x630/1334951839.jpg)
 
 ### Related:
 

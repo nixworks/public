@@ -10,6 +10,7 @@ A 29-year-old Melbourne man is in a serious condition in hospital after he was a
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h7wbvqRvJ1oB2eymmh8F2-AmkkHA)
 2. [Press Trust of India](http://www.ptinews.com/news/460270_29-year-old-Indian-set-on-fire-in-Melbourne)
 3. [Sydney Morning Herald](http://www.smh.com.au/national/indian-man-set-on-fire-in-melbourne-attack-20100109-lzq2.html)
+3. [Cover Image](http://www.smh.com.au/content/dam/images/e/5/y/k/image.related.thumbnail.320x214.lzq2.png/1411429624870.jpg)
 
 ### Related:
 

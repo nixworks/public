@@ -8,6 +8,7 @@ Eight people were killed on Saturday after a shell landed on a house in southern
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-egypt-security-shell-idUSKBN1550C5?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

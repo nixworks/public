@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35939192)
 2. [International Business Times](http://www.ibtimes.co.uk/brazil-top-rio-olympics-officials-quit-over-corruption-slurs-around-president-dilma-rousseff-1552662)
+2. [Cover Image](http://d.ibtimes.co.uk/en/full/1504016/brazil-protests.jpg)
 
 ### Related:
 

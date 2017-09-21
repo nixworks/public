@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2012/03/24/pol-ndp-leadership-leaderboard-vote.html)
+1. [Cover Image](https://i.cbc.ca/1.1925931.1381036260!/httpImage/image.jpg_gen/derivatives/16x9_1180/ndp-852.jpg)
 
 ### Related:
 

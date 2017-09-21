@@ -8,6 +8,7 @@ A court in Russia sentences Estonian security official Eston Kohver to 15 years 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33986733)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1088E/production/_85062776_028613704-1.jpg)
 
 ### Related:
 

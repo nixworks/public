@@ -8,3 +8,4 @@
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/06/18/hastings-car-accident-journalist/2436549/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)

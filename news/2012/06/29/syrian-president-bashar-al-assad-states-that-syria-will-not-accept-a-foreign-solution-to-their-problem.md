@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201262817158947278.html)
 2. [MSNBC](http://worldnews.msnbc.msn.com/_news/2012/06/29/12479205-assad-forces-bombard-northern-towns-as-170-tanks-mass-near-major-city-syrian-rebels-say?lite)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/28/2012628172420840734_20.jpg)
 
 ### Related:
 

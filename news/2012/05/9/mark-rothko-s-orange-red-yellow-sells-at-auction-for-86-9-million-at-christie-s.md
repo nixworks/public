@@ -8,6 +8,7 @@ The artwork Orange, red, yellow by Mark Rothko fetches $86.9 million (£53.8m), 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18001432)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60105000/jpg/_60105513_014668022-2.jpg)
 
 ### Related:
 

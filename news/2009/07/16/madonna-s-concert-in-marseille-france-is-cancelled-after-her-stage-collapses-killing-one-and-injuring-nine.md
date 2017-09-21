@@ -15,6 +15,7 @@ A French city official says an upcoming Madonna concert in Marseille has been ca
 6. [MSNBC](http://www.msnbc.msn.com/id/31946694/ns/entertainment-music/)
 7. [Pravda](http://english.pravda.ru/news//16-07-2009/108198-Madonna-0)
 8. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/5845357/Madonna-concert-stage-collapses-in-Marseille-killing-one-and-injuring-eight.html)
+8. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

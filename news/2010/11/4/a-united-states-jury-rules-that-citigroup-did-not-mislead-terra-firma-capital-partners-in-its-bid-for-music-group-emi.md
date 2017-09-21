@@ -8,6 +8,7 @@ A US jury rules that investment bank Citigroup did not trick private equity firm
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11699413)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

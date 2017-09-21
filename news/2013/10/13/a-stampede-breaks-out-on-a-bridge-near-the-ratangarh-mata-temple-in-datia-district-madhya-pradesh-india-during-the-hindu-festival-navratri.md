@@ -8,6 +8,7 @@ The death toll after a stampede at a Hindu festival in the central Indian state 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-24516291)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70465000/jpg/_70465234_70465233.jpg)
 
 ### Related:
 

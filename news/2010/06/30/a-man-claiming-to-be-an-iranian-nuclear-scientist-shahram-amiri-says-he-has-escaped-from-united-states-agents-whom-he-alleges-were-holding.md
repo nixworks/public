@@ -19,6 +19,7 @@ A man claiming to be an Iranian nuclear scientist kidnapped by the US says he ha
 10. [Voice of America](http://www1.voanews.com/english/news/human-rights/Iran-Imposes-Death-Sentences-on-Two-Prison-Abuse-Suspects-97507939.html)
 11. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3913247,00.html)
 12. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3913403,00.html)
+12. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

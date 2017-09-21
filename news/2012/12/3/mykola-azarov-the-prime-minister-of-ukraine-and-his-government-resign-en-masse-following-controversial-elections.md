@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Big Pond News](http://bigpondnews.com/articles/World/2012/12/04/Ukraines_government_PM_resign_en_masse_822832.html)
+1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

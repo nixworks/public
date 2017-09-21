@@ -8,6 +8,7 @@ Akihito is the 125th emperor of Japan.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2016/08/08/japanese-emperor-akihito-addresses-abdication-speculation/88384732/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

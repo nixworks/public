@@ -8,6 +8,7 @@ Pakistan army kills five militants in northwest as security is tightened against
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30560482)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79860000/jpg/_79860679_79859603.jpg)
 
 ### Related:
 

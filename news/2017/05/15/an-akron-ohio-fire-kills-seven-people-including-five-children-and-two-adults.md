@@ -8,6 +8,7 @@ AKRON, Ohio -- Police confirm that five children and two adults were killed in a
 ### Source:
 
 1. [Fox News 8](http://fox8.com/2017/05/15/fire-investigators-multiple-victims-in-akron-house-fire-include-both-children-and-adults/)
+1. [Cover Image](https://localtvwjw.files.wordpress.com/2017/05/akron-fire.jpeg?quality=85&amp;strip=all&amp;w=1200)
 
 ### Related:
 

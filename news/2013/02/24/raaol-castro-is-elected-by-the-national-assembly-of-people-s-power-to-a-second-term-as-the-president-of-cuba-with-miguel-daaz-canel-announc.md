@@ -8,6 +8,7 @@ Cuban leader Raul Castro announced on Sunday he would step down from power after
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/24/us-cuba-castro-idUSBRE91N0HB20130224)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130224&t=2&i=707080837&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91N1RUV00)
 
 ### Related:
 

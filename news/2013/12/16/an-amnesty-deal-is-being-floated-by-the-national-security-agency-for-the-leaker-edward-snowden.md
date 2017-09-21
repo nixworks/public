@@ -8,6 +8,7 @@ If the leaker could show the data he took is contained
 ### Source:
 
 1. [Time'' magazine](http://nation.time.com/2013/12/16/nsa-official-floats-amnesty-for-snowden/)
+1. [Cover Image](https://timemilitary.files.wordpress.com/2013/06/snowden.jpg?w=600)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Hilary Mantel wins the Man Booker Prize for her tale of Tudor treachery, Bring u
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-19965004)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63529000/jpg/_63529979_mantel_pa.jpg)
 
 ### Related:
 

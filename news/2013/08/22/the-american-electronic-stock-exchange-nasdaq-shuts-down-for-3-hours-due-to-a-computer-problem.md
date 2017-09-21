@@ -8,6 +8,7 @@ Trading ceased in all Nasdaq-listed securities Thursday after the electronic exc
 ### Source:
 
 1. [FOXBusiness](http://www.foxbusiness.com/investing/2013/08/22/trading-halted-on-nasdaq-listed-securities/?intcmp=obnetwork)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/markets/2013/08/22/trading-halted-on-nasdaq-listed-securities/_jcr_content/image.img.jpg/0/0/1452473965927.jpg?ve=1)
 
 ### Related:
 

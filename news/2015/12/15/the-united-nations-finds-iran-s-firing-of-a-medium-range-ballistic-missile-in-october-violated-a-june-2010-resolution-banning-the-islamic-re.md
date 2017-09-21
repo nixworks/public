@@ -11,6 +11,7 @@ United Nations experts said in a new report on Tuesday the launch used ballistic
 2. [Reuters](http://in.reuters.com/article/iran-nuclear-idINKBN0TY0UR20151215)
 3. [Reuters](http://www.reuters.com/article/us-iran-missiles-un-exclusive-idUSKBN0TY1T920151215)
 4. [The News Telegraph](http://thenewstelegraph.com/2015/12/15/un-closes-the-books-on-decade-long-nuclear-probe-of-iran/)
+4. [Cover Image](http://images.csmonitor.com/csm/2015/12/953794_1_1215-iran-nuclear-test_standard.jpg?alias=standard_900x600)
 
 ### Related:
 

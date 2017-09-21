@@ -11,6 +11,7 @@ Planned Parenthood shooting: 3 killed, including 1 police officer in Colorado Sp
 2. [Denver Post](http://www.denverpost.com/news/ci_29172660/colorado-springs-firefighters-respond-active-shooter-at-planned)
 3. [NBC News](http://www.nbcnews.com/news/us-news/report-active-shooter-near-planned-parenthood-colorado-springs-n470431?cid=eml_nbn_20151127)
 4. [Reuters](http://www.reuters.com/article/2015/11/27/us-colorado-shooter-idUSKBN0TG27D20151127)
+4. [Cover Image](http://www.denverpost.com/wp-content/uploads/2016/04/20151127__colorado_springs_Acrossp1.jpg?w=654&amp;h=435)
 
 ### Related:
 

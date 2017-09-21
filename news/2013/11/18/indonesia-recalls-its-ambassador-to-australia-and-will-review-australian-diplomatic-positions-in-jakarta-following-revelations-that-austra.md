@@ -8,6 +8,7 @@ Indonesia has recalled its ambassador to Australia amid fury in Jakarta over rev
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/indonesia-recalls-ambassador-to-australia-over-spying-claim-20131118-2xr5x.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/x/r/6/t/image.related.articleLeadwide.620x349.2xr5x.png/1384780446400.jpg)
 
 ### Related:
 

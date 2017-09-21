@@ -8,6 +8,7 @@ The NME publicly apologises to singer Morrissey for an article it published in 2
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18410933)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60853000/jpg/_60853042_60853041.jpg)
 
 ### Related:
 

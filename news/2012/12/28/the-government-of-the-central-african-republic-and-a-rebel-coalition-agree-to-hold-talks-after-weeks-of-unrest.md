@@ -8,6 +8,7 @@ The government of the Central African Republic and a rebel coalition have agreed
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20862637)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64999000/jpg/_64999596_016813633.jpg)
 
 ### Related:
 

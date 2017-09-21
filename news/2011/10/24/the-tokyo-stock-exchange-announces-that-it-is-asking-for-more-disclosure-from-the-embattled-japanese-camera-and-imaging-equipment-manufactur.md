@@ -8,6 +8,7 @@ The Tokyo Stock Exchange said onMonday it was asking Olympus to disclose moreinf
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/10/24/olympus-exchange-idUSL3E7LO0R120111024)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

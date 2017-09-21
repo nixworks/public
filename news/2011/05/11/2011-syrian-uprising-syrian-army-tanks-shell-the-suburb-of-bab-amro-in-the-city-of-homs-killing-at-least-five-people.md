@@ -9,6 +9,7 @@ Nineteen people reported killed in shelling of Homs and al-Harah despite calls f
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115117374683547.html)
 2. [Reuters via Alertnet](http://www.trust.org/alertnet/news/syrian-tanks-shell-homs-area----rights-campaigner)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/11/201151175110824734_20.jpg)
 
 ### Related:
 

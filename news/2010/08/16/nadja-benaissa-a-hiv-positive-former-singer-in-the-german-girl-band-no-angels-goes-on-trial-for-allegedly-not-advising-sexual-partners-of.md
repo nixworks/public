@@ -13,6 +13,7 @@ German singer Nadja Benaissa admits at her trial to having unprotected sex with 
 4. [CNN](http://edition.cnn.com/2010/WORLD/europe/08/16/german.singer.hiv.charges/?hpt=T2#fbid=Zi63FEAlScD&wom=false)
 5. [The Guardian](http://www.guardian.co.uk/lifeandstyle/2010/aug/16/hiv-singer-unprotected-sex-nadja)
 6. [The Independent](http://www.independent.co.uk/news/world/europe/hivpositive-pop-singer-admits-having-unprotected-sex-2054528.html)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

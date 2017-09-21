@@ -9,6 +9,7 @@ Thousands of people waving Syrian flags and shouting &quot;We Want Freedom!&quot
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1123377/1/.html)
 2. [CBC](http://www.cbc.ca/news/world/story/2011/04/17/syria-protests-sunday.html)
+2. [Cover Image](https://i.cbc.ca/1.1969704.1381468378!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-syria-sunday-rtr2lc8s.jpg)
 
 ### Related:
 

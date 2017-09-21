@@ -9,6 +9,7 @@ Sunday&#039;s runoff for leadership of the South American nation will pit Pedro 
 
 1. [International Business Times](http://www.ibtimes.com/peru-election-2016-runoff-presidential-candidates-fujimori-kuczynski-key-issues-how-2378072)
 2. [Reuters](http://www.reuters.com/article/us-peru-election-idUSKCN0YR05J)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/06/04/image-533615934.jpg)
 
 ### Related:
 

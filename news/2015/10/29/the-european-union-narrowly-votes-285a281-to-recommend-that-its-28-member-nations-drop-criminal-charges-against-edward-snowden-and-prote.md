@@ -9,6 +9,7 @@ Edward Snowden might set up residence in any of nearly 30 European nations after
 
 1. [Foreign Policy](http://foreignpolicy.com/2015/10/29/eu-parliament-calls-for-snowden-to-get-asylum/)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/10/29/EU-to-member-states-Drop-charges-protect-human-rights-defender-Snowden-from-US/2301446163234/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/2301446163234/2015/1/5bb997eb6ecba17cc7b087733a9accb6/v1.5/EU-to-member-states-Drop-charges-protect-human-rights-defender-Snowden-from-US.jpg)
 
 ### Related:
 

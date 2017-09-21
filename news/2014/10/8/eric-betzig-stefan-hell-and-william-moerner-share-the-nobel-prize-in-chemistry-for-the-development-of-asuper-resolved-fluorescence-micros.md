@@ -8,6 +8,7 @@ Two US and one German scientist win Nobels for opening a window into the nanowor
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/science/live/2014/oct/08/nobel-prize-chemistry-2014-announcement-live)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/8/1412765212215/f7a8c105-4215-4eec-aa0f-e70d27964117-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f557635346ea67723debe93b56ac430b)
 
 ### Related:
 

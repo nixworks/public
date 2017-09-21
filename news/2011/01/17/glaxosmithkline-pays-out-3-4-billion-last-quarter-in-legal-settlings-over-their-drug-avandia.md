@@ -9,6 +9,7 @@ GlaxoSmithKline will record a legal charge of 2.2 billion pounds ($3.4 billion) 
 
 1. [AP via Google](http://www.google.com/hostednews/ukpress/article/ALeqM5g-SvPR1t1AZi5PiGv6IMy6mdx8yQ?docId=N0205341295280361205A)
 2. [Reuters](http://www.reuters.com/article/idUSTRE70G44920110117)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110117&t=2&i=309035295&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-17T205318Z_01_BTRE70G1LYL00_RTROPTP_0_GLAXO-RESULTS)
 
 ### Related:
 

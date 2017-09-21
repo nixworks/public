@@ -9,6 +9,7 @@ Yahoo has announced another hack -- this time of as many as a billion user accou
 
 1. [Business Insider](http://www.businessinsider.com/yahoo-data-breach-billion-accounts-2016-12)
 2. [The New York Times](http://www.nytimes.com/2016/12/14/technology/yahoo-hack.html?_r=0)
+2. [Cover Image](http://static4.businessinsider.com/image/578d2f4e4321f16c018b911e-1190-625/it-happened-again-yahoo-says-1-billion-user-accounts-stolen-in-what-could-be-biggest-hack-ever.jpg)
 
 ### Related:
 

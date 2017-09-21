@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wall street Journal](http://stream.wsj.com/story/latest-headlines/SS-2-63399/SS-2-277925/)
+1. [Cover Image]( http://s.wsj.net/public/resources/images/OB-YE944_cybera_A_20130716101145.jpg)
 
 ### Related:
 

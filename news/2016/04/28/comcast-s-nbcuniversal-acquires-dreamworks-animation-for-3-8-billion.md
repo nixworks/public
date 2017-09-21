@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://money.cnn.com/2016/04/28/media/comcast-dreamworks-nbcuniversal/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/160428092432-dreamworks-nbc-universal-780x439.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Israel calls agreement “deeply flawed and hypocritical.”
 1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10191339.stm)
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100530-272853/Israel-rejects-NPT-conference-for-nuclear-free-Middle-East)
 3. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=176833)
+3. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=143928)
 
 ### Related:
 

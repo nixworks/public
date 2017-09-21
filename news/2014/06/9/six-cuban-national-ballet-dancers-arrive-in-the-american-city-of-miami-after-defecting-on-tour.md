@@ -8,6 +8,7 @@ Six dancers from the Cuban National Ballet have arrived in Miami, after they def
 ### Source:
 
 1. [NBC Miami](http://www.nbcmiami.com/news/local/Cuban-National-Ballet-Dancers-Arrive-in-Miami-After-Fleeing-While-on-Tour-262410961.html)
+1. [Cover Image](http://media.nbcmiami.com/images/1200*675/cubanballet.jpg)
 
 ### Related:
 

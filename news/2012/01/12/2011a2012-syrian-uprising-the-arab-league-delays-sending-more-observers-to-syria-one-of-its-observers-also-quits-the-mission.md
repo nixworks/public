@@ -8,6 +8,7 @@ The Arab League is delaying sending more monitors to Syria, as its mission runs 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16522961)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57837000/jpg/_57837612_013681546-1.jpg)
 
 ### Related:
 

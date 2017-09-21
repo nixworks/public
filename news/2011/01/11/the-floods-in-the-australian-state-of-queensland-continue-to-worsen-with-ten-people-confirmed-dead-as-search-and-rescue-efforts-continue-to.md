@@ -13,6 +13,7 @@ The Brisbane River has broken its banks amid dire predictions of the biggest flo
 4. [SBS](http://www.sbs.com.au/news/article/1463967/Unstoppable-tide-hits-Brisbane)
 5. [The Courier-Mail](http://www.couriermail.com.au/news/toowoomba-and-lockyer-valley-flash-floods-claim-at-least-four-lives-leave-up-to-50-missing/story-e6freon6-1225985290369?from=public_rss)
 6. [The Melbourne Age](http://www.theage.com.au/environment/weather/threequarters-of-queensland-a-disaster-zone-20110111-19mf8.html)
+6. [Cover Image](http://www.abc.net.au/news/image/1901412-1x1-700x700.jpg)
 
 ### Related:
 

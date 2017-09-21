@@ -8,6 +8,7 @@ Indian Prime Minister Manmohan Singh was sworn in on Friday for a second five-ye
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54K6LN20090522)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090522&t=2&i=10221201&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-22T133325Z_01_BTRE54K1QC200_RTROPTP_0_INDIA-ELECTION-SINGH)
 
 ### Related:
 

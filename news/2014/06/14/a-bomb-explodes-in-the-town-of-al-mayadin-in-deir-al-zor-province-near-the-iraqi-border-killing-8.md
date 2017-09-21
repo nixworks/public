@@ -8,6 +8,7 @@ At least eight people were killed on Saturday when a car bomb exploded in a mark
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/06/14/us-syria-crisis-blast-idUSKBN0EP0E520140614)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

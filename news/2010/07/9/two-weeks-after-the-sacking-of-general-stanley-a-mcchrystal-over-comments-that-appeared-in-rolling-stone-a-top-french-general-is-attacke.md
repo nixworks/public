@@ -8,6 +8,7 @@ Two&#x20;weeks&#x20;after&#x20;the&#x20;sacking&#x20;of&#x20;Stanley&#x20;McChry
 ### Source:
 
 1. [France24](http://www.france24.com/en/20100709-outspoken-french-general-be-%E2%80%98punished%E2%80%99-over-afghan-war-remarks)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/20100708-vincent-desportes.jpg)
 
 ### Related:
 

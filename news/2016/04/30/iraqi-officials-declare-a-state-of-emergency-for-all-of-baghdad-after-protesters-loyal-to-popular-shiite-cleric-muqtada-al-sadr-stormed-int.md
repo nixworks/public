@@ -10,6 +10,7 @@ Protesters loyal to a Shiite cleric breached Baghdad&#x27;s Green Zone Saturday,
 1. [NBC News](http://www.nbcnews.com/storyline/iraq-turmoil/cleric-al-sadr-supporters-storm-baghdad-s-green-zone-reports-n565266)
 2. [The News Hub](https://www.the-newshub.com/international/iraq-declares-state-of-emergency-due-to-shia-protests-in-the-baghdad)
 3. [Washington Post](https://www.washingtonpost.com/world/protesters-storm-iraqi-parliament-in-baghdad/2016/04/30/0862fd3a-0ec1-11e6-8ab8-9ad050f76d7d_story.html)
+3. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_17/1518476/160430-iraq-green-zone-mn-1400_11d81f94d1df20fda6548383790f14f4.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

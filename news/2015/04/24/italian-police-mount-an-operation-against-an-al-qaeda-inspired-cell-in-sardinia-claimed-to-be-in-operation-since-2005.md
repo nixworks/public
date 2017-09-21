@@ -8,6 +8,7 @@ Italian police carried out a vast counterterrorism operation against an al-Qaeda
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/italian-police-raid-islamist-terrorist-network-planning-attack-n347466)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_17/992986/150424-italian-police-alqaeda-jsw-631a_f309afe4a7b8c173389a8c34a92cc273.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

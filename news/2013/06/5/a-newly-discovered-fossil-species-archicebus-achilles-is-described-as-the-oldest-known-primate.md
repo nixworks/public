@@ -8,6 +8,7 @@ A 55-million-year-old, mouse-sized fossil from China provides remarkable new ins
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22770646)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67979000/jpg/_67979052_artists_impression.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The deal would give AOL a major presence in journalism, demonstrating the compan
 
 1. [Huffington Post](http://www.huffingtonpost.com/2011/02/07/aol-huffington-post_n_819375.html)
 2. [New York Times](http://www.nytimes.com/2011/02/07/business/media/07aol.html?emc=na)
+2. [Cover Image](https://static01.nyt.com/images/2011/02/07/business/07aolspan/07aolspan-thumbStandard.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ France&#x20;will&#x20;host&#x20;the&#x20;European&#x20;Football&#x20;Championshi
 2. [CBC](http://www.cbc.ca/sports/soccer/story/2010/05/28/sp-euro-2016-france.html?ref=rss)
 3. [France24](http://www.france24.com/en/20100528-france-wins-bid-host-euro-2016-football-championship-italy-turkey)
 4. [RTÉ](http://www.rte.ie/sport/soccer/2010/0528/euro2016.html)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/uefa-2016.JPG)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Six patients - four women and two men - were killed in a fire at the Intensive C
 ### Source:
 
 1. [Mediacorp News Group](http://www.channelnewsasia.com/news/asiapacific/6-patients-confirmed-dead-in-fire-at-johor-hospital/3233180.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/3233174/1477585311000/large16x9/640/360/sultan-aminah-hospital-fire.jpg)
 
 ### Related:
 

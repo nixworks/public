@@ -8,6 +8,7 @@ Supporters of the man charged with stealing 250,000 classified US documents publ
 ### Source:
 
 1. [ABC News and Current Affairs](http://www.abc.net.au/news/stories/2011/02/14/3137816.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/image/894608-1x1-700x700.jpg)
 
 ### Related:
 

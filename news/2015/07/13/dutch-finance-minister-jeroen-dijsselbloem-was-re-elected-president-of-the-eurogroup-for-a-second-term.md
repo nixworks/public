@@ -8,6 +8,7 @@ Dutch Finance Minister Jeroen Dijsselbloem was re-elected on Monday as president
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/07/13/uk-eurozone-greece-eurogroup-president-idUKKCN0PN1XW20150713)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150713&t=2&i=1063913579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB6C0S6)
 
 ### Related:
 

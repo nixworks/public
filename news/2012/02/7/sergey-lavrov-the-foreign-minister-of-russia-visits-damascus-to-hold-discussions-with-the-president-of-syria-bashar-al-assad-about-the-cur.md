@@ -13,6 +13,7 @@ Russia won a promise from Syrian President Bashar al-Assad on Tuesday to bring a
 4. [Reuters](http://www.reuters.com/article/2012/02/07/us-syria-idUSTRE80S08620120207)
 5. [Sky News](http://news.sky.com/home/world-news/article/16164544)
 6. [The Guardian](http://www.guardian.co.uk/world/2012/feb/07/syrian-homs-siege-genocidal-say-residents)
+6. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120207&t=2&i=567755816&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8160Y4L00)
 
 ### Related:
 

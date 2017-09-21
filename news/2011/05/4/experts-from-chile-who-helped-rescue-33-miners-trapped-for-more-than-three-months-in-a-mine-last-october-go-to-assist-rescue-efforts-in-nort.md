@@ -8,6 +8,7 @@ Experts from Chile who helped rescue miners there last October were heading Wedn
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/americas/05/04/mexico.mine.blast/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/05/04/mexico.mine.blast/tzvids.mexico.mine.tva.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Hong Kong government backs down over plans to force schoolchildren to take C
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19529867)
 2. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/news.htm?main&20120908&56&868210)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62769000/jpg/_62769599_opl15uzf.jpg)
 
 ### Related:
 

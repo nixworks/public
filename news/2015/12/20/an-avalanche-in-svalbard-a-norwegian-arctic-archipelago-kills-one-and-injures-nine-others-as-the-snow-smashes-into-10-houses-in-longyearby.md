@@ -9,6 +9,7 @@
 
 1. [AP via CBS News](http://www.cbsnews.com/news/deadly-avalanche-norway-arctic-svalbard-archipelago/)
 2. [newsinenglish.no](http://www.newsinenglish.no/2015/12/20/more-avalanches-threaten-svalbard/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/12/19/85e116ba-dc67-4bf8-8283-6167ab890e28/norway-avalanche-2015-12-19t133604z.jpg)
 
 ### Related:
 

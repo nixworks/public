@@ -9,6 +9,7 @@
 
 1. [Bloomberg](http://www.bloomberg.com/news/2013-12-17/yanukovych-preparing-to-meet-putin-for-loan-amid-protests.html)
 2. [Reuters](http://www.reuters.com/article/2013/12/16/ukraine-idUSL6N0JV1XO20131216)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

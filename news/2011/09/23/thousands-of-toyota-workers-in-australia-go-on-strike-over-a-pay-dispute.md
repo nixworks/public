@@ -8,6 +8,7 @@ More than 3,000 Toyota workers are striking for a fifth day this month over a pa
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-09-23/toyota-workers-on-strike/2912468)
+1. [Cover Image](http://www.abc.net.au/news/image/247908-1x1-700x700.jpg)
 
 ### Related:
 

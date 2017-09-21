@@ -8,6 +8,7 @@ A British soldier has been killed by a bomb in Afghanistan - the 385th fatality 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-15663299)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/56616000/jpg/_56616588_britsoldiers.jpg)
 
 ### Related:
 

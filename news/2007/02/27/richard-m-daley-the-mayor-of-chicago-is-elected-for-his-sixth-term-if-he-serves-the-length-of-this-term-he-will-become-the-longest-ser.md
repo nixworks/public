@@ -8,6 +8,7 @@ Get the latest Chicago local news and US & World news. See recent updates on pol
 ### Source:
 
 1. [NBC Chicago](http://www.nbc5.com/politics/11129674/detail.html?rss=chi&psp=news)
+1. [Cover Image](http://media.nbcchicago.com/designimages/nbcchi_station_logo.jpg?ak=bc)
 
 ### Related:
 

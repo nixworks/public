@@ -8,6 +8,7 @@ At least 18 people have been killed in a rocket attack on government-held areas 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25219664)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71530000/jpg/_71530995_71530994.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ The United Nations and Washington on Monday condemned air strikes on medical fac
 3. [Israel National News](http://www.israelnationalnews.com/News/Flash.aspx/351596#.VsHEfuaoNFQ)
 4. [MSF](http://www.msf.org.au/article/statements-opinion/syria-least-seven-killed-and-eight-missing-another-m%C3%A9decins-sans)
 5. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-turkey-clash-idUKKCN0VO0J7)
+5. [Cover Image](https://s.yimg.com/uu/api/res/1.2/SgmwN9qOWW94ZmdUK.m0Lw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/07476789fd317bfe26e37278d0f6adfdf88111f5.jpg)
 
 ### Related:
 

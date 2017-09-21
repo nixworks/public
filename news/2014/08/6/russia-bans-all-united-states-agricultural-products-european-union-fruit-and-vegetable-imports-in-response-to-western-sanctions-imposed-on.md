@@ -9,6 +9,7 @@ Moscow plans to ban all US agricultural products, including poultry, as well as 
 
 1. [BBC](http://www.bbc.com/news/world-europe-28687172)
 2. [RT](http://rt.com/business/178540-russia-ban-us-poultry/)
+2. [Cover Image](https://img.rt.com/files/news/2b/96/c0/00/russia-ban-us-poultry.si.jpg)
 
 ### Related:
 

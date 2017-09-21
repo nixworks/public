@@ -8,6 +8,7 @@ Famed Chicago chef Charlie Trotter died this morning, according to a family frie
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-charlie-trotter-dead-20131105,0,3424072.story)
+1. [Cover Image](http://www.trbimg.com/img-52798e1d/turbine/chi-charlie-trotter-dead-20131105)
 
 ### Related:
 

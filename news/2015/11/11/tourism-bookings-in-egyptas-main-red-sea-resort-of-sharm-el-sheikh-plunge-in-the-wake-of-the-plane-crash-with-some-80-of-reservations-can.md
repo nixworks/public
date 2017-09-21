@@ -8,6 +8,7 @@ Head of chamber of tourist facilities in region surrounding Red Sea resort says 
 ### Source:
 
 1. [The Globe And Mail](http://www.theglobeandmail.com/news/world/egypts-tourist-reservations-plunge-in-wake-of-russian-plane-crash/article27210809/)
+1. [Cover Image](http://static.theglobeandmail.ca/28f/news/world/article27210808.ece/ALTERNATES/w620/nw-wo-egypt-tourism-1111-web.JPG)
 
 ### Related:
 

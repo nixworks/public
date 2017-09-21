@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://money.cnn.com/2017/02/28/news/companies/hershey-job-cuts/index.html)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/151021024754-hersheys-780x439.jpg)
 
 ### Related:
 

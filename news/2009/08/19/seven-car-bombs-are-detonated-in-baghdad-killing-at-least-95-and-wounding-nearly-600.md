@@ -8,6 +8,7 @@ Insurgents struck at the heart of Iraq’s government, killing at least 95 peopl
 ### Source:
 
 1. [The Times](http://www.nytimes.com/2009/08/20/world/middleeast/20iraq.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

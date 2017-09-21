@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=2&id=335311)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T345548.htm)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8289081)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

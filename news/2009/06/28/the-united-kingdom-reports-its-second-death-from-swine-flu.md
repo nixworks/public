@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE55R0R720090628)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090628&t=2&i=10662920&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-28T105054Z_01_BTRE55R0U5100_RTROPTP_0_FLU-CAMBODIA)
 
 ### Related:
 

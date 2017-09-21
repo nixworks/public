@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-25396448)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71760000/gif/_71760924_china_xinjiang_kashgar_0711.gif)
 
 ### Related:
 

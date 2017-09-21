@@ -16,6 +16,7 @@ Kansas awarding 40 delegates in the Republican primary race
 7. [Presidential Election News](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
 8. [The Guardian](http://www.theguardian.com/us-news/live/2016/mar/05/trump-clinton-sanders-michigan-maine-primary-caucuses)
 9. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/03/05/bernie-sanders-projected-to-win-the-democratic-caucuses-in-nebraska/)
+9. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/03/05/ef5eeb21-f259-458c-8680-22eedb886e4a/2016-03-05t175735z191801433gf10000334797rtrmadp3usa-election-cruz.jpg)
 
 ### Related:
 

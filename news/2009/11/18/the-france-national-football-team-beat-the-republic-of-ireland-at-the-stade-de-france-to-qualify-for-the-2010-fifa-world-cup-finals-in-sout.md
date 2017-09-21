@@ -8,6 +8,7 @@ France striker Thierry Henry admitted that he had intentionally handled the ball
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/international/republicofireland/6599687/Thierry-Henry-admits-to-handball-that-defeated-Ireland-in-World-Cup-play-off.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01526/henry_1526091a.jpg)
 
 ### Related:
 

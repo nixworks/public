@@ -10,6 +10,7 @@
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gkc3uqGuPnGfO90dElARcCQvgTvA?docId=9576d6a6343c46b1abbd0184a9244305)
 2. [CBS News](http://www.cbsnews.com/8301-201_162-57343397/census-data-half-of-u.s-poor-or-low-income/)
 3. [NPR](http://www.npr.org/2011/12/15/143770049/census-1-in-2-americans-are-poor-or-low-income)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/10/20/e9858280-a643-11e2-a3f0-029118418759/eve_1020_REYONLDS.jpg)
 
 ### Related:
 

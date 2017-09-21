@@ -8,6 +8,7 @@ Senate set to confirm Carter as Defense secretary
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2015/02/12/ashton-carter-defense-secretary-confirmation/23292737/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

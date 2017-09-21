@@ -8,6 +8,7 @@ The latest in a succession of storms since Christmas reaches Scotland and is exp
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/weather/12128848/Storm-Gertrude-hits-Britain-as-90mph-winds-fell-trees-and-knock-out-power-lines.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03562/Weather_tree_on_ca_3562402k.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The body of a 5-year-old boy, who went missing Friday after the car he was in wa
 
 1. [NBC News](http://www.nbcnews.com/news/weather/death-toll-southern-storms-rises-18-n486256)
 2. [USA Today](http://www.usatoday.com/story/weather/2015/12/26/severe-weather-slams-south-new-system-looms/77916140/)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_52/1354206/151226-alabama-floods-1946_4f3a9cc6d79edf5e1ff6860a14f8fb95.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

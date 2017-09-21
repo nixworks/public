@@ -9,6 +9,7 @@
 
 1. [RTT](http://www.rttnews.com/2130303/two-british-soldiers-sentenced-for-abusing-afghan-civilians.aspx)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jun/04/afghans-protest-us-discovery-bodies)
+2. [Cover Image](http://www.rttnews.com/images/RTTNews_Small_Logo.jpg)
 
 ### Related:
 

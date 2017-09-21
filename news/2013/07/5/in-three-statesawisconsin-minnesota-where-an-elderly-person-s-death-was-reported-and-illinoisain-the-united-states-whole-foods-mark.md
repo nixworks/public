@@ -8,6 +8,7 @@ Whole Foods Market Inc. is recalling Crave Brothers Les Freres cheese in respons
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/health/illnesses-prompt-wide-whole-foods-cheese-recall-6C10553986)
+1. [Cover Image](https://nodeassets.nbcnews.com/images/og-nbcnews200x200.gif)
 
 ### Related:
 

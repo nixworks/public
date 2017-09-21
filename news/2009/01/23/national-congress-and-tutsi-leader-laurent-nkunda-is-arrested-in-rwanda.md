@@ -8,6 +8,7 @@ In a startling turn against its former ally, Rwanda has arrested Congo rebel lea
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28807477/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090123-NKunda-hmed-225a.standard.jpg)
 
 ### Related:
 

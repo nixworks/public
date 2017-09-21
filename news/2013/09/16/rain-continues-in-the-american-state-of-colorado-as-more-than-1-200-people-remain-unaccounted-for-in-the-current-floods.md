@@ -8,6 +8,7 @@ As rain continued for a seventh day, inundating much of the state and creating a
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/la-na-colorado-floods-20130916,0,3692981.story)
+1. [Cover Image](http://www.trbimg.com/img-52368cad/turbine/la-apphoto-colorado-flooding-jpg-20130915/600/600x399)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Astronomy Ireland says a major fireball was spotted over Ireland at around 6pm t
 
 1. [RTÉ](http://www.rte.ie/news/2010/0203/meteorite.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0203/breaking85.htm)
+2. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)
 
 ### Related:
 

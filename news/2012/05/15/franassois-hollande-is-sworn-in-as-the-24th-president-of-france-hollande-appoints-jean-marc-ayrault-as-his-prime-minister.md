@@ -9,6 +9,7 @@ Socialist Francois Hollande is sworn in as France&#039;s president before naming
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18067852)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/9266374/Francois-Hollande-is-sworn-in-and-heads-for-showdown-with-Merkel.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02219/sarkozy-hollande_2219693k.jpg)
 
 ### Related:
 

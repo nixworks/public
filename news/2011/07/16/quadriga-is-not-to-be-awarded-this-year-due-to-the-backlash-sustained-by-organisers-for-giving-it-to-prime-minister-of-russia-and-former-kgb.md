@@ -12,6 +12,7 @@ Russian PM Vladimir Putin will no longer be awarded a prestigious German rights 
 3. [Reuters](http://www.reuters.com/article/2011/07/16/us-germany-putin-award-idUSTRE76F1CO20110716)
 4. [The New York Times](http://www.nytimes.com/2011/07/17/world/europe/17germany.html)
 5. [The Washington Post](http://www.washingtonpost.com/world/europe/german-foundation-cancels-ceremony-to-honor-russias-putin-after-criticism-of-nomination/2011/07/16/gIQAB0nuHI_story.html)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54102000/jpg/_54102516_012224224-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Army approved the requests of 22 women to commission to become officers in t
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/US/2016/04/16/Army-approves-22-women-as-infantry-armor-officers/3741460808615/?spt=rln&or=4)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/3741460808615/2016/1/f0230239b3f91c6d615af8afab5e95c4/v1.5/Army-approves-22-women-as-infantry-armor-officers.jpg)
 
 ### Related:
 

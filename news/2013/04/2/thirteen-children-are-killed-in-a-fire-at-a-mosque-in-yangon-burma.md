@@ -8,6 +8,7 @@ The police in Myanmar said Tuesday that 13 children died when an electrical fire
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/02/world/asia/myanmar-fire-at-mosque-kills-13-children.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

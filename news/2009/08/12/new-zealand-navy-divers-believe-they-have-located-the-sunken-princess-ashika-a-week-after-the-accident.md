@@ -9,3 +9,4 @@ Tongan Transport Minister Paul Karalus has resigned, six days after the sinking 
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10590099)
 2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=48405)
+2. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)

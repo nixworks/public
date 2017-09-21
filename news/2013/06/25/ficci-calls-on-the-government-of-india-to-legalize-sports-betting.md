@@ -8,3 +8,4 @@ Amidst the uproar over the spot-fixing and betting scandal, industry body FICCI 
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/sports/cricket/fixing-hits-ipl/news/FICCI-wants-sports-betting-legalized-in-India/articleshow/20768698.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/20768743.cms)

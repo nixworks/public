@@ -8,6 +8,7 @@ China and Russia signed off on a huge gas deal worth as much as $400 billion Wed
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2014/05/21/china-russia-gas-deal/9365155/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

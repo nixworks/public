@@ -8,6 +8,7 @@ Divers working at a Russian lake have recovered a 570kg chunk of the space rock 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-24550941)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70512000/jpg/_70512649_70512647.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ A worker at a subsidiary of tech firm Foxconn dies after falling from a factory 
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/infotech/view/20100721-282281/Another-worker-at-Foxconn-subsidiary-falls-to-death-in-China)
 3. [Reuters India](http://in.reuters.com/article/idUSTRE66J2DV20100720?feedType=RSS&feedName=topNews)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-technology/worker-at-foxconn-affiliate-falls-to-death-in-china-20100720-10jnp.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

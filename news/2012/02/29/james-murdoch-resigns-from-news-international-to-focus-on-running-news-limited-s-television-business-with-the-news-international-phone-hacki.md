@@ -9,6 +9,7 @@ James Murdoch has resigned as chairman of News International a day after its par
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/james-murdoch-quits-as-hacking-claims-keep-coming-20120301-1u3xe.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/9114105/James-Murdoch-resigns-from-News-International-as-firm-admits-papers-could-be-sold-off.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02138/James-Murdoch_2138926a.jpg)
 
 ### Related:
 

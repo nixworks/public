@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21555898)
 2. [Reuters](http://www.reuters.com/article/2013/02/23/us-mali-rebels-chad-idUSBRE91M00420130223)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66032000/jpg/_66032201_66032200.jpg)
 
 ### Related:
 

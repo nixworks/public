@@ -21,6 +21,7 @@ Counting of votes has begun around the country as an exit poll indicated Fine Ga
 12. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking29.html?via=rel)
 13. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking6.html)
 14. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking66.html)
+14. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

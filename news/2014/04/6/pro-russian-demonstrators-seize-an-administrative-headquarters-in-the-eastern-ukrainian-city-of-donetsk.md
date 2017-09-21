@@ -8,6 +8,7 @@ Pro-Russian protesters storm government buildings in three eastern Ukrainian cit
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-26910210)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74071000/jpg/_74071199_74071198.jpg)
 
 ### Related:
 

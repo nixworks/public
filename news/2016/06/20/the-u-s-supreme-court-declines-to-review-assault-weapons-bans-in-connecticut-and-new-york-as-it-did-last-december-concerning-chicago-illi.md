@@ -8,6 +8,7 @@ The Supreme Court has rejected challenges to assault weapons bans in Connecticut
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/politics/2016/06/20/supreme-court-leaves-state-assault-weapons-bans-in-place.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/06/20/0/0/694940094001_4963362096001_e6b59ebf-9ea9-4f73-af35-083bb2c603ac.jpg?ve=1)
 
 ### Related:
 

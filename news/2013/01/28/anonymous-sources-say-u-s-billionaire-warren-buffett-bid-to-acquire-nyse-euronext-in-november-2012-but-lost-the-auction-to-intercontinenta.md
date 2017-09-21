@@ -8,6 +8,7 @@ Warren Buffett made a bid to acquire New York Stock Exchange operator NYSE Euron
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/28/us-berkshire-nyse-idUSBRE90R0QP20130128)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130128&t=2&i=698530696&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90R19DW00)
 
 ### Related:
 

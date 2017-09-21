@@ -9,6 +9,7 @@ A Taliban suicide bomber dressed as a laborer blew himself up at the NATO air ba
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKBN137037)
 2. [The Australian](http://www.theaustralian.com.au/news/world/taliban-claims-us-base-attack-in-afghanistan/news-story/d3e89ac00e4619626911a7641f826388)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161112&t=2&i=1161427904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAB054)
 
 ### Related:
 

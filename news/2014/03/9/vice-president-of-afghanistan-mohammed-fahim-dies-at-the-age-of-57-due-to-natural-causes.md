@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2014/03/09/afghanistan-vp-dies-idINDEEA2803C20140309)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140309&t=2&i=857795755&w=&fh=545px&fw=&ll=&pl=&sq=&r=CDEEA280PQ700)
 
 ### Related:
 

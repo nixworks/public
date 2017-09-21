@@ -8,6 +8,7 @@ At least 22 officers killed and hostages held as regional leaders meet in Pakist
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/12/taliban-attacks-kandahar-airport-nato-base-151208151915195.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/12/9/09428a2305874a89add610485a7fcd6e_18.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Hewlett-Packard said it will cut 27,000 jobs across the globe to save on costs a
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/05/23/technology/hp-earnings/index.htm?hpt=hp_t3)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/05/23/technology/hp-earnings/hp-lobby.01.jpg)
 
 ### Related:
 

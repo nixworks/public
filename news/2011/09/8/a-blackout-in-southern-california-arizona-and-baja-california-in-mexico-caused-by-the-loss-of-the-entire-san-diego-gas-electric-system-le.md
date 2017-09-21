@@ -10,6 +10,7 @@ Millions were left in the dark Thursday, but SDG&E said it was making progress.
 1. [AP via ''Arizona Star](http://azstarnet.com/news/state-and-regional/article_d5e7bfd8-da74-11e0-837a-001cc4c03286.html)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/09/blackout-san-onofre-reactor.html)
 3. [NBC San Diego](http://www.nbcsandiego.com/news/local/San-Diego-Communities-Experience-Blackout-129493378.html)
+3. [Cover Image](http://media.nbcsandiego.com/images/1200*675/SGO-power-p35.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A firefighter commended for his work in the 7 July London bombings is one of 33 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-12118069)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

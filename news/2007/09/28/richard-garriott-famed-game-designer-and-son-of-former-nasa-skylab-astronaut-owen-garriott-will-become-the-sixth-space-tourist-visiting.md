@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Space Adventures](http://www.spaceadventures.com/index.cfm?fuseaction=news.viewnews&newsid=554)
+1. [Cover Image](http://www.spaceadventures.com/wp-content/uploads/2014/03/Press_releases2.jpg)
 
 ### Related:
 

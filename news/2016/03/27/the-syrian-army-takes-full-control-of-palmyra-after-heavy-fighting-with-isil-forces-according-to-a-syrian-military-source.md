@@ -8,6 +8,7 @@ Bashar al Assad says it is an &quot;important achievement&quot; and shows his ar
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1667695/syrian-troops-retake-all-of-palmyra-from-is)
+1. [Cover Image](http://e3.365dm.com/16/03/1600x900/gettyimages-517616468-1-2048x1536_3438059.jpg?20160327081812)
 
 ### Related:
 

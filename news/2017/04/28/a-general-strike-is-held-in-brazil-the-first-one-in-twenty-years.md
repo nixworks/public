@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-brazil-strike-20170428-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5903f488/turbine/la-fg-brazil-strike-20170428)
 
 ### Related:
 

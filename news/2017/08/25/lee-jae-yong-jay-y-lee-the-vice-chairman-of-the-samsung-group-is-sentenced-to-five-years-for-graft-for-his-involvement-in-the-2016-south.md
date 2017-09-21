@@ -9,6 +9,7 @@ Jay Y. Lee is set to spend the next five years in prison, one of the harshest se
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-08-25/samsung-heir-sentenced-to-five-years-prison-on-graft-conviction)
 2. [Reuters](http://www.reuters.com/article/us-samsung-lee-idUSKCN1B41VC)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIE0jlEHRWWg/v0/1200x800.jpg)
 
 ### Related:
 

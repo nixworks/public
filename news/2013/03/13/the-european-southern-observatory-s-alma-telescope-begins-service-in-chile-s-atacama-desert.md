@@ -9,6 +9,7 @@ The National Science Council (NSC) and Academia Sinica yesterday announced that 
 
 1. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2013/03/19/2003557463)
 2. [The Telegraph](http://www.telegraph.co.uk/science/space/9927572/Chiles-new-Alma-telescope-is-a-complete-game-changer.html)
+2. [Cover Image](http://www.taipeitimes.com/images/2013/03/19/thumbs/p03-130319-yu.jpg)
 
 ### Related:
 

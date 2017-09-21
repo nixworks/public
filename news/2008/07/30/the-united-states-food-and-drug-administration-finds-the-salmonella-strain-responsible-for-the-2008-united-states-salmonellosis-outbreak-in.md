@@ -8,6 +8,7 @@ A strain of the salmonella bacteria that sickened more than 1,300 people has bee
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/business/la-fi-salmonella31-2008jul31,1,887678.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

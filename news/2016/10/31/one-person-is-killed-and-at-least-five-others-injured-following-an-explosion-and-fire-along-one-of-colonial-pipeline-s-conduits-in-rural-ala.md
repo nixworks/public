@@ -9,6 +9,7 @@ Five were hospitalized after the blast, which occurred after equipment used by a
 
 1. [AP/NBC News](http://www.nbcnews.com/news/us-news/1-dead-colonial-gas-pipeline-explosion-alabama-n676046)
 2. [WSB-TV](http://www.wsbtv.com/news/local/explosion-from-gas-pipeline-hurts-at-least-3-in-alabama/462505516)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_44/1776416/161031-alabama_pipeline-explosion-mbe-809p_3_efc4532adc095205dae9261075e35864.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

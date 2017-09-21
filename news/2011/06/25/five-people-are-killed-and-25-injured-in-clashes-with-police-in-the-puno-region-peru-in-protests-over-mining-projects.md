@@ -8,6 +8,7 @@ Peruvian President Alan Garcia said Saturday that &quot;dark political interests
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/americas/06/25/peru.mine.canceled/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/06/25/peru.mine.canceled/tzvids.peru.mining.jpg)
 
 ### Related:
 

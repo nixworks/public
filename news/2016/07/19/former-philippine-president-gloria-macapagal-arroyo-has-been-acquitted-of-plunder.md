@@ -8,6 +8,7 @@ The Philippine Supreme Court dismisses a long-running plunder charge against for
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36832180)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5216/production/_90441012_1f80f001-a1c0-40a3-8b7a-cb4b084864b9.jpg)
 
 ### Related:
 

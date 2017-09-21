@@ -10,6 +10,7 @@ North Korea threatened the United States on Thursday with a preemptive nuclear s
 1. [CNN](http://www.cnn.com/2013/03/07/world/asia/un-north-korea-sanctions)
 2. [Fox News](http://www.foxnews.com/world/2013/03/07/north-korea-vows-nuclear-attack-on-us-ahead-un-sanctions-vote/)
 3. [Reuters](http://www.reuters.com/article/2013/03/07/us-korea-north-attack-idUSBRE9260BR20130307)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130307&t=2&i=710652675&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9260SNY00)
 
 ### Related:
 

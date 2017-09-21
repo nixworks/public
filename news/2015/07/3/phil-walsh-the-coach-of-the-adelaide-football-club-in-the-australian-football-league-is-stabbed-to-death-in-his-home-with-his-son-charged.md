@@ -8,6 +8,7 @@ Adelaide Crows coach Phil Walsh is stabbed to death and police have charged his 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-07-03/crows-coach-phil-walsh-allegedly-murdered-son-charged/6591832)
+1. [Cover Image](http://www.abc.net.au/news/image/6591932-1x1-700x700.jpg)
 
 ### Related:
 

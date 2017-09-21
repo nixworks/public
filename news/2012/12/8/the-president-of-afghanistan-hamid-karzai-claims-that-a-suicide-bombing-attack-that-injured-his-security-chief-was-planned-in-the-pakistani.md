@@ -8,6 +8,7 @@ Afghan President Hamid Karzai saidon Saturday that a suicide bombing attack that
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/12/08/afghanistan-pakistan-idUSL4N09I0MU20121208)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Europe’s 22 biggest banks may have accumulated about 400 billion euros in cred
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/09/26/business/global/26banks.html?adxnnl=1&ref=global&adxnnlx=1253987637-4NFJMpFMq8SPjVfKwgQFQw)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

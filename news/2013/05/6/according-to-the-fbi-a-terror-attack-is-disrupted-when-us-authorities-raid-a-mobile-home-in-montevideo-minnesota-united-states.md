@@ -8,6 +8,7 @@ The FBI says it believes &quot;a terror attack was disrupted&quot; when authorit
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Raid-of-US-home-stops-terror-attack-20130506)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1967/a44e048b18c846d7909a6680aded83fd.jpg)
 
 ### Related:
 

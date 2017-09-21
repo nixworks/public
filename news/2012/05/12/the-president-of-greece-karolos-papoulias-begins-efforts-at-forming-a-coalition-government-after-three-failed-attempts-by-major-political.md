@@ -8,6 +8,7 @@ The Greek president summons party leaders for last-ditch talks on forming a unit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18044253)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60191000/jpg/_60191839_014690236-1.jpg)
 
 ### Related:
 

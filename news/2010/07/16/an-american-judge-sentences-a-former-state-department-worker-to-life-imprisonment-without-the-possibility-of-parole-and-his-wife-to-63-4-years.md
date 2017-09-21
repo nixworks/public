@@ -11,6 +11,7 @@ A US judge sentences a former State Department worker to life in prison without 
 2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7112248.html)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE66F4LK20100716?feedType=RSS&feedName=worldNews)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Spying-For-Cuba-US-Intelligence-Worker-Walter-Kendall-Myers-Jailed-For-Life-After-30-Years-Spying/Article/201007315666412?lpos=World_News_First_Home_Article_Teaser_Region_9&lid=ARTICLE_15666412_Spying_For_Cuba%)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

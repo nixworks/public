@@ -8,6 +8,7 @@ A city councillor will chain himself to Christ Church Cathedral to prevent its d
 ### Source:
 
 1. [The Press Christchurch](http://www.stuff.co.nz/the-press/news/christchurch-earthquake-2011/6509696/Christ-Church-Cathedral-to-be-demolished)
+1. [Cover Image](https://static2.stuff.co.nz/1330626875/783/6510783.jpg)
 
 ### Related:
 

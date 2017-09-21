@@ -9,6 +9,7 @@
 
 1. [AP via Huffington Post](http://www.huffingtonpost.com/huff-wires/20130703/as-pakistan/?utm_hp_ref=homepage&ir=homepage)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/07/201373145444176859.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/8/201368131824210734_20.jpg)
 
 ### Related:
 

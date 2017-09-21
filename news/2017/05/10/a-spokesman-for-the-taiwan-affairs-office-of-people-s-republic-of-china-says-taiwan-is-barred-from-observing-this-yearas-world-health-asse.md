@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-china-taiwan-idUSKBN1860BW)
 2. [Voice of America](https://www.voanews.com/a/taiwan-rejection-from-who-assembly-further-strains-relations-with-china/3845764.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

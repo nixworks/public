@@ -8,6 +8,7 @@ A federal judge ruled Thursday that the government&#8217;s warrantless wiretappi
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/14393611/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Video/060817/n_jordan_wiretapoverturn_060817.standard.jpg)
 
 ### Related:
 

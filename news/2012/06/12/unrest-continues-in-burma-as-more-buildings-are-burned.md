@@ -8,6 +8,7 @@ Gunshots are heard and buildings set on fire in an area affected by deadly viole
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18406370)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60849000/jpg/_60849193_015014053-1.jpg)
 
 ### Related:
 

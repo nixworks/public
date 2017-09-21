@@ -8,3 +8,4 @@ Indigenous cryogenic engine puts a 1,982-kg communication satellite in orbit
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/sci-tech/science/gslvd5-launch-places-india-in-elite-league/article5541607.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article11438967.ece/ALTERNATES/LANDSCAPE_615/GSLV1)

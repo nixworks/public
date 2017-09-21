@@ -10,6 +10,7 @@ The last of 3,200 miners trapped deep in a South African mine shaft have come to
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,22529734-401,00.html)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/10/05/2051398.htm)
 3. [SABC News](http://www.sabcnews.com/south_africa/general/0,2172,156912,00.html)
+3. [Cover Image](http://www.abc.net.au/news/image/690360-1x1-700x700.jpg)
 
 ### Related:
 

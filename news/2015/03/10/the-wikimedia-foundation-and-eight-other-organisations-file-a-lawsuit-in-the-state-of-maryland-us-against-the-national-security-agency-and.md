@@ -8,6 +8,7 @@ Wikimedia Foundation and eight other groups filed a lawsuit Tuesday against the 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/tech/security/wikimedia-sues-nsa-alleging-mass-internet-surveillance-n320756)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_11/924031/150310-nsa-headquarters-mn-1120_45ffc94afc845bd36d601132bc4fb265.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

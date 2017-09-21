@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/business/bombardier-cseries-jet-completes-maiden-flight-1.1855731)
+1. [Cover Image](https://i.cbc.ca/1.1856287.1379370362!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/bombardier-cseries-20130916.jpg)
 
 ### Related:
 

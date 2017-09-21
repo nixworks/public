@@ -8,6 +8,7 @@ Communist Party veterans write open letter requesting the sacking of security ch
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201251701345290712.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/17/201251785215174734_20.jpg)
 
 ### Related:
 

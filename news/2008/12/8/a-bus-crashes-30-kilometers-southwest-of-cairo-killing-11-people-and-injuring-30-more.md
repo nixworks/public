@@ -8,6 +8,7 @@ Eleven Egyptians were killed and 30 injured when their bus overturned during a c
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2008/12/08/2440941.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

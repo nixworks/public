@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11539333)
 2. [Japan Today](http://www.japantoday.com/category/politics/view/kan-says-freeing-chinese-nobel-winner-desirable)
 3. [Yemen News Agency](http://www.sabanews.net/en/news226307.htm)
+3. [Cover Image](https://www.japantoday.com/img/jt_logo_fb.gif)
 
 ### Related:
 

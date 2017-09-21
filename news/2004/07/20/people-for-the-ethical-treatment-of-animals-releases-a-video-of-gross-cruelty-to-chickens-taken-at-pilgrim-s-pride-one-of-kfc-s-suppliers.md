@@ -9,6 +9,7 @@ An investigator for an animal rights group captured video of chickens being kick
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,126359,00.html)
 2. [The Independent](http://news.independent.co.uk/world/americas/story.jsp?story=543026)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

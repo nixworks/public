@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/nationnow/la-na-nn-supreme-court-religion-catholics-jews-20140505,0,5918654.story)
+1. [Cover Image](http://www.trbimg.com/img-5367efb9/turbine/la-na-nn-supreme-court-religion-catholics-jews-20140505)
 
 ### Related:
 

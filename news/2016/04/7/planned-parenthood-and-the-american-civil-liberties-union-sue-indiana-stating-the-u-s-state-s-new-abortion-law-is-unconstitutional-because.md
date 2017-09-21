@@ -9,6 +9,7 @@ The federal lawsuit also challenges a provision that mandates an aborted fetus b
 
 1. [CBS News with AP](http://www.cbsnews.com/news/planned-parenthood-aclu-sue-indiana-over-new-abortion-law/)
 2. [Reuters](http://www.reuters.com/article/us-indiana-plannedparenthood-lawsuit-idUSKCN0X427N)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/03/31/cb61a8e3-9f12-432d-a3dc-b5ab7b082be0/468206814.jpg)
 
 ### Related:
 

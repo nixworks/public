@@ -8,6 +8,7 @@ This week’s attacks underscore how the disputed, oil-rich border town of Abyei
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Africa/Africa-Monitor/2011/0303/As-world-focuses-on-Libya-more-than-100-killed-in-Sudan-border-town)
+1. [Cover Image](http://images.csmonitor.com/csmarchives/2011/03/0303-sudan-libya.jpg?alias=standard_900x600)
 
 ### Related:
 

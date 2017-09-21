@@ -8,6 +8,7 @@ Islamist fighters ran the top Western-backed rebel commander in Syria out of his
 ### Source:
 
 1. [The Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304202204579252021900591220)
+1. [Cover Image](https://si.wsj.net/public/resources/images/WO-AQ574_SYRAID_G_20131211193041.jpg)
 
 ### Related:
 

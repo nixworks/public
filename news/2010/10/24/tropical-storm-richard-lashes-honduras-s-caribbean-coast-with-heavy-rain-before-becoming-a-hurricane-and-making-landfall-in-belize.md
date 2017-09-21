@@ -11,6 +11,7 @@
 2. [AP](http://hosted.ap.org/dynamic/stories/T/TROPICAL_WEATHER?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 3. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/24/tropical.weather/index.html?eref=edition)
 4. [Reuters](http://www.reuters.com/article/idUSN2420133720101024)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [The Guardian](http://www.guardian.co.uk/world/2010/apr/11/israeli-groups-attack)
 4. [The Jordan Times](http://www.jordantimes.com/?news=25629)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7094854.ece)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

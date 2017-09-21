@@ -9,6 +9,7 @@
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1009143/1/.html#)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1003/breaking51.htm)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

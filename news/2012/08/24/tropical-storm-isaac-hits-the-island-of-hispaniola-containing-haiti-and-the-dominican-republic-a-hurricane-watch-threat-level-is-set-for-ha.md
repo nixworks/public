@@ -9,6 +9,7 @@ Tropical Storm Isaac dumps rain on eastern Cuba after bringing flood misery to t
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19365052#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)
 2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62499000/jpg/_62499184_man_ap.jpg)
 
 ### Related:
 

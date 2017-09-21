@@ -10,6 +10,7 @@ E-ALAM, Afghanistan (Reuters) - Protestors clashed with Afghan security forces o
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11269681)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-11274010)
 3. [Reuters](http://www.reuters.com/article/idUSTRE68A09R20100911)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100911&t=2&i=201563007&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-11T115637Z_01_BTRE68A0X6J00_RTROPTP_0_USA-MUSLIMS)
 
 ### Related:
 

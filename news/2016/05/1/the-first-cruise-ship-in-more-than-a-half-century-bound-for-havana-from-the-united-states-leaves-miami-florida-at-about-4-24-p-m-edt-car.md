@@ -8,6 +8,7 @@ MIAMI (AP) — Passengers set sail Sunday from Miami on an historic cruise to Cu
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/3ed10aa61a894712ab1bd9f15e4f2cc9/after-half-century-wait-us-cruise-leaves-miami-cuba)
+1. [Cover Image](http://binaryapi.ap.org/356a66f67ded497195b8429711ca3b1f/460x.jpg)
 
 ### Related:
 

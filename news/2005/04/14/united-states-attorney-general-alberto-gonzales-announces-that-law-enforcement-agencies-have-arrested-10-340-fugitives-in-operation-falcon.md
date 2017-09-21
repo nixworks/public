@@ -10,6 +10,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 1. [ABC](http://abcnews.go.com/Politics/wireStory?id=671486)
 2. [Operation Falcon website](http://www.usdoj.gov/marshals/falcon/index.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8186497)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

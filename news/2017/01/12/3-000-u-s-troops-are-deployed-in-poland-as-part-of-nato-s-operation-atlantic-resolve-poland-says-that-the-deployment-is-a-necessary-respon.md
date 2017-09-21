@@ -9,6 +9,7 @@ Thousands of troops, and hundreds of armoured vehicles, are being sent to Poland
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/troops-poland-threat-russia-security-170112144005610.html)
 2. [BBC](http://www.bbc.com/news/world-europe-38592448)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/7BE2/production/_93541713_mediaitem93541712.jpg)
 
 ### Related:
 

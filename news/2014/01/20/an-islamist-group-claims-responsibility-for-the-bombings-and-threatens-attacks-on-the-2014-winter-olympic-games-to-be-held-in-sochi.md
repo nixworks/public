@@ -8,6 +8,7 @@ Two men said by Islamist militants to have carried out suicide attacks in south 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/20/us-russia-olympics-militants-idUSBREA0J0CX20140120)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140120&t=2&i=831029045&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0J0KC200)
 
 ### Related:
 

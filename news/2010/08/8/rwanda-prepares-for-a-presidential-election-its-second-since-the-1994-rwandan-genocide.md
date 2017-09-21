@@ -8,6 +8,7 @@ Incumbent Paul Kagame expected to win easily as opposition claim intimidation.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/201088132935555456.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

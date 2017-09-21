@@ -12,6 +12,7 @@ A group of intellectuals and politicians calls on France to repay 17bn euros (£
 3. [France24](http://www.france24.com/en/20100816-france-urged-pay-back-haiti-illegal-independence-debt-open-letter-sarkozy)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/aug/15/france-haiti-independence-debt)
 5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/france-urged-to-repay-haiti-a24-billion-20100816-126w0.html)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

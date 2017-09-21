@@ -10,6 +10,7 @@ Sources say minister is on his way to Tunisian capital as NATO warplanes continu
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/20115171257877670.html)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2011/05/libya-nato-airstrikes-government-buildings-tripoli.html)
 3. [Reuters](http://uk.reuters.com/article/2011/05/17/libya-nato-warship-idUKLDE74G2DE20110517)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/17/201151713251528734_20.jpg)
 
 ### Related:
 

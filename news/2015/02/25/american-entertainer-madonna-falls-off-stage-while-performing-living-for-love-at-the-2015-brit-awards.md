@@ -10,6 +10,7 @@ Madonna has suffered an embarrassing fall at the Brit Awards.
 1. [PA via WA Today](http://www.watoday.com.au/entertainment/music/brit-awards-2015-madonna-falls-off-stage-during-living-for-love-performance-20150226-13p7um.html)
 2. [The Guardian](http://www.theguardian.com/music/2015/feb/25/ed-sheeran-wins-best-album-at-brit-awards-2015)
 3. [The Guardian](http://www.theguardian.com/music/2015/feb/25/mark-ronson-wins-best-british-single-at-brit-awards-2015)
+3. [Cover Image](http://www.watoday.com.au/content/dam/images/3/r/0/9/f/image.related.articleLeadwide.620x349.13p7um.png/1424908787597.jpg)
 
 ### Related:
 

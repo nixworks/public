@@ -10,6 +10,7 @@ Hurricane Matthew slammed into South Carolina on Saturday, packing a diminished 
 1. [ABC News](http://abcnews.go.com/US/hurricane-matthew-batters-florida-coast-dead-million-lose/story?id=42608853)
 2. [Reuters](http://www.reuters.com/article/us-usa-matthew-idUSKCN12807E)
 3. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/090247.shtml)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161008&t=2&i=1156677878&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC970IG)
 
 ### Related:
 

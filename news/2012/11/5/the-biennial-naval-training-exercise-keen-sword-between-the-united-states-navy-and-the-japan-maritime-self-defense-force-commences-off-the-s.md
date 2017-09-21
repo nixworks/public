@@ -8,6 +8,7 @@ The US and Japan begin joint military exercises, amid simmering tensions with Ch
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20202357)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63926000/jpg/_63926073_107550200.jpg)
 
 ### Related:
 

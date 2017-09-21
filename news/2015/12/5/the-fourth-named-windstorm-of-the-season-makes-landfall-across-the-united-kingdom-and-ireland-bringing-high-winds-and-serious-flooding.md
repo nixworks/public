@@ -9,6 +9,7 @@ A 90-year-old man dies after it is believed he was blown into the path of a movi
 
 1. [BBC](http://www.bbc.co.uk/news/uk-3501474)
 2. [BBC](http://www.bbc.co.uk/news/uk-england-london-35015530)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/101D/production/_87052140_87052136.jpg)
 
 ### Related:
 

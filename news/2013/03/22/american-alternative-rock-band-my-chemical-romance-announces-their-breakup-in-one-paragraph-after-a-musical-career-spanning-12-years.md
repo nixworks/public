@@ -9,6 +9,7 @@ My Chemical Romance has called it quits, the rock act announced on its website o
 
 1. [Billboard](http://www.billboard.com/biz/articles/news/global/1554330/my-chemical-romance-break-up-time-for-it-to-end)
 2. [My Chemical Romance](http://www.mychemicalromance.com/news/)
+2. [Cover Image](http://www.billboard.com/files/media/my-chemical-romance-press-650-430.jpg)
 
 ### Related:
 

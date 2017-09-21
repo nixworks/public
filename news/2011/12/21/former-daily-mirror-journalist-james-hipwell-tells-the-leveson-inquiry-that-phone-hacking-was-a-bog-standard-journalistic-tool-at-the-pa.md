@@ -8,6 +8,7 @@ Phone hacking appeared to be a &quot;bog-standard journalistic tool&quot; for ga
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16283935)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57452000/jpg/_57452604_jex_1270829_de27-1.jpg)
 
 ### Related:
 

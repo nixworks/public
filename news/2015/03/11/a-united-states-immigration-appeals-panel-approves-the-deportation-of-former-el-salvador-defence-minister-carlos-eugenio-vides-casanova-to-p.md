@@ -8,6 +8,7 @@ An appeals panel has upheld the deportation order of a former El Salvadorean def
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/latino/former-el-salvador-defense-ministers-deportation-upheld-n321801)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_11/926901/150311-carlos-eugenio-vides-casanova-jsw-643p_8b57bf77f5bebc387f40a8770efeaa23.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ As a wildfire that devastated the wealthy enclave of Montecito settled down late
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-sbfire15-2008nov15,0,3157160.story)
+1. [Cover Image](http://www.trbimg.com/img-5418648c/turbine/la-me-sbfire15-2008nov15)
 
 ### Related:
 

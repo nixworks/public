@@ -8,6 +8,7 @@ Voters across Mali cast their ballots in a presidential election aimed at reunit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23480493)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68986000/jpg/_68986409_018787214.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Tropical Cyclone Debbie is downgraded to a category three system, having made la
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/2017-03-28/bom-warning-cyclone-debbie-hours-from-hitting-north-queensland/8391174)
+1. [Cover Image](http://www.abc.net.au/news/image/8394220-1x1-700x700.jpg)
 
 ### Related:
 

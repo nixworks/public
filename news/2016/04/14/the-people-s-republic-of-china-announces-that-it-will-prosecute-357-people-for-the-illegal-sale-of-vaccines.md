@@ -8,6 +8,7 @@ The Chinese government says 357 officials are to be punished over a scandal invo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-36041918)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15D6C/production/_89225498_89225497.jpg)
 
 ### Related:
 

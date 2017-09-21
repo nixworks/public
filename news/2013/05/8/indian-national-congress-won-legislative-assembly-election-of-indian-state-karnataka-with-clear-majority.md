@@ -8,6 +8,7 @@ Karnataka has delivered an unambiguous verdict. The Congress will form the next 
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/elections/article/assembly-polls/karnataka-election-results-live-congress-gets-majority-bjp-routed-jd-s-gains-364102)
+1. [Cover Image](http://i.ndtvimg.com/mt/2013-05/karnataka-poll-congress-victory-295.jpg)
 
 ### Related:
 

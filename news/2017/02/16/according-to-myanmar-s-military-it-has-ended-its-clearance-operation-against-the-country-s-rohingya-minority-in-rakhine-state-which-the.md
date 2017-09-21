@@ -8,6 +8,7 @@ Army completes ‘clearance operation’ which UN says has caused 69,000 people 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/feb/16/myanmar-military-crackdown-against-rohingyas-has-ceased)
+1. [Cover Image](https://i.guim.co.uk/img/media/0ea62cd6bdecc189cd5c95a528bb402401c082bd/0_49_3960_2376/master/3960.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4ddf81572799aebf7afd52b2c9ac6e60)
 
 ### Related:
 

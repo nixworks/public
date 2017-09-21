@@ -9,3 +9,4 @@ China launched the first-ever quantum satellite Monday (Aug. 15), in an effort t
 
 1. [Space.com](http://www.space.com/33760-china-launches-quantum-communications-satellite.html)
 2. [The New York Times](http://www.nytimes.com/2016/08/17/world/asia/china-quantum-satellite-mozi.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA1Ny81ODcvb3JpZ2luYWwvY2hpbmEtcXVhbnR1bS1zYXRlbGxpdGUtbGF1bmNoLmpwZw==)

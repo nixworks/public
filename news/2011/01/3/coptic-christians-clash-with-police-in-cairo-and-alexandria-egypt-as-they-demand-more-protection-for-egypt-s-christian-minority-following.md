@@ -9,6 +9,7 @@
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-coptic-christians-20110103,0,7451665.story)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4008052,00.html)
+2. [Cover Image](http://www.latimes.com/media/photo/2011-01/58559515.jpg)
 
 ### Related:
 

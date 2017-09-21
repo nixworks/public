@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2007-08-28T133754Z_01_ISL212820_RTRUKOC_0_US-AFGHAN-HOSTAGES.xml&src=nl_ustopnewsearly)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

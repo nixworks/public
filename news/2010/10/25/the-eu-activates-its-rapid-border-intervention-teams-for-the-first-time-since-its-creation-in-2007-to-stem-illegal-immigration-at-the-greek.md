@@ -8,6 +8,7 @@ The EU is for the first time sending border guards to help Greece stem an influx
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-europe-11618094)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

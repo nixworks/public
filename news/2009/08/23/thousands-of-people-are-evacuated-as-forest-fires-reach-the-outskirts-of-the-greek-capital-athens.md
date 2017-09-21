@@ -11,6 +11,7 @@ A huge wildfire fanned by strong winds cut a swathe of destruction near Athens, 
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8216622.stm)
 3. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1208348/Greek-forest-rages-near-Athens-villages-cut-flames.html#comments)
 4. [RTÉ](http://www.rte.ie/news/2009/0823/greece.html)
+4. [Cover Image](https://img.rasset.ie/0002890d-1600.jpg)
 
 ### Related:
 

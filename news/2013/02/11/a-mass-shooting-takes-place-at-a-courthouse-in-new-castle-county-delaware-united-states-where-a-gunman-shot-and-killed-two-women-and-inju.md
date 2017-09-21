@@ -8,6 +8,7 @@ WILMINGTON, Del. — The father of a man who kidnapped his three young daughters
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/02/11/delaware-courthouse-shooting/1909075/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

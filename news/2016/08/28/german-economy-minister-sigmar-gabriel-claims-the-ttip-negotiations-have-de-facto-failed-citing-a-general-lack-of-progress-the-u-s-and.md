@@ -8,6 +8,7 @@ BERLIN (AP) — Free trade talks between the European Union and the United State
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/611ff828b5ed44d5ad56ab46e0781e52/german-economy-minister-says-eu-us-trade-talks-have-failed)
+1. [Cover Image](http://binaryapi.ap.org/cc0e7aa8f9be4d98a84bf272c3a61a0e/460x.jpg)
 
 ### Related:
 

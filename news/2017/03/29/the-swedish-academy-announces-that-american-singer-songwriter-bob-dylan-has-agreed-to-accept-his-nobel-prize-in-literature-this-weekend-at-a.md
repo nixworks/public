@@ -8,6 +8,7 @@ The American singer, who snubbed a ceremony in December, says no media must be p
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39429032)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FE67/production/_95372156_mediaitem95372155.jpg)
 
 ### Related:
 

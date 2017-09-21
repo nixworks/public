@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/04/16/524260257/cleveland-police-search-for-suspected-shooter-accused-of-live-streaming-homicide)
+1. [Cover Image](https://media.npr.org/assets/img/2017/04/16/ap_17106787687952_wide-5899a709f319b2225cd62e6dc4acf03fc8e6b6df.jpg?s=1400)
 
 ### Related:
 

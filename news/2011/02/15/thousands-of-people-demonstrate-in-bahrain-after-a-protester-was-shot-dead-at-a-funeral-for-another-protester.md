@@ -9,6 +9,7 @@ The king of Bahrain has gone on television to announce an investigation into the
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12476335)
 2. [Reuters](http://www.reuters.com/article/2011/02/15/us-bahrain-clashes-idUSTRE71E3HN20110215)
+2. [Cover Image](http://playlists.bbc.co.uk/news/world-middle-east-12476335A/playlist.sxml)
 
 ### Related:
 

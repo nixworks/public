@@ -8,6 +8,7 @@ The week-long search for a missing schoolgirl takes a dramatic turn after police
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/971123/tia-manhunt-after-body-found)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/houseaerial-1_3706540.jpg?20160706175843)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Chinese man who campaigned for compensation for victims of a 2008 contaminated
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11724323)
 2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE6A914Y20101110?sp=true)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

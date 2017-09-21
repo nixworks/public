@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/taiwan-quake-toll-rises-to-59-76-missing/news-story/b677a2fe6e1b74ce357fa24054c6cb90?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

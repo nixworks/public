@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/india-s-top-court-rejects/636348.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/562358/1452563571000/large16x9/640/360/judge-gavel-525590.jpg)
 
 ### Related:
 

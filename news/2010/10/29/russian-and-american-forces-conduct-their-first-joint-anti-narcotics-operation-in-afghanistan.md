@@ -10,6 +10,7 @@ Russian and U.S. special forces have carried out their first joint anti-narcotic
 1. [RIA Novosti](http://en.rian.ru/world/20101029/161131625.html)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE69S3CW20101029?sp=true)
 3. [The Hindu](http://www.thehindu.com/news/international/article857110.ece)
+3. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

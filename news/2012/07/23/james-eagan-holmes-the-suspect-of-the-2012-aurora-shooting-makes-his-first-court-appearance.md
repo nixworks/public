@@ -8,6 +8,7 @@ The proceeding offered the first public glimpse of James E. Holmes since he was 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/07/24/us/suspect-in-colorado-shooting-in-court.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/07/23/us/23-james-holmes/23-james-holmes-superJumbo.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [TASS](http://tass.ru/en/world/808741)
+1. [Cover Image](http://tass.com/images/tass_logo_share_en.png)
 
 ### Related:
 

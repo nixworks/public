@@ -8,6 +8,7 @@ At least 10 people have been killed after a mosque collapsed in the Pakistani ci
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2014-09-10/mosque-collapse-in-pakistani-city-of-lahore/5732160)
+1. [Cover Image](http://www.abc.net.au/news/image/5732234-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ SBS World News Radio: Vote-counting in the Central African Republic&#039;s presi
 ### Source:
 
 1. [Special Broadcasting Service](http://www.sbs.com.au/news/article/2016/02/16/counting-begins-central-african-republic-vote)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/podcast/2016-02/site_197_World%2520News_473610.JPG)
 
 ### Related:
 

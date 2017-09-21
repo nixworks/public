@@ -8,6 +8,7 @@ The number of people on the Live Register hit 400,000 for the first time last mo
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0605/liveregister.html)
+1. [Cover Image](https://img.rasset.ie/00023055-1600.jpg)
 
 ### Related:
 

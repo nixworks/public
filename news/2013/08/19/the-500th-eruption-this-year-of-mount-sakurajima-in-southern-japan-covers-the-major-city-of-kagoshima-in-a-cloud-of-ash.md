@@ -8,6 +8,7 @@ A clean-up operation has begun in Japan after an eruption at a volcano covered a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23751191)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/69352000/jpg/_69352412_69352410.jpg)
 
 ### Related:
 

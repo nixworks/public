@@ -10,6 +10,7 @@ The scene inside Con Ed’s command center showed the urgency of the utility’s
 1. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10548690.stm)
 2. [CNN](http://www.cnn.com/2010/US/07/07/heat.wave/index.html)
 3. [The New York Times](http://www.nytimes.com/2010/07/08/nyregion/08heat.html?_r=1)
+3. [Cover Image](https://static01.nyt.com/images/2010/07/08/nyregion/08heat_337-395/08heat_337-395-thumbStandard.jpg)
 
 ### Related:
 

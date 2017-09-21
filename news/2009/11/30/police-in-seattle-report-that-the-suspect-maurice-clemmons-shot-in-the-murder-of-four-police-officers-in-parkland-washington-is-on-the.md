@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Seattle Post-Intelligencer](http://www.seattlepi.com/local/412727_shooting29.html)
+1. [Cover Image](http://ww3.hdnux.com/photos/01/64/12/475786/5/rawImage.jpg)
 
 ### Related:
 

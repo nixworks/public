@@ -8,6 +8,7 @@ Website ‘undergoing changes’ to reflect agency’s ‘new direction’, as t
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/environment/2017/apr/29/epa-trump-website-climate-change-peoples-climate-march)
+1. [Cover Image](https://i.guim.co.uk/img/media/5fe393eec6f02a7859b8b597c12d91f31c0928bc/0_264_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2d1b229ace8f39fd9f28ebfa127c9e60)
 
 ### Related:
 

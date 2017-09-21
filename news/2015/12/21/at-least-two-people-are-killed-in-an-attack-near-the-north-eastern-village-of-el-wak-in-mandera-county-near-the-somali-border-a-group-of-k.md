@@ -8,6 +8,7 @@ A group of Kenyan Muslims on a bus attacked by Islamist gunmen protected Christi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-35151967)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/7911/production/_86839903_019414866-1.jpg)
 
 ### Related:
 

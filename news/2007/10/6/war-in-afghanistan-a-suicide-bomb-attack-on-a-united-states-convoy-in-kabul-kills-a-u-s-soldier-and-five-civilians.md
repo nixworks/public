@@ -9,6 +9,7 @@ A Taliban suicide car bomb killed five Afghan civilians and a U.S. soldier in Ka
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7031232.stm)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSISL18819320071006?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071006&t=2&i=1893530&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-10-06T144432Z_01_ISL188193_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

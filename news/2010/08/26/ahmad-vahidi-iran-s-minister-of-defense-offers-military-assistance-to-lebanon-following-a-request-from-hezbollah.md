@@ -8,6 +8,7 @@ Iran’s Defense Minister Ahmad Vahidi said Iran was ready to offer military aid
 ### Source:
 
 1. [AFP via ''Lebanon Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=118604#axzz0xg1F10Hk)
+1. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

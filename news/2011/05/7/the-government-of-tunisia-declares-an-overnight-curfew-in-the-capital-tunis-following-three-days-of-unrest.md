@@ -8,6 +8,7 @@ Tunisia&#x27;s&#x20;government&#x20;declared&#x20;an&#x20;overnight&#x20;curfew&
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20110507-government-declares-curfew-tunis-area-renewed-demonstrations-democracy-tunisia)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/0705_tunisie_0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A jetliner bound for Madrid returned to Kennedy Airport as a precaution Thursday
 ### Source:
 
 1. [NBC](http://www.nbcnewyork.com/news/local/Delta-Flight-126-Security-Scare-JFK-New-York-Madrid-Spain-Wires-Bathroom-162304456.html)
+1. [Cover Image](http://media.nbcnewyork.com/images/1200*675/delta+plane.jpg)
 
 ### Related:
 

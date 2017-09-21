@@ -8,3 +8,4 @@ Long-serving Tasmanian Speaker Michael Polley has announced he is retiring from 
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/2013-06-07/longest-serving-speaker-steps-down/4739382)
+1. [Cover Image](http://www.abc.net.au/news/image/421070-1x1-700x700.jpg)

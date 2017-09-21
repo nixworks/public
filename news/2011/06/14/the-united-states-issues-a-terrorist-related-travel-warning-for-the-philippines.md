@@ -8,6 +8,7 @@ U.S. citizens should &quot;exercise extreme caution&quot; when traveling to the 
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/TRAVEL/06/14/philippines.travel.warning/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/TRAVEL/06/14/philippines.travel.warning/tzvids.philippines.warning.afp.gi.jpg)
 
 ### Related:
 

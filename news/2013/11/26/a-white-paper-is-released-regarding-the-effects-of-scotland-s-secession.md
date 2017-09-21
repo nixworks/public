@@ -8,6 +8,7 @@ First Minister Alex Salmond says &#034;it would cost the UK &pound;500m&#034; no
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/scotland/10474570/Watch-live-White-Paper-on-Scotland-independence-launched.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02672/salmond_2672418a.jpg)
 
 ### Related:
 

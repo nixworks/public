@@ -8,6 +8,7 @@ Nissan Motor Co (7201.T) is in talks with Panasonic Corp (6752.T) and overseas c
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-nissan-battery-stakesale-idUSKCN10H05J)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160806&t=2&i=1148564080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7508C)
 
 ### Related:
 

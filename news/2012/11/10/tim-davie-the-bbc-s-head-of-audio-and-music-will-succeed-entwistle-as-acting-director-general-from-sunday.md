@@ -8,3 +8,4 @@ George Entwistle quits after he admits a Newsnight report has caused a crisis of
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1009818/bbc-boss-resigns-after-newsnight-abuse-report)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/entwistle-sombre-face-1_3641531.jpg?20160706034815)

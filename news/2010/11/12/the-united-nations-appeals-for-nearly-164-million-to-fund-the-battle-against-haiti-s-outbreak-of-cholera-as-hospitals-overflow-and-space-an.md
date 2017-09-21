@@ -9,6 +9,7 @@ The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/11/2010111204519840752.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11743629)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

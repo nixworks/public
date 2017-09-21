@@ -8,6 +8,7 @@ A federal jury awarded almost $17.5 million to five former female employees of a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/10/us-usa-florida-farmworkers-idUSKCN0RA2UO20150910)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

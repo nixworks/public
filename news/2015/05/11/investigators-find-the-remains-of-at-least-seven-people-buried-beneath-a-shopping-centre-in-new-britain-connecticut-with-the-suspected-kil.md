@@ -8,3 +8,4 @@ New Britain police said investigators have now found the remains of at least sev
 ### Source:
 
 1. [NBC Connecticut](http://www.nbcconnecticut.com/news/local/Police-to-Release-Major-Update-in-Serial-Homicides-Case-303210871.html?cid=sm_tw&hootPostID=02c6a3aaf79666955fab12ce687e6cdf)
+1. [Cover Image](http://media.nbcconnecticut.com/images/1200*675/new+britain+serial+killer+victims+latest.jpg)

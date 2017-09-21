@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC Washington](http://www.nbcwashington.com/news/local/Daron-Wint-Suspect-in-Woodley-Park-Quadruple-Slaying-in-Custody-304665291.html?_osource=SocialFlowTwt_DCBrand)
+1. [Cover Image](http://media.nbcwashington.com/images/1200*675/wint+mugshot.jpg)
 
 ### Related:
 

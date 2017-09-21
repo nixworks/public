@@ -11,6 +11,7 @@
 2. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-42224620090904)
 3. [Wall Street Journal](http://online.wsj.com/article/SB125206884621886313.html)
 4. [Yonhap](http://english.yonhapnews.co.kr/national/2009/09/04/45/0301000000AEN20090904006500315F.HTML)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

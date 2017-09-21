@@ -8,6 +8,7 @@ The UN hopes to send observers to Syria within the next few days to monitor a fr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17698852)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59635000/jpg/_59635916_014498215-1.jpg)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Family denies wrongdoing, says she has mental and physical health issues
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/karnataka/police-rescue-woman-from-fouryear-house-confinement/article4782332.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article12033354.ece/ALTERNATES/LANDSCAPE_615/Hema)

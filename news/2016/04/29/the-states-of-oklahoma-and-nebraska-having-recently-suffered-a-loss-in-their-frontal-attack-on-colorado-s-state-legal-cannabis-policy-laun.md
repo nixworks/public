@@ -8,6 +8,7 @@ Rejected by the U.S. Supreme Court, Nebraska Attorney General Doug Peterson and 
 ### Source:
 
 1. [Lincoln Journal-Star](http://journalstar.com/news/local/911/nebraska-oklahoma-mount-new-attempt-to-overturn-colorado-pot-law/article_388e6103-7785-5c1f-9c9a-42cab27790e4.html)
+1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/2/57/25797428-ee01-5be1-be98-d23491989ddc/57a5492091d15.image.jpg?resize=512%2C340)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former Ukrainian prime minister Yulia Tymoshenko, already sentenced to seven yea
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2011/11/11/uk-ukraine-tymoshenko-idUKTRE7AA1BU20111111)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20111111&t=2&i=530678178&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-11-11T090830Z_01_BTRE7AA0PE800_RTROPTP_0_UKRAINE-TYMOSHENKO)
 
 ### Related:
 

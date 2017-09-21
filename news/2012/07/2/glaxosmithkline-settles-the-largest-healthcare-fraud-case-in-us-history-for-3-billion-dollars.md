@@ -8,6 +8,7 @@ GlaxoSmithKline Plc agreed to plead guilty to misdemeanor criminal charges and p
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/02/us-glaxo-settlement-idUSBRE8610S720120702)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120702&t=2&i=625712256&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8611GWW00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The former spiritual mentor to Iran&#039;s President Mahmoud Ahmadinejad has pub
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iran/8514929/Mahmoud-Ahmadinejad-under-a-spell-Ayatollah-Ali-Khamenei-says.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01896/ma_1896273a.jpg)
 
 ### Related:
 

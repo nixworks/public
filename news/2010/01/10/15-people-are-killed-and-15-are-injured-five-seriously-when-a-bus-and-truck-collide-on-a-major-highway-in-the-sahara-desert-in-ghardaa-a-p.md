@@ -9,6 +9,7 @@ A collision between a bus and a truck in Algeria Sunday killed 15 people and inj
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=115839&sectionid=351020506)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6091GO20100110)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

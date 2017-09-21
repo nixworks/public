@@ -9,6 +9,7 @@ Gunmen in Afghanistan have launched an attack on a government delegation at a me
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2012-03-13/afghan-students-protest-of-us-soldier27s-rampage/3887012?section=world)
 2. [AP and CBS News](http://www.cbsnews.com/8301-202_162-57395961/afghan-officials-fired-upon-at-site-of-massacre/)
+2. [Cover Image](http://www.abc.net.au/news/image/3887082-1x1-700x700.jpg)
 
 ### Related:
 

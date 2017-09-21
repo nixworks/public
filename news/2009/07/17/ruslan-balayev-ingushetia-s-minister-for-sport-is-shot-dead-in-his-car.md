@@ -8,6 +8,7 @@ A senior official in the volatile Russian province of Ingushetia was shot dead t
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0717/breaking2.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

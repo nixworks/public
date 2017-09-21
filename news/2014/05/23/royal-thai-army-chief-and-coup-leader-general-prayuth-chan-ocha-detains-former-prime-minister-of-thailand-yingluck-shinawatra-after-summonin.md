@@ -8,6 +8,7 @@ By Amy Sawitta Lefevre and Pracha Hariraksapitak BANGKOK (Reuters) - Thailand&#x
 ### Source:
 
 1. [Reuters via Yahoo! News](https://news.yahoo.com/thai-army-chief-summons-ousted-pm-talks-day-012405389.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

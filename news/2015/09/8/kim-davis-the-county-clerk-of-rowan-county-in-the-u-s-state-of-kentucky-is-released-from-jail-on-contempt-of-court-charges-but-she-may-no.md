@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Yahoo! politics](https://www.yahoo.com/politics/huckabee-christie-cruz-weigh-in-on-kim-davis-128638521231.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/AcmkaWNhaIa74fQf6Cgb3g--/aD0xMzY2O3c9MjA0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/cd/resizer/2.0/FIT_TO_WIDTH-w2048/e2138761a5dfc6e225b68c12842cc4d6c5bf07bc.jpg)
 
 ### Related:
 

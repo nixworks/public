@@ -8,6 +8,7 @@ The prime minister has called for MPs to support Lords reform, as a Bill to crea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-18602587)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61191000/jpg/_61191454_houseoflords.jpg)
 
 ### Related:
 

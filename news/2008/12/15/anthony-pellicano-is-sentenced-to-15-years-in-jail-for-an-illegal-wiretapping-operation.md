@@ -8,6 +8,7 @@ Former Hollywood private eye Anthony Pellicano was sentenced to 15 years in pris
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-pellicano16-2008dec16,0,6208677.story?track=rss)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

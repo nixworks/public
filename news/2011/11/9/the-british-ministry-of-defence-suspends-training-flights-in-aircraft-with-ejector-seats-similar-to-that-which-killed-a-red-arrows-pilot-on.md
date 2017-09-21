@@ -8,6 +8,7 @@ The MoD suspends training flights in aircraft with ejector seats like the one in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-15655865)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56603000/jpg/_56603810_sean_cunningham_pa.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2004/06/21/politics/21popu.html?ei=5062&en=25c219e04fc894c6&ex=1088395200&partner=GOOGLE&pagewanted=print&position=)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

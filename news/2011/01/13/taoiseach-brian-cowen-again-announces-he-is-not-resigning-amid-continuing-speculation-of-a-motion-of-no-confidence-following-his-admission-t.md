@@ -12,6 +12,7 @@ The Irish prime minister tells his party he will not resign - but acknowledges &
 3. [TV3](http://www.tv3.ie/article.php?article_id=51615&locID=1.2.&pagename=news)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/jan/13/ireland-brian-cowen-survives-vote)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/opinion/2011/0114/1224287488231.html)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

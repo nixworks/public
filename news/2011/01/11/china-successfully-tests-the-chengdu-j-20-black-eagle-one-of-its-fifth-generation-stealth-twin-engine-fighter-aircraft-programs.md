@@ -9,6 +9,7 @@
 
 1. [AFP via News Limited](http://www.news.com.au/breaking-news/china-tests-new-stealth-fighter/story-e6frfku0-1225985996797?from=public_rss)
 2. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2011/201101/20110111/article_461248.htm)
+2. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

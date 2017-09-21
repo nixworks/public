@@ -12,6 +12,7 @@ The names of the New Zealand soldiers killed in Afghanistan overnight have been 
 3. [AP via Chron](http://www.chron.com/news/article/Bomb-hidden-in-cemetery-kills-2-in-Afghanistan-3798826.php)
 4. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0819/Another-NATO-soldier-killed-by-Afghan-comrade-in-arms)
 5. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10828065)
+5. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201234/corporal_1024x768.jpg)
 
 ### Related:
 

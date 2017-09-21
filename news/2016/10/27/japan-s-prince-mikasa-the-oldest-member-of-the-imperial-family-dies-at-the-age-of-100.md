@@ -8,3 +8,4 @@ The 100-year-old uncle of Japanese Emperor Akihito, Prince Mikasa, died on Thurs
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-japan-royals-prince-misaka-idUSKCN12R07B)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161027&t=2&i=1159138201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9Q05Y)

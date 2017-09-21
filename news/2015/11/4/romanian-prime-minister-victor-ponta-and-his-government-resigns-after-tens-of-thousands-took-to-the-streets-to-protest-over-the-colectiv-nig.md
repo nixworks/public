@@ -10,6 +10,7 @@ Romanian Prime Minister Victor Ponta resigns, a day after thousands protest agai
 1. [BBC News](http://www.bbc.com/news/world-europe-34720183)
 2. [Euronews](http://www.euronews.com/2015/11/04/romania-s-prime-minister-victor-ponta-to-resign-today-following-protests-over/)
 3. [The Guardian](http://www.theguardian.com/world/2015/nov/04/romanian-government-resigns-nightclub-fire-victor-ponta)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/7057/production/_86495782_029949807-1.jpg)
 
 ### Related:
 

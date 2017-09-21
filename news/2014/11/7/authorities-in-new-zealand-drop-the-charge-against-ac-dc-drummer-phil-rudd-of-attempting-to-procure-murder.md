@@ -8,6 +8,7 @@ New Zealand prosecutors withdraw charge against drummer due to lack of evidence,
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/music/2014/nov/07/charges-attempting-procure-murder-dropped-acdc-phil-rudd)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/11/7/1415325624572/f6a5d0da-6d48-4866-a801-59584cfec3d0-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=92854c779a742ea0cc71ffa196987fd4)
 
 ### Related:
 

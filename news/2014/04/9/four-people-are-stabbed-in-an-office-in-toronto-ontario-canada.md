@@ -8,6 +8,7 @@ Police have identified the man accused of stabbing four employees at a North Tor
 ### Source:
 
 1. [CTV](http://toronto.ctvnews.ca/toronto-scissors-stabbing-suspect-in-custody-after-multiple-people-injured-1.1767944)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1768097.1397057306!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

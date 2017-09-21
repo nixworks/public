@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/06/23/us-eurozone-greece-speaker-idUSKBN0P30EX20150623)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150623&t=2&i=1058572949&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB5M0WT)
 
 ### Related:
 

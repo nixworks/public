@@ -8,6 +8,7 @@
 ### Source:
 
 1. [GLOBO News](http://g1.globo.com/jornal-da-globo/noticia/2013/04/servico-russo-alertou-sobre-ligacoes-de-tamerlan-com-extremistas.html)
+1. [Cover Image](http://s2.glbimg.com/PcsuAGJ2PPCRCN9VsDf1MtpcqKs=/1200x630/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/91/63/2536391)
 
 ### Related:
 

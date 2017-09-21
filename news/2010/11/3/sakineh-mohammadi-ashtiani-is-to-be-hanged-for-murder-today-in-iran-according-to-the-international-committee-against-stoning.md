@@ -8,6 +8,7 @@ An Iranian woman whose sentence of execution by stoning for adultery provoked a 
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1102/breaking67.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

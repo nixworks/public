@@ -8,6 +8,7 @@ Engineers say the chopper can still be fixed for further use
 ### Source:
 
 1. [Thanh Nien News](http://www.thanhniennews.com/society/military-helicopter-crashed-due-to-strong-winds-not-explosion-vietnam-colonel-40348.html)
+1. [Cover Image](http://static.thanhniennews.com/Uploaded/thuyvi/2015_03_26/helicopter1_LPUV.jpg)
 
 ### Related:
 

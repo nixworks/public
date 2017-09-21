@@ -8,6 +8,7 @@ Gov. Mike Rounds signed a bill Monday banning almost all abortions in South Dako
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/11699703)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/060306/060306_rounds_hsml_12p.standard.jpg)
 
 ### Related:
 

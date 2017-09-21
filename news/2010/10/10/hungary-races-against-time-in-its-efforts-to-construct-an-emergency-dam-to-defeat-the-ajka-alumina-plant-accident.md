@@ -8,6 +8,7 @@ Hungarian workers are building an emergency dam amid fears a wall at a huge indu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11511204)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

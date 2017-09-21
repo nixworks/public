@@ -8,6 +8,7 @@ Mexico police find 55 bodies in an abandoned mine that appears to have been used
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10260789.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

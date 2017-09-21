@@ -11,6 +11,7 @@ European Commission President José Manuel Barroso has said a No vote will affec
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58I0KE20090919)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/world/2009/0919/1224254860514.html)
 4. [The Times](http://www.timesonline.co.uk/tol/news/world/ireland/article6840613.ece)
+4. [Cover Image](https://img.rasset.ie/00029b62-1600.jpg)
 
 ### Related:
 

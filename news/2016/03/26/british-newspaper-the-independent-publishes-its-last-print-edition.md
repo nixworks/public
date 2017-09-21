@@ -8,6 +8,7 @@ The Independent&#039;s owners announced last month it would cease to be printed 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1667395/independent-newspaper-prints-final-edition)
+1. [Cover Image](http://e3.365dm.com/16/03/1600x900/indie-2-2048x1536_3437672.jpg?20160326115318)
 
 ### Related:
 

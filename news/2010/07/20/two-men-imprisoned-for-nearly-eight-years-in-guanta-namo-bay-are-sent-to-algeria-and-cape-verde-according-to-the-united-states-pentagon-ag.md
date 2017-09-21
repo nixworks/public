@@ -9,6 +9,7 @@ Two men held in Guantanamo Bay for nearly eight years have been released to Alge
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10697173)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/algeria-cape-verde-take-gitmo-prisoners-20100720-10i3p.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

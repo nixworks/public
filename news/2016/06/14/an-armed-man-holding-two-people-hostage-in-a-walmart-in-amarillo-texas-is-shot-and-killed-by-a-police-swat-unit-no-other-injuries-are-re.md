@@ -8,6 +8,7 @@ An armed man was fatally shot by police after holding two people hostage in an A
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-texas-hostages-idUSKCN0Z0251)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

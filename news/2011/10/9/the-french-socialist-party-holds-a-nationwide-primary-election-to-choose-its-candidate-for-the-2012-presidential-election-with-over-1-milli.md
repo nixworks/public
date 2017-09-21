@@ -9,6 +9,7 @@ France&#x2019;s&#x20;Socialists&#x20;held&#x20;their&#x20;first-ever&#x20;US-sty
 
 1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-10-10/aubry-hollande-to-run-for-french-socialists-nomination.html)
 2. [France24](http://www.france24.com/en/20111009-ps-socialist-party-france-primaries-presidential-election)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/PS_14H_1.jpg)
 
 ### Related:
 

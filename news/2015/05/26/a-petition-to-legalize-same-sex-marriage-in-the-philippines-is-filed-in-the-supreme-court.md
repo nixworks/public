@@ -8,6 +8,7 @@ The 31-page petition highlights the need for a more LGBT-inclusive society and i
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/94266-same-sex-marriage-petition-supreme-court)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/8338CDDBABA44C51A49AFA4EE42E85BE/pride-march-2012-main.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/conrad-murray-released-jail/story?id=20699882)
+1. [Cover Image](http://a.abcnews.com/images/US/GTY_conrad_murray_2_nt_111205_16x9_992.jpg)
 
 ### Related:
 

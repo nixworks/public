@@ -10,6 +10,7 @@
 1. [Reuters](http://www.reuters.com/article/us-thailand-king-holiday-idUSKCN12E06M?il=0)
 2. [The Bangkok Post](http://www.bangkokpost.com/news/general/1110645/prem-becomes-regent-pro-tempore)
 3. [The Irrawaddy](http://www.irrawaddy.com/asia/late-thai-kings-confidant-confirmed-temporary-regent.html)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161014&t=2&i=1157394946&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9D06C)
 
 ### Related:
 

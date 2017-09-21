@@ -8,6 +8,7 @@ Author and Merchant Ivory screenwriter Ruth Prawer Jhabvala, the only person to 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22015002)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66726000/jpg/_66726541_jhabvala.jpg)
 
 ### Related:
 

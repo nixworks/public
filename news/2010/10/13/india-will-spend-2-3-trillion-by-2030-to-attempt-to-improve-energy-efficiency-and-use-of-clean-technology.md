@@ -9,6 +9,7 @@
 
 1. [DNA](http://www.dnaindia.com/india/report_green-in-focus-in-2-3-trillion-india-plan_1451904)
 2. [Reuters](http://www.reuters.com/article/idUSTRE69C1M420101013)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

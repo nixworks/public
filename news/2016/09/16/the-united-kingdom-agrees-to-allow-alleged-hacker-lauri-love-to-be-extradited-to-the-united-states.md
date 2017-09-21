@@ -8,6 +8,7 @@ An autistic man suspected of hacking into US government computer systems is to b
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-suffolk-37385201)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/FA86/production/_91043146_mediaitem91043144.jpg)
 
 ### Related:
 

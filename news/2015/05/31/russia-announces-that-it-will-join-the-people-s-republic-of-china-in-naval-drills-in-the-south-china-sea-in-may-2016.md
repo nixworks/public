@@ -8,6 +8,7 @@ Russia will take part in naval military exercises together with its Asia Pacific
 ### Source:
 
 1. [RT](http://rt.com/news/263533-rusia-multinational-navy-drills/)
+1. [Cover Image](https://img.rt.com/files/news/40/56/d0/00/russia-announces-joint-navy-drills-with-china-in-disputed-sea.si.jpg)
 
 ### Related:
 

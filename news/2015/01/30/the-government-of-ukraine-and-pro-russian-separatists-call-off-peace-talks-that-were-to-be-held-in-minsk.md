@@ -9,6 +9,7 @@ Civilians were killed on both sides in heavy fighting in eastern Ukraine on Frid
 
 1. [AP](http://bigstory.ap.org/article/fda722a6c31b4c0aa2bd694a45eaa1df/12-civilians-5-troops-killed-eastern-ukraine)
 2. [Reuters](http://uk.reuters.com/article/2015/01/30/uk-ukraine-crisis-idUKKBN0L30XW20150130)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150130&t=2&i=1021149396&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0T0OP)
 
 ### Related:
 

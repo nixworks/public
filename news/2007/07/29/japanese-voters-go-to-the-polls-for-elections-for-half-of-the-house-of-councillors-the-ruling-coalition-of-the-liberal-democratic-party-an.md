@@ -9,6 +9,7 @@
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/07/29/japan.election.reut/index.html?eref=rss_world)
 2. [Reuters](http://www.reuters.com/article/topNews/idUST26506820070728?feedType=RSS)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070728&t=2&i=1208205&w=&fh=545px&fw=&ll=&pl=&sq=&r=1208205)
 
 ### Related:
 

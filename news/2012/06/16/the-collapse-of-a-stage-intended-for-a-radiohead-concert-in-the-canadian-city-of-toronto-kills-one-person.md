@@ -8,6 +8,7 @@ One person is killed and another seriously hurt after a stage collapses before a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18474835)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60958000/jpg/_60958437_015071176-1.jpg)
 
 ### Related:
 

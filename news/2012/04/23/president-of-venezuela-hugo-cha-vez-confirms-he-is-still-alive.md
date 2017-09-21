@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez phones state TV to deny rumours he has died whi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17821120)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59819000/jpg/_59819212_chavez2.jpg)
 
 ### Related:
 

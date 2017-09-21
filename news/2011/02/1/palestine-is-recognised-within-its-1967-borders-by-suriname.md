@@ -9,6 +9,7 @@
 
 1. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206289)
 2. [Maan News](http://www.maannews.net/eng/ViewDetails.aspx?ID=356264)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/27/us-sudan-southsudan-idUSBRE82Q01720120327)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120327&t=2&i=587367636&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82Q03ND00)
 
 ### Related:
 

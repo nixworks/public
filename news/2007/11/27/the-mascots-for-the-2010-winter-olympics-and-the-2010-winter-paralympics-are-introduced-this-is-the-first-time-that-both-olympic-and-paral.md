@@ -8,3 +8,4 @@ The three mascots and a sidekick for the 2010 Winter Olympics in Vancouver are i
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/british-columbia/2010-vancouver-olympics-mascots-inspired-by-first-nations-creatures-1.680853)
+1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

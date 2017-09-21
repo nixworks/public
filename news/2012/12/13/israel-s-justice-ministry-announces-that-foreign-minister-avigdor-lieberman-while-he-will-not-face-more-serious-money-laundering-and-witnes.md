@@ -8,6 +8,7 @@ Avigdor Lieberman charged with fraud and breach of trust but cleared of more ser
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/20121213154413476929.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/26/2011122642620527734_20.jpg)
 
 ### Related:
 

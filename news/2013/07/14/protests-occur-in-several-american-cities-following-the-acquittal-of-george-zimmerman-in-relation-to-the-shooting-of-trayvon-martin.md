@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/world-news/angry-protests-follow-george-zimmerman-acquittal-over-the-death-of-trayvon-martin/story-fndir2ev-1226679311787)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/df06bcdf3f9dd7b775fbaa03b080ab2f)
 
 ### Related:
 

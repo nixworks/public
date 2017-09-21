@@ -9,6 +9,7 @@ First video: Three people are dead and two are seriously injured following a fue
 
 1. [ABC-Australia](http://www.abc.net.au/news/video/2009/12/28/2781782.htm)
 2. [SMH](http://www.smh.com.au/national/three-dead-six-injured-in-fuel-tanker-highway-inferno-20091228-lhbh.html)
+2. [Cover Image](http://www.abc.net.au/news/image/1192368-1x1-700x700.jpg)
 
 ### Related:
 

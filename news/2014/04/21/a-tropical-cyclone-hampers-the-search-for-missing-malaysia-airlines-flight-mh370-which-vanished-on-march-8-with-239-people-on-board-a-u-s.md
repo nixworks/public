@@ -8,6 +8,7 @@ A tropical cyclone was threatening to hamper the search for a missing Malaysian 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/21/us-malaysia-airlines-idUSBREA3J01G20140421)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140420&t=2&i=890375320&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3J06U400)
 
 ### Related:
 

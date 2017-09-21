@@ -8,6 +8,7 @@ Pilot Maj. Amichai Itkis and navigator Maj. Emanuel Levy took off from the Ramon
 ### Source:
 
 1. ["Bodies of IAF pilot and navigator found after F-16I crash in Negev" (Ha'aretz](http://www.haaretz.com/news/diplomacy-defense/bodies-of-iaf-pilot-and-navigator-found-after-f-16i-crash-in-negev-1.324188)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.324189.1289483753!/image/1870132579.jpg_gen/derivatives/headline_1200x630/1870132579.jpg)
 
 ### Related:
 

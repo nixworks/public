@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21243203)
 2. [Reuters](http://www.reuters.com/article/2013/01/29/us-kazakhstan-aircrash-idUSBRE90S0AM20130129)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65566000/jpg/_65566010_65566009.jpg)
 
 ### Related:
 

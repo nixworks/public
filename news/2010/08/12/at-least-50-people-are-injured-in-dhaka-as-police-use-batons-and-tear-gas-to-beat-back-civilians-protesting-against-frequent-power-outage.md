@@ -8,6 +8,7 @@ Dozens hurt in police clash after demonstrating against frequent power outages.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108126104604454.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

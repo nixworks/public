@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/16/us-china-defence-idUSBRE93F03P20130416)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130416&t=2&i=722716185&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93F0FMT00)
 
 ### Related:
 

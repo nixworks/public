@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-raqqa-idUSKBN18W29P)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170606&t=2&i=1187833581&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED551KS)
 
 ### Related:
 

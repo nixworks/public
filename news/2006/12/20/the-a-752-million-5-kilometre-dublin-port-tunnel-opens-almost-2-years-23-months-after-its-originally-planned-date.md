@@ -8,6 +8,7 @@ Dublin Port Tunnel was opened to trucks this afternoon after suffering last-minu
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2006/1220/tunnel.html?rss)
+1. [Cover Image](https://img.rasset.ie/0000b462-1600.jpg)
 
 ### Related:
 

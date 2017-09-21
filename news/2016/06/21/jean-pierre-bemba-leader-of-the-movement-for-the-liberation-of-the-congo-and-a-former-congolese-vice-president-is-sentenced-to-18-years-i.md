@@ -9,6 +9,7 @@ Congolese ex-rebel leader Jean-Pierre Bemba is jailed for 18 years after a landm
 
 1. [BBC](http://www.bbc.com/news/world-africa-36586010)
 2. [The Times](http://www.timeslive.co.za/africa/2016/06/21/Jean-Pierre-Bemba-gets-18-years-for-Central-African-Republic-war-crimes)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A6A8/production/_90046624_033625130.jpg)
 
 ### Related:
 

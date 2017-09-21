@@ -8,6 +8,7 @@ Some 250,000 people are forced to leave their homes because of flooding in the n
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23237130)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68621000/jpg/_68621189_lakhimpur_flood1bbc1.jpg)
 
 ### Related:
 

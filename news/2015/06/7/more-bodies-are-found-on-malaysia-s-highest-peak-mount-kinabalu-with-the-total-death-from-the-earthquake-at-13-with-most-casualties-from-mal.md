@@ -9,6 +9,7 @@ Rescuers recovered the bodies of 11 more climbers from Malaysia&#x27;s highest p
 
 1. [AFP and ABC Australia](http://www.abc.net.au/news/2015-06-07/students-among-mt-kinabalu-dead-as-crews-search-river-of-stones/6528332)
 2. [AP via NBC News](http://www.nbcnews.com/news/world/more-bodies-found-malaysia-mountain-quake-toll-hits-13-n371051?cid=sm_tw&hootPostID=962accf3ab3ab3a90ab058e276814e7a)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_23/1063376/hkg10186271_04a642293ae216c4a11ac197f5c44a14.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

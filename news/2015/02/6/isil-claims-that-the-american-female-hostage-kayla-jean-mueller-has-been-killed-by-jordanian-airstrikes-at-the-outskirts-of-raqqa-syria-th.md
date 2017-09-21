@@ -11,6 +11,7 @@ The parents of a US hostage who Islamic State militants say was killed by a Jord
 2. [AP](http://hosted.ap.org/dynamic/stories/M/ML_ISLAMIC_STATE_AMERICAN_HOSTAGE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 3. [BBC](http://www.bbc.com/news/world-middle-east-31176641)
 4. [CNN](http://www.cnn.com/2015/02/06/world/isis-jordan/index.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80847000/jpg/_80847977_80847976.jpg)
 
 ### Related:
 

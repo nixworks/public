@@ -8,6 +8,7 @@ Nasa launches its most ambitious mission to Mars yet - a 900kg robot to find out
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-15904408)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56957000/jpg/_56957297_jex_1246484_de28-1.jpg)
 
 ### Related:
 

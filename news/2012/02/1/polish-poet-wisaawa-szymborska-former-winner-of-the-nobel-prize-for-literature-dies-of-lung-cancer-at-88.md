@@ -8,6 +8,7 @@ WARSAW, Feb 1 - Polish Nobel Prize winning poet Wislawa Szymborska, once describ
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/01/us-poland-szymborska-idUSTRE8102OO20120201)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120201&t=2&i=565580426&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8101S8P00)
 
 ### Related:
 

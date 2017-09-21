@@ -12,6 +12,7 @@ Glenn Mulcaire, the private investigator at the centre of phone-hacking claims, 
 3. [BBC](http://www.bbc.co.uk/news/uk-14342217)
 4. [BBC](http://www.bbc.co.uk/news/uk-14346083)
 5. [BBC](http://www.bbc.co.uk/news/uk-england-london-14339271)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54340000/jpg/_54340790_012498891-1.jpg)
 
 ### Related:
 

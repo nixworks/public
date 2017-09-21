@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/2010318173536716209.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8575383.stm)
 3. [Modern Ghana](http://www.modernghana.com/movie/6500/3/nigeria-should-be-divided-into-two.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

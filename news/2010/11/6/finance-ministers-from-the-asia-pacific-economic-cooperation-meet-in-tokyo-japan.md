@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6A509H20101106)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20101106&t=2&i=242806897&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-06T072632Z_01_BTRE6A50KOA00_RTROPTP_0_APEC-JAPAN)
 
 ### Related:
 

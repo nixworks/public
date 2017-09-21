@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/story/2011/07/01/will-kate-visit-day2.html)
+1. [Cover Image](https://i.cbc.ca/1.1977514.1381472272!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-will-kate-ottawa-cp.jpg)
 
 ### Related:
 

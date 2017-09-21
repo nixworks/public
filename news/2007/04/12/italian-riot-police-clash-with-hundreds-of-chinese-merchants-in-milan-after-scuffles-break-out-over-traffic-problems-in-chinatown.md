@@ -8,6 +8,7 @@ The Age 404 Page
 ### Source:
 
 1. [Reuters via the Melbourne Age](http://www.theage.com.au/news/World/Chinese-merchants-police-clash-in-Milan/2007/04/13/1175971301488.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

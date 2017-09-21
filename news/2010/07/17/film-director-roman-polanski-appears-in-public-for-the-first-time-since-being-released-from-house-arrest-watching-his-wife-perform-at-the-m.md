@@ -11,6 +11,7 @@ Filmmaker Roman Polanski makes his first public appearance since Switzerland ref
 2. [CBC News](http://www.cbc.ca/arts/film/story/2010/07/17/polanski-release-sighting.html?ref=rss)
 3. [France24](http://www.france24.com/en/20100717-polanski-makes-first-public-appearance-release-montreux-jazz-festival)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE66G1H720100717?feedType=RSS&feedName=entertainmentNews)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

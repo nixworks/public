@@ -10,6 +10,7 @@ The Taoiseach was the guest of honour at today&#39;s St Patrick&#39;s parade in 
 1. [Chicago Sun-Times](http://www.suntimes.com/news/politics/2100762,ireland-chicago-second-city-031310.article)
 2. [RTÉ](http://www.rte.ie/news/2010/0313/cowenb.html)
 3. [The Times of India](http://timesofindia.indiatimes.com/world/indians-abroad/Free-rail-travel-for-Indian-senior-citizens-in-Ireland-/articleshow/5680352.cms)
+3. [Cover Image](https://img.rasset.ie/0003117d-1600.jpg)
 
 ### Related:
 

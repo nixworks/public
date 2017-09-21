@@ -8,6 +8,7 @@ America condemned Syria&rsquo;s regime in the &ldquo;strongest terms&rdquo; on F
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/04/01/pic-and-pub-syrian-strikes-kill-at-least-30-in-one-of-deadliest/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/04/01/Deir_Al-Assafir-1-xlarge_trans_NvBQzQNjv4BqBIhf9vY3F0gQVGEB0QvnDmC2jmcKrpV6Ua8vY_4J1yg.jpg)
 
 ### Related:
 

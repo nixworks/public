@@ -8,6 +8,7 @@ Ten people are known to have died and health officials warned that the epidemic 
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/09/12/world/middleeast/12iraq.html?ex=1347249600&en=492e8575c3963c10&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

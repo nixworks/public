@@ -8,3 +8,4 @@ A fire at a shopping centre in the Qatari capital Doha kills at least 19 people,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18243136)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60545000/jpg/_60545898_014876673-1.jpg)

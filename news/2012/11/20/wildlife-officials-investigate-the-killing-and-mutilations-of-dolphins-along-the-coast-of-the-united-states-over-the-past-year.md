@@ -8,6 +8,7 @@ US wildlife officials are investigating a spate of killings and mutilations of d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20414973)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64262000/jpg/_64262790_64262789.jpg)
 
 ### Related:
 

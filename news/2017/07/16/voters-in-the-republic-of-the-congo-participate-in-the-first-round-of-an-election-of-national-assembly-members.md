@@ -8,6 +8,7 @@ The A.U. team is headed by former Mali Prime Minister, Django Sissoko, he leads 
 ### Source:
 
 1. [africanews](http://www.africanews.com/2017/07/14/photos-au-observers-meet-congo-s-sassou-ahead-of-july-16-legislative-polls/)
+1. [Cover Image](https://static.euronews.com/articles/378295/1024x538_378295.jpg?1500050946)
 
 ### Related:
 

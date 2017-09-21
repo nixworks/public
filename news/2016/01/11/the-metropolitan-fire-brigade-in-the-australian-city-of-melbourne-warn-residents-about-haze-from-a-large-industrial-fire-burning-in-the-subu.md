@@ -8,6 +8,7 @@ Firefighters are battling to control a tyre fire at an industrial premises in Br
 ### Source:
 
 1. [Melbourne Age](http://www.theage.com.au/victoria/mfb-warn-residents-to-close-doors-and-windows-as-thick-smoke-blankets-broadmeadows-following-industrial-fire-20160110-gm31y1.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/g/m/3/2/8/2/image.related.articleLeadwide.620x349.gm31y1.png/1452495013748.jpg)
 
 ### Related:
 

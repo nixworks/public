@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-brazil-crash-idUSKBN1532WH?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170120&t=2&i=1169475956&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0J0PG)
 
 ### Related:
 

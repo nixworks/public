@@ -8,6 +8,7 @@ South Korea says the &quot;enemy&#039;s unidentified object invaded&quot; its te
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1621924/seoul-fires-warning-shots-at-north-korea-drone)
+1. [Cover Image](http://e3.365dm.com/16/01/1600x900/south-korea-1-2048x1536_3398900.jpg?20160113122642)
 
 ### Related:
 

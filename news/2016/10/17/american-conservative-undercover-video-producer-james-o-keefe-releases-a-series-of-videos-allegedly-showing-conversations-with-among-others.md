@@ -8,6 +8,7 @@ Hillary Clinton haters find vindication — but no moral high-ground — in Proj
 ### Source:
 
 1. [Salon](http://www.salon.com/2016/10/18/james-okeefe-releases-another-project-veritas-video-claiming-hillary-clinton-campaign-is-bird-dogging/)
+1. [Cover Image](http://media.salon.com/2016/10/Screen-Shot-2016-10-18-at-11.43.47-AM-1280x960.png)
 
 ### Related:
 

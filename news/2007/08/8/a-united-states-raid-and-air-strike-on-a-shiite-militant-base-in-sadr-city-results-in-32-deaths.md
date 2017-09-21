@@ -8,6 +8,7 @@ U.S. officials described it as the latest assault on a network linking Iraqi mil
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/08/08/world/middleeast/08cnd-iraq.html?ex=1344225600&en=6aed8267ba7a2f10&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

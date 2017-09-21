@@ -10,6 +10,7 @@ U.N. Secretary-General on Tuesday announced the formation of a three-member pane
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/10384964.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/22/un.sri.lanka/)
 3. [Reuters](http://www.reuters.com/article/idUSTRE65L4SW20100622)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100622&t=2&i=136561126&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-06-22T181900Z_01_BTRE65L1EVR00_RTROPTP_0_SRILANKA-WAR)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Duterte won the May 9 election by landslide largely on a pledge to kill tens of 
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/duterte-crime-war-out-of/2941446.html)
 2. [GMA News](http://www.gmanetwork.com/news/story/572919/news/nation/militant-group-bayan-asks-duterte-to-probe-killing-of-drug-suspects)
+2. [Cover Image](http://www.channelnewsasia.com/image/2932128/1468498767000/large16x9/640/360/philippines-president-rodrigo-duterte-speaks-in-front-of.jpg)
 
 ### Related:
 

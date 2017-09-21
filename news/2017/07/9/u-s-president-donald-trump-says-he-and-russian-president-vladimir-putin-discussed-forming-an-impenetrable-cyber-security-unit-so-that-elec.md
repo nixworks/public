@@ -8,6 +8,7 @@ Donald Trump said a cybersecurity unit with Russia would not happen - hours afte
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-40552571)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/0060/production/_96869000_putintrump.jpg)
 
 ### Related:
 

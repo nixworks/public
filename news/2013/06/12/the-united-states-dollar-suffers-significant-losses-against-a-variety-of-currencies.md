@@ -8,6 +8,7 @@ The U.S. dollar wallowed at a near four-month low against a basket of major curr
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/12/us-markets-forex-idUSBRE95900820130612)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130611&t=2&i=740159734&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95A0WIH00)
 
 ### Related:
 

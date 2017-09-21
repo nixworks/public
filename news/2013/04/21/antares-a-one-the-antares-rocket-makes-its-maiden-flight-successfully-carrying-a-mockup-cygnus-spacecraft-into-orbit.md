@@ -8,6 +8,7 @@ A new rocket launches from the US eastern seaboard to prove its readiness to hel
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22193330)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67151000/jpg/_67151724_67151723.jpg)
 
 ### Related:
 

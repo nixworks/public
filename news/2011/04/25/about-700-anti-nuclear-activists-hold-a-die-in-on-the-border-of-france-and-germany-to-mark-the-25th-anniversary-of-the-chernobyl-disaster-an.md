@@ -8,6 +8,7 @@ Around 700 anti-nuclear protesters staged a &#034;die in&#034; on a bridge on th
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/germany/8472706/Anti-nuclear-die-in-on-Franco-German-border.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01879/prosum_1879976a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The wave of killings unleashed since President Duterte came to power has alarmed
 ### Source:
 
 1. [The Wire](http://thewire.in/63034/2000-killed-in-philippines-war-on-drugs/)
+1. [Cover Image](https://thewire.in/wp-content/uploads/2016/08/philippines1.jpeg)
 
 ### Related:
 

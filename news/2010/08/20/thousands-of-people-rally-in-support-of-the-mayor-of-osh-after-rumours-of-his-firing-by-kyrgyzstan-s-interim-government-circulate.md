@@ -8,6 +8,7 @@ Thousands show support for Bakiyev-appointed official amid rumours of his dismis
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201082014544174385.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

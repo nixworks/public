@@ -8,6 +8,7 @@ U.S.-backed Syrian militias said they seized a major dam on the Euphrates river 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-raqqa-idUSKBN18V0EX?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170604&t=2&i=1187490962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED530BT)
 
 ### Related:
 

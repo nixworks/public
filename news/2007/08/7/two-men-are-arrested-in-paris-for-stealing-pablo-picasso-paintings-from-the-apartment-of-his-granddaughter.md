@@ -8,6 +8,7 @@ Police say thieves planned to sell three stolen Picassos for a fraction of their
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/09/2000410.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2525490-1x1-700x700.jpg)
 
 ### Related:
 

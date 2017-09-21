@@ -8,6 +8,7 @@ UNITED NATIONS (Reuters) - The United States and Russia reached an agreement on 
 ### Source:
 
 1. [Reuters via Yahoo! News](http://news.yahoo.com/draft-u-n-resolution-syria-chemical-weapons-004602278.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

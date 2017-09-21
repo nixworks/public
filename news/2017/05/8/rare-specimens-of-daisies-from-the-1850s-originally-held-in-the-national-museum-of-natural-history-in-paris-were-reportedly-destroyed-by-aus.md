@@ -8,6 +8,7 @@ The French collection was incinerated by Australian biosecurity officers due to 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-australia-39777196)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/20EA/production/_95962480_91106cf9-b081-48db-a9b4-75aeab148fd9.jpg)
 
 ### Related:
 

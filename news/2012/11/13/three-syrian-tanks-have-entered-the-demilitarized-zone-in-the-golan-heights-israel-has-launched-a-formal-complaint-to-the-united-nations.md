@@ -9,6 +9,7 @@
 
 1. [France24](http://www.france24.com/fr/20121113-paris-syrie-hollande-nouvelle-coalition-opposition-bachar-al-assad-livraisons-armes-asl)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/three-syrian-tanks-enter-demilitarized-zone-in-golan-heights.premium-1.474080)
+2. [Cover Image](http://scd.france24.com/fr/files_fr/imagecache/home_1024/article/image/hollande%20syrie.jpg)
 
 ### Related:
 

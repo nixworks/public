@@ -10,6 +10,7 @@ An old grey mare named Twilight has provided an international team of researcher
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8345578.stm)
 2. [CBC](http://www.cbc.ca/technology/story/2009/11/05/tech-biology-horse-genome.html)
 3. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Scientists+decode+horse+genetic+blueprint&NewsID=44847)
+3. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

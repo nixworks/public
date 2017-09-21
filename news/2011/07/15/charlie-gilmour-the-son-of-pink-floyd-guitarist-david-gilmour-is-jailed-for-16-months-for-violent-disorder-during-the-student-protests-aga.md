@@ -9,6 +9,7 @@ Charlie Gilmour, the son of the Pink Floyd guitarist Dave Gilmour, has been jail
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-14150800)
 2. [Daily Telegraph](http://www.telegraph.co.uk/news/uknews/law-and-order/8639930/Pink-Floyd-guitarists-son-Charlie-Gilmour-jailed-for-drug-fuelled-rampage.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01947/Charlie-620_1947306a.jpg)
 
 ### Related:
 

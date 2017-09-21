@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8278435.stm)
 2. [The Age](http://news.theage.com.au/breaking-news-world/mayor-faces-court-over-rwanda-massacre-20090928-g92a.html)
 3. [The Guardian](http://www.guardian.co.uk/world/feedarticle/8728061)
+3. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

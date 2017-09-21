@@ -8,6 +8,7 @@ KUALA LUMPUR (AFP/THE STAR/ASIA NEWS NETWORK) - Eight people were killed and 22 
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/eight-killed-21-injured-after-tour-bus-malaysia-overturns-and-catche)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/01/15/tph201501150003e_2x.jpg?itok=aA_ohohB)
 
 ### Related:
 

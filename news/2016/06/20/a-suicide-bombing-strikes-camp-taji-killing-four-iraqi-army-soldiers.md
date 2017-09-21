@@ -8,6 +8,7 @@ Four Iraqi soldiers have been killed in a suicide bombing outside the camp where
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/world/306871/suicide-bombing-hits-camp-taji)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

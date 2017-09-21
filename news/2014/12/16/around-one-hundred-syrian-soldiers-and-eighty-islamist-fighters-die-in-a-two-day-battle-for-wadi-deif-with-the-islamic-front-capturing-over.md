@@ -8,6 +8,7 @@ Around 100 Syrian soldiers and 80 Islamist fighters were killed during a two-day
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/16/us-mideast-crisis-base-idUSKBN0JU0WV20141216)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141216&t=2&i=999823282&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABF0IV)
 
 ### Related:
 

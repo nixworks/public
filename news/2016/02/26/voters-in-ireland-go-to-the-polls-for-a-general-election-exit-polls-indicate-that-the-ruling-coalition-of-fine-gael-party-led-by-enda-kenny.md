@@ -9,6 +9,7 @@
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/irish-pm-falls-short-of-re-election-poll/news-story/5d8bcce66c6034fb885adda129d3d16e?from=public_rss)
 2. [BBC](http://www.bbc.com/news/world-europe-35652423)
+2. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

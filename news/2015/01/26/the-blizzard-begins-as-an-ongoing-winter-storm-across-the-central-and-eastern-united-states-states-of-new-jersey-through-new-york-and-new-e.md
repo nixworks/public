@@ -11,6 +11,7 @@ Watch scenes from across America&#039;s East Coast as Winter Storm Juno causes t
 2. [NBC News](http://www.nbcnews.com/storyline/blizzard-15/airports-begin-close-historic-northeast-blizzard-nears-n293526)
 3. [NOAA](http://www.webcitation.org/mainframe.php)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11370272/Watch-live-New-Yorks-unprecedented-2015-blizzard.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03177/NYC-Blizzard_3177110k.jpg)
 
 ### Related:
 

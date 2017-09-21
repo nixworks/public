@@ -10,6 +10,7 @@ Francis made the surprise comments at today&#8217;s general audience in St Peter
 1. [Catholic Herald](http://www.catholicherald.co.uk/news/2015/10/14/pope-asks-for-forgiveness-for-scandals-in-rome-and-the-vatican/)
 2. [Reuters](http://www.reuters.com/article/2015/10/14/us-pope-scandals-forgiveness-idUSKCN0S814X20151014)
 3. [Voice of America](http://www.voanews.com/content/pope-francis-apologizes-for-recent-scandals/3005271.html)
+3. [Cover Image](http://www.catholicherald.co.uk/content/uploads/2015/10/24431012.jpg)
 
 ### Related:
 

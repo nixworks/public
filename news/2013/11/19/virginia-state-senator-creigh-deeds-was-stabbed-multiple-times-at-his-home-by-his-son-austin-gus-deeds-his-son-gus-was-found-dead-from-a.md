@@ -8,3 +8,4 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Politics/virginia-state-sen-creigh-deeds-stabbed-son-shot/story?id=20935571)
+1. [Cover Image](http://a.abcnews.com/images/Politics/AP_creigh_deeds_ml_131119_16x9_992.jpg)

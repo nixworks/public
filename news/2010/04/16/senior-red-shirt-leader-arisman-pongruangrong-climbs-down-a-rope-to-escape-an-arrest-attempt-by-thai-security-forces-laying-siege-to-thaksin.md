@@ -11,6 +11,7 @@ An anti-government protest leader has evaded arrest in Thailand by scaling down 
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8624218.stm)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/thailand/7596362/Thai-Red-Shirt-leader-in-dramatic-hotel-escape.html)
 4. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7099337.ece)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01617/ArismanPongruangro_1617376a.jpg)
 
 ### Related:
 

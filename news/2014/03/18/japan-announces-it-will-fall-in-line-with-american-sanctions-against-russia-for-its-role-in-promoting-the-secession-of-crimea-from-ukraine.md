@@ -11,6 +11,7 @@ Japan has announced a set of sanctions against Russia for its recognition of Cri
 2. [BBC](http://www.bbc.com/news/world-europe-26627236)
 3. [Vestnik Kavkaza](http://vestnikkavkaza.net/news/politics/52743.html)
 4. [Washington Post](http://www.washingtonpost.com/world/russias-putin-prepares-to-annex-crimea/2014/03/18/933183b2-654e-45ce-920e-4d18c0ffec73_story.html?wpisrc=al_national)
+4. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

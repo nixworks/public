@@ -8,6 +8,7 @@ One of the candidates in Papua New Guinea&#039;s elections has been charged with
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/06/19/1955525.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ An attack blamed on the Islamist Boko Haram group hits the Nigerian city of Maid
 
 1. [AFP via Yahoo7](http://au.news.yahoo.com/thewest/a/-/world/12474656/residents-say-4-dead-after-blast-gunfire-in-nigeria/)
 2. [BBC](http://www.bbc.co.uk/news/world-16366477)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/57544000/gif/_57544095_nigeria_yobe_borno304.gif)
 
 ### Related:
 

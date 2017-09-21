@@ -8,3 +8,4 @@ The WWE Network is ready to launch next month. It’s just not what you may have
 ### Source:
 
 1. [Variety](http://variety.com/2014/digital/news/wwe-network-to-launch-in-february-as-streaming-service-1201036864/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2014/01/wwe_ps_home_wm_29_v16.jpeg?w=1000&amp;h=750&amp;crop=1)

@@ -9,6 +9,7 @@ Rebel fighters hold only isolated pockets of oil town after forces loyal to Liby
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201131041228856242.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12711162)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/11/201131193048998371_20.jpg)
 
 ### Related:
 

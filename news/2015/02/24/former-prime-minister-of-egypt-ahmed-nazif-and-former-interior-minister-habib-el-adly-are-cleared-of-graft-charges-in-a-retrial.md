@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2015/02/top-mubarak-era-officials-acquitted-egypt-150224084518947.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/2/24/6ffff43e472d40e0be21b7278c12d2c9_18.jpg)
 
 ### Related:
 

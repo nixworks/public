@@ -8,6 +8,7 @@ Militants storm a remote village in north-eastern Nigeria, killing at least 33 p
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30529178)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/79808000/jpg/_79808648_79808646.jpg)
 
 ### Related:
 

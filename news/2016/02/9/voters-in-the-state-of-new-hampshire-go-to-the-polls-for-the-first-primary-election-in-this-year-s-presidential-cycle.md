@@ -13,6 +13,7 @@ The New Hampshire primaries will be crucial for both sides of the presidential r
 4. [NBC News](http://www.nbcnews.com/politics/2016-election/trump-sanders-sweep-victory-new-hampshire-primaries-nbc-news-n515191?cid=eml_nbn_20160209)
 5. [The Huffington Post](http://www.huffingtonpost.com/entry/bernie-sanders-wins-new-hampshire_us_56ba4d2ce4b08ffac122ff50)
 6. [The Week](http://theweek.com/speedreads/604757/bernie-sanders-becomes-first-jewish-nonchristian-candidate-win-primary)
+6. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/720C/production/_88169192_p03hz4ml.jpg)
 
 ### Related:
 

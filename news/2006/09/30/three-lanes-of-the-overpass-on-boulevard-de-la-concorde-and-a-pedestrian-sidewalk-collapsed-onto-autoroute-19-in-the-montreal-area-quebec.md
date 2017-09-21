@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060930/overpass_collapse_060930/20060930?hub=TopStories)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-30T182910Z_01_N30271261_RTRUKOC_0_US-DISASTER-OVERPASS.xml&WTmodLoc=Home-C2-TopNews-newsOne-7)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

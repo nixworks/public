@@ -8,6 +8,7 @@ Authorities request river traffic alert them to any floating bodies as death tol
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/jun/07/china-ferry-disaster-search-area-is-extended-1000km-down-yangtze-river)
+1. [Cover Image](https://i.guim.co.uk/img/media/307406a8d9cce1389a871a1527485f868f7688ac/119_418_5060_3038/5060.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=466c9b5dbc5b2d14b1b2fe36d9452a73)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The unofficial results show a majority in favor of relocating.
 
 1. [ABC News](http://abcnews.go.com/US/leaving-ancestral-home-alaska-village-votes-move-due/story?id=41482755)
 2. [The New York Times](http://www.nytimes.com/2016/08/20/us/shishmaref-alaska-elocate-vote-climate-change.html?_r=0&module=ArrowsNav&contentCollection=U.S.&action=keypress&region=FixedLeft&pgtype=article)
+2. [Cover Image](http://a.abcnews.com/images/US/AP_Alaska_Eroding_Village_MEM_160818_16x9_992.jpg)
 
 ### Related:
 

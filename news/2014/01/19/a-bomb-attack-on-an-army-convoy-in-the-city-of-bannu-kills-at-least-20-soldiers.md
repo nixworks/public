@@ -8,6 +8,7 @@ At least 20 soldiers are killed and 24 injured in a bomb attack on an army convo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25799199)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72377000/jpg/_72377023_72376992.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two Massachusetts high schools closed Monday after they received bomb threats, o
 ### Source:
 
 1. [ (''Boston Globe](https://www.bostonglobe.com/metro/2015/04/13/mass-high-schools-close-monday-due-bomb-threats/oUYjpasCGqbt3CErrcBltJ/story.html)
+1. [Cover Image](http://c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/logo-bg.jpg)
 
 ### Related:
 

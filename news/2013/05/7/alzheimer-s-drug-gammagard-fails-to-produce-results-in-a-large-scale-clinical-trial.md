@@ -8,6 +8,7 @@ Baxter International Inc. says that a blood product it was testing failed to slo
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/07/baxter-drug-alzheimers-study/2140925/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

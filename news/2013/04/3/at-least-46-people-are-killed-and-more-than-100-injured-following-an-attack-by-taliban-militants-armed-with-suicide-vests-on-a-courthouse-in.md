@@ -9,6 +9,7 @@ A suicide bomb and gun attack on a courthouse in the Afghan city of Farah leaves
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/201343105748841685.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22013106)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66728000/jpg/_66728325_66728324.jpg)
 
 ### Related:
 

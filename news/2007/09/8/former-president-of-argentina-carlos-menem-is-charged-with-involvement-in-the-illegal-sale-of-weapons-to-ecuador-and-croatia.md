@@ -8,6 +8,7 @@ Former Argentine president Carlos Menem has been charged with involvement in the
 ### Source:
 
 1. [BBC News via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/09/2027833.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

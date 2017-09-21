@@ -8,6 +8,7 @@ Schools in America are to drop classic books such as Harper Lee&#039;s To Kill a
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/culture/books/booknews/9729383/Catcher-in-the-Rye-dropped-from-US-school-curriculum.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02421/salinger_2421282k.jpg)
 
 ### Related:
 

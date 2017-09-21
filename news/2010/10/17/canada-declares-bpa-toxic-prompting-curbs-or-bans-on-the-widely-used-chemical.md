@@ -8,6 +8,7 @@ Canada has declared bisphenol A a toxic chemical, prompting calls for far-reachi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69D4MT20101014)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20101014&t=2&i=225813609&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-14T174641Z_01_BTRE69D1D4100_RTROPTP_0_PLASTIC-BOTTLES-CANADA)
 
 ### Related:
 

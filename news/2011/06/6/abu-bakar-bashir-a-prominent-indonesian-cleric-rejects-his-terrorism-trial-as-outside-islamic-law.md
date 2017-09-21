@@ -8,6 +8,7 @@ Co-founder of Jemaah Islamiyah proclaims innocence over terror charges and rejec
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/06/201166111121242662.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/6/201166112643838360_20.jpg)
 
 ### Related:
 

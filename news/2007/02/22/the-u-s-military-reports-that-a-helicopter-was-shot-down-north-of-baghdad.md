@@ -11,6 +11,7 @@ Harry, 22, is a junior officer in the upper-crust Blues and Royals regiment of t
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6384503.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6385033.stm)
 4. [New York Times](http://www.nytimes.com/2007/02/22/world/europe/22cnd-harry.html?ex=1329800400&en=3ca3fee75ac71bd2&ei=5088&partner=rssnyt&emc=rss)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

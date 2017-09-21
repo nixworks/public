@@ -8,6 +8,7 @@ Pro-Russia activists seize official buildings in the eastern Ukrainian city of L
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27206280)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74526000/jpg/_74526935_74526934.jpg)
 
 ### Related:
 

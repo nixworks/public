@@ -8,6 +8,7 @@ Maoist rebels kill at least 14 paramilitary policemen in an ambush in the centra
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-30278028)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73496000/jpg/_73496749_maoistrebelschattiosap.jpg)
 
 ### Related:
 

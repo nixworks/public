@@ -9,6 +9,7 @@ Paul Henry has been suspended by TVNZ for comments he made yesterday about the G
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678313)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678459)
+2. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201041/henry_1024x76837701.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/902507/resorts-world-manila-gunman-identified-as-jessie-javier-carlos)
 2. [Rappler](http://www.rappler.com/nation/171914-police-identify-gunman-resorts-world-attack)
+2. [Cover Image](https://assets.rappler.com/B0FB185A51004A79BC93C037C51511B8/img/F2D7718AE16D4166964A5479DFEA225E/resorts-world-attack-ncrpo-albayalde-presser-june-4-2017-002.jpg)
 
 ### Related:
 

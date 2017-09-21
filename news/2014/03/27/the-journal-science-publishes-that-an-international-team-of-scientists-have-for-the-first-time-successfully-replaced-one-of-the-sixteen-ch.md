@@ -8,6 +8,7 @@ Scientists have created the first synthetic chromosome for yeast in a landmark a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-26768445)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73848000/jpg/_73848382_73848381.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ethiopian Haile Gebrselassie shattered his own world marathon record Sunday when
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/sportsNews/idUSTRE48R10820080928?feedType=RSS&feedName=sportsNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20080928&t=2&i=6169052&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-09-28T150122Z_01_BTRE48R0PHA00_RTROPTP_0_ATHLETICS-MARATHON-BERLIN)
 
 ### Related:
 

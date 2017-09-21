@@ -11,6 +11,7 @@ Seventeen militants and at least two soldiers are killed in clashes in southern 
 2. [BBC Middle East](http://www.bbc.co.uk/news/world-middle-east-18345800)
 3. [Reuters Alertnet](http://www.trust.org/alertnet/news/shelling-in-syrias-deraa-kills-17-activist-group/)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/world/2012/0609/1224317568749.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60735000/jpg/_60735530_60586736.jpg)
 
 ### Related:
 

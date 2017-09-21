@@ -7,7 +7,7 @@ _Context: Chad, Chadian-Sudanese conflict, Darfur conflict, Human Rights Watch, 
 _Context: Air Force, George W. Bush, Missile Defense Agency, North Korea, United States_
 
 ### [ U.S. President George W. Bush has issued an executive order stating that he will limit taking of private property by the federal government and that it must "benefit... the general public...and not merely for the purpose of economic interest of private properties..." ](/news/2006/06/23/u-s-president-george-w-bush-has-issued-an-executive-order-stating-that-he-will-limit-taking-of-private-property-by-the-federal-government.md)
-_Context: George W. Bush, President, United States, executive order_
+_Context: George W. Bush, U.S. President, United States, executive order_
 
 ### [ Saddam Hussein has ended a brief hunger strike, after missing one meal in his prison. He did this in protest of the killing of one of his lawyers. ](/news/2006/06/23/saddam-hussein-has-ended-a-brief-hunger-strike-after-missing-one-meal-in-his-prison-he-did-this-in-protest-of-the-killing-of-one-of-his-l.md)
 Saddam Hussein thinks that the United States will have to seek his help to quell the insurgency in Iraq and open the way for U.S. forces to withdraw, his chief lawyer said Sunday.

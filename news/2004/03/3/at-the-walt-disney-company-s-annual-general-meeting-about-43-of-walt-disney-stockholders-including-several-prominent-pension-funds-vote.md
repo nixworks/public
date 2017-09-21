@@ -9,6 +9,7 @@
 
 1. [CNN](http://money.cnn.com/2004/03/03/news/companies/disney/index.htm?=)
 2. [TheStreet](http://www.nytimes.com/2004/03/04/business/04DISN.html?ex=1078981200&amp;en=da1851cbc64f2287&amp;ei=5062&amp;partner=GOOGLE)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

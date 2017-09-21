@@ -8,6 +8,7 @@ Updated 11:26pm ET
 ### Source:
 
 1. [MSNBC](http://tv.msnbc.com/2013/05/07/mark-sanford-wins-south-carolina-race/)
+1. [Cover Image](http://www.msnbc.com/sites/msnbc/files/styles/ratio--1_91-1--1200x630/public/2013/05/aptopix_1st_district_sc_jpeg-0bf56.jpg?itok=uaOc395i)
 
 ### Related:
 

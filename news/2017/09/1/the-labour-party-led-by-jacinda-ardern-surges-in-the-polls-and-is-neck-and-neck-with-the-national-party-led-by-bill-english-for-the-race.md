@@ -8,6 +8,7 @@ Jacinda Ardern says in debate with PM she is taking nothing for granted after po
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/aug/31/jacinda-ardern-lifts-labour-into-poll-lead-in-new-zealand-election)
+1. [Cover Image](https://i.guim.co.uk/img/media/f867dbd78948d16df68eecf2be5a34d2ebbf7dee/360_364_2563_1538/master/2563.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=45d610824b87ec77c88744f705063fff)
 
 ### Related:
 

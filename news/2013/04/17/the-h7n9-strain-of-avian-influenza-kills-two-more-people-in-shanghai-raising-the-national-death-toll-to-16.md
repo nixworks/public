@@ -8,6 +8,7 @@ H7N9 bird flu has claimed two more lives in Shanghai, Chinese state media said o
 ### Source:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/death-toll-hits-16-in/640972.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/674416/1370316057000/large16x9/640/360/asia-pacific.jpg)
 
 ### Related:
 

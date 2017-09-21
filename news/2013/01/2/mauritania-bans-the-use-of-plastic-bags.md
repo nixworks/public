@@ -8,6 +8,7 @@ Mauritania bans the use of plastic bags to protect the environment and the lives
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20891539)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65042000/jpg/_65042341_maurit.jpg)
 
 ### Related:
 

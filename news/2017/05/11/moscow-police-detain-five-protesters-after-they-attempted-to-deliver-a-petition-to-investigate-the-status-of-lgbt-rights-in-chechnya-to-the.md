@@ -8,6 +8,7 @@ They were calling for an investigation into the alleged torture of gay people in
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39881452)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/B980/production/_95588474_p04zpj2l.jpg)
 
 ### Related:
 

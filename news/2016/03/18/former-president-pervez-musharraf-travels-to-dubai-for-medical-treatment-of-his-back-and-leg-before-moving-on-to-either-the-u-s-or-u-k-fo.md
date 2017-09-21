@@ -8,6 +8,7 @@ Pakistan’s former military ruler Pervez Musharraf, who faces trial in a series
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-18/musharraf-leaves-pakistan-for-treatment-after-travel-ban-lifted)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCb9wFXr2Sio/v2/1200x873.jpg)
 
 ### Related:
 

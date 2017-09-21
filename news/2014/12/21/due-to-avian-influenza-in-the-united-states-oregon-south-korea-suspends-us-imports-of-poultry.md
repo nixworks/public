@@ -8,6 +8,7 @@ South Korea has suspended imports of US poultry and poultry products because of 
 ### Source:
 
 1. [Reuters via Times of India](http://timesofindia.indiatimes.com/business/international-business/South-Korea-halts-US-poultry-imports-due-to-bird-flu-in-US/articleshow/45592630.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/45592666.cms)
 
 ### Related:
 

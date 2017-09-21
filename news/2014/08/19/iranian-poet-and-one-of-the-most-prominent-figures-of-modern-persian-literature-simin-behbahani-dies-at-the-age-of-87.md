@@ -8,6 +8,7 @@ IBNA- After being in coma state for almost 13 days, the legendary Iranian poetes
 ### Source:
 
 1. [IBNA](http://www.ibna.ir/vdccmpqie2bqx18.-ya2.html)
+1. [Cover Image](http://www.ibna.ir/images/docs/000205/n00205376-b.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UNHCR](http://www.unhcr.org/5478554a6.html)
+1. [Cover Image](http://www.unhcr.org/thumb1/54784ab36.jpg)
 
 ### Related:
 

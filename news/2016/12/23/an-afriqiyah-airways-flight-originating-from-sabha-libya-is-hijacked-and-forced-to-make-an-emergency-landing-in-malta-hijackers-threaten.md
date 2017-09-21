@@ -8,6 +8,7 @@ Two hijackers diverted a Libyan commercial plane to Malta on Friday and threaten
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/g00/news/nationworld/ct-malta-hijacked-plane-20161223-story.html)
+1. [Cover Image](http://www.trbimg.com/img-585d39cb/turbine/ct-malta-hijacked-plane-20161223)
 
 ### Related:
 

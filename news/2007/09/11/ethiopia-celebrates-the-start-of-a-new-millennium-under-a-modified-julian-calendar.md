@@ -8,6 +8,7 @@ Ethiopians have entered the third millennium - seven years after the rest of the
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/12/2030527.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/667764-1x1-700x700.jpg)
 
 ### Related:
 

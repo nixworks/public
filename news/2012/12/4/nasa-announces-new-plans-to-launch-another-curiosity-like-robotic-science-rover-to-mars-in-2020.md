@@ -10,6 +10,7 @@ NASA plans to send another robotic explorer to the Red Planet in 2020, building 
 1. [NASA](http://www.nasa.gov/home/hqnews/2012/dec/HQ_12-420_Mars_2020.html)
 2. [Space.com](http://www.space.com/18763-nasa-new-mars-rover-2020.html)
 3. [The New York Times](http://www.nytimes.com/2012/12/05/science/space/another-rover-bound-for-mars-in-2020.html)
+3. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyMy8zNDcvb3JpZ2luYWwvY3VyaW9zaXR5LXNlbGYtcG9ydHJhaXQtaGktcmVzLmpwZw==)
 
 ### Related:
 

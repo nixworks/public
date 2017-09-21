@@ -10,6 +10,7 @@ More than 116 people die in a fire in the Bangladeshi capital Dhaka, with others
 1. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10232918.stm)
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100604-273734/87-dead-100-injured-in-Bangladesh-blaze)
 3. [The Mercury](http://www.themercury.co.za/?fSectionId=&fArticleId=nw20100603223802550C710649)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

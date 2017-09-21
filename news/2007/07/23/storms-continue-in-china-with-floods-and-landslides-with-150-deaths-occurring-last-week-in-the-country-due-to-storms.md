@@ -8,6 +8,7 @@ Storms are expected to batter large swathes of China again on Monday after flood
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSPEK20233320070723?feedType=RSS)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070723&t=2&i=1174422&w=&fh=545px&fw=&ll=&pl=&sq=&r=1174422)
 
 ### Related:
 

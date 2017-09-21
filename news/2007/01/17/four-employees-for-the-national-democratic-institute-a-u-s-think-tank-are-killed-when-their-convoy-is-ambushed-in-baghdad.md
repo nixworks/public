@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Dow Jones Online](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20070117%5cACQDJON200701171500DOWJONESDJONLINE000893.htm&)
+1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)
 
 ### Related:
 

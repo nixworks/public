@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8141300.stm)
 2. [Reuters](http://www.reuters.com/article/rbssTechMediaTelecomNews/idUSN0840597820090708)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/murdoch-papers-paid-2m-in-settlements-20090709-ddsu.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

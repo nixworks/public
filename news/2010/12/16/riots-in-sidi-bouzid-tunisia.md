@@ -8,6 +8,7 @@ Images posted on social-network sites show police intervening to halt disturbanc
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010122063745828931.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/20/201012207344659371_20.jpg)
 
 ### Related:
 

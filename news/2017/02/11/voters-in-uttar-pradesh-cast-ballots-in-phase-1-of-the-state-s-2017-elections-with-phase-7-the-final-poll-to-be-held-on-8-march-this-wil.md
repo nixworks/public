@@ -8,6 +8,7 @@ More than 13 million Indians voted in the first stage of state assembly election
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-india-election-idUSKBN15P2SN)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170211&t=2&i=1172269870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1A0AL)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Senate voted 87 to 11 Wednesday to confirm Sally Jewell, chief executive of 
 ### Source:
 
 1. [AP via ''The New York Times](http://www.nytimes.com/2013/04/11/us/politics/jewell-confirmed-as-interior-secretary.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

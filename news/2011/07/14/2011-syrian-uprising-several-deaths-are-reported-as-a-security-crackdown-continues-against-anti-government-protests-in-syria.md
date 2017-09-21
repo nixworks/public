@@ -8,6 +8,7 @@ Activists report deaths in several provinces as Sarkozy calls for tougher sancti
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011714115151803721.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/10/201171017422442580_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Protesters in Skopje pelted the Macedonian capital&#8217;s triumphal arch with s
 ### Source:
 
 1. [The Sofia Globe](http://sofiaglobe.com/2016/04/17/protests-in-macedonia-against-ivanov-continue/)
+1. [Cover Image](http://sofiaglobe.com/wp-content/uploads/2016/04/skopje-protest.jpg)
 
 ### Related:
 

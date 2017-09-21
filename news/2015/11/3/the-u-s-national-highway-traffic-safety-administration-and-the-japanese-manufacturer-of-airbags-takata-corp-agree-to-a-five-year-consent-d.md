@@ -10,6 +10,7 @@ The Japanese maker of air bags linked to the deaths or injuries of dozens of mot
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-03/takata-to-pay-up-to-record-200-million-to-resolve-air-bag-probe)
 2. [NASDAQ](http://www.nasdaq.com/article/honda-to-stop-using-takata-inflaters-in-new-models-20151103-01772#ixzz3qUKpoRk1)
 3. [USA Today](http://www.usatoday.com/story/money/cars/2015/11/03/takata-nhtsa-enforcement-action-airbag-recall/75088286/)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

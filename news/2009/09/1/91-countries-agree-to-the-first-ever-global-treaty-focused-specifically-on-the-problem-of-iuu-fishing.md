@@ -10,6 +10,7 @@
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jozF6o3ZudxKjNHdVnaj8w7cOVHQD9AEO9Q82)
 2. [MercoPress](http://en.mercopress.com/2009/09/01/fao1)
 3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=31908&Cr=fao&Cr1=fish)
+3. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21759/200x200/a8eb354d5358f24d317c949878c93c9d.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Ministry of Justice’s Investigation Bureau yesterday said allegations brou
 ### Source:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2014/08/21/2003597900)
+1. [Cover Image](http://www.taipeitimes.com/images/2014/08/21/thumbs/p01-140821-a3.jpg)
 
 ### Related:
 

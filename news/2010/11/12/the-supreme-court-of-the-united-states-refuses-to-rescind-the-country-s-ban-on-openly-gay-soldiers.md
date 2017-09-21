@@ -8,6 +8,7 @@ Supreme court rejects request to rescind ban on openly gay soldiers, while Obama
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/11/2010111219620872907.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/22/201092213813315734_20.jpg)
 
 ### Related:
 

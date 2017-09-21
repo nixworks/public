@@ -8,6 +8,7 @@ A report into the collapse of the £5bn West Coast Mainline franchise deal blame
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20620787)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64598000/jpg/_64598041_jzgddekn.jpg)
 
 ### Related:
 

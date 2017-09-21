@@ -8,6 +8,7 @@ A defiant Judy Moran has been jailed for 26 years for the murder of her brother-
 ### Source:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/defiant-moran-gets-26-years-for-murder-20110810-1ilv2.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

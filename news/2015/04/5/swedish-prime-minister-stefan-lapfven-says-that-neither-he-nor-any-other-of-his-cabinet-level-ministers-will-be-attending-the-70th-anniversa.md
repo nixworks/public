@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Local](http://www.thelocal.se/20150405/swedish-ministers-to-forego-russian-party)
+1. [Cover Image](https://www.thelocal.se/userdata/images/article/46b7be69c3c4052e02970bc5df294fc7a254387426647bdc49d7dcaaf40a8e89.jpg)
 
 ### Related:
 

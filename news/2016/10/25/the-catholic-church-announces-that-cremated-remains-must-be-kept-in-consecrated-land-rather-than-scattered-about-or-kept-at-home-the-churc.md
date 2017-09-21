@@ -8,6 +8,7 @@ The ashes of cremated Catholics cannot be kept at home, scattered or divided amo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37765900)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/4EBE/production/_92085102_capture.png)
 
 ### Related:
 

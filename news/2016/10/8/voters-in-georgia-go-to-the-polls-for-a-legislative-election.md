@@ -8,6 +8,7 @@ The ruling party in Georgia decisively won parliamentary elections, firming its 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-georgia-election-idUSKCN1272AT)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161009&t=2&i=1156742721&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC980C3)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gozitan Mgr Alfred Xuereb, 54, has been asked to serve as personal secretary to 
 ### Source:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20130318/thenewpope/personal-secretary.462026)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/0fc25e26adf17e24d1c93cc14d6d779b984763617-1363621977-51473859-620x348.jpg)
 
 ### Related:
 

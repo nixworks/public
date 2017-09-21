@@ -8,6 +8,7 @@ A refugee center in Hamburg was stormed by police on Tuesday after a man armed w
 ### Source:
 
 1. [RT](https://www.rt.com/news/378893-hamburg-knife-barricade-refugee/)
+1. [Cover Image](https://img.rt.com/files/2017.02/article/58b56666c36188aa198b45c5.jpg)
 
 ### Related:
 

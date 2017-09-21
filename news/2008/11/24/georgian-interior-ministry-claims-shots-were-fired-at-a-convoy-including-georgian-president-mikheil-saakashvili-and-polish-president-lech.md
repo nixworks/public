@@ -11,6 +11,7 @@
 2. [Moscow Times](http://www.moscowtimes.ru/article/600/42/372635.htm)
 3. [Reuters UK](http://uk.reuters.com/article/europeCrisis/idUKROB565526)
 4. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/11/23/AR2008112300789.html?hpid=sec-world)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

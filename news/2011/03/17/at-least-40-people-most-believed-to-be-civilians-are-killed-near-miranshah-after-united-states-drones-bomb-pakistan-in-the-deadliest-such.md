@@ -13,6 +13,7 @@ At least 40 people, most of them civilians, have been killed in a US drone strik
 4. [DAWN](http://www.dawn.com/2011/03/17/gen-kayani-condemns-us-drone-strike-in-nw.html)
 5. [The Nation](http://nation.com.pk/pakistan-news-newspaper-daily-english-online/Regional/Islamabad/17-Mar-2011/US-drone-stike-kills-30-in-NWaziristan)
 6. [The News International](http://www.thenews.com.pk/NewsDetail.aspx?ID=12770)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

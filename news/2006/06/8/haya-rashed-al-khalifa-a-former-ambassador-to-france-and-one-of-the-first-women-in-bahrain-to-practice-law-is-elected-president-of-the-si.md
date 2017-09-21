@@ -9,6 +9,7 @@
 
 1. [ (UN.org](http://www.un.org/apps/news/story.asp?NewsID=18797&Cr=general&Cr1=assembly)
 2. [Hindustan Times](http://www.hindustantimes.com/news/181_1715604,0005.htm)
+2. [Cover Image](/News/dh/photos/large/119604-president.jpg)
 
 ### Related:
 

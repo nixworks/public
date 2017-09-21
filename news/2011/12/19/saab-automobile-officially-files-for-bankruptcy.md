@@ -8,6 +8,7 @@ SAAB cars has filed for bankruptcy, bringing to an end a two-year effort to resc
 ### Source:
 
 1. [AFP via News Limited](http://www.news.com.au/business/saab-hits-the-end-of-the-road/story-e6frfm1i-1226226317975)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/0f7be16602e3c8c1e342c8ba5384ff84)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A strong quake strikes at sea south-west of the US Pacific territory of Guam but
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10972884)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

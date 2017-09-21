@@ -8,6 +8,7 @@ Sharon Commins and her Ugandan colleague Hilda Kawuki have been awarded this yea
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1108/comminss.html)
+1. [Cover Image](https://img.rasset.ie/0002b01d-1600.jpg)
 
 ### Related:
 

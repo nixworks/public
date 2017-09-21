@@ -8,6 +8,7 @@ Mohamed Ibrahim Rageh had fled Mogadishu, the Somali capital, in 2009 after a sp
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/22/world/africa/reporter-for-government-radio-is-killed-in-somalia.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

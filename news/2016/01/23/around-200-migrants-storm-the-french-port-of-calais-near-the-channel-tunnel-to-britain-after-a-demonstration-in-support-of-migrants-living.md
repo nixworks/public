@@ -8,6 +8,7 @@ Around 200 refugees managed to break into the port of Calais in northern France 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-europe-migrants-calais-idUKKCN0V10UG)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160123&t=2&i=1111862840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0M0LS)
 
 ### Related:
 

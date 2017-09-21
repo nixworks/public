@@ -12,6 +12,7 @@ Marine Le Pen’s party defeated by tactical voting and an increase in turnout a
 3. [Sky News](http://news.sky.com/story/1605202/far-right-defeated-in-french-regional-elections)
 4. [The Guardian](http://www.theguardian.com/world/live/2015/dec/13/french-regional-elections-2015-live)
 5. [The Straits Times](http://www.straitstimes.com/world/europe/french-far-right-fails-to-win-a-single-region-in-elections)
+5. [Cover Image](https://i.guim.co.uk/img/media/fb25ce521d1669d3553868ecd945714f55530546/0_0_2322_1393/master/2322.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=847969769b51de6398f496984c2a2476)
 
 ### Related:
 

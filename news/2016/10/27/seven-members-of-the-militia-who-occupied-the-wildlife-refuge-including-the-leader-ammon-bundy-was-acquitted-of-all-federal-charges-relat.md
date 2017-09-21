@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-37795012)
 2. [New York Times](http://www.nytimes.com/2016/10/28/us/bundy-brothers-acquitted-in-takeover-of-oregon-wildlife-refuge.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6BDC/production/_92121672_oregonoccupiers.jpg)
 
 ### Related:
 

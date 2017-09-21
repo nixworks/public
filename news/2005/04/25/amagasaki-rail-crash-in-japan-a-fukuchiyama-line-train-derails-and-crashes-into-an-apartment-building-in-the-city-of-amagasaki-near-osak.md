@@ -10,6 +10,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4480031.stm)
 2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=335311)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8276501)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

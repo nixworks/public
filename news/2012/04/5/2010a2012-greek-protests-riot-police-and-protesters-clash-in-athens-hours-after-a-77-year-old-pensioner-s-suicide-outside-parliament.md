@@ -8,6 +8,7 @@ Protesters clash with police in Athens after a pensioner kills himself outside p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17620421)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59501000/jpg/_59501775_59501774.jpg)
 
 ### Related:
 

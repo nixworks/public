@@ -14,6 +14,7 @@ The Pirates — formed just four years ago — had polled between 18 and 30 perc
 5. [New York](http://nymag.com/thecut/2016/10/women-now-make-up-almost-half-of-icelands-parliament.html)
 6. [The Guardian](https://www.theguardian.com/world/2016/oct/30/iceland-elections-ruling-centre-right-party-pirate-party)
 7. [The Independent](http://www.independent.co.uk/news/world/europe/iceland-prime-minister-resigns-sigurdur-ingi-johannsson-pirate-party-a7387846.html)
+7. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_44/1774931/161031-iceland-elections-0455_961c68c92d62aef75fb5e9b398ec1f37.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The BBC was forced to replace a tranche of senior news executives following a da
 1. [Radio Today](http://radiotoday.co.uk/2012/12/adrian-van-klaveren-to-leave-bbc-5-live/)
 2. [The Independent](http://www.independent.co.uk/news/uk/home-news/chaos-and-confusion-bbc-forced-to-replace-senior-news-executives-following-damning-report-into-its-complete-inability-to-deal-with-jimmy-savile-crisis-8425581.html)
 3. [The Independent](http://www.independent.co.uk/news/uk/home-news/the-verdicts-on-peter-rippon-adrian-van-klaveren-helen-boaden-george-entwistle-and-stephenmitchell-8426255.html)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/10/23/12/Entwistle-Savile.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-spain-politics-idUKKBN0U60RR20151223)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151223&t=2&i=1104431585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBM0Y1)
 
 ### Related:
 

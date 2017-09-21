@@ -10,6 +10,7 @@ Minister for Defence Willie O&#39;Dea has resigned, saying his continuing in off
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8523168.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0218/odeaw.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0218/breaking13.html)
+3. [Cover Image](https://img.rasset.ie/00030591-1600.jpg)
 
 ### Related:
 

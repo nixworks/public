@@ -8,6 +8,7 @@ Clocks moved forward by half an hour to restrict use of lighting and power as co
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/may/02/venezuelans-lose-sleep-in-bid-to-curb-electricity-shortage)
+1. [Cover Image](https://i.guim.co.uk/img/media/4762ac38d53992cc2f94092cde5c9bfdcdc42af8/0_251_4000_2400/4000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0bb9b37e53e213512386db37288462cc)
 
 ### Related:
 

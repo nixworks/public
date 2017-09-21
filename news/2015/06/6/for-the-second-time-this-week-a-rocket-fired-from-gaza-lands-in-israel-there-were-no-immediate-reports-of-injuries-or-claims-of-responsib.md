@@ -8,6 +8,7 @@ Sirens sound in southern Israel; no immediate reports of injuries or damage
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/sirens-signaling-rocket-attack-sound-in-southern-israel/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/04/F080110EI01.jpg)
 
 ### Related:
 

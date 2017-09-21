@@ -9,6 +9,7 @@ The Taoiseach has welcomed reports that loyalist paramilitary organisations have
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8106907.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0618/decommission.html)
+2. [Cover Image](https://img.rasset.ie/00026123-1600.jpg)
 
 ### Related:
 

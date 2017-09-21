@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/saskatchewan/saskatchewan-wildfires-force-nearly-8-000-people-out-of-homes-1.3138560)
+1. [Cover Image](https://i.cbc.ca/1.3140043.1436203111!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/la-ronge.jpg)
 
 ### Related:
 

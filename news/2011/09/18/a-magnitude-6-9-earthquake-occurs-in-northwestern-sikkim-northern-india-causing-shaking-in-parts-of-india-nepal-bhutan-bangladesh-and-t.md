@@ -11,6 +11,7 @@
 2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/09/18/india.earthquake/)
 3. [The Australian](http://www.theaustralian.com.au/news/world/indian-earthquake-kills-19/story-e6frg6so-1226140593200)
 4. [Times of India](http://timesofindia.indiatimes.com/city/lucknow/UP-residents-shaken-up-by-mild-quake-tremor/articleshow/10030535.cms)
+4. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

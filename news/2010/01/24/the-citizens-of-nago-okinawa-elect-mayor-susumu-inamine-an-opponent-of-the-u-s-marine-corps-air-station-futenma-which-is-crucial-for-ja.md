@@ -9,6 +9,7 @@ A candidate who opposed a plan to move a U.S. air base won, raising pressure on 
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/8478070.stm)
 2. [The New York Times](http://www.nytimes.com/2010/01/25/world/asia/25okinawa.html)
+2. [Cover Image](https://static01.nyt.com/images/2010/01/25/world/25okinawa_337-395/thumbStandard.jpg)
 
 ### Related:
 

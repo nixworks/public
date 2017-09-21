@@ -8,6 +8,7 @@ A government spokesman says Mexican marines have arrested seven gunmen suspected
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2010/09/08/mexican-marines-arrest-seven-suspected-killing-migrants-near-border/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

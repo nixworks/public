@@ -10,6 +10,7 @@ The U.S. Coast Guard is investigating reports of a &quot;sheen&quot; in the Gulf
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-1368156/Five-mile-wide-suspected-oil-slick-spotted-just-north-Deepwater-Horizon-explosion-site.html?ito=feeds-newsxml)
 2. [Reuters](http://www.reuters.com/article/2011/03/20/us-oil-sheen-idUSTRE72J31V20110320)
 3. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704433904576212801606559220.html?mod=googlenews_wsj)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

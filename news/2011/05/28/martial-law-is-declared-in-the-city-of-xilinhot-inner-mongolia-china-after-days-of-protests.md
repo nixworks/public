@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/05/28/china.martial.law/)
 2. [Pakistan Daily Times](http://www.dailytimes.com.pk/default.asp?page=2011\05\28\story_28-5-2011_pg14_1)
+2. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

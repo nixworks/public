@@ -8,6 +8,7 @@ Six-party talks agree on steps to verify disarmament.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2008/07/20087125270208222.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -12,6 +12,7 @@ German officials have condemned a recent video depicting a screaming mob of anti
 3. [Deutsche Welle](http://www.dw.com/en/shameful-video-of-mob-blocking-a-refugee-bus-in-germany-sparks-outrage/a-19062019)
 4. [The New York Times](http://www.nytimes.com/aponline/2016/02/20/world/europe/ap-eu-europe-migrants.html)
 5. [The New York Times](http://www.nytimes.com/aponline/2016/02/21/world/europe/ap-eu-germany-migrants.html)
+5. [Cover Image](http://www.dw.com/image/19061667_304.jpg)
 
 ### Related:
 

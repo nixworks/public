@@ -11,6 +11,7 @@ About 150,000 people leave their homes in Sindh as flood defences are threatened
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010822131352597130.html)
 3. [BBC](http://www.bbc.co.uk/news/world-south-asia-11051205)
 4. [The Independent on Sunday](http://www.independent.co.uk/news/world/asia/debts-pushing-pakistan-to-the-brink-of-ruin-2058858.html)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

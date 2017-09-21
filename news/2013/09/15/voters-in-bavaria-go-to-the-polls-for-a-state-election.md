@@ -9,6 +9,7 @@ Bavarians go to the polls with Chancellor Angela Merkel hoping for momentum ahea
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/09/201391582139526665.html)
 2. [Reuters](http://www.reuters.com/article/2013/09/15/us-germany-bavaria-election-idUSBRE98D0CJ20130915)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/7/27//2013727125144926580_20.jpg)
 
 ### Related:
 

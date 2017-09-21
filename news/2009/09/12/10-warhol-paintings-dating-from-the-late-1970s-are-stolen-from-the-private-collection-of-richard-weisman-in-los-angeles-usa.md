@@ -9,6 +9,7 @@ Police in Los Angeles say a multi-million dollar Andy Warhol art collection has 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8251948.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0912/losangeles.html)
+2. [Cover Image](https://img.rasset.ie/000296bf-1600.jpg)
 
 ### Related:
 

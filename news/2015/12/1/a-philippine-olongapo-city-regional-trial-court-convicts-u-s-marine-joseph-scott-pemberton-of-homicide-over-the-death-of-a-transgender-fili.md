@@ -10,6 +10,7 @@ The court convicted U.S. Marine Joseph Scott Pemberton of the lesser charge of h
 1. [BBC](http://www.bbc.com/news/world-asia-34971925)
 2. [Buzzfeed](http://www.buzzfeed.com/meredithtalusan/us-marine-is-guilty#.db5baRMGD)
 3. [Rappler](http://www.rappler.com/nation/114533-pemberton-ruling-jennifer-laude)
+3. [Cover Image](https://img.buzzfeed.com/buzzfeed-static/static/2015-12/1/7/campaign_images/webdr05/us-marine-convicted-of-killing-a-trans-woman-in-t-2-3335-1448974648-5_dblbig.jpg)
 
 ### Related:
 

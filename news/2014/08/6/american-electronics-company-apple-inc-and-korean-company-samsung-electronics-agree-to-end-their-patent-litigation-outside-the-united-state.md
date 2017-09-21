@@ -8,6 +8,7 @@ The two rivals will continue to pursue existing patent lawsuits in the U.S.
 ### Source:
 
 1. [IDG via ''Network World](http://www.networkworld.com/article/2461942/apple-samsung-agree-to-settle-patent-disputes-outside-us.html#tk.rss_ios)
+1. [Cover Image](http://idge.staticworld.net/nww/nww_logo_300x300.png)
 
 ### Related:
 

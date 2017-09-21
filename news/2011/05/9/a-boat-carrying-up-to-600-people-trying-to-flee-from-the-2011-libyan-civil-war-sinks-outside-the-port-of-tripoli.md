@@ -8,6 +8,7 @@ A ship carrying up to 600 migrants trying to flee Libya has sunk just off the co
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42959226/ns/world_news-mideastn_africa/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

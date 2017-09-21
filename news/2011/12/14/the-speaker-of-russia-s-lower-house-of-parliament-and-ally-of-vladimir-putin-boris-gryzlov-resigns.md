@@ -9,6 +9,7 @@ Boris V. Gryzlov, the chairman of Russia’s governing party, United Russia, res
 
 1. [RIA Novosti](http://en.rian.ru/russia/20111214/170238212.html)
 2. [The New York Times](http://www.nytimes.com/2011/12/15/world/europe/putin-ally-boris-gryzlov-resigns-as-speaker-of-russia-parliament.html)
+2. [Cover Image](https://static01.nyt.com/images/2011/12/15/world/14russia-image-1323863347254/14russia-image-1323863347254-thumbStandard.jpg)
 
 ### Related:
 

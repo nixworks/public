@@ -8,6 +8,7 @@ At least eight Pakistani soldiers were killed Thursday in a roadside explosion n
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/afghanistan-pakistan/la-fg-pakistan-soldiers-attacked-20140508-story.html)
+1. [Cover Image](http://www.trbimg.com/img-536b6f07/turbine/la-fg-pakistan-soldiers-attacked-20140508)
 
 ### Related:
 

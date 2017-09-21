@@ -8,6 +8,7 @@ An investigation begins after the bodies of five French climbers and their guide
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28771530)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76913000/jpg/_76913666_023489193-1.jpg)
 
 ### Related:
 

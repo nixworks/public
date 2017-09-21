@@ -11,6 +11,7 @@ North Korea may be preparing for a fourth nuclear test, with stepped up activity
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22061377)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-22065348)
 4. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323550604578410010892971052.html)
+4. [Cover Image](http://www.channelnewsasia.com/image/630612/1365388010000/large16x9/640/360/kim-jong-un-c-inspecting-the-landing-and-anti-landing-drills-of.jpg)
 
 ### Related:
 

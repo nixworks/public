@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Sina](http://news.sina.com.cn/c/nd/2015-12-04/doc-ifxmifzh4352795.shtml)
+1. [Cover Image](http://n.sinaimg.cn/news/transform/20151204/hc96-fxmifzh4352732.jpg)
 
 ### Related:
 

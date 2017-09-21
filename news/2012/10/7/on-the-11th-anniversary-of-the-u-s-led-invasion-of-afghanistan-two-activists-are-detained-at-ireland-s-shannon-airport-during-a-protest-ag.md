@@ -9,6 +9,7 @@ Two people have been arrested at Shannon airport during a protest against US dro
 
 1. [RTÉ](http://www.rte.ie/news/2012/1007/shannon-airport.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/1007/breaking39.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

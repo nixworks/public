@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-northkorea-syria-un-idUSKCN1B12G2)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170821&t=2&i=1198017539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7K1VM)
 
 ### Related:
 

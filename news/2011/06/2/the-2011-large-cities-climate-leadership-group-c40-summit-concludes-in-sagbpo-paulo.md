@@ -8,6 +8,7 @@ At a climate meeting in Brazil, the bank agreed to help cities pay for projects 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/06/02/science/earth/02climate.html?_r=1&scp=1&sq=C40&st=cse)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

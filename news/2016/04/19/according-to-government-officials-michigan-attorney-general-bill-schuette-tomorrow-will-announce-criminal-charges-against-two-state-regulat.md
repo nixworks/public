@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2016/04/20/three-to-face-charges-in-flint-water-crisis-officials-say.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/04/20/0/0/694940094001_4854614104001_cd748f87-3fdf-4291-b1e2-1a24f34e3442.jpg?ve=1)
 
 ### Related:
 

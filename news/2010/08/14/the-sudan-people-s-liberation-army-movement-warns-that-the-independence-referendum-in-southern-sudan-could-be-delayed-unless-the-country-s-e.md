@@ -8,6 +8,7 @@ South Sudan party says disputes in electoral body jeopardises independence refer
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/201081454738520280.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -10,6 +10,7 @@ At least 19 people are killed in bomb and gun attacks in the Somali capital Moga
 1. [AP via Fox News](http://www.foxnews.com/world/2013/04/14/gunmen-attack-court-complex-in-somali-capital-and-have-shootout-with-army-say/?test=latestnews)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-22143503)
 3. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-mogadishu-attack-20130414,0,1136075.story)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66997000/jpg/_66997508_66997507.jpg)
 
 ### Related:
 

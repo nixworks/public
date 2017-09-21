@@ -8,6 +8,7 @@ Two people on a bus used by the US band Baroness were injured when it fell 30ft 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-19267414)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62290000/jpg/_62290962_photo.jpg)
 
 ### Related:
 

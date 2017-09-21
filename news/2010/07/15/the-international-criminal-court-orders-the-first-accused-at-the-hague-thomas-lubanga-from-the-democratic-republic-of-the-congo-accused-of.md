@@ -10,6 +10,7 @@ Judges at the International Criminal Court order the accused in its first case -
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10650399)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/07/15/icc.militia.leader.release/?fbid=Dxrzb6Q-4_O)
 3. [Reuters India](http://in.reuters.com/article/idINIndia-50158020100715)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

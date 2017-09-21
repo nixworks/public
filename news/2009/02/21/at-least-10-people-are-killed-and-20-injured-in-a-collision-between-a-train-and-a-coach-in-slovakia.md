@@ -8,6 +8,7 @@ At least 10 people have been killed and 20 injured in a collision between a trai
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0221/slovakia.html)
+1. [Cover Image](https://img.rasset.ie/00021633-1600.jpg)
 
 ### Related:
 

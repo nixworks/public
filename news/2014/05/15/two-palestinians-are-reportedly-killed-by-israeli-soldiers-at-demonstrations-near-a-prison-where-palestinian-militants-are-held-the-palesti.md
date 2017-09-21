@@ -9,6 +9,7 @@ Israeli forces shot dead two Palestinians during a stone-throwing protest on Thu
 
 1. [Reuters](http://www.reuters.com/article/2014/05/15/us-israel-palestinian-clashes-idUSBREA4E0HI20140515)
 2. [The Times of Israel](http://www.timesofisrael.com/2-palestinian-teens-said-killed-in-nakba-day-clashes/)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -19,3 +20,4 @@ Israeli forces shot dead two Palestinians during a stone-throwing protest on Thu
 5. [Hamas militants fire an anti-tank missile at an Israeli school bus, critically injuring a teenage boy and the driver, and then fire 45 mortars and 3 rockets at towns in southern Israel; the Israeli army launches a counterattack in Gaza, killing five people and injuring a number of others ](/news/2011/04/7/hamas-militants-fire-an-anti-tank-missile-at-an-israeli-school-bus-critically-injuring-a-teenage-boy-and-the-driver-and-then-fire-45-morta.md) _Context: Palestinian militants_
 6. [Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/palestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-taken-to-a-clinic-for-medical-trea.md) _Context: Palestinian militants_
 7. [The Palestinian militant group "Army of Islam" fires rockets from Gaza into southern Israel in response to the killing of three of its members by Israel last month, with one rocket landing close to a kindergarten near Ashkelon, injuring a 14-year-old girl; Israeli jets respond with air strikes in the Gaza Strip, injuring at least two Palestinian militants, Palestinian sources say. ](/news/2010/12/21/the-palestinian-militant-group-army-of-islam-fires-rockets-from-gaza-into-southern-israel-in-response-to-the-killing-of-three-of-its-membe.md) _Context: Palestinian militants_
+8. [ In the Gaza Strip, CNN producer Riad Abu Ali, an Israeli citizen, is released by his captors one day after he was abducted from his car by Palestinian militants. ](/news/2004/09/28/in-the-gaza-strip-cnn-producer-riad-abu-ali-an-israeli-citizen-is-released-by-his-captors-one-day-after-he-was-abducted-from-his-car-by.md) _Context: Palestinian militants_

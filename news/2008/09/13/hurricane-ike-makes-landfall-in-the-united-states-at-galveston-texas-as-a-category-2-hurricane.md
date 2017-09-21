@@ -11,6 +11,7 @@ A tropical storm warning remains in effect from east of sargent texas eastward t
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/7613851.stm)
 3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=agoQ2nrz6TVM&refer=home)
 4. [National Hurricane Center via Nola.com](http://www.nola.com/hurricane-ike/index.ssf/2008/09/ike_weakens_to_a_tropical_stor.html)
+4. [Cover Image](//static.advance.net/static/nola/static/img/logos/logo_fb.jpg)
 
 ### Related:
 

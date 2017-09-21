@@ -8,6 +8,7 @@ MIT researchers said they have succeeded in using radio waves to mix the 50 mill
 ### Source:
 
 1. [Electronic Engineering Times](http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=212202060)
+1. [Cover Image](http://m.eet.com/images/eetimes/eet_fb_icon3.jpg)
 
 ### Related:
 

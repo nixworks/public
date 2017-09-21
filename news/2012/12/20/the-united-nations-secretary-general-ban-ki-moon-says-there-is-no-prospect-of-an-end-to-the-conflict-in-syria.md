@@ -8,6 +8,7 @@ UN chief Ban Ki-moon says political settlement is only way to stop violence, and
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/201212206541800325.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/20//201212206536456734_20.jpg)
 
 ### Related:
 

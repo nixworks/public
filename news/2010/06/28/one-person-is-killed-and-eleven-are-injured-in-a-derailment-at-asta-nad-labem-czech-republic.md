@@ -9,6 +9,7 @@
 
 1. [Idnes](http://zpravy.idnes.cz/strojvedouci-jel-ve-vanove-108-misto-50-km-h-inspektori-proveruji-brzdy-12o-/krimi.asp?c=A100629_071012_krimi_hv)
 2. [České Noviny](http://www.ceskenoviny.cz/news/zpravy/engine-driver-dies-11-injured-in-train-crash-in-czech-town/497324?id=497263)
+2. [Cover Image](https://1gr.cz/fotky/idnes/10/063/cl6/CEN3417de_191553_2356178.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ After years of government investigations, Corinthian Colleges Inc. will shut dow
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-corinthian-colleges-shuts-down-campuses-20150426-story.html)
+1. [Cover Image](http://www.trbimg.com/img-553dbe80/turbine/la-fi-corinthian-shutdown-20150427)
 
 ### Related:
 

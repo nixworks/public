@@ -9,6 +9,7 @@ Two Nigerian politicians die during an attack by gunmen on a funeral for victims
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18762829)
 2. [Daily Times Nigeria](http://dailytimes.com.ng/article/gunmen-attack-plateau-village)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58982000/jpg/_58982137_013803816-1.jpg)
 
 ### Related:
 

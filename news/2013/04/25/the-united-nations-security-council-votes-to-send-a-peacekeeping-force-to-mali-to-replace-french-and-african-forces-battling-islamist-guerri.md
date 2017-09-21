@@ -8,6 +8,7 @@ THE UN Security Council has unanimously backed sending up to 12,600 internationa
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/un-votes-to-send-peacekeepers-to-mali/story-e6frfkui-1226629672443)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

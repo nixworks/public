@@ -9,6 +9,7 @@ Sweden will introduce tighter border controls and asylum rules, in a bid to redu
 
 1. [Reuters via Thomson Reuters Foundation](http://www.trust.org/item/20151124175709-2r1xi)
 2. [Reuters](http://www.reuters.com/article/2015/11/24/us-europe-migrants-sweden-idUSKBN0TD1SC20151124)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151124&t=2&i=1097368847&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAN0QO)
 
 ### Related:
 

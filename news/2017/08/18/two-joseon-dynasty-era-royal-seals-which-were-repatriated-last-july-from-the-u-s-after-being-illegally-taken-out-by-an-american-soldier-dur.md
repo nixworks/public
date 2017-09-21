@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Korea Times](http://www.koreatimes.co.kr/www/culture/2017/08/317_234987.html)
+1. [Cover Image](http://www.koreatimes.co.kr/upload/newsV2/images/170818.jpg)
 
 ### Related:
 

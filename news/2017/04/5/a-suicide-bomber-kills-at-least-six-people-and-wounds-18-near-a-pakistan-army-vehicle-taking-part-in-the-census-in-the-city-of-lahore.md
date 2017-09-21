@@ -8,6 +8,7 @@ The Pakistani Taliban claimed responsibility for a suicide attack on army person
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKBN1770FQ)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170405&t=2&i=1179404358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED340CD)
 
 ### Related:
 

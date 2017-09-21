@@ -10,6 +10,7 @@ Ivory Coast yesterday faced the threat of open conflict after a New Year’s mid
 1. [Newstime Africa](http://www.newstimeafrica.com/archives/15206)
 2. [Sun Herald](http://www.sunherald.com/2011/01/01/2744705/ivory-coast-ouattara-ally-calls.html)
 3. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2011/01/02/2003492457)
+3. [Cover Image](http://www.taipeitimes.com/images/logo.gif)
 
 ### Related:
 

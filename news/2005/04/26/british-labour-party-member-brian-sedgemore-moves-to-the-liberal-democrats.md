@@ -10,6 +10,7 @@ News and opinion from The Times &amp; The Sunday Times
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/vote_2005/frontpage/4484043.stm)
 2. [Independent](http://news.independent.co.uk/people/profiles/story.jsp?story=633042)
 3. [Times](http://www.timesonline.co.uk/article/0,,19809-1586048,00.html)
+3. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

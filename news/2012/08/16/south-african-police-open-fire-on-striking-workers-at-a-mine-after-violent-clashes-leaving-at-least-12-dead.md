@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/08/2012816141649568598.html)
 2. [SABC](http://www.sabc.co.za/news/a/26d426804c5ed456b5dab5e0eede81ca/More-people-feared-dead-at-Lonmin-Mine-20121608)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/17/20128173215650734_20.jpg)
 
 ### Related:
 

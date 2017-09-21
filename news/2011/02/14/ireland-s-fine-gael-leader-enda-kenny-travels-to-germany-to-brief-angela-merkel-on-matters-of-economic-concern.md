@@ -8,6 +8,7 @@ Fine Gael leader Enda Kenny is to travel to Germany tomorrow to brief German Cha
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0213/politics.html)
+1. [Cover Image](https://img.rasset.ie/0004391a-1600.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ With two full moons this month, the second is called a blue moon. Why?
 2. [CNN](http://www.cnn.com/2009/TECH/space/12/30/blue.moon/)
 3. [RTÉ](http://www.rte.ie/news/2009/1231/newyear.html)
 4. [Space](http://www.space.com/spacewatch/091230-blue-moon-eclipse.html)
+4. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwNC84ODQvb3JpZ2luYWwvMDcwOTA1X2Z1bGxtb29uXzAyLmpwZw==)
 
 ### Related:
 

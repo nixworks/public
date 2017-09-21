@@ -9,6 +9,7 @@ A Swedish court sentenced on Monday a 61-year-old man to life in prison for geno
 
 1. [Reuters](http://in.reuters.com/article/rwanda-warcrimes-idINKCN0Y70ZW)
 2. [THE LOCAL](http://www.thelocal.se/20160516/swedish-rwanda-genocide-suspect-sentenced-to-life-imprisonment)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

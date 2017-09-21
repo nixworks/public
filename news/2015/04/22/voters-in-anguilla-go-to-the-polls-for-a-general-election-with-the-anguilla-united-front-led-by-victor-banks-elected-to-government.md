@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Jamaica Observer](http://www.jamaicaobserver.com/latestnews/Ruling-Anguilla-party-swept-out-of-office)
+1. [Cover Image](http://www.jamaicaobserver.com/assets/11721431/voting_w400.jpg)
 
 ### Related:
 

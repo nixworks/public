@@ -8,6 +8,7 @@ The UN confirms it has received Syrian documents on joining the Chemical Weapons
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24068867)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69811000/jpg/_69811127_rdfjaift.jpg)
 
 ### Related:
 

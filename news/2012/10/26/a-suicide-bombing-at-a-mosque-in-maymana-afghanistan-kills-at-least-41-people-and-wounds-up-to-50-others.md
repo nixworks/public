@@ -8,6 +8,7 @@ At least 41 people have been killed in a suicide bomb attack at a mosque in nort
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20092591)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63730000/jpg/_63730393_63730392.jpg)
 
 ### Related:
 

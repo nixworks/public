@@ -10,6 +10,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 1. [Hurriyet](http://www.hurriyetdailynews.com/n.php?n=63-die-dozens-injured-in-indian-temple-stampede-2010-03-04)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/05/c_13198432.htm)
 3. [YahooNews](http://news.yahoo.com/s/afp/20100304/ts_afp/indiareligionaccidentstampede)
+3. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

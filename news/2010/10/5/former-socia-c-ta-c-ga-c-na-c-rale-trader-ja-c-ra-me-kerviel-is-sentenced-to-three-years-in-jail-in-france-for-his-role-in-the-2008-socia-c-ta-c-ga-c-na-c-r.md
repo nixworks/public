@@ -9,6 +9,7 @@ Former Societe Generale trader Jerome Kerviel sentenced to three years in jail a
 
 1. [Al Jazeera](http://english.aljazeera.net/business/2010/10/201010553034989873.html)
 2. [BBC](http://www.bbc.co.uk/news/business-11474077)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/5/201010592445892580_20.jpg)
 
 ### Related:
 

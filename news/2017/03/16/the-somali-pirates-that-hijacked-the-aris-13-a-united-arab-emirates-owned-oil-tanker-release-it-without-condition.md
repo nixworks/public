@@ -8,6 +8,7 @@ The hijackers let the ship go hours after exchanging gunfire with naval forces.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39295936)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13D48/production/_95142218_mediaitem95142217.jpg)
 
 ### Related:
 

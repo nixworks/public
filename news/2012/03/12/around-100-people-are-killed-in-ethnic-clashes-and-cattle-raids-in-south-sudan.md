@@ -8,6 +8,7 @@ The number of people killed in the latest of a series of cattle raids and ethnic
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17338139)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59035000/jpg/_59035107_93686282.jpg)
 
 ### Related:
 

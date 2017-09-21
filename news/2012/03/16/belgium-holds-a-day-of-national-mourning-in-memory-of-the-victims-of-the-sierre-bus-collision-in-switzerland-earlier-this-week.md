@@ -8,6 +8,7 @@ Belgium holds a day of mourning to remember the victims of the coach crash in a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17391783)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59112000/jpg/_59112416_014274409-1.jpg)
 
 ### Related:
 

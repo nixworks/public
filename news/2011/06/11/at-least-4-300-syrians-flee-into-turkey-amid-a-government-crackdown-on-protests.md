@@ -8,6 +8,7 @@ Turkish officials say at least 4,300 people escaping unrest have crossed the bor
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011611145043659900.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/11/201161113252510784_20.jpg)
 
 ### Related:
 

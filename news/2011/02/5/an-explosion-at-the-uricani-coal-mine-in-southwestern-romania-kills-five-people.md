@@ -8,6 +8,7 @@ An&#x20;explosion&#x20;killed&#x20;five&#x20;workers&#x20;in&#x20;Romania&#x27;s
 ### Source:
 
 1. [AFP via France 24](http://www.france24.com/en/20110205-explosion-kills-five-electrical-workers-uricani-mine-romania)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/EN-%20Romania.jpg)
 
 ### Related:
 

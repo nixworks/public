@@ -9,6 +9,7 @@ Tens of thousands of protesters join an anti-government march outside the Bahrai
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17309839)
 2. [Reuters](http://uk.reuters.com/article/2012/03/09/uk-syria-idUKL5E8E305F20120309)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58972000/jpg/_58972833_140974723.jpg)
 
 ### Related:
 

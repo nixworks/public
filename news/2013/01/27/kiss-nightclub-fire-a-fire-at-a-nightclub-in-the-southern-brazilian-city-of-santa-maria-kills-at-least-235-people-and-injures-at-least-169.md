@@ -11,6 +11,7 @@ At least 233 people die in a fire that swept through a nightclub in southern Bra
 2. [BBC](http://www.bbc.co.uk/news/world-21220308)
 3. [CNN](http://edition.cnn.com/2013/01/27/world/americas/brazil-nightclub-fire)
 4. [Reuters](http://www.reuters.com/article/2013/01/27/us-brazil-nightclub-idUSBRE90Q04T20130127)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65536000/jpg/_65536157_65536156.jpg)
 
 ### Related:
 

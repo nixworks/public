@@ -9,6 +9,7 @@ At least 13 people including medical staff were killed when Russian warplanes st
 
 1. [AFP via Yahoo News](http://news.yahoo.com/russia-air-strike-field-hospital-kills-13-155302808.html)
 2. [U.S. News and World Report](http://www.usnews.com/news/world/articles/2015/10/21/syrian-kurds-form-new-administration-in-semi-autonomous-area)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/if0SuM_nzjmt9fw3s4Umog--/aD03Mjc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2155602-1-1-1.jpg)
 
 ### Related:
 

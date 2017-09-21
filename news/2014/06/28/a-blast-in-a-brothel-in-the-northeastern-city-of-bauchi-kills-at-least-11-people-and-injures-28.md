@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ''Daily Times](http://www.dailytimes.com.pk/foreign/29-Jun-2014/blast-in-northeast-nigeria-kills-11-police)
+1. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

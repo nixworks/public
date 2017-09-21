@@ -10,6 +10,7 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/07/casualties-feared-kabul-car-bomb-attack-170724034019038.html)
 2. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKBN1A9067?il=0)
 3. [The Hill](http://thehill.com/policy/defense/343522-mattis-rips-pentagon-officials-for-28m-wasted-on-afghan-camouflage)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170724&t=2&i=1194126090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6N063)
 
 ### Related:
 

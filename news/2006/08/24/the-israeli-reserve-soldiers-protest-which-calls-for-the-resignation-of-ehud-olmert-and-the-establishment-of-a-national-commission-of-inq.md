@@ -13,6 +13,7 @@ Reservists hold rally outside PM’s Office in Jerusalem, call on Olmert, Peretz
 4. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5283660.stm)
 5. [Human Rights Watch](http://hrw.org/english/docs/2006/08/17/lebano14026.htm)
 6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3295083,00.html)
+6. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

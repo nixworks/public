@@ -9,6 +9,7 @@ A group of Sudanese women are arrested for holding a protest march over a video 
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11991558)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6BD07U20101214)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8175752.stm)
 3. [RTÉ](http://www.rte.ie/news/2009/0730/nkorea.html)
 4. [The Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/07/116_49359.html)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

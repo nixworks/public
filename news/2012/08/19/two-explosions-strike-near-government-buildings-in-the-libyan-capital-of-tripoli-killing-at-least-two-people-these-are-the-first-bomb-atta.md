@@ -8,6 +8,7 @@ Two people are killed in twin car bomb attacks close to security force buildings
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19310528)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62366000/jpg/_62366718_blast.jpg)
 
 ### Related:
 

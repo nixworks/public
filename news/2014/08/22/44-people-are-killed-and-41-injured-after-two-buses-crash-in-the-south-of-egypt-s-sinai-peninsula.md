@@ -10,6 +10,7 @@
 1. [Al-Ahram](http://english.ahram.org.eg/News/109033.aspx)
 2. [BBC](http://www.bbc.com/news/world-middle-east-28892145)
 3. [RT](http://rt.com/news/line/2014-08-22/#68956)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77113000/jpg/_77113824_77113823.jpg)
 
 ### Related:
 

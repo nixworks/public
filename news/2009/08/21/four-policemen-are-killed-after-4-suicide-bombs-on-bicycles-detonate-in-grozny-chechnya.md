@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h1YFTKllBrWAHl21ZD7IxOBTgnsg)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/08/200982110295892226.html)
 3. [RIA Novosti](http://en.rian.ru/russia/20090821/155878305.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

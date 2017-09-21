@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez received on Tuesday Argentine President Cristin
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/12/chavez-and-cristina-sign-a-billion-usd-trade-agreement)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19794/200x200/fe9971bf7ae206ff19dcd8dc219a6b95.jpg)
 
 ### Related:
 

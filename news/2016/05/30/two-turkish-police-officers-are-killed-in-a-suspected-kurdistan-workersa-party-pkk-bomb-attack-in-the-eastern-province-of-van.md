@@ -8,6 +8,7 @@ Two police officers were killed on May 30 in an outlawed Kurdistan Workers’ Pa
 ### Source:
 
 1. [Hurriyet Daily](http://www.hurriyetdailynews.com/two-police-officers-killed-in-pkk-bomb-attack-in-turkeys-east.aspx?pageID=238&nID=99838&NewsCatID=341)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201605/n_99838_1.jpg)
 
 ### Related:
 

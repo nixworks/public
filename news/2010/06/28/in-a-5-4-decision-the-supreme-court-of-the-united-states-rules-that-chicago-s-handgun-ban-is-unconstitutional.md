@@ -8,6 +8,7 @@ The US Supreme Court restricts the rights of state and city governments to enfor
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10438332.stm)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

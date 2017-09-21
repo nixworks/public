@@ -8,6 +8,7 @@ The mainly Mormon US state of Utah becomes the first to declare pornography to b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-36088194)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12C2/production/_89320840_89320836.jpg)
 
 ### Related:
 

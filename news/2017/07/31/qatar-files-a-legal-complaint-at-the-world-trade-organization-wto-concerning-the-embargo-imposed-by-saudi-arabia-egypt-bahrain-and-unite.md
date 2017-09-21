@@ -9,6 +9,7 @@
 
 1. [Financial Times](https://www.ft.com/content/b52e9ade-7634-11e7-90c0-90a9d1bc9691)
 2. [Reuters](http://www.reuters.com/article/us-gulf-qatar-wto-exclusive-idUSKBN1AG1WJ)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170731&t=2&i=1195210504&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6U17C)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### Source:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/suspected-rebels-kill-indian-soldiers-ambush-kashmir-40125271)
+1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 
@@ -19,5 +20,5 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 6. [ Violent protests over the Amarnath shrine immobilize Srinagar and other parts of Indian Jammu and Kashmir. ](/news/2008/06/25/violent-protests-over-the-amarnath-shrine-immobilize-srinagar-and-other-parts-of-indian-jammu-and-kashmir.md) _Context: Jammu and Kashmir, Srinagar_
 7. [ Protests break out in Srinagar, Jammu and Kashmir, India, over the caricatures of Grand Ayatollah Ali Khamenei in a local newspaper. ](/news/2007/11/9/protests-break-out-in-srinagar-jammu-and-kashmir-india-over-the-caricatures-of-grand-ayatollah-ali-khamenei-in-a-local-newspaper.md) _Context: Jammu and Kashmir, Srinagar_
 8. [ The Jammu and Kashmir police arrest nine suspected Jaish-e-Mohammed members in connection with the grenade attacks that shook Srinagar killing five and injuring 40 others. ](/news/2006/04/15/the-jammu-and-kashmir-police-arrest-nine-suspected-jaish-e-mohammed-members-in-connection-with-the-grenade-attacks-that-shook-srinagar-kill.md) _Context: Jammu and Kashmir, Srinagar_
-9. [Six people are killed in clashes between protesters and police near Srinagar in the disputed region of Kashmir Valley, during a by-election for a vacant seat in the Indian Lok Sabha. ](/news/2017/04/9/six-people-are-killed-in-clashes-between-protesters-and-police-near-srinagar-in-the-disputed-region-of-kashmir-valley-during-a-by-election.md) _Context: Srinagar_
-10. [Suspected Maoist insurgents kill at least 24 Central Reserve Police Force (CRPF) officers in the Sukma district of Chhattisgarh, India. ](/news/2017/04/24/suspected-maoist-insurgents-kill-at-least-24-central-reserve-police-force-crpf-officers-in-the-sukma-district-of-chhattisgarh-india.md) _Context: Central Reserve Police Force_
+9. [ Indian policemen and soldiers of the Indian Army recover 300&nbsp;kg of RDX from a grocery store near the southern Kashmir town of Anantnag, 55&nbsp;km from Srinagar. This is the biggest ever explosive haul in the state of Jammu and Kashmir. ](/news/2004/11/20/indian-policemen-and-soldiers-of-the-indian-army-recover-300-nbsp-kg-of-rdx-from-a-grocery-store-near-the-southern-kashmir-town-of-anantnag.md) _Context: Jammu and Kashmir, Srinagar_
+10. [Six people are killed in clashes between protesters and police near Srinagar in the disputed region of Kashmir Valley, during a by-election for a vacant seat in the Indian Lok Sabha. ](/news/2017/04/9/six-people-are-killed-in-clashes-between-protesters-and-police-near-srinagar-in-the-disputed-region-of-kashmir-valley-during-a-by-election.md) _Context: Srinagar_

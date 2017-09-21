@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/david-letterman-makes-big-announcement/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/04/03/1ac29aa8-1359-453c-8ea1-8273ab5f0392/letterman4.jpg)
 
 ### Related:
 

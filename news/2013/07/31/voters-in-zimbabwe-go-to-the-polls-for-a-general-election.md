@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Sun Daily](http://www.thesundaily.my/news/784966)
+1. [Cover Image](http://www.thesundaily.my/sites/default/files/thesun/Catalogue/2013-07-30T__c784965_13731_375.jpg)
 
 ### Related:
 

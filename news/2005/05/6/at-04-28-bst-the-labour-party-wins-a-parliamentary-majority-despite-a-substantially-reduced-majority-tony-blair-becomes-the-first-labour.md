@@ -13,6 +13,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 4. [Guardian](http://politics.guardian.co.uk/election/story/0,15803,1478473,00.html)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8406090)
 6. [Scotsman](http://news.scotsman.com/latest.cfm?id=4515511)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

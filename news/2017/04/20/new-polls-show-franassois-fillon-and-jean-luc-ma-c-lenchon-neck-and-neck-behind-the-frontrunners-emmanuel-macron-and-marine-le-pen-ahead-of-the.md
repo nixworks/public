@@ -9,6 +9,7 @@ Hard-left presidential challenger Jean-Luc Melenchon and conservative Francois F
 
 1. [Reuters](http://www.reuters.com/article/us-france-election-idUSKBN17M16V?il=0)
 2. [Reuters](http://www.reuters.com/article/us-france-election-villepin-idUSKBN17M28Z?il=0)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170420&t=2&i=1181332581&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3J0LQ)
 
 ### Related:
 

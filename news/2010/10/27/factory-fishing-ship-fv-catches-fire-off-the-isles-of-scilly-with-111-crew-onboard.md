@@ -9,3 +9,4 @@ Nearly 100 people on board a fishing ship which is on fire 230 miles south-west 
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-cornwall-11633974)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/27/uk.ship.rescue/index.html?eref=edition)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

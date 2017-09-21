@@ -8,6 +8,7 @@ US secretary of state says there must be continued international pressure on Ira
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201111001643752596.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/11/2010121161053621360_20.jpg)
 
 ### Related:
 

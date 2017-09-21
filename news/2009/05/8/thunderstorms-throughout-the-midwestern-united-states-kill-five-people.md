@@ -8,6 +8,7 @@ Residents across the middle of the country began to clean up after storms splint
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/05/10/us/10storm.html?partner=rss&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

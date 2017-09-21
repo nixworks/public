@@ -10,6 +10,7 @@ Chinese hackers have pilfered classified documents from the India&rsquo;s securi
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/8605548.stm)
 2. [CBC](http://www.cbc.ca/canada/story/2010/04/06/cyber-espionage-research.html)
 3. [Times of India](http://timesofindia.indiatimes.com/world/us/Chinese-hackers-steal-secret-Indian-documents/articleshow/5767793.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

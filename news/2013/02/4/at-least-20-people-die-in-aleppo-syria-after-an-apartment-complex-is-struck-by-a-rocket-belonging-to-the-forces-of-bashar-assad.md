@@ -9,6 +9,7 @@ An airstrike by Syrian government forces leveled an apartment building in a&nbsp
 
 1. [NBC News](http://photoblog.nbcnews.com/_news/2013/02/04/16835047-report-syrian-airstrike-kills-20-in-rebel-held-aleppo)
 2. [Toronto Star](http://www.thestar.com/news/world/2013/02/03/at_least_20_civilians_killed_in_syria_as_rocket_levels_apartment.html)
+2. [Cover Image](http://msnbcmedia.msn.com/i/MSNBC/Components/Photo/_new/pb-130204-aleppo-da-04.jpg)
 
 ### Related:
 

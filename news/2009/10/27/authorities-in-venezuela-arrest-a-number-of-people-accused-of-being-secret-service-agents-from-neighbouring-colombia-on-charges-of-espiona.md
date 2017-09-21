@@ -10,6 +10,7 @@ Authorities in Venezuela arrested alleged Colombian intelligence officials who w
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8329042.stm)
 2. [Colombia Reports](http://colombiareports.com/colombia-news/news/6597-venezuela-announces-arrests-of-alleged-colombian-spies.html)
 3. [El Universal](http://english.eluniversal.com/2009/10/27/en_pol_esp_venezuela-announces_27A2958971.shtml)
+3. [Cover Image](http://www.colombiareports.co/wp-content/uploads/venezuelan_flag.jpg)
 
 ### Related:
 

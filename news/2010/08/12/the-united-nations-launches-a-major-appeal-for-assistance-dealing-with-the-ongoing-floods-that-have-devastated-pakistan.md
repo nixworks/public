@@ -14,6 +14,7 @@ Zardari meets flood victims after heavy criticism of decision to continue Europe
 5. [BBC](http://www.bbc.co.uk/news/world-south-asia-10960094)
 6. [Channel 4](http://www.channel4.com/news/articles/politics/international_politics/pakistanaposs+president+zardari+visits+floods/3741957)
 7. [The Guardian](http://www.guardian.co.uk/world/2010/aug/12/pakistan-president-flood-response-criticised)
+7. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

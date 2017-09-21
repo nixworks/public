@@ -8,6 +8,7 @@ Prime Minister Wen Jiabao lavishly praised Pakistan’s efforts to combat terror
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/12/20/world/asia/20pstan.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

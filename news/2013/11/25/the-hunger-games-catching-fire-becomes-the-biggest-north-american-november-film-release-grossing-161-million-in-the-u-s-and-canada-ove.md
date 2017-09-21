@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/the-hunger-games-catching-fire-scorches-with-1611-million-opening/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/11/24/34d6999f-d93b-4547-a65b-4e43fe56139b/ID_D19_08454_R3.jpg)
 
 ### Related:
 

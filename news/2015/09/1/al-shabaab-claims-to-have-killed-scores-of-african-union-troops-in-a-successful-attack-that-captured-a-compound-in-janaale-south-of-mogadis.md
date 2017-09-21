@@ -9,6 +9,7 @@ Residents say Somali armed group controls AMISOM base in Janaale, but African Un
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_SOMALIA_VIOLENCE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Al-Jazeera](http://www.aljazeera.com/news/2015/09/al-shabab-claims-scores-killed-attack-au-troops-150901041528125.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/1/20c25b9a3c654a408ce5d870c0217dd1_18.jpg)
 
 ### Related:
 

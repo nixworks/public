@@ -11,6 +11,7 @@ Beijing, Feb 20 (IANS) Hundreds of people gathered Sunday in Chinas major cities
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201122053957526278.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12517909)
 4. [Sify India](http://www.sify.com/news/protesters-gather-in-beijing-shanghai-news-international-lcurOdjfcii.html)
+4. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

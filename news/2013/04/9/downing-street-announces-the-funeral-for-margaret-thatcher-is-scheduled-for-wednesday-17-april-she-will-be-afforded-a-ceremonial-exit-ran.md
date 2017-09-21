@@ -12,6 +12,7 @@ Former Prime Minister Tony Blair criticises parties held to &quot;celebrate&quot
 3. [BBC](http://www.bbc.co.uk/news/uk-politics-22080238)
 4. [CNN via YouTube](http://www.youtube.com/watch?v=RQas4mTbgcQ)
 5. [The Guardian](http://www.guardian.co.uk/stage/2013/apr/09/thatcher-vote-by-billy-elliot-audience)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66870000/jpg/_66870893_66870892.jpg)
 
 ### Related:
 

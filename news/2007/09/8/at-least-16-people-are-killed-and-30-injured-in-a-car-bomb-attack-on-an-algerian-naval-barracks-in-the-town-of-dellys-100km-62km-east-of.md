@@ -9,6 +9,7 @@
 
 1. [AFP via Google](http://afp.google.com/article/ALeqM5gzCTyHCzYMmRuSfcYKYhiBJWSNYg)
 2. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-29419120070909)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1678733&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2007-09-09T084533Z_01_NOOTR_RTRMDNC_0_India-294191-1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Stock markets worldwide plunged on Thursday amid fears of a new global economic 
 
 1. [BBC](http://www.bbc.co.uk/news/business-14414669)
 2. [SBS](http://www.sbs.com.au/news/article/1575610/Global-markets-plunge-on-recession-fears)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/3/7/3715_wall-street-110805-getty.jpg)
 
 ### Related:
 

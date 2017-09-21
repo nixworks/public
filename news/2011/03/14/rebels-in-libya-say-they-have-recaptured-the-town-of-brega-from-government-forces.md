@@ -15,6 +15,7 @@ Forces loyal to Muammar Gaddafi launched air strikes on Monday on the rebel-held
 6. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72D00X20110314?sp=true)
 7. [Reuters](http://www.reuters.com/article/2011/03/14/us-libya-east-strikes-idUSTRE72D2NB20110314)
 8. [West Australian'' via Yahoo News](http://au.news.yahoo.com/thewest/a/-/world/9010416/gaddafi-forces-defeat-rebels-in-western-libyan-town/)
+8. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

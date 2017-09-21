@@ -8,6 +8,7 @@ The longest solar eclipse of the 21st century cast a shadow over much of Asia, p
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/07/22/2632624.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1364086-1x1-700x700.jpg)
 
 ### Related:
 

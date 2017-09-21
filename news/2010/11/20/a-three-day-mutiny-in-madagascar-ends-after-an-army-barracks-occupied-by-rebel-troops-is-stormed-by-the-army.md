@@ -9,6 +9,7 @@ Madagascan troops storm an army barracks and arrest an estimated 20 rebellious o
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/2010112014317406160.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11803740)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

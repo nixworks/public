@@ -8,6 +8,7 @@ A judge rules there is not enough evidence to justify arresting Lee Jae-yong for
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-38660128)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/9137/production/_93657173_mediaitem93657172.jpg)
 
 ### Related:
 

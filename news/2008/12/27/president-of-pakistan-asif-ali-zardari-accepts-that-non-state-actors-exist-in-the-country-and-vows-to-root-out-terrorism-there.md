@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSISL40672920081227?feedType=RSS&feedName=worldNews&rpc=69)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20081227&t=2&i=7663968&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-12-27T221617Z_01_BTRE4BQ1PV900_RTROPTP_0_PAKISTAN-BHUTTO)
 
 ### Related:
 

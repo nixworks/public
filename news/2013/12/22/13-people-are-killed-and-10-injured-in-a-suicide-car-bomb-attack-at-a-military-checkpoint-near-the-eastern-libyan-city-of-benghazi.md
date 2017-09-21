@@ -9,6 +9,7 @@ BENGHAZI, Libya -- A suicide car bombing at a security checkpoint in eastern Lib
 
 1. [Financial Times](http://www.ft.com/cms/s/0/56b2d5be-6aea-11e3-8e33-00144feabdc0.html#axzz2oEOqbUTk)
 2. [Los Angeles Times](http://www.latimes.com/world/middleeast/la-fg-wn-libya-suicide-bombing-benghazi-20131222,0,5450900.story#axzz2oEY0kNVk)
+2. [Cover Image](http://www.trbimg.com/img-52b7147e/turbine/la-fg-wn-libya-suicide-bombing-benghazi-20131222)
 
 ### Related:
 

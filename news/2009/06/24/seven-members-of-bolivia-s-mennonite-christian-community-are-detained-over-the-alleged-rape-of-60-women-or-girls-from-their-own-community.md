@@ -9,6 +9,7 @@ Eight men from a Mennonite community in Bolivia have been arrested and accused o
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8117905.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE55M6VH20090623?feedType=RSS&feedName=worldNews)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

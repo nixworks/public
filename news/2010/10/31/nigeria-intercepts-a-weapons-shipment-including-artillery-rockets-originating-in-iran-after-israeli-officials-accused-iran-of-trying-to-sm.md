@@ -9,6 +9,7 @@ Confirmation comes after Israeli officials accuse Teheran of attempting to smugg
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/10/30/nigeria.smuggled.weapons/index.html?iref=NS1)
 2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=193335)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=151901)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-34599998)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/F255/production/_86273026_grayling.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ben Carson announced Friday he is suspending his presidential campaign after a s
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/2016-election/ben-carson-suspends-2016-campaign-cpac-n532056)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_09/1445926/160403-ben-carson-mn-1750_d72704f0e79125f5b96efc69723f67b9.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

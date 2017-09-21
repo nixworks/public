@@ -13,6 +13,7 @@ Israeli Air Force attacks the Palestinian Finance Ministry building in Gaza City
 4. [Mediafax](http://www.mediafax.ro/english/articole-free/Israel-Targets-Hamas-Economy-Ministry--Gaza-Militant-516702-9.html)
 5. [Reuters](http://in.today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-07-15T140958Z_01_NOOTR_RTRJONC_0_India-259653-2.xml&archived=False)
 6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3275845,00.html)
+6. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

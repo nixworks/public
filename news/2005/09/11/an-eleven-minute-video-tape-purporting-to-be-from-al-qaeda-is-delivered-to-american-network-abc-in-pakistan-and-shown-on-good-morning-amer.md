@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [ABC News](http://abcnews.go.com/GMA/Investigation/story?id=1115448&page=1)
 2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1126405205421)
 3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-09-11T193328Z_01_EIC146603_RTRIDST_0_NEWS-SECURITY-THREAT-DC.XML&archived=False)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

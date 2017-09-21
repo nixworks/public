@@ -8,6 +8,7 @@ A failed Syrian asylum seeker blows himself up and injures 15 other people with 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36880758)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/16148/production/_90504409_mediaitem90504408.jpg)
 
 ### Related:
 

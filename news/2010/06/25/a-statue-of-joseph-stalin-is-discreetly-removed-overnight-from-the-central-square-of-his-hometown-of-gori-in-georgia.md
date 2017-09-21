@@ -10,6 +10,7 @@ A statue of Stalin has been taken down in Georgia, putting him in the company of
 1. [BBC](http://news.bbc.co.uk/2/hi/world/10412337.stm)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jun/25/georgia-gori-topples-joseph-stalin-statue)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/25/c_13369815.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Saudi-led military coalition announced a five-day humanitarian cease-fire in Y
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/saudi-led-coalition-declares-five-day-humanitarian-truce-in-yemen-1437838074)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-JO139_yemen0_TOP_20150725111735.jpg)
 
 ### Related:
 

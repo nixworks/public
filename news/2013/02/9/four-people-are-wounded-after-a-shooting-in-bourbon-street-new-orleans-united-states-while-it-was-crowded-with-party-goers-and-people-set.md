@@ -10,6 +10,7 @@ The New Orleans police said they were seeking three men in the shooting, which l
 1. [AP via ''The New York Times](http://www.nytimes.com/2013/02/11/us/4-shot-on-bourbon-street-during-mardi-gras-countdown.html)
 2. [Huffington Post](http://www.huffingtonpost.com/2013/02/10/bourbon-street-shooting-2_n_2657016.html)
 3. [Reuters](http://www.reuters.com/article/2013/02/10/us-usa-crime-neworleans-idUSBRE91902C20130210)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

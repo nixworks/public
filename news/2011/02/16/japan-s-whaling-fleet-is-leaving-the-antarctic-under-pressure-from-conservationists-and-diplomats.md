@@ -9,6 +9,7 @@ Japan&#039;s whaling fleet is believed to be quitting the Antarctic under heavy 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12477398)
 2. [Sydney Morning Herald](http://www.smh.com.au/environment/whale-watch/japan-to-quit-antarctic-whaling-20110216-1aw0k.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/c/s/j/v/image.related.articleLeadwide.620x349.1aw0k.png/1297826950780.jpg)
 
 ### Related:
 

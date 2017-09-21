@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Evening Herald](http://www.herald.ie/entertainment/around-town/the-tweet-hits-the-fan-rte-3318652.html)
+1. [Cover Image](http://www.herald.ie/editorial/facebook_share_logos/herald.png)
 
 ### Related:
 

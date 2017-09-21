@@ -8,6 +8,7 @@ Four people have been killed in out-of-control bushfires on WA&#039;s south coas
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-11-18/west-australian-bushfires-live-blog/6950164)
+1. [Cover Image](http://www.abc.net.au/news/image/6951536-1x1-700x700.jpg)
 
 ### Related:
 

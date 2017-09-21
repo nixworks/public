@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/32968774-4B27-4A5B-9C72-B0B382948A24.htm)
 2. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nL01290436&imageid=&cap=)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

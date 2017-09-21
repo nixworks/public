@@ -12,6 +12,7 @@ Greeks have been voting today on whether or not to accept the proposals put to t
 3. [Sky News](http://www.skynews.com.au/news/top-stories/2015/07/05/split-greece-teeters-on-brink.html)
 4. [The Guardian](http://www.theguardian.com/world/ng-interactive/2015/jul/05/live-results-greek-referendum)
 5. [To Vima](http://www.tovima.gr/en/article/?aid=719819)
+5. [Cover Image](https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/7/6/1436170968258/346fe3e5-582d-46dc-933f-45da58b78089-620x372.gif)
 
 ### Related:
 

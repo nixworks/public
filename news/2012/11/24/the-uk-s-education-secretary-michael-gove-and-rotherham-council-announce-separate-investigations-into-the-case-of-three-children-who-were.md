@@ -8,6 +8,7 @@ Education Secretary Michael Gove and Rotherham Council are to investigate separa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20476654)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58693000/jpg/_58693957_boyrainywindowanonthinkstoc.jpg)
 
 ### Related:
 

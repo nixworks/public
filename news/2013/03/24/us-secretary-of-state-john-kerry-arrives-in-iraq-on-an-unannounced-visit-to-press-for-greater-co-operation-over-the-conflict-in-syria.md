@@ -8,6 +8,7 @@ US Secretary of State John Kerry says it is problematic that Iranian planes with
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21915710)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66579000/jpg/_66579480_66579479.jpg)
 
 ### Related:
 

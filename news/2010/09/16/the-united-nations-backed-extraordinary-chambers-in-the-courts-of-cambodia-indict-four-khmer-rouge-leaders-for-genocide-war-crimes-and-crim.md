@@ -9,6 +9,7 @@
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/four-krouge-leaders-indicted-for-genocide-war-crimes-20100916-15dua.html)
 2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gK9sgkFoD2k7A60oWQUYZfATwO_Q)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

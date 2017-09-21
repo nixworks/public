@@ -8,6 +8,7 @@ A suicide bomber kills at least eight military officers in an attack on an air f
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-28122198#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75985000/jpg/_75985248_75985247.jpg)
 
 ### Related:
 

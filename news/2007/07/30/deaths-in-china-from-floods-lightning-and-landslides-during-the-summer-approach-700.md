@@ -8,6 +8,7 @@ Deaths from floods, lightning and landslides across China this summer have reach
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSPEK28461320070730?feedType=RSS)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070730&t=2&i=1211567&w=&fh=545px&fw=&ll=&pl=&sq=&r=1211567)
 
 ### Related:
 

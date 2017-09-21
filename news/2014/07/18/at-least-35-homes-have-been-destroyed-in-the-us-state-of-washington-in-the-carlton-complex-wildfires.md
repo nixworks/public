@@ -8,6 +8,7 @@ Officials say at least 35 homes have been destroyed by the Carlton Complex wildf
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/news/us-news/least-35-homes-burn-washington-state-n159586)
+1. [Cover Image](http://media2.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/f_os_wawildfre_140718.jpg)
 
 ### Related:
 

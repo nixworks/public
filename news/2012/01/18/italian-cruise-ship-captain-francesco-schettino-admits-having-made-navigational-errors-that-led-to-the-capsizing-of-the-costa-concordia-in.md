@@ -8,6 +8,7 @@ The captain of the cruise ship that capsized on Friday, Francesco Schettino, has
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16620807)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57971000/jpg/_57971745_013744868-1.jpg)
 
 ### Related:
 

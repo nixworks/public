@@ -8,6 +8,7 @@ Brodie Clark, the head of the UK Border Force, leaves his job after being blamed
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15648367)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56494000/jpg/_56494384_013282021-1.jpg)
 
 ### Related:
 

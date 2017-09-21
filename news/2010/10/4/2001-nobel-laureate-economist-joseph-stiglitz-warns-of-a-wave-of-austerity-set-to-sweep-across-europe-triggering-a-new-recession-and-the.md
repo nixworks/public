@@ -8,6 +8,7 @@ Nobel laureate economist Joseph Stiglitz has warned a &quot;wave of austerity&qu
 ### Source:
 
 1. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/top-economist-warns-of-european-wave-of-austerity-20101004-1631p.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

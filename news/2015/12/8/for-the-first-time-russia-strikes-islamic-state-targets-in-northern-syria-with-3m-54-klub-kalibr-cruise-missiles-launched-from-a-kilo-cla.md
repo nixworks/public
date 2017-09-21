@@ -10,6 +10,7 @@ Russia has, for the first time, targeted Islamic State targets in Syria with Kal
 1. [CBS News via Hawaii News Now](http://www.hawaiinewsnow.com/story/30700866/rebels-in-homs-agree-to-deal-with-syrias-assad-regime)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-3351550/Life-slow-return-shattered-Syrian-city-Homs.html)
 3. [RT](https://www.rt.com/news/325143-russia-strikes-isis-submarine/)
+3. [Cover Image](https://img.rt.com/files/2015.12/article/56672db8c461887f058b458b.jpg)
 
 ### Related:
 

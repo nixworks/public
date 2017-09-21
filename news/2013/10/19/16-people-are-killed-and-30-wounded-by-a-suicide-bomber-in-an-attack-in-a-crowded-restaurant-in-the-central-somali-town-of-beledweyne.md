@@ -8,6 +8,7 @@ A suicide bomber killed at least 16 people on Saturday in an attack on a cafe in
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/10/19/uk-somalia-bomb-idUKBRE99I02V20131019)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131019&t=2&i=804381305&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99I193O00)
 
 ### Related:
 

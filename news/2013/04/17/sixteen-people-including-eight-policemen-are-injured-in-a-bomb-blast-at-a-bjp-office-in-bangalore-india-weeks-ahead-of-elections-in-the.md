@@ -8,6 +8,7 @@ Sixteen people are injured in an explosion near the office of a political party 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22178745)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67053000/jpg/_67053209_blastbangalore.jpg)
 
 ### Related:
 

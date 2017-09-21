@@ -8,6 +8,7 @@ BOSTON (Reuters) - A 220-year-old time capsule containing coins, documents and o
 ### Source:
 
 1. [Reuters via Yahoo! News](http://news.yahoo.com/bridge-past-massachusetts-opens-220-old-time-capsule-003046927.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/ApCvRgFyoKhXeo2_DHvsuw--/aD0zNjA7dz02NDA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/video/video.cbsboston.com/1d29dc24a10a1d2035d33ae5f774193b)
 
 ### Related:
 

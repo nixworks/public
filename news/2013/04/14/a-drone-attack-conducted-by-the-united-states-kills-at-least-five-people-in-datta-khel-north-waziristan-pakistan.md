@@ -10,6 +10,7 @@
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57579525/pakistani-officials-suspected-u.s-drone-strike-kills-4/)
 2. [CNN](http://www.cnn.com/2013/04/14/world/asia/pakistan-drone-strike/)
 3. [NBC News](http://worldnews.nbcnews.com/_news/2013/04/14/17748135-suspected-us-drone-strike-kills-5-in-pakistan)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Indonesian anti-terror police shoot dead five men suspected of planning robberie
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17425336)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59160000/jpg/_59160748_97w8it6k.jpg)
 
 ### Related:
 

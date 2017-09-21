@@ -9,6 +9,7 @@ The group were also allegedly smoking in a no-smoking area.
 
 1. [Miami Herald](http://www.miamiherald.com/news/nation-world/national/article81110747.html)
 2. [Newsweek](http://www.newsweek.com/meat-wielding-neo-nazis-attack-georgian-vegan-cafe-465046)
+2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/05/31/kiwi-cafe.jpg)
 
 ### Related:
 

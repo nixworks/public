@@ -10,6 +10,7 @@ To mark Canada’s 150th birthday, CBC has launched a national storytelling proj
 1. [Billboard](http://www.billboard.com/news/kiss-genesis-chili-peppers-among-nominees-1004014961.story)
 2. [CBC](http://www.cbc.ca/arts/music/story/2009/09/23/rock-hall-fame-nominees.html?ref=rss)
 3. [Rolling Stone](http://www.rollingstone.com/rockdaily/index.php/2009/09/23/red-hot-chili-peppers-ll-cool-j-kiss-lead-2010-rock-and-roll-hall-of-fame-nominees/)
+3. [Cover Image](https://i.cbc.ca/1.4005137.1488395527!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/what-s-your-story-collage.jpg)
 
 ### Related:
 

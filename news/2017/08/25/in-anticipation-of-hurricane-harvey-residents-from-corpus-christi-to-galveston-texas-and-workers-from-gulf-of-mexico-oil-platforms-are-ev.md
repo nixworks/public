@@ -11,6 +11,7 @@ Hurricane Harvey intensified early on Friday, spinning into potentially the bigg
 2. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/250235.shtml)
 3. [Reuters](https://www.reuters.com/article/us-global-oil-idUSKCN1B503E?il=0)
 4. [Reuters](https://www.reuters.com/article/us-storm-harvey-nhc-idUSKCN1B409K)
+4. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20170825&t=2&i=1198498646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7N1TA)
 
 ### Related:
 

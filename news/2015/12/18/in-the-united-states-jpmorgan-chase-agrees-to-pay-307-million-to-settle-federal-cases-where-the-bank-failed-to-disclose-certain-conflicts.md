@@ -9,6 +9,7 @@ JPMorgan Chase willpay $307 million to settle two U.S. government cases thatchar
 
 1. [Huffington Post](http://www.huffingtonpost.com/entry/jpmorgan-chase-fines_56744228e4b0b958f6566bda)
 2. [Reuters](http://in.reuters.com/article/jpmorgan-sec-settlement-idINL1N1471LF20151218)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

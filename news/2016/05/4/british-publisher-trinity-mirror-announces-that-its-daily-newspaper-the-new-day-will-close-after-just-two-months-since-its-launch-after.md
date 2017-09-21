@@ -8,6 +8,7 @@ Publisher Trinity Mirror to announce closure of experimental national newspaper 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/media/2016/may/04/new-day-newspaper-shut-two-months-launch-trinity-mirror)
+1. [Cover Image](https://i.guim.co.uk/img/media/da64605af47068dc5a6c0b6b21d1bb5c8eca5a18/72_52_2891_1735/2891.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0cc25e7de7ae854c568eeb57dd1d6deb)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Prominent Egyptian blogger Abdel Kareem Nabil Soliman is released from jail afte
 
 1. [Al-Masry Al-Youm](http://www.almasryalyoum.com/en/news/egyptian-blogger-free-after-4-years-jail)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11789637)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

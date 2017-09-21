@@ -11,6 +11,7 @@ Nelson Mandela enjoys a thunderous greeting from thousands of fans as he attends
 2. [BBC News](http://news.bbc.co.uk/2/hi/world/africa/10589713.stm)
 3. [Calcutta Telegraph](http://www.telegraphindia.com/1100712/jsp/sports/story_12673363.jsp)
 4. [Mail & Guardian](http://www.mg.co.za/article/2010-07-11-mandela-in-the-house-at-world-cup-signoff)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

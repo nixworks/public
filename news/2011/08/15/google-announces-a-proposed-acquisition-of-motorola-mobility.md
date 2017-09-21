@@ -8,6 +8,7 @@ Connect to the most current information on stocks and bonds on Reuters.com. Fina
 ### Source:
 
 1. [Reuters](http://www.reuters.com/finance/stocks/GOOG.O/key-developments)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

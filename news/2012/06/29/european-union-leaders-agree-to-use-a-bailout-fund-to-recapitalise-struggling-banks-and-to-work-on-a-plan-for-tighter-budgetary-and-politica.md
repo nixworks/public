@@ -9,6 +9,7 @@ Leaders also agreed to recapitalize struggling banks without making governments 
 
 1. [AP via ''USA Today](http://www.usatoday.com/money/world/story/2012-06-28/eurozone-leaders-emergency-measures/55903702/1)
 2. [CNN](http://money.cnn.com/2012/06/29/investing/stocks-markets/index.htm?hpt=hp_t2)
+2. [Cover Image](http://i.usatoday.net/money/_photos/2012/06/28/European-leaders-agree-to-long-term-union-ND1P52BS-x.jpg)
 
 ### Related:
 

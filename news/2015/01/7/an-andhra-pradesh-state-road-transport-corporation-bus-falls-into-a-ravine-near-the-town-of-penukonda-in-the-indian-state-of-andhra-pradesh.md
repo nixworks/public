@@ -8,6 +8,7 @@
 ### Source:
 
 1. [DNA](http://www.dnaindia.com/india/report-at-least-20-feared-dead-in-bus-mishap-in-andhra-pradesh-2050399)
+1. [Cover Image](http://static.dnaindia.com/sites/default/files/2015/01/07/299348-road-accident.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The leaders of China and Japan hold formal talks on the sidelines of a major Asi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-29983537)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/78877000/jpg/_78877175_458728004.jpg)
 
 ### Related:
 

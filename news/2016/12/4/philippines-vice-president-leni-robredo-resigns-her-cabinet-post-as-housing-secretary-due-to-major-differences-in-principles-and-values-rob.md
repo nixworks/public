@@ -8,6 +8,7 @@ MANILA, Philippines (AP) — There was no immediate reaction Monday from Philipp
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/ab33541b234f44d79de556e1331e2917/philippines-vice-president-quit-cabinet-stay-vp)
+1. [Cover Image](http://binaryapi.ap.org/47959fd2c26941178f14ddc2eabea409/460x.jpg)
 
 ### Related:
 

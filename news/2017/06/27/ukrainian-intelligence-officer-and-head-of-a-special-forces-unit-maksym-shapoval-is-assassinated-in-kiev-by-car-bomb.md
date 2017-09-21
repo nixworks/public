@@ -9,6 +9,7 @@ Analysts believe the attack could be connected to the Russian-backed insurgency 
 
 1. [BBC](http://www.bbc.com/news/world-europe-40420339)
 2. [The Guardian](https://www.theguardian.com/world/2017/jun/27/ukraine-colonel-maksim-shapoval-killed-car-bomb-kiev)
+2. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p0573ghk.jpg)
 
 ### Related:
 

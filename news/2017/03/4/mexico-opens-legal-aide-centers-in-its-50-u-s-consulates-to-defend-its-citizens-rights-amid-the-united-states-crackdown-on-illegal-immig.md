@@ -8,6 +8,7 @@ MIAMI — Not only is the Mexican government not building a wall; it’s spendin
 ### Source:
 
 1. [AP via ''The Toledo Blade](http://www.toledoblade.com/Nation/2017/03/03/Mexico-consulates-launch-effort-to-help-migrants.html)
+1. [Cover Image](/image/2017/03/03/Mexican-Immigrant-Centers.jpg)
 
 ### Related:
 

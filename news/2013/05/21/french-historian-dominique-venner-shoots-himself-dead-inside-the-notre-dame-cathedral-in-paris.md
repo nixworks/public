@@ -8,6 +8,7 @@ A far-right historian shoots himself dead inside the cathedral of Notre-Dame de 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22614994)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67737000/jpg/_67737446_67737445.jpg)
 
 ### Related:
 

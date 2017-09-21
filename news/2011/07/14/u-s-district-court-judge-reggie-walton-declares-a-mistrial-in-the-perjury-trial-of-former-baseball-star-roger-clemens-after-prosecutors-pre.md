@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://espn.go.com/mlb/story/_/id/6768625/roger-clemens-trial-judge-declares-mistrial)
+1. [Cover Image](http://a.espncdn.com/combiner/i?img=%2Fi%2Fheadshots%2Fmlb%2Fplayers%2Ffull%2F1427.png)
 
 ### Related:
 

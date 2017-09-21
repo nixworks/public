@@ -8,6 +8,7 @@ Ken Wyatt is the country&#039;s first Indigenous person into the Commonwealth mi
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2017-01-24/ken-wyatt-to-be-sworn-in-as-first-indigenous-minister/8207676)
+1. [Cover Image](http://www.abc.net.au/news/image/8208540-1x1-700x700.jpg)
 
 ### Related:
 

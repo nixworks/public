@@ -8,6 +8,7 @@ North Korea fires three ballistic missiles into the sea off its east coast, Sout
 ### Source:
 
 1. [Reuters via ABC News](http://www.abc.net.au/news/2016-09-05/north-korea-fires-three-ballistic-missiles-into-sea-south-korea/7815756)
+1. [Cover Image](http://www.abc.net.au/news/image/7816006-1x1-700x700.jpg)
 
 ### Related:
 

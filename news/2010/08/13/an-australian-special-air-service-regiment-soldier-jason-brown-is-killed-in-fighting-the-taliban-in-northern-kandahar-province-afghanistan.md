@@ -8,6 +8,7 @@ Afghanistan is back in the spotlight with the death of another Australian soldie
 ### Source:
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/afghanistan-is-back-on-gillards-agenda-20100813-122xe.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

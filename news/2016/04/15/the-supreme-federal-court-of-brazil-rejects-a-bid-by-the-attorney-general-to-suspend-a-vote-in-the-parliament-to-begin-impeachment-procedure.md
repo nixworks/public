@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-04-15-LT--Brazil-Political%20Crisis/id-317fc9e21dab465eb5e047ddb7c4cf48)
 2. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0XB1XH)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160415&t=2&i=1132972574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3E0PD)
 
 ### Related:
 

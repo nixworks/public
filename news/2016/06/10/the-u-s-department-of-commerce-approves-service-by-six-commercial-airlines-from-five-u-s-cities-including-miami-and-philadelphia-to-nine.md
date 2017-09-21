@@ -8,6 +8,7 @@ Flights from Miami and Fort Lauderdale figure heavily in new commercial service.
 ### Source:
 
 1. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/cuba/article83024922.html)
+1. [Cover Image](http://www.miamiherald.com/news/nation-world/world/americas/cuba/1ott3o/picture83069857/ALTERNATES/LANDSCAPE_1140/IMG_5937FX)
 
 ### Related:
 

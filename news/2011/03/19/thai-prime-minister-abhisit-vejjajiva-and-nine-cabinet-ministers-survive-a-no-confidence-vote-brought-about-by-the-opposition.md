@@ -9,6 +9,7 @@ Abhisit Vejjajiva defeats censure motion bought by opposition on grounds of corr
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/03/20113194843541330.html)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/183683.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/19/201131943447477580_20.jpg)
 
 ### Related:
 

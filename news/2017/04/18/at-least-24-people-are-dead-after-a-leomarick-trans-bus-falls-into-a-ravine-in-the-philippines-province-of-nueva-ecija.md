@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/167237-dead-nueva-ecija-bus-crash)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/7393374BA30243099448FB7EEF03D300/bus-accident-nueva-ecija-april-18-2017.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Security forces pulled back after seizing control of a large section of the squa
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/12/12/world/europe/police-storm-kiev-square-as-crisis-grows.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/12/11/world/11ukraine1/11ukraine1-videoSixteenByNine1050-v4.jpg)
 
 ### Related:
 

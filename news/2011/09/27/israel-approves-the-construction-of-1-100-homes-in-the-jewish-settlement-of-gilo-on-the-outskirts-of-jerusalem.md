@@ -8,6 +8,7 @@ Israel approves the construction of 1,100 homes in the Jewish settlement of Gilo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15080160)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

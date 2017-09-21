@@ -9,6 +9,7 @@ The suspect posted anti-police rants on Instagram before the fatal shooting.
 
 1. [AP via CBS](http://baltimore.cbslocal.com/2014/12/20/baltimore-man-shoots-2-nypd-officer-1-dead-second-in-critical-condition/)
 2. [CNN](http://www.cnn.com/2014/12/20/us/new-york-police-officers-shot/)
+2. [Cover Image](https://cbsbaltimore.files.wordpress.com/2014/12/brooklynofficerskilled2.jpg?w=625)
 
 ### Related:
 

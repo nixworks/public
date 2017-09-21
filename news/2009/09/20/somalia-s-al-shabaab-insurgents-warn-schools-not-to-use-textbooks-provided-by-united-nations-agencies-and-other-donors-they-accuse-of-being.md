@@ -11,6 +11,7 @@ Somalia&#039;s hardline al Shabaab insurgents have warned schools not to use tex
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20090920110936634C756282)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/somalia/6211720/Somali-insurgents-warn-schools-not-to-use-UN-textbooks.html)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/20/AR2009092000312.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01119/somalia_1119345a.jpg)
 
 ### Related:
 

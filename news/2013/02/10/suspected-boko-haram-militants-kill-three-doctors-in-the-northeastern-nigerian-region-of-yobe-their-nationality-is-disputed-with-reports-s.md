@@ -9,6 +9,7 @@ Three doctors - reportedly from North Korea - have been killed in an attack in t
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/02/201321095257350730.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21400330)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65805000/gif/_65805033_nigeria_potiskum_0213.gif)
 
 ### Related:
 

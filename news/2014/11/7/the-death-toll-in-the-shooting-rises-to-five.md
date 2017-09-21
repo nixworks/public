@@ -8,3 +8,4 @@ Andrew Fryberg, 15, died Friday from critical head injuries in the Marysville-Pi
 ### Source:
 
 1. [King5](http://www.king5.com/story/news/local/marysville-shooting/2014/11/08/marysville-shooting-victim-andrew-fryberg/18681377/)
+1. [Cover Image](http://content.king5.com/photo/2014/11/07/635509951897074466-andrewfryberg_3069215_ver1.0.jpg)

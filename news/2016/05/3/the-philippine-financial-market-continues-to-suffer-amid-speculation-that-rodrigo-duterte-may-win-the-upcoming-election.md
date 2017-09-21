@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-03/the-philippine-election-could-shake-up-rising-tiger-s-economy)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWe6vfkVfhL4/v3/1200x813.jpg)
 
 ### Related:
 

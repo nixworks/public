@@ -9,6 +9,7 @@ An HIV-positive person can reduce the risk of spreading the virus to uninfected 
 
 1. [BBC](http://www.bbc.co.uk/news/health-13381292)
 2. [Mail & Guardian](http://mg.co.za/article/2011-05-12-early-treatment-breakthrough-in-hiv-research)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52689000/gif/_52689818_c0078971-hiv_capsid_release.gif)
 
 ### Related:
 

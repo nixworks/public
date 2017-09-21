@@ -8,6 +8,7 @@ A fire breaks out in a hospital in southern Japan early on Friday, killing eight
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24487015)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70414000/jpg/_70414820_70414819.jpg)
 
 ### Related:
 

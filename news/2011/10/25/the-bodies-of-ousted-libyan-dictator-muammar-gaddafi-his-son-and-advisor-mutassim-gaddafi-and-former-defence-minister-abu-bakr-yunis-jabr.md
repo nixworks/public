@@ -8,6 +8,7 @@ The bodies of former Libyan leader Muammar Gaddafi, his son and defence minister
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15441867)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56286000/jpg/_56286210_56286209.jpg)
 
 ### Related:
 

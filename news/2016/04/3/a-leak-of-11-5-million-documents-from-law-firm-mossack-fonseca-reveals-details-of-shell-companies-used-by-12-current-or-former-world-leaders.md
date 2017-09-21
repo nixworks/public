@@ -10,6 +10,7 @@ Guardian analysis of leaked papers will show how influential people including he
 1. [ABC News via 9MSN](http://www.msn.com/en-au/news/world/vladimir-putin-associates-jackie-chan-identified-in-unprecedented-leak-of-offshore-financial-records/ar-BBriy6Y?li=AAgfIYZ&ocid=UP94DHP)
 2. [The Guardian](http://www.theguardian.com/news/2016/apr/03/the-panama-papers-how-the-worlds-rich-and-famous-hide-their-money-offshore)
 3. [USA Today](http://www.usatoday.com/story/news/2016/04/03/panama-papers-explainer-what-you-should-know/82591116/)
+3. [Cover Image](https://i.guim.co.uk/img/media/0f2201d770ce48d7dfc1571fb8cb22fd230b5f17/0_0_5333_3201/5333.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8aa54009bb7d4d4c70e56bfe0be8d06a)
 
 ### Related:
 

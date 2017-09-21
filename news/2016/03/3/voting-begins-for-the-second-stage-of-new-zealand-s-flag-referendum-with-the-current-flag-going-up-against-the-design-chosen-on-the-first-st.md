@@ -9,6 +9,7 @@ New Zealanders can now begin voting by post in the final stage of a referendum o
 
 1. [BBC](http://www.bbc.com/news/world-asia-35704127)
 2. [CNN](http://edition.cnn.com/2016/03/02/asia/new-zealand-flag-referendum/index.html?eref=edition)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5EB3/production/_88534242_gettyimages-501268078.jpg)
 
 ### Related:
 

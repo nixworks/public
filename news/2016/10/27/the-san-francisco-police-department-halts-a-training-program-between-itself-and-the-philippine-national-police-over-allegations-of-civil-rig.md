@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/move-ph/balikbayan/150331-san-francisco-police-pnp-drug-war)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/7CA8D535F0D547A38F820C86138B6DAD/sfpd-pnp-20161026.jpg)
 
 ### Related:
 

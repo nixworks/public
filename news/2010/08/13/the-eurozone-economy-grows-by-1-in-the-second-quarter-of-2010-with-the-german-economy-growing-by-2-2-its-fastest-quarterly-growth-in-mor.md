@@ -11,6 +11,7 @@ Figures show strongest quarterly increase in GDP since reunification in 1990.
 2. [Aljazeera](http://english.aljazeera.net/business/2010/08/2010813132536729224.html)
 3. [BBC](http://www.bbc.co.uk/news/business-10962017)
 4. [MarketWatch](http://www.marketwatch.com/story/euro-zone-second-quarter-gdp-up-1-tops-forecast-2010-08-13)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

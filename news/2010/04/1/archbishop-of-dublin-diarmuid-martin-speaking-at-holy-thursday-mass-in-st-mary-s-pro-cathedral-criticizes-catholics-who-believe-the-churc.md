@@ -8,6 +8,7 @@ Archbishop of Dublin Diarmuid Martin has criticised Catholics who say their chur
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0401/abuse.html)
+1. [Cover Image](https://img.rasset.ie/00030537-1600.jpg)
 
 ### Related:
 

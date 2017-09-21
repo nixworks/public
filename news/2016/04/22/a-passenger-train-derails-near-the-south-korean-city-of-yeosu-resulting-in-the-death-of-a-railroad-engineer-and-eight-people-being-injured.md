@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://news.trust.org/item/20160422034519-cqc7q)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/36e01ca8-1c3c-43dc-9838-827301521d90/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

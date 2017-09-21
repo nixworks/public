@@ -8,6 +8,7 @@ London band The Klaxons were the surprise winners of this year&#039;s Mercury Pr
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/05/2024440.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/661066-1x1-700x700.jpg)
 
 ### Related:
 

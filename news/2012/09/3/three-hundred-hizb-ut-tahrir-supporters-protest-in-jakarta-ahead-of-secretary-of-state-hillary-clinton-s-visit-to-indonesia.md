@@ -8,6 +8,7 @@ Sep. 3 - More than 300 people from a hardline Muslim group protest in front of t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/video/2012/09/03/hardline-muslims-protest-hillary-clinton?videoId=237454149&videoChannel=117760)
+1. [Cover Image](http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/x/9/4/h/cc92/reuters04?videoId=47521058)
 
 ### Related:
 

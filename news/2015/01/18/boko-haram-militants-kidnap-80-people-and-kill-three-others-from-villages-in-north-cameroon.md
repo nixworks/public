@@ -8,6 +8,7 @@ It is thought around 30 adults and 50 children have been taken by the extremist 
 ### Source:
 
 1. [Daily Mirror](http://www.mirror.co.uk/news/world-news/boko-haram-fighters-believed-kidnapped-5001347)
+1. [Cover Image](http://i4.mirror.co.uk/incoming/article4944770.ece/ALTERNATES/s1200/Nigerian-Islamist-extremist-group-Boko-Haram.jpg)
 
 ### Related:
 

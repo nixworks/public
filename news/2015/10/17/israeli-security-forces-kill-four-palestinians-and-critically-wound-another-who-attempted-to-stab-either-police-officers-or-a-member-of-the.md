@@ -9,6 +9,7 @@ Four Palestinians were killed by Israelis, and one critically wounded, after att
 
 1. [Abu Dhabi National](http://www.thenational.ae/world/middle-east/israel-kills-four-palestinians-amid-settler-violence)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/10/17/Four-Palestinians-killed-after-stabbing-attacks-in-Israel/9501445131704/?spt=hs&or=tn_int)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/9501445131704/2015/1/c447589813e35c47a47a1124ef5b8c20/v1.5/Four-Palestinians-killed-after-stabbing-attacks-in-Israel.jpg)
 
 ### Related:
 

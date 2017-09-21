@@ -9,6 +9,7 @@ Bags are to be put over dozens of surveillance cameras in parts of Birmingham wi
 
 1. [BBC](http://news.bbc.co.uk/2/hi/england/birmingham/10337961.stm)
 2. [The Guardian](http://www.guardian.co.uk/uk/2010/jun/17/birmingham-stops-muslim-surveillance-scheme)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -11,6 +11,7 @@ India&rsquo;s health minister has outraged activists by calling homosexuality a 
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-14024774)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0705/breaking19.html)
 4. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10736494&ref=rss)
+4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

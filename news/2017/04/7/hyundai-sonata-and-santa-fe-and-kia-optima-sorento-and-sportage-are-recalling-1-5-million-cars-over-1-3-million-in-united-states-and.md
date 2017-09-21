@@ -8,6 +8,7 @@ Hyundai Motor Co (005380.KS) and Kia Motors Corp (000270.KS) said on Friday they
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-hyundai-motor-recall-idUSKBN17903Z?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170407&t=2&i=1179741461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED360LO)
 
 ### Related:
 

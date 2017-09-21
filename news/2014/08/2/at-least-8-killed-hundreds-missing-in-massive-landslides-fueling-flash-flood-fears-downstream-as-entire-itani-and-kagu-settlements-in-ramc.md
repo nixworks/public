@@ -8,3 +8,4 @@ At least eight persons were killed and scores went missing when a massive landsl
 ### Source:
 
 1. [Ekantipur](http://www.ekantipur.com/2014/08/03/top-story/landslip-dams-sunkoshi-river/393059.html)
+1. [Cover Image](http://assets-cdn.ekantipur.com/images/the-kathmandu-post-archive/2014/20140803landslip-dams-sunkoshi-river-600x0.jpg)

@@ -11,6 +11,7 @@
 2. [France24](http://www.france24.com/en/20100308-belgian-trial-al-qaeda-cell-suspects-underway)
 3. [The New York Times](http://www.nytimes.com/reuters/2010/03/08/world/international-uk-security-belgium.html)
 4. [euronews](http://www.euronews.net/2010/03/08/al-qaeda-suspects-trial-begins-in-belgium/)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

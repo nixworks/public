@@ -8,6 +8,7 @@ At least 46 people, including children, are now known to have died in a landslid
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20997520)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65241000/jpg/_65241428_65241427.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least six mediators have been killed by pro-government militiamen in the Syri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23331569)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68766000/gif/_68766759_syria_hajarabyad_07_13.gif)
 
 ### Related:
 

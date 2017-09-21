@@ -10,6 +10,7 @@ At least eight people were killed Sunday night and more than 30 injured when a t
 1. [KTLA](http://ktla.com/2013/02/04/witnesses-bus-driver-appeared-to-be-speeding-riding-brakes-before-crash/)
 2. [Los Angeles Times](http://www.latimes.com/news/local/la-me-0204-bus-crash-20130204,0,4493066.story)
 3. [NBC San Diego](http://www.nbcsandiego.com/news/local/Scapadas-Magicas-Tour-Bus-Crash-Los-Angeles-189648841.html)
+3. [Cover Image](http://www.trbimg.com/img-510f5c57/turbine/la-me-bus-accident.jpg-20130203/600/600x417)
 
 ### Related:
 

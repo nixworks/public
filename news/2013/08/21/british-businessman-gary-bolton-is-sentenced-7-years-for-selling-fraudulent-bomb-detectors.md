@@ -8,3 +8,4 @@ British businessman Gary Bolton is sentenced to seven years in prison for supply
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-23768203)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68514000/jpg/_68514004_68514003.jpg)

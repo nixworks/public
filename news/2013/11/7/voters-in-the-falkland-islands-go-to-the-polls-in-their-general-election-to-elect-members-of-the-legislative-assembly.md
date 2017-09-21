@@ -8,6 +8,7 @@ Residents of the South Atlantic archipelago elect eight members to the Legislati
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/falklandislands/10434850/Falkland-Islanders-elect-new-legislature.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02178/welcome_2178789k.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ News agency linked to Islamic State gives name of airman, posts video of charred
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-3555073/ISIS-captures-Syrian-Air-Force-pilot-terror-group-claims-shot-MiG-23-outside-Damascus.html)
 2. [NY Times](http://www.nytimes.com/aponline/2016/04/23/world/middleeast/ap-ml-syria-.html?_r=0)
 3. [Times of Israel](http://www.timesofisrael.com/is-claims-capture-of-syrian-pilot-after-shooting-down-plane/)
+3. [Cover Image](http://cdn.timesofisrael.com/uploads/2016/04/000_9H43K.jpg)
 
 ### Related:
 

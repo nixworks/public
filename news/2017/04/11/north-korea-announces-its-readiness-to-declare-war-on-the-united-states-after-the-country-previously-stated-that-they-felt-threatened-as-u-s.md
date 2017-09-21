@@ -8,6 +8,7 @@ NORTH Korea is continuing to talk tough with the US, this time promising their â
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/finance/work/leaders/tensions-at-tipping-point-why-donald-trump-had-to-act-on-north-korea-now/news-story/af8e0c30f9f21f6c6e45fdde868305be)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/3e6ed8e4744bcb82bb5ed155dd28d613)
 
 ### Related:
 
@@ -20,4 +21,4 @@ NORTH Korea is continuing to talk tough with the US, this time promising their â
 7. [North Korea renews war threats against South Korea and the United States, saying conditions "for a simmering nuclear war" have been created on the Korean peninsula. The country also says it is cutting a military hotline, which facilitates the travel of South Korean workers to a joint industrial complex in Kaesong. ](/news/2013/03/27/north-korea-renews-war-threats-against-south-korea-and-the-united-states-saying-conditions-for-a-simmering-nuclear-war-have-been-created.md) _Context: Korean Peninsula, North Korea, United States_
 8. [ North Korea calls for the end of hostilities with the United States and a nuclear free Korean Peninsula, to restart talks; in its annual New Year editorial. ](/news/2010/01/1/north-korea-calls-for-the-end-of-hostilities-with-the-united-states-and-a-nuclear-free-korean-peninsula-to-restart-talks-in-its-annual-ne.md) _Context: Korean Peninsula, North Korea, United States_
 9. [ North Korea's military seeks talks with the United States to discuss "peace and security on the Korean peninsula." ](/news/2007/07/13/north-korea-s-military-seeks-talks-with-the-united-states-to-discuss-peace-and-security-on-the-korean-peninsula.md) _Context: Korean Peninsula, North Korea, United States_
-10. [In a video interview posted on the state-run website Uriminzokkiri, the two sons of James Joseph Dresnok (the last remaining American defector to North Korea) have confirmed that their father has died of a stroke last November 2016. ](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.md) _Context: North Korea, North Korea-United States relations_
+10. [U.S. President Donald Trump defends U.S. sovereignty and threatens to "totally destroy" North Korea if it attacks the U.S. or its allies. ](/news/2017/09/19/u-s-president-donald-trump-defends-u-s-sovereignty-and-threatens-to-totally-destroy-north-korea-if-it-attacks-the-u-s-or-its-allies.md) _Context: North Korea, North Korea-United States relations_

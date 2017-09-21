@@ -8,6 +8,7 @@ State media declares dos Santos as president-elect after his MPLA party takes un
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/09/20129114412116203.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/2/20129295532163734_20.jpg)
 
 ### Related:
 

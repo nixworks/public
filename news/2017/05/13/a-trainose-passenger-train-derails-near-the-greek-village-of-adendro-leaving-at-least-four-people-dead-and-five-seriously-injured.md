@@ -8,6 +8,7 @@ The intercity train was travelling from Athens to the northern city of Thessalon
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/at-least-four-dead-after-train-derails-in-greece-10876695)
+1. [Cover Image](http://e3.365dm.com/17/05/1600x900/4532411529bd7d651f20bbd41e2d1a48af0044ab58c21311ba3c3abe7e2b11a9_3953091.jpg?20170514010154)
 
 ### Related:
 

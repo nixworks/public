@@ -9,6 +9,7 @@
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5inQ7EshxwGdXDWtgBeblBdgHXFzg?docId=CNG.3133022946c01e9ed0150ebaf5299535.2c1)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/20101130124811926553.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/30/20101130124657908150_20.jpg)
 
 ### Related:
 

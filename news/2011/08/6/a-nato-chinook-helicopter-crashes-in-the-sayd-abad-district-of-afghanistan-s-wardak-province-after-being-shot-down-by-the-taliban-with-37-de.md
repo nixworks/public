@@ -10,6 +10,7 @@ Among the dead were elite Navy Seal commandos from the broader unit that killed 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_AFGHANISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-08-06-06-27-19)
 2. [Dawn](http://www.dawn.com/2011/08/06/afghan-official-says-nato-helicopter-has-crashed.html)
 3. [New York Times](http://www.nytimes.com/2011/08/07/world/asia/07afghanistan.html?_r=2&hp)
+3. [Cover Image](https://static01.nyt.com/images/2011/08/07/world/asia/07afghanistan/07afghanistan-thumbStandard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/08/02/541129956/venezuelan-poll-tampered-with-says-voting-system-company)
+1. [Cover Image](https://media.npr.org/assets/img/2017/08/02/ap_17211488403390_wide-c2f617d83401114e758d63e04bbd6ca9c3582cc3.jpg?s=1400)
 
 ### Related:
 

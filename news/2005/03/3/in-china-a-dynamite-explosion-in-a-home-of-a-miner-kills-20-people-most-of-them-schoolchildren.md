@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4313801.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7791450)
 3. [Xinhua](http://news.xinhuanet.com/english/2005-03/03/content_2643274.htm)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

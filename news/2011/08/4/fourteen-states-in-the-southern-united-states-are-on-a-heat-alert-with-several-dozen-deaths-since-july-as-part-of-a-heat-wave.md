@@ -8,6 +8,7 @@ The National Weather Service chief calls it a heat wave more intense than any he
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/44019419/ns/weather/?ocid=twitter#.TjrQM2srkrc)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/tdy_shamlian_heat_110804.standard.jpg)
 
 ### Related:
 

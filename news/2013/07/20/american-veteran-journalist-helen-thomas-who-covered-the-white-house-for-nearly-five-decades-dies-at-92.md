@@ -8,6 +8,7 @@ Helen Thomas, a trailblazing journalist who covered the White House for nearly f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-23391351)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68858000/jpg/_68858487_68858486.jpg)
 
 ### Related:
 

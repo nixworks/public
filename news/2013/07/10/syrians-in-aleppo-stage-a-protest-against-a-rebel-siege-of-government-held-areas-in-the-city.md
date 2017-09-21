@@ -8,6 +8,7 @@ Syrians in Aleppo protest against a rebel siege of government-controlled distric
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23261026)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68656000/jpg/_68656235_de48.jpg)
 
 ### Related:
 

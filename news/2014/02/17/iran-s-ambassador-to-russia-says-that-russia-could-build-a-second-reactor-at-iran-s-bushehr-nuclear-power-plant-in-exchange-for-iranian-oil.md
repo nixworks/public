@@ -9,6 +9,7 @@ Iran&#39;s ambassador to Moscow says Russia could build the Islamic republic a s
 
 1. [News 24](http://www.news24.com/World/News/Iran-seeks-Russia-reactor-in-exchange-for-oil-20140217)
 2. [Reuters](http://www.reuters.com/article/2014/02/17/us-russia-iran-oil-idUSBREA1G0DM20140217)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2648/fb6e1d04f8bc42beb2358f58cca6eec3.jpg)
 
 ### Related:
 

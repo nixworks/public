@@ -9,6 +9,7 @@ SAUDI warplanes have been accused of “deliberately” striking Iran’s embass
 
 1. [Reuters via ''Haaretz](http://www.haaretz.com/middle-east-news/1.696054)
 2. [news.com.au](http://www.news.com.au/world/middle-east/saudi-arabia-strikes-irans-embassy-in-yemen-as-iran-bans-all-saudi-imports/news-story/47a36eb9ebf72a62d3e1a5824dc71dd1)
+2. [Cover Image](http://cdn.newsapi.com.au/image/v1/700af57097f4fd0cd7684dc87347d695)
 
 ### Related:
 

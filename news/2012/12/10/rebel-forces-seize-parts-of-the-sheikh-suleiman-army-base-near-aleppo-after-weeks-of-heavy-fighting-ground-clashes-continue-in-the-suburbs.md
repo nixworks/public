@@ -9,6 +9,7 @@ Opposition fighters enter Sheikh Suleiman base near city of Aleppo after weeks o
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/20121210104312760502.html)
 2. [Washington Post](http://www.washingtonpost.com/politics/us-declares-jabhat-al-nusra-a-group-in-syria-with-alleged-al-qaida-links-as-terrorist-body/2012/12/10/054ccb8a-42fa-11e2-8c8f-fbebf7ccab4e_story.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/10/201212101133536734_20.jpg)
 
 ### Related:
 

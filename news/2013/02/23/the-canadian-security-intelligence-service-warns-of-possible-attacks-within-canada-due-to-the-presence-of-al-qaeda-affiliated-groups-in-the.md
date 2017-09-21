@@ -9,6 +9,7 @@ Richard Fadden, the head of the Canadian Security Intelligence Service, is warni
 
 1. [CBC News](http://www.cbc.ca/news/politics/story/2013/02/11/parry-fadden-senate.html)
 2. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/domestic-terrorism-becoming-a-greater-concern-for-canadian-spy-agency/article8478299/)
+2. [Cover Image](https://i.cbc.ca/1.1551563.1379045686!/httpImage/image.jpg_gen/derivatives/16x9_1180/li-fadden.jpg)
 
 ### Related:
 

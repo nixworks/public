@@ -10,6 +10,7 @@ The wife of Northern Ireland First Minister Peter Robinson tried to kill herself
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8444153.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0106/robinson.html)
 3. [RTÉ](http://www.rte.ie/news/2010/0106/robinsonquestions.html)
+3. [Cover Image](https://img.rasset.ie/0002e38d-1600.jpg)
 
 ### Related:
 

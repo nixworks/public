@@ -9,6 +9,7 @@ Chinese archaeologists discover what they believe is a 2,400-year-old pot of sou
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11981666)
 2. [People's Daily](http://english.peopledaily.com.cn/90001/90782/7228709.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AP](http://bigstory.ap.org/article/1806e5bf2da94ca0a2efc90ec79cc0f8/chinese-rights-lawyer-stand-trial-social-media-posts)
 2. [CNN](http://edition.cnn.com/2015/12/13/asia/china-trial-pu-zhiqiang/)
 3. [Twitter](https://twitter.com/tomphillipsin/status/676243083487518721/)
+3. [Cover Image](https://pbs.twimg.com/ext_tw_video_thumb/676242055169994753/pu/img/vq_SeFAD6-FO5gtc.jpg)
 
 ### Related:
 

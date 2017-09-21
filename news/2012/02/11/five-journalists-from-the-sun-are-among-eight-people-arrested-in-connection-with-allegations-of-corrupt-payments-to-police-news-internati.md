@@ -8,6 +8,7 @@ News International owner Rupert Murdoch says he is committed to publishing the S
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16999659)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58452000/jpg/_58452330_sun_getty.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 12 people - including two soldiers - are killed in a gunfight between t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17932666)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60001000/jpg/_60001975_014643031-1.jpg)
 
 ### Related:
 

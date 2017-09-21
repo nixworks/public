@@ -9,6 +9,7 @@ More than 2,000 Chinese children have been rescued by police in a six-month camp
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8329172.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/6452998/Chinese-police-rescue-2000-kidnapped-children.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01511/chinesePolice_1511905a.jpg)
 
 ### Related:
 

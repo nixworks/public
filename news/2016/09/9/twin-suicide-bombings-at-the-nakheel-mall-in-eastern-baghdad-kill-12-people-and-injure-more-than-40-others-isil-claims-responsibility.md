@@ -8,6 +8,7 @@ Twelve people were killed late on Friday in two suicide bombings claimed by Isla
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-blast-idUSKCN11F2S5?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160910&t=2&i=1153002427&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC89054)
 
 ### Related:
 

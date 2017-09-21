@@ -9,6 +9,7 @@
 
 1. [LiveMint](http://www.livemint.com/2012/09/07222230/Cipla-wins-patent-case-over-Ta.html?atype=tp)
 2. [Reuters](http://in.reuters.com/article/2012/09/07/india-roche-cipla-idINL4E8K73UQ20120907)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

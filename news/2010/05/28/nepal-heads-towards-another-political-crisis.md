@@ -8,6 +8,7 @@ Dispute among parties over terms for extending parliament threatens new constitu
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201052834227924486.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

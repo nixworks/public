@@ -8,6 +8,7 @@ DNA testing has for the first time confirmed the identity of the bacteria behind
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-37287715)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/802E/production/_91041823_excavationofbedlamburialgroundjuly2015_204900.jpg)
 
 ### Related:
 

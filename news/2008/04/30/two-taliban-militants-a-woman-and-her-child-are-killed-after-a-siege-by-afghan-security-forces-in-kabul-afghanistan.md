@@ -8,6 +8,7 @@ Afghan security forces surrounded a house in the capital Kabul on Wednesday and 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSSP22490020080430)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080430&t=2&i=4081249&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-04-30T125042Z_01_SP224900_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

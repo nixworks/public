@@ -8,6 +8,7 @@ The ground team for NASA&#039;s Mars rover Curiosity has switched the rover to a
 ### Source:
 
 1. [NASA](http://www.jpl.nasa.gov/news/news.php?release=2013-078)
+1. [Cover Image](//www.jpl.nasa.gov/images/msl/20110624/pia14175-640.jpg)
 
 ### Related:
 

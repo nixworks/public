@@ -8,6 +8,7 @@ California kidnapping victim Jaycee Dugard and her two young daughters will be s
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2010/10/01/grand-jury-indicts-accused-california-kidnappers/?test=latestnews)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/slideshow/2009/08/27/missing-girl-found-18-years-later/_jcr_content/slideshow-par/slide_image/image.img.jpg/0/0/1421897878438.jpg?ve=1)
 
 ### Related:
 

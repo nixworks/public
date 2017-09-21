@@ -8,6 +8,7 @@ Bolivia is looking to Russian defense firms to revamp its aging military arsenal
 ### Source:
 
 1. [UPI](http://www.upi.com/Business_News/Security-Industry/2016/04/12/Russia-Bolivia-look-to-strengthen-military-ties/9271460478124/?spt=sec&or=bn)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/9271460478124/2016/1/d3e805029cd677c29b01c0be79c45516/v1.5/Russia-Bolivia-look-to-strengthen-military-ties.jpg)
 
 ### Related:
 

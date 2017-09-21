@@ -8,6 +8,7 @@ Anti-Aquino sentiment gathers momentum in the wake of a bungled police raid that
 ### Source:
 
 1. [UCA News](http://www.ucanews.com/news/calls-mount-for-resignation-of-philippines-president/72935)
+1. [Cover Image](http://www.ucanews.com/uploads/2015/02/1423038388.jpg)
 
 ### Related:
 

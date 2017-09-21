@@ -10,6 +10,7 @@ Islamabad&#039;s surprising move catches Pakistani and Iranian diplomats unaware
 1. [DAWN](http://www.dawn.com/news/1233549/pm-coas-to-visit-iran-s-arabia-for-mediation)
 2. [India Times](http://economictimes.indiatimes.com/news/international/world-news/pakistan-pm-nawaz-sharif-heads-to-saudi-arabia-iran-in-bid-to-mend-rift/articleshow/50603596.cms)
 3. [Pakistan Today](http://www.pakistantoday.com.pk/2016/01/17/national/pakistan-decides-to-intervene-in-saudi-iran-row/)
+3. [Cover Image](http://i.dawn.com/medium/2016/01/569b07ffc3eab.jpg)
 
 ### Related:
 

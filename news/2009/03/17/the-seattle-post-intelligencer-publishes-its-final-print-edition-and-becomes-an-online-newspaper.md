@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Seattle PI](http://www.seattlepi.com/business/403793_piclosure17.html)
+1. [Cover Image](http://ww4.hdnux.com/photos/02/62/03/729335/3/rawImage.jpg)
 
 ### Related:
 

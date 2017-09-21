@@ -9,6 +9,7 @@ Turkish authorities on Wednesday seized control of two television stations that 
 
 1. [The Wall Street Journal](http://www.wsj.com/articles/turkey-police-raid-tv-stations-of-government-critics-1446038925)
 2. [Today's Zaman](http://www.todayszaman.com/national_police-forcibly-cut-broadcast-of-bugun-tv-and-kanalturk-after-seizure-of-koza-i-pek_402784.html)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-KZ153_turkme_TOP_20151028090730.jpg)
 
 ### Related:
 

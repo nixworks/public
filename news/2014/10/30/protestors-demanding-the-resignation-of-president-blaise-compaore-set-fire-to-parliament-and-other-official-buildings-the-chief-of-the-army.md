@@ -8,6 +8,7 @@ There have been continuing protests in Burkina Faso against President Blaise Com
 ### Source:
 
 1. [Euro News](http://www.euronews.com/2014/10/30/thousands-march-in-burkina-against-president-s-re-election-bid/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

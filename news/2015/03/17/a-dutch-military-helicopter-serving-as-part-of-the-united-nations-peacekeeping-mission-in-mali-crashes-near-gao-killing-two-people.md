@@ -8,6 +8,7 @@ A Dutch UN peacekeeping helicopter crashes near Gao in northern Mali, killing tw
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-31933249)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/81718000/jpg/_81718963_81718616.jpg)
 
 ### Related:
 

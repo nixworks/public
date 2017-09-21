@@ -8,6 +8,7 @@ For the first time two Australian researchers have painstakingly pieced together
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/face-to-face-with-the-lost-85-diggers-of-fromelles-20091106-i25h.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/i/2/b/6/image.related.articleLeadwide.620x349.i25h.png/1257512935753.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Some 25,000 households will be without electricity overnight as Storm Barney swe
 ### Source:
 
 1. [The Independent Ireland](http://www.independent.ie/irish-news/storm-barney-25000-households-to-remain-without-power-overnight-34210263.html)
+1. [Cover Image](http://www.independent.ie/incoming/article34210561.ece/ALTERNATES/h342/Storm%20in%20Co%20Gal_2.jpg)
 
 ### Related:
 

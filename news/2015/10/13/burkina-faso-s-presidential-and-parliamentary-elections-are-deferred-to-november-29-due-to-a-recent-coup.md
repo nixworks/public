@@ -8,6 +8,7 @@ Burkina Faso&#x27;s presidential and parliamentary elections, delayed because of
 ### Source:
 
 1. [Yahoo! News](http://news.yahoo.com/burkina-elections-delayed-until-november-29-candidates-184609953.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/F8bDsj80laDZd9JuIL44Sw--/aD02NDI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8288599-1-1-0.jpg)
 
 ### Related:
 

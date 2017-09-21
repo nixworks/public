@@ -10,6 +10,7 @@
 1. [The Denver Post''²](http://www.denverpost.com/weathernews/ci_29674842/colorado-snow-totals-march-23-2016?source=pkg)
 2. [The Denver Post](http://www.denverpost.com/weathernews/ci_29674648/denver-under-blizzard-warning-between-6-12-inches)
 3. [The Denver Post](http://www.denverpost.com/weathernews/ci_29674737/blizzard-causes-250-flight-cancellations-power-outages-at)
+3. [Cover Image](http://www.denverpost.com/wp-content/themes/denverpost/static/images/denverpost.jpg)
 
 ### Related:
 

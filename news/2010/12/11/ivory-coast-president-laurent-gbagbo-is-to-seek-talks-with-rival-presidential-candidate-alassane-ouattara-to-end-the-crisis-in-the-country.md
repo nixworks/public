@@ -9,6 +9,7 @@ President dismisses fears of civil war resumption following a poll he is widely 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010121135945557249.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/11/ivory.coast.ecowas/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/11/20101211500860580_20.jpg)
 
 ### Related:
 

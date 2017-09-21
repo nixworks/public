@@ -8,6 +8,7 @@ The House of Commons votes to hold a referendum on reforming the Westminster vot
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-11680413)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

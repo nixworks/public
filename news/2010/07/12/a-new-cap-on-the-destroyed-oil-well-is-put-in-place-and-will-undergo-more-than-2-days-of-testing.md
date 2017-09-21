@@ -8,3 +8,4 @@ After a government review concluded that pressure tests of a new containment cap
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/38200524/ns/disaster_in_the_gulf/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Video/Live/lv_oilspill_100716.standard.jpg)

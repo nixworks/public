@@ -9,6 +9,7 @@
 
 1. [Canadian Press](http://canadianpress.google.com/article/ALeqM5iE5oQafsO3EUynxTWwmQK5IS3oQA)
 2. [El Universal](http://www.eluniversal.com.mx/notas/448461.html)
+2. [Cover Image](/img/logo_el_universal_redes.jpg)
 
 ### Related:
 

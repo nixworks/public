@@ -10,6 +10,7 @@ A powerful earthquake struck a sparsely populated district of southeastern Iran,
 1. [CNN](http://www.cnn.com/2010/WORLD/meast/12/20/iran.earthquake/index.html)
 2. [Herald Sun](http://www.heraldsun.com.au/news/world/magnitude-earthquake-rocks-southeastern-iran-usgs-says/story-e6frf7lf-1225974296261)
 3. [Los Angeles Times](http://www.latimes.com/news/custom/la-fg-iran-quake-20101222,0,2845573.story)
+3. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

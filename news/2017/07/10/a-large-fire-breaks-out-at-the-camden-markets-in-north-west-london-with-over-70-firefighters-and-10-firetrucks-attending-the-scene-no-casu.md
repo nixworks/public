@@ -8,6 +8,7 @@ A massive fire has broken out at a London market and dozens of firefighters are 
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/massive-fire-engulfs-camden-market-in-london-20170709-gx7x3s.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/x/7/x/8/f/image.related.articleLeadwide.620x349.gx7x3s.png/1499675659870.jpg)
 
 ### Related:
 

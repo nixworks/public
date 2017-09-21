@@ -8,6 +8,7 @@ The former garda commissioner delayed withdrawing his use of the word &quot;disg
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2014/0327/604932-garda-commissioner/)
+1. [Cover Image](https://img.rasset.ie/000867ff-1600.jpg)
 
 ### Related:
 

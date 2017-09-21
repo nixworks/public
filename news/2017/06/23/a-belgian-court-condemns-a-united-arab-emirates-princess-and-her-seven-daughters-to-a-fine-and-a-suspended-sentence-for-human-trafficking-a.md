@@ -8,6 +8,7 @@ A Belgian court has found a princess from Abu Dhabi and her seven daughters guil
 ### Source:
 
 1. [Minneapolis Star Tribune](http://www.startribune.com/belgian-court-finds-princesses-guilty-of-abusing-servants/430333113/)
+1. [Cover Image](http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1498069779)
 
 ### Related:
 

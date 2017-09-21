@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/idUSLDE68N0FO20100924)
 2. [Times Live](http://www.timeslive.co.za/africa/article674683.ece/Striking-Zim-pilots-return-to-work)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

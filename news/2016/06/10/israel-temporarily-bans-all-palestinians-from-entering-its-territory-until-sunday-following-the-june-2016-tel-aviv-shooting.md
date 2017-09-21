@@ -8,6 +8,7 @@ Israel on Friday temporarily barred Palestinians from entering the country, a st
 ### Source:
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/israel-bars-palestinians-tel-aviv-attack-army-054221645.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/JscxRMBZV36BT7E.S0zTJw--/aD02Mjk7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/91841ce95f488df8daa2650cad44da6006418abc.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A woman and an eight-year-old boy have died after a double-decker bus crashed in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-34436360)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FD0B/production/_85897746_15b79557-f50c-46de-88d6-9c5009abd867.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Texas Sen. Ted Cruz is the first in for 2016.
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/elections/ted-cruz-announce-presidential-bid-monday-n328051)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_13/942676/464547786_7cc0e8c7200ec29a3c30bc9e1e1a81c5.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

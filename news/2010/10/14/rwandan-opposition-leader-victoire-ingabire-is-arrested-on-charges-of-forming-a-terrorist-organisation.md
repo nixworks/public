@@ -9,6 +9,7 @@ Rwandan police say opposition leader Victoire Ingabire has been arrested in conn
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jL8cj3O7BwirxaxfD8rnlMNGdehQ?docId=CNG.bd6bd0d86d63f1a0e61b464e310712d2.2a1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11546689)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

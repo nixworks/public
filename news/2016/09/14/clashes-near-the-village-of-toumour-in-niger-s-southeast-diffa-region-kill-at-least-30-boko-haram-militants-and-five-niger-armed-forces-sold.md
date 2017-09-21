@@ -8,6 +8,7 @@ Thirty members of Boko Haram and five Nigerien soldiers have been killed in figh
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-nigeria-security-niger-idUSKCN11K0US)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

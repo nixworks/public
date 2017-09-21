@@ -9,6 +9,7 @@ Polling stations are now open in Nauru for the 2016 general election.
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-07-10/nauru's-president-secures-re-election/7583640)
 2. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/308277/voting-gets-underway-in-nauru)
+2. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

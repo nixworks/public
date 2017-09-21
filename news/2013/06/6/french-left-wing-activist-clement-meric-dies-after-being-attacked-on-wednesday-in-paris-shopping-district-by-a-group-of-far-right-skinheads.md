@@ -8,6 +8,7 @@ FRENCH Prime Minister Jean-Marc Ayrault has ordered the &quot;dissolution&quot; 
 ### Source:
 
 1. [News Limited](http://www.news.com.au/world-news/clement-meric-brain-dead-after-fight-with-skinheads-in-paris/story-fndir2ev-1226659003973)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/f33d539c9380501dd26639fbc5806393)
 
 ### Related:
 

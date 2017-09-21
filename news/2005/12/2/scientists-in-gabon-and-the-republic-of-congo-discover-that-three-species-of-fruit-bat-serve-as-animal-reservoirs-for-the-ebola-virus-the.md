@@ -9,6 +9,7 @@ Researchers working in Gabon and Congo have identified three species of fruit ba
 
 1. [LA Times](http://www.latimes.com/news/nationworld/world/la-sci-ebola1dec01,1,6862086.story?ctrack=1&cset=true)
 2. [Nature](http://www.nature.com/nature/journal/v438/n7068/edsumm/e051201-07.html)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

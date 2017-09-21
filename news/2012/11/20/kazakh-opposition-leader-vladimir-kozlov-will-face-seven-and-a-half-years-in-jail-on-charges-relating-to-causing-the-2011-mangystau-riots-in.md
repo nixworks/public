@@ -8,6 +8,7 @@ Vladimir Kozlov will face seven-and-a-half years in jail on charges relating to 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/11/2012112014241866641.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/20/2012112014926499734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP via ''The Seattle Times](http://www.seattletimes.com/nation-world/australia-threatens-legal-action-against-japanese-whaling/)
 2. [Voice of America](http://www.voanews.com/content/australia-launches-new-protest-against-japanese-whale-hunt/3092026.html)
+2. [Cover Image](http://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png)
 
 ### Related:
 

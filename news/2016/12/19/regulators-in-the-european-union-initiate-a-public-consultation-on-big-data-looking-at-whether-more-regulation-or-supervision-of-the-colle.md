@@ -8,6 +8,7 @@ Additional rules may be needed to monitor growth in Big Data, or collection of h
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eu-regulations-big-data-idUSKBN14816Y)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161219&t=2&i=1165980696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBI0NJ)
 
 ### Related:
 

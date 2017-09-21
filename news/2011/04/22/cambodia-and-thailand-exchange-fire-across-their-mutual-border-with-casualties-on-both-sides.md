@@ -10,6 +10,7 @@ Thailand and Cambodia exchanged gunfire along their border on Friday, with each 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13167455)
 2. [Bangkok Post](http://www.bangkokpost.com/news/local/233289/border-clash-kills-four-thai-troops)
 3. [The Hindu](http://www.thehindu.com/news/international/article1718523.ece)
+3. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

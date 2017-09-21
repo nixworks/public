@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez returns from Cuba, saying his radiotherapy trea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18044258)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60192000/jpg/_60192037_014727724-1.jpg)
 
 ### Related:
 

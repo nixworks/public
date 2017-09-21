@@ -8,6 +8,7 @@ A 225-square-mile &quot;debris field&quot; was discovered by crews looking for s
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/el-faro-hunt-debris-field-found-after-ship-vanishes-storm-n438466?cid=eml_nbn_20151005)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_40/1247431/151002-el-faro-mn-1655_fd09326e555bd75a6b61f4fdbe8ade40.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

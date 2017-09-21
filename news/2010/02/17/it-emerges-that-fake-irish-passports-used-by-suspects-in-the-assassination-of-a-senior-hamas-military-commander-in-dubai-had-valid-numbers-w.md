@@ -9,6 +9,7 @@ Three of the Irish passports used by those responsible for the killing of a seni
 
 1. [RTÉ](http://www.rte.ie/news/2010/0217/dubai.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0217/breaking35.html)
+2. [Cover Image](https://img.rasset.ie/000304c6-1600.jpg)
 
 ### Related:
 

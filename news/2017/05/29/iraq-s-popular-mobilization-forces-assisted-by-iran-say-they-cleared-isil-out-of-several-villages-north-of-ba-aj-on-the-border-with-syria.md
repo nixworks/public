@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-syria-idUSKBN18P1C0?il=0)
+1. [Cover Image](//s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/738364.html)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276909,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

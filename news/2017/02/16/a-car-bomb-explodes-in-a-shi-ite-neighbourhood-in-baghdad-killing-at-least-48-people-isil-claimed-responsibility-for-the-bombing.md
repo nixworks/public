@@ -8,6 +8,7 @@ A car bomb in southern Baghdad kills at least 48 people - the third such blast i
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38995832)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/CC04/production/_94682225_mediaitem94681900.jpg)
 
 ### Related:
 

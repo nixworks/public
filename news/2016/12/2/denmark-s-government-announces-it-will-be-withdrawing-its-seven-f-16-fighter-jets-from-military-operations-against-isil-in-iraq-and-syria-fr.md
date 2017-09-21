@@ -8,6 +8,7 @@ Denmark will not extend military operations of its seven F-16 fighter jets in Sy
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-denmark-idUSKBN13R0WA)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

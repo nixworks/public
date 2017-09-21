@@ -8,6 +8,7 @@ Defense Secretary Delfin Lorenzana said Friday that he told the United States mi
 ### Source:
 
 1. [The Philippine Star](http://www.philstar.com/headlines/2016/10/07/1631266/philippines-us-halt-plans-joint-south-china-sea-patrols)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/nation/20161007/03_south-china-sea-patrol.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 22 people killed and buildings and cars set ablaze by explosion near fa
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/2013815152140188564.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/15/201381523718129734_20.jpg)
 
 ### Related:
 

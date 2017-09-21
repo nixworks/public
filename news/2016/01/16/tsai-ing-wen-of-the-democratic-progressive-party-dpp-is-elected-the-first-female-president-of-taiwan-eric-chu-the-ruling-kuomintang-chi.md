@@ -10,6 +10,7 @@ Democratic Progressive party candidate Tsai Ing-wen looks certain to win preside
 1. [BBC](http://www.bbc.com/news/world-asia-35333647)
 2. [CNN](http://www.cnn.com/2016/01/16/asia/taiwan-election/)
 3. [The Guardian](http://www.theguardian.com/world/2016/jan/15/taiwan-elections-polls-predict-ruling-party-will-pay-for-close-ties-to-repressive-beijing)
+3. [Cover Image](https://i.guim.co.uk/img/media/41019fa33d9a2a5a42bea301f5bfbdc4d8bd3c20/0_17_3000_1800/master/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=21ad4d15cad38496958e50488b5db344)
 
 ### Related:
 

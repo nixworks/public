@@ -8,6 +8,7 @@ DO YOU KNOW MORE? CONTACT THE HERALD HERE - New Zealand Herald
 ### Source:
 
 1. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11380838)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/20151/scene_1024x768.jpg)
 
 ### Related:
 

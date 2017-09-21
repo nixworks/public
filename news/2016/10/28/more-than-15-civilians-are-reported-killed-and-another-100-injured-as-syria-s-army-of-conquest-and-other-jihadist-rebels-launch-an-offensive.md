@@ -11,6 +11,7 @@ Syrian rebels including jihadists counter-attacked the army and its allies on Fr
 2. [RT](https://www.rt.com/news/364565-russia-putin-resume-airstrikes/)
 3. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-aleppo-putin-idINR4N1CR024)
 4. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-offensive-idINKCN12S0UJ)
+4. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161028&t=2&i=1159402305&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9R14L)
 
 ### Related:
 

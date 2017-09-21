@@ -9,6 +9,7 @@
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/U/US_EGYPT_FILMMAKER_PROBATION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-09-15-12-41-45)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2012/09/alleged-anti-muslim-innocence-muslims-interview.html)
+2. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef017744be0e47970d-120pi)
 
 ### Related:
 

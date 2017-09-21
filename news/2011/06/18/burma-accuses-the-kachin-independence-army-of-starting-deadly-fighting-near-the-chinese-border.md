@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jAQVDq-qs1VwRAJ8vD18ZAwREfWg?docId=CNG.8acba1b206bbac57a7e425ac22157b65.5f1)
 2. [Asian Correspondent](http://asiancorrespondent.com/57713/burma%E2%80%99s-state-run-media-blames-kachin-rebels%E2%80%99-defensive-war/)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13822969)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53406000/jpg/_53406715_53406714.jpg)
 
 ### Related:
 

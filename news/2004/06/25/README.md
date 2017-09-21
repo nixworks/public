@@ -4,7 +4,7 @@
 _Context: EUR, Hungary, IG Metall, North Rhine-Westphalia, Siemens AG, labor union, mobile phone, work week, working 35_
 
 ### [ Republican Jack Ryan withdraws from the contest for U.S. Senate seat from Illinois under pressure from the party amid allegations that he took his ex-wife, actress Jeri Ryan, to some sex clubs. ](/news/2004/06/25/republican-jack-ryan-withdraws-from-the-contest-for-u-s-senate-seat-from-illinois-under-pressure-from-the-party-amid-allegations-that-he-t.md)
-_Context: Illinois, Jack Ryan, Jeri Ryan, Republican, contest for U.S. Senate, sex club_
+_Context: Illinois, Jack Ryan, Jeri Ryan, Republican, U.S. Senate election, 2004, sex club_
 
 ### [ British Attorney General Lord Goldsmith says that he is "unable to accept" that the U.S. military tribunals will yield a fair trial for prisoners at Guantanamo Bay, Cuba. ](/news/2004/06/25/british-attorney-general-lord-goldsmith-says-that-he-is-unable-to-accept-that-the-u-s-military-tribunals-will-yield-a-fair-trial-for-pri.md)
 _Context: Attorney General for England and Wales, Cuba, Guantanamo Bay, Lord Goldsmith, military tribunal_

@@ -8,6 +8,7 @@ Saudi-led coalition air strikes and clashes killed at least 176 fighters and civ
 ### Source:
 
 1. [Reuters via SANAA](http://www.reuters.com/article/2015/07/07/us-yemen-security-idUSKCN0PH0R220150707)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150707&t=2&i=1062196611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB660BS)
 
 ### Related:
 

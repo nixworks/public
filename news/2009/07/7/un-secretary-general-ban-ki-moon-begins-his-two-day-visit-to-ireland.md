@@ -8,6 +8,7 @@ UN Secretary General Ban Ki-moon has paid tribute to Ireland&#39;s contribution 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0707/un.html)
+1. [Cover Image](https://img.rasset.ie/00026de8-1600.jpg)
 
 ### Related:
 

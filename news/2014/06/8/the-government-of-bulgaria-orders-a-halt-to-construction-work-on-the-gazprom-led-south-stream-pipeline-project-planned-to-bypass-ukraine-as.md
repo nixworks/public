@@ -8,6 +8,7 @@ Bulgaria has stopped all activities linked to the building of the South Stream g
 ### Source:
 
 1. [Sofia Globe](http://sofiaglobe.com/2014/06/08/bulgaria-halts-south-stream-pending-consultations-with-eu/)
+1. [Cover Image](http://sofiaglobe.com/wp-content/uploads/2014/04/South-Stream-official-welding-Bulgaria.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Libertas founder Declan Ganley says next month&#39;s referendum on the Lisbon Tr
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0911/eulisbon.html)
+1. [Cover Image](https://img.rasset.ie/0002968a-1600.jpg)
 
 ### Related:
 

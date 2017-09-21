@@ -10,6 +10,7 @@ The Gambia and Tanzania, both countries where more than 30% of girls are married
 1. [AP](http://bigstory.ap.org/article/cb97e2220e2d4ced8046032c8387606f/gambias-leader-says-ban-child-marriage-today)
 2. [BBC](http://www.bbc.com/news/world-africa-36746174)
 3. [Human Rights Watch](https://www.hrw.org/news/2016/07/08/dispatches-tanzanian-high-court-rules-against-child-marriage)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8392/production/_90328633_childmarriagebbc.jpg)
 
 ### Related:
 

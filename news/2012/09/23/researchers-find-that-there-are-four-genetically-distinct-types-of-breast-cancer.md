@@ -8,6 +8,7 @@ New findings are reshaping the understanding of breast cancer, pointing to the u
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/09/24/health/study-finds-variations-of-breast-cancer.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/09/24/us/ALT-CANCER-1/ALT-CANCER-1-superJumbo.jpg)
 
 ### Related:
 

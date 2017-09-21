@@ -9,6 +9,7 @@ Iran&#039;s judiciary indicated yesterday that three young American trekkers who
 
 1. [Fars News Agency](http://english.farsnews.com/newstext.php?nn=8808181651)
 2. [The Independent](http://www.independent.co.uk/news/world/americas/us-hikers-will-stand-trial-for-espionage-says-iran-1817732.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/11/09/23/iran Shane Bauer and Sarah Shourd.jpeg)
 
 ### Related:
 

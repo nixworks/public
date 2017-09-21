@@ -8,6 +8,7 @@ Thousands of people in eastern Tasmania have been stranded by flash flooding, fo
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/thousands-stranded-by-flash-floods-in-tas-20110324-1c7qp.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

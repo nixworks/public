@@ -9,6 +9,7 @@ Brisbane is preparing for the full impact of its worst flooding in more than 100
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/12/3111075.htm)
 2. [News Limited](http://news.smh.com.au/breaking-news-national/grim-search-uncovers-further-two-dead-20110112-19mvs.html)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

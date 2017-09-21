@@ -11,6 +11,7 @@ South Carolina Gov. Nikki Haley confirmed nine weather-related fatalities amid h
 2. [AccuWeather](http://www.accuweather.com/en/weather-news/live-rain-lashes-eastern-us-ma/52740263)
 3. [CNN](http://www.cnn.com/2015/10/05/us/south-carolina-east-coast-rain-flood/)
 4. [USA Today](http://www.usatoday.com/story/news/nation/2015/10/05/unrelenting-rains-hammer-besieged-south-carolina/73365878/)
+4. [Cover Image](https://accuweather.brightspotcdn.com/650x366_10041848_screen-shot-2015-10-04-at-2.30.55-pm.png)
 
 ### Related:
 

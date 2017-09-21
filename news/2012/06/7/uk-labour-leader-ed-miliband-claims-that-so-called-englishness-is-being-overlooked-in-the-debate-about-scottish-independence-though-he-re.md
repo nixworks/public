@@ -9,6 +9,7 @@ Ed Miliband urges Labour to be positive about English identity - but rejects cal
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-18344832)
 2. [The Guardian](http://www.guardian.co.uk/politics/2012/jun/07/scottish-independence-ed-miliband)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60751000/jpg/_60751022_60751019.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-pakistan-breadbasket-20100814,0,633559.story)
 4. [Reuters](http://www.reuters.com/article/idUSSGE67D00C._CH_.2400)
 5. [Voice of America](http://www1.voanews.com/english/news/Gilani-20-Million-Affected-by-Pakistans-Floods-100679924.html)
+5. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100814&t=2&i=179806293&w=&fh=545px&fw=&ll=&pl=&sq=&r=Pkbabygirlfloods238)
 
 ### Related:
 

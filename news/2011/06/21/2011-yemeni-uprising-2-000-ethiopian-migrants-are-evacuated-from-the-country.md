@@ -8,6 +8,7 @@ Nearly 2,000 Ethiopian migrants trapped in violence-hit Yemen are being evacuate
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13865251)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53561000/jpg/_53561341_imo.jpg)
 
 ### Related:
 

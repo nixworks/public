@@ -9,6 +9,7 @@ With all first counts completed, the RTE/Lansdowne Market Research poll, which w
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6690401.stm)
 2. [RTÉ](http://www.rte.ie/news/2007/0525/election1.html)
+2. [Cover Image](https://img.rasset.ie/0000e0c9-1600.jpg)
 
 ### Related:
 

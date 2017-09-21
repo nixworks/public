@@ -10,6 +10,7 @@ Mercury may have comet dust to thank for its dark appearance.
 1. [Christian Science Monitor](http://www.csmonitor.com/Science/2016/0307/Mystery-of-Mercury-What-makes-the-planet-s-surface-so-dark)
 2. [Nature Geoscience](http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2669.html)
 3. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2015/03/30/scientists-find-the-invisible-paint-that-makes-mercury-darker-than-dark/?tid=a_inl)
+3. [Cover Image](http://images.csmonitor.com/csm/2016/03/968707_1_0307-mercury-low-reflection-material_standard.png?alias=standard_900x600)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Death toll likely to rise, medics say.
 ### Source:
 
 1. [Express Tribune](http://tribune.com.pk/story/260923/six-killed-as-bus-carrying-school-children-overturns-on-motorway/)
+1. [Cover Image](https://c.tribune.com.pk/2011/09/260923-MillatGrammarSchoolphotoexpress-1317087516-246-640x480.jpg)
 
 ### Related:
 

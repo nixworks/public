@@ -8,6 +8,7 @@ Hilton Botha, the former lead detective in the murder case involving Paralympian
 ### Source:
 
 1. [SAPA via News24](http://www.news24.com/news24/SouthAfrica/News/Under-fire-Hilton-Botha-quits-from-SAPS-20130307)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2307/a7547eb56af04c61b602332bc09186f1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Boat with up to 700 migrants on board capsizes, only 28 survivors reported&nbsp;
 ### Source:
 
 1. [Malta Today](http://www.maltatoday.com.mt/news/national/51977/boat_with_an_estimated_650_migrants_on_board_capsizes#.VTNvXiGeDRZ)
+1. [Cover Image](http://content.maltatoday.com.mt/ui_frontend/thumbnail/684/400/8099_6.png)
 
 ### Related:
 

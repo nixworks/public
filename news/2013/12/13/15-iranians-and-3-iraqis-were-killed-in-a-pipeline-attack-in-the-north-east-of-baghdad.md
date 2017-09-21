@@ -8,6 +8,7 @@ Eighteen gas pipeline workers, most of them Iranians, have been shot dead in an 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25374296)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71735000/jpg/_71735803_71735802.jpg)
 
 ### Related:
 

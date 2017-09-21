@@ -8,3 +8,4 @@
 ### Source:
 
 1. [WTKR](http://wtkr.com/2015/04/10/serial-bride-accused-of-having-10-husbands-pleads-not-guilty/)
+1. [Cover Image](https://localtvwtkr.files.wordpress.com/2015/04/bride1.jpg?quality=85&amp;strip=all)

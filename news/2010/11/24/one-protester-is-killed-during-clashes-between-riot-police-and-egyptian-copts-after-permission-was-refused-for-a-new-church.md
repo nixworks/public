@@ -9,6 +9,7 @@ A&#x20;young&#x20;male&#x20;demonstrator&#x20;was&#x20;shot&#x20;and&#x20;killed
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i6Mjrh4tFNwvC8sqwOwYytS1fRvg?docId=26258e2e6efe4b9a915757f94d39fcf6)
 2. [RFI](http://www.english.rfi.fr/africa/20101124-demonstrator-killed-egypts-copts-clash-police)
+2. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/coptic.jpg)
 
 ### Related:
 

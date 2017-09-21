@@ -9,6 +9,7 @@ Gunmen killed 21 Egyptian military border guards near the frontier with Libya on
 
 1. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2014/07/19/Gunmen-kill-15-Egyptian-soldiers-west-of-the-country.html)
 2. [Reuters](http://www.reuters.com/article/2014/07/19/us-egypt-borderguards-idUSKBN0FO0UJ20140719)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

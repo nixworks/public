@@ -8,6 +8,7 @@ Iain Duncan Smith resigns as work and pensions secretary over &quot;indefensible
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-35848687)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B8B4/production/_88848274_idm.jpg)
 
 ### Related:
 

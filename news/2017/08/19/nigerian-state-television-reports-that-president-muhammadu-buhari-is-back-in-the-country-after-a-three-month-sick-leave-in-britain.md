@@ -8,6 +8,7 @@ Nigerian President Muhammadu Buhari returned home on Saturday from three months 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-nigeria-buhari-idUSKCN1AZ06I?il=0)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170819&t=2&i=1197744841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7I02P)
 
 ### Related:
 

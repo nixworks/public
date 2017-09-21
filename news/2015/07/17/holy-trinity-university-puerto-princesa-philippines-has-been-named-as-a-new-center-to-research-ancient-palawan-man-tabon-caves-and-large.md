@@ -8,6 +8,7 @@ The Holy Trinity University in Puerto Princesa, Palawan, has been selected for a
 ### Source:
 
 1. [Palawan-News](http://palawan-news.com/htu-named-as-research-center-for-ancient-palawan/)
+1. [Cover Image](http://palawan-news.com/wp-content/uploads/2015/07/Tabon.jpg)
 
 ### Related:
 

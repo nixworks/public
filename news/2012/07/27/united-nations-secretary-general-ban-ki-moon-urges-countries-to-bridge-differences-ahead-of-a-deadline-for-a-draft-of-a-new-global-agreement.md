@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19008740)
 2. [Miami Herald](http://www.miamiherald.com/2012/07/27/2916514/un-states-fail-to-reach-global.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61299000/jpg/_61299799_005421993-1.jpg)
 
 ### Related:
 

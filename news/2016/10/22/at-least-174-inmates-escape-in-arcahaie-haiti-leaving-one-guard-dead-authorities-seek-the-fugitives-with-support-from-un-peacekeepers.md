@@ -8,6 +8,7 @@ Most inmates of a northern Haitian prison escaped on Saturday after killing a gu
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-haiti-prison-idUSKCN12M0VP)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

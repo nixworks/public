@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC news](http://abcnews.go.com/International/wireStory/frances-macron-meets-venezuela-opposition-figures-49612530)
+1. [Cover Image](http://a.abcnews.com/images/International/WireAP_8f644cc3c3bd4cf68c1ba5d18d14dc60_16x9_992.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Saddam aide gets fourth death sentence for gassing of Kurds in Halabja in 1988.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/20101177190839368.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8463955.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

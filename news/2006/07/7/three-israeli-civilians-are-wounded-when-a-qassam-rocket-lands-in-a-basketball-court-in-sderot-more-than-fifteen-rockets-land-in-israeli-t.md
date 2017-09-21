@@ -10,6 +10,7 @@ Day of panic in Gaza vicinity communities: In spite of IDF&#39;s presence inside
 1. [Haaretz](http://www.haaretz.com/hasen/spages/734605.html)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/735911.html)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272427,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ JUSTIN Roser couldn’t save his dad, but he knows he would be proud of him.
 ### Source:
 
 1. [News  Limited](http://www.news.com.au/national/nsw-act/lismore-floods-dad-of-three-dies-as-wild-weather-batters-northern-nsw/news-story/b0fce4a5c07cc4e20d4dc244c8e1fd70)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/3a0d08a56e20c7c7c3e252570caa6a16)
 
 ### Related:
 

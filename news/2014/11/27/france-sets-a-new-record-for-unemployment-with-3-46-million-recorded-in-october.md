@@ -8,6 +8,7 @@ Unemployment in France has soared in October, with a record 3.46 million people 
 ### Source:
 
 1. [Sky News](http://www.skynews.com.au/business/business/world/2014/11/28/france-hits-new-record-unemployment.html)
+1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/business/business/world/2014/11/28/skynews_1975764686.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

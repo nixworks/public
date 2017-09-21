@@ -8,3 +8,4 @@ Rain poured down Thursday for the 16th consecutive day across Texas and Oklahoma
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/19458181/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/070628/070628_texasflood_hmed_1p.standard.jpg)

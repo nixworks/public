@@ -9,6 +9,7 @@ The United States on Monday sent a guided-missile destroyer to challenge 12-naut
 
 1. [Reuters](http://www.reuters.com/article/2015/10/26/us-southchinasea-usa-idUSKCN0SK2AC20151026)
 2. [The Diplomat](http://thediplomat.com/2015/10/us-navy-set-to-send-destroyer-within-12-nautical-miles-of-subi-mischief-reefs/)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151026&t=2&i=1089944944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9P17J)
 
 ### Related:
 

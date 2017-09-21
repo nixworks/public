@@ -8,6 +8,7 @@ British drugmaker GlaxoSmithKline said on Monday some of its executives in China
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/07/22/us-gsk-china-idUSBRE96K07020130722?feedType=RSS&feedName=topNews&dlvrit=992637)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130722&t=2&i=753101914&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96K17GO00)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [Rediff](http://www.rediff.com/news/2005/feb/01nepal.htm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7492904)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

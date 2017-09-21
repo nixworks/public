@@ -9,6 +9,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 1. [ABC News](http://abcnews.go.com/US/wireStory/10-people-shot-victim-dead-detroit-block-party-31918851)
 2. [AP via News24](http://www.news24.com/news24/World/News/10-people-shot-1-dead-at-Detroit-block-party-20150621)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2087/688263dd760448bdb66911fa4313e5b9.jpg)
 
 ### Related:
 

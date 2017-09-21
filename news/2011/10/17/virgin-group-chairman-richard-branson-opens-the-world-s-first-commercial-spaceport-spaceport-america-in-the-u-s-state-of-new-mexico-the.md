@@ -8,6 +8,7 @@ Sir Richard Branson has dedicated the launchpad for his space tourism venture in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15344836)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56117000/jpg/_56117698_013172776-1.jpg)
 
 ### Related:
 

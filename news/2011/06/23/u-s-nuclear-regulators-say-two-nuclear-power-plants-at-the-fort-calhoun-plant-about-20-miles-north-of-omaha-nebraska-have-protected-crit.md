@@ -9,6 +9,7 @@ U.S. nuclear regulators say two Nebraska nuclear power plants have protected cri
 
 1. [CNN](http://www.cnn.com/2011/US/06/23/nebraska.flooding/index.html?hpt=us_c2)
 2. [CNN](http://www.cnn.com/2011/US/06/23/north.dakota.flooding/index.html?hpt=us_c1)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/06/23/nebraska.flooding/tzvids.cooper.nuclear.station.nppd.jpg)
 
 ### Related:
 

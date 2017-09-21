@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304899704579388641408505528?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304899704579388641408505528.html)
+1. [Cover Image](https://si.wsj.net/public/resources/images/AI-CG756_VIETBR_G_20140217093544.jpg)
 
 ### Related:
 

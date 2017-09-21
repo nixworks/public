@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/09/21/world/main2030645.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/09/21/d469f2d2-a642-11e2-a3f0-029118418759/image2031111x.jpg)
 
 ### Related:
 

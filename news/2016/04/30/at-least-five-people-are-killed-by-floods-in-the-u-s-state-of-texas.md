@@ -8,6 +8,7 @@ A 64-year-old woman and her four young great-grandchildren drowned early Saturda
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/us/2016/04/30/woman-4-grandchildren-killed-in-east-texas-flooding.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2016/04/30/woman-4-grandchildren-killed-in-east-texas-flooding/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1462045574487.jpg?ve=1)
 
 ### Related:
 

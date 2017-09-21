@@ -8,6 +8,7 @@ U.S.-led warplanes on Wednesday blocked a convoy of Islamic State fighters and t
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-convoy-idUSKCN1BA1SW)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170830&t=2&i=1199275180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7T16S)
 
 ### Related:
 

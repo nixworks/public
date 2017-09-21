@@ -8,6 +8,7 @@ The sudden deaths of tens of thousands of endangered antelopes in Kazakhstan ove
 ### Source:
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/2015-05-30/mass-deaths-antelopes-kazakhstan-stir-conservation-fears/6509162)
+1. [Cover Image](http://www.abc.net.au/news/image/6509190-1x1-700x700.jpg)
 
 ### Related:
 

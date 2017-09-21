@@ -10,6 +10,7 @@ Results for the special election between Jon Ossoff, a Democrat, and Karen Hande
 1. [Atlanta Journal Constitution](http://www.ajc.com/news/state--regional-govt--politics/handel-defeats-ossoff-win-georgia-6th-district/lO6Ewa4vM1sbftMnQE9x6L/?)
 2. [Reuters](http://www.reuters.com/article/us-usa-politics-georgia-election-idUSKBN19A2TD)
 3. [The New York Times](https://www.nytimes.com/elections/results/georgia-congressional-runoff-ossoff-handel)
+3. [Cover Image](https://int.nyt.com/applications/elections/2017/assets/images/general-GA.png)
 
 ### Related:
 

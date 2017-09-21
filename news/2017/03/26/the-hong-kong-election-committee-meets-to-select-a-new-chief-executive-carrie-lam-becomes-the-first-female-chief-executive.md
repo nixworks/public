@@ -9,6 +9,7 @@ A committee will decide Hong Kong&rsquo;s new leader on Sunday in the first chie
 
 1. [ (''The New York Times](https://www.nytimes.com/2017/03/26/world/asia/hong-kong-election-carrie-lam-chief-executive.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2017/03/26/hong-kong-chief-executive-election-need-know/)
+2. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/03/24/TELEMMGLPICT000123881602-xlarge_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7JGAMvOST4J4Mf192F4vyEM.jpeg)
 
 ### Related:
 

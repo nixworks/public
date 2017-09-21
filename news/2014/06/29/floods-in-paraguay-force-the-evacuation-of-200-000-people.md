@@ -8,6 +8,7 @@ Floods caused by torrential rains have forced the evacuation of 200,00 people in
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/28077210)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75916000/jpg/_75916580_75916578.jpg)
 
 ### Related:
 

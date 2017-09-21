@@ -9,6 +9,7 @@ SHANGHAI (Reuters) - Only by confirming the...
 
 1. [Business Insider](http://www.businessinsider.com/r-one-china-principle-must-be-basis-for-relations-with-taiwan-xinhua-2016-5)
 2. [CNBC](http://www.cnbc.com/2016/05/22/china-pressures-taiwans-president-tsai-ing-wen-to-acknowledge-one-china.html)
+2. [Cover Image](http://static3.businessinsider.com/image/5740064a5124c9b947d86306-1190-625/one-china-principle-must-be-basis-for-relations-with-taiwan-xinhua.jpg)
 
 ### Related:
 

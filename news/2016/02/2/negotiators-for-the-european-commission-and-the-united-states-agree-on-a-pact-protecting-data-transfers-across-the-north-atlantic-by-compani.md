@@ -8,6 +8,7 @@ European and U.S. negotiators agreed a data pact on Tuesday that should prevent 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eu-dataprotection-usa-accord-idUSKCN0VB1RN)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160202&t=2&i=1114347667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1111Z)
 
 ### Related:
 

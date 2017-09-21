@@ -9,6 +9,7 @@
 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/world/europe/eu-member-slovenia-chooses-president-amid-uncertainty-discontent-over-anti-crisis-measures/2012/12/02/c969512c-3c5c-11e2-9258-ac7c78d5c680_story.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-20571215)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64517000/jpg/_64517061_64517060.jpg)
 
 ### Related:
 

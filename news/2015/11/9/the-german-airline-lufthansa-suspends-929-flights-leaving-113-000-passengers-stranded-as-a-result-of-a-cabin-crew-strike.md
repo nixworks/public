@@ -8,6 +8,7 @@ Germany&#x27;s biggest airline Lufthansa scrapped 929 flights on Monday, groundi
 ### Source:
 
 1. [AFP via Yahoo! finance](http://finance.yahoo.com/news/lufthansa-cabin-crew-strike-leaves-113-000-passengers-005000126.html)
+1. [Cover Image](http://l.yimg.com/uu/api/res/1.2/7bvBSPV2BhdXxA9JyFohbQ--/aD02Njg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2176270-1-1-0.jpg)
 
 ### Related:
 

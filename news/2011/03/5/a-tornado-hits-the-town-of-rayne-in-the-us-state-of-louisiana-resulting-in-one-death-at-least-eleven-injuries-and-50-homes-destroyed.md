@@ -11,6 +11,7 @@ At least one person was killed, and 12 others injured, when a tornado struck the
 2. [CNN](http://www.cnn.com/2011/US/03/05/louisiana.storm/)
 3. [Fox News](http://www.foxnews.com/weather/2011/03/05/people-injured-louisiana-tornado/)
 4. [The Daily Advertiser](http://www.theadvertiser.com/article/20110305/NEWS01/110305004)
+4. [Cover Image](http://a57.foxnews.com/global.fncstatic.com/static/managed/img/U.S./0/0/030511_tornado.jpg)
 
 ### Related:
 

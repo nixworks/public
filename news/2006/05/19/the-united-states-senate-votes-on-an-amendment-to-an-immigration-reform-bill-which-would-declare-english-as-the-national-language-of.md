@@ -10,6 +10,7 @@ Lawmakers Vote For English As Both National And Unifying Language
 1. [AP via Forbes](http://www.forbes.com/entrepreneurs/feeds/ap/2006/05/19/ap2759770.html)
 2. [CBS](http://www.cbsnews.com/stories/2006/05/19/national/main1633350.shtml)
 3. [U.S. Senate](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=109&session=2&vote=00131)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/05/02/d9251dc4-a642-11e2-a3f0-029118418759/image1569141x.jpg)
 
 ### Related:
 

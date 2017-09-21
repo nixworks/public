@@ -8,6 +8,7 @@ June 16, 17 and 18 will be remembered for their tornadoes in the years to come. 
 ### Source:
 
 1. [June 16-18 Tornado Outbreak (www.ustornadoes.com](http://www.ustornadoes.com/2014/06/23/tornado-digest-after-three-big-days-in-june-will-we-finish-the-month-strong/)
+1. [Cover Image](http://www.ustornadoes.com/wp-content/uploads/2014/06/matt-gress-twin-tornadoes.jpg)
 
 ### Related:
 

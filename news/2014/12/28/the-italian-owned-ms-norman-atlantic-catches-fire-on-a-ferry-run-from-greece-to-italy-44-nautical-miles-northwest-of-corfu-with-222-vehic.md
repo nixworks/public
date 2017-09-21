@@ -9,6 +9,7 @@ Rescue workers are battling to airlift passengers off a burning ferry adrift in 
 
 1. [BBC](http://www.bbc.com/news/world-europe-30615721)
 2. [The Independent](http://www.independent.co.uk/news/world/europe/norman-atlantic-ablaze-major-rescue-under-way-as-greeceitaly-ferry-evacuated-in-high-winds-9946679.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/12/28/14/ferry-fire-v2.jpg)
 
 ### Related:
 

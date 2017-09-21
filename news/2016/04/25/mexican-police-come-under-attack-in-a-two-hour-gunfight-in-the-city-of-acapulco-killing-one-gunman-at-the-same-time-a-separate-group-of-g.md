@@ -8,6 +8,7 @@ Police officers come under attack in a two-hour gunfight in the Mexican city of 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36127224)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/66FB/production/_89436362_89436361.jpg)
 
 ### Related:
 

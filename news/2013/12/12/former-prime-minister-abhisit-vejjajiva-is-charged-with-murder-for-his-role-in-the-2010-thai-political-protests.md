@@ -8,6 +8,7 @@ Former Thai PM Abhisit Vejjajiva is formally charged with murder over the 2010 c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25328880)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71690000/jpg/_71690332_71689696.jpg)
 
 ### Related:
 

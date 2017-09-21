@@ -9,6 +9,7 @@
 
 1. [AP/Yahoo!](http://news.yahoo.com/s/ap/20100411/ap_on_bi_ge/eu_hungary_elections)
 2. [Reuters](http://www.reuters.com/article/hotStocksNews/idUSBUD00529820100411)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Dick Cheney, the former US Vice President, has undergone heart surgery, he has a
 
 1. [BBC](http://www.bbc.co.uk/news/world-us+canada-10642952)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7891382/Dick-Cheney-undergoes-heart-surgery.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01242/cheney_1242441a.jpg)
 
 ### Related:
 

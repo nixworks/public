@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKBN13K14S)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161125&t=2&i=1163091216&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAO1CF)
 
 ### Related:
 

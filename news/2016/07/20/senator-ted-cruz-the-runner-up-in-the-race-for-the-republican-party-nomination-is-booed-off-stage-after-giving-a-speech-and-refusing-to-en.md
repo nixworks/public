@@ -8,6 +8,7 @@ He was then booed off the stage.
 ### Source:
 
 1. [Vox](http://www.vox.com/2016/7/20/12244126/rnc-convention-ted-cruz-donald-trump-boos)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/XwfsFtDvJQadDR86Dy0c2a757ro=/0x167:3000x1834/1080x600/cdn0.vox-cdn.com/uploads/chorus_image/image/50167671/GettyImages-496995876.0.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Five aspiring prime ministers re each making 15-minute remarks before the ruling
 1. [Reuters](http://ca.reuters.com/article/topNews/idCATRE77R0CS20110829)
 2. [The Australian](http://www.theaustralian.com.au/news/world/leadership-ballot-seals-yoshiko-noda-as-new-pm-for-japan/story-e6frg6so-1226124639570)
 3. [Wall Street Journal](http://blogs.wsj.com/japanrealtime/2011/08/29/candidates-kick-off-election/)
+3. [Cover Image](http://s.wsj.net/public/resources/images/OB-PJ549_dpj_G_20110828233150.jpg)
 
 ### Related:
 

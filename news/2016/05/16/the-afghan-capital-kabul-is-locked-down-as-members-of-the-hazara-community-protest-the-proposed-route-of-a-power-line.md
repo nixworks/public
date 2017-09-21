@@ -8,6 +8,7 @@ KABUL, Afghanistan (AP) — Tens of thousands of Afghanistan&#039;s ethnic Hazar
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/6743f344ef364d94b06ad5dc8833d948/afghan-capital-locked-down-ethnic-demonstration)
+1. [Cover Image](http://binaryapi.ap.org/095c02060f2548799c99a51d6969b8e3/460x.jpg)
 
 ### Related:
 

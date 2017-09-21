@@ -9,3 +9,4 @@ Parts of a Burmese military plane have been found in the sea after it disappeare
 
 1. [Metro UK](http://metro.co.uk/2017/06/07/military-plane-carrying-116-people-disappears-over-burma-6691696/)
 2. [The Independent](http://www.independent.co.uk/news/world/asia/burma-military-plane-missing-live-latest-passengers-soldiers-army-chief-myanmar-a7776876.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/07/16/burma-plane.jpg)

@@ -9,6 +9,7 @@ A UK doctor performed female genital mutilation on a young mother after she gave
 
 1. [BBC](http://www.bbc.com/news/uk-30886077)
 2. [Sky News](http://news.sky.com/story/1410888/court-hears-doctor-performed-fgm-on-new-mum)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/80369000/jpg/_80369090_80369089.jpg)
 
 ### Related:
 

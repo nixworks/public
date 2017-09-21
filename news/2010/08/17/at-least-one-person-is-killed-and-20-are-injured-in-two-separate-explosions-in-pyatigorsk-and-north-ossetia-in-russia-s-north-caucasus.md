@@ -10,6 +10,7 @@ At least one person killed as two explosions rip through volatile Russian region
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gWrVi4CalKKAwzRl7I8PhFIWCZ4g)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/08/20108171378362906.html)
 3. [Voice of Russia](http://english.ruvr.ru/2010/08/17/16157708.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

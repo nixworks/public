@@ -9,6 +9,7 @@ Police rule out any form of radicalisation in the fatal stabbing of a 21-year-ol
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-08-25/qld-backpacker-killing-no-indication-of-radicalisation-home-hill/7784228)
 2. [News.com](http://www.news.com.au/national/queensland/crime/woman-dead-after-stabbing-attack-in-home-hill-queensland/news-story/91afbeba8bb3fa6458486099cbb18087)
+2. [Cover Image](http://www.abc.net.au/news/image/7783258-1x1-700x700.jpg)
 
 ### Related:
 

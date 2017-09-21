@@ -8,6 +8,7 @@ South African President Jacob Zuma defends his record at the African National Co
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20746050)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64794000/jpg/_64794738_64794737.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ By Danielle RobinsonFeb 5 (IFR) - IBM Corp on Tuesday made the most of a surgein
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/05/ibm-bonds-idUSL1N0B5LF520130205)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

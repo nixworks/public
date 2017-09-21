@@ -8,6 +8,7 @@ Distinct changes in telomeres - protective caps on the ends of our DNA strands -
 ### Source:
 
 1. [Medical News Today](http://www.medicalnewstoday.com/articles/293339.php)
+1. [Cover Image](http://www.medicalnewstoday.com/content/images/articles/293/293339/colorful-dna.jpg)
 
 ### Related:
 

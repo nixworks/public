@@ -8,6 +8,7 @@ Angela Eagle has pledged to unite her party and the country as she formally anno
 ### Source:
 
 1. [ITV News](http://www.itv.com/news/2016-07-11/angela-eagle-formally-announces-leadership-bid-against-corbyn/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/1035263/img.jpg)
 
 ### Related:
 

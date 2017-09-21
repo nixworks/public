@@ -10,6 +10,7 @@ Jean Nouvel, known for diverse but distinctive projects, has won architecture’
 1. [Gaulia](http://www.gaulia.com)
 2. [The New York Times](http://www.nytimes.com/2008/03/31/arts/design/31prit.html)
 3. [Time Magazine](http://www.time.com/time/arts/article/0,8599,1726485,00.html)
+3. [Cover Image](https://static01.nyt.com/images/2008/03/31/arts/31prit.751.jpg)
 
 ### Related:
 

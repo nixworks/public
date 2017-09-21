@@ -8,6 +8,7 @@ Sixty-eight Islamists in the United Arab Emirates are jailed on charges of plott
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23142248)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64640000/jpg/_64640840_64640839.jpg)
 
 ### Related:
 

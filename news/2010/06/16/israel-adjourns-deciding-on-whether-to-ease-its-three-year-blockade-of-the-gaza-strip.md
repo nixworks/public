@@ -19,6 +19,7 @@ Security cabinet adjourns meeting on allowing entry of building materials and ot
 10. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178594)
 11. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=178617)
 12. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3906281,00.html)
+12. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

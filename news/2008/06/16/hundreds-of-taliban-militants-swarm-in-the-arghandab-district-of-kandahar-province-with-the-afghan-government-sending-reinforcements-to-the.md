@@ -8,6 +8,7 @@ Hundreds of Taliban fighters have swarmed an area outside Kandahar, in an appare
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/06/17/world/asia/17afghan.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/06/18/world/18afghan-span-75.jpg)
 
 ### Related:
 

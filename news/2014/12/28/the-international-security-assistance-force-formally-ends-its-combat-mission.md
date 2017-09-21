@@ -8,6 +8,7 @@ The U.S.-led coalition in Afghanistan formally ended its combat mission on Sunda
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/28/us-afghanistan-war-idUSKBN0K60FB20141228)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141228&t=2&i=1007717747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABR07M)
 
 ### Related:
 

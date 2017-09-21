@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Phys Org](http://phys.org/news/2016-11-bolivia-declares-drought-emergency.html)
+1. [Cover Image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2016/peopleprotes.jpg)
 
 ### Related:
 

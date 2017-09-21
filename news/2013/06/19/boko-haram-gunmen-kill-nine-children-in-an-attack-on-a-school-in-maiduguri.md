@@ -8,6 +8,7 @@ Suspected Boko Haram militants in Nigeria kill at least nine school children, in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22963515)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68249000/jpg/_68249019_018290309.jpg)
 
 ### Related:
 

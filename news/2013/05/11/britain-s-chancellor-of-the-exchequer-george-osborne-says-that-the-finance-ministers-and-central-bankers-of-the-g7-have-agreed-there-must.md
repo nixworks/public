@@ -8,6 +8,7 @@ The chancellor says the G7 group of industrialised nations have agreed there nee
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-22476233)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67542000/jpg/_67542335_67542334.jpg)
 
 ### Related:
 

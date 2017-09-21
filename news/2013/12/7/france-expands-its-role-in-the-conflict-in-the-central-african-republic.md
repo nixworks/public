@@ -8,6 +8,7 @@ A reinforced French force in the Central African Republic expands operations in 
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-africa-25281959)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71602000/jpg/_71602606_71602605.jpg)
 
 ### Related:
 

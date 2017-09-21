@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/uk-england-merseyside-10638379)
 2. [Liverpool Daily Post](http://www.liverpooldailypost.co.uk/liverpool-news/regional-news/2010/07/14/lead-singer-of-the-zutons-dave-mccabe-in-court-accused-of-breaking-man-s-nose-100252-26854323/)
 3. [Oxford Mail](http://www.oxfordmail.co.uk/uk_national_entertainment/8271913.Zutons__McCabe_denies_assault/)
+3. [Cover Image](http://www.oxfordmail.co.uk/resources/images/1360345/)
 
 ### Related:
 

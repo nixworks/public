@@ -8,6 +8,7 @@ A gunman fires into a crowd watching the English Premier League, killing 11 and 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-37889783)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17227/production/_92295749_southsudanjuba4641116.png)
 
 ### Related:
 

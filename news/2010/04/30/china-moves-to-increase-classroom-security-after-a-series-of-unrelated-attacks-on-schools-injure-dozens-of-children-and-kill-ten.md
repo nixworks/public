@@ -8,3 +8,4 @@ All of 110 pounds, security guard Chen Xiu might not pack much heft, but he says
 ### Source:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/nation/la-fg--china-stabbings-20100501,0,1982257.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

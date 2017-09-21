@@ -16,6 +16,7 @@ West Bank /PNN/ Israeli occupation forces killed on Friday, a Palestinian woman 
 7. [The Times of Israel](http://www.timesofisrael.com/palestinian-dies-in-qalandiya-riot-idf-denies-tear-gas-was-cause/)
 8. [The Times of Israel](http://www.timesofisrael.com/relative-of-kiryat-arba-killer-tries-to-stab-cop-in-hebron-is-shot-dead/)
 9. [The Times of Israel](http://www.timesofisrael.com/rocket-fired-from-gaza-hits-vacant-israeli-preschool/)
+9. [Cover Image](http://english.pnn.ps/wp-content/uploads/2016/07/HEBRON-582x330.jpg)
 
 ### Related:
 

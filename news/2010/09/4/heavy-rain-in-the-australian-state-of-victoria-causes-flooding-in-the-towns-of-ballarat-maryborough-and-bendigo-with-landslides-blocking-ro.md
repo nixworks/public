@@ -10,6 +10,7 @@ Emergency crews are evacuating homes in and around Ballarat, as heavy rain falls
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/iconic-birdsville-races-washed-out-20100904-14v0b.html)
 2. [ABC News Online](http://www.abc.net.au/news/stories/2010/09/04/3002528.htm)
 3. [ABC News Online](http://www.abc.net.au/news/stories/2010/09/04/3002661.htm?WT.mc_id=newsmail)
+3. [Cover Image](http://www.abc.net.au/news/image/2248938-1x1-700x700.jpg)
 
 ### Related:
 

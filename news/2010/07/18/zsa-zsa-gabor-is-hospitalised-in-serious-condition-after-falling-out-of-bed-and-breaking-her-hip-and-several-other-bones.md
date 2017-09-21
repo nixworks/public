@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10675481)
 2. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1295693/Zsa-Zsa-Gabor-condition-falling-bed-breaking-bones.html?ITO=1490)
 3. [KTLA](http://www.ktla.com/news/landing/ktla-gabor-broken-bones,0,2386023.story)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

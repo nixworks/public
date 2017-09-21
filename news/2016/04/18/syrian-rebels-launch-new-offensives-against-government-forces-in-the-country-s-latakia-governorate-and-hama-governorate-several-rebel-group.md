@@ -9,6 +9,7 @@ Rockets fired from northern Syria have killed four Syrians - three of them child
 
 1. [BBC](http://www.bbc.com/news/world-europe-36077052)
 2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/syria-rebels-attack-government-positions/27681803.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/167AF/production/_89297029_kilisnewafp.jpg)
 
 ### Related:
 

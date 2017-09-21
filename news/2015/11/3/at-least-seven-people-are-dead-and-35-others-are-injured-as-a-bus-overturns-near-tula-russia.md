@@ -8,6 +8,7 @@ At least seven people were killed and 35 injured when a passenger bus on its way
 ### Source:
 
 1. [RT](https://www.rt.com/news/320567-russian-bus-tula-crash/)
+1. [Cover Image](https://img.rt.com/files/2015.11/article/5638687ac4618811668b45d5.jpg)
 
 ### Related:
 

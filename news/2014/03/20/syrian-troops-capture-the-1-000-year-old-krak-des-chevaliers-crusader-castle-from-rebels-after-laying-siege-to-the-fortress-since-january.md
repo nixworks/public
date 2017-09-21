@@ -8,6 +8,7 @@ Syrian soldiers have raised the national flag on the battlements of a 900-year-o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/03/20/us-syria-crisis-lebanon-idUSBREA2J19M20140320)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

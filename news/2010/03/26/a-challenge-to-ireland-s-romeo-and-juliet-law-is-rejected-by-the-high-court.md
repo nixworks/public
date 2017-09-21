@@ -8,6 +8,7 @@ A man who is charged with having sex with a 14-year-old girl when he was 15 has 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0326/court.html)
+1. [Cover Image](https://img.rasset.ie/000103d4-1600.jpg)
 
 ### Related:
 

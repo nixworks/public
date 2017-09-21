@@ -9,6 +9,7 @@ At least 18 people are killed in flooding after a cyclone lashes the island of S
 
 1. [ABC Australia/Reuters](http://www.abc.net.au/news/2013-11-20/italy-declares-state-of-emergency-in-sardinia-after-deadly-cycl/5103888)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-24996292)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71193000/jpg/_71193641_71193640.jpg)
 
 ### Related:
 

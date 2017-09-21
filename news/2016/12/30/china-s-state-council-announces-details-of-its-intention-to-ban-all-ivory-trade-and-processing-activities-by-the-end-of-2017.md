@@ -8,6 +8,7 @@ China announces a ban on all ivory trade and processing activities by the end of
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-38470861)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1214/production/_93182640_mediaitem93182639.jpg)
 
 ### Related:
 
@@ -20,3 +21,4 @@ China announces a ban on all ivory trade and processing activities by the end of
 7. [ "The Times" and Phoenix TV reports that Huang Ju, Executive Vice Premier of the People's Republic of China and a member of the Standing Committee of the Communist Party of China, has died in Beijing. However, the State Council of the People's Republic of China denies these reports.](/news/2007/05/9/the-times-and-phoenix-tv-reports-that-huang-ju-executive-vice-premier-of-the-people-s-republic-of-china-and-a-member-of-the-standing-com.md) _Context: China's State Council_
 8. [ Japanese history textbooks controversy: Sino-Japanese relations worsen after a meeting between Chinese State Councilor Tang Jiaxuan, Foreign Minister Li Zhaoxing, and Japanese Foreign Minister Nobutaka Machimura in Beijing. China continues to refuse an apology for the increasing number of anti-Japanese protests, and further accuses Japan for handling the issues of history and Taiwan "incorrectly". ](/news/2005/04/18/japanese-history-textbooks-controversy-sino-japanese-relations-worsen-after-a-meeting-between-chinese-state-councilor-tang-jiaxuan-foreig.md) _Context: China's State Council_
 9. [ The State Council of the People's Republic of China approves the resignation of Hong Kong's Chief Executive Tung Chee-Hwa, who then becomes a vice-chairman of the Political Consultative Conference, an advisory body. ](/news/2005/03/12/the-state-council-of-the-people-s-republic-of-china-approves-the-resignation-of-hong-kong-s-chief-executive-tung-chee-hwa-who-then-becomes.md) _Context: China's State Council_
+10. [ The Taiwan Affairs Office of the State Council of the People's Republic of China criticizes Chen Shui-bian's recent suggestion that "Taiwan" is the best abbreviation for the Republic of China, characterizing it as an attempt to promote Taiwan independence. ](/news/2004/09/3/the-taiwan-affairs-office-of-the-state-council-of-the-people-s-republic-of-china-criticizes-chen-shui-bian-s-recent-suggestion-that-taiwan.md) _Context: China's State Council_

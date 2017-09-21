@@ -9,6 +9,7 @@ A German court convicts John Demjanjuk of helping to murder more than 28,000 Jew
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12321549)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15068941,00.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52687000/jpg/_52687357_011957818-1.jpg)
 
 ### Related:
 

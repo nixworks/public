@@ -9,6 +9,7 @@ Brazilian police arrest almost the entire city council in Dourados on suspicion 
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11160950)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=364819&CategoryId=14090)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [RIA Novosti](http://en.rian.ru/mlitary_news/20091013/156447426.html)
 3. [RTÉ](http://www.rte.ie/news/2009/1012/cornamona.html)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Two-Passengers-Have-Been-Killed-After-An-Air-Corps-Aircraft-Crashes-In-County-Galway-Ireland/Article/200910215404610?lpos=World_News_First_Home_Article_Teaser_Region_7&lid=ARTICLE_15404610_Two_Passengers_Have_Been_Killed_After_An_Air_Corps_Aircraft_Crashes_In_County_Galway%2C_Ireland)
+4. [Cover Image](https://img.rasset.ie/0002ab01-1600.jpg)
 
 ### Related:
 

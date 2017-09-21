@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/06/03/uk.refinery.explosion/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/06/03/uk.refinery.explosion/tzvids.refinery.gi.afp.jpg)
 
 ### Related:
 

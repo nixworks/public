@@ -9,6 +9,7 @@
 
 1. [AP via Fox News](http://www.foxnews.com/world/2012/06/12/turkey-to-introduce-elective-kurdish-lessons/)
 2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/2012612133656956705.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/12/2012612152049295580_20.jpg)
 
 ### Related:
 

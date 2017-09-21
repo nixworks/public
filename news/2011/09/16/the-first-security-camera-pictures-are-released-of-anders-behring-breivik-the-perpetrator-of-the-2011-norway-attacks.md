@@ -8,6 +8,7 @@ Security cameras captured images of the Norwegian far right extremist accused of
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/44540320/ns/world_news-europe/#.TnK7cL-aOKw)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110915-breivik-vmed-1p.standard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ In a list heavy with make-good honors, grunge pioneer Nirvana is the sole act am
 ### Source:
 
 1. [Variety](http://variety.com/2013/music/news/nirvana-kiss-cat-stevens-among-2014-rock-hall-of-fame-inductees-1200966382/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/12/rock-and-roll-hall-of-fame-nirvana-kiss.jpg?w=1000&amp;h=563&amp;crop=1)
 
 ### Related:
 
@@ -19,3 +20,4 @@ In a list heavy with make-good honors, grunge pioneer Nirvana is the sole act am
 6. [New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.md) _Context: Rock and Roll Hall of Fame_
 7. [Rock and roll musicians including Dr. John, Darlene Love, Neil Diamond, Alice Cooper and Tom Waits are inducted in the Rock and Roll Hall of Fame. ](/news/2011/03/14/rock-and-roll-musicians-including-dr-john-darlene-love-neil-diamond-alice-cooper-and-tom-waits-are-inducted-in-the-rock-and-roll-hall-of.md) _Context: Rock and Roll Hall of Fame_
 8. [ Rock and Roll Hall of Fame chooses Patti Smith, R.E.M., Grandmaster Flash & The Furious Five, the Ronettes, and Van Halen as 2007 inductees. ](/news/2007/01/8/rock-and-roll-hall-of-fame-chooses-patti-smith-r-e-m-grandmaster-flash-the-furious-five-the-ronettes-and-van-halen-as-2007-inductees.md) _Context: Rock and Roll Hall of Fame_
+9. [ The U.S.]Department of Homeland Security intercepts a United Airlines flight from London, so that Yusuf Islam, the musician formerly known as Cat Stevens, can be arrested and deported for allegedly financially supporting groups linked to terrorism. ](/news/2004/09/21/the-u-s-department-of-homeland-security-intercepts-a-united-airlines-flight-from-london-so-that-yusuf-islam-the-musician-formerly-known.md) _Context: Cat Stevens_

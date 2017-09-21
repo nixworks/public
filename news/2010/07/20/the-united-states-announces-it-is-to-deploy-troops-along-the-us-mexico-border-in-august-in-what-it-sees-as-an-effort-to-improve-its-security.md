@@ -8,6 +8,7 @@ US National Guard troops will begin deploying along the US-Mexico border in Augu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10695736)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

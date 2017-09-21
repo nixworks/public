@@ -8,6 +8,7 @@ North Korea has been criticised for remarks about the &quot;final destruction&qu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21510479)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65963000/png/_65963441_kimjongun-final.png)
 
 ### Related:
 

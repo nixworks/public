@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/gossip/le-et-mg-eduard-khil-dies-trololo-singer-dead,0,2846975.story)
+1. [Cover Image](http://www.trbimg.com/img-4fcce63d/turbine/le-et-mg-eduard-khil-dies-trololo-singer-dead-001/600)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pharmaceutical firm Johnson &amp; Johnson says one of its insulin pumps risks be
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-37551633)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15D9E/production/_91520598_onetouch-ping-offhover.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ US citizen, Palestinian among dead in attack, bringing day&#8217;s toll to 5 &#8
 1. [The Times of Israel](http://www.timesofisrael.com/3-dead-several-wounded-in-etzion-bloc-shooting-attack/)
 2. [The Times of Israel](http://www.timesofisrael.com/one-israeli-dead-as-stabber-attacks-tel-aviv-office-building/)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4728168,00.html)
+3. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/11/AvnOuRzHwULGTJ2I1xWPPmp_1tKNzGU1e9a80pEBIzIu.jpg)
 
 ### Related:
 

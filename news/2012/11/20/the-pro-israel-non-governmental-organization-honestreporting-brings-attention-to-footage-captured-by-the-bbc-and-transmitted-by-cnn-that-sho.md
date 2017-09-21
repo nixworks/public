@@ -18,6 +18,7 @@ There is only one thing worse than the image of a child killed by military confl
 9. [SBS](http://www.sbs.com.au/news/article/1713093/Peres-accuses-Iran-of-instigating-Gaza-violence)
 10. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/9685564/Israeli-forces-prepare-for-war-as-troops-mass-on-Gaza-border.html)
 11. [The Times of Israel](http://www.timesofisrael.com/hamas-summarily-executes-six-more-israeli-collaborators/)
+11. [Cover Image](http://a57.foxnews.com/video.foxnews.com/thumbnails/112012/640/360/0/0/al_mayor_112012.jpg?ve=1)
 
 ### Related:
 

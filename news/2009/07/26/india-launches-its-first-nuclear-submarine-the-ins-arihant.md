@@ -11,6 +11,7 @@ India becomes the sixth nation to join the elite A-league as Manmohan Singh form
 2. [RIA Novosti](http://en.rian.ru/world/20090726/155628085.html)
 3. [The Times of India](http://timesofindia.indiatimes.com/NEWS/City/Hyderabad/PM-launches-INS-Arihant-in-Visakhapatnam/articleshow/4820660.cms)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-07/26/content_11775324.htm)
+4. [Cover Image](http://timesofindia.indiatimes.com/photo/4822346.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ UN officials say pirates off the Somalia coast are outperforming the multimillio
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/2010111035515450904.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/10/2010111052337338580_20.jpg)
 
 ### Related:
 

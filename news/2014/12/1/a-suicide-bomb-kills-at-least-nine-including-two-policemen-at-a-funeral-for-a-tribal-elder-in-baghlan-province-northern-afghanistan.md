@@ -8,6 +8,7 @@ At least nine killed and 20 wounded in suicide attack at funeral in Baghlan prov
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2014/12/suicide-blast-hits-afghanistan-funeral-baghlan-2014121764866837.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/6/7/201467770607734_20.jpg)
 
 ### Related:
 

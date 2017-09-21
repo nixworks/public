@@ -10,6 +10,7 @@ Tunisia deploys extra security to tourist sites and vows to close down mosques a
 1. [BBC](http://www.bbc.co.uk/news/uk-33299523)
 2. [BBC](http://www.bbc.com/news/world-africa-33297245)
 3. [Boston Herald](http://www.bostonherald.com/news_opinion/international/middle_east/2015/06/the_latest_germany_says_1_citizen_killed_in_tunisia)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/57E4/production/_83900522_83900521.jpg)
 
 ### Related:
 

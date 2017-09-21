@@ -9,6 +9,7 @@ Intruders ransacked offices of the main opposition party and police detained for
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/23940431/)
 2. [The Christian Science Monitor](http://www.csmonitor.com/2008/0404/p25s14-woaf.html)
+2. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photo_StoryLevel/080403/080403-Zimbabwe-election-hmed-503p.standard.jpg)
 
 ### Related:
 

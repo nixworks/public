@@ -8,6 +8,7 @@ Officials say it was sent in the name of a Greek conservative politician.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39292671)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/103FD/production/_95175566_mediaitem95175565.jpg)
 
 ### Related:
 

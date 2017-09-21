@@ -8,6 +8,7 @@ Dozens of women and girls have been abducted from two villages in north-eastern 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-29740204)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78473000/jpg/_78473380_78473379.jpg)
 
 ### Related:
 

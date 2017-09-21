@@ -8,6 +8,7 @@ Officer, deputy suffer injuries during chase
 ### Source:
 
 1. [The Albuquerque Journal](https://www.abqjournal.com/872211/officers-in-crash-taken-to-hospital-early-friday-morning.html)
+1. [Cover Image](https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/10/21/c01_jd_22oct_crashnu-1000x571.jpg)
 
 ### Related:
 

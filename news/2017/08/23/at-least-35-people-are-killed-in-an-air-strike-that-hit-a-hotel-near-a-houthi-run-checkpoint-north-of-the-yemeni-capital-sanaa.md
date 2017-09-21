@@ -8,6 +8,7 @@ At least 35 people were killed in air strikes that hit a small hotel near a Hout
 ### Source:
 
 1. [Reuters via Channel News Asia](http://www.channelnewsasia.com/news/world/air-strikes-near-houthi-checkpoint-kill-35-in-yemen-9150308?view=DEFAULT)
+1. [Cover Image](http://www.channelnewsasia.com/image/9150476/16x9/991/529/b14e04aa4aef6b786ea5e543ea742d7d/Yw/people-stand-at-the-site-of-saudi-led-air-strikes-in-arhab-area--north-of-sanaa-1.jpg)
 
 ### Related:
 

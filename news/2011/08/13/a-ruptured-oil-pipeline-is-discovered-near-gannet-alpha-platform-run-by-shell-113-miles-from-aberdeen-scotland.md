@@ -8,6 +8,7 @@ Oil company Royal Dutch Shell says it is working to contain a spill at one of it
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14513509)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54579000/jpg/_54579235_gannet_alpha_2_470x376.jpg)
 
 ### Related:
 

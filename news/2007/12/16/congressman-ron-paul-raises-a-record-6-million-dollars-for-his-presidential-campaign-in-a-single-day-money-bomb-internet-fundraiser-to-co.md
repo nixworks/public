@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Politico](http://www.politico.com/news/stories/1207/7421.html)
+1. [Cover Image](http://s3-origin-images.politico.com/071209-paulites.jpg)
 
 ### Related:
 

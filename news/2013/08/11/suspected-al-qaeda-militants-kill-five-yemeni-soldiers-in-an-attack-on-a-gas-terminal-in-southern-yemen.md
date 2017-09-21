@@ -8,6 +8,7 @@ Suspected al-Qaeda militants kill five soldiers in an attack on a gas terminal i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23655421)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69227000/jpg/_69227367_69227366.jpg)
 
 ### Related:
 

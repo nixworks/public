@@ -13,6 +13,7 @@ Killing Of Palestinian Schoolgirl, 10, Sparks Renewed Violence
 4. [Haaretz](http://www.haaretz.com/hasen/spages/534451.html)
 5. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1107228084937&p=1078027574097)
 6. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=564&ncid=564&e=1&u=/nm/20050131/ts_nm/mideast_dc_242)
+6. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2010/07/23/dc8a6a4f-a642-11e2-a3f0-029118418759/image6706350x.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Here&#039;s the latest on this deadly winter storm.
 ### Source:
 
 1. [The Weather Channel](https://weather.com/news/news/winter-storm-niko-impacts)
+1. [Cover Image](http://s.w-x.co/winterstormniko_52.jpg)
 
 ### Related:
 

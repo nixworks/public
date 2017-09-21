@@ -10,6 +10,7 @@ Russia denounces an &quot;absurd&quot; trade bill passed by the US Congress that
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20634768)
 2. [RIA Novosti](http://en.ria.ru/world/20121206/177966064.html)
 3. [RT](http://rt.com/politics/magnitsky-bill-senate-approve-454/)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64198000/jpg/_64198823_64198822.jpg)
 
 ### Related:
 

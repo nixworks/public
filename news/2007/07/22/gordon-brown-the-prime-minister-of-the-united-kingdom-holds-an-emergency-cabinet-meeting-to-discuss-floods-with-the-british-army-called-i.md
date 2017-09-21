@@ -8,6 +8,7 @@ British Prime Minister Gordon Brown has held an emergency Cabinet meeting as sev
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/07/23/1985282.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

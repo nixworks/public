@@ -8,6 +8,7 @@ Three Palestinians were killed in fresh Israeli air strikes in Gaza on Saturday 
 ### Source:
 
 1. [AFP via SBS](http://www.sbs.com.au/news/article/2014/07/19/gaza-deaths-soar-307-israel-offensive-continues)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/452349864_0.jpg)
 
 ### Related:
 

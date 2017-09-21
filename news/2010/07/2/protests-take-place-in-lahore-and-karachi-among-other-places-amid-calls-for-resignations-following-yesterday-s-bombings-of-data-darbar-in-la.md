@@ -8,6 +8,7 @@ Protesters condemn failure to crack down on attackers as Lahore bomb toll touche
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/2010721442570131.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

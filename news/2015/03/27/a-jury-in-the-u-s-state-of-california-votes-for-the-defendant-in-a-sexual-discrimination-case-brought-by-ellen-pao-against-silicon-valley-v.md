@@ -8,6 +8,7 @@ SAN FRANCISCO — A civil jury on Friday returned a verdict in the high-profile 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/technology/la-fi-tn-ellen-pao-loses-kleiner-perkins-20150325-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5515f968/turbine/la-fi-tn-ellen-pao-loses-kleiner-perkins-20150325)
 
 ### Related:
 

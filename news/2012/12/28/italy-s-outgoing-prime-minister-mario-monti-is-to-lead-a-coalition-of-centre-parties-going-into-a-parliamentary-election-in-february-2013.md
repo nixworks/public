@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20859926)
 2. [Reuters](http://www.reuters.com/article/2012/12/28/italy-vote-idUSL5E8NS8S620121228)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

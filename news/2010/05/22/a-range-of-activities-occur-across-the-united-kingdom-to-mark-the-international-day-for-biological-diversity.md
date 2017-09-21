@@ -8,6 +8,7 @@ A wide range of activities take place across the UK to celebrate International D
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10139906.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

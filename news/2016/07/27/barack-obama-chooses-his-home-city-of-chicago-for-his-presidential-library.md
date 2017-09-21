@@ -8,6 +8,7 @@ They chose Jackson Park near the University of Chicago on the city&#039;s South 
 ### Source:
 
 1. [The Hill](http://thehill.com/homenews/administration/289498-obamas-pick-presidential-library-site-in-chicago)
+1. [Cover Image](http://thehill.com/sites/default/files/article_images/chicagoskyline072716_0.jpg)
 
 ### Related:
 

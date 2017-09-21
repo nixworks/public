@@ -12,6 +12,7 @@ European leaders held an emergency summit Sunday to find ways of easing the plig
 3. [Radio New Zealand](http://www.radionz.co.nz/news/world/288016/emergency-eu-talks-on-migrant-crisis-begin)
 4. [Reuters](http://www.reuters.com/article/2015/10/26/us-europe-migrants-plan-idUSKCN0SJ12L20151026)
 5. [The Guardian](http://www.theguardian.com/world/2015/oct/26/eu-and-balkan-leaders-agree-migration-plan)
+5. [Cover Image](http://www.trbimg.com/img-562d1aa8/turbine/ct-europe-migrants-20151025)
 
 ### Related:
 

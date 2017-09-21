@@ -8,6 +8,7 @@ A former University of Virginia lacrosse player and the ex-girlfriend he is accu
 ### Source:
 
 1. [AP via ESPN](http://espn.go.com/college-sports/story/_/id/7554938/virginia-cavaliers-lacrosse-fights-detailed-start-murder-trial)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

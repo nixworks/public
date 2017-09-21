@@ -8,6 +8,7 @@ In the most amazing twist, one of the pioneering robots that went into space alm
 ### Source:
 
 1. [TNN via ''Times of India](http://timesofindia.indiatimes.com/home/science/Robot-found-on-Mars-after-decade-lost-in-space/articleshow/45918102.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/45918124.cms)
 
 ### Related:
 

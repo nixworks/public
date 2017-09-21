@@ -11,6 +11,7 @@
 2. [Daily Record](http://www.dailyrecord.co.uk/2010/11/05/bbc-to-axe-ready-steady-cook-after-15-years-and-2000-episodes-86908-22693780/)
 3. [RTÉ](http://www.rte.ie/ten/2010/1105/readysteadycook.html)
 4. [The Guardian](http://www.guardian.co.uk/media/2010/nov/05/ready-steady-cook-axed-by-bbc)
+4. [Cover Image](http://i2.dailyrecord.co.uk/incoming/article915846.ece/ALTERNATES/s1200/ainsley-harriott-466259482.jpg)
 
 ### Related:
 

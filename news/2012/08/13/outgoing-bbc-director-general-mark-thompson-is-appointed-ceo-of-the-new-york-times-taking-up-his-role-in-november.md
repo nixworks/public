@@ -8,6 +8,7 @@ The New York Times Company announces that outgoing BBC director general Mark Tho
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-19263760)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62278000/jpg/_62278537_015723785-1.jpg)
 
 ### Related:
 

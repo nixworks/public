@@ -9,6 +9,7 @@ Sir Tim Berners-Lee, the British scientist who created the World Wide Web, has a
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8306631.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/technology/news/6321463/Sir-Tim-Berners-Lee-admits-forward-slashes-on-World-Wide-Web-were-a-mistake.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01419/tim_1419883a.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Japan refused to apologize on Saturday for detaining a Chinese boat captain, sho
 
 1. [AP via SignOnSanDiego](http://www.signonsandiego.com/news/2010/sep/25/japan-rejects-chinas-demand-for-apology/)
 2. [Reuters](http://www.reuters.com/article/idUSTRE68I06520100925)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100924&t=2&i=211324943&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-24T170133Z_01_BTRE68N0SUP00_RTROPTP_0_JAPAN-CHINA)
 
 ### Related:
 

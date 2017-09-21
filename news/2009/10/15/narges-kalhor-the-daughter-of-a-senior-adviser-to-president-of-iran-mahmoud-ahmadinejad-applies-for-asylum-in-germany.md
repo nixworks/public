@@ -8,6 +8,7 @@ The daughter of a senior adviser to Iranian President Mahmoud Ahmadinejad has ap
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59E5HL20091015)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

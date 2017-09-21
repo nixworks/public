@@ -8,6 +8,7 @@ Almost a third of the world is now fat, and no country has been able to curb obe
 ### Source:
 
 1. [AP via ''Times of India](http://timesofindia.indiatimes.com/home/science/30-of-world-is-now-fat-no-country-immune-Study/articleshow/35703770.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/35703946.cms)
 
 ### Related:
 

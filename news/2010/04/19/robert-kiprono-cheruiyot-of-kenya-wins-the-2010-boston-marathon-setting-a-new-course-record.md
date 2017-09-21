@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/boston/news/story?id=5112815)
+1. [Cover Image](http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2010%2F0419%2Fbos_a_marathonwinners_576.jpg)
 
 ### Related:
 

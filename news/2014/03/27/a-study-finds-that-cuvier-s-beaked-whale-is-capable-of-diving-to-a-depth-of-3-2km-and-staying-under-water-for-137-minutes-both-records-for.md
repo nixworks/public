@@ -8,3 +8,4 @@
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/world/breaking-news/whale-sets-new-mammal-depth-record/story-e6frfkui-1226867101141)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

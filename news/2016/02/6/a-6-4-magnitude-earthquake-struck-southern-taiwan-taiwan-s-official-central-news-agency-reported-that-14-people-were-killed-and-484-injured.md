@@ -12,6 +12,7 @@ A powerful magnitude 6.4 earthquake strikes southern Taiwan near the city of Tai
 3. [AP](http://hosted.ap.org/dynamic/stories/A/AS_TAIWAN_EARTHQUAKE_THE_LATEST_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 4. [CNN](http://edition.cnn.com/2016/02/06/asia/taiwan-earthquake/index.html)
 5. [Metro](http://metro.co.uk/2016/02/05/dramatic-pics-emerge-of-earthquake-in-taiwan-5665164/)
+5. [Cover Image](http://www.abc.net.au/news/image/7146324-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Supporters of Chinese artist Ai Weiwei hold a party at his studio in Shanghai - 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11705947)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

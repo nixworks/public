@@ -8,6 +8,7 @@ Bernie Sanders will appear with Hillary Clinton at an event in Portsmouth, New H
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/2016-election/bernie-sanders-finally-endorse-hillary-clinton-n607591)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_28/1616441/160712-hillary-clinton-bernie-sanders-endorse-1142a_0805fce6b4ce317d54271a0aacb1a26e.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

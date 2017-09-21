@@ -8,6 +8,7 @@ An Australian working for a non-governmental organisation in Afghanistan is repo
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/2016-11-06/australian-woman-reportedly-kidnapped-in-afghanistan/7999042)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

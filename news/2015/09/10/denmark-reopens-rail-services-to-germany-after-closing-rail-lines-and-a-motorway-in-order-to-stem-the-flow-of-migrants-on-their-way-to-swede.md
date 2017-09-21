@@ -9,6 +9,7 @@ Denmark has resumed rail services to Germany, after closing the train line and a
 
 1. [ITV](http://www.itv.com/news/2015-09-10/denmark-resumes-rail-services-to-germany-amid-refugee-crisis/)
 2. [Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2015/09/10/president-obama-directs-administration-to-accept-at-least-10000-syrian-refugees-in-the-next-fiscal-year/)
+2. [Cover Image](http://news-assets.sn.itv.com/image/file/763894/img.jpg)
 
 ### Related:
 

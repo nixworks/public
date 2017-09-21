@@ -8,6 +8,7 @@ One of the world’s most notorious arms dealers was arrested in Thailand and ch
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/03/07/world/europe/07dealer.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/03/07/world/07dealer-span-75.jpg)
 
 ### Related:
 

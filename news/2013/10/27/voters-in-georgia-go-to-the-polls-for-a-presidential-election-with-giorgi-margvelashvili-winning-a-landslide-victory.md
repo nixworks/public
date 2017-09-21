@@ -9,6 +9,7 @@ Voters in Georgia go to the polls in presidential elections that will end nearly
 
 1. [AFP via NineMSN](http://news.ninemsn.com.au/world/2013/10/28/04/43/pm-ally-claims-win-in-georgia-election)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-24690085)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70735000/jpg/_70735422_70735421.jpg)
 
 ### Related:
 

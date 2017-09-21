@@ -10,6 +10,7 @@ A diamond once part of the Bavarian royal family crown has been recut by its new
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8488183.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/7103328/Graff-accused-of-painting-over-a-Rembrandt-by-gemologists.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0130/1224263436144.html)
+3. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1274467&origw=621)
 
 ### Related:
 

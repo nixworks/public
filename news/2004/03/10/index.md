@@ -16,7 +16,7 @@ _Context: Syria, Syria Accountability and Lebanese Sovereignty Restoration Act, 
 _Context: Kodak, Sony, digital camera, patent_
 
 ### [ U.S. presidential election: The Bush reelection campaign charges that an anti-Bush ad campaign funded with "soft money" from billionaire George Soros funding violates campaign finance laws. The Bush camp plans to file a complaint with the Federal Election Commission regarding a planned anti-Bush advertising campaign by The Media Fund. ](/news/2004/03/10/u-s-presidential-election-the-bush-reelection-campaign-charges-that-an-anti-bush-ad-campaign-funded-with-soft-money-from-billionaire-ge.md)
-_Context: 2004 U.S. presidential candidate, Federal Election Commission, George Soros, George W. Bush, The Media Fund, campaign finance, soft money_
+_Context: 2004 U.S. presidential candidate, Federal Election Commission, George Soros, George W. Bush, The Media Fund, campaign contribution, soft money_
 
 ### [ Canadian federal election: Monia Mazigh, the wife of former Syrian deportee Maher Arar, announces her run for candidacy with the NDP in the riding of Ottawa South. ](/news/2004/03/10/canadian-federal-election-monia-mazigh-the-wife-of-former-syrian-deportee-maher-arar-announces-her-run-for-candidacy-with-the-ndp-in-the.md)
 _Context: 2004 federal election, Maher Arar, Monia Mazigh, NDP, Ottawa South, Syria, ridings_

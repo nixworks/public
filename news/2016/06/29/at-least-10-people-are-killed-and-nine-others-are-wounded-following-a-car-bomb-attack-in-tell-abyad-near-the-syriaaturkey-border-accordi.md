@@ -9,6 +9,7 @@ Khalidi and Tom Perry
 
 1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3665711/Car-bomb-kills-10-Kurdish-held-Syrian-border-town.html)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-border-idUSKCN0ZF0AW)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160629&t=2&i=1143378627&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5S0KP)
 
 ### Related:
 

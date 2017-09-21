@@ -8,3 +8,4 @@ A communist-era dissident in Albania dies three weeks after setting himself on f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20189444)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63895000/jpg/_63895385_63895384.jpg)

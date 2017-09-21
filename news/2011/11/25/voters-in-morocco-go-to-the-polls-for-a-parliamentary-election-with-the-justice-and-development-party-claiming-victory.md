@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2011/11/25/world/africa/morocco-vote/)
 2. [Reuters](http://www.reuters.com/article/2011/11/26/us-morocco-election-idUSTRE7AO1U520111126?feedType=RSS&feedName=worldNews)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111125&t=2&i=538200967&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7AO1TEE00)
 
 ### Related:
 

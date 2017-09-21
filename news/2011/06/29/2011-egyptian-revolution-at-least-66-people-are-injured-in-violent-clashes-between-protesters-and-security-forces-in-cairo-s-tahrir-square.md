@@ -15,6 +15,7 @@ Military spokesman says June air drops in Nafusa Mountains, south of Tripoli, co
 6. [BBC](http://www.bbc.co.uk/news/world-middle-east-13959155)
 7. [McClatchy via ''Sacramento Bee](http://www.sacbee.com/2011/06/28/3734775/violent-clashes-in-carios-tahrir.html)
 8. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Oman-court-jails-13-people-after-protests-for-jobs/articleshow/9040139.cms)
+8. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/14/201161472246426734_20.jpg)
 
 ### Related:
 

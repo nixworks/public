@@ -11,6 +11,7 @@ The deputy leader of Fine Gael - the main opposition party in the Irish Republic
 2. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5j80fzf1i9LrrZoW9p7_jbAbKvXxg)
 3. [RTÉ](http://www.rte.ie/news/2010/0614/finegael.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0614/breaking5.html?via=mr)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

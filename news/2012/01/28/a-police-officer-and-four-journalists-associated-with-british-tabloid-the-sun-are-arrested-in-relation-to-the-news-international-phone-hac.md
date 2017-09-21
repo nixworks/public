@@ -9,6 +9,7 @@ Four current and former Sun journalists and a police officer are bailed by detec
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16771809)
 2. [The Guardian](http://www.guardian.co.uk/media/2012/jan/28/news-international-four-men-arrested)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58155000/jpg/_58155048_000920882-1.jpg)
 
 ### Related:
 

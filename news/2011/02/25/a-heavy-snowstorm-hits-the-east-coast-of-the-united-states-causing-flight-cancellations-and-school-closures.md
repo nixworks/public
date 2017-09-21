@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Oregon Live](http://www.oregonlive.com/weather/index.ssf/2011/02/winter_storm_wallops_east_coas.html)
+1. [Cover Image](//static.advance.net/static/olive/static/img/logos/logo_fb.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ German men convicted on the basis of a 19th century law criminalizing homosexual
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/europe/german-minister-seeks-to-annul-convictions-for-homosexuality/2016/05/11/c094d2d0-175d-11e6-971a-dadf9ab18869_story.html)
 2. [Deutsche Welle](http://www.dw.com/en/germany-set-to-annul-historical-convictions-of-gay-men/a-19250712)
+2. [Cover Image](http://www.dw.com/image/19252122_304.png)
 
 ### Related:
 

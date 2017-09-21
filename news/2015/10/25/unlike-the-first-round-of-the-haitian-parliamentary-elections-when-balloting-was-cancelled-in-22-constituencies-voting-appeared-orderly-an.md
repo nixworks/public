@@ -10,6 +10,7 @@ Haiti&rsquo;s elections officials Sunday thanked voters for a relatively calm el
 1. [AFP via Capital Broadcasting Network](https://www.capitalfm.co.ke/news/2015/10/haiti-hails-presidential-vote-without-violence/)
 2. [AP via Washington Post](https://www.washingtonpost.com/world/the_americas/polarized-haiti-votes-in-presidential-election/2015/10/25/6e490c04-7b7b-11e5-837b-2c3f2478487e_story.html)
 3. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/haiti/article41375367.html)
+3. [Cover Image](http://www.miamiherald.com/latest-news/8635jy-Elections-in-Haiti/ALTERNATES/LANDSCAPE_1140/Elections%20in%20Haiti)
 
 ### Related:
 

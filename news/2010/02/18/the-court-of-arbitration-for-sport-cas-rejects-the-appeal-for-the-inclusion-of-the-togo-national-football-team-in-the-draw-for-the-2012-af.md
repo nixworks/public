@@ -10,6 +10,7 @@ All the latest Football News, Results &amp; Fixtures, brought to you as it happe
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8522623.stm)
 2. [RTÉ](http://www.rte.ie/sport/soccer/2010/0218/togo.html)
 3. [The Irish Times](http://www.irishtimes.com/sports/soccer/2010/0218/1224264785887.html)
+3. [Cover Image](http://www.irishtimes.com/polopoly_fs/1.2302052.1438259328!/image/image.png)
 
 ### Related:
 

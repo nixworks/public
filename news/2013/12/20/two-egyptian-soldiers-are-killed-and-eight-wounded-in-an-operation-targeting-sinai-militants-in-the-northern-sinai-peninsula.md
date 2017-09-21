@@ -8,6 +8,7 @@ A security official in Egypt says clashes between soldiers and wanted al-Qaida-i
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2013/12/20/official-2-egyptian-soldiers-killed-8-wounded-in-operation-targeting-sinai/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/12/20/official-2-egyptian-soldiers-killed-8-wounded-in-operation-targeting-sinai/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1422707988728.jpg?ve=1)
 
 ### Related:
 

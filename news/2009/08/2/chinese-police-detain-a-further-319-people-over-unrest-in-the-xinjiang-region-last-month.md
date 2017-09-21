@@ -10,6 +10,7 @@ Chinese police detained 319people suspected of involvement in deadly ethnic riot
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=102304&sectionid=351020404)
 2. [Reuters India](http://in.reuters.com/article/oilRpt/idINPEK14834420090802)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-08/02/content_11814102.htm)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

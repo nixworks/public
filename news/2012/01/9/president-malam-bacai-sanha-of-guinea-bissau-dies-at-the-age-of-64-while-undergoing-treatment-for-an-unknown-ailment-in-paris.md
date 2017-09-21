@@ -8,6 +8,7 @@ The president of the West African country of Guinea-Bissau, Malam Bacai Sanha, d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16473457)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57780000/jpg/_57780442_009989775-1.jpg)
 
 ### Related:
 

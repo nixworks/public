@@ -8,6 +8,7 @@ Music industry, which leads drive against Internet file sharing of copyrighted w
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2004/04/05/technology/05music.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

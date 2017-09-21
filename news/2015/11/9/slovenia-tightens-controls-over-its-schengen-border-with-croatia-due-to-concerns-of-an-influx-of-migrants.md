@@ -8,6 +8,7 @@ Slovenian government said Monday it would take urgent measures to strengthen con
 ### Source:
 
 1. [AFP via Yahoo News](http://news.yahoo.com/slovenia-tighten-border-control-fears-unmanageable-migrant-wave-223621141.html;_ylt=AwrC1zHbJUFWdUAAl9DQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/Hic247f6X6m_aWaXGftSXw--/aD02NzU7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8320694-1-1-0.jpg)
 
 ### Related:
 

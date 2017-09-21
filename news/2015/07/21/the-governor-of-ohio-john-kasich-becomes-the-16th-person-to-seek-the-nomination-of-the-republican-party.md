@@ -8,6 +8,7 @@ Ohio Gov. John Kasich is officially running for the Republican nomination for pr
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/2016-election/john-kasich-says-hes-running-president-n395396)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_30/1133251/150721-kasich-campaign-launch-1213p_803dd03d1ddcf1bc46ff8d43ace7e67a.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

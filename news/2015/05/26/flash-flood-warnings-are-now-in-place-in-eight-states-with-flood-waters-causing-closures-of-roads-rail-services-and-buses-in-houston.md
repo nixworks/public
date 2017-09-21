@@ -10,6 +10,7 @@ An unprecedented downpour of torrential rain triggered &quot;extremely dangerous
 1. [AP via News24](http://www.news24.com/news24/World/News/30-missing-as-flood-waters-rise-in-Texas-20150526)
 2. [AP](http://bigstory.ap.org/article/9e7dbcf964604043857ab202426419aa/latest-recovery-cleanup-set-begin-texas-mexico)
 3. [NBC News](http://www.nbcnews.com/news/weather/waterlogged-texas-plains-under-threat-fresh-round-thunderstorms-n364456)
+3. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_22/1041746/150526-austin-flooding-745a_f85e69655fbea1c1dc0b658812c09d7f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

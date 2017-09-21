@@ -8,6 +8,7 @@ Leaders from the Union of South American Nations, Unasur meeting in a regional s
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/11/unasur-divided-on-colombiaus-troops-issue-next-summit-in-argentina)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19776/200x200/639a376b22836031c3594f08794b3efe.jpg)
 
 ### Related:
 

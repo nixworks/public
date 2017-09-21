@@ -11,6 +11,7 @@ Dozens more people are reported dead or missing as the worst torrential rain in 
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10771525)
 3. [Reuters via Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_558353.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-07/27/c_13416580.htm)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
@@ -22,4 +23,5 @@ Dozens more people are reported dead or missing as the worst torrential rain in 
 6. [ The government investigation of the assault that partially paralyzed Fu Xiancai, a Chinese activist protesting the displacement caused by the Three Gorges Dam, concludes that he hit himself in the back of the neck, breaking three vertebrae. ](/news/2006/07/27/the-government-investigation-of-the-assault-that-partially-paralyzed-fu-xiancai-a-chinese-activist-protesting-the-displacement-caused-by-t.md) _Context: Three Gorges Dam_
 7. [ The construction of the Three Gorges Dam wall, the largest dam in the world, is completed in the People's Republic of China. ](/news/2006/05/20/the-construction-of-the-three-gorges-dam-wall-the-largest-dam-in-the-world-is-completed-in-the-people-s-republic-of-china.md) _Context: Three Gorges Dam_
 8. [ China opens Three Gorges Dam to tourists. ](/news/2005/05/31/china-opens-three-gorges-dam-to-tourists.md) _Context: Three Gorges Dam_
-9. [ The sluice-gates on the Three Gorges Dam in China are closed, starting the filling of the reservoir of the world's largest hydroelectric project.](/news/2003/06/1/the-sluice-gates-on-the-three-gorges-dam-in-china-are-closed-starting-the-filling-of-the-reservoir-of-the-world-s-largest-hydroelectric-pr.md) _Context: Three Gorges Dam_
+9. [ The "China Times" reports that the People's Republic of China has deployed heavily armed troops to guard the Three Gorges Dam from a possible terrorist attack. ](/news/2004/09/14/the-china-times-reports-that-the-people-s-republic-of-china-has-deployed-heavily-armed-troops-to-guard-the-three-gorges-dam-from-a-possib.md) _Context: Three Gorges Dam_
+10. [ The sluice-gates on the Three Gorges Dam in China are closed, starting the filling of the reservoir of the world's largest hydroelectric project.](/news/2003/06/1/the-sluice-gates-on-the-three-gorges-dam-in-china-are-closed-starting-the-filling-of-the-reservoir-of-the-world-s-largest-hydroelectric-pr.md) _Context: Three Gorges Dam_

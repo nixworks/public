@@ -9,6 +9,7 @@ Conservative Party co-treasurer Peter Cruddas resigns after a secretly-filmed vi
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-17503116)
 2. [The Guardian](http://www.guardian.co.uk/politics/2012/mar/25/peter-cruddas-resigns-cash-access)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59286000/jpg/_59286484_014346882-1.jpg)
 
 ### Related:
 

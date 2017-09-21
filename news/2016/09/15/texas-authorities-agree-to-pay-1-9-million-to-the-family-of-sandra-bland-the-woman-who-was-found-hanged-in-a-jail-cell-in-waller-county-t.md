@@ -8,6 +8,7 @@ Sandra Bland was found dead in jail cell following heated traffic stop in Texas
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/sandra-bland-family-reaches-million-settlement-texas-authorities/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/07/21/35a63d35-571c-4aed-8cdf-0e6eb4ec3b80/635726443366932248-bland-04.jpg)
 
 ### Related:
 

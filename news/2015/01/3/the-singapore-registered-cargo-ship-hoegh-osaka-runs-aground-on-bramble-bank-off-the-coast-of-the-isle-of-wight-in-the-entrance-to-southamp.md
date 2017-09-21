@@ -8,6 +8,7 @@ The crew of a car transporter, which ran on to a sand bank in the Solent off the
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-hampshire-30670746)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80044000/jpg/_80044413_508440.jpg)
 
 ### Related:
 

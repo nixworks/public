@@ -9,6 +9,7 @@ The republic of Rwanda was admitted to the Commonwealth on Saturday, becoming th
 
 1. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=458567)
 2. [The New York Times](http://www.nytimes.com/2009/11/29/world/africa/29rwanda.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A state of emergency was declared in the Peloponnesian town of Tripoli on Saturd
 ### Source:
 
 1. [The International New York Times](http://www.ekathimerini.com/204077/article/ekathimerini/news/state-of-emergency-declared-in-tripoli-over-trash)
+1. [Cover Image](http://www.ekathimerini.com/resources/2015-12/skoupidia1-thumb-large-thumb-large.jpg)
 
 ### Related:
 

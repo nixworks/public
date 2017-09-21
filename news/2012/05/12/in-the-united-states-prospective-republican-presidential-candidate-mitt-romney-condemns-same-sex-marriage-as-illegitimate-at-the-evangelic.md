@@ -8,6 +8,7 @@ Presumptive US Republican presidential nominee Mitt Romney restates his oppositi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/18046282)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60196000/jpg/_60196144_014729689-1.jpg)
 
 ### Related:
 

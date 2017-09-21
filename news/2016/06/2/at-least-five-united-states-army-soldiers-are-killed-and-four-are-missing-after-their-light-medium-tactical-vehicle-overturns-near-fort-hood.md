@@ -8,6 +8,7 @@ The bodies of two additional soldiers were found Thursday night, bringing the to
 ### Source:
 
 1. [KXAN](http://kxan.com/2016/06/02/three-soldiers-dead-in-fort-hood-low-water-crossing/)
+1. [Cover Image](https://lintvkxan.files.wordpress.com/2016/06/search-crews-fort-hood.jpg?w=1200)
 
 ### Related:
 

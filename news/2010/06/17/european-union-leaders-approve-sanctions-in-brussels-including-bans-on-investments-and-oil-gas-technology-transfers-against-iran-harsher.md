@@ -11,6 +11,7 @@ European Union leaders approve new sanctions on Iran that are tougher than recen
 2. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10341907.stm)
 3. [Reuters](http://af.reuters.com/article/ivoryCoastNews/idAFLDE65G1AF20100617?feedType=RSS&feedName=ivoryCoastNews)
 4. [The News International](http://www.thenews.com.pk/updates.asp?id=106858)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

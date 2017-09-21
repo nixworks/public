@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CTV](http://www.ctvnews.ca/canada/earthquakes-felt-across-eastern-ontario-southwestern-quebec-1.1285923)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1286795.1368828344!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

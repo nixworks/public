@@ -8,6 +8,7 @@ The annual Orange Order parade in Drumcree passed off peacefully, with the PSNI 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0705/drumcree.html)
+1. [Cover Image](https://img.rasset.ie/00026c53-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A man was decapitated in a terrorist attack at a gas factory near Lyon, eastern 
 ### Source:
 
 1. [The Local](http://www.thelocal.fr/20150626/france-explosion-decapitated-body-isis-islamist)
+1. [Cover Image](https://www.thelocal.fr/userdata/images/article/07177aefdd36755af8d58a08777a6c960b7eaa673dbcdff2783afd790d5d92dd.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least three people have been killed as Typhoon Chaba batters South Korea.
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/10/05/typhoon-chaba-closing-western-japan)
 2. [The Korea Times](https://www.koreatimes.co.kr/www/news/nation/2016/10/116_215460.html)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/0/5/051016m_TyphoonChaba_800x600.jpg)
 
 ### Related:
 

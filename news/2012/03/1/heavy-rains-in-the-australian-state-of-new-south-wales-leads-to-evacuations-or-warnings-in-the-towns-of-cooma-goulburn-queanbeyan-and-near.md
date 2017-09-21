@@ -13,6 +13,7 @@ Residents in parts of Goulburn are being ordered to leave their homes and busine
 4. [Stock and Land](http://sl.farmonline.com.au/news/state/livestock/cattle/evacuations-as-floods-waters-lap-homes-cars/2473515.aspx?src=rss)
 5. [Sydney Morning Herald](http://www.smh.com.au/act-news/live-flood-watch-in-act-and-surrounding-regions-20120301-1u4fp.html)
 6. [The Australian](http://www.theaustralian.com.au/news/nation/flood-evacuations-loom-in-nsw-as-the-state-gets-a-soaking/story-e6frg6nf-1226285874282)
+6. [Cover Image](http://www.abc.net.au/news/image/3862804-1x1-700x700.jpg)
 
 ### Related:
 

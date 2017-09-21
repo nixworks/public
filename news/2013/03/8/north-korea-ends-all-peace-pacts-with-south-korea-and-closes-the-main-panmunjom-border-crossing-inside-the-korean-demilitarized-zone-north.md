@@ -9,6 +9,7 @@ North Korea is scrapping all non-aggression pacts with South Korea, closing its 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21709917)
 2. [CNN](http://edition.cnn.com/2013/03/08/world/asia/north-korea-sanctions)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66269000/jpg/_66269451_017352876.jpg)
 
 ### Related:
 

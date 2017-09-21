@@ -8,6 +8,7 @@ Censors have refused classification for a 30-year-old award-winning Swedish film
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/entertainment/movies/australia-bans-awardwinning-swedish-film-childrens-island-over-child-porn-concerns-20140227-33lxx.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/3/3/l/g/d/image.related.articleLeadwide.620x349.33lxx.png/1393492367460.jpg)
 
 ### Related:
 

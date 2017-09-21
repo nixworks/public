@@ -11,6 +11,7 @@
 2. [Albawaba](http://www.albawaba.com/news/clashes-continue-syrian-mp-defects-435755)
 3. [CNN](http://edition.cnn.com/2012/07/26/world/meast/syria-unrest/index.html?hpt=hp_t1)
 4. [Reuters](http://www.reuters.com/article/2012/07/27/us-syria-crisis-defection-idUSBRE86Q04K20120727)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

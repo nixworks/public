@@ -8,3 +8,4 @@ Danaher Corp.’s purchase of Pall Corp. for $13.8 billion will complete a march
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-05-13/danaher-to-buy-pall-for-13-8-billion-split-into-two-companies)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)

@@ -8,3 +8,4 @@ Get the latest NFL news, video updates, scores, schedules, standings and more on
 ### Source:
 
 1. [Sporting News](http://www.sportingnews.com/nfl/article/2010-04-22/sam-bradford-rams-ready-start-winning-football-games)
+1. [Cover Image](http://st.snimg.com/image/logo/sn-social.png)

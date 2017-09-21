@@ -9,6 +9,7 @@ All the regional groupings on the UN Security Council condemn Israeli settlement
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16279947)
 2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=250271)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57449000/jpg/_57449763_57449762.jpg)
 
 ### Related:
 

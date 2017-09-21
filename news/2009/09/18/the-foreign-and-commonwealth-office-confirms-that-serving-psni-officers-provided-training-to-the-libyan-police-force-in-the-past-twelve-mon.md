@@ -8,6 +8,7 @@ The British Foreign Office has confirmed that serving PSNI officers have provide
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0918/libya.html)
+1. [Cover Image](https://img.rasset.ie/0001a0c7-1600.jpg)
 
 ### Related:
 

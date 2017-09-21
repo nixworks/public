@@ -9,6 +9,7 @@ Liberal candidate Yvonne Jones won the federal byelection in Labrador on Monday,
 
 1. [CBC News](http://www.cbc.ca/news/politics/story/2013/05/13/nl-labrador-byelection-results-513.html)
 2. [CTV News](http://www.ctvnews.ca/politics/liberals-win-back-labrador-in-federal-byelection-1.1278672)
+2. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1280525.1368534342!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

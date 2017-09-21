@@ -8,6 +8,7 @@ The Age 404 Page
 ### Source:
 
 1. [AFP via the Melbourne Age](http://www.theage.com.au/news/Technology/US-presidential-candidates-to-chat-with-youths-on-MySpaceMTV/2007/08/23/1187462430010.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

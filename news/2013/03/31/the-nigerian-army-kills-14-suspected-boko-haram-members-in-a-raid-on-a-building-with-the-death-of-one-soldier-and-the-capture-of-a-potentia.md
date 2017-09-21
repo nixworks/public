@@ -8,6 +8,7 @@ Nigerian troops say they have killed 14 suspected members of the Islamist group 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21989075)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66465000/gif/_66465477_nigeria_kano304.gif)
 
 ### Related:
 

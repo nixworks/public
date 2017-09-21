@@ -8,6 +8,7 @@ With the start of the dolphin-hunt season in the town of Taiji in Japan, a lot o
 ### Source:
 
 1. [Japan Daily Press](http://japandailypress.com/us-ambassador-caroline-kennedy-tweets-against-japans-dolphin-hunt-in-taiji-2042693/)
+1. [Cover Image](http://japandailypress.com/wp-content/uploads/2014/01/caroline-kennedy-ftr.jpg)
 
 ### Related:
 

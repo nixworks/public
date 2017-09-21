@@ -8,6 +8,7 @@ French President Nicolas Sarkozy defends his economic record at the first big ra
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17091515)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58590000/jpg/_58590180_014045795-1.jpg)
 
 ### Related:
 

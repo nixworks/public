@@ -11,6 +11,7 @@ Sheikh Hamad is the first head of state to visit embattled Palestinian enclave s
 2. [BBC](http://www.bbc.com/news/world-middle-east-20037203)
 3. [The Guardian](http://www.guardian.co.uk/world/2012/oct/23/qatari-emir-welcome-gaza-visit)
 4. [The Times of Israel](http://www.timesofisrael.com/gaza-offers-qatari-ruler-heros-welcome/)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/23/2012102312359894580_20.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Bangladesh&#39;s finance minister has downplayed the impact of last week&#39;s f
 2. [AP via News24](http://www.news24.com/news24/World/News/Minister-says-collapse-not-serious-20130503-2)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-22404461)
 4. [CNN](http://edition.cnn.com/2013/05/03/world/asia/bangladesh-building-collapse/index.html?hpt=ias_c1)
+4. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2323/399ef816c1e84b76a8e571b3ae00ec2a.jpg)
 
 ### Related:
 

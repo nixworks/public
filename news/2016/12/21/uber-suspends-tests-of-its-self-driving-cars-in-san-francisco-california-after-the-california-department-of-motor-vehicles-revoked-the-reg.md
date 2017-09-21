@@ -8,6 +8,7 @@ Uber halts its self-driving car pilot in San Francisco after regulators say it n
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-38400224)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7F97/production/_90836623_febc7c11-3a0a-48a6-80cb-a9183743ad15.jpg)
 
 ### Related:
 

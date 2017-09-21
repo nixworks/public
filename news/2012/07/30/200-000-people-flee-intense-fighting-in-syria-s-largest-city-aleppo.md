@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19044384)
 2. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2012/07/syrias-charge-daffaires-in-london-resigns-in-protest-/1#.UBaz2mGe6Qx)
+2. [Cover Image](http://i.usatoday.net/communitymanager/_photos/on-deadline/2012/07/29/Syriax-inset-community.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Armed civilian groups have attacked the Venezuelan Parliament building after a c
 
 1. [Firstpost](http://www.firstpost.com/world/venezuelan-parliament-attacked-by-armed-civilian-groups-several-legislators-and-reporters-injured-3752637.html)
 2. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN19I2RV)
+2. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2017/06/Venezuela-national-assembly-julio-borges-reuters-social.jpg)
 
 ### Related:
 

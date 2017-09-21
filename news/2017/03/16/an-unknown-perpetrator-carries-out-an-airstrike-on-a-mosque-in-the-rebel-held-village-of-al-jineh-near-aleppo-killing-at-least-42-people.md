@@ -8,6 +8,7 @@ The US investigates reports that it killed dozens of civilians but denies it hit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-39299266)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7990/production/_95202113_gettyimages-654304278.jpg)
 
 ### Related:
 

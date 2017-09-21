@@ -8,6 +8,7 @@ All Commonwealth realms agree to a bill to change royal succession rules which d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20600543)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64567000/jpg/_64567743_b1sxgd9k.jpg)
 
 ### Related:
 

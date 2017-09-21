@@ -8,6 +8,7 @@ A panel of US health experts recommends formal approval of Truvada, a drug to pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-18030057)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60161000/jpg/_60161749_107091581.jpg)
 
 ### Related:
 

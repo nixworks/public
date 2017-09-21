@@ -8,6 +8,7 @@ Live cattle exports to 11 Indonesian abattoirs investigated by the ABC&#039;s Fo
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2011/05/31/3231665.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/image/2737912-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ In a sudden address to the nation, Prime Minister Narendra Modi has announced th
 
 1. [BBC](http://www.bbc.com/news/business-37906742)
 2. [NDTV](http://www.ndtv.com/india-news/rs-500-and-rs-1-000-notes-are-now-just-paper-says-pm-modi-1622960?pfrom=home-lateststories)
+2. [Cover Image](http://i.ndtvimg.com/i/2016-11/pm-modi_650x400_61478621987.jpg)
 
 ### Related:
 

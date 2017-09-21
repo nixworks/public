@@ -8,6 +8,7 @@ A retired French electrician and his wife who came forward with a huge stash of 
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/stories/2010/12/09/3088681.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/2356244-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Douglas Gordon is the first visual artist to be nominated for a Royal Philharmon
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17742620)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59704000/jpg/_59704721_douglasgordonportrait2lowres.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Citing a 2011 statement by a French intellectual, Erdogan claimed he could prove
 
 1. [The Times of Israel](http://www.timesofisrael.com/us-pans-turkish-pm-for-saying-israel-ousted-morsi/)
 2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/turkeys-erdogan-says-israel-behind-egyptian-leaders-ouster-says-has-evidence-to-prove-it/2013/08/20/9da8d9b8-0984-11e3-89fe-abb4a5067014_story.html)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/06/edrogon-e1376995999311.jpg)
 
 ### Related:
 

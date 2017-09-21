@@ -8,6 +8,7 @@ A miner dies after being trapped by debris in a roof fall at Kellingley Colliery
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-leeds-15083044)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55618000/jpg/_55618197_kellingley.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ This vastly endearing actor, who made such an impression in Withnail And I and T
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/culture/film/9961489/Richard-Griffiths-the-greatest-of-the-history-boys.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02523/griffiths_2523036k.jpg)
 
 ### Related:
 

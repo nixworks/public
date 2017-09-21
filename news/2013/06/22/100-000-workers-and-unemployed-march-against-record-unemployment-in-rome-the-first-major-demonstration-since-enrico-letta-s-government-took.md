@@ -8,6 +8,7 @@ Protesters call for Italian government to act on record 12 percent unemployment 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/2013622131525668802.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/22/2013622132715179734_20.jpg)
 
 ### Related:
 

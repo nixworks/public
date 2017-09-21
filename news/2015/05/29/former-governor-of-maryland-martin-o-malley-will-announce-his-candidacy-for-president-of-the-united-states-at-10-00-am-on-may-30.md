@@ -8,6 +8,7 @@
 ### Source:
 
 1. [USA Today](http://onpolitics.usatoday.com/2015/05/29/omalley-guitar-video/)
+1. [Cover Image](https://www.gannett-cdn.com/uxstatic/usatoday/usat-web-static-2928.0/images/logos/news.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The bomb squad has neutralized a suspicious package found in a vehicle near Mark
 ### Source:
 
 1. [CP24](http://www.cp24.com/servlet/an/local/CTVNews/20090914/090914_evacuation/20090914/?hub=CP24Home)
+1. [Cover Image](https://www.cp24.com/polopoly_fs/1.847474.1340292099!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

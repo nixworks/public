@@ -8,6 +8,7 @@ PAPUA New Guinea has responded with dismay over Bob Carr&#039;s surprise threat 
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/opinion/political-news/png--reacts-with-fury-to-bob-carrs-sanction-threat-20120315-1v6m8.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/v/6/s/9/image.related.articleLeadwide.620x349.1v6m8.png/1401656955457.jpg)
 
 ### Related:
 

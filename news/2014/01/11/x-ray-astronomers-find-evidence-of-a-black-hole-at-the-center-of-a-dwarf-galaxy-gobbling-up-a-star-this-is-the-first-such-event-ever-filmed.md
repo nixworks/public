@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Astronomy](http://www.astronomy.com/news/2014/01/death-by-black-hole-in-small-galaxy)
+1. [Cover Image](http://www.astronomy.com/~/media/2826DC78F44240ABB4EC0B92552E4D43.jpg)
 
 ### Related:
 

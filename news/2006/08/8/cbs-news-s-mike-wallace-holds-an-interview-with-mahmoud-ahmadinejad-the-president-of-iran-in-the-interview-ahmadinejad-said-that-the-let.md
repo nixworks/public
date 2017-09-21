@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/08/09/60minutes/main1879867.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/08/09/5563c736-a644-11e2-a3f0-029118418759/image1880012x.jpg)
 
 ### Related:
 

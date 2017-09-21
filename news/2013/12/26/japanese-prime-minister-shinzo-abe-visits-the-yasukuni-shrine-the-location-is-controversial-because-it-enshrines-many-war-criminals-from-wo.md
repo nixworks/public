@@ -8,6 +8,7 @@ A visit to the Yasukuni Shrine highlighted Prime Minister Shinzo Abe&#8217;s wil
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/12/27/world/asia/japanese-premier-visits-contentious-war-shrine.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2013/12/27/world/japan/japan-videoSixteenByNine1050-v2.jpg)
 
 ### Related:
 

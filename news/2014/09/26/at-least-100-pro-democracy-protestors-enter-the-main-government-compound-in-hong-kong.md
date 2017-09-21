@@ -8,6 +8,7 @@ Dozens of pro-democracy protesters have pushed through a police cordon to break 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-29378961)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/77853000/jpg/_77853305_77852969.jpg)
 
 ### Related:
 

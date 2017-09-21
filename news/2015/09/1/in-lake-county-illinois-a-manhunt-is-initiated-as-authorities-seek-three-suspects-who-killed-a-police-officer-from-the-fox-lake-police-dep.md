@@ -8,6 +8,7 @@ A Fox Lake police officer was shot Tuesday morning, and a massive manhunt with d
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/suburbs/lake-county-news-sun/news/ct-fox-lake-school-lockdown-20150901-story.html)
+1. [Cover Image](http://www.trbimg.com/img-55e65902/turbine/ct-fox-lake-school-lockdown-20150901)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The explosions occurred as representatives of Syria&#x27;s government and its di
 
 1. [NBC News](http://www.nbcnews.com/news/world/damascus-blasts-least-45-dead-110-wounded-bombings-near-sayeda-n507976)
 2. [The Jerusalem Post](http://www.jpost.com/Middle-East/ISIS-claim-responsibility-for-major-attack-near-Damascus-Shiite-shrine-443369)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_04/1397391/160131-damascus-syria-jsw-1037a_c15db9bea7c0310a10ba59759ccd2b75.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

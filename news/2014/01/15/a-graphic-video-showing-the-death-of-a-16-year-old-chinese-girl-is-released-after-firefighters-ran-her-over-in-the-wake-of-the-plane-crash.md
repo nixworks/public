@@ -8,6 +8,7 @@ A hemet-mounted camera worn by a firefighter may provide answers in the death of
 ### Source:
 
 1. [TIME](http://nation.time.com/2014/01/15/new-video-shows-chaotic-scene-after-san-francisco-plane-crash/)
+1. [Cover Image](https://s0.wp.com/wp-content/themes/vip/time2012/library/assets/images/time-logo-og.png)
 
 ### Related:
 

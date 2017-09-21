@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-chile-telescope-idUSKBN18M2JX)
+1. [Cover Image](//s2.reutersmedia.net/resources/r/?m=02&d=20170526&t=2&i=1186464443&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4P1NG)
 
 ### Related:
 

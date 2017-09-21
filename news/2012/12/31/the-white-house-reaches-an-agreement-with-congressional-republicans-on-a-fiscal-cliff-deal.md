@@ -10,6 +10,7 @@ The US formally misses a deadline to avert spending cuts and tax rises - the &qu
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/U/US_FISCAL_CLIFF?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-12-31-21-19-41)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-20879174)
 3. [Reuters](http://www.reuters.com/article/2012/12/31/us-usa-fiscal-idUSBRE8A80WV20121231)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65026000/jpg/_65026776_65026775.jpg)
 
 ### Related:
 

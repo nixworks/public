@@ -8,6 +8,7 @@ USAA, one of the nation’s largest issuers of debit cards and credit cards, is 
 ### Source:
 
 1. [WSJ](http://www.wsj.com/articles/usaa-switching-credit-debit-cards-to-visa-from-mastercard-1445723841)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KK266_0921ca_TOP_20150921140630.jpg)
 
 ### Related:
 

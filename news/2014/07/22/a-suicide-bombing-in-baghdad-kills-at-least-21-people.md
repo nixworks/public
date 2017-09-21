@@ -8,6 +8,7 @@ A suicide driver rammed his explosive-laden car into a police checkpoint in the 
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/07/22/baghdad-suicide-bombing/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

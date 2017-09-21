@@ -8,6 +8,7 @@ RTÉ News has learned that the three Irishmen who were found guilty of training 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2005/0805/colombia.html)
+1. [Cover Image](https://img.rasset.ie/00001b5a-1600.jpg)
 
 ### Related:
 

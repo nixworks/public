@@ -9,6 +9,7 @@ The African Union appeals for funds to increase its force in Somalia amid a cris
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hOH40GuM9OKaPB-vL42ifoGySgjgD9IE3EJO0)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11403025)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

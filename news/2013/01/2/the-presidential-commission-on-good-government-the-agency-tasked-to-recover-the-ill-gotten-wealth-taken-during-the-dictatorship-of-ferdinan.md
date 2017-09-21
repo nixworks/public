@@ -9,6 +9,7 @@ THE PRESIDENTIAL Commission on Good Government (PCGG)-- which is tasked to pursu
 
 1. [Business World](http://www.bworldonline.com/content.php?section=Nation&title=PCGG-submits-exit-proposal-to-Malaca%C3%B1ang&id=63679)
 2. [Rappler](http://www.rappler.com/nation/18920-govt-set-to-quit-marcos-wealth-chase)
+2. [Cover Image](http://www.bworldonline.com/images/fb_sections/Nation.jpg)
 
 ### Related:
 

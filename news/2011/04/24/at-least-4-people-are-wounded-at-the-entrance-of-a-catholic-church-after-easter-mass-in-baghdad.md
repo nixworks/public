@@ -8,6 +8,7 @@ At least four people are injured after a bomb explodes outside the entrance of a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13183215)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52328000/jpg/_52328010_011825493-1.jpg)
 
 ### Related:
 

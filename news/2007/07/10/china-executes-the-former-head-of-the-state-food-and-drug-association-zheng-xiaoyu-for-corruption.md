@@ -8,6 +8,7 @@ China executed the former head of its State Food and Drug Administration on Tues
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/19686498/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/070710/a_brown_execute_070710.standard.jpg)
 
 ### Related:
 

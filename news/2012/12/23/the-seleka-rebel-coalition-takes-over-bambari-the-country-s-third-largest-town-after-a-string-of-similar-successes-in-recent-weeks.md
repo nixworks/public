@@ -8,6 +8,7 @@ Rebels in the Central AfricanRepublic on Sunday seized the town of Bambari, the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/12/23/car-rebels-town-idUSL5E8NN2V920121223)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The unmanned aircraft targeted a house and a vehicle in the area.
 
 1. [PTI via Business Standard](http://www.business-standard.com/article/international/pak-army-kills-35-fleeing-militants-in-air-attacks-114071600425_1.html)
 2. [Pakistan Express Tribune](http://tribune.com.pk/story/736367/drone-strike-in-north-waziristan-kills-15/)
+2. [Cover Image](https://c.tribune.com.pk/2014/07/736367-DroneAFP-1405483631-536-640x480.jpg)
 
 ### Related:
 

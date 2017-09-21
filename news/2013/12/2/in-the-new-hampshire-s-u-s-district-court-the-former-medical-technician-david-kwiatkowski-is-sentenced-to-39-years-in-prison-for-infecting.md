@@ -8,6 +8,7 @@
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/health/2013/12/02/hospital-worker-to-be-sentenced-in-hepatitis-case/?intcmp=latestnews)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2013/12/02/hospital-worker-to-be-sentenced-in-hepatitis-case/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422695789368.jpg?ve=1)
 
 ### Related:
 

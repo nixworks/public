@@ -8,6 +8,7 @@ Parts of Britain are battered by a storm which has washed away part of a railway
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-26042990)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/72765000/jpg/_72765217_72765216.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iran confirmed on Tuesday it had resumed small-scale enrichment of uranium last 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/02/14/iran-uranium060214.html)
+1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@ Iran confirmed on Tuesday it had resumed small-scale enrichment of uranium last 
 7. [ United States-Iran relations continue to deteriorate after US officials called Iran one of the world's most active sponsors of terrorism, as IAEA reveals that Tehran has successfully enriched uranium and is racing ahead with its nuclear programme. Iran says it does not "give a damn" about the verdict from the IAEA director Mohamed ElBaradei and what it might lead to. ](/news/2006/04/29/united-states-iran-relations-continue-to-deteriorate-after-us-officials-called-iran-one-of-the-world-s-most-active-sponsors-of-terrorism-a.md) _Context: Iran, uranium_
 8. [ Iran resumes its nuclear programme at its uranium facility near the city of Isfahan. ](/news/2005/08/8/iran-resumes-its-nuclear-programme-at-its-uranium-facility-near-the-city-of-isfahan.md) _Context: Iran, uranium_
 9. [ Iran admits to having converted thirty-seven tons of raw uranium into a gas, a key step in uranium enrichment. ](/news/2005/05/9/iran-admits-to-having-converted-thirty-seven-tons-of-raw-uranium-into-a-gas-a-key-step-in-uranium-enrichment.md) _Context: Iran, uranium_
-10. [ Iran states that it has resumed building nuclear centrifuges to enrich uranium, reversing an October 2003 pledge to Britain, France and Germany to suspend all uranium enrichment-related activities. The United States contends that the purpose is to produce weapons grade uranium. ](/news/2004/07/31/iran-states-that-it-has-resumed-building-nuclear-centrifuges-to-enrich-uranium-reversing-an-october-2003-pledge-to-britain-france-and-ger.md) _Context: Iran, uranium_
+10. [ Defying a recent United Nations resolution, Iran announces that it will continue converting 37 tons (33,600 kg) of yellowcake uranium into uranium hexafluoride, a requirement for producing nuclear power plant fuel, but which some fear might be used to build nuclear weapons. ](/news/2004/09/21/defying-a-recent-united-nations-resolution-iran-announces-that-it-will-continue-converting-37-tons-33-600-kg-of-yellowcake-uranium-into.md) _Context: Iran, uranium_

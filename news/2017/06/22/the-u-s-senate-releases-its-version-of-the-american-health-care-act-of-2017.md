@@ -8,6 +8,7 @@ Senate Republican leaders released their bill to repeal the Affordable Care Act,
 ### Source:
 
 1. [New York Times](https://www.nytimes.com/2017/06/22/us/politics/senate-health-care-bill.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/06/23/us/23health1_hp/23health1_hp-facebookJumbo-v2.jpg)
 
 ### Related:
 

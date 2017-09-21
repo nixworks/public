@@ -8,6 +8,7 @@ Ecuadorean President Rafael Correa was sworn in for a second term on Monday vowi
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/11/correa-promises-gigantic-struggle-to-deepen-socialist-revolution)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19782/200x200/610f3b2636232b3e26e7897df6500ce9.jpg)
 
 ### Related:
 

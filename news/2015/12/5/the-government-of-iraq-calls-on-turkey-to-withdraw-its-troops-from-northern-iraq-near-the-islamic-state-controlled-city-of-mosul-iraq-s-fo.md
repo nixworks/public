@@ -9,6 +9,7 @@ Baghdad demanded Saturday the immediate withdrawal of forces it said Turkey ille
 
 1. [AFP via Yahoo](http://news.yahoo.com/baghdad-calls-ankara-immediately-withdraw-troops-072001402.html;_ylt=AwrXgyIhmWJWk1AAbQLQtDMD;_ylu=X3oDMTByb2lvbXVuBGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-turkey-idUSKBN0TO0AU20151205#h3HJk2K3boyfYpMu.97)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/DBGq4L0v0LdfkNs.Z.w6Cw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par1784660-1-1-0.jpg)
 
 ### Related:
 

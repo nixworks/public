@@ -8,6 +8,7 @@ The death toll from a strong 6.1-magnitude earthquake that struck the Indonesian
 ### Source:
 
 1. [AFP via Fox News](http://www.foxnews.com/world/2013/07/02/death-toll-in-indonesia-quake-rises-to-22/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/07/02/death-toll-in-indonesia-quake-rises-to-22/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422584253640.jpg?ve=1)
 
 ### Related:
 

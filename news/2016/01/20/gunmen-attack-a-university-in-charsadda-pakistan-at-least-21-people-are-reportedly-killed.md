@@ -8,6 +8,7 @@ Security forces end an attack by four gunmen on a university in north-west Pakis
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-35359072)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/18205/production/_87812889_87812888.jpg)
 
 ### Related:
 

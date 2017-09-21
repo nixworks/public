@@ -8,6 +8,7 @@
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.com/2-chinese-kindergarten-students-poisoned-yogurt-over-school-rivalry-1233041)
+1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2011/07/30/140294-five-natural-wonder-that-boost-up-energy-pictures.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10699893)
 3. [France24](http://www.france24.com/en/20100720-kyrgyzstan-forces-may-have-used-torture-un-rights)
 4. [Reuters](http://uk.reuters.com/article/idUKLDE66J0RF._CH_.2420)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100702&t=2&i=144480687&w=&fh=545px&fw=&ll=&pl=&sq=&r=KGlittlegirl60)
 
 ### Related:
 

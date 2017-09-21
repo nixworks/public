@@ -8,6 +8,7 @@ The bodies of at least 71 young men, all apparently summarily executed, have bee
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21246738)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65570000/jpg/_65570888_65570887.jpg)
 
 ### Related:
 

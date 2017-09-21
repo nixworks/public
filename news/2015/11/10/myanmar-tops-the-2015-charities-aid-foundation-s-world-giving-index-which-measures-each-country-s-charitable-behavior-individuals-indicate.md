@@ -10,6 +10,7 @@ Myanmar is the most generous country in the world, according to the charity CAF 
 1. [CAF 2015 Report](https://www.cafonline.org/docs/default-source/about-us-publications/caf_worldgivingindex2015_report.pdf?sfvrsn=2)
 2. [Market Watch](http://www.marketwatch.com/story/america-is-the-second-most-generous-country-in-the-world-2015-11-10)
 3. [The Guardian](http://www.theguardian.com/voluntary-sector-network/gallery/2015/nov/10/the-10-most-generous-nations-in-the-world-in-pictures)
+3. [Cover Image](http://s.marketwatch.com/public/resources/MWimages/MW-CZ424_myanma_ZG_20141117154821.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ PUTRAJAYA - Foreign ministers from Malaysia, Indonesia and Thailand held talks i
 1. [AP via ''New York Times](http://www.nytimes.com/aponline/2015/05/19/world/asia/ap-as-rohingya-boat-people-.html)
 2. [Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/foreign-ministers-malaysia-thailand-indonesia-discuss-human-traffick)
 3. [wires and ABC Online](http://www.abc.net.au/news/2015-05-20/south-east-asia-nations-hold-crisis-meeting-over-migration/6482426)
+3. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/05/20/MEETING324e_2x.jpg?itok=rgKoZmKn)
 
 ### Related:
 

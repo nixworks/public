@@ -9,6 +9,7 @@ Police in India say they have killed a top Maoist guerrilla, wanted in connectio
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11106278)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Key-suspect-in-Janeshwari-sabotage-killed-in-encounter/articleshow/6443575.cms)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

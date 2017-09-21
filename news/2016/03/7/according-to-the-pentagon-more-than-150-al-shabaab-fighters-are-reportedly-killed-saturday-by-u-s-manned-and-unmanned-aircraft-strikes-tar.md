@@ -10,6 +10,7 @@ More than 150 al-Shabaab fighters were killed in a U.S. military strike Saturday
 1. [FOX News](http://www.foxnews.com/world/2016/03/07/us-drone-strike-kills-more-than-150-al-shabaab-fighters-pentagon-reveals.html)
 2. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKCN0W918C)
 3. [The New York Times](http://www.nytimes.com/2016/03/08/world/africa/us-airstrikes-somalia.html)
+3. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/08/0/0/694940094001_4791658428001_f534908a-b8ae-4e08-a21a-79eeb8d108a5.jpg?ve=1)
 
 ### Related:
 

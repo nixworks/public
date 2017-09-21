@@ -8,6 +8,7 @@ Celebrations erupt as turnout of registered voters exceeds necessary 60 per cent
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011113171554423996.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/13/2011113172757149797_20.jpg)
 
 ### Related:
 

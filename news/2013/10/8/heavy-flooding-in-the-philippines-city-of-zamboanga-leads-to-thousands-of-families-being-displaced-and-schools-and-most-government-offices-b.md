@@ -8,6 +8,7 @@ MANILA &ndash; Classes and work in government offices in Zamboanga City were sus
 ### Source:
 
 1. [ABS-CBN](http://www.abs-cbnnews.com/nation/regions/10/08/13/classes-govt-work-zamboanga-suspended)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/topics/tvpatrol/2013october/100713_flood1.jpg)
 
 ### Related:
 

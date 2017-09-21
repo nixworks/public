@@ -8,6 +8,7 @@ London Assembly Member Jenny Jones calls on the Westminster Council to put up a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-13840989)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53533000/jpg/_53533163_79618505.jpg)
 
 ### Related:
 

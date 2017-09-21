@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-bangladesh-attacks-idUSKCN0XR0F1)
 2. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/bangladesh-hindu-man-hacked-to-death-in-latest-such-attack/2016/04/30/7b5fe53c-0ec6-11e6-bc53-db634ca94a2a_story.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

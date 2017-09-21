@@ -9,6 +9,7 @@ At least 16 people died and 50 were wounded in Libya in four days of clashes bet
 
 1. [FOX News](http://www.foxnews.com/world/2016/11/21/monkey-attack-sets-off-tribal-clashes-in-libya-killing-at-least-20.html)
 2. [Reuters](http://www.reuters.com/article/us-libya-security-sabha-idUSKBN13F0PD)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

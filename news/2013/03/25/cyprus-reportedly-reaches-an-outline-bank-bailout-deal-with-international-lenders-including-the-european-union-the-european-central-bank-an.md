@@ -9,6 +9,7 @@ Cyprus reached an outline deal with international lenders for a 10 billion euro 
 
 1. [Reuters via ''The Sydney Morning Herald](http://www.smh.com.au/business/world-business/eu-deal-emerging-to-shut-cyprus-bank-inflict-losses-20130325-2gp41.html)
 2. [Reuters](http://www.reuters.com/article/2013/03/25/eurogroup-cyprus-agreement-idUSL5N0CH01920130325)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/2/g/p/d/z/image.related.articleLeadwide.620x349.2gp41.png/1364179419210.jpg)
 
 ### Related:
 

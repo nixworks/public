@@ -11,6 +11,7 @@ Seven years after the Sept. 11 attacks, there is no consensus outside the United
 2. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-35417520080910)
 3. [UPI](http://www.upi.com/Top_News/2008/09/11/Al-Qaida_not_universally_blamed_for_911/UPI-82141221114132/)
 4. [Voice of America News](http://www.voanews.com/english/2008-09-10-voa59.cfm)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080910&t=2&i=5941038&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2008-09-11T024443Z_01_NOOTR_RTRMDNC_0_India-354175-1)
 
 ### Related:
 

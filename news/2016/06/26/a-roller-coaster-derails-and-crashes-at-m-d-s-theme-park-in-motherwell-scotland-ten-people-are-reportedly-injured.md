@@ -8,6 +8,7 @@ Eight children and two adults are injured after a rollercoaster derails and cras
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-scotland-glasgow-west-36635086)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12A18/production/_90121367_barnes.gif)
 
 ### Related:
 

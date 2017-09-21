@@ -9,6 +9,7 @@ Court sentences three members of band to two-year jail terms for performing prot
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/08/2012817111157592391.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-19293465)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/18/20128186832155734_20.jpg)
 
 ### Related:
 

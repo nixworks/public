@@ -8,6 +8,7 @@ An armed man who burst into a hotel in Cannes has stolen jewels worth €103m, p
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Stolen-Cannes-jewellery-worth-103m-20130729)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2468/4efd2145b8b9475eb07dd232e8fde481.jpg)
 
 ### Related:
 

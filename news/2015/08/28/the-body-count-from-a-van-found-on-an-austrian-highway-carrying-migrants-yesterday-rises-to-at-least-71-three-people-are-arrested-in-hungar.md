@@ -9,6 +9,7 @@ The body of a &quot;one to two-year-old girl&quot; has been discovered in the ba
 
 1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2015/08/28/world/europe/ap-eu-migrants-the-latest.html)
 2. [ITV](http://www.itv.com/news/update/2015-08-28/toddlers-body-found-in-back-of-abandoned-lorry/)
+2. [Cover Image](http://news-assets.sn.itv.com/image/file/753402/img.jpg)
 
 ### Related:
 

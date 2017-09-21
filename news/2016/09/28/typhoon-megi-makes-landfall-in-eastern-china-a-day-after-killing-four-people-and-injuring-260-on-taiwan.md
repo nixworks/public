@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_ASIA_TYPHOON_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Reuters](http://www.reuters.com/article/us-asia-storm-china-idUSKCN11Z041)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160929&t=2&i=1155392263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8S03O)
 
 ### Related:
 

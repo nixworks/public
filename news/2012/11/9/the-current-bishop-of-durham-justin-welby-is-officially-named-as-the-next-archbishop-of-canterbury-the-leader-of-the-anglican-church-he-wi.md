@@ -8,6 +8,7 @@ The next Archbishop of Canterbury sets out his support for the ordination of wom
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20264520)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64037000/jpg/_64037859_64034654.jpg)
 
 ### Related:
 

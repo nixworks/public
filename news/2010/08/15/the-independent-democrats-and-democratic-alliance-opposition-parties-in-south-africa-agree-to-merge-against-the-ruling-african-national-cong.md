@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10981635)
 2. [Bloomberg](http://www.bloomberg.com/news/2010-08-15/south-african-opposition-parties-merge-in-bid-to-unseat-anc-in-elections.html)
 3. [Times Live South Africa](http://www.timeslive.co.za/local/article603271.ece/Democratic-Alliance-to-absorb-Independent-Democrats)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

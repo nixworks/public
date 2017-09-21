@@ -8,6 +8,7 @@ Police say at least 33 people killed in bombings in Shia districts of Iraqi capi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/12/deadly-twin-blasts-rock-baghdad-shia-area-2014124162810821316.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/12/4/201412422756481734_20.jpg)
 
 ### Related:
 

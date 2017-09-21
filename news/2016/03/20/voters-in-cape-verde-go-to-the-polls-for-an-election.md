@@ -8,6 +8,7 @@ Elections are held in Benin, Cape Verde, Congo, Niger and Zanzibar, while Senega
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-35854768)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13B6/production/_88864050_niger2afp.jpg)
 
 ### Related:
 

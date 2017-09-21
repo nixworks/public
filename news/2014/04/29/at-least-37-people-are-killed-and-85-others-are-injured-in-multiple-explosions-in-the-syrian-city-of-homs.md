@@ -8,6 +8,7 @@ At least 37 people are killed in explosions in the Syrian city of Homs, after at
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27203039)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74519000/jpg/_74519905_74519904.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Congolese government blames attacks on government buildings in the capital, 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/congo-police-exchange-fire-militia-reports-160404073833646.html)
 2. [BBC](http://www.bbc.com/news/world-africa-35958458)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1BAF/production/_89078070_congohi032300529.jpg)
 
 ### Related:
 

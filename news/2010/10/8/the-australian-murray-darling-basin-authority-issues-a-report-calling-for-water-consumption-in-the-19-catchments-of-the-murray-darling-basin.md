@@ -8,6 +8,7 @@ The Murray-Darling Basin Authority calls for water consumption from some of the 
 ### Source:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/10/08/3033366.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2312592-1x1-700x700.jpg)
 
 ### Related:
 

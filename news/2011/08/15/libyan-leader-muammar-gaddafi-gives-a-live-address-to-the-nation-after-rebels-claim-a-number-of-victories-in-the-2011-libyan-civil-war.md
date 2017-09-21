@@ -8,6 +8,7 @@ Libyan leader Moammar Gadhafi gave a live audio address early Monday, urging sup
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/africa/08/14/libya.war/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/08/14/libya.war/tzvids.libya.brega.afp.gi.jpg)
 
 ### Related:
 

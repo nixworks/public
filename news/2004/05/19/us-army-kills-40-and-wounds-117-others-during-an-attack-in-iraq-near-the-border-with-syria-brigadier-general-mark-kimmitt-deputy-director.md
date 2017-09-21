@@ -10,6 +10,7 @@
 1. [Guardian](http://www.commondreams.org/headlines04/0521-01.htm)
 2. [NYT](http://www.nytimes.com/2004/05/20/international/middleeast/20IRAQ.html?hp)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5197140)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

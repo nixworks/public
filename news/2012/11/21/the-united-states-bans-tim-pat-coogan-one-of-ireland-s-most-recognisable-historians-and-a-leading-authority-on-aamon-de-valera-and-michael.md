@@ -8,6 +8,7 @@ Best selling author and historian Tim Pat Coogan has been forced to cancel a boo
 ### Source:
 
 1. [Irish Central](http://www.irishcentral.com/news/Tim-Pat-Coogan-book-tour-canceled-after-visa-refusal-180337311.html)
+1. [Cover Image](http://www.irishcentral.com/assets/IC-default-710x250.png)
 
 ### Related:
 

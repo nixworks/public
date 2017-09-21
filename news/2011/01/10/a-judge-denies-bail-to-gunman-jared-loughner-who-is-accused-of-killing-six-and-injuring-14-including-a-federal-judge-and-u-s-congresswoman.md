@@ -9,6 +9,7 @@ An Arizona judge orders the 22-year-old man accused of killing six people and in
 
 1. [AP](http://news.yahoo.com/s/ap/us_med_congresswoman_brain_injury;_ylt=A0wNdOlviCtN6X4BkSes0NUE;_ylu=X3oDMTQxaTMzNDllBGFzc2V0A2FwLzIwMTEwMTEwL3VzX21lZF9jb25ncmVzc3dvbWFuX2JyYWluX2luanVyeQRjY29kZQNtb3N0cG9wdWxhcgRjcG9zAzEEcG9zAzIEcHQDaG9tZV9jb2tlBHNlYwN5bl90b3Bfc3RvcnkEc2xrA2NvbmdyZXNzd29tYQ--)
 2. [CBC](http://www.cbc.ca/world/story/2011/01/10/arizona-shooting-court-appearance.html)
+2. [Cover Image](https://i.cbc.ca/1.1977586.1381561207!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-jared-loughner-rtxweyt.jpg)
 
 ### Related:
 

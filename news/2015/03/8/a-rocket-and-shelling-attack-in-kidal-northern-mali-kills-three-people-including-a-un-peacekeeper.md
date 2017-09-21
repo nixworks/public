@@ -8,6 +8,7 @@ Three deaths reported in northern city, a day after blast in Bamako restaurant k
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/03/peacekeeper-killed-attack-mali-kidal-150308092228277.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/3/7/7030cd36b5294b2c8078d669eb5fd25d_18.jpg)
 
 ### Related:
 

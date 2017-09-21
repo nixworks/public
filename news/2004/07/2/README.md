@@ -13,7 +13,7 @@ _Context: African-American, Bill Cosby, Jesse Jackson_
 _Context: Iraq, Jack M. Saville, Occupation of Iraq, Samarra, Sergeant, Tigris River, Tracy Perkins, U.S. Army, first lieutenant_
 
 ### [ U.S. presidential election: Several Democratic Party members of the U.S. House of Representatives request that the United Nations send observers to monitor the November 2 presidential election, citing the disputed 2000 presidential outcome. ](/news/2004/07/2/u-s-presidential-election-several-democratic-party-members-of-the-u-s-house-of-representatives-request-that-the-united-nations-send-obse.md)
-_Context: 2000, 2004 U.S. presidential candidate, Democratic Party, United Nations, United States House of Representatives_
+_Context: 2004 U.S. presidential candidate, Democratic, United Nations, United States House of Representatives, last election_
 
 ### [ A Medevac of airline Air TRK crashes during take-off from Tocumen International Airport in Panama City, Panama, after a stopover in a flight from Quito, Ecuador, to Washington, D.C., US, killing six passengers and one airport worker. ](/news/2004/07/2/a-medevac-of-airline-air-trk-crashes-during-take-off-from-tocumen-international-airport-in-panama-city-panama-after-a-stopover-in-a-fligh.md)
 _Context: Air TRK, District of Columbia, Medevac, Panama City, Panama, Quito, Ecuador, Tocumen International Airport, airline_

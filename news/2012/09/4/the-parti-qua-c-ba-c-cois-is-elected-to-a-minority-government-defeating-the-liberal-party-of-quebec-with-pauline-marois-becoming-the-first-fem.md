@@ -10,6 +10,7 @@ Parti Quebecois Leader Pauline Marois will become Quebec&rsquo;s first female pr
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19478694)
 2. [CBC](http://www.cbc.ca/news/canada/quebecvotes2012/)
 3. [CTV News](http://www.ctvnews.ca/politics/parti-quebecois-declared-winner-of-quebec-election-1.941226)
+3. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.942804.1356128564!/httpImage/image.jpeg_gen/derivatives/landscape_620/image.jpeg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A major manhunt is under way in Paris for three gunmen who shot dead 12 people a
 1. [BBC](http://www.bbc.com/news/world-europe-30710883)
 2. [Bloomberg via ''Washington Post](http://washpost.bloomberg.com/Story?docId=1376-NHTWIY6S972K01-716V33OPHBUNGPGTPTOAN7V75P)
 3. [Washington Post](http://www.washingtonpost.com/world/europe/gunmen-storm-paris-satirical-newspaper-killing-at-least-11/2015/01/07/f358b17a-9660-11e4-aabd-d0b93ff613d5_story.html?Post+generic=%3Ftid%3Dsm_twitter_washingtonpost)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80110000/jpg/_80110807_80110806.jpg)
 
 ### Related:
 

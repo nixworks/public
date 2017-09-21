@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Accuweather](http://www.accuweather.com/en/hurricane/east-pacific)
+1. [Cover Image](https://vortex.accuweather.com/adc2010/images/awx-orange-sun-logo-650x315.png)
 
 ### Related:
 

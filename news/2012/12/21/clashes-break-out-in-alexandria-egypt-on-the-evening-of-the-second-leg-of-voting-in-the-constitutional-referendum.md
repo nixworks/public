@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20814346)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64899000/jpg/_64899854_x25uf48u.jpg)
 
 ### Related:
 

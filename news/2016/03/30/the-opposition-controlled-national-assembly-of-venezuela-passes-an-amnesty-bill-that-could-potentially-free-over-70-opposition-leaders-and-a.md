@@ -10,6 +10,7 @@ The opposition-controlled National Assembly in Venezuela passes an amnesty bill 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35924647)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/03/30/Venezuelas-Maduro-vows-to-veto-amnesty-bill-passed-by-National-Assembly/2471459353316/?spt=hts&or=5)
 3. [UPI²](http://www.upi.com/Top_News/World-News/2016/03/29/Venezuelan-opposition-preparing-referendum-to-oust-Maduro/7201459269012/?st)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4B00/production/_89000291_89000290.jpg)
 
 ### Related:
 

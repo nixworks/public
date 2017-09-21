@@ -8,6 +8,7 @@ Kurdish rebels, civilians and soldiers killed after PKK launches attacks on secu
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/09/scores-killed-southeastern-turkey-clashes-150926142625145.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/26/9a8d68281afe4515b19e4e0f04f76f0d_18.jpg)
 
 ### Related:
 

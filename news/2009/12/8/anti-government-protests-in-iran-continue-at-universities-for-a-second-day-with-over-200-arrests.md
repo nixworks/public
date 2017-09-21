@@ -10,6 +10,7 @@
 1. [Lebanon Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=10&categ_id=2&article_id=109574)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=113204&sectionid=351020101)
 3. [UPI](http://www.upi.com/Top_News/International/2009/12/08/2nd-day-of-student-protests-rock-Iran/UPI-39251260309766/)
+3. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

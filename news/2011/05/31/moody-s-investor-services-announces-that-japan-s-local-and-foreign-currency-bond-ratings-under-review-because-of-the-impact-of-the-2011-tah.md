@@ -8,6 +8,7 @@ Ratings agency places Japanese bond ratings on review due to long-term fiscal co
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/story/moodys-puts-japan-on-review-for-downgrade-2011-05-30)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

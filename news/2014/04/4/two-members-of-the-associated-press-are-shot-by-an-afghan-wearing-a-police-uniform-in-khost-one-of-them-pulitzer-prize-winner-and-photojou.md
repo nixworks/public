@@ -8,6 +8,7 @@ An Afghan police officer kills a veteran Associated Press photographer and wound
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-26881347#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74032000/jpg/_74032025_ap_reporters_624.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Nigeria sufffered one of its bloodiest days as terrorists carried out a massacre
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/10163942/Extremist-attack-in-Nigeria-kills-42-at-boarding-school.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02610/nigeria_2610578k.jpg)
 
 ### Related:
 

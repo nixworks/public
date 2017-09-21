@@ -8,6 +8,7 @@ The late-night landscape continues its upheaval. During Monday&#39;s taping of C
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/tv/2014/04/28/craig-ferguson-will-leave-cbs-late-late-show/8436401/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

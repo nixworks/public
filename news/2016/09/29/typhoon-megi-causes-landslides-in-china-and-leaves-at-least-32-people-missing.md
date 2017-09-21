@@ -8,6 +8,7 @@ At least 32 people were reported missing after rain-saturated hillsides collapse
 ### Source:
 
 1. [BT](http://home.bt.com/news/world-news/more-than-30-people-missing-in-china-landslides-following-typhoon-11364101592338)
+1. [Cover Image](http://home.bt.com/images/more-than-30-people-missing-in-china-landslides-following-typhoon-136410159229210401-160929041003.jpg)
 
 ### Related:
 

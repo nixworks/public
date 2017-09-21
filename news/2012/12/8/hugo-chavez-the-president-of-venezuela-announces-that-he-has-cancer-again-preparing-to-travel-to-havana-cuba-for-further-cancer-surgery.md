@@ -11,6 +11,7 @@ Doctors found malignant cells during tests in Cuba, President Hugo Chávez of Ve
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-20656441)
 3. [Reuters](http://www.reuters.com/article/2012/12/09/venezuela-chavez-idUSL1E8N901X20121209)
 4. [The New York Times](http://www.nytimes.com/2012/12/09/world/americas/malignant-cells-found-hugo-chavez-to-have-cancer-surgery.html)
+4. [Cover Image](https://static01.nyt.com/images/2012/12/09/world/09venezuela1_span/09venezuela1_span-superJumbo.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ RICHMOND, Va. (AP) — More than 200,000 convicted felons will be able to cast b
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/cb3f95e0180d4d9bac4c7916cd5f33ad/virginia-governor-restores-voting-rights-200k-felons)
+1. [Cover Image](http://binaryapi.ap.org/e9d691b084ab4d10b74d5454a2dd7bf9/460x.jpg)
 
 ### Related:
 

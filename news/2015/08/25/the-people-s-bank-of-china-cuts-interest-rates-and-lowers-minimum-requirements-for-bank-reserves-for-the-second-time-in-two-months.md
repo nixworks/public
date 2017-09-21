@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/25/us-china-economy-interest-rate-idUSKCN0QU16K20150825)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150825&t=2&i=1074399378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7O0H7)
 
 ### Related:
 

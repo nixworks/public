@@ -8,6 +8,7 @@ Russian security forces in the southern region of Dagestan on Saturday said they
 ### Source:
 
 1. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-38634320090321)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

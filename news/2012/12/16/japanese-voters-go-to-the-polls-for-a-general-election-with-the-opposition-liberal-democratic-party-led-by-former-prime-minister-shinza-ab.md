@@ -12,6 +12,7 @@ TOKYO -- The conservative party that dominated post-war Japan is back in power a
 3. [BBC](http://www.bbc.co.uk/news/world-asia-20747496)
 4. [CNN](http://edition.cnn.com/2012/12/16/world/asia/japan-election/index.html)
 5. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-japan-conservatives-landslide-election-20121216,0,5391869.story)
+5. [Cover Image](http://www.trbimg.com/img-50cdc975/turbine/la-winning-in-japan-20121216/600)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Amateur video captures the panic and confusion inside a Turkish plane after it w
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/turkey/9826458/Lightning-strikes-causes-panic-inside-Turkish-Airlines-plane.html)
 3. [Voice of Russia](http://english.ruvr.ru/2013_01_25/Turkish-jet-lands-with-engine-on-fire/)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4337133,00.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02462/Lightning_strikes__2462043a.jpg)
 
 ### Related:
 

@@ -9,3 +9,4 @@ The government is to launch a consultation on increasing the speed limit on Engl
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15116064)
 2. [Sky News](http://news.sky.com/home/uk-news/article/16079703)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55680000/jpg/_55680976_speed464in_pa.jpg)

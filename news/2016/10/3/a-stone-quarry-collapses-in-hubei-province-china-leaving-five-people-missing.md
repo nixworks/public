@@ -8,6 +8,7 @@ Stone quarry collapsed in Chinese Hubei province, leaving five people missing, l
 ### Source:
 
 1. [Sputniknews](https://sputniknews.com/asia/20161003/1045936104/china-stone-quarry-collapse.html)
+1. [Cover Image](https://sputniknews.com/i/logo-soc.png)
 
 ### Related:
 

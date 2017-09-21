@@ -8,6 +8,7 @@ Israel has become the first country in the world to make ‘revenge porn’ a cr
 ### Source:
 
 1. [SBS Australia](http://www.sbs.com.au/news/article/2014/01/20/israel-makes-revenge-porn-illegal)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/Internet_porn_131003_AAP.JPG)
 
 ### Related:
 

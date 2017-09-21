@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14171962)
 2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/07/16/japan.nuclear.reactor/index.html?hpt=wo_c2)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/07/16/japan.nuclear.reactor/tzvids.japan.afp.gi.jpg)
 
 ### Related:
 

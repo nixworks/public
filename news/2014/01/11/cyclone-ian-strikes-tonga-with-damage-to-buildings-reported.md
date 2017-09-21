@@ -8,6 +8,7 @@ The South Pacific nation of Tonga was lashed by a powerful cyclone on Saturday, 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/01/10/tonga-in-south-pacific-lashed-by-powerful-cyclone-damage-reported-in-northern/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A truck and a bus collided in Brazil&#039;s southern state of Santa Catarina ear
 
 1. [AFP via ABC News](http://www.abc.net.au/news/stories/2011/03/06/3156274.htm?section=justin)
 2. [CNN](http://news.blogs.cnn.com/2011/03/05/26-people-killed-in-brazil-tourist-bus-crash/)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

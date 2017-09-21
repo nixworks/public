@@ -8,6 +8,7 @@ Funeral prayers in absentia for one of the Uri attackers, organized by LeT&rsquo
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Lashkar-claims-responsibility-for-Uri-terror-attack/articleshow/55047490.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/55047570.cms)
 
 ### Related:
 

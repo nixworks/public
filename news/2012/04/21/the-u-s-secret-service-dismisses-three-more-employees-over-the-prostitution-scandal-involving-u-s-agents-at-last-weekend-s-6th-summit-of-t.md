@@ -9,6 +9,7 @@ The US Secret Service says three more employees are resigning over the prostitut
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/04/201242023270112906.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-17794267)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59779000/jpg/_59779299_59779298.jpg)
 
 ### Related:
 

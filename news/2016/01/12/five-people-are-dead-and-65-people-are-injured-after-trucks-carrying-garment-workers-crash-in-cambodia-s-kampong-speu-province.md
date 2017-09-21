@@ -8,6 +8,7 @@ PHNOM PENH — Two trucks transporting Cambodian garment workers to their factor
 ### Source:
 
 1. [Today Online](http://www.todayonline.com/world/asia/5-dead-65-injured-cambodian-garment-worker-truck-crash)
+1. [Cover Image](http://www.todayonline.com/sites/all/themes/today/FacebookPantalla.png)
 
 ### Related:
 

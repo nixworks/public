@@ -9,6 +9,7 @@ Space exploration rarely gives second chances, but the Japanese Aerospace Explor
 
 1. [Gizmag](http://www.gizmag.com/jaxa-venus-akatsuki-orbit/40770/)
 2. [Spaceflight Now](https://spaceflightnow.com/2015/12/06/japanese-space-probe-to-steer-into-orbit-around-venus/)
+2. [Cover Image](http://img-1.newatlas.com/akatsuki-venus-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=crop&h=347&q=60&rect=0%2C77%2C1527%2C859&w=616&s=5fd0204b1a4e6ea942d1e9b819d15946)
 
 ### Related:
 

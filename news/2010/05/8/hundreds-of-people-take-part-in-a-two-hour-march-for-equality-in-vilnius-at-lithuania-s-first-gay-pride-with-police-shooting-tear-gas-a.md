@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8669973.stm)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801653.html)
 3. [iafrica.com](http://news.iafrica.com/worldnews/2402060.htm)
+3. [Cover Image](http://news.iafrica.com/apps/imageUtil/view/article/617337/1/630x385/)
 
 ### Related:
 

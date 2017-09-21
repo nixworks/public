@@ -8,6 +8,7 @@ The Palestinian Supreme Court ordered the suspension of Oct. 8 municipal electio
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-09-08/palestinian-supreme-court-calls-off-october-municipal-elections)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ih9vkAwLi21o/v0/1200x600.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Court ruling denies foreign domestic workers the right to apply for permanent re
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/03/20133254315486835.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-china-21920811)
 3. [Reuters](http://www.reuters.com/article/2013/03/25/us-hongkong-maids-idUSBRE92O04520130325)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/25/201332543858154734_20.jpg)
 
 ### Related:
 

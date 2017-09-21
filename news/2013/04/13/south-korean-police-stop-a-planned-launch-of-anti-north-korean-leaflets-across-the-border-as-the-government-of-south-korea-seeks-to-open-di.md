@@ -10,6 +10,7 @@ South Korean police on Saturday stopped a planned launch of anti-North Korea lea
 1. [AFP via ''The Express Tribune](http://tribune.com.pk/story/535080/manila-offers-us-its-military-bases-in-case-of-n-korea-war-2/)
 2. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/s-korean-police-stop-anti/637062.html)
 3. [AP via ''The Globe and Mail](http://www.theglobeandmail.com/news/world/us-china-agree-to-rid-north-korea-of-nuclear-weapons/article11183704/)
+3. [Cover Image](http://www.channelnewsasia.com/image/629630/1365345649000/large16x9/640/360/korea-tensions.jpg)
 
 ### Related:
 

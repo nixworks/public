@@ -9,6 +9,7 @@ A Chinese activist, Chen Xi, has been sentenced to 10 years in jail for subversi
 
 1. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/20111226/news_20111226_56_807581.htm)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8977872/Chinese-activist-Chen-Xi-sentenced-to-10-years.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02093/chen_2093653a.jpg)
 
 ### Related:
 

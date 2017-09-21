@@ -9,6 +9,7 @@
 
 1. [New Zealand Government](https://www.govt.nz/browse/engaging-with-government/the-nz-flag-your-chance-to-decide/)
 2. [TV New Zealand](https://www.tvnz.co.nz/one-news/new-zealand/-which-bad-flag-design-will-the-rest-of-world-ignore-from-now-on-aussies-q08539)
+2. [Cover Image](https://www.tvnz.co.nz/content/dam/images/news/2015/09/01/flag2.jpg.hashed.c28b7cfd.desktop.story.share.video.jpg)
 
 ### Related:
 

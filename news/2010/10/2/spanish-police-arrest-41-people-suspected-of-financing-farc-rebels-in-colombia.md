@@ -9,6 +9,7 @@ Police detain 41 people accused of using drug money to finance Colomian rebels f
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010102195395896.html)
 2. [euronews](http://www.euronews.net/2010/10/02/spain-arrests-suspected-farc-money-launderers/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/2/201010213537962734_20.jpg)
 
 ### Related:
 

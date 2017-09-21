@@ -8,6 +8,7 @@ Turkish aid workers set up tents and distribute supplies for thousands of new Sy
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35519393)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7D91/production/_88154123_88154122.jpg)
 
 ### Related:
 

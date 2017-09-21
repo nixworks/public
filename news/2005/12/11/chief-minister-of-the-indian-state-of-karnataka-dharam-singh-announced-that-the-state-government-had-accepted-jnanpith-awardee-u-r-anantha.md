@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/articleshow/1327480.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

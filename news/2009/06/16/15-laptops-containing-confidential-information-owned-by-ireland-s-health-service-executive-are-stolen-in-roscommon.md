@@ -9,6 +9,7 @@ The Health Service Executive and gardaí are investigating the theft of 15 lapto
 
 1. [RTÉ](http://www.rte.ie/news/2009/0616/hse.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0616/breaking44.htm)
+2. [Cover Image](https://img.rasset.ie/00025fee-1600.jpg)
 
 ### Related:
 

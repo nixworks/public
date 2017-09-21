@@ -9,6 +9,7 @@ Chile News | Breaking News, Views, Analysis
 
 1. [Santiago Times](http://www.santiagotimes.cl/index.php?option=com_content&view=article&id=18369:blackout-hits-most-of-chile&catid=1:other&Itemid=38)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/chile-hit-by-massive-blackout-official-20100315-q795.html)
+2. [Cover Image](http://santiagotimes.cl/en/wp-content/uploads/2016/10/logo-st.png)
 
 ### Related:
 

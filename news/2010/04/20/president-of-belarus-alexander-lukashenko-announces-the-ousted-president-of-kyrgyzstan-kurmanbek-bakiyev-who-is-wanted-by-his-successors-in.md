@@ -10,6 +10,7 @@ Kurmanbek Bakiyev and three family members under government protection in Minsk.
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201042013289607380.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8632521.stm)
 3. [VOA](http://www1.voanews.com/english/news/asia/Ousted-Kyrgyz-President-in-Belarus-91597924.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

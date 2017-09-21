@@ -8,6 +8,7 @@ Here are the remarks President Bush delivered today at the United States Naval A
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/11/27/world/middleeast/27cnd-prexytext.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

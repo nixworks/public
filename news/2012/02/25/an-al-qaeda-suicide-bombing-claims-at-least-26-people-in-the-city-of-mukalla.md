@@ -8,6 +8,7 @@ A suicide bombing claimed by al Qaeda killed at least 26 people outside a presid
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/25/us-yemen-idUSTRE81O07120120225?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120225&t=2&i=575240348&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81O1ARF00)
 
 ### Related:
 

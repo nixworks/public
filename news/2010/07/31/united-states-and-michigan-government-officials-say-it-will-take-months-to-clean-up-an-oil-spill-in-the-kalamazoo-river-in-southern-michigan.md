@@ -8,6 +8,7 @@ Officials investigating the cause of a huge oil spill along a major river in sou
 ### Source:
 
 1. [AP via ''New York Times](http://www.nytimes.com/2010/08/01/us/01river.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

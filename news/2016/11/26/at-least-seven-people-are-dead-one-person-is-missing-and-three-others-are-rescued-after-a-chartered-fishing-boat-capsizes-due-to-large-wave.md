@@ -8,6 +8,7 @@ Seven people were killed and another person was missing after a chartered fishin
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/11/26/7-dead-1-missing-as-waves-hit-new-zealand-fishing-boat.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

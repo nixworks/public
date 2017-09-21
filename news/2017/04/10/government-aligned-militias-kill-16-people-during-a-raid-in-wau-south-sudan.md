@@ -8,6 +8,7 @@ At least 10 people were killed in the South Sudanese town of Wau on Monday, as e
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-southsudan-violence-idUSKBN17C0SO?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

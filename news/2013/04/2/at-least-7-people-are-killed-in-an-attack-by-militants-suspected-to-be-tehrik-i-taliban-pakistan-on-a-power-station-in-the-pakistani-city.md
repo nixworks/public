@@ -8,6 +8,7 @@ At least seven people are killed as dozens of heavily-armed militants attack an 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21999352)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66703000/jpg/_66703986_017639572.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The US secretary of state cuts short a three-nation tour of Africa due to a volc
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13752433)
 2. [IOL](http://www.iol.co.za/news/africa/eritrean-volcano-spews-huge-ash-cloud-1.1082988)
 3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE75C0LL20110613)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53394000/jpg/_53394781_012212767-1.jpg)
 
 ### Related:
 

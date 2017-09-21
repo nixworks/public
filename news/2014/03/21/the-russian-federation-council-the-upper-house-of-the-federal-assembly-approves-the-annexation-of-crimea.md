@@ -9,6 +9,7 @@ MOSCOW (AP) — The upper house of the Russian parliament has approved Moscow&#x
 
 1. [AP via Yahoo! News](http://news.yahoo.com/russian-upper-house-approves-annexation-crimea-091225402.html)
 2. [Reuters](http://www.reuters.com/article/2014/03/21/us-ukraine-crisis-idUSBREA2K0MC20140321)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/BdQit0h5wbEx6NJYJJv0gw--/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/0717da8e23ee020b4f0f6a70670078b8.jpg)
 
 ### Related:
 

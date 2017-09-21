@@ -9,6 +9,7 @@ Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/europe/8057354.stm)
 2. [UEFA](http://www.uefa.com/competitions/uefacup/news/kind=1/newsid=831323.html)
+2. [Cover Image](http://img.uefa.com/imgml/2016/uel/social/og-default.jpg)
 
 ### Related:
 

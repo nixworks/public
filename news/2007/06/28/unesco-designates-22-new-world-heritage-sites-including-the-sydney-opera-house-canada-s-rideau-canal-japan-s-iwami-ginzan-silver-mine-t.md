@@ -9,6 +9,7 @@ Christchurch,&#x20;New&#x20;Zealand,&#x20;29&#x20;June&#x20;-&#x20;The&#x20;Worl
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20070628.wunesco0628/BNStory/Front)
 2. [UNESCO press-release](http://whc.unesco.org/en/news/365)
+2. [Cover Image](http://whc.unesco.org/uploads/thumbs/news_365-1200-630-20070705141225.jpg)
 
 ### Related:
 

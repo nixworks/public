@@ -8,6 +8,7 @@ The Obama administration, in its latest bid to prevent American companies from m
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-tax-inversions-idUSKCN12D2YC)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161013&t=2&i=1157362946&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9C1P9)
 
 ### Related:
 

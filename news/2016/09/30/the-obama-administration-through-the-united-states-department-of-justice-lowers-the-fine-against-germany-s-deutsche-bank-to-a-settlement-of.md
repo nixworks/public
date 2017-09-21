@@ -8,6 +8,7 @@ A report that Deutsche Bank (DBKGn.DE) was close to a cut-price settlement with 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-germany-deutsche-bank-ceo-idUSKCN1200XW)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160930&t=2&i=1155613813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8T0TY)
 
 ### Related:
 

@@ -8,6 +8,7 @@ THOUSANDS OF lawyers went on strike in Tunisia yesterday to protest against poli
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2011/0107/1224286963125.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

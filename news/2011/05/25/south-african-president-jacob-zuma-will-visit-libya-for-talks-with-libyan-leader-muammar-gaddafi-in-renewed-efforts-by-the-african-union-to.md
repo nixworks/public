@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/africa/05/25/south.africa.libya/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/05/25/south.africa.libya/tzvids.zuma.m17.gi.afp.jpg)
 
 ### Related:
 

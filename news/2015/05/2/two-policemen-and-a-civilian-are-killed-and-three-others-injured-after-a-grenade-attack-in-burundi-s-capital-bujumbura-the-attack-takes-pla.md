@@ -8,6 +8,7 @@ Three people, including two policemen, killed and several people wounded in gren
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/05/burundi-policemen-killed-grenade-attack-150502004341566.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/5/2/03486df250934c71b57dc3b15c2d9a72_18.jpg)
 
 ### Related:
 

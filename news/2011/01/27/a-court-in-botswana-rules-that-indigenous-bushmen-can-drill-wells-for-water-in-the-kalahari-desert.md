@@ -9,6 +9,7 @@ An appeals court in Botswana says indigenous Bushmen can drill wells for water i
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12300285)
 2. [Gabz FM Botswana](http://www.gabzfm.com/index.php?option=com_content&view=article&id=4004:basarwa-news&catid=39:news&Itemid=57)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

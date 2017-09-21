@@ -8,6 +8,7 @@ The event unfolded like the judicial equivalent of a bride left at the altar.The
 ### Source:
 
 1. [LA Times](http://www.latimes.com/news/politics/la-na-hsu6sep06,0,2063880.story?coll=la-home-center)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

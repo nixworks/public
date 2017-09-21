@@ -8,6 +8,7 @@ A group of Danish rocket enthusiasts trying to launch a dummy 30km into the sky 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11178034)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

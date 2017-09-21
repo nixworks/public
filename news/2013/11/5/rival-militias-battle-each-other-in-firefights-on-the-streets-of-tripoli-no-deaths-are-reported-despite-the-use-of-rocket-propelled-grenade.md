@@ -8,6 +8,7 @@ Libyan militia fighters on the government payroll fought each other with rifles,
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/05/us-libya-security-idUSBRE9A40S920131105)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ LONDON: The former British prime minister Margaret Thatcher yesterday threw her 
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/thatcher-joins-campaign-for-ailing-troops-20100312-q4ij.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CBS](http://www.cbsnews.com/news/pentagon-4-u-s-soldiers-2-peacekeepers-injured-in-sinai-explosions/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/09/04/38eefc41-b936-4745-85d5-063cad58ec3e/sinaieguyyptmapistock.jpg)
 
 ### Related:
 

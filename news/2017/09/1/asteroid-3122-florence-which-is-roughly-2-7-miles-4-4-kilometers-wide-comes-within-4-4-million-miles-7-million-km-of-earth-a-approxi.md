@@ -8,6 +8,7 @@ A mountain-size space rock cruised past Earth this morning (Sept. 1) in a record
 ### Source:
 
 1. [Space](https://www.space.com/38013-huge-asteroid-florence-makes-earth-flyby.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA2OS81MDgvb3JpZ2luYWwvMzEyMl9mbG9yZW5jZV9naWFubHVjYV9tYXNpLmpwZw==)
 
 ### Related:
 

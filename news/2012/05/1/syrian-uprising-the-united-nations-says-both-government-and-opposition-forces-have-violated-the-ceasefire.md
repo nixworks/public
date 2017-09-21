@@ -8,6 +8,7 @@ Peacekeeping chief says artillery and armoured vehicles still in cities, adding 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012511341841711.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/1/201251182723276734_20.jpg)
 
 ### Related:
 

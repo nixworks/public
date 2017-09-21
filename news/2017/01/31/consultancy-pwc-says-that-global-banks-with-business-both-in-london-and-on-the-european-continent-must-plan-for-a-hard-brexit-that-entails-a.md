@@ -8,6 +8,7 @@ Global banks must plan for a &quot;hard&quot; Brexit or risk breaching regulator
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-britain-eu-banks-idUSKBN15F1XQ)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170131&t=2&i=1170881180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0U0ZA)
 
 ### Related:
 

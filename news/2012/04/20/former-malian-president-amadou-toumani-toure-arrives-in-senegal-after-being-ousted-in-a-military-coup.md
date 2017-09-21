@@ -8,6 +8,7 @@ Mali&#x27;s&#x20;ex-president&#x20;Amadou&#x20;Toumani&#x20;Toure,&#x20;ousted&#
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20120420-mali-senegal-toure-military-junta)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/toure.gif)
 
 ### Related:
 

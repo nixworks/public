@@ -8,6 +8,7 @@ With public spending being slashed some form of third level fees could be introd
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0204/fees.html)
+1. [Cover Image](https://img.rasset.ie/00020a59-1600.jpg)
 
 ### Related:
 

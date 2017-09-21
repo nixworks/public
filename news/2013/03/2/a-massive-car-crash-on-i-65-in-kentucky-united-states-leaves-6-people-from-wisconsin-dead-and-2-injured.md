@@ -9,6 +9,7 @@ UPDATE: A relative of some of the six victims killed in a Kentucky interstate cr
 
 1. [Milwaukee Journal Sentinel](http://www.jsonline.com/news/wisconsin/crash03-7p90eu5-194560061.html)
 2. [WMTV](http://www.nbc15.com/home/headlines/Six-People-From-Wisconsin-Killed-In-Kentucky-Crash-194634291.html)
+2. [Cover Image](http://media.graytvinc.com/images/504*315/fatal-crash-320x200_nbc15.jpg)
 
 ### Related:
 

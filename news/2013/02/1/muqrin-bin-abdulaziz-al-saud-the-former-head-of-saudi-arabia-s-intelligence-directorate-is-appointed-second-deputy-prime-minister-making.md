@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/01/us-saudi-succession-idUSBRE9100PT20130201)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130201&t=2&i=699933371&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91012C300)
 
 ### Related:
 
@@ -19,5 +20,5 @@
 6. [ King Abdullah of Saudi Arabia visits the Vatican in what is the first audience by the head of the Roman Catholic Church with a Saudi monarch. ](/news/2007/11/6/king-abdullah-of-saudi-arabia-visits-the-vatican-in-what-is-the-first-audience-by-the-head-of-the-roman-catholic-church-with-a-saudi-monarc.md) _Context: King, Saudi Arabia_
 7. [ In Saudi Arabia the new King Abdullah has been invested. Tony Blair and Jacques Chirac, along with many European Monarchs are present for the "bayaa" ceremony while George H. W. Bush and Dick Cheney will meet with the new King the following day. ](/news/2005/08/3/in-saudi-arabia-the-new-king-abdullah-has-been-invested-tony-blair-and-jacques-chirac-along-with-many-european-monarchs-are-present-for-t.md) _Context: King, Saudi Arabia_
 8. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Saudi Arabia_
-9. [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md) _Context: Saudi Arabia_
-10. [Syrian rebels, who have benefited from the "covert" CIA military aid program, say they have not been officially informed of the U.S. decision to stop this aid, and add that its full impact depends on whether U.S. allies Jordan, Saudi Arabia, Qatar, and Turkey continue to support their fight. A Free Syrian Army commander warns this decision risks triggering the collapse of the moderate opposition. ](/news/2017/07/20/syrian-rebels-who-have-benefited-from-the-covert-cia-military-aid-program-say-they-have-not-been-officially-informed-of-the-u-s-decisio.md) _Context: Saudi Arabia_
+9. [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md) _Context: Saudi Arabia_
+10. [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md) _Context: Saudi Arabia_

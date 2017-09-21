@@ -9,6 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 1. [ABC](http://abcnews.go.com/International/wireStory/17-killed-sao-paulo-shootings-police-investigating-links-33082064)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-33942277)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/2472/production/_84903390_026828241-1.jpg)
 
 ### Related:
 

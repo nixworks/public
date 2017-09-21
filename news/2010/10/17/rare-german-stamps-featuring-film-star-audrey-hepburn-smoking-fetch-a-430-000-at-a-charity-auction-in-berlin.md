@@ -8,6 +8,7 @@ A rare sheet of 10 stamps showing film star Audrey Hepburn smoking fetches 430,0
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11550814)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

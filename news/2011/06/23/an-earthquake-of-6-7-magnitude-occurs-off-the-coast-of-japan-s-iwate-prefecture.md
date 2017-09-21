@@ -8,6 +8,7 @@ An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/22/us-earthquake-japan-idUSTRE75L7PW20110622)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

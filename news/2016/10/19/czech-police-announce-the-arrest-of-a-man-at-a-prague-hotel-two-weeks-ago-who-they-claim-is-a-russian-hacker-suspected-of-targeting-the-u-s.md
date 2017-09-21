@@ -8,6 +8,7 @@ A Russian hacker suspected of targeting the U.S. is being held in Czech Republic
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/videos/fbi-helps-capture-suspected-russian-hacker-in-czech-republic/?ftag=MSF75ed6dd)
+1. [Cover Image](http://cbsnews3.cbsistatic.com/hub/i/r/2016/10/19/c4036362-84c4-4a3e-982b-458888d062e5/thumbnail/1200x630/201dd6936a419ffd5aad004593027047/1019-ctm-russianhackerarrest2-1155000-640x360.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Militant groups vow to intensify anti-government and peacekeepers assaults as th
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ikmJZ5Eknxpjc6gTDhZNrBr7kYVw?docId=CNG.e746d8801cb9653230a75a93f261b84c.2a1)
 2. [Africa Review](http://www.africareview.com/News/Somali%20radical%20groups%20merge/-/979180/1078114/-/r4hs4mz/-/)
+2. [Cover Image](http://www.africareview.com)
 
 ### Related:
 

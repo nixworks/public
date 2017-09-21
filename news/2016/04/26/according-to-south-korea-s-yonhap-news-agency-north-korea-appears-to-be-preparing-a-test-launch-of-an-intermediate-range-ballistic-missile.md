@@ -8,6 +8,7 @@ The United States warned on Tuesday it would consider &quot;other&quot; options,
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-missile-idUSKCN0XN0QQ)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160426&t=2&i=1134510931&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3P0DV)
 
 ### Related:
 

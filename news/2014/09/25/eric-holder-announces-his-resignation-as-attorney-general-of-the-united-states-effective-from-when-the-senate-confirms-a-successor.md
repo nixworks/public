@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2014/09/25/351363171/eric-holder-to-step-down-as-attorney-general)
+1. [Cover Image](https://media.npr.org/assets/img/2014/09/25/ap491400106998_wide-456dd4c535e0b796e7545579493863f88b0424c9.jpg?s=1400)
 
 ### Related:
 

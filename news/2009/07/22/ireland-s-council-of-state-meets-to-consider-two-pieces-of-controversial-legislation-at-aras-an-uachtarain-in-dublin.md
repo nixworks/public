@@ -8,6 +8,7 @@ President McAleese has indictated that her decision on whether she will refer tw
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0722/crime.html)
+1. [Cover Image](https://img.rasset.ie/00027682-1600.jpg)
 
 ### Related:
 

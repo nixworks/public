@@ -8,3 +8,4 @@ For a lucky California couple, their $10 million pot of gold came without the ra
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/02/25/california-gold-coins-buried-treasure/5817179/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)

@@ -8,6 +8,7 @@ Prime Minister Malcolm Turnbull made a spirited defence of his doomed same-sex m
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/malcolm-turnbull-introduces-samesex-marriage-plebiscite-legislation-to-parliament-20160914-grfyjg.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/r/f/y/k/e/image.related.socialLead.620x349.grfyjg.png/1473911146699.jpg)
 
 ### Related:
 

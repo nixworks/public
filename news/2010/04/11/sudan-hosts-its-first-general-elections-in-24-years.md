@@ -11,6 +11,7 @@ Multi-party elections get under way despite opposition staying away from preside
 2. [Arab News](http://arabnews.com/world/article41853.ece)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8613572.stm)
 4. [Press TV](http://www.presstv.ir/detail.aspx?id=122992&sectionid=351020504)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ World whaling body expected to see fierce debate between pro- and anti-whaling c
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/06/200962213137670717.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

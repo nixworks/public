@@ -11,6 +11,7 @@ Two political activists involved in the 2009 post-presidential election protest 
 2. [Reuters](http://www.reuters.com/article/idUSTRE70N3CK20110124)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/24/AR2011012400945.html)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4018076,00.html)
+4. [Cover Image](http://www.asianews.it/files/img/IRAN_EXECUTIONS.jpg)
 
 ### Related:
 

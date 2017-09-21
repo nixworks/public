@@ -8,6 +8,7 @@ One person died and 10 were wounded as heavy storms swept through the north-west
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18846641)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61578000/jpg/_61578778_61578776.jpg)
 
 ### Related:
 

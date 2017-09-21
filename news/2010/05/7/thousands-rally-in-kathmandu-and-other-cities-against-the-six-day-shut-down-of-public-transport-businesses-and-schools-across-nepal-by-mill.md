@@ -10,6 +10,7 @@ Police fire warning shots as thousands rally in capital against nationwide shutd
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010579185369622.html)
 2. [The Hindu](http://beta.thehindu.com/news/international/article424607.ece)
 3. [The New York Times](http://www.nytimes.com/2010/05/08/world/asia/08nepal.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

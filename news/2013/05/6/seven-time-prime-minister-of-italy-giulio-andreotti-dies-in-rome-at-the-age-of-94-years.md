@@ -8,6 +8,7 @@ Giulio Andreotti, who served seven times as Christian Democrat prime minister, a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22426199)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67438000/jpg/_67438440_67438439.jpg)
 
 ### Related:
 

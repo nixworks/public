@@ -9,6 +9,7 @@ Tuesday&rsquo;s vote in Wisconsin could not only help shore up the momentum for 
 
 1. [ABC News America](http://abcnews.go.com/Politics/wisconsin-primary-key-contested-convention/story?id=38135757)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/2016-04-06/republican-cruz-and-democrat-sanders-score-wins-in-wisconsin/7303584)
+2. [Cover Image](http://a.abcnews.com/images/Politics/GTY_Cruz_Trump_MEM_160404_16x9_992.jpg)
 
 ### Related:
 

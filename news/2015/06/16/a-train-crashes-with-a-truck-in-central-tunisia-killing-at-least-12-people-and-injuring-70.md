@@ -8,6 +8,7 @@ More than a dozen killed and at least 70 injured when a train and a lorry collid
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/deaths-train-crash-tunisia-150616082031007.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/16/532b17d329a44a53be5ee5e5fdf20b41_18.jpg)
 
 ### Related:
 

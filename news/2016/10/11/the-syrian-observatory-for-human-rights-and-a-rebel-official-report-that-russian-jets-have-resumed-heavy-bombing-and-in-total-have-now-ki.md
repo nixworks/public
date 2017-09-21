@@ -9,6 +9,7 @@ Russian jets resumed heavy bombing of rebel-held eastern Aleppo on Tuesday after
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN12B14M)
 2. [Sky News United Kingdom](http://news.sky.com/story/aleppo-airstrikes-kill-at-least-50-civilians-in-rebel-held-areas-10614275)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161012&t=2&i=1157092807&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9A0Z4)
 
 ### Related:
 

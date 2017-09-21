@@ -9,6 +9,7 @@ Activists have asked citizens to express their displeasure at the lack of reform
 
 1. [The New York Times](http://www.nytimes.com/2011/02/24/world/asia/24china.html)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/china/Online-calls-for-Jasmine-revolution-continue-in-China/articleshow/7555512.cms)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

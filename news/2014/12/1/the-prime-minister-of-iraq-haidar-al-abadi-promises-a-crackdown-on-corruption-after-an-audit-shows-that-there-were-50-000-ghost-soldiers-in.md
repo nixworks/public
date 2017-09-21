@@ -9,6 +9,7 @@ Iraq&#039;s prime minister says an investigation has uncovered the existence of 
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2014-12-01/iraq-pm-says-graft-probe-found-50000-ghost-soldiers/5929524)
 2. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-2855878/UN-More-1-200-Iraqis-killed-November.html)
+2. [Cover Image](http://www.abc.net.au/news/image/5842762-1x1-700x700.jpg)
 
 ### Related:
 

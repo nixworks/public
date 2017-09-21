@@ -9,6 +9,7 @@ China sends its first ever ministerial-level official on a charm offensive to Ta
 
 1. [AP via Wichita Eagle](http://newsinkansas.com/ap-news-alert-23/)
 2. [BBC News](http://www.bbc.co.uk/news/world-asia-28012066)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75812000/jpg/_75812435_451127190.jpg)
 
 ### Related:
 

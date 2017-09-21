@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Index](http://www.index.hr/vijesti/clanak/prosvjednik-na-splitskoj-rivi-kolabrirao-i-preminuo/539897.aspx)
+1. [Cover Image](http://www.index.hr/images2/prosvjedsplit-27022011-miljus625.jpg)
 
 ### Related:
 

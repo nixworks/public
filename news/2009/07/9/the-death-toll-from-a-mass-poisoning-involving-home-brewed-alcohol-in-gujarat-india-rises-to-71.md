@@ -8,6 +8,7 @@ The death toll from a mass poisoning involving home-brewed alcohol in the wester
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0709/india.html)
+1. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)
 
 ### Related:
 

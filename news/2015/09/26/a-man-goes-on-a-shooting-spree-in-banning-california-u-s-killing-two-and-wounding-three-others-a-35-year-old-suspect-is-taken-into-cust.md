@@ -8,6 +8,7 @@ James Paul Diaz, 34, is suspected of shooting at a series of people and vehicles
 ### Source:
 
 1. [Reuters via Yahoo News](http://news.yahoo.com/police-seek-motive-deadly-shooting-rampage-california-180531351.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

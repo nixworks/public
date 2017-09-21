@@ -11,6 +11,7 @@ An oil crunch more serious than the financial crisis threatens to strike Britain
 2. [Telegraph](http://www.telegraph.co.uk/finance/financetopics/oilprices/7203172/Britain-faces-oil-crunch-within-five-years-Richard-Branson-warns.html)
 3. [theenergycollective](http://theenergycollective.com/TheEnergyCollective/58428)
 4. [thisismoney](http://www.thisismoney.co.uk/news/article.html?in_article_id=499145&in_page_id=2)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01575/branson_1575360a.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A German-Iranian teenager who shot dead nine people in Munich was a deranged lon
 
 1. [NBC News](http://www.nbcnews.com/news/world/munich-shooting-rampage-police-search-clues-after-gunman-kills-9-n615371)
 2. [Reuters](http://www.reuters.com/article/us-germany-crime-munich-idUSKCN1021YZ)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160723&t=2&i=1146750813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6M0CI)
 
 ### Related:
 

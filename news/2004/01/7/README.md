@@ -4,7 +4,7 @@
 _Context: George W. Bush_
 
 ### [ The Supreme Court of Indonesia upholds the death sentence handed down to Bali bomber Amrozi. The 12 October 2002 attacks killed 202 mainly holiday makers on the resort island of Bali. ](/news/2004/01/7/the-supreme-court-of-indonesia-upholds-the-death-sentence-handed-down-to-bali-bomber-amrozi-the-12-october-2002-attacks-killed-202-mainly.md)
-_Context: Amrozi, Bali, Bali bomber, Indonesia_
+_Context: 2002 Bali terrorist bombing, Amrozi, Bali, Indonesia_
 
 ### [ Costas Simitis, the prime minister of Greece and president of the ruling PASOK, after informing the country's president Costis Stephanopoulos, announced his resignation. At the same time he announced national elections for March 7, 2004, when PASOK will have a new president, expected to be George Papandreou. PASOK will be challenged by the New Democracy opposition led by Kostas Karamanlis. See, (Greek) and, (English).](/news/2004/01/7/costas-simitis-the-prime-minister-of-greece-and-president-of-the-ruling-pasok-after-informing-the-country-s-president-costis-stephanopoul.md)
 _Context: Costas Simitis, Costis Stephanopoulos, George Papandreou, Greek legislative election, 2004, Kostas Karamanlis, New Democracy, PASOK_

@@ -8,6 +8,7 @@ It was a routine the charismatic athlete had come to rely on.
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-darren-sharper-sentencing-20161128-story.html)
+1. [Cover Image](http://www.trbimg.com/img-583f53ab/turbine/la-me-ln-darren-sharper-sentencing-20161128)
 
 ### Related:
 

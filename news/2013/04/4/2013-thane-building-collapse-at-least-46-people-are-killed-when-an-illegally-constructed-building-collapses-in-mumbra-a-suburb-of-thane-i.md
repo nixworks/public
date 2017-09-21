@@ -10,6 +10,7 @@ At least 45 people are killed, including 15 children, after a building being con
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57578076/building-collapses-in-india-at-least-27-killed/)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-india-22036751)
 3. [CNN](http://www.cnn.com/2013/04/04/world/asia/india-fatal-building-collapse)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66773000/jpg/_66773700_66773699.jpg)
 
 ### Related:
 

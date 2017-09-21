@@ -8,6 +8,7 @@ Six suicide bombers burst into an Iraqi ministry building, took hostages and kil
 ### Source:
 
 1. [Reuters via NDTV](http://www.ndtv.com/article/world/suicide-bombers-storm-iraq-ministry-building-24-killed-477594)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-01/iraq_generic_bullets_AFP_360x270.jpg)
 
 ### Related:
 

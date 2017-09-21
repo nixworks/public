@@ -8,6 +8,7 @@ News Ltd has lowered its offer for Pay-TV operator Consolidated Media to $1.94 b
 ### Source:
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-business/news-limited-lowers-offer-for-consmedia-20120907-25ig5.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

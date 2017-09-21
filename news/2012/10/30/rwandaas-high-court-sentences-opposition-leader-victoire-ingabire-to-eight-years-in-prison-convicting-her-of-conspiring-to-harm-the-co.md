@@ -8,6 +8,7 @@ Victoire Ingabire, a Hutu politician, was found guilty of two charges related to
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/10/31/world/africa/rwanda-court-sentences-victoire-ingabire.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/10/31/world/RWANDA/RWANDA-superJumbo.jpg)
 
 ### Related:
 

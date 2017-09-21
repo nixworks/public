@@ -8,6 +8,7 @@ American International Group Inc (AIG.N) shareholders won approval on Friday of 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/21/us-aig-classaction-settlement-idUSKBN0MG2E920150321)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20150320&t=2&i=1034076868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2J0ZB)
 
 ### Related:
 

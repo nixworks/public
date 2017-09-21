@@ -8,6 +8,7 @@ Exclusive: Independence leader Benny Wenda joins parliamentarians, lawyers and h
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/may/03/west-papua-un-must-supervise-vote-on-independence-says-coalition)
+1. [Cover Image](https://i.guim.co.uk/img/media/2e3b7bbaf31e70b0a5fa33269071e69c65102b70/0_0_2000_1201/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=6642c98a0d90f51633aa1f89f650afa6)
 
 ### Related:
 

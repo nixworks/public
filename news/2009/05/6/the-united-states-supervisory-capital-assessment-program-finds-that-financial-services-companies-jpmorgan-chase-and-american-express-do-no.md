@@ -10,6 +10,7 @@
 1. [MarketWatch](http://www.marketwatch.com/news/story/JP-Morgan-AmEx-dont-need/story.aspx?guid=%7B303F2409%2D4862%2D4506%2D816E%2D50498370091E%7D)
 2. [MarketWatch](http://www.marketwatch.com/news/story/Morgan-Stanley-doesnt-need-more/story.aspx?guid=%7B356A2DAD%2DB1F4%2D436E%2DBF08%2D9F5E0D9A1A7C%7D)
 3. [WSJ](http://online.wsj.com/article/SB124172137962697121.html#project%3DSTRESS0409)
+3. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

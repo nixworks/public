@@ -8,6 +8,7 @@ A possible inquiry into the handling of a 2007 French court case by Christine La
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/07/09/business/global/french-court-delays-inquiry-into-lagardes-handling-of-2007-case.html?_r=1&ref=business)
+1. [Cover Image](https://static01.nyt.com/images/2011/07/09/business/Lagarde/Lagarde-thumbStandard.jpg)
 
 ### Related:
 

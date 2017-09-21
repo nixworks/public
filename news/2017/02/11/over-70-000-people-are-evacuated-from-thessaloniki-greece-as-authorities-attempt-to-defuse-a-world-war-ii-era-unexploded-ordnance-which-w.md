@@ -8,6 +8,7 @@ Up to 70,000 people will leave their homes in the Greek city on Saturday during 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/feb/11/unexploded-ww2-bomb-prompts-huge-thessaloniki-greece-evacuation)
+1. [Cover Image](https://i.guim.co.uk/img/media/8875c0225f3c551ab3ca6360633becd52bb21238/0_81_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0a3436f15e279357b803350f5721bfec)
 
 ### Related:
 

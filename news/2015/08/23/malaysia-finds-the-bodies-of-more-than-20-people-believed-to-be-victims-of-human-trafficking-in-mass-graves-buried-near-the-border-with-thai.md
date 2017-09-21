@@ -8,6 +8,7 @@ The remains of two dozen people have been found near the border with Thailand, p
 ### Source:
 
 1. [Reuters via ''The Guardian](http://www.theguardian.com/world/2015/aug/23/malaysia-finds-mass-graves-of-24-suspected-human-trafficking-victims?CMP=twt_gu)
+1. [Cover Image](https://i.guim.co.uk/img/media/353f3e2b6a07d0b5ccd1488f3ee90f1c5a0e8280/0_155_4000_2400/master/4000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9d752c627e26007f35c89489c4299375)
 
 ### Related:
 

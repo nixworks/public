@@ -11,6 +11,7 @@ Take That have sold one million tickets for their latest tour in less than 24 ho
 2. [Reuters](http://in.reuters.com/article/idINIndia-52556220101029)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1029/breaking54.html)
 4. [The Times of Malta](http://www.timesofmalta.com/articles/view/20101030/world-news/take-that-sell-one-million-tickets)
+4. [Cover Image](https://cdn-attachments.timesofmalta.com/d9673a01a301783b901d6501ff65cb09-1539535200-1300414514-4d82c032-620x348.jpg)
 
 ### Related:
 

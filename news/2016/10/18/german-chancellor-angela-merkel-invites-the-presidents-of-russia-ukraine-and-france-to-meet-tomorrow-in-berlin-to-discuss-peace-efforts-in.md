@@ -9,6 +9,7 @@ BERLIN (AP) — German Chancellor Angela Merkel on Tuesday announced her first s
 
 1. [AP](http://bigstory.ap.org/article/fa9878c892524f85bf355ecb157dbe48/german-russian-ukrainian-french-leaders-meet-berlin)
 2. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-meeting-idUSKCN12I0OS)
+2. [Cover Image](http://binaryapi.ap.org/f2a5e5b576ef442e8f0fd7fb96648e18/460x.jpg)
 
 ### Related:
 

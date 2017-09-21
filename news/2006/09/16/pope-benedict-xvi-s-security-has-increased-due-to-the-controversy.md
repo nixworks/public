@@ -11,6 +11,7 @@ Italian media report security around Benedict XVI tightened following harsh resp
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/5351988.stm)
 3. [CNN](http://www.cnn.com/2006/WORLD/europe/09/16/pope.islam/index.html)
 4. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3304614,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

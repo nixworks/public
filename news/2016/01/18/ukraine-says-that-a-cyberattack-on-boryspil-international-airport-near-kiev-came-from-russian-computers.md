@@ -8,6 +8,7 @@ Malware which infected the airport&#039;s network has been compared a virus that
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1624871/kiev-airport-cyberattack-originated-in-russia)
+1. [Cover Image](http://e3.365dm.com/16/01/1600x900/rtr3m3g7-1-2048x1536_3401934.jpg?20160118111049)
 
 ### Related:
 

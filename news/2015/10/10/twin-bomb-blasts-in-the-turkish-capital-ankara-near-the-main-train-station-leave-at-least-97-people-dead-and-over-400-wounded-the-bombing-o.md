@@ -10,6 +10,7 @@ Two blasts at a peace rally in the Turkish capital Ankara kill at least 95 peopl
 1. [BBC](http://www.bbc.com/news/world-europe-34495161)
 2. [CNN](http://edition.cnn.com/2015/10/10/middleeast/turkey-ankara-bomb-blast/index.html?eref=edition)
 3. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2015/10/10/twin-explosions-hit-rally-in-turkish-capital.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E21C/production/_86048875_de29-1.jpg)
 
 ### Related:
 

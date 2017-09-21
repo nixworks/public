@@ -8,6 +8,7 @@ An overturned truck carrying explosives has blown up on a road south of Kabul in
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0709/afghanistan.html)
+1. [Cover Image](https://img.rasset.ie/00026ede-1600.jpg)
 
 ### Related:
 

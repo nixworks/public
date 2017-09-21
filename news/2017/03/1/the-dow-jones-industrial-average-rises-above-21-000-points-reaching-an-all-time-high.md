@@ -8,6 +8,7 @@ Investors bet big on U.S. stocks, giving the market its biggest one-day gain in 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-markets-20170301-story.html)
+1. [Cover Image](http://www.trbimg.com/img-58b75162/turbine/la-fi-markets-20170301)
 
 ### Related:
 

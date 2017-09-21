@@ -8,6 +8,7 @@ Sharif Ahmed names Mohamed Abdullahi Mohamed as new prime minister of the transi
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/20101014151118984278.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/14/20101014181915485472_20.jpg)
 
 ### Related:
 

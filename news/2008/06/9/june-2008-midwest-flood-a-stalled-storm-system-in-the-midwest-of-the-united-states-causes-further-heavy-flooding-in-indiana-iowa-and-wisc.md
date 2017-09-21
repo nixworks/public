@@ -8,6 +8,7 @@ A stalled storm system poured heavy rain on parts of the Midwest, setting off se
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/06/10/us/10storm.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/06/10/us/10storm_75.jpg)
 
 ### Related:
 

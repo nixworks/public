@@ -9,6 +9,7 @@ North Korea has executed by firing squad a former Cabinet official who was in ch
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/20/north-south-korea-official-executed)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/n-korea-reportedly-executes-seoul-envoy-20100720-10jcl.html)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

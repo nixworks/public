@@ -8,6 +8,7 @@ The state of Bavaria threatened on Friday to take the German government to court
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/09/uk-europe-migrants-germany-idUKKCN0S31I220151009)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

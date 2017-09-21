@@ -9,6 +9,7 @@ Clashes erupt between Egyptian security forces and protesters in Cairo and Alexa
 
 1. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/egypt-nov-20-2011-0001)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-15807441)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56818000/jpg/_56818390_013365666-1.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ An aboriginal man has won a narrow victory in Australia&#039;s election to becom
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11125497)
 2. [The Age](http://www.theage.com.au/federal-election/aboriginal-mp-disappointed-by-slurs-20100829-13xn0.html)
 3. [The Independent](http://www.independent.co.uk/news/world/australasia/voters-elect-first-aboriginal-mp-2065495.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

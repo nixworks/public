@@ -8,6 +8,7 @@ Ballroom dancers pop up at a protest in Vietnam, in a suspected government ploy 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/blogs-news-from-elsewhere-26240489)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73062000/jpg/_73062197_172620886.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ North Korea issued new threats against South Korea on Tuesday, vowing &quot;sled
 
 1. [RT](http://rt.com/news/korea-ultimatum-immediate-retaliation-906/)
 2. [Reuters](http://www.reuters.com/article/2013/04/16/us-korea-north-idUSBRE93D0DS20130416)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130416&t=2&i=722911561&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93F1F7V00)
 
 ### Related:
 

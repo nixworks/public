@@ -9,6 +9,7 @@ An international conference being held in Dublin has accepted a draft convention
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20080528/ts_afp/irelandweaponsdiplomacy)
 2. [RTÉ](http://www.rte.ie/news/2008/0528/clusterbombs.html)
+2. [Cover Image](https://img.rasset.ie/0001814f-1600.jpg)
 
 ### Related:
 

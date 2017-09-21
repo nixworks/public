@@ -8,6 +8,7 @@ Olympic Broadcasting Services says &quot;full investigation&quot; underway
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/sports/olympics/rio-2016/2016/08/15/camera-fall-olympic-park-rio/88765972/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

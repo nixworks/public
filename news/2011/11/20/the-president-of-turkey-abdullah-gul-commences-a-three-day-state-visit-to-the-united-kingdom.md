@@ -8,6 +8,7 @@ President of Turkey Abdullah Gul says his country still wants to join the EU, be
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15809306)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/56821000/jpg/_56821944_gulreuters.jpg)
 
 ### Related:
 

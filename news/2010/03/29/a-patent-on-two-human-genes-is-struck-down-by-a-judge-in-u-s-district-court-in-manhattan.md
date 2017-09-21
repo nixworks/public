@@ -9,6 +9,7 @@ In a ruling with potentially far-reaching implications for the patenting of huma
 
 1. [Newsweek](http://blog.newsweek.com/blogs/thehumancondition/archive/2010/03/29/in-surprise-ruling-court-declares-two-gene-patents-invalid.aspx)
 2. [The New York Times](http://www.nytimes.com/2010/03/30/business/30gene.html)
+2. [Cover Image](https://static01.nyt.com/images/2010/03/30/business/30gene_CA0/30gene_CA0-thumbStandard.jpg)
 
 ### Related:
 

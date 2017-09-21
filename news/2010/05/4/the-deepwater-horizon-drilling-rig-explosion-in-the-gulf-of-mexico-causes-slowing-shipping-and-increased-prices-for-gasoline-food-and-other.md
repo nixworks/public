@@ -9,6 +9,7 @@ The calamitous oil spill in the Gulf of Mexico isn&#39;t just a mess for the peo
 
 1. [CBS News](http://www.cbsnews.com/stories/2010/05/04/earlyshow/main6459078.shtml)
 2. [MSNBC](http://www.msnbc.msn.com/id/36926747/ns/us_news-environment/)
+2. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

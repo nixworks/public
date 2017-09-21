@@ -8,6 +8,7 @@ More than 50 aftershocks struck northern Italy overnight as thousands of people 
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/9299532/Italy-earthquake-50-aftershocks-hit-stricken-region.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02233/EmiliaRomagna_2233931k.jpg)
 
 ### Related:
 

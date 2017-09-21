@@ -9,6 +9,7 @@ Group of German lawyers seek criminal prosecution of Syrian regime head for war 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/11/german-lawyers-seek-criminal-case-syria-assad-161128141943783.html)
 2. [Anadolu Agency](http://aa.com.tr/en/europe/germany-lawyers-file-criminal-complaints-against-assad/694928)
+2. [Cover Image](http://aa.com.tr/uploads/Contents/2016/11/28/thumbs_m_c_2632f632635c93b691ce4d5d5683b8ce.jpg?v=190108)
 
 ### Related:
 

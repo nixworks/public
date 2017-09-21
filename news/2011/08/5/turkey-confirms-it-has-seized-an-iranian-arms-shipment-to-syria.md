@@ -9,6 +9,7 @@ Tens of thousands protest across Syria days after the bloody crackdown on the ci
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14417720)
 2. [Today's Zaman](http://www.todayszaman.com/news-252774-turkey-confirms-seizure-of-iranian-arms-shipment-to-syria.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54441000/jpg/_54441191_012602234-1.jpg)
 
 ### Related:
 

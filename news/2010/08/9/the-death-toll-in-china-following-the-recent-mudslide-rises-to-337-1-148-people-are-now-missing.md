@@ -11,6 +11,7 @@ The death toll from landslides in north-west China rises to 337, with 1,148 peop
 2. [AP via ''The Times of India](http://timesofindia.indiatimes.com/world/china/Death-toll-in-China-landslide-rises-to-337/articleshow/6283217.cms)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10918315)
 4. [Reuters India](http://in.reuters.com/article/idINIndia-50714420100809)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

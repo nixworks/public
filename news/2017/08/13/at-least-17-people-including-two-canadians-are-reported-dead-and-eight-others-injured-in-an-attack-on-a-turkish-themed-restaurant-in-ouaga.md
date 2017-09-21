@@ -9,6 +9,7 @@ At least 17 people, including foreigners, were reportedly shot dead as suspected
 
 1. [RT](https://www.rt.com/news/399503-burkina-faso-cafe-attack-gunfire/)
 2. [Reuters](http://www.reuters.com/article/us-burkina-security-canada-idUSKCN1AU1TX?il=0)
+2. [Cover Image](https://cdn.rt.com/files/2017.08/article/5990faaafc7e93bf208b4567.jpg)
 
 ### Related:
 

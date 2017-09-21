@@ -8,6 +8,7 @@ An 88-story tower still under construction in Kazakhstan’s capital, Astana, wa
 ### Source:
 
 1. [RT](https://www.rt.com/news/332323-abu-dhabi-fire-astana/)
+1. [Cover Image](https://img.rt.com/files/2016.02/article/56be8308c361882e2b8b45f9.jpg)
 
 ### Related:
 

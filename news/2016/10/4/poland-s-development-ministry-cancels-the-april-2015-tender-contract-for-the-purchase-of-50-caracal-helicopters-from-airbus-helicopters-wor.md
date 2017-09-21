@@ -9,6 +9,7 @@ The Polish government has cancelled talks with Airbus Helicopters on a multi-bil
 
 1. [BBC](http://www.bbc.com/news/business-37622842)
 2. [Deutsche Welle](http://www.dw.com/en/poland-cancels-multi-billion-euro-airbus-helicopters-deal/a-35967557)
+2. [Cover Image](http://www.dw.com/image/17392110_304.jpg)
 
 ### Related:
 

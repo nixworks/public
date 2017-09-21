@@ -8,6 +8,7 @@ Rupert Murdoch is standing down as chief executive of his media-entertainment co
 ### Source:
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/2015-06-12/rupert-murdoch-to-stand-down-as-ceo-of-21st-century-fox/6540286)
+1. [Cover Image](http://www.abc.net.au/news/image/5605198-1x1-700x700.jpg)
 
 ### Related:
 

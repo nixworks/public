@@ -9,6 +9,7 @@ Greece will hold fresh elections on 17 June and a judge is appointed to head an 
 
 1. [AP via ''Huffington Post](http://www.huffingtonpost.com/huff-wires/20120516/eu-greece-elections/)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-18082552)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60263000/jpg/_60263628_014757779-1.jpg)
 
 ### Related:
 

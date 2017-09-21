@@ -8,6 +8,7 @@ Florida Gov. Rick Scott put pressure on federal health officials Monday to send 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/health/2016/08/23/as-zika-concerns-grow-florida-governor-pressures-feds-for-more-resources.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/08/22/0/0/694940094001_5094720770001_34e4b47b-16b4-49e7-a319-4159bb9d80cf.jpg?ve=1)
 
 ### Related:
 

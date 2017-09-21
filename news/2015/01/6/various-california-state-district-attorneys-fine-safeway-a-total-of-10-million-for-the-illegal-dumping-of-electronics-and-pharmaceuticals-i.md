@@ -8,6 +8,7 @@ The Safeway supermarket chain has been ordered to pay nearly $10 million for ill
 ### Source:
 
 1. [KPIX](http://sanfrancisco.cbslocal.com/2015/01/06/safeway-fined-10m-for-illegally-dumping-electronics-pharmaceuticals-in-calif-landfills-pleasanton-califorinia/)
+1. [Cover Image](https://cbssanfran.files.wordpress.com/2015/01/safeway.jpg?w=594)
 
 ### Related:
 

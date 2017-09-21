@@ -9,6 +9,7 @@ Thousands of protesters rampage in Haitian towns, torching buildings in armed cl
 
 1. [AFP via ABC News](http://www.abc.net.au/news/stories/2010/12/09/3088707.htm?section=justin)
 2. [CNN](http://edition.cnn.com/2010/WORLD/americas/12/08/haiti.elections.aftermath/index.html?eref=edition)
+2. [Cover Image](http://www.abc.net.au/news/image/2366188-1x1-700x700.jpg)
 
 ### Related:
 

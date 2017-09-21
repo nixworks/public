@@ -10,6 +10,7 @@ New Zealanders will go to the polls on September 17, Prime Minister Helen Clark 
 1. [NZ Herald](http://www.nzherald.co.nz/index.cfm?ObjectID=10337525)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-25T051432Z_01_N25690836_RTRIDST_0_INTERNATIONAL-NEWZEALAND-ELECTION-DC.XML)
 3. [Stuff.co.nz](http://www.stuff.co.nz/stuff/0,2106,3356811a6160,00.html)
+3. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

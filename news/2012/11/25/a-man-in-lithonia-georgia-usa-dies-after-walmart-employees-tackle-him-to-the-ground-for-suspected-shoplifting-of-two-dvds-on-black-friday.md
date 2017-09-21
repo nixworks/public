@@ -8,6 +8,7 @@ A man suspected of shoplifting two DVD players from&#160; a Lithonia, Ga., Walma
 ### Source:
 
 1. [Good Morning America](http://gma.yahoo.com/blogs/abc-blogs/shoplift-suspect-dies-confrontation-walmart-workers-234946540--abc-news-topstories.html)
+1. [Cover Image](https://s1.yimg.com/bt/api/res/1.2/M7vS95b2fvSzHFeFStPk0A--/YXBwaWQ9eW5ld3NfbGVnbztxPTc1O3c9NjAw/http://l.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

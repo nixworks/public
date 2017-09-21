@@ -8,6 +8,7 @@ Ulf Ekman reportedly shocked and upset the megachurch he founded in Sweden when 
 ### Source:
 
 1. [Charisma News](http://www.charismanews.com/us/43058-ulf-ekman-converts-to-roman-catholicism)
+1. [Cover Image](http://www.charismanews.com/images/archives/stories/featured-news/ulk-ekman.jpg)
 
 ### Related:
 

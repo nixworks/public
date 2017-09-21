@@ -8,6 +8,7 @@ Israel is aware of the reports and preparing itself for possible row at the Inte
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/foreign-ministry-official-malaysia-considering-petitioning-hague-over-gaza-blockade-1.313986)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.313990.1284555190!/image/1700944438.jpg_gen/derivatives/headline_1200x630/1700944438.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Duterte, 71, won power in a landslide after a campaign dominated by threats to k
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/01/philippines-president-rodrigo-duterte-urges-people-to-kill-drug-addicts)
+1. [Cover Image](https://i.guim.co.uk/img/media/f614812080d6ce319cc10fff1d80a290f9412f6f/0_83_2572_1543/2572.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=374ec6357172e196626484f639a2b7cf)
 
 ### Related:
 

@@ -12,6 +12,7 @@ State media says unnamed American man detained after trespassing on border with 
 3. [RIA Novosti](http://en.rian.ru/world/20100128/157700374.html)
 4. [WSJ Europe](http://online.wsj.com/article/SB10001424052748704094304575028750510259106.html?mod=WSJ_World_LEFTSecondNews)
 5. [Yonhap](http://english.yonhapnews.co.kr/national/2010/01/28/59/0301000000AEN20100128004300315F.HTML)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

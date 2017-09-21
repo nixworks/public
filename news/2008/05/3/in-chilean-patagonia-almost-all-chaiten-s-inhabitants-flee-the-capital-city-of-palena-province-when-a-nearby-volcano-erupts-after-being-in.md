@@ -8,6 +8,7 @@ More than 1,500 people had to flee their homes after a huge cloud of ash and lav
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/1924533/Thousands-flee-as-Chaiten-volcano-erupts-in-Chile.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/00667/v1t2_667732g.jpg)
 
 ### Related:
 

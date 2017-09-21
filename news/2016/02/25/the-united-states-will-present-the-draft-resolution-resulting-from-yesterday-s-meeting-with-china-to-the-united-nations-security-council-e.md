@@ -9,6 +9,7 @@ The United States presented a draft Security Council resolution on Thursday it n
 
 1. [Jerusalem Post](http://www.jpost.com/Breaking-News/US-says-to-present-draft-UN-sanctions-resolution-on-North-Korea-446038)
 2. [Reuters](http://www.reuters.com/article/us-northkorea-nuclear-usa-idUSKCN0VY0ET)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160226&t=2&i=1120397580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1O06H)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.com/news/live/uk-politics-36570120)
 2. [BBC](http://www.bbc.com/news/uk-politics-eu-referendum-36612368)
 3. [The Telegraph](http://www.telegraph.co.uk/news/2016/06/22/eu-referendum-final-day-live/)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/03E5/production/_90079900_referendum3.jpg)
 
 ### Related:
 

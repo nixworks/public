@@ -11,6 +11,7 @@ World leaders urged Turkey to step back from the brink of war with Syria after i
 2. [CBS](http://www.cbsnews.com/8301-202_162-57525883/turkey-syria-admits-fault-for-deadly-shelling/)
 3. [SANA](http://sana.sy/eng/21/2012/10/04/445137.htm)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9588296/World-leaders-urge-Turkey-to-step-back-from-brink-of-war-with-Syria.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02359/syria-turkey-funer_2359875k.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20120676)
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-brazil-election-20121029,0,3941494.story)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

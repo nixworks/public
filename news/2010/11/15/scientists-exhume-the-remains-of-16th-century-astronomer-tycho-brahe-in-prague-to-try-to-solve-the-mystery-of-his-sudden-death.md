@@ -9,6 +9,7 @@ The 16th Century Danish astronomer Tycho Brahe is being exhumed in Prague to cla
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_CZECH_DANISH_ASTRONOMER?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.co.uk/news/11756077)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

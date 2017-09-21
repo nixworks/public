@@ -8,6 +8,7 @@ Aircraft crashes in southern Zabul province, killing five pilots and 12 soldiers
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/08/killed-afghan-military-helicopter-crash-150806084835847.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/8/6/1b4c4333551a45fa8312ba5fc58730bb_18.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A solar eclipse will pass over Britain on Friday, covering the country in darkne
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/science/eclipse-2015-path-when-and-where-the-blackout-will-happen-and-how-to-watch-it-in-three-charts-10120761.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/03/19/12/eclipse.jpg)
 
 ### Related:
 

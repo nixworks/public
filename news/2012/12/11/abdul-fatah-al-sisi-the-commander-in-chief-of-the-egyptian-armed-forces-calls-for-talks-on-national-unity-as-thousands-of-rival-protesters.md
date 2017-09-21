@@ -8,6 +8,7 @@ Egypt&#039;s army chief calls for talks on national unity to end the country&#03
 ### Source:
 
 1. [ABC Australia/Reuters](http://www.abc.net.au/news/2012-12-12/egyptian-army-calls-for-calm-as-protest-escalate/4422676)
+1. [Cover Image](http://www.abc.net.au/news/image/4422704-1x1-700x700.jpg)
 
 ### Related:
 

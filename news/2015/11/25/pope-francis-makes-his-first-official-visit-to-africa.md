@@ -9,6 +9,7 @@ Pope Francis called on Wednesday for ethnic and religious reconciliation at the 
 
 1. [AP via ''The Salt Lake Tribune](http://www.sltrib.com/home/3228771-155/pope-francis-urges-kenyans-to-work)
 2. [Reuters](http://www.reuters.com/article/2015/11/25/us-pope-africa-idUSKBN0TD37620151125)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151125&t=2&i=1097644178&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAO0XG)
 
 ### Related:
 

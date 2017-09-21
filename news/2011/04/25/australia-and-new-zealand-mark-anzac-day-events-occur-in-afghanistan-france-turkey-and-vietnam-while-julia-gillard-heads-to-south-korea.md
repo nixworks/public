@@ -8,6 +8,7 @@ Australia and New Zealand remember their war dead on Anzac Day, with the leaders
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13184654)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52329000/jpg/_52329708_crossreuter.jpg)
 
 ### Related:
 

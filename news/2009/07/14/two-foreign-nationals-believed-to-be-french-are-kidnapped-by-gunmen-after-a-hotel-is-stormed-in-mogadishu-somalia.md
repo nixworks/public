@@ -9,6 +9,7 @@ Armed men take hostage two French guests from a hotel in Mogadishu as fighting r
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/07/200971473417535932.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/africa/07/14/somalia.kidnapping/)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -15,6 +15,7 @@ min Park and Louis Charbonneau
 6. [USA Today](http://www.usatoday.com/story/news/world/2016/02/07/north-korea-missile/79963198/)
 7. [Yonhap](http://english.yonhapnews.co.kr/news/2016/02/07/0200000000AEN20160207001500315.html?input=www.tweeter.com)
 8. [Yonhap](http://english.yonhapnews.co.kr/news/2016/02/07/0200000000AEN20160207007100315.html)
+8. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160207&t=2&i=1115631855&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC160BC)
 
 ### Related:
 

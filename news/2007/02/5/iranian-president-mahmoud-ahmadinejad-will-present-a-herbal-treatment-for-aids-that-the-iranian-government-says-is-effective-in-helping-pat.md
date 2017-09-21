@@ -8,6 +8,7 @@ Iran was set to make fantastic claims on the anniversary of the Islamic Revoluti
 ### Source:
 
 1. [Fox](http://www.foxnews.com/story/0,2933,250281,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

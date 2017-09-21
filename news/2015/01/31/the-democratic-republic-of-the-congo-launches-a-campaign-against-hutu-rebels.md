@@ -8,6 +8,7 @@ Congolese government troops have started their long-awaited offensive against Rw
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/dr-congo-says-offensive-against-hutu-rebels-underway-161230672.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

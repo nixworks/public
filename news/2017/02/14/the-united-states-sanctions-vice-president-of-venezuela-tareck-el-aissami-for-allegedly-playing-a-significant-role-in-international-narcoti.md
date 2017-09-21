@@ -8,6 +8,7 @@ The US says Tareck El Aissami has played &quot;a significant role in internation
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38964575)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13BD5/production/_94635808_037624800.jpg)
 
 ### Related:
 

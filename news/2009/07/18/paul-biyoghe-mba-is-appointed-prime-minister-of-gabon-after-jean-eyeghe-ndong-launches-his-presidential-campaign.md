@@ -9,6 +9,7 @@
 
 1. [France 24](http://www.france24.com/en/20090718-gabon-bongo-president-prime-minister-mba-ndong)
 2. [Reuters](http://www.reuters.com/article/rbssEnergyNews/idUSLH34102120090717)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

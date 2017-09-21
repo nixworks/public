@@ -8,6 +8,7 @@ An elite U.S. Navy SEAL was killed and seven service members were injured in a v
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/17/us-usa-navy-accident-idUSBRE94G0K920130517)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

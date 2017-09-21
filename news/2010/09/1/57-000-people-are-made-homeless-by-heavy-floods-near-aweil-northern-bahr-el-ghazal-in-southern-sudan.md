@@ -8,6 +8,7 @@ Some 57,000 people have been forced from their homes because of dramatic floods 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11150357)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

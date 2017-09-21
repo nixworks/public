@@ -8,6 +8,7 @@ Man had been asked to stay away from U.S. Army recruiting office.
 ### Source:
 
 1. [STL Today](http://www.stltoday.com/news/local/metro/illinois-man-accused-of-downtown-st-louis-firebombing/article_88c6c834-8e4c-11e1-a4f0-0019bb30f31a.html)
+1. [Cover Image](http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/5f/f5f94738-5658-11e0-83ca-00127992bc8b/4d8baf9aaa18a.preview-1024.jpg?crop=939%2C704%2C42%2C0&amp;resize=840%2C630&amp;order=crop%2Cresize)
 
 ### Related:
 
@@ -18,3 +19,4 @@ Man had been asked to stay away from U.S. Army recruiting office.
 5. [ Belgian-Brazilian brewer InBev buys St. Louis, Missouri-based Anheuser-Busch for US$52 billion. ](/news/2008/07/14/belgian-brazilian-brewer-inbev-buys-st-louis-missouri-based-anheuser-busch-for-us-52-billion.md) _Context: St Louis_
 6. [ A magnitude 5.2 earthquake occurs at 04:37 Central Standard Time with its epicenter six miles (10 km) from West Salem, Illinois. Effects are felt as far off as Evansville, St. Louis, Indianapolis, Detroit and Cleveland. While shaking was reported in Chicago, St. Louis and Cincinnati, there are few reports of damage. ](/news/2008/04/18/a-magnitude-5-2-earthquake-occurs-at-04-37-central-standard-time-with-its-epicenter-six-miles-10-km-from-west-salem-illinois-effects-ar.md) _Context: St Louis_
 7. [ Residents in St. Louis, Missouri are allowed back to their homes early today after an explosion at an industrial gas plant forced emergency evacuations Friday. ](/news/2005/06/25/residents-in-st-louis-missouri-are-allowed-back-to-their-homes-early-today-after-an-explosion-at-an-industrial-gas-plant-forced-emergency.md) _Context: St Louis_
+8. [ US President George W. Bush and challenger Senator John Kerry meet at Washington University in St. Louis, Missouri, for the second of three U.S. presidential debates. ](/news/2004/10/8/us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-washington-university-in-st-louis-missouri-for-the-second-of-three.md) _Context: St Louis_

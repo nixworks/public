@@ -8,6 +8,7 @@ A Palestinian woman held in detention in Israel, Hana Shalabi, is ending her 43-
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17557490)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59205000/jpg/_59205447_014307496-1.jpg)
 
 ### Related:
 

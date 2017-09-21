@@ -8,6 +8,7 @@ The Australian consumer watchdog is suing the US company behind the wildly popul
 ### Source:
 
 1. [Sydney Herald Sun](http://www.smh.com.au/digital-life/games/accc-sues-us-video-games-giant-valve-20140829-109w0y.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/0/9/w/b/h/image.related.articleLeadwide.620x349.109w0y.png/1409444352731.png)
 
 ### Related:
 

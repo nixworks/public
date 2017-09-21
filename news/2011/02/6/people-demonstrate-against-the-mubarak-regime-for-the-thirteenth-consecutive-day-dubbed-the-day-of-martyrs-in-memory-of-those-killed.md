@@ -23,3 +23,4 @@ Videos uploaded on YouTube appear to show graphic scenes of recent violence in C
 14. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-5)
 15. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-7)
 16. [a live stream](http://english.aljazeera.net/watch_now/)
+16. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/6/20112615955414784_20.jpg)

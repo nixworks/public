@@ -9,6 +9,7 @@ State of emergency lifted in three provinces but strict laws remain in much of t
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/2010720162949305525.html)
 2. [Arab News](http://arabnews.com/world/article87362.ece)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Somali man is shot dead after injuring a soldier with a machete in the centre 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-41057304)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05dbzlm.jpg)
 
 ### Related:
 

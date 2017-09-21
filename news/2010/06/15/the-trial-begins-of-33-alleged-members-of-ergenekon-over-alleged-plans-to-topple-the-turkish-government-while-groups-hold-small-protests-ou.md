@@ -10,6 +10,7 @@ Court tries suspects of alleged plan to attack non-Muslims in bid to topple gove
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010615125135547948.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10320736.stm)
 3. [euronews](http://www.euronews.net/2010/06/15/turkish-coup-plot-trial-opens/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

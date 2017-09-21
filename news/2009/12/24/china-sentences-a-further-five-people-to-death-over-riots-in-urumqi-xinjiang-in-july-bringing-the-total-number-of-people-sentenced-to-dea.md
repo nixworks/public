@@ -9,6 +9,7 @@ Court decision brings to 22 number of those awaiting execution over unrest.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/2009122461218484397.html)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091224131930162C792612)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

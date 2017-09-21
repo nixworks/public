@@ -8,6 +8,7 @@ Marin Ngoupana and Adrian Croft
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/20/us-centralafrican-idUSBREA0J0VT20140120)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140120&t=2&i=831090551&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0J15B800)
 
 ### Related:
 

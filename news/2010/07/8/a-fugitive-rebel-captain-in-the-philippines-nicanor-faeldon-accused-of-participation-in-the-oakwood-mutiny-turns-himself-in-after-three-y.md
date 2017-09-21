@@ -10,6 +10,7 @@ A rebel soldier who took part in the 2007 occupation of a luxury hotel in Manila
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107841222519848.html)
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/asia_pacific/10549460.stm)
 3. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20100707-279791/Rebel-officer-resurfaces)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

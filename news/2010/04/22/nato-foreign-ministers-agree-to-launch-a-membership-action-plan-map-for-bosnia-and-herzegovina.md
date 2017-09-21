@@ -9,6 +9,7 @@ NATO ministers agreed on Thursday to grant a Membership Action Plan (MAP) for Bo
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8638794.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE63L5H420100422?feedType=RSS&feedName=worldNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

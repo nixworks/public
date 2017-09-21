@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4325600.stm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-10-10T114504Z_01_KRA983130_RTRUKOC_0_US-GERMANY.xml)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

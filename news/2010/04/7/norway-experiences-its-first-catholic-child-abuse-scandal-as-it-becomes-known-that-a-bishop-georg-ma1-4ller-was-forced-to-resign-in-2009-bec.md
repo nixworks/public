@@ -9,6 +9,7 @@ In May, the leader of Norway’s small Catholic community resigned. The Vatican 
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/07/norway.bishop.sex.abuse/?hpt=T2)
 2. [The New York Times](http://www.nytimes.com/2010/04/08/world/europe/08church.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

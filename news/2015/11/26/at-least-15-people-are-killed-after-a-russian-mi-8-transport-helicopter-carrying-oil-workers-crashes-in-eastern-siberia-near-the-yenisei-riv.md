@@ -9,6 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/russian-helicopter-crashes-siberia-killing-10-35426968)
 2. [Reuters](http://in.reuters.com/article/2015/11/26/russia-helicopter-crash-idINL8N13L0JC20151126)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ WASHINGTON (Reuters) - The Supreme Court agreed on Friday to rule on the divisiv
 ### Source:
 
 1. [Reuters via ''The Chicago Tribune](http://www.chicagotribune.com/business/sns-rt-us-usa-court-software-20131206,0,6455987.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

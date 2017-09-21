@@ -8,6 +8,7 @@ An Indonesian military transport plane carrying 110 passengers and crew crashed 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54J0WC20090520)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090520&t=2&i=10187940&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-20T103221Z_01_BTRE54J0IH900_RTROPTP_0_INDONESIA-CRASH)
 
 ### Related:
 

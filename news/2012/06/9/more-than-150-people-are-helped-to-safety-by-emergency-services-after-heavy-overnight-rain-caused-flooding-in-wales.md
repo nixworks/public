@@ -8,6 +8,7 @@ Residents caught up in severe overnight flooding in mid Wales speak of the speed
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-18378978)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60797000/jpg/_60797410_3-sam.jpg)
 
 ### Related:
 

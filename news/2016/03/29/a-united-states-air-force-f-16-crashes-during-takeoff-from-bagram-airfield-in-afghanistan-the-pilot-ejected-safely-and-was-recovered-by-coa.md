@@ -8,6 +8,7 @@ A U.S. Air Force F-16 plane crashed during takeoff near Bagram Air Base in Afgha
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-afghanistan-crash-idUSKCN0WV266)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

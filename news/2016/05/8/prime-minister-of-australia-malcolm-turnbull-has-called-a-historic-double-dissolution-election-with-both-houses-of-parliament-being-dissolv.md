@@ -8,6 +8,7 @@ Prime Minister Malcolm Turnbull says Australians will go to the polls on July 2 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-05-08/malcolm-turnbull-announces-federal-election-live-blog/7391958)
+1. [Cover Image](http://www.abc.net.au/news/image/7394294-1x1-700x700.jpg)
 
 ### Related:
 

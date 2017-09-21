@@ -9,6 +9,7 @@ Islamists&#x20;on&#x20;Sunday&#x20;attacked&#x20;the&#x20;rival&#x20;Zintan&#x20
 
 1. [AFP via France 24](http://www.france24.com/en/20140713-libya-militias-fighting-tripoli-airport/)
 2. [AP](http://hosted.ap.org/dynamic/stories/M/ML_LIBYA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/tripoli-airport-twitter-%40za.jpg)
 
 ### Related:
 

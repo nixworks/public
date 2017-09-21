@@ -8,6 +8,7 @@ Islamist fighters in the Fajr Libya (Libyan Dawn) coalition said on Saturday the
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/libya-islamist-militias-taken-tripoli-airport-165106137.html;_ylt=AwrBEiLc3_hTABEAck7QtDMD)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/.7eCFL2gKGJlNWsVzEjnSQ--/aD05MzQ7dz0xMzU5O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6364313-1-1-0.jpg)
 
 ### Related:
 

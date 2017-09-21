@@ -10,6 +10,7 @@ Exchanges of fire continue at a luxury hotel in Burkina Faso as special forces s
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2016-01-16/suspected-terrorists-target-hotel-in-burkina-faso/7092762)
 2. [BBC](http://www.bbc.com/news/world-africa-35330169)
 3. [The Guardian](http://www.theguardian.com/world/2016/jan/15/security-forces-battle-suspected-jihadists-in-burkina-faso-capital)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3A4C/production/_87742941_87742816.jpg)
 
 ### Related:
 

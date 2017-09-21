@@ -9,6 +9,7 @@ FRANCE has officially banned women from wearing full-face veils in public places
 
 1. [AFP via News Limited](http://www.news.com.au/breaking-news/world/french-ban-on-burqa-and-niqab-begins/story-e6frfkui-1226037166312)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-13031397)
+2. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

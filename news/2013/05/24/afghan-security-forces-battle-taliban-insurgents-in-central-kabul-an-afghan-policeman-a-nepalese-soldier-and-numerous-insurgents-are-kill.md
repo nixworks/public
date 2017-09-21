@@ -8,6 +8,7 @@ Afghan security forces battle Taliban insurgents for hours in central Kabul, fol
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22656758)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/67800000/jpg/_67800700_67800699.jpg)
 
 ### Related:
 

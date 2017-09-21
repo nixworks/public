@@ -8,6 +8,7 @@ NORTHKOREA-USA/PRISONER (URGENT):North Korea sentences Korean American to 10 yea
 ### Source:
 
 1. [Reuters via Trust](http://news.trust.org/item/20160429033508-0g3ox)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/4f5d4e4e-ef20-45b1-9a5a-27c70545a4f8/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

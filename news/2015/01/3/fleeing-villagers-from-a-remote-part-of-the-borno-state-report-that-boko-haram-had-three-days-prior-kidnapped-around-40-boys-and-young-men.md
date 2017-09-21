@@ -8,6 +8,7 @@ Suspected Boko Haram militants have kidnapped about 40 boys and young men in a r
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30666011)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79808000/jpg/_79808648_79808646.jpg)
 
 ### Related:
 

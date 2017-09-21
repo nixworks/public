@@ -8,6 +8,7 @@ Three US soldiers with the Nato-led force in Kandahar province in southern Afgha
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22529417)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67568000/gif/_67568952_afghan_kandahar_0312.gif)
 
 ### Related:
 

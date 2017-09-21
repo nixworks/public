@@ -8,6 +8,7 @@ President-elect Barack Obama stumbled in his quest for a smooth transition on Su
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSN0434631820090104)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090104&t=2&i=7721350&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-01-04T194318Z_01_BTRE5031FGC00_RTROPTP_0_USA-OBAMA)
 
 ### Related:
 

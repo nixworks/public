@@ -8,6 +8,7 @@ A free trade agreement between the US and Colombia takes effect five years after
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18069469)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60239000/jpg/_60239656_colombiaflowers_rtr.jpg)
 
 ### Related:
 

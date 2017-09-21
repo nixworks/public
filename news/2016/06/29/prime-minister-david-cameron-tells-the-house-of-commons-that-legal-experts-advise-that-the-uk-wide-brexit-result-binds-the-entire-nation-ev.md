@@ -9,6 +9,7 @@ As Irish and Scottish nationalists continue to refuse to accept the outcome of l
 
 1. [New Europe](https://www.neweurope.eu/article/scottish-north-irish-meps-want-countries-stay-eu/)
 2. [The News Letter](http://www.newsletter.co.uk/news/northern-ireland-news/pm-says-legal-advice-is-clear-scotland-and-ni-bound-by-brexit-vote-1-7455432)
+2. [Cover Image](http://res.cloudinary.com/jpress/image/fetch/w_300,f_auto,ar_3:2,c_fill/http://www.newsletter.co.uk/webimage/1.7455431.1467225826!/image/image.jpg)
 
 ### Related:
 

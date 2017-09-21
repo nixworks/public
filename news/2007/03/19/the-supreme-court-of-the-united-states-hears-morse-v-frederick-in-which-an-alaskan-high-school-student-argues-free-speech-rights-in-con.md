@@ -8,6 +8,7 @@ A high school senior&#8217;s 14-foot banner proclaiming &#8220;Bong Hits 4 Jesus
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/17687386/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Video/070319/nc_scotus_freespeech_070319.standard.jpg)
 
 ### Related:
 

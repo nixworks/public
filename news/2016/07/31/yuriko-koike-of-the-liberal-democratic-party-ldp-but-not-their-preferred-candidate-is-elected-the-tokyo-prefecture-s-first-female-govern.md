@@ -8,6 +8,7 @@ Former environment minister Yuriko Koike of the Liberal Democratic Party was ele
 ### Source:
 
 1. [Japan Times](http://www.japantimes.co.jp/news/2016/07/31/national/politics-diplomacy/tokyo-elects-former-environment-minister-yuriko-koike-as-citys-first-female-governor/#.V54bljWljIU)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2016/07/n-electionresults-e-20160801-870x593.jpg)
 
 ### Related:
 

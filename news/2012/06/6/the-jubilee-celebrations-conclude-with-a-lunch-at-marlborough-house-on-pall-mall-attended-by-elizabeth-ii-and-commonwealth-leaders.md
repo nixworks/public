@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18337851)
 2. [BBC](http://www.bbc.co.uk/news/uk-18337596)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60716000/jpg/_60716839_60716838.jpg)
 
 ### Related:
 

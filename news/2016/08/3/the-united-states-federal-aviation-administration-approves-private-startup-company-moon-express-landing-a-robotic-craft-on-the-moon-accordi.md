@@ -9,6 +9,7 @@ Moon Express said Aug. 3 that it has won a first-of-its-kind regulatory approval
 
 1. [SpaceNews](http://spacenews.com/moon-express-wins-u-s-government-approval-for-lunar-lander-mission/)
 2. [The New York Times](http://www.nytimes.com/2016/08/04/science/moon-express-faa.html?_r=1)
+2. [Cover Image](http://spacenews.com/wp-content/uploads/2015/12/Moon_Express_MX-1.jpg)
 
 ### Related:
 

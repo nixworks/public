@@ -8,6 +8,7 @@ In the darkest moments of last year’s nuclear accident, leaders secretly consi
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/02/28/world/asia/japan-considered-tokyo-evacuation-during-the-nuclear-crisis-report-says.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2012/02/28/world/asia/28japan-1/28japan-1-thumbStandard.jpg)
 
 ### Related:
 

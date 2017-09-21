@@ -11,6 +11,7 @@
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8272931.stm)
 3. [Bangkok Post](http://www.bangkokpost.com/news/asia/155246/washington-to-engage-diplomatically-with-burma)
 4. [The Guardian](http://www.guardian.co.uk/world/2009/sep/24/burma-obama-foreign-policy)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

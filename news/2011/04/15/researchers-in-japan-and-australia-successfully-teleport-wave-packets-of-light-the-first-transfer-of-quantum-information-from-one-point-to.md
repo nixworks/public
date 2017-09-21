@@ -8,6 +8,7 @@ Researchers from Australia and Japan have successfully teleported wave packets o
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/04/15/3192505.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2614790-1x1-700x700.jpg)
 
 ### Related:
 

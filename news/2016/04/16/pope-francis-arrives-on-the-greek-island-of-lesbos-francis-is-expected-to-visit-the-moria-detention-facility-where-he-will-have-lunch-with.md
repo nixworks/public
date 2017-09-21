@@ -9,6 +9,7 @@ Pontiff visits Greek island to highlight refugee crisis, telling crowds: ‘We h
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/16/pope-francis-flies-to-lesbos-to-highlight-humanitarian-crisis-in-europe)
 2. [The Washington Post](https://www.washingtonpost.com/world/pope-francis-arrives-on-lesbos-in-visit-intended-to-prick-europes-conscience/2016/04/16/b0a66c08-fd09-11e5-813a-90ab563f0dde_story.html)
+2. [Cover Image](https://i.guim.co.uk/img/media/32627a24c7f36224d55d48050f4f51f2fc37a515/0_0_4928_2957/4928.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d10113d47fbf90a463307c90fa2b10fa)
 
 ### Related:
 

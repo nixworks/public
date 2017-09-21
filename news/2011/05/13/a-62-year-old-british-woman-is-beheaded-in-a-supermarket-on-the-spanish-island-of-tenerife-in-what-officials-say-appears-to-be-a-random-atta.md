@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13393694)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/may/13/woman-beheaded-tenerife-supermarket-spain)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52710000/jpg/_52710200_52710199.jpg)
 
 ### Related:
 

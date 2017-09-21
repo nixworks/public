@@ -9,6 +9,7 @@ Typhoon Nabi lashed Japan and parts of South Korea, killing one person and injur
 
 1. [AFP](http://news.yahoo.com/s/afp/20050906/wl_asia_afp/japanweathertyphoon)
 2. [CBC](http://www.cbc.ca/world/story/2005/09/06/typhoon_japan_20050906.html)
+2. [Cover Image](https://i.cbc.ca/1.2349438.1383461992!/httpImage/image.jpg_gen/derivatives/16x9_1180/japan-typhoon-cp-8370855.jpg)
 
 ### Related:
 

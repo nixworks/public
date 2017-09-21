@@ -8,6 +8,7 @@ Royal Bank of Scotland Group Plc will pay $1.1 billion to resolve claims that it
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-royal-bank-scot-lawsuit-idUSKCN11X2O8)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160928&t=2&i=1155233972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8Q1GS)
 
 ### Related:
 

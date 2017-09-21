@@ -8,6 +8,7 @@ Porsche’s production chief Oliver Blume is set to succeed Matthias Mueller as 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-09-26/volkswagen-unit-porsche-said-to-name-oliver-blume-as-new-chief)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

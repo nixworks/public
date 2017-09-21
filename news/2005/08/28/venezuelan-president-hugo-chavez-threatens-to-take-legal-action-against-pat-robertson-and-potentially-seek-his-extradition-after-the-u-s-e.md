@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-08-29T025543Z_01_KWA910559_RTRIDST_0_NEWS-VENEZUELA-ROBERTSON-DC.XML)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

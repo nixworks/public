@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-15488030)
 2. [BBC](http://www.bbc.co.uk/news/uk-england-london-15495019)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56345000/jpg/_56345901_56345900.jpg)
 
 ### Related:
 

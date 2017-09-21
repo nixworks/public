@@ -9,6 +9,7 @@ Thousands of barrels spill near town of Mayflower in Arkansas state in second cr
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/03/201333142826356825.html)
 2. [Reuters](http://www.reuters.com/article/2013/03/31/us-exxon-pipeline-spill-idUSBRE92U00220130331)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/31/2013331153029151734_20.jpg)
 
 ### Related:
 

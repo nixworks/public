@@ -9,6 +9,7 @@ More than 200 people were confirmed killed and hundreds more feared dead after a
 
 1. [CNN Türk](http://www.cnnturk.com/2011/turkiye/10/23/cok.sayida.bina.yikildi/634159.0/index.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/45005013/ns/world_news-europe/)
+2. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/111023-earthquake-hmed-4p.standard.jpg)
 
 ### Related:
 

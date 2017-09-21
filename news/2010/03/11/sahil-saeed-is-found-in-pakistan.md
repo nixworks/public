@@ -8,6 +8,7 @@ Sahil Saeed, the five-year-old boy kidnapped in Pakistan, has been found, accord
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/7419316/Kidnapped-British-boy-found-in-Pakistan.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01589/boy_1589887a.jpg)
 
 ### Related:
 

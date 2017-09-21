@@ -8,6 +8,7 @@ All of an estimated 40,000 Rohingya Muslims living in India are illegal immigran
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-myanmar-rohingya-india-idUSKCN1AU0UC)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20170814&t=2&i=1197001624&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7D0K1)
 
 ### Related:
 

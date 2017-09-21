@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/16/us-hp-redundancies-research-idUSKCN0RG2JT20150916)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150916&t=2&i=1079908556&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8F14G)
 
 ### Related:
 

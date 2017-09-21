@@ -9,6 +9,7 @@ French President Francois Hollande is on track to win a solid parliamentary majo
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jahYJCu9K9wC7rypTY7K1yoeSCRw?docId=8848b79d8a7744b185defd76ed05983a)
 2. [Reuters](http://www.reuters.com/article/2012/06/10/us-france-election-idUSBRE8550D620120610?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120610&t=2&i=617193926&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8590VFH00)
 
 ### Related:
 

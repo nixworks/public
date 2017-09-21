@@ -8,6 +8,7 @@
 ### Source:
 
 1. [China Post](http://www.chinapost.com.tw/asia/vietnam/2012/07/09/346915/More-than.htm)
+1. [Cover Image](http://www.chinapost.com.tw/news_images/20120709/p13d.jpg)
 
 ### Related:
 

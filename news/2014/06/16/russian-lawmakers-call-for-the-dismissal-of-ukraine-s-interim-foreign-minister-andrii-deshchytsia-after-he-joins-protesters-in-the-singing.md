@@ -8,3 +8,4 @@ Ukrainians have called Vladimir Putin many bad names, among them a Nazi, a dicta
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/the-putin-slur-heard-round-the-world-delights-ukrainians-angers-russians-20140616-zs8zh.html#ixzz34pGNG5PN)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/3/a/6/q/r/image.related.articleLeadwide.620x349.zs8zh.png/1402879862010.jpg)

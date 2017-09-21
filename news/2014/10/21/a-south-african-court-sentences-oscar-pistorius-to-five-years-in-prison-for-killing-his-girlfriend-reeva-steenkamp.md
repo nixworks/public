@@ -9,6 +9,7 @@ After seven months of evidence in a case that&#039;s captured the world&#039;s a
 
 1. [Mail and Guardian](http://mg.co.za/article/2014-10-17-oscar-pistorius-sentencing-hearing-concludes)
 2. [NBC](http://www.nbcnews.com/storyline/pistorius-trial/blade-runner-oscar-pistorius-sentenced-five-years-jail-n230296)
+2. [Cover Image](https://cdn.mg.co.za/crop/content/images/2014/10/17/scaledoscar_landscape.jpg/1280x720/)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The presidential bet regales a crowd in Iloilo with a story of how he shot a fel
 
 1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/780836/law-student-duterte-shot-frat-brod-on-campus-in-72)
 2. [Rappler](http://www.rappler.com/nation/politics/elections/2016/130284-duterte-shot-bully-san-beda-student)
+2. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/6B4093F05E7F4132947F4A714DAE372F/20160421-duterte-iloilo-01.jpg)
 
 ### Related:
 

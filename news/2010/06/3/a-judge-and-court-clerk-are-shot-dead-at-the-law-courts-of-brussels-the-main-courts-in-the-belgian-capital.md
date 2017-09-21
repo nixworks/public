@@ -11,6 +11,7 @@
 2. [B92](http://www.b92.net/eng/news/world-article.php?yyyy=2010&mm=06&dd=03&nav_id=67572)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/10226550.stm)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13332277.htm)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

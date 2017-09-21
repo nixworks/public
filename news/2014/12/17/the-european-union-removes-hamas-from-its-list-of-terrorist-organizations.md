@@ -8,6 +8,7 @@ The EU General Court has ordered that the Palestinian militant group Hamas be re
 ### Source:
 
 1. [Reuters](http://rt.com/news/215143-hamas-off-terror-list/)
+1. [Cover Image](https://img.rt.com/files/news/34/86/70/00/hamas-off-terror-list.si.jpg)
 
 ### Related:
 

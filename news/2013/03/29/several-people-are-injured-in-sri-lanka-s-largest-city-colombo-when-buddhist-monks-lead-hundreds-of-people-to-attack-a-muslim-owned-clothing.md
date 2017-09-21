@@ -8,6 +8,7 @@ Several people are injured in the Sri Lankan capital, Colombo, as Buddhist monks
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21973292)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66664000/jpg/_66664964_66664963.jpg)
 
 ### Related:
 

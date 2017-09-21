@@ -8,6 +8,7 @@ Cardinal Keith O&#39;Brien said Sunday that he &quot;will play no further part i
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/03/03/scottish-cardinal/1960255/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

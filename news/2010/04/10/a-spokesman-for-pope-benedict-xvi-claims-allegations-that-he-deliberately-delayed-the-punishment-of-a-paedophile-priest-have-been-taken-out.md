@@ -9,6 +9,7 @@ The Vatican has defended Pope Benedict against fresh allegations about his handl
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8612787.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0410/abuse.html)
+2. [Cover Image](https://img.rasset.ie/00031f0d-1600.jpg)
 
 ### Related:
 

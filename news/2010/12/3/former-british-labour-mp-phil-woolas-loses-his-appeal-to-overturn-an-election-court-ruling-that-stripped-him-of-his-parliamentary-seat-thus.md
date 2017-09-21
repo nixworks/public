@@ -9,6 +9,7 @@ Former Labour MP Phil Woolas admits defeat in his battle to overturn a court rul
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-11904007)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-11904630)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,3 +8,4 @@ A virus that has been causing severe respiratory illness a number of children is
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/enterovirus-d68-virus-caused-new-jersey-boy-s-death-1.2788798)
+1. [Cover Image](https://i.cbc.ca/1.2788816.1412604119!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/children-virus-q-a.jpg)

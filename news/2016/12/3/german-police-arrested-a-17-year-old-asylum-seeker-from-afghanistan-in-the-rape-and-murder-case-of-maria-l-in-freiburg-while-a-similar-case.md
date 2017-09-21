@@ -9,6 +9,7 @@
 
 1. [Der Spiegel](http://www.spiegel.de/panorama/justiz/getoetete-studentin-in-freiburg-tatverdaechtiger-moerder-ist-erst-17-a-1124301.html)
 2. [Die Welt](https://www.welt.de/vermischtes/article159947230/Tote-Studentin-Verdaechtiger-ist-17-jaehriger-Fluechtling.html)
+2. [Cover Image](https://www.welt.de/img/vermischtes/mobile159951055/3301352107-ci16x9-w1200/Ermordete-Studentin-Freiburg-Polizei-PK.jpg)
 
 ### Related:
 

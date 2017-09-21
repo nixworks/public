@@ -8,6 +8,7 @@ Police say emergency workers have found a man&#039;s body in a submerged field, 
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/29/1991008.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

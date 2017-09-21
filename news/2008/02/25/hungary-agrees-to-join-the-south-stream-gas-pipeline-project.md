@@ -8,6 +8,7 @@ Russia recruited Hungary tojoin its South Stream natural gas pipeline on Monday,
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/oilRpt/idUKL2530997220080225)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The News Tribune](http://blog.thenewstribune.com/military/2011/11/10/jury-finds-staff-sgt-calvin-gibbs-guilty-on-all-kill-team-charges/)
+1. [Cover Image](http://media.thenewstribune.com/images/shared/tnt-logo.jpg)
 
 ### Related:
 

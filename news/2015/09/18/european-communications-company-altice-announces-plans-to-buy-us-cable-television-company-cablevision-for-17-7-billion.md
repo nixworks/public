@@ -8,6 +8,7 @@ European telecom giant Altice is buying the largest cable provider in New York C
 ### Source:
 
 1. [NPR via KVCR](http://kvcrnews.org/post/cablevision-5th-largest-us-cable-firm-be-sold-177-billion-deal#stream/0)
+1. [Cover Image](http://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/201509/441152998.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Tens of thousands of people stage pro-democracy protests in Hong Kong on the ann
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/asia_pacific/10480116.stm)
 2. [Bloomberg](http://www.businessweek.com/news/2010-07-01/hong-kong-s-anti-government-protest-draws-thousands.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

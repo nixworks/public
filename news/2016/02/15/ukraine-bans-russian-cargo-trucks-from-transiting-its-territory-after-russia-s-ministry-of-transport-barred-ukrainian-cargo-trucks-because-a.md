@@ -8,6 +8,7 @@ Ukraine has banned Russian trucks from crossing its territory in response to a s
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-russia-idUSKCN0VO1C6)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160215&t=2&i=1117632668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1E0KI)
 
 ### Related:
 

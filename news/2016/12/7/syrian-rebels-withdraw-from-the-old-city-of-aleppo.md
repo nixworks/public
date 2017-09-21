@@ -9,6 +9,7 @@ Turkish warplanes pounded 12 Islamic State targets in the al-Bab region of north
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38233962)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-turkey-idUSKBN13W0XQ)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

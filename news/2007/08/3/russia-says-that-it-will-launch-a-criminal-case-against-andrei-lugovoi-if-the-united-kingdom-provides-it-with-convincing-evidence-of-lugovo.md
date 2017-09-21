@@ -8,6 +8,7 @@ Russia says it might launch a criminal case against Andrei Lugovoi, whose extrad
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/04/1996752.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2565578-1x1-700x700.jpg)
 
 ### Related:
 

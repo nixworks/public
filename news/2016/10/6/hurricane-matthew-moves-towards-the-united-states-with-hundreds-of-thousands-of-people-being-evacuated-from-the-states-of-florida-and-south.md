@@ -13,6 +13,7 @@ Tropical storm conditions expected to reach parts of the Florida coast by early 
 4. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/061755.shtml)
 5. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/062354.shtml?)
 6. [USA Today](http://www.usatoday.com/story/weather/2016/10/05/hurricane-matthew-leaves-11-dead-path-toward-us/91596552/)
+6. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161008&t=2&i=1156621661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9704N)
 
 ### Related:
 

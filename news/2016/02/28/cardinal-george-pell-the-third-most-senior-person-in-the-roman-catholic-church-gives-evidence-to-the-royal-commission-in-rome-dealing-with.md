@@ -8,6 +8,7 @@ THE connections have been tested and the flights are behind them. In an opulent 
 ### Source:
 
 1. [News Limited](http://www.news.com.au/world/cardinal-george-pell-to-face-royal-commission-from-rome-hotel/news-story/eedb68ac94ae0b397e10ac5089348e95)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/48dcf44e07a8135a2cb47cf616ee9e1f)
 
 ### Related:
 

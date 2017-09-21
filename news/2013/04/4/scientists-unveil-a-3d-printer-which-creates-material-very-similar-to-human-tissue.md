@@ -8,6 +8,7 @@ Scientists have built a 3-D printer that creates material resembling human tissu
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-faux-synthetic-tissue-3d-printer-self-assembling-20130404,0,6286611.story)
+1. [Cover Image](http://www.trbimg.com/img-515de0ec/turbine/la-sci-sn-faux-tissue-3d-printer-self-assembli-001/599/599x185)
 
 ### Related:
 

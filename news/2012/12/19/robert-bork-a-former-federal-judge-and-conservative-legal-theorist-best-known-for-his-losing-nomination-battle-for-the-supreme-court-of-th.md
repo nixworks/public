@@ -8,6 +8,7 @@ Judge Bork’s 1987 nomination to the Supreme Court was rejected by the Senate, 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/12/20/us/robert-h-bork-conservative-jurist-dies-at-85.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/12/20/us/Bork/Bork-videoLarge.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ UN projects the number of people requiring humanitarian assistance in Syria coul
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/201211962354550350.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/9/201211915515377580_20.jpg)
 
 ### Related:
 

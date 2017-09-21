@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/cb7a87231b62490685c91c43d7d9dff8)
 2. [Chattanooga Times Free Press](http://www.timesfreepress.com/news/politics/state/story/2016/mar/28/new-chapter-opens-state-bill-making-bible-tns-official-book/357495/)
+2. [Cover Image](http://media-cdn.timesfreepress.com/img/photos/2013/01/23/bible_t1070_h22d4e2393908997fe91073c3d0a2f39600154e6d.jpg)
 
 ### Related:
 

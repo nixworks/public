@@ -9,6 +9,7 @@ The Regional Meteorological Centre has forecast light rains in the next 24 hours
 
 1. [AAP via Special Broadcasting Service](http://www.sbs.com.au/news/article/2015/12/06/280-people-die-india-floods)
 2. [Indian Broadcast News live](http://www.ibnlive.com/news/india/chennai-rains-passenger-flights-to-operate-from-tomorrow-dgca-to-review-the-situation-for-night-operations-1173125.html)
+2. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2015/12/rains-chennai.jpg)
 
 ### Related:
 

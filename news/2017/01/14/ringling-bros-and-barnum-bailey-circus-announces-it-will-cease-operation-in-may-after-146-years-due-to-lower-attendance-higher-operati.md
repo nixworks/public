@@ -8,6 +8,7 @@ After 146 years, the curtain is coming down on &quot;The Greatest Show on Earth.
 ### Source:
 
 1. [CBS News - Baltimore](http://baltimore.cbslocal.com/2017/01/14/ringling-bros-and-barnum-bailey-circus-due-to-close-in-may-after-146-years/)
+1. [Cover Image](https://cbsbaltimore.files.wordpress.com/2016/05/480667600.jpg?w=594)
 
 ### Related:
 

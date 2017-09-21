@@ -10,6 +10,7 @@ Multiple sources tell Fox News that Susan Rice, former national security adviser
 1. [Business Insider](http://www.businessinsider.com/susan-rice-trump-unmask-intelligence-wiretap-2017-4)
 2. [Fox News](http://www.foxnews.com/politics/2017/04/03/susan-rice-requested-to-unmask-names-trump-transition-officials-sources-say.html)
 3. [The Blaze](http://www.theblaze.com/news/2017/04/03/susan-rice-statement-denies-improper-unmasking-but-appears-to-confirm-accusation/)
+3. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/04/03/0/0/694940094001_5383615186001_5383601455001-vs.jpg?ve=1)
 
 ### Related:
 

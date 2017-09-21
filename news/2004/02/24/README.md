@@ -4,7 +4,7 @@
 _Context: British Olympic Association, Dwain Chambers, Olympic Games, athlete, banned substances, steroid_
 
 ### [ Same-sex marriage in the United States: U.S. President George W. Bush announces his support for a constitutional amendment to ban same-sex marriage. Bush did not explicitly endorse the Federal Marriage Amendment, proposed by Representative Marilyn Musgrave (R&ndash;Colorado), which has been criticised for potentially also denying states the ability to recognise same-sex civil unions and domestic partnerships. However, he said that the FMA ""meets his principles"" in protecting the ""sanctity of marriage"" between men and women.](/news/2004/02/24/same-sex-marriage-in-the-united-states-u-s-president-george-w-bush-announces-his-support-for-a-constitutional-amendment-to-ban-same-sex.md)
-_Context: Colorado, George W. Bush, Marilyn Musgrave, President, Republican, U.S. state, civil union, constitutional amendment, constitutional amendment to ban, domestic partner, same-sex marriage_
+_Context: Colorado, George W. Bush, Marilyn Musgrave, Republican, U.S. President, U.S. state, civil union, constitutional amendment, constitutional amendment to ban, domestic partner, same-sex marriage_
 
 ### [ Russian president Vladimir Putin dismisses Prime Minister Mikhail Kasyanov and implicitly the entire Russian cabinet less than a month prior to presidential elections. ](/news/2004/02/24/russian-president-vladimir-putin-dismisses-prime-minister-mikhail-kasyanov-and-implicitly-the-entire-russian-cabinet-less-than-a-month-prio.md)
 _Context: Mikhail Kasyanov, Russian Federation, Vladimir Putin_

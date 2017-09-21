@@ -11,6 +11,7 @@ Usain Bolt, unrecognisable from the man who has been rewriting the record books 
 2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/athletics/7931337/Tyson-Gay-leaves-Usain-Bolt-in-the-shade-in-Diamond-League-100m.html)
 3. [The Guardian](http://www.guardian.co.uk/sport/2010/aug/06/tyson-gay-usain-bolt-stockholm)
 4. [The Independent](http://www.independent.co.uk/sport/general/athletics/bolt-human-after-all-but-vows-to-hit-his-stride-again-2046068.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01692/tyson-gay_1692788a.jpg)
 
 ### Related:
 

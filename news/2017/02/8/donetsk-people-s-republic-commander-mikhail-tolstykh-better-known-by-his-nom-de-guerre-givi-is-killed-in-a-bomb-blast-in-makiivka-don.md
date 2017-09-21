@@ -8,6 +8,7 @@ A second separatist commander is killed days after another pro-Russian rebel die
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-38905110)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8B80/production/_94221753_gettyimages-456900842-1.jpg)
 
 ### Related:
 

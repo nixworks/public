@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ''Myanmar Mail](http://www.themalaymailonline.com/world/article/thai-migrant-boat-owner-arrested-in-myanmar)
+1. [Cover Image](http://www.themalaymailonline.com/uploads/articles/2015-05/20150515_03_ASIA-MIGRANTS-BOAT.JPG)
 
 ### Related:
 

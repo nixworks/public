@@ -8,6 +8,7 @@ Rescue teams returned empty-handed Tuesday from searches in choppy Indonesian se
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28602491/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/ap/44691ce9-341a-44a2-b986-cffcc1114395.standard.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Japanese government says its economy has grown for the first time in over a 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8204075.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0817/japan.html)
+2. [Cover Image](https://img.rasset.ie/0001d479-1600.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A German court has sentenced an 88-year-old former SS member to life in prison f
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8582449.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0323/germany.html)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7072489.ece)
+3. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)
 
 ### Related:
 

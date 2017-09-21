@@ -8,6 +8,7 @@ The Trump administration gave $169 million to feed people facing starvation in E
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-africa-famine-idUSKBN1AJ21J)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

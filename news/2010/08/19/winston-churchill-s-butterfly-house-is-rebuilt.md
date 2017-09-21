@@ -8,6 +8,7 @@ It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured f
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/environment/nature/churchills-final-mission-is-completed-2056311.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/08/18/22/435106.bin)
 
 ### Related:
 

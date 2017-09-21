@@ -8,6 +8,7 @@ Scientists say that a series of marks carved onto a freshwater clam shell repres
 ### Source:
 
 1. [WA Today](http://www.watoday.com.au/technology/sci-tech/earliest-known-engravings-by-a-human-ancestor-found-on-a-clam-shell-20141209-122x8b.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/2/3/o/n/u/image.related.articleLeadwide.620x349.122x8b.png/1418121548205.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Israeli aircraft have carried out a strike near the Syrian coastal city of Latak
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24767571)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67415000/jpg/_67415321_67415320.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A bogus lawyer who tricked people into thinking he was a bona fide legal profess
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21969624)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66641000/jpg/_66641040_egh0xf46.jpg)
 
 ### Related:
 

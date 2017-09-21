@@ -9,6 +9,7 @@
 
 1. [Fox News](http://www.foxnews.com/world/2017/02/18/philippine-catholics-rally-vs-drug-killings-death-penalty.html)
 2. [International Business Times](http://www.ibtimes.co.uk/tens-thousands-filipino-catholics-protest-against-death-penalty-dutertes-drug-war-1607241)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/18/philippine-catholics-rally-vs-drug-killings-death-penalty/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1487402343334.jpg?ve=1)
 
 ### Related:
 

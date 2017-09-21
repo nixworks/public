@@ -8,6 +8,7 @@ Generic drugmaker Mylan NV moved quickly on Friday to pour cold water on publish
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/04/17/mylan-ma-teva-pharm-ind-idUSL4N0XE51620150417)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

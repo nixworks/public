@@ -9,6 +9,7 @@ When filling out the census on Sunday March 31st 1901, John Stanislaus Joyce cou
 
 1. [RTÉ](http://www.rte.ie/news/2010/0603/census.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0603/breaking44.html)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

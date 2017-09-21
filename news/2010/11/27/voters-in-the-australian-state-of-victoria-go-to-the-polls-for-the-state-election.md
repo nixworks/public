@@ -8,6 +8,7 @@ Like a stallion known for its strong final sprint, the Coalition has trailed Lab
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/11/27/3078160.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2325936-1x1-700x700.jpg)
 
 ### Related:
 

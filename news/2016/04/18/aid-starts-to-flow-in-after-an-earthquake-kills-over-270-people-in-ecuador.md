@@ -9,6 +9,7 @@
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/04/17/at-least-28-killed-in-powerful-magnitude-7-8-earthquake-ecuador-vice-president-says.html)
 2. [BBC](http://www.bbc.com/news/world-latin-america-36067380)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/0C24/production/_89280130_032510420-1.jpg)
 
 ### Related:
 

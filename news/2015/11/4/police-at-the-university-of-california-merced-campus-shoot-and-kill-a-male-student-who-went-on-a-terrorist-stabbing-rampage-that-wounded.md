@@ -11,6 +11,7 @@ Wednesday morning four people were wounded in a stabbing attack by a student at 
 2. [KGO](http://abc7news.com/news/4-students-stabbed-at-uc-merced-campus-under-lockdown/1067847/)
 3. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-uc-merced-stabbing-20151104-story.html)
 4. [UC Merced](http://emergency.ucmerced.edu/)
+4. [Cover Image](http://cdn.abclocal.go.com/content/kgo/images/cms/automation/vod/1068984_1280x720.jpg)
 
 ### Related:
 

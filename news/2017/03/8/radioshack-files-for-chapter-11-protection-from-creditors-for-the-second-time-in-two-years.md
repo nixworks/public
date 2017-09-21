@@ -8,6 +8,7 @@ U.S. electronics chain RadioShack Corp filed for bankruptcy on Wednesday for the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-radioshack-bankruptcy-idUSKBN16G06J)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170309&t=2&i=1175444635&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED28038)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Six migrants trying to enter Israel from Egypt are killed; four in a gunfight wi
 1. [Al-Masry Al-Youm](http://www.almasryalyoum.com/en/news/africans-killed-sinai-gun-fight)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10975851)
 3. [Reuters Africa](http://af.reuters.com/article/ethiopiaNews/idAFLDE67D01820100814)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30611758)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79949000/jpg/_79949237_al-shabab_afp624.jpg)
 
 ### Related:
 

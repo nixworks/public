@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/stories/2008/09/12/iraq/main4445165.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2009/07/01/dc1f528a-a642-11e2-a3f0-029118418759/image5128642x.jpg)
 
 ### Related:
 

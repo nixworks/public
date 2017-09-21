@@ -8,6 +8,7 @@ India has &quot;never been closer&quot; to wiping out polio, Health Minister Ghu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-15425852)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56240000/jpg/_56240507_polio_afp.jpg)
 
 ### Related:
 

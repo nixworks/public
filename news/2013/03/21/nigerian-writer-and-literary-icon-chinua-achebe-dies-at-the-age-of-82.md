@@ -10,6 +10,7 @@ Chinua Achebe dies at 82
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21898664)
 2. [Premium Times Nigeria](http://premiumtimesng.com/news/126311-breaking-prof-chinua-achebe-is-dead.html)
 3. [The Guardian](http://www.guardian.co.uk/books/2013/mar/22/novelist-chinua-achebe-dies)
+3. [Cover Image](http://media.premiumtimesng.com/wp-content/files/2013/09/Premium-Times-Wallpaper.jpg)
 
 ### Related:
 

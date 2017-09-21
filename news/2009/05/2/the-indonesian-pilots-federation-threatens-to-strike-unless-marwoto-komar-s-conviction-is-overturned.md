@@ -8,6 +8,7 @@ Unhappy with Criminal Conviction of a Garuda Pilot, Indonesian Aviators May Grou
 ### Source:
 
 1. [Bali News](http://www.balidiscovery.com/messages/message.asp?Id=5213)
+1. [Cover Image](http://www.balidiscovery.com/images/../images/660/pilot out.jpg)
 
 ### Related:
 

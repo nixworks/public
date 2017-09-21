@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Accuweather](http://www.accuweather.com/en/weather-news/texas-braces-for-tropical-storm-bill-gulf-of-mexico-atlantic/48754237)
+1. [Cover Image](https://accuweather.brightspotcdn.com/650x366_06170833_hd25.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The death toll following a crush at the annual Hajj pilgrimage in Saudi Arabia h
 ### Source:
 
 1. [ITV](http://www.itv.com/news/update/2015-09-26/hajj-stampede-death-toll-rises-to-769/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/778946/img.jpg)
 
 ### Related:
 

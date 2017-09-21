@@ -8,6 +8,7 @@ A Leaving Cert student who organised a protest march against budget cuts in educ
 ### Source:
 
 1. [Evening Herald](http://www.herald.ie/national-news/city-news/school-threatens-to-boot-out-pupil-who-led-protest-march-against-cutbacks-in-education-2456100.html)
+1. [Cover Image](http://www.herald.ie/editorial/facebook_share_logos/herald.png)
 
 ### Related:
 

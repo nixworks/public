@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8465607.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE60G1QJ20100117)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100117&t=2&i=46849088&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-17T180131Z_01_BTRE60G1E2O00_RTROPTP_0_EXXON-OIL-SPILL)
 
 ### Related:
 

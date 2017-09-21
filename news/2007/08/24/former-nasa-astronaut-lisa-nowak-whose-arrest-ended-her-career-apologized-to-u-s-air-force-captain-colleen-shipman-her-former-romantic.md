@@ -8,6 +8,7 @@ It had been almost seven months since Lisa Nowak and Colleen Shipman came face t
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/printedition/asection/la-na-nowak25aug25,1,4670626.story?coll=la-news-a_section)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

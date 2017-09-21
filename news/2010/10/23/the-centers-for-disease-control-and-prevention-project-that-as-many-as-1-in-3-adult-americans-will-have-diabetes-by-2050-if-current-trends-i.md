@@ -8,6 +8,7 @@ Up to a third of U.S. adults could have diabetes by 2050 if Americans continue t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69L21Y20101023)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20101023&t=2&i=232291928&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-23T143757Z_01_BTRE69L0WT500_RTROPTP_0_USA-HEALTH-MOBILE)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Reports of fatalities and many wounded after explosion outside military intellig
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201251973524973527.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/19/2012519133555146734_20.jpg)
 
 ### Related:
 

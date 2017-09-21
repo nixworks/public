@@ -8,6 +8,7 @@ Serbia warns it will defend &quot;every inch&quot; of what it claims as its terr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-38630152)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4765/production/_93577281_hi037259063.jpg)
 
 ### Related:
 

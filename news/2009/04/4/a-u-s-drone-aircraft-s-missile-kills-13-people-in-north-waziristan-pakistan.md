@@ -8,6 +8,7 @@ Reports from Pakistan say a US drone aircraft has fired a missile in the country
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/04/04/2535030.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

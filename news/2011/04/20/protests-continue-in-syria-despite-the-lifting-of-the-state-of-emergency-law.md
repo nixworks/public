@@ -9,6 +9,7 @@ Anti-government activists to continue rallies and strikes despite cabinet approv
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011420152422234120.html)
 2. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Syria-arrests-opponent-after-TV-interview-Activist/articleshow/8036592.cms)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/20/2011420194843960150_20.jpg)
 
 ### Related:
 

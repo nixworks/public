@@ -8,6 +8,7 @@ South Sudan freed prisoners of war on Wednesday as clashes appeared to abate bet
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/04/25/us-sudan-south-conflict-idUSBRE83O1BA20120425?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120425&t=2&i=599337084&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE83O1R1V00)
 
 ### Related:
 

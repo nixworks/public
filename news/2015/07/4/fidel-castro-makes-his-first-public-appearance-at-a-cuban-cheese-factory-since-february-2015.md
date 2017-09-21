@@ -8,6 +8,7 @@ Former Cuban President Fidel Castro made his first public appearance in three mo
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/US/2015/07/04/Fidel-Castro-makes-first-public-appearance-in-months/4031436028728/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4031436028728/2015/3/957e8e440249f571e79d473b9d7a0ce1/v1.5/Fidel-Castro-makes-first-public-appearance-in-months.jpg)
 
 ### Related:
 

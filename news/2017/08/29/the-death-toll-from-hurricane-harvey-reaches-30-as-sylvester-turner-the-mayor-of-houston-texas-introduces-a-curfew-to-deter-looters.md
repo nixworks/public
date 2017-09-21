@@ -8,6 +8,7 @@ Rivers were still rising and rescue work continued in southeast Texas, where off
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/08/29/us/hurricane-harvey-storm-flooding.html?emc=edit_na_20170829&nl=breaking-news&nlid=66213151&ref=cta)
+1. [Cover Image](https://static01.nyt.com/images/2017/08/30/us/30live-storm2/30live-storm2-facebookJumbo.jpg)
 
 ### Related:
 

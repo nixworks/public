@@ -8,6 +8,7 @@ Listen live to your favourite music and presenters at Radio Aire. Keep up with t
 ### Source:
 
 1. [Radioaire](http://www.radioaire.co.uk/Article.asp?id=2105600&spid=25211)
+1. [Cover Image](https://assets.planetradio.co.uk/img/ConfigWebMobileHeroImageUrl/37.jpg?ver=1465404044)
 
 ### Related:
 

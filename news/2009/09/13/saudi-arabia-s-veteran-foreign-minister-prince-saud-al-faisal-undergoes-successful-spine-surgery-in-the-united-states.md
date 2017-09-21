@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSTRE58C0NO20090913)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090913&t=2&i=11568468&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-13T083557Z_01_BTRE58C0NW200_RTROPTP_0_SYRIA)
 
 ### Related:
 

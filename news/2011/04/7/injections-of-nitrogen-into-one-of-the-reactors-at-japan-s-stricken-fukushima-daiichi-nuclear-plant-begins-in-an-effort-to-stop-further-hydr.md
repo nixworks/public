@@ -8,6 +8,7 @@ Workers in Japan start injecting nitrogen into one of the reactors at the crippl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12992284)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

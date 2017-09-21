@@ -9,6 +9,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 1. [Times](http://www.timesonline.co.uk/article/0,,11069-2188705,00.html)
 2. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1148077815493&call_pageid=968332188854&col=968350060724)
+2. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

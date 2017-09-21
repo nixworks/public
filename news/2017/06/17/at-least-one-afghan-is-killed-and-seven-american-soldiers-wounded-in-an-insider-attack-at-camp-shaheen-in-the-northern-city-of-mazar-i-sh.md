@@ -9,6 +9,7 @@ I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven Ameri
 
 1. [Reuters](https://www.reuters.com/article/us-afghanistan-attack-idUSKBN1980HJ)
 2. [The New York Times](https://www.nytimes.com/2017/06/17/world/asia/afghanistan-us-soldiers-insider-attack.html)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

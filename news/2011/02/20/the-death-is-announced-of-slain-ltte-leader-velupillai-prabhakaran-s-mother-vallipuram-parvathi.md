@@ -8,6 +8,7 @@ Vallipuram Parvathi, the mother of slain LTTE leader Velupillai Prabakaran, pass
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article1474405.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

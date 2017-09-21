@@ -8,6 +8,7 @@ Greek PM George Papandreou tries to persuade MPs to pass further austerity measu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-13877932)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53620000/jpg/_53620673_012272484-1.jpg)
 
 ### Related:
 

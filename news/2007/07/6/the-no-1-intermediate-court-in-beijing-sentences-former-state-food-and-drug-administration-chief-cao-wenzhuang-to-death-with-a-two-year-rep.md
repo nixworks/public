@@ -8,6 +8,7 @@ For the second time in three months, a former high-ranking official at China’s
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/07/06/world/asia/06cnd-china.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

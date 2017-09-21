@@ -10,6 +10,7 @@ The head of police in the Democratic Republic of Congo has been suspended follow
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/201066151023866458.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10248149.stm)
 3. [RTÉ](http://www.rte.ie/news/2010/0606/congo.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

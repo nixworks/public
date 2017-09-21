@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8420097.stm)
 2. [Irish Examiner](http://www.irishexaminer.com/ireland/sex-attack-victim-may-have-to-flee-town-over-hostility-108141.html)
 3. [RTÉ](http://www.rte.ie/news/2009/1218/listowel.html)
+3. [Cover Image](https://img.rasset.ie/0002dab3-1600.jpg)
 
 ### Related:
 

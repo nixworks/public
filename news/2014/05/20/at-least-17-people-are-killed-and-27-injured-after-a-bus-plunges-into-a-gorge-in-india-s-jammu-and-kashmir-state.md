@@ -8,6 +8,7 @@ Seventeen people were killed and 27 injured when a bus going to the Kashmir vall
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/17-killed-27-injured-in-Jammu-Kashmir-road-accident/articleshow/35366278.cms?)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/35371476.cms)
 
 ### Related:
 

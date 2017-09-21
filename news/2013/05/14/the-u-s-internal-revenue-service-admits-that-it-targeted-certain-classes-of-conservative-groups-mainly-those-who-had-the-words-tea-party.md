@@ -8,6 +8,7 @@ The IRS’s admission it targeted conservative groups for special scrutiny has d
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/politics/2013/05/14/new-irs-scandal-echoes-agency-problems-past/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/051313/0/0/051313_sr_emanuel_640.jpg?ve=1)
 
 ### Related:
 

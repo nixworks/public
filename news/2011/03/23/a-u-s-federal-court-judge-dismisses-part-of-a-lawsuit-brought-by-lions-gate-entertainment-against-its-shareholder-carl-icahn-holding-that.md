@@ -8,6 +8,7 @@ A Manhattan federal judge dismissed part of a lawsuit by Lions Gate Entertainmen
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/23/us-lionsgate-icahn-idUSTRE72M9IU20110323)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

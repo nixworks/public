@@ -8,6 +8,7 @@ South Sudan officially became the 193rd member of the United Nations on Thursday
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/africa/07/14/south.sudan.un/index.html?eref=edition)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/07/14/south.sudan.un/tzvids.tenydhurgon.ban.afp.gi.jpg)
 
 ### Related:
 

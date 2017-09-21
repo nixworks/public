@@ -8,6 +8,7 @@ Two British hostages held in Iraq since 2007 are feared dead after two bodies we
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iraq/5587702/Bodies-of-two-British-hostages-found-in-Iraq.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

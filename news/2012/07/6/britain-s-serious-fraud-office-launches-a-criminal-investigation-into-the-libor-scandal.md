@@ -8,6 +8,7 @@ The Serious Fraud Office (SFO) confirms that it has formally launched a criminal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18742140)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61410000/jpg/_61410034_013744644-1.jpg)
 
 ### Related:
 

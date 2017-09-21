@@ -8,6 +8,7 @@ Sir Paul McCartney marries American heiress Nancy Shevell in London, at the same
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15230730)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55936000/jpg/_55936496_013122816-1.jpg)
 
 ### Related:
 

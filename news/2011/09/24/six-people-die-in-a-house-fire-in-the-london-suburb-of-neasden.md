@@ -8,6 +8,7 @@ Six members of the same family, including three children and two teenagers, have
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/8786069/Six-die-in-house-fire-in-north-London.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Argentina&#039;s Foreign Affairs Ministry &#147;harshly condemns&#148; the nomin
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/22/argentina-harshly-condemns-iranian-ministerial-nomination)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19903/200x200/010cd4296ef245e2c3cd2530d1c668b0.jpg)
 
 ### Related:
 

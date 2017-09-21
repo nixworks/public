@@ -8,6 +8,7 @@ Four people have died from a Listeria outbreak linked to prepackaged caramal app
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/12/19/caramel-apples-listeria-outbreak/20636809/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 ### Source:
 
 1. [Newsday](http://www.newsday.com/news/health/ny-hsclon0118,0,2354566.story?coll=ny-news-columnists)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

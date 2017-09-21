@@ -8,6 +8,7 @@ Taliban insurgents attacked police checkpoints Sunday in volatile southern Afgha
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/05/24/at-least-10-afghan-police-officers-killed-in-taliban-assault/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

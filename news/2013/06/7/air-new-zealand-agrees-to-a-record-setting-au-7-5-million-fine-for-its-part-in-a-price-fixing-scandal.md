@@ -8,6 +8,7 @@ ANALYSIS: Agreeing to a $7.5m settlement with the Commerce Commission yesterday 
 ### Source:
 
 1. [National Business Review](http://www.nbr.co.nz/article/air-nz-cartel-penalty-sets-record-gb-141243)
+1. [Cover Image](https://www.nbr.co.nz/sites/default/files/story_imgs/mark%20berry%20comcom_5.jpg)
 
 ### Related:
 

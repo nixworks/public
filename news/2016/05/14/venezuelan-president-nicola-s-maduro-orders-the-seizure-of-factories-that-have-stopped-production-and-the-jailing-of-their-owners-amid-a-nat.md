@@ -8,6 +8,7 @@ The Venezuelan president threatens the seizure of factories that have stopped pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-36294939)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/74FD/production/_89694992_89694991.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A woman is taken to hospital with a &quot;slash wound&quot; after being attacked
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-40189916)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11C90/production/_96384827_hermon.jpg)
 
 ### Related:
 

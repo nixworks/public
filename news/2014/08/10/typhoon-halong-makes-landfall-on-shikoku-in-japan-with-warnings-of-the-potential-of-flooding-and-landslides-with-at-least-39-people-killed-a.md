@@ -9,6 +9,7 @@ Typhoon Halong slammed into western Japan on Sunday, leaving dozens of people in
 
 1. [AFP via SBS](http://www.sbs.com.au/news/article/2014/08/10/typhoon-halong-hits-japan-15-million-evacuation-advisories-issued)
 2. [AP via Townhall](http://townhall.com/news/world/2014/08/10/state-tv-passenger-plane-crashes-in-iran-n1877014)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20140808001010129567-original.jpg)
 
 ### Related:
 

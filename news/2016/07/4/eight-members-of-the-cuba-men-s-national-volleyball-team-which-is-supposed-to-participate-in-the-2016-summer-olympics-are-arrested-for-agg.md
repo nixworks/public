@@ -9,6 +9,7 @@ Six Cuban volleyball players are being held in connection with a case of alleged
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36702336)
 2. [YLE](http://yle.fi/uutiset/two_cuban_volleyballers_released_six_still_held/9002057)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13B39/production/_90279608_872acec8-931c-4c36-ba5d-bbd241dbc0db.jpg)
 
 ### Related:
 

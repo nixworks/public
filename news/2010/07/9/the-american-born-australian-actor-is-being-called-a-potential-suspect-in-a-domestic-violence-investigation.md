@@ -11,6 +11,7 @@ The Sheriff&#39;s Department says it is investigating Mel Gibson over a possible
 2. [MSNBC](http://today.msnbc.msn.com/id/38152598/ns/today-entertainment/)
 3. [New York Daily News](http://www.nydailynews.com/gossip/2010/07/08/2010-07-08_mel_gibson_caught_making_another_racial_slur_in_recorded_conversation_with_ex_ok.html)
 4. [Reuters](http://www.reuters.com/article/idUSTRE6675FD20100709)
+4. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-090723-ent-scandals09/ss-090723-ent-scandals09-new-mel.standard.jpg)
 
 ### Related:
 

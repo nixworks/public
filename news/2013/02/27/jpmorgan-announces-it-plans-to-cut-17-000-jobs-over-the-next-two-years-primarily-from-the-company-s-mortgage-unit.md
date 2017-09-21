@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/27/us-jpmorgan-jobs-idUSBRE91P0GX20130227)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130227&t=2&i=707919607&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91P12MC00)
 
 ### Related:
 

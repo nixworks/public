@@ -8,6 +8,7 @@ UNITED NATIONS, United States (AFP) - The UN peace envoy to Yemen, Jamal Benomar
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/news/world/middle-east/story/un-peace-envoy-yemen-resigns-after-losing-support-gulf-countries-201504)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/04/16/SECURITY160415e_2x.jpg?itok=kY52aheS)
 
 ### Related:
 

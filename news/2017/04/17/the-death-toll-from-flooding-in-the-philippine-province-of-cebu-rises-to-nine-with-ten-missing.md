@@ -8,6 +8,7 @@ The death toll from the flash floods in the province of Cebu has risen to nine, 
 ### Source:
 
 1. [GMA Network](http://www.gmanetwork.com/news/story/607233/news/regions/death-toll-from-cebu-floods-rises-to-nine-10-injured)
+1. [Cover Image](http://images.gmanews.tv/webpics/2017/04/cebuflood_2017_04_17_10_51_24.jpg)
 
 ### Related:
 

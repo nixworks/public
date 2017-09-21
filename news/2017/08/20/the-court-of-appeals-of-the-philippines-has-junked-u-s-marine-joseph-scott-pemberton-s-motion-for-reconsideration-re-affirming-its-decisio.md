@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](https://www.rappler.com/nation/179374-court-appeals-final-decision-us-marine-pemberton-homicide-jennifer-laude)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/5026594417054F86B7C84A3D71BF7289/pemberton-mug-shot-cropped-epa-pnppio-20141222_5d42c792f5d44d199e7f0fd5c664db60.jpg)
 
 ### Related:
 

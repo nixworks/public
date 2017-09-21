@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/05/30/uk-colombia-farc-idUKBRE84T1AG20120530)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20120530&t=2&i=613360301&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-05-30T191215Z_1_CBRE84T1HCH00_RTROPTP_0_COLOMBIA-FARC)
 
 ### Related:
 

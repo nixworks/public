@@ -9,6 +9,7 @@ In a pair of landmark decisions, the Supreme Court on Wednesday struck down the 
 
 1. [CNN](http://www.cnn.com/2013/06/26/politics/scotus-prop-8/index.html)
 2. [NBC News](http://nbcpolitics.nbcnews.com/_news/2013/06/26/19151971-supreme-court-strikes-down-defense-of-marriage-act?lite)
+2. [Cover Image](http://msnbcmedia.msn.com/i/MSNBC/Components/Photo/_new/ss-130626-scotus-doma-tease-225p.jpg)
 
 ### Related:
 

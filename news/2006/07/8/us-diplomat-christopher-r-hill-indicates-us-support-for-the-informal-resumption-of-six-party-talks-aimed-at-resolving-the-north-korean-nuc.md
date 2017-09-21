@@ -8,6 +8,7 @@ The Sydney Morning Herald 404 Page
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/World/US-backs-informal-N-Korea-nuclear-talks/2006/07/08/1152240520284.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

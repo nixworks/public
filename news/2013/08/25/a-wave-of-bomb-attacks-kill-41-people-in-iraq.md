@@ -8,6 +8,7 @@ Bomb attacks across Iraq kill at least 46 people, police and medical sources say
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23837715)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69483000/jpg/_69483115_019061788.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 19 people, most of them Pakistan government officials, were killed and 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/10338844/Bomb-blast-on-bus-kills-at-least-19-in-Pakistan.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02684/Peshawar_2684881k.jpg)
 
 ### Related:
 

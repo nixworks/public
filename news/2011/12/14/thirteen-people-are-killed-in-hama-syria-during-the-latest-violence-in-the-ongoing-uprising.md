@@ -8,6 +8,7 @@ Activists say reprisal ambush in Hama province left eight soldiers dead after go
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011121415429686966.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/14/2011121415242162734_20.jpg)
 
 ### Related:
 

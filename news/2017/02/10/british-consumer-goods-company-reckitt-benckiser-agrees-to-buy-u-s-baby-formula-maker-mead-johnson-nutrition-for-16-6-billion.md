@@ -8,6 +8,7 @@ Reckitt Benckiser (RB.L) has agreed to buy U.S. baby formula maker Mead Johnson 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mead-johnson-m-a-reckitt-benc-grp-idUSKBN15P0MV)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170211&t=2&i=1172251987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1A03E)
 
 ### Related:
 

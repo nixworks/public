@@ -9,6 +9,7 @@
 
 1. [Fox News](http://www.foxnews.com/scitech/2010/08/02/scientists-release-results-census-sea/?test=faces)
 2. [The Guardian](http://www.guardian.co.uk/environment/2010/aug/02/census-marine-life-sea)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

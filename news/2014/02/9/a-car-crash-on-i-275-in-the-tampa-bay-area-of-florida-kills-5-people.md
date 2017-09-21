@@ -8,6 +8,7 @@ TAMPADozens of men and women gathered on the shoulder of Interstate 275 shortly 
 ### Source:
 
 1. [Tampa Bay Times](http://www.tampabay.com/news/publicsafety/accidents/5-die-after-wrong-way-crash-on-i-275-in-tampa/2164813)
+1. [Cover Image](http://www.tampabay.com/resources/images/dti/rendered/2014/02/a4s_CRASH021014d_12470878_8col.jpg)
 
 ### Related:
 

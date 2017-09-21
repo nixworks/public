@@ -8,6 +8,7 @@ Oscar Pistorius again faces the possibility of a murder conviction after a South
 ### Source:
 
 1. [Press Association via Independent](http://www.independent.ie/world-news/pistorius-faces-murder-case-appeal-30816029.html)
+1. [Cover Image](http://www.independent.ie/world-news/article30816028.ece/ALTERNATES/h342/PANews_P-62b46c5c-4184-48a4-948f-383c931b60b8_I1.jpg)
 
 ### Related:
 

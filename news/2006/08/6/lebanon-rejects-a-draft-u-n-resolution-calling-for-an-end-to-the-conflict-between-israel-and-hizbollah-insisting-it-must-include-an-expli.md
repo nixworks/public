@@ -16,6 +16,7 @@
 7. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3286966,00.html)
 8. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3287237,00.html)
 9. [al Jazeera](http://english.aljazeera.net/NR/exeres/1D329F29-B578-42F2-A9A5-993B4A9D549B.htm)
+9. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

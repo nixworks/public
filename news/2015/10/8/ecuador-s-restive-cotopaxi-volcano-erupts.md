@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2015/10/08/new-bursts-ash-and-gas-rise-from-ecuador-cotopaxi-volcano/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/10/08/new-bursts-ash-and-gas-rise-from-ecuador-cotopaxi-volcano/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1444323771167.jpg?ve=1)
 
 ### Related:
 

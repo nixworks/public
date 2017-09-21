@@ -8,6 +8,7 @@ A German university votes to strip Education Minister Annette Schavan of her doc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21347510)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65723000/jpg/_65723919_017011729-1.jpg)
 
 ### Related:
 

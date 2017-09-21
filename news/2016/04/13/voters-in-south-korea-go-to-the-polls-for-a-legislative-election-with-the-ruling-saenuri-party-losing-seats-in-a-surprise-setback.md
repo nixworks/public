@@ -10,6 +10,7 @@ Park’s party failed to win a majority in the legislature, undermining chances 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_SOUTH_KOREA_PARLIAMENTARY_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-asia-36033773)
 3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-14/south-korea-s-ruling-party-chief-resigns-over-election-loss)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

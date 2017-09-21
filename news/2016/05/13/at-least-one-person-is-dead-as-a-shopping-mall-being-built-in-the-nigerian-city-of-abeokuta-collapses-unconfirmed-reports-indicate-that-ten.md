@@ -8,6 +8,7 @@ A building under construction collapses in Nigeria, Rwandan breaks cricket recor
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/live/world-africa-36175449?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=5735f2945700002270a418e0%26One%20construction%20worker%20dies%20in%20Nigeria%20mall%20collapse%26&ns_fee=0#post_5735f2945700002270a418e0)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

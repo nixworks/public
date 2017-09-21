@@ -8,6 +8,7 @@ The two journalists were arrested in mid-October for interviewing family members
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=201662)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=154987)
 
 ### Related:
 

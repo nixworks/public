@@ -8,6 +8,7 @@ A rare solar eclipse will sweep across parts of Africa, Europe and the United St
 ### Source:
 
 1. [CTV](http://www.ctvnews.ca/sci-tech/rare-solar-eclipse-to-sweep-africa-europe-on-sunday-1.1525301)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1525303.1383415743!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

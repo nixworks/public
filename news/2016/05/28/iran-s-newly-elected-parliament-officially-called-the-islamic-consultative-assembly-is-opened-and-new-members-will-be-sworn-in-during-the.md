@@ -9,6 +9,7 @@ The swearing-in of the 290-member assembly comes at a critical time for reformis
 
 1. [PressTV](http://www.presstv.ir/Detail/2016/05/28/467752/Iran-Majlis-Parliament)
 2. [ibtimes](http://www.ibtimes.com/irans-reformist-dominated-massively-overhauled-parliament-be-sworn-2374948)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/05/27/gettyimages-458029352.jpg)
 
 ### Related:
 

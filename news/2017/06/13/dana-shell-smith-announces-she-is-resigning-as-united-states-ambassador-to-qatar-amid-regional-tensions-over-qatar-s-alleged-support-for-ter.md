@@ -8,6 +8,7 @@ The US ambassador to Qatar said Tuesday she is resigning her post in Doha amid t
 ### Source:
 
 1. [New York Post](http://nypost.com/2017/06/13/us-ambassador-to-qatar-steps-down-amid-gulf-crisis/)
+1. [Cover Image](https://thenypost.files.wordpress.com/2017/06/170613-dana-shell-smith-qatar-feature.jpg?quality=90&amp;strip=all&amp;w=1200)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A magnitude 6.6 earthquake centred in Afghanistan shakes major cities across sou
 
 1. [BBC](http://www.bbc.com/news/world-asia-36009407#)
 2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us20005gsg#general)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/254A/production/_89164590_89164587.jpg)
 
 ### Related:
 

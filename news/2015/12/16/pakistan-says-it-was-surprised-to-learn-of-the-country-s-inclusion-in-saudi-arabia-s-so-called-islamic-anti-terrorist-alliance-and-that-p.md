@@ -9,6 +9,7 @@ FO asks the country&rsquo;s ambassador in Riyadh to get a clarification from Sau
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35114060)
 2. [DAWN](http://www.dawn.com/news/1226723/)
+2. [Cover Image](http://i.dawn.com/medium/2015/12/56709c1c1b8fa.jpg)
 
 ### Related:
 

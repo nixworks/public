@@ -8,6 +8,7 @@ Residents advised to leave city as smog from raging wildfires envelopes Moscow.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201087173350675624.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

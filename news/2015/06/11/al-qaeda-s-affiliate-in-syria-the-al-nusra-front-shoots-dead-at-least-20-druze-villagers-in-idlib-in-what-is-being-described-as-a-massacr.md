@@ -8,6 +8,7 @@ Jabhat al-Nusra, al-Qaeda&#039;s Syria branch, shot dead at least 20 members of 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/11667731/Al-Qaeda-fighters-in-Syria-massacre-Druze-villagers.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03338/al-nusra-al-qaeda_3338031k.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ One brand of beef meat pie produced in Iceland has tested negative for containin
 
 1. [CBC](http://www.cbc.ca/news/world/story/2013/03/01/wrd-iceland-horsemeat-meat-pie.html)
 2. [The Reykjavík Grapevine](http://www.grapevine.is/News/ReadArticle/Surprising-Twist-in-Horse-Meat-Scandal)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

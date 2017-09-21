@@ -8,6 +8,7 @@ The decision by the government opens the door for Wal-Mart, Tesco, Ikea and othe
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/11/25/business/global/india-to-allow-foreign-retailers-to-own-stores.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

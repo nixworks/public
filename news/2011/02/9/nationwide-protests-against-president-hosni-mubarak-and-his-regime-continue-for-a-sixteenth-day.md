@@ -15,6 +15,7 @@ CAIRO — Egypt’s embattled regime warned of a military crackdown on Wednesday
 6. [The Guardian](http://www.guardian.co.uk/world/2011/feb/09/egypt-army-detentions-torture-accused)
 7. [The Guardian](http://www.guardian.co.uk/world/video/2011/feb/09/wael-ghonim-tahrir-square-video)
 8. [Voice of America](http://www.voanews.com/english/news/middle-east/In-Egypt-Protesters-Government-Dig-In-115625749.html)
+8. [Cover Image](http://www.khaleejtimes.com/images/default/default_490x276.jpg)
 
 ### Related:
 

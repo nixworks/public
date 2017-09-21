@@ -9,6 +9,7 @@
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gCZ3eiquCytKrK8-JSeb5K8n1VoA?docId=CNG.2f057538640f1e680daa7203d3609eff.b91)
 2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aSOC&ID=201010220045)
+2. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20101022/2010102200451.jpg)
 
 ### Related:
 

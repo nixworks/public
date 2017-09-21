@@ -8,6 +8,7 @@ This is it. Curiosity has reached its prime destination. After a brilliant conce
 ### Source:
 
 1. [Gizmodo](http://www.gizmodo.com.au/2014/09/at-last-mars-curiosity-finally-reaches-its-destination/)
+1. [Cover Image](https://i.kinja-img.com/gawker-media/image/upload/t_large/ymzx5gqmqhwx8recgyuf.jpg)
 
 ### Related:
 

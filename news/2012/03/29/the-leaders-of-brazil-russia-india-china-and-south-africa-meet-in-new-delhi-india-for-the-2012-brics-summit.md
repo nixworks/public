@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/30/us-india-brics-idUSBRE82S05K20120330?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120329&t=2&i=588412028&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82S0GJ700)
 
 ### Related:
 

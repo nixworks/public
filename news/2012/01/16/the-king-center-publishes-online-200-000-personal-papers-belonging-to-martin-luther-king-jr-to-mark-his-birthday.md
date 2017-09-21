@@ -8,6 +8,7 @@ The King Center publishes online 200,000 personal papers belonging to Martin Lut
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-16585984)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57922000/jpg/_57922696_013717978-1.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Hurricane Jose threatening Caribbean islands already devastated by Hurricane Irm
 4. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/082055.shtml)
 5. [Reuters](http://www.reuters.com/article/us-storm-irma/irma-lashes-bahamas-cuba-on-a-path-toward-florida-idUSKCN1BG0KL?il=0)
 6. [Washington Post](https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/09/08/extreme-hurricane-irma-closing-in-on-florida-posing-dire-threat/?utm_term=.098a6512a141&wpisrc=al_alert-COMBO-world%252Bnation&wpmk=1)
+6. [Cover Image](https://cbsnews1.cbsistatic.com/hub/i/2017/09/08/16e6f5f3-b467-4df8-af67-3a480e092089/hurricane-irma-jose.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ It became the first mainstream automaker to sound the death knell of the traditi
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/05/business/energy-environment/volvo-hybrid-electric-car.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/06/business/06electricvolvo/06electricvolvo-facebookJumbo.jpg)
 
 ### Related:
 

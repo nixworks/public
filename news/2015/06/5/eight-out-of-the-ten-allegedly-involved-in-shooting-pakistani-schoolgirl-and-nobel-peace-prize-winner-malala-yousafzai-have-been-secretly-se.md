@@ -8,6 +8,7 @@ Eight of the 10 men reportedly jailed for the attempted assassination of Pakista
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33018334)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83437000/jpg/_83437795_83437557.jpg)
 
 ### Related:
 

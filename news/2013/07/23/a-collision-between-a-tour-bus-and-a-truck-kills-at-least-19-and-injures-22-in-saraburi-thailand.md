@@ -9,6 +9,7 @@ At least 19 people are killed when a bus collides with a lorry in central Thaila
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23414904)
 2. [Bangkok Post](http://www.bangkokpost.com/news/local/361133/saraburi-bus-crash-kills-19-wounds-22)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68893000/jpg/_68893676_68893675.jpg)
 
 ### Related:
 

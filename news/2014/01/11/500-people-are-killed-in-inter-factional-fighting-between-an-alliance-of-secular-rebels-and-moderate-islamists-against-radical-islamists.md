@@ -8,6 +8,7 @@ Almost 500 people have been killed in clashes between Syrian rebels and the al-Q
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25681041)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72197000/jpg/_72197781_72197780.jpg)
 
 ### Related:
 

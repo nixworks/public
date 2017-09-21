@@ -11,6 +11,7 @@ In North Carolina, teams searched for missing people and others stranded by floo
 2. [GPS locator](https://www.google.com/search?q=35.4N++72.0W&ie=utf-8&oe=utf-8)
 3. [The National Hurricane Center](http://www.nhc.noaa.gov/archive/2016/al14/al142016.fstadv.047.shtml?)
 4. [The Washington Post](https://www.washingtonpost.com/business/economy/hurricane-matthew-blamed-for-more-than-dozen-death-severe-flooding/2016/10/09/58f5a2b8-8e26-11e6-a6a3-d50061aa9fae_story.html)
+4. [Cover Image](http://www.abc.net.au/news/image/7918818-1x1-700x700.jpg)
 
 ### Related:
 

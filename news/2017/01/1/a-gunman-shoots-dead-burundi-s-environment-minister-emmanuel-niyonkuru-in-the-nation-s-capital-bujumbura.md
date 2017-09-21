@@ -8,6 +8,7 @@ Burundi&#x27;s&#x20;environment&#x20;minister&#x20;was&#x20;shot&#x20;dead&#x20;
 ### Source:
 
 1. [FRANCE 24](http://www.france24.com/en/20170101-burundi-minister-assassinated-police)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/burundi-minister-shot-dead.jpg)
 
 ### Related:
 

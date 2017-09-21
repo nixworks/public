@@ -8,6 +8,7 @@ An extra 70 Australian Federal Police officers are being sent to Christmas Islan
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/03/18/3167130.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2616082-1x1-700x700.jpg)
 
 ### Related:
 

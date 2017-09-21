@@ -8,6 +8,7 @@ U.S. Naval Academy investigating allegations that three members of its football 
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57587154/naval-academy-probing-alleged-sexual-assault-by-3-football-players/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/05/31/d282c6a6-d268-11e2-a43e-02911869d855/navy_football_151199360.jpg)
 
 ### Related:
 

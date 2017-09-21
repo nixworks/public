@@ -12,6 +12,7 @@ Chinese Premier Wen Jiabao says Beijing will not protect whoever was behind the 
 3. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10181527.stm)
 4. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2921121)
 5. [The Guardian](http://www.guardian.co.uk/world/2010/may/28/north-korea-exporting-nuclear-technology)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

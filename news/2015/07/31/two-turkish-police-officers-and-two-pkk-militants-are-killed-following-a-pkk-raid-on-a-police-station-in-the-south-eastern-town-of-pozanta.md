@@ -8,6 +8,7 @@ Separate PKK attacks in Turkey on a police station and railway leave two police,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-33738766)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/742C/production/_84604792_84604791.jpg)
 
 ### Related:
 

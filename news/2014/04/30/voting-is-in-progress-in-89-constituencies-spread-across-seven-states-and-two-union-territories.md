@@ -9,6 +9,7 @@ A total of 13.83 crore people will vote in the 7th phase of LS polls in 7 states
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-27216730)
 2. [Times Of India](http://timesofindia.indiatimes.com/Lok-Sabha-elections/liveblog/34403471.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/34403471.cms)
 
 ### Related:
 

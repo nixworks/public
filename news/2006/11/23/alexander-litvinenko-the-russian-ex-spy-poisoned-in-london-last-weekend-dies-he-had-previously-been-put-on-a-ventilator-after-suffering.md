@@ -9,6 +9,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 1. [News Limited](http://www.news.com.au/story/0,23599,20813524-1702,00.html)
 2. [The Times](http://www.timesonline.co.uk/article/0,,2-2469142,00.html)
+2. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

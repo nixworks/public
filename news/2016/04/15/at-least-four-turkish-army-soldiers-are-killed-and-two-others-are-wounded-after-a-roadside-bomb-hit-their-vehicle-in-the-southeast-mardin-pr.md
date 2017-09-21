@@ -8,6 +8,7 @@ Four soldiers were killed and two wounded when a bomb hit a military vehicle tra
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN0XC2B8)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

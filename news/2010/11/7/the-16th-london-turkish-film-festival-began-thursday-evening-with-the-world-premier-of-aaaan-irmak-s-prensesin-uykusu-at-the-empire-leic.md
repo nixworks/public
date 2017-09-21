@@ -8,6 +8,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### Source:
 
 1. [Hürriyet Daily](http://www.hurriyetdailynews.com/n.php?n=16th-turkish-film-festival-kicks-off-in-london-2010-11-05)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

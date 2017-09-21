@@ -9,6 +9,7 @@ Pakistan says seven of its soldiers have been killed in the South Waziristan tri
 
 1. [BBC](http://www.bbc.com/news/world-asia-34647241)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/10/27/Cross-border-firing-from-Afghanistan-kills-seven-Pakistani-soldiers/4211445982953/?spt=hs&or=tn_int)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8EF2/production/_86349563_gettyimages-88643831.jpg)
 
 ### Related:
 

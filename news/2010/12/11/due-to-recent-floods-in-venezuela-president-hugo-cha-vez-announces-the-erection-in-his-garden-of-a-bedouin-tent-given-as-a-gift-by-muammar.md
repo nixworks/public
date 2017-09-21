@@ -8,6 +8,7 @@ Venezuelan President Hugo Chavez is moving into a tent given by Libyan leader Mu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11974818)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

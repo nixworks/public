@@ -8,6 +8,7 @@ Two shells have struck the Russian embassy compound in the Syrian capital Damasc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34515498)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4285/production/_86092071_029589094.jpg)
 
 ### Related:
 

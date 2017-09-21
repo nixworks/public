@@ -8,3 +8,4 @@ An armed man gunned down a new village police chief on an Ohio street on Friday 
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/wireStory/police-officer-shot-man-opens-fire-nursing-home-47370142)
+1. [Cover Image](http://a.abcnews.com/images/US/WireAP_dca7cffb5386416282acee4dfc7c2860_16x9_992.jpg)

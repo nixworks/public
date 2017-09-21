@@ -9,6 +9,7 @@ Hundreds in latest display of resentment in Shanghai over surging inflation.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/20114218244992975.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13156004)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/21/201142182312605371_20.jpg)
 
 ### Related:
 

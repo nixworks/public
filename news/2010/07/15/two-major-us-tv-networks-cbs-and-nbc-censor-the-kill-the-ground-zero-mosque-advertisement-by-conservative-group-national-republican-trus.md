@@ -9,6 +9,7 @@ By James HibberdLOS ANGELES (Hollywood Reporter) - Two major broadcasters have r
 
 1. [BBC](http://www.bbc.co.uk/news/world-us+canada-10641970)
 2. [Reuters](http://www.reuters.com/article/idUSTRE66E0D720100715)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

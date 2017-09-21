@@ -11,3 +11,4 @@ American rock band The Kings of Leon have been confirmed as the headline act for
 2. [Irish Independent](http://www.independent.ie/national-news/rock-royalty-to-headline-slane-2400556.html)
 3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/entertainment/music/news/kings-of-leon-to-rock-slanes-30th-birthday-bash-14991032.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1029/breaking53.html)
+4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

@@ -9,6 +9,7 @@
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5hVJ51y3gFcMot1knc2veiaCW7Lag)
 2. [NRK](http://www.nrk.no/fordypning/her-parkerer-breivik-bombebilen-1.8593408)
+2. [Cover Image](https://gfx.nrk.no/kXbjBcvGPo0LzUaqsurzeQLbmK6pvczyi3V8qZ0l9ZfQ)
 
 ### Related:
 

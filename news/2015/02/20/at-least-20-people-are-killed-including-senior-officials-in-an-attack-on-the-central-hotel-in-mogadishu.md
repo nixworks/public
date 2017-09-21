@@ -8,6 +8,7 @@ Some 20 people, including senior officials, are killed in an al-Shabab attack du
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-31551447)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81139000/jpg/_81139965_81139964.jpg)
 
 ### Related:
 

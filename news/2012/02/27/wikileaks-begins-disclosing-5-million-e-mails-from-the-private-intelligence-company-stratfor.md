@@ -9,6 +9,7 @@ Whistleblowing website WikiLeaks has begun publishing more than 5 million confid
 
 1. [ABC](http://www.abc.net.au/news/2012-02-27/wikileaks-begins-publishing-confidential-intelligence-emails/3854838)
 2. [CNN](http://edition.cnn.com/2012/02/26/us/wikileaks-stratfor/)
+2. [Cover Image](http://www.abc.net.au/news/image/3805892-1x1-700x700.jpg)
 
 ### Related:
 

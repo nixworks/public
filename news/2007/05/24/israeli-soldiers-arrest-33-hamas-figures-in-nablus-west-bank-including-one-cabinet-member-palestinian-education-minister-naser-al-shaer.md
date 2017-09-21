@@ -10,6 +10,7 @@ Israeli forces seized a Palestinian minister and other officials on Thursday in 
 1. [AFP via ABC Australia](http://www.abc.net.au/news/newsitems/200705/s1932419.htm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSL1731780720070524)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3404098,00.html)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070524&t=2&i=854423&w=&fh=545px&fw=&ll=&pl=&sq=&r=854423)
 
 ### Related:
 

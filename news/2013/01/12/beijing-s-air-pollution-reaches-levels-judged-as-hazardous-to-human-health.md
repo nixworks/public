@@ -8,6 +8,7 @@ Air pollution in the Chinese capital Beijing reaches levels judged as hazardous 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20998147)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65242000/jpg/_65242783_65242782.jpg)
 
 ### Related:
 

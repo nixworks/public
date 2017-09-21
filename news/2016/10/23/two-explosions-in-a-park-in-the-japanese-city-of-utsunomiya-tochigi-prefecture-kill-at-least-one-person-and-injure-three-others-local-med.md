@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-37743411)
 2. [The Guardian](https://www.theguardian.com/world/2016/oct/23/japan-park-blasts-kill-one-person-and-injure-two)
+2. [Cover Image](https://i.guim.co.uk/img/media/fcc11abb7bff1dc4f29000e145e123d608cf04b1/0_296_2438_1463/master/2438.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=50a327991971402e46d597937b690c2b)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Sierre Leone&#039;s Vice President Sam Sumana has gone into hiding after applyin
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2015/03/15/sierra-leone-vp-seeks-us-asylum)
 2. [AP](http://bigstory.ap.org/article/fa451f3a86c54b97a48a8b79dfe20fa8/sierra-leones-vice-president-asks-us-asylum)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20150302001107312240-original.jpg)
 
 ### Related:
 

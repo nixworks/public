@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17973353#)
 2. [Reuters](http://www.reuters.com/article/2012/05/05/us-armenia-election-idUSBRE8440CW20120505)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60061000/jpg/_60061161_sarkisian_afp.jpg)
 
 ### Related:
 

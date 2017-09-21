@@ -9,6 +9,7 @@ First cross-border clashes between Turkey and Isil break out after Turkish soldi
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/turkey/11758639/Turkey-tanks-open-fire-on-Isil-over-Syria-border-after-soldier-killed.html)
 2. [Today's Zaman](http://www.todayszaman.com/diplomacy_turkey-agrees-to-grant-us-access-to-incirlik-air-base_394422.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03385/turkey-tank_3385406k.jpg)
 
 ### Related:
 

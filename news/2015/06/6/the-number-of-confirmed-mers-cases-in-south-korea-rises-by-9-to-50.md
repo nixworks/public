@@ -8,6 +8,7 @@ SEOUL (AFP) - South Korea on Saturday confirmed nine more cases of the MERS viru
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/news/asia/east-asia/story/south-korea-mers-virus-cases-reach-50-people-20150606)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/06/06/jdmers06e_2x.jpg?itok=CvhwNtU4)
 
 ### Related:
 

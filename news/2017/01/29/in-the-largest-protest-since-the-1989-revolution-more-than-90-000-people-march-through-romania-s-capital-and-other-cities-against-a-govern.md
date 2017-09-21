@@ -9,6 +9,7 @@ Tens of thousands of people took to the streets in Romania’s main cities, on S
 
 1. [Business Review](http://www.business-review.eu/news/massive-protests-in-romania-over-draft-pardon-bill-changes-to-penal-code-for-second-sunday-in-a-row-129252)
 2. [Digi24](http://www.digi24.ro/stiri/actualitate/justitie/legea-gratierii/proteste-anuntate-in-bucuresti-si-in-alte-5-orase-658415)
+2. [Cover Image](http://www.business-review.eu/wp-content/uploads/2017/01/protest-ianuarie-2017.jpg)
 
 ### Related:
 

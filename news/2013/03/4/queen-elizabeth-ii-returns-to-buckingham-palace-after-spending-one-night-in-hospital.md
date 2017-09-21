@@ -8,6 +8,7 @@ The Queen returns to Buckingham Palace after being assessed in hospital for symp
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21659635)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66192000/jpg/_66192368_queen_hosp_3.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The federal government has served notice that it intends to introduce back-to-wo
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/calgary/story/2011/06/15/canada-post-strike.html)
+1. [Cover Image](https://i.cbc.ca/1.1992640.1381553286!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-post-strike-081329-852.jpg)
 
 ### Related:
 

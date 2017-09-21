@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-09-22T102028Z_01_JAK270296_RTRUKOC_0_US-INDONESIA-EXECUTIONS.xml&WTmodLoc=Home-C5-worldNews-5)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -19,5 +20,5 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 6. [An Indonesian court upholds a 1965 blasphemy law which permits punishment for people or organisations that "distort" the orthodoxies of six officially recognised religions &mdash; Islam, Buddhism, Hinduism, Catholicism, Protestantism and Confucianism &mdash; and is criticized as a blow to permitting religious freedom. ](/news/2010/04/20/an-indonesian-court-upholds-a-1965-blasphemy-law-which-permits-punishment-for-people-or-organisations-that-distort-the-orthodoxies-of-six.md) _Context: Indonesia, Muslims_
 7. [ Zarkasih, the leader of the Islamic militant organisation Jemaah Islamiyah, goes on trial in Indonesia on terrorism charges. ](/news/2007/12/17/zarkasih-the-leader-of-the-islamic-militant-organisation-jemaah-islamiyah-goes-on-trial-in-indonesia-on-terrorism-charges.md) _Context: Indonesia, Muslims_
 8. [ A group of 138 prominent Muslim clerics and scholars send an open letter to Pope Benedict XVI and other Christian leaders, calling for greater understanding between the two faiths. ](/news/2007/10/11/a-group-of-138-prominent-muslim-clerics-and-scholars-send-an-open-letter-to-pope-benedict-xvi-and-other-christian-leaders-calling-for-grea.md) _Context: Christian, Muslims_
-9. [ A 6.2 Richter scale earthquake in Palu, Central Sulawesi, Indonesia, results in one reported death. ](/news/2005/01/24/a-6-2-richter-scale-earthquake-in-palu-central-sulawesi-indonesia-results-in-one-reported-death.md) _Context: Central Sulawesi, Indonesia_
-10. [A fire at an Islamic boarding school for boys kills 24 people, most of them students, in Kuala Lumpur, Malaysia. ](/news/2017/09/14/a-fire-at-an-islamic-boarding-school-for-boys-kills-24-people-most-of-them-students-in-kuala-lumpur-malaysia.md) _Context: boarding school_
+9. [ Three Christian Indonesian girls are beheaded as they walk through a cocoa plantation near a private Christian school in Central Sulawesi. ](/news/2005/10/29/three-christian-indonesian-girls-are-beheaded-as-they-walk-through-a-cocoa-plantation-near-a-private-christian-school-in-central-sulawesi.md) _Context: Central Sulawesi, Indonesia_
+10. [ A 6.2 Richter scale earthquake in Palu, Central Sulawesi, Indonesia, results in one reported death. ](/news/2005/01/24/a-6-2-richter-scale-earthquake-in-palu-central-sulawesi-indonesia-results-in-one-reported-death.md) _Context: Central Sulawesi, Indonesia_

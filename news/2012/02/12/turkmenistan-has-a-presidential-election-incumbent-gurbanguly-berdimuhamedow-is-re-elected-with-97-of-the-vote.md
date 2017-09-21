@@ -8,6 +8,7 @@ The President of Turkmenistan, Kurbanguly Berdymukhamedov, is re-elected for ano
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17009053)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58457000/jpg/_58457700_turkmenistan_presiden_logi.jpg)
 
 ### Related:
 

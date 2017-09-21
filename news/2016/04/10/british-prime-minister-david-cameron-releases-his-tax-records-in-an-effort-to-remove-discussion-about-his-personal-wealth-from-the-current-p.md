@@ -9,6 +9,7 @@
 
 1. [Reuters](http://in.reuters.com/article/panama-tax-malta-idINL5N17D0LZ)
 2. [Reuters](http://www.reuters.com/article/us-panama-tax-britain-idUSKCN0X60WL)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

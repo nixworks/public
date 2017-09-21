@@ -8,6 +8,7 @@ Pakistani PM Yousuf Raza Gilani goes before the Supreme Court to defend his deci
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16615934)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57973000/jpg/_57973670_013748533-1.jpg)
 
 ### Related:
 

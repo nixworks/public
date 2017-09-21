@@ -8,6 +8,7 @@ Tuareg rebels have closed in on a key city in northern Mali, taking advantage of
 ### Source:
 
 1. [News 24](http://www.news24.com/Africa/News/Tuareg-rebels-advance-in-Mali-20120325)
+1. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

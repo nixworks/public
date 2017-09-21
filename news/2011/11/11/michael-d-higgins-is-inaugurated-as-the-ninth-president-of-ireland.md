@@ -8,6 +8,7 @@ Michael D Higgins has been inaugurated as the ninth President of Ireland in a ce
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2011/1111/president.html)
+1. [Cover Image](https://img.rasset.ie/00053654-1600.jpg)
 
 ### Related:
 

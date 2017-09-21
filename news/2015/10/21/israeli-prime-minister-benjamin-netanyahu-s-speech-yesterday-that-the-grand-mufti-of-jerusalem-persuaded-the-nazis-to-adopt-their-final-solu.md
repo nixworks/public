@@ -10,6 +10,7 @@
 1. [CNN](http://www.cnn.com/2015/10/21/middleeast/netanReactioyahu-hitler-grand-mufti-holocaust/)
 2. [Reuters](http://www.reuters.com/article/2015/10/21/israel-netanyahu-hitler-germany-idUSB4N11U01120151021)
 3. [Time](http://time.com/4080962/netanyahu-palestinians-holocaust/?xid=gonewsedit&google_editors_picks=true)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

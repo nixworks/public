@@ -9,6 +9,7 @@
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/story/2011/03/18/tor-airport-fire-transformer.html)
 2. [CTV Toronto](http://toronto.ctv.ca/servlet/an/local/CTVNews/20110319/hydro-transformer-fire-richview-black-smoke-110319/20110319/?hub=TorontoNewHome)
+2. [Cover Image](https://i.cbc.ca/1.1999271.1381557062!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-toronto-fire.jpg)
 
 ### Related:
 

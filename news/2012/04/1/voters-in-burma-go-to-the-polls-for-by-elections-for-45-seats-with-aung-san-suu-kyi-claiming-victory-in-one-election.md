@@ -9,6 +9,7 @@ Aung San Suu Kyi&#039;s party claims she has won a seat in Burma&#039;s parliame
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17571989)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/9178934/Burma-EU-observers-will-not-declare-historic-Myanmar-by-elections-free-and-fair.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02182/Myanmar-burma-Aung_2182850k.jpg)
 
 ### Related:
 

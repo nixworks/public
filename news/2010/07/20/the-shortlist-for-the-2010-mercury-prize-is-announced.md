@@ -11,6 +11,7 @@ Laura Marling I Speak Because I Can
 2. [France24](http://www.france24.com/en/20100720-paul-weller-line-mercury-music-award)
 3. [The Independent](http://www.independent.co.uk/arts-entertainment/music/news/twelve-acts-one-prize-the-mercury-shortlist-2031293.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0720/breaking27.html)
+4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/07/08/14/409782.bin)
 
 ### Related:
 

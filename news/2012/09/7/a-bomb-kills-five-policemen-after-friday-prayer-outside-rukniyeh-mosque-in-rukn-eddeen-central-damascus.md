@@ -11,6 +11,7 @@ A motorcycle bomb exploded as worshippers left a mosque after Friday prayers in 
 2. [AP via ''TIME](http://world.time.com/2012/09/07/french-direct-aid-a-dubious-break-for-syria-rebels/)
 3. [Haaretz](http://www.haaretz.com/news/middle-east/british-dutch-call-for-sanctions-against-lebanon-s-hezbollah-1.463496)
 4. [VOA via ''YaLibnan](http://www.yalibnan.com/2012/09/07/explosion-outside-a-mosque-in-damascus-syria-killed-5/)
+4. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

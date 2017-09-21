@@ -9,6 +9,7 @@ A 32-year-old man is charged with murdering Bristol landscape architect Jo Yeate
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-12257299)
 2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Joanna-Yeates-Murder-Detectives-Charge-32-Year-Old-Vincent-Tabak-With-Her-Murder/Article/201101415907665?lpos=UK_News_Carousel_Region_0&lid=ARTICLE_15907665_Joanna_Yeates_Murder%3A_Detectives_Charge_32-Year-Old_Vincent_Tabak_With_Her_Murder)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

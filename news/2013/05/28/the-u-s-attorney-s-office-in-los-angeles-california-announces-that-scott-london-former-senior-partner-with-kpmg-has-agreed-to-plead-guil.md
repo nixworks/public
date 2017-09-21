@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/29/us-kpmg-trading-idUSBRE94S00720130529)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130529&t=2&i=736043886&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94S00PM00)
 
 ### Related:
 

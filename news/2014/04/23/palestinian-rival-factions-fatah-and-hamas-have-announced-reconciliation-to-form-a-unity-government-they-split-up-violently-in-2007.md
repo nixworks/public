@@ -8,6 +8,7 @@ Rival Palestinian factions Fatah and Hamas announce a reconciliation deal, sayin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27128902)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74401000/jpg/_74401520_74401519.jpg)
 
 ### Related:
 

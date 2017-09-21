@@ -8,6 +8,7 @@ Police dismiss fears that a scheme that allows parents to check if someone is a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10827669)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

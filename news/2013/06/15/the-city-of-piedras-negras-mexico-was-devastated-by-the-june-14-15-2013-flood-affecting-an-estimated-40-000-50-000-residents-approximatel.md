@@ -8,3 +8,4 @@ By: Jose G. Landa An Exclusive Eagle Pass Business Journal News Story/Copyright 
 ### Source:
 
 1. [Eagle Pass Business Journal](http://www.epbusinessjournal.com/2013/06/piedras-negras-coahuila-mexico-devastated-by-june-15th-flood)
+1. [Cover Image](http://www.epbusinessjournal.com/wp-content/themes/businessjournal/images/logo-fb1.jpg)

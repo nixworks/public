@@ -8,6 +8,7 @@ The video recordings released Tuesday provided an unprecedented glimpse inside t
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/07/16/world/16khadr.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/07/16/world/16canada.75.jpg)
 
 ### Related:
 

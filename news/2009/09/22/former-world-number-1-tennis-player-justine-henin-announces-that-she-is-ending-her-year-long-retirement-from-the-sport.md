@@ -8,6 +8,7 @@ Justine Henin will return to competitive tennis next year.
 ### Source:
 
 1. [AP via ESPN](http://sports.espn.go.com/sports/tennis/news/story?id=4494731)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

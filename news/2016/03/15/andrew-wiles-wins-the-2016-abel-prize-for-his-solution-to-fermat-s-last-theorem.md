@@ -8,6 +8,7 @@ Mathematician receives coveted award for solving three-century-old problem in nu
 ### Source:
 
 1. [Nature](http://www.nature.com/news/fermat-s-last-theorem-earns-andrew-wiles-the-abel-prize-1.19552)
+1. [Cover Image](http://www.nature.com/polopoly_fs/7.34900.1458040699!/image/lowAP_9801060667.jpg_gen/derivatives/nature_homepage/lowAP_9801060667.jpg)
 
 ### Related:
 

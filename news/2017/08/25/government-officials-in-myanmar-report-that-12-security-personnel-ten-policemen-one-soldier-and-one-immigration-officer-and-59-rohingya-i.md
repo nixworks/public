@@ -9,6 +9,7 @@ Twelve security personnel and 59 Muslim militants die in attacks on police posts
 
 1. [AP](https://apnews.com/37103be49dd249af8f2e7297b599fb41/Myanmar:-25-dead-in-militant-attacks-on-police,-border-posts)
 2. [BBC](http://www.bbc.com/news/world-asia-41046729)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/EAF6/production/_97505106_040691953reu.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 ### Source:
 
 1. [Newsday AP](http://www.newsday.com/news/politics/wire/sns-ap-guantanamo-videotapes,0,901965.story)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The dump is used to supply the military in the east and officials say the blasts
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39363416)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/6048/production/_95284642_c2f1b7ca-c611-4eea-841b-d97fea666b8b.jpg)
 
 ### Related:
 

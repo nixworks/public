@@ -8,6 +8,7 @@ Two Iraqi army pilots were killed on Thursday when their helicopter was shot dow
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-helicopter-idUSKBN1781PX?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The White House on Thursday named a retired U.S. Air Force brigadier general as 
 1. [Fortune](http://fortune.com/2016/09/08/us-cyber-chief-gregory-touhill/)
 2. [Reuters](http://www.reuters.com/article/us-usa-cyber-whitehouse-idUSKCN11E2RK)
 3. [White House](https://www.whitehouse.gov/blog/2016/09/08/announcing-first-federal-chief-information-security-officer)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The U.S. Supreme Court on Friday refused to stay a ruling that two North Carolin
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-north-carolina-congressional-map-redistricting-20160219-story.html)
 2. [Reuters](http://www.reuters.com/article/us-usa-politics-north-carolina-idUSKCN0VT04N)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160220&t=2&i=1118924421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1J02R)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A recovery team will attempt to reach the wreckage of a sightseeing plane Friday
 ### Source:
 
 1. [AP via ''Seattle Times](http://www.seattletimes.com/nation-world/plane-missing-in-alaska-with-nine-on-board/)
+1. [Cover Image](http://static.seattletimes.com/wp-content/uploads/2015/06/06252015-Westerdam-1560x1036.jpg)
 
 ### Related:
 

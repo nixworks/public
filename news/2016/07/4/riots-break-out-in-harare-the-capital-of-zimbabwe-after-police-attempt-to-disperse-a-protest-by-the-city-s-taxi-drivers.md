@@ -8,6 +8,7 @@ A protest by Zimbabwean taxi drivers against a police crackdown turned violent o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-zimbabwe-protests-idUSKCN0ZK1DO)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160704&t=2&i=1144029350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC630TZ)
 
 ### Related:
 

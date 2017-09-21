@@ -8,6 +8,7 @@ New measures to replace controversial control orders are unveiled by Home Secret
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12287074)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

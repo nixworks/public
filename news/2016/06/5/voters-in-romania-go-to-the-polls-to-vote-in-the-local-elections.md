@@ -9,6 +9,7 @@
 
 1. [Adevarul](http://adevarul.ro/news/politica/alegeri-locale-2016-alegem-primarii-e-unsingur-tur-scrutin-liveblog-1_57518e6d5ab6550cb89906a3/index.html)
 2. [Ziare.com](http://www.ziare.com/alegeri/alegeri-locale-2016/bursa-zvonurilor-cine-conduce-la-primaria-capitalei-si-la-sectoare-1424481)
+2. [Cover Image](http://s1.ziareromania.ro/?mmid=4f5a92db944f8630e2)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pakistan rolled out the red carpet for its all-weather friend China on Friday as
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/article959171.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

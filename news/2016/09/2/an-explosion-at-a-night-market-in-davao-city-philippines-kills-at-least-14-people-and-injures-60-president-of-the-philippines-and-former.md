@@ -10,6 +10,7 @@
 1. [ABS-CBN](http://news.abs-cbn.com/news/09/02/16/davao-blast-death-toll-rises-to-14-67-others-hurt)
 2. [ABS-CBN](http://news.abs-cbn.com/news/09/03/16/abu-sayyaf-owns-up-to-davao-blast-warns-of-more-attacks)
 3. [Reuters](http://www.reuters.com/article/us-philippines-blast-idUSKCN11824W)
+3. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/news-special1/nation/9/2/davao-city-blast-rtr-090216.jpg)
 
 ### Related:
 

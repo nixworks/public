@@ -8,3 +8,4 @@ Philippine officials believe they may have recovered the biggest natural giant c
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37167179)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14EAE/production/_90887658_swns_giant_pearl_01.jpg)

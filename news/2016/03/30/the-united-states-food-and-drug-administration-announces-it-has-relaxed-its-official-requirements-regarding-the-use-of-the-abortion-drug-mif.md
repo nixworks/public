@@ -8,6 +8,7 @@ The FDA said Wednesday it has relaxed its official requirements for the use of t
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/US/2016/03/30/FDA-revises-instructions-for-use-of-abortion-drug-Mifeprex-womens-health-advocates-hail-victory/4721459361592/?spt=hts&or=2)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4721459361592/2016/1/1e4c0a9ba49a73cbcaa21197a4cdbe72/v1.5/FDA-revises-instructions-for-use-of-abortion-drug-Mifeprex-womens-health-advocates-hail-victory.jpg)
 
 ### Related:
 

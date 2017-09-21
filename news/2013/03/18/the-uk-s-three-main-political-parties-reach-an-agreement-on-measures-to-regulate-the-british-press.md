@@ -8,6 +8,7 @@ Plans for a new press watchdog able to impose million-pound fines and demand apo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21825823)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66467000/jpg/_66467723_newspapers_pa.jpg)
 
 ### Related:
 

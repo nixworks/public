@@ -8,6 +8,7 @@ The war crimes tribunal trying those accused of committing atrocities during the
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/death-sentence-in-bangladesh-war-atrocities-trial/article4328483.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

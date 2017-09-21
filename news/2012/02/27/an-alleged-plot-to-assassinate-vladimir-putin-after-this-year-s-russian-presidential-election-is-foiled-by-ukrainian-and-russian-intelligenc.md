@@ -12,6 +12,7 @@ Critics questioned the timing of a revelation by Russian state media on Monday o
 3. [Daily Mail](http://www.dailymail.co.uk/news/article-2107026/Vladimir-Putin-assassination-plot-Chechen-rebel-Adam-Osmayev-captured.html)
 4. [New York Times](http://www.nytimes.com/2012/02/28/world/europe/plot-to-kill-vladimir-putin-uncovered.html)
 5. [Russia Today](http://rt.com/news/putin-assassination-attempt-thwarted-271/comments/)
+5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

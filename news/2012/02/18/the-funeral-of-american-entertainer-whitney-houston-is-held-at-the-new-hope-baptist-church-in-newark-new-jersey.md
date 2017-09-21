@@ -8,6 +8,7 @@ The New Hope Baptist Church, where pop star Whitney Houston first sang and famil
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/18/us-whitneyhouston-hometown-idUSTRE81H02820120218)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120218&t=2&i=572296452&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81H05BD00)
 
 ### Related:
 

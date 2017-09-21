@@ -8,6 +8,7 @@ Belgium is set to become the first country in Europe to ban the burqa after the 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/belgium/7653814/Belgian-MPs-vote-to-ban-the-burqa.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01621/BURKA_1621321a.jpg)
 
 ### Related:
 

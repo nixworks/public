@@ -8,6 +8,7 @@ Tragedy struck Dussehra festivities in Madhya Pradesh&#039;s Datia district, nea
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/109-killed-over-100-injured-after-rumour-sparks-stampede-at-madhya-pradesh-temple-judicial-inquiry-o-431875?curl=1381716805)
+1. [Cover Image](http://i.ndtvimg.com/mt/2013-10/datia_stampede630_d2.jpg)
 
 ### Related:
 

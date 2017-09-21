@@ -8,6 +8,7 @@ Incident comes a day after a boat laden with another such group of 600 people sa
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/05/20115845455723288.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/8/2011585947662734_20.jpg)
 
 ### Related:
 

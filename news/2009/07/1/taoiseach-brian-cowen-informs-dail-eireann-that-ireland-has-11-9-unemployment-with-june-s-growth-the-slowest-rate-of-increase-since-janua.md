@@ -8,6 +8,7 @@ The Taoiseach has told the DÃ¡il that the number of people who signed on the Liv
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0701/liveregister.html)
+1. [Cover Image](https://img.rasset.ie/000269f7-1600.jpg)
 
 ### Related:
 

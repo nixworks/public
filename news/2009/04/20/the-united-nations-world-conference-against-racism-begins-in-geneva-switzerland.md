@@ -11,6 +11,7 @@ A UN conference on racism is due to open in Geneva today amid controversy over a
 2. [Reuters](http://uk.reuters.com/article/burningIssues/idUKTRE53J3PI20090420?pageNumber=1&virtualBrandChannel=0)
 3. [Telegraph](http://www.telegraph.co.uk/news/5185440/UN-racism-summit-to-open-in-Geneva.html)
 4. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/eu/5188473/Britain-and-EU-diplomats-walk-out-as-Mahmoud-Ahmadinejad-calls-Israel-racist.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01382/IRAN_1382268a.jpg)
 
 ### Related:
 

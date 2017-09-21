@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1114083674580_24/?hub=CTVNewsAt11)
 3. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050421.wmartin0421_2/BNStory/Front/)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8259354)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

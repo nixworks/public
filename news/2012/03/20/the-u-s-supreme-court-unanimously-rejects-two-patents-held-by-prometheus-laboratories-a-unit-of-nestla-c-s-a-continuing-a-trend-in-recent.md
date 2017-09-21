@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/21/us-mayo-prometheus-patent-idUSBRE82J18I20120321)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120321&t=2&i=585010527&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82K02PP00)
 
 ### Related:
 

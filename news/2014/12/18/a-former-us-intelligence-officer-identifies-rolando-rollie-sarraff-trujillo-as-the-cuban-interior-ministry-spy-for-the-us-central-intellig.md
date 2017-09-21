@@ -8,6 +8,7 @@ Former U.S. intelligence officer says Rolando Sarraff Trujillo helped Havana&#x2
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/investigations/cia-spy-sent-u-s-swap-identified-mole-cuban-interior-n271156)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2014_51/814146/141218-rolando-sarraff-kns-1530_5216e0db1c79bb1b09e8ed2e62653137.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

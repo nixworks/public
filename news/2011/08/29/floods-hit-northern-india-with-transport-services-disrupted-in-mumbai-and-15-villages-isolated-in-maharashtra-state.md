@@ -8,6 +8,7 @@ Floods are devastating several regions of India. In Mumbai, Central Railway serv
 ### Source:
 
 1. [NewsxLive](http://www.youtube.com/watch?v=k-0zx_yciTA&feature=uploademail)
+1. [Cover Image](https://i.ytimg.com/vi/k-0zx_yciTA/hqdefault.jpg)
 
 ### Related:
 

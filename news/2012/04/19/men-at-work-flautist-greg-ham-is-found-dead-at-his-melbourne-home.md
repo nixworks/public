@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17767264)
 2. [The Sydney Morning Herald](http://www.smh.com.au/victoria/greg-ham-found-dead-in-house-20120419-1x93x.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59736000/jpg/_59736674_59736673.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/06/200962442843135798.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=98939&sectionid=351020404)
 3. [Wall Street Journal](http://online.wsj.com/article/SB124584175155146901.html?mod=googlenews_wsj)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

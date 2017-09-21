@@ -8,6 +8,7 @@ The European Union on Friday extended its economic sanctions on Russia until the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-sanctions-idUSKCN0ZH4OE)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160701&t=2&i=1143705428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC602P6)
 
 ### Related:
 

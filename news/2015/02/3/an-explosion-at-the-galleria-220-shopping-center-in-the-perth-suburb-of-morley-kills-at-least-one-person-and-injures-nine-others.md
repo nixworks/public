@@ -8,6 +8,7 @@ TWO people are dead and up to eight more are injured after an explosion at Galle
 ### Source:
 
 1. [News Limited](http://www.news.com.au/national/casualties-in-shopping-centre-explosion-in-perth/story-fncynjr2-1227206257487)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/a527261660792e9f222f3ac46cbb1d06)
 
 ### Related:
 

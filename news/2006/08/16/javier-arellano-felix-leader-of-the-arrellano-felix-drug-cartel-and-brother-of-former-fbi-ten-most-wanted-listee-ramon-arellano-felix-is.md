@@ -8,6 +8,7 @@ Authorities apprehend Mexican drug kingpin Javier Arellano-Felix, leader of a vi
 ### Source:
 
 1. [FoxNews.com](http://www.foxnews.com/story/0,2933,208700,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

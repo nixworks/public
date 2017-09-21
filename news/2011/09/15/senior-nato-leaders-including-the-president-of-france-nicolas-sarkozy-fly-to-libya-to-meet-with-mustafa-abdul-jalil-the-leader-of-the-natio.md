@@ -8,6 +8,7 @@ UK Prime Minister David Cameron and French President Nicolas Sarkozy are in Liby
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14926308)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55386000/jpg/_55386816_012917804-1.jpg)
 
 ### Related:
 

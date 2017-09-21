@@ -8,6 +8,7 @@ Prime Minister Kevin Rudd has delivered the long-awaited apology to Australia&#0
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/02/13/2161227.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1040988-1x1-700x700.jpg)
 
 ### Related:
 

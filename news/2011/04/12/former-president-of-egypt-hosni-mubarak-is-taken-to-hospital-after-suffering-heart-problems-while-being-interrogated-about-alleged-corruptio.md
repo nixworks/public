@@ -9,6 +9,7 @@ Deposed former Egyptian President Hosni Mubarak is in intensive care after suffe
 
 1. [AP via Fox News](http://www.foxnews.com/world/2011/04/12/egypts-mubarak-hospitalized-heart-problems/)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13053376)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

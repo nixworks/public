@@ -11,6 +11,7 @@ A lawsuit has focused new attention on the secret files the Boy Scouts of Americ
 2. [CNN](http://edition.cnn.com/2010/US/04/23/oregon.boy.scout.abuse/)
 3. [Miami Herald](http://www.miamiherald.com/2010/04/21/1591691/scouts-defend-training-program.html)
 4. [The New York Times](http://www.nytimes.com/2010/04/24/us/24scouts.html)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

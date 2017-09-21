@@ -11,6 +11,7 @@ Business news & Financial news from Reuters.com.
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aoeM4iSNt5X0&refer=latin_america)
 3. [Business Week](http://www.businessweek.com/ap/financialnews/D88U25K01.htm?campaign_id=apn_home_down)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7950003&type=businessNews)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

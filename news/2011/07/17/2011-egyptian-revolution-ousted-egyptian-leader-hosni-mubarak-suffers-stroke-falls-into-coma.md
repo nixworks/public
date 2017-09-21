@@ -13,6 +13,7 @@ Hosni Mubarak&#039;s lawyer says the former Egyptian president is in a coma just
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-14178740)
 5. [Haaretz](http://www.haaretz.com/news/middle-east/ousted-egyptian-leader-mubarak-suffers-stroke-falls-into-coma-1.373744)
 6. [New York Times](http://www.nytimes.com/2011/07/18/world/middleeast/18syria.html)
+6. [Cover Image](http://www.abc.net.au/news/image/1930360-1x1-700x700.jpg)
 
 ### Related:
 

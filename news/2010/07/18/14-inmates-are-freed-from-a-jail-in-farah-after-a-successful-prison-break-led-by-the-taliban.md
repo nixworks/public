@@ -8,6 +8,7 @@ At least 14 inmates still at large after gates of prison in Farah city are blown
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107187115691869.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

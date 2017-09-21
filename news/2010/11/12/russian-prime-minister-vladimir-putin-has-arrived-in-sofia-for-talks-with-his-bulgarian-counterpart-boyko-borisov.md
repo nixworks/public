@@ -9,6 +9,7 @@ The proposals for an intensification of cultural cooperation that the Russian de
 
 1. [ITAR](http://www.itar-tass.com/eng/level2.html?NewsID=15678142&PageNum=0)
 2. [Novinite](http://www.novinite.com/view_news.php?id=122147)
+2. [Cover Image](http://www.novinite.com/media/images/2010-11/photo_verybig_122147.jpg)
 
 ### Related:
 

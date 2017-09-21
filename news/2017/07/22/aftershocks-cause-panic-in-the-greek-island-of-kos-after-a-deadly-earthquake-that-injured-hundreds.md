@@ -8,6 +8,7 @@ Two strong aftershocks have struck the Greek island of Kos within minutes of eac
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/earthquake-greece-turkey-kos-aegean-aftershocks-panic-island-tourists-deaths-injuries-damage-a7855181.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/07/23/00/kos-aftershocks.jpg)
 
 ### Related:
 

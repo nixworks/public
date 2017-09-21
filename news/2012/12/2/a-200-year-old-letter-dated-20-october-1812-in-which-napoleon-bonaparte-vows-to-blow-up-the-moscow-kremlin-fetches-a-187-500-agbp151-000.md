@@ -10,6 +10,7 @@ A coded letter written by Napoleon containing his plan to defeat the Russians se
 1. [ABC News](http://www.abc.net.au/news/2012-12-03/coded-napoleon-letter-goes-under-hammer/4404110)
 2. [ITV](http://www.itv.com/news/update/2012-12-02/napoleons-coded-kremlin-letter-sells-for-187-500/)
 3. [Sky News](http://news.sky.com/story/1019639/napoleon-secret-coded-document-sells-for-150k)
+3. [Cover Image](http://e3.365dm.com/16/07/1600x900/155053800-1_3687337.jpg?20160706132348)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Marine Le Pen says she will be above &quot;partisan considerations&quot; as she 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39696861)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1079E/production/_95768476_lepen.jpg)
 
 ### Related:
 

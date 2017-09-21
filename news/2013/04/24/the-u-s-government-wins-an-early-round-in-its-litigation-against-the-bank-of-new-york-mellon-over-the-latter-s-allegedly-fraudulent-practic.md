@@ -8,6 +8,7 @@ A federal judge said on Wednesday the U.S. government can proceed with a lawsuit
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/24/us-bankofnewyorkmellon-lawsuit-idUSBRE93N12820130424)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130424&t=2&i=725603620&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93N1E5X00)
 
 ### Related:
 

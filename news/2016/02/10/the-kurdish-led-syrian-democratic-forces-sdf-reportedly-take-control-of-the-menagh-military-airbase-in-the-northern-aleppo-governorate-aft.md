@@ -8,6 +8,7 @@ According to several Kurdish social media activists, the People&#039;s Protectio
 ### Source:
 
 1. [Al Masdar News](http://www.almasdarnews.com/article/kurdish-forces-reportedly-capture-mennagh-airbase/)
+1. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2015/06/YPG2.jpg)
 
 ### Related:
 

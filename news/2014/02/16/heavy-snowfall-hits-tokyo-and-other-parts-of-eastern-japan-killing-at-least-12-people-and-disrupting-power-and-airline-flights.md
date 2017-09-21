@@ -8,6 +8,7 @@ Heavy snow hit Tokyo and other parts of eastern Japan over the weekend, leaving 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/16/us-japan-snow-idUSBREA1F02J20140216?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140216&t=2&i=839989334&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1F0H8Q00)
 
 ### Related:
 

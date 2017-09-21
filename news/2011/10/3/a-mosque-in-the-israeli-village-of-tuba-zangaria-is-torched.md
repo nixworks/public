@@ -8,6 +8,7 @@ Police fear spike in ethnic tensions during Yom Kippur; police commissioner boos
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/print-edition/news/police-brace-for-israeli-arab-revenge-attacks-following-mosque-torching-1.387966)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.387979.1317683563!/image/421364446.jpg_gen/derivatives/headline_1200x630/421364446.jpg)
 
 ### Related:
 

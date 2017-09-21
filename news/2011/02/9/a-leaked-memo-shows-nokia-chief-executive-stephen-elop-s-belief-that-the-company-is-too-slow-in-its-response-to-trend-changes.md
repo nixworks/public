@@ -8,6 +8,7 @@ Chief executive said the mobile phone company has been too slow to respond to ch
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/business/2011/02/201129144053920207.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/9/201129153135111140_20.jpg)
 
 ### Related:
 

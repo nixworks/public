@@ -8,6 +8,7 @@ The president of the Libyan Olympic Committee, Nabil al-Alam, is released - a we
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18944150)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61734000/jpg/_61734098_61734097.jpg)
 
 ### Related:
 

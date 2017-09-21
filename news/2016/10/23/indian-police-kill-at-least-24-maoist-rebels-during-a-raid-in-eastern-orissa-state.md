@@ -8,6 +8,7 @@ Police in India say they have killed at least 24 Maoist rebels in the eastern st
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-37749197)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/68DE/production/_92064862_maoistrebelschattiosap.jpg)
 
 ### Related:
 

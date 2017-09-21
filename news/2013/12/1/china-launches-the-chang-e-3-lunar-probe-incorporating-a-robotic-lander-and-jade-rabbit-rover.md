@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ''India Today](http://indiatoday.intoday.in/story/china-moon-mission-change-3-lunar-probe-jade-rabbit-buggy-long-march-3b-rocket/1/327363.html)
+1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/long-march-3b-rocket-660_120213011221.jpg)
 
 ### Related:
 

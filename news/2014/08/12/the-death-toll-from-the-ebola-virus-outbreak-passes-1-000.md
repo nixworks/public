@@ -9,6 +9,7 @@ The death toll from the worst ever outbreak of Ebola has reached 1,013 after ano
 
 1. [CNN](http://edition.cnn.com/2014/08/12/health/ebola-outbreak/index.html?eref=edition)
 2. [Reuters via ''Hindustan Times](http://www.hindustantimes.com/world-news/ebola-outbreak-toll-reaches-1-013-in-w-africa/article1-1251036.aspx)
+2. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p1/2014/08/07/Incoming/Pictures/1249501_Wallpaper2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Mr. Handler helped introduce Barbie, helped design the talking doll Chatty Cathy
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/07/23/business/elliot-handler-co-founder-of-mattel-toys-dies-at-95.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/07/23/business/HANDLER-obit/HANDLER-obit-thumbStandard.jpg)
 
 ### Related:
 

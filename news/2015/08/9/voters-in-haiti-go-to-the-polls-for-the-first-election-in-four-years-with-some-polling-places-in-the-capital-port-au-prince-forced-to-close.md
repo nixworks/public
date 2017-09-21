@@ -8,6 +8,7 @@ AU-PRINCE, Haiti (Reuters) - Haitians lined up to vote on Sunday for the first t
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2015/08/09/haiti-election-idINKCN0QE0PG20150809)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

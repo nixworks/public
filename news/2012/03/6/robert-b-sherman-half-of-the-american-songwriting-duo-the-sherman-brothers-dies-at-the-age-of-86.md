@@ -8,3 +8,4 @@ Songwriter Robert Sherman, who composed classic Disney tunes such as Supercalifr
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/film/film-news/9125632/Mary-Poppins-songwriter-Robert-Sherman-dies.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02160/sherman1_2160112a.jpg)

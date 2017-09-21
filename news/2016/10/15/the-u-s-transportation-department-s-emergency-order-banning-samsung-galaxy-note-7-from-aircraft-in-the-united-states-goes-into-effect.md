@@ -8,6 +8,7 @@ Samsung Galaxy Note 7 smartphone devices will be banned from aircraft in the Uni
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-samsung-elec-smartphones-idUSKBN12E2BC)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161015&t=2&i=1157594245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9D1DR)
 
 ### Related:
 

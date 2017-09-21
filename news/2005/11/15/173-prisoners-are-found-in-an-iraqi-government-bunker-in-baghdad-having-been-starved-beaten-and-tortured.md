@@ -9,6 +9,7 @@ Iraq is investigating the discovery of more than 170 prisoners in a government b
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4440134.stm)
 2. [CBC](http://www.cbc.ca/world/story/2005/11/15/iraq-detainees-051115.html)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Nations scramble to deliver aid and assistance to the Philippines in the wake th
 ### Source:
 
 1. [ABC News Online](http://www.abc.net.au/news/2013-11-11/global-aid-response-typhoon-haiyan-australia-red-cross/5082024)
+1. [Cover Image](http://www.abc.net.au/news/image/5082778-1x1-700x700.jpg)
 
 ### Related:
 

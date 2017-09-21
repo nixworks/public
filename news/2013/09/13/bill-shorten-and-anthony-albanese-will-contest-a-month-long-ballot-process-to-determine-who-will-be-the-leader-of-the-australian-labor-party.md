@@ -8,6 +8,7 @@ The gang&#039;s all here. Labor, Liberal, National - everyone is trying to remem
 ### Source:
 
 1. [Canberra Times](http://www.canberratimes.com.au/federal-politics/the-pulse-live/federal-politics-live-september-13-2013-20130913-2todn.html)
+1. [Cover Image](http://images.canberratimes.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

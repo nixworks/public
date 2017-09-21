@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [News.com.au](http://www.news.com.au/common/story_page/0,4057,11911870%255E28217,00.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7287531)
 3. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,11912670%255E1702,00.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

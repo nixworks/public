@@ -9,6 +9,7 @@ The Environmental Protection Ministry said the Trans-Israel pipeline spill in so
 
 1. [DW](http://www.dw.de/burst-oil-pipeline-floods-israeli-nature-reserve/a-18109654)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4599798,00.html)
+2. [Cover Image](http://www.ynetnews.com/PicServer4/2014/12/04/5738209/5738094099483490385no.jpg)
 
 ### Related:
 

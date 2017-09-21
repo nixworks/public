@@ -8,6 +8,7 @@ Police tell people in Scotland not to travel, as severe winds of up to 165mph hi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-16079849)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57218000/jpg/_57218288_fireturbine.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [Al-Arabiyah News](http://english.alarabiya.net/en/News/middle-east/2015/10/06/Yemen-s-VP-hotel-residence-attacked.html)
 2. [CNN](http://edition.cnn.com/2015/10/06/middleeast/yemen-violence/index.html)
 3. [Reuters](http://uk.reuters.com/article/2015/10/06/uk-yemen-security-aden-hotel-idUKKCN0S009H20151006)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151006&t=2&i=1084969318&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB950V3)
 
 ### Related:
 

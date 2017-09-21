@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2011/09/21/north-and-south-korea-meet-but-make-no-progress-on-nuclear-talks/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2011/09/21/north-and-south-korea-meet-but-make-no-progress-on-nuclear-talks/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421904450748.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Eiffel Tower and the surrounding Champ de Mars park were briefly evacuated o
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/29/3024475.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

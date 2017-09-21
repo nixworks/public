@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/6df049c99fa94a09b88214b63cd823e7/australia-says-us-has-little-time-save-asia-pacific-deal)
 2. [CCTV via Twitter](https://twitter.com/cctvnews/status/611003769896054784/photo/1)
+2. [Cover Image](https://pbs.twimg.com/media/CHq4sJVUwAANvbx.jpg:large)
 
 ### Related:
 

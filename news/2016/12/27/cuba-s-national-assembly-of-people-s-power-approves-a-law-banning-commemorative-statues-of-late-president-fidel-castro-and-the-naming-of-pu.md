@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-cuba-castro-idUKKBN14G1N3?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161228&t=2&i=1166879291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBR00M)
 
 ### Related:
 

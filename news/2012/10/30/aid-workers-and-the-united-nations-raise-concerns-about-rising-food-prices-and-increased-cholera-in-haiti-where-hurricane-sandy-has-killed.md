@@ -8,6 +8,7 @@ Officials fear rising food prices and an increase in cholera cases in Caribbean 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/10/2012103075846181519.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/10/30//2012103075940978734_20.jpg)
 
 ### Related:
 

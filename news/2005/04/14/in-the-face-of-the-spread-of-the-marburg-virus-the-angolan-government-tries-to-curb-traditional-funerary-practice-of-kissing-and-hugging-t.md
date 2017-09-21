@@ -9,6 +9,7 @@ Keep your mind and body sharp with the latest health and fitness news and inform
 
 1. [CNN](http://edition.cnn.com/2005/HEALTH/conditions/04/13/angola.virus/)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=healthNews&storyID=8181352)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

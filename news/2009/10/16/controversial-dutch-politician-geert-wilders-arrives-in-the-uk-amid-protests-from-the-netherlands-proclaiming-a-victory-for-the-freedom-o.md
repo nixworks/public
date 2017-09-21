@@ -10,6 +10,7 @@ Around 20 Muslim protesters hurled abuse at far-right Dutch MP Geert Wilders as 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/10/16/uk.geert.wilders/index.html?iref=mpstoryview)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE59F2V320091016)
 3. [The Guardian](http://www.guardian.co.uk/world/2009/oct/16/far-right-dutch-geert-wilders-uk)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20091016&t=2&i=11974627&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-16T135451Z_01_BTRE59F12NL00_RTROPTP_0_BRITAIN-WILDERS)
 
 ### Related:
 

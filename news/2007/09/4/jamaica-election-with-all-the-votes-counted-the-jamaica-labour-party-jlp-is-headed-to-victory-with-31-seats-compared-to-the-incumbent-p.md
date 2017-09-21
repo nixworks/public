@@ -8,6 +8,7 @@ The opposition Jamaica LabourParty appeared to win power in a cliffhanger electi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/bondsNews/idUSN0333588020070904)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

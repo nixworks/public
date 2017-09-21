@@ -8,6 +8,7 @@ The US and South Korea hold a major military exercise in the Sea of Japan, despi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10752746)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

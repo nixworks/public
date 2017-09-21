@@ -12,6 +12,7 @@
 3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8601382.stm)
 4. [CNN](http://edition.cnn.com/2010/WORLD/africa/04/03/senegal.statue/?hpt=T2)
 5. [The Guardian](http://www.guardian.co.uk/world/2010/apr/04/senegal-african-renaissance-statue)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

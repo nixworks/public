@@ -10,6 +10,7 @@ Ninety people took some dosage of experimental drug being tested for Portuguese 
 1. [Reuters via New Zealand Stuff](http://www.stuff.co.nz/world/europe/75951673/french-cannabis-drug-trial-leaves-one-brain-dead-five-seriously-ill)
 2. [Reuters](http://www.reuters.com/article/us-france-health-test-idUSKCN0UT131)
 3. [The Guardian](http://www.theguardian.com/world/2016/jan/15/french-drug-trial-one-person-in-coma-and-five-critically-ill)
+3. [Cover Image](https://i.guim.co.uk/img/media/8ee03968f716dbfeff46710fd819b93e10de202d/326_329_4495_2697/master/4495.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=aa83aa5a6a9c00213e4fb3d65e1a67a5)
 
 ### Related:
 

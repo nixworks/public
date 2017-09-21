@@ -10,6 +10,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4211883.stm)
 2. [MTV.COM](http://www.mtv.com/news/articles/1496296/20050126/index.jhtml?headlines=true)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=7440350)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

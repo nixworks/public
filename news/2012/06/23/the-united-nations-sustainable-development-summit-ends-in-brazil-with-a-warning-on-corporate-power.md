@@ -8,6 +8,7 @@ The Rio+20 summit ends with an agreement from world leaders that charities say r
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18561223)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61092000/jpg/_61092144_015109369-1.jpg)
 
 ### Related:
 

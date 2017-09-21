@@ -8,6 +8,7 @@ Up to 430,000 people infected with Hepatitis B from repeated use of needles, to 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/2011123105025224831.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/23/2011123114432750140_20.jpg)
 
 ### Related:
 

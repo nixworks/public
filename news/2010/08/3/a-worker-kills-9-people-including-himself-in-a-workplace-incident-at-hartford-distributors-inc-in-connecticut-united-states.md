@@ -10,6 +10,7 @@ Nine&#x20;people&#x20;were&#x20;killed&#x20;in&#x20;the&#x20;US&#x20;state&#x20;
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10858000)
 2. [France24](http://www.france24.com/en/20100803-disgruntled-worker-kills-8-colleagues-beer-warehouse-shooting-connecticut)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/04/c_13428660.htm)
+3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/connecticut-m.jpg)
 
 ### Related:
 

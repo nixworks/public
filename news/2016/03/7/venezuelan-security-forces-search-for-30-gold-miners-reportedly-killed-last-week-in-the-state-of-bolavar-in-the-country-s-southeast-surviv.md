@@ -9,6 +9,7 @@ Venezuelan authorities said they were investigating the alleged killings of a gr
 
 1. [EFE via Fox New Latino](http://latino.foxnews.com/latino/news/2016/03/07/security-forces-search-for-miners-reported-killed-in-venezuela/)
 2. [Reuters via ''The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Venezuela-says-its-probing-alleged-killing-of-miners/articleshow/51295002.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/51295002.cms)
 
 ### Related:
 

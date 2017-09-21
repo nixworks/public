@@ -8,6 +8,7 @@ Western and Arab countries opposed to President Bashar al-Assad agreed at talks 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/22/us-syria-crisis-statement-idUSBRE95L07Z20130622)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

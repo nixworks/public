@@ -12,6 +12,7 @@
 3. [Reuters](http://www.reuters.com/article/2012/07/05/us-syria-crisis-tlas-idUSBRE8640X920120705)
 4. [The Guardian](http://www.guardian.co.uk/world/2012/jul/05/top-syrian-general-defects-turkey?newsfeed=true)
 5. [The Washington Post](http://www.washingtonpost.com/world/middle_east/head-of-syrias-observer-mission-says-violence-is-unprecedented/2012/07/05/gJQA5szzOW_story.html)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

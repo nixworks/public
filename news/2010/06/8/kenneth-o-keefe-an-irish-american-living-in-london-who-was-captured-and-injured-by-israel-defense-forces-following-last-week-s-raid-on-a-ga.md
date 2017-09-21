@@ -8,6 +8,7 @@ An Irish-American who took part in the Gaza aid flotilla has denied he is involv
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0608/1224272053388.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

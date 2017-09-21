@@ -11,6 +11,7 @@ Hungary has closed Budapest&amp;#39;s main railway station today as hundreds of 
 2. [The Independent](http://www.independent.co.uk/news/world/europe/more-than-11000-icelanders-offer-to-house-syrian-refugees-to-help-european-crisis-10480505.html)
 3. [Time](http://time.com/4018241/iceland-syria-refugees/)
 4. [thelocal](http://www.thelocal.de/20150901/migrants-flee-budapest-for-vienna-and-munich)
+4. [Cover Image](http://news-assets.sn.itv.com/image/file/755847/img.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Minister says only fraction of items stolen following US-ivasion have been retur
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/02/2009223113058162790.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Rising dream-pop artist Hazel English is from Melbourne, Australia by way of Oak
 ### Source:
 
 1. [Spin](http://www.spin.com/#articles/brit-awards-2014-live-stream-lorde-disclosure-arctic-monkeys-beyonce/)
+1. [Cover Image](http://www.spin.com/apple-touch-icon.png)
 
 ### Related:
 

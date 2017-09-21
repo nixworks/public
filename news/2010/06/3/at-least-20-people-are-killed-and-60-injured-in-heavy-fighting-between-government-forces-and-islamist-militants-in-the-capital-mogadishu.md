@@ -13,6 +13,7 @@ Heavy fighting between government forces and Islamist militants in Mogadishu kil
 4. [CNN](http://edition.cnn.com/2010/WORLD/africa/06/03/somalia.fighting.toll/)
 5. [Sify](http://sify.com/news/23-killed-dozens-injured-in-somalia-fighting-news-international-kgduEdgadbj.html)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13331907.htm)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

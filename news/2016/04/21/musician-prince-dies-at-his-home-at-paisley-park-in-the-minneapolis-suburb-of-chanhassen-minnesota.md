@@ -8,6 +8,7 @@ PRINCE has died suddenly at the age of 57, just days after his private jet was f
 ### Source:
 
 1. [News Limited](http://www.news.com.au/entertainment/celebrity-life/prince-dead-at-57-report/news-story/dd669dc072fc063bdfb028a2338437db)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/1af2f719c6206ec79c7477764b48b8c3)
 
 ### Related:
 

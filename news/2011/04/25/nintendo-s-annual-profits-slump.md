@@ -8,6 +8,7 @@ Video games giant Nintendo says its profits slumped by 66% last year, as it conf
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13185728)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52330000/jpg/_52330416_010967562-1.jpg)
 
 ### Related:
 

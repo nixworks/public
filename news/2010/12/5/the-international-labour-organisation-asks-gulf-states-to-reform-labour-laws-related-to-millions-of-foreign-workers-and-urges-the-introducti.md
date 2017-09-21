@@ -8,6 +8,7 @@ International Labour Organisation calls on Gulf states to reform labour laws gov
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010125134022563993.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/20101251436294436_20.jpg)
 
 ### Related:
 

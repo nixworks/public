@@ -8,6 +8,7 @@ Turkey’s Parliament has approved two constitutional amendments giving more pow
 ### Source:
 
 1. [RT](https://www.rt.com/news/373690-turkey-erdogan-executive-powers)
+1. [Cover Image](https://img.rt.com/files/2017.01/article/5879e1c4c461886e618b4614.jpg)
 
 ### Related:
 

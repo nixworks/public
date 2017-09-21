@@ -8,6 +8,7 @@ Americans officials want to rotate more military forces through the country, con
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/12/18/world/asia/us-forging-closer-military-ties-with-philippines.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

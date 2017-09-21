@@ -9,6 +9,7 @@ Indonesian authorities say a police airplane with 13 people on board has lost co
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/12/03/police-plane-with-13-on-board-missing-in-indonesia.html)
 2. [Koran Tempo](http://en.tempo.co/read/news/2016/12/04/055825261/SAR-Team-Sets-Up-6-Posts-for-the-Crashed-Police-Plane-Search)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ First IAEA head to visit Tehran since 2009 is expected to seek inspection deal o
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012520155112905959.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/21//2012521155132922734_20.jpg)
 
 ### Related:
 

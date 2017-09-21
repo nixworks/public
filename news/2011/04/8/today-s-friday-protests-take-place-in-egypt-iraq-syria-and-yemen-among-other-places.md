@@ -13,6 +13,7 @@ At least 27 deaths reported in the city of Daraa as fresh pro-reform demonstrati
 4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114875513229751.html)
 5. [BBC](http://www.bbc.co.uk/news/world-13016843)
 6. [The Guardian](http://www.guardian.co.uk/world/2011/apr/08/yemen-told-saudis-bomb-mohsen)
+6. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/8/201148161941275738_20.jpg)
 
 ### Related:
 

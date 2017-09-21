@@ -9,6 +9,7 @@ Protesters in Alexandria enter state security headquarters, saying officers dest
 
 1. [Al Jazeera](http://english.aljazeera.net//news/middleeast/2011/03/201134228359128.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12654714)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/5/20113534348848734_20.jpg)
 
 ### Related:
 

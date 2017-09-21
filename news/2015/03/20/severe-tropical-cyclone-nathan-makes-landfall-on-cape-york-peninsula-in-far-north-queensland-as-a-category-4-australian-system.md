@@ -8,6 +8,7 @@ Tropical Cyclone Nathan is downgraded to a category three system after making la
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/2015-03-20/live-tropical-cyclone-nathan-category-four-system-landfall/6332530)
+1. [Cover Image](http://www.abc.net.au/news/image/6335142-1x1-700x700.jpg)
 
 ### Related:
 

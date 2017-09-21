@@ -10,6 +10,7 @@ Two North Korean spies have been arrested for plotting to assassinate a high-ran
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104215349387433.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8633913.stm)
 3. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/04/113_64572.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

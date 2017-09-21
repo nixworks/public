@@ -11,6 +11,7 @@ We measure the grounding line retreat of glaciers draining the Amundsen Sea sect
 2. [New York Times](http://www.nytimes.com/2014/05/13/science/earth/collapse-of-parts-of-west-antarctica-ice-sheet-has-begun-scientists-say.html)
 3. [Science](http://www.sciencemag.org/content/344/6185/735.abstract)
 4. [The Washington Post](http://www.washingtonpost.com/national/health-science/2014/05/12/70c26750-da00-11e3-b745-87d39690c5c0_story.html)
+4. [Cover Image](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002(ISSN)1944-8007/images/journal_branding.png)
 
 ### Related:
 

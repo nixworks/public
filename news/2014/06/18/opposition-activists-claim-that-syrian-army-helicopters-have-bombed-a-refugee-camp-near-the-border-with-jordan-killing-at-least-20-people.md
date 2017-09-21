@@ -10,6 +10,7 @@ Activists say Syrian army helicopters bomb a refugee camp, killing at least 20 p
 1. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Jun-18/260554-chlorine-likely-used-in-syria-chemical-weapons-watchdog.ashx#axzz34zoJelyB)
 2. [KUNA](http://www.kuna.net.kw/ArticleDetails.aspx?id=2383370&language=en)
 3. [Reuters via Trust](http://www.trust.org/item/20140618104025-3sd6i/?source=shtw)
+3. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/6ffb144a-85bd-4484-a2f3-7005cbc73694/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

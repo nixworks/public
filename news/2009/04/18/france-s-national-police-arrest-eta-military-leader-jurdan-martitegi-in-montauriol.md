@@ -8,6 +8,7 @@ A source in the Spanish government says ETA&#039;s military chief has been arres
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2009/04/19/2546681.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

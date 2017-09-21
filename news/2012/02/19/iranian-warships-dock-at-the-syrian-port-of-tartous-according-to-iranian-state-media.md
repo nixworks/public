@@ -8,6 +8,7 @@ Iran state media says two vessels have crossed Suez Canal and arrived in Syria, 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/20122197221461654.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/19/2012219164418606734_20.jpg)
 
 ### Related:
 

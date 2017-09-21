@@ -9,6 +9,7 @@ Fighting in Yemen leaves 24 people dead as government forces battle rebels in th
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10722635)
 2. [News24](http://www.news24.com/World/News/69-die-in-Yemen-fighting-20100722)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48439000/jpg/_48439493_yemen2107_houthis2_g.jpg)
 
 ### Related:
 

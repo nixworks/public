@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Manx Radio](http://www.manxradio.com/news/isle-of-man-news/island-has-new-chief-minister/)
+1. [Cover Image](http://news.manxradio.com/370842-1.JPG)
 
 ### Related:
 

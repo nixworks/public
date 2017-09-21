@@ -11,6 +11,7 @@ Supporters of Rouhani, who championed the nuclear deal, are pitted against hardl
 2. [Reuters via Swiss, info](http://www.swissinfo.ch/eng/iran-starts-election-count-to-set-post-sanctions-power-balance/41984890)
 3. [Reuters via Yahoo](http://news.yahoo.com/irans-rouhani-top-ally-rafsanjani-lead-assembly-experts-135559253.html)
 4. [Reuters](http://www.reuters.com/article/us-iran-election-vote-idUSKCN0VZ0E7)
+4. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

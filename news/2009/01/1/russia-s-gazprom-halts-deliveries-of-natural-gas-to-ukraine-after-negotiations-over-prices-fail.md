@@ -9,6 +9,7 @@
 
 1. [RIA Novosti](http://en.rian.ru/world/20090101/119302144.html)
 2. [Reuters](http://uk.reuters.com/article/governmentFilingsNews/idUKLV43959420081231?sp=true)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

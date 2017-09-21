@@ -13,6 +13,7 @@ Investigators say government forces and rebel fighters have killed, tortured and
 4. [Russia Beyond the Headlines](http://rbth.ru/news/2013/09/11/russia_passes_proof_of_chemical_weapons_use_by_syrian_militants_to_un_se_29710.html)
 5. [The Independent](http://www.independent.co.uk/news/world/americas/syria-french-draft-resolution-gives-assad-15-days-to-hand-over-chemical-weapons-as-obama-holds-fire-on-congress-vote-8808432.html)
 6. [The New York Times](http://www.nytimes.com/2013/09/12/world/middleeast/united-nations-panel-cites-evidence-of-war-crimes-in-syria.html?_r=0)
+6. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

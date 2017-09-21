@@ -8,6 +8,7 @@ A secular blogger is hacked to death by suspected Islamists in Bangladesh, the t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32701001)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82943000/jpg/_82943700_027172497-1.jpg)
 
 ### Related:
 

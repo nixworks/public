@@ -9,6 +9,7 @@
 
 1. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=228276)
 2. [aljazeera](http://blogs.aljazeera.net/liveblog/Crete)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=168919)
 
 ### Related:
 

@@ -8,6 +8,7 @@ KABUL, Afghanistan -- A suicide bomber detonated his explosives-packed rickshaw 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-at-least-15-dead-in-afghanistan-bombing-20140318,0,3682258.story)
+1. [Cover Image](http://www.trbimg.com/img-53288f76/turbine/la-fg-wn-at-least-15-dead-in-afghanistan-bombing-20140318)
 
 ### Related:
 

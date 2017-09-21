@@ -8,6 +8,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8873463)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

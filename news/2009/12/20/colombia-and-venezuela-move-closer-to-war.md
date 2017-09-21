@@ -8,6 +8,7 @@ Colombia said it is preparing to defend against a possible foreign military atta
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE5BJ11Z20091220)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

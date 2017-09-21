@@ -8,6 +8,7 @@ The Obama administration has lifted a six month moratorium on deep water oil dri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11528910)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-us-canada-11528910A/playlist.sxml)
 
 ### Related:
 

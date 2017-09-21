@@ -8,6 +8,7 @@ Most households in the UK will have pornography blocked by their internet provid
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23401076)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68874000/jpg/_68874968_68874967.jpg)
 
 ### Related:
 

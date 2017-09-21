@@ -8,6 +8,7 @@ Former Ottawa resident Naser al-Raas has been arrested in a Bahrain court after 
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/canada/ottawa/story/2012/02/01/ottawa-bahrain-man-arrested-court.html)
+1. [Cover Image](https://i.cbc.ca/1.1503477.1379034534!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-852-naser-al-raas.jpg)
 
 ### Related:
 

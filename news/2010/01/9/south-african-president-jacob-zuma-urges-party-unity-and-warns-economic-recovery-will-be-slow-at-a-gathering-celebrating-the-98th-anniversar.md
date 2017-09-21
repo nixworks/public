@@ -10,6 +10,7 @@ There are signs South Africa is recovering from the worst effects of the global 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8450151.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE60816V20100109)
 3. [Times LIVE](http://www.timeslive.co.za/news/article254122.ece)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

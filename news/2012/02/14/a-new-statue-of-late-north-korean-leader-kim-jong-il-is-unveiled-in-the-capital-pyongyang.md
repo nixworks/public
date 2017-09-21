@@ -8,6 +8,7 @@ The first bronze statue of the late North Korean leader Kim Jong Il was unveiled
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/northkorea/9082302/North-Korea-statue-of-former-leader-Kim-Jong-II-unveiled-in-Pyongyang.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02138/statue-460_2138789a.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Reuters²](http://www.reuters.com/article/us-brazil-politics-protests-idUSKCN0WX2RI?mod=related&channelName=worldNews)
 4. [The Rio Times](http://riotimesonline.com/brazil-news/rio-sports/brazils-sports-minister-resigns-months-before-the-olympics/)
 5. [insidethegames](http://www.insidethegames.biz/articles/1035934/brazilian-sports-minister-officially-steps-down-and-is-replaced-by-leyser)
+5. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160401&t=2&i=1129310158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC301Z5)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Afghan authorities arrest 18 people, some of them soldiers, after foiling plans 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17520430)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59324000/jpg/_59324414_014253567-1.jpg)
 
 ### Related:
 

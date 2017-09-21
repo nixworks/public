@@ -9,6 +9,7 @@ Al-Qaeda’s North Africa branch said it did battle with “crusader occupation 
 
 1. [CBC](http://www.cbc.ca/news/world/mali-attack-peacekeepers-1.3610185)
 2. [News Week](http://europe.newsweek.com/mali-four-killed-suspected-al-qaeda-attack-un-bases-465313?rm=eu)
+2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/06/01/malian-police-patrol-minusma..jpg)
 
 ### Related:
 

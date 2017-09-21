@@ -10,6 +10,7 @@ Tornadoes ripped through four states on Tuesday night and Wednesday, killing at 
 1. [CNN](http://www.cnn.com/2013/01/30/us/severe-weather)
 2. [Reuters](http://www.reuters.com/article/2013/01/30/us-usa-weather-idUSBRE90T0WG20130130)
 3. [USA Today](http://www.usatoday.com/story/weather/2013/01/30/severe-weather-south-midwest/1876579/)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130130&t=2&i=699409422&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90T1SM000)
 
 ### Related:
 

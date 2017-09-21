@@ -8,6 +8,7 @@ Two men, including an on-duty police officer, die in a shooting in the Republic 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-34501503)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15F00/production/_86065898_omeath2.jpg)
 
 ### Related:
 

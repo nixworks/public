@@ -8,6 +8,7 @@ Oil giant Shell rejects claims that it should pay compensation to four Nigerian 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19905694)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63432000/jpg/_63432929_016207816.jpg)
 
 ### Related:
 

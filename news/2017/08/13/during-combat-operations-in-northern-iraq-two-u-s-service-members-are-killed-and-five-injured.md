@@ -8,6 +8,7 @@ Two U.S. service members were killed and five injured during combat operations i
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-military-death-idUSKCN1AT0JB)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

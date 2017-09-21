@@ -8,6 +8,7 @@ At 6.15am, a fatal level crossing accident occurred in Flores neighbourhood on T
 ### Source:
 
 1. [Buenos Aires Herald](http://www.buenosairesherald.com/article/78679/train-crash-in-flores-leaves-11-dead-over-212-injured)
+1. [Cover Image](/files/imagenes//201109/78679_13_110718.jpg)
 
 ### Related:
 

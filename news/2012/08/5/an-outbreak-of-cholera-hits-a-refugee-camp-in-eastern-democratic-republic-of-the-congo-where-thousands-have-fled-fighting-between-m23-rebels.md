@@ -8,6 +8,7 @@ At least nine people killed in makeshift camp for people displaced by clashes be
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/08/20128516042668220.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/5/201285162554457734_20.jpg)
 
 ### Related:
 

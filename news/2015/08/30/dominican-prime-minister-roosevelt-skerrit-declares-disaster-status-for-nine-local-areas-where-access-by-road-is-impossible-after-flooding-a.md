@@ -8,6 +8,7 @@ Rescue teams worked Sunday to reopen roads to remote communities in Dominica aft
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2015/08/30/dominica-declares-disaster-status-appeals-for-aid-after-erika-leaves-20-dead/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/08/30/dominica-declares-disaster-status-appeals-for-aid-after-erika-leaves-20-dead/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1440975659196.jpg?ve=1)
 
 ### Related:
 

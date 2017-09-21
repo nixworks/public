@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11573514)
 2. [Reuters](http://af.reuters.com/article/ethiopiaNews/idAFLDE69I23E20101019?sp=true)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

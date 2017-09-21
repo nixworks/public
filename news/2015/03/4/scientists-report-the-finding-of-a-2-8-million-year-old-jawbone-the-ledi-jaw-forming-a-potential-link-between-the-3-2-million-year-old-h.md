@@ -8,6 +8,7 @@ Scientists working in Ethiopia have uncovered a jawbone fossil which may push th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-31718336)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81374000/jpg/_81374677_jawbone2.jpg)
 
 ### Related:
 

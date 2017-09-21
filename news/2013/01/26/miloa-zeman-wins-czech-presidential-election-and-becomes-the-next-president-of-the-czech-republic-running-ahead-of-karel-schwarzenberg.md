@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21210495)
 2. [Reuters](http://www.reuters.com/article/2013/01/26/us-czech-election-idUSBRE90P0D120130126)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130126&t=2&i=698014555&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90P156600)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Former high-ranking Chinese army figure Guo Boxiong is expelled from the Communi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-33725125)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/E752/production/_84581295_84581294.jpg)

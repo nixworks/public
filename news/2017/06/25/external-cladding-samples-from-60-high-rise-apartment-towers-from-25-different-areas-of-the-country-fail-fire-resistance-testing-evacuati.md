@@ -9,6 +9,7 @@ The cladding is believed to have rapidly spread the inferno at London&#8217;s Gr
 
 1. [Liverpool Echo](http://www.liverpoolecho.co.uk/news/liverpool-news/watch-cladding-removed-bootle-towers-13236838)
 2. [National Post](http://nationalpost.com/news/world/u-k-testing-cladding-on-towers-after-grenfell-fire-and-all-60-checked-so-far-have-failed/wcm/e093d820-bc19-4301-8b1b-b1062bee264c)
+2. [Cover Image](http://1.gravatar.com/blavatar/bf69214e83fdd5520e4b5d91ba3b7d64?s=200&amp;ts=1498436190)
 
 ### Related:
 

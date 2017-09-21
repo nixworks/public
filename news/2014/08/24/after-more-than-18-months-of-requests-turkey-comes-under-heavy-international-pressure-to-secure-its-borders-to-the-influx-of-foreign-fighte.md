@@ -10,6 +10,7 @@ Islamic State fighters mass on Syria&#x27;s north-western frontier as it seeks t
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_AMERICAN_FREED_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-28918792)
 3. [The Guardian](http://www.theguardian.com/world/2014/aug/23/isis-islamic-state-surges-to-turkish-border)
+3. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2014/8/23/1408803117194/Jabhat-al-Nusra-Syrian-re-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0e253ed04194214a5c94143997963e03)
 
 ### Related:
 

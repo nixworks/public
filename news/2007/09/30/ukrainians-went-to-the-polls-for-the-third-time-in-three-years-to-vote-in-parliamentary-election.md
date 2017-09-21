@@ -9,6 +9,7 @@
 
 1. [AFP](http://afp.google.com/article/ALeqM5gZcA_Nd9ishoPrYCtQPXEYuljIlA)
 2. [ForUm](http://ua.for-ua.com/ukraine/2007/09/30/221300.html)
+2. [Cover Image](http://for-ua.com/static/images/previews/23/233097-2.jpg)
 
 ### Related:
 

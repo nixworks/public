@@ -8,6 +8,7 @@ Accords were the first between them since Pristina declared independence three y
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/201172202625940367.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/2/201172204141782734_20.jpg)
 
 ### Related:
 

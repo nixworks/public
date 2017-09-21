@@ -4,3 +4,7 @@
 
 
 
+
+### Related:
+
+1. [ The George E. Trelease Memorial Baseball Park at Western New England College in Springfield, Massachusetts, is dedicated. ](/news/2004/09/19/the-george-e-trelease-memorial-baseball-park-at-western-new-england-college-in-springfield-massachusetts-is-dedicated.md) _Context: Western New England College_

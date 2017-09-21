@@ -9,6 +9,7 @@ Suspected militants killed six Egyptian soldiers near the Suez Canal and fired r
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/10/egypt-unrest-continues-with-series-attacks-201310716028596332.html)
 2. [Reuters](http://www.reuters.com/article/2013/10/07/us-egypt-protests-idUSBRE99506720131007)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131007&t=2&i=800739533&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9960W1600)
 
 ### Related:
 

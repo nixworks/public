@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/07/us-nissan-airbag-takata-idUSKCN0SW06220151107#6JzJyRCbMy8HjCZG.97)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151107&t=2&i=1093007360&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA6021)
 
 ### Related:
 

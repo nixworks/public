@@ -8,6 +8,7 @@ The New York City Marathon, one of the premier US distance-running events, will 
 ### Source:
 
 1. [RTE](http://www.rte.ie/sport/athletics/2012/1102/344114-new-york-city-marathon-is-cancelled/)
+1. [Cover Image](https://img.rasset.ie/000698e7-1600.jpg)
 
 ### Related:
 

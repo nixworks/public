@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/europes-border-crisis/dalai-lama-thinks-europe-has-let-too-many-refugees-n583701)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_22/1560116/160601-dalai-0439_2b3bd694ae229e7a2e638c3fe1ca935f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

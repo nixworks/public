@@ -9,6 +9,7 @@ Kuwait has declared an &#034;all-out confrontation&#034; with terrorism after an
 
 1. [AFP via ''Melbourne Age](http://www.theage.com.au/world/kuwait-arrests-suspects-after-mosque-bomb-attack-20150627-ghzamf.html)
 2. [Brisbane Times](http://www.brisbanetimes.com.au/world/mass-funeral-for-kuwait-mosque-terror-attack-victims-20150627-ghzjqv.html)
+2. [Cover Image](http://www.theage.com.au/content/dam/images/g/h/z/a/n/u/image.related.articleLeadwide.620x349.ghzamf.png/1435399870054.jpg)
 
 ### Related:
 

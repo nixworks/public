@@ -8,6 +8,7 @@ Brian Cowen has been confirmed as Ireland&#39;s 12th Taoiseach and revealed his 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0507/fiannafail.html)
+1. [Cover Image](https://img.rasset.ie/00017684-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Nine people have been killed in three separate fires in Cape Town&#39;s shack se
 ### Source:
 
 1. [All Africa](http://allafrica.com/stories/201703110046.html)
+1. [Cover Image](http://allafrica.com/static/images/structure/aa-logo-rgba-no-text-128x128.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A blast rips through buses carrying people from pro-government towns, waiting at
 
 1. [AP via Yahoo! News](https://www.yahoo.com/news/thousands-evacuated-syrians-stuck-transfer-stalls-095402714.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-39609288)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/16071/production/_95652209_mediaitem95652208.jpg)
 
 ### Related:
 

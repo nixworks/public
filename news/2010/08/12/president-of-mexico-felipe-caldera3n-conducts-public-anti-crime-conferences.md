@@ -8,6 +8,7 @@ Calderon critical of the amount of people caught and punished for violent crimes
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010812175827745104.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

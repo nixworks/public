@@ -10,3 +10,4 @@ Germany criticises Russia for failing to meet commitments to end the continuing 
 1. [BBC](http://www.bbc.com/news/world-europe-28327453)
 2. [The New York Times](http://www.nytimes.com/2014/07/17/world/europe/obama-widens-sanctions-against-russia.html)
 3. [U.S. Department of Treasury](http://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76314000/jpg/_76314092_023180726-1.jpg)

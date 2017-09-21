@@ -8,6 +8,7 @@ SEOUL (AFP/BLOOMBERG) - South Korean prosecutors on Saturday (Oct 29) raided the
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/asia/east-asia/south-koreas-prosecutors-raid-homes-offices-of-presidential-aides-in-probe-over)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2016/10/29/6-40339372_-_28_10_2016_-_south_korea_protest_government.jpg?itok=cYKS5IsO)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Japan is threatening to shoot down a North Korean rocket that Pyongyang says it 
 
 1. [ABC News](http://www.abc.net.au/news/2012-12-03/japan-threatens-to-shoot-down-north-korean-rocket/4403910)
 2. [Yonhap](http://english.yonhapnews.co.kr/news/2012/12/03/0200000000AEN20121203004751320.HTML)
+2. [Cover Image](http://www.abc.net.au/news/image/3938744-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Opposition activists derailed a train in Bangladesh, killing three people, as pa
 ### Source:
 
 1. [Dawn](http://dawn.com/news/1060436)
+1. [Cover Image](http://i.dawn.com/medium/2013/12/529ebfcf5d4a0.jpg)
 
 ### Related:
 

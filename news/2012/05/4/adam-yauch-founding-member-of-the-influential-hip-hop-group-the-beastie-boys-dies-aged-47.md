@@ -8,6 +8,7 @@ Beastie Boys rapper Adam Yauch has died at the age of 47, after a three-year bat
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17963855)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60050000/jpg/_60050817_2284125.jpg)
 
 ### Related:
 

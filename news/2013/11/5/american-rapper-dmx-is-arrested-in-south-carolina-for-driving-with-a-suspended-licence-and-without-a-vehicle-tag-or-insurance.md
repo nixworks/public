@@ -8,6 +8,7 @@ Rapper DMX, whose real name is EarlSimmons, was arrested outside a South Carolin
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/05/usa-rapper-arrest-idUSL2N0IQ0LL20131105)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

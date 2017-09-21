@@ -8,6 +8,7 @@ A court in the Netherlands orders the government to cut greenhouse gas emissions
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33253772)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/D496/production/_83822445_83822440.jpg)
 
 ### Related:
 

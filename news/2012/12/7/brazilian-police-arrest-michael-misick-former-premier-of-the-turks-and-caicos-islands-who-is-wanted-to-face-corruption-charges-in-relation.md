@@ -8,6 +8,7 @@ Police in Rio de Janeiro arrest former Turks and Caicos PM Michael Misick, accus
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20648357)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64641000/jpg/_64641789_2012-12-07081109.jpg)
 
 ### Related:
 

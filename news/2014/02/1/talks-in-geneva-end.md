@@ -8,6 +8,7 @@ Syrian rival delegations end a week-long peace conference in Geneva by trading i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25983181)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72680000/jpg/_72680001_72680000.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Suspected Islamist militants killed two civilians and a customs officer and burn
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-mali-attacks-idUKKCN0VK0T4)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

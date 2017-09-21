@@ -8,6 +8,7 @@ Van passing underneath crushed as passenger bus falls from elevated highway in t
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/philippines/10519754/Bus-falls-from-elevated-highway-in-Manila-killing-21-and-injuring-20.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02766/philippines_2766572k.jpg)
 
 ### Related:
 

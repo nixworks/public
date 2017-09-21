@@ -8,6 +8,7 @@ If you were suffering from erectile dysfunction, would you take a pill made from
 ### Source:
 
 1. [Medical Daily](http://www.medicaldaily.com/articles/11799/20120829/venom-from-worlds-deadliest-spider-may-relieve-erectile-dysfunction-in-20-minutes-researchers-say.htm)
+1. [Cover Image](http://images.medicaldaily.com/sites/medicaldaily.com/files/2013/08/04/0/58/5804.jpg)
 
 ### Related:
 

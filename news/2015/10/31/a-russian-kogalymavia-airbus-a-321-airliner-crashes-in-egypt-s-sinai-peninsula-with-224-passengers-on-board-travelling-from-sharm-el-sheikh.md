@@ -11,6 +11,7 @@ A Russian airliner crashes in Sinai killing all 224 people on board - rescuers d
 2. [AP via New Jersey Herald](http://www.njherald.com/story/30399604/the-latest-co-pilots-wife-he-complained-about-plane)
 3. [BBC](http://www.bbc.com/news/world-middle-east-34687139?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 4. [The News Hub](https://www.the-newshub.com/international/russian-airplane-crashes-224-possibly-dead)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4576/production/_86428771_8bde42fa-8b1f-4816-b1ee-7264780b2ee6.jpg)
 
 ### Related:
 

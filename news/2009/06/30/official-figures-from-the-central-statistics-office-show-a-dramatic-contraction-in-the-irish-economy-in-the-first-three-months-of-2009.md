@@ -8,6 +8,7 @@ Official figures show that there was a dramatic contraction in the economy in th
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0630/economy1.html)
+1. [Cover Image](https://img.rasset.ie/0001fcd4-1600.jpg)
 
 ### Related:
 

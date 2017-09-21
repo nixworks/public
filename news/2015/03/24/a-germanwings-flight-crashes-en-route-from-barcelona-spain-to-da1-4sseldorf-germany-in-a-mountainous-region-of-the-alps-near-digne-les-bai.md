@@ -11,6 +11,7 @@ An Airbus A320 with 144 passengers and 6 crewmembers has crashed in Digne region
 2. [RT](http://rt.com/news/243669-germanwings-flight-recorder-found)
 3. [Reuters](http://www.reuters.com/article/2015/03/24/us-france-crash-airbus-lufthansa-idUSKBN0MK0ZP20150324)
 4. [The Guardian](http://www.theguardian.com/world/2015/mar/24/germanwings-plane-black-box-found-as-investigators-reach-crash-site)
+4. [Cover Image](https://img.rt.com/files/news/3b/74/50/00/18.si.jpg)
 
 ### Related:
 

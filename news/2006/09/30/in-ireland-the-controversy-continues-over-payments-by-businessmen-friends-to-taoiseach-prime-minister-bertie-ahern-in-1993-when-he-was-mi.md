@@ -9,6 +9,7 @@
 
 1. [Irish Times](http://home.eircom.net/content/irelandcom/topstories/8995843?view=Eircomnet)
 2. [RTÉ](http://www.rte.ie/news/2006/0930/ahernb.html)
+2. [Cover Image](https://img.rasset.ie/00001b99-1600.jpg)
 
 ### Related:
 

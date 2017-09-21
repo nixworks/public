@@ -8,6 +8,7 @@ The killings served as a vicious reminder that the months-long decline in daily 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2007/12/06/world/middleeast/06iraq.html?ref=world)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

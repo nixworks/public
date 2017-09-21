@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-12-26-Japan-Politics/id-625146b879094f4ca50e18df9b20fc84)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20842840)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64942000/jpg/_64942812_g9bsci7z.jpg)
 
 ### Related:
 

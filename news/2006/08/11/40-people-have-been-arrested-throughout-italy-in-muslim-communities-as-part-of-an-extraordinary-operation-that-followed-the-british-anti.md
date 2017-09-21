@@ -9,6 +9,7 @@ Investigators are tracing the money trail back to Pakistan, where one Briton who
 
 1. [Daily Mail](http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=400114&in_page_id=1770&ct=5)
 2. [Fox News](http://www.foxnews.com/story/0,2933,207898,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

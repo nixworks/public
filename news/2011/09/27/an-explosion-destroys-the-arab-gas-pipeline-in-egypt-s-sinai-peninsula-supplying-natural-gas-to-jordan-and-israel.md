@@ -8,6 +8,7 @@ An explosion destroyed anEgyptian pipeline in Sinai that supplies Israel and Jor
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/09/27/egypt-pipeline-idUSL5E7KR00B20110927)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

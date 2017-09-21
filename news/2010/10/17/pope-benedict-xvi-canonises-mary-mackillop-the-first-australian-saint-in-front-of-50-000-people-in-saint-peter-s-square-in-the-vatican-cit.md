@@ -12,6 +12,7 @@
 3. [Herald Sun](http://www.heraldsun.com.au/news/special-reports/australians-tell-of-mary-mackillopsmiracles/story-fn6rlm9d-1225939641699)
 4. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Thousands-in-Rome-to-celebrate-Australias-first-saint/articleshow/6753255.cms)
 5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3970337,00.html)
+5. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

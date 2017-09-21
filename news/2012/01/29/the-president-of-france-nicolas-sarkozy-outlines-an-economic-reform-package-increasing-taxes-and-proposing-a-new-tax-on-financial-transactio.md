@@ -8,6 +8,7 @@ French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;unveiled&#x20;economic&#x20
 ### Source:
 
 1. [AFP via France24](http://www.france24.com/en/20120129-france-sarkozy-unveils-economic-reforms-televised-address)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/sarkozy-main.jpg)
 
 ### Related:
 

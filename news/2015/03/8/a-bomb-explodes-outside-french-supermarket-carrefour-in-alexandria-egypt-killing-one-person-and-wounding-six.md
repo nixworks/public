@@ -8,6 +8,7 @@ A bomb has exploded outside a branch of a French supermarket chain in Alexandria
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/Africa/News/1-killed-6-wounded-in-Egypt-blast-20150308)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2962/c40c1f52078d46eb8ad4082263ca54ed.gif)
 
 ### Related:
 

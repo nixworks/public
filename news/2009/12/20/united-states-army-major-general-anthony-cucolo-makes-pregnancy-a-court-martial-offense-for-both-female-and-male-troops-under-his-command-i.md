@@ -9,6 +9,7 @@ WASHINGTON: A US Army general in Iraq has added pregnancy to the list of reasons
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8422989.stm)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/general-declares-war-on-pregnancy-20091220-l7jq.html)
+2. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

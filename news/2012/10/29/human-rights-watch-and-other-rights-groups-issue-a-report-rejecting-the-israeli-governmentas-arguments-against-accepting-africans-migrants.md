@@ -9,6 +9,7 @@ Human rights groups criticise Israel for the treatment of migrants trying to ent
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/201210296818369667.html)
 2. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=289549)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/29//201210296416884734_20.jpg)
 
 ### Related:
 

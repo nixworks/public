@@ -9,6 +9,7 @@ More from Trail Guide Dec. 11 Ben Carson joins Donald Trump as a threat to leave
 
 1. [Los Angeles Times'' blog](http://www.latimes.com/nation/politics/trailguide/la-na-trailguide-10212015-htmlstory.html)
 2. [Washington Post](http://www.washingtonpost.com/politics/biden-decides-against-a-2016-presidential-bid/2015/10/19/bfb58df8-7089-11e5-8248-98e0f5a2e830_story.html)
+2. [Cover Image](http://www.trbimg.com/img-5627b9d5/turbine/la-na-trailguide-10212015)
 
 ### Related:
 

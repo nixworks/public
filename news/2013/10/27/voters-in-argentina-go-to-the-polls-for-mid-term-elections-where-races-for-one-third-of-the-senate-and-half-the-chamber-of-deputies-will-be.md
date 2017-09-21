@@ -8,6 +8,7 @@ A strong showing by the Renewal Front party suggested a vulnerability in the lon
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/10/29/world/americas/opposition-party-makes-gains-in-argentine-elections.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/10/29/world/argentine-2/argentine-2-videoSixteenByNine1050.jpg)
 
 ### Related:
 

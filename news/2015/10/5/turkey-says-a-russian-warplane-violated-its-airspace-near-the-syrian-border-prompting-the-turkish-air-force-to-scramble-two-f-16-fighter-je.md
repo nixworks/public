@@ -8,6 +8,7 @@ The United States and NATO denounced Russia on Monday for violating Turkish airs
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/10/05/us-mideast-crisis-syria-turkey-russia-idUSKCN0RZ0FT20151005?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151005&t=2&i=1084723807&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB940CY)
 
 ### Related:
 

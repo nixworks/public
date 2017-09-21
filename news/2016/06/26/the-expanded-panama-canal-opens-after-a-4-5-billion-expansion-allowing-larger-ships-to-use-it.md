@@ -8,6 +8,7 @@ Chinese freighter laden with nearly 9,500 metal cargo containers transited the e
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-panama-canal-expansion-20160626-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-57707968/turbine/la-fg-panama-canal-expansion-20160626-snap)
 
 ### Related:
 

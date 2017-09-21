@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/28/us-airforce-boeing-idUSKBN0L12FP20150128)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150128&t=2&i=1020681868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0R102)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A two-day military offensive kills at least 37 Philippine rebels who opposed a r
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25943091)
 2. [New York Times](http://www.nytimes.com/2014/01/30/world/asia/dozens-of-rebels-killed-after-philippine-peace-deal-is-struck.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/72592000/jpg/_72592566_bangsamoro.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The start of the Thaad deployment comes a day after North Korea launched four ba
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39188826)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13B6/production/_94964050_mediaitem94964049.jpg)
 
 ### Related:
 

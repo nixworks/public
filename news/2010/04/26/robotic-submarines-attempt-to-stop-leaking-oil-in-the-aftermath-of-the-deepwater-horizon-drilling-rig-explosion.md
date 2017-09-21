@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/robot-subs-trying-to-stop-oil-leak-deep-below-gulf-of-mexico/article1547673/)
+1. [Cover Image](http://static.theglobeandmail.ca/828/migration_catalog/article3954599.ece/ALTERNATES/w620/oil+rig+BP+Gulf+of+Mexico)
 
 ### Related:
 

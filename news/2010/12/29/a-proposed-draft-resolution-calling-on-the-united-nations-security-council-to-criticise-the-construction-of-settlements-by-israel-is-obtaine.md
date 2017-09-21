@@ -8,6 +8,7 @@ Proposed draft resolution calls on Security Council to condemn Israeli settlemen
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/20101229183029615952.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/30/2010830132636933580_20.jpg)
 
 ### Related:
 

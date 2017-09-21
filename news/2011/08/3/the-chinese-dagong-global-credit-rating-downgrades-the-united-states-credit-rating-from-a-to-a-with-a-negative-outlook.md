@@ -8,6 +8,7 @@ China warns tortured efforts to raise the US debt ceiling have failed to defuse 
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/business/world-business/china-to-limit-us-exposure-blasts-debt-bomb-20110803-1iarg.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/0/k/j/g/image.related.thumbnail.320x214.1iarg.png/1312344837343.jpg)
 
 ### Related:
 

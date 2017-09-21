@@ -8,6 +8,7 @@ BUDAPEST, Hungary &amp;#8212; The latest surge of migrants crossing the Balkans 
 ### Source:
 
 1. [AP via ''The Columbian](http://www.columbian.com/news/2015/aug/25/record-number-of-migrants-arrive-in-hungary/)
+1. [Cover Image](http://16749-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/columbian/static/img/columbian_c_200x200.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.
 ### Source:
 
 1. [The Hill](http://thehill.com/policy/finance/337004-house-passes-sweeping-bill-to-strip-post-recession-banking-rules)
+1. [Cover Image](http://thehill.com/sites/default/files/ryanpaul_050217gn6_lead.jpg)
 
 ### Related:
 

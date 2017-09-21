@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69K2HM20101021)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20101021&t=2&i=230755695&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-21T132538Z_01_BTRE69K11AS00_RTROPTP_0_MYANMAR-FLAG)
 
 ### Related:
 

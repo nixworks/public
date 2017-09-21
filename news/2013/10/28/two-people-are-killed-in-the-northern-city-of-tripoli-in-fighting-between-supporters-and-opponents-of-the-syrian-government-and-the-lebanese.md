@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/28/us-syria-crisis-tripoli-idUSBRE99R0KV20131028)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131028&t=2&i=806822866&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99R14SM00)
 
 ### Related:
 

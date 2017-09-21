@@ -9,6 +9,7 @@ Dharamsala, March 20 (IANS) Even as Tibetan spiritual leader the Dalai Lama reje
 
 1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20110320-326603/Exiled-Tibetans-elect-new-leader)
 2. [Sify India](http://www.sify.com/news/polling-on-to-elect-new-tibetan-pm-news-national-lduo4egdjhf.html)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

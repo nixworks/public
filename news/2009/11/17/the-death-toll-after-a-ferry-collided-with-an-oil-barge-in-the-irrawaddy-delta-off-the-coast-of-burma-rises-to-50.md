@@ -8,6 +8,7 @@ Up to 50 feared drowned after nighttime ferry collision in Irrawady delta region
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/200911178123358981.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

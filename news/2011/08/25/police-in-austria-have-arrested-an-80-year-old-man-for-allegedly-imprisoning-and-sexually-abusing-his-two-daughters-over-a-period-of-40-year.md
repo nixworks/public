@@ -8,6 +8,7 @@ Police in Austria arrest a man suspected of imprisoning and sexually abusing his
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14668270)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54822000/jpg/_54822458_54822457.jpg)
 
 ### Related:
 

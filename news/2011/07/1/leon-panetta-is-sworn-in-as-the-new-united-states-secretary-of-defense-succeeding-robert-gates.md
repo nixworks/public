@@ -8,6 +8,7 @@ New US Defence Secretary Leon Panetta pledges to maintain the &quot;excellence&q
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13998664)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53816000/gif/_53816298_20ntg2vq.gif)
 
 ### Related:
 

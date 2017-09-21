@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20881552)
 2. [CNN](http://www.cnn.com/2013/01/01/world/africa/ivory-coast-deaths)
 3. [Reuters](http://www.reuters.com/article/2013/01/01/us-ivorycoast-stadium-idUSBRE90003Z20130101)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130101&t=2&i=690129330&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9001MTF00)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Here are the key times to know as we await an outcome from the US election.
 4. [News.com.au](http://www.news.com.au/world/north-america/the-awkward-first-election-day-vote-in-the-us-presidential-race-has-not-gone-down-well/news-story/a4d3dedc37fb080db90ed75f38ee1d2f)
 5. [The New York Times](http://www.nytimes.com/elections/results/senate)
 6. [The Telegraph](http://www.telegraph.co.uk/news/0/us-election-2016-live-results-exit-polls-donald-trump-clinton1/)
+6. [Cover Image](http://www.abc.net.au/news/image/8006798-1x1-700x700.jpg)
 
 ### Related:
 

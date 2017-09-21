@@ -9,6 +9,7 @@ South Sudan says it is suspending talks with the north, accusing President Bashi
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12723872)
 2. [Reuters](http://af.reuters.com/article/sudanNews/idAFHEA25340420110312?sp=true)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

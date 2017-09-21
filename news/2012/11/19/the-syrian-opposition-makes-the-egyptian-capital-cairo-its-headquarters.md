@@ -11,6 +11,7 @@ Announcement comes as new video emerges purporting to show opposition fighters a
 2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i-qVeEInoOTVkMbHe--041BmmeFw)
 3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/2012111911381329715.html)
 4. [Pan Armenian](http://www.panarmenian.net/eng/news/133038/)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/15/2012111517492652734_20.jpg)
 
 ### Related:
 

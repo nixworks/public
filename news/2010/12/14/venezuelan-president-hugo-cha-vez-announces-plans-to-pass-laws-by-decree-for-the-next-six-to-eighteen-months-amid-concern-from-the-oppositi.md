@@ -8,6 +8,7 @@ Venezuelan parliament supports in first vote president’s controversial proposa
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/201012146225420220.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/21/2010102123410993846_20.jpg)
 
 ### Related:
 

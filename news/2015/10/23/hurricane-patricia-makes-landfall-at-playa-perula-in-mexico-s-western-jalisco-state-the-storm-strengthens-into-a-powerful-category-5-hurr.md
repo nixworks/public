@@ -11,6 +11,7 @@ Mexico&#039;s president has warned residents not to lower their guard after Hurr
 2. [NBC](http://www.nbcnews.com/news/weather/hurricane-patricia-races-mexicos-pacific-coast-potential-monster-n449731)
 3. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/211140.shtml)
 4. [Reuters](http://www.trust.org/item/20151022183939-hmioy)
+4. [Cover Image](http://www.abc.net.au/news/image/6882466-1x1-700x700.jpg)
 
 ### Related:
 

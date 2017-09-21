@@ -9,6 +9,7 @@
 
 1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/news/article/18-students-die-after-landslide-hits-China-school-3918030.php)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-china-19825402)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63293000/jpg/_63293255_63293254.jpg)
 
 ### Related:
 

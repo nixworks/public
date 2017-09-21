@@ -8,6 +8,7 @@ The president of the European Council says British PM Theresa May told him she c
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37394808)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9715/production/_91277683_mediaitem91277682.jpg)
 
 ### Related:
 

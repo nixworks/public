@@ -11,6 +11,7 @@ CHARLOTTE, N.C.—Facing unhappy pro-Israel groups amid a Republican-led outcry,
 2. [The Ticket via Yahoo! News](http://news.yahoo.com/blogs/ticket/democrats-reinstate-god-jerusalem-israel-capital-party-platform-223437220--election.html?_esi=1)
 3. [Tick 2](http://news.yahoo.com/blogs/ticket/albright-obama-wanted-jerusalem-change-platform-005936752--election.html?_esi=1)
 4. [Washington Post](http://www.washingtonpost.com/politics/bill-clinton-will-highlight-convention-tonight/2012/09/05/f6d5dcf2-f797-11e1-8398-0327ab83ab91_story.html)
+4. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

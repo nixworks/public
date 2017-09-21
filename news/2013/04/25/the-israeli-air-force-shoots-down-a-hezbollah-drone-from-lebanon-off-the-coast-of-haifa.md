@@ -8,6 +8,7 @@ F-16 shoots down vessel over Mediterranean; not clear whether drone was armed; H
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Defense/IAF-shoots-down-drone-which-flew-south-from-Lebanon-311098)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=160869)
 
 ### Related:
 

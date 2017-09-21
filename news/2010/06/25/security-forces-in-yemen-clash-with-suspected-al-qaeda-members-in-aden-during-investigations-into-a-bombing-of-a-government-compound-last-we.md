@@ -8,6 +8,7 @@ Fighting erupts in Aden as police search for men behind attack on intelligence f
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/06/201062513293152224.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

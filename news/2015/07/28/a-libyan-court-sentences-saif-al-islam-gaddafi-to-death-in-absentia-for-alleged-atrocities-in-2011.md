@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/07/28/libya-court-sentences-qaddafi-son-to-death-in-absentia-for-2011-killings/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/07/28/libya-court-sentences-qaddafi-son-to-death-in-absentia-for-2011-killings/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1438078694145.jpg?ve=1)
 
 ### Related:
 

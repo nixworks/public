@@ -9,6 +9,7 @@ Reviving the long-stagnant economy is the top priority for voters.
 
 1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2013-07-21/abe-election-win-sets-up-next-battle-as-japan-reform-fights-loom)
 2. [USA Today](http://www.usatoday.com/story/news/world/2013/07/20/japan-election-abe-economy/2570723/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

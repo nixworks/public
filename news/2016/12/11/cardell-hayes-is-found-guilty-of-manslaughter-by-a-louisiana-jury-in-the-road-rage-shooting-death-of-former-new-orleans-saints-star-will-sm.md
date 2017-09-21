@@ -8,6 +8,7 @@ Deliberations began Sunday evening in the case of a man charged with second-degr
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/will-smith-case-cardell-hayes-found-guilty-of-manslaughter-in-fatal-shooting-of-ex-saints-player/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/04/11/ad2a7a1b-a654-4574-800f-7dd263e6536c/cardellhayes14602968809701508512ver1-0.jpg)
 
 ### Related:
 

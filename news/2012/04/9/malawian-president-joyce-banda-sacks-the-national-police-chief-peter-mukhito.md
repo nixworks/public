@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Newstime Africa](http://www.newstimeafrica.com/archives/25079)
+1. [Cover Image](http://www.newstimeafrica.com/wp-content/uploads/2012/04/Police-Chief-Peter-Mukhito-150x150.jpg)
 
 ### Related:
 

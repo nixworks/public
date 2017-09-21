@@ -11,6 +11,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 2. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=Flood+relief+scam%3A+Buta+clarifies+stand&id=72169)
 3. [Times of India](http://timesofindia.indiatimes.com/articleshow/1088997.cms)
 4. [Times of India](http://timesofindia.indiatimes.com/articleshow/1091145.cms)
+4. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

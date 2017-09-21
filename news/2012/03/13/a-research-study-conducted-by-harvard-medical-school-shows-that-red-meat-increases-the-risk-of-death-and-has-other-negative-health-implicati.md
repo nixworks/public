@@ -8,6 +8,7 @@ A diet high in red meat can shorten life expectancy, according to researchers at
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-17345967)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59028000/jpg/_59028722_009196677-1.jpg)
 
 ### Related:
 

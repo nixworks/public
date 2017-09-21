@@ -8,6 +8,7 @@ After 172 days and 431 million kilometers (268 million miles) of deep space stal
 ### Source:
 
 1. [NASA](http://www.nasa.gov/mission_pages/deepimpact/media/deepimpact-070405-1.html)
+1. [Cover Image](http://www.nasa.gov/sites/default/files/pia02121.jpg)
 
 ### Related:
 

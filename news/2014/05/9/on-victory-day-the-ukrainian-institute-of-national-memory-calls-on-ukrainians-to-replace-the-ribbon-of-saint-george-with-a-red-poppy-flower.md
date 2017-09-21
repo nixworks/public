@@ -9,6 +9,7 @@ Symbol of defeat of Nazi Germany seen in new light by neighbouring states
 
 1. [AFP via ''Zeenews](http://zeenews.india.com/news/world/triumphant-russia-subdued-ukraine-eye-victory-day-celebrations_930375.html)
 2. [Irish Times](http://www.irishtimes.com/news/world/europe/russian-ribbon-of-saint-george-divides-former-soviet-empire-1.1788933)
+2. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1788932&origw=1440)
 
 ### Related:
 

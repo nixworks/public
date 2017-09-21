@@ -8,6 +8,7 @@ Study says long hours spent studying and lack of outdoor light to blame for 90 p
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/20125416826870694.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/4/20125416235728734_20.jpg)
 
 ### Related:
 

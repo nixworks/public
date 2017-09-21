@@ -8,6 +8,7 @@ British woman who is a member of the No Borders activist group, which French off
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/12177718/Calais-jungle-Migrants-set-tents-on-fire-as-riot-police-attempt-to-evict-them.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03585/calais_3585500k.jpg)
 
 ### Related:
 

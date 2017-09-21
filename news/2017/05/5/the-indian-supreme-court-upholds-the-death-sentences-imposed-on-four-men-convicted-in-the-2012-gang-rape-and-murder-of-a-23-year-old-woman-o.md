@@ -8,6 +8,7 @@ The Supreme Court on Friday upheld death sentences against four men who fatally 
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/india-court-gangrape-nirbhaya-delhi-idINKBN1810TO)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170505&t=2&i=1183381205&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED440TY)
 
 ### Related:
 

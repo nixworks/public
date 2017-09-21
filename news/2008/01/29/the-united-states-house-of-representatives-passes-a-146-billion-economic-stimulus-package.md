@@ -8,6 +8,7 @@ The House, seizing a rare moment of bipartisanship to respond to the economy’s
 ### Source:
 
 1. [AP via ''The New York Times](http://www.nytimes.com/2008/01/29/washington/30wire-stim.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

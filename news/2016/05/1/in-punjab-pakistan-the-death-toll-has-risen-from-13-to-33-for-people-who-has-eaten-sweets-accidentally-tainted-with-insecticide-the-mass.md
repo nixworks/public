@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Times](http://dailytimes.com.pk/pakistan/02-May-16/death-toll-from-poisoned-sweets-climbs-to-33-in-punjab)
+1. [Cover Image](http://dailytimes.com.pk/static/uploads/original/death-toll-from-poisoned-sweets-climbs-to-33-in-punjab-393a00126568753fdeacb96658fd9027.jpg )
 
 ### Related:
 

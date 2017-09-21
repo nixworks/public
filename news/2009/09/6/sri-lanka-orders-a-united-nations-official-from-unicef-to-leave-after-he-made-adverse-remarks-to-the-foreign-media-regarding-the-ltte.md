@@ -10,6 +10,7 @@ Sri Lanka has ordered a senior UN official to leave the country for his &quot;pr
 1. [The Island](http://www.island.lk/2009/09/07/news3.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6824039.ece)
 3. [Times of India](http://timesofindia.indiatimes.com/news/world/south-asia/UN-officials-visa-cancelled-for-propaganda-support-to-LTTE-Lanka/articleshow/4980163.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

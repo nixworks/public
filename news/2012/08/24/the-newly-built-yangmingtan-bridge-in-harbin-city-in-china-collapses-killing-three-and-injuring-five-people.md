@@ -8,6 +8,7 @@ A section of a multi-million dollar bridge in China that opened in November has 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19365154)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62466000/jpg/_62466611_015772321-1.jpg)
 
 ### Related:
 

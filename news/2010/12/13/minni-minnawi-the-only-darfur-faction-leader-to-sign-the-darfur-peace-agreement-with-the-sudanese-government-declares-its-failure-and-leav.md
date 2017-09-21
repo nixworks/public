@@ -8,6 +8,7 @@ Minni Minnawi, the only leader to sign Darfur peace deal with government, blames
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010121364520272117.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/13/2010121391302797_20.jpg)
 
 ### Related:
 

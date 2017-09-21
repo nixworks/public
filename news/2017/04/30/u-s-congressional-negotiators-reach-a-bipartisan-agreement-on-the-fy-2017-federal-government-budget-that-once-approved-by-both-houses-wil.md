@@ -9,6 +9,7 @@ U.S. House and Senate negotiators reached a bipartisan deal on a $1.16 trillion 
 
 1. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-05-01/congress-strikes-tentative-deal-on-1-1-trillion-spending-bill)
 2. [The New York Times](https://www.nytimes.com/2017/04/30/us/politics/bipartisan-agreement-reached-to-fund-government-through-september.html?_r=0)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihw1CX0dvI7o/v0/1200x675.jpg)
 
 ### Related:
 

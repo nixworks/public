@@ -8,6 +8,7 @@ Fairfax County Police said they are not investigating the attack as a hate crime
 ### Source:
 
 1. [USA Today](https://www.usatoday.com/story/news/nation-now/2017/06/19/nabra-hassanen-assaulted-killed-after-leaving-mosque-police-say/408012001/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

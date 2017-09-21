@@ -8,6 +8,7 @@ U.S. health officials said on Wednesday they are still receiving reports of peop
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN1127403120080612)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080612&t=2&i=4739191&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-12T121547Z_01_N11274031_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

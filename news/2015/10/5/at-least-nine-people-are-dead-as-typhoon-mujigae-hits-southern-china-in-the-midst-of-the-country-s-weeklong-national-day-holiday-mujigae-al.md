@@ -11,6 +11,7 @@ Typhoon Mujigae prompted evacuation of about 200,000 people in southern China.
 2. [International Business Times](http://www.ibtimes.com/typhoon-mujigae-kills-8-south-china-leaves-dozens-missing-2126345)
 3. [Manila Sun Star](http://www.sunstar.com.ph/manila/local-news/2015/10/04/kabayan-claims-2-lives-433910)
 4. [Philippine Star](http://www.philstar.com/headlines/2015/10/04/1507068/storm-kabayan-leaves-two-dead)
+4. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/10/05/typhoon-mujigae.jpg)
 
 ### Related:
 

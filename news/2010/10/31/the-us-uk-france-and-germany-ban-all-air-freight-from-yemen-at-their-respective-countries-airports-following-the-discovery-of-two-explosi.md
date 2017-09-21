@@ -8,6 +8,7 @@ Al-Qaida in Yemen suspected of sending cargo bombs reportedly destined for two C
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=193382)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=152078)
 
 ### Related:
 

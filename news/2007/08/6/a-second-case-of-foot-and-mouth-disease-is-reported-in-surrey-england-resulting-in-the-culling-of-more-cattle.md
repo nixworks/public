@@ -8,6 +8,7 @@ Britain&#039;s chief vet says another suspected case of foot and mouth disease h
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/07/1998164.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2522150-1x1-700x700.jpg)
 
 ### Related:
 

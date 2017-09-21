@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/move-ph/155140-left-burn-effigy-duterte-authoritarian-tendencies)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/697134256F3B41AA8641505C114E3B28/img_4302.jpg)
 
 ### Related:
 

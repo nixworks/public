@@ -8,6 +8,7 @@ The French air force used its first cruise missiles against Islamic State group 
 ### Source:
 
 1. [AFP via Defense News](http://www.defensenews.com/story/defense/international/mideast-africa/2015/12/15/france-uses-first-cruise-missiles-against-defense-ministry-says/77359138/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/2f/46/5d227e2046f8a4655a5ed5759aa3/635857784917963961-gettyimages-148950926jpg)
 
 ### Related:
 

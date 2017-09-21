@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-34711923)
 2. [New York Times](http://www.nytimes.com/2015/11/04/world/asia/leaders-of-china-and-taiwan-to-meet-for-first-time-since-1949.html?_r=0)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3A3D/production/_86490941_taiwan_china976.jpg)
 
 ### Related:
 

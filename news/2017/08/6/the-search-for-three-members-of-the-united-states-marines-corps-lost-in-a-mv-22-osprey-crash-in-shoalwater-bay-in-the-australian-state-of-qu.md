@@ -8,6 +8,7 @@ A search operation for three US marines missing off the Queensland coast has bee
 ### Source:
 
 1. [Sky News](http://www.skynews.com.au/news/top-stories/2017/08/06/search-for-us-marines-missing-off-qld-coast.html)
+1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/news/top-stories/2017/08/06/skynews_1909165394.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

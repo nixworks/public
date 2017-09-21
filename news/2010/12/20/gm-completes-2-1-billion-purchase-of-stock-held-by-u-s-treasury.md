@@ -8,6 +8,7 @@ The 84 million shares of stock have been purchased nowadays by GM from the UST a
 ### Source:
 
 1. [Business Today](http://www.businesstoday-eg.com/banking-finance/united-states/gm-completes-21-billion-purchase-of-stock-held-by-us-treasury.html)
+1. [Cover Image](http://www.businesstoday-eg.com/images/bankingfinance/gm-completes-21-billion-purchase-of-stock-held-by-us-treasury.jpg)
 
 ### Related:
 

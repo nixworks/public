@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/haiti/article10510883.html)
+1. [Cover Image](http://www.miamiherald.com/news/nation-world/world/americas/haiti/u69hsw/picture10564265/ALTERNATES/LANDSCAPE_1140/537949871.JPG)
 
 ### Related:
 

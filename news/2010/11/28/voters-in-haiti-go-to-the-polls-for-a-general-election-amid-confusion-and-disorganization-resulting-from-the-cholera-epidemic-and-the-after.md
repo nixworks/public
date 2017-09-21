@@ -11,6 +11,7 @@
 2. [AP via Yahoo! News](http://news.yahoo.com/s/nm/20101128/wl_nm/us_haiti_elections)
 3. [Reuters](http://www.reuters.com/article/idUSN2814515320101128)
 4. [Voice of America](http://www.voanews.com/english/news/Turnout-Remains-Big-Question-in-Haiti-Election-110911359.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20101128&t=2&i=260295064&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-28T234633Z_01_BTRE6AR1U1O00_RTROPTP_0_HAITI-ELECTIONS)
 
 ### Related:
 

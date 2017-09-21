@@ -8,6 +8,7 @@ New guidelines for cervical cancer screening say women should delay their first 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/11/20/health/20pap.html?emc=na)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Israeli army offiocial tell inquiry that troops were right to use live ammunitio
 3. [Haaretz](http://www.haaretz.com/print-edition/news/ashkenazi-next-time-idf-will-use-snipers-to-halt-gaza-bound-flotillas-1.307435)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/aug/11/israel-military-chief-flotilla-testimony)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13440685.htm)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

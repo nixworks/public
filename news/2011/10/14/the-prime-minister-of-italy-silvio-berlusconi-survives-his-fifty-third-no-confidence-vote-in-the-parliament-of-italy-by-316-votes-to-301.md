@@ -9,6 +9,7 @@ The prime minister’s center-right coalition failed to secure a solid majority,
 
 1. [International Business Times](http://uk.ibtimes.com/articles/231297/20111014/berlusconi-confidence-vote-win-bunga-bunga-parliament.htm)
 2. [New York Times](http://www.nytimes.com/2011/10/15/world/europe/berlusconi-holds-onto-power-in-italy-but-barely.html)
+2. [Cover Image](https://static01.nyt.com/images/2011/10/15/world/15italy-span/15italy-span-thumbStandard.jpg)
 
 ### Related:
 

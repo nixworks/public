@@ -8,6 +8,7 @@ More than 3,000 police and soldiers backed by armored personnel carriers raced i
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/45275310#.Tr9nkfRFuso)
+1. [Cover Image](http://media4.s-nbcnews.com/j/ap/brazil rio violence--1233247446_v2.standard.jpg)
 
 ### Related:
 

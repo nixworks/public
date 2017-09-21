@@ -8,6 +8,7 @@ Atleast 12 people are feared dead in a road accident in Udhampur district of Jam
 ### Source:
 
 1. [Greater Kashmir](http://www.greaterkashmir.com/news/jammu/story/206980.html)
+1. [Cover Image](http://www.greaterkashmir.com/cms/gall_content/2016/1/2016_1$largeimg215_Jan_2016_111733370.jpg)
 
 ### Related:
 

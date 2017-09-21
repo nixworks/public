@@ -10,6 +10,7 @@ Two teenagers have been charged in connection with racist attacks on Romanian fa
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8110950.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8111278.stm)
 3. [RTÉ](http://www.rte.ie/news/2009/0620/racism.html)
+3. [Cover Image](https://img.rasset.ie/000262bb-1600.jpg)
 
 ### Related:
 

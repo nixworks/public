@@ -9,6 +9,7 @@ F-16 jet shoots down apparent engine-powered balloon that flew in forbidden zone
 
 1. [Arutz Sheva](http://www.israelnationalnews.com/News/News.aspx/141186)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4000365,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

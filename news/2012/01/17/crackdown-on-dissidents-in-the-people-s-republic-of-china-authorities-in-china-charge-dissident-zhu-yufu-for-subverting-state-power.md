@@ -8,6 +8,7 @@ Zhu Yufu became the latest advocate to be swept up in a continuing series of arr
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/01/18/world/asia/china-continues-arrests-of-prominent-dissidents.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

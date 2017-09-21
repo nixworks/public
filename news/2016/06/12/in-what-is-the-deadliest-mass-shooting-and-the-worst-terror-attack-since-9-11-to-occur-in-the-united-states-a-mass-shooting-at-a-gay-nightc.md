@@ -14,6 +14,7 @@ The death toll in a shooting in a gay nightclub in Orlando, Florida, has risen t
 5. [NBC News](http://www.nbcnews.com/storyline/orlando-nightclub-massacre/terror-hate-what-motivated-orlando-nightclub-shooter-n590496)
 6. [Reuters](http://www.reuters.com/article/us-florida-shooting-claim-idUSKCN0YY0VU)
 7. [The New York Times](http://www.nytimes.com/live/orlando-nightclub-shooting-live-updates/)
+7. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/87AF/production/_89953743_89953740.jpg)
 
 ### Related:
 

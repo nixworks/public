@@ -8,6 +8,7 @@ North Korean guns remain silent as South Korea conducts controversial live-fire 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/12/201012210236682346.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/21/201012210394354734_20.jpg)
 
 ### Related:
 

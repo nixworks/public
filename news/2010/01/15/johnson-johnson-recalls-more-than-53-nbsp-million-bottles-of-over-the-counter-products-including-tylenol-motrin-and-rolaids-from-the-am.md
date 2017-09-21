@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE60E2L420100115)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100115&t=2&i=46099183&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-15T215337Z_01_BTRE60E13GH00_RTROPTP_0_CANADA)
 
 ### Related:
 

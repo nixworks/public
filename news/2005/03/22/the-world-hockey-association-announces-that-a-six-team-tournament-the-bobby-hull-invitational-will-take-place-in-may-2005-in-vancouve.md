@@ -8,6 +8,7 @@ The WHA will hold a tournament at the home of the Vancouver Canucks and may land
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/nhl/columns/story?id=2018949)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

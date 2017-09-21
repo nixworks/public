@@ -9,6 +9,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 1. [IHT](http://www.iht.com/articles/2005/05/01/news/nepal.php)
 2. [NDTV](http://www.ndtv.com/template/template.asp?template=nepalturmoil&slug=Nepal+king+still+reins+supreme&id=72365&callid=1)
+2. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

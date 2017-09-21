@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/04/South-Korea-agrees-to-military-hotline-with-China/4351446662720/?spt=rln&or=5)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/4351446662720/2015/1/14466631084661/v2.1/South-Korea-agrees-to-military-hotline-with-China.jpg)
 
 ### Related:
 

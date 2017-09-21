@@ -8,6 +8,7 @@ Six people are killed and some 100 others wounded as militants step up attacks a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25874370)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72510000/jpg/_72510758_72510757.jpg)
 
 ### Related:
 

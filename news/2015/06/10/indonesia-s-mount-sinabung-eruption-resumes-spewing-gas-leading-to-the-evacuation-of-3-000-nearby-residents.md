@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP and AP via ''Economic Times](http://economictimes.indiatimes.com/slideshows/nation-world/indonesias-mount-sinabung-spews-volcanic-lava/slideshow/47610394.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-47610394,width-672,resizemode-4/slideshows/nation-world/indonesias-mount-sinabung-spews-volcanic-lava.jpg)
 
 ### Related:
 

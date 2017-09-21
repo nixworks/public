@@ -8,6 +8,7 @@ The judge who led the inquiry into serial killer Harold Shipman will chair an in
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/politics/9613014/BBCs-Jimmy-Savile-probe-to-be-led-by-Harold-Shipman-inquiry-judge.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02368/savilepa_2368039k.jpg)
 
 ### Related:
 

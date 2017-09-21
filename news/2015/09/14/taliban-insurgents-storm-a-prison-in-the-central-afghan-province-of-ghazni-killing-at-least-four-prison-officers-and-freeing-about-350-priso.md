@@ -8,6 +8,7 @@ Taliban militants storm a jail in Ghazni, central Afghanistan, killing at least 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-34241882)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/183DC/production/_85529299_b58d1082-41b1-4c05-8024-4dc6c913cf14.jpg)
 
 ### Related:
 

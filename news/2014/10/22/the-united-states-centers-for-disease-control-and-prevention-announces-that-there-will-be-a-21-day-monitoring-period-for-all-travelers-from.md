@@ -8,6 +8,7 @@ The Centers for Disease Control and Prevention on Wednesday announced that all t
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2014/10/22/cdc-requiring-21-day-monitoring-for-all-travelers-arriving-from-ebola-stricken/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/102214/0/0/102214_anr_roberts_640.jpg?ve=1)
 
 ### Related:
 

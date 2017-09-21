@@ -8,3 +8,4 @@ New U.S. single-family home sales unexpectedly surged in July, reaching their hi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-housing-idUSKCN10Y1JT)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160823&t=2&i=1150741840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7M0VF)

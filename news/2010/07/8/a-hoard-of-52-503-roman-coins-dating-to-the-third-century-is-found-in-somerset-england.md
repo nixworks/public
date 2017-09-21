@@ -9,6 +9,7 @@ One of the largest ever finds of Roman coins in Britain has been made by a man u
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/uk/10546960.stm)
 2. [The Telegraph](http://www.telegraph.co.uk/culture/7879099/Roman-coin-hoard-found-the-weight-of-two-men.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

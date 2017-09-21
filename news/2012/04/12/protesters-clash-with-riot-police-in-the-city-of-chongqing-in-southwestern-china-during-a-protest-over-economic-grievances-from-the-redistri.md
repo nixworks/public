@@ -8,6 +8,7 @@ Order was being restored Wednesday after thousands of people clashed with police
 ### Source:
 
 1. [AP via Yahoo!](http://news.yahoo.com/protesters-clash-riot-police-chinese-city-115041602.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

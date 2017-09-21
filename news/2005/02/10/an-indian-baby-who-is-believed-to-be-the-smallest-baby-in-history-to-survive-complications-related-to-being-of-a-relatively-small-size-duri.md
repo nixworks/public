@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [Calcutta Telegraph](http://www.telegraphindia.com/1050210/asp/nation/story_4359725.asp)
 2. [Khalsa News](http://www.kntimes.com/025/insider025-more-smallest+baby+home-knc-100-kni-3377.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7583785&type=worldNews)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

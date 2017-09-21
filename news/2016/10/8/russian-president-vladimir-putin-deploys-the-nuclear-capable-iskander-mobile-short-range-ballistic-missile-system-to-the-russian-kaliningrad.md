@@ -8,6 +8,7 @@ Russia deploys nuclear-capable Iskander missiles in its Kaliningrad region borde
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-37597075)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/C231/production/_91631794_mediaitem91631793.jpg)
 
 ### Related:
 

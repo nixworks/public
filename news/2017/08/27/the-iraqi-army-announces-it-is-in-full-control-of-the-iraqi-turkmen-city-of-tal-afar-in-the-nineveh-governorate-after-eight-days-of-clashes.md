@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rudaw](http://www.rudaw.net/english/middleeast/iraq/27082017)
+1. [Cover Image](http://www.rudaw.net/ContentFiles/325322Image1.jpg)
 
 ### Related:
 

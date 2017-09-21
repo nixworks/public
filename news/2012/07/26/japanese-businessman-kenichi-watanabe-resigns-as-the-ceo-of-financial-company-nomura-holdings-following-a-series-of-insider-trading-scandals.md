@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/26/us-nomura-ceo-idUSBRE86P03S20120726)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120726&t=2&i=634544885&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86P0U9R00)
 
 ### Related:
 

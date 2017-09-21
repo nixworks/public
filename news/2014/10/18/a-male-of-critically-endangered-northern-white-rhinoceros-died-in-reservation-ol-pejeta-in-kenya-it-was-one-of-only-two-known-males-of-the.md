@@ -9,6 +9,7 @@ A rare northern white rhino has died in Kenya, a wildlife conservancy said on Sa
 
 1. [ABC](http://abcnews.go.com/International/wireStory/endangered-northern-white-rhino-dies-africa-26293974)
 2. [Sydney Morning Herald](http://www.smh.com.au/world/death-of-rare-northern-white-rhino-leaves-species-on-brink-of-extinction-20141019-118966.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/3/i/d/i/7/image.related.articleLeadwide.620x349.118966.png/1414104664837.jpg)
 
 ### Related:
 

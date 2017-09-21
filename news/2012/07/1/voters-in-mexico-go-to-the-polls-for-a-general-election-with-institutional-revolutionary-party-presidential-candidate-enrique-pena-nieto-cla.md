@@ -9,6 +9,7 @@ Mexico goes to the polls to elect a new president on July 1, and Texas lawmakers
 
 1. [Reuters](http://uk.reuters.com/article/2012/07/02/uk-mexico-election-idUKBRE86009920120702)
 2. [The New York Times](http://www.nytimes.com/2012/07/01/us/texas-lawmakers-warily-watch-mexicos-election.html?pagewanted=all)
+2. [Cover Image](https://static01.nyt.com/images/2012/07/01/us/TTELECTION-2/TTELECTION-2-superJumbo.jpg)
 
 ### Related:
 

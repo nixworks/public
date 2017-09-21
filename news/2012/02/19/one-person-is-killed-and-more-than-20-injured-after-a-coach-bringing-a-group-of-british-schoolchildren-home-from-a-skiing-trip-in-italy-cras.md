@@ -8,3 +8,4 @@ A British teacher dies and up to five people are seriously injured as a coach ca
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17088463)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606876_48c62fbc-6c46-46a5-819e-7bcddf1ee919.jpg)

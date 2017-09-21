@@ -11,6 +11,7 @@ Insurgents are shot dead after killing at least 12 people in a strike on a Briti
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-14585563)
 3. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/08/18/afghanistan.bombing/index.html)
 4. [Reuters](http://www.reuters.com/article/2011/08/19/us-afghanistan-blasts-idUSTRE77I0FX20110819)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54689000/jpg/_54689060_012686350-1.jpg)
 
 ### Related:
 

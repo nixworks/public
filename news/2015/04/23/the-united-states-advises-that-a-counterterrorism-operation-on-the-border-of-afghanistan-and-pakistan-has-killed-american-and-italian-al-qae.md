@@ -9,6 +9,7 @@ President Obama said today that he takes &quot;full responsibility&quot; for a U
 
 1. [AP via ABC News](http://abcnews.go.com/Politics/president-obama-make-statment/story?id=30525474)
 2. [CNBC](http://www.cnbc.com/id/102614141)
+2. [Cover Image](http://a.abcnews.com/images/International/ht_warren_weinstein_giovanni_lo_porto_wy_150423_16x9_992.jpg)
 
 ### Related:
 

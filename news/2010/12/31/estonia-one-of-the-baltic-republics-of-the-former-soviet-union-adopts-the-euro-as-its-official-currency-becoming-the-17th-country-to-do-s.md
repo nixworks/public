@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6BU0S720101231)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20101231&t=2&i=292109220&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-31T224014Z_01_BTRE6BU1P5Q00_RTROPTP_0_ESTONIA-EURO)
 
 ### Related:
 

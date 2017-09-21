@@ -8,6 +8,7 @@ Teslaâ€™s groundbreaking new factory could make or break Elon Musk, the companyâ
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-36893104)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1F24/production/_90527970_aerialviewjuly2016northeast.jpg)
 
 ### Related:
 

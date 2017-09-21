@@ -8,6 +8,7 @@ Thousands turned up at Lawson Tama stadium in Honiara yesterday to farewell the 
 ### Source:
 
 1. [Radio New Zealand International](http://www.radionz.co.nz/international/pacific-news/334142/thousands-turn-out-to-farewell-ramsi)
+1. [Cover Image](http://www.radionz.co.nz/assets/news_crops/37002/eight_col_sols_kids.jpg?1498758269)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Five months ago, Layla Richards&apos;s parents were told that their infant daugh
 1. [Bangkok Post](http://www.bangkokpost.com/learning/easy/758976/miracle-treatment-saves-baby-cancer-victim)
 2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-leukemia-cell-treatment-20151106-story.html)
 3. [Nature](http://www.nature.com/news/leukaemia-success-heralds-wave-of-gene-editing-therapies-1.18737)
+3. [Cover Image](http://www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650)
 
 ### Related:
 

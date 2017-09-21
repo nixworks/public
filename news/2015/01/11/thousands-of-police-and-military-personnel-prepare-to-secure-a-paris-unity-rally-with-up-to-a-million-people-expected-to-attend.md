@@ -9,6 +9,7 @@ Arson attack on German newspaper that printed Charlie Hebdo cartoons - A buildin
 
 1. [Daily Mail](http://www.dailymail.co.uk/wires/pa/article-2904975/Huge-security-Paris-unity-march.html)
 2. [Reuters via DNA](http://www.dnaindia.com/world/report-arson-attack-on-german-newspaper-that-printed-charlie-hebdo-cartoons-2051604)
+2. [Cover Image](http://static.dnaindia.com/sites/default/files/2015/01/11/300714-paris-shooting-newspaper-reuters.jpg)
 
 ### Related:
 

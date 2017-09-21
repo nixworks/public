@@ -9,6 +9,7 @@ A suspected tornado slammed into a trailer park in Sugar Hill RV park near Conve
 
 1. [Fox News](http://www.foxnews.com/us/2016/02/23/deaths-reported-as-severe-storms-possible-tornadoes-move-through-south.html)
 2. [WWL TV](http://www.wwltv.com/story/weather/2016/02/23/trailers-damaged-serious-injuries-suspected-tornado-rips-convent/80821582/)
+2. [Cover Image](http://content.wwltv.com/photo/2016/02/23/635918500327557677-nakamoto_463681_ver1.0.jpg)
 
 ### Related:
 

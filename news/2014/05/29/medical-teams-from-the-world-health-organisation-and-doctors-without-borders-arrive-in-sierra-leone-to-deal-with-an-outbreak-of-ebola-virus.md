@@ -8,6 +8,7 @@ International medical aid teams are to arrive in eastern Sierra Leone to try to 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27615171#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75107000/jpg/_75107418_75107417.jpg)
 
 ### Related:
 

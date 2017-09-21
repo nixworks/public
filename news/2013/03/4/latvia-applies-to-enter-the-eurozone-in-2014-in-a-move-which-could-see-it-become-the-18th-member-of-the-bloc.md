@@ -8,6 +8,7 @@ Latvia formally applies to join the euro in 2014, in a move which could see it b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21656254)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65886000/jpg/_65886974_65436443.jpg)
 
 ### Related:
 

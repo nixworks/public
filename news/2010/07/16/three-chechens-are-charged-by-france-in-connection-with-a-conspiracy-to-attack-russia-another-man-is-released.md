@@ -8,6 +8,7 @@ Three Chechens arrested in France may be linked to the Moscow metro suicide bomb
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10662581)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

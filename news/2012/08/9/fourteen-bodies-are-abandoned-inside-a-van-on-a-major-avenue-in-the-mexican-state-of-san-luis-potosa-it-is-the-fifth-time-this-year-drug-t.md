@@ -8,6 +8,7 @@ MEXICO CITY (Reuters) - Assailants kidnapped and murdered 14 men and left their 
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-mexico-violencebre8780wq-20120809,0,1101476.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

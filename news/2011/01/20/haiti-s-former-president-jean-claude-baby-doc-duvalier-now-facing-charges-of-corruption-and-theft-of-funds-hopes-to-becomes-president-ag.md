@@ -8,6 +8,7 @@ Former president Jean-Claude Duvalier seeks a return to power, despite facing co
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/201111919453709343.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/19/2011119203243285572_20.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Troops and police loyal to Ivory Coast leader Laurent Gbagbo have sealed off sta
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12007523)
 3. [News24](http://www.news24.com/Africa/News/Ivory-Coast-state-TV-under-tight-guard-20101216)
 4. [Vibe Ghana](http://vibeghana.com/2010/12/16/fight-over-ivory-coast-national-tv-station/)
+4. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

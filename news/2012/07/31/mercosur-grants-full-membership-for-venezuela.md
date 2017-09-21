@@ -9,6 +9,7 @@
 
 1. [El País](http://internacional.elpais.com/internacional/2012/07/31/actualidad/1343729834_339776.html)
 2. [Reuters](http://www.reuters.com/article/2012/06/30/us-mercosur-idUSBRE85S1JT20120630)
+2. [Cover Image](http://ep00.epimg.net/internacional/imagenes/2012/07/31/actualidad/1343729834_339776_1343749232_noticia_fotograma.jpg)
 
 ### Related:
 

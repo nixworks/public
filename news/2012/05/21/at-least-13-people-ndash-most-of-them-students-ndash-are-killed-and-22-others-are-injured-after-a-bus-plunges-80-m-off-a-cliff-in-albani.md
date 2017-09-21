@@ -8,6 +8,7 @@ At least 11 people - most of them students - are killed and 22 injured when a bu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18153598)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60389000/jpg/_60389236_014817033-1.jpg)
 
 ### Related:
 

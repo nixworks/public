@@ -10,6 +10,7 @@ Myanmars prime minister and at least 17 other ministers and deputy ministers Mon
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8646575.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE63Q0UI20100427)
 3. [Sify](http://sify.com/news/myanmar-ministers-resign-military-posts-news-international-ke0xkchgbid.html)
+3. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

@@ -16,6 +16,7 @@ Several wounded in second day of violence involving supporters and opponents of 
 7. [China Radio International](http://english.cri.cn/6966/2012/02/11/2941s680500.htm)
 8. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=257400)
 9. [News Limited](http://www.news.com.au/breaking-news/aussie-journo-us-student-arrested-in-egypt/story-e6frfku0-1226268760774)
+9. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=186300)
 
 ### Related:
 

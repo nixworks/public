@@ -8,6 +8,7 @@ Bridges and streets swept away in what is reported as worst flooding in 100 year
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/asia/2010/07/20107291546874240.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

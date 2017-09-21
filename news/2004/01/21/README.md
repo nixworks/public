@@ -1,7 +1,7 @@
 ## [2004-01-21](/news/2004/01/21/index.md)
 
 ### [ The International Olympic Committee urges Athens to continue working round-the-clock for the 2004 Summer Olympics. The deadline is for August 13.](/news/2004/01/21/the-international-olympic-committee-urges-athens-to-continue-working-round-the-clock-for-the-2004-summer-olympics-the-deadline-is-for-augu.md)
-_Context: Athens, International Olympic Committee, Olympics scheduled for this August_
+_Context: 2004 Summer Olympics, Athens, International Olympic Committee_
 
 ### [ Norwegian Crown Prince Haakon Magnus's wife Crown Princess Mette-Marit gives birth to a daughter, at 0913 local time (0813 UTC), at Rikshospitalet University Hospital in Oslo. The newborn princess, named Ingrid Alexandra, weighs in at 3,686 grams and is 51&nbsp;cm tall. She is second in succession to the Norwegian throne.](/news/2004/01/21/norwegian-crown-prince-haakon-magnus-s-wife-crown-princess-mette-marit-gives-birth-to-a-daughter-at-0913-local-time-0813-utc-at-rikshos.md)
 _Context: Crown Prince Haakon Magnus, Crown Princess Mette-Marit, Oslo, gram_

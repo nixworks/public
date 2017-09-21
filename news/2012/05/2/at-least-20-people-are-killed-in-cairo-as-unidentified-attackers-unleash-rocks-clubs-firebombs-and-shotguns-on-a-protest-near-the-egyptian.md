@@ -9,6 +9,7 @@ At least 20 people are killed in Cairo amid an attack on people protesting over 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/20125292646304502.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17920053)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59984000/jpg/_59984930_014647776-2.jpg)
 
 ### Related:
 

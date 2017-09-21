@@ -9,6 +9,7 @@
 
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/Politics/The-Vote/2011/0712/Ron-Paul-says-he-s-all-in-for-the-presidency-won-t-run-again-for-Congress)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052702304584404576442223826681388.html)
+2. [Cover Image](http://images.csmonitor.com/csmarchives/2011/07/0712-Ron-Paul.jpg?alias=standard_900x600)
 
 ### Related:
 

@@ -15,6 +15,7 @@ Ex-Tunisian president and his wife were sentenced in absentia to 35 years in pri
 6. [BBC](http://www.bbc.co.uk/news/world-middle-east-13845484)
 7. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-syria-protests-20110620,0,3278119.story)
 8. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0620/breaking115.html)
+8. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/20/201162064043938734_20.jpg)
 
 ### Related:
 

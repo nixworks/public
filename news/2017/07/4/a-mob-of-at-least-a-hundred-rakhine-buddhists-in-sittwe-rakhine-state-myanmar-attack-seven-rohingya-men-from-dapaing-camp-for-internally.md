@@ -9,6 +9,7 @@
 
 1. [Reuters](https://www.reuters.com/article/us-myanmar-rohingya-idUSKBN19P1O8)
 2. [The Irrawaddy](https://www.irrawaddy.com/news/breaking-mob-kill-rohingya-muslim-rakhine.html)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

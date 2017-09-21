@@ -8,3 +8,4 @@ A big fire at a power plant leaves millions of people without electricity in the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-37436392)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/14143/production/_91334228_d543b304-7059-4965-932e-7054c3b61d47.jpg)

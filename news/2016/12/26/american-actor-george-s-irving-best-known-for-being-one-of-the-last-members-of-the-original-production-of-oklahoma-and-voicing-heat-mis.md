@@ -8,6 +8,7 @@ Irving appeared in the original Broadway production of &#039;Oklahoma&#039; and 
 ### Source:
 
 1. [The Hollywood Reporter](http://www.hollywoodreporter.com/news/george-s-irving-dead-veteran-broadway-voice-actor-was-94-959645)
+1. [Cover Image](http://cdn5.thr.com/sites/default/files/2016/12/george_s_irving.jpg)
 
 ### Related:
 

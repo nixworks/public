@@ -8,6 +8,7 @@ Many students and teachers have reportedly been killed after gunmen suspected to
 ### Source:
 
 1. [allAfrica](http://allafrica.com/view/group/main/main/id/00025069.html)
+1. [Cover Image](http://allafrica.com/download/pic/main/main/csiid/00231942:d0c2f04b61c2182473b706c3378dce05:arc614x376:w1200.jpg)
 
 ### Related:
 

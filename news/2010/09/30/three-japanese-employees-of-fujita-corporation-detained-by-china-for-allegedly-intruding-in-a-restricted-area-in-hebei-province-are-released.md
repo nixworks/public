@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE68T0FF20100930)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100930&t=2&i=215612083&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-30T150103Z_01_BTRE68T15PT00_RTROPTP_0_CHINA-JAPAN)
 
 ### Related:
 

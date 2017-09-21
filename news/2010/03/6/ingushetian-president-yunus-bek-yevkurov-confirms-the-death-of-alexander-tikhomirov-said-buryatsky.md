@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8553956.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6251RI20100306?feedType=RSS&feedName=worldNews)
 3. [The Star](http://thestar.com.my/news/story.asp?file=/2010/3/7/worldupdates/2010-03-06T235144Z_01_NOOTR_RTRMDNC_0_-467097-1&sec=Worldupdates)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Switzerland&#39;s president apologized to the Libyan government Thursday for las
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/32491959/ns/world_news-mideastn_africa/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090820-merz-hsmall-8a.standard.jpg)
 
 ### Related:
 

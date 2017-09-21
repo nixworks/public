@@ -9,6 +9,7 @@ Voters go to the polls in Greenland on Tuesday, in an election dominated by the 
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/minerals-dominate-greenland-election/story-e6frfkui-1226595542111)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21750668)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66333000/jpg/_66333593_66333592.jpg)
 
 ### Related:
 

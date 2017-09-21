@@ -8,6 +8,7 @@ Brazilian president has dissolved Renca to attract investment in region thought 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/environment/2017/aug/24/brazil-abolishes-huge-amazon-reserve-in-biggest-attack-in-50-years)
+1. [Cover Image](https://i.guim.co.uk/img/media/4db115f9080ea5ca75c3979d8c9850e1a32b4d18/0_68_2000_1200/master/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4c73febd6664bdbc86672cf3eb73d78c)
 
 ### Related:
 

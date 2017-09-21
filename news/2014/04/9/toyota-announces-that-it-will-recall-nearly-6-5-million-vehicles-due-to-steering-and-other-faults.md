@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/09/us-toyota-motor-recall-idUSBREA380AR20140409?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140409&t=2&i=881407316&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA380FK300)
 
 ### Related:
 

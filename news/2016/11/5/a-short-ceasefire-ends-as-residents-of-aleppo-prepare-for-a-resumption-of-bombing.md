@@ -8,6 +8,7 @@ Syrian rebels and civilians refuse to leave the besieged city of Aleppo as a cea
 ### Source:
 
 1. [Reuters via ABC Online](http://www.abc.net.au/news/2016-11-05/rebel-held-zone-of-aleppo-syria-braces-for-renewed-bombing/7997886)
+1. [Cover Image](http://www.abc.net.au/news/image/7997992-1x1-700x700.jpg)
 
 ### Related:
 

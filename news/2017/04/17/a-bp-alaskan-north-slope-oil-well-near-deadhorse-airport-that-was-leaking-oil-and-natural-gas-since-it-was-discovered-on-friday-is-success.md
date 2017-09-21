@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/workers-relieve-pressure-leaking-alaska-oil-46838402)
+1. [Cover Image](http://a.abcnews.com/images/US/WireAP_719ca8c37e40429f8b8cca0e51f658a8_16x9_992.jpg)
 
 ### Related:
 

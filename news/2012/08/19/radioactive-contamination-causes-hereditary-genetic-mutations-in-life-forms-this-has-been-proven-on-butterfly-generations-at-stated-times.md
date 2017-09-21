@@ -9,6 +9,7 @@
 
 1. [20 minutes, in German](http://www.20min.ch/ausland/dossier/japanbeben/story/Schmetterlings-Mutanten-um-Fukushima-26597938)
 2. [Philadelphia Inquirer](http://articles.philly.com/2012-08-17/news/33249363_1_joji-otaki-fukushima-plant-humans)
+2. [Cover Image](http://www.20min.ch/images/content/2/6/5/26597938/3/teaserbreit.jpg)
 
 ### Related:
 

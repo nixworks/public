@@ -11,6 +11,7 @@ Suicide bombers have killed at least 59 people in multiple blasts in the northea
 2. [Local 10](http://www.local10.com/news/at-least-48-killed-in-nigeria-market-bombings/34213084)
 3. [NewsDay Zimbabwe](https://www.newsday.co.zw/2015/07/17/niger-army-kills-30-suspected-boko-haram-insurgents-sources/)
 4. [WSJ via AP](http://www.wsj.com/articles/suicide-bombers-strike-northeastern-nigeria-1437137390)
+4. [Cover Image](https://si.wsj.net/public/resources/images/BN-JL154_nigeri_G_20150717092057.jpg)
 
 ### Related:
 

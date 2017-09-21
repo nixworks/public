@@ -10,6 +10,7 @@ At least five people are dead and dozens of towns are inundated by flooding acro
 1. [BBC](http://www.bbc.com/news/world-europe-36429381)
 2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-06-02/torrential-rain-floods-leave-several-dead-in-southern-germany)
 3. [The New York Times](http://www.nytimes.com/2016/06/03/world/europe/france-germany-floods-rain.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/11427/production/_89859607_c334e2c8-4eca-4312-a532-4bf22da44f71.jpg)
 
 ### Related:
 

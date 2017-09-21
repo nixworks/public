@@ -8,6 +8,7 @@ Kara (Togo) (AFP) - Togo&#x27;s ruling party on Wednesday announced that Preside
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/togo-president-gnassingbe-seek-fresh-term-april-election-211029637.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

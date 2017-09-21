@@ -10,6 +10,7 @@
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5h5JSuFo9izz-ARVCS_hNUdMKNzTA?docId=9cedbd887c4e4a30a92e995ebf606590)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/01/201112335951391718.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/23/c_13703670.htm)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/23/201112341817349580_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Among the dead were two Malian soldiers, while the body of a white man was seen 
 
 1. [Reuters](http://in.reuters.com/article/2015/08/07/mali-violence-idINKCN0QC1D120150807)
 2. [The Times of Oman](http://timesofoman.com/article/65067/World/Africa/3-killed-several-taken-hostages-including-foreigners-as-Mali-hotel-under-siege)
+2. [Cover Image](http://timesofoman.com/images/too-no-image.png)
 
 ### Related:
 

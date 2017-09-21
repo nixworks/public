@@ -8,6 +8,7 @@ A New Mexico meat plant received federal approval on Friday to slaughter horses 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/29/us-usa-agriculture-horse-idUSBRE95S00820130629)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

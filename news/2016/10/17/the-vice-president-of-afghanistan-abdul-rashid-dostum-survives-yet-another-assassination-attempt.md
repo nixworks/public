@@ -8,6 +8,7 @@ Afghan Vice-President Abdul Rashim Dostum escaped unhurt from an ambush by Talib
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-dostum-idUSKBN12H1JO)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161017&t=2&i=1157792706&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9G10I)
 
 ### Related:
 

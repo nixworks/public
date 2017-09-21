@@ -8,6 +8,7 @@ Dietary supplement firm Herbalife has reached a deal with the US Federal Trade C
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-36809702)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8E62/production/_90405463_gettyimages-464907737.jpg)
 
 ### Related:
 

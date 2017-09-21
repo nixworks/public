@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE5BC0P020091213)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-12/13/content_12640959.htm)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091213&t=2&i=30763215&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-13T151249Z_01_BTRE5BC169K00_RTROPTP_0_CHILE-ELECTION)
 
 ### Related:
 

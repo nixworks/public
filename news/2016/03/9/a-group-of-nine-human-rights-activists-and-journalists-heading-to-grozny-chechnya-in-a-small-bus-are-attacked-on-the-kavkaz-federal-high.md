@@ -10,6 +10,7 @@ A group of journalists on a tour organised by human rights activists in Chechnya
 1. [AFP via Yahoo! News](https://sg.news.yahoo.com/journalists-attacked-chechnya-press-tour-rights-group-191625652.html)
 2. [AP via WSOC-TV](http://www.wsoctv.com/news/russian-group-journalists-attacked-near-chechnya-border/153075154)
 3. [Telegraph Agency of the Soviet Union](http://tass.ru/en/society/861307)
+3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/UOcaFXZgIgk.yv8WP0WH5g--/aD00NTQ7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_sg/News/AFP/a7265b65226fe44dc679b7d0049a18cff3b3a9c6.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Philippine presidential debate erupted into heated exchanges Sunday over alleg
 ### Source:
 
 1. [AP via ''The Japan Times](http://www.japantimes.co.jp/news/2016/03/21/asia-pacific/philippine-presidential-debate-erupts-heated-exchanges-gets-personal/#.Vu-d9tJ96t9)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2016/03/f-ppines-poll-a-20160322-870x542.jpg)
 
 ### Related:
 

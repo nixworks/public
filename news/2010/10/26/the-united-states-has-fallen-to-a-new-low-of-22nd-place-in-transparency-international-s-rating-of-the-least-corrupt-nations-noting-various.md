@@ -8,6 +8,7 @@ The United States has dropped out of the &quot;top 20&quot; in a global league t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69P0X620101026)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20101026&t=2&i=234406132&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-26T133204Z_01_BTRE69P11LI00_RTROPTP_0_USA)
 
 ### Related:
 

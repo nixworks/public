@@ -12,6 +12,7 @@ The Democratic Party of Japan has promised to reverse the economic decline and r
 3. [New York Times](http://www.nytimes.com/2009/08/31/world/asia/31japan.html)
 4. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE57R01R20090830)
 5. [Xinhua](http://news.xinhuanet.com/english/2009-08/30/content_11964581.htm)
+5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

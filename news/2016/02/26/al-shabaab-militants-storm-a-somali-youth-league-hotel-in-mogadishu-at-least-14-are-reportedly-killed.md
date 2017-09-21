@@ -9,6 +9,7 @@ Fighters from the Islamist group al-Shabaab have attacked a hotel in Mogadishu, 
 
 1. [NY Times](http://www.nytimes.com/2016/02/27/world/africa/at-least-14-dead-as-shabab-gunmen-attack-hotel-in-somalia.html?_r=0)
 2. [The Independent](http://www.independent.co.uk/news/world/africa/mogadishu-hotel-attack-live-updates-al-shabaab-islamists-somalia-a6898481.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/02/26/18/Mogadishu-presidential-palace.jpg)
 
 ### Related:
 

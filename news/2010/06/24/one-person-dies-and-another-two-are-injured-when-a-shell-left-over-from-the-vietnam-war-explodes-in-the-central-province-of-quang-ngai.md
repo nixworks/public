@@ -8,6 +8,7 @@ One person died and another two were injured when a shell leftover from the Viet
 ### Source:
 
 1. [Thanhnien News](http://www.thanhniennews.com/2010/Pages/20100625163641.aspx)
+1. [Cover Image](http://static.thanhniennews.com/Uploaded/2013/2010/Pictures/June262010/bom17710.jpg)
 
 ### Related:
 

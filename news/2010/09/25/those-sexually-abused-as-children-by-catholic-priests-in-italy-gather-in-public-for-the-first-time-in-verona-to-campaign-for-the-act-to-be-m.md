@@ -12,6 +12,7 @@ Victims of child abuse by Catholic priests in Italy have met for the first time,
 3. [BBC](http://www.bbc.co.uk/news/world-europe-11413050)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0925/1224279656596.html)
 5. [The Jakarta Post](http://www.thejakartapost.com/news/2010/09/25/italian-victims-pedophile-clerics-gather.html)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

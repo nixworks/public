@@ -9,6 +9,7 @@ Rodrick Dantzler, 34, fatally shot himself after an hours-long standoff, manhunt
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gVaXh1rRJ-RuRAbfOXqUVsA8izmw?docId=684462df6d9f45429e9a9d7571db00ae)
 2. [Grand Rapids Press](http://www.mlive.com/news/grand-rapids/index.ssf/2011/07/live_coverage_police_report_mu.html)
+2. [Cover Image](http://image.mlive.com/home/mlive-media/width620/img/grandrapidspress/photo/2011/07/9779347-standard.jpg)
 
 ### Related:
 

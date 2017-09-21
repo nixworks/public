@@ -8,6 +8,7 @@ At least 15 people have died in a suicide bomb attack targeting a Shia mosque in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23207168)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68579000/gif/_68579580_baghdad_iraq_jan13.gif)
 
 ### Related:
 

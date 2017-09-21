@@ -8,6 +8,7 @@ At least 35 peoplehave been killed in two separate gun battles between Nigerians
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/05/nigeria-bokoharam-idUSL6N0G620B20130805)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

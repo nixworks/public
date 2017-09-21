@@ -8,3 +8,4 @@ Lt. Gov. Ken Ard pleaded guilty to charges of spending campaign funds on persona
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/03/10/us/south-carolina-lt-governor-resigns.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

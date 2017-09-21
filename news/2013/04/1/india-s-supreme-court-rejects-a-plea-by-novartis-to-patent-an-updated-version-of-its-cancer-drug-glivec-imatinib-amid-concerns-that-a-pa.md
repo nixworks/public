@@ -11,6 +11,7 @@ Production of cheap copycat drugs for H.I.V. and cancer used by people in develo
 2. [The Guardian](http://www.guardian.co.uk/world/2013/apr/01/novartis-patent-ruling-affordable-medicines)
 3. [The New York Times](http://www.nytimes.com/2013/04/02/business/global/top-court-in-india-rejects-novartis-drug-patent.html)
 4. [The Washington Post](http://www.washingtonpost.com/world/asia_pacific/india-rejects-novartis-drug-patent/2013/04/01/bf5f13de-9ab6-11e2-9219-51eb8387e8f1_story.html)
+4. [Cover Image](https://static01.nyt.com/images/2013/04/02/business/Patent/Patent-videoLarge.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A newly formed U.S.-backed Syrian rebel alliance on Saturday launched an offensi
 
 1. [International Business Times](http://www.ibtimes.com/democratic-forces-syria-battles-islamic-state-rebel-group-announces-first-offensive-2163878)
 2. [Reuters](http://www.reuters.com/article/2015/10/31/us-mideast-crisis-syria-idUSKCN0SP0EA20151031?feedType=RSS&feedName=newsOne&google_editors_picks=true)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151031&t=2&i=1091276277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9U0F4)
 
 ### Related:
 

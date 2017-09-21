@@ -8,6 +8,7 @@ Former Goldman Sachs executive Steve Mnuchin confirms he will be the new US trea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-38141686)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12504/production/_92721057_hi036429689.jpg)
 
 ### Related:
 

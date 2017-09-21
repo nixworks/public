@@ -8,6 +8,7 @@ Former American football star Darren Sharper is sentenced to 18 years in prison 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-37126610)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/44C4/production/_90840671_hi034802345.jpg)
 
 ### Related:
 

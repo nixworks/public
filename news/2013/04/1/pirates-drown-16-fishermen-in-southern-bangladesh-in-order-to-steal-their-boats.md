@@ -8,6 +8,7 @@ Pirates off Bangladesh are thought to have drowned at least 16 fishermen after t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21995397)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66697000/gif/_66697760_bangladesh_kutubdia_010413.gif)
 
 ### Related:
 

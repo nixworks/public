@@ -8,6 +8,7 @@ CATHOLIC bishops issued a pastoral letter Sunday that, without mentioning the ca
 ### Source:
 
 1. [Manila Standard](http://thestandard.com.ph/news/headlines/204699/reject-duterte-cbcp-tells-flock.html)
+1. [Cover Image](http://thestandard.com.ph/panel/_files/newspublish/6e153_20160502_headline_f.jpg)
 
 ### Related:
 

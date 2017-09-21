@@ -8,6 +8,7 @@ At least seven people are killed in twin bombings in the north-western Pakistani
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14486382)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54538000/jpg/_54538674_54538673.jpg)
 
 ### Related:
 

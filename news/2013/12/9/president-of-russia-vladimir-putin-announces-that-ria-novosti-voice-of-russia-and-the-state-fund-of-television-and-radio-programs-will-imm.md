@@ -10,6 +10,7 @@ The decision to dissolve RIA Novosti, along with its international radio broadca
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25299116)
 2. [Reuters](http://www.reuters.com/article/2013/12/09/us-russia-media-idUSBRE9B80TF20131209)
 3. [The New York Times](http://www.nytimes.com/2013/12/10/world/europe/putin-scraps-kremlin-news-agencies.html)
+3. [Cover Image](https://static01.nyt.com/images/2013/12/10/world/RUSSIA/RUSSIA-videoSixteenByNine1050-v2.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Government says there are fears of widespread destruction and heavy loss of life
 1. [ABC via Weatherzone](http://www.weatherzone.com.au/news/tropical-cyclone-pam-state-of-emergency-declared-for-shefa-province-as-relief-workers-assess-damage/258486)
 2. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/268686/45-percent-of-tuvalu-population-displaced-pm)
 3. [The Guardian](http://www.theguardian.com/world/2015/mar/15/cyclone-pam-death-toll-may-reach-50-in-port-vila-alone-as-full-impact-still-unknown)
+3. [Cover Image](https://i.guim.co.uk/img/media/65b0a024a5dceff46de5fd89eb86f29452968912/0_507_3000_1800/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=cbce6732dfccbf3272480e09784541d5)
 
 ### Related:
 

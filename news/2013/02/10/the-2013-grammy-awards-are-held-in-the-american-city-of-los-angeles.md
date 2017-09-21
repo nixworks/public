@@ -10,6 +10,7 @@ Gotye takes out three Grammys including record of the year for Somebody That I U
 1. [ABC News Australia](http://www.abc.net.au/news/2013-02-11/gotye-picks-up-two-grammys/4511814)
 2. [Sydney Morning Herald](http://www.smh.com.au/entertainment/music/live-grammy-awards-20130211-2e7ja.html)
 3. [Today](http://todayentertainment.today.com/_news/2013/02/10/16919936-grammy-awards-were-less-about-winners-more-about-moments)
+3. [Cover Image](http://www.abc.net.au/news/image/4512526-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An Asiana Airlines plane has skidded off the runway while landing in Japan resul
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Plane-skids-off-runway-in-Japan-20150414)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/3054/1ce3e89faeed4674a8b209fcb638d2b3.jpg)
 
 ### Related:
 

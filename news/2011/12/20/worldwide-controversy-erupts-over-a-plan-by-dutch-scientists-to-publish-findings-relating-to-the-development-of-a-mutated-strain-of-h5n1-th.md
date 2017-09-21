@@ -9,6 +9,7 @@ A man-made virus that could wipe out half humanity has been deemed a terrorist t
 
 1. [FOX News](http://www.foxnews.com/health/2011/12/20/scientists-spark-fears-by-creating-highly-contagious-airborne-strain-bird-flu/)
 2. [Russia Today](http://rt.com/news/super-flu-terrorist-threat-251/)
+2. [Cover Image](https://img.rt.com/files/oldfiles/news/super-flu-terrorist-threat-251/h5n1-virus.si.jpg)
 
 ### Related:
 

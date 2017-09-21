@@ -8,6 +8,7 @@ Paramedics at the scene of the Booysens station train crash in Johannesburg say 
 ### Source:
 
 1. [News24](http://m.news24.com/news24/SouthAfrica/News/Joburg-train-crash-Number-of-casualties-continues-to-rise-20150717)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/219/88aaf351e0674a0b952a0fae05c4e046.jpg)
 
 ### Related:
 

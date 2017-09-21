@@ -8,3 +8,4 @@ A massive fire has swept through one of the best-preserved castles in Slovakia, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17330120)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-europe-17330120A/playlist.sxml)

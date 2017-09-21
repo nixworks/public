@@ -10,6 +10,7 @@ A strong earthquake of magnitude 6.8 struck northeastern Myanmar Thursday evenin
 1. [AFP via Yahoo News](http://uk.news.yahoo.com/18/20110324/twl-two-dead-as-strong-quake-hits-myanma-4bdc673.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12852237)
 3. [New York Times](http://www.nytimes.com/2011/03/25/world/asia/25myanmar.html?ref=world)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

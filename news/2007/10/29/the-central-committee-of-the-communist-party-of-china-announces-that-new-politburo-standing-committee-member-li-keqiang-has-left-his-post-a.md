@@ -9,6 +9,7 @@ Regulators hailed the arrests, made during a nationwide crackdown on tainted foo
 
 1. [NYT](http://www.nytimes.com/2007/10/30/business/worldbusiness/30yuan.html?ex=1351396800&en=a33605c26d7ce4d3&ei=5088&partner=rssnyt&emc=rss)
 2. [Xinhua](http://news.xinhuanet.com/english/2007-10/29/content_6971301.htm)
+2. [Cover Image](https://static01.nyt.com/images/2007/10/30/business/30yuan-75.jpg)
 
 ### Related:
 

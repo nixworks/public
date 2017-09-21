@@ -9,6 +9,7 @@
 
 1. [United Nations](http://www.un.org/apps/news/story.asp?NewsID=41265&Cr=syria&Cr1=)
 2. [Voice of America](http://www.voanews.com/english/news/UN-Calls-on-Syrian-President-to-Step-Down-139471828.html)
+2. [Cover Image](/News/dh/photos/large/2012/February/504973-generalassemblyboard.jpg)
 
 ### Related:
 

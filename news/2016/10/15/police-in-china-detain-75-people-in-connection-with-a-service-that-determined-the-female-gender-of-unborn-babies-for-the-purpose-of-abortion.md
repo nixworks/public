@@ -8,6 +8,7 @@ Police in China detain 75 people in connection with a widespread network that il
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37667917)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/DAC4/production/_91940065_mediaitem91938854.jpg)
 
 ### Related:
 

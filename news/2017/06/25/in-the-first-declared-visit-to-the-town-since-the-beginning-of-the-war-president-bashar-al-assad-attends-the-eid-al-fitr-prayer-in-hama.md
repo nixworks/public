@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-assad-idUSKBN19G06K)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170625&t=2&i=1190404700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5O0BL)
 
 ### Related:
 

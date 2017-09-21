@@ -8,6 +8,7 @@
 ### Source:
 
 1. [El País](http://internacional.elpais.com/internacional/2012/11/08/actualidad/1352343487_059065.html)
+1. [Cover Image](http://ep00.epimg.net/internacional/imagenes/2012/11/08/actualidad/1352343487_059065_1352365917_noticia_fotograma.jpg)
 
 ### Related:
 

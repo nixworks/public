@@ -9,6 +9,7 @@ The storms were described as &quot;tropical storms,&quot; although no such storm
 
 1. [AccuWeather](http://www.accuweather.com/blogs/news/story/47985/deadly-storms-strike-banglades.asp)
 2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/04/04/international/i231049D28.DTL)
+2. [Cover Image](https://accuweather.brightspotcdn.com/d7/d734c24710aa5b548f8fefc6107cc3c8/400x266_04051403_bw.jpg)
 
 ### Related:
 

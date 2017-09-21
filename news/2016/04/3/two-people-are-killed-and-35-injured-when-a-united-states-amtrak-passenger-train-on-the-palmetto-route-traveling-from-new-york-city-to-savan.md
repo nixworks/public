@@ -11,6 +11,7 @@ An Amtrak train struck a piece of construction equipment just south of Philadelp
 2. [CNN](http://www.cnn.com/2016/04/03/us/philadelphia-amtrak-derailment/)
 3. [NBC Philadelphia](http://www.nbcphiladelphia.com/news/breaking/Chester-Train-Tracks-Crash-Equipment-374406561.html)
 4. [Reuters](http://www.reuters.com/article/us-usa-amtrak-idUSKCN0X00K0)
+4. [Cover Image](http://media.nbcphiladelphia.com/images/1200*736/Chester+Amtrak+Crash+Smashed+Windshield.JPG)
 
 ### Related:
 

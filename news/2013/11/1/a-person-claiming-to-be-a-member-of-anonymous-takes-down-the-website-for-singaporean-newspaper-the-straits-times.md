@@ -8,6 +8,7 @@ The website of the Singaporean paper, The Straits Times, is hacked by someone wh
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-24768053)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70839000/png/_70839949_image(2).png)
 
 ### Related:
 

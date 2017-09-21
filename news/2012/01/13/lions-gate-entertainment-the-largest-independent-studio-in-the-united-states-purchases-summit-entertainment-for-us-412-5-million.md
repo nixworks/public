@@ -8,6 +8,7 @@ Jan 13 - Lions Gate Entertainment Corp boughtprivate studio Summit Entertainment
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/01/13/lionsgate-idUSL3E8CD57820120113)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

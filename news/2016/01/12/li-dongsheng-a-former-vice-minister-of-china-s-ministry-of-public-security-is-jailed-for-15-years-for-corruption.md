@@ -8,6 +8,7 @@ China has jailed former vice public security minister Li Dongsheng for 15 years,
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-china-corruption-trial-idUKKCN0UQ04F20160112)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160112&t=2&i=1108797154&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0B03N)
 
 ### Related:
 

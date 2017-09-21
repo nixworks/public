@@ -8,6 +8,7 @@ The Supreme Court has agreed to take a case concerning 17 prisoners held at Guan
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/10/21/us/21scotus.html?ref=global-home)
+1. [Cover Image](https://static01.nyt.com/images/2009/10/21/us/21scotus_CA0ready/thumbStandard.jpg)
 
 ### Related:
 

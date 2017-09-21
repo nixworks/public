@@ -8,6 +8,7 @@ The US test-fires a weapon that can travel at five times the speed of sound, as 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15790620)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56794000/jpg/_56794227_56794226.jpg)
 
 ### Related:
 

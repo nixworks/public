@@ -9,6 +9,7 @@ Fierce fighting erupts as Jamaican security forces hunting an alleged drugs lord
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10148973.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Kingston-Jamaica-State-Of-Emergency-Two-Police-Dead-Amid-Christopher-Dudus-Coke-Extradition-Plan/Article/201005415637150?lpos=World_News_First_Home_Article_Teaser_Region_3&lid=ARTICLE_15637150_Kingston_Jamaica_)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

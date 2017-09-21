@@ -8,3 +8,4 @@ Organisers of a pilot scheme say lie detector tests are helping identify sex off
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/978608/sex-offender-lie-detector-tests-a-success)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/polygraph-1_3588245.jpg?20160705074925)

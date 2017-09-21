@@ -9,6 +9,7 @@ Russian warships the Serpukhov and the Zeleny Dol of the Black Sea Fleet launche
 
 1. [Pravda](http://www.pravdareport.com/news/world/asia/syria/19-08-2016/135387-russian_ships_missiles_mediterranean-0/)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN10U1EE)
+2. [Cover Image](http://pravda-team.ru/eng/image/article/6/7/7/58677.jpeg)
 
 ### Related:
 

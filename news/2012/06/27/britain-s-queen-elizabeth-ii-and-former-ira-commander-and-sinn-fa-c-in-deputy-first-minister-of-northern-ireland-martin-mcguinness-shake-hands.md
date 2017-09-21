@@ -9,6 +9,7 @@ The Queen and former IRA commander Martin McGuinness shake hands for the first t
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-18607911)
 2. [RTÉ](http://www.rte.ie/news/2012/0627/queen-martin-mcguinness.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61197000/jpg/_61197365_ulsterqueenmcguinness2.jpg)
 
 ### Related:
 

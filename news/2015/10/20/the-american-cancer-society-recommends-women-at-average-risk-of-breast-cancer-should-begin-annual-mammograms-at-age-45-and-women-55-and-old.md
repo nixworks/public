@@ -9,6 +9,7 @@ New mammogram advice considers the risks posed by screenings, not just the benef
 
 1. [Reuters](http://www.reuters.com/article/2015/10/20/us-mammogram-guidelines-shift-idUSKCN0SE1ZQ20151020)
 2. [USA Today](http://www.usatoday.com/story/news/2015/10/20/american-cancer-society-say-women-should-start-mammograms-45/74232470/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

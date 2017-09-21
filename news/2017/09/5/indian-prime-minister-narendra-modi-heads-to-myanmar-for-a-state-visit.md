@@ -8,6 +8,7 @@ Prime Minister Narendra Modi on Tuesday left for Nay Pyi Taw for his first bilat
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/narendra-modi-leaves-for-myanmar-for-first-bilateral-visit/article19624434.ece)
+1. [Cover Image](http://www.thehindu.com/news/international/article19624433.ece/ALTERNATES/LANDSCAPE_615/AUNGSANMODI)
 
 ### Related:
 

@@ -8,6 +8,7 @@ General Electric Co notched a better-than-expected 21.6 percent rise in earnings
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/22/us-ge-idUSTRE76K7FO20110722)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110722&t=2&i=463910903&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-22T123228Z_01_BTRE76L0TQW00_RTROPTP_0_GE)
 
 ### Related:
 

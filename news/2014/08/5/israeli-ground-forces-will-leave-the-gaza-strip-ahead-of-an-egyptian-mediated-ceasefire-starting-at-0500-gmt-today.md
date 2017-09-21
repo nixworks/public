@@ -8,6 +8,7 @@ Israeli ground forces will completely withdraw from the Gaza Strip ahead of an E
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2014/08/05/mideast-gaza-withdrawal-idINKBN0G509420140805)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140805&t=2&i=957068703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA74035)
 
 ### Related:
 

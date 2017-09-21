@@ -8,6 +8,7 @@ Forces join 800 current troops, will help guard natural gas pipeline to Israel a
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=208762)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=158829)
 
 ### Related:
 

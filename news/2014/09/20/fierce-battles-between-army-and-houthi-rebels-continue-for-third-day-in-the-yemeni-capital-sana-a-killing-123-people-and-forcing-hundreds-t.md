@@ -8,6 +8,7 @@ Fierce battles between army and rebels continue for third day in the capital, fo
 ### Source:
 
 1. [AJE](http://www.aljazeera.com/news/middleeast/2014/09/yemen-houthi-rebels-advance-into-sanaa-201492091233845119.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/9/19/2014919195721272734_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_GUATEMALA_UN_PRESIDENT)
 2. [AP](http://hosted.ap.org/dynamic/stories/L/LT_GUATEMALA_UN_PRESIDENT_THE_LATEST?)
 3. [Reuters](http://www.reuters.com/article/us-guatemala-corruption-idUSKCN1B70PT?il=0)
+3. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170827&t=2&i=1198764875&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7Q0KW)
 
 ### Related:
 

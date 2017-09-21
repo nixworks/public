@@ -9,6 +9,7 @@ At least 28 people - including 22 children - die when a Belgian coach hits a wal
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/22-children-among-dead-in-swiss-bus-crash-20120314-1v1kq.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17362643)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606885_331dc631-6340-4cda-ae6e-bda544b28681.jpg)
 
 ### Related:
 

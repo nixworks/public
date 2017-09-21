@@ -8,6 +8,7 @@ Italian, Colombian and U.S. police have seized 11 tonnes of cocaine and arrested
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-italy-cocaine-idUSKCN0ZG1Y1)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160630&t=2&i=1143596574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5T14U)
 
 ### Related:
 

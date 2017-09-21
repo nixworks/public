@@ -8,6 +8,7 @@ A powerful natural gas explosion rocked a busy Portland, Oregon, shopping distri
 ### Source:
 
 1. [The Las Vegas Review-Journal](http://www.reviewjournal.com/news/nation-and-world/gas-explosion-rips-through-portland-shopping-district-injuring-8)
+1. [Cover Image](http://www.reviewjournal.com/sites/default/files/field/media/31531430sfxl_7233540.jpg%3Fresize%3D750%3A500)
 
 ### Related:
 

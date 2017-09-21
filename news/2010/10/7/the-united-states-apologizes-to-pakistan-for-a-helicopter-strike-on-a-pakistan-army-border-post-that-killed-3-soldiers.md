@@ -10,6 +10,7 @@ As the White House tried to mollify Pakistan over an airstrike, officials said t
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/20101078849195792.html)
 2. [The New York Times](http://www.nytimes.com/2010/10/07/world/asia/07diplo.html?src=twt&twt=nytimes)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/07/c_13546057.htm)
+3. [Cover Image](https://static01.nyt.com/images/2010/10/07/world/asia/subPSTAN/subPSTAN-thumbStandard.jpg)
 
 ### Related:
 

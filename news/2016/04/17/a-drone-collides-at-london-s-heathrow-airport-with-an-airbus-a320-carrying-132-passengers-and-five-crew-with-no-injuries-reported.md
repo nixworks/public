@@ -8,6 +8,7 @@ A passenger aircraft approaching to land at London&#039;s Heathrow Airport may h
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/plane-may-have-collided-with-drone-at-heathrow-lands-safely-bbc-20160417-go8k6k.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/l/e/a/s/x/image.related.articleLeadwide.620x349.go8k6k.png/1460946072828.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A private firm is taking over the running of a struggling NHS hospital in a grou
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-15436685)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54219000/jpg/_54219112_hinch.jpg)
 
 ### Related:
 

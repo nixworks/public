@@ -8,6 +8,7 @@ Around 400 fans, celebrities, friends, and family members bid farewell to actor 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11467652)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

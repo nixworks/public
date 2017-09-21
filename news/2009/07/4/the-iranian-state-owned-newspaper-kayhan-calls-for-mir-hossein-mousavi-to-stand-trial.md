@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-iran5-2009jul05,0,7957663.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

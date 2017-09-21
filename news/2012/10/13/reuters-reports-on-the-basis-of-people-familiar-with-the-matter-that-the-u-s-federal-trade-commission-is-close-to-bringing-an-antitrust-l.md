@@ -8,6 +8,7 @@ The majority of top decision-makers at the Federal Trade Commission believe that
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/10/13/us-google-ftc-antitrust-idUSBRE89B16G20121013)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121013&t=2&i=663038098&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89B1IKF00)
 
 ### Related:
 

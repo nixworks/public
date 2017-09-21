@@ -8,6 +8,7 @@ Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate De
 ### Source:
 
 1. [Madison.com](http://host.madison.com/wsj/news/local/govt-and-politics/blog/article_0e3ee130-4502-11e0-b7eb-001cc4c03286.html)
+1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/host.madison.com/content/tncms/assets/v3/editorial/2/c8/2c80daa9-affb-5aa9-8361-6d7aa7d73a07/4d6d88b354d15.preview-1024.jpg?resize=886%2C630)
 
 ### Related:
 

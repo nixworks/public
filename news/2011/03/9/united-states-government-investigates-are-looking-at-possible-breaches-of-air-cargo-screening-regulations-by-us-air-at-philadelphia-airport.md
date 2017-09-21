@@ -8,6 +8,7 @@ The NBC10 Investigators have found that there is federal investigation into US A
 ### Source:
 
 1. [NBC Philadelphia](http://www.nbcphiladelphia.com/news/local/Cargo_Screening_Investigation_Philadelphia-117685383.html)
+1. [Cover Image](http://media.nbcphiladelphia.com/images/1200*675/USAIRWAYS_722x406.jpg)
 
 ### Related:
 

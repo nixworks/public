@@ -9,6 +9,7 @@ In parliamentary elections in Kazakhstan, President Nursultan Nazarbayev&#039;s 
 
 1. [AAP via News Limited](http://www.news.com.au/story/0,10117,22270843-401,00.html)
 2. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/19/2008996.htm)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ While a crowd outside the court chanted “freedom” and “shame”, a judge i
 2. [RAPSI](http://rapsinews.com/judicial_news/20140225/270809006.html)
 3. [RFE/RL](http://www.rferl.org/content/russia-opposition-figures-charges/25276568.html)
 4. [The Moscow Times](http://www.themoscowtimes.com/news/article/navalny-jailed-for-7-days-for-disobeying-police-at-bolotnaya-protest/495210.html)
+4. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

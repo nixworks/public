@@ -8,6 +8,7 @@ Pope Benedict arrived in Cuba on Monday and told the government it had nothing t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/26/us-pope-cuba-idUSBRE82P0SQ20120326)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120326&t=2&i=587339302&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82P1AEB00)
 
 ### Related:
 

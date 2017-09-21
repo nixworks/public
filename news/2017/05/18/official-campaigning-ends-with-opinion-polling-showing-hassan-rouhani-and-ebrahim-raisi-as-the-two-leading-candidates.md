@@ -8,6 +8,7 @@ Supporters of the two leading candidates in Iran’s presidential election took 
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2017/05/18/campaigning-ends-ahead-of-iran-s-presidential-vote)
+1. [Cover Image](http://static.euronews.com/articles/368492/1000x563_368492.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Dr. Murray died in the hospital where he performed the first successful human or
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/11/28/health/dr-joseph-e-murray-transplant-doctor-and-nobel-winner-dies-at-93.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/11/28/health/murray-obit2/murray-obit2-superJumbo.jpg)
 
 ### Related:
 

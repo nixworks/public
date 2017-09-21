@@ -9,6 +9,7 @@ Indonesian President Joko Widodo on Wednesday signed an executive order declarin
 
 1. [Time](http://time.com/4348788/indonesia-chemical-castration-sex-offenses/)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/05/26/Indonesia-to-punish-child-sex-abuse-offenders-with-chemical-castration/3971464259113/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/3971464259113/2016/1/14642610849174/v2.1/Indonesia-to-punish-child-sex-abuse-offenders-with-chemical-castration.jpg)
 
 ### Related:
 

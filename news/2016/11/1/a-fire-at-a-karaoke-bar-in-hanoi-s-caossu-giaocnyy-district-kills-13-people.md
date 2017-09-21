@@ -8,6 +8,7 @@ A fire at a karaoke bar killed 13 people and injured two police officers in the 
 ### Source:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/vietnam-opens-probe-into-deadly-karaoke-fire/3254482.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/3254490/1478053244000/large16x9/640/360/hanoi-fire.jpg)
 
 ### Related:
 

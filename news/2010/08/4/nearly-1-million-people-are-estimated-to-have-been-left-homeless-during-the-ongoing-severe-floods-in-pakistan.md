@@ -12,6 +12,7 @@ Poor weather forces more evacuations as Pakistan endures its worst floods in 80 
 3. [BBC](http://www.bbc.co.uk/news/world-south-asia-10866439)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Pakistan-Floods-Threaten-Deadly-Food-Crisis-As-Asif-Ali-Zardari-Awaits-Talks-With-David-Cameron/Article/201008115676590?lpos=World_News_News_Your_Way_Region_2&lid=NewsYourWay_ARTICLE_15676590_Pakistan:_Floods_Threaten_Deadly_Food_Crisis_As_Asif_Ali_Zardari_Awaits_Talks_With_David_Cameron_)
 5. [The Guardian](http://www.guardian.co.uk/world/video/2010/aug/04/pakistan-flooding)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

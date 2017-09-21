@@ -8,6 +8,7 @@ TOKYO/ITURUP (Reuters) - Japan on Saturday lodged a protest over Russian Prime M
 ### Source:
 
 1. [Reuters via Yahoo](http://news.yahoo.com/japan-protests-russian-pms-visit-disputed-island-051031101.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A narrow victory for Chuck Hagel, confirmed as defense secretary, raised questio
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/02/27/us/politics/hagel-filibuster-defense-senate-confirmation.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/02/26/us/politics/hagel-pic/hagel-pic-videoLarge-v2.jpg)
 
 ### Related:
 

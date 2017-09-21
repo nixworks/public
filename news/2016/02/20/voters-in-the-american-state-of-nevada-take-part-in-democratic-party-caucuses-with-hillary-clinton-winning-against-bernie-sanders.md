@@ -13,6 +13,7 @@ Hillary Clinton won the Nevada Democratic caucuses on Saturday, beating Bernie S
 4. [Fox News](http://www.foxnews.com/politics/2016/02/20/clinton-wins-nevada-caucuses-fox-news-projects.html?intcmp=hpbt1)
 5. [NBC News](http://www.nbcnews.com/nightly-news/video/trump-struggles-to-defend-his-support-of-iraq-war-in-2002-interview-626649667922)
 6. [NBC News](http://www.nbcnews.com/politics/2016-election/jeb-bush-ends-2016-presidential-campaign-n522831)
+6. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/02/20/0/0/694940094001_4765900276001_ba3cf60b-d933-4799-b442-0804a5811d68.jpg?ve=1)
 
 ### Related:
 

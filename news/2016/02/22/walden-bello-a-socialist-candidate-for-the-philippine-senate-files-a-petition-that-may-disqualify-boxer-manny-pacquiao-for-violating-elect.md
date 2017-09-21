@@ -10,6 +10,7 @@
 1. [Fox Sports](http://www.foxsports.com/boxing/story/manny-pacquiao-philippine-senator-candidate-petition-stop-boxing-timothy-bradley-match-unfair-publicity-022216)
 2. [Rappler](http://www.rappler.com/nation/politics/elections/2016/123283-manny-pacquiao-bradley-comelec-bello)
 3. [The New York Times](http://www.nytimes.com/aponline/2016/02/22/world/asia/ap-as-philippines-pacquiao.html)
+3. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/91671E739C5B4901A10B236EEC731F6D/bello-vs-pacquiao-20160222-1.jpg)
 
 ### Related:
 

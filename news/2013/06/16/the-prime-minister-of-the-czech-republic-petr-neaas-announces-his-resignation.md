@@ -8,6 +8,7 @@ PRAGUE - Czech Prime Minister Petr Necas says he will resign because a top aide 
 ### Source:
 
 1. [Yahoo News](http://news.yahoo.com/czech-prime-minister-announces-resign-top-aid-charged-214605165.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

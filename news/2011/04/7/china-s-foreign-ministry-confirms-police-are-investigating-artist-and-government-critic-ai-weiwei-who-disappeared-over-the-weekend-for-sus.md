@@ -10,6 +10,7 @@ China confirms the detained artist, Ai Weiwei, is being investigated for &quot;e
 1. [AFP via ''Jakarta Globe](http://www.thejakartaglobe.com/afp/china-artist-probed-over-economic-crimes-xinhua/433978)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/201147131015371586.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12994785)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

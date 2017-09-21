@@ -10,6 +10,7 @@
 1. [AllAfrica.com](http://allafrica.com/stories/201010270980.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11636883)
 3. [Daily Nation](http://www.nation.co.ke/News/Kenya%20minister%20steps%20aside%20over%20saga/-/1056/1041378/-/foio57z/-/index.html)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

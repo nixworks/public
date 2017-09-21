@@ -10,6 +10,7 @@
 1. [CNN](http://edition.cnn.com/2011/US/02/18/wisconsin.budget/?hpt=T1)
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-wisconsin-unions-20110218,0,5074043.story)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/video/2011/02/17/VI2011021705857.html)
+3. [Cover Image](http://www.washingtonpost.com/wp-dyn/content/photo/2011/02/17/PH2011021705878.jpg)
 
 ### Related:
 

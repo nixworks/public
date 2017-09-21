@@ -11,6 +11,7 @@ Slim majority approves central mandate in landmark legislation extending healthc
 2. [MSNBC](http://nbcpolitics.msnbc.msn.com/_news/2012/06/28/12457822-supreme-court-upholds-health-care-law?lite)
 3. [New York Times](http://www.nytimes.com/2012/06/29/us/supreme-court-lets-health-law-largely-stand.html)
 4. [Reuters](http://www.reuters.com/article/2012/06/28/us-usa-healthcare-court-idUSBRE85R06420120628)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/28/201262815420699734_20.jpg)
 
 ### Related:
 

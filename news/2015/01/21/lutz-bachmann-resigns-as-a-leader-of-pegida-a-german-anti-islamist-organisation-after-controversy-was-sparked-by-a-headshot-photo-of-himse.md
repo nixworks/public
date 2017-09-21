@@ -8,6 +8,7 @@ PEGIDA, led by Lutz Bachmann, has forced itself onto the political agenda with i
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2015/0121/German-PEGIDA-leader-steps-down-over-Hitler-like-photo)
+1. [Cover Image](http://images.csmonitor.com/csm/2015/01/GERMANY-ISLAM_PEGIDA.jpg?alias=standard_900x600)
 
 ### Related:
 

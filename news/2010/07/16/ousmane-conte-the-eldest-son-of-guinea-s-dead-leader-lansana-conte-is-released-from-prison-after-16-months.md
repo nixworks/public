@@ -9,6 +9,7 @@ Guinea has released the son of former president Lansana Conte, held for the past
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10660853)
 2. [News24.com](http://www.news24.com/Africa/News/Guinea-frees-ex-leaders-son-20100715)
+2. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5h_y2_CIxdASHF5rbXARWQJXUhQ4w?docId=0d842c9a1a7c49a3a8c6ed535a10f022)
 2. [Reuters](http://www.reuters.com/article/2011/05/21/seychelles-election-result-idUSLDE74K07Y20110521?feedType=RSS&feedName=hotStocksNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

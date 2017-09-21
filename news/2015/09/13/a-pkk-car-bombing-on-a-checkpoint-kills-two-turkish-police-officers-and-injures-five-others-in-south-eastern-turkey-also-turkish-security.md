@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/09/13/us-turkey-kurds-attack-idUSKCN0RD04N20150913)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150913&t=2&i=1079029883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8C09L)
 
 ### Related:
 

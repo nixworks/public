@@ -8,6 +8,7 @@ More than 700 new species of ancient insects, preserved in 50-million-year-old a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11618809)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

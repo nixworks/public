@@ -11,6 +11,7 @@ CLEVELAND - Maryland and Maine appeared poised to become the first states in the
 2. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-gay-marriage-measures-maryland-maine-20121106,0,7264088.story)
 3. [Orlando Sentinel](http://www.orlandosentinel.com/news/politics/os-barack-obama-mitt-romney-florida-20121106,0,979602.story)
 4. [The New York Times](http://www.nytimes.com/2012/11/08/us/politics/in-california-voters-approve-ballot-measure-that-raises-taxesin-california-approve-voters-ballot-measure-that-raises-taxes.html?hp)
+4. [Cover Image](http://www.trbimg.com/img-5099ed7e/turbine/la-pn-gay-marriage-measures-maryland-maine-201-001/600)
 
 ### Related:
 

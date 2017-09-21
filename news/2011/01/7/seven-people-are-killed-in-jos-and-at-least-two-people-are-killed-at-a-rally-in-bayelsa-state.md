@@ -8,6 +8,7 @@ At least 20 killed in violence that erupts after news spreads of Muslims killed 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011182307155898.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/9/20111982934389112_20.jpg)
 
 ### Related:
 

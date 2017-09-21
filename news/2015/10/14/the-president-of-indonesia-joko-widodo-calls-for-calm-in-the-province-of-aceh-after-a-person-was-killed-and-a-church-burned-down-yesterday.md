@@ -8,6 +8,7 @@ Indonesian President Joko Widodo has urged an end to violent clashes in Aceh, af
 ### Source:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/jokowi-calls-for-calm/2191802.html?cid=twtcna)
+1. [Cover Image](http://www.channelnewsasia.com/image/674416/1370316057000/large16x9/640/360/asia-pacific.jpg)
 
 ### Related:
 

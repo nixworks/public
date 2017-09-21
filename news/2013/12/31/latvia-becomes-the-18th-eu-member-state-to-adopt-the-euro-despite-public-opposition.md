@@ -9,6 +9,7 @@ Single currency union marks 15th anniversary by expanding – 18 months after cr
 
 1. [CNN](http://money.cnn.com/2013/12/31/investing/latvia-euro-europe/)
 2. [The Guardian](http://www.theguardian.com/business/2013/dec/31/latvia-joins-euro-single-currency)
+2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Business/Pix/pictures/2013/12/31/1388496037843/Latvian-euro-coins-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a7197cf3bf70a3af6a034e259adbf3dc)
 
 ### Related:
 

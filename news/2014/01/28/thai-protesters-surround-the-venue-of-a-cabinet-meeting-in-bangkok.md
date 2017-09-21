@@ -8,6 +8,7 @@ THAILAND-PROTEST:Thai protesters surround cabinet meeting venue
 ### Source:
 
 1. [Reuters via Thomson Reuters Foundation](http://www.trust.org/item/20140128044930-dj912/)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/87b3d3df-9eab-494b-8d1c-b8c27fe7125f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

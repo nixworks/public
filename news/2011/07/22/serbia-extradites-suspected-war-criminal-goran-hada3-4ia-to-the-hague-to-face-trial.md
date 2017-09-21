@@ -8,6 +8,7 @@ War crimes suspect Goran Hadzic arrives in the Netherlands after being flown fro
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14247558)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54215000/jpg/_54215165_012505153-1.jpg)
 
 ### Related:
 

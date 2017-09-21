@@ -9,6 +9,7 @@ North Korea fired off an apparent short-range missile Monday morning that was be
 
 1. [CNN](http://www.cnn.com/2017/05/28/asia/north-korea-fires-unidentified-projectile/index.html)
 2. [The Japan Times](http://www.japantimes.co.jp/news/2017/05/29/asia-pacific/north-korea-fires-off-missile-lands-japans-exclusive-economic-zone/#.WStoddy1vIU)
+2. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2017/05/f-nklaunch-b-20170530-870x583.jpg)
 
 ### Related:
 

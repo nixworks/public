@@ -8,6 +8,7 @@ By Maria Carolina Marcello and Alonso Soto BRASILIA (Reuters) - Brazil&#x27;s le
 ### Source:
 
 1. [Reuters via Yahoo! News](https://ca.news.yahoo.com/brazils-rousseff-loses-crucial-impeachment-vote-congress-015138598--business.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/rNi08zIUGoil9YbhSZkTeg--/aD0zMzc7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/bt/api/res/1.2/HYugC3c7.D4OdNaiiENvjQ--/YXBwaWQ9eW5ld3NfbGVnbztxPTc1O3c9NjAw/http://media.zenfs.com/en-US/video/bloomberg_932/6e95d99e5cc45444f65ed990c0c29694.cf.png)
 
 ### Related:
 

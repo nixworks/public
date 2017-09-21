@@ -8,6 +8,7 @@ Nobel prize-winning Northern Irish poet died this morning in a Dublin hospital a
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/books/2013/aug/30/seamus-heaney-dies-74-poet)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Film/Pix/pictures/2013/8/30/1377860259864/Seamus-Heaney-has-died-ag-010.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0c7efe9214cfb748e9f9ffa33c4ef9be)
 
 ### Related:
 

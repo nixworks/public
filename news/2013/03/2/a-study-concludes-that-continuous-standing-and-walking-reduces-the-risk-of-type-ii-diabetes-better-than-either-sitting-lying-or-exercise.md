@@ -8,6 +8,7 @@ Sitting less and moving around more reduces the risk of developing type 2 diabet
 ### Source:
 
 1. [Medical News Today](http://www.medicalnewstoday.com/articles/257111.php)
+1. [Cover Image](http://www.medicalnewstoday.com/content/categories/diabetes/thumbs/image2.jpg)
 
 ### Related:
 

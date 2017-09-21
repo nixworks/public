@@ -8,6 +8,7 @@ Indian Prime Minister Modi lauds decision to provide land for temple during land
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/uae-allocates-land-abu-dhabi-hindu-temple-150817062426501.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/8/17/376a31bf92f54fdd856171d2e46627af_18.jpg)
 
 ### Related:
 

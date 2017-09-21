@@ -8,6 +8,7 @@ At least 12 Ukrainian servicemen were killed and more than 20 injured in eastern
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30694805)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80082000/jpg/_80082730_80082729.jpg)
 
 ### Related:
 

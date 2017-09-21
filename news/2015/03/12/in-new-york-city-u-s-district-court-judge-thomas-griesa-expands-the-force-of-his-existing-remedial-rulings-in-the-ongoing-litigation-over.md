@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/12/us-argentina-bonds-citigroup-idUSKBN0M82CI20150312)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150312&t=2&i=1031724806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2B0X8)
 
 ### Related:
 

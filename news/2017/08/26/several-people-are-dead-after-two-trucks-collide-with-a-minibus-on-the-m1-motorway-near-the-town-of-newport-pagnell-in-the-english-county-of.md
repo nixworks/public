@@ -8,6 +8,7 @@ Several people have died after a motorway crash involving two lorries and a mini
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/world-news/europe/britain/several-dead-after-two-lorries-minibus-crash-in-england-36071150.html)
+1. [Cover Image](http://www.independent.ie/incoming/article36062644.ece/ALTERNATES/h342/breaking20news.png)
 
 ### Related:
 

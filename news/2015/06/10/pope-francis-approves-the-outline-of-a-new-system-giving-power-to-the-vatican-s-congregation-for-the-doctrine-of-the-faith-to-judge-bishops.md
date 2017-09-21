@@ -8,6 +8,7 @@ Pope Francis has approved the outline of a new system of accountability for Cath
 ### Source:
 
 1. [National Catholic Reporter](http://ncronline.org/news/vatican/francis-approves-process-accountability-bishops-sexual-abuse)
+1. [Cover Image](https://www.ncronline.org/sites/all/themes/ncr_awesomeness/images/logo_facebook2.jpg)
 
 ### Related:
 

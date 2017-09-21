@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/06/whitey-bulger-arrest-santa-monica.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef01538f5ed3f6970b-120pi)
 
 ### Related:
 

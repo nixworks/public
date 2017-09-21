@@ -8,6 +8,7 @@ It took only a dozen years for humanity to add another billion people to the pla
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-seven-billionth-baby-20111031,0,455314.story)
+1. [Cover Image](http://www.latimes.com/media/photo/2011-10/65766457.jpg)
 
 ### Related:
 

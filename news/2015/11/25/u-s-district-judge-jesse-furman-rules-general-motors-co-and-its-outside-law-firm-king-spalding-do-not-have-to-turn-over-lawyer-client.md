@@ -8,6 +8,7 @@ Ruling prevents possible 91,000 pages of documents from being turned over to pla
 ### Source:
 
 1. [The Detriot News](http://www.detroitnews.com/story/business/autos/general-motors/2015/11/25/judge-require-gm-law-firm-produce-documents/76385550/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/detroitnews.png)
 
 ### Related:
 

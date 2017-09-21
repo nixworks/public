@@ -8,6 +8,7 @@ A taxi collided with a truck on the R41 in Randfontein this afternoon.
 ### Source:
 
 1. [Eyewitness News](http://ewn.co.za/2016/04/29/Several-killed-in-taxi-truck-crash-in-Randfontein)
+1. [Cover Image](http://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_fill,h_437,q_70,w_700/x3gjsnztrmxijmydmhpr)
 
 ### Related:
 

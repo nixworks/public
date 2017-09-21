@@ -8,6 +8,7 @@ US officials deny an accusation from former US President Jimmy Carter that the U
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13247723)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52431000/jpg/_52431455_52431454.jpg)
 
 ### Related:
 

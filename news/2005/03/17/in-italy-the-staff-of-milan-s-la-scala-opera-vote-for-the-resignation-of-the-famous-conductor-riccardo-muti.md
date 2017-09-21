@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4356545.stm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=stageNews&storyID=2005-03-16T200736Z_01_L16669211_RTRIDST_0_STAGE-ARTS-SCALA-DC.XML)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

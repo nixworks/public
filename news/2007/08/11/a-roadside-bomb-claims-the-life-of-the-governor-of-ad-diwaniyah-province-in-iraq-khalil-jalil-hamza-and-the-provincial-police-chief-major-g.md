@@ -8,6 +8,7 @@
 ### Source:
 
 1. [San-Jose Mercury News](http://www.mercurynews.com/nationworld/ci_6605490)
+1. [Cover Image](http://www.mercurynews.com/wp-content/themes/mercurynews/static/images/mercurynews.jpg)
 
 ### Related:
 

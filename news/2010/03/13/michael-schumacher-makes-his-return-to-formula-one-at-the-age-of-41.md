@@ -13,6 +13,7 @@ On a day when the row over McLaren&#039;s new car simmered, sparked occasionally
 4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/motorsport/formulaone/michael-schumacher/7431352/Bahrain-Grand-Prix-Michael-Schumacher-feels-rusty-among-the-young-pretenders.html)
 5. [The Hindu](http://beta.thehindu.com/sport/motorsport/article228415.ece)
 6. [The Times](http://www.timesonline.co.uk/tol/sport/formula_1/article7059635.ece)
+6. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01596/michael-schumacher_1596175a.jpg)
 
 ### Related:
 

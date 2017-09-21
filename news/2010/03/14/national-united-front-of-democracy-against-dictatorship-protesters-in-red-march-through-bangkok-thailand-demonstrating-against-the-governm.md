@@ -12,6 +12,7 @@ Anti-government protesters massed around Thailand on Friday ahead of a march the
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7061405.ece)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/13/AR2010031300472.html?hpid=moreheadlines)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/13/c_13209439.htm)
+5. [Cover Image](https://i.cbc.ca/1.2072377.1381902393!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-thailand-protest-cp-rtr2.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Iroquois national lacrosse team received permission on Wednesday from the St
 
 1. [BBC](http://www.bbc.co.uk/news/world-us+canada-10634044)
 2. [The New York Times](http://www.nytimes.com/2010/07/15/sports/15lacrosse.html?_r=1)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

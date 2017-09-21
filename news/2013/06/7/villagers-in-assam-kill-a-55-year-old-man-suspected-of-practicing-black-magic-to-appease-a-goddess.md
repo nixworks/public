@@ -8,6 +8,7 @@
 ### Source:
 
 1. [India Today](http://indiatoday.intoday.in/story/assam-villagers-kill-55-year-old-man-to-appease-goddess-11-held/1/279043.html)
+1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/sacrifice-660_060813124020.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Foreigners among at least 29 dead as fire engulfs hotel in Kurdish city of Sulay
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/201071672610815413.html)
 2. [Arab News](http://arabnews.com/middleeast/article85298.ece)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/16/c_111963201.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

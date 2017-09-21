@@ -8,6 +8,7 @@ Police have said that an incident at the home of a police officer in Bangor, Cou
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20828148)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64865000/jpg/_64865700_bangorscene2.jpg)
 
 ### Related:
 

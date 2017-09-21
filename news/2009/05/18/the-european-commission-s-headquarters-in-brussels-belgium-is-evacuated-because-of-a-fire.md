@@ -8,6 +8,7 @@ The headquarters of the EU Commission in Brussels was evacuated today because of
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0518/eufire.html)
+1. [Cover Image](https://img.rasset.ie/00024c20-1600.jpg)
 
 ### Related:
 

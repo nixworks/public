@@ -8,6 +8,7 @@ One of the first openly gay political candidates in the southern US state of Mis
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/9910998/Mississippi-mayor-candidate-was-dragged-and-set-on-fire-during-murder.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02501/marco-mcmillan_2501086k.jpg)
 
 ### Related:
 

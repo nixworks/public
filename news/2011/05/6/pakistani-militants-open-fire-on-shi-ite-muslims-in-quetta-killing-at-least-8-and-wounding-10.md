@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2011/05/06/us-pakistan-attack-idUSTRE7450DF20110506)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/07/c_13862804.htm)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110506&t=2&i=405090089&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-06T052622Z_01_BTRE7450F4100_RTROPTP_0_PAKISTAN-ATTACK)
 
 ### Related:
 

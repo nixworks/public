@@ -8,6 +8,7 @@ June On Track to Become 1 of Deadliest Months of War as Uncertainty Over U.S. Co
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/stories/2010/06/23/world/main6608932.shtml?tag=stack)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2009/12/30/591543a4-a643-11e2-a3f0-029118418759/image6038417x.jpg)
 
 ### Related:
 

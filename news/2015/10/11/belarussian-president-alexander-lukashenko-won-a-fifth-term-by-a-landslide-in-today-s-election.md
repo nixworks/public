@@ -10,6 +10,7 @@
 1. [Radio Free Europe](http://www.rferl.org/content/belarus-opposition-rallies-on-election-eve/27299147.html)
 2. [Reuters](http://in.reuters.com/article/2015/10/12/belarus-election-idINL8N12B0B220151012)
 3. [Reuters](http://www.reuters.com/article/2015/10/11/us-belarus-election-idUSKCN0S40ZI20151011?feedType=RSS&feedName=worldNews)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

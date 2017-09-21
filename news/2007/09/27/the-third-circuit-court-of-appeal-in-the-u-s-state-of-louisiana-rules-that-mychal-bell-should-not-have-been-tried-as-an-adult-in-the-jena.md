@@ -8,6 +8,7 @@ A teenager accused of assaulting a white schoolmate in a small Louisiana town wa
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN2738499520070928?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070927&t=2&i=1840081&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-27T182058Z_01_N27384995_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

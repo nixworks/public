@@ -8,6 +8,7 @@ NASA’s decision this week to give up trying to move stuck Mars rover Spirit ma
 ### Source:
 
 1. [Space.com](http://www.space.com/missionlaunches/spirit-mars-rover-response-100127.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL3NpdGUvc3BhY2UtYmxhY2sucG5n)
 
 ### Related:
 

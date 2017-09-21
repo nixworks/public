@@ -8,6 +8,7 @@ JOHANNESBURG: A former president of Zambia faces jail after a trial that may sen
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/africa-watches-as-autocrat-faces-jail-20090814-el7v.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

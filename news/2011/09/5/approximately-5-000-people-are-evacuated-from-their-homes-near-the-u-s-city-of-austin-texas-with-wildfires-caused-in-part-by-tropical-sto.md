@@ -11,6 +11,7 @@ No longer a hurricane, Lee continued to drench the South and fuel wildfires in T
 2. [National Hurricane Centre](http://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/060234.shtml?)
 3. [USA Today](http://www.usatoday.com/weather/news/story/2011-09-05/Lees-remnants-bring-floods-feeds-fires/50267656/1)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-09/06/c_131100934.htm)
+4. [Cover Image](http://i.usatoday.net/weather/_photos/2011/09/05/Lees-remnants-bring-floods-feed-fires-S7BTC8T-x.jpg)
 
 ### Related:
 

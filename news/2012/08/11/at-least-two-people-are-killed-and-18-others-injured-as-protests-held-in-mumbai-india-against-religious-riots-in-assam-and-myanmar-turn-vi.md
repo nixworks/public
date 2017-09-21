@@ -8,6 +8,7 @@ At least two people killed and 18 others injured as protests against religious r
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/08/201281114295703643.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/11/201281114365090734_20.jpg)
 
 ### Related:
 

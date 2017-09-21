@@ -8,6 +8,7 @@ Authorities in Romania say at least 12 miners have been killed in two explosions
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2008/11/17/2421112.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

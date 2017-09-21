@@ -8,6 +8,7 @@ The California Supreme Court voted 6 to 1 on Wednesday to review legal challenge
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-prop8-supreme-court20-2008nov20,0,2453702.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

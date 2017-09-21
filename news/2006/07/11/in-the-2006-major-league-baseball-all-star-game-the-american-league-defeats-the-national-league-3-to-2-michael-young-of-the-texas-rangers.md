@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Major League Baseball](http://mlb.mlb.com/NASApp/mlb/mlb/events/all_star/y2006/index.jsp)
+1. [Cover Image](http://mlb.mlb.com/mlb/images/team_logos/social_media/og_1200x630_image/mlb_1200x630.jpg)
 
 ### Related:
 

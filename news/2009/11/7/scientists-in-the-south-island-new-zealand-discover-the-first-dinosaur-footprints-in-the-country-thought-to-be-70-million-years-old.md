@@ -9,6 +9,7 @@ Dinosaur footprints found in northwest Nelson have given scientists their first 
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jyAXldEtqu4qPRPKvopaFTwWiMXg)
 2. [New Zealand Herald](http://www.nzherald.co.nz/science/news/article.cfm?c_id=82&objectid=10607988)
+2. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/200946/071009spldino01_300x200.jpg)
 
 ### Related:
 

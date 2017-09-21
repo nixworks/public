@@ -8,6 +8,7 @@ The U.S. Senate on Tuesdayvoted to pass legislation designed to press China to l
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/10/11/usa-china-idUSWEN925020111011)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

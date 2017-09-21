@@ -8,6 +8,7 @@ Twin boys who were conjoined at the tops of their heads have been separated by a
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-37660003)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/6C86/production/_91928772_capt324ure.jpg)
 
 ### Related:
 

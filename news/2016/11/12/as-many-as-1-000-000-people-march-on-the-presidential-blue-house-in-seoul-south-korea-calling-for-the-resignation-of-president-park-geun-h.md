@@ -10,6 +10,7 @@ Hundreds of thousands called on President Park Geun-hye to resign amid a widenin
 1. [BBC](http://www.bbc.co.uk/news/world-asia-37958037)
 2. [Newsis](http://www.newsis.com/ar_detail/view.html?ar_id=NISX20161112_0014513219&cID=10201&pID=10200)
 3. [The Washington Post](https://www.washingtonpost.com/world/south-koreans-gather-en-masse-for-protest-against-president/2016/11/12/602cf658-a85c-11e6-ba46-53db57f0e351_story.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/183F9/production/_92412399_mediaitem92412398.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-g20-germany-communique-idUSKBN19T07P)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170708&t=2&i=1192213690&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6708W)
 
 ### Related:
 

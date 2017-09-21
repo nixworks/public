@@ -8,6 +8,7 @@ James Franco-led, Toto-free Wizard of Oz prequel posts biggest debut of slumping
 ### Source:
 
 1. [E!](http://www.eonline.com/news/396144/box-office-oz-the-great-and-powerful-conjures-up-80-3-million-opening-weekend)
+1. [Cover Image](http://akns-images.eonline.com/eol_images/Entire_Site/20121119/300.oz.greatpowerful.jc.121812.jpeg?downsize=600:*&crop=600:315;left,top)
 
 ### Related:
 

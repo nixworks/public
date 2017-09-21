@@ -9,6 +9,7 @@ Bahrain said Thursday it had recalled its ambassador to Iran, a day after it sai
 
 1. [Gulf News](http://gulfnews.com/news/gulf/bahrain/bahrain-withdraws-ambassador-from-tehran-1.1593728)
 2. [The Daily Star](https://www.dailystar.com.lb/News/Middle-East/2015/Oct-02/317348-bahrain-withdraws-ambassador-from-iran.ashx)
+2. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

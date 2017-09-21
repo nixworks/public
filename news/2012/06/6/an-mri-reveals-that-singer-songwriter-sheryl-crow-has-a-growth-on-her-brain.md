@@ -8,6 +8,7 @@ The singer has told her fans not to worry after she was diagnosed with a benign 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18341370)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60724000/jpg/_60724067_014956374-1.jpg)
 
 ### Related:
 

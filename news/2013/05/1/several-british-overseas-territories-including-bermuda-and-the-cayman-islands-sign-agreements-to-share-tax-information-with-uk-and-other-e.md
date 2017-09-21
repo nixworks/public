@@ -8,6 +8,7 @@ Bermuda and other British overseas territories with financial centres have signe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-22374923)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67366000/jpg/_67366253_67366252.jpg)
 
 ### Related:
 

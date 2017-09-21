@@ -8,6 +8,7 @@ Via Rail has confirmed that three of its employees, all in the locomotive sectio
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/story/2012/02/26/viarail-toronto.html)
+1. [Cover Image](https://i.cbc.ca/1.1561163.1380870579!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-852-train-derailment.jpg)
 
 ### Related:
 

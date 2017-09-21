@@ -8,6 +8,7 @@ Italy&#039;s parliament on Friday began rushing through austerity measures deman
 ### Source:
 
 1. [Reuters via ''Sydney Morning Herald](http://www.smh.com.au/business/italy-passes-austerity-law-as-greek-pm-sworn-in-20111112-1nci7.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

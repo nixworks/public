@@ -11,6 +11,7 @@ The President has signed the bill reconciling the Lisbon Treaty with the Constit
 2. [Reuters](http://uk.reuters.com/article/idUKTRE59F16S20091016)
 3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1083331&lang=eng_news)
 4. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6877092.ece)
+4. [Cover Image](https://img.rasset.ie/000213a0-1600.jpg)
 
 ### Related:
 

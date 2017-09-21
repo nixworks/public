@@ -11,6 +11,7 @@ Days of severe weather have left deaths, injuries and damage in the South. Here 
 2. [CNN](http://www.cnn.com/2015/12/23/us/severe-weather/)
 3. [Reuters](http://www.reuters.com/article/us-christmas-season-travel-idUSKBN0U628C20151224)
 4. [Weather.com](http://www.weather.com/travel/commuter-conditions/news/southern-severe-weather-flooding-impacts)
+4. [Cover Image](http://s.w-x.co/ap_543306822052_0.jpg)
 
 ### Related:
 

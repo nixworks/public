@@ -8,6 +8,7 @@ The African Union (AU) has admitted South Sudan as its 54th member, marking anot
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article2305415.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

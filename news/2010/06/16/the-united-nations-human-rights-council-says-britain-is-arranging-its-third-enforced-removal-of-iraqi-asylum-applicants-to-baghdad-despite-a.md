@@ -10,6 +10,7 @@ Refugee agencies express concern over reported plans by the UK to deport about 5
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106169113764364.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10325096.stm)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jun/16/iraqi-asylum-risk-deported-unhcr)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

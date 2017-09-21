@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Times](http://dailytimes.com.pk/world/24-Apr-16/at-least-14-dead-in-iraq-suicide-attacks)
+1. [Cover Image](http://dailytimes.com.pk/static/uploads/original/at-least-14-dead-in-iraq-suicide-attacks-47e7991cdc9dc3ab4f4e9797867a56a2.jpg )
 
 ### Related:
 

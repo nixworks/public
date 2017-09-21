@@ -8,6 +8,7 @@ Liberian President Ellen Johnson Sirleaf declares a state of emergency as the co
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-28684561#)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76790000/jpg/_76790064_76790063.jpg)
 
 ### Related:
 

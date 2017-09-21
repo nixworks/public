@@ -12,6 +12,7 @@ Ahead of AIPAC meeting, US Congress leaders express &quot;deep concern&quot; ove
 3. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=171401)
 4. [Yahoo! News](http://www.news.yahoo.com/s/ap/20100320/ap_on_re_mi_ea/ml_israel_palestinians)
 5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3865362,00.html)
+5. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=139994)
 
 ### Related:
 

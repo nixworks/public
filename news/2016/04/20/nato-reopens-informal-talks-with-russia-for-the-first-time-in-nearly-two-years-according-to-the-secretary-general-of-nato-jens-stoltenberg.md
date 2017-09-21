@@ -8,6 +8,7 @@ NATO has reopened informal talks with Russia for the first time in nearly two ye
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2016/04/20/nato-russia-council-holds-talks-after-two-years/)
+1. [Cover Image](http://static.euronews.com/articles/330538/1000x563_330538.jpg)
 
 ### Related:
 

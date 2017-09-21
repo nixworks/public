@@ -10,6 +10,7 @@ First the bad news: Spain&#039;s economy contracted by 3.6% in 2009, the most in
 1. [Business Spectator](http://www.businessspectator.com.au/bs.nsf/Article/UPDATE-3-Spain-economy-shrank-36-pct-in-2009-reces-2DPCA?OpenDocument)
 2. [Mercopress](http://en.mercopress.com/2010/02/06/spain-s-economy-contacted-3.6-in-2009-the-most-in-decades)
 3. [Reuters](http://www.reuters.com/article/idUSMAD00230120100205)
+3. [Cover Image](http://en.mercopress.com/imgs.php/noticias/25955/200x200/2ce086d7e15595c790e4162445e5deac.jpg)
 
 ### Related:
 

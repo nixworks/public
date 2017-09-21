@@ -8,6 +8,7 @@ US brokerage firm MF Global files for bankruptcy protection after revealing £4b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/15519124)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56382000/jpg/_56382179_usstocks.jpg)
 
 ### Related:
 

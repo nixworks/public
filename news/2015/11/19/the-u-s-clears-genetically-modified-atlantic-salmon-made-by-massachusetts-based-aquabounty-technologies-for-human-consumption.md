@@ -8,6 +8,7 @@ U.S. health regulators on Thursday cleared the way for a type of genetically eng
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/19/us-aquabounty-technologies-fda-idUSKCN0T826T20151119)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151119&t=2&i=1096238331&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAI0ZH)
 
 ### Related:
 

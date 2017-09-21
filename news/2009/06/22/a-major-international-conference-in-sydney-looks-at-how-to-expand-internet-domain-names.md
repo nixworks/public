@@ -8,6 +8,7 @@ A major international conference in Sydney today will look at how to expand the 
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2009/06/22/2604459.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

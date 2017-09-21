@@ -10,6 +10,7 @@ Pro-Russian rebels claim responsibility for the attack on Mariupol city that kil
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/10-reported-killed-rocket-fire-mariupol-ukraine-28447614)
 2. [Al Jazeera](http://www.aljazeera.com/news/2015/01/rocket-fire-falls-strategic-city-east-ukraine-150124095343415.html)
 3. [Reuters](http://www.reuters.com/article/2015/01/24/us-ukraine-crisis-casualties-idUSKBN0KX08B20150124)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/1/24/aa3051c6ffe547d88ff21715d844b3c4_18.jpg)
 
 ### Related:
 

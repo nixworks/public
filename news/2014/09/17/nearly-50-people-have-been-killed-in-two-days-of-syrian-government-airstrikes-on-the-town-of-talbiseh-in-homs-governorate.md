@@ -8,6 +8,7 @@ Almost 50 people have been killed by two days of government air strikes in an op
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-29236341)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77637000/jpg/_77637983_77637682.jpg)
 
 ### Related:
 

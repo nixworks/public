@@ -8,6 +8,7 @@ World s most wanted drug lord, authorities believe, was treated at a private hos
 ### Source:
 
 1. [San Diego Red](http://www.sandiegored.com/noticias/46742/Joaquin-El-Chapo-Guzman-might-have-suffered-a-heart-attack/)
+1. [Cover Image](http://edgecast.sdr-files.buscafs.com/uploads/news/thumbs/news_thumb_46742_125.jpg?1)
 
 ### Related:
 

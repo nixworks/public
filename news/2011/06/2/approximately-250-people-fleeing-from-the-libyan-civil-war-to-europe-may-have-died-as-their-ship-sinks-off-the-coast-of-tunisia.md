@@ -8,6 +8,7 @@ UN says up to 150 bodies found off the Tunisian coast a day after a boat reporte
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/20116321636171234.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/3/20116322454243734_20.jpg)
 
 ### Related:
 

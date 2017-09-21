@@ -8,6 +8,7 @@ Angola extradites 37 Chinese nationals accused of targeting other Chinese with k
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19378660)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62492000/jpg/_62492322_62492321.jpg)
 
 ### Related:
 

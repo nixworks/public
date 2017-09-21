@@ -24,6 +24,7 @@ Syrian forces fired into the air on Monday to disperse a pro-democracy protest i
 15. [Reuters](http://www.reuters.com/article/2011/03/28/us-syria-idUSTRE72N2MC20110328?feedType=RSS&feedName=topNews)
 16. [Sydney Morning Herald](http://www.smh.com.au/world/why-we-are-in-libya-obama-20110329-1ce1e.html)
 17. [Washington Post](http://www.washingtonpost.com/politics/2011/03/28/AFgQsppB_story.html)
+17. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110328&t=2&i=373266523&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-28T125229Z_01_BTRE72R0ZRK00_RTROPTP_0_SYRIA)
 
 ### Related:
 

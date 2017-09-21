@@ -8,6 +8,7 @@ Amazon.com Inc is preparing to launch a standalone music streaming subscription 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-amazon-com-music-exclusive-idUSKCN0YW28U)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160610&t=2&i=1140841480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC591JY)
 
 ### Related:
 

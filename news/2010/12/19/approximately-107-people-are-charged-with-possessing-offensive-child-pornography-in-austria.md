@@ -8,6 +8,7 @@ More than 100 people are charged with child sex abuse offences in Austria after 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12033773)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

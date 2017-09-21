@@ -9,6 +9,7 @@ Academic refuses honour in protest against ‘those who remained unresponsive’
 
 1. [BBC](http://www.bbc.com/news/uk-england-merseyside-38457928)
 2. [The Guardian](https://www.theguardian.com/football/2016/dec/29/hillsborough-prof-phil-scraton-turns-down-obe)
+2. [Cover Image](https://i.guim.co.uk/img/media/4d8718415e4e46b76e09c4e0b86cc468bc9cc9ed/0_0_5000_3000/master/5000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8dfe77574d667c68a0c37655193b7579)
 
 ### Related:
 

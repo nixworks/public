@@ -9,6 +9,7 @@
 
 1. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206313)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-02/02/c_13717029.htm)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)
 
 ### Related:
 

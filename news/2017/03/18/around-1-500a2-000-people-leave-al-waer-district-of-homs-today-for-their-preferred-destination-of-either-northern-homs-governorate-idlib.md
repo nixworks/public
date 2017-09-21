@@ -9,6 +9,7 @@ Homs was once dubbed the &quot;capital of the revolution&quot; and al-Wair is th
 
 1. [Al Masdar News](https://www.almasdarnews.com/article/first-batch-rebels-leaves-last-stronghold-syrias-homs-photos/)
 2. [BBC](http://www.bbc.com/news/world-middle-east-39315389)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6005/production/_95218542_2c19468b-0eed-4b42-b336-1820546b5605.jpg)
 
 ### Related:
 

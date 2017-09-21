@@ -10,6 +10,7 @@ Taiwanese technology giant Foxconn plans to hold a morale-boosting employee rall
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-technology/foxconn-holds-moraleboosting-exercise-in-china-20100819-12fda.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11017179)
 3. [iAfrica](http://technology.iafrica.com/news/technology/2599140.htm)
+3. [Cover Image](http://www.iafrica.com/shared/pics/components/news/logo.gif)
 
 ### Related:
 

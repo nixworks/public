@@ -8,6 +8,7 @@ Prime Minister David Cameron tells MPs that nearly 4,000 British troops will be 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20778561)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61659000/jpg/_61659311_61659310.jpg)
 
 ### Related:
 

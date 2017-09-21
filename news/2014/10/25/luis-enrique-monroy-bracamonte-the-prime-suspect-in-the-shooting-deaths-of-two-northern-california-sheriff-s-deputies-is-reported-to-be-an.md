@@ -8,6 +8,7 @@ U.S. immigration officials said Saturday that the man accused of killing two Nor
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-suspect-in-northern-california-shooting-rampage-previously-deported-20141025-story.html)
+1. [Cover Image](http://www.trbimg.com/img-544c4b78/turbine/la-me-ln-suspect-in-northern-california-shooting-rampage-previously-deported-20141025)
 
 ### Related:
 

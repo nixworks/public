@@ -11,6 +11,7 @@ Based on the latest U.S. Department of Energy calculations of carbon dioxide bei
 2. [AP via ''USA Today](http://www.usatoday.com/tech/science/story/2011-11-03/huge-increase-in-global-warming-gasses/51065082/1)
 3. [AccuWeather](http://www.accuweather.com/blogs/climatechange/story/57360/business-as-usual-and-then-som.asp)
 4. [The Atlantic](http://www.theatlanticwire.com/global/2011/11/greenhouse-gases-have-surpassed-worst-case-scenario/44536/)
+4. [Cover Image](https://accuweather.brightspotcdn.com/65/65f188c24c69f8e307097dc8041376bf/350x262_11041842_smokestack_codo_200x267.jpg)
 
 ### Related:
 

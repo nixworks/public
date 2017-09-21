@@ -19,6 +19,7 @@ The man was shot by fellow soldiers along the Gaza border in an operation aimed 
 10. [The New York Times](http://www.nytimes.com/2010/03/23/world/middleeast/23briefs-Israelbf.html)
 11. [Voice of America](http://www1.voanews.com/english/news/europe/Israel-Disappointed-at-Britains-Expulsion-of-Diplomat-88953067.html)
 12. [euronews](http://www.euronews.net/2010/03/23/tensions-rise-on-the-israel-gaza-border/)
+12. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

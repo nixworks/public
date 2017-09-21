@@ -8,6 +8,7 @@ Agencies and humanitarian groups voice fears that drought and rising prices coul
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/global-development/2017/feb/03/somalia-famine-fears-un-call-immediate-massive-reaction)
+1. [Cover Image](https://i.guim.co.uk/img/media/9a5750c6fcba82f94025492a0c5aa6e0c21c2380/0_17_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2abfd274da586eb59a64966c2095820b)
 
 ### Related:
 

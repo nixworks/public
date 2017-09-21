@@ -8,6 +8,7 @@ Dead include six civilians, clash took place between BRA members and tribesmen.
 ### Source:
 
 1. [The Express Tribune](http://tribune.com.pk/story/669472/tribal-clash-9-killed-in-exchange-of-fire-in-balochistan/)
+1. [Cover Image](https://c.tribune.com.pk/2014/02/669472-bullet-1391924726-607-640x480.jpg)
 
 ### Related:
 

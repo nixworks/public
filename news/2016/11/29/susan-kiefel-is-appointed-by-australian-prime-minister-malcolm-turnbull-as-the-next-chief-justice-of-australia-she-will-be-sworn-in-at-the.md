@@ -8,6 +8,7 @@ From leaving school at age 15 to the High Court Chief Justice, Susan Kiefel will
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-11-29/susan-kiefel-appointed-australia's-first-female-chief-justice/8073942)
+1. [Cover Image](http://www.abc.net.au/news/image/8074030-1x1-700x700.jpg)
 
 ### Related:
 

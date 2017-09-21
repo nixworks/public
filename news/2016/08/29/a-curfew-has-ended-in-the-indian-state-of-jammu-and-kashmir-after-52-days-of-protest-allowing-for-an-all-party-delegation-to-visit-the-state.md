@@ -8,6 +8,7 @@ For the first time in 52 days, cur the first time in 52 days, curfew was lifted 
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/JampK-unrest-Curfew-lifted-in-valley-after-52-days/articleshow/53920273.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/53920266.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ President Anibal Cavaco Silva proposed an urgent cross-party agreement between t
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/07/10/uk-portugal-crisis-deal-idUKBRE96911G20130710)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130710&t=2&i=749463662&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9691P4E00)
 
 ### Related:
 

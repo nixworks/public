@@ -12,6 +12,7 @@ Turkish president Recep Tayyip Erdogan was warned by world leaders on Sunday not
 3. [Reuters via Trust](http://news.trust.org/item/20160716024151-60u31)
 4. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/15/turkey-low-flying-jets-and-gunfire-heard-in-ankara1/)
 5. [Washington Post](https://www.washingtonpost.com/news/world/wp/2016/07/15/turkish-president-rejects-coup-attempt-urges-supporters-to-take-to-the-streets/?wpisrc=al_alert-COMBO-world%252Bnation)
+5. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/5/j/5ja3hynde6_pcyxpqbj4smsxreqtjmw6-xlarge.jpg)
 
 ### Related:
 

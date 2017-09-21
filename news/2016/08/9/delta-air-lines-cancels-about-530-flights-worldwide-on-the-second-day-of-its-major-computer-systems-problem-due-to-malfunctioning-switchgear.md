@@ -8,6 +8,7 @@ Delta Air Lines (DAL.N) faces a &quot;time-consuming process&quot; to restore no
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-delta-air-outages-idUSKCN10K104)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160809&t=2&i=1148924236&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC780JQ)
 
 ### Related:
 

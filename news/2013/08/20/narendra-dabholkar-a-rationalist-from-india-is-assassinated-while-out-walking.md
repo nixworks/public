@@ -8,3 +8,4 @@ Anti-superstition activist and Maharashtra’s most vocal rationalist Dr. Narend
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/national/other-states/rationalist-dabholkar-shot-dead/article5041138.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article11844919.ece/ALTERNATES/LANDSCAPE_615/Dabholkar)

@@ -8,6 +8,7 @@ Israel approves plans to withdraw its troops from the northern half of a village
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-11772048)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

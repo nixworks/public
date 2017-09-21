@@ -13,6 +13,7 @@ Ships carrying 10,000 tonnes of supplies and hundreds of pro-Palestinian activis
 4. [The Age](http://news.theage.com.au/breaking-news-world/flotilla-bound-for-gaza-delayed-20100530-wmt1.html)
 5. [The Australian](http://www.theaustralian.com.au/news/world/israelis-take-to-seas-to-avoid-pr-disaster-over-gaza-activist-flotilla/story-e6frg6so-1225872718470)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/29/c_13322935.htm)
+6. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

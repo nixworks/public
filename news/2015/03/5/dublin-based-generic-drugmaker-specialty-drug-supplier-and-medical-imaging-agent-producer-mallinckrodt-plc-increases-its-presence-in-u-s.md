@@ -8,6 +8,7 @@ Dublin-based drugmaker Mallinckrodt Plc strengthened its presence in U.S. hospit
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/05/us-malinckrodt-deal-idUSKBN0M11BS20150305)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

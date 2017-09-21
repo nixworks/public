@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-europe-migrants-libya-idUSKCN1B91E4?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170829&t=2&i=1199030172&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7S0TC)
 
 ### Related:
 

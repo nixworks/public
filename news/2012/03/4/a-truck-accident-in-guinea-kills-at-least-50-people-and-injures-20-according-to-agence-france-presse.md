@@ -8,6 +8,7 @@ Reports from Guinea say up to 50 people have died after a lorry taking people to
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17248741)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58862000/gif/_58862169_beyla_guinea_03_12.gif)
 
 ### Related:
 

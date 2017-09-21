@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/D739DA78-145C-4319-AD9D-93C55A36977F.htm)
 2. [CBS News](http://www.cbsnews.com/stories/2006/08/27/world/main1936899.shtml)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/08/27/d46415c3-a642-11e2-a3f0-029118418759/image1936902x.jpg)
 
 ### Related:
 

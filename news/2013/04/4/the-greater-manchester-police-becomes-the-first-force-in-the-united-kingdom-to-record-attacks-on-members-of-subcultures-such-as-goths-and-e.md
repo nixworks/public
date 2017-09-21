@@ -8,6 +8,7 @@ Hate crimes against groups such as goths or punks are to be recorded by Greater 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-lancashire-22018888)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53932000/jpg/_53932425_53932424.jpg)
 
 ### Related:
 

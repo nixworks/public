@@ -8,6 +8,7 @@ In a historic first, a European spacecraft arrives at a speeding comet after a 1
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-28659783)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76774000/jpg/_76774932_comet67p.jpg)
 
 ### Related:
 

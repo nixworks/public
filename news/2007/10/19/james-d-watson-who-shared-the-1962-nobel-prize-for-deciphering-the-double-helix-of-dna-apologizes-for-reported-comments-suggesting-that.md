@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/10/19/science/19watson.html?em&ex=1193025600&en=25a503b731871947&ei=5087%0A)
+1. [Cover Image](https://static01.nyt.com/images/2007/10/19/us/19watson.75.jpg)
 
 ### Related:
 

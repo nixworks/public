@@ -8,6 +8,7 @@ The UDA has announced that units of its military wing, the Ulster Freedom Fighte
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2007/1111/uda.html)
+1. [Cover Image](https://img.rasset.ie/0000669e-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two commuter trains have collided in Brazil&#39;s Rio de Janeiro state, injuring
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Brazil-train-collision-leaves-158-injured-20150106)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2950/e9a0ceca717e4f2d9eaf61e735646ab7.jpg)
 
 ### Related:
 

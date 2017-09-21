@@ -8,6 +8,7 @@ They will be treated as UK citizens for healthcare, education benefits and pensi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-40375761)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/4722/production/_96601281_040203625.jpg)
 
 ### Related:
 

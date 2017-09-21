@@ -8,6 +8,7 @@ The deaths happened in an off-piste area near the resort of Courmayeur.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39143909)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E953/production/_94913795_gettyimages-2863839.jpg)
 
 ### Related:
 

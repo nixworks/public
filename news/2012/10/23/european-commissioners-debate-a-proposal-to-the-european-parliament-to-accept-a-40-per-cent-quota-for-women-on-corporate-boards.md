@@ -8,6 +8,7 @@ EU commissioners postpone plans to impose quotas for women on company boards aft
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-20039540)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59035000/jpg/_59035486_000360710-1.jpg)
 
 ### Related:
 

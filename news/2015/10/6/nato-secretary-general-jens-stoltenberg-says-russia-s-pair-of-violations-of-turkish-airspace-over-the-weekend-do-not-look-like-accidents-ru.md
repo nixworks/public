@@ -10,6 +10,7 @@ Russian jets hit Islamic State targets in the Syrian city of Palmyra and the nor
 1. [BBC](http://www.bbc.com/news/world-europe-34453739)
 2. [Independent](http://www.independent.co.uk/news/world/middle-east/russia-in-syria-russian-radar-locks-on-to-turkish-fighter-jets-as-moscow-steps-up-air-strikes-a6683766.html)
 3. [Reuters](http://uk.reuters.com/article/2015/10/06/uk-mideast-crisis-syria-strikes-idUKKCN0S010U20151006)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

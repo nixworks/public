@@ -8,6 +8,7 @@ Customs and Border Protection personnel responded appropriately to the Christmas
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/people-smuggling-tragedy-report-praises-bravery-of-rescuers-20110124-1a2ex.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/8/y/p/w/image.related.thumbnail.320x214.1a2ex.png/1295841989187.jpg)
 
 ### Related:
 

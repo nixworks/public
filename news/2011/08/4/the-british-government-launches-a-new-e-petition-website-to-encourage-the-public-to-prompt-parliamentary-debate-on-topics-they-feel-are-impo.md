@@ -9,6 +9,7 @@ An online campaign is calling for the death penalty to be reinstated citing opin
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14402195)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-14400246)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54425000/jpg/_54425449_56892492.jpg)
 
 ### Related:
 

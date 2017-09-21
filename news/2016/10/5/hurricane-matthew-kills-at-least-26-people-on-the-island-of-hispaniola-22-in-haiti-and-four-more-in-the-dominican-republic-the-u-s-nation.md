@@ -12,6 +12,7 @@ Haitian election officials postponed Sunday&rsquo;s rerun presidential and legis
 3. [The Miami Herald](http://www.miamiherald.com/news/weather/hurricane/article106163162.html)
 4. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/052038.shtml)
 5. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/060012.shtml)
+5. [Cover Image](http://www.miamiherald.com/news/weather/hurricane/nqdmlh/picture106163142/ALTERNATES/LANDSCAPE_1140/IMG_Haiti_Tropical_Weath_2_1_IG9I60A2_L262747612)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Lawyers for the Duke and Duchess of Cambridge begin civil proceedings in a Frenc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19620164)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62943000/jpg/_62943108_016007114.jpg)
 
 ### Related:
 

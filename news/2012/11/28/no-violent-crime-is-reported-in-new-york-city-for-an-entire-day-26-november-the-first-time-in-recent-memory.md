@@ -9,6 +9,7 @@ For the first time in living memory, New York City - whose murder rate has hit a
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20536201)
 2. [Reuters](http://www.reuters.com/article/2012/11/28/us-usa-newyork-crime-idUSBRE8AR18S20121128)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64448000/jpg/_64448030_64448029.jpg)
 
 ### Related:
 

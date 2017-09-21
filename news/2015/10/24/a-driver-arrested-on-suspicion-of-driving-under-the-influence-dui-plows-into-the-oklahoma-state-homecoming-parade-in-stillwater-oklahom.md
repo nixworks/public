@@ -11,6 +11,7 @@ More than two dozen injured after the car crashed into a crowd along the route S
 2. [KOCO](http://www.koco.com/news/several-hurt-in-crash-at-osu-parade/36027322)
 3. [Stillwater News Press](http://www.stwnewspress.com/news/stillwater-pd-driver-arrested-on-suspicion-of-driving-under-influence/article_0c33c3dc-7a78-11e5-a4ff-5f1575654c10.html)
 4. [USA Today](http://www.usatoday.com/story/sports/ncaaf/big12/2015/10/24/fatal-car-crash-kills-two-at-oklahoma-state-homecoming-parade/74532230/)
+4. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

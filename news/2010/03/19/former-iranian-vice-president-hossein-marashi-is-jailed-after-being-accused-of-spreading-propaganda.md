@@ -11,6 +11,7 @@
 2. [FOX News](http://www.foxnews.com/world/2010/03/19/iran-jails-vice-president-spreading-propaganda/)
 3. [MSNBC](http://www.msnbc.msn.com/id/35944717/ns/world_news-mideastn_africa/)
 4. [TIME](http://www.time.com/time/world/article/0,8599,1973495,00.html)
+4. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

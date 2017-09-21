@@ -8,6 +8,7 @@ The Twitter and YouTube accounts for the U.S. military command that oversees ope
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/12/us-cybersecurity-centcom-hack-idUSKBN0KL1UZ20150112)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150112&t=2&i=1015754613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0B0WD)
 
 ### Related:
 

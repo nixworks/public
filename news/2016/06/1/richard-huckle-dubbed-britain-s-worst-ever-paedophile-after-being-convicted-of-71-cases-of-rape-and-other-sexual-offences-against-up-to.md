@@ -8,6 +8,7 @@ Richard Huckle admitted 71 charges - but investigators believe he abused up to 2
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1705318/prolific-paedophile-raped-babies-and-toddlers)
+1. [Cover Image](http://e3.365dm.com/16/06/1600x900/cegrab-20160601-105505-216-1-2048x1536_3476869.jpg?20160601153134)
 
 ### Related:
 

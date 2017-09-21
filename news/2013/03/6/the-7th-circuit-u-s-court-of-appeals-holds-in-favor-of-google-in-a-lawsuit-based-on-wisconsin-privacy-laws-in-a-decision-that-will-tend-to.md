@@ -8,6 +8,7 @@ A Wisconsin woman trying to protect her &quot;wholesome&quot; image failed to pe
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/03/06/us-google-searches-lawsuit-idUSBRE92513Z20130306)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130306&t=2&i=710270614&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9251CHN00)
 
 ### Related:
 

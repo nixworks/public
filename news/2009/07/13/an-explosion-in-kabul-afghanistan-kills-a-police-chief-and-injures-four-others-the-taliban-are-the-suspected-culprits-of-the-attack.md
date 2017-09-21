@@ -8,6 +8,7 @@ The police chief of a district south of Kabul that the Americans had sought to m
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/07/14/world/asia/14afghan.html)
+1. [Cover Image](https://static01.nyt.com/images/2009/07/14/world/14afghan_75.jpg)
 
 ### Related:
 

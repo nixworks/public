@@ -10,6 +10,7 @@ A Chinese court for the first time accepts a case from a man alleging employment
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h9ULGc5JHZhbRO8qWRN94gK8HEEA)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11139607)
 3. [China Daily](http://www.chinadaily.com.cn/china/2010-08/31/content_11228867.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

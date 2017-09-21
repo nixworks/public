@@ -9,6 +9,7 @@ Google has unveiled its latest flagship phone, the Galaxy Nexus, and its latest 
 
 1. [The Telegraph](http://www.telegraph.co.uk/technology/google/8835757/Google-launches-Galaxy-Nexus-phone.html)
 2. [ZDnet](http://www.zdnet.com/blog/mobile-news/android-40-and-samsung-galaxy-nexus-unveiled-5-surprises/5093)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02030/Nexus_2030962a.jpg)
 
 ### Related:
 

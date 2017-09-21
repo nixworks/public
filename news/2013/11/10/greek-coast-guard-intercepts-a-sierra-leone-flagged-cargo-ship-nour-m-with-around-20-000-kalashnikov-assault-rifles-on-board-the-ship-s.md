@@ -9,6 +9,7 @@ The Greek Coastguard has intercepted a Sierra Leone-flagged cargo ship with arou
 
 1. [RT](http://rt.com/news/greek-seize-ship-kalashnikov-503/)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/greece-stops-ship-carrying-20000-kalashnikov-guns-20131109-2x90x.html)
+2. [Cover Image](https://img.rt.com/files/news/21/14/f0/00/24.si.jpg)
 
 ### Related:
 

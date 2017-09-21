@@ -8,3 +8,4 @@ A team of astronomers says it holds bragging rights to releasing the first ever 
 ### Source:
 
 1. [National Geographic](http://news.nationalgeographic.com/news/2010/06/100630-science-space-planets-first-picture-confirmed/)
+1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/photos/legacy-new/news-exoplanet-first-picture_22801_990x742.ngsversion.1424662173417.adapt.1900.1.jpg)

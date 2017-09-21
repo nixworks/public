@@ -8,6 +8,7 @@ The blast took place in the Argentine city of Rosario, the nation&#39;s third mo
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/08/06/argentina-building-explosion/2624465/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

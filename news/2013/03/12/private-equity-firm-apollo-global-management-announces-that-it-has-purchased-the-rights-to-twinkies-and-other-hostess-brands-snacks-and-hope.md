@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/business/breaking/chi-new-hostess-owner-eyes-twinkies-summer-return-20130312,0,704303.story)
+1. [Cover Image](http://www.trbimg.com/img-513f6da3/turbine/chi-twinkies-deal-near-20130129/600/600x400)
 
 ### Related:
 

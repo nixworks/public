@@ -8,6 +8,7 @@ Myanmar has detained a top activist comedian involved in a private aid effort fo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSBKK4666720080605)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080605&t=2&i=4650780&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-05T062953Z_01_BKK46667_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

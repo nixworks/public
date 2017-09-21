@@ -8,6 +8,7 @@ Greenland became the 21st country in the world to legalize gay marriage thanks t
 ### Source:
 
 1. [The Local](http://www.thelocal.dk/20150528/greenland-approves-same-sex-marriage)
+1. [Cover Image](https://www.thelocal.dk/userdata/images/article/42c4259957b6bd73e07d45308511cfca2f153ef0dabcf439ae7be1def26b5a4b.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A bus from Wales tipped over on its side in eastern France on Saturday, injuring
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-france-accident-idUSKCN1030N8)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

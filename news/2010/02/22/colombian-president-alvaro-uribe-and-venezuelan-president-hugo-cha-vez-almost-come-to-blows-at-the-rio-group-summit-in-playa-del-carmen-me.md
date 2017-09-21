@@ -10,6 +10,7 @@ The Venezuelan and Colombian presidents traded insults at a summit with Hugo Cha
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8531266.stm)
 2. [Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/venezuela/7298338/Hugo-Chavez-called-a-coward-as-insults-fly-at-Latin-American-summit.html)
 3. [The Summit also announces the creation of the [[Community of Latin American and Caribbean States](http://www.lavanguardia.es/internacional/noticias/20100223/53895179677/chavez-y-uribe-aceptan-la-mediacion-de-un-grupo-de-amigos-para-resolver-sus-diferencias.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01584/chavez_1584040a.jpg)
 
 ### Related:
 

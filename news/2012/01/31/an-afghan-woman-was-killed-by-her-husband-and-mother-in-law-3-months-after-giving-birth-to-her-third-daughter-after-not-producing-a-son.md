@@ -8,6 +8,7 @@ The Kunduz Province authorities say that a woman, 22, was strangled by her husba
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/01/31/world/asia/afghan-kin-accused-of-killing-woman-who-failed-to-have-son.html?_r=1&scp=1&sq=afghan%20woman%20killed&st=cse)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

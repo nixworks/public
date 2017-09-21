@@ -8,6 +8,7 @@ Two men who were presumed dead when a camper was swept away in rushing waters du
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2016/06/27/2-campers-presumed-dead-found-alive-after-west-virginia-floods.html?intcmp=hplnws)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/06/27/0/0/694940094001_4997730242001_3e31a5ff-ef2c-44ad-9662-0ba090f8b681.jpg?ve=1)
 
 ### Related:
 

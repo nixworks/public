@@ -9,6 +9,7 @@ At least 11 people were killed across three states, including a young boy, after
 
 1. [NBC News](http://www.nbcnews.com/news/weather/death-toll-rises-after-tornadoes-storms-ravage-south-n485506)
 2. [Reuters](http://in.reuters.com/article/christmas-season-travel-idINKBN0U710C20151224)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_52/1353081/151224-after-severe-storm-holly-springs-yh-0209p_4b5cb060687be7e268ce5555bee1a24b.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

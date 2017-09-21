@@ -8,6 +8,7 @@ The man sentenced to 25 years in jail for the murder of honeymooner Anni Dewani 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/970134/man-jailed-for-anni-dewani-honeymoon-murder)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/15952803_3508254.jpg?20160704114137)
 
 ### Related:
 

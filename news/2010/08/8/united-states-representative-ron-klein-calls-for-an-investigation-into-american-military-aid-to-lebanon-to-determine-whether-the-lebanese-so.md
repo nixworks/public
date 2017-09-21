@@ -8,6 +8,7 @@ Florida congressman Ron Klein calls for US to stop military support.
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=184003)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=147254)
 
 ### Related:
 

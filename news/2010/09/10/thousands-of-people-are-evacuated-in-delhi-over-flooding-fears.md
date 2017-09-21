@@ -10,6 +10,7 @@ Thousands of people are evacuated from low-lying areas near the Yamuna river in 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11259449)
 2. [The Hindu](http://www.thehindu.com/news/cities/Delhi/article623324.ece)
 3. [The Times of India](http://timesofindia.indiatimes.com/city/delhi/This-Friday-Delhi-braces-for-worst-flood-since-1978/articleshow/6521525.cms)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

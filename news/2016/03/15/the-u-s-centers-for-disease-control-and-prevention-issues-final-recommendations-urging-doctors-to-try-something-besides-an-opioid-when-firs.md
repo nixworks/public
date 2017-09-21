@@ -9,6 +9,7 @@ New guidelines from the CDC urge doctors to take it easy in prescribing the pote
 
 1. [NBC News](http://www.nbcnews.com/health/health-news/new-cdc-painkiller-guidelines-go-low-use-less-n538986)
 2. [The Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2016/03/15/cdc-warns-doctors-about-the-dangers-of-prescribing-opioid-painkillers/?wpmm=1&wpisrc=nl_evening)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_11/1459056/160315-prescription-pills-233p_242a6b83cbe6339f9f2acc7d4a096a5f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

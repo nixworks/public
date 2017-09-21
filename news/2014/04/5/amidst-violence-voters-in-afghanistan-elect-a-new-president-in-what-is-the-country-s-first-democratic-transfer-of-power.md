@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-asia-26880022)
 2. [Huffington Post](http://www.huffingtonpost.com/2014/04/04/landmark-afghan-election-_n_5095143.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74026000/jpg/_74026479_reuters.jpg)
 
 ### Related:
 

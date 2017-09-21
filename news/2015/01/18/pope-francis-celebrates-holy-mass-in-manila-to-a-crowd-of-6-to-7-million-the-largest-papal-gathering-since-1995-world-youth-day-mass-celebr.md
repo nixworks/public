@@ -12,6 +12,7 @@ Pope Francis concluded his trip to Asia on Sunday with an open-air Mass for a ra
 3. [CNN](http://edition.cnn.com/2015/01/18/world/philippines-pope-visit/)
 4. [Rappler](http://www.rappler.com/specials/pope-francis-ph/81229-pope-francis-mass-luneta-rizal-park)
 5. [Reuters](http://www.reuters.com/article/2015/01/18/us-pope-philippines-idUSKBN0KQ0TX20150118)
+5. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150118&t=2&i=1017179849&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0G0CN)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A 25,000-acre wildfire in central California, one of three dozen major blazes bu
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-usa-wildfires-idUSKBN1A40WB)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170719&t=2&i=1193553633&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6I0JT)
 
 ### Related:
 

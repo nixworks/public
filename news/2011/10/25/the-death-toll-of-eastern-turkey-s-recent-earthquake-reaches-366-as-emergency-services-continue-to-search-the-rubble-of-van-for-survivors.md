@@ -9,6 +9,7 @@ Defense Ministry to send plane carrying 7 mobile homes to quake-devastated provi
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=243154)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/oct/25/turkey-earthquake-rescue-baby-girl?newsfeed=true)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=176833)
 
 ### Related:
 

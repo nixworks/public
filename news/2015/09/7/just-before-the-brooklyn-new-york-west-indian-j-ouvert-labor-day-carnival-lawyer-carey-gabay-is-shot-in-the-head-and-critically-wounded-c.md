@@ -9,6 +9,7 @@ The Harvard-educated first deputy counsel to New York Gov. Andrew Cuomo was shot
 
 1. [ABC News](http://abcnews.go.com/Politics/gov-andrew-cuomos-1st-deputy-counsel-shot-brooklyn/story?id=33583786)
 2. [Breitbart](http://www.breitbart.com/big-government/2015/09/07/shootings-stabbings-leave-1-dead-4-wounded-in-annual-brooklyn-jouvert-festival/)
+2. [Cover Image](http://a.abcnews.com/images/Politics/abc_wabc_brooklyn_shooting_mt_150907_16x9_992.jpg)
 
 ### Related:
 

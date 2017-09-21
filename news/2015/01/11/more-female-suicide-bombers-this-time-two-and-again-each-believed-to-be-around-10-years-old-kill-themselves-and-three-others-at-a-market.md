@@ -8,6 +8,7 @@ Two suspected child suicide bombers have blown themselves up in a market in nort
 ### Source:
 
 1. [Reuters via News24](http://www.news24.com/news24/Africa/News/Two-more-child-suicide-bombers-hit-Nigeria-20150111)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2811/49e4a0ff451f4e30829b86ba080a9f6d.jpg)
 
 ### Related:
 

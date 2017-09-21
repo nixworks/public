@@ -9,3 +9,4 @@ The Russian Foreign Ministry has criticized western leaders after none appeared 
 
 1. [France24](http://www.france24.com/en/20161205-syria-aleppo-russian-army-medic-killed-shelling-field-hospital)
 2. [Russia Today](https://www.rt.com/news/369282-russian-foreign-ministry-hospital-bombing/)
+2. [Cover Image](https://img.rt.com/files/2016.12/article/5845dc7bc461881b4d8b45f8.jpg)

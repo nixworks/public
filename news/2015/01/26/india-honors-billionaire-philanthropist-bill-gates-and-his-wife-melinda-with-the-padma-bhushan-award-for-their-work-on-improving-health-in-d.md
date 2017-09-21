@@ -8,6 +8,7 @@ India conferred one of its highest civilian awards on billionaire philanthropist
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/26/us-india-billgates-idUSKBN0KZ16G20150126)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150126&t=2&i=1019974490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0P0HC)
 
 ### Related:
 

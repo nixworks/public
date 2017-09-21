@@ -8,6 +8,7 @@ Chinese Nationalist Party (KMT) chief Ma Ying-jeou (馬英九) stepped down
 ### Source:
 
 1. [Taipei Times News](http://www.taipeitimes.com/News/front/archives/2007/02/13/2003348887)
+1. [Cover Image](http://www.taipeitimes.com/images/logo.gif)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Gennady Yanayev, leader of an abortive 1991 coup against Soviet President Mikhai
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i2YI5c-eC2vLg8-DkHvHd4sQj7DAD9IE5JAG0)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11405117)
 3. [Reuters via ''Gulf News](http://gulfnews.com/news/world/other-world/former-coup-mastermind-dies-in-russia-1.686975)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Violence rocked embattled Yemen on Saturday as suspected militants killed govern
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/14/yemen.unrest/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/05/14/yemen.unrest/tzvids.yemen.unrest.gi.jpg)
 
 ### Related:
 

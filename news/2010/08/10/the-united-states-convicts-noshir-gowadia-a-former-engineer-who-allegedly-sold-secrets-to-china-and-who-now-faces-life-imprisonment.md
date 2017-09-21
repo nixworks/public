@@ -8,6 +8,7 @@ A US engineer of Indian origin is convicted of selling military secrets about th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10922531)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

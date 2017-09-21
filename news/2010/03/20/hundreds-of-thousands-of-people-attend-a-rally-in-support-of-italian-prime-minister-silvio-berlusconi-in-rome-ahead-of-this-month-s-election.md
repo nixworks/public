@@ -12,6 +12,7 @@ Hundreds of thousands of people have marched through the Italian capital in a ma
 3. [France24](http://www.france24.com/en/20100320-hundreds-thousands-attend-pro-berlusconi-rally-rome-regional-polls-italy)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE62J1ET20100320?feedType=RSS&feedName=worldNews)
 5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/massive-rally-in-support-of-berlusconi-20100321-qnli.html)
+5. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

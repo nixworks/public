@@ -8,6 +8,7 @@ Oliver Schmidt faces up to seven years in prison for his role in the Volkswagen 
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/business-40829900)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/D05D/production/_97214335_gettyimages-489539224.jpg)
 
 ### Related:
 

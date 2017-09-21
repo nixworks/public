@@ -8,6 +8,7 @@ James Gandolfini, the actor who most famously portrayed Tony Soprano on the seri
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Entertainment/james-gandolfini-portrayed-tony-soprano-dies-51/story?id=19441746)
+1. [Cover Image](http://a.abcnews.com/images/Entertainment/gty_james_gandolfini_tk_130619_wmain.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-bangladesh-attack-idUSKBN16V235?il=0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170324&t=2&i=1177933508&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2N1KG)
 
 ### Related:
 

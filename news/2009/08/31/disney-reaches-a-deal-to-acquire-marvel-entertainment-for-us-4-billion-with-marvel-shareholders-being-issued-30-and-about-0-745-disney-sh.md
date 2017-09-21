@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Marketwatch](http://www.marketwatch.com/story/disney-to-acquire-marvel-entertainment-for-4b-2009-08-31)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

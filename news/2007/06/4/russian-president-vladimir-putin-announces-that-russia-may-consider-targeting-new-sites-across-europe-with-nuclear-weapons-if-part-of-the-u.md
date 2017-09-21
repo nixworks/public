@@ -10,6 +10,7 @@
 1. [CNN](http://www.cnn.com/2007/WORLD/europe/06/04/russia.putin.ap/index.html)
 2. [Kremlin.ru](http://kremlin.ru/eng/speeches/2007/06/04/2149_type82914type82916_132772.shtml)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSL0412763320070604)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070604&t=2&i=905790&w=&fh=545px&fw=&ll=&pl=&sq=&r=905790)
 
 ### Related:
 

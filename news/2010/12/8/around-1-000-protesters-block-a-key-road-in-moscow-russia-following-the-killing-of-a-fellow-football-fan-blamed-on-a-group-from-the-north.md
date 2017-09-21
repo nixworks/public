@@ -9,6 +9,7 @@ Moscow football fans block a key city artery in protest at a killing which has p
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11947753)
 2. [The Moscow News](http://themoscownews.com/local/20101208/188262899.html?referfrommn)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/50346000/jpg/_50346592_010804468-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Militants fired shells containing banned poisonous substances at apartments in A
 ### Source:
 
 1. [Al Masdar News](https://www.almasdarnews.com/article/expert-proves-jihadists-bombarded-aleppo-neighborhood-chemical-weapons/)
+1. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2016/10/aleppooo.jpg)
 
 ### Related:
 

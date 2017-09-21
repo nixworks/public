@@ -9,6 +9,7 @@ Scientists report the design and test-driving of a single molecule with four &qu
 
 1. [AdelaideNow](http://www.adelaidenow.com.au/news/technology/the-worlds-smallest-car-hits-the-road/story-e6freaal-1226190639817)
 2. [BBC](http://www.bbc.co.uk/news/science-environment-15637867)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56589000/jpg/_56589922_image_2.jpg)
 
 ### Related:
 

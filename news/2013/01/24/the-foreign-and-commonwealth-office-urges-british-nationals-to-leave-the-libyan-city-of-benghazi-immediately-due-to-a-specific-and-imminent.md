@@ -9,6 +9,7 @@ British and other foreign nationals are advised to leave the Libyan city of Beng
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21181742)
 2. [Sky News](http://news.sky.com/story/1042347/british-nationals-urged-to-leave-benghazi)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65489000/jpg/_65489805_ni5aq5gl.jpg)
 
 ### Related:
 

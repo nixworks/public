@@ -8,6 +8,7 @@ Less than a fortnight into his job as CEO, Kazuo Hirai sketched out a strategy t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/04/12/us-sony-plan-idUSBRE83B09J20120412?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120412&t=2&i=593698144&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE83B0K3G00)
 
 ### Related:
 

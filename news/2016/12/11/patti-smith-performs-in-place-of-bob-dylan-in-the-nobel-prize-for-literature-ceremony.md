@@ -8,6 +8,7 @@ Representing the Nobel laureate at the prize-giving, the US singer admitted nerv
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/music/2016/dec/10/patti-smith-falters-in-stockholm-tribute-to-an-absent-bob-dylan)
+1. [Cover Image](https://i.guim.co.uk/img/media/2359acb8a2ac906cccfd27fbbeefca5b5039f1ce/0_120_2560_1536/master/2560.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f3db8f3e2c61c199e14bae1b60116226)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Nigerian and Chinese authorities sign a $23bn deal to build three refineries and
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/10116945.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

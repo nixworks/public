@@ -8,6 +8,7 @@ Tomb of revered Muslim in ancient town attacked and burned by Islamist fighters 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/05/201256174145780614.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/6/201256181317950734_20.jpg)
 
 ### Related:
 

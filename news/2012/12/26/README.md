@@ -28,7 +28,7 @@ _Context: Japan, Prime Minister of Japan, Shinzo Abe_
 _Context: Nelson Mandela, President, Pretoria, South Africa, gallstone, lung infection_
 
 ### [Former U.S. President, 88-year-old George H. W. Bush, still receiving visitors, remains hospitalized (since 23 November) at The Methodist Hospital in Houston, Texas, where he resides during the winter, with a receding bronchitis-like cough but with a now-rising and long-lasting fever, and has been put in intensive care on a liquids-only diet for unspecified reasons. ](/news/2012/12/26/former-u-s-president-88-year-old-george-h-w-bush-still-receiving-visitors-remains-hospitalized-since-23-november-at-the-methodist-ho.md)
-_Context: George H. W. Bush, Houston, President, Texas, The Methodist Hospital, bronchitis_
+_Context: George H. W. Bush, Houston, Texas, The Methodist Hospital, U.S. President, bronchitis_
 
 ### [Hawaii's Democratic Governor Neil Abercrombie appoints Lieutenant Governor Brian Schatz (a former state legislator and nonprofit group executive) to fill the term of the recently-deceased longtime Democratic U.S. Senator Daniel Inouye until 2014, when a special election will be called to fill the slot until 2016. His was one of three names known to have been submitted by the state party's central committee, along with an unnamed person and U.S. Democrat Colleen Hanabusa, whom Inouye had stated as his preferred successor hours before his death. ](/news/2012/12/26/hawaii-s-democratic-governor-neil-abercrombie-appoints-lieutenant-governor-brian-schatz-a-former-state-legislator-and-nonprofit-group-execu.md)
 _Context: Brian Schatz, Colleen Hanabusa, Daniel Inouye, Democratic, Governor, Hawaii, Lieutenant Governor, Neil Abercrombie, U.S., United States Senate_

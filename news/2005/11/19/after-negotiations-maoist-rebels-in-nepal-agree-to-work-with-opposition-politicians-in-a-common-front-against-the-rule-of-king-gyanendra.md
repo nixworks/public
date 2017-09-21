@@ -9,6 +9,7 @@ During the &quot;secret&quot; parleys with the alliance leaders in New Delhi, th
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4450438.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1301467.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

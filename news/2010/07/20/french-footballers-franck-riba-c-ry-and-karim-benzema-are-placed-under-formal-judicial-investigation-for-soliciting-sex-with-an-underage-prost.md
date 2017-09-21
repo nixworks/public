@@ -12,6 +12,7 @@ French football star Franck Ribery is placed under formal judicial investigation
 3. [Montreal Gazette](http://www.montrealgazette.com/news/French+footballers+quizzed+under+probe/3300333/story.html)
 4. [Reuters](http://football.uk.reuters.com/leagues/european/news/2010/07/20/LDE66J1AQ.php)
 5. [iAfrica](http://sport.iafrica.com/news/2541180.htm)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

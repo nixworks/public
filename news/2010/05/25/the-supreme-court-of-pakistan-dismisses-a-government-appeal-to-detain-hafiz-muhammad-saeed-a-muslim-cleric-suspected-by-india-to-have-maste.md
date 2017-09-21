@@ -9,6 +9,7 @@
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hkiMxbHNH0BqgpWA2ZG6VD6wVTmAD9FTPDMO0)
 2. [Reuters](http://in.reuters.com/article/topNews/idINIndia-48773820100525)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100525&t=2&i=112709042&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-05-25T181034Z_01_NOOTR_RTRMDNC_0_India-487738-5)
 
 ### Related:
 

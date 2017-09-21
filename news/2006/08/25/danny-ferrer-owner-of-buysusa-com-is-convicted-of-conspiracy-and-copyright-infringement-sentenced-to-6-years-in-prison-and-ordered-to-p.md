@@ -8,6 +8,7 @@ Man Gets 6 Years in Software Piracy Case, Man who made millions from selling pir
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/wires/2006Aug25/0,4670,SoftwarePiracy,00.html)
+1. [Cover Image](http://www.foxnews.com/i/fn_128x128.jpg)
 
 ### Related:
 

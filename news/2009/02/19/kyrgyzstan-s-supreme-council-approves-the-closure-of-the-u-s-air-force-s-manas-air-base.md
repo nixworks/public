@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE51I1BK20090219)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090219&t=2&i=8323008&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-19T114901Z_01_BTRE51I0T5E00_RTROPTP_0_KYRGYZSTAN-USA-BASE)
 
 ### Related:
 

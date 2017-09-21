@@ -8,6 +8,7 @@ Around 400 migrants died when their boat capsized during an attempt to reach Ita
 ### Source:
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-04-15/migrant-boat-capsize-off-libya-leaves-400-dead/6393300)
+1. [Cover Image](http://www.abc.net.au/news/image/6393206-1x1-700x700.jpg)
 
 ### Related:
 

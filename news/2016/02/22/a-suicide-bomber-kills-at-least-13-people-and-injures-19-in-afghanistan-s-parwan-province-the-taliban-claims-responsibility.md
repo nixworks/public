@@ -8,6 +8,7 @@ A suicide bomber on a motorcycle killed 14 people and wounded another 11 at a cl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN0VV1L6)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

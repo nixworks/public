@@ -8,6 +8,7 @@ Prominent human rights activist Hu Jia, who was released over the weekend after 
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/china.dissident.hu/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/06/27/china.dissident.hu/tzvids.hu.jia.jpg)
 
 ### Related:
 

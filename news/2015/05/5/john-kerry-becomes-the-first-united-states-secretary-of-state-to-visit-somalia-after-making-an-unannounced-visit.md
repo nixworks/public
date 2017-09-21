@@ -8,6 +8,7 @@ John Kerry became the first U.S. secretary of state ever to travel to Somalia on
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/john-kerry-becomes-1st-sec-state-go-somalia-n353736)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_19/1009096/150505-john-kerry-somalia-mn-0700_1cd2510334b5b074c9e1832363e9280f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

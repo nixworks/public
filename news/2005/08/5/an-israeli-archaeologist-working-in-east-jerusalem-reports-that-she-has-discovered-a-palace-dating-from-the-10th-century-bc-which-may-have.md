@@ -12,6 +12,7 @@
 3. [NY Times](http://www.nytimes.com/2005/08/05/international/middleeast/05jerusalem.html)
 4. [Taipei Times](http://www.taipeitimes.com/News/feat/archives/2005/08/06/2003266696)
 5. [Washington Times](http://washingtontimes.com/upi/20050805-104707-3462r.htm)
+5. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

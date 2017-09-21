@@ -8,6 +8,7 @@ Turkish fighter jets force a Syrian passenger plane, suspected of carrying weapo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19905247)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63420000/jpg/_63420338_63420337.jpg)
 
 ### Related:
 

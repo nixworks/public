@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://espn.go.com/nfl/story/_/id/11102096/us-patent-office-cancels-washington-redskins-trademark)
+1. [Cover Image](http://a3.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2014%2F0618%2Fdm_140618_nfl_redskins_cossack_trademark%2Fdm_140618_nfl_redskins_cossack_trademark.jpg)
 
 ### Related:
 

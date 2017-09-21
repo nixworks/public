@@ -8,6 +8,7 @@ A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 ### Source:
 
 1. [Daily Star](http://www.dailystar.co.uk/news/latest-news/606633/Turkey-Helicopter-Crush-Tunceli-Police-Weather-Fog-Crash-Rescue-Judge-Officers-Turkish)
+1. [Cover Image](http://cdn.images.dailystar.co.uk/dynamic/1/photos/829000/936x622/909829.jpg)
 
 ### Related:
 

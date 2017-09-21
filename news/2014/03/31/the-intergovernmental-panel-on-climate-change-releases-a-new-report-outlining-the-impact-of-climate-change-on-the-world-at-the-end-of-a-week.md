@@ -8,6 +8,7 @@ Global warming is likely to have a &quot;severe, pervasive and irreversible&quot
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-26810559#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73916000/jpg/_73916329_73916327.jpg)
 
 ### Related:
 

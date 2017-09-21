@@ -8,6 +8,7 @@ The government offered little hope that Liu Xiaobo, the country’s most famous 
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/10/world/asia/liu-xiaobo-china-cancer-abroad.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/11/world/11china-liu-1/11china-liu-1-facebookJumbo.jpg)
 
 ### Related:
 

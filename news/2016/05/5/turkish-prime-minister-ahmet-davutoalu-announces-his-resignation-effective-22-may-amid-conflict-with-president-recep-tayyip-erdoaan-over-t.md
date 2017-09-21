@@ -9,6 +9,7 @@ Departure will allow Turkey’s president, Recep Tayyip Erdoğan, to further con
 
 1. [The Guardian](http://www.theguardian.com/world/2016/may/05/ahmet-davutoglus-future-turkish-prime-minister-balance)
 2. [The New York Times](https://www.nytimes.com/2016/05/05/world/europe/erdogan-ahmet-davutoglu-turkey-prime-minister-is-expected-to-be-replaced.html)
+2. [Cover Image](https://i.guim.co.uk/img/media/64716bde1425b8a99161502c51c6e8fa788a70ea/0_453_4980_2987/4980.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7ee42edb4f254af032e8f4ec681a182f)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/weather/2013/11/01/2-killed-dozens-rescued-as-flooding-sweeps-texas/)
+1. [Cover Image](http://global.fncstatic.com/static/v/all/img/og/og-fn-foxnews.jpg)
 
 ### Related:
 

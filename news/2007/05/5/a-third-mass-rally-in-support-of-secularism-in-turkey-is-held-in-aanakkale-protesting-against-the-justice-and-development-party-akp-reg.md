@@ -9,6 +9,7 @@
 
 1. [Hürriyet](http://www.hurriyet.com.tr/gundem/6462629.asp?gid=180)
 2. [Turkish Press](http://www.turkishpress.com/news.asp?id=174544)
+2. [Cover Image](http://s.hurriyet.com.tr/static/images/hurriyet/share-img.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Budget was defeated this evening, with Franco Debono, as promised, joining t
 ### Source:
 
 1. [Time of Malta](http://www.timesofmalta.com/articles/view/20121210/local/budget-rejected-as-franco-debono-votes-no-with-the-opposition.449064)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/9b18da408c75f77b2e10ee7afeeb6d50508415858-1355170209-50c641a1-620x348.jpg)
 
 ### Related:
 

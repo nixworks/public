@@ -8,3 +8,4 @@ The boyfriend of a teenager who had her leg amputated after The Smiler ride cras
 ### Source:
 
 1. [ITV](http://www.itv.com/news/story/2015-06-03/alton-towers-crash-theme-park-closed-as-investigation-continues/)
+1. [Cover Image](http://news-assets.sn.itv.com/image/file/689622/mobile_article_img.jpg)

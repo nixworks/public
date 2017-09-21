@@ -8,6 +8,7 @@ The European Court of Human Rights Tuesday ruled Turkey had violated the propert
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5224XF20090303)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

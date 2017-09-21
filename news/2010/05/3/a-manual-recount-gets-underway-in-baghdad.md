@@ -8,6 +8,7 @@ Officials say process involving about 2.5 million ballots may take up to three w
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/20105371714653272.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Liberian President Ellen Johnson-Sirleaf dismissed her cabinet on Wednesday in a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6A273T20101103)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20101103&t=2&i=240858892&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-03T201903Z_01_BTRE6A21KFV00_RTROPTP_0_LIBYA)
 
 ### Related:
 

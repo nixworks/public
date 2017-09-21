@@ -8,6 +8,7 @@ The spraying had been delayed a day after worried and angry residents complained
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/storyline/zika-virus-outbreak/miami-beach-starts-spraying-zika-mosquitoes-after-protest-n645516)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_36/1701991/160908-miami-beach-mosquito-spraying-mn-0910_10a1445313a74d6df79672167b1a5fe3.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

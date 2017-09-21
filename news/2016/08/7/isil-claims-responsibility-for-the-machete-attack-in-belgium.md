@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-europe-attacks-belgium-idUSKCN10I0FX)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160807&t=2&i=1148684407&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC760K4)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two motorcyclists have been killed in the same Isle of Man TT race, the Auto Cyc
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/isle_of_man/10294167.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

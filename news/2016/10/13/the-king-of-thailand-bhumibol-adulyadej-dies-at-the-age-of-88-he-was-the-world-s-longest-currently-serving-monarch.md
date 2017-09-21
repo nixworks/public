@@ -8,6 +8,7 @@ Thailand&#039;s King Bhumibol Adulyadej, the world&#039;s longest-reigning monar
 ### Source:
 
 1. [The Canberra Times](http://www.canberratimes.com.au/world/thai-king-bhumibol-adulyadej-dies-at-88-20140826-108vr7.html)
+1. [Cover Image](http://www.canberratimes.com.au/content/dam/images/1/0/8/w/r/u/image.related.socialLead.620x349.108vr7.png/1476409917014.jpg)
 
 ### Related:
 

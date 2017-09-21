@@ -8,6 +8,7 @@ Police have killed four terrorists, and arrested seven more, as a manhunt contin
 ### Source:
 
 1. [RT](https://www.rt.com/news/345468-kazakhstan-shooting-hostages-attacks/)
+1. [Cover Image](https://img.rt.com/files/2016.06/article/575414d9c46188c1668b45a5.jpg)
 
 ### Related:
 

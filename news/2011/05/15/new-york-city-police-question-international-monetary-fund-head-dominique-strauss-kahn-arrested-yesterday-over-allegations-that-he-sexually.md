@@ -12,6 +12,7 @@ The head of the International Monetary Fund, Dominique Strauss-Kahn, faces sex a
 3. [New York Times](http://www.nytimes.com/2011/05/16/nyregion/imf-names-replacement-as-chief-awaits-arraignment.html?_r=1)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/IMF-Head-Dominique-Strauss-Kahn-Charged-By-New-York-Police-Over-Alleged-Sexual-Assault/Article/201105315992243?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15992243_IMF_Head_Dominique_Strauss-Kahn_Charged_By_New_York_Police_Over_Alleged_Sexual_Assault)
 5. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748703421204576324400801330790.html)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52728000/jpg/_52728239_011980365-2.jpg)
 
 ### Related:
 

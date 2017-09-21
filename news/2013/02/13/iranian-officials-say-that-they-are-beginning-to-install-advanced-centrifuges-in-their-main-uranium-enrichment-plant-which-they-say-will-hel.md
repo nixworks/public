@@ -8,6 +8,7 @@ Iran said Wednesday that it has begun installing a new generation of centrifuges
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2013/02/13/iran-says-its-installing-advanced-centrifuges-at-nuclear-sites/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/02/13/iran-says-its-installing-advanced-centrifuges-at-nuclear-sites/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422496176568.jpg?ve=1)
 
 ### Related:
 

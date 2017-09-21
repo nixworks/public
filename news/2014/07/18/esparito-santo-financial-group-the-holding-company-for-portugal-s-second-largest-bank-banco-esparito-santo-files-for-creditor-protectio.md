@@ -8,6 +8,7 @@ The conglomerate said it is unable to meet its debt obligations, and prosecutors
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/bank-of-portugal-moves-to-calm-investors-over-espirito-santo-1405682098)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-DQ719_0711be_G_20140711083920.jpg)
 
 ### Related:
 

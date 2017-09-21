@@ -8,6 +8,7 @@ Map detailing Taliban-controlled or contested districts. Click colored district 
 ### Source:
 
 1. [Long War Journal](http://www.longwarjournal.org/archives/2015/10/taliban-seizes-another-district-in-western-afghanistan.php)
+1. [Cover Image](http://www.longwarjournal.org/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png)
 
 ### Related:
 

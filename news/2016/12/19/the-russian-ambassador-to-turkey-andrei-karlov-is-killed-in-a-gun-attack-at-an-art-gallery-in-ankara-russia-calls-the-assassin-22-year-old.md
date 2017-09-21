@@ -11,6 +11,7 @@ Iran has closed all of its consulates across Turkey on Tuesday, the Iranian emba
 2. [New York Times](http://www.nytimes.com/2016/12/19/world/europe/russia-ambassador-shot-ankara-turkey-report.html?emc=edit_na_20161219&nlid=66213151&ref=cta&mtrref=undefined&gwh=74A8E94235139A73843132F7D50EDAF4&gwt=pay)
 3. [Reuters](http://www.reuters.com/article/us-turkey-russia-diplomacy-idUSKBN1481RE)
 4. [Sputnik](https://sputniknews.com/middleeast/201612201048770286-iran-closes-consulates-turkey/)
+4. [Cover Image](https://cdn5.img.sputniknews.com/images/104875/53/1048755376.jpg)
 
 ### Related:
 

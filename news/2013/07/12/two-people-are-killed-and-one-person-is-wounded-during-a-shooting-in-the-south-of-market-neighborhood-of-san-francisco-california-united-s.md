@@ -8,6 +8,7 @@ Two women were killed and a man was injured Friday at a South of Market jewelry 
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/bayarea/article/Two-shot-in-South-of-Market-4662510.php?cmpid=twitter)
+1. [Cover Image](http://ww3.hdnux.com/photos/22/56/50/4909582/6/rawImage.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Press Release - The completion of the Addis Ababa-Djibouti Railway, a new 752km 
 ### Source:
 
 1. [AllAfrica.com](http://allafrica.com/stories/201701100050.html)
+1. [Cover Image](http://allafrica.com/download/pic/main/main/csiid/00381079:f089a5698257ccfc890e2cf0c96d9f3b:arc614x376:w1200.png)
 
 ### Related:
 

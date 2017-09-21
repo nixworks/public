@@ -9,6 +9,7 @@ George Osborne says better-than-expected economic figures show the recovery is &
 
 1. [BBC](http://www.bbc.co.uk/news/business-11624742)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-11627746)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

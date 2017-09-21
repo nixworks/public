@@ -11,6 +11,7 @@ North Korea issues another warning - this time to Seoul - a day after announcing
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21191264)
 3. [Reuters](http://www.reuters.com/article/2013/01/25/us-korea-north-idUSBRE90O0AJ20130125)
 4. [Voice of America](http://www.voanews.com/content/north-korea-threatens-strong-physical-countermeasures-over-un-sanctions/1590610.html)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65500000/jpg/_65500367_65500366.jpg)
 
 ### Related:
 

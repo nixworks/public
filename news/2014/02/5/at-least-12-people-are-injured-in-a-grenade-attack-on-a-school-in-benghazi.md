@@ -8,6 +8,7 @@ At least 12 children are injured in a grenade attack at a school in the Libyan c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-26048496)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72772000/jpg/_72772447_72772446.jpg)
 
 ### Related:
 

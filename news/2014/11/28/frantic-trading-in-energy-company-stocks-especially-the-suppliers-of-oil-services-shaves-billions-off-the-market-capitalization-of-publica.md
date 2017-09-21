@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/28/us-energy-oil-stocks-idUSKCN0JC1DI20141128)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141128&t=2&i=995369101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAR0QH)
 
 ### Related:
 

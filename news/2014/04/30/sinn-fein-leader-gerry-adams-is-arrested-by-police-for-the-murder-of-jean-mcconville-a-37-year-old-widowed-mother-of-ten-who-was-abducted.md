@@ -8,6 +8,7 @@ Sinn Féin leader Gerry Adams is arrested by Northern Ireland police in connecti
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-northern-ireland-27232731)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74565000/jpg/_74565975_adams2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Eight people, including four Swiss, a Briton and a 10-year-old German boy, drown
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSBKK8422320071014?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

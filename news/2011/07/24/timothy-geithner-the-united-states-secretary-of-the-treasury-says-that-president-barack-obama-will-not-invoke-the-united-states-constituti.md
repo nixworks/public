@@ -8,6 +8,7 @@ Treasury Secretary Timothy Geithner said on Sunday that after careful review it 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/24/us-usa-debt-geithner-idUSTRE76N15C20110724)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110724&t=2&i=465125227&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-24T141040Z_01_BTRE76N0X1I00_RTROPTP_0_USA-DEBT)
 
 ### Related:
 

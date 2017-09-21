@@ -11,6 +11,7 @@ European Union finance ministers gave the final approval today to Estonia joinin
 2. [RTÉ](http://www.rte.ie/news/2010/0713/euro.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0713/breaking35.html)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/13/AR2010071302079.html)
+4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

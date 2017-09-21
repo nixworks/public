@@ -8,6 +8,7 @@ An explosion hits a Syrian military truck which was escorting a convoy of UN obs
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18001942)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60114000/jpg/_60114505_014703405-1.jpg)
 
 ### Related:
 

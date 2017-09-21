@@ -8,6 +8,7 @@ An Italian court has rejected an attempt by Silvio Berlusconi to strike down a c
 ### Source:
 
 1. [ (''The Telegraph](http://www.telegraph.co.uk/news/worldnews/silvio-berlusconi/10131046/Silvio-Berlusconi-tax-fraud-appeal-rejected.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02492/berlusconi-electio_2492497k.jpg)
 
 ### Related:
 

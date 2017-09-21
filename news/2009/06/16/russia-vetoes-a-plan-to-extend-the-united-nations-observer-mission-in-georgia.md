@@ -9,6 +9,7 @@
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/jun/16/russia-vetoes-georgia-unitednations-mission)
 2. [UN](http://www.un.org/apps/news/story.asp?NewsID=31151&Cr=georgia&Cr1=)
+2. [Cover Image](/News/dh/photos/large/2009/400338-russia.jpg)
 
 ### Related:
 

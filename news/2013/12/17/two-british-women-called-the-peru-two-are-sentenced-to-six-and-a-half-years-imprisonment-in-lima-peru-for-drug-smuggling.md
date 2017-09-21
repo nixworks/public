@@ -8,6 +8,7 @@ Michaella McCollum Connolly and Melissa Reid are sentenced to prison after admit
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1183734/peru-two-jailed-for-six-years-and-eight-months)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/reid-mccollom-composite-copy-1_3620980.jpg?20160705142332)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A burst water main in the south of Amsterdam caused chaos on Tuesday morning, RT
 ### Source:
 
 1. [DutchNews](http://www.dutchnews.nl/news/archives/2015/09/burst-water-main-brings-chaos-to-amsterdam-zuid/)
+1. [Cover Image](http://www.dutchnews.nl/wpcms/wp-content/uploads/2015/09/flood-Amsterdam-Zuid.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Warplanes carried out airstrikes on the Libyan city of Sirte targeting areas con
 ### Source:
 
 1. [The Daily Star](https://www.dailystar.com.lb/News/Middle-East/2015/Oct-20/319522-warplanes-bomb-isis-controlled-camps-in-libyan-city-of-sirte-witness.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/10/20/396439_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

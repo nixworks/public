@@ -8,6 +8,7 @@ Sources in Gaza Strip say 10-year-old girl was critically wounded by rocket that
 ### Source:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3273540,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2015/02/22/prisoner-swap-ukraine-bolsters-truce)
 2. [CNN via WLWT](http://www.wlwt.com/national/179-ukrainian-soldiers-killed-in-debaltseve/31399296)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20150222001104548645-original.jpg)
 
 ### Related:
 

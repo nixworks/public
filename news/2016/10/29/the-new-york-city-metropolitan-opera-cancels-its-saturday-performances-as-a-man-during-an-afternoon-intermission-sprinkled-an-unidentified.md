@@ -9,6 +9,7 @@
 
 1. [CBS News/AP](http://www.cbsnews.com/news/suspicious-powder-found-at-nyc-met-opera-nypd-says/)
 2. [Reuters](http://www.reuters.com/article/us-new-york-opera-idUSKCN12U00S)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/10/29/712bd77b-1ccc-4080-a49c-c2c5a8d46e4a/metropolitan-opera-suspicious-powder-2-2016-10-29.jpg)
 
 ### Related:
 

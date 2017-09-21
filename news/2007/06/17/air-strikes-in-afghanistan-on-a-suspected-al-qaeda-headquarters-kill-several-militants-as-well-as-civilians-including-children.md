@@ -9,6 +9,7 @@ Seven Afghan children have been killed in a U.S.-led coalition air strike, the c
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6762549.stm)
 2. [Reuters](http://www.reuters.com/article/newsOne/idUSISL23856820070618)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

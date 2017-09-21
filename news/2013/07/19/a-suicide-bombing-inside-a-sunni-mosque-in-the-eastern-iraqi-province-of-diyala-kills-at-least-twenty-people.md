@@ -8,6 +8,7 @@ A bomb blast in crowded Sunni mosque in central Iraq has killed at least 20 peop
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23378405)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68839000/gif/_68839129_iraq_wajihiya-0713.gif)
 
 ### Related:
 

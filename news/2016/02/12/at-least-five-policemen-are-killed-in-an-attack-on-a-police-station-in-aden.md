@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Times](http://www.dailytimes.com.pk/foreign/13-Feb-2016/five-yemeni-policemen-killed-in-attack-by-gunmen-in-aden)
+1. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

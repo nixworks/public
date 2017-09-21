@@ -8,6 +8,7 @@ At least 30 people were killed in heavy fighting between police and Muslim rebel
 ### Source:
 
 1. [Reuters](http://mobile.reuters.com/article/idUSKBN0KY0MX20150125?irpc=932)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v3/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Thousands of pro-democracy protesters returned to the streets of Hong Kong on Su
 
 1. [AFP France 24](http://www.france24.com/en/20150201-pro-democracy-protesters-return-hong-kong-streets/?aef_campaign_date=2015-02-01&aef_campaign_ref=partage_aef&ns_campaign=reseaux_sociaux&ns_linkname=editorial&ns_mchannel=social&ns_source=twitter)
 2. [Reuters](http://www.reuters.com/article/2015/02/01/us-hongkong-protests-idUSKBN0L514X20150201)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150201&t=2&i=1021533534&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB100KI)
 
 ### Related:
 

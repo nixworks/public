@@ -8,6 +8,7 @@ Anger over being kicked out of a UC Merced study group drove an 18-year-old comp
 ### Source:
 
 1. [Merced Sun Star](http://www.mercedsunstar.com/news/local/education/uc-merced/article43126323.html)
+1. [Cover Image](http://www.mercedsunstar.com/news/local/education/uc-merced/io849k/picture43207860/ALTERNATES/LANDSCAPE_1140/sm)
 
 ### Related:
 

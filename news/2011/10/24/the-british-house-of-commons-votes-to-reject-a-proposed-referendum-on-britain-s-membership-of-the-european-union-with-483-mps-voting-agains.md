@@ -8,6 +8,7 @@ The prime minister comfortably defeats an attempt to bring about a referendum on
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15425256)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56254000/jpg/_56254968_busycommons.jpg)
 
 ### Related:
 

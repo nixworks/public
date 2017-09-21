@@ -9,6 +9,7 @@ As presidential candidates in the Philippines kick off their electoral campaigns
 
 1. [Deutsche Welle](http://www.dw.com/en/who-are-the-philippines-top-presidential-candidates/a-19035071)
 2. [The Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3438423/Cliffhanger-Philippine-presidential-election-race-begins.html)
+2. [Cover Image](http://www.dw.com/image/19034969_304.jpg)
 
 ### Related:
 

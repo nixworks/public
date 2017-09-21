@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/3af8692785214fdea9595871d39ad361/official-least-5-dead-egypt-soccer-riot-toll-rise)
 2. [BBC](http://www.bbc.com/news/world-middle-east-31252429)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80872000/jpg/_80872297_80872292.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/Oracle-buying-Sun-Microsystems-950/story.aspx?guid={C8F07329-EDF0-4E82-8B14-B3721035DABD})
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

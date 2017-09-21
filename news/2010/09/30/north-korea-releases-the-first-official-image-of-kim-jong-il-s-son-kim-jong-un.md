@@ -10,6 +10,7 @@
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hnc1OApww6T0CYuWGKLBqJQv98Fw?docId=CNG.164caa25dc9f9cd73359c4be468ff1ec.801)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11441504)
 3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2010/09/30/23/0401000000AEN20100930007100315F.HTML)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

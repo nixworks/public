@@ -8,6 +8,7 @@ Mount Sinabung has been spewing out red-hot ash and rocks up to five miles into 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1173013/sinabung-thousands-flee-volcano-eruptions)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/451661187-1_3625536.jpg?20160705161202)
 
 ### Related:
 

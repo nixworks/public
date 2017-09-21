@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKTRE5431KK20090504?sp=true)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090504&t=2&i=9961451&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-04T090459Z_01_BTRE5430P8E00_RTROPTP_0_SOMALIA-PIRACY)
 
 ### Related:
 

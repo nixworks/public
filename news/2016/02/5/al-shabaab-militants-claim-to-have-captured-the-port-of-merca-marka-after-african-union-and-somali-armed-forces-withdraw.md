@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/somalias-al-shabaab-takes-control-of-port/news-story/2494e891402fa03c3423d5135c5cea0c?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

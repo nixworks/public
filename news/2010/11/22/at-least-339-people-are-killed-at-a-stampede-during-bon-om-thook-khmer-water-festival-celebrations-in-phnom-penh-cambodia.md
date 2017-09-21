@@ -11,6 +11,7 @@ At least 345 people die in a stampede on a bridge during festival celebrations i
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11814894)
 3. [Reuters](http://www.reuters.com/article/idUSTRE6AL5AV20101122)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/23/c_13617617.htm)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

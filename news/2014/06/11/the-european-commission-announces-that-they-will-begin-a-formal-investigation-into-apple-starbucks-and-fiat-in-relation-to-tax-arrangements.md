@@ -8,6 +8,7 @@ The European Commission opens investigations into whether three European countri
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-27788238)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75435000/jpg/_75435321_75435320.jpg)
 
 ### Related:
 

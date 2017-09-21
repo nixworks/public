@@ -8,6 +8,7 @@ An oil painting by Gerhard Richter owned by Eric Clapton sells for £21m ($34m) 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-19937044)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63473000/jpg/_63473814_63473813.jpg)
 
 ### Related:
 

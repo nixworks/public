@@ -12,6 +12,7 @@ Tens of thousands of ultra-Orthodox Jews gathered in Jerusalem to protest a Supr
 3. [JTA](http://www.jta.org/news/article/2010/06/17/2739656/thousands-of-haredim-protest-in-jerusalem)
 4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178759)
 5. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3906930,00.html)
+5. [Cover Image](http://www.jta.org/wp-content/themes/jta/static/images/og-logo-sm-1.jpg)
 
 ### Related:
 

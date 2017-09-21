@@ -8,6 +8,7 @@ The $2.66 trillion money market industry is preparing for the worst as lawmakers
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/08/us-usa-fiscal-moneymarket-idUSBRE9970LU20131008)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131008&t=2&i=801118147&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE997169H00)
 
 ### Related:
 

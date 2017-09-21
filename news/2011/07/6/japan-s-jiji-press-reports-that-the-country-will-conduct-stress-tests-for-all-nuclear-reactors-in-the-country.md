@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/06/us-japan-nuclear-minister-idUSTRE76501Z20110706)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110706&t=2&i=453417719&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-06T150305Z_01_BTRE76500UG00_RTROPTP_0_IAEA)
 
 ### Related:
 

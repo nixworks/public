@@ -8,6 +8,7 @@ President of Palestinian Authority says he may disband his governing body if pea
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012435638356609.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/1/201091144615611371_20.jpg)
 
 ### Related:
 

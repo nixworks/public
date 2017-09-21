@@ -8,6 +8,7 @@ Drone targeted militants’ vehicle, say tribesmen, amid reports of dozens of de
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/jan/16/us-drone-strike-yemen-al-qaida-isis)
+1. [Cover Image](https://i.guim.co.uk/img/media/3ed71d6fb8fd113c98f3ae638462ece6817aeef5/0_194_4096_2457/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9c38ddf4ad63ced58652352f85a7b472)
 
 ### Related:
 

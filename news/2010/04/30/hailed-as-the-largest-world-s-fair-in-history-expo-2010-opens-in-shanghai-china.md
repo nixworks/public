@@ -15,6 +15,7 @@
 6. [Sina](http://english.sina.com/china/p/2010/0429/317250.html)
 7. [The Times of Malta](http://www.timesofmalta.com/articles/view/20100430/local/president-george-abela-injured-in-china)
 8. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/30/c_13273575.htm)
+8. [Cover Image](https://cdn-attachments.timesofmalta.com/default-article-image.png)
 
 ### Related:
 

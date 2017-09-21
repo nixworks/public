@@ -12,6 +12,7 @@ Figures from the CSO show that the Irish economy technically emerged from recess
 3. [The Daily Telegraph](http://www.telegraph.co.uk/finance/financetopics/financialcrisis/7863288/Ireland-finally-emerges-from-recession.html)
 4. [The Independent](http://www.independent.co.uk/news/business/news/ireland-out-of-recession-as-exports-jump-2015128.html)
 5. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748703426004575338433422665358.html?mod=googlenews_wsj)
+5. [Cover Image](https://img.rasset.ie/00032eac-1600.jpg)
 
 ### Related:
 

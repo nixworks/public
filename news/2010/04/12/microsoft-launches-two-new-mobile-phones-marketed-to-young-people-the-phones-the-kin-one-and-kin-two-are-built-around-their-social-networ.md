@@ -8,6 +8,7 @@ The phones have social-networking features, like the ability to update status me
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/04/13/technology/13soft.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2010/04/13/business/13soft1-cnd/13soft1-cnd-thumbStandard.jpg)
 
 ### Related:
 

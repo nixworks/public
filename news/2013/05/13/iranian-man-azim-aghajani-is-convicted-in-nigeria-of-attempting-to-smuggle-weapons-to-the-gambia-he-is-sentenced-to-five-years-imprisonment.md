@@ -8,6 +8,7 @@ An Iranian man and his Nigerian accomplice are found guilty of smuggling weapons
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22515062)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67578000/jpg/_67578721_afg.jpg)
 
 ### Related:
 

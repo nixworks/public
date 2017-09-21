@@ -8,6 +8,7 @@ BERLIN (AP) — German police say three people have been injured in an apparentl
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/af0001c5bb16469cbe9ec2c408992a51/explosion-injures-3-sikh-temple-western-germany)
+1. [Cover Image](http://binaryapi.ap.org/d7eac8af6849430f960ed2193b84436d/460x.jpg)
 
 ### Related:
 

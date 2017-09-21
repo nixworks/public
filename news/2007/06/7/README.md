@@ -7,7 +7,7 @@ _Context: Colombo, Sri Lanka, Sri Lankan Civil War, hundreds of the minority Sri
 _Context: Italy, Salafist Group for Call and Combat, al-Qaeda_
 
 ### [ President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
-_Context: George W. Bush, President, Russian President Vladimir Putin, Vladimir Putin, missile defense shield_
+_Context: George W. Bush, Russian President Vladimir Putin, U.S. President, Vladimir Putin, missile defense shield_
 
 ### [ At least 12 citizens of Oman are killed by Cyclone Gonu. ](/news/2007/06/7/at-least-12-citizens-of-oman-are-killed-by-cyclone-gonu.md)
 _Context: Cyclone Gonu, Oman_

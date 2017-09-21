@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Oregonian'' via OregonLive](http://www.oregonlive.com/politics/index.ssf/2012/01/suzanne_bonamici_wins_special.html)
+1. [Cover Image](http://image.oregonlive.com/home/olive-media/width620/img/oregonian/photo/2012/01/10507390-standard.jpg)
 
 ### Related:
 

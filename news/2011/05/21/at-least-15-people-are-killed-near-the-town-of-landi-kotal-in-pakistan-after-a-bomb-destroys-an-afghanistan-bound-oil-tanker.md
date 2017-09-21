@@ -8,6 +8,7 @@ At least 15 people were killed in an oil tanker blaze after a bomb exploded on t
 ### Source:
 
 1. [AFP via WA Today](http://www.watoday.com.au/world/15-dead-in-nato-tanker-fire-in-pakistan-20110521-1exih.html)
+1. [Cover Image](http://images.watoday.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

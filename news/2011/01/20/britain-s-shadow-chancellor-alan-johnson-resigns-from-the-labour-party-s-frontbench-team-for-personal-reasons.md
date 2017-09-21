@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12242397)
 2. [The Guardian](http://www.guardian.co.uk/politics/2011/jan/20/alan-johnson-resigns-shadow-chancellor)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/50877000/jpg/_50877915_010982793-1.jpg)
 
 ### Related:
 

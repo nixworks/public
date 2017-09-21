@@ -9,6 +9,7 @@ Tony Scott, the British-born Hollywood director behind hits including Top Gun an
 
 1. [BBC](http://www.bbc.co.uk/news/world-19314967)
 2. [The Telegraph](http://www.telegraph.co.uk/news/celebritynews/9486673/Top-Gun-director-Tony-Scott-dies-after-jumping-from-Los-Angeles-bridge.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02315/sc_2315445a.jpg)
 
 ### Related:
 

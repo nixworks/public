@@ -9,6 +9,7 @@
 
 1. [ABC News.go](http://abcnews.go.com/International/wireStory/philippines-leader-faces-charges-role-clash-48631698)
 2. [Rappler](http://www.rappler.com/nation/175603-noynoy-aquino-indicted-graft-mamasapano-ombudsman)
+2. [Cover Image](https://assets.rappler.com/4DC5379312634DAFAF94F35A24AF7C66/img/F1FDC65D2AD64DC5B220E69C94E548E8/120613_LM2.jpg)
 
 ### Related:
 

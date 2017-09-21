@@ -8,6 +8,7 @@ Suspected Ugandan rebels killed more than 20 people overnight in their second at
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/10/18/us-congodemocratic-killings-idUSKCN0I705D20141018?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

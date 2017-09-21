@@ -9,6 +9,7 @@ Former prime minister Jean-Marc Ayrault replaces Laurent Fabius as foreign minis
 
 1. [BBC](http://www.bbc.com/news/world-europe-35553747)
 2. [The Guardian](http://www.theguardian.com/world/2016/feb/11/francois-hollande-appoints-new-cabinet-in-bid-to-unite-party)
+2. [Cover Image](https://i.guim.co.uk/img/media/f0a986f147f8e87a995807dc802d1fb916b967c3/0_0_3751_2249/master/3751.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=3ae1a4e73a7abfc20bf3e4d445c3661b)
 
 ### Related:
 

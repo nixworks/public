@@ -10,6 +10,7 @@ Exclusive: Self-declared Republican who sparked Nevada security scare says he wa
 1. [CBS News](http://www.cbsnews.com/news/donald-trump-rushed-off-stage-at-campaign-rally-in-reno/)
 2. [Guardian](https://www.theguardian.com/us-news/2016/nov/06/trump-protester-i-was-beaten-for-holding-a-republicans-against-trump-sign)
 3. [USA Today](http://www.usatoday.com/story/news/politics/elections/2016/11/05/donald-trump-rushed-off-stage-nevada-rally/93372724/)
+3. [Cover Image](https://i.guim.co.uk/img/media/63a35517b22a5723f99588e11350eedc03087939/192_39_1572_943/master/1572.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=3fc88e96d55b24329fd568b9fb0071b3)
 
 ### Related:
 

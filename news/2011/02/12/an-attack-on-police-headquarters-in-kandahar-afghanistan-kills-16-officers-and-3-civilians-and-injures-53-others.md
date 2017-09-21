@@ -9,6 +9,7 @@ The fighting continued for nearly five hours before the police succeeded in kill
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/201121215356118383.html)
 2. [The New York Times](http://www.nytimes.com/2011/02/13/world/asia/13afghanistan.html?partner=rss&emc=rss)
+2. [Cover Image](https://static01.nyt.com/images/2011/02/13/world/13afghanistan-span/JP-AFGHAN-thumbStandard.jpg)
 
 ### Related:
 

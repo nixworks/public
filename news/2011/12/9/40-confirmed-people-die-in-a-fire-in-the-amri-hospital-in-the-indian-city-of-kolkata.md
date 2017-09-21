@@ -10,6 +10,7 @@ The state government has cancelled the licence of AMRI Hospital. Fire department
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iBpwwbP26RXX4O-iv_ydLdmjnnyQ?docId=9e0668e2e3b24ccfb47350bbce175249)
 2. [IBN Live](http://ibnlive.in.com/news/kolkata-fire-40-dead-hospital-authorities-flee/210199-3.html)
 3. [Times of India](http://timesofindia.indiatimes.com/city/kolkata-/Fire-in-Kolkatas-AMRI-hospital-Government-takes-action-orders-to-cancel-hospital-licence/articleshow/11044479.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/11044240.cms)
 
 ### Related:
 

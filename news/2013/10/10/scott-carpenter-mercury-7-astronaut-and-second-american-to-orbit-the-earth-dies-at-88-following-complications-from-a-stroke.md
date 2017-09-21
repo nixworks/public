@@ -8,3 +8,4 @@ Scott Carpenter, the fourth U.S. astronaut to fly in space and the second to orb
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2013/10/10/astronaut-scott-carpenter-second-american-to-orbit-earth-dies-at-88/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

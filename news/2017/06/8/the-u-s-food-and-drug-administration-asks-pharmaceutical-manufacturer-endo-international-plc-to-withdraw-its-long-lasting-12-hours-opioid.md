@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-endo-intl-opana-fda-idUSKBN18Z2SQ)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170608&t=2&i=1188215462&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED571UT)
 
 ### Related:
 

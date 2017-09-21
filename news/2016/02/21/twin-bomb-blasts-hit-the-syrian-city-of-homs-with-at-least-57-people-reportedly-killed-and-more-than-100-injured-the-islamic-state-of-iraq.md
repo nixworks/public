@@ -12,6 +12,7 @@ Bomb blasts in the Syrian cities of Homs and Damascus have killed at least 140 p
 3. [BBC](http://www.bbc.com/news/world-middle-east-35624654)
 4. [CNN](http://www.cnn.com/2016/02/21/middleeast/syria-civil-war/)
 5. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-homs-idUSKCN0VU08C?feedType=RSS&feedName=topNews)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15BB9/production/_88371098_88370643.jpg)
 
 ### Related:
 

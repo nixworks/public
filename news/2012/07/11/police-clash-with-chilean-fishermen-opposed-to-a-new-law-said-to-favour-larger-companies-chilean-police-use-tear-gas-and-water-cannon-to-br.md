@@ -8,6 +8,7 @@ Chilean fishermen clash with police as they protest in several coastal towns aga
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18793488)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61496000/jpg/_61496683_61496682.jpg)
 
 ### Related:
 

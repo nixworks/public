@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [Mosnews](http://www.mosnews.com/news/2005/04/27/khodordelayed.shtml)
 3. [RIA Novosti](http://en.rian.ru/russia/20050427/39747159.html)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8306948)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

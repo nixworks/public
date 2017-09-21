@@ -8,6 +8,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### Source:
 
 1. [Hurriyet](http://www.hurriyetdailynews.com/n.php?n=israel-bracing-for-8216mother-of-all-flotillas8217-2010-09-07)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

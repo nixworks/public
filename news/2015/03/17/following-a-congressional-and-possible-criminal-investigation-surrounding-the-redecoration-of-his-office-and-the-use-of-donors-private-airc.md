@@ -8,6 +8,7 @@ WASHINGTON, D.C. &mdash; Aaron Schock&rsquo;s six years and one month in Congres
 ### Source:
 
 1. [Peoria Journal Star](http://www.pjstar.com/article/20150317/NEWS/150319221)
+1. [Cover Image](http://www.pjstar.com/storyimage/IP/20150317/NEWS/150319221/AR/0/AR-150319221.jpg)
 
 ### Related:
 

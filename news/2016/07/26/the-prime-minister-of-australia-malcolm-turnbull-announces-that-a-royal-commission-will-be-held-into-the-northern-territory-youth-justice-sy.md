@@ -9,6 +9,7 @@ John Elferink is sacked as NT Corrections Minister in the wake of the damning Fo
 
 1. [ABC News](http://www.abc.net.au/news/2016-07-26/nt-prisons-minister-john-elferink-sacked-after-4-corners-outrage/7661086)
 2. [The Guardian](https://www.theguardian.com/australia-news/live/2016/jul/26/northern-territory-juvenile-detention-reaction-royal-commission-footage-four-corners-tear-gas-restraint-live)
+2. [Cover Image](http://www.abc.net.au/news/image/7661442-1x1-700x700.jpg)
 
 ### Related:
 

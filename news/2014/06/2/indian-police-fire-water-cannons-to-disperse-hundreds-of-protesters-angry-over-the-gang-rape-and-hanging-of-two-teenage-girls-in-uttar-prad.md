@@ -8,6 +8,7 @@ Indian police fire water cannons to disperse hundreds of protesters in Uttar Pra
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-27659446)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75252000/jpg/_75252035_75252034.jpg)
 
 ### Related:
 

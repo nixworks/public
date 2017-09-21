@@ -9,3 +9,4 @@ Another person was wounded before the gunman was reportedly shot and killed by d
 
 1. [CBS News](http://www.cbsnews.com/news/three-shot-dead-at-several-locations-along-maine-road/)
 2. [The Boston Globe](https://www.bostonglobe.com/metro/2017/07/05/three-dead-shooting-madison-maine-police-say/3P3qLriiWdAOU6SYEKYYSN/story.html)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/07/05/cdda65b8-2ec0-4b88-a3e3-5696ff8d818f/maine.jpg)

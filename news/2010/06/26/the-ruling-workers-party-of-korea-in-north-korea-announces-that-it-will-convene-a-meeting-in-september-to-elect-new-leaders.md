@@ -10,6 +10,7 @@ North Korea is set to convene its party representatives in early September to el
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/nkorean-ruling-party-to-choose-new-leaders-media-20100626-zad0.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201062654853137197.html)
 3. [Arirang News](http://www.arirang.co.kr/News/News_View.asp?nseq=104372&code=Ne2&category=2)
+3. [Cover Image](http://img.arirang.com/A_UpFile/News_Image/)
 
 ### Related:
 

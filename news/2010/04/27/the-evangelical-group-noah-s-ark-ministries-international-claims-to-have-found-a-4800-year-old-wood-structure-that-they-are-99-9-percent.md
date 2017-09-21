@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/scitech/2010/04/27/noahs-ark-found-turkey-ararat/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2010/04/27/noahs-ark-found-turkey-ararat/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1421900556666.jpg?ve=1)

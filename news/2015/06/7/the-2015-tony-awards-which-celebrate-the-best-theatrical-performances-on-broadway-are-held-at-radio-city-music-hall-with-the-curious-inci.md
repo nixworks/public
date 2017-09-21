@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_TONY_PREDICTIONS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Variety](http://variety.com/2015/legit/news/tony-award-winners-2015-tonys-winner-list-1201514123/)
+2. [Cover Image](https://pmcvariety.files.wordpress.com/2015/06/tony-award-winners-20151.jpg?w=1000&amp;h=562&amp;crop=1)
 
 ### Related:
 

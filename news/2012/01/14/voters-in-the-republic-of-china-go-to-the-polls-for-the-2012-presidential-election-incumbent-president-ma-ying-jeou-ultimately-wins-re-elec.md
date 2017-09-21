@@ -9,6 +9,7 @@ Taiwanese President Ma Ying-jeou was re-elected Saturday, leveraging his message
 
 1. [China Post](http://www.chinapost.com.tw/editorial/taiwan-issues/2012/01/15/329059/Voters-clearly.htm)
 2. [MSNBC](http://www.msnbc.msn.com/id/45995739/ns/world_news/)
+2. [Cover Image](http://media4.s-nbcnews.com/j/ap/aptopix taiwan presidential election-936491706_v2.standard.jpg)
 
 ### Related:
 

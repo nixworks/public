@@ -15,6 +15,7 @@ Israel advocacy group StandWithUs to surprise the European convoy at sea.
 6. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=176695)
 7. [The Sydney Morning Herald](http://www.smh.com.au/world/uncertainty-reigns-as-blockade-breakers-set-off-20100528-wlgg.html)
 8. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3895506,00.html)
+8. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=143411)
 
 ### Related:
 

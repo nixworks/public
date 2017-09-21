@@ -9,6 +9,7 @@ At least 27 people were killed as typhoon Kai-Tak swept across northern province
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19312295)
 2. [UPI](http://www.upiasia.com/Top-News/2012/08/19/Kai-Tak-leaves-2-dead-2-missing-in-China/UPI-28161345379821/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62372000/jpg/_62372301_hanoi_afp.jpg)
 
 ### Related:
 

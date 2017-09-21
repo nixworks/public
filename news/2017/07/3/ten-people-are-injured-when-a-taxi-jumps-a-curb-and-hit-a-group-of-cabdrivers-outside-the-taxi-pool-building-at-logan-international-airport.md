@@ -9,6 +9,7 @@
 
 1. [Reuters](http://in.reuters.com/article/boston-crash-idINKBN19O297)
 2. [The Boston Globe](https://www.bostonglobe.com/metro/2017/07/03/car-drives-into-group-pedestrians-boston/fN0UMCjbYhKMppWPTwfxNI/story.html)
+2. [Cover Image](http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2017/07/03/BostonGlobe.com/Metro/Images/Bedford_170703_ACCIDENT_003-11732.jpg)
 
 ### Related:
 

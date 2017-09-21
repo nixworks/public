@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12810566)
 2. [RIA Novosti](http://en.rian.ru/russia/20110321/163130143.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606887_bn-304x171.jpg)
 
 ### Related:
 

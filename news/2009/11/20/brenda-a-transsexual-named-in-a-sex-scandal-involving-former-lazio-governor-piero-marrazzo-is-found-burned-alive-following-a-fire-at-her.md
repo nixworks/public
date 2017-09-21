@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8370511.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE5AJ1I520091120?feedType=RSS&feedName=worldNews)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/6614798/Transsexual-prostitute-in-Italian-political-sex-scandal-burns-to-death.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01527/brenda_1527375a.jpg)
 
 ### Related:
 

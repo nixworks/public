@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE51H0H820090218)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090218&t=2&i=8300610&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-18T014101Z_01_BTRE51H04OK00_RTROPTP_0_KOREA-NORTH-CLINTON)
 
 ### Related:
 

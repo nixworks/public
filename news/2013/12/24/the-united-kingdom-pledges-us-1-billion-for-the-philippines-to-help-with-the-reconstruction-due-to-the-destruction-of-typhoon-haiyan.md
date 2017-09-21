@@ -8,6 +8,7 @@ The United Kingdom yesterday pledged an additional P1.091 billion, increasing it
 ### Source:
 
 1. [The Philippine Star](http://www.philstar.com/headlines/2013/12/25/1271895/uk-pledges-p1-b-more-yolanda-rehab)
+1. [Cover Image](http://www.philstar.com/sites/all/themes/philstar_default/images/fb-share-default.jpg)
 
 ### Related:
 

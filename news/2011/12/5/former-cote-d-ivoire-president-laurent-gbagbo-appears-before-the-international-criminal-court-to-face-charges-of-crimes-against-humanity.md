@@ -8,6 +8,7 @@ Former Ivory Coast president Laurent Gbagbo appeared at the International Crimin
 ### Source:
 
 1. [Reuters India](http://in.reuters.com/article/2011/12/05/ivorycoast-gbagbo-icc-idINDEE7B40H020111205)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111205&t=2&i=542875018&w=&fh=545px&fw=&ll=&pl=&sq=&r=CDEE7B416C000)
 
 ### Related:
 

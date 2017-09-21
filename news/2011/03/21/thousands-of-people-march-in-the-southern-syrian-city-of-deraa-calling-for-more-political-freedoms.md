@@ -9,6 +9,7 @@ Thousands of demonstrators march through the southern Syrian city of Deraa calli
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12809566)
 2. [Times LIVE South Africa](http://www.timeslive.co.za/world/article979072.ece/Thousands-march-in-Syrian-protest-town)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606885_331dc631-6340-4cda-ae6e-bda544b28681.jpg)
 
 ### Related:
 

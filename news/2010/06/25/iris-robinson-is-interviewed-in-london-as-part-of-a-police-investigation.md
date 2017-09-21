@@ -9,6 +9,7 @@ The BBC has learned the former DUP MP Iris Robinson has been interviewed as part
 
 1. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10420645.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/northernireland/7855292/Iris-Robinson-questioned-by-police.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Health insurer UnitedHealth Group Inc (UNH.N) agreed to buy Catamaran Corp CTRX.
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/30/us-catamaran-m-a-unitedheal-grp-idUSKBN0MQ0WT20150330)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150330&t=2&i=1036509654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2T0DY)
 
 ### Related:
 

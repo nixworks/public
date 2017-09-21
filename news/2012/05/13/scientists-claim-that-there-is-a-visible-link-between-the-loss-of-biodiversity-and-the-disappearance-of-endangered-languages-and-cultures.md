@@ -8,6 +8,7 @@ A study by US researchers highlights a link between the loss of biologically ric
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18020636)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60156000/jpg/_60156771_brazil_tribesman_ap.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/news/stephen-colbert-to-replace-david-letterman-on-late-show/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/04/01/48e0ead4-4d92-438f-bb04-8588e454c1b5/3colbert-close-up5470.jpg)
 
 ### Related:
 

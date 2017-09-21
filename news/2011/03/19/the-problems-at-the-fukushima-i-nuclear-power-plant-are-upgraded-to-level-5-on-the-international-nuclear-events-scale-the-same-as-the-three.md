@@ -11,6 +11,7 @@ Repercussions of Japan&#39;s triple disaster came into clearer focus Monday afte
 2. [AP via MSNBC](http://www.msnbc.msn.com/id/42162299/ns/health/)
 3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/03/19/japan.nuclear.reactors/index.html?eref=rss_topstories)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/19/c_13787559.htm)
+4. [Cover Image](http://media3.s-nbcnews.com/j/ap/japan earthquake--458493500_v2.standard.jpg)
 
 ### Related:
 

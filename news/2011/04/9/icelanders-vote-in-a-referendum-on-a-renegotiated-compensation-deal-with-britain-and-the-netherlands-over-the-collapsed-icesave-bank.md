@@ -8,6 +8,7 @@ REYKJAVIK: Icelanders are heading to the polls today to approve or reject a rene
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/deal-to-repay-bank-losses-still-splitting-voters-in-iceland-20110408-1d7pf.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Hundreds of exiled Syrian activists meeting in Istanbul on Saturday elected a 25
 3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011716134720701985.html)
 4. [Arab News](http://arabnews.com/middleeast/article472919.ece)
 5. [CNN](http://edition.cnn.com/2011/WORLD/meast/07/16/syria.unrest/)
+5. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/07/16/syria.unrest/tzvids.protest.afp.gi.jpg)
 
 ### Related:
 

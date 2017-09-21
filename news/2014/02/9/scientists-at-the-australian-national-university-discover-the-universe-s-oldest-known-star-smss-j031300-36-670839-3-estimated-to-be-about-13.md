@@ -9,3 +9,4 @@ Astronomers have observed a star which they believe is the the oldest ever disco
 
 1. [International Business Times](http://www.ibtimes.com/oldest-star-ever-discovered-astronomers-observe-star-137-billion-years-old-1554259)
 2. [NineMSN](http://news.ninemsn.com.au/technology/2014/02/10/05/08/anu-scientists-discover-oldest-known-star)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2014/02/09/oldest-star-ever-discovered.png)

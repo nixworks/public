@@ -8,6 +8,7 @@ Lehman Brothers Holdings Inc LEHMQ.PK told a bankruptcy judge on Tuesday it has 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/08/30/us-lehman-idUSTRE77T0K820110830)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110830&t=2&i=489394987&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-30T162834Z_01_BTRE77T0CTF00_RTROPTP_0_LEHMAN)
 
 ### Related:
 

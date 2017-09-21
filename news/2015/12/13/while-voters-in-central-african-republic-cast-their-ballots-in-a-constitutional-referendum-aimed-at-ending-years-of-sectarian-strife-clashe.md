@@ -10,6 +10,7 @@ Two&#x20;people&#x20;were&#x20;killed&#x20;Sunday&#x20;as&#x20;heavy&#x20;weapon
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/12/heavy-fighting-eurpts-car-referendum-voting-151213135951268.html)
 2. [France24](http://www.france24.com/en/20151213-fighting-erupts-during-crucial-central-african-republic-referendum)
 3. [Reuters](http://www.reuters.com/article/us-centralafrica-referendum-idUSKBN0TW07Z20151213#mpDRV9JlAPSMRFQt.97)
+3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/20151213-centrafrique-vote-m_1.jpg)
 
 ### Related:
 

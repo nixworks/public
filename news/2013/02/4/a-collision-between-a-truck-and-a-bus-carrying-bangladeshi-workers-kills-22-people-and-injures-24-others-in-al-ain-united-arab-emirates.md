@@ -10,6 +10,7 @@ At least 22 people were killed when a truck laden with gravel collided with a bu
 1. [Reuters](http://www.reuters.com/article/2013/02/04/us-emirates-traffic-collision-idUSBRE9130JU20130204)
 2. [The Australian](http://www.theaustralian.com.au/news/breaking-news/asian-workers-killed-in-uae-bus-crash/story-fn3dxix6-1226570438123)
 3. [Travelers Today](http://www.travelerstoday.com/articles/4529/20130204/22-killed-collision-uae-truck-carrying-gravel.htm)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

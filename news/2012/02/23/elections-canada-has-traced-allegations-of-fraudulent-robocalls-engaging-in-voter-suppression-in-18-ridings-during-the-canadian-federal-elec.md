@@ -9,6 +9,7 @@ Opposition MPs have attacked the Conservatives over links to a company used to m
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2012/02/23/pol-election-robocalls.html)
 2. [Ottawa Citizen](http://www.ottawacitizen.com/news/Elections+Canada+investigating+robocalls+that+misled+voters/6194146/story.html)
+2. [Cover Image](https://i.cbc.ca/1.1492667.1404101498!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-852-elections-cp-00607649.jpg)
 
 ### Related:
 

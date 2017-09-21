@@ -8,6 +8,7 @@ Wikileaks founder Julian Assange promises to release a million documents in 2013
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20806355)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64886000/jpg/_64886463_ilaw2apn.jpg)
 
 ### Related:
 

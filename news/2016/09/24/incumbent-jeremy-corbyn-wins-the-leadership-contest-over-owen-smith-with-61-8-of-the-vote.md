@@ -9,6 +9,7 @@ Jeremy Corbyn and Owen Smith are preparing to find out who has won the Labour le
 
 1. [BBC](http://www.bbc.com/news/uk-politics-37449628)
 2. [The Guardian](https://www.theguardian.com/politics/blog/live/2016/sep/24/labour-leadership-election-result-jeremy-corbyn-owen-smith-appeals-for-unity-politics-live)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3129/production/_91358521_mediaitem91358520.jpg)
 
 ### Related:
 

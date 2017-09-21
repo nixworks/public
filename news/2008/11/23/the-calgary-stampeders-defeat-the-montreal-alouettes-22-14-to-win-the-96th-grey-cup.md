@@ -8,6 +8,7 @@
 ### Source:
 
 1. [TSN](http://www.tsn.ca/cfl/story/?id=257111&lid=headline&lpos=topStory_cfl)
+1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
 
 ### Related:
 

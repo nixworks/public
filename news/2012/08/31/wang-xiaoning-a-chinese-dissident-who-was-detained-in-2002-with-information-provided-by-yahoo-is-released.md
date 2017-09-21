@@ -8,6 +8,7 @@ A Chinese dissident convicted of subversion charges with the help of evidence pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19432800)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62592000/jpg/_62592406_sg89jfym.jpg)
 
 ### Related:
 

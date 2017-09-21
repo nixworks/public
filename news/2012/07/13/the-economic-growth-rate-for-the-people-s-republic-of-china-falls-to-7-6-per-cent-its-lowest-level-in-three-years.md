@@ -9,6 +9,7 @@
 
 1. [Bloomberg via ''Sydney Morning Herald](http://www.smh.com.au/business/china/chinas-economy-sparks-relief-rally-20120713-2207r.html)
 2. [Xinhua](http://news.xinhuanet.com/english/china/2012-07/13/c_131713073.htm)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/1/q/4/u/m/image.related.articleLeadwide.620x349.2207r.png/1342155984090.jpg)
 
 ### Related:
 

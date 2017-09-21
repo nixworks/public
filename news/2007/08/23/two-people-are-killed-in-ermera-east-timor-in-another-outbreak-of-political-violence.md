@@ -8,6 +8,7 @@ Two people have been killed in another outbreak of violence in East Timor.
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2007/08/23/2013574.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/635476-1x1-700x700.jpg)
 
 ### Related:
 

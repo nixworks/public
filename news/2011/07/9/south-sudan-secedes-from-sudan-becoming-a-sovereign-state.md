@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-sudan-independence-20110709,0,732440.story)
+1. [Cover Image](http://www.latimes.com/media/photo/2011-07/63109019.jpg)
 
 ### Related:
 

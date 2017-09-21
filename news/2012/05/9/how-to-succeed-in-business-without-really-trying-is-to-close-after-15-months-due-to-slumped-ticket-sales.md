@@ -8,3 +8,4 @@ Broadway musical How to Succeed in Business Without Really Trying is to close af
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18002401)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60107000/jpg/_60107320_60107319.jpg)

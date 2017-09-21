@@ -8,6 +8,7 @@ An explosion ripped through an apartment building in southern Ukraine, killing 1
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/burningIssues/idUKTRE4BO04R20081225)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20081225&t=2&i=7335974&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-12-25T142613Z_01_BTRE4BO0ONL00_RTROPTP_0_UKRAINE-EXPLOSION)
 
 ### Related:
 

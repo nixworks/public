@@ -9,6 +9,7 @@
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hkiMxbHNH0BqgpWA2ZG6VD6wVTmAD9GRB4200)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/07/20107954021715355.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

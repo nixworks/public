@@ -10,6 +10,7 @@ A truce mediated by Egypt has been agreed between Israel and Palestinian militan
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17348403)
 2. [CNN](http://www.cnn.com/2012/03/13/world/meast/gaza-israel-airstrikes/index.html?hpt=hp_bn2)
 3. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=261674)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606885_331dc631-6340-4cda-ae6e-bda544b28681.jpg)
 
 ### Related:
 

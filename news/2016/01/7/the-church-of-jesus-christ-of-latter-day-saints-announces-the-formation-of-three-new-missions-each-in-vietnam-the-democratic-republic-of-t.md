@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Salt Lake Tribune](http://www.sltrib.com/lifestyle/faith/3392134-155/mormons-create-mission-in-vietnam-add)
+1. [Cover Image](http://www.sltrib.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=$97GJ3EGmXnuiPgZFAiSSM$daE2N3K4ZzOUsqbU5sYtMdmbnmsXIUwEH7QuzXKsuWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ No Israelis were injured in the event.
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Security-forces-shoot-kill-suspected-terrorist-in-thwarted-knife-attack-in-West-Bank-441477)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=325964)
 
 ### Related:
 

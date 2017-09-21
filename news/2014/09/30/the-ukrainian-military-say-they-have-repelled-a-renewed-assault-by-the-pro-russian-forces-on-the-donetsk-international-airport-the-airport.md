@@ -8,6 +8,7 @@ Ukrainian forces repelled two fresh assaults by pro-Russia rebels on the airport
 ### Source:
 
 1. [The Wall Street Journal](http://online.wsj.com/articles/ukraine-forces-repel-two-fresh-assaults-on-donetsks-airport-1412081687)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-EU028_ukrain_G_20140930085938.jpg)
 
 ### Related:
 

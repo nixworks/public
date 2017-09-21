@@ -9,6 +9,7 @@ At least 30 Syrian children have been killed in a double bombing by a lone assai
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/10/children-killed-homs-double-blasts-201410113272780724.html)
 2. [RTE](http://www.rte.ie/news/2014/1001/649319-syria/)
+2. [Cover Image](https://img.rasset.ie/000990d3-1600.jpg)
 
 ### Related:
 

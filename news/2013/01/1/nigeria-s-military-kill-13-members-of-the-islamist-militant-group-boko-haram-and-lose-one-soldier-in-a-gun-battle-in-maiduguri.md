@@ -9,6 +9,7 @@
 
 1. [AFP via ''The Voice of Russia](http://english.ruvr.ru/2013_01_02/Nigerian-military-wipe-out-13-Islamists-in-north-east-of-country/)
 2. [Reuters](http://uk.reuters.com/article/2013/01/01/uk-nigeria-violence-idUKBRE90009V20130101)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

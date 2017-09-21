@@ -8,6 +8,7 @@ Taliban militants detonated a car bomb outside an Afghan intelligence office nea
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/09/08/taliban-kill-4-afghan-troops-in-attack-on-intel-office/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

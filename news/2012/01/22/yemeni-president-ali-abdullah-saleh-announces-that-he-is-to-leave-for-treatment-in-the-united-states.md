@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/01/22/us-yemen-saleh-idUSTRE80L0GL20120122)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120122&t=2&i=561333174&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE80L174V00)
 
 ### Related:
 

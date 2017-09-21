@@ -9,6 +9,7 @@ Hezbollah leader Hassan Nasrallah says unmanned reconnaissance aircraft was desi
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012101118514612756.html)
 2. [Reuters](http://www.trust.org/alertnet/news/hezbollah-confirms-it-sent-drone-downed-over-israel/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/11/2012101118534253734_20.jpg)
 
 ### Related:
 

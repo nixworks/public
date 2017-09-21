@@ -8,6 +8,7 @@ David Cameron has been criticised for being &ldquo;simplistic and trendy&rdquo; 
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/politics/david-cameron/8432332/David-Cameron-criticised-for-being-simplistic-and-trendy-and-more-PC-than-PM-over-empire-apology.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01865/cameron_1865527a.jpg)
 
 ### Related:
 

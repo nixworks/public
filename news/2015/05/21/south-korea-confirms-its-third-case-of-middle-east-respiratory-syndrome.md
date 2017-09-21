@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2015/05/21/0200000000AEN20150521003052320.html)
+1. [Cover Image](http://img.yonhapnews.co.kr/etc/inner/EN/2015/05/21/AEN20150521003052320_01_i.jpg)
 
 ### Related:
 

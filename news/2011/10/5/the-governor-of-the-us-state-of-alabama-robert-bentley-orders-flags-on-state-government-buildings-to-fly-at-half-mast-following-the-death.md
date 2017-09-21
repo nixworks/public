@@ -8,6 +8,7 @@ The governor called him &quot;a true pioneer for civil rights&quot; and &quot;an
 ### Source:
 
 1. [Birmingham News](http://blog.al.com/spotnews/2011/10/alabama_gov_robert_bentley_ord.html)
+1. [Cover Image](//static-stage.advance.net/static/bama/static/img/logos/logo_fb.jpg)
 
 ### Related:
 

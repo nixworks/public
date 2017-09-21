@@ -8,6 +8,7 @@ A disgraced Japanese researcher has failed to replicate results hailed as a pote
 ### Source:
 
 1. [Reuters via FOX News](http://www.foxnews.com/health/2014/12/19/disgraced-japan-researcher-fails-to-replicate-game-changing-stem-cell-results)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2014/12/19/disgraced-japan-researcher-fails-to-replicate-game-changing-stem-cell-results/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422890555663.jpg?ve=1)
 
 ### Related:
 

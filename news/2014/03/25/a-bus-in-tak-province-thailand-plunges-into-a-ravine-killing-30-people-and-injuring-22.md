@@ -8,6 +8,7 @@ A bus crash in northern Thailand has killed at least 30 people and injured 22 ot
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-26727212)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73787000/jpg/_73787468_021655101.jpg)
 
 ### Related:
 

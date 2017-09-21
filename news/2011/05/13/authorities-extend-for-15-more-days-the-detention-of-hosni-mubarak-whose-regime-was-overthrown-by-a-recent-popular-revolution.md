@@ -10,6 +10,7 @@ Suzanne Mubarak, wife of the ousted Egyptian president, is detained for 15 days 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13385399)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13392099)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/may/13/tahrir-square-egypt-mubarak-wife)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52704000/jpg/_52704819_suzannemubarak.jpg)
 
 ### Related:
 

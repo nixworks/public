@@ -9,6 +9,7 @@ The Singapore stock exchange unveils a multi-billion dollar bid for the company 
 
 1. [BBC](http://www.bbc.co.uk/news/business-11617113)
 2. [Dow Jones via ''The Australian](http://www.theaustralian.com.au/business/industry-sectors/singapore-offer-values-asx-at-84bn/story-e6frg96f-1225943210061?referrer=email&source=AusBus_Lunch_email_nl&emcmp=AusBusLunch&emchn=Newsletter&emlist=Member)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

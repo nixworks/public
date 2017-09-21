@@ -8,6 +8,7 @@ Arkansas executed convicted killer Kenneth Williams on Thursday, who was the fou
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/lethal-injection/arkansas-executes-kenneth-williams-4th-lethal-injection-week-n752086)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_17/1966371/170415-kenneth-williams-arkansas-313p-rs_758e203680da15ee5dc6d4c7e1a256de.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

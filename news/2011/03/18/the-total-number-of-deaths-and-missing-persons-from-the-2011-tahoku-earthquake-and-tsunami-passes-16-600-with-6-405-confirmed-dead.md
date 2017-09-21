@@ -9,6 +9,7 @@ A US agency helping Japan tackle its nuclear crisis at a stricken nuclear power 
 
 1. [Jakarta Globe](http://www.thejakartaglobe.com/afp/japan-quake-live-report/429989)
 2. [Sydney Morning Herald](http://www.smh.com.au/environment/76b-pumped-into-japanese-economy-fight-to-douse-reactor-goes-on-as-toll-tops-13000-20110317-1bxm8.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/1/b/y/5/w/image.related.articleLeadwide.620x349.1bxm8.png/1300756500490.jpg)
 
 ### Related:
 

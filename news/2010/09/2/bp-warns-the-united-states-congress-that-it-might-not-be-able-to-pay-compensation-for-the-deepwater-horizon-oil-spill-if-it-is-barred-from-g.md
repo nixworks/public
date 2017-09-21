@@ -8,6 +8,7 @@ The company says proposed legislation could disrupt its efforts to set aside $20
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/09/03/business/03bp.html?_r=1&emc=na)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

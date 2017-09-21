@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3613383.stm)
 2. [UN](http://www.un.org/apps/news/story.asp?NewsID=10362&Cr=iraq&Cr1=)
 3. [World Tribune](http://www.worldtribune.com/worldtribune/breaking_10.html)
+3. [Cover Image](/News/dh/photos/large/04-01sg-generic.jpg)
 
 ### Related:
 

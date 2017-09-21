@@ -8,6 +8,7 @@ Firefighters extinguished a blaze that tore through a chemical storage depot at 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL2770507920070827?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070827&t=2&i=1358942&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-27T114110Z_01_L27705079_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

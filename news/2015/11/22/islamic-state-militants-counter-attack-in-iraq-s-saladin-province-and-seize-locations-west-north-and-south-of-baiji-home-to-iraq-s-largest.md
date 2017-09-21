@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/22/Islamic-State-militants-counter-attack-in-Iraqs-Saladin-province/2241448240800/?spt=mps&or=5)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/2241448240800/2015/1/8741204215abea9a5584bfafb76435da/v1.5/Islamic-State-militants-counter-attack-in-Iraqs-Saladin-province.jpg)
 
 ### Related:
 

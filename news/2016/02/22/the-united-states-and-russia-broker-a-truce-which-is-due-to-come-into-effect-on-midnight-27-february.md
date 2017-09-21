@@ -8,6 +8,7 @@ The US and Russia announce that a planned partial cessation of hostilities in Sy
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35634695)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0973/production/_88391420_88391419.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Swedish film about two teenage girls whose friendship turns to rivalry wins a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13237885)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52402000/jpg/_52402273_52402272.jpg)
 
 ### Related:
 

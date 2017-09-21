@@ -8,6 +8,7 @@ Gunmen have killed at least 20 people in a dawn attack in a remote village in no
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19941593)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63482000/gif/_63482630_1012_nigeria_dogodawa.gif)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A self-made explosive device went off while Arsen Pavlov, known as Motorola, was
 
 1. [TASS](http://tass.com/world/906799)
 2. [The Kyiv Post](https://www.kyivpost.com/ukraine-politics/russian-mercenary-arseniy-pavlov-war-crimes-suspect-known-motorola-reportedly-killed.html)
+2. [Cover Image](https://phototass3.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20161016/1149392.jpg)
 
 ### Related:
 

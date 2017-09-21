@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/6568911.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSL1830922320070418)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070418&t=2&i=617204&w=&fh=545px&fw=&ll=&pl=&sq=&r=617204)
 
 ### Related:
 

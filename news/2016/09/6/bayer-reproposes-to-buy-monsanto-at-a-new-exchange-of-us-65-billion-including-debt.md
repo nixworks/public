@@ -8,6 +8,7 @@ Bayer AG raised its offer to buy Monsanto Co. and create a new global leader in 
 ### Source:
 
 1. [The Wall Street Journal](http://www.wsj.com/articles/bayer-raises-offer-to-buy-monsanto-1473121719)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-OX457_0714ba_TOP_20160714120006.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKBN1720L2?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170331&t=2&i=1178828600&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2U10J)
 
 ### Related:
 

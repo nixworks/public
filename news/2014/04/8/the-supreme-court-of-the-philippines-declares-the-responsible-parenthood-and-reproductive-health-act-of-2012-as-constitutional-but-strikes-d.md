@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/54946-supreme-court-rh-law-constitutional)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/51534D05EAF0430BAED2C9518F1A663D/pro-anti-protesters-baguio-sc-carousel-07-20140408.jpg)
 
 ### Related:
 

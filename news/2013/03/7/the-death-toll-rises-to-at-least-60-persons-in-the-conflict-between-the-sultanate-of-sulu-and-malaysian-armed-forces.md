@@ -8,6 +8,7 @@ Malaysian security forces killed 31 Filipino gunmen on Borneo Island, officials 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/03/08/world/asia/malaysia-borneo-conflict.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/03/08/world/asia/08malaysia/08malaysia-videoLarge.jpg)
 
 ### Related:
 

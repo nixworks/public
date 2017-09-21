@@ -9,6 +9,7 @@ Two people were killed on Sunday when tribal clashes flared for a third day in t
 
 1. [Bloomberg](http://www.businessweek.com/news/2014-04-06/two-killed-in-egypt-tribal-clashes-as-death-toll-rises-to-25)
 2. [Reuters](http://www.reuters.com/article/2014/04/06/us-egypt-violence-idUSBREA350CC20140406)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140406&t=2&i=879332075&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3517VR00)
 
 ### Related:
 

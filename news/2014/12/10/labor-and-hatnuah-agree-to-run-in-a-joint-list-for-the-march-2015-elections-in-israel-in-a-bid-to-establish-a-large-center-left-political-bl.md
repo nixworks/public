@@ -8,6 +8,7 @@ Labor and Hatnua leaders announce deal to run joint list in upcoming elections; 
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/herzog-livni-join-forces-to-rotate-leadership/#ixzz3Lbx8cEZq)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/12/F141210ZZ42-e1418239874516.jpg)
 
 ### Related:
 

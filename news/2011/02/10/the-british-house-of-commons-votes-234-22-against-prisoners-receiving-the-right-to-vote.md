@@ -8,6 +8,7 @@ The Commons overwhelmingly votes to keep the ban on prisoners voting, in defianc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12409426)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/49751000/jpg/_49751248_manincellpa.jpg)
 
 ### Related:
 

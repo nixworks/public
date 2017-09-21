@@ -8,6 +8,7 @@ Mexican President Enrique Pena Nieto proposes legalising marijuana for medical p
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36107947)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FFEE/production/_89381556_9d2900af-c639-4114-ab79-e4298b0f4af5.jpg)
 
 ### Related:
 

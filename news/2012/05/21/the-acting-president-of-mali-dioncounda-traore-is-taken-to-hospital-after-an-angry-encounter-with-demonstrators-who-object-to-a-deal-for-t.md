@@ -8,6 +8,7 @@ Interim Mali President Dioncounda Traore is briefly hospitalised with a head wou
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18142488)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60391000/jpg/_60391976_014816188-1.jpg)
 
 ### Related:
 

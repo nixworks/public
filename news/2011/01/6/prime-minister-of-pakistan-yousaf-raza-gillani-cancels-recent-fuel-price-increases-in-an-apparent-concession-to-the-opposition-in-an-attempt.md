@@ -10,6 +10,7 @@
 1. [Bloomberg](http://www.bloomberg.com/news/2011-01-06/pakistan-prime-minister-cancels-fuel-price-increase-to-save-his-government.html)
 2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7368446.html)
 3. [Reuters](http://www.reuters.com/article/idUSSGE7050A320110106)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

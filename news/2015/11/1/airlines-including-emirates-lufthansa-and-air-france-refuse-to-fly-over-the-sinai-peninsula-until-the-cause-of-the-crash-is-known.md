@@ -11,6 +11,7 @@ The cause of the crash that killed all 224 people aboard a Russian airliner in E
 2. [AP via Fox News](http://www.foxnews.com/world/2015/11/01/russia-observes-nationwide-day-mourning-for-victims-plane-crash-in-egypt/)
 3. [BBC](http://www.bbc.com/news/world-middle-east-34695608)
 4. [USA Today](http://www.usatoday.com/story/news/world/2015/11/01/russia-plane-crash/74989966/)
+4. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

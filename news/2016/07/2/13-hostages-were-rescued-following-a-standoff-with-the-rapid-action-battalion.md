@@ -9,6 +9,7 @@ Bangladesh Prime Minister Sheikh Hasina said on Saturday that 13 hostages were r
 
 1. [CNN](http://www.cnn.com/2016/07/02/asia/bangladesh-dhaka-shooting/index.html)
 2. [Reuters](http://in.reuters.com/article/bangladesh-attack-minister-idINKCN0ZI06U)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160702&t=2&i=1143812023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6105M)
 
 ### Related:
 

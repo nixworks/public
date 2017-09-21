@@ -8,6 +8,7 @@ Mylan NV (MYL.O) on Friday said it will pay $465 million to settle questions of 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mylan-nl-epipen-idUSKCN1272DZ?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161007&t=2&i=1156600534&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC961NO)
 
 ### Related:
 

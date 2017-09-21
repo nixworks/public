@@ -9,6 +9,7 @@ The U.S. has removed all remaining personnel from Yemen as Shiite rebels control
 
 1. [BBC](http://m.bbc.com/news/world-middle-east-32006727)
 2. [Fox News](http://www.foxnews.com/politics/2015/03/22/us-removes-remaining-personnel-from-yemen/)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/2015/03/22/0/0/032215_ff_yemen_640.jpg?ve=1)
 
 ### Related:
 

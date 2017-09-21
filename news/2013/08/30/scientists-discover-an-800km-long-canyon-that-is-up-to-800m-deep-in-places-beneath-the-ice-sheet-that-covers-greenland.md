@@ -8,6 +8,7 @@ One of the biggest canyons in the world has been found beneath the ice sheet tha
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-23866810)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69547000/jpg/_69547276_69547275.jpg)
 
 ### Related:
 

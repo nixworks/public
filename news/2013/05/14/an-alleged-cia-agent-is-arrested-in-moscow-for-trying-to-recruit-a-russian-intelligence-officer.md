@@ -9,6 +9,7 @@ Russia is expelling a US diplomat briefly detained in Moscow for allegedly tryin
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22522494)
 2. [Sky News](http://news.sky.com/story/1090741/russia-undercover-cia-agent-detained)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67599000/jpg/_67599230_de27.jpg)
 
 ### Related:
 

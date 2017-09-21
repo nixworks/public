@@ -8,6 +8,7 @@ Low turnout and vote abuses marred Sunday elections meant to complete democratic
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/11/24/us-mali-election-idUSBRE9AN0J020131124)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131124&t=2&i=814718173&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AN1MHM00)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Police hunt five suspects as Greece suspends international airmail because of su
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11680593)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/11/03/greece.suspicious.packages/)
 3. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90853/7187269.html)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

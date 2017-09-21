@@ -8,6 +8,7 @@ The Arab League is to ask the United Nations Security Council to back its plan t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16748615)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58063000/jpg/_58063835_58063834.jpg)
 
 ### Related:
 

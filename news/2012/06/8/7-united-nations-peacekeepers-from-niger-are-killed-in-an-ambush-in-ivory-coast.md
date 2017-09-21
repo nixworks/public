@@ -8,6 +8,7 @@ Seven peacekeepers from Niger killed while on patrol near the border with Liberi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/06/201268201721292527.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/9/20126921822330734_20.jpg)
 
 ### Related:
 

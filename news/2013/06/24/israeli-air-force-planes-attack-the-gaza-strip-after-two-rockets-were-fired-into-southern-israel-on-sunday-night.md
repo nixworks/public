@@ -9,6 +9,7 @@ Israeli warplanes attack targets in the Gaza Strip after missiles are fired into
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23025865#TWEET799423)
 2. [The Times of Israel](http://www.timesofisrael.com/iaf-strikes-targets-in-gaza-is-response-to-rocket-fire/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68337000/jpg/_68337128_fa940676-2ddd-4bba-a1da-45da7e389825.jpg)
 
 ### Related:
 

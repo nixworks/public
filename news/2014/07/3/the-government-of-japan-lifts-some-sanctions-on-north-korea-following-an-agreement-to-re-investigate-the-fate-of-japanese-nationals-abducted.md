@@ -8,6 +8,7 @@ Japanese Prime Minister Shinzo Abe announced the decision Thursday but provided 
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/07/02/japan-to-lift-some-sanctions-imposed-on-north-korea/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/07/02/japan-to-lift-some-sanctions-imposed-on-north-korea/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449962021972.jpg?ve=1)
 
 ### Related:
 

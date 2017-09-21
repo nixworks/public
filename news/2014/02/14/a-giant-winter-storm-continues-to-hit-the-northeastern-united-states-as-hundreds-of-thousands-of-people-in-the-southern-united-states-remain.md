@@ -8,6 +8,7 @@ A storm unleashes a second wave of snowfall on the US north-east, after it cut p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-26182797#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72976000/jpg/_72976774_72976773.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ The Government is to establish a statutory fund for former residents of institut
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0416/breaking80.html)
 4. [Voice of America](http://www1.voanews.com/english/news/religion/Pope-Heads-to-Malta-Where-More-Sex-Abuse-Victims-Await--91065674.html)
 5. [euronews](http://www.euronews.net/2010/04/16/malta-abuse-victims-demand-to-meet-pope/)
+5. [Cover Image](https://img.rasset.ie/00024e50-1600.jpg)
 
 ### Related:
 

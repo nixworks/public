@@ -9,6 +9,7 @@ The Islamist party which has led the coalition government since the Arab Spring 
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_MOROCCO_ELECTIONS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Deutsche Welle](http://www.dw.com/en/moroccos-ruling-islamist-party-win-parliamentary-election/a-35995734)
+2. [Cover Image](http://www.dw.com/image/35995012_304.jpg)
 
 ### Related:
 

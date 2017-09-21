@@ -9,6 +9,7 @@ SYDNEY (AFP) - Indonesia has told Australia that most of the migrants stranded a
 
 1. [Sky News Asia](http://www.skynews.com.au/news/top-stories/2015/05/23/myanmar-to-deport-rescued-migrants.html)
 2. [Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/indonesia-believes-most-migrants-stranded-sea-are-not-rohingya-austr)
+2. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/05/23/MYANMARNAVYRESCUE230515e_2x.jpg?itok=Jyo_Fu_Z)
 
 ### Related:
 

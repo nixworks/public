@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Star](http://www.thestar.com.my/news/world/2016/04/09/head-on-train-collision-injures-245-in-costa-rica/)
+1. [Cover Image](http://clips.thestar.com.my/TSOL/images/newTsol_logo_socmedia.png?v=2017330)
 
 ### Related:
 

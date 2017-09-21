@@ -8,6 +8,7 @@ Forest fires sweeping across eastern Russia have killed at least 25 people and t
 ### Source:
 
 1. [Reuters via ABC Online](http://www.abc.net.au/news/stories/2010/07/31/2969640.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

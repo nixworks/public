@@ -12,6 +12,7 @@ Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incur
 3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/201152211937541921.html)
 4. [BBC](http://www.bbc.co.uk/news/world-africa-13253896)
 5. [News 24](http://www.news24.com/Africa/News/Gaddafi-tanks-pound-Libya-siege-city-20110502)
+5. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

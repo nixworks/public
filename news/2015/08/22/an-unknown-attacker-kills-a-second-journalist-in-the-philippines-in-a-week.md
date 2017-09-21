@@ -8,6 +8,7 @@ Sorsogon radioman Teodoro Escanilla of DZMS was gunned down in his home on Tuesd
 ### Source:
 
 1. [CNN Philippines](http://cnnphilippines.com/regional/2015/08/21/media-killings-philippines-local-journalists-sorsogon-radioman-broadcaster-teodoro-escanilla-journalist-gregorio-ybanez-killed-shot-dead-gunned-down-slain-in-2-consecutive-days-NUJP.html)
+1. [Cover Image](http://cnnphilippines.com/incoming/ypk87h-local-journalists-killed.png/ALTERNATES/LANDSCAPE_640/local%20journalists%20killed.png)
 
 ### Related:
 

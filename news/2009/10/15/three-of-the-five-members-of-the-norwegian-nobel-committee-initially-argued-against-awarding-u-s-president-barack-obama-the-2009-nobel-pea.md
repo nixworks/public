@@ -9,6 +9,7 @@
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gOy7GLcrP7iQja3yU5Zu4BHMqFdw)
 2. [Primary source: Verdens Gang](http://www.vg.no/nyheter/innenriks/artikkel.php?artid=569016)
+2. [Cover Image](https://1.vgc.no/drpublish/images/article/2009/10/15/22334579/1/460x307/1699056.jpg)
 
 ### Related:
 

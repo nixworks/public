@@ -11,6 +11,7 @@
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13672725)
 3. [Syrian Arab News Agency](http://www.sana.sy/eng/337/2011/06/06/351050.htm)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/jun/07/syrian-blogger-amina-abdallah-kidnapped?CMP=twt_fd)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53274000/jpg/_53274545_53274543.jpg)
 
 ### Related:
 

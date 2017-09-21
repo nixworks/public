@@ -8,6 +8,7 @@ Some 70 people are lost at sea after their boat capsized off Sicily, survivors s
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28131675)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75996000/jpg/_75996063_022971285-1.jpg)
 
 ### Related:
 

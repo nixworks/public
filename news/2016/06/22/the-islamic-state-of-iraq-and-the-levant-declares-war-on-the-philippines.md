@@ -8,6 +8,7 @@ The so-called Islamic State, or ISIS, released a video early on Wednesday in an 
 ### Source:
 
 1. [The Philippine Star](http://www.philstar.com/headlines/2016/06/22/1595580/isis-releases-first-propaganda-video-philippines)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/nation/20160622/middle-east-iraq-isis.jpg)
 
 ### Related:
 

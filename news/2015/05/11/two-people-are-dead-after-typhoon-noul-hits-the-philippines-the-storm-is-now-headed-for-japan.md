@@ -9,6 +9,7 @@
 
 1. [Time](http://time.com/3853365/noul-philippines-dodong-typhoon-batanes-signal-japan-death-pagasa/)
 2. [USA Today](http://www.usatoday.com/videos/news/world/2015/05/11/27114139/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

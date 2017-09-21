@@ -8,6 +8,7 @@ China’s central leadership has moved to bolster control over the southwestern 
 ### Source:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/world/archives/2012/03/18/2003528096)
+1. [Cover Image](http://www.taipeitimes.com/images/logo.gif)
 
 ### Related:
 

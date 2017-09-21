@@ -9,6 +9,7 @@ Jamaica’s austerity policy that has brought three credit updates in the past y
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-02-24/five-things-you-need-to-know-about-jamaica-s-elections)
 2. [Reuters](http://www.reuters.com/article/us-jamaica-election-idUSKCN0VZ09C)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

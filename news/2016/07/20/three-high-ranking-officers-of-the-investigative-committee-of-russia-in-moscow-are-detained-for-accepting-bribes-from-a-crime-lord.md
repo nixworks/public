@@ -8,6 +8,7 @@ A Moscow court has issued arrest warrants for three high-ranking Investigative C
 ### Source:
 
 1. [RT](https://www.rt.com/politics/352139-fsb-investigative-committee-arrests/)
+1. [Cover Image](https://img.rt.com/files/2016.07/article/578e823fc46188f8788b456a.jpg)
 
 ### Related:
 

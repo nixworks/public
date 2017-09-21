@@ -8,6 +8,7 @@ An index of troubled countries reveals the common threads that lead to suffering
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/06/2011620183314881656.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/1/201141183057513876_20.jpg)
 
 ### Related:
 

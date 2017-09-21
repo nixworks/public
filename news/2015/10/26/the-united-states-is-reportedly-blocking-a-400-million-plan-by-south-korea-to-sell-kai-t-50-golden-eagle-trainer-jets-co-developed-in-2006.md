@@ -9,6 +9,7 @@ U.S. says no to sale of U.S.-South Korean developed trainer jet to Uzbekistan.
 
 1. [The Korea Times](http://www.koreatimes.co.kr/www/news/nation/2015/10/116_189398.html)
 2. [UPI](http://www.upi.com/Business_News/Security-Industry/2015/10/26/Report-US-blocks-aircraft-sale-to-Uzbekistan/2651445885301/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/2651445885301/2015/1/14458854209650/v2.1/Report-US-blocks-aircraft-sale-to-Uzbekistan.jpg)
 
 ### Related:
 

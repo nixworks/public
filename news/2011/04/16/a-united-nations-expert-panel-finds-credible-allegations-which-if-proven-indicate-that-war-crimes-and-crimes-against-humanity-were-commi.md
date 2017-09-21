@@ -9,6 +9,7 @@ A United Nations panel has called for setting up of an “independent internatio
 
 1. [AFP/France 24](http://www.france24.com/en/20110416-leaked-un-report-urges-sri-lanka-war-crimes-probe)
 2. [PTI/''The Hindu](http://www.thehindu.com/news/international/article1701700.ece)
+2. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

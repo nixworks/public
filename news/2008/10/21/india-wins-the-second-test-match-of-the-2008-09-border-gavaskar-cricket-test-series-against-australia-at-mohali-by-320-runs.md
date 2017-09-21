@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Cricinfo](http://content-ind.cricinfo.com/indvaus2008/engine/current/match/345670.html)
+1. [Cover Image](http://i.imgci.com/espncricinfo/facebook/3.jpg)
 
 ### Related:
 

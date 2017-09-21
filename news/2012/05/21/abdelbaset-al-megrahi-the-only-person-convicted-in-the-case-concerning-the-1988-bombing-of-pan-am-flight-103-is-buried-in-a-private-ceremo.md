@@ -9,6 +9,7 @@ Lockerbie bomber Abdelbaset al-Megrahi has been buried in a private ceremony in 
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/05/201252113326147579.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-18141647)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60383000/jpg/_60383833_60383832.jpg)
 
 ### Related:
 

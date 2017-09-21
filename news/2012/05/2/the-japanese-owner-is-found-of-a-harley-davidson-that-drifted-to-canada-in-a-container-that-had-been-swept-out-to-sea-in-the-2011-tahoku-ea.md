@@ -8,6 +8,7 @@ The owner has been found of a Harley-Davidson motorcycle that drifted to Canada 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17927045)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59993000/jpg/_59993681_59993680.jpg)
 
 ### Related:
 

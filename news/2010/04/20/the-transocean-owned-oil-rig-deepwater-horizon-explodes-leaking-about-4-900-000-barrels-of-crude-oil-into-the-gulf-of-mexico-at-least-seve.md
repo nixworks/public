@@ -8,6 +8,7 @@ The oil rig that exploded and then sank 36 hours later could lead to a major oil
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/36683314)
+1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/100422_oilrigsheen.standard.jpg)
 
 ### Related:
 

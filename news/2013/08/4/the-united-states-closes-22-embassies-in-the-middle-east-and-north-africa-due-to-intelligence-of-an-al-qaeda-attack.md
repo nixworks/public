@@ -10,6 +10,7 @@ The Canadian embassy in Dhaka, the capital of Bangladesh, will be closed Sunday 
 1. [BBC](http://www.bbc.co.uk/news/uk-23559031)
 2. [CNN](http://edition.cnn.com/2013/08/02/world/meast/yemen-al-qaeda)
 3. [Toronto Sun](http://www.torontosun.com/2013/08/04/canada-closes-embassy-in-bangladesh-sunday)
+3. [Cover Image](http://storage.torontosun.com/v1/suns-prod-images/1297450644285_ORIGINAL.jpg?quality=80)
 
 ### Related:
 

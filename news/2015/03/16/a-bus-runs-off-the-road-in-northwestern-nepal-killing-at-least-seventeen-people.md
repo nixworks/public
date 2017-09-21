@@ -8,6 +8,7 @@ At least 17 people were killed on Monday when a bus slipped off a rain-drenched 
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/south-asia/17-killed-in-nepal-bus-accident/article6999246.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

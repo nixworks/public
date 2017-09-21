@@ -8,6 +8,7 @@ A new strain of the virus that causes AIDS has been discovered in a woman from t
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/32258847/ns/health-aids/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

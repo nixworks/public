@@ -8,6 +8,7 @@ A major volcanic eruption in Rabaul on PNG&#039;s East New Britain Island has le
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-08-29/papua-new-guineas-mount-tavurvur-volcano-erupts-back-to-life/5705032)
+1. [Cover Image](http://www.abc.net.au/news/image/5705162-1x1-700x700.jpg)
 
 ### Related:
 

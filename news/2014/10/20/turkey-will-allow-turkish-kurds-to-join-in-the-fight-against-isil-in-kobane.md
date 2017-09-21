@@ -9,6 +9,7 @@ Turkey is to allow Iraqi Kurdish fighters to cross the Syrian border to Kobane t
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-10-20-ML-Iraq/id-4a36b3c3d62b4d7c9ad7a1e6c193eaea)
 2. [BBC](http://www.bbc.com/news/world-middle-east-29685830)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78389000/jpg/_78389723_78389722.jpg)
 
 ### Related:
 

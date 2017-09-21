@@ -9,6 +9,7 @@ A Kentucky county clerk was jailed on Thursday for refusing to issue marriage li
 
 1. [New York Times](http://www.nytimes.com/2015/09/04/us/kim-davis-same-sex-marriage.html)
 2. [Reuters](http://www.reuters.com/article/2015/09/03/us-usa-gaymarriage-kentucky-idUSKCN0R13S220150903)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150903&t=2&i=1076777491&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8215G)
 
 ### Related:
 

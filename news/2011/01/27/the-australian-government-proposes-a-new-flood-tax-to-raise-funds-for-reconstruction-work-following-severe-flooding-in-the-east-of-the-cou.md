@@ -9,6 +9,7 @@ Tax expected to raise $1.8bn of the estimated $5bn needed for repairs following 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/20111277522459971.html)
 2. [The Australian](http://www.theaustralian.com.au/in-depth/queensland-floods/flood-victims-and-low-paid-to-be-exempt-from-flood-levy/story-fn7iwx3v-1225995437524)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/27/201112774716867371_20.jpg)
 
 ### Related:
 

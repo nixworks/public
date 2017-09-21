@@ -8,6 +8,7 @@ Russia wants the Syrian government and opposition to agree on launching a consti
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/10/us-mideast-crisis-syria-draft-idUSKCN0SZ2F720151110#akoQILJwz4vtHo1U.97)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151110&t=2&i=1093825376&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA90YB)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Israeli jets carry out air strikes in the Gaza Strip, injuring at least two Pale
 2. [Arutz Sheva](http://www.israelnationalnews.com/News/news.aspx/141268)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12047908)
 4. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=200370)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

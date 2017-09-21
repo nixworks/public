@@ -8,6 +8,7 @@ Southern China has been warned to brace for more storms after extreme weather la
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2013-03-22/an-tornado2c-hail-storms-wreak-havoc-in-china/4587866)
+1. [Cover Image](http://www.abc.net.au/news/image/4587836-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ FORMER President Fidel V. Ramos on Monday resigned as the countrys special envoy
 ### Source:
 
 1. [The Manila Standard](http://thestandard.com.ph/news/headlines/220316/fvr-quits-china-job-is-done.html)
+1. [Cover Image](http://thestandard.com.ph/panel/_files/newspublish/933fe_ramos_fidel_02.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ African leaders have opened extravagant celebrations for the 50th jubilee of the
 ### Source:
 
 1. [News 24](http://www.news24.com/Africa/News/AU-opens-50th-anniversary-celebrations-20130525)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2064/e9013ce6b1af48039a5f79c6404023e2.jpg)
 
 ### Related:
 

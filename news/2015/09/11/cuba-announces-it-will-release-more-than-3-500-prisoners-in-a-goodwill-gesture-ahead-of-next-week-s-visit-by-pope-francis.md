@@ -8,6 +8,7 @@ Cuba says it will release more than 3,500 prisoners in a goodwill gesture ahead 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-34220944)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15337/production/_85493868_85493867.jpg)
 
 ### Related:
 

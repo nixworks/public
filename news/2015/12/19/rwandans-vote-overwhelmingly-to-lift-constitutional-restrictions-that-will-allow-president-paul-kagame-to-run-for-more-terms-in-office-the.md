@@ -9,6 +9,7 @@ Rwandans vote overwhelmingly to allow President Paul Kagame to extend his term i
 
 1. [AP via Huffington Post](http://www.huffingtonpost.com/huff-wires/20151219/af-rwanda-term-limits/?utm_hp_ref=homepage&ir=homepage)
 2. [BBC](http://www.bbc.com/news/world-africa-35138671)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/45B9/production/_87294871_87294867.jpg)
 
 ### Related:
 

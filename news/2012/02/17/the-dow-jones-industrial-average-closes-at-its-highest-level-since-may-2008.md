@@ -8,6 +8,7 @@ U.S. stocks capped off a solid week on either side of the breakeven line Friday,
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/02/17/markets/stocks/index.htm)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/02/17/markets/stocks/chart_ws_index_dow_2012217163217.01.png)
 
 ### Related:
 

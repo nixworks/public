@@ -8,6 +8,7 @@ Three separate bombings targeting Iraqi government forces and an allied militia 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24741351)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70795000/gif/_70795853_iraq_mosul_1210.gif)
 
 ### Related:
 

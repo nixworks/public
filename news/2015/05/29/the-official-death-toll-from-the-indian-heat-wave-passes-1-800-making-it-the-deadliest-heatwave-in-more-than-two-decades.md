@@ -8,6 +8,7 @@ Indian authorities urged hospitals to treat heatstroke as an emergency as the to
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/india-battles-deadliest-heatwave-two-decades-084500892.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/WqprL7vwaVMQO0P22E.LVg--/aD02NDk7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DEL-Del6418857-1-1-0.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Burmese President Thein Sein announces a cabinet reshuffle, replacing the ha
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19389920)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61484000/jpg/_61484181_61484180.jpg)
 
 ### Related:
 

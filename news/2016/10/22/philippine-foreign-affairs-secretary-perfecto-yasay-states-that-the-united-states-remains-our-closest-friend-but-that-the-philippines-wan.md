@@ -8,6 +8,7 @@ The United States remains the &quot;closest friend&quot; of the Philippines but 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-philippines-china-idUSKCN12M0HP)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161022&t=2&i=1158510703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9L09H)
 
 ### Related:
 

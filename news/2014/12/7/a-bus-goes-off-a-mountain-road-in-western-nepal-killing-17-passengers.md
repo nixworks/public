@@ -8,6 +8,7 @@ Overcrowded bus plunges off a mountain road, leaving at least 17 dead and 50 mor
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2014/12/many-dead-nepal-bus-crash-2014128464081969.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/11/24/201411248446162734_20.jpg)
 
 ### Related:
 

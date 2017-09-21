@@ -8,6 +8,7 @@ Paramilitary soldiers accused of killing an unarmed man in the Pakistani city of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13959443)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53754000/jpg/_53754073_012332300-1.jpg)
 
 ### Related:
 

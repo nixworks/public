@@ -9,6 +9,7 @@ It joins the likes of the Grand Canyon and Machu Picchu as it gets heritage stat
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-cumbria-40547691)
 2. [UNESCO](http://whc.unesco.org/en/news/1689/)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B686/production/_96862764_063837ac-8232-4f8e-8c8b-f753279980f8.jpg)
 
 ### Related:
 

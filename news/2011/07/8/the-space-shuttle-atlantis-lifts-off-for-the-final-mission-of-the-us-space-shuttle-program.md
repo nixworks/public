@@ -9,6 +9,7 @@ Space shuttle Atlantis rocketed off its seaside launch pad on Friday, rising ato
 
 1. [NASA](http://www.nasa.gov/mission_pages/shuttle/main/index.html)
 2. [Reuters](http://www.reuters.com/article/2011/07/08/us-space-shuttle-idUSTRE7634ZA20110708?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110708&t=2&i=454912095&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-08T172436Z_01_BTRE76717VS00_RTROPTP_0_SPACE-SHUTTLE)
 
 ### Related:
 

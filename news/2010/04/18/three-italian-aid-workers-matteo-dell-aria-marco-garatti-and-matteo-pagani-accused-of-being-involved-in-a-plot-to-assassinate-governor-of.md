@@ -8,6 +8,7 @@ Investigation clears three doctors of plot to kill the governor of Helmand provi
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/2010418154831591773.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

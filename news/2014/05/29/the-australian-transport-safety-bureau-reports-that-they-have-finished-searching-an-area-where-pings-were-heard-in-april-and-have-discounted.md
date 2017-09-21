@@ -8,6 +8,7 @@ Australian search officials saidon Thursday they had finished searching an area 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/29/malaysia-airlines-search-idUSS9N0N200D20140529)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

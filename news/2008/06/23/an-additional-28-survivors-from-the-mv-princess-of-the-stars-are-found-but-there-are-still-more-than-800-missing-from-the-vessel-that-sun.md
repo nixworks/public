@@ -8,6 +8,7 @@ Rescuers scoured theseas around a capsized ferry in the Philippines on Monday fo
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/asiaCrisis/idUKL2271488720080623)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

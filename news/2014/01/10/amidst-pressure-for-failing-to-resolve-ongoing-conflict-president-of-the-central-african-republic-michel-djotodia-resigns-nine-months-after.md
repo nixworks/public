@@ -8,6 +8,7 @@ President Michel Djotodia resigns as he is unable to stop the ethnic fighting in
 ### Source:
 
 1. [IB Times](http://www.ibtimes.co.uk/central-african-republics-president-michel-djotodia-resigns-1431838)
+1. [Cover Image](http://d.ibtimes.co.uk/en/full/1356688/cars-president-michel-djotodia.jpg)
 
 ### Related:
 

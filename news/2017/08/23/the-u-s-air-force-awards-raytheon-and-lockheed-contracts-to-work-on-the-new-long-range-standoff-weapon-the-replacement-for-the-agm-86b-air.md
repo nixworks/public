@@ -8,6 +8,7 @@ The U.S. Air Force has awarded Lockheed Martin Corp and Raytheon Co separate $90
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-lockheed-pentagon-lrso-idUSKCN1B32OB)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170823&t=2&i=1198314119&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7M1XJ)
 
 ### Related:
 

@@ -20,6 +20,7 @@
 11. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276136,00.html)
 12. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276176,00.html)
 13. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276249,00.html)
+13. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

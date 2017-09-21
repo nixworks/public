@@ -9,6 +9,7 @@ A string of moderate earthquakes hit central Italy on Wednesday, shaking an area
 
 1. [CNN](http://www.cnn.com/2017/01/18/europe/italy-earthquake-rome-amatrice/index.html)
 2. [Weather Channel](https://weather.com/news/news/amatrice-italy-earthquake-swarm)
+2. [Cover Image](http://s.w-x.co/screen-shot-2017-01-18-at-6.54.24-am.jpg)
 
 ### Related:
 

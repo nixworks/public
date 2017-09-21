@@ -8,6 +8,7 @@ The sister of an MI6 officer - whose body was found in a padlocked bag - tells t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-17812112)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59388000/jpg/_59388680_59388679.jpg)
 
 ### Related:
 

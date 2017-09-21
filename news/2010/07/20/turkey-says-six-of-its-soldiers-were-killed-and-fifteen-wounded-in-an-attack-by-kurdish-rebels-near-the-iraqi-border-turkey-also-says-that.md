@@ -8,6 +8,7 @@ Six Turkish soldiers are killed in an attack by Kurdish rebels near the border w
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10696410)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

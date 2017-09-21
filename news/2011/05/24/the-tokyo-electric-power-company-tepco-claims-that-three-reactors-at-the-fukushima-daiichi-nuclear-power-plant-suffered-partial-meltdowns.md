@@ -8,6 +8,7 @@ The operator of a damaged nuclear power station in north-eastern Japan said on T
 ### Source:
 
 1. [DPA via ''The Hindu](http://www.thehindu.com/sci-tech/energy-and-environment/article2044557.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article13868387.ece/ALTERNATES/LANDSCAPE_615/24TH_JAPAN_REACTOR)
 
 ### Related:
 

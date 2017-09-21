@@ -12,6 +12,7 @@ Only 40 per cent of funds needed for immediate flood relief have been received, 
 3. [BBC](http://www.bbc.co.uk/news/world-south-asia-11011620)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/aug/18/pakistan-floods-saudi-arabia-pledges)
 5. [The New York Times](http://www.nytimes.com/2010/08/19/world/asia/19nations.html?hp)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

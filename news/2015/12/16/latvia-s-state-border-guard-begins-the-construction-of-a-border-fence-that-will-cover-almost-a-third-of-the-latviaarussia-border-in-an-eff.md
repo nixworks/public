@@ -8,6 +8,7 @@ The Baltic nation of Latvia is building...
 ### Source:
 
 1. [Business Insider](http://uk.businessinsider.com/latvia-border-fence-russia-2015-12?r=US&IR=T)
+1. [Cover Image](http://static1.uk.businessinsider.com/image/5671b404dd0895215d8b4569-1190-625/a-nation-bordering-russia-is-building-a-fence-along-a-third-of-its-border.jpg)
 
 ### Related:
 

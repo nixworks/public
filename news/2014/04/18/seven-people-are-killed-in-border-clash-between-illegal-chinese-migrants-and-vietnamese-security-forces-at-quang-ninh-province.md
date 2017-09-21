@@ -9,6 +9,7 @@ Seven people were killed in a clash between Vietnamese border guards and migrant
 
 1. [The Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304049904579513142047998738?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304049904579513142047998738.html)
 2. [Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304626304579509153275325372?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304626304579509153275325372.html)
+2. [Cover Image](https://si.wsj.net/img/WSJ_Logo_black_social.gif)
 
 ### Related:
 

@@ -1,0 +1,24 @@
+### [2004-10-25](/news/2004/10/25/index.md)
+
+#  The Roman Catholic Church publishes a handbook intended to guide business, cultural], and political leaders in making decisions regarding social issues. The publication comes one week before the U.S. presidential election. In response to a journalist's question as to how Roman Catholics should vote, Vatican spokesman Joaquin Navarro Valls says that "the Holy See never gets involved in electoral or political questions directly". 
+
+A Vatican handbook made public Monday questioned preventive war and denounced the &#8220;horrendous crime&#8221; of abortion, but Vatican officials denied they were trying to influence the U.S. presidential election campaign.
+
+
+### Source:
+
+1. [MSNBC](http://msnbc.msn.com/id/6327625/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
+
+### Related:
+
+1. [The Vatican police arrest Msgr. Lucio Angel Vallejo Balda and Francesca Immacolata Chaouqui, members of a former papal commission charged with studying financial operations of the Holy See, for allegedly leaking confidential documents to the media, a crime since 2013. ](/news/2015/11/2/the-vatican-police-arrest-msgr-lucio-angel-vallejo-balda-and-francesca-immacolata-chaouqui-members-of-a-former-papal-commission-charged-w.md) _Context: Holy See, Vatican City_
+2. [At the beginning of today's weekly general audience, Pope Francis asks for forgiveness for the scandals which have recently hit Rome and the Vatican. He did not offer details. The Church's Synod on the Family concludes Sunday, October 25, 2015. ](/news/2015/10/14/at-the-beginning-of-today-s-weekly-general-audience-pope-francis-asks-for-forgiveness-for-the-scandals-which-have-recently-hit-rome-and-the.md) _Context: Holy See, Vatican City_
+3. [A priest is arrested and questioned over an alleged drug-induced gay orgy hosted in his apartment in the Vatican City. ](/news/2017/07/5/a-priest-is-arrested-and-questioned-over-an-alleged-drug-induced-gay-orgy-hosted-in-his-apartment-in-the-vatican-city.md) _Context: Vatican City_
+4. [The Holy See and Myanmar establish full diplomatic relations following a meeting between Pope Francis and Myanmar's State Counsellor Aung San Suu Kyi. ](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.md) _Context: Holy See_
+5. [The Palestinian National Authority prepares to open an embassy in the Vatican City, just one day before a Palestinian peace conference in Paris. ](/news/2017/01/14/the-palestinian-national-authority-prepares-to-open-an-embassy-in-the-vatican-city-just-one-day-before-a-palestinian-peace-conference-in-pa.md) _Context: Vatican City_
+6. [Pope Francis pleads for peace in a Christmas Mass in the Vatican. ](/news/2016/12/25/pope-francis-pleads-for-peace-in-a-christmas-mass-in-the-vatican.md) _Context: Vatican City_
+7. [Mother Teresa, known for working with the desperately poor, is canonized in a ceremony at the Vatican. ](/news/2016/09/4/mother-teresa-known-for-working-with-the-desperately-poor-is-canonized-in-a-ceremony-at-the-vatican.md) _Context: Vatican City_
+8. [Pope Francis's visit to Armenia this weekend may stress relations with Turkey. The Pope is seeking to avoid reigniting the diplomatic dispute that arose last year when he described the 1915 mass killings of Armenians as a genocide. The Vatican prefers the Armenian phrase "Medz Yeghern," which roughly translates as "the great evil or calamity." ](/news/2016/06/23/pope-francis-s-visit-to-armenia-this-weekend-may-stress-relations-with-turkey-the-pope-is-seeking-to-avoid-reigniting-the-diplomatic-disput.md) _Context: Holy See_
+9. [The Vatican suspends PricewaterhouseCoopers' audit of its finances over questions whether proper procedures were followed when the December 2015 contract, reportedly worth $3 million, was enacted. Analysts say this move exposes the rift between the church's old guard and supporters of financial reform, and raises questions about the Catholic Church's commitment to cleaning up its finances. ](/news/2016/04/21/the-vatican-suspends-pricewaterhousecoopers-audit-of-its-finances-over-questions-whether-proper-procedures-were-followed-when-the-december.md) _Context: Holy See_
+10. [The Vatican is replacing Italian Archbishop Carlo Maria Vigano, the Apostolic Nuncio to the U.S., with French-born Archbishop Christophe Pierre, currently the Apostolic Nuncio to Mexico. Vigano, who is 75, the statutory retirement age, in 2015 arranged the unexpected meeting between Pope Francis and controversial Kentucky clerk Kim Davis, who refused to follow her state's law on same-sex marriage. ](/news/2016/03/17/the-vatican-is-replacing-italian-archbishop-carlo-maria-vigana2-the-apostolic-nuncio-to-the-u-s-with-french-born-archbishop-christophe-pi.md) _Context: Holy See_

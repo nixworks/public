@@ -9,6 +9,7 @@ Japan approves a record 92.4 trillion yen of spending for the next financial yea
 
 1. [BBC](http://www.bbc.co.uk/news/business-12074304)
 2. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20101224x1.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [News24](http://www.news24.com/News24/South_Africa/Aids_Focus/0,,2-7-659_1703316,00.html)
 4. [Pretoria News](http://www.pretorianews.co.za/index.php?fSectionId=665&fArticleId=2517252)
 5. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L1120421.htm)
+5. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The 80-year-old Tibetan leader cancelled his planned October US appearances afte
 
 1. [Radio Free Asia](http://www.rfa.org/english/news/tibet/health-09302015175344.html)
 2. [The Times of India](http://economictimes.indiatimes.com/news/politics-and-nation/dalai-lama-to-return-to-dharamsala-on-october-3-after-us-checkup/articleshow/49170147.cms)
+2. [Cover Image](http://img.etimg.com/thumb/msid-49170156,width-672,resizemode-4,imglength-241134/news/politics-and-nation/dalai-lama-to-return-to-dharamsala-on-october-3-after-us-checkup/dalai-lama-pti.jpg)
 
 ### Related:
 

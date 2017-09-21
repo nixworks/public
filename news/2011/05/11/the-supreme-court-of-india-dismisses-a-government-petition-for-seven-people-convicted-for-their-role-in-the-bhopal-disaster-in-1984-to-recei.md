@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2011/05/11/india-bhopal-court-idUSL3E7GB17420110511)
 2. [Times of India](http://timesofindia.indiatimes.com/india/SC-dismisses-CBI-petition-rejects-harsher-punishment-for-Bhopal-gas-tragedy-accused/articleshow/8239807.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/8240314.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Shelling by Syrian forces kills 34 people, according to the British-based group 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18138269)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60361000/jpg/_60361419_014511645-1.jpg)
 
 ### Related:
 

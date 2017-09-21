@@ -8,6 +8,7 @@ Three people have died after a shooting incident at a shopping mall in the US st
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-25898567)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/72527000/jpg/_72527310_72527309.jpg)
 
 ### Related:
 

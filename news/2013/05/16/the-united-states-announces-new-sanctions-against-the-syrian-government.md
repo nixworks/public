@@ -8,3 +8,4 @@ WASHINGTON -- The U.S. Treasury Department announced new sanctions against the S
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-us-syria-sanctions-20130516,0,3540145.story)
+1. [Cover Image](http://www.trbimg.com/img-519546dd/turbine/la-fg-wn-us-syria-sanctions-20130516)

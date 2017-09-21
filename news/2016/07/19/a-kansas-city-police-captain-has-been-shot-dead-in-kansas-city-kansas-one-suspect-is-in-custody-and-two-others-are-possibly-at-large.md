@@ -8,6 +8,7 @@ KANSAS &#8212; A Kansas City Police Captain has died after being shot in Kansas 
 ### Source:
 
 1. [Breaking 911](http://breaking911.com/breaking-kansas-city-police-officer-shot/)
+1. [Cover Image](http://breaking911.com/wp-content/uploads/2016/06/Breaking-News.jpeg)
 
 ### Related:
 

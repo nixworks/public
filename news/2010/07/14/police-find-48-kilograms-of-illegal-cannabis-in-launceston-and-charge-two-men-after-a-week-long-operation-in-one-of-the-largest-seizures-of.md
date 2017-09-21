@@ -8,6 +8,7 @@ Police have found 48kg of cannabis in Launceston and charged two men in one of t
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/tasmanian-police-seize-48kg-of-cannabis-20100714-10aec.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

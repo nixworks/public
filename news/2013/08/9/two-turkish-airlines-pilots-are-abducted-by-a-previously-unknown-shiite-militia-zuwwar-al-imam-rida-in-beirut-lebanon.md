@@ -8,6 +8,7 @@ Turkey advises its nationals to leave Lebanon after two Turkish pilots were seiz
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-23629301)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69199000/jpg/_69199096_69199095.jpg)
 
 ### Related:
 

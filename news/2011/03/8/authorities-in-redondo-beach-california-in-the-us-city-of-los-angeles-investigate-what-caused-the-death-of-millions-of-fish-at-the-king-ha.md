@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/03/redondo-beach-authorities-report-large-fish-kill-at-king-harbor.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef014e5fb9befe970c-120pi)
 
 ### Related:
 

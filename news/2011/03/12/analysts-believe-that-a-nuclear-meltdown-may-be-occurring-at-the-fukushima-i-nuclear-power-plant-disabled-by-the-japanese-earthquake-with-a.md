@@ -21,6 +21,7 @@ A March 12 explosion at the earthquake-damaged Fukushima Daiichi nuclear power p
 12. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2011/03/13/2003498052)
 13. [The Jakarta Globe](http://www.thejakartaglobe.com/afp/japan-quake-live-report/428579)
 14. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/11/AR2011031103673.html?wpisrc=nl_natlalert)
+14. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

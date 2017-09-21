@@ -8,6 +8,7 @@ Two men have been convicted of murdering British honeymoon couple Ben and Cather
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/antiguaandbarbuda/8667067/Antigua-honeymoon-murders-two-men-found-guilty.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01910/Catherine-Mullany_1910668a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Spanish Prime Minister Rajoy sent a text during eurozone bailout negotiations wh
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/magazine-18408448)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60860000/jpg/_60860295_comp_464.jpg)
 
 ### Related:
 

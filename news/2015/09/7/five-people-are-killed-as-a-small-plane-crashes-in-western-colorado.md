@@ -8,6 +8,7 @@ A federal aviation investigator is expected to examine the scene of a plane cras
 ### Source:
 
 1. [USA Today](http://www.coloradoan.com/story/news/local/colorado/2015/09/07/plane-wreck-colorado-mountains/71840768/?hootPostID=641b61fcfc0935b2118fdeb5ddc9466d)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/coloradoan.png)
 
 ### Related:
 

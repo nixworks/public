@@ -11,6 +11,7 @@ The Taliban has issued a warning to Afghans whose names might appear on the leak
 2. [Fox News](http://www.foxnews.com/us/2010/07/30/alleged-rogue-gi-sent-wikileaks-probe/)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/30/us-troops-deaths-afghanistan-marjah)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/7917955/Wikileaks-Afghanistan-Taliban-hunting-down-informants.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01618/Robert-Gates_1618690a.jpg)
 
 ### Related:
 

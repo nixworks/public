@@ -8,6 +8,7 @@ Arshed Masih, a 38 year-old Pakistani Christian, died yesterday evening at 7.45 
 ### Source:
 
 1. [Asia News](http://www.asianews.it/news-en/Punjab:-Christian-burned-alive-dies,-Christian-community-calls-for-justice-17960.html)
+1. [Cover Image](http://www.asianews.it/files/img/Pakistan-_uomo_bruciato3_(600_x_450).jpg)
 
 ### Related:
 

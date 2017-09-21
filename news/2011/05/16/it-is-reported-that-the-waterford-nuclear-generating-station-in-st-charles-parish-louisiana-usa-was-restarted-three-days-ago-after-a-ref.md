@@ -10,6 +10,7 @@ Deputies warned people Sunday to get out as water gushing from a floodgate for t
 1. [Bloomberg](http://www.bloomberg.com/news/2011-05-16/louisiana-flood-forces-choices-on-river-family-threatens-ruin.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/43037321/ns/weather/)
 3. [Reuters](http://www.reuters.com/article/2011/05/17/us-usa-flooding-transport-idUSTRE74G01L20110517)
+3. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110515-floods-hmed-12p.standard.jpg)
 
 ### Related:
 

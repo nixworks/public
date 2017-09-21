@@ -8,6 +8,7 @@ Analysts said the release of 11 prominent prisoners was a significant step in Pr
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/09/19/world/middleeast/iran-frees-political-prisoners-on-eve-of-presidents-visit-to-us.html?partner=rss&emc=rss&smid=tw-nytimes&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/09/19/world/19iranweb1/19iranweb1-videoSixteenByNine600.jpg)
 
 ### Related:
 

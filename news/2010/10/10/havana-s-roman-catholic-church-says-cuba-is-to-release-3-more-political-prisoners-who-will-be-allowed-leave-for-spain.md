@@ -8,6 +8,7 @@ Cuba is to release three more political prisoners, the Catholic Church in Havana
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11509383)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

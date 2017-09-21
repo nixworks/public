@@ -8,6 +8,7 @@ An emergency situation has been declared at Letterkenny General Hospital followi
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2013/0726/464876-flash-flooding-causes-disruption-to-dublin-traffic/)
+1. [Cover Image](https://img.rasset.ie/0007aa15-1600.jpg)
 
 ### Related:
 

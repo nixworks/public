@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-15299220)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56024000/jpg/_56024857_stromatolite1.jpg)
 
 ### Related:
 

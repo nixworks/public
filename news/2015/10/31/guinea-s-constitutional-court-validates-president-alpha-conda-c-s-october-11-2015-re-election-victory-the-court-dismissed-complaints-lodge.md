@@ -9,6 +9,7 @@
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/news/world/guinea-s-constitutional-c/2230956.html)
 2. [Reuters](http://www.reuters.com/article/2015/10/31/us-guinea-election-idUSKCN0SP17220151031)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The News Corporation board says it has &quot;full confidence&quot; in Rupert Mur
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17932195)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60001000/jpg/_60001027_014646770-1.jpg)
 
 ### Related:
 

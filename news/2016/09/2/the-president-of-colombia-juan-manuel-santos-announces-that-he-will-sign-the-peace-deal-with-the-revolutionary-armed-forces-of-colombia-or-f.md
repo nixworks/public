@@ -8,6 +8,7 @@ BOGOTA, Colombia (AP) — President Juan Manuel Santos announced on Friday that 
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/57c8920711be48d1a06069125710b1e8/santos-colombian-sides-sign-peace-deal-late-september)
+1. [Cover Image](http://binaryapi.ap.org/41ecec2f540946beb435fdaa923f9732/460x.jpg)
 
 ### Related:
 

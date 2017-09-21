@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2012/08/22/us-syria-crisis-idUSBRE8610SH20120822)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/22/c_131800638.htm)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120822&t=2&i=644971814&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE87L176700)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Suspected rebels hacked to death at least nine people in northeastern Democratic
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-congo-violence-idUSKCN0ZL1IN)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

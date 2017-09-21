@@ -12,6 +12,7 @@
 3. [Telegraph Nepal](http://www.telegraphnepal.com/headline/2012-05-29/mohan-baidya-explodes-says-nepal-pm-has-no-right-to-remain-in-govt)
 4. [Times of India](http://articles.timesofindia.indiatimes.com/2012-06-18/delhi/32298403_1_nepal-s-maoists-nepal-maoists-maoist-cadres)
 5. [Xinhua](http://news.xinhuanet.com/english/world/2012-06/19/c_131663675.htm)
+5. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

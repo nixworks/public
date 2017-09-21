@@ -15,6 +15,7 @@ Dozens die as a new earthquake of magnitude 7.3 strikes Nepal, two weeks after a
 6. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3077946/Four-dead-Nepals-Chautara-quake-destroys-buildings.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
 7. [Reuters](http://in.reuters.com/article/2015/05/12/earthquake-nepal-idINKBN0NX0JZ20150512)
 8. [The Guardian](http://www.theguardian.com/world/live/2015/may/12/nepal-earthquake-74-tremor-hits-near-mount-everest-live-updates)
+8. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82938000/jpg/_82938066_82938065.jpg)
 
 ### Related:
 

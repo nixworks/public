@@ -10,6 +10,7 @@ China is bringing 150 senior officials, including nearly its whole Cabinet, to t
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hCTFBYLn08loK2JZ6crqjjSh7jDA)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSTRE56Q1QQ20090727)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-07/27/content_11782042.htm)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090727&t=2&i=11010204&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-07-27T130543Z_01_BTRE56Q10DM00_RTROPTP_0_USA-CHINA)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands witness Adama Barrow becoming the third Gambian president in history.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39011393)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5EEE/production/_94720342_8060659f-7401-4527-b98b-f0e8ad7f8267.jpg)
 
 ### Related:
 

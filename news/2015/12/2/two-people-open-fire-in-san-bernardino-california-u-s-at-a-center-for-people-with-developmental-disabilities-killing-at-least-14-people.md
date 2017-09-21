@@ -15,6 +15,7 @@ Gunmen opened fire on a holiday party on Wednesday at a social services agency i
 6. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-up-to-20-shot-in-san-bernardino-active-shooter-sought-20151202-story.html)
 7. [The New York Times](http://www.nytimes.com/live/san-bernardino-shooting/)
 8. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2015/12/02/police-in-san-bernadino-calif-responding-report-of-shooting/)
+8. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151202&t=2&i=1099373266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB116U)
 
 ### Related:
 

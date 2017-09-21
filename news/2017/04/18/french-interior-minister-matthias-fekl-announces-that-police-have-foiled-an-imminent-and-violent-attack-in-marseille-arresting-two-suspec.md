@@ -8,6 +8,7 @@ Two ‘radicalised’ French nationals held and guns also retrieved in Marseille
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/apr/18/french-police-arrest-two-over-attack-plot-days-before-presidential-vote-marseille)
+1. [Cover Image](https://i.guim.co.uk/img/media/e1e5d37ebd18cbdb78af7f66790a8564a2a5b3de/0_221_5184_3110/master/5184.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=903313879fccbecbde0300dacdb5248e)
 
 ### Related:
 

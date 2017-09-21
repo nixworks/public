@@ -9,6 +9,7 @@ The State of the Nation address in parliament descended into chaos and violence 
 
 1. [SABC](http://www.sabc.co.za/news/a/f51eda804748888f98439dda2831d264/Zuma-delivers-SONA-2015-20151202)
 2. [Times Live](http://www.timeslive.co.za/thetimes/2015/02/13/state-of-chaos)
+2. [Cover Image](http://www.timeslive.co.za/Feeds/2015/02/12/1181948_981665.jpg/ALTERNATES/crop_630x432/1181948_981665.jpg)
 
 ### Related:
 

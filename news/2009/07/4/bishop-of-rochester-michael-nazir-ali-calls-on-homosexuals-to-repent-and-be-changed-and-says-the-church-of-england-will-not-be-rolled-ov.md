@@ -8,6 +8,7 @@ A senior Church of England bishop has called on homosexuals to repent and &#034;
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/5744559/Change-and-repent-bishop-tells-gays.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01436/gay-pride_1436882f.jpg)
 
 ### Related:
 

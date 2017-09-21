@@ -8,6 +8,7 @@ A famed Sherpa guide was last night feared dead after being struck by an avalanc
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/asia/sherpa-who-scaled-everest-19-times-feared-dead-on-climb-2115653.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/10/24/23/480915.bin)
 
 ### Related:
 

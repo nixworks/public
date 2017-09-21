@@ -8,6 +8,7 @@ Sony swung to a fiscal second-quarter profit from a year-earlier loss on solid s
 ### Source:
 
 1. [WSJ](http://www.wsj.com/articles/sony-bullish-on-playstation-as-it-swings-to-profit-1446100105)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KZ634_1029SO_TOP_20151028232751.jpg)
 
 ### Related:
 

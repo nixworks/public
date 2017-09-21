@@ -12,6 +12,7 @@
 3. [Sky News](http://news.sky.com/skynews/Home/Strange-News/Stephen-Hawking-Alien-Warning-Dont-Talk-To-Space-Life-Professor-Says-In-Discovery-Documentary/Article/201004415619548?lpos=Strange_News_News_Your_Way_Region_9&lid=NewsYourWay_ARTICLE_15619548_Stephen_Hawking_)
 4. [The Hindu](http://www.thehindu.com/2010/04/26/stories/2010042661472000.htm)
 5. [The Sunday Times](http://www.timesonline.co.uk/tol/news/science/space/article7107207.ece)
+5. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

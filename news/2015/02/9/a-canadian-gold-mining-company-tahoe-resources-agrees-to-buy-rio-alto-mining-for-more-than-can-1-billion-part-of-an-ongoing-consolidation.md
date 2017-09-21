@@ -8,6 +8,7 @@ Canadian gold miner Tahoe Resources Inc (THO.TO) (TAHO.N) said on Monday it has 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/09/us-rio-alto-ming-m-a-tahoe-resources-idUSKBN0LD1EB20150209)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

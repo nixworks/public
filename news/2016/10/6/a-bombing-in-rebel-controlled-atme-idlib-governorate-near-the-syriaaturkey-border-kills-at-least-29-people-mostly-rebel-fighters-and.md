@@ -9,6 +9,7 @@ The chief of a top civil judicial body died in the attack at the Atmeh crossing,
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37572169)
 2. [Scroll.in](http://scroll.in/latest/818400/explosion-near-syria-turkey-border-kills-29-rebels-islamic-state-group-claims-responsibility)
+2. [Cover Image](https://d1u4oo4rb13yy8.cloudfront.net/facebook/42940-rprkwlnwvx-1475752548.png)
 
 ### Related:
 

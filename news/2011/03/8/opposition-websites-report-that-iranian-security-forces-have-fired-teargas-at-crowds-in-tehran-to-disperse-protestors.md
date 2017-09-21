@@ -8,6 +8,7 @@ Iranian security forces fired teargas to disperse anti-government protesters in 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/08/us-iran-opposition-teargas-idUSTRE7274RB20110308?WT.tsrc=Social%20Media&WT.z_smid=twtr-reuters_%20com&WT.z_smid_dest=Twitter)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

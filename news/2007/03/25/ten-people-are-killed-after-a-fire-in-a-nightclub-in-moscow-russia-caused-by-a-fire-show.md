@@ -8,6 +8,7 @@ Ten people died and four others were injured in a Moscow nightclub fire early Su
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2007/03/25/moscow-fire.html)
+1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

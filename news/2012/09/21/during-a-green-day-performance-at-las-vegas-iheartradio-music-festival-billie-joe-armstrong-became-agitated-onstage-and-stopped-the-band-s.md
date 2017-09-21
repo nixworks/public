@@ -8,3 +8,4 @@
 ### Related:
 
 1. [New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.md) _Context: Green Day_
+2. [ Green Day's quadruple platinum "Punk Rock Opera" American Idiot is released.](/news/2004/09/21/green-day-s-quadruple-platinum-punk-rock-opera-american-idiot-is-released.md) _Context: Green Day_

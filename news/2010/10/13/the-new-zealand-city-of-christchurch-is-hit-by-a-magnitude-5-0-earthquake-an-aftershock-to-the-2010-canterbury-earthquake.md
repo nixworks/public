@@ -8,6 +8,7 @@ Christchurch has been rocked by a strong aftershock a month after a 7.1-magnitud
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/13/3037406.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2250334-1x1-700x700.jpg)
 
 ### Related:
 

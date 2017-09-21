@@ -8,6 +8,7 @@ A U.S. military helicopter made an emergency landing in South Korea Thursday, bu
 ### Source:
 
 1. [Associated Press](http://www.foxnews.com/story/0,2933,202295,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 23 people were killed when storms lashed New Delhi and two Indian state
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/05/31/least-nine-killed-india-storm)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/India_storm_140531_aap.jpg)
 
 ### Related:
 

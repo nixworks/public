@@ -8,6 +8,7 @@ One person has been killed and several others injured in storms across Victoria.
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/04/02/2206343.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2389768-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ U.S. stocks rise sharply after data that show jobless claims falling to a five-y
 ### Source:
 
 1. [Marketwatch](http://www.marketwatch.com/story/us-stocks-rally-sp-500-clears-1700-2013-08-01?dist=lcountdown)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

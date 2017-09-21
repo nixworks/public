@@ -14,6 +14,7 @@ American payment service provider cuts relationship, as whistle-blower struggles
 5. [The Age](http://www.theage.com.au/world/berlusconiputin-ties-set-off-us-alarm-bells-20101203-18jqy.html)
 6. [The New York Times](http://www.nytimes.com/2010/12/05/world/asia/05wikileaks-china.html?_r=1&emc=na)
 7. [Wikileaks Facebook's fan page](http://www.facebook.com/wikileaks?v=wall)
+7. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/4/2010124162330364965_20.jpg)
 
 ### Related:
 

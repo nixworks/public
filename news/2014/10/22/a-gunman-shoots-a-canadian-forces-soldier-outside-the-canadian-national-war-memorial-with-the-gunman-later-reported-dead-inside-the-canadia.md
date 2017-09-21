@@ -12,6 +12,7 @@ Martin Couture Rouleau shot dead by Quebec police after driving his car into two
 3. [CBC](http://www.cbc.ca/news/politics/parliament-hill-attacked-soldier-shot-at-national-war-memorial-in-ottawa-1.2808710)
 4. [CNN](http://edition.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html)
 5. [Guardian](http://www.theguardian.com/world/2014/oct/21/canada-soldier-convert-islam-hit-and-run-quebec)
+5. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/21/1413918564161/Quebec-officer-investigat-014.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a75a847f4bc45c80f7422ef6c2b73072)
 
 ### Related:
 

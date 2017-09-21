@@ -8,6 +8,7 @@ The DOJ told a federal court Thursday that there&#x27;s no point in further cour
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/justice-department-opposes-new-hearing-trump-travel-restrictions-n722011?google_editors_picks=true)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_06/1893186/170206-travel-ban-trump-rhk1717p_74c521824937da2faa59f11cc7c8bf09.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

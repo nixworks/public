@@ -11,6 +11,7 @@ US doctors say they seem to have cured a baby born with HIV - the virus that cau
 2. [CBS](http://www.cbsnews.com/8301-204_162-57572271/baby-born-with-aids-virus-appears-to-have-been-cured/)
 3. [CNN](http://edition.cnn.com/2013/03/03/health/hiv-toddler-cured)
 4. [The Guardian](http://www.guardian.co.uk/society/2013/mar/03/us-doctors-cure-child-born-hiv)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58438000/gif/_58438016_m0501034-hiv_particles,_com.gif)
 
 ### Related:
 

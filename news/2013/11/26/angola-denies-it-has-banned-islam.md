@@ -8,6 +8,7 @@ An official at the Angolan Embassy said Angola is a country that does not interf
 ### Source:
 
 1. [The Express Tribune](http://tribune.com.pk/story/637133/just-media-rumours-angola-denies-it-banned-islam/)
+1. [Cover Image](https://c.tribune.com.pk/2013/11/637133-quran-1385452167-497-640x480.jpg)
 
 ### Related:
 

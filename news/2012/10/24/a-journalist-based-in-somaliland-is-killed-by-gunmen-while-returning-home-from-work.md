@@ -8,6 +8,7 @@ A reporter in the breakaway republic of Somaliland is killed by gunmen - the 16t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20066670)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63688000/jpg/_63688074_ax.jpg)
 
 ### Related:
 

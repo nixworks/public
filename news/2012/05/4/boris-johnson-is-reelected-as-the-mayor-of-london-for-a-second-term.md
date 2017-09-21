@@ -8,6 +8,7 @@ The results confirmed late Friday install him as the host of the upcoming 2012 O
 ### Source:
 
 1. [Politico](http://www.politico.com/news/stories/0512/75941.html)
+1. [Cover Image](http://s3-origin-images.politico.com/2012/05/120503_boris_johnson_ap_605.jpg)
 
 ### Related:
 

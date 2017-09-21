@@ -8,6 +8,7 @@ The worst of tropical cyclone Carlos has passed Karratha yesterday afternoon, as
 ### Source:
 
 1. [WAToday](http://www.watoday.com.au/environment/weather/minitornado-lashes-karratha-as-cyclone-carlos-menaces-wa-20110220-1b0qg.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/b/3/w/x/image.related.articleLeadwide.620x349.1b0qg.png/1298414838653.jpg)
 
 ### Related:
 

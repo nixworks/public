@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-qaeda-idUSKCN0XK07R)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160423&t=2&i=1134207959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3M0E5)
 
 ### Related:
 

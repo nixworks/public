@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NASCAR.com](http://www.nascar.com/2009/news/headlines/cup/02/15/post-race.mkenseth.wins.daytona.500/index.html)
+1. [Cover Image](http://www.nascar.com/)
 
 ### Related:
 

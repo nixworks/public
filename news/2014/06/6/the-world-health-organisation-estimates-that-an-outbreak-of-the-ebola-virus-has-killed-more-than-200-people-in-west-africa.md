@@ -8,6 +8,7 @@ The deadly ebola virus is now thought to have killed more than 200 people in Wes
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-06-06/west-africa-ebola-outbreak-kills-at-least-200/5505046)
+1. [Cover Image](http://www.abc.net.au/news/image/5339414-1x1-700x700.jpg)
 
 ### Related:
 

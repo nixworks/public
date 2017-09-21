@@ -8,6 +8,7 @@ DUBAI, United Arab Emirates (AP) — A Dutch woman held in Qatar for nearly thre
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/c9578c3beed745988b95fb277cf2c750/diplomat-qatar-frees-dutch-woman-held-after-rape-report)
+1. [Cover Image](http://binaryapi.ap.org/8a40fe7c35c9416d9cb2aaf400b5fe90/460x.jpg)
 
 ### Related:
 

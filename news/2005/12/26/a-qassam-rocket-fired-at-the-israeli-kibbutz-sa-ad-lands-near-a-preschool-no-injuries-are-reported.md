@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3190485,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

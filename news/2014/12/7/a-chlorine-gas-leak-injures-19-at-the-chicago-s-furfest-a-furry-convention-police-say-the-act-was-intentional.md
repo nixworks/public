@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC News](http://www.nbcchicago.com/news/local/Intentional-Chemical-Leak-at-Hyatt-Regency-285008481.html)
+1. [Cover Image](http://media.nbcchicago.com/images/1200*675/midwest+furfest.jpg)
 
 ### Related:
 

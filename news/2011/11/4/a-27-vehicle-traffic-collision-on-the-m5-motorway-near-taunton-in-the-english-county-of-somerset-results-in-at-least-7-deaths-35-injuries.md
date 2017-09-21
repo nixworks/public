@@ -8,6 +8,7 @@ More than 10 people are feared to have died and 43 are injured after 27 vehicles
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-15603124)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56495000/jpg/_56495051_56495050.jpg)
 
 ### Related:
 

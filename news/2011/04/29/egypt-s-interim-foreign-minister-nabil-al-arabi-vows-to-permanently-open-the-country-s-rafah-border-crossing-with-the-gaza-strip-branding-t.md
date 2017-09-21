@@ -9,6 +9,7 @@ Egypt says it will open its Rafah border crossing with the Gaza Strip on a perma
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011429155947718117.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13240113)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

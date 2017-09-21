@@ -8,6 +8,7 @@ Threat level is reduced but Operation Temperer, which allows military to be depl
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/uk-news/live/2017/may/26/manchester-attack-arrest-police-search-accomplices-live)
+1. [Cover Image](https://i.guim.co.uk/img/media/373c47a8c2d5f2950df4b5eace579f16551348da/0_77_4812_2887/master/4812.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2792b9b9b49bb5adcac933b4bd3c8cbc)
 
 ### Related:
 

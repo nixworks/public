@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/27/us-romania-politics-referendum-idUSBRE86Q18A20120727)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120727&t=2&i=635121726&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86Q1G1A00)
 
 ### Related:
 

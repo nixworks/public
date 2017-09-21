@@ -8,6 +8,7 @@ A bomb attack on a bus in the southern Philippines kills nine people and injures
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11593838)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

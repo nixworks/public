@@ -8,6 +8,7 @@ At least 15 people die after a train hits a vehicle carrying passengers at a lev
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-17441349)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59184000/jpg/_59184323_59184322.jpg)
 
 ### Related:
 

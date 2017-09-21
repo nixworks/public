@@ -8,6 +8,7 @@ Nuclear power plant has reached critical mass, will be powered up within weeks, 
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=221118)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=160983)
 
 ### Related:
 

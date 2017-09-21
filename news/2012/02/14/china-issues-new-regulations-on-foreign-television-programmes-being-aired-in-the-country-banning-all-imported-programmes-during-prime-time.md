@@ -8,6 +8,7 @@ A new set of regulations seek to restrict comedies, dramas and movies from abroa
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/02/15/world/asia/aiming-at-asian-competitors-china-limits-foreign-television.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

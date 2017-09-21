@@ -15,6 +15,7 @@
 6. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011223125256699145.html)
 7. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71M00N20110223?sp=true)
 8. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-The-UK-And-Other-Nations-Are-Evacuating-Foreigners-Trapped-Amid-Ongoing-Civil-Unrest/Article/201102415939265?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15939265_Libya:_The_UK_And_Other_Nations_Are_Evacuating_Foreigners_Trapped_Amid_Ongoing_Civil_Unrest)
+8. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/23/2011223152943958436_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Suspected Islamist militants armed with axes or knives hacked a prominent gay ac
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/people-hacked-death-bangladesh-capital-160425141155758.html)
 2. [NBC News with Reuters](http://www.nbcnews.com/news/world/bangladesh-charity-worker-friend-hacked-death-latest-attack-n561741)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_17/1511686/160425-bangladesh-murder-mdl_215a992fb37360aadb65c0b807a34520.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

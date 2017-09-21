@@ -10,6 +10,7 @@ Guillermo Farinas, the Cuban dissident who held a 135-day hunger strike earlier 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11594804)
 2. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE69K2VP20101021)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/cuba/8077903/Cuban-dissident-Guillermo-Farinas-wins-Sakharov-human-rights-prize.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01744/Farinas_1744003a.jpg)
 
 ### Related:
 

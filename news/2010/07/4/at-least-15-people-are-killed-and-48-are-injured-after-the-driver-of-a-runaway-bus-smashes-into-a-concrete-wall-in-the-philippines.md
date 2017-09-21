@@ -11,6 +11,7 @@ FIFTEEN people have been killed and 48 others injured after the brakes of an ove
 2. [People's Daily](http://english.people.com.cn/90001/90777/90851/7051595.html)
 3. [The Times of India](http://timesofindia.indiatimes.com/World/Rest-of-World/15-dead-in-Philippine-bus-crash/articleshow/6126711.cms)
 4. [news.com.au](http://www.news.com.au/world/fifteen-dead-in-philippines-bus-crash/story-e6frfl00-1225887685271)
+4. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

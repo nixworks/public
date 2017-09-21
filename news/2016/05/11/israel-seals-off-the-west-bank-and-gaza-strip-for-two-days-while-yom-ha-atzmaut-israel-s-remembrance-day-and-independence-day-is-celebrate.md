@@ -8,6 +8,7 @@ From Tuesday midnight to Thursday midnight, entry into Israel will be permitted 
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/.premium-1.719030)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.677084.1442871777!/image/4246910318.jpg_gen/derivatives/headline_1200x630/4246910318.jpg)
 
 ### Related:
 

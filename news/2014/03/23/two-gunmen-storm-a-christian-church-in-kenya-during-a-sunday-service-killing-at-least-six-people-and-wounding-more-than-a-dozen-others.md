@@ -9,6 +9,7 @@ Two gunmen stormed a church near the Kenyan coastal city of Mombasa on Sunday an
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-03-24/six-shot-dead-while-worshipping-at-kenyan-church/5339934)
 2. [Reuters](http://uk.reuters.com/article/2014/03/23/uk-kenya-attacks-idUKBREA2M03I20140323)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140323&t=2&i=868943373&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2M12IG00)
 
 ### Related:
 

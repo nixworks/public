@@ -10,6 +10,7 @@ Supporters of Palestinian leader Mahmoud Abbas hold the biggest rally of its kin
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/201314101730389728.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20908038)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jan/04/rally-gaza-fatah-palestine-abbas)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65071000/jpg/_65071780_65071779.jpg)
 
 ### Related:
 

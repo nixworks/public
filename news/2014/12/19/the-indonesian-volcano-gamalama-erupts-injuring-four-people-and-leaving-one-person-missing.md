@@ -8,6 +8,7 @@ A volcano in eastern Indonesia erupted today, spewing towering clouds of hot ash
 ### Source:
 
 1. [AP via ''Business Standard](http://www.business-standard.com/article/pti-stories/indonesia-volcano-erupts-injuring-4-1-missing-114121900726_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

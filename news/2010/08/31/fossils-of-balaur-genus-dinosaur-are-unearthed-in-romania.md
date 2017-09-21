@@ -8,6 +8,7 @@ Fossils of a new type of dinosaur, which looks like a beefy version of the preda
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11137905)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48925000/jpg/_48925730_010074667-1.jpg)
 
 ### Related:
 

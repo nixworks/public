@@ -8,6 +8,7 @@ The cash was kept in a Lagos flat for covert operations, intelligence officials 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39646256)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/181D4/production/_95627789_efcc.png)
 
 ### Related:
 

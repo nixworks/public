@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC](http://abcnews.go.com/Politics/major-virginia-newspaper-endorses-gary-johnson-president/story?id=41861544)
+1. [Cover Image](http://a.abcnews.com/images/Politics/ap_gary_johnson_01_mt_160904_16x9_992.jpg)
 
 ### Related:
 

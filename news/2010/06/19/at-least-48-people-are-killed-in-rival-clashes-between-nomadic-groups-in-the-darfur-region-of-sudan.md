@@ -9,6 +9,7 @@
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g2xjFj35gziekOd_lx9g2Ibn3Fgg)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10359112.stm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

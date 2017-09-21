@@ -8,6 +8,7 @@ The airline is also expected to cancel 900 more flights on Thursday to make sure
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/04/09/business/09cnd-air.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/04/09/business/09american2-75.jpg)
 
 ### Related:
 

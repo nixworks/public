@@ -9,6 +9,7 @@ Protesters chant anti-Putin and anti-Kadyrov slogans at Moscow procession said t
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/russia-nemtsov-march-moscow-puskinskaya-2017/28332891.html)
 2. [The Guardian](https://www.theguardian.com/world/2017/feb/26/boris-nemtsov-putin-russians-march-two-years-since-killing)
+2. [Cover Image](https://i.guim.co.uk/img/media/cae6392328aca8c14d67d5336f43a945920c3531/0_171_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5605aeda00f76ff52a87d277a3a10a9f)
 
 ### Related:
 

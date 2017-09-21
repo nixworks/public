@@ -8,6 +8,7 @@ The decision is made after the national broadcaster failed to meet a deadline to
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1683433/romania-expelled-from-eurovision-song-contest)
+1. [Cover Image](http://e3.365dm.com/16/04/1600x900/capture-1-2048x1536_3453357.jpg?20160422121631)
 
 ### Related:
 

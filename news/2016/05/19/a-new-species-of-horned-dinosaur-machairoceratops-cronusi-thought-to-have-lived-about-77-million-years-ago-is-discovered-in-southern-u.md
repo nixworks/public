@@ -10,6 +10,7 @@ Scientists have added another dinosaur species to the prehistoric catalog, and t
 1. [FOX News](http://www.foxnews.com/science/2016/05/18/new-dinosaur-species-discovered-in-american-southwest.html)
 2. [Huffington Post](http://www.huffingtonpost.com/entry/new-horned-dinosaur-utah_us_573ca9cce4b0646cbeebc520)
 3. [PLOS One](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154403)
+3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/science/2016/05/18/new-dinosaur-species-discovered-in-american-southwest/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1463588622057.jpg?ve=1)
 
 ### Related:
 

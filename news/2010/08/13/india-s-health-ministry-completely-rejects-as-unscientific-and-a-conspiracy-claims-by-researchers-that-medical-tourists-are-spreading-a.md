@@ -8,6 +8,7 @@ Official say Lancet report linking country to antibiotic-resistant bug is irrati
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081364937831782.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

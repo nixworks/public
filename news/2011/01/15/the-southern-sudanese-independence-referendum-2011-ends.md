@@ -8,6 +8,7 @@ Huge turnout in south Sudan referendum expected to back secession from the north
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111513594958973.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/15/2011115141114856580_20.jpg)
 
 ### Related:
 

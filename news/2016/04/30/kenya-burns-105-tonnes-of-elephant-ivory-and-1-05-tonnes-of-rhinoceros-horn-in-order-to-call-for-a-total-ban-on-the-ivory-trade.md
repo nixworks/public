@@ -8,6 +8,7 @@ Eleven giant pyres of tusks went up in smoke Saturday as Kenya torched its vast 
 ### Source:
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/kenya-torch-huge-elephant-tusk-stockpile-024749903.html?ref=gs)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/N3w1e3yz7SU1Kv3c71uvWw--/aD03MjQ7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/31239c770446c4458326547448ece3ff8b4e713c.jpg)
 
 ### Related:
 

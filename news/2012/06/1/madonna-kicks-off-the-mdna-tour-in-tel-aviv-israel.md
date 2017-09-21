@@ -8,6 +8,7 @@ Madonna kicks off her MDNA world tour in Tel Aviv, Israel, wishing peace in the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18292955)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60636000/jpg/_60636253_60635592.jpg)
 
 ### Related:
 

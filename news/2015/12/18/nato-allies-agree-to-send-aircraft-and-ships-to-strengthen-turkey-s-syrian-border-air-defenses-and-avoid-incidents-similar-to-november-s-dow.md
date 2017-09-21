@@ -10,6 +10,7 @@ Resolution signals rare show of unity from 15-nation council, although future of
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-turkey-nato-exclusive-idUSKBN0U123520151218)
 2. [The Guardian](http://www.theguardian.com/world/2015/dec/18/un-security-council-agree-resolution-on-syrian-peace-process)
 3. [The Washington Post](https://www.washingtonpost.com/world/national-security/global-leaders-struggle-to-agree-on-a-way-to-end-the-crisis-in-syria/2015/12/18/8c194686-a5ab-11e5-9c4e-be37f66848bb_story.html)
+3. [Cover Image](https://i.guim.co.uk/img/media/d28cd748c30f5196271c0963c280294aab77745c/180_45_3240_1944/master/3240.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2936268ad05d2ad9814461463d1b1583)
 
 ### Related:
 

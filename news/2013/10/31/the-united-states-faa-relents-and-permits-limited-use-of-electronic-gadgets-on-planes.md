@@ -8,6 +8,7 @@
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/tech/2013/10/31/faa-oks-air-passengers-using-gadgets-on-planes/?intcmp=latestnews)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/103113/0/0/103113_mckelway_faa_640.jpg?ve=1)
 
 ### Related:
 

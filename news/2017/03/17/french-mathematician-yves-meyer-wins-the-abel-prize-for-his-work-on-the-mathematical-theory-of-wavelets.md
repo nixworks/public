@@ -8,6 +8,7 @@ Frenchman wins prestigious prize for theory that links maths, information techno
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/science/alexs-adventures-in-numberland/2017/mar/21/abel-prize-2017-yves-meyer-wins-maths-nobel-for-work-on-wavelets)
+1. [Cover Image](https://i.guim.co.uk/img/media/34fc06418972a310ee20785fd6380fd8de5e2296/0_179_1181_708/master/1181.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4d5721429c8276f04e6a789b35b57122)
 
 ### Related:
 

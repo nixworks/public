@@ -9,6 +9,7 @@ At least 18 people were killed in a gunfight between two feuding tribes in south
 
 1. [Al-Ahram](http://english.ahram.org.eg/NewsContent/1/64/98313/Egypt/Politics-/Tribal-feud-claims--lives-in-Egypt%E2%80%99s-Aswan.aspx)
 2. [The Hindu](http://www.thehindu.com/news/international/world/18-killed-in-gunfight-between-feuding-egyptian-tribes/article5876119.ece)
+2. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

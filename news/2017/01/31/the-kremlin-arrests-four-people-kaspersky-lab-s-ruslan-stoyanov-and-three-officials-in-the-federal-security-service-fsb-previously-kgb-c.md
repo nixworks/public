@@ -11,6 +11,7 @@ Russian media reported the arrests this week of three individuals suspected of t
 2. [AP](http://bigstory.ap.org/article/5355936ae6824ef4aaa045b9475065c3/reported-treason-arrests-fuel-russian-hacking-intrigue)
 3. [New York Daily News](http://www.nydailynews.com/news/national/russian-spy-officials-accused-treason-working-cia-article-1.2960651)
 4. [The New York Times'' Jan 25](https://www.nytimes.com/aponline/2017/01/25/world/europe/ap-eu-russia-cybersecurity.html)
+4. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2017/01/27/Russia_Putin_24881.jpg-ad5fb.jpg)
 
 ### Related:
 

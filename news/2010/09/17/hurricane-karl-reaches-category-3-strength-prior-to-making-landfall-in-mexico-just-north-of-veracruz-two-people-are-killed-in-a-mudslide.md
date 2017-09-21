@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i0zA9Lei8J7ztWFw8Js7cqkyDK3A)
 2. [Reuters](http://in.reuters.com/article/idINN1720561120100917)
 3. [Reuters](http://www.reuters.com/article/idUSTRE68E1T820100918)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

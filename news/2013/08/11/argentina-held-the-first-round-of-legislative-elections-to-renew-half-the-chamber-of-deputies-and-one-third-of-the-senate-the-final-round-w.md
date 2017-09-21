@@ -9,6 +9,7 @@ Kirchnerism loses key electoral district in primaries
 
 1. [Buenos Aires Herald](http://www.buenosairesherald.com/article/138283/massa-wins-ba-province)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424127887323585604579007060462632046.html)
+2. [Cover Image](/files/imagenes//201308/138283_12_012957.jpg)
 
 ### Related:
 

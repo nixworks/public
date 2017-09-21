@@ -11,6 +11,7 @@ Christine Lagarde, the head of the International Monetary Fund, has been found g
 2. [Fortune](http://fortune.com/2016/12/19/imf-chief-christine-lagarde-job/)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/2016/12/19/imf-chief-christine-lagarde-found-negligence/)
 4. [The New York Times](http://www.nytimes.com/2016/12/19/business/imf-trial-christine-lagarde-france-verdict.html?_r=0)
+4. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/161219112627-christine-lagarde-imf-trial-780x439.jpg)
 
 ### Related:
 

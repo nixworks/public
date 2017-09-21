@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/24/us-apple-samsung-idUSBRE86M19220120724)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120724&t=2&i=633753658&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86M1L7K00)
 
 ### Related:
 

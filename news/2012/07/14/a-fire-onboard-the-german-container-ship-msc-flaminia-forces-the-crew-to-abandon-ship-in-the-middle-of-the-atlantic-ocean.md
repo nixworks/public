@@ -8,6 +8,7 @@ One seafarer is confirmed dead and one is still missing as a result of a serious
 ### Source:
 
 1. [TradeWinds](http://www.tradewindsnews.com/casualties/280215/ship-fire-claims-two)
+1. [Cover Image](http://www.tradewindsnews.com/incoming/280214/mscflminiasun1000wjpg/ALTERNATES/LANDSCAPE_600/MSCFlminiaSun1000w.jpg)
 
 ### Related:
 

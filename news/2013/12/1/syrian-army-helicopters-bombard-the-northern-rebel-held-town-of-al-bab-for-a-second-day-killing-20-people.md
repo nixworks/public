@@ -8,6 +8,7 @@ Syrian army helicopters bombarded the northern rebel-held town of Al-Bab for a s
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/12/01/uk-syria-crisis-aleppo-idUKBRE9B00A920131201)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131201&t=2&i=816528376&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9B016CC00)
 
 ### Related:
 

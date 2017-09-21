@@ -8,6 +8,7 @@ The Oktoberfest beer festival in Munich is to become smoke-free after a referend
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/munich-beer-fest-votes-to-ban-smoking-20100705-zw3b.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

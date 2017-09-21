@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/will-decide-only-on-constitutional-validity-of-triple-talaq-not-polygamy-sc/articleshow/58622703.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/msid-58622775/58622775.jpg?165701)
 
 ### Related:
 

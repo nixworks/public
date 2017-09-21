@@ -8,6 +8,7 @@ PM: Soldiers actions justified; IDF says troops were patrolling border when Leba
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?ID=231879&R=R1)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=171399)
 
 ### Related:
 

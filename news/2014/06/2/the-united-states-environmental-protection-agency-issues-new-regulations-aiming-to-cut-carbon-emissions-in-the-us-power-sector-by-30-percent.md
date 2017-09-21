@@ -9,6 +9,7 @@ The US power sector must cut carbon dioxide emissions 30 per cent by 2030 from 2
 
 1. [US Environmental Protection Agency](http://www2.epa.gov/carbon-pollution-standards/clean-power-plan-proposed-rule)
 2. [Washington Post, Reuters via ''Sydney Morning Herald](http://www.smh.com.au/world/president-obama-seeks-to-make-30-per-cent-cut-in-us-carbon-dioxide-emissions-by-2030-20140603-zrvln.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/3/9/f/4/f/image.related.articleLeadwide.620x349.zrvln.png/1401735660800.jpg)
 
 ### Related:
 

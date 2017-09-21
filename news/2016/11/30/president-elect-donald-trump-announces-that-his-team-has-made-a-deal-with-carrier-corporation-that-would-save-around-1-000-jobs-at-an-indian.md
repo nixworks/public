@@ -11,6 +11,7 @@ The incoming Trump Administration and UTX have reached an agreement that will ke
 2. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/30/503253374/trump-taps-billionaire-investor-wilbur-ross-for-commerce-secretary)
 3. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/30/503791602/reports-trump-picks-steve-mnuchin-to-lead-treasury-department)
 4. [The New York Times](http://www.nytimes.com/2016/11/29/business/trump-to-announce-carrier-plant-will-keep-jobs-in-us.html?_r=0)
+4. [Cover Image](https://media.npr.org/assets/img/2016/11/29/ap_16334742508340_wide-2dee92f316a286c2aaa84d92d40f607b28c861ce.jpg?s=1400)
 
 ### Related:
 

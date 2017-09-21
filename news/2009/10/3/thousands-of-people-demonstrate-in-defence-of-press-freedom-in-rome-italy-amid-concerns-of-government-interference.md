@@ -9,6 +9,7 @@ Protesters thronged to a historic square in Rome to defend press freedom amid co
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8289166.stm)
 2. [The New York Times](http://www.nytimes.com/2009/10/04/world/europe/04italy.html)
+2. [Cover Image](https://static01.nyt.com/images/2009/10/03/world/demonstration.75.jpg)
 
 ### Related:
 

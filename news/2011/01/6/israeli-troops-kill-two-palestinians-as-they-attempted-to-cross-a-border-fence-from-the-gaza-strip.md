@@ -9,6 +9,7 @@ Israeli troops killed two Palestinians near the Gaza Strip border, Palestinian m
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE7051IV20110106)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4009853,00.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

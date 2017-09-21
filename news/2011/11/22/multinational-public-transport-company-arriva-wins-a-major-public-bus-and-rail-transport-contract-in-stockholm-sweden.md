@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Stockholm Transit &ndash; in Swedish](http://www.mynewsdesk.com/se/pressroom/sl/pressrelease/view/fler-ska-resa-kollektivt-genom-sl-s-nya-trafikupphandling-arriva-sverige-ab-vinnande-anbudsgivare-707678)
+1. [Cover Image](http://resources.mynewsdesk.com/image/upload/t_open_graph_image/oh5npeooluplp5eeb2ksq.jpg)
 
 ### Related:
 

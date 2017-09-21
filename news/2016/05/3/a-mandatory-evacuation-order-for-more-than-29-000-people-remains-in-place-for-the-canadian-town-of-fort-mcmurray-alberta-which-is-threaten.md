@@ -9,6 +9,7 @@ Crews had seemed to be making progress controlling the blaze, burning since the 
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/news/alberta/fort-mcmurray-alta-residents-ordered-out-as-wildfire-threatens-city/article29839263/)
 2. [Weather Underground](https://www.wunderground.com/news/fort-mcmurray-alberta-wildfire)
+2. [Cover Image](http://static.theglobeandmail.ca/982/news/national/article29848055.ece/ALTERNATES/w620/TOR325-CANADA-WILDFIRE+FORTA.JPG)
 
 ### Related:
 

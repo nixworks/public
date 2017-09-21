@@ -9,6 +9,7 @@
 
 1. [AP](http://www.winnipegfreepress.com/world/breakingnews/italys-interior-minister-praises-frances-controversial-gypsy-crackdown-101218844.html)
 2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201082115913698771.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

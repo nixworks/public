@@ -8,6 +8,7 @@ Researchers at North Carolina State University have discovered a new diamond-lik
 ### Source:
 
 1. [UPI](http://www.upi.com/Science_News/2015/11/30/Researchers-create-diamonds-at-room-temperature/7701448910244/?spt=rln&or=1)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/7701448910244/2015/1/14489132092457/v2.1/Researchers-create-diamonds-at-room-temperature.jpg)
 
 ### Related:
 

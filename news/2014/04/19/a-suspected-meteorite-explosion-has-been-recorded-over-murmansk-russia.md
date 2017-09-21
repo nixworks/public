@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Mirror UK](http://www.mirror.co.uk/news/world-news/video-huge-meteorite-explodes-ball-3432859)
+1. [Cover Image](http://i1.mirror.co.uk/incoming/article3432815.ece/ALTERNATES/s1200/Celestial-object-caught-on-Russian-dashcam-will-blow-you-away.png)
 
 ### Related:
 

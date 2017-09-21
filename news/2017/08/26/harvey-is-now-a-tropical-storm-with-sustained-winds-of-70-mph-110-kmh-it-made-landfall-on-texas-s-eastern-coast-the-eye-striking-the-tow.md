@@ -15,6 +15,7 @@ Fueled by warm water from the Gulf of Mexico, a Category 4 hurricane swept into 
 6. [The New York Times](https://www.nytimes.com/2017/08/25/us/hurricane-harvey-texas.html)
 7. [The New York Times](https://www.nytimes.com/2017/08/26/us/hurricane-harvey-texas.html)
 8. [Yahoo! com](https://www.yahoo.com/news/damaging-hurricane-harvey-settles-over-southeast-texas-082259260.html?soc_trk=gcm&soc_src=90ec6248-c094-11e5-afaa-fa163e2c24a6&.tsrc=notification-brknews)
+8. [Cover Image](https://static01.nyt.com/images/2017/08/27/us/27live-storm-ALT/27live-storm-ALT-facebookJumbo.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Air strikes that killed around 40 people in a crowded market in rebel territory 
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/us-mideast-crisis-syria-usa-idINKCN0XG2KQ)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ The euro and major European markets fall after ministers agree a 85bn euros bail
 2. [BBC](http://www.bbc.co.uk/news/business-11860879)
 3. [RTÉ](http://www.rte.ie/news/2010/1129/economy.html)
 4. [The Guardian](http://www.guardian.co.uk/business/2010/nov/29/irish-bailout-terms-threatened-revolt)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

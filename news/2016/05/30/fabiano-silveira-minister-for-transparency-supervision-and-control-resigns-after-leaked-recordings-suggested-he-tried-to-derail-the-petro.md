@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36414882)
 2. [Reuters](http://www.reuters.com/article/us-brazil-corruption-idUSKCN0YL1SB)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160530&t=2&i=1139307607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4T0UR)
 
 ### Related:
 

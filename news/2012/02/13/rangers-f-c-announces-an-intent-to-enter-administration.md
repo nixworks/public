@@ -8,6 +8,7 @@ Rangers Football Club lodges legal papers signalling its intention to go into ad
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-17015966)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58480000/jpg/_58480414_ibrox_landscape_bbc.jpg)
 
 ### Related:
 

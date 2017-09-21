@@ -8,6 +8,7 @@ Former US President Jimmy Carter strongly criticises US policy towards Cuba at t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12913267)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

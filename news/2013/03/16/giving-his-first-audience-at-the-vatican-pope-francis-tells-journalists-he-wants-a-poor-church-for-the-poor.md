@@ -8,6 +8,7 @@ Pope Francis says he wants a &quot;poor Church for the poor&quot; as he confirms
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21812545)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66429000/jpg/_66429876_66429875.jpg)
 
 ### Related:
 

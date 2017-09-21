@@ -9,6 +9,7 @@ Flights to Saudi Arabia suspended after hundreds of Nigerian women were deported
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/09/20129287397304433.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-19745203)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/28/20129288364626734_20.jpg)
 
 ### Related:
 

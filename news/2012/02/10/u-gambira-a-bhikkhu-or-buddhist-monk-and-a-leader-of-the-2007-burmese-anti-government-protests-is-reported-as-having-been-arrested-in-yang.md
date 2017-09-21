@@ -8,6 +8,7 @@ Burmese monk Shin Gambira, one of the leaders of the 2007 protests, is taken awa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16977020)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58421000/jpg/_58421508_zdbq5ofd.jpg)
 
 ### Related:
 

@@ -9,3 +9,4 @@ The personal details of 15 million people, a quarter of the population of Britai
 
 1. [PublicService](http://www.publicservice.co.uk/news_story.asp?id=16679)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8580657/Quarter-of-UK-population-will-be-on-new-police-database.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01923/AEF8M5_1923132a.jpg)

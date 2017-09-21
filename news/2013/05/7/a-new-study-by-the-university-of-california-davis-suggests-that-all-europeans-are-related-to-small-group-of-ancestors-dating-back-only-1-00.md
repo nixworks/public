@@ -8,3 +8,4 @@ Researchers claim people from all corners of the European continent share a comm
 ### Source:
 
 1. [Nature World News](http://www.natureworldnews.com/articles/1803/20130507/europeans-related-genetic-footprint-dating-back-1-000-years-ago.htm)
+1. [Cover Image](http://images.natureworldnews.com/data/images/full/1653/paris.jpg)

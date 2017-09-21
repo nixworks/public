@@ -9,6 +9,7 @@ Local and state officials warned Wednesday that they would not tolerate a slow r
 
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080206/ap_on_re_us/severe_weather)
 2. [MSNBC](http://www.msnbc.msn.com/id/23006771/)
+2. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photo_StoryLevel/080206/080206-tonado-hmed-7a.standard.jpg)
 
 ### Related:
 

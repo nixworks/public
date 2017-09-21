@@ -8,6 +8,7 @@ The note-taking app Evernote and news aggregator Feedly are being targeted by cy
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-27790068)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75450000/jpg/_75450363_photo.jpg)
 
 ### Related:
 

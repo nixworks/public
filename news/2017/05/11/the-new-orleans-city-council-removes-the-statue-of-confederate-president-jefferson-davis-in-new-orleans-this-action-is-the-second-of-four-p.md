@@ -8,6 +8,7 @@ Mayor Mitch Landrieu and his allies say monuments to Confederate-era figures cel
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/05/11/527905650/workers-take-jefferson-davis-statue-off-its-pedestal-in-new-orleans)
+1. [Cover Image](https://media.npr.org/assets/img/2017/05/11/ap_17131398243954_wide-6728c82ed51395a739d57b9b1e1aa8237b5c9ad7.jpg?s=1400)
 
 ### Related:
 

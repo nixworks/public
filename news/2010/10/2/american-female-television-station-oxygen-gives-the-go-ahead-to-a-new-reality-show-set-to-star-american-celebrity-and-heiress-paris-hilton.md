@@ -8,6 +8,7 @@ Paris Hilton is headed back to television -- this time in what is billed as a be
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6905L920101001)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20101001&t=2&i=216394409&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-01T220125Z_01_BTRE6901P6J00_RTROPTP_0_PEOPLE-PARISHILTON)
 
 ### Related:
 

@@ -9,6 +9,7 @@ President Rodrigo Duterte says ransom has been paid for Norwegian hostage Kjarta
 
 1. [IBTimes](http://www.ibtimes.co.uk/philippines-paid-abu-sayyaf-1m-ransom-norwegian-hostage-duterte-reveals-by-mistake-1578117)
 2. [Rappler](http://www.rappler.com/nation/144163-ransom-paid-norwegian-hostage-abu-sayyaf-duterte)
+2. [Cover Image](https://assets.rappler.com/20CBCA6D93D34E47BB3B18A1BDB92E45/img/207C0D8BDDFA444A94CC882994328E95/abu-sayaff-duterte-norweigian-ransom-20160825-001.jpg)
 
 ### Related:
 

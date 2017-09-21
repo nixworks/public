@@ -8,6 +8,7 @@ A University of Alberta paleontologist is showing off a rare dinosaur fossil tha
 ### Source:
 
 1. [Postmedia News via Canada.com](http://o.canada.com/news/science-news/near-complete-baby-dinosaur-skeleton-unearthed-in-alberta/)
+1. [Cover Image](http://wpmedia.o.canada.com/2013/12/dinofossil.jpg)
 
 ### Related:
 

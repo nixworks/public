@@ -8,6 +8,7 @@ A rare tropical cyclone makes landfall in Yemen, flooding the al-Qaeda controlle
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34698709)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/39AF/production/_86476741_86476740.jpg)
 
 ### Related:
 

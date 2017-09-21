@@ -8,6 +8,7 @@ Democratic National Committee Vice Chair Tulsi Gabbard resigned from her post on
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-election-sanders-gabbard-idUSKCN0W10NM)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160228&t=2&i=1120979307&w=&fh=545px&fw=&ll=&pl=&sq=&r=MTZSAPEC2S9JFCKH)
 
 ### Related:
 

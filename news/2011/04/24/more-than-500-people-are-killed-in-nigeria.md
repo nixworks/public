@@ -9,6 +9,7 @@ Civil Rights Congress says more than 500 people were killed in post-election vio
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/201142416345419220.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13184298)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/20/2011420191038198140_20.jpg)
 
 ### Related:
 

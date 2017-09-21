@@ -9,6 +9,7 @@ Regional taskforce conducts sweep along border with Nigeria, freeing 900 captive
 
 1. [AFP via Yahoo](http://news.yahoo.com/cameroon-army-kills-100-boko-haram-fighters-frees-001313100.html)
 2. [The Guardian](http://www.theguardian.com/world/2015/dec/02/cameroon-boko-haram-members-killed)
+2. [Cover Image](https://i.guim.co.uk/img/media/8b7f02bb6f8c93de1e8ac9f1c394fd037d9cf0f4/0_220_3333_2003/master/3333.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=10e7aa9dc6d34957364e7e084606076b)
 
 ### Related:
 

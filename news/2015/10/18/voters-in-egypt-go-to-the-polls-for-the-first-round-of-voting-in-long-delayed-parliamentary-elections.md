@@ -8,6 +8,7 @@ People vote in Egypt in the first round of long-delayed elections to choose a ne
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-34565022)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6322/production/_86187352_029637796.jpg)
 
 ### Related:
 

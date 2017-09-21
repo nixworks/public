@@ -8,6 +8,7 @@ Military says it is assuming all political power, a day after arresting former p
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/05/thai-military-leaders-dissolve-senate-2014524124210155573.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/5/24/2014524133316924734_20.jpg)
 
 ### Related:
 

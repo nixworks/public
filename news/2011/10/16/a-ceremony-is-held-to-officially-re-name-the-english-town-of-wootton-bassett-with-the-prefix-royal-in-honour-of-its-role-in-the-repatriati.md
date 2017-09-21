@@ -8,6 +8,7 @@ A ceremony to rename Wootton Bassett with the prefix &quot;Royal&quot; takes pla
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-wiltshire-15325154)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56090000/jpg/_56090821_hi013164649.jpg)
 
 ### Related:
 

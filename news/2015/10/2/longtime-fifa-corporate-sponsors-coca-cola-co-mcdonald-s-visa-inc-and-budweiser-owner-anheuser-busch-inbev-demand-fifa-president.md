@@ -9,6 +9,7 @@
 
 1. [Irish Independent](http://www.independent.ie/world-news/europe/defiant-blatter-rejects-fifa-sponsors-calls-to-quit-31578785.html)
 2. [Reuters](http://www.reuters.com/article/2015/10/02/us-soccer-fifa-coca-cola-idUSKCN0RW27F20151002)
+2. [Cover Image](http://www.independent.ie/incoming/article31578858.ece/ALTERNATES/h342/2015-10-0_2142.jpg)
 
 ### Related:
 

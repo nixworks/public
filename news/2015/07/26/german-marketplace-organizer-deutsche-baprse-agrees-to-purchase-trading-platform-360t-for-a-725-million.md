@@ -8,6 +8,7 @@ Deutsche Börse said it is buying over-the-counter trading platform 360T for $79
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/deutsche-borse-to-buy-trading-platform-360t-for-796-4-million-1437904931)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-JO170_boerse_TOP_20150726055012.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Tasmanian Premier David Bartlett has confirmed he will stand down as the state&#
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/23/3119174.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1915112-1x1-700x700.jpg)
 
 ### Related:
 

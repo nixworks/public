@@ -8,6 +8,7 @@ Nigerian troops killed 74 members of Boko Haram in an air and ground assault, th
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/25/us-nigeria-bokoharam-idUSBRE99O0LO20131025)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

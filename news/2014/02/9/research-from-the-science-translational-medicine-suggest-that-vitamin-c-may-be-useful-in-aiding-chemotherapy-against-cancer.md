@@ -8,6 +8,7 @@ High doses of vitamin C can boost the cancer-killing effect of chemotherapy, acc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-26038460)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72769000/jpg/_72769413_178457599.jpg)
 
 ### Related:
 

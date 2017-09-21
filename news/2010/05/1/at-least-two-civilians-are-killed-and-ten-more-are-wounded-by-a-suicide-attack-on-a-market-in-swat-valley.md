@@ -8,6 +8,7 @@ Five killed and 10 wounded in attack in Swat valley town of Mingora.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/20105112137357587.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

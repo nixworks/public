@@ -9,6 +9,7 @@ At least 23 people have been killed by air strikes overnight on the rebel-held c
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36416265)
 2. [CNN](http://edition.cnn.com/2016/05/31/middleeast/syria-hospital-strike/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1FB2/production/_89841180_bd473e18-f449-40c1-bd56-3e4b14644892.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''Breitbart News](http://www.breitbart.com/big-journalism/2016/09/06/greta-van-susteren-fox-news-host/)
+1. [Cover Image](http://media.breitbart.com/media/2015/08/greta-van-susteren-AP.jpg)
 
 ### Related:
 

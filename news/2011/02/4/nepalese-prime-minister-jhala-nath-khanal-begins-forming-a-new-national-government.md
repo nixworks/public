@@ -9,6 +9,7 @@ Nepal&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister,&#x20;Jhalanath&#x2
 
 1. [One India](http://news.oneindia.in/2011/02/04/khanalseeks-to-form-nationalgovernment-aid0126.html)
 2. [RFI](http://www.english.rfi.fr/asia-pacific/20110204-nepals-new-pm-begins-forming-government)
+2. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/nepal%20pm.jpg)
 
 ### Related:
 

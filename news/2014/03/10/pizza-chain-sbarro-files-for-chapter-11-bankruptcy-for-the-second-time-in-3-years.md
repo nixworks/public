@@ -8,6 +8,7 @@ Pizza chain Sbarro LLC has filed for bankruptcy protection for the second time i
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/03/10/us-sbarro-bankruptcy-idUSBREA290TK20140310)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140310&t=2&i=858859782&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA29167800)
 
 ### Related:
 

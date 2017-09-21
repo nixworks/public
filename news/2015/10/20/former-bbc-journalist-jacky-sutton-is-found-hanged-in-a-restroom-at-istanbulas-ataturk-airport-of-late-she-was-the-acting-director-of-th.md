@@ -8,6 +8,7 @@ Briton Jacky Sutton, the acting Iraq director for the Institute of War and Peace
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-34567210)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B445/production/_86194164_86194163.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A deadly earthquake topples a hotel and other buildings in eastern Turkey, leavi
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15668071)
 2. [USA Today](http://www.usatoday.com/news/world/story/2011-11-09/turkey-earthquake/51139796/1)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56618000/jpg/_56618278_013309658-1.jpg)
 
 ### Related:
 
@@ -21,4 +22,4 @@ A deadly earthquake topples a hotel and other buildings in eastern Turkey, leavi
 7. [The death toll from the 2011 Van earthquake in Turkey reaches 523, with rain and snow making conditions worse for people left homeless by the earthquake. ](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.md) _Context: 7.1 magnitude earthquake, Turkey_
 8. [ A death threat was mailed by PKK to CHP, MHP, DYP and AKP to withdraw their Van and Hakkri candidates to the 2007 general election in Turkey. ](/news/2007/05/14/a-death-threat-was-mailed-by-pkk-to-chp-mhp-dyp-and-akp-to-withdraw-their-van-and-hakkari-candidates-to-the-2007-general-election-in-turk.md) _Context: Turkey, Van_
 9. [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md) _Context: earthquake_
-10. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Turkey_
+10. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued, at least 226 dead, at least 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md) _Context: earthquake_

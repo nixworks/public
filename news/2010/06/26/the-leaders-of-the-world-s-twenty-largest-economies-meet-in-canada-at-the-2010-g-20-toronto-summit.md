@@ -17,6 +17,7 @@ Black-clad anarchists protesting at the G20 summit have smashed storefronts and 
 8. [Reuters via ABC Australia](http://www.abc.net.au/news/stories/2010/06/27/2938016.htm?WT.mc_id=newsmail)
 9. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/27/c_13371172.htm)
 10. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3910924,00.html)
+10. [Cover Image](http://www.abc.net.au/news/image/875684-1x1-700x700.jpg)
 
 ### Related:
 

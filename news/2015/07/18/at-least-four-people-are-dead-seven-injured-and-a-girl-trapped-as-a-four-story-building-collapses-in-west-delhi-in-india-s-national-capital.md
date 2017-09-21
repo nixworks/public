@@ -8,6 +8,7 @@ At least five people, four of them women, were killed and seven injured after a 
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/delhi-news/4-storey-building-collapses-in-delhi-many-feared-trapped-782859)
+1. [Cover Image](http://i.ndtvimg.com/i/2015-07/collapse1_650x400_51437277150.jpg)
 
 ### Related:
 

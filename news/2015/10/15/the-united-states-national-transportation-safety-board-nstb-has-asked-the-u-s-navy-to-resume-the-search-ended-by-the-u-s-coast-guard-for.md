@@ -8,6 +8,7 @@ The Navy is scrambling a ship and an underwater search team to find the missing 
 ### Source:
 
 1. [USNI News](http://news.usni.org/2015/10/15/u-s-navy-deploying-search-team-to-find-lost-merchant-ship-el-faro)
+1. [Cover Image](https://news.usni.org/wp-content/uploads/2015/10/EL_FARO.jpg)
 
 ### Related:
 

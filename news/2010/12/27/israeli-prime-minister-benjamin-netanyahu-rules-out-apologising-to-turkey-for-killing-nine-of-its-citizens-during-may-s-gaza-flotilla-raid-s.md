@@ -9,6 +9,7 @@ Israel&#8217;s prime minister said Israel will not apologize to Turkey for the i
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/20101227221615137965.html)
 2. [JTA](http://www.jta.org/news/article/2010/12/28/2742344/netanyahu-israel-will-not-apologize-to-turkey)
+2. [Cover Image](http://www.jta.org/wp-content/themes/jta/static/images/og-logo-sm-1.jpg)
 
 ### Related:
 

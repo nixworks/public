@@ -8,6 +8,7 @@ Philippines President Rodrigo Duterte has sought to reassure soldiers who might 
 ### Source:
 
 1. [Reuters via Aus. Broadcasting Corp.](http://www.abc.net.au/news/2017-05-27/duterte-jokes-to-soldiers-about-raping-women/8565896)
+1. [Cover Image](http://www.abc.net.au/news/image/8565898-1x1-700x700.jpg)
 
 ### Related:
 

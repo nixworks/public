@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/stories/2008/01/24/terror/main3750895.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2008/01/24/d7e0fbd6-a642-11e2-a3f0-029118418759/image3750896x.jpg)
 
 ### Related:
 

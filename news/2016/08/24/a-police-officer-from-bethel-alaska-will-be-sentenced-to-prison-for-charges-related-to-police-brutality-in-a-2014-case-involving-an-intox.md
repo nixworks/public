@@ -8,6 +8,7 @@ FBI-led investigation was part of a civil rights program focused on official mis
 ### Source:
 
 1. [Alaska Dispatch News](http://www.adn.com/alaska-news/rural-alaska/2016/08/24/ex-bethel-cop-must-serve-time-for-violent-2014-arrest-caught-on-video/)
+1. [Cover Image](https://www.adn.com/resizer/Tmf3Y-y4rb1_angz5vNIvT426wY=/1200x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2016/08/24175901/Andrew-Reid-Sentencing-05.jpg?token=bar)
 
 ### Related:
 

@@ -9,6 +9,7 @@ An Israeli man freed by Libya after being held on suspicion of spying has flown 
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10913128)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/suspected-spy-returns-to-israel-20100810-11ueq.html)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

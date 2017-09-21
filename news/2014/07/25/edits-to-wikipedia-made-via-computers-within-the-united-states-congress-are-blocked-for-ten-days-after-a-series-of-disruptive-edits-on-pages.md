@@ -8,6 +8,7 @@ Recent edits accuse Donald Rumsfeld of being an alien lizard and Cuba of faking 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/technology/2014/jul/25/us-congress-banned-editing-wikipedia-trolling)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/25/1406293217550/9f5cad91-0314-4b1b-8c4b-1d816a1d570b-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=c169a401ca6420803316168f6ae6b661)
 
 ### Related:
 

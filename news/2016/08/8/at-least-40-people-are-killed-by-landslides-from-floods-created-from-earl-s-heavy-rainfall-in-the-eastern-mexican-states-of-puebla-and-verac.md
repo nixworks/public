@@ -10,6 +10,7 @@ Hurricane Earl had been downgraded to a tropical storm by the time it hit southe
 1. [NHC](http://www.nhc.noaa.gov/refresh/graphics_at5+shtml/155812.shtml?5-daynl)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2016/08/08/489153139/storm-triggered-mudslides-kill-dozens-of-people-in-mexico-over-the-weekend)
 3. [The Yucatan Times](http://www.theyucatantimes.com/2016/08/earls-death-toll-at-40-as-javier-forms-off-mexicos-pacific-coast/)
+3. [Cover Image](https://media.npr.org/assets/img/2016/08/08/gettyimages-586852672_wide-9fe3a9445f299eb3fdeafea2ce3a4b8b96ba6e95.jpg?s=1400)
 
 ### Related:
 

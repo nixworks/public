@@ -8,6 +8,7 @@ Australia has raised its terrorism threat level from medium to high, PM Tony Abb
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-29170042)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/77364000/jpg/_77364538_023693825epa.jpg)
 
 ### Related:
 

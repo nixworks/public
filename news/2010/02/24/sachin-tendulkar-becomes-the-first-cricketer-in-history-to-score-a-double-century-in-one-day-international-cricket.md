@@ -8,6 +8,7 @@ Sachin Tendulkar hit the first double century in the history of ODI cricket to l
 ### Source:
 
 1. [Rediff](http://cricket.rediff.com/report/2010/feb/24/updates-india-south-africa-2nd-odi-gwalior.htm)
+1. [Cover Image](http://im.rediff.com/300-300/cricket/2010/feb/24ten.jpg)
 
 ### Related:
 

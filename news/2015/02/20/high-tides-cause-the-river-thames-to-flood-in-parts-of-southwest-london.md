@@ -8,6 +8,7 @@ High tides on the River Thames left cars submerged under several feet of water i
 ### Source:
 
 1. [Evening Standard](http://www.standard.co.uk/news/london/cars-submerged-under-several-feet-of-water-as-high-spring-tides-bring-flooding-to-west-london-10060508.html)
+1. [Cover Image](https://static.standard.co.uk/s3fs-public/thumbnails/image/2015/02/20/18/Thames-1.jpg)
 
 ### Related:
 

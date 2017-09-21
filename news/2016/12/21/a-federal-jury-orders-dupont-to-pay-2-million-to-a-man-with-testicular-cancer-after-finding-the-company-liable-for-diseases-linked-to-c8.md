@@ -9,6 +9,7 @@ The verdict is the third time DuPont has been found liable for diseases linked t
 
 1. [CNBC](http://www.cnbc.com/2016/12/21/dupont-ordered-to-pay-2-million-after-jurors-found-actual-malice-in-suit-over-chemical-linked-to-cancer.html)
 2. [Reuters](http://www.reuters.com/article/us-du-pont-verdict-idUSKBN14A24Z?il=0)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166314598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK18F)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A suicide bomber targets a funeral for a policeman in south-western Pakistan kil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23618457)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/69177000/jpg/_69177689_69177687.jpg)
 
 ### Related:
 

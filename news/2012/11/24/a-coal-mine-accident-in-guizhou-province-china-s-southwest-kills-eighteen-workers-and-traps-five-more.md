@@ -8,6 +8,7 @@ A coal mine accident in China&#x27;s southwest killed 18 workers and trapped fiv
 ### Source:
 
 1. [AP via Yahoo](http://news.yahoo.com/18-chinese-miners-die-coal-gas-explosion-103952692.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

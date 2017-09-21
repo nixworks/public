@@ -11,6 +11,7 @@ Rescue workers searched on Thursday through thick mud, broken homes and fallen t
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20622343)
 3. [NDRRMC](http://www.ndrrmc.gov.ph/attachments/article/835/NDRRMC%20UPDATE%20-%20Sitrep%20NO.%2015%20re%20Effects%20of%20TY%20PABLO.pdf)
 4. [Reuters](http://www.reuters.com/article/2012/12/06/us-philippines-typhoon-idUSBRE8B306420121206)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121206&t=2&i=681811076&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B50Z6Z00)
 
 ### Related:
 

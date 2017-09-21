@@ -9,6 +9,7 @@ The Duke and Duchess of Cambridge have launched legal action against the French 
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19604535)
 2. [The Telegraph](http://www.telegraph.co.uk/news/uknews/kate-middleton/9544247/Duke-and-Duchess-of-Cambridge-begin-privacy-action-over-topless-photographs.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62901000/jpg/_62901680_015978143.jpg)
 
 ### Related:
 

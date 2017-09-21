@@ -9,6 +9,7 @@ Taliban insurgents killed nine people and kidnapped 20 others when they held up 
 
 1. [CNN](http://edition.cnn.com/2016/05/31/middleeast/afghanistan-travelers-mass-kidnap/)
 2. [Reuters](http://in.reuters.com/article/afghanistan-kidnapping-idINKCN0YM0SN)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

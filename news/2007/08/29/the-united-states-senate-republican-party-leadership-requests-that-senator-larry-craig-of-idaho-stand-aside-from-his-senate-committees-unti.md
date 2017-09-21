@@ -8,6 +8,7 @@
 ### Source:
 
 1. [WSJ](http://blogs.wsj.com/washwire/2007/08/29/sen-craig-pushed-from-committee-posts/)
+1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

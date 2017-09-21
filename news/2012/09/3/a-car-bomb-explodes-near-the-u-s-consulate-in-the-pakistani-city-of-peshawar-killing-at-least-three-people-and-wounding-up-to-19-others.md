@@ -8,6 +8,7 @@ Police say a bomber killed two people and himself when he hit a US consulate veh
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19460920)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62639000/jpg/_62639688_fujuoi2w.jpg)
 
 ### Related:
 

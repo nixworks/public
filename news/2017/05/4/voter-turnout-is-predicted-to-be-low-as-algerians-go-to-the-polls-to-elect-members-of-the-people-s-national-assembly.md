@@ -8,6 +8,7 @@ Despite fierce government campaign, many Algerians are more worried about rising
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/indepth/features/2017/05/algeria-voter-turnout-expected-legislative-poll-170503064333032.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2017/5/4/a616d3ec25b7466e899ddd973b5410b1_18.jpg)
 
 ### Related:
 

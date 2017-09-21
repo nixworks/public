@@ -8,6 +8,7 @@ The four were discovered by a rescue team sent to retrieve the body of another d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-40025553)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/538C/production/_96188312_08adffa2-37f9-4831-b601-2b71355f7179.jpg)
 
 ### Related:
 

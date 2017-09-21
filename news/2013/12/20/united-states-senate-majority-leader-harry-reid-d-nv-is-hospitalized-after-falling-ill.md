@@ -8,6 +8,7 @@ Senator Harry Reid, the majority leader, fell ill Friday morning and went to the
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/12/21/us/politics/harry-reid-health.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/12/21/us/21reid_span/21reid_span-videoSixteenByNine1050.jpg)
 
 ### Related:
 

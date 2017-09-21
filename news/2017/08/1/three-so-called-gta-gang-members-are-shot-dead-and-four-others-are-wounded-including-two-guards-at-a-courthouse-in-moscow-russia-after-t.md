@@ -8,6 +8,7 @@ Three people standing trial have been killed in a shootout at a courthouse in Mo
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/moscow-attack-shooting-latest-courthouse-killed-death-injured-attack-gunman-russia-capital-police-a7870831.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/01/14/moscow-regional-court-0.jpg)
 
 ### Related:
 

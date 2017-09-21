@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Politico](http://www.politico.com/news/stories/0511/55052.html)
+1. [Cover Image](http://s3-origin-images.politico.com/news/110516_trump_car_reuters_328.jpg)
 
 ### Related:
 
@@ -20,4 +21,4 @@
 7. [The Hofstra Arena in Hempstead, New York opens. The arena hosted the final Presidential Debate of the 2008 United States presidential election between John McCain and Barack Obama, as well as, the second debate of the 2012 presidential election between Mitt Romney and Barack Obama, and the first debate of Hillary Clinton and Donald Trump of the 2016 election.](/news/2000/01/2/the-hofstra-arena-in-hempstead-new-york-opens-the-arena-hosted-the-final-presidential-debate-of-the-2008-united-states-presidential-electi.md) _Context: Donald Trump, United States presidential election, 2012_
 8. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: Donald Trump_
 9. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: Donald Trump_
-10. [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md) _Context: Donald Trump_
+10. [ California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.-Mexico border. ](/news/2017/09/20/california-attorney-general-xavier-becerra-files-suit-in-federal-court-against-u-s-president-donald-trump-s-proposed-plan-for-a-wall-along.md) _Context: Donald Trump_

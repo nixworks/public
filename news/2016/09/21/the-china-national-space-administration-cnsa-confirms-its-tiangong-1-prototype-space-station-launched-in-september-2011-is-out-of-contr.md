@@ -8,6 +8,7 @@ China’s first space station will meet a fiery end next year when the 8.5-tonne
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/asia/china-space-station-tiangong-1-crash-tiangong-1-out-of-control-a7319916.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/21/08/china-tiangong-1-rocket.jpg)
 
 ### Related:
 

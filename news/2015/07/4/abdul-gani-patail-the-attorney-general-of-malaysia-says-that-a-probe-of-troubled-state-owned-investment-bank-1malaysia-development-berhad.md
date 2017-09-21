@@ -8,6 +8,7 @@ KUALA LUMPUR, Malaysia—Malaysia’s attorney general said an official investig
 ### Source:
 
 1. [Market Watch](http://www.marketwatch.com/story/malaysia-probe-says-it-has-found-documents-tied-to-alleged-transfers-to-premier-2015-07-04-151035052?mod=MethodeStories&link=sfmw)
+1. [Cover Image](http://s.marketwatch.com/public/resources/MWimages/MW-DP386_Raza_M_ZG_20150704152858.jpg)
 
 ### Related:
 

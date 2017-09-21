@@ -8,6 +8,7 @@ Rally hears campaign against property tax to intensify in coming weeks
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/news/thousands-attend-anti-austerity-protest-in-dublin-1.1359805)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1359804&origw=1440)
 
 ### Related:
 

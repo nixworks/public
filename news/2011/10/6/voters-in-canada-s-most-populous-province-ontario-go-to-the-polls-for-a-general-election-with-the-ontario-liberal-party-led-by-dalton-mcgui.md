@@ -9,6 +9,7 @@
 
 1. [CTV](http://toronto.ctv.ca/servlet/an/local/CTVNews/20111006/ontario-election-results-mcguinty-hudak-horwath-111006/20111006/?hub=TorontoNewHome)
 2. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/ontario-election/how-to-vote-in-the-ontario-election/article2192532/?from=sec431)
+2. [Cover Image](http://static.theglobeandmail.ca/157/incoming/article891966.ece/ALTERNATES/w620/web_vote.jpg)
 
 ### Related:
 

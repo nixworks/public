@@ -8,6 +8,7 @@ Dozens of Fijian U.N. peacekeepers, released by al Qaeda-linked group Nusra Fron
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/11/us-syria-crisis-fiji-idUSKBN0H60C120140911?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140911&t=2&i=972471052&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA8A0SK)
 
 ### Related:
 

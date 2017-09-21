@@ -11,6 +11,7 @@ Slipknot bassist Paul Gray has been found dead at a hotel near the band&#039;s h
 2. [TIME](http://newsfeed.time.com/2010/05/24/slipknot-bassist-paul-gray-dies-at-38/)
 3. [The Guardian](http://www.guardian.co.uk/music/2010/may/24/slipknot-paul-gray-found-dead)
 4. [Xinhua](http://news.xinhuanet.com/english2010/entertainment/2010-05/25/c_13313928.htm)
+4. [Cover Image](http://www.abc.net.au/news/image/839912-1x1-700x700.jpg)
 
 ### Related:
 

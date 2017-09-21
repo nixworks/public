@@ -8,6 +8,7 @@
 ### Source:
 
 1. [GloboNews](http://g1.globo.com/mundo/noticia/2013/08/gabinete-do-premie-britanico-estava-a-par-de-brasileiro-detido.html)
+1. [Cover Image](http://s2.glbimg.com/VhQQANDuPOh5yaJF2ee2NMcOyCE=/1200x630/s.glbimg.com/jo/g1/f/original/2013/08/20/miranda_1.jpg)
 
 ### Related:
 

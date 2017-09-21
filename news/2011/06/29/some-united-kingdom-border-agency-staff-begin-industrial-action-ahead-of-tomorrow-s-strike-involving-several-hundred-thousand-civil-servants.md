@@ -8,3 +8,4 @@ Schools, courts and jobcentres are among the services affected across the UK as 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13967580)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53771000/jpg/_53771759_012339393-1.jpg)

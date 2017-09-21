@@ -11,6 +11,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jcYA7HBTuobDQR9p0JTZDHmpHcyQD9GFODFG2)
 3. [Reuters](http://in.reuters.com/article/idINIndia-49536120100622)
 4. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1295266&lang=eng_news)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100622&t=2&i=136421445&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-06-22T194503Z_01_NOOTR_RTRMDNC_0_India-495361-1)
 
 ### Related:
 

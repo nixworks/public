@@ -9,6 +9,7 @@ Two assailants opened fire on the United States consulate building in Istanbul o
 
 1. [The Hürriyet Daily News](http://www.hurriyetdailynews.com/two-attackers-open-fire-on-us-consulate-in-istanbul.aspx?pageID=238&nID=86695&NewsCatID=509)
 2. [The News Hub](https://www.the-newshub.com/international/terrorists-attack-us-consulate-in-istanbul)
+2. [Cover Image](http://www.hurriyetdailynews.com/images/news/201508/n_86695_1.jpg)
 
 ### Related:
 

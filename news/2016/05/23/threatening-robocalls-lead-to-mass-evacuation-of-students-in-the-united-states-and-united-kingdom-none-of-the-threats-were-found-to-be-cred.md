@@ -8,6 +8,7 @@ Thousands of students in several dozen schools across the United States and Grea
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/threatening-robo-calls-evacuate-thousands-students-u-s-u-k-n578971)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_21/1548561/160523-rochester-mn-school-threat-kttc_54342199d6fce620f3db15c8fc823d78.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

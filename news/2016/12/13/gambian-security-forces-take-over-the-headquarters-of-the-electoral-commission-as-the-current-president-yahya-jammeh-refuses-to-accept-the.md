@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-africa-38302533)
 2. [BBC](http://www.bbc.com/news/world-africa-38306325)
 3. [The New York Times](http://www.nytimes.com/2016/12/13/opinion/gambias-jammeh-weighs-whether-to-be-or-not-to-be-a-dictator.html?_r=0)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9B86/production/_92941893_jammeh.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Citizens of the small, poverty-stricken West African country of Togo are to vote
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23408183)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68881000/jpg/_68881784_opposition.jpg)
 
 ### Related:
 

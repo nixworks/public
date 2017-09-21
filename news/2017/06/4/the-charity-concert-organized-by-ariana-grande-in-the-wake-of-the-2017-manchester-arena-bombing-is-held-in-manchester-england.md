@@ -8,6 +8,7 @@ Ariana Grande closed &#8220;One Love Manchester&#8221; with an emotional renditi
 ### Source:
 
 1. [Variety](http://variety.com/2017/music/news/ariana-grande-somewhere-over-the-rainbow-one-love-manchester-benefit-concert-watch-1202453634/)
+1. [Cover Image](http://pmcvariety.files.wordpress.com/2017/06/screen-shot-2017-06-04-at-2-05-28-pm.png?w=1000&amp;h=750&amp;crop=1)
 
 ### Related:
 

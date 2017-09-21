@@ -9,6 +9,7 @@ Three minor blasts rattled the Thai capital Bangkok on Tuesday, leaving a foreig
 
 1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/279803/b-update-b-iranian-injured-in-two-blasts)
 2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Three-minor-blasts-rock-Bangkok-one-hurt/articleshow/11886568.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/11886285.cms)
 
 ### Related:
 

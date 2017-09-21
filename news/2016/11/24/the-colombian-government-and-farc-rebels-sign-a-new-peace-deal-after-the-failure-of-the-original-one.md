@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-colombia-peace-idUSKBN13J18L)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161124&t=2&i=1162952096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAN13N)
 
 ### Related:
 

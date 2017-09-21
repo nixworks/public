@@ -8,6 +8,7 @@ Dismissing the reports as &quot;totally baseless and false&quot;, Apollo asked n
 ### Source:
 
 1. [The Indian Express](http://www.indianexpress.com/article/india/jayalalithaa-dies-of-heart-attack-tamil-nadu-chennai-cardiac-arrest-aiadmk-4410487/)
+1. [Cover Image](http://images.indianexpress.com/2016/02/jayalalitha759.jpg?w=759)
 
 ### Related:
 

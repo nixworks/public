@@ -12,6 +12,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 3. [CNN](http://www.cnn.com/2005/WORLD/meast/01/30/iraq.britishplane/)
 4. [News24](http://www.news24.com/News24/World/Iraq/0,,2-10-1460_1654779,00.html)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7476343)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

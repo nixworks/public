@@ -9,6 +9,7 @@ Team at Nasa unveils and describes new high-resolution photographs and data sent
 
 1. [The Guardian](http://www.theguardian.com/science/live/2015/jul/15/nasa-pluto-new-horizon-photos-discoveries)
 2. [Wired](http://www.wired.com/2015/07/new-horizons-sent-home-picture-plutos-mountain-ranges/)
+2. [Cover Image](https://i.guim.co.uk/img/media/70a425459840bc01ff999759d704fd5e2ad224c8/34_20_586_352/master/586.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a94b930cf13b7f4e91fafe1bbf24b54c)
 
 ### Related:
 

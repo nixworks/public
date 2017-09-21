@@ -8,6 +8,7 @@ Archaeologists in Israel say they hope the discovery of a Philistine cemetery wi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36759340)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1734E/production/_90345059_mediaitem90345043.jpg)
 
 ### Related:
 

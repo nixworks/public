@@ -8,6 +8,7 @@ The authorities in Peru are sending the military to help areas affected by flood
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2016/03/01/peru-sends-in-army-to-deal-with-floods-blamed-on-el-nino/)
+1. [Cover Image](http://static.euronews.com/articles/325744/1000x563_325744.jpg)
 
 ### Related:
 

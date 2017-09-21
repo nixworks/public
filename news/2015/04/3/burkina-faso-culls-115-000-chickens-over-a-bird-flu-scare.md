@@ -9,6 +9,7 @@ Burkina Faso’s government confirmed on Wednesday that an outbreak of H5N1 avia
 
 1. [Reuters](http://www.reuters.com/article/2015/04/01/us-health-birdflu-burkina-idUSKBN0MS5J520150401)
 2. [Xinhua](http://news.xinhuanet.com/english/2015-04/03/c_134122070.htm)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

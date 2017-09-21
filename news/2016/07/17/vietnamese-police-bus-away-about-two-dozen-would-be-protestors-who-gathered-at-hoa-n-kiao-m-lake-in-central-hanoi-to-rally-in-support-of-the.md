@@ -9,6 +9,7 @@ Dozens of Vietnamese who gathered for an anti-China protest in central Hanoi hav
 
 1. [AAP via News.com.au](http://www.news.com.au/world/breaking-news/vietnam-police-detain-dozens-in-protest/news-story/0604284d4fdd4f0745d50eab18eed1b7)
 2. [AP](http://bigstory.ap.org/article/4b009e2b34444d4fba37c74d01fbe367/vietnam-police-detain-dozens-anti-china-protest)
+2. [Cover Image](https://secure.gravatar.com/blavatar/99ae28ba58e6719abd9d8575bdc18a54?s=200&amp;ts=1490836667)
 
 ### Related:
 

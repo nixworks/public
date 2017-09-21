@@ -8,6 +8,7 @@ A man is arrested on suspicion of burglary, trespass and criminal damage after s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23999047)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69704000/jpg/_69704222_018747787.jpg)
 
 ### Related:
 

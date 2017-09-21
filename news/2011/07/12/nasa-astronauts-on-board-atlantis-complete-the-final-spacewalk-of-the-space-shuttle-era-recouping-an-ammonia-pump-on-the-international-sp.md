@@ -8,6 +8,7 @@ The last spacewalk of the shuttle era is completed, as astronauts remove a fault
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-14121532)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54029000/jpg/_54029816_54029815.jpg)
 
 ### Related:
 

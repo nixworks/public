@@ -8,6 +8,7 @@ The shooting happened after an SUV driven by the victim&#039;s husband passed an
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1530263/pregnant-teen-shot-in-face-in-road-rage-attack)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/150804-fresno-shooting-jpo-427a-7b8ce450075607c39edb26a7cd18d343-nbcnews-ux-2880-1000-1_3517021.jpg?20160704125621)
 
 ### Related:
 

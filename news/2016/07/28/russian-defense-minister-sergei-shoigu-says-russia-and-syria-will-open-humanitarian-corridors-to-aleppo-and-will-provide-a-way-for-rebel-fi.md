@@ -10,6 +10,7 @@ Group’s leader, Abu Mohammad al-Jolani, says move is aimed at ‘removing excu
 1. [CBS News](http://www.cbsnews.com/news/russia-announces-humanitarian-operation-in-besieged-aleppo/)
 2. [Huffington Post](http://www.huffingtonpost.com/entry/assad-amnesty-syria_us_5799d334e4b01180b531cc93)
 3. [The Guardian](https://www.theguardian.com/world/2016/jul/28/al-qaida-syria-nusra-split-terror-network)
+3. [Cover Image](https://i.guim.co.uk/img/media/d238707219f0f75519586ffcfc275172ca5e0a9b/39_0_2067_1240/2067.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=272ebd11429cbd51cf53b57c2a7eddc1)
 
 ### Related:
 

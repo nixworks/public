@@ -8,6 +8,7 @@ Italy was yesterday tensely awaiting the outcome of a trial which could send Pri
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/berlusconi-braced-for-verdict-over-allys-mafia-links-2011539.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/06/26/20/401879.bin)
 
 ### Related:
 

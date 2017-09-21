@@ -8,6 +8,7 @@ Ugandan President Yoweri Museveni said his country would halt security and milit
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-southkorea-uganda-idUSKCN0YK0E3)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160529&t=2&i=1139167321&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4S084)
 
 ### Related:
 

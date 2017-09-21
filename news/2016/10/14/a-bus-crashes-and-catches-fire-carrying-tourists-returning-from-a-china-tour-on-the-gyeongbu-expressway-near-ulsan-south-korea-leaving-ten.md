@@ -8,6 +8,7 @@ SEOUL, South Korea (AP) — Ten people were killed and nine others were injured 
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/32cf206a948842b18fdb42e251e78fa7/10-killed-south-korea-after-bus-fire-highway)
+1. [Cover Image](http://binaryapi.ap.org/85fea10213fe4630984856482b509ebe/460x.jpg)
 
 ### Related:
 

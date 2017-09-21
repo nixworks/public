@@ -8,6 +8,7 @@ Police say one suspect has been arrested but that it is too soon to pinpoint a m
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-40757119)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/164E1/production/_97116319_mediaitem97116318.jpg)
 
 ### Related:
 

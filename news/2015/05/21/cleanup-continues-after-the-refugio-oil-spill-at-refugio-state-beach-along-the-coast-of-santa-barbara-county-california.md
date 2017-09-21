@@ -8,6 +8,7 @@ The owner of the ruptured pipeline that spilled thousands of gallons of oil alon
 ### Source:
 
 1. [ABC7.com](http://abc7.com/news/oil-spill-cleanup-continues-at-refugio-state-beach/734659/)
+1. [Cover Image](http://cdn.abclocal.go.com/content/kabc/images/cms/734677_1280x720.jpg)
 
 ### Related:
 

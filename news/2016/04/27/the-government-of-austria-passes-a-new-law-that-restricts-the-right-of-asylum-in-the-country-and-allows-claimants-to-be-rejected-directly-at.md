@@ -8,6 +8,7 @@ The Austrian parliament passes a controversial new law restricting asylum rights
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36152927)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/91C5/production/_89471373_89471264.jpg)
 
 ### Related:
 

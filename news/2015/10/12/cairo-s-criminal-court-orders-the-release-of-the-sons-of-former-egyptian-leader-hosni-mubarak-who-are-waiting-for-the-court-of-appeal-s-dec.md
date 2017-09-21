@@ -9,6 +9,7 @@
 
 1. [New York Daily News](http://www.nydailynews.com/news/world/egyptian-court-orders-ex-prez-hosni-mubarek-sons-released-article-1.2394620)
 2. [Reuters](http://www.reuters.com/article/2015/10/12/us-egypt-court-corruption-idUSKCN0S614620151012)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151012&t=2&i=1086388470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9B0H6)
 
 ### Related:
 

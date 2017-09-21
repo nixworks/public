@@ -8,6 +8,7 @@ Two members of longtime Oakland rhythm and blues band Tower of Power were hit by
 ### Source:
 
 1. [SF Gate](http://www.sfgate.com/bayarea/article/2-pedestrians-hit-by-train-in-Oakland-near-estuary-10854827.php|)
+1. [Cover Image](http://ww3.hdnux.com/photos/56/36/31/12183166/5/rawImage.jpg)
 
 ### Related:
 

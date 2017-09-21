@@ -12,6 +12,7 @@ Russia has added Adolf Hitler&#39;s &#39;Mein Kampf&#39; to a list of books that
 3. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/mein-kampf-banned-russia)
 4. [The Hindu](http://beta.thehindu.com/news/international/article306325.ece)
 5. [The New York Times](http://www.nytimes.com/reuters/2010/03/26/world/international-uk-russia-hitler-ban.html)
+5. [Cover Image](https://img.rasset.ie/000323a3-1600.jpg)
 
 ### Related:
 

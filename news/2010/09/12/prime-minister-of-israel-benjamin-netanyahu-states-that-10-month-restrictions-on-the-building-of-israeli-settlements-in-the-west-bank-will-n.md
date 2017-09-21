@@ -8,6 +8,7 @@ Israeli PM says current restrictions on building in West Bank to end, but indica
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010912201832209651.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/12/2010912202835270734_20.jpg)
 
 ### Related:
 

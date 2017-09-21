@@ -9,6 +9,7 @@ Floods triggered by torrential rains have claimed the lives of 701 people and le
 
 1. [Sify](http://sify.com/news/700-die-as-china-reels-under-worst-floods-in-decade-news-international-khvskefccae.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-07/21/c_13407808.htm)
+2. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

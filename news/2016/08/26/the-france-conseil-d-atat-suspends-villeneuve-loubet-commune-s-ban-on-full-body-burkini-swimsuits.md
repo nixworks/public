@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-religion-burqa-france-idUSKCN1111J5)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160826&t=2&i=1151182032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7P11K)
 
 ### Related:
 

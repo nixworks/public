@@ -8,6 +8,7 @@ The Pacific island nation of Nauru goes to the polls today.
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/25/2015057.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

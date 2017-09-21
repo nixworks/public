@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NASA](http://www.nasa.gov/mission_pages/cassini/whycassini/titan-makeover.html)
+1. [Cover Image](http://www.nasa.gov/images/content/719850main_titan_craters_100x75.jpg)
 
 ### Related:
 

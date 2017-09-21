@@ -8,6 +8,7 @@ A massive fire sweeps through one of the oldest markets in the eastern Indian ci
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-17470994)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59231000/jpg/_59231259_59230499.jpg)
 
 ### Related:
 

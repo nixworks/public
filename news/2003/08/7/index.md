@@ -7,7 +7,7 @@ _Context: 2003 California recall, Darrell Issa, Gray Davis, Republican, election
 _Context: Irish, Michael McKevitt, Real IRA, Special Criminal Court, terrorism_
 
 ### [ An Indonesian court sentences Amrozi bin Nurhasyim to death for his role in the 2002 Bali terrorist bombing. The court found Amrozi guilty of planning and carrying out the attack. The verdict comes two days after another attack outside Marriott Hotel in Jakarta. Jemaah Islamiyah is linked with both of the attacks.](/news/2003/08/7/an-indonesian-court-sentences-amrozi-bin-nurhasyim-to-death-for-his-role-in-the-2002-bali-terrorist-bombing-the-court-found-amrozi-guilty.md)
-_Context: Amrozi bin Nurhasyim, Bali bomber, Indonesia, Jakarta, Jemaah Islamiyah, capital punishment, court_
+_Context: 2002 Bali terrorist bombing, Amrozi bin Nurhasyim, Indonesia, Jakarta, Jemaah Islamiyah, capital punishment, court_
 
 ### [ Occupation of Iraq: A car bomb explodes near the Jordanian Embassy in Baghdad, Iraq. At least 10 people are killed and more than 30 are injured. The bomb, hidden in a minibus, is believed to be detonated remotely.](/news/2003/08/7/occupation-of-iraq-a-car-bomb-explodes-near-the-jordanian-embassy-in-baghdad-iraq-at-least-10-people-are-killed-and-more-than-30-are-inj.md)
 _Context: Baghdad, U.S. presence in Iraq, bus, car bomb, embassies_

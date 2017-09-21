@@ -8,6 +8,7 @@ A tornado swept across eastern China, killing 14 people and injuring 146, state 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/environmentNews/idUSPEK1791920070704)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070704&t=2&i=1053689&w=&fh=545px&fw=&ll=&pl=&sq=&r=1053689)
 
 ### Related:
 

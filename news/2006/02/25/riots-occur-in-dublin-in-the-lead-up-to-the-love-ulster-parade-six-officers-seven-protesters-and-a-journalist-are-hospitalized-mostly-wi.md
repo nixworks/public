@@ -10,3 +10,4 @@ Around 300 protestors, who opposed the planned loyalist &#39;Love Ulster&#39; ma
 1. [Daily Ireland](http://dailyireland.televisual.co.uk/home.tvt?_scope=DailyIreland/Content/News&id=24575&opp=1)
 2. [IOL](http://breakingnews.iol.ie/news/story.asp?j=173985228&p=y73985934&n=173985988)
 3. [RTE](http://www.rte.ie/news/2006/0225/loyalist.html)
+3. [Cover Image](https://img.rasset.ie/0000798b-1600.jpg)

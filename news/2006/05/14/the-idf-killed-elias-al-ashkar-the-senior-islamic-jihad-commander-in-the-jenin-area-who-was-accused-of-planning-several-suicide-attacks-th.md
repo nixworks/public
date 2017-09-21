@@ -11,6 +11,7 @@ Things to do in Miami
 2. [Israel MFA](http://www.mfa.gov.il/MFA/Terrorism-+Obstacle+to+Peace/Terrorism+and+Islamic+Fundamentalism-/IDF+Naval+craft+seized+several+hundred+kg+of+explosives+14-May-2006.htm)
 3. [Miami Herald](http://www.miami.com/mld/miamiherald/14581043.htm)
 4. [The Statesman](http://www.thestatesman.net/page.news.php?clid=8&theme=&usrsess=1&id=116290)
+4. [Cover Image](http://www.miami.com/wp-content/themes/miami/images/sg/img-16x9.png)
 
 ### Related:
 

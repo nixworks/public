@@ -8,6 +8,7 @@ Humanitarian organisations take advantage of a five-day truce to get aid into Ye
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-32719194)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82958000/jpg/_82958864_82958084.jpg)
 
 ### Related:
 

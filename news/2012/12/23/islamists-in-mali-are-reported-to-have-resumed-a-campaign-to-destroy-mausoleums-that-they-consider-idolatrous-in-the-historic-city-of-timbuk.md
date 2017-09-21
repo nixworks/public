@@ -8,6 +8,7 @@ Islamists in Mali are reported to have resumed a campaign to destroy mausoleums 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20833010)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64924000/jpg/_64924266_64924265.jpg)
 
 ### Related:
 

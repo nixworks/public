@@ -9,6 +9,7 @@ China proposes joint maritime drills with South East Asian nations in the hotly 
 
 1. [BBC](http://www.bbc.com/news/world-asia-34546820)
 2. [New York Times](http://www.nytimes.com/aponline/2015/10/16/world/asia/ap-as-south-china-sea.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/DF75/production/_86150275_029618858-1.jpg)
 
 ### Related:
 

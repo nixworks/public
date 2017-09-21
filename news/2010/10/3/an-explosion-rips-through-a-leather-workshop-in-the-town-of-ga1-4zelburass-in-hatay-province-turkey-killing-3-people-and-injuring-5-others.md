@@ -8,6 +8,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### Source:
 
 1. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=three-killed-in-blast-at-turkish-leather-workshop-2010-10-03)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

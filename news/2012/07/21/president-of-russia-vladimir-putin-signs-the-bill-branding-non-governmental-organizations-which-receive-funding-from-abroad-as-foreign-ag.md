@@ -9,6 +9,7 @@ Russian President Vladimir Putin has approved a law which will tighten controls 
 
 1. [Gulf News](http://gulfnews.com/news/world/other-world/putin-signs-law-branding-ngos-foreign-agents-1.1051897)
 2. [Reuters](http://www.reuters.com/article/2012/07/21/us-russia-putin-ngos-idUSBRE86K05M20120721)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120721&t=2&i=632777037&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86K0OUE00)
 
 ### Related:
 
@@ -21,3 +22,4 @@ Russian President Vladimir Putin has approved a law which will tighten controls 
 7. [Pakistan orders foreign nationals working for the Save the Children NGO to leave the country within four weeks. The Pakistani government has accused the organization of being linked to the fake vaccination program used in the hunt for Osama bin Laden. The charity and the U.S. government deny any links. ](/news/2012/09/7/pakistan-orders-foreign-nationals-working-for-the-save-the-children-ngo-to-leave-the-country-within-four-weeks-the-pakistani-government-has.md) _Context: NGO_
 8. [ The non-governmental organization Freedom House ranks Burma, Cuba, Libya, North Korea, Sudan, Syria, Turkmenistan, and Uzbekistan as the worst violators of human rights. FH also cited Tibet and Chechnya as areas of intense repression. ](/news/2006/09/8/the-non-governmental-organization-freedom-house-ranks-burma-cuba-libya-north-korea-sudan-syria-turkmenistan-and-uzbekistan-as-the-wo.md) _Context: NGO_
 9. [ A number of non-governmental organizations meet in Geneva, Switzerland in the World Water Forum. They call for water to be treated as a common asset instead of being privatized. ](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.md) _Context: NGO_
+10. [ The NGO aid agency Mdecins Sans Frontires ends work in Iraq due to the "escalating violence" and "the warring parties have repeatedly shown their disrespect for independent humanitarian assistance." ](/news/2004/11/4/the-ngo-aid-agency-medecins-sans-frontieres-ends-work-in-iraq-due-to-the-escalating-violence-and-the-warring-parties-have-repeatedly-sho.md) _Context: NGO_

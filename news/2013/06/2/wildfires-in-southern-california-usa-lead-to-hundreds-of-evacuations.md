@@ -8,6 +8,7 @@ LOS ANGELES -- Firefighters worked to protect hundreds of homes threatened by a 
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/06/02/wildfires-california-mexico-evacuation/2381805/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

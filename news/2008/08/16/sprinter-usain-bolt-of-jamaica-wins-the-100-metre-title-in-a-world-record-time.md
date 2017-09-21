@@ -8,6 +8,7 @@ Jamaican sprinter Usain Bolt crushed the world record in the 100 meters in theat
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/08/17/sports/olympics/17track.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/08/16/sports/olympics/16bolt-75.jpg)
 
 ### Related:
 

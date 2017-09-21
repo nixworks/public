@@ -8,3 +8,4 @@ Observations at many sites in South America, including ESO’s La Silla Observat
 ### Source:
 
 1. [ESO](http://www.eso.org/public/news/eso1410)
+1. [Cover Image](http://cdn.eso.org/images/screen/eso1410a.jpg)

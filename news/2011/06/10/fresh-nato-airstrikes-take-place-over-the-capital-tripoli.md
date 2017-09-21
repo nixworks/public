@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/201161042635287251.html)
 2. [All Africa](http://allafrica.com/stories/201106100249.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/10/20116105811774580_20.jpg)
 
 ### Related:
 

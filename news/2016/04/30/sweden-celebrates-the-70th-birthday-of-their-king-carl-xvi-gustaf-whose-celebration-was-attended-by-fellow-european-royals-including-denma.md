@@ -8,6 +8,7 @@ Sweden’s King Carl XVI Gustaf may be young compared to Britain’s Queen Eliza
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2016/04/30/sweden-celebrates-70th-birthday-of-king-carl-xvi-gustaf/)
+1. [Cover Image](http://static.euronews.com/articles/331468/1000x563_331468.jpg)
 
 ### Related:
 

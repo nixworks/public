@@ -9,6 +9,7 @@ Six soldiers from an elite Libyan army unit are killed by masked gunmen in the r
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22917788)
 2. [Reuters](http://www.reuters.com/article/2013/06/15/libya-attack-benghazi-idUSL5N0ER04Q20130615)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68190000/jpg/_68190426_018258575.jpg)
 
 ### Related:
 

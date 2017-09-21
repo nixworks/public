@@ -9,6 +9,7 @@ The eurozone has emerged from recession after 18 months of economic contraction,
 
 1. [BBC](http://www.bbc.co.uk/news/business-23692102)
 2. [The Guardian](http://www.theguardian.com/business/2013/aug/14/eurozone-recession-germany-france-crisis)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69275000/jpg/_69275127_69275122.jpg)
 
 ### Related:
 

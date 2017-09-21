@@ -10,6 +10,7 @@ Plane crashed in navy housing colony minutes after taking off; 11 dead.
 1. [Reuters](http://www.reuters.com/article/idUSTRE6AQ1UM20101128)
 2. [The Star](http://www.thestar.com/news/world/article/897860--cargo-plane-crash-in-pakistan-kills-8)
 3. [Tribune](http://tribune.com.pk/story/82925/cargo-plane-crashes-in-karachi/)
+3. [Cover Image](https://c.tribune.com.pk/2010/11/Another1-640x480.jpg)
 
 ### Related:
 

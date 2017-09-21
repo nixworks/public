@@ -8,6 +8,7 @@ One person was killed and another seriously injured when a crane suddenly crashe
 ### Source:
 
 1. [India Times](http://timesofindia.indiatimes.com/city/chennai/1-dead-as-crane-crashes-at-Chennai-airport/articleshow/6082265.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

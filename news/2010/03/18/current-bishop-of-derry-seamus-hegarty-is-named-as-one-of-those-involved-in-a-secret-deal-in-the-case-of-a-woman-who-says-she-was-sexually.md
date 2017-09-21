@@ -12,3 +12,4 @@ The Catholic Church in Northern Ireland has been dealt another hammer blow after
 3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/ulster-bishop-hegartys--secret-deal-on-sex-abuse-case-14728777.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/mar/18/irish-catholic-church-child-abuse)
 5. [The Times](http://www.timesonline.co.uk/tol/comment/faith/article7066859.ece)
+5. [Cover Image](http://www.belfasttelegraph.co.uk/migration_catalog/article25682071.ece/ALTERNATES/h342/Bishop%20Seamus%20Hegarty)

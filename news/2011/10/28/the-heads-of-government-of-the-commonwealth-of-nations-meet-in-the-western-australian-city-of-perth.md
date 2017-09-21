@@ -11,6 +11,7 @@ Behind the scenes at the Commonwealth Heads of Government Meeting in Perth there
 2. [ABC News Australia](http://www.abc.net.au/news/2011-10-28/perth-protesters-begin-gathering/3605952?section=wa)
 3. [BBC](http://www.bbc.co.uk/news/uk-15492607)
 4. [The Telegraph](http://www.telegraph.co.uk/news/uknews/theroyalfamily/8854981/Centuries-old-rule-of-primogeniture-in-Royal-Family-scrapped.html)
+4. [Cover Image](http://www.abc.net.au/news/image/3605732-1x1-700x700.jpg)
 
 ### Related:
 

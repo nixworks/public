@@ -8,6 +8,7 @@ Two inmates at Kirkland Correctional Institution lured the four inmates to a cel
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/authorities-4-inmates-found-dead-south-carolina-prison-n744076)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_14/1958996/denver_jordan_simmons_37633-jpg-4352a_54fe8db25e3db0080104cb1405a04a47.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

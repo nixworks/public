@@ -8,6 +8,7 @@ Hurricane-force winds leave thousands of homes without power while a search cont
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1637724/storm-imogen-set-to-batter-uk-with-80mph-winds)
+1. [Cover Image](http://e3.365dm.com/16/02/1600x900/gettyimages-509063632-1-2048x1536_3412918.jpg?20160208190804)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Reuters](http://uk.reuters.com/article/2014/05/02/uk-egypt-violence-idUKKBN0DI07A20140502)
 2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/egypt-suicide-bombers-hit-in-sinai-kill-soldier/2014/05/02/af05d932-d1ba-11e3-a714-be7e7f142085_story.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140502&t=2&i=893655843&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA410F9)
 
 ### Related:
 

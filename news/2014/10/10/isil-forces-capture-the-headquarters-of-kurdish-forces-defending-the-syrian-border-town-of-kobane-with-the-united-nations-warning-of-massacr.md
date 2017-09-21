@@ -8,6 +8,7 @@ IS group militants have overrun the headquarters of Kurdish forces defending the
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/10/11/capture-hq-kobane-un-sends-massacre-warning)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/turkish_soldiers_near_kobane_101014_aap.jpg)
 
 ### Related:
 

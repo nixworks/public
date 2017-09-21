@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/201011221434144409.html)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6254326,00.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/15/2010111595450690360_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A bold Los Angeles Times experiment in letting readers rewrite the paper&#8217;s
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/4114312.stm)
 2. [MSNBC](http://www.msnbc.msn.com/id/8300420)
+2. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

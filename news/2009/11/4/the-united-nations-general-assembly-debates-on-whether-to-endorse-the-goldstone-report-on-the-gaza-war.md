@@ -8,6 +8,7 @@ The U.N. is expected to endorse a report that found evidence that Israel and Pal
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/11/05/world/middleeast/05nations.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

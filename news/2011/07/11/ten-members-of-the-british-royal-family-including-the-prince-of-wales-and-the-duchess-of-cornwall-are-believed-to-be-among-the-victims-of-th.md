@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/business-14112465)
 2. [The Guardian](http://www.guardian.co.uk/media/2011/jul/11/phone-hacking-charles-camilla)
 3. [The Guardian](http://www.guardian.co.uk/media/2011/jul/11/phone-hacking-news-international-gordon-brown)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53770000/jpg/_53770887_sky_afp.jpg)
 
 ### Related:
 

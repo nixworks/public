@@ -8,6 +8,7 @@ At least 30 people were killed and scores more injured when a fuel tanker explod
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/30/us-uganda-tanker-explosion-idUSBRE95T09320130630)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130630&t=2&i=746231295&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95T14G700)
 
 ### Related:
 

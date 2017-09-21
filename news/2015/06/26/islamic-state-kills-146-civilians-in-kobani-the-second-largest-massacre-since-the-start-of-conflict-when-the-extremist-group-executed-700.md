@@ -10,6 +10,7 @@ ISIS may be trying a diversionary tactic in the city it lost to the Kurds six mo
 1. [AFP via Yahoo! News](http://news.yahoo.com/suicide-blast-kills-20-syria-regime-troops-monitor-173006076.html;_ylt=AwrC1zEjkY1VqHkA2czQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
 2. [IBT](http://www.ibtimes.com/kobani-clashes-least-146-civilians-killed-kurdish-ypg-fighters-move-east-toward-isis-1984066)
 3. [VOA NEWS](http://www.voanews.com/content/islamic-state-kills-civilians-in-kobani/2838036.html)
+3. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/06/25/kobani.jpg)
 
 ### Related:
 

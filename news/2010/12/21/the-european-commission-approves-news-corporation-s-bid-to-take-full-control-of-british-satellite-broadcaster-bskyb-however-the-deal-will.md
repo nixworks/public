@@ -9,6 +9,7 @@ Business Secretary Vince Cable will stay in his job despite saying he had &quot;
 
 1. [BBC](http://www.bbc.co.uk/news/business-12050296)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-12053656)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/50528000/jpg/_50528475_010888868-1.jpg)
 
 ### Related:
 

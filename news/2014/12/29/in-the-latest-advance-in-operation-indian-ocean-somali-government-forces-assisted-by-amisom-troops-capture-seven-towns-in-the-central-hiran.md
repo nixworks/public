@@ -8,6 +8,7 @@ Somali government forces aided by African Union peacekeepers...
 ### Source:
 
 1. [Garowe Online](http://www.garoweonline.com/page/show/post/1343/somalia-federal-govt-au-forces-liberate-new-areas-in-hiran)
+1. [Cover Image](http://www.garoweonline.com/upload/images/Article/1453119707.830b6/main/og.jpeg)
 
 ### Related:
 

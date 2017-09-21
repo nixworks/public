@@ -10,6 +10,7 @@
 1. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1707028,00.html)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L18330303.htm)
 3. [WHO press release](http://www.who.int/csr/don/2005_05_18/en/)
+3. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Wildfires scorched more than 230,000 acres in Texas on Sunday, roaring through a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/04/11/us-wildfires-texas-idUSTRE7383DF20110411?feedType=RSS&feedName=domesticNews)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

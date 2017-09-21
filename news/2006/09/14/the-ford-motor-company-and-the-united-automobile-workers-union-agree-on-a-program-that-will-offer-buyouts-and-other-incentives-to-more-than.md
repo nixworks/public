@@ -8,6 +8,7 @@ The U.A.W. agreed on a program to offer buyouts of up to $140,000 to all of Ford
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2006/09/14/business/15fordcnd.html?_r=1&adxnnl=1&oref=slogin&ref=business&adxnnlx=1158264013-8hwlfxkzFau8sr1MAy9B7A)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

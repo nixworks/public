@@ -8,6 +8,7 @@ Scotland Yard has said that it has received a complaint about an article written
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1018/gatelys.html)
+1. [Cover Image](https://img.rasset.ie/0002ae9a-1600.jpg)
 
 ### Related:
 

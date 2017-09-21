@@ -8,6 +8,7 @@ Activision Blizzard is trying to sue the creators of cheats that allow Starcraft
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-27511932)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75013000/jpg/_75013117_wc.jpg)
 
 ### Related:
 

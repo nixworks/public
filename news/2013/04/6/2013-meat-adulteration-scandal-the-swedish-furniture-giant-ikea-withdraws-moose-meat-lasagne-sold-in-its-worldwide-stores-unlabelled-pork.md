@@ -8,6 +8,7 @@ Ikea confirms its has withdrawn nearly 18,000 of its elk meat lasagne dishes fro
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22051117)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66781000/jpg/_66781097_elk_getty.jpg)
 
 ### Related:
 

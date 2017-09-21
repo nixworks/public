@@ -8,6 +8,7 @@ A private, unmanned rocket exploded seconds after launching from NASA&apos;s Wal
 ### Source:
 
 1. [The Baltimore Sun](http://www.baltimoresun.com/health/maryland-health/bs-md-nasa-antares-explosion-20141028-story.html)
+1. [Cover Image](http://www.trbimg.com/img-54502330/turbine/bs-md-nasa-antares-explosion-20141028)
 
 ### Related:
 

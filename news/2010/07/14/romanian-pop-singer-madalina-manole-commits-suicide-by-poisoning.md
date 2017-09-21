@@ -8,6 +8,7 @@ Prosecutors say Romanian singer Madalina Manole, who was found dead Wednesday mo
 ### Source:
 
 1. [Mediafax](http://www.mediafax.ro/english/romanian-singer-madalina-manole-willingly-ingested-toxic-substance-investigators-say-6555098/)
+1. [Cover Image](http://storage0.dms.mpinteractiv.ro/media/1/1/6966/6555098/1/madalina-manole-deces-2-liviu-adascalitei.jpg?width=300&height=300)
 
 ### Related:
 

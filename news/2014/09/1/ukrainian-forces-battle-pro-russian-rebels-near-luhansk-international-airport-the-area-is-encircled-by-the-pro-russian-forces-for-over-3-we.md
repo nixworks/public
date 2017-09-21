@@ -9,6 +9,7 @@ Ukrainian troops abandon Luhansk airport after clashes with pro-Russian rebels, 
 
 1. [BBC](http://www.bbc.com/news/world-europe-29009516)
 2. [BBC](http://www.bbc.com/news/world-europe-29017736)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77295000/jpg/_77295008_77295007.jpg)
 
 ### Related:
 

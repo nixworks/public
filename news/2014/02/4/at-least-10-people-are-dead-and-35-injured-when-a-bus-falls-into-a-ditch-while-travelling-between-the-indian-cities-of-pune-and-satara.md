@@ -8,6 +8,7 @@ Ten people died and 35 others were injured as a bus fell into a ditch on the Pun
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/cities/10-dead-35-injured-as-bus-falls-into-ditch-on-pune-satara-highway-478941)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-02/Pune-satara-highway-accident-360x270_4.jpg)
 
 ### Related:
 

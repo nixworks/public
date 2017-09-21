@@ -8,3 +8,4 @@ SEOUL (AFP/REUTERS) - South Korea recorded its sixth death and biggest single-da
 ### Source:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/news/asia/east-asia/story/south-korea-reports-6th-death-mers-biggest-single-day-jump-infections-2015)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/06/08/SKOREAHEALTHMERS1150608e_2x.jpg?itok=bSINVgzf)

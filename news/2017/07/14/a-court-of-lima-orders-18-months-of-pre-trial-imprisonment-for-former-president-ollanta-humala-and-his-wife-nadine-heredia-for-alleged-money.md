@@ -8,6 +8,7 @@ The former leader and his wife hand themselves in while corruption charges are p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-40605823)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/ADCC/production/_96929444_e55f3734-ac5e-429d-bf7d-a37640fcc6e6.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Anchor and network reach tentative agreement for undisclosed new role
 ### Source:
 
 1. [The Wrap](http://www.thewrap.com/brian-williams-to-stay-at-nbc-but-not-nightly-news/)
+1. [Cover Image](http://www.thewrap.com/wp-content/uploads/2015/06/williams-holt.jpg)
 
 ### Related:
 

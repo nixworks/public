@@ -8,6 +8,7 @@ Libyan militia leader and alleged human smuggler reportedly killed by Italian sp
 ### Source:
 
 1. [Malta Today](http://www.maltatoday.com.mt/news/world/57544/libyan_human_trafficker_reportedly_killed_by_italian_commandos#.VgaOr5dSJFQ)
+1. [Cover Image](http://content.maltatoday.com.mt/ui_frontend/thumbnail/684/400/zuwara-libya-asylum-seekers-drowned.png)
 
 ### Related:
 

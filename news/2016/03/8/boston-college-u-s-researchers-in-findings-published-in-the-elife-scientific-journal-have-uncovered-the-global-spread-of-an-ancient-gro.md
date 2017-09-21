@@ -9,6 +9,7 @@ Scientists have learned a bit more about the history of ancient viruses that exi
 
 1. [American Association for the Advancement of Science](http://www.eurekalert.org/pub_releases/2016-03/e-suh030716.php)
 2. [Headlines & Global News](http://www.hngn.com/articles/186242/20160308/the-history-of-ancient-viruses-that-existed-30-million-years-ago-is-uncovered.htm)
+2. [Cover Image](http://images.hngn.com/data/images/full/208884/retrovirus-labeled-granule-neurons.jpg)
 
 ### Related:
 

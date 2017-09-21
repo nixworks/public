@@ -8,6 +8,7 @@ Syrian government forces and rebel fighters in a besieged Damascus suburb have a
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/12/26/uk-syria-crisis-truce-idUKBRE9BP06R20131226)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

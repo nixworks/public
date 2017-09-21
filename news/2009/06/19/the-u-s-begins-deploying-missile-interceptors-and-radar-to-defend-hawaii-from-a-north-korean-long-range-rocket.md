@@ -9,6 +9,7 @@ The Pentagon said that it planned to &#8220;vigorously enforce&#8221; sanctions 
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hAc81qG0OSY9YKzkWwx9dbA54EzA)
 2. [The New York Times](http://www.nytimes.com/2009/06/19/world/19military.html?_r=1&ref=world)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

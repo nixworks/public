@@ -8,6 +8,7 @@ Minister says bomb attack in Marrakesh set off by remote-control device bearing 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/201142921533127634.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/29/201142922331492427_20.jpg)
 
 ### Related:
 

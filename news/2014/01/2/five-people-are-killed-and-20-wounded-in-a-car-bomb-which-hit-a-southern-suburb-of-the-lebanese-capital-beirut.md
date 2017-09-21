@@ -8,6 +8,7 @@ A car bomb explodes in a southern suburb of the Lebanese capital Beirut, killing
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25577642)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72046000/jpg/_72046312_72046311.jpg)
 
 ### Related:
 

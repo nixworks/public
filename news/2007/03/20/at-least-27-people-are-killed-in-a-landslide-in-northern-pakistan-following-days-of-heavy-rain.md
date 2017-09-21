@@ -8,6 +8,7 @@ A landslide triggered by heavy rain swept away three homes in northern Pakistan 
 ### Source:
 
 1. [Reuters via the Irish Times](http://www.irishtimes.com/newspaper/breaking/2007/0321/breaking7.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

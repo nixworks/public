@@ -10,6 +10,7 @@ Twitter and Facebook suffered service problems today, raising speculation that t
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8189162.stm)
 2. [CNN](http://edition.cnn.com/2009/TECH/08/06/twitter.attack/)
 3. [RTÉ](http://www.rte.ie/news/2009/0806/twitter.html)
+3. [Cover Image](https://img.rasset.ie/0002120a-1600.jpg)
 
 ### Related:
 

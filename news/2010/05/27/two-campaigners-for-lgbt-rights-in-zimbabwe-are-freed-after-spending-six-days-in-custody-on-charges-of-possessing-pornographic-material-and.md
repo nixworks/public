@@ -10,6 +10,7 @@ Two campaigners for gay rights in Zimbabwe are freed after spending six days in 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10178826.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100527183932949C146175)
 3. [News24.com](http://www.news24.com/Africa/Zimbabwe/Zim-frees-2-gay-group-staff-20100527)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Irish police say a detective shot dead in an attempted robbery near Dundalk in C
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21204409)
 2. [RTÉ](http://www.rte.ie/news/2013/0125/364600-garda-louth-shot/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65525000/jpg/_65525848_d-gardadonohoe(3).jpg)
 
 ### Related:
 

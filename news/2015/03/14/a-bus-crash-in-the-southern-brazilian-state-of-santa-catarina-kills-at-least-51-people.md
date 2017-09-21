@@ -9,6 +9,7 @@ The death toll from a tour bus&#x27;s horrific plunge into a densely wooded ravi
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/bus-crash-kills-30-brazil-001702773.html;_ylt=AwrSyCXk0QRVpW8AwLHQtDMD)
 2. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-2995365/Up-51-dead-bus-crash-southern-Brazil.html)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/QC0cVU.AaYmAjg31GwSu6A--/aD03ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/9457e7073e4413321c9c2dc57319b46162ece648.jpg)
 
 ### Related:
 

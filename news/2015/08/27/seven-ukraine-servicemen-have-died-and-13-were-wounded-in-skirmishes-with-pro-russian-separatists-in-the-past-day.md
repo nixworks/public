@@ -8,6 +8,7 @@ Seven Ukrainian servicemen have been killed and 13 wounded in fighting with pro-
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/27/us-ukraine-crisis-casualties-idUSKCN0QW13Q20150827?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150827&t=2&i=1074915358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7Q0GE)
 
 ### Related:
 

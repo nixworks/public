@@ -8,6 +8,7 @@ Thousands of demonstrators marked the anniversaries of the U.S. invasion of Iraq
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/03/18/us/18protest.html?ex=1331870400&en=48d354bff855b4c7&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/03/18/us/18protestors.75..jpg)
 
 ### Related:
 

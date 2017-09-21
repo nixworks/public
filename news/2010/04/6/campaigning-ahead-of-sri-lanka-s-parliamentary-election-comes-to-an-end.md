@@ -8,6 +8,7 @@ Opposition vows to deny ruling party the majority needed to enact constitution c
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201045204313325510.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Human teeth dating back 400,000 years, found in a cave near Rosh HaAyin are the 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jYU4h8Hx0oKxhOJbe8LNQXlBsNNQ?docId=CNG.931a94a2c7ebe97a39cda7089b78517d.2f1)
 2. [Press TV](http://www.presstv.ir/detail/157621.html)
 3. [The Hindu](http://www.thehindu.com/news/international/article1011760.ece)
+3. [Cover Image](http://www.thehindu.com/migration_catalog/article15564475.ece/ALTERNATES/LANDSCAPE_615/TH29-ISRAEL-ARCHEAOLOGY)
 
 ### Related:
 

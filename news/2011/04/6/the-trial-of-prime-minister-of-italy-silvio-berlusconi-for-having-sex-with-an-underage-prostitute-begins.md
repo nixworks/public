@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/04/06/us-italy-berlusconi-idUSTRE73453Y20110406?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110406&t=2&i=380291350&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-06T132340Z_01_BTRE735117J00_RTROPTP_0_ITALY-BERLUSCONI)
 
 ### Related:
 

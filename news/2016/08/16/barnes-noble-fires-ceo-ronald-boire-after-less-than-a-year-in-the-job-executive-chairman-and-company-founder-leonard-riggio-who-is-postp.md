@@ -9,6 +9,7 @@ Barnes & Noble Inc said on Tuesday Chief Executive Ronald Boire would leave, aft
 
 1. [Reuters](http://www.reuters.com/article/us-barnes-noble-moves-ceo-idUSKCN10R2BV?il=0)
 2. [USA Today](http://www.usatoday.com/story/money/business/2016/08/16/barnes-noble-fires-ceo/88867342/)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160816&t=2&i=1149945170&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7F1JB)
 
 ### Related:
 

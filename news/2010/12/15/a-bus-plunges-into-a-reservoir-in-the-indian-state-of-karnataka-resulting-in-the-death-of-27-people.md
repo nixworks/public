@@ -8,6 +8,7 @@ Nearly 30 people die as a bus carrying wedding guests plunges into a reservoir i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11997225)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

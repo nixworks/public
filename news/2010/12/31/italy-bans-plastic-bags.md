@@ -8,6 +8,7 @@ A ban on plastic bags is about to come into effect in Italy, where about 20 bill
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12097605)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

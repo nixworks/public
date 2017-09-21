@@ -8,6 +8,7 @@ Supporters of the bill say it is not clear the measure that would make unionizat
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/03/11/business/11labor.html?ref=business)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

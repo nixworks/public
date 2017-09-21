@@ -8,6 +8,7 @@ Libertarian Party presidential candidate Gary Johnson and Green Party hopeful Ji
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-election-debate-idUSKCN11M270?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160916&t=2&i=1153841384&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8F1KU)
 
 ### Related:
 

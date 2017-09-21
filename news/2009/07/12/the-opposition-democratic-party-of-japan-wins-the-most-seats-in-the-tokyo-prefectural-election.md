@@ -9,6 +9,7 @@ Japan&#039;s main opposition party won the most seats in the Tokyo metropolitan 
 
 1. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=449122)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/japan/5811423/Japans-opposition-party-wins-crucial-election.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01361/taro_aso_1361691a.jpg)
 
 ### Related:
 

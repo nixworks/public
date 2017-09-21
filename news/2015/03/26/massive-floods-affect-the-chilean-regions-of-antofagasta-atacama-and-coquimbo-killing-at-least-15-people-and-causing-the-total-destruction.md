@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wikinews in Spanish](https://es.wikinews.org/wiki/Inundaciones_dejan_estragos_en_Chile)
+1. [Cover Image](https://upload.wikimedia.org/wikipedia/commons/b/b3/MonthlyMeanT.gif)
 
 ### Related:
 

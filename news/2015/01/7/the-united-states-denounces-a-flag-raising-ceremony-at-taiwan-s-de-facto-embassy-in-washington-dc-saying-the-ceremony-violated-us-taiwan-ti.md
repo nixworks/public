@@ -8,6 +8,7 @@ The United States on Tuesday denounced a flag-raising ceremony at Taiwan&#x27;s 
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/us-anger-raising-taiwan-flag-washington-211205938.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/T7nkH3c7b391WKKN9mtBVg--/aD0xNjk2O3c9MjU0NDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/afp.com/f39c224849ae536991f4b0c0fc22e43b6eee1a36.jpg)
 
 ### Related:
 

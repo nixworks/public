@@ -8,6 +8,7 @@ U.S. forces raided the Iranian consulate in the mainly Kurdish city of Erbil in 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2007/01/11/world/middleeast/11cnd-raid.html?em&ex=1168664400&en=f6c9aa50784b7474&ei=5087%0A)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

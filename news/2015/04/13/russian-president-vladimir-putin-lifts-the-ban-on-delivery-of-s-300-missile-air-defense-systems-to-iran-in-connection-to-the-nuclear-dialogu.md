@@ -8,6 +8,7 @@ The Russian president has repealed the ban prohibiting the delivery of S-300 mis
 ### Source:
 
 1. [RT](http://rt.com/news/249229-russia-s300-delivery-iran/)
+1. [Cover Image](https://img.rt.com/files/news/3c/d8/d0/00/russia-s300-delivery-iran.si.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Prime Minister Johanna Sigurdardottir, buoyed by an election victory, said she w
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/apr/25/iceland-election-gay-prime-minister)
 2. [The New York Times](http://www.nytimes.com/2009/04/27/world/europe/27iceland.html?partner=rss&emc=rss)
+2. [Cover Image](https://static01.nyt.com/images/2009/04/27/world/27icelandA-75.jpg)
 
 ### Related:
 

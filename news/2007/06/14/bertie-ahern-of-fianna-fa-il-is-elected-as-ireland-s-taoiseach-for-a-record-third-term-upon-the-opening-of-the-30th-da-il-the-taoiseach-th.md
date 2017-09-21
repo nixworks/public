@@ -8,6 +8,7 @@ The Taoiseach has said that a new Fianna Fáil face will be appointed to a senio
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0614/election.html)
+1. [Cover Image](https://img.rasset.ie/0000e78b-1600.jpg)
 
 ### Related:
 

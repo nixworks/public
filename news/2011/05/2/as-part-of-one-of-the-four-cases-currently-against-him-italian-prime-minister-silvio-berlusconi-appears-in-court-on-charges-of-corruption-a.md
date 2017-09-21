@@ -8,6 +8,7 @@ Italian Prime Minister Silvio Berlusconi appears in court, lambasting prosecutor
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13260001)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52451000/jpg/_52451639_52451638.jpg)
 
 ### Related:
 

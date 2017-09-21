@@ -8,6 +8,7 @@ The top Philippine anti-corruption official resigns weeks after politicians vote
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13237826)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52398000/jpg/_52398497_011856790-1.jpg)
 
 ### Related:
 

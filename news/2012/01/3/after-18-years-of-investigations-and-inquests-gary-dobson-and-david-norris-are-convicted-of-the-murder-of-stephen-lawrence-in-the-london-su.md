@@ -9,6 +9,7 @@ Two men are convicted of the racist murder of black teenager Stephen Lawrence 18
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16347956)
 2. [The Independent](http://www.independent.co.uk/news/uk/crime/gary-dobson-and-david-norris-sentenced-6284752.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57674000/jpg/_57674869_jex_1278541_de52-1.jpg)
 
 ### Related:
 

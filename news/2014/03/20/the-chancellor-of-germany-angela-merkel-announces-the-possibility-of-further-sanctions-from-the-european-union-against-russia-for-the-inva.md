@@ -9,6 +9,7 @@ German Chancellor Angela Merkel says Russia will face escalating EU sanctions if
 
 1. [BBC](http://www.bbc.com/news/world-europe-26659578)
 2. [Reuters](http://www.reuters.com/article/2014/03/20/us-ukraine-crisis-obama-idUSBREA2J1ER20140320)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/73692000/jpg/_73692731_021594251.jpg)
 
 ### Related:
 

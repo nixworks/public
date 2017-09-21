@@ -10,6 +10,7 @@ Scientists are restarting a giant sub-atomic particle collider built to reproduc
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8371662.stm)
 2. [Reuters](http://www.reuters.com/article/scienceNews/idUSTRE5AJ3TQ20091120)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/science/large-hadron-collider/6619091/Large-Hadron-Collider-restarts-after-14-months-of-repairs.html)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091120&t=2&i=15500319&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-20T220622Z_01_BTRE5AJ1PER00_RTROPTP_0_CERN)
 
 ### Related:
 

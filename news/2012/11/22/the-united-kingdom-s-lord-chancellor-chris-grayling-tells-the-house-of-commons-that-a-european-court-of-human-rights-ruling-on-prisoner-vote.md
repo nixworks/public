@@ -8,6 +8,7 @@ The government unveils plans which could allow some prisoners to vote - but tell
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20431995)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64294000/jpg/_64294765_64294764.jpg)
 
 ### Related:
 

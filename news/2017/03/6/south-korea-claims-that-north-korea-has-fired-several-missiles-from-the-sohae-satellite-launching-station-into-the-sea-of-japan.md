@@ -9,6 +9,7 @@ North Korea has fired several missiles into the sea, says South Korea.
 
 1. [Agencies via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/north-korea-fires-multiple-missiles-into-sea-seoul/3570960.html)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2017/03/05/518695871/s-korea-n-korea-test-fires-handful-of-unknown-projectiles-into-japan-waters)
+2. [Cover Image](http://www.channelnewsasia.com/image/3571154/1488815197000/large16x9/640/360/north-korea-missiles-mar-6-woman-in-seoul.jpg)
 
 ### Related:
 

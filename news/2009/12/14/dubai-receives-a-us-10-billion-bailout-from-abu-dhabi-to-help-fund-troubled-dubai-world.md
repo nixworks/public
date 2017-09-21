@@ -10,6 +10,7 @@ Abu Dhabi and UAE Central Bank give 10b in support Dubai World welcomes decision
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/2009121454243401178.html)
 2. [CCTV](http://english.cctv.com/program/bizchina/20091214/102922.shtml)
 3. [Gulf News](http://gulfnews.com/business/economy/nakheel-bond-to-be-paid-in-full-1.553344)
+3. [Cover Image](http://static.gulfnews.com/polopoly_fs/1.542997!/image/3603958862.jpg_gen/derivatives/box_460346/3603958862.jpg)
 
 ### Related:
 

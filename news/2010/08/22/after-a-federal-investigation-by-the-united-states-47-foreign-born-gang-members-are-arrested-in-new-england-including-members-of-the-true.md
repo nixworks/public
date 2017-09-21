@@ -8,6 +8,7 @@ The arrests were among 47 – 28 of them known gang members -- by federal author
 ### Source:
 
 1. [Portland Press Herald](http://www.pressherald.com/news/24-with-gang-links-arrested-in-maine-cities-during-sweep-_2010-08-21.html)
+1. [Cover Image](http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png)
 
 ### Related:
 

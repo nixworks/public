@@ -8,6 +8,7 @@ Fourteen soldiers and tribesmen have been killed in an attack by suspected al-Qa
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27711290)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75319000/jpg/_75319021_75319020.jpg)
 
 ### Related:
 

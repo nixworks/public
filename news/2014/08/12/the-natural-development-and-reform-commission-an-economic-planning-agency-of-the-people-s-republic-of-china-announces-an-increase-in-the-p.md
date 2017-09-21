@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Dow Jones](http://www.nasdaq.com/article/china-to-raise-nonresidential-naturalgas-prices-20140812-00626)
+1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)
 
 ### Related:
 

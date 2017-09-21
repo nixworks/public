@@ -9,6 +9,7 @@ More than 4,000 ethnic Hmong returned to Laos after being deported from Thailand
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/2009122965747934902.html)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/163932/safety-fears-for-hmong-after-expulsion)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

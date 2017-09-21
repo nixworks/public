@@ -17,6 +17,7 @@ Protests against an anti-Islam film made in the US spread, as angry crowds gathe
 8. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443524904577649891086383820.html)
 9. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443884104577647691429314660.html)
 10. [Youtube](https://www.youtube.com/watch?v=LoBwR9KEGUc)
+10. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62870000/jpg/_62870461_62870460.jpg)
 
 ### Related:
 

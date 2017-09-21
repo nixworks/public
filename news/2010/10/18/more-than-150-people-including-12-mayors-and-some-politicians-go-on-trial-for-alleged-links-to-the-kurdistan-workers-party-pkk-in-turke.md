@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/20101018124939299529.html)
 2. [Today's Zaman](http://www.todayszaman.com/tz-web/news-224729-101-defense-in-kurdish-marks-first-day-of-kck-trial.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/18/20101018135758712965_20.jpg)
 
 ### Related:
 

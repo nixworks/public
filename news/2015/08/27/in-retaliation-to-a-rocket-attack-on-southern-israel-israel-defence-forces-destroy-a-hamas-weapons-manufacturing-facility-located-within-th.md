@@ -8,6 +8,7 @@ Hamas weapons factory targeted by Israel Air Force; rocket launched from Gaza ex
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/.premium-1.673150)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/7.1167392.1405633766!/image/2924993535.jpg_gen/derivatives/headline_1200x630/2924993535.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/mar/27/easter-rising-centenary-to-be-marked-in-dublin-gpo-amid-heavy-security)
+1. [Cover Image](https://i.guim.co.uk/img/media/b67a9295fefcf1aeeec8f4dea7fb72c664cced96/0_124_3200_1921/master/3200.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4397a7b717a9110ebdb48eadf683ed96)
 
 ### Related:
 

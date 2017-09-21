@@ -9,6 +9,7 @@ The Church of England drops its prohibition on gay clergy in civil partnerships 
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20914799)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jan/04/church-of-england-gay-bishops)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53818000/jpg/_53818037_000064254-1.jpg)
 
 ### Related:
 

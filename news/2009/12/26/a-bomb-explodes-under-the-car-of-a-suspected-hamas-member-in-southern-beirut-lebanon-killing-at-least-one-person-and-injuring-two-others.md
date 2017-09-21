@@ -9,6 +9,7 @@ At least two Palestinian Hamas officials killed in suspected attack.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/2009122620121458922.html)
 2. [Lebanese National News Agency](http://www.nna-leb.gov.lb/phpfolder/loadpage.php?page=E32.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

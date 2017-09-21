@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/20121213144316327160.html)
 2. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/13/libyan-dissident-mi6-aided-rendition)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/13/2012121315163609734_20.jpg)
 
 ### Related:
 

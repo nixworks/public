@@ -9,6 +9,7 @@ Google has agreed to pay a record fine for collecting wi-fi data as part of its 
 
 1. [AP via ABC News](http://abcnews.go.com/Technology/wireStory/google-pays-7m-fine-settle-wi-fi-privacy-18711628)
 2. [BBC](http://www.bbc.co.uk/news/technology-21762545)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66346000/gif/_66346768_streetview.gif)
 
 ### Related:
 

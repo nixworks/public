@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ABC News Online](http://www.abc.net.au/news/stories/2010/10/24/3046643.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

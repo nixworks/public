@@ -10,6 +10,7 @@ A federal judge on Friday struck down an Alabama law that required abortion prov
 1. [AP via ''Bristol Herald Courier](http://www.heraldcourier.com/news/judge-rules-state-abortion-restriction-unconstitutional/article_ae9f3c15-ae31-5a0a-babd-9e6701f31bae.html)
 2. [Alabama Media Group](http://www.al.com/news/index.ssf/2016/03/judge_strips_admitting_privile.html)
 3. [Reuters](http://www.reuters.com/article/us-alabama-abortion-idUSKCN0WR1IL)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Afghanistan&#039;s Taliban insurgents today vowed revenge against &quot;sick min
 1. [ABC News](http://www.abc.net.au/news/2012-03-13/afghan-lawmakers-demand-us-soldier-face-public-trial/3884856/?site=sydney)
 2. [AFP via NDTV](http://www.ndtv.com/article/world/taliban-vow-revenge-for-us-soldier-s-rampage-184965)
 3. [Deutsche Welle](http://www.dw.de/dw/article/0,,15803274,00.html)
+3. [Cover Image](http://i.ndtvimg.com/mt/2012-03/Afghan_US_295x200.jpg)
 
 ### Related:
 

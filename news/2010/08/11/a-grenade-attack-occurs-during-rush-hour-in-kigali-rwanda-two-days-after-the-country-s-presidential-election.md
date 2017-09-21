@@ -8,6 +8,7 @@ Several people are wounded in a grenade attack in the Rwandan capital two days a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-10947177)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

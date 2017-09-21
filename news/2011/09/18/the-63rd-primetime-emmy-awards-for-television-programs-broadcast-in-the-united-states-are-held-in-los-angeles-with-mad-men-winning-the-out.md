@@ -9,6 +9,7 @@ The hit shows repeated the feat, winning the top awards for comedy and drama, wh
 
 1. [The Guardian](http://www.guardian.co.uk/tv-and-radio/2011/sep/18/emmy-awards-2011-live-blog)
 2. [USA Today](http://www.usatoday.com/life/television/televisionawards/emmys/story/2011-09-16/emmy-night-news/50457208/1)
+2. [Cover Image](http://i.usatoday.net/life/_photos/2011/09/16/Modern-Family-Mad-Men-are-2-of-the-best-M5D6CUP-x.jpg)
 
 ### Related:
 

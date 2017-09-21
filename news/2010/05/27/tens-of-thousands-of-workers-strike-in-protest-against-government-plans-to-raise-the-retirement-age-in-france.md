@@ -12,6 +12,7 @@ Thousands of workers have marched in cities in France to protest over plans to r
 3. [Bangkok Post](http://www.bangkokpost.com/news/world/179388/french-protest-as-europe-implements-austerity)
 4. [RTÉ](http://www.rte.ie/news/2010/0527/france.html)
 5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/27/AR2010052701394.html?wprss=rss_business/personalfinance)
+5. [Cover Image](https://img.rasset.ie/0003560c-1600.jpg)
 
 ### Related:
 

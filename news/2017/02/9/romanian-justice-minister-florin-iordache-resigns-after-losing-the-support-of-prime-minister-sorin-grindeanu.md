@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-romania-corruption-idUSKBN15O2HN?il=0)
 2. [actmedia](http://actmedia.eu/daily/president-of-the-senate-notifyed-the-constitutional-court-on-a-judicial-conflict-between-the-government-and-dna/67999)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170209&t=2&i=1172056873&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED181DH)
 
 ### Related:
 

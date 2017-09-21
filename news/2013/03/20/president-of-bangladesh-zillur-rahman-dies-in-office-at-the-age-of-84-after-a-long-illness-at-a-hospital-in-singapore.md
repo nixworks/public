@@ -9,6 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/bangladeshs-figurehead-president-dies-84-18770582)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21855904)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66495000/jpg/_66495782_66495781.jpg)
 
 ### Related:
 

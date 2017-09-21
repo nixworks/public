@@ -8,6 +8,7 @@ A journalist with dual Irish and British citizenship who was held captive for fo
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0909/breaking20.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A man has reportedly shot two people dead and wounded 11 people at a concert in 
 ### Source:
 
 1. [AP via 9News](http://www.9news.com.au/world/2016/05/22/16/29/gunman-reportedly-kills-two-people-at-concert-in-austria)
+1. [Cover Image](http://9news.static9.net.au/content/images/default-share-image.png)
 
 ### Related:
 

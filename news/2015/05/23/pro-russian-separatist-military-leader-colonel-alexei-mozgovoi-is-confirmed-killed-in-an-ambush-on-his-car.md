@@ -8,6 +8,7 @@ One of the top rebel commanders in eastern Ukraine, Alexei Mozgovoi, is killed i
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-32861947)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74938000/jpg/_74938555_74938554.jpg)
 
 ### Related:
 

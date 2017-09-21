@@ -9,6 +9,7 @@ U.N. members voted earlier this month to allow the Palestinian and Vatican flags
 
 1. [Newsweek](http://www.newsweek.com/palestinian-flag-raised-united-nations-first-time-378466)
 2. [The Guardian](http://www.theguardian.com/world/2015/sep/30/palestinian-flag-raised-un-statehood)
+2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2015/09/30/0930palestine-flag-flies-united-nations.jpg)
 
 ### Related:
 

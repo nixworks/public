@@ -8,6 +8,7 @@ PA president declares that elections must include West Bank and the Hamas-contro
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=208637&newsletter=170211)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=143570)
 
 ### Related:
 

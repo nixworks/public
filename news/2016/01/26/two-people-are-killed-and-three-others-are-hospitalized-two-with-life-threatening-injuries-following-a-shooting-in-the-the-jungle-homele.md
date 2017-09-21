@@ -9,6 +9,7 @@
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/two-killed-three-wounded-shooting-seattle-s-jungle-homeless-camp-n504931)
 2. [seattlepi.com](http://www.seattlepi.com/local/crime/article/As-homeless-crisis-continues-2-dead-at-notorious-6786591.php)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_04/1391736/160127-seattle-shooting-jpo-109a_115b57350098df873d38095b1c1c0883.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

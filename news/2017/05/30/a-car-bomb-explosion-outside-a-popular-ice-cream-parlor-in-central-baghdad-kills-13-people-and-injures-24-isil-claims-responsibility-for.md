@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP](https://apnews.com/904c3ca6f55d4211ad410b5665a14c0f/Bomb-kills-13,-hurts-24-in-Baghdad;-IS-claims-responsibility)
+1. [Cover Image](https://apnews.com/dist/assets/images/Twitterlogo.png)
 
 ### Related:
 

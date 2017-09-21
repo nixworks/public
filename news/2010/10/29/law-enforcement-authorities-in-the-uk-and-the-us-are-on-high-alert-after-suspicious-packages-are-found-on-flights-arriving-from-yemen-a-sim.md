@@ -10,6 +10,7 @@ A &quot;suspicious object&quot; found to contain explosives at East Midlands Air
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-leicestershire-11654004)
 2. [CNN](http://www.cnn.com/2010/US/10/29/security.concern/index.html?hpt=T1&iref=BN1)
 3. [New York Times](http://www.nytimes.com/2010/10/30/us/30plane.html?_r=1&partner=rss&emc=rss)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Egyptian police fired tear gas outside Cairo&#39;s Coptic cathedral on Sunday af
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Apr-07/212881-clashes-in-cairo-after-funeral-of-egypt-coptic-christians.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/04/07/162852_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

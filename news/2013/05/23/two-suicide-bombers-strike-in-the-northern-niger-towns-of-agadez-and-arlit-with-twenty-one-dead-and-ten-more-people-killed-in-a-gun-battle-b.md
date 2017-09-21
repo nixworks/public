@@ -8,6 +8,7 @@ Two suicide bombers have struck Northern Niger, injuring at least 16 people. A s
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2013/05/23/two-suicide-bombers-strike-in-northern-niger-towns-/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

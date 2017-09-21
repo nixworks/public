@@ -8,6 +8,7 @@ The first January Atlantic hurricane in 61 years, hit the Azores as a tropical s
 ### Source:
 
 1. [Weather Channel](http://www.weather.com/storms/hurricane/news/hurricane-alex-atlantic-ocean-azores?cm_ven=T_WX_JE_11416_3)
+1. [Cover Image](http://s.w-x.co/alex-15jan16-azores-ir.jpg)
 
 ### Related:
 

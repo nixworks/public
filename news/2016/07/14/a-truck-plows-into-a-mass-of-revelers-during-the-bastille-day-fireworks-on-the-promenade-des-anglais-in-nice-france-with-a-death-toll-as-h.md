@@ -9,6 +9,7 @@
 
 1. [Fox News](http://www.foxnews.com/world/2016/07/14/at-least-70-dead-100-injured-after-truck-drives-into-bastille-day-crowd-in-france.html)
 2. [Le Parisien](http://www.leparisien.fr/faits-divers/en-direct-attentat-a-nice-un-camion-fonce-dans-la-foule-de-nombreux-morts-14-07-2016-5967837.php)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/2016/07/14/0/0/071416_france_truck2_1280.jpg?ve=1)
 
 ### Related:
 

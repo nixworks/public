@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Economic Times](http://economictimes.indiatimes.com/news/international/world-news/chinas-first-lunar-probe-change-3-enters-moons-orbit/articleshow/26971534.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-26971564,width-672,resizemode-4,imglength-20364/news/international/world-news/chinas-first-lunar-probe-change-3-enters-moons-orbit.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Hundreds of Palestinians stranded by latest closure of Rafah terminal
 
 1. [Huffington Post](http://www.huffingtonpost.com/2013/08/15/gaza-border-crossing-closed_n_3760699.html)
 2. [Times of Israel](http://www.timesofisrael.com/egypt-shutters-gaza-border-crossing-indefinitely/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/05/F130517ARK05.jpg)
 
 ### Related:
 

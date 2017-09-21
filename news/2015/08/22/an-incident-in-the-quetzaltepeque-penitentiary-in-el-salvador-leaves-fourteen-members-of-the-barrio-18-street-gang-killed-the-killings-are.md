@@ -8,6 +8,7 @@ Fourteen members of one of El Salvador&#x27;s most powerful street gangs were ki
 ### Source:
 
 1. [Reuters via Yahoo](http://news.yahoo.com/fourteen-killed-el-salvador-prison-gang-violence-blamed-052047556.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

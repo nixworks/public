@@ -9,6 +9,7 @@ The Pakistani army protests after two of its soldiers are injured in a clash wit
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13421568)
 2. [Reuters](http://www.reuters.com/article/2011/05/17/us-pakistan-nato-idUSTRE74G0PS20110517?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52789000/jpg/_52789742_tv007322090.jpg)
 
 ### Related:
 

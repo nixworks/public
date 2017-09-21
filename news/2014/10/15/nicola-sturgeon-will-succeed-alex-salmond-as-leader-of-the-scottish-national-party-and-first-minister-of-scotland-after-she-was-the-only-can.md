@@ -8,6 +8,7 @@ Nicola Sturgeon will succeed Alex Salmond as SNP leader and first minister, afte
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-29618913)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78230000/jpg/_78230534_hi024337145.jpg)
 
 ### Related:
 

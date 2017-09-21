@@ -8,6 +8,7 @@ A bird-hit soon after take-off downed the helicopter that killed six pilgrims fr
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/india-news/chopper-carrying-vaishno-devi-pilgrims-crashes-in-katra-6-feared-dead-1246462)
+1. [Cover Image](http://i.ndtvimg.com/i/2015-11/chopper-crash_700x431_71448265793.jpg)
 
 ### Related:
 

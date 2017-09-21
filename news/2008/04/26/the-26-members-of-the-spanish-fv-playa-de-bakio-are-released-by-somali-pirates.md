@@ -8,6 +8,7 @@
 ### Source:
 
 1. [eiTB](http://www.eitb24.com/new/en/B24_96111/life/HIJACK-ENDS-26-crew-members-Playa-Bakio-ship-released-/)
+1. [Cover Image](http://imagenes22.eitb.org/multimedia/recursos/generales/img_facebook_eitbcom.jpg)
 
 ### Related:
 

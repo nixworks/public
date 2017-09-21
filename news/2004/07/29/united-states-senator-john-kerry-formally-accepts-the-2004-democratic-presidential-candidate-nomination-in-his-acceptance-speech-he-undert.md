@@ -8,6 +8,7 @@ After pledging to &#8220;restore trust and credibility to the White House,&#8221
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/5344731/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Photos/040729/040729_kerry_730p_vmed.standard.jpg)
 
 ### Related:
 

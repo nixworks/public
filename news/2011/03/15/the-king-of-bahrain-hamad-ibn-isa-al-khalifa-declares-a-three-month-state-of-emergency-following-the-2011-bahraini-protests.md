@@ -14,6 +14,7 @@ Four men have been arrested for the murder of an Al Jazeera journalist, and rebe
 5. [Reuters via Alertnet](http://www.trust.org/alertnet/news/riot-in-moroccos-phosphates-city-over-jobs)
 6. [Sify India](http://www.sify.com/news/protests-in-yemen-after-attack-on-oil-pipeline-news-international-ldpvkojgdci.html)
 7. [The Independent](http://www.independent.co.uk/news/world/africa/libyan-rebels-arrest-gaddafi-death-squad-that-killed-journalist-2241876.html#)
+7. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/13/201131316324848360_20.jpg)
 
 ### Related:
 

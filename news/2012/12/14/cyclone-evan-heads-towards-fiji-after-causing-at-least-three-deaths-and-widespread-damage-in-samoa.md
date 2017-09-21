@@ -9,6 +9,7 @@
 
 1. [ABC Australia via Weatherzone](http://www.weatherzone.com.au/news/cyclone-evan-upgraded-to-category-four/23015)
 2. [TVNZ](http://tvnz.co.nz/world-news/deadly-cyclone-leaves-samoa-total-mess-5292379)
+2. [Cover Image](http://wz5.resources.weatherzone.com.au/images/logos/wz-512x512.jpg)
 
 ### Related:
 

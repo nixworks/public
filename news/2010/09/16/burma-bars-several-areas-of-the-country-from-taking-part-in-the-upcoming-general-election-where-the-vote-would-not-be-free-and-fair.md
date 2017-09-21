@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11334399)
 2. [Mizzima](http://www.mizzima.com/news/breaking-and-news-brief/4370-elections-not-viable-in-some-ethnic-areas-poll-watchdog.html)
 3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100917/news_20100917_56_699024.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

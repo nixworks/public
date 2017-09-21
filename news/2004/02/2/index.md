@@ -1,7 +1,7 @@
 ## [2004-02-2](/news/2004/02/2/index.md)
 
 ### [ U.S. President George W. Bush announces the formation of the Iraq Intelligence Commission, an independent, bipartisan inquiry presidential commission to probe into prewar intelligence regarding weapons of mass destruction leading up to the decision to invade Iraq. Former Iraq Survey Group chief David Kay, who searched for weapons in Iraq, meets with Bush at the White House and maintains that Bush was right to go to war in Iraq and characterizes the Saddam Hussein regime as "far more dangerous than even we anticipated" when it was thought he had WMDs ready to deploy. (See rationale for the Iraq War and Senate Report on Pre-war Intelligence on Iraq)](/news/2004/02/2/u-s-president-george-w-bush-announces-the-formation-of-the-iraq-intelligence-commission-an-independent-bipartisan-inquiry-presidential.md)
-_Context: 2003 invasion of Iraq, David Kay, George W. Bush, Iraq Intelligence Commission, Iraq Survey Group, President, Saddam Hussein, Senate Report on Pre-war Intelligence on Iraq, War in Iraq, White House, pre-war intelligence, weapons of mass destruction_
+_Context: 2003 invasion of Iraq, David Kay, George W. Bush, Iraq Intelligence Commission, Iraq Survey Group, Saddam Hussein, Senate Report on Pre-war Intelligence on Iraq, U.S. President, War in Iraq, White House, pre-war intelligence, weapons of mass destruction_
 
 ### [ Traces of ricin are found in the mailroom of a Dirksen Senate Office Building.](/news/2004/02/2/traces-of-ricin-are-found-in-the-mailroom-of-a-dirksen-senate-office-building.md)
 _Context: Dirksen Senate Office Building, ricin_

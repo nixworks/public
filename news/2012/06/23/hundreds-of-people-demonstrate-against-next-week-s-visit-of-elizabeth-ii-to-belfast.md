@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-18565737)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61098000/jpg/_61098585_dissidentprotest.jpg)
 
 ### Related:
 

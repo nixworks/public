@@ -9,6 +9,7 @@
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/10/13/ISIS-confirms-killing-of-number-two-in-U-S-air-strike.html)
 2. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/201848)
+2. [Cover Image](http://f.a7.org/pictures/613/613628.jpg)
 
 ### Related:
 

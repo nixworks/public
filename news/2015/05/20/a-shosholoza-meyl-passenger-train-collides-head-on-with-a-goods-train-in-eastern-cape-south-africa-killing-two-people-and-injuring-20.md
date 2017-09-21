@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News24](http://www.news24.com/news24/SouthAfrica/News/One-person-killed-in-Eastern-Cape-train-crash-20150520)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/3200/070833b0cd254dc98d081e780e82f218.jpg)
 
 ### Related:
 

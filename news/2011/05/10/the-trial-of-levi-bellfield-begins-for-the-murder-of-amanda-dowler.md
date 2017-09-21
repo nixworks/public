@@ -8,6 +8,7 @@ Teenager Milly Dowler vanished &quot;in the blink of an eye&quot; on her way hom
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-13343915)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52632000/jpg/_52632552_52632551.jpg)
 
 ### Related:
 

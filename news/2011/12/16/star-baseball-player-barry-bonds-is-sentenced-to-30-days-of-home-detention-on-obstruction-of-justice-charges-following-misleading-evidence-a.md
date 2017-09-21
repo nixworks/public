@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://espn.go.com/mlb/story/_/id/7360235/barry-bonds-sentenced-two-years-probation-30-days-house-arrest)
+1. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fi%2Fheadshots%2Fmlb%2Fplayers%2Ffull%2F1785.png)
 
 ### Related:
 

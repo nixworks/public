@@ -8,6 +8,7 @@ Barriers protected the building in the Créteil suburb and the suspect was arres
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-40452264)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p0579ytq.jpg)
 
 ### Related:
 

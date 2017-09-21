@@ -9,6 +9,7 @@ At least 27 people have died after a bus collided with a truck and plunged into 
 
 1. [MSN](http://news.msn.com/world/bus-plunges-into-gorge-in-india-killing-dozens)
 2. [The Independent](http://www.independent.ie/world-news/27-die-in-india-bus-plunge-accident-29882968.html)
+2. [Cover Image](http://www.independent.ie/world-news/article29882967.ece/ALTERNATES/h342/PANews_74e23be7-cae5-4860-bfa5-f24a8df5af11_I1.jpg)
 
 ### Related:
 

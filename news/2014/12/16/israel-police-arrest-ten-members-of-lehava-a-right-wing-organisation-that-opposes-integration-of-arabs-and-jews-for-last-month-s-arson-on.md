@@ -8,6 +8,7 @@ Bentzi Gopshtain and nine others held on suspicion of incitement to violence and
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/police-arrest-head-of-anti-assimilation-group-lehava/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/12/F141030YS23-e1418710536813.jpg)
 
 ### Related:
 

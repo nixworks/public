@@ -8,6 +8,7 @@ Archaeologists uncover extraordinary remains of mother looking down at infant in
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/27/taiwans-oldest-human-fossil-mother-and-baby-from-4800-years-ago)
+1. [Cover Image](https://i.guim.co.uk/img/media/1b3a8a01ca9243851ef1838d4e1dbe65716129f5/0_0_2334_1402/2334.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0e38a281dcc3f2baa02ffda74478a57b)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/n-korea-dismisses-south-s/637922.html)
 2. [Sahara Samay](http://english.samaylive.com/world-news/676527851/north-korea-rebuffs-talks-as-a-crafty-trick-.html)
 3. [The Guardian](http://www.guardian.co.uk/media/2013/apr/14/bbc-students-undercover-north-korea)
+3. [Cover Image](http://www.channelnewsasia.com/image/674416/1370316057000/large16x9/640/360/asia-pacific.jpg)
 
 ### Related:
 

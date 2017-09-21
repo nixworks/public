@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/africa/2014/09/us-kills-six-attack-al-shabab-convoy-20149212543568812.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/9/2//201492141519974734_20.jpg)
 
 ### Related:
 

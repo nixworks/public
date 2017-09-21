@@ -10,6 +10,7 @@ Japan apologises to South Korea for colonising the peninsula and promises to ret
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jZe9c7V8OIXJ5cdSI7x4V6MaKNKAD9HGI68O0)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10922522)
 3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/08/10/japan.korea.apology/#fbid=YIYm6U-LlVS&wom=false)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

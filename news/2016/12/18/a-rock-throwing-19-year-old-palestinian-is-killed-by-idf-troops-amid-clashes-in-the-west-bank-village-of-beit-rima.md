@@ -9,6 +9,7 @@ Israeli soldiers shot dead a Palestinian teenager early Sunday in the occupied W
 
 1. [Daily Sabah](http://www.dailysabah.com/mideast/2016/12/18/israeli-soldiers-murder-palestinian-teen-for-throwing-a-rock)
 2. [Haaretz](http://www.haaretz.com/israel-news/1.759664)
+2. [Cover Image](https://iadsb.tmgrup.com.tr/374f44/645/344/0/81/798/507?u=http://i.tmgrup.com.tr/dailysabah/2016/12/18/israeli-soldiers-murder-palestinian-teen-for-throwing-a-rock-1482045389127.jpg)
 
 ### Related:
 

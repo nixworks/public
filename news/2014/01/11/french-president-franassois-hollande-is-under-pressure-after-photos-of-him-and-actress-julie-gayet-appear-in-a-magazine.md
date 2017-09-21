@@ -8,6 +8,7 @@ French President Francois Hollande is under pressure to clarify his personal sit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25695993)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/72217000/jpg/_72217112_72217111.jpg)
 
 ### Related:
 

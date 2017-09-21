@@ -13,6 +13,7 @@ Taoiseach Brian Cowen has rejected Fine Gael&#39;s accusations that he is engage
 4. [RTÉ](http://www.rte.ie/news/2010/1123/politicsprotest.html)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1123/breaking18.html?via=mr)
 6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1123/breaking7.html?via=rel)
+6. [Cover Image](https://img.rasset.ie/0003f29d-1600.jpg)
 
 ### Related:
 

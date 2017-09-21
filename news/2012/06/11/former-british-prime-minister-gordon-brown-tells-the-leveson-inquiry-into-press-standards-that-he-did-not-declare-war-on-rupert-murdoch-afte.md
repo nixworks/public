@@ -10,6 +10,7 @@ Gordon Brown has categorically denied making an &#034;unbalanced&#034; declarati
 1. [BBC](http://www.bbc.co.uk/news/uk-18386968)
 2. [The Guardian](http://www.guardian.co.uk/media/2012/jun/11/george-osborne-deal-murdoch-nonsense?newsfeed=true)
 3. [The Telegraph](http://www.telegraph.co.uk/news/politics/gordon-brown/9324162/Gordon-Brown-I-never-declared-war-on-Rupert-Murdoch.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02244/leveson-brown-6_2244957k.jpg)
 
 ### Related:
 

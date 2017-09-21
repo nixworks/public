@@ -8,6 +8,7 @@ Rockets have slammed into two southern Beirut neighbourhoods that are stronghold
 ### Source:
 
 1. [AP via ''Sydney Morning Herald](http://www.smh.com.au/world/two-rockets-hit-lebanese-hezbollah-area-20130526-2n58p.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/n/5/9/d/image.related.articleLeadwide.620x349.2n58p.png/1369578073313.jpg)
 
 ### Related:
 

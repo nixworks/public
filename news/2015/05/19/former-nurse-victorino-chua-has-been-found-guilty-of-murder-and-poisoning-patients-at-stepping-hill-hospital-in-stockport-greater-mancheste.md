@@ -8,6 +8,7 @@ Nurse Victorino Chua is jailed for a minimum of 35 years for murdering and poiso
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-32795255?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/83069000/jpg/_83069294_027269111.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two children died and another 30 were sickened in a mass poisoning at a kinderga
 ### Source:
 
 1. [AP via CTV](http://www.ctvnews.ca/world/mass-poisoning-at-chinese-kindergarten-2-dead-30-sick-1.1739563)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.840164.1449463982!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

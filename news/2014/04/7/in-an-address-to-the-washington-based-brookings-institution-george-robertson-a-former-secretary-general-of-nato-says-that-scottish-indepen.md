@@ -8,6 +8,7 @@ Former secretary general of Nato, Lord Robertson, says Scottish independence wou
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-26933998)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74100000/jpg/_74100459_unionjack_pa.jpg)
 
 ### Related:
 

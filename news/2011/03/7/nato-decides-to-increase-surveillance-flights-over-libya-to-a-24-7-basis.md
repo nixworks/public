@@ -11,6 +11,7 @@ Two Arab newspapers and alJazeera television said on Monday Libyan leader Muamma
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
 3. [MSNBC](http://www.msnbc.msn.com/id/41952904)
 4. [Reuters](http://uk.reuters.com/article/2011/03/07/libya-congress-idUKLDE72628J20110307)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

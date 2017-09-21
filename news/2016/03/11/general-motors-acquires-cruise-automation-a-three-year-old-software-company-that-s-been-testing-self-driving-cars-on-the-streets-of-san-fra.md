@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''Business Insider](http://www.businessinsider.com/ap-gm-buys-software-company-to-speed-autonomous-car-development-2016-3)
+1. [Cover Image](http://static1.businessinsider.com/image/56e2f4e65124c9b1128b456c-1190-625/gm-buys-software-company-to-speed-autonomous-car-development.jpg)
 
 ### Related:
 

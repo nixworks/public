@@ -11,6 +11,7 @@ The BBC will spend 90p of every licence fee pound on programmes, according to Ma
 2. [Guardian](http://www.guardian.co.uk/media/2010/mar/02/bbc-6-music-asian-network)
 3. [Telegraph](http://www.telegraph.co.uk/culture/tvandradio/7351272/BBC-to-spend-90pc-of-licence-fee-on-programmes.html)
 4. [The Times](http://business.timesonline.co.uk/tol/business/industry_sectors/media/article7046446.ece)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01588/bbc-6_1588409a.jpg)
 
 ### Related:
 

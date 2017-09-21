@@ -10,6 +10,7 @@ Journalists say they were attacked while investigating reports of the burial of 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-28951319)
 2. [BBC](http://www.bbc.com/news/world-europe-28949582)
 3. [Miami Herald](http://www.miamiherald.com/2014/08/27/4311704/government-held-ukraine-town-hit.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77189000/jpg/_77189484_img_5111.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Irish parliament passes legislation granting a pardon to thousands of soldie
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22440839)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67437000/jpg/_67437472_paddyreid.jpg)
 
 ### Related:
 

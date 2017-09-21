@@ -8,6 +8,7 @@ At least five policemen have been killed and two injured after a &ldquo;Black Wi
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/9127907/Five-policemen-killed-by-Russian-Black-Widow-suicide-bomber.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02160/Dagestan_2160790k.jpg)
 
 ### Related:
 

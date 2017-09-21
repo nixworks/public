@@ -9,6 +9,7 @@ A Singapore Airlines plane has erupted in flames shortly after making an emergen
 
 1. [CNN](http://edition.cnn.com/2016/06/27/asia/singapore-airlines-engine-fire/index.html)
 2. [The Sydney Morning Herald](http://www.smh.com.au/business/aviation/singapore-airlines-boeing-in-flames-at-changi-after-turnback-from-milan-flight-20160627-gpsl5n.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/g/p/s/l/9/z/image.related.articleLeadwide.620x349.gpsl5n.png/1467004018478.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Danny&#39;s winds have strengthened to 115 mph, making it a Category 3 hurricane
 
 1. [USA Today](http://www.usatoday.com/story/weather/2015/08/21/hurricane-danny-caribbean/32108541/)
 2. [Weather Channel updated](http://www.weather.com/storms/hurricane/news/hurricane-danny-tropical-storm-danny-atlantic-2015)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

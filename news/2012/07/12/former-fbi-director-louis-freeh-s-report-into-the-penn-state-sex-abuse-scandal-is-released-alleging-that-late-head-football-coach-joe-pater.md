@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2012/07/12/us/pennsylvania-penn-state-paterno/index.html?eref=edition)
 2. [ESPN](http://espn.go.com/college-football/story/_/id/8159195/report-says-penn-state-nittany-lions-senior-officials-disregarded-children-welfare)
+2. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2012%2F0712%2Fdm_120712_ncf_jay_paterno_int.jpg)
 
 ### Related:
 

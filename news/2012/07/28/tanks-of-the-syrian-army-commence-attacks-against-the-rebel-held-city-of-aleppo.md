@@ -8,6 +8,7 @@ Syrian forces use mortars and helicopters in a day-long assault on Aleppo, where
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19025955)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61877000/jpg/_61877677_61877676.jpg)
 
 ### Related:
 

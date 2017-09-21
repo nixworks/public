@@ -8,6 +8,7 @@ MP Nigel Evans resigns as Commons Deputy Speaker, after being charged with offen
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-24042797)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69777000/jpg/_69777641_69777278.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ President-elect Donald Trump is expected to nominate Rep. Cathy McMorris Rodgers
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trump-cohn-idUSKBN13Y1YD?il=0)
 2. [USA Today](http://www.usatoday.com/story/news/politics/elections/2016/2016/12/09/mcmorris-rodgers-trumps-interior-pick/95197748/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

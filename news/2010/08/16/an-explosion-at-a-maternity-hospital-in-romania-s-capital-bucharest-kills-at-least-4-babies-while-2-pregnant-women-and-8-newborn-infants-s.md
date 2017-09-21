@@ -12,6 +12,7 @@
 3. [Reuters](http://www.alertnet.org/thenews/newsdesk/LDE67F1QS.htm)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Bucharest-Romania-Three-Babies-Killed-In-Blast-At-Giulesti-Hospital/Article/201008315689584?lpos=World_News_Carousel_Region_2&lid=ARTICLE_15689584_Bucharest%2C_Romania%3A_Three_Babies_Killed_In_Blast_At_Giulesti_Hospital)
 5. [Voice of Russia](http://english.ruvr.ru/2010/08/17/16030141.html)
+5. [Cover Image](http://www.independent.ie/migration_catalog/article28888356.ece/ALTERNATES/h342/N0015841281983299283A_1)
 
 ### Related:
 

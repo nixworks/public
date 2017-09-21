@@ -9,6 +9,7 @@ Iran’s supreme leader, Ayatollah Ali Khamenei, raised the prospect of violence
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/meast/06/19/iran.election.us/?iref=hpmostpop)
 2. [The New York Times](http://www.nytimes.com/2009/06/20/world/middleeast/20iran.html?pagewanted=1&_r=1&hp)
+2. [Cover Image](https://static01.nyt.com/images/2009/06/20/world/20iran.span.75.jpg)
 
 ### Related:
 

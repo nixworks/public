@@ -8,6 +8,7 @@ Authorities have arrested 124 Saudis and 25 foreigners, who were planning attack
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/20101126141332322538.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/26/2010112614525870876_20.jpg)
 
 ### Related:
 

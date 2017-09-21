@@ -8,6 +8,7 @@ Pakistan says it has killed the alleged mastermind of a school attack in Peshawa
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/11313678/Mastermind-of-Peshawar-school-attack-killed.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03139/pakistan-peshawar-_3139330k.jpg)
 
 ### Related:
 

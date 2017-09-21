@@ -9,6 +9,7 @@
 
 1. [AP via Forbes](http://www.forbes.com/feeds/ap/2008/06/13/ap5114952.html)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSN1346134820080614)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080614&t=2&i=4767402&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-14T230708Z_01_N13461348_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

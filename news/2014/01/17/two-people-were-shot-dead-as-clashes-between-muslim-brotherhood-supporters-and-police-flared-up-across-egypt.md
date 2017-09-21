@@ -8,6 +8,7 @@ At least four people were killed as clashes between Muslim Brotherhood supporter
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/17/us-egypt-protests-idUSBREA0G1FH20140117)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140117&t=2&i=830445390&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0G1RFJ00)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Abu Bakar Bashir charged with planning to use weapons to commit acts of terror, 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/02/201121442836375689.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12445335)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/14/201121444329998580_20.jpg)
 
 ### Related:
 

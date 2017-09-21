@@ -8,6 +8,7 @@ Storms in California fell a popular tree with a hole cut in the trunk that cars 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-38561877)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/47ED/production/_93331481_capf52ture.jpg)
 
 ### Related:
 

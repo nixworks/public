@@ -8,6 +8,7 @@ Eastman Kodak Co EKDKQ.PK, the inventor of the digital camera, plans to get out 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/09/us-kodak-idUSTRE81816Z20120209)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120209&t=2&i=568848579&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81812JD00)
 
 ### Related:
 

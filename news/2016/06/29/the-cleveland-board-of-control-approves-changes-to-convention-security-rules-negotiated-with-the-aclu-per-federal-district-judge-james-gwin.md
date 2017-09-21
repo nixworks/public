@@ -9,6 +9,7 @@ City officials also extended the official &quot;parade&quot; route for demonstra
 
 1. [The Hill](http://thehill.com/blogs/blog-briefing-room/news/285997-cleveland-changes-restrictions-for-rnc-protest-area)
 2. [The Plain Dealer](http://www.cleveland.com/rnc-2016/index.ssf/2016/06/cleveland_officials_approve_ne.html#incart_2box)
+2. [Cover Image](http://image.cleveland.com/home/cleve-media/width620/img/opinion_impact/photo/20486031-standard.jpg)
 
 ### Related:
 

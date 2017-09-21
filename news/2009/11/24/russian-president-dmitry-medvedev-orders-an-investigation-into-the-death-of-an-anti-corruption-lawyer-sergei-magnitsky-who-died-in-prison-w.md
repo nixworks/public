@@ -9,6 +9,7 @@ President Dmitry Medvedev of Russia has ordered an investigation into the death 
 
 1. [RIA Novosti](http://en.rian.ru/russia/20091124/156968129.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/6646006/Sergei-Magnitsky-Russia-launches-official-probe-into-lawyers-death.html)
+2. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

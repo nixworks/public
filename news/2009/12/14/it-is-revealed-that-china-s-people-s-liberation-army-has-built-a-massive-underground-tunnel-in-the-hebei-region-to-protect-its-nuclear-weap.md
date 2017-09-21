@@ -8,6 +8,7 @@ The Chinese Army is believed to have built an underground &quot;Great Wall&quot;
 ### Source:
 
 1. [The Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/12/14/2009121400292.html)
+1. [Cover Image](http://image.chosun.com/facebook/newson.gif)
 
 ### Related:
 

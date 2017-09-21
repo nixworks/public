@@ -19,6 +19,7 @@ Army to press charges of manslaughter over deaths of Palestinian women during wa
 10. [Reuters Africa](http://af.reuters.com/article/egyptNews/idAFLDE6650UQ20100706)
 11. [The Guardian](http://www.guardian.co.uk/world/2010/jul/06/israeli-soldier-charged-gaza-manslaughter)
 12. [Today's Zaman](http://www.todayszaman.com/tz-web/news-215257-100-three-soldiers-martyred-in-clashes-with-terrorists.html)
+12. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

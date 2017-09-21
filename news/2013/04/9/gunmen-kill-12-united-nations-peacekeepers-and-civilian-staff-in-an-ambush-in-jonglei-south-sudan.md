@@ -10,6 +10,7 @@ Foreign ministry says rebel attack on UN convoy in Jonglei region killed five In
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gi7VpxQspiixXhEQHRxDbe17qRWQ)
 2. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/04/201349115743552270.html)
 3. [CNN](http://edition.cnn.com/2013/04/09/world/south-sudan-indian-peacekeepers/)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/21/2012122118285878734_20.jpg)
 
 ### Related:
 

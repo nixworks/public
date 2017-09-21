@@ -12,6 +12,7 @@ Neo-Nazis and leftists hold competing rallies marking 65th anniversary of Dresde
 3. [CBC](http://www.cbc.ca/world/story/2010/02/13/dresden-protests-bombing-neonazis.html)
 4. [Press TV](http://www.presstv.ir/detail.aspx?id=118583&sectionid=351020604)
 5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/13/AR2010021301313.html)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

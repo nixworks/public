@@ -9,6 +9,7 @@ Experts in Hanoi captured a legendary giant turtle for medical treatment on Sund
 
 1. [Reuters](http://uk.reuters.com/article/2011/04/04/oukoe-uk-vietnam-turtle-idUKTRE73313E20110404)
 2. [Time'' magazine](http://www.time.com/time/world/article/0,8599,2063308,00.html)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110404&t=2&i=378389930&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-04T091633Z_01_BTRE7330PRX00_RTROPTP_0_OUKOE-UK-VIETNAM-TURTLE)
 
 ### Related:
 

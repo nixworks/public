@@ -9,6 +9,7 @@ Documents show that Poland&#x27;s anti-communist legend Lech Walesa was a paid i
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35602437)
 2. [NBC News](http://www.nbcnews.com/news/world/lech-walesa-was-paid-informant-communist-regime-documents-n520591)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_07/1422476/160218-160218-world-lech-walesa-filer-1981-6a-jpg-0600_e5a0591af6b6d94cd408e5a4f9ef2521.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

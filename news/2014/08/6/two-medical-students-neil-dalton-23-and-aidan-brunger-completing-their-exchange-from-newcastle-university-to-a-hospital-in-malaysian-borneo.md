@@ -8,3 +8,4 @@ Neil Dalton and Aidan Brunger were warned about the dangers of drinking in local
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/malaysia/11017474/British-medical-students-stabbed-to-death-in-Borneo-at-the-end-of-work-placement.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02998/Neil_Dalton_Aidan__2998479k.jpg)

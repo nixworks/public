@@ -9,6 +9,7 @@ BREAKING NEWS: THE HEAD of Ireland&#039;s largest students&#039; union has been 
 
 1. [Donegal Daily](http://www.donegaldaily.com/2012/11/14/picture-drama-donegal-student-leader-arrested-by-gardai-in-dail/)
 2. [University Times](http://www.universitytimes.ie/2012/11/14/usi-president-arrested-at-dail-education-vote/)
+2. [Cover Image](http://www.donegaldaily.com/wp-content/uploads/2012/11/A7si26mCYAAg1B0.jpg)
 
 ### Related:
 

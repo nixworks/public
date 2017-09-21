@@ -8,6 +8,7 @@ Sierra Leone&#039;s Government announces that more than 100 people have been qua
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2016-01-17/sierra-leone-ebola-case-more-than-100-quarantined/7093744)
+1. [Cover Image](http://www.abc.net.au/news/image/5811196-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iran told atomic inspectors that it had run into a serious problem at a newly co
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/02/26/world/middleeast/26nuke.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/02/26/world/26NUKE_span/26NUKE-thumbStandard.jpg)
 
 ### Related:
 

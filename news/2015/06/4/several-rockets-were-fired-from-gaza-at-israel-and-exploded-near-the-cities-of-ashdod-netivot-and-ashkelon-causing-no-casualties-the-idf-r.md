@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/06/rockets-fired-gaza-southern-israel-150603230355923.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/3/a1e3afcf046b49fb9dc404b0372e72eb_18.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Landmark resolution is the first of its kind to be passed in a national parliame
 ### Source:
 
 1. [Middle East Eye](http://www.middleeasteye.net/news/dutch-parliament-calls-arms-embargo-saudi-arabia-over-yemen-war-1861032989)
+1. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/000_8Q57G.jpg)
 
 ### Related:
 

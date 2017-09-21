@@ -8,6 +8,7 @@ Manila Standard | Defining The News
 ### Source:
 
 1. [The Manila Standard](http://thestandard.com.ph/news/-main-stories/top-stories/212325/du30-blasts-triad-drug-cartel.html)
+1. [Cover Image](http://thestandard.com.ph/panel/_files/image/Personalities/Duterte_Rodrigo/Duterte_Rodrigo_9.jpg)
 
 ### Related:
 

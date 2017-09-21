@@ -8,6 +8,7 @@ The 10 Russian spies deported from the US will undergo three weeks of rigorous t
 ### Source:
 
 1. [The Age](http://www.theage.com.au/world/russia-tests-for-double-agents-20100714-10b1m.html)
+1. [Cover Image](http://www.theage.com.au/content/dam/images/1/0/5/k/t/image.related.thumbnail.320x214.10b1m.png/1279126801000.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A 21-year-old pregnant woman who sustained a severe head injury from the Davao C
 ### Source:
 
 1. [CNN](http://cnnphilippines.com/news/2016/09/13/pregnant-davao-bombing-victim-dies-in-hospital-death-toll-rises-15.html)
+1. [Cover Image](http://cnnphilippines.com/incoming/yak9fj-Davao-blast.jpg/ALTERNATES/LANDSCAPE_640/Davao%20blast.jpg)
 
 ### Related:
 

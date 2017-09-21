@@ -8,6 +8,7 @@ Scientists identify a planet only slightly larger than Earth that is orbiting Pr
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-37167390)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/113C6/production/_90889507_eso1629e.jpg)
 
 ### Related:
 

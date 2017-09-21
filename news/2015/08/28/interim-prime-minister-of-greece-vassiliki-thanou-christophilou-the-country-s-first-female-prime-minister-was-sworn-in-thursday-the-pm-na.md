@@ -10,6 +10,7 @@
 1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2015/08/28/world/europe/ap-eu-greece-election.html)
 2. [CTV News](http://www.ctvnews.ca/world/early-greek-polls-show-tsipras-popularity-tanked-1.2537374)
 3. [The Irish Examiner](http://www.irishexaminer.com/world/greek-caretaker-government-sworn-in-ahead-of-elections-350874.html)
+3. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.2523756.1440796759!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

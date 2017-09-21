@@ -8,6 +8,7 @@ A terrorist group seeking an independent Muslim state in western China has relea
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/08/08/sports/olympics/08china.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [FOX News](http://www.foxnews.com/world/2016/05/04/rebels-kill-at-least-17-civilians-in-eastern-congo.html)
 2. [Leadership](http://leadership.ng/news/523614/ugandan-rebels-kill-16-civilians-eastern-congo-rights-group-says)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

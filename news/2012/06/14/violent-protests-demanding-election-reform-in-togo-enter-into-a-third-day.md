@@ -8,6 +8,7 @@ Tunisian authorities ban protests planned for Friday, after rival Islamist ralli
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-18448202)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60913000/jpg/_60913227_015022465-1.jpg)
 
 ### Related:
 

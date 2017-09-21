@@ -9,6 +9,7 @@ International Court of Justice ruled last year that Japanese whaling must stop, 
 
 1. [Reuters via ''The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/japan/12022369/Japan-to-resume-Antarctic-whale-hunt-despite-ICJ-ruling.html)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/11/28/Japan-to-resume-whaling-in-Antarctic-ignores-World-Court-ruling/6601448711159/)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03512/japan-whaling_3512632k.jpg)
 
 ### Related:
 

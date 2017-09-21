@@ -8,6 +8,7 @@ Michael Adebolajo is accused of murdering Drummer Lee Rigby, the attempted murde
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1098237/woolwich-soldier-killing-second-man-charged)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/169504904-1_3620448.jpg?20160705140703)
 
 ### Related:
 

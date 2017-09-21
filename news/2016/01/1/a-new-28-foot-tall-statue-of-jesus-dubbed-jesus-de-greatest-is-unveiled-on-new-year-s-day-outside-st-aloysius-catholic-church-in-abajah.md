@@ -8,6 +8,7 @@ JOHANNESBURG, South Africa — Move over, &quot;Christ the Redeemer.&quot; A new
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2015/12/31/new-giant-jesus-statue/78122392/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

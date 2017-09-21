@@ -10,6 +10,7 @@ Parts of downtown Nashville were evacuated as the rising Cumberland River flowed
 1. [The New York Times](http://www.nytimes.com/2010/05/04/us/04flood.html)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/03/AR2010050304401.html)
 3. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/05/nashville-flooding-hits-grand-ole-opry-/1)
+3. [Cover Image](https://static01.nyt.com/images/2010/05/04/us/04flood_CA0/04flood_CA0-thumbStandard.jpg)
 
 ### Related:
 

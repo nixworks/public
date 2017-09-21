@@ -8,6 +8,7 @@ At least 300 people have been killed in two days of violence in the Central Afri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25273681#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71594000/jpg/_71594099_71594098.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ It’s at the mouth of the Amazon River.
 3. [Phys.org](http://phys.org/news/2016-04-scientists-reef-mouth-amazon-river.html)
 4. [The Atlantic](http://www.theatlantic.com/science/archive/2016/04/scientists-discover-a-new-coral-reef-at-the-amazons-mouth/479259/)
 5. [The Guardian](http://www.theguardian.com/environment/2016/apr/22/huge-coral-reef-discovered-at-amazon-river-mouth)
+5. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2016/04/42_46200927/facebook.jpg?1461261315)
 
 ### Related:
 

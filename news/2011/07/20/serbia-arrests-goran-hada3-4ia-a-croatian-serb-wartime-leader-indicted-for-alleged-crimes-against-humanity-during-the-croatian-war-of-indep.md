@@ -8,6 +8,7 @@ Serbia&#039;s last major war crimes fugitive Goran Hadzic, indicted for crimes a
 ### Source:
 
 1. [Reuters via ABC Online](http://www.abc.net.au/news/2011-07-20/serbia-war-crimes-goran-hadzic/2803266)
+1. [Cover Image](http://www.abc.net.au/news/image/2803730-1x1-700x700.jpg)
 
 ### Related:
 

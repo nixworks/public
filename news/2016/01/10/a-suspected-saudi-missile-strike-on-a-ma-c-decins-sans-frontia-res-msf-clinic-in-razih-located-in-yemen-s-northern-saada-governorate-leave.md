@@ -8,6 +8,7 @@ At least five people have been killed in a missile strike on a Medecins Sans Fro
 ### Source:
 
 1. [RT](https://www.rt.com/news/328425-yemen-msf-clinic-attack/)
+1. [Cover Image](https://img.rt.com/files/2016.01/article/569250f3c46188fe438b460a.jpg)
 
 ### Related:
 

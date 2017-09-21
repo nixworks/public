@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Politics/hillary-clinton-2016-presidential-run-make-decision-year/story?id=21267459)
+1. [Cover Image](http://a.abcnews.com/images/Politics/ABC_BW_Hillary_LE_131218_16x9_992.jpg)
 
 ### Related:
 

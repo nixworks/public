@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-china-defense-destroyer-idUSKBN19J0GX)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170628&t=2&i=1190796640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5R0BU)
 
 ### Related:
 

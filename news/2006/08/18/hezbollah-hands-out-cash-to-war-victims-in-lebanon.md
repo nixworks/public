@@ -12,6 +12,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 3. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/4801201.stm)
 4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5262490.stm)
 5. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=N18431689)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

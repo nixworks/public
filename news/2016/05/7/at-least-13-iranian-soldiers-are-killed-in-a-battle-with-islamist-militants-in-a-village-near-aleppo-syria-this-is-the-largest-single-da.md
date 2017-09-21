@@ -10,6 +10,7 @@ By Bozorgmehr SharafedinDUBAI (Reuters) -...
 1. [Business Insider](http://www.businessinsider.com/r-iran-says-several-of-its-soldiers-killed-near-aleppo-2016-5)
 2. [NDTV](http://www.ndtv.com/world-news/13-iranian-revolutionary-guards-killed-in-syria-report-1403967)
 3. [Retuers](http://in.reuters.com/article/us-mideast-crisis-syria-idINKCN0XY0JV)
+3. [Cover Image](http://static5.businessinsider.com/image/572def0c5124c9ad6e8b4567-1190-625/iran-says-several-of-its-soldiers-killed-near-aleppo.jpg)
 
 ### Related:
 

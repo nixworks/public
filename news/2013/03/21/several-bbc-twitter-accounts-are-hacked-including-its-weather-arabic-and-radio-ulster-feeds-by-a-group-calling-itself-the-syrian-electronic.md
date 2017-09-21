@@ -8,6 +8,7 @@ The BBC has become the latest victim of Twitter hackers as several of its feeds,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-21879230)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66532000/jpg/_66532705_bbc-weather-sea.jpg)
 
 ### Related:
 

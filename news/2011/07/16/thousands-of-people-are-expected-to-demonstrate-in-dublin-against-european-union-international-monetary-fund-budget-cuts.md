@@ -9,6 +9,7 @@ The Enough Campaign is organising the protest against the EU/IMF programme in Du
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0716/breaking2.html)
 2. [The Journal](http://www.thejournal.ie/thousands-expected-for-anti-austerity-march-178637-Jul2011/)
+2. [Cover Image](http://img2.thejournal.ie/article/178637/river/?height=400&version=178642)
 
 ### Related:
 

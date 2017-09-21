@@ -9,6 +9,7 @@ Nine people died on Saturday while eight others survived after a boat they were 
 
 1. [Kenya Star](http://www.the-star.co.ke/news/2016/06/25/nine-dead-eight-survive-in-lake-victoria-boat-accident_c1375565)
 2. [The Standard](http://www.standardmedia.co.ke/article/2000206599/nine-musicians-drown-as-boat-capsizes-in-lake-victoria)
+2. [Cover Image](http://www.the-star.co.ke/sites/default/files/styles/open_graph/public/articles/2016/06/25/1048290.jpg?itok=D8jdewqk)
 
 ### Related:
 

@@ -8,6 +8,7 @@ More than 100 migrants broke through police barriers at the Italian border town 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-europe-migrants-italy-france-idUSKCN10G25T)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160805&t=2&i=1148511114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7414O)
 
 ### Related:
 

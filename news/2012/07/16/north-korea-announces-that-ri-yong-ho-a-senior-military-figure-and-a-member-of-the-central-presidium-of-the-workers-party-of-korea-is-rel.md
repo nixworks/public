@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/nkorea-says-powerful-army-chief-relieved-posts-002706165.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

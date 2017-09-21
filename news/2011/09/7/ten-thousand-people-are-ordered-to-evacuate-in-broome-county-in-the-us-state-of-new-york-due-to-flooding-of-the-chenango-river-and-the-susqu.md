@@ -10,6 +10,7 @@ Dozens of districts closed schools early due to flooding, power outages and conc
 1. [Patriot News](http://www.pennlive.com/midstate/index.ssf/2011/09/central_pennsylvania_schools_c.html)
 2. [Press Connects](http://www.pressconnects.com/apps/pbcs.dll/article?AID=/20110907/NEWS01/109070414/Fearing-worst-Flooding-could-surpass-2006)
 3. [Washington Post](http://www.washingtonpost.com/blogs/capital-weather-gang?tid=sm_twitter_washingtonpost)
+3. [Cover Image](http://image.pennlive.com/home/penn-media/width620/img/patriot-news/photo/2011/09/9976481-standard.jpg)
 
 ### Related:
 

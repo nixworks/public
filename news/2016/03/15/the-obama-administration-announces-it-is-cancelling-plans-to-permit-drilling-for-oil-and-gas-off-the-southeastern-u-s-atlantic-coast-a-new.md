@@ -9,6 +9,7 @@ The Obama administration abandons plans to allow new offshore oil drilling on th
 
 1. [The Island Free Press](http://islandfreepress.org/2016Archives/03.15.25016-FederalOfficialsReverseCourseOnOffshoreDrilling.html)
 2. [USA Today](http://www.usatoday.com/story/money/2016/03/15/offshore-oil-president-obama/81800458/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

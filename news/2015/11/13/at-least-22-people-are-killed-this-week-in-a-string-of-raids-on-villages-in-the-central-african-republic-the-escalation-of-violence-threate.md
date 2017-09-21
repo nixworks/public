@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/13/us-centralafrica-violence-idUSKCN0T21S120151113#0oxJ8yp3Sh1zLXKh.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

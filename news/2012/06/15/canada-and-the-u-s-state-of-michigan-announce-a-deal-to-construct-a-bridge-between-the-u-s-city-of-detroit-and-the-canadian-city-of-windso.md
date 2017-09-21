@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/06/15/us-usa-canada-bridge-idUSBRE85E18X20120615)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120615&t=2&i=619349380&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE85E1QTZ00)
 
 ### Related:
 

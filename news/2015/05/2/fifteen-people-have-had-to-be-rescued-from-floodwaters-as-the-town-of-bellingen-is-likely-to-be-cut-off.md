@@ -9,6 +9,7 @@ Queensland has already copped a serious soaking and NSW will get its own this we
 
 1. [9 News](http://www.9news.com.au/national/2015/05/01/06/54/queensland-and-northern-nsw-set-to-cop-a-soaking-this-weekend)
 2. [Weatherzone](http://www.weatherzone.com.au/news/fifteen-people-rescued-from-floodwaters-in-northern-nsw-bellingen-soon-to-be-cut-off-as-heavy-rain-moves-down-the-coast/286524)
+2. [Cover Image](http://progressive.netshow.ninemsn.com.au/media2/664969388001/2015/05/664969388001_4210236184001_8074506-20150502-103739-VIDEO-STILL.jpg)
 
 ### Related:
 

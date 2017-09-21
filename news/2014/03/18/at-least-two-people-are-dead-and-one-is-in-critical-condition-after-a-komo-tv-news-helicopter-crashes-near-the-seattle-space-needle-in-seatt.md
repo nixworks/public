@@ -8,6 +8,7 @@ The Seattle Fire Department said in addition to the fatalities, a 37-year-old ma
 ### Source:
 
 1. [AP via ''Washington Times](http://www.washingtontimes.com/news/2014/mar/18/news-helicopter-crashes-near-seattle-space-needle/)
+1. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2014/03/18/news-chopper-crash_lanc1.jpg)
 
 ### Related:
 

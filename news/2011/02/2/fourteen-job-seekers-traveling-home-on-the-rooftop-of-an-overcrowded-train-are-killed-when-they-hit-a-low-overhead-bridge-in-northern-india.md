@@ -9,6 +9,7 @@ Fifteen youths were killed and several others injured on Tuesday when they fell 
 
 1. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206327)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Six-passengers-travelling-on-rooftop-killed-after-train-passes-under-low-bridge/articleshow/7405467.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/7405650.cms)
 
 ### Related:
 

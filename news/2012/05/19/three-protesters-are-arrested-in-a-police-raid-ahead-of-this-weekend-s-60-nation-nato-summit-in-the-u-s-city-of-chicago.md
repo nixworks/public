@@ -8,6 +8,7 @@ Trio accused of making petrol bombs and plotting attacks, but supporters say sus
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/05/2012519173445615343.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/20/201252010538504734_20.jpg)
 
 ### Related:
 

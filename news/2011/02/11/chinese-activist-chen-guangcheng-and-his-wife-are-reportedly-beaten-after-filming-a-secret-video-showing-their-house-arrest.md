@@ -9,6 +9,7 @@ A human rights organisation says the activist Chen Guangcheng and his wife were 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12428385)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20110211/news_20110211_56_733315.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

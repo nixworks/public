@@ -8,6 +8,7 @@ Reeling&#x20;from&#x20;shock&#x20;election&#x20;results,&#x20;Turkey&#x27;s&#x20
 ### Source:
 
 1. [AFP via France 24](http://www.france24.com/en/20150609-turkey-elections-cabinet-resigns-erdogan-remains-silent-akp-hdp)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/090615%20erdogan.jpg)
 
 ### Related:
 

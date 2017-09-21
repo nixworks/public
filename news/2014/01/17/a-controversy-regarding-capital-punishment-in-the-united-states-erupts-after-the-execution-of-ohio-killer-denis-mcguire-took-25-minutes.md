@@ -8,6 +8,7 @@ US lawyers are to challenge the drugs used in executions in Ohio after a murdere
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-25775287)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72329000/jpg/_72329294_mcguire.jpg)
 
 ### Related:
 

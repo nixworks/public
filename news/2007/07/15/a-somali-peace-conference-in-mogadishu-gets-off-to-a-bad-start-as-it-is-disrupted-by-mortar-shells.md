@@ -8,6 +8,7 @@ Somalia&#039;s much-delayed peace conference has gotten off to a rocky start wit
 ### Source:
 
 1. [AFP via ABC](http://www.abc.net.au/news/stories/2007/07/16/1979160.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

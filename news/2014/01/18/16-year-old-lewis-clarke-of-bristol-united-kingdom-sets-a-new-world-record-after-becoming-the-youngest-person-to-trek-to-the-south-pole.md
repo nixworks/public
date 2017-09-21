@@ -8,6 +8,7 @@ A 16-year-old boy from Bristol has set a new world record by becoming the younge
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-25794003)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/72265000/jpg/_72265787_72265786.jpg)
 
 ### Related:
 

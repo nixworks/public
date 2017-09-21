@@ -9,6 +9,7 @@ A suicide bomb attack at a hospital in the Pakistani city of Quetta kills at lea
 
 1. [BBC](http://www.bbc.com/news/world-asia-37007661)
 2. [BBC²](http://www.bbc.co.uk/news/world-asia-37015640)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16558/production/_90708419_mediaitem90708414.jpg)
 
 ### Related:
 

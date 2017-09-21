@@ -8,6 +8,7 @@ The top U.S. mobile service, Verizon Wireless, has agreed to pay the U.S. Treasu
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69R4X920101028)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

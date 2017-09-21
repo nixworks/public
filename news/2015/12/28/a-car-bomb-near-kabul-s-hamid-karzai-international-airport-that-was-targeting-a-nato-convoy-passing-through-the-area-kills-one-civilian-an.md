@@ -9,6 +9,7 @@ A Taliban bomber detonated an explosives-packed vehicle near Kabul airport Monda
 
 1. [AFP via Yahoo News](http://news.yahoo.com/suicide-car-bomb-strikes-near-kabul-airport-officials-044244065.html)
 2. [Reuters via NBC News](http://www.nbcnews.com/news/world/kabul-attack-taliban-suicide-bomb-near-airport-kills-civilian-injures-n486581)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/ACD_NJi6QY8w84cRng6Jbw--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DEL-Del8392982-1-1-0.jpg)
 
 ### Related:
 

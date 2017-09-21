@@ -8,6 +8,7 @@ A South Pacific island shown on marine charts and world maps as well as on Googl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20442487)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64310000/gif/_64310278_new_caledonia624x350.gif)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Canadian-born newspaper tycoon Conrad Black is released from a US prison on $2m 
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010721194525628431.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10716705)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

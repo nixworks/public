@@ -8,6 +8,7 @@ Leslie Nielsen went from drama to inspired bumbling as a hapless doctor in Airpl
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/entertainment/2010/11/28/comedy-legend-leslie-nielsen-dead/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/slideshow/2010/11/29/remembering-leslie-nielsen/_jcr_content/slideshow-par/slide_image/image.img.jpg/0/0/1421879906572.jpg?ve=1)
 
 ### Related:
 
@@ -20,4 +21,4 @@ Leslie Nielsen went from drama to inspired bumbling as a hapless doctor in Airpl
 7. [ "MS Oasis of the Seas", the world's largest cruise ship, is officially unveiled at Fort Lauderdale, Florida, live on an American morning television show. ](/news/2009/11/20/ms-oasis-of-the-seas-the-world-s-largest-cruise-ship-is-officially-unveiled-at-fort-lauderdale-florida-live-on-an-american-morning-te.md) _Context: Fort Lauderdale, Florida_
 8. [ A former Luftwaffe pilot reveals he may have shot down the airplane of French writer and aviator Antoine de Saint Exupery, thus killing him, on July 31, 1944. ](/news/2008/03/17/a-former-luftwaffe-pilot-reveals-he-may-have-shot-down-the-airplane-of-french-writer-and-aviator-antoine-de-saint-exupa-c-ry-thus-killing-hi.md) _Context: airplane_
 9. [ U.S. Secretary of State Condoleezza Rice opened the 35th General Assembly meeting of the Organization of American States Sunday in Fort Lauderdale, Florida. Secretary Rice called on member states to do more to protect democracy in the region, and strengthen civil society. ](/news/2005/06/6/u-s-secretary-of-state-condoleezza-rice-opened-the-35th-general-assembly-meeting-of-the-organization-of-american-states-sunday-in-fort-lau.md) _Context: Fort Lauderdale, Florida_
-10. [ Researchers develop a small device called "the CPOD" which does for people what black boxes do for airplanes. ](/news/2004/04/10/researchers-develop-a-small-device-called-the-cpod-which-does-for-people-what-black-boxes-do-for-airplanes.md) _Context: airplane_
+10. [ A Venezuelan military airplane crashes as it approaches its base in the central industrial state of Aragua, killing all 25 on board. ](/news/2004/08/22/a-venezuelan-military-airplane-crashes-as-it-approaches-its-base-in-the-central-industrial-state-of-aragua-killing-all-25-on-board.md) _Context: airplane_

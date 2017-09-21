@@ -8,6 +8,7 @@ Liam Fox quits as defence secretary amid pressure over his working relationship 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15300751)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56070000/jpg/_56070018_ptvvq5wi.jpg)
 
 ### Related:
 

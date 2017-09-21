@@ -8,6 +8,7 @@ Last week, Russian scientists announced the discovery of a new type of bacterial
 ### Source:
 
 1. [Science World Report](http://www.scienceworldreport.com/articles/5500/20130312/new-bacteria-lake-vostok-actually-contamination-reports.htm)
+1. [Cover Image](http://images.scienceworldreport.com/data/images/full/3168/new-bacteria-in-lake-vostok-is-actually-a-contamination-new-reports.jpg)
 
 ### Related:
 

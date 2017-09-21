@@ -8,6 +8,7 @@ Crowds marched behind a somber funeral procession Thursday after a powerful car 
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/19207460/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Photos/070614/070614_lebanon_hlrg_330a.standard.jpg)
 
 ### Related:
 

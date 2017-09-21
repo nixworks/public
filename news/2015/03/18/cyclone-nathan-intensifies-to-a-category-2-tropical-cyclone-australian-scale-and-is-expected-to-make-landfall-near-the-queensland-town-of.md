@@ -8,6 +8,7 @@
 ### Source:
 
 1. [WA Today](http://www.watoday.com.au/queensland/cyclone-nathan-threatening-queensland-coast-again-20150318-1m1ten.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/m/0/s/f/n/image.related.articleLeadwide.620x349.1m1ten.png/1426658776674.jpg)
 
 ### Related:
 

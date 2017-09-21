@@ -8,6 +8,7 @@ American deep-sea explorers say they have discovered the wreck of a legendary Br
 ### Source:
 
 1. [The Melbourne Age](http://www.theage.com.au/world/wreck-of-famed-british-warship-found-explorers-20090202-7uzl.html)
+1. [Cover Image](http://images.theage.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

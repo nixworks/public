@@ -9,6 +9,7 @@ Lightweight pollution sensors record the nitrogen dioxide and ozone in the air.
 
 1. [Engadget](http://www.engadget.com/2016/03/16/pigeons-air-pollution-backpacks-london/)
 2. [The Guardian](http://www.theguardian.com/environment/2016/mar/14/pigeon-patrol-takes-flight-to-tackle-londons-air-pollution-crisis)
+2. [Cover Image](https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&amp;quality=80&amp;image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F5862ddcaed2c387fd4e2cffeb3845aa3%2F203553365%2Fpigeonhi2.jpg&amp;client=cbc79c14efcebee57402&amp;signature=0a1c8f20723eacd620e0fb72ec7e0968a51beb72)
 
 ### Related:
 

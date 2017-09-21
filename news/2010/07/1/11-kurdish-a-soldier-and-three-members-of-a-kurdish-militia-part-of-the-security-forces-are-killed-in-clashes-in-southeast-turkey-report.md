@@ -8,6 +8,7 @@ Eleven Kurdish rebels, a soldier and three members of a Kurdish militia, part of
 ### Source:
 
 1. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/middleeast/2010/July/middleeast_July12.xml&section=middleeast)
+1. [Cover Image](http://www.khaleejtimes.com/images/default/default_490x276.jpg)
 
 ### Related:
 

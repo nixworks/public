@@ -8,6 +8,7 @@ JERUSALEM — Hundreds of Christians streamed through the cobblestone alleyways 
 ### Source:
 
 1. [AP via ''Toledo Blade](http://www.toledoblade.com/Religion/2013/03/29/Christians-mark-Jesus-crucifixion-on-Good-Friday.html)
+1. [Cover Image](/image/2013/03/29/Mideast-Israel-Palestinians-Good-Friday.JPG)
 
 ### Related:
 

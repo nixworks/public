@@ -9,6 +9,7 @@ Iran blamed the West and Israel on Saturday for twin suicide bombings which kill
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10672780)
 2. [The Age](http://news.theage.com.au/breaking-news-world/iran-blames-west-israel-for-bombings-20100717-10ffh.html)
+2. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

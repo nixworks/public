@@ -9,6 +9,7 @@
 
 1. [De Standaard](http://www.standaard.be/cnt/dmf20170125_02694576)
 2. [Reuters](http://uk.reuters.com/article/uk-netherlands-usa-abortion-idUKKBN159189)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170125&t=2&i=1170100093&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0O0QE)
 
 ### Related:
 

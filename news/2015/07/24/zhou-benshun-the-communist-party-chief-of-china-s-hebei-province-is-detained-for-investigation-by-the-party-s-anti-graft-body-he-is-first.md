@@ -8,6 +8,7 @@ Zhou Benshun, the head of a major Chinese province and a former aide to disgrace
 ### Source:
 
 1. [WSJ](http://www.wsj.com/articles/chinas-antigraft-spotlight-turns-on-head-of-hebei-province-1437813539)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-JO123_cgraft_TOP_20150725040742.jpg)
 
 ### Related:
 

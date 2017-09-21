@@ -8,6 +8,7 @@ Canadian police have arrested a man who was found carrying three bombs in the bo
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/01/2021353.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

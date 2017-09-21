@@ -10,6 +10,7 @@ A senior Libyan official casts doubt on an earlier statement that Moussa Ibrahim
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20016076)
 2. [Reuters](http://www.trust.org/alertnet/news/libya-govt-says-former-gaddafi-spokesman-captured/)
 3. [The Guardian](http://www.guardian.co.uk/world/2012/oct/20/khamis-gaddafi-killed-bani-walid-muammar)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/51945000/jpg/_51945751_011587542-1.jpg)
 
 ### Related:
 

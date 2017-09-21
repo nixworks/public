@@ -9,6 +9,7 @@ A militant Korean nationalist slashes the face of the US ambassador to South Kor
 
 1. [BBC](http://www.bbc.com/news/world-asia-31743055)
 2. [Yonhap News](http://english.yonhapnews.co.kr/news/2015/03/05/0200000000AEN20150305001400315.html?input=www.tweeter.com)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81410000/jpg/_81410476_81410475.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Report alleges transport contracts and kickbacks are funding Afghan armed groups
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201062213151402507.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10372309.stm)
 3. [CNN](http://edition.cnn.com/2010/WORLD/meast/06/22/afghanistan.insurgents.payments/index.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

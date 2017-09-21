@@ -8,6 +8,7 @@ A controversial city mayor’s tightening grip on the Philippine presidential ra
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-27/philippine-vote-doubts-sink-peso-as-mayor-likened-to-trump-leads)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOxQyFpCMN0Y/v3/1200x800.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The government has confirmed that a South African man was among the contractors 
 
 1. [Daily Post](http://dailypost.ng/2016/06/23/how-suspected-militants-kidnapped-5-foreigners-killed-nigerian-driver-in-calabar/)
 2. [Times Media Group](http://www.timeslive.co.za/local/2016/06/23/Government-confirms-South-African-man-kidnapped-in-Nigeria)
+2. [Cover Image](http://www.timeslive.co.za/Feeds/Reuters_Images/2016/06/23/2016-04-20t161504z_01_ggglag11_rtridsp_3_nigeria-population-20-04-2016-18-04-46-74.jpg/ALTERNATES/crop_630x432/2016-04-20T161504Z_01_GGGLAG11_RTRIDSP_3_NIGERIA-POPULATION-20-04-2016-18-04-46-74.jpg)
 
 ### Related:
 

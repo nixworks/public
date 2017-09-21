@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-33972120)
 2. [The News Hub](https://www.the-newshub.com/politics/turkey-close-to-snap-election-as-erdogans-party-fails-to-find-coalition-partner)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/F263/production/_85015026_028594445-1.jpg)
 
 ### Related:
 

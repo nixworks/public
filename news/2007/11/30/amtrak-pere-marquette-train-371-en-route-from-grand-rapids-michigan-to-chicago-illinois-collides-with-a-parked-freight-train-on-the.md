@@ -9,6 +9,7 @@
 
 1. [AP via the Daily Herald](http://www.dailyherald.com/story/?id=87227)
 2. [Fox News](http://www.foxnews.com/story/0,2933,314243,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

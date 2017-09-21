@@ -9,6 +9,7 @@
 
 1. [NBC News](http://www.nbcnews.com/storyline/isis-terror/isis-may-be-holding-3-000-iraqi-civilians-human-shields-n623546)
 2. [NRT News](http://www.nrttv.com/EN/Details.aspx?Jimare=9303)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_31/1653656/hawija_6de3c2e9ef283bbe46b36bad619e85db.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

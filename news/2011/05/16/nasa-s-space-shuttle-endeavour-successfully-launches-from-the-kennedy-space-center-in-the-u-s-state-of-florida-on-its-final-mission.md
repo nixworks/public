@@ -9,6 +9,7 @@ NASA launched the space shuttle Endeavour on its last flight, the STS-134 missio
 
 1. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/news/nation-world/nasa-clears-space-shuttle-945979.html)
 2. [Space.com](http://www.space.com/11677-nasa-shuttle-launch-endeavour-final-mission-sts-134-liftoff.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwOS82MjUvb3JpZ2luYWwvZW5kZWF2b3VyLXN0czEzNC1sYXVuY2guanBn)
 
 ### Related:
 

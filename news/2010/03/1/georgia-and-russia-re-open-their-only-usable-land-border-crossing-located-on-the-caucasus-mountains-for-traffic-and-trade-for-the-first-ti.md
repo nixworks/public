@@ -11,6 +11,7 @@ Georgian official says move does not indicate warming of ties between nations.
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=119791&sectionid=351020602)
 3. [Toronto Sun](http://www.torontosun.com/news/world/2010/03/01/13066081.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/01/c_13192324.htm)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

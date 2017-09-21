@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-iraq-turkey-idUKKBN0UD1G520151230)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151230&t=2&i=1105864962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBT0S9)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Democratic Liberal Government led by Emil Boc lost a censure motion vote in 
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5if73bPzE8CdLsu0SiWsTNvXYA_EA)
 2. [HotNews](http://english.hotnews.ro/stiri-top_news-6274055-romania-government-falls-censure-motion-vote.htm)
+2. [Cover Image](http://media.hotnews.ro/media_server1/image-2013-02-2-14134436-0-sigla-hotnews-2.jpg)
 
 ### Related:
 

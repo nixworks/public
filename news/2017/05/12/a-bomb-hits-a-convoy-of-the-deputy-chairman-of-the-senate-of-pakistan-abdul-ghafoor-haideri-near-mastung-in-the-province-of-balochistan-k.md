@@ -8,6 +8,7 @@ A bomb exploded next to a convoy of the deputy chairman of the Pakistan Senate o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKBN18815A?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170512&t=2&i=1184346110&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4B13T)
 
 ### Related:
 

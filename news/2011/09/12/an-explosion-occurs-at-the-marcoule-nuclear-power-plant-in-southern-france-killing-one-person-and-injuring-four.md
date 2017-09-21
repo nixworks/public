@@ -8,6 +8,7 @@ No radiation leaks are detected at the French nuclear site of Marcoule, say offi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14883521)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/55311000/jpg/_55311881_012890431-1.jpg)
 
 ### Related:
 

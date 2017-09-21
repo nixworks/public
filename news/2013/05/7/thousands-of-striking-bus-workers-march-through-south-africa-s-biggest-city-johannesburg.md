@@ -8,6 +8,7 @@ Thousands of striking bus drivers are expected to march through the streets of J
 ### Source:
 
 1. [News 24](http://www.news24.com/SouthAfrica/News/Striking-bus-workers-to-march-in-Joburg-20130507)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2116/c6af67c1e1a941cd913b371dc149afc6.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A suicide bomber has killed at least 20 people, three of them Nato soldiers, in 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19783194)
 2. [New York Times](http://www.nytimes.com/2012/10/02/world/asia/suicide-bomber-afghanistan.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63214000/jpg/_63214468_63214467.jpg)
 
 ### Related:
 

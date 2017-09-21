@@ -8,6 +8,7 @@ She died in her twenties some 1700 years ago, and is believed to have ruled over
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/peru-reveals-face-of-ancient-young-female-ruler-lady-of-cao-20170704-gx4r4c.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/g/x/4/r/b/f/image.related.articleLeadwide.620x349.gx4r4c.png/1499226431565.jpg)
 
 ### Related:
 

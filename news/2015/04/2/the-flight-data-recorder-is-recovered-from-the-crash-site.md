@@ -9,6 +9,7 @@ The co-pilot suspected of deliberately crashing a plane into the Alps had resear
 
 1. [BBC](http://www.bbc.com/news/world-europe-32159602)
 2. [CNN](http://edition.cnn.com/2015/04/02/europe/france-germanwings-plane-crash-main/index.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82093000/jpg/_82093991_82093986.jpg)
 
 ### Related:
 

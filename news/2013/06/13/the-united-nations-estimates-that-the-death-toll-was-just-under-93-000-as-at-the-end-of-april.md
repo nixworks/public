@@ -9,6 +9,7 @@ Navi Pillay, the United Nations human rights chief, said the figure was probably
 
 1. [ABC News](http://abcnews.go.com/Politics/us-confirms-syria-chemical-weapons/story?id=19395909)
 2. [New York Times](http://www.nytimes.com/2013/06/14/world/middleeast/un-syria-death-toll.html?_r=0)
+2. [Cover Image](https://static01.nyt.com/images/2013/06/14/world/middleeast/14syria/14syria-videoLarge.jpg)
 
 ### Related:
 

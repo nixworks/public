@@ -10,6 +10,7 @@ UNITED NATIONS (AP) — Ban Ki-moon ends 10 years at the helm of the United Nati
 1. [AP](http://bigstory.ap.org/article/0795f0eee7f048779ffd428957e228e3/ban-ki-moon-buoyed-climate-accord-laments-conflicts)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/12/ban-ki-moon-leaves-regrets-conflicts-161231141724783.html)
 3. [India Today](http://indiatoday.intoday.in/story/ban-ki-moon-un-secretary-antonio-guterres/1/846567.html)
+3. [Cover Image](http://binaryapi.ap.org/19146231f25f44cda9a14e944a9f4ab5/460x.jpg)
 
 ### Related:
 

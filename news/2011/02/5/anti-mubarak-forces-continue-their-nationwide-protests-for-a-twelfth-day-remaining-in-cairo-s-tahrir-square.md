@@ -19,6 +19,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 10. [The New York Times](http://thelede.blogs.nytimes.com/2011/02/05/latest-updates-on-day-12-of-egypt-protests/#ongoing-confusion-about-mubaraks-role)
 11. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/mubarak-resigns-as-head-of-egypts-ruling-party-but-remains-president/1)
 12. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4024283,00.html)
+12. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 

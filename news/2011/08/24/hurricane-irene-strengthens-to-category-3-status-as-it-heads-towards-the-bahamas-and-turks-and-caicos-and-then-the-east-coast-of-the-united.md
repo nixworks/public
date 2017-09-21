@@ -10,6 +10,7 @@ Officials in a popular stretch of coastal North Carolina ordered all visitors to
 1. [AP via ''The Chronicle-Herald](http://thechronicleherald.ca/World/1259879.html)
 2. [CNN](http://edition.cnn.com/2011/WORLD/americas/08/24/tropical.weather/index.html?eref=rss_topstories)
 3. [News Limited via ''The Herald Sun](http://www.heraldsun.com.au/news/breaking-news/irene-strengthens-to-category-2-hurricane/story-e6frf7jx-1226121405171)
+3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/08/24/tropical.weather/tzvids.irene.noaa.gi.jpg)
 
 ### Related:
 

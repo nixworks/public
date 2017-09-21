@@ -8,6 +8,7 @@ China issued an &quot;orange alert&quot; for Typhoon Nida on Sunday, predicting 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-asia-storm-china-idUSKCN10B05B)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

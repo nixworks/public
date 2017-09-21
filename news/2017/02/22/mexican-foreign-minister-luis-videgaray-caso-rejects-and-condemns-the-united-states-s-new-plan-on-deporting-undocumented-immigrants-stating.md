@@ -8,6 +8,7 @@ Two top US officials are in Mexico to discuss the measures with President Enriqu
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39054999)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0F28/production/_94808830_29f28ec5-b01f-4e25-aee9-510c52d0bbd9.jpg)
 
 ### Related:
 

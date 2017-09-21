@@ -8,6 +8,7 @@ AT least one person is dead and six others injured in a shooting in the French c
 ### Source:
 
 1. [News Corp Australia](http://www.news.com.au/world/europe/crowd-fired-upon-by-motorcycle-assailants-in-toulouse/news-story/e05879753a2bf2b69825a9da196eb566)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/0ca20092a98d6baf6f5068e4559021a1)
 
 ### Related:
 

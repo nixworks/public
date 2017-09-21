@@ -9,6 +9,7 @@ The city controller, Annise Parker, who avoided making an issue of her sexual or
 
 1. [CBS News](http://www.khou.com/news/Houston-Mayoral-candidates-Were-ready-79091657.html)
 2. [New York Times](http://www.nytimes.com/2009/12/13/us/politics/13houston.html)
+2. [Cover Image](https://static01.nyt.com/images/2009/12/13/us/13houston02/thumbStandard.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least 30 miners are feared dead in a suspected methane gas blast at a coal mi
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-31725243)
 2. [Reuters via News24](http://www.news24.com/news24/World/News/Thirty-three-miners-killed-in-Ukraine-20150304)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81387000/jpg/_81387912_81387911.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A 6.0 magnitude earthquake struck northern Chile on Saturday, the latest in a se
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSN1743040220071117)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071117&t=2&i=2226694&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-11-17T182316Z_01_N17430402_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Dawn](http://www.dawn.com/news/1314549)
+1. [Cover Image](http://i.dawn.com/medium/2017/02/58a295b55683b.jpg)
 
 ### Related:
 

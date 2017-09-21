@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/04/06/us-wisconsin-election-idUSTRE7350J920110406?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110406&t=2&i=380298771&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-06T133630Z_01_BTRE73511SV00_RTROPTP_0_USA-WISCONSIN-PROTESTS)
 
 ### Related:
 

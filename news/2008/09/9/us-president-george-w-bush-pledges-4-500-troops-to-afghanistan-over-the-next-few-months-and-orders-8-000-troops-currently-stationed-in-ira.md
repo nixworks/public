@@ -8,6 +8,7 @@ The United States will ramp up its troop levels in Afghanistan over the next few
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/world/story/2008/09/09/iraq-bush.html)
+1. [Cover Image](https://i.cbc.ca/1.2233040.1382676773!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-iraq-patrol-cp-4365476-306.jpg)
 
 ### Related:
 

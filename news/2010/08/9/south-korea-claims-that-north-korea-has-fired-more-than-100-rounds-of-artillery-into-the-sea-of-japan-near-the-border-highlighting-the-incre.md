@@ -9,6 +9,7 @@
 
 1. [China Daily](http://www.chinadaily.com.cn/world/2010-08/09/content_11124705.htm)
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-north-korea-artillery-20100810,0,5829301.story)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

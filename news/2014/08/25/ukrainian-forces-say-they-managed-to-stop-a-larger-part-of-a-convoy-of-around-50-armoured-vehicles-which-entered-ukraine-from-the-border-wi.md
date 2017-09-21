@@ -8,6 +8,7 @@ The Ukrainian military said on Monday a group of Russian forces, in the guise of
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/08/25/uk-ukraine-crisis-column-idUKKBN0GP0MD20140825)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140825&t=2&i=966794878&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7O0BX)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Three British soldiers are being investigated by military lawyers over the alleg
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11723188)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

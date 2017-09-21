@@ -8,3 +8,4 @@ PARIS — The mother of a pupil at a French pre-school stabbed a teacher to deat
 ### Source:
 
 1. [New York Post](http://nypost.com/2014/07/04/mom-stabs-kindergarden-teacher-to-death-in-front-of-class/)
+1. [Cover Image](https://thenypost.files.wordpress.com/2014/07/531360579.jpg?quality=90&amp;strip=all&amp;w=1200)

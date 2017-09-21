@@ -8,6 +8,7 @@ Jack Lew was sworn in as Treasury secretary on Thursday, a White House official 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/28/us-usa-treasury-lew-idUSBRE91R15H20130228)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130228&t=2&i=708392059&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91R1DU700)
 
 ### Related:
 

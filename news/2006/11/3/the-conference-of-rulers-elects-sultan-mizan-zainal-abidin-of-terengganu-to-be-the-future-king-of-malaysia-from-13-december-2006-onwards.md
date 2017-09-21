@@ -9,6 +9,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 1. [JapanToday](http://www.japantoday.com/jp/news/389364)
 2. [TimesOnline](http://www.timesonline.co.uk/article/0,,25689-2436381,00.html)
+2. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

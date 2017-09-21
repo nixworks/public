@@ -8,6 +8,7 @@ Seattle Mayor Ed Murray has resigned hours after a fifth man — a relative — 
 ### Source:
 
 1. [The Seattle Times](http://www.seattletimes.com/seattle-news/politics/seattle-mayor-ed-murray-resigns-after-fifth-child-sex-abuse-allegation/)
+1. [Cover Image](https://static.seattletimes.com/wp-content/uploads/2017/09/8f0c2378-97ed-11e7-945c-2f55b1626d06-1200x630.jpg)
 
 ### Related:
 

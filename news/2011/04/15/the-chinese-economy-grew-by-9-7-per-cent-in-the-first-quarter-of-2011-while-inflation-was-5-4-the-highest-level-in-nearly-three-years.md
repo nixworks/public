@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/04/15/us-china-economy-gdp-idUSTRE73E0FO20110415?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110415&t=2&i=388064259&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-15T185428Z_01_BTRE73E07EO00_RTROPTP_0_CHINA-ECONOMY-GDP)
 
 ### Related:
 

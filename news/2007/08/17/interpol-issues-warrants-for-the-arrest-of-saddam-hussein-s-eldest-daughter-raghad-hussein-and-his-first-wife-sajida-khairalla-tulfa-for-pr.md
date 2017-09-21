@@ -8,6 +8,7 @@ Iraqi officials would not discuss the specific charges against Raghad Saddam Hus
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/08/18/world/middleeast/18iraq.html?_r=1&ref=world&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

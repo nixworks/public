@@ -8,6 +8,7 @@ A Columbian businessman, who is visiting South Africa, has been diagnosed with t
 ### Source:
 
 1. [Times Live](http://www.timeslive.co.za/local/2016/02/19/First-Zika-virus-case-in-South-Africa-diagnosed)
+1. [Cover Image](http://www.timeslive.co.za/Feeds/Reuters_Images/2016/02/02/2016-02-02t001436z_01_bsb022_rtridsp_3_health-zika-brazil-02-02-2016-02-02-00-45.jpg/ALTERNATES/crop_630x432/2016-02-02T001436Z_01_BSB022_RTRIDSP_3_HEALTH-ZIKA-BRAZIL-02-02-2016-02-02-00-45.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Jamaica Observer](http://www.jamaicaobserver.com/latestnews/Chikungunya-now-an-epidemic-in-the-Caribbean)
+1. [Cover Image](http://www.jamaicaobserver.com/assets/10637660/aedes_w400.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ BEIRUT - In the first attack to target a campaign event, a mortar shell slammed 
 ### Source:
 
 1. [Canadian Press via ''Penicton Herald](http://www.pentictonherald.ca/news/world_news/article_1b99dff1-efb8-582d-9f0b-e216a3e8b7b7.html)
+1. [Cover Image](http://pentictonherald.com/content/tncms/live/global/resources/images/_site/og_image.jpg)
 
 ### Related:
 

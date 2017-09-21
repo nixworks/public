@@ -8,6 +8,7 @@ A man who died after being Tasered by police in Telford, Shropshire, has been na
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/crime/dalian-atkinson-aston-villa-dead-taser-police-death-telford-footballer-latest-a7191601.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/15/11/dalian-atkinson.jpg)
 
 ### Related:
 

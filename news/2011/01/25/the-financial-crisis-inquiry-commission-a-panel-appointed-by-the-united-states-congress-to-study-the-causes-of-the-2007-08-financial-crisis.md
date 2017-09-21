@@ -8,6 +8,7 @@ A bipartisan panel investigating the financial crisis has referred cases of pote
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70O0P220110125)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

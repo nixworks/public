@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-china-diplomacy-idUSKBN18W2NT?feedType=RSS&feedName=newsOne&google_editors_picks=true)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170605&t=2&i=1187703086&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED541KQ)
 
 ### Related:
 

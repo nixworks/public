@@ -10,6 +10,7 @@ Hamas says militant chief Mohammed Deif is alive and leading its response to Isr
 1. [AP via Fox News](http://www.foxnews.com/world/2014/08/20/palestinian-rocket-attacks-israeli-airstrikes-after-collapse-gaza-cease-fire/)
 2. [BBC](http://www.bbc.com/news/world-middle-east-28862595#)
 3. [Reuters](http://mobile.reuters.com/article/topNews/idUSKBN0GI12O20140820?irpc=932)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77050000/jpg/_77050783_77050782.jpg)
 
 ### Related:
 

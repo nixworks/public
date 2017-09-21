@@ -8,6 +8,7 @@ During this difficult time, we offer heartfelt condolences to the families of th
 ### Source:
 
 1. [City of Orlando](http://www.cityoforlando.net/blog/victims/)
+1. [Cover Image](http://www.cityoforlando.net/wp-content/uploads/2016/06/seallarge-300x173.jpg)
 
 ### Related:
 

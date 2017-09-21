@@ -9,6 +9,7 @@ Ivory Coast stages an inauguration ceremony for President Alassane Ouattara afte
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/201152111547236688.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13482188)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52877000/jpg/_52877107_jex_1052593_de25.jpg)
 
 ### Related:
 

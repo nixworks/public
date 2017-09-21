@@ -9,6 +9,7 @@ SFWA has named Gene Wolfe as the 2012 recipient of the Damon Knight Memorial Gra
 
 1. [SFWA](http://www.sfwa.org/2012/12/2012-damon-knight-memorial-grand-master-awarded-to-gene-wolfe/)
 2. [The Guardian](http://www.guardian.co.uk/books/2012/dec/14/gene-wolfe-grand-master-award)
+2. [Cover Image](http://www.sfwa.org/wp-content/uploads/2012/12/genewolfe.jpg)
 
 ### Related:
 

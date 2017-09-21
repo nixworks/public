@@ -8,6 +8,7 @@ Voters in two European Union countries, the Czech Republic and Ireland, began vo
 ### Source:
 
 1. [Sofia Globe](http://sofiaglobe.com/2014/05/23/second-day-of-voting-in-2014-european-parliament-elections/)
+1. [Cover Image](http://sofiaglobe.com/wp-content/uploads/2013/10/european-parliament.jpg)
 
 ### Related:
 

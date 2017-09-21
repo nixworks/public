@@ -9,6 +9,7 @@ The African Union says its troops are now in control of more than 40% of the Som
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11495226)
 2. [News24](http://www.news24.com/Africa/News/AU-troops-claim-gains-over-Shabaab-20101007)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

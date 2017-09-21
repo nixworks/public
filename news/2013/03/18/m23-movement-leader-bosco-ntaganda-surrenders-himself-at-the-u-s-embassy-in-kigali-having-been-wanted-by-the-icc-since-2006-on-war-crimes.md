@@ -10,6 +10,7 @@ Bosco Ntaganda, accused of massacring civilians, said he wanted to be sent to th
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/03/18/rwanda-warlord-in-custody/1997059/)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/mar/18/bosco-ntaganda-us-embassy-rwanda)
 3. [The New York Times](http://www.nytimes.com/2013/03/19/world/africa/wanted-congolese-rebel-leader-turns-himself-in.html)
+3. [Cover Image](https://static01.nyt.com/images/2013/03/19/world/CONGO/CONGO-videoLarge.jpg)
 
 ### Related:
 

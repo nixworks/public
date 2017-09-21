@@ -11,6 +11,7 @@ Around 200 people arrested, with a policeman and protester killed in demonstrati
 2. [GlobalPost](http://www.globalpost.com/dispatch/news/xinhua-news-agency/140703/17-extremists-killed-security-raids-egypts-sinai)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10945251/More-blood-spilt-in-Egypt-on-anniversary-of-ousting-of-President-Mohammed-Morsi.html)
 4. [allAfrica](http://allafrica.com/stories/201407040654.html)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02960/MuslimBrotherhood_2960723k.jpg)
 
 ### Related:
 

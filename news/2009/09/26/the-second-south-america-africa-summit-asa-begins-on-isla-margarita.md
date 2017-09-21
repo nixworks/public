@@ -17,6 +17,7 @@ The presidents of Argentina, Brazil, Paraguay, Uruguay, Ecuador, Bolivia and Ven
 8. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20090925-712414.html)
 9. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12114739.htm)
 10. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12114951.htm)
+10. [Cover Image](http://en.mercopress.com/imgs.php/noticias/22063/200x200/b0f78b10a4c9f1327d64c4f0594d3f94.jpg)
 
 ### Related:
 

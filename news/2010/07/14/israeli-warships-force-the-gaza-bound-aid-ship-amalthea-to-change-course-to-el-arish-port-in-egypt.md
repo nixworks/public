@@ -9,6 +9,7 @@ Israeli warships force Libyan-sponsored Amalthea to change course to El Arish po
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/201071419010766579.html)
 2. [BBC](http://www.bbc.co.uk/news/10615479)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

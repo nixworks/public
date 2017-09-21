@@ -9,6 +9,7 @@ Emmanuel Macron&#39;s party is on course to secure an historic majority in parli
 
 1. [BBC](http://www.bbc.com/news/world-europe-40178118)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2017/06/11/exit-polls-show-emmanuel-macron-headed-crushing-victory-french/)
+2. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/06/11/macron-xlarge_trans_NvBQzQNjv4BqLtKzI_Uzr234GdRkTuCnbXqATAdx-Nqwgurcdohbt8I.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Moscow objects to beefed-up U.S. presence on the eve of a NATO summit in Poland.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/2016/06/10/russia-vows-response-us-naval-ships-entry-into-black-sea/85686822/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

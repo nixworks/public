@@ -8,6 +8,7 @@ A gun used to shoot a police officer Saturday morning was the same weapon used i
 ### Source:
 
 1. [Alaska Dispatch News](https://www.adn.com/alaska-news/crime-courts/2016/11/15/apd-gun-used-by-suspect-in-saturday-police-shooting-implicated-in-five-anchorage-homicides/)
+1. [Cover Image](https://www.adn.com/resizer/7SeJdZDDZV9oA695JL8t8CfCn6M=/1200x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2016/11/16115331/Ritchie-High-School-License-3x2.jpg?token=bar)
 
 ### Related:
 

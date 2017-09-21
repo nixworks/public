@@ -8,6 +8,7 @@ Turkish Prime Minister Recep Tayyip Erdogan on Friday slammed Egypt&#x27;s Presi
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/turkey-pm-erdogan-slams-egypts-illegitimate-tyrant-sisi-130905463.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/yS8vgJV7QTKL7ip8tcZFXg--/aD0xNjU1O3c9MjQ5OTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/afp.com/d7196000dcad9cdbbc26793813ba6ec52697455b.jpg)
 
 ### Related:
 

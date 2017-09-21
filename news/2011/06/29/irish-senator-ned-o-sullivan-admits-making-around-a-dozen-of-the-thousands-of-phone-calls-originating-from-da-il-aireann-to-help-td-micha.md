@@ -9,6 +9,7 @@ Fianna Fáil Senator Ned O&#39;Sullivan has said he made &#39;around a dozen&#39
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13954807)
 2. [RTÉ](http://www.rte.ie/news/2011/0629/healyraem.html)
+2. [Cover Image](https://img.rasset.ie/0004b9aa-1600.jpg)
 
 ### Related:
 

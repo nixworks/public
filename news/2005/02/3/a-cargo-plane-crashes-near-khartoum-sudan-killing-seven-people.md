@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4231913.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=136&art_id=qw1107418862912B262)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7523258)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

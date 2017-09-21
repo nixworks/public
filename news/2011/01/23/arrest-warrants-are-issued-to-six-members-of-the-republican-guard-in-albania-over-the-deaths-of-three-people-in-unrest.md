@@ -9,6 +9,7 @@ Albanian prosecutors issue arrest warrants for six members of the republican gua
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12260659)
 2. [RTÉ](http://www.rte.ie/news/2011/0123/albania.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

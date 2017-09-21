@@ -8,6 +8,7 @@ At least 10 people were also injured in the explosion and were taken to Dera Mur
 ### Source:
 
 1. [The Express](http://tribune.com.pk/story/620310/five-dead-in-explosion-on-quetta-bound-jaffar-express/)
+1. [Cover Image](https://c.tribune.com.pk/2013/10/620310-train-1382340997-152-640x480.jpg)
 
 ### Related:
 

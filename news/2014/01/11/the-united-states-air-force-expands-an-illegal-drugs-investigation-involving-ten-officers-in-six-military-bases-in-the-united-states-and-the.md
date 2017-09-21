@@ -8,6 +8,7 @@ Ten U.S. Air Force officers are being investigated for alleged illegal drug poss
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/11/us-usa-airforce-drugs-idUSBREA0A00620140111)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

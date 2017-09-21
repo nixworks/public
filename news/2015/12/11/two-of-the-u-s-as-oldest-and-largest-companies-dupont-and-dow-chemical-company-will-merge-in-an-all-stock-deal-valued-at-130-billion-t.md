@@ -9,6 +9,7 @@ Chemical titans DuPont and Dow Chemical Co have agreed to combine in an all-stoc
 
 1. [Reuters](http://www.reuters.com/article/us-dow-m-a-dupont-idUSKBN0TU1B220151211#foIQzcZvrOmHb3W1.97)
 2. [The Washington Post](https://www.washingtonpost.com/news/business/wp/2015/12/11/dow-and-dupont-two-of-americas-oldest-giants-to-merge-in-job-dropping-megadeal/?wpmm=1&wpisrc=nl_evening)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151211&t=2&i=1101627428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBA16U)
 
 ### Related:
 

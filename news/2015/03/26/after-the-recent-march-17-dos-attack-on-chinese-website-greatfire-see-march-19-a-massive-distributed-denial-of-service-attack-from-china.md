@@ -8,6 +8,7 @@ Last night, GitHub was hit with a massive denial of service attack. Some time We
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2015/3/27/8299555/github-china-ddos-censorship-great-firewall)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/VIe0fnZp15vpjXce9SHYdlB3dPg=/0x0:1019x573/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/45990532/tosdr__1_of_1_.0.jpg)
 
 ### Related:
 

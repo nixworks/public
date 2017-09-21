@@ -8,6 +8,7 @@ Russia has vetoed a U.N. Security Council resolution that would have established
 ### Source:
 
 1. [WSJ](http://www.wsj.com/articles/russia-vetoes-u-n-tribunal-on-malaysia-airlines-flight-downed-over-ukraine-1438253293)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-JK715_071615_G_20150716144141.jpg)
 
 ### Related:
 

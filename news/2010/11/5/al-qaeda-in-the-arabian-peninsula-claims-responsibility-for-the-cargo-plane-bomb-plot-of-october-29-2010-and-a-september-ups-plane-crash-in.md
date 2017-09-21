@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6A44PU20101105)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20101105&t=2&i=242463029&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-05T195050Z_01_BTRE6A41J4S00_RTROPTP_0_BRITAIN-YEMEN-PLANE)
 
 ### Related:
 

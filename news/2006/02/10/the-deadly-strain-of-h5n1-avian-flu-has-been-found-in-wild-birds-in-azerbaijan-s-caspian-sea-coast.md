@@ -9,6 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=1596667)
 2. [CBC](http://www.cbc.ca/world/story/2006/02/10/avian-azerbaijan.html)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

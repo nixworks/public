@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-01-14/ukraine-bus-attack-leaves-10-civilians-dead-several-wounded/6015548)
+1. [Cover Image](http://www.abc.net.au/news/image/6015614-1x1-700x700.jpg)
 
 ### Related:
 

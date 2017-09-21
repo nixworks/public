@@ -8,6 +8,7 @@ Capping a remarkable fourth quarter, Santonio Holmes made a brilliant catch for 
 ### Source:
 
 1. [ESPN.com](http://sports.espn.go.com/nfl/recap?gameId=290201022&campaign=rss&source=ESPNHeadlines)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A series of attacks in Baghdad and north Iraq leave four policemen dead and a do
 ### Source:
 
 1. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Nov-16/238057-four-police-killed-in-iraq-attacks.ashx#axzz2kpCaCm00)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/11/16/226060_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A Bangladeshi-flagged cargo ship hijacked by pirates off the coast of India appe
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11925616)
 2. [Capital FM Kenya](http://www.capitalfm.co.ke/news/Africa/Pirates-steering-ship-towards-Somalia-10766.html)
 3. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_611002.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

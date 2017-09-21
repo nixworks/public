@@ -9,6 +9,7 @@ The World Health Organization on Friday declared the Ebola outbreak in West Afri
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-08-09/ebola-nigeria-declares-national-emergency/5659894)
 2. [AP via Fox News](http://www.foxnews.com/health/2014/08/08/ebola-outbreak-declared-public-health-emergency-by-world-health-organization/)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/080714/0/0/080714_sr_siegel_640.jpg?ve=1)
 
 ### Related:
 

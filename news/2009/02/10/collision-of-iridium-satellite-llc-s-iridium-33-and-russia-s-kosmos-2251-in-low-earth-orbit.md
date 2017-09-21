@@ -9,6 +9,7 @@ A privately owned U.S. communications satellite collided with a defunct Russian 
 
 1. [New York Times](http://www.nytimes.com/2009/02/12/science/space/12satellite.html?hp)
 2. [Reuters](http://www.reuters.com/article/newsMaps/idUSTRE51A8IA20090211)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

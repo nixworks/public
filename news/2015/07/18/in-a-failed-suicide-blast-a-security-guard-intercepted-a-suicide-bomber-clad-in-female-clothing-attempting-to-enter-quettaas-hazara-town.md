@@ -8,6 +8,7 @@ Attacker prematurely detonates explosives after interception by a security guard
 ### Source:
 
 1. [Dawn](http://www.dawn.com/news/1195221/suicide-blast-at-quettas-brewery-road-kills-two)
+1. [Cover Image](http://i.dawn.com/medium/2015/07/55a95765efaa6.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Centrist leader François Bayrou is the latest to resign as the president finali
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-40351918)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2C49/production/_96573311_ba8aae80-99bd-4986-87b6-9af8fff97f9e.jpg)
 
 ### Related:
 

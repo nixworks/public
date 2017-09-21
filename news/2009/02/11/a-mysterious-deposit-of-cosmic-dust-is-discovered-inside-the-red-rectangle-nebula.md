@@ -8,3 +8,4 @@ The universe is not empty. The space between stars and between galaxies is perme
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/29123749/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/070406_red_rectangle_02.standard.jpg)

@@ -8,6 +8,7 @@ Gunmen in Pakistan have killed six health workers at the start of a nationwide p
 ### Source:
 
 1. [AFP via SBS](http://www.sbs.com.au/news/article/1721729/Six-polio-workers-shot-dead-in-Pakistan)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/4/8/4875_polio-death-pakistan.jpg)
 
 ### Related:
 

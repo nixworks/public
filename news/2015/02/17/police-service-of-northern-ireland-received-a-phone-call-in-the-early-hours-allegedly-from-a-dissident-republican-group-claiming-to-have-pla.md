@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Derry Journal](http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/derry-security-alert-its-a-bomb-and-designed-to-kill-30996855.html)
+1. [Cover Image](http://www.belfasttelegraph.co.uk/incoming/article30997001.ece/ALTERNATES/h342/tDerry12781114jpg.jpg)
 
 ### Related:
 

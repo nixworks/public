@@ -9,6 +9,7 @@ The ruling deepens the split in the party and disenfranchises almost 130,000 new
 
 1. [AP via ''The Christian Science Monitor](http://www.csmonitor.com/World/Europe/2016/0812/British-court-shuts-thousands-of-party-members-out-of-key-Labour-vote)
 2. [The Guardian](http://www.theguardian.com/politics/2016/aug/12/labour-wins-appeal-against-ruling-allowing-new-members-a-leadership-vote)
+2. [Cover Image](http://images.csmonitor.com/csm/2016/08/997719_1_0812-wire-labour_standard.jpg?alias=standard_900x600)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Aljazeera](http://www.aljazeera.com/indepth/features/2014/03/philippines-prepares-historic-peace-deal-milf-201432411220461644.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/3/25/201432593625706734_20.jpg)
 
 ### Related:
 

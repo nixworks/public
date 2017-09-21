@@ -9,6 +9,7 @@
 
 1. [ABC News](http://abcnews.go.com/US/disgruntled-employee-kills-workplace-orlando-police/story?id=47838338)
 2. [CNN](http://www.cnn.com/2017/06/05/us/orlando-fatalities/index.html)
+2. [Cover Image](http://a.abcnews.com/images/US/AP-orlando-shooting4-ml-170605_16x9_992.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/10/police-van-rams-protesters-embassy-manila-161019131238539.html)
 2. [Rappler](http://www.rappler.com/nation/149646-dispersal-protest-us-embassy-manila)
 3. [The Manila Bulletin](http://www.mb.com.ph/investigation-on-us-embassy-incident-underway-bato/)
+3. [Cover Image](https://assets.rappler.com/758A642F52FF4144B756C5E9F462E4C7/img/E5B07949205F4C859514203FED8DE2E1/Indigenous-people-rally-us-embassy-20161019-04.jpg)
 
 ### Related:
 

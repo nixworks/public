@@ -8,6 +8,7 @@
 ### Source:
 
 1. [United Nations](http://www.un.org/apps/news/story.asp?NewsID=38330&Cr=sudan&Cr1=)
+1. [Cover Image](/News/dh/photos/large/2011/461539-sudan.jpg)
 
 ### Related:
 

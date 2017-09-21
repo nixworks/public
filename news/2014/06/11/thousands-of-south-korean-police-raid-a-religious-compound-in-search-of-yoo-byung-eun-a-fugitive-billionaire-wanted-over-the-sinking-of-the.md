@@ -8,6 +8,7 @@ Some 6,000 South Korean officers raid a religious compound in search of fugitive
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27790275)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75442000/jpg/_75442747_75442746.jpg)
 
 ### Related:
 

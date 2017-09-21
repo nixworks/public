@@ -10,6 +10,7 @@ China rejects allegations of involvement in a cyber-spying campaign targeting th
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13626548)
 2. [Calcutta Telegraph](http://www.telegraphindia.com/1110603/jsp/foreign/story_14065044.jsp)
 3. [Global Times](http://china.globaltimes.cn/society/2011-06/661596.html)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53108000/gif/_53108726_pfignuv4.gif)
 
 ### Related:
 

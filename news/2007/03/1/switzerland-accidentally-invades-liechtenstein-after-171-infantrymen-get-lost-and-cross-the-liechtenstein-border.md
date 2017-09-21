@@ -9,6 +9,7 @@ What began as a routine training exercise almost ended in an embarrassing diplom
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6415531.stm)
 2. [Fox News](http://www.foxnews.com/story/0,2933,256098,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

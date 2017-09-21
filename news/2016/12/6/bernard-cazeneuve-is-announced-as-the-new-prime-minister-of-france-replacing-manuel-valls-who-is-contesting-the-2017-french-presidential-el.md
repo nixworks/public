@@ -8,6 +8,7 @@ French President Francois Hollande on Tuesday appointed Interior Minister Bernar
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-france-election-idUSKBN13V0R2?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20161206&t=2&i=1164342470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB50FA)
 
 ### Related:
 

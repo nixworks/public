@@ -8,6 +8,7 @@ At least 10 people are killed and more than 65 wounded in the northern Afghan ci
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32230399)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82204000/jpg/_82204043_img_0378.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ Hezbollah chief Hassan Nasrallah says he would be willing to mediate in the Syri
 4. [CNN](http://edition.cnn.com/2012/04/17/world/europe/russia-wikileaks/?hpt=ieu_c2)
 5. [New York Daily News](http://www.nydailynews.com/news/world/wikileaks-founder-julian-assange-launches-talk-show-world-tomorrow-hezbollah-leader-guest-article-1.1062944)
 6. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-technology/assange-interviews-hezbollah-leader-in-tv-premiere-20120418-1x61w.html)
+6. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59709000/jpg/_59709112_014532848-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Six bodies are found in a house west of Vienna after a suspected family shooting
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-38172365)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBA3/production/_92791446_austriahousenewepa1dec.jpg)
 
 ### Related:
 

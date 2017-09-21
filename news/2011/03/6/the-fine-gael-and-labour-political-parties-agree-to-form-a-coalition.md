@@ -11,6 +11,7 @@ Fine Gael and Labour are set to form a government for national recovery under th
 2. [RTÉ](http://www.rte.ie/news/2011/0306/politics.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/mar/06/ireland-fine-gale-labour-coalition)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0306/breaking1.html?via=mr)
+4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Emergency warnings for fires burning at Somerville, on the Mornington Peninsula 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-02-23/fire-emergency-warning-issued-for-mount-bolton-addington/7192876)
+1. [Cover Image](http://www.abc.net.au/news/image/7193580-1x1-700x700.jpg)
 
 ### Related:
 

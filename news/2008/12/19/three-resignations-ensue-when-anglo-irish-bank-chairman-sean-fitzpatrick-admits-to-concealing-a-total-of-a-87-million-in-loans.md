@@ -8,6 +8,7 @@ David Drumm has resigned as chief executive of Anglo Irish Bank following last n
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/1219/anglo-business.html)
+1. [Cover Image](https://img.rasset.ie/0000c1ca-1600.jpg)
 
 ### Related:
 

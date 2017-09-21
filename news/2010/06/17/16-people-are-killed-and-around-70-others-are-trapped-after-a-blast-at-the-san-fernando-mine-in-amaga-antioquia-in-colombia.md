@@ -11,6 +11,7 @@ An explosion at a coalmine in Colombia kills at least 16 workers with about 70 s
 2. [China Dialy](http://www.chinadaily.com.cn/world/2010-06/17/content_9986175.htm)
 3. [France24](http://www.france24.com/en/20100617-colombia-coal-mine-blast-traps-dozens-miners-underground-deadly-accident)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE65G56220100617?feedType=RSS&feedName=worldNews)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

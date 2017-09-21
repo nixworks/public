@@ -10,6 +10,7 @@ The govt. has started releasing 20,000 cubic feet per second of water from Chemb
 1. [Indian Broadcast News Live](http://www.ibnlive.com/news/india/ndrf-to-rush-about-600-personnel-to-chennai-1171634.html)
 2. [ND TV](http://www.ndtv.com/tamil-nadu-news/tamil-nadu-batterred-by-rain-army-called-in-for-rescue-ops-live-updates-1249893)
 3. [The Hindu](http://www.thehindu.com/news/cities/chennai/tamil-nadu-heavy-rains-lash-chennai-to-continue-for-two-more-days/article7936729.ece)
+3. [Cover Image](http://www.thehindu.com/migration_catalog/article10003475.ece/ALTERNATES/LANDSCAPE_615/VELLACHERRY_3)
 
 ### Related:
 

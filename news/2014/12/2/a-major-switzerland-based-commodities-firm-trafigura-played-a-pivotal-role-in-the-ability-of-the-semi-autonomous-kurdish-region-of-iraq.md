@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/04/us-mideast-crisis-kurds-trafigura-exclus-idUSKCN0JI0MC20141204)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141204&t=2&i=996721997&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAB309R)
 
 ### Related:
 

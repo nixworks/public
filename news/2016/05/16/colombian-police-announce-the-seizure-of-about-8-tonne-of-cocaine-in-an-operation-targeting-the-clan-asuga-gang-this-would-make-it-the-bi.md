@@ -10,6 +10,7 @@ Police in Colombia say they have seized nearly eight tonnes of cocaine in the to
 1. [BBC](http://www.bbc.com/news/world-latin-america-36299539)
 2. [NBC News](http://www.nbcnews.com/news/world/colombia-makes-biggest-seizure-drugs-8-tons-cocaine-found-n574501)
 3. [UPI](http://www.upi.com/Top_News/World-News/2016/05/16/85-ton-drug-bust-is-largest-in-Colombias-history/1901463394672/)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/659A/production/_89701062_032960058.jpg)
 
 ### Related:
 

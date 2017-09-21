@@ -9,6 +9,7 @@ The Pakistan Taliban is planning to kidnap foreign aid workers delivering assist
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jmVdcVaXCzrZTsGA-5zdyqbmsqaA)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/7965241/Pakistan-floods-Taliban-vows-to-kidnap-foreign-aid-workers.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01703/pakistanFlood_1703275a.jpg)
 
 ### Related:
 

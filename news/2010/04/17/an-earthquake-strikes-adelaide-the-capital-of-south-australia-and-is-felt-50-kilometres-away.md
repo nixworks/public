@@ -8,6 +8,7 @@ An earthquake that shook Adelaide rattled enough residents to flood emergency ph
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/earthquake-hits-adelaide-hills-20100417-skw5.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

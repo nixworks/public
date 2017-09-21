@@ -8,6 +8,7 @@ The Christian Science Monitor is an international news organization that deliver
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/Latest-News-Wires/2011/1028/Statue-of-Liberty-birthday-celebrations-include-Sigourney-Weaver-La-Marseillaise-and-125-new-Americans)
+1. [Cover Image](http://images.csmonitor.com/csmarchives/2011/10/1028-statue-of-liberty-anniversary.jpg?alias=standard_900x600)
 
 ### Related:
 

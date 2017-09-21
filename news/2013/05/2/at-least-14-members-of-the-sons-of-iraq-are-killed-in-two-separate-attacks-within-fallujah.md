@@ -8,6 +8,7 @@ At least 14 members of an anti-al-Qaeda Sunni militia are killed in two attacks 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22364394)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67357000/jpg/_67357499_82583577.jpg)
 
 ### Related:
 

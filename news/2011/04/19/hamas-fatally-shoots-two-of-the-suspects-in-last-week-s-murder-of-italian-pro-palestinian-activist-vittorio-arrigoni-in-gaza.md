@@ -8,6 +8,7 @@ Two suspects in the killing of Vittorio Arrigoni, the slain peace activist, die 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011419165045686289.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/15/2011415111137627140_20.jpg)
 
 ### Related:
 

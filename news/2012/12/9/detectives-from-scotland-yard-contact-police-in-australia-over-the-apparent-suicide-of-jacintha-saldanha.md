@@ -8,6 +8,7 @@ Scotland Yard contacts Australian police over the apparent suicide of a nurse fr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20656911)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64647000/jpg/_64647967_knch5s8o.jpg)
 
 ### Related:
 

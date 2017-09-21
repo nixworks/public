@@ -9,6 +9,7 @@ At least seven people were killed and several others injured today in Pakistan
 
 1. [India.com](http://www.india.com/news/world/7-killed-in-suicide-attack-at-pakistan-lawmakers-outhouse-629979/)
 2. [The Express Tribune](http://tribune.com.pk/story/972656/five-killed-many-wounded-in-blast-outside-mnas-residence-in-dg-khan/)
+2. [Cover Image](http://www.india.com/wp-content/uploads/2015/09/pakistan-flag-01312.jpg)
 
 ### Related:
 

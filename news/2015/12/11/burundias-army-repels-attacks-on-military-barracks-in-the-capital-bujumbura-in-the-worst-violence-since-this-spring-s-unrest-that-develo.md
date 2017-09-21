@@ -9,6 +9,7 @@ Burundi’s army said it repelled attacks on military barracks in the capital, B
 
 1. [Al Jazeera](http://america.aljazeera.com/articles/2015/12/11/burundi-military-sites-attacked.html)
 2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-12-11/burundi-capital-rocked-by-gunfire-amid-reports-dozens-killed)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

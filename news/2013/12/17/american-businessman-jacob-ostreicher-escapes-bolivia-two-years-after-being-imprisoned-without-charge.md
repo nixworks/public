@@ -8,6 +8,7 @@ An American businessman detained in Bolivia without charge for more than two yea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-25419829)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71799000/jpg/_71799854_ostreicher.jpg)
 
 ### Related:
 

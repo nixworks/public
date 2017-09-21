@@ -8,6 +8,7 @@ Updated 1.15pm with Muscat comments The Labour Party has comfortably won the gen
 ### Source:
 
 1. [Times of Malta](https://www.timesofmalta.com/articles/view/20170604/local/labour-expected-to-win-the-general-election-indications.649961)
+1. [Cover Image](https://cdn-attachments.timesofmalta.com/45fe33c35a54fa4b2a05e6d03e1ac3756be97c81-1496576534-5933f216-620x348.jpg)
 
 ### Related:
 

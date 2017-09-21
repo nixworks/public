@@ -8,6 +8,7 @@ KEVIN Rudd said he resumes the task he began in 2007 &quot;with humility&quot; a
 ### Source:
 
 1. [News Limited](http://www.news.com.au/national-news/federal-election/labor-leadership-live-kevin-rudd-returns-julia-gillard-loses-support-of-partyroom/story-fnho52ip-1226669921693)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/5cbe311c14b8826cf57d441f27a2e8fe)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Israel denounces the decision, accusing the UN cultural agency of being a &quot;
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-40530396)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F720/production/_96846236_mediaitem96846232.jpg)
 
 ### Related:
 

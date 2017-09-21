@@ -9,6 +9,7 @@
 
 1. [CBC](http://www.cbc.ca/canada/british-columbia/story/2008/04/25/bc-abbotsford-church-collapse.html)
 2. [CTV](http://www.ctvbc.ca/servlet/an/local/CTVNews/20080426/church_floor_080426/20080426/?hub=BritishColumbiaHome)
+2. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.846393.1459491012!/httpImage/image.jpeg_gen/derivatives/landscape_960/image.jpeg)
 
 ### Related:
 
@@ -21,4 +22,4 @@
 7. [ An intruder enters a church in Malta during mass and smashes a 200-year-old Jerusalem mother-of-pearl crucifix creating commotion. ](/news/2006/03/31/an-intruder-enters-a-church-in-malta-during-mass-and-smashes-a-200-year-old-jerusalem-mother-of-pearl-crucifix-creating-commotion.md) _Context: church_
 8. [ Archaeologists in Israel discover a rare early Christian church, dating to circa AD 300. The church was uncovered near the prison at Megiddo. ](/news/2005/11/5/archaeologists-in-israel-discover-a-rare-early-christian-church-dating-to-circa-ad-300-the-church-was-uncovered-near-the-prison-at-megidd.md) _Context: church_
 9. [ The Dresden Frauenkirche (Church of Our Lady), a Protestant Church in Dresden, Germany is re-consecrated. The church was destroyed during the bombing of Dresden in World War II. The remains of the church had been left untouched by the government of East Germany as an anti-war monument. Some 60,000 people celebrated the reopening. Both Queen Elizabeth II of the United Kingdom and German President Horst Khler said that the rebuilding was a 'symbol of reconciliation'. ](/news/2005/10/30/the-dresden-frauenkirche-church-of-our-lady-a-protestant-church-in-dresden-germany-is-re-consecrated-the-church-was-destroyed-during-t.md) _Context: church_
-10. [ To stop the rapid spread of avian influenza in British Columbia, the Canadian Food Inspection Agency could kill up to 16 million chickens in poultry farms around Abbotsford, British Columbia. ](/news/2004/04/2/to-stop-the-rapid-spread-of-avian-influenza-in-british-columbia-the-canadian-food-inspection-agency-could-kill-up-to-16-million-chickens-i.md) _Context: Abbotsford, British Columbia_
+10. [ The Iraqi government blames Al Qaeda ally Abu Musab al-Zarqawi for a series of church bombings that killed at least 11 people, saying the aim was to spark religious strife and drive Christians out of the country. ](/news/2004/08/2/the-iraqi-government-blames-al-qaeda-ally-abu-musab-al-zarqawi-for-a-series-of-church-bombings-that-killed-at-least-11-people-saying-the-a.md) _Context: church_

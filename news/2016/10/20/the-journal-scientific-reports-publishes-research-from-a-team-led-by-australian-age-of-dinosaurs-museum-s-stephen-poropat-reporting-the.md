@@ -8,6 +8,7 @@ Paleontologists have discovered a new species of dinosaur in Australia. The wide
 ### Source:
 
 1. [The Verge](http://www.theverge.com/2016/10/20/13351870/new-dinosaur-species-savannasaurus-australia-discovery-titanosaur-sauropod)
+1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/qLFfP4ZSKhbPZY2lisauOAy12ZQ=/0x171:2362x1500/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/51441505/Savannasaurus-elliottorum-Travis-R-Tischler.0.png)
 
 ### Related:
 

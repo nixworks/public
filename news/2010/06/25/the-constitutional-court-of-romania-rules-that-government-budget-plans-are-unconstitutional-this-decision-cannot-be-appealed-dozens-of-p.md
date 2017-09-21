@@ -11,6 +11,7 @@ A court in Romania rules out a pension cut demanded by the government as part of
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5732913,00.html)
 3. [France24](http://www.france24.com/en/20100625-romania-prepares-options-cut-deficit-pm)
 4. [Reuters](http://www.reuters.com/article/idUSBUC00372420100625)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

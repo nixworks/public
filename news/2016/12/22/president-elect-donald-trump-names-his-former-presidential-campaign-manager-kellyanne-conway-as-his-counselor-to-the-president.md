@@ -9,6 +9,7 @@ Former campaign manager praised as ‘tireless and tenacious advocate of my agen
 
 1. [CNN](http://money.cnn.com/2016/12/22/media/sean-spicer-jason-miller-white-house-press-secretary-donald-trump/index.html?adkey=bn)
 2. [The Guardian](https://www.theguardian.com/us-news/2016/dec/22/kellyanne-conway-donald-trump-counselor)
+2. [Cover Image](https://i.guim.co.uk/img/media/cf374f4127733e1dd5caf1107a719a4ffaf87b97/0_0_5058_3035/master/5058.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=c3a5b954dcc1fc2915f9aeb2ab23b824)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Prominent activists among 33 arrested for marking Constitution Day with protests
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/12/crackdown-constitution-day-moscow-151212143214815.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/12/12/d7e1f849c4e943ce8601d6f8500c56bc_18.jpg)
 
 ### Related:
 

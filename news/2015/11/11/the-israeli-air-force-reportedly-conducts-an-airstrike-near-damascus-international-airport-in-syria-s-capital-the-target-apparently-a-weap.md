@@ -9,6 +9,7 @@ According to unconfirmed reports by opposition groups, target was a weapons ship
 
 1. [The Jerusalem Post](http://www.jpost.com/Middle-East/Syrian-media-reports-Israeli-airstrike-near-Damascus-airport-432733)
 2. [Times of Israel](http://www.timesofisrael.com/syria-says-israeli-airstrikes-hit-near-damascus-airport/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/06/F131125OZ22-e1486384776176.jpg)
 
 ### Related:
 

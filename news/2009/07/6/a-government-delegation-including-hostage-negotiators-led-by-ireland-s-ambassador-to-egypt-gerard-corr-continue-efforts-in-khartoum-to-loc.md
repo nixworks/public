@@ -8,6 +8,7 @@ A team of diplomats and negotiators are seeking to locate an Irish aid worker an
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0706/comminss.html)
+1. [Cover Image](https://img.rasset.ie/00026c51-1600.jpg)
 
 ### Related:
 

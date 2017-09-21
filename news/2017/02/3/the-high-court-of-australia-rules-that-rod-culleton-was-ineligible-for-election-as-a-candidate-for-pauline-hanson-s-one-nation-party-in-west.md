@@ -8,6 +8,7 @@ After a protracted legal battle that began almost as soon as he was elected, Rod
 ### Source:
 
 1. [Canberra Times](http://www.canberratimes.com.au/federal-politics/political-news/rodney-culleton-was-never-elected-to-senate-high-court-rules-20170202-gu4kfu.html)
+1. [Cover Image](http://www.canberratimes.com.au/content/dam/images/g/u/2/h/o/t/image.related.articleLeadwide.620x349.gu4kfu.png/1490765391031.jpg)
 
 ### Related:
 

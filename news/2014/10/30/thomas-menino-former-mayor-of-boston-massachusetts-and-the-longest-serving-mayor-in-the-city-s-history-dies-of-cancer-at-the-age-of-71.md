@@ -8,6 +8,7 @@ Thomas Michael Menino, who served an unprecedented five consecutive terms in Cit
 ### Source:
 
 1. [Boston Globe](http://www.bostonglobe.com/metro/2014/10/30/thomas-menino-boston-longest-serving-mayor-has-died-age/zAuWXQ4ccPJSv7uuW0kcDK/story.html)
+1. [Cover Image](http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2014/10/30/BostonGlobe.com/Metro/Images/mayor22]-8585.jpg)
 
 ### Related:
 

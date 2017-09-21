@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyID=2007-02-27T214432Z_01_N26326120_RTRUKOC_0_US-MARKETS-STOCKS.xml&WTmodLoc=NewsHome-C1-topNews-2)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ String of attacks on residential buildings across Iraqi capital leaves dozens de
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/2010467284376679.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

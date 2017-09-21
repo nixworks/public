@@ -8,6 +8,7 @@ The principality of Monaco celebrates the religious wedding of Prince Albert II 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13999817)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53822000/jpg/_53822608_012359928-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Nigerian militants claiming to be from a group that has been inactive since 2009
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22058929)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66793000/jpg/_66793172_66793171.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eurozone-banks-italy-montepaschi-idUSKBN14I17F)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161229&t=2&i=1167026386&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBS0J6)
 
 ### Related:
 

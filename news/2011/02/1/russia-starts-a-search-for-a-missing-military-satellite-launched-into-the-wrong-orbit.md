@@ -8,6 +8,7 @@ Russia`s top military and space official launched a search Tuesday for a missing
 ### Source:
 
 1. [Antara](http://www.antaranews.com/en/news/1296600959/russia-loses-military-satellite-reports)
+1. [Cover Image](http://img.antaranews.com/new)
 
 ### Related:
 

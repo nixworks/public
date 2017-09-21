@@ -12,6 +12,7 @@ Breaking News from Perth and Western Australia | Perth Now
 3. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5243042.stm)
 4. [International Herald Tribune](http://www.iht.com/articles/2006/08/03/news/iraq.php)
 5. [Perth News (australia](http://www.news.com.au/perthnow/story/0,21598,20014630-5005361,00.html)
+5. [Cover Image](https://secure.gravatar.com/blavatar/6a8faa896a24e4f53fb01e7b423971c2?s=200&amp;ts=1491153381)
 
 ### Related:
 

@@ -8,6 +8,7 @@ BENGHAZI, Libya — Nine people were killed and 51 were wounded Sunday as rebel 
 ### Source:
 
 1. [Khallej Times](http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/international/2011/June/international_June766.xml&section=international)
+1. [Cover Image](http://www.khaleejtimes.com/images/default/default_490x276.jpg)
 
 ### Related:
 

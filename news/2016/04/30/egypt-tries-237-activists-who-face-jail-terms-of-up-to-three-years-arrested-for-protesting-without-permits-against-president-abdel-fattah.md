@@ -8,6 +8,7 @@ Egypt put on trial 237 activists arrested for protesting against President Abdel
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-egypt-protests-trial-idUSKCN0XR0KJ)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160430&t=2&i=1135230069&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3T0FI)
 
 ### Related:
 

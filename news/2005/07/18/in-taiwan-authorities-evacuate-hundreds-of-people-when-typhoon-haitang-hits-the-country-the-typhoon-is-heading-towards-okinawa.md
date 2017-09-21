@@ -11,6 +11,7 @@
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158448/1/.html)
 3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=343758)
 4. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/07/18/2003263979)
+4. [Cover Image](http://www.taipeitimes.com/images/2005/07/18/thumbs/20050717205633.jpeg)
 
 ### Related:
 

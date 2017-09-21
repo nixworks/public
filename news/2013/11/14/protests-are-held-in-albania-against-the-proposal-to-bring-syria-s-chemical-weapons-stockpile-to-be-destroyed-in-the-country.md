@@ -10,6 +10,7 @@
 1. [Reuters](http://www.reuters.com/article/2013/11/14/us-albania-syria-chemicals-idUSBRE9AD0TO20131114)
 2. [TIME](http://world.time.com/2013/11/14/albanians-protest-proposal-to-destroy-syrias-chemical-weapons/)
 3. [The Washington Post](http://www.washingtonpost.com/world/europe/albanians-protest-reported-plan-for-their-country-to-dismantle-syrian-chemical-weapons/2013/11/14/7cf49e52-4d43-11e3-bf60-c1ca136ae14a_story.html)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131114&t=2&i=811832669&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AD16PM00)
 
 ### Related:
 

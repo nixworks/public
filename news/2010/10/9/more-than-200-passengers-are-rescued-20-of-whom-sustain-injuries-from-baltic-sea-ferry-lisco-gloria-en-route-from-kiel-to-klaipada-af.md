@@ -9,6 +9,7 @@ More than 200 passengers and crew are rescued after a Baltic Sea ferry catches f
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11507261)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6096726,00.html?maca=en-current_affairs_europe-105-rdf)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

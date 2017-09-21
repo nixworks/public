@@ -8,6 +8,7 @@ The Roman Catholic Church in the Australian state of Victoria confirms that more
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19683925)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57379000/jpg/_57379055_massgetty.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ CROSSING, Kuwait (Reuters) - The last convoy of U.S. soldiers pulled out of Iraq
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/18/us-iraq-withdrawal-idUSTRE7BH03320111218?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111218&t=2&i=548374376&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BH1J1900)
 
 ### Related:
 

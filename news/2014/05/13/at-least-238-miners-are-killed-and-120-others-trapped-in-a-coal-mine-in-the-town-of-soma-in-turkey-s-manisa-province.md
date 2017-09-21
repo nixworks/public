@@ -9,6 +9,7 @@ At least 17 people have been killed and hundreds are trapped after an explosion 
 
 1. [BBC](http://www.bbc.com/news/world-europe-27400283#)
 2. [Biharprabha News](http://news.biharprabha.com/2014/05/over-17-killed-and-200-trapped-in-turkish-coal-mine-explosion/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74832000/jpg/_74832670_74832669.jpg)
 
 ### Related:
 

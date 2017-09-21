@@ -10,6 +10,7 @@ Ten sailors are missing after a U.S. warship collided with an oil tanker east of
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_SINGAPORE_US_NAVY_SHIP_COLLISION_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-41002749)
 3. [Reuters](http://www.reuters.com/article/us-usa-navy-crash-idUSKCN1B100C?il=0)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170821&t=2&i=1197897635&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7K0B3)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Customs officials have recovered 61 bales of cocaine in west Cork in the largest
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0703/drugs.html)
+1. [Cover Image](https://img.rasset.ie/0000edce-1600.jpg)
 
 ### Related:
 

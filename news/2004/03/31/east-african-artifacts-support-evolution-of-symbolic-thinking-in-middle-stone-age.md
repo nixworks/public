@@ -8,6 +8,7 @@ New finds from an open-air archaeological site in the Serengeti National Park in
 ### Source:
 
 1. [National Geographic Society via EurekAlert](http://www.eurekalert.org/pub_releases/2004-03/asu-eaa032504.php)
+1. [Cover Image](https://www.eurekalert.org/images/eurekalert-logo200X200.gif)
 
 ### Related:
 

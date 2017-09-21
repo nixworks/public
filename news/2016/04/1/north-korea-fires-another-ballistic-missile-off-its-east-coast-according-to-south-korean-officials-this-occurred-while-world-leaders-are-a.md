@@ -9,6 +9,7 @@ Ballistic missile fired from site in the east, says South Korea, in the middle o
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/01/north-korea-missile-leaders-us-nuclear-security)
 2. [Yonhap](http://english.yonhapnews.co.kr/news/2016/04/01/0200000000AEN20160401006900315.html?input=www.tweeter.com)
+2. [Cover Image](https://i.guim.co.uk/img/media/7aa8d81684530e14dd4eb6b26994c2fa64e71804/0_272_4096_2460/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4c2c4226c652f7950eefc12c3def4b39)
 
 ### Related:
 

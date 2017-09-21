@@ -11,6 +11,7 @@ Seven people have been killed at a Syrian pro-government TV channel, state media
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18606341)
 3. [Reuters via Yahoo! News](http://ca.news.yahoo.com/heavy-fighting-around-syrian-capital-activists-080343616.html)
 4. [The Daily Star](http://www.dailystar.com.lb/News/Politics/2012/Jun-27/178378-free-syria-army-hezbollah-present-on-the-battlefield.ashx#axzz1ynEz65Eg)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61194000/jpg/_61194028_015171960-2.jpg)
 
 ### Related:
 

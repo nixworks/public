@@ -8,6 +8,7 @@ Suspected insurgents detonated a motorcycle bomb in southern Thailand on Saturda
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/03/02/uk-thailand-south-idUKBRE92103V20130302)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130302&t=2&i=708940139&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9210T4800)
 
 ### Related:
 

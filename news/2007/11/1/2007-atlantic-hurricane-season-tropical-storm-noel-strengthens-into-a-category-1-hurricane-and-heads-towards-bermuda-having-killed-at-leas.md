@@ -8,6 +8,7 @@ Tropical Storm Noel, whose rains have killed at least 108 people in the Caribbea
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN3127605720071102?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071102&t=2&i=2098774&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-11-02T073815Z_01_N31276057_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

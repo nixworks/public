@@ -9,6 +9,7 @@ A powerful 7.8 magnitude earthquake pummeled central New Zealand early on Monday
 
 1. [Metro](http://metro.co.uk/2016/11/13/new-zealand-hit-by-7-5-magnitude-earthquake-just-outside-christchurch-6254983/?ito=facebook)
 2. [Reuters](http://www.reuters.com/article/us-quake-newzealand-idUSKBN1380CI)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161114&t=2&i=1161609028&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAD0PV)
 
 ### Related:
 

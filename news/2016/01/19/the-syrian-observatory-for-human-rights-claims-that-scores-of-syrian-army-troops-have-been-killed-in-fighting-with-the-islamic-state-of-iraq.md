@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/uk-35358101)
 2. [Jerusalem Post](http://www.jpost.com/Breaking-News/Fighting-between-Syrian-army-Islamic-State-kills-scores-442009)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/ECD2/production/_86662606_026072409-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Wells Fargo & Co, the fourth-largest U.S. bank by assets, is looking tomove some
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2012/06/21/wellsfargo-offshoring-idINL1E8HL11320120621)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

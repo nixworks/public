@@ -8,6 +8,7 @@ IN A fitting tribute to the “people’s princess”, the Duke and Duchess of C
 ### Source:
 
 1. [News Limited](http://www.news.com.au/entertainment/celebrity-life/royal-baby-named-charlotte-elizabeth-diana/story-fnisprwn-1227335326733)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/942e626613f3b55c3c0a47b660b9bc65)
 
 ### Related:
 

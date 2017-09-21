@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-bulgaria-election-exitpoll-idUSKBN1380Q7)
 2. [novinite.com](http://www.novinite.com/articles/177385/Turnout+in+Bulgaria's+Runoff+at+13%3A00+Slightly+Higher+Than+in+1st+Round)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161113&t=2&i=1161511199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAC0KU)
 
 ### Related:
 

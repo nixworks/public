@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Limited](http://www.news.com.au/world/more-than-100-workers-let-go-from-disastrous-pike-river-coal-mine-in-new-zealand/story-e6frfkyi-1225970933192?from=public_rss)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/429219af3bb2b9a0af43fa8b24f7cd5f)
 
 ### Related:
 

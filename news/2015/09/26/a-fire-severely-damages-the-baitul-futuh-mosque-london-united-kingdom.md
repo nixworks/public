@@ -8,6 +8,7 @@ A fire breaks out at a mosque complex in south London - which describes itself a
 ### Source:
 
 1. [BBC News Online](http://www.bbc.co.uk/news/uk-england-london-34369710)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1021C/production/_85767066_hi029298740.jpg)
 
 ### Related:
 

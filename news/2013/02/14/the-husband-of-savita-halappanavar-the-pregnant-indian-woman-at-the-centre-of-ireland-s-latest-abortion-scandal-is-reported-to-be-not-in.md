@@ -8,6 +8,7 @@ The husband of the late Savita Halappanavar (31) was &ldquo;not in a condition&r
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2013/0214/1224330015075.html)
+1. [Cover Image](http://www.irishtimes.com/polopoly_fs/1.1251880.1361274023!/image/image.jpg)
 
 ### Related:
 

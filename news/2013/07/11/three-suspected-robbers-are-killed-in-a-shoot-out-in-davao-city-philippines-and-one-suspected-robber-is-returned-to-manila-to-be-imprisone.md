@@ -8,6 +8,7 @@ MANILA -- Three suspected members of a kidnap-for-ransom group were killed in a 
 ### Source:
 
 1. [ABS-CBN News Online](http://www.abs-cbnnews.com/nation/regions/07/11/13/3-alleged-kidnappers-killed-davao-shootout)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/apr6_crime.jpg)
 
 ### Related:
 

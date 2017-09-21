@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=45&news_id=8154)
 3. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MHII-6CJ8ZX?OpenDocument)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8540771)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

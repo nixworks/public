@@ -8,6 +8,7 @@ Two suspected al Qaeda militants were killed in a U.S. drone strike in the south
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/08/us-yemen-strike-idUSBREA070PR20140108)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

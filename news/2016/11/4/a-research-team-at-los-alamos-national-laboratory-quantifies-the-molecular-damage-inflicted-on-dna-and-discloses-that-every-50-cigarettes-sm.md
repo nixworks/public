@@ -9,6 +9,7 @@ We can now precisely count how many cancer-related DNA mutations accumulate in s
 
 1. [Los Angeles Times](http://www.latimes.com/science/sciencenow/la-sci-sn-smoking-cancer-mutations-20161103-story.html)
 2. [New Scientist](https://www.newscientist.com/article/2111320-every-50-cigarettes-smoked-cause-one-dna-mutation-per-lung-cell/)
+2. [Cover Image](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2016/11/03180038/rexfeatures_4883354a1.jpg)
 
 ### Related:
 

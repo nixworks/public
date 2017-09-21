@@ -8,6 +8,7 @@ Russian billionaire Alexander Lebedev was charged on Wednesday with hooliganism 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/09/26/uk-russia-lebedev-idUKBRE88P0WA20120926)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120926&t=2&i=656993206&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88P112L00)
 
 ### Related:
 

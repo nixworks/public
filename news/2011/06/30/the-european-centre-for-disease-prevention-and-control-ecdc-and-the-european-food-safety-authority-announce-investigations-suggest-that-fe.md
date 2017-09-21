@@ -8,6 +8,7 @@ Imported fenugreek seedsfrom Egypt may be the source of highly toxic E. coli out
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/30/ecoli-europe-egypt-idUSL6E7HU0DG20110630)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

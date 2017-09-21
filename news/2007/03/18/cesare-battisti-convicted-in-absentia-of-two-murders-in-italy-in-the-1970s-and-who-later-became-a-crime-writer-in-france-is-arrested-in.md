@@ -8,6 +8,7 @@ Accused of killings in his native Italy, militant 1970s leftist Cesare Battisti 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,259508,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

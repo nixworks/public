@@ -11,6 +11,7 @@ The man accused of murdering aid worker Margaret Hassan is believed to have gone
 2. [RTÉ](http://www.rte.ie/news/2010/0714/hassanm.html)
 3. [The Independent](http://www.independent.co.uk/news/world/middle-east/hassan-killer-goes-missing-from-jail-2026762.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0715/1224274738750.html)
+4. [Cover Image](https://img.rasset.ie/00038211-1600.jpg)
 
 ### Related:
 

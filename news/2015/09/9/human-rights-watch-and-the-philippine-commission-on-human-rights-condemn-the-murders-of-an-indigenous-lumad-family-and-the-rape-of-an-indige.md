@@ -10,6 +10,7 @@ A dispatch from an international human rights organization criticized on Wednesd
 1. [Human Rights Watch](https://www.hrw.org/news/2015/09/08/dispatches-killings-philippine-tribal-members-spark-public-furor)
 2. [Rappler](http://www.rappler.com/newsbreak/in-depth/105272-lumad-eastern-mindanao-war)
 3. [The Philippine Star](http://www.philstar.com/headlines/2015/09/09/1497798/aquino-hit-disappointingly-predictable-reaction-lumad-killings)
+3. [Cover Image](http://media.philstar.com/images/the-philippine-star/nation/20150909/lumad-killings-protest.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Four others injured; sides agree to open Gaza crossings for aid and building sup
 
 1. [Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Rocket-sirens-pierce-air-after-quiet-night-in-Israel-372327#!)
 2. [Times of Israel](http://www.timesofisrael.com/day-50-hamas-confirms-talk-of-new-truce-rockets-from-lebanon-fired-at-galilee-idf-hits-back/)
+2. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/08/000_Nic6365130.jpg)
 
 ### Related:
 

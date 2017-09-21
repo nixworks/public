@@ -11,6 +11,7 @@ Israel releases an impounded Turkish aid ship on which nine activists were kille
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10883060)
 3. [Indian Express](http://www.indianexpress.com/news/israel-permits-return-of-gaza-aid-flotilla-ships/656500/)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/israel-to-hand-over-turkish-ships-20100805-11k45.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48628000/jpg/_48628269_009927281-1.jpg)
 
 ### Related:
 

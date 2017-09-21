@@ -9,6 +9,7 @@ A 55-year-old woman has died after a tree fell on her car during 24 hours of sev
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11734050)
 2. [UPI.com](http://www.upi.com/Top_News/World-News/2010/11/12/Branch-impales-woman-in-car-during-storm/UPI-97891289573177/)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

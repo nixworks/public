@@ -8,6 +8,7 @@ A 4,000-year-old temple filled with murals has been unearthed on the northern co
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN1018888320071111?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071111&t=2&i=2168582&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-11-11T024430Z_01_N10188883_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

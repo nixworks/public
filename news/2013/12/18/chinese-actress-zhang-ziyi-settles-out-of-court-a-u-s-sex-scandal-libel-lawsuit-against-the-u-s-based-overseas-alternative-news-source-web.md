@@ -8,6 +8,7 @@ Chinese film star Zhang Ziyi wins damages from a US-based website that published
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-25426869)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71823000/jpg/_71823265_020103354.jpg)
 
 ### Related:
 

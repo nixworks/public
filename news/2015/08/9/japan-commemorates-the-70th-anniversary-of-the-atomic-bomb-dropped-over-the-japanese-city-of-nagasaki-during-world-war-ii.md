@@ -8,6 +8,7 @@ The Japanese city of Nagasaki holds an emotional service to mark 70 years since 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33839055)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B910/production/_84767374_84767373.jpg)
 
 ### Related:
 

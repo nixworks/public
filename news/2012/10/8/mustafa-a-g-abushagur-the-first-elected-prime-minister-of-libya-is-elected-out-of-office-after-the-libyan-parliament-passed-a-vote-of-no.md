@@ -8,6 +8,7 @@ Libya&#x27;s&#x20;newly&#x20;elected&#x20;Prime&#x20;Minister&#x20;Mustafa&#x20;
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20121007-libya-newly-elected-pm-dismissed-parliament-abushagur)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/libya%20PM.jpg)
 
 ### Related:
 

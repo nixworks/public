@@ -9,6 +9,7 @@ The police officer captured on film striking Ian Tomlinson during the G20 protes
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2010/jul/22/ian-tomlinson-g20-cps-ruling)
 2. [The Independent](http://www.independent.co.uk/news/uk/crime/family-alleges-coverup-as-police-officers-escape-charges-over-g20-death-2033456.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/07/22/22/418684.bin)
 
 ### Related:
 

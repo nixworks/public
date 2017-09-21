@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-chile-bachelet-idUSKCN0YJ0MM)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160528&t=2&i=1139112675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4R0CT)
 
 ### Related:
 

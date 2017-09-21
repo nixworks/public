@@ -8,6 +8,7 @@ La&#39;Porsha Renae and Trent Harmon competed for the season 15 title
 ### Source:
 
 1. [E! Online](http://www.eonline.com/news/754941/american-idol-crowns-its-final-winner-was-it-trent-harmon-or-la-porsha-renae)
+1. [Cover Image](http://akns-images.eonline.com/eol_images/Entire_Site/201637/rs_600x600-160407061018-600.american-idol-final-2.ch.040716.jpg?downsize=450:*&crop=450:350;left,top)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Central News Agency](http://focustaiwan.cna.com.tw/news/aipl/201412250028.aspx)
+1. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20141225/201412250028t0001.jpg)
 
 ### Related:
 

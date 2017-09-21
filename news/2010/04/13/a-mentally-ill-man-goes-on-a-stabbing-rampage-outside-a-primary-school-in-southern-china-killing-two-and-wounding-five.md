@@ -8,3 +8,4 @@ A mentally ill man went on a stabbing rampage outside a primary school in southe
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/7585193/Man-goes-on-stabbing-rampage-outside-Chinese-primary-school-killing-two.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)

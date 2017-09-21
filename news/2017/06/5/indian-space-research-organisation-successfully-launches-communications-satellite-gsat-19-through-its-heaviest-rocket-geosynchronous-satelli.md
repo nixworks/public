@@ -8,6 +8,7 @@ Indian Space Research Organisation on Monday successfully launched its most powe
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/isros-most-powerful-rocket-gslv-mk-iii-places-gsat-19-communication-satellite-in-orbit/articleshow/59001591.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/msid-59003310/59003310.jpg?331291)
 
 ### Related:
 

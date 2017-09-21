@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/06/20/at-least-6-killed-more-than-100-hurt-in-mexico-clashes-between-police-and-teachers.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2016/06/20/at-least-6-killed-more-than-100-hurt-in-mexico-clashes-between-police-and-teachers/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1466401419253.jpg?ve=1)
 
 ### Related:
 

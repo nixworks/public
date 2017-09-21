@@ -11,6 +11,7 @@ Women hold protests in Italy and abroad against embattled Prime Minister Silvio 
 2. [Herald Sun](http://www.heraldsun.com.au/ipad/italians-rally-against-berlusconi/story-fn6s850w-1226005449240)
 3. [Indian Express](http://www.indianexpress.com/news/thousands-of-italian-women-rally-against-berlusconi/749557/)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/8321277/Italy-day-of-protests-in-200-cities-against-Berlusconi.html)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/51230000/jpg/_51230652_011259247-1.jpg)
 
 ### Related:
 

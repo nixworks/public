@@ -8,6 +8,7 @@ Opposition leader demands action before Friday&rsquo;s negotiations in Vienna
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/news/world/europe/eu-s-macedonia-crisis-talks-in-doubt-as-protests-grow-1.2617837)
+1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2617832&origw=1440)
 
 ### Related:
 

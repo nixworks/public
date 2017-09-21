@@ -10,6 +10,7 @@ Syrian troops clashed with rebels in the city of Aleppo for a second day Saturda
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hFLkDnPvz0g07Lqar-RYy6JyjcxA?docId=CNG.14ee08cd81a96d23327fb33afcb2654e.7b1)
 2. [CBC](http://www.cbc.ca/news/world/story/2012/07/21/syria-aleppo-clashes.html)
 3. [Now Lebanon](http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=421224)
+3. [Cover Image](https://i.cbc.ca/1.1919938.1381031794!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-852-syria-aleppo.jpg)
 
 ### Related:
 

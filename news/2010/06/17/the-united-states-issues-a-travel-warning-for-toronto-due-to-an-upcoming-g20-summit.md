@@ -8,6 +8,7 @@ From traffic tie-ups to protest plans to behind-the-scenes stories, G20: Toronto
 ### Source:
 
 1. [The Star](http://thestar.blogs.com/g20/2010/06/us-issues-g20-travel-alert-for-toronto-1.html)
+1. [Cover Image](http://up3.typepad.com/6a00d8341bf8f353ef0120a4cd43d8970b-220si)
 
 ### Related:
 

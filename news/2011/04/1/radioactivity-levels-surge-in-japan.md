@@ -8,3 +8,4 @@ Work on containing the crisis at the Fukushima Daiichi complex is hampered becau
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/la-sci-japan-reactor-damage-20110331,0,5950026.story)
+1. [Cover Image](http://www.trbimg.com/img-53239956/turbine/la-sci-japan-reactor-damage-20110331)

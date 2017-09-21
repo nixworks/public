@@ -9,6 +9,7 @@ Lawyers for 15 states, led by New York and Washington, filed suit against Presid
 
 1. [Los Angeles Times](http://www.latimes.com/politics/la-dreamers-decision-live-updates-washington-state-says-it-will-join-with-1504720942-htmlstory.html)
 2. [Reuters](http://www.reuters.com/article/us-usa-immigration-ny/states-file-lawsuit-challenging-trump-decision-on-dreamers-idUSKCN1BH1HS)
+2. [Cover Image](http://www.trbimg.com/img-59b05333/turbine/la-dreamers-decision-live-updates-washington-state-says-it-will-join-with-1504720942)
 
 ### Related:
 

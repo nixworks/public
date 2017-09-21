@@ -9,6 +9,7 @@ Attacker flees scene as police begin searches; settler in Gush Etzion stabbed af
 
 1. [The New Daily AU](http://thenewdaily.com.au/news/2015/10/26/israeli-soldiers-kill-unarmed-palestinian-girl-17/)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4715851,00.html)
+2. [Cover Image](http://www.ynetnews.com/PicServer4/2015/10/25/6578999/657899525753282640360no.jpg)
 
 ### Related:
 

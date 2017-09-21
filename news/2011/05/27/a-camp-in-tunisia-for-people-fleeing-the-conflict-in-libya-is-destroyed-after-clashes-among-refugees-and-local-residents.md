@@ -8,6 +8,7 @@ A camp in Tunisia for people fleeing the conflict in Libya is nearly completely 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13575486)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53029000/jpg/_53029991_012048447-2.jpg)
 
 ### Related:
 

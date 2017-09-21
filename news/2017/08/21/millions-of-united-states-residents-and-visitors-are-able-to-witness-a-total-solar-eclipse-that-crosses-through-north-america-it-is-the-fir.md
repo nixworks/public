@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS](https://www.cbsnews.com/news/2017-eclipse-millions-ready-path-of-totality-america/)
+1. [Cover Image](https://cbsnews1.cbsistatic.com/hub/i/2017/08/20/15019ba4-bb3a-48be-8586-e2170f225acc/rts1ck33.jpg)
 
 ### Related:
 

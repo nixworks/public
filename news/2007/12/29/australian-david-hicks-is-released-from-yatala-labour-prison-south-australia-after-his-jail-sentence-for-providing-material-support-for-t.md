@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/12/29/2128751.htm?section=australia)
+1. [Cover Image](http://www.abc.net.au/news/image/999386-1x1-700x700.jpg)
 
 ### Related:
 

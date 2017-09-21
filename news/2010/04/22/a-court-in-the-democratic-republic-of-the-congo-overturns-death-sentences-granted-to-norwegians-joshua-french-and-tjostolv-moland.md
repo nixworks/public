@@ -12,6 +12,7 @@ Death sentences imposed on two Norwegians in the DRC for killing a driver have b
 3. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE63L0KA20100422?feedType=RSS&feedName=topNews)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/apr/22/congo-death-sentence-norwegians-overturned)
 5. [The Independent](http://www.independent.co.uk/news/world/africa/conviction-quashed-for-death-sentence-briton-1951663.html)
+5. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

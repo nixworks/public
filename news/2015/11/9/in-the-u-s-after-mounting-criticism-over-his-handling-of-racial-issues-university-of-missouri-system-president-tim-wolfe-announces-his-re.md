@@ -10,6 +10,7 @@ University of Missouri system president Tim Wolfe resigned Monday amid student p
 1. [ABC News](http://abcnews.go.com/US/university-missouri-president-tim-wolfe-resigns-amid-protests/story?id=35076098)
 2. [ESPN](http://espn.go.com/college-football/story/_/id/14089689/missouri-tigers-president-tim-wolfe-resigns-amid-racial-unrest)
 3. [USA Today](http://www.usatoday.com/story/news/2015/11/09/mizzou-faculty-walks-out-student-association-calls-presidents-removal/75448392/)
+3. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1109%2Fr24241_1296x729_16%2D9.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/10/us-activision-vivendi-court-idUSBRE9990TO20131010)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131010&t=2&i=801779468&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9991DUY00)
 
 ### Related:
 

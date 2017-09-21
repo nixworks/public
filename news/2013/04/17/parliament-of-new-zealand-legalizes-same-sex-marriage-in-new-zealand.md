@@ -8,6 +8,7 @@ A bill to legalise same-sex marriage has passed into law after its third reading
 ### Source:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10878073)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201316/SCCZEN_170413NZHMMBILL7_1024x761.jpg)
 
 ### Related:
 

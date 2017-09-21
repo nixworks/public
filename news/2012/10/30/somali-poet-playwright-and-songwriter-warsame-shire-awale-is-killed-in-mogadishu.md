@@ -8,6 +8,7 @@ A popular Somali poet and songwriter, who was critical of Islamist fighters and 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20135824)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63794000/jpg/_63794648_63794644.jpg)
 
 ### Related:
 

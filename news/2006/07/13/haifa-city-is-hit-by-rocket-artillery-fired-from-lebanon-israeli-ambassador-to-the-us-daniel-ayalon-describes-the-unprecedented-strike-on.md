@@ -21,6 +21,7 @@
 12. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=topNews&storyid=2006-07-13T053755Z_01_L11538533_RTRUKOC_0_US-MIDEAST.xml&src=rss&rpc=22)
 13. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274827,00.html)
 14. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3275229,00.html)
+14. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

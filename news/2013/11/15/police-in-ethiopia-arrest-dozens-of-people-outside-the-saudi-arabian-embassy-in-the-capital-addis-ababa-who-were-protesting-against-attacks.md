@@ -8,6 +8,7 @@ Police crackdown on demonstrations against targeted attacks on Ethiopian migrant
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/11/arrests-at-anti-saudi-protest-ethiopia-201311151464025832.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/11/15/20131115164047281734_20.jpg)
 
 ### Related:
 

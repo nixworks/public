@@ -8,6 +8,7 @@ Artworks belonging to former Philippine first lady Imelda Marcos are seized by a
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-29427876)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/77916000/jpg/_77916473_451585878.jpg)
 
 ### Related:
 

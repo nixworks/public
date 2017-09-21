@@ -11,6 +11,7 @@ Relatives broke the news to a Dutch boy who is the sole survivor of a plane cras
 2. [Fox News](http://www.foxnews.com/world/2010/05/14/sole-survivor-could-go-home-weekend/)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-Air-Crash-Dutch-Orphan-Ruben-Van-Assouw-In-Tripoli-Jet-To-Fly-Home-Learns-Family-Dead/Article/201005215631975?f=rss)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/may/14/blog-libya-plane-crash-survivor)
+4. [Cover Image](//a57.foxnews.com/images.foxnews.com/content/fox-news/world/2010/05/14/sole-survivor-could-go-home-weekend/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1449114141288.jpg?ve=1)
 
 ### Related:
 

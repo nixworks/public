@@ -8,6 +8,7 @@ More than 50 cars crash on a motorway in northern China, killing 17 people.
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-38063612)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1B76/production/_92603070_5ace11ad-df67-4594-85b4-586b61770880.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two bombs planted on a train killed a 22-year-old woman and wounded nine others 
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/blast-at-chennai-railway-station-10-injured-516619)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-05/Chennai_blast_clean360.jpg)
 
 ### Related:
 

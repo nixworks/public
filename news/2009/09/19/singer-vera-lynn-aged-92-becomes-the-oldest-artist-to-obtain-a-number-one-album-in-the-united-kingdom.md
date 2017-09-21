@@ -8,6 +8,7 @@ Bittersweet memories of other difficult times helped push an anthology of reissu
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/09/19/world/europe/19iht-letter.html?ref=world)
+1. [Cover Image](https://static01.nyt.com/images/2009/09/19/world/19iht-letter-inline1-75.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Defeated opposition candidate accused of employing army deserters in run-up to v
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107145210410411.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

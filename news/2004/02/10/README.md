@@ -10,10 +10,10 @@ _Context: AIDS, Abbott Laboratories, HIV, Norvir, boycott, pharmaceutical, physi
 _Context: Al Qaida's, Iraq, Suicide bombers_
 
 ### [ The French National Assembly votes (494 to 36) to ban hijab and all other conspicuous religious symbols from state schools.](/news/2004/02/10/the-french-national-assembly-votes-494-to-36-to-ban-hijab-and-all-other-conspicuous-religious-symbols-from-state-schools.md)
-_Context: French National Assembly, ban, hijab_
+_Context: French National Assembly, hijab, law on secularity and conspicuous religious symbols in schools_
 
 ### [ The White House rebuts Democrats' accusations that Bush shirked his military responsibilities, releasing pay records for the President's National Guard service between May 1972 and May 1973.](/news/2004/02/10/the-white-house-rebuts-democrats-accusations-that-bush-shirked-his-military-responsibilities-releasing-pay-records-for-the-president-s-na.md)
-_Context: Democratic Party, George W. Bush, National Guard, White House_
+_Context: Democratic, George W. Bush, National Guard, White House_
 
 ### [ The oil cartel OPEC announces further limits on the output of crude by one million barrels a day beginning April 1, 2004. If all member states stick to the agreement, OPEC's daily output will be cut by about 10 percent.](/news/2004/02/10/the-oil-cartel-opec-announces-further-limits-on-the-output-of-crude-by-one-million-barrels-a-day-beginning-april-1-2004-if-all-member-sta.md)
 _Context: OPEC, crude oil_

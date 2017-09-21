@@ -8,6 +8,7 @@ South Korea has reported 24 cases of the virus since diagnosing the its first ME
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/mers-mystery/two-die-mers-south-korea-n368141)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_23/1055066/150602-south-korea-mers-1248a_c180bc489cf287ec6a381b2c2aaadc93.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

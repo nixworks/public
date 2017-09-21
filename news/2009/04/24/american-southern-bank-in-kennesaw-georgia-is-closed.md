@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/georgias-american-southern-bank-seized/story.aspx?guid=%7BCD3D70F8%2DD4BD%2D4D01%2D8D0A%2D669CF5955A9B%7D&siteid=bnbh)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

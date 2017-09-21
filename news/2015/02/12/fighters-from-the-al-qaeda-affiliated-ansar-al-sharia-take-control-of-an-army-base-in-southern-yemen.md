@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via ''Daily Times](http://www.dailytimes.com.pk/foreign/13-Feb-2015/al-qaeda-linked-group-says-seized-army-base-in-south-yemen)
+1. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

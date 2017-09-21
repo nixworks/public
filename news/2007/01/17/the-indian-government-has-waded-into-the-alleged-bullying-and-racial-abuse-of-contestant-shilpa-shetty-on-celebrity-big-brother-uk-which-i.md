@@ -8,6 +8,7 @@ News and opinion from The Times &amp; The Sunday Times
 ### Source:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,3-2551921,00.html)
+1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

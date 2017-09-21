@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/12/strong-blast-rocks-yemen-defence-ministry-201312565750185751.html)
 2. [CNN](http://www.cnn.com/2013/12/05/world/meast/yemen-violence/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/12/5/20131258189914734_20.jpg)
 
 ### Related:
 

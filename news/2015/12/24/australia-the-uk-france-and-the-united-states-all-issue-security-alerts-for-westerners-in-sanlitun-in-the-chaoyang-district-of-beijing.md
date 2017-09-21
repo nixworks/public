@@ -10,6 +10,7 @@ At least four Western countries took the unusual step on Thursday of issuing Chr
 1. [CNN](http://www.cnn.com/2015/12/24/asia/british-us-embassy-warn-of-threats-against-westerners-beijing/)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=2402385&CategoryId=12395)
 3. [Reuters](http://www.reuters.com/article/us-china-security-idUSKBN0U70OS20151224)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151224&t=2&i=1104612959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBN0EA)
 
 ### Related:
 

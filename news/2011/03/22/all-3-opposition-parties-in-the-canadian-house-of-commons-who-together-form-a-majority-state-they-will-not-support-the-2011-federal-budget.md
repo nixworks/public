@@ -9,6 +9,7 @@
 
 1. [CBC News](http://www.cbc.ca/news/politics/story/2011/03/22/pol-budget-main.html)
 2. [Globe and Mail](http://www.theglobeandmail.com/news/politics/budget/news/spring-election-possible-as-all-three-opposition-parties-reject-tory-budget/article1935056/)
+2. [Cover Image](https://i.cbc.ca/1.1947782.1381652810!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-flaherty-00374028-852.jpg)
 
 ### Related:
 

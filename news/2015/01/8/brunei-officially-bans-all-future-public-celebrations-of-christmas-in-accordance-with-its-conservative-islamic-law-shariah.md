@@ -8,6 +8,7 @@ The oil-rich nation has prohibited future public celebrations of Christmas as pa
 ### Source:
 
 1. [International Business Times](http://www.ibtimes.com/brunei-officially-bans-future-christmas-celebrations-1777526)
+1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/01/08/rtr47p68.jpg)
 
 ### Related:
 

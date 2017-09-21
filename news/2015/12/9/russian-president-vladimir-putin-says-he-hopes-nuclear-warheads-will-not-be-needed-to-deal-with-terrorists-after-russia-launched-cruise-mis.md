@@ -8,6 +8,7 @@ Vladimir Putin has said he hopes nuclear warheads will not be needed to deal wit
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/world/europe/putin-has-threatened-to-use-nuclear-weapons-against-isis-but-hopes-they-will-never-be-needed-a6766196.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/12/09/10/rostov-on-don-submarine.jpg)
 
 ### Related:
 

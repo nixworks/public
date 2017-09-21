@@ -8,6 +8,7 @@ A man was killed in Oakland when a falling tree struck him on Austin Street near
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/bayarea/article/2-killed-in-windstorm-thousands-without-power-5001276.php)
+1. [Cover Image](http://ww4.hdnux.com/photos/24/76/76/5500847/5/rawImage.jpg)
 
 ### Related:
 

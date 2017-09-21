@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/25/us-kraft-m-a-heinz-idUSKBN0ML0YK20150325)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150325&t=2&i=1035345102&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2O13J)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The international community must challenge Ethiopia’s oppressive regime by giv
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/global-development/2015/may/23/ethiopia-election-wake-up-call-human-rights-governance)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/22/1432294857636/082d0f7e-82d4-4003-9012-cd8b3e50718a-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=22914a68e967af857905075c1c2bb6c1)
 
 ### Related:
 

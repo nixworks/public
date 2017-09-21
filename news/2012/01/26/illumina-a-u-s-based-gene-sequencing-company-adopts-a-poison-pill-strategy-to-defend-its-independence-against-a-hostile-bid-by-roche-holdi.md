@@ -8,6 +8,7 @@ U.S. gene sequencing company Illumina Inc (ILMN.O) adopted a &quot;poison pill&q
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/01/26/us-illumina-pill-idUSTRE80P1S620120126)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

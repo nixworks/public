@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/12/us-usa-afghanistan-kerry-recount-idUSKBN0FH0PJ20140712)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140712&t=2&i=930755158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6B0BW)
 
 ### Related:
 

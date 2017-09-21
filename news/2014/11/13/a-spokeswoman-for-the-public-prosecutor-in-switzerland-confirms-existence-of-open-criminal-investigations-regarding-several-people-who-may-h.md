@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/13/us-banks-forex-swiss-idUSKCN0IX19220141113)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141113&t=2&i=991492123&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAC0KD)
 
 ### Related:
 

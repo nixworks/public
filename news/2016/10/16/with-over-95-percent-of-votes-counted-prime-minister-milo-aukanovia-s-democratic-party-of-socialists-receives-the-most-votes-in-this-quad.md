@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-montenegro-election-idUSKBN12F0TN)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161017&t=2&i=1157682750&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9G012)
 
 ### Related:
 

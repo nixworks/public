@@ -8,6 +8,7 @@ Dozens of people are killed in car bombings in Baghdad and Mosul, security offic
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24690970)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70737000/jpg/_70737349_70737348.jpg)
 
 ### Related:
 

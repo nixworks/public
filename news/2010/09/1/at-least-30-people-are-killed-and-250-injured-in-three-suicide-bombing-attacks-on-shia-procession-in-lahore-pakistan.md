@@ -13,6 +13,7 @@ At least 25 people are killed and more than 170 are injured in three bomb blasts
 4. [The Guardian](http://www.guardian.co.uk/world/2010/sep/01/pakistan-religion)
 5. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/20-killed-170-injured-in-Lahore-suicide-blasts/articleshow/6475837.cms)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/01/c_13473891.htm)
+6. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

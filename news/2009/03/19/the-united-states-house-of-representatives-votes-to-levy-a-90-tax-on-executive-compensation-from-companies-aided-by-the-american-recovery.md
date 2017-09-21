@@ -8,6 +8,7 @@ Spurred by anger over A.I.G., the House voted 328 to 93 to tax bonuses paid by a
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/03/20/business/20bailout.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

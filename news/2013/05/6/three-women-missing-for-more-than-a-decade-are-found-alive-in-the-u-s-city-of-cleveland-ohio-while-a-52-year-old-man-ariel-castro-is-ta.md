@@ -9,6 +9,7 @@ THREE women have emerged from a house in Cleveland, Ohio, claiming to have spent
 
 1. [News Limited](http://www.news.com.au/world-news/who-were-the-three-women-set-free-from-captivity-in-cleveland/story-fndir2ev-1226636654710)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/may/07/missing-women-found-cleveland-ohio-live)
+2. [Cover Image](http://cdn.newsapi.com.au/image/v1/cfabda2a9d85c62a184f33d769c9cbe7)
 
 ### Related:
 

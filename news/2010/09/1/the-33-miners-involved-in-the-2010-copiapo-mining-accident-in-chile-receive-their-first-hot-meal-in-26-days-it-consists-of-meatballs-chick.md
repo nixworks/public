@@ -10,6 +10,7 @@ Chilean miners trapped underground receive their first hot meal in 26 days, as N
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11159484)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE67U61A20100831)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7975916/Chilean-miners-requests-for-alcohol-and-cigarettes-turned-down-by-Nasa.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

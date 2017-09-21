@@ -10,6 +10,7 @@ British rock band Pink Floyd have launched legal action against record label EMI
 1. [ABC News](http://www.abc.net.au/news/stories/2010/03/10/2841310.htm?section=world)
 2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8558480.stm)
 3. [Boston Globe](http://www.boston.com/ae/music/articles/2010/03/09/pink_floyd_goes_to_court_in_royalty_row_with_emi/)
+3. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

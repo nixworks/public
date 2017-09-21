@@ -8,6 +8,7 @@ Ed Miliband declared the era of New Labour over as he sought to distance himself
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/8026708/Ed-Miliband-New-Labour-is-dead.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01725/mil_1725351a.jpg)
 
 ### Related:
 

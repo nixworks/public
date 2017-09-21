@@ -8,6 +8,7 @@ At least 18 people were killed over three days of heavy rains and flooding in pa
 ### Source:
 
 1. [Naharnet](http://www.naharnet.com/stories/en/219344-rains-floods-kill-18-in-egypt)
+1. [Cover Image](http://images2.naharnet.com/images/192398/w140.jpg?1477742372)
 
 ### Related:
 

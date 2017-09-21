@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Der Spiegel](http://www.spiegel.de/netzwelt/netzpolitik/geld-von-google-kabinett-beschliesst-umstrittenes-leistungsschutzrecht-a-852715.html)
+1. [Cover Image](http://cdn1.spiegel.de/images/image-385090-galleryV9-bnhd-385090.jpg)
 
 ### Related:
 

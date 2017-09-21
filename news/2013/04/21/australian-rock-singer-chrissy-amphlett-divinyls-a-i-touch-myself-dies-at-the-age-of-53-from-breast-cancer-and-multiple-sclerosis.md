@@ -8,6 +8,7 @@ Former Divinyls singer Chrissy Amphlett has died aged 53 after suffering from br
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/culture/music/rockandpopmusic/10009695/Chrissy-Amphlett-Divinyls-lead-singer-dies-aged-53.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02542/amphlett_2542651k.jpg)
 
 ### Related:
 

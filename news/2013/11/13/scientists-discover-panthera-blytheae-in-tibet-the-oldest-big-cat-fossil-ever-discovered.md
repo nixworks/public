@@ -8,6 +8,7 @@ A sister species of the snow leopard roamed the plateau of Tibet nearly 5 millio
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/science/sciencenow/la-sci-sn-big-cat-fossil-20131112,0,4121925.story?track=rss#axzz2kVZNJ8QH)
+1. [Cover Image](http://www.trbimg.com/img-5282c7ba/turbine/la-sci-sn-big-cat-fossil-20131112)
 
 ### Related:
 

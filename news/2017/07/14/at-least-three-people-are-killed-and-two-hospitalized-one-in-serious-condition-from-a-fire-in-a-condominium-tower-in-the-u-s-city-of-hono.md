@@ -9,6 +9,7 @@ At least three people died Friday in a fire in a high-rise apartment building in
 
 1. [AP via Fox News](http://www.foxnews.com/us/2017/07/15/honolulu-fire-at-least-3-dead-in-high-rise-fears-that-residents-are-trapped.html)
 2. [Reuters](http://www.reuters.com/article/us-hawaii-fire-idUSKBN1A0025?il=0)
+2. [Cover Image](//a57.foxnews.com/images.foxnews.com/content/fox-news/us/2017/07/15/honolulu-fire-at-least-3-dead-in-high-rise-fears-that-residents-are-trapped/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1500089495302.jpg?ve=1)
 
 ### Related:
 

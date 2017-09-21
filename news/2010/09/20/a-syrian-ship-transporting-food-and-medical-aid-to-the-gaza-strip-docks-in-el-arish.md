@@ -8,6 +8,7 @@ Also on Monday, Israel permits a shipment of private vehicles to enter Gaza for 
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/syrian-ship-carrying-aid-for-gaza-docks-in-egypt-1.314781)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.301061.1278713453!/image/2156939416.jpg_gen/derivatives/headline_1200x630/2156939416.jpg)
 
 ### Related:
 

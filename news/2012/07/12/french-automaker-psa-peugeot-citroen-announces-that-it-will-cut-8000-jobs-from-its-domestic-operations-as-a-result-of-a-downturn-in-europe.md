@@ -8,6 +8,7 @@ FRENCH auto group PSA Peugeot Citroen says it will cut 8000 jobs in its domestic
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/business/breaking-news/peugeot-citroen-slashes-jobs-in-france/story-e6frfkur-1226424729301)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

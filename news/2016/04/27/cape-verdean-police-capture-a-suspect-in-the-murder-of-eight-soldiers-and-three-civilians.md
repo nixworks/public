@@ -8,6 +8,7 @@ LISBON, Portugal (AP) — Cape Verde defense official: Police capture suspected 
 ### Source:
 
 1. [AFP](http://wtop.com/africa/2016/04/cape-verde-defense-official-police-capture-suspected-killer-of-8-soldiers-3-civilians/)
+1. [Cover Image](http://wtop.com/wp-content/uploads/2016/08/og-image.jpg)
 
 ### Related:
 

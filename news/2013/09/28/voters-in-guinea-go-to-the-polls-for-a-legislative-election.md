@@ -8,6 +8,7 @@ The people of Guinea have voted in their first parliamentary election since a mi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24314199)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70166000/jpg/_70166657_toaxchgz.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ The Oscars 2016 will air on Sunday, Feb. 28, at 8:30 p.m. EST — find out how t
 3. [The Verge](http://www.theverge.com/2016/2/29/11128246/spotlight-wins-best-picture-academy-awards-2016)
 4. [US Weekly](http://www.usmagazine.com/entertainment/news/how-to-watch-the-oscars-2016-online-w165503)
 5. [USA Today](http://www.usatoday.com/story/life/movies/2016/02/28/oscars-academy-awards-winners-list/81075212/)
+5. [Cover Image](http://img.usmagazine.com/social/oscars-d67f54a1-77d0-4d40-8009-59641210c291.jpg)
 
 ### Related:
 

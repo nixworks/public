@@ -8,6 +8,7 @@ The Swiss franc falls sharply after the central bank pegs the franc to the euro,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14801324)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54651000/jpg/_54651879_012670558-1.jpg)
 
 ### Related:
 

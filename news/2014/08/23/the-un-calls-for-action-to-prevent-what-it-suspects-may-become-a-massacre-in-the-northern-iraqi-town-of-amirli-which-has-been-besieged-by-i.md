@@ -9,6 +9,7 @@ A UN envoy calls for action to prevent what he says may be the possible massacre
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28910674)
 2. [Sky News](http://news.sky.com/story/1323435/blasts-in-iraq-as-un-warns-of-town-massacre)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77129000/jpg/_77129051_77129050.jpg)
 
 ### Related:
 

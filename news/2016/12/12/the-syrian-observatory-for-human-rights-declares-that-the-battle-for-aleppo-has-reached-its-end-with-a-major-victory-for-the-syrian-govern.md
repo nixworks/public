@@ -14,6 +14,7 @@ The battle for Aleppo has reached its end, the Syrian Observatory for Human Righ
 5. [Middle East Monitor](https://www.middleeastmonitor.com/20161212-russia-syria-fail-to-dislodge-daesh-from-palmyra/)
 6. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-russia-idUKKBN1412GU?il=0)
 7. [Times of Israel](http://www.timesofisrael.com/liveblog_entry/raids-kill-34-civilians-in-is-held-syria-villages-monitor/)
+7. [Cover Image](http://static.euronews.com/articles/352173/1000x563_352173.jpg)
 
 ### Related:
 

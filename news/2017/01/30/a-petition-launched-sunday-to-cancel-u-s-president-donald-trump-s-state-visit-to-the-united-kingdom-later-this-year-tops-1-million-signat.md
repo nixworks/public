@@ -8,6 +8,7 @@ The petition suggested it should be canceled &quot;because it would cause embarr
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/petition-ban-trump-s-state-visit-uk-reaches-1m-signatures-n714021)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_25/1595151/160624-london-parliament-mn-1000_e5ae0beb938d35b9d5d48fa079bf7c0f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

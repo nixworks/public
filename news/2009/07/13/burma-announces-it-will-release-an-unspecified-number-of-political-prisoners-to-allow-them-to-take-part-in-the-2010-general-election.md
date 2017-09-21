@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8148850.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/148844/burma-to-amnesty-prisoners)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56C4IV20090713)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090713&t=2&i=10845003&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-07-13T184711Z_01_BTRE56C1G6W00_RTROPTP_0_MYANMAR-BAN)
 
 ### Related:
 

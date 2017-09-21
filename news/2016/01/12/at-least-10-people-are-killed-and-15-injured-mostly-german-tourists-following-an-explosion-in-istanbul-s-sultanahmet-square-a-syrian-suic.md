@@ -13,6 +13,7 @@ An explosion has reportedly rocked a central square popular with tourists in Tur
 4. [Nine MSN](http://www.9news.com.au/world/2016/01/12/19/47/explosion-rocks-popular-tourist-square-in-istanbul)
 5. [Reuters via Sky News Australia](http://www.skynews.com.au/news/top-stories/2016/01/12/explosion-rocks-central-istanbul-square.html)
 6. [The New York Times](http://www.nytimes.com/2016/01/13/world/europe/explosion-in-istanbul-tourist-district-kills-at-least-10.html)
+6. [Cover Image](http://progressive.netshow.ninemsn.com.au/media2/664969388001/2016/01/664969388001_4700504673001_8102295-20160113-063504-VIDEO-STILL.jpg)
 
 ### Related:
 

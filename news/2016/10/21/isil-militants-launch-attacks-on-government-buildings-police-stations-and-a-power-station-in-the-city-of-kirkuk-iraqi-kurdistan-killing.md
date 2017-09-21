@@ -8,6 +8,7 @@ Islamic State militants counter-attack in northern Iraq, killing at least 19 peo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37725108)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2D83/production/_92015611_736fb7a4-c263-4277-b231-53978669d78f.jpg)
 
 ### Related:
 

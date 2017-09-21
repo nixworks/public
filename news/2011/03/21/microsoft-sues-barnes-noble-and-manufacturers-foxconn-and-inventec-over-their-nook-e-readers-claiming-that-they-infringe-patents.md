@@ -8,6 +8,7 @@ Microsoft today sued Barnes &amp; Noble and manufacturers Foxconn and Inventec o
 ### Source:
 
 1. [Seattle PI](http://blog.seattlepi.com/microsoft/2011/03/21/microsoft-sues-barnes-noble-over-android-based-nook-e-reader/)
+1. [Cover Image](http://blog.seattlepi.com/microsoft/files/2011/03/nooks.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The International Space Station lost contact with NASA&#039;s Mission Control ce
 
 1. [NASA](http://www.nasa.gov/mission_pages/station/expeditions/expedition34/e34_021913.html)
 2. [Space.com](http://www.space.com/19853-space-station-contact-lost-nasa.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyNi8zNDYvb3JpZ2luYWwvc3BhY2Utc3RhdGlvbi12aWV3LTEwMDIxMy0wMi5qcGc=)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Australians could be banned from living on the coast under a radical environment
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/6445352/Australians-could-be-banned-from-living-on-the-coast.html)
 2. [The Guardian](http://www.guardian.co.uk/environment/2009/oct/27/rising-sea-levels-australia-beaches)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01510/queensland_1510564a.jpg)
 
 ### Related:
 

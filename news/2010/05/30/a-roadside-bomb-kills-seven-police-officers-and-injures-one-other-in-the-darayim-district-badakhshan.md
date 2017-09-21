@@ -8,6 +8,7 @@ Seven deaths in Badakhshan reported as Nato commander accuses Iran of aiding Tal
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201053013556231701.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands are evacuated in the southern Chinese province of Fujian as a massive 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-32217568)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82180000/jpg/_82180019_026654917-1.jpg)
 
 ### Related:
 

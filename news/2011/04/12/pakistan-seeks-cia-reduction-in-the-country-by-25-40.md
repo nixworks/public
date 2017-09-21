@@ -8,3 +8,4 @@ Pakistan has asked the US to reduce the number of CIA agents in the country and 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13046012)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

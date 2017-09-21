@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/business-12631875)
 2. [Business Week](http://www.businessweek.com/news/2011-03-03/news-corp-wins-approval-for-bskyb-in-return-for-sky-news-sale.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

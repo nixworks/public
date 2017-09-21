@@ -9,3 +9,4 @@ The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Con
 
 1. [Reuters](http://www.reuters.com/article/2015/07/02/us-music-competition-tchaikovsky-idUSKCN0PC1N420150702)
 2. [medici.tv](http://tch15.medici.tv/en/news/winners-of-the-xv-international-tchaikovsky-compet)
+2. [Cover Image](http://tch15-assets.medici.tv/media/uploads/IMG_4584.JPG)

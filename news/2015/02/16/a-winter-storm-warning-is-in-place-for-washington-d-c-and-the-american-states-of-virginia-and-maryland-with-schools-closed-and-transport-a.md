@@ -9,6 +9,7 @@ Roads and sidewalks will refreeze overnight, and several D.C. area school distri
 
 1. [NBC Washington](http://www.nbcwashington.com/news/local/Snow-Showers-Squalls-to-Move-into-Region-291960621.html?_osource=SocialFlowTwt_DCBrand)
 2. [WSMV](http://www.wsmv.com/story/28123418/state-of-emergency-declared-in-tn-due-to-winter-weather)
+2. [Cover Image](http://media.nbcwashington.com/images/1200*675/dc-snow-AP733356129985.jpg)
 
 ### Related:
 

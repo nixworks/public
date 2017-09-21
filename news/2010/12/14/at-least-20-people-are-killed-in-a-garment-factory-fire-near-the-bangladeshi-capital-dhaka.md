@@ -9,6 +9,7 @@ At least 25 killed and over 100 injured as fire sweeps through garment factory n
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/2010121410476480785.html)
 2. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Factory-fire-kills-22-in-Bangladesh/articleshow/7099770.cms)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/14/2010121411414638738_20.jpg)
 
 ### Related:
 

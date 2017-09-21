@@ -12,6 +12,7 @@ Get the latest Chicago local news and US & World news. See recent updates on pol
 3. [CNN](http://www.cnn.com/2006/US/07/11/chicago.transit/index.html)
 4. [Chicago Tribune](http://www.chicagotribune.com/news/chi-060711cta-smoke,0,3432936.story?coll=chi-newsbreaking-hed)
 5. [NBC5 Chicago](http://www.nbc5.com/news/9501094/detail.html)
+5. [Cover Image](http://media.nbcchicago.com/designimages/nbcchi_station_logo.jpg?ak=bc)
 
 ### Related:
 

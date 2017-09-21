@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/10/30/us-southchinasea-usa-eu-idUSKCN0SO22G20151030)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151030&t=2&i=1091017827&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9T0VR)
 
 ### Related:
 

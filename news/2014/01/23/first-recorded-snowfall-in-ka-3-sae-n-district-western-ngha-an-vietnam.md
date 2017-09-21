@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Dan Tri](http://dantri.com.vn/xa-hoi/bang-tuyet-bat-ngo-xuat-hien-o-nghe-an-831136.htm)
+1. [Cover Image](https://dantricdn.com/thumb_w/600/7dBrKnsutwiOg2hPbvFQ/Image/2014/01/TUAN-4/1-5050b.JPG)
 
 ### Related:
 

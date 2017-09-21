@@ -13,6 +13,7 @@ DUBLIN - Irish bishops and politicians called Wednesday for the release of an el
 4. [Reuters](http://www.reuters.com/article/featuredCrisis/idUSMAN479052)
 5. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/ireland/muslim-rebels-asked-to-help-free-irish-priest-14530540.html)
 6. [Xinhua](http://news.xinhuanet.com/english/2009-10/14/content_12231845.htm)
+6. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/events/calamities/sinnott.jpg)
 
 ### Related:
 

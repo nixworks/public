@@ -10,6 +10,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=ax2A0kCkyE6M&refer=europe)
 2. [Forbes](http://www.forbes.com/home/feeds/ap/2005/03/31/ap1918201.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8050902)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

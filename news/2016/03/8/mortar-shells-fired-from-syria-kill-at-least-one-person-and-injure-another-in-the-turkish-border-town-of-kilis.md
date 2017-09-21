@@ -8,6 +8,7 @@ A young child and another person were killed on Tuesday when rocket fire hit the
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-turkey-syria-idUKKCN0WA1J3)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The deputy Greens leader steps down from Federal Parliament, after admitting he 
 ### Source:
 
 1. [ABC.net](http://www.abc.net.au/news/2017-07-14/senator-scott-ludlam-resign-constitution-dual-citizenship/8708606)
+1. [Cover Image](http://www.abc.net.au/news/image/8709856-1x1-700x700.jpg)
 
 ### Related:
 

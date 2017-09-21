@@ -9,6 +9,7 @@ EXCLUSIVE: Climax to bribery scandal as Federal Police raid Melbourne homes of f
 
 1. [Herald-Sun](http://www.heraldsun.com.au/news/more-news/six-people-linked-to-note-maker-securency-arrest-for-alleged-bribery/story-fn7x8me2-1226085465195)
 2. [Sydney Morning Herald](http://www.smh.com.au/business/securency-bosses-arrested-20110701-1gtr8.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/1/g/t/q/i/image.related.thumbnail.320x214.1gtr8.png/1309499037270.jpg)
 
 ### Related:
 

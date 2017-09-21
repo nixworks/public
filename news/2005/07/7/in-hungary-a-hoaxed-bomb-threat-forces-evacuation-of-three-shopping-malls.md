@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Pestiside.Hu](http://www.pestiside.hu/archives/big_bomb_scare_turns_out_to_be_dud000995.php)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-07T170417Z_01_N07661878_RTRIDST_0_INTERNATIONAL-HUNGARY-THREAT-DC.XML)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

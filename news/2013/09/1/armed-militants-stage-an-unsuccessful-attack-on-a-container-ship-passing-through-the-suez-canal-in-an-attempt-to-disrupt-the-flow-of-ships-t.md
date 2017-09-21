@@ -8,6 +8,7 @@ Officials say there has been an unsuccessful attack on a Panama-flagged containe
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/2013831213627513411.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2013/8/31//2013831214827635734_20.jpg)
 
 ### Related:
 

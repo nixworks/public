@@ -8,6 +8,7 @@ Ana has weakened but will still continue to soak eastern North Carolina through 
 ### Source:
 
 1. [Accuweather](http://www.accuweather.com/en/weather-news/ana-tropical-system-atlantic-us-east-coast-north-south-carolina-rough-surf-rain/46764807)
+1. [Cover Image](https://accuweather.brightspotcdn.com/d1/d1ee88441c8e6d322a99d88565b3e662/650x366_05111533_hd21-1.jpg)
 
 ### Related:
 

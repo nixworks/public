@@ -8,6 +8,7 @@ Court’s conviction of Jean-Pierre Bemba by command responsibility hailed as hi
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/mar/21/icc-finds-ex-congolese-vice-president-jean-pierre-bemba-guilty-of-war-crimes)
+1. [Cover Image](https://i.guim.co.uk/img/media/7468d063496c35aca503260d60b8b6364f77d536/0_92_2174_1303/master/2174.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9992d93f72613df5e918d149f384e57e)
 
 ### Related:
 

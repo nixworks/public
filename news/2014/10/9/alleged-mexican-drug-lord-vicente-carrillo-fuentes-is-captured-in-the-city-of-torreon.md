@@ -8,6 +8,7 @@ The last brother running the once-notorious Juarez drug cartel, Vicente Carrillo
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-mexico-cartel-arrest-20141009-story.html)
+1. [Cover Image](http://www.trbimg.com/img-54374569/turbine/la-fg-mexico-cartel-arrest-20141009)
 
 ### Related:
 

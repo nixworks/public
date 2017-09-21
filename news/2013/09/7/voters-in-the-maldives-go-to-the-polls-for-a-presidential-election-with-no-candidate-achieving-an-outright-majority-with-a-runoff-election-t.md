@@ -8,6 +8,7 @@ The presidential elections in the Maldives will go to a second round after front
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23983948)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69683000/jpg/_69683577_69681764.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [ABC News](http://abcnews.go.com/International/us-detects-north-korean-missile-launch/story?id=48908129)
 2. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-idUSKBN1AD1ZB)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170728&t=2&i=1194886748&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6R197)
 
 ### Related:
 

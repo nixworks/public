@@ -8,6 +8,7 @@ A bomb tore through the side of a bus carrying Yemeni air force personnel to the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/25/us-yemen-bomb-idUSBRE97O03120130825)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130825&t=2&i=774576469&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97O0R8N00)
 
 ### Related:
 

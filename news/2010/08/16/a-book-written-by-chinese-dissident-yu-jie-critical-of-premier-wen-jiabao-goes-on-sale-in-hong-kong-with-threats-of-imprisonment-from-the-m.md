@@ -10,6 +10,7 @@ A book criticising the Chinese premier went on sale in Hong Kong Monday, despite
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10983310)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20100816&56&691335)
 3. [Sify India](http://sify.com/news/dissident-risks-jail-to-publish-book-critical-of-chinese-premier-news-international-kiqpOcceaij.html)
+3. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

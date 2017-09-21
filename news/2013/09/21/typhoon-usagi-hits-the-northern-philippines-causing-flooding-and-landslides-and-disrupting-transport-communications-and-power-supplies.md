@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/09/21/us-asia-typhoon-idUSBRE98K02120130921)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130921&t=2&i=796047661&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98K0MXX00)
 
 ### Related:
 

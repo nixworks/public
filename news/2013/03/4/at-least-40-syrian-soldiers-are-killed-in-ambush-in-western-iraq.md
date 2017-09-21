@@ -8,6 +8,7 @@ At least 40 Syrian soldiers and Iraqis have been killed by gunmen in western Ira
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21658859)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66196000/jpg/_66196026_66196025.jpg)
 
 ### Related:
 

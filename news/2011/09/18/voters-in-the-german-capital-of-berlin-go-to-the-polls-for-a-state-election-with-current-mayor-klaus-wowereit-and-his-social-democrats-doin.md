@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14966358)
 2. [Reuters](http://www.reuters.com/article/2011/09/18/us-germany-election-idUSTRE78H0IF20110918)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55153000/jpg/_55153809_012782471-1.jpg)
 
 ### Related:
 

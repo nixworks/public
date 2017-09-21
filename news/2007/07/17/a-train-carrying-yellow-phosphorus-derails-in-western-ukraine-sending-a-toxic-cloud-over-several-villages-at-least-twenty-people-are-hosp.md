@@ -8,6 +8,7 @@ A freight train derailed in Ukraine, releasing a cloud of toxic gas and that poi
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/19806091/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/070717/070717_ukraine_hmed_730a.standard.jpg)
 
 ### Related:
 

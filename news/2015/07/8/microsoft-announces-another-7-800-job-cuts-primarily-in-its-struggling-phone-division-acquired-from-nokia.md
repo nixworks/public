@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wired](http://www.wired.com/2015/07/microsoft-phone-job-cuts/)
+1. [Cover Image](https://www.wired.com/wp-content/uploads/2014/04/140409_windows_phone_8.1_01.jpg)
 
 ### Related:
 

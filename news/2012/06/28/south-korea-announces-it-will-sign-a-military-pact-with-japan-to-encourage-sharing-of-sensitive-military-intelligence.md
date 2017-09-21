@@ -8,6 +8,7 @@ A treaty between South Korea and Japan will encourage the sharing of military da
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/06/29/world/asia/south-korea-to-sign-historic-military-pact-with-japan.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

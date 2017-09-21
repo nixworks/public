@@ -8,6 +8,7 @@ Spain&#x27;s King Felipe VI has issued a decree stripping his sister Princess Cr
 ### Source:
 
 1. [AFP via Yahoo!](http://news.yahoo.com/spanish-king-strips-graft-accused-sister-duchess-title-225033939.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/09ycU3_i7cRZC6kcQBrkIQ--/aD0xMDI0O3c9Njc0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2060466-1-1-1.jpg)
 
 ### Related:
 

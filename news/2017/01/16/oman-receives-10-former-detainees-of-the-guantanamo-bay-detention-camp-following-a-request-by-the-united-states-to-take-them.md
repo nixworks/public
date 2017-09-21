@@ -8,6 +8,7 @@ The move means fewer than 50 prisoners remain at the Guantanamo Bay detention ce
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-38635178)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/24DE/production/_93583490_036908269.jpg)
 
 ### Related:
 

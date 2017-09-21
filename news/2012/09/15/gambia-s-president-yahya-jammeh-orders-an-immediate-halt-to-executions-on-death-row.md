@@ -8,6 +8,7 @@ Gambian President Yahya Jemmeh orders that execution of prisoners on death row b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19610206)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62896000/jpg/_62896832_62896831.jpg)
 
 ### Related:
 

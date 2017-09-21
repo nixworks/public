@@ -8,6 +8,7 @@ Seven men were killed and at least 42 other people were wounded in shootings thr
 ### Source:
 
 1. [NBC Chicago](http://www.nbcchicago.com/news/local/15-Shot-As-Holiday-Weekend-Begins-214275491.html)
+1. [Cover Image](http://media.nbcchicago.com/images/1206*675/4th+of+july+violence.jpg)
 
 ### Related:
 

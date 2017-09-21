@@ -8,6 +8,7 @@ Gross domestic product grew at a 0.1 percent annual rate, below the average but 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/03/01/business/economy/us-economy-barely-grew-in-fourth-quarter-revision-shows.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/03/01/business/Econ/Econ-videoLarge.jpg)
 
 ### Related:
 

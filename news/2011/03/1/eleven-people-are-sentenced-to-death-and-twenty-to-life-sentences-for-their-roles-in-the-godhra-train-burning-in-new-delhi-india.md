@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Death-for-11-life-sentence-for-20-in-Godhra-train-burning-case/articleshow/7600059.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/7600195.cms)
 
 ### Related:
 

@@ -8,6 +8,7 @@ German police arrest two Algerians suspected of planning an attack and having li
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35498350)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17E58/production/_88108879_88104662.jpg)
 
 ### Related:
 

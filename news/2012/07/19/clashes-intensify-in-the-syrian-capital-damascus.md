@@ -11,6 +11,7 @@
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012719144626794335.html)
 3. [Newstrack India](http://www.newstrackindia.com/newsdetails/2012/07/19/275-Clashes-intensifies-in-Syrian-capital-after-killing-of-top-officials-.html)
 4. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=42513&Cr=Syria&Cr1=)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/19/2012719154843348734_20.jpg)
 
 ### Related:
 

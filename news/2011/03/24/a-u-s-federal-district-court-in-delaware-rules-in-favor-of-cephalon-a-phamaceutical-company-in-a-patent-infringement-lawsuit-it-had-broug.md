@@ -8,6 +8,7 @@ A U.S. Court upheld aCephalon Inc CEPH.O patent protecting its Fentora painmedic
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/24/cephalon-watson-idUSN2419136720110324)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

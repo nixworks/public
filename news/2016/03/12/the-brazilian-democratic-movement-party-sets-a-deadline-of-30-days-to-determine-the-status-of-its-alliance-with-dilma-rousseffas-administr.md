@@ -8,6 +8,7 @@ President Dilma Rousseff of Brazil could lose the support of the biggest party i
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-12/rousseff-allies-to-vote-in-30-days-on-fate-of-brazil-coalition)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

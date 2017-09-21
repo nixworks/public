@@ -9,6 +9,7 @@ The Age 404 Page
 
 1. [The Age - discussions](http://www.theage.com.au/news/National/Economy-climate-dominate-G20-talks/2006/11/18/1163266814341.html)
 2. [The Age - protests](http://www.theage.com.au/news/national/protests-fizzle-as-g20-ends/2006/11/19/1163871250442.html)
+2. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

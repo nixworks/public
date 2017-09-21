@@ -8,6 +8,7 @@ The Conservatives elect Andrew RT Davies as their leader in the Welsh assembly, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-politics-14143317)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53685000/jpg/_53685844_3503bb45-8ba2-4d15-8f0a-d7b97527456d.jpg)
 
 ### Related:
 

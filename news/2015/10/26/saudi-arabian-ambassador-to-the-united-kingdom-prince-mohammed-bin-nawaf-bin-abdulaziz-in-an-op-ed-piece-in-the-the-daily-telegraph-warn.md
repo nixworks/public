@@ -10,6 +10,7 @@ RIYADH: Saudi Ambassador to the UK Prince Mohammed bin Nawaf has warned of &quot
 1. [Arab News](http://www.arabnews.com/featured/news/826051)
 2. [BBC](http://www.bbc.com/news/uk-34635206)
 3. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/saudiarabia/11954146/How-Saudi-Arabia-helps-Britain-keep-the-peace.html)
+3. [Cover Image](http://www.arabnews.com/sites/default/files/2015/10/26/file-26-Saudi%20Ambassador_0.jpg)
 
 ### Related:
 

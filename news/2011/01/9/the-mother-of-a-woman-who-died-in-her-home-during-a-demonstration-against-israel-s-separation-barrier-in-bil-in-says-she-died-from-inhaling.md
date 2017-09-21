@@ -9,6 +9,7 @@ Jawaher Abu Rahma died as a result of medical treatment from a Ramallah hospital
 
 1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=202742)
 2. [The Observer](http://www.guardian.co.uk/world/2011/jan/09/palestinians-ramallah-israeli-barrier)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=156575)
 
 ### Related:
 

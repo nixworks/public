@@ -8,6 +8,7 @@ At least 10 civilians, including four children, die in a Nato air strike in the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21439830)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65865000/jpg/_65865005_65865004.jpg)
 
 ### Related:
 

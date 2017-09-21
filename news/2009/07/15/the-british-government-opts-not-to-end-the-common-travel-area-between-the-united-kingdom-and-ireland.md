@@ -9,6 +9,7 @@ The British government has climbed down over plans to require travellers from Ir
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8150930.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0715/britain.html)
+2. [Cover Image](https://img.rasset.ie/00027269-1600.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The list of proposed new EU commissioners is now complete, with enough women for
 
 1. [EU Observer](http://euobserver.com/institutional/125477)
 2. [European Voice](http://www.europeanvoice.com/article/romania-alters-commission-nomination/)
+2. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/190aa3dd4a2b4830df9dac02e0d8e090-480x.jpg)
 
 ### Related:
 

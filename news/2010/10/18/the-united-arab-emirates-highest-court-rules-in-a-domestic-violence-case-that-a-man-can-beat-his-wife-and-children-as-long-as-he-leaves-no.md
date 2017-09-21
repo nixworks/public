@@ -9,6 +9,7 @@ A man can beat his wife and kids as long as no physical marks are left, the high
 
 1. [MSNBC](http://www.msnbc.msn.com/id/39718046/ns/world_news-mideastn_africa/)
 2. [The National](http://www.thenational.ae/news/uae-news/court-rules-on-domestic-discipline)
+2. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

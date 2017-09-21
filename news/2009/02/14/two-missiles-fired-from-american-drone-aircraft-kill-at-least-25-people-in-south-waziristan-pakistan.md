@@ -8,6 +8,7 @@ Among the victims were Al Qaeda and Taliban fighters, according to an intelligen
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/02/15/world/asia/15pstan.html?em)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A former employee &quot;with a grudge&quot; crashes into workers at a Mazda plan
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ggcksVnd8V-8XkZKbXaW-_ja2xMg)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10374463.stm)
 3. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=508007)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

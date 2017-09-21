@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/02/02/uk-un-israel-gaza-idUKKBN0L628B20150202)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150202&t=2&i=1021898868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB110Z1)
 
 ### Related:
 

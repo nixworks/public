@@ -18,6 +18,7 @@ The Bloody Sunday killings were unjustified and unjustifiable, the Prime Ministe
 9. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704009804575308243952146652.html?mod=WSJ_hpp_MIDDLETopStories)
 10. [euronews](http://www.euronews.net/2010/06/15/relatives-cheer-bloody-sunday-findings/)
 11. [euronews](http://www.euronews.net/2010/06/15/uk-pm-says-sorry-for-northern-irish-bloody-sunday/)
+11. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48083000/jpg/_48083989_reax3.jpg)
 
 ### Related:
 

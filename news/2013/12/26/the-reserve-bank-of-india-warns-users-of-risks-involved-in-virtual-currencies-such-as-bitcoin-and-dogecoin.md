@@ -8,6 +8,7 @@ The Reserve Bank of India has today cautioned the users, holders and traders of 
 ### Source:
 
 1. [T.I.P. News](http://topinfopost.com/2013/12/26/bank-of-india-acknowledged-dogecoin-as-a-virtual-currency)
+1. [Cover Image](http://www.topinfopost.com/wp-content/uploads/2013/12/bitcoin-640x325.jpg)
 
 ### Related:
 

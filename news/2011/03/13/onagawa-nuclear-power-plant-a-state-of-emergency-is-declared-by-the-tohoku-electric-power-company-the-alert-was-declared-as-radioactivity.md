@@ -20,6 +20,7 @@ Japanese officials said Sunday they presumed partial meltdowns had occurred at t
 11. [Reuters](http://www.reuters.com/article/2011/03/12/us-japan-quake-idUSTRE72A0SS20110312)
 12. [Sky News](http://news.sky.com/skynews/Article/201103115950844)
 13. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/12/AR2011031205493.html?hpid=topnews)
+13. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

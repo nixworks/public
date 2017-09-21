@@ -12,3 +12,4 @@ Bag explodes next to bus stop near Central Bus Station; blast shatters lengthy p
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/bomb-explodes-in-central-jerusalem-25-wounded-1.351377)
 4. [Jerusalem Post](http://www.jpost.com/ArtsAndCulture/Entertainment/Article.aspx?id=213442)
 5. [The Australian](http://www.theaustralian.com.au/news/world/bus-bomb-blast-follows-deadly-gaza-bombing-raids/story-e6frg6so-1226027190433)
+5. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=161998)

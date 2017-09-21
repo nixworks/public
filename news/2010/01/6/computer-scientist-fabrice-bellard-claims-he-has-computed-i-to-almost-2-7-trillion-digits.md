@@ -10,6 +10,7 @@ Fabrice Bellard says he has calculated the value of pi to nearly 2.7 trillion di
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8442255.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/science/science-news/6942553/French-scientist-calculates-Pi-to-record-number-of-digits.html)
 3. [The Times of India](http://timesofindia.indiatimes.com/home/science/In-a-record-value-of-Pi-calculated-to-27tn-digits/articleshow/5417977.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

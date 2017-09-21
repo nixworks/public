@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/nato-convoy-kabul-afghanistan-hit-suicide-blast-n387811)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_28/1109426/150707-nato-kabul-bomb-jpo-424a_1154d83475b7b749342259140963b91e.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

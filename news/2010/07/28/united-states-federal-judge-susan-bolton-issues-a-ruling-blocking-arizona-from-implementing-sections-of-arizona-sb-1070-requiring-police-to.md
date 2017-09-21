@@ -8,6 +8,7 @@ US judge blocks the most controversial parts of Arizona&#039;s new immigration l
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/07/29/2967240.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/902596-1x1-700x700.jpg)
 
 ### Related:
 

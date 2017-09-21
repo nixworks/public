@@ -9,6 +9,7 @@ The United States and Russia blamed each other on Friday for the continued confl
 
 1. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-un-idUSKBN0TU2Q120151211#xkpb8W8LpCFyGOD9.97)
 2. [UN](http://www.un.org/apps/news/story.asp?NewsID=52798#.VmtJ4F5BnYs)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151211&t=2&i=1101683056&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBA1HD)
 
 ### Related:
 

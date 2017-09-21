@@ -8,6 +8,7 @@ Beijing adds voice to international concern and urges restraint after Pyongyang 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/03/20123179612778569.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/16/201231614038979580_20.jpg)
 
 ### Related:
 

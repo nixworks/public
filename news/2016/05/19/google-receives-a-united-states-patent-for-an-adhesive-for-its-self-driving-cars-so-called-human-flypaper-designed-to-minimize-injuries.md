@@ -9,6 +9,7 @@ Google knows that its self-driving cars are going to get into accidents — mayb
 
 1. [ABC News](http://abcnews.go.com/Technology/google-patents-sticky-car-hood-trap-pedestrians-collision/story?id=39225634)
 2. [The Verge](http://www.theverge.com/2016/5/19/11711738/google-self-driving-cars-patent-sticky-flypaper)
+2. [Cover Image](https://cdn0.vox-cdn.com/thumbor/EBwvTm31etezSw2eDZN4D_DV1wI=/0x3:611x347/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49630205/output_KfMBz9.0.0.gif)
 
 ### Related:
 

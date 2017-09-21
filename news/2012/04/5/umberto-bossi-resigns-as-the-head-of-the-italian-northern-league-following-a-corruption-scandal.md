@@ -8,6 +8,7 @@ Leading Italian populist politician Umberto Bossi resigns as head of the Norther
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17630364)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59522000/jpg/_59522697_014446432-1.jpg)
 
 ### Related:
 

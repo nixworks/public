@@ -8,6 +8,7 @@ Up to 500 people may have drowned after overloaded boat sank in Mediterranean
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/20/hundreds-feared-dead-in-migrant-shipwreck-off-libya)
+1. [Cover Image](https://i.guim.co.uk/img/media/6e4f967d78bd99810bddaaba3f70a2ad6449db4a/0_0_3289_1974/3289.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5ee66d052252e470fa44401cac474e43)
 
 ### Related:
 

@@ -8,3 +8,4 @@ John Oliver forgave nearly $15 million of medical debt with a tap of a giant red
 ### Source:
 
 1. [CNN](http://money.cnn.com/2016/06/06/technology/john-oliver-medical-debt/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/160606082845-john-oliver-debt-780x439.png)

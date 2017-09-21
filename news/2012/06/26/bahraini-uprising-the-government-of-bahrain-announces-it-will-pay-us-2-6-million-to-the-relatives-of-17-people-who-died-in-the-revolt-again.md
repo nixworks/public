@@ -9,6 +9,7 @@ Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 1
 
 1. [Reuters](http://www.reuters.com/article/2012/06/25/us-syria-crisis-idUSBRE85D0IS20120625?feedType=RSS&feedName=topNews)
 2. [Reuters](http://www.reuters.com/article/2012/06/26/us-bahrain-compensation-deaths-idUSBRE85P16820120626)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

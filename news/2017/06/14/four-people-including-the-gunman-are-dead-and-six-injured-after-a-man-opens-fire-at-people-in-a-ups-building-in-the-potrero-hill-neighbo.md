@@ -9,6 +9,7 @@ At least three people were killed and two injured when a man dressed in a UPS un
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-san-francisco-shooting-downtown-20170614-story.html)
 2. [San Francisco Chronicle](http://www.sfchronicle.com/bayarea/article/Police-swarm-UPS-building-in-SF-on-report-of-11219519.php)
+2. [Cover Image](http://ww3.hdnux.com/photos/61/73/47/13089274/5/rawImage.jpg)
 
 ### Related:
 

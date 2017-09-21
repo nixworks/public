@@ -9,6 +9,7 @@ Flu-stricken pope issues Christmas &#39;catalogue of virtues&#39; to Curia after
 
 1. [AP via Berlin Record](http://www.therecord.com/news-story/6202934-flu-stricken-pope-issues-catalogue-of-virtues-to-curia/)
 2. [National Catholic Reporter](http://ncronline.org/news/vatican/francis-exhorts-vatican-prelates-be-more-mature-recognize-smallness-work)
+2. [Cover Image](http://www.therecord.com/portals/15/images/fb_logo.jpg)
 
 ### Related:
 

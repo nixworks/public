@@ -9,6 +9,7 @@ Hacking collective Anonymous has claimed responsibility for the week-long cybera
 
 1. [Hurriyet Daily News](http://www.hurriyetdailynews.com/anonymous-claims-cyberattacks-on-turkey-declares-cyber-war.aspx?PageID=238&NID=92907&NewsCatID=352)
 2. [Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/news/anonymous-declares-war-on-turkey-opsis-russia-cyberattack-erdogan-a6784026.html)
+2. [Cover Image](http://www.hurriyetdailynews.com/images/news/201512/n_92907_1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Thai soldier is shot dead in a disputed area around the Cambodia border, where
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/20112585738205310.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12372121)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

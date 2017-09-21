@@ -8,6 +8,7 @@ The Massachusetts Air National Guard F-15C was headed to New Orleans when it wen
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/pilot-missing-after-f-15-fighter-jet-crashes-virginia-n190121)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2014_35/638451/140827-va-jet-crash-1115a_fb781a7d2792954d32e88680a3a0b339.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Extradited British businessman Christopher Tappin is handed a 33-month prison se
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-20959319)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59817000/jpg/_59817873_014077276-1.jpg)
 
 ### Related:
 

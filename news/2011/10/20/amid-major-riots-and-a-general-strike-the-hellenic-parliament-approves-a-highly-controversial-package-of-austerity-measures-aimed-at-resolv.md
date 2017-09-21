@@ -8,6 +8,7 @@ The Greek parliament passes a package of austerity measures despite two days of 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15396467)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56180000/jpg/_56180092_013188966-1.jpg)
 
 ### Related:
 

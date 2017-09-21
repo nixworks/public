@@ -8,6 +8,7 @@ Scientists find genetic variant among Greenlanders that greatly increases the ri
 ### Source:
 
 1. [ScienceNordic](http://sciencenordic.com/diabetes-gene-found-greenland)
+1. [Cover Image](http://sciencenordic.com/sites/default/files/shutterstock_175031627_0.jpg.crop_display_0.jpg)
 
 ### Related:
 

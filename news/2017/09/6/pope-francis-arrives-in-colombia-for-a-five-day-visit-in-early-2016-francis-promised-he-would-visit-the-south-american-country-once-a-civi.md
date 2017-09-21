@@ -9,6 +9,7 @@ Pope Francis is due to travel to Colombia today for a five day visit. He will be
 
 1. [CNN](http://www.cnn.com/2017/09/05/europe/pope-colombia-preview/index.html)
 2. [Independent Catholic News](http://www.indcatholicnews.com/news/33332)
+2. [Cover Image](http://s3-eu-west-1.amazonaws.com/indcatholicnews/article-images/1504652547euKELC2xoZb1XmkdwjqHhl76BST5WA.png)
 
 ### Related:
 

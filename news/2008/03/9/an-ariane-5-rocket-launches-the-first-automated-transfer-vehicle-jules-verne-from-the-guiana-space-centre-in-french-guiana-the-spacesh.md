@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESA](http://www.esa.int/esaCP/SEMDYOK26DF_index_0.html)
+1. [Cover Image](http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2008/03/replay_of_ariane_5_es-atv_launch/9797168-4-eng-GB/Replay_of_Ariane_5_ES-ATV_launch_large.jpg)
 
 ### Related:
 

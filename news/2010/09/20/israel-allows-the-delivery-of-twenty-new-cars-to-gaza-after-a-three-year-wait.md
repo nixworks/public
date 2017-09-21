@@ -10,6 +10,7 @@ Israel allows some 20 new cars into Gaza, in the first such shipment since the m
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hjNZS9hqljjsTg_L8NrGwNy2csTg)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11371738)
 3. [JTA](http://www.jta.org/news/article/2010/09/20/2740974/israel-allows-cars-to-enter-gaza)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

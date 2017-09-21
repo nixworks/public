@@ -8,6 +8,7 @@ Egyptian authorities have ordered the closure of a prominent local non-governmen
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-egypt-rights-idUKKCN0VQ23F)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

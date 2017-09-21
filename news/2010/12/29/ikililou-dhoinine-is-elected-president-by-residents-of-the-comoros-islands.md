@@ -10,6 +10,7 @@ The&#x20;former&#x20;vice&#x20;president&#x20;of&#x20;Comoros&#x20;and&#x20;ruli
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12089809)
 2. [Pretoria News](http://www.pretorianews.co.za/dhoinine-wins-comoros-election-1.1006183)
 3. [Reuters via France24](http://www.france24.com/en/20101229-former-vice-president-ikililou-dhoinine-wins-comoros-presidential-elections)
+3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/comores-ikililou-dhoinine.jpg)
 
 ### Related:
 

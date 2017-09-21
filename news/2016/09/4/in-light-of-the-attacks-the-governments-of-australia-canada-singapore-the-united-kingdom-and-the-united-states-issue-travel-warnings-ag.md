@@ -8,6 +8,7 @@ At least 5 countries issue travel warnings after the Davao City explosion that k
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/145142-travel-advisories-davao-explosion-september-2016)
+1. [Cover Image](https://assets.rappler.com/FBE2D1D394074D0CA635B187CE9FF9F4/img/9E089A94556E49E1872739D28A526C73/davao-explosion-20160902-001.jpg)
 
 ### Related:
 

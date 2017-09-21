@@ -11,6 +11,7 @@ Two US airmen are rescued in eastern Libya after their warplane crashed during a
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12826744)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12776418)
 4. [The Gulf Today](http://gulftoday.ae/portal/fe2367a8-553f-4dc9-a254-73035d508748.aspx)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/51787000/jpg/_51787276_011591148-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkey&#39;s national security council removes Iran, Syria from list of threats 
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3976899,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

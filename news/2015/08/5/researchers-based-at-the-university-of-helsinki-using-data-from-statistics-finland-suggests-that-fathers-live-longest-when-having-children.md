@@ -8,3 +8,4 @@ Here&apos;s some expert advice for would-be fathers: If possible, wait to have k
 ### Source:
 
 1. [The Chicago Tribune](http://www.chicagotribune.com/lifestyles/health/la-sci-sn-fatherhood-mortality-20150804-story.html)
+1. [Cover Image](http://www.trbimg.com/img-55c10d7f/turbine/la-sci-sn-fatherhood-mortality-20150804)

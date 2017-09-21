@@ -8,6 +8,7 @@ Chronic illnesses such as heart disease, cancer and diabetes are the leading cau
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/health-13207595)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52361000/jpg/_52361188_m3701030-spl.h.jpg)
 
 ### Related:
 

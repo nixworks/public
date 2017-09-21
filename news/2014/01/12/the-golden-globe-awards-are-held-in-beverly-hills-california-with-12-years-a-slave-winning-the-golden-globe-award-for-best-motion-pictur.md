@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-golden-globe-awards-2014-main,0,5157661.story#axzz2qFXxuulw)
+1. [Cover Image](http://www.trbimg.com/img-52d36a04/turbine/la-et-mn-golden-globe-awards-2014-main)
 
 ### Related:
 

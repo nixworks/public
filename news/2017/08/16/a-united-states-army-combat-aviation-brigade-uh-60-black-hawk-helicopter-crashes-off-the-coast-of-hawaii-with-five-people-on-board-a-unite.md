@@ -8,6 +8,7 @@ A debris field was spotted in the ocean after the Army Black Hawk went down near
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/five-crew-missing-after-us-helicopter-crashes-off-hawaii-10991333)
+1. [Cover Image](http://e3.365dm.com/17/08/1600x900/15a1c041d3b6875043ea3fcacc006f540cfd7845afbc4b9eacdc5af9cdf3fde2_4075221.jpg?20170816160434)
 
 ### Related:
 

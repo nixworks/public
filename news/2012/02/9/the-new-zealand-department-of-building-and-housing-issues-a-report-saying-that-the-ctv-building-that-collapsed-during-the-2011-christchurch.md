@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fairfax New Zealand via New Zealand Stuff](http://www.stuff.co.nz/national/6386946/CTV-building-did-not-meet-standards-report)
+1. [Cover Image](https://static2.stuff.co.nz/1328768503/742/6393742.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UN News Center](http://www.un.org/apps/news/story.asp?NewsID=10221&Cr=iraq&Cr1=)
+1. [Cover Image](/News/dh/photos/large/iraqmap-new.gif)
 
 ### Related:
 

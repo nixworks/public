@@ -8,6 +8,7 @@ Royal Marine Sergeant Alexander Blackman has been sentenced to life in prison by
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-25266206#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71584000/jpg/_71584016_marine_pa.jpg)
 
 ### Related:
 

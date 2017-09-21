@@ -8,6 +8,7 @@ President Barack Obama formally announced the lifting of U.S. sanctions on Myanm
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-myanmar-sanctions-idUSKCN127262?il=0)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161007&t=2&i=1156594274&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC961PQ)
 
 ### Related:
 

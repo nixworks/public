@@ -8,6 +8,7 @@ This is only the latest benefit for the wonder pill, which has been previously l
 ### Source:
 
 1. [Counsel & Heal](http://www.counselheal.com/articles/4294/20130311/aspirin-day-reduce-melanoma-risk-up-30-percent.htm)
+1. [Cover Image](http://images.counselheal.com/data/images/full/2815/aspirin.jpg)
 
 ### Related:
 

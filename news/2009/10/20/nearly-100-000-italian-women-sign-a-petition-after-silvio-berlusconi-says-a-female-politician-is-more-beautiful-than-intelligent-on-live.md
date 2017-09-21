@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8317397.stm)
 2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE59J3F520091020)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091020&t=2&i=12012934&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-20T143357Z_01_BTRE59J148M00_RTROPTP_0_COLUMN-BERLUSCONI)
 
 ### Related:
 

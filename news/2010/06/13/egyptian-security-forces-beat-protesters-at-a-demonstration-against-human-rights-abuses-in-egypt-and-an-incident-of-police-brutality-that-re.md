@@ -9,6 +9,7 @@
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5im-Kw1VwkViBjtBkORFz0olsP-uAD9GAHO900)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2010/06/egypt-alleged-torture-death-scatters-nationwide-fury.html)
+2. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef0133f0eb25e3970b-120pi)
 
 ### Related:
 

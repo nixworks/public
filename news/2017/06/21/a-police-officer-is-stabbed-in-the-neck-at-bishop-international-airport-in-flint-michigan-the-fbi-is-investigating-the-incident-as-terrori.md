@@ -8,6 +8,7 @@ The stabbing of a police officer at a Michigan airport on Wednesday is being inv
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/06/21/flint-bishop-airport-police-officer-stabbed-airport-evacuated-and-suspect-in-custody.html)
+1. [Cover Image](//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/06/21/0/0/694940094001_5479059164001_5479027891001-vs.jpg?ve=1)
 
 ### Related:
 

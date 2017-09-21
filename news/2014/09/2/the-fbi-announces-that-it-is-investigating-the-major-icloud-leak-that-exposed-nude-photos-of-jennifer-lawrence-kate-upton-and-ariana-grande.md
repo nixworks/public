@@ -8,6 +8,7 @@ The FBI has announced that it will be investigating a hack that leaked celebriti
 ### Source:
 
 1. [MTV](http://www.mtv.com/news/1917801/fbi-celebrity-nude-photo-hack/)
+1. [Cover Image](http://imagesmtv-a.akamaihd.net/uri/mgid:ao:image:mtv.com:68108?quality=0.8&amp;format=jpg&amp;width=1440&amp;height=810&amp;.jpg)
 
 ### Related:
 

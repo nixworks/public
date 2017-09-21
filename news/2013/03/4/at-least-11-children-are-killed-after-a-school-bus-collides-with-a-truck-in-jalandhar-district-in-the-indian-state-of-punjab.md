@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/cities/school-bus-collides-with-truck-in-jalandhar-casualties-feared-337792)
+1. [Cover Image](http://i.ndtvimg.com/mt/2013-03/Jalandhar_school_bus_accident_March4_295.jpg)
 
 ### Related:
 

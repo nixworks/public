@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/200981232134895249.html)
 2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=48393)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

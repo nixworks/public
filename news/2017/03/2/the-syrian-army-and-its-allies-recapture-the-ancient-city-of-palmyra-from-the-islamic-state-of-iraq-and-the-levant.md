@@ -12,6 +12,7 @@ The Syrian opposition declined to congratulate Syrian President Bashar al-Assad 
 3. [BBC](http://www.bbc.com/news/world-middle-east-39140880)
 4. [Reuters](http://www.reuters.com/article/us-russia-syria-palmyra-idUSKBN16921M)
 5. [Rudaw](http://www.rudaw.net/english/middleeast/syria/02032017)
+5. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170302&t=2&i=1174676595&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED21172)
 
 ### Related:
 

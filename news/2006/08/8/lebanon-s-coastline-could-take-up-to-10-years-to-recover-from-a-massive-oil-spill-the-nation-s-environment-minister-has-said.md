@@ -14,6 +14,7 @@ Foreign Ministry recalls envoy following Venezuelan president&#39;s comments com
 5. [Reuters](http://www.alertnet.org/thenews/newsdesk/L08494382.htm)
 6. [VenezuelAnalysis](http://www.venezuelanalysis.com/news.php?newsno=2031)
 7. [YNET NEWS](http://www.ynetnews.com/articles/0,7340,L-3288005,00.html)
+7. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

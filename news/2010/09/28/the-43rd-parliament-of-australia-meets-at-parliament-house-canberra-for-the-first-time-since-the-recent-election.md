@@ -9,6 +9,7 @@ A traditional smoking ceremony welcomed politicians to Canberra ahead of the off
 
 1. [ABC Australia](http://www.abc.net.au/news/stories/2010/09/28/3023580.htm)
 2. [ABC News Online](http://www.abc.net.au/news/stories/2010/09/28/3023869.htm?section=justin)
+2. [Cover Image](http://www.abc.net.au/news/image/2276628-1x1-700x700.jpg)
 
 ### Related:
 

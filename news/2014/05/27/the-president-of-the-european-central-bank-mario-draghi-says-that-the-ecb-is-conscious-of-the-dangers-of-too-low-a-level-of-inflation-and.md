@@ -8,6 +8,7 @@ European Central Bank President Mario Draghi said on Tuesday the bank was aware 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/27/us-ecb-draghi-idUSKBN0E71QH20140527)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140527&t=2&i=900427541&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA4Q0M4)
 
 ### Related:
 

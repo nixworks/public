@@ -9,6 +9,7 @@ The UK loses its top AAA credit rating for the first time since 1978, with Chanc
 
 1. [BBC](http://www.bbc.co.uk/news/business-21554311)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323549204578320613007137362.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65052000/jpg/_65052249_136308486.jpg)
 
 ### Related:
 

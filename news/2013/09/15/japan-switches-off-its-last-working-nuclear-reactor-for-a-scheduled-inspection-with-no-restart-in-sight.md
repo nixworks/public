@@ -8,6 +8,7 @@ The move leaves Japan nuclear power-free for second time since 2011 Fukushima cr
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/09/201391552642399898.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/9/15/201391553446657734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The results of parliamentary elections in Afghanistan have ushered in uncertaint
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/12/02/world/asia/02afghan.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

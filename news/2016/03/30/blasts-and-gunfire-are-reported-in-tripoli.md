@@ -8,6 +8,7 @@ Several loud explosions followed by heavy gunfire were heard over Tripoli in the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-libya-security-idUSKCN0WW01A)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

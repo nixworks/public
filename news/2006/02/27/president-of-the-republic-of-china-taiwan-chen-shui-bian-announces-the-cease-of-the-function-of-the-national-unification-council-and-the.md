@@ -11,6 +11,7 @@
 2. [China Daily](http://www.chinadaily.com.cn/english/doc/2006-02/27/content_524427.htm)
 3. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2006/02/27/2003294860)
 4. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/02/27/AR2006022700580.html)
+4. [Cover Image](http://www.taipeitimes.com/images/2006/02/27/thumbs/20060226193036.jpeg)
 
 ### Related:
 

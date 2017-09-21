@@ -8,6 +8,7 @@ The incumbent president takes a strong lead but the opposition says it rejects t
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-40855040)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05bvt0h.jpg)
 
 ### Related:
 

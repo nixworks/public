@@ -8,6 +8,7 @@ A shallow magnitude 6.2 earthquake has struck in Solomon Islands.
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/306111/magnitude-6-point-2-quake-strikes-near-solomons'-malaita)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Belgian lawmakers voted overwhelmingly on Thursday to extend the country&#039;s 
 ### Source:
 
 1. [AP via NDTV](http://www.ndtv.com/article/world/belgian-lawmakers-extend-euthanasia-to-children-483237)
+1. [Cover Image](http://i.ndtvimg.com/mt/2014-02/child_euthanasia_protests_belgium_AP_360x270_6.jpg)
 
 ### Related:
 

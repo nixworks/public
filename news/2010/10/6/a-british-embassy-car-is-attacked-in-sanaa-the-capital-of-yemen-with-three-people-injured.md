@@ -12,6 +12,7 @@
 3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1085440/1/.html)
 4. [Reuters via the ''New York Times](http://www.nytimes.com/reuters/2010/10/06/world/international-uk-yemen-omv-gunman.html?_r=1&partner=rss&emc=rss)
 5. [Yemen Observer](http://www.yobserver.com/front-page/10019814.html)
+5. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20101006&t=2&i=219852710&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-06T162748Z_01_BTRE6950QV200_RTROPTP_0_YEMEN-ATTACK)
 
 ### Related:
 

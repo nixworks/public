@@ -8,6 +8,7 @@ SEOUL (AFP) - The death toll from severe flooding in the north-east of North Kor
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/asia/east-asia/death-toll-from-north-korea-floods-rises-to-133-with-395-missing-un)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2016/09/12/39803845_-_10_09_2016_-_china-nkorea-nuclear-test_1.jpg?itok=BkNCC278)
 
 ### Related:
 

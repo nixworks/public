@@ -11,6 +11,7 @@ After months of campaigning and talking to local residents, initial poll results
 2. [CNN](http://politicalticker.blogs.cnn.com/2011/11/08/beshear-easily-wins-re-election-in-kentucky/)
 3. [Jackson Clarion Ledger](http://www.clarionledger.com/article/20111108/NEWS04/111108037/Bryant-defeats-DuPree-Miss-governor-s-race?odyssey=nav%7Chead)
 4. [Tucson Sentinel](http://www.tucsonsentinel.com/local/report/110811_election/democrats-sweeping-tucson-election/)
+4. [Cover Image](http://bloximages.chicago2.vip.townnews.com/ahwatukee.com/content/tncms/assets/v3/editorial/3/d7/3d7f2956-0a8b-11e1-94f7-001cc4c03286/4eba015ed7ee4.preview-300.jpg?resize=300%2C402)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A man who wore a T-shirt with offensive comments referring to the killing of two
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-19911943)
 2. [Spiked](http://www.spiked-online.com/site/article/12956/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63433000/jpg/_63433307_thewt-shirtfront.jpg)
 
 ### Related:
 

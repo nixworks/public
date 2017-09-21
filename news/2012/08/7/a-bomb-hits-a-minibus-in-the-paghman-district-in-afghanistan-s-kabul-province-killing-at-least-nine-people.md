@@ -8,6 +8,7 @@ A US soldier is killed in Afghanistan by gunmen wearing Afghan army uniform, in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19159499#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62090000/jpg/_62090055_62090054.jpg)
 
 ### Related:
 

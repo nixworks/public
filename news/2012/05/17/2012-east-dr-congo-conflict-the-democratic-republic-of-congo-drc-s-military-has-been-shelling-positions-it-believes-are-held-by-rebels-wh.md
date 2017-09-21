@@ -8,6 +8,7 @@ Exclusive report on fighting between the army and mutineering soldiers that has 
 ### Source:
 
 1. [AJE](http://www.aljazeera.com/video/africa/2012/05/20125181131799659.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/18/201251812251877734_20.jpg)
 
 ### Related:
 

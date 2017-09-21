@@ -13,6 +13,7 @@ Syrian soldiers and tanks have been firing in the city of Deraa, a centre of ant
 4. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=218720)
 5. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218638)
 6. [Voice of America News](http://www.voanews.com/english/news/Syrian-Troops-Storm-Into-Daraa-Sunday-121048314.html)
+6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52440000/jpg/_52440838_52440837.jpg)
 
 ### Related:
 

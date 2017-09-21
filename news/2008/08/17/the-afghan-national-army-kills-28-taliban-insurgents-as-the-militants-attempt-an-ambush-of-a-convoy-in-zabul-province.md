@@ -8,6 +8,7 @@ Afghan soldiers killed 28 Taliban in a clash on Sunday after the guerrillas ambu
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSISL33004220080817)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

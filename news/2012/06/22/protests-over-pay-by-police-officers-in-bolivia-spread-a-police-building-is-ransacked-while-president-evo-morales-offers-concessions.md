@@ -10,6 +10,7 @@ Protests by Bolivian police demanding a pay rise turn violent, forcing President
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18560344)
 2. [France 24](http://www.france24.com/en/20120623-looting-breaks-out-bolivian-police-strike)
 3. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=524153&CategoryId=14919)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61090000/jpg/_61090674_015131232-1.jpg)
 
 ### Related:
 

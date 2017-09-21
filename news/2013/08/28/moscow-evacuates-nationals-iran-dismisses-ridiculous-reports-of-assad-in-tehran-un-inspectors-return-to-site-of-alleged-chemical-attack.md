@@ -19,6 +19,7 @@ Moscow evacuates nationals; Iran dismisses &#8216;ridiculous&#8217; reports of A
 10. [Reuters](http://www.reuters.com/article/2013/08/28/us-syria-crisis-strike-civilians-idUSBRE97R0UJ20130828)
 11. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10272380/Syrias-UN-ambassador-accuses-Britain-of-conspiring-with-rebels-in-chemical-weapons-attack.html)
 12. [The Times Of Israel](http://www.timesofisrael.com/syria-said-to-clear-out-security-installations-ahead-of-attack/)
+12. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/12/Mideast-Syria-Endgame_Horo-1-e1369431499637.jpg)
 
 ### Related:
 

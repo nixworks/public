@@ -13,6 +13,7 @@ A 14-hour operation to separate conjoined twins, Hassan and Hussein Benhaffaf fr
 4. [RTÉ](http://www.rte.ie/news/2010/0408/benhaffaf.html)
 5. [Sky News](http://news.sky.com/skynews/Home/UK-News/Conjoined-Twins-Hassan-and-Hussein-Benhaffaf-Have-Been-Successfully-Separated-Great-Ormond-Street/Article/201004215597379?lpos=UK_News_Carousel_Region_1&lid=ARTICLE_15597379_Conjoined_Twins_Hassan_and_Hussein_Benhaffaf_Have_Been_Successfully_Separated%2C_Great_Ormond_Street)
 6. [The Daily Telegraph](http://www.telegraph.co.uk/health/healthnews/7567206/Conjoined-twins-successfully-separated.html)
+6. [Cover Image](https://img.rasset.ie/00032c89-1600.jpg)
 
 ### Related:
 

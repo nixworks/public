@@ -8,6 +8,7 @@ Ma. Aurora Moynihan, an alleged drug pusher to celebrities, was the sister of ac
 ### Source:
 
 1. [Rappler](http://www.rappler.com/entertainment/news/145870-maritoni-fernandez-sister-aurora-moynihan-shot-dead)
+1. [Cover Image](https://assets.rappler.com/27136AF968E34023A407337C17F2A99F/img/BD61A6394D914C769124B72F864E65D4/maritonifernandezandauroramoynihan.jpg)
 
 ### Related:
 

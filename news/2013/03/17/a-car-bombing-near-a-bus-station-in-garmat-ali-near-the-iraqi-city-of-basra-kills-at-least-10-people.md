@@ -8,6 +8,7 @@ Ten people are killed as a car bomb explodes at a bus station near Basra in sout
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21821159)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66441000/jpg/_66441677_66441676.jpg)
 
 ### Related:
 

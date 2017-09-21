@@ -12,6 +12,7 @@ Are New York cops about to find &#8220;the most missingest man in America?&#8221
 3. [MSNBC](http://www.msnbc.msn.com/id/9006026/)
 4. [New York Daily News](http://www.nydailynews.com/front/story/338782p-289273c.html)
 5. [New York Post](http://www.nypost.com/news/regionalnews/51443.htm)
+5. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Video/050819/n_crater_mystery_050819.standard.jpg)
 
 ### Related:
 

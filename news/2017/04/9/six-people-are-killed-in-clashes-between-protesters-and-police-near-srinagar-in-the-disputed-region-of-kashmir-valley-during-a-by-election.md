@@ -8,6 +8,7 @@ Violence erupted as thousands protesting against Indian rule stormed polling sta
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-39550551)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/768A/production/_95564303_8c42b1f6-0de5-4642-bd11-11bacb1185f5.jpg)
 
 ### Related:
 

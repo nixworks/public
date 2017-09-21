@@ -8,6 +8,7 @@ Commission found &quot;probable cause&quot; Gov. Robert Bentley violated campaig
 ### Source:
 
 1. [USA Today](https://www.usatoday.com/story/news/politics/2017/04/06/alabama-governor-may-face-prosecution-after-ethics-ruling/100110144/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

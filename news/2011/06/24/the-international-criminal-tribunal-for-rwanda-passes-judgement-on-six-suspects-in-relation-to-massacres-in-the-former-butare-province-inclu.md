@@ -9,6 +9,7 @@ A former Rwandan minister has been jailed for life for genocide and incitement t
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/06/24/rwanda.genocide.verdict/)
 2. [The New Times](http://www.newtimes.co.rw/index.php?issue=14666&article=42538)
+2. [Cover Image](http://i.cdn.turner.com/cnn/.element/img/3.0/newsscanner/no_image_cnn_90x51.jpg)
 
 ### Related:
 

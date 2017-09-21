@@ -10,6 +10,7 @@ Armed men have boarded and attempted to disable boats carrying asylum seekers fr
 1. [Human Rights Watch](http://www.hrw.org/news/2015/10/22/greece-attacks-boats-risk-migrant-lives)
 2. [Hürriyet Daily News](http://www.hurriyetdailynews.com/two-migrants-killed-16-missing-in-aegean-sea-for-two-days.aspx?pageID=238&nID=90229&NewsCatID=341)
 3. [UPI](http://www.upi.com/Top_News/World-News/2015/10/22/Report-Armed-attackers-disable-migrant-boats-in-Aegean-Sea/7931445524022/?spt=rln&or=4)
+3. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/7931445524022/2015/1/4f37cca5d722c30806b998802ebc86f4/v1.5/Report-Armed-attackers-disable-migrant-boats-in-Aegean-Sea.jpg)
 
 ### Related:
 

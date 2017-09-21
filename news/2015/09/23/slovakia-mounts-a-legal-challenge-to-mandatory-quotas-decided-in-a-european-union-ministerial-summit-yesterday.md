@@ -8,6 +8,7 @@ Splits within the EU on the relocation of migrants are further exposed as leader
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34332759)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/11C7/production/_85715540_85712370.jpg)
 
 ### Related:
 

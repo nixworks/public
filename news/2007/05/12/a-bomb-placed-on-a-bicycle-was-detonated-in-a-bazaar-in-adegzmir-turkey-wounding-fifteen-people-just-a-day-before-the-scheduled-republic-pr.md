@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Hürriyet](http://www.hurriyet.com.tr/gundem/6501217.asp?gid=180)
+1. [Cover Image](http://i.hurimg.com/i/hurriyet/75/0x0/55ea8d4ef018fbb8f8876b02.jpg)
 
 ### Related:
 

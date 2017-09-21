@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4448078.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4448798.stm)
 3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3171292,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

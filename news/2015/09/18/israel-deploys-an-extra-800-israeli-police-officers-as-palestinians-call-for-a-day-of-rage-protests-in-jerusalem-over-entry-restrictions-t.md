@@ -9,6 +9,7 @@ Barkat declares war against rock-throwers in capital.
 
 1. [Al Jazeera America](http://america.aljazeera.com/articles/2015/9/18/dozens-wounded-in-clashes-over-jerusalems-al-aqsa.html)
 2. [Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/800-extra-cops-deployed-in-Jerusalem-amid-Palestinian-calls-for-day-of-rage-416526)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=278603)
 
 ### Related:
 

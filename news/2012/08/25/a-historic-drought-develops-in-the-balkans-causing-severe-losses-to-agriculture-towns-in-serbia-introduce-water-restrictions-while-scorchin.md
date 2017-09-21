@@ -9,6 +9,7 @@
 
 1. [AFP via FOCUS](http://www.focus-fen.net/index.php?id=n285801)
 2. [RIA Novosti](http://en.rian.ru/Environment/20120825/175425886.html)
+2. [Cover Image](http://images.focus-news.net/38ae1b84f7dbe353e6426359a9ba2cbd.jpg)
 
 ### Related:
 

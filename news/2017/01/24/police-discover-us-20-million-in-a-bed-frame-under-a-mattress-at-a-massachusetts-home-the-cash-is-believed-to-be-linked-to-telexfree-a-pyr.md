@@ -8,6 +8,7 @@ Officials say the find is linked to a $1bn pyramid scheme involving an internet 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-38735399)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/64D1/production/_93790852_c24r8syuaaawk4x.jpg)
 
 ### Related:
 

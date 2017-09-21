@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2004/06/09/international/middleeast/09KURD.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

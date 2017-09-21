@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17811509)
 2. [NOS](http://nos.nl/artikel/365513-kabinetrutte-gevallen.html)
+2. [Cover Image](http://nos.nl/bundles/nossite/img/placeholders/no_image.png?170322)
 
 ### Related:
 

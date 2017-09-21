@@ -8,6 +8,7 @@ The UN makes its first aid delivery to drought victims in areas of Somalia contr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14175443)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54104000/jpg/_54104113_012467043-1.jpg)
 
 ### Related:
 

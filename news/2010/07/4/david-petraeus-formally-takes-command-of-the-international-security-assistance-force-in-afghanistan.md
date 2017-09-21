@@ -9,6 +9,7 @@ American Gen. David Petraeus formally assumes command of the 130,000-strong inte
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10500419.stm)
 2. [CBC](http://www.cbc.ca/world/story/2010/07/03/petraeus-afghanistan.html)
+2. [Cover Image](https://i.cbc.ca/1.2119388.1382072945!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-petraeus-cp-8987807.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pakistani fighter jets bombed suspected militant hideouts in the tribal region o
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2014/05/21/uk-pakistan-airstrikes-idINKBN0E109Z20140521)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140521&t=2&i=898573292&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA4K039)
 
 ### Related:
 

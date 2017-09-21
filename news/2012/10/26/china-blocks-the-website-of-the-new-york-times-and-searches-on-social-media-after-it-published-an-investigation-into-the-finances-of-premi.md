@@ -9,6 +9,7 @@ The Chinese government began blocking access to The Times after publication of a
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/10/201210268932863255.html)
 2. [New York Times](http://www.nytimes.com/2012/10/26/world/asia/china-blocks-web-access-to-new-york-times.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

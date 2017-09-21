@@ -11,6 +11,7 @@ France confirms a raid against alleged al-Qaeda militants thought to be holding 
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10738467)
 3. [IOL](http://www.iol.co.za/index.php?from=rss_North%20Africa&set_id=1&click_id=85&art_id=nw20100723133827118C712360)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE66M2OJ20100723?feedType=RSS&feedName=worldNews)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

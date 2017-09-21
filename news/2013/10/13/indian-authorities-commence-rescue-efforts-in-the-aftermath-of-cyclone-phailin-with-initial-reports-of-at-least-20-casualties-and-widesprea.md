@@ -8,6 +8,7 @@ Heavy rain brought by cyclone Phailin on Sunday triggered floods in Odisha, forc
 ### Source:
 
 1. [First Post](http://www.firstpost.com/india/cyclone-phailin-live-lord-paul-gives-rs-25-lakh-to-relief-fund-1165983.html)
+1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2013/10/Cyclone_trees_Reuters1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Thousands gather in Tahrir Square to support move to replace defence minister an
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/201281215511142445.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/13/201281381058472734_20.jpg)
 
 ### Related:
 

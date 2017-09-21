@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/17/us-iraq-violence-idUSBRE99G0JU20131017)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131017&t=2&i=803878979&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99G1EZS00)
 
 ### Related:
 

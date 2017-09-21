@@ -12,6 +12,7 @@ Israel was accused of shooting dead as many as 20 protesters on Sunday after Pal
 3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=223669)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/8558216/20-dead-as-Israeli-troops-fire-on-Golan-Heights-protesters.html)
 5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4078644,00.html)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01913/protestors1_1913538a.jpg)
 
 ### Related:
 

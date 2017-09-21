@@ -8,6 +8,7 @@ JAKARTA • The authorities in Riau, the Indonesian province that is second-clos
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/asia/se-asia/riau-extends-haze-emergency-by-a-month)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/11/02/778.jpg?itok=khofPgQp)
 
 ### Related:
 

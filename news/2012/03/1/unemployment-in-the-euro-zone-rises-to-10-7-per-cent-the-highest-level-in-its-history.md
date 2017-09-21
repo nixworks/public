@@ -8,6 +8,7 @@ Euro zone joblessnessrose to a new euro-era high while inflation was largely ste
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/01/eurozone-economy-idUSB5E7JV02K20120301)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A military court in the Democratic Republic of Congo sentences to death four pol
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13895771)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53650000/jpg/_53650448_012286096-1.jpg)
 
 ### Related:
 

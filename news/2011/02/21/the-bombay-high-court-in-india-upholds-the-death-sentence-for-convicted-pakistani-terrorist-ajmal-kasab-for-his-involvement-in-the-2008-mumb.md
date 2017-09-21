@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Kasab-recites-Quran-offers-prayers-in-jail-ahead-of-verdict/articleshow/7537753.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/7538272.cms)
 
 ### Related:
 

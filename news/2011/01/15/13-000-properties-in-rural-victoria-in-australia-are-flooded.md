@@ -8,6 +8,7 @@ The town of Echuca, on the Victorian-New South Wales border, is facing unprecede
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/16/3113796.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1906756-1x1-700x700.jpg)
 
 ### Related:
 

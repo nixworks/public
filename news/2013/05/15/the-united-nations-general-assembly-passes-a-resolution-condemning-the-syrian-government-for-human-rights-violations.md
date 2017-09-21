@@ -8,6 +8,7 @@ General Assembly approves Qatari-drafted measure condemning alleged rights abuse
 ### Source:
 
 1. [AlJazeera](http://www.aljazeera.com/news/middleeast/2013/05/2013515153154534102.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/5/15/2013515192339339734_20.jpg)
 
 ### Related:
 

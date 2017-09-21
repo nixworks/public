@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8139065.stm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5673M820090708)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-07/08/content_11674664.htm)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

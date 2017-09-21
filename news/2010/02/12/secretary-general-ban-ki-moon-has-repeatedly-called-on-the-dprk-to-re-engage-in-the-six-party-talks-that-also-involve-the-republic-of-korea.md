@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=33760&Cr=Democratic&Cr1=Korea)
+1. [Cover Image](/News/dh/photos/large/147853-pascoe.jpg)
 
 ### Related:
 

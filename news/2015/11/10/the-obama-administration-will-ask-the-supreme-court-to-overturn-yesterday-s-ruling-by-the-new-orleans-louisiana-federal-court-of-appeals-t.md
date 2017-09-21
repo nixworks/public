@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/US/2015/11/10/Obama-to-appeal-immigration-ruling-to-Supreme-Court/2261447149554/?spt=hts&or=2)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/2261447149554/2015/1/2e4611e2cd2c57042344fce382f92589/v1.5/Obama-to-appeal-immigration-ruling-to-Supreme-Court.jpg)
 
 ### Related:
 

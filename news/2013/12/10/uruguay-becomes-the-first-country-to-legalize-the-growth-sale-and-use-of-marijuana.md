@@ -8,6 +8,7 @@ Uruguay became the first country to legalize the growing, sale and smoking of ma
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/12/11/us-uruguay-marijuana-vote-idUSBRE9BA01520131211)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131211&t=2&i=819239767&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BA01XH00)
 
 ### Related:
 

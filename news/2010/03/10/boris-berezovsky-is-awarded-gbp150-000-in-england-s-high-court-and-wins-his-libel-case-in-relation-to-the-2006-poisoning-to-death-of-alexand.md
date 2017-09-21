@@ -10,6 +10,7 @@ Boris Berezovsky won &pound;150,000 High Court libel damages over claims on a Ru
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8559543.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Boris-Berezovsky-Wins-Alexander-Litvinenko-Libel-Case-Payout-Over-The-Radiation-Poisoning/Article/201003215571036?lpos=UK_News_Second_UK_News_Article_Teaser_Region_3&;lid=ARTICLE_15571036_Boris_Berezovsky_Wins_Alex)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/7412680/Boris-Berezovsky-wins-150000-damages-over-Litvinenko-murder-claim.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01510/Berezovsky_1510532a.jpg)
 
 ### Related:
 

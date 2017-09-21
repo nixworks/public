@@ -8,6 +8,7 @@ Two South Florida imams and a third family member were arrested Saturday on char
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/CRIME/05/14/pakistani.taliban/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/CRIME/05/14/pakistani.taliban/tzvids.pakistan.taliban.gi.jpg)
 
 ### Related:
 

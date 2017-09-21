@@ -8,6 +8,7 @@ What do The Pixies, Elvis Costello, and Salam Fayyad, Prime Minister of the Pale
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/middle-east/israel-plans-to-send-bill-to-palestinians-over-boycotts-1997295.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/06/10/21/391043.bin)
 
 ### Related:
 

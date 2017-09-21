@@ -8,6 +8,7 @@ Swedish Prime Minister Fredrik Reinfeldt&#039;s centre-right bloc missed out on 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/sweden/8021156/Swedens-prime-minister-falls-short-of-majority-in-election.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01723/swedenSUM_1723739a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Three of the biggest managers of U.S. money market funds said on Wednesday they 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/09/us-goldman-funds-idUSBRE9080KT20130109)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130109&t=2&i=692537603&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9081JT200)
 
 ### Related:
 

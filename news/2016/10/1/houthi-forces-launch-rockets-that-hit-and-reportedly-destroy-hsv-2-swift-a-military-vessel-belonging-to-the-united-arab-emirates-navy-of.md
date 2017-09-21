@@ -9,6 +9,7 @@ A Saudi-led force in Yemen said it rescued passengers on Saturday from a vessel 
 
 1. [Press TV](http://presstv.com/Detail/2016/10/01/487115/Yemeni-forces-Popular-Committees-fighters-Emirati-frigate-Mokha-Taizz)
 2. [Reuters](http://www.reuters.com/article/us-emirates-security-yemen-idUSKCN1213B7)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

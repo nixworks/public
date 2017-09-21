@@ -10,6 +10,7 @@ One person killed and several wounded after gunmen fire on bus carrying labourer
 1. [Al Bawaba](http://www.albawaba.com/en/news/258538)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/2009122110536305472.html)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=114289&sectionid=351020203)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

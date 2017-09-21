@@ -8,6 +8,7 @@ A random search has turned up a dwarf planet orbiting roughly 10 billion miles a
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/11/11/455643251/astronomers-spot-most-distant-object-in-the-solar-system)
+1. [Cover Image](https://media.npr.org/assets/img/2015/11/11/dome_sunset3_wide-ca7f5921706c1d8cbf9bf8c051e44339ecdeb95d.jpg?s=1400)
 
 ### Related:
 

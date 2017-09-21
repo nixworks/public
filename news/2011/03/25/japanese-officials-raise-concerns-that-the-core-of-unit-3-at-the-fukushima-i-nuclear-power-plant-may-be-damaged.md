@@ -8,6 +8,7 @@ Officials suggest that people living from 12 to 19 miles outside the Fukushima D
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/03/26/world/asia/26japan.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/03/26/world/26japan2-span/26japan2-span-thumbStandard.jpg)
 
 ### Related:
 

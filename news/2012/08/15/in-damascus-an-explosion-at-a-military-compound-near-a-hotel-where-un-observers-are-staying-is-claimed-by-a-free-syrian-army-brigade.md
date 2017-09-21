@@ -12,6 +12,7 @@ Spokesperson of Free Syrian Army unit that planned Damascus bombings tells Al Ja
 3. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Local-News/2012/Aug-15/184782-saudi-arabia-calls-on-all-its-citizens-to-leave-lebanon-immediately.ashx#axzz23eJPmhNh)
 4. [Reuters](http://www.reuters.com/article/2012/08/15/us-syria-crisis-idUSBRE8610SH20120815)
 5. [UNHCR](http://www.ohchr.org/Documents/HRBodies/HRCouncil/PRCoISyria15082012_en.pdf)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/15/2012815161336557734_20.jpg)
 
 ### Related:
 

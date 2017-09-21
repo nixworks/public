@@ -11,6 +11,7 @@
 2. [Daily Bhaskar](http://daily.bhaskar.com/article/WOR-TOP-taliban-militants-behead-12-pakistani-soldiers-3726470-NOR.html)
 3. [Pakistan Observer](http://pakobserver.net/detailnews.asp?id=171766)
 4. [USA Today](http://www.usatoday.com/news/world/story/2012-09-01/afghanistan-attacks-nato/57493170/1)
+4. [Cover Image](http://i9.dainikbhaskar.com/thumbnail/600x519/web2images/www.dailybhaskar.com/2012/09/01/images/Taliban5.jpg)
 
 ### Related:
 

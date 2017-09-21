@@ -13,3 +13,4 @@ Damages in civil infrastructure estimated at 1.5 to 2 billion dollars. Western c
 4. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27875&pg=1&im=main&ct=0&wth=)
 5. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27876&pg=1&im=main&ct=0&wth=)
 6. [Xinhua](http://news.xinhuanet.com/english/2008-09/07/content_9817284.htm)
+6. [Cover Image](http://www.rp.pl?minW=200&amp;minH=200&amp;exactW=600&amp;exactH=351&amp;exactFit=crop)

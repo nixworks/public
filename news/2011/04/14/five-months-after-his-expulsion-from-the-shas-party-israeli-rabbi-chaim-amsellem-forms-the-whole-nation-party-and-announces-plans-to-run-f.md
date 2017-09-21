@@ -8,6 +8,7 @@ Rabbi Chaim Amsellem announces intentions to run for 19th Knesset with Am Shalem
 ### Source:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4056659,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

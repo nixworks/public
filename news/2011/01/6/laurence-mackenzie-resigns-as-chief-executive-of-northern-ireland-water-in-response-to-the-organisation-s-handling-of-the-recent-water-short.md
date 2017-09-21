@@ -8,6 +8,7 @@ Northern Ireland Water (NIW) has apologised to customers for its handling of the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12126247)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48982000/jpg/_48982259_54662c7e-2651-4440-b5d7-f0b6afbf0707.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Irish Red Cross has appealed for donations to aid victims of the current flo
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1125/weather.html)
+1. [Cover Image](https://img.rasset.ie/0002c867-1600.jpg)
 
 ### Related:
 

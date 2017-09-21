@@ -9,6 +9,7 @@ MIAMI (AP) — The U.S. has released nine more prisoners from its base at Guanta
 
 1. [AP](http://bigstory.ap.org/article/f05bfc64420e4d68bfbd318ed55e69bb/us-frees-9-guantanamo-prisoners-sends-them-saudi-arabia)
 2. [CNN](http://edition.cnn.com/2016/04/16/politics/guantanamo-detainees-transfer/index.html)
+2. [Cover Image](http://binaryapi.ap.org/a05bb4671c824ce28258f79a0bad8f02/460x.jpg)
 
 ### Related:
 

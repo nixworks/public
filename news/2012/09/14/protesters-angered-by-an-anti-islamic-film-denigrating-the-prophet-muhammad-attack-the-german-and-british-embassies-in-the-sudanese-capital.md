@@ -16,6 +16,7 @@ At least seven people are killed as protests against a film which mocks Islam sp
 7. [Fox News](http://www.foxnews.com/world/2012/09/14/violent-protests-across-middle-east-target-embassies-pope-visit-to-lebanon/)
 8. [Reuters](http://ca.reuters.com/article/topNews/idCABRE88D0O320120914?pageNumber=2&virtualBrandChannel=0)
 9. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9544864/Two-killed-in-attack-on-US-base-in-Afghanistan-near-Prince-Harry.html)
+9. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62906000/jpg/_62906332_wxdt5sjn.jpg)
 
 ### Related:
 

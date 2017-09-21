@@ -9,6 +9,7 @@ At least 19 people are killed after a train hits a truck carrying farm workers a
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hbmRZSWK5P7dujI_FlTvFb2BahVw?docId=CNG.e7f5f4db0c0afe9c7e6b24258e609d68.131)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-18825534)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61549000/gif/_61549551_sa_mpumalanga304.gif)
 
 ### Related:
 

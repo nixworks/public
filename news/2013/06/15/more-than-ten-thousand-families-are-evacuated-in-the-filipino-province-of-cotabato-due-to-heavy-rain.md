@@ -8,6 +8,7 @@ MANILA, Philippines &ndash; More than 10,000 families in Cotabato were evacuated
 ### Source:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/regions/06/15/13/10000-families-evacuated-due-cotabato-floods)
+1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/graphics/maps/061513_northcotabato.jpg)
 
 ### Related:
 

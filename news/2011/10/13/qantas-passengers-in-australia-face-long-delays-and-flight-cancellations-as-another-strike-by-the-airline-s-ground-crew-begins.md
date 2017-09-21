@@ -8,6 +8,7 @@ QANTAS baggage handlers and ground crew have begun their latest round of industr
 ### Source:
 
 1. [News Limited](http://www.news.com.au/travel/news/travellers-warned-as-customs-strikes/story-e6frfq80-1226165474919)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/60e92f12be5a7c06db19aea3bb279ab8)
 
 ### Related:
 

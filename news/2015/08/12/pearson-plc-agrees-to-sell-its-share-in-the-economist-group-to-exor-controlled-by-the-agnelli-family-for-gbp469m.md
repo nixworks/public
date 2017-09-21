@@ -8,6 +8,7 @@ Publishing group Pearson says it has agreed to sell its 50% stake in the Economi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-33878566)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B74B/production/_84832964_84832960.jpg)
 
 ### Related:
 

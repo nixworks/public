@@ -10,6 +10,7 @@ At least 42 people are killed and nine injured in a collision between a train an
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11522009)
 2. [China Daily](http://www.chinadaily.com.cn/world/2010-10/12/content_11401349.htm)
 3. [Kyiv Post](http://www.kyivpost.com/news/nation/detail/85948/)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Defeated Syrian rebels abandoned their shattered stronghold in Homs, giving way 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17225776)
 2. [Reuters via MSNBC](http://www.msnbc.msn.com/id/46580035#.T07Go_VdB7I)
 3. [Reuters](http://uk.reuters.com/article/2012/03/01/uk-syria-idUKL6E8C52E220120301)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120301&t=2&i=577467330&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-03-01T235627Z_1_BTRE8200ZL400_RTROPTP_0_SYRIA)
 
 ### Related:
 

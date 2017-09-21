@@ -8,6 +8,7 @@ An historic gathering of Orthodox Churches opens on the Greek island of Crete, d
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36569416)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/CECE/production/_90024925_b470d42d-2109-49cd-bfd6-f2df5a100fa1.jpg)
 
 ### Related:
 

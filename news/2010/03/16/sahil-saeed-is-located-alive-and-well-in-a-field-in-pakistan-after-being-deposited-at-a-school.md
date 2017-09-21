@@ -12,6 +12,7 @@ Pakistani police investigating the kidnapping of British boy, Sahil Saeed, are l
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/7458436/Police-investigate-kidnapped-boys-family-finances.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/mar/16/sahil-saeed-kidnap-relatives-jhelum)
 5. [The Times](http://www.timesonline.co.uk/tol/news/uk/article7063892.ece)
+5. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01597/saeed_1597497a.jpg)
 
 ### Related:
 

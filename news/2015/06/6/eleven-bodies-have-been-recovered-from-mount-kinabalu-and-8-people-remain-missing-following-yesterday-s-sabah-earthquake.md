@@ -8,6 +8,7 @@ KUNDASANG - Nine more bodies have been found following the quake in Mount Kinaba
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/sabah-quake-missing-mostly-malaysians-and-singaporeans-20150606)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/06/06/EARTHQUAKE02060615e_2x.jpg?itok=F9lNSn1n)
 
 ### Related:
 

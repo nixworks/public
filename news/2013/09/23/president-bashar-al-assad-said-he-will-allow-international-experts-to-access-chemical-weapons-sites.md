@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57604151/syria-leader-bashar-assad-says-rebels-could-block-access-to-chemical-weapons-sites/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/09/22/67c0d0ec-3598-11e3-8ce8-047d7b15b92e/syria_181442820.jpg)
 
 ### Related:
 

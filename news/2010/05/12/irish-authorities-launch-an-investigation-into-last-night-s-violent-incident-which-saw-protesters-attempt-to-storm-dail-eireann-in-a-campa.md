@@ -9,6 +9,7 @@ Garda&iacute; are investigating a violent incident last night in which a number 
 
 1. [TV3](http://www.tv3.ie/article.php?article_id=37482&locID=1.2.&pagename=news)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0512/breaking2.html?via=mr)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

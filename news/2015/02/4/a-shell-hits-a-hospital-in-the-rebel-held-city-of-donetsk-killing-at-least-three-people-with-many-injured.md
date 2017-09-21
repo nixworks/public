@@ -8,6 +8,7 @@ Three people are killed and many more wounded as a shell hits a hospital in the 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-31129484?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80778000/jpg/_80778368_b37eeec1-15c8-47f1-82bd-6ac68048f26e.jpg)
 
 ### Related:
 

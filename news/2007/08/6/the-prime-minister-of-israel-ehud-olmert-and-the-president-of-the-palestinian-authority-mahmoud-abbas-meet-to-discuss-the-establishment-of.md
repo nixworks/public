@@ -8,6 +8,7 @@ Israeli Prime Minister Ehud Olmert met Palestinian President Mahmoud Abbas on Mo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL0542035220070806?feedType=RSS)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070806&t=2&i=1252409&w=&fh=545px&fw=&ll=&pl=&sq=&r=1252409)
 
 ### Related:
 

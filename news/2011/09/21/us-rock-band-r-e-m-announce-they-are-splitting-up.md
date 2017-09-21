@@ -8,6 +8,7 @@ The members of American rock band R.E.M. have announced they are splitting up af
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/culture/music/music-news/8780191/R.E.M.-announce-split.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01721/rem_1721112a.jpg)
 
 ### Related:
 

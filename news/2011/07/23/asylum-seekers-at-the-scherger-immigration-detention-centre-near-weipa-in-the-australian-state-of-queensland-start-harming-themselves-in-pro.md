@@ -8,6 +8,7 @@ Detainees in a remote immigration detention centre in Queensland have started se
 ### Source:
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/detainees-start-self-harm-in-qld-protest-20110723-1htxc.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

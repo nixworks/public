@@ -8,6 +8,7 @@ Casualties have been reported after several explosions hit 2 leftwing pro-Kurdis
 ### Source:
 
 1. [RT](http://rt.com/news/259521-turkey-explosions-hdp-party/)
+1. [Cover Image](https://img.rt.com/files/news/3f/5c/10/00/12.si.jpg)
 
 ### Related:
 

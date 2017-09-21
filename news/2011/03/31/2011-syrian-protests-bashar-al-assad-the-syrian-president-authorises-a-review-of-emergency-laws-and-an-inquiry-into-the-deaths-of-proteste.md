@@ -11,6 +11,7 @@ Syrian president has set up committees to look into deaths of protesters and rep
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201133113439956857.html)
 3. [Haaretz](http://www.haaretz.com/news/international/libya-fm-defects-from-government-seeks-refuge-in-britain-1.353153)
 4. [Haaretz](http://www.haaretz.com/news/international/u-s-official-obama-authorized-covert-support-for-libya-rebels-1.353122)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/31/2011331113057136797_20.jpg)
 
 ### Related:
 

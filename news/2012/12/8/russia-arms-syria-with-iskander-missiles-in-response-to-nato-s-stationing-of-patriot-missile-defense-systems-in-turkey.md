@@ -9,6 +9,7 @@ Hours after NATO agreed on Tuesday to send Patriot missiles to Turkey because of
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/201212720594268180.html)
 2. [WND](http://www.wnd.com/2012/12/russia-arms-syria-with-powerful-ballistic-missiles/)
+2. [Cover Image](http://www.wnd.com/files/2012/12/Iskander.jpg)
 
 ### Related:
 

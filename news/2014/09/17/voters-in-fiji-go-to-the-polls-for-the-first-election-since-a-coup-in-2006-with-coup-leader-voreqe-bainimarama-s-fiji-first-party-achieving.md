@@ -9,6 +9,7 @@ Long queues at poll stations in Fiji&#039;s first election since the 2006 milita
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-09-17/fiji-election-large-queues-gather-as-thousands-begin-casting/5748950)
 2. [SBS](http://www.sbs.com.au/news/article/2014/09/18/bainimarama-commands-fiji-ballot-box)
+2. [Cover Image](http://www.abc.net.au/news/image/5750680-1x1-700x700.jpg)
 
 ### Related:
 

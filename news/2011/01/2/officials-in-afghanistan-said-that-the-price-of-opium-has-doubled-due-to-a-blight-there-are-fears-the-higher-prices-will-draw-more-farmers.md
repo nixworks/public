@@ -8,6 +8,7 @@ Opium prices have almost doubled after a blight halved production in 2010, Afgha
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE7010G820110102)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

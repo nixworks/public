@@ -8,6 +8,7 @@ Added to list of ‘undesirable organisations’, the foundations are accused of
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/nov/30/russia-bans-two-george-soros-foundations-from-giving-grants)
+1. [Cover Image](https://i.guim.co.uk/img/media/5d16a6d6a9f9d5588348777fe18ea923419b7107/0_197_3600_2161/master/3600.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=33cfbf81eb318ecc3396fcd63382d4f9)
 
 ### Related:
 

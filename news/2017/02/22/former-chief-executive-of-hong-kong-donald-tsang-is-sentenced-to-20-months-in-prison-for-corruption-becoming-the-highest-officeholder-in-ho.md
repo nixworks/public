@@ -8,6 +8,7 @@ Tsang was found guilty of misconduct in a case linked to renovation work on a lu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-39048543)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0E72/production/_94789630_mediaitem94789629.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Students in Chile resume their protests for education reforms, with more than 10
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22118682)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66959000/jpg/_66959483_66959482.jpg)
 
 ### Related:
 

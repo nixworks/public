@@ -11,6 +11,7 @@
 2. [Financial Times](http://www.ft.com/intl/cms/s/0/bad5c392-1f45-11e5-ab0f-6bb9974f25d0.html#axzz3eauRYIYW)
 3. [IMF](http://www.imf.org/external/np/sec/pr/2015/pr15310.htm)
 4. [Reuters](http://in.reuters.com/article/2015/07/01/us-greece-ratings-moody-s-idINKCN0PB62120150701)
+4. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150701&t=2&i=1060784868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB602KC)
 
 ### Related:
 

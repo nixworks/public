@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Baltimore Sun](http://www.baltimoresun.com/news/maryland/bs-md-zekiah-fort-found-20110914,0,2231736.story)
+1. [Cover Image](http://www.trbimg.com/img-53292b7a/turbine/bs-md-zekiah-fort-found-20110914)
 
 ### Related:
 

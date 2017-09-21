@@ -8,6 +8,7 @@ Videla died of natural causes while serving life sentences for crimes against hu
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/05/17/argentine-ex-dictator-jorge-videla-dies-in-prison/2193637/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

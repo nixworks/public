@@ -9,6 +9,7 @@ Japanese researchers claim success after nine years of searching.
 
 1. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120927p2a00m0na011000c.html)
 2. [Nature##](http://www.nature.com/news/element-113-at-last-1.11499)
+2. [Cover Image](http://www.nature.com/polopoly_fs/7.6609.1348768655!/image/48009%20cropped.jpg_gen/derivatives/nature_homepage/48009%20cropped.jpg)
 
 ### Related:
 

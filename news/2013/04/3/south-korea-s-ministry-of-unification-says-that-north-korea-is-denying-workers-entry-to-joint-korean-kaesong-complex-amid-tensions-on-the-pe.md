@@ -11,6 +11,7 @@ South Korean workers denied entry to Kaesong joint border complex for second day
 2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134304954907439.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-22011207)
 4. [Reuters](http://www.reuters.com/article/2013/04/03/us-korea-north-guam-idUSBRE9320YQ20130403)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/4/2013449124818734_20.jpg)
 
 ### Related:
 

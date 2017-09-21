@@ -8,6 +8,7 @@ Thousands of people are protesting in the Polish capital Warsaw as a constitutio
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35793914)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13D3E/production/_88741218_d7ukr6ov.jpg)
 
 ### Related:
 

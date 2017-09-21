@@ -11,6 +11,7 @@
 2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=435271)
 3. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20090824095118570C596348)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-08/24/content_11936616.htm)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

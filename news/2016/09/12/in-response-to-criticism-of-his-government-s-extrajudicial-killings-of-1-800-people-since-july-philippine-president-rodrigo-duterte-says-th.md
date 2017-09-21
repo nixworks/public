@@ -9,6 +9,7 @@
 
 1. [The New York Times](http://www.nytimes.com/2016/09/12/world/asia/the-philippines-rodrigo-duterte-vigilante-violence.html)
 2. [USA Today](http://www.usatoday.com/story/news/world/2016/09/12/duterte-wants-us-troops-out-southern-philippines/90261684/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

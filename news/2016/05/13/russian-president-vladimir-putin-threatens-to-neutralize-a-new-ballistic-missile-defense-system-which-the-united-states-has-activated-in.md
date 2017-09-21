@@ -10,6 +10,7 @@ A ballistic missile defense shield which the United States has activated in Euro
 1. [BBC](http://www.bbc.com/news/world-europe-36289155)
 2. [Reuters](http://www.reuters.com/article/us-nato-shield-russia-idUSKCN0Y41OF)
 3. [US News](http://www.usnews.com/news/articles/2016-05-13/putin-vows-to-neutralize-western-threats?google_editors_picks=true)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160513&t=2&i=1137181642&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4C14H)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Five miners are still missing but 20 have been saved after a cave-in at an unlic
 ### Source:
 
 1. [Reuters, AFP via ABC News Australia](http://www.abc.net.au/news/2014-08-30/twenty-miners-saved-after-nicaragua-mine-collapses/5707508)
+1. [Cover Image](http://www.abc.net.au/news/image/5707992-1x1-700x700.jpg)
 
 ### Related:
 

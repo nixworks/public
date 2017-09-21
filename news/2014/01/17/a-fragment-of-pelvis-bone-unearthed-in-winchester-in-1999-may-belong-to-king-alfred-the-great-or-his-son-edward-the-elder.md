@@ -8,6 +8,7 @@ A fragment of bone unearthed in 1999 could be the remains of King Alfred the Gre
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-hampshire-25760383)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/72355000/jpg/_72355746_alfredcomposite.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Bo Xilai, the embattled Communist Party chief of Chongqing, said that he had fai
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/03/10/world/asia/bo-xilai-an-ambitious-chinese-party-chief-admits-failure.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2012/03/10/world/china/china-thumbStandard.jpg)
 
 ### Related:
 

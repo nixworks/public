@@ -8,6 +8,7 @@ Army says it is regaining control of Loder after fighting killed 33 and displace
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/08/201082484232504956.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

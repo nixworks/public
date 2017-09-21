@@ -9,6 +9,7 @@ Gunmen believed to be from the Boko Haram Islamist sect throw bombs at a beer ga
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13920980)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/jun/27/nigeria-bombings-terrorist-killings-islamist)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53707000/jpg/_53707426_nigeria_maiduguri_1010.jpg)
 
 ### Related:
 

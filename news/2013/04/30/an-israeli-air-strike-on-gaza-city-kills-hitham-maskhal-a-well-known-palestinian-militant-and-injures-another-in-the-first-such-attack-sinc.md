@@ -8,6 +8,7 @@ A Palestinian militant has been killed in an Israeli air strike on Gaza City - t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22349692)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67319000/jpg/_67319011_67319010.jpg)
 
 ### Related:
 

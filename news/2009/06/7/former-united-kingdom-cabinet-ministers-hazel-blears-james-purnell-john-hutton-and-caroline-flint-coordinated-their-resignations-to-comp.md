@@ -8,6 +8,7 @@ A co-ordinated plot by British cabinet ministers was behind the resignations las
 ### Source:
 
 1. [Independent](http://www.independent.ie/world-news/europe/ministers-in--failed-plot-to-get-rid-of--british-pm-1764637.html)
+1. [Cover Image](http://www.independent.ie/migration_catalog/article25086225.ece/ALTERNATES/h342/brown_getty)
 
 ### Related:
 

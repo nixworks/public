@@ -11,6 +11,7 @@ GENEVA/KATHMANDU: The agreement was announced as King Gyanendra extended by six 
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aG5Lt5ptbpdI&refer=asia)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L11362346.htm)
 4. [Times of India](http://timesofindia.indiatimes.com/articleshow/1075025.cms)
+4. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

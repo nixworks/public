@@ -8,6 +8,7 @@ A Russian-American crew and Brazil&#8217;s first astronaut flew into orbit Thurs
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/12072500/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/060329/n_nasa_soyuzlaunch_060329.standard.jpg)
 
 ### Related:
 

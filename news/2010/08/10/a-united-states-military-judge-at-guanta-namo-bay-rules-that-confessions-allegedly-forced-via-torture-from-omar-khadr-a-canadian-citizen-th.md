@@ -10,6 +10,7 @@ Alleged confessions of a Canadian being held at Guantanamo Bay can be heard at h
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201089205529630903.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10922246)
 3. [The Independent](http://www.independent.co.uk/news/world/americas/on-trial-child-soldier-who-grew-up-in-camp-delta-2048115.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

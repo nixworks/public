@@ -8,6 +8,7 @@ Countries meeting in Rwanda have agreed a &quot;monumental&quot; deal to phase o
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-37665529)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A319/production/_91935714_2.jpg)
 
 ### Related:
 

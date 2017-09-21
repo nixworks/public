@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10868338)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6731AP20100804)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/outcry-over-malaysian-child-marriages-20100804-11fey.html)
+3. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

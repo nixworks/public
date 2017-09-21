@@ -8,6 +8,7 @@ Palestinian PM Salam Fayyad has resigned, the official Wafa news agency reports,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22139517)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66990000/jpg/_66990987_66990986.jpg)
 
 ### Related:
 

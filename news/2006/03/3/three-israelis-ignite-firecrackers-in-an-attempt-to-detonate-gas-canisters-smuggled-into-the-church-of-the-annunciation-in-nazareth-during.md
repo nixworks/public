@@ -9,6 +9,7 @@ Three people disguised as Christian pilgrims were removed from the Basilica of t
 
 1. [CBC](http://www.cbc.ca/world/story/2006/03/03/israel-nazareth060303.html)
 2. [YNet](http://www.ynetnews.com/articles/0,7340,L-3223594,00.html)
+2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

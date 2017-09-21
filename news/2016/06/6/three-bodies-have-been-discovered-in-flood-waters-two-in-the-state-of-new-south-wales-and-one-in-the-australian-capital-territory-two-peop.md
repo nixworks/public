@@ -8,6 +8,7 @@ Three people are known to be dead and two more are missing as the massive storm 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-06-06/wild-weather-lashes-the-east-coast-of-australia/7479978)
+1. [Cover Image](http://www.abc.net.au/news/image/7482282-1x1-700x700.jpg)
 
 ### Related:
 

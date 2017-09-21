@@ -9,6 +9,7 @@ Chickens at a poultry farm in southern Japan were confirmed as infected with the
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hhqf2Rw2vBO4c1aukrwEKYUJJQfw?docId=CNG.a1ce4f042e7d9e4571eb59509568b4eb.201)
 2. [China Post](http://www.chinapost.com.tw/asia/japan/2011/01/27/289296/Bird-flu.htm)
+2. [Cover Image](http://www.chinapost.com.tw/cplogo.jpg)
 
 ### Related:
 

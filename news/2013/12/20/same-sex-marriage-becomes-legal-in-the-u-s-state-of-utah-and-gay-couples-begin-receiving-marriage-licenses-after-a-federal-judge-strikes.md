@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Deseret News](http://www.deseretnews.com/article/865592784/Federal-judge-rules-Utahs-ban-on-same-sex-marriage-unconstitutional.html)
+1. [Cover Image](https://cdn.deseretnews.com/images/article/hires/1273772/1273772.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Somali Islamist militant group al-Shabab says it has killed 60 Ethiopian soldier
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-36487435)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17F5E/production/_89924189_89924188.jpg)
 
 ### Related:
 

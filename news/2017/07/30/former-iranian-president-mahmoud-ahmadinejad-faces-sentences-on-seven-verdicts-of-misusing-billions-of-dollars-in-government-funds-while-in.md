@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-iran-politics-ahmadinejad-idUSKBN1AF0QV)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170730&t=2&i=1195067779&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6T0KR)
 
 ### Related:
 

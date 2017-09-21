@@ -8,6 +8,7 @@ A major power plant in the eastern Libyan city of Benghazi has been attacked by 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-libya-security-idUSKCN0UN0LN20160109)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

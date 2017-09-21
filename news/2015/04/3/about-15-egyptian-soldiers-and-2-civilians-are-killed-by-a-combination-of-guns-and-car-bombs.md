@@ -9,6 +9,7 @@ Egyptian security sources say at least 15 soldiers and two civilians have been k
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-32158096)
 2. [NY Times](http://www.nytimes.com/2015/04/03/world/middleeast/egypt-militants-attack-sinai-checkpoints.html?_r=0)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82076000/jpg/_82076387_025663412-1.jpg)
 
 ### Related:
 

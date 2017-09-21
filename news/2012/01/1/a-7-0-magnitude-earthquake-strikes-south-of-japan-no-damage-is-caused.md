@@ -10,6 +10,7 @@ A strong earthquake with a magnitude of 7.0 jolted eastern and northeastern Japa
 1. [Newsday](http://www.newsday.com/news/nation/magnitude-7-0-quake-strikes-off-coast-of-japan-1.3421609)
 2. [Reuters](http://www.reuters.com/article/2012/01/01/us-japan-earthquake-idUSTRE80003020120101)
 3. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970203462304577134451283011774.html)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120101&t=2&i=553287427&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8000WOZ00)
 
 ### Related:
 

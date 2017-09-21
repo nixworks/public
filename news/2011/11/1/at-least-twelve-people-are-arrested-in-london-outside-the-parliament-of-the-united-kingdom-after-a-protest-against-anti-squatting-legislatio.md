@@ -8,6 +8,7 @@ Twelve people are arrested after a clash between police and protesters outside t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-15533065)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56398000/jpg/_56398713_jex_1218832_de27-1.jpg)
 
 ### Related:
 

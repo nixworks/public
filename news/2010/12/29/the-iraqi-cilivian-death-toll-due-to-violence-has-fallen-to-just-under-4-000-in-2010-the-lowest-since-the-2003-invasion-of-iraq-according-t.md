@@ -8,6 +8,7 @@ The number of Iraqi civilians killed in violence in Iraq this year fell to its l
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6BT00A20101230)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20101230&t=2&i=290284349&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-30T000242Z_01_BTRE6BT004V00_RTROPTP_0_IRAQ-VIOLENCE)
 
 ### Related:
 

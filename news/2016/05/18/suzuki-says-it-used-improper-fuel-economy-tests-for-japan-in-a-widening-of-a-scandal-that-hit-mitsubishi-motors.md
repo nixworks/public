@@ -8,6 +8,7 @@ Suzuki Motor Corp (7269.T) used the wrong methods to test the fuel economy of it
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mitsubishimotors-scandal-suzuki-motor-idUSKCN0Y90AK)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160518&t=2&i=1137723078&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4H0EF)
 
 ### Related:
 

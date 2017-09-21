@@ -9,6 +9,7 @@
 
 1. [AP via WITN](http://www.witn.com/home/headlines/Rochester-NY-cancels-fireworks-after-New-Years-Eve-attack-plot-363967451.html)
 2. [Waltonian](http://waltonian.com/2016/01/suspected-isis-backer-plotted-new-years-eve-attack-in/)
+2. [Cover Image](http://media.graytvinc.com/images/504*315/terror+plot1.jpg)
 
 ### Related:
 

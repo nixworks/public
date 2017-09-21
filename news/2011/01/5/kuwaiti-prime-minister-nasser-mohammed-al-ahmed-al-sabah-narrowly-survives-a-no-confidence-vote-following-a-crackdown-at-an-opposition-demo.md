@@ -9,6 +9,7 @@ Motion filed against prime minister Nasser al-Mohammed al-Sabah after security c
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jQo7h-0bsCNBgdqQwSHpCC1u2DJw?docId=CNG.850d68793570b46d02fb10bce04d9b6d.81)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111581427365727.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/5/20111582648561371_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Moamar Gaddafi&#039;s son Saif al-Islam leads a regime fightback in Tripoli as f
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-08-23/gaddafis-son-leads-regime-fightback/2851542/?site=sydney)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-14632674)
+2. [Cover Image](http://www.abc.net.au/news/image/2851888-1x1-700x700.jpg)
 
 ### Related:
 

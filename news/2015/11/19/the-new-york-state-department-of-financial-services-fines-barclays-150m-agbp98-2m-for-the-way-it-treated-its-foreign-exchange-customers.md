@@ -8,6 +8,7 @@ New York Department of Financial Services finds Barclays ‘Last Look’ system 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/2015/nov/18/barclays-fined-150m-over-forex-trading-by-new-york-regulator)
+1. [Cover Image](https://i.guim.co.uk/img/media/30e8ffa1c967cc9990bc9796b62a175cca09815b/0_138_5765_3460/master/5765.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a4904aeab845b8b552aed73f2bd35918)
 
 ### Related:
 

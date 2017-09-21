@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-iran-total-southpars-idUSKBN19O1IO)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170703&t=2&i=1191451565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED620WI)
 
 ### Related:
 

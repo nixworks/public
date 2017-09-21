@@ -8,6 +8,7 @@ Two policewomen and eight soldiers alleged to have engaged in group sex while co
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/dec/30/belgian-soldiers-police-held-orgy-during-brussels-lockdown)
+1. [Cover Image](https://i.guim.co.uk/img/media/3f9450f1b7e1e81be34ada6ba870d2aba7c31633/0_31_3500_2101/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1318bf3470e509ddfaec4a679972c562)
 
 ### Related:
 

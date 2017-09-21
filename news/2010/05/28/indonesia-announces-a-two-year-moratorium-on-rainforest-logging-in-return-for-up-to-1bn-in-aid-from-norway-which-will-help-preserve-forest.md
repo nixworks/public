@@ -12,6 +12,7 @@ President announces two-year moratorium as Norway offers Jakarta $1bn in aid.
 3. [The Jakarta Post](http://www.thejakartapost.com/news/2010/03/09/%E2%80%98protected-forests%E2%80%99-now-grabs-mining.html)
 4. [The New York Times](http://www.nytimes.com/2010/05/28/world/asia/28indo.html)
 5. [The Norway Post](http://www.norwaypost.no/news/deforestation-agreement-with-indonesia.html)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

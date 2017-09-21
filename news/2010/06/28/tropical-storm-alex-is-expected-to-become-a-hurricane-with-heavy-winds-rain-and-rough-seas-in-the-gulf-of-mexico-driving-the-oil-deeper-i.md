@@ -13,6 +13,7 @@ Tropical Storm Alex was close to hurricane strength in the Gulf of Mexico on Tue
 4. [Los Angeles Times](http://latimesblogs.latimes.com/greenspace/2010/06/gulf-oil-spill-air-pollution-health-workers.html)
 5. [Reuters](http://www.reuters.com/article/idUSTRE65P0UL20100629)
 6. [Statesman](http://www.statesman.com/news/texas/official-even-glancing-blow-from-alex-could-wreak-775223.html)
+6. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100629&t=2&i=142357682&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-06-29T202248Z_01_BTRE65R0ZCN00_RTROPTP_0_STORM-ALEX)
 
 ### Related:
 

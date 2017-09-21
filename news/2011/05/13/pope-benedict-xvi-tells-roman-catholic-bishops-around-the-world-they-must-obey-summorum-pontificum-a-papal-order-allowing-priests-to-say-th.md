@@ -9,6 +9,7 @@ The Vatican told Catholic bishops around the world on Friday they had to obey a 
 
 1. [Reuters](http://www.reuters.com/article/2011/05/13/us-pope-latin-idUSTRE74C29120110513)
 2. [Washington Post](http://www.washingtonpost.com/world/vatican-issues-instructions-for-old-mass-warns-against-questioning-papal-authority/2011/05/13/AFBQSI2G_story.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110513&t=2&i=413924486&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-13T113714Z_01_BTRE74C0WA500_RTROPTP_0_POPE)
 
 ### Related:
 

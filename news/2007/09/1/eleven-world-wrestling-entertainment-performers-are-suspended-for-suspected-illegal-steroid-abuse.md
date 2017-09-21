@@ -8,6 +8,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 ### Source:
 
 1. [Newsday](http://www.newsday.com/services/newspaper/printedition/saturday/longisland/ny-liwres015355377sep01,0,763010.story)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

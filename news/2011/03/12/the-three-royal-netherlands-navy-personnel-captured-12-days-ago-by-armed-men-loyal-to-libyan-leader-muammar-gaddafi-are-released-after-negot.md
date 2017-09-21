@@ -11,6 +11,7 @@ Rebel fighters are driven out of the Libyan port of Ras Lanuf after fierce fight
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011312192359523376.html)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-12721908)
 4. [NPR](http://www.npr.org/templates/story/story.php?storyId=134423178)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

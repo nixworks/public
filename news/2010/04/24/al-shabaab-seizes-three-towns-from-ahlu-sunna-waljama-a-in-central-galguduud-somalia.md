@@ -8,6 +8,7 @@ Al-Shabab forces pro-government group out of towns in central Galgudud region.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201042452922967484.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

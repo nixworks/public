@@ -8,6 +8,7 @@ An Earthquake Registering At 5.1 Hits Southern China
 ### Source:
 
 1. [CBS](http://www.cbsnews.com/stories/2006/07/22/world/main1826764.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2004/06/16/dd61c5c7-a642-11e2-a3f0-029118418759/image623440x.jpg)
 
 ### Related:
 

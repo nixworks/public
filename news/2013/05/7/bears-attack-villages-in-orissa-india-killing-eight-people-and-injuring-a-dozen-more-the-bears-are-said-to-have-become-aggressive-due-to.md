@@ -8,6 +8,7 @@ Wild bears kill eight people within a week in the eastern Indian state of Orissa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22431230)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67446000/jpg/_67446761_5jp-07.jpg)
 
 ### Related:
 

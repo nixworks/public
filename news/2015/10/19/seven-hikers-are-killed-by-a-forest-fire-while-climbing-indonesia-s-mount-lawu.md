@@ -8,6 +8,7 @@ A fast-moving blaze thought to have been caused by a campfire trapped the victim
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/indonesia/11940068/Seven-hikers-killed-by-raging-forest-fire-on-Indonesian-mountain.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03476/Indonesia_hikers_3476435k.jpg)
 
 ### Related:
 

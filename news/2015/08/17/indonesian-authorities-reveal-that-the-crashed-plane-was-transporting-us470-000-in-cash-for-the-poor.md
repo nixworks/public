@@ -8,6 +8,7 @@ Rescuers in Indonesia are trying to reach the site where a Trigana Airlines plan
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/indonesia/11805839/Indonesian-passenger-plane-missing-in-remote-Papua-region.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03409/A_Trigana_Air_turb_3409291k.jpg)
 
 ### Related:
 

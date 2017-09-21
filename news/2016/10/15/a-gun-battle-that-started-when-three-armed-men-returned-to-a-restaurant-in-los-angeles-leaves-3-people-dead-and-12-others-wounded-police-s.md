@@ -8,6 +8,7 @@ A gun battle at a restaurant in the West Adams district left three people dead a
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-shooting-southwest-la-20161015-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-580314ad/turbine/la-me-ln-shooting-southwest-la-20161015-snap)
 
 ### Related:
 

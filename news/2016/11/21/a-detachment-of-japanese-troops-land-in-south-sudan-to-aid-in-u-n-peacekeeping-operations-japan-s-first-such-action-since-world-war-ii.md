@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-southsudan-japan-idUSKBN13G14C)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161121&t=2&i=1162511835&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAK0P4)
 
 ### Related:
 

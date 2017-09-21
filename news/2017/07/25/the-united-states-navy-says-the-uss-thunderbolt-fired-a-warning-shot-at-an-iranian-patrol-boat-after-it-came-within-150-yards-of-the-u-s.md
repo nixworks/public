@@ -8,6 +8,7 @@ A U.S. Navy ship fired multiple warning shots at an Iranian vessel in the Persia
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/us-navy-ship-fires-multiple-warning-shots-iranian/story?id=48835417)
+1. [Cover Image](http://a.abcnews.com/images/International/uss-thunderbolt-navy-ht-mem-170725_16x9_992.jpg)
 
 ### Related:
 

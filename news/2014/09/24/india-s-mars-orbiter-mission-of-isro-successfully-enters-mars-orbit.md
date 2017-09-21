@@ -8,6 +8,7 @@ India&#039;s low-cost mission to Mars enters the red planet&#039;s orbit on its 
 ### Source:
 
 1. [Reuters, AFP via ABC News Online](http://www.abc.net.au/news/2014-09-24/indias-low-cost-mars-mission-succeeds-on-first-attempt/5765928)
+1. [Cover Image](http://www.abc.net.au/news/image/5766626-1x1-700x700.jpg)
 
 ### Related:
 

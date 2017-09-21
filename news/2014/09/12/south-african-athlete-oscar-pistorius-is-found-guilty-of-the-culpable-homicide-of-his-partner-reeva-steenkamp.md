@@ -8,6 +8,7 @@ Oscar Pistorius is found guilty of culpable homicide over the killing of his gir
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-29149581)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77554000/jpg/_77554891_023869500.jpg)
 
 ### Related:
 

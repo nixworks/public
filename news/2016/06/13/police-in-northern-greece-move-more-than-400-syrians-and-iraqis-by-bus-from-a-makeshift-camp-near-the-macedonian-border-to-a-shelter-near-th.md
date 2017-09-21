@@ -8,6 +8,7 @@ THESSALONIKI, Greece (AP) — Police detained 34 volunteers in northern Greece M
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/fd5a0bb87e8d40009883aa00b105d6ce/greece-police-clear-more-migrant-camps-near-border)
+1. [Cover Image](http://binaryapi.ap.org/ee6921bb0b794bab993334e5dacc9121/460x.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Bonanza Creek Energy Inc (BCEI.N) and two other energy firms announced on Friday
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-bonanz-creek-egy-bankruptcy-idUSKBN14C1IR?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

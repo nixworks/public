@@ -11,6 +11,7 @@ American actor Dennis Hopper is terminally ill and unable to undergo chemotherap
 2. [Montreal Gazette](http://www.montrealgazette.com/health/Actor+Dennis+Hopper+dying+lawyer+states/2726177/story.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/7517137/Dennis-Hopper-too-sick-to-attend-divorce-proceedings.html)
 4. [USA Today](http://content.usatoday.com/communities/entertainment/post/2010/03/ailing-dennis-hopper-to-get-walk-of-fame-star-/1)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01576/Dennis-Hopper_1576963a.jpg)
 
 ### Related:
 

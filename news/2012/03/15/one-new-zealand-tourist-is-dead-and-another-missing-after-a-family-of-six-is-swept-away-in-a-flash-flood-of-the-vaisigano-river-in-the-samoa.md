@@ -8,6 +8,7 @@
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10792371)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201211/22269563_1024x768.jpg)
 
 ### Related:
 

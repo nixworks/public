@@ -11,6 +11,7 @@ State of emergency declared after a toxic mud spill kills four people and leaves
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010105122242999996.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-11475361)
 4. [Reuters](http://www.reuters.com/article/idUSTRE69415O20101005)
+4. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/5/2010105122221280371_20.jpg)
 
 ### Related:
 

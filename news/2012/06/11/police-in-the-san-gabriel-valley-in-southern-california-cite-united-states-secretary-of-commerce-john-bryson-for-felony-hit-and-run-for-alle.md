@@ -10,6 +10,7 @@
 1. [AP via ''Newsday](http://www.newsday.com/news/nation/police-commerce-secretary-bryson-cited-for-felony-hit-and-run-following-calif-crashes-1.3774106)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2012/06/commerce-secretary-john-bryson-takes-medical-leave.html)
 3. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2012/06/us-commerce-secretary-accused-in-hit-and-run-crashes-found-unconcious.html)
+3. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef017615571089970c-120pi)
 
 ### Related:
 

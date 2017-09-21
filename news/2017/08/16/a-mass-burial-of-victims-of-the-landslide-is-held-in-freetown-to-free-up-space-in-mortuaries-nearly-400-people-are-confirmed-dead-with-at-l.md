@@ -8,6 +8,7 @@ Nearly 400 are dead and 600 are still unaccounted for as rescue efforts continue
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-40944540)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/EC54/production/_97400506_041107973.jpg)
 
 ### Related:
 

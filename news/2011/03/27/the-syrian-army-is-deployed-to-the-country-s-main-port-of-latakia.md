@@ -13,6 +13,7 @@
 4. [Reuters](http://www.reuters.com/article/2011/03/27/us-syria-idUSTRE72N2MC20110327)
 5. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1555035)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/28/c_13800624.htm)
+6. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

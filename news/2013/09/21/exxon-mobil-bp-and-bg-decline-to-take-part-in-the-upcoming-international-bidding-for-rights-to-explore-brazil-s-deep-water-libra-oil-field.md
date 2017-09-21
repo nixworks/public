@@ -8,6 +8,7 @@
 ### Source:
 
 1. [GloboNews](http://g1.globo.com/economia/noticia/2013/09/anp-divulga-relacao-de-11-empresas-interessadas-em-leilao-do-pre-sal.html)
+1. [Cover Image](http://s2.glbimg.com/3xY0Wfz-dXl53GWWk1jjCQrM4Kk=/1200x630/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/03/59/2835903)
 
 ### Related:
 

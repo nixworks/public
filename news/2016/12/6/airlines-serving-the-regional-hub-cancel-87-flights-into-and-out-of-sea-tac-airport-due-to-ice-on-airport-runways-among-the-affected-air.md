@@ -8,6 +8,7 @@ Dozens of flights were canceled Tuesday in Seattle as icy conditions gripped Sea
 ### Source:
 
 1. [KTUU-TV](http://www.ktuu.com/content/news/Alaska-Airlines-cancels-dozens-of-Seattle-flights-405025915.html)
+1. [Cover Image](http://media.graytvinc.com/images/8697_ak_hero_plane_16x9_mbr_m1a1.png)
 
 ### Related:
 

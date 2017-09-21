@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-207_162-57577032/lifetime-cancels-americas-most-wanted/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/05/17/17c8a6dc-a738-11e2-a3f0-029118418759/467694.jpg)
 
 ### Related:
 

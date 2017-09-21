@@ -8,6 +8,7 @@ Human rights organizations say the PA is punishing Gaza Palestinians affiliated 
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=194405)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=152690)
 
 ### Related:
 

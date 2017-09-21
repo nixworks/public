@@ -10,6 +10,7 @@ BP&#39;s massive oil spill became the largest ever in the Gulf of Mexico on Thur
 1. [MSNBC News Services](http://www.msnbc.msn.com/id/38032854/ns/disaster_in_the_gulf/)
 2. [The Australian](http://www.theaustralian.com.au/news/world/bp-sued-for-burning-turtles-in-gulf-oil-spill-cleanup/story-e6frg6so-1225886602996)
 3. [USA Today](http://content.usatoday.com/communities/greenhouse/post/2010/07/bp-oil-spill-nears-somber-record-as-gulfs-worst/1)
+3. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Video/100701/tdy_thompson_oil_100701.standard.jpg)
 
 ### Related:
 

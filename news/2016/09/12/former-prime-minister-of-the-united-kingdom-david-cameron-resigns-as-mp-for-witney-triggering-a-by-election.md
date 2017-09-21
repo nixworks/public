@@ -8,6 +8,7 @@ David Cameron has quit as an MP saying that he did not want his disagreements wi
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/09/12/david-cameron-resigns-as-mp-for-witney/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/q/4/q4cdz1nte6n0-tgfait4hl8lvhnpocqp-xlarge.jpg)
 
 ### Related:
 

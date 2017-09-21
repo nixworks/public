@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-30268862)
 2. [CNN](http://edition.cnn.com/2014/11/30/world/americas/uruguay-presidential-election/index.html?eref=edition)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79413000/jpg/_79413972_024937727-1.jpg)
 
 ### Related:
 

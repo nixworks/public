@@ -8,6 +8,7 @@ An actor who featured in the Harry Potter films is jailed for two years for taki
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-17449630)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59195000/jpg/_59195207_014308876-1.jpg)
 
 ### Related:
 

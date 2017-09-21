@@ -9,6 +9,7 @@
 
 1. [Jawa Report](http://mypetjawa.mu.nu/archives/193188.php)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3562991,00.html)
+2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

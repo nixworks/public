@@ -11,6 +11,7 @@ The fast-food industry was dealt a historic blow by the National Labor Relations
 2. [The Chicago Tribune](http://www.chicagotribune.com/business/ct-joint-employer-labor-board-0828-biz-20150827-story.html)
 3. [The International Business Times](http://www.ibtimes.com/national-labor-relations-board-paves-way-union-organizing-mcdonalds-others-franchises-2071981)
 4. [The Washington Post](http://www.washingtonpost.com/news/wonkblog/wp/2015/08/27/labor-board-moves-to-make-businesses-accountable-for-their-subcontractors/)
+4. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2014/05/01/mcdonalds-workers-dec2013-2.JPG)
 
 ### Related:
 

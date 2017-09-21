@@ -9,6 +9,7 @@ Kuwait&#039;s Shi&#039;ite minority lost more than half of their seats and liber
 
 1. [AFP via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/kuwait/10206920/Shiites-lose-more-than-half-their-seats-in-Kuwait-polls-as-liberals-make-gains.html)
 2. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2013/07/27/Kuwait-holds-parliamentary-election-amid-bitter-divisions.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02126/kuwait_2126854a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ US Secretary of State John Kerry has a &quot;frank meeting&quot; with President 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32700259)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82943000/jpg/_82943442_027173276-1.jpg)
 
 ### Related:
 

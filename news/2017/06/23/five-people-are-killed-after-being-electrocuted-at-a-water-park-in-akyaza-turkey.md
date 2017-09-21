@@ -8,6 +8,7 @@ Three children, and two adults who tried to rescue them, die at a water park in 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-40388161)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1770C/production/_96621069_havuzda-yuzenler-elektrik-akimina-kapildi-1-_4373_dhaphoto1.jpg)
 
 ### Related:
 

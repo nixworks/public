@@ -8,6 +8,7 @@ Decision will affect 1,350 UK workers as company blames job losses on economic c
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/2016/feb/17/bombardier-7000-job-losses-worldwide)
+1. [Cover Image](https://i.guim.co.uk/img/media/a0cff1c92abcf9f66edd4a8e5883342d3786af89/0_87_2352_1411/master/2352.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1be9a8af7bccd621858558d88d1d0b53)
 
 ### Related:
 

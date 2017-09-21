@@ -8,6 +8,7 @@ North Korea on Tuesday allowed South Koreans back into a lucrative factory just 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSSEO22687020090310)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090310&t=2&i=8576200&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-03-10T093657Z_01_BTRE52810E900_RTROPTP_0_KOREA-NORTH)
 
 ### Related:
 

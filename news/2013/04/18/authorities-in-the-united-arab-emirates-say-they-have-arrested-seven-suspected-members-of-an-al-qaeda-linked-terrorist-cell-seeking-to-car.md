@@ -8,6 +8,7 @@ The statement, carried by the official WAM news agency, says the latest arrests 
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/04/18/united-arab-emirates-says-arrests-made-in-suspected-al-qaeda-cell/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

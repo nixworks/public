@@ -9,6 +9,7 @@ At least six people die after a cassiterite mine collapsed in Burundi, 120km (75
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11399816)
 2. [RTT News](http://www.rttnews.com/Content/GeneralNews.aspx?Id=1427121&SM=1)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

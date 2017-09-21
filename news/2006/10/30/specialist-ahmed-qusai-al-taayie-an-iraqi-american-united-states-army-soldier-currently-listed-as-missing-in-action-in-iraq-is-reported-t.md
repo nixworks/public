@@ -8,3 +8,4 @@ A U.S. Army translator missing after being kidnapped in Iraq had broken military
 ### Source:
 
 1. [MSNBC](http://msnbc.msn.com/id/15480823/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

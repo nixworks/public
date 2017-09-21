@@ -9,6 +9,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 1. [Reuters](http://www.abc.net.au/news/newsitems/200601/s1543129.htm)
 2. [Times](http://www.timesonline.co.uk/article/0,,25149-1972496,00.html)
+2. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 
@@ -20,5 +21,5 @@ News and opinion from The Times &amp; The Sunday Times
 6. [ Turkey announces two confirmed human cases of the avian influenza. ](/news/2006/01/4/turkey-announces-two-confirmed-human-cases-of-the-avian-influenza.md) _Context: Turkey, bird flu_
 7. [ A fifteenth case of H5N1 is reported in Turkey. However, the Turkish government declares that the virus is "under control". ](/news/2006/01/10/a-fifteenth-case-of-h5n1-is-reported-in-turkey-however-the-turkish-government-declares-that-the-virus-is-under-control.md) _Context: Turkey, bird flu_
 8. [ The first case of avian influenza (bird flu) has been discovered in the United Kingdom from a South American parrot. Tests are being carried out on the parrot, which died in quarantine, to determine whether it had the H5N1 strain of the virus. ](/news/2005/10/22/the-first-case-of-avian-influenza-bird-flu-has-been-discovered-in-the-united-kingdom-from-a-south-american-parrot-tests-are-being-carrie.md) _Context: Avian flu virus, bird flu_
-9. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Turkey_
-10. [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md) _Context: Turkey_
+9. [ Health officials in Thailand report that they have identified a likely case of human to human transmission of the H5N1 strain of avian influenza, although the World Health Organization says the transmission occurred only after prolonged contact between individuals. A more easily transmitted virus could potentially cause a worldwide flu pandemic on the level of the 1918 Spanish flu. ](/news/2004/09/28/health-officials-in-thailand-report-that-they-have-identified-a-likely-case-of-human-to-human-transmission-of-the-h5n1-strain-of-avian-infl.md) _Context: Avian flu virus, bird flu_
+10. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Turkey_

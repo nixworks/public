@@ -8,6 +8,7 @@ All three indexes drop more than 1.5% after fears over have renewed concerns ove
 ### Source:
 
 1. [CNN](http://money.cnn.com/2012/04/10/markets/stocks/index.htm?hpt=hp_t3)
+1. [Cover Image](http://i2.cdn.turner.com/money/2012/04/10/markets/stocks/chart_ws_index_sp500_2012410163317.01.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The blast occurred in Diyarbakir near a building used by police.
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/04/500644676/car-bomb-kills-8-in-turkey-after-pro-kurdish-legislators-detained-for-questionin)
 2. [USA Today](http://www.usatoday.com/story/news/world/2016/11/04/deaths-injuries-car-bombing-turkey/93279568/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

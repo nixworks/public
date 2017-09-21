@@ -8,6 +8,7 @@ Pope Benedict XVI pardons former butler Paolo Gabriele, who was sentenced to 18 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20824814)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64914000/jpg/_64914336_pope_afp.jpg)
 
 ### Related:
 

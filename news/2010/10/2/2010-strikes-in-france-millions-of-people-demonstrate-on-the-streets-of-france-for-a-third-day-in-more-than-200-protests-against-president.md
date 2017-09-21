@@ -10,6 +10,7 @@ Hundreds of thousands of people across France take part in the third day of demo
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11460050)
 2. [Reuters](http://uk.reuters.com/article/idUKLDE69106D20101002)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/03/c_13540442.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

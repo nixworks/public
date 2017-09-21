@@ -11,6 +11,7 @@ Typhoon Bopha has killed at least 52 people in the Philippines.
 2. [AFP via MSN Malaysia](http://news.malaysia.msn.com/regional/typhoon-smashes-into-philippines-1)
 3. [Bangkok Post](http://www.bangkokpost.com/news/world/324516/typhoon-bopha-kills-43-in-philippines)
 4. [Reuters](http://www.reuters.com/article/2012/12/04/us-philippines-typhoon-idUSBRE8B306420121204)
+4. [Cover Image](http://www.abc.net.au/news/image/4408490-1x1-700x700.jpg)
 
 ### Related:
 

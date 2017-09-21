@@ -8,6 +8,7 @@ Syria has destroyed or rendered inoperable all of its declared chemical weapons 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/31/us-syria-crisis-chemical-idUSBRE99U08N20131031)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131031&t=2&i=807746433&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99U0NOD00)
 
 ### Related:
 

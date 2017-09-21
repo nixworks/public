@@ -8,6 +8,7 @@ BAGA, Nigeria (AP) — Fighting between Nigeria&#39;s military and Islamic extre
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/04/21/nigeria-attack-extremists/2101855/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

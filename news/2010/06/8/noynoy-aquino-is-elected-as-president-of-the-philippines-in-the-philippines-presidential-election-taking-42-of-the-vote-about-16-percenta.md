@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/06/08/10/final-tally-binay-leads-roxas-700000-votes)
+1. [Cover Image](/sites/default/files/a_images/people/govt_officials/AQUINO_BINAY_COMPOSITE_AFP3.jpg)
 
 ### Related:
 

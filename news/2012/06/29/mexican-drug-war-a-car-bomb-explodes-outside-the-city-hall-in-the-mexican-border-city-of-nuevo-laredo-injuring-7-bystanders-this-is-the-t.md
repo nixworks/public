@@ -8,6 +8,7 @@ Explosives in a Ford Ranger pickup parked in front of the municipal building ble
 ### Source:
 
 1. [San Antonio Express-News](http://www.mysanantonio.com/news/local_news/article/Car-bomb-rocks-Nuevo-Laredo-3673813.php)
+1. [Cover Image](http://ww2.hdnux.com/photos/13/76/35/3139425/4/rawImage.jpg)
 
 ### Related:
 

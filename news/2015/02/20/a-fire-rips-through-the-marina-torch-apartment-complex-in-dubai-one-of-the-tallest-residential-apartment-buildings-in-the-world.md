@@ -8,6 +8,7 @@ A fire fanned by strong winds sweeps through the Torch skyscraper in Dubai, one 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-31562099)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/81146000/jpg/_81146472_b-uvjhbceaamzvs-1.jpg)
 
 ### Related:
 

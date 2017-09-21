@@ -8,6 +8,7 @@ Cairo and other Egyptian cities see huge rallies for and against President Morsi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23115821)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68472000/jpg/_68472249_68472248.jpg)
 
 ### Related:
 

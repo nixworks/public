@@ -8,6 +8,7 @@ LIONEL Messi and his father have been ordered by a Spanish court to appear for q
 ### Source:
 
 1. [News Limited](http://www.news.com.au/sport/football/lionel-messi-called-before-judge-to-face-questions-on-alleged-tax-fraud/story-fndkzvnd-1226667173286)
+1. [Cover Image](http://api.news.com.au/content/1.0/theaustralian/images/1226662930772?format=jpg)
 
 ### Related:
 

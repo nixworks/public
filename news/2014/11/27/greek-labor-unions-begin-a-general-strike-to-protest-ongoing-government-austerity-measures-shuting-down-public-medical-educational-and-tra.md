@@ -8,6 +8,7 @@ A nationwide general strike to protest continued austerity measures has shut dow
 ### Source:
 
 1. [AP via ''Business Standard](http://www.business-standard.com/article/pti-stories/general-strike-shuts-down-services-across-greece-114112700427_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

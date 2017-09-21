@@ -10,6 +10,7 @@ A pipeline taking gas from Egypt to Israel and Jordan explodes after an attack b
 1. [AP via AM1150](http://www.am1150.ca/News/World/Article.aspx?id=277865)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13204754)
 3. [Haaretz](http://www.haaretz.com/news/international/armed-gang-explodes-egypt-gas-pipeline-to-israel-1.358345?localLinksEnabled=false)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52358000/jpg/_52358372_52358371.jpg)
 
 ### Related:
 

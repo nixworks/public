@@ -8,6 +8,7 @@ Delayed from June, vote would be in West Bank only; decision comes after PA expr
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=206300&R=R3)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=150926)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The deaths occurred during an American attack on a Shiite area on the outskirts 
 
 1. [ (AFP via Pakistan Daily Times](http://www.dailytimes.com.pk/default.asp?page=2007%5C07%5C22%5Cstory_22-7-2007_pg7_32)
 2. [New York Times](http://www.nytimes.com/2007/07/22/world/middleeast/22iraq.html?_r=1&oref=slogin)
+2. [Cover Image](https://static01.nyt.com/images/2007/07/22/world/22iraq.75.jpg)
 
 ### Related:
 

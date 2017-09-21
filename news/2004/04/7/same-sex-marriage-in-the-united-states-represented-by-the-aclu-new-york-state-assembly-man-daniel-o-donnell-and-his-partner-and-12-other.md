@@ -9,6 +9,7 @@ Follow all the latest news on Long Island with Newsday. Read top local stories, 
 
 1. [365Gay.com](http://www.365gay.com/newscon04/04/040604nyMarry.htm)
 2. [Newsday](http://www.newsday.com/news/local/wire/ny-bc-ny-brf--gaymarriage-l0406apr06,0,7932346.story?coll=ny-ap-regional-wire)
+2. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

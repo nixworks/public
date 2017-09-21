@@ -8,3 +8,4 @@ A suspected Taliban suicide bomber in a car detonated a bomb close to minibuses 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/11/us-afghanistan-attack-idUSBRE95A0I320130611)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130611&t=2&i=740175666&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95A0ZN000)

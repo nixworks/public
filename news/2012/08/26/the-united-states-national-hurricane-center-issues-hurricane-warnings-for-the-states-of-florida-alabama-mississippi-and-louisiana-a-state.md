@@ -8,6 +8,7 @@ Forecasters say Tropical Storm Isaac has gained added strength and should be at 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/weather/2012/08/26/tropical-storm-isaac-gains-strength-expected-to-become-hurricane-sunday/)
+1. [Cover Image](http://a57.foxnews.com/global.fncstatic.com/static/managed/img/U.S./0/0/Isaac_foxnews1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21683739)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66223000/jpg/_66223085_paydayloanpadominiclipinski.jpg)
 
 ### Related:
 

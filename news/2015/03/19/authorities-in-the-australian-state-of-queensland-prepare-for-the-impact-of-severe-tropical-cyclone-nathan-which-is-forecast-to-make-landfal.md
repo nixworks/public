@@ -8,6 +8,7 @@ Queensland Premier Annastacia Palaszczuk says preparations are well under way as
 ### Source:
 
 1. [AAP via ''Wa Today](http://www.watoday.com.au/queensland/cyclone-nathan-preparations-under-way-20150319-1m2wjn.html)
+1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/m/2/l/2/x/image.related.articleLeadwide.620x349.1m2wjn.png/1426731989727.jpg)
 
 ### Related:
 

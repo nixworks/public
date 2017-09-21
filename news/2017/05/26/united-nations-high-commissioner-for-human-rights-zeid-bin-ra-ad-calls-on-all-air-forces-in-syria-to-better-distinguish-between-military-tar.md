@@ -8,6 +8,7 @@ The U.N. human rights chief called on all air forces operating in Syria on Frida
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-un-idUKKBN18M0WH)
+1. [Cover Image](//s3.reutersmedia.net/resources/r/?m=02&d=20170526&t=2&i=1186376730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4P0JO)
 
 ### Related:
 

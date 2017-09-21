@@ -9,6 +9,7 @@ Former Tunisian President Zine el-Abidine Ben Ali suffered a stroke and was in a
 
 1. [Reuters](http://af.reuters.com/article/tunisiaNews/idAFLDE71G25A20110217)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/02/17/Ben-Ali-reportedly-in-coma-after-stroke/UPI-86441297956230/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/86441297956230/2011/1/46b5eaa85e7ee50935804f1fc316e2d6/v2.1/Ben-Ali-reportedly-in-coma-after-stroke.jpg)
 
 ### Related:
 

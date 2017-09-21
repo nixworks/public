@@ -9,6 +9,7 @@ UNHCR teams in Chad are at the border and seeking information on the new arrival
 
 1. [NPR via BBC](http://www.npr.org/blogs/thetwo-way/2015/01/09/376122497/reports-of-boko-haram-led-massacre-in-captured-nigerian-town)
 2. [UNHCR](http://www.unhcr.org/54afb6dc9.html)
+2. [Cover Image](http://www.unhcr.org/thumb1/54afaef96.jpg)
 
 ### Related:
 

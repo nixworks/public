@@ -8,6 +8,7 @@ Two police officers have been killed by a car bomb attack by Kurdish militants i
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35723733)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/24D3/production/_88572490_nusaybinturkey0416.jpg)
 
 ### Related:
 

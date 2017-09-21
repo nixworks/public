@@ -8,6 +8,7 @@ The U.S. Commodity Futures Trading Commission on Monday ordered Deutsche Bank to
 ### Source:
 
 1. [Reuters via FOX Business](http://www.foxbusiness.com/economy-policy/2014/12/22/us-cftc-fines-deutsche-bank-3b-over-customer-fund-flaws)
+1. [Cover Image](http://global.fncstatic.com/static/cq/fb/img/all/og-fox-business.png)
 
 ### Related:
 

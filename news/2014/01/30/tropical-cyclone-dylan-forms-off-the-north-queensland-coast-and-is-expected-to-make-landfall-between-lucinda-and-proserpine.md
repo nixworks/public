@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC Australia via Weatherzone](http://www.weatherzone.com.au/news/tropical-cyclone-dylan-forms-after-king-tides-hit-north-queensland-coast/26609)
+1. [Cover Image](http://wz5.resources.weatherzone.com.au/images/logos/wz-512x512.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pope Francis has sent 100,000 euros ($106,090) to the poor in the ravaged Syrian
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-pope-syria-idUSKBN16H1TS)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170310&t=2&i=1175622104&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2916E)
 
 ### Related:
 

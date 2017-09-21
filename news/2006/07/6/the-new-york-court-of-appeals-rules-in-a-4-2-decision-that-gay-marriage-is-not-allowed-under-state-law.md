@@ -8,6 +8,7 @@ Follow all the latest news on Long Island with Newsday. Read top local stories, 
 ### Source:
 
 1. [Newsday](http://www.newsday.com/news/local/state/ny-stgay0707,0,5118918,print.story?coll=ny-top-headlines)
+1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

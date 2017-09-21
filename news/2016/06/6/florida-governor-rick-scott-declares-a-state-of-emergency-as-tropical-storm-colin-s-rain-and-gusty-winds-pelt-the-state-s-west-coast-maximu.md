@@ -10,6 +10,7 @@ Winds, rain and some flooding began pounding parts of Florida&rsquo;s west coast
 1. [CBS News](http://www.cbsnews.com/news/tropical-storm-colin-sets-record-hits-florida/)
 2. [Miami Herald](http://www.miamiherald.com/news/weather/hurricane/article82033742.html)
 3. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/061751.shtml)
+3. [Cover Image](http://www.miamiherald.com/latest-news/4tp4im-Tropical-Storm-Colin-rain-and-wind-arrives-in-Florida/ALTERNATES/LANDSCAPE_1140/Tropical%20Storm%20Colin%20rain%20and%20wind%20arrives%20in%20Florida)
 
 ### Related:
 

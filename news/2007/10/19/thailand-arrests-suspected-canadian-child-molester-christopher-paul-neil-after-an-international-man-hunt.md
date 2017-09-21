@@ -9,6 +9,7 @@
 
 1. [CNN](http://us.cnn.com/2007/WORLD/asiapcf/10/19/childsex.suspect/index.html)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSBKK21344820071019?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071019&t=2&i=1976569&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-10-19T225834Z_01_BKK213448_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Prosecutors in Brazil are filing charges against ex-President Lula over a corrup
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35770299)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/171F3/production/_88670749_88670748.jpg)
 
 ### Related:
 

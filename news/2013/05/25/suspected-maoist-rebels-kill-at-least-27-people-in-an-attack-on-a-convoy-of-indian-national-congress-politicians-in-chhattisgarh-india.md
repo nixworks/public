@@ -9,6 +9,7 @@ Around 250 Naxals in civilian clothes struck a convoy of Congress leaders during
 
 1. [NDTV](http://www.ndtv.com/article/india/chhattisgarh-naxal-attack-top-state-congress-leaders-among-25-killed-371402)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/Salwa-Judum-architect-Mahendra-Karma-among-several-Cong-leaders-killed-in-Maoist-attack/articleshow/20267026.cms)
+2. [Cover Image](http://i.ndtvimg.com/mt/2013-05/chhattisgarh-congress-leaders-naxal-attack-295.jpg)
 
 ### Related:
 

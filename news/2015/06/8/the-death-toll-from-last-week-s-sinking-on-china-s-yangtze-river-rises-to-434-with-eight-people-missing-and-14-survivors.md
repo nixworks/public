@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://cnnphilippines.com/world/2015/06/08/China-cruise-ship-disaster-bodies-recovered-others-still-missing.html)
+1. [Cover Image](http://cnnphilippines.com/world/psdbnr-Yangtze-ship_CNNPH.jpg/ALTERNATES/LANDSCAPE_640/Yangtze-ship_CNNPH.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ The president-elect took to Twitter to criticize the move against an independent
 2. [CNN](http://www.cnn.com/2017/01/02/politics/office-of-congressional-ethics-oversight-of-ethics-committee-amendment/)
 3. [Politico](http://www.politico.com/story/2017/01/paul-ryan-easily-wins-reelection-as-speaker-of-the-house-233139)
 4. [Washington Post](http://www.washingtonpost.com/powerpost/gop-to-start-on-ambitious-conservative-agenda-as-congress-convenes-today/2017/01/03/6117cbe2-d1a1-11e6-945a-76f69a399dd5_story.html)
+4. [Cover Image](http://media.graytvinc.com/images/558*315/250x141_60512P00-BYRQS.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ West African nations implement 2013 ruling by international court of justice to 
 ### Source:
 
 1. [AFP via ''The Guardian](http://www.theguardian.com/world/2015/may/08/burkina-faso-niger-exchange-18-towns-settle-border-dispute)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/8/1431120677962/3ff4998a-94ab-44b8-ac89-176d53b622d5-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=fd8de57df3b83f6dfc847fed75ef94cf)
 
 ### Related:
 

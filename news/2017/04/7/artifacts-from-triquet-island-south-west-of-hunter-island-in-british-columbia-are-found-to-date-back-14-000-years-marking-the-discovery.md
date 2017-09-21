@@ -8,6 +8,7 @@ Scientists say the artifacts exhumed on the remote island are painting a picture
 ### Source:
 
 1. [CTV News](http://vancouverisland.ctvnews.ca/14-000-year-old-village-unearthed-on-b-c-island-by-uvic-student-1.3358511)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.3358516.1491588859!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

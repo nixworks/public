@@ -8,6 +8,7 @@ A pinch of fine sand and dust became the first solid Martian sample deposited in
 ### Source:
 
 1. [JPL-NASA](http://www.jpl.nasa.gov/news/news.php?release=2012-356)
+1. [Cover Image](//www.jpl.nasa.gov/images/msl/20121113/pia16446-640.jpg)
 
 ### Related:
 

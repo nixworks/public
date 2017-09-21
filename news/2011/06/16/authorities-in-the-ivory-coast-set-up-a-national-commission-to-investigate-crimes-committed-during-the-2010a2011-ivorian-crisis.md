@@ -8,6 +8,7 @@ Authorities in Ivory Coast say they are setting up a national commission to inve
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13787494)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53336000/jpg/_53336273_011974322-1.jpg)
 
 ### Related:
 

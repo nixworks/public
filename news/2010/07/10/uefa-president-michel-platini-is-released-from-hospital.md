@@ -8,6 +8,7 @@ Michel&#x20;Platini,&#x20;the&#x20;head&#x20;of&#x20;the&#x20;Union&#x20;of&#x20
 ### Source:
 
 1. [France24](http://www.france24.com/en/20100709-johannesburg-south-africa-uefa-president-platini-taken-hospital-after-fainting-restaurant)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/platini-uefa.jpg)
 
 ### Related:
 

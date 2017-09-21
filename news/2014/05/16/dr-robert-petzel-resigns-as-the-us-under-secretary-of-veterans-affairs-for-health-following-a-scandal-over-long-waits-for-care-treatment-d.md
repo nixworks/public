@@ -8,3 +8,4 @@ The Obama administration, battling to tamp down yet another scandal, announced t
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2014/05/16/top-va-health-official-resigns-amid-scandal/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2014/05/16/top-va-health-official-resigns-amid-scandal/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446829469114.jpg?ve=1)

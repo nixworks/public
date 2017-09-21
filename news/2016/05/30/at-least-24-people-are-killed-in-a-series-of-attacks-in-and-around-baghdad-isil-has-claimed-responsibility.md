@@ -11,6 +11,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-05-30-ML--Iraq/id-c00860b45d244b4f8cfb0859a7597eb2)
 3. [The Guardian](http://www.theguardian.com/world/2016/may/30/iraqi-forces-enter-fallujah-in-attempt-to-drive-out-islamic-state)
 4. [USA Today](http://www.usatoday.com/story/news/world/2016/05/30/iraqi-forces-enter-isil-held-city-fallujah/85150894/)
+4. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

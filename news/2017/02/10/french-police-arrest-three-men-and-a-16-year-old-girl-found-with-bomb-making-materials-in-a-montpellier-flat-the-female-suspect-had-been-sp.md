@@ -8,6 +8,7 @@ Three men and a girl of 16 are found with bomb-making materials in a police raid
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-38930201)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6707/production/_94257362_mediaitem94257361.jpg)
 
 ### Related:
 

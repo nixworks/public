@@ -9,6 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [Helsingin Sanomat](http://www.helsinginsanomat.fi/english/article/1101979270450)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8280393&type=worldNews)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

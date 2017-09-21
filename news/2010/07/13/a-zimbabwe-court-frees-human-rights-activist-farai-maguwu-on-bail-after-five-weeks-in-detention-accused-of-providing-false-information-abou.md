@@ -12,6 +12,7 @@ A Zimbabwe courts frees on bail a human rights activist accused of giving false 
 3. [Mail & Guardian](http://www.mg.co.za/article/2010-07-13-zim-diamondcrime-whistleblower-freed)
 4. [South Africa Mercury](http://www.themercury.co.za/index.php?fArticleId=5552287)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0714/1224274659739.html)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

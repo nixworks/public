@@ -11,6 +11,7 @@ The Irish prime minister announces he will not be standing down as leader of the
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12202558)
 3. [RTÉ](http://www.rte.ie/news/2011/0116/politics.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0116/breaking2.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

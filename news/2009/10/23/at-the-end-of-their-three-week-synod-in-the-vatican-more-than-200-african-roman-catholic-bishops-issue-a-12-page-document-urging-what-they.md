@@ -10,6 +10,7 @@ Roman Catholic bishops called on corrupt Catholic leaders in Africa on Friday to
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8323536.stm)
 2. [CBC](http://www.cbc.ca/world/story/2009/10/23/catholic-bishops-africa-corrupt.html)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59M3Y320091023)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091023&t=2&i=12061746&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-23T163621Z_01_BTRE59M1A4S00_RTROPTP_0_POPE)
 
 ### Related:
 

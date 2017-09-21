@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/142210-duterte-list-lgu-police-officials-linked-drugs)
+1. [Cover Image](https://assets.rappler.com/F5D6D0F6327042499E5171ECF76B1912/img/05C01B93D38F4B8F84E0B6B14510F32F/PRRD-events-20160802-010.jpg)
 
 ### Related:
 

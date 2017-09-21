@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/05/06/us-merck-co-bayer-idUSBREA450BL20140506)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140506&t=2&i=894565724&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA450SDS00)
 
 ### Related:
 

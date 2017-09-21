@@ -8,6 +8,7 @@ The woman who falsely accused three Duke University lacrosse players of rape has
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2013/11/22/duke-lacrosse-accuser-found-guilty-second-degree-murder-in-boyfriend-stabbing/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Japan has put its military on alert for a possible North Korean ballistic missil
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-missile-japan-idUSKCN0V70IB)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160129&t=2&i=1113295062&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0S0AY)
 
 ### Related:
 

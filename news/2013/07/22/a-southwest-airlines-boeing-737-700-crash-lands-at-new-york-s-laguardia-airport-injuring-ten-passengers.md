@@ -9,6 +9,7 @@ A Boeing 737 is left with its nose resting against the runway at LaGuardia airpo
 
 1. [BBC](http://www.bbc.co.uk/news/world-23413358)
 2. [Sky News](http://news.sky.com/story/1119203/laguardia-plane-crash-eight-people-injured)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/rtx11vg5-1_3647878.jpg?20160706055607)
 
 ### Related:
 

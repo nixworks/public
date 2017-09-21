@@ -8,6 +8,7 @@ A former MEP who fraudulently claimed almost £500,000 in European Parliament ex
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-33508850?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15F61/production/_84235998_84235997.jpg)
 
 ### Related:
 

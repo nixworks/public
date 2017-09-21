@@ -9,6 +9,7 @@ A tornado and hailstorm kill at least 98 people and injure nearly 800 in the eas
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-36607600)
 2. [The Seattle Times](http://www.seattletimes.com/nation-world/china-state-media-say-51-killed-in-tornado-in-eastern-province-of-jiangsu-large-numbers-of-buildings-destroyed/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15A0B/production/_90078588_mediaitem90074202.jpg)
 
 ### Related:
 

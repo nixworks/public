@@ -8,6 +8,7 @@ At least 115 fighters of militant Islamist group al-Shabab are killed in heavy f
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-35910675)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FD8B/production/_88970946_88970945.jpg)
 
 ### Related:
 

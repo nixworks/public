@@ -8,6 +8,7 @@ Three-storey Republican Guard building destroyed by suicide blast in Bayda, whic
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/20123371436692420.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/16/2012216105511676734_20.jpg)
 
 ### Related:
 

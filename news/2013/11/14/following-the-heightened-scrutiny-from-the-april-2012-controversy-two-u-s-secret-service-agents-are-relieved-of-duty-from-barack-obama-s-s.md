@@ -8,6 +8,7 @@ Agents cited for misconduct dropped from the Secret Service&#039;s most elite as
 ### Source:
 
 1. [TIME](http://swampland.time.com/2013/11/14/two-secret-service-agents-dismissed-from-obamas-detail/)
+1. [Cover Image](https://s0.wp.com/wp-content/themes/vip/time2012/library/assets/images/time-logo-og.png)
 
 ### Related:
 

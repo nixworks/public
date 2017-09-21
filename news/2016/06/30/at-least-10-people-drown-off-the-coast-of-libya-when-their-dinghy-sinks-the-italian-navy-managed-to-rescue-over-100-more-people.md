@@ -8,6 +8,7 @@ At least 10 people drown when their inflatable boat capsizes, as Italy raises to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36672474)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3878/production/_90165441_033786465-1.jpg)
 
 ### Related:
 

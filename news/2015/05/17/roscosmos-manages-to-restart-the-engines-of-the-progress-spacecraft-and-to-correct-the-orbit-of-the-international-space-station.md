@@ -8,6 +8,7 @@ Russia on Monday managed on a second attempt to restart the engines of a Progres
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/russia-successful-second-attempt-start-progress-spacecraft-013723064.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/yao37PaHQ_ZtthV5oY6vVQ--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/2387fa7579bd3c32dffb31c780c32af7932c3664.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pro-Russian rebels have released 1,200 people they had taken captive, Ukrainian 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-29114297)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/77454000/jpg/_77454933_77454932.jpg)
 
 ### Related:
 

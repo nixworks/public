@@ -8,6 +8,7 @@ Group claims its gunmen carried out the two separate attacks in Karachi but offi
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/20/pakistani-taliban-kill-seven-policemen-guarding-polio-workers)
+1. [Cover Image](https://i.guim.co.uk/img/media/f85b5b6eb48e4258502ff250b99c4aef7759c9d4/0_250_4193_2515/4193.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=042c6d7f8629948c25c3d59a0ad9f099)
 
 ### Related:
 

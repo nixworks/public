@@ -11,6 +11,7 @@
 2. [BBC News](http://news.bbc.co.uk/2/hi/business/7751284.stm)
 3. [IHT](http://www.iht.com/articles/2008/11/26/business/euecon.php)
 4. [WSJ](http://online.wsj.com/article/SB122772595753960371.html?mod=googlenews_wsj)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

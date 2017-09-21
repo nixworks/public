@@ -8,6 +8,7 @@ YANGON - A passenger ferry has sunk off the coast of western Myanmar, leaving at
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/21-dead-26-missing-after-myanmar-ferry-sinks-police-20150314)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/03/14/jdmyan14e_2x.jpg?itok=2EoFbey5)
 
 ### Related:
 

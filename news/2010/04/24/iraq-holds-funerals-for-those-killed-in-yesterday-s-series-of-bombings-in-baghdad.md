@@ -8,6 +8,7 @@ PM says attacks that killed 69 people were response to killing of two al-Qaeda l
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/20104247396232723.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

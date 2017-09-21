@@ -8,6 +8,7 @@ Unless carbon emissions are curtailed, climate change may expose 1.5 billion peo
 ### Source:
 
 1. [National Geographic](http://news.nationalgeographic.com/2017/08/south-asia-heat-waves-temperature-rise-global-warming-climate-change/)
+1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/2017/08/02/south_asia_climate_change/south_asia_climate_change_AP_09030606328.ngsversion.1501696893727.adapt.1900.1.jpg)
 
 ### Related:
 

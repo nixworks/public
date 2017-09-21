@@ -9,6 +9,7 @@ A group led by China’s Anbang Insurance Group Co. withdrew its $14 billion tak
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-31/anbang-said-to-withdraw-14-billion-bid-for-starwood-hotels)
 2. [CNBC](http://www.cnbc.com/2016/03/31/anbang-walking-away-from-starwood-deal-dj-citing-sources.html)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

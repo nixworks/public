@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News Limited](http://www.news.com.au/world/nz-volcano-mt-tongariro-erupts/story-fndir2ev-1226521131017?from=public_rss)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/c553739455a6bf4b8a242bf8bf788594)
 
 ### Related:
 

@@ -12,6 +12,7 @@ A body has been discovered in New Zealand close to where two-year-old Aisling Sy
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Aisling-Symes-New-Zealand-Police-Find-Body-In-Auckland-Amid-Search-For-Missing-Girl/Article/200910215404020?lpos=World_News_News_Your_Way_Region_2&lid=NewsYourWay_ARTICLE_15404020_Aisling_Symes%3A_New_Zealand_Police_Find_Body_In_Auckland%2C_Amid_Search_For_Missing_Girl)
 4. [TVNZ](http://tvnz.co.nz/national-news/body-found-in-search-toddler-removed-3069289)
 5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/newzealand/6307333/New-Zealand-police-hunting-Aisling-Symes-2-find-body-in-drain.html)
+5. [Cover Image](https://img.rasset.ie/0002a8d5-1600.jpg)
 
 ### Related:
 

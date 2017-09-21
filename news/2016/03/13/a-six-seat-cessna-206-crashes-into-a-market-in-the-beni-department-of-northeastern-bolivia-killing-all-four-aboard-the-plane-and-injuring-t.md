@@ -9,6 +9,7 @@ A small plane crashed into a market in rural Santa Ana del Yacuma in northeast B
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/plane-hits-market-bolivia-aboard-dead-vendors-hurt-37622255)
 2. [Reuters via ''Hindustan Times](http://www.hindustantimes.com/world/bolivia-7-killed-as-small-plane-crashes-into-rural-market/story-CP5t5pwlmhRd8iBVwZztPI.html)
+2. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/03/14/Pictures/_1ceeb768-e9a9-11e5-805c-cca8aa42d510.jpg)
 
 ### Related:
 

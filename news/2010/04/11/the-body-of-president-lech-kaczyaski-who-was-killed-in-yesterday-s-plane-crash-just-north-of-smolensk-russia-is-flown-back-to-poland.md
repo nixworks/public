@@ -21,6 +21,7 @@ WARSAW - Draped in a red and white Polish flag, the body of Lech Kaczynski was c
 12. [The Sydney Morning Herald](http://www.smh.com.au/world/candles-and-tears-for-polands-tragic-president-20100411-s0bu.html?autostart=1)
 13. [Toronto Star](http://www.thestar.com/news/world/article/793568--poland-bleeds-anew)
 14. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304168004575178352949073876.html?mod=googlenews_wsj)
+14. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

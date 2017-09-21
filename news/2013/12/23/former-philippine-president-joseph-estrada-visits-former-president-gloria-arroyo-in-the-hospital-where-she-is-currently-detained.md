@@ -8,6 +8,7 @@ Not too long ago, she was the president and he was held without bail in the same
 ### Source:
 
 1. [The Philippine Star](http://www.philstar.com/headlines/2013/12/23/1271253/erap-fvr-visit-gma)
+1. [Cover Image](http://media.philstar.com/images/the-philippine-star/headlines/20131223/joseph-estrada-and-gloria-macapagal-arroyo.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@
 3. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=179290)
 4. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_544657.html)
 5. [Today's Zaman](http://www.todayszaman.com/tz-web/news-214055-102-southeast-european-nations-demand-intl-probe-into-israeli-ship-raid.html)
+5. [Cover Image](http://www.haaretz.com/polopoly_fs/1.293376.1452598694!/image/1733860570.jpg_gen/derivatives/headline_1200x630/1733860570.jpg)
 
 ### Related:
 

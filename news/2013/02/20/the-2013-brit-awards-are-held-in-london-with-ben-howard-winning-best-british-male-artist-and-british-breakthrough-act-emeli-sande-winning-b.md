@@ -8,6 +8,7 @@ Olympic opening ceremony singer Emeli Sand&eacute;, has won best album and best 
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/brit-awards/9883188/Brit-Awards-2013-Emeli-Sande-wins-best-album-and-best-British-female.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02487/emeli_2487866k.jpg)
 
 ### Related:
 

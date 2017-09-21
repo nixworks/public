@@ -9,6 +9,7 @@ Former FBI director offers statement describing a meeting in which Trump asked h
 
 1. [Reuters](http://uk.reuters.com/article/uk-usa-trump-russia-idUKKBN18Z0HL?il=0)
 2. [The Guardian](https://www.theguardian.com/us-news/2017/jun/07/james-comey-trump-congress-statement)
+2. [Cover Image](https://i.guim.co.uk/img/media/9fa2d9832e4566aa4ae886e8abe737b45e613e39/188_82_2804_1681/master/2804.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=146261c192df5f8b358133464ddbb03d)
 
 ### Related:
 

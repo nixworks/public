@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=224399)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=161471)
 
 ### Related:
 

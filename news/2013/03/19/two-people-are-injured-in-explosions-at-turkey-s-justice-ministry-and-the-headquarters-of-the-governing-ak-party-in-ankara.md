@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21854215)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65365000/gif/_65365553_turkey_istanbul_ankara_izmir_0113.gif)
 
 ### Related:
 

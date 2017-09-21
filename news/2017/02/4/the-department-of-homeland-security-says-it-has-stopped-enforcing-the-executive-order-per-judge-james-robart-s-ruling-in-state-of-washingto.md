@@ -10,6 +10,7 @@ Homeland Security announced Saturday it is suspending the implementation of Pres
 1. [NBC News](http://www.nbcnews.com/news/us-news/judge-halts-trump-travel-ban-banned-countries-citizens-able-board-n716801)
 2. [NBC News](http://www.nbcnews.com/news/us-news/justice-dept-appeals-have-court-restore-trump-travel-order-n716891)
 3. [USA Today](http://www.usatoday.com/story/news/nation/2017/02/04/trump-blasts-so-called-federal-judges-block-travel-ban/97484556/)
+3. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_05/1891126/4217-airport-travel-ban-841a-rs_1fe060a51556845869ba21615c5d8f45.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Former naval officer Alfredo Astiz among 12 officials jailed for life over tortu
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/americas/2011/10/2011102703518252607.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/10/27/2011102704053977734_20.jpg)
 
 ### Related:
 

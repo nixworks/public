@@ -9,6 +9,7 @@ Gunmen kill 20 construction workers in Pakistan&#039;s restive south-western pro
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-04-11/gunmen-kill-20-labourers-in-pakistan/6386036)
 2. [BBC](http://www.bbc.com/news/world-asia-32263534)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

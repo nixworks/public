@@ -8,3 +8,4 @@ A death certificate for Lord Lucan is granted more than 40 years after he disapp
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-35481376)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/DD83/production/_88070765_hi004362447.jpg)

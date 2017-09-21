@@ -11,6 +11,7 @@ At&#x20;least&#x20;four&#x20;people&#x20;have&#x20;died&#x20;in&#x20;protests&am
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11150063)
 3. [RFI](http://www.english.rfi.fr/africa/20100901-least-three-die-mozambique-protests)
 4. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE6800F520100901)
+4. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/maputoprotests.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The mosquito-borne Zika virus, linked to brain damage in babies, has already bee
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-01-26/zika-virus-detected-in-australians-returning-from-south-america/7115568)
+1. [Cover Image](http://www.abc.net.au/news/image/7084740-1x1-700x700.jpg)
 
 ### Related:
 

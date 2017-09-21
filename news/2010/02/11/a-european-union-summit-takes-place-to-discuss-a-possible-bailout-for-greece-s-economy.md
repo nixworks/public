@@ -9,6 +9,7 @@ European leaders sought to prop up Greece with words of support at a summit on T
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE61819O20100211)
 2. [The Guardian](http://www.guardian.co.uk/business/2010/feb/11/eu-summit-greece-bailout-imf)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100211&t=2&i=59390138&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-02-11T134502Z_01_BTRE61A0XZO00_RTROPTP_0_EU-GREECE)
 
 ### Related:
 

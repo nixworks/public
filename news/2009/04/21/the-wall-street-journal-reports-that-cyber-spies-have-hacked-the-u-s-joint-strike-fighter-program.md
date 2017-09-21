@@ -8,6 +8,7 @@ The Pentagon and Lockheed Martin Corp, its top supplier, discounted a Wall Stree
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/technologyNews/idUSTRE53K0TG20090421?feedType=RSS&feedName=technologyNews)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090421&t=2&i=9792985&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-04-21T215446Z_01_BTRE53K1CY200_RTROPTP_0_US-PENTAGON-CYBERSPYING)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-tyne-22371200)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67392000/jpg/_67392141_jex_12778_de03.jpg)
 
 ### Related:
 

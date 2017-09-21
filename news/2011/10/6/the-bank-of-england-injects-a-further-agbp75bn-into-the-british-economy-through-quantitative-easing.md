@@ -8,6 +8,7 @@ The Bank of England says it will inject a further £75bn into the economy throug
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15196078)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55632000/jpg/_55632232_012983549-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Rescue workers still searching for victims on the ground after Hercules military
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/jul/01/indonesia-plane-crash-death-toll-144-investigation-begins)
+1. [Cover Image](https://i.guim.co.uk/img/media/fdbf78d976fa989771c3a04313f3000197abd456/0_60_3360_2017/master/3360.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8e2974bb24be243378a086c4305c7b02)
 
 ### Related:
 

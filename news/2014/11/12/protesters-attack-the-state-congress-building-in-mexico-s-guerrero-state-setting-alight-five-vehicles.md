@@ -8,6 +8,7 @@ Demonstrators attack the Guerrero state congress building in south-west Mexico, 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-30031500)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78951000/jpg/_78951554_78951553.jpg)
 
 ### Related:
 

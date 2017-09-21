@@ -9,6 +9,7 @@ A eerie turquoise light spotted over Norway has sparked a mystery, with suggesti
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1234430/Mystery-spiral-blue-light-display-hovers-Norway.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/6770959/Strange-light-in-Norwegian-sky-sparks-mystery.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01540/lights_1540569a.jpg)
 
 ### Related:
 

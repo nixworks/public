@@ -8,6 +8,7 @@ A mass protest in South Korea calls for scandal-hit President Park Geun-hye to q
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-37882512)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/9FC2/production/_92289804_mediaitem92289803.jpg)
 
 ### Related:
 

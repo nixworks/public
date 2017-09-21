@@ -10,6 +10,7 @@ At least ten people were killed and eleven others injured today after a passenge
 1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/10-killed-in-china-train-bus-collision-at-start-of-annual-travel-rush/2013/01/28/ba2206c4-6933-11e2-9a0b-db931670f35d_story.html)
 2. [NDTV](http://www.ndtv.com/article/world/10-killed-after-train-collides-with-bus-in-china-323127)
 3. [UPI](http://www.upi.com/Top_News/World-News/2013/01/28/China-At-least-7-dead-in-bus-train-crash/UPI-14471359351097/)
+3. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

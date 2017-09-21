@@ -8,6 +8,7 @@ MPs pass a motion condemning the Malaysian asylum swap deal, a move which opens 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/06/16/3245289.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/892556-1x1-700x700.jpg)
 
 ### Related:
 

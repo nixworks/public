@@ -9,6 +9,7 @@ A shipment of fuel has arrived in North Korea - the first part of a deal to halt
 
 1. [AP via Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1184168562971&pagename=JPost%2FJPArticle%2FShowFull)
 2. [BBC via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/14/1978657.htm)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

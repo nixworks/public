@@ -8,6 +8,7 @@ Microsoft will tap Satya Nadella as chief executive, while founder Bill Gates wi
 ### Source:
 
 1. [FOX Business](http://www.foxbusiness.com/industries/2014/02/04/microsoft-names-satya-nadell-as-next-ceo/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/features/2014/02/04/microsoft-names-satya-nadell-as-next-ceo/_jcr_content/par/featured-media/media-1.img.png/0/0/1436393663463.png?ve=1)
 
 ### Related:
 

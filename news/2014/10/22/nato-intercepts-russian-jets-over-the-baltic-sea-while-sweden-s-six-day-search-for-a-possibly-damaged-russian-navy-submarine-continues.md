@@ -10,6 +10,7 @@ Sweden could use weapons in the search for a suspected foreign submarine near th
 1. [AP via ''Daily Telegraph](http://www.dailytelegraph.com.au/news/world/nato-intercepts-russian-jets-over-baltic-sea-as-sweden-continues-search-for-a-suspected-damaged-submarine/story-fni0xs63-1227098799704)
 2. [BBC](http://www.bbc.com/news/world-europe-29721461)
 3. [Europe Online Magazine](http://en.europeonline-magazine.eu/swedish-search-for-alleged-mystery-submarine-enters-new-phase_360737.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78447000/jpg/_78447255_78446383.jpg)
 
 ### Related:
 

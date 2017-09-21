@@ -8,6 +8,7 @@ Kenyan police on Tuesday arrested a journalist who wrote about corruption at the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/11/us-kenya-corruption-idUSKCN0SZ2GK20151111#IJYoyeoXo8ZQMLO6.97)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151111&t=2&i=1093914087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAA01M)
 
 ### Related:
 

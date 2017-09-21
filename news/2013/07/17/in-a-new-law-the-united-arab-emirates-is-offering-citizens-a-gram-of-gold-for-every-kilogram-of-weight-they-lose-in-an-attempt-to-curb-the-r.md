@@ -8,6 +8,7 @@ Alarmed at ballooning waistlines in a region where fast food is common and comfo
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/health/2013/07/17/202941301/weight-loss-is-worth-gold-in-dubai?ft=1&f=1001)
+1. [Cover Image](https://media.npr.org/assets/img/2013/07/17/goldbars_wide-c710d5351d183a55bc5190f216957e6da5e131cd.jpg?s=1400)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Rajya Sabha broke up for recess on Thursday without voting on a bill to crea
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2011/12/29/rajya-sabha-adjourned-without-vote-on-lo-idINDEE7BS0C720111229)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111229&t=2&i=552464232&w=&fh=545px&fw=&ll=&pl=&sq=&r=CDEE7BS1IS000)
 
 ### Related:
 

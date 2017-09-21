@@ -8,6 +8,7 @@ Tens of thousands of protesters took part in one of the largest anti-nuclear ral
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/idINIndia-52718020101106)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20101106&t=2&i=243128851&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-11-06T234425Z_01_NOOTR_RTRMDNC_0_India-527180-2)
 
 ### Related:
 

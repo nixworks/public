@@ -10,6 +10,7 @@ Twin blasts that killed 23 people near Iran&#039;s embassy in Beirut were suicid
 1. [Daily News Egypt](http://www.dailynewsegypt.com/2013/11/19/al-qaeda-affiliate-claims-responsibility-for-iranian-embassy-attack-in-beirut/)
 2. [France 24](http://www.france24.com/en/20131119-deadly-blasts-iranian-embassy-beirut)
 3. [Reuters via ABC News Australia](http://www.abc.net.au/news/2013-11-19/blasts-near-iranian-embassy-in-beirut/5103472)
+3. [Cover Image](http://www.abc.net.au/news/image/5103584-1x1-700x700.jpg)
 
 ### Related:
 

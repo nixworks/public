@@ -8,6 +8,7 @@ Viva Palestina vehicles leave London en route to besieged Strip for what organis
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/20109190194211735.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/19/201091911036232734_20.jpg)
 
 ### Related:
 

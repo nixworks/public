@@ -8,6 +8,7 @@ Google announces the surprise sale of its Motorola Mobility unit, which it bough
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/business-25956284)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/72612000/jpg/_72612160_187865284.jpg)
 
 ### Related:
 

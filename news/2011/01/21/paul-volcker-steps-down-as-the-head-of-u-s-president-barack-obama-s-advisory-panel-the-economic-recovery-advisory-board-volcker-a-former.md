@@ -8,6 +8,7 @@ President Barack Obama announced Thursday that former Federal Reserve Chairman P
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70K14720110121)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110121&t=2&i=312423349&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-21T043056Z_01_BTRE70K0CJN00_RTROPTP_0_USA-ECONOMY-VOLCKER)
 
 ### Related:
 

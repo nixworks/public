@@ -9,6 +9,7 @@ A new study has dropped a bombshell on archaeology, claiming signs of human acti
 
 1. [Ars Technica](https://arstechnica.com/science/2017/04/unknown-humans-were-in-california-130000-years-ago-say-scientists/)
 2. [National Geographic](http://news.nationalgeographic.com/2017/04/mastodons-americas-peopling-migrations-archaeology-science/)
+2. [Cover Image](http://news.nationalgeographic.com/content/dam/news/2017/04/26/human_evidence_130000/01_hujman_evidence_130000.ngsversion.1493227803779.adapt.1900.1.jpg)
 
 ### Related:
 

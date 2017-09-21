@@ -8,6 +8,7 @@ Police say a bomb attack on officers in West Belfast could have ended in &quot;m
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11703535)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

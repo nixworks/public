@@ -11,6 +11,7 @@ US embassy spokesperson says two American consulate staffers injured in the atta
 2. [Dawn](http://www.dawn.com/2011/05/20/explosion-on-peshawars-university-road.html)
 3. [Pakistan Tribune](http://tribune.com.pk/story/172507/explosion-in-peshawar-wounds-7/)
 4. [Reuters via Alert Net](http://www.trust.org/alertnet/news/pakistan-taliban-claim-responsibility-for-attack-on-us-convoy)
+4. [Cover Image](https://c.tribune.com.pk/2011/05/Bomb-blast-172507-640x480.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A 400lb bomb partially exploded outside the Policing Board headquarters in Belfa
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/11/22/northern.ireland.bomb/)
 2. [RTÉ](http://www.rte.ie/news/2009/1122/fermanagh.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/northernireland/6630265/400lb-car-bomb-goes-off-outside-Northern-Irelands-Policing-Board.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01528/belfast-bomb_1528337a.jpg)
 
 ### Related:
 

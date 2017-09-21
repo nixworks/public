@@ -8,6 +8,7 @@ A court in Russia sentences Ukrainian film director Oleg Sentsov to 20 years in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-34049595)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3548/production/_84404631_028261541-1.jpg)
 
 ### Related:
 

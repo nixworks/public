@@ -8,6 +8,7 @@ The Justice Department investigates if US airlines are colluding to keep ticket 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-33353360)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5D65/production/_83990932_83990931.jpg)
 
 ### Related:
 

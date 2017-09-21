@@ -10,6 +10,7 @@ At least 26 civilians, including children, have been killed in north-east Syria 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_UNITED_STATES_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-12-07-11-34-31)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-35031531)
 3. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-idUKKBN0TQ0E920151207)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/6458/production/_87088652_87088650.jpg)
 
 ### Related:
 

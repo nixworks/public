@@ -9,6 +9,7 @@ Israeli Prime Minister Benjamin Netanyahu vows to form &quot;as broad a governme
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21155063)
 2. [Reuters](http://www.reuters.com/article/2013/01/23/us-israel-election-idUSBRE90K0FP20130123)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65450000/jpg/_65450962_ab9e4oor.jpg)
 
 ### Related:
 

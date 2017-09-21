@@ -8,6 +8,7 @@ North and South Korea agree to hold reunions for families separated after the Ko
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-26043929)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72760000/jpg/_72760025_72760024.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A tropical storm formed in the Caribbean Friday and is expected to move across t
 1. [Alertnet](http://www.trust.org/alertnet/news/tropical-storm-harvey-is-forecast-to-strike-belize-as-a-hurricane-at-about-0000-gmt-on-21-august)
 2. [CNN](http://edition.cnn.com/2011/WORLD/americas/08/19/tropical.storm.harvey/index.html?eref=edition)
 3. [Hurricane Terrapin](http://hurricane.terrapin.com/text/1313895795-HAFT24US.TXT.html.en)
+3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/08/19/tropical.storm.harvey/tzvids.tropical.storm.harvey.nasa.jpg)
 
 ### Related:
 

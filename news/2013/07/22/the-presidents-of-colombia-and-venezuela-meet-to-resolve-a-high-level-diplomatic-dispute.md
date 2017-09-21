@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/07/22/uk-venezuela-colombia-idUKBRE96L10R20130722)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130722&t=2&i=753242764&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96L1SHH00)
 
 ### Related:
 

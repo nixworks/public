@@ -8,6 +8,7 @@ Mullah Abdul Ghani Baradar, co-founder of the Afghan Taliban, is released from p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24185441#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70028000/jpg/_70028439_018889831.jpg)
 
 ### Related:
 

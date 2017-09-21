@@ -9,6 +9,7 @@ The European Commission penalises the US tech giant for illegally favouring its 
 
 1. [BBC News](http://www.bbc.com/news/technology-40406542)
 2. [CNN](http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A4EB/production/_96691224_e7c4d8eb-d09c-4d01-a72f-f9bbc8fbd59c.jpg)
 
 ### Related:
 

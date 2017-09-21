@@ -8,6 +8,7 @@ Another @BmoreCityDOT warning about traffic congestion, &quot;unpredictable cond
 ### Source:
 
 1. [Baltimore Sun](http://live.baltimoresun.com/Event/Latest_updates_from_the_Freddie_Gray_case_in_Baltimore)
+1. [Cover Image](http://images.scribblelive.com/2015/4/24/f89524f5-5bf3-431d-9be5-9942cebabd89.jpg)
 
 ### Related:
 

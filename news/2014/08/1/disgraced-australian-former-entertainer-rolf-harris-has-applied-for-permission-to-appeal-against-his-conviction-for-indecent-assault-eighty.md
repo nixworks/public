@@ -8,6 +8,7 @@ Disgraced entertainer Rolf Harris applies for permission to appeal against his c
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/uk-28604456)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76672000/jpg/_76672954_76672953.jpg)
 
 ### Related:
 

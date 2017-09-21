@@ -9,6 +9,7 @@ More than 100 flights were canceled at Denver International Airport on Tuesday a
 
 1. [Reuters](http://www.reuters.com/article/2015/11/17/us-usa-storm-idUSKCN0T610M20151117#1KCTDhlHB7vd5wTS.97)
 2. [USA Today](http://www.usatoday.com/story/news/nation/2015/11/17/storm-blasting-denver-cancels-flights-closes-roads/75916616/)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

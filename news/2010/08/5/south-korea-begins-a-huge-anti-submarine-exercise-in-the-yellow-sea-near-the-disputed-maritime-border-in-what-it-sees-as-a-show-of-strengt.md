@@ -12,6 +12,7 @@ South Korea starts a huge anti-submarine exercise amid continuing anger over the
 3. [The Jakarta Post](http://www.thejakartapost.com/news/2010/08/05/south-korea-begins-naval-drills-despite-north-korean-warning.html)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/skorea-kicks-off-military-drill-despite-threats-20100805-11j0x.html)
 5. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/North-Korea-threatens-to-retaliate-against-South-Korea-/articleshow/6254838.cms)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

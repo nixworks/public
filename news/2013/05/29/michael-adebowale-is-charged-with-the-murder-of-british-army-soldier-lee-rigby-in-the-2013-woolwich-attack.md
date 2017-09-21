@@ -8,6 +8,7 @@ Police say they have charged Michael Adebowale with murdering a British soldier 
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57586776/man-charged-in-u.k-soldiers-murder/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/05/22/ba9248e6-d262-11e2-a43e-02911869d855/169253909_10.jpg)
 
 ### Related:
 

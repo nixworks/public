@@ -9,6 +9,7 @@ Syrian government representatives rule out starting direct negotiations with the
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35820823)
 2. [USA Today](http://www.usatoday.com/story/news/world/2016/03/16/reports-kurds-plan-declare-federal-region-syria/81849838/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3F48/production/_88800261_88800260.jpg)
 
 ### Related:
 

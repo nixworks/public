@@ -10,6 +10,7 @@
 1. [CNNMoney](http://money.cnn.com/2015/11/05/investing/seaworld-earnings-attendance-blackfish/index.html?iid=EL)
 2. [CNN](http://www.cnn.com/2015/12/21/us/passengers-stuck-on-seaworld-ride/index.html)
 3. [CNN](http://www.cnn.com/2015/12/22/us/seaworld-killer-whale-death/?iid=ob_homepage_deskrecommended_pool&iref=obnetwork)
+3. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/150324100518-seaworld-buzz-780x439.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The vote, a major victory for the White House, also gives legal protection to ph
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/02/12/washington/12cnd-fisa.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/02/12/us/12fisa-75.jpg)
 
 ### Related:
 

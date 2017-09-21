@@ -9,6 +9,7 @@ A new test can accurately diagnose the Ebola virus disease within minutes at the
 
 1. [Corgenix](http://www.corgenix.com/news-releases/corgenix-and-fio-combine-rapid-ebola-test-with-automated-analysis-and-data-capture-to-improve-frontline-care-and-case-tracking/)
 2. [Harvard](http://news.harvard.edu/gazette/story/2015/06/diagnosing-ebola-in-minutes/)
+2. [Cover Image](https://harvardgazette.files.wordpress.com/2015/06/013108_africa_151_605.jpg)
 
 ### Related:
 

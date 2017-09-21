@@ -11,6 +11,7 @@ A helicopter crash Tuesday brought the number of NATO service members killed in 
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/09/21/afghanistan.chopper.crash/)
 3. [China Daily](http://www.chinadaily.com.cn/world/2010-09/21/content_11334561.htm)
 4. [New York Times](http://www.nytimes.com/2010/09/22/world/asia/22afghan.html?_r=1)
+4. [Cover Image](https://static01.nyt.com/images/2010/09/22/world/22afghanspan-cnd/22afghanspan-cnd-thumbStandard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Boston police have been investigating whether jailed former New England Patriot 
 ### Source:
 
 1. [AP via ESPN](http://espn.go.com/boston/nfl/story/_/id/10303853/aaron-hernandez-eyed-gunman-2012-slayings-police-say)
+1. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2013%2F1009%2Fnfl_a_hernandez01jr_1920x1080.jpg)
 
 ### Related:
 

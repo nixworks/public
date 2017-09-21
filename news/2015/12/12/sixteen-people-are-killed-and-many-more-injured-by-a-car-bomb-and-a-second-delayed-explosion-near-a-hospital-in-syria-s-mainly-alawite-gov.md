@@ -9,6 +9,7 @@ Syria has suffered another day of death and destruction. This time in the centra
 
 1. [EuroNews](http://www.euronews.com/2015/12/12/syria-explosions-in-homs-leave-at-least-16-dead/)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-blast-idUSKBN0TV0AZ20151212#8Wrebpd8a9PrsS52.97)
+2. [Cover Image](http://static.euronews.com/articles/318805/1000x563_318805.jpg)
 
 ### Related:
 

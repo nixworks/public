@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/12/06/us-yemen-explosion-idUSBRE9B406520131206)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131206&t=2&i=818031960&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9B50YNL00)
 
 ### Related:
 

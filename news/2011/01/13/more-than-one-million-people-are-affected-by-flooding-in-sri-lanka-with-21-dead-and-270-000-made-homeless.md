@@ -8,6 +8,7 @@ Sri Lanka’s government says three more people have been killed by widespread f
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article1089791.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article15488222.ece/ALTERNATES/LANDSCAPE_615/THANGA_SRI_LANKA_FLOODS)
 
 ### Related:
 

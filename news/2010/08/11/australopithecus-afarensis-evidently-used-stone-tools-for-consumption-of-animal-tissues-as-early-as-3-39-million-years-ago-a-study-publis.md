@@ -9,6 +9,7 @@ Researchers have unearthed evidence that our ancestors used tools and ate meat 8
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-10938453)
 2. [Nature](http://dx.doi.org/10.1038/nature09248)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

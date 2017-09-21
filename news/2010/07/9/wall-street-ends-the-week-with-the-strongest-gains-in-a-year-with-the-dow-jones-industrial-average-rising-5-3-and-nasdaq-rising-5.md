@@ -8,6 +8,7 @@ Wall Street closed out its best week in a year on Friday, snapping back from a l
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE66515820100709)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100709&t=2&i=150261332&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-09T114427Z_01_BTRE6680WM600_RTROPTP_0_MARKETS-STOCKS)
 
 ### Related:
 

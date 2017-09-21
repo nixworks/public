@@ -8,6 +8,7 @@ Former PM criticised over link to United Arab Emirates-funded programme that pro
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/politics/2014/jul/02/tony-blair-advise-egypt-president-sisi-economic-reform)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/2/1404306001161/Tony-Blair-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4c4a7b6e4159b5658e32cc9d4d775328)
 
 ### Related:
 

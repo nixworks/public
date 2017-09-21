@@ -8,3 +8,4 @@ Discovered a day before its closest approach to Earth, Asteroid 2013 LR6 came wi
 ### Source:
 
 1. [Nature World News](http://www.natureworldnews.com/articles/2352/20130608/asteroid-passes-within-65-000-miles-earth-day-scientists-discovered.htm)
+1. [Cover Image](http://images.natureworldnews.com/data/images/full/2136/2013-lr6.jpg)

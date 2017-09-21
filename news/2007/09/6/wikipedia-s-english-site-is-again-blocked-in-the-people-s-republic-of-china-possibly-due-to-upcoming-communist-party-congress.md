@@ -8,6 +8,7 @@ Wikipedia&#039;s English site is again blocked in China--possibly due to upcomin
 ### Source:
 
 1. [PC World](http://www.pcworld.com/article/id,136879-c,sites/article.html)
+1. [Cover Image](http://csmb.staticworld.net/images/furniture/pcworld/NoPrimaryImage.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ European lawmakers clinched a deal early on Wednesday to cap the wholesale charg
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eu-telecoms-roaming-idUSKBN15G2YB)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170201&t=2&i=1170944123&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED101G5)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Emergency interest rate cuts Wednesday by the Federal Reserve and five other cen
 2. [CNN](http://edition.cnn.com/2008/BUSINESS/10/08/sweden.volvo.jobs/?iref=mpstoryview)
 3. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-fi-fed9-2008oct09,0,3444859.story?track=rss)
 4. [New York Times](http://www.nytimes.com/2008/10/09/business/09fed.html?em)
+4. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

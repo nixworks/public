@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE6302L920100401)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100401&t=2&i=85313226&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-01T152059Z_01_BTRE63016N300_RTROPTP_0_BRITAIN)
 
 ### Related:
 

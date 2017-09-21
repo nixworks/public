@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/03/31/Venezuelan-retirees-could-see-grocery-bill-help-in-wake-of-180-inflation/5651459438964/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/5651459438964/2016/1/14594505499152/v2.1/Venezuelan-retirees-could-see-grocery-bill-help-in-wake-of-180-inflation.jpg)
 
 ### Related:
 

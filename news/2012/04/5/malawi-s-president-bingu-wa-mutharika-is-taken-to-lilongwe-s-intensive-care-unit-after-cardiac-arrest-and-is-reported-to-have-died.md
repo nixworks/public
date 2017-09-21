@@ -9,6 +9,7 @@ Malawi President Bingu wa Mutharika has died after a heart attack, medical and g
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17628591)
 2. [Reuters](http://www.reuters.com/article/2012/04/06/us-malawi-president-idUSBRE83504E20120406)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120406&t=2&i=591584393&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8350JCR00)
 
 ### Related:
 

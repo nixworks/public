@@ -9,6 +9,7 @@ As counting in the General Election comes to a close, Fianna FÃ¡il has won 78 se
 
 1. [AP via the Philadelphia Daily News](http://www.philly.com/philly/wires/ap/news/world/7700932.html)
 2. [RTÉ](http://www.rte.ie/news/2007/0526/electionreax.html)
+2. [Cover Image](https://img.rasset.ie/0000e10f-1600.jpg)
 
 ### Related:
 

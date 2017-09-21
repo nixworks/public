@@ -8,6 +8,7 @@ The wreckage was found Saturday in 15,000 feet of water east of the Bahamas. El 
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/wreckage-east-bahamas-sunken-cargo-ship-el-faro-ntsb-confirms-n455871?cid=sm_tw&hootPostID=e560fa53c44150d9870627cb28749612)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_44/1247911/151003-el-faro-cargo-ship-mn-1125_61bd06232a634e5981d3e1616c40b8e1.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

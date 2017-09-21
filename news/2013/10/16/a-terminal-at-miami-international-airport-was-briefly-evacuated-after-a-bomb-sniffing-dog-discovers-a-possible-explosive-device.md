@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Miami Herald](http://www.miamiherald.com/2013/10/16/3692652/bomb-scare-evacuating-concourse.html)
+1. [Cover Image](http://www.miamiherald.com/static/images/miamiherald/facebook.jpg)
 
 ### Related:
 

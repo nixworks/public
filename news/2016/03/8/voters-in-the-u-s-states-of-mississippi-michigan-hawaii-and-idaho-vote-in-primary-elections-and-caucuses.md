@@ -14,6 +14,7 @@ Live presidential election results and maps.
 5. [The Independent](http://www.independent.co.uk/news/world/americas/us-elections/hillary-clinton-projected-to-win-in-mississippi-a6920506.html)
 6. [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/03/08/the-two-big-warning-signs-for-hillary-clinton-in-michigan/)
 7. [Washington Post](https://www.washingtonpost.com/politics/trump-wins-mississippi-michigan-primaries/2016/03/08/ecb576d6-e539-11e5-b0fd-073d5930a7b7_story.html)
+7. [Cover Image](https://int.nyt.com/applications/elections/2016/assets/87277bc9f26e/img/promo.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [CBC](http://www.cbc.ca/world/story/2006/04/27/israel-coalition060427.html)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-04-27T100748Z_01_L24771147_RTRUKOC_0_US-ISRAEL-COALITION.xml)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Furious Conservative MPs threatened to derail Nick Clegg&#039;s plans for an ele
 
 1. [The Independent](http://www.independent.co.uk/news/uk/politics/jeremy-hunt-branded-a-liar--but-he-escapes-investigation-7848926.html)
 2. [The Independent](http://www.independent.co.uk/news/uk/politics/the-observer-accessed-my-bank-account-says-alex-salmond-7848929.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/06/13/23/pg-2-hunt-getty.jpg)
 
 ### Related:
 

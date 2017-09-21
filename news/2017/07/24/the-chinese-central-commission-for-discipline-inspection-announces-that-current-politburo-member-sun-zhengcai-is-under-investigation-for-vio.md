@@ -8,6 +8,7 @@ Officials said Sun Zhengcai, fired this month as party secretary of the city of 
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/24/world/asia/china-xi-jinping-sun-zhengcai.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/25/world/25China-Sun/25China-Sun-facebookJumbo.jpg)
 
 ### Related:
 

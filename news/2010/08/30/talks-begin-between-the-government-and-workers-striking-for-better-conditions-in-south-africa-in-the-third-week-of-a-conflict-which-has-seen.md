@@ -10,6 +10,7 @@ The South African government begins talks with striking workers after President 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11129079)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE67T2S920100830)
 3. [TIMES Live](http://www.timeslive.co.za/business/article630645.ece/Government-silent-on-public-service-strike-offer)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

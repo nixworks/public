@@ -1,7 +1,7 @@
 ## [2004-07-26](/news/2004/07/26/index.md)
 
 ### [ The 2004 Democratic National Convention opens in Boston, Massachusetts. ](/news/2004/07/26/the-2004-democratic-national-convention-opens-in-boston-massachusetts.md)
-_Context: 2004 Democratic National Convention, Boston, Massachusetts_
+_Context: Boston, Massachusetts, Democratic Convention_
 
 ### [ A suicide bomber attacks near a U.S base in the northern city of Mosul, killing two civilians and an Iraqi security guard. Three U.S soldiers and an Iraqi security guard were wounded. The Iraqi interim Interior Ministry's Deputy Chief of Tribal Affairs, Col. Musab al-Awadi, is assassinated in Baghdad, along with two of his bodyguards. Insurgents kill two Iraqi women working as cleaners for British forces in Basra in southern Iraq. Militants threaten to kill two Jordanian truck drivers they captured within 72 hours if their Jordanian employer does not stop doing business with the U.S. military. ](/news/2004/07/26/a-suicide-bomber-attacks-near-a-u-s-base-in-the-northern-city-of-mosul-killing-two-civilians-and-an-iraqi-security-guard-three-u-s-soldie.md)
 _Context: Baghdad, Basra, Mosul, suicide bomber_

@@ -8,6 +8,7 @@ A military court sentences an Afghan soldier to death over the killing of five F
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18868260)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61612000/jpg/_61612130_61612129.jpg)
 
 ### Related:
 

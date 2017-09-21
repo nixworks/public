@@ -8,6 +8,7 @@ The hacking group Anonymous is alleged to have disrupted access to the Home Offi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17648852)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59560000/png/_59560285_homefoo.png)
 
 ### Related:
 

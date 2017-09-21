@@ -9,6 +9,7 @@ Palestinian boy and his sister killed in retaliatory airstrike by Israel
 
 1. [LA Times](http://www.latimes.com/world/middleeast/la-fg-gaza-airstrike-20160312-story.html)
 2. [Reuters](http://www.reuters.com/article/us-israel-palestinians-gaza-idUSKCN0WE09T)
+2. [Cover Image](http://www.trbimg.com/img-56e47039/turbine/la-fg-gaza-airstrike-20160312)
 
 ### Related:
 

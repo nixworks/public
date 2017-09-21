@@ -8,6 +8,7 @@ Mysterious &quot;incidents&quot; caused physical symptoms in at least 16 America
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-usa-cuba-diplomacy-idUSKCN1B42MJ)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170824&t=2&i=1198452515&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7N1VO)
 
 ### Related:
 

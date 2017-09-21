@@ -8,6 +8,7 @@ Fonterra New Zealand reveals it has faced blackmail threats to poison its infant
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2015-03-10/blackmailers-threaten-to-poison-new-zealand-milk/6294854)
+1. [Cover Image](http://www.abc.net.au/news/image/5502006-16x9-700x394.jpg)
 
 ### Related:
 

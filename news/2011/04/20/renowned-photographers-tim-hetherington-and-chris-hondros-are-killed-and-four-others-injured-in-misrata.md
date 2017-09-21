@@ -9,6 +9,7 @@ The Oscar-nominated British filmmaker and photojournalist Tim Hetherington and A
 
 1. [CBC](http://www.cbc.ca/news/world/story/2011/04/20/libya-gadhafi-un-nato-rebels.html)
 2. [IBN Live](http://ibnlive.in.com/generalnewsfeed/news/france-italy-to-send-officers-to-libya-to-train-rebels/655384.html)
+2. [Cover Image](https://i.cbc.ca/1.1983854.1381475039!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-852-hetherington-9169153.jpg)
 
 ### Related:
 

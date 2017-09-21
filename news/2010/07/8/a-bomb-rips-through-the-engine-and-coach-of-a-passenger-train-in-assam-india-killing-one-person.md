@@ -9,6 +9,7 @@
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/one-dead-in-indian-train-bomb-attack-20100708-101r6.html)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Child-dead-13-hurt-in-as-militants-blast-track-in-Assam/articleshow/6141334.cms)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

@@ -13,6 +13,7 @@ The legend at the Nou Camp reads &#034;mes que un club&#034; (more than a club) 
 4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/lionel-messi/7564309/Lionel-Messis-brilliance-is-an-inspiration-and-antidote-to-the-modern-game.html)
 5. [The Guardian](http://www.guardian.co.uk/football/2010/apr/07/lionel-messi)
 6. [The New York Times](http://www.nytimes.com/reuters/2010/04/07/sports/sports-uk-soccer-world-messi-maradona.html)
+6. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01611/lionel_messi2_1611519a.jpg)
 
 ### Related:
 

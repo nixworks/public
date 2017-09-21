@@ -9,6 +9,7 @@ Greek police fire tear gas to disperse hundreds of lorry drivers protesting in A
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10802239)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/29/greek-police-tear-gas-striking-truckers)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

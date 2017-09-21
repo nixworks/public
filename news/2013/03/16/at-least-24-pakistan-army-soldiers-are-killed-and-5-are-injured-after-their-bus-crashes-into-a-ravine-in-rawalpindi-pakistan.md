@@ -8,6 +8,7 @@ A BUS carrying Pakistani soldiers has crashed into a deep ravine, killing 24 and
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/soldiers-killed-in-pakistan-road-crash/story-e6frfkui-1226598836524)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ National Security Council meets to discuss plan to send in troops to set up buff
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/turkey/11706383/Turkey-planning-to-invade-Syria.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03358/turkey-forces_3358315k.jpg)
 
 ### Related:
 

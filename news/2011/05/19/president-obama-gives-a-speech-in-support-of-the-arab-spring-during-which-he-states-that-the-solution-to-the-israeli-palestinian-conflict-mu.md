@@ -9,6 +9,7 @@ President Obama has given his strongest support yet for the uprisings across the
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13465104)
 2. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/144338)
+2. [Cover Image](http://playlists.bbc.co.uk/news/world-us-canada-13465104A/playlist.sxml)
 
 ### Related:
 

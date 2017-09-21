@@ -11,6 +11,7 @@ Officials are today checking for damage after a huge earthquake rocked parts of 
 2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10584761)
 3. [RTÉ](http://www.rte.ie/news/2009/0715/newzealand.html)
 4. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009jcap.php)
+4. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/200929/qk_300x20036169.jpg)
 
 ### Related:
 

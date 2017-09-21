@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/07/tuscon-shooter-loughner-can-refuse-anti-psychotic-drugs-court-rules.html)
+1. [Cover Image](http://opinion.latimes.com/.a/6a00d8341c7de353ef0147e2124fda970b-120pi)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Assassinated Tunisian politician Chokri Belaid is buried after a funeral attende
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21381617)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65775000/jpg/_65775298_65mn2s3c.jpg)
 
 ### Related:
 

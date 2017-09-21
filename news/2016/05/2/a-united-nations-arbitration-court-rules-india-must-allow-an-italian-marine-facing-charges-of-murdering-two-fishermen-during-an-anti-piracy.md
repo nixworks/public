@@ -10,6 +10,7 @@ A UN arbitration tribunal has ruled in favour of Italian marine Girone by allowi
 1. [Firstpost](http://www.firstpost.com/india/italian-marine-italy-un-arbitration-tribunal-rules-in-favour-2760774.html)
 2. [Reuters](http://in.reuters.com/article/italy-india-arbitration-marines-idINKCN0XT0SO)
 3. [The Times of India](http://timesofindia.indiatimes.com/india/Italian-marine-Salvatore-Girone-can-return-home-India/articleshow/52080541.cms)
+3. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2016/05/ItalianMarines_AP_1May.jpg)
 
 ### Related:
 

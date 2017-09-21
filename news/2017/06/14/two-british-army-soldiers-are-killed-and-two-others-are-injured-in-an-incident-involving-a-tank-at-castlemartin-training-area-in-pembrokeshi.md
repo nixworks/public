@@ -9,6 +9,7 @@ A second soldier has died following an incident at a military firing range in Pe
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-south-west-wales-40282049)
 2. [The Independent](http://www.independent.co.uk/news/uk/home-news/pembrokeshire-incident-death-soldier-tank-regiment-firing-range-wales-a7792666.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/15/22/tank-british-military.jpg)
 
 ### Related:
 

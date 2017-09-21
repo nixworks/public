@@ -9,6 +9,7 @@ The President of the United States will arrive in Honolulu Wednesday evening, an
 
 1. [AP](http://bigstory.ap.org/article/98eb3aa05e4e44a2850212ca889215d3/storm-may-head-toward-hawaii-coinciding-obama-visit)
 2. [KHON-TV](http://khon2.com/2016/08/25/president-obama-to-arrive-in-honolulu-ahead-of-world-conservation-congress/)
+2. [Cover Image](https://lintvkhon.files.wordpress.com/2016/08/president-barack-obama-arrival.jpg?w=1200)
 
 ### Related:
 

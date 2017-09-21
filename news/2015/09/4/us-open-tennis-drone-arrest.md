@@ -8,6 +8,7 @@ A teacher in New York is arrested on charges of flying and crashing a drone into
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-34155773)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/EDEB/production/_85370906_028850237-1.jpg)
 
 ### Related:
 

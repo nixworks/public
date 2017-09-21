@@ -8,6 +8,7 @@ A woman who may be a Japanese cult member wanted for the 1995 gas attacks on the
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18316592)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60674000/jpg/_60674817_014929826-1.jpg)
 
 ### Related:
 

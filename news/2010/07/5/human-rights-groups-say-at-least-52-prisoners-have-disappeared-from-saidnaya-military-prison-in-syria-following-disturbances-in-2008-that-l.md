@@ -9,6 +9,7 @@ Two years after unrest in Saydnaya jail, relatives of 52 inmates await news of t
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107465823578458.html)
 2. [Khaleeej Times](http://www.khaleejtimes.ae/displayarticle.asp?xfile=data/middleeast/2010/July/middleeast_July69.xml&section=middleeast&col=)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -9,3 +9,4 @@ Colombian authorities say there is little chance of finding survivors after a sm
 
 1. [News24](http://www.news24.com/World/News/Colombia-plane-crashes-in-jungle-20140907)
 2. [eNCA](http://www.enca.com/little-chances-finding-survivor-amazon-plane-crash)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/208/84d92cae549e4ec89e5aa2c582229d08.jpg)

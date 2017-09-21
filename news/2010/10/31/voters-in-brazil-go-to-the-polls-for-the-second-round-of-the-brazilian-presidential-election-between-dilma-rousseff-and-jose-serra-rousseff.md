@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11662623)
 2. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/31/brazil.elections/index.html?eref=edition)
 3. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=374776&CategoryId=14090)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ British band Radiohead say they are &quot;shattered&quot; by the death of drum t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18484613)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60974000/jpg/_60974085_radiohead2.jpg)
 
 ### Related:
 

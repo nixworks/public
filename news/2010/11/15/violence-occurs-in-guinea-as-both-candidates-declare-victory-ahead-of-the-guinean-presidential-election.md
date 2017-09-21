@@ -9,6 +9,7 @@ Deadly violence flares in Guinea hours ahead of results of its first democratic 
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/violence-flares-in-guinea-amid-poll-result-20101116-17ulq.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/15/guinea.elections/index.html?eref=edition)
+2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

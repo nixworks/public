@@ -8,6 +8,7 @@ People in the Republic of Khakassia in southwest Siberia witnessed a large fireb
 ### Source:
 
 1. [Russia Today](https://www.rt.com/news/369379-siberia-meteorite-blast-video/)
+1. [Cover Image](https://img.rt.com/files/2016.12/article/5846d6bcc36188c75f8b45ab.jpg)
 
 ### Related:
 

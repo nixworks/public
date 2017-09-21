@@ -8,6 +8,7 @@ Qantas passengers face likely disruptions to flights after the airline&#039;s 16
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/qantas-engineers--to-strike-this-week-20110509-1ef6u.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/c/6/w/8/image.related.thumbnail.320x214.1ef6u.png/1304931831570.jpg)
 
 ### Related:
 

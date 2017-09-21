@@ -8,6 +8,7 @@ Police have rescued more than 50 boys, some in shackles, from a warren of rooms 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8953925/Police-rescue-50-boys-from-Karachi-madrassah-dungeon.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02083/kar_2083380a.jpg)
 
 ### Related:
 

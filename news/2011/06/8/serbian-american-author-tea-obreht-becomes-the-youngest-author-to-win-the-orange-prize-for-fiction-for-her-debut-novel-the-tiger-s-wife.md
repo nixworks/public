@@ -8,6 +8,7 @@ T&eacute;a Obreht, the little-known 25 year-old Serbian-American author, was the
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/culture/books/bookprizes/8563735/Orange-Prize-won-by-relative-unknown-Tea-Obreht.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01870/T_a_Obreht_1870630a.jpg)
 
 ### Related:
 

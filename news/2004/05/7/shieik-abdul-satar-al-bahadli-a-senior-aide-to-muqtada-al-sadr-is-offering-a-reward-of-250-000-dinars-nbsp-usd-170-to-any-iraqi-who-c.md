@@ -12,6 +12,7 @@
 3. [NYT](http://www.nytimes.com/2004/05/07/international/middleeast/07CND-IRAQ.html)
 4. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=topNews&storyID=506669&section=news)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5077399)
+5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

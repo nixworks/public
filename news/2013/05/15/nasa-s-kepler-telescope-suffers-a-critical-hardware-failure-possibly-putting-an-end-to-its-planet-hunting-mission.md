@@ -8,6 +8,7 @@ NASA’s planet-hunting Kepler space telescope has shut down due to an apparent 
 ### Source:
 
 1. [Discovery News](http://news.discovery.com/space/alien-life-exoplanets/kepler-exoplanet-mission-problems-130515.htm)
+1. [Cover Image](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5154340%2F980x.jpg/2000%2C2000/e80YGbUDYbl36wan/img.jpg)
 
 ### Related:
 

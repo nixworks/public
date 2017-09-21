@@ -9,6 +9,7 @@ At least 12 civilians, including five children, have been killed by a roadside b
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12659300)
 2. [RIA Novosti](http://en.rian.ru/world/20110306/162888570.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

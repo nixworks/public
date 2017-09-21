@@ -8,6 +8,7 @@ Canadian homes and businesses will start receiving mail again Tuesday after legi
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2011/06/26/canada-post.html)
+1. [Cover Image](https://i.cbc.ca/1.1952242.1381385595!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-postal-workers-halifax-852-cp-00874456.jpg)
 
 ### Related:
 

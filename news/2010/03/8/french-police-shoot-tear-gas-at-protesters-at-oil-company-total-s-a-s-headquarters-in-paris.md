@@ -8,6 +8,7 @@ Officers use tear gas after violent demonstrations over closing of Total oil dep
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/20103819532639609.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,3 +8,4 @@ A collector pays what is said to be a record price for a block of four Chinese s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12617685)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -9,6 +9,7 @@ The Mexican Supreme Court declared Wednesday that people should have the right t
 
 1. [Fox News Latino](http://latino.foxnews.com/latino/news/2015/11/04/mexican-supreme-court-opens-door-to-recreational-marijuana-use-with-new-ruling/)
 2. [Reuters](http://www.reuters.com/article/2015/11/04/us-mexico-drugs-idUSKCN0ST2TY20151104)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/11/04/mexican-supreme-court-opens-door-to-recreational-marijuana-use-with-new-ruling/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1480708656465.jpg?ve=1)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Up to 26 people were injured, three seriously, when a Luas tram collided with a 
 2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/ireland/at-least-16-injured-in-dublin-busluas-crash-14495297.html)
 3. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5hFu6mhrpWVkj9fuHtzD4YqpHUDGw)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0916/breaking50.html?via=mr)
+4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

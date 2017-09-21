@@ -8,6 +8,7 @@ TEHRAN, Iran (AP) — A billionaire businessman at the heart of a $2.6 billion s
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/money/business/2014/05/24/iran-billionaire-executed-over-26b-bank-fraud/9535639/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

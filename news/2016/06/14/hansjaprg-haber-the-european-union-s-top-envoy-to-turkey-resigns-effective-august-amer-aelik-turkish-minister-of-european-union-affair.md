@@ -9,6 +9,7 @@
 
 1. [Prensa Latina](http://www.plenglish.com/index.php?option=com_content&task=view&id=4974181&Itemid=1)
 2. [Reuters](http://www.reuters.com/article/us-europe-turkey-envoy-idUSKCN0Z00U9)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160614&t=2&i=1141280119&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5D0FT)
 
 ### Related:
 

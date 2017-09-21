@@ -8,6 +8,7 @@ President Hugo Chavez&#039;s allies have won a sweeping victory in Venezuela&#03
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/venezuela/9749433/Venezuela-allies-of-Hugo-Chavez-sweep-to-victory-in-state-elections.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02362/chavez-victory_2362865k.jpg)
 
 ### Related:
 

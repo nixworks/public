@@ -8,6 +8,7 @@ WA residents in the north-west Pilbara region are bracing for strong wind gusts 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-01-30/pilbara-towns-brace-for-tropical-cyclone-stan/7126548)
+1. [Cover Image](http://www.abc.net.au/news/image/7127328-1x1-700x700.jpg)
 
 ### Related:
 

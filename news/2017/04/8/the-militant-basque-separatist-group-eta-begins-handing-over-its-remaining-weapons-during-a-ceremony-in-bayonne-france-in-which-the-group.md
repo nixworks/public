@@ -8,6 +8,7 @@ Weapons caches laid down by the Basque separatist group Eta are now being search
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39536136)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/2201/production/_95550780_hi038907391.jpg)
 
 ### Related:
 

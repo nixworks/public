@@ -9,6 +9,7 @@ Heavy firing is on at an army base in Tangdhar near the border in Jammu and Kash
 
 1. [NDTV](http://www.ndtv.com/india-news/firing-at-army-camp-in-jammu-and-kashmirs-tanghdhar-sector-1247318)
 2. [Reuters](http://in.reuters.com/article/2015/11/25/india-kashmir-terrorists-idINKBN0TE0BN20151125)
+2. [Cover Image](http://i.ndtvimg.com/i/2015-11/jammu-kashmir-tangdhar_650x400_81448430772.jpg)
 
 ### Related:
 

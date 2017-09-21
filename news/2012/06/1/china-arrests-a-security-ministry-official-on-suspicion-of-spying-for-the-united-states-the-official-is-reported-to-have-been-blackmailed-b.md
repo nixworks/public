@@ -8,6 +8,7 @@ A Chinese security ministry official has been arrested on suspicion of spying fo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-18299065)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60646000/jpg/_60646295_chinausflags.jpg)
 
 ### Related:
 

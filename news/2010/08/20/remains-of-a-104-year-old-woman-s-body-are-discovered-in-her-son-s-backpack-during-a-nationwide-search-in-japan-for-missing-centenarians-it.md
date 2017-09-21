@@ -9,6 +9,7 @@ The remains of a Japanese woman are found in a backpack, police say, as they sea
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jLjXlOvLKK3ZRqvPb3cHLWYxVIFA)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11039196)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

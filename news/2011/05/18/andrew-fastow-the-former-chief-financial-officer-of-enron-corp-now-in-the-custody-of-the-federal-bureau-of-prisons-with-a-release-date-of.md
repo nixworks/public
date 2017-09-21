@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/18/us-enron-fastow-idUSTRE74H4D420110518)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110518&t=2&i=417243695&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-18T151803Z_01_BTRE74H16IP00_RTROPTP_0_ENRON-FASTOW)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19310088)
 2. [Reuters](http://www.reuters.com/article/2012/08/19/us-russia-caucasus-idUSBRE87I01F20120819)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62366000/gif/_62366487_russia_dagestan_khasavyurt_aug12.gif)
 
 ### Related:
 

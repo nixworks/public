@@ -8,6 +8,7 @@ Nepalis began voting in the second round of local elections on Wednesday, a key 
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-nepal-election-idUSKBN19J0DO)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

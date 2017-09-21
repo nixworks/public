@@ -10,6 +10,7 @@ Russian jets bomb rebel positions in Syria including rural areas near the north-
 1. [Reuters](http://www.reuters.com/article/2015/10/01/us-mideast-crisis-syria-iranians-exclusi-idUSKCN0RV4DN20151001)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/11903702/Russias-Vladimir-Putin-launches-strikes-in-Syria-on-Isil-to-US-anger-live-updates.html)
 3. [Times Live](http://www.timeslive.co.za/world/2015/10/01/Iraqi-PM-prepared-to-consider-Russian-air-strikes-on-IS-in-Iraq)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03459/homs1_3459329k.jpg)
 
 ### Related:
 

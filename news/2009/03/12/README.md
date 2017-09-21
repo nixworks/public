@@ -4,7 +4,7 @@
 _Context: China, retail sales_
 
 ### [ Iraqi journalist Muntadhar al-Zaidi is sentenced to three years in prison for throwing shoes at then-United States President George W. Bush. ](/news/2009/03/12/iraqi-journalist-muntadhar-al-zaidi-is-sentenced-to-three-years-in-prison-for-throwing-shoes-at-then-united-states-president-george-w-bush.md)
-_Context: George W. Bush, Iraq, Muntadhar al-Zaidi, President, United States, throws a shoe_
+_Context: George W. Bush, Iraq, Muntadhar al-Zaidi, U.S. President, United States, throws a shoe_
 
 ### [ National Semiconductor will cut 1,725 jobs. ](/news/2009/03/12/national-semiconductor-will-cut-1-725-jobs.md)
 _Context: National Semiconductor, layoff_

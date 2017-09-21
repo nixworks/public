@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-tesaro-fda-idUSKBN16Y2G2)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170327&t=2&i=1178249333&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2Q1JP)
 
 ### Related:
 

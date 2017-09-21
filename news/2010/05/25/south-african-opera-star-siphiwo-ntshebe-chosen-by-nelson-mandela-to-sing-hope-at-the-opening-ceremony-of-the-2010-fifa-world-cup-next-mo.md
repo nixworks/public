@@ -12,6 +12,7 @@ A South African opera star chosen by Nelson Mandela to sing at the opening of th
 3. [IOL](http://www.iol.co.za/index.php?set_id=6&click_id=2871&art_id=nw20100526164956343C941404)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/world-cup-2010/7767479/South-Africas-World-Cup-tenor-dies-on-eve-of-tournament.html)
 5. [The Guardian](http://www.guardian.co.uk/world/2010/may/26/siphiwo-ntshebe-dies)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ SINGAPORE and Malaysia announced that they will build a high-speed rail link bet
 ### Source:
 
 1. [AAP via News Limited](http://www.news.com.au/business/breaking-news/singapore-malaysia-to-build-rail-link/story-e6frfkur-1226581279200)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

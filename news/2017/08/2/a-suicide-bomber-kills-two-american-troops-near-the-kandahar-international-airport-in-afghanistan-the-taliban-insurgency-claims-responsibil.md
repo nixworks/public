@@ -8,6 +8,7 @@ A suicide bomb attack killed two American troops in Afghanistan on Wednesday as 
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-afghanistan-attack-nato-idUSKBN1AI14S)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170802&t=2&i=1195510409&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED711G6)
 
 ### Related:
 

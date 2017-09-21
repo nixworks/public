@@ -8,6 +8,7 @@ The resolution of the $100 million case was reported by THR last week.
 ### Source:
 
 1. [Hollywood Reporter](http://www.hollywoodreporter.com/thr-esq/official-charlie-sheen-settles-lawsuit-240214)
+1. [Cover Image](http://cdn3.thr.com/sites/default/files/2011/03/sheen-car-2011-a-p.jpg)
 
 ### Related:
 

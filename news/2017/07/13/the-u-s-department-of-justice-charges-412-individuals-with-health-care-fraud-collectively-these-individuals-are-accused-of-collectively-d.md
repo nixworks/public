@@ -9,6 +9,7 @@ About a third of the defendants are accused of opioid-related crimes. Other accu
 
 1. [NPR](http://www.npr.org/2017/07/13/537040114/senate-gop-releases-revised-affordable-care-act-repeal-and-replace-plan)
 2. [The New York Times](https://www.nytimes.com/2017/07/13/us/politics/health-care-fraud.html)
+2. [Cover Image](https://static01.nyt.com/images/2017/07/14/us/14dc-fraud/14dc-fraud-facebookJumbo.jpg)
 
 ### Related:
 

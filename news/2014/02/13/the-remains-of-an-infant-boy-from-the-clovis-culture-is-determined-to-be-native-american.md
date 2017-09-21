@@ -8,6 +8,7 @@ The mysterious Clovis culture, which appeared in North America about 13,000 year
 ### Source:
 
 1. [NPR](http://www.npr.org/2014/02/13/276021092/ancient-dna-ties-native-americans-from-two-continents-to-clovis)
+1. [Cover Image](https://media.npr.org/assets/img/2014/02/12/cover3b_wide-112888e24bf9bc35b11e83a9bd0498e74baee74b.jpg?s=1400)
 
 ### Related:
 

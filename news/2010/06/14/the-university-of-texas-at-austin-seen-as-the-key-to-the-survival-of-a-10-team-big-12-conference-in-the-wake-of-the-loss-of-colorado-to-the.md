@@ -8,6 +8,7 @@ Texas will remain a Big 12 Conference member, the university announced on Monday
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/ncaa/news/story?id=5286672)
+1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F2641.png)
 
 ### Related:
 

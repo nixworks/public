@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19540325)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62809000/jpg/_62809520_120910184845_somalia_president_304x171_other_nocredit.jpg)
 
 ### Related:
 

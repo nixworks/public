@@ -8,6 +8,7 @@ Federal and state prosecutors on Thursday announced charges against 10 men, incl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-new-york-corruption-idUSKCN11S1E3)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160922&t=2&i=1154619700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8L1NL)
 
 ### Related:
 

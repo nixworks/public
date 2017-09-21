@@ -8,6 +8,7 @@ All escaped exotic animals from Ohio private farm accounted for; Final death tol
 ### Source:
 
 1. [CBS/AP](http://www.cbsnews.com/stories/2011/10/19/national/main20122916.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/10/19/a05fce5f-a643-11e2-a3f0-029118418759/exotic_animals_AP1110190123.jpg)
 
 ### Related:
 

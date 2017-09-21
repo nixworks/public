@@ -9,6 +9,7 @@ The suspected gunman in a Las Vegas shooting and multiple car crash that left th
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21625414)
 2. [KLAS-TV](http://www.8newsnow.com/story/21428368/breaking-news-ammar-harris)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66137000/jpg/_66137889_66137888.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ ISLAMABAD (Online) - The United States has offered help to probe the terrorist a
 ### Source:
 
 1. [The Daily Pakistan](http://en.dailypakistan.com.pk/pakistan/us-offers-help-to-probe-attock-terrorist-attack-incident/)
+1. [Cover Image](https://en.dailypakistan.com.pk/wp-content/uploads/2015/08/Px16-0441.jpg)
 
 ### Related:
 

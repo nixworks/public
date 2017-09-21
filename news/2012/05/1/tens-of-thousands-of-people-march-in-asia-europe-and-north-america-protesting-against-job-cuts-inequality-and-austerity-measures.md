@@ -13,6 +13,7 @@ Tens of thousands of people take to the streets across the globe, protesting aga
 4. [MSNBC](http://usnews.msnbc.msn.com/_news/2012/05/01/11487362-occupy-protesters-rally-on-may-day-in-new-york-london?lite)
 5. [Reuters](http://www.reuters.com/article/2012/05/02/usa-occupy-may-idUSL1E8G1E0N20120502)
 6. [The Guardian](http://www.guardian.co.uk/world/2012/may/01/may-day-occupy-protests-live?newsfeed=true)
+6. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/1/201251102942621734_20.jpg)
 
 ### Related:
 

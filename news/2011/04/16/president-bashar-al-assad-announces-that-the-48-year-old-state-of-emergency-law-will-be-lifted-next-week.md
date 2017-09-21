@@ -14,6 +14,7 @@ Fighting escalates in the Libyan port of Misrata and elsewhere as government for
 5. [Syrian Arab News Agency](http://www.sana.sy/eng/21/2011/04/17/341983.htm)
 6. [The Guardian](http://www.guardian.co.uk/world/2011/apr/16/bashar-al-assad-syria)
 7. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/After-Nato-push-Libya-rebels-on-the-ascent/articleshow/8002873.cms)
+7. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52206000/jpg/_52206599_011778584-1.jpg)
 
 ### Related:
 

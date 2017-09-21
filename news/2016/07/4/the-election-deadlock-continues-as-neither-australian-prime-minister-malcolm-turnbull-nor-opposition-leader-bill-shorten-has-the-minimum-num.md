@@ -9,6 +9,7 @@ UPDATED 8.15am The head of one of Australia&#39;s biggest accounting firms says 
 
 1. [Newstalk ZB](http://www.newstalkzb.co.nz/news/world/vote-counting-continues-in-australias-neck-and-neck-election/)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/07/04/Australian-PM-Malcolm-Turnbull-urged-to-quit-after-cliff-hanger-election/2641467662987/?spt=hs&or=tn_int)
+2. [Cover Image](/media/15637450/malcolm-turnbull-and-bill-shorten-shake-hands-getty.jpg)
 
 ### Related:
 

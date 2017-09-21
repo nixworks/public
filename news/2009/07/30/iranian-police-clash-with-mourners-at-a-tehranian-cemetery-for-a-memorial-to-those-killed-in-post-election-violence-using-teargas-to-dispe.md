@@ -9,6 +9,7 @@ Iranian riot police have clashed with mourners who gathered at a cemetery to com
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8175764.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0730/iran.html)
+2. [Cover Image](https://img.rasset.ie/00025ef1-1600.jpg)
 
 ### Related:
 

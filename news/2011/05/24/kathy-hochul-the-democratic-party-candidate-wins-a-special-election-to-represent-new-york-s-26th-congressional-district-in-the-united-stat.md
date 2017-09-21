@@ -9,6 +9,7 @@ The morning after Democrat Kathy Hochul used the Medicare issue to win what had 
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43161820/ns/politics-capitol_hill/t/democrat-wins-house-election-medicare-issue/)
 2. [New York Times](http://thecaucus.blogs.nytimes.com/2011/05/24/heavy-turnout-in-new-york-congressional-election/)
+2. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_mj_ryan_110525.standard.jpg)
 
 ### Related:
 

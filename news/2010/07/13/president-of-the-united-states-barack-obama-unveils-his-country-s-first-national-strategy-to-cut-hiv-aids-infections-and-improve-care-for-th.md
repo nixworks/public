@@ -8,6 +8,7 @@ US President Barack Obama has rolled out a new national strategy to cut HIV/AIDS
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/obama-vows-to-cut-hiv-infections-20100714-10abs.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

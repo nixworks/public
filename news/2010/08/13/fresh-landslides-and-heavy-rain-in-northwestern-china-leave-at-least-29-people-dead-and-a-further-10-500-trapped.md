@@ -10,6 +10,7 @@ Torrential rain brings landslides to more areas in China, as relief teams in dev
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10961252)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-08/13/content_11150675.htm)
 3. [Reuters](http://www.reuters.com/article/idUSTOE67C01T._CH_.2400)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

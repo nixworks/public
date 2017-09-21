@@ -10,6 +10,7 @@ France begins taking down illegal Roma camps in line with a presidential order, 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10892669)
 2. [Expatica France](http://www.expatica.com/fr/news/local_news/france-sarkozy-s-gypsy-crackdown-begins_88330.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0806/1224276308471.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

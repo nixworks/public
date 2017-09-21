@@ -10,6 +10,7 @@ The funeral for Const. Garrett Styles, the Ontario police officer who was dragge
 1. [CBC](http://www.cbc.ca/news/canada/toronto/story/2011/06/29/styles-officer-tributes548.html)
 2. [The Hamilton Spectator](http://www.thespec.com/news/article/558183--thousands-gather-for-police-funeral)
 3. [The Toronto Star](http://livenews.thestar.com/Event/Funeral_for_Const_Garrett_Styles)
+3. [Cover Image](https://i.cbc.ca/1.1949851.1381384431!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-styles-york.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Anders Behring Breivik, who killed 77 people in a bomb blast and gun rampage in 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/norway/8924092/Norway-killer-Anders-Behring-Breivik-to-escape-jail-after-declared-insane.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02026/brei_2026010a.jpg)
 
 ### Related:
 

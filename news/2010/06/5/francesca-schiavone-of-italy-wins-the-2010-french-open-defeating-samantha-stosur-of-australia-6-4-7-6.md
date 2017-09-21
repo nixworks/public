@@ -8,6 +8,7 @@ time grand slam winner since 1969
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/idUKLDE6540BC20100605)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

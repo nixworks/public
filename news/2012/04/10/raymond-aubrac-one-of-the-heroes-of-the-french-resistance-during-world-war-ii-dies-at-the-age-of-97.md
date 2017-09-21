@@ -8,6 +8,7 @@ One of the leading figures of the French resistance against the Nazis, Raymond A
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17674554)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58143000/jpg/_58143614_aubrac4_464.jpg)
 
 ### Related:
 

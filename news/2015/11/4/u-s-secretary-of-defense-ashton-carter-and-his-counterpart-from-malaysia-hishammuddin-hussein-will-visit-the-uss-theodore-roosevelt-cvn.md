@@ -8,6 +8,7 @@ Defense Secretary Ash Carter and Malaysian Defense Minister Hishammuddin Hussein
 ### Source:
 
 1. [Stars and Stripes](http://www.stripes.com/news/pacific/carter-malaysian-counterpart-to-visit-uss-theodore-roosevelt-1.376887)
+1. [Cover Image](https://www.stripes.com/polopoly_fs/1.373892.1445182297!/image/image.jpg_gen/derivatives/landscape_490/image.jpg)
 
 ### Related:
 

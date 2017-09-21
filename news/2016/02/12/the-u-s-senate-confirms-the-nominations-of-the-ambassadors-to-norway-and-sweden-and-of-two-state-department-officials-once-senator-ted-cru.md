@@ -11,6 +11,7 @@ The Senate on Friday confirmed a handful of ambassadors and State Department off
 2. [NBC News](http://www.nbcnews.com/news/us-news/ambassadors-sweden-norway-confirmed-sen-cruz-lifts-hold-n517671)
 3. [St. Paul Pioneer Press](http://www.twincities.com/2016/02/12/minneapolis-lawyer-ambassador-norway/)
 4. [State](http://www.state.gov/secretary/remarks/2016/02/252468.htm)
+4. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_05/1402761/160204-ted-cruz-jpo-232a_24c339b6d6bac1ce874785a599285fc8.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

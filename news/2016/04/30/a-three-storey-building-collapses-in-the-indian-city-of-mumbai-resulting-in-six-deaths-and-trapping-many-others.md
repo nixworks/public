@@ -8,6 +8,7 @@ Five people were rescued from the debris of the building in Kamathipura area of 
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/mumbai/Building-collapses-in-Mumbai-6-dead-several-trapped/articleshow/52053823.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/52053850.cms)
 
 ### Related:
 

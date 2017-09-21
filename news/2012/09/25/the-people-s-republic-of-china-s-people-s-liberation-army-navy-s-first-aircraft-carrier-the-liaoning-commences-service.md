@@ -8,6 +8,7 @@ China says its first aircraft carrier - a refurbished Soviet ship - has entered 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19710040#)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63090000/jpg/_63090876_016073982-1.jpg)
 
 ### Related:
 

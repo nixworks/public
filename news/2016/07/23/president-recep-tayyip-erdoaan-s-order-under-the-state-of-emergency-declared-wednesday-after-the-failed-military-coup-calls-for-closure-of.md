@@ -8,6 +8,7 @@ President Tayyip Erdogan tightened his grip on Turkey on Saturday, ordering the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-security-emergency-idUSKCN1030BC)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160723&t=2&i=1146782784&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6M0NO)
 
 ### Related:
 

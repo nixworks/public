@@ -9,6 +9,7 @@ Once in a while, the global health news is good. Today is one of those days. The
 
 1. [The New York Times](http://www.nytimes.com/2016/09/28/health/measles-eradication-united-states.html?_r=0)
 2. [UN Dispatch](http://www.undispatch.com/deadly-child-killing-disease-just-eradicated-entire-hemisphere/)
+2. [Cover Image](http://www.undispatch.com/un-content/uploads/2016/09/measles.jpg)
 
 ### Related:
 

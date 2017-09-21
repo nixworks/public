@@ -8,6 +8,7 @@ As expected, Enawo made a disastrous landfall Tuesday.
 ### Source:
 
 1. [The Weather Channel](https://weather.com/storms/hurricane/news/tropical-cyclone-enawo-madagascar-forecast)
+1. [Cover Image](http://s.w-x.co/enawo-landfall-close-7mar17.jpg)
 
 ### Related:
 

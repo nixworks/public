@@ -8,3 +8,4 @@ Tributes are paid to Sir John Tavener, one of the leading British composers of t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-24919332)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68302000/jpg/_68302818_get.jpg)

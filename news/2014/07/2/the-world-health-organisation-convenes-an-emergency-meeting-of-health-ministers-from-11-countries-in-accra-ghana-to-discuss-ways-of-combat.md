@@ -8,6 +8,7 @@ Health ministers from 11 African countries are meeting in Accra, Ghana, in an at
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/health-28108668#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75981000/jpg/_75981893_75981892.jpg)
 
 ### Related:
 

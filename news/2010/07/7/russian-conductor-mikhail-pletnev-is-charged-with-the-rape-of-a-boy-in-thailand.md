@@ -8,6 +8,7 @@ Famed Russian conductor Mikhail Pletnev has been charged in Thailand with raping
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/russian-conductor-charged-with-raping-boy-in-thailand-20100707-100cg.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

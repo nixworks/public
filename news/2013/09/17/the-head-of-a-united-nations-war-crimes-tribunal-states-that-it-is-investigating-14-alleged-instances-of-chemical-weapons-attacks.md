@@ -8,6 +8,7 @@ Today&#39;s latest news from the civil war in Syria with Al Jazeera’s exclusiv
 ### Source:
 
 1. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/topic/syria-153)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

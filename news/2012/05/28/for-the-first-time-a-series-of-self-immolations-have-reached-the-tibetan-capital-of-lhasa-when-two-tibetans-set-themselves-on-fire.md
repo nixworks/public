@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/20125285056419618.html)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/china/2-Tibetans-set-selves-on-fire-in-Lhasa/articleshow/13589591.cms)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/28/20125285480790734_20.jpg)
 
 ### Related:
 

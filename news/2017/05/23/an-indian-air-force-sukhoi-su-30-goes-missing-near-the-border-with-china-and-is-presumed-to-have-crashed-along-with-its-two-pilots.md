@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/iaf-sukhoi-30-aircraft-goes-missing-in-assam/articleshow/58804639.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/msid-58804618/58804618.jpg?51823)
 
 ### Related:
 

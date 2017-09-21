@@ -8,6 +8,7 @@ Anti-American violence flared Friday across North Africa and the Middle East, wi
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2012/09/14/violent-protests-across-middle-east-target-embassies-pope-visit-to-lebanon/)
+1. [Cover Image](http://a57.foxnews.com/video.foxnews.com/thumbnails/091412/640/360/0/0/091412_vittert_egypt_640.jpg?ve=1)
 
 ### Related:
 

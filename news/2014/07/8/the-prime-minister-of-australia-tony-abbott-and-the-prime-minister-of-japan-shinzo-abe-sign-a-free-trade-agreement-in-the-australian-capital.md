@@ -8,6 +8,7 @@ Japan&#039;s PM Shinzo Abe says Australia and his nation are joined like players
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-07-08/australia2c-japan-to-sign-economic-partnership-agreement/5580738)
+1. [Cover Image](http://www.abc.net.au/news/image/5581058-1x1-700x700.jpg)
 
 ### Related:
 

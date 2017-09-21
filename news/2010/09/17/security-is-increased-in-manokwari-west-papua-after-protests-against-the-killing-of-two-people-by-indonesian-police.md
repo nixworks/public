@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11341819?utm)
 2. [Jakarta Globe](http://www.thejakartaglobe.com/home/soldiers-patrol-papua-town-after-deadly-police-shooting/396562)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

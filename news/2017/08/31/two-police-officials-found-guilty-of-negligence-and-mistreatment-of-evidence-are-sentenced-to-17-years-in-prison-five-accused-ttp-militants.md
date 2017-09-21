@@ -8,6 +8,7 @@ Former military dictator has property confiscated as anti-terror court jails two
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/aug/31/pakistan-benazir-bhutto-two-jailed)
+1. [Cover Image](https://i.guim.co.uk/img/media/ec7541230abc98691a83ee7694f8c9aff03af170/0_39_2380_1427/master/2380.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f0865bf5fb02e209e8a6f8708ed93017)
 
 ### Related:
 

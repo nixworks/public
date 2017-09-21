@@ -8,6 +8,7 @@ Seattle Mariners outfielder Greg Halman was stabbed to death early Monday and hi
 ### Source:
 
 1. [AP via BET](http://www.bet.com/news/sports/2011/11/21/seattle-mariners-outfielder-greg-halman-killed.html)
+1. [Cover Image](http://www.bet.com/news/sports/2011/11/21/seattle-mariners-outfielder-greg-halman-killed/_jcr_content/image.custom1200x600.dimg/__1321904273138/11212011-sports-greg-halman.jpg)
 
 ### Related:
 

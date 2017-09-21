@@ -8,6 +8,7 @@ Tata group-owned Jaguar Land Rover (JLR) is planning to raise up to &pound;1 bil
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/Business/Tata-to-raise-1bn-to-keep-JLR-afloat/articleshow/4507352.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

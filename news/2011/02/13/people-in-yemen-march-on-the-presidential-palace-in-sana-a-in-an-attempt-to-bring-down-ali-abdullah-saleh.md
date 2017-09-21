@@ -12,6 +12,7 @@ About 2,000 demonstrators clash with police in the Yemeni capital Sanaa in the t
 3. [Reuters](http://www.reuters.com/article/2011/02/13/us-yemen-idUSTRE71C0L520110213)
 4. [The Asian Age](http://www.asianage.com/international/yemeni-protesters-march-palace-363)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/13/c_13730385.htm)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

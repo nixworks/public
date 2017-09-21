@@ -8,6 +8,7 @@ A “constitutional dispute” between President Hassan Sheik Mohamud and Prime 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/12/03/world/africa/somali-parliament-votes-to-remove-prime-minister.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

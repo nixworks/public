@@ -9,6 +9,7 @@ Two&#x20;French&#x20;nationals&#x20;who&#x20;were&#x20;kidnapped&#x20;in&#x20;a&
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201118185654175197.html)
 2. [France 24](http://www.france24.com/en/20110108-two-french-hostages-seized-niamey-restaurant-killed-niger-mali-border-found-dead)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/0801_toulousain_niamey_3.jpg)
 
 ### Related:
 

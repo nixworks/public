@@ -10,6 +10,7 @@ Soldiers are deployed to help with the rescue and the identification of bodies i
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/20111140122621565.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-12200299)
 3. [Xinhua](http://news.xinhuanet.com/english2010/video/2011-01/15/c_13692233.htm)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Monrovia middle school was on lockdown Monday afternoon after a man called pol
 ### Source:
 
 1. [KTLA5](http://ktla.com/2013/09/09/monrovia-middle-school-on-lockdown-swat-team-responding/#2JIKGqpRcMIdHPgf.01)
+1. [Cover Image](http://tribktla.files.wordpress.com/2013/09/santa-fe-ms.jpg?w=300)
 
 ### Related:
 

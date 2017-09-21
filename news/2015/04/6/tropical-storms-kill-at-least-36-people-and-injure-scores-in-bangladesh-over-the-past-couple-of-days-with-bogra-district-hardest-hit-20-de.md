@@ -8,6 +8,7 @@ Separate tropical storms that have swept through parts of Bangladesh have left a
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/04/06/separate-tropical-storms-lash-bangladesh-leave-at-least-36-dead-and-dozens-hurt/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/04/06/separate-tropical-storms-lash-bangladesh-leave-at-least-36-dead-and-dozens-hurt/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1449942042742.jpg?ve=1)
 
 ### Related:
 

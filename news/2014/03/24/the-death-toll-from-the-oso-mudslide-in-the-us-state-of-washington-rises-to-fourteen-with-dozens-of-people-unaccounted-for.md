@@ -8,6 +8,7 @@ OSO, Wash. (AP) — Authorities say the death toll from a massive landslide in W
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/sheriff-death-toll-washington-slide-now-14-235325527.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/H0NYBHrDLkKnyxIwhhjwJg--/aD0zMDA7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/c42ae7eb69fe82a707a680eeaab63831)
 
 ### Related:
 

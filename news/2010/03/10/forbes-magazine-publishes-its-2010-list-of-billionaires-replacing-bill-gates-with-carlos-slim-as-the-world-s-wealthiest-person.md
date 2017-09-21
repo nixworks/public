@@ -8,6 +8,7 @@ Carlos Slim Helu takes No. 1 spot on Forbes World&#39;s Billionaires list as a r
 ### Source:
 
 1. [Forbes](http://www.forbes.com/2010/03/09/worlds-richest-people-slim-gates-buffett-billionaires-2010-intro.html)
+1. [Cover Image](https://i.forbesimg.com/media/assets/forbes_1200x1200.jpg)
 
 ### Related:
 

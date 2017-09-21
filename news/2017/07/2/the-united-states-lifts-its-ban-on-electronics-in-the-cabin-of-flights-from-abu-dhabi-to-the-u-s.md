@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-airlines-electronics-emirates-idUSKBN19N0UR)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20170702&t=2&i=1191360819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED610S0)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The number of Americans living in states covered by same-sex marriage laws has m
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/POLITICS/06/25/new.york.gay.marriage/index.html?hpt=hp_t1)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/POLITICS/06/25/new.york.gay.marriage/tzvids.stonewallcelebrate.gi.jpg)
 
 ### Related:
 

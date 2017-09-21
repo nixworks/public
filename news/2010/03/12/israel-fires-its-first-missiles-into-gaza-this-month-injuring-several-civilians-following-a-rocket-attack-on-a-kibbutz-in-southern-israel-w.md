@@ -20,6 +20,7 @@ In response to rocket fired at Eshkol Regional Council, Israeli jets strikes smu
 11. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/12/c_13208622.htm)
 12. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/13/c_13208661.htm)
 13. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3861651,00.html)
+13. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

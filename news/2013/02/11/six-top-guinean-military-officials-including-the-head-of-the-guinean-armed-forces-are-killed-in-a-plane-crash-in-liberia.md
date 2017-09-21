@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/11/us-liberia-guinea-crash-idUSBRE91A13D20130211)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130211&t=2&i=703027793&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91A1PF900)
 
 ### Related:
 

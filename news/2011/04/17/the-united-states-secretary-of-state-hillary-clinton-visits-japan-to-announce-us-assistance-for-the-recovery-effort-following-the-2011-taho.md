@@ -8,6 +8,7 @@ Hillary Clinton announces joint reconstruction plans as she visits Japan to show
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13107532)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52207000/jpg/_52207265_011780895-2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Two Croatian military leaders are jailed for war crimes committed in the 1990s, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13092438)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52185000/jpg/_52185497_52185496.jpg)
 
 ### Related:
 

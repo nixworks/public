@@ -8,6 +8,7 @@ More than 200 Afghan militants crossed over and attacked a security checkpoint i
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/02/pakistan.militant.attack/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/.element/img/3.0/newsscanner/no_image_cnn_90x51.jpg)
 
 ### Related:
 

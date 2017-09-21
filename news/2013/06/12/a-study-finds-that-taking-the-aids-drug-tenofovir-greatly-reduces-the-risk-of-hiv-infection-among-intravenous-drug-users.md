@@ -8,6 +8,7 @@ Tenofovir (Viread) once a day can prevent HIV transmission among injection drug 
 ### Source:
 
 1. [Medpage Today](http://www.medpagetoday.com/HIVAIDS/HIVAIDS/39807)
+1. [Cover Image](https://www.medpagetoday.com/upload/2013/6/12/39807.jpg)
 
 ### Related:
 

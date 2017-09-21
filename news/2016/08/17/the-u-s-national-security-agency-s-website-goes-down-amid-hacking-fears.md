@@ -8,6 +8,7 @@
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/politics/2016/08/17/nsas-website-goes-down-amid-hacking-fears.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/08/18/0/0/694940094001_5088879018001_7e6016df-7f28-48f5-a9b9-444ba1ebdcb6.jpg?ve=1)
 
 ### Related:
 

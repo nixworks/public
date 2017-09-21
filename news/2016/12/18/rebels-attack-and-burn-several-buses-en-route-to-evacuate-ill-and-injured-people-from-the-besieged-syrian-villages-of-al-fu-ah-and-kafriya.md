@@ -8,6 +8,7 @@ Hundreds leave rebel-held areas after vehicles set on fire on their way to colle
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/dec/18/aleppo-hopes-raised-that-evacuation-could-soon-resume)
+1. [Cover Image](https://i.guim.co.uk/img/media/d48b8b19a6fd028263828135b3d3544152a30fe2/0_233_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4b91e4e93af76e02ead1fe3bd0044703)
 
 ### Related:
 

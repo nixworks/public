@@ -8,6 +8,7 @@ Nine building contractors and a policeman have been killed by insurgents in an a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23737285)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/69335000/gif/_69335036_afghanistan_herat_helmand_0813_2.gif)
 
 ### Related:
 

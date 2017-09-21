@@ -8,6 +8,7 @@ Shock as authoritarian president’s office reports that he has left official re
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/jan/09/sri-lanka-election-shock-as-president-mahinda-rajapaksa-concedes-defeat)
+1. [Cover Image](https://i.guim.co.uk/img/media/21d8558564be844cac951e0dcf8400c5b7c8d466/0_71_3000_1801/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=33a29e623a0b1b59eb95e0a64515e3b0)
 
 ### Related:
 

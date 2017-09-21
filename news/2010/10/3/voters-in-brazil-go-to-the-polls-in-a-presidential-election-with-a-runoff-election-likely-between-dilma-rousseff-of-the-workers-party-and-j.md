@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010102232331405902.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/oct/04/brazil-presidential-elections-dilma-rousseff)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/3/20101030146471580_20.jpg)
 
 ### Related:
 

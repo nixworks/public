@@ -8,6 +8,7 @@ A leaking gas line in the Cook Inlet does pose safety and environmental risks ac
 ### Source:
 
 1. [KTUU-TV](http://www.ktuu.com/content/news/Investigation-finds-Hilcorp-gas-leak-poses-risks--starter-earlier-than-first-reported-415636093.html)
+1. [Cover Image](http://media.graytvinc.com/images/Hilcorp.jpg)
 
 ### Related:
 

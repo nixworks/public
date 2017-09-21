@@ -8,6 +8,7 @@ Festivities mark 83rd birthday of Bhumibol Adulyadej amid concerns for his healt
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/asia-pacific/2010/12/20101257551957151.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/201012574827591112_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Former Iranian president Akbar Hashemi Rafsanjani was taken to hospital on Sunda
 1. [Al-Jazeera](http://www.aljazeera.com/news/2017/01/iran-president-hashemi-rafsanjani-dies-82-170108163407762.html)
 2. [BBC](http://www.bbc.com/news/world-middle-east-38548591)
 3. [Reuters](http://uk.reuters.com/article/uk-iran-rafsanjani-idUKKBN14S0PS?il=0)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

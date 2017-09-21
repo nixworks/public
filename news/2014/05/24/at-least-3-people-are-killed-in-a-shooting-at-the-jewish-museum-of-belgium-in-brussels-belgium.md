@@ -8,6 +8,7 @@ A gunman opens fire at the Jewish museum in the Belgian capital Brussels, killin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27558918)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75083000/jpg/_75083505_75083504.jpg)
 
 ### Related:
 

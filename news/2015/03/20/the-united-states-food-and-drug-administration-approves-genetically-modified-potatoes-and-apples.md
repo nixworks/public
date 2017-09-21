@@ -8,6 +8,7 @@ Genetically modified apples and potatoes approved by FDA
 ### Source:
 
 1. [Mercury News](http://www.mercurynews.com/science/ci_27751473/genetically-modified-apples-and-potatoes-approved-by-fda)
+1. [Cover Image](http://www.mercurynews.com/wp-content/uploads/2016/08/20150320__apples1.jpg?w=645&amp;h=429)
 
 ### Related:
 

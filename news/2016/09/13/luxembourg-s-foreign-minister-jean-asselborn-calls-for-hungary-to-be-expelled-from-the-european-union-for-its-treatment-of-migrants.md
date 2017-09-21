@@ -8,6 +8,7 @@ Luxembourg Foreign Minister Jean Asselborn calls for Hungary to be suspended or 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37347352)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/4873/production/_91174581_dsc09375.jpg)
 
 ### Related:
 

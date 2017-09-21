@@ -9,6 +9,7 @@ The death toll from flash floods that swept away entire villages in the southern
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/philippines-death-toll-hits-1500-20111227-1pb3e.html)
 2. [NDRRMC](http://www.ndrrmc.gov.ph/attachments/article/358/NDRRMC%20UPDATE%20Sitrep%20No.21%20re%20Effects%20of%20SENDONG%20as%20of%2028Dec2011,%200600AM.pdf)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/1/p/0/g/7/image.related.articleLeadwide.620x349.1pb3e.png/1324953450647.jpg)
 
 ### Related:
 

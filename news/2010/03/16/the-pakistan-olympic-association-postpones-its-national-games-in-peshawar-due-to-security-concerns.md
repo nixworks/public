@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8571208.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE62F1YP20100316?feedType=RSS&feedName=sportsNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

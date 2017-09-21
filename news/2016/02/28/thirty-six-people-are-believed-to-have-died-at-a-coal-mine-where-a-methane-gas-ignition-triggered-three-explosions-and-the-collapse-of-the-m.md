@@ -8,6 +8,7 @@ The death toll in Russia&#039;s worst mining disaster in recent history climbed 
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/world-news/death-toll-from-russias-mining-disaster-climbs-to-36-as-missing-presumed-dead-1282150)
+1. [Cover Image](http://i.ndtvimg.com/i/2015-06/russia-map_650x400_71435282807.png)
 
 ### Related:
 

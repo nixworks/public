@@ -8,6 +8,7 @@ Christophe de Margerie, chief executive of French oil company Total since 2007, 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-29699733)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78414000/jpg/_78414219_006867694-1.jpg)
 
 ### Related:
 

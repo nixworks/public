@@ -9,6 +9,7 @@
 
 1. [Associated Press](http://www.thetandd.com/articles/2006/08/13/ap/headlines/d8jfm6bo0.txt)
 2. [CBS News](http://www.cbsnews.com/stories/2003/02/24/iraq/main541815.shtml)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/09/16/d468f0c2-a642-11e2-a3f0-029118418759/image2015595x.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Virginia State trooper who was shot when a suspect opened fire at a Greyhound 
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/trooper-severely-injured-gunman-dead-shooting-greyhound-station-richmond-virginia-n548686)
 2. [WTVR](http://wtvr.com/2016/03/31/active-shooter-reported-at-richmond-greyhound-bus-station/)
+2. [Cover Image](https://localtvwtvr.files.wordpress.com/2016/03/greyhoundshooting32.jpg?quality=85&amp;strip=all&amp;w=1200)
 
 ### Related:
 

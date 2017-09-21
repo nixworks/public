@@ -8,6 +8,7 @@ Government to get assistance with border and security forces as Fayez al-Sarraj 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/19/libya-offered-security-help-by-european-union-fayez-seraj)
+1. [Cover Image](https://i.guim.co.uk/img/media/9ed97b50c979828297a7cb3be937b400788bee19/0_128_3500_2100/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5abc5b5d3993ceec782d959ba102a49a)
 
 ### Related:
 

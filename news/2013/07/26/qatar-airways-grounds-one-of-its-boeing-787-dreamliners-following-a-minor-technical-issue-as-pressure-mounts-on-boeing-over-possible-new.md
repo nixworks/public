@@ -8,6 +8,7 @@ Qatar Airways said on Friday it had taken one of its Boeing 787 Dreamliners out 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/07/26/us-boeing-dreamliner-qatar-idUSBRE96P0QW20130726)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130726&t=2&i=754543116&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96P17Y700)
 
 ### Related:
 

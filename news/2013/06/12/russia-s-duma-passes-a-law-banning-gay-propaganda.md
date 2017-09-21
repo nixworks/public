@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57588738/russian-anti-gay-bill-passes-protesters-detained/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/06/11/9eb5bf08-d2ff-11e2-a43e-02911869d855/AP626530618031_1.jpg)
 
 ### Related:
 

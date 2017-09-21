@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/technology/2011/03/aol-stock-huffington-post.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef0147e310a010970b-120pi)
 
 ### Related:
 

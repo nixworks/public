@@ -10,6 +10,7 @@ The people of Wales are going to the polls to elect the next Welsh Assembly Gove
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13284737)
 2. [BBC](http://www.bbc.co.uk/news/uk-wales-13284360)
 3. [The Guardian](http://www.guardian.co.uk/politics/2011/may/04/av-referendum-nick-clegg-defeat-predicted)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52448000/jpg/_52448933_476-1.jpg)
 
 ### Related:
 

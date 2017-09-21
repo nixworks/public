@@ -9,6 +9,7 @@ SEOUL, South Korea (AP) — North Korea on Tuesday fired three ballistic missile
 
 1. [AP](http://bigstory.ap.org/article/9e93593fc27c418a9f594c910fdef3ff/seoul-says-north-korea-has-fired-3-missiles-sea)
 2. [BBC](http://www.bbc.com/news/world-asia-36831308)
+2. [Cover Image](http://binaryapi.ap.org/8cc6db34c44048889927d951105e7004/460x.jpg)
 
 ### Related:
 

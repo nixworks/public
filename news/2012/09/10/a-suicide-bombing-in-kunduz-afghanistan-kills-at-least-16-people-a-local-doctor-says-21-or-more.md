@@ -9,6 +9,7 @@
 
 1. [AFP via ''The Financial Express](http://www.thefinancialexpress-bd.com/more.php?news_id=142996&date=2012-09-11)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-19543786)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62798000/jpg/_62798427_c67t40ek.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ UPDATED: Police are questioning Moder Mothama Magid, a 22-year-old Iraqi man arr
 ### Source:
 
 1. [Local](http://www.thelocal.se/20151119/sweden-terror-suspect-held-after-police-raid)
+1. [Cover Image](https://www.thelocal.se/userdata/images/article/c6e71192576d6dc0b1342b81d43799adb923b8e15bd2b17f5a9f563124f9a2c2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The US state department says it is considering all options, including sanctions,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25342698)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71671000/jpg/_71671437_71671436.jpg)
 
 ### Related:
 

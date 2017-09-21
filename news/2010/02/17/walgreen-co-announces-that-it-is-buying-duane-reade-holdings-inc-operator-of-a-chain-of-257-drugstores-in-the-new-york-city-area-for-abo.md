@@ -8,6 +8,7 @@ Walgreen is buying the Duane Reade chain of 257 drugstores in the New York area 
 ### Source:
 
 1. [Marketwatch](http://www.marketwatch.com/story/walgreen-to-buy-duane-reade-for-108-billion-2010-02-17)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@
 2. [CNN](http://www.cnn.com/2010/WORLD/europe/09/01/sweden.assange/index.html?eref=rss_topstories)
 3. [The Guardian](http://www.guardian.co.uk/media/2010/sep/01/sweden-julian-assange-rape-investigation)
 4. [The New Zealand Herald](http://www.nzherald.co.nz/connect/news/article.cfm?c_id=1501833&objectid=10670549)
+4. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

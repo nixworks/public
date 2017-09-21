@@ -8,6 +8,7 @@ In February, Anwar was sentenced to a five-year jail term after a sodomy convict
 ### Source:
 
 1. [Economic Times-India](http://economictimes.indiatimes.com/news/international/world-news/malaysias-opposition-forms-new-alliance-against-scandal-hit-najib-razak/articleshow/49060158.cms)
+1. [Cover Image](http://img.etimg.com/thumb/msid-49060171,width-672,resizemode-4,imglength-149759/news/international/world-news/malaysias-opposition-forms-new-alliance-against-scandal-hit-najib-razak.jpg)
 
 ### Related:
 

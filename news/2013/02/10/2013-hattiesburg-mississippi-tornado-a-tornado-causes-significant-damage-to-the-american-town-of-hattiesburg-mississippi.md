@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/weather/2013/02/10/tornado-touches-down-in-mississippi-town-causing-damage-officials-say/)
+1. [Cover Image](http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/video/0/0/021013_faulkner_tornado_640.jpg)
 
 ### Related:
 

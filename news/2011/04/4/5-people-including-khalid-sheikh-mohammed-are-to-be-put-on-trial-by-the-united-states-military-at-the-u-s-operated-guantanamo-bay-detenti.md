@@ -9,6 +9,7 @@ The alleged mastermind of the 9/11 attacks and four alleged co-conspirators will
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/04/2011441554677151.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-12964588)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52001000/jpg/_52001317_007919127-1.jpg)
 
 ### Related:
 

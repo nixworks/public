@@ -8,6 +8,7 @@ Australia&#039;s longest running magazine, The Bulletin, is closing down after a
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/01/24/2145473.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/449082-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A group of 515 Somali andEritrean migrants landed in Malta on Monday having trav
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/28/malta-migrants-idUSLDE72R27D20110328)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

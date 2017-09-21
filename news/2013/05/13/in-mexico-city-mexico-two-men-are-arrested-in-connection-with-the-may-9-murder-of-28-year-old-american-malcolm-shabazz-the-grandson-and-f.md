@@ -8,6 +8,7 @@ Two men have been arrested in connection with the murder of Malcolm Shabazz, the
 ### Source:
 
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2013/05/13/183643499/arrests-made-in-malcolm-shabazz-murder-investigation)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

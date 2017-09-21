@@ -8,6 +8,7 @@ A man goes on a rampage with an axe in a village in central India, killing four 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22031407)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66751000/gif/_66751958_india_chhattisgarh_04_12.gif)
 
 ### Related:
 

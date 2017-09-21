@@ -8,6 +8,7 @@ CERN hopes to find dark matter this year with its refitted LHC, which can produc
 ### Source:
 
 1. [ZD Net](http://www.zdnet.com/article/cerns-souped-up-large-hadron-collider-to-launch-again-after-higgs-boson-hiatus/)
+1. [Cover Image](http://zdnet1.cbsistatic.com/hub/i/r/2015/01/08/970d48df-1a3d-4768-b838-88777cc2cc4f/thumbnail/770x578/650a5ba0b51490f706cf95d76d5ed2b2/data-center-at-cern-2-photo-courtesy-of-cern-press-office.jpg)
 
 ### Related:
 

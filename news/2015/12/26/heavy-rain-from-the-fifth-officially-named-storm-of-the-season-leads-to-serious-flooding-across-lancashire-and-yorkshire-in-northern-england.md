@@ -8,6 +8,7 @@ Heavy rain leads to more flooding in northern England, with homes evacuated in L
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-35181139)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/152F0/production/_87386768_mytholmroyd_man_getty.jpg)
 
 ### Related:
 

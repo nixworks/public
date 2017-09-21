@@ -8,6 +8,7 @@ Nigel Wright, chief of staff of Canadian Prime Minister Stephen Harper, resigns 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-22592273)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67699000/jpg/_67699033_67699032.jpg)
 
 ### Related:
 

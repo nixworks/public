@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/display_pages/features/feature_1810753.html)
+1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/politics/elections/2016/130014-duterte-apology-rape-remarks)
+1. [Cover Image](https://assets.rappler.com/941C0BD160E54DCF825D81D5E23E7514/img/8F30A244C8E44A1CBF15F861EFB69DD0/Duterte-Sorti-Amoranto-LRED-20140412-030.jpg)
 
 ### Related:
 

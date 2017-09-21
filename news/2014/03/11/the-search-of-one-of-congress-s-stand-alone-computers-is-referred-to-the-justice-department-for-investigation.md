@@ -8,3 +8,4 @@ At issue is whether the CIA violated an agreement made with the committee about 
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/politics/2014/03/11/cia-senate-computer-network/6285127/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)

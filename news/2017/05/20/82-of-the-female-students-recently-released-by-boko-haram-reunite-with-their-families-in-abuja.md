@@ -8,6 +8,7 @@ Nigeria’s president vows to continue negotiations over freeing remaining Boko 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/may/20/chibok-schoolgirls-hug-kiss-families)
+1. [Cover Image](https://i.guim.co.uk/img/media/f63d8d761bd27be5fcc2cebaa08bd7ed59900608/0_143_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=494dde1f8bafeedceb7c5b54cde2c074)
 
 ### Related:
 

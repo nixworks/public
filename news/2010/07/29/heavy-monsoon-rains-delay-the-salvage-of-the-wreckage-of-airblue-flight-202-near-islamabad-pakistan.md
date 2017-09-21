@@ -9,6 +9,7 @@ Heavy monsoon rains in Islamabad on Thursday hampered recovery efforts at the si
 
 1. [Daily Times of Pakistan](http://www.dailytimes.com.pk/default.asp?page=2010\07\29\story_29-7-2010_pg1_1)
 2. [Reuters](http://www.reuters.com/article/idUSTRE66R0SE20100729)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100729&t=2&i=166709472&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-29T161935Z_01_BTRE66S18QH00_RTROPTP_0_PAKISTAN-CRASH)
 
 ### Related:
 

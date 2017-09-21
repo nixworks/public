@@ -9,6 +9,7 @@ Hard-line militants seeking to gain territory after the end of the NATO combat m
 
 1. [Sky News](http://news.sky.com/story/1560265/taliban-raise-flag-over-major-afghan-city)
 2. [The News Hub](https://www.the-newshub.com/international/taliban-close-to-capturing-a-major-city-in-afghanistan)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/battle-1_3509721.jpg?20160704115234)
 
 ### Related:
 

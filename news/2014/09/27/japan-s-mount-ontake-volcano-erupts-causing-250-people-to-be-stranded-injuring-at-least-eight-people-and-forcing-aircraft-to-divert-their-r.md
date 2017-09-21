@@ -8,6 +8,7 @@ A Japanese volcano popular with hikers erupted on Saturday, killing one woman an
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2014/09/27/japan-volcano-idINKCN0HM04M20140927)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140927&t=2&i=977991004&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA8Q04B)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Fifteen people on their way to a wedding in Yemen were killed in an air strike a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/12/12/us-yemen-strike-idUSBRE9BB10O20131212)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

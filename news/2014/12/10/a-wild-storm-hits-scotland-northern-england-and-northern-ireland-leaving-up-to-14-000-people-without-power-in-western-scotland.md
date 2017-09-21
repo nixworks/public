@@ -8,6 +8,7 @@ Power is restored to most homes in Scotland after being struck by a storm dubbed
 ### Source:
 
 1. [Reuters via ABC News](http://www.abc.net.au/news/2014-12-11/weather-bomb-sweeps-across-the-uk/5959594)
+1. [Cover Image](http://www.abc.net.au/news/image/5959626-1x1-700x700.jpg)
 
 ### Related:
 

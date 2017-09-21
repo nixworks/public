@@ -8,6 +8,7 @@ Seventeen people are charged in the US with stealing $42m of Holocaust compensat
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11723404)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/49869000/jpg/_49869864_000236750-2.jpg)
 
 ### Related:
 

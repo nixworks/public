@@ -8,6 +8,7 @@ The Sun and Daily Mirror are facing contempt of court proceedings over the way t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13371918)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52672000/jpg/_52672796_011161897-1.jpg)
 
 ### Related:
 

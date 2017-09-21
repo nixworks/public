@@ -9,6 +9,7 @@ The grounding of hundreds of United Airlines flights because of a computer glitc
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-united-flights-grounded-20150708-story.html)
 2. [Reuters, via MSN](http://www.msn.com/en-us/news/us/united-airlines-computers-down-flights-delayed/ar-AAcIdsU)
+2. [Cover Image](http://www.trbimg.com/img-559d4307/turbine/la-fi-united-flights-grounded-20150708)
 
 ### Related:
 

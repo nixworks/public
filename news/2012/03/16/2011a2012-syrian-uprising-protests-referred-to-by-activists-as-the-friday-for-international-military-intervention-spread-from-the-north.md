@@ -8,6 +8,7 @@ Activists call for foreign intervention as UN-Arab League envoy Kofi Annan prepa
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/201231612503870378.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/16/2012316105541185734_20.jpg)
 
 ### Related:
 

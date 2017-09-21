@@ -9,6 +9,7 @@ Seven U.S. troops have died in weekend attacks in Afghanistan&#39;s embattled so
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/38900766/ns/world_news-south_and_central_asia/)
 2. [Reuters](http://www.reuters.com/article/idUSTRE67S0KL20100829)
+2. [Cover Image](http://media2.s-nbcnews.com/j/ap/aptopix afghanistan elections-1613874393_v2.standard.jpg)
 
 ### Related:
 

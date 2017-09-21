@@ -13,6 +13,7 @@ In weekly cabinet meeting, Olmert states &#39;Hamas members won&#39;t be nabbed 
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3269958,00.html)
 5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3269992,00.html)
 6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3270237,00.html)
+6. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

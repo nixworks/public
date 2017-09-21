@@ -8,6 +8,7 @@ Pilots avoided the ash cloud, which rose to above 31,000 feet overnight Wednesda
 ### Source:
 
 1. [Alaska Dispatch News](https://www.adn.com/alaska-news/aviation/2017/01/19/another-bogoslof-eruption-sends-ash-over-alaska-peninsula-kodiak-island/)
+1. [Cover Image](https://www.adn.com/resizer/WLyhVukTzuEIsreVKNozLkOZZ0g=/1200x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2017/01/19065207/1484788448.jpg?token=bar)
 
 ### Related:
 

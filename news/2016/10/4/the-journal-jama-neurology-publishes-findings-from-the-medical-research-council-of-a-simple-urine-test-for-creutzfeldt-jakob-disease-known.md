@@ -9,6 +9,7 @@ UK scientists believe urine could be used for a quick and simple way to test for
 
 1. [BBC](http://www.bbc.com/news/health-37541550)
 2. [UPI](http://www.upi.com/Health_News/2016/10/04/Urine-test-may-detect-Creutzfeldt-Jakob-disease/6701475582552/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F294/production/_91500126_prion.jpg)
 
 ### Related:
 
@@ -20,5 +21,5 @@ UK scientists believe urine could be used for a quick and simple way to test for
 6. [ Seven French doctors will face charges related to the deaths of 110 patients who developed Creutzfeldt-Jakob disease after taking growth hormones in the 1980s. ](/news/2007/04/10/seven-french-doctors-will-face-charges-related-to-the-deaths-of-110-patients-who-developed-creutzfeldt-jakob-disease-after-taking-growth-ho.md) _Context: Creutzfeldt-Jakob disease_
 7. [ Beef from the United States goes on sale in Japan as a ban imposed due to mad cow disease in the U.S. is lifted. ](/news/2007/03/29/beef-from-the-united-states-goes-on-sale-in-japan-as-a-ban-imposed-due-to-mad-cow-disease-in-the-u-s-is-lifted.md) _Context: mad cow disease_
 8. [ A second case of mad cow disease has been confirmed in the United States. ](/news/2005/06/25/a-second-case-of-mad-cow-disease-has-been-confirmed-in-the-united-states.md) _Context: mad cow disease_
-9. [ The ninth case of mad cow disease is confirmed in Japan.](/news/2003/11/5/the-ninth-case-of-mad-cow-disease-is-confirmed-in-japan.md) _Context: mad cow disease_
-10. [ Medicine: An experimental treatment given to a British man has halted the progress of brain damage caused by Creutzfeldt-Jakob disease.](/news/2003/09/26/medicine-an-experimental-treatment-given-to-a-british-man-has-halted-the-progress-of-brain-damage-caused-by-creutzfeldt-jakob-disease.md) _Context: Creutzfeldt-Jakob disease_
+9. [ The U.S. Department of Agriculture announces that a cow has tested positive for mad cow disease. Officials caution that the test is inconclusive until confirmed at a lab in Ames, Iowa, but if confirmed, it will be the second case in the U.S. The agency says the disease has not entered the food chain. ](/news/2004/11/18/the-u-s-department-of-agriculture-announces-that-a-cow-has-tested-positive-for-mad-cow-disease-officials-caution-that-the-test-is-inconcl.md) _Context: mad cow disease_
+10. [ The ninth case of mad cow disease is confirmed in Japan.](/news/2003/11/5/the-ninth-case-of-mad-cow-disease-is-confirmed-in-japan.md) _Context: mad cow disease_

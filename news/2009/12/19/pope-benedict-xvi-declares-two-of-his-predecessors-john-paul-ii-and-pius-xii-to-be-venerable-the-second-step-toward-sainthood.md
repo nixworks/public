@@ -10,6 +10,7 @@ Pope Benedict XVI moved to make two of his predecessors one step closer to saint
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8422474.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5039415,00.html)
 3. [The New York Times](http://www.nytimes.com/2009/12/20/world/europe/20pope.html)
+3. [Cover Image](https://static01.nyt.com/images/2009/12/19/world/19pope/thumbStandard.jpg)
 
 ### Related:
 

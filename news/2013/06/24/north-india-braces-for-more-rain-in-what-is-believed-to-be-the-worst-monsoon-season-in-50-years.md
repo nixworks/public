@@ -8,6 +8,7 @@ Northern India is bracing itself for further floods during what is believed to b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23025690#)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68335000/jpg/_68335561_68335559.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Turkish police arrest the sons of three cabinet ministers as part of an investig
 
 1. [BBC](http://www.bbc.co.uk/news/business-25414150)
 2. [Reuters](http://www.reuters.com/article/2013/12/17/turkey-corruption-idUSL6N0JW16620131217)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71791000/jpg/_71791346_turkeyflag_getty.jpg)
 
 ### Related:
 

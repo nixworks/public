@@ -8,6 +8,7 @@ Computer hackers appear to have accessed the personal details of Tony Blair afte
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/technology/twitter/8598172/Tony-Blairs-personal-details-hacked.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01805/tony-blair_1805556a.jpg)
 
 ### Related:
 

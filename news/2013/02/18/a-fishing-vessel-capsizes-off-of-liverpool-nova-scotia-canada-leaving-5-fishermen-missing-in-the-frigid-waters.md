@@ -8,6 +8,7 @@ A massive search was set to continue through Monday night off Liverpool for five
 ### Source:
 
 1. [The Chronicle Herald](http://thechronicleherald.ca/novascotia/716400-search-underway-off-liverpool-for-capsized-boat)
+1. [Cover Image](http://thechronicleherald.ca/sites/default/files/imagecache/ch_og_article_main_image/articles/B97148114Z.120130219061638000GGG2BCNA.11.jpg)
 
 ### Related:
 

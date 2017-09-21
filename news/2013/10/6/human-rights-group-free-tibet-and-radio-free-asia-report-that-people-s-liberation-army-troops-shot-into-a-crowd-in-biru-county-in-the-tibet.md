@@ -8,6 +8,7 @@ At least 60 Tibetans were injured after Chinese police fired into a crowd of pro
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24442218)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70341000/jpg/_70341697_tibetmap.jpg)
 
 ### Related:
 

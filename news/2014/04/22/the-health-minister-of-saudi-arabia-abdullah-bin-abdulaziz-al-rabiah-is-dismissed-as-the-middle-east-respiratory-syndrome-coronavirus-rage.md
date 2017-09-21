@@ -8,6 +8,7 @@ As Saudi Arabia dismisses its health minister, the Mers virus death toll continu
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/health-27108568)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74366000/jpg/_74366020_hi018590404-1.jpg)
 
 ### Related:
 

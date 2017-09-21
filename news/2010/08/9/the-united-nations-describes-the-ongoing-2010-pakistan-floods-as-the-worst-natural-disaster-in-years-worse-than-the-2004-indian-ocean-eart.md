@@ -8,6 +8,7 @@ UN says flooding triggered by incessant rains is the worst natural disaster in y
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010893572554270.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

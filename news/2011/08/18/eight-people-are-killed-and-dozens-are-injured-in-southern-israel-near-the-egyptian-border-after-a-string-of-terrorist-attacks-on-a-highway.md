@@ -11,6 +11,7 @@ Four terror attacks near Eilat claim seven lives, leave 31 injured as passenger 
 2. [New York Times](http://www.nytimes.com/2011/08/19/world/middleeast/19israel.html?emc=na)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/aug/18/israel-air-strikes-gaza-eilat-attacks)
 4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4110634,00.html)
+4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

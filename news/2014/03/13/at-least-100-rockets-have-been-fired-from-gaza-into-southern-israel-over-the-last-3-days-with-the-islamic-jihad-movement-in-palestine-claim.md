@@ -8,6 +8,7 @@ Islamic Jihad takes responsibly for attack; no injuries reported; Iron Dome inte
 ### Source:
 
 1. [J Post](http://www.jpost.com/Defense/Barrage-of-rockets-fired-from-Gaza-into-southern-Israel-345151)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=203917)
 
 ### Related:
 

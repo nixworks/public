@@ -13,7 +13,7 @@ _Context: Ghazi Mashal Ajil al-Yawer, Iraq, Sunni_
 _Context: Fast food, Karachi, Pakistan, Shi'a_
 
 ### [ Democrat Stephanie Herseth narrowly defeats Republican Larry Diedrich in a closely watched by-election for South Dakota's US House seat. ](/news/2004/06/1/democrat-stephanie-herseth-narrowly-defeats-republican-larry-diedrich-in-a-closely-watched-by-election-for-south-dakota-s-us-house-seat.md)
-_Context: Democratic Party, Republican, South Dakota, Stephanie Herseth, United States House of Representatives, by-election_
+_Context: Democratic, Republican, South Dakota, Stephanie Herseth, United States House of Representatives, by-election_
 
 ### [ The Zimbabwe government proposes new terms for all Internet service providers that will force them to block content or report "malicious messages" to the authorities. ](/news/2004/06/1/the-zimbabwe-government-proposes-new-terms-for-all-internet-service-providers-that-will-force-them-to-block-content-or-report-malicious-me.md)
 _Context: Zimbabwe, broadband providers_

@@ -9,6 +9,7 @@ David Cameron will attempt to put the Maria Miller expenses row and questions ab
 
 1. [Financial Times](http://www.ft.com/cms/s/0/448669a4-bfaf-11e3-9513-00144feabdc0.html#axzz2yNq3ooSv)
 2. [ITV](http://www.itv.com/news/story/2014-04-03/maria-miller-expenses/#maria-miller-resigns_347166)
+2. [Cover Image](http://news-assets.sn.itv.com/image/file/372682/mobile_article_img.jpg)
 
 ### Related:
 

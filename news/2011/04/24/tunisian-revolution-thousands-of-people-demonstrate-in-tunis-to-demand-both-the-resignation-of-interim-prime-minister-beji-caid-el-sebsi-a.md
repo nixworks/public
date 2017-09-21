@@ -23,6 +23,7 @@ Security forces in northern Syria reportedly kill three people and injure severa
 14. [Press TV](http://www.presstv.ir/detail/176537.html)
 15. [Press TV](http://www.presstv.ir/detail/176539.html)
 16. [Press TV](http://www.presstv.ir/detail/176551.html)
+16. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52325000/jpg/_52325771_011825837-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Violent clashes erupted across Bangladesh on Thursday after a tribunal handed do
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/03/02/world/asia/death-toll-from-bangladesh-unrest-hits-42.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/03/01/world/bangladesh1/bangladesh1-videoLarge.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 50 people killed in Iraq as suicide bombers attack ahead of a national 
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-04-29/dozens-killed-in-suicide-bomb-attacks-ahead-of-iraq-election/5417006)
+1. [Cover Image](http://www.abc.net.au/news/image/5417016-1x1-700x700.jpg)
 
 ### Related:
 

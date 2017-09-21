@@ -8,3 +8,4 @@ Crews pulled a ninth body Sunday from the wreckage of a Glasgow pub reduced to r
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2013/12/02/ninth-body-found-after-glasgow-helicopter-pub-crash/?intcmp=latestnews)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/12/02/ninth-body-found-after-glasgow-helicopter-pub-crash/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422695326811.jpg?ve=1)

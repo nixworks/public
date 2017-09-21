@@ -9,6 +9,7 @@ Iran allows Nigeria to question one of its citizens inside its embassy, over a w
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11743454)
 2. [IBTimes Hong Kong](http://hken.ibtimes.com/articles/81372/20101112/nigeria-iran-arms-shipment-consignment-abuja-sanctions-united-nations-port-of-lagos.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

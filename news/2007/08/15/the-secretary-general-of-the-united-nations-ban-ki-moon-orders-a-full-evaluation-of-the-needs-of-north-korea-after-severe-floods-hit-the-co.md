@@ -9,6 +9,7 @@ North Korean authorities have indicated flooding may have left up to 300,000 peo
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6947230.stm)
 2. [Reuters](http://www.reuters.com/article/topNews/idUSSEO14609020070815?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070815&t=2&i=1302441&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-15T163453Z_01_SEO146090_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

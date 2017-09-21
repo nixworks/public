@@ -8,6 +8,7 @@ Driverless cars are set to hit the roads of Nevada as Google is granted the firs
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/technology-17989553)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/57359000/jpg/_57359436_l100288small.jpg)
 
 ### Related:
 

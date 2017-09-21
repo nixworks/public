@@ -8,6 +8,7 @@ Somali government forces and African Union troops pushed al Qaeda-linked militan
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/africa/06/03/somalia.fighting/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/06/03/somalia.fighting/tzvids.somalia.j2.gi.afp.jpg)
 
 ### Related:
 

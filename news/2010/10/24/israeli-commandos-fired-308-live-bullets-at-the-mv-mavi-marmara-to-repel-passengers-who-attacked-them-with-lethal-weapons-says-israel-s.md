@@ -8,6 +8,7 @@ Israeli commandos fired 308 live bullets aboard a Gaza-bound aid ship last May t
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1024/breaking11.html?via=mr)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

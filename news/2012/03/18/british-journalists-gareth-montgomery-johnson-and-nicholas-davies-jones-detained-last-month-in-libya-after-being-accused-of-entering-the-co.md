@@ -8,6 +8,7 @@ Two British journalists detained in Libya after admitting entering the country i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17424831)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59075000/jpg/_59075646_compstill.jpg)
 
 ### Related:
 

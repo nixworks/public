@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rediff](http://in.rediff.com/news/2005/jul/29srinagar.htm)
+1. [Cover Image](//imworld.rediff.com/worldrediff/pix/r-shareicon.png)
 
 ### Related:
 

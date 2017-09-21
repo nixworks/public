@@ -9,6 +9,7 @@
 
 1. [IANS via Biharprabha](http://news.biharprabha.com/2014/05/gorakhdham-express-derails-in-sant-kabir-nagar-up-killing-at-least-6/)
 2. [NDTV](http://www.ndtv.com/article/india/20-feared-dead-as-gorakhdham-express-rams-into-goods-train-in-uttar-pradesh-530851?pfrom=home-lateststories)
+2. [Cover Image](http://i.ndtvimg.com/mt/2014-05/Gorakhdham_train_tragedy_360.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Apache County Sheriff&rsquo;s Office has issued a mandatory evacuation order
 ### Source:
 
 1. [Arizona Daily Star](http://azstarnet.com/news/local/wildfire/article_36f41f8e-9091-11e0-b238-001cc4c002e0.html)
+1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/7adca204-d667-11e5-a426-b7a60ffb66bb.jpg?_dc=1455817563)
 
 ### Related:
 

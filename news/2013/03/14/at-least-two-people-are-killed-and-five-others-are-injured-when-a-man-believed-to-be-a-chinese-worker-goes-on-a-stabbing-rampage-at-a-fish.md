@@ -8,6 +8,7 @@ At least two people have died and five others were injured when a Chinese worker
 ### Source:
 
 1. [SAPA via News24](http://www.news24.com/news24/World/News/2-dead-in-Japan-stabbing-rampage-20130314)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1979/3ddaaffe3e6a497da45f57a3bc478bd3.jpg)
 
 ### Related:
 

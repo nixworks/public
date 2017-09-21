@@ -8,6 +8,7 @@ Campaigners against cluster bombs say the main manufacturers and stockpilers of 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0519/clusterbombs.html)
+1. [Cover Image](https://img.rasset.ie/00017c0d-1600.jpg)
 
 ### Related:
 

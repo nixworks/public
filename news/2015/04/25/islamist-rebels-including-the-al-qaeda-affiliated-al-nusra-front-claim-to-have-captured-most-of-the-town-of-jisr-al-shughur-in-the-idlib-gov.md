@@ -8,6 +8,7 @@ Islamist rebels have captured much of the north-western Syrian town of Jisr al-S
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-32461693)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/82564000/jpg/_82564907_82564906.jpg)
 
 ### Related:
 

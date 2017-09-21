@@ -8,6 +8,7 @@ The prime minister of Thailand extended a state of emergency Friday and pledged 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-thailand18-2009apr18,0,1959338.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

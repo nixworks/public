@@ -8,6 +8,7 @@ Many of the casualties were reported from the Terai region bordering India, whic
 ### Source:
 
 1. [Hindustan Times](http://www.hindustantimes.com/world-news/at-least-23-killed-in-floods-and-landslides-in-nepal/story-eC1Lykd6hqYf4venbbjPvN.html)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/08/12/Pictures/nepal-disaster-flood_928ecfb2-7f53-11e7-ba32-a280bea68af6.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Lack of deal to increase access casts shadow over upcoming Moscow meeting betwee
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201268187582475.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/8/20126818199937734_20.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ A&#x20;24-year-old&#x20;gunman,&#x20;still&#x20;holed&#x20;up&#x20;in&#x20;his&#
 2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/03/20123214219458757.html)
 3. [France 24](http://www.france24.com/en/20120321-liveblog-france-toulouse-police-surround-suspect-school-soldier-shooting)
 4. [Reuters via MSNBC](http://www.msnbc.msn.com/id/46027894#.T2lqJxG85XI)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/New-Photo-Top-Monde_1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [RTHK English](http://rthk.hk/rthk/news/englishnews/news.htm?hightlight&20141219&56&1062845)
 2. [Reuters](http://in.reuters.com/article/2014/12/19/sunhungkai-trial-idINKBN0JX0JQ20141219)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20141219&t=2&i=1001336717&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABI09A)
 
 ### Related:
 

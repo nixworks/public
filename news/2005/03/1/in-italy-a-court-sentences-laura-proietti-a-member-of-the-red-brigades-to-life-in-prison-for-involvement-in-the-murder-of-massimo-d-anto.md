@@ -9,6 +9,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4310025.stm)
 2. [Newsday](http://www.newsday.com/news/nationworld/world/wire/sns-ap-italy-red-brigades,0,2802470.story?coll=sns-ap-world-headlines)
+2. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

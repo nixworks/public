@@ -8,6 +8,7 @@ Tear gas and water cannons used to disband thousands marching in Ankara to mark 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/10/20121029213045967837.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/29/20121029213732597734_20.jpg)
 
 ### Related:
 

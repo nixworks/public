@@ -9,6 +9,7 @@ The&#x20;African&#x20;Union&#x20;is&#x20;to&#x20;form&#x20;a&#x20;panel&#x20;of&
 
 1. [PANA](http://www.panapress.com/African-leaders-selected-for-panel-on-Cote-d-ivoire-crisis--15-755649-30-lang2-index.html)
 2. [RFI](http://www.english.rfi.fr/africa/20110129-african-union-set-cote-divoire-panel)
+2. [Cover Image](http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/ouattara_0.jpg)
 
 ### Related:
 

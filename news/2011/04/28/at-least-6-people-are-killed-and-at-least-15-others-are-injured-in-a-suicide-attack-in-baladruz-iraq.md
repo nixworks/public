@@ -9,6 +9,7 @@ At least six people are killed and 15 injured in a suicide bomb attack on the to
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011428191654702900.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13232209)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52396000/gif/_52396521_iraq_bala_2904.cmp.gif)
 
 ### Related:
 

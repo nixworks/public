@@ -9,6 +9,7 @@ Twelve Palestinians, including the leader of the Popular Resistance Committees, 
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17319054)
 2. [Reuters](http://www.reuters.com/article/2012/03/09/us-palestinians-israel-gaza-idUSBRE8280W820120309)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58981000/jpg/_58981420_gazacarstrike.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A fire on the Moscow metro caused chaos in the Russian capital as tens of thousa
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/10100124/Moscow-metro-fire-causes-chaos.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02581/Russia-Metro-Fire_2581589k.jpg)
 
 ### Related:
 

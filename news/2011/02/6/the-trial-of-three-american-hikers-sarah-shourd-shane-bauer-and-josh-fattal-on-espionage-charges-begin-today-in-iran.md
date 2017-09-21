@@ -9,6 +9,7 @@ The Americans were held on suspicion of spying when they crossed the border alon
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011265380160303.html)
 2. [Al-Arabiya](http://www.alarabiya.net/articles/2011/02/06/136458.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/6/20112655658930580_20.jpg)
 
 ### Related:
 

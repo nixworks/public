@@ -8,6 +8,7 @@ Tropical Storm Lee spawned tornado sightings and alerts from the Louisiana Gulf 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/09/04/us-storm-usa-tornadoes-idUSTRE7831GM20110904)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110904&t=2&i=493766243&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-04T151423Z_01_BTRE78316C500_RTROPTP_0_STORM-USA-GULF)
 
 ### Related:
 

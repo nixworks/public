@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CTV News](http://www.ctvnews.ca/politics/b-c-politicians-make-last-minute-campaign-push-before-election-day-1.1279299)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1279667.1368474611!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

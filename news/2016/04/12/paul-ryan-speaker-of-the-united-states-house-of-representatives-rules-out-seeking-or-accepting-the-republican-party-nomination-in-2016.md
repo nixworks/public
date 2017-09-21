@@ -8,6 +8,7 @@ House Speaker Paul Ryan tried Tuesday to put an end “once and for all” to th
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2016/04/12/ryan-to-rule-out-2016-bid-once-and-for-all-source-says.html?intcmp=hpbt1)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/04/12/0/0/694940094001_4842690277001_yhd.jpg?ve=1)
 
 ### Related:
 

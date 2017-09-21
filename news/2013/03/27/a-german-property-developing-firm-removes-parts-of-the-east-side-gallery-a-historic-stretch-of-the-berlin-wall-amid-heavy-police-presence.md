@@ -8,6 +8,7 @@ Parts of a historic stretch of the Berlin Wall marked for property development a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21952436)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66634000/jpg/_66634565_berlinwall.jpg)
 
 ### Related:
 

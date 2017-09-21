@@ -9,6 +9,7 @@ Fourteen people died Saturday when a bus returning from a casino flipped onto it
 
 1. [MSNBC](http://www.msnbc.msn.com/id/42045968/ns/us_news-life/)
 2. [NBC New York](http://www.nbcnewyork.com/news/breaking/NYFD-13-Dead-in-Bronx-Tour-Bus-Accident--117849983.html)
+2. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110312-bush-hmed-9a.standard.jpg)
 
 ### Related:
 

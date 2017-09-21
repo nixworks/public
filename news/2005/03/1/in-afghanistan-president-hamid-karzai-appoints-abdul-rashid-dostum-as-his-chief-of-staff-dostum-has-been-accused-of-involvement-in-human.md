@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4308683.stm)
 2. [Daily Times, Pakistan](http://www.dailytimes.com.pk/default.asp?page=story_2-3-2005_pg4_16)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7773789)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

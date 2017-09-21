@@ -8,6 +8,7 @@ BEIRUT, LEBANON (1:40 P.M.) - The ISIS terrorist group has released a 7-minute v
 ### Source:
 
 1. [Almasdar News](https://www.almasdarnews.com/article/video-isis-assaults-iranian-base-east-homs-no-survivors/)
+1. [Cover Image](https://cdn.almasdarnews.com/wp-content/uploads/2017/08/irib.jpg)
 
 ### Related:
 

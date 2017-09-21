@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Statesman](http://www.thestatesman.com/news/world/11-policemen-killed-in-afghan-checkpoints-attack/145461.html)
+1. [Cover Image](http://images.thestatesman.com/uploads/images/statesman/2016/5/2016_5$thumbimg30_May_2016_141323370.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A second psychiatric report declares Norwegian mass killer Anders Behring Breivi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17663958)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59118000/jpg/_59118914_014189735-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Dorchester County, in South Carolina, was worried about the risk posed by Zika. 
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/09/02/492404411/s-c-county-sprays-for-mosquitos-but-accidentally-takes-out-millions-of-bees)
+1. [Cover Image](https://media.npr.org/assets/img/2016/09/02/14790189202_d074171913_o_wide-9e63627dddedb2b9f5f2cb1c4cd9747dcc4ce564.jpg?s=1400)
 
 ### Related:
 

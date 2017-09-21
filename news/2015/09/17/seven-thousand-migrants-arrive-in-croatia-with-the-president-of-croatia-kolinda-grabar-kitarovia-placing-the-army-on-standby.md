@@ -10,6 +10,7 @@ Croatia lost control of its border with Serbia on Thursday, unable to deny the s
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2015-09-17/eu-parliament-backs-refugee-relocation-plan/6785092)
 2. [EuroNews](http://www.euronews.com/2015/09/17/meps-back-eu-migrant-relocation-plan/)
 3. [WA Today](http://www.watoday.com.au/world/migrant-crisis/migrant-crisis-over-7000-migrants-enter-croatia-president-readies-army-to-respond-20150917-gjpdvn.html)
+3. [Cover Image](http://www.watoday.com.au/content/dam/images/g/j/p/d/x/2/image.related.articleLeadwide.620x349.gjpdvn.png/1442799403018.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Suspected Ugandan ADF-NALU rebels have killed between 50 and 80 people in attack
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/21/us-congodemocratic-killings-idUSKCN0J51VN20141121)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

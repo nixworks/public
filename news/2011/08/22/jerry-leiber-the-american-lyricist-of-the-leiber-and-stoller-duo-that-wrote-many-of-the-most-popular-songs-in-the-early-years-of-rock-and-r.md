@@ -8,6 +8,7 @@ With his partner, Mike Stoller, Mr. Leiber wrote a string of hits including &#82
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/08/23/arts/music/jerry-leiber-rock-n-roll-lyricist-dies-at-78.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/08/23/arts/music/LEIBER1-obit/LEIBER1-obit-thumbStandard.jpg)
 
 ### Related:
 

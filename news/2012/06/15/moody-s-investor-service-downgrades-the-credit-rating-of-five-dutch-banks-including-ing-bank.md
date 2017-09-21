@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2012/06/15/us-financials-moodys-idUSBRE85E03C20120615)
 2. [Reuters](http://www.reuters.com/article/2012/06/15/us-nokia-research-idUSBRE85E15920120615)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

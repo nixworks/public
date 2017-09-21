@@ -9,6 +9,7 @@ Pentagon says deputy minister of war and commander died in US-led coalition airs
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36690806)
 2. [The Guardian](https://www.theguardian.com/world/2016/jul/01/airstrike-kills-two-isis-military-leaders-in-iraq)
+2. [Cover Image](https://i.guim.co.uk/img/media/96f8739393e1826a76801e868930b12be8cbaca0/0_49_5160_3096/5160.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=67ad53eb7cb5de47514d787d6e1dcaad)
 
 ### Related:
 

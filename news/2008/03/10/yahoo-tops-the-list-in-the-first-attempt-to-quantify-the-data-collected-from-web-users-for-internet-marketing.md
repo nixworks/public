@@ -8,6 +8,7 @@ A new analysis of online consumer data shows that large Web companies are learni
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/03/10/technology/10privacy.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

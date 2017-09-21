@@ -11,6 +11,7 @@ PETALING JAYA (THE STAR/ASIA NEWS NETWORK) - The 137 climbers who reached Panar 
 2. [CNN](http://edition.cnn.com/2015/06/05/asia/malaysia-kinabalu-quake/index.html?sr=twcnnbrk06515malaysiakinabaluquake242aStoryLink)
 3. [The Rakyat Post](http://www.therakyatpost.com/news/2015/06/06/stranded-climbers-descending-mount-kinabalu/)
 4. [The Star](http://www.thestar.com.my/News/Nation/2015/06/05/Sabah-tremors-Mt-Kinabalu/)
+4. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/06/06/sjclimb060615e_2x.jpg?itok=Y-q4XMdK)
 
 ### Related:
 

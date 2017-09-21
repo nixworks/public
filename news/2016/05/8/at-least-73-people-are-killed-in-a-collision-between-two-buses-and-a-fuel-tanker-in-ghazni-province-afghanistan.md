@@ -9,6 +9,7 @@ KABUL, Afghanistan - Two buses and a fuel tanker collided Sunday on a major high
 
 1. [BBC](http://www.bbc.com/news/world-asia-36241002)
 2. [USA Today](http://www.usatoday.com/story/news/world/2016/05/08/afghanistan-bus-fuel-tanker-crash/84107920/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Daily Times](http://www.dailytimes.com.pk/national/25-Nov-2015/22-passengers-abducted-in-pasni)
+1. [Cover Image](http://dailytimes.com.pk/static/uploads/original/22-passengers-abducted-in-pasni-f94de8969cad44d15a77ef892ae585c6.jpg )
 
 ### Related:
 

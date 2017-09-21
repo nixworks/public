@@ -9,6 +9,7 @@ The periodic table just got some new members, as the International Union of Pure
 
 1. [BGR](http://bgr.com/2016/12/02/new-elements-discovered-periodic-names/)
 2. [Live Science](http://www.livescience.com/57050-4-new-superheavy-elements-names-approved.html)
+2. [Cover Image](http://cdn.bgr.com/2016/12/screen-shot-2016-12-02-at-9-37-58-am.png)
 
 ### Related:
 

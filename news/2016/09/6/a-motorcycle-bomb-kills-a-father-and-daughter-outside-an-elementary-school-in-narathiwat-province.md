@@ -8,6 +8,7 @@ A motorcycle bomb killed a father and daughter in front of a Thai elementary sch
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-thailand-blast-idUSKCN11C0C3?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160906&t=2&i=1152429775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC850B4)
 
 ### Related:
 

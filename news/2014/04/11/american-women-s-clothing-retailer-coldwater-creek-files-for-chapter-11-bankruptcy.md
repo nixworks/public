@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Dow Jones Business News via NASDAQ](http://www.nasdaq.com/article/coldwater-creek-files-for-chapter-11-20140411-00176)
+1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Army official says fighting was triggered by nomads breaking a border agreement.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/2010319105842184465.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

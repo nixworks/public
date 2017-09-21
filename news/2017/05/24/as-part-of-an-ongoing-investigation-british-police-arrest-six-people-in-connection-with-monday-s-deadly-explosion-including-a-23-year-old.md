@@ -12,6 +12,7 @@ Three more arrests have been made in connection with the deadly suicide bombing 
 3. [Hindustan Times](http://www.hindustantimes.com/world-news/manchester-attacker-s-father-brother-arrested-in-libya-s-tripoli/story-GG7oUDd3N6UQ1Y88zKjIyL.html)
 4. [Reuters](http://live.reuters.com/Event/Manchester_attack)
 5. [Reuters²](http://www.reuters.com/article/us-britain-security-manchester-idUSKBN18K0K5)
+5. [Cover Image](http://a.abcnews.com/images/Entertainment/WireAP_702deffd064c455f96a9d25c90689bee_16x9_992.jpg)
 
 ### Related:
 

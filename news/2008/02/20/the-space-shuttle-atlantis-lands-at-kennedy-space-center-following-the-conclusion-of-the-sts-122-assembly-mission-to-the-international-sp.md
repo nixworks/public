@@ -8,6 +8,7 @@ NASA.gov brings you the latest images, videos and news from America&#039;s space
 ### Source:
 
 1. [NASA](http://www.nasa.gov/mission_pages/station/expeditions/expedition16/index.html)
+1. [Cover Image](http://www.nasa.gov/sites/default/files/files/nasa_insignia_300.jpg)
 
 ### Related:
 

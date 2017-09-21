@@ -9,6 +9,7 @@ Suspected Islamist fighters have attacked a town in western Mali near the border
 
 1. [Reuters via News24](http://www.news24.com/news24/Africa/News/11-dead-in-suspected-Islamist-attack-on-Mali-town-20150627)
 2. [Voice of America](http://www.voanews.com/content/six-dead-after-gunmen-attack-mali-military-camp/2839738.html)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2965/05799cc40d614aaebe9ea8fa75b973f0.jpg)
 
 ### Related:
 

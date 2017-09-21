@@ -9,6 +9,7 @@ The Sunday Times says it has film footage of Tory Party co-treasurer Peter Crudd
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-17501618)
 2. [Sky News](http://news.sky.com/home/politics/article/16195702)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59286000/jpg/_59286484_014346882-1.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ A U.S. Navy destroyer sailed within 12 nautical miles of artificial islands clai
 4. [The Guardian](http://www.theguardian.com/world/2015/oct/27/us-warship-lassen-defies-beijing-sail-disputed-south-china-sea-islands)
 5. [The New York Times](http://www.nytimes.com/2015/10/28/world/asia/south-china-sea-uss-lassen-spratly-islands.html?partner=rss&emc=rss&smid=tw-nytimes&smtyp=cur)
 6. [Wall Street Journal](http://www.wsj.com/articles/u-s-navy-ship-sails-near-islands-claimed-by-china-1445908192?mod=djemalertNEWS)
+6. [Cover Image](https://si.wsj.net/public/resources/images/BN-KY400_USCHIN_G_20151026230522.jpg)
 
 ### Related:
 

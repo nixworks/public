@@ -8,6 +8,7 @@
 ### Source:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-justice-stevens10-2010apr10,0,2922774.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

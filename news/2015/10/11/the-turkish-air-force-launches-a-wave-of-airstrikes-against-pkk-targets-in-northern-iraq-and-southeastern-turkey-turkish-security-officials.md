@@ -11,6 +11,7 @@ Turkish warplanes struck Kurdistan Workers Party (PKK) militant targets in north
 2. [Los Angeles Times](http://www.latimes.com/world/europe/la-fg-turkey-bombings-aftermath-20151011-story.html)
 3. [Reuters](http://www.reuters.com/article/2015/10/11/us-turkey-kurds-airstrikes-idUSKCN0S50B620151011)
 4. [The Guardian](http://www.theguardian.com/world/2015/oct/11/thousands-gather-in-ankara-to-pay-respects-to-activists-killed-in-bombings)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

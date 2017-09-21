@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2015/09/06/europe/europe-migrant-crisis/)
 2. [NBC4 New York](http://www.nbcnewyork.com/news/national-international/Pope-Francis-Migrant-Crisis-Life-Hope-324955271.html)
+2. [Cover Image](http://media.nbcnewyork.com/images/1200*675/AP_270798840110.jpg)
 
 ### Related:
 

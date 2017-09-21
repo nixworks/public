@@ -8,6 +8,7 @@ A private bus with around 60 passengers on board plunged into a gorge near Macha
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/indore/Bus-with-over-60-passengers-plunges-from-hill-into-gorge-in-Madhya-Pradesh-at-least-10-dead/articleshow/46267896.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/46271668.cms)
 
 ### Related:
 

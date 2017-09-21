@@ -8,3 +8,4 @@ A living plant has been generated from the fruit of a little arctic flower, maki
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/2012/02/21/science/new-life-from-an-arctic-flower-that-died-32000-years-ago.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/2012/02/21/science/21plant_cnd/21plant_cnd-thumbStandard.jpg)

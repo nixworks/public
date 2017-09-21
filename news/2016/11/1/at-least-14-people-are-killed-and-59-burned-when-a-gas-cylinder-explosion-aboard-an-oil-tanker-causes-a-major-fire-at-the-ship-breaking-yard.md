@@ -9,6 +9,7 @@
 
 1. [Dawn News](http://www.dawn.com/news/1293624/rescue-workers-struggle-to-put-out-fire-at-gadani-shipbreaking-yard)
 2. [The Express Tribune](http://tribune.com.pk/story/1217107/casualties-feared-fire-erupts-gadani-shipbreaking-yard/)
+2. [Cover Image](http://i.dawn.com/medium/2016/11/5818cdfe866f0.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The last of the 33 miners trapped deep underground in northern Chile for more th
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11518015)
 2. [Fox News](http://www.foxnewsinsider.com/2010/10/12/first-chilean-miner-rescued/)
 3. [Reuters](http://www.reuters.com/article/idUSN0925972620101012)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/49497000/jpg/_49497013_010416549-1.jpg)
 
 ### Related:
 

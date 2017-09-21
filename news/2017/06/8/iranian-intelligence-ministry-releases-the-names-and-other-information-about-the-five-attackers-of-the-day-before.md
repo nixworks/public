@@ -8,6 +8,7 @@ The Iranian Intelligence Ministry has released the names of and other informatio
 ### Source:
 
 1. [PressTV](http://www.presstv.ir/Detail/2017/06/08/524578/Iran-terror-attack)
+1. [Cover Image](http://cdn.presstv.com/photo/20170608/2268450c-7d58-4883-b9aa-744f4225cd8a.jpg)
 
 ### Related:
 

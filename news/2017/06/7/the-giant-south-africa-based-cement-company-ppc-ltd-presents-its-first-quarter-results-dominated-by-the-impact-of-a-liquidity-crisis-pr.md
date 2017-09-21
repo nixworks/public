@@ -8,6 +8,7 @@ South African cement makerPPC reported a 93 percent plunge in full-year earnings
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/ppc-results-idUSL8N1J40KE)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

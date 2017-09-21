@@ -9,6 +9,7 @@ Kurdish forces backed by U.S. air strikes seized the northern Iraqi town of Sinj
 
 1. [AP via Yahoo](http://news.yahoo.com/iraq-officials-suicide-bombing-baghdad-kills-17-121729470.html)
 2. [Reuters](http://uk.reuters.com/article/2015/11/13/uk-mideast-crisis-iraq-sinjar-idUKKCN0T10BS20151113)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151112&t=2&i=1094420373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAB17K)
 
 ### Related:
 

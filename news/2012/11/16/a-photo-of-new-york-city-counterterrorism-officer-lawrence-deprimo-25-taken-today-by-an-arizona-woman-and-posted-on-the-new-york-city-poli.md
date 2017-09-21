@@ -8,6 +8,7 @@ On a cold November night, Officer Lawrence DePrimo gave boots to a barefoot man.
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/50007300)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/121129-cop-shoes-gift-jsw-430a.standard.jpg)
 
 ### Related:
 

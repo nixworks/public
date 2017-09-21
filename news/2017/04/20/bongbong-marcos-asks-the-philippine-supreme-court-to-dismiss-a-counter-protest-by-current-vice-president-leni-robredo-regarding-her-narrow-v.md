@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/167429-bongbong-marcos-dismiss-robredo-counter-protest)
+1. [Cover Image](https://assets.rappler.com/771B99340D3D4969985F80AED58AFF55/img/4A1E5421DCAA447DA1EDA8BCB9542FAA/bongbong-marcos-april-17-2017-002.jpg)
 
 ### Related:
 

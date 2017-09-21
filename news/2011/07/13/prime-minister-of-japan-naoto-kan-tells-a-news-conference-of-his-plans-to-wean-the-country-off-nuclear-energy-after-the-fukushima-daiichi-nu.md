@@ -8,6 +8,7 @@ Japanese prime minister vows to move country towards renewable energy after disa
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/07/201171395417817629.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/13/201171310834365734_20.jpg)
 
 ### Related:
 

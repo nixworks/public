@@ -8,6 +8,7 @@ Nineteen South Korean Christian volunteers held hostage by the Taliban in Afghan
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSSEO26854720070902?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070902&t=2&i=1392370&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-02T090627Z_01_SEO268547_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

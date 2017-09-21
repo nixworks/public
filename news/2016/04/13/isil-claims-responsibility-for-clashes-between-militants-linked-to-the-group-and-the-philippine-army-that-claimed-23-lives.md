@@ -8,6 +8,7 @@ PHILIPPINES-ISLAMIC STATE/ (URGENT):Islamic state claims Philippines attack that
 ### Source:
 
 1. [Reuters via Trust](http://news.trust.org/item/20160413165532-gquks)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/0d88adf5-6b2e-46a1-8b31-066471b7c0ad/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

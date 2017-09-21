@@ -8,6 +8,7 @@ In an open letter to the Obama administration Thursday, America’s Eastern Euro
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/07/17/world/europe/17europe.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

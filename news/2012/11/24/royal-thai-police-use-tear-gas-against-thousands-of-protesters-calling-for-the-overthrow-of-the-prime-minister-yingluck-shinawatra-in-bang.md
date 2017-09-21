@@ -9,6 +9,7 @@ Police in the Thai capital, Bangkok, use tear gas against thousands of protester
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20475280)
 2. [RIA Novosti](http://en.ria.ru/world/20121124/177716134.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64354000/jpg/_64354328_64354111.jpg)
 
 ### Related:
 

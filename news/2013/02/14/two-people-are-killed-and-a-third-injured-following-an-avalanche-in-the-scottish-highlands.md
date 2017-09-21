@@ -8,6 +8,7 @@ A man and a woman die and a man is critically injured after being caught in an a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-highlands-islands-21462218)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65895000/jpg/_65895046_cairngormbusinesspartnership1.jpg)
 
 ### Related:
 

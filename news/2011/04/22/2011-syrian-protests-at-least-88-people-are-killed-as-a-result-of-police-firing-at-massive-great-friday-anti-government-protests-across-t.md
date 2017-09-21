@@ -21,6 +21,7 @@ Pro- and anti-government demonstrators hold rallies as Saleh gives guarded welco
 12. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE73L25620110422?sp=true)
 13. [The National](http://www.thenational.ae/news/worldwide/thousands-of-omanis-renew-calls-against-corruption)
 14. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Mubaraks-detention-extended-may-be-shifted-to-prison/articleshow/8058632.cms)
+14. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/22/2011422925643112_20.jpg)
 
 ### Related:
 

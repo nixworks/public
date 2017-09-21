@@ -8,6 +8,7 @@ The gunman involved in the shooting of 12 police officers in Dallas was a former
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/la-na-dallas-police-shooting-20160708-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-577fa0f8/turbine/la-na-dallas-police-shooting-20160708-snap)
 
 ### Related:
 

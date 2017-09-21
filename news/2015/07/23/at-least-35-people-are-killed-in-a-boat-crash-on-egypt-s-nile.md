@@ -9,6 +9,7 @@ A boat, reportedly chartered for an engagement party, sinks after a crash on the
 
 1. [BBC](http://www.bbc.com/news/world-africa-33632887)
 2. [Yahoo](http://news.yahoo.com/egypt-raises-death-toll-nile-boat-collision-35-095222894.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/CB0F/production/_84438915_hi028285310.jpg)
 
 ### Related:
 

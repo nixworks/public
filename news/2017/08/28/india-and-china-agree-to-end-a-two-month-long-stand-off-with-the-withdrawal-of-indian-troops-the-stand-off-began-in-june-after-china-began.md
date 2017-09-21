@@ -8,6 +8,7 @@ India and China have agreed to end a months-long military stand-off at a dispute
 ### Source:
 
 1. [news.com.au](http://www.news.com.au/world/breaking-news/india-china-end-himalaya-border-standoff/news-story/9fdb6d5d04c8378bcf52d5fa46310a42)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

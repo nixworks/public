@@ -9,6 +9,7 @@ A fire that started at a frozen custard shop Thursday ripped along the boardwalk
 
 1. [ABC News}](http://abcnews.go.com/US/wireStory/fire-rages-nj-boardwalk-damaged-sandy-20241297)
 2. [USA Today](http://www.usatoday.com/story/news/nation/2013/09/12/seaside-nj-boardwalk-fire/2806627/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](http://www.rappler.com/move-ph/issues/disasters/166417-earthquakeph-quake-metro-manila-neigboring-provinces)
+1. [Cover Image](https://assets.rappler.com/D7AAD8CE2B4E432595E9246FD055476C/img/97AFAC0A921D4A92AF09845B01B51CD6/20170408-earthquake-two.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A man suspected of holding at least four people hostage at a campaign office of 
 1. [Boston Channel](http://www.thebostonchannel.com/news/14737959/detail.html)
 2. [NYT](http://www.nytimes.com/2007/11/30/us/30cnd-hostage.html?_r=1&hp=&adxnnl=1&oref=slogin&adxnnlx=1196465631-RWKROGqt43DANRYZ4uDAgw)
 3. [WMUR-TV](http://www.wmur.com/news/14737868/detail.html)
+3. [Cover Image](https://static01.nyt.com/images/2007/11/30/us/01hostage-75.jpg)
 
 ### Related:
 

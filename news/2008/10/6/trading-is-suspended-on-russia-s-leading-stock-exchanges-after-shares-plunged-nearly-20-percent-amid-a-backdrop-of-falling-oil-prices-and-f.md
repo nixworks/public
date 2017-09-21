@@ -9,6 +9,7 @@
 
 1. [International Herald Tribune](http://www.iht.com/articles/ap/2008/10/06/business/EU-Russia-Markets.php)
 2. [MarketWatch](http://www.marketwatch.com/news/story/russian-stocks-plunge-20-trading/story.aspx?guid=%7B77B15963%2DE05A%2D48B7%2D8C34%2D9EC224B1C774%7D)
+2. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

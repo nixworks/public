@@ -9,6 +9,7 @@ GlaxoSmithKline Plc has agreed to pay $750 million and plead guilty to manufactu
 
 1. [Boston Globe](http://www.boston.com/business/healthcare/articles/2010/10/27/glaxosmithkline_to_pay_750m_fine_in_fraud_case/)
 2. [Reuters](http://www.reuters.com/article/idUSTRE69P4GH20101027)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20101027&t=2&i=234806413&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-27T005756Z_01_BTRE69Q02OM00_RTROPTP_0_GLAXO-RESULTS)
 
 ### Related:
 

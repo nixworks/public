@@ -8,6 +8,7 @@ House of Representatives passed legislation for Republicans to proceed with ‘b
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/us-news/2017/jan/13/congress-house-affordable-care-act-obamacare-repeal)
+1. [Cover Image](https://i.guim.co.uk/img/media/cceee9875364a86e549214d9c34161b905a278ef/0_274_4096_2458/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=70524d00f96a3ccbdc70e417bd3351d1)
 
 ### Related:
 

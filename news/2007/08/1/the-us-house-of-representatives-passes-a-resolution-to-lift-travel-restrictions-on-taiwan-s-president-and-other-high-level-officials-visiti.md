@@ -8,6 +8,7 @@ The House of Representatives passed a resolution Monday that recommends the lift
 ### Source:
 
 1. [AP via China Post](http://www.chinapost.com.tw/news/2007/08/01/116635/House-resolves.htm)
+1. [Cover Image](http://www.chinapost.com.tw)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The bodies are then planned to be flown to their respective destinations, includ
 ### Source:
 
 1. [IBN Live](http://www.ibnlive.com/news/india/siachen-avalanche-bodies-of-9-soldiers-to-reach-delhi-today-1203179.html)
+1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2016/02/siachen5useofmechanicalicecutters1.jpg)
 
 ### Related:
 

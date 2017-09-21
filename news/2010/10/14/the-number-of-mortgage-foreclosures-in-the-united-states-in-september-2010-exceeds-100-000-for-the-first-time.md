@@ -8,6 +8,7 @@ The number of homes taken over by banks topped 100,000 for the first time in Sep
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE69D0SF20101014)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20101014&t=2&i=225784414&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-14T165902Z_01_BTRE69D0I1T00_RTROPTP_0_ROUTE-RECOVERY)
 
 ### Related:
 

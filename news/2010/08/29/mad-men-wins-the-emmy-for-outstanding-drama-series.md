@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://goldderby.latimes.com/awards_goldderby/2010/08/the-envelope-we-are-live-blogging-the-emmys.html)
+1. [Cover Image](http://goldderby.latimes.com/.a/6a00d8341c2c4f53ef0133f3616a1c970b-120pi)
 
 ### Related:
 

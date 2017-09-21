@@ -9,6 +9,7 @@
 
 1. [AP via Observer Today](http://www.observertoday.com/page/content.detail/id/131015/Yemen-president-says-he-wants-protesters-protected-.html?isap=1&nav=5022)
 2. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/24/139031.html)
+2. [Cover Image](http://d14e0irai0gcaa.cloudfront.net/www.observertoday.com/images/2017/01/31094407/fb.jpg)
 
 ### Related:
 

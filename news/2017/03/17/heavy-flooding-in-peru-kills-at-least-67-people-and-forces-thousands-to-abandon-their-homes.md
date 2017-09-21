@@ -8,6 +8,7 @@ Devastating downpour, caused by high ocean temperatures, could not have been pre
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/mar/17/peru-floods-ocean-climate-change)
+1. [Cover Image](https://i.guim.co.uk/img/media/034284799be5277fafaefb3d419c6466d11b804b/0_178_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8f627839dba8616f917f7b965e6866dd)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Le Monde](http://www.lemonde.fr/politique/article/2011/09/25/pour-la-premiere-fois-de-son-histoire-le-senat-bascule-a-gauche_1577644_823448.html#ens_id=1571650)
+1. [Cover Image](http://s1.lemde.fr/image/2011/09/25/644x322/1577647_3_5a71_francois-hollande-et-martine-aubry.jpg)
 
 ### Related:
 

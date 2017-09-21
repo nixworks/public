@@ -8,6 +8,7 @@ Authorities in the Indian state of Jharkhand hunt those behind a Maoist rebel at
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-27153670)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74434000/jpg/_74434360_74434359.jpg)
 
 ### Related:
 

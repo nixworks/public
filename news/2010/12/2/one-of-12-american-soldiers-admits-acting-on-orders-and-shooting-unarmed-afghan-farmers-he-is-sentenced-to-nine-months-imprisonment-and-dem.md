@@ -8,3 +8,4 @@ A US soldier, one of 12 facing charges, pleads guilty to shooting unarmed Afghan
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/201012253539228197.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/27/2010112712542955876_20.jpg)

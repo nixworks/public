@@ -10,6 +10,7 @@ GOP presidential candidate Donald Trump hosted &quot;SNL&quot; on Saturday as pr
 1. [AP](http://bigstory.ap.org/article/6d650354429e4003929ad80331a17db4/hosting-snl-donald-trump-fends-mock-heckler)
 2. [Entertainment Weekly](http://www.ew.com/article/2015/11/08/donald-trump-snl-ratings)
 3. [NBC](http://www.nbcnews.com/politics/2016-election/donald-trump-hosts-saturday-night-live-amid-protests-n459341)
+3. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_45/1293636/151108-donald-trump-mn-0750_61227c6e3b7731068f80b0753d455af1.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

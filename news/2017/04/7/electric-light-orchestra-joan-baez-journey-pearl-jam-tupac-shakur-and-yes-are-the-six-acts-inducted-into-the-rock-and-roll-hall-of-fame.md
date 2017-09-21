@@ -8,6 +8,7 @@ Seattle rockers Pearl Jam, the late rapper Tupac Shakur and 1970s hitmaking band
 ### Source:
 
 1. [New York Post](http://nypost.com/2017/04/08/rock-and-roll-hall-of-fame-induction-includes-journey-reunion-chuck-berry-tribute/)
+1. [Cover Image](https://thenypost.files.wordpress.com/2017/04/665983662.jpg?quality=90&amp;strip=all&amp;w=1200)
 
 ### Related:
 

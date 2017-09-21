@@ -8,6 +8,7 @@ Home Secretary Theresa May admits she does not know how many foreigners came int
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15615537)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56500000/jpg/_56500562_kcp6scbe.jpg)
 
 ### Related:
 

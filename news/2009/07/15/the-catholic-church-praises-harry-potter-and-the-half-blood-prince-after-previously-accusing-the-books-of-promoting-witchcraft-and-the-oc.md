@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/entertainment/news-gossip/harry-potter-and-the-incredibly-positive-review-from-the-official-vatican-paper-1821926.html)
+1. [Cover Image](http://www.independent.ie/migration_catalog/article25089652.ece/ALTERNATES/h342/Harry_Film)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Japan drafted a U.N. Security Council resolution condemning North Korea Wednesda
 2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/07/05/korea.missile/index.html)
 3. [The Washington Times](http://www.washtimes.com/national/20060705-015519-6396r.htm)
 4. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/05/AR2006070500217.html?nav=rss_world)
+4. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

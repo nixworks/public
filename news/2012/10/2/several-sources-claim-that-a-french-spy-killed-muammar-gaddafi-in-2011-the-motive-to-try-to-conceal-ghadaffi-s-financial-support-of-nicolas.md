@@ -9,6 +9,7 @@ A&#x20;French&#x20;intelligence&#x20;expert&#x20;has&#x20;poured&#x20;cold&#x20;
 
 1. [France 24](http://www.france24.com/en/20121001-reports-gaddafi-killed-french-agent-patent-nonsense-france-libya-jibril-el-obeidi)
 2. [Hindustan Times](http://www.hindustantimes.com/world-news/Europe/Gaddafi-killed-by-French-agent-on-Sarkozy-order/Article1-938543.aspx)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/kadhafi_7.jpg)
 
 ### Related:
 

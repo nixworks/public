@@ -11,6 +11,7 @@ American forces have shot down a Syrian government fighter jet accused of attack
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-usa-idUSKBN1990XI)
 3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-iran-idUSKBN1990WI)
 4. [The Independent](http://www.independent.co.uk/news/world/middle-east/syria-war-latest-us-shoots-down-regime-assad-fighter-jet-bombed-attacked-coalition-sdf-isis-raqqa-a7796511.html)
+4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/07/21/raqqa-offensive-sdf.jpg)
 
 ### Related:
 

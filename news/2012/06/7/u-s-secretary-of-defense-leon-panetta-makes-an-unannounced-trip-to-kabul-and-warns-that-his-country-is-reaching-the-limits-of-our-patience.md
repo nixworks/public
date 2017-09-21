@@ -11,6 +11,7 @@ Washington is losing patience with Pakistan over alleged safe havens for Taliban
 2. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/06/201267111154359107.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-18350766)
 4. [The Guardian](http://www.guardian.co.uk/world/2012/jun/07/pakistan-insurgent-bases-panetta)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60747000/jpg/_60747785_014967574-1.jpg)
 
 ### Related:
 

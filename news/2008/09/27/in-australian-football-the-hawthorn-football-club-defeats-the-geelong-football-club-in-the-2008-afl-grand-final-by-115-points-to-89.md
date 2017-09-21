@@ -8,6 +8,7 @@ Hawthorn won its first AFL premiership for 17 years at the MCG, emphatically top
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/09/27/2375997.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/519250-1x1-700x700.jpg)
 
 ### Related:
 

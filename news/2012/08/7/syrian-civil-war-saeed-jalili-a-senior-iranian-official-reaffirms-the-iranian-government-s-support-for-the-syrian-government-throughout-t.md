@@ -8,6 +8,7 @@ Senior Iranian official meets Assad in Damascus as new deaths are reported in Al
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/201287142241794676.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/7/20128715746629734_20.jpg)
 
 ### Related:
 

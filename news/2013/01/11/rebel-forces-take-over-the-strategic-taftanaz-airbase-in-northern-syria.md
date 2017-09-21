@@ -8,6 +8,7 @@ Syrian activists say Islamic militants seeking to topple President Bashar Assad 
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/01/11/syrian-rebels-seize-key-air-base-activists-say/1826117/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

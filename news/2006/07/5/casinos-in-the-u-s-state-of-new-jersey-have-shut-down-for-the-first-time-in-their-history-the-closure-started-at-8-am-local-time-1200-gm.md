@@ -9,6 +9,7 @@
 
 1. [Associated Press](http://www.foxnews.com/story/0,2933,202112,00.html)
 2. [Philadelphia Inquirer](http://www.philly.com/mld/philly/14969773.htm)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

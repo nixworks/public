@@ -8,6 +8,7 @@ Barclays bank appoints Sir David Walker, who led an inquiry into how banks are r
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-19196831)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61609000/jpg/_61609983_015250903-1.jpg)
 
 ### Related:
 

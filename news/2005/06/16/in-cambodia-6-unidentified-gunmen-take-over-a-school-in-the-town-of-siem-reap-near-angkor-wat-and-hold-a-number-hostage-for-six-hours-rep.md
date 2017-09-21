@@ -13,6 +13,7 @@ A hostage-taking of dozens of children at an international school in Cambodia ha
 4. [Channel News Asia](http://www.channelnewsasia.com/stories/southeastasia/view/153023/1/.html)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8807502)
 6. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8808440)
+6. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

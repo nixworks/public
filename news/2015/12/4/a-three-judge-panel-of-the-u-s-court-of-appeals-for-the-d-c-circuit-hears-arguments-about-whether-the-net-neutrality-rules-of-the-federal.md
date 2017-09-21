@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-internet-idUSKBN0TN18D20151204#vjf96SECUl8ZGtr2.97)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151204&t=2&i=1099834786&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB30JQ)
 
 ### Related:
 

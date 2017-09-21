@@ -19,7 +19,7 @@ _Context: Ivan Rybkin, Vladimir Putin_
 _Context: George W. Bush_
 
 ### [ Democratic presidential nomination: Former Democratic candidate for the U.S. presidency Gen. Wesley K. Clark endorses current Democratic favorite Senator John Kerry.](/news/2004/02/13/democratic-presidential-nomination-former-democratic-candidate-for-the-u-s-presidency-gen-wesley-k-clark-endorses-current-democratic-fa.md)
-_Context: Democratic Party, Democratic presidential nomination, John Kerry, Wesley K. Clark_
+_Context: Democratic, Democratic presidential nomination, John Kerry, Wesley K. Clark_
 
 ### [ Greek and Turkish Cypriot leaders accept United Nations Secretary General Kofi Annan's plan for ending the partition of the island of Cyprus. The two sides will work under a tight timetable to agree by March 22 on reunification language that can be put to simultaneous islandwide referendums on April 21. Unless reunification is achieved, only the Greek Cypriot government will be entitled to enter the European Union on May 1.](/news/2004/02/13/greek-and-turkish-cypriot-leaders-accept-united-nations-secretary-general-kofi-annan-s-plan-for-ending-the-partition-of-the-island-of-cypru.md)
 _Context: Cyprus, EU, Kofi Annan, Republic of Cyprus, TRNC, United Nations Secretary-General, referendum_

@@ -8,6 +8,7 @@ YANGON, Myanmar (AP) — Conditions in camps for members of Myanmar&#039;s Musli
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/79d17090c23e41f5902b2727eb869cd1/un-human-rights-envoy-displaced-rohingya-still-suffering)
+1. [Cover Image](http://binaryapi.ap.org/22fc5ae543d84e5b8276c91ea9319f35/460x.jpg)
 
 ### Related:
 

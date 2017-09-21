@@ -8,6 +8,7 @@ At least 44 people died when a bus headed from Bangalore to Hyderabad went up in
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/south/bus-catches-fire-in-hyderabad-20-people-feared-dead-439124)
+1. [Cover Image](http://i.ndtvimg.com/mt/2013-10/hyderabad-bus-fire-360.jpg)
 
 ### Related:
 

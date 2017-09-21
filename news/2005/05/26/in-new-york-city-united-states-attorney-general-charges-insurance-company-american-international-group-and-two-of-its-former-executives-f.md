@@ -12,6 +12,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 3. [Forbes](http://www.forbes.com/business/2005/05/26/cx_daa_0526aig2.html)
 4. [New York Times](http://www.nytimes.com/2005/05/27/business/27insure.html)
 5. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=businessNews&storyID=2005-05-26T235240Z_01_N26471343_RTRIDST_0_BUSINESS-FINANCIAL-AIG-DC.XML)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

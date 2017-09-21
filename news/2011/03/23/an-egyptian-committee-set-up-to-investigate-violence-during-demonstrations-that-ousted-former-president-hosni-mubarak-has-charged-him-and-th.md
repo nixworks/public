@@ -8,6 +8,7 @@ Investigation of violence during protests says former president and interior min
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=213411)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=160188)
 
 ### Related:
 

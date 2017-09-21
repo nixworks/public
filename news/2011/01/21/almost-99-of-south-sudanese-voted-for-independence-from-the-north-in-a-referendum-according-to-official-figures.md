@@ -9,6 +9,7 @@
 
 1. [Africasia](http://www.africasia.com/services/news_africa/article.php?ID=CNG.4fd4d6d1ccd3ca5560228308bbcfdcc2.711)
 2. [Reuters](http://www.reuters.com/article/idUSTRE70K2DV20110121)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Syria has accused Turkey of “air piracy” after Turkish fighter jets on Wedne
 2. [Reuters](http://www.reuters.com/article/2012/10/11/us-syria-crisis-idUSBRE88J0X720121011)
 3. [SANA](http://sana.sy/eng/21/2012/10/12/446649.htm)
 4. [The Hindu](http://www.thehindu.com/news/international/turkey-accused-of-air-piracy/article3987113.ece)
+4. [Cover Image](http://www.thehindu.com/migration_catalog/article12527253.ece/ALTERNATES/LANDSCAPE_615/syria-plane)
 
 ### Related:
 

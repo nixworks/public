@@ -8,6 +8,7 @@ Euro zone leaders told Greece on Thursday its leftist-led government must implem
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/03/19/us-eurozone-greece-idUSKBN0MF0WY20150319)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150319&t=2&i=1033663803&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2I0DS)
 
 ### Related:
 

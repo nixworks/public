@@ -10,6 +10,7 @@ Human Rights Council authorises international criminal probe of alleged atrociti
 1. [Al Jazeera](http://www.aljazeera.com/news/southasia/2014/03/un-approves-sri-lanka-war-crimes-inquiry-201432773150513279.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-26765503)
 3. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/un-approves-sri-lanka-inquiry-of-civil-war-abuses/2014/03/27/b5804a02-b5b0-11e3-bab2-b9602293021d_story.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/3/27/20143279651428734_20.jpg)
 
 ### Related:
 

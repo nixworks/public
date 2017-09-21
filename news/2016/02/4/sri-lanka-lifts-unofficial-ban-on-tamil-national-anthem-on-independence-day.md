@@ -9,6 +9,7 @@ School children rendered the Sinhala and Tamil versions of the national anthem a
 
 1. [Indian Express](http://indianexpress.com/article/world/world-news/sri-lanka-lifts-unofficial-ban-on-tamil-national-anthem-on-independence-day/)
 2. [New York Times](http://www.nytimes.com/aponline/2016/02/04/world/asia/ap-as-sri-lanka-independence.html?_r=0)
+2. [Cover Image](http://images.indianexpress.com/2016/02/sri-lanka-i-day480.jpg?w=480)
 
 ### Related:
 

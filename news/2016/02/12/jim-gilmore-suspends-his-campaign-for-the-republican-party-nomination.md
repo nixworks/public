@@ -8,6 +8,7 @@ The latest news from the trail the day after the latest Democratic debate, as ca
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/us-news/live/2016/feb/12/us-presidential-election-2016-campaign-live-clinton-sanders-trump-cruz)
+1. [Cover Image](https://i.guim.co.uk/img/media/cbe487bc5327f62bac34016891156a30233cc8f9/0_107_2785_1671/master/2785.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=71a937e685bd59ca92a229fe7fd56249)
 
 ### Related:
 

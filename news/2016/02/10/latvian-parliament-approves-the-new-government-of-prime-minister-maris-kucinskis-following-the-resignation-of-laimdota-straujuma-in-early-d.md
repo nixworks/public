@@ -8,6 +8,7 @@ Latvian parliament formally approved the new government of Prime Minister Maris 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-latvia-pm-idUKKCN0VK128)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160211&t=2&i=1116718424&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1A0QG)
 
 ### Related:
 

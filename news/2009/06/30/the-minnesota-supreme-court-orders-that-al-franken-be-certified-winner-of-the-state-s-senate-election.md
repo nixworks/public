@@ -9,6 +9,7 @@ The Minnesota SupremeCourt on Tuesday declared Democrat Al Franken the winner of
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601103&sid=a_0vTv_Vz92c)
 2. [Reuters](http://www.reuters.com/article/marketsNews/idUSN3045153320090630)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

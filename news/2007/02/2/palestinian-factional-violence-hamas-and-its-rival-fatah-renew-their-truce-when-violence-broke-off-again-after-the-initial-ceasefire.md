@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6326265.stm)
 2. [CNN](http://www.cnn.com/2007/WORLD/meast/02/02/israel.palestinians.ap/index.html)
 3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-02-02T224757Z_01_L01863825_RTRUKOC_0_US-PALESTINIANS.xml&WTmodLoc=IntNewsHome_C1_%5bFeed%5d-2)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

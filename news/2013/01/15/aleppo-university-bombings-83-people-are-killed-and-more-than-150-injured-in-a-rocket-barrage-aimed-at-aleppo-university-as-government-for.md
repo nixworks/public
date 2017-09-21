@@ -10,6 +10,7 @@ Syria UN envoy says 82 students killed in Aleppo blastsUNITED NATIONS, Jan 15 (R
 1. [Antiwar.com](http://news.antiwar.com/2013/01/15/missiles-pound-syrias-aleppo-university-83-killed-over-150-wounded/)
 2. [Reuters](http://live.reuters.com/Event/Syria/60946722)
 3. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/15-killed-in-blast-at-Syrias-Aleppo-University-NGO/articleshow/18034328.cms)
+3. [Cover Image](http://avatars.scribblelive.com/2011/11/12/eb085f86-64e6-4ffc-82b1-662899bf5a8b.png)
 
 ### Related:
 

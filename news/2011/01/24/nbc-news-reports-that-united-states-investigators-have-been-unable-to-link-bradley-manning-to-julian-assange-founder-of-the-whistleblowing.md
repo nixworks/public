@@ -8,6 +8,7 @@ U.S. military officials tell NBC News that investigators have been unable to mak
 ### Source:
 
 1. [NBC News](http://www.msnbc.msn.com/id/41241414/ns/us_news-wikileaks_in_security/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/101130-bradley-manning-vsml-5p.standard.jpg)
 
 ### Related:
 

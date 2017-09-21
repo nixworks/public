@@ -8,6 +8,7 @@ A federal judge in Virginia has struck down the state&#39;s prohibition on same-
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2014/02/13/virginia-same-sex-marriage/5473687/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

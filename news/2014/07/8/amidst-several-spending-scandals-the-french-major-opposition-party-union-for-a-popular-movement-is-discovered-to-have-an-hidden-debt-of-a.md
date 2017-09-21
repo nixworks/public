@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Lemonde.fr](http://www.lemonde.fr/les-decodeurs/article/2014/07/08/que-deviendrait-la-dette-de-l-ump-si-le-parti-disparaissait_4453316_4355770.html)
+1. [Cover Image](http://s1.lemde.fr/image/2014/07/07/644x322/4452770_3_a86f_guy-alves-et-bastien-millot-sont-impliques-d_b7613462dd30460d54b2f4fca93f0741.jpg)
 
 ### Related:
 

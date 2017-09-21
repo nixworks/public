@@ -8,6 +8,7 @@ A French high-speed TGV train is involved in a collision with a regional express
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28358137)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76338000/jpg/_76338051_francepau4640714.jpg)
 
 ### Related:
 

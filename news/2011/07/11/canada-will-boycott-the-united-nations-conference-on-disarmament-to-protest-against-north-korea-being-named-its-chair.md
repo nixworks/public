@@ -8,6 +8,7 @@ Canada is boycotting a UN body dedicated to disarmament to protest against North
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2011/07/11/pol-baird-un-north-korea.html)
+1. [Cover Image](https://i.cbc.ca/1.1947979.1381383513!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-baird-009389472-852.jpg)
 
 ### Related:
 

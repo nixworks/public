@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-39625509)
 2. [CNN](http://www.cnn.com/2017/04/18/europe/france-election-le-pen-macron/index.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/648A/production/_95683752_lepenindexgetty.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 42 people drown after a migrant boat carrying about 600 passengers caps
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37429831)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/BEFC/production/_91329884_mediaitem91329879.jpg)
 
 ### Related:
 

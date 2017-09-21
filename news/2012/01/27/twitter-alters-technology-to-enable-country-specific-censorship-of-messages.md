@@ -9,6 +9,7 @@ Micro-blogging service unveils shift in policy as it seeks to expand into new te
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/01/201212755630649123.html)
 2. [USA Today](http://www.usatoday.com/tech/news/story/2012-01-27/twitter-censor-tweets/52811702/1)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/11/201211112394337734_20.jpg)
 
 ### Related:
 

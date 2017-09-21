@@ -10,6 +10,7 @@ A huge turnout from the middle classes saw traditional SNP strongholds declare f
 1. [BBC](http://www.bbc.com/news/uk-scotland-29270441)
 2. [Reuters](http://www.reuters.com/article/2014/09/17/us-scotland-independence-idUSKBN0HB0O920140917)
 3. [The Telegraph](http://www.telegraph.co.uk/news/uknews/scottish-independence/11108071/One-by-one-the-Yes-vote-strongholds-wavered.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03043/no-vote_3043941k.jpg)
 
 ### Related:
 

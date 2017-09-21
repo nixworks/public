@@ -8,3 +8,4 @@ Archaeologists have uncovered nearly 5,000 cave paintings at 11 different sites 
 ### Source:
 
 1. [io9](http://io9.com/thousands-of-cave-paintings-have-been-discovered-in-mex-509994795)
+1. [Cover Image](https://i.kinja-img.com/gawker-media/image/upload/s--Eeo95Ey8--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/18oz28skeuvumjpg.jpg)

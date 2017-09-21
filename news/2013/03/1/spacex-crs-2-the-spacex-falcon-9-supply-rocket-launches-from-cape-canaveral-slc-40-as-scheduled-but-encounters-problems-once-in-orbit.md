@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/business/money/la-fi-mo-spacex-blastoff-nasa-problem-20130301,0,4927820.story)
+1. [Cover Image](http://www.trbimg.com/img-5130f49e/turbine/la-fi-mo-spacex-blastoff-nasa-20130301-001/600/600x400)
 
 ### Related:
 

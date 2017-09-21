@@ -8,6 +8,7 @@ Cyclone Stan is starting to weaken as it moves over WA&#039;s Pilbara but locals
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-01-31/tropical-cyclone-stan-crosses-pilbara-coast-of-wa/7127534)
+1. [Cover Image](http://www.abc.net.au/news/image/7127664-1x1-700x700.jpg)
 
 ### Related:
 

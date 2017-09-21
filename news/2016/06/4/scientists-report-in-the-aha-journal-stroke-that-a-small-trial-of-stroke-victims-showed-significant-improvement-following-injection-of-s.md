@@ -9,6 +9,7 @@ The results could be a fluke, but the research is encouraging.
 
 1. [Stroke](http://stroke.ahajournals.org/content/early/2016/06/02/STROKEAHA.116.012995.abstract)
 2. [Tech Insider](http://www.techinsider.io/using-stem-cells-to-treat-stroke-symptoms-2016-6)
+2. [Cover Image](http://static6.businessinsider.com/image/57534a1ddd089571078b4aeb-1190-625/patients-who-were-in-wheelchairs-are-walking-after-an-experimental-stem-cell-treatment--but-doctors-urge-caution.jpg)
 
 ### Related:
 

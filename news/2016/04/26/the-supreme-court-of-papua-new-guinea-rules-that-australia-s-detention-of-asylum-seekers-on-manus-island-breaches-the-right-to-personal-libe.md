@@ -8,6 +8,7 @@ Papua New Guinea&#039;s Supreme Court rules Australia&#039;s detention of asylum
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-04-26/png-rules-detention-on-manus-island-illegal/7360078)
+1. [Cover Image](http://www.abc.net.au/news/image/5532140-1x1-700x700.jpg)
 
 ### Related:
 

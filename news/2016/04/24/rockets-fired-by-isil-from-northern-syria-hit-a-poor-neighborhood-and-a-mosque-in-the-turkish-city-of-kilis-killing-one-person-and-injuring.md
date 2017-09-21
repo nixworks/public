@@ -9,6 +9,7 @@ One person was killed and 26 others injured on Sunday in the Turkish border town
 
 1. [Euronews](http://www.euronews.com/2016/04/24/rocket-fire-from-syria-injures-16-in-turkish-border-town/)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-turkey-syria-idUSKCN0XL09C)
+2. [Cover Image](http://static.euronews.com/articles/330856/1000x563_330856.jpg)
 
 ### Related:
 

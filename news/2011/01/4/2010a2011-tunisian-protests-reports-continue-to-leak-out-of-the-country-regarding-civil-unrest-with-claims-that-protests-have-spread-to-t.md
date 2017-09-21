@@ -8,6 +8,7 @@ Protests over unemployment continue to spread across the country as the governme
 ### Source:
 
 1. [Al Jazeera English](http://english.aljazeera.net/news/africa/2011/01/201114101752467578.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/3/201113131644799876_20.jpg)
 
 ### Related:
 

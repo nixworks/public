@@ -9,6 +9,7 @@ The near-Earth asteroid 2000 EM26 is set to fly past Earth on Monday (Feb. 17), 
 
 1. [NBC News](http://www.nbcnews.com/science/space/huge-asteroid-fly-safely-earth-monday-watch-it-live-n32051)
 2. [Space.com](http://www.space.com/24704-asteroid-2000-em26-earth-flyby-webcast.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAzNi85NDEvb3JpZ2luYWwvYXN0ZXJvaWQtMjAwMC1lbTI2LWxvY2F0aW9uLW1vbmRheS5qcGc=)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/russian-president-vladimir-putin-praises-donald-trump-talented/story?id=35816611)
+1. [Cover Image](http://a.abcnews.com/images/International/GTY_trump_putin_mm_151217_16x9_992.jpg)
 
 ### Related:
 

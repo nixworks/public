@@ -8,6 +8,7 @@ Argentina will deposit itsnext interest payment due on its restructured debt on 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/09/29/argentina-debt-payment-idUSE6N0Q605X20140929)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

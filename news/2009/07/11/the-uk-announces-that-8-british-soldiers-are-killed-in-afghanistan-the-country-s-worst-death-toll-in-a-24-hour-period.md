@@ -8,6 +8,7 @@ Latest fatalities in Helmand push British death toll in the country past that in
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/07/20097114914993351.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

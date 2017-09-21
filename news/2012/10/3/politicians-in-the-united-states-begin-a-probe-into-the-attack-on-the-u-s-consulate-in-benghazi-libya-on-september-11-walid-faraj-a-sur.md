@@ -10,6 +10,7 @@ Three weeks after the attack that killed four Americans in Benghazi, the Libyan 
 1. [Bloomberg](http://www.bloomberg.com/news/2012-10-03/libya-attack-probe-unfolds-as-u-s-politicians-pin-blame.html)
 2. [The Independent](http://www.independent.co.uk/news/world/middle-east/us-probe-of-libya-attack-moves-slowly-8195359.html)
 3. [The Washington Post](http://www.washingtonpost.com/world/middle_east/libyans-say-few-questions-being-asked-about-attack/2012/10/02/4398d6e2-0cd9-11e2-ba6c-07bd866eb71a_story.html)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/09/15/21/mayhem8-ap.jpg)
 
 ### Related:
 

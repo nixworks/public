@@ -9,6 +9,7 @@ NASA has selected two missions that have the potential to open new windows on on
 
 1. [NASA](https://www.nasa.gov/press-release/nasa-selects-two-missions-to-explore-the-early-solar-system)
 2. [Spaceflight101](http://spaceflight101.com/lucy-and-psyche-discovery-mission-selection)
+2. [Cover Image](http://www.nasa.gov/sites/default/files/thumbnails/image/discovery-missions-v3.jpg)
 
 ### Related:
 

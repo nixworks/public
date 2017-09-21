@@ -8,6 +8,7 @@ Parts of Haiti hit by Matthew were still without aid Tuesday, as the U.N. sought
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/hurricane-matthew/haiti-needs-massive-response-halt-cholera-crisis-after-matthew-u-n664191)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_41/1745676/161011-matthew-haiti-hospital-cholera-child-0452_ad3ab2b864bfb53035173fef84d8277f.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

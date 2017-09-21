@@ -8,6 +8,7 @@ Counter-terrorism officers have arrested another man in connection with the hack
 ### Source:
 
 1. [SAPA via News24](http://www.news24.com/news24/World/News/UK-cops-arrest-another-attack-suspect-20130526)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2359/2818533a08cb4d7db2676bf6e15840c5.jpg)
 
 ### Related:
 

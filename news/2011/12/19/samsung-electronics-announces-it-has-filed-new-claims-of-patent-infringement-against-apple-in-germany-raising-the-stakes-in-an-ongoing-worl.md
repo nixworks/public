@@ -8,6 +8,7 @@ Samsung Electronics has filed new claims in its patent war with Apple Inc over a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/12/19/us-samsung-apple-patent-idUSTRE7BI07Y20111219)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111219&t=2&i=548477827&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BI0B3100)
 
 ### Related:
 
@@ -19,5 +20,5 @@ Samsung Electronics has filed new claims in its patent war with Apple Inc over a
 6. [Samsung Electronics lodges a claim with the US International Trade Commission to stop Apple Inc. importing six products including the iPhone, iPod and iPads for alleged patent infringements. ](/news/2011/06/30/samsung-electronics-lodges-a-claim-with-the-us-international-trade-commission-to-stop-apple-inc-importing-six-products-including-the-iphone.md) _Context: Apple Inc., Samsung_
 7. [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md) _Context: Germany_
 8. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: Germany_
-9. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Germany_
-10. [Apple Inc. announces three new iPhone models: the iPhone 8, iPhone 8 Plus, and the iPhone X. The Apple Watch Series 3 and a new Apple TV are also announced. ](/news/2017/09/12/apple-inc-announces-three-new-iphone-models-the-iphone-8-iphone-8-plus-and-the-iphone-x-the-apple-watch-series-3-and-a-new-apple-tv-are.md) _Context: Apple Inc._
+9. [Apple Inc. releases the iOS 11 update for most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-current-models-of-the-iphone-and-ipad.md) _Context: Apple Inc._
+10. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Germany_

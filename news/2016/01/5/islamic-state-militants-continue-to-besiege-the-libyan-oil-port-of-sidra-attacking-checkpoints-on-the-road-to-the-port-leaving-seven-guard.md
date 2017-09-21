@@ -8,6 +8,7 @@ Islamic State militants attacked checkpoints near the Libyan oil port of Es Side
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-libya-security-idUSKBN0UJ0WE20160105)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

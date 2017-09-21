@@ -8,6 +8,7 @@ Police in Gatineau, Que., have identified one of two men who were found dead aft
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/news/canada/ottawa/story/2013/04/05/ottawa-quebec-police-operation-montessori-school.html)
+1. [Cover Image](https://i.cbc.ca/1.1558327.1379047695!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-cp04241304-daycare-852.jpg)
 
 ### Related:
 

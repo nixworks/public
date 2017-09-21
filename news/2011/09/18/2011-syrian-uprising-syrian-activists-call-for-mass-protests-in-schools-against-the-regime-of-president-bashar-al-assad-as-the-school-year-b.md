@@ -11,6 +11,7 @@ At least four people were killed across Syria on Sunday, the Local Coordination 
 2. [BBC](http://www.bbc.co.uk/news/world-africa-14962623)
 3. [CNN](http://edition.cnn.com/2011/WORLD/meast/09/18/syria.unrest/)
 4. [Haaretz](http://www.haaretz.com/news/middle-east/syria-activists-call-for-mass-protests-as-school-year-begins-1.385128)
+4. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/09/18/syria.unrest/tzvids.syrian.opposition.afp.gi.jpg)
 
 ### Related:
 

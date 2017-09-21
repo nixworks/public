@@ -8,6 +8,7 @@ The mayor of Naples on Wednesday called for Italy to declare a national state of
 ### Source:
 
 1. [The Local Italy](https://www.thelocal.it/20170712/wildfires-continue-to-rage-across-italy-mount-vesuvius-sicily-messina-rome)
+1. [Cover Image](https://www.thelocal.it/userdata/images/article/29f5ff2b3b912fb94b5df830670ebdc8479339745bbd27534128aa41a8af77f1.jpg)
 
 ### Related:
 

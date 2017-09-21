@@ -8,6 +8,7 @@ A supposed Boko Haram leader claims an attack that decimated the Nigerian town o
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-01-21/nigerian-army-officers-face-court-martial-over-alleged-sabotage/6029874)
+1. [Cover Image](http://www.abc.net.au/news/image/6030394-1x1-700x700.jpg)
 
 ### Related:
 

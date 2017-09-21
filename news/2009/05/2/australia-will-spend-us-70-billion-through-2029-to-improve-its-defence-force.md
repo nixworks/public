@@ -8,6 +8,7 @@ Australia will spend more than 70 billion US US dollars boosting its defences ov
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/australia-to-boost-military-might-government-20090502-aqni.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

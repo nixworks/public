@@ -8,6 +8,7 @@ Prime minister, who favours a silver fern design, promises voters the chance to 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/mar/11/new-zealand-to-hold-referendum-on-new-post-colonial-flag)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/3/11/1394515201367/ce26d10c-5fd0-42ab-87f5-26d791db5d96-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=10408825f06860b06e2cf0c0c3f3d7a5)
 
 ### Related:
 

@@ -8,3 +8,4 @@ Labour veteran Keith Vaz steps down as chairman of the Home Affairs Committee fo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-37283328)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/D056/production/_91043335_7d709b22-fbc7-4080-9248-8d246ec184ed.jpg)

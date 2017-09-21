@@ -8,6 +8,7 @@ The death of Heriberto Lazcano, known as El Lazca and the main leader of the Zet
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/10/10/world/americas/mexico-zetas.html?hp&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2012/10/10/world/americas/10mexico/10mexico-superJumbo.jpg)
 
 ### Related:
 

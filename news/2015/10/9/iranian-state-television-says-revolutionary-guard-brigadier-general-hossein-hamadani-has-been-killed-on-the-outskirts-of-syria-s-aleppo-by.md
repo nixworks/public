@@ -13,6 +13,7 @@ An Iranian military commander has been killed in Syria while advising President 
 4. [Daily Sabah](http://www.dailysabah.com/syrian-crisis/2015/10/09/un-condemns-killing-of-anadolu-agency-journalist-by-isis-bomb-attack-in-syria)
 5. [Independent](http://www.independent.co.uk/news/world/middle-east/iranian-commander-brigadier-general-hossein-hamedani-killed-by-isis-while-advising-syrian-regime-a6687276.html)
 6. [Novinite](http://www.novinite.com/articles/171245/Turkey%E2%80%99s+Anadolu+Agency+Photojournalist+Killed+in+Syria)
+6. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/10/09/08/Hossein-Hamedani.jpg)
 
 ### Related:
 

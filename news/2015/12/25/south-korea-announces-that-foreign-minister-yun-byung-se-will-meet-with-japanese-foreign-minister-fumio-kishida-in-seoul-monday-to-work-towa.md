@@ -11,6 +11,7 @@ Prime Minister Shinzo Abe aims to resolve a sensitive issue fraying relations wi
 2. [Reuters](http://www.reuters.com/article/us-japan-southkorea-idUSKBN0U801P20151225)
 3. [The Korea Times](http://www.koreatimes.co.kr/www/news/nation/2015/12/116_194042.html)
 4. [The Nikkei](http://asia.nikkei.com/Politics-Economy/International-Relations/Tokyo-eyes-new-fund-to-assist-comfort-women)
+4. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

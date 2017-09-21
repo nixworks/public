@@ -8,6 +8,7 @@ Russia has postponed the transfer of missile engines to China, out of concern th
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/04/08/Russia-postpones-missile-technology-transfer-to-China/3621460127815/?spt=hts&or=5)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/3621460127815/2016/1/7c6c5d9a36bb9125d930507d7745d3ea/v1.5/Russia-postpones-missile-technology-transfer-to-China.jpg)
 
 ### Related:
 

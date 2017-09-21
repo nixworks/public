@@ -9,6 +9,7 @@ Rescuers search for survivors with eight people dead and 22 families feared trap
 
 1. [CNN](http://edition.cnn.com/2013/09/27/world/asia/india-mumbai-building-collapse/?hpt=hp_t2)
 2. [Sky News](http://news.sky.com/story/1147077/mumbai-building-collapse-dozens-trapped)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/toddler-pulled-out-alive-1_3636351.jpg?20160706014938)
 
 ### Related:
 

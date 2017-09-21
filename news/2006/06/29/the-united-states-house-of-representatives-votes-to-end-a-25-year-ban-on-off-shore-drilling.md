@@ -8,6 +8,7 @@ Congress on Thursday took a major step toward allowing oil and gas drilling in c
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/13573049/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/060629/060629_oilPlatform_hmed_5p.standard.jpg)
 
 ### Related:
 

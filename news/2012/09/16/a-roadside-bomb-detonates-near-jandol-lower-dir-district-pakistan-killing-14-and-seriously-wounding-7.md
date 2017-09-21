@@ -8,6 +8,7 @@ At least 14 people are killed by a roadside bomb in the Lower Dir area of northw
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19614801)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62922000/jpg/_62922848_62922847.jpg)
 
 ### Related:
 

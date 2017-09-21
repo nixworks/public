@@ -8,6 +8,7 @@ Mortar fire hits the University of Damascus, killing 15 students and wounding se
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21964299)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66658000/jpg/_66658287_66658286.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Britain will offer Myanmar military training and official assistance to tackle i
 ### Source:
 
 1. [The Telegraph'' via the ''Brisbane Times](http://www.brisbanetimes.com.au/world/britain-to-wade-into-myanmars-modernisation-20130715-2pyxf.html)
+1. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/2/j/n/l/o/image.related.articleLeadwide.620x349.2pyxf.png/1373845687567.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article2947105.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article12822933.ece/ALTERNATES/LANDSCAPE_615/AnanthKrish-Kashgar)
 
 ### Related:
 

@@ -8,6 +8,7 @@ American novelist Harper Lee, author of Pulitzer Prize-winning To Kill a Mocking
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-35616011)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/8E35/production/_88350463_hl.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Angela Eagle ends her Labour leadership bid, leaving Owen Smith as the sole chal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-36838808)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5305/production/_90435212_threecontenders.jpg)
 
 ### Related:
 

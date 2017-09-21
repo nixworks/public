@@ -9,6 +9,7 @@ Scientists and engineers working at a major power plant in Iceland have shown fo
 
 1. [Phys.org](http://phys.org/news/2016-06-climate-mitigation-co2.html)
 2. [Science](http://science.sciencemag.org/content/352/6291/1312)
+2. [Cover Image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2016/57599c8f63cca.jpg)
 
 ### Related:
 

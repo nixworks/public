@@ -8,6 +8,7 @@ Suspect arrested 12 hours after fatal shooting of two Palm Springs police office
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-palm-springs-shooting-20161008-snap-story.html)
+1. [Cover Image](http://www.trbimg.com/img-57fac941/turbine/la-me-palm-springs-shooting-20161008-snap)
 
 ### Related:
 

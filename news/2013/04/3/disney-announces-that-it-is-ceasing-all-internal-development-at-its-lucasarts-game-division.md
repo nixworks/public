@@ -8,6 +8,7 @@
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/technology/article/Disney-ends-LucasArts-game-development-4407769.php)
+1. [Cover Image](http://ww3.hdnux.com/photos/20/66/75/4419402/7/rawImage.jpg)
 
 ### Related:
 

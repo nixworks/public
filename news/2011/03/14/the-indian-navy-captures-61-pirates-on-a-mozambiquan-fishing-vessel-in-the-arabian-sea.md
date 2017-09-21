@@ -8,6 +8,7 @@ Five dozen pirates living on a hijacked ship serving as a roving pirate base jum
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2011/03/14/indian-navy-captures-61-pirates-arabian-sea/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2011/03/14/indian-navy-captures-61-pirates-arabian-sea/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421905756235.jpg?ve=1)
 
 ### Related:
 

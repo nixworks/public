@@ -8,6 +8,7 @@ Almost 50 others were injured in the explosion near a vegetable market in the so
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-40702927)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/539E/production/_97060412_e5b2b403-128f-488e-b5b4-3149e276870d.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 314 people burnt to death as fire swept through factories in two cities
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/09/12/us-pakistan-fire-idUSBRE88B04Y20120912)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120912&t=2&i=652047896&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88B0U0J00)
 
 ### Related:
 

@@ -9,6 +9,7 @@ UN climate chief urges nations to find common ground on curbing greenhouse gases
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010104111111352618.html)
 2. [China Daily'' via Xinhua](http://www.chinadaily.com.cn/world/2010-10/04/content_11377094.htm)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/4/2010104123135896580_20.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Pakistan ex-military ruler Pervez Musharraf apologises for &quot;negative&quot; 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/201010164531436629.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11450507)
 3. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-musharraf-prepares-comeback-bid-with-new-party-ss-02)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Prime Minister Julia Gillard has described the bombing of Darwin during World Wa
 ### Source:
 
 1. [Sydney Morning Herald](http://m.smh.com.au/national/darwin-bombing-was-our-pearl-harbour-gillard-20120219-1tgr1.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

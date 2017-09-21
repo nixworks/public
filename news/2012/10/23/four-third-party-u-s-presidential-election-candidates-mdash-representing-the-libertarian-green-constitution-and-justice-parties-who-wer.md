@@ -12,6 +12,7 @@ Representatives of the Libertarian, Green, Constitution, and Justice parties hav
 3. [The Sacramento Bee](http://www.sacbee.com/2012/10/22/4929868/rt-to-air-third-party-us-presidential.html)
 4. [The Washington Post](http://www.washingtonpost.com/blogs/the-fix/wp/2012/10/23/previewing-the-third-party-presidential-candidates-debate/)
 5. [VOR](http://english.ruvr.ru/2012_10_23/Third-party-presidential-debate-presented-by-Russian-TV-channel/)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/24/201210242526686734_20.jpg)
 
 ### Related:
 

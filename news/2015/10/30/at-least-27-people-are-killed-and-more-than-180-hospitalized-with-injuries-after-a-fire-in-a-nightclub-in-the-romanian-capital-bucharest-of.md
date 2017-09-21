@@ -10,6 +10,7 @@ A fire at a nightclub in the Romanian capital Bucharest has killed 27 people and
 1. [BBC](http://www.bbc.com/news/world-europe-34684973)
 2. [Fox News](http://www.foxnews.com/world/2015/10/30/26-reportedly-killed-in-explosion-fire-at-romanian-nightclub/)
 3. [Sputnik News](http://sputniknews.com/europe/20151031/1029367926.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/953A/production/_86420283_86420692.jpg)
 
 ### Related:
 

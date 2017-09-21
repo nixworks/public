@@ -8,6 +8,7 @@ All lots of the new anemia drug peginesatide (Omontys) have been recalled becaus
 ### Source:
 
 1. [Medpage Today](http://www.medpagetoday.com/HematologyOncology/Anemia/37509)
+1. [Cover Image](https://clf1.medpagetoday.com/assets/images/defaultLede.png)
 
 ### Related:
 

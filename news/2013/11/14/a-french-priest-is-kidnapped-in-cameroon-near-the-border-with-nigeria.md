@@ -8,6 +8,7 @@ A French priest is kidnapped in northern Cameroon close to the border with Niger
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24936965)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71110000/gif/_71110975_nigeria_cameroon_koza.gif)
 
 ### Related:
 

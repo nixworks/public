@@ -12,6 +12,7 @@ South Sudan almost unanimously voted to declare independence from the north in a
 3. [Reuters](http://www.reuters.com/article/2011/01/30/us-sudan-referendum-idUSTRE70T0G820110130)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/jan/30/sudan-results-preliminary-support)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/30/c_13713652.htm)
+5. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110130&t=2&i=322726684&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-30T215028Z_01_BTRE70T164700_RTROPTP_0_SUDAN-PROTESTS-DEMONSTRATORS)
 
 ### Related:
 

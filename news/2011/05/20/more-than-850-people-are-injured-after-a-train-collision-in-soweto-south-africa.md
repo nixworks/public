@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2011/0520/southafrica.html)
+1. [Cover Image](https://img.rasset.ie/0003649a-1600.jpg)
 
 ### Related:
 

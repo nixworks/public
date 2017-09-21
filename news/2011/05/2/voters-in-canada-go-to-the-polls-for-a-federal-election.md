@@ -14,6 +14,7 @@ Stephen Harper has been re-elected and will head a majority Conservative governm
 5. [Reuters](http://www.reuters.com/article/2011/05/03/us-politics-idUSTRE73Q44720110503)
 6. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/elizabeth-may-wins-first-seat-for-greens/article2007621/)
 7. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/harper-on-cusp-of-majority-as-ndp-becomes-opposition/article2006635/)
+7. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52456000/gif/_52456495_harper_reu.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Spanish court on Tuesday approved the extradition of former Guatemalan Interio
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/americas/05/31/guatemala.former.minister.extradition/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/.element/img/3.0/newsscanner/no_image_cnn_90x51.jpg)
 
 ### Related:
 

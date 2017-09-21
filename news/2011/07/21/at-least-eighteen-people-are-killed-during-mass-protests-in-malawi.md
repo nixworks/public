@@ -9,6 +9,7 @@ The army is deployed in three Malawian cities on a second day of anti-government
 
 1. [AP](http://www.trust.org/alertnet/news/malawi-protest-death-toll-rises-to-18-official/)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-14231251)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54176000/jpg/_54176868_012493903-1.jpg)
 
 ### Related:
 

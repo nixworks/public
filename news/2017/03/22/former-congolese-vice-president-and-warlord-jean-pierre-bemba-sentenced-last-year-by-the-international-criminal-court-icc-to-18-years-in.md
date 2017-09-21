@@ -8,6 +8,7 @@ DRC’s Jean-Pierre Bemba already serving 18-year term for war crimes, with new 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/mar/22/jean-pierre-bemba-jailed-bribing-witnesses-congolese-war-crimes)
+1. [Cover Image](https://i.guim.co.uk/img/media/a1cde9304c78b244acdb74c1700e6921b5ec764f/0_277_4357_2615/master/4357.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7837281c567519ac1ac7b8c29bb53e65)
 
 ### Related:
 

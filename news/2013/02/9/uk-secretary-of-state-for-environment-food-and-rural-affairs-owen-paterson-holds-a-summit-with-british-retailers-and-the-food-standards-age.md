@@ -8,6 +8,7 @@ Retailers will now carry out &quot;more and tougher testing&quot; of beef produc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21391891)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65790000/jpg/_65790215_65779187.jpg)
 
 ### Related:
 

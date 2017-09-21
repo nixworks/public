@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39005919)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B89B/production/_94695274_delimareu.jpg)
 
 ### Related:
 

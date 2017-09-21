@@ -8,6 +8,7 @@ French company wins the contract to build Australia&#039;s next fleet of submari
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-04-26/pm-announces-france-has-won-submarine-contract/7357462)
+1. [Cover Image](http://www.abc.net.au/news/image/7357580-1x1-700x700.jpg)
 
 ### Related:
 

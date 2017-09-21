@@ -8,6 +8,7 @@ Police fire tear gas after thousands of war veterans attempt to storm government
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/20104211785829842.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

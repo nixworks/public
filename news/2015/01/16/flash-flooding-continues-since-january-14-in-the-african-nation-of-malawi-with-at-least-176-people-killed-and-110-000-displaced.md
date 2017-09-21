@@ -8,6 +8,7 @@ At least 176 people die in flash floods and 110,000 people are displaced, Malawi
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-01-17/malawi-floods-kill-at-least-176-people/6022746)
+1. [Cover Image](http://www.abc.net.au/news/image/6022738-1x1-700x700.jpg)
 
 ### Related:
 

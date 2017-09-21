@@ -8,6 +8,7 @@ The German Bundestag is expected to approve €86bn bailout, paving the way for 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/blog/live/2015/aug/19/german-mps-to-vote-on-greek-bailout-live)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/8/19/1439966900227/73b2481f-8988-4b5c-898a-bea6669258dc-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=20f40a659d515a9a214428e5a1ad9a2d)
 
 ### Related:
 

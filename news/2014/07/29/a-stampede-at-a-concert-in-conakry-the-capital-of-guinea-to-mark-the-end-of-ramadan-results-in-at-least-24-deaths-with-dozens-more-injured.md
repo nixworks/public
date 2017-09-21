@@ -8,6 +8,7 @@ At least 34 people have reportedly died in a stampede in Guinea, during a concer
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-28558081)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76626000/jpg/_76626335_dsc_0277.jpg)
 
 ### Related:
 

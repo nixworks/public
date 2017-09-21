@@ -11,6 +11,7 @@ Thailand&#39;s king has returned to a Bangkok hospital, after making a brief pub
 2. [RTÉ](http://www.rte.ie/news/2009/1205/thailand.html)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Thailand-Kings-Birthday-Celebrations-Bhumibol-Adulyadej-Turns-82-Much-To-Delight-Of-His-People/Article/200912115491964?lpos=World_News_News_Your_Way_Region_5&lid=NewsYourWay_ARTICLE_15491964_Thailand_Kings_Birthday_Celebrations%3A_Bhumibol_Adulyadej_Turns_82_Much_To_Delight_Of_His_People)
 4. [The Jakarta Post](http://www.thejakartapost.com/news/2009/12/05/thai-community-celebrates-king039s-birthday-with-joy.html)
+4. [Cover Image](https://img.rasset.ie/0001ff26-1600.jpg)
 
 ### Related:
 

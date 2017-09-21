@@ -8,6 +8,7 @@ Researchers discover stone tools in Norfolk that suggest humans arrived in Brita
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10531419.stm)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48282000/jpg/_48282394_humans.jpg)
 
 ### Related:
 

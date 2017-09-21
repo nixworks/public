@@ -8,6 +8,7 @@ Texas officials removed more people on Sunday from a ranch belonging to a breaka
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSN0443225320080406)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080406&t=2&i=3780587&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-04-06T223155Z_01_N04432253_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Midnight came later on Tuesday as for the first time in three years an extra sec
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-33313347)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/17B59/production/_83931179_83931177.jpg)
 
 ### Related:
 

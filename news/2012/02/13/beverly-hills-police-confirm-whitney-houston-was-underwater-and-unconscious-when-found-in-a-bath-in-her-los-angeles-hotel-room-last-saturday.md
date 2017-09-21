@@ -8,6 +8,7 @@ Whitney Houston was unconscious and underwater in a bath when found on Saturday 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17021183)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58486000/jpg/_58486165_98823209.jpg)
 
 ### Related:
 

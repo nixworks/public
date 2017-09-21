@@ -8,6 +8,7 @@ Last week’s stock sell-off gave way to a big rally as countries around the wor
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/10/14/business/14markets.html?_r=1&hp&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ PARIS (AP) — Hundreds of empty, parked cars go up in flames in France each New
 ### Source:
 
 1. [AP via Yahoo!](http://news.yahoo.com/france-counts-1-193-cars-torched-years-eve-202547572.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

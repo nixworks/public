@@ -8,6 +8,7 @@ Senior Liberal Democrat minister Chris Huhne threatens legal action over &quot;u
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13181756)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52327000/jpg/_52327659_003067236-1.jpg)
 
 ### Related:
 

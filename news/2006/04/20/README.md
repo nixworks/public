@@ -19,7 +19,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 Rivers as big as the Thames in England that may connect sub-glacial lakes have been found deep under the Antarctic ice, scientists said on Wednesday.
 
 ### [ U.S. President George W. Bush welcomes the Chinese President Hu Jintao at the White House. A Falun Gong protester--an accredited journalist from "The Epoch Times"--interrupts Hu's speech at the arrival ceremony before being removed by the Secret Service. The announcer violates protocol by accidentally calling the March of the Volunteers the "National Anthem of the Republic of China". ](/news/2006/04/20/u-s-president-george-w-bush-welcomes-the-chinese-president-hu-jintao-at-the-white-house-a-falun-gong-protesteraan-accredited-journalis.md)
-_Context: Chinese President, Falun Gong, George W. Bush, Hu Jintao, March of the Volunteers, President, The Epoch Times, United States Secret Service, White House, national anthem_
+_Context: Chinese President, Falun Gong, George W. Bush, Hu Jintao, March of the Volunteers, The Epoch Times, U.S. President, United States Secret Service, White House, national anthem_
 
 ### [ German automaker Volkswagen is in talks for a restructuring program to cut costs and make the core unit Volkswagen more profitable. ](/news/2006/04/20/german-automaker-volkswagen-is-in-talks-for-a-restructuring-program-to-cut-costs-and-make-the-core-unit-volkswagen-more-profitable.md)
 _Context: Volkswagen_

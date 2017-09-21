@@ -8,6 +8,7 @@ A Philippines human rights body will probe claims by President Duterte that he k
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-38403977)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8A27/production/_93076353_036984732.jpg)
 
 ### Related:
 

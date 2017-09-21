@@ -8,6 +8,7 @@ Scores of Russians have died in the past few weeks amid a heatwave - many drowni
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10646106)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

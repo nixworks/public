@@ -8,6 +8,7 @@ The tests broke the recent relative silence from the North, but the move was muc
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/05/19/world/asia/north-korea-missiles.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

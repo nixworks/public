@@ -8,6 +8,7 @@ La La Land scoops five Bafta film awards, with Lion star Dev Patel among the Bri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-38917463)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F334/production/_94606226_emmadev_epapa.jpg)
 
 ### Related:
 

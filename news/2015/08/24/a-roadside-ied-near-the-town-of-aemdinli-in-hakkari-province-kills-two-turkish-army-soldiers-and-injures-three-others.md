@@ -9,6 +9,7 @@
 
 1. [Reuters via LBC Group](http://www.lbcgroup.tv/news/227752/two-soldiers-killed-after-convoy-hits-explosives-i)
 2. [The Daily Sabah](http://www.dailysabah.com/nation/2015/08/24/pkk-terrorists-attack-pipeline-in-turkeys-southeastern-kars-province)
+2. [Cover Image](http://www.lbcgroup.tv/newsimages/NB-227752-635759955340981605.jpg)
 
 ### Related:
 

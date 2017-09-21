@@ -8,6 +8,7 @@ Bilal al-Barjawi, 27, who had been fighting alongside Shabab Islamic militants, 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/01/23/world/africa/foreign-commander-killed-in-drone-strike-in-somalia.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Chinese government confirmed the test, but said it had no intention of parti
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/01/23/world/asia/23cnd-china.html?hp&ex=1169614800&en=d9317a9a60f6aebb&ei=5094&partner=homepage)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

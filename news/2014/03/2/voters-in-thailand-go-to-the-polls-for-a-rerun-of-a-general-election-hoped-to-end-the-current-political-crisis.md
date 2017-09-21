@@ -8,6 +8,7 @@ A second round of voting in Thailand has gone ahead without incident.
 ### Source:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/03/02/thailand-begins-re-runs-troubled-vote)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/thai_140302_Getty.jpg)
 
 ### Related:
 

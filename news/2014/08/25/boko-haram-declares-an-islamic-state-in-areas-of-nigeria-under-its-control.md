@@ -8,6 +8,7 @@ Militant group Boko Haram says it has set up an Islamic state in towns and villa
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-28925484)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77153000/jpg/_77153743_77153742.jpg)
 
 ### Related:
 

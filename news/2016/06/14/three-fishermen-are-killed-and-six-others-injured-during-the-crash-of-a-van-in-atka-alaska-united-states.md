@@ -8,3 +8,4 @@ Employees of a fish processing plant in the tiny Aleutian village were heading f
 ### Source:
 
 1. [Alaska Dispatch News](http://www.adn.com/alaska-news/2016/06/14/vehicle-rollover-in-atka-sends-at-least-9-people-to-adak-for-treatment/)
+1. [Cover Image](https://www.adn.com/resizer/p-ygaSnMcW_8zvVq1cOohSXU3V8=/1200x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2016/06/14224116/Alaska_Earthquake_2.jpg?token=bar)

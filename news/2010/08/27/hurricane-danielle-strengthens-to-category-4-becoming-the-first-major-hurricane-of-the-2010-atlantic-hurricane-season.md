@@ -10,6 +10,7 @@ Forecasters say swells churned up by Hurricane Danielle could reach parts of the
 1. [CBC](http://www.cbc.ca/world/story/2010/08/27/hurricane-danielle-tropical.html)
 2. [CNN](http://www.cnn.com/2010/US/08/27/hurricanes/index.html?eref=rss_topstories)
 3. [MSNBC](http://www.msnbc.msn.com/id/38849585)
+3. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Interactives/_swf/weather/hurricane_tracker/hurricane_tracker_tease.standard.jpg)
 
 ### Related:
 

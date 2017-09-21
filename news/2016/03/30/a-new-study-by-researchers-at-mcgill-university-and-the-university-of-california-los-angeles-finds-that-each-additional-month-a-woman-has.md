@@ -9,6 +9,7 @@ For each additional month a woman has paid maternity leave, infant mortality dec
 
 1. [PLOS Medicine](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001985)
 2. [UPI](http://www.upi.com/Health_News/2016/03/30/Study-Longer-maternity-leave-linked-to-better-infant-health/4971459363627/?spt=hs&or=hn)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/4971459363627/2016/1/df7c61a2774da4be7e713e80f7b02b68/v1.5/Study-Longer-maternity-leave-linked-to-better-infant-health.jpg)
 
 ### Related:
 

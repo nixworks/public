@@ -10,6 +10,7 @@ Prosecutors say Samy Mohamed Hamzeh targeted a &quot;secret society&quot; that g
 1. [FBI](http://www.justice.gov/usao-edwi/pr/federal-bureau-investigation-arrests-milwaukee-man-who-planned-mass-shooting-man)
 2. [Milwaukee Journal Sentinel](http://www.jsonline.com/news/crime/fbi-thwarts-mass-shooting-at-milwaukee-masonic-temple-b99659005z1-366609371.html)
 3. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/01/27/milwaukee-man-arrested-after-allegedly-plotting-mass-shooting-we-will-eliminate-everyone/)
+3. [Cover Image](http://media.jrn.com/images/b99659005z.1_20160126224642_000_g0ke8mla.1-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A genetically modified (GM) variety of maize banned in the EU has contaminated f
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10254080.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5657053,00.html?maca=en-rss-en-ger-1023-rdf)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

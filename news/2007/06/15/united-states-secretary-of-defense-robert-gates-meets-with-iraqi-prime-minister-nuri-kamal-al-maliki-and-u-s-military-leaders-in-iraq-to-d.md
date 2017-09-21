@@ -8,6 +8,7 @@ U.S. Defense Secretary Robert Gates met Iraqi leaders on Saturday to tell them W
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSCOL02152020070616?feedType=RSS)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070616&t=2&i=969265&w=&fh=545px&fw=&ll=&pl=&sq=&r=969265)
 
 ### Related:
 

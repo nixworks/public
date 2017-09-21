@@ -8,6 +8,7 @@ The government in the southern Indian state of Tamil Nadu decides to free seven 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-26252797#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73076000/jpg/_73076114_73076113.jpg)
 
 ### Related:
 

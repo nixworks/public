@@ -11,6 +11,7 @@ Brazilian authorities stepped up efforts to locate and care for victims of a mas
 2. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/dam-burst-mining-site-devastates-brazilian-town-151106022548631.html)
 3. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-05/samarco-says-dam-in-brazil-burst-teams-are-working-on-site)
 4. [Reuters via SBS Australia](http://www.sbs.com.au/news/article/2015/11/06/16-reported-killed-45-missing-dam-burst-brazilian-bhp-mine)
+4. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

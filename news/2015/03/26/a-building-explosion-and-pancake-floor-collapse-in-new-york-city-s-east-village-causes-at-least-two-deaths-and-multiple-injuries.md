@@ -9,6 +9,7 @@ A gas explosion ripped through four buildings and ended up leveling three of the
 
 1. [CBS Local](http://newyork.cbslocal.com/2015/03/26/explosion-collapse-reported-at-east-village-building/)
 2. [USA Today](http://www.usatoday.com/story/news/nation/2015/03/29/body-found-new-york-building-blast/70631754/)
+2. [Cover Image](https://cbsnewyork.files.wordpress.com/2015/03/getty4.jpg?w=625)
 
 ### Related:
 

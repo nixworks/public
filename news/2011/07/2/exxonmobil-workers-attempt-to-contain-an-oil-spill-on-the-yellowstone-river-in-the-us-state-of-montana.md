@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/greenspace/2011/07/exxon-pipeline-spill-on-yellowstone-river.html)
+1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef01538f9f9bec970b-120pi)
 
 ### Related:
 

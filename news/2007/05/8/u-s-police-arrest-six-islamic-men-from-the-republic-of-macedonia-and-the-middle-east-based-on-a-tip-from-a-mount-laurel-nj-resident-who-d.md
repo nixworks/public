@@ -10,6 +10,7 @@ Six people have been arrested on allegations of plotting to kill soldiers at an 
 1. [AP via Trentonian.com](http://www.trentonian.com/site/news.cfm?newsid=18318305&BRD=1697&PAG=461&dept_id=44551&rfi=6)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/6635669.stm)
 3. [New York Times](http://www.nytimes.com/2007/05/08/us/08cnd-dix.html?_r=1&hp&oref=slogin)
+3. [Cover Image](https://static01.nyt.com/images/2007/05/08/nyregion/08plot-75.jpg)
 
 ### Related:
 

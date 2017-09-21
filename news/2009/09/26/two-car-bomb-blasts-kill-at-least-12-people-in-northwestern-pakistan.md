@@ -10,6 +10,7 @@ Police officers and civilians among casualties of car-bomb attacks in Bannu and 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/09/200992625241814252.html)
 2. [Reuters](http://www.reuters.com/article/featuredCrisis/idUSSP396592)
 3. [Times of India](http://timesofindia.indiatimes.com/news/world/pakistan/14-killed-in-renewed-suicide-attacks-in-Pakistans-NWFP/articleshow/5058770.cms)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

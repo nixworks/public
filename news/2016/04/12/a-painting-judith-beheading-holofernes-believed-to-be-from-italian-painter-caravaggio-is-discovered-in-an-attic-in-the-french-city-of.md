@@ -8,6 +8,7 @@ Painting valued at up to €120m found by accident believed by many to be work o
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/artanddesign/2016/apr/12/lost-caravaggio-causes-rift-in-art-world)
+1. [Cover Image](https://i.guim.co.uk/img/media/34e021703f2ee9a834ff347a30119ba8284caacf/0_157_3500_2100/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=6a62db3f7f0699445b80368dbc6a3bbc)
 
 ### Related:
 

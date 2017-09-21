@@ -9,6 +9,7 @@
 
 1. [MarketWatch](http://www.marketwatch.com/News/Story/Story.aspx?guid=%7BD97E28E7%2D42B0%2D4DE5%2DB730%2D13B59C349C04%7D&siteid=mktw)
 2. [MarketWatch](http://www.marketwatch.com/news/story/germany-guarantees-private-deposits/story.aspx?guid=%7BF3E91BFE%2DEF8B%2D47B2%2DBCE3%2D3B9FB167F9F0%7D)
+2. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

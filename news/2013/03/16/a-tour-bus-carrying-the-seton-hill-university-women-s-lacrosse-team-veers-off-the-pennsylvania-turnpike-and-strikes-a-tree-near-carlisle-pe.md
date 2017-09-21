@@ -9,6 +9,7 @@ Two people were killed in a Saturday morning bus accident in central Pennsylvani
 
 1. [CNN](http://www.cnn.com/2013/03/16/us/pennsylvania-bus-crash/)
 2. [USA Today](http://www.usatoday.com/story/news/nation/2013/03/16/tour-bus-crashes-in-pa-serious-injuries-reported/1992577/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

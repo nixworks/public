@@ -8,6 +8,7 @@ Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, fro
 ### Source:
 
 1. [Yahoo!](https://www.yahoo.com/movies/jerry-lewis-controversial-comic-titan-behind-nutty-professor-mda-telethon-dead-91-180652153.html?soc_trk=gcm&soc_src=7563eca7-14c1-3a20-ab16-782788cde33a&.tsrc=notification-brknews)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/PfOG9h_lmbtW.IOlmHTkAQ--/aD03NTY7dz0xNDA0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/1612ca18c7e8499d06d4a39ccac124bf)
 
 ### Related:
 

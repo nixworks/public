@@ -9,6 +9,7 @@ Three persons were killed and four others got seriously injured when a powerful 
 
 1. [IBN](http://ibnlive.in.com/news/two-killed-seven-injured-in-bomb-blast-near-manipur-cms-residence/431302-3-225.html)
 2. [NDTV](http://www.ndtv.com/article/india/three-killed-in-bomb-blast-near-bus-stand-in-imphal-439127)
+2. [Cover Image](http://i.ndtvimg.com/mt/2013-10/ImphalBlast360_15.jpg)
 
 ### Related:
 

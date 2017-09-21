@@ -8,6 +8,7 @@ A bus careers off the road near the southern Afghanistan city of Kandahar, killi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14601034)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54713000/jpg/_54713124_54713122.jpg)
 
 ### Related:
 

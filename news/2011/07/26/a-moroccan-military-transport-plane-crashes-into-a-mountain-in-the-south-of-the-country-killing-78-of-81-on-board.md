@@ -9,6 +9,7 @@ A Hercules military transport plane crashes in southern Morocco, killing 78 peop
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/2011726103840621483.html)
 2. [BBC News](http://www.bbc.co.uk/news/world-africa-14290795)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54282000/jpg/_54282964_012537419-2.jpg)
 
 ### Related:
 

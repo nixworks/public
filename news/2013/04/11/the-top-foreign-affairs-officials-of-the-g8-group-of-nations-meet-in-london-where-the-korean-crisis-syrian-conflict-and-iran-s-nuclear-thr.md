@@ -9,6 +9,7 @@ Western and Middle Eastern nations trying to help the Syrian opposition in its w
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-22103753)
 2. [Reuters](http://www.reuters.com/article/2013/04/10/us-g8-foreign-ministers-preview-idUSBRE9390FR20130410)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130410&t=2&i=721024634&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE939169I00)
 
 ### Related:
 

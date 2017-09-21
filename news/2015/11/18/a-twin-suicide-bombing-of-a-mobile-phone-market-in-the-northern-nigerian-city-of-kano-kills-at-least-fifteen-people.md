@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/live/world-africa-34815724?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=34862316%26Kano%20attack%20death%20toll%20rises%2617:07&ns_fee=0#post_34862316)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

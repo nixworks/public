@@ -8,6 +8,7 @@ The South American trading bloc Mercosur threatens to suspend Venezuela if it do
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-37360333)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/12BFE/production/_91189767_maduro.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The mother of British computer hacker Gary McKinnon says she is &quot;overwhelme
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19968973)
 2. [Sky News](http://news.sky.com/story/998312/gary-mckinnon-may-blocks-extradition-to-us)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63527000/jpg/_63527477_sharpgetty.jpg)
 
 ### Related:
 

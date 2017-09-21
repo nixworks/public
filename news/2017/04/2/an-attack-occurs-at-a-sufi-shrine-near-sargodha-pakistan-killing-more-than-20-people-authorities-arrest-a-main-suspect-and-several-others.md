@@ -8,6 +8,7 @@ Police say the custodian of a Sufi shrine tortured and killed 20 people after po
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39471017)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/D4B4/production/_95425445_relatives.jpg)
 
 ### Related:
 

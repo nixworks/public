@@ -8,6 +8,7 @@ Volkswagen AG’s price tag to settle lawsuits in the U.S. over its rigging of d
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-06-27/volkswagen-said-to-face-15-billion-tab-in-u-s-settlement)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

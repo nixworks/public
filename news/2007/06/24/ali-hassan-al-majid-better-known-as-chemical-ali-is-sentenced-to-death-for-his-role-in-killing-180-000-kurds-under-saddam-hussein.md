@@ -8,6 +8,7 @@ Relatives of the victims of the man known as Chemical Ali are calling for him to
 ### Source:
 
 1. [BBC via ABC News Australia](http://www.abc.net.au/news/stories/2007/06/25/1960488.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/79568-1x1-700x700.jpg)
 
 ### Related:
 

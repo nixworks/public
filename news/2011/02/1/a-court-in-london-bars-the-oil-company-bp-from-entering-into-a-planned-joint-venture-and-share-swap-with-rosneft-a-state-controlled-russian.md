@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/01/us-bp-idUSTRE70T1S420110201)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110201&t=2&i=324916843&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-01T164242Z_01_BTRE70T14RM00_RTROPTP_0_BP-ROSNEFT)
 
 ### Related:
 

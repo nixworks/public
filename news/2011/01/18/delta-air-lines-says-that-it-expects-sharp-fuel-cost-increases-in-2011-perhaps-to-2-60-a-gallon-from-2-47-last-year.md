@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/story/delta-fuel-costs-may-rise-by-1-billion-in-2011-2011-01-18?reflink=MW_news_stmp)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

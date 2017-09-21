@@ -8,6 +8,7 @@ Hundreds of people are evacuated from villages around a volcano in western Mexic
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-33496979)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10E7A/production/_84224296_028133474.jpg)
 
 ### Related:
 

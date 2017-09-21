@@ -8,6 +8,7 @@ Tribal fighting in South Sudan has left 120,000 people in need of emergency food
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/01/20/uk-sudan-south-tribal-idUKTRE80J0YK20120120)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20120120&t=2&i=560829789&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-01-20T211209Z_1_BTRE80J1MWC00_RTROPTP_0_SUDAN-SOUTH-TRIBAL)
 
 ### Related:
 

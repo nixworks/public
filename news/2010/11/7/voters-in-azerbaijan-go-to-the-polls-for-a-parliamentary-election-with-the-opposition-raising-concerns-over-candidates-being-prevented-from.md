@@ -9,6 +9,7 @@ Azerbaijan elects a new parliament, with the ruling party set to retain power ea
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11705141)
 2. [Trend News Agency](http://en.trend.az/news/elections2010/1778347.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

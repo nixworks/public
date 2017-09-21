@@ -8,6 +8,7 @@ Results indicate ruling party takes 80 per cent of parliament seats, which the o
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012713823950829.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/7/20101272194144580_20.jpg)
 
 ### Related:
 

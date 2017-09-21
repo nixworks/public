@@ -8,6 +8,7 @@ The Government has announced a €10m humanitarian fund to help those worst affe
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1124/weather.html)
+1. [Cover Image](https://img.rasset.ie/0002c786-1600.jpg)
 
 ### Related:
 

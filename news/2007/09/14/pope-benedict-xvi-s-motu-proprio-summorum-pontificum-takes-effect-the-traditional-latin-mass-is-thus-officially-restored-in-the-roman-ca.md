@@ -10,6 +10,7 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 1. [AFP](http://newsinfo.inquirer.net/breakingnews/world/view_article.php?article_id=88431)
 2. [Arkansas Catholic](http://www.arkansascatholic.org/article.php?id=992)
 3. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=53525)
+3. [Cover Image](http://www.catholicculture.org/images/social/fb/CatholicCulture.png)
 
 ### Related:
 

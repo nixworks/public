@@ -9,6 +9,7 @@ Seven boats have capsized in a storm in the west African nation of Togo, leaving
 
 1. [News24](http://www.news24.com/Africa/News/7-boats-capsize-in-Togo-36-dead-20110509)
 2. [Reuters](http://af.reuters.com/article/togoNews/idAFLDE7480Y320110509)
+2. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

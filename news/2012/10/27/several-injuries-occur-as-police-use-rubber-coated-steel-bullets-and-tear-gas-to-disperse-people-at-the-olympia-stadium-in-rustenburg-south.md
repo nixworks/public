@@ -8,6 +8,7 @@ Several people injured as police use rubber-coated steel bullets to disperse uni
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/10/20121027111355834610.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/27/20121027112112153734_20.jpg)
 
 ### Related:
 

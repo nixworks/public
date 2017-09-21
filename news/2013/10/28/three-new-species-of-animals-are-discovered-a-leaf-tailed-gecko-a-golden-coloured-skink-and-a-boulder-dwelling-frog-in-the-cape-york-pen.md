@@ -8,6 +8,7 @@
 ### Source:
 
 1. [news.com.au](http://www.news.com.au/technology/science/new-creatures-found-in-cape-yorks-lost-world/story-fnjwkt0b-1226748419115)
+1. [Cover Image](http://api.news.com.au/content/1.0/newscomau/images/1226748415339?format=jpg)
 
 ### Related:
 

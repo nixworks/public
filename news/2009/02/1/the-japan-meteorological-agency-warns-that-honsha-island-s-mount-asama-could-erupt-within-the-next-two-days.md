@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/UKNews1/idUKTRE5100EF20090201)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090201&t=2&i=8075563&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-01T065401Z_01_BTRE5100J6400_RTROPTP_0_JAPAN)
 
 ### Related:
 

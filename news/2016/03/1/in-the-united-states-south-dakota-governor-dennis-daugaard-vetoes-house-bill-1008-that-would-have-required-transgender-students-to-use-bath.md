@@ -10,6 +10,7 @@ South Dakota Governor Dennis Daugaard vetoed legislation that would have restric
 1. [Chicago Sun-Times](http://national.suntimes.com/national-world-news/7/72/2679253/south-dakota-anti-trans-bill-veto)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2016/03/01/468732723/south-dakota-s-transgender-bathroom-bill-hits-deadline-for-governor)
 3. [The Washington Post](https://www.washingtonpost.com/national/the-latest-civil-rights-activists-celebrate-governors-veto/2016/03/01/21554cd8-e00b-11e5-8c00-8aa03741dced_story.html)
+3. [Cover Image](https://s3.amazonaws.com/wp-ag/wp-content/uploads/sites/72/2016/02/south-dakota-anti-trans-bill-law.jpg)
 
 ### Related:
 

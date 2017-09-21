@@ -8,6 +8,7 @@ Osama bin Laden used the militant group Harakat-ul-Mujahedeen, which has links t
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/06/24/world/asia/24pakistan.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/06/24/world/asia/jp-24pakistan1/jp-24pakistan1-thumbStandard.jpg)
 
 ### Related:
 

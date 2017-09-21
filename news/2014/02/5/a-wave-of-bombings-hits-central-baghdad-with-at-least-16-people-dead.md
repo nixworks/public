@@ -8,6 +8,7 @@ BAGHDAD -- Multiple explosions rocked Baghdad on Wednesday, killing at least 32 
 ### Source:
 
 1. [AP via ''Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-iraq-baghdad-bombings-20140204,0,4673832.story#axzz2sRI8shCy)
+1. [Cover Image](http://www.trbimg.com/img-52f210ca/turbine/la-fg-wn-iraq-baghdad-bombings-20140204)
 
 ### Related:
 

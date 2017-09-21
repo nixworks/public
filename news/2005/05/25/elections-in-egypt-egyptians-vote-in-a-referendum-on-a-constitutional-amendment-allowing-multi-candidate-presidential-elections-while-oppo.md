@@ -12,6 +12,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 3. [Egypt Election DAily News](http://egyptelection.com/index.php)
 4. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/comment/2005/May/comment_May25.xml&section=comment)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8595926)
+5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

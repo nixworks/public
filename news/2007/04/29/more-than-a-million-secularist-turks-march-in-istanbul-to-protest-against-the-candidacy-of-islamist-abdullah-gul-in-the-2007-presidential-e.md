@@ -9,6 +9,7 @@ As many as one million people rallied in a sea of red Turkish flags in Istanbul 
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6604643.stm)
 2. [Reuters](http://www.reuters.com/article/newsOne/idUSL2910950920070429)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070429&t=2&i=717937&w=&fh=545px&fw=&ll=&pl=&sq=&r=717937)
 
 ### Related:
 

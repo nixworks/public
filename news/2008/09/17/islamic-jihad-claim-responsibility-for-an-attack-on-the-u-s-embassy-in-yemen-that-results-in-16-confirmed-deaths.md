@@ -8,6 +8,7 @@ It was the deadliest and most ambitious attack in years in Yemen, a country wher
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/09/18/world/middleeast/18yemen.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

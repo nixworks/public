@@ -8,3 +8,4 @@ Authorities continue to search for a former Wayne Community College student who 
 ### Source:
 
 1. [WRAL](http://www.wral.com/one-dead-shooter-at-large-on-campus-of-wayne-county-community-college/14578831/)
+1. [Cover Image](https://wwwcache.wral.com/asset/news/local/2015/04/13/14580011/14580011-1428977713-646x485.jpg)

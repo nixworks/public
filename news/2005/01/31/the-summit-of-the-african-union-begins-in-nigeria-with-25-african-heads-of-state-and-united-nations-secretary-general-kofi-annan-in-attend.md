@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4220447.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1654857,00.html)
 3. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=663535)
+3. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

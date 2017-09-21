@@ -8,6 +8,7 @@ Charles Isherwood and Dave Itzkoff live blog the Tony Awards.
 ### Source:
 
 1. [New York Times](http://projects.nytimes.com/tonys/2012/dashboard#sha=5dd75ef47)
+1. [Cover Image](https://static01.nyt.com/images/blogs_v3/artsbeat/artsbeat_75.gif)
 
 ### Related:
 

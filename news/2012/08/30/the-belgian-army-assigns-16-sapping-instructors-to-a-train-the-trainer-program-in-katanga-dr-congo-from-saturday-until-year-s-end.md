@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Het Laatste Nieuws](http://www.hln.be/hln/nl/957/Binnenland/article/detail/1493280/2012/08/30/Belgische-militairen-gaan-Congolese-geniesoldaten-opleiden.dhtml)
+1. [Cover Image](http://static2.hln.be/static/photo/2012/9/15/13/20120830124729/media_xll_5120908.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [CNN](http://edition.cnn.com/2013/08/26/world/meast/syria-civil-war/index.html?hpt=hp_t1)
 2. [The Guardian](http://www.theguardian.com/world/2013/aug/25/syria-un-mandate-nato-military-action)
 3. [Times Of Israel](http://www.timesofisrael.com/syria-iran-issue-explicit-warning-to-israel-if-us-attacks/)
+3. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/12/Scud.jpg)
 
 ### Related:
 

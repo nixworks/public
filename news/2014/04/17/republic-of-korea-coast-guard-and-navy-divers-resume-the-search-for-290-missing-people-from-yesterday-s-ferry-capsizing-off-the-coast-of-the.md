@@ -8,6 +8,7 @@ By Jungmin Jang and Narae Kim MOKPO/JINDO, South Korea (Reuters) - Rescuers stru
 ### Source:
 
 1. [Reuters via Yahoo](http://news.yahoo.com/advisory-story-father-reporting-contact-survivor-aboard-south-005020330--sector.html;_ylt=AwrBEiEnK09TwT0AnjjQtDMD)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The move follows news that similar cladding was used on the Chalcots Estate to t
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/camden-evacuates-tower-block-after-grenfell-fire-10925449)
+1. [Cover Image](http://e3.365dm.com/17/06/1600x900/aa0579262c0f9b5246dd419ee3138c158d129bfae28383f7510f4adb380a842a_3985447.jpg?20170623215543)
 
 ### Related:
 

@@ -11,6 +11,7 @@ News and opinion from The Times &amp; The Sunday Times
 2. [RTÉ](http://www.rte.ie/sport/rugby/sixnations/2010/0320/france_england.html)
 3. [The Globe and Mail](http://www.theglobeandmail.com/sports/more-sports/rugby-france-beats-england-for-sixth-title/article1507022/)
 4. [The Times](http://www.timesonline.co.uk/tol/sport/columnists/stuart_barnes/article7069940.ece)
+4. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

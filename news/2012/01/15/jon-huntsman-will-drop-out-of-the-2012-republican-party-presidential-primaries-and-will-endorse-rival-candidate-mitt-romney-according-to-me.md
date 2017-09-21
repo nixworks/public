@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16570884)
 2. [CNN](http://www.cnn.com/2012/01/15/politics/gop-campaign-wrap/index.html?hpt=hp_t1)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57901000/jpg/_57901655_huntsmanreut.jpg)
 
 ### Related:
 

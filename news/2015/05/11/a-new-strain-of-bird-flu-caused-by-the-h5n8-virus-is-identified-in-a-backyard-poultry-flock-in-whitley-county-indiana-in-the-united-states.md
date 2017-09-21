@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''Journal Gazette](http://www.journalgazette.net/news/local/indiana/Bird-flu-strain-detected-in-NE-Indiana-s-Whitley-County-6591887)
+1. [Cover Image](http://journalgazette.net/assets/11780510/6591500.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ The BBC apologises for airing a radio play about a murderer featuring gunshots, 
 4. [Digital Spy](http://www.digitalspy.co.uk/soaps/s3/coronation-street/news/a223546/coronation-street-pulled-for-third-day.html)
 5. [RTÉ](http://www.rte.ie/arts/2010/0604/coronationstreet2.html)
 6. [Sky News](http://news.sky.com/skynews/Home/Politics/Cumbria-Shootings-David-Cameron-And-Theresa-May-Meet-Communities-Affected-By-Derrick-Bird-Shootings/Article/201006115643573?lpos=Politics_Second_UK_News_Article_Teaser_Region_0&lid=ARTICLE_15643573_Cumbria_Shootings%3A_David_Cameron_And_Theresa_May_Meet_Communities_Affected_By_Derrick_Bird_Shootings)
+6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

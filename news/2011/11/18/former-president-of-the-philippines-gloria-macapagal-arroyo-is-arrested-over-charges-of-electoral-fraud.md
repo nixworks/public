@@ -8,6 +8,7 @@ Philippines former President Gloria Arroyo is arrested on her hospital bed in Ma
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-15786733)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/56727000/jpg/_56727100_013342618-1.jpg)
 
 ### Related:
 

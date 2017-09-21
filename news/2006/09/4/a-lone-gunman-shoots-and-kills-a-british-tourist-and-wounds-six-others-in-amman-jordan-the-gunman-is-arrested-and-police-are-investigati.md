@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-04T140027Z_01_L04200624_RTRUKOC_0_US-JORDAN-SHOOTING.xml&WTmodLoc=Home-C1-TopStories-newsOne-2)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

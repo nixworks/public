@@ -14,6 +14,7 @@ Australian stocks staged a spectacular recovery today, reversing a massive slide
 5. [Sydney Morning Herald](http://www.smh.com.au/business/markets/shares-in-free-fall-amid-global-panic-20110809-1ijzf.html)
 6. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20110809-721856.html)
 7. [Yonhap](http://english.yonhapnews.co.kr/business/2011/08/09/42/0503000000AEN20110809003400320F.HTML)
+7. [Cover Image](http://www.smh.com.au/content/dam/images/1/h/5/3/9/image.related.thumbnail.320x214.1ijzf.png/1312881739413.jpg)
 
 ### Related:
 

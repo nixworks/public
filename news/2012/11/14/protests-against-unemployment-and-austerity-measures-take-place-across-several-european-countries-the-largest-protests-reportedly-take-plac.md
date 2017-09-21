@@ -10,6 +10,7 @@ Millions of EU workers hold a day of action against unemployment and austerity, 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/11/2012111491426963893.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-20320993)
 3. [The Guardian](http://www.guardian.co.uk/business/2012/nov/14/europe-unite-austerity-protests)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64154000/jpg/_64154823_64154822.jpg)
 
 ### Related:
 

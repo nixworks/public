@@ -8,6 +8,7 @@ Tunisia on Monday carried out air strikes on Islamist militants holed up in the 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/12/us-tunisia-army-idUSBRE97B0H320130812)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130812&t=2&i=761143503&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97B13VI00)
 
 ### Related:
 

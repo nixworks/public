@@ -8,6 +8,7 @@ It&#39;s unclear how the company plans to handle the Democratic convention in Ph
 ### Source:
 
 1. [Politico](http://www.politico.com/story/2016/06/apple-wont-aid-gop-convention-over-trump-224513)
+1. [Cover Image](http://static.politico.com/40/c0/d96dcff64e2db522eca6f8212da9/gettyimages-151868537.jpg)
 
 ### Related:
 

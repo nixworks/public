@@ -8,6 +8,7 @@ The chief of the Turkish armed forces, Isik Kosaner, resigns along with the head
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14346325)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54347000/jpg/_54347449_sized_kosaner_hi012559377.jpg)
 
 ### Related:
 

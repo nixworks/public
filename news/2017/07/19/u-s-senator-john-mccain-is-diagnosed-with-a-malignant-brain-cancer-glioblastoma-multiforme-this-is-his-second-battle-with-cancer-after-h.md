@@ -8,6 +8,7 @@ McCain was diagnosed with a tumor called a glioblastoma after the removal of a b
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/politics-news/sen-john-mccain-diagnosed-brain-tumor-n784661)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_29/2078291/170719-john-mccain-ac-1026p_e884dc06f96792164d4d94181761b05a.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

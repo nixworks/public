@@ -9,6 +9,7 @@ The scale of the battering the Moon received early in its history is revealed in
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-20617506)
 2. [Los Angeles Times](http://www.latimes.com/news/custom/la-me-1206-grail-nasa-moon-20121206,0,3101937.story)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64592000/jpg/_64592792_grailstillimage.jpg)
 
 ### Related:
 

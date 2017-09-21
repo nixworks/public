@@ -8,6 +8,7 @@ Federal government to take a fresh look at oil shale development in the West
 ### Source:
 
 1. [Denver Post](http://www.denverpost.com/breakingnews/ci_17835135)
+1. [Cover Image](http://www.denverpost.com/wp-content/themes/denverpost/static/images/denverpost.jpg)
 
 ### Related:
 

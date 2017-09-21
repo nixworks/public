@@ -8,6 +8,7 @@
 ### Source:
 
 1. [LBC](http://www.lbcgroup.tv/news/201305/turkish-court-remands-17-policemen-to-face-wiretap)
+1. [Cover Image](http://www.lbcgroup.tv/newsimages/NB-201305-635595861751518639.jpg)
 
 ### Related:
 

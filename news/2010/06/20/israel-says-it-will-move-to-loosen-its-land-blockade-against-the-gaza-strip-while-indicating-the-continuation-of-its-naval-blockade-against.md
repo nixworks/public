@@ -11,6 +11,7 @@ Germany sharply criticized Israel on Sunday for denying its development minister
 2. [Reuters](http://www.reuters.com/article/idUSTRE65J1V020100620)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/21/c_13359684.htm)
 4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3907973,00.html)
+4. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100620&t=2&i=134891639&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-06-20T164339Z_01_BTRE65J1AGV00_RTROPTP_0_GERMANY)
 
 ### Related:
 

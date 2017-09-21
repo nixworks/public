@@ -9,6 +9,7 @@ Police in Bangladesh on Sunday fired tear gas and rubber bullets to disperse Isl
 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia-pacific/bangladesh-police-clash-with-islamists-enforcing-a-general-strike/2011/07/10/gIQALQSR6H_story.html)
 2. [Reuters](http://in.reuters.com/article/2011/07/10/idINIndia-58177420110710?feedType=RSS&feedName=southAsiaNews&dlvrit=70621)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110710&t=2&i=455897206&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-07-10T143251Z_01_NOOTR_RTRMDNC_0_India-581774-1)
 
 ### Related:
 

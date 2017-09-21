@@ -9,6 +9,7 @@ Clashes continue as President Assad makes his first appearance in public since a
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/201281972948560493.html)
 2. [Washington Times](http://www.washingtontimes.com/news/2012/aug/19/latest-un-envoy-for-syria-not-optimistic/)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/19/2012819233742833734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Doctors will stop providing non-urgent care for a day next month in the first in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-18254499)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58741000/jpg/_58741383_58741382.jpg)
 
 ### Related:
 

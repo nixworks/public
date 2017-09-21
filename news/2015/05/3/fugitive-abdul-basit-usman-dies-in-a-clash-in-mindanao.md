@@ -8,6 +8,7 @@ Usman is the other target in the botched police Special Action Force (SAF) opera
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/91964-most-wanted-basit-usman)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/5DC6DC42B084400F9CDE2E1FA5607C85/dead-abdul-basit-usman-20140131.jpg)
 
 ### Related:
 

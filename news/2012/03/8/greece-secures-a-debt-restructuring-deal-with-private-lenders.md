@@ -8,6 +8,7 @@ Greece appeared to be closer to receiving bailout funds from Europe and the Inte
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/03/09/business/global/deadline-nears-for-greek-bond-swap.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-brazil-corruption-temer/brazil-prosecutor-charges-members-of-temers-party-with-criminal-organization-idUSKCN1BJ2PU)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170908&t=2&i=1200629351&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED871Q6)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [FOX News](http://video.foxnews.com/v/2330476680001/)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/042613/0/0/042613_goler_whitehousesyria_640.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ India Defense Minister Manohar Parrikar joined an armed forces operation as the 
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/07/23/Search-for-missing-Indian-air-force-jet-intensifies-hindered-by-bad-weather/7581469298079/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/7581469298079/2016/1/14693000365927/v2.1/Search-for-missing-Indian-air-force-jet-intensifies-hindered-by-bad-weather.jpg)
 
 ### Related:
 

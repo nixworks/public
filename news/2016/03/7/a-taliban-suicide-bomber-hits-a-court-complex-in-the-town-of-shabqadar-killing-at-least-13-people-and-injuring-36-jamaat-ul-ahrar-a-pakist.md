@@ -9,6 +9,7 @@ At least 13 people died in a suicide bomb attack at a court building in Charsadd
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/03/07/Pakistan-suicide-bomber-kills-13-after-execution-of-assassin/9391457357685/)
 2. [Voice of America](http://www.voanews.com/content/taliban-suicide-bomber-pakistan/3222653.html)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/9391457357685/2016/1/14573583037530/v2.1/Pakistan-suicide-bomber-kills-13-after-execution-of-assassin.jpg)
 
 ### Related:
 

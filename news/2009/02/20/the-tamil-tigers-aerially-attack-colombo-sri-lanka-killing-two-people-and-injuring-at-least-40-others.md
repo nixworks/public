@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE51J4I720090220)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090220&t=2&i=8349077&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-20T205059Z_01_BTRE51J1LX300_RTROPTP_0_SRILANKA-WAR)
 
 ### Related:
 

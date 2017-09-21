@@ -8,6 +8,7 @@ Jakarta: At least 600 people have been evacuated to temporary shelters a day aft
 ### Source:
 
 1. [Sify India](http://www.sify.com/news/600-evacuated-as-Indonesian-volcano-erupts-news-ldtrEfdebhf.html?ref=content_widget_news)
+1. [Cover Image](http://static.sify.com/cms/image/kl3ouQddjhfsi.jpg)
 
 ### Related:
 

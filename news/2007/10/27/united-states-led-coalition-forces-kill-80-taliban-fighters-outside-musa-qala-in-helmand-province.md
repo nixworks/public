@@ -9,6 +9,7 @@ U.S.-led forces killed about 80 Taliban fighters during a battle in Southern Afg
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/10/27/afghanistan.violence.ap/index.html)
 2. [AP via Fox News](http://www.foxnews.com/story/0,2933,305688,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

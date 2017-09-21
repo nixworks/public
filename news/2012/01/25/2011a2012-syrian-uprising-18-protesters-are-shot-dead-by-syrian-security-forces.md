@@ -8,6 +8,7 @@ Syrian security forces raked the central protest city of Hama with heavy machine
 ### Source:
 
 1. [Naharnet](http://www.naharnet.com/stories/en/27810-24-dead-as-syrian-forces-pound-protest-hub-of-hama)
+1. [Cover Image](http://images0.naharnet.com/images/27300/w140.jpg?1327489750)
 
 ### Related:
 

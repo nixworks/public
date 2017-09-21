@@ -8,6 +8,7 @@ A Zambian court orders the air force to pay damages to two ex-pilots who say the
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10172817.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

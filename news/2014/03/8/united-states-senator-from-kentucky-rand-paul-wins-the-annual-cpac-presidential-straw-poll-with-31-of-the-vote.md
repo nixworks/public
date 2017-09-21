@@ -8,6 +8,7 @@ In another indication of his strength among libertarian-leaning conservatives, K
 ### Source:
 
 1. [Real Clear Politics](http://www.realclearpolitics.com/articles/2014/03/08/rand_paul_easily_wins_cpac_straw_poll_121857.html)
+1. [Cover Image](http://images.rcp.realclearpolitics.com/231314_5_.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ice loss from Antarctica and Greenland has accelerated over the last 20 years, r
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2011/03/09/ice-losses-in-both-caskets-and-rising-sea-level-faster-than-estimated)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/30613/200x200/greenland-ice-sheet.jpg)
 
 ### Related:
 

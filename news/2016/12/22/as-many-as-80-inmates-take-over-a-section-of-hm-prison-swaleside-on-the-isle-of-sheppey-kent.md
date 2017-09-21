@@ -8,6 +8,7 @@ Specialist teams are sent into a prison in Kent, after 60 inmates take control o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-38411140)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1494B/production/_93099248_mediaitem93099246.jpg)
 
 ### Related:
 

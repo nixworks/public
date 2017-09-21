@@ -8,6 +8,7 @@ The bus passengers were returning from a marriage celebration. The accident happ
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/30-feared-killed-in-train-bus-collision-in-UP/articleshow/9132484.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/9133411.cms)
 
 ### Related:
 

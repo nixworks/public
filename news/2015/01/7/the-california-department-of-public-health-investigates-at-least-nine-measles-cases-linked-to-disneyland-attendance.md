@@ -8,6 +8,7 @@ The California Department of Public Health is investigating nine measles cases t
 ### Source:
 
 1. [The LA Times](http://www.latimes.com/local/lanow/la-me-ln-measles-cases-tied-to-disneyland-california-adventure-20150107-story.html)
+1. [Cover Image](http://www.trbimg.com/img-54add0a5/turbine/la-me-ln-measles-cases-tied-to-disneyland-california-adventure-20150107)
 
 ### Related:
 

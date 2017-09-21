@@ -8,6 +8,7 @@ Ex-Conservative peers Lord Taylor of Warwick and Lord Hanningfield are released 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-14881229)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53001000/jpg/_53001211_hanningfield464in_pa.jpg)
 
 ### Related:
 

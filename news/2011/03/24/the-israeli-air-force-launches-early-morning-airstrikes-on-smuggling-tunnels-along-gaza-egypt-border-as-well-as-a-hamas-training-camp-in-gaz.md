@@ -9,6 +9,7 @@ Israeli airstrikes hit smuggling tunnels along Gaza-Egypt border as well as a Ha
 
 1. [AP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/israeli-airstrikes-hit-gaza-facilities-20110324-1c7j9.html)
 2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=213546)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=161503)
 
 ### Related:
 

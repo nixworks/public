@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Hurriyet Daily News](http://www.hurriyetdailynews.com/turkey-to-ban-access-to-anti-islam-film-.aspx?pageID=238&nID=31025&NewsCatID=339)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201209/n_31025_1.jpg)
 
 ### Related:
 

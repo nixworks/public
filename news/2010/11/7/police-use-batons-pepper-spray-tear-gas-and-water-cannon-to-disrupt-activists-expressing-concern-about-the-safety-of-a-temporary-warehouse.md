@@ -13,6 +13,7 @@ Confrontation between protesters and riot police marks journey of train to stora
 4. [The Hindu](http://www.thehindu.com/news/international/article872600.ece)
 5. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_600336.html)
 6. [euronews](http://www.euronews.net/2010/11/07/nuclear-waste-train-in-germany-despite-protests/)
+6. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/7/2010117151251702472_20.jpg)
 
 ### Related:
 

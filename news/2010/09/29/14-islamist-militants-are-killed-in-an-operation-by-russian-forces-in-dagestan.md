@@ -10,6 +10,7 @@ Russian forces report killing 14 rebels in the North Caucasus region of Dagestan
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11435298)
 2. [Reuters](http://ca.reuters.com/article/topNews/idCATRE68S2FN20100929)
 3. [Voice of Russia](http://english.ruvr.ru/2010/09/29/23004564.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

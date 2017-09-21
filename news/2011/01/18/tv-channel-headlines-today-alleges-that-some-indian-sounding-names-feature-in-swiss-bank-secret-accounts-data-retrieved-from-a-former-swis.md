@@ -8,6 +8,7 @@ A television channel on Tuesday claimed that some Indian-sounding names figure i
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Indian-sounding-names-in-Swiss-Banks-secret-accounts-/articleshow/7314564.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

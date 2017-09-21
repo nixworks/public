@@ -10,6 +10,7 @@ Downing Street &quot;wholeheartedly&quot; rejects a leaked memo describing cabin
 1. [BBC](http://www.bbc.com/news/uk-politics-37983948)
 2. [Evening Times](http://www.eveningtimes.co.uk/news/14905569.Scottish_passport_plan_could_allow_Scots_to_keep_working_and_living_in_Europe/)
 3. [Herald Scotland](http://www.heraldscotland.com/news/14905299.Scottish_Passports__Experts_look_at_ways_to_allow_Scots_to_keep_living_and_working_in_mainland_Europe/?ref=rss)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2AC0/production/_92444901_unionflagbigben_afp.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The president-elect is sure be asked about unverified reports that Russia has ga
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/donald-trump-holds-first-post-election-press-conference-live-updates/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/01/11/d8fb2dc9-30c1-4064-8dd5-277b55cce514/rtx2yiqn.jpg)
 
 ### Related:
 

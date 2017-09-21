@@ -8,6 +8,7 @@ Cheryl Boone Isaacs, Guillermo del Toro, John Krasinski and Ang Lee reveal the 8
 ### Source:
 
 1. [E! Online](http://www.eonline.com/news/730249/oscars-2016-nominations-complete-list-of-nominees)
+1. [Cover Image](http://akns-images.eonline.com/eol_images/Entire_Site/2015828/rs_300x300-150928121902-600-the-revenant-leonardo-dicaprio-2-092815.jpg?downsize=600:*&crop=600:315;left,top)
 
 ### Related:
 

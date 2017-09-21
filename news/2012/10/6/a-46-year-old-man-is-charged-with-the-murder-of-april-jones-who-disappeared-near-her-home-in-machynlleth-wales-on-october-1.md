@@ -8,3 +8,4 @@ A man is charged with the murder of missing five-year-old April Jones, who has b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-19853582)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63331000/jpg/_63331145_aprilschooluniform.jpg)

@@ -8,6 +8,7 @@ A&#x20;19-year-old&#x20;French&#x20;sprinter,&#x20;Christophe&#x20;Lemaitre,&#x2
 ### Source:
 
 1. [France24](http://www.france24.com/en/20100709-valence-france-christophe-lemaitre-100-metre-dash-under-ten-seconds)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/lemaitre-m.jpg)
 
 ### Related:
 

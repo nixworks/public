@@ -8,6 +8,7 @@ Rescue teams on Saturday struggled to reach villages devastated by a massive mud
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/07/us-brazil-damburst-idUSKCN0SW0ET20151107#bJvkm1CrbikvXKPw.97)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151107&t=2&i=1093119819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA60DJ)
 
 ### Related:
 

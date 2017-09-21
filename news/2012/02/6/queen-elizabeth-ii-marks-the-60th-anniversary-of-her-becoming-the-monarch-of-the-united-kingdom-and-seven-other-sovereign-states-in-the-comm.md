@@ -8,6 +8,7 @@ The Queen visits a school in Norfolk and there are gun salutes around the UK as 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16896731)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58331000/jpg/_58331562_queen_school_reuters.jpg)
 
 ### Related:
 

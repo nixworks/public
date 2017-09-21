@@ -12,6 +12,7 @@ BEIRUT: The shepherd abducted by the Israeli Army was returned to Lebanon Thursd
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-troops-on-alert-following-collapse-of-lebanon-government-1.336788)
 4. [Press TV](http://www.presstv.ir/detail/159886.html)
 5. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=123657#axzz1Ayc7nI1n)
+5. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)
 
 ### Related:
 

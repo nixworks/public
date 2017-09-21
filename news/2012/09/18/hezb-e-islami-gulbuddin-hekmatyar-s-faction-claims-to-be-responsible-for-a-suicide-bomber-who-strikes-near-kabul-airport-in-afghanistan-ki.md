@@ -8,6 +8,7 @@ A suicide attack on a minibus in the Afghan capital killed 12 people on Tuesday,
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/09/18/us-afghanistan-blast-idUSBRE88H05S20120918)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120918&t=2&i=654040341&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88H0AVL00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Violence has erupted in Papua New Guinea&#039;s Western Highlands, with security
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/08/1999588.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

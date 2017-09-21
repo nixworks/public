@@ -8,6 +8,7 @@ Officials advised consumers to discard toothpaste made in China as the U.S. beca
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/06/02/health/01cnd-toothpaste.html?ex=1338436800&en=4a00c164001844ad&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

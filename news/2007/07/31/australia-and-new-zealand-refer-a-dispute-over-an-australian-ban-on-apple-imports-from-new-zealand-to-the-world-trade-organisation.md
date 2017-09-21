@@ -8,6 +8,7 @@ The row between Australia and New Zealand over apple imports is heading to the W
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/07/31/1993349.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/679188-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3066017/Italy-says-3-700-boat-migrants-rescued-operations-ongoing.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
 2. [Reuters](http://in.reuters.com/article/2015/05/03/europe-migrants-italy-idINKBN0NO07120150503)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

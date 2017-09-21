@@ -8,6 +8,7 @@ Two guards were killed in an attempted attack on an oil field in eastern Libya b
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-libya-security-energy-idUSKCN0WZ0R3?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

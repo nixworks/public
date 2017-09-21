@@ -8,6 +8,7 @@ More than $4bn committed to help rescuers and residents whose health was affecte
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/2010122302740414232.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/23/2010122321636342734_20.jpg)
 
 ### Related:
 

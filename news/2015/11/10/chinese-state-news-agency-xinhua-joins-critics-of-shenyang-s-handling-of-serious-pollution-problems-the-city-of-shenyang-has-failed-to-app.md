@@ -8,6 +8,7 @@ Pollution in a northeastern Chinese city has become so lethal, even state media 
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/10/Anger-simmers-in-China-over-worst-ever-air-pollution/3041447177028/?spt=hts&or=6)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/3041447177028/2015/5/76203c26a21b5e497861be1bafb8af46/v1.5/Anger-simmers-in-China-over-worst-ever-air-pollution.jpg)
 
 ### Related:
 

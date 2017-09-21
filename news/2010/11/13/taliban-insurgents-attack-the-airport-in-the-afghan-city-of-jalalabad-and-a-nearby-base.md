@@ -8,6 +8,7 @@ Eight Taliban militants have been killed in an attack on a military outpost near
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11749196)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

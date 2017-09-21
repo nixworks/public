@@ -8,6 +8,7 @@ Sweden suspends a controversial cull of its wild wolf population just days after
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21366625)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65734000/jpg/_65734653_65734652.jpg)
 
 ### Related:
 

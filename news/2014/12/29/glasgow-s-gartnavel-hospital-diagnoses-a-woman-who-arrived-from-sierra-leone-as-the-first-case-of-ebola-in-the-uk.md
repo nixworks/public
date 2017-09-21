@@ -8,6 +8,7 @@ A healthcare worker who has just returned from West Africa is diagnosed with Ebo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-scotland-30628349)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/79977000/jpg/_79977219_hospital.jpg)
 
 ### Related:
 

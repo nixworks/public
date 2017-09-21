@@ -8,3 +8,4 @@ Another bout of torrential rain is forecast to hit Northland tomorrow, as the No
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10793261)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201212/giveway_1024x761.jpg)

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-15472362)
 2. [The Guardian](http://www.guardian.co.uk/uk/2011/oct/27/giles-fraser-resignation-dale-farm?newsfeed=true)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56328000/jpg/_56328821_56328820.jpg)
 
 ### Related:
 

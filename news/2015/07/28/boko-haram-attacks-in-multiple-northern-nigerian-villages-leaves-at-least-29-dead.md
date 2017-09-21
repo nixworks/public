@@ -8,6 +8,7 @@ At least 29 people were killed by suspected Islamist insurgents in northeastern 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-07-28/insurgents-kill-at-least-29-in-northeastern-nigerian-villages)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Scaffolding collapses on Bavarian bridge construction site, killing one person a
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36543261)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/371D/production/_89990141_mediaitem89990140.jpg)
 
 ### Related:
 

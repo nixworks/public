@@ -9,6 +9,7 @@ Reports say Pyongyang fired a shell at a South Korean border town, which prompte
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-34001126)
 2. [Sky News](http://news.sky.com/story/1538725/north-and-south-korea-trade-fire-over-border)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/north-south-korea-1_3514808.jpg?20160704124129)
 
 ### Related:
 

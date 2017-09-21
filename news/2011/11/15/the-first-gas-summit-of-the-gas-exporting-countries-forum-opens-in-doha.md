@@ -10,6 +10,7 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iDPJgH0cbk8c8WYE5PWgSrnol4Rw?docId=CNG.e4e461402118db348f30ab6275a98e25.171)
 2. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=470095&version=1&template_id=48&parent_id=28)
 3. [Trend News Agency](http://en.trend.az/capital/energy/1957161.html)
+3. [Cover Image](http://www.gulf-times.com/images/Share.png)
 
 ### Related:
 

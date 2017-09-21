@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC News](http://www.cbc.ca/world/story/2008/10/04/afghan-war.html)
+1. [Cover Image](https://i.cbc.ca/1.2098397.1382676513!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-afghanistan-canadian-cp.jpg)
 
 ### Related:
 

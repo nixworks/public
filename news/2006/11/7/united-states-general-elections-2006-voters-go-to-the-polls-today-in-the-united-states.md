@@ -12,6 +12,7 @@ A woman who died two months ago won a county commissioner&#39;s race in Jerauld 
 3. [CNN](http://www.cnn.com/ELECTION/2006/pages/results/senate/)
 4. [MSNBC](http://www.msnbc.msn.com/id/15622299/)
 5. [Scotsman](http://news.scotsman.com/international.cfm?id=1646022006)
+5. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

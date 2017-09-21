@@ -8,6 +8,7 @@ Labour hold the Barnsley Central seat in a by-election, while the Lib Dems slip 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12643639)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

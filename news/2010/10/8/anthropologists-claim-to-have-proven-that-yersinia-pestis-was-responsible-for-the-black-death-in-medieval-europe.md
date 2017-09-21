@@ -8,6 +8,7 @@ Anthropologists say they have confirmed long-running suspicions that a germ call
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2010/10/09/3033858.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

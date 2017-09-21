@@ -8,6 +8,7 @@ A MORTAR attack has killed at least 19 people in the central Syrian city of Homs
 ### Source:
 
 1. [News Limited](http://www.news.com.au/world/breaking-news/syrian-mortar-attack-kills-at-least-19/story-e6frfkui-1226800950718?from=public_rss)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

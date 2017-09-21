@@ -8,6 +8,7 @@ Afghan police say they have seized a cache of hundreds of rockets hidden on the 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/10142102.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

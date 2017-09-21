@@ -8,6 +8,7 @@ A small plane crashes in the city of Recife in north-eastern Brazil, killing all
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14137774)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54053000/jpg/_54053634_54053633.jpg)
 
 ### Related:
 

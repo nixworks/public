@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=34408&Cr=Somali&Cr1=)
+1. [Cover Image](/News/dh/photos/large/2010/4bcc62d86-mogadishu.jpg)
 
 ### Related:
 

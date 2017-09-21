@@ -8,6 +8,7 @@ Prime minister also uses last leg of diplomatic tour to issue warning to Turkish
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/politics/2017/jan/28/theresa-may-signs-100m-fighter-jet-deal-with-turkeys-erdogan)
+1. [Cover Image](https://i.guim.co.uk/img/media/59aa07fda9cc7059ec1f0847a8e78988597da07c/634_951_2766_1660/master/2766.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=6fab8ca649cc3be94decad44c4325cf3)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Reuters India offers top Business and market news updates covering Indian Stock 
 
 1. [Reuters](http://www.reuters.co.in/locales/c_newsArticle.jsp?type=businessNews&localeKey=en_IN&storyID=8796388)
 2. [Xinhua](http://news.xinhuanet.com/english/2005-06/16/content_3091337.htm)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

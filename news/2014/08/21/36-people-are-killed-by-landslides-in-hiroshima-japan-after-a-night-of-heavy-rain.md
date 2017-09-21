@@ -8,6 +8,7 @@ At least 36 people, including several children, were killed in Japan on Wednesda
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2014/08/21/us-japan-landslides-idINKBN0GK06720140821)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140820&t=2&i=965649695&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7J0ZC)
 
 ### Related:
 

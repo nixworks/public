@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/03/07/us-safrica-rwanda-idUSBREA261BS20140307)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140307&t=2&i=856400298&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA261CQU00)
 
 ### Related:
 

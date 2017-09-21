@@ -8,6 +8,7 @@ Moammar Gadhafi&#39;s forces fired rockets along the eastern front line and shel
 ### Source:
 
 1. [MSNBC](http://today.msnbc.msn.com/id/42557768/ns/world_news-mideastn_africa/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110412-Misrata-fighting-horiz-12p.standard.jpg)
 
 ### Related:
 

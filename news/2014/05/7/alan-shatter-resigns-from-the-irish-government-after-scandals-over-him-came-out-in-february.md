@@ -8,6 +8,7 @@ Alan Shatter&#39;s successor as Minister for Justice is expected to be announced
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2014/0507/615716-alan-shatter-mick-wallace/)
+1. [Cover Image](https://img.rasset.ie/0008ba8c-1600.jpg)
 
 ### Related:
 

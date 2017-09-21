@@ -8,6 +8,7 @@ THE death toll from a typhoon that pummelled the Philippines has climbed to 43 a
 ### Source:
 
 1. [News Limited](http://www.news.com.au/breaking-news/typhoon-nesat-toll-reaches-43-in-the-philippines/story-e6frfku0-1226153792887)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

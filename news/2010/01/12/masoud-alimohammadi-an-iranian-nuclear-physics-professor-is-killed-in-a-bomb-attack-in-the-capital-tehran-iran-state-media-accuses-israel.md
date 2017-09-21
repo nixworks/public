@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201011273050938177.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8453401.stm)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=115934&sectionid=351020101)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

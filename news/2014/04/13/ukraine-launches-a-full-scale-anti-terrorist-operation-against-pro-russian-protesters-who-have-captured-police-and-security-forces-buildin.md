@@ -9,6 +9,7 @@ Ukraine has given pro-Russian separatists a Monday morning deadline to disarm or
 
 1. [BBC](http://www.bbc.com/news/world-europe-27011605#)
 2. [Reuters](http://uk.reuters.com/article/2014/04/13/uk-ukraine-crisis-idUKBREA3709O20140413)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140413&t=2&i=884844661&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3C11J500)
 
 ### Related:
 

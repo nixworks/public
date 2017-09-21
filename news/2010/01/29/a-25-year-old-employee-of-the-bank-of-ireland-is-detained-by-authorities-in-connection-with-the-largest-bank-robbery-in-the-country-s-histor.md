@@ -9,6 +9,7 @@ An employee of the Bank of Ireland is being questioned by garda√≠ investigating 
 
 1. [RT…](http://www.rte.ie/news/2010/0129/kilteel.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0129/breaking21.htm)
+2. [Cover Image](https://img.rasset.ie/00021b60-1600.jpg)
 
 ### Related:
 

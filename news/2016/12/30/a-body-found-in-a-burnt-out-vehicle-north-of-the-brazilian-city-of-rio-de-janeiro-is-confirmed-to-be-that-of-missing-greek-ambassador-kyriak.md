@@ -8,6 +8,7 @@ Brazilian police detain the wife of the Greek envoy after finding his body in Ri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38467304)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8FA0/production/_93186763_greekwife2.jpg)
 
 ### Related:
 

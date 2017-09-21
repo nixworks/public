@@ -8,6 +8,7 @@ Surprise move not to stand for a second term in upcoming presidential election t
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/dec/01/francois-hollande-not-seek-second-term-president-france)
+1. [Cover Image](https://i.guim.co.uk/img/media/58285050e6a918fe2374e565835c9cfc9d1ea7e8/0_309_5568_3341/master/5568.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=e6c624010ba36b26d7d2da39972b8147)
 
 ### Related:
 

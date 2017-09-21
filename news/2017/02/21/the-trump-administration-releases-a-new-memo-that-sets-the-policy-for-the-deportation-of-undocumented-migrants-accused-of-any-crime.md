@@ -8,6 +8,7 @@ Advocates say the immigrant community is bracing for more raids and deportations
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/latino/trump-enforcement-plan-has-immigrants-bracing-raids-deportations-n723771)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_08/1910001/170221-immigration-deportations-ok-1902_47799faeba717024463bc04c11fd6bab.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

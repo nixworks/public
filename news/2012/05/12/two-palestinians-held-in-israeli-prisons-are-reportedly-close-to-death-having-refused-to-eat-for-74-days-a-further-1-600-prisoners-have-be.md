@@ -9,6 +9,7 @@ A pair of Palestinian prisoners being held without charge enter day 74 without f
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/9259455/Palestinian-prisoners-enter-day-74-of-hunger-strike.html)
 2. [Ha'aretz](http://www.haaretz.com/news/diplomacy-defense/palestinian-prisoners-to-continue-hunger-strike-1.429838)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02216/Palestinian_prison_2216733a.jpg)
 
 ### Related:
 

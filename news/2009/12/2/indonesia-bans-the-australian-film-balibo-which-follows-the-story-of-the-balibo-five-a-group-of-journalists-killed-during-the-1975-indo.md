@@ -11,6 +11,7 @@ The Jakarta Foreign Correspondents Club (JFCC) decided to &quot;err on the side 
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8390075.stm)
 3. [Jakarta Post](http://www.thejakartapost.com/news/2009/12/02/balibo039-screening-canceled-deemed-too-risky039.html)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE5B129O20091202?feedType=RSS&feedName=topNews)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

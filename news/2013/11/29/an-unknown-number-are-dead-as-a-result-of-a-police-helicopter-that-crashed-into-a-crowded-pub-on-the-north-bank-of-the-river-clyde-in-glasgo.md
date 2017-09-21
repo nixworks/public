@@ -9,6 +9,7 @@ Thirty-two people are taken to hospital after a police helicopter with three peo
 
 1. [AFP via NineMSN](http://news.ninemsn.com.au/world/2013/11/30/10/46/helicopter-crashes-into-glasgow-pub)
 2. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-25163045#)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71443000/jpg/_71443633_jan_glasgow_1.jpg)
 
 ### Related:
 

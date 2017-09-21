@@ -8,6 +8,7 @@ Georgian&#x20;authorities&#x20;said&#x20;on&#x20;Friday&#x20;that&#x20;four&#x20
 ### Source:
 
 1. [France 24](http://www.france24.com/en/20101105-police-arrest-13-alleged-involvement-russian-spy-ring-georgia-espionage)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/georgie-espionnage.jpg)
 
 ### Related:
 

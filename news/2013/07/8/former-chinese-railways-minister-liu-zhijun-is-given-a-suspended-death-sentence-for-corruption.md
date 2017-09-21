@@ -8,6 +8,7 @@ A Chinese court gives former Railways Minister Liu Zhijun a suspended death sent
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-23222240)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68072000/jpg/_68072460_68072459.jpg)
 
 ### Related:
 

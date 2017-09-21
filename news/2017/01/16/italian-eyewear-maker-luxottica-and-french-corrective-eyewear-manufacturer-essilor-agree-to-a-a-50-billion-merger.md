@@ -8,3 +8,4 @@ Italian eyewear maker Luxottica and French corrective eye lens maker Essilor hav
 ### Source:
 
 1. [Reuters via ''Business Insider](http://www.businessinsider.com/r-luxottica-and-essilor-to-merge-in-53-billion-deal-ft-2017-1?IR=T)
+1. [Cover Image](http://static2.businessinsider.com/image/587c7b39f10a9a22008b8786-1190-625/the-maker-of-ray-ban-is-merging-with-a-rival-in-a-50-billion-deal.jpg)

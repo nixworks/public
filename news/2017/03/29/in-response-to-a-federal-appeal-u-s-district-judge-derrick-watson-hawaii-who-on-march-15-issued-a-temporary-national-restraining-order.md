@@ -9,6 +9,7 @@ The Hawaii federal judge who brought President Trump&apos;s revised travel ban t
 
 1. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-travel-ban-arguments-hawaii-judge-20170329-story.html)
 2. [Los Angeles Times](http://www.latimes.com/politics/washington/la-na-essential-washington-updates-hawaii-judge-trump-travel-1490816530-htmlstory.html)
+2. [Cover Image](http://www.trbimg.com/img-58dc85ea/turbine/la-na-essential-washington-updates-hawaii-judge-trump-travel-1490816530)
 
 ### Related:
 

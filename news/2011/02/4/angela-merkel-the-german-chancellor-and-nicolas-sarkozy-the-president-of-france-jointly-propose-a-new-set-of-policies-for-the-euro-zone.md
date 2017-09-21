@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/04/us-eu-summit-idUSTRE7115H420110204)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110204&t=2&i=327929832&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-04T200014Z_01_BTRE7130ZUV00_RTROPTP_0_EU-SUMMIT)
 
 ### Related:
 

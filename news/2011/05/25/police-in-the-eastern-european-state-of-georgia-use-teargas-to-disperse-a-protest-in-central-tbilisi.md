@@ -8,6 +8,7 @@ Injuries reported as authorities move in with tear gas and truncheons to break u
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/europe/2011/05/2011525214035185227.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/25/201152521474968734_20.jpg)
 
 ### Related:
 

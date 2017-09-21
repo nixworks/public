@@ -10,6 +10,7 @@ Kislyak emerged as a central figure in investigations into possible collusion be
 1. [CBS News](http://www.cbsnews.com/news/sergey-kislyak-departs-u-s-as-ambassadorship-ends/)
 2. [Reuters](http://in.reuters.com/article/usa-russia-diplomacy-idINKBN1A8022)
 3. [The Washington Post](https://www.washingtonpost.com/world/national-security/sessions-discussed-trump-campaign-related-matters-with-russian-ambassador-us-intelligence-intercepts-show/2017/07/21/3e704692-6e44-11e7-9c15-177740635e83_story.html?tid=a_inl&utm_term=.f35064a17a93)
+3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/03/02/2e370cc6-aef2-4dc0-a322-8ac2e2c3d09b/ap-662644190021.jpg)
 
 ### Related:
 

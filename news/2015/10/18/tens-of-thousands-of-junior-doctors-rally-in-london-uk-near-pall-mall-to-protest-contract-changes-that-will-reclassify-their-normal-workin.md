@@ -10,6 +10,7 @@ At London protest Dr Johann Malawana tells health secretary to stop lambasting j
 1. [The Daily Mail](http://www.dailymail.co.uk/news/article-3277262/Tens-thousands-junior-doctors-march-London-protest-plans-make-work-evenings-weekends.html)
 2. [The Guardian](http://www.theguardian.com/society/2015/oct/17/leader-of-nhs-junior-doctors-urges-jeremy-hunt-to-reopen-negotiations)
 3. [The iFreePress](http://www.ifreepress.com/4758-junior-doctors-march-in-london-to-highlight-contract-dispute/)
+3. [Cover Image](https://i.guim.co.uk/img/media/396338647fa7f688c6d03ee1be1ef95c66b079c7/0_284_3500_2101/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d5d0c1f71ff06de8dd7bfaca7c3684de)
 
 ### Related:
 

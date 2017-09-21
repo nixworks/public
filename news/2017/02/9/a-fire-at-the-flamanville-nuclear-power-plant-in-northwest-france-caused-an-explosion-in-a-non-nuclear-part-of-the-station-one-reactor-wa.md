@@ -8,6 +8,7 @@ A fire caused an explosion at the Flamanville nuclear power plant in northwest F
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/france-nuclear-plant-explosion-flamanvil-idINKBN15O16X)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170209&t=2&i=1172001259&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED180LF)
 
 ### Related:
 

@@ -10,6 +10,7 @@ An Irish and a Canadian aid ship are currently in international waters on their 
 1. [RTE](http://www.rte.ie/news/2011/1102/gaza.html)
 2. [Reuters](http://af.reuters.com/article/egyptNews/idAFL5E7M249J20111102)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/nov/02/gaza-sea-blockade-boats-turkey?newsfeed=true)
+3. [Cover Image](https://img.rasset.ie/0004bb38-1600.jpg)
 
 ### Related:
 

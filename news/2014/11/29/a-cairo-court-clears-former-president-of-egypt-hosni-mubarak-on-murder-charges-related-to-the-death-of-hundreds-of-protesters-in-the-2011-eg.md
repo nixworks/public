@@ -9,6 +9,7 @@
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/world/egypt-s-mubarak-arrives/1500884.html)
 2. [BBC](http://www.bbc.com/news/world-middle-east-30258537)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/79387000/jpg/_79387045_79387044.jpg)
 
 ### Related:
 

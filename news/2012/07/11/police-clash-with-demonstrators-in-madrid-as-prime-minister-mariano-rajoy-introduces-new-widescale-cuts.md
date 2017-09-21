@@ -9,6 +9,7 @@ Spanish Prime Minister Mariano Rajoy announces sweeping budget cuts and tax rise
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18792427)
 2. [Reuters](http://www.reuters.com/article/2012/07/11/us-spain-economy-cuts-idUSBRE86A0CP20120711)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61506000/jpg/_61506549_61506548.jpg)
 
 ### Related:
 

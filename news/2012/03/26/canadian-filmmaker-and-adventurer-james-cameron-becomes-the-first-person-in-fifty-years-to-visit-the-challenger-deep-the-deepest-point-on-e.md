@@ -8,6 +8,7 @@ Film director James Cameron returns to the surface after becoming the first pers
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-17503395)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59297000/jpg/_59297687_camerondive.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The newly discovered worlds are now the most promising targets in the search for
 1. [CNN](http://www.cnn.com/2016/05/02/health/three-habitable-planets-earth-dwarf-star/)
 2. [Nature](http://www.nature.com/articles/nature17448.epdf?referrer_access_token=iiEdYLP4HdMl6uPKm2T7G9RgN0jAjWel9jnR3ZoTv0MIFXhO48LwbcrnV_fG0uzdTXDH0U-GZiE_QhzwpCK3vvWAYKfh9dBqs7si1lc7aEfLj8EfY1mfB67qKa1pyy8EZbcYsGLGzKGi6-g-aRae6zCv6otzBHGaSV8SdhZT3_-SiNixjmizRm-uSgxwruni9Sa8aVEslAVfuHK3JAtq1A%3D%3D&tracking_referrer=www.cnn.com)
 3. [The Atlantic](http://www.theatlantic.com/science/archive/2016/05/astronomers-have-found-planets-in-the-habitable-zone/480690/)
+3. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2016/05/eso1615c-1/facebook.jpg?1462200649)
 
 ### Related:
 

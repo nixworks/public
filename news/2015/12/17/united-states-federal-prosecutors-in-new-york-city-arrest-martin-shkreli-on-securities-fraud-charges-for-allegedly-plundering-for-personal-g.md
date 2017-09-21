@@ -9,6 +9,7 @@ A boyish-looking entrepreneur who became the new face of corporate greed when he
 
 1. [ABC](http://abcnews.go.com/Health/turing-pharmaceuticals-ceo-martin-shkreli-arrested-securities-fraud/story?id=35819042)
 2. [Chicago Tribune](http://www.chicagotribune.com/business/ct-martin-shkreli-arrested-20151217-story.html)
+2. [Cover Image](http://www.trbimg.com/img-5672e4c0/turbine/ct-martin-shkreli-arrested-20151217)
 
 ### Related:
 

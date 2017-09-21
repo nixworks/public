@@ -9,6 +9,7 @@ The death in June is the first related to the Zika virus in the continental U.S.
 
 1. [NBC News](http://www.nbcnews.com/storyline/zika-virus-outbreak/zika-patient-dies-utah-1st-related-death-continental-u-s-n606206)
 2. [Time](http://time.com/4398952/zika-death-utah-continental-us/)
+2. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_26/1599286/aliota_mosquito16_4933_1e02933dad03d106ecaf16927cb2a31c.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

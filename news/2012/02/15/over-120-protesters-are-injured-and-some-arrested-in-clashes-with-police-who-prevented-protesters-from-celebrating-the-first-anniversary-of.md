@@ -10,6 +10,7 @@ The leader of Bahrain&#8217;s largest opposition party Wednesday confirmed that 
 1. [Reuters](http://www.reuters.com/article/2012/02/15/us-bahrain-protests-idUSTRE81E2A220120215)
 2. [The Washington Times](http://www.washingtontimes.com/news/2012/feb/15/opposition-leader-confirms-contact-with-bahraini-g/)
 3. [United Nations](http://www.un.org/sg/statements/index.asp?nid=5864)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

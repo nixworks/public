@@ -8,6 +8,7 @@ A U.S. Navy destroyer fired three warning shots at four Iranian fast-attack vess
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-iran-defense-idUSKBN14T1AX)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170109&t=2&i=1168131764&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED081HS)
 
 ### Related:
 

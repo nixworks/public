@@ -9,6 +9,7 @@ Downing Street was involved in a heated row with the BBC last night over the cor
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/gordon-brown/6237419/BBC-stuns-Gordon-Brown-with-question-on-pill-taking.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/politics/article6851283.ece)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01489/gordon-brown_1489890a.jpg)
 
 ### Related:
 

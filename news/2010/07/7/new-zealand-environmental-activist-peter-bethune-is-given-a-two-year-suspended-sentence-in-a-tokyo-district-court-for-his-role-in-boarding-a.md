@@ -11,6 +11,7 @@ When Pete Bethune&#039;s family in Auckland heard the New Zealand environmental 
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/07/japan.sea.shepherd.verdict/?fbid=YIYm6U-LlVS)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/07/peter-bethune-sea-shepherd-sentence)
 4. [The Sydney Morning Herald](http://www.smh.com.au/environment/whale-watch/relief-for-family-as-bethune-goes-free-20100708-101a5.html)
+4. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Ukrainian police are continuing to storm the main anti-government protest camp i
 3. [Wires via ''Chicago Tribune](http://www.chicagotribune.com/news/chi-ukraine-protest-20140219,0,1677423.story)
 4. [Yahoo! News](http://news.yahoo.com/ukraine-25-killed-241-injured-kiev-clashes-071513710.html)
 5. [Yahoo! News](http://news.yahoo.com/ukraine-39-protesters-seize-government-buildings-western-cities-005225414.html)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73072000/jpg/_73072832_73072829.jpg)
 
 ### Related:
 

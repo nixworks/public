@@ -8,6 +8,7 @@ Incident comes only a day after police confirmed Palestinian reports saying that
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/palestinian-killed-after-settlers-open-fire-in-west-bank-village-1.339749?localLinksEnabled=false)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.301273.1411342511!/image/1137854338.jpg_gen/derivatives/headline_1200x630/1137854338.jpg)
 
 ### Related:
 

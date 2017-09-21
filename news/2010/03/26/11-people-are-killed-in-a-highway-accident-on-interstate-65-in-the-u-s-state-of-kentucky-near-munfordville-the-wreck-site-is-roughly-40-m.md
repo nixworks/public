@@ -9,6 +9,7 @@ A tractor-trailer loaded with auto parts crosses a highway median and slams head
 
 1. [CNN](http://www.cnn.com/2010/US/03/26/kentucky.wreck/index.html?hpt=T2)
 2. [MSNBC](http://www.msnbc.msn.com/id/36051164/ns/us_news-life/)
+2. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Video/100326/nn_08bwi_kycrash_100326.standard.jpg)
 
 ### Related:
 

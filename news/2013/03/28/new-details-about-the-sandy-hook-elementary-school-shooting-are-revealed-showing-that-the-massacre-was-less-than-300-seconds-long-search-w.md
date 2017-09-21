@@ -9,6 +9,7 @@ Hundreds of rounds of ammunition, guns, knives and three samurai swords were amo
 
 1. [CNN](http://news.blogs.cnn.com/2013/03/28/newtown-probe-1-4k-ammo-rounds-in-lanza-home)
 2. [USA Today](http://www.usatoday.com/story/news/nation/2013/03/28/newtown-search-warrants-released/2027639/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/05/04/us-argentina-ypf-idUSBRE8421GV20120504)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120504&t=2&i=602911460&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84308GK00)
 
 ### Related:
 

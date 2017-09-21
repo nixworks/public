@@ -8,6 +8,7 @@ A German controller who was operating the tracks where two trains collided in Fe
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/04/12/Controller-in-deadly-German-train-crash-was-playing-game-on-his-phone-officials-say/5911460483138/?spt=rln&or=2)
+1. [Cover Image](http://cdnph.upi.com/ph/st/th/5911460483138/2016/i/14604892356545/v1.5/Controller-in-deadly-German-train-crash-was-playing-game-on-his-phone-officials-say.jpg?lg=2)
 
 ### Related:
 

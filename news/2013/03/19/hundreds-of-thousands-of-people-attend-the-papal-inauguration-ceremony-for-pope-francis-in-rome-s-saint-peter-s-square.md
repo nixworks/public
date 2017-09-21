@@ -9,6 +9,7 @@ Pope Francis inaugurates his papacy at a Mass in Rome, calling on global leaders
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/breaking-news/world/story/pope-francis-set-grandiose-inauguration-mass-20130319)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21839069)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66475000/jpg/_66475341_idg1q1jq.jpg)
 
 ### Related:
 

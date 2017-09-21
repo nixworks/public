@@ -10,6 +10,7 @@
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iUyF0OYJPntwAMRcXBsLkD1j-kjQ?docId=CNG.6d1f4ccfc419a26d8e1da17eabc8d972.5e1)
 2. [BBC News](http://www.bbc.co.uk/news/world-africa-12591445)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/feb/27/tunisian-prime-minister-ghannouchi-resigns)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

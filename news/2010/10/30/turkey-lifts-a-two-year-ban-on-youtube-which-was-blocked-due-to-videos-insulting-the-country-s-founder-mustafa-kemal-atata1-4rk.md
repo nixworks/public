@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/technology-11659816)
 2. [Today's Zaman](http://www.todayszaman.com/tz-web/news-225829-100-end-to-youtube-ban-in-sight-after-over-2-years.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

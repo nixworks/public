@@ -8,6 +8,7 @@ Transport workers across Greece have begun a two-day strike in response to the l
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-09-28/greeks-protest-new-debt-measure/3025858)
+1. [Cover Image](http://www.abc.net.au/news/image/3025900-1x1-700x700.jpg)
 
 ### Related:
 

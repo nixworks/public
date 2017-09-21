@@ -8,6 +8,7 @@ South Korea uses hotline to counterpropose talks at Panmunjom truce village afte
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/06/20136715357828174.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/7/2013672345483734_20.jpg)
 
 ### Related:
 

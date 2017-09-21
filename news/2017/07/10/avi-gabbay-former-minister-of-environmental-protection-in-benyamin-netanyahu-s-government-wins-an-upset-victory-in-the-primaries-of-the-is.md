@@ -9,6 +9,7 @@ Israel’s Avi Gabbay, who steered the country’s biggest telecommunications co
 
 1. [Bloomberg Politics](https://www.bloomberg.com/news/articles/2017-07-10/israel-s-avi-gabbay-wins-upset-victory-in-labor-party-runoff-j4yjs8ee)
 2. [The Guardian](https://www.theguardian.com/world/2017/jul/11/avi-gabbay-hailed-israel-macron-labour-leadership-win)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imu_PwN2iy_k/v0/1200x800.jpg)
 
 ### Related:
 

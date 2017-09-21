@@ -8,6 +8,7 @@ Miss Arkansas Savvy Shields won the Miss America pageant Sunday night in Atlanti
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/entertainment/2016/09/12/miss-arkansas-sings-dances-her-way-to-miss-america-crown.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/12/0/0/694940094001_5120918436001_091216-ff-missamerica-1280.jpg?ve=1)
 
 ### Related:
 

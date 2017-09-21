@@ -9,6 +9,7 @@ Vodafone Group Plc. said criminals accessed customer account details, including 
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-10-31/vodafone-says-some-u-k-customers-accounts-accessed-by-hackers)
 2. [Financial Times](http://www.ft.com/intl/cms/s/0/ca560af4-7ff6-11e5-84dc-31c8b3b18e5f.html#axzz3qB3hxtxQ)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i52jf0_mxnQk/v1/1200x790.jpg)
 
 ### Related:
 

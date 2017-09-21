@@ -9,6 +9,7 @@ An exhibition of late works by artist Salvador Dali is opening in Atlanta, inclu
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10878123)
 2. [The Christian Science Monitor](http://www.csmonitor.com/From-the-news-wires/2010/0805/Salvador-Dali-exhibition-exclusively-at-Atlanta-museum)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

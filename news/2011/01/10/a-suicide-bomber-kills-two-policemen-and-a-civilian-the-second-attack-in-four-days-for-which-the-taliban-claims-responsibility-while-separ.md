@@ -9,6 +9,7 @@ Insurgents Monday staged the second suicide bombing in four days in a strategic 
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-afghan-fighting-20110111,0,6328352.story)
 2. [The New York Times](http://www.nytimes.com/2011/01/11/world/asia/11afghan.html)
+2. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

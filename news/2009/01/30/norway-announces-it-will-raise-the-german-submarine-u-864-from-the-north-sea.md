@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Norway Post](http://www.norwaypost.no/content/view/21562/1/)
+1. [Cover Image](/plugins/content/al_facebook_comments/assets/images/enlace.png)
 
 ### Related:
 

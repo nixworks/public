@@ -8,6 +8,7 @@ Facebook decided Friday to reinstate the iconic, Vietnam War-era photograph of a
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2016/09/09/norway-paper-blasts-facebook-nude-napalm-girl-censorship/90111834/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Islamist militants in the Philippines have executed a German who survived being 
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/asia/se-asia/abu-sayyaf-beheads-german-hostage)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2017/02/27/pzbehead27e_2x.jpg?itok=k59P-j9o)
 
 ### Related:
 

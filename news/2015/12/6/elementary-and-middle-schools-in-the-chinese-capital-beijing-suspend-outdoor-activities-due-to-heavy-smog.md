@@ -8,6 +8,7 @@ BEIJING (Bloomberg) - Elementary and middle schools in Beijing will suspend outd
 ### Source:
 
 1. [Bloomberg vs ''The Straits Times](http://www.straitstimes.com/asia/east-asia/beijing-suspends-outdoor-activity-at-schools-as-smog-returns)
+1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/12/06/36859886_-_02_12_2015_-_china_pollution.jpg?itok=t_jK1YdG)
 
 ### Related:
 

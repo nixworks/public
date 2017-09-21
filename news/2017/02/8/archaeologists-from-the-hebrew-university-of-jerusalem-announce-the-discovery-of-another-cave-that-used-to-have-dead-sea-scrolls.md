@@ -8,6 +8,7 @@ Empty storage jars and a scrap of parchment unearthed in dig carried out by Hebr
 ### Source:
 
 1. [The Times of Israel](http://www.timesofisrael.com/new-dead-sea-scroll-cave-found-near-qumran-but-scrolls-are-gone/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2017/02/hu170208_ahiaddigs.jpg)
 
 ### Related:
 

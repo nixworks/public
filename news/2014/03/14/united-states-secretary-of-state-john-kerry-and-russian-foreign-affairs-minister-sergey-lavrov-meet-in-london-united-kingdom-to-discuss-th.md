@@ -8,6 +8,7 @@ US secretary of state meets Russian foreign minister at ambassador&#x27;s reside
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/mar/14/ukraine-crisis-john-kerry-sergey-lavrov-meet-london-talks)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2014/3/14/1394799365832/Russias-Foreign-Minister--016.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8996deb5cd69c97c5ace9b5bb575a042)
 
 ### Related:
 

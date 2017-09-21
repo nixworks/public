@@ -8,6 +8,7 @@ Four Israeli air strikes on the Gaza Strip at the weekend killed five militants,
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-19938217)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63484000/jpg/_63484188_63484187.jpg)
 
 ### Related:
 

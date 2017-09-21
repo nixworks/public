@@ -8,6 +8,7 @@ Contract deadline set for just before 12 a.m. Sunday, while 98% voted in favour 
 ### Source:
 
 1. [Globe and Mail](http://www.theglobeandmail.com/globe-investor/caw-members-vote-to-strike-at-london-ont-caterpillar-plant/article2287481/)
+1. [Cover Image](http://static.theglobeandmail.ca/ae6/incoming/article922071.ece/ALTERNATES/w620/web-Lewenza.jpg)
 
 ### Related:
 

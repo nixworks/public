@@ -8,6 +8,7 @@ Venezuela begins rationing electricity after blackouts on Monday affected nearly
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13356586)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52652000/jpg/_52652585_011734835-1.jpg)
 
 ### Related:
 

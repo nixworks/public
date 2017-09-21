@@ -9,6 +9,7 @@
 
 1. [ (''Daily Mail](http://www.dailymail.co.uk/news/article-2978760/India-bans-broadcast-gang-rapist-documentary.html)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/BBC-ignores-ban-telecasts-Nirbhaya-documentary-Indias-Daughter/articleshow/46464046.cms)
+2. [Cover Image](http://timesofindia.indiatimes.com/photo/46463750.cms)
 
 ### Related:
 

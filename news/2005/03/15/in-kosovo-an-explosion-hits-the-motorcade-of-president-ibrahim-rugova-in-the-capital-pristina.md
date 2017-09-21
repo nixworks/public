@@ -10,6 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4349777.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/europe/03/15/kosovo.rugova/)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7902023)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

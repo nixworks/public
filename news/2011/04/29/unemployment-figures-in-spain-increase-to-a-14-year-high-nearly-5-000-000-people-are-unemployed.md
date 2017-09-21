@@ -8,3 +8,4 @@ Unemployment in Spain, already the highest in the EU, rises to a 14-year high, w
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13237835)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -8,6 +8,7 @@ Terrorists struck Agartala for the first time as four people were killed and 76 
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/4_dead_76_hurt_as_serial_blasts_rip_Tripura/articleshow/3550593.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/3550882.cms)
 
 ### Related:
 

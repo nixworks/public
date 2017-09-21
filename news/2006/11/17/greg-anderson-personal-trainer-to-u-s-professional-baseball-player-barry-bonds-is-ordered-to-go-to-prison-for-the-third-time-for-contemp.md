@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/mlb/news/story?id=2664964)
+1. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fi%2Fheadshots%2Fmlb%2Fplayers%2Ffull%2F1785.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Ontario announced Thursday it will follow the U.S. lead and extend daylight time
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/story/2005/10/20/ontario_daylight051020.html)
+1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ In New Orleans, fans cheered the opening of the front gates as if the Saints had
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2006/09/26/sports/football/26saints.html)
+1. [Cover Image](https://static01.nyt.com/images/2006/09/25/sports/26saints.753.jpg)
 
 ### Related:
 

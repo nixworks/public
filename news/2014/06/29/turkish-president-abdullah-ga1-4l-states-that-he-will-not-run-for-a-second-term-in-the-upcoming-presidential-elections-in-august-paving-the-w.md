@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Hürriyet](http://www.hurriyetdailynews.com/president-gul-announces-he-will-not-run-for-second-term-in-august-elections.aspx?pageID=238&nID=68443&NewsCatID=338)
+1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201406/n_68443_1.jpg)
 
 ### Related:
 

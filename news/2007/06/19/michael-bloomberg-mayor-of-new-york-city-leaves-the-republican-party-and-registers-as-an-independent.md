@@ -8,6 +8,7 @@ Mayor Michael R. Bloomberg of New York, a former Democrat, is changing his affil
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/06/19/us/politics/19cnd-mayor.html?ex=1339905600&en=b443cfb06452fc6a&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/06/19/nyregion/19cnd-bloomberg3_75.jpg)
 
 ### Related:
 

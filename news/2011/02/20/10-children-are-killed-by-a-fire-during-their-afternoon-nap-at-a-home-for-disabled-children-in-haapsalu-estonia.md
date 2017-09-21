@@ -11,6 +11,7 @@ Ten children are killed by a fire at a home for disabled children in the western
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12519860)
 3. [CBS News](http://www.cbsnews.com/stories/2011/02/20/501364/main20034163.shtml)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/estonia-orphanage-fire-kills-10-children-20110221-1b19d.html)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

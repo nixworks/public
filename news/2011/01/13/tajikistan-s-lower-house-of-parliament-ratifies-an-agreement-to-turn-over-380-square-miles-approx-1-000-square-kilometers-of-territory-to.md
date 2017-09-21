@@ -10,6 +10,7 @@ China and Tajikistan say they have settled a century-old border dispute, after t
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12180567)
 2. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=203416)
 3. [Press TV](http://www.presstv.ir/detail/159939.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

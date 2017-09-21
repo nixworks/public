@@ -8,6 +8,7 @@ The UK recession has deepened, latest official figures show, after the output of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18977084)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61798000/jpg/_61798958_umbrella_getty.jpg)
 
 ### Related:
 

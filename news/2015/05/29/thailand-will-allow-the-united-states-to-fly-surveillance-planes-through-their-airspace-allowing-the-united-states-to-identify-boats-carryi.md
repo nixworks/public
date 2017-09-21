@@ -8,6 +8,7 @@ Thailand is to allow the US to fly surveillance planes through its airspace to h
 ### Source:
 
 1. [ITV](http://www.itv.com/news/update/2015-05-29/thailand-to-allow-us-to-identify-migrant-boats/)
+1. [Cover Image](http://www.itv.com/news/assets/branding/fb.png)
 
 ### Related:
 

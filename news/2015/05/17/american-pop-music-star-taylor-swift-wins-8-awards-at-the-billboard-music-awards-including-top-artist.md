@@ -8,6 +8,7 @@ Taylor Swift dominated last night&#039;s Billboard Music Awards in Las Vegas, wi
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/arts-entertainment/music/news/billboard-music-awards-2015-winners-list-in-full-taylor-swift-sam-smith-and-one-direction-sweep-board-in-las-vegas-10257503.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/05/18/10/onedirection-billboard.jpg)
 
 ### Related:
 

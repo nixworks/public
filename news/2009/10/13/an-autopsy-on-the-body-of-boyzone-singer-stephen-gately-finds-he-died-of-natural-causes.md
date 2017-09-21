@@ -12,6 +12,7 @@ Boyzone star Stephen Gately died of natural causes, a Spanish court confirmed th
 3. [Sofia Echo](http://www.sofiaecho.com/2009/10/13/798953_bulgarian-mystery-guest-describes-finding-gatelys-body)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1013/breaking2.html?via=mr)
 5. [The Times of India](http://timesofindia.indiatimes.com/entertainment/hollywood/news-interviews/Partner-blames-himself-for-Gatelys-death/articleshow/5119850.cms)
+5. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

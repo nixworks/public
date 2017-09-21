@@ -8,6 +8,7 @@ Battle of Öland. Claus Møinichen, 1686.Wikimedia Commons.Swedish divers have d
 ### Source:
 
 1. [Discovery](http://news.discovery.com/history/battle-of-%C3%B6land-111117.html#mkcpgn=rssnws1)
+1. [Cover Image](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5111890%2F980x.jpg/2000%2C2000/X5qq4h9gYhmHD3yM/img.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A device is made safe as Russian police investigating the metro bombing make fur
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39514694)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F012/production/_95485416_038858944-1.jpg)
 
 ### Related:
 

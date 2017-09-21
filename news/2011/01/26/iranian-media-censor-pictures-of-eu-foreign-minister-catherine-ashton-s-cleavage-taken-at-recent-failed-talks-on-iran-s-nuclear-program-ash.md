@@ -10,6 +10,7 @@ Iranian newspapers retouch a photograph of EU foreign policy chief Baroness Asht
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12289080)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-1350677/Iran-media-raise-Baroness-Ashtons-neckline-picture-nuclear-programme-talks.html)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4019611,00.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

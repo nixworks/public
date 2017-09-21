@@ -8,6 +8,7 @@ The only functioning power plant in the Palestinian territory is out of action a
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/gazas-only-power-station-shuts-down-over-fuel-shortage/a-38446555)
+1. [Cover Image](http://www.dw.com/image/17329768_304.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A storm system threw off tornadoes killed 1 and left a trail of destruction Thur
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-chicago-weather-20150409-story.html)
+1. [Cover Image](http://www.trbimg.com/img-55272573/turbine/chi-chicago-weather-20150409)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Regional African leaders sign a UN-brokered accord which aims to bring peace to 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21563949)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66043000/jpg/_66043403_64296596.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Detainees at an Australian asylum-seeker camp in Papua New Guinea won millions o
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/06/14/manus-island-detainees-win-42-million-payout-australia-degrading/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/06/14/TELEMMGLPICT000131875549-xlarge_trans_NvBQzQNjv4Bq1jEdJGp1DKo6SYFsq2yafyoIU1HcxRLJW5f7BU3bAQg.jpeg)
 
 ### Related:
 

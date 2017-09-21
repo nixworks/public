@@ -9,6 +9,7 @@ The Syrian opposition figure tasked with forming an interim government to admini
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23232189)
 2. [Ya Libnan](http://www.yalibnan.com/2013/07/08/syrias-rebel-interim-pm-ghassan-hitto-resigns/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68612000/jpg/_68612782_68612781.jpg)
 
 ### Related:
 

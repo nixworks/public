@@ -8,6 +8,7 @@ A court in Vietnam jails a prominent blogger for 15 months for anti-state activi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-26627304)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73671000/jpg/_73671552_73671551.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The head of MI5 had admitted he was attracted by &#034;the intrigue&#034; of I, 
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/culturenews/8039653/MI5-boss-attracted-by-intrigue-of-I-Claudius.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01717/JonathanEvans_1717977a.jpg)
 
 ### Related:
 

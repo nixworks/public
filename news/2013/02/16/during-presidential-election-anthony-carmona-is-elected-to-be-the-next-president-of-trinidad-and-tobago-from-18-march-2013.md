@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Trinidad Express](http://www.trinidadexpress.com/news/Its-Official---President-elect-Anthony-TA-Carmona-191427491.html)
+1. [Cover Image](http://www.trinidadexpress.comhttp://www.trinidadexpress.com/storyimage/TT/20130215/ARTICLE/302159973/AR/0/AR-302159973.jpg&MaxW=400)
 
 ### Related:
 

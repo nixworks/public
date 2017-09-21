@@ -14,3 +14,4 @@ The Vatican is to launch an investigation in the autumn into clerical child sex 
 5. [Reuters](http://www.reuters.com/article/idUSTRE64U2BW20100531)
 6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0531/breaking40.html)
 7. [The Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5haw31hXg5pJtUxyNf0Pn0aHf1r_A)
+7. [Cover Image](https://img.rasset.ie/00030537-1600.jpg)

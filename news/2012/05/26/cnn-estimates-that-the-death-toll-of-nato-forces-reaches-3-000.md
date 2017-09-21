@@ -9,6 +9,7 @@ A sombre milestone has been reached in the Afghanistan war after an American sai
 
 1. [Reuters](http://www.reuters.com/article/2012/05/26/us-afghanistan-us-idUSBRE84P03F20120526?feedType=RSS&feedName=topNews)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9291782/Forces-death-toll-reaches-3000-in-Afghanistan-war.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02230/knappCoffin_2230847k.jpg)
 
 ### Related:
 

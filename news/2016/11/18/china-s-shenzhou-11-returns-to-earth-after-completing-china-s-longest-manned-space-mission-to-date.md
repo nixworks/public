@@ -8,6 +8,7 @@ China&#x27;s Shenzhou 11 space capsule landed safely in the northern region of I
 ### Source:
 
 1. [Reuters via Yahoo!](https://www.yahoo.com/news/chinas-shenzhou-11-manned-space-capsule-returns-earth-062805959.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

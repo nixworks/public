@@ -8,6 +8,7 @@ The search for four miners trapped underground in a flooded Swansea Valley colli
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-14955526)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55418000/jpg/_55418268_012928058-1.jpg)
 
 ### Related:
 

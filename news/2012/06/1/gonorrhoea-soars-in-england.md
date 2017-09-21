@@ -8,6 +8,7 @@ The number of newly diagnosed cases of gonorrhoea in England soared by 25% in 20
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-18258775)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60584000/jpg/_60584311_m8600323-condoms.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Sierra Leone has declared a state of emergency and called in troops to quarantin
 
 1. [Reuters](http://uk.reuters.com/article/2014/08/01/uk-health-ebola-leone-idUKKBN0G00PW20140801)
 2. [The Guardian](http://www.theguardian.com/society/2014/jul/31/ebola-outbreak-state-of-emergency-liberia-sierra-leone)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140731&t=2&i=952873473&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6U09V)
 
 ### Related:
 

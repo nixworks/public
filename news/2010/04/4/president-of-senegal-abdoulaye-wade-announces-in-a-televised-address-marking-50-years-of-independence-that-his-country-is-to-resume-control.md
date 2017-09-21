@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104420421951266.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8602409.stm)
 3. [euronews](http://www.euronews.net/2010/04/05/senegal-reclaims-french-bases/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

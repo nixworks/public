@@ -11,6 +11,7 @@ Angry migrants set fire to a camp on the Greek island of Lesbos on Thursday afte
 2. [FOX News](http://www.foxnews.com/world/2016/11/25/bulgaria-pm-migrants-held-in-camp-clashes-will-be-deported.html)
 3. [The Guardian](https://www.theguardian.com/world/2016/nov/25/fire-breaks-out-at-lesvos-migrant-camp-moria)
 4. [The Telegraph](http://www.telegraph.co.uk/news/2016/11/25/two-dead-two-injured-fire-breaks-greek-migrant-camp)
+4. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/11/25/JS112634670_REUTERS_Refugees-and-migrants-line-up-for-food-distribution-at-the-Moria-migrant-camp-on-xlarge_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RTgjU7QtstFrD21mzXAYo54.jpg)
 
 ### Related:
 

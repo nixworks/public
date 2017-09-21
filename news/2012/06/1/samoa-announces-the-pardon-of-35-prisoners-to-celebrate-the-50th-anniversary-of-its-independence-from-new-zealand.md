@@ -8,6 +8,7 @@ The Pacific island nation of Samoa is to pardon 35 prisoners to mark the 50th an
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18291812)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60632000/gif/_60632145_samoa_nz_june2012.gif)
 
 ### Related:
 

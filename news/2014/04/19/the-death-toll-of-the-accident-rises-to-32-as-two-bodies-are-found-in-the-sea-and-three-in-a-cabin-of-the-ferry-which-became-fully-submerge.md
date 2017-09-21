@@ -9,3 +9,4 @@
 
 1. [ (Yonhap](http://english.yonhapnews.co.kr/national/2014/04/19/99/0302000000AEN20140419002351320F.html)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2014/04/19/56/0302000000AEN20140419001254315F.html)
+2. [Cover Image](http://img.yonhapnews.co.kr/etc/inner/EN/2014/04/19/AEN20140419001254315_02_i.jpg)

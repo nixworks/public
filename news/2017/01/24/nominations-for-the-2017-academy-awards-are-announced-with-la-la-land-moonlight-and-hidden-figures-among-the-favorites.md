@@ -8,6 +8,7 @@ Update on &apos;The 2017 Academy Award nominations: &apos;La La Land&apos; ties 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/la-et-oscar-nominations-2017-live-watch-the-oscar-nominations-1485237557-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-58877637/turbine/la-et-oscar-nominations-2017-live-watch-the-oscar-nominations-1485237557)
 
 ### Related:
 

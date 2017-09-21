@@ -9,6 +9,7 @@ French police end a hostage siege at a nursery school after a youth armed with t
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11981781)
 2. [France 24](http://www.france24.com/en/20101213-france-nursery-school-hostages-children-teenager-besancon)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

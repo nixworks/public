@@ -8,6 +8,7 @@ President Obama has extended for another year U.S. sanctions imposed on Russia o
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/obama-extends-sanctions-russia-ukraine-crisis/story?id=37362950)
+1. [Cover Image](http://a.abcnews.com/images/International/GTY_obama_mm_160303_16x9_992.jpg)
 
 ### Related:
 

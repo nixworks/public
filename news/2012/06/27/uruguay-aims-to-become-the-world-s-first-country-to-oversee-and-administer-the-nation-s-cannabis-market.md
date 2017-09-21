@@ -8,6 +8,7 @@ Uruguay&#39;s government unveiled a proposal to legalize and monitor the marijua
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/47910997/ns/world_news-americas/#.T-sz00vUx24)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Normal life came to a grinding halt in all the 13 districts of Seemandhra with p
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Its-total-shutdown-in-Seemandhra/articleshow/23557176.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/23557284.cms)
 
 ### Related:
 

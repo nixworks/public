@@ -8,6 +8,7 @@ An increase in forward speed is expected through Thursday
 ### Source:
 
 1. [National Hurricane Centre via NOLA](http://www.nola.com/hurricane/index.ssf/2011/09/tropical_storm_maria_could_bec.html)
+1. [Cover Image](http://image.nola.com/home/nola-media/width620/img/hurricane_impact/photo/10001615-standard.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ After 33 years as the Netherlands&#039; head of state, Queen Beatrix will formal
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/netherlands/10025728/Willem-Alexander-to-become-Europes-youngest-king-as-Prince-Charles-watches-on.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02549/dutch-royals_2549741k.jpg)
 
 ### Related:
 

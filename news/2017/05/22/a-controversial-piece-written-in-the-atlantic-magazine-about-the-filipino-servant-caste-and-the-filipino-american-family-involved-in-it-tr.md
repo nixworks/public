@@ -8,6 +8,7 @@ Lola and the universality of women’s exploitation
 ### Source:
 
 1. [The Atlantic](https://www.theatlantic.com/business/archive/2017/05/mother-wife-slave/527610/)
+1. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2017/05/AP_100818064402-1/facebook.jpg?1495467228)
 
 ### Related:
 

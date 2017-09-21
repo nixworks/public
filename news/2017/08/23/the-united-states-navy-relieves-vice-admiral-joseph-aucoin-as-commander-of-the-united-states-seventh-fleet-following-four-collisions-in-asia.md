@@ -9,6 +9,7 @@ Divers found the remains of missing sailors in a search of the Navy destroyer Jo
 
 1. [New York Times](https://www.nytimes.com/2017/08/22/world/asia/us-navy-ship-collision-uss-mccain-search-sailors.html?emc=edit_na_20170822&nl=breaking-news&nlid=66213151&ref=cta)
 2. [Wall Street Journal](https://www.wsj.com/articles/u-s-navy-to-relieve-admiral-of-command-after-collisions-1503448987)
+2. [Cover Image](https://static01.nyt.com/images/2017/08/24/world/23mccain-4/23mccain-4-facebookJumbo.jpg)
 
 ### Related:
 

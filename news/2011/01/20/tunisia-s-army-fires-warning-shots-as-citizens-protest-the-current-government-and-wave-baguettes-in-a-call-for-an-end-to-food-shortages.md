@@ -11,3 +11,4 @@ Resignations an attempt to regain credibility in the cabinet but it is unclear i
 2. [Africa Review](http://www.africareview.com/News/-/979180/1093020/-/i69y3dz/-/)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-12238728)
 4. [UPI](http://www.upi.com/Top_News/World-News/2011/01/20/8-Tunisian-leaders-quit-ruling-party/UPI-57211295546906/)
+4. [Cover Image](http://www.africareview.com/image/view/-/1093026/medRes/231089/-/wb9qb7/-/cabinet.jpg)

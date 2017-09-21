@@ -9,6 +9,7 @@
 
 1. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110428/ap_on_re_as/as_thailand_cambodia_clash;_ylt=An000KYnaqUNEL_yTkGVHxIBxg8F;_ylu=X3oDMTMxMjlsZm5sBGFzc2V0A2FwLzIwMTEwNDI4L2FzX3RoYWlsYW5kX2NhbWJvZGlhX2NsYXNoBHBvcwMxNARzZWMDeW5fcGFnaW5hdGVfc3VtbWFyeV9saXN0BHNsawN0aGFpY2FtYm9kaWE-/)
 2. [Reuters](http://www.reuters.com/article/2011/04/28/us-thailand-cambodia-clash-idUSTRE73R0RO20110428?feedType=RSS&feedName=worldNews)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110428&t=2&i=398928371&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-28T054535Z_01_BTRE73R0G0300_RTROPTP_0_THAILAND-CAMBODIA-CLASH)
 
 ### Related:
 

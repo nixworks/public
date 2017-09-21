@@ -9,6 +9,7 @@ The Duke of Edinburgh misses the Diamond Jubilee concert after being taken to ho
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18326093)
 2. [BBC](http://www.bbc.co.uk/news/uk-18325522)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60693000/jpg/_60693965_014932223-1.jpg)
 
 ### Related:
 

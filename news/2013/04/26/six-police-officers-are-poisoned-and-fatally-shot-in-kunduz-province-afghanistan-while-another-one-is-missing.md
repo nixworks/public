@@ -8,6 +8,7 @@ KUNDUZ, Afghanistan -- Six village police officers were poisoned and then shot t
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-afghan-police-poison-20130426,0,6113256.story)
+1. [Cover Image](http://www.trbimg.com/img-517a8564/turbine/la-fg-wn-afghan-police-poison-20130426-001/600/600x367)
 
 ### Related:
 

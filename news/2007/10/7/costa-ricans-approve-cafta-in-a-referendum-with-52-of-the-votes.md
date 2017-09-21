@@ -8,6 +8,7 @@ Costa Ricans on Sunday appeared to narrowly vote in favor of joining the Central
 ### Source:
 
 1. [AP via Google News](http://www.newsvine.com/_news/2007/10/08/1009570-costa-rica-leader-trade-pact-passes)
+1. [Cover Image](https://secure.newsvine.com/_vine/images/ap/original/ce8cba9d-0551-46ba-b321-9b9623c04ac7.jpg)
 
 ### Related:
 

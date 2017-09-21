@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11971851)
 2. [China Daily](http://www.chinadaily.com.cn/world/2010-12/11/content_11685907.htm)
 3. [RIA Novosti](http://en.rian.ru/russia/20101210/161719524.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

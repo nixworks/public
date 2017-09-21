@@ -8,6 +8,7 @@ A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre 
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Judge-enters-plea-for-shooting-suspect-20130312)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2233/e8dff6c734344cd8a138bccbb90011f9.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Francis Bacon painting of a man and his reflection brought in $44.9m at Sotheb
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2012/0510/francis-bacon-painting-sells-for-44-9m.html)
+1. [Cover Image](https://img.rasset.ie/0005df9b-1600.jpg)
 
 ### Related:
 

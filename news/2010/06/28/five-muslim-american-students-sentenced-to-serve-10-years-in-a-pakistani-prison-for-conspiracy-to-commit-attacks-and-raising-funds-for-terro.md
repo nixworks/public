@@ -10,6 +10,7 @@ Five American men sentenced last week to serve 10 years in a Pakistani prison on
 1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/06/28/pakistan.dc.five/)
 2. [Reuters](http://www.reuters.com/article/idUSTRE65R2GD20100628?type=domesticNews)
 3. [Voice of America](http://www1.voanews.com/english/news/human-rights/Americans-Appeal-Pakistan-Terror-Convictions-97307379.html)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Samarco and its owners Vale SA and BHP Billiton sued for 155bn real ($43.5bn), a
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/2016/may/03/brazil-iron-mine-samarco-fined-disaster?CMP=twt_gu)
+1. [Cover Image](https://i.guim.co.uk/img/media/70c3d07ca8875930903b595bf41a4c6c51119bd1/0_0_4000_2400/4000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=aab86e09c1fda0dbb17e61e6a1a5f490)
 
 ### Related:
 

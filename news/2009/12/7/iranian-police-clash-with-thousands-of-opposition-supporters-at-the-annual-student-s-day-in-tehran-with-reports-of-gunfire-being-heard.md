@@ -11,6 +11,7 @@ Riot police fire tear gas at opposition supporters in central Tehran, witnesses 
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8398615.stm)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=113083&sectionid=351020101)
 4. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Protests-in-Iran-against-Ahmadinejad-police-fire-tear-gas/articleshow/5310725.cms)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ CAIRO: The Cairo Criminal Court sentenced Mubarak-era Prime Minister Ahmed Nazif
 ### Source:
 
 1. [Cairo Post](http://www.thecairopost.com/news/160610/news/egypt-mubarak-era-pm-sentenced-to-5-years-for-graft-charges)
+1. [Cover Image](http://thecairopost.youm7.com/wp-content/uploads/2015/07/ewqewqewqewqqwewqewq.jpg)
 
 ### Related:
 

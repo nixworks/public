@@ -8,6 +8,7 @@ SEOUL: After weeks of silence North Korea has denied involvement in the mysterio
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/north-korea-denies-sinking-20100418-smny.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/9/c/b/5/image.related.thumbnail.320x214.smny.png/1271610001000.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Turkish police fire tear gas at thousands of protesters in town of Soma where so
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27445867)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74916000/jpg/_74916989_022287358-1.jpg)
 
 ### Related:
 

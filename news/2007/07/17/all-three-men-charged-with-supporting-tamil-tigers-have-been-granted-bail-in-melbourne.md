@@ -8,6 +8,7 @@ All three men charged with supporting Sri Lanka&#039;s Tamil Tigers rebel group 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/07/17/1980708.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

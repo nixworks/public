@@ -17,6 +17,7 @@ Thousands of protesters force Republican presidential candidate Donald Trump to 
 8. [The Christian Science Monitor](http://www.csmonitor.com/USA/Politics/Decoder/2016/0311/Has-Donald-Trump-brought-new-whiff-of-violence-to-US-politics)
 9. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/03/10/trump-protester-sucker-punched-at-north-carolina-rally-videos-show/)
 10. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/03/11/in-anti-trump-move-rubio-frees-up-ohio-supporters-to-vote-for-kasich/?wpmm=1&wpisrc=nl_evening)
+10. [Cover Image](http://www.abc.net.au/news/image/7242148-1x1-700x700.jpg)
 
 ### Related:
 

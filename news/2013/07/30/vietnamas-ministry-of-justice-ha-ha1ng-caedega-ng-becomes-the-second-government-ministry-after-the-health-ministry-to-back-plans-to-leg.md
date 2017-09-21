@@ -8,6 +8,7 @@ Vietnam’s Ministry of Justice has followed on the heels of the country’s Min
 ### Source:
 
 1. [Gaystarnews](http://www.gaystarnews.com/article/second-vietnamese-government-ministry-backs-marriage-rights-lgbts300713)
+1. [Cover Image](http://www.gaystarnews.com/wp-content/uploads/Ha_Hung_Cuong.jpg)
 
 ### Related:
 

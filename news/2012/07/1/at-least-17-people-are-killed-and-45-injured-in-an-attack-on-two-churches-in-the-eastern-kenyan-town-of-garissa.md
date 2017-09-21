@@ -9,6 +9,7 @@ Fifteen people are killed in attacks on two churches in Garissa, a Kenyan town c
 
 1. [BBC](http://www.bbc.co.uk/news/world-18662975)
 2. [MSNBC](http://worldnews.msnbc.msn.com/_news/2012/07/01/12506909-masked-goons-kill-at-least-17-in-attacks-on-churches-in-kenya?lite)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61286000/jpg/_61286823_015218398-2.jpg)
 
 ### Related:
 

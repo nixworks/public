@@ -8,6 +8,7 @@ Former tycoon Asil Nadir is found guilty of three counts of stealing millions fr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19323202)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62386000/jpg/_62386964_015751903-1.jpg)
 
 ### Related:
 

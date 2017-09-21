@@ -10,6 +10,7 @@ A magnitude 7.2 earthquake has hit Tajikistan, according to the US Geological Su
 1. [AP](http://bigstory.ap.org/article/1dea2d809ca545339710dbe309aca5cc/powerful-earthquake-shakes-tajikistan)
 2. [The Independent](http://www.independent.co.uk/news/world/asia/tajikistan-earthquake-magnitude-72-earthquake-felt-as-far-away-as-india-pakistan-and-afghanistan-a6762976.html)
 3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us100044k6#general_summary)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/12/07/08/Tajikistan-earthquake.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/business-14038529)
 2. [The Guardian](http://www.guardian.co.uk/business/2011/jul/05/germany-greek-bailout-legal-challenge-constitutional-court)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53883000/jpg/_53883762_012063942-1.jpg)
 
 ### Related:
 

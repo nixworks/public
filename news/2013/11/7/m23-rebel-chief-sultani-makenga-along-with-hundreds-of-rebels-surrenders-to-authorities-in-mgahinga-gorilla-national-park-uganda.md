@@ -8,6 +8,7 @@ The commander of the M23 rebel group in the eastern Democratic Republic of Congo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24849814)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70966000/jpg/_70966986_019225050.jpg)
 
 ### Related:
 

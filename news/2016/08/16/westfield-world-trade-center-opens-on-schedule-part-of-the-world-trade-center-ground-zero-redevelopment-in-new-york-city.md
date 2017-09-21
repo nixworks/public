@@ -8,6 +8,7 @@ More than 100 stores will eventually occupy 365,000 square feet of retail space 
 ### Source:
 
 1. [CBS NY](http://newyork.cbslocal.com/2016/08/16/westfield-world-trade-center-mall/)
+1. [Cover Image](https://cbsnewyork.files.wordpress.com/2016/08/gettyimages-514177404.jpg?w=1500)
 
 ### Related:
 

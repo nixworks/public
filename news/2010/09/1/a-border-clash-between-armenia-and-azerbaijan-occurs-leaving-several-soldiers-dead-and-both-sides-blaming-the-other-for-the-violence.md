@@ -9,6 +9,7 @@ Clashes between the forces of Azerbaijan and Armenian-backed Nagorno-Karabakh le
 
 1. [Aysor](http://www.aysor.am/en/news/2010/09/01/pn-comment/)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11150688)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

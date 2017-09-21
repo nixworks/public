@@ -8,6 +8,7 @@ The Boy Scouts of America must reverse its longstanding policy of excluding gay 
 ### Source:
 
 1. [Yahoo News](http://news.yahoo.com/boy-scouts-leadership-asked-to-end-ban-on-gay-adult-leaders-163750804.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/k7jaqy9OWZPPmuH965V0Og--/aD0zNjA7dz02NDA7c209MTthcHBpZD15dGFjaHlvbg--/http://d.yimg.com/hd/yahooacquiredvideo/lotus/eb5f37c7-aa18-410d-a619-0697f04130c0_ZWOH8cYlD8CL_NGN1CwFDyyz1wpBptFK6x9NJEF14gllk4d1fSSBbI4cEmPUmaTmVdiHVLiz8jY-_2_0.jpg?s=88f6f6733096c9b42120f54679ed12de&amp;c=9283c0c930b158b6a883f9d52bdb85fc&amp;a=yahooacquiredvideo&amp;mr=0)
 
 ### Related:
 

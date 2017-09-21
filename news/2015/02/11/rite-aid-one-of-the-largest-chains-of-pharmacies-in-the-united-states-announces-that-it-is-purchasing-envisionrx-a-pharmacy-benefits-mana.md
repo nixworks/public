@@ -8,6 +8,7 @@ Drugstore operator Rite Aid Corp (RAD.N) agreed to buy pharmacy benefit manager 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/11/us-riteaid-m-a-envisionrx-idUSKBN0LF17Y20150211)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150211&t=2&i=1024184721&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1A0FY)
 
 ### Related:
 

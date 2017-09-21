@@ -8,6 +8,7 @@ Congress on Friday approved a bill that would allow the victims of 9/11 to sue t
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2016/09/09/congress-passes-bill-letting-911-victims-sue-saudi-arabia-in-face-veto-threat.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/09/0/0/694940094001_5119056995001_11ecc7b6-e915-4e10-9630-787bc261083b.jpg?ve=1)
 
 ### Related:
 

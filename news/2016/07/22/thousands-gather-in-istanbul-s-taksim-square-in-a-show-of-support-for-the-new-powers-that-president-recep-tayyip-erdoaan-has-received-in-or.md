@@ -8,6 +8,7 @@ Thousands gathered in Istanbul&#39;s Taksim square late on Thursday in a show of
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/22/thousands-rally-in-support-of-turkeys-president-erdogan/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/t/o/tob212nde6z2ghx8l6-orxjtcqpmiswc-xlarge.jpg)
 
 ### Related:
 

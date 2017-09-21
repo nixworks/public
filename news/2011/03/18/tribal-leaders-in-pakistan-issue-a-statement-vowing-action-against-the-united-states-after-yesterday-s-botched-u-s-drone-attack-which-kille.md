@@ -8,6 +8,7 @@ Tribal leaders in the Pakistani region of North Waziristan vow revenge against t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12784675)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606885_331dc631-6340-4cda-ae6e-bda544b28681.jpg)
 
 ### Related:
 

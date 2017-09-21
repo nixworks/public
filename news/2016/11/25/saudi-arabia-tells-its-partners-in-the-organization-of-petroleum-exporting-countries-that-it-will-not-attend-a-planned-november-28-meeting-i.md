@@ -8,6 +8,7 @@ Top OPEC oil exporter Saudi Arabia has told the producer group it will not atten
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-opec-saudi-idUSKBN13K1IU)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161125&t=2&i=1163049683&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAO0XZ)
 
 ### Related:
 

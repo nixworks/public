@@ -9,6 +9,7 @@ Five teenagers die at a party in a southern Florida motel room in what officials
 
 1. [Associated Press via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jnvIA9yUFr-Na0YaImatIS0Jxjcw)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-12087305)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

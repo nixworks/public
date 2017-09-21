@@ -8,6 +8,7 @@ At least 16 soldiers are killed in clashes with rebels in the northern Syrian pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18568206)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61103000/jpg/_61103518_015109982-1.jpg)
 
 ### Related:
 

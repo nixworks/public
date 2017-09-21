@@ -8,6 +8,7 @@ Afghanistan will release scores of Taliban fighters from jails, despite American
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2014-01-10/afghanistan-to-release-scores-of-taliban-fighters/5193212)
+1. [Cover Image](http://www.abc.net.au/news/image/4764066-1x1-700x700.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/09/02/AR2010090200975.html)
 2. [Bloomberg](http://www.bloomberg.com/news/2010-09-02/hurricane-earl-gains-strength-as-it-moves-closer-to-u-s-eastern-seaboard.html)
 3. [Reuters](http://www.reuters.com/article/idUSTRE67S0HT20100902?feedType=nl&feedName=usmorningdigest)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100902&t=2&i=195590731&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-02T233114Z_01_BTRE6811TC400_RTROPTP_0_WEATHER-STORM-EARL)
 
 ### Related:
 

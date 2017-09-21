@@ -10,6 +10,7 @@ An Australian hospital says it has performed the southern hemisphere&#39;s first
 1. [AAP via ''Herald-Sun](http://www.heraldsun.com.au/news/national/sydney-man-gets-first-heart-transplant-at-st-vincents-hospital/story-e6frf7l6-1225905908289)
 2. [International Business Times](http://au.ibtimes.com/contents/20100816/surgeons-complete-australiafirst-artificial-heart-transplant.htm)
 3. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2010/08/16/f29aaa312cbe)
+3. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

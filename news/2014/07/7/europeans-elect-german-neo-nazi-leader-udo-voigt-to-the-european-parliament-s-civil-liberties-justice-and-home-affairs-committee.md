@@ -8,3 +8,4 @@ Jews worldwide express indignation at appointment of German Neo-Nazi Udo Voigt t
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Jewish-World/Jewish-News/Jews-blast-inclusion-of-Neo-Nazi-on-EU-Civil-Liberties-ctee-361992)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=248295)

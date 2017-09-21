@@ -8,6 +8,7 @@ Five more soldiers were killed in skirmishes between Azeri government forces and
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/08/02/uk-armenia-azerbaijan-conflict-idUKKBN0G20EP20140802)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

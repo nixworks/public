@@ -9,6 +9,7 @@ The Russian military has launched airstrikes against the Islamic State stronghol
 
 1. [RT](https://www.rt.com/news/322413-russia-missiles-raqqa-mediterranean/)
 2. [The Independent](http://www.independent.co.uk/news/world/middle-east/russia-launches-cruise-missiles-at-isis-stronghold-of-raqqa-in-syria-a6737631.html)
+2. [Cover Image](https://img.rt.com/files/2015.11/article/564b1a16c4618807148b45bd.jpg)
 
 ### Related:
 

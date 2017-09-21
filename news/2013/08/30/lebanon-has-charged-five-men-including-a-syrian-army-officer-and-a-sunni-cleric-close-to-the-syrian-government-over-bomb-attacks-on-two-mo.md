@@ -8,6 +8,7 @@ Two clerics and a Syrian army officer among those accused of plotting deadly att
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/201383014380564803.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/23/2013823201017404734_20.jpg)
 
 ### Related:
 

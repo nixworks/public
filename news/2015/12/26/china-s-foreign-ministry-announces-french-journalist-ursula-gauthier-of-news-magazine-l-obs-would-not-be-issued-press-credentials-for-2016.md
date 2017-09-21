@@ -9,6 +9,7 @@ China is &#039;expelling&#039; a French journalist for writing article critical 
 
 1. [ABC Australia](http://www.abc.net.au/news/2015-12-27/french-journalist-at-l'obs-to-be-forced-to-leave-china/7055198)
 2. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2015/12/26/china-expels-french-journalist-for-terrorism-coverage/?wpmm=1&wpisrc=nl_headlines)
+2. [Cover Image](http://www.abc.net.au/news/image/7055200-1x1-700x700.jpg)
 
 ### Related:
 

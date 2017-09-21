@@ -10,6 +10,7 @@ Gathering in Washington called attempt to inject humour and tone down partisan d
 1. [Al Jazeera](http://english.aljazeera.net/video/americas/2010/10/20101030152030884959.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE69T1IX20101030)
 3. [Toronto Sun](http://www.torontosun.com/news/world/2010/10/30/15890551.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/30/20101030152516815633_20.jpg)
 
 ### Related:
 

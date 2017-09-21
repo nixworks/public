@@ -8,6 +8,7 @@ The former police chief of the Mexican city where 43 students disappeared in Sep
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37735267)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/03FE/production/_92022010_21486e1c-7cbe-43e1-b4bc-1012071c8960.jpg)
 
 ### Related:
 

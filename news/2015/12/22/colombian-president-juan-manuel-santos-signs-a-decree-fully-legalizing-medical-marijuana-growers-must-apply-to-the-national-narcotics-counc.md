@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35165169)
 2. [VICE News](https://news.vice.com/article/colombias-president-signs-a-decree-legalizing-medical-weed)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5C8E/production/_87349632_87349631.jpg)
 
 ### Related:
 

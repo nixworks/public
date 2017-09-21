@@ -8,6 +8,7 @@ The Norwegian Academy of Science and Letters has chosen one of the living legend
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/sci-tech/science/article1565424.ece)
+1. [Cover Image](http://www.thehindu.com/migration_catalog/article14922713.ece/ALTERNATES/LANDSCAPE_615/John_Milnor.jpg)
 
 ### Related:
 

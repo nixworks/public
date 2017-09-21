@@ -8,6 +8,7 @@ R&eacute;jean Hinse, a Quebecer who was wrongfully imprisoned in the 1960s befor
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/story/2011/04/14/scoc-wrongful-conviction-compensation.html?ref=rss)
+1. [Cover Image](https://i.cbc.ca/1.2019095.1381644254!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-scoc-852-cp-00430222.jpg)
 
 ### Related:
 

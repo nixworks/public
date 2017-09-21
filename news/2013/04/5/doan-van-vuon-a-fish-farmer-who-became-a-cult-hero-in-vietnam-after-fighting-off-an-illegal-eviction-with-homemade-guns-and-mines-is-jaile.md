@@ -8,6 +8,7 @@ A fish farmer who became a cult hero in Vietnam after fighting off an illegal ev
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/05/us-vietnam-eviction-idUSBRE9340BK20130405)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130405&t=2&i=719445728&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9340VVH00)
 
 ### Related:
 

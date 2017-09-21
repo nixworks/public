@@ -8,6 +8,7 @@ The mission overtakes the previous record of 37 satellites launched by Russia in
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-38977803)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/70E9/production/_94650982_mediaitem94650980.jpg)
 
 ### Related:
 

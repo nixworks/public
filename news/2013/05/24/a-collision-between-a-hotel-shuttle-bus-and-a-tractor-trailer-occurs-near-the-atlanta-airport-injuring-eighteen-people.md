@@ -8,3 +8,4 @@ Authorities say 18 people have been taken to the hospital following a crash betw
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/18-hurt-in-US-shuttle-bus-crash-20130524)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2122/15b87cf87ea642a3b2ce589acf3bb107.jpg)

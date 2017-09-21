@@ -8,6 +8,7 @@ Lara Giddings has been sworn in as Tasmania&#039;s first female premier after be
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/24/3119679.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/1915204-1x1-700x700.jpg)
 
 ### Related:
 

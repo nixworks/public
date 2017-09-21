@@ -8,6 +8,7 @@ French airline Air France announces it is to cut more than 5,000 jobs by the end
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18532668)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61044000/jpg/_61044397_015036143-1.jpg)
 
 ### Related:
 

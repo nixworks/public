@@ -8,6 +8,7 @@ Up to &euro;7 million may have been stolen from a Dublin bank following a so-cal
 ### Source:
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0227/breaking27.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

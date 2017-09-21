@@ -15,3 +15,4 @@ More planes began taking off from airports across Europe on Tuesday after days o
 6. [Irish Independent](http://www.independent.ie/national-news/latest-travel-update-dublin-airport-to-remain-closed-until-7pm-2143984.html)
 7. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-volcano-travel-20100421,0,6446806.story)
 8. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100420-709555.html?mod=WSJ_latestheadlines)
+8. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

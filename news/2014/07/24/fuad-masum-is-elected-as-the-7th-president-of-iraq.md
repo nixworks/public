@@ -9,6 +9,7 @@ Vote comes as violence continues to tear country apart
 
 1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-28466079)
 2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/veteran-kurdish-politician-elected-president-of-iraq/2014/07/24/28448523-487b-4091-a4f1-fb7eefb87899_story.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76492000/jpg/_76492131_76492130.jpg)
 
 ### Related:
 

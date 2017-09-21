@@ -9,6 +9,7 @@ A Pentagon spokesman says the US is &quot;reasonably certain&quot; that a drone 
 
 1. [BBC](http://www.bbc.com/news/uk-34805924)
 2. [Reuters](http://www.reuters.com/article/2015/11/13/us-mideast-crisis-syria-islamic-state-idUSKCN0T20RT20151113#yuridKTMIVTMzyTj.97)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/113E2/production/_86662607_026072409-1.jpg)
 
 ### Related:
 

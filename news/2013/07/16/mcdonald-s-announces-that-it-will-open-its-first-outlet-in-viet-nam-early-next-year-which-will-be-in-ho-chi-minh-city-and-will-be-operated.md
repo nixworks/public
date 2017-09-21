@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Marketwatch](http://www.marketwatch.com/story/mcdonalds-to-open-first-restaurant-in-vietnam-2013-07-16?siteid=yhoof2)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -8,3 +8,4 @@
 ### Source:
 
 1. [The Standard](https://www.standardmedia.co.ke/article/2001237570/27-people-die-in-fatal-accident-along-mombasa-nairobi-highway)
+1. [Cover Image](http://www.standardmedia.co.ke/images/tuesday/27_people_die_in_fat58fee0fc5a7a5.jpg)

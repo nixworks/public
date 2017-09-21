@@ -8,6 +8,7 @@ A solar eclipse sweeps across the vast Indonesian archipelago, with sky gazers t
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-03-09/total-solar-eclipse-attracts-hordes-of-sky-gazers/7232406)
+1. [Cover Image](http://www.abc.net.au/news/image/7232890-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Overheated power lines continue to cause train delays and cancellations between 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-13926651)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53709000/jpg/_53709927_lines.jpg)
 
 ### Related:
 

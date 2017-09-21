@@ -12,6 +12,7 @@ Exchanges of fire continue at a luxury hotel in Burkina Faso as special forces s
 3. [AP via the ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3401837/Gunfire-explosions-near-hotel-Burkina-Fasos-capital.html#ixzz3xMqvdvTI)
 4. [BBC](http://www.bbc.com/news/world-africa-35330169)
 5. [CNN](http://edition.cnn.com/2016/01/16/africa/burkina-faso-hotel-terrorist-attack/index.html)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3A4C/production/_87742941_87742816.jpg)
 
 ### Related:
 

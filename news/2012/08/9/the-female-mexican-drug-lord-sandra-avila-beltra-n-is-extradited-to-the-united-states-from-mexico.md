@@ -8,6 +8,7 @@ Sandra Ávila Beltrán, the first woman to be charged as the leader of an intern
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/08/10/world/americas/mexico-drug-suspect-extradited-to-us.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

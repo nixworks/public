@@ -12,6 +12,7 @@ A series of explosions at an arms depot in Venezuela leaves one person dead and 
 3. [Press TV](http://www.presstv.ir/detail/162773.html)
 4. [The Voice of Russia](http://english.ruvr.ru/2011/01/30/42002394.html)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/30/c_13713952.htm)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

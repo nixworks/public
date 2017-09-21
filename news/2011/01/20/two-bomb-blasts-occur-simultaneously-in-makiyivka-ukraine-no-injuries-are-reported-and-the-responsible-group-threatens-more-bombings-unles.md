@@ -8,6 +8,7 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 ### Source:
 
 1. [The Sofia Echo](http://www.sofiaecho.com/2011/01/20/1028271_two-bomb-blasts-rip-through-eastern-ukraine)
+1. [Cover Image](http://www.capital.bg/i/quarterly_share.jpg)
 
 ### Related:
 

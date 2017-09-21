@@ -9,6 +9,7 @@
 
 1. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-43471220091027)
 2. [VOA](http://www.voanews.com/english/2009-10-27-voa25.cfm)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

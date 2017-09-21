@@ -8,6 +8,7 @@ After weeks of rumors and anticipation, ABC will finally air &quot;Bruce Jenner:
 ### Source:
 
 1. [CNN](http://money.cnn.com/2015/04/24/media/bruce-jenner-interview-diane-sawyer/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/150422110258-bruce-jenner-the-interview-780x439.png)
 
 ### Related:
 

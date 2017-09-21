@@ -9,6 +9,7 @@ The United States and China are to resume military contacts after a hiatus of mo
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11437758)
 2. [Business Week](http://www.businessweek.com/news/2010-09-29/china-u-s-turn-to-maritime-agenda-as-military-talks-resume.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

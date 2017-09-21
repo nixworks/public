@@ -8,6 +8,7 @@ A car bomb explosion near a hospital in the Libyan city of Benghazi kills and in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22509303)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67577000/jpg/_67577442_67577441.jpg)
 
 ### Related:
 

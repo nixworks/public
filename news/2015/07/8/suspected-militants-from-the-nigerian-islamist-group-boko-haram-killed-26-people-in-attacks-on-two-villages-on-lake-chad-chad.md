@@ -8,6 +8,7 @@ Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people
 ### Source:
 
 1. [Daily Star via Reuters](https://www.dailystar.com.lb/News/World/2015/Jul-08/305740-suspected-boko-haram-militants-kill-26-people-in-attacks-in-chad.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/07/08/427824_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

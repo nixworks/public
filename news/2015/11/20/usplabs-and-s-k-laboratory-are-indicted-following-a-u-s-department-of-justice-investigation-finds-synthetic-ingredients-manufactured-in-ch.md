@@ -8,6 +8,7 @@ The makers of dietary supplements Jack3d and OxyElite Pro face criminal charges 
 ### Source:
 
 1. [Military Times](http://www.militarytimes.com/story/military/2015/11/19/jack3d-oxyelite-pro-manufacturers-face-criminal-charges/76043058/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/0d/0a/3483a6404b549c629cbbac15aff7/635835329039217141-ap-696409531731jpg)
 
 ### Related:
 

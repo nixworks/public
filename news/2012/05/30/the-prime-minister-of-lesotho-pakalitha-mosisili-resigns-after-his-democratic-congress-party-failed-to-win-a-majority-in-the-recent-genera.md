@@ -8,6 +8,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 ### Source:
 
 1. [Sky News Australia](http://www.skynews.com.au/world/article.aspx?id=755888&vId=)
+1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.368.276.jpeg)
 
 ### Related:
 

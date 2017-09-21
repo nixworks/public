@@ -8,6 +8,7 @@ The last UK base and a key US base in Afghanistan are handed over to Afghan secu
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/uk-29776544)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78539000/jpg/_78539518_s630_bastion_1.jpg)
 
 ### Related:
 

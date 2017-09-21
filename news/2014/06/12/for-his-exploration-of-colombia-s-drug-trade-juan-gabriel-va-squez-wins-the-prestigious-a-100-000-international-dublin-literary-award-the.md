@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Independent](http://www.independent.ie/breaking-news/irish-news/vasquez-celebrates-book-prize-win-30349381.html)
+1. [Cover Image](http://www.independent.ie/breaking-news/irish-news/article30349380.ece/ALTERNATES/h342/PANews_P-5c2a9dae-4f3e-4a9b-acfc-ec2430e3c3ec_I1.jpg)
 
 ### Related:
 

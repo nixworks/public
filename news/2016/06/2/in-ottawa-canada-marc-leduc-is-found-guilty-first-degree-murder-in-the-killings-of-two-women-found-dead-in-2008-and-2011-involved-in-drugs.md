@@ -8,3 +8,4 @@ Marc Leduc has been found guilty of first-degree murder in the deaths of Pamela 
 ### Source:
 
 1. [CTV News](http://ottawa.ctvnews.ca/marc-leduc-found-guilty-of-first-degree-murder-1.2869776)
+1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.2869779.1461275390!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

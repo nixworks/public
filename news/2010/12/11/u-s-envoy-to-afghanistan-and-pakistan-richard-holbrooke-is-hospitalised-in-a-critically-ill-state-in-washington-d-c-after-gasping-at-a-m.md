@@ -9,6 +9,7 @@ Richard Holbrooke, the US envoy to Afghanistan and Pakistan, has been taken crit
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11858576)
 2. [The Hindu](http://www.thehindu.com/news/international/article945651.ece)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

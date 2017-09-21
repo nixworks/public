@@ -8,6 +8,7 @@ Clashes between soldiers and members of Islamist sect Boko Haram have killed 18 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/17/us-nigeria-bokoharam-idUSBRE97G08A20130817)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

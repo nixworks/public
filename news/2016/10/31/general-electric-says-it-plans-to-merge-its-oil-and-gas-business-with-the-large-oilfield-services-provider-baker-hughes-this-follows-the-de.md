@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-baker-hughes-m-a-ge-idUSKBN12V0XN)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161031&t=2&i=1159657830&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9U0JD)
 
 ### Related:
 

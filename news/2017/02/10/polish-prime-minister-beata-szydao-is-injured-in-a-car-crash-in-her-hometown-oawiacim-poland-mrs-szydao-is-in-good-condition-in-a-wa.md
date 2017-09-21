@@ -8,6 +8,7 @@ WARSAW, Poland (AP) — Prime Minister Beata Szydlo suffered injuries in a car c
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/4e4e6e2e850040f3956d4137cd48854c/polish-pm-szydlo-car-accident-being-checked-doctors)
+1. [Cover Image](http://binaryapi.ap.org/1e00c12d662c4706a5875c2aa0f92135/460x.jpg)
 
 ### Related:
 

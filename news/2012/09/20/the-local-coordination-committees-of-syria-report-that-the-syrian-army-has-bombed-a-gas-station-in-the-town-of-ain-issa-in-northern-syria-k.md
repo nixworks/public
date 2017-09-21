@@ -10,6 +10,7 @@ Syrian opposition activists say at least 30 people have been killed and dozens w
 1. [CNN](http://www.cnn.com/2012/09/20/world/meast/syria-civil-war/index.html?hpt=wo_c2)
 2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/syrian-military-bombs-gas-station-killing-50/2012/09/20/23a9a958-0340-11e2-91e7-2962c74e7738_story.html)
 3. [USA Today](http://www.usatoday.com/news/world/story/2012/09/20/syrian-activists-several-killed-in-regime-airstrikes/57812330/1)
+3. [Cover Image](http://www.gannett-cdn.com/media/USATODAY/WiresImages/2012/09/20/75205f82900ab21a1b0f6a706700ceff-x.jpg)
 
 ### Related:
 

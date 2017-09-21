@@ -8,6 +8,7 @@ Al Qaeda in the Islamic Maghreb (AQIM) denied Saturday it was involved in a bomb
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/07/us-morocco-attack-qaeda-idUSTRE7462FB20110507)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110507&t=2&i=407037103&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-07T192431Z_01_BTRE7461HX200_RTROPTP_0_MOROCCO-ATTACK)
 
 ### Related:
 

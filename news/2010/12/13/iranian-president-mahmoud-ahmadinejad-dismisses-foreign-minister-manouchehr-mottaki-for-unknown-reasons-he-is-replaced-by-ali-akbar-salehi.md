@@ -10,6 +10,7 @@ Tehran, Dec 13 (DPA) In a surprise move, Iranian President Mahmoud Ahmadinejad h
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11984931)
 2. [Press TV](http://www.presstv.ir/detail/155293.html)
 3. [Sify India](http://sify.com/news/iranian-foreign-minister-sacked-news-international-kmnukljibad.html)
+3. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 
 ### Related:
 

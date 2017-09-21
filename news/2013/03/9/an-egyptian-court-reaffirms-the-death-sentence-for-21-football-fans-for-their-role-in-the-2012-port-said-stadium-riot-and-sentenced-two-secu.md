@@ -8,6 +8,7 @@ Twenty-one people had been sentenced to death for their roles in the deadly 2012
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/03/10/world/middleeast/egypt-sentences-2012-soccer-riot.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/03/10/world/sub-egypt1/sub-egypt1-videoLarge.jpg)
 
 ### Related:
 

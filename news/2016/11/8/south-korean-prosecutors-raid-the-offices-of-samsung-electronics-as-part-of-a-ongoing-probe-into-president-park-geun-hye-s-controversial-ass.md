@@ -9,6 +9,7 @@ South Korean prosecutors have raided the offices of Samsung Electronics as part 
 
 1. [BBC](http://www.bbc.co.uk/news/business-37904802)
 2. [Reuters](http://www.reuters.com/article/us-southkorea-politics-idUSKBN1322OL)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13025/production/_92316877_gettyimages-486218070.jpg)
 
 ### Related:
 

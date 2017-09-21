@@ -12,3 +12,4 @@ More than 1,000 schools in Los Angeles are closed and being searched after recei
 3. [ITV](http://www.itv.com/news/update/2015-12-15/public-schools-in-la-to-reopen-wednesday-after-hoax/)
 4. [LA School Report](http://laschoolreport.com/nyc-gets-threat-similar-lausd-considers-hoax/)
 5. [The New York Times](http://www.nytimes.com/2015/12/16/us/los-angeles-schools-bomb-threat.html)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/150F6/production/_87226268_hi030589263-1.jpg)

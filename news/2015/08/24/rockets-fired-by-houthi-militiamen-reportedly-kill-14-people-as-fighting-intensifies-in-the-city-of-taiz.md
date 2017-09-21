@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/08/24/us-yemen-security-idUSKCN0QT0X620150824?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150824&t=2&i=1074147648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7N0GP)
 
 ### Related:
 

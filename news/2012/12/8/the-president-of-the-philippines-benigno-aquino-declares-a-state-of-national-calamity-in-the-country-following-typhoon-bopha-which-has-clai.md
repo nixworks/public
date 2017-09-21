@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC via Weatherzone](http://www.weatherzone.com.au/news/philippines-declares-calamity-after-typhoon/22969)
+1. [Cover Image](http://wz5.resources.weatherzone.com.au/images/logos/wz-512x512.jpg)
 
 ### Related:
 

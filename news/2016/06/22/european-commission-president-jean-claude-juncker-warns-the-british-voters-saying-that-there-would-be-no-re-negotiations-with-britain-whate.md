@@ -8,6 +8,7 @@ There will be no further renegotiation of Britain’s relationship with the EU i
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/uk/politics/eu-referendum-reform-uk-brexit-vote-live-remain-jean-claude-juncker-european-union-a7095601.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/06/21/20/pp-eu-cameron-1-ap.jpg)
 
 ### Related:
 

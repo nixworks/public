@@ -8,6 +8,7 @@ Euro zone finance ministers struck a deal for a second bailout program for Greec
 ### Source:
 
 1. [Reuters via ''Sydney Morning Herald](http://www.smh.com.au/business/world-business/euro-zone-strikes-deal-on-greece-bailout-20120221-1tkxm.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/q/1/j/r/image.related.thumbnail.320x214.1tkxm.png/1329798335343.jpg)
 
 ### Related:
 

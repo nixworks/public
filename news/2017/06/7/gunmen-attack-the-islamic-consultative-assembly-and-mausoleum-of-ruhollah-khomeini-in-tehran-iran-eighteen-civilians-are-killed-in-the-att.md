@@ -10,6 +10,7 @@ Armed men launched two attacks in Iran on Wednesday morning local time, killing 
 1. [AP](https://apnews.com/510f0af4615443c08ff7f52c2657bb76/Twin-attacks-on-Iran-parliament,-Khomeini-shrine,-1-dead)
 2. [Reuters via ''The Canberra Times](http://www.canberratimes.com.au/world/gunmen-attack-iran-parliament-and-mausoleum-20170607-gwmll4.html)
 3. [The Telegraph](http://www.telegraph.co.uk/news/2017/06/07/man-opens-fire-iranian-parliament/)
+3. [Cover Image](http://www.canberratimes.com.au/content/dam/images/g/w/m/m/h/z/image.related.articleLeadwide.620x349.gwmll4.png/1496821292000.jpg)
 
 ### Related:
 

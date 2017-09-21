@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Top-Saudi-cleric-says-Iran-leaders-not-Muslims-as-haj-row-mounts/articleshow/54049391.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/54049392.cms)
 
 ### Related:
 

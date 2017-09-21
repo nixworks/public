@@ -8,6 +8,7 @@ At least 13 people have died in a riot and fire at a Honduran prison, officials 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17557658)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59383000/jpg/_59383951_014393472-1.jpg)
 
 ### Related:
 

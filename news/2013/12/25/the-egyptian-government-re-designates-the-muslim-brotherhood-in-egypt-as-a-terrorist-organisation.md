@@ -8,6 +8,7 @@ The Egyptian government intensified its crackdown on the Muslim Brotherhood on W
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2013/12/25/uk-egypt-explosion-brotherhood-idUKBRE9BO08E20131225)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/2011628134821354329.html)
 2. [BBC](http://www.bbc.co.uk/news/business-13951950)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/28/201162895052103734_20.jpg)
 
 ### Related:
 

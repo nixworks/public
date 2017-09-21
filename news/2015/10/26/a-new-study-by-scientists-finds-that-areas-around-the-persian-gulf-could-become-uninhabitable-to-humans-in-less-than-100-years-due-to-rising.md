@@ -8,6 +8,7 @@ Global warming could make areas of the Persian Gulf uninhabitable to humans in l
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/earth/environment/globalwarming/11956627/Persian-Gulf-could-be-too-hot-for-humans-by-2100.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03483/Persian-Gulf_3483892k.jpg)
 
 ### Related:
 

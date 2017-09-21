@@ -8,6 +8,7 @@ A Rwandan genocide suspect, Bernard Munyagishari, is arrested in eastern DR of C
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13566368)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53017000/jpg/_53017034_009930871-1.jpg)
 
 ### Related:
 

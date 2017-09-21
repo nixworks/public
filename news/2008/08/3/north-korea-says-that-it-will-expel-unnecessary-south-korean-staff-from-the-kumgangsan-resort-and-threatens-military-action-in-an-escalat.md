@@ -8,6 +8,7 @@ Pyongyang said on Sunday it would expel &quot;unnecessary&quot; South Korean sta
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSSEO9935620080803)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080803&t=2&i=5408847&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-08-03T025103Z_01_SEO99356_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

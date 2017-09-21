@@ -8,6 +8,7 @@ Aug. 2 - Peruvian police seize over $2 million counterfeit U.S. bills heading to
 ### Source:
 
 1. [Reuters](http://www.reuters.com/video/2012/08/01/police-seize-counterfeit-dollar-bills?videoId=236801752&videoChannel=1)
+1. [Cover Image](http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/f/7/7/d/gmo7/reuters04?videoId=44534802)
 
 ### Related:
 

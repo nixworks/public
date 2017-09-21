@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20982213)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65220000/jpg/_65220244_016893893-2.jpg)
 
 ### Related:
 

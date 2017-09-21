@@ -8,6 +8,7 @@ World Bank stops loans to West African nation as disputed president insists on a
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/20101222162641743382.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/22/20101222183542866884_20.jpg)
 
 ### Related:
 

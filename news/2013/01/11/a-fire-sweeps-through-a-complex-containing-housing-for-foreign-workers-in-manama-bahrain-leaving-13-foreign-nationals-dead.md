@@ -8,6 +8,7 @@ A fire at a building housing workers in the Bahraini capital Manama kills 13 peo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20996229)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65240000/gif/_65240138_bahrain_manama_0211.gif)
 
 ### Related:
 

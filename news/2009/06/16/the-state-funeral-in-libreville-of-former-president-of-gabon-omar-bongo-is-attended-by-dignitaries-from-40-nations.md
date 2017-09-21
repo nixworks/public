@@ -8,6 +8,7 @@ French President NicolasSarkozy and a dozen heads of state from around Africa ga
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/oilRpt/idINLG67772520090616)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

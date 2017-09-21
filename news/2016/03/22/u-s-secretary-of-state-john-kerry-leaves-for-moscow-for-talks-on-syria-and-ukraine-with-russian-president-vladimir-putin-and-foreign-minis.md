@@ -10,6 +10,7 @@ A Russian court sentences Ukrainian pilot Nadiya Savchenko to 22 years in jail i
 1. [AP via ABC News](http://abcnews.go.com/Politics/wireStory/kerry-off-russia-syria-talks-brussels-attacks-loom-37850028)
 2. [BBC](http://www.bbc.com/news/world-europe-35873683)
 3. [The Moscow Times](http://www.themoscowtimes.com/article/563143.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/22CD/production/_88890980_88890979.jpg)
 
 ### Related:
 

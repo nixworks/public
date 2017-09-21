@@ -8,6 +8,7 @@ The Supreme Court’s ruling that the Clean Air Act expressly authorizes the E.P
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/04/03/washington/03scotus.html?n=Top%2fReference%2fTimes%20Topics%2fOrganizations%2fS%2fSupreme%20Court%20)
+1. [Cover Image](https://static01.nyt.com/images/2007/04/03/us/03scotus-75.jpg)
 
 ### Related:
 

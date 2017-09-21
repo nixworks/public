@@ -8,6 +8,7 @@ Israel TV reports a former broadcaster has won the Israeli Labor Party primary e
 ### Source:
 
 1. [AP via Yahoo News](http://news.yahoo.com/tv-former-journalist-lead-israels-labor-party-215348609.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

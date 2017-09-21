@@ -8,6 +8,7 @@ An ethnic Nande militia in eastern Democratic Republic of Congo killed about 30 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-congo-killings-idUSKBN13M0BP)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

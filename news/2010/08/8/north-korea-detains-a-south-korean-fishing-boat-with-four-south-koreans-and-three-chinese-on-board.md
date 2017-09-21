@@ -10,6 +10,7 @@ North Korea seizes ship carrying South Korean and Chinese fisherman in Sea of Ja
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/20108810578909563.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10907074)
 3. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_563649.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

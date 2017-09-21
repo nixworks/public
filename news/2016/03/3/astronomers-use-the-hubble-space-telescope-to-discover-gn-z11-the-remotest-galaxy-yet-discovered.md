@@ -8,6 +8,7 @@ Astronomers discover a galaxy that formed 400 million years after the Big Bang e
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-03-04/hubble-space-telescope-observes-most-remote-galaxy-ever-seen/7219846)
+1. [Cover Image](http://www.abc.net.au/news/image/7220136-1x1-700x700.jpg)
 
 ### Related:
 

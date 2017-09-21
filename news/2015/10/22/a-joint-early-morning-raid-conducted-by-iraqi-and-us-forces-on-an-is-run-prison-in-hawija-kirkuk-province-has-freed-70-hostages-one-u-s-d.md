@@ -8,6 +8,7 @@ US authorities say US and Iraqi forces rescued dozens of hostages from IS to pre
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/34607471)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13B4D/production/_86271708_86271706.jpg)
 
 ### Related:
 

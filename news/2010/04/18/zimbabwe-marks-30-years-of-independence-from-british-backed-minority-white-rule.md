@@ -13,6 +13,7 @@ Celebrations likely to be subdued as country faces tough economic challenges.
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/zimbabwe-marks-30-years-of-independence-20100418-smrq.html)
 5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/18/AR2010041801529.html)
 6. [Zimbabwe Telegraph](http://www.zimtelegraph.com/?p=7006)
+6. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

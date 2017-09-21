@@ -8,6 +8,7 @@ Crowds greet Pope Francis in Rio on his first foreign trip as head of the Cathol
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23413443)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68893000/jpg/_68893680_68893679.jpg)
 
 ### Related:
 

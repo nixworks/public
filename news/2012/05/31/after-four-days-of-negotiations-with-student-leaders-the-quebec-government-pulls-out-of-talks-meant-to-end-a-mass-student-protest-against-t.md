@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2012/05/31/quebec-students-courchesne-negotiations.html)
+1. [Cover Image](https://i.cbc.ca/1.1600429.1379060899!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-charest-courchesne-cp.jpg)
 
 ### Related:
 

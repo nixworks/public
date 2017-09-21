@@ -8,3 +8,4 @@ The grandson of famed oceanographer Jacques Cousteau will set foot on dry land t
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/fabien-cousteau-set-emerge-31-day-underwater-mission/story?id=24395897)
+1. [Cover Image](http://a.abcnews.com/images/Technology/AP_fabien_cousteau_2_sk_140702_16x9_992.jpg)

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Chicago Times](http://www.chicagotribune.com/news/sns-rt-us-usa-weather-floodsbre94o0b3-20130525,0,7572273.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

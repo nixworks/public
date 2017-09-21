@@ -8,6 +8,7 @@ Unilever buys US start-up Dollar Shave Club for a reported $1bn in cash as it lo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-36791928)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/28D7/production/_90455401_shave.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Authorities in Houston expect 30,000 people to be housed in shelters as Tropical
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/la-fg-houston-harvey-20170828-story.html)
+1. [Cover Image](http://www.trbimg.com/img-59a48551/turbine/la-fg-houston-harvey-20170828)
 
 ### Related:
 

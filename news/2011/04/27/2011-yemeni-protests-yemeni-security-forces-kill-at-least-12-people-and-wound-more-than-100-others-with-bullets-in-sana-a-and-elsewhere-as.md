@@ -13,6 +13,7 @@ President Ali Abdullah Saleh said he supports &#034;peaceful&#034; change in lin
 4. [Press TV](http://www.presstv.ir/detail/177022.html)
 5. [Reuters via France24](http://www.france24.com/en/20110427-deadly-shooting-sanaa-anti-government-demonstration-unrest-saleh-yemen)
 6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/yemen/8478270/Yemen-at-least-12-dead-as-Saleh-clings-to-power.html)
+6. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01881/yemen_1881886a.jpg)
 
 ### Related:
 

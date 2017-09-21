@@ -10,6 +10,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 1. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=Gutka+case%3A+SC+issues+notice+to+states&id=68341)
 2. [Rediff](http://in.rediff.com/news/2005/feb/11gutka.htm)
 3. [Times of India](http://timesofindia.indiatimes.com/articleshow/1018917.cms)
+3. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

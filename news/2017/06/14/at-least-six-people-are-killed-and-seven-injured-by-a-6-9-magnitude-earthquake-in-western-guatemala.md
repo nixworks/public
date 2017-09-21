@@ -8,6 +8,7 @@ GUATEMALA CITY (AP) — Five people were killed and seven injured by a magnitude
 ### Source:
 
 1. [AP via Yahoo! News](https://www.yahoo.com/news/u-geological-survey-says-magnitude-6-9-earthquake-075752453.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/a11VTKvLwpa62XNpgh18NA--/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/908de33f1c1a44029577f747f6af9c7c.jpg)
 
 ### Related:
 

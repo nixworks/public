@@ -8,6 +8,7 @@ Cameroon has carried out air strikes against militant Islamist group Boko Haram 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30623199)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79967000/jpg/_79967589_79087251.jpg)
 
 ### Related:
 

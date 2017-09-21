@@ -11,6 +11,7 @@ A truck carrying fireworks explodes on a highway in central China, causing part 
 2. [CNN](http://www.cnn.com/2013/02/01/world/asia/china-bridge-collapse/)
 3. [The Guardian](http://www.guardian.co.uk/world/video/2013/feb/01/firework-truck-explosion-chinese-bridge-video)
 4. [The New York Times](http://www.nytimes.com/2013/02/02/world/asia/fireworks-truck-explodes-on-bridge-in-china.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65637000/jpg/_65637809_65637808.jpg)
 
 ### Related:
 

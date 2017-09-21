@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?type=brazilMktRpt&storyid=2007-09-24T144657Z_01_N24267259_RTRIDST_0_MARKETS-BRAZIL.XML)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

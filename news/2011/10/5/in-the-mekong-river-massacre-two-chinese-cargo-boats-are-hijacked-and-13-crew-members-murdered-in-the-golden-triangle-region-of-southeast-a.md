@@ -8,6 +8,7 @@ China joins Burma, Laos and Thailand in river patrols along the Mekong after kil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16119515)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

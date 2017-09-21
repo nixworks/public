@@ -8,6 +8,7 @@ At least three people have died in Funchal, the capital of the Portuguese holida
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-37030217)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/56C6/production/_90741222_62c1ca72-941e-4c67-b5d3-91e96802ba04.jpg)
 
 ### Related:
 

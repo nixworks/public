@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11015596)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/191700/us-to-support-un-burma-war-crimes-inquiry-official)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

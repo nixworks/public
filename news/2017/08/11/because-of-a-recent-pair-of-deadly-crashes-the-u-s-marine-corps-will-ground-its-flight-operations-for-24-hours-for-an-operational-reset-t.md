@@ -9,6 +9,7 @@ The U.S. Marine Corps on Friday ordered its aircraft squadrons to suspend flight
 
 1. [Reuters](https://www.reuters.com/article/us-usa-marines-idUSKBN1AR2HZ)
 2. [The New York Times](https://www.nytimes.com/2017/08/11/us/marines-order-brief-groundings-and-safety-reviews.html)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170811&t=2&i=1196782422&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED7A1MS)
 
 ### Related:
 

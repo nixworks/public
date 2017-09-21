@@ -8,6 +8,7 @@ A last-minute decision by Flemish separatists to join the ECR group instead of A
 ### Source:
 
 1. [euobserver](http://euobserver.com/eu-elections/124659)
+1. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/e521d5ffba397e2867263293a2898e57-480x.jpg)
 
 ### Related:
 

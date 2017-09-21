@@ -10,6 +10,7 @@ A war crimes court rules that model Naomi Campbell can be called to testify agai
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10466087.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Naomi-Campbell-Blood-Diamond-Supermodel-Could-Testify-At-Ex-President-Charles-Taylors-Trial/Article/201006415657315?f=rss)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jun/30/naomi-campbell-diamonds-liberia)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

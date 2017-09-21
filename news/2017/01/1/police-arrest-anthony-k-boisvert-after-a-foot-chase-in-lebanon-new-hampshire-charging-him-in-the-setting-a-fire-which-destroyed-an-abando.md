@@ -8,3 +8,4 @@ A local man is charged with multiple stabbings and arsons, including the fire th
 ### Source:
 
 1. [The New Hampshire Union Leader](http://www.unionleader.com/crime/lebanon-man-charged-with-setting-church-fire-stabbing-pair-20170102)
+1. [Cover Image](/storyimage/UL/20170102/NEWS03/170109946/AR/0/AR-170109946.jpg?q=70?ExactW=600&ExactH=314&imageversion=MainHighlight&q=70)

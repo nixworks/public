@@ -8,6 +8,7 @@ One of ISIS leader Abu Bakr al-Baghdadi&#x27;s wives and children has been arres
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/storyline/isis-terror/isis-leader-abu-bakr-al-baghdadis-wife-son-detained-lebanon-n259551)
+1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2014_49/788721/141202-baghdadi-330a_1405f83a7c75ac574c7c390e49cf512e.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

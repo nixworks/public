@@ -8,6 +8,7 @@ Hillsborough campaigners welcomed the news of a new inquest into the deaths of 9
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/sport/football/news-and-comment/campaigners-welcome-new-hillsborough-inquest-8426728.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/11/13/19/web-hillsborough-getty.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ NATO leaders have agreed that Russia should face increased sanctions for its act
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2014/0904/641327-ukraine/)
+1. [Cover Image](https://img.rasset.ie/00097234-1600.jpg)
 
 ### Related:
 

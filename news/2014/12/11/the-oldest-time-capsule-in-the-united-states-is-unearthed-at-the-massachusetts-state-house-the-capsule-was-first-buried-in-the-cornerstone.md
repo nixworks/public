@@ -9,6 +9,7 @@ The capsule was buried under the Golden Dome of the Massachusetts State House in
 
 1. [ABC](http://abcnews.go.com/US/oldest-time-capsule-us-unearthed-massachusetts-state-house/story?id=27539479)
 2. [CNN](http://www.cnn.com/2014/12/11/us/boston-time-capsule-paul-revere-sam-adams/)
+2. [Cover Image](http://a.abcnews.com/images/US/ht_boston_time_capsule_1_kb_141211_16x9_992.jpg)
 
 ### Related:
 

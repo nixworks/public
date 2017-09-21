@@ -8,6 +8,7 @@ The Supreme Court orders a new vote citing irregularities, sparking joy among op
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-41123329)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05dvxxy.jpg)
 
 ### Related:
 

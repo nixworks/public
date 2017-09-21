@@ -9,6 +9,7 @@ UK Foreign Secretary William Hague warns that &quot;the window is closing&quot; 
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11697267)
 2. [The Guardian](http://www.guardian.co.uk/politics/2010/nov/04/william-hague-two-state-solution-israel)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

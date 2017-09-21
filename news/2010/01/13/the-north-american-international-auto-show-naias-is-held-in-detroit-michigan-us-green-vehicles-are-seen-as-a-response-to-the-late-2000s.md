@@ -9,6 +9,7 @@
 
 1. [Merinews](http://www.merinews.com/article/auto-show-2010-detroit-starts-open-for-public-jan-17/15794058.shtml)
 2. [Xinhua](http://news.xinhuanet.com/english/2010-01/13/content_12798877.htm)
+2. [Cover Image](http://www.merinews.com/images/merinews_default.jpg)
 
 ### Related:
 

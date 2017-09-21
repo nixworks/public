@@ -8,6 +8,7 @@ At least 40 people were killed, including several fishermen, when Saudi-led coal
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/24/uk-yemen-security-idUKKCN0SI07C20151024)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

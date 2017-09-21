@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [CNA](http://www.channelnewsasia.com/stories/afp_asiapacific/view/250293/1/.html)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2007-01-02T215051Z_01_JAK149439_RTRUKOC_0_US-INDONESIA-PLANE.xml&WTmodLoc=Home-C2-TopNews-newsOne-10)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

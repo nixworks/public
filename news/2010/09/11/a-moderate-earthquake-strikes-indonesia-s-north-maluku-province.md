@@ -8,6 +8,7 @@ A moderate 5.9-magnitude earthquake struck Indonesia&#039;s North Maluku provinc
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/11/3009148.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

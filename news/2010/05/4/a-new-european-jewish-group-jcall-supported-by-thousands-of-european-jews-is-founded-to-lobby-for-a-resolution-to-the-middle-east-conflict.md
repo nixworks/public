@@ -9,3 +9,4 @@ New left-wing Jewish initiative in Europe, modeled after J Street, defends itsel
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/201053185915716997.html)
 2. [Jerusalem Post](http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=174623)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=137785)

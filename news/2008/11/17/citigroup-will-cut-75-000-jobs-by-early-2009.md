@@ -11,6 +11,7 @@
 2. [CNN-IBN](http://ibnlive.in.com/news/japan-in-the-red-joins-club-of-nations-in-crisis/78313-7.html?from=rssfeed)
 3. [Forbes](http://www.forbes.com/afxnewslimited/feeds/afx/2008/11/17/afx5702572.html)
 4. [MarketWatch](http://www.marketwatch.com/news/story/Oil-futures-close-a-22/story.aspx?guid=%7BDA646B83%2D80A6%2D42E0%2D9131%2DCF9C5D96FABF%7D)
+4. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

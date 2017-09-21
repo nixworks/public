@@ -8,6 +8,7 @@ Crews made some progress overnight on the aggressive wildfire burning in parts o
 ### Source:
 
 1. [Southern California Public Radio](http://www.scpr.org/news/2013/08/27/38900/rim-fire-yosemite-wildfire-now-7th-largest-in-cali/)
+1. [Cover Image](http://a.scpr.org/i/b6cf190266c328ec41bd58104d903db7/67104-full.jpg)
 
 ### Related:
 

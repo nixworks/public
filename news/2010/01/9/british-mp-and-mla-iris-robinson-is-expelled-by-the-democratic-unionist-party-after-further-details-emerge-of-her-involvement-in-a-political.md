@@ -9,6 +9,7 @@ Iris Robinson’s young lover Kirk McCambley has become an unlikely icon for the
 
 1. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/iris-robinsons-lover-kirk-mccambley-becomes-instant-gay-pinup-14629029.html)
 2. [The Guardian](http://www.guardian.co.uk/uk/2010/jan/09/iris-robinson-expelled-dup-northenr-ireland)
+2. [Cover Image](http://www.belfasttelegraph.co.uk/migration_catalog/article25668767.ece/ALTERNATES/h342/KIRK%20M_24)
 
 ### Related:
 

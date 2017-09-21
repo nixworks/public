@@ -8,6 +8,7 @@ At least six people and four IS gunmen die in a battle at the Afghan state TV bu
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39946711)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/77CC/production/_96086603_mediaitem96085091.jpg)
 
 ### Related:
 

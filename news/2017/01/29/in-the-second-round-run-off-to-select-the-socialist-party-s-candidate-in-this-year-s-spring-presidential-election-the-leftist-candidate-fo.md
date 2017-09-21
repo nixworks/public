@@ -9,6 +9,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/valls-hamon-french-socialists-presidential-primary-45120240)
 2. [Yahoo! News](https://sg.news.yahoo.com/leftwinger-hamon-wins-french-socialist-primary-party-sources-194618879.html)
+2. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
 
 ### Related:
 

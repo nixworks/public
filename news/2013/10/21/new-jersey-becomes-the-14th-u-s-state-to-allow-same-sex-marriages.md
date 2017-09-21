@@ -8,6 +8,7 @@ In city halls across the Garden State, straight and gay couples exchanged weddin
 ### Source:
 
 1. [NBC New York](http://www.nbcnewyork.com/news/local/Gay-Marriages-Begin-in-New-Jersey-228559121.html)
+1. [Cover Image](http://media.nbcnewyork.com/images/1200*675/NJ-Gay-Marriage-Begins.jpg)
 
 ### Related:
 

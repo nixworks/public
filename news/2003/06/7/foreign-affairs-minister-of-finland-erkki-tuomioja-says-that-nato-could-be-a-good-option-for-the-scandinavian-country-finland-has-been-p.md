@@ -9,6 +9,7 @@
 
 1. [Helsingin Sanomat's English edition of June 10](http://www.helsinki-hs.net/news.asp?id=20030610IE6)
 2. [In Finnish](http://www.helsinginsanomat.fi/tuoreet/artikkeli/tulosta/1054730299020)
+2. [Cover Image](https://www.hs.fi/assets/images/og-hs-1920px.0b32cfc0716697510.png)
 
 ### Related:
 

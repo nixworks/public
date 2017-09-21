@@ -8,6 +8,7 @@ Emirates, the Middle East&apos;s biggest airline, said it is cutting flights to 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/la-fg-emirates-flights-20170419-story.html)
+1. [Cover Image](http://www.trbimg.com/img-58f78a54/turbine/la-fg-emirates-flights-20170419)
 
 ### Related:
 

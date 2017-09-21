@@ -8,6 +8,7 @@ Members of Indian women activist group Bhumata Ranragini Brigade were prevented 
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/04/02/Womens-rights-activists-blocked-from-entering-temple-in-India/1601459602310/?spt=hts&or=4)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/1601459602310/2016/1/14596059997435/v2.1/Womens-rights-activists-blocked-from-entering-temple-in-India.jpg)
 
 ### Related:
 

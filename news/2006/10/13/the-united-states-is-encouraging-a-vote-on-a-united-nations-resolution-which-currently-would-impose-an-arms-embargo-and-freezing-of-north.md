@@ -8,6 +8,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-10-12T192144Z_01_N11413396_RTRUKOC_0_US-KOREA-NORTH-UN.xml&WTmodLoc=IntNewsHome_C1_%5bFeed%5d-2)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

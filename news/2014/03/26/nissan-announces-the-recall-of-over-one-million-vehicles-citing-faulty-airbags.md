@@ -8,6 +8,7 @@
 ### Source:
 
 1. [KNTV](http://www.nbcbayarea.com/news/national-international/Nissan-Recalls-1M-Cars-SUVs-Vans-for-Air-Bags-2nd-Recall-Altima-Leaf-Pathfinder-Sentra-Infiniti-252454321.html?_osource=SocialFlowTwt_BAYBrand)
+1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/nissan5.JPG)
 
 ### Related:
 

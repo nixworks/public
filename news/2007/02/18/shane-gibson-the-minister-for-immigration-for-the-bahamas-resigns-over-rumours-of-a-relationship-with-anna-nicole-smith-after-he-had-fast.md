@@ -8,6 +8,7 @@ Immigration Minister Shane Gibson resigned Sunday night in a flap over his relat
 ### Source:
 
 1. [AP via AccessHollywood](http://www.accesshollywood.com/news/ah4112.shtml?dst=rss%7cgeneral_rss)
+1. [Cover Image](https://d919ce141ef35c47fc40-b9166a60eccf0f83d2d9c63fa65b9129.ssl.cf5.rackcdn.com/images/22047.2e16d0ba.fill-300x300.jpg)
 
 ### Related:
 

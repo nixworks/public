@@ -8,6 +8,7 @@ The deputy governor of a prison in Durango, in northern Mexico is found decapita
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13383662)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52692000/jpg/_52692669_soldiers.jpg)
 
 ### Related:
 

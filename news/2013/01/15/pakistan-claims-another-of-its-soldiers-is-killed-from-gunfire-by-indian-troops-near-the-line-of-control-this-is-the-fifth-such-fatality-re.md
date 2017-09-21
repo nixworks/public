@@ -8,6 +8,7 @@ Indian troops killed a Pakistani soldier in the disputed territory of Kashmir la
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/15/us-pakistan-india-shooting-idUSBRE90E10120130115)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130115&t=2&i=694487676&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90E1RIW00)
 
 ### Related:
 

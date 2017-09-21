@@ -8,6 +8,7 @@ The Globe and Mail offers the most authoritative news in Canada, featuring natio
 ### Source:
 
 1. [Globe & Mail](http://www.theglobeandmail.com/report-on-business/us-wins-accord-in-swiss-banks-row/article1238846/)
+1. [Cover Image](http://beta.images.theglobeandmail.com/media/www/images/flag/gam-square.png)
 
 ### Related:
 

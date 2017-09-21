@@ -8,6 +8,7 @@ The administration is seeking changes to the Bush-era No Child Left Behind law, 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/03/14/education/14child.html)
+1. [Cover Image](https://static01.nyt.com/images/2010/03/14/education/14child_1/14child_1-thumbStandard.jpg)
 
 ### Related:
 

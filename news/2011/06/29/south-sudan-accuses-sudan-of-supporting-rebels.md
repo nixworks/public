@@ -8,6 +8,7 @@ South Sudan claims the North is using rebels to sow chaos ahead of its official 
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Africa/Africa-Monitor/2011/0629/South-Sudan-accuses-North-of-supporting-rebels)
+1. [Cover Image](http://images.csmonitor.com/csmarchives/2011/06/0629-SOUTH-REBELS.JPG?alias=standard_900x600)
 
 ### Related:
 

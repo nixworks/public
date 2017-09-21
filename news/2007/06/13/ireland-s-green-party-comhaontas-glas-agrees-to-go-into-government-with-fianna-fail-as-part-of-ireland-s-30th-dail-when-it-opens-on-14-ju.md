@@ -8,6 +8,7 @@ Green Party members have voted by over 86% to go into Government with Fianna FÃ¡
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0613/election2.html)
+1. [Cover Image](https://img.rasset.ie/0000e74c-1600.jpg)
 
 ### Related:
 

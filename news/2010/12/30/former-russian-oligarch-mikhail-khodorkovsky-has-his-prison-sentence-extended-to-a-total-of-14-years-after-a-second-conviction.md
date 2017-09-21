@@ -8,6 +8,7 @@ Former Russian oil tycoon receives six more years in prison after money launderi
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010123012597475433.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/30/20101230135047965784_20.jpg)
 
 ### Related:
 

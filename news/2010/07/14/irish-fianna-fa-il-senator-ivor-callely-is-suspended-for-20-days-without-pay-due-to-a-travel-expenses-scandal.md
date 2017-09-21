@@ -9,6 +9,7 @@ The Seanad has agreed without a vote to suspend Senator Callely for 20 days with
 
 1. [RTÉ](http://www.rte.ie/news/2010/0714/callelyi.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/0715/1224274740154.html)
+2. [Cover Image](https://img.rasset.ie/00038190-1600.jpg)
 
 ### Related:
 

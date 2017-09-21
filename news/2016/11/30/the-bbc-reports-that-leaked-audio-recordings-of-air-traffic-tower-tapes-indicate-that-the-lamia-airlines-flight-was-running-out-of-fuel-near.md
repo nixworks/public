@@ -8,6 +8,7 @@ The plane carrying footballers which crashed in Colombia ran out of fuel, a leak
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-38160713#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1C1D/production/_92779170_mediaitem92779169.jpg)
 
 ### Related:
 

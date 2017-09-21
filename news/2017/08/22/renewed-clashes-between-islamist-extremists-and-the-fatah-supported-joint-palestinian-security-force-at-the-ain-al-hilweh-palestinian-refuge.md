@@ -9,6 +9,7 @@ Three Palestinians were wounded in renewed fighting in the refugee camp of Ain a
 
 1. [Daily Star](https://www.dailystar.com.lb/News/Lebanon-News/2017/Aug-22/416739-new-ain-al-hilweh-clashes-break-out.ashx)
 2. [Naharnet](http://www.naharnet.com/stories/en/234451-ain-el-hilweh-rocked-by-fierce-clashes-for-sixth-day)
+2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2017/08/22/636312_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

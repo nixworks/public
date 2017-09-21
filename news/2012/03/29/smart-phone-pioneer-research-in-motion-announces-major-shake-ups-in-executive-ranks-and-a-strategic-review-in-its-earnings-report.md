@@ -8,6 +8,7 @@ Research In Motion posted a net loss and its first slump in BlackBerry shipments
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/03/30/us-rim-idUSBRE82S1DD20120330)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120330&t=2&i=589074739&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82T01S000)
 
 ### Related:
 

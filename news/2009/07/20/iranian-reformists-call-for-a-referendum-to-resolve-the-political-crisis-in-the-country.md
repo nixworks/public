@@ -10,6 +10,7 @@ Ex-president seeks referendum to resolve dispute over June 12 presidential vote.
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/07/2009720112418612488.html)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56J13J20090720)
 3. [The Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/7/20/worldupdates/2009-07-20T132949Z_01_NOOTR_RTRMDNC_0_-411702-1&sec=Worldupdates)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The death toll from a powerful earthquake is continuing to rise as Indonesian re
 
 1. [CBC](http://www.cbc.ca/world/story/2009/09/04/indonesia-earthquake-landslide381.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-09/04/content_11996142.htm)
+2. [Cover Image](https://i.cbc.ca/1.2161439.1382499067!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-quake-cp-rtr27f6m.jpg)
 
 ### Related:
 

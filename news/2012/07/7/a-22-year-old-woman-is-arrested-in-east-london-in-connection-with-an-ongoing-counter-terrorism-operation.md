@@ -8,6 +8,7 @@ A 22-year-old woman is arrested in east London in connection with a counter-terr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18751617)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61373000/jpg/_61373388_012918600.jpg)
 
 ### Related:
 

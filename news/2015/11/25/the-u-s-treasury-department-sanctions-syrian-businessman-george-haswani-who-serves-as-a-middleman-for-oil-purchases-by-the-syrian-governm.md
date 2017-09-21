@@ -8,6 +8,7 @@ The United States sanctioned a Syrian businessman on Wednesday who it said was a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/11/25/us-mideast-crisis-usa-sanctions-idUSKBN0TE23P20151125#5yqAeylT8l59tsIx.97)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

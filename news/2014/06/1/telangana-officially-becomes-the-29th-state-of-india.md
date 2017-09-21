@@ -8,6 +8,7 @@ President&rsquo;s Rule will be revoked in Telangana but remain imposed in the Se
 ### Source:
 
 1. [Hindustan Times](http://www.hindustantimes.com/india-news/telanganathetroubledstate/president-s-rule-in-telangana-to-be-revoked-tomorrow-to-continue-in-andhra/article1-1224893.aspx)
+1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p1/2014/06/01/Incoming/Pictures/1225100_Wallpaper2.jpg)
 
 ### Related:
 

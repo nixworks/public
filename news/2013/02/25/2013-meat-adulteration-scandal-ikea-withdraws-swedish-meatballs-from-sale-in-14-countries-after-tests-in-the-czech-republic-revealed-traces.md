@@ -8,6 +8,7 @@ Swedish-style meatballs for sale at Ikea in the Czech Republic are found to cont
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21569645)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66058000/jpg/_66058423_66058422.jpg)
 
 ### Related:
 

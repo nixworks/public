@@ -8,6 +8,7 @@ The searing heatwave in Andhra Pradesh and Telangana has killed 432 people so fa
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Heat-wave-Death-toll-in-AP-Telangana-rises-to-432/articleshow/47419484.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47413320.cms)
 
 ### Related:
 

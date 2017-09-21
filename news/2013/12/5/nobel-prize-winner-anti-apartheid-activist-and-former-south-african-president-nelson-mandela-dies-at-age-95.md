@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25249520)
 2. [World News](http://worldnews.nbcnews.com/_news/2013/12/05/17500450-nelson-mandela-dead-at-95)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71568000/jpg/_71568941_70118206.jpg)
 
 ### Related:
 

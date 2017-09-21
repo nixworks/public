@@ -8,6 +8,7 @@ Jamaica’s Usain Bolt became the first man to win both the 100 and 200 meters a
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/08/21/sports/olympics/21bolt.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/08/20/sports/olympics/20track2-75.jpg)
 
 ### Related:
 

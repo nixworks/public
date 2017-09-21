@@ -9,6 +9,7 @@ A dispute over the proper role of military defense lawyers is intensifying as mi
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200703/s1882383.htm)
 2. [New York Times](http://www.nytimes.com/2007/03/26/world/26gitmo.html?_r=1&ref=us&oref=slogin)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

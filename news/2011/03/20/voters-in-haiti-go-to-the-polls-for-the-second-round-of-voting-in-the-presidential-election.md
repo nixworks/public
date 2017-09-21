@@ -9,6 +9,7 @@ UN official describes vote as peaceful but several polling sites delayed opening
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/03/2011320151736845750.html)
 2. [NPR](http://www.npr.org/2011/03/20/134702169/yearning-for-change-haitians-head-to-the-polls)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/20/2011320153642805472_20.jpg)
 
 ### Related:
 

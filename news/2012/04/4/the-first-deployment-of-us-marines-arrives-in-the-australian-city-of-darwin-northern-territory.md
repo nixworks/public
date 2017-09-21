@@ -8,6 +8,7 @@ Some 200 US Marines, the first contingent of up to 2,500 to be deployed in north
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17606594)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59475000/jpg/_59475830_winr1t1s.jpg)
 
 ### Related:
 

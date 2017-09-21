@@ -10,6 +10,7 @@ A Dutch aid worker and his Afghan driver have been abducted by gunmen in north e
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101025/ap_on_re_as/as_afghanistan)
 2. [BBC News](http://www.bbc.co.uk/news/world-south-asia-11620480)
 3. [BBC](http://www.bbc.co.uk/news/world-south-asia-11618969)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

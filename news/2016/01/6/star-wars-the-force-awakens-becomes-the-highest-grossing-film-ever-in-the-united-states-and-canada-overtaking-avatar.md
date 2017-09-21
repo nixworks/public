@@ -8,6 +8,7 @@ J.J. Abrams&#039; record-shattering blockbuster achieved the historic milestone 
 ### Source:
 
 1. [Hollywood Reporter](http://www.hollywoodreporter.com/news/box-office-star-wars-force-852274)
+1. [Cover Image](http://cdn1.thr.com/sites/default/files/2016/01/starwarsavatar.jpg)
 
 ### Related:
 

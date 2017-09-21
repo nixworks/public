@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2011/11/03/world/meast/syria-unrest/index.html?hpt=wo_c2)
 2. [Reuters](http://www.reuters.com/article/2011/11/03/us-syria-idUSTRE7A13MA20111103)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111103&t=2&i=526928036&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7A21AEP00)
 
 ### Related:
 

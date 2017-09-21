@@ -8,6 +8,7 @@ Charlotte-Mecklenburg Police spent all Thursday night interviewing witnesses aft
 ### Source:
 
 1. [TWC News](http://www.twcnews.com/nc/charlotte/news/2015/12/24/police-investigating-shooting-at-north-lake-mall.html)
+1. [Cover Image](http://s7d2.scene7.com/is/image/TWCNews/north_lake_mall_shooting2jpg?wid=640)
 
 ### Related:
 

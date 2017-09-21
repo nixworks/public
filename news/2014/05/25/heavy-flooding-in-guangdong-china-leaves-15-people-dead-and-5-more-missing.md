@@ -8,6 +8,7 @@ The rainstorms, stated to be once-in-a-century phenomenon, slashed Guangzhou, Zh
 ### Source:
 
 1. [PTI via ''Times of India](http://timesofindia.indiatimes.com/World/China/Heavy-floods-kill-15-in-southern-Chinas-Guangdong-province/articleshow/35594663.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/35594680.cms)
 
 ### Related:
 

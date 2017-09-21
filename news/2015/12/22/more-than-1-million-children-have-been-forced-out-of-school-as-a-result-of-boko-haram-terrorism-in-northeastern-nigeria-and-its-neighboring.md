@@ -9,6 +9,7 @@ By Kieran GuilbertDAKAR (Thomson Reuters Foundation) - Violence in northeast Nig
 
 1. [Huffington Post](http://www.huffingtonpost.com/entry/over-1-million-children-out-of-school-due-to-boko-haram-attacks_56797c5ee4b06fa6887ebf3f)
 2. [Reuters](http://www.reuters.com/article/us-nigeria-boko-haram-idUSKBN0U500B20151222)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

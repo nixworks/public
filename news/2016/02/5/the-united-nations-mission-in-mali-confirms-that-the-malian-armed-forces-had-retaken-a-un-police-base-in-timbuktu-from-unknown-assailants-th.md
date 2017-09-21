@@ -8,6 +8,7 @@ Malian troops backed by U.N. helicopters stormed a U.N. police base in the city 
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/World/2016/Feb-05/335772-gunmen-attack-un-base-army-checkpoint-in-malis-timbuktu.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2016/02/05/492345_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

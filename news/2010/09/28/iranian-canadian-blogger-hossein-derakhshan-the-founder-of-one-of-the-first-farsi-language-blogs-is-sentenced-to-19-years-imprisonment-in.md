@@ -9,6 +9,7 @@
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gW6uJcKIYfINsVrdXeeTkWh5jJuwD9IH1IT01?docId=D9IH1IT01)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11430863)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

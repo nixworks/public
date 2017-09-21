@@ -8,6 +8,7 @@ Lord Carey, the former Archbishop of Canterbury, has launched an attack on Islam
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/uknews/1457736/Muslim-culture-has-contributed-little-for-centuries-says-Carey.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Voting began at 7:00 am in six constituencies in tea-growing and insurgency-wrac
 ### Source:
 
 1. [AFP via Dawn](http://www.dawn.com/news/1098313/polls-open-in-indias-marathon-general-election)
+1. [Cover Image](http://i.dawn.com/medium/2014/04/53420b3aed612.jpg)
 
 ### Related:
 

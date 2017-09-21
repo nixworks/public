@@ -9,6 +9,7 @@ Israeli Prime Minister Benjamin Netanyahu told a joint meeting of the U.S. Congr
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/24/us.netanyahu.speech/index.html?hpt=C2)
 2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=222023)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/05/24/us.netanyahu.speech/tzvids.netanyahu.congress.gi.jpg)
 
 ### Related:
 

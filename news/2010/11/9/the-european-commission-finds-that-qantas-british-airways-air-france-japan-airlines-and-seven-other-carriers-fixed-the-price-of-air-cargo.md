@@ -8,6 +8,7 @@ Qantas has been fined $12 million for its part in running an international air c
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/11/10/3061923.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1939526-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC](http://abcnews.go.com/Entertainment/dick-clark-entertainment-icon-nicknamed-americas-oldest-teenager/story?id=16076252#.T48bG9WjbKc)
+1. [Cover Image](http://a.abcnews.com/images/Entertainment/abc_dick_clark_american_bandstand_ll_120418_wmain.jpg)
 
 ### Related:
 

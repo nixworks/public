@@ -10,6 +10,7 @@ Thousands of ethnic Hmong people in Vietnam stage a protest calling for autonomy
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13284122)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/235516/vietnam-troops-use-force-at-rare-hmong-protest)
 3. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_665607.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

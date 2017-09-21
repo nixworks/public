@@ -8,6 +8,7 @@ As Barry drifts inland and weakens, torrential rain and the risk of flooding and
 ### Source:
 
 1. [AccuWeather](http://www.accuweather.com/en/weather-news/tropical-depression-flooding-r/14412296)
+1. [Cover Image](https://accuweather.brightspotcdn.com/60/60d112c7be101ddc19f986c6fa6bedb1/avn-animated.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gene Hickerson, Michael Irvin, Bruce Matthews, Charlie Sanders, Thurman Thomas a
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/nfl/news/story?id=2753109)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

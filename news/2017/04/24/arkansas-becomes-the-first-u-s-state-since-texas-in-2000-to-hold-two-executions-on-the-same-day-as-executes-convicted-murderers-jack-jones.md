@@ -9,6 +9,7 @@ Lawyers for Jack Jones and Marcel Williams are seeking stays on grounds of poor 
 
 1. [AP via Yahoo News](https://www.yahoo.com/news/arkansas-prepares-1st-double-execution-050940535.html?soc_trk=gcm&soc_src=d9780ae9-562b-3ef5-9d83-c17f2088b031&.tsrc=notification-brknews)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-39695668)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/5C68/production/_95765632_arkasnas.jpg)
 
 ### Related:
 

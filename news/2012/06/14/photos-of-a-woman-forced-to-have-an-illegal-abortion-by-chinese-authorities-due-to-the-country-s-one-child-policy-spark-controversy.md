@@ -8,6 +8,7 @@ A photo of a foetus whose mother was forced to have an abortion while seven mont
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-18435126)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60893000/jpg/_60893675_china_pregnancy_afp_getty120088895.jpg)
 
 ### Related:
 

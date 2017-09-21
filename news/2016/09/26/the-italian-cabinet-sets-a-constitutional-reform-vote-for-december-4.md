@@ -8,6 +8,7 @@ The Italian government on Monday decided to set 4 December as the date of a key 
 ### Source:
 
 1. [ADN Kronos](http://www.adnkronos.com/aki-en/politics/2016/09/26/italian-cabinet-sets-constitutional-reform-vote-for-december_UXVYFmtWwcl19QWsp7BUeO.html)
+1. [Cover Image](http://www.adnkronos.com/rf/image/Pub/AdnKronos/Assets/Immagini/Redazionale/S/seggio_elettorale_fotogramma.jpg)
 
 ### Related:
 

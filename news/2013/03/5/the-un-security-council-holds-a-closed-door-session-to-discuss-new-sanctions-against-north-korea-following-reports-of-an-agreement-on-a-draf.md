@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21673332)
 2. [NHK World](http://www3.nhk.or.jp/daily/english/20130305_43.html)
 3. [Yonhap News](http://english.yonhapnews.co.kr/national/2013/03/05/28/0301000000AEN20130305005600315F.HTML)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66201000/jpg/_66201456_66201455.jpg)
 
 ### Related:
 

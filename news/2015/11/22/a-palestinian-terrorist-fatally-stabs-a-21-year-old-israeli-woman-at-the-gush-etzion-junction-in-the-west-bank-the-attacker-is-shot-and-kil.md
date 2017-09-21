@@ -9,6 +9,7 @@ Earlier, Palestinian taxi driver tries to stab Israeli after failing to run over
 
 1. [Times of Israel](http://www.timesofisrael.com/woman-critically-hurt-in-west-bank-stabbing/)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4729158,00.html)
+2. [Cover Image](http://www.ynetnews.com/PicServer4/2015/11/22/6649958/664995401002456640360no.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Nine people have been taken to hospital after part of a bridge collapsed in nort
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/nine-hurt-in-canberra-bridge-collapse-20100814-123wn.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

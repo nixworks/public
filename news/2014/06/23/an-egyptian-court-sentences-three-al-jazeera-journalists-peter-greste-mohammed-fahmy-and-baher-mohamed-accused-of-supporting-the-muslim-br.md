@@ -8,6 +8,7 @@ A court in Cairo sentences three al-Jazeera journalists accused of supporting th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27972181#)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75732000/jpg/_75732542_75732541.jpg)
 
 ### Related:
 

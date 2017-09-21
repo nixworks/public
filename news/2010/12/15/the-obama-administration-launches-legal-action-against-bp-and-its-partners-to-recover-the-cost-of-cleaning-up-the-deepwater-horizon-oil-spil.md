@@ -8,6 +8,7 @@ The Obama administration on Wednesday launched a legal battle against BP Plc and
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6BE59J20101216)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101215&t=2&i=277018129&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-15T211930Z_01_BTRE6BE1N8L00_RTROPTP_0_OILSPILL-OBAMA-LAWSUIT)
 
 ### Related:
 

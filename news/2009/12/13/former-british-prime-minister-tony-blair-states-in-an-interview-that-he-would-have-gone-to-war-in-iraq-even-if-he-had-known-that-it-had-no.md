@@ -9,6 +9,7 @@ Key parts of Tony Blair&#039;s evidence to the Chilcot inquiry into the Iraq War
 
 1. [The Daily Telegraph](http://www.independent.co.uk/news/uk/home-news/untouchable-blair-to-give-iraq-war-evidence-in-secret-1839289.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/politics/article6954043.ece)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/12/13/00/274893.bin)
 
 ### Related:
 

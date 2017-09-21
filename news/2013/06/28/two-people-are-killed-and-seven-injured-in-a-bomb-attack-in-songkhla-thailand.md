@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Nation](http://www.nationmultimedia.com/breakingnews/Two-killed-and-others-injured-in-bomb-attack-in-So-30209290.html)
+1. [Cover Image](http://www.nationmultimedia.com/assets/images/default.png)
 
 ### Related:
 

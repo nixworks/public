@@ -8,6 +8,7 @@ Starting Monday, travelers from Liberia will no longer be subject to extra scree
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/2015/09/18/ebola-travel-airport-screening-liberia-sierra-leone-guinea-customs-border-protection/72398942/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

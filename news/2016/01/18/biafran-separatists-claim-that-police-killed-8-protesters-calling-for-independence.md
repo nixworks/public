@@ -8,6 +8,7 @@ WARRI, Nigeria (AP) — Nigerian separatists said police killed eight people dur
 ### Source:
 
 1. [AP via WTOP](http://wtop.com/africa/2016/01/nigerian-separatists-claim-police-kill-8-in-biafra-protest/)
+1. [Cover Image](http://wtop.com/wp-content/uploads/2016/08/og-image.jpg)
 
 ### Related:
 

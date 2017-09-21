@@ -9,6 +9,7 @@ The two healthcare giants said they were no longer pursuing the deal. A federal 
 
 1. [Forbes](http://www.forbes.com/sites/brucejapsen/2017/02/14/aetna-gives-up-on-merger-will-pay-humana-1b-breakup-fee/#4b72d60b150a)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2017/02/14/515167491/aetna-and-humana-call-off-merger-after-court-decision)
+2. [Cover Image](https://media.npr.org/assets/img/2017/02/14/ap_16117589745828_wide-e4f3628abe4c4d13c312de9f4f3c70f5f5df89a0.jpg?s=1400)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The U.S. Treasury Department said Tuesday it placed Kingpin Act sanctions on thr
 ### Source:
 
 1. [The Wall Street Journal](http://blogs.wsj.com/riskandcompliance/2013/07/30/treasury-slaps-sanctions-on-a-sinaloa-cartel-linked-notary/)
+1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/OLI365571.htm)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8578939)
 4. [Tehran Times](http://www.tehrantimes.com/Description.asp?Da=5/24/2005&Cat=2&Num=007)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

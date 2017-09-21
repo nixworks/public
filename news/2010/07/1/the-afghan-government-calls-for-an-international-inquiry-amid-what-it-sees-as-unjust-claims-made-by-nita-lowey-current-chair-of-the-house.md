@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ''Daily Times](http://www.dailytimes.com.pk/default.asp?page=2010%5C07%5C01%5Cstory_1-7-2010_pg20_8)
+1. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )
 
 ### Related:
 

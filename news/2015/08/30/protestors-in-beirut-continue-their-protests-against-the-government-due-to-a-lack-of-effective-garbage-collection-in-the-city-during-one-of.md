@@ -8,6 +8,7 @@ Bars and restaurants in Beirut closed Saturday in solidarity with anti-governmen
 ### Source:
 
 1. [NPR](http://www.npr.org/2015/08/29/435853661/demonstrators-storm-beirut-demanding-solutions-to-garbage-collection-crisis)
+1. [Cover Image](https://media.npr.org/assets/img/2015/08/30/ap_428144099214_wide-d0e0be60ed7887dce04cf6e7b0142c64a6ab87a1.jpg?s=1400)
 
 ### Related:
 

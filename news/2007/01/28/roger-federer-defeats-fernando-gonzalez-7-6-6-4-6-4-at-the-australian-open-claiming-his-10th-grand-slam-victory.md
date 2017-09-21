@@ -9,6 +9,7 @@ The Age 404 Page
 
 1. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=tennisNews&storyID=2007-01-28T113559Z_01_L28065207_RTRIDST_0_TENNIS-OPEN-FEDERER-FACTBOX-PICTURE.XML&WTmodLoc=SportsLanding-C7-Tennis-2)
 2. [The Age](http://www.theage.com.au/news/Sport/Federer-wins-third-Australian-Open-crown/2007/01/28/1169919215634.html)
+2. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

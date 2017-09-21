@@ -8,6 +8,7 @@ The Age 404 Page
 ### Source:
 
 1. [The Melbourne Age](http://www.theage.com.au/news/World/Lobato-guilty-of-arming-Timor-hit-squads/2007/03/07/1173166770605.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

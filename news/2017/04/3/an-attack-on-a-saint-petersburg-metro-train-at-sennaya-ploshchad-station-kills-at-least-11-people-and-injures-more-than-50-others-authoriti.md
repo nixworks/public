@@ -9,6 +9,7 @@ Ten people have been killed and 20 more injured in a bomb blast in the St Peters
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/st-petersburg-metro-explosion-russia-bomb-attack-casualties-blue-line-a7664251.html)
 2. [The New York Times](https://www.nytimes.com/2017/04/03/world/europe/st-petersburg-russia-explosion.html?_r=0)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/03/13/metro-explosion.jpg)
 
 ### Related:
 

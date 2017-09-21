@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://espn.go.com/sports/soccer/news/_/id/7153243/brazil-sports-minister-orlando-silva-resigns-scandal)
+1. [Cover Image](http://a.espncdn.com/i/espn/espn_logos/espn_red.png)
 
 ### Related:
 

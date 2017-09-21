@@ -9,6 +9,7 @@ A massive twin bombing in the Turkish capital Ankara this month that killed 102 
 
 1. [AFP via NDTV](http://www.ndtv.com/world-news/ankara-bombings-were-ordered-by-islamic-state-turkish-prosecutors-1237404)
 2. [AP](http://bigstory.ap.org/article/8b5b07e7a39b47e387865f352d2a6812/prosecutors-local-cell-behind-ankara-peace-rally-attacks)
+2. [Cover Image](http://i.ndtvimg.com/i/2015-10/ankara-blasts_650x400_51444811866.jpg)
 
 ### Related:
 

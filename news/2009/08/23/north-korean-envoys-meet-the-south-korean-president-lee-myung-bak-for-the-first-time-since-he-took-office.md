@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/20098233537509807.html)
 2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/08/23/52/0401000000AEN20090823000400315F.HTML)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

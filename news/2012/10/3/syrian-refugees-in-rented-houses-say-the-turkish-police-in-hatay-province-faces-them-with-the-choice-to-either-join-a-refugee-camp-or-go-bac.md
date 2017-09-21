@@ -11,6 +11,7 @@
 2. [CNN](http://edition.cnn.com/2012/10/02/world/meast/syria-refugee-crisis-turkey/index.html)
 3. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443635404578035822373395226.html)
 4. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443768804578034372539783626.html#printMode)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63260000/jpg/_63260420_63260419.jpg)
 
 ### Related:
 

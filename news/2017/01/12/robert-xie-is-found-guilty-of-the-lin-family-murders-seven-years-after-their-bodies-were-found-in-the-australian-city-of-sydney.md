@@ -8,6 +8,7 @@ The jury deliberating on the fate of accused murderer Robert Xie is having troub
 ### Source:
 
 1. [9 News](http://www.9news.com.au/national/2017/01/12/13/56/xie-jury-struggle-with-verdict)
+1. [Cover Image](http://prod.static9.net.au/_/media/2017/01/12/14/27/xie.ashx)
 
 ### Related:
 

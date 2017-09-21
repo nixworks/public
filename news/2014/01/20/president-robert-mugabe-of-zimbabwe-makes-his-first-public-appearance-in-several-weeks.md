@@ -8,6 +8,7 @@ Zimbabwe President Robert Mugabe appeared in public for the first time in severa
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/01/20/us-zimbabwe-mugabe-idUSBREA0J0KC20140120)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140120&t=2&i=830989059&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0J0SK200)
 
 ### Related:
 

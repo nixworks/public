@@ -8,6 +8,7 @@ Dozens of people are killed, including six peacekeepers from Chad, in the latest
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25520701)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71960000/jpg/_71960050_y8lhg07q.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/17/us-japan-economy-bond-idUSTRE72G9EG20110317?feedType=RSS&feedName=japan&virtualBrandChannel=10464&WT.tsrc=Social%20Media&WT.z_smid=twtr-japan_reuters&WT.z_smid_dest=Twitter)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

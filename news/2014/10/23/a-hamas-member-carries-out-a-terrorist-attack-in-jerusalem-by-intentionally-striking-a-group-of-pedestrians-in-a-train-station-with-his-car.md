@@ -8,6 +8,7 @@ Silwan branch of PA leader&#8217;s party praises &#8216;hero who ran over settle
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/fatah-honors-jerusalem-hit-and-run-terrorist/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/04/f110326ns77.jpg)
 
 ### Related:
 

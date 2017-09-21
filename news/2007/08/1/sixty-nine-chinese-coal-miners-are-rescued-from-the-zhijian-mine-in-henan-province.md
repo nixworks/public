@@ -8,6 +8,7 @@ Authorities in China say rescuers have pulled out 69 coal miners alive, ending a
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/01/1994342.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2519654-1x1-700x700.jpg)
 
 ### Related:
 

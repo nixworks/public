@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=10664&Cr=sudan&Cr1=)
+1. [Cover Image](/News/dh/photos/large/05-07ramcharan-stout.jpg)
 
 ### Related:
 

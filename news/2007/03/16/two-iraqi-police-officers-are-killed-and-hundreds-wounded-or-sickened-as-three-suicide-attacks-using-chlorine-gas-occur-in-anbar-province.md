@@ -8,6 +8,7 @@ Three suicide attacks in Anbar Province employed a tactic that insurgents began 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/03/17/world/middleeast/17cnd-iraq.html?_r=1&ref=middleeast&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

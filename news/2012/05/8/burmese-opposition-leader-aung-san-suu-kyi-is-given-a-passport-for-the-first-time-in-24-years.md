@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17995837)
 2. [Straits Times](http://www.straitstimes.com/The-Big-Story/The-Big-Story-2/Story/STIStory_796575.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60096000/jpg/_60096524_014695766-1.jpg)
 
 ### Related:
 

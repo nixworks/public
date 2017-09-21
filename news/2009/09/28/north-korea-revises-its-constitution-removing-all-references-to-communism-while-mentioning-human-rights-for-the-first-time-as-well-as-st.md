@@ -11,6 +11,7 @@
 2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/09/116_52641.html)
 3. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20090929&56&615725)
 4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSSEO253213)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Russian Soyuz capsule landed onthe Kazakh steppe on Monday, safely delivering 
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iVlR4slH4k5pfZ5zxY9te-YDSPZw)
 2. [Reuters](http://www.reuters.com/article/idUSL5E8MJ02F20121119)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

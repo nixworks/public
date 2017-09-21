@@ -8,6 +8,7 @@ Fighting comes as NTC offers last chance to loyalists of deposed leader to join 
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/09/2011917154358332235.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/9/18/20119181323075734_20.jpg)
 
 ### Related:
 

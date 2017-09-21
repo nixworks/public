@@ -8,6 +8,7 @@ The immigrants were coming from Turkey, and rescuers were seeking nine other peo
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2012/12/16/world/europe/18-men-drown-trying-to-reach-greece.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

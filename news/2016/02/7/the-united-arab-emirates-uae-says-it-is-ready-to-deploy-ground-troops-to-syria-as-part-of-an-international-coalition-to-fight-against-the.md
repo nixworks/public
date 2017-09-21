@@ -8,6 +8,7 @@ Announcement comes after Syria issues threat, warning to send back any unwelcome
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/02/uae-ready-send-ground-troops-syria-160207103946820.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2016/2/7/ac32dfd087074e17b8b33491cc5bcec4_18.jpg)
 
 ### Related:
 

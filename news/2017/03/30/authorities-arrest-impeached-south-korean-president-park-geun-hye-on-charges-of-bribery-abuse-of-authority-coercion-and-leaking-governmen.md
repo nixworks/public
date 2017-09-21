@@ -8,6 +8,7 @@ Park Geun-hye is taken to a detention centre south of Seoul after a court approv
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39449681)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/16DA0/production/_95400639_a7c4deaf-94e1-4d28-8752-9554df5a771e.jpg)
 
 ### Related:
 

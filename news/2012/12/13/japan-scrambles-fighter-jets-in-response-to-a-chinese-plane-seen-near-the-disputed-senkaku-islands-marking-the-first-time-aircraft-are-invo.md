@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/201212138729196598.html)
 2. [CNN](http://edition.cnn.com/2012/12/13/world/asia/japan-china-disputed-islands/index.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/13//2012121316341240734_20.jpg)
 
 ### Related:
 

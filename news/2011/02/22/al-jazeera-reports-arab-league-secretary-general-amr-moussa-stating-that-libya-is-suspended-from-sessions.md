@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/22/live-blog-libya-feb-22)
 2. [Bloomberg](http://www.bloomberg.com/news/2011-02-21/arab-league-to-discuss-libya-turmoil-tomorrow-jazeera-says.html)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4032530,00.html)
+3. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

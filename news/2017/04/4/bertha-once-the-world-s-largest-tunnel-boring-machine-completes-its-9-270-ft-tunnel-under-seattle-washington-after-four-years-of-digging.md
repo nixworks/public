@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Wired](https://www.wired.com/2017/04/4-years-seattles-giant-tunneling-machine-finally-breaks/)
+1. [Cover Image](https://www.wired.com/wp-content/uploads/2017/04/Bertha-tunneling-machineHP-1-1200x630-e1491418105276.jpg)
 
 ### Related:
 

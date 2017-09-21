@@ -9,6 +9,7 @@ Former South African President Nelson Mandela, 94, is back home in Johannesburg 
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21728050)
 2. [NBC](http://www.nbcnews.com/id/51115059)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64947000/jpg/_64947815_mhrv3qtt.jpg)
 
 ### Related:
 

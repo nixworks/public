@@ -8,6 +8,7 @@ Michigan must begin its presidential recount at noon Monday, a federal judge rul
 ### Source:
 
 1. [The San Diego Union-Tribune](http://www.sandiegouniontribune.com/news/us-politics/ct-michigan-recount-20161204-story.html)
+1. [Cover Image](http://www.trbimg.com/img-584509c6/turbine/ct-michigan-recount-20161204)
 
 ### Related:
 

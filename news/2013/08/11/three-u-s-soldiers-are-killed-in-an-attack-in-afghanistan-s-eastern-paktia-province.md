@@ -8,6 +8,7 @@ Soldiers killed in attack in Paktia province near border with Pakistan.
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/08/2013811135855279209.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/10/1/2011101133312513580_20.jpg)
 
 ### Related:
 

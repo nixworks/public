@@ -8,6 +8,7 @@ The Gambian president bans female genital mutilation - in a country where 76% of
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-34921135)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8D5A/production/_86868163_yahya.jpg)
 
 ### Related:
 

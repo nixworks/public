@@ -10,6 +10,7 @@ A video has surfaced showing an Agriculture Department official regaling an NAAC
 1. [CNN](http://edition.cnn.com/2010/POLITICS/07/20/agriculture.employee.naacp/#fbid=X40jhuCTauq)
 2. [Fox News](http://www.foxnews.com/politics/2010/07/19/clip-shows-usda-official-admitting-withheld-help-white-farmer/)
 3. [mediamatters](http://mediamatters.org/research/201007200047)
+3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2010/07/19/clip-shows-usda-official-admitting-withheld-help-white-farmer/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446940140019.jpg?ve=1)
 
 ### Related:
 

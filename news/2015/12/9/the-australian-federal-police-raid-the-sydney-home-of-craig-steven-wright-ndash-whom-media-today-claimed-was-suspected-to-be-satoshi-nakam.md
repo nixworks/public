@@ -8,6 +8,7 @@ The AFP raids the home of a Sydney-based digital-currency entrepreneur linked to
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-12-09/sydney-home-of-suspected-bitcoin-founder-raided-by-afp/7014254)
+1. [Cover Image](http://www.abc.net.au/news/image/7015134-1x1-700x700.jpg)
 
 ### Related:
 

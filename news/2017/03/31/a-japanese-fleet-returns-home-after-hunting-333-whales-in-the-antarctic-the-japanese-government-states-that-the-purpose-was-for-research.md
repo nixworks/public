@@ -8,6 +8,7 @@ The government is skirting an international ban on whale hunting by saying theyâ
 ### Source:
 
 1. [New York Magazine](http://nymag.com/daily/intelligencer/2017/03/japan-slaughters-333-whales-in-annual-antarctic-hunt.html)
+1. [Cover Image](http://pixel.nymag.com/imgs/daily/intelligencer/2017/03/31/31-japan-whaling-minke.w1200.h630.jpg)
 
 ### Related:
 

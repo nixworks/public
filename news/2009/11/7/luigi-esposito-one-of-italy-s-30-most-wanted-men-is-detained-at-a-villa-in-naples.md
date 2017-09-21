@@ -9,6 +9,7 @@ Italian police say they have arrested one of the country&#039;s leading organise
 
 1. [ABC News](http://www.abc.net.au/news/stories/2009/11/08/2736331.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8348864.stm)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

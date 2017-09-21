@@ -8,6 +8,7 @@ A Dutch tourist has confessed to killing a British fitness instructor on a Kashm
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/india/9977192/Dutch-tourist-confesses-to-murder-of-Briton-stabbed-45-times.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02529/Sarah-Groves_Srini_2529298k.jpg)
 
 ### Related:
 

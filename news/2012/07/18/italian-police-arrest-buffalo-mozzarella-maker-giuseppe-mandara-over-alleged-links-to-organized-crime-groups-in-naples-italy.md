@@ -8,6 +8,7 @@ Italian police have arrested the head of the biggest buffalo mozzarella maker in
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/armani-of-mozzarella-mafia-big-cheese-arrested-20120718-229h7.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/2/9/h/e/image.related.articleLeadwide.620x349.229h7.png/1342578546700.jpg)
 
 ### Related:
 

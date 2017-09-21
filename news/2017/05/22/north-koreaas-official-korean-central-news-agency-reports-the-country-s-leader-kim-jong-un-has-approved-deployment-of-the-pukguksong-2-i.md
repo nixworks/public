@@ -9,6 +9,7 @@ The United Nations Security Council will hold a closed-door session Tuesday to d
 
 1. [The New York Times](https://www.nytimes.com/2017/05/22/world/asia/north-korea-missile-test.html?_r=0)
 2. [USA Today](https://www.usatoday.com/story/news/2017/05/22/north-korea-says-mass-produce-ballistic-missile/102007226/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

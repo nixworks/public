@@ -10,6 +10,7 @@ More Syrians have been killed in the three weeks since peace talks began than at
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/syria-fighting-age-men-leave-homs-22458242)
 2. [Reuters](http://www.reuters.com/article/2014/02/12/us-syria-crisis-russia-aid-idUSBREA1B0HN20140212)
 3. [Reuters](http://www.reuters.com/article/2014/02/12/us-syria-crisis-talks-idUSBREA1B0TX20140212)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140212&t=2&i=837833504&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1B134B00)
 
 ### Related:
 

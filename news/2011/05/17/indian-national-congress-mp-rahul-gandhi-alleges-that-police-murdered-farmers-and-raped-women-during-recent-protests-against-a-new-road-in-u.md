@@ -8,6 +8,7 @@ A row breaks out in India after Rahul Gandhi accuses police of killing farmers a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13421101)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52671000/jpg/_52671496_52671495.jpg)
 
 ### Related:
 

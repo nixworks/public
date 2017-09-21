@@ -8,6 +8,7 @@ A Euro MP must pay a total of £575 after refusing to pay her TV licence fee in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-south-east-wales-15593559)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56477000/jpg/_56477445_jex_1161433_de27-1.jpg)
 
 ### Related:
 

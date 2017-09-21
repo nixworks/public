@@ -11,6 +11,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 2. [Hurriyet](http://www.hurriyetdailynews.com/n.php?n=suspected-kurd-rebels-blow-up-iran-turkey-gas-pipeline-2010-07-21)
 3. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Suspected-Kurd-rebels-blow-up-Iran-Turkey-gas-pipeline/articleshow/6195815.cms)
 4. [UPI](http://www.upi.com/Science_News/Resource-Wars/2010/07/21/PKK-blamed-for-Turkish-pipeline-attack/UPI-22211279719857/)
+4. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)
 
 ### Related:
 

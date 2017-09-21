@@ -8,6 +8,7 @@ The internet is running out of web addresses, with less than 10 per cent of curr
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/technology/news/7020917/Grave-consequences-if-web-community-doesnt-switch-to-new-address-protocol.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01371/fibre-optics_1371289a.jpg)
 
 ### Related:
 

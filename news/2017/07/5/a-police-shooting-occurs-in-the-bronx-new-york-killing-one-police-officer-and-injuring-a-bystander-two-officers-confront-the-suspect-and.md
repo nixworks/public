@@ -8,6 +8,7 @@ Miosotis Familia, a 12-year veteran of the force, was shot in the head while sit
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/05/nyregion/nypd-bronx-police-shooting.html)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/05/nyregion/05nypdshot/05nypdshot-facebookJumbo.jpg)
 
 ### Related:
 

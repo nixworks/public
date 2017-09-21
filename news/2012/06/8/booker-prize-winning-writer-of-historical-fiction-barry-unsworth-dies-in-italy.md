@@ -9,6 +9,7 @@
 
 1. [The Guardian](http://www.guardian.co.uk/books/2012/jun/08/barry-unsworth-booker-prizewinner-dies)
 2. [The New York Times](http://www.nytimes.com/2012/06/08/books/barry-unsworth-historical-novelist-dies-at-81.html?_r=1)
+2. [Cover Image](https://static01.nyt.com/images/2012/06/08/arts/UNSWORTH-obit/UNSWORTH-obit-superJumbo.jpg)
 
 ### Related:
 

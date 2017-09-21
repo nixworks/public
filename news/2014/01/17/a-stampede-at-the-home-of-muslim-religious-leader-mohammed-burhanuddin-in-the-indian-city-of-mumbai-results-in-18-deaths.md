@@ -8,6 +8,7 @@ A stampede killed at least 18 people in Mumbai when a large crowd gathered to pa
 ### Source:
 
 1. [SBS World News](http://www.sbs.com.au/news/article/2014/01/18/india-stampede-kills-18-mumbai)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/india_religion_bohra_aap.jpg)
 
 ### Related:
 

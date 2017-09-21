@@ -8,6 +8,7 @@ German Chancellor Angela Merkel announced a plan to register and distribute inco
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/03/Germanys-Merkel-announces-plan-to-distribute-refugees-throughout-EU/1601446575770/?spt=mps&or=2)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/1601446575770/2015/6/67407a943fb8ce35ee2126bec780ebc4/v1.5/Germanys-Merkel-announces-plan-to-distribute-refugees-throughout-EU.jpg)
 
 ### Related:
 

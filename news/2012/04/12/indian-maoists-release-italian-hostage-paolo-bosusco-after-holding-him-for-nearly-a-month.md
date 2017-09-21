@@ -8,6 +8,7 @@ After being in captivity for nearly a month, Italian national Paolo Bosusco has 
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/after-29-days-italian-hostage-released-by-maoists-196625)
+1. [Cover Image](http://i.ndtvimg.com/mt/2012-04/Paolo_Bosusco_after_release_295.jpg)
 
 ### Related:
 

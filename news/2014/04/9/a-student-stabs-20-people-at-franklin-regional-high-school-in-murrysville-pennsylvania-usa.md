@@ -8,6 +8,7 @@ The stabbings were reported at Franklin Regional High School, in the suburb of M
 ### Source:
 
 1. [NBC](http://www.nbcnews.com/news/us-news/school-stabbing-spree-20-hurt-pittsburgh-area-attack-n75536)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2014_15/312966/140409-pa-school-stabbings-jhc-1131_d58b744200033c96ab6424882cb0ac71.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

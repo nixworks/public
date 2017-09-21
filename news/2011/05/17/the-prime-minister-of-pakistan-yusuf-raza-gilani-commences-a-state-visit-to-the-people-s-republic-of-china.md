@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/05/17/us-china-pakistan-idUSTRE74G0KT20110517?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110517&t=2&i=416452173&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-17T131600Z_01_BTRE74G0CZ100_RTROPTP_0_PAKISTAN-CHINA)
 
 ### Related:
 

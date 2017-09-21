@@ -9,6 +9,7 @@ The UVA frat that was a subject of a sensational article in Rolling Stone about 
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/uva-fraternity-sues-rolling-stone-magazine-25-million-n460316)
 2. [The Washington Post](http://www.washingtonpost.com/news/grade-point/wp/2015/11/09/phi-psi-chapter-at-u-va-files-25-million-lawsuit-against-rolling-stone/)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_46/1295591/151109-phi-kappa-psi-1941_27d518c4d166df766bf18b4e82f153fe.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

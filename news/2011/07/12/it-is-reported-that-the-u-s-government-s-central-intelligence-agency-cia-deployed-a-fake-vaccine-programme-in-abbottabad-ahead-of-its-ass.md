@@ -8,6 +8,7 @@ The CIA ran a fake vaccination programme in the Pakistani town of Abbottabad to 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14117438)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52447000/jpg/_52447774_52447773.jpg)
 
 ### Related:
 

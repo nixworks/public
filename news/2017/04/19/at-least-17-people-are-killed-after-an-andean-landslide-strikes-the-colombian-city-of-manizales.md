@@ -9,6 +9,7 @@ At least 11 people were killed and 20 are missing after a landslide hit several 
 
 1. [Reuters via ''The Telegraph](http://www.telegraph.co.uk/news/2017/04/20/colombia-landslide-kills-least-17-rains-lash-andes/)
 2. [Reuters](http://www.reuters.com/article/us-colombia-landslide-idUSKBN17L24K?il=0)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170419&t=2&i=1181225839&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3I1BM)
 
 ### Related:
 

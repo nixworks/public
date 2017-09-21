@@ -8,6 +8,7 @@ Tributes pour in for the legendary guitarist and songwriter after he dies in Mis
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39318602)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11E24/production/_95225237_mediaitem95224964.jpg)
 
 ### Related:
 

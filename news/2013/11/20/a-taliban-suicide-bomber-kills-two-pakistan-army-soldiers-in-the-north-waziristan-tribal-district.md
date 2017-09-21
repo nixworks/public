@@ -8,6 +8,7 @@ Security checkpoints were targeted in the attacks.
 ### Source:
 
 1. [The Express Tribune](http://tribune.com.pk/story/634277/attack-at-security-checkpoint-kills-two-in-north-waziristan/)
+1. [Cover Image](https://c.tribune.com.pk/2013/11/634277-blastcrimescenepolicereuters-1384927360-528-640x480.jpg)
 
 ### Related:
 

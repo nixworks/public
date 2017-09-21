@@ -9,6 +9,7 @@ A court in eastern China has sentenced dissident writer Zhu Yufu to seven years 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-16977615)
 2. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/20120210/news_20120210_56_817637.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

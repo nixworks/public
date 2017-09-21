@@ -9,6 +9,7 @@ French President Francois Hollande fired back at Donald Trump on Saturday after 
 
 1. [Reuters](http://www.reuters.com/article/us-france-usa-paris-idUSKBN1640CD)
 2. [The New York Times](https://www.nytimes.com/2017/02/25/world/europe/frances-president-criticizes-trump-over-paris-remarks.html?_r=0)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170225&t=2&i=1174017067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1O085)
 
 ### Related:
 

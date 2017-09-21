@@ -8,6 +8,7 @@ Surprise move follows data showing economic dip amid new fears of deepening glob
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/2015/aug/11/china-devalues-yuan-by-2-to-boost-flagging-economy)
+1. [Cover Image](https://i.guim.co.uk/img/media/42b76a2fee5763a3c0949cf421f82526cf36f8c0/0_0_4096_2458/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0213dc6395530a00c828902ff1011d54)
 
 ### Related:
 

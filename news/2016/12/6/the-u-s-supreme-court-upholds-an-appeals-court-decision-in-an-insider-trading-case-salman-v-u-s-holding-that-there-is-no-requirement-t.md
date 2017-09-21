@@ -8,6 +8,7 @@ Bassam Salman, a Chicago grocery wholesaler, received stock tips from a friend, 
 ### Source:
 
 1. [Scotusblog](http://www.scotusblog.com/2016/12/opinion-analysis-court-upholds-friends-and-family-insider-trading-conviction/#more-249652)
+1. [Cover Image](http://www.scotusblog.com/wp-content/uploads/2014/09/SocialLogo_400x400.jpg)
 
 ### Related:
 

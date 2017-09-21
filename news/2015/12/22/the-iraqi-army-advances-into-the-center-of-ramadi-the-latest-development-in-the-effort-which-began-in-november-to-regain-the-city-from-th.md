@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-ramadi-idUSKBN0U50TL20151222)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151222&t=2&i=1104119335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBL0F9)
 
 ### Related:
 

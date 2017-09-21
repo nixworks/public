@@ -8,6 +8,7 @@ Princess Christina, the younger daughter of King Juan Carlos of Spain, has been 
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2014/01/07/spanish-princess-charged-with-money-laundering-and-tax-evasion/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

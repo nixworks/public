@@ -8,6 +8,7 @@ Venezuelan President Hugh Chavez says he will go to Cuba Saturday to undergo che
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2011/07/16/Chavez-back-in-Cuba-for-chemotherapy/UPI-71351310830179/)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/71351310830179/2011/1/a21c9e2f3712a183cea203634cb7838f/v2.1/Chavez-back-in-Cuba-for-chemotherapy.jpg)
 
 ### Related:
 

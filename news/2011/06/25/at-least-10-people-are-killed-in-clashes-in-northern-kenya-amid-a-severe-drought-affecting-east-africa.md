@@ -8,6 +8,7 @@ Ten killed in clashes over grazing and water and Red Cross says several have die
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/africa/2011/06/201162514301313598.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/25/2011625142947778734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/r-macedonia-opposition-says-will-boycott-election-2016-4)
+1. [Cover Image](http://static4.businessinsider.com/image/5706251a5124c9254c8b4567-1190-625/macedonia-opposition-says-will-boycott-election.jpg)
 
 ### Related:
 

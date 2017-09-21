@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Jakarta Globe](http://www.thejakartaglobe.com/news/jakarta/six-dead-and-nine-injured-in-toll-road-collision-rock-stars-son-involved)
+1. [Cover Image](http://img.thejakartaglobe.com/2013/09/3_preview-1024x728.jpg)
 
 ### Related:
 

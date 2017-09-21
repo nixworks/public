@@ -9,6 +9,7 @@
 
 1. [The New York Times](http://www.nytimes.com/2016/05/27/world/europe/greece-aristotle-tomb.html)
 2. [UPI](http://www.upi.com/Science_News/2016/05/26/Archaeologists-say-theyve-discovered-Aristotles-tomb/4941464287698/?spt=hs&or=sn)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/4941464287698/2016/1/14642941043874/v2.1/Archaeologists-say-theyve-discovered-Aristotles-tomb.jpg)
 
 ### Related:
 

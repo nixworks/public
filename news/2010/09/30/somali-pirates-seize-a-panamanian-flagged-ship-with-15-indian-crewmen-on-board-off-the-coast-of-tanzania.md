@@ -9,6 +9,7 @@
 
 1. [Emirates 24/7](http://www.emirates247.com/2.277/logistics/uae-tanker-hijacked-in-somalia-2010-09-30-1.297500)
 2. [The Citizen](http://thecitizen.co.tz/news/4-national-news/4465-pirates-seize-ship-in-tanzania-waters.html)
+2. [Cover Image](http://cache.emirates247.com/res/img/eb247/logo-1024x576.png)
 
 ### Related:
 

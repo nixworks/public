@@ -8,6 +8,7 @@ Japan has been allowed to enter the Trans Pacific Partnership trade talks by the
 ### Source:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10878850)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201317/SCCZEN_A_100209NZHMMGROSER8_1024x768.jpg)
 
 ### Related:
 

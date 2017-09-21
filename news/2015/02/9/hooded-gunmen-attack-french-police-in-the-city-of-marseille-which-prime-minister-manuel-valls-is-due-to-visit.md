@@ -8,6 +8,7 @@ Pierre-Marie Bourniquel, Marseille police chief, forced to take evasive action a
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/11400122/Marseille-police-fired-on-by-hooded-gunmen.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03192/castellane_3192675k.jpg)
 
 ### Related:
 

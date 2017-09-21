@@ -10,6 +10,7 @@ ARE YOU AFFECTED BY THE STORM? SEND IN YOUR PHOTOS AND VIDEO HERE. - New Zealand
 1. [ABC News Australia](http://www.abc.net.au/news/2015-03-16/all-schools-in-cyclone-devastated-vanuatu-destroyed-damaged-un/6323260)
 2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11418050&ref=nzh_tw)
 3. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-2997419/UN-says-24-confirmed-killed-Vanuatu-cyclone.html)
+3. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201512/SCCZEN_160315NZHAGPAM02_1024x768.jpg)
 
 ### Related:
 

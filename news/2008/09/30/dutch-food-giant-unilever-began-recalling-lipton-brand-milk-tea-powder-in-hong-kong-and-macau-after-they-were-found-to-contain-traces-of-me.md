@@ -9,6 +9,7 @@ To Date, 27 Arrests In China Over Chemically-Tainted Milk Scandal
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7643391.stm)
 2. [CBS News](http://www.cbsnews.com/stories/2008/09/30/world/main4489172.shtml)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2008/09/30/d98d40ae-a642-11e2-a3f0-029118418759/image4489248x.jpg)
 
 ### Related:
 

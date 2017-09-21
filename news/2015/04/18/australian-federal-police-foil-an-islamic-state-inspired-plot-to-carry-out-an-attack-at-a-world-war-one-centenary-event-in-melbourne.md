@@ -8,6 +8,7 @@ Australian police charge a teenager in connection with what they say was an Isla
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-australia-32361721)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82402000/jpg/_82402390_82402389.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ South African rugby union player Bees Roux was charged with murder on Monday aft
 ### Source:
 
 1. [AP via ''Sydney Morning Herald](http://www.smh.com.au/rugby-union/union-news/bulls-star-charged-with-murdering-policeman-with-his-hands-20100831-147m1.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/4/7/o/n/image.related.articleLeadwide.620x349.147m1.png/1283227672137.jpg)
 
 ### Related:
 

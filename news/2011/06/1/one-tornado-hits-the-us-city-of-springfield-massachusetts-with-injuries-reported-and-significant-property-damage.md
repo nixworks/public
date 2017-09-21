@@ -14,6 +14,7 @@ At least two confirmed tornadoes descended upon towns in western Massachusetts o
 5. [NECN](http://www.necn.com/06/03/11/bMatt-Noyes-bWestfield-to-Charlton-MA-Ju/landing_weathernewengland.html?blockID=532289&feedID=6240)
 6. [The Herald](http://www.heraldnews.com/breaking/x1293701363/Tornado-watch-issued-for-Norfolk-County)
 7. [WWLP](http://www.wwlp.com/dpp/news/local/hampden/Tornado-touches-down-in-downtown-Spfld)
+7. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/06/01/massachusetts.tornado/tzvids.springfield.tornado.ahl.jpg)
 
 ### Related:
 

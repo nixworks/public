@@ -8,6 +8,7 @@ Turkey starts demolishing a statue dedicated to reconciliation with Armenia, des
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13199787)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52349000/jpg/_52349337_52349336.jpg)
 
 ### Related:
 

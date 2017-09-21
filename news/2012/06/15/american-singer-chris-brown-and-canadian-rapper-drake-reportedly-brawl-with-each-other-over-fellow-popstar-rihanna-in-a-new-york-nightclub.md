@@ -8,6 +8,7 @@ Brown reportedly needed eight stitches to close up his wounds.
 ### Source:
 
 1. [MTV](http://www.mtv.com/news/articles/1687556/chris-brown-drake-fight-police-video.jhtml)
+1. [Cover Image](http://imagesmtv-a.akamaihd.net/uri/mgid:ao:image:mtv.com:77355?quality=0.8&amp;format=jpg&amp;width=1440&amp;height=810&amp;.jpg)
 
 ### Related:
 

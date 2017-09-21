@@ -9,6 +9,7 @@ A rash of fires were blazing this evening in four separate Detroit neighborhoods
 
 1. [ABC News America](http://abcnews.go.com/US/fires-engulf-detroit-neighborhoods/story?id=11579438)
 2. [WISN](http://www.wisn.com/r/24918109/detail.html)
+2. [Cover Image](http://a.abcnews.com/images/US/abc_fire_detroit_100907_wmain.jpg)
 
 ### Related:
 

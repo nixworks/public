@@ -9,6 +9,7 @@ Images show a backpack and apparent fragments of a pressure cooker as bureau pro
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/04/2013416152112944580.html)
 2. [BBC](http://www.bbc.co.uk/newsbeat/22178997)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/17/20134175406415734_20.jpg)
 
 ### Related:
 

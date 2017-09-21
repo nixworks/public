@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20880301)
 2. [Reuters](http://www.reuters.com/article/2013/01/01/us-korea-north-idUSBRE90001S20130101)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130101&t=2&i=690117521&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90007GG00)
 
 ### Related:
 

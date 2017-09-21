@@ -9,6 +9,7 @@ Kyrgyzstan&#039;s ousted president Kurmanbek Bakiyev has said he will resign if 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201041310429483622.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/kyrgyzstan/7586056/Ousted-Kyrgyz-President-Bakiyev-ready-to-quit.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01289/kurmanbek_bakiyev_1289696a.jpg)
 
 ### Related:
 

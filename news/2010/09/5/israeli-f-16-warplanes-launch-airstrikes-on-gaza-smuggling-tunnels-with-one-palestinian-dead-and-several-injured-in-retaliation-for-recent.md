@@ -12,6 +12,7 @@ Air force bombs 3 smuggling tunnels in Gaza Strip meant to help kidnap and attac
 3. [Jerusalem Post](http://www.jpost.com/Features/FrontLines/Article.aspx?id=186124)
 4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=187102)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/05/c_13478728.htm)
+5. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=141269)
 
 ### Related:
 

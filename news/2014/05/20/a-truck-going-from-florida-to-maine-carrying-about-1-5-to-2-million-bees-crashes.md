@@ -8,6 +8,7 @@ ELLSWORTH, Maine — A truck hauling millions of honeybees north to blueberry ba
 ### Source:
 
 1. [Bangor Daily News](http://bangordailynews.com/2014/05/21/business/millions-of-bees-in-delaware-accident-were-headed-for-maine/)
+1. [Cover Image](https://bdn-data.s3.amazonaws.com/uploads/2014/05/10040961_H12960185-600x401.jpg)
 
 ### Related:
 

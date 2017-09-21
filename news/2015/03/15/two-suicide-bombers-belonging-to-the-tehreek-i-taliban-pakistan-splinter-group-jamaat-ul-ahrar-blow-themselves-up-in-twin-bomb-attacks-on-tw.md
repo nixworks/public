@@ -9,6 +9,7 @@ At least 14 people dead and dozens wounded in twin bombing targeting two churche
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/03/lahore-churches-hit-deadly-bomb-attacks-150315074103093.html)
 2. [The News Pakistan](http://www.thenews.com.pk/article-178233-Four-killed,-20-injured-as-blasts-target-Lahore-Church-)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/3/15/a76ad24b00114d45b88ea1e84effcb26_18.jpg)
 
 ### Related:
 

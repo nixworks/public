@@ -9,6 +9,7 @@ For web users in countries where the Internet is restricted, there is nothing qu
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-17167770)
 2. [Russia Today](http://rt.com/news/internet-china-occupy-obama-257/)
+2. [Cover Image](https://img.rt.com/files/oldfiles/news/internet-china-occupy-obama-257/obama-president-barack.si.jpg)
 
 ### Related:
 

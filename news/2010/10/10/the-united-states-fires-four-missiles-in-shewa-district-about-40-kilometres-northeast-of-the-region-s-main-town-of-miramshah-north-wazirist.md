@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11509536)
 2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/04-north-waziristan-drone-attack-qs-04)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

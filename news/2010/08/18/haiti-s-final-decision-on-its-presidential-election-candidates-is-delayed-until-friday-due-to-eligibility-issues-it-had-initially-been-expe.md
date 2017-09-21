@@ -12,6 +12,7 @@ Electoral commission to rule of presidential bid by Wyclef Jean and others on Fr
 3. [News24](http://www.news24.com/Entertainment/CelebNews/Haiti-election-ruling-delayed-20100818)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Wyclef-Jean-Hatian-Presidential-Hopeful-And-Ex-Fugees-Singer-In-Hiding-After-Receiving-Threats/Article/201008315694765?f=rss)
 5. [The Guardian](http://www.guardian.co.uk/world/2010/aug/18/wyclef-jean-death-threats-haiti)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

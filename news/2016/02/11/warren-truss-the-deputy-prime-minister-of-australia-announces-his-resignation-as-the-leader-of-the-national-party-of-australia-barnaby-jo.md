@@ -9,6 +9,7 @@ Barnaby Joyce will stand unopposed for the leadership of the Nationals following
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-02-11/warren-truss-announces-retirement-as-nationals-leader/7159720)
 2. [ABC News](http://www.abc.net.au/news/2016-02-11/barnaby-joyce-named-as-new-nationals-leader/7161584)
+2. [Cover Image](http://www.abc.net.au/news/image/7160456-1x1-700x700.jpg)
 
 ### Related:
 

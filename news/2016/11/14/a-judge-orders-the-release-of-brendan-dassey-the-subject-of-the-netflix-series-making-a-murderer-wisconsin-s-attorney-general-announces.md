@@ -8,6 +8,7 @@ A federal judge has ordered the release of Brendan Dassey.
 ### Source:
 
 1. [WTMJ-TV](http://www.tmj4.com/news/local-news/judge-orders-release-of-brendan-dassey-pending-possible-retrial)
+1. [Cover Image](http://sharing.tmj4.com/sharescnn/photo/2016/08/12/Dassey_1471033389784_44204473_ver1.0_640_480.jpg)
 
 ### Related:
 

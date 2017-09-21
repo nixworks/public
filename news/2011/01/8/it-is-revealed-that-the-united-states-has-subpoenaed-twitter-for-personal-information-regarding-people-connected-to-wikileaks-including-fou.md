@@ -11,6 +11,7 @@ The US government has subpoenaed the social networking site Twitter for personal
 2. [CNN](http://www.cnn.com/2011/CRIME/01/08/us.wikileaks.twitter/index.html?hpt=T1)
 3. [The Guardian](http://www.guardian.co.uk/media/2011/jan/08/us-twitter-hand-icelandic-wikileaks-messages)
 4. [The Guardian](http://www.guardian.co.uk/media/2011/jan/08/wikileaks-calls-google-facebook-us-subpoenas)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

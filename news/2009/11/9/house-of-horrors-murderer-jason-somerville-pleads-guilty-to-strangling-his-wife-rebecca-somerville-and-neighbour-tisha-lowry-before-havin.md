@@ -9,6 +9,7 @@
 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2009/11/09/1245d36bdb87)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/house-of-horrors-guilty-plea-20091109-i4m1.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/i/4/m/a/image.related.thumbnail.320x214.i4m1.png/1257742243617.jpg)
 
 ### Related:
 

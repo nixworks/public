@@ -8,6 +8,7 @@ Elena Kagan becomes the third woman among the current nine justices, continuing 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/08/08/us/08kagan.html?src=me)
+1. [Cover Image](https://static01.nyt.com/images/2010/08/08/us/08kagan2/08kagan2-thumbStandard-v2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/43474726/ns/world_news-mideast_n_africa/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110621-iraq-bombing-hmed-2a.standard.jpg)
 
 ### Related:
 

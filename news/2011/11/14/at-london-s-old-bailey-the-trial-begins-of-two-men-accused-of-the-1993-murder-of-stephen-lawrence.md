@@ -8,6 +8,7 @@ The trial of two men charged with murdering black teenager Stephen Lawrence hear
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15716320)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56707000/jpg/_56707074_jex_1233138_de27-1.jpg)
 
 ### Related:
 

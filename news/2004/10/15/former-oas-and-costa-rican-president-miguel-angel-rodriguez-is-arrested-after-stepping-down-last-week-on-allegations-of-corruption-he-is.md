@@ -1,0 +1,23 @@
+### [2004-10-15](/news/2004/10/15/index.md)
+
+#  Former OAS and Costa Rican president, Miguel Angel Rodriguez, is arrested after stepping down last week on allegations of corruption. He is not formally charged but a judge is demanding him to testify. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/3748352.stm)
+
+### Related:
+
+1. [The Organization of American States urges Nicaragua and Costa Rica to withdraw their security forces from an island in the San Juan river. Google is blamed for the dispute and revises its maps. ](/news/2010/11/14/the-organization-of-american-states-urges-nicaragua-and-costa-rica-to-withdraw-their-security-forces-from-an-island-in-the-san-juan-river-g.md) _Context: Costa Rica, Organization of American States_
+2. [Venezuela says it will withdraw from the Organization of American States after the organization decided to call a meeting without Venezuela. ](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.md) _Context: Organization of American States_
+3. [Protesters demanding political reform leave Baghdad's Green Zone after camping for 24 hours in the heavily fortified government district. These activists, followers of Shi'ite Muslim cleric Muqtada al-Sadr, support Prime Minister Haider al-Abadi's anti-corruption proposals to replace party-affiliated ministers with technocrats. A grid-locked parliament has been unable to act on these changes. ](/news/2016/05/1/protesters-demanding-political-reform-leave-baghdad-s-green-zone-after-camping-for-24-hours-in-the-heavily-fortified-government-district-th.md) _Context: anti-corruption_
+4. [Peruvians protest in five cities, including the capital Lima, against the presidential candidacy of Keiko Fujimori, daughter of imprisoned ex-president Alberto Fujimori, who exactly 24 years ago this day carried out a coup by shutting down Congress and taking over the courts with the support of the military. Keiko Fujimori is the front runner in Sunday's April 10, 2016, election. Yesterday, Fujimori committed to respect democratic liberties and the rule of law, and to work against corruption, which some opponents have rejected. The Organization of American States says the election could lack credibility unless two recently-disqualified candidates are allowed to run. ](/news/2016/04/5/peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-fujimori-daughter-of-imprisoned-e.md) _Context: Organization of American States_
+5. [Hundreds of thousands in Brazil's major cities, some estimates say more than 3 million people, protest the weak economy and political corruption, and call for President Dilma Rousseff's impeachment. ](/news/2016/03/13/hundreds-of-thousands-in-brazil-s-major-cities-some-estimates-say-more-than-3-million-people-protest-the-weak-economy-and-political-corrup.md) _Context: anti-corruption_
+6. [Nicaragua deploys its military to help close its southern border in a dispute with Costa Rica over the passage of Cuban migrants on their way to the United States. Nicaragua's government said Costa Rica's decision to grant seven-day transit visas to 1,200 Cuban migrants who entered the country through Panama, "violated national sovereignty". Nicaraguan troops and riot police fired tear gas at people attempting to enter in what Costa Rica called a "humanitarian crisis". ](/news/2015/11/16/nicaragua-deploys-its-military-to-help-close-its-southern-border-in-a-dispute-with-costa-rica-over-the-passage-of-cuban-migrants-on-their-wa.md) _Context: Costa Rica_
+7. [Costa Rica's restive Turrialba Volcano erupts. ](/news/2015/10/24/costa-rica-s-restive-turrialba-volcano-erupts.md) _Context: Costa Rica_
+8. [The United Nations Committee on the Elimination of Racial Discrimination recommends that Costa Rica remove "Cocori" from schools because of its perceived racial connotation. ](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because-of.md) _Context: Costa Rica_
+9. [A Princess Tours catamaran, "Pura Vida Princess", catches fire and capsizes off the coast of Punta Leona, Costa Rica, while carrying 98 passengers and ten crew; the Costa Rican Red Cross confirms that three are dead. ](/news/2015/01/8/a-princess-tours-catamaran-pura-vida-princess-catches-fire-and-capsizes-off-the-coast-of-punta-leona-costa-rica-while-carrying-98-pass.md) _Context: Costa Rica_
+10. [Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/voters-in-costa-rica-go-to-the-polls-for-a-general-election.md) _Context: Costa Rica_

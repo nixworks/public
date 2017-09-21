@@ -12,6 +12,7 @@ At least 41 people were killed and 64 wounded in an attack on a camp filled with
 3. [TVNZ](http://tvnz.co.nz/world-news/bombs-kill-20-centre-displaced-in-pakistan-3470446)
 4. [The New Yorjk Times](http://www.nytimes.com/2010/04/18/world/asia/18pstan.html)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/17/c_13255848.htm)
+5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

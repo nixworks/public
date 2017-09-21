@@ -8,6 +8,7 @@ Irish police colluded in the IRA murders of two senior Northern Ireland policeme
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-25199800)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61799000/jpg/_61799987_breenbuchanonuntitled-1copy.jpg)
 
 ### Related:
 

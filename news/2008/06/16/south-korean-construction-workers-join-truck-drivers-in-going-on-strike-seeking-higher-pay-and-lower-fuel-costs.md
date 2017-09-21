@@ -8,6 +8,7 @@ South Korean construction workers joined striking truckers on Monday in the late
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSSEO28153520080616?sp=true)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080616&t=2&i=4782114&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-16T150216Z_01_SEO281535_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

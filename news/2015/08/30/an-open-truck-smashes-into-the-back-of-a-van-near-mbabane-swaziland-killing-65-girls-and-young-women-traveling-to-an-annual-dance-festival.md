@@ -9,6 +9,7 @@ The death toll from a massive truck crash in Swaziland on Friday, which claimed 
 
 1. [RT](https://www.rt.com/news/313813-swaziland-tragic-crash-girls/)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/swaziland/11833673/Dozens-of-women-killed-in-crash-en-route-to-King-of-Swazilands-dancing-virgin-festival.html)
+2. [Cover Image](https://img.rt.com/files/2015.08/article/55e23953c461882c7e8b456f.jpg)
 
 ### Related:
 

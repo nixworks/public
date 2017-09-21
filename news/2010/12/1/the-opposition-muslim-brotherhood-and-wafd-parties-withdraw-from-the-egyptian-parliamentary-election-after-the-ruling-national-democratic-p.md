@@ -9,6 +9,7 @@ Muslim Brotherhood and Wafd parties drop out of second round of voting after fai
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010121145450744767.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/dec/01/egypt-elections-opposition-fraud-claims)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/1/201012163353617621_20.jpg)
 
 ### Related:
 

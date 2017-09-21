@@ -8,6 +8,7 @@ Arch Coal, the second-largest U.S. coal miner, filed for Chapter 11 bankruptcy p
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-arch-coal-restructuring-idUSKCN0UP0MR20160111)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

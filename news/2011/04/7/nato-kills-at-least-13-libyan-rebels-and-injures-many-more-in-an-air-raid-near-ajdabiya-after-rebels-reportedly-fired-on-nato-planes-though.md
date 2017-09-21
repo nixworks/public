@@ -10,6 +10,7 @@ Rebels in eastern Libya say their forces have been mistakenly hit by a Nato air 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/20114711651619495.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12997181)
 3. [CBS](http://www.cbsnews.com/stories/2011/04/07/501364/main20051760.shtml)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606887_bn-304x171.jpg)
 
 ### Related:
 

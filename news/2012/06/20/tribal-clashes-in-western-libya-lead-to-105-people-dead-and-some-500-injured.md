@@ -8,6 +8,7 @@ A week of recent tribal clashes in mountainous parts of western Libya left 105 p
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18529139)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60958000/jpg/_60958597_012767984-1.jpg)
 
 ### Related:
 

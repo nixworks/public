@@ -9,6 +9,7 @@ Five people have been killed and three wounded when unknown gunmen opened fire o
 
 1. [AFP via ABC News](http://www.abc.net.au/news/stories/2011/02/03/3129269.htm?section=justin)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/164550.html)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

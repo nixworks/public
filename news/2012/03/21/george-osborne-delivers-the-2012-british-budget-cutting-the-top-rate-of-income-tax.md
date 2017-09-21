@@ -9,6 +9,7 @@ British finance minister George Osborne on Wednesday used his annual budget to c
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/world-business/britain-cuts-top-income-tax-rate-in-annual-budget-20120322-1vkr2.html)
 2. [The Guardian](http://www.guardian.co.uk/politics/blog/2012/mar/21/budget-2012-live-george-osborne-speech)
+2. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

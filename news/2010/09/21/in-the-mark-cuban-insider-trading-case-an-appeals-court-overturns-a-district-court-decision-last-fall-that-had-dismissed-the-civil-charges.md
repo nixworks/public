@@ -8,6 +8,7 @@ Appeals court says there is sufficient credible evidence to put SEC case back on
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/story/mark-cuban-inside-trading-case-revived-2010-09-21)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

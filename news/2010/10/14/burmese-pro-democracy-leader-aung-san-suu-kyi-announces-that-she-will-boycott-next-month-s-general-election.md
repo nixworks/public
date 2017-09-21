@@ -8,6 +8,7 @@ Burmese pro-democracy leader Aung San Suu Kyi will boycott the country&#039;s ge
 ### Source:
 
 1. [BBC via ABC News Australia](http://www.abc.net.au/news/stories/2010/10/14/3038552.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

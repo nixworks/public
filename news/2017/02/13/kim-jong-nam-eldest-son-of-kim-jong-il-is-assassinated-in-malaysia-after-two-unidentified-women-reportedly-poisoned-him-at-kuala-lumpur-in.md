@@ -8,6 +8,7 @@ North Korean dictator Kim Jong Un’s half-brother was assassinated Monday in Ma
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/world/2017/02/14/kim-jong-uns-half-brother-assassinated-in-malaysia.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/02/14/0/0/694940094001_5323113804001_Report-Kim-Jong-Un-s-half-brother-dies.jpg?ve=1)
 
 ### Related:
 

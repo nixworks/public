@@ -14,6 +14,7 @@
 5. [The Scotsman](http://news.scotsman.com/world/Head-of-massive-pharaoh-statue.6111536.jp)
 6. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/28/AR2010022801935.html)
 7. [Xinhua](http://news.xinhuanet.com/english2010/sci/2010-03/01/c_13191935.htm)
+7. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100228&t=2&i=68299601&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-02-28T194925Z_01_BTRE61R1J2H00_RTROPTP_0_EGYPT)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Four passengers were hurt Thursday when a powerful explosion ripped through a bu
 
 1. [Philstar](http://www.philstar.com/nation/2014/11/07/1389092/4-hurt-bukidnon-bus-bombing)
 2. [Retiredanalyst](http://retiredanalyst.blogspot.com/2014/11/3-injured-in-suspected-bus-bombing-in.html)
+2. [Cover Image](http://media.philstar.com/bukidnon-bus-bombing.jpg)
 
 ### Related:
 

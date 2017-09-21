@@ -8,6 +8,7 @@ At least 35 people were killed and 25 others wounded after a passenger bus crash
 ### Source:
 
 1. [Ariana News](http://ariananews.af/latest-news/35-killed-25-injured-in-zabul-traffic-accident/)
+1. [Cover Image](http://ariananews.af/wp-content/uploads/2016/09/paj1-660x330.jpg)
 
 ### Related:
 

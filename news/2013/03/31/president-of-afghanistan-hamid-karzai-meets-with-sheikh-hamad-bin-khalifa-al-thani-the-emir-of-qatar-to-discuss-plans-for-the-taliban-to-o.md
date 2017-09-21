@@ -8,6 +8,7 @@ Afghan president and Qatari emir discussed opening of office for Taliban in Doha
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/03/201333085839412631.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/30/2013330155431121734_20.jpg)
 
 ### Related:
 

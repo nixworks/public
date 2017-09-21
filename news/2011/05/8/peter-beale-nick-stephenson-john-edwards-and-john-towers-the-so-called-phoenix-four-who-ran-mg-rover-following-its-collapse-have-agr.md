@@ -8,6 +8,7 @@ The bosses who ran MG Rover when it collapsed have been banned from serving as d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-birmingham-13326666)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52604000/jpg/_52604109_mg.jpg)
 
 ### Related:
 

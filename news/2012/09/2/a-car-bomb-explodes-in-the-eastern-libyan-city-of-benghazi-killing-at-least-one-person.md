@@ -8,6 +8,7 @@ One person killed and another wounded in an explosion on busy street in Benghazi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/09/201292141228574419.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/2/201292143146869580_20.jpg)
 
 ### Related:
 

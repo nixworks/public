@@ -9,6 +9,7 @@ Almost 23,000 homes are still without power in Northern Ireland following the ex
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8598188.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0401/weather.html)
+2. [Cover Image](https://img.rasset.ie/0003270b-1600.jpg)
 
 ### Related:
 

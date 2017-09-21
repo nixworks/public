@@ -8,6 +8,7 @@ Authorities say 14 people were killed in the crash of a small executive jet at a
 ### Source:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/stories/2009/05/24/2579170.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

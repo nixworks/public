@@ -8,6 +8,7 @@ The Sydney Morning Herald 404 Page
 ### Source:
 
 1. [AP via Sydney Morning Herald](http://www.smh.com.au/news/World/Police-fire-shots-to-disperse-PNG-crowd/2007/08/06/1186252581497.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

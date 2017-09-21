@@ -8,6 +8,7 @@ A shake-up of school qualifications will mean GCSE exams in England are going to
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/education-19626663)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62937000/jpg/_62937674_015746135-1.jpg)
 
 ### Related:
 

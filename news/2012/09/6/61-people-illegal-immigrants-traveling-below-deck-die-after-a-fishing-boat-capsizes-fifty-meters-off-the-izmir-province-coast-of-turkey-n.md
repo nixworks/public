@@ -8,6 +8,7 @@ A boat carrying migrants capsizes off the coast of western Turkey killing at lea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19506379)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62722000/jpg/_62722571_b6at.jpg)
 
 ### Related:
 

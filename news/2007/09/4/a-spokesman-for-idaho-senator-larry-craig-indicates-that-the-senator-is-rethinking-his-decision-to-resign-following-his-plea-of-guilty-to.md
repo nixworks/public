@@ -8,6 +8,7 @@ Senator Larry E. Craig of Idaho, who announced on Saturday that he would resign,
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/09/05/washington/05charge.html?ex=1346644800&en=fb88aabaa2185e43&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

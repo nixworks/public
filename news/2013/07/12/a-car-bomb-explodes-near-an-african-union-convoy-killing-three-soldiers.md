@@ -8,3 +8,4 @@ MOGADISHU, July 12 - At least three people were killed Friday when a car bomb ta
 ### Source:
 
 1. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2013/07/three-dead-in-attack-on-african-troops-in-mogadishu/)
+1. [Cover Image](http://www.capitalfm.co.ke/news/files/2013/07/UN-ATTACK-MOGADISHU.jpg)

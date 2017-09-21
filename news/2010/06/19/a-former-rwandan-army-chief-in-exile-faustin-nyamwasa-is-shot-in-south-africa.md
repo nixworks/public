@@ -10,6 +10,7 @@ A former Rwandan army chief is in a critical condition having been shot in S Afr
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/06/201061918012764678.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10358171.stm)
 3. [News24](http://www.news24.com/SouthAfrica/News/Hit-in-Jhb-on-ex-Rwandan-army-chief-20100619)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Five suspected terrorists - including radical cleric Abu Hamza al-Masri - can be
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19842941)
 2. [CNN](http://edition.cnn.com/2012/10/05/world/europe/uk-abu-hamza-extradition/index.html?hpt=hp_t1)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63240000/jpg/_63240813_hamza.jpg)
 
 ### Related:
 

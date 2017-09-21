@@ -12,6 +12,7 @@ The rebel Free Syrian Army announces it has moved its command centre from Turkey
 3. [Daily Star](http://www.dailystar.com.lb/News/Local-News/2012/Sep-22/188895-fsa-attacks-lebanon-army-near-border-with-syria.ashx#axzz27CrahZyl)
 4. [Reuters](http://www.reuters.com/article/2012/09/22/syria-crisis-idUSL5E8KM4AF20120922)
 5. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/22/c_131867142.htm)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63051000/jpg/_63051458_63051457.jpg)
 
 ### Related:
 

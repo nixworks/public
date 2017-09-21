@@ -10,6 +10,7 @@ The storm is forecast to bring up to three inches of rain to the Carolinas. In T
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/national/beaches-open-as-tropical-depression-looms-off-carolinas/2016/05/28/974fc40a-24de-11e6-b944-52f7b1793dae_story.html)
 2. [NBC News](http://www.nbcnews.com/news/weather/tropical-storm-bonnie-forms-carolinas-flooding-rains-overwhelm-texas-n582181)
 3. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/282342.shtml)
+3. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_21/1556406/dji_0004e_4e1d9f57ed5222b5e773603e3d1f5d63.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

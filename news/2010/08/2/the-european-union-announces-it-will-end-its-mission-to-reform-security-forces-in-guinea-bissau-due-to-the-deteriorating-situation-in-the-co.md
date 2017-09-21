@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10841293)
 2. [News24](http://www.news24.com/Africa/News/EU-ends-G-Bissau-mission-20100802)
+2. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

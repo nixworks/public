@@ -9,6 +9,7 @@ Training camp reportedly run by Taliban leader Baitullah Mehsud targeted, killin
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/07/20097784914231489.html)
 2. [Reuters](http://www.reuters.com/article/GCA-Afghanistan-Pakistan/idUSTRE5661OH20090707)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

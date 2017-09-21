@@ -8,6 +8,7 @@ Paris Hilton has been arrested in South Africa for allegedly smoking marijuana d
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/7869412/Paris-Hilton-arrested-for-smoking-marijuana-during-Brazil-Holland-game.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01671/PARIS-HILTON-TWITT_1671814a.jpg)
 
 ### Related:
 

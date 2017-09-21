@@ -8,6 +8,7 @@ An estimated 32,788 people were killed in traffic accidents in 2010, the fewest 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/04/01/us/01driving.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

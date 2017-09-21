@@ -12,6 +12,7 @@ Brazil defeated Zimbabwe 3-0 in a World Cup warmup on Wednesday in Harare, Zimba
 3. [Fox News](http://www.foxnews.com/sports/2010/06/02/brazil-bring-rare-good-news-zimbabwe-2102133529/)
 4. [The Guardian](http://www.guardian.co.uk/football/2010/jun/02/zimbabwe-brazil-international-friendly)
 5. [Times Live](http://www.timeslive.co.za/sport/soccer/article483407.ece/Zim-civil-servants-get-time-off-for-Brazil-match)
+5. [Cover Image](https://i.cbc.ca/1.2111895.1382071238!/httpImage/image.jpg_gen/derivatives/16x9_1180/kaka-ashley-100602.jpg)
 
 ### Related:
 

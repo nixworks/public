@@ -9,6 +9,7 @@ Islamic State militants have allegedly executed at least 284 men and boys in the
 
 1. [CNN](http://edition.cnn.com/2016/10/22/middleeast/iraq-isis-mosul/)
 2. [RT](https://www.rt.com/news/363735-isis-executes-mosul-civilians/)
+2. [Cover Image](https://img.rt.com/files/2016.10/article/580b1cc9c46188667f8b459b.JPG)
 
 ### Related:
 

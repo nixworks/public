@@ -8,6 +8,7 @@ Militants attacked a hilltop army position in volatile northwest Pakistan on Fri
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/03/02/uk-pakistan-militants-idUKTRE8210BP20120302)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

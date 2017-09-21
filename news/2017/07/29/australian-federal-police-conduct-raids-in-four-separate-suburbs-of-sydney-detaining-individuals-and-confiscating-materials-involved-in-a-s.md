@@ -8,6 +8,7 @@ Malcolm Turnbull says the operation was in order to prevent ‘terrorist attacks
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/australia-news/2017/jul/29/counter-terrorism-police-raid-properties-in-four-sydney-suburbs)
+1. [Cover Image](https://i.guim.co.uk/img/media/9b342a9515bfe941b2721e9be027ec8305e94a7d/0_52_4659_2795/master/4659.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1740bc88ca67a28de023d490ce484d24)
 
 ### Related:
 

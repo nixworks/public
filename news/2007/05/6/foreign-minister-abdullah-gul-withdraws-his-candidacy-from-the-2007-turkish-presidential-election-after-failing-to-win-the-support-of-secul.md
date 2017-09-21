@@ -8,6 +8,7 @@ Abdullah Gul withdrew his candidacy for Turkey’s presidency today, ending a po
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2007/05/06/world/europe/07turkeycnd.html?ex=1336104000&en=113e9a76d0529217&ei=5088&partner=rssnyt&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2007/05/06/world/06cnd-turk_37.jpg)
 
 ### Related:
 

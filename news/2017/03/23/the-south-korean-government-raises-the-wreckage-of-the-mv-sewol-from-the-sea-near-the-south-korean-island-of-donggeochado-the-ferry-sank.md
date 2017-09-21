@@ -8,6 +8,7 @@ The Sewol sank on 16 April 2014 killing 304 people, almost all school children o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39361944)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16311/production/_95279809_mediaitem95279805.jpg)
 
 ### Related:
 

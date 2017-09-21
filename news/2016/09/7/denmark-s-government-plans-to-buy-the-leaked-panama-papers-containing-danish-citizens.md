@@ -8,6 +8,7 @@ The Danish tax minister announces plans to buy data leaked from the law firm at 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37299637)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/38F9/production/_91058541_mediaitem91058540.jpg)
 
 ### Related:
 

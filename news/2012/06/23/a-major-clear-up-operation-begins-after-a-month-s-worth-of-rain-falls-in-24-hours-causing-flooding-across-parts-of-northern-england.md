@@ -8,6 +8,7 @@ A major clear-up is under way after torrential rain caused flooding across parts
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18564518)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61096000/jpg/_61096495_015138141-1.jpg)
 
 ### Related:
 

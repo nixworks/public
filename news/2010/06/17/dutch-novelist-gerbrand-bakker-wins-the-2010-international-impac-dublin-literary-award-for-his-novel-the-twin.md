@@ -10,6 +10,7 @@ A novel that Dutch publishers saw as having only a cult appeal has taken this ye
 1. [Irish Independent](http://www.independent.ie/national-news/debut-novelist-snaps-up-8364100000-literary-award-2225662.html)
 2. [The Guardian](http://www.guardian.co.uk/books/2010/jun/17/gerbrand-bakker-impac-prize)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/features/2010/0618/1224272782285.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

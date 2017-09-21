@@ -8,6 +8,7 @@ Despite earlier heckling from a protester, Bob Carr is officially endorsed by th
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-03-06/bob-carr-endorsed-as-nsw-senator/3872094)
+1. [Cover Image](http://www.abc.net.au/news/image/3864966-1x1-700x700.jpg)
 
 ### Related:
 

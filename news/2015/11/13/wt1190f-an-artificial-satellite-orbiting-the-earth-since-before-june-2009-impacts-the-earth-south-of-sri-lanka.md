@@ -8,6 +8,7 @@ A hunk of space junk is expected to fall to Earth in a spectacular light show ne
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/technology/space-junk-wt1190f-1.3315564)
+1. [Cover Image](https://i.cbc.ca/1.3315593.1447339386!/fileImage/httpImage/image.png_gen/derivatives/16x9_1180/wt1190f-space-junk.png)
 
 ### Related:
 

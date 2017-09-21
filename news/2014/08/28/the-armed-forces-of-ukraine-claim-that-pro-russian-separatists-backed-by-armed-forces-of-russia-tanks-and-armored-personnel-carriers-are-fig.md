@@ -11,6 +11,7 @@ The UN Security Council is preparing to meet in emergency session on the growing
 2. [CTV News](http://www.ctvnews.ca/world/un-security-council-holds-emergency-session-on-ukraine-1.1980768)
 3. [Financial Times](http://www.ft.com/cms/s/0/8275bec4-2ea2-11e4-afe4-00144feabdc0.html#slide0)
 4. [Washington Post](http://www.washingtonpost.com/world/russian-and-ukraine-troops-battle-in-south-prompting-fears-of-widescale-invasion/2014/08/28/04b614f4-9a6e-40f4-aa21-4f49104cf0e4_story.html)
+4. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1982172.1409280393!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

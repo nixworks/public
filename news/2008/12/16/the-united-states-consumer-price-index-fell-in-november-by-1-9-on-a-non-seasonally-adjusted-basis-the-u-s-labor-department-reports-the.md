@@ -9,6 +9,7 @@
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/Drop-consumer-prices-most-since/story.aspx?guid=%7B45513693%2D102D%2D4A67%2D8859%2DC73778BF4777%7D)
 2. [MarketWatch](http://www.marketwatch.com/news/story/Housing-starts-drop-189-plumb/story.aspx?guid=%7BE21F7EFD%2D5EFF%2D445E%2D87C8%2D8AE300767217%7D&dist=hplatest)
+2. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An unruly passenger tried to headbutt the captain on board a transatlantic aircr
 ### Source:
 
 1. [RTÉ News](http://www.rte.ie/news/2012/1219/court-damian-kingston.html)
+1. [Cover Image](https://img.rasset.ie/0006b875-1600.jpg)
 
 ### Related:
 

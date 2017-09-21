@@ -8,6 +8,7 @@ Al-Qaeda confirms that a key commander - Nasser al-Wuhayshi, who headed Al-Qaeda
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-33143259#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83653000/jpg/_83653304_83653303.jpg)
 
 ### Related:
 

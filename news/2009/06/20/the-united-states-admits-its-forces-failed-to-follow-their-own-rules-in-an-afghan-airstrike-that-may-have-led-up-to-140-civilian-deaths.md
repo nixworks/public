@@ -9,6 +9,7 @@ The US will order all its troops in Afghanistan to undergo new training after co
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8110476.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0620/afghan.html)
+2. [Cover Image](https://img.rasset.ie/0002457f-1600.jpg)
 
 ### Related:
 

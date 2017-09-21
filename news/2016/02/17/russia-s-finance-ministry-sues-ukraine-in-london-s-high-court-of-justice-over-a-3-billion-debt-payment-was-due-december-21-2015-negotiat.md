@@ -8,6 +8,7 @@ Russia filed a lawsuit against Ukraine to demand compensation for the debt on bo
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/02/17/Russia-sues-Ukraine-over-debt-repayment-in-London-court/3241455738661/?spt=rln&or=2)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/3241455738661/2016/1/14557401465285/v2.1/Russia-sues-Ukraine-over-debt-repayment-in-London-court.jpg)
 
 ### Related:
 

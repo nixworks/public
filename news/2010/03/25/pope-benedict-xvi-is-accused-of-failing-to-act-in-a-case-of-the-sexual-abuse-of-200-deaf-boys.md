@@ -17,6 +17,7 @@ Bishop of Waterford &amp; Lismore Dr William Lee has described as &#39;seriously
 8. [The Hindu](http://beta.thehindu.com/news/international/article304891.ece)
 9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0325/breaking8.html)
 10. [The New York Times](http://www.nytimes.com/2010/03/26/world/europe/26vatican.html)
+10. [Cover Image](https://img.rasset.ie/0002cbec-1600.jpg)
 
 ### Related:
 

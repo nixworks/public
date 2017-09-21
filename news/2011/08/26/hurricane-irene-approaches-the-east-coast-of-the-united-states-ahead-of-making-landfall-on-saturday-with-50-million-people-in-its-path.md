@@ -17,6 +17,7 @@ Hurricane Irene was bearing down on North Carolina Thursday on track to make lan
 8. [International Business Times](http://www.ibtimes.com/articles/204559/20110826/hurricane-irene-nyc.htm)
 9. [Reuters](http://uk.reuters.com/article/2011/08/26/us-storm-irene-idUKTRE77K01820110826)
 10. [WRAL](http://www.wral.com/weather/story/10046861/)
+10. [Cover Image](https://wwwcache.wral.com/asset/weather/hurricanes/2011/08/25/10046714/198914-hrly001-960x540.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ MAPUTO, May 26 - Poachers have killed nearly half of Mozambique&#039;s elephants
 ### Source:
 
 1. [AFP via CapitalFM](http://www.capitalfm.co.ke/news/2015/05/poachers-kill-half-mozambiques-elephants-in-5-years/)
+1. [Cover Image](http://www.capitalfm.co.ke/news/files/2015/05/ELEPHANTS1.jpg)
 
 ### Related:
 

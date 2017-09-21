@@ -8,6 +8,7 @@ White and Silvia Aloisi
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL084088920070909?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1678839&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-09T043807Z_01_L0840889_RTRUKOP_0_PICTURE0)
 
 ### Related:
 
@@ -20,3 +21,4 @@ White and Silvia Aloisi
 7. [ In Rome, the President of the Venice Biennale Davide Croff and the Director of the 63rd Venice Film Festival Marco Mller have presented the line-up of the festival, which runs August 30 - September 9. ](/news/2006/07/27/in-rome-the-president-of-the-venice-biennale-davide-croff-and-the-director-of-the-63rd-venice-film-festival-marco-muller-have-presented-th.md) _Context: Venice Film Festival_
 8. [ 78th Academy Awards: "Crash" wins Best Picture, Ang Lee ("Brokeback Mountain") wins Best Director, Reese Witherspoon ("Walk the Line") wins Best Actress, and Philip Seymour Hoffman ("Capote") wins Best Actor. ](/news/2006/03/5/78th-academy-awards-crash-wins-best-picture-ang-lee-brokeback-mountain-wins-best-director-reese-witherspoon-walk-the-line-wins.md) _Context: Ang Lee_
 9. [ Western romance "Brokeback Mountain" wins awards for best film and best director for Ang Lee at the BAFTA awards. ](/news/2006/02/20/western-romance-brokeback-mountain-wins-awards-for-best-film-and-best-director-for-ang-lee-at-the-bafta-awards.md) _Context: Ang Lee_
+10. [ At the sixty first Venice Film Festival, British director Mike Leigh is awarded several prizes, including the prestigious Golden Lion ("Leone d'Oro") award, for his movie "Vera Drake," about a working-class mother arrested for performing illegal abortions in 1950s Britain. The star of the movie, Imelda Staunton, receives the award for best actress. ](/news/2004/09/11/at-the-sixty-first-venice-film-festival-british-director-mike-leigh-is-awarded-several-prizes-including-the-prestigious-golden-lion-leo.md) _Context: Venice Film Festival_

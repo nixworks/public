@@ -8,6 +8,7 @@ China and Finland will increase cooperation under the China-European Union frame
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-finland-china-idUSKBN1771CX)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170405&t=2&i=1179431256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED340NS)
 
 ### Related:
 

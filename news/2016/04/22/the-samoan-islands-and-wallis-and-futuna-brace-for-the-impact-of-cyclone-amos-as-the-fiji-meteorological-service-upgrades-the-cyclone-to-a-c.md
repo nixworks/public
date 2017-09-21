@@ -8,6 +8,7 @@ Tropical Cyclone Amos was upgraded to a category three on Friday night, and was 
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/302138/samoas-and-wallis-brace-for-an-intensifying-cyclone-amos)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

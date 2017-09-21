@@ -10,6 +10,7 @@ British politician says prejudice against Muslims is now socially acceptable and
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112012212165903.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-12235237)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/8270294/Tory-chief-Baroness-Warsi-attacks-bigotry-against-Muslims.html)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/20/20111202219699572_20.jpg)
 
 ### Related:
 

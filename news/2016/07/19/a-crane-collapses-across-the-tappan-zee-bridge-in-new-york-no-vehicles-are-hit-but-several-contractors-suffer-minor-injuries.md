@@ -8,6 +8,7 @@ No vehicles were hit by the crane.
 ### Source:
 
 1. [ABC News](http://abcn.ws/29WgN4w)
+1. [Cover Image](http://a.abcnews.com/images/US/wabc_tappan_zee_bridge_crane_collapse_jc_160719_16x9_992.jpg)
 
 ### Related:
 

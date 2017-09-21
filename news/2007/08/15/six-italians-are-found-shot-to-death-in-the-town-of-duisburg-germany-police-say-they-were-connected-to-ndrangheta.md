@@ -9,6 +9,7 @@ Six people were found fatally shot in the town of Duisburg in western Germany, p
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6947247.stm)
 2. [Fox News](http://www.foxnews.com/story/0,2933,293289,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

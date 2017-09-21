@@ -8,6 +8,7 @@ After a bruising two-year battle, ride-hailing firm Uber is selling its China op
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-uber-china-m-a-didichuxing-idUSKCN10C1CH?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160801&t=2&i=1147826937&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC700QF)
 
 ### Related:
 

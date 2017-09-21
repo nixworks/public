@@ -8,6 +8,7 @@ Kuki Gallmann, author of I Dreamed of Africa, is flown to hospital after an ambu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-39683731)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4EF1/production/_95390202_gallmann.jpg)
 
 ### Related:
 

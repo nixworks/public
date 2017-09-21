@@ -13,6 +13,7 @@ The home secretary is to address MPs following criticism over the closeness of t
 4. [CNBC](http://www.cnbc.com/id/43784302)
 5. [Mail Online](http://www.dailymail.co.uk/news/article-2015677/Rebekah-Brooks-arrested-phone-hacking-scandal-News-International.html)
 6. [Sky News](http://news.sky.com/skynews/Home/UK-News/Rebekah-Brooks-Has-Been-Arrested-By-Police-Officers-Investigating-Phone-Hacking/Article/201107316032015?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_16032015_Rebekah_Brooks_Has_Been_Arrested_By_Police_Officers_Investigating_Phone_Hacking)
+6. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54108000/jpg/_54108733_006545600-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Giorgio Napolitano wins an unprecedented second term as Italian president after 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22232305)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67130000/jpg/_67130532_67130531.jpg)
 
 ### Related:
 

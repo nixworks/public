@@ -8,6 +8,7 @@ The U.S. Justice Department said it filed criminal charges in response to a 2012
 ### Source:
 
 1. [UPI](http://www.upi.com/Business_News/Energy-Industry/2015/11/20/Federal-charges-filed-for-deadly-2012-oil-rig-blast/6451448024137/?spt=rln&or=2)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/6451448024137/2015/1/a6e89c7e2e9227a4912b8ad161bbc9b1/v1.5/Federal-charges-filed-for-deadly-2012-oil-rig-blast.jpg)
 
 ### Related:
 

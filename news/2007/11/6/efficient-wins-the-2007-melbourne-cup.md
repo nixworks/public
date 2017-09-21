@@ -8,6 +8,7 @@ Efficient took out the Melbourne Cup with a blinding finish at Flemington this a
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/11/06/2083243.htm?WT.mc_id=newsmail)
+1. [Cover Image](http://www.abc.net.au/news/image/717654-1x1-700x700.jpg)
 
 ### Related:
 

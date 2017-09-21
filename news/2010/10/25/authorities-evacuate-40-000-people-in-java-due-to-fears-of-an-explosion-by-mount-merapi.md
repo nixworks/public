@@ -11,6 +11,7 @@ A major earthquake with a magnitude of 7.5 strikes off western Sumatra triggerin
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/25/indonesia.volcano.eruption/index.html?eref=edition)
 3. [News Limited](http://www.news.com.au/national/aussie-swims-for-his-life-as-3m-tsunami-hits-mentawai-islands-after-indonesian-earthquake/story-e6frfkvr-1225943524571?referrer=email&source=eDM_newspulse&emcmp=Newspulse&emchn=Newsletter&emlist=Member)
 4. [Sina](http://english.sina.com/world/2010/1025/345030.html)
+4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](https://www.rappler.com/nation/181806-hontiveros-aguirre-text-expedite-cases)
+1. [Cover Image](https://assets.rappler.com/F375E5C3BF7C471BB1B3AA1E70F110FF/img/13FAA56488E34D79AA1310983045CB1F/aguiire-senate-hearing-cropped-august-24-2017-001.jpg)
 
 ### Related:
 

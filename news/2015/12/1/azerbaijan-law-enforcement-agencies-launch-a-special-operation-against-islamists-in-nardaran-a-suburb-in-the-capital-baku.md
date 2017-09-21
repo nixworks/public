@@ -8,6 +8,7 @@ Local citizens are reportedly demanding the return of the bodies of the Nardaran
 ### Source:
 
 1. [Tass](http://tass.ru/en/world/840565)
+1. [Cover Image](https://phototass2.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20151201/1116175.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8273615.stm)
 2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLO53141)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-09/24/content_12107634.htm)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

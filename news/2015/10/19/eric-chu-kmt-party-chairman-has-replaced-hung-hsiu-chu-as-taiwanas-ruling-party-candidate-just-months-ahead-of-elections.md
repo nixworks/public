@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Diplomat](http://thediplomat.com/2015/10/taiwans-ruling-party-ousts-its-presidential-candidate/)
+1. [Cover Image](http://thediplomat.com/wp-content/uploads/2015/05/thediplomat_2015-05-01_14-27-24-553x360.jpg)
 
 ### Related:
 

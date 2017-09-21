@@ -8,3 +8,4 @@ A 24-year-old reporter and 27-year-old photographer from a local news station WD
 ### Source:
 
 1. [WTKR](http://wtkr.com/2015/08/26/suspected-active-shooter-investigation-involving-news-crew-underway-at-smith-mountain-lake/)
+1. [Cover Image](https://localtvwtkr.files.wordpress.com/2015/08/promo264898611.jpg?quality=85&amp;strip=all)

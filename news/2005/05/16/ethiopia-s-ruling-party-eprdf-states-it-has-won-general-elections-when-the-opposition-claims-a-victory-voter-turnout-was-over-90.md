@@ -11,6 +11,7 @@
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1705687,00.html)
 3. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1706024,00.html)
 4. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:4288b79d:7f2bdd29bfa371f3?type=topNews&localeKey=en_ZA&storyID=8503962)
+4. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

@@ -8,6 +8,7 @@ HONEYMOON killer Gabe Watson will fly out of Brisbane today hours after being re
 ### Source:
 
 1. [News.Com.Au](http://www.news.com.au/national/honeymoon-killer-gabe-watson-released-from-jail-in-queensland/story-e6frfkvr-1225951669938)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/dd787c572c36d5fe2e26e529ba209d89)
 
 ### Related:
 

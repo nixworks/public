@@ -8,6 +8,7 @@ Five soldiers and one special forces police officer have been killed in a bomb a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35951793)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/42E5/production/_88752171_turkeyankara464.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A top Indonesian celebrity is charged over sex tapes said to feature him that ap
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10412951.stm)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

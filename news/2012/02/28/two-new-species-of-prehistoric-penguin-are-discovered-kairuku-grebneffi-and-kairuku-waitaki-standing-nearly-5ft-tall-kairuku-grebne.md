@@ -8,6 +8,7 @@ The hefty penguin lived about 27 million years ago and weighed up to 130 pounds.
 ### Source:
 
 1. [Discovery](http://news.discovery.com/animals/penguin-tallest-fattest-new-zealand-120227.html)
+1. [Cover Image](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5116283%2F980x.jpg/2000%2C2000/exnlgTF5QMM1xBhN/img.jpg)
 
 ### Related:
 

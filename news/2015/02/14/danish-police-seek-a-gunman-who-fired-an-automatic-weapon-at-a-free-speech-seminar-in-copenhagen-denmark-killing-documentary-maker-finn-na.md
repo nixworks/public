@@ -10,6 +10,7 @@ One person dies after shots are fired at a Copenhagen cafe where a controversial
 1. [BBC News](http://www.bbc.com/news/world-europe-31472423)
 2. [CBC](http://www.cbc.ca/news/world/copenhagen-caf%C3%A9-attack-target-was-me-says-artist-lars-vilks-1.2957802)
 3. [The Guardian](http://www.theguardian.com/world/2015/feb/14/copenhagen-blasphemy-lars-vilks-prophet-muhammad-krudttonden-cafe)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81009000/jpg/_81009194_81012236.jpg)
 
 ### Related:
 

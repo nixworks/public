@@ -8,6 +8,7 @@ Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other
 ### Source:
 
 1. [The Chicago Tribune](http://www.chicagotribune.com/business/ct-tribune-publishing-1201-biz-20151130-story.html)
+1. [Cover Image](http://www.trbimg.com/img-565c4bd0/turbine/ct-tribune-publishing-1201-biz-20151130)
 
 ### Related:
 

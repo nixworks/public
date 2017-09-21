@@ -9,6 +9,7 @@ The search for survivors continues after a ferry carrying more than 50 people ca
 
 1. [ABC Online](http://www.abc.net.au/news/2013-06-14/an-ferry-reportedly-sinks-of-philippines/4753774)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22884784)
+2. [Cover Image](http://www.abc.net.au/news/image/4755924-1x1-700x700.jpg)
 
 ### Related:
 

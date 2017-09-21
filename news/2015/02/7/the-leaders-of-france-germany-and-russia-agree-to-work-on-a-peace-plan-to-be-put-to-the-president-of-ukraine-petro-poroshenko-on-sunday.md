@@ -8,6 +8,7 @@ A peace plan drawn up by France and Germany is &quot;one of the last chances&quo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-31185027)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80848000/jpg/_80848351_80848350.jpg)
 
 ### Related:
 

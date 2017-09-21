@@ -9,6 +9,7 @@
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gzdSHkZl-Vrcllkzr74NnWrIb7eA)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/20091230104542881809.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

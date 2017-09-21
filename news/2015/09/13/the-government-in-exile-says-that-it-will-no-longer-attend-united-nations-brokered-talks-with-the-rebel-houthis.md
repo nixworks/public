@@ -8,6 +8,7 @@ YEMEN-SECURITY/:Exiled Yemeni government pulls out of planned peace talks
 ### Source:
 
 1. [Trust](http://www.trust.org/item/20150913043951-75732)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/df7b25ce-d1f4-4eaf-845b-3468a6f58315/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

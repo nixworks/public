@@ -11,6 +11,7 @@ Court finds Myanmar opposition leader guilty of breaking internal security laws.
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8194596.stm)
 3. [The Bangkok Post](http://www.bangkokpost.com/news/asia/151487/junta-returns-suu-kyi-to-house-arrest)
 4. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_415210.html)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

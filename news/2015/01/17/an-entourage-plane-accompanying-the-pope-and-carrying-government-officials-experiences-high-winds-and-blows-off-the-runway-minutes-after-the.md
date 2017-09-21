@@ -8,3 +8,4 @@ A plane carrying officials from the Philippines crashed just minutes after Pope 
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/asia/popes-entourage-plane-blown-off-runway-minutes-after-pontiffs-aircraft-takes-off-safely-in-philippines-9985269.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/01/17/15/plane-afp.jpg)

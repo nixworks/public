@@ -8,6 +8,7 @@ Palestinian officials call for protests in mosques to object to the proposed mov
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jan/10/israel-palestine-dispute-us-embsasy-jerusalem-oslo-peace)
+1. [Cover Image](https://i.guim.co.uk/img/media/53c7f638e19ff3c11a4ac2845699496c2c527e58/0_428_5059_3037/master/5059.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9c8bd987bc6fbe479e8959394253a2eb)
 
 ### Related:
 

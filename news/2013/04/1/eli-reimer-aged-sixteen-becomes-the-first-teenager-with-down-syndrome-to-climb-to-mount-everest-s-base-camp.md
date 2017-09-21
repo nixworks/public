@@ -8,6 +8,7 @@ One teenager has made history by being the first child with Down syndrome to cli
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/health/2013/04/01/teen-with-down-syndrome-becomes-first-ever-to-reach-mt-everest-base-camp/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2013/04/01/teen-with-down-syndrome-becomes-first-ever-to-reach-mt-everest-base-camp/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422524176900.jpg?ve=1)
 
 ### Related:
 

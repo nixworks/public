@@ -8,6 +8,7 @@ Four more ministers quit on Thursday, making 38 in nine days.
 ### Source:
 
 1. [csmonitor](http://www.csmonitor.com/2006/0804/p05s01-woaf.html)
+1. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)
 
 ### Related:
 

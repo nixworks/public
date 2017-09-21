@@ -9,3 +9,4 @@ The bodies of a southeast Kansas mother and her three young children were discov
 
 1. [FOX News](http://www.foxnews.com/us/2013/11/27/suspect-captured-in-deaths-kansas-mother-3-children/)
 2. [FOX News](http://www.foxnews.com/us/2013/11/28/suspect-in-deaths-kansas-mother-children-held-on-5m-bail/?intcmp=latestnews)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

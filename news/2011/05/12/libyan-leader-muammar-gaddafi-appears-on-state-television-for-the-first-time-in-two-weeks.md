@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13379433)
 2. [IOL](http://www.iol.co.za/news/africa/gaddafi-s-first-public-appearance-1.1067786)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/12/c_13871884.htm)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52683000/jpg/_52683750_011954295-1.jpg)
 
 ### Related:
 

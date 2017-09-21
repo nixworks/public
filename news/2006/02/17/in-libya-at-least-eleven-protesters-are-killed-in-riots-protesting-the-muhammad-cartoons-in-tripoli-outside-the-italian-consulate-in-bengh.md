@@ -9,6 +9,7 @@ Nigerian Muslims protesting caricatures of the Prophet Muhammad attacked Christi
 
 1. [MSNBC](http://www.msnbc.msn.com/id/11383819/)
 2. [New York Times](http://www.nytimes.com/2006/02/17/international/europe/17cnd-russia.html)
+2. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

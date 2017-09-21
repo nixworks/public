@@ -8,6 +8,7 @@ Saif al-Islam Gaddafi has been freed by an armed group in western Libya where he
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-libya-security-saif-idUSKBN192092)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20170611&t=2&i=1188515053&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5A060)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Follow all the latest news on Long Island with Newsday. Read top local stories, 
 
 1. [Newsday](http://www.newsday.com/news/local/state/ny-bc-ct--legionariesofchri0124jan24,0,1018955.story?coll=ny-region-apconnecticut)
 2. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=660020)
+2. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:
 

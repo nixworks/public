@@ -9,6 +9,7 @@ India launches an ambitious national identity scheme which will log details of i
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11433541)
 2. [Times of India](http://timesofindia.indiatimes.com/tech/news/software-services/Aadhaar-the-Unique-ID-project-goes-live/articleshow/6652043.cms)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

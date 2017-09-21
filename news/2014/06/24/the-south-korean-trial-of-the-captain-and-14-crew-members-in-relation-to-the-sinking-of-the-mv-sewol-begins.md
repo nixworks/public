@@ -8,6 +8,7 @@ A South Korean court begins hearing evidence in the trial of the captain and 14 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27972979)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75663000/jpg/_75663216_485152355.jpg)
 
 ### Related:
 

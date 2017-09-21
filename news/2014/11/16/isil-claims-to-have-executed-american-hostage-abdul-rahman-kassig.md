@@ -8,6 +8,7 @@ A video released on to the internet claims to show that Islamic State militants 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-30073602#)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/79058000/jpg/_79058623_79058622.jpg)
 
 ### Related:
 

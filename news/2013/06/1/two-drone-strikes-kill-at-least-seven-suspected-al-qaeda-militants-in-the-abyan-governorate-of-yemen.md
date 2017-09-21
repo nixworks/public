@@ -8,6 +8,7 @@ Two drone strikes killed seven suspected al Qaeda militants in southern Yemen on
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/01/us-yemen-drones-idUSBRE95006I20130601)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

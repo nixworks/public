@@ -8,6 +8,7 @@ Six NATO soldiers were killed by a roadside bomb in eastern Afghanistan on Sunda
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/07/08/us-afghanistan-bomb-idUSBRE8670EW20120708)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

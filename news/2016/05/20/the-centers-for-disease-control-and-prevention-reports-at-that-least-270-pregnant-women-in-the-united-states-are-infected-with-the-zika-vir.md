@@ -9,6 +9,7 @@ More than 270 pregnant women in the U.S. are also infected with the Zika virus, 
 
 1. [NBC News](http://www.nbcnews.com/storyline/zika-virus-outbreak/cdc-reports-279-pregnant-women-zika-u-s-n577541)
 2. [NPR](http://www.npr.org/sections/health-shots/2016/05/20/478835112/cdc-is-monitoring-157-pregnant-women-in-the-u-s-with-zika-virus)
+2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_18/1527576/160506-zika-twins-brazil-247p_f94935fa3ad49edc21f67df36c49d269.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

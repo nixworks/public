@@ -8,6 +8,7 @@ A teenager who killed two people and wounded four others in a shooting at a smal
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-newmexico-shooting-idUSKCN1B82II?)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

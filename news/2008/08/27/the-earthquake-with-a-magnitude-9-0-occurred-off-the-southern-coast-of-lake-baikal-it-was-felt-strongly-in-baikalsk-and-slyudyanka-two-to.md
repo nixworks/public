@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Information agency ''The city of News''; in Russian language](http://www.city-n.ru/view/101598.html)
+1. [Cover Image](http://www.city-n.ru/upload/2008/09/01/101598.jpg)
 
 ### Related:
 

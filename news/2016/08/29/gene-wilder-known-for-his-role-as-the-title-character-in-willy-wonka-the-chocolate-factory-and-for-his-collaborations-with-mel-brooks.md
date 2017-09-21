@@ -8,3 +8,4 @@ Gene Wilder, who regularly stole the show in such comedic gems as “The Produce
 ### Source:
 
 1. [Variety](http://variety.com/2016/film/news/gene-wilder-dead-dies-willie-wonka-young-frankenstein-1201846745/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2014/06/gene-wilder-dead.jpg?w=1000&amp;h=607&amp;crop=1)

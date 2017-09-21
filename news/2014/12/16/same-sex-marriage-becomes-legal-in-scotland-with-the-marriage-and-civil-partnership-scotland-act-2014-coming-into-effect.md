@@ -8,6 +8,7 @@ A new law allowing those in same-sex relationships to get married in Scotland co
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/uk-scotland-scotland-politics-30486804)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79744000/jpg/_79744632_045ba09d-51b0-409e-8d1d-70e25619d6e3.jpg)
 
 ### Related:
 

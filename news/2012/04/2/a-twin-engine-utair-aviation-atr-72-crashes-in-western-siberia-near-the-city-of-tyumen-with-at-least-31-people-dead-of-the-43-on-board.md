@@ -10,6 +10,7 @@ A passenger plane carrying 43 people has crashed shortly after take-off in Siber
 1. [AFP via Nine-MSN](http://news.ninemsn.com.au/world/8445264/plane-crashes-in-siberia-with-43-on-board)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17580917)
 3. [Reuters](http://www.reuters.com/article/2012/04/02/us-russia-crash-idUSBRE83102N20120402?feedType=RSS&feedName=topNews)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59430000/jpg/_59430468_014420468-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Saab Griben fighter jet taking part in the Children’s Day airshow at Thailan
 ### Source:
 
 1. [RT](https://www.rt.com/news/373655-children-airshow-fighter-jet-crash)
+1. [Cover Image](https://img.rt.com/files/2017.01/article/5879a286c461884e3e8b4570.jpg)
 
 ### Related:
 

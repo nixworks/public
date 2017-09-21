@@ -8,6 +8,7 @@ A Navy SEAL was killed and another injured Thursday in a parachute-training acci
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/nation/2013/03/29/navy-seal-killed-training/2036429/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

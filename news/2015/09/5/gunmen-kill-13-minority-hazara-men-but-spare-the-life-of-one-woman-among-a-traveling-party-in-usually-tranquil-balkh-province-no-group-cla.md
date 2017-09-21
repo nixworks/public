@@ -8,6 +8,7 @@ Gunmen on Saturday shot dead 13 people after dragging them out of their vehicles
 ### Source:
 
 1. [AFP via Times of Oman](http://timesofoman.com/article/67021/World/Asia/Gunmen-shot-dead-13-people-after-dragging-them-out-of-their-vehicles-in-northern-Afghanistan)
+1. [Cover Image](http://timesofoman.com/uploads/images/2015/09/05/199320.JPG)
 
 ### Related:
 

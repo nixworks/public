@@ -8,6 +8,7 @@ Saudi king invites bloc leaders to Riyadh for talks aimed at breaking months of 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/201010302355173828.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/19/2010101910562046371_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pope Francis marked his first month as pope on Saturday by naming nine high-rank
 ### Source:
 
 1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/04/13/pope-advisers-vatican-bureaucracy/2079635/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

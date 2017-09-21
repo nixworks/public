@@ -10,6 +10,7 @@
 1. [ABC](http://www.abc.net.au/news/newsitems/200506/s1385007.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4612497.stm)
 3. [Taipei Times](http://www.taipeitimes.com/News/world/archives/2005/06/06/2003258174)
+3. [Cover Image](http://www.taipeitimes.com/images/logo.gif)
 
 ### Related:
 

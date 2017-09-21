@@ -8,6 +8,7 @@ Authorities in Burkina Faso named former foreign minister Michel Kafando as tran
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/11/17/uk-burkina-politics-idUKKCN0J00TJ20141117)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

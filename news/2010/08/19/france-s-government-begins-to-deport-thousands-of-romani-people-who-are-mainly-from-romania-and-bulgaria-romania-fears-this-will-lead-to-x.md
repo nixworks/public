@@ -11,6 +11,7 @@
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/08/19/france.roma/?hpt=Sbin#fbid=kfQgteZwI1N&wom=false)
 3. [TIME](http://www.time.com/time/world/article/0,8599,2011848,00.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/indepth/2010-08/20/c_13454241.htm)
+4. [Cover Image](http://news.bbcimg.co.uk/media/images/48789000/jpg/_48789504_009994321-1.jpg)
 
 ### Related:
 

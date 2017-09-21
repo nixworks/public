@@ -8,6 +8,7 @@ The Israeli military began carrying out targeted killings of Palestinian militan
 ### Source:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/world/4401484.html)
+1. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

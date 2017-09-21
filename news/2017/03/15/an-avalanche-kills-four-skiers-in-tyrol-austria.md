@@ -8,6 +8,7 @@ Rescuers find a fourth person missing in the Austrian Alps after a large avalanc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39283797)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/41E2/production/_95166861_038497188-1.jpg)
 
 ### Related:
 

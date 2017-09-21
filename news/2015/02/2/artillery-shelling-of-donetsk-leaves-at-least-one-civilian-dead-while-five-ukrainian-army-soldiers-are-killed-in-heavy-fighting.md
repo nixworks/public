@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters via LBC](http://www.lbcgroup.tv/news/199157/shells-hit-donetsk-five-more-ukrainian-soldiers-ki)
+1. [Cover Image](http://www.lbcgroup.tv/newsimages/NB-199157-635584649158941516.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ South African runner faces premeditated murder charge over fatal shooting of gir
 3. [CBC News](http://www.cbc.ca/news/world/story/2013/02/14/oscar-pistorius-bio.html)
 4. [RTÉ News](http://www.rte.ie/news/2013/0214/367708-pistorius-girlfriend-dead/)
 5. [The Guardian](http://www.guardian.co.uk/world/2013/feb/14/oscar-pistorius-murder-charge-live)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/2/15/201321510278259734_20.jpg)
 
 ### Related:
 

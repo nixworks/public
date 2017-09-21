@@ -8,6 +8,7 @@ Thousands march against the conservative government, saying it has failed on the
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net//news/europe/2010/12/2010125181234304207.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/2010125183039339790_20.jpg)
 
 ### Related:
 

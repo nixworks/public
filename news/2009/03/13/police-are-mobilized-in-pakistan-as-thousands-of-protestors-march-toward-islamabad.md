@@ -8,6 +8,7 @@ Police in Pakistan have blocked highways and banned political gatherings in thre
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/03/14/2516187.htm?section=world)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

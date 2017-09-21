@@ -8,6 +8,7 @@ Gaddafi forces reportedly attacking eastern town of Ajdabiya as fighters are als
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/201149104826526171.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/9/20114911453514833_20.jpg)
 
 ### Related:
 

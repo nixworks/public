@@ -8,6 +8,7 @@
 ### Source:
 
 1. [New Zealand Stuff](http://www.stuff.co.nz/world/south-pacific/2327182/Fiji-president-fires-all-judges)
+1. [Cover Image](https://static2.stuff.co.nz/1239347824/336/2328336.jpg)
 
 ### Related:
 

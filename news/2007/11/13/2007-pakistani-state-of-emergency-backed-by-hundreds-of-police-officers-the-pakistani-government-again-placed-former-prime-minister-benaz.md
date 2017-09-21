@@ -9,6 +9,7 @@ Benazir Bhutto faces a seven-day detention order if she presses ahead with a pla
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7091930.stm)
 2. [NYT](http://www.nytimes.com/2007/11/13/world/asia/13pakistan.html?_r=1&ref=asia&oref=slogin)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

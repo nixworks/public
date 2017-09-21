@@ -7,7 +7,7 @@ _Context: Civilian Space eXploration Team, amateur radio, edge of space, rocket_
 _Context: Hamas, Israel, Khaled Meshal, Palestinian uprising, Suicide bombers_
 
 ### [ Ceremonies in Topeka, Kansas, commemorate the 50th anniversary of "Brown v. Board of Education". Both President George W. Bush and presidential candidate John Kerry attend separate ceremonies. ](/news/2004/05/17/ceremonies-in-topeka-kansas-commemorate-the-50th-anniversary-of-brown-v-board-of-education-both-president-george-w-bush-and-presiden.md)
-_Context: Brown v. Board of Education, George W. Bush, John Kerry, Topeka, presidential campaign_
+_Context: Brown v. Board of Education, George W. Bush, John Kerry, Topeka, presidential candidate_
 
 ### [ Iraqi WMD: Brigadier General Mark Kimmitt says that an artillery shell with sarin agent was found after it exploded. Two members of an explosives team are exposed to it, and have been treated. Hans Blix doubts that this was part of a current Iraq WMD, and doubts have been cast as to the accuracy of the field tests.](/news/2004/05/17/iraqi-wmd-brigadier-general-mark-kimmitt-says-that-an-artillery-shell-with-sarin-agent-was-found-after-it-exploded-two-members-of-an-expl.md)
 _Context: Brigadier General, Hans Blix, Mark Kimmitt, Sarin, weapons of mass destruction_

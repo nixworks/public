@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Japan Times](http://www.japantimes.co.jp/news/2015/10/13/national/okinawa-revokes-predecessors-approval-u-s-base-relocation-work-henoko/#.VhxT_rKqpBd)
+1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2015/10/n-futenma-a-20151014-e1444733655394-870x1202.jpg)
 
 ### Related:
 

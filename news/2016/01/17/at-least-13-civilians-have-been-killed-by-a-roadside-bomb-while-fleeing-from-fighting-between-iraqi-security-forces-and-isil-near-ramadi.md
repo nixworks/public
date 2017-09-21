@@ -9,6 +9,7 @@ Children among those killed by roadside bomb as troops try to push armed group f
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2016/01/iraq-civilians-killed-fleeing-isil-clashes-ramadi-160117133953656.html)
 2. [Washington Examiner](http://www.washingtonexaminer.com/three-americans-missing-feared-kidnapped-in-iraq/article/2580748)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2016/1/17/05939da8c714453a90c5665e2bec7d4c_18.jpg)
 
 ### Related:
 

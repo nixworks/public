@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/14/pakistan.bin.laden/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/14/pakistan.bin.laden/tzvids.bin.laden.compound.gi.jpg)
 
 ### Related:
 

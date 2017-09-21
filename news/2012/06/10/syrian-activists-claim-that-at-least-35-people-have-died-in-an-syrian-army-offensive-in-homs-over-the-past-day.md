@@ -8,6 +8,7 @@ At least 35 people were killed in Syrian army bombardment over the last 24 hours
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2012/06/10/syria-crisis-homs-idINDEE85904920120610)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

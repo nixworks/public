@@ -9,6 +9,7 @@ French Foreign Minister Laurent Fabius said he was resigning after serving nearl
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/02/10/466279865/french-foreign-minister-laurent-fabius-is-stepping-down)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/02/10/French-Foreign-Minister-Laurent-Fabius-announces-resignation/4691455109655/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4691455109655/2016/1/91981b9f7053a945bd4b980ce2a3f6dd/v1.5/French-Foreign-Minister-Laurent-Fabius-announces-resignation.jpg)
 
 ### Related:
 

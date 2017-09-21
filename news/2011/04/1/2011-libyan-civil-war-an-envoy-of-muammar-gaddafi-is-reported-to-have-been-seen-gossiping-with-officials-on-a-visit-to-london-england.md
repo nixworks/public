@@ -19,6 +19,7 @@ A Libyan envoy representing Colonel Gaddafi has been in London in the past few d
 10. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE73024G20110401?sp=true)
 11. [Reuters](http://ca.reuters.com/article/topNews/idCATRE7304C920110401?sp=true)
 12. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8422410/Libya-wife-of-defecting-foreign-minister-captured-in-firefight.html)
+12. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

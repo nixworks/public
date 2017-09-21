@@ -10,6 +10,7 @@
 1. [Daily Times, Pakistan](http://www.dailytimes.com.pk/default.asp?page=story_20-3-2005_pg1_4)
 2. [Pakistan Times](http://pakistantimes.net/2005/03/20/top1.htm)
 3. [Times of India](http://timesofindia.indiatimes.com/articleshow/1056454.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

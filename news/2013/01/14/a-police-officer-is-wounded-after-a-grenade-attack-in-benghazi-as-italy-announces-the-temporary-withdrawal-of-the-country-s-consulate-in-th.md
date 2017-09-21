@@ -8,6 +8,7 @@ At least one police officer was wounded when attackers threw a hand grenade at a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/15/uk-police-benghazi-idUKBRE90D16S20130115)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130115&t=2&i=694138613&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90E02V600)
 
 ### Related:
 

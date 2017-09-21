@@ -9,6 +9,7 @@ Cypriot leaders are set to decide on a new bailout plan as the US central bank p
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-03-21/cyprus-turns-to-plan-b-as-fed-plays-down-crisis/4585966)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21870801)
+2. [Cover Image](http://www.abc.net.au/news/image/4586054-1x1-700x700.jpg)
 
 ### Related:
 

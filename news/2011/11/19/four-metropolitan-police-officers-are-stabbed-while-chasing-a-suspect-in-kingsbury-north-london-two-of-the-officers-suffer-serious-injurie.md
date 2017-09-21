@@ -8,6 +8,7 @@ Four police officers are stabbed after being called to a disturbance in north-we
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-15803860)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56809000/jpg/_56809974_brent-20111119-00129.jpg)
 
 ### Related:
 

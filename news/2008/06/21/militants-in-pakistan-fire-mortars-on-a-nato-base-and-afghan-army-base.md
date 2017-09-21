@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Economic Times in Pakistan](http://economictimes.indiatimes.com/News/PoliticsNation/Afghan_NATO_base_attacked_from_Pakistan_Military/articleshow/3152493.cms)
+1. [Cover Image](http://img.etimg.com/photo/6325547.cms)
 
 ### Related:
 

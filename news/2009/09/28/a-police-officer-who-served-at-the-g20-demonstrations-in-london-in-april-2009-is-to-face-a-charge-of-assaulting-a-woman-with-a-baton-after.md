@@ -9,6 +9,7 @@ A police sergeant who allegedly struck a woman, Nicola Fisher, during G20 protes
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/finance/financetopics/g20-summit/6239763/Police-sergeant-who-struck-G20-protestor-faces-assault-charge.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/uk/crime/article6852445.ece)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01490/pic1_1490766a.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Four of the five men being sued by the families of the Omagh bomb victims have b
 
 1. [RTÉ](http://www.rte.ie/news/2009/0608/omagh.html)
 2. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-40164020090608)
+2. [Cover Image](https://img.rasset.ie/0001a86c-1600.jpg)
 
 ### Related:
 

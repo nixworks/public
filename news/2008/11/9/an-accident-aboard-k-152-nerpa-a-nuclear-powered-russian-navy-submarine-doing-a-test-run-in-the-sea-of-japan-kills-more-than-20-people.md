@@ -8,6 +8,7 @@ At least 20 people are killed after the failure of a fire-extinguishing system.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2008/11/2008118225856836818.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

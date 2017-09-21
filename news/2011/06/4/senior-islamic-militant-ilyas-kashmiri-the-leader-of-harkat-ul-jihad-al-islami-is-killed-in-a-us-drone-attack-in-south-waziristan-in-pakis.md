@@ -9,6 +9,7 @@ Ilyas Kashmiri was on a list which the US gave Pakistan of senior al-Qaeda membe
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116495720875573.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-13653324)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/4/201164144047827734_20.jpg)
 
 ### Related:
 

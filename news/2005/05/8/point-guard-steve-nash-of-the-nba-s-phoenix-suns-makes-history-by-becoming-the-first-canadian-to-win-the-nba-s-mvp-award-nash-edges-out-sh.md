@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/sports/story/2005/05/08/nash_steve_mvp050508.html)
+1. [Cover Image](https://i.cbc.ca/1.470240.1460485348!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-sports.jpg)
 
 ### Related:
 

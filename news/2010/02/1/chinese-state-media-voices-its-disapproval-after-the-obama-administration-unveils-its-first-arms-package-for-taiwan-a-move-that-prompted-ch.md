@@ -9,6 +9,7 @@ Chinese state media blasted the United States on Monday for a planned $6.4 billi
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8490537.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6100CK20100201)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100201&t=2&i=53806970&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-02-01T020118Z_01_BTRE61005MC00_RTROPTP_0_USA-CHINA-TAIWAN)
 
 ### Related:
 

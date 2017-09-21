@@ -8,6 +8,7 @@ Turkish authorities have ordered the arrest of 105 people working in information
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-security-detentions-idUSKBN19W0GL)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

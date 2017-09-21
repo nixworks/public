@@ -8,6 +8,7 @@ China appoints a new Communist Party chief in Chongqing, the city once led by di
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20405494)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64248000/jpg/_64248410_016444841-1.jpg)
 
 ### Related:
 

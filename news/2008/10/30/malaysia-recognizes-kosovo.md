@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BalkanInsight](http://www.balkaninsight.com/en/main/news/14483/)
+1. [Cover Image](http://www.balkaninsight.com/en/file/show/Images/Banners/BI-FB.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Government says it will instead prosecute leaders of the anti-government group.
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010526203549379729.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10169735.stm)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE64Q23520100527)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

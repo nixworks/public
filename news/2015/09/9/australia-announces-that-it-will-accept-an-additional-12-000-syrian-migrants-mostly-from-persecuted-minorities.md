@@ -9,6 +9,7 @@ The Coalition party room agrees to accept 12,000 refugees from persecuted minori
 
 1. [ABC News](http://www.abc.net.au/news/2015-09-09/tony-abbott-announcement/6760386)
 2. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/australia-12000-refugees-syria-150909023659789.html)
+2. [Cover Image](http://www.abc.net.au/news/image/6763066-1x1-700x700.jpg)
 
 ### Related:
 

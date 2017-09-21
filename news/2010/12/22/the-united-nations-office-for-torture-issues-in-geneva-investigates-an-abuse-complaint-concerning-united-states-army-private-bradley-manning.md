@@ -14,6 +14,7 @@ The United Nations says it is looking into a complaint that the Army private sus
 5. [The Guardian](http://www.guardian.co.uk/world/2010/dec/23/un-treatment-leaks-bradley-manning)
 6. [The Hindu](http://www.thehindu.com/news/international/article970744.ece)
 7. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/1221/1224285991888.html)
+7. [Cover Image](http://www.thehindu.com/migration_catalog/article15560167.ece/ALTERNATES/LANDSCAPE_615/manning)
 
 ### Related:
 

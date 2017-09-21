@@ -8,6 +8,7 @@ Vanuatu warns it faces imminent food shortages in the wake of Cyclone Pam that s
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2015-03-18/cyclone-pam-fears-of-food-shortages-vanuatu-huge-damage-revealed/6327658)
+1. [Cover Image](http://www.abc.net.au/news/image/6325790-1x1-700x700.jpg)
 
 ### Related:
 

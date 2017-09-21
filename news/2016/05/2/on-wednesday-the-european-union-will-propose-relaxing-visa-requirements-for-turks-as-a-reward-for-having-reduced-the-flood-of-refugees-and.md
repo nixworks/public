@@ -8,6 +8,7 @@ The European Union executive will propose on Wednesday relaxing visa requirement
 ### Source:
 
 1. [BBC](http://www.reuters.com/article/us-europe-migrants-eu-turkey-idUSKCN0XT1QB)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160502&t=2&i=1135444454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC410ZG)
 
 ### Related:
 

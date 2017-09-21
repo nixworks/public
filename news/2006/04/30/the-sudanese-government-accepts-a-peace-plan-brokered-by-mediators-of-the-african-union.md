@@ -10,6 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 1. [CNN](http://www.cnn.com/2006/WORLD/africa/04/30/sudan.darfur.reut/)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-04-30T144645Z_01_L29362184_RTRUKOC_0_US-SUDAN-DARFUR.xml)
 3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-04-30T180341Z_01_L29362184_RTRUKOC_0_US-SUDAN-DARFUR.xml)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

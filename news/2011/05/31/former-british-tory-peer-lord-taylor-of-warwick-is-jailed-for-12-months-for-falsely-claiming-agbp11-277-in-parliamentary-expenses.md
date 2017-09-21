@@ -9,6 +9,7 @@ Ex-Tory peer Lord Taylor of Warwick is jailed for 12 months for falsely claiming
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13599624)
 2. [The Guardian](http://www.guardian.co.uk/politics/2011/may/31/mps-expenses-lord-taylor-jailed)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53073000/jpg/_53073965_012110975-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ MIDEAST-CRISIS/SYRIA-CLASHES:Islamic State attacks Syrian air base in east, doze
 ### Source:
 
 1. [Reuters](http://www.trust.org/item/20150910080117-jbfri/?source=shtw)
+1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/662bccf1-a81b-4097-b764-54649a5a056e/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
 
 ### Related:
 

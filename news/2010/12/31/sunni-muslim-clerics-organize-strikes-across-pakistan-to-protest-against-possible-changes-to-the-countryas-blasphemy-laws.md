@@ -8,6 +8,7 @@ A 24-hour strike organised by Sunni Muslim clerics has taken place across Pakist
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12101356)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-south-asia-12101356A/playlist.sxml)
 
 ### Related:
 

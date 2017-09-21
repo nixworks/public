@@ -8,6 +8,7 @@ The eurozone avoided recession &ldquo;by the skin of its teeth&rdquo; as the lat
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/finance/financialcrisis/9266751/Eurozone-economy-saved-from-recession-by-German-growth.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02218/EU_2218518k.jpg)
 
 ### Related:
 

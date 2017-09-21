@@ -8,6 +8,7 @@ Patients who are lucky enough to get a transplant for a failed organ usually fac
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/health/la-he-kidney-transplant-stem-cells-20120308,0,6483577.story)
+1. [Cover Image](http://www.latimes.com/media/photo/2012-03/68655610.jpg)
 
 ### Related:
 

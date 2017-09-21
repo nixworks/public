@@ -8,3 +8,4 @@ More than 80 people are believed to have been killed in a landslide triggered by
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18406216)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60842000/jpg/_60842016_015016884-1.jpg)

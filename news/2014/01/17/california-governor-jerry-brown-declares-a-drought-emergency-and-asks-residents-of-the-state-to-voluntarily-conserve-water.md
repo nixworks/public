@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/political/la-me-pc-jerry-brown-declares-drought-emergency-in-california-20140117,0,3244744.story)
+1. [Cover Image](http://www.trbimg.com/img-52d9b2ba/turbine/la-me-pc-jerry-brown-declares-drought-emergency-in-california-20140117)
 
 ### Related:
 

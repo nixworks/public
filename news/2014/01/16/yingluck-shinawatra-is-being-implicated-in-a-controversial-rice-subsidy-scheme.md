@@ -8,6 +8,7 @@ Thai PM Yingluck Shinawatra is being investigated over a loss-making rice subsid
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25759007)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72318000/jpg/_72318469_72318467.jpg)
 
 ### Related:
 

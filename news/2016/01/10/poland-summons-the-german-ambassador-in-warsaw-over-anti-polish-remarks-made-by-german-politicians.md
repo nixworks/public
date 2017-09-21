@@ -8,6 +8,7 @@ Poland criticises German politicians for what it calls &quot;anti-Polish&quot; c
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35276531)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3BD7/production/_87591351_xgxbxr6q.jpg)
 
 ### Related:
 

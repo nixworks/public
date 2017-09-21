@@ -9,6 +9,7 @@ A letter published by a group of rabbis in Israel has sparked calls for their di
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/12/30/3103750.htm?section=justin)
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/12/29/israel.letter.arabs/?hpt=T2)
+2. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

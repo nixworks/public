@@ -8,6 +8,7 @@ Britain is facing the prospect of widespread power cuts for the first time since
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/finance/newsbysector/energy/6118113/Britain-facing-blackouts-for-first-time-since-1970s.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01472/power-cut_1472336a.jpg)
 
 ### Related:
 

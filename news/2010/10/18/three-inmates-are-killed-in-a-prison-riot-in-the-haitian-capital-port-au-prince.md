@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010101845722786994.html)
 2. [IBN Live](http://ibnlive.in.com/news/haiti-prison-unrest-three-inmates-dead/133236-2.html?from=tn)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/18/2010101845427499360_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A suicide bomber attacks a funeral in the eastern Afghan province of Nangarhar, 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19478496)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/04/c_131826614.htm)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62663000/jpg/_62663306_62663305.jpg)
 
 ### Related:
 

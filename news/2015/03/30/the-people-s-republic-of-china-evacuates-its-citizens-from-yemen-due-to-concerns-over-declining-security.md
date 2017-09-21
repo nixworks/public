@@ -9,6 +9,7 @@ An air strike killed at least 40 people at a camp for displaced people in north 
 
 1. [AP](http://bigstory.ap.org/article/68af10fd112a4fa0b9e4508c778887e7/china-evacuating-yemen-suspending-anti-piracy-patrols)
 2. [Reuters](http://mobile.reuters.com/article/idUSKBN0ML0YC20150330?irpc=932)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150330&t=2&i=1036615031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2T0RQ)
 
 ### Related:
 

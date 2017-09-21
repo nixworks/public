@@ -8,6 +8,7 @@ Burma&#39;s pro-democracy campaigner Aung San Suu Kyi has flown out of Dublin af
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2012/0618/aung-san-suu-kyi-to-get-freedom-of-dublin.html)
+1. [Cover Image](https://img.rasset.ie/00060a16-1600.jpg)
 
 ### Related:
 

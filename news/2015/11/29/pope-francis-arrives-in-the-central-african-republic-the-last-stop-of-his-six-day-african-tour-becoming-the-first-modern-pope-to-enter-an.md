@@ -8,6 +8,7 @@ Francis tells people he is ‘pilgrim of peace’ and schedules trip to PK5, kno
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/nov/29/pope-francis-arrives-central-african-republic-historic-war-zone-visit)
+1. [Cover Image](https://i.guim.co.uk/img/media/e693e5b2cc813c7fc22212a663cc4d1ea2702eff/0_0_4724_2835/master/4724.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=df4782d07601bcd2a771f5c997ca4f03)
 
 ### Related:
 

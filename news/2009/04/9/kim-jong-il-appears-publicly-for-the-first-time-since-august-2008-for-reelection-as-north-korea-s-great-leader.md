@@ -9,6 +9,7 @@ North Korean leader Kim Jong-il appeared at his first major event since he was s
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7991151.stm)
 2. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0409/breaking54.htm)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

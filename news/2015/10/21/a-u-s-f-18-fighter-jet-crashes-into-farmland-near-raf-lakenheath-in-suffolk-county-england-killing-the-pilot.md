@@ -8,6 +8,7 @@ A partly opened parachute F-18 fighter crashes on to farmland, some seven miles 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1573566/pilot-killed-as-us-jet-crashes-in-huge-fireball)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/helicopter-1_3506649.jpg?20160704113038)
 
 ### Related:
 

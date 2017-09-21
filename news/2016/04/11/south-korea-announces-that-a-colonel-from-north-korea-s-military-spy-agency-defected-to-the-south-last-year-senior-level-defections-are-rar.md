@@ -8,6 +8,7 @@ SEOUL, South Korea (AP) — A colonel from North Korea&#039;s military spy agenc
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/fa7f22f77f8243cb93be838237d6c3cc/seoul-senior-north-korea-military-officer-defects-south)
+1. [Cover Image](http://binaryapi.ap.org/694756a9a21d4f7eb73dc77727071db9/460x.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/ford-sell-jaguar-land-rover/story.aspx?guid=%7B242A1628%2D8FC7%2D4293%2D8654%2D5418FCAD3063%7D&dist=TQP_Mod_mktwN)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

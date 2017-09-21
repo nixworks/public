@@ -12,3 +12,4 @@ The veteran Anglo-Australian rock group AC/DC won the first Grammy of its career
 3. [Chicago Tribune](http://www.chicagotribune.com/entertainment/sns-ap-us-grammys,0,3907145.story)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/music-news/7124113/ACDC-win-first-Grammy-of-career.html)
 5. [The Times of India](http://timesofindia.indiatimes.com/world/us/Beyonce-wins-5-Grammys-including-song-of-the-year-/articleshow/5522322.cms)
+5. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)

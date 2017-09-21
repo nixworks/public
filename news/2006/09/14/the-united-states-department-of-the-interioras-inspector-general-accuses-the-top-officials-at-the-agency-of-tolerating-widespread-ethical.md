@@ -8,6 +8,7 @@ The agency’s inspector general accused officials of widespread ethical failure
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2006/09/14/business/14oil.html?_r=1&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/2006/09/14/business/14oil.75.gif)
 
 ### Related:
 

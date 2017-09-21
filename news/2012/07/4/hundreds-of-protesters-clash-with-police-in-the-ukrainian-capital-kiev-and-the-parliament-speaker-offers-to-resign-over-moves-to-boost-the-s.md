@@ -8,6 +8,7 @@ Hundreds clash with police in central Kiev and parliament speaker offers to resi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/07/20127483130758606.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/4/201274124547469734_20.jpg)
 
 ### Related:
 

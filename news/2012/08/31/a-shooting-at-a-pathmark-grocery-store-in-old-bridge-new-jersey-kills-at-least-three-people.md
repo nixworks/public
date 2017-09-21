@@ -8,3 +8,4 @@ A New Jersey supermarket employee and former marine opens fire on his colleagues
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19438776)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62604000/jpg/_62604461_62604460.jpg)

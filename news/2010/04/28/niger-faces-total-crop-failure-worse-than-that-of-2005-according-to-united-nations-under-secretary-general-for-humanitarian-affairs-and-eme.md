@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8648215.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKLDE63Q28M._CH_.2420)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100428&t=2&i=98824366&w=&fh=545px&fw=&ll=&pl=&sq=&r=NEfood238)
 
 ### Related:
 

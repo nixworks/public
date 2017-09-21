@@ -8,6 +8,7 @@ On his first day out of a Cairo prison, Canadian journalist Mohamed Fahmy return
 ### Source:
 
 1. [CP via CP24](http://www.cp24.com/news/canadian-journalist-fahmy-leaves-cairo-prison-on-bail-1.2232520#ixzz3Rb0bTaS0)
+1. [Cover Image](https://www.cp24.com/polopoly_fs/1.2232915.1424687064!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

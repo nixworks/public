@@ -9,6 +9,7 @@ The ruling voided two foreclosures, putting the nation’s banks on notice that 
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE7063M620110107)
 2. [The New York Times](http://www.nytimes.com/2011/01/08/business/08mortgage.html?hp)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

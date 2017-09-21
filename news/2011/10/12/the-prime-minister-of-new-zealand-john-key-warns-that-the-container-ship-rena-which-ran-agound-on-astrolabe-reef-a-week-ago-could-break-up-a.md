@@ -8,6 +8,7 @@ The second officer of the Rena is facing a charge under the Maritime Transport A
 ### Source:
 
 1. [New Zealand Stuff](http://www.stuff.co.nz/environment/5770592/Rena-disaster-Ship-could-break-up-PM-says)
+1. [Cover Image](https://static2.stuff.co.nz/1318405423/224/5776224.jpg)
 
 ### Related:
 

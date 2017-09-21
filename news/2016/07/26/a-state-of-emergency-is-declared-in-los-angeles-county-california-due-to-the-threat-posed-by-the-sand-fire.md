@@ -11,6 +11,7 @@ With fast-moving flames continuing to burn tens of thousands of acres in and aro
 2. [Los Angeles Daily News](http://www.dailynews.com/general-news/20160726/la-county-board-declares-local-state-of-emergency-in-fight-against-sand-fire)
 3. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-sand-fire-santa-clarita-20160725-snap-story.html?track=lat-pick)
 4. [San Francisco Chronicle](http://www.sfgate.com/news/article/Soberanes-Fire-near-Big-Sur-grows-to-nearly-8423225.php)
+4. [Cover Image](http://www.dailynews.com/apps/pbcsi.dll/storyimage/LA/20160726/NEWS/160729627/AR/0/AR-160729627.jpg?Maxh=1500&Maxw=1500)
 
 ### Related:
 

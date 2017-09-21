@@ -8,6 +8,7 @@ A National Security Agency contractor is accused of stealing top secret files th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-37568879)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9C12/production/_91545993_hi035715965.jpg)
 
 ### Related:
 

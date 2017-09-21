@@ -9,6 +9,7 @@ A gunman kills three relatives and a neighbour before turning the gun on himself
 
 1. [AP via ''Los Angeles Times](http://www.latimes.com/world/europe/la-fg-shooting-switzerland-20150510-story.html)
 2. [BBC](http://www.bbc.com/news/world-europe-32680212)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82897000/jpg/_82897482_027139454-1.jpg)
 
 ### Related:
 

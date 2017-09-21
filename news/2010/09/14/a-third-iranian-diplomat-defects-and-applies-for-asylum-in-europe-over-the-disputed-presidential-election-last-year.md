@@ -8,6 +8,7 @@ Farzad Farhangian becomes third diplomat this year to apply for asylum in Europe
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/2010914163420985510.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/14/201091416383924734_20.jpg)
 
 ### Related:
 

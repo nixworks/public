@@ -8,6 +8,7 @@ A barrage of attacks struck Monday across Iraq, killing at least 84 people and w
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/meast/08/15/iraq.violence/index.html?eref=edition)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/08/15/iraq.violence/tzvids.iraq.violence.jpg)
 
 ### Related:
 

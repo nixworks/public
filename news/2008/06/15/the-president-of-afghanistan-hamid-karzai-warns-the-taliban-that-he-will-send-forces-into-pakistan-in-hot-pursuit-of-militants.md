@@ -10,6 +10,7 @@ U.S-led and Afghan forces killed more than 15 insurgents in a search for hundred
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gFzfzO1J3TT_eqpmvsK7pYkw3H4gD91ACU0O0)
 2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7456019.stm)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSISL15231520080615)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080615&t=2&i=4768474&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-15T065359Z_01_ISL152315_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

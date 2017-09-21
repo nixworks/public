@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-blast-idUSKCN0YX05Y)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160611&t=2&i=1140893875&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5A06U)
 
 ### Related:
 

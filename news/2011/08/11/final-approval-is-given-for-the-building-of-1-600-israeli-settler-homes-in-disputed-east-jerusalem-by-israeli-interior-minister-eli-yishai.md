@@ -9,6 +9,7 @@ Israel gives final approval for the controversial building of 1,600 settler home
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14488066)
 2. [Toronto Globe and Mail](http://www.theglobeandmail.com/news/world/africa-mideast/israel-defies-us-approves-another-1600-settler-homes-near-jerusalem/article2127258/)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54543000/jpg/_54543196_harhormaafp.jpg)
 
 ### Related:
 

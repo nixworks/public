@@ -16,6 +16,7 @@
 7. [New York Times](http://www.nytimes.com/2006/08/10/world/10heathrow.ready.html?_r=1&oref=slogin)
 8. [News.com.au](http://www.news.com.au/story/0,23599,20082570-1702,00.html)
 9. [Reuters](http://www.alertnet.org/thenews/newsdesk/SP229366.htm)
+9. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

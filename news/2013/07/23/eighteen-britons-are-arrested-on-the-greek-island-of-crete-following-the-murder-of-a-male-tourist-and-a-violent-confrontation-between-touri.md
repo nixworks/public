@@ -8,6 +8,7 @@ Eighteen young British men are arrested in connection with the fatal stabbing of
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-23418483)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68896000/jpg/_68896575_68896574.jpg)
 
 ### Related:
 

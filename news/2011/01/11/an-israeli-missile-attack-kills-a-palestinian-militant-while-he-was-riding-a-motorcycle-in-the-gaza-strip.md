@@ -8,6 +8,7 @@ A missile fired by an Israeli aircraft killed a Palestinian militant riding a mo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70A7G820110111)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110111&t=2&i=302925055&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-11T234834Z_01_BTRE70A1U5100_RTROPTP_0_PALESTINIANS-ISRAEL-GAZA)
 
 ### Related:
 

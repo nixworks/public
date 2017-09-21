@@ -9,6 +9,7 @@ Two national newspapers published articles following the arrest of a man over th
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14024079)
 2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/tabloid-jo-reports-in-contempt-16019664.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52301000/jpg/_52301632_52292938.jpg)
 
 ### Related:
 

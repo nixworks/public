@@ -8,6 +8,7 @@ Assam CM Tarun Gogoi said RDX was used to trigger two of the six blasts in Guwah
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/Serial_blasts_in_Assam_40_dead_200_injured/articleshow/3654301.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/3655252.cms)
 
 ### Related:
 

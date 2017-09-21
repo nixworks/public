@@ -8,6 +8,7 @@ Nabro erupts for a third day after a series of earthquakes, causing airspace res
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/2011614171314651149.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/14/2011614173734104734_20.jpg)
 
 ### Related:
 

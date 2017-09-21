@@ -10,6 +10,7 @@ The BC coroners&rsquo; service says up to 13 people died from drug overdoses in 
 1. [BBC](http://www.bbc.com/news/world-us-canada-38351958)
 2. [CTV News](http://www.ctvnews.ca/canada/up-to-13-people-die-from-drug-overdoses-in-b-c-within-hours-1.3206980)
 3. [The Globe and Mail](http://www.theglobeandmail.com/news/british-columbia/vancouver-sees-nine-fatal-overdoses-in-a-single-night/article33351966/)
+3. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.3207026.1481923652!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:
 

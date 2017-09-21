@@ -10,6 +10,7 @@ Abdel Malik al-Houthi offers Yemeni government conditional truce for fourth time
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hkcrvcJKxSG76riPd7ftYCmNV28A)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/2010130162418278418.html)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8489361.stm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

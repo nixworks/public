@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201041014445747250.html)
 2. [Time](http://www.time.com/time/world/article/0,8599,1981084,00.html)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Lee Wee and Ben Blanchard
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/06/04/us-china-tiananmen-idUSBRE85305320120604)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120604&t=2&i=614913761&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8530J3H00)
 
 ### Related:
 

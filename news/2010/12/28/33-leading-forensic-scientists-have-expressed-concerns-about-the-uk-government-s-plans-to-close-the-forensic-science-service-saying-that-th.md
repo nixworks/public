@@ -8,3 +8,4 @@ Campaigner Sara Payne, whose daughter Sarah was murdered, questions plans to bre
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12086769)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

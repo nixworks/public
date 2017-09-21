@@ -11,6 +11,7 @@ An&#x20;earthquake&#x20;of&#x20;7.2&#x20;magnitude&#x20;on&#x20;the&#x20;Richter
 2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/177347/powerful-quake-hits-indonesia-aceh)
 3. [France24](http://www.france24.com/en/20100509-earthquake-indonesia-sumatra)
 4. [IAfrica.com](http://news.iafrica.com/worldnews/2403580.htm)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/Indonesia-quake-m.jpg)
 
 ### Related:
 

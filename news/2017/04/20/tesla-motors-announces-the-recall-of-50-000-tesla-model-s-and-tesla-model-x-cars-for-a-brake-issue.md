@@ -8,6 +8,7 @@ Tesla Inc (TSLA.O) said on Thursday it would recall 53,000 of its Model S and Mo
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-tesla-recall-idUSKBN17M28A)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170420&t=2&i=1181381789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3J197)
 
 ### Related:
 

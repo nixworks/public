@@ -9,6 +9,7 @@
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/albania-votes-election-key-eu-48261989)
 2. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/albania-elections-parliament-rama-basha-european-union-nato/28577545.html)
+2. [Cover Image](http://a.abcnews.com/images/International/WireAP_66fe1bca49d24a85ab2be3affb6cd33a_16x9_992.jpg)
 
 ### Related:
 

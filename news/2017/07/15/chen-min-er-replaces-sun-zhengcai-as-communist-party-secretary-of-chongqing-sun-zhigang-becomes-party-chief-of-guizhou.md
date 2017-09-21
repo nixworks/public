@@ -8,6 +8,7 @@ China on Saturday named rising political star Chen Miner as Communist Party boss
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-china-politics-idUSKBN1A001G)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170715&t=2&i=1193125019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6E0LJ)
 
 ### Related:
 

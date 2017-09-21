@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-india-floods-idUSKBN1791HW?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170407&t=2&i=1179747727&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED360OS)
 
 ### Related:
 

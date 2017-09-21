@@ -10,6 +10,7 @@ Niloy Neel, a Bangladeshi blogger known for his atheist views, is hacked to deat
 1. [BBC](http://www.bbc.com/news/world-asia-33819032)
 2. [The Hindu](http://www.thehindu.com/news/international/fourth-secular-blogger-hacked-to-death-in-bangladesh/article7512113.ece)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/bangladesh/11789697/Bangladeshi-blogger-who-criticised-Islam-hacked-to-death.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1345F/production/_84734987_niloy_neel_blogger_facebook_nocredit.jpg)
 
 ### Related:
 

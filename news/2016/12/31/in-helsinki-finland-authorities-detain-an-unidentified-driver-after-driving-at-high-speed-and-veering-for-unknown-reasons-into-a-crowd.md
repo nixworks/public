@@ -8,3 +8,4 @@ Up to seven people were injured when a car plowed into a crowd in the eastern pa
 ### Source:
 
 1. [RT](https://www.rt.com/news/372365-helsinki-car-ploughs-crowd/)
+1. [Cover Image](https://img.rt.com/files/2016.12/article/5867b34cc46188ca438b45f5.jpg)

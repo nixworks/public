@@ -9,6 +9,7 @@
 
 1. [AP via Yahoo! News](http://news.yahoo.com/pakistan-siege-karachi-airport-ends-13-dead-000619772.html)
 2. [BBC](http://www.bbc.com/news/world-asia-27757264)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75386000/jpg/_75386991_8nmup6zb.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/05/us-bahrain-rally-idUSTRE81406L20120205)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120205&t=2&i=566884214&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8140SPY00)
 
 ### Related:
 

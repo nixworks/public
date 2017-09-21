@@ -17,6 +17,7 @@ The inability to find bin Laden has frustrated lawmakers throughout Washington f
 8. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218821)
 9. [USA Today](http://www.usatoday.com/news/washington/2011-05-03-politicians-react-bin-laden-death_n.htm)
 10. [abcnews](http://blogs.abcnews.com/thenote/2011/05/osama-bin-laden-body-headed-for-burial-at-sea-officials-say.html)
+10. [Cover Image](http://i.usatoday.net/news/_photos/2011/05/03/politicians-react-bin-laden-death-CL3OD48-x.jpg)
 
 ### Related:
 

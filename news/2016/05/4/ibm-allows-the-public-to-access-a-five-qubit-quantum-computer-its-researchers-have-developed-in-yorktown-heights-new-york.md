@@ -8,6 +8,7 @@ Quantum computing is computing at its most esoteric. But by sharing its prototyp
 ### Source:
 
 1. [Wired](http://www.wired.com/2016/05/ibm-letting-anyone-play-quantum-computer/)
+1. [Cover Image](https://www.wired.com/wp-content/uploads/2016/05/ibm-five-qubit-processor_26093923343_o-1200x630-e1462321951378.jpg)
 
 ### Related:
 

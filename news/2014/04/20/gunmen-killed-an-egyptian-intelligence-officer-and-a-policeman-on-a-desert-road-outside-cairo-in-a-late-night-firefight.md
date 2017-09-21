@@ -8,6 +8,7 @@ CAIRO (Reuters) - Gunmen killed an Egyptian intelligence officer and a policeman
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-egypt-attacks-20140419,0,2760574.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

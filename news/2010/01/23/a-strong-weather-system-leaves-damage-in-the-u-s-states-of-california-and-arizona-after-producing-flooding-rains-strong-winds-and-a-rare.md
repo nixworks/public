@@ -10,6 +10,7 @@ With forecasters saying tornadoes are a possibility Thursday, some are wondering
 1. [ABC News](http://abcnews.go.com/US/wireStory?id=9638945)
 2. [Los Angeles Times](http://www.latimes.com/news/local/la-me-tornado-box21-2010jan21,0,2530648.story)
 3. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/blogs/scavenger/detail?entry_id=55635)
+3. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

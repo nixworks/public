@@ -8,6 +8,7 @@ Nauru&#039;s government promises to process all asylum seekers in its offshore d
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-10-05/asylum-seekers-on-nauru-to-be-processed-within-the-next-week/6828130)
+1. [Cover Image](http://www.abc.net.au/news/image/4338018-1x1-700x700.jpg)
 
 ### Related:
 

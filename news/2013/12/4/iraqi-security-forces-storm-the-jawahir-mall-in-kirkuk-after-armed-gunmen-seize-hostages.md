@@ -8,6 +8,7 @@ Brazen attack on Kirkuk mall by gunmen and suicide bombers leaves many dead as v
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2013/12/several-feared-dead-iraq-gunfight-20131242175724158.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/12/5/201312505726262734_20.jpg)
 
 ### Related:
 

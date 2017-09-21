@@ -8,6 +8,7 @@ Three people are killed in fresh clashes between Muslim Brotherhood supporters a
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25528616)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71972000/jpg/_71972430_b3cca0d2-9818-4ffd-a463-356d3172a1c7.jpg)
 
 ### Related:
 

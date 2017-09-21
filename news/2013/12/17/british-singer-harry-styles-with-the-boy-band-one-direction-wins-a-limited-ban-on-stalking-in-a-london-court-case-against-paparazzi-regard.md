@@ -8,6 +8,7 @@ Unnamed photographers banned from pursuing star in the street or loitering outsi
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/music/2013/dec/17/1d-harry-styles-wins-paparazzi-court-order)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/12/17/1387271573158/Harry-Styles--006.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a1025e383b6c03990515481c43e52c5c)
 
 ### Related:
 

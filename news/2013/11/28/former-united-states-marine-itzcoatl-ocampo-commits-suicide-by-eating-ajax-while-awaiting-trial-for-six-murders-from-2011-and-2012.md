@@ -8,3 +8,4 @@ A former Marine charged with murder in the deaths of four homeless men, a woman 
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/us/2013/11/28/former-marine-accused-california-homeless-killings-dies/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2013/11/28/former-marine-accused-california-homeless-killings-dies/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422690980299.jpg?ve=1)

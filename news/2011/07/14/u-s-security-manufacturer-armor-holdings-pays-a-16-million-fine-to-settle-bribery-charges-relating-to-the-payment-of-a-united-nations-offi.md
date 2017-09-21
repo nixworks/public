@@ -8,6 +8,7 @@ American security manufacturer Armor Holdings pays a $16m (£10m) fine to settle
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-14148635)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54063000/jpg/_54063973_unpeacekeeper.jpg)
 
 ### Related:
 

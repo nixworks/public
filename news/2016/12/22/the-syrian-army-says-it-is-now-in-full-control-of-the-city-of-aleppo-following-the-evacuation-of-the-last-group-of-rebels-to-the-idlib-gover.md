@@ -8,6 +8,7 @@ The Syrian city of Aleppo is back fully under government control, the military s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-38408548)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1184F/production/_93095717_mediaitem93095716.jpg)
 
 ### Related:
 

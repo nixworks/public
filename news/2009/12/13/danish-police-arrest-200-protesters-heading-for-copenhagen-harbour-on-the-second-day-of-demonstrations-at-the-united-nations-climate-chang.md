@@ -11,6 +11,7 @@ News and opinion from The Times &amp; The Sunday Times
 2. [BBC:''In Pictures](http://news.bbc.co.uk/1/hi/in_pictures/8409444.stm)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8410414.stm)
 4. [The Times](http://www.timesonline.co.uk/tol/news/environment/copenhagen/article6954981.ece)
+4. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 
 ### Related:
 

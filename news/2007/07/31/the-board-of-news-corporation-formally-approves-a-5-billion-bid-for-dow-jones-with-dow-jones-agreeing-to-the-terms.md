@@ -10,6 +10,7 @@ Rupert Murdoch is set to achieve his decades-long dream of owning the Wall Stree
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/01/1993776.htm)
 2. [CNN Money](http://money.cnn.com/news/newsfeeds/articles/primenewswire/124067.htm)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSWEN989420070801?feedType=RSS)
+3. [Cover Image](http://www.abc.net.au/news/image/2519384-1x1-700x700.jpg)
 
 ### Related:
 

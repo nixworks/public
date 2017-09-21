@@ -8,6 +8,7 @@ Russian President Vladimir Putin on Monday suspended a treaty with Washington on
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-russia-usa-nuclear-idUSKCN1230YN)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161003&t=2&i=1155899871&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC920J8)
 
 ### Related:
 

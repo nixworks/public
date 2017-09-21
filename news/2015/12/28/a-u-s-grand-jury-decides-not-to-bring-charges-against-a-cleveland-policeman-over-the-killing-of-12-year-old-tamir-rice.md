@@ -8,3 +8,4 @@ A US grand jury decides not to bring charges against a policeman over the killin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-35191347)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E718/production/_87406195_29e7c243-cb2e-4066-8fbe-afdb507d4bc5.jpg)

@@ -8,6 +8,7 @@ Carmaker pledges compensation to executives accused in espionage case as prosecu
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/03/201131419257218960.html#)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/14/201131419337308150_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least four people are killed when landslides engulf homes in southern Switzer
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30077272)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79064000/jpg/_79064507_024757456-1.jpg)
 
 ### Related:
 

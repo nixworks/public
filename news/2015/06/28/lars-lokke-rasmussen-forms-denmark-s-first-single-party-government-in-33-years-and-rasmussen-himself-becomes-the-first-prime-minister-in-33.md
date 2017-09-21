@@ -9,6 +9,7 @@ Ten former ministers make a comeback, while seven are making their debut. Løkke
 
 1. [Copenhagen Post](http://cphpost.dk/news/lokke-rasmussen-unveils-denmarks-new-all-venstre-government.html)
 2. [The Local](http://www.thelocal.dk/20150628/here-is-denmarks-new-government)
+2. [Cover Image](http://cphpost.dk/wp-content/themes/cphpostssb/images/logo.png)
 
 ### Related:
 

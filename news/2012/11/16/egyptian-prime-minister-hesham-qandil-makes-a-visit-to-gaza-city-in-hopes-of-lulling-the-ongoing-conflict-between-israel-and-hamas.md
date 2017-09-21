@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-egytptian-officials-gaza-visit-fails-to-bring-lull-in-violence-20121116,0,7952084.story)
+1. [Cover Image](http://www.trbimg.com/img-50a660f8/turbine/la-fg-egytptian-officials-gaza-visit-fails-to--001/600)
 
 ### Related:
 

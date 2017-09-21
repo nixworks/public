@@ -8,6 +8,7 @@ Eight people died and 36 were arrested in clashes between the Myanmar army and w
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-myanmar-rohingya-idUSKBN13804H?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161113&t=2&i=1161472113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAC04F)
 
 ### Related:
 

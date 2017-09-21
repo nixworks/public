@@ -9,6 +9,7 @@ A security officer who killed an alleged attacker in Amman is among those to ret
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-40712381)
 2. [Reuters](http://www.reuters.com/article/us-jordan-israel-idUSKBN1A90DN)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B32A/production/_97066854_9bdb298c-f4d0-4b55-94f5-d04433f57c84.jpg)
 
 ### Related:
 

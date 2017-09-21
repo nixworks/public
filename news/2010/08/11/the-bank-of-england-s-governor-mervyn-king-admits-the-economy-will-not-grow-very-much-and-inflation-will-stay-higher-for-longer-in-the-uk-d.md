@@ -8,6 +8,7 @@ The Bank of England lowers its growth estimates and says it expects the UK econo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10934302)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Cork Airport is expected to resume full service tomorrow, following the clearanc
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0211/cork.html)
+1. [Cover Image](https://img.rasset.ie/00043709-1600.jpg)
 
 ### Related:
 

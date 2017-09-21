@@ -8,6 +8,7 @@ Rwanda and the Democratic Republic of Congo have agreed to allow a neutral inter
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18848987)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60524000/jpg/_60524199_014774059-1.jpg)
 
 ### Related:
 

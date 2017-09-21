@@ -10,6 +10,7 @@
 1. [Hartford Courant](http://www.courant.com/business/hc-markets-mk-20110811,0,4226365.story)
 2. [MarketWatch](http://www.marketwatch.com/story/australian-stocks-open-with-sharp-losses-2011-08-10)
 3. [MarketWatch](http://www.marketwatch.com/story/japanese-stocks-dive-at-open-with-techs-down-2011-08-10)
+3. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

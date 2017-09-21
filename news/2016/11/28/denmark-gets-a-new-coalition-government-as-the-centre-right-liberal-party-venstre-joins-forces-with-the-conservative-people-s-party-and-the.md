@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Local](http://www.thelocal.dk/20161128/here-is-denmarks-new-coalition-government)
+1. [Cover Image](https://www.thelocal.dk/userdata/images/article/3aacee178af3ef34d2459411c447745a19e5d508af1de9bbfc24b7dc2016138d.jpg)
 
 ### Related:
 

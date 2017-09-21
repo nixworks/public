@@ -9,6 +9,7 @@ Pope Francis visits the tiny Italian island of Lampedusa and urges help for desp
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-23224010)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jul/08/pope-globalisation-of-indifference-lampedusa)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68606000/jpg/_68606935_crowd_ap.jpg)
 
 ### Related:
 

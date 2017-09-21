@@ -8,6 +8,7 @@ Gaza&#8217;s rulers deny responsibility for Friday&#8217;s attack and say they a
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/hamas-arrests-five-for-firing-rocket-into-israel/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/09/F140831ARK03.jpg)
 
 ### Related:
 

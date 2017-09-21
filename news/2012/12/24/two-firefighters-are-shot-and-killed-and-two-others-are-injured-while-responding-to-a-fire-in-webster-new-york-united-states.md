@@ -9,6 +9,7 @@ A gunman shot dead two volunteerfirefighters and injured two others when he ambu
 
 1. [CNN](http://www.cnn.com/2012/12/24/us/new-york-firefighters-shooting/index.html)
 2. [Reuters](http://www.reuters.com/article/2012/12/24/usa-newyork-shooting-idUSL1E8NO3D320121224)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A bomb exploded outside an Egyptian army building north of Cairo on Sunday, woun
 
 1. [NBC News](http://worldnews.nbcnews.com/_news/2013/12/29/22095100-egypt-unrest-bomb-hits-army-intelligence-building-wounds-four-soldiers)
 2. [Reuters](http://in.reuters.com/article/2013/12/29/egypt-explosion-idINDEE9BS02D20131229)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

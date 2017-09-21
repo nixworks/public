@@ -9,6 +9,7 @@
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jVrJ1Ae9vBaL3TYsL6LdLCrSRJkw?docId=CNG.c12c140bd2e4fc0a6a87ad853c05ac1c.781)
 2. [Link TV](http://www.youtube.com/watch?v=DPCpm8YX45o&feature=player_embedded)
+2. [Cover Image](https://i.ytimg.com/vi/DPCpm8YX45o/hqdefault.jpg)
 
 ### Related:
 

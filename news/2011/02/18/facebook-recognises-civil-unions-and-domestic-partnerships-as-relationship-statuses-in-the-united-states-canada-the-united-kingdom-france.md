@@ -8,6 +8,7 @@ Facebook Inc. is recognizing civil unions and domestic partnerships as relations
 ### Source:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/blogs/techchron/detail?entry_id=83325#ixzz1EGpHQYjb)
+1. [Cover Image](https://s0.wp.com/i/blank.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Hamas fires on capital for first time, Tel Aviv for second day in a row; no inju
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=292171)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=205812)
 
 ### Related:
 

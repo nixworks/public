@@ -9,6 +9,7 @@ Louisiana voters headed to the polls on Saturday to choose a successor to Govern
 
 1. [Houma Courier](http://www.houmatoday.com/article/20151023/ARTICLES/151029875)
 2. [Reuters](http://www.reuters.com/article/2015/10/24/us-louisiana-election-idUSKCN0SI0O320151024)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151024&t=2&i=1089485582&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9N0BF)
 
 ### Related:
 

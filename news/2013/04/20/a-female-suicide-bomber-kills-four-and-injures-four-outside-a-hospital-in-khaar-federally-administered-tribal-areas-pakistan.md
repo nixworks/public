@@ -8,6 +8,7 @@ A woman suicide bomber today detonated a bomb outside a hospital in a lawless tr
 ### Source:
 
 1. [PTI via ''The Hindu](http://www.thehindu.com/news/international/south-asia/four-killed-in-suicide-bomb-attack-in-pakistan/article4636853.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

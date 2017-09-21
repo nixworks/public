@@ -12,6 +12,7 @@ Libyan &quot;day of rage&quot; protesters defy Gadhafi crackdown; internal secur
 3. [BBC](http://www.bbc.co.uk/news/world-africa-12490504)
 4. [CNN](http://www.cnn.com/2011/WORLD/africa/02/17/libya.protests/)
 5. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=208672)
+5. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=159579)
 
 ### Related:
 

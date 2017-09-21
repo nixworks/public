@@ -8,6 +8,7 @@ A federal judge ordered the government to pay $101 million to two men and the fa
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,290914,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

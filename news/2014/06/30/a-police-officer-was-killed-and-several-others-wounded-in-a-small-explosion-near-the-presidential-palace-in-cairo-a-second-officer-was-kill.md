@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2014/06/30/us-egypt-blast-idUSKBN0F50Q720140630)
 2. [The Voice of Russia](http://voiceofrussia.com/news/2014_06_30/Second-Egypt-police-officer-killed-defusing-bomb-near-presidential-palace-9464/)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140630&t=2&i=915039469&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5T0I4)
 
 ### Related:
 

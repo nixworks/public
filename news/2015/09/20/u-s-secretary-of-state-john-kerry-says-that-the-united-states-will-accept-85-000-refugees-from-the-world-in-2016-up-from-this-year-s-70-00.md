@@ -9,6 +9,7 @@ As Hungary eases its border restrictions, waves of refugees rush towards Western
 
 1. [CBS News](http://www.cbsnews.com/news/austria-11000-new-migrants-24-hours-crisis-roundup/)
 2. [Washington Post](https://www.washingtonpost.com/world/europe/kerry-us-to-accept-85000-refugees-in-2016-100000-in-2017/2015/09/20/bcace55e-5fb1-11e5-8475-781cc9851652_story.html)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)
 
 ### Related:
 

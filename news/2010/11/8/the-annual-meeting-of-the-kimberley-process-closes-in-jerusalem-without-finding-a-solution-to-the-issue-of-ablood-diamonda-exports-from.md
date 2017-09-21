@@ -8,6 +8,7 @@ Last week’s four-day annual plenary meeting of the diamond-regulating Kimberle
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=194416)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=152696)
 
 ### Related:
 

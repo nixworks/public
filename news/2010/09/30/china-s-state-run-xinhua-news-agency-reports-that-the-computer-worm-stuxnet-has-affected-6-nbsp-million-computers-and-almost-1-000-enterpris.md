@@ -9,6 +9,7 @@ The Stuxnet computer worm has wreaked havoc in China, infecting millions of comp
 
 1. [Economic Times](http://economictimes.indiatimes.com/infotech/internet/Worlds-first-cyber-superweapon-attacks-China/articleshow/6658468.cms)
 2. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20100929-716857.html)
+2. [Cover Image](http://img.etimg.com/thumb/msid-6661281,width-672,resizemode-4,imglength-23477/tech/internet/worlds-first-cyber-superweapon-attacks-china/new-section/virus.jpg)
 
 ### Related:
 

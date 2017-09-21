@@ -8,6 +8,7 @@ Police will be sent in to clear out refugees who do not remove their makeshift h
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1645330/calais-jungle-migrants-get-eviction-deadline)
+1. [Cover Image](http://e3.365dm.com/16/02/1600x900/rtx20sgk-1-2048x1536_3418607.jpg?20160220084941)
 
 ### Related:
 

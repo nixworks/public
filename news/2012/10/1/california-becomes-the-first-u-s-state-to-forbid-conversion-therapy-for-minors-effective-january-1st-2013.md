@@ -8,6 +8,7 @@ California to be first state to ban a controversial form of psychotherapy aimed 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/politics/2012/09/30/california-to-become-first-state-to-ban-gay-teen-conversion-therapy/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2012/09/30/california-to-become-first-state-to-ban-gay-teen-conversion-therapy/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1447004664573.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-stx-m-a-fincantieri-france-idUSKBN1AC16H)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170727&t=2&i=1194752161&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6Q0JP)
 
 ### Related:
 

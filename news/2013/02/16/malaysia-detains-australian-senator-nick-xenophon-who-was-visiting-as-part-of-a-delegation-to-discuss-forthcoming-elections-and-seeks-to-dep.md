@@ -8,6 +8,7 @@ Malaysian officials detain Australian senator, Nick Xenophon, under national sec
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21483133)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65922000/jpg/_65922612_xenophon.jpg)
 
 ### Related:
 

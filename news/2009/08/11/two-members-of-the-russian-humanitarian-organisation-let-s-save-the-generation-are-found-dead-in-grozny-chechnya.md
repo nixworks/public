@@ -10,6 +10,7 @@ Bodies of Zarema Sadulayeva and husband discovered after abduction in Grozny.
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/08/200981154346856185.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=103125&sectionid=351020606)
 3. [RIA Novosti](http://en.rian.ru/russia/20090811/155779713.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

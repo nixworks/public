@@ -8,6 +8,7 @@ Belarus on Sunday signaled a growing rift with Russia, saying President Alexande
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55D07I20090614)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090614&t=2&i=10496706&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-14T115333Z_01_BTRE55D0X1K00_RTROPTP_0_BELARUS-LUKASHENKO)
 
 ### Related:
 

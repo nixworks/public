@@ -10,6 +10,7 @@ A Baghdad court has issued arrest warrants for two correspondents with a Saudi n
 1. [The Huffington Post](http://www.huffingtonpost.com/entry/5836c18fe4b0c2ab944367c7)
 2. [The Independent](http://www.independent.co.uk/news/world/middle-east/iraq-arrest-warrant-two-journalists-fake-news-story-saudi-iranian-pilgrims-rape-a7436776.html)
 3. [The National](http://www.thenational.ae/world/middle-east/iraqi-journalists-face-arrest-over-false-report-in-saudi-paper)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/11/24/14/asharq-al-awsat.jpg)
 
 ### Related:
 

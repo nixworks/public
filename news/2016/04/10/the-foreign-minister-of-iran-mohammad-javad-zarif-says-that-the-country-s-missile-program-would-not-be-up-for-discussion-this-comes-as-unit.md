@@ -8,6 +8,7 @@ John Kerry says US is prepared to address Iran’s concerns if it halts missile 
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/10/iran-missile-program-foreign-minister-john-kerry)
+1. [Cover Image](https://i.guim.co.uk/img/media/175985d8ef01ae2d236429104fb3c0cb98ee83f7/0_97_3296_1977/3296.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=15f7845c56fcfed359f51e73353c3e64)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [AP](http://bigstory.ap.org/article/a6780727882643e38f1ecee125a19dd0/death-toll-tropical-storm-philippines-climbs-39)
 2. [BBC](http://www.bbc.com/news/world-asia-34590520)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/80EC/production/_86240033_86240032.jpg)
 
 ### Related:
 

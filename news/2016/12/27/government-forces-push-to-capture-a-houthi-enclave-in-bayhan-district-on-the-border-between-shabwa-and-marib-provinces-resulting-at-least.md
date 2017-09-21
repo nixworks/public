@@ -8,6 +8,7 @@ At least 28 Huthi insurgents and 12 Yemeni soldiers were killed in clashes in th
 ### Source:
 
 1. [Dunya News](http://dunyanews.tv/en/World/367496-40-killed-in-Yemen-antirebel-offensive-army)
+1. [Cover Image](http://img.dunyanews.tv/news/2016/December/12-28-16/news_big_images/367496_29900111.jpg)
 
 ### Related:
 

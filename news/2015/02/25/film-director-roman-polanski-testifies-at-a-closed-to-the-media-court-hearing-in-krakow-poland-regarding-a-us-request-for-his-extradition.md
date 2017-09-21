@@ -9,6 +9,7 @@ If court approves extradition request, justice minister will decide whether to h
 
 1. [CNN](http://edition.cnn.com/2015/02/25/europe/roman-polanski-extradition/)
 2. [The Guardian](http://www.theguardian.com/film/2015/feb/25/roman-polanski-testifies-at-extradition-hearing-in-poland)
+2. [Cover Image](https://i.guim.co.uk/img/media/168545084492b356e9d753d47633bfdd84caf27b/476_207_1410_845/1000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=db33ffe50cc121f7243a330815702a51)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Scientists in the US succeed in developing the first living bacterial cell to be
 2. [Economist](http://www.economist.com/opinion/displaystory.cfm?story_id=16163006)
 3. [Financial Times](http://www.ft.com/cms/s/2/3dbad5ca-6431-11df-8618-00144feab49a.html)
 4. [The Guardian](http://www.guardian.co.uk/science/2010/may/20/craig-venter-synthetic-life-form)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

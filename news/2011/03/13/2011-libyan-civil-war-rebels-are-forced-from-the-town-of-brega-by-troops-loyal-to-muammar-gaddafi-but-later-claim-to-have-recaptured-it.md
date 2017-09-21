@@ -12,6 +12,7 @@ Forces loyal to Libyan leader Muammar Gaddafi reportedly seize control of the ea
 3. [BBC](http://www.bbc.co.uk/news/world-africa-12726032)
 4. [Reuters](http://www.reuters.com/article/2011/03/13/us-bahrain-protest-financial-idUSTRE72C0R620110313)
 5. [Reuters](http://www.reuters.com/article/2011/03/13/us-yemen-idUSTRE72C0Y320110313?feedType=RSS&feedName=topNews&WT.tsrc=Social%20Media&WT.z_smid=twtr-reuters_TopNews&WT.z_smid_dest=Twitter)
+5. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
 ### Related:
 

@@ -10,6 +10,7 @@ China on Saturday announced a sharp increase in the number of internet users. Th
 1. [China Daily](http://www.chinadaily.com.cn/china/2010-01/16/content_9330415.htm)
 2. [The Independent](http://www.independent.co.uk/news/media/chinas-online-population-swells-to-384-million-1869707.html)
 3. [Times of India](http://timesofindia.indiatimes.com/world/china/China-persuades-Google-to-stay-back/articleshow/5453590.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

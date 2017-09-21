@@ -10,6 +10,7 @@ Myanmar opposition leader Aung San Suu Kyi denied violating her house arrest on 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8069397.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0526/burma.html)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54O2GJ20090526)
+3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090526&t=2&i=10253583&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-26T102825Z_01_BTRE54P0T3H00_RTROPTP_0_MYANMAR-SUUKYI)
 
 ### Related:
 

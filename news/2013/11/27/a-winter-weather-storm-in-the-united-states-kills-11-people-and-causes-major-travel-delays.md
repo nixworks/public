@@ -8,6 +8,7 @@ More than 200 flights were canceled and more than 5,000 were delayed by a deadly
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/business/money/la-fi-mo-flights-delayed-by-storm-20131126,0,7096289.story#axzz2lr0wUAoF)
+1. [Cover Image](http://www.trbimg.com/img-52954bf5/turbine/la-fi-mo-flights-delayed-by-storm-20131126)
 
 ### Related:
 

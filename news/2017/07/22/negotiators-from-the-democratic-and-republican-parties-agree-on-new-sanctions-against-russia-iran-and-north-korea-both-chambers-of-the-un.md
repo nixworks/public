@@ -9,6 +9,7 @@ U.S. Republicans and Democrats have reached agreement on legislation that allows
 
 1. [CBS News](http://www.cbsnews.com/news/house-senate-negotiators-come-to-agreement-on-russia-sanctions-vote-tuesday/)
 2. [Reuters](http://www.reuters.com/article/us-usa-russia-sanctions-idUSKBN1A70L0)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20170722&t=2&i=1194009348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6L0E1)
 
 ### Related:
 

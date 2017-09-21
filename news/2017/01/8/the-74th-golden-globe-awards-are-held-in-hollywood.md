@@ -12,6 +12,7 @@ IN WHAT was one of the most bland ceremonies in Golden Globes history, the most 
 3. [Los Angeles Times](http://www.latimes.com/entertainment/la-et-golden-globes-2017-live-updates-htmlstory.html)
 4. [News Limited](http://www.news.com.au/entertainment/awards/golden-globes/golden-globes-2017-winners-speeches-and-highlights-from-the-show/news-story/e4d42e9e7f3910cba07a371a9b67f44a)
 5. [Variety](http://variety.com/2017/film/news/golden-globes-2017-live-blog-1201954490/)
+5. [Cover Image](http://cdn.newsapi.com.au/image/v1/fb8a4aa6235945e48cb79df20895bb3c)
 
 ### Related:
 

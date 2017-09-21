@@ -13,6 +13,7 @@ A late-day decline again pushed the markets down sharply, with the Dow falling m
 4. [New York Times](http://www.nytimes.com/2008/10/10/business/10markets.html?_r=1&hp&oref=slogin)
 5. [ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_economy_1_09/10/2008_101124)
 6. [ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_economy_1_09/10/2008_101125)
+6. [Cover Image](https://static01.nyt.com/images/2008/10/10/business/10markets01-75.jpg)
 
 ### Related:
 

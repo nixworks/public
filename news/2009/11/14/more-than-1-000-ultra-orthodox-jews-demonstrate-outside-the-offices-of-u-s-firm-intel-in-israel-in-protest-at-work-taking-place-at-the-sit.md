@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8360429.stm)
 2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1258027286616&pagename=JPost%2FJPArticle%2FShowFull)
 3. [Reuters](http://www.reuters.com/article/rbssTechMediaTelecomNews/idUSLE14196720091114)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

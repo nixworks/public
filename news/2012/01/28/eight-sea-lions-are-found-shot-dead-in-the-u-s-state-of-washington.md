@@ -9,6 +9,7 @@ At least eight sea lions have been shot dead in the US state of Washington in th
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16776395)
 2. [KING-TV](http://www.king5.com/news/local/Sea-lion-found-shot-on-West-Seattle-beach-138227969.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58155000/jpg/_58155884_013735424-1.jpg)
 
 ### Related:
 

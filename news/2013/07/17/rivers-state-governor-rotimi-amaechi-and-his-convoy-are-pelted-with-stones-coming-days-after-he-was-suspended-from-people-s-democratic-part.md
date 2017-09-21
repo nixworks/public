@@ -8,6 +8,7 @@ Powerful Nigerian governor Rotimi Amaechi, who recently fell out with the presid
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23340663)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67836000/jpg/_67836581_67836580.jpg)
 
 ### Related:
 

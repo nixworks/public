@@ -8,6 +8,7 @@ Five men are charged with the kidnap, rape and murder of a 23-year-old student o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-20896031)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65055000/jpg/_65055992_65055991.jpg)
 
 ### Related:
 

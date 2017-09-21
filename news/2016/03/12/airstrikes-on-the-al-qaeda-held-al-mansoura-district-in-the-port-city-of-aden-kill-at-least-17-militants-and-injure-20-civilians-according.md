@@ -8,6 +8,7 @@ Saudi-led helicopters attacked al Qaeda militants in Aden overnight in an effort
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-yemen-security-idUKKCN0WF04F)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160313&t=2&i=1124519118&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2C0BP)
 
 ### Related:
 

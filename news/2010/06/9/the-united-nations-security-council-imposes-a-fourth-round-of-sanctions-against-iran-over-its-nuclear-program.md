@@ -11,6 +11,7 @@ The UN Security Council votes in favour of a fourth round of sanctions against I
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/10276276.stm)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=129739&sectionid=351020104)
 4. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=34970&Cr=iran&Cr1=)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48032000/jpg/_48032215_44536487.jpg)
 
 ### Related:
 

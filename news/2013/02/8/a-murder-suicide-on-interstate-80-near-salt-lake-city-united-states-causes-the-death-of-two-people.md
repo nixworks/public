@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Salt Lake Tribune](http://www.sltrib.com/sltrib/news/55795067-78/dead-eastbound-murder-suicide.html.csp)
+1. [Cover Image](http://www.sltrib.com/csp/mediapool/sites/shared/assets/img/tribune1200x630.jpg)
 
 ### Related:
 

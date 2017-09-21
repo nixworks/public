@@ -8,6 +8,7 @@ Former nightclub doorman Levi Bellfield is found guilty of murdering 13-year-old
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-13875507)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52632000/jpg/_52632552_52632551.jpg)
 
 ### Related:
 

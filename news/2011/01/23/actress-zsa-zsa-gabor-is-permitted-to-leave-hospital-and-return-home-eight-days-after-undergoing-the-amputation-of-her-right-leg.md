@@ -8,6 +8,7 @@ Actress Zsa Zsa Gabor is allowed home from hospital eight days after having her 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12261798)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

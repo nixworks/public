@@ -8,6 +8,7 @@ The U.S. has formally dropped Cuba from the list of state sponsors of terrorism.
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/u-s-officially-removes-cuba-state-sponsor-terrorism-list-n366621?cid=eml_nbn_20150529)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_16/977316/150414-cuba-us-flag-santiago-1724_bf594db02b2f95c137e348928dd2a4f3.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

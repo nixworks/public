@@ -10,6 +10,7 @@ Pope Benedict XVI returns home this week -- and Germany is warmly embracing its 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/4161706.stm)
 2. [BBC Pictures](http://news.bbc.co.uk/1/hi/in_pictures/4163022.stm)
 3. [MSNBC](http://www.msnbc.msn.com/id/8974211/)
+3. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/050816/050816_world_youth_day_hmed.standard.jpg)
 
 ### Related:
 

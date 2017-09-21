@@ -9,6 +9,7 @@ Benoit Hamon, a former Socialist government rebel won the first round of a prima
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-38710897)
 2. [Reuters](http://www.reuters.com/article/us-france-election-primary-idUSKBN1550W1)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170122&t=2&i=1169740386&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0K0NS)
 
 ### Related:
 

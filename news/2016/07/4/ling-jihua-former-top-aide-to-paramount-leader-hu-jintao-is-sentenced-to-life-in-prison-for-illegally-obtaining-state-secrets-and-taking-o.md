@@ -8,6 +8,7 @@ Ling Jihua, former top aid to retired president Hu Jintao, has been sentenced to
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/07/04/Former-Jintao-aid-Ling-Jihua-jailed-in-China-on-corruption-charges/4291467638647/?spt=hs&or=tn_int)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4291467638647/2016/1/05412e186a946fea6d40954f66601eda/v1.5/Former-Jintao-aid-Ling-Jihua-jailed-in-China-on-corruption-charges.jpg)
 
 ### Related:
 

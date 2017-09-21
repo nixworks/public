@@ -10,6 +10,7 @@ An explosion at a coal mine in Sardinata in north-eastern Colombia kills 21 work
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12289344)
 2. [CNTV](http://english.cntv.cn/20110127/109802.shtml)
 3. [Colombia Reports](http://colombiareports.com/colombia-news/news/13936-30-miners-feared-dead-in-north-colombia-coalmine.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

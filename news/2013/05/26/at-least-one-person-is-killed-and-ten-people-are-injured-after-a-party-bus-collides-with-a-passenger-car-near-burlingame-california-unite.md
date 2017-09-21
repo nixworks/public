@@ -8,6 +8,7 @@ Party bus collides with a crashed car on Highway 101 in Burlingame
 ### Source:
 
 1. [San Jose Mercury News](http://www.mercurynews.com/peninsula/ci_23328347/one-dead-after-crash-highway-101-burlingame)
+1. [Cover Image](http://www.mercurynews.com/wp-content/themes/mercurynews/static/images/mercurynews.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Voters enrolled in a small right-wing party thinking they were registering as in
 
 1. [Los Angeles Times](http://static.latimes.com/american-independent-party-california-voters/)
 2. [Newsweek](http://www.newsweek.com/california-voter-primary-american-independent-party-449077?google_editors_picks=true)
+2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/04/18/0418californiavotersprimaryamericanindependentparty.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ As it happens: The latest news, views and analysis from BBC Business and beyond.
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/live/business-34287535?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

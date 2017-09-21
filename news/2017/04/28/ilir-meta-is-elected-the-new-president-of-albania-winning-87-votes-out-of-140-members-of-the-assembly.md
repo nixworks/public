@@ -9,6 +9,7 @@
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/albanian-parliament-speaker-meta-elected-president-47081271)
 2. [Top Channel](http://top-channel.tv/lajme/artikull.php?id=353923)
+2. [Cover Image](http://a.abcnews.com/images/International/WireAP_e1884b917ebb41af8586e28889b4b6e1_16x9_992.jpg)
 
 ### Related:
 

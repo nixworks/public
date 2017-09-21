@@ -8,6 +8,7 @@ President Jacob Zuma has cancelled a scheduled trip to Mozambique after visiting
 ### Source:
 
 1. [News24](http://www.news24.com/news24/SouthAfrica/News/Zuma-vists-Mandela-cancels-Mozambique-trip-20130626)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2430/c4769dfbb4c6427eb6de832712abc13c.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Officials say alert follows intercepted telephonic messages of fighter groups.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201042211542593234.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

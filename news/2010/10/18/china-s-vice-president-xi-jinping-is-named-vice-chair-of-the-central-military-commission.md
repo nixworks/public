@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-11564634)
 2. [CBC](http://www.cbc.ca/world/story/2010/10/18/china-vp-military.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-10/18/c_13563001.htm)
+3. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 
 ### Related:
 

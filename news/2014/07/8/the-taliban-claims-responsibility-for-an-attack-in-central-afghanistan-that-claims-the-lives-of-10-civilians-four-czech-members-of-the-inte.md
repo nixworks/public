@@ -8,6 +8,7 @@ The Taliban claimed responsibility for a suicide attack Tuesday in central Afgha
 ### Source:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/taliban-suicide-attack-leaves-16-dead-in-bagram-1404804539)
+1. [Cover Image](https://si.wsj.net/img/WSJ_Logo_black_social.gif)
 
 ### Related:
 

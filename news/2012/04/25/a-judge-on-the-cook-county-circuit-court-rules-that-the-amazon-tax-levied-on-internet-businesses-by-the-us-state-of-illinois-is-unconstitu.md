@@ -8,6 +8,7 @@ An Illinois law aimed at leveling competition between online and offline retaile
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/business/chi-judge-strikes-down-illinois-amazon-tax-law-20120425,0,4850749.story)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

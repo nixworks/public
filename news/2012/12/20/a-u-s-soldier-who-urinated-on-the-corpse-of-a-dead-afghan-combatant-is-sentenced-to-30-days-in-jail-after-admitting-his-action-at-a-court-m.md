@@ -8,6 +8,7 @@ A US Marine is reduced in ranks and forfeits $500 pay after admitting urinating 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20807182)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57838000/jpg/_57838740_reu_grab1.jpg)
 
 ### Related:
 

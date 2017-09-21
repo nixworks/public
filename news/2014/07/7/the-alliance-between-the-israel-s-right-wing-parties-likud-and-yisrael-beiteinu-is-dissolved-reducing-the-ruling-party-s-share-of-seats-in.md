@@ -8,6 +8,7 @@ FM says &#8216;essential&#8217; differences with Netanyahu behind decision; move
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/likud-yisrael-beytenu-to-sever-joint-knesset-list/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/06/F140601MISFF01-e1401993756948.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North Korea threatened a pre-emptive nuclear strike against South Korea and the 
 ### Source:
 
 1. [The Washington Times](http://www.washingtontimes.com/news/2016/mar/6/north-korea-threatens-nuclear-strike-against-us-so/)
+1. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2016/03/06/KimJongUn.jpg)
 
 ### Related:
 

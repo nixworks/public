@@ -9,6 +9,7 @@ The company that owns the National Enquirer, a backer of Donald Trump, agreed to
 
 1. [CNBC](http://www.cnbc.com/2016/11/05/melania-trump-modeled-in-us-prior-to-getting-work-visa.html)
 2. [Fox News](http://www.foxnews.com/politics/2016/11/05/national-enquirer-paid-150g-for-trump-affair-story-then-suppressed-it.html)
+2. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/11/04/0/0/694940094001_5197218172001_Trump-decries-the-economy--Obama-Clinton-era-in-final-push.jpg?ve=1)
 
 ### Related:
 

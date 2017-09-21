@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/04/201341412749649655.html)
 2. [CNN](http://www.cnn.com/2013/04/13/world/americas/peru-bus-crash/)
 3. [The Nation](http://www.nation.com.pk/pakistan-news-newspaper-daily-english-online/international/14-Apr-2013/peru-bus-crash-leaves-33-dead-10-injured)
+3. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/9/201249185513831734_20.jpg)
 
 ### Related:
 

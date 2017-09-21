@@ -9,6 +9,7 @@ A magnitude 6.7 earthquake hits central Japan, injuring at least 39 and collapsi
 
 1. [AP](http://bigstory.ap.org/article/14b6de9f4af74a799752d0ed4119bfde/strong-quake-strikes-central-japans-nagano-city)
 2. [Wires and ABC News Australia](http://www.abc.net.au/news/2014-11-23/magnitude-68-quake-hits-central-japan/5911732)
+2. [Cover Image](http://www.abc.net.au/news/image/361088-1x1-700x700.jpg)
 
 ### Related:
 

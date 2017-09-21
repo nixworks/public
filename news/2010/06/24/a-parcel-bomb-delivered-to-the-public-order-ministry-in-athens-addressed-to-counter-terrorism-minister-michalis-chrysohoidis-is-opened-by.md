@@ -11,6 +11,7 @@ Parcel bomb kills one person at offices of the ministry of citizen protection in
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10409192.stm)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/greece/7853057/Bomb-hits-Greek-law-enforcement-ministry-1-dead.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/jun/25/greece-bomb-kills-security-minister-aide)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

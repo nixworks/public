@@ -9,6 +9,7 @@ The US and Vietnam stage joint naval activities in the South China Sea, a sign o
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10925061)
 2. [China Daily](http://www.chinadaily.com.cn/world/2010-08/11/content_11134190.htm)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

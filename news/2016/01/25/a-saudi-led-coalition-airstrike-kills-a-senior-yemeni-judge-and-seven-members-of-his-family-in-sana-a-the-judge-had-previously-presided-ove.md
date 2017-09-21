@@ -9,6 +9,7 @@ A Saudi-led coalition strike killed a senior Yemeni judge and seven members of h
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/coalition-strike-kills-yemen-judge-7-family-members-103715375.html?soc_src=mediacontentsharebuttons&soc_trk=tw)
 2. [RT](https://www.rt.com/news/330038-yemen-airstrike-judge-killed/)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/tRqN_V1aQ4O3tpi0m_j9pA--/aD02NzQ7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/90d677abffce7c0b8e4ca6653a81f5c83ba14722.jpg)
 
 ### Related:
 

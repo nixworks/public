@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13851316)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53539000/jpg/_53539463_riot.jpg)
 
 ### Related:
 

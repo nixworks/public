@@ -8,6 +8,7 @@ Turkish security forces backed up by tanks and combat helicopters launched a lar
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/five-dead-pkk-attacks-turkey-fighting-rages-193033058.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/Cnvb.5bO_Ef8WmwBr60P5Q--/aD02NTM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-REF-TS-Par8325684-1-1-0.jpg)
 
 ### Related:
 

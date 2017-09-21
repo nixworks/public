@@ -11,6 +11,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 2. [ISN](http://www.isn.ethz.ch/news/sw/details.cfm?id=10975)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7956341)
 4. [Wired](http://wireservice.wired.com/wired/story.asp?section=Breaking&storyId=1007520&tw=wn_wire_story)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

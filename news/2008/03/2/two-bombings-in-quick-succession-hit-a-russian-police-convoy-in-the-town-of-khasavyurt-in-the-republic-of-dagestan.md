@@ -8,6 +8,7 @@ Two bombings hit a police convoy Sunday in a town in southern Russia near Chechn
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,334377,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

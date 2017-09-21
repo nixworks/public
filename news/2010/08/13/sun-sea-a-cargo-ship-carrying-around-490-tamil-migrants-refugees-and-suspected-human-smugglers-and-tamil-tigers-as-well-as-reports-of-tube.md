@@ -11,6 +11,7 @@
 2. [CBC](http://www.cbc.ca/canada/british-columbia/story/2010/08/13/bc-tamil-ship-migrants-esquimalt.html)
 3. [CTV](http://www.ctv.ca/CTVNews/TopStories/20100813/tamil-ship-arrives-100813/)
 4. [Toronto Star](http://www.thestar.com/news/canada/article/847500--rcmp-returns-after-boarding-tamil-ship?bn=1)
+4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

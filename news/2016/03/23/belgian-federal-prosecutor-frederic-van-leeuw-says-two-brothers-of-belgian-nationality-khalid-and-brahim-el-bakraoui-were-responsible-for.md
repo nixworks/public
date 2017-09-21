@@ -11,6 +11,7 @@ The brothers fit what European anti-terrorism investigators call a disturbing bu
 2. [Los Angeles Times](http://www.latimes.com/world/europe/la-fg-suspect-in-brussels-attacks-is-sought-20160323-story.html)
 3. [Reuters](http://www.reuters.com/article/us-belgium-blast-poland-idUSKCN0WP1D1)
 4. [UPI](http://www.upi.com/Top_News/World-News/2016/03/23/Belgian-prosecutor-confirms-Brussels-bombing-brothers-identities-describes-note-left-by-one/8501458722374/?spt=hts&or=1)
+4. [Cover Image](http://www.trbimg.com/img-56f29929/turbine/la-fg-suspect-in-brussels-attacks-is-sought-20160323)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The Saudi embassy and consulates in Egypt are closed following protests over an 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17881733)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59926000/jpg/_59926752_014621363-1.jpg)
 
 ### Related:
 

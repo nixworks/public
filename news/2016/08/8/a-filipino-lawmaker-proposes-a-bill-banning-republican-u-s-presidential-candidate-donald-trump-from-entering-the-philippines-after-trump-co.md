@@ -9,6 +9,7 @@
 
 1. [Rappler](http://www.rappler.com/nation/142364-joey-salceda-house-resolution-ban-donald-trump-enter-philippines)
 2. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2016/08/08/lawmaker-calls-for-donald-trump-to-be-banned-from-the-philippines/)
+2. [Cover Image](https://assets.rappler.com/BBFFDECC6D9A419C9A9FD98294939E02/img/F364D912DF40464FBB72A28B27A5987B/20160808-salceda-ban-trump.jpg)
 
 ### Related:
 

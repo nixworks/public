@@ -9,6 +9,7 @@ American Airlines (AAL.O) has suspended an employee after a video showed an alte
 
 1. [Reuters](http://www.reuters.com/article/us-american-airline-passenger-idUSKBN17O04Y)
 2. [The Washington Post](https://www.washingtonpost.com/news/dr-gridlock/wp/2017/04/22/american-airlines-suspends-flight-attendant-after-video-captures-confrontation/)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

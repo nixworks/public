@@ -10,6 +10,7 @@ Portugal Ahead pro-austerity coalition under Pedro Passos Coelho took 36.8% of t
 1. [Reuters](http://www.reuters.com/article/2015/10/04/us-portugal-election-idUSKCN0RY00520151004)
 2. [The Guardian](http://www.theguardian.com/world/2015/oct/04/portugal-election-ruling-centre-right-coalition-headed-for-victory)
 3. [The Telegraph](http://www.telegraph.co.uk/finance/economics/11902641/The-forgotten-man-of-the-euro-Indebted-Portugal-set-to-beat-off-Socialists-and-stick-with-austerity.html)
+3. [Cover Image](https://i.guim.co.uk/img/media/9bef73195d41147a1a6e60c28ca6217c9a1d9c71/0_55_4700_2822/master/4700.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b2f9c3c3a21de702a92b0a334c1b02ee)
 
 ### Related:
 

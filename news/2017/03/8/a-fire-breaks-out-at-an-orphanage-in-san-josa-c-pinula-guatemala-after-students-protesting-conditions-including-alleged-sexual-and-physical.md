@@ -8,6 +8,7 @@ The teenage girls die a day after a riot erupted at the shelter near Guatemala C
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39208309)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7692/production/_95045303_mediaitem95045302.jpg)
 
 ### Related:
 

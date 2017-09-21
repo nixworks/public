@@ -8,6 +8,7 @@ Former president Chen Shui-bian (陳水扁) will now be identified by his person
 ### Source:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2010/12/04/2003490058)
+1. [Cover Image](http://www.taipeitimes.com/images/2010/12/04/thumbs/p01-101204-A1.jpg)
 
 ### Related:
 

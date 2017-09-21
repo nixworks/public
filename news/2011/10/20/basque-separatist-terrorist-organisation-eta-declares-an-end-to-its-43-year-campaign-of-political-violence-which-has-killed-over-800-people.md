@@ -8,6 +8,7 @@ The Basque separatist group Eta announces to the BBC a &quot;definitive cessatio
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15393014)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56186000/jpg/_56186880_jex_1207139_de27-1.jpg)
 
 ### Related:
 

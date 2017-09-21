@@ -8,6 +8,7 @@ The death toll from the Christmas Island shipwreck could rise as high as 50, Pri
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/12/20/3097650.htm?section=justin)
+1. [Cover Image](http://www.abc.net.au/news/image/2375540-1x1-700x700.jpg)
 
 ### Related:
 

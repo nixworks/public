@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/11/24/uk-britain-eu-poll-idUKKBN0TD0FY20151124)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151124&t=2&i=1097290408&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAN07I)
 
 ### Related:
 

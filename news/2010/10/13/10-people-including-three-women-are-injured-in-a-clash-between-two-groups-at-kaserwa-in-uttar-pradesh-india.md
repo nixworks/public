@@ -8,6 +8,7 @@
 ### Source:
 
 1. [DNA](http://www.dnaindia.com/india/report_10-injured-in-poll-related-clash-in-uttar-pradesh_1451896)
+1. [Cover Image](http://static.dnaindia.com/images/2015/dna-logo-shared.jpg?v=1212)
 
 ### Related:
 

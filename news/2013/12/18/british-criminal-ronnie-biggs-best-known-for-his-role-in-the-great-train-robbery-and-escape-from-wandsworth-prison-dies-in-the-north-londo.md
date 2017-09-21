@@ -9,6 +9,7 @@ Ronnie Biggs, who took part in the 1963 Great Train Robbery before escaping from
 
 1. [BBC](http://www.bbc.co.uk/news/uk-25426914)
 2. [The Washington Post](http://www.washingtonpost.com/world/europe/ronnie-biggs-notorious-participant-in-great-train-robbery-dies-at-84/2013/12/18/3f142a38-c5da-11df-94e1-c5afa35a9e59_story.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71815000/jpg/_71815147_020384721-1.jpg)
 
 ### Related:
 

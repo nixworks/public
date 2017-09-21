@@ -9,6 +9,7 @@ Iran released 140 people detained in Iran&#039;s post-election turmoil on Tuesda
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=101829&sectionid=351020101)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iran/5925822/Iran-releases-140-protesters.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01445/iran_1445452a.jpg)
 
 ### Related:
 

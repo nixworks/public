@@ -8,6 +8,7 @@ President Barack Obama unilaterally designates two new &quot;national monument&q
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-us-canada-38462136)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0395/production/_93171900_gettyimages-589474130.jpg)
 
 ### Related:
 

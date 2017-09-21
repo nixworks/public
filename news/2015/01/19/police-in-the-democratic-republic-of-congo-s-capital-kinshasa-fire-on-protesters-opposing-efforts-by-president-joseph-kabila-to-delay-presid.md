@@ -8,6 +8,7 @@ Activists urging president to resign clash with police in capital, resulting in 
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/africa/2015/01/dr-congo-rocked-anti-government-protests-20151192254459896.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/1/19/201511923332394734_20.jpg)
 
 ### Related:
 

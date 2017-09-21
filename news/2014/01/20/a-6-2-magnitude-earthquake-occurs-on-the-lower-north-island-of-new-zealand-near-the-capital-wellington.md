@@ -8,6 +8,7 @@ Do you have any photos or video? Contact the Herald here . - New Zealand Herald
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11189343)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/20144/eagle_1024x761.jpg)
 
 ### Related:
 

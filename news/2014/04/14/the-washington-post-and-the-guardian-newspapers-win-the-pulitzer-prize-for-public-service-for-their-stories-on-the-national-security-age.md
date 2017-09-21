@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ''Salt Lake Tribune](http://www.sltrib.com/sltrib/world/57817436-68/reporting-public-post-pulitzer.html.csp)
+1. [Cover Image](http://www.sltrib.com/csp/mediapool/sites/shared/assets/img/tribune1200x630.jpg)
 
 ### Related:
 

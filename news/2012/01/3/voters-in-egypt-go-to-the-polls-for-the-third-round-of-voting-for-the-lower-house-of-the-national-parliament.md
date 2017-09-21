@@ -8,6 +8,7 @@ Egyptians voted in the third round of a parliamentary election today that has so
 ### Source:
 
 1. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0103/breaking1.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

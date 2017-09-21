@@ -8,6 +8,7 @@ An early piano believed to have been played by Wolfgang Amadeus Mozart has surfa
 ### Source:
 
 1. [The Age](http://news.theage.com.au/breaking-news-world/piano-played-by-mozart-discovered-20100805-11jcf.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

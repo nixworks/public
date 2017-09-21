@@ -9,6 +9,7 @@ Pakistani authorities negotiated on Tuesday for the release of about 200 student
 
 1. [RTÉ](http://www.rte.ie/news/2009/0601/pakistan.html)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5504KH20090601)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090601&t=2&i=10338448&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-01T201504Z_01_BTRE5501K9A00_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

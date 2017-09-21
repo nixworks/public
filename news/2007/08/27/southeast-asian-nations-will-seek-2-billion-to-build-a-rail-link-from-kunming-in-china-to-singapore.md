@@ -8,6 +8,7 @@ Southeast Asian nations will seek to raise $2 billion later this year to complet
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-29168320070827)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070827&t=2&i=1357731&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2007-08-27T121131Z_01_NOOTR_RTRMDNC_0_India-291683-1)
 
 ### Related:
 

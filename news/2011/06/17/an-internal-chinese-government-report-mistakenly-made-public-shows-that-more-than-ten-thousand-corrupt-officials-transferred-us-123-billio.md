@@ -10,6 +10,7 @@ A media storm over corrupt officials is embarrassing China’s Communist Party a
 1. [The New York Times](http://www.nytimes.com/2011/06/17/world/asia/17briefs-China.html)
 2. [The Times'' via ''The Australian](http://www.theaustralian.com.au/news/world/accidentally-released-report-reveals-embarrassing-extent-of-chinese-corruption/story-e6frg6so-1226076938605)
 3. [Wall Street Journal](http://blogs.wsj.com/chinarealtime/2011/06/16/report-corrupt-chinese-officials-take-123-billion-overseas/)
+3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Index.hu](http://index.hu/belfold/2011/05/29/elhunyt_madl_ferenc/)
+1. [Cover Image](http://kep.cdn.index.hu/1/0/214/2144/21443/2144306_a0254faaa2095be395f77bfe6b6a34d7_wm.jpg)
 
 ### Related:
 

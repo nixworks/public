@@ -9,6 +9,7 @@ Microblogging site Twitter went offline Friday after hackers calling themselves 
 
 1. [CNN](http://edition.cnn.com/2009/TECH/12/18/twitter.hacked/)
 2. [PC World](http://www.pcworld.com/businesscenter/article/185058/hackers_take_twitter_offline.html)
+2. [Cover Image](http://csmb.staticworld.net/images/furniture/pcworld/NoPrimaryImage.png)
 
 ### Related:
 

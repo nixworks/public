@@ -8,6 +8,7 @@ BAGHDAD (AP) — Iraq on Sunday executed 36 men convicted of taking part in the 
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/cea0e869bcc34c3fb45e1e62cf90857d/iraq-executes-36-men-convicted-islamic-state-massacre)
+1. [Cover Image](http://binaryapi.ap.org/c62ca678df0d4e03a2260b59820fe230/460x.jpg)
 
 ### Related:
 

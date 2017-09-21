@@ -9,6 +9,7 @@ U.S. and Iraqi officials on Tuesday said bodies believed to be those of two miss
 
 1. [CNN](http://www.cnn.com/2006/WORLD/meast/06/20/soldiers.missing/index.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/13432770/?GT1=8211)
+2. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/060621/tdy_mik_iraq_060621.standard.jpg)
 
 ### Related:
 

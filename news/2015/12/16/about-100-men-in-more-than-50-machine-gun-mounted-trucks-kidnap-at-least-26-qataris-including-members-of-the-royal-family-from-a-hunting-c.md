@@ -8,6 +8,7 @@ Some 100 men in trucks with machine guns abducted the group from a remote desert
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1607162/qatari-royals-kidnapped-while-hunting-in-iraq)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/rtx4ciq-1_3498281.jpg?20160704100656)
 
 ### Related:
 

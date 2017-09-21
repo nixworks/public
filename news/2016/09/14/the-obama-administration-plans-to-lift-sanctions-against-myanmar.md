@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/09/14/493944082/obama-says-u-s-is-prepared-to-lift-sanctions-against-myanmar)
+1. [Cover Image](https://media.npr.org/assets/img/2016/09/14/ap_16258606552243_wide-96c6b6287e4bc82153907549c5f92148d5d452d4.jpg?s=1400)
 
 ### Related:
 

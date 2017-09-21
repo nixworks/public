@@ -13,6 +13,7 @@
 4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20110420-332163/Kindergartener-brings-gun-to-Texas-school-3-hurt)
 5. [South Africa Star](http://www.thestar.co.za/child-brings-gun-to-texas-school-1.1059127)
 6. [The Guardian](http://www.guardian.co.uk/world/2011/apr/19/houston-nursery-school-gun-pupils-injured)
+6. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52264000/gif/_52264385_xq9gq05k.gif)
 
 ### Related:
 

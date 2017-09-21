@@ -9,6 +9,7 @@ A dog called Jilly, who despite a very ordinary name is a Petit Basset Griffon V
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21737271)
 2. [The Times](http://www.thetimes.co.uk/tto/news/uk/article3710208.ece)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66310000/jpg/_66310338_ksyb3ny0.jpg)
 
 ### Related:
 

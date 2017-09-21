@@ -8,6 +8,7 @@ Despite an impassioned plea by Representative Charles B. Rangel, the House voted
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/12/03/nyregion/03rangel.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2010/12/03/us/03rangel_163/03rangel_163-thumbStandard.jpg)
 
 ### Related:
 

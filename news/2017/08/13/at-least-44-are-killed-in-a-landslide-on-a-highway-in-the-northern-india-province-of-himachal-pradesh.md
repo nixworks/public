@@ -9,6 +9,7 @@
 
 1. [MSN](http://www.msn.com/en-au/news/world/at-least-74-dead-dozens-missing-in-monsoon-disasters-across-nepal-india/ar-AApZs5U?li=AAgfLCP&ocid=UP94DHP)
 2. [The Hindu](http://www.thehindu.com/news/national/other-states/many-killed-in-massive-himachal-pradesh-landslip/article19485223.ece)
+2. [Cover Image](http://www.thehindu.com/news/national/other-states/article19485820.ece/ALTERNATES/LANDSCAPE_615/Himachal%20Pradesh%20landslide)
 
 ### Related:
 

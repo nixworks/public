@@ -8,6 +8,7 @@ Immigration Minister Peter Dutton confirms Australia will work with Papua New Gu
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-08-17/manus-island-to-close-png-prime-minister-confirms/7759810)
+1. [Cover Image](http://www.abc.net.au/news/image/5532140-1x1-700x700.jpg)
 
 ### Related:
 

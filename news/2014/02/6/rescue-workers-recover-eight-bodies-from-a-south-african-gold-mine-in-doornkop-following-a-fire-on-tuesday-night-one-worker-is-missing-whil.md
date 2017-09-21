@@ -8,6 +8,7 @@ Rescue workers at the Doornkop gold mine in South Africa say they have recovered
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-26062395#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72787000/jpg/_72787761_019152937.jpg)
 
 ### Related:
 

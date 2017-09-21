@@ -8,6 +8,7 @@ Brent crude rose above $103 a barrel on Thursday after violent clashes in Egypt 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/02/03/idINIndia-54638520110203)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110203&t=2&i=326813377&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-02-03T204035Z_01_NOOTR_RTRMDNC_0_India-546385-1)
 
 ### Related:
 

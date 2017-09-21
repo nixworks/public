@@ -10,7 +10,7 @@ _Context: Baghdad_
 _Context: Hamas, Israel, Sheikh Ahmed Yassin, assassinated_
 
 ### [ Abud Sarhan, a shepherd, sues US Army General Franks and Secretary Rumsfeld following the deaths of 17 family members during the invasion of Iraq](/news/2003/06/13/abud-sarhan-a-shepherd-sues-us-army-general-franks-and-secretary-rumsfeld-following-the-deaths-of-17-family-members-during-the-invasion-o.md)
-_Context: 2003 invasion of Iraq, Abud Sarhan, Donald Rumsfeld, Gen. Tommy Franks, lawsuit, shepherd_
+_Context: 2003 invasion of Iraq, Abud Sarhan, Donald Rumsfeld, Tommy Franks, lawsuit, shepherd_
 
 ### [ US Baseball: Pitching against the St. Louis Cardinals, New York Yankee Roger Clemens notches his 4,000th strikeout and his 300th win.](/news/2003/06/13/us-baseball-pitching-against-the-st-louis-cardinals-new-york-yankee-roger-clemens-notches-his-4-000th-strikeout-and-his-300th-win.md)
 _Context: 300th win, 4,000th strikeout, New York Yankees, Roger Clemens, St. Louis Cardinals, baseball game_

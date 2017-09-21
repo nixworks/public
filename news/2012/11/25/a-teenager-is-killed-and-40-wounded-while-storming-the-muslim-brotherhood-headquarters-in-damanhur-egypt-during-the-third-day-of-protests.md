@@ -9,6 +9,7 @@ A 15-year-old is dead after rioters stormed a Muslim Brotherhood headquarters bu
 
 1. [CBC](http://www.cbc.ca/news/world/story/2012/11/25/egypt.html)
 2. [National Post](http://news.nationalpost.com/2012/11/25/one-killed-40-injured-in-egypt-riot-president-mohammed-morsi-plans-to-meet-judges/)
+2. [Cover Image](https://i.cbc.ca/1.1551547.1379045682!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-egypt-clash-03640889.jpg)
 
 ### Related:
 

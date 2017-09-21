@@ -10,6 +10,7 @@ U.S. congressional leaders on Sunday said they had reached the broad outline of 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gq42vLUmcA9LTFzCEF-EN1vnhV8wD93G2A0G0)
 2. [BBC News](http://news.bbc.co.uk/2/hi/business/7640143.stm)
 3. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE48R0BP20080928)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20080928&t=2&i=6166737&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-09-28T063905Z_01_BTRE48R0EIU00_RTROPTP_0_FINANCIAL-BAILOUT)
 
 ### Related:
 

@@ -13,3 +13,4 @@ A gunman opened fire at a community college in southern Oregon on Thursday, kill
 4. [Palm Beach Post](http://www.palmbeachpost.com/ap/ap/top-news/the-latest-multiple-casualties-reported-in-oregon-/nnsGc/)
 5. [Reuters](http://www.reuters.com/article/2015/10/01/us-usa-shooting-oregon-idUSKCN0RV5EP20151001)
 6. [Reuters](http://www.reuters.com/article/2015/10/02/us-usa-shooting-oregon-idUSKCN0RV5EP20151002)
+6. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151001&t=2&i=1083815296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB902JZ)

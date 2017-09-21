@@ -8,6 +8,7 @@ Tuberculosis has surpassed HIV as the leading global cause of death, despite the
 ### Source:
 
 1. [UPI](http://www.upi.com/Health_News/2015/10/28/WHO-Tuberculosis-passes-HIV-as-leading-global-cause-of-death/7391446056825/?spt=hs&or=hn)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/7391446056825/2015/1/14460635293648/v2.1/WHO-Tuberculosis-passes-HIV-as-leading-global-cause-of-death.jpg)
 
 ### Related:
 

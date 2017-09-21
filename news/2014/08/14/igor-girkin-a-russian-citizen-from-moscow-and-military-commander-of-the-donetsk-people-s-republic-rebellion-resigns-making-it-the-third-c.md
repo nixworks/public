@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/08/14/uk-ukraine-crisis-strelkov-idUKKBN0GE1N420140814)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140814&t=2&i=964073352&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7D0Q6)
 
 ### Related:
 

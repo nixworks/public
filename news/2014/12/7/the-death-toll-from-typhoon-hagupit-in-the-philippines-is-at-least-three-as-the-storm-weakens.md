@@ -8,6 +8,7 @@ Tropical Storm Hagupit weakens as it sweeps across the Philippines towards Manil
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30370012)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/79576000/jpg/_79576807_79576806.jpg)
 
 ### Related:
 

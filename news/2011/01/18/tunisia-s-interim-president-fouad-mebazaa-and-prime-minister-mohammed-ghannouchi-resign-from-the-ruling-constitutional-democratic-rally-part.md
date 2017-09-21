@@ -11,6 +11,7 @@ The French foreign minister defends her handling of the Tunisian crisis, saying 
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011118194731826312.html)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-12220862)
 4. [BBC](http://www.bbc.co.uk/news/world-europe-12214746)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

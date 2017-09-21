@@ -8,6 +8,7 @@ The film adaptation of The Hobbit could become the most expensive movie of all t
 ### Source:
 
 1. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10679765)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201042/SCCZEN_94379408_1024x76881215.JPG)
 
 ### Related:
 

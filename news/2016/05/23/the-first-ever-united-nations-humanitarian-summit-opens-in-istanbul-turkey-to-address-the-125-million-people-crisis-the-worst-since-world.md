@@ -9,6 +9,7 @@ Global leaders met in Istanbul on Monday to tackle a &quot;broken&quot; humanita
 
 1. [AP via ''Deseret News](http://www.deseretnews.com/article/765686665/World-Humanitarian-Summit-opens-in-Istanbul-to-tackle-crisis.html)
 2. [Reuters](http://in.reuters.com/article/humanitarian-summit-idINKCN0YE1JV)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160523&t=2&i=1138363286&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4M0VK)
 
 ### Related:
 

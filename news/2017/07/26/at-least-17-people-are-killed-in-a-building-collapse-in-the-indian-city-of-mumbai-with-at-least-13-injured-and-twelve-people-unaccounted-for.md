@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP/PA via ''Milford Mercury](http://www.milfordmercury.co.uk/news/national/15434567.Death_toll_in_Mumbai_building_collapse_rises_to_17/)
+1. [Cover Image](http://www.milfordmercury.co.uk/resources/images/6635413/)
 
 ### Related:
 

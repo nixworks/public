@@ -8,6 +8,7 @@ Gordon Brown, the prime minister broke his silence on the release of the Lockerb
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/6088166/Lockerbie-bomber-Gordon-Brown-denies-he-had-role-in-Megrahis-release.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01466/lockerbie460_1466316a.jpg)
 
 ### Related:
 

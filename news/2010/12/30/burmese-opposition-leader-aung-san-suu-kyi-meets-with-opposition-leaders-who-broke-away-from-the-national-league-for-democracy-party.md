@@ -8,6 +8,7 @@ Burma&#039;s opposition leader Aung San Suu Kyi has met with former colleagues w
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/12/30/3104024.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/359740-1x1-700x700.jpg)
 
 ### Related:
 

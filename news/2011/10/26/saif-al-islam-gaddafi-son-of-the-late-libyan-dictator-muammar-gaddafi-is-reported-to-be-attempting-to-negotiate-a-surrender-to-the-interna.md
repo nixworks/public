@@ -8,6 +8,7 @@ Col Muammar Gaddafi&#039;s fugitive son and his intelligence chief are trying to
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8851502/Saif-al-Islam-Gaddafi-trying-to-broker-deal-to-surrender-to-ICC.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02038/Saif-al-Islam_2038118a.jpg)
 
 ### Related:
 

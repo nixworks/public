@@ -8,6 +8,7 @@ Two suicide bombings against Iraqi soldiers follow three other attacks by women
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/news/female-suicide-bombers-kill-iraqi-soldiers-fight-for-mosul/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/07/03/11049e05-f3b8-4bbe-8722-b2913caabc10/2017-07-03t144252z-1862989662-rc1f203c0020-rtrmadp-3-mideast-crisis-iraq-mosul.jpg)
 
 ### Related:
 

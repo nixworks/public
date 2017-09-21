@@ -8,6 +8,7 @@ At least 12 people are shot dead and 80 wounded by security forces in northern A
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13438021)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52816000/jpg/_52816291_012006825-2.jpg)
 
 ### Related:
 

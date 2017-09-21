@@ -9,6 +9,7 @@ Hong Kong police said it arrested more than 200 protesters, who paralysed traffi
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gjkwi6jd9oNLwY-iSVLqg_Kxzcsw?docId=CNG.34a11628a7892b6c861a8ffb743aafa7.391)
 2. [Reuters](http://in.reuters.com/article/2011/07/02/idINIndia-58049320110702)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110702&t=2&i=450726269&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-07-02T095859Z_01_NOOTR_RTRMDNC_0_India-580493-1)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A new study paints a picture of an Earth that is warmer than it has been in abou
 1. [Nature](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature19798.html)
 2. [Nature](http://www.nature.com/news/longest-historic-temperature-record-stretches-back-2-million-years-1.20673#/b1)
 3. [Phys.org](http://phys.org/news/2016-09-earth-roughly-warmest-years.html)
+3. [Cover Image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2014/1-earth.jpg)
 
 ### Related:
 

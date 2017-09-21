@@ -10,6 +10,7 @@
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/07/201072152627545668.html)
 2. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5hYLT9WHY38xWhGXcpLD6qT762uoQ)
 3. [RIA Novosti](http://en.rian.ru/trend/baksan_attack/)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

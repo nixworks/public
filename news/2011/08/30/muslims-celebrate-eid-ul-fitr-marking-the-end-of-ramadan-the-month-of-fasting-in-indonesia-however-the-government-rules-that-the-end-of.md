@@ -9,6 +9,7 @@ Saudi Arabia announced Eid-ul-Fitr falls today, while most of Pakistan and India
 
 1. [Hindustan Times](http://www.hindustantimes.com/Indonesia-s-Eid-confusion-To-fast-or-not-to-fast/Article1-739804.aspx)
 2. [Wall Street Journal](http://blogs.wsj.com/indiarealtime/2011/08/30/world-again-split-on-two-%E2%80%98eids%E2%80%99/)
+2. [Cover Image](http://s.wsj.net/public/resources/images/OB-PK034_ieid08_G_20110830014329.jpg)
 
 ### Related:
 

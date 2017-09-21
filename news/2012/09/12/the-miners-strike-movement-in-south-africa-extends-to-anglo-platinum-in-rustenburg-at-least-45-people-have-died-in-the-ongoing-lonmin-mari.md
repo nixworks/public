@@ -8,6 +8,7 @@ More than 1,500 striking workers moving from shaft to shaft at Amplats platinum 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/09/201291265611275964.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/12/20129127318145734_20.jpg)
 
 ### Related:
 

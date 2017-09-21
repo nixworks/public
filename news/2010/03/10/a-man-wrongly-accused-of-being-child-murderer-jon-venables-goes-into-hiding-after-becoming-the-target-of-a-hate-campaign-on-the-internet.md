@@ -8,3 +8,4 @@ A man, David Calvert, has gone into hiding, fearful for his life after he was wr
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/7412162/Jon-Venables-man-wrongly-accused-of-being-Bulger-killer-living-in-fear-of-vigilantes.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01593/David-Calvert-vena_1593840a.jpg)

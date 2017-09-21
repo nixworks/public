@@ -8,6 +8,7 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 ### Source:
 
 1. [Minneapolis St. Paul Star Tribune](http://www.startribune.com/587/story/543661.html)
+1. [Cover Image](http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1490642336)
 
 ### Related:
 

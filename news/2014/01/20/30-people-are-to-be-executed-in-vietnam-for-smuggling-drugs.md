@@ -8,6 +8,7 @@ A Vietnamese court sentences 30 people to death over heroin smuggling in what is
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-asia-25806353)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72386000/gif/_72386350_vietnam-hanoi.gif)
 
 ### Related:
 

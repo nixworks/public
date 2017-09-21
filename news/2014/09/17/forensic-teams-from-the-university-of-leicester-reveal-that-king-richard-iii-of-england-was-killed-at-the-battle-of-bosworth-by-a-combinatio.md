@@ -8,6 +8,7 @@ King Richard III was probably killed by two blows to the head during a &quot;sus
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-england-leicestershire-29222775)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77616000/jpg/_77616455_richardcomp.jpg)
 
 ### Related:
 

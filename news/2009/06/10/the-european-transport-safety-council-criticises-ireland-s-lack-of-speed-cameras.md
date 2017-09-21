@@ -8,6 +8,7 @@ A European road safety watchdog has criticised Ireland&#39;s continued failure t
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0610/roads.html)
+1. [Cover Image](https://img.rasset.ie/00025c39-1600.jpg)
 
 ### Related:
 

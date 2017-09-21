@@ -13,6 +13,7 @@
 4. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56957D20090710)
 5. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_401377.html)
 6. [Xinhua](http://news.xinhuanet.com/english/2009-07/10/content_11686429.htm)
+6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

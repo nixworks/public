@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/06/27/us-arena-obesity-idUSBRE85Q1AA20120627)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120627&t=2&i=623877925&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE85Q1IHY00)
 
 ### Related:
 

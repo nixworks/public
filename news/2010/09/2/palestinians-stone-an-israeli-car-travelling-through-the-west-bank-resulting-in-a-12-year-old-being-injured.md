@@ -8,6 +8,7 @@ Twelve-year-old riding in car driving through Tapuach Junction suffers mild inju
 ### Source:
 
 1. [YNet News](http://www.ynetnews.com/articles/0,7340,L-3948678,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

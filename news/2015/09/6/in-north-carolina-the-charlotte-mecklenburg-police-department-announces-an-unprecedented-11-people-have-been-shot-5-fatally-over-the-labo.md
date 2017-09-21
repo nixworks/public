@@ -8,6 +8,7 @@ Charlotte-Mecklenburg police are stepping up patrols around the city after a spi
 ### Source:
 
 1. [Charlotte Observer](http://www.charlotteobserver.com/news/local/crime/article34237215.html)
+1. [Cover Image](http://www.charlotteobserver.com/news/local/crime/iejxbl-Five-killed-10-injured-in-weekend-shootings/ALTERNATES/LANDSCAPE_1140/Five%20killed,%2010%20injured%20in%20weekend%20shootings)
 
 ### Related:
 

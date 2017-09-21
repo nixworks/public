@@ -9,6 +9,7 @@ According&#x20;to&#x20;partial&#x20;results,&#x20;a&#x20;third&#x20;of&#x20;the&
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2011/03/21/3169061.htm?section=justin)
 2. [AP via France24](http://www.france24.com/en/20110320-egypt-partial-results-constitutional-changes-approved-referendum-vote-mubarak)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/egypt_vote_new.jpg)
 
 ### Related:
 

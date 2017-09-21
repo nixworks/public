@@ -9,6 +9,7 @@ A reported plot by al-Qaida terrorists to kill thousands of New Yorkers by sprea
 
 1. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20060618.wsuskind0618/BNStory/International/home)
 2. [MSNBC](http://www.msnbc.msn.com/id/13393641/)
+2. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/060621/060621_terroristbomb_hsmall_1p.standard.jpg)
 
 ### Related:
 

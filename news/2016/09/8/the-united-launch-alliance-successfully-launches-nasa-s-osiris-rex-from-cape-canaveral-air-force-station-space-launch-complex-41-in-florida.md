@@ -9,6 +9,7 @@ The mission has been described as a ‘slow high-five’ with a nearby asteroid 
 
 1. [CNN](http://edition.cnn.com/2016/09/08/us/osiris-rex-nasa-asteroid-mission/index.html)
 2. [The Guardian](https://www.theguardian.com/science/2016/sep/08/nasa-space-mission-launch-bennu-asteroid-osiris-rex)
+2. [Cover Image](https://i.guim.co.uk/img/media/74c06038a29e39f4c12faa309291cb313e10e046/0_12_4500_2702/4500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5efb36058ee5ab301203e96bcd7e799a)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The bickering that has plagued the development of a uniform patent system in Eur
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/12/12/business/global/eu-reaches-agreement-on-system-for-patents.html)
+1. [Cover Image](https://static01.nyt.com/images/2012/12/12/business/BLOC/BLOC-superJumbo.jpg)
 
 ### Related:
 

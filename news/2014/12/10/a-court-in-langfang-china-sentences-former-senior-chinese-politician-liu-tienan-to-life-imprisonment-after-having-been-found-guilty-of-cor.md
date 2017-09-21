@@ -8,6 +8,7 @@ Liu Tienan, a former top economic official, is jailed for life in China for taki
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-30408032)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77782000/jpg/_77782762_024032744-1.jpg)
 
 ### Related:
 

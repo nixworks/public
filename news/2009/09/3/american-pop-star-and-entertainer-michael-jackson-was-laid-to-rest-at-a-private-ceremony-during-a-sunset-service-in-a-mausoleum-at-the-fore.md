@@ -9,6 +9,7 @@ Family and friends of Michael Jackson will bid a final farewell on Thursday (Fri
 
 1. [CNN](http://edition.cnn.com/2009/SHOWBIZ/Music/09/03/michael.jackson.funeral/index.html)
 2. [The Syndey Morning Herald](http://www.smh.com.au/world/michael-jacksons-final-send-off-20090903-f9dl.html)
+2. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

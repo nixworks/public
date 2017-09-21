@@ -9,6 +9,7 @@ About 30 people die in a fire at a camp housing Burmese refugees in northern Tha
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21902299)
 2. [The New York Times](http://www.nytimes.com/2013/03/23/world/asia/thailand-fire-at-refugee-camp.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66559000/gif/_66559023_thailand_burma_maehongson_march13.gif)
 
 ### Related:
 

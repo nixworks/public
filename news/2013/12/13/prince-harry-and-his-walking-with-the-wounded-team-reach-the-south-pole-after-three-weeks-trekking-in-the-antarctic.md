@@ -8,6 +8,7 @@ Prince Harry and his fellow adventurers in the Walking With The Wounded expediti
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-25354839)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71731000/jpg/_71731581_71731580.jpg)
 
 ### Related:
 

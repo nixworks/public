@@ -8,6 +8,7 @@ Prominent rights activist killed shortly after hosting an event on people missin
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/04/pakistani-rights-activist-sabeen-mahmud-killed-150424210251526.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/4/24/03695df8c8d245319969c9f5c4126c04_18.jpg)
 
 ### Related:
 

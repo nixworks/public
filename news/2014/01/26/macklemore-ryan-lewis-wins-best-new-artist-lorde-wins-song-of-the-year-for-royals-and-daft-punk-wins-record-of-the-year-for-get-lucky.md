@@ -10,6 +10,7 @@ Dozens of real-life couples were married live on stage by rapper Queen Latifah, 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-25850644)
 2. [Rolling Stone](http://www.rollingstone.com/music/news/paul-mccartney-and-ringo-starr-share-grammy-stage-for-rare-performance-20140126)
 3. [The Telegraph](http://www.telegraph.co.uk/culture/grammys/10598587/Grammys-2014-Queen-Latifah-officiates-33-marriages.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02803/macklemoreryanlewi_2803077k.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A new Italian government led by centre-left politician Matteo Renzi is sworn in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26301943)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73154000/jpg/_73154053_73154020.jpg)
 
 ### Related:
 

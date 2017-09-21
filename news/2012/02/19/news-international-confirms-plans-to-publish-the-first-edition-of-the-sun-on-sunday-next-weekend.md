@@ -8,6 +8,7 @@ The Sun on Sunday is to publish for the first time next weekend, News Internatio
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17092863)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58570000/jpg/_58570503_aesmrmurdoch40_464.jpg)
 
 ### Related:
 

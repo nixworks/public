@@ -8,6 +8,7 @@ A cruise ship with more than100 passengers and crew suffering from a gastrointes
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/10/usa-california-cruise-idUSL2N0N224X20140410)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

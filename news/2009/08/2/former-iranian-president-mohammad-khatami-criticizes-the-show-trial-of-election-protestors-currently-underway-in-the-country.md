@@ -9,6 +9,7 @@ Mohammad Khatami, the former Iranian president, has attacked the &quot;show tria
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=102303&sectionid=351020101)
 2. [The Independent](http://www.independent.co.uk/news/world/middle-east/khatami-hits-back-over-iran-show-trial-1766572.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/08/02/22/230387.bin)
 
 ### Related:
 

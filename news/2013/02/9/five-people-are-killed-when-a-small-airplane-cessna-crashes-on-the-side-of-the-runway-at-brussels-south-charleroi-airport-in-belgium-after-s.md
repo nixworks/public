@@ -9,6 +9,7 @@ Five people reported to be from the same family are killed as a small plane cras
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21393907)
 2. [Reuters](http://www.reuters.com/article/2013/02/09/uk-belgium-crash-idUSLNE91800O20130209)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65795000/jpg/_65795874_peveiew7.jpg)
 
 ### Related:
 

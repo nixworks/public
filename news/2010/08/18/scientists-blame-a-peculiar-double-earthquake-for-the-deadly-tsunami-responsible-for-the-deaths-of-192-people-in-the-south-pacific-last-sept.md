@@ -8,6 +8,7 @@ A strange double earthquake triggered the Tonga tsunami that killed 192 people i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11013048)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
@@ -18,3 +19,4 @@ A strange double earthquake triggered the Tonga tsunami that killed 192 people i
 5. [ Samoans cram into churches and community halls to remember friends and relatives killed in a recent tsunami. ](/news/2009/10/5/samoans-cram-into-churches-and-community-halls-to-remember-friends-and-relatives-killed-in-a-recent-tsunami.md) _Context: the deadly tsunami_
 6. [ The death toll from an earthquake and tsunami in the Samoan Islands region in the South Pacific rises to at least 113. ](/news/2009/09/30/the-death-toll-from-an-earthquake-and-tsunami-in-the-samoan-islands-region-in-the-south-pacific-rises-to-at-least-113.md) _Context: the deadly tsunami_
 7. [ An 8.3 magnitude earthquake strikes the Samoa Islands, triggering a tsunami that kills at least 20 in the nation of Samoa and another 14 in American Samoa. ](/news/2009/09/29/an-8-3-magnitude-earthquake-strikes-the-samoa-islands-triggering-a-tsunami-that-kills-at-least-20-in-the-nation-of-samoa-and-another-14-in.md) _Context: the deadly tsunami_
+8. [ Scientists speaking at a news conference on natural disasters raise the alarm that the Cumbre Vieja volcano on La Palma, Canary Islands, could erupt at any time, sending a 250&nbsp;km2. rock crashing into the Atlantic Ocean and producing a tsunami that could devastate the Atlantic's coastline, within hours. Very little seismological monitoring of the volcano is being carried out. ](/news/2004/08/9/scientists-speaking-at-a-news-conference-on-natural-disasters-raise-the-alarm-that-the-cumbre-vieja-volcano-on-la-palma-canary-islands-co.md) _Context: seismically_

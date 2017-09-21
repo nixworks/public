@@ -8,6 +8,7 @@ The suspected killer in the Ft. Lauderdale rampage apparently traveled to the ai
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/01/07/ft-lauderdale-airport-shooting-suspect-charged-feds-wont-rule-out-terror.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

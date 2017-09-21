@@ -10,6 +10,7 @@ Kyrgyzstan&#039;s new leaders have frozen the national banking system, saying th
 1. [ABC News](http://www.abc.net.au/news/stories/2010/04/09/2869084.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8610866.stm)
 3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5448749,00.html?maca=en-rss-en-top-1022-rdf)
+3. [Cover Image](http://www.abc.net.au/news/image/2577736-1x1-700x700.jpg)
 
 ### Related:
 

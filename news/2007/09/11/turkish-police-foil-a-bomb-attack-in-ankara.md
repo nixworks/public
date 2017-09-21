@@ -8,6 +8,7 @@ Turkish police foiled a bomb attack in Ankara on Tuesday, the sixth anniversary 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL1182709220070911?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070911&t=2&i=1693077&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-11T153910Z_01_L11827092_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

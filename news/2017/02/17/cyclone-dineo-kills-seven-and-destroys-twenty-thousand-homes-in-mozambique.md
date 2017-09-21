@@ -8,6 +8,7 @@ About 130,000 people have been affected by the storm.
 ### Source:
 
 1. [Newsweek](http://www.newsweek.com/mozambique-storm-dineo-557810)
+1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2017/02/17/mozambique-flooded-homes.jpg)
 
 ### Related:
 

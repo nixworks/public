@@ -8,6 +8,7 @@ Britain&#39;s Royal Air Force has escorted an Egyptair plane bound for New York 
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/Africa/News/UK-warplanes-escort-diverted-Egyptair-craft-20130615)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/954/a19803b833a2475798c4ab6e10d38b65.jpg)
 
 ### Related:
 

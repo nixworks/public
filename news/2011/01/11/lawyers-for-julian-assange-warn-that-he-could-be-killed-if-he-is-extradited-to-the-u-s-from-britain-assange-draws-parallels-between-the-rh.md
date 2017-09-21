@@ -8,6 +8,7 @@ WikiLeaks founder Julian Assange has vowed to step up the website&#039;s release
 ### Source:
 
 1. [AFP](http://www.sbs.com.au/news/article/1464407/Date-set-for-Assange-hearing)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/s/i/site_1_rand_1118228067_assange_bail_l_101215_aap.jpg)
 
 ### Related:
 

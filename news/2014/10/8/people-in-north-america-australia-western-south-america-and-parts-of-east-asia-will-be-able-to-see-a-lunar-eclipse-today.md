@@ -8,6 +8,7 @@ A total lunar eclipse has been visible in much of the Americas and East Asia, th
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-29522648)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78085000/jpg/_78085728_024241957.jpg)
 
 ### Related:
 

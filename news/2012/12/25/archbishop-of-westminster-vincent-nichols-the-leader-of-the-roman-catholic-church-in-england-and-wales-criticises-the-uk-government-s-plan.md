@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20840531)
 2. [The Guardian](http://www.guardian.co.uk/society/2012/dec/25/catholic-archbishop-gay-marriage-shambles)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64937000/jpg/_64937385_q2l24zmk.jpg)
 
 ### Related:
 

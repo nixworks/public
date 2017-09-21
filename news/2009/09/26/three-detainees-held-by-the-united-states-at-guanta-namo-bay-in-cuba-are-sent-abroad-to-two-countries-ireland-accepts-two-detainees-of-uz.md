@@ -10,6 +10,7 @@ Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have b
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8277140.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0927/guantanamo.html)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSTRE58P28P20090926)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090926&t=2&i=11736276&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-26T225038Z_01_BTRE58P1PRX00_RTROPTP_0_GUANTANAMO)
 
 ### Related:
 

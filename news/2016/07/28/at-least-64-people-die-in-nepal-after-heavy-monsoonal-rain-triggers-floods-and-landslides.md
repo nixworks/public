@@ -9,6 +9,7 @@ Dozens of people have died in Nepal after flash floods and landslides, caused by
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/07/nepal-hit-flash-floods-landslides-160728090756268.html)
 2. [BBC](http://www.bbc.com/news/world-asia-36911775)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/0482/production/_90545110_mediaitem90543721.jpg)
 
 ### Related:
 

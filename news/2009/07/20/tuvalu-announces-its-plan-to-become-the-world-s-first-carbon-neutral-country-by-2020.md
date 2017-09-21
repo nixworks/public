@@ -8,6 +8,7 @@ The tiny South Pacific island nation of Tuvalu could become the first zero-carbo
 ### Source:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/tuvalu/5871093/Tuvalu-plots-worlds-first-zero-carbon-output-by-2020.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01446/TUVALU_1446551a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Sammy Sosa, who joined Mark McGwire in 1998 in pursuit of the single-season home
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/06/17/sports/baseball/17doping.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/06/17/sports/17sosa75.jpg)
 
 ### Related:
 

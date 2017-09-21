@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-38904663)
 2. [The Guardian](https://www.theguardian.com/world/2017/feb/08/somalia-goes-to-polls-president-mohamud)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/F4EF/production/_94230726_mediaitem94230722.jpg)
 
 ### Related:
 

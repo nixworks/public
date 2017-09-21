@@ -9,6 +9,7 @@ Follow all the election day action live from the first votes to the moment the w
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24000133)
 2. [Sydney Morning Herald](http://www.smh.com.au/federal-politics/federal-election-2013/federal-election-2013-live-coverage-and-results-20130907-2tbd0.html)
+2. [Cover Image](http://www.smh.com.au/content/dam/images/2/t/c/w/f/image.related.thumbnail.320x214.2tbd0.png/1378556763237.jpg)
 
 ### Related:
 

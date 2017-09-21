@@ -15,6 +15,7 @@ At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as
 6. [MSNBC](http://usnews.msnbc.msn.com/_news/2012/03/02/10561066-tornadoes-slice-paths-across-alabama-indiana-and-tennesse)
 7. [The New York Times](http://thelede.blogs.nytimes.com/2012/03/02/powerful-storms-hit-towns-in-indiana/)
 8. [USA Today](http://www.usatoday.com/weather/storms/tornadoes/story/2012-03-02/severe-storms-tornadoes-south/53332072/1)
+8. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58854000/jpg/_58854077_014151247-1.jpg)
 
 ### Related:
 

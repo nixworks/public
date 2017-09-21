@@ -8,6 +8,7 @@ Supreme Court confirms Alpha Conde as winner of November 7 presidential poll, re
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012333925579449.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/3/201012341918254621_20.jpg)
 
 ### Related:
 

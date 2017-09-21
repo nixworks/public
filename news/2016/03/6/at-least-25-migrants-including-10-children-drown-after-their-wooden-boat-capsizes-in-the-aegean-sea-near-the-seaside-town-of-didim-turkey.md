@@ -9,6 +9,7 @@ At least 25 people drowned Sunday after a boat carrying migrants capsized off th
 
 1. [AFP via Yahoo7 News](https://au.news.yahoo.com/world/a/31027765/migrant-boat-sinks-off-turkey-18-dead/)
 2. [International Business Times](http://www.ibtimes.com/least-25-migrants-drown-after-boat-capsizes-turkish-coast-2331267)
+2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/03/06/rts8jkw.jpg)
 
 ### Related:
 

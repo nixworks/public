@@ -9,6 +9,7 @@ Civilians killed and multi-storey buildings collapse in some of the heaviest str
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/intense-raids-kill-dozens-syria-idlib-170207131816939.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-38885901)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5FC8/production/_94002542_230241_saydnaya-syriadetentions.jpg)
 
 ### Related:
 

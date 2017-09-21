@@ -8,6 +8,7 @@ US soldier accused of giving a dossier of secret documents to WikiLeaks is held 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/americas/2011/02/20112154519935748.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/1/20112162727563784_20.jpg)
 
 ### Related:
 

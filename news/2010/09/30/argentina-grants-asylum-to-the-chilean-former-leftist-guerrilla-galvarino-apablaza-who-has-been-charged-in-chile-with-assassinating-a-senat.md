@@ -9,6 +9,7 @@
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g9pZc9mi_qRoyZl3vSWTzIMTeKhwD9IIIKG00?docId=D9IIIKG00)
 2. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/46686)
+2. [Cover Image](/files/imagenes//2010/31271_images.jpg)
 
 ### Related:
 

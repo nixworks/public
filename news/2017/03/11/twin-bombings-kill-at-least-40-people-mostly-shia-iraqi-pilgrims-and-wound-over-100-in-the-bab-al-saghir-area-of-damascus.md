@@ -9,6 +9,7 @@ The attack targeted buses carrying Shia pilgrims to the Bab al-Saghir cemetery s
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/03/bombs-damascus-fatalities-reported-170311101052510.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-39242696)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C0B3/production/_95113394_mediaitem95113393.jpg)
 
 ### Related:
 

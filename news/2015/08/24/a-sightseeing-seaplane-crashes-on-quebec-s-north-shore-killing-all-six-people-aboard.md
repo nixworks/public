@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Toronto Sun](http://www.torontosun.com/2015/08/23/seaplane-with-6-on-board-crashes-in-quebec)
+1. [Cover Image](http://storage.torontosun.com/v1/suns-prod-images/1297664806832_LARGE_BOX.jpg?quality=80&stmp=1490839627187)
 
 ### Related:
 

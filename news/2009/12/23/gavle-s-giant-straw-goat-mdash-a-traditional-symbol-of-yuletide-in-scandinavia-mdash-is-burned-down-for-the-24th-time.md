@@ -11,6 +11,7 @@ A Christmas goat made of straw has been burned down by vandals in a Swedish city
 2. [Reuters Africa](http://af.reuters.com/article/oddlyEnoughNews/idAFTRE5BM2EH20091223)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/topics/christmas/6872999/Swedish-Christmas-goat-burned-down-for-24th-time.html)
 4. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2009/12/vandals-torch-swedish-yuletide-straw-goat-for-24th-time/1)
+4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01548/GOAT_1548805a.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ A suicide bomber killed at least 25 new recruits inside a police compound in the
 1. [ (Canadian Press via ''Chronicle-Herald](http://thechronicleherald.ca/world/1364724-suicide-bombing-kills-12-injures-17-in-southern-yemen)
 2. [Reuters](http://in.reuters.com/article/yemen-security-blast-idINKCN0Y6089)
 3. [Xinhua](http://www.china.org.cn/world/2016-05/15/content_38459778.htm)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

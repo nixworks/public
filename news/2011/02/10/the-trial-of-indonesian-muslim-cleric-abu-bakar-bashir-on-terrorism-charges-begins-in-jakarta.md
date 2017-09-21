@@ -9,6 +9,7 @@
 
 1. [AAP via ''The Age](http://news.theage.com.au/breaking-news-world/bashir-terror-trial-begins-in-jakarta-20110210-1anur.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12406081)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

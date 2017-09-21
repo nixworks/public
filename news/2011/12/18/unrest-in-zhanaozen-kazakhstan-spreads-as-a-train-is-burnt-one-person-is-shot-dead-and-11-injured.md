@@ -8,6 +8,7 @@ Angry protesters rally in the capital of a Kazakh oil-producing region after two
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16235282)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57399000/jpg/_57399363_013551139-2.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Many women and children killed during distribution of flour in Pakistani city.
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/09/2009914121530382141.html)
 2. [The Nation](http://www.nation.com.pk/pakistan-news-newspaper-daily-english-online/Karachi/14-Sep-2009/18-killed-several-injured-in-Karachi-stampede-police)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-09/14/content_12051335.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

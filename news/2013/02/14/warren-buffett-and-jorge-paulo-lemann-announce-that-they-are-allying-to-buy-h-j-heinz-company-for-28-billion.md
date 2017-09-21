@@ -9,6 +9,7 @@ Warren Buffett and Brazilian financier Jorge Paulo Lemann are teaming up to buy 
 
 1. [BBC](http://www.bbc.co.uk/news/business-21461779)
 2. [Reuters](http://www.reuters.com/article/2013/02/14/us-berkshire-heinz-idUSBRE91D0PY20130214)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130214&t=2&i=704095233&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91D1KB000)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Former Auxiliary Bishop of Dublin Bishop Dermot O&#39;Mahony has resigned the pr
 
 1. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5hc9BseRrHqR-76ldtmhmoO2pfYzQ)
 2. [RTÉ](http://www.rte.ie/news/2009/1207/abuse.html)
+2. [Cover Image](https://img.rasset.ie/0002cbce-1600.jpg)
 
 ### Related:
 

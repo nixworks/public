@@ -8,6 +8,7 @@ Ukraine suspends operations against pro-Russian militants occupying government o
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27086511)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74330000/jpg/_74330018_74330017.jpg)
 
 ### Related:
 

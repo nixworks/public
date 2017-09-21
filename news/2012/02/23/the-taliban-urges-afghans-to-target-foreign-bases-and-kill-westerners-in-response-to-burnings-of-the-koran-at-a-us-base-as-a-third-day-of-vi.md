@@ -9,6 +9,7 @@
 
 1. [Reuters via Alertnet](http://www.trust.org/alertnet/news/afghan-protesters-attack-norwegian-base-over-koran-burning)
 2. [Reuters](http://www.reuters.com/article/2012/02/23/us-afghanistan-korans-idUSTRE81K09T20120223)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120223&t=2&i=574429560&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81M19UU00)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Jimmy Morales, a former TV comedy actor who promised to clean up Guatemala’s c
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-10-26/comedian-jimmy-morales-elected-guatemalan-president/6885440)
 2. [Wall Street Journal](http://www.wsj.com/articles/guatemalans-begin-voting-in-presidential-election-1445798537)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-KX846_GUATEL_G_20151025213133.jpg)
 
 ### Related:
 

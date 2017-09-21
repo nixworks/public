@@ -8,6 +8,7 @@ US TV network NBC scraps a proposed Bill Cosby project after accusations that he
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-30123343)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79138000/jpg/_79138866_79138278.jpg)
 
 ### Related:
 

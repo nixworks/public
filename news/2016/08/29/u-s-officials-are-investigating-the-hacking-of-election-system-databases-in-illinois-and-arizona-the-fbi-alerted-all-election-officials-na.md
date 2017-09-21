@@ -9,6 +9,7 @@ Officials are concerned that the Russians are attempting to interfere in the U.S
 
 1. [CNN](http://www.cnn.com/2016/08/29/politics/hackers-breach-illinois-arizona-election-systems/)
 2. [NBC News](http://www.nbcnews.com/news/us-news/russians-hacked-two-u-s-voter-databases-say-officials-n639551)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_35/1688546/160829-arizona-voting-machine-mbe-527p_7c9a216294fcd2995668725cada23693.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

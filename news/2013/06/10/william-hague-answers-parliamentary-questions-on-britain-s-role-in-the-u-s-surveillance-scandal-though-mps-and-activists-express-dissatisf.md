@@ -11,6 +11,7 @@ William Hague faced anger from MPs of all parties and civil liberties campaigner
 2. [Press TV](http://www.presstv.ir/detail/2013/06/10/308254/spying/)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/10/william-hague-spying-scandal-nsa-statement)
 4. [The Independent](http://www.independent.co.uk/news/uk/politics/prism-scandal-william-hagues-vagueness-on-us-spying-fails-to-reassure-mps-and-public-over-covert-gchq-deal-with-nsa-8651896.html)
+4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/06/06/20/08-william-hague-pa.jpg)
 
 ### Related:
 

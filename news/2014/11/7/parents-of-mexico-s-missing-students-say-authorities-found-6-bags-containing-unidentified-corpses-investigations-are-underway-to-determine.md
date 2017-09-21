@@ -8,6 +8,7 @@ Relatives of missing college students say Mexican authorities tell of finding si
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2014/11/07/parent-mexico-attorney-general-reports-6-bags-remains-in-missing-student/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/11/07/parent-mexico-attorney-general-reports-6-bags-remains-in-missing-student/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1449821782369.jpg?ve=1)
 
 ### Related:
 

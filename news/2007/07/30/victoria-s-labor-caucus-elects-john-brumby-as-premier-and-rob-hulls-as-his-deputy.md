@@ -8,6 +8,7 @@ A meeting of Victoria&#039;s Labor Caucus has named John Brumby as the state&#03
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/07/30/1991674.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/639138-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Nigerian rebel group denies involvement in attack on Shell pipeline in Niger Del
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/20102113359109350.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8490494.stm)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

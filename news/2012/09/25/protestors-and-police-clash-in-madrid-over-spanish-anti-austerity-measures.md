@@ -8,6 +8,7 @@ Spanish police ringing parliament in Madrid fire rubber bullets at protesters ta
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19712203)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63115000/jpg/_63115534_63116274.jpg)
 
 ### Related:
 

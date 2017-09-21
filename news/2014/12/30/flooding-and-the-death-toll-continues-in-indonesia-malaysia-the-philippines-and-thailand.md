@@ -8,6 +8,7 @@ Malaysia, southern Thailandand parts of the Philippines have been battered by he
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/30/southeast-asia-floods-idUSL3N0UE2IB20141230)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

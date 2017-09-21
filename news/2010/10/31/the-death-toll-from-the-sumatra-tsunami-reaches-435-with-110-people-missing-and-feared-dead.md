@@ -8,6 +8,7 @@ Indonesia has ramped up efforts to help those on remote islands hit by a devasta
 ### Source:
 
 1. [AFP via ABC News Online](http://www.abc.net.au/news/stories/2010/10/31/3053085.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/2318188-1x1-700x700.jpg)
 
 ### Related:
 

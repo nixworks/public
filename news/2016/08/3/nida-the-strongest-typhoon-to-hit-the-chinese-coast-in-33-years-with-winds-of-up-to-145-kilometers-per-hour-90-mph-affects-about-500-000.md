@@ -9,6 +9,7 @@ China says on Wednesday that about 4.95 lakh people were affected by Typhoon Nid
 
 1. [CNN](http://edition.cnn.com/2016/08/01/asia/typhoon-nida-hong-kong-guangzhou/)
 2. [News Nation](http://www.newsnation.in/article/141163-typhoon-nidha-affects-over-four-lakh-displaces-2500-residents.html)
+2. [Cover Image](https://newsnation1.s3.amazonaws.com/images/2016/08/03/229512123-typhoon_6.jpg)
 
 ### Related:
 

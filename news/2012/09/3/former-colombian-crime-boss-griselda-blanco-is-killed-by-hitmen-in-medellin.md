@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Miami Herald](http://www.miamiherald.com/2012/09/03/2983362/cocaine-godmother-griselda-blanco.html)
+1. [Cover Image](http://www.miamiherald.com/static/images/miamiherald/facebook.jpg)
 
 ### Related:
 

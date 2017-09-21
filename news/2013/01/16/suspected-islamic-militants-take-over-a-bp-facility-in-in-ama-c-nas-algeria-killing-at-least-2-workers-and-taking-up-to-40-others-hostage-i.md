@@ -10,6 +10,7 @@ An Al Qaeda-linked group from Mali has attacked and taken control of a natural g
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21042659)
 2. [Fox News](http://www.foxnews.com/world/2013/01/16/islamist-militants-from-mali-reportedly-kidnap-8-foreigners-at-algerian-gas-1052027220/)
 3. [Reuters](http://www.reuters.com/article/2013/01/16/algeria-kidnap-norway-idUSO9E8LI00Y20130116)
+3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/01/16/islamist-militants-from-mali-reportedly-kidnap-8-foreigners-at-algerian-gas-1052027220/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449124469841.jpg?ve=1)
 
 ### Related:
 

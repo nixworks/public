@@ -8,6 +8,7 @@ Myanmar begins a historic peace conference on Wednesday, with the aim of ending 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/myanmar-peace-conference-1.3740494)
+1. [Cover Image](https://i.cbc.ca/1.3740610.1472514475!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/china-myanmar.jpg)
 
 ### Related:
 

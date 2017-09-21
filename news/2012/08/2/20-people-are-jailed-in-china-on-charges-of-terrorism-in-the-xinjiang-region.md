@@ -8,6 +8,7 @@ Chinese authorities have jailed 20 people in far-western Xinjiang who they said 
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article3717017.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

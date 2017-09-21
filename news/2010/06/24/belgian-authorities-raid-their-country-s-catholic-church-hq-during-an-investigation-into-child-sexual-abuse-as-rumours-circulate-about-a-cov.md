@@ -13,6 +13,7 @@ Authorities raid the headquarters of the Belgian Catholic Church during an inves
 4. [The Age](http://news.theage.com.au/breaking-news-world/police-raid-belgian-catholic-hierarchy-in-abuse-probe-20100625-z3vu.html)
 5. [The Guardian](http://www.guardian.co.uk/world/2010/jun/24/belgium-catholic-church-sex-claims)
 6. [The New York Times](http://www.nytimes.com/2010/06/25/world/europe/25belgium.html?partner=rss&emc=rss)
+6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

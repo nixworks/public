@@ -8,6 +8,7 @@ Religious violence in the Central African Republic could force its entire Muslim
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-26109987)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72858000/jpg/_72858891_72858890.jpg)
 
 ### Related:
 

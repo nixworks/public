@@ -10,6 +10,7 @@ QUITO, Ecuador (AP) — President Rafael Correa announced Wednesday night that h
 1. [AP](http://bigstory.ap.org/article/a8cf76cb40034ef3ae467eaaf0b76418/ecuador-buries-dead-hope-survivors-fade)
 2. [Reuters via Asia-Pacific News](http://www.channelnewsasia.com/news/asiapacific/another-quake-magnitude/2714382.html)
 3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us20005k37#general)
+3. [Cover Image](http://binaryapi.ap.org/e9bb9358a7c64e9ca9a72a0422126a89/460x.jpg)
 
 ### Related:
 

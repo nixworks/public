@@ -11,6 +11,7 @@ Hurricane Dean has intensified and developed into a category three hurricane, wi
 2. [Governor's Office](http://www.2theadvocate.com/news/9227476.html)
 3. [Reuters](http://www.reuters.com/article/topNews/idUSLAU66395620070818?feedType=RSS&feedName=topNews)
 4. [The Scotsman](http://business.scotsman.com/latest.cfm?id=1307602007)
+4. [Cover Image](http://www.abc.net.au/news/image/643040-1x1-700x700.jpg)
 
 ### Related:
 

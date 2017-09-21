@@ -8,6 +8,7 @@ A Chinese artist was noticeably absent from his own exhibit in New York after ha
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/US/05/04/new.york.chinese.art/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/05/04/new.york.chinese.art/tzvids.ai.weiwei.afp.gi.jpg)
 
 ### Related:
 

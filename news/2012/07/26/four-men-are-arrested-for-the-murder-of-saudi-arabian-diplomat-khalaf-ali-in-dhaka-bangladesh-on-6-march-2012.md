@@ -8,6 +8,7 @@ LONDON (Reuters) - Bangladeshi authorities have arrested four men suspected of k
 ### Source:
 
 1. [Chicago Tribune](http://articles.chicagotribune.com/2012-07-25/news/sns-rt-us-saudi-bangladesh-diplomatbre86o1k4-20120725_1_saudi-diplomat-bangladesh-arrests-saudi-arabian)
+1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

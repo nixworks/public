@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/politics/canada-election-2015-voting-results-polls-1.3278537)
+1. [Cover Image](https://i.cbc.ca/1.3279779.1445346729!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/justin-trudeau-federal-election-2015.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Snow contnues to fall across much of the UK, bringing disruption to roads and ai
 2. [CNN](http://ireport.cnn.com/docs/DOC-523391?ref=feeds%2Foncnn)
 3. [Daily Mail](http://www.dailymail.co.uk/travel/article-1334013/Blizzard-Britain-Latest-travel-advice-airports-roads.html?ito=feeds-newsxml)
 4. [Sky News](http://news.sky.com/skynews/Home/UK-News/UK-Weather-Snow-Engulfs-Britain-As-Bitter-Winds-Bring-Sub-Zero-Conditions/Article/201011415841708?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15841708_UK_Weather%3A_Snow_Engulfs_Britain_As_Bitter_Winds_Bring_Sub-Zero_Conditions)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

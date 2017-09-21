@@ -8,6 +8,7 @@ Chris Huhne vows to clear his name as he resigns as energy secretary to fight a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-16866127)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58291000/jpg/_58291893_013900799-1.jpg)
 
 ### Related:
 

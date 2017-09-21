@@ -9,6 +9,7 @@
 
 1. [CNN](http://politicalticker.blogs.cnn.com/2011/10/03/west-virginia-gubernatorial-election-in-national-spotlight/)
 2. [Charleston Gazette](http://www.wvgazette.com/News/201110042458)
+2. [Cover Image](http://www.wvgazettemail.com/apps/pbcsi.dll/storyimage/CH/20111004/GZ01/310049930/AR/0/AR-310049930.jpg&imageVersion=SoftCropFacebookImage)
 
 ### Related:
 

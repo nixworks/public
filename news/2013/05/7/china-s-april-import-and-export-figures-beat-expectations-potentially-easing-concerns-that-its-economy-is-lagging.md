@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/08/us-china-economy-trade-idUSBRE94702G20130508)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130508&t=2&i=729736440&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94707EH00)
 
 ### Related:
 

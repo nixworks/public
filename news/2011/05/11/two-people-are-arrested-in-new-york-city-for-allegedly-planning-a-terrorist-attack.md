@@ -8,6 +8,7 @@ The suspects, whom a law enforcement official characterized as “homegrown,” 
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/05/12/nyregion/two-men-arrested-in-new-york-terror-case-police-say.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

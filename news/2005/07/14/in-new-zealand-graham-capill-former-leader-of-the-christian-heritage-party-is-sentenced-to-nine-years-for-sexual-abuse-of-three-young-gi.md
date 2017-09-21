@@ -9,6 +9,7 @@ Former politician and police prosecutor Graham Capill was today handed a nine-ye
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/index.cfm?c_id=1&ObjectID=10335782)
 2. [TVNZ](http://tvnz.co.nz/view/page/411425/597754)
+2. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

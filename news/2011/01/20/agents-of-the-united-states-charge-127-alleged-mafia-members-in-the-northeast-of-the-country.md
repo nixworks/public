@@ -10,6 +10,7 @@ US federal agents charge 127 suspected mobsters in the New York region in the la
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/jan/20/fbi-arrests-mafia-suspects)
 2. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011120153718558130.html)
 3. [BBC](http://www.bbc.co.uk/news/world-us-canada-12243086)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

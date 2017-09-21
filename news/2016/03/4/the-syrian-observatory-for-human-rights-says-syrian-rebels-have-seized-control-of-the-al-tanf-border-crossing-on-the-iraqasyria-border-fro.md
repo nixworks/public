@@ -8,6 +8,7 @@ Syrian rebel fighters seized a border crossing with Iraq from Islamic State on F
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-al-tanf-idUKKCN0W62MW)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

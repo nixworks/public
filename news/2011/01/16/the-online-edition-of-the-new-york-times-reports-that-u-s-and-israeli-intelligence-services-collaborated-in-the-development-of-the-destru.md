@@ -8,6 +8,7 @@ Operations at Israel’s Dimona complex are among the strongest clues that the S
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/01/16/world/middleeast/16stuxnet.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

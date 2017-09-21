@@ -12,6 +12,7 @@ A powerful Ukrainian rebel leader has confirmed that pro-Russian separatists had
 3. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-troops-free-three-villages-in-donetsk-region-fighting-for-lysychansk-357583.html)
 4. [Reuters](http://www.reuters.com/article/2014/07/23/us-ukraine-crisis-commander-exclusive-idUSKBN0FS1V920140723)
 5. [The Local](http://www.thelocal.ch/20140723/red-cross-declares-civil-war-in-ukraine)
+5. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140723&t=2&i=942453867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6M0S7)
 
 ### Related:
 

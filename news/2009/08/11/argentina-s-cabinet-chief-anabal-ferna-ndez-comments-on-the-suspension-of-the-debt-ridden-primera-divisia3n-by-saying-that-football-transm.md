@@ -8,6 +8,7 @@ Argentina&rsquo;s cabinet Chief An&iacute;bal Fern&aacute;ndez said football tra
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/11/the-kirchner-couple-wants-football-tv-transmission-to-be-free)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19783/200x200/2a8bccf5624fcf0a3067d99046a17fbe.JPG)
 
 ### Related:
 

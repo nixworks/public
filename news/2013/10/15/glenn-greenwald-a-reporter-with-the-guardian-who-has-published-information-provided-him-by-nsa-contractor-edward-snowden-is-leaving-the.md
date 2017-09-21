@@ -8,6 +8,7 @@ Glenn Greenwald, who has made headlines around the world with his reporting on U
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/10/15/us-usa-security-greenwald-idUSBRE99E18D20131015)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131015&t=2&i=803244692&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99E1S6S00)
 
 ### Related:
 

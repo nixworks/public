@@ -14,6 +14,7 @@ The Indian Railways has issued helpline numbers for those seeking information
 5. [Reuters](http://in.reuters.com/article/india-train-idINKBN13F03Y)
 6. [The New York Times](http://www.nytimes.com/2016/11/21/world/asia/india-train-derails.html?partner=rss&emc=rss&_r=0)
 7. [The Telegraph](http://www.telegraph.co.uk/news/2016/11/20/at-least-30-killed-in-indian-train-crash/)
+7. [Cover Image](http://images.indianexpress.com/2016/11/train-accident-feature.jpg?w=480)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North Korea has confirmed that it had shredded the 60-year-old armistice ending 
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/North-Korea-confirms-end-of-war-armistice-20130313)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2026/f5de3add5f6245efa38af775cad48141.jpg)
 
 ### Related:
 

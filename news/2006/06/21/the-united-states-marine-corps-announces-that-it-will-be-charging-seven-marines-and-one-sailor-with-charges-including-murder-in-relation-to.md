@@ -9,6 +9,7 @@ Get the latest Chicago local news and US & World news. See recent updates on pol
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/meast/06/21/salaheddin)
 2. [NBC](http://www.nbc5.com/news/9404359/detail.html?rss=chi&psp=nationalnews)
+2. [Cover Image](http://media.nbcchicago.com/designimages/nbcchi_station_logo.jpg?ak=bc)
 
 ### Related:
 

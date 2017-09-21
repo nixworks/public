@@ -9,6 +9,7 @@ A man arrested in connection with a series of nearly 20 stabbings agrees to retu
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10971662)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/13/israeli-elias-abuelazam-accused-us-racist-murders)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

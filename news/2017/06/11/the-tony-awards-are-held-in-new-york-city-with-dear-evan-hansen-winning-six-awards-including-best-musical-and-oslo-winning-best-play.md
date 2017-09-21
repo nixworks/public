@@ -8,6 +8,7 @@ The surprise hit musical won a total of six Tonys, including best musical actor 
 ### Source:
 
 1. [Daily Mirror](http://www.mirror.co.uk/3am/celebrity-news/tony-awards-2017-full-winners-10607746)
+1. [Cover Image](http://i4.mirror.co.uk/incoming/article10607737.ece/ALTERNATES/s1200/71st-Tony-Awards-Photo-Room.jpg)
 
 ### Related:
 

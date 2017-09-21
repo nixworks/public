@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-19040415)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61887000/gif/_61887472_yemen_sanaa_oct10.gif)
 
 ### Related:
 

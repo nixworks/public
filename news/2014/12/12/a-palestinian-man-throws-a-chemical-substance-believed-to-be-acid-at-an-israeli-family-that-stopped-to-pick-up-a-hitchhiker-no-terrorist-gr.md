@@ -8,6 +8,7 @@ A Palestinian man threw a chemical substance believed to be acid at an Israeli f
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/12/us-mideast-palestinians-israel-idUSKBN0JQ19E20141212)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141212&t=2&i=998849119&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABB0LZ)
 
 ### Related:
 

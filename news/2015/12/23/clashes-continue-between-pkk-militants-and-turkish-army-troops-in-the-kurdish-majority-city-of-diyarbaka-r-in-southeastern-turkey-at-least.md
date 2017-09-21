@@ -8,6 +8,7 @@ Clashes between Turkish security forces and Kurdish militants intensified in the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-turkey-kurds-idUSKBN0U61J320151223)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

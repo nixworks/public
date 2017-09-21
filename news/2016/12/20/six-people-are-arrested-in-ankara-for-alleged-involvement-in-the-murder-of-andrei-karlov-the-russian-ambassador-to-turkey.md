@@ -8,6 +8,7 @@ Turkish police detain six people over the killing of the Russian ambassador, who
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2016-12-20/turkish-police-detain-six-after-russian-ambassador-shot-dead/8136774)
+1. [Cover Image](http://www.abc.net.au/news/image/8134146-1x1-700x700.jpg)
 
 ### Related:
 

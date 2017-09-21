@@ -8,6 +8,7 @@ UNITED NATIONS (AP) — Malala Yousafzai celebrated her 16th birthday on the wor
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/malala-celebrates-16th-birthday-un-address-130656602.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/sgfiBwV8y6.e.SeXN3q68g--/aD0xNDEwO3c9MjExNTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/18a86a964ed65f17370f6a706700e9b8.jpg)
 
 ### Related:
 

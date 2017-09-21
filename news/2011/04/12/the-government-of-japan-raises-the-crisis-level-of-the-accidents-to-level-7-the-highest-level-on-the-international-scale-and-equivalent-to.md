@@ -10,6 +10,7 @@
 1. [NHK](http://www3.nhk.or.jp/daily/english/12_05.html)
 2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110412/ts_nm/us_japan)
 3. [Reuters](http://www.reuters.com/article/2011/04/12/us-japan-idUSTRE72A0SS20110412?feedType=RSS&feedName=topNews)
+3. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110412&t=2&i=385333745&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-12T125017Z_01_BTRE73B0ZNW00_RTROPTP_0_JAPAN)
 
 ### Related:
 

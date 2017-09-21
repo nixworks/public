@@ -9,6 +9,7 @@ Tornadoes and severe thunderstorms killed at least five people in Texas and Arka
 
 1. [NBC News](http://www.nbcnews.com/news/weather/van-texas-nashville-arkansas-hit-suspected-twisters-n356911)
 2. [NBC News](http://www.nbcnews.com/news/weather/weather-n356911)
+2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_20/1019256/150511-texas-tornado-4p_fdb6a2e48d59eba71fcf1cbdc5dc2bbc.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

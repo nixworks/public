@@ -26,6 +26,7 @@ More than a million rally in Cairo as massive countrywide protests are held agai
 17. [The New York Times](http://www.nytimes.com/2011/02/02/world/middleeast/02transition.html?_r=1)
 18. [Voice of America](http://blogs.voanews.com/breaking-news/2011/01/31/egypt-braces-for-million-man-march-as-army-pledges-restraint/)
 19. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/01/AR2011020105291.html?hpid=topnews)
+19. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/1/201121181825754633_20.jpg)
 
 ### Related:
 

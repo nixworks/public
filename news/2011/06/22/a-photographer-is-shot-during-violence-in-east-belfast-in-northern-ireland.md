@@ -8,6 +8,7 @@ Police believe dissident republicans were responsible for shooting a photographe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13873307)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53622000/jpg/_53622265_aptv012271986.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Around 500 fuel tanker vehicles transporting illegal oil from Syria to Iraq for 
 
 1. [RT](https://www.rt.com/news/322614-russian-warplanes-isis-oil-trucks/)
 2. [Reuters](http://www.reuters.com/article/2015/11/18/us-mideast-crisis-syria-ceasefire-idUSKCN0T72VH20151118#TBdBGOqaCeZQ4qWj.97)
+2. [Cover Image](https://img.rt.com/files/2015.11/article/564caa55c461880b0e8b45e1.jpg)
 
 ### Related:
 

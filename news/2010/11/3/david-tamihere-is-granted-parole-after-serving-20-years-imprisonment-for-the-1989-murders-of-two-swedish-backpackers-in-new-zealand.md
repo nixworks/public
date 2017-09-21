@@ -8,6 +8,7 @@ Convicted double murderer David Tamihere has been granted parole after serving n
 ### Source:
 
 1. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10685089)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201045/tamihere_1024x76850372.jpg)
 
 ### Related:
 

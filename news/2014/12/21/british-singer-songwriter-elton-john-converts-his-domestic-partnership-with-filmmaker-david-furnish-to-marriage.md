@@ -8,6 +8,7 @@ Entertainer Elton John and longtime mate David Furnish have officially converted
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/entertainment/2014/12/21/elton-john-marries-longtime-partner-david-furnish-in-england/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2014/12/21/elton-john-marries-longtime-partner-david-furnish-in-england/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422891830162.jpg?ve=1)
 
 ### Related:
 

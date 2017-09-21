@@ -11,6 +11,7 @@ Ban Ki-moon expresses alarm at the scale of inter-ethnic violence in southern Ky
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201061318596598750.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10306018.stm)
 4. [Reuters](http://www.reuters.com/article/idUSTRE65C25520100613)
+4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48063000/jpg/_48063244_48063241.jpg)
 
 ### Related:
 

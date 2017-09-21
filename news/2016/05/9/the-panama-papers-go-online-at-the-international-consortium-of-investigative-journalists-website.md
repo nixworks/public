@@ -8,6 +8,7 @@ The Panama Papers affair widens, with a huge database of documents relating to m
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36249982)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/410E/production/_89645661_89645660.jpg)
 
 ### Related:
 

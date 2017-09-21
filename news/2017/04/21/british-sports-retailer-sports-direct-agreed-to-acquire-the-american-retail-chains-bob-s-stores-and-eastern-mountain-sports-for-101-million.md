@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-bob-s-stores-m-a-sports-direct-idUSKBN17N0ID)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170421&t=2&i=1181466979&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3K0CH)
 
 ### Related:
 

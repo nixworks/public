@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-usa-climatechange-epa-idUSKCN1B52PK)
 2. [The Hill](http://thehill.com/policy/energy-environment/348026-epa-cancels-sponsorship-of-climate-leadership-awards)
+2. [Cover Image](http://thehill.com/sites/default/files/article_images/pruittscottwhitehouse_060217getty.jpg)
 
 ### Related:
 

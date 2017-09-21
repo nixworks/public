@@ -9,6 +9,7 @@ August 10, 2017 by: Najmeh Bozorgmehr in Tehran Tehran metropolis council has un
 
 1. [Financial Times](https://www.ft.com/content/f3982b84-7dd0-11e7-ab01-a13271d1ee9c)
 2. [ForexRepository](http://www.forexrepository.com/news/tehran-elects-first-reformist-mayor-in-14-years.htm)
+2. [Cover Image](http://www.forexrepository.com/wp-content/uploads/2017/08/ed5b47e2-7de9-11e7-ab01-a13271d1ee9c)
 
 ### Related:
 

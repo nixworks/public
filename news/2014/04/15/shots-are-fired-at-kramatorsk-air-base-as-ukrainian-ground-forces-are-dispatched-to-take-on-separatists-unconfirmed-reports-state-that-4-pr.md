@@ -9,6 +9,7 @@ Ukrainian troops defy pro-Russian separatists and take control of an air base in
 
 1. [BBC](http://www.bbc.com/news/world-europe-27035196)
 2. [Sky News](http://news.sky.com/story/1243094/shots-fired-at-ukraine-airport-as-troops-move-in)
+2. [Cover Image](http://e3.365dm.com/16/07/1600x900/split-1_3595573.jpg?20160705091002)
 
 ### Related:
 

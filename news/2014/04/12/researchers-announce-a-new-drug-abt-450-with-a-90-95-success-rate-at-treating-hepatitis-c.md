@@ -8,6 +8,7 @@ A new treatment for hepatitis C cured 90% of patients with the infection in 12 w
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/health-26987653)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74189000/jpg/_74189861_c0129479-hepatitis_c_virus-spl.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North Korean leader Kim Jong Un said his country has miniaturized nuclear warhea
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/northkorea-nuclear-kim-idUSKCN0WA2QK)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160309&t=2&i=1123523696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC280ZR)
 
 ### Related:
 

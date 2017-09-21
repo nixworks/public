@@ -9,6 +9,7 @@ Salva Kiir calls on Khartoum to withdraw its troops from the oil-rich region to 
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/201152617858961808.html)
 2. [Reuters](http://www.reuters.com/article/2011/05/26/sudan-abyei-idUSLAE62439020110526?feedType=RSS)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/26/2011526171726627734_20.jpg)
 
 ### Related:
 

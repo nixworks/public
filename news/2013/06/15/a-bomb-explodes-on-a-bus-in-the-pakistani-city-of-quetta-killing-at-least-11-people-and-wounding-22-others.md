@@ -8,6 +8,7 @@ A bomb at a university in Quetta, Pakistan, kills at least 11 female students an
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22919001)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68193000/jpg/_68193106_68193105.jpg)
 
 ### Related:
 

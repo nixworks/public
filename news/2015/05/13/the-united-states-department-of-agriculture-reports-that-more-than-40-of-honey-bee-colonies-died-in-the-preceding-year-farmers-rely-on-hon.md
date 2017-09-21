@@ -8,6 +8,7 @@ More than 40% of honeybee colonies died in the U.S. during a 12-month period end
 ### Source:
 
 1. [Wall Street Journal](http://www.wsj.com/articles/over-40-of-honeybee-colonies-died-in-year-usda-says-1431531544)
+1. [Cover Image](https://si.wsj.net/public/resources/images/BN-IK369_BEES05_G_20150513182500.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Jimmie Johnson finished seventh in Sunday’s Ford 400 as he easily held off his
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601079&sid=aODUDUS6zy4c&refer=home)
 2. [LA Times](http://www.latimes.com/sports/printedition/la-sp-nascar19nov19,1,7642781.story?coll=la-headlines-pe-sports)
 3. [NYT](http://www.nytimes.com/2007/11/19/sports/othersports/19nascar.html?ref=othersports)
+3. [Cover Image](https://static01.nyt.com/images/2007/11/19/sports/19nascar.751.jpg)
 
 ### Related:
 

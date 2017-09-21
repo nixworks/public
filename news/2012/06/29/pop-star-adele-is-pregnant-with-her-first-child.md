@@ -8,6 +8,7 @@ Pop star Adele is expecting her first child, she has told fans via a message on 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18648924)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61264000/jpg/_61264160_014745152-1.jpg)
 
 ### Related:
 

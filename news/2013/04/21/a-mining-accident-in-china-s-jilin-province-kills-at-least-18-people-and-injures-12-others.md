@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Business Standard](http://www.business-standard.com/article/pti-stories/china-mine-blast-kills-18-113042100035_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

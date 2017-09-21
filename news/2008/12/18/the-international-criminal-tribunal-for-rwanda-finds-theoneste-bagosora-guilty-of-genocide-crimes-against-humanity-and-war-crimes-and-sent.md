@@ -8,6 +8,7 @@ A U.N. court convicted former army colonel Theoneste Bagosora Thursday of genoci
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4BH1QB20081218?feedType=RSS&feedName=worldNews&rpc=69)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20081218&t=2&i=7261235&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-12-18T100357Z_01_BTRE4BH0RYP00_RTROPTP_0_US-RWANDA-GENOCIDE-SENTENCE)
 
 ### Related:
 

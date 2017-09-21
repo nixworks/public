@@ -8,6 +8,7 @@
 ### Source:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/russias-ratings-cut-sp-first/story.aspx?guid=%7BB8688F3C-3BE0-4382-A4B5-0D2F37D76F0D%7D&dist=msr_1)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Anti-government protests continue in tiny kingdom, despite apology by king for t
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121635518925202.html#)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/16/2011216124010354371_20.jpg)
 
 ### Related:
 

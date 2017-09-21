@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-filmfestival-cannes-winners-announcem-idUSKBN18O0NY)
+1. [Cover Image](//s2.reutersmedia.net/resources/r/?m=02&d=20170528&t=2&i=1186602476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4R0F4)
 
 ### Related:
 

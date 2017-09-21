@@ -14,6 +14,7 @@ ANOTHER Corrib Gas protester has released details of a conversation he had with 
 5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0407/breaking41.html)
 6. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0407/1224294101483.html)
 7. [UK Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5h6dhpjZ3j1bJtYo67mPWhUqX8_lg?docId=N0452741302169141497A)
+7. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

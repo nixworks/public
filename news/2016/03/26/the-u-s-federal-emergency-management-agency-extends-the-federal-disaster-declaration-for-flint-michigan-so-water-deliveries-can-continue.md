@@ -8,6 +8,7 @@ FEMA extended its federal disaster declaration in the wake of the Flint water cr
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/US/2016/03/26/FEMA-extends-water-deliveries-in-Flint-Mich-through-August/4741459020200/?spt=hs&or=tn_us)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4741459020200/2016/1/ddb7f2b771b71d4a08780996606b33cf/v1.5/FEMA-extends-water-deliveries-in-Flint-Mich-through-August.jpg)
 
 ### Related:
 

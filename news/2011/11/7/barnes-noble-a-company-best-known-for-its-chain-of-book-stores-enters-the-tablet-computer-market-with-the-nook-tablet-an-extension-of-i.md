@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/11/08/us-barnesandnoble-idUSTRE7A60UF20111108)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111108&t=2&i=528791194&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7A619F700)
 
 ### Related:
 

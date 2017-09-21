@@ -9,6 +9,7 @@ About 700 people from the remote mountains of southern Taiwan have been found al
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8196543.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0812/asia.html)
+2. [Cover Image](https://img.rasset.ie/000280cb-1600.jpg)
 
 ### Related:
 

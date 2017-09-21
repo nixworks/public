@@ -9,6 +9,7 @@ Like ballerinas pirouetting around an invisible leader, a collection of stars or
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28160442/)
 2. [arΧiv.org](http://arxiv.org/abs/0810.4674)
+2. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/081209-blackhole-stars-02-vmed.standard.jpg)
 
 ### Related:
 

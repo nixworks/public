@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/sports/soccer/2014/12/18/spain-arrests-13-more-people-in-football-fan-fight/20576277/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

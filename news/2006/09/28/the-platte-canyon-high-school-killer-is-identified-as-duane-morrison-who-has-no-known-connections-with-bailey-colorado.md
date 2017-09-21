@@ -8,6 +8,7 @@ Colorado Gunman Sexually Assaulted 6 Students Before Killing One And Committing 
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/09/27/national/main2046698.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/09/28/d4d0150a-a642-11e2-a3f0-029118418759/image2047813x.jpg)
 
 ### Related:
 

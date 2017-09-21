@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/tech/2013/01/30/rims-last-shot-new-blackberry-smartphones-unveiled/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2013/01/30/rims-last-shot-new-blackberry-smartphones-unveiled/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1422489233722.jpg?ve=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A host of international writers including several Nobel laureates issue a joint 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16767476)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58147000/jpg/_58147988_013763389-1.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/6184854.stm)
 2. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?view=CN&symbol=&storyID=2006-11-27T031619Z_01_N19156110_RTRUKOC_0_US-ECUADOR-ELECTION.xml&WTmodLoc=InvArt-C2-NextArticle-1)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ New York state Gov. Andrew Cuomo on Monday signed an order banning all non-essen
 ### Source:
 
 1. [CBS News](http://newyork.cbslocal.com/2016/03/28/cuomo-north-carolina-travel/)
+1. [Cover Image](https://cbsnewyork.files.wordpress.com/2016/02/gettyimages-507430362.jpg?w=1500)
 
 ### Related:
 

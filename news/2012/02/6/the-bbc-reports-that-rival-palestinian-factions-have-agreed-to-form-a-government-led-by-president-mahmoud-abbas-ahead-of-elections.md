@@ -8,6 +8,7 @@ Palestinian leader Mahmoud Abbas says he will head a unity government between Ha
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16903239)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58095000/jpg/_58095672_58095671.jpg)
 
 ### Related:
 

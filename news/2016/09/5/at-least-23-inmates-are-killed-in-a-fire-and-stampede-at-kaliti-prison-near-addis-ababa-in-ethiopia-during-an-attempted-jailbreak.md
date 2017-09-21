@@ -8,6 +8,7 @@ Ethiopia says 23 prisoners have died after a fire at a prison where prominent an
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-37274883)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BC2C/production/_91027184_ethiopiaprison.jpg)
 
 ### Related:
 

@@ -14,6 +14,7 @@ Teaching the theory in public schools violates Constitution, judge rules.
 5. [Christian Science Monitor](http://www.csmonitor.com/2005/1221/p01s01-ussc.html)
 6. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5492468,00.html)
 7. [Time](http://www.time.com/time/health/article/0,8599,1142672,00.html)
+7. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)
 
 ### Related:
 

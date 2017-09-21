@@ -9,6 +9,7 @@ Thirteen people were shot dead as supporters of the Muslim Brotherhood clashed w
 
 1. [Reuters](http://www.reuters.com/article/2014/01/03/us-egypt-brotherhood-idUSBREA020FR20140103)
 2. [Sky News](http://news.sky.com/story/1189929/egypt-eleven-dead-in-pro-morsi-protests)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140103&t=2&i=826517274&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0212IB00)
 
 ### Related:
 

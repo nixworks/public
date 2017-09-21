@@ -8,3 +8,4 @@ The government has banned the manufacture, sale and distribution of painkiller d
 ### Source:
 
 1. [The Hindu](http://www.thehindu.com/sci-tech/health/medicine-and-research/govt-bans-painkiller/article4808001.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)

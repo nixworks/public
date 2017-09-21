@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/07/15/us-minnesota-shutdown-idUSTRE76D53620110715?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110715&t=2&i=459100044&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-15T003818Z_01_BTRE76D1JNG00_RTROPTP_0_MINNESOTA-BUDGET)
 
 ### Related:
 

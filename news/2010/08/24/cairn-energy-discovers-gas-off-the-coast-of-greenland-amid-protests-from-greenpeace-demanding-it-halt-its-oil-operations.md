@@ -9,6 +9,7 @@ Gas has been discovered off the coast of Greenland after the first drilling for 
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6JPzP_Vn7Wz23LI2xBD6FKc-yDA)
 2. [BBC](http://www.bbc.co.uk/news/business-11068467)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

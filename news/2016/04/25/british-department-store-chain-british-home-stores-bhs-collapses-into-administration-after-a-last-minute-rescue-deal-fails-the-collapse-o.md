@@ -8,6 +8,7 @@ Administrators Duff &amp; Phelps will keep stores open as they try to find a buy
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/2016/apr/25/bhs-heading-for-administration-as-rescue-deal-fails)
+1. [Cover Image](https://i.guim.co.uk/img/media/2ccaf8736b26182532e5f5ad7c6a6fa790720b76/0_343_6000_3600/6000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=100a2ac212597abda61e5e5f5e3319a9)
 
 ### Related:
 

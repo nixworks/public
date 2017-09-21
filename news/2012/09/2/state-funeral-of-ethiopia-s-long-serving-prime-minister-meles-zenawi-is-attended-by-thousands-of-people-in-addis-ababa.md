@@ -8,6 +8,7 @@ Thousands of people and many foreign leaders attend the funeral in the Ethiopian
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19454253)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62629000/jpg/_62629100_62629099.jpg)
 
 ### Related:
 

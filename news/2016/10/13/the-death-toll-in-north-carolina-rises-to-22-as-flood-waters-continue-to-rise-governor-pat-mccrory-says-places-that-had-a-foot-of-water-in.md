@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-storm-matthew-idUSKCN12D31X)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161013&t=2&i=1157373166&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9C1SF)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gang violence in El Salvador left 907 people dead last month, a level of bloodsh
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-34124090)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/6627/production/_85315162_85315161.jpg)
 
 ### Related:
 

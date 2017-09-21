@@ -9,6 +9,7 @@ Pentagon puts off intercontinental missile launch apparently to avoid stoking te
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/04/2013471341732178.html)
 2. [CNN](http://www.cnn.com/2013/04/06/world/asia/koreas-tensions)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/7/2013472226734734_20.jpg)
 
 ### Related:
 

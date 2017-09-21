@@ -8,6 +8,7 @@ The entire area around the venue of the ceremony was blocked off with military a
 ### Source:
 
 1. [New Army Chief - Dawn News](http://www.dawn.com/news/1059366/gen-raheel-sharif-gets-baton-of-command)
+1. [Cover Image](http://i.dawn.com/medium/2013/11/52985a317a15c.jpg)
 
 ### Related:
 

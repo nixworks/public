@@ -10,6 +10,7 @@ At least 400 children have died from lead poisoning in northern Nigeria this yea
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/lead-poisoning-kills-400-kids-in-nigeria-20101006-166hj.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11478986)
 3. [Reuters via News24](http://www.news24.com/Africa/News/400-children-killed-by-lead-poisoning-UN-20101005)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

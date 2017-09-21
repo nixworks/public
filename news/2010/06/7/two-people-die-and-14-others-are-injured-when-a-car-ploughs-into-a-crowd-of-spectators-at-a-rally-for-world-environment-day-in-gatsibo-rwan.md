@@ -9,6 +9,7 @@ Two people are killed and 14 others injured in Rwanda after a car ploughs into a
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10255792.stm)
 2. [Times Live](http://www.timeslive.co.za/sport/Motorsport/article491602.ece/Two-dead-in-Rwanda-rally-crash)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

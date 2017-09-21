@@ -16,7 +16,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Camp X-Ray, Daily Mirror, Guantnamo Bay detainment camp, Jamal al-Harith_
 
 ### [ Iraqi insurgents kill two U.S. soldiers in a roadside bomb attack near the Sunni Triangle town of Habbaniyah. ](/news/2004/03/12/iraqi-insurgents-kill-two-u-s-soldiers-in-a-roadside-bomb-attack-near-the-sunni-triangle-town-of-habbaniyah.md)
-_Context: Iraqi resistance, Sunni Triangle_
+_Context: Sunni Triangle, rebel-held_
 
 ### [ Iraqi police are responsible for killing two U.S. civilians, local investigators state. ](/news/2004/03/12/iraqi-police-are-responsible-for-killing-two-u-s-civilians-local-investigators-state.md)
 _Context: civilian, police_

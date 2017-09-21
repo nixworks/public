@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4345301.stm)
 2. [Planet Ark](http://www.planetark.com/dailynewsstory.cfm/newsid/29916/story.htm)
+2. [Cover Image](http://planetark.org/images/default_image.jpg)
 
 ### Related:
 

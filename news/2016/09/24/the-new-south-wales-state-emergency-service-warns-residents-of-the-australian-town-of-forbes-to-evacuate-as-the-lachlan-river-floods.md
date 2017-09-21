@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Weather Zone](http://www.weatherzone.com.au/news/nsw-weather-forbes-warned-to-evacuate-as-lachlan-river-nears-unexpectedly-high-peak/525045)
+1. [Cover Image](http://wz5.resources.weatherzone.com.au/images/logos/wz-512x512.jpg)
 
 ### Related:
 

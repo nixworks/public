@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC Persian](http://www.bbc.com/persian/iran-37500264)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/branded_persian/157FD/production/_91416088_cebc9c2f-c7e4-4515-bda3-6feedb376379.jpg)
 
 ### Related:
 

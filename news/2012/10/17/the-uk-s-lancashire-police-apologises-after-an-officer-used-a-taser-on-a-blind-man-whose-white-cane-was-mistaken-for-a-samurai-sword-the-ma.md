@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-lancashire-19979184)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63544000/jpg/_63544938_taser.jpg)
 
 ### Related:
 

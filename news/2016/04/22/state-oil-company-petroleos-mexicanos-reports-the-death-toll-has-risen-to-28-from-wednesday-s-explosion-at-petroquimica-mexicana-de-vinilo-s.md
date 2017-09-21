@@ -8,6 +8,7 @@ MEXICO CITY (AP) — Searchers recovered four more bodies from a petrochemical p
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/00720428b3f5418a92427e196adb9a6d/death-toll-28-mexico-petrochemical-plant-explosion)
+1. [Cover Image](http://binaryapi.ap.org/f3bdbe223c07426ca835b8bf8dc5636c/460x.jpg)
 
 ### Related:
 

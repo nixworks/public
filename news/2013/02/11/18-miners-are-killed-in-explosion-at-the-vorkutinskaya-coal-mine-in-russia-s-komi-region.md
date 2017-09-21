@@ -9,6 +9,7 @@ At least 16 workers killed and two more feared dead after explosion in coal mine
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/02/201321172612986805.html)
 2. [RT](http://rt.com/news/russia-mine-blast-dead-897)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/2/11/20132111233589580_20.jpg)
 
 ### Related:
 

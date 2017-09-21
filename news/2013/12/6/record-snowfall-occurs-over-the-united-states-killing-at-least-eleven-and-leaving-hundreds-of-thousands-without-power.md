@@ -8,6 +8,7 @@ The cold snap is forecast to continue causing problems and trekking northeast.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/weather/2013/12/07/us-storm-weather-snow-sleet-ice/3901673/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

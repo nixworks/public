@@ -8,6 +8,7 @@ Security minister Baroness Neville-Jones has stepped down from the government &q
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13338508)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52629000/jpg/_52629127_006282574-1.jpg)
 
 ### Related:
 

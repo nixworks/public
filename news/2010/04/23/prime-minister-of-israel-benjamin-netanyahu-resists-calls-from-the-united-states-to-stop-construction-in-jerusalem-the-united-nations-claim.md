@@ -9,6 +9,7 @@ Israel&#39;s prime minister on Thursday rejected U.S. calls to halt construction
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8638895.stm)
 2. [MSNBC](http://www.msnbc.msn.com/id/36720635/ns/world_news-mideastn_africa/)
+2. [Cover Image](http://media3.s-nbcnews.com/j/ap/aptopix mideast israel palestinians--557160429.standard.jpg)
 
 ### Related:
 

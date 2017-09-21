@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-conan-doyle-house-20100819,0,1403929,full.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

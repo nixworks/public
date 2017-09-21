@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-panama-tax-elsalvador-idUSKCN0X52JP)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160409&t=2&i=1131411235&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3801B)
 
 ### Related:
 

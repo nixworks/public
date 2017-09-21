@@ -8,6 +8,7 @@ SANAA - Thousands of Yemenis are marching 270 kilometres (170 miles) from Taez t
 ### Source:
 
 1. [Khaleej Times](http://www.khaleejtimes.com/displayarticle.asp?xfile=data/middleeast/2011/December/middleeast_December581.xml&section=middleeast&col=)
+1. [Cover Image](http://www.khaleejtimes.com/images/default/default_490x276.jpg)
 
 ### Related:
 

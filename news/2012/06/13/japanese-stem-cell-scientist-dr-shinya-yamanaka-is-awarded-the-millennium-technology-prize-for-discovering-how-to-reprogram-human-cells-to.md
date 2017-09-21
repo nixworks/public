@@ -8,6 +8,7 @@ Dr Shinya Yamanaka is the joint winner of major technology prize for his work on
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-18425039)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60876000/jpg/_60876593_yamanaka.jpg)
 
 ### Related:
 

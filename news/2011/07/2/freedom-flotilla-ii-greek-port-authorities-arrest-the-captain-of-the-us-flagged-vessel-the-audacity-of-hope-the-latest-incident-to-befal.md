@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201172143643709749.html)
 2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=227581)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=168855)
 
 ### Related:
 

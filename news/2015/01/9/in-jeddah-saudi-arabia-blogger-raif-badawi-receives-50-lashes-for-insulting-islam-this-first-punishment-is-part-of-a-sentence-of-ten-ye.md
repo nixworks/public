@@ -9,6 +9,7 @@ Raif Badawi was sentenced to 10 years in prison and 1,000 lashes, the remainder 
 
 1. [Guardian](http://www.theguardian.com/world/2015/jan/09/saudi-blogger-first-lashes-raif-badawi)
 2. [Gulf News](http://gulfnews.com/news/gulf/saudi-arabia/saudi-blogger-flogged-in-public-for-insulting-islam-1.1438732)
+2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/1/10/1420867791159/ac022ae8-9733-470c-9145-360fd47ce7a6-bestSizeAvailable.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2d07c2d92ab02cdadb5a82bba6b7ea1b)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An 18-year-old Tibetan nun has set herself on fire in western China in the lates
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/tibet/9077545/Teenage-Tibetan-nun-sets-herself-on-fire-in-China.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02136/Tibet_2136054a.jpg)
 
 ### Related:
 

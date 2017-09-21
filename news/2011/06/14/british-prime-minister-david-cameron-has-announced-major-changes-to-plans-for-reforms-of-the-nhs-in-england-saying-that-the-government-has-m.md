@@ -8,6 +8,7 @@ David Cameron agrees to major changes to plans for the NHS in England, but insis
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13757380)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53402000/jpg/_53402642_zcam_304.jpg)
 
 ### Related:
 

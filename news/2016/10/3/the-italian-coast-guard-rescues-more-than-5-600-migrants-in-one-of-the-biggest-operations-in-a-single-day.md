@@ -8,6 +8,7 @@ The Italian coastguard co-ordinates the rescue of more than 5,600 migrants, in o
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37547431)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0028/production/_91504000_2e0814ac-93b4-4a24-ad11-2e80edca25c7.jpg)
 
 ### Related:
 

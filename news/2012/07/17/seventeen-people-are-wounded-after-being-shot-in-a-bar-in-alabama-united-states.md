@@ -8,6 +8,7 @@ Police have arrested a suspect for an early morning shooting that left 17 injure
 ### Source:
 
 1. [SMH](http://www.smh.com.au/world/suspect-held-after-17-shot-in-alabama-bar-20120718-2290j.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/2/9/0/x/image.related.articleLeadwide.620x349.2290j.png/1342561124820.jpg)
 
 ### Related:
 

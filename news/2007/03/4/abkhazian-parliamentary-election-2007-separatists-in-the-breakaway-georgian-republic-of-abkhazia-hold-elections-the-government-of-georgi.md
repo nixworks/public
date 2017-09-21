@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/NewsTrack/Top_News/abkhazia_holds_elections/20070304-014633-8929r/)
+1. [Cover Image](//www.upi.com/img/upi-fb.png)
 
 ### Related:
 

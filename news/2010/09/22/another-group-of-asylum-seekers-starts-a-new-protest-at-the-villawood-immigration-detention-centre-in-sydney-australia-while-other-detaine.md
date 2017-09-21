@@ -8,6 +8,7 @@ Nine people, including a pregnant woman, have climbed on to the roof of a buildi
 ### Source:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/national/new-rooftop-protest-at-villawood-as-hunger-strikers-treated-20100922-15m24.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/1/5/m/d/r/image.related.articleLeadwide.620x349.15m24.png/1285130413937.jpg)
 
 ### Related:
 

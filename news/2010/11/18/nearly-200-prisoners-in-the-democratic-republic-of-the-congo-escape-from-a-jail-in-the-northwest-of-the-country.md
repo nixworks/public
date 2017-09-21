@@ -8,6 +8,7 @@ An estimated 200 prisoners in DR Congo escape from a jail in the remote north-we
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11790985)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

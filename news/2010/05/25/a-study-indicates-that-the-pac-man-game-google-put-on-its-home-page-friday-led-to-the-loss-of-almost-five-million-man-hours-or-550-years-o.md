@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/10153286.stm)
 2. [CBC News](http://www.cbc.ca/technology/story/2010/05/25/pacman-google.html?ref=rss)
 3. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1281317/Google-Pac-Man-game-eats-million-hours-work-time.html)
+3. [Cover Image](https://i.cbc.ca/1.2096338.1381989754!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-pacman.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ PA launches campaign to sell peace talks to Palestinians and Israelis.
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=186394)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=145446)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Zimbabwe President Robert Mugabe ordered the expulsion of eight foreign diamond 
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/02/22/Zimbabwes-president-kicks-out-private-diamond-miners-nationalizes-industry/8071456157443/?spt=rln&or=3)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/8071456157443/2016/1/2602d9b0945b1c606708dd2fb1df07ac/v1.5/Zimbabwes-president-kicks-out-private-diamond-miners-nationalizes-industry.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [WSB TV](http://www.wsbtv.com/news/local/atlanta/3-charged-in-connection-with-fire-that-led-to-i-85-collapse/507974468)
+1. [Cover Image](http://media.beta.wsbtv.com/photo/2017/03/31/fire_20170331090336131_7654756_ver1.0_640_360.jpg)
 
 ### Related:
 

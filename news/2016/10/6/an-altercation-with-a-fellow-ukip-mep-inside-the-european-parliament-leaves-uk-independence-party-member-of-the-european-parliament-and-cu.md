@@ -8,6 +8,7 @@ A clash between two Ukip MEPs which ended up with one of them in hospital was &l
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/2016/10/06/ukip-leadership-favourite-steven-woolfe--in-serious-condition-af/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/d/4/d4bmtjnje6zcdqpygqysjanumkk8wmwo-xlarge.jpg)
 
 ### Related:
 

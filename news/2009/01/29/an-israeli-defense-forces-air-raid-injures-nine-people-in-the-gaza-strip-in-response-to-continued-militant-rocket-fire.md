@@ -8,6 +8,7 @@ At least nine Palestinians wounded in attack as Olmert considers expanded milita
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/01/200912910254803610.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

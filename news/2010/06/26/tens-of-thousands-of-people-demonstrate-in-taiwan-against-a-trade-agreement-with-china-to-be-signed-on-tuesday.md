@@ -10,6 +10,7 @@ Thousands protest in the Taiwanese capital about a trade deal with China, which 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10423409.stm)
 2. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201006260015&Type=aIPL)
 3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100626/news_20100626_56_678909.htm)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A Thai court jails a magazine editor for 10 years for publishing two articles th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21155704)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65452000/jpg/_65452010_65452009.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ The federal government, trying to boost investor confidence in the face of a mar
 4. [Reuters via ''Forbes](http://www.forbes.com/afxnewslimited/feeds/afx/2008/09/18/afx5441768.html)
 5. [Riksgäldskontoret](https://www.riksgalden.se/templates/RGK_Templates/NewsPage____16980.aspx)
 6. [The Wall Street Journal](http://online.wsj.com/article/SB122175692668652881.html)
+6. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

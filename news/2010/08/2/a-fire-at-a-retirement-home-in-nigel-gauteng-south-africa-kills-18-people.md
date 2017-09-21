@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10835045)
 2. [Times Live South Africa](http://www.timeslive.co.za/local/article581498.ece/Elderly-lose-everything-in-Nigel-fire)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

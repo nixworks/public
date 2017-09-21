@@ -11,6 +11,7 @@ Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&
 2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010822202238700399.html)
 3. [BBC](http://www.bbc.co.uk/news/world-latin-america-11054376)
 4. [Reuters via France24](http://www.france24.com/en/20100822-miners-trapped-two-weeks-still-alive-send-message-Chile)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/chili-mine.jpg)
 
 ### Related:
 

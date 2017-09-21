@@ -9,6 +9,7 @@ The Age 404 Page
 
 1. [AP via the Melbourne Age](http://www.theage.com.au/news/World/China-toy-chief-suicides-after-recall/2007/08/13/1186857404125.html)
 2. [News Limited](http://www.news.com.au/story/0,23599,22236186-2,00.html)
+2. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

@@ -10,6 +10,7 @@ An air raid by an Arab coalition killed 60 people in Yemen, including inmates of
 1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/10/29/world/middleeast/ap-ml-yemen-airstrikes.html?_r=0)
 2. [BBC](http://www.bbc.com/news/world-middle-east-37813569)
 3. [Reuters](http://www.reuters.com/article/us-yemen-security-strike-idUSKCN12U03R)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161030&t=2&i=1159550350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9T082)
 
 ### Related:
 

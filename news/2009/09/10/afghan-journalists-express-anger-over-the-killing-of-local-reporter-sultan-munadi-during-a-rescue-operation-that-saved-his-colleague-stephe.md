@@ -8,6 +8,7 @@ Afghan journalists have expressed anger over the killing of a local reporter dur
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0910/afghanistan.html)
+1. [Cover Image](https://img.rasset.ie/0002943f-1600.jpg)
 
 ### Related:
 

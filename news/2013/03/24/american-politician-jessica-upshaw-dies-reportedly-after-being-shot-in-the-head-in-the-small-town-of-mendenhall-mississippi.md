@@ -8,3 +8,4 @@ Republican lawmaker was at home of former representative; local paper reports sh
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57576043/mississippi-state-rep-jessica-upshaw-found-dead/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/03/24/15a344c5-a738-11e2-a3f0-029118418759/upshaw-AP349712603117.jpg)

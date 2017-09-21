@@ -9,6 +9,7 @@ Budapest escapes damage as swollen Danube river recedes from record level of 8.9
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/201361018414523175.html)
 2. [CBC](http://www.cbc.ca/news/world/story/2013/06/10/europe-flooding-germany-elbe.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/10/2013610192047511734_20.jpg)
 
 ### Related:
 

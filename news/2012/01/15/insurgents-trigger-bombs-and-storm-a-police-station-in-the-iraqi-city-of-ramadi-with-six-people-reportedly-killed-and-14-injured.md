@@ -8,6 +8,7 @@ Gunmen set off bombs outside a police building in the Iraqi city of Ramadi befor
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16565572)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57897000/jpg/_57897095_013714292-1.jpg)
 
 ### Related:
 

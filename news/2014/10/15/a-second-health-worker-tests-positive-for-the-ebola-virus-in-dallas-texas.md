@@ -8,6 +8,7 @@ A second healthcare worker involved in the care of America&#039;s first Ebola pa
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-10-15/second-texas-health-worker-tests-positive-for-ebola/5816930)
+1. [Cover Image](http://www.abc.net.au/news/image/5817484-1x1-700x700.jpg)
 
 ### Related:
 

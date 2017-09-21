@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20586343)
 2. [NBC News](http://todaynews.today.com/_news/2012/12/03/15576447-duchess-kate-is-pregnant-with-first-child)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64538000/jpg/_64538712_wtbdg23c.jpg)
 
 ### Related:
 

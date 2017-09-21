@@ -8,6 +8,7 @@ The Federal Reserve gave investors what they wanted today, but quietly warned Wa
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2007/10/31/business/31cnd-fed.html?_r=1&hp&oref=slogin)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Authorities fear the death toll could rise after a boat loaded with asylum seeke
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-09-27/asylum-seekers-drown-as-boat-capsizes-off-java/4986422)
+1. [Cover Image](http://www.abc.net.au/news/image/4985840-1x1-700x700.jpg)
 
 ### Related:
 

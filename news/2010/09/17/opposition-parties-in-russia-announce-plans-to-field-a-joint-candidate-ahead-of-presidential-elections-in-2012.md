@@ -10,6 +10,7 @@ Russia&#039;s fractured democratic opposition announced plans to unite yesterday
 1. [Financial Times](http://www.ft.com/cms/s/0/d2cbc480-c1ab-11df-9d90-00144feab49a.html)
 2. [MSN India](http://news.in.msn.com/international/article.aspx?cp-documentid=4394447)
 3. [The Independent](http://www.independent.co.uk/news/world/europe/opposition-unites-against-putin-ndash-for-the-time-being-2081644.html)
+3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/09/16/21/454888.bin)
 
 ### Related:
 

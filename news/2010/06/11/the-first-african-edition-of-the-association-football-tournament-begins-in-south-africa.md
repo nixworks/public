@@ -14,6 +14,7 @@ Nelson Mandela is not attending the opening game of the World Cup today followin
 5. [The Guardian](http://www.guardian.co.uk/world/2010/jun/11/nelson-mandela-grandaughter-drunk-driver)
 6. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100611/NATIONAL/100619957/1133/opinion)
 7. [The New York Times](http://www.nytimes.com/2010/06/12/world/africa/12mandela.html?src=me)
+7. [Cover Image](https://img.rasset.ie/000362d6-1600.jpg)
 
 ### Related:
 

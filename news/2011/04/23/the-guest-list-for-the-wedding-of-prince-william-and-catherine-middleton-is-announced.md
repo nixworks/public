@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13174863)
 2. [CNN](http://www.cnn.com/2011/WORLD/europe/04/23/uk.royal.wedding.guests/index.html?hpt=C1)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52314000/jpg/_52314895_52314894.jpg)
 
 ### Related:
 

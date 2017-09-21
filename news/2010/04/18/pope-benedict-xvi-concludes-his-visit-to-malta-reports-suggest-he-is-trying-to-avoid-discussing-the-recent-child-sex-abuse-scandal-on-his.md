@@ -12,6 +12,7 @@ Pope Benedict XVI met with a group of victims and expressed â€œshame and sorrowâ
 3. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/18/pope.malta/?hpt=T1)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/vaticancityandholysee/7603808/Pope-meets-with-Malta-sex-abuse-victims.html)
 5. [The New York Times](http://www.nytimes.com/2010/04/19/world/europe/19pope.html)
+5. [Cover Image](https://static01.nyt.com/images/2010/04/19/world/19pope_CA0/19pope_CA0-thumbStandard.jpg)
 
 ### Related:
 

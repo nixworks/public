@@ -12,6 +12,7 @@ The book voted off the competition third was...
 3. [NME](http://www.nme.com/news/paul-mccartney/47532)
 4. [The Guardian](http://www.guardian.co.uk/music/2009/sep/27/paul-mccartney-schoolboy-essay-found)
 5. [The Sunday Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/beatles/article6850826.ece)
+5. [Cover Image](https://i.cbc.ca/1.4035227.1490369243!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canada-reads-2017-contenders-new.jpg)
 
 ### Related:
 

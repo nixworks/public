@@ -9,6 +9,7 @@ The film director served 42 days in prison in 1977 after pleading guilty to havi
 
 1. [BBC](http://www.bbc.com/news/world-europe-34675672)
 2. [Sky News](http://news.sky.com/story/1579002/polanski-us-extradition-request-rejected)
+2. [Cover Image](http://e3.365dm.com/16/05/1600x900/gettyimages-467051632-1-2048x1536_3476203.jpg?20160531081728)
 
 ### Related:
 

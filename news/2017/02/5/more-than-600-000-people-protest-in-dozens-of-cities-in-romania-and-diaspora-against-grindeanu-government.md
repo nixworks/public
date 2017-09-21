@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Digi24](http://www.digi24.ro/stiri/actualitate/justitie/legea-gratierii/cel-mai-mare-protest-fata-de-oug-13-anuntat-pentru-duminica-in-capitala-663703)
+1. [Cover Image](http://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTcl/MkYwMiUyRjA2JTJGNzM4MDQ4XzczODA0/OF9mb3RvLXBpYXRhLXZpY3RvcmllaS1w/cm90ZXN0ZS1hZ2VycHJlc185NDkxNzM0/LmpwZyZ3PTY0MCZoPTQ4MCZ6Yz0xJmhh/c2g9ZTg2NDJlODY1NWQ2NGI3MDg0MzI1Y2RmMGIzOWYxMDM=.thumb.jpg)
 
 ### Related:
 

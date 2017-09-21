@@ -8,6 +8,7 @@ Kuwaiti opposition candidates were expected to make gains in a snap parliamentar
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/02/02/us-kuwait-election-idUSTRE8110BA20120202)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

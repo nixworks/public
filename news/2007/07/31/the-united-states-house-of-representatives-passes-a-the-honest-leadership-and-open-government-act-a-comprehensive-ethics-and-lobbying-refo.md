@@ -8,6 +8,7 @@ The House overwhelmingly passed a comprehensive ethics and lobbying reform bill 
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,291550,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

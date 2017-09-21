@@ -8,6 +8,7 @@ Fire hazards from possible oil and fuel leaks are cited for the 1.6-liter 4-cyin
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/11/27/automobiles/ford-issues-2-more-recalls-for-the-2013-escape.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/11/27/business/RECALL/RECALL-videoSixteenByNine1050.jpg)
 
 ### Related:
 

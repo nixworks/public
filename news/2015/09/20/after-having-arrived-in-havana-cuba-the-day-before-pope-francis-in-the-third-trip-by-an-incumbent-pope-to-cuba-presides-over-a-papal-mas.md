@@ -11,6 +11,7 @@ After holding Mass in Havana and meeting with Fidel Castro Sunday, Pope Francis 
 2. [The New York Times](http://www.nytimes.com/2015/09/21/world/americas/pope-francis-cuba.html?_r=0)
 3. [USA Today](http://www.usatoday.com/videos/news/world/2015/09/20/72535168/)
 4. [WSJ](http://www.wsj.com/articles/pope-celebrates-mass-in-havana-1442768643)
+4. [Cover Image](http://a.abcnews.com/images/International/AP_Pope_Francis_150921_DC_16x9_992.jpg)
 
 ### Related:
 

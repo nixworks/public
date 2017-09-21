@@ -9,6 +9,7 @@ Gun men opened fire on bus belonging to the Ismaili community
 
 1. [BBC](http://www.bbc.com/news/world-asia-32717321)
 2. [Pakistan Tribune](http://tribune.com.pk/story/885511/five-dead-24-injured-in-firing-attack-in-karachi/)
+2. [Cover Image](https://c.tribune.com.pk/2015/05/885511-hfksdfjksbgsk-1431514648-942-640x480.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ An Australian teenager who stabbed an Indian student to death in an attack that 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16297316)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57514000/jpg/_57514943_47026182.jpg)
 
 ### Related:
 

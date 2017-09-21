@@ -8,6 +8,7 @@ Nurses in Fiji are holding a national strike over a pay cut forced on them by th
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2007/07/26/1989461.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

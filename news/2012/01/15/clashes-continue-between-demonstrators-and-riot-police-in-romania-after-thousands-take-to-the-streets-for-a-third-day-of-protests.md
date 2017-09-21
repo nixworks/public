@@ -8,6 +8,7 @@ There have been clashes between demonstrators and riot police in Romania, after 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16565176)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-europe-16565176A/playlist.sxml)
 
 ### Related:
 

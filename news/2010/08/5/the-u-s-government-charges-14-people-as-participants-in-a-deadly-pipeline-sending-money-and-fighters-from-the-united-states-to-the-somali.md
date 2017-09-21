@@ -9,6 +9,7 @@ US officials charge 14 people with providing money, personnel and services to th
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iDxp9KUfH1llbdveMhTPu41UWyJwD9HDHP283)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10883870)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

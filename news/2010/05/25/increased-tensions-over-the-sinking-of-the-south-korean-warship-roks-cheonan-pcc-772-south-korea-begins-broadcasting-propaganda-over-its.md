@@ -9,6 +9,7 @@ North Korea is to sever all ties with its southern neighbour, as tensions escala
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10156834.stm)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/05/25/75/0301000000AEN20100525007500315F.HTML)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

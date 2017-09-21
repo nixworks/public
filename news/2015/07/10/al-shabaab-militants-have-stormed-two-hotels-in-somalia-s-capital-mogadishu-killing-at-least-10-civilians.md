@@ -9,6 +9,7 @@
 
 1. [ABC News AU](http://www.abc.net.au/news/2015-07-11/somalias-al-shabaab-in-twin-mogadishu-hotel-attacks/6612170)
 2. [Business Standard via AFP](http://www.business-standard.com/article/pti-stories/somalia-s-shebab-launch-twin-mogadishu-hotel-attacks-115071100019_1.html)
+2. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Mayor Michael R. Bloomberg said the Hudson River landing of US Airways Flight 15
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/06/12/nyregion/12geese.html?_r=1)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

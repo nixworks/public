@@ -9,6 +9,7 @@ Police in France have arrested 19 suspected Islamists and seized weapons in a se
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/03/201233054516342667.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17559120)
+2. [Cover Image](http://playlists.bbc.co.uk/news/world-europe-17559120A/playlist.sxml)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iran hangs a woman who killed a man she said was trying to sexually abuse her, d
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-29769468#)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78529000/jpg/_78529566_78528720.jpg)
 
 ### Related:
 

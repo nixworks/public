@@ -8,6 +8,7 @@ Irish voters have rejected the Lisbon Treaty by 110,000 votes - a margin of 53.4
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0613/eulisbon.html)
+1. [Cover Image](https://img.rasset.ie/0001853c-1600.jpg)
 
 ### Related:
 

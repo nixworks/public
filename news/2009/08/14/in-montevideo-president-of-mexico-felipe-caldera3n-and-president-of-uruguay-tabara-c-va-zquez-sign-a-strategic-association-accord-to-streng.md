@@ -8,6 +8,7 @@ Mexico president Felipe Calder&oacute;n and Uruguay&rsquo;s Tabare Vazquez signe
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/15/mexicouruguay-sign-strategic-association-accord-and-advance-trade)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19830/200x200/028eb355a88c53e9e15fd05b9c85ed1b.jpg)
 
 ### Related:
 

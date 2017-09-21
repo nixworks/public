@@ -8,6 +8,7 @@ Two Italian Tornado fighter jets collided in mid-air during a training exercise 
 ### Source:
 
 1. [Euro News](http://www.euronews.com/2014/08/19/four-crew-members-missing-after-italian-fighter-jets-collide/)
+1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 

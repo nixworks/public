@@ -10,6 +10,7 @@ The Pakistani Taliban have claimed responsibility for an attack on a major naval
 1. [AFP via SBS World News](http://www.sbs.com.au/news/article/1543266/Pakistani-Taliban-claim-Karachi-attack--)
 2. [NDTV](http://www.ndtv.com/article/world/terror-attack-on-karachi-naval-station-10-killed-107558)
 3. [Sky News](http://news.sky.com/skynews/Article/201009115997259)
+3. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/6/8/6899_pakistan-afghanistan-tanker-blast-file-210511-b-aap.jpg)
 
 ### Related:
 

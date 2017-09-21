@@ -8,6 +8,7 @@ Walkers, horse riders, cyclists and runners hold a protest march against plans f
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-berkshire-10673203)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

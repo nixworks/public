@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Nobel Foundation](http://nobelprize.org/nobel_prizes/chemistry/laureates/2009/)
+1. [Cover Image](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2009/yonath_postcard.jpg)
 
 ### Related:
 

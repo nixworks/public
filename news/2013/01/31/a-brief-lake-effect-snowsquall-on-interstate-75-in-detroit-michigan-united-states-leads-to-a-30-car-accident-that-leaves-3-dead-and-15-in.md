@@ -8,6 +8,7 @@ Southbound I-75 at Springwells in southwest Detroit is closed due to an accident
 ### Source:
 
 1. [WXYZ](http://www.wxyz.com/dpp/news/region/detroit/stretch-of-i-75-closed-due-to-accident-involving-multiple-vehicles)
+1. [Cover Image](http://media2.wxyz.com//photo/2013/01/31/Chopper_7_video_shows_images_from_above__279600000_20130131115218_640_480.JPG)
 
 ### Related:
 

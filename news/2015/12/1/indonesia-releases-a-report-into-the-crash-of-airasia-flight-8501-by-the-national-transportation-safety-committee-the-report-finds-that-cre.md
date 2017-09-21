@@ -9,6 +9,7 @@ Indonesia’s National Transportation Safety Committee (NTSC) is ready to public
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/airasia-qz8501-crash/2306006.html?cid=twtcna)
 2. [Sky News](http://www.skynews.com.au/news/top-stories/2015/12/01/crew-error-blamed-for-airasia-crash.html)
+2. [Cover Image](http://www.channelnewsasia.com/image/1585936/1448866008000/large16x9/640/360/airasia-examine.jpg)
 
 ### Related:
 

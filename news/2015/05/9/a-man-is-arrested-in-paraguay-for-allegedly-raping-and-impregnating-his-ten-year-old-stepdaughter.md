@@ -8,6 +8,7 @@ A man who allegedly sexually abused and impregnated his 10-year-old stepdaughter
 ### Source:
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/2015-05-10/paraguayan-man-arrested-over-rape-of-stepdaughter/6458352)
+1. [Cover Image](http://www.abc.net.au/news/image/6457532-1x1-700x700.jpg)
 
 ### Related:
 

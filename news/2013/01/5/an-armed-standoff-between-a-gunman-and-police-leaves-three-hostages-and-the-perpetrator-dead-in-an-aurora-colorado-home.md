@@ -10,6 +10,7 @@ Four people, including a gunman, are found dead following a shooting incident an
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20923201)
 2. [CNN](http://www.cnn.com/2013/01/05/justice/colorado-aurora-standoff)
 3. [Fox News](http://www.foxnews.com/us/2013/01/05/police-armed-man-may-be-holding-3-4-hostages-in-colorado-home-unclear-if-anyone)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65095000/jpg/_65095267_65095266.jpg)
 
 ### Related:
 

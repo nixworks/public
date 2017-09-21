@@ -8,6 +8,7 @@ A bus plunged nearly 30 feet into a riverbed in India on Friday, killing at leas
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,271413,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

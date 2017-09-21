@@ -8,6 +8,7 @@ Saudi-owned al-Arabiya television said Saudi Arabia had deployed 30,000 soldiers
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2014/07/03/uk-saudi-iraq-border-idUKKBN0F80J320140703)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -19,5 +20,5 @@ Saudi-owned al-Arabiya television said Saudi Arabia had deployed 30,000 soldiers
 6. [Two militants, one wearing a suicide vest, kill two Saudi Arabian border guards and a general near the border with Iraq. ](/news/2015/01/5/two-militants-one-wearing-a-suicide-vest-kill-two-saudi-arabian-border-guards-and-a-general-near-the-border-with-iraq.md) _Context: Iraq, Saudi Arabia_
 7. [ The Government of Saudi Arabia announces plans to build a separation barrier between Saudi Arabia and Iraq. The barrier will cost $12 billion to build. ](/news/2006/12/15/the-government-of-saudi-arabia-announces-plans-to-build-a-separation-barrier-between-saudi-arabia-and-iraq-the-barrier-will-cost-12-billi.md) _Context: Iraq, Saudi Arabia_
 8. [ U.S. Vice President Dick Cheney is on a trip to various countries including Oman, Afghanistan, Pakistan, Egypt and Saudi Arabia. He made a surprise stop to Iraq today. [http://news.yahoo.com/s/ap/20051218/ap_on_re_mi_ea/cheney_iraq (Yahoo! News)] (Link dead as of 22:48, 14 January 2007 (UTC)), [http://www.alertnet.org/thenews/newsdesk/L18757872.htm (Reuters)] (Link dead as of 22:48, 14 January 2007 (UTC))](/news/2005/12/18/u-s-vice-president-dick-cheney-is-on-a-trip-to-various-countries-including-oman-afghanistan-pakistan-egypt-and-saudi-arabia-he-made-a.md) _Context: Iraq, Saudi Arabia_
-9. [ Saudi Arabia deploys 3,300 troops to Kuwait in preparation for a potential Iraq conflict.](/news/2003/03/5/saudi-arabia-deploys-3-300-troops-to-kuwait-in-preparation-for-a-potential-iraq-conflict.md) _Context: Iraq, Saudi Arabia_
-10. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Saudi Arabia_
+9. [ The price of U.S. light crude briefly exceeds the price of USD 50/barrel, the highest since 1983. Analysts attribute the increase largely to concerns over the disruption of oil production in Nigeria; conflicts in Iraq and Saudi Arabia and the effects of Hurricane Ivan are also cited. ](/news/2004/09/28/the-price-of-u-s-light-crude-briefly-exceeds-the-price-of-usd-50-barrel-the-highest-since-1983-analysts-attribute-the-increase-largely-t.md) _Context: Iraq, Saudi Arabia_
+10. [ Saudi Arabia deploys 3,300 troops to Kuwait in preparation for a potential Iraq conflict.](/news/2003/03/5/saudi-arabia-deploys-3-300-troops-to-kuwait-in-preparation-for-a-potential-iraq-conflict.md) _Context: Iraq, Saudi Arabia_

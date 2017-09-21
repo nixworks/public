@@ -8,6 +8,7 @@ The flag of American forces in Iraq has been lowered in Baghdad bringing nearly 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16192105)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57344000/jpg/_57344078_013531247-2.jpg)
 
 ### Related:
 

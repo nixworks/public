@@ -8,6 +8,7 @@ Three American medical staff are shot dead by a policeman guarding a hospital in
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27138240)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74411000/jpg/_74411918_74411917.jpg)
 
 ### Related:
 

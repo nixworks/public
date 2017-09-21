@@ -9,6 +9,7 @@ Sri Lanka unveils a new seaport largely funded by China - one in a series of big
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10979395)
 2. [Reuters India](http://in.reuters.com/article/idINIndia-50856420100815)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

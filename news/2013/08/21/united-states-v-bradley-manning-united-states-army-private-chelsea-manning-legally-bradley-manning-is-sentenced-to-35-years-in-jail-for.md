@@ -8,6 +8,7 @@ Bradley Manning, the Army private convicted of leaking hundreds of thousands of 
 ### Source:
 
 1. [ABC News America](http://abcnews.go.com/Politics/bradley-manning-sentenced-35-years-leaking-secrets/story?id=20021288)
+1. [Cover Image](http://a.abcnews.com/images/Politics/AP_bradley_manning_dm_130610_16x9_992.jpg)
 
 ### Related:
 

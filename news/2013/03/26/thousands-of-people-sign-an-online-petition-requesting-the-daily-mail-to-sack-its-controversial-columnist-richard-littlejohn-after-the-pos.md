@@ -8,6 +8,7 @@ An online petition calls for the sacking of Daily Mail columnist Richard Littlej
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-21946728)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66626000/jpg/_66626274_66626273.jpg)
 
 ### Related:
 

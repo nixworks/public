@@ -8,6 +8,7 @@ Facebook Chief Executive Mark Zuckerberg heard from more than a dozen U.S. conse
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-facebook-bias-idUSKCN0Y923S)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160519&t=2&i=1137839617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4H15V)
 
 ### Related:
 

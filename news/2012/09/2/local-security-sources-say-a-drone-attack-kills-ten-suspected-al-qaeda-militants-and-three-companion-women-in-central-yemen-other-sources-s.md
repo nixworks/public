@@ -9,6 +9,7 @@ An air strike in central Yemen on Sunday killed 10 suspected al-Qaida extremists
 
 1. [Nahrnet](http://www.naharnet.com/stories/en/52164-yemen-air-raid-kills-10-qaida-suspects-3-women)
 2. [Reuters](http://www.reuters.com/article/2012/09/03/us-al-yemen-strike-idUSBRE88207420120903)
+2. [Cover Image](http://images3.naharnet.com/images/35851/w140.jpg?1334471076)
 
 ### Related:
 

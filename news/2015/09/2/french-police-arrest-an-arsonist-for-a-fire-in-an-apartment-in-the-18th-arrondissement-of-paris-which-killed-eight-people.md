@@ -8,6 +8,7 @@ French police arrest a man suspected of starting a fire that killed eight people
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34125660)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/128B9/production/_85316957_a17c65e8-edbe-4c6a-911c-fe820979fe1e.jpg)
 
 ### Related:
 

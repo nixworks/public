@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE59A0YW20091011)
 2. [Times of India](http://timesofindia.indiatimes.com/world/europe/Pope-canonizes-5-new-saints/articleshow/5112362.cms)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091011&t=2&i=11907786&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-11T115714Z_01_BTRE59A0X7V00_RTROPTP_0_VATICAN)
 
 ### Related:
 

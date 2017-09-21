@@ -9,6 +9,7 @@ Microsoft is buying the professional networking website LinkedIn for about $26bn
 
 1. [BBC](http://www.bbc.com/news/business-36519766)
 2. [CNET](http://www.cnet.com/au/news/microsoft-buys-linkedin-in-26-2bn-deal/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3102/production/_89964521_hi033455224.jpg)
 
 ### Related:
 

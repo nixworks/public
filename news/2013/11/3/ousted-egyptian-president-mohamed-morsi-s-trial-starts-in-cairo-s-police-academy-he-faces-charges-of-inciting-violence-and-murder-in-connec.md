@@ -9,6 +9,7 @@ The trial of deposed Egyptian president Mohammed Mursi has been adjourned until 
 
 1. [RTE](http://www.rte.ie/news/2013/1104/484445-mohamed-morsi-egypt/)
 2. [Reuters](http://www.reuters.com/article/2013/11/04/us-egypt-mursi-trial-idUSBRE9A303P20131104)
+2. [Cover Image](https://img.rasset.ie/00081596-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Singapore has jailed a prominent opposition leader for three weeks after he fail
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-29339820070905)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070905&t=2&i=1653504&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2007-09-05T095757Z_01_NOOTR_RTRMDNC_0_India-293398-1)
 
 ### Related:
 

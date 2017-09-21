@@ -9,6 +9,7 @@ Martin Scorsese&#039;s adventure film Hugo leads the Academy Awards with 11 nomi
 
 1. [Academy Awards website](http://www.oscars.org/)
 2. [The Telegraph](http://www.telegraph.co.uk/culture/film/oscars/9036586/Oscar-nominations-2012-Hugo-leads-the-way.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02118/hugo2_2118579a.jpg)
 
 ### Related:
 

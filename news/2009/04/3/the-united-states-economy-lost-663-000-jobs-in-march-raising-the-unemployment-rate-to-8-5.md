@@ -8,6 +8,7 @@ The U.S. unemployment rate reached 8.5 percent, its highest level in a quarter-c
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/04/04/business/economy/04jobs.html?partner=rss&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2009/04/04/business/04jobs01-75.jpg)
 
 ### Related:
 

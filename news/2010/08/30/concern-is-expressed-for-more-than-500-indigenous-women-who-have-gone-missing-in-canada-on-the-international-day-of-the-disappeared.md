@@ -8,6 +8,7 @@ On International Day of the Disappeared, activists say fate of hundreds of missi
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/quoteofday/2010/08/201083018253280225.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/30/2010830174246601371_20.jpg)
 
 ### Related:
 

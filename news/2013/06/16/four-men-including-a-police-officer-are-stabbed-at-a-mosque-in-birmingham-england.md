@@ -8,6 +8,7 @@ Four men including a police officer are in hospital after being stabbed during a
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/4-stabbed-at-British-mosque-20130616)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2386/d5d19459d0d1476e88363941a5a1b78f.jpg)
 
 ### Related:
 

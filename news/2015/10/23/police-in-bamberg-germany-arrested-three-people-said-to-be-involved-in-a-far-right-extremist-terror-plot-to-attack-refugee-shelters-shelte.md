@@ -8,6 +8,7 @@ The discovery comes as a leaked police report suggests far-Right nationalists co
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/germany/11948175/Far-Right-extremists-could-attack-refugees-with-acid-or-wooden-clubs-says-German-police.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03480/Protestors_3480165k.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Astronomers have found a galaxy whose mass is similar to the Milky Way, but Drag
 ### Source:
 
 1. [IBTimes](http://www.ibtimes.com/dragonfly-44-dark-matter-makes-most-newly-found-galaxy-2407535)
+1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/08/26/dragonfly44.jpg)
 
 ### Related:
 

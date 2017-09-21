@@ -8,6 +8,7 @@ The investigation found that people awaiting trial at the Cook County Jail have 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/07/18/us/18cook.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/07/18/us/18cook_01_75.jpg)
 
 ### Related:
 

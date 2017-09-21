@@ -8,6 +8,7 @@ The United States and Turkey have agreed &quot;in principle&quot; to give air su
 ### Source:
 
 1. [Reuters via Yahoo! News](https://news.yahoo.com/turkey-says-agrees-deal-u-air-support-syrian-072027395.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 

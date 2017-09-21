@@ -8,6 +8,7 @@ Archaeologists find 2,000-year-old tunnels near Egypt border, close to smuggling
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/middleeast/2010/10/20101039027262314.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/3/20101039659837734_20.jpg)
 
 ### Related:
 

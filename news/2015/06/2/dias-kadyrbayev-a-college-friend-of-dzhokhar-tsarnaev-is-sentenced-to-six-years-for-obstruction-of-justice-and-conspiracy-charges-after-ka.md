@@ -8,6 +8,7 @@ Dias Kadyrbayev apologized to the bombing victims and their families at his sent
 ### Source:
 
 1. [CBS Local](http://boston.cbslocal.com/2015/06/02/boston-marathon-bombers-college-pal-gets-6-years-in-prison/)
+1. [Cover Image](https://cbsboston.files.wordpress.com/2015/06/dias-kadyrbayev.jpg?w=625)
 
 ### Related:
 

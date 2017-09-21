@@ -8,6 +8,7 @@ A Virginia man is arrested in the abduction of a British-born student who disapp
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-29355032)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77749000/jpg/_77749142_023951157-1.jpg)
 
 ### Related:
 

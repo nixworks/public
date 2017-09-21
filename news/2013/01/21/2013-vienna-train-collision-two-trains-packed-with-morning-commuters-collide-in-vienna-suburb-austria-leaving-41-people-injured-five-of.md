@@ -10,6 +10,7 @@ Dozens of people are injured in a head-on collision between two commuter trains 
 1. [AFP via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/austria/9815155/Five-hurt-in-Vienna-rush-hour-train-crash.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21120778)
 3. [Reuters](http://www.reuters.com/article/2013/01/21/us-austria-crash-idUSBRE90K0HW20130121)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65409000/jpg/_65409409_65409408.jpg)
 
 ### Related:
 

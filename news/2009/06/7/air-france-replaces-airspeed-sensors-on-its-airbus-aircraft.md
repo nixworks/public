@@ -11,6 +11,7 @@ Search crews have spotted more bodies and found a large amount of debris from th
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8087991.stm)
 3. [RTÉ](http://www.rte.ie/news/2009/0607/airfrance.html)
 4. [Reuters](http://uk.reuters.com/article/topNews/idUKL238171920090607)
+4. [Cover Image](https://img.rasset.ie/000256ce-1600.jpg)
 
 ### Related:
 

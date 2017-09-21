@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/business-12312559)
 2. [One India](http://news.oneindia.in/2011/01/29/suukyi-appeals-for-democracy-growth-in-myanmar-atdavos-aid0126.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

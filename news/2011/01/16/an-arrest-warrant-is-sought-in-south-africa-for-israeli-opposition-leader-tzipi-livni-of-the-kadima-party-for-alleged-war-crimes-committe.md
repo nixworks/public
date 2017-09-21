@@ -9,6 +9,7 @@ Pro-Palestinian groups want Kadima leader arrested for her role in the Gaza war 
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/south-african-groups-seek-arrest-warrant-for-livni-1.337175)
 2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=203705)
+2. [Cover Image](http://www.haaretz.com/polopoly_fs/1.321076.1288001741!/image/1602958745.jpg_gen/derivatives/headline_1200x630/1602958745.jpg)
 
 ### Related:
 

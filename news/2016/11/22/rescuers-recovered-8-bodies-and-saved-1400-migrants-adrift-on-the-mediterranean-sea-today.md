@@ -10,6 +10,7 @@ The migrant corpses and survivors were transferred to rescue vessels from at lea
 1. [Deutsche Welle‎](http://www.dw.com/en/german-court-acquits-seven-members-of-wuppertals-shariah-police/a-36472883)
 2. [IANS via the ''Indian Express](http://www.newindianexpress.com/world/2016/nov/23/eight-corpses-recovered-as-1400-migrants-rescued-in-mediterranean-1541746.html)
 3. [RT](https://www.rt.com/news/367803-sharia-police-german-court)
+3. [Cover Image](http://images.newindianexpress.com/uploads/user/imagelibrary/2016/11/10/w600X390/Migrants_AP.jpg)
 
 ### Related:
 

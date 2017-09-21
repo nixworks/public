@@ -9,6 +9,7 @@ Rocket fire from Gaza subsided Sunday after a daybreak cease-fire, raising hopes
 
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20061126/ap_on_re_mi_ea/israel_palestinians)
 2. [MSNBC](http://www.msnbc.msn.com/id/15894040/)
+2. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/061127/061127_gaza_hmed_3a.standard.jpg)
 
 ### Related:
 

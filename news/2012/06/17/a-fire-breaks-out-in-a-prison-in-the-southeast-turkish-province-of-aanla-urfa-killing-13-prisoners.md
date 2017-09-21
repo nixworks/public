@@ -8,6 +8,7 @@ Thirteen prisoners die in a fire in a prison in southeast Turkey after inmates s
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18475567)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

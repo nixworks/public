@@ -9,6 +9,7 @@ A fire has swept through a four-storey building in the Chinese capital, Beijing,
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13184728)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-04/25/c_13844018.htm)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52329000/jpg/_52329776_reutechina.jpg)
 
 ### Related:
 

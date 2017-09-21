@@ -8,6 +8,7 @@ A man armed with guns, grenades and even a small bomb occupied the Estonian Defe
 ### Source:
 
 1. [RT](http://rt.com/news/estonia-defense-ministry-shooting/)
+1. [Cover Image](https://img.rt.com/files/oldfiles/news/estonia-defense-ministry-shooting/defense-shooting-hit-ministry-266.si.jpg)
 
 ### Related:
 

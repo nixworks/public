@@ -9,6 +9,7 @@ At least 12 Taliban fighters held for their alleged involvement in attack that k
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/02/150213054712848.html)
 2. [BBC](http://www.bbc.com/news/world-south-asia-31451201)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/2/13/84b20f92574e4df196d38905954bdf38_18.jpg)
 
 ### Related:
 

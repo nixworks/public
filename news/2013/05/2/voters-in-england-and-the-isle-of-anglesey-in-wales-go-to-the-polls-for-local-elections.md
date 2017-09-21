@@ -8,6 +8,7 @@ Voters across England, and in Anglesey, are going to the polls to decide the out
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-22376584)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/67372000/jpg/_67372071_67372070.jpg)
 
 ### Related:
 

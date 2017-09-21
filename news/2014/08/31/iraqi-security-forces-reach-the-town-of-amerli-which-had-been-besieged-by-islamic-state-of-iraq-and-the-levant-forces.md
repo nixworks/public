@@ -8,6 +8,7 @@ Iraqi forces reach the besieged town of Amerli, where thousands of people have b
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-29003321)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77292000/jpg/_77292990_6ni6jw6j.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ BP Plc (BP.L) (BP.N) can pumpcement into its blown-out Gulf of Mexico oil well t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSN0410858220100805)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

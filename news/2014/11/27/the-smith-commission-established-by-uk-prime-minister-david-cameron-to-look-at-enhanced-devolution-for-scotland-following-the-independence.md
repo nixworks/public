@@ -8,6 +8,7 @@ The Scottish Parliament should have the power to set income tax rates and bands,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-30223348)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79314000/jpg/_79314111_79314110.jpg)
 
 ### Related:
 

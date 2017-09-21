@@ -10,6 +10,7 @@ The Russian plane crash in Egypt was not due to technical failures, say French a
 1. [BBC](http://www.bbc.com/news/world-europe-34753464)
 2. [The Mirror](http://www.mirror.co.uk/news/world-news/russian-plane-black-box-recording-6782860)
 3. [USA Today](http://www.usatoday.com/story/news/world/2015/11/07/egypt-tourists-russian-plane-crash/75359338/)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A4F2/production/_86562224_86562223.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ French&#x20;freelance&#x20;photojournalist&#x20;Olivier&#x20;Voisin&#x20;has&#x2
 ### Source:
 
 1. [France24](http://www.france24.com/en/20130224-french-photographer-wounded-syria-died)
+1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/olivier-voisin-m.jpg)
 
 ### Related:
 

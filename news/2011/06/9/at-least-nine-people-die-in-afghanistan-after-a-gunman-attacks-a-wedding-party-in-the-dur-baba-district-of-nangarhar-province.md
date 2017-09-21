@@ -8,6 +8,7 @@ Nine people are killed and nine wounded as unidentified gunmen attack a wedding 
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-south-asia-13707862)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52908000/jpg/_52908535_bn-448x252.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Barely a week after the last snowstorm pounded Turkey, another will cause travel
 ### Source:
 
 1. [Accuweather](http://www.accuweather.com/en/weather-news/another-snowstorm-set-to-blank/42376719)
+1. [Cover Image](https://accuweather.brightspotcdn.com/2a/2aecd7cfb3c8ee61d2a33c62c321aa39/650x366_02181420_uf22.jpg)
 
 ### Related:
 

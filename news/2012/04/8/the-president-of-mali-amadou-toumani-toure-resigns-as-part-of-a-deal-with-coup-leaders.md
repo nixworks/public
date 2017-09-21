@@ -8,6 +8,7 @@ President Amadou Toumani Toure of Mali formally resigns as part of a deal with c
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17653882)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59559000/jpg/_59559843_014470895-1.jpg)
 
 ### Related:
 

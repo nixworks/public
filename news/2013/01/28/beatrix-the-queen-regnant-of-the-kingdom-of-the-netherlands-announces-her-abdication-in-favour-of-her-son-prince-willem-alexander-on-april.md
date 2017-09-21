@@ -10,6 +10,7 @@ Queen Beatrix of the Netherlands announces she is abdicating, and will hand the 
 1. [AP via ABC News](http://abcnews.go.com/Entertainment/wireStory/dutch-queen-beatrix-address-nation-18336040)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21237254)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/netherlands/9832284/Dutch-Queen-Beatrix-to-abdicate-in-favour-of-son.html)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65561000/jpg/_65561112_1o796igg.jpg)
 
 ### Related:
 

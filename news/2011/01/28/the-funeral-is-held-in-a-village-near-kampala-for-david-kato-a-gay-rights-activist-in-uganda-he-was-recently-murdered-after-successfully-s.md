@@ -12,6 +12,7 @@ A Ugandan priest is escorted away by police after telling homosexuals to repent 
 3. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/28/uganda.gay.activist/)
 4. [Zambian Watchdog](http://www.zambianwatchdog.com/2011/01/28/osisa-salc-condemn-murder-of-uganda-gay-activist/)
 5. [audio](http://www.bbc.co.uk/worldservice/africa/2011/01/110128_ugandaasylum.shtml)
+5. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

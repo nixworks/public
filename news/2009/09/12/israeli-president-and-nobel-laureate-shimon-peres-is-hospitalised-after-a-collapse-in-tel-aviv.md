@@ -12,6 +12,7 @@ The Israeli president briefly fainted on stage while speaking at an event in Tel
 3. [RTÉ](http://www.rte.ie/news/2009/0912/peress.html)
 4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSMAC273201)
 5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/12/AR2009091202028.html)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

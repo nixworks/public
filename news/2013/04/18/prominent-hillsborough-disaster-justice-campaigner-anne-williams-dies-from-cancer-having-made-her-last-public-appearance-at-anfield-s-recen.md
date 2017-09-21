@@ -8,6 +8,7 @@ Tributes were paid today to one the leading lights in the family campaign to bri
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/sport/football/news-and-comment/hillsborough-jusitice-campaigner-anne-williams-dies-aged-60-8577862.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/04/18/09/anne-williams.jpg)
 
 ### Related:
 

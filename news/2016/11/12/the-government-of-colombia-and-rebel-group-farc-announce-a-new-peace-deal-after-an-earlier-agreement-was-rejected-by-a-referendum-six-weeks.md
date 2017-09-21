@@ -9,6 +9,7 @@ Colombia and Farc rebels reach a revised peace deal, six weeks after voters reje
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37965392)
 2. [Noticias Caracol](http://noticias.caracoltv.com/acuerdo-final/gobierno-y-farc-ya-tienen-listo-el-nuevo-acuerdo-de-paz)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/AA97/production/_92417634_mediaitem92417633.jpg)
 
 ### Related:
 

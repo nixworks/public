@@ -8,6 +8,7 @@ The authorities in Colombia say left-wing Farc rebels have killed eight people i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17877695)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59918000/jpg/_59918152_000081642-1.jpg)
 
 ### Related:
 

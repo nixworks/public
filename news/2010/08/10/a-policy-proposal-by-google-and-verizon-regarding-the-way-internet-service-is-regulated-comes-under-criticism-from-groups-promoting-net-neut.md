@@ -8,6 +8,7 @@ The plan, which includes exceptions for wireless Net access, was criticized by g
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2010/08/10/technology/10net.html?_r=1&scp=2&sq=google%20verizon&st=cse)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

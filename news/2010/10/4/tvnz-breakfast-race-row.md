@@ -10,6 +10,7 @@ Latest breaking news articles, photos, video, blogs, reviews, analysis, opinion 
 1. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/broadcaster-stirs-race-row-new-zealand-20101004-163yn.html)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/personalities/news/article.cfm?c_id=72&objectid=10678060)
 3. [Video](http://www.nzherald.co.nz/nz/news/video.cfm?c_id=1&gal_cid=1&gallery_id=114287)
+3. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)
 
 ### Related:
 

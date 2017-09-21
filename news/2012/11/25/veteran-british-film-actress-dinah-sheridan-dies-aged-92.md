@@ -8,3 +8,4 @@ Dinah Sheridan, who appeared in classic British films including The Railway Chil
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20486180)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64369000/jpg/_64369864_sheridanbbc.jpg)

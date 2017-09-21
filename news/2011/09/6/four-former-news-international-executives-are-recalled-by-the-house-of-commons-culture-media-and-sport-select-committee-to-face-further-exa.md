@@ -8,6 +8,7 @@ News of the World lawyer Tom Crone tells MPs he was &quot;certain&quot; he told 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14797365)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55174000/jpg/_55174383_012388070-1.jpg)
 
 ### Related:
 

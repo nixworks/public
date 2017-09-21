@@ -8,6 +8,7 @@ A British man has been murdered alongside his wife during a suspected robbery at
 ### Source:
 
 1. [Independent](http://www.independent.co.uk/news/uk/crime/british-lawyer-and-wife-murdered-during-suspected-robbery-at-caribbean-home-a6703671.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/05/20/09/Welcome to Tobago.jpg)
 
 ### Related:
 

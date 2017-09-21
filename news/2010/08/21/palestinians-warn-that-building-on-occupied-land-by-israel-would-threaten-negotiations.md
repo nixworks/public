@@ -8,6 +8,7 @@ Palestinians warn negotiations would be threatened if building on occupied land 
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010820231351211295.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -11,6 +11,7 @@ Chinese authorities Monday arrested dozens of demonstrators in Hohhot as protest
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13602589)
 3. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/05/31/china.mongolia.protest/)
 4. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_674524.html)
+4. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/31/china.mongolia.protest/tzvids.mongolia.gi.afp.jpg)
 
 ### Related:
 

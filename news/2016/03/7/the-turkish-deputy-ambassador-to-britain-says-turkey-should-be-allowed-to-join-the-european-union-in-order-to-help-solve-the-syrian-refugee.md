@@ -8,6 +8,7 @@ Turkey should be allowed to join the European Union in order to help solve the S
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/middle-east/turkey-says-letting-it-join-the-eu-would-help-solve-the-refugee-crisis-a6916606.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/19/20/pg-4-refugees-turkey-getty.jpg)
 
 ### Related:
 

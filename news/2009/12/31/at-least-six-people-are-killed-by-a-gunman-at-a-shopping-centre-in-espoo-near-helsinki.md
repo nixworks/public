@@ -11,6 +11,7 @@
 2. [Reuters](http://www.reuters.com/article/idUSTRE5BU0UC20091231)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6972377.ece)
 4. [YLE](http://yle.fi/uutiset/news/2009/12/police_five_dead_following_shooting_rampage_1331619.html)
+4. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091231&t=2&i=39096607&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-31T150920Z_01_BTRE5BU0V1J00_RTROPTP_0_FINLAND-SHOOTING)
 
 ### Related:
 

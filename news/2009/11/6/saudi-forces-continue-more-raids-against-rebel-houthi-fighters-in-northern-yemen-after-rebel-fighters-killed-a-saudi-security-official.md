@@ -9,6 +9,7 @@ Jets and ground forces hit Yemeni rebel fighters for third consecutive day.
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/2009116125810626250.html)
 2. [UPI](http://www.upi.com/Top_News/International/2009/11/06/Saudi-Arabia-bombs-Yemeni-rebels/UPI-42251257487353/)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

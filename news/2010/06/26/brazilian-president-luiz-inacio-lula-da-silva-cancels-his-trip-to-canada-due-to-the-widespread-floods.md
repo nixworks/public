@@ -8,6 +8,7 @@ Relief supplies have begun reaching stranded flood victims in northeastern Brazi
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/relief-reaches-brazil-flood-victims-20100626-zab1.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

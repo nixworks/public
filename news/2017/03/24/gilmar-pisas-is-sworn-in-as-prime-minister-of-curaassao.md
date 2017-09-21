@@ -8,6 +8,7 @@ WILLEMSTAD - Gilmar Pisas was just sworn in as Prime Minister of Curaçao. The p
 ### Source:
 
 1. [The Curaçao Chronicle](http://curacaochronicle.com/main/pisas-sworn-in-as-new-prime-minister-of-curacao/)
+1. [Cover Image](http://curacaochronicle.com/wp-content/uploads/2017/03/new-government.jpg)
 
 ### Related:
 

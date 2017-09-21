@@ -10,6 +10,7 @@ The US State Department spokesperson during the daily briefing declined to comme
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23234116)
 2. [Merco Press](http://en.mercopress.com/2013/07/09/state-department-confirms-dialogue-with-brazil-on-the-alleged-intelligence-activity)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jul/08/brazil-demands-explanation-nsa-spying)
+3. [Cover Image](http://en.mercopress.com/imgs.php/noticias/40789/200x200/jen-psaki.jpg)
 
 ### Related:
 

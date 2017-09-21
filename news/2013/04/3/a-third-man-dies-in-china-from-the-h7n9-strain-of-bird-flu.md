@@ -8,6 +8,7 @@ A third man dies in China after catching a strain of bird flu not previously kno
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-22013097)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65456000/jpg/_65456937_m0501038-avian_flu_virus-spl.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Legislators approved the bill, opening the way for the authorities to create one
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/08/01/world/americas/uruguay-lawmakers-to-vote-on-legalizing-marijuana.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

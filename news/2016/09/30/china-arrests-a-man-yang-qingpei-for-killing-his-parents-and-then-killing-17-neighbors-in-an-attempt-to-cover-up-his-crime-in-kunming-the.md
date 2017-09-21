@@ -8,6 +8,7 @@ A Chinese man has confessed to killing his parents and then killing 17 neighbour
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37521650)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/180D4/production/_91461589_mediaitem91461584.jpg)
 
 ### Related:
 

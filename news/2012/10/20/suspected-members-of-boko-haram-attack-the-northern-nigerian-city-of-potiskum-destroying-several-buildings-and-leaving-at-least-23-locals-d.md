@@ -8,6 +8,7 @@ At least 23 people killed and several buildings destroyed after suspected Boko H
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/10/20121020114424963207.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/30/2012430175526352734_20.jpg)
 
 ### Related:
 

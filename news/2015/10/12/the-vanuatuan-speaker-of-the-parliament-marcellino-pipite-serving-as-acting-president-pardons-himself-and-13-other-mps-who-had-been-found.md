@@ -8,6 +8,7 @@ Vanuatu&#039;s acting president has used his executive powers to pardon himself 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2015-10-11/convicted-vanuatu-acting-president-pardons-himself-13-others/6844372)
+1. [Cover Image](http://www.abc.net.au/news/image/6844808-1x1-700x700.jpg)
 
 ### Related:
 

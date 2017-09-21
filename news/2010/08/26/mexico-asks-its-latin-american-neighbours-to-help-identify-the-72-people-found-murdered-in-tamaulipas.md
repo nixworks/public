@@ -8,6 +8,7 @@ Mexico sought help Thursday from Latin American nations to identify 72 presumed 
 ### Source:
 
 1. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/neighbors-help-mexico-identify-massacre-victims-20100827-13uf3.html)
+1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

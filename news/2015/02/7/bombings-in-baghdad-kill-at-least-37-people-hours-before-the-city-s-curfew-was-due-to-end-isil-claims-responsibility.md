@@ -9,6 +9,7 @@ Bombings in the Iraqi capital Saturday killed more than three dozen people hours
 
 1. [AP via ''Los Angeles Times](http://www.latimes.com/world/middleeast/la-fg-baghdad-bombings-20150207-story.html)
 2. [AP via KSL](http://www.ksl.com/?nid=235&sid=33390264&title=bombings-kill-at-least-40-in-baghdad-on-last-day-of-nightly-curfew)
+2. [Cover Image](http://www.trbimg.com/img-54d5fead/turbine/la-fg-baghdad-bombings-20150207)
 
 ### Related:
 

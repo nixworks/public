@@ -8,6 +8,7 @@ American International Group Inc, the insurer rescued by the U.S. government in 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/08/us-aig-lawsuit-government-idUSBRE9070GR20130108)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130108&t=2&i=692236024&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE907134B00)
 
 ### Related:
 

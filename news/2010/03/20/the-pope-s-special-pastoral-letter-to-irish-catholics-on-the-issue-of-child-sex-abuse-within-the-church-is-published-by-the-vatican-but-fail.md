@@ -12,3 +12,4 @@ Pope Benedict XVI has described the abuse of children by Irish clergy and religi
 3. [CNN](http://www.cnn.com/2010/WORLD/europe/03/20/pope.letter.abuse.ireland/?hpt=T2)
 4. [RTÉ](http://www.rte.ie/news/2010/0320/abuse.html)
 5. [Reuters](http://www.reuters.com/article/idUSTRE62J1OY20100320)
+5. [Cover Image](https://img.rasset.ie/0002ee10-1600.jpg)

@@ -8,6 +8,7 @@ Rebels in the Syrian city of Aleppo set off a massive suicide lorry bomb to seiz
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25479725)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71899000/jpg/_71899389_71899388.jpg)
 
 ### Related:
 

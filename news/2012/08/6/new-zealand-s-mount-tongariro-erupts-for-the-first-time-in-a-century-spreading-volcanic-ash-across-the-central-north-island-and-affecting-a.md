@@ -9,6 +9,7 @@ QUICK READ: - New Zealand Herald
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10825125)
 2. [Stuff.co.nz](http://www.stuff.co.nz/national/7426862/First-Tongariro-eruption-in-over-100-years)
+2. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201232/eruption3_620x413_460x230.jpg)
 
 ### Related:
 

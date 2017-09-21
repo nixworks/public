@@ -8,6 +8,7 @@
 ### Source:
 
 1. [EHF](http://www.ehfcl.com/2008-09/article/12080/Tragic+incident+of+Veszpr%C3%A9m+handballers)
+1. [Cover Image](http://cms.eurohandball.com/PortalData/1/Resources/2_cl/01_previe_120px_08/Cozma200.jpg)
 
 ### Related:
 

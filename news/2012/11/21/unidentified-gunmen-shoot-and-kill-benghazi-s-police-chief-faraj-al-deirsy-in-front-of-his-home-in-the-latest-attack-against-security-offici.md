@@ -8,6 +8,7 @@ Faraj al-Deirsy, head of Benghazi police, shot dead in the latest attack on Liby
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/11/2012112173121714516.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/11/21//2012112174642502580_20.jpg)
 
 ### Related:
 

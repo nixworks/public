@@ -8,6 +8,7 @@ The local government is expecting more residents to be displaced as the military
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/153901-displaced-butig-lanao-del-sur-maute-terror-group)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/6B30220293A549A58FE5BC0875E4C32B/20161128-displaced-families-butig.jpg)
 
 ### Related:
 

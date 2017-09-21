@@ -8,6 +8,7 @@ World record-holding off-spinner Muttiah Muralidaran retired with 800 Test wicke
 ### Source:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/07/22/2961598.htm?site=sport&section=cricket)
+1. [Cover Image](http://www.abc.net.au/news/image/912592-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57340888/strong-quake-shakes-mexico-city-3-dead/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/10/28/22db732e-a645-11e2-a3f0-029118418759/111028-earthquake-generic.jpg)
 
 ### Related:
 

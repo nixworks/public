@@ -8,6 +8,7 @@ South Korea and the United States sign a plan providing for a joint response in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21921077)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66585000/jpg/_66585158_66585157.jpg)
 
 ### Related:
 

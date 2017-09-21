@@ -8,6 +8,7 @@ The Midwest was slammed with 29 reported tornadoes Monday, according to the Nati
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/tornadoes-slam-midwest-leaving-trail-destroyed-homes-displaced/story?id=45957111)
+1. [Cover Image](http://a.abcnews.com/images/US/HT-tornado-damage-01-as-170307_16x9_992.jpg)
 
 ### Related:
 

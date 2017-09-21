@@ -9,6 +9,7 @@
 
 1. [International Herald Tribune](http://www.iht.com/articles/2005/09/29/business/net.php)
 2. [openDemocracy](http://www.opendemocracy.net/globalization-accountability/cyberspace_2832.jsp)
+2. [Cover Image](https://www.opendemocracy.net/sites/all/themes/od960/logo-200.png)
 
 ### Related:
 

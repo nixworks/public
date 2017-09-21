@@ -8,6 +8,7 @@ Ex-motorsports boss Max Mosley loses his European Court of Human Rights attempt 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13341058)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52638000/jpg/_52638820_011939364-1.jpg)
 
 ### Related:
 

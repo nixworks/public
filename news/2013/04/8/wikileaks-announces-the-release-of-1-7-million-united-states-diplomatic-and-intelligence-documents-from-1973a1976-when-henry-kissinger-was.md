@@ -9,6 +9,7 @@ The website Wikileaks publishes more than 1.7 million US diplomatic and intellig
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-22062317)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-2305437/Julian-Assange-WikiLeaks-release-1-7m-US-diplomatic-intelligence-reports.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66798000/jpg/_66798573_66798572.jpg)
 
 ### Related:
 

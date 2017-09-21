@@ -8,6 +8,7 @@ Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 m
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/22/1984762.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

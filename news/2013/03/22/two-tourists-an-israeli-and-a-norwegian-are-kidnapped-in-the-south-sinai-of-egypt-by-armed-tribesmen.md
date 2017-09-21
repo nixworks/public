@@ -10,6 +10,7 @@ Two tourists, an Israeli man and a Norwegian woman, have been kidnapped by armed
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21897822)
 2. [Kuwait News Agency](http://www.kuna.net.kw/ArticleDetails.aspx?id=2300030&language=en)
 3. [Xinhua](http://news.xinhuanet.com/english/world/2013-03/22/c_132255507.htm)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66558000/gif/_66558561_egypt_sinai_0313.gif)
 
 ### Related:
 

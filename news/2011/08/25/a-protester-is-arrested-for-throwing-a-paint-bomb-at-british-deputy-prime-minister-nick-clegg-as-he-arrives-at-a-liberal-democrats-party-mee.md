@@ -8,6 +8,7 @@ A man is arrested after Deputy Prime Minister Nick Clegg was splattered with blu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-14672120)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54830000/jpg/_54830958_wall.jpg)
 
 ### Related:
 

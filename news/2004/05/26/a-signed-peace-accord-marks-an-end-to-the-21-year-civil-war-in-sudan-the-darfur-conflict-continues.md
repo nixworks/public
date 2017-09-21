@@ -8,6 +8,7 @@ Things to do in Miami
 ### Source:
 
 1. [AP](http://www.miami.com/mld/miamiherald/news/world/8773195.htm?1c)
+1. [Cover Image](http://www.miami.com/wp-content/themes/miami/images/sg/img-16x9.png)
 
 ### Related:
 

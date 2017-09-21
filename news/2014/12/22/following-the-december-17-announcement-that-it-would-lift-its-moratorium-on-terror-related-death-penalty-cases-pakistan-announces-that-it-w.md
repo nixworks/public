@@ -8,6 +8,7 @@ Pakistan plans to execute around 500 militants in coming weeks, officials said M
 ### Source:
 
 1. [AFP](http://news.yahoo.com/pakistan-plans-execute-500-terror-convicts-officials-093327925.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/25TTDRgDfQRRkrr94.MS0w--/aD0xNTYyO3c9MjU2MjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/afp.com/bffbfffac9cc024dd828a2d220763a22afe14286.jpg)
 
 ### Related:
 

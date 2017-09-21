@@ -8,3 +8,4 @@ A law in Belize criminalizing same-sex intimacy was ruled unconstitutional on We
 ### Source:
 
 1. [NBC News}](http://www.nbcnews.com/feature/nbc-out/belize-supreme-court-overturns-anti-gay-law-n627511)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_32/1661636/180808_caleb_orozco_07abc2050c68315c0b35adf046c58924.nbcnews-fp-1200-800.jpg)

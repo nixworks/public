@@ -8,6 +8,7 @@ Two prominent members of the Al Wefaq party held after one of them criticised th
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201152205239385476.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/26/201142692423148371_20.jpg)
 
 ### Related:
 

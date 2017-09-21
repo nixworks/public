@@ -9,6 +9,7 @@ Valais cantonal police say three German ski tourers have been killed by an avala
 
 1. [IOL](http://www.iol.co.za/news/world/10-swept-away-by-avalanche-1.1050813)
 2. [Swissinfo](http://www.swissinfo.ch/eng/swiss_news/Three_Germans_killed_in_avalanche.html?cid=29903248)
+2. [Cover Image](/static/Themes/basic/img/logos/swi_logo_1200x630.jpg)
 
 ### Related:
 

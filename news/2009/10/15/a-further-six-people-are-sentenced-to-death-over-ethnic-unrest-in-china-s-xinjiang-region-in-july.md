@@ -10,6 +10,7 @@ Latest convictions bring to 12 the number of executions ordered over riots in Ur
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/2009101545858797808.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8308169.stm)
 3. [China Daily](http://www.chinadaily.com.cn/china/2009-10/15/content_8798587.htm)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

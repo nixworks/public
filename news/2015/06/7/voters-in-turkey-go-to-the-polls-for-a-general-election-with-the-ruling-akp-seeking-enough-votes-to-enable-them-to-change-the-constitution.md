@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.com/news/world-europe-33042284)
 2. [New York Times](http://www.nytimes.com/2015/06/08/world/europe/turkey-election-recep-tayyip-erdogan-kurds-hdp.html)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83472000/jpg/_83472599_83472598.jpg)
 
 ### Related:
 

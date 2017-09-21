@@ -8,6 +8,7 @@ Greek militant group Revolutionary Struggle have threatened to attack the &#39;g
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0910/greece.html)
+1. [Cover Image](https://img.rasset.ie/0002951c-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least six foreigners have been killed and the death toll has gone up to 101 i
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/Terrorists_strike_Mumbai_16_dead_many_hurt/articleshow/3761410.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/3763779.cms)
 
 ### Related:
 

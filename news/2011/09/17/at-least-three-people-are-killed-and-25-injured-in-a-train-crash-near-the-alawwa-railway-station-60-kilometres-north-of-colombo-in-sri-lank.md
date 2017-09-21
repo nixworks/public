@@ -8,6 +8,7 @@ AT LEAST three people are dead and 25 injured in Sri Lanka after a passenger tra
 ### Source:
 
 1. [AFP via News Limited](http://www.news.com.au/world/dead-after-trains-collide/story-fn6sb9br-1226140051491)
+1. [Cover Image](http://cdn.newsapi.com.au/image/v1/3110ee4a60a0f8d0b7f73f1081634af5)
 
 ### Related:
 

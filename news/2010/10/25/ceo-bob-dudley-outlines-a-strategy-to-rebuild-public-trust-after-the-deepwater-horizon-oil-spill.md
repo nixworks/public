@@ -9,6 +9,7 @@
 
 1. [BBC News](http://www.bbc.co.uk/news/business-11618528)
 2. [BBC News](http://www.bbc.co.uk/news/business-11620902)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

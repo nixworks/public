@@ -10,6 +10,7 @@ Rick Santorum&rsquo;s supporters eyed the TV screen, watched the returns roll in
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16388354)
 2. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-santorum-supporters-watch-iowa-caucus-returns-in-disbelief-20120103,0,4892267.story)
 3. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970203550304577138703463083604.html)
+3. [Cover Image](http://www.latimes.com/media/photo/2012-01/215146160-03203600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/02/24/us-egypt-politics-idUSBREA1N0KO20140224)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140224&t=2&i=846639304&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1N0TDY00)
 
 ### Related:
 

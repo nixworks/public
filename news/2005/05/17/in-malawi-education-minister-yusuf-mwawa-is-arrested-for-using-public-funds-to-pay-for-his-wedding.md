@@ -9,6 +9,7 @@ Reuters.com for the weird, oddly enough stories.
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4555793.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=oddlyEnoughNews&storyID=8519133)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

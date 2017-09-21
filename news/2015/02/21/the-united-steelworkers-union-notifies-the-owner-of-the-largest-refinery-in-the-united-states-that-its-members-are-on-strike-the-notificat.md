@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/21/us-refineries-labor-strike-idUSKBN0LP06420150221)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150221&t=2&i=1026738157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1K029)
 
 ### Related:
 

@@ -9,6 +9,7 @@ At least one person was injured in a shooting at a local train station in Munich
 
 1. [NBC News](http://www.nbcnews.com/news/world/shooting-munich-germany-train-station-after-cop-s-gun-grabbed-n771381)
 2. [Reuters](http://www.reuters.com/article/us-germany-security-munich-idUSKBN1940UH)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

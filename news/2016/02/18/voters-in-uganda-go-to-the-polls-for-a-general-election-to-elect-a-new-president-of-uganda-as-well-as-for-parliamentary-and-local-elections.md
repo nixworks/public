@@ -13,6 +13,7 @@ Social media is blocked in Uganda on the day of presidential elections to stop p
 4. [Quartz](http://qz.com/619188/ugandan-citizens-say-twitter-and-facebook-have-been-blocked-as-the-election-gets-underway/)
 5. [The Globe and Mail](http://www.theglobeandmail.com/news/world/ugandan-president-bans-social-media-arrests-rival-during-election/article28806058/)
 6. [The New York Times](http://www.nytimes.com/2016/02/19/world/africa/top-opposition-candidate-in-uganda-is-arrested-on-election-day.html?_r=0)
+6. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2B54/production/_88329011_queuelq976.jpg)
 
 ### Related:
 

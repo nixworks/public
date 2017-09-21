@@ -8,6 +8,7 @@ Representative Edward J. Markey of Massachusetts won a promotion to the Senate o
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/06/26/us/massachusetts-special-senate-election.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2013/06/26/us/subMASEN/subMASEN-videoLarge.jpg)
 
 ### Related:
 

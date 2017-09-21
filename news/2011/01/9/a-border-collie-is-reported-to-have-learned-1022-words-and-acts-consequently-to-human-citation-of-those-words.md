@@ -9,3 +9,4 @@ Researchers at Wofford College discovered that a Border Collie comprehends the n
 
 1. [Discovery.com](http://news.discovery.com/animals/border-collie-breaks-vocabulary-record.html)
 2. [Physorg.com](http://www.physorg.com/news/2011-01-border-collie-comprehends.html)
+2. [Cover Image](https://cf3e497594.site.internapcdn.net/tmpl/v5/img/phys_308px.png)

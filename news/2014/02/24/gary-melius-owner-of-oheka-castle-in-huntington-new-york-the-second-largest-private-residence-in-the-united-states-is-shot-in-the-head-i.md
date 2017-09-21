@@ -8,6 +8,7 @@ A prominent New York real estate developer and socialite told investigators he h
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/nationnow/la-na-nn-gary-melius-oheka-castle-shooting-new-york-20140225,0,1542412.story#axzz2uULC1FzI)
+1. [Cover Image](http://www.trbimg.com/img-530d0b56/turbine/la-na-nn-gary-melius-oheka-castle-shooting-new-york-20140225)
 
 ### Related:
 

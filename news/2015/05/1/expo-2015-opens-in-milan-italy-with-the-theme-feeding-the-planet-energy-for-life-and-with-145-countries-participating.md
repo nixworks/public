@@ -8,6 +8,7 @@ A major global commercial fair - Milan Expo 2015 - opens in northern Italy, but 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32546961)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82707000/jpg/_82707880_027003325-1.jpg)
 
 ### Related:
 

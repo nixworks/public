@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News18](http://www.news18.com/news/world/nehru-accepted-1890-treaty-india-using-bhutan-to-cover-up-entry-china-1450635.html)
+1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2017/02/CHINA-FLAG-875.gif)
 
 ### Related:
 

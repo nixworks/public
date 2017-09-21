@@ -15,6 +15,7 @@ One of the biggest earthquakes in recorded history rocked Chile on Saturday, kil
 6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7332468/Chile-earthquake-tsunami-hits-New-Zealand.html)
 7. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7333424/Chile-earthquake-Hawaii-braced-for-tsunami.html)
 8. [The Los Angeles Times](http://www.latimes.com/news/nation-and-world/la-fg-chile-earthquake28-2010feb28,0,2152464.story)
+8. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

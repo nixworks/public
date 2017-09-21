@@ -8,6 +8,7 @@ Police in India say they have arrested Yasin Bhatkal, the alleged leader of the 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23876045)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69546000/jpg/_69546653_019101065.jpg)
 
 ### Related:
 

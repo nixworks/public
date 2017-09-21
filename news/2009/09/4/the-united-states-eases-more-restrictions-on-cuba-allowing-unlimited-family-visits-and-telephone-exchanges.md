@@ -10,6 +10,7 @@ United States citizens with relatives in Cuba can send them unlimited cash and v
 1. [CNN](http://edition.cnn.com/2009/POLITICS/09/04/cuba.sanctions/index.html?iref=mpstoryview)
 2. [MercoPress](http://en.mercopress.com/2009/09/04/us-lifts-restrictions-and-allows-unlimited-visits-to-relatives-in-cuba)
 3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/03/AR2009090303810.html?hpid=sec-world)
+3. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21803/200x200/cbf3b9df611785601584a730f82950a2.jpg)
 
 ### Related:
 

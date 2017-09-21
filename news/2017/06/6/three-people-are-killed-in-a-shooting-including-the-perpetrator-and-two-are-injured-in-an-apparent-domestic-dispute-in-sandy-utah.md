@@ -8,3 +8,4 @@ Boy who died went to elementary school blocks from where violence unfolded, poli
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/sandy-utah-shooting-leaves-two-adults-kindergartner-dead-live-updates/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/06/07/32484107-ebed-4b34-89ff-9296f24febec/1aaa.jpg)

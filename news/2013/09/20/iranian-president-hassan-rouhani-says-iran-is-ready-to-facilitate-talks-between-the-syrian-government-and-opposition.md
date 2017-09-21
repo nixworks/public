@@ -8,6 +8,7 @@ Outline of nuclear deal begins to emerge before UN debut as president says peopl
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2013/sep/19/hassan-rouhani-vision-iran-free)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/9/19/1379616604730/President-Hassan-Rouhani--008.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7700c47afe70e759deb0aa603a4baf50)
 
 ### Related:
 

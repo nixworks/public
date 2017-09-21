@@ -8,6 +8,7 @@ Disgraced Chinese politician Bo Xilai&#039;s wife goes on trial for murder in a 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-08-09/bo-xilai-wife-trial-starts-today/4186826)
+1. [Cover Image](http://www.abc.net.au/news/image/4158064-1x1-700x700.jpg)
 
 ### Related:
 

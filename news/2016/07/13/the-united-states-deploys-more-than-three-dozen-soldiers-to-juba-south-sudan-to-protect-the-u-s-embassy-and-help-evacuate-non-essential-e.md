@@ -8,6 +8,7 @@ South Sudan: U.S. troops were rushed to evacuate Americans and embassy personnel
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/07/13/US-troops-to-evacuate-embassy-amid-heavy-fighting-in-South-Sudan/3741468410802/?spt=hts&or=1)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/3741468410802/2016/2/14684240865273/v2.1/US-troops-to-evacuate-embassy-amid-heavy-fighting-in-South-Sudan.jpg)
 
 ### Related:
 

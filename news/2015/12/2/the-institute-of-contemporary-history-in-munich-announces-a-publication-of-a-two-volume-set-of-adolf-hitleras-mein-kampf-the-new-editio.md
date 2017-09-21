@@ -9,6 +9,7 @@
 
 1. [The New York Times](http://www.nytimes.com/2015/12/02/world/europe/scholars-unveil-new-edition-of-hitlers-mein-kampf.html)
 2. [The Week](http://theweek.com/speedreads/591745/after-70-years-mein-kampf-published-again-germany)
+2. [Cover Image](http://api.theweek.com/sites/default/files/styles/tw_image_6_4/public/GettyImages-53010754.jpg?itok=FvSuHDOh)
 
 ### Related:
 

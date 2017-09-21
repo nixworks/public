@@ -9,6 +9,7 @@ A gang of cyber-criminals operating in 26 countries stole $45 million by hacking
 
 1. [AP via FOX News](http://www.foxnews.com/tech/2013/05/09/atm-hackers-stole-45m-in-21st-century-bank-heist-feds-say/)
 2. [The New York Times](http://www.nytimes.com/2013/05/11/nyregion/atm-robbery-suspects-may-have-caused-own-undoing.html)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2013/05/09/atm-hackers-stole-45m-in-21st-century-bank-heist-feds-say/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422550067115.jpg?ve=1)
 
 ### Related:
 

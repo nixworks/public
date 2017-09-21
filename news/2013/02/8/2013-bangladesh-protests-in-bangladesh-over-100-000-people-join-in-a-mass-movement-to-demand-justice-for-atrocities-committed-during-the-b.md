@@ -8,6 +8,7 @@ Hundreds of thousands rally in Bangladesh to demand the death penalty for a poli
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21383632)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65786000/jpg/_65786608_08-02-13-projonmochottor_sahabagh-2.jpg)
 
 ### Related:
 

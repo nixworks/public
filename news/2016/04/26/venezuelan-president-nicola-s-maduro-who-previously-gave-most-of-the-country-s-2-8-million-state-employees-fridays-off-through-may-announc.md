@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-venezuela-workers-idUSKCN0XN2YZ)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160427&t=2&i=1134642374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3Q01R)
 
 ### Related:
 

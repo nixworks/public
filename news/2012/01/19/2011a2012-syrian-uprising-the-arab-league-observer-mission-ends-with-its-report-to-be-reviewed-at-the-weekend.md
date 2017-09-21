@@ -8,6 +8,7 @@ Syrian government troops pulled back armoured vehicles from the town of Zabandi 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2012/01/19/syria-monitors-thursday.html)
+1. [Cover Image](https://i.cbc.ca/1.1597064.1380870431!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-syrian-monitors-852-getty-136620032.jpg)
 
 ### Related:
 

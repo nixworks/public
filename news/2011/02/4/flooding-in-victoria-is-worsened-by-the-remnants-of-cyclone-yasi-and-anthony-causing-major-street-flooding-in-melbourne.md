@@ -10,6 +10,7 @@ TORRENTIAL rain boosted by the remnants of tropical cyclones Yasi and Anthony le
 1. [Bayside Leader](http://bayside-leader.whereilive.com.au/news/story/flash-flooding-hits-melbourne/)
 2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2011/02/06/2003495235)
 3. [The Sydney Morning Herald](http://www.smh.com.au/environment/victorian-towns-put-on-flood-watch-20110205-1ah3w.html)
+3. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

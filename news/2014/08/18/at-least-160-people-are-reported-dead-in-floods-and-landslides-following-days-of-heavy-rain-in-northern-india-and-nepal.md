@@ -8,6 +8,7 @@ At least 160 people are reported to have been killed in floods and landslides fo
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-28832474#)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/77002000/jpg/_77002751_77002750.jpg)
 
 ### Related:
 

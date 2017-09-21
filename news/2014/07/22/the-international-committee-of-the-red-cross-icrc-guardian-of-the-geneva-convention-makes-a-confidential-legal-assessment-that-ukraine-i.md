@@ -8,6 +8,7 @@ The Red Cross has made a confidential legal assessment that Ukraine is officiall
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/22/us-ukraine-crisis-warcrimes-idUSKBN0FR0V920140722)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

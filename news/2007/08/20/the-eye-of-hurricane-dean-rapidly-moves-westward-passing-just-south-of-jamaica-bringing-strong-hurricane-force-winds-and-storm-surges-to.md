@@ -11,6 +11,7 @@
 2. [AP via the Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/5070529.html)
 3. [CNN](http://edition.cnn.com/2007/US/08/19/storms/index.html)
 4. [Reuters](http://www.reuters.com/article/topNews/idUSLAU66395620070821?feedType=RSS&feedName=topNews)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070821&t=2&i=1331654&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-21T170946Z_01_LAU663956_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

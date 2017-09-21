@@ -10,7 +10,7 @@ _Context: Giro d'Italia, Marco Pantani, Rimini, Tour de France, cyclist_
 _Context: George W. Bush, U.S. state, constitutional, constitutional amendment to ban, same-sex marriage, same-sex marriage_
 
 ### [ U.S. President hopeful John Kerry scores two more Democratic primary victories in the State of Nevada and the federally controlled District of Columbia.](/news/2004/02/14/u-s-president-hopeful-john-kerry-scores-two-more-democratic-primary-victories-in-the-state-of-nevada-and-the-federally-controlled-district.md)
-_Context: Democratic Party, District of Columbia, John Kerry, Nevada_
+_Context: Democratic, District of Columbia, John Kerry, Nevada_
 
 ### [ In Moscow, a roof collapses killing about 25 and injuring at least 110.](/news/2004/02/14/in-moscow-a-roof-collapses-killing-about-25-and-injuring-at-least-110.md)
 ### [ Approximately 550 qualified candidates suddenly drop out of Iran's parliamentary election.](/news/2004/02/14/approximately-550-qualified-candidates-suddenly-drop-out-of-iran-s-parliamentary-election.md)

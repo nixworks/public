@@ -8,6 +8,7 @@ India orders reprisals against the US, including the removal of security barrier
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-25411876)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71796000/jpg/_71796138_71796137.jpg)
 
 ### Related:
 

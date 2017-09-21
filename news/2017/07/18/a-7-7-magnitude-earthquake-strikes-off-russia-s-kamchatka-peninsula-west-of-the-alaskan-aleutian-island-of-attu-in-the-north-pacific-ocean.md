@@ -10,6 +10,7 @@
 1. [AP](https://apnews.com/7c512f9760e740b3918567f5ee8e3326/Tsunami-advisory-canceled-after-Russia-7.8-earthquake)
 2. [Reuters](http://www.reuters.com/article/us-quake-alaska-idUSKBN1A22FB)
 3. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us20009x42#region-info)
+3. [Cover Image](https://apnews.com/dist/assets/images/Twitterlogo.png)
 
 ### Related:
 

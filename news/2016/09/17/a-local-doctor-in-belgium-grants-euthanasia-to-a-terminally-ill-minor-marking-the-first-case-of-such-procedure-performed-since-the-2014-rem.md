@@ -8,6 +8,7 @@ A terminally ill teenager has been helped to die in Belgium, the first case sinc
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37395286)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6D5D/production/_91279972_gettyimages-52644871.jpg)
 
 ### Related:
 

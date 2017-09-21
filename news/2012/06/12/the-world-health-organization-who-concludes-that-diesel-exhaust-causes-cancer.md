@@ -8,6 +8,7 @@ Exhaust fumes from diesel engines do cause cancer, a panel of experts working fo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-18415532)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60853000/jpg/_60853956_e8100401-car_exhaust_fumes.jpg)
 
 ### Related:
 

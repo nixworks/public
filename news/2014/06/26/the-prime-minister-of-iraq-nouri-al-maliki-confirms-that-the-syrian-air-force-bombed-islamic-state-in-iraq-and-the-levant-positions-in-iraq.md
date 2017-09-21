@@ -10,6 +10,7 @@ Iraqi forces launched an airborne assault on rebel-held Tikrit on Thursday with 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28033684#)
 2. [Reuters via ''The Nation](http://www.nation.com.pk/international/27-Jun-2014/chopper-crashes-as-iraqi-forces-launch-operation)
 3. [Reuters](http://www.reuters.com/article/2014/06/26/us-iraq-security-idUSKBN0F10TF20140626?feedType=RSS&feedName=topNews)
+3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140626&t=2&i=911898237&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5P10Z)
 
 ### Related:
 

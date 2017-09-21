@@ -8,6 +8,7 @@ White House says National Security Agency gathering of data on millions of Ameri
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/06/201366113050371205.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/31/2012731113541280734_20.jpg)
 
 ### Related:
 

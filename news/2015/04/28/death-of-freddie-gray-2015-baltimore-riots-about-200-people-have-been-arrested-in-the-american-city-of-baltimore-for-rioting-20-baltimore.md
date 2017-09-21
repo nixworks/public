@@ -8,6 +8,7 @@ After a 10 p.m. curfew took effect in Baltimore on Tuesday, many protesters went
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/nationnow/la-na-nn-baltimore-freddie-gray-20150427-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-553edc0c/turbine/la-na-nn-baltimore-freddie-gray-20150427)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A man is dead after his car was swept into floodwaters northwest of Caboolture o
 ### Source:
 
 1. [Brisbane Times](http://www.brisbanetimes.com.au/environment/weather/heavy-rain-claims-mans-life-20130224-2eza5.html)
+1. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/2/f/1/2/0/image.related.articleLeadwide.620x349.2eza5.png/1361778407677.jpg)
 
 ### Related:
 

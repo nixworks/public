@@ -12,3 +12,4 @@ Hockey India is investigating claims of sexual harassment of junior female playe
 3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/hockey/7902249/Hockey-India-investigate-sexual-harassment-claims.html)
 4. [The Hindu](http://www.thehindu.com/sport/article526812.ece)
 5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-sport/sex-scandal-rocks-indian-womens-team-20100722-10lgv.html)
+5. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)

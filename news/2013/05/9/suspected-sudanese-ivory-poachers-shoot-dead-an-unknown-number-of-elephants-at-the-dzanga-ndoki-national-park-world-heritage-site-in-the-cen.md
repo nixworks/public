@@ -8,6 +8,7 @@ WWF says that elephants have been killed by poachers at the Dzanga-Ndoki nationa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22463388)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67500000/jpg/_67500544_c0113438-african_forest_elephant_and_calves-spl.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Dow Jones/Cellular News](http://www.cellular-news.com/story/14618.php)
 2. [Reuters](http://today.reuters.com/business/newsArticle.aspx?type=telecomm&storyID=nL31367047)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

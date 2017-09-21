@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4230562.stm)
 2. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-09/11/content_476816.htm)
 3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/10/AR2005091001208.html)
+3. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

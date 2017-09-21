@@ -8,6 +8,7 @@ The United Nations says North Korea has requested immediate food aid after flood
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19107049)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61918000/jpg/_61918979_015474895-1.jpg)
 
 ### Related:
 

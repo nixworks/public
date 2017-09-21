@@ -11,6 +11,7 @@ Leading Philippine presidential candidate Rodrigo Duterte is angrily condemned a
 2. [BBC News](http://www.bbc.com/news/world-asia-36067011#)
 3. [Rappler](http://www.rappler.com/nation/politics/elections/2016/129784-viral-video-duterte-joke-australian-woman-rape)
 4. [Sydney Morning Herald](http://www.smh.com.au/world/philippines-rodrigo-duterte-condemned-for-comments-on-rape-of-australian-missionary-20160417-go8j7b.html)
+4. [Cover Image](http://www.abc.net.au/news/image/7333320-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The Nigerian army says it has recaptured the north-eastern Nigerian town of Chib
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_NIGERIA_VIOLENCE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-africa-30073702)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79002000/jpg/_79002709_79002708.jpg)
 
 ### Related:
 

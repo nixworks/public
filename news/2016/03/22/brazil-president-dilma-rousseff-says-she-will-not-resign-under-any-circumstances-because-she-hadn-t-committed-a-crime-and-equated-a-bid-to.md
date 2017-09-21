@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0WO2LU)
 2. [Yahoo7](https://au.news.yahoo.com/world/a/31149721/brazils-lula-victim-of-intimidation-campaign-foundation/)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160322&t=2&i=1126941957&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2L1EA)
 
 ### Related:
 

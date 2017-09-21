@@ -11,6 +11,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 2. [People's Daily](http://english.people.com.cn/200508/08/eng20050808_200880.html)
 3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-07T155953Z_01_N07278764_RTRIDST_0_INTERNATIONAL-CHINA-MINE-DC.XML)
 4. [Xinhua](http://news.xinhuanet.com/english/2005-08/08/content_3322834.htm)
+4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

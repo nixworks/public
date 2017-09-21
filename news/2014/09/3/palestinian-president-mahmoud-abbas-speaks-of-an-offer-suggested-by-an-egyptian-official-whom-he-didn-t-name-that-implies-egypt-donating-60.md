@@ -8,6 +8,7 @@ PA leader tells Fatah gathering it is &#8216;illogical&#8217; for Palestinian re
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/abbas-rejects-egyptian-offer-to-settle-refugees-in-sinai/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/11/F121103ARK03.jpg)
 
 ### Related:
 

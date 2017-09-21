@@ -8,6 +8,7 @@ A fire at a drug rehabilitation centre in the Peruvian capital Lima kills at lea
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16775181)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58158000/jpg/_58158545_013851922-1.jpg)
 
 ### Related:
 

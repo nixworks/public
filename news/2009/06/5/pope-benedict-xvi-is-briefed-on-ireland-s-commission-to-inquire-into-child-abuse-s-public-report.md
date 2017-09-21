@@ -9,6 +9,7 @@ The country&#39;s two most senior Catholic clergymen have met meeting Pope Bened
 
 1. [RTÉ](http://www.rte.ie/news/2009/0605/abuse.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0605/breaking50.htm)
+2. [Cover Image](https://img.rasset.ie/0002467f-1600.jpg)
 
 ### Related:
 

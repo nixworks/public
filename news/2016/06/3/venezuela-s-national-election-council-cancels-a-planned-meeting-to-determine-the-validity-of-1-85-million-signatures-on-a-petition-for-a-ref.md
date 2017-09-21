@@ -8,6 +8,7 @@ Elections officials in Venezuela canceled a planned meeting to determine if a re
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/06/03/Decision-delayed-on-referendum-to-recall-Venezuelas-Maduro/7481464968294/?spt=rln&or=5)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/7481464968294/2016/1/e7bdb2dec51c31e5f8b8e75006c85cda/v1.5/Decision-delayed-on-referendum-to-recall-Venezuelas-Maduro.jpg)
 
 ### Related:
 

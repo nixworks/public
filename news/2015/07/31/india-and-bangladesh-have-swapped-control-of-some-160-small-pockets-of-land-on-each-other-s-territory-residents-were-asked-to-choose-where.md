@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-33733911)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/18151/production/_84614689_bangladesh_img_2997.jpg)
 
 ### Related:
 

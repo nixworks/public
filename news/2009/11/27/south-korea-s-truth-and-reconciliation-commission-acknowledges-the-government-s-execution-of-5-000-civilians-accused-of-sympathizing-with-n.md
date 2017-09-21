@@ -8,6 +8,7 @@ Shedding new light on a long-suppressed chapter of the Korean War, a government 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nation-and-world/la-fg-korea-commission27-2009nov27,0,3889808.story)
+1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

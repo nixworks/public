@@ -8,6 +8,7 @@ First Game 7 of Finals in Five Years Ends with Los Angeles Win
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2010/06/17/sportsline/main6593576.shtml)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2010/06/18/77d1b857-a642-11e2-a3f0-029118418759/image6593554x.jpg)
 
 ### Related:
 

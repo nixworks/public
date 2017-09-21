@@ -9,6 +9,7 @@ Smells fishy: Former Corruption Eradication Commission chief Antasari Azhar, acc
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/02/12/indonesia.corruption.antasari.trial/)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2010/02/12/antasari-behind-bars-18-years.html)
+2. [Cover Image](http://thejakartapost.com/files/images/antasari-azhar.jpg)
 
 ### Related:
 

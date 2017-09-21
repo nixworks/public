@@ -9,6 +9,7 @@ The European Commission launched legal action on Saturday against what it sees a
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/eu-executive-branch-files-complaint-poland-48924145)
 2. [Reuters](https://in.reuters.com/article/poland-politics-eu-idINKBN1AE0EF)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170729&t=2&i=1194974600&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6S08V)
 
 ### Related:
 

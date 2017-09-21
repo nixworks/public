@@ -8,3 +8,4 @@ A Canadian man who was believed to have been in a vegetative state for more than
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/health-20268044)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64034000/jpg/_64034331_scott_routley_bbc624x351.jpg)

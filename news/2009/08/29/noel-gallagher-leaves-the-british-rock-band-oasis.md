@@ -11,6 +11,7 @@ The lead guitarist of the British rock band Oasis, says he’s leaving the band 
 2. [Reuters India](http://in.reuters.com/article/entertainmentNews/idINIndia-42068620090829)
 3. [The New York Times](http://www.nytimes.com/2009/08/29/arts/music/29arts-NOELGALLAGHE_BRF.html)
 4. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/article6814563.ece)
+4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

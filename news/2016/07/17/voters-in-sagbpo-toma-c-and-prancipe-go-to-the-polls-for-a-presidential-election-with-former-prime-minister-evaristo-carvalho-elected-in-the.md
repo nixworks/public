@@ -8,6 +8,7 @@ The ruling party candidate and former prime minister Evaristo Carvalho has won t
 ### Source:
 
 1. [Africa News](http://www.africanews.com/2016/07/18/sao-tome-and-principe-president-loses-election-to-former-pm/)
+1. [Cover Image](http://static.euronews.com/articles/338892/1024x538_338892.jpg?1468824298)
 
 ### Related:
 

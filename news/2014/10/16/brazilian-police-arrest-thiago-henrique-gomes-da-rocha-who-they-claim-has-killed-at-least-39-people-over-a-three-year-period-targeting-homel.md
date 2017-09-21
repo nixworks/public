@@ -8,6 +8,7 @@ Brazilian police in the state of Goiania arrest a man who they say has confessed
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-29654569)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78296000/jpg/_78296663_78296660.jpg)
 
 ### Related:
 

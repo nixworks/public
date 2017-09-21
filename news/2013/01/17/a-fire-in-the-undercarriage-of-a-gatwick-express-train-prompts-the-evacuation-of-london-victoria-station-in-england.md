@@ -9,6 +9,7 @@ A fire on a Gatwick Express train prompts the evacuation of London Victoria stat
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-21056044)
 2. [The Guardian](http://www.guardian.co.uk/uk/2013/jan/17/london-victoria-evacuated-train-fire)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65343000/jpg/_65343118_img_2944.jpg)
 
 ### Related:
 

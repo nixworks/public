@@ -8,6 +8,7 @@ Two suicide bombers tried to ram vehicles laden with explosives through two Yeme
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKCN0ZY0BI)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160718&t=2&i=1145950964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6H0S7)
 
 ### Related:
 

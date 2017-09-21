@@ -8,6 +8,7 @@ More than 2,000 Syrian refugees who had fled into Turkey crossed back, security 
 ### Source:
 
 1. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Jun-22/303248-hundreds-of-refugees-cross-back-into-syria-from-turkey-witnesses.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/06/22/428695_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

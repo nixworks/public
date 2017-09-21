@@ -9,6 +9,7 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8272774.stm)
 2. [Newstime Africa](http://www.newstimeafrica.com/archives/2399)
+2. [Cover Image](http://www.newstimeafrica.com/wp-content/uploads/2009/09/Ditctator-Jammeh-150x150.jpg)
 
 ### Related:
 

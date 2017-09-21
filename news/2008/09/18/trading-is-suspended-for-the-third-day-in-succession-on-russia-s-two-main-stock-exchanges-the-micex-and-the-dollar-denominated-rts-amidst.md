@@ -10,6 +10,7 @@ The suspension of trading in Russian markets had incited fears that the credit c
 1. [Hurriyet](http://www.hurriyet.com.tr/english/finance/9930871.asp?scr=1)
 2. [MarketWatch](http://www.marketwatch.com/news/story/russian-stock-markets-remain-hold/story.aspx?guid=%7B8901F86A-FF6D-4658-BC1C-4D926CA478BF%7D&dist=msr_5)
 3. [The Times](http://business.timesonline.co.uk/tol/business/economics/article4780314.ece)
+3. [Cover Image](http://i.hurimg.com/i/hurriyet/75/0x0/55eb0a05f018fbb8f8a70c63.jpg)
 
 ### Related:
 

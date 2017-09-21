@@ -8,6 +8,7 @@ Japanese police say 15,000 people may have died in one prefecture alone, as effo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12798579)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51746000/jpg/_51746661_011562702-1.jpg)
 
 ### Related:
 

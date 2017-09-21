@@ -9,6 +9,7 @@
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE6A72E420101108?pageNumber=1)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=194475)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=152743)
 
 ### Related:
 

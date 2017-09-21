@@ -8,6 +8,7 @@ Three letters - GST - are standing between Kevin Rudd and the most dramatic over
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/premiers-lock-horns-with-pm-in-showdown-on-health-20100419-snme.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/s/n/m/m/image.related.articleLeadwide.620x349.snme.png/1271642351343.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gunmen ambushed a bus carrying dozens of people in western Ethiopia near the Sud
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/04/16/us-ethiopia-attacks-idUSBREA3F0FX20140416)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

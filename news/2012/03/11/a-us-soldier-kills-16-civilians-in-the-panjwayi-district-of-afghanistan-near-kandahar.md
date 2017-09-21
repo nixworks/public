@@ -8,6 +8,7 @@ A US soldier in Afghanistan shoots dead 16 civilians and wounds others after ent
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17332398)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59002000/jpg/_59002896_014230496-2.jpg)
 
 ### Related:
 

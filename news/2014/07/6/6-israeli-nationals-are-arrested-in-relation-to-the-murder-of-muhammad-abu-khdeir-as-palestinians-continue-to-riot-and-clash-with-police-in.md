@@ -9,6 +9,7 @@ Hundreds of Palestinians try to block traffic, cause closing of Route 70 and cla
 
 1. [Jerusalem Post](http://www.jpost.com/Defense/IAF-strikes-Gaza-in-response-to-continuous-rocket-fire-361586)
 2. [Jerusalem Post](http://www.jpost.com/National-News/Riots-rage-after-Jewish-suspects-arrested-in-investigation-of-murdered-Palestinian-boy-361680)
+2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=248127)
 
 ### Related:
 

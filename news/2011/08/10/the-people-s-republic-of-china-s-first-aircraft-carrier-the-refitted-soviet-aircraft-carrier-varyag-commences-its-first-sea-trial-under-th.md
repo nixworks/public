@@ -9,6 +9,7 @@
 
 1. [Bloomberg](http://www.bloomberg.com/news/2011-08-10/china-s-first-aircraft-carrier-starts-sea-trial-xinhua-says.html)
 2. [Reuters](http://in.reuters.com/article/2011/08/09/idINIndia-58706620110809)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

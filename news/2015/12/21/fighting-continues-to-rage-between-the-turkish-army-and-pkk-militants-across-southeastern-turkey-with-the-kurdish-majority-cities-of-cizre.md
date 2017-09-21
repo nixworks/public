@@ -9,6 +9,7 @@ Fighting in Turkey&#39;s south rages as government forces try to put down uprisi
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/12/turkish-forces-pkk-engage-intense-clashes-151221183939375.html)
 2. [The Guardian](http://www.theguardian.com/world/2015/dec/21/erdogan-vows-kurdish-rebels-will-be-buried)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/12/21/ded6d91af55d4056be2d0faecd0c0874_18.jpg)
 
 ### Related:
 

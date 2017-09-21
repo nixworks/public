@@ -8,6 +8,7 @@ Prime Minister Saad Hariri on Tuesday wrapped up a two-day official visit to Rus
 ### Source:
 
 1. [Pravda](http://english.pravda.ru/news/world/17-11-2010/115821-military-0/)
+1. [Cover Image](http://pravda-team.ru/eng/image/article/3/8/3/42383.jpeg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A bomb explodes during a political meeting near the Nigerian capital, Abuja, lea
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011331611343895.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12639290)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

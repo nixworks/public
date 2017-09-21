@@ -14,6 +14,7 @@ Russian President Vladimir Putin has requested the use of Russian military force
 5. [CNN](http://edition.cnn.com/2014/02/28/politics/obama-remarks-on-ukraine/index.html)
 6. [CNN](http://edition.cnn.com/video/data/2.0/video/world/2014/03/01/newday-pleitgen-russia-okays-troops-ukraine.cnn.html)
 7. [Russia Today](http://rt.com/news/russia-troops-ukraine-possible-359/)
+7. [Cover Image](https://img.rt.com/files/news/22/ff/f0/00/russia-troops-ukraine-possible.si.jpg)
 
 ### Related:
 

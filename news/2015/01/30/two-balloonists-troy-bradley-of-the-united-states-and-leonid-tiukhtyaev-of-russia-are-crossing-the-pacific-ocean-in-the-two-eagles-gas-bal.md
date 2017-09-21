@@ -8,6 +8,7 @@ Two pilots have surpassed the world distance and durations records for a flight 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-31052066?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/80664000/jpg/_80664798_025617978.jpg)
 
 ### Related:
 

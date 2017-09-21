@@ -8,6 +8,7 @@ Centrist Emmanuel Macron and Marine Le Pen, of the far-right Front National, go 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/live/2017/may/03/emmanuel-macron-marine-le-pen-final-french-presidential-election-2017-debate-live-coverage)
+1. [Cover Image](https://i.guim.co.uk/img/media/f37e8b466bfdf1ae1e17f07d206c4627c3caca96/1576_616_1844_1106/master/1844.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5b48678020a601ae39212348eef8184e)
 
 ### Related:
 

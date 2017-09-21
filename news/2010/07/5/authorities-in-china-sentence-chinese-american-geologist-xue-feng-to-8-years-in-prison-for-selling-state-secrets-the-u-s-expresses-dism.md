@@ -9,6 +9,7 @@ A Chinese-born US geologist is sentenced to eight years in jail in China for ste
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/asia_pacific/10505350.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/05/china.us.citizen.sentenced/index.html?hpt=T1&fbid=4I1tbJn2BPy)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

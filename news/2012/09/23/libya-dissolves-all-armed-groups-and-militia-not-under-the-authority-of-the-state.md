@@ -8,6 +8,7 @@ Two groups in eastern city of Derna announce they will lay down arms, as Tripoli
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/09/2012922231155740677.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/23//2012923182239526734_20.jpg)
 
 ### Related:
 

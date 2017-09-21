@@ -9,6 +9,7 @@ Rupert Murdoch warned John Major to change his policy on Europe or his papers wo
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18405629)
 2. [The Guardian](http://www.guardian.co.uk/media/2012/jun/12/john-major-leveson-inquiry-rupert-murdoch)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60844000/jpg/_60844919_jex_1432654_ico33-1.jpg)
 
 ### Related:
 

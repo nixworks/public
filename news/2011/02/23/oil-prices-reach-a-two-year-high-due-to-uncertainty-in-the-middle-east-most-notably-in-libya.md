@@ -8,6 +8,7 @@ OIL PRICES have risen to fresh two-year highs near $US96 a barrel in Asia amid t
 ### Source:
 
 1. [AP via News Limited](http://www.news.com.au/business/breaking-news/oil-hits-two-year-high-as-libya-teeters-on-edge/story-e6frfkur-1226010834420)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

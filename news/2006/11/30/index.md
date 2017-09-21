@@ -28,7 +28,7 @@ _Context: 2007 presidential election, Nicolas Sarkozy, President of France, mini
 _Context: Hezbollah, Lebanon_
 
 ### [ A meeting between the President of the United States George W. Bush and the Prime Minister of Iraq Nouri al-Maliki in Jordan is cancelled. A classified Bush administration memo critical of the ability of al-Maliki to bring sectarian conflict under control had previously been published in "The New York Times". In a later meeting, they decided that Iraq should not be divided into semi-autonomous zones. ](/news/2006/11/30/a-meeting-between-the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-in-jordan-is-cancelled.md)
-_Context: George W. Bush, George W. Bush administration, Iraq Prime Minister, Jordan, Nouri al-Maliki, President, The New York Times, sectarian conflict_
+_Context: George W. Bush, George W. Bush administration, Iraq Prime Minister, Jordan, Nouri al-Maliki, The New York Times, U.S. President, sectarian conflict_
 
 ### [ The Prime Minister of Fiji Laisenia Qarase partially agrees to demands by the head of the Fijian military Commodore Frank Bainimarama in order to avert a coup. Bainimarama rejects the compromise and issues a deadline of noon on Friday. ](/news/2006/11/30/the-prime-minister-of-fiji-laisenia-qarase-partially-agrees-to-demands-by-the-head-of-the-fijian-military-commodore-frank-bainimarama-in-or.md)
 _Context: Fiji, Laisenia Qarase, Prime Minister, Voreqe Bainimarama_

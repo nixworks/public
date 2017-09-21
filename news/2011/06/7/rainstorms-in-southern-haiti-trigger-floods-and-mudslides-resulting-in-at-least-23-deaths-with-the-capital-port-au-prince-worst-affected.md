@@ -9,6 +9,7 @@ Days of heavy rain caused houses and shanties in the capital to collapse.
 
 1. [BBC News](http://www.bbc.co.uk/news/world-latin-america-13689711)
 2. [USA Today](http://www.usatoday.com/news/world/2011-06-07-Haiti-mudslides-storms-flood_n.htm)
+2. [Cover Image](http://i.usatoday.net/news/_photos/2011/06/07/Haiti-mudslides-storms-flood-VR5GJNV-x.jpg)
 
 ### Related:
 

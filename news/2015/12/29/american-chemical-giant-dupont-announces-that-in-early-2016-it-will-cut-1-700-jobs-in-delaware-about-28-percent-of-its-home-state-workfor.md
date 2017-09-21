@@ -10,6 +10,7 @@ DuPont will cut 1,700 jobs in its home state of Delaware and thousands more glob
 1. [AP via NBC news](http://www.nbcnews.com/business/business-news/dupont-announces-1-700-layoffs-it-prepares-dow-merger-n487436)
 2. [Delaware Online](http://www.delawareonline.com/story/news/local/2015/12/29/dupont-layoffs-were-expected-comes-heels-change/78025916/)
 3. [The Washington Post](https://www.washingtonpost.com/business/economy/dupont-will-cut-28-percent-of-its-workforce-in-delaware/2015/12/29/f64bcfda-ae37-11e5-b711-1998289ffcea_story.html)
+3. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2015_53/1357146/151220-dupont-hq-mn-1350_e9142f76389d9481a4b9d59202f2dc81.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

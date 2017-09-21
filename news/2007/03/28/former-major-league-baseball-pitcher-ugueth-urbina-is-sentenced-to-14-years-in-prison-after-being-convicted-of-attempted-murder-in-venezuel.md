@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN](http://sports.espn.go.com/mlb/news/story?id=2815590)
+1. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Fphi.png)
 
 ### Related:
 

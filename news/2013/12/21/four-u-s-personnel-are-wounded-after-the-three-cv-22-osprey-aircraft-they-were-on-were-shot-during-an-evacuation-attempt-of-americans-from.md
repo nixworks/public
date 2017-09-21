@@ -9,6 +9,7 @@ Four US service personnel are wounded as aircraft involved in evacuating US citi
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25476920)
 2. [CNN](http://www.cnn.com/2013/12/21/world/africa/south-sudan-violence/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71898000/jpg/_71898848_71898847.jpg)
 
 ### Related:
 

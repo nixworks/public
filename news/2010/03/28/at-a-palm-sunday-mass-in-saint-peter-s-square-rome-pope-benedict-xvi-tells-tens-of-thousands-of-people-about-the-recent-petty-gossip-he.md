@@ -14,6 +14,7 @@ Cardinal Seán Brady has said a parish priest in his diocese has agreed to take 
 5. [Reuters](http://www.reuters.com/article/idUSTRE62R1QW20100328)
 6. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0329/1224267276645.html)
 7. [The Observer](http://www.guardian.co.uk/world/2010/mar/28/pope-condemns-critics-catholic-sexual-abuse)
+7. [Cover Image](https://img.rasset.ie/000323d1-1600.jpg)
 
 ### Related:
 

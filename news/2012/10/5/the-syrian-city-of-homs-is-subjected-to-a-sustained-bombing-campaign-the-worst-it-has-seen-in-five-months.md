@@ -8,6 +8,7 @@ The Syrian city of Homs is subjected to the most severe bombardment in five mont
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19845165)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63318000/jpg/_63318447_pd7ipklj.jpg)
 
 ### Related:
 

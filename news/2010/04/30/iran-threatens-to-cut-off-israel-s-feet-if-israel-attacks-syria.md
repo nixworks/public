@@ -8,6 +8,7 @@ Ahmadinejad set to speak at UN nuke conference on May 3.
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=174400)
+1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=141645)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The owners of a Brazilian mine that suffered a dam burst, setting off a deadly m
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-35713165)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/12876/production/_88549857_gettyimages-496023822.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8499660.stm)
 2. [National Geographic](http://news.nationalgeographic.com/news/2010/02/100204-pluto-hubble-best-pictures/)
 3. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-02/05/c_13164516.htm)
+3. [Cover Image](http://news.nationalgeographic.com/content/dam/news/photos/000/126/12678.ngsversion.1421960609111.adapt.1900.1.jpg)
 
 ### Related:
 

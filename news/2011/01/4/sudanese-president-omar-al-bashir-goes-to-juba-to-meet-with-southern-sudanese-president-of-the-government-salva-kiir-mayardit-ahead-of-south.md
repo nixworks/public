@@ -8,6 +8,7 @@ Visiting Sudanese President Omar al-Bashir reassures Southern Sudan he will help
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12109582)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

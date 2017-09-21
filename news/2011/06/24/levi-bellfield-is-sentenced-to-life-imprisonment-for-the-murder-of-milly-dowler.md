@@ -8,6 +8,7 @@ The family of murdered teenager Milly Dowler say they paid &quot;too high a pric
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-13908358)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53681000/jpg/_53681094_dowlers.jpg)
 
 ### Related:
 

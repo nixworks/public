@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://in.reuters.com/article/kenya-election-death-idINKBN1AG1BF)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170731&t=2&i=1195186583&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6U17T)
 
 ### Related:
 

@@ -10,3 +10,4 @@ Flood waters on Tuesday ripped through a retirement community in northwestern Ar
 1. [Hereald Sun](http://www.heraldsun.com.au/news/breaking-news/womans-body-pulled-from-california-flood-waters-as-rain-subsides/story-e6frf7jx-1225975748528)
 2. [MSNBC](http://www.msnbc.msn.com/id/40770785/ns/weather/)
 3. [New York Daily News](http://www.nydailynews.com/news/galleries/california_rain_storms_state_of_emergency/california_rain_storms_state_of_emergency.html)
+3. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Video/101222/tdy_almaguer_wx2_101222.standard.jpg)

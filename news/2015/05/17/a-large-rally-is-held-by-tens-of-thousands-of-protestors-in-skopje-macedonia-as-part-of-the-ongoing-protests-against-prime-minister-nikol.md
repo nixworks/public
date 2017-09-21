@@ -8,6 +8,7 @@ Tens of thousands of protesters in the Macedonian capital Skopje demand the resi
 ### Source:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-32771233)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83051000/jpg/_83051474_027253175.jpg)
 
 ### Related:
 

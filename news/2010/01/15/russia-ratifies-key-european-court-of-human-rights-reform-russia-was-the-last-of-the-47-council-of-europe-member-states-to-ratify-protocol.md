@@ -14,6 +14,7 @@ Lower house of parliament ratifies key element of European convention on human r
 5. [NY Times](http://www.nytimes.com/2010/01/16/world/europe/16russia.html)
 6. [RFERL](http://www.rferl.org/content/Whats_Behind_Moscows_Decision_To_Finally_Back_Strasbourg_Reform/1930858.html)
 7. [RT](http://rt.com/Politics/2010-01-15/russia-ratifies-protocol-14.html)
+7. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

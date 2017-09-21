@@ -10,6 +10,7 @@ Keep your mind and body sharp with the latest health and fitness news and inform
 1. [BBC](http://news.bbc.co.uk/2/hi/health/4375179.stm)
 2. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5474027&startrow=1&date=2005-03-24&do_alert=0)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=healthNews&storyID=7989846)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

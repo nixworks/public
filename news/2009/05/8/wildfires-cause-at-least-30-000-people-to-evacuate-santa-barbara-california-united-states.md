@@ -8,6 +8,7 @@ A Californian bushfire that consumed 75 homes has raged for a fourth day, forcin
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2009/05/09/2565320.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1677460-1x1-700x700.jpg)
 
 ### Related:
 

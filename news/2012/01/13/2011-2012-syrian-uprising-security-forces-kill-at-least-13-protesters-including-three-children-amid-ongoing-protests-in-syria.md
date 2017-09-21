@@ -8,6 +8,7 @@ Demonstrations held in support of Free Syrian Army, as Arab League chief warns o
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/2012113112929524562.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/13/201211317398218734_20.jpg)
 
 ### Related:
 

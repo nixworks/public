@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/2009101143150954460.html)
 2. [The News International](http://www.thenews.com.pk/updates.asp?id=88809)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

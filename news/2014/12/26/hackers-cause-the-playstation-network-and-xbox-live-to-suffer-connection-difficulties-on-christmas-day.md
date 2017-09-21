@@ -8,6 +8,7 @@ Online game networks Xbox Live and PlayStation Network have been offline much of
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/tech/gaming/2014/12/25/xbox-live-playstation-network-hack/20895113/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

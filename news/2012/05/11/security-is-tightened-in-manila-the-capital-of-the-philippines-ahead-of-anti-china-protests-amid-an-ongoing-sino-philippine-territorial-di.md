@@ -8,6 +8,7 @@ Security was tightened in the Philippines capital on Friday ahead of anti-Chines
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/05/11/us-philippines-china-idUSBRE84A05S20120511)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120511&t=2&i=605655509&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84A0AAK00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Member states of the European Space Agency formally agree to the extension of op
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-12772805)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

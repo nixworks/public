@@ -8,6 +8,7 @@ Nigel Farage says UKIP can win seats at the general election after it made gains
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-27531094)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75069000/jpg/_75069579_75069578.jpg)
 
 ### Related:
 

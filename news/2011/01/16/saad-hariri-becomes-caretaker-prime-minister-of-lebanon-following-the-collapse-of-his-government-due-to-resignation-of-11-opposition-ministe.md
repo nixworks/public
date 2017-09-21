@@ -8,6 +8,7 @@ Lebanon was plunged deeper into political turmoil Wednesday with the collapse of
 ### Source:
 
 1. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_ID=1&article_ID=123602&categ_id=2)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2011/01/13/2011113118330.1-HARIRI.jpg_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

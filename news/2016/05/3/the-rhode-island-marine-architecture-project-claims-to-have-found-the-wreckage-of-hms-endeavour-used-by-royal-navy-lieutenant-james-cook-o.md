@@ -8,6 +8,7 @@ Researchers say they believe they have located the wreckage of the Endeavour, th
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-05-03/captain-cook's-ship-hms-endeavour-believed-found-in-us/7378086)
+1. [Cover Image](http://www.abc.net.au/news/image/5738728-1x1-700x700.jpg)
 
 ### Related:
 

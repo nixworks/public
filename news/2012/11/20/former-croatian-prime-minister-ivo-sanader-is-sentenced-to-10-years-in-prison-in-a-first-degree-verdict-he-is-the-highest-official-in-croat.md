@@ -8,6 +8,7 @@ A court in Croatia sentences former Prime Minister Ivo Sanader to 10 years in pr
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20407006)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64251000/jpg/_64251002_64251001.jpg)
 
 ### Related:
 

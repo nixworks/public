@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Balkan Insight](http://www.balkaninsight.com/en/article/bosnia-elections-up-to-the-hour-updates-1)
+1. [Cover Image](http://www.balkaninsight.com/en/file/show/Images/Banners/BI-FB.png)
 
 ### Related:
 

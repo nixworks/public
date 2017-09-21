@@ -14,6 +14,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 5. [NOAA](http://ngs.woc.noaa.gov/katrina/)
 6. [Reuters](http://today.reuters.com/news/newsArticleSearch.aspx?storyID=122870+04-Sep-2005+RTRS&srch=Iran)
 7. [The Times-Picayune](http://www.nola.com/newslogs/breakingtp/index.ssf?/mtlogs/nola_Times-Picayune/archives/2005_09.html#076849)
+7. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

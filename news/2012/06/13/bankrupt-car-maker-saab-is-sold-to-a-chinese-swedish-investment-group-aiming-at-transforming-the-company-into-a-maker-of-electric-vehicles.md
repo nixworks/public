@@ -8,6 +8,7 @@ Bankrupt Swedish carmaker Saab has been sold to an investment group which aims t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18423709)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56196000/jpg/_56196004_013196672-1.jpg)
 
 ### Related:
 

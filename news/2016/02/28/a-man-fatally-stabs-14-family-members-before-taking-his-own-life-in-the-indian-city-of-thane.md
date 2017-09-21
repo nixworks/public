@@ -8,6 +8,7 @@
 ### Source:
 
 1. [India Today](http://indiatoday.intoday.in/story/thane-man-kills-14-family-members-then-commits-suicide/1/607226.html)
+1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/thane-murder_story_647_022816082839.jpg)
 
 ### Related:
 

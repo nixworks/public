@@ -8,6 +8,7 @@ Three women are &quot;rescued&quot; from a house in south London as police inves
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-25040741)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71268000/jpg/_71268100_44797439.jpg)
 
 ### Related:
 

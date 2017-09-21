@@ -8,6 +8,7 @@ Singapore&#039;s parliament is dissolved for a general election as prime ministe
 ### Source:
 
 1. [AFP/Reuters via ABC Australia](http://www.abc.net.au/news/2015-08-25/singapore-to-hold-general-election-amid-living-cost-concerns/6724296)
+1. [Cover Image](http://www.abc.net.au/news/image/6724338-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A court in Egypt dissolves the Freedom and Justice Party (FJP), the political wi
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28722935)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/76839000/jpg/_76839346_177456552.jpg)
 
 ### Related:
 

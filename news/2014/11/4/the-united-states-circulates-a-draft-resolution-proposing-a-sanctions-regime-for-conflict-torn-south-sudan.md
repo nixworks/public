@@ -8,6 +8,7 @@ The U.S. delegation to the United Nations informed members of the Security Counc
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/11/04/us-southsudan-un-usa-idUSKBN0IO2B720141104)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141104&t=2&i=988887851&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEAA30Y7)
 
 ### Related:
 

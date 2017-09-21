@@ -8,6 +8,7 @@ Israel on Wednesday revealed plans to build new homes on West Bank land it has a
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6B065J20101201)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20061101-121413-6254r)
+1. [Cover Image](//www.upi.com/img/upi-fb.png)
 
 ### Related:
 

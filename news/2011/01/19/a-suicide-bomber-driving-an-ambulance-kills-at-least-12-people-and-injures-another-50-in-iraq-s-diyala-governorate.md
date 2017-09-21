@@ -8,6 +8,7 @@ A suicide bomber driving anambulance killed 12 people and wounded more than 50 i
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSLDE70I0DM20110119)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

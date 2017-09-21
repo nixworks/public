@@ -8,3 +8,4 @@ A 323-year-old ship&#39;s pass signed by King James II and Samuel Pepys has been
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0805/shipspass.html)
+1. [Cover Image](https://img.rasset.ie/0003938d-1600.jpg)

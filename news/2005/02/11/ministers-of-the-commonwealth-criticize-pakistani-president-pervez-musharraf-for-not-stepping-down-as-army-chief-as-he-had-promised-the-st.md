@@ -11,6 +11,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 2. [Daily Times, Pakistan](http://www.dailytimes.com.pk/default.asp?page=story_13-2-2005_pg1_3)
 3. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=US+criticizes+Musharraf's+'dual+role'&id=68370)
 4. [Sify](http://headlines.sify.com/news/fullstory.php?id=13669340)
+4. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

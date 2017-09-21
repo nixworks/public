@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70909U20110110)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110110&t=2&i=301759768&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-10T205420Z_01_BTRE709032T00_RTROPTP_0_SWITZERLAND)
 
 ### Related:
 

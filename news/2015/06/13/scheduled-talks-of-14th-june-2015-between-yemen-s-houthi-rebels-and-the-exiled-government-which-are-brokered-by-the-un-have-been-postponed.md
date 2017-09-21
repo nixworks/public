@@ -8,6 +8,7 @@ Peace talks between Yemen&#39;s warring parties have been postponed to Monday fr
 ### Source:
 
 1. [The Daily Star (Lebanon](http://www.dailystar.com.lb/News/Middle-East/2015/Jun-12/301859-yemen-peace-talks-in-geneva-postponed-to-monday-un-statement.ashx)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/06/12/425870_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

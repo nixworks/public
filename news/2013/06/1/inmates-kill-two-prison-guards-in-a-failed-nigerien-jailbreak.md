@@ -8,6 +8,7 @@ The escape attempt by prisoners said to be associated with &#8220;terrorist grou
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2013/06/02/world/africa/gunmen-attack-niger-prison.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

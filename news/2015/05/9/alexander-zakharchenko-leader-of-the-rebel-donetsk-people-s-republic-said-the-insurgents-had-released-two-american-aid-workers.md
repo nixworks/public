@@ -8,6 +8,7 @@ Ukraine&#x27;s pro-Russian rebel leader Alexander Zakharchenko said Saturday tha
 ### Source:
 
 1. [AP via Yahoo! News](https://uk.news.yahoo.com/ukraine-rebel-leader-says-released-two-us-aid-100357508.html#hZaMpv6)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/Gogd6psuBeP0Tt0saXvgug--/aD01MTE7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/9c7e8ca8fdca2de251e299f130a23c262695a8d6.jpg)
 
 ### Related:
 

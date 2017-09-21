@@ -8,6 +8,7 @@ Two U.S. soldiers were killed and a third injured when an Iraqi soldier opened f
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE70E0TS20110115)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

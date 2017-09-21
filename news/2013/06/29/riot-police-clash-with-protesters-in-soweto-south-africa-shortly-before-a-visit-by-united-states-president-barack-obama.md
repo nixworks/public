@@ -8,6 +8,7 @@ Riot police have clashed with protesters in Soweto shortly before a visit by US 
 ### Source:
 
 1. [Reuters](http://www.news24.com/news24/SouthAfrica/News/Police-clash-with-Obama-protesters-20130629)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/220/858ed0c9b46d41309aef2df44c2e9a3d.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A ban on Samurai swords comes into effect from today with those breaking the law
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0901/samurai.html)
+1. [Cover Image](https://img.rasset.ie/00028ecb-1600.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ An international operation against a major drug trafficking gang has led to the 
 3. [RTÉ](http://www.rte.ie/news/2010/0525/drugs.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0526/1224271144329.html)
 5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/drug-godfather-caught-in-european-swoop-20100526-wbct.html)
+5. [Cover Image](https://img.rasset.ie/0000e846-1600.jpg)
 
 ### Related:
 

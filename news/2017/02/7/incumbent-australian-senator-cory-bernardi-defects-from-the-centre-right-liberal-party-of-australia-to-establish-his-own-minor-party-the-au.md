@@ -8,6 +8,7 @@ South Australian senator Cory Bernardi officially quits the Liberal Party to est
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2017-02-07/cory-bernardi-formally-quits-liberal-party/8247402)
+1. [Cover Image](http://www.abc.net.au/news/image/8247838-1x1-700x700.jpg)
 
 ### Related:
 

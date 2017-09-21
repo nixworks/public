@@ -8,6 +8,7 @@ QANTAS CEO Alan Joyce says the Federal Government was warned the airline was in 
 ### Source:
 
 1. [News Limited](http://www.news.com.au/breaking-news/national/qantas-customers-only-winners-joyce/story-e6frfku9-1226181107185)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

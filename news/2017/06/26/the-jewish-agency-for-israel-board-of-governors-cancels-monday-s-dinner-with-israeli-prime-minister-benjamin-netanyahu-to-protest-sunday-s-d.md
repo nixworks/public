@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AP via ABC News](http://abcnews.go.com/Lifestyle/wireStory/jewish-group-cancels-meeting-netanyahu-protest-48276666)
+1. [Cover Image](http://a.abcnews.com/images/International/WireAP_5cbfdc5a746b457ca609ccd9664ea71a_16x9_992.jpg)
 
 ### Related:
 

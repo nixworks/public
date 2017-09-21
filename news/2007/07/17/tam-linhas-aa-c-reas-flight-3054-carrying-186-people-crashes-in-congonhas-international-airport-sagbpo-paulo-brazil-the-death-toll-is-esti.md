@@ -14,6 +14,7 @@ The pilot of an airliner that burst into flames after trying to land on a short,
 5. [Globo News Online](http://video.globo.com/Videos/Player/Noticias/0,,GIM61910-7823-GLOBO+NEWS+AO+VIVO,00.html)
 6. [MSNBC](http://www.msnbc.msn.com/id/19815779/)
 7. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-07-17T230229Z_01_N17263598_RTRIDST_0_NEWS-BRAZIL-CRASH-COL.XML)
+7. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/070718/070717_sao_hmed_4a.standard.jpg)
 
 ### Related:
 

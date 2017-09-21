@@ -8,6 +8,7 @@ UNITED NATIONS (AP) — Secretary-General Ban Ki-moon said Thursday he temporari
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/70d1e76fd785475a944dd1c4af9b11ce/un-chief-took-saudis-blacklist-over-threat-stop-funds)
+1. [Cover Image](http://binaryapi.ap.org/f47492823e3b4962beadaae55b7fde73/460x.jpg)
 
 ### Related:
 

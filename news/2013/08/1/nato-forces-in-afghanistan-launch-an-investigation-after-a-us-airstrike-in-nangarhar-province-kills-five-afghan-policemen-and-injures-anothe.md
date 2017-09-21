@@ -8,6 +8,7 @@ Five Afghan policeman die in a US air strike during a battle with insurgents nea
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-08-02/us-airstrike-kills-five-afghan-policemen/4860204)
+1. [Cover Image](http://www.abc.net.au/news/image/4335706-1x1-700x700.jpg)
 
 ### Related:
 

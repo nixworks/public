@@ -8,6 +8,7 @@ Said al-Shihri, described as the second-in-command of al-Qaeda in the Arabian Pe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19547768)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62800000/gif/_62800869_sahar.gif)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Three-man crew earlier rocketed into space and glided to a smooth docking with t
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-205_162-57576898/soyuz-docks-with-station-after-abbreviated-rendezvous/)
+1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/03/28/17c2e5fa-a738-11e2-a3f0-029118418759/AP298347589707.jpg)
 
 ### Related:
 

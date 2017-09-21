@@ -9,3 +9,4 @@ A train driver was killed and several other people hurt when a train ran into a 
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/one-dead-in-dutch-train-collision/news-story/056a88bad961cb99baba9d7b7fe1bd91?from=public_rss)
 2. [BBC](http://www.bbc.com/news/world-europe-35639164)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/84CF/production/_88399933_031614782-1.jpg)

@@ -10,6 +10,7 @@
 1. [Bloomberg](http://www.bloomberg.com/news/2011-02-27/north-korea-warns-of-military-response-against-south-over-leaflet-drops.html)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/27/AR2011022700351.html)
 3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2011/02/27/55/0401000000AEN20110227003500315F.HTML)
+3. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Marketwatch](http://www.marketwatch.com/story/qantas-virgin-cancel-new-zealand-flights-2011-06-15)
+1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 

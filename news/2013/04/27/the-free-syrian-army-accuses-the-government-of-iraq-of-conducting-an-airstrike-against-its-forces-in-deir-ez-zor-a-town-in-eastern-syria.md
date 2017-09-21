@@ -8,6 +8,7 @@ Activists say an attack in the east may have originated in Iraq.
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/27/world/middleeast/syria.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

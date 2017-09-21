@@ -8,6 +8,7 @@ Six people are hurt as shots are fired at a bus carrying Czech tourists in south
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36455641)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2E5C/production/_89886811_89886810.jpg)
 
 ### Related:
 

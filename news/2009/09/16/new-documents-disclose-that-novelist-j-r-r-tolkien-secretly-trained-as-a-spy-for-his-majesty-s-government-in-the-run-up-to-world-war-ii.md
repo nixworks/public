@@ -8,6 +8,7 @@ The novelist JRR Tolkien secretly trained as a Government spy in the run up to t
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/6197169/JRR-Tolkien-trained-as-British-spy.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01482/Tolkien_1482719a.jpg)
 
 ### Related:
 

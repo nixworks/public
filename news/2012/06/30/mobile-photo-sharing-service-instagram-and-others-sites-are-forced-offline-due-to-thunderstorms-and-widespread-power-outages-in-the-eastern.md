@@ -9,6 +9,7 @@ Netflix, Instagram, Pinterest and other sites hosted on Amazon servers were unav
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/201263073749297836.html)
 2. [Mashable](http://mashable.com/2012/06/30/instagram-down-power-heat-wave/)
+2. [Cover Image](http://www.aljazeera.com/mritems/images/2012/6/30//20126308229301734_20.jpg)
 
 ### Related:
 

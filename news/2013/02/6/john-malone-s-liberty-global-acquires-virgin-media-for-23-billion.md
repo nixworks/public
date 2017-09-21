@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/06/us-virgin-liberty-deal-idUSBRE91501B20130206)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130206&t=2&i=701390065&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE915037M00)
 
 ### Related:
 

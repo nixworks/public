@@ -9,6 +9,7 @@ The deaths of an Israeli laborer and a Palestinian toddler were the latest in a 
 
 1. [The New York Times](http://www.nytimes.com/2013/12/25/world/middleeast/israeli-palestinian-violence.html?_r=0)
 2. [The Times of Israel](http://www.timesofisrael.com/israeli-man-severely-wounded-by-sniper-fire-from-gaza/)
+2. [Cover Image](https://static01.nyt.com/images/2013/12/25/world/middleeast/25GAZA-alt_SPAN/25GAZA-alt_SPAN-videoSixteenByNine1050.jpg)
 
 ### Related:
 

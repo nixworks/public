@@ -8,6 +8,7 @@ France will deploy more than 10,000 soldiers across France in the wake of deadly
 ### Source:
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-01-13/france-mobilises-102c000-troops-at-home-after-paris-shootings/6013442)
+1. [Cover Image](http://www.abc.net.au/news/image/6013464-1x1-700x700.jpg)
 
 ### Related:
 

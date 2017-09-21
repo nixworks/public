@@ -8,6 +8,7 @@ An overturned petrol tanker exploded as hundreds of people were trying to scoop 
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0201/breaking5.htm)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

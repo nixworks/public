@@ -8,6 +8,7 @@ The National Archives announced it will release some six-thousand written and ph
 ### Source:
 
 1. [KBS World Radio](http://world.kbs.co.kr/english/news/news_Po_detail.htm?No=129377)
+1. [Cover Image](http://worldimg.kbs.co.kr/src/images/news/201708/170814021920_e4.jpg)
 
 ### Related:
 

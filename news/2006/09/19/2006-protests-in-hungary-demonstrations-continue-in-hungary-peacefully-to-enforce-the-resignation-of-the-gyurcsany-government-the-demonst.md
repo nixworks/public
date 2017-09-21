@@ -8,6 +8,7 @@
 ### Source:
 
 1. [HírTV](http://hirtv.hu)
+1. [Cover Image](http://hirtv.hu/static/grid2_imgs/hirtvujlogo05.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Muslim worshippers were leaving the mosque around 10:30 p.m. when the men report
 
 1. [BBC News](http://www.bbc.com/news/world-europe-40476825)
 2. [Business Insider](http://www.businessinsider.com/avignon-france-mosque-shooting-2017-7)
+2. [Cover Image](http://static3.businessinsider.com/image/584c477bca7f0c20008b4db0-1190-625/at-least-8-injured-after-gunmen-open-fire-outside-mosque-in-france.jpg)
 
 ### Related:
 

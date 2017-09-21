@@ -15,6 +15,7 @@ Follow live updates from the second night of the DNC with Bill Clinton speaking 
 6. [The Guardian](https://www.theguardian.com/us-news/live/2016/jul/26/democratic-convention-day-two-clinton-nominee-sanders)
 7. [The Sacramento Bee](http://www.sacbee.com/news/politics-government/national-politics/article91664227.html)
 8. [Time](http://time.com/4422472/dnc-hillary-clinton-livestream/)
+8. [Cover Image](https://i.guim.co.uk/img/media/f74bc5b27c33894efdcbb4723a6734d078ca9af6/0_64_1984_1190/1984.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=19ce10a40bf054d71f1607505dd7f113)
 
 ### Related:
 

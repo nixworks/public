@@ -10,6 +10,7 @@ Seoul (AFP) - North Korea fired short-range projectiles into the sea off its eas
 1. [AFP via Yahoo! News](http://news.yahoo.com/north-korea-fires-short-range-missiles-un-sanctions-014829039.html)
 2. [Sky News](http://www.skynews.com.au/news/world/asiapacific/2016/03/04/north-korea-fires-shots-after-un-sanctions.html)
 3. [Yonhap](http://english.yonhapnews.co.kr/news/2016/03/03/0200000000AEN20160303005400315.html?input=www.tweeter.com?47cb6080)
+3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/TLZ32.mtROVBNv3plPV2Yw--/aD02Nzg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-HKG-Hkg10256468-1-1-0.jpg)
 
 ### Related:
 

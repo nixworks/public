@@ -9,6 +9,7 @@ NAIROBI, Kenya (AP) — Suspected al-Shabab gunmen killed at least six people wh
 
 1. [AP](http://www.bigstory.ap.org/article/df8a0c558c314c6790cfcd3a06c15ecb/6-killed-extremist-attack-2-buses-say-kenyan-official)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/07/children-killed-attack-buses-northern-kenya-160701111427927.html)
+2. [Cover Image](http://binaryapi.ap.org/d793bf46238f4c50980ba84f69a60067/460x.jpg)
 
 ### Related:
 

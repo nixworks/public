@@ -8,6 +8,7 @@ Police spokesman George Kinoti says 13 police officers are missing and two other
 ### Source:
 
 1. [Standard Digital](http://www.standardmedia.co.ke/article/2000163548/13-police-officers-missing-after-garissa-al-shabaab-attack)
+1. [Cover Image](http://www.standardmedia.co.ke/images/tuesday/upepagxk2cpep1z5563f886c1cbb.jpg)
 
 ### Related:
 

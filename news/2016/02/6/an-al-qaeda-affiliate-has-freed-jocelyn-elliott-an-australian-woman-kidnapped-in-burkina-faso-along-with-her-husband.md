@@ -8,6 +8,7 @@ An Australian woman has been freed after she and her husband were kidnapped by a
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-02-07/burkina-faso-jocelyn-elliott-freed-by-al-qaeda-affiliate/7146418)
+1. [Cover Image](http://www.abc.net.au/news/image/7146746-1x1-700x700.jpg)
 
 ### Related:
 

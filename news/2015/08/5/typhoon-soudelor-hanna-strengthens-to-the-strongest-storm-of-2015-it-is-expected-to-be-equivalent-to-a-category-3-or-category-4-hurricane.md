@@ -9,6 +9,7 @@ Japan, Taiwan and China are preparing for the world’s most powerful storm of t
 
 1. [Free District](http://www.freedistrict.com/asia/super-typhoon-soudelor-strongest-cyclone-2015-11329.html)
 2. [The Independent](http://www.independent.co.uk/news/world/asia/typhoon-soudelor-terrifying-image-of-the-worlds-strongest-storm-this-year-10437344.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/08/04/12/soudelor-edit.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A new centre opens designed to help some of the thousands of people who have bee
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12365785)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

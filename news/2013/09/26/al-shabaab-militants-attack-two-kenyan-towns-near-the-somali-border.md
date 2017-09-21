@@ -8,6 +8,7 @@ Attacks carried out by group that killed scores of people in Nairobi mall siege.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/world/2013/09/26/shabab-kenya-nairobi-qaeda/2876993/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

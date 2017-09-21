@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Salt Lake Tribune](http://www.sltrib.com/home/5274941-155/pope-francis-to-canonize-2-fatima)
+1. [Cover Image](http://www.sltrib.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=TxLPdz5fKz9P444voxmmHM$daE2N3K4ZzOUsqbU5sYucHxPNtrJsxtxU926dJViyWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg)
 
 ### Related:
 

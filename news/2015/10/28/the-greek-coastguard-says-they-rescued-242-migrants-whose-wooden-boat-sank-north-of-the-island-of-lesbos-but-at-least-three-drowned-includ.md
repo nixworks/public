@@ -9,6 +9,7 @@ The Greek coastguard rescued 242 migrants when their wooden boat sank north of t
 
 1. [AP via CBS News](http://www.cbsnews.com/news/at-least-3-dead-242-rescued-after-migrant-boat-capsizes-off-greece/)
 2. [Reuters](http://www.reuters.com/article/2015/10/28/us-migrants-greece-shipwreck-idUSKCN0SM2MI20151028)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151028&t=2&i=1090490478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9R14C)
 
 ### Related:
 

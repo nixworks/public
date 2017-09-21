@@ -4,3 +4,7 @@
 
 
 
+
+### Related:
+
+1. [ "The X Factor" makes its worldwide debut premiering for the first time in the UK and will later go on to become the biggest show in television history.](/news/2004/09/4/the-x-factor-makes-its-worldwide-debut-premiering-for-the-first-time-in-the-uk-and-will-later-go-on-to-become-the-biggest-show-in-televis.md) _Context: The X Factor_

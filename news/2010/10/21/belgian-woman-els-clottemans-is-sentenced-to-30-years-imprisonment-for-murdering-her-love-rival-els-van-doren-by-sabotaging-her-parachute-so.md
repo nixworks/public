@@ -8,6 +8,7 @@ A jealous schoolteacher who doctored the parachute of a love rival causing her t
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2010/10/21/belgian-woman-altered-parachute-gets-years/?test=latestnews)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

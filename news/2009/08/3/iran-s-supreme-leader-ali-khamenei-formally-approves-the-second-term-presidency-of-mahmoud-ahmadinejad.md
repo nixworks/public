@@ -11,6 +11,7 @@ Supreme Leader Ayatollah Ali Khamenei formally endorsed the second term presiden
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8180811.stm)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=102345&sectionid=351020101)
 4. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5720ST20090803)
+4. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090803&t=2&i=11098613&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-03T130533Z_01_BTRE57210DD00_RTROPTP_0_IRAN-APPROVAL-AHMADINEJAD)
 
 ### Related:
 

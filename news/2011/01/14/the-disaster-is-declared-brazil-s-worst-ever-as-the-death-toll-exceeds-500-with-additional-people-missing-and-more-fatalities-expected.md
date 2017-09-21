@@ -12,6 +12,7 @@ Authorities struggle to cope with the aftermath of floods and landslides that ha
 3. [BBC](http://www.bbc.co.uk/news/world-latin-america-12187985)
 4. [Vancouver Sun](http://www.vancouversun.com/news/Brazil+flood+deaths+rise+rescuers+struggle/4097204/story.html)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/15/c_13691996.htm)
+5. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/15/201111514143986621_20.jpg)
 
 ### Related:
 

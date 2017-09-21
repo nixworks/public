@@ -11,6 +11,7 @@ On Thursday, small businesses around the country—many of them restaurants—ar
 2. [Reuters](http://www.reuters.com/article/us-usta-immigration-protest-idUSKBN15V19M)
 3. [The Atlantic](https://www.theatlantic.com/business/archive/2017/02/day-without-immigrants/516969/)
 4. [The Philadelphia Inquirer](http://www.philly.com/philly/news/pennsylvania/A-Day-Without-Immigrtants-Redux.html)
+4. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2017/02/AP_060501030187/facebook.jpg?1487259056)
 
 ### Related:
 

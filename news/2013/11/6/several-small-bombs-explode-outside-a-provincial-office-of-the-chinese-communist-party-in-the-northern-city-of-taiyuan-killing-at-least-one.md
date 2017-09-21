@@ -9,6 +9,7 @@ A series of small explosions kill at least one person outside a provincial offic
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24830724)
 2. [Reuters](http://www.reuters.com/article/2013/11/06/us-china-explosions-idUSBRE9A502Q20131106)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70935000/jpg/_70935220_70935219.jpg)
 
 ### Related:
 

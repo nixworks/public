@@ -8,6 +8,7 @@ About 2,000 Malawian women Friday staged a protest against attacks on trouser-we
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/malawi/9028207/Malawi-women-protest-over-trouser-stripping.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02115/mal_2115417a.jpg)
 
 ### Related:
 

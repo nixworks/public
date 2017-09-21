@@ -12,6 +12,7 @@ Reports say reclusive leader on trip that could ease inter-Korea tensions.
 3. [Hong Kong Standard](http://www.thestandard.com.hk/news_detail.asp?we_cat=3&art_id=97731&sid=28102326&con_type=1&d_str=20100504&fc=1)
 4. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7114797.ece)
 5. [Yonhap](http://english.yonhapnews.co.kr/national/2010/05/03/66/0301000000AEN20100503008200315F.HTML)
+5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

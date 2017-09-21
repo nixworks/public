@@ -9,6 +9,7 @@ The Workers’ Party of ousted President Dilma Rousseff suffered heavy losses in
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-10-02/brazil-heads-to-the-polls-in-nationwide-municipal-elections)
 2. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN12203Y?il=0)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMwJvaDAxsD0/v0/1200x800.jpg)
 
 ### Related:
 

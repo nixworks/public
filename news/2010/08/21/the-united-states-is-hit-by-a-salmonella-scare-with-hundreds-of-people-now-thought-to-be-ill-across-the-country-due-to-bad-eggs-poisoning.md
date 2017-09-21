@@ -8,6 +8,7 @@ Salmonella-infected eggs traceable to a large producer in Iowa may have caused a
 ### Source:
 
 1. [The Age](http://www.theage.com.au/world/bad-eggs-hit-1200-20100820-138wj.html)
+1. [Cover Image](http://images.theage.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

@@ -11,6 +11,7 @@ A school district which cancelled its prom rather than allow a lesbian student t
 2. [Miami Herald](http://miamiherald.typepad.com/gaysouthflorida/2010/07/aclu-mississippi-school-to-revise-policy-pay-damages-to-lesbian-teen-denied-her-prom.html)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/20/AR2010072002584.html)
 4. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/07/mississippi-district-settles-lesbians-suit-over-canceled-prom/1?csp=34news)
+4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

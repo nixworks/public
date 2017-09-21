@@ -8,3 +8,4 @@
 ### Source:
 
 1. [Atlanta Journal-Constitution](http://www.ajc.com/news/news/woman-killed-in-shootout-with-atlanta-police-ident/nk65N/)
+1. [Cover Image](http://www.ajc.com/rf/image/Pub/p6/AJC/2015/05/01/Images/photos.medleyphoto.7201322.jpg)

@@ -8,6 +8,7 @@ Al Qaeda-linked militants have snatched two sisters who had gone to a dangerous 
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1107235/philippines-al-qaeda-snatches-sisters)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/230613-philippines-al-qaeda-sisters-1_3652841.jpg?20160706063923)
 
 ### Related:
 

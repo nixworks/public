@@ -8,6 +8,7 @@ Israeli soldiers on Tuesday shot and killed a Palestinian during an arrest raid 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/12/16/us-mideast-palestinians-israel-idUSKBN0JU0FR20141216)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

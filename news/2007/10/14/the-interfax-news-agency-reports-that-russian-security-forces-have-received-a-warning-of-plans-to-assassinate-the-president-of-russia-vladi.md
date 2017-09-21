@@ -8,6 +8,7 @@ President Vladimir Putin has been warned by his special services of a possible p
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSL1411390420071014?feedType=RSS&feedName=topNews)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071014&t=2&i=1937130&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-10-14T194311Z_01_L14113904_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -8,6 +8,7 @@ In his drive for eight gold medals, Michael Phelps won the 200-meter freestyle, 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/08/12/sports/olympics/12phelpsweb.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/08/11/sports/olympics/12phelps01_75.jpg)
 
 ### Related:
 

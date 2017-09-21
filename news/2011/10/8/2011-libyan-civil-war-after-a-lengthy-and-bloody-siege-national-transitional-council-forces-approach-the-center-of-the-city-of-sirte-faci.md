@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Channel 4 News](http://www.channel4.com/news/ferocious-fighting-in-sirte-as-ntc-tightens-grip)
+1. [Cover Image](https://fournews-assets.s3.amazonaws.com/media/2011/10/08_sirte_g_w.jpg)
 
 ### Related:
 

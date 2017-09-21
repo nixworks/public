@@ -8,6 +8,7 @@ An investigation is continuing into the circumstances surrounding the death of a
 ### Source:
 
 1. [RTÉ](https://www.rte.ie/news/ireland/2017/0711/889269-kimmage-dublin/)
+1. [Cover Image](https://img.rasset.ie/000e50e1-1600.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ New Zealand television host Paul Henry resigns after provoking public outrage ov
 3. [Resignation Statement](http://tvnz.co.nz/national-news/paul-henry-s-resignation-statement-3829552)
 4. [TVNZ](http://tvnz.co.nz/national-news/paul-henry-resigns-amid-uproar-3829541)
 5. [The New Zealand Herald](http://www.nzherald.co.nz/television/news/article.cfm?c_id=339&objectid=10679537)
+5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

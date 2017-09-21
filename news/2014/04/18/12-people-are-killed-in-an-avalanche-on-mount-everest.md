@@ -8,6 +8,7 @@ Three others injured and seven missing after avalanche caught work party as they
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/apr/18/mount-everest-avalanche-climbers-dead)
+1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/4/18/1397809657625/Everest-base-camp-with-Bu-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=c8e212ab702b00a1c38a64b37dbb2115)
 
 ### Related:
 

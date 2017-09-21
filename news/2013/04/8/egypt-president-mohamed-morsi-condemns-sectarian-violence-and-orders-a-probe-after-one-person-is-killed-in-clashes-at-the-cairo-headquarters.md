@@ -8,6 +8,7 @@ President Morsi orders probe after at least two people killed in clashes at Cair
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/20134716630128282.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/7/201347162050481734_20.jpg)
 
 ### Related:
 

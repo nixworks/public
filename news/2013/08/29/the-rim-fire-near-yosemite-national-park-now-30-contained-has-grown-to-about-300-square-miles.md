@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NBC Bay Area](http://www.nbcbayarea.com/news/local/Rim-Fire-Near-Yosemite-Now-30-Percent-Contained-192500-Acres-Burnedound-on-Rim-Fire-Near-Yosemite-Now-20-Percent-Contained-221627691.html)
+1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/8-26-2013-rim-fire.jpg)
 
 ### Related:
 

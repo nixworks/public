@@ -8,6 +8,7 @@ Government agrees council tax and business rates relief for 5,000 as forecasters
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/weather/12038688/Storm-Desmond-Cumbria-floods-UK-weather-Tuesday-live.html#update-20151208-1548)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03520/floods-cumbria_3520735k.jpg)
 
 ### Related:
 

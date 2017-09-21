@@ -8,6 +8,7 @@ Iran arrested a businessman subject to U.S. and European Union sanctions on Mond
 ### Source:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Dec-30/242716-iran-arrests-tycoon-accused-of-busting-us-and-eu-sanctions-media.ashx#axzz2p2fRMQKU)
+1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/12/30/237586_img650x420_img650x420_crop.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, 
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/music/posts/la-et-ms-rock-hall-of-fame-induction-20150418-htmlstory.html)
+1. [Cover Image](http://www.trbimg.com/img-5533858b/turbine/la-et-ms-rock-hall-of-fame-induction-20150418)
 
 ### Related:
 

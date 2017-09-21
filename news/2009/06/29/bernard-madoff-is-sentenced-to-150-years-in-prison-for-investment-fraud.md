@@ -8,6 +8,7 @@ A federal judge sentenced Bernard L. Madoff to 150 years in prison for running a
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2009/06/30/business/30madoff.html?_r=1&hp)
+1. [Cover Image](https://static01.nyt.com/images/2009/06/30/business/30MADOFF_75.jpg)
 
 ### Related:
 

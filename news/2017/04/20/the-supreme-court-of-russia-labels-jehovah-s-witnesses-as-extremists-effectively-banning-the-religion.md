@@ -8,6 +8,7 @@ Russia has banned Jehovah&#039;s Witnesses after the Supreme Court ruled the Chr
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/world/europe/russia-jehovahs-witnesses-ban-extremists-religion-christian-sect-vladimir-putin-supreme-court-a7693671.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/17/09/witnesses-russia.jpg)
 
 ### Related:
 

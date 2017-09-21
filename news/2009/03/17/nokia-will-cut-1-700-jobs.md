@@ -8,6 +8,7 @@ The handset maker prepares to drop 1,700 employees, but more announcements may b
 ### Source:
 
 1. [Forbes](http://www.forbes.com/2009/03/17/nokia-technology-jobs-markets-equity-mobile.html?partner=alerts)
+1. [Cover Image](https://i.forbesimg.com/media/assets/forbes_1200x1200.jpg)
 
 ### Related:
 

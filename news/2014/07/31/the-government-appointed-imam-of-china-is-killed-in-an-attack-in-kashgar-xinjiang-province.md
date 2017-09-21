@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/07/china-kills-suspects-uighur-imam-murder-2014731143855645225.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/6/21/20146214128902734_20.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ North Korea confirms that it arrested a US citizen last November, and is prepari
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13075699)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52157000/jpg/_52157245_003485448-1.jpg)
 
 ### Related:
 

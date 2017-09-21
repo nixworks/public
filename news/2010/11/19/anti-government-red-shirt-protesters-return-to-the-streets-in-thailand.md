@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6AI14Q20101119)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/131804.html)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20101119&t=2&i=252778657&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-19T120432Z_01_BTRE6AI0MNE00_RTROPTP_0_THAILAND)
 
 ### Related:
 

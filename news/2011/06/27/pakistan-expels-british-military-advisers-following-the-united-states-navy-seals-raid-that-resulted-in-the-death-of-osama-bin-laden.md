@@ -9,6 +9,7 @@ British military advisers sent to Pakistan to help in the fight against the Tali
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/pakistan.uk.military/index.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8600104/British-military-advisers-expelled-from-Pakistan.html)
+2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01930/police_1930945a.jpg)
 
 ### Related:
 

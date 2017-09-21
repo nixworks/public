@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17020494)
 2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/actor-david-kelly-dies-aged-82-539609.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2012/0213/1224311684377.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58483000/jpg/_58483821_pa-12764431.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Raids target Houthi strongholds across country while ground fighting reported in
 
 1. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2015/03/28/-Decisive-Storm-destroys-Houthi-missile-stockpile-.html)
 2. [Al-Jazeera](http://www.aljazeera.com/news/2015/03/yemen-aden-saudi-arabia-150327174924579.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/3/28/3d66d584cc814a168e6496bf83c07f77_18.jpg)
 
 ### Related:
 

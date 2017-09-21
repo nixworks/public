@@ -8,6 +8,7 @@ One of five Hong Kong booksellers who disappeared last year says he was forced b
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-36549266)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D28B/production/_89999835_mediaitem89999676.jpg)
 
 ### Related:
 

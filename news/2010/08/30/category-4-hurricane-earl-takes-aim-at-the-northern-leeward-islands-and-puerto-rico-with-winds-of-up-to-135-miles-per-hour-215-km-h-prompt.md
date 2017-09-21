@@ -11,6 +11,7 @@ Hurricane Earl&#39;s winds and driving rains churned over the North Carolina in 
 2. [CNN](http://www.cnn.com/2010/US/08/30/tropical.weather/index.html)
 3. [Huffington Post](http://www.huffingtonpost.com/2010/08/30/tropical-storm-fiona-form_n_699656.html)
 4. [msnbc.com](http://www.msnbc.msn.com/id/38877306/ns/weather/?gt1=43001)
+4. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-100830-HurricaneEarl/ss-100905-earl-01.standard.jpg)
 
 ### Related:
 

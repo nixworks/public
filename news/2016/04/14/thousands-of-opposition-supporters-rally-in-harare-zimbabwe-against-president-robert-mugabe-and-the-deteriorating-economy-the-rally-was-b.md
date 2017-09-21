@@ -8,6 +8,7 @@ Some 2,000 Zimbabwean opposition supporters, some calling on President Mugabe to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36047601)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8447/production/_89236833_89236658.jpg)
 
 ### Related:
 

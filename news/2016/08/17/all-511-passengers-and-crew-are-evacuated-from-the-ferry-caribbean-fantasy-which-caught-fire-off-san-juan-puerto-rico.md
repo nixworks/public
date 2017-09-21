@@ -8,6 +8,7 @@
 ### Source:
 
 1. [World Maritime News](http://worldmaritimenews.com/archives/199820/uscg-ferry-on-fire-off-san-juan-puerto-rico/)
+1. [Cover Image](http://worldmaritimenews.com/wp-content/uploads/2016/08/USCG2.jpg)
 
 ### Related:
 

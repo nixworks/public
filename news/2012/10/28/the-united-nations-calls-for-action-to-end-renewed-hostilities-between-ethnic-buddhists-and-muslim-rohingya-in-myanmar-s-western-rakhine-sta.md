@@ -8,6 +8,7 @@ World body says more than 22,000 people have been displaced after a flare-up in 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/10/20121028111853775290.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/28/20121028153754453580_20.jpg)
 
 ### Related:
 

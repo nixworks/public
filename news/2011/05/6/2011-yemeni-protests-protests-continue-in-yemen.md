@@ -8,6 +8,7 @@ GCC-brokered exit deal on hold as Saleh rejects calls to quit and pro- and anti-
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201156111244659925.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/6/201156113332871797_20.jpg)
 
 ### Related:
 

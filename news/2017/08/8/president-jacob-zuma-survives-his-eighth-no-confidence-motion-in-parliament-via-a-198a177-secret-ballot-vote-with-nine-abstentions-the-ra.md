@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-safrica-politics-idUSKBN1AN2JY?il=0)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170808&t=2&i=1196249660&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED77177)
 
 ### Related:
 

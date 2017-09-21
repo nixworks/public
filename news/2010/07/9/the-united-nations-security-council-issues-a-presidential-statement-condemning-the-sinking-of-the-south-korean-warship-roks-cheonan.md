@@ -9,6 +9,7 @@ The UN Security Council has condemned a deadly attack on a South Korean warship 
 
 1. [CBC](http://www.cbc.ca/politics/story/2010/07/09/un-korea009.html)
 2. [United Nations](http://www.un.org/News/Press/docs/2010/sc9975.doc.htm)
+2. [Cover Image](https://i.cbc.ca/1.2068865.1382069743!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-koreawarship-cp-9019066.jpg)
 
 ### Related:
 

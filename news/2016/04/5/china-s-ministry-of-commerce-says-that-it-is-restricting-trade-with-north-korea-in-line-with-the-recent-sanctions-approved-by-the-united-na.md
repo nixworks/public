@@ -8,6 +8,7 @@ China says it is restricting trade with North Korea, announcing bans on gold and
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-35969412)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/6E8A/production/_89089282_89089281.jpg)
 
 ### Related:
 

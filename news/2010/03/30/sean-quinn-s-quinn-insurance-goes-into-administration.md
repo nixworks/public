@@ -11,3 +11,4 @@ The High Court has appointed two joint provisional administrators to Quinn Insur
 2. [RTÉ](http://www.rte.ie/news/2010/0330/quinn.html)
 3. [The Guardian](http://www.guardian.co.uk/money/2010/mar/30/quinn-car-insurer-administration)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0330/breaking32.html?via=mr)
+4. [Cover Image](https://img.rasset.ie/00032650-1600.jpg)

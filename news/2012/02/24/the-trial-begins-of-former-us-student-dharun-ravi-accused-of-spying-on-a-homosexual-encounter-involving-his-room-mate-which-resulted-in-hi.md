@@ -8,6 +8,7 @@ US ex-student Dharun Ravi goes on trial, facing 15 charges for spying on a homos
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17162084)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58712000/jpg/_58712884_58712883.jpg)
 
 ### Related:
 

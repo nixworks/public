@@ -8,6 +8,7 @@ Police in China have arrested almost 1,000 members of a doomsday cult for spread
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20794276)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64865000/jpg/_64865406_64865405.jpg)
 
 ### Related:
 

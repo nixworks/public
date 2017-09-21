@@ -8,6 +8,7 @@ Spain says 400 African migrants tried to storm border fences separating its Nort
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/02/01/spain-400-migrants-repelled-after-charging-moroccan-guards-storming-melilla/)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

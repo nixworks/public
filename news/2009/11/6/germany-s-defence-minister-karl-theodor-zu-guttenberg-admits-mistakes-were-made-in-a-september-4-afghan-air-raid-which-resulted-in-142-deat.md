@@ -8,6 +8,7 @@ Defence Minister Karl-Theodor zu Guttenberg said that mistakes were made in a Ge
 ### Source:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/german-minister-admits-afghan-raid-error-20091107-i2i2.html)
+1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:
 

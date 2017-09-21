@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2016/12/30/asia/mine-collapse-india/index.html)
 2. [Reuters](http://www.reuters.com/article/us-india-mine-collapse-idUSKBN14J0F0)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

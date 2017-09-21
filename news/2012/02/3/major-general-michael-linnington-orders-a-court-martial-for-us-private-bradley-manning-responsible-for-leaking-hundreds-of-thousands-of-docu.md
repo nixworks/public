@@ -8,6 +8,7 @@ The commander of the Military District of Washington has ordered a court-martial
 ### Source:
 
 1. [Baltimore Sun](http://www.baltimoresun.com/news/maryland/bs-md-bradley-manning-court-martial-20120203,0,5022147.story)
+1. [Cover Image](http://www.trbimg.com/img-532df6da/turbine/bs-md-bradley-manning-court-martial-20120203)
 
 ### Related:
 

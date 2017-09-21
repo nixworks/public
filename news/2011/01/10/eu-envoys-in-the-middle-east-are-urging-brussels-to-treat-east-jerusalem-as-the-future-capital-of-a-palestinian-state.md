@@ -9,6 +9,7 @@ EU diplomats in Israel urge Brussels to treat East Jerusalem as the capital of a
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12150792)
 2. [Reuters](http://www.reuters.com/article/idUSTRE70933I20110110)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

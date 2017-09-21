@@ -11,6 +11,7 @@ The Environmental Protection Agency is aiming to cut methane emissions by 40 to 
 2. [NPR](http://www.npr.org/2015/08/18/432762331/epa-announces-new-regulations-on-methane-emissions)
 3. [The Atlantic](http://www.theatlantic.com/business/archive/2015/08/epa-methane-emissions-oil-gas-industry/401651/)
 4. [The New York Times](http://www.nytimes.com/2015/08/19/us/epa-announces-new-rules-to-cut-methane-emissions.html)
+4. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 

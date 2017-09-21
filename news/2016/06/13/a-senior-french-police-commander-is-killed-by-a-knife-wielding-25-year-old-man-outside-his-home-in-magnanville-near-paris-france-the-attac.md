@@ -11,6 +11,7 @@
 2. [Huffington Post](http://www.huffingtonpost.ca/2016/06/13/magnanville-france-attack_n_10447526.html)
 3. [Le Parisien](http://www.leparisien.fr/yvelines-78/yvelines-un-policier-poignarde-a-mort-a-magnanville-13-06-2016-5880893.php)
 4. [Reuters](http://in.reuters.com/article/france-crime-idINKCN0Z0099)
+4. [Cover Image](https://pbs.twimg.com/profile_images/615514275864444928/VI9Hcg1j_400x400.png)
 
 ### Related:
 

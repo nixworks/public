@@ -8,6 +8,7 @@ Sirens heard in southern Israel as missile fire pierces calm for fourth time in 
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/rocket-alarms-sound-in-southern-israel/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/07/000_Par7932630-e1405657929692.jpg)
 
 ### Related:
 

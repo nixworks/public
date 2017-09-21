@@ -9,6 +9,7 @@ Rival militias have clashed in neighbourhoods across the Libyan capital of Tripo
 
 1. [News 24](http://www.news24.com/Africa/News/at-least-8-killed-in-libya-clashes-20161201)
 2. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2016/Dec-02/383786-militias-clash-in-libyas-tripoli-worst-violence-in-2-years.ashx)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/4266/5ee62071eb37430482373317f662e047.jpg)
 
 ### Related:
 

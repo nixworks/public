@@ -8,6 +8,7 @@ WASHINGTON — The US House passed a multiyear budget deal, deemed favorable to 
 ### Source:
 
 1. [Defense News](http://www.defensenews.com/story/defense/policy-budget/budget/2015/10/28/house-passes-federal-budget-deal/74769392/)
+1. [Cover Image](http://snagfilms-a.akamaihd.net/ef/a2/b83ac1bd49a0a1d06b0acdc5f18e/635816565191402099-gettyimages-493569992jpg)
 
 ### Related:
 

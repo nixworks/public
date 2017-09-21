@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/indonesian-helicopter/2184788.html)
+1. [Cover Image](http://www.channelnewsasia.com/image/2185450/1444604305000/large16x9/640/360/sumatra-haze.jpg)
 
 ### Related:
 

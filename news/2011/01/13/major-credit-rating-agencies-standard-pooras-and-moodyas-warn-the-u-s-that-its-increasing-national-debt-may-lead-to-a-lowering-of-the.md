@@ -8,6 +8,7 @@ Moody’s and S.& P. warned the United States that it might ruin its triple-A cr
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2011/01/14/business/economy/14place.html)
+1. [Cover Image](https://static01.nyt.com/images/2011/01/14/business/14place/14place-thumbStandard.jpg)
 
 ### Related:
 

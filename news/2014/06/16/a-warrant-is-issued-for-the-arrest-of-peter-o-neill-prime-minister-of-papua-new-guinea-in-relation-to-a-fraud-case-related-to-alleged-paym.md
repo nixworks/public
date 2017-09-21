@@ -9,6 +9,7 @@ PNG&#039;s anti-corruption body issues an arrest warrant for Prime Minister Pete
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-06-16/arrest-warrant-for-papua-new-guinea-prime-minister2c-peter-/5526748)
 2. [The Australian](http://www.theaustralian.com.au/news/world/png-court-blocks-arrest-of-prime-minister-peter-oneill/story-e6frg6so-1226956845720)
+2. [Cover Image](http://www.abc.net.au/news/image/5527644-1x1-700x700.jpg)
 
 ### Related:
 

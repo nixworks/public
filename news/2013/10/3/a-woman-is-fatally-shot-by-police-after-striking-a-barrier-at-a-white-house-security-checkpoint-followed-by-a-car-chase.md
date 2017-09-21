@@ -9,6 +9,7 @@ A police chase in Washington DC ends in gunfire, sparking panic at the White Hou
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-24392014)
 2. [The Washington Post](http://www.washingtonpost.com/politics/police-lock-down-capitol-after-shots-fired/2013/10/03/48459e0e-2c5a-11e3-8ade-a1f23cda135e_story.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70268000/jpg/_70268224_swat.jpg)
 
 ### Related:
 

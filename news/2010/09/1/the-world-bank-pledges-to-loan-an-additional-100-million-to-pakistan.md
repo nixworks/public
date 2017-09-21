@@ -14,6 +14,7 @@ The World Bank has increased funding to help Pakistan cope with catastrophic flo
 5. [Reuters](http://www.reuters.com/article/idUSTRE68073L20100901)
 6. [Sky News](http://news.sky.com/skynews/Home/Politics/Nick-Clegg-Visits-Flood-Hit-Pakistan-Deputy-Prime-Minister-Saw-Scale-Of-The-Crisis-In-Sukkur/Article/201009115710735?lpos=Politics_First_World_News_Article_Teaser_Region_2&lid=ARTICLE_15710735_Nick_Clegg_Visits_Flood-Hit_Pakistan%3A_Deputy_Prime_Minister_Saw_Scale_Of_The_Crisis_In_Sukkur)
 7. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/British-deputy-PM-visits-flood-hit-Pakistan/articleshow/6475749.cms)
+7. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

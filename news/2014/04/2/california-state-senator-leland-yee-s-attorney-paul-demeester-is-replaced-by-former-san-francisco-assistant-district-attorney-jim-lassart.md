@@ -8,6 +8,7 @@ State Sen. Leland Yee picks new lawyer in gun, corruption case
 ### Source:
 
 1. [San Jose Mercury News](http://www.mercurynews.com/crime-courts/ci_25477471/state-sen-leland-yee-picks-new-lawyer-gun)
+1. [Cover Image](http://www.mercurynews.com/wp-content/uploads/2016/08/20140331__0401yeebond2-1.jpg?w=645&amp;h=368)
 
 ### Related:
 

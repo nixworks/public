@@ -8,6 +8,7 @@
 ### Source:
 
 1. [STANDARD](http://derstandard.at/?id=3392841)
+1. [Cover Image](http://derstandard.at/img/ui/derstandardat_fallback_image_1200x600.png)
 
 ### Related:
 

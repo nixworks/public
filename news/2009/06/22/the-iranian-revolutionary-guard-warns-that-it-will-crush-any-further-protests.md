@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/06/200962211917155481.html)
 2. [Guardian](http://www.guardian.co.uk/world/2009/jun/21/iran-protest-mousavi-khamenei)
+2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

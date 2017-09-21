@@ -9,6 +9,7 @@ Sir Richard Branson has dedicated the launchpad for his space tourism venture in
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15344836)
 2. [Sydney Morning Herald](http://www.smh.com.au/travel/travel-news/branson-opens-worlds-first-spaceport-20111020-1m96n.html)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56117000/jpg/_56117698_013172776-1.jpg)
 
 ### Related:
 

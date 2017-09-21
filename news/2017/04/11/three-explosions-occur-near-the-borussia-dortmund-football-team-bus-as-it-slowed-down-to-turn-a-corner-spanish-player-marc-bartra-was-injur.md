@@ -9,6 +9,7 @@ Borussia Dortmund&#39;s team bus was hit by three explosions while on its way to
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/football/2017/04/11/borussia-dortmund-vs-monaco-champions-league-live-score-updates/)
 2. [The Independent](http://www.independent.co.uk/sport/football/european/borussia-dortmund-bomb-explosion-game-cancelled-team-bus-marc-barta-injured-a7679196.html)
+2. [Cover Image](http://www.telegraph.co.uk/content/dam/football/2017/04/11/TELEMMGLPICT000125714464-xlarge_trans_NvBQzQNjv4BqEDjTm7JpzhSGR1_8ApEWQA1vLvhkMtVb21dMmpQBfEs.jpeg)
 
 ### Related:
 

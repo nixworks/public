@@ -8,6 +8,7 @@ QC for one plaintiff says ‘putting to the public a vote on her family unit’ 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/australia-news/2017/sep/05/postal-survey-on-same-sex-marriage-unique-and-offensive-high-court-told)
+1. [Cover Image](https://i.guim.co.uk/img/media/2f84bf4ae13e3b6687f1beb92bb8a9d5c5d0245a/0_0_5568_3341/master/5568.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d563c5817e3452d95d9f694ce73981f8)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Yemeni President Ali Abdullah Saleh fires his cabinet amid continuing protests a
 
 1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-12800887)
 2. [Reuters via Alertnet](http://www.trust.org/alertnet/news/yemen-president-fires-government-state-news-agency)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606887_bn-304x171.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ MSP Bill Walker resigns from the Scottish Parliament after being convicted of a 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-24004675)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69647000/jpg/_69647471_018815118-1.jpg)
 
 ### Related:
 

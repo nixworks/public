@@ -8,6 +8,7 @@ Poland assumes the six-month rotating presidency of the EU for the first time si
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13985064)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53795000/jpg/_53795060_53795059.jpg)
 
 ### Related:
 

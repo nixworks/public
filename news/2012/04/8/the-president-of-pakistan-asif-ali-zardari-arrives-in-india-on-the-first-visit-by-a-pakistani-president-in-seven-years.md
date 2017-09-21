@@ -8,6 +8,7 @@ President Asif Ali Zardari of Pakistan holds &quot;friendly&quot; talks with Ind
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17648622)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59549000/jpg/_59549900_014466353-1.jpg)
 
 ### Related:
 

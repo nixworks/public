@@ -10,6 +10,7 @@ Consumer spending leads recovery, but treasury secretary admits many face hardsh
 1. [Al Jazeera](http://english.aljazeera.net/business/2009/10/20091029143624500616.html)
 2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gNiyJ905Ho0Ur96V2TQhsBX19lGwD9BKP85G0)
 3. [The Guardian](http://www.guardian.co.uk/business/2009/oct/29/us-recession-ends-economic-growth)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

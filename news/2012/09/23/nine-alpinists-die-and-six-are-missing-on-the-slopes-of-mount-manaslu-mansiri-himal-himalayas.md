@@ -8,6 +8,7 @@ At least nine people are killed and several are missing in Nepal after an avalan
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19691512)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63060000/jpg/_63060755_63060754.jpg)
 
 ### Related:
 

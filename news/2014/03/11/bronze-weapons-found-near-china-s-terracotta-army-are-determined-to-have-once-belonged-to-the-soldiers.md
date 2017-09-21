@@ -8,6 +8,7 @@ Weapons found among China&#039;s terra-cotta warriors were made by cells of craf
 ### Source:
 
 1. [Live Science](http://www.livescience.com/44024-terracotta-warrior-weapons-construction.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2MC8xNjIvb3JpZ2luYWwvdGVycmFjb3R0YS13YXJyaW9ycy0xLmpwZw==)
 
 ### Related:
 

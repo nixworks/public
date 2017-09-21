@@ -8,6 +8,7 @@ Many civilians are among more than 30 people killed in the incident near the Ira
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-39778171)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BD7B/production/_95870584_gettyimages-652813968.jpg)
 
 ### Related:
 

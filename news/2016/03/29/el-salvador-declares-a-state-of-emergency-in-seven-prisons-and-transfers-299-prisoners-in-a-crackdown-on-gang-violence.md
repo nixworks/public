@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/mar/29/el-salvador-state-of-emergency-prisons-gang-violence)
+1. [Cover Image](https://i.guim.co.uk/img/media/b358f9a1b3affe4aed787dc5d7716768489b8d14/0_177_3500_2101/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9c1ee9aed4ba1c98fb149b7ab61f42fa)
 
 ### Related:
 

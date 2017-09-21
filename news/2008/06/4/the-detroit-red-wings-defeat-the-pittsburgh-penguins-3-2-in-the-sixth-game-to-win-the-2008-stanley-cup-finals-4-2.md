@@ -9,6 +9,7 @@
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5idj3T_FxQDS4gD1i3QUUVotXnFDQD913LAH02)
 2. [CBC](http://www.cbc.ca/sportsnews/story/2008/06/04/det-pit-six.html)
+2. [Cover Image](https://i.cbc.ca/1.470240.1460485348!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-sports.jpg)
 
 ### Related:
 

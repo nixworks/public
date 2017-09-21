@@ -8,6 +8,7 @@ Chris Carter says his travel expenses were focused on because of his sexuality. 
 ### Source:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678887)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201041/SCCZEN_A_290710NZHDPCARTER06_1024x76846746.JPG)
 
 ### Related:
 

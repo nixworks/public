@@ -8,6 +8,7 @@ Barack Obama refuses to comment on the whereabouts of a Chinese dissident said t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-17902331)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59957000/jpg/_59957743_chenap.jpg)
 
 ### Related:
 

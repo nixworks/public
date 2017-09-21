@@ -8,6 +8,7 @@ A suicide car bomb has killed six people and wounded 16 others in Iraq&#39;s wes
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0715/iraq.html)
+1. [Cover Image](https://img.rasset.ie/0002726e-1600.jpg)
 
 ### Related:
 

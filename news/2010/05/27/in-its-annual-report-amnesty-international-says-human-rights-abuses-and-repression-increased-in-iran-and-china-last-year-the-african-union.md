@@ -11,6 +11,7 @@ Amnesty International&#39;s annual report on the state of human rights says that
 2. [MSNBC](http://www.msnbc.msn.com/id/37361181/ns/world_news-europe/)
 3. [VOA](http://www1.voanews.com/english/news/africa/Amnesty-International-Releases-2010-Human-Rights-Report--95003944.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/27/c_13319871.htm)
+4. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/100526-human-rights-hmed12p.standard.jpg)
 
 ### Related:
 

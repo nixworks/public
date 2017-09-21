@@ -8,6 +8,7 @@ Chancellor Angela Merkel paid tribute to freedom of speech at a ceremony for a D
 ### Source:
 
 1. [Reuters](http://blogs.reuters.com/faithworld/2010/09/09/german-chancellor-merkel-honours-mohammad-cartoonist-at-press-award/)
+1. [Cover Image](http://blogs.reuters.com/faithworld/files/2010/09/or_402_merkel.jpg)
 
 ### Related:
 

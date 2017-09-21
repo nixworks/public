@@ -8,6 +8,7 @@ Michael Adebolajo and Michael Adebowale are found guilty of the murder of soldie
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-25450555)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71849000/jpg/_71849082_0bd19432-aeb1-43a1-8a8c-952b9af47946.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Pfizer Inc. decided to terminate its $160 billion merger with Allergan Plc, a pe
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-06/pfizer-allergan-plan-to-mutually-end-merger-cnbc-reports)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

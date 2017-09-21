@@ -10,6 +10,7 @@ Seven people are to appear in court this evening following a protest outside the
 1. [Evening Herald](http://www.herald.ie/national-news/city-news/protesters-hit-at-banks-with-rooftop-demo-2181611.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0515/angloirish.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0515/breaking9.html)
+3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

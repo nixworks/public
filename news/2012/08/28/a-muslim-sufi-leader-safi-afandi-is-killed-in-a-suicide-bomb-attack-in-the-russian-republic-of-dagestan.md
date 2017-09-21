@@ -8,3 +8,4 @@ Female assailant targets Said Afandi and five of his followers after gaining acc
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/08/201282994021642619.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/29//201282993934156734_20.jpg)

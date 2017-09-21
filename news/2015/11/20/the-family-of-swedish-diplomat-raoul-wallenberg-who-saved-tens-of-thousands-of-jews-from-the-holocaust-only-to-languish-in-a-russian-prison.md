@@ -8,6 +8,7 @@ Swedish diplomat who saved thousands of Jews during the Holocaust disappeared in
 ### Source:
 
 1. [Times of Israel](http://www.timesofisrael.com/raoul-wallenbergs-family-seek-to-have-him-declared-dead/)
+1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/08/Screen-shot-2012-08-03-at-6.21.19-PM.png)
 
 ### Related:
 

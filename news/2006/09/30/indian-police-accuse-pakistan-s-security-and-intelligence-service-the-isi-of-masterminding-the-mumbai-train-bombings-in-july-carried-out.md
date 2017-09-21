@@ -9,6 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Hindustan Times](http://www.hindustantimes.com/news/181_1809909,001302390000.htm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-30T152848Z_01_DEL12798_RTRUKOC_0_US-INDIA-BLASTS.xml&WTmodLoc=Home-C2-TopNews-newsOne-5)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

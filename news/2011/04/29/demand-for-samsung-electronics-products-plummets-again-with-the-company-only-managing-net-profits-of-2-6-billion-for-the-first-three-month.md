@@ -8,6 +8,7 @@ Samsung Electronics says profits for the first three months of the year have fal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13234850)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52398000/jpg/_52398209_011793349-1.jpg)
 
 ### Related:
 

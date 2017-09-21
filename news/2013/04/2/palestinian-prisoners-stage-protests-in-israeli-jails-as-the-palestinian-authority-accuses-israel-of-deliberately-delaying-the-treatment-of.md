@@ -8,6 +8,7 @@ The Palestinian Authority accused Israel of deliberately delaying the treatment 
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/04/03/world/middleeast/palestinian-prisoners-in-israel-protest-after-inmate-dies.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/04/03/world/ISRAEL/ISRAEL-videoLarge.jpg)
 
 ### Related:
 

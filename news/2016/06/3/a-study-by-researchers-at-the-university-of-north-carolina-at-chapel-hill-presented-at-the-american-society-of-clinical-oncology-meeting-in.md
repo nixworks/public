@@ -10,6 +10,7 @@
 1. [ASCO](http://meetinglibrary.asco.org/content/168278-176)
 2. [Meeting](http://am.asco.org/)
 3. [UPI](http://www.upi.com/Health_News/2016/06/03/Study-One-quarter-of-cancer-patients-cant-afford-treatment/8381464973916/?spt=rln&or=2)
+3. [Cover Image](/sites/am.asco.org/files/OG-AM17-MetatagImage-1200x630.jpg)
 
 ### Related:
 

@@ -12,6 +12,7 @@ Israel maintains air strikes on Gaza and militants continue to fire rockets into
 3. [HaAretz](http://www.haaretz.com/news/diplomacy-defense/netanyahu-to-foreign-leaders-will-accept-comprehensive-ceasefire-if-the-rocket-fire-stops.premium-1.478664/netanyahu-to-foreign-leaders-will-accept-comprehensive-ceasefire-if-the-rocket-fire-stops.premium-1.478664)
 4. [NBC News](http://worldnews.nbcnews.com/_news/2012/11/18/15252420-netanyahu-israel-prepared-for-significant-expansion-of-gaza-operation?lite)
 5. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=292424)
+5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64219000/jpg/_64219843_danahar.jpg)
 
 ### Related:
 

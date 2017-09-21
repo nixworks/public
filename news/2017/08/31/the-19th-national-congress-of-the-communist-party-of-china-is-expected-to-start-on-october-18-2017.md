@@ -8,6 +8,7 @@
 ### Source:
 
 1. [NPR](http://www.npr.org/sections/parallels/2017/08/31/547544659/china-has-set-oct-18-for-its-communist-party-congress-heres-what-to-expect)
+1. [Cover Image](https://media.npr.org/assets/img/2017/08/31/ap_17243461060797_wide-485c5ca2e6a7753a9ac0dd188fc7ccb0163901e6.jpg?s=1400)
 
 ### Related:
 

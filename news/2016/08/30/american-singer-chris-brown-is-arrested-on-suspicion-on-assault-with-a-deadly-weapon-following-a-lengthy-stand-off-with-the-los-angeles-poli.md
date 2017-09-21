@@ -8,6 +8,7 @@ Chris Brown was released on $250,000 bail Tuesday night after he was booked on c
 ### Source:
 
 1. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/Investigation-LAPD-Tarzana-Chris-Brown-391749091.html?_osource=SocialFlowTwt_LABrand)
+1. [Cover Image](http://media.nbclosangeles.com/images/1200*675/ChrisBrown-AP_794273932217.jpg)
 
 ### Related:
 

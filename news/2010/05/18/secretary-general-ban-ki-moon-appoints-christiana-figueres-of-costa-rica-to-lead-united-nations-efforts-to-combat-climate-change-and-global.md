@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=34719&Cr=climate+change&Cr1=)
+1. [Cover Image](/News/dh/photos/large/2010/531513-figueres.jpg)
 
 ### Related:
 

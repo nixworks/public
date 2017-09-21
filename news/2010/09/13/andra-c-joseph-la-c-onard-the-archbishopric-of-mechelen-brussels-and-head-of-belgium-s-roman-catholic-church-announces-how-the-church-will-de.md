@@ -9,6 +9,7 @@
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100913/wl_afp/belgiumreligionchildabusecardinal)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11281071)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

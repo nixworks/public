@@ -9,6 +9,7 @@
 
 1. [Reuters](http://www.reuters.com/article/2013/05/29/entertainment-us-italy-rame-idUSBRE94S0JX20130529)
 2. [The Guardian](http://www.guardian.co.uk/stage/2013/may/29/franca-rame)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130529&t=2&i=736199004&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94S0XPO00)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least 11 people have been killed and dozens injured in an attack on a church 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27614401)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75163000/jpg/_75163688_5yophku3.jpg)
 
 ### Related:
 

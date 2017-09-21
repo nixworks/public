@@ -8,6 +8,7 @@ A Scottish newspaper names a footballer accused of being linked to a privacy inj
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13491086)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52874000/jpg/_52874896_twitter_legal_grab.jpg)
 
 ### Related:
 

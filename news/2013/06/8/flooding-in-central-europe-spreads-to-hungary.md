@@ -8,6 +8,7 @@ People in Hungary are building barriers along the Danube River as they prepare f
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2013/06/08/europe-flooding.html)
+1. [Cover Image](https://i.cbc.ca/1.1543273.1379042876!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-dresden-flooding-852-ap-04541383.jpg)
 
 ### Related:
 

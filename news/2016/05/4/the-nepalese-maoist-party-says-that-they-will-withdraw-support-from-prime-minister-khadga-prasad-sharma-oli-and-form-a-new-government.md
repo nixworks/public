@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-nepal-politics-idUSKCN0XV0Y4?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160504&t=2&i=1135695063&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC430HE)
 
 ### Related:
 

@@ -9,6 +9,7 @@ An American soldier suspected of leaking video footage of a US Apache helicopter
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/07/07/2946534.htm?section=world)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5haxoKNMZev63Ph0ZkRkMsEaPeCrwD9GPORO00)
+2. [Cover Image](http://www.abc.net.au/news/image/894608-1x1-700x700.jpg)
 
 ### Related:
 

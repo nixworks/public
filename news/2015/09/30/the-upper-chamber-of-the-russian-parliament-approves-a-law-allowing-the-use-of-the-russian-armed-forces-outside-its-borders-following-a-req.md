@@ -12,6 +12,7 @@ The escalation comes after Russia&rsquo;s parliament backed the use of military 
 3. [NPR](http://www.npr.org/sections/thetwo-way/2015/09/30/444679327/russia-begins-conducting-airstrikes-in-syria-at-assads-request)
 4. [The News Hub](https://www.the-newshub.com/general/russian-parliament-approves-foreign-military-interventions-on-putins-request)
 5. [Washington Post](https://www.washingtonpost.com/world/russias-legislature-authorizes-putin-to-use-military-force-in-syria/2015/09/30/f069f752-6749-11e5-9ef3-fde182507eac_story.html)
+5. [Cover Image](http://a.abcnews.com/images/US/AP_Putin_MEM_150928_16x9_992.jpg)
 
 ### Related:
 

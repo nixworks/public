@@ -8,6 +8,7 @@ Brazil has become Chile&rsquo;s third largest trading partner, displacing Japan,
 ### Source:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/21/brazil-becomes-chiles-third-largest-trading-partner)
+1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19891/200x200/3248848c7b78d0c67dcd9dc11f4d262f.jpg)
 
 ### Related:
 

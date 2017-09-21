@@ -8,6 +8,7 @@ A co-ordinated Taliban attack on the Afghan parliament in Kabul ends with all si
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33221051?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0EAD/production/_83775730_11350175_753077448142018_1606688021_n.jpg)
 
 ### Related:
 

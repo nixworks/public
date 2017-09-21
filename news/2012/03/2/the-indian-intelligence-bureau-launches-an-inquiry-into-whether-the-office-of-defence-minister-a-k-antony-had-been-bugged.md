@@ -8,6 +8,7 @@ The Defence Ministry has denied that Defence Minister AK Antony&#039;s office wa
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/article/india/defence-minister-s-office-bugged-inquiry-ordered-press-trust-of-india-181854)
+1. [Cover Image](http://i.ndtvimg.com/mt/2012-03/Antony_295.jpg)
 
 ### Related:
 

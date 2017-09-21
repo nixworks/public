@@ -9,6 +9,7 @@ Justice Department prosecutors are reviewing allegations that News Corp.&#8217;s
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14242763)
 2. [MSNBC](http://www.msnbc.msn.com/id/43847056/ns/us_news-crime_and_courts/)
+2. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110720-murdoch-hmed-330a.standard.jpg)
 
 ### Related:
 

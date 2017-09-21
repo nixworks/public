@@ -9,6 +9,7 @@ Pregnancy can sculpt a mother’s brain in a way that may help her tune in to he
 
 1. [Nature](http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4458.html)
 2. [ScienceNews](https://www.sciencenews.org/article/pregnancy-linked-long-term-changes-moms-brain)
+2. [Cover Image](https://www.sciencenews.org/sites/default/files/2016/12/main/articles/121916_LS_pregnancy-brain_main.jpg)
 
 ### Related:
 

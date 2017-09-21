@@ -8,6 +8,7 @@ Democratic presidential hopeful Barack Obama opens the general election campaign
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/topNews/idUSN1730688920080617?feedType=nl&feedName=usmorningdigest)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080617&t=2&i=4796332&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-17T122945Z_01_N17306889_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

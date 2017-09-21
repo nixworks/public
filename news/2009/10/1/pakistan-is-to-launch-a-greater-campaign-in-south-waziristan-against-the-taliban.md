@@ -8,6 +8,7 @@ The military will open a campaign against the Taliban’s main stronghold in the
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2009/10/02/world/asia/02pstan.html?hpw)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

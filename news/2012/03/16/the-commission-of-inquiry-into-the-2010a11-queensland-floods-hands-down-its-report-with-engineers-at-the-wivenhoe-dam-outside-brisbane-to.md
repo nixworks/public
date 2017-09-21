@@ -9,6 +9,7 @@ Queensland&#039;s floods inquiry has handed down its long-awaited report into la
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-03-16/live-flood-commission-of-inquiry/3893770?section=business)
 2. [News Limited](http://www.news.com.au/national/dam-engineers-referred-to-cmc-as-flood-report-handed-down/story-e6frfkvr-1226301558213)
+2. [Cover Image](http://www.abc.net.au/news/image/1904046-1x1-700x700.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Rescuers searching for six Russian seamen missing after a cargo vessel sank off 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-15908292)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56964000/jpg/_56964627_56964625.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Iraqi officials say police have unearthed two mass graves in the western city of
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/04/19/iraqi-police-find-2-mass-graves-in-islamic-state-free-ramadi.html)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2016/04/19/iraqi-police-find-2-mass-graves-in-islamic-state-free-ramadi/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1461088986186.jpg?ve=1)
 
 ### Related:
 

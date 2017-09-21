@@ -8,6 +8,7 @@ The magazine makes its annual pick from a shortlist which this year included Pop
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/1180799/pope-francis-named-time-person-of-the-year)
+1. [Cover Image](http://e3.365dm.com/16/07/1600x900/time-split-1-1_3622185.jpg?20160705144818)
 
 ### Related:
 

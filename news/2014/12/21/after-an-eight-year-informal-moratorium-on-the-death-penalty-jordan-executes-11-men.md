@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/12/jordan-hangs-11-after-lifting-execution-ban-201412218257159168.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/12/21//2014122183220388734_20.jpg)
 
 ### Related:
 

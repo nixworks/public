@@ -9,6 +9,7 @@ The CIA condemns Wikileaks over publication of documents from a private email ac
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-34597060)
 2. [CNN](http://www.cnn.com/2015/10/21/politics/john-brennan-hacked-cia-director/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A1F9/production/_86256414_gettyimages-466100284.jpg)
 
 ### Related:
 

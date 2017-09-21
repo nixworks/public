@@ -8,6 +8,7 @@ Several helicopters hovered over Rosehill Cemetery on Chicago&apos;s North Side 
 ### Source:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-cyanide-lottery-winner-poison-exhumation,0,2627635.story)
+1. [Cover Image](http://www.trbimg.com/img-50f99a1c/turbine/chi-cyanide-lottery-winner-poison-exhumation)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Tamil Nadu has recorded 21 cases of A (H1N1) flu, including four in Chennai and 
 1. [EB](http://expressbuzz.com/cities/chennai/swine-flu-3-cases-in-city-1-dead-in-thanjavur/185403.html)
 2. [The Hindu](http://www.thehindu.com/news/cities/Chennai/article492369.ece)
 3. [The Times of India](http://timesofindia.indiatimes.com/City/Chennai/H1N1-returns-21-new-cases-recorded-in-TN/articleshow/6108612.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

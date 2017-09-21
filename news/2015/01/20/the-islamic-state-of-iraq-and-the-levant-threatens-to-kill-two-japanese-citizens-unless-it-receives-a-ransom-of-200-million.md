@@ -8,6 +8,7 @@ The militant group Islamic State released an online video on Tuesday purporting 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/01/20/us-mideast-crisis-islamicstate-japan-idUSKBN0KT0GI20150120)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150120&t=2&i=1017666486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0J0I7)
 
 ### Related:
 

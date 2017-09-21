@@ -8,6 +8,7 @@ Japan orders emergency inspections of road tunnels after nine people were killed
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20576883)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64531000/jpg/_64531342_64531341.jpg)
 
 ### Related:
 

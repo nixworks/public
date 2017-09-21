@@ -8,6 +8,7 @@ THE wife of East Timor&#039;s Prime Minister has demanded an Australian woman re
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/pms-wife-seeks-return-of-timor-teenagers-20100321-qo4a.html)
+1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)
 
 ### Related:
 

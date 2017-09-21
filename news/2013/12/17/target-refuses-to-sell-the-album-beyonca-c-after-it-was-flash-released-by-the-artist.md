@@ -8,3 +8,4 @@ Not everyone is crazy in love with Beyoncé&#39;s game-changing new album, which
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/life/music/2013/12/17/target-wont-sell-beyonces-new-album/4050521/)
+1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)

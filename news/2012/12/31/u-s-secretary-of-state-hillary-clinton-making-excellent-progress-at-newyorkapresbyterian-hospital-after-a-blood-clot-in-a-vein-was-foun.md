@@ -9,6 +9,7 @@ US Secretary of State Hillary Clinton is making &quot;excellent progress&quot; a
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20879974)
 2. [Reuters](http://www.reuters.com/article/2012/12/31/us-usa-clinton-health-idUSBRE8BU0FM20121231)
+2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65016000/jpg/_65016062_9c5kgq9e.jpg)
 
 ### Related:
 

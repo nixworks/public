@@ -8,6 +8,7 @@ At least 90 people killed after explosion in capital Accra, blamed on floodwater
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/06/scores-dead-blast-petrol-station-ghana-accra-150604071414860.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/4/9e69449791644c149e2b759601ecaa27_18.jpg)
 
 ### Related:
 

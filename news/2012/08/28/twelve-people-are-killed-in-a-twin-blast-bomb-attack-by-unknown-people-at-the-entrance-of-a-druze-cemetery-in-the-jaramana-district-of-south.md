@@ -9,6 +9,7 @@ Twelve people were killed and dozens wounded when a car bomb exploded on Tuesday
 
 1. [RIA Novosti](http://en.rian.ru/world/20120828/175483794.html)
 2. [Reuters](http://www.reuters.com/article/2012/08/28/us-syria-crisis-bomb-idUSBRE87R0KV20120828)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

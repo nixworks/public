@@ -8,6 +8,7 @@ Taliban bomb and gun attacks on an official&#039;s compound and a militia base i
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/8669677/BBC-reporter-among-21-killed-in-Afghanistan-attacks.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01959/ahmed_1959236a.jpg)
 
 ### Related:
 

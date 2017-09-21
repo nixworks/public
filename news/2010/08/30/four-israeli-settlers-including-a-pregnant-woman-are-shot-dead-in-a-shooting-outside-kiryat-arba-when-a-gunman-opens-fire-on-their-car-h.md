@@ -8,6 +8,7 @@ Hamas claims responsibility for West Bank attack in which two men and two women,
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/four-israelis-killed-in-shooting-attack-near-hebron-1.311318)
+1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.311330.1283279748!/image/3781610156.jpg_gen/derivatives/headline_1200x630/3781610156.jpg)
 
 ### Related:
 

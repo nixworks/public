@@ -8,6 +8,7 @@ At least four people killed, including a soldier, after clashes between supporte
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201251383952809563.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/13/20125139636194734_20.jpg)
 
 ### Related:
 

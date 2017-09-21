@@ -9,6 +9,7 @@ The U.S. Supreme Court on Monday struck down an Arizona law that required people
 
 1. [PBS](http://www.pbs.org/newshour/bb/law/jan-june13/scotus_06-17.html)
 2. [Reuters](http://www.reuters.com/article/2013/06/17/us-usa-court-voters-idUSBRE95G0K720130617)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130617&t=2&i=742122167&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95G14DE00)
 
 ### Related:
 

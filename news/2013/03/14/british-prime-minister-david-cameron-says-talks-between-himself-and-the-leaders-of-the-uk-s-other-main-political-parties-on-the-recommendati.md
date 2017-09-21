@@ -8,6 +8,7 @@ Prime Minister David Cameron calls a halt to cross-party talks on press regulati
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21785611)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66397000/jpg/_66397147_comp_clegg_mili_cam.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10939434)
 2. [NME](http://www.nme.com/news/various-artists/52441)
 3. [The Guardian](http://www.guardian.co.uk/music/2010/aug/10/buggles-reunite-one-night-only)
+3. [Cover Image](http://ksassets.timeincuk.net/wp/uploads/sites/55/2016/09/NME-Logo-New-Large-red-on-white_0-1.jpg)
 
 ### Related:
 

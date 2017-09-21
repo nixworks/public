@@ -8,6 +8,7 @@ An explosion at a Shia mosque in the Afghan city of Herat kills at least 20 peop
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-40797016)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5E65/production/_97156142_afghanistanherat9760817.png)
 
 ### Related:
 

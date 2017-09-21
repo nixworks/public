@@ -8,6 +8,7 @@ A secret program has given counterterrorism officials access to financial record
 ### Source:
 
 1. [NYT](http://www.nytimes.com/2006/06/23/washington/23intel.html?_r=1&1002726989)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ No significant problems have been reported at the polls as Memphis residents vot
 ### Source:
 
 1. [WMC-TV](http://www.wmctv.com/Global/story.asp?S=14208408)
+1. [Cover Image](http://WMCTV.images.worldnow.com/images/14208408_BG1.jpg)
 
 ### Related:
 

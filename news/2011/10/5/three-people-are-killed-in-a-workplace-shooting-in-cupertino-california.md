@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Mercury Times](http://www.mercurynews.com/top-stories/ci_19046357)
+1. [Cover Image](http://www.mercurynews.com/wp-content/uploads/2016/08/20111005__quarryc3121.jpg?w=400&amp;h=268)
 
 ### Related:
 

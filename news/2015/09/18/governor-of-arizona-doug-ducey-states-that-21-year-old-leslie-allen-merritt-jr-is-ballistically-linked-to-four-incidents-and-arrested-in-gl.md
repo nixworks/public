@@ -16,6 +16,7 @@ Arizona Governor Doug Ducey says the the suspect in the Phoenix freeway shooting
 7. [NBC News](http://www.nbcnews.com/news/us-news/arizona-freeway-shooting-suspect-leslie-allen-merritt-held-1-million-n430196)
 8. [Q13FOX](http://q13fox.com/2015/09/18/we-got-him-suspect-arrested-in-i-10-shootings-in-phoenix-governor-says/)
 9. [Yahoo News](http://news.yahoo.com/phoenix-freeway-shooting-suspect-im-wrong-guy-184734525.html#)
+9. [Cover Image](http://media2.abc15.com/photo/2015/09/19/KNXV%20Leslie%20Allen%20Merritt%20Jr_1442682609344_24155167_ver1.0_640_480.jpg)
 
 ### Related:
 

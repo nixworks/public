@@ -8,6 +8,7 @@ At least 15 people are killed and 53 wounded as a car bomb explodes in a busy pa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22062326)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66803000/jpg/_66803630_66803629.jpg)
 
 ### Related:
 

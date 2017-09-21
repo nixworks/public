@@ -8,6 +8,7 @@ Surf Life Saving Queensland urges swimmers to stay away from the hole, warning o
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/australia-news/2015/nov/26/sinkhole-size-of-football-field-swallows-part-of-beach-on-queensland-island)
+1. [Cover Image](https://i.guim.co.uk/img/media/095ea35e3ea37f28b77371b041aad214d08c7ddb/0_75_503_303/master/503.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2a0a2263216cb775a7c02615f91ddbcd)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A temporary block to Facebook in Nauru is to protect children from abuse, Nauru&
 ### Source:
 
 1. [ABC Australia](http://www.abc.net.au/news/2015-05-13/nauru-president-says-internet-facebook-ban-to-protect-children/6465274)
+1. [Cover Image](http://www.abc.net.au/news/image/352132-1x1-700x700.jpg)
 
 ### Related:
 

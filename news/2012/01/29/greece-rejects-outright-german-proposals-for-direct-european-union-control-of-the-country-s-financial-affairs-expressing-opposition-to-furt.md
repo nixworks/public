@@ -8,6 +8,7 @@ Athens rejects outright German proposals for an EU power of veto over the Greek 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16780448)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58163000/jpg/_58163762_013599006-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/03/30/us-usa-pandas-idUSBRE92T09A20130330)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130330&t=2&i=717739345&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE92T1K4P00)
 
 ### Related:
 

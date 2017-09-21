@@ -9,6 +9,7 @@ Belizean Prime Minister Dean Barrow won a record third term in a snap general el
 
 1. [Newsweek](http://europe.newsweek.com/belize-pm-dean-barrow-wins-record-third-consecutive-term-336042)
 2. [Reuters](http://www.reuters.com/article/2015/11/05/us-belize-election-idUSKCN0ST1VE20151105#hLWpFMhRXc31M0xR.97)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151105&t=2&i=1092421216&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA406W)
 
 ### Related:
 

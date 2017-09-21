@@ -8,6 +8,7 @@ Reports suggest renovation work on the heritage site, involving wooden scaffoldi
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/mar/15/russia-fire-breaks-out-at-novodevichy-convent-bell-tower-in-moscow)
+1. [Cover Image](https://i.guim.co.uk/img/media/482a35af3aa06a1fe7b090de2ea7d5e4f2a991ad/0_0_4096_2458/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5bb2a1a2014a12f2a3375f39bf3e5dd2)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Demonstrations are held in London and Manchester against raising university tuit
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/education-12315841)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

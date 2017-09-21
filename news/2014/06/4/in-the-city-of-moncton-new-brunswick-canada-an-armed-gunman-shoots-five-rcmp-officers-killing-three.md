@@ -8,6 +8,7 @@ New Brunswick RCMP have confirmed that three officers were shot and killed and t
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/canada/new-brunswick/3-rcmp-officers-dead-2-wounded-in-moncton-shooting-1.2665359)
+1. [Cover Image](https://i.cbc.ca/1.2665496.1404864711!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/moncton-shooting-suspect-times-and-transcript.jpg)
 
 ### Related:
 

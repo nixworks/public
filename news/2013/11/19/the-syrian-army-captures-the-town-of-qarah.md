@@ -8,6 +8,7 @@ Syrian troops captured a key town from rebels near the Lebanese border on Tuesda
 ### Source:
 
 1. [AP via ''The Hindu](http://www.thehindu.com/news/international/world/syrian-troops-capture-key-town-near-lebanon-border/article5368372.ece)
+1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
 
 ### Related:
 

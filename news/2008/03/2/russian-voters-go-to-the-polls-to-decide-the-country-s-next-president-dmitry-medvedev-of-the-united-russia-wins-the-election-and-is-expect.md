@@ -8,6 +8,7 @@ There&#039;s a new doll on the block. The familiar frowning face of Vladimir Put
 ### Source:
 
 1. [The Independent](http://www.independent.co.uk/news/europe/medvedev-steps-out-from-putins-shadow-as-russia-goes-to-polls-790337.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2008/03/02/00/18236.bin)
 
 ### Related:
 

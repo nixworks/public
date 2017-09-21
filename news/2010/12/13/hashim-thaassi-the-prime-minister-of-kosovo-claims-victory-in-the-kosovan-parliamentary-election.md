@@ -8,6 +8,7 @@ Hashim Thaci, the incumbent prime minister, has claimed victory in Kosovo&#039;s
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/kosovo/8198189/Kosovo-elections-PM-wins-first-post-independence-vote.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01759/kosovoSUM_1759675a.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A gang brought down a helicopter during a police operation in Mexico&#39;s troub
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/2016/09/07/gang-shoots-down-police-helicopter-in-mexico-leaving-four-dead/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/09/07/107410942-mexico-weapons-NEWS-xlarge_trans_NvBQzQNjv4BqYFziz8YEm6VE5aYFlxYehQmhGd93AGtbpzriJupSsIs.jpg)
 
 ### Related:
 

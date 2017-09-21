@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Antara News](http://www.antaranews.com/en/news/1329594220/17-russian-troops-killed-in-caucasus-battle-minister)
+1. [Cover Image](http://img.antaranews.com/new)
 
 ### Related:
 

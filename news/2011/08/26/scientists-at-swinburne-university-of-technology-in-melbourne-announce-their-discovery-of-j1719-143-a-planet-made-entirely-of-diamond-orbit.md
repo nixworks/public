@@ -8,6 +8,7 @@ The discovery of a small, fast-spinning star known as a pulsar has led to astron
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/technology/story/2011/08/26/science-diamond-planet.html)
+1. [Cover Image](https://i.cbc.ca/1.1977814.1381472422!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-852-pulsarplanetftp.jpg)
 
 ### Related:
 

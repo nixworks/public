@@ -8,6 +8,7 @@ Residents flee scene of violence as 15 soldiers are killed in continuing clashes
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/201362471421241300.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/24/20136243937466734_20.jpg)
 
 ### Related:
 

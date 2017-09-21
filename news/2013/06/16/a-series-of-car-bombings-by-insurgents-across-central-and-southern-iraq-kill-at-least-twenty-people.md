@@ -8,6 +8,7 @@ At least 30 people have been killed in a wave of car bombings across central and
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22925436)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68199000/jpg/_68199337_68199336.jpg)
 
 ### Related:
 

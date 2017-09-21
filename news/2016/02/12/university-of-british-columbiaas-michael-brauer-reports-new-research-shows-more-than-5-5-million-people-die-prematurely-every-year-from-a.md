@@ -9,6 +9,7 @@ New research shows that more than 5.5 million people die prematurely every year 
 
 1. [The Christian Science Monitor](http://www.csmonitor.com/Environment/2016/0213/Air-pollution-blamed-for-5.5-million-deaths-each-year-but-India-and-China-see-progress)
 2. [University of British Columbia](http://news.ubc.ca/2016/02/12/poor-air-quality-kills-5-5-million-worldwide-annually/)
+2. [Cover Image](http://news.ubc.ca/wp-content/uploads/2016/02/AAAS_Air-pollution-infographic560.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Lava is flowing down the Philippines&#039; most active volcano as thousands evac
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2014-09-17/volcano-spewing-lava-in-philippines-hurries-evacuations/5751210)
+1. [Cover Image](http://www.abc.net.au/news/image/5751214-1x1-700x700.jpg)
 
 ### Related:
 

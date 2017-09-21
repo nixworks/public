@@ -18,6 +18,7 @@ Powerful storm blew into metro, killing 1, injuring 30 and putting North Side un
 9. [News Leader](http://www.news-leader.com/article/20110522/WEATHER/110522056/MoDOT-expects-44-remain-closed-both-directions-near-Joplin-several-more-hours?odyssey=mod|newswell|text|FRONTPAGE|p)
 10. [News-Leader](http://www.news-leader.com/article/20110522/WEATHER/110522050/St-John-s-Joplin-fully-evacuated-due-extensive-tornado-damage)
 11. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110523/ts_nm/us_usa_weather_tornadoes_deaths)
+11. [Cover Image](http://stmedia.stimg.co/02tornado0523.JPG?h=630&amp;w=1200&amp;fit=crop&amp;bg=999&amp;crop=faces)
 
 ### Related:
 

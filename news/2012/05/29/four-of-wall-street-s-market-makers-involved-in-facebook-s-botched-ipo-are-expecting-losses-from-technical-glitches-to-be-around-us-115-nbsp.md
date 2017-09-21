@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.wallstreetandtech.com/exchanges/240001123)
+1. [Cover Image](http://img.deusm.com/wallstreetandtechnology/wallstreet-fb-button.jpg)
 
 ### Related:
 

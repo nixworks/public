@@ -8,6 +8,7 @@ The death toll from heavy rain and flooding in southern Japan this week has rise
 ### Source:
 
 1. [AP via ''The Telegraph](http://www.telegraph.co.uk/news/2017/07/08/japanese-flooding-death-toll-rises-15/)
+1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/07/08/a131c450-91ac-4305-9745-9f711a763144-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwdCbWRXIg48_r3bhCwNyiro.jpeg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UN Globe](http://www.unglobe.org/our-issues/)
+1. [Cover Image](http://static1.squarespace.com/static/5367af22e4b0915380a1eb0a/t/578e904b3e00beb77272d3d7/1488401578565/?format=1000w)
 
 ### Related:
 

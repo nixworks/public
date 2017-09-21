@@ -9,6 +9,7 @@ Crowded airspace kept air traffic controllers from granting immediate request by
 
 1. [BBC](http://www.bbc.com/news/world-asia-30634081)
 2. [CBS](http://www.cbsnews.com/news/airasia-flight-8501-request-to-climb-initially-denied/)
+2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/12/29/c4bd81ff-2761-43f8-9824-a8abeca7245b/airasia460887340.jpg)
 
 ### Related:
 

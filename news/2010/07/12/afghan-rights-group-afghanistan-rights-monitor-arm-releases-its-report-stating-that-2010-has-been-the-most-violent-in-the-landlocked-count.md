@@ -8,6 +8,7 @@ Afghan rights group says current year has been the most violent since US-led inv
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/201071292938573363.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

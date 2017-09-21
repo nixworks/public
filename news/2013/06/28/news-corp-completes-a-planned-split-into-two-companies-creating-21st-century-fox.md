@@ -8,6 +8,7 @@ Rupert Murdoch &apos;s sprawling, $75-billion global empire has broken into two 
 ### Source:
 
 1. [LA Times](http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-news-corp-21st-century-fox-20130628,0,2975128.story)
+1. [Cover Image](http://www.trbimg.com/img-51ce0547/turbine/la-et-ct-news-corp-21st-century-fox-20130628)
 
 ### Related:
 

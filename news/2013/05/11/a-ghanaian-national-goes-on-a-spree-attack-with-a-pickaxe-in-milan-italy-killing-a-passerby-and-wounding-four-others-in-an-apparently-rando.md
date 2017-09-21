@@ -8,6 +8,7 @@ An immigrant from Ghana has gone on a rampage with a pickaxe in Milan, killing a
 ### Source:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Milan-Man-kills-1-in-pickaxe-rampage-20130511)
+1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2358/94eb466e14204fb89a0879eca4b7b31e.jpg)
 
 ### Related:
 

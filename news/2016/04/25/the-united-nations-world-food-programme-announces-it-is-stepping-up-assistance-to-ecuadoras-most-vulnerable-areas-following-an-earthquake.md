@@ -8,6 +8,7 @@ The United Nations World Food Programme (WFP) is stepping up assistance to Ecuad
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2016/04/25/un-world-food-programme-steps-up-aid-to-ecuador/)
+1. [Cover Image](http://static.euronews.com/articles/330785/1000x563_330785.jpg)
 
 ### Related:
 

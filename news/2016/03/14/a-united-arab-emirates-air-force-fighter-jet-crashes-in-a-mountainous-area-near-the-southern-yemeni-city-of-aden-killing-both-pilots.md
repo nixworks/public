@@ -8,6 +8,7 @@ Two Emirati pilots were killed when their jet crashed during a mission against H
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35800511)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/11B44/production/_88761527_88759194.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ President Hollande says Algeria crisis justifies Mali intervention as French con
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/01/2013117114015728807.html)
 2. [Reuters](http://www.reuters.com/article/2013/01/17/us-mali-rebels-idUSBRE90D0FX20130117)
+2. [Cover Image](http://www.aljazeera.com/mritems/images/2013/1/18//2013118774855734_20.jpg)
 
 ### Related:
 

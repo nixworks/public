@@ -8,6 +8,7 @@
 ### Source:
 
 1. [RTBF](http://www.rtbf.be/info/regions/detail_liege-le-bourgmestre-justifie-l-interdiction-de-distribuer-de-la-soupe-en-rue?id=7828989)
+1. [Cover Image](https://ds1.static.rtbf.be/article/image/1248x702/d/e/f/34839053e158a003d0af270cd9616212-1346222407.png)
 
 ### Related:
 

@@ -14,6 +14,7 @@ Four months ago, the Boston bombing suspect, Tamerlan Tsarnaev, who was killed y
 5. [Fox News](http://www.foxnews.com/us/2013/04/19/bombing-suspects-followed-harry-potter-hating-australian-sheikh/)
 6. [NBC News](http://usnews.nbcnews.com/_news/2013/04/19/17823265-boston-on-lockdown-as-details-pour-in-suspects-told-carjack-victim-they-were-marathon-bombers)
 7. [The Guardian](http://www.guardian.co.uk/world/2013/apr/19/boston-mit-police-dead-watertown)
+7. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

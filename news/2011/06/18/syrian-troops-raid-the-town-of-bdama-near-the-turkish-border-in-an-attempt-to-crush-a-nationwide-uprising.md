@@ -8,6 +8,7 @@ Syrian troops sweep into the town of Bdama near the Turkish border, reports say,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13822249)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53505000/jpg/_53505972_012249027-1.jpg)
 
 ### Related:
 

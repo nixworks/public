@@ -9,6 +9,7 @@ Researchers in Singapore have created a new antimicrobial material capable of ne
 
 1. [UPI](http://www.upi.com/Science_News/2016/06/06/Study-New-material-kills-E-coli-bacteria-in-30-seconds/3331465217111/?spt=hts&or=6)
 2. [Wiley Online Library](http://onlinelibrary.wiley.com/doi/10.1002/smll.201600006/abstract)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/3331465217111/2016/1/14652206601222/v2.1/Study-New-material-kills-E-coli-bacteria-in-30-seconds.jpg)
 
 ### Related:
 

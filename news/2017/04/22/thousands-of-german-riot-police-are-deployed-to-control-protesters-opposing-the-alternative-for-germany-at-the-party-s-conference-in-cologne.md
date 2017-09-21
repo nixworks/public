@@ -8,6 +8,7 @@ Thousands of leftwing demonstrators are expected to protest in Cologne, with fea
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39677510)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/C1E2/production/_95743694_colognepolice2.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Robert Edwards, the scientist known as the father of IVF for pioneering the deve
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/04/10/uk-ivf-edwards-idUKBRE9390HE20130410)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130410&t=2&i=720927015&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93910GK00)
 
 ### Related:
 

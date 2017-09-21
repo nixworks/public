@@ -10,6 +10,7 @@ At least three people are killed and dozens more trapped after a multi-storey bu
 1. [AllAfrica.com](http://allafrica.com/stories/201304020028.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21973907)
 3. [CNN](http://www.cnn.com/2013/03/29/world/africa/tanzania-building-collapse)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66666000/jpg/_66666614_photo.jpg)
 
 ### Related:
 

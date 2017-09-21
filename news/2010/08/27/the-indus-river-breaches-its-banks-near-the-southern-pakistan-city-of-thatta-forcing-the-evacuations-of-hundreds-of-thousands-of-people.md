@@ -8,6 +8,7 @@ The Indus River in southern Pakistan has breached flood defences, forcing the ev
 ### Source:
 
 1. [ABC Online and AFP](http://www.abc.net.au/news/stories/2010/08/28/2996027.htm?WT.mc_id=newsmail)
+1. [Cover Image](http://www.abc.net.au/news/image/961490-1x1-700x700.jpg)
 
 ### Related:
 

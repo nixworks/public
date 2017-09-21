@@ -8,6 +8,7 @@ U.K. Prime Minister David Cameron will set out measures intended to boost securi
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-30/cameron-to-announce-moves-to-boost-nuclear-industry-security)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

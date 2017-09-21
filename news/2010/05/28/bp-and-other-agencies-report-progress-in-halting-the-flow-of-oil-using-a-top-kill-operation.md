@@ -11,6 +11,7 @@ As BP continued its effort to gain control of its untamed deep-sea well, Preside
 2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/la-na-oil-spill-20100528,0,2239808.story)
 3. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-oil-spill-20100528,0,1234921.story)
 4. [Reuters](http://mobile.reuters.com/mobile/m/FullArticle/CTOP/ntopNews_uUSTRE6430AR20100528)
+4. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:
 

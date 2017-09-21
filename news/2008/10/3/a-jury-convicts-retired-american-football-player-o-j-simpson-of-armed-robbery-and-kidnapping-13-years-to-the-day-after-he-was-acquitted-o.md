@@ -8,6 +8,7 @@ O.J. Simpson was convicted in a Las Vegas court on 12 counts including armed rob
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2008/10/04/us/04simpson.html)
+1. [Cover Image](https://static01.nyt.com/images/2008/10/03/us/04simpson6_75.jpg)
 
 ### Related:
 

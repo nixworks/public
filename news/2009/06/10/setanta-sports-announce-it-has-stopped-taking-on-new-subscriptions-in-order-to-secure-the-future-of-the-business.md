@@ -9,3 +9,4 @@ The fate of Setanta hangs in the balance, as the stricken broadcaster tries to s
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/8092595.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0610/setanta.html)
+2. [Cover Image](https://img.rasset.ie/00025be6-1600.jpg)

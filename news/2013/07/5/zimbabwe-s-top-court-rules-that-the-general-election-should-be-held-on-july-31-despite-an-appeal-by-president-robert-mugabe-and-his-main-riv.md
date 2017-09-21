@@ -8,6 +8,7 @@ Elections to choose a new government in Zimbabwe will go ahead on July 31, the c
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/zimbabwe-sets-election-date-20130705-2pft3.html)
+1. [Cover Image](http://www.smh.com.au/content/dam/images/2/p/f/x/1/image.related.thumbnail.320x214.2pft3.png/1372991628547.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Israel intercepted and destroyed a rocket fired from Egyptian territory at the R
 ### Source:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/10239144/Israel-intercepts-rocket-fired-from-Egyptian-territory.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02400/IronDomereu_2400016k.jpg)
 
 ### Related:
 

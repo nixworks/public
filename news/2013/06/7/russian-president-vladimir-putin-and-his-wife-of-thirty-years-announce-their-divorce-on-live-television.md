@@ -8,6 +8,7 @@ Russian President Vladimir Putin and his wife Lyudmila are divorcing after 30 ye
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22806866)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68029000/jpg/_68029665_68029664.jpg)
 
 ### Related:
 

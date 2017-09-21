@@ -9,6 +9,7 @@ FOSSIL HUNTERS have done it again, unearthing a previously unknown species of di
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/sciencetoday/2010/0225/1224265137694.html)
 2. [ScienceDaily](http://www.sciencedaily.com/releases/2010/02/100223161829.htm)
+2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

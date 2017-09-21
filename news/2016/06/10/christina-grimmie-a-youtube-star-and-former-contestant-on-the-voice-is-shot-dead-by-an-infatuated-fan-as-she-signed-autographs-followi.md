@@ -8,6 +8,7 @@ The investigation into the shooting death of The Voice star Christina Grimmie ha
 ### Source:
 
 1. [Orlando Police Department via WKMG-TV](http://www.clickorlando.com/news/investigation-into-christina-grimmies-shooting-death-closed)
+1. [Cover Image](https://media.clickorlando.com/photo/2016/06/11/Christina%20Grimmie%201994-201620160611225755_7118075_ver1.0_1280_720.jpg)
 
 ### Related:
 

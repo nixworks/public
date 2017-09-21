@@ -10,6 +10,7 @@ United Russia, the governing party of Prime Minister Vladimir V. Putin, suffered
 1. [LA Times via ''Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2016928208_russiaelections04.html)
 2. [New York Times](http://www.nytimes.com/2011/12/05/world/europe/russians-vote-governing-party-claims-early-victory.html)
 3. [Reuters](http://www.reuters.com/article/2011/12/04/us-russia-election-idUSTRE7B019B20111204)
+3. [Cover Image](https://static01.nyt.com/images/2011/12/05/world/europe/05russia4/05russia4-thumbStandard-v2.jpg)
 
 ### Related:
 

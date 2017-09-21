@@ -9,6 +9,7 @@
 
 1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/379114/vietnam-evacuates-600000)
 2. [Weatherzone Australia](http://www.weatherzone.com.au/news/police-chief-says-least-10-000-dead-in-philippines-as-super-typhoon-haiyan-approaches-vietnam/25865)
+2. [Cover Image](http://wz5.resources.weatherzone.com.au/images/logos/wz-512x512.jpg)
 
 ### Related:
 

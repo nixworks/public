@@ -8,6 +8,7 @@ A Yemeni security chief survived an assassination attempt on Saturday in the sou
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/02/23/us-yemen-south-clashes-idUSBRE91M05O20130223)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130223&t=2&i=706800399&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91M1DSJ00)
 
 ### Related:
 

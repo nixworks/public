@@ -8,6 +8,7 @@ Venezuela says it will pay Exxon Mobil $255m in compensation for nationalised as
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16381730)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57650000/jpg/_57650455_136041940.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A top judge in Swaziland, Thomas Masuku, has been suspended for allegedly insult
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13980535)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53620000/jpg/_53620200_king.jpg)
 
 ### Related:
 

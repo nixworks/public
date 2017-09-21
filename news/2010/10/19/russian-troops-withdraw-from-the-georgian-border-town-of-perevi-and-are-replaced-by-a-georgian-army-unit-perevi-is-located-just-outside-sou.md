@@ -9,6 +9,7 @@ Russian troops withdraw from a Georgian town which they have occupied since a br
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11570787)
 2. [Zee News](http://www.zeenews.com/news662255.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

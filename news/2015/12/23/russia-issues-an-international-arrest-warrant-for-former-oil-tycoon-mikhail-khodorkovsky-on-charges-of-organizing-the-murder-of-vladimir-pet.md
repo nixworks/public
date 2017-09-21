@@ -8,6 +8,7 @@ Former oil tycoon says order to have him arrested in absentia over alleged murde
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2015/dec/23/russia-issues-international-arrest-warrant-for-putin-critic-khodorkovsky)
+1. [Cover Image](https://i.guim.co.uk/img/media/3b845ba98ee0ff11ff47d38c20496c1d300d0b50/0_28_3669_2197/master/3669.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=19d146663c3bd15e4f3110d58eca1111)
 
 ### Related:
 

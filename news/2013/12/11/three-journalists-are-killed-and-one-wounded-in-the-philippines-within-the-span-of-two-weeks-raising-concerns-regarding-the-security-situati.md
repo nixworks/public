@@ -8,6 +8,7 @@ Mindanao broadcaster Rogelio Butalib shot dead, marking the third fatal attack a
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/12/journalists-targeted-philippines-201312118258914968.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/12/11/20131211836468580_20.jpg)
 
 ### Related:
 

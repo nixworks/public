@@ -8,6 +8,7 @@ NASA completed its part in the construction of the International Space Station o
 ### Source:
 
 1. [Space via MSNBC](http://www.msnbc.msn.com/id/43190007/ns/technology_and_science-space/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/ap/space shuttle-1979463555_v2.standard.jpg)
 
 ### Related:
 

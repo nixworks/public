@@ -8,6 +8,7 @@ Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the 
 ### Source:
 
 1. [AP/Reuters via Aus. Broadcasting Corp.](http://www.abc.net.au/news/2017-06-09/japan-emeperor-akihito-first-to-abdicate-in-200-years/8605342)
+1. [Cover Image](http://www.abc.net.au/news/image/8605478-1x1-700x700.jpg)
 
 ### Related:
 

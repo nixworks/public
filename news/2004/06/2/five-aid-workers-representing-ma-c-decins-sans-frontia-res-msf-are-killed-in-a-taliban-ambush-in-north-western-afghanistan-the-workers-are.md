@@ -9,6 +9,7 @@ Médecins Sans Frontières (MSF) is an international, independent, medical human
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3770999.stm)
 2. [MSF Press Release](http://www.msf.org/countries/page.cfm?articleid=42321CB8-D3C1-46D4-8E51D8FB3EE593E2)
+2. [Cover Image](http://www.msf.org/ensites/msf.org/themes/custom/msf_org_zen/images/logo-fb.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Witnesses who called 911 after the crash of a charter bus that killed at least 1
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/26085940/)
+1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Photo/_new/080809-bus-hmed-6p.standard.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ Emergency services search for survivors after a deadly blast at a fertiliser pla
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-22204391)
 2. [CNN](http://www.cnn.com/2013/04/18/us/texas-explosion)
 3. [The Washington Post](http://www.washingtonpost.com/world/national-security/fertilizer-plant-explosion-leaves-more-than-100-wounded-in-central-texas/2013/04/18/14fa7cb2-a7ef-11e2-a8e2-5b98cb59187f_story.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67091000/jpg/_67091422_h5gtoon5.jpg)
 
 ### Related:
 

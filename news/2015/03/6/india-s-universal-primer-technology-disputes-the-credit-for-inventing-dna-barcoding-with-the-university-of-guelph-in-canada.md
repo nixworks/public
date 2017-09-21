@@ -9,6 +9,7 @@ Bengaluru : A technique used globally for DNA-based identification of animal spe
 
 1. [IBN7](http://www.ibn7.com/biotech/item/86981-indian-scientists-peeved-over-credit-grab)
 2. [Nature India](http://www.natureasia.com/en/nindia/article/10.1038/nindia.2015.20)
+2. [Cover Image](http://ibn7.com/media/k2/items/cache/afb7b17d3a0b2b6c137ff860cec8f43a_M.jpg)
 
 ### Related:
 

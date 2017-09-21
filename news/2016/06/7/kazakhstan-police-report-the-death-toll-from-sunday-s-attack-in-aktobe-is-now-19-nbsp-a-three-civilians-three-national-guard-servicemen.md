@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-kazakhstan-shooting-toll-idUSKCN0YT0M3?il=0)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160607&t=2&i=1140290310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC560A2)
 
 ### Related:
 

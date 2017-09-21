@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Opinion](http://www.law.cornell.edu/supremecourt/text/11-345)
+1. [Cover Image](https://www.law.cornell.edu/images/liibracketlogo.gif)
 
 ### Related:
 

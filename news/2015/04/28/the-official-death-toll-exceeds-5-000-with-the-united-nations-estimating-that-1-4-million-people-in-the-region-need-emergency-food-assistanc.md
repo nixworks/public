@@ -9,6 +9,7 @@ An official says 250 people are believed missing following a mudslide and avalan
 
 1. [AP via News24](http://www.news24.com/news24/World/News/250-feared-missing-after-mudslide-in-Nepal-village-20150428)
 2. [CNN](http://edition.cnn.com/2015/04/28/asia/nepal-earthquake/index.html?eref=edition)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/383/c135d341a6df497eb086c4990d8370d4.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Federal Indigenous Affairs Minister Mal Brough says the passing of the Commonwea
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/17/2008393.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/79876-1x1-700x700.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ DONETSK, Ukraine (Reuters) - Ukrainian government warplanes carried out airstrik
 
 1. [Irish Times](http://www.irishtimes.com/news/world/europe/ukraine-launches-air-strikes-against-airport-rebels-1.1809561)
 2. [Reuters via ''Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-ukraine-crisis-airport-20140526,0,5247597.story)
+2. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)
 
 ### Related:
 

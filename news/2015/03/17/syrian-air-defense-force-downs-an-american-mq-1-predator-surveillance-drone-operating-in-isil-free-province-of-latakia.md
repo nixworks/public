@@ -8,6 +8,7 @@ The Pentagon is yet to officially acknowledge the downing of a surveillance dron
 ### Source:
 
 1. [RT](http://rt.com/usa/242065-us-drone-downed-syria/)
+1. [Cover Image](https://img.rt.com/files/news/3b/19/10/00/us-drone-downed-syria.si.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Up to 69 people, many of them children, reported to have died in rocket attack o
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/2012425223022589689.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/25/2012425204817433734_20.jpg)
 
 ### Related:
 

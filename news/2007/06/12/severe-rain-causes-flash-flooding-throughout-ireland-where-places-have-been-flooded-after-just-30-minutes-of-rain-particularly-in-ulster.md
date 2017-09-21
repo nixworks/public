@@ -11,6 +11,7 @@ Northern Ireland Water has set up major emergency incident teams in Belfast and 
 2. [Irish Independent](http://www.independent.ie/breaking-news/national-news/belfast-shopping-area-swamped-as-floods-hit-north-700777.html)
 3. [RTÉ](http://www.rte.ie/news/2007/0612/niwater.html?rss)
 4. [UTV](http://u.tv/newsroom/indepth.asp?id=82896&pt=n)
+4. [Cover Image](https://img.rasset.ie/0000e6da-1600.jpg)
 
 ### Related:
 

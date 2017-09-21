@@ -9,6 +9,7 @@ At least 37 civilians and members of Afghan security forces have been killed and
 
 1. [Irish Times](http://www.irishtimes.com/news/crime-and-law/death-toll-in-afghanistan-airport-siege-climbs-to-50-1.2461358)
 2. [Reuters](http://www.reuters.com/article/us-afghanistan-taliban-airport-casualtie-idUSKBN0TS19H20151209?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151209&t=2&i=1101024126&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB80KF)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/malala-yousafzai-to-get-honorary-canadian-citizenship-1.2055704)
+1. [Cover Image](https://i.cbc.ca/1.1931411.1381333777!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/malala-red-852.jpg)
 
 ### Related:
 

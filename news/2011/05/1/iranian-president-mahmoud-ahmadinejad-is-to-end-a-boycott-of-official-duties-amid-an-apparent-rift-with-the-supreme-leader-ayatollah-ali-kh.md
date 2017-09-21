@@ -9,6 +9,7 @@ Mahmoud Ahmadinejad has been boycotting cabinet sessions since intelligence mini
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115155428631352.html)
 2. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_663481.html)
+2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/1/2011516215983621_20.jpg)
 
 ### Related:
 

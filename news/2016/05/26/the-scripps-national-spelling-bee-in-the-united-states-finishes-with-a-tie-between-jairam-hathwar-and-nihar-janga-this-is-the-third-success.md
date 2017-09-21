@@ -8,6 +8,7 @@ Rolling report: Ten youngsters compete for spelling’s top prize before a natio
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/sport/live/2016/may/26/scripps-national-spelling-bee-2016-finals-live)
+1. [Cover Image](https://i.guim.co.uk/img/media/1c5bb02b8abd2ca7463510e4777419451017c68c/0_86_3500_2099/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7ddcfbecb4f377ed174d7682065fbdc5)
 
 ### Related:
 

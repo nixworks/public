@@ -9,6 +9,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 1. [CNN](http://www.cnn.com/2004/WORLD/meast/12/01/iraq.main/index.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6973206)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

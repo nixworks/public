@@ -8,6 +8,7 @@ A human rights organization says it has collected evidence of two previously unr
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/09/06/us-usa-libya-torture-idUSBRE88507W20120906)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120906&t=2&i=649898511&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8850HIO00)
 
 ### Related:
 

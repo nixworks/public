@@ -9,6 +9,7 @@ POWERFUL explosions have again rocked the area around the residence of Libyan le
 
 1. [AFP via News Limited](http://www.news.com.au/breaking-news/tripoli-pounded-colonel-gaddafis-libya-home-rocked/story-e6frfku0-1226071605257)
 2. [Sky News](http://news.sky.com/skynews/Article/201009116007648)
+2. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A deal to keep disqualified drivers off the roads in the whole of Ireland and Br
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/northern_ireland_politics/7475500.stm)
 2. [RTÉ](http://www.rte.ie/news/2008/0626/transport.html)
+2. [Cover Image](https://img.rasset.ie/00018ee2-1600.jpg)
 
 ### Related:
 

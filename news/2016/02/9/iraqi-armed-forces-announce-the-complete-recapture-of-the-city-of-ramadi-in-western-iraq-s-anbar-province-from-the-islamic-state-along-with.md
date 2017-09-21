@@ -9,6 +9,7 @@ Iraq said its military completely recaptured the city of Ramadi, reopening a roa
 
 1. [Iraqi News](http://www.iraqinews.com/iraq-war/iraqi-media-war-cell-declares-fully-liberation-of-ramadi-opening-ramadi-baghdad-road/)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/02/09/Iraqi-troops-fully-capture-Ramadi-reopen-road-to-Baghdad/1371455053155/)
+2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/1371455053155/2016/1/e3b59656f7a1716342d77711685ef9b3/v1.5/Iraqi-troops-fully-capture-Ramadi-reopen-road-to-Baghdad.jpg)
 
 ### Related:
 

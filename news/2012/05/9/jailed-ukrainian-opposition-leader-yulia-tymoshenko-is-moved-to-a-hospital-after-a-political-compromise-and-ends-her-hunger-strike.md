@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2012/05/09/uk-ukraine-tymoshenko-idUKBRE8480I020120509)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20120509&t=2&i=604884874&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-05-09T135315Z_1_CBRE84812KT00_RTROPTP_0_EU-UKRAINE)
 
 ### Related:
 

@@ -9,6 +9,7 @@ An estimated 5,000 same-sex marriage supporters have marched in Dublin to show t
 
 1. [RTÉ](http://www.rte.ie/news/2009/0809/civilpartnership.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0809/breaking39.htm)
+2. [Cover Image](https://img.rasset.ie/0002802f-1600.jpg)
 
 ### Related:
 

@@ -13,6 +13,7 @@ A top judge in Brazil ruled on Friday that Luiz Inacio Lula da Silva should be s
 4. [The Globe and  Mail](http://www.theglobeandmail.com/news/world/brazilian-protesters-hit-with-water-cannons-tear-gas-as-impeachment-session-starts/article29288144/)
 5. [The Washington Post](https://www.washingtonpost.com/world/big-crowds-demonstrate-in-brazil-in-solidarity-with-embattled-government/2016/03/18/a893a9ca-ed11-11e5-a9ce-681055c7a05f_story.html)
 6. [Toronto Star](http://www.thestar.com/news/world/2016/03/18/brazil-impeachment-gains-speed-as-lulas-job-challenged-in-court.html)
+6. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160318&t=2&i=1125865743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2H0V0)
 
 ### Related:
 

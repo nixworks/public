@@ -4,7 +4,7 @@
 _Context: Khaled al-Harbi, Osama bin Laden, Saudi, Sheikh, Tehran, al-Qaeda, amnesty_
 
 ### [ Al Jazeera television reports that a Bulgarian hostage held in Iraq by suspected al-Qaeda ally Abu Musab al-Zarqawi has been executed. A video tape of the murder was provided to Al Jazeera. The group vows to execute another hostage within 24 hours. ](/news/2004/07/13/al-jazeera-television-reports-that-a-bulgarian-hostage-held-in-iraq-by-suspected-al-qaeda-ally-abu-musab-al-zarqawi-has-been-executed-a-vi.md)
-_Context: Abu Musab al-Zarqawi, Al Jazeera, Bulgaria, Iraqi resistance, al-Qaeda_
+_Context: Abu Musab al-Zarqawi, Al Jazeera, Bulgaria, al-Qaeda, rebel-held_
 
 ### [ The United States Department of State adds the Continuity Irish Republican Army (CIRA) to its list of foreign terrorist organisations, which means that CIRA assets in the US will be frozen and visas denied to members of CIRA. ](/news/2004/07/13/the-united-states-department-of-state-adds-the-continuity-irish-republican-army-cira-to-its-list-of-foreign-terrorist-organisations-whic.md)
 _Context: Continuity Irish Republican Army, State Department, terrorism_

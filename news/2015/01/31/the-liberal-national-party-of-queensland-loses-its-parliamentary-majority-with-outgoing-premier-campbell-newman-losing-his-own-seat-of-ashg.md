@@ -8,6 +8,7 @@ Labor looks set to pull off a stunning victory in a cliffhanger Queensland elect
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-02-01/queensland-election-2015-labor-set-to-pull-off-stunning-victory/6060156)
+1. [Cover Image](http://www.abc.net.au/news/image/6060344-1x1-700x700.jpg)
 
 ### Related:
 

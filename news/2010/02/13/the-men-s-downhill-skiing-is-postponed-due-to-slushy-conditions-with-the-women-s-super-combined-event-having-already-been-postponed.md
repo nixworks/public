@@ -12,3 +12,4 @@ Vancouvers Olympic troubles continued on Saturday as the mens downhill skiing ev
 3. [BBC](http://news.bbc.co.uk/sport2/hi/olympic_games/vancouver_2010/luge/8513794.stm)
 4. [Sky Sports](http://www.skysports.com/story/0,19528,12040_5947136,00.html)
 5. [The Times](http://www.timesonline.co.uk/tol/sport/olympics/article7026060.ece)
+5. [Cover Image](http://e0.365dm.com/10/02/150x150/skiing_2419272.jpg?20100213130213)

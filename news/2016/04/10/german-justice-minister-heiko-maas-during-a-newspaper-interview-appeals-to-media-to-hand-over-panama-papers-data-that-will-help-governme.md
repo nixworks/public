@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-panama-tax-germany-idUSKCN0X70KU)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160410&t=2&i=1131701840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC390FH)
 
 ### Related:
 

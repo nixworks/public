@@ -8,6 +8,7 @@ At least 11 children were killed in Damascus when mortars fell on a school in an
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSKBN0IP1J320141105?irpc=932)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

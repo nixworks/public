@@ -8,6 +8,7 @@ At least 12 people were killed and 27 injured as hailstones, lashing rain and ga
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8457471/12-killed-in-China-hailstorm.html)
+1. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:
 

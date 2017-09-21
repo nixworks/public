@@ -10,6 +10,7 @@
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11297880)
 2. [Bloomberg](http://www.bloomberg.com/news/2010-09-14/ex-ukraine-minister-kravchenko-ordered-reporter-s-murder-prosecutor-says.html)
 3. [UNIAN](http://unian.net/eng/news/news-395761.html)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

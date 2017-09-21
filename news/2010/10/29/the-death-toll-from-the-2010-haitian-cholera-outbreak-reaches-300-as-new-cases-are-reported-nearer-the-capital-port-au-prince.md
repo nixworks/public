@@ -8,6 +8,7 @@ New suspected cholera cases in Haiti raise fears that the epidemic is moving clo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11649479)
+1. [Cover Image](http://playlists.bbc.co.uk/news/world-latin-america-11649479A/playlist.sxml)
 
 ### Related:
 

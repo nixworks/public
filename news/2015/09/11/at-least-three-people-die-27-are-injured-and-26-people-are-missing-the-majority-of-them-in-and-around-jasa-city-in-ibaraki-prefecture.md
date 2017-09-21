@@ -9,6 +9,7 @@ Floods that swept housesoff their foundations and crushed others under landslide
 
 1. [Reuters](http://www.reuters.com/article/2015/09/11/weather-japan-floods-idUSL4N11H0FG20150911)
 2. [The Independent-UK](http://www.independent.co.uk/news/world/asia/japan-floods-three-dead-and-dozens-missing-in-typhoon-etau-aftermath-10496069.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

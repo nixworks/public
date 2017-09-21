@@ -8,6 +8,7 @@ Crucial evidence from the 1989 Hillsborough football disaster, which was undermi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22566230)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63007000/jpg/_63007729_hills12_89198s.jpg)
 
 ### Related:
 

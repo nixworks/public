@@ -12,6 +12,7 @@ More than 100,000 protesters took to the streets in Spain on Sunday blaming bank
 3. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE75I1JS20110619)
 4. [The Age](http://news.theage.com.au/breaking-news-world/100000-in-spain-anticrisis-protest-20110620-1gahk.html)
 5. [The Financial Times](http://www.ft.com/cms/s/0/26d4bec6-9a99-11e0-bab2-00144feab49a.html)
+5. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)
 
 ### Related:
 

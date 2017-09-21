@@ -8,6 +8,7 @@ A 13-year-old American boy became the youngest climber to reach the top of Mount
 ### Source:
 
 1. [AP via ESPN](http://sports.espn.go.com/espn/news/story?id=5210158)
+1. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2008%2F0110%2Fespn_g_everest_sq_300.jpg)
 
 ### Related:
 

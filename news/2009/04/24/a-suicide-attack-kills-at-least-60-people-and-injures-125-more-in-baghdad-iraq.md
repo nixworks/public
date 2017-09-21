@@ -8,6 +8,7 @@ Two suicide bombers have blown themselves up at the gates of a revered Shiite Mu
 ### Source:
 
 1. [Reuters](http://www.abc.net.au/news/stories/2009/04/24/2552295.htm)
+1. [Cover Image](http://www.abc.net.au/news/image/1663228-1x1-700x700.jpg)
 
 ### Related:
 

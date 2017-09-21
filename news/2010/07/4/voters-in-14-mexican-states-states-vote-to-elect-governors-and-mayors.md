@@ -10,6 +10,7 @@ Opposition party set to gain from frustration over drug violence and weak econom
 1. [Aljazeera](http://english.aljazeera.net//news/americas/2010/07/201074164958397980.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/world/latin_america/10502444.stm)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Mexico-Goes-To-The-Polls-After-Drug-Cartels-Attempt-To-Influence-Electoral-Campaigns/Article/201007115659270?lpos=World_News_First_Home_Article_Teaser_Region_5&lid=ARTICLE_15659270_Mexico_Goes_To_The_Polls_Afte)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

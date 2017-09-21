@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Frankfurter Allgemeine Zeitung](http://www.faz.net/aktuell/politik/inland/schwesig-in-schwerin-zur-regierungschefin-ernannt-15090606.html)
+1. [Cover Image](http://media1.faz.net/ppmedia/aktuell/3992852326/1.5090641/article_multimedia_overview/leistet-den-amtseid-manuela.jpg)
 
 ### Related:
 

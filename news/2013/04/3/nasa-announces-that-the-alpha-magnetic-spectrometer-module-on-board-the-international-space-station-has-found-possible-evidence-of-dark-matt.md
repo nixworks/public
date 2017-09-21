@@ -9,6 +9,7 @@ The Alpha Magnetic Spectrometer (AMS) on the International Space Station may hav
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22016504)
 2. [Space.com](http://www.space.com/20490-dark-matter-discovery-space-experiment.html)
+2. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwOS83NjQvb3JpZ2luYWwvczEzNGUwMDczNzEuanBn)
 
 ### Related:
 

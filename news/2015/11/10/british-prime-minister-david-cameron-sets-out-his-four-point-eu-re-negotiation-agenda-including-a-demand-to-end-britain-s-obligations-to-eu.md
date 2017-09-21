@@ -8,6 +8,7 @@ Prime minister to set out reforms to European council president, with commitment
 ### Source:
 
 1. [Guardian](http://www.theguardian.com/politics/2015/nov/10/david-cameron-prepares-for-battle-with-eu-allies-over-resolvable-aims)
+1. [Cover Image](https://i.guim.co.uk/img/media/e949cee476b26433d147c516ca568a62f4486e42/0_147_3500_2099/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=74362502bcacdb6c45b3dcf937a60eec)
 
 ### Related:
 

@@ -8,6 +8,7 @@ At least nine people are killed in a car bomb attack on police headquarters in t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16893697)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58305000/jpg/_58305494_013919030-2.jpg)
 
 ### Related:
 

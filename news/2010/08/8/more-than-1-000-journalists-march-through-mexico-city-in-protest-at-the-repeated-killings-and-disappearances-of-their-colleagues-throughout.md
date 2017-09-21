@@ -8,6 +8,7 @@ Journalists gather to demand greater freedoms and protection amid escalating dru
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201087221227991917.html)
+1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ A court in Brazil has sentenced 23 police officers to 156 years in jail each for
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22240536)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67145000/jpg/_67145830_67145829.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ More than 40 people are killed and 100 are wounded in a series of bomb attacks o
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107717324072400.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/world/middle_east/10547390.stm)
 3. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/07/iraq.violence/index.html?hpt=T1&fbid=4QLKZts5sqT)
+3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Militants killed at least three people today and wounded 17 when they fired on a
 ### Source:
 
 1. [AFP via NDTV](http://www.ndtv.com/article/world/egypt-militants-kill-three-people-in-sinai-bus-attack-392266)
+1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The International Olympic Committee ended the once stellar Olympic career of U.S
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/domesticNews/idUSL1220829120071212)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071212&t=2&i=2470267&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-12-12T182602Z_01_L12208291_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

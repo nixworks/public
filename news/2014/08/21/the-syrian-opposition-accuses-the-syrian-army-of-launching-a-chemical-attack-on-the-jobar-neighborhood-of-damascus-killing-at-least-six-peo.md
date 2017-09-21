@@ -8,6 +8,7 @@ ARA News Damascus, Syria – The Syrian opposition accused military forces loyal
 ### Source:
 
 1. [Arabnews](http://aranews.net/2014/08/syrian-regime-launchs-chemical-attack-jobar-damascus-opposition/)
+1. [Cover Image](http://aranews.net/wp-content/uploads/2014/08/a82.jpg)
 
 ### Related:
 

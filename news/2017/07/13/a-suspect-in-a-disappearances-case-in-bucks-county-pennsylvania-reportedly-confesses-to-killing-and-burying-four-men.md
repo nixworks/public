@@ -9,3 +9,4 @@ A 20-year-old man has confessed to killing four men who were missing for days an
 
 1. [Fox News](http://www.foxnews.com/us/2017/07/14/second-person-interest-in-pennsylvania-murders-reportedly-in-custody.html)
 2. [Reuters](http://www.reuters.com/article/us-pennsylvania-crime-idUSKBN19Y1NT)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20170713&t=2&i=1192837387&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6C15M)

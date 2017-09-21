@@ -8,6 +8,7 @@ A powerful earthquake hit southwest Pakistan on Wednesday, geologists said, but 
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8268148/Powerful-earthquake-shakes-Pakistan.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01806/earthquake_1806408a.jpg)
 
 ### Related:
 

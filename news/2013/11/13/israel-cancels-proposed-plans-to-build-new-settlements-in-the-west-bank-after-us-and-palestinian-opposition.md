@@ -8,6 +8,7 @@ The Israeli prime minister says he has ordered his housing minister to reconside
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/11/12/israel-stops-plans-to-explore-new-settlements/)
+1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/11/12/israel-stops-plans-to-explore-new-settlements/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422673646471.jpg?ve=1)
 
 ### Related:
 

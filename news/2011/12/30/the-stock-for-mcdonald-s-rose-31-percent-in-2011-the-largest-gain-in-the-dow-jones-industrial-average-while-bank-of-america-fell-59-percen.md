@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://money.cnn.com/2011/12/30/markets/biggest_losers_winners/index.htm?hpt=hp_t3)
+1. [Cover Image](http://i2.cdn.turner.com/money/2011/12/30/markets/biggest_losers_winners/mcdonalds.gi.01.jpg)
 
 ### Related:
 

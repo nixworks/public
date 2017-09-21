@@ -8,6 +8,7 @@ President Hugo Chávez won re-election on Sunday, facing down the strongest elec
 ### Source:
 
 1. [New York Times](http://www.nytimes.com/2012/10/08/world/americas/venezuela-presidential-election.html?hp)
+1. [Cover Image](https://static01.nyt.com/images/2012/10/09/world/americas/2-sub-Venezuela-A1/2-sub-Venezuela-A1-superJumbo.jpg)
 
 ### Related:
 

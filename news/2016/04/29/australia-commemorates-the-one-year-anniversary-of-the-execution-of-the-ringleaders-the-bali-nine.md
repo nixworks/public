@@ -8,6 +8,7 @@ A long-term guard and former inmates of Kerobokan speak of their loss, one year 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-04-29/bali-nine-one-year-anniversary-of-sukumaran-and-chan-execution/7369050)
+1. [Cover Image](http://www.abc.net.au/news/image/6453572-1x1-700x700.jpg)
 
 ### Related:
 

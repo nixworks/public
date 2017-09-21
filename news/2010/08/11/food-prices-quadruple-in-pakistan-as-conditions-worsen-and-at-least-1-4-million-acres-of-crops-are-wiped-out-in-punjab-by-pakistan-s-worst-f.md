@@ -13,6 +13,7 @@ The United Nations on Wednesday warned of a second wave of deaths from floods in
 4. [The Guardian](http://www.guardian.co.uk/politics/2010/aug/11/gordon-brown-appeal-pakistan-flood)
 5. [Voice of America](http://www1.voanews.com/english/news/UN-Readies-Emergency-Aid-Appeal-for-Pakistan-100425919.html)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/11/c_13440660.htm)
+6. [Cover Image](http://c1608832.cdn.cloudfiles.rackspacecloud.com/AmpersandforFB.gif)
 
 ### Related:
 

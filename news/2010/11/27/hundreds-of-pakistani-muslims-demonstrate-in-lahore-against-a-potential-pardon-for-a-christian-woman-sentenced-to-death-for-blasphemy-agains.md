@@ -8,6 +8,7 @@ PAKISTANI Muslims have threatened anarchy if the Government pardons a Christian 
 ### Source:
 
 1. [news.com.au](http://www.news.com.au/breaking-news/muslims-warn-of-anarchy-if-christian-mother-pardoned/story-e6frfku0-1225961791358)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

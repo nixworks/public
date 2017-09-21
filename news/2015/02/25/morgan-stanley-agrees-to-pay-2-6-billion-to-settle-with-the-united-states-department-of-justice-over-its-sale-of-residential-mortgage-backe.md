@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-02-25/morgan-stanley-reaches-2-6-billion-mortgage-accord-with-u-s-)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

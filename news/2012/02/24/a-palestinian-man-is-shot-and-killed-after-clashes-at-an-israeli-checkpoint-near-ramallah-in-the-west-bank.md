@@ -8,6 +8,7 @@ A Palestinian man has died after being injured in clashes at an Israeli army che
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17161891)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58712000/jpg/_58712083_hebron.jpg)
 
 ### Related:
 

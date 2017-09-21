@@ -8,6 +8,7 @@ Russia and Finland agreed on Tuesday to impose temporary restrictions at two Arc
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-europe-migrants-finland-russia-idUSKCN0WO32P)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160322&t=2&i=1126978755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2L1MU)
 
 ### Related:
 

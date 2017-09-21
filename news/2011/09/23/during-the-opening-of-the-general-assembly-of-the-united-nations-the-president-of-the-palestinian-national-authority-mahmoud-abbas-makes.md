@@ -10,6 +10,7 @@ The Middle East Quartet urges Israel and the Palestinians to resume peace talks 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15044601)
 2. [Sky News](http://news.sky.com/home/world-news/article/16075492)
 3. [Washington Post](http://www.washingtonpost.com/world/middle-east/israel-palestinians-dig-into-positions-ahead-of-palestinian-statehood-bid/2011/09/23/gIQAs8WWpK_story.html)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55560000/jpg/_55560693_012996147-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Embattled Australian Prime Minister Tony Abbott said he will fight a challenge t
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/06/us-australia-politics-leadership-idUSKBN0LA07Z20150206)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150206&t=2&i=1022839900&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB15038)
 
 ### Related:
 

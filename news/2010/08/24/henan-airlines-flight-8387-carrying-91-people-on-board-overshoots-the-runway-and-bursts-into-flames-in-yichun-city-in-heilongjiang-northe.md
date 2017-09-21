@@ -10,6 +10,7 @@ At least 42 people have been killed after a passenger plane crashes in the north
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jmDoyJoJq0Nvcw45kQwl-JmAXPTAD9HQ07300)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11076816)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/25/c_13460361.htm)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48856000/jpg/_48856489_010031915-1.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The prime minister said he would dissolve the Islamist-led government after a po
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2013/02/07/world/africa/chokri-belaid-tunisian-opposition-figure-is-killed.html)
+1. [Cover Image](https://static01.nyt.com/images/2013/02/07/world/tunisia1/tunisia1-videoLarge.jpg)
 
 ### Related:
 

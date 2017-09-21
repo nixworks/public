@@ -9,6 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/B9E0FAF2-B4D3-4A69-93FA-749FAC6CC520.htm)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/05/29/AR2006052900284.html)
+2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 

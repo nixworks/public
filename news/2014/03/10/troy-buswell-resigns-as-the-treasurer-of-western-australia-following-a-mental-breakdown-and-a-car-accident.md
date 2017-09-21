@@ -8,3 +8,4 @@ TREASURER Troy Buswell, 47, has suffered a mental health breakdown and has resig
 ### Source:
 
 1. [Perth Now](http://www.perthnow.com.au/news/western-australia/troy-buswell-suffers-mental-breakdown-quits-cabinet/story-fnhocxo3-1226850029901)
+1. [Cover Image](http://api.news.com.au/content/1.0/couriermail/images/1226850171380?format=jpg)

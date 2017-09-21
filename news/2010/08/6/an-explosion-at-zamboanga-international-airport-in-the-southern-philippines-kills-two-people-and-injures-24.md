@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10889355)
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20100806-285183/2-killed-in-Zamboanga-airport-blast)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

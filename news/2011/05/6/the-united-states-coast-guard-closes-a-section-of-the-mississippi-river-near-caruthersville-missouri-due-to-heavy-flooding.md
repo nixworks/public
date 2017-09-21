@@ -9,6 +9,7 @@ Historic flooding forced the U.S. Coast Guard to shut down commercial traffic on
 
 1. [CNN](http://www.cnn.com/2011/US/05/06/midwest.flooding/index.html)
 2. [WDSU](http://www.wdsu.com/news/27807947/detail.html#ixzz1LcVMwL65)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/05/06/midwest.flooding/tzvids.flooding.gi.jpg)
 
 ### Related:
 

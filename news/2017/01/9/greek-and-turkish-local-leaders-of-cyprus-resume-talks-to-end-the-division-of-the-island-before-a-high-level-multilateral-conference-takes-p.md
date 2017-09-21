@@ -8,6 +8,7 @@ Turkish and Greek Cypriot officials say first direct negotiations since 1974 are
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jan/09/talks-to-secure-cyprus-reunification-enter-final-stages)
+1. [Cover Image](https://i.guim.co.uk/img/media/fd7f06f835e7e581f082c1ca8c08f59c894a41cb/0_284_3940_2364/master/3940.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8117e83dda1c9e5ecaca7c514b4c4391)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Siti Aisyah and Doan Thi Huong face a mandatory death sentence if convicted
 
 1. [CNN](http://edition.cnn.com/2017/02/28/asia/kim-jong-nam-murder-charges/index.html)
 2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/north-korean-diplomats-in-malaysia-seek-kim-jong-nams-body/article34157158/)
+2. [Cover Image](http://static.theglobeandmail.ca/02d/opinion/editorials/article34114515.ece/ALTERNATES/w620/TOK002R-CNEWS-US-NORTHKOREA.JPG)
 
 ### Related:
 

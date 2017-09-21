@@ -10,3 +10,4 @@ MET Eireann was the focus of public anger today as heavy falls of fresh snow cam
 1. [Evening Herald](http://www.herald.ie/national-news/city-news/public-anger-at-met-eireann-as-fresh-snow-falls-cause-more-chaos-2450856.html)
 2. [RTÉ](http://www.rte.ie/news/2010/1207/weather.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1207/breaking4.html)
+3. [Cover Image](http://www.herald.ie/editorial/facebook_share_logos/herald.png)

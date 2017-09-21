@@ -8,6 +8,7 @@ Norway&#039;s Nobel Peace Prize committee demotes its controversial chairman Tho
 ### Source:
 
 1. [AFP via ABC](http://www.abc.net.au/news/2015-03-04/nobel-peace-committee-demotes-controversial-head/6278812)
+1. [Cover Image](http://www.abc.net.au/news/image/6278842-1x1-700x700.jpg)
 
 ### Related:
 

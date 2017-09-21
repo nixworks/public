@@ -8,6 +8,7 @@ Benjamin Netanyahu signed a coalition pact with upstart political movements to e
 ### Source:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/9933618/Israel-government-formed-in-time-for-Barack-Obama-visit.html)
+1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02511/Netanyahu-deal_2511098k.jpg)
 
 ### Related:
 

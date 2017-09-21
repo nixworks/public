@@ -8,6 +8,7 @@ US secretary of state says meetings in Havana with guerrillas still on Washingto
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/mar/22/john-kerry-unprecedented-peace-talks-colombia-farc-rebels-havana)
+1. [Cover Image](https://i.guim.co.uk/img/media/5a8c0cf098361b0fef82fad18a66893b2dad410e/0_121_3500_2101/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d45283234e5328e9d7f524895122fd15)
 
 ### Related:
 

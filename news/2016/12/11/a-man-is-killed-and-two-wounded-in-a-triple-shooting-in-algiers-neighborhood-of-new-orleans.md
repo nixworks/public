@@ -8,6 +8,7 @@ New Orleans police are investigating a fatal shooting at Flanders and Socrates s
 ### Source:
 
 1. [NOLA](http://www.nola.com/crime/index.ssf/2016/12/fatal_shooting_reported_in_alg.html)
+1. [Cover Image](http://image.nola.com/home/nola-media/width620/img/tpphotos/photo/2016/12/21/21743366-large.jpg)
 
 ### Related:
 

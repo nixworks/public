@@ -9,6 +9,7 @@ The Trump strategy was deny, impede and delay, while destroying documents the co
 
 1. [MSNBC](http://www.msnbc.com/hardball/watch/donald-trump-has-his-own-email-troubles-797788739795)
 2. [Newsweek](http://europe.newsweek.com/donald-trump-companies-destroyed-emails-documents-515120)
+2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/12/13/1111trump01.jpg)
 
 ### Related:
 

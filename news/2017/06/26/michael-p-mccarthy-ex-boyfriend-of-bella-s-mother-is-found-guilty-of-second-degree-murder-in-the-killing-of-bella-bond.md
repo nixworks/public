@@ -8,3 +8,4 @@ A Massachusetts man has been convicted of second-degree murder in the 2015 death
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2017/06/26/baby-doe-case-massachusetts-man-convicted-2nd-degree-murder-in-killing-2-year-old.html)
+1. [Cover Image](//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/06/26/0/0/694940094001_5483646791001_5483644673001-vs.jpg?ve=1)

@@ -8,6 +8,7 @@ A multimillionaire supermarket chain owner defeated a candidate of the governing
 ### Source:
 
 1. [Reuters via ''The New York Times](http://www.nytimes.com/2009/05/04/world/americas/04panama.html?_r=1&ref=world)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

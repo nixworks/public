@@ -8,6 +8,7 @@ The first of more than 1,200 US troops sent to patrol the border with Mexico hav
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11134337)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

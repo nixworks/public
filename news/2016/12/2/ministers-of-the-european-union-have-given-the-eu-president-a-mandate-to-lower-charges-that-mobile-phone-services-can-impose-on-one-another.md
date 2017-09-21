@@ -8,6 +8,7 @@ European Union ministers on Friday backed lowering the caps for how much mobile 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-eu-telecoms-roaming-idUSKBN13R1WB?il=0)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161202&t=2&i=1163953264&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB115Y)
 
 ### Related:
 

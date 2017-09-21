@@ -8,6 +8,7 @@ State of emergency remains in areas hit by deadly attacks blamed on Islamist gro
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2011/12/20111231172010984263.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/1/20121103158196734_20.jpg)
 
 ### Related:
 

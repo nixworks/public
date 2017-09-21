@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/08/01/us-foxconn-robots-idUSTRE77016B20110801)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110801&t=2&i=470425128&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-01T124842Z_01_BTRE7700YSA00_RTROPTP_0_CHINA-LABOUR)
 
 ### Related:
 

@@ -8,6 +8,7 @@ UPDATED: 11:23 p.m. - (AP) - West Coast dockworkers reach tentative contract aft
 ### Source:
 
 1. [AP](http://www.capradio.org/articles/2015/02/20/dock-workers-reach-tentative-contract/)
+1. [Cover Image](http://www.capradio.org/media/3340548/0218-port-of-oakland-p.jpg)
 
 ### Related:
 

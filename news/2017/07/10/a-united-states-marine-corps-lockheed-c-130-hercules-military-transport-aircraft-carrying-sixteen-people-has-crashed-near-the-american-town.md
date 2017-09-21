@@ -9,6 +9,7 @@ A military plane crashed in a soybean field in Leflore County, Miss., killing at
 
 1. [Reuters via Yahoo! News](https://www.yahoo.com/news/u-military-plane-crashes-mississippi-least-5-reported-033313522.html?soc_trk=gcm&soc_src=d9780ae9-562b-3ef5-9d83-c17f2088b031&.tsrc=notification-brknews)
 2. [USA Today](https://www.usatoday.com/story/news/nation-now/2017/07/10/military-plane-crashes-mississippi/466618001/)
+2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:
 

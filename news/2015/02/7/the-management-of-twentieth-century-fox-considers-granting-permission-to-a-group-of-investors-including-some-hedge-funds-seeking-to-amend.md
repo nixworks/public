@@ -8,6 +8,7 @@ Several top investors in Twenty-First Century Fox Inc are pressing for the right
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2015/02/07/us-fox-votingshares-exclusive-idUSKBN0LA2HP20150207)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150206&t=2&i=1023066081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1511W)
 
 ### Related:
 

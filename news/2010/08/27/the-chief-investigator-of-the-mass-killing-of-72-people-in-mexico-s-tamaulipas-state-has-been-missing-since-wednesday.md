@@ -8,6 +8,7 @@ Mexican prosecutors say they are deeply concerned for the safety of a prosecutor
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11117697)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48900000/jpg/_48900859_010044548-1.jpg)
 
 ### Related:
 

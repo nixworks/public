@@ -8,6 +8,7 @@ Mangled remains of a school bus with blood stains on it, strewn bags, tiffin box
 ### Source:
 
 1. [PTI via Business Standard](http://www.business-standard.com/article/pti-stories/heart-rending-scenes-wailing-parents-at-bus-crash-site-114072401221_1.html)
+1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
 
 ### Related:
 

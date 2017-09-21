@@ -9,6 +9,7 @@ By Syed Raza Hassan and Maria Golovnina ISLAMABAD (Reuters) - Pakistani soldiers
 
 1. [BBC](http://www.bbc.com/news/world-asia-29009549#)
 2. [Reuters via Yahoo! News](http://news.yahoo.com/clashes-islamabad-pressure-mounts-pm-resign-050805961.html)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/huncIJRXCtjumopg49zy6w--/aD0yOTA7dz00NTA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/Reuters/2014-09-01T070728Z_1007000001_LYNXMPEA800RK_RTROPTP_2_CNEWS-US-PAKISTAN-CRISIS.JPG)
 
 ### Related:
 

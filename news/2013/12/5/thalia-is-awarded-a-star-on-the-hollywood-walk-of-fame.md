@@ -8,6 +8,7 @@ In conversation, Mexican singer-actress-author-radio host-entrepreneur Thalia is
 ### Source:
 
 1. [Variety](http://variety.com/2013/biz/news/thalia-to-receive-star-on-hollywood-walk-of-fame-1200919241/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/12/thalia-hollywood-walk-of-fame.jpg?w=1000&amp;h=563&amp;crop=1)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Colombia legalises same-sex marriage, becoming the fourth country in Latin Ameri
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36166888)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/CB20/production/_89500025_89500021.jpg)
 
 ### Related:
 

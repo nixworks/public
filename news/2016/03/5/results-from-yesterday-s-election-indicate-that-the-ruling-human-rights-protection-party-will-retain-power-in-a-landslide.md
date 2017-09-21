@@ -8,6 +8,7 @@ Preliminary results from Samoa&#039;s general election show the ruling party is 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-03-05/samoan-ruling-party-set-for-landslide-victory-in-election/7223890)
+1. [Cover Image](http://www.abc.net.au/news/image/7223952-1x1-700x700.jpg)
 
 ### Related:
 

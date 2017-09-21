@@ -10,6 +10,7 @@ Ambulances rushed to the scene but there was no immediate comment from Afghan se
 1. [AFP via ''Straits Times](http://www.straitstimes.com/asia/south-asia/taleban-suicide-bomber-kills-at-least-9-outside-police-base-in-afghanistans-capital)
 2. [AFP via ''Times of India](http://timesofindia.indiatimes.com/world/south-asia/Powerful-blast-rocks-police-base-in-Kabul-casualties-reported/articleshow/50805851.cms)
 3. [Sky News](http://news.sky.com/story/1633685/deadly-suicide-blast-at-kabul-police-office)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/50805892.cms)
 
 ### Related:
 

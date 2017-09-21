@@ -8,6 +8,7 @@ A small plane has crashed while carrying an aid team to the Chilean city of Conc
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/03/02/2833997.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

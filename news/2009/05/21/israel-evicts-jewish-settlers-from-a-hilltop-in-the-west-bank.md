@@ -8,6 +8,7 @@ Israeli police evicted Jewish settlers from a West Bank hilltop on Thursday, a d
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSLL8416120090521)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090521&t=2&i=10210909&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-21T183714Z_01_BTRE54K0WO800_RTROPTP_0_ISRAEL-PALESTINIANS-OUTPOST)
 
 ### Related:
 

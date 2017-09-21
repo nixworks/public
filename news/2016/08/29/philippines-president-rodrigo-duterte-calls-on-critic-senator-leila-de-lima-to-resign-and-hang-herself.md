@@ -9,6 +9,7 @@ The President tells the feisty lady senator that she should resign amid allegati
 
 1. [Rappler](http://www.rappler.com/nation/144535-president-rodrigo-duterte-senator-leila-de-lima-resign-hang-yourself)
 2. [The Daily Beast](http://www.thedailybeast.com/cheats/2016/08/29/filipino-president-there-s-no-genocide-here.html)
+2. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/4CF5B11A820547219E975EAEFBBBB744/duterete-delima-20160526.jpg)
 
 ### Related:
 

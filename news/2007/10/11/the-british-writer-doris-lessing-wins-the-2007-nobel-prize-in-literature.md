@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Nobel Foundation](http://nobelprize.org/nobel_prizes/literature/laureates/2007/)
+1. [Cover Image](http://www.nobelprize.org/nobel_prizes/literature/laureates/2007/lessing_postcard.jpg)
 
 ### Related:
 

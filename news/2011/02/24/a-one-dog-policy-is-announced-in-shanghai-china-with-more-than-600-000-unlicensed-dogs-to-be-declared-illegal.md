@@ -9,6 +9,7 @@ The authorities in Shanghai, China, announce they will introduce a one-dog polic
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12563432)
 2. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90882/7298261.html)
+2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

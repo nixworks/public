@@ -8,6 +8,7 @@ Former Royal Fiji Military Force (RFMF) chief of staff Lieutenant Colonel Ratu T
 ### Source:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10725909)
+1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201121/SCCZEN_150511SPLfiji_1024x768.JPG)
 
 ### Related:
 

@@ -8,6 +8,7 @@ SEOUL (AFP) - North Korea accused South Korea on Tuesday (April 12) of kidnappin
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/asia/east-asia/north-korea-claims-defectors-were-kidnapped-by-seoul)
+1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)
 
 ### Related:
 

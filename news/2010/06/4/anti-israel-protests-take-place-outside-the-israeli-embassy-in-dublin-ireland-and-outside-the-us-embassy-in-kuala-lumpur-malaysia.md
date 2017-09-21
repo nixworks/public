@@ -11,6 +11,7 @@ About 50 people are continuing to blockade the Israeli embassy in Dublin today i
 2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10236884.stm)
 3. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2010/6/4/nation/20100604143049&sec=nation)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0604/breaking25.html)
+4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

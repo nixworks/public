@@ -8,3 +8,4 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/education-14781392)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55161000/jpg/_55161735_nishkam_freeschool_bbc.jpg)

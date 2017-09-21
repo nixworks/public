@@ -8,6 +8,7 @@ Iraq&#39;s parliament voted Monday to extend a deadline for negotiators to prese
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/8931395/)
+1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/050815/050815_const_hmed_7p.standard.jpg)
 
 ### Related:
 
@@ -17,3 +18,4 @@ Iraq&#39;s parliament voted Monday to extend a deadline for negotiators to prese
 4. [ Iraq's Constitutional referendum: the prospects of the proposed Iraqi constitution being approved in Saturday's referendum are boosted by a deal struck with a major Sunni Arab party, the Iraqi Islamic Party. ](/news/2005/10/12/iraq-s-constitutional-referendum-the-prospects-of-the-proposed-iraqi-constitution-being-approved-in-saturday-s-referendum-are-boosted-by-a.md) _Context: proposed Iraqi constitution_
 5. [ Iraq's parliament receives a draft of that country's constitution, minutes before the revised deadline. The parliamentary vote on the constitution will be delayed until a final draft emerges. ](/news/2005/08/22/iraq-s-parliament-receives-a-draft-of-that-country-s-constitution-minutes-before-the-revised-deadline-the-parliamentary-vote-on-the-const.md) _Context: proposed Iraqi constitution_
 6. [ Almost three months after the legislative election in Iraq, the National Assembly voted overwhelmingly to approve a Shi'a-led cabinet, establishing the first elected government in the history of Iraq. Two of the four deputy prime minister's slots remained vacant, however, and five ministries, including the important defence and oil slots, were left in the hands of temporary managers. ](/news/2005/04/28/almost-three-months-after-the-legislative-election-in-iraq-the-national-assembly-voted-overwhelmingly-to-approve-a-shi-a-led-cabinet-esta.md) _Context: National Assembly of Iraq_
+7. [ 1,300 Iraqi delegates begin a three-day conference in Baghdad to select an interim National Assembly. The area of the conference is attacked by mortars, which kill one person and wound 17. ](/news/2004/08/15/1-300-iraqi-delegates-begin-a-three-day-conference-in-baghdad-to-select-an-interim-national-assembly-the-area-of-the-conference-is-attacke.md) _Context: National Assembly of Iraq_

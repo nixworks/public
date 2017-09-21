@@ -8,6 +8,7 @@ Kismayo, last stronghold of Islamist group al-Shabab militia, attacked in prepar
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/09/201294144715296506.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/4/20129416101895734_20.jpg)
 
 ### Related:
 

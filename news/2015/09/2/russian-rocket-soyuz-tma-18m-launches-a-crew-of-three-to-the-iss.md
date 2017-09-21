@@ -8,6 +8,7 @@ Three new crewmembers launched toward the International Space Station early Wedn
 ### Source:
 
 1. [Space.com](http://www.space.com/30437-russian-rocket-launches-space-station-crew.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA0OS85MDAvb3JpZ2luYWwvc295dXotdG1hMThtLWV4cGVkaXRpb240NC1sYXVuY2hfZWRpdGVkLTEuanBn)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [NYT](http://www.nytimes.com/2004/06/18/international/18nati.html?pagewanted=print&position=)
 2. [New Zealand Herald](http://www.nzherald.co.nz/storydisplay.cfm?storyID=3573498&thesection=news&thesubsection=world)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

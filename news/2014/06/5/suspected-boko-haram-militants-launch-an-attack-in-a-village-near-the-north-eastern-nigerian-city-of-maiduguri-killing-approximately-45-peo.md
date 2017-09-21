@@ -8,6 +8,7 @@ Suspected Boko Haram militants in Nigeria opened fire on villagers who had gathe
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27716898)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75292000/jpg/_75292906_67615370.jpg)
 
 ### Related:
 

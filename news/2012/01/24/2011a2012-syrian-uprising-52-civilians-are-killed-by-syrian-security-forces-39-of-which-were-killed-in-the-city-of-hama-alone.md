@@ -8,6 +8,7 @@ Syrian security forces killed 52 people across the country on Tuesday as troops 
 ### Source:
 
 1. [Naharnet](http://www.naharnet.com/stories/en/27733-52-dead-including-39-in-homs-as-syrian-forces-storm-hama)
+1. [Cover Image](http://images1.naharnet.com/images/27231/w140.jpg?1327426327)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Blast takes out Israeli diplomatic vehicle near New Delhi embassy; envoy&#39;s w
 ### Source:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4188985,00.html)
+1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
 ### Related:
 

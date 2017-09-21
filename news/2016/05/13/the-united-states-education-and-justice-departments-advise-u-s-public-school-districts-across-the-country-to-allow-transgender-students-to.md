@@ -9,6 +9,7 @@ WASHINGTON (AP) — Public schools must permit transgender students to use bathr
 
 1. [AP](http://bigstory.ap.org/article/591d51141ae5466a9c3084175f17b2de/us-gives-directive-schools-transgender-bathroom-access)
 2. [Reuters](http://www.reuters.com/article/us-usa-lgbt-idUSKCN0Y403J)
+2. [Cover Image](http://binaryapi.ap.org/d13fe0c1c2ee4af1b91db159cb96117f/460x.jpg)
 
 ### Related:
 

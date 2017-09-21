@@ -9,6 +9,7 @@ The Syrian army and its allies reached an air base besieged for years by Islamic
 
 1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-east/u-s-backed-sdf-attacks-islamic-state-in-syrias-deir-al-zor-province-idUSKCN1BK09A)
 2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria/syrian-army-allies-reach-airbase-besieged-by-islamic-state-in-eastern-syria-commander-idUSKCN1BK0IL?il=0)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170909&t=2&i=1200688426&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED880J8)
 
 ### Related:
 

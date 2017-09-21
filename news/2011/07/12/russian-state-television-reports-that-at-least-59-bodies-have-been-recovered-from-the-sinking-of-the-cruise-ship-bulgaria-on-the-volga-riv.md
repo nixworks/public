@@ -9,6 +9,7 @@ Four people face criminal charges in connection with the sinking of a Russian sh
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14118040)
 2. [CNN](http://edition.cnn.com//2011/WORLD/europe/07/12/russia.boat.sinks/index.html)
+2. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/07/12/russia.boat.sinks/tzvids.russia.boat.crash.jpg)
 
 ### Related:
 

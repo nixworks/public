@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-06-23/sofie-laguna-wins-miles-franklin-literary-award/6568424)
+1. [Cover Image](http://www.abc.net.au/news/image/6568500-1x1-700x700.jpg)
 
 ### Related:
 

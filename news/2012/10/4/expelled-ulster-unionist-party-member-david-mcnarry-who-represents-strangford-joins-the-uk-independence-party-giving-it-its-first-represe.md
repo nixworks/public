@@ -8,6 +8,7 @@ A Northern Ireland Assembly member, who was expelled from the Ulster Unionist Pa
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/1004/breaking61.html)
+1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 

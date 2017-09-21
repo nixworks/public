@@ -8,6 +8,7 @@ Air China is suspending flights between Beijing and the North Korean capital of 
 ### Source:
 
 1. [CNN](http://money.cnn.com/2017/04/14/news/north-korea-air-china-pyongyang/)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/170414150129-air-china-airline-plane-780x439.jpg)
 
 ### Related:
 

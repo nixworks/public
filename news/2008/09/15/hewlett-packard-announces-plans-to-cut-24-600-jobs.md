@@ -8,6 +8,7 @@ Hewlett-Packard Co plans to cut 7.5 percent of its work force, or 24,600 jobs, s
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/newsOne/idUSWNAB125620080915)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080915&t=2&i=6002502&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-09-15T213023Z_01_WNAB1256_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

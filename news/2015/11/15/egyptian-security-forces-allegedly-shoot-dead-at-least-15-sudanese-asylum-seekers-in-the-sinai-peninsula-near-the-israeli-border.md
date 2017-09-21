@@ -8,6 +8,7 @@ Fifteen refugees killed in Sinai as they reportedly attempt to enter Israel to s
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/11/sudanese-refugees-shot-dead-egypt-israel-border-151115141929932.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/11/15/7233e9e286644820a502c823786b2824_18.jpg)
 
 ### Related:
 

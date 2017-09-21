@@ -8,6 +8,7 @@ Sultan launches new penal code that will eventually include stoning, amputation 
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/04/brunei-adopts-phase-one-islamic-law-201443051454609650.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/4/30/201443052456523734_20.jpg)
 
 ### Related:
 

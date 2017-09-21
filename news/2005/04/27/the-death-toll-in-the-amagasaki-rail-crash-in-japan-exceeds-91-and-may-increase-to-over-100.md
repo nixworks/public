@@ -12,6 +12,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=335311)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=NIOMAVDO32WWICRBAEKSFEY?type=topNews&storyID=8308438)
 5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8305798)
+5. [Cover Image](http://www.asahicom.jp/ajw/images/logo_ogp.png)
 
 ### Related:
 

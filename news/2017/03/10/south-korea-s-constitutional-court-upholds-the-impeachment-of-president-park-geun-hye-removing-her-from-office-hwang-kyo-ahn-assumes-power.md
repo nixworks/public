@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2017/03/10/asia/south-korea-president-park-geun-hye-impeachment/index.html)
 2. [Reuters](http://www.reuters.com/article/us-southkorea-politics-idUSKBN16H066)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170310&t=2&i=1175608437&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED290ZA)
 
 ### Related:
 

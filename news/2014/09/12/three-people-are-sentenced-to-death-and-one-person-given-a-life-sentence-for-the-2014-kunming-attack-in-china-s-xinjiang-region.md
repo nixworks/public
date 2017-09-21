@@ -8,6 +8,7 @@ Three people have been condemned to death and one given life in prison for a mas
 ### Source:
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/2014/09/12/chinese-attackers-who-killed-31-get-death-sentence)
+1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/xinjiang_trial_120914_aap.jpg)
 
 ### Related:
 

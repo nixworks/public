@@ -8,6 +8,7 @@ Eight to 10 members of a remote indigenous group were allegedly killed by men wo
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/global-development/2017/sep/12/brazil-investigates-reports-of-massacre-among-amazon-tribe-javari-valley)
+1. [Cover Image](https://i.guim.co.uk/img/media/a047cc16508641c46193bde6e2489ab77999d291/0_418_1280_768/master/1280.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7f35f058361b4c4f3cb9f6f381823e74)
 
 ### Related:
 

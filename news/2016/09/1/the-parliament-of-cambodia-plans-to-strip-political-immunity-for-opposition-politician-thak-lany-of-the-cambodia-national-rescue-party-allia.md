@@ -8,6 +8,7 @@ The Senate is set to vote today on whether to strip the senatorial immunity of o
 ### Source:
 
 1. [The Phnom Penh Post](http://www.phnompenhpost.com/national/thak-lany-immunity-vote-today)
+1. [Cover Image](http://www.phnompenhpost.com/sites/default/files/field/image/thak_lany_facebook.jpg)
 
 ### Related:
 

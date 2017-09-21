@@ -10,6 +10,7 @@ Indonesia is out of the race to host the 2022 World Cup, FIFA says.
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/8577452.stm)
 2. [CBC](http://www.cbc.ca/sports/soccer/fifaworldcup/news/story/2010/03/19/sp-indonesia.html)
 3. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/03/19/sports/s092719D14.DTL)
+3. [Cover Image](https://i.cbc.ca/1.470240.1460485348!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-sports.jpg)
 
 ### Related:
 

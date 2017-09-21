@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-eu-idUSKBN12G103)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161017&t=2&i=1157816652&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9G0ES)
 
 ### Related:
 

@@ -9,6 +9,7 @@ A Sudanese military plane carrying personnel and equipment to the strife-torn Da
 
 1. [CNN](http://edition.cnn.com/2012/10/07/world/africa/sudan-crash/index.html?hpt=hp_t3)
 2. [Reuters](http://www.reuters.com/article/2012/10/07/us-sudan-crash-idUSBRE89604820121007)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

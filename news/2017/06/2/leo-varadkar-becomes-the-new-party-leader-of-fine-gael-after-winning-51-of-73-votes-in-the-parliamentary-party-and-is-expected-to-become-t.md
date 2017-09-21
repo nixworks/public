@@ -8,6 +8,7 @@ LEO Varadkar has been confirmed as the new leader of Fine Gael &#8211; and looks
 ### Source:
 
 1. [The Sun](https://www.thesun.ie/news/1082271/leo-varadkar-set-to-become-irelands-youngest-ever-and-first-gay-taoiseach-after-beating-simon-coveney-to-be-crowned-fine-gael-leader/)
+1. [Cover Image](https://www.thesun.ie/wp-content/uploads/sites/3/2017/06/pjimage-112.jpg?strip=all&#038;quality=100&#038;w=750&#038;h=500&#038;crop=1)
 
 ### Related:
 

@@ -12,6 +12,7 @@ AN elderly Bronx man whose body was found floating at a City Island marina just 
 3. [CNN](http://news.blogs.cnn.com/2011/08/27/live-blog-irenes-heavy-rains-strong-winds-lash-n-c-coast/)
 4. [News Limited](http://www.news.com.au/world/irene-roars-toward-us-east-coast/story-e6frfkyi-1226122558299)
 5. [Washington Post](http://www.washingtonpost.com/local/east-coast-braces-for-hurricane-irene-warning-area-expanded/2011/08/26/gIQAOMxFgJ_story.html?hpid=z1&wpisrc=al_national)
+5. [Cover Image](http://cdn.newsapi.com.au/image/v1/fbd9c0695bd45dc0217ae791164c7882)
 
 ### Related:
 

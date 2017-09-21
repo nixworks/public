@@ -8,6 +8,7 @@ Child killer Robert Black has been found guilty of murdering Jennifer Cardy in B
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-15445986)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55524000/jpg/_55524304_jennifercardy.jpg)
 
 ### Related:
 

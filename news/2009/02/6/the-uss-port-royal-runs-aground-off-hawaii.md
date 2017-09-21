@@ -8,6 +8,7 @@ Ticonderoga-class guided missile cruiser the USS Port Royal has run aground off 
 ### Source:
 
 1. [Inquisitr](http://www.inquisitr.com/17510/whoops-guided-missile-cruiser-uss-port-royal-runs-aground/)
+1. [Cover Image](http://cdn.inquisitr.com/wp-content/uploads/uncat/uss-port-royal.jpg)
 
 ### Related:
 

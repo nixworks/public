@@ -9,6 +9,7 @@ Two space station astronauts popped in a new pump during a rare Christmas Eve sp
 
 1. [FOX News](http://www.foxnews.com/science/2013/12/24/astronauts-make-rare-christmas-eve-spacewalk/?intcmp=latestnews)
 2. [NASA](http://www.nasa.gov/content/stations-replacement-pump-successfully-restarted/index.html)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/science/2013/12/24/astronauts-make-rare-christmas-eve-spacewalk/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422709938405.jpg?ve=1)
 
 ### Related:
 

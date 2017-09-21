@@ -8,6 +8,7 @@ A Chechen man convicted of trying to send a letter bomb to a Danish newspaper wa
 ### Source:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/05/31/denmark.attempted.terror.sentence/index.html)
+1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/05/31/denmark.attempted.terror.sentence/tzvids.denmark.m16.gi.afp.jpg)
 
 ### Related:
 

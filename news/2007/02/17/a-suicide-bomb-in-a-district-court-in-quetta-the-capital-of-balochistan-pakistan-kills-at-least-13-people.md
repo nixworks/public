@@ -8,6 +8,7 @@ At least 13 people, including a senior judge were killed in a suspected suicide 
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/Bomb_blast_in_Pak_courtroom_13_killed/articleshow/1632695.cms)
+1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 
 ### Related:
 

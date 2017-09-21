@@ -8,6 +8,7 @@ Four suspect packages delivered to army careers offices bear &quot;the hallmarks
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-26171896)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72964000/jpg/_72964655_5brightonsuspackage(4).jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2016/03/02/un-approves-toughest-sanctions-on-north-korea-in-20-years.html)
+1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/02/25/0/0/694940094001_4774657926001_cc1a8b33-d24a-4f55-9aeb-99be22f3fedc.jpg?ve=1)
 
 ### Related:
 

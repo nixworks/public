@@ -10,6 +10,7 @@ Flags fly at half mast and entertainment suspended on national day of mourning.
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/20108152252905447.html)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-08/15/content_11154941.htm)
 3. [Reuters](http://www.reuters.com/article/idUSTRE67E05520100815)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

@@ -8,6 +8,7 @@ The UN humanitarian chief pleads for help to avoid &quot;a catastrophe&quot; in 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39238808)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/AA51/production/_95110634_6451c74a-2c7c-459c-89df-22216d3abc4f.jpg)
 
 ### Related:
 

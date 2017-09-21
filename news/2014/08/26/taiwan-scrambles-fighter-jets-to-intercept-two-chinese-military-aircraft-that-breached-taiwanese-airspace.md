@@ -9,6 +9,7 @@ Taiwan said on Tuesday it had scrambled jets to intercept two Chinese military a
 
 1. [Reuters](http://www.reuters.com/article/2014/08/26/us-china-taiwan-idUSKBN0GQ0RZ20140826)
 2. [Voice of America](http://www.voanews.com/content/taiwan-says-chinese-jets-breached-its-airspace/2428238.html)
+2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140826&t=2&i=967077943&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7P0IV)
 
 ### Related:
 

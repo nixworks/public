@@ -8,6 +8,7 @@ Oxford University hits back at Prime Minister David Cameron after he says only o
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/education-13041885)
+1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 

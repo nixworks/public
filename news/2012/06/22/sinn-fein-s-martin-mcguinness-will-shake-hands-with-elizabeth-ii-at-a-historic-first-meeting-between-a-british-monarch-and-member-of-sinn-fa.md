@@ -8,6 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-18552221)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61086000/jpg/_61086001_queenmcguinness.jpg)
 
 ### Related:
 

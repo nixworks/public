@@ -12,6 +12,7 @@ Preliminary results of final Guardian/ICM campaign poll show Labour and Conserva
 3. [BBC](http://www.bbc.com/news/live/election-2015-32594267)
 4. [The Guardian](http://www.theguardian.com/politics/2015/may/06/general-election-2015-britain-heading-for-hung-parliament)
 5. [The Telegraph](http://www.telegraph.co.uk/news/general-election-2015/11586490/results-live.html)
+5. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/6/1430941046274/24d634fa-a4a1-4580-bb7c-ec55584e62c1-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a8c643d1e25e381cfa6359a3837502c5)
 
 ### Related:
 

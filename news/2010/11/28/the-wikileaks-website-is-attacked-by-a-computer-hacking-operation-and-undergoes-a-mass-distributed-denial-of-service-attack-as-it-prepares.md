@@ -17,6 +17,7 @@ Whistle-blowing website Wikileaks says it is under attack from a computer-hackin
 8. [The Guardian](http://www.guardian.co.uk/world/2010/nov/28/how-us-embassy-cables-leaked)
 9. [The New Zealand Herald](http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=10690807)
 10. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/28/AR2010112800401.html)
+10. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 

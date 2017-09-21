@@ -8,6 +8,7 @@ The creators of a planned pop-up restaurant in London where diners will be encou
 ### Source:
 
 1. [UPI](http://www.upi.com/Odd_News/2016/04/21/London-restaurant-to-encourage-nude-dining-in-Pangaea-like-atmosphere/8671461253486/?spt=hs&or=on)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/8671461253486/2016/1/dc78ff51fada2a12aef4819ac9ffe3a2/v1.5/London-restaurant-to-encourage-nude-dining-in-Pangaea-like-atmosphere.jpg)
 
 ### Related:
 

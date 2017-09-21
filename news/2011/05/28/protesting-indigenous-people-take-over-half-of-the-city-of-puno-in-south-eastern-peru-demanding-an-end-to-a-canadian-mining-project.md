@@ -8,6 +8,7 @@ Unrest flares in the south-eastern Peruvian city of Puno, with indigenous protes
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13582707)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53042000/jpg/_53042481_012089316-1.jpg)
 
 ### Related:
 

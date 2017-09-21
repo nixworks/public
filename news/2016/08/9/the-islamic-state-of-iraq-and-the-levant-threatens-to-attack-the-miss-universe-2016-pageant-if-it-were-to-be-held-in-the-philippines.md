@@ -8,6 +8,7 @@ Islamic State jihadis in the Philippines are plotting to attack the Miss Univers
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2016/08/08/isis-philippines-branch-calls-for-attacks-on-miss-universe-pageant.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

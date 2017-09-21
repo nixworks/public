@@ -9,6 +9,7 @@ France and Australia have condemned the death penalty as executions for three of
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-04-29/australia-to-withdraw-ambassador-to-indonesia-bali-nine-deaths/6429510)
 2. [BBC](http://www.bbc.com/news/world-asia-32491818)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82608000/jpg/_82608175_82608174.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ British fraudster James McCormick is jailed for 10 years for selling fake bomb d
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22380368)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67372000/jpg/_67372648_017886196.jpg)
 
 ### Related:
 

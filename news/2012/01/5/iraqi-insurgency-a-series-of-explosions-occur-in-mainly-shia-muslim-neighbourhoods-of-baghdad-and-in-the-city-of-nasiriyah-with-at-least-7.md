@@ -8,6 +8,7 @@ At least 70 killed and more than 100 wounded in the latest attacks in mainly Shi
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/2012155465176859.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/5/201215153040850734_20.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Copac outreach meetings in Harare were Sunday abandoned after violence and chaos
 
 1. [NewsDay.zw](http://www.newsday.co.zw/article/2010-09-19-zanu-pf-trashes-copac-meetings)
 2. [Times Live](http://www.timeslive.co.za/africa/article666706.ece/Pro-Mugabe-militants-stone-constitution-meet-in-Zimbabwe)
+2. [Cover Image](https://www.newsday.co.zw/wp-content/uploads/2012/09/NewsDay_100x100.png)
 
 ### Related:
 

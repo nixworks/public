@@ -8,6 +8,7 @@ Ex-Ch Supt David Duckenfield faces 95 charges of manslaughter while five others 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-merseyside-40419819)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p0575qfw.jpg)
 
 ### Related:
 

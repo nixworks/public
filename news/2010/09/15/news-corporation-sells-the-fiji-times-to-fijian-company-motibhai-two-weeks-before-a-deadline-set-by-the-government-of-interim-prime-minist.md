@@ -8,6 +8,7 @@ Australia&#39;s News Limited has sold the Fiji Times for an undisclosed sum to F
 ### Source:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/world/56963/news-limited-sells-fiji-times-paper)
+1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

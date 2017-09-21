@@ -18,6 +18,7 @@ Business news & Financial news from Reuters.com.
 9. [Renfe](http://comunicacion.renfe.es/renfe/front/jsp/index.jsp?idsite=9837933386810)
 10. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=businessNews&storyID=4546463&section=news)
 11. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A48577-2004Mar11.html)
+11. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

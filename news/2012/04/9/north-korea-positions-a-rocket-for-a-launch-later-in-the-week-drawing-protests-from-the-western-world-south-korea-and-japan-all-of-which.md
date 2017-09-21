@@ -8,6 +8,7 @@
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2012-04-09/north-korea-rocket-installed-on-launch-pad/3938708?section=world)
+1. [Cover Image](http://www.abc.net.au/news/image/3938744-1x1-700x700.jpg)
 
 ### Related:
 

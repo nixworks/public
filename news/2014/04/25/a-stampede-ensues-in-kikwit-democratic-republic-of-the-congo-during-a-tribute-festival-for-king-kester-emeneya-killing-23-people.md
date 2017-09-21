@@ -8,3 +8,4 @@ KINSHASA, Congo (AP) — More than 20 people were killed Friday in southwest Con
 ### Source:
 
 1. [AP via Yahoo! News](http://news.yahoo.com/concert-stampede-kills-23-southwest-congo-104759164.html)
+1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)

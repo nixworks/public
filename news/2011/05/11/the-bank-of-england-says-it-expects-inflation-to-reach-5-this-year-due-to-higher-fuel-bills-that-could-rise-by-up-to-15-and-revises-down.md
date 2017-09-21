@@ -8,6 +8,7 @@ The Bank of England says it expects inflation to hit 5% this year, due to higher
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13357282)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52334000/jpg/_52334320_011741368-1.jpg)
 
 ### Related:
 

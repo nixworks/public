@@ -8,6 +8,7 @@ Islamist militants carried out a deadly assault on the main U.N. compound in the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/06/19/us-somalia-blast-idUSBRE95I0AJ20130619)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130619&t=2&i=742824010&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95I0Z4B00)
 
 ### Related:
 

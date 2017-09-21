@@ -8,6 +8,7 @@ Pharmaceutical firms Genentech Inc. and OSI Pharmaceuticals LLC will pay $67 mil
 ### Source:
 
 1. [UPI](http://www.upi.com/Business_News/2016/06/07/Genentec-OSI-Pharma-to-pay-67M-to-resolve-Tarceva-false-claims/4491465326223/?spt=hs&or=bn)
+1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi_com/4491465326223/2016/1/136fc2aa4315a19d1a90eab0fc85eef6/v1.5/Genentec-OSI-Pharma-to-pay-67M-to-resolve-Tarceva-false-claims.jpg)
 
 ### Related:
 

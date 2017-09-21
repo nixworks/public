@@ -10,6 +10,7 @@ Senator John McCain won the biggest delegate prize so far in a closely contested
 1. [CNN](http://edition.cnn.com/2008/POLITICS/01/29/fl.primary/index.html)
 2. [CNN](http://politicalticker.blogs.cnn.com/2008/01/29/clinton-to-win-florida-primary-but-no-delegates-at-stake/)
 3. [The New York Times](http://www.nytimes.com/2008/01/29/us/politics/30cnd-primary.html)
+3. [Cover Image](https://static01.nyt.com/images/2008/01/29/us/mccain_7_7575.jpg)
 
 ### Related:
 

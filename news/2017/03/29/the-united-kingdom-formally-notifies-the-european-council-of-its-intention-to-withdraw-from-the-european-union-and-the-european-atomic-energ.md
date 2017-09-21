@@ -9,6 +9,7 @@
 
 1. [ARD](http://www.tagesschau.de/ausland/brexit-453.html)
 2. [Business Green](http://www.businessgreen.com/bg/news/3007442/article-50-uk-confirms-plans-to-pull-out-of-euratom-after-brexit)
+2. [Cover Image](http://www.businessgreen.com/w-images/43860fec-2fb5-4455-b253-4a5e9ee5af6d/1/nuclearcoolingtowers-370x229.jpg)
 
 ### Related:
 

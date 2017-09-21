@@ -10,6 +10,7 @@
 1. [BBC News](http://news.bbc.co.uk/1/hi/business/7498902.stm)
 2. [CNN](http://edition.cnn.com/2008/POLITICS/07/10/us.iran/)
 3. [Reuters](http://uk.reuters.com/article/usPoliticsNews/idUKL1071970620080710)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080710&t=2&i=5098319&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-07-10T075311Z_01_L10719706_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

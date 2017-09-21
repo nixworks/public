@@ -10,6 +10,7 @@ At least eight people were injured by a bomb blast in Bangalore shortly before t
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8626992.stm)
 2. [Indian Express](http://www.indianexpress.com/news/2-blasts-outside-ipl-venue-in-bangalore-another-bomb-defused-show-goes-on/607965/)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/cricket/international/india/7601529/Eight-injured-in-Bangalore-bomb-attack-before-IPL-game-featuring-Kevin-Pietersen.html)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01618/kevin-pietersen_1618413a.jpg)
 
 ### Related:
 

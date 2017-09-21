@@ -8,6 +8,7 @@ An Islamist militant who destroyed ancient shrines in Timbuktu is jailed by an i
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-37483967)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A88B/production/_90874134_mediaitem90874133.jpg)
 
 ### Related:
 

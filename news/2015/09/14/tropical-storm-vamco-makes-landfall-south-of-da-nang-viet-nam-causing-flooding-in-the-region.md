@@ -8,6 +8,7 @@ Tropical Rainstorm Vamco will bring flooding rainfall to portions of Indochina t
 ### Source:
 
 1. [Accu Weather](http://www.accuweather.com/en/weather-news/tropical-depression-to-bring-f/52362082)
+1. [Cover Image](https://accuweather.brightspotcdn.com/fa/fa2cb2a1375efc03ecee6cdf61828ad7/650x366_09160959_hd30.jpg)
 
 ### Related:
 

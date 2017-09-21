@@ -8,3 +8,4 @@ A federal judge in Texas has blocked an attempt by the Los Angeles Police Depart
 ### Source:
 
 1. [FoxNews](http://www.foxnews.com/us/2012/10/19/judge-stops-lapd-warrant-for-manson-follower-tapes)
+1. [Cover Image](http://a57.foxnews.com/video.foxnews.com/thumbnails/101912/640/360/0/0/101912_fr_manson_640.jpg?ve=1)

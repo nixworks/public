@@ -8,6 +8,7 @@ UK consumer price inflation turned negative in April for the first time since 19
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-32793481)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/81859000/jpg/_81859379_026241745-1.jpg)
 
 ### Related:
 

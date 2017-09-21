@@ -11,6 +11,7 @@ Russian journalist Andrey Stenin, missing in eastern Ukraine for a month, has be
 2. [AFP via ''BrisbaneCourier-Mail](http://www.couriermail.com.au/news/world/russia-and-ukraine-agree-to-permanent-ceasefire-in-fighting/story-fnihsmjt-1227046768314?from=public_rss)
 3. [BBC](http://www.bbc.com/news/world-europe-29052599#)
 4. [RT](http://rt.com/news/184232-russian-journalist-ukraine-dead/)
+4. [Cover Image](https://img.rt.com/files/news/2c/fa/80/00/journalist-ukraine-dead.si.jpg)
 
 ### Related:
 

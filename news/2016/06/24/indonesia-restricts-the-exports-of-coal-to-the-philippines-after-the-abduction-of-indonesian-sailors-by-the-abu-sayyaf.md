@@ -8,6 +8,7 @@ Indonesia said on Friday a halt on coal shipments to the Philippines will remain
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-indonesia-security-idUSKCN0ZA06S)
+1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160624&t=2&i=1142665481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5N035)
 
 ### Related:
 

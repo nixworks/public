@@ -9,6 +9,7 @@ Former White House national security adviser Michael Flynn declined on Monday to
 
 1. [Reuters](http://www.reuters.com/article/us-usa-trump-russia-idUSKBN18I1U9)
 2. [The New York Times](https://www.nytimes.com/2017/05/22/us/politics/michael-flynn-fifth-amendment-russia-senate.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170522&t=2&i=1185741787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4L13O)
 
 ### Related:
 

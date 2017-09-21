@@ -10,6 +10,7 @@ At least seven people killed after African Union forces respond to al-Shabab att
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010516123629685647.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8685480.stm)
 3. [Daily Nation](http://www.nation.co.ke/News/africa/Somali%20rebels%20fire%20mortars%20at%20%20parliament%20as%20MPs%20meet%20/-/1066/919636/-/d59h4cz/-/index.html)
+3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 

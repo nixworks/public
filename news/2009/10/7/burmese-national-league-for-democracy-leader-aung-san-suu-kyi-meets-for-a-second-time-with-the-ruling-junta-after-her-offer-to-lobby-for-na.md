@@ -10,6 +10,7 @@
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gs16E0Y8T8w9Edy1yiDa2nXqxwkwD9B65FD80)
 2. [New Light of Myanmar](http://diplomacymonitor.com/stu/dma1.nsf/uh/cc28A178F8957B48FF85257649001197BA)
 3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59621L20091007)
+3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20091007&t=2&i=11864159&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-07T111118Z_01_BTRE5960V2Y00_RTROPTP_0_KOREA)
 
 ### Related:
 

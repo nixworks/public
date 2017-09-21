@@ -8,6 +8,7 @@ Most of those reportedly killed are linked to a faction allied to self-styled ge
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-39983806)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13DE6/production/_96128318_lna.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/08/14/us-korea-north-idUSBRE97D0I520130814)
+1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130814&t=2&i=763563486&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97D0UZZ00)
 
 ### Related:
 

@@ -9,6 +9,7 @@ Representatives from Mastercard and Visa were called before a parliamentary comm
 
 1. [Digital Journal](http://www.digitaljournal.com/article/301340)
 2. [Rawstory](http://www.rawstory.com/rs/2010/12/mastercard-visa-licenses-revoked-iceland-wikileaks/)
+2. [Cover Image](http://www.digitaljournal.com/img/3/1/4/8/2/8/i/8/0/9/o/wikileaks.jpg)
 
 ### Related:
 

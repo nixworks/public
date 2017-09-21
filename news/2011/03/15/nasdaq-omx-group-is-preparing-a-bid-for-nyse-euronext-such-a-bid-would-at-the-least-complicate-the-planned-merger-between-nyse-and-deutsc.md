@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/03/15/us-nyse-nasdaq-idUSTRE72D77E20110315)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110314&t=2&i=362535963&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-14T213156Z_01_BTRE72D1LJM00_RTROPTP_0_DBOERSE-NYSE)
 
 ### Related:
 

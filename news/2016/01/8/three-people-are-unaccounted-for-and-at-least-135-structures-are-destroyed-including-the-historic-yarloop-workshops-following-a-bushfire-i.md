@@ -9,6 +9,7 @@ At least 95 homes have been razed by a bushfire burning south of Perth, while th
 
 1. [BBC](http://www.bbc.co.uk/news/world-australia-35258692)
 2. [SBS](http://www.sbs.com.au/news/article/2016/01/08/three-unaccounted-yarloop-bushfire-95-buildings-lost)
+2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20160108001217299862-original.jpg)
 
 ### Related:
 

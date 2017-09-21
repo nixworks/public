@@ -8,6 +8,7 @@ A Russian MiG-31 fighter jet has crashed in the Krasnoyarsk region in Siberia, a
 ### Source:
 
 1. [RT](https://www.rt.com/news/330065-mig31-crash-siberia-pilots/)
+1. [Cover Image](https://img.rt.com/files/2016.01/article/56a6377dc461889a7f8b45d9.jpg)
 
 ### Related:
 

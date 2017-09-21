@@ -8,6 +8,7 @@ Forensic experts in Chile are exhuming the remains of poet Pablo Neruda to deter
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22027787)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66751000/jpg/_66751050_neruda.jpg)
 
 ### Related:
 

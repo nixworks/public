@@ -1,7 +1,7 @@
 ## [2004-04-9](/news/2004/04/9/index.md)
 
 ### [ Henry C. Lee arrives in Taipei to investigate the March 19, 2004 assassination attempt in Taiwan.](/news/2004/04/9/henry-c-lee-arrives-in-taipei-to-investigate-the-march-19-2004-assassination-attempt-in-taiwan.md)
-_Context: Henry C. Lee, March 19, 2004 assassination attempt in Taiwan, Taipei_
+_Context: Henry C. Lee, March 19, 2004, assassination attempt in Taiwan, Taipei_
 
 ### [ Basketball: The Euroleague Final Four tournament will be held in Tel Aviv, Israel despite concerns over Palestinian terrorism. Maccabi Tel Aviv, Israel beats Zalgiris Kaunas, Lithuania to qualify.](/news/2004/04/9/basketball-the-euroleague-final-four-tournament-will-be-held-in-tel-aviv-israel-despite-concerns-over-palestinian-terrorism-maccabi-tel.md)
 _Context: Euroleague, Israel, Lithuania, Tel Aviv, basketball, militants_

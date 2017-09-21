@@ -8,6 +8,7 @@ The legislative showdown will continue Wednesday as the Senate considers various
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/26/us/politics/health-care-senate-vote.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2017/07/26/us/26healthcaredebate/26healthcaredebate-facebookJumbo-v2.jpg)
 
 ### Related:
 

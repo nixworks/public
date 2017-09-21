@@ -8,6 +8,7 @@ Militants using a car bomb and firing weapons attacked the U.S. consulate in the
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSSGE6340H220100405?loomia_ow=t0:s0:a49:g43:r1:c0.182058:b32557688:z0)
+1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100405&t=2&i=87114317&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-05T151431Z_01_BTRE63416CE00_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

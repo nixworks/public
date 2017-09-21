@@ -8,3 +8,7 @@
 ### Source:
 
 1. [Mainichi Daily News](http://mdn.mainichi-msn.co.jp/national/news/20060707p2a00m0na025000c.html)
+
+### Related:
+
+1. [ Japan's trade minister Shoichi Nakagawa says he believes that a Chinese submarine, which Tokyo says intruded into Japanese waters last week, is linked to gas exploration by China in a remote island area claimed by both countries. ](/news/2004/11/14/japan-s-trade-minister-shoichi-nakagawa-says-he-believes-that-a-chinese-submarine-which-tokyo-says-intruded-into-japanese-waters-last-week.md) _Context: Shoichi Nakagawa_

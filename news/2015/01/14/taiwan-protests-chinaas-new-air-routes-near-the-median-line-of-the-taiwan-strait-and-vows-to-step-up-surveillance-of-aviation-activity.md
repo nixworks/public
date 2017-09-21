@@ -9,6 +9,7 @@
 
 1. [Bloomberg](http://www.bloomberg.com/news/2015-01-14/china-opens-southeast-air-routes-that-triggered-taiwan-s-protest.html)
 2. [Reuters](http://www.reuters.com/article/2015/01/14/us-china-taiwan-idUSKBN0KN0UC20150114)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -8,6 +8,7 @@ South Belfast MP and MLA Alasdair McDonnell is elected the new leader of the SDL
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-15607201)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56505000/jpg/_56505550_mcdonnell.jpg)
 
 ### Related:
 

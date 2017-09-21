@@ -8,6 +8,7 @@ Minutes after a woman was suspended from her job at a Kraft Foods plant and esco
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/39089483/ns/us_news-crime_and_courts/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/ap/food plant shooting--156514769_v2.standard.jpg)
 
 ### Related:
 

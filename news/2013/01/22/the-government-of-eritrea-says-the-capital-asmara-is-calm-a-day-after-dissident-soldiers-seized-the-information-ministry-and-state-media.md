@@ -10,6 +10,7 @@ Government says that all is calm in capital Asmara a day after dissident soldier
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/01/20131229324580346.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21144594)
 3. [Reuters](http://www.reuters.com/article/2013/01/22/eritrea-siege-idUKL6N0AR5HW20130122)
+3. [Cover Image](http://www.aljazeera.com/mritems/images/2013/1/22//20131229439116580_20.jpg)
 
 ### Related:
 

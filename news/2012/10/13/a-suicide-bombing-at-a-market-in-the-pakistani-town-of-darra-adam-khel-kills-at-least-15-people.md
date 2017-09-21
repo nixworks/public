@@ -8,6 +8,7 @@ At least 15 people are killed in a market bombing apparently aimed at an anti-Ta
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19935104)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63472000/jpg/_63472186_63472185.jpg)
 
 ### Related:
 

@@ -10,6 +10,7 @@ The UN warns about the safety of up to 650,000 civilians in the IS stronghold.
 1. [BBC](http://www.bbc.com/news/world-middle-east-39018984)
 2. [CNN](http://www.cnn.com/2017/02/19/middleeast/iraq-starts-operation-to-drive-isis-out-of-west-mosul/)
 3. [UN-OCHA](http://www.un.org/apps/news/story.asp?NewsID=56202#.WKk11n_wkl0)
+3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/21EA/production/_94728680_mediaitem94728679.jpg)
 
 ### Related:
 

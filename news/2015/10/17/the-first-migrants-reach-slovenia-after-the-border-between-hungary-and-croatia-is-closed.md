@@ -9,6 +9,7 @@
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-10-17-EU-Europe-Migrants-The-Latest/id-3e8c92d666f94a0e81121df9ab394f08)
 2. [Reuters](http://www.reuters.com/article/2015/10/17/us-europe-migrants-slovenia-idUSKCN0SB06620151017?feedType=RSS&feedName=topNews)
+2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151017&t=2&i=1087652783&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9G03A)
 
 ### Related:
 

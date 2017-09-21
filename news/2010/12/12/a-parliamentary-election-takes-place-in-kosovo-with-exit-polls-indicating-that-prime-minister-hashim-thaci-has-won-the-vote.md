@@ -9,6 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11978021)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6BB03R20101212)
+2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20101212&t=2&i=273754244&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-12T124838Z_01_BTRE6BB0ZL500_RTROPTP_0_KOSOVO-ELECTION)
 
 ### Related:
 

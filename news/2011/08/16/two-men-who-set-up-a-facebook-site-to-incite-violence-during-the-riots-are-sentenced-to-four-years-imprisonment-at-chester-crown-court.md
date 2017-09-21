@@ -8,6 +8,7 @@ Two men are jailed for four years each for using Facebook to incite disorder dur
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-14551582)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54638000/jpg/_54638927_cheshire464.jpg)
 
 ### Related:
 

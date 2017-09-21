@@ -11,6 +11,7 @@
 2. [Google blog](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html)
 3. [Reuters](http://www.reuters.com/article/idUSTRE60B5RV20100113)
 4. [The Guardian](http://www.guardian.co.uk/technology/2010/jan/12/google-china-ends-censorship)
+4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100113&t=2&i=44955976&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-13T141149Z_01_BTRE60C07NF00_RTROPTP_0_GOOGLE-CHINA)
 
 ### Related:
 

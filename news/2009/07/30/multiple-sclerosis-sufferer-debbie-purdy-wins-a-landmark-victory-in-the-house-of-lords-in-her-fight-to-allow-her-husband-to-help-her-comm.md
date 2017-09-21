@@ -9,6 +9,7 @@ A British woman suffering from multiple sclerosis has won what her lawyers descr
 
 1. [RTÉ](http://www.rte.ie/news/2009/0730/purdy.html)
 2. [Sky News](http://news.sky.com/skynews/Home/UK-News/MS-Sufferer-Debbie-Purdy-Claims-Victory-In-Right-To-Die-Abroad-Battle-Following-Lords-Ruling/Article/200907415350055?lpos=UK_News_Top_Stories_Header_1&lid=ARTICLE_15350055_MS_Sufferer_Debbie_Purdy_Claims_Victory_In_Right_To_Die_Abroad_Battle_Following_Lords_Ruling)
+2. [Cover Image](https://img.rasset.ie/00027b3e-1600.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The New Indian Express](http://www.newindianexpress.com/states/tamil-nadu/2017/jan/22/jallikattu-on-in-all-parts-of-tamil-nadu-except-madurai-1562354.html)
+1. [Cover Image](http://images.newindianexpress.com/uploads/user/imagelibrary/2017/1/22/w600X390/pudukottai1_1.jpg)
 
 ### Related:
 

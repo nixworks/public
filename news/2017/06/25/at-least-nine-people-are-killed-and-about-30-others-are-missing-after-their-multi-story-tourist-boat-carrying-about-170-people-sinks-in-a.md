@@ -9,6 +9,7 @@ A flotilla of boats and the air force went to the aid of vessel that sank with a
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jun/25/tourist-boat-with-150-on-board-sinks-in-north-west-colombia)
 2. [The Washington Post](https://www.washingtonpost.com/world/the_americas/recreational-boat-with-150-aboard-sinks-near-colombian-city/2017/06/25/c9011844-59eb-11e7-aa69-3964a7d55207_story.html?utm_term=.f07b904c535a)
+2. [Cover Image](https://i.guim.co.uk/img/media/a7281d6f3bd27b2e03a91f1cf47ee31b10d6d7ed/124_0_1764_1058/master/1764.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4d937c5644baa7678cca5afc6e5fd737)
 
 ### Related:
 

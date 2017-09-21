@@ -9,6 +9,7 @@ Feb. 8 - Prince Frederic Von Anhalt releases photographs of Zsa Zsa Gabor&#039;s
 
 1. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-2097948/Zsa-Zsa-Gabors-husband-Prince-Frederic-throws-95th-birthday-party-her.html?ito=feeds-newsxml)
 2. [Reuters](http://www.reuters.com/video/2012/02/08/zsa-zsa-gabor-celebrates-her-95th-birthd?videoId=229794797)
+2. [Cover Image](http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/l/p/j/l/wn5x/reuters04?videoId=32753863)
 
 ### Related:
 

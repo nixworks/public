@@ -8,6 +8,7 @@ The European Commission on Wednesdayopened an in-depth investigation of British 
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/companyResultsNews/idUKBRU00642320080402)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

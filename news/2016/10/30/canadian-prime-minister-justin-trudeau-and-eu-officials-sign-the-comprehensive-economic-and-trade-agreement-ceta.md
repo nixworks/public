@@ -8,6 +8,7 @@ Canada and the EU sign the long-delayed Ceta free trade deal at a summit in Brus
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-37814884)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/D31D/production/_92154045_mediaitem92154044.jpg)
 
 ### Related:
 

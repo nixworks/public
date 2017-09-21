@@ -10,6 +10,7 @@ Stonehenge may have stood in Wales hundreds of years before it was dismantled an
 1. [Discovery](http://news.discovery.com/history/archaeology/stonehenge-first-built-in-wales-study-claims-151207.htm)
 2. [National Geographic](http://news.nationalgeographic.com/2015/12/151207-stonehenge-bluestone-discovery-archaeology/)
 3. [The Antiquaries  Journal](http://dx.doi.org/10.1017/S0003581500005096)
+3. [Cover Image](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5266913%2F980x.jpg/2000%2C2000/JPpdHVO4SE0LbQkN/img.jpg)
 
 ### Related:
 

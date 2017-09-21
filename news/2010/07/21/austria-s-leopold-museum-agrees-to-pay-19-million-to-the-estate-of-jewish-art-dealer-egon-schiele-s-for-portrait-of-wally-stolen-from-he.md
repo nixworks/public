@@ -10,6 +10,7 @@ A 12-year dispute has ended with an agreement that a 1912 oil painting will be r
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10709321)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/art/7901812/Museum-pays-19m-to-settle-case-over-painting-stolen-by-Nazi-agent.html)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/20/AR2010072005960.html?hpid=entnews)
+3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01682/wally460_1682764a.jpg)
 
 ### Related:
 

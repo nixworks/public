@@ -8,6 +8,7 @@ A fragile 48-hour ceasefire in Yemen ended on Monday after failing to stem viole
 ### Source:
 
 1. [Yahoo](https://www.yahoo.com/news/clashes-yemen-ceasefire-ends-092825101.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/P6RccMu6.5C7GqwEu1uVyg--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/5dab013956405f6e7357dd730800b1ceb9b5b86f.jpg)
 
 ### Related:
 

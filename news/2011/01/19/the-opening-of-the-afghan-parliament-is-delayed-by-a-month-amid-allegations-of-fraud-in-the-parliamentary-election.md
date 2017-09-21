@@ -8,6 +8,7 @@ The inauguration of Afghanistan&#039;s new parliament has been delayed by a mont
 ### Source:
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/stories/2011/01/20/3116932.htm)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

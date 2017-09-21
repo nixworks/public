@@ -8,6 +8,7 @@ Dutch scientists said Monday they have completed the first sequencing of an indi
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/24840903/)
+1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

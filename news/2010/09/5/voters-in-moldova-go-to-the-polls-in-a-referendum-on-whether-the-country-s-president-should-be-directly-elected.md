@@ -9,6 +9,7 @@
 
 1. [RIA Novosti](http://en.rian.ru/exsoviet/20100905/160475491.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6840F620100905)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

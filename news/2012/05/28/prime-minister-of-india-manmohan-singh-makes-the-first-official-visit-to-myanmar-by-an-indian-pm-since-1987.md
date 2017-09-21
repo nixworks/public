@@ -9,6 +9,7 @@ Manmohan Singh is meeting President Thein Sein as he makes the first official vi
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18225010)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Manmohan-arrives-in-Myanmar-First-Indian-PM-to-visit-in-25-years/articleshow/13571678.cms)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60528000/jpg/_60528282_pti5_28_2012_000042b.jpg)
 
 ### Related:
 

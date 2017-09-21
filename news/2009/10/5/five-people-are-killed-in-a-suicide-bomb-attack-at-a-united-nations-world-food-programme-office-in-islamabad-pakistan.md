@@ -9,6 +9,7 @@ An explosion apparently caused by a suicide bomber in the lobby of the World Foo
 
 1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2009\10\06\story_6-10-2009_pg1_6)
 2. [The New York Times](http://www.nytimes.com/2009/10/06/world/asia/06pstan.html)
+2. [Cover Image](https://static01.nyt.com/images/2009/10/05/world/05pstan-75.jpg)
 
 ### Related:
 

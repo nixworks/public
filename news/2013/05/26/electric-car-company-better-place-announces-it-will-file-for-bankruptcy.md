@@ -8,6 +8,7 @@ Electric car company BetterPlace said on Sunday it had filed a motion in an Isra
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/05/26/betterplace-idUSL5N0E704E20130526)
+1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

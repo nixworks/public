@@ -8,6 +8,7 @@ The number of people killed in the cyclone that hit Fiji at the weekend rises to
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-35633321)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/13D1B/production/_88397118_88397076.jpg)
 
 ### Related:
 

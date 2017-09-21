@@ -11,6 +11,7 @@ Convicted murderer Troy Davis was executed late Wednesday after the U.S. Supreme
 2. [Atlanta Journal Constitution](http://www.ajc.com/news/atlanta/u-s-supreme-court-1185593.html)
 3. [USA Today](http://www.usatoday.com/news/nation/story/2011-09-21/troy-davis-georgia-execution/50491648/1)
 4. [Washington Post](http://www.washingtonpost.com/politics/courts-law/us-supreme-court-refuses-to-block-execution-of-troy-davis/2011/09/21/gIQAPluLmK_story.html)
+4. [Cover Image](http://i.usatoday.net/news/_photos/2011/09/21/Georgia-proceeds-with-Troy-Davis-execution-6LDI1UA-x.jpg)
 
 ### Related:
 

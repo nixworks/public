@@ -9,6 +9,7 @@ Gen. David H. Petraeus has recommended deferring decisions on reducing the main 
 
 1. [NYT](http://www.nytimes.com/2007/09/10/washington/10military.html?ex=1347076800&en=4add2d8355e5c501&ei=5088&partner=rssnyt&emc=rss)
 2. [NYT](http://www.nytimes.com/2007/09/11/washington/11policy.html?_r=1&hp&oref=slogin)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

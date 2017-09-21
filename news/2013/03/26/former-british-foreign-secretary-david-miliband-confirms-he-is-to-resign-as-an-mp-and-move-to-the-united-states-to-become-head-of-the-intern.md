@@ -8,6 +8,7 @@ Former Labour Foreign Secretary David Miliband is to leave Parliament to move to
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21947497)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66626000/jpg/_66626970_66626969.jpg)
 
 ### Related:
 

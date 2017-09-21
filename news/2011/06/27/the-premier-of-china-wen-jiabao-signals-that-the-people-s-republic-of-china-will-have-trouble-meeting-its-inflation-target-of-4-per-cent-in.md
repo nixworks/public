@@ -8,6 +8,7 @@ Chinese Premier Wen Jiabao signaled for the first time that China would struggle
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/06/27/us-china-wen-idUSTRE75Q04020110627)
+1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110627&t=2&i=447522232&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-27T145448Z_01_BTRE75Q0CQX00_RTROPTP_0_HUNGARY)
 
 ### Related:
 

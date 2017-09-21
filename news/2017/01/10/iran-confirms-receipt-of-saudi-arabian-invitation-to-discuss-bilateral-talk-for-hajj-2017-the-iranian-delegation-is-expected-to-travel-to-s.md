@@ -9,6 +9,7 @@ TEHRAN:&nbsp;Iran said Tuesday it had finally received an official invitation fr
 
 1. [The News](https://www.thenews.com.pk/latest/178131-Iran-says-it-has-finally-received-Saudi-hajj-invite)
 2. [The Washington Post](https://www.washingtonpost.com/world/middle_east/official-iran-ready-to-discuss-2017-hajj-with-saudi-arabia/2017/01/10/d23a4452-d6f7-11e6-a0e6-d502d6751bc8_story.html)
+2. [Cover Image](https://www.thenews.com.pk/assets/uploads/updates/2017-01-10/l_178131_071138_updates.jpg)
 
 ### Related:
 

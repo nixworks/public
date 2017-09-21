@@ -10,6 +10,7 @@ Aircraft carrier INS Vikramaditya was commissioned into the Indian Navy at a Rus
 1. [RT](http://rt.com/news/russia-india-aircraft-carrier-834/)
 2. [Reuters](http://in.reuters.com/article/2013/11/16/russia-india-aircraftcarrier-idINDEE9AF03H20131116)
 3. [Times of India](http://timesofindia.indiatimes.com/india/After-5-year-delay-Navy-gets-INS-Vikramaditya/articleshow/25911949.cms)
+3. [Cover Image](http://timesofindia.indiatimes.com/photo/25897963.cms)
 
 ### Related:
 

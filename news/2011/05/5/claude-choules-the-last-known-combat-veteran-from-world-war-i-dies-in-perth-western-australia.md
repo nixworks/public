@@ -9,6 +9,7 @@
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42908450)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13289607)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52538000/jpg/_52538233_011903558-2.jpg)
 
 ### Related:
 

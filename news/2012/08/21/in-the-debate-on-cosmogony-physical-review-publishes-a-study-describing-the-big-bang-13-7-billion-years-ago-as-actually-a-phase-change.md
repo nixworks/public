@@ -8,6 +8,7 @@ Physicists say the Big Bang was a phase change, like water freezing into ice, ra
 ### Source:
 
 1. [Space.com](http://www.space.com/17217-big-bang-phase-change-theory.html)
+1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyMC83Nzkvb3JpZ2luYWwvaWNlLWNyYWNrcy5qcGc=)
 
 ### Related:
 

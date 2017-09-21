@@ -25,7 +25,7 @@ _Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016,
 Geneva-based team will investigate ‘abuses that amount to international crimes’ and prepare files for future prosecutions
 
 ### [U.S. President Donald Trump names Florida International University College of Law Dean and former National Labor Relations Board member Alexander Acosta to be Secretary of Labor. The President's initial nominee, Andy Puzder, withdrew his nomination yesterday. ](/news/2017/02/16/u-s-president-donald-trump-names-florida-international-university-college-of-law-dean-and-former-national-labor-relations-board-member-alex.md)
-_Context: Alexander Acosta, Andy Puzder, Donald Trump, Florida International University College of Law, Formation of Donald Trump's cabinet, National Labor Relations Board, President, United States Secretary of Labor_
+_Context: Alexander Acosta, Andy Puzder, Donald Trump, Florida International University College of Law, Formation of Donald Trump's cabinet, National Labor Relations Board, U.S. President, United States Secretary of Labor_
 
 ### [The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budget.md)
 _Context: Mick Mulvaney, Office of Management and Budget, Political appointments of Donald Trump, United States Senate_

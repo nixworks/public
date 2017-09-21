@@ -13,6 +13,7 @@ Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue t
 4. [Irish Independent](http://www.independent.ie/breaking-news/world-news/middle-east/daughter-of-irans-former-president-arrested-1783036.html)
 5. [Press TV](http://www.presstv.ir/detail.aspx?id=98711&sectionid=351020101)
 6. [RTÉ](http://www.rte.ie/news/2009/0621/iran.html)
+6. [Cover Image](https://img.rasset.ie/000262df-1600.jpg)
 
 ### Related:
 

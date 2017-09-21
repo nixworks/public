@@ -9,6 +9,7 @@
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5g1XIg-SpMtu3eZJBlK2PytzlafagD9BJHLN00)
 2. [Reuters](http://www.reuters.com/article/companyNews/idUSLR21027820091027)
+2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

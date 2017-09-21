@@ -10,6 +10,7 @@ A huge car bomb has killed at least eight people and injured dozens in the centr
 1. [Al Arabiya](http://english.alarabiya.net/articles/2012/10/19/244748.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/20121019154940460986.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-20006389)
+3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63594000/jpg/_63594668_beirut_rtr.jpg)
 
 ### Related:
 

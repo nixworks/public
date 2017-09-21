@@ -8,6 +8,7 @@ Chinese-born Australian artist Guo Jian, detained before the Tiananmen anniversa
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-27727504)
+1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75340000/jpg/_75340075_gj-portrait-06.jpg)
 
 ### Related:
 

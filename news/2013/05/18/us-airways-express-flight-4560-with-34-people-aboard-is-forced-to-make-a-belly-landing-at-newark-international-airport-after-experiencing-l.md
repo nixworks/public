@@ -9,6 +9,7 @@ A landing gear problem has forced a plane to make a belly landing at Newark Inte
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Plane-belly-lands-in-NY-20130518)
 2. [CNN](http://edition.cnn.com/2013/05/18/us/new-jersey-us-airways-landing/index.html?hpt=hp_t3)
+2. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2339/c2359ea225544da0a8eb7854880217e4.jpg)
 
 ### Related:
 

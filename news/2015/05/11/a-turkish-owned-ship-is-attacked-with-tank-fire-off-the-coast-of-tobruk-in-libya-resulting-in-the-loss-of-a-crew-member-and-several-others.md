@@ -8,6 +8,7 @@ A Turkish dry cargo ship is attacked off the Libyan coast, killing one crew memb
 ### Source:
 
 1. [Reuters via ABC Online](http://www.abc.net.au/news/2015-05-11/turkish-cargo-ship-attacked-off-libya-coast-officials/6461596)
+1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:
 

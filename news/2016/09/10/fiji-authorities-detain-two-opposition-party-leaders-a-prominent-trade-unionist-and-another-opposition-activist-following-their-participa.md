@@ -9,6 +9,7 @@ The leaders of Fiji&#39;s two opposition parties remained in police custody on S
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/312994/fiji-opposition-leaders-detained,-offices-searched-by-police)
 2. [Reuters](http://www.reuters.com/article/us-fiji-politics-arrests-idUSKCN11G06D?il=0)
+2. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:
 

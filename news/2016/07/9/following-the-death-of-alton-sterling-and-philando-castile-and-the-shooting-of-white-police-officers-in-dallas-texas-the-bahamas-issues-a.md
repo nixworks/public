@@ -8,6 +8,7 @@ The Bahamas issues a rare travel advisory for its citizens visiting the US, reco
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36755182)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/47E4/production/_90340481_us.jpg)
 
 ### Related:
 

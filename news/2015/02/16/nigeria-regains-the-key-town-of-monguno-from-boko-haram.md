@@ -8,6 +8,7 @@ Nigeria, Cameroon and Niger claim to have made gains in pushing back or capturin
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-31493150)
+1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81045000/jpg/_81045742_80589179.jpg)
 
 ### Related:
 

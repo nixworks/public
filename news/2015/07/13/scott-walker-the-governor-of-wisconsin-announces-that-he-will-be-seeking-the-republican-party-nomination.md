@@ -8,6 +8,7 @@ Wisconsin Gov. Scott Walker made his long-expected White House run official Mond
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/politics/2016-election/scott-walker-wisconsin-governor-says-he-running-president-n390991?cid=eml_nbn_20150713)
+1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_15/968596/150408-scott-walker-mn-2000_ac42da1289b0fc1dcabd9ab3bb50c470.nbcnews-fp-1200-800.jpg)
 
 ### Related:
 

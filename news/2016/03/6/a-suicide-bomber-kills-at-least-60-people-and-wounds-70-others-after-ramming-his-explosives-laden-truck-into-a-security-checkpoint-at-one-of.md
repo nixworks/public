@@ -10,6 +10,7 @@ A truck bomb at an Iraqi checkpoint south of Baghdad killed at least 60 people a
 1. [AP via Yahoo! News](http://news.yahoo.com/iraq-suicide-attack-kills-least-11-south-baghdad-104807422.html)
 2. [FOX News](http://www.foxnews.com/world/2016/03/06/at-least-11-killed-in-baghdad-suicide-attack.html)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-blast-idUSKCN0W80G3)
+3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160306&t=2&i=1122786841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC250IO)
 
 ### Related:
 

@@ -10,6 +10,7 @@
 1. [AP via Yahoo!](http://news.yahoo.com/algeria-37-foreigner-hostages-killed-142316716.html)
 2. [Algeria Press Service](http://www.aps.dz/37-hostages-including-an-Algerian,82105.html)
 3. [Reuters](http://www.reuters.com/article/2013/01/21/sahara-crisis-idUSL6N0AQF2520130121)
+3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

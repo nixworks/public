@@ -8,6 +8,7 @@ At least four people killed and 10 others wounded in blast at restaurant in Moga
 ### Source:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/04/somalia-mogadishu-restaurant-attack-150421101819873.html)
+1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/4/21/08bf477bb87346b49e9c60d26127151b_18.jpg)
 
 ### Related:
 
