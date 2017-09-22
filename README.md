@@ -1,6 +1,6 @@
 ## [News](/news/2017/09/22/index.md)
 
-### [ A new study shows that Neanderthal brains developed more slowly than modern humans. ](/news/2017/09/22/a-new-study-shows-that-neanderthal-brains-developed-more-slowly-than-modern-humans.md)
+### [ A new study shows that Neanderthal brains developed more slowly than modern humans, contradicting previous studies. ](/news/2017/09/22/a-new-study-shows-that-neanderthal-brains-developed-more-slowly-than-modern-humans-contradicting-previous-studies.md)
 A new study shows that Neanderthal brains developed more slowly than ours.
 
 ## Opinion
