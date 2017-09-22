@@ -1,16 +1,7 @@
-## [News](/news/2017/09/21/index.md)
+## [News](/news/2017/09/22/index.md)
 
-### [ Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-gbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md)
-The tie-up marks the latest push by Google to boost its hardware business.
-
-### [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md)
-_Context: European migration crisis, Libya_
-
-### [ Coinciding with the 45th anniversary of the declaration of martial law in 1972 by the late Philippine President Ferdinand Marcos, nationwide protests are conducted by various groups against the government's implementation of the war on drugs and the ongoing martial law in the whole of Mindanao under the administration of President Rodrigo Duterte. ](/news/2017/09/21/coinciding-with-the-45th-anniversary-of-the-declaration-of-martial-law-in-1972-by-the-late-philippine-president-ferdinand-marcos-nationwid.md)
-Students and youth groups begin demonstrations for the 45th anniversary of Martial Law with a rally at UP Diliman, to oppose what they fear would be nationwide military rule under the Duterte administration
-
-### [ U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md)
-The US measures will target individuals and firms, including banks, that trade with North Korea.
+### [ A new study shows that Neanderthal brains developed more slowly than modern humans. ](/news/2017/09/22/a-new-study-shows-that-neanderthal-brains-developed-more-slowly-than-modern-humans.md)
+A new study shows that Neanderthal brains developed more slowly than ours.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -18,7 +9,38 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/09/20/index.md)
+## [Yesterday](/news/2017/09/21/index.md)
+
+### [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md)
+_Context: Idlib, Russia, Syria, Syrian Civil War_
+
+### [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md)
+The tie-up marks the latest push by Google to boost its hardware business.
+
+### [ China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md)
+_Context: China, Standard & Poor's_
+
+### [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md)
+_Context: European migration crisis, Libya_
+
+### [Maria, now a Category 3 hurricane with maximum sustained winds of 125 mph (205 km/h), is passing offshore of the northern coast of the Dominican Republic, expected to impact the Turks and Caicos Islands and southeastern Bahamas later tonight and Friday. ](/news/2017/09/21/maria-now-a-category-3-hurricane-with-maximum-sustained-winds-of-125-mph-205-km-h-is-passing-offshore-of-the-northern-coast-of-the-domin.md)
+Puerto Ricans are facing the crushing devastation wrought by Hurricane Maria — splintered homes, uprooted trees and floodwaters coursing through streets.
+
+### [Rescuers are focusing on 10 collapsed buildings where people may still be alive. Mexico City Mayor Miguel Angel Mancera reports the death toll is now at least 273, with 50 people still missing. ](/news/2017/09/21/rescuers-are-focusing-on-10-collapsed-buildings-where-people-may-still-be-alive-mexico-city-mayor-miguel-angel-mancera-reports-the-death-t.md)
+_Context: 2017 Central Mexico earthquake, Mexico City Mayor, Miguel Angel Mancera_
+
+### [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md)
+The US measures will target individuals and firms, including banks, that trade with North Korea.
+
+### [Coinciding with the 45th anniversary of the declaration of martial law in 1972 by the late Philippine President Ferdinand Marcos, nationwide protests are conducted by various groups against the government's implementation of war on drugs and the ongoing martial law in the whole of Mindanao under the administration of President Rodrigo Duterte. ](/news/2017/09/21/coinciding-with-the-45th-anniversary-of-the-declaration-of-martial-law-in-1972-by-the-late-philippine-president-ferdinand-marcos-nationwide.md)
+Students and youth groups begin demonstrations for the 45th anniversary of Martial Law with a rally at UP Diliman, to oppose what they fear would be nationwide military rule under the Duterte administration
+
+### [Facebook agrees to disclose ads that ran in the U.S. in 2016 from accounts associated with a Russian entity known as the Internet Research Agency to United States Congressional investigators. Earlier, this information was provided to Special Counsel Robert Mueller. ](/news/2017/09/21/facebook-agrees-to-disclose-ads-that-ran-in-the-u-s-in-2016-from-accounts-associated-with-a-russian-entity-known-as-the-internet-research-a.md)
+Tech giant was under significant criticism for how it may have allowed Russians to affect the election outcome
+
+---
+
+## [Day Before Yesterday](/news/2017/09/20/index.md)
 
 ### [ The U.S. Federal Reserve announces its benchmark interest rate will not change this month, though it expects an increase by the end of the year, along with three increases in 2018 and two in 2019. The Federal Reserve also says its balance sheet reduction program will begin in October. ](/news/2017/09/20/the-u-s-federal-reserve-announces-its-benchmark-interest-rate-will-not-change-this-month-though-it-expects-an-increase-by-the-end-of-the.md)
 The Fed was not expected to raise its benchmark interest rate at this week&#039;s meeting.
@@ -38,6 +60,9 @@ _Context: U.N. Prohibition of Nuclear Weapons Treaty, nuclear-weapon states_
 ### [Spanish police raid Catalan government offices and arrest Catalan officials as part of the effort to halt a banned referendum on independence. Catalan President Carles Puigdemont says, "The Spanish state has by all rights intervened in Catalonia's government and has established emergency rule." ](/news/2017/09/20/spanish-police-raid-catalan-government-offices-and-arrest-catalan-officials-as-part-of-the-effort-to-halt-a-banned-referendum-on-independenc.md)
 Spanish police raided Catalan government offices and arrested officials on Wednesday to halt a banned referendum on independence, an action the regional president said meant Madrid had effectively taken over his administration.
 
+### [Speaking to government workers at the presidential palace in Manila, President Rodrigo Duterte orders police to kill his eldest son, Paulo Duterte, if drug trafficking allegations against him are proven true, and adds that those who carried out the execution would be protected from prosecution. ](/news/2017/09/20/speaking-to-government-workers-at-the-presidential-palace-in-manila-president-rodrigo-duterte-orders-police-to-kill-his-eldest-son-paulo-d.md)
+Rodrigo Duterte has ordered police to kill his eldest son if drug trafficking allegations against him are proven true. The Philippine President added he would make sure those who carried out the execution would be protected from prosecution. 
+
 ### [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md)
 Saudi Arabia will lift a ban on internet phone calls, a government spokesman said, part of efforts to attract more business to the country.
 
@@ -46,29 +71,7 @@ In the past 540 million years, the Earth has endured five mass extinction events
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/19/index.md)
-
-### [Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km/h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurence. ](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.md)
-_Context: 2007, 2017 Atlantic hurricane season, Dominica, Hurricane Maria, category 5 hurricane, landfall_
-
-### [A magnitude 7.1 earthquake strikes Mexico, killing at least 220 people and collapsing several buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico City earthquake. ](/news/2017/09/19/a-magnitude-7-1-earthquake-strikes-mexico-killing-at-least-220-people-and-collapsing-several-buildings-in-mexico-city-and-widespread-evacua.md)
-Anyone looking for loved ones in Mexico affected by the earthquake can call 1-52-5556-581111 to get in touch with representatives from the Consul General for assistance. On the anniversary of a deadly 8.0 quake that struck central Mexico in 1985, a 7.1 magnitude earthquake hit the same region on Tue...
-
-### [The 72nd session of the United Nations General Assembly commences its General Debate at the United Nations headquarters in Manhattan, New York. ](/news/2017/09/19/the-72nd-session-of-the-united-nations-general-assembly-commences-its-general-debate-at-the-united-nations-headquarters-in-manhattan-new-yo.md)
-Trump vowed to &quot;totally destroy&quot; North Korea unless the nation curbs its nuclear program. 
-
-### [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man is arrested on suspicion of the murders. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md)
-Kenneth James Gleason accused of killing homeless man, dishwasher walking to work in Baton Rouge
-
-### [Spain's Guardia Civil raid private delivery offices in the Catalan city of Terrassa, searching for and confiscating envelopes suspected of containing voting cards for the upcoming Catalan independence referendum. ](/news/2017/09/19/spain-s-guardia-civil-raid-private-delivery-offices-in-the-catalan-city-of-terrassa-searching-for-and-confiscating-envelopes-suspected-of-c.md)
-Police discover a mass of documents directly related to the banned independence referendum.
-
-### [Apple Inc. releases the iOS 11 update for most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-current-models-of-the-iphone-and-ipad.md)
-_Context: Apple Inc., iOS 11, iPad, iPhone_
-
----
-
-## [Previous Day...](/news/2017/09/18/index.md)
+## [Previous Day...](/news/2017/09/19/index.md)
 
 ---
 
