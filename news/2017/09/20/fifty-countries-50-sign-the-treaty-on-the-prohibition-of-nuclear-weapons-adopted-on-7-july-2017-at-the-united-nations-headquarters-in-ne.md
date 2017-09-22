@@ -1,6 +1,6 @@
 ### [2017-09-20](/news/2017/09/20/index.md)
 
-# Fifty countries (50) sign the Treaty on the Prohibition of Nuclear Weapons, adopted on 7 July 2017, at the United Nations headquarters in New York City. The so-called nuclear-weapon states oppose this measure. 
+# Fifty countries (50) sign the Treaty on the Prohibition of Nuclear Weapons, adopted on 7 July 2017, at the United Nations headquarters in New York City. The world's nuclear-weapon states oppose the measure. 
 
 
 

@@ -6,7 +6,7 @@ The tie-up marks the latest push by Google to boost its hardware business.
 ### [ Coinciding with the 45th anniversary of the declaration of martial law in 1972 by the late Philippine President Ferdinand Marcos, nationwide protests are conducted by various groups against the government's implementation of the war on drugs and the ongoing martial law in the whole of Mindanao under the administration of President Rodrigo Duterte. ](/news/2017/09/21/coinciding-with-the-45th-anniversary-of-the-declaration-of-martial-law-in-1972-by-the-late-philippine-president-ferdinand-marcos-nationwid.md)
 Students and youth groups begin demonstrations for the 45th anniversary of Martial Law with a rally at UP Diliman, to oppose what they fear would be nationwide military rule under the Duterte administration
 
-### [ U.S. President Donald Trump announces fresh sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-fresh-sanctions-on-north-korea-over-its-nuclear-weapons-program.md)
+### [ U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md)
 The US measures will target individuals and firms, including banks, that trade with North Korea.
 
 ## Opinion
@@ -26,7 +26,7 @@ A powerful earthquake shook central Mexico on Tuesday, killing at least two peop
 ### [  Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. Seven deaths are reported on Puerto Rico, along with two on Guadeloupe. Puerto Rican Governor Ricardo Rossello declares a 6:00 p.m. to 6:00 a.m. curfew through Saturday. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power-seven-d.md)
 Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to hit the U.S. territory in nearly 90 years, ripping windows from their fixtures and sending debris hurtling through the streets as it approached the capital, San Juan.
 
-### [Fifty countries (50) sign the Treaty on the Prohibition of Nuclear Weapons, adopted on 7 July 2017, at the United Nations headquarters in New York City. The so-called nuclear-weapon states oppose this measure. ](/news/2017/09/20/fifty-countries-50-sign-the-treaty-on-the-prohibition-of-nuclear-weapons-adopted-on-7-july-2017-at-the-united-nations-headquarters-in-ne.md)
+### [Fifty countries (50) sign the Treaty on the Prohibition of Nuclear Weapons, adopted on 7 July 2017, at the United Nations headquarters in New York City. The world's nuclear-weapon states oppose the measure. ](/news/2017/09/20/fifty-countries-50-sign-the-treaty-on-the-prohibition-of-nuclear-weapons-adopted-on-7-july-2017-at-the-united-nations-headquarters-in-ne.md)
 _Context: U.N. Prohibition of Nuclear Weapons Treaty, nuclear-weapon states_
 
 ### [ California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.-Mexico border. ](/news/2017/09/20/california-attorney-general-xavier-becerra-files-suit-in-federal-court-against-u-s-president-donald-trump-s-proposed-plan-for-a-wall-along.md)
