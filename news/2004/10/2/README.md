@@ -7,7 +7,7 @@ _Context: 2004 U.S. presidential candidate, Carl Cameron, Fox News, John Kerry, 
 _Context: Assam, Nagaland, National Democratic Front of Bodoland_
 
 ### [ Yassir Arafat declares a state of emergency in the Gaza Strip and calls for international aid following Israel's raid into Jabaliya. ](/news/2004/10/2/yassir-arafat-declares-a-state-of-emergency-in-the-gaza-strip-and-calls-for-international-aid-following-israel-s-raid-into-jabaliya.md)
-_Context: Gaza, Israel, Jabaliya, Yassir Arafat, states of emergency_
+Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ## [Previous Day...](/news/2004/10/1/index.md)
 

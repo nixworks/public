@@ -4,7 +4,7 @@
 _Context: Bogoljub Karic, Boris Tadic, Dragan Marsicanin, Serbian presidential election, 2004, Tomislav Nikolic_
 
 ### [ Taiwanese pop singer A-Mei cancels a concert in the mainland Chinese city of Hangzhou after protesters accused her of supporting Taiwan independence. ](/news/2004/06/13/taiwanese-pop-singer-a-mei-cancels-a-concert-in-the-mainland-chinese-city-of-hangzhou-after-protesters-accused-her-of-supporting-taiwan-ind.md)
-_Context: A-Mei, Hangzhou, independence, mainland China, the Republic of China_
+_Context: A-Mei, Hangzhou, Taiwan, independence, mainland China_
 
 ### [ Australian federal election, 2004: The Australian Labor Party slightly backs away from its promise to withdraw the country's troops from Iraq by Christmas if it wins. ](/news/2004/06/13/australian-federal-election-2004-the-australian-labor-party-slightly-backs-away-from-its-promise-to-withdraw-the-country-s-troops-from-ir.md)
 _Context: Labor Party, election of 2004_

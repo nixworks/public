@@ -31,7 +31,7 @@ _Context: Baghdad, Iskandariya, Occupation of Iraq, car bomb_
 _Context: Iran, Sharjah International Airport, United Arab Emirates_
 
 ### [ 2004 Philippine elections: The 90-day campaigning period for the president, vice-president, and senators starts this day with no less than six qualified candidates, half of which have no previous political experience. The current president, Gloria Macapagal-Arroyo is seeking a full six-year term. The elections will be held on May 10.](/news/2004/02/10/2004-philippine-elections-the-90-day-campaigning-period-for-the-president-vice-president-and-senators-starts-this-day-with-no-less-than.md)
-_Context: Gloria Macapagal Arroyo, Philippines, President, senators_
+_Context: Gloria Macapagal Arroyo, Philippine President, Philippines, senators_
 
 ### [ The missing Russian politician Ivan Rybkin unexpectedly reappears in Kiev, the capital of neighboring Ukraine, and is said to be on his way back to Moscow. According to his own words he "was entitled to two or three days of private life".](/news/2004/02/10/the-missing-russian-politician-ivan-rybkin-unexpectedly-reappears-in-kiev-the-capital-of-neighboring-ukraine-and-is-said-to-be-on-his-way.md)
 _Context: Ivan Rybkin, Kiev, Ukraine_

@@ -22,7 +22,7 @@ An Antonov-12 Soviet-made cargo plane has crash-landed near South Sudan’s airp
 At&#x20;least&#x20;18&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;up&#x20;to&#x20;150&#x20;trapped&#x20;on&#x20;Wednesday&#x20;when&#x20;a&#x20;factory&#x20;collapsed&#x20;near&#x20;the&#x20;eastern&#x20;Pakistani&#x20;city&#x20;of&#x20;Lahore,&#x20;officials&#x20;said,&#x20;adding&#x20;to&#x20;...
 
 ### [The presidents of China and Taiwan are scheduled to meet in Singapore on November 7th, the first such meeting since the Chinese Communist Revolution. ](/news/2015/11/4/the-presidents-of-china-and-taiwan-are-scheduled-to-meet-in-singapore-on-november-7th-the-first-such-meeting-since-the-chinese-communist-re.md)
-_Context: 2015 Ma-Xi Meeting, China, Chinese Communist Revolution, Cross-Strait relations, Singapore, the Republic of China_
+_Context: 2015 Ma-Xi Meeting, China, Chinese Communist Revolution, Cross-Strait relations, Singapore, Taiwan_
 
 ### [An Association of Southeast Asian Nations (ASEAN) meeting in Malaysia fails to agree on a joint communique following disagreement between China and other nations over the South China Sea. ](/news/2015/11/4/an-association-of-southeast-asian-nations-asean-meeting-in-malaysia-fails-to-agree-on-a-joint-communique-following-disagreement-between-ch.md)
 _Context: Association of Southeast Asian Nations, Malaysia, South China Sea_

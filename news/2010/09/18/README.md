@@ -22,7 +22,7 @@ _Context:  debt, China_
 _Context: Invercargill, New Zealand, South Island, Stadium Southland_
 
 ### [Taiwan prepares for the impact of Typhoon Fanapi. ](/news/2010/09/18/taiwan-prepares-for-the-impact-of-typhoon-fanapi.md)
-_Context: Typhoon Chaba, the Republic of China_
+_Context: Taiwan, Typhoon Chaba_
 
 ### [At least 30 people are dead and 80 injured in a passenger truck crash in Zagyuri in northern Ghana. ](/news/2010/09/18/at-least-30-people-are-dead-and-80-injured-in-a-passenger-truck-crash-in-zagyuri-in-northern-ghana.md)
 _Context: Ghana, Zagyuri, truck_

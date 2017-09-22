@@ -22,7 +22,7 @@ _Context: Corruption Perceptions Index, Somalia_
 _Context: Tay Ninh Province, Vietnam War_
 
 ### [ Taiwanese universities announce they will admit mainland Chinese students for the first time next year. ](/news/2009/11/18/taiwanese-universities-announce-they-will-admit-mainland-chinese-students-for-the-first-time-next-year.md)
-_Context: mainland China, the Republic of China_
+_Context: Taiwan, mainland China_
 
 ### [ Senator and President "pro tempore" of the United States Senate Robert C. Byrd of West Virginia becomes the longest serving member in the history of the United States Congress. ](/news/2009/11/18/senator-and-president-pro-tempore-of-the-united-states-senate-robert-c-byrd-of-west-virginia-becomes-the-longest-serving-member-in-the-h.md)
 _Context: Congress, President pro tempore of the United States Senate, Robert C. Byrd, United States Senate, West Virginia, longest serving member_

@@ -52,7 +52,7 @@ _Context: Pakistan, Pervez Musharraf, president, upcoming presidential election_
 Rescuers were battling to reach more than 180 miners trapped by floods in eastern China, raising fears of more deaths in what is already the world&#039;s most dangerous mining sector.
 
 ### [ At least one person is dead and thousands evacuated as Typhoon Sepat hits Taiwan. ](/news/2007/08/18/at-least-one-person-is-dead-and-thousands-evacuated-as-typhoon-sepat-hits-taiwan.md)
-_Context: Typhoon Sepat, the Republic of China_
+_Context: Taiwan, Typhoon Sepat_
 
 ## [Previous Day...](/news/2007/08/17/index.md)
 

@@ -22,7 +22,7 @@ Police in Tehran shut offices of Mehdi Karroubi, prominent opposition politician
 _Context: China, Urumqi, hypodermic needle, stabbings_
 
 ### [ The son of former Filipino President Corazon Aquino, Benigno Aquino III, announces his intention to run for the presidency. ](/news/2009/09/9/the-son-of-former-filipino-president-corazon-aquino-benigno-aquino-iii-announces-his-intention-to-run-for-the-presidency.md)
-_Context: Corazon Aquino, Philippines, President, his predecessor_
+_Context: Corazon Aquino, Philippine President, Philippines, his predecessor_
 
 ### [ North Korea holds celebrations to mark the 61st anniversary of its founding. ](/news/2009/09/9/north-korea-holds-celebrations-to-mark-the-61st-anniversary-of-its-founding.md)
 ### [ Stephen Farrell, a journalist with "The New York Times", is rescued in northern Afghanistan after four days as a captive of the Taliban, but his Afghan colleague Mohammad Sultan Munadi is shot dead during the raid. ](/news/2009/09/9/stephen-farrell-a-journalist-with-the-new-york-times-is-rescued-in-northern-afghanistan-after-four-days-as-a-captive-of-the-taliban-bu.md)

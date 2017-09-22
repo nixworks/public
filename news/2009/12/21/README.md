@@ -22,7 +22,7 @@ _Context: North Korea, Northern Limit Line, South Korea_
 _Context: Charles Taylor, Liberia, United Nations, United Nations Security Council, arms embargo_
 
 ### [ Mister Bolivia wins Mister International 2009 at the end of the two-week event in Taiwan. ](/news/2009/12/21/mister-bolivia-wins-mister-international-2009-at-the-end-of-the-two-week-event-in-taiwan.md)
-_Context: Bolivia, Mister International 2009, the Republic of China_
+_Context: Bolivia, Mister International 2009, Taiwan_
 
 ### [ Two firefighters are hurt fighting a fire as St. James's Gate Brewery is engulfed by flames which send clouds of smoke across Dublin. ](/news/2009/12/21/two-firefighters-are-hurt-fighting-a-fire-as-st-james-s-gate-brewery-is-engulfed-by-flames-which-send-clouds-of-smoke-across-dublin.md)
 Two members of Dublin Fire Brigade are being treated in hospital following a fire at the Guinness brewery site in Dublin.

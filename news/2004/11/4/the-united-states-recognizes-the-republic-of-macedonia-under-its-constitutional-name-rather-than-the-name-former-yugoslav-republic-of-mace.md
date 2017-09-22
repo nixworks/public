@@ -2,13 +2,14 @@
 
 #  The United States recognizes the Republic of Macedonia under its constitutional name rather than the name "former Yugoslav Republic of Macedonia" used by the United Nations, the first major foreign policy move by the re-elected Bush administration. The move outrages Greece, who had the European Union's support in lobbying against recognition since Macedonia's independence in 1991. 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3981499.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6717491)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

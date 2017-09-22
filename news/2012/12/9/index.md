@@ -10,7 +10,7 @@ A killer typhoon is set to make landfall in the Philippines for a second time, s
 _Context: Jenni Rivera, Mexican-American, Mexico, wreckage of a plane_
 
 ### [Thirteen people are killed and 10 are injured in Hsinchu County, Taiwan, when a bus with 23 people on board rolled off a cliff and tumbled over 100 meters. ](/news/2012/12/9/thirteen-people-are-killed-and-10-are-injured-in-hsinchu-county-taiwan-when-a-bus-with-23-people-on-board-rolled-off-a-cliff-and-tumbled-o.md)
-_Context: Hsinchu County, bus, the Republic of China_
+_Context: Hsinchu County, Taiwan, bus_
 
 ### [Six people are killed and 41 others injured on the spot when a bus skids off the road and plunges into a 30-meter deep gorge in Chimaltenango, Guatemala. ](/news/2012/12/9/six-people-are-killed-and-41-others-injured-on-the-spot-when-a-bus-skids-off-the-road-and-plunges-into-a-30-meter-deep-gorge-in-chimaltenang.md)
 _Context: Chimaltenango, Guatemala, bus, gorge_

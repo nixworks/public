@@ -9,6 +9,7 @@
 
 1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2004/08/13/2003198509)
 2. [VOA](http://www.voanews.com/article.cfm?objectID=7324CD06-CCDA-4139-9C54AAF76097AC3C)
+2. [Cover Image](http://www.taipeitimes.com/images/logo.gif)
 
 ### Related:
 

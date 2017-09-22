@@ -2,12 +2,13 @@
 
 #  Iran's nuclear program: A spokesman for the controversial National Council of Resistance of Iran (NCRI) states that Pakistani nuclear scientist "Abdul Qadeer Khan gave Iran a quantity of HEU (highly enriched uranium) in 2001" and a nuclear bomb design and that Iran "continues to enrich uranium as we speak". 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6844621&section=news)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

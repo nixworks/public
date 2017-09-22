@@ -13,7 +13,7 @@ A supposed Boko Haram leader claims an attack that decimated the Nigerian town o
 Oil services company Baker Hughes Inc. has said that it will lay off about 7,000 workers as it prepares for a downturn. 
 
 ### [A fire in a bowling alley causes a roof collapse in Taoyuan City, Taiwan killing six firefighters. ](/news/2015/01/20/a-fire-in-a-bowling-alley-causes-a-roof-collapse-in-taoyuan-city-taiwan-killing-six-firefighters.md)
-_Context: Taoyuan City, the Republic of China_
+_Context: Taiwan, Taoyuan City_
 
 ### [An overpass of I-75 in Cincinnati, Ohio collapses while undergoing demolition, killing one worker and injuring a trucker whose vehicle was struck by debris. ](/news/2015/01/20/an-overpass-of-i-75-in-cincinnati-ohio-collapses-while-undergoing-demolition-killing-one-worker-and-injuring-a-trucker-whose-vehicle-was-s.md)
 _Context: Cincinnati, I-75, Ohio_

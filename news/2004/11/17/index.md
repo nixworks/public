@@ -7,13 +7,13 @@ _Context: Baiji, Conflict in Iraq, Fallujah, Iraq, Iraqi insurgency, Marines, Mo
 _Context: Argentina, Buenos Aires_
 
 ### [ Kmart purchases Sears in a deal worth $11.5 billion. The combined resources of the companies results in a $55 billion/year company and encompasses close to 3,500 stores. ](/news/2004/11/17/kmart-purchases-sears-in-a-deal-worth-11-5-billion-the-combined-resources-of-the-companies-results-in-a-55-billion-year-company-and-enco.md)
-_Context: Kmart, Sears, Sears Holdings_
+Business news & Financial news from Reuters.com.
 
 ### [ The British House of Lords passes a bill to allow same-sex couples to obtain civil partnerships. This is the final legislative hurdle for the bill, which is expected to receive Royal Assent later in the week.](/news/2004/11/17/the-british-house-of-lords-passes-a-bill-to-allow-same-sex-couples-to-obtain-civil-partnerships-this-is-the-final-legislative-hurdle-for-t.md)
 _Context: House of Lords, Royal Assent, civil union, gay_
 
 ### [ Iran's nuclear program: A spokesman for the controversial National Council of Resistance of Iran (NCRI) states that Pakistani nuclear scientist "Abdul Qadeer Khan gave Iran a quantity of HEU (highly enriched uranium) in 2001" and a nuclear bomb design and that Iran "continues to enrich uranium as we speak". ](/news/2004/11/17/iran-s-nuclear-program-a-spokesman-for-the-controversial-national-council-of-resistance-of-iran-ncri-states-that-pakistani-nuclear-scien.md)
-_Context: Abdul Qadeer Khan, Iran's nuclear program, National Council of Resistance of Iran, enriched uranium, nuclear bomb_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Death of Yasser Arafat: Le Monde reports that former Palestinian leader Yasser Arafat suffered from cirrhosis before dying. ](/news/2004/11/17/death-of-yasser-arafat-le-monde-reports-that-former-palestinian-leader-yasser-arafat-suffered-from-cirrhosis-before-dying.md)
 _Context: Le Monde, Palestinian, Yasser Arafat, cirrhosis, death_

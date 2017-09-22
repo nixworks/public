@@ -7,7 +7,7 @@ _Context: Abu Musab al-Zarqawi, Fallujah, propaganda_
 _Context: Abu Ghraib prisoner abuse, Ivan Frederick, U.S. soldiers, staff sergeant_
 
 ### [ Lebanese Prime Minister Rafiq Hariri resigns and says he will leave the government, ending several weeks of conflict between Hariri and the Syrian-backed President, mile Lahoud. Lahoud's term in office was extended last month, allegedly as a result of pressure from Syria; in response, the United Nations Security Council passed a resolution condemning foreign interference in Lebanon and demanding the withdrawal of foreign troops. ](/news/2004/10/20/lebanese-prime-minister-rafiq-hariri-resigns-and-says-he-will-leave-the-government-ending-several-weeks-of-conflict-between-hariri-and-the.md)
-Prime Minister Rafik Hariri resigned and his Cabinet was annulled Wednesday as expected, but he surprisingly said he will not head the new government due to internal political differences. &quot;Facing the challenges, any challenges, can only be done through a unified domestic front that meets the g...
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ The Boston Red Sox top the Yankees in the 2004 ALCS, and win the series after being down 3-0, winning four straight games in the greatest comeback MLB playoffs history. The Red Sox continue on to face the St. Louis Cardinals in the World Series.](/news/2004/10/20/the-boston-red-sox-top-the-yankees-in-the-2004-alcs-and-win-the-series-after-being-down-3-0-winning-four-straight-games-in-the-greatest-c.md)
 _Context: 2004 ALCS, Boston Red Sox, MLB playoffs, New York Yankees_

@@ -7,7 +7,7 @@ _Context: Chechen War, Chechnya, Tushino airfield, suicide bombing_
 _Context: 2003 invasion of Iraq, Iraq, Ramadi, Saddam Hussein, explosion, police_
 
 ### [ Taiwan is the last territory to be declared free of SARS by the World Health Organization, after 20 days with no new cases reported. ](/news/2003/07/5/taiwan-is-the-last-territory-to-be-declared-free-of-sars-by-the-world-health-organization-after-20-days-with-no-new-cases-reported.md)
-_Context: SARS, World Health Organization, the Republic of China_
+_Context: SARS, Taiwan, World Health Organization_
 
 ### [ In response to 500,000-strong protests earlier in the week, Tung Chee-hwa, Chief Executive of Hong Kong, announces that controversial provisions that are alleged capable of limiting civil liberties in Hong Kong Basic Law Article 23 will be rewritten. ](/news/2003/07/5/in-response-to-500-000-strong-protests-earlier-in-the-week-tung-chee-hwa-chief-executive-of-hong-kong-announces-that-controversial-provi.md)
 _Context: Basic Law, Hong Kong, Hong Kong Basic Law Article 23, Tung Chee-Hwa_

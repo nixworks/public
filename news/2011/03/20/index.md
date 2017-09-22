@@ -25,7 +25,7 @@ _Context: BBC World Service, China, Iran, State Department_
 AT&amp;amp;T Inc. (NYSE: T) and Deutsche Telekom AG (FWB: DTE) today announced that they have entered into a definitive agreement under which AT&amp;a
 
 ### [A small amount of radiation is found on vegetables exported from Japan to Taiwan but the amount is too small to harm human health. ](/news/2011/03/20/a-small-amount-of-radiation-is-found-on-vegetables-exported-from-japan-to-taiwan-but-the-amount-is-too-small-to-harm-human-health.md)
-_Context: Japan, radiation, the Republic of China, vegetables_
+_Context: Japan, Taiwan, radiation, vegetables_
 
 ### [A possible oil slick appears and spreads near the Mississippi Delta off the coast of Grand Isle, Louisiana, suspected to be an oil spill from the Matterhorn Seastar oil rig near the Deepwater Horizon oil spill location or silt contamination from a nearby dredging operation. ](/news/2011/03/20/a-possible-oil-slick-appears-and-spreads-near-the-mississippi-delta-off-the-coast-of-grand-isle-louisiana-suspected-to-be-an-oil-spill-fro.md)
 The U.S. Coast Guard is investigating reports of a &quot;sheen&quot; in the Gulf of Mexico off the coast of Louisiana.

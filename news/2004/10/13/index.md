@@ -1,7 +1,7 @@
 ## [2004-10-13](/news/2004/10/13/index.md)
 
 ### [ The People's Republic of China rejects an offer by Taiwanese President Chen Shui-bian to begin a peace dialogue, deriding the offer as "meaningless", and accusing Chen of making "an open and audacious expression of Taiwan independence" by explicitly stating that the "Republic of China is Taiwan and Taiwan is the Republic of China". ](/news/2004/10/13/the-people-s-republic-of-china-rejects-an-offer-by-taiwanese-president-chen-shui-bian-to-begin-a-peace-dialogue-deriding-the-offer-as-mea.md)
-_Context: Chen Shui-bian, President, Taiwan, independence, the Republic of China_
+_Context: Chen Shui-bian, President, Taiwan, Taiwan, independence_
 
 ### [ U.S. presidential debates: US President George W. Bush and challenger Senator John Kerry meet at Arizona State University in Tempe, Arizona, for the last of three U.S. presidential debates. ](/news/2004/10/13/u-s-presidential-debates-us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-arizona-state-university-in-tempe-arizona.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.

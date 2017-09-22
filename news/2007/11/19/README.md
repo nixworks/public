@@ -1,7 +1,7 @@
 ## [2007-11-19](/news/2007/11/19/index.md)
 
 ### [ Philippine President Gloria Arroyo says her country will not ratify the new Association of Southeast Asian Nations Charter unless the State Peace and Development Council frees opposition leader Aung San Suu Kyi. ](/news/2007/11/19/philippine-president-gloria-arroyo-says-her-country-will-not-ratify-the-new-association-of-southeast-asian-nations-charter-unless-the-state.md)
-_Context: Association of Southeast Asian Nations, Aung San Suu Kyi, Gloria Arroyo, Philippine, President, State Peace and Development Council, charter, opposition_
+_Context: Association of Southeast Asian Nations, Aung San Suu Kyi, Gloria Arroyo, Philippine, Philippine President, State Peace and Development Council, charter, opposition_
 
 ### [ Pakistani Attorney General Malik Qayyum announces the Supreme Court of Pakistan has dismissed five of the six petitions against President Pervez Musharraf's re-election. [http://news.bbc.co.uk/2/hi/south_asia/7101302.stm (BBC)] At least 80 people die and 100 are wounded in sectarian violence in Kurram Agency. [http://news.bbc.co.uk/2/hi/south_asia/7101533.stm (BBC)] Pakistani President Pervez Musharraf rejects United States Deputy Secretary of State John Negroponte's demand to lift the state of emergency.date=December 2007](/news/2007/11/19/pakistani-attorney-general-malik-qayyum-announces-the-supreme-court-of-pakistan-has-dismissed-five-of-the-six-petitions-against-president-p.md)
 _Context: John Negroponte, Kurram, Malik Qayyum, Pakistan, Pervez Musharraf, Supreme Court, US Deputy Secretary of State, United States, attorney general, petition, president, sectarian strife, states of emergency_

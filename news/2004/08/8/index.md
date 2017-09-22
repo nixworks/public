@@ -7,7 +7,7 @@ _Context: Iran, North Korea, nuclear weapon_
 _Context: Amr Moussa, Arab, Arab League, Cairo, Darfur, Egypt, Janjaweed, Sudan, United Nations, ethnic cleansing_
 
 ### [ Militants in Iraq kidnap the Iranian Consul assigned to Karbala, stating that the consul has been acting in ways incompatible with his diplomatic status. ](/news/2004/08/8/militants-in-iraq-kidnap-the-iranian-consul-assigned-to-karbala-stating-that-the-consul-has-been-acting-in-ways-incompatible-with-his-dipl.md)
-_Context: Iran, Iraq, Karbala, diplomat_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Palestinian Authority Justice Nahed Arreyes resigns, stating that he has been stripped of much of his authority over the legal system. ](/news/2004/08/8/palestinian-authority-justice-nahed-arreyes-resigns-stating-that-he-has-been-stripped-of-much-of-his-authority-over-the-legal-system.md)
 _Context: Nahed Arreyes, Palestinian Authority_

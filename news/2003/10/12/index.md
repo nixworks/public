@@ -20,7 +20,7 @@ _Context: Baghdad, Baghdad Hotel, U.S. presence in Iraq_
 _Context: Ras v12, cancer, fruit flies, metastatic, polarity gene_
 
 ### [ Liberia drops diplomatic relations with the Taiwan and re-establishes ties with China. This move was seen largely as a result of China's lobbying in the United Nations, which is planning to deploy a peacekeeping force to Liberia. Taiwanese Foreign Minister Eugene Chien offers to resign as a result.](/news/2003/10/12/liberia-drops-diplomatic-relations-with-the-taiwan-and-re-establishes-ties-with-china-this-move-was-seen-largely-as-a-result-of-china-s-lo.md)
-_Context: China, United Nations, the Republic of China_
+_Context: China, Taiwan, United Nations_
 
 ## [Previous Day...](/news/2003/10/11/index.md)
 

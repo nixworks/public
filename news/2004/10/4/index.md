@@ -1,7 +1,7 @@
 ## [2004-10-4](/news/2004/10/4/index.md)
 
 ### [ Three car bombs&mdash;two in the Iraqi capital of Baghdad, and one in the northern city of Mosul&mdash;kill at least 26 people and wound at least 100. All the casualties are Iraqis. ](/news/2004/10/4/three-car-bombs-mdash-two-in-the-iraqi-capital-of-baghdad-and-one-in-the-northern-city-of-mosul-mdash-kill-at-least-26-people-and-wound-at.md)
-_Context: Baghdad, Conflict in Iraq, Mosul, car bomb_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Canada's 38th Parliament opens with the selection of the Commons Speaker. It is the first minority government in 25 years. The Throne Speech follows tomorrow. ](/news/2004/10/4/canada-s-38th-parliament-opens-with-the-selection-of-the-commons-speaker-it-is-the-first-minority-government-in-25-years-the-throne-speec.md)
 _Context: 38th, Commons Speaker, Parliament of Canada, Queen's Speech, minority government_

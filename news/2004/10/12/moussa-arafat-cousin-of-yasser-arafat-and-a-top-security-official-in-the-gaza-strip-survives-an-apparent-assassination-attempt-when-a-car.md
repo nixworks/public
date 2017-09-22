@@ -2,7 +2,7 @@
 
 #  Moussa Arafat, cousin of Yasser Arafat and a top security official in the Gaza Strip, survives an apparent assassination attempt when a car bomb explodes in his convoy. 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
@@ -11,6 +11,7 @@
 2. [2](http://news.bbc.co.uk/1/hi/world/middle_east/3739148.stm)
 3. [CNN](http://www.cnn.com/2004/WORLD/meast/10/12/mideast.violence/index.html)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6481140&section=news)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

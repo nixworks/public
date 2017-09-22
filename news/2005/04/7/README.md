@@ -13,7 +13,7 @@ _Context: Ibrahim Jaafari, Iraq, Iyad Allawi, Prime Minister, Shia_
 Buses departed Thursday from both the Indian and Pakistani sides of divided Kashmir with a few dozen passengers aboard, heading across one of the world&#8217;s most heavily militarized frontiers in a symbolic step toward peace in a region riven by violence.
 
 ### [ The President of the Republic of China (Taiwan) Chen Shui-bian will be accompanied by his foreign minister as well as Roman Catholic and Muslim religious figures for the trip to attend the funeral of Pope John Paul II. ](/news/2005/04/7/the-president-of-the-republic-of-china-taiwan-chen-shui-bian-will-be-accompanied-by-his-foreign-minister-as-well-as-roman-catholic-and-mu.md)
-_Context: Chen Shui-bian, Pope John Paul II, Roman Catholic, Taiwan, the Republic of China_
+_Context: Chen Shui-bian, Pope John Paul II, Roman Catholic, Taiwan, Taiwan_
 
 ### [ Representatives of the government of Canada withdraw from a business conference with Iran in protest of the case of deceased journalist Zahra Kazemi. Kazemi died in Iranian police custody and Iranian refugee doctor Shahram Azam says that she had extensive injuries and had been tortured. Iranian officials deny the charges. Canada has unsuccessfully demanded return of Kazemi's body. ](/news/2005/04/7/representatives-of-the-government-of-canada-withdraw-from-a-business-conference-with-iran-in-protest-of-the-case-of-deceased-journalist-zah.md)
 _Context: Canada, Iran, Shahram Azam, Zahra Kazemi_

@@ -22,7 +22,7 @@ _Context: Baja California Peninsula, magnitude_
 * U.N. health agency gives global guidance on reporting newvirus* Two cases so far, Saudi and Qatari who went to Saudi* WHO working with Sau
 
 ### [Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/over-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md)
-_Context: Japan Coast Guard, Senkaku Islands, the Republic of China_
+_Context: Japan Coast Guard, Senkaku Islands, Taiwan_
 
 ### [South Korea expresses concern over China's plan to monitor the disputed Socotra Rock area with unmanned drones. ](/news/2012/09/25/south-korea-expresses-concern-over-china-s-plan-to-monitor-the-disputed-socotra-rock-area-with-unmanned-drones.md)
 SEOUL, Sept. 25 (Yonhap) -- South Korea is seeking to verify media reports that China plans to use unmanned drones to conduct marine surveillance of a submerged South Korean rocky outcropping in waters south of Jeju Island, officials said Tuesday.

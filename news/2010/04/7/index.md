@@ -55,7 +55,7 @@ The legend at the Nou Camp reads &#034;mes que un club&#034; (more than a club) 
 _Context: Martina Navratilova, breast cancer_
 
 ### [Shanghai mayor Han Zheng, leading a delegation with a presence from some 50 companies, visits Taiwan for investment talks. ](/news/2010/04/7/shanghai-mayor-han-zheng-leading-a-delegation-with-a-presence-from-some-50-companies-visits-taiwan-for-investment-talks.md)
-_Context: Han Zheng, the Republic of China_
+_Context: Han Zheng, Taiwan_
 
 ### [Norway experiences its first Catholic child abuse scandal as it becomes known that a bishop, Georg Muller, was forced to resign in 2009 because of sexual abuse of an altar boy in the early 1990s. ](/news/2010/04/7/norway-experiences-its-first-catholic-child-abuse-scandal-as-it-becomes-known-that-a-bishop-georg-ma1-4ller-was-forced-to-resign-in-2009-bec.md)
 In May, the leader of Norway’s small Catholic community resigned. The Vatican on Wednesday said why: he had sexually abused a boy in the early 1990s. 

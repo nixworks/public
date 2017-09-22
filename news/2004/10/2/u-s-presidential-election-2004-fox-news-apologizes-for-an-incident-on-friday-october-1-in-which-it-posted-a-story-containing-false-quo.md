@@ -9,6 +9,7 @@
 
 1. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/politics/2826011)
 2. [The Guardian](http://www.guardian.co.uk/uselections2004/story/0,13918,1319075,00.html)
+2. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
 
 ### Related:
 

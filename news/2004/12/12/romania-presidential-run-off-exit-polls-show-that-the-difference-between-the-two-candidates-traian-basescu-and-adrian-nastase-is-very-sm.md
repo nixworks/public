@@ -1,0 +1,23 @@
+### [2004-12-12](/news/2004/12/12/index.md)
+
+#  Romania presidential run-off: Exit polls show that the difference between the two candidates (Traian Basescu and Adrian Nastase) is very small, estimated at less than 0.01%. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4090647.stm)
+
+### Related:
+
+1. [ Romanian presidential election, 2004: Prime Minister Adrian Nastase concedes defeat to opposition candidate Traian Basescu after a close contest. With 99% of the vote counted, Basescu took 51.23% of the vote to Nastase's 48.77%. ](/news/2004/12/13/romanian-presidential-election-2004-prime-minister-adrian-nastase-concedes-defeat-to-opposition-candidate-traian-basescu-after-a-close-co.md) _Context: Adrian Nastase, Romanian presidential election, 2004, Traian Basescu_
+2. [ Traian Basescu, the leader of the Romanian opposition alliance Justice and Truth, demands a re-run of the 2004 legislative elections, claiming that 160,000 void ballots were awarded to Adrian Nastase and his Social Democratic Party. ](/news/2004/11/30/traian-basescu-the-leader-of-the-romanian-opposition-alliance-justice-and-truth-demands-a-re-run-of-the-2004-legislative-elections-claim.md) _Context: Adrian Nastase, Traian Basescu_
+3. [ Romania's ruling Social Democratic Party claims victory in the country's legislative election, and the simultaneous presidential election goes to a second round with Prime Minister Adrian Nastase leading.](/news/2004/11/29/romania-s-ruling-social-democratic-party-claims-victory-in-the-country-s-legislative-election-and-the-simultaneous-presidential-election-g.md) _Context: Adrian Nastase, Romanian presidential election, 2004_
+4. [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md) _Context: Traian Basescu_
+5. [Romanian President Traian Basescu denies any implication in his brother's graft case in which he is charged with receiving 250,000 euros in order to facilitate the release of a well-known incarcerated mobster. Hours after the president's press conference, his brother, Mircea, was arrested for 24h.](/news/2014/06/19/romanian-president-traian-basescu-denies-any-implication-in-his-brother-s-graft-case-in-which-he-is-charged-with-receiving-250-000-euros-in.md) _Context: Traian Basescu_
+6. [Romanian President Traian Basescu sparks a new crisis by refusing to sign the country's IMF accord and threatens Prime Minister Victor Ponta's government with rejecting the national budget, blocking important indexations of salaries and pensions for the following year, over an ongoing political feud between the two leaders. ](/news/2013/12/3/romanian-president-traian-basescu-sparks-a-new-crisis-by-refusing-to-sign-the-country-s-imf-accord-and-threatens-prime-minister-victor-pont.md) _Context: Traian Basescu_
+7. [The Constitutional Court of Romania postpones a decision regarding the impeachment referendum of suspended President Traian Basescu until 31 August 2012, to allow time for the reevaluation of the permanent electoral lists. ](/news/2012/08/2/the-constitutional-court-of-romania-postpones-a-decision-regarding-the-impeachment-referendum-of-suspended-president-traian-basescu-until-3.md) _Context: Traian Basescu_
+8. [For the second time in history and with the same person, the Parliament of Romania votes to suspend President Traian Basescu from office. On 29 July 2012 he will face a national referendum for his dismissal. ](/news/2012/07/6/for-the-second-time-in-history-and-with-the-same-person-the-parliament-of-romania-votes-to-suspend-president-traian-basescu-from-office-o.md) _Context: Traian Basescu_
+9. [Romanian President Traian Basescu could survive the referendum on his impeachment that shows a massive vote against him but under 50% turnout.The Constitutional Court of Romania will give the final word on whether to validate the referendum later this week.](/news/2012/07/30/romanian-president-traian-basescu-could-survive-the-referendum-on-his-impeachment-that-shows-a-massive-vote-against-him-but-under-50-turno.md) _Context: Traian Basescu_
+10. [Voters in Romania go to the polls for an impeachment referendum against the President of Romania Traian Basescu. ](/news/2012/07/29/voters-in-romania-go-to-the-polls-for-an-impeachment-referendum-against-the-president-of-romania-traian-basescu.md) _Context: Traian Basescu_

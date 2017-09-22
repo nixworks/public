@@ -2,12 +2,13 @@
 
 #  2004 Atlantic hurricane season: Hurricane Frances affects the British Virgin Islands, the United States Virgin Islands and the northern-east part of Puerto Rico. 
 
-
+Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
 
 ### Source:
 
 1. [AP/The Star Tribune](http://www.startribune.com/stories/484/4957323.html)
+1. [Cover Image](http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1505935633)
 
 ### Related:
 

@@ -61,7 +61,7 @@ The Age 404 Page
 Federal Indigenous Affairs Minister Mal Brough says the passing of the Commonwealth&#039;s Northern Territory Indigenous intervention legislation in the Senate gives the Government the authority to do what is necessary to secure the future of Aboriginal communities.
 
 ### [ 2007 Pacific typhoon season: Southeast China and Taiwan prepare for typhoon Sepat. ](/news/2007/08/17/2007-pacific-typhoon-season-southeast-china-and-taiwan-prepare-for-typhoon-sepat.md)
-_Context: 2007 Pacific typhoon season, China, Typhoon Sepat, the Republic of China_
+_Context: 2007 Pacific typhoon season, China, Taiwan, Typhoon Sepat_
 
 ### [ Six Islamic militants involved in planning the 2002 Bali bombings have their sentences reduced by five months due to good behaviour. ](/news/2007/08/17/six-islamic-militants-involved-in-planning-the-2002-bali-bombings-have-their-sentences-reduced-by-five-months-due-to-good-behaviour.md)
 _Context: 2002 Bali bombings, Muslims_

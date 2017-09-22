@@ -13,7 +13,7 @@ PM: Soldiers actions justified; IDF says troops were patrolling border when Leba
 _Context: HSBC_
 
 ### [Foxconn Technology, a computer assembler headquartered in Taiwan, plans to add one million robots to its plants over the next three years, according to a Reuters report. ](/news/2011/08/1/foxconn-technology-a-computer-assembler-headquartered-in-taiwan-plans-to-add-one-million-robots-to-its-plants-over-the-next-three-years-a.md)
-_Context: Foxconn, the Republic of China_
+_Context: Foxconn, Taiwan_
 
 ### [BBC journalists stage another 24-hour strike in protest at planned redundancies. ](/news/2011/08/1/bbc-journalists-stage-another-24-hour-strike-in-protest-at-planned-redundancies.md)
 _Context: BBC_
@@ -28,7 +28,7 @@ Italian authorities found 25 dead bodies in a boat that was carrying refugees an
 _Context: Atlantic Ocean, Desirade, Dominican Republic, Guadeloupe, Hurricane Rina, Les Saintes, Marie Galante, Puerto Rico, tropical storm_
 
 ### [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md)
-_Context: North Korea, United States, intercontinental ballistic, six-party talks_
+_Context: North Korea, United States, its nuclear weapons program, six-party talks_
 
 ### [South Korea bans three Japanese lawmakers all from the Liberal Democratic Party due to an assertion of Japanese sovereignty over the Liancourt Rocks. ](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.md)
 _Context: Japanese, Liancourt Rocks, Liberal Democratic Party, South Korea, sovereignty_

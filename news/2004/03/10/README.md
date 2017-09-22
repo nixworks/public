@@ -1,7 +1,7 @@
 ## [2004-03-10](/news/2004/03/10/index.md)
 
 ### [ ROC presidential election, 2004: Wei Chueh, one of four Buddhist masters in Taiwan, controversially endorses Lien Chan. ](/news/2004/03/10/roc-presidential-election-2004-wei-chueh-one-of-four-buddhist-masters-in-taiwan-controversially-endorses-lien-chan.md)
-_Context: 2004 presidential election, Lien Chan, Wei Chueh, the Republic of China_
+_Context: 2004 presidential election, Lien Chan, Taiwan, Wei Chueh_
 
 ### [ National Hockey League hockey player Todd Bertuzzi is suspended for the remainder of the season and for the entire Stanley Cup playoffs for his hit on Steve Moore, which left him with two broken vertebrae in his neck. The Vancouver police department is also looking into the incident. ](/news/2004/03/10/national-hockey-league-hockey-player-todd-bertuzzi-is-suspended-for-the-remainder-of-the-season-and-for-the-entire-stanley-cup-playoffs-for.md)
 _Context: National Hockey League, Stanley Cup, Steve Moore, Todd Bertuzzi, Vancouver, ice hockey_

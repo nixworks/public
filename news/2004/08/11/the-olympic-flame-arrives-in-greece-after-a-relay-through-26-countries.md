@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News24](http://www.news24.com/News24/Olympics2004/OutsideTrack/0,,2-1652-1655_1571477,00.html)
+1. [Cover Image](http://graph.facebook.com/10227041841/picture)
 
 ### Related:
 

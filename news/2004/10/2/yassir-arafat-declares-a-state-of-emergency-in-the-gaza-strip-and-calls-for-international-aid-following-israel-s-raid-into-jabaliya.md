@@ -2,7 +2,7 @@
 
 #  Yassir Arafat declares a state of emergency in the Gaza Strip and calls for international aid following Israel's raid into Jabaliya. 
 
-
+Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
 ### Source:

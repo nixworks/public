@@ -7,7 +7,7 @@ _Context: Ambassador, Barack Obama, Hispanic, Holy See, Miguel H. Diaz, Roman Ca
 _Context: 2008-09, 2009 UEFA Champions League Final, FC Barcelona, Manchester United, UEFA, UEFA Champions League_
 
 ### [ North Korea launches its fifth missile since testing a nuclear weapon on May 25. ](/news/2009/05/27/north-korea-launches-its-fifth-missile-since-testing-a-nuclear-weapon-on-may-25.md)
-_Context: 2009, May 25, North Korea, intercontinental ballistic, nuclear weapon, rocket attacks_
+_Context: 2009, May 25, North Korea, its nuclear weapons program, nuclear weapon, rocket attacks_
 
 ### [ Russian investment firm Digital Sky Technologies purchases 1.96% of the social network service Facebook. ](/news/2009/05/27/russian-investment-firm-digital-sky-technologies-purchases-1-96-of-the-social-network-service-facebook.md)
 Digital Sky Technologies invested $200 million in the social networking company in return for a 1.96 percent stake.

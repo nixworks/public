@@ -2,12 +2,13 @@
 
 #  Mary Kay Letourneau is released from a Washington prison after serving a sentence of over seven years for statutory rape. The former elementary school teacher became notorious for her sexual involvement with one of her male students, who was 12 years old when the illicit relationship began. She bore two children by the boy, who is now 21 years old. 
 
-
+Teacher convicted for having sex with sixth-grade pupil; now 21-year-old former lover plans to challenge court order that bars her from contacting him, friend says.
 
 
 ### Source:
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,127974,00.html)
+1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

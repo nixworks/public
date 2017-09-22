@@ -34,7 +34,7 @@ _Context: 2004 U.S. presidential candidate, African-American, BBC, Democratic, F
 _Context: European Commission, European Parliament, Jose Manuel Barroso_
 
 ### [ The Cassini-Huygens space probe makes its first close flyby of Titan, resulting in images up to 100 times better than anything seen before. ](/news/2004/10/27/the-cassini-huygens-space-probe-makes-its-first-close-flyby-of-titan-resulting-in-images-up-to-100-times-better-than-anything-seen-before.md)
-_Context: Cassini-Huygens, Titan_
+_Context: Cassini, Titan_
 
 ## [Previous Day...](/news/2004/10/26/index.md)
 

@@ -1,7 +1,7 @@
 ## [2015-02-7](/news/2015/02/7/index.md)
 
 ### [North Korea test fires a new "ultra-precision" intelligent anti-ship missile which is to be deployed across its navy. ](/news/2015/02/7/north-korea-test-fires-a-new-ultra-precision-intelligent-anti-ship-missile-which-is-to-be-deployed-across-its-navy.md)
-_Context: North Korea, intercontinental ballistic, navy_
+_Context: North Korea, its nuclear weapons program, navy_
 
 ### [The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshenko-on-sunday.md)
 A peace plan drawn up by France and Germany is &quot;one of the last chances&quot; to end the conflict in east Ukraine, French leader Francois Hollande says.

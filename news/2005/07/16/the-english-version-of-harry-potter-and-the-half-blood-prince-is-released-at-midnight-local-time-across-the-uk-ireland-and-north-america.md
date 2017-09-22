@@ -4,3 +4,7 @@
 
 
 
+
+### Related:
+
+1. [ Author J.K. Rowling announces that the sixth book in her Harry Potter series, "Harry Potter and the Half-Blood Prince", will be published on 16 July 2005. The share price of her British publisher, Bloomsbury, rises 7.5% on the news. ](/news/2004/12/21/author-j-k-rowling-announces-that-the-sixth-book-in-her-harry-potter-series-harry-potter-and-the-half-blood-prince-will-be-published-o.md) _Context: Harry Potter and the Half-Blood Prince_

@@ -13,7 +13,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: National Veterinary Services Laboratory, U.S. Department of Agriculture, mad cow_
 
 ### [ Despite earlier reports that Ukraine's Prime Minister Viktor Yanukovych and opposition leader Viktor Yushchenko had agreed to hold talks over the country's heavily disputed elections, this now seems unlikely. Protests continue, with an official election result due to be announced at around 1400 UTC. ](/news/2004/11/24/despite-earlier-reports-that-ukraine-s-prime-minister-viktor-yanukovych-and-opposition-leader-viktor-yushchenko-had-agreed-to-hold-talks-ov.md)
-_Context: 2004 Ukrainian presidential election, Ukraine, Viktor Yanukovych, Viktor Yushchenko_
+_Context: Ukraine, Ukrainian presidential election controversy, Viktor Yanukovych, Viktor Yushchenko_
 
 ### [ Indonesian police officials announce the arrest of four suspects wanted concerning the 2004 Australian Embassy bombing in Jakarta. ](/news/2004/11/24/indonesian-police-officials-announce-the-arrest-of-four-suspects-wanted-concerning-the-2004-australian-embassy-bombing-in-jakarta.md)
 _Context: 2004 Australian Embassy bombing in Jakarta, Indonesia_

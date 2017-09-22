@@ -2,14 +2,14 @@
 
 #  U.S. President George W. Bush arrives at the Asia-Pacific Economic Cooperation summit in Santiago de Chile for talks with China and other nations. The summit's agenda includes nuclear proliferation and new free trade agreements, particularly on agriculture. Bush hopes to revive six-party talks on North Korea's nuclear program and promote the "War on Terrorism". The Chinese delegation ask Bush to take "all measures necessary" to halt the slide in value of the U.S. dollar. About 40,000 people protest against the summit, Bush, the war in Iraq, and globalization; they are blocked by Chilean police with tear gas and water cannon. 
 
-
+Pacific Rim leaders pledged Sunday to work on global security issues and push ahead with the World Trade Organization&#8217;s negotiations on lowering trade barriers.
 
 
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2004/11/19/apec-bush041119.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/6533636/)
-2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
+2. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/041121/041121_bush_fox_hmed6a.standard.jpg)
 
 ### Related:
 

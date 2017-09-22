@@ -22,7 +22,7 @@ _Context: Bundu dia Kongo, Democratic Republic of the Congo, police_
 _Context: Darfur, Sudan, United Nations, World Food Programme, carjacking, food aid, truck_
 
 ### [ Hundreds of thousands of Taiwanese participate in rival political rallies ahead of the 2008 presidential election. ](/news/2008/03/16/hundreds-of-thousands-of-taiwanese-participate-in-rival-political-rallies-ahead-of-the-2008-presidential-election.md)
-_Context: 2008 presidential election, rallies, the Republic of China_
+_Context: 2008 presidential election, Taiwan, rallies_
 
 ### [ The United National Liberation Front attacks an Indian Army camp in Minou, in the Chandel district of Manipur, killing at least six soldiers. ](/news/2008/03/16/the-united-national-liberation-front-attacks-an-indian-army-camp-in-minou-in-the-chandel-district-of-manipur-killing-at-least-six-soldier.md)
 _Context: Chandel, India, Indian Army, Manipur, Minou, United National Liberation Front_

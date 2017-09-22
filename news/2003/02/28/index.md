@@ -22,7 +22,7 @@ _Context: Czech Republic, Prime Minister of the Czech Republic, Vclav Havel, Vcl
 _Context: Circuit Court, George W. Bush, Pledge of Allegiance, San Francisco, California, United States Supreme Court_
 
 ### [ The United States government backtracked on its pledge to send American combat troops to the Philippines in order to track down Islamic terrorists in that nation. Philippine opponents of the plan threatened to impeach President Gloria Macapagal-Arroyo, if she had allowed foreign troops on Philippine soil in contradiction to the Philippine constitution.](/news/2003/02/28/the-united-states-government-backtracked-on-its-pledge-to-send-american-combat-troops-to-the-philippines-in-order-to-track-down-islamic-ter.md)
-_Context: Gloria Macapagal Arroyo, Philippines, President, impeach_
+_Context: Gloria Macapagal Arroyo, Philippine President, Philippines, impeach_
 
 ### [ The European Dreamcast online gaming network Dreamarena was closed down.](/news/2003/02/28/the-european-dreamcast-online-gaming-network-dreamarena-was-closed-down.md)
 _Context: Dreamarena_

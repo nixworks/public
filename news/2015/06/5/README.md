@@ -22,7 +22,7 @@ PETALING JAYA (THE STAR/ASIA NEWS NETWORK) - The 137 climbers who reached Panar 
 _Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, Middle East respiratory syndrome, South Korea_
 
 ### [Benigno Aquino, the President of the Philippines, says that his government will start discussions with Japan about allowing Japan Self-Defense Forces to refuel at Filipino bases allowing the extension of operations into the South China Sea. ](/news/2015/06/5/benigno-aquino-the-president-of-the-philippines-says-that-his-government-will-start-discussions-with-japan-about-allowing-japan-self-defen.md)
-_Context: Japan, President, South China Sea, his predecessor, military_
+_Context: Japan, Philippine President, South China Sea, his predecessor, military_
 
 ### [Eight out of the ten allegedly involved in shooting Pakistani schoolgirl and Nobel Peace Prize winner Malala Yousafzai have been secretly set free. ](/news/2015/06/5/eight-out-of-the-ten-allegedly-involved-in-shooting-pakistani-schoolgirl-and-nobel-peace-prize-winner-malala-yousafzai-have-been-secretly-se.md)
 Eight of the 10 men reportedly jailed for the attempted assassination of Pakistani schoolgirl Malala Yousafzai were actually acquitted, it emerges.

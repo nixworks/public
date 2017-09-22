@@ -9,6 +9,7 @@
 
 1. [CBS](http://www.cbsnews.com/stories/2004/08/04/politics/main633885.shtml)
 2. [Seattle Post-Intelligencer](http://www.seattlepi.com/opinion/184881_rulinged.html)
+2. [Cover Image](http://www.seattlepi.com/img/pages/article/opengraph_default.png)
 
 ### Related:
 

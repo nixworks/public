@@ -1,7 +1,7 @@
 ## [2003-11-26](/news/2003/11/26/index.md)
 
 ### [ Action movie star FPJ (Fernando Poe, Jr.) announces he will seek the presidency of the Philippines. His popularity has caused political observers to suggest he'll have a major impact on the campaign to choose an opposition candidate for next May's race.](/news/2003/11/26/action-movie-star-fpj-fernando-poe-jr-announces-he-will-seek-the-presidency-of-the-philippines-his-popularity-has-caused-political-obs.md)
-_Context: Action movie, FPJ, Fernando Poe, Jr., Philippines_
+_Context: Action movie, FPJ, Fernando Poe, Jr, Philippines_
 
 ### [ Australian Test cricket captain Steve Waugh announces his retirement from international cricket.](/news/2003/11/26/australian-test-cricket-captain-steve-waugh-announces-his-retirement-from-international-cricket.md)
 _Context: Steve Waugh, Test_

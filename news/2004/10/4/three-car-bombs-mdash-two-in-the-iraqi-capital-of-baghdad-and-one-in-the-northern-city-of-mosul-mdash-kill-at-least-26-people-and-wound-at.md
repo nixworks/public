@@ -2,7 +2,7 @@
 
 #  Three car bombs&mdash;two in the Iraqi capital of Baghdad, and one in the northern city of Mosul&mdash;kill at least 26 people and wound at least 100. All the casualties are Iraqis. 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
@@ -11,6 +11,7 @@
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3712480.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3712480.stm)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6405368)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

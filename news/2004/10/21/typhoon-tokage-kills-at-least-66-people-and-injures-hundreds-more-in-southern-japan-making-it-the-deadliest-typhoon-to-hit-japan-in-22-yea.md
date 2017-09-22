@@ -2,13 +2,14 @@
 
 #  Typhoon Tokage kills at least 66 people and injures hundreds more in southern Japan, making it the deadliest typhoon to hit Japan in 22 years. 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3759624.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6570290)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

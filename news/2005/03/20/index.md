@@ -1,7 +1,7 @@
 ## [2005-03-20](/news/2005/03/20/index.md)
 
 ### [ US Secretary of State Condoleezza Rice arrives in Beijing for the last leg of her six-country Asian trip. Rice met with President Hu Jintao and Premier Wen Jiabao; talks about North Korea nuclear missiles program and Taiwan are on the top of the agenda. ](/news/2005/03/20/us-secretary-of-state-condoleezza-rice-arrives-in-beijing-for-the-last-leg-of-her-six-country-asian-trip-rice-met-with-president-hu-jintao.md)
-_Context: Beijing, Chinese President, Condoleezza Rice, Hu Jintao, North Korea, Premier of the People's Republic of China, United States Secretary of State, Wen Jiabao, nuclear missile, the Republic of China_
+_Context: Beijing, Chinese President, Condoleezza Rice, Hu Jintao, North Korea, Premier of the People's Republic of China, Taiwan, United States Secretary of State, Wen Jiabao, nuclear missile_
 
 ### [ Protesters in Kyrgyzstan march against electoral fraud in the 2005 Kyrgyz parliamentary elections, and appear to have taken control of the southern town of Jalal-Abad after mounting large-scale demonstrations to demand Askar Akayev to step down as President of Kyrgyzstan. ](/news/2005/03/20/protesters-in-kyrgyzstan-march-against-electoral-fraud-in-the-2005-kyrgyz-parliamentary-elections-and-appear-to-have-taken-control-of-the.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

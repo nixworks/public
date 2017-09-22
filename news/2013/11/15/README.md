@@ -16,7 +16,7 @@ A man and a woman have died after a light aircraft crashed near the runway at Ai
 Twelve migrants, including four children, drowned on Friday after their boat capsized just off a Greek island, the coastguard said, adding to the hundreds of deaths this year of people attempting the perilous Mediterranean crossing.
 
 ### [Gambia cuts diplomatic relations with Taiwan. ](/news/2013/11/15/gambia-cuts-diplomatic-relations-with-taiwan.md)
-_Context: Gambia, diplomatic relations, the Republic of China_
+_Context: Gambia, Taiwan, diplomatic relations_
 
 ### [Police in Ethiopia arrest dozens of people outside the Saudi Arabian embassy in the capital Addis Ababa who were protesting against attacks on Ethiopians in Saudi Arabia. ](/news/2013/11/15/police-in-ethiopia-arrest-dozens-of-people-outside-the-saudi-arabian-embassy-in-the-capital-addis-ababa-who-were-protesting-against-attacks.md)
 Police crackdown on demonstrations against targeted attacks on Ethiopian migrant workers in Saudi Arabia.

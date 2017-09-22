@@ -13,7 +13,7 @@ _Context: Equatorial Guinea, SAS, Simon Mann, Zimbabwe, prison_
 _Context: 60 Minutes, CBS, George W. Bush, Jerry B. Killian, Killian memos, Texas Air National Guard, kerning, proportional font, superscript_
 
 ### [ Abdel Aziz Ashkar, 34, a Hamas chief from the Jabaliya refugee camp, is killed while attempting to fire an anti-tank rocket at invading Israeli forces in the northern Gaza Strip. ](/news/2004/09/10/abdel-aziz-ashkar-34-a-hamas-chief-from-the-jabaliya-refugee-camp-is-killed-while-attempting-to-fire-an-anti-tank-rocket-at-invading-isr.md)
-_Context: Gaza, Hamas, Israel, Jabaliya, anti-tank_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Hindu hardliners, the VHP, announce plans to pull down the controversial tomb of Afzalkhan on Sunday, in a grim echo of the 1992 razing of the Babri Mosque in Ayodhya that sparked some of India's worst religious riots. ](/news/2004/09/10/hindu-hardliners-the-vhp-announce-plans-to-pull-down-the-controversial-tomb-of-afzalkhan-on-sunday-in-a-grim-echo-of-the-1992-razing-of.md)
 _Context: Afzalkhan, Ayodhya, Babri Mosque, VHP, religious, riots_
@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: 2M1207, Astronomer, Chile, Solar System, Sun, Yepun telescope, light-years, planetary system_
 
 ### [ Three men possessing homemade bullets at an illegal arms workshop are arrested in connection with the March 19, 2004, assassination attempt in Taiwan. ](/news/2004/09/10/three-men-possessing-homemade-bullets-at-an-illegal-arms-workshop-are-arrested-in-connection-with-the-march-19-2004-assassination-attempt.md)
-_Context: March 19, 2004, assassination attempt in Taiwan_
+Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 ## [Previous Day...](/news/2004/09/9/index.md)
 

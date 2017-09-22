@@ -1,7 +1,7 @@
 ## [2005-04-22](/news/2005/04/22/index.md)
 
 ### [ Rumors abound that a nuclear test by North Korea may be imminent, and that the United States is urging the People's Republic of China to pressure North Korea not to do so. [http://www.hindu.com/thehindu/holnus/003200504231210.htm (The Hindu)] [http://www.washingtonpost.com/wp-dyn/articles/A10477-2005Apr22.html (Washington Post)] There was no test however for over a year following.](/news/2005/04/22/rumors-abound-that-a-nuclear-test-by-north-korea-may-be-imminent-and-that-the-united-states-is-urging-the-people-s-republic-of-china-to-pr.md)
-_Context: China, North Korea, United States, intercontinental ballistic_
+_Context: China, North Korea, United States, its nuclear weapons program_
 
 ### [ Zacarias Moussaoui pleads guilty to terror charges in U.S. federal court. ](/news/2005/04/22/zacarias-moussaoui-pleads-guilty-to-terror-charges-in-u-s-federal-court.md)
 _Context: Zacarias Moussaoui, federal court, terrorism_

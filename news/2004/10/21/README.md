@@ -25,7 +25,7 @@ _Context: Cuba, Fidel Castro_
 _Context: Gran Persson, Swedish Social Democratic Party, Swedish prime minister, government_
 
 ### [ Typhoon Tokage kills at least 66 people and injures hundreds more in southern Japan, making it the deadliest typhoon to hit Japan in 22 years. ](/news/2004/10/21/typhoon-tokage-kills-at-least-66-people-and-injures-hundreds-more-in-southern-japan-making-it-the-deadliest-typhoon-to-hit-japan-in-22-yea.md)
-_Context: Typhoon, Typhoon Tokage_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Human Genome Project revises its estimate of the number of genes in the human genome, putting the number at 20,000 to 25,000, about 30 percent fewer than the previous estimate. ](/news/2004/10/21/the-human-genome-project-revises-its-estimate-of-the-number-of-genes-in-the-human-genome-putting-the-number-at-20-000-to-25-000-about-30.md)
 _Context: Human Genome Project, genome_

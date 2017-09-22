@@ -2,12 +2,13 @@
 
 #  The death toll from monsoon flooding in India exceeds 1,000. 
 
-
+India has evacuated more than 3,000 people from a Himalayan valley because of fears a lake in China will burst its banks and flood across the border, officials said on Tuesday.
 
 
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/5461377/)
+1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/040810/040810_indiaFlood_hmed_12p.standard.jpg)
 
 ### Related:
 

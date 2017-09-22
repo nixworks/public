@@ -7,10 +7,10 @@ World Trade Organization authorizes European Union and seven other leading Ameri
 _Context: female suicide bombing, subway station_
 
 ### [ Despite demands from Iraqi resistance Islamist militant elements threatening to kill two French hostages, France upholds its law on secularity and conspicuous religious symbols in schools, specifically its ban on Muslim hijabs. ](/news/2004/08/31/despite-demands-from-iraqi-resistance-islamist-militant-elements-threatening-to-kill-two-french-hostages-france-upholds-its-law-on-secular.md)
-_Context: Islamist, hijab, law on secularity and conspicuous religious symbols in schools, militant, rebel-held_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In Iraq, the radical Islamist group, Army of Ansar al-Sunna, kill 12 Nepali civilians employed as cooks and cleaners, stating "We have carried out the sentence of God against 12 Nepalis who came from their country to fight the Muslims and to serve the Jews and the Christians&nbsp;... believing in Buddha as their God" ](/news/2004/08/31/in-iraq-the-radical-islamist-group-army-of-ansar-al-sunna-kill-12-nepali-civilians-employed-as-cooks-and-cleaners-stating-we-have-carr.md)
-_Context: Army of Ansar al-Sunna, Gautama Buddha, God, Islamist, Nepal_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Repeated attacks on pipelines linked to southern oil fields have significantly hampered oil exports from Iraq. ](/news/2004/08/31/repeated-attacks-on-pipelines-linked-to-southern-oil-fields-have-significantly-hampered-oil-exports-from-iraq.md)
 _Context: Iraq, crude oil, oil field, pipeline_
@@ -25,7 +25,7 @@ _Context: Beersheba, Hamas, Israel, March 14, Palestinian, Suicide bombers_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ 2004 Atlantic hurricane season: Hurricane Frances affects the British Virgin Islands, the United States Virgin Islands and the northern-east part of Puerto Rico. ](/news/2004/08/31/2004-atlantic-hurricane-season-hurricane-frances-affects-the-british-virgin-islands-the-united-states-virgin-islands-and-the-northern-eas.md)
-_Context: 2004 Atlantic hurricane season, British Virgin Islands, Hurricane Frances, Puerto Rico, Virgin Islands'_
+Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
 ### [ California Governor and former Hollywood star Arnold Schwarzenegger extols the United States as a greater source of good in the world than the UN: "If you believe this country, not the United Nations, is the best hope of democracy in the world, then you are a Republican", he shouts, at the Republican National Convention. ](/news/2004/08/31/california-governor-and-former-hollywood-star-arnold-schwarzenegger-extols-the-united-states-as-a-greater-source-of-good-in-the-world-than.md)
 _Context: Arnold Schwarzenegger, California, Hollywood, Republican, Republican National Convention, United Nations, democratic progress, gubernatorial elections_

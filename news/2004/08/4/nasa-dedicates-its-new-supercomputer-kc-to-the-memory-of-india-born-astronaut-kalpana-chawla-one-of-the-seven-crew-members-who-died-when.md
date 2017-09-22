@@ -2,12 +2,13 @@
 
 #  NASA dedicates its new supercomputer 'KC' to the memory of India-born astronaut Kalpana Chawla, one of the seven crew members who died when the space Shuttle Columbia disintegrated in mid-air in 2003. 
 
-
+NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
 ### Source:
 
 1. [NDTV](http://www.ndtv.com/template/template.asp?template=Columbiacrash&slug=NASA+dedicates+super+computer+to+Kalpana&id=58219&callid=1&category=National&headline=NASA~dedicates~super~computer~to~Kalpana)
+1. [Cover Image](https://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 

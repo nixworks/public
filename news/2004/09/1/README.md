@@ -7,7 +7,7 @@ _Context: Alu Alkhanov, Chechnya_
 The number of American troops wounded in Iraq since the U.S.-led invasion in March 2003 is approaching 7,000, according to figures published Tuesday by the Pentagon. The death toll for U.S. military personnel is 975, plus three Defense Department civilians.
 
 ### [ Iran has informed the International Atomic Energy Agency that it plans to convert 37 tons (33,600 kg) of yellowcake uranium into uranium hexafluoride&mdash;estimated to be enough for five nuclear weapons. ](/news/2004/09/1/iran-has-informed-the-international-atomic-energy-agency-that-it-plans-to-convert-37-tons-33-600-kg-of-yellowcake-uranium-into-uranium-he.md)
-_Context: IAEA, Iran, nuclear weapon, uranium hexafluoride, yellowcake_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Beslan hostage crisis: Approximately 30 armed men and women seize a school in Beslan, North Ossetia, a Russian city close to Chechnya, taking over 1,300 adults and children hostage. Russian police and army units quickly surround the school, beginning a three-day standoff. ](/news/2004/09/1/beslan-hostage-crisis-approximately-30-armed-men-and-women-seize-a-school-in-beslan-north-ossetia-a-russian-city-close-to-chechnya-taki.md)
 _Context: Beslan, Beslan hostage crisis, Chechnya, North Ossetia, hostage_

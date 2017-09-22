@@ -1,0 +1,23 @@
+### [2004-12-16](/news/2004/12/16/index.md)
+
+#  Leaders of the European Union, meeting in Brussels, agree to invite Turkey to begin negotiations to join the EU from 3 October 2005, about 36 years after they first applied to join. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4103397.stm)
+
+### Related:
+
+1. [The European Union and Turkey agree on broad principles for a plan to ease the migration crisis which includes returning thousands of migrants to Turkey. For this, the EU will swiftly ease visa requirements for Turks and speed up Ankara's EU accession talks. A final agreement is to be ready for next week's two-day EU summit in Brussels, Belgium. ](/news/2016/03/8/the-european-union-and-turkey-agree-on-broad-principles-for-a-plan-to-ease-the-migration-crisis-which-includes-returning-thousands-of-migran.md) _Context: Brussels, EU, Turkey_
+2. [Eleven European and Balkan leaders meet about the migrant crisis at an emergency summit in Brussels, Belgium; Turkey did not attend. The Prime Minister of Slovenia says the EU will 'start falling apart' within weeks if the migrant crisis continues unchecked. Huge divisions remain among EU states over how to deal with the influx of hundreds of thousands of migrants. ](/news/2015/10/25/eleven-european-and-balkan-leaders-meet-about-the-migrant-crisis-at-an-emergency-summit-in-brussels-belgium-turkey-did-not-attend-the-pri.md) _Context: Brussels, EU, Turkey_
+3. [ A draft European Commission report raises new doubts about Turkey's bid to join the European Union. ](/news/2006/11/3/a-draft-european-commission-report-raises-new-doubts-about-turkey-s-bid-to-join-the-european-union.md) _Context: Accession of Turkey to the European Union, EU, Turkey_
+4. [ The E.U. states that Turkey must recognize the ethnic-Greek government of E.U. member state Cyprus before it can begin negotiations for E.U. membership. Currently Turkey is the only country that recognizes the Turkish Republic of Northern Cyprus. ](/news/2004/12/17/the-e-u-states-that-turkey-must-recognize-the-ethnic-greek-government-of-e-u-member-state-cyprus-before-it-can-begin-negotiations-for-e-u.md) _Context: Accession of Turkey to the European Union, EU, Turkey_
+5. [Several people are wounded in clashes outside the Turkish consulate in Brussels. ](/news/2017/03/30/several-people-are-wounded-in-clashes-outside-the-turkish-consulate-in-brussels.md) _Context: Brussels, Turkey_
+6. [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md) _Context: Brussels, EU_
+7. [Turkish President Recep Tayyip Erdogan threatens to open Turkey's borders to allow refugees and migrants to reach Europe after the European Parliament votes to temporarily freeze talks of Turkey's accession to the EU. ](/news/2016/11/25/turkish-president-recep-tayyip-erdoaan-threatens-to-open-turkey-s-borders-to-allow-refugees-and-migrants-to-reach-europe-after-the-european.md) _Context: Accession of Turkey to the European Union, Turkey_
+8. [Turkey fails to meet the criteria set forth by the European Union in order to obtain visa-free travel to its member states. The EU promised to grant Turkey visa-free travel only if it met specific conditions on border security and human rights. ](/news/2016/06/15/turkey-fails-to-meet-the-criteria-set-forth-by-the-european-union-in-order-to-obtain-visa-free-travel-to-its-member-states-the-eu-promised.md) _Context: EU, Turkey_
+9. [Hansjorg Haber, the European Union's top envoy to Turkey, resigns effective August. Omer Celik, Turkish Minister of European Union Affairs, had complained that Haber had shown disrespect for Turkey's national values, and for President Tayyip Erdogan. EU officials declined to comment on the reason for Haber's resignation. ](/news/2016/06/14/hansjaprg-haber-the-european-union-s-top-envoy-to-turkey-resigns-effective-august-amer-aelik-turkish-minister-of-european-union-affair.md) _Context: EU, Turkey_
+10. [Police in northern Greece move more than 400 Syrians and Iraqis by bus from a makeshift camp near the Macedonian border to a shelter near the northern city of Thessaloniki. More than 50,000 migrants remain stranded in Greece following European border closures, and the European Union's agreement with Turkey. ](/news/2016/06/13/police-in-northern-greece-move-more-than-400-syrians-and-iraqis-by-bus-from-a-makeshift-camp-near-the-macedonian-border-to-a-shelter-near-th.md) _Context: EU, Turkey_

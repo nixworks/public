@@ -7,7 +7,7 @@ _Context: Balakovo, Pharmacy, Saratov, engineer, iodine, nuclear reactor, radiat
 _Context: Rivno, Ukraine, nuclear reactor, radiation_
 
 ### [ Spammer Jeremy Jaynes, rated the world's eighth most-prolific spammer, is convicted of three felony charges of sending thousands of junk e-mails through servers located in Virginia, and is recommended to be sentenced to nine years' imprisonment. His sister is fined $7500 for related offences. ](/news/2004/11/4/spammer-jeremy-jaynes-rated-the-world-s-eighth-most-prolific-spammer-is-convicted-of-three-felony-charges-of-sending-thousands-of-junk-e.md)
-_Context: Jeremy Jaynes, USD, Virginia, spammer_
+Computerworld covers a wide range of technology topics, including software, security, operating systems, mobile, storage, servers and data centers, emerging tech, and technology companies such as Microsoft, Google and Apple.
 
 ### [ President designate of the European Commission Jos Manuel Barroso announces that Franco Frattini from Italy and Andris Piebalgs from Latvia will complete his commission.](/news/2004/11/4/president-designate-of-the-european-commission-jose-manuel-barroso-announces-that-franco-frattini-from-italy-and-andris-piebalgs-from-latvi.md)
 _Context: Andris Piebalgs, European Commission, Franco Frattini, Jos Manuel Barroso, Latvia_
@@ -22,7 +22,7 @@ _Context: Ariel Sharon, Gaza, Israel, Israeli Defence Force, Operation Days of P
 _Context: Iraq, Mdecins Sans Frontires, NGO_
 
 ### [ The United States recognizes the Republic of Macedonia under its constitutional name rather than the name "former Yugoslav Republic of Macedonia" used by the United Nations, the first major foreign policy move by the re-elected Bush administration. The move outrages Greece, who had the European Union's support in lobbying against recognition since Macedonia's independence in 1991. ](/news/2004/11/4/the-united-states-recognizes-the-republic-of-macedonia-under-its-constitutional-name-rather-than-the-name-former-yugoslav-republic-of-mace.md)
-_Context: EU, George W. Bush, Macedonian_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Elizabeth Edwards, wife of former Democratic vice presidential candidate John Edwards, announces that she has breast cancer.](/news/2004/11/4/elizabeth-edwards-wife-of-former-democratic-vice-presidential-candidate-john-edwards-announces-that-she-has-breast-cancer.md)
 _Context: Democratic, Elizabeth Edwards, John Edwards, U.S. Vice President, breast cancer_
@@ -37,7 +37,7 @@ _Context: 2004 presidential election, Chen Shui-bian, Kuomintang (Chinese Nation
 _Context: Type 2 diabetes, Winnipeg, Manitoba, hepatic insulin sensitizing substance, insulin_
 
 ### [ Same-sex marriage in Canada: Two lesbian couples denied marriage licences file a lawsuit against the governments of Canada and of Newfoundland and Labrador, asking for the legalization of same-sex marriage in that province. ](/news/2004/11/4/same-sex-marriage-in-canada-two-lesbian-couples-denied-marriage-licences-file-a-lawsuit-against-the-governments-of-canada-and-of-newfoundl.md)
-_Context: Newfoundland and Labrador, same-sex marriage in Canada, same-sex marriage in that province_
+_Context: Newfoundland and Labrador, eighth of Canada's provinces and territories, same-sex marriage in Canada_
 
 ### [ Olympic gold medalist Michael Phelps arrested and charged with driving under the influence. Maryland State Police say Phelps was stopped around 11:30 Thursday night, near the intersection of Route 13 and Bateman Street in Salisbury, after a trooper spotted an SUV that failed to stop at a stop sign. Beside the charge of driving under the influence, Phelps was also charged with driving while impaired by alcohol, violation of a license restriction, and failure to obey a traffic control device. ](/news/2004/11/4/olympic-gold-medalist-michael-phelps-arrested-and-charged-with-driving-under-the-influence-maryland-state-police-say-phelps-was-stopped-ar.md)
 _Context: Maryland, Michael Phelps, Olympic Games, SUV, Salisbury_

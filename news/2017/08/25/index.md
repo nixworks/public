@@ -55,7 +55,7 @@ The suit was filed in U.S. District Court in Washington on behalf of five transg
 _Context: Environmental policy of the Donald Trump administration, U.S. Environmental Protection Agency, global warming_
 
 ### [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md)
-_Context: 2017 in spaceflight, FORMOSAT-5, Falcon 9, National Space Organization, SpaceX, the Republic of China_
+_Context: 2017 in spaceflight, FORMOSAT-5, Falcon 9, National Space Organization, SpaceX, Taiwan_
 
 ## [Previous Day...](/news/2017/08/24/index.md)
 

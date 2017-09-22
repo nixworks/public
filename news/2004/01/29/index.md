@@ -1,7 +1,7 @@
 ## [2004-01-29](/news/2004/01/29/index.md)
 
 ### [ A 60-ton sperm whale carcass explodes in downtown Tainan, Taiwan, causing traffic delays and showering vehicles and pedestrians with blood and entrails.](/news/2004/01/29/a-60-ton-sperm-whale-carcass-explodes-in-downtown-tainan-taiwan-causing-traffic-delays-and-showering-vehicles-and-pedestrians-with-blood.md)
-_Context: Tainan, sperm whale, the Republic of China_
+_Context: Tainan, Taiwan, sperm whale_
 
 ### [ A report submitted today to the State of Maryland states that the electronic voting machines made by Diebold Election Systems "have such poor computer security and physical security that an election could be disrupted or even stolen by corrupt insiders or determined outsiders". The machines have been purchased by a number of states in the United States. This is the third report to state that the machines do not meet the security requirements of an election. Previous reports are available online.](/news/2004/01/29/a-report-submitted-today-to-the-state-of-maryland-states-that-the-electronic-voting-machines-made-by-diebold-election-systems-have-such-po.md)
 _Context: Diebold Election Systems, Maryland, election system, machine_

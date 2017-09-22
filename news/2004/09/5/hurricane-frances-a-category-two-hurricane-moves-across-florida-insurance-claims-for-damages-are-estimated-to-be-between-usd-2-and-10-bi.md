@@ -9,6 +9,7 @@
 
 1. [MSNBC](http://msnbc.msn.com/id/5921725/)
 2. [NOAA/NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/)
+2. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:
 

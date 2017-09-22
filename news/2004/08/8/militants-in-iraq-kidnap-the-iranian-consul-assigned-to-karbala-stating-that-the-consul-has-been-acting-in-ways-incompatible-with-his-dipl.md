@@ -2,12 +2,13 @@
 
 #  Militants in Iraq kidnap the Iranian Consul assigned to Karbala, stating that the consul has been acting in ways incompatible with his diplomatic status. 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5904233)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

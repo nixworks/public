@@ -22,7 +22,7 @@ _Context: Papua New Guinea, giant rat_
 _Context: Cadbury chocolates, Dairy Milk, Kraft Foods Inc., Trident gum_
 
 ### [ The premier of the Republic of China (Taiwan), Liu Chao-shiuan, and his cabinet resign due to criticism and public anger over the slow handling of the disaster during Typhoon Morakot. ](/news/2009/09/7/the-premier-of-the-republic-of-china-taiwan-liu-chao-shiuan-and-his-cabinet-resign-due-to-criticism-and-public-anger-over-the-slow-hand.md)
-_Context: Executive Branch, Liu Chao-shiuan, Premier, Taiwan, Typhoon Morakot, the Republic of China_
+_Context: Executive Branch, Liu Chao-shiuan, Premier, Taiwan, Taiwan, Typhoon Morakot_
 
 ### [ Sudanese activist Lubna al-Hussein is found guilty of breaching Sudanese criminal law by wearing trousers, but is fined instead of being sentenced to flogging due to international concern over the trial. She has stated she will not pay and instead face a month in jail. ](/news/2009/09/7/sudanese-activist-lubna-al-hussein-is-found-guilty-of-breaching-sudanese-criminal-law-by-wearing-trousers-but-is-fined-instead-of-being-se.md)
 _Context: Lubna al-Hussein, Sudan, Sudanese criminal law_

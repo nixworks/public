@@ -1,7 +1,7 @@
 ## [2006-05-30](/news/2006/05/30/index.md)
 
 ### [ A motion to vote on a bill opening the Three Links between mainland China and Taiwan is defeated for the third time in the Legislative Yuan of the Republic of China when a Democratic Progressive Party lawmaker tries to eat the written cloture motion. The opposition Pan-Blue Coalition controls the legislature and would have likely passed the bill. ](/news/2006/05/30/a-motion-to-vote-on-a-bill-opening-the-three-links-between-mainland-china-and-taiwan-is-defeated-for-the-third-time-in-the-legislative-yuan.md)
-_Context: Democratic Progressive Party, Taiwan, Three Links, coalition allies, legislative chamber, mainland China, the Republic of China_
+_Context: Democratic Progressive Party, Taiwan, Taiwan, Three Links, coalition allies, legislative chamber, mainland China_
 
 ### [ British mobile phone operator Vodafone posts the largest annual loss in British corporate history &ndash; GBP21.8 billion &ndash; as it writes down the value of company purchases made mainly in Germany in the years up to 2000. ](/news/2006/05/30/british-mobile-phone-operator-vodafone-posts-the-largest-annual-loss-in-british-corporate-history-ndash-gbp21-8-billion-ndash-as-it-wri.md)
 _Context: GBP, Germany, United Kingdom, Vodafone Group Plc, mobile phone_

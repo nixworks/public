@@ -4,7 +4,7 @@
 A search and rescue operation is underway for three US Marines who remain missing after an military aircraft ...
 
 ### [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md)
-_Context: North Korea, North Korea and the United Nations, United Nations Security Council, United Nations Security Council Resolution 2371, intercontinental ballistic, missile tests_
+_Context: North Korea, North Korea and the United Nations, United Nations Security Council, United Nations Security Council Resolution 2371, its nuclear weapons program, missile tests_
 
 ### [An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is-investigating-the-c.md)
 _Context: Bloomington, Minnesota, Crime in Minnesota, FBI, improvised explosive device_

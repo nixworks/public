@@ -4,7 +4,7 @@
 _Context: Iraq, Kidnap, Micah Garen, Nasiriyah, journalist_
 
 ### [ Singapore's new Prime Minister Lee Hsien Loong, hoping to quell Beijing's fury over his July 10-12 visit to Taiwan, says that he will not support the island if the People's Republic of China attacks it in retaliation for any push for Taiwan independence. ](/news/2004/08/22/singapore-s-new-prime-minister-lee-hsien-loong-hoping-to-quell-beijing-s-fury-over-his-july-10a12-visit-to-taiwan-says-that-he-will-not.md)
-_Context: Lee Hsien Loong, Prime Minister of Singapore, Singapore, independence, the Republic of China_
+_Context: Lee Hsien Loong, Prime Minister of Singapore, Singapore, Taiwan, independence_
 
 ### [ A Venezuelan military airplane crashes as it approaches its base in the central industrial state of Aragua, killing all 25 on board. ](/news/2004/08/22/a-venezuelan-military-airplane-crashes-as-it-approaches-its-base-in-the-central-industrial-state-of-aragua-killing-all-25-on-board.md)
 _Context: Aragua state, Venezuela, airplane, military_

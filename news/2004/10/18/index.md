@@ -16,7 +16,7 @@ _Context: 2004 U.S. presidential candidate, Florida_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Iran says that it is willing to negotiate with the U.K., Germany, and France regarding a suspension of its uranium enrichment activities, but that it will never renounce its right to enrich uranium. Iran's nuclear program is currently under investigation by the International Atomic Energy Agency. ](/news/2004/10/18/iran-says-that-it-is-willing-to-negotiate-with-the-u-k-germany-and-france-regarding-a-suspension-of-its-uranium-enrichment-activities-b.md)
-_Context: IAEA, Iran, Iran's nuclear program, uranium enrichment_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Anglican Communion's Lambeth Commission on Communion releases the Windsor Report. The Commission recommends that churches throughout the Communion express regret for the divisions that they have caused in the Communion. This report was precipitated by the consecration of the openly gay Reverend Gene Robinson as a bishop in the United States Episcopal Church, and by the responses of other Anglican churches to his consecration. ](/news/2004/10/18/the-anglican-communion-s-lambeth-commission-on-communion-releases-the-windsor-report-the-commission-recommends-that-churches-throughout-th.md)
 _Context: Anglican Communion, Gene Robinson, Lambeth Commission on Communion, United States Episcopal Church, bishop, homosexuality_

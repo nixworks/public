@@ -10,7 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ A previously scheduled EU-Russia summit in The Hague is overshadowed by the Ukraine presidential election crisis. ](/news/2004/11/25/a-previously-scheduled-euarussia-summit-in-the-hague-is-overshadowed-by-the-ukraine-presidential-election-crisis.md)
-_Context: 2004 Ukrainian presidential election, EU, The Hague, summit_
+_Context: EU, The Hague, Ukrainian presidential election controversy, summit_
 
 ### [ Gang war between rival groups of Camorra continues in Naples, Italy. ](/news/2004/11/25/gang-war-between-rival-groups-of-camorra-continues-in-naples-italy.md)
 _Context: Camorra, Naples_

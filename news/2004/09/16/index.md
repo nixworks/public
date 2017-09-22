@@ -1,7 +1,7 @@
 ## [2004-09-16](/news/2004/09/16/index.md)
 
 ### [ Prominent Saudis reject yesterday's declaration by the U.S. State Department that Saudi Arabia severely restricts religious freedom, arguing that the report that made the declaration was politically motivated. ](/news/2004/09/16/prominent-saudis-reject-yesterday-s-declaration-by-the-u-s-state-department-that-saudi-arabia-severely-restricts-religious-freedom-arguin.md)
-_Context: Saudi Arabia, State Department, religious freedom_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Manitoba becomes the fourth province, and the fifth jurisdiction, in Canada to legalize same-sex marriage. ](/news/2004/09/16/manitoba-becomes-the-fourth-province-and-the-fifth-jurisdiction-in-canada-to-legalize-same-sex-marriage.md)
 _Context: Manitoba, same-sex marriage in Canada_

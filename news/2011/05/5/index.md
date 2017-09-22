@@ -61,7 +61,7 @@ _Context: Calisto Tanzi, Italy, Parmalat_
 _Context: Camorra, Italian Prime Minister, Naples, People of Freedom party, Silvio Berlusconi, US$_
 
 ### [A shipping vessel registered in Taiwan with a history of oil spills is fined CAD $80,000 for the illegal dumping of pollutants in Canadian waters south of Newfoundland. ](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.md)
-_Context: CAN$, Newfoundland, illegal dumping, oil spill, the Republic of China_
+_Context: CAN$, Newfoundland, Taiwan, illegal dumping, oil spill_
 
 ### [Voters in the United Kingdom go to the polls for a referendum on whether to use the alternative vote electoral system for the House of Commons. ](/news/2011/05/5/voters-in-the-united-kingdom-go-to-the-polls-for-a-referendum-on-whether-to-use-the-alternative-vote-electoral-system-for-the-house-of-commo.md)
 The people of Wales are going to the polls to elect the next Welsh Assembly Government and vote in the AV referendum.

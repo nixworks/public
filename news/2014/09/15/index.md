@@ -10,7 +10,7 @@ _Context: Cognizant, US$_
 _Context: Microsoft, Minecraft, Mojang, Swede_
 
 ### [An accidental fire severely burns a giant white rabbit erected by Dutch artist Florentijn Hofman in Taoyuan, Taiwan. ](/news/2014/09/15/an-accidental-fire-severely-burns-a-giant-white-rabbit-erected-by-dutch-artist-florentijn-hofman-in-taoyuan-taiwan.md)
-_Context: Florentijn Hofman, Taoyuan City, giant white rabbit, the Republic of China_
+_Context: Florentijn Hofman, Taiwan, Taoyuan City, giant white rabbit_
 
 ### [Five hundred people drowned off the coast of Malta last week after people traffickers deliberately sank their ship. ](/news/2014/09/15/five-hundred-people-drowned-off-the-coast-of-malta-last-week-after-people-traffickers-deliberately-sank-their-ship.md)
 More than 700 people fleeing Africa and the Middle East may have drowned in shipwrecks in the Mediterranean over the last week, bringing the death toll this year to almost 3,000, the International Organisation for Migration (IOM) said on Monday.

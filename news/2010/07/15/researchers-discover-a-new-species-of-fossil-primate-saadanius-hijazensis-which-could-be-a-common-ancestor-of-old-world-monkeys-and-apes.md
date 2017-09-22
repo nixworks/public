@@ -14,3 +14,4 @@
 ### Related:
 
 1. [A newly discovered fossil species, "Archicebus achilles", is described as the oldest known primate. ](/news/2013/06/5/a-newly-discovered-fossil-species-archicebus-achilles-is-described-as-the-oldest-known-primate.md) _Context: primate_
+2. [ A new species of monkey, the Arunachal Macaque, is discovered in India. It is the first new macaque discovered since 1903 and the first new primate in 49 years. ](/news/2004/12/14/a-new-species-of-monkey-the-arunachal-macaque-is-discovered-in-india-it-is-the-first-new-macaque-discovered-since-1903-and-the-first-new.md) _Context: primate_

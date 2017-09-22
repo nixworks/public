@@ -2,12 +2,13 @@
 
 #  Prominent Saudis reject yesterday's declaration by the U.S. State Department that Saudi Arabia severely restricts religious freedom, arguing that the report that made the declaration was politically motivated. 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6255999)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

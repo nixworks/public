@@ -2,7 +2,7 @@
 
 #  Three men possessing homemade bullets at an illegal arms workshop are arrested in connection with the March 19, 2004, assassination attempt in Taiwan. 
 
-
+Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
 ### Source:

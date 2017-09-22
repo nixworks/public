@@ -13,7 +13,7 @@ European Union leaders are looking to Poland and the Czech Republic to fast-trac
 French President Nicolas Sarkozy angrily told David Cameron he was &#034;stupid&#034; for pulling the Conservatives out of the main centre-right grouping in the European Parliament.
 
 ### [ A strong 6.3 earthquake hits Taiwan in the middle of the night, waking people up in the capital Taipei. ](/news/2009/10/4/a-strong-6-3-earthquake-hits-taiwan-in-the-middle-of-the-night-waking-people-up-in-the-capital-taipei.md)
-_Context: Taipei, the Republic of China_
+_Context: Taipei, Taiwan_
 
 ### [ Pope Benedict XVI opens a three-week synod of African bishops with a Mass in St. Peter's Basilica in Rome. ](/news/2009/10/4/pope-benedict-xvi-opens-a-three-week-synod-of-african-bishops-with-a-mass-in-st-peter-s-basilica-in-rome.md)
 _Context: Africa, Mass, Pope Benedict XVI, Rome, Vatican, bishop, synod_

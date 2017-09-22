@@ -2,12 +2,13 @@
 
 #  Same-sex marriage in the United States: The proposed Federal Marriage Amendment (HJR 106) is rejected by the United States House of Representatives by a vote of 227&ndash;186. 
 
-
+Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=6383639)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

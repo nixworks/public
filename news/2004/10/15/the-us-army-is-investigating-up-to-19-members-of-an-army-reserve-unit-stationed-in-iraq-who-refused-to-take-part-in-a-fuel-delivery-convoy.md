@@ -2,7 +2,7 @@
 
 #  The US Army is investigating up to 19 members of an Army Reserve unit stationed in Iraq who refused to take part in a fuel delivery convoy mission they considered unsafe. Relatives of the soldiers say that several soldiers described it as a "suicide mission". Relatives also say that the soldiers were held under guard for almost two days, although an army spokesperson denies the claim. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
 ### Source:
@@ -12,7 +12,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6513299)
 4. [San Francisco Gate](http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2004/10/16/MNG0D9B5JS1.DTL)
 5. [Washington Times](http://washingtontimes.com/upi-breaking/20041016-073133-6670r.htm)
-5. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+5. [Cover Image](http://www.sfgate.com/img/pages/article/opengraph_default.png)
 
 ### Related:
 

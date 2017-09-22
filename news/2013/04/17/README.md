@@ -22,7 +22,7 @@ Rescuers searched on Thursday for survivors in the rubble of homes destroyed by 
 H7N9 bird flu has claimed two more lives in Shanghai, Chinese state media said on Tuesday, bringing the death toll from the disease to 16.
 
 ### [Taiwan prepares to permanently ban killing of poultry in traditional markets amid concerns over the spread of the H7N9 avian flu virus in mainland China. ](/news/2013/04/17/taiwan-prepares-to-permanently-ban-killing-of-poultry-in-traditional-markets-amid-concerns-over-the-spread-of-the-h7n9-avian-flu-virus-in-ma.md)
-_Context: H7N9 avian flu virus, mainland China, markets, poultry, the Republic of China_
+_Context: H7N9 avian flu virus, Taiwan, mainland China, markets, poultry_
 
 ### [North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/north-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-inside-the-closed-kaeson.md)
 _Context: Kaesong area, North Korea, South Korea, businessmen_

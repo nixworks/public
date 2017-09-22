@@ -10,7 +10,7 @@ _Context: Federal Constitutional Court of Germany, Germany, Mamoun Darkazanli, S
 Hurricane Emily like a &quot;freight train&quot; as it passed over houses in the Yucatan Peninsula, but left the Mexican resort area relatively unscathed.
 
 ### [ In Taiwan, authorities evacuate hundreds of people when Typhoon Haitang hits the country. The typhoon is heading towards Okinawa ](/news/2005/07/18/in-taiwan-authorities-evacuate-hundreds-of-people-when-typhoon-haitang-hits-the-country-the-typhoon-is-heading-towards-okinawa.md)
-_Context: Okinawa, Typhoon Haitang, the Republic of China_
+_Context: Okinawa, Taiwan, Typhoon Haitang_
 
 ### [ In Australia, Indigenous leaders pay tribute to Sir Ronald Wilson, white Indigenous rights campaigner, who died last Friday ](/news/2005/07/18/in-australia-indigenous-leaders-pay-tribute-to-sir-ronald-wilson-white-indigenous-rights-campaigner-who-died-last-friday.md)
 _Context: Australia, Indigenous, Ronald Wilson_

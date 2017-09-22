@@ -22,7 +22,7 @@ _Context: Iraq, Syria, terrorism_
 The move came hours after U.S. troops killed at least 19 of his militiamen in clashes in the Sadr City slum district.
 
 ### [ Philippine elections: About 40 million Filipinos go to the polls to elect candidates for national and local positions from the President down to municipal councilors. ](/news/2004/05/10/philippine-elections-about-40-million-filipinos-go-to-the-polls-to-elect-candidates-for-national-and-local-positions-from-the-president-do.md)
-_Context: Philippine elections, President, municipal_
+_Context: Philippine President, Philippine elections, municipal_
 
 ### [ Canadian bureaucrat Chuck Guite and GroupeAction president Jean Brault have been arrested and charged with six counts each of fraud in connection with the Liberal sponsorship scandal. ](/news/2004/05/10/canadian-bureaucrat-chuck-guite-and-groupeaction-president-jean-brault-have-been-arrested-and-charged-with-six-counts-each-of-fraud-in-conn.md)
 _Context: Chuck Guite, GroupeAction, Jean Brault, Liberal sponsorship scandal, fraud_

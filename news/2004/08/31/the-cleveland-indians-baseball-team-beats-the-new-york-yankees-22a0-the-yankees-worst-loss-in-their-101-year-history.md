@@ -8,6 +8,7 @@
 ### Source:
 
 1. [ESPN box score](http://espn.go.com/mlb/recap?gameId=240831110)
+1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:
 

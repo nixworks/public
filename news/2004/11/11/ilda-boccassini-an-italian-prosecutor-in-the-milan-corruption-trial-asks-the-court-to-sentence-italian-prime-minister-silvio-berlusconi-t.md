@@ -2,12 +2,13 @@
 
 #  Ilda Boccassini, an Italian prosecutor in the Milan corruption trial, asks the court to sentence Italian Prime Minister Silvio Berlusconi to eight years' imprisonment for bribing judges. 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6801872)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

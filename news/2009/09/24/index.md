@@ -49,7 +49,7 @@ _Context: Brussels, EUR, Rene Magritte, surrealist_
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, United States_
 
 ### [ A court in Taiwan rejects former President Chen Shui-bian's appeal to be released on bail. ](/news/2009/09/24/a-court-in-taiwan-rejects-former-president-chen-shui-bian-s-appeal-to-be-released-on-bail.md)
-_Context: Chen Shui-bian, President of Taiwan, the Republic of China_
+_Context: Chen Shui-bian, President of Taiwan, Taiwan_
 
 ### [ The Tanzania Albino Society (Tas) calls for the men found guilty of killing an albino boy in Tanzania to be hanged publicly as a warning to others. ](/news/2009/09/24/the-tanzania-albino-society-tas-calls-for-the-men-found-guilty-of-killing-an-albino-boy-in-tanzania-to-be-hanged-publicly-as-a-warning-to.md)
 _Context: Tanzania, Tanzania Albino Society, men found guilty of killing an albino boy_

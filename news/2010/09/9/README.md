@@ -19,7 +19,7 @@ _Context: Archaeologist, Kings of Scotland, Robert the Bruce, Scone Palace_
 NAB’s $13b bid for AXA Asia Pacific has been knocked back for a second time by the nation&#039;s competition regulator, opening the way for rival AMP to take another shot at AXA.
 
 ### [Tropical Storm Meranti is forecast to bring heavy rains to Fujian, Guangdong, Guangxi and Hainan provinces in the People's Republic of China, as well as in Taiwan. ](/news/2010/09/9/tropical-storm-meranti-is-forecast-to-bring-heavy-rains-to-fujian-guangdong-guangxi-and-hainan-provinces-in-the-people-s-republic-of-china.md)
-_Context: China, Fujian, Guangdong, Guangxi Zhuang, Hainan, Typhoon Chaba, the Republic of China_
+_Context: China, Fujian, Guangdong, Guangxi Zhuang, Hainan, Taiwan, Typhoon Chaba_
 
 ### [The 2010 San Bruno, California fire begins with a massive explosion in a natural gas line destroying dozens of houses, killing at least 6 people, and continues burning in San Bruno, California near the US city of San Francisco. ](/news/2010/09/9/the-2010-san-bruno-california-fire-begins-with-a-massive-explosion-in-a-natural-gas-line-destroying-dozens-of-houses-killing-at-least-6-pe.md)
 The official death toll from the natural-gas-line explosion in a Bay Area suburb stands at four people, with 38 homes destroyed, as authorities investigate what caused the blast.

@@ -43,7 +43,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Taiwan, a SWAT team apprehends wanted gang leader Chang Hsi-ming after a 30-minute gun battle in Shalu Township. ](/news/2005/07/13/in-taiwan-a-swat-team-apprehends-wanted-gang-leader-chang-hsi-ming-after-a-30-minute-gun-battle-in-shalu-township.md)
-_Context: Chang Hsi-ming, Shalu Township, the Republic of China_
+_Context: Chang Hsi-ming, Shalu Township, Taiwan_
 
 ### [ In Brazil, police raid the luxury good store Dasliu and arrest the managers, including the owner Eliana Tranchesi, accused of tax evasion. ](/news/2005/07/13/in-brazil-police-raid-the-luxury-good-store-dasliu-and-arrest-the-managers-including-the-owner-eliana-tranchesi-accused-of-tax-evasion.md)
 _Context: Dasliu, Eliana Tranchesi, tax evasion_

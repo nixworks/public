@@ -7,7 +7,7 @@ _Context: Democratic, Nevada, Republican, United States, Voters Outreach of Amer
 _Context: Cambodia, King Norodom Sihanouk, Norodom Sihamoni_
 
 ### [ Moussa Arafat, cousin of Yasser Arafat and a top security official in the Gaza Strip, survives an apparent assassination attempt when a car bomb explodes in his convoy. ](/news/2004/10/12/moussa-arafat-cousin-of-yasser-arafat-and-a-top-security-official-in-the-gaza-strip-survives-an-apparent-assassination-attempt-when-a-car.md)
-_Context: Gaza, Moussa Arafat, Yasser Arafat, car bomb_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Nigerian government announces that last month, Nigerian Sharia courts sentenced two women, one of whom is pregnant, to death by stoning on charges of committing adultery, while acquitting the two men involved. The sentence may still be appealed. ](/news/2004/10/12/the-nigerian-government-announces-that-last-month-nigerian-sharia-courts-sentenced-two-women-one-of-whom-is-pregnant-to-death-by-stoning.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

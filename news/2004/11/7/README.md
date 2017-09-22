@@ -25,7 +25,7 @@ _Context: Hong Kong, espionage_
 _Context: Alvaro Uribe, Revolutionary Armed Forces of Colombia, guerillas_
 
 ### [ Russian troops storm a Chechen rebel base and kill 22 militants. ](/news/2004/11/7/russian-troops-storm-a-chechen-rebel-base-and-kill-22-militants.md)
-_Context: Chechen, militant_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Iraqi Prime Minister Iyad Allawi publicly authorizes an offensive in Fallujah and Ramadi to "liberate the people" and "clean Falluja of terrorists". U.S. and Iraqi forces advance. A hospital doctor in Falluja reports 15 people killed and 20 wounded. ](/news/2004/11/7/iraqi-prime-minister-iyad-allawi-publicly-authorizes-an-offensive-in-fallujah-and-ramadi-to-liberate-the-people-and-clean-falluja-of-ter.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

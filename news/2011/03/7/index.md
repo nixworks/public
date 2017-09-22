@@ -43,7 +43,7 @@ _Context: Pacific Ocean, Solomon Islands, earthquake_
 _Context: Tibet, unrest in 2008_
 
 ### [Yang Jiechi, the Foreign Minister of the People's Republic of China, warns the United States that relations between China and the US will deteriorate if it sells weapons to Taiwan. ](/news/2011/03/7/yang-jiechi-the-foreign-minister-of-the-people-s-republic-of-china-warns-the-united-states-that-relations-between-china-and-the-us-will-de.md)
-_Context: Foreign Minister, United States, Yang, the Republic of China_
+_Context: Foreign Minister, Taiwan, United States, Yang_
 
 ### [Robert Gates, the United States Secretary of Defense, arrives in Afghanistan to meet with the President of Afghanistan Hamid Karzai. ](/news/2011/03/7/robert-gates-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai.md)
 Defense Secretary Robert Gates described the mistaken killing of nine Afghan boys by NATO aircraft as a &quot;setback&quot; on Monday as the issue overshadowed a visit to Afghanistan to assess security progress.

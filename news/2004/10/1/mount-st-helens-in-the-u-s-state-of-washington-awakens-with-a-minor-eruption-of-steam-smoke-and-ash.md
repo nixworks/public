@@ -9,6 +9,7 @@
 
 1. [CNN](http://edition.cnn.com/2004/TECH/science/10/01/mount.st.helens/index.html)
 2. [Fox News](http://www.foxnews.com/story/0,2933,134186,00.html)
+2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 

@@ -2,13 +2,14 @@
 
 #  Despite demands from Iraqi resistance Islamist militant elements threatening to kill two French hostages, France upholds its law on secularity and conspicuous religious symbols in schools, specifically its ban on Muslim hijabs. 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/wire/World/ap20040830_532.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6106700)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

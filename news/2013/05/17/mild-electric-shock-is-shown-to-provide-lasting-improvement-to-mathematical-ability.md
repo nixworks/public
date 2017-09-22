@@ -13,3 +13,4 @@
 ### Related:
 
 1. [ 2005 Paris riots continue for the fifth consecutive night, sparked by the death of two Muslim youths from electric shock. The controversy caused by police firing tear gas into a mosque on Sunday night led to families of the dead youths pulling out of a meeting with the French Minister of the Interior Nicolas Sarkozy. ](/news/2005/11/1/2005-paris-riots-continue-for-the-fifth-consecutive-night-sparked-by-the-death-of-two-muslim-youths-from-electric-shock-the-controversy-c.md) _Context: electric shock_
+2. [ Human rights in Iraq: The U.S. is forced to release evidence which shows prisoners in Iraq were subject to mock executions, electric shocks, and burns by US Marines. ](/news/2004/12/15/human-rights-in-iraq-the-u-s-is-forced-to-release-evidence-which-shows-prisoners-in-iraq-were-subject-to-mock-executions-electric-shocks.md) _Context: electric shock_

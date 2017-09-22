@@ -31,7 +31,7 @@ _Context: Anniston Chemical Activity, Chemical Weapons Treaty, chemical weapon, 
 Pope Benedict XVI faces a clamour for change as he heads to Germany for his first state visit, with calls for reform on many fronts &ndash; from recognising gays to ordaining women to the priesthood.
 
 ### [China warns the United States over its proposed sale of newer versions of the General Dynamics F-16 Fighting Falcon to Taiwan. ](/news/2011/09/22/china-warns-the-united-states-over-its-proposed-sale-of-newer-versions-of-the-general-dynamics-f-16-fighting-falcon-to-taiwan.md)
-_Context: F-16, the Republic of China_
+_Context: F-16, Taiwan_
 
 ### [Representatives of the United States and European nations walk out of the General Assembly of the United Nations during an accusatory speech by the President of Iran, Mahmoud Ahmadinejad. ](/news/2011/09/22/representatives-of-the-united-states-and-european-nations-walk-out-of-the-general-assembly-of-the-united-nations-during-an-accusatory-speech.md)
 _Context: General Assembly of the United Nations, Mahmoud Ahmadinejad, President_

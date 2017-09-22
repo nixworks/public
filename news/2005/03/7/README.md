@@ -28,7 +28,7 @@ _Context: status_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ 3-19 shooting incident: Police in Taiwan says that they have identified the man who shot at president Chen Shui-bian last year. Wife of unemployed man "Chen Yi-hsiung" says he confessed and committed suicide a few days later ](/news/2005/03/7/3-19-shooting-incident-police-in-taiwan-says-that-they-have-identified-the-man-who-shot-at-president-chen-shui-bian-last-year-wife-of-une.md)
-_Context: 3-19 shooting incident, Chen Shui-bian, the Republic of China_
+_Context: 3-19 shooting incident, Chen Shui-bian, Taiwan_
 
 ### [ Italy prepares a funeral for the agent Nicola Calipari who died in Iraq protecting released hostage Giuliana Sgrena. Sgrena disputes US Army account of the shooting ](/news/2005/03/7/italy-prepares-a-funeral-for-the-agent-nicola-calipari-who-died-in-iraq-protecting-released-hostage-giuliana-sgrena-sgrena-disputes-us-arm.md)
 _Context: Giuliana Sgrena, Nicola Calipari_

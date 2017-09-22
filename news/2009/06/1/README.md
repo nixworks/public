@@ -16,7 +16,7 @@ _Context: Air France, Atlantic Ocean, Brazil, crash of Air France Flight 447_
 China is providing assistance to Pakistan in developing its plutonium-based nuclear weapons programme, a Congressional report has told US lawmakers.
 
 ### [ General Motors files for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code. ](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.md)
-_Context: Chapter 11, General Motors, bankruptcy, bankruptcy, sells_
+_Context: Bankruptcy in the United States, Chapter 11, General Motors, bankruptcy, sells_
 
 ### [ The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. ](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.md)
 Pakistani authorities negotiated on Tuesday for the release of about 200 students and staff from a military-run college abducted by Taliban militants as they traveled home for a holiday.

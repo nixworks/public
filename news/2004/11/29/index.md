@@ -25,7 +25,7 @@ _Context: Aung San Suu Kyi, Myanmar, National League for Democracy, house arrest
 _Context: File sharing, Kazaa, P2P, Sharman Networks, copyright, record label_
 
 ### [ Romania's ruling Social Democratic Party claims victory in the country's legislative election, and the simultaneous presidential election goes to a second round with Prime Minister Adrian Nastase leading.](/news/2004/11/29/romania-s-ruling-social-democratic-party-claims-victory-in-the-country-s-legislative-election-and-the-simultaneous-presidential-election-g.md)
-_Context: 2004 legislative elections, Adrian Nastase, Romania, Social Democratic Party, presidential election_
+_Context: 2004 legislative elections, Adrian Nastase, Romania, Romanian presidential election, 2004, Social Democratic Party_
 
 ### [ President of Chile Ricardo Lagos proposes special lifetime pensions (approx. EUR150 a month) for 28,000 survivors of the Pinochet regime's torture camps. ](/news/2004/11/29/president-of-chile-ricardo-lagos-proposes-special-lifetime-pensions-approx-a-150-a-month-for-28-000-survivors-of-the-pinochet-regime-s.md)
 _Context: Augusto Pinochet, Chile, Ricardo Lagos, junta, torture_

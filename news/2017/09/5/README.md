@@ -22,7 +22,7 @@ A senior Indian journalist was shot dead on Tuesday in the southern city of Beng
 QC for one plaintiff says ‘putting to the public a vote on her family unit’ before heated debate about powers of Bureau of Statistics
 
 ### [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen. ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md)
-_Context: Mayor, Politics of Taiwan, Premier, President, Tainan, Tsai Ing-wen, William Lai Ching-te, the Republic of China_
+_Context: Mayor, Politics of Taiwan, Premier, President, Tainan, Taiwan, Tsai Ing-wen, William Lai Ching-te_
 
 ### [The Trump Administration announces that, during the next six months, it will be ending the DACA program that has halted the deportation of about 800,000 people who were brought to the U.S. illegally as children. Congress is called upon to pass legislation to correct the situation. ](/news/2017/09/5/the-trump-administration-announces-that-during-the-next-six-months-it-will-be-ending-the-daca-program-that-has-halted-the-deportation-of-a.md)
 As early as March, officials said, some of the roughly 800,000 beneficiaries of the program could become eligible for deportation.

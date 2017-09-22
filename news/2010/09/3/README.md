@@ -43,7 +43,7 @@ _Context: United Nations Food and Agriculture Organization_
 _Context: Florida, Miami International Airport, United States_
 
 ### [The President of the Philippines, Benigno Aquino III, takes responsibility for the handling of the Manila hostage crisis in August. ](/news/2010/09/3/the-president-of-the-philippines-benigno-aquino-iii-takes-responsibility-for-the-handling-of-the-manila-hostage-crisis-in-august.md)
-_Context: Manila hostage crisis, President, his predecessor_
+_Context: Manila hostage crisis, Philippine President, his predecessor_
 
 ### [Seven defendants are found guilty of abusing children in the Casa Pia child sex abuse trial in Lisbon, Portugal. ](/news/2010/09/3/seven-defendants-are-found-guilty-of-abusing-children-in-the-casa-pia-child-sex-abuse-trial-in-lisbon-portugal.md)
 _Context: Casa Pia, Lisbon, Portugal, child abuse, child sex abuse_

@@ -1,0 +1,21 @@
+### [2004-12-16](/news/2004/12/16/index.md)
+
+#  The British final court of appeal, the Law Lords, rule that the suspension of "habeas corpus" for foreign nationals detained under the Anti-terrorism, Crime and Security Act 2001 is illegal, being incompatible with the European Convention on Human Rights. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/uk/4100481.stm)
+2. [judgment](http://www.publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm)
+
+### Related:
+
+1. [Philippine president Rodrigo Duterte threatens to suspend the country's habeas corpus "if forced to" by what he says the worsening lawlessness in the country. He mentioned in the same speech, the alleged widespread illegal drug trade in the country, the rebellion in Mindanao, and the worsening campaign against the militant Maute group. ](/news/2016/11/13/philippine-president-rodrigo-duterte-threatens-to-suspend-the-country-s-habeas-corpus-if-forced-to-by-what-he-says-the-worsening-lawlessne.md) _Context: habeas corpus_
+2. [The Senate of the US state of North Carolina pardons former Governor William Woods Holden who was impeached in 1871 because of his suspension of habeas corpus in the process of battling the Ku Klux Klan terror campaign. ](/news/2011/04/12/the-senate-of-the-us-state-of-north-carolina-pardons-former-governor-william-woods-holden-who-was-impeached-in-1871-because-of-his-suspensio.md) _Context: habeas corpus_
+3. [The European Court of Human Rights rules that powers contained in the UK Terrorism Act 2000 violate the European Convention on Human Rights. ](/news/2010/01/12/the-european-court-of-human-rights-rules-that-powers-contained-in-the-uk-terrorism-act-2000-violate-the-european-convention-on-human-rights.md) _Context: European Convention on Human Rights_
+4. [ In the United Kingdom, the Appellate Committee of the House of Lords rejects an appeal by alleged British computer hacker Gary McKinnon against extradition to the United States to face charges of hacking into Pentagon and NASA computers. ](/news/2008/07/30/in-the-united-kingdom-the-appellate-committee-of-the-house-of-lords-rejects-an-appeal-by-alleged-british-computer-hacker-gary-mckinnon-aga.md) _Context: Appellate Committee of the House of Lords_
+5. [ The United States Court of Appeals for the District of Columbia Circuit rules 2-1 to uphold an act of the 109th Congress removing the right of Guantanamo Bay detainees to challenge their detention in lower federal courts. The Military Commissions Act suspends the right to "habeas corpus" and bars anyone deemed an "enemy combatant" access to the federal courts. ](/news/2007/02/20/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-rules-2-1-to-uphold-an-act-of-the-109th-congress-removing-the-right.md) _Context: habeas corpus_
+6. [ UK Law Lords rule in "A v. Secretary of State for the Home Department" that evidence which may have been obtained by torture cannot be used against suspects in terrorism cases. ](/news/2005/12/8/uk-law-lords-rule-in-a-v-secretary-of-state-for-the-home-department-that-evidence-which-may-have-been-obtained-by-torture-cannot-be-used.md) _Context: Appellate Committee of the House of Lords_
+7. [ A British court rejects a request by the Russian government for extradition of Akhmed Zakayev, an envoy of the Chechen rebels, who is accused of being a terrorist and having committed a number of crimes including kidnapping, murdering Russian soldiers, and levying war. The request was denied on the grounds that Mr. Zakayev was considered likely to be tortured if he was extradited, which would make such deportation illegal under article 3 of the European Convention on Human Rights. The prosecution's evidence was described as a "farce" by one BBC reporter, and reminiscent of Soviet-era show trials.](/news/2003/11/13/a-british-court-rejects-a-request-by-the-russian-government-for-extradition-of-akhmed-zakayev-an-envoy-of-the-chechen-rebels-who-is-accus.md) _Context: European Convention on Human Rights_

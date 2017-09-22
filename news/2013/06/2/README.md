@@ -10,7 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Aboriginal Australians, Mandawuy Yunupingu, Yothu Yindi_
 
 ### [A 6.2-magnitude earthquake strikes central Taiwan, killing at least one person. ](/news/2013/06/2/a-6-2-magnitude-earthquake-strikes-central-taiwan-killing-at-least-one-person.md)
-_Context: earthquake, the Republic of China_
+_Context: Taiwan, earthquake_
 
 ### [Austria, Germany, Switzerland and the Czech Republic are hit by floods after days of heavy rain. ](/news/2013/06/2/austria-germany-switzerland-and-the-czech-republic-are-hit-by-floods-after-days-of-heavy-rain.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

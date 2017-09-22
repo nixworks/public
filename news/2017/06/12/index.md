@@ -4,7 +4,7 @@
  ISTANBUL (AP) — An earthquake with a preliminary magnitude of 6.2 shook western Turkey and the Greek island of Lesbos on Monday, injuring at least 10 people and damaging buildings
 
 ### [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md)
-_Context: China, Foreign relations of Panama, Panama, diplomatic ties, formal relations, the Republic of China_
+_Context: China, Foreign relations of Panama, Panama, Taiwan, diplomatic ties, formal relations_
 
 ### [A Ninth Circuit Appeals Court panel unanimously upholds the Hawaii district court decision to prevent implementation of revised Executive Order 13780. On May 25, the Fourth Circuit Appeals Court affirmed a similar ruling by the Maryland district court. ](/news/2017/06/12/a-ninth-circuit-appeals-court-panel-unanimously-upholds-the-hawaii-district-court-decision-to-prevent-implementation-of-revised-executive-or.md)
 The 9th U.S. Circuit Court of Appeals upheld an earlier decision by a federal judge in Hawaii to block the government from enforcing Trump&#x27;s executive order.

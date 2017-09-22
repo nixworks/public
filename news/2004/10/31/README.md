@@ -16,7 +16,7 @@ _Context: Afghanistan, United Nations_
 _Context: Beslan children killed a year ago, Chechen, Shamil Basayev_
 
 ### [ The 2004 presidential election in Ukraine is held. Preliminary results indicate Viktor Yanukovich in first place with 40% and Viktor Yushchenko in second with 39%. The run-off will be held on November 21. International monitors report "serious irregularities" in the voting. ](/news/2004/10/31/the-2004-presidential-election-in-ukraine-is-held-preliminary-results-indicate-viktor-yanukovich-in-first-place-with-40-and-viktor-yushch.md)
-_Context: 2004 Ukrainian presidential election, Viktor Yanukovich, Viktor Yushchenko_
+_Context: Ukrainian presidential election controversy, Viktor Yanukovich, Viktor Yushchenko_
 
 ### [ Darfur conflict: Rwanda begins deploying a contingent of 237 troops to Darfur, Sudan, as part of an African Union mission to bring stability to the troubled region. Sixty-five soldiers have been sent this weekend; the rest will be deployed as the week progresses. Rwanda already had some troops in Darfur. ](/news/2004/10/31/darfur-conflict-rwanda-begins-deploying-a-contingent-of-237-troops-to-darfur-sudan-as-part-of-an-african-union-mission-to-bring-stabilit.md)
 _Context: African Union, Darfur, Darfur conflict, Rwanda, Sudan_

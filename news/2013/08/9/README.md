@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Clashes erupted between two communities, Eid al-Fitr, India, Jammu and Kashmir, Kishtwar_
 
 ### [Taiwan's Control Yuan investigatory agency reports that the Taiwan Power Company's Jinshan Nuclear Power Plant has been leaking radioactive water for three years. ](/news/2013/08/9/taiwan-s-control-yuan-investigatory-agency-reports-that-the-taiwan-power-company-s-jinshan-nuclear-power-plant-has-been-leaking-radioactive.md)
-_Context: Control Yuan, Jinshan Nuclear Power Plant, Taiwan Power Company, the Republic of China_
+_Context: Control Yuan, Jinshan Nuclear Power Plant, Taiwan, Taiwan Power Company_
 
 ### [Three people are missing after a Rockwell Turbo Commander turboprop plane crashes into two homes in East Haven, Connecticut, United States. ](/news/2013/08/9/three-people-are-missing-after-a-rockwell-turbo-commander-turboprop-plane-crashes-into-two-homes-in-east-haven-connecticut-united-states.md)
 _Context: Connecticut, East Haven, Rockwell Turbo Commander, turboprop_

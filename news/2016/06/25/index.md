@@ -22,7 +22,7 @@ Nine people died on Saturday while eight others survived after a boat they were 
 A massive wildfire burning out of control in the foothills of central California has left at least 150 homes in ruins and damaged another 75, officials said on Saturday, warning that more residents may be forced to flee the advancing flames.
 
 ### [The People's Republic of China cuts communication mechanism with Taiwan after the new government refuses to acknowledge the One China policy. ](/news/2016/06/25/the-people-s-republic-of-china-cuts-communication-mechanism-with-taiwan-after-the-new-government-refuses-to-acknowledge-the-one-china-policy.md)
-_Context: China, Cross-Strait relations, One China, the Republic of China_
+_Context: China, Cross-Strait relations, One China, Taiwan_
 
 ### [Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-berlin-to-discuss-the-consequences-of-the-united-kin.md)
 German Chancellor Angela Merkel sought on Saturday to temper pressure from Paris, Brussels and her own government to force Britain into negotiating a quick divorce from the EU, despite warnings that hesitation will let populism take hold.

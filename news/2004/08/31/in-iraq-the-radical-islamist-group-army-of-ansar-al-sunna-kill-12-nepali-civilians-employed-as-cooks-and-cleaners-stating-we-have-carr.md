@@ -2,12 +2,13 @@
 
 #  In Iraq, the radical Islamist group, Army of Ansar al-Sunna, kill 12 Nepali civilians employed as cooks and cleaners, stating "We have carried out the sentence of God against 12 Nepalis who came from their country to fight the Muslims and to serve the Jews and the Christians&nbsp;... believing in Buddha as their God" 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6113254&section=news)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

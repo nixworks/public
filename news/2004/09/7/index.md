@@ -13,7 +13,7 @@ The director of the hurricane-ravaged Kennedy Space Center offers little hope fo
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Israeli-Palestinian conflict: An Israeli attack on a Hamas training camp kills 14 members of the military wing of Hamas. ](/news/2004/09/7/israeli-palestinian-conflict-an-israeli-attack-on-a-hamas-training-camp-kills-14-members-of-the-military-wing-of-hamas.md)
-_Context: Hamas, Israel, Israeli-Palestinian conflict_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ## [Previous Day...](/news/2004/09/6/index.md)
 

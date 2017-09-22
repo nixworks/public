@@ -22,7 +22,7 @@ Australia will participate in Eurovision 2015! Read all the latest news about Eu
 _Context: Apple Inc., US$, market capitalization_
 
 ### [Wang Yu-chi resigns as Taiwan's Minister of the Mainland Affairs Council responsible for maintaining relations with the People's Republic of China. ](/news/2015/02/10/wang-yu-chi-resigns-as-taiwan-s-minister-of-the-mainland-affairs-council-responsible-for-maintaining-relations-with-the-people-s-republic-of.md)
-_Context: China, Mainland Affairs Council, Wang Yu-chi, the Republic of China_
+_Context: China, Mainland Affairs Council, Taiwan, Wang Yu-chi_
 
 ### [The Federal Court of Malaysia rejects opposition leader Anwar Ibrahim's appeal against sodomy charges meaning he will start serving a five-year sentence. ](/news/2015/02/10/the-federal-court-of-malaysia-rejects-opposition-leader-anwar-ibrahim-s-appeal-against-sodomy-charges-meaning-he-will-start-serving-a-five-y.md)
 _Context: Anwar Ibrahim, Federal Court of Malaysia, sodomy_

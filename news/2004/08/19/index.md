@@ -19,7 +19,7 @@ _Context: Ariel Sharon, Israel, Likud_
 _Context: Nature, Neptune, moon_
 
 ### [ Shares of stock in Google, Inc. begin trading on the NASDAQ stock exchange at around $100 per share in one of the most highly anticipated initial public offerings of the year. It is estimated that the IPO raised a total of $1.66 billion, the third highest ever for an IPO. ](/news/2004/08/19/shares-of-stock-in-google-inc-begin-trading-on-the-nasdaq-stock-exchange-at-around-100-per-share-in-one-of-the-most-highly-anticipated-i.md)
-_Context: Google, IPO, Nasdaq, stock, stock exchange_
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Hungarian prime minister Pter Medgyessy resigns following a row with his Socialist party's liberal coalition partner, the Free Democrats. ](/news/2004/08/19/hungarian-prime-minister-peter-medgyessy-resigns-following-a-row-with-his-socialist-party-s-liberal-coalition-partner-the-free-democrats.md)
 _Context: Alliance of Free Democrats, Hungarian Socialist Party, Hungary, Pter Medgyessy_

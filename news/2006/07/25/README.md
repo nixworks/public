@@ -4,7 +4,7 @@
 _Context: Interstate Abortion Bill, United States Senate, abortion, minors_
 
 ### [ Typhoon Kaemi hits Taiwan with 119 kilometre winds, injuring four people. The landfall in Jinjiang, Fujian 4 hours later prompts the evacuation of more than 500,000 residents in Fujian and Zhejiang, where Typhoon Bilis claimed 612 lives. ](/news/2006/07/25/typhoon-kaemi-hits-taiwan-with-119-kilometre-winds-injuring-four-people-the-landfall-in-jinjiang-fujian-4-hours-later-prompts-the-evacua.md)
-_Context: Fujian, Jinjiang, Typhoon Bilis, Typhoon Kaemi, Zhejiang, the Republic of China_
+_Context: Fujian, Jinjiang, Taiwan, Typhoon Bilis, Typhoon Kaemi, Zhejiang_
 
 ### [ The Israeli army has been accused of using Palestinian civilians as human shields in an operation in northern Gaza. According to the Israeli human rights group, B'tselem, six civilians including two minors were subjected to the illegal tactic during an incursion into the town of Beit Hanoun last week. ](/news/2006/07/25/the-israeli-army-has-been-accused-of-using-palestinian-civilians-as-human-shields-in-an-operation-in-northern-gaza-according-to-the-israel.md)
 _Context: B'Tselem, Beit Hanoun, Gaza, Human rights, Israel, Palestinian, human shields_

@@ -10,7 +10,7 @@ _Context: 9/11 Commission, Bill Clinton, John Kerry, Sandy Berger, U.S. National
 _Context: British Columbia, Canadian Prime Minister, Ken Dryden, Paul Martin, Ujjal Dosanjh, ice hockey, new Cabinet_
 
 ### [ Gloria Arroyo, President of the Philippines, confirms that hostage Angelo de la Cruz has been freed by his captors after their demands for a one-month-early withdrawal of all 51 Filipino troops from Iraq were met. ](/news/2004/07/20/gloria-arroyo-president-of-the-philippines-confirms-that-hostage-angelo-de-la-cruz-has-been-freed-by-his-captors-after-their-demands-for.md)
-_Context: Angelo de la Cruz, Gloria Arroyo, Iraq, Philippines, President_
+_Context: Angelo de la Cruz, Gloria Arroyo, Iraq, Philippine President, Philippines_
 
 ### [ Ahmed Qurei, Prime Minister of the Palestinian Authority, agrees to withdraw his resignation, three days after tendering it. Qurei is maintaining a threat to quit "because he has no powers". ](/news/2004/07/20/ahmed-qurei-prime-minister-of-the-palestinian-authority-agrees-to-withdraw-his-resignation-three-days-after-tendering-it-qurei-is-maint.md)
 _Context: Ahmed Qurei, Palestinian Authority_

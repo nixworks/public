@@ -31,7 +31,7 @@ About 110 people have been injured, 22 seriously, when part of the seating at a 
 _Context: India, Madhya Pradesh, Shivpuri district, train_
 
 ### [Typhoon Fanapi arrives in China's Fujian province after causing widespread damage in Taiwan. ](/news/2010/09/20/typhoon-fanapi-arrives-in-china-s-fujian-province-after-causing-widespread-damage-in-taiwan.md)
-_Context: Chinese, Fujian, Typhoon Fanapi, the Republic of China_
+_Context: Chinese, Fujian, Taiwan, Typhoon Fanapi_
 
 ### [A Russian Air Force Sukhoi Su-27 aircraft crashes in the Russian Far East; both pilots are rescued alive. ](/news/2010/09/20/a-russian-air-force-sukhoi-su-27-aircraft-crashes-in-the-russian-far-east-both-pilots-are-rescued-alive.md)
 _Context: Far East, Russian Air Force, Russian SU-27 fighter jet_
@@ -43,7 +43,7 @@ _Context: BP, Deepwater Horizon oil spill, Macondo, Thad Allen, United States Co
 _Context: IAEA, Vienna_
 
 ### [The United States and Australia issue travel warnings for India following the shooting of two Taiwanese tourists outside the Jama Masjid mosque in Delhi. ](/news/2010/09/20/the-united-states-and-australia-issue-travel-warnings-for-india-following-the-shooting-of-two-taiwanese-tourists-outside-the-jama-masjid-mos.md)
-_Context: Australia, Delhi, India, Jama Masjid, United States, mosque, the Republic of China_
+_Context: Australia, Delhi, India, Jama Masjid, Taiwan, United States, mosque_
 
 ### [World leaders arrive in New York City for a United Nations summit to discuss progress in implementing Millennium Development Goals. ](/news/2010/09/20/world-leaders-arrive-in-new-york-city-for-a-united-nations-summit-to-discuss-progress-in-implementing-millennium-development-goals.md)
 _Context: Millennium Development Goal, New York City, United Nations_

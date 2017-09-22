@@ -10,10 +10,10 @@ _Context: Chicago, O'Hare International Airport, aviation_
 _Context: Saddam Hussein, Sweden, jail, trial_
 
 ### [ The death toll from monsoon flooding in India exceeds 1,000. ](/news/2004/08/4/the-death-toll-from-monsoon-flooding-in-india-exceeds-1-000.md)
-_Context: monsoon_
+India has evacuated more than 3,000 people from a Himalayan valley because of fears a lake in China will burst its banks and flood across the border, officials said on Tuesday.
 
 ### [ NASA dedicates its new supercomputer 'KC' to the memory of India-born astronaut Kalpana Chawla, one of the seven crew members who died when the space Shuttle Columbia disintegrated in mid-air in 2003. ](/news/2004/08/4/nasa-dedicates-its-new-supercomputer-kc-to-the-memory-of-india-born-astronaut-kalpana-chawla-one-of-the-seven-crew-members-who-died-when.md)
-_Context: Kalpana Chawla, NASA, Space Shuttle ''Columbia'', astronaut, supercomputer_
+NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ A bomb explodes near an electrical substation outside Athens, nine days prior to the beginning of the Olympic Games. ](/news/2004/08/4/a-bomb-explodes-near-an-electrical-substation-outside-athens-nine-days-prior-to-the-beginning-of-the-olympic-games.md)
 _Context: 2004 Summer Olympics, Athens, bomb, electrical substation_
@@ -25,7 +25,7 @@ _Context: Bangalore, Delhi, FBI, Mumbai, terrorist_
 _Context: Cenotaph, First World War_
 
 ### [ Mary Kay Letourneau is released from a Washington prison after serving a sentence of over seven years for statutory rape. The former elementary school teacher became notorious for her sexual involvement with one of her male students, who was 12 years old when the illicit relationship began. She bore two children by the boy, who is now 21 years old. ](/news/2004/08/4/mary-kay-letourneau-is-released-from-a-washington-prison-after-serving-a-sentence-of-over-seven-years-for-statutory-rape-the-former-elemen.md)
-_Context: Mary Kay Letourneau, Washington, sex with a minor_
+Teacher convicted for having sex with sixth-grade pupil; now 21-year-old former lover plans to challenge court order that bars her from contacting him, friend says.
 
 ## [Previous Day...](/news/2004/08/3/index.md)
 

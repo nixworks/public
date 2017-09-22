@@ -28,7 +28,7 @@ Barack Obama refuses to comment on the whereabouts of a Chinese dissident said t
 _Context: Chinese, South Korea_
 
 ### [Three Taiwanese MPs and military officers visit the disputed Spratly Islands in the South China Sea, amid mounting tensions in the area. ](/news/2012/04/30/three-taiwanese-mps-and-military-officers-visit-the-disputed-spratly-islands-in-the-south-china-sea-amid-mounting-tensions-in-the-area.md)
-_Context: South China Sea, Spratly Islands, the Republic of China_
+_Context: South China Sea, Spratly Islands, Taiwan_
 
 ### [A British government pathologist suggests Secret Intelligence Service officer Gareth Williams "possibly died" from poisoning or asphyxiation. ](/news/2012/04/30/a-british-government-pathologist-suggests-secret-intelligence-service-officer-gareth-williams-possibly-died-from-poisoning-or-asphyxiation.md)
 MI6 officer Gareth Williams possibly died from poisoning or asphyxiation, a Home Office pathologist tells an inquest into the death.

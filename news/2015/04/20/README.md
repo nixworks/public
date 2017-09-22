@@ -13,7 +13,7 @@ Saudi-led airstrikes on weapons caches in Yemen&#39;s rebel-held capital Monday 
 _Context: 2015 Pulitzer Prize, All the Light We Cannot See, Anthony Doerr, Charleston, South Carolina, Elizabeth Kolbert, Pulitzer Prize, Pulitzer Prize for General Non-Fiction, South Carolina, The Post and Courier, The Sixth Extinction: An Unnatural History, World War II, domestic violence_
 
 ### [A strong 6.8 magnitude earthquake occurs off the east coast of Taiwan. ](/news/2015/04/20/a-strong-6-8-magnitude-earthquake-occurs-off-the-east-coast-of-taiwan.md)
-_Context: the Republic of China_
+_Context: Taiwan_
 
 ### [At least three people are dead after a boat carrying dozens of migrants runs aground on the Greek island of Rhodes. ](/news/2015/04/20/at-least-three-people-are-dead-after-a-boat-carrying-dozens-of-migrants-runs-aground-on-the-greek-island-of-rhodes.md)
 A distress call about a migrant boat sinking in the Mediterranean Sea with 300 people on board has been made to authorities in Rome.

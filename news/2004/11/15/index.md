@@ -1,7 +1,7 @@
 ## [2004-11-15](/news/2004/11/15/index.md)
 
 ### [ China and the United Nations: The President of the Republic of China Chen Shui-bian declares he will push to get the ROC included in the United Nations under the name "Taiwan". The People's Republic of China condemns the move as a political trick to create an independent Taiwan. ](/news/2004/11/15/china-and-the-united-nations-the-president-of-the-republic-of-china-chen-shui-bian-declares-he-will-push-to-get-the-roc-included-in-the-un.md)
-Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The European Space Agency's ion propulsion spacecraft SMART-1 enters into lunar orbit, 14 months after its launch. ](/news/2004/11/15/the-european-space-agency-s-ion-propulsion-spacecraft-smart-1-enters-into-lunar-orbit-14-months-after-its-launch.md)
 _Context: European Space Agency, SMART-1, ion propulsion_

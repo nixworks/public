@@ -22,7 +22,7 @@ Japan has announced a set of sanctions against Russia for its recognition of Cri
 _Context: District of Columbia, Syrian, United States, embassy_
 
 ### [Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces-the-cross-strait-service-t.md)
-_Context: Kuomintang (Chinese Nationalist Party), continue to occupy, legislative chamber, the Republic of China, trade deal_
+_Context: Kuomintang (Chinese Nationalist Party), Taiwan, continue to occupy, legislative chamber, trade deal_
 
 ## [Previous Day...](/news/2014/03/17/index.md)
 

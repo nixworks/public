@@ -4,7 +4,7 @@
 _Context: Burundi, Burundi Civil War, election_
 
 ### [ The US Army is investigating up to 19 members of an Army Reserve unit stationed in Iraq who refused to take part in a fuel delivery convoy mission they considered unsafe. Relatives of the soldiers say that several soldiers described it as a "suicide mission". Relatives also say that the soldiers were held under guard for almost two days, although an army spokesperson denies the claim. ](/news/2004/10/15/the-us-army-is-investigating-up-to-19-members-of-an-army-reserve-unit-stationed-in-iraq-who-refused-to-take-part-in-a-fuel-delivery-convoy.md)
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Former OAS and Costa Rican president, Miguel Angel Rodriguez, is arrested after stepping down last week on allegations of corruption. He is not formally charged but a judge is demanding him to testify. ](/news/2004/10/15/former-oas-and-costa-rican-president-miguel-angel-rodriguez-is-arrested-after-stepping-down-last-week-on-allegations-of-corruption-he-is.md)
 _Context: Costa Rica, Miguel Angel Rodriguez, Organization of American States, anti-corruption_

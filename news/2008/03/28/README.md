@@ -10,7 +10,7 @@ _Context: Dwain Chambers_
 _Context: 2008 unrest in Tibet, Kathmandu, Nepal, Tibet, United Nations, police_
 
 ### [ North Korea fired a volley of missiles into the sea warning that it might stop disabling its nuclear facilities unless the United States dropped its demands for more details about North Korea's nuclear arsenal. A day before, North Korea expelled 11 South Korean officials from an industrial park north of the border that separates the two Koreas. ](/news/2008/03/28/north-korea-fired-a-volley-of-missiles-into-the-sea-warning-that-it-might-stop-disabling-its-nuclear-facilities-unless-the-united-states-dr.md)
-_Context: Kaesong area, North Korea, South Korea, United States, intercontinental ballistic, missiles, nuclear reactors_
+_Context: Kaesong area, North Korea, South Korea, United States, its nuclear weapons program, missiles, nuclear reactors_
 
 ### [ Australian swimmer Eamon Sullivan breaks the 50m Freestyle World Record with a time of 21.28 seconds. ](/news/2008/03/28/australian-swimmer-eamon-sullivan-breaks-the-50m-freestyle-world-record-with-a-time-of-21-28-seconds.md)
 _Context: Australia, Eamon Sullivan, freestyle_

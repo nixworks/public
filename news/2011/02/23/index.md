@@ -31,13 +31,13 @@ _Context: Europe, Middle East, United States, stock market_
 Romanian weather officials announced on Wednesday that snow and wind will intensify across the country starting February 23, 11 p.m. until Friday, 18 p.m.
 
 ### [President of the Philippines Benigno Aquino says the country has not resolved a row with Taiwan over deportations. ](/news/2011/02/23/president-of-the-philippines-benigno-aquino-says-the-country-has-not-resolved-a-row-with-taiwan-over-deportations.md)
-_Context: President, Taiwan, his predecessor_
+_Context: Philippine President, Taiwan, his predecessor_
 
 ### [Senegal severs diplomatic relations with Iran, accusing it of supplying weapons to anti-government rebels that killed Senegalese soldiers. ](/news/2011/02/23/senegal-severs-diplomatic-relations-with-iran-accusing-it-of-supplying-weapons-to-anti-government-rebels-that-killed-senegalese-soldiers.md)
 _Context: Iran, Senegal, diplomatic relations_
 
 ### [The People's Republic of China refuses to let the United Nations Security Council publish a report on North Korea's efforts to avoid sanctions on its nuclear program. ](/news/2011/02/23/the-people-s-republic-of-china-refuses-to-let-the-united-nations-security-council-publish-a-report-on-north-korea-s-efforts-to-avoid-sanctio.md)
-_Context: China, North Korea, United Nations Security Council, intercontinental ballistic, sanctions_
+_Context: China, North Korea, United Nations Security Council, its nuclear weapons program, sanctions_
 
 ### [Four men from Xinjiang in western China are to be executed following convictions for terrorism in the region last year. ](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.md)
 _Context: China, Xinjiang_

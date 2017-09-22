@@ -1,0 +1,19 @@
+### [2004-12-31](/news/2004/12/31/index.md)
+
+#  The cabinet of Spain approves the Zapatero administration's bill to legalize same-sex marriage. It will now go to the Cortes.
+
+
+
+
+### Related:
+
+1. [The Spanish Parliament votes to allow Prime Minister Mariano Rajoy to lead a People's Party minority government after a ten month interregnum. ](/news/2016/10/29/the-spanish-parliament-votes-to-allow-prime-minister-mariano-rajoy-to-lead-a-people-s-party-minority-government-after-a-ten-month-interregnu.md) _Context: Spanish Parliament_
+2. [The Prime Minister of Spain Jos Luis Rodrguez Zapatero dissolves the Cortes Generales and calls a general election for November 20. ](/news/2011/09/26/the-prime-minister-of-spain-jose-luis-rodriguez-zapatero-dissolves-the-cortes-generales-and-calls-a-general-election-for-november-20.md) _Context: Spanish Parliament_
+3. [The Prime Minister of Spain Jose Luis Rodriguez Zapatero calls an early election for November 20 rather than 2012. ](/news/2011/07/29/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-calls-an-early-election-for-november-20-rather-than-2012.md) _Context: Jose Luis Rodriguez Zapatero_
+4. [The Prime Minister of Spain Jose Luis Rodriguez Zapatero announces that he will not be seeking a third term in the next election. ](/news/2011/04/2/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-announces-that-he-will-not-be-seeking-a-third-term-in-the-next-election.md) _Context: Jose Luis Rodriguez Zapatero_
+5. [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md) _Context: Jose Luis Rodriguez Zapatero_
+6. [International Monetary Fund (IMF) head Dominique Strauss-Kahn meets with Prime Minister of Spain Jose Luis Rodriguez Zapatero in Madrid. ](/news/2010/06/18/international-monetary-fund-imf-head-dominique-strauss-kahn-meets-with-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-in-madrid.md) _Context: Jose Luis Rodriguez Zapatero_
+7. [ The Prime Minister of Spain Jose Luis Rodriguez Zapatero visits the Canary Islands to inspect the damage caused by five days of fires on the islands of Gran Canaria and Tenerife. ](/news/2007/08/1/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-visits-the-canary-islands-to-inspect-the-damage-caused-by-five-days-of-fires-on.md) _Context: Jose Luis Rodriguez Zapatero_
+8. [ Spain's parliament votes to legalize same-sex marriages, the third European country to do so after the Netherlands and Belgium, and in the same week as Canada. The bill passed by a margin of 40 votes, with 187 votes in favor, 147 opposed, and four abstentions.](/news/2005/06/30/spain-s-parliament-votes-to-legalize-same-sex-marriages-the-third-european-country-to-do-so-after-the-netherlands-and-belgium-and-in-the.md) _Context: same-sex marriage_
+9. [ Spanish prime minister Zapatero signs an agreement with president Hugo Chavez of Venezuela on the sale of warships and military transport planes. Conservative opposition leader Mariano Rajoy denounces the sale. ](/news/2005/03/29/spanish-prime-minister-zapatero-signs-an-agreement-with-president-hugo-cha-vez-of-venezuela-on-the-sale-of-warships-and-military-transport.md) _Context: Jose Luis Rodriguez Zapatero_
+10. [ Same-sex marriage debates: The cabinet of Spanish Prime Minister Jos Luis Rodrguez Zapatero approves a bill to legalize same-sex marriage; the government believes that the bill will pass the full parliament. ](/news/2004/10/1/same-sex-marriage-debates-the-cabinet-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-approves-a-bill-to-legalize-same-sex-marriage.md) _Context: same-sex marriage_

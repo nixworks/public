@@ -16,7 +16,7 @@ _Context: 2004 Indian Ocean earthquake and tsunami, Indian Ocean_
 Three South Korean workers have died after apparently inhaling toxic gas at a construction site for a new nuclear plant.
 
 ### [The Special Investigation Division of Taiwan initiates a review stemming from allegations that President Ma Ying-jeou has received illegal political donations from Ting Hsin International Group, a disgraced conglomerate at the center of the recent food scandal. ](/news/2014/12/26/the-special-investigation-division-of-taiwan-initiates-a-review-stemming-from-allegations-that-president-ma-ying-jeou-has-received-illegal-p.md)
-_Context: Ma Ying-jeou, President of Taiwan, Ting Hsin International Group, recent food scandal, the Republic of China_
+_Context: Ma Ying-jeou, President of Taiwan, Taiwan, Ting Hsin International Group, recent food scandal_
 
 ### [North Korea's embassy in Moscow issues a statement, saying: "The film "The Interview", produced by the U.S. studio Sony Pictures, is a very dangerous film product that justifies and promotes terrorism." ](/news/2014/12/26/north-korea-s-embassy-in-moscow-issues-a-statement-saying-the-film-the-interview-produced-by-the-u-s-studio-sony-pictures-is-a-very.md)
 Sony will decide on a possible release in the country in the new year, but the movie has already popped up on Russian torrents

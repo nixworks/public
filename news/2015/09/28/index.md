@@ -19,7 +19,7 @@ Royal Dutch Shell Plc will halt exploration in the U.S. Arctic after $7 billion 
 Iron and steel production at the SSI plant in the north-east of England is to be halted with the loss of 1,700 jobs.
 
 ### [Taiwan prepares for the impact of Typhoon Dujuan tonight, with thousands of people evacuated from outlying islands ahead of this. ](/news/2015/09/28/taiwan-prepares-for-the-impact-of-typhoon-dujuan-tonight-with-thousands-of-people-evacuated-from-outlying-islands-ahead-of-this.md)
-_Context: 2015 Pacific typhoon season, Typhoon Dujuan, the Republic of China_
+_Context: 2015 Pacific typhoon season, Taiwan, Typhoon Dujuan_
 
 ### [Pro-Serbian opposition from the Democratic Front holds a mass protest rally in the capital of Montenegro, Podgorica, demanding the resignation of the government of Prime Minister Milo Dukanovic. ](/news/2015/09/28/pro-serbian-opposition-from-the-democratic-front-holds-a-mass-protest-rally-in-the-capital-of-montenegro-podgorica-demanding-the-resignati.md)
 _Context: Democratic Front, Milo Dukanovic, Montenegro, Podgorica_

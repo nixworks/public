@@ -2,7 +2,7 @@
 
 #  Lebanese Prime Minister Rafiq Hariri resigns and says he will leave the government, ending several weeks of conflict between Hariri and the Syrian-backed President, mile Lahoud. Lahoud's term in office was extended last month, allegedly as a result of pressure from Syria; in response, the United Nations Security Council passed a resolution condemning foreign interference in Lebanon and demanding the withdrawal of foreign troops. 
 
-Prime Minister Rafik Hariri resigned and his Cabinet was annulled Wednesday as expected, but he surprisingly said he will not head the new government due to internal political differences. &quot;Facing the challenges, any challenges, can only be done through a unified domestic front that meets the goals of the Lebanese people. 
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
 ### Source:

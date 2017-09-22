@@ -43,7 +43,7 @@ Pope Benedict will appoint a special envoy to run and reform an influential Roma
 _Context: Albania, European Patent Organisation_
 
 ### [Taiwan employs capital punishment for the first time since 2005, executing four men for "grave offences such as fatal kidnappings and murders". ](/news/2010/05/1/taiwan-employs-capital-punishment-for-the-first-time-since-2005-executing-four-men-for-grave-offences-such-as-fatal-kidnappings-and-murder.md)
-_Context: capital punishment, the Republic of China, the first time since 2005_
+_Context: Taiwan, capital punishment, the first time since 2005_
 
 ### [Two retired generals tell "The Washington Post" that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-thr.md)
 Rising rates of obesity among young Americans could pose a risk to the future of the military, two retired generals are warning. - New Zealand Herald

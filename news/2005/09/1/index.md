@@ -10,10 +10,10 @@ _Context: 7 July, Al Jazeera, Mohammad Sidique Khan, al-Qaeda_
 _Context: ABC, Diane Sawyer, George W. Bush, White House_
 
 ### [ Typhoon Talim passes over Taiwan, killing at least one person and injuring 24. ](/news/2005/09/1/typhoon-talim-passes-over-taiwan-killing-at-least-one-person-and-injuring-24.md)
-_Context: Typhoon Talim, the Republic of China_
+_Context: Taiwan, Typhoon Talim_
 
 ### [ On the eve of People's Republic of China President Hu Jintao's first visit to North America next week, a PRC foreign ministry spokesman warned against any government providing Taiwan (ROC) with missile defense systems. Hu Jintao arrives in Washington, D.C. on Monday, then visits Canada and Mexico before visiting the United Nations General Assembly. ](/news/2005/09/1/on-the-eve-of-people-s-republic-of-china-president-hu-jintao-s-first-visit-to-north-america-next-week-a-prc-foreign-ministry-spokesman-war.md)
-_Context: Canada, China, Chinese President, District of Columbia, Hu Jintao, Mexico, United Nations General Assembly, the Republic of China_
+_Context: Canada, China, Chinese President, District of Columbia, Hu Jintao, Mexico, Taiwan, United Nations General Assembly_
 
 ### [ Russia marks the first anniversary of the Beslan tragedy in which militants seized nearly 1,200 hostages, killing 331, more than half of them children. ](/news/2005/09/1/russia-marks-the-first-anniversary-of-the-beslan-tragedy-in-which-militants-seized-nearly-1-200-hostages-killing-331-more-than-half-of-th.md)
 _Context: Beslan, Beslan children killed a year ago_

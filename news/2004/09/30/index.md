@@ -10,7 +10,7 @@ _Context: Conservative Party, EU, Hartlepool, Labour, Liberal Democrats, Parliam
 John Kerry assailed the war in Iraq in the first presidential debate Thursday night, accusing President Bush of &#8220;a colossal error of judgment&#8221; as the candidates finally faced each other for the first time.
 
 ### [ Same-sex marriage in the United States: The proposed Federal Marriage Amendment (HJR 106) is rejected by the United States House of Representatives by a vote of 227&ndash;186. ](/news/2004/09/30/same-sex-marriage-in-the-united-states-the-proposed-federal-marriage-amendment-hjr-106-is-rejected-by-the-united-states-house-of-represe.md)
-_Context: United States House of Representatives, constitutional amendment to ban, same-sex marriage_
+Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 ### [ The office of British Prime Minister Tony Blair announces he will undergo "routine heart surgery" tomorrow to correct an irregular heartbeat. ](/news/2004/09/30/the-office-of-british-prime-minister-tony-blair-announces-he-will-undergo-routine-heart-surgery-tomorrow-to-correct-an-irregular-heartbea.md)
 _Context: Prime Minister, Tony Blair_
@@ -22,7 +22,7 @@ _Context: Abu Musab al-Zarqawi, Baghdad, Conflict in Iraq, Fallujah, Jordan, US 
 _Context: Kyoto Treaty, global warming, ratified_
 
 ### [ Israel launches a major offensive into the Jabaliya refugee camp killing at least 23 gunmen and civilians. Earlier this morning, a column of Israeli tanks moved into the center of the camp, followed by bulldozers. At least three Palestinian civilians have been killed thus far. Homes are being demolished, forcing people to flee. Seventy-two Palestinians are known to have been wounded, some losing limbs. ](/news/2004/09/30/israel-launches-a-major-offensive-into-the-jabaliya-refugee-camp-killing-at-least-23-gunmen-and-civilians-earlier-this-morning-a-column-o.md)
-_Context: Arab-Israeli conflict, Israel, Jabalia, bulldozer, tank_
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ## [Previous Day...](/news/2004/09/29/index.md)
 

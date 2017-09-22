@@ -2,13 +2,14 @@
 
 #  Conflict in Iraq: Three suicide car bombs in Samarra kill 19 Iraqi police, two Iraqi National Guardsmen, two Iraqi Rapid Reaction Forces, and 11 civilians, with 48 wounded. In Ramadi, an Iraqi is killed and 20 U.S. Marines are wounded after a shoot-out between the Marines and rebels. A physician at Fallujah General Hospital reports two dead and maintains no foreign fighters have been admitted to his hospital. 
 
-
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3987927.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6734598)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

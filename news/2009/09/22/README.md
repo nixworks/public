@@ -31,7 +31,7 @@ _Context: Calais, France, migrants_
 _Context: 60th anniversary of the founding, China, Tibet Autonomous Region_
 
 ### [ Taiwan shows a documentary on Uyghur leader Rebiya Kadeer, as the website of the Kaoshiung Film Festival is hacked. ](/news/2009/09/22/taiwan-shows-a-documentary-on-uyghur-leader-rebiya-kadeer-as-the-website-of-the-kaoshiung-film-festival-is-hacked.md)
-_Context: Kaoshiung, Rebiya Kadeer, Uyghur, the Republic of China_
+_Context: Kaoshiung, Rebiya Kadeer, Taiwan, Uyghur_
 
 ### [ Iranian President Mahmoud Ahmadinejad heads for New York to attend the United Nations General Assembly. ](/news/2009/09/22/iranian-president-mahmoud-ahmadinejad-heads-for-new-york-to-attend-the-united-nations-general-assembly.md)
 _Context: Iran, Mahmoud Ahmadinejad, New York City, President, United Nations, United Nations General Assembly_

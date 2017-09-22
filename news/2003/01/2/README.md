@@ -10,7 +10,7 @@ _Context: Dominique de Villepin_
 _Context: Aquitaine, EUR, Jean-Pierre Raffarin, Prefect, Prestige, tanker, tonne_
 
 ### [ The People's Republic of China Foreign Ministry reacted to a report in the Israeli newspaper "Ha'aretz" which stated that Israel had complied with a U.S. request to suspend all contracts on the exports of arms and security equipment from the PRC to Israel. Israeli Defence Ministry Director-General Amos Yaron stated that Israel intends to "track down" all security ties with the PRC. An unnamed senior Israeli official stated that the Americans were using the pretext of protecting Taiwan to cover a proposed shift of American policy to allow direct arms sales to the PRC.](/news/2003/01/2/the-people-s-republic-of-china-foreign-ministry-reacted-to-a-report-in-the-israeli-newspaper-ha-aretz-which-stated-that-israel-had-compli.md)
-_Context: Amos Yaron, Ha'aretz, Israel, the Republic of China_
+_Context: Amos Yaron, Ha'aretz, Israel, Taiwan_
 
 ### [ United States Army division commanders are beginning a war game at US V Corps headquarters at Heidelberg, Germany, called VICTORY SCRIMMAGE. The exercise is under the command of Lieutenant General William S. Wallace, who is expected to command American ground forces in a planned U.S. war against Iraq.](/news/2003/01/2/united-states-army-division-commanders-are-beginning-a-war-game-at-us-v-corps-headquarters-at-heidelberg-germany-called-victory-scrimmage.md)
 _Context: Heidelberg, Iraq, U.S. soldiers, US V Corps, William S. Wallace, division, war game_
