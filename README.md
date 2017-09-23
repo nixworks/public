@@ -1,5 +1,8 @@
 ## [News](/news/2017/09/23/index.md)
 
+### [The Venerable Rev. Father Stanley Rother, a priest of the Roman Catholic Archdiocese of Oklahoma City (born in Okarche, Oklahoma) is beatified at the Cox Convention Center in Oklahoma City by Cardinal Angelo Amato, head of the sainthood Congregation in the Roman Curia and Pope Francis's delegate. Rother, who became a missionary, was assassinated in July 1981 in the rural poor village of Santiago Atitlan, Guatemala, and is the first native American-born Catholic martyr. ](/news/2017/09/23/the-venerable-rev-father-stanley-rother-a-priest-of-the-roman-catholic-archdiocese-of-oklahoma-city-born-in-okarche-oklahoma-is-beatifi.md)
+The Latest on a beatification mass starts for 1st US martyr (all times local):
+
 ### [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md)
 Thousands of villagers on the Indonesian resort island of Bali are sheltering in sports centers, village halls and with relatives, fearing Mount Agung will erupt for the first time in more than half a century.
 
