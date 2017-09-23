@@ -1,6 +1,6 @@
 ### [2017-09-22](/news/2017/09/22/index.md)
 
-#  Transport for London announces that it will not issue Uber a new private hire license. 
+# Transport for London announces that it will not issue Uber a new private hire license. 
 
 Ride-hailing app Uber is &quot;not fit and proper&quot; to operate in London, the transport regulator says.
 
