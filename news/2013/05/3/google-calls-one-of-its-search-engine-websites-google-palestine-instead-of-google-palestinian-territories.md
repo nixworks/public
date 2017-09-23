@@ -14,7 +14,7 @@ Internet search engine Google changes the tagline on the front page of its Pales
 ### Related:
 
 1. [U.S. President Barack Obama, in a formal visit to Israel and the Palestinian territories, states that "Palestinians deserve a state of their own". ](/news/2013/03/21/u-s-president-barack-obama-in-a-formal-visit-to-israel-and-the-palestinian-territories-states-that-palestinians-deserve-a-state-of-their.md) _Context: Palestinian, Palestinian_
-2. [ Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-gbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Google_
+2. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Google_
 3. [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md) _Context: Google_
 4. [Israel arrests Palestinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palestinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md) _Context: Palestinian_
 5. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md) _Context: Google_

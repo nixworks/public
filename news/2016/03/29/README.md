@@ -31,7 +31,7 @@ Argentina welcomes decision to expand its maritime territory, despite unresolved
 WASHINGTON — The State Department and Pentagon ordered the families of US diplomats and military personnel Tuesday to leave posts in southern Turkey due to &#8220;increased threats from terrorist g…
 
 ### [Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-of-nuclear-capable-missiles-violated-un.md)
-_Context: Iran, Iran and weapons of mass destruction, Joint Comprehensive Plan of Action, Reuters, United Nations Security Council, United Nations Security Council Resolution 2231, United States_
+_Context: Iran, Iran and weapons of mass destruction, Joint Comprehensive Plan of Action, Reuters, U.S., United Nations Security Council, United Nations Security Council Resolution 2231_
 
 ### [The Indonesian foreign ministry says 10 Indonesian nationals are being held hostage after their tug boat and coal barge was hijacked in Philippine waters. Islamist militant group, Abu Sayyaf is demanding a ransom. ](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indonesian-nationals-are-being-held-hostage-after-their-tug-boat-and-coal-barge-was-hijacked-in-phil.md)
 _Context: Abu Sayyaf, Indonesia, Indonesian foreign ministry, Philippines_
@@ -70,7 +70,7 @@ Donald Trump, Ted Cruz and John Kasich all backed away from earlier pledges to s
 Two police officers were killed and four wounded on Tuesday in the western Venezuelan city of San Cristobal after they were hit by a bus driven by young men protesting a hike in public transport fares, according to government officials and Reuters witnesses.
 
 ### [U.S. Federal Communications Commissioner Michael O'Rielly says, during a speech at the American Action Forum, that Netflix's admission last week that it has been intentionally slowing its video streaming transmission on some wireless mobile carriers for five years "deeply disturbing" which might warrant an investigation by the Federal Trade Commission and/or Congress. ](/news/2016/03/29/u-s-federal-communications-commissioner-michael-o-rielly-says-during-a-speech-at-the-american-action-forum-that-netflix-s-admission-last.md)
-_Context: American Action Forum, Congress, Federal Communications Commission, Michael O'Rielly, Netflix, U.S. Federal Trade Commission_
+_Context: American Action Forum, Federal Communications Commission, Michael O'Rielly, Netflix, U.S. Federal Trade Commission, United States Congress_
 
 ## [Previous Day...](/news/2016/03/28/index.md)
 

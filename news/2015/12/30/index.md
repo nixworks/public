@@ -31,7 +31,7 @@ Two policewomen and eight soldiers alleged to have engaged in group sex while co
 The turmoil and an upsurge of violence in the capital Bangui in September repeatedly forced authorities to delay the polls. More recently some have cast doubts on whether the election can be organised successfully.
 
 ### [The freak weather system responsible for heavy rain and tornadoes in the U.S., and high winds and rainfall in the British Isles, also has impacted the Arctic where the average winter temperature is normally around -20 F. Temperatures around the North Pole have surpassed the 32 F threshold for a brief moment, according to the U.S. National Oceanic and Atmospheric Administration's Ocean Prediction Center, which is 50 F-change higher than usual for December. ](/news/2015/12/30/the-freak-weather-system-responsible-for-heavy-rain-and-tornadoes-in-the-u-s-and-high-winds-and-rainfall-in-the-british-isles-also-has-im.md)
-_Context: Arctic, British Isles, North Pole, Ocean Prediction Center, U.S.  National Oceanic and Atmospheric Administration, United States_
+_Context: Arctic, British Isles, North Pole, Ocean Prediction Center, U.S., U.S.  National Oceanic and Atmospheric Administration_
 
 ## [Previous Day...](/news/2015/12/29/index.md)
 

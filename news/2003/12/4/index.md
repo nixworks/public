@@ -7,7 +7,7 @@ _Context: Leszek Miller, Polish, Polish Prime Minister, Warsaw, helicopter_
 _Context: EU, George W. Bush, U.S. President, World Trade Organization, steel, tariffs, trade, trade sanctions_
 
 ### [Hourly productivity of U.S. employees increased in the 3rd quarter of 2003 at an annual rate of 9.2%, the highest since the Reagan years (Q2 of 1983). [http://www.washingtontimes.com/business/20031203-111745-2647r.htm]](/news/2003/12/4/hourly-productivity-of-u-s-employees-increased-in-the-3rd-quarter-of-2003-at-an-annual-rate-of-9-2-the-highest-since-the-reagan-years-q2.md)
-_Context: 1983, Ronald Reagan, United States, employee, productivity, quarter_
+_Context: 1983, Ronald Reagan, U.S., employee, productivity, quarter_
 
 ### [Interpol issues a red notice for the arrest of former President of Liberia Charles Taylor. ](/news/2003/12/4/interpol-issues-a-red-notice-for-the-arrest-of-former-president-of-liberia-charles-taylor.md)
 _Context: Charles G. Taylor, Interpol, President of Liberia, red notice_

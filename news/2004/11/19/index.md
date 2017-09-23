@@ -25,7 +25,7 @@ _Context: 2004 U.S. presidential election controversy, New Hampshire, election s
 _Context: Israeli soldier, Israeli-Palestinian conflict, Moshe Yaalon, Palestinian, Yediot Ahronot_
 
 ### [ United States Congress: The U.S. Congress has passed a bill reinstating and extending a ban on taxation of internet access for another three years. ](/news/2004/11/19/united-states-congress-the-u-s-congress-has-passed-a-bill-reinstating-and-extending-a-ban-on-taxation-of-internet-access-for-another-thre.md)
-_Context: Congress_
+_Context: United States Congress_
 
 ### [ Russia announces it will sell off the main production unit of Yukos, the energy company seized last year for supposedly failing to pay taxes. ](/news/2004/11/19/russia-announces-it-will-sell-off-the-main-production-unit-of-yukos-the-energy-company-seized-last-year-for-supposedly-failing-to-pay-taxe.md)
 _Context: Yukos_

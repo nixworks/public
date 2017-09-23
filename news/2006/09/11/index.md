@@ -7,13 +7,13 @@ _Context: Cuba, Havana, Non-aligned Movement_
 _Context: India, Mahatma Gandhi's, non-violent, peace, satyagraha_
 
 ### [ American President George W. Bush states that the war against terrorism is "the calling of our generation" and urged Americans to put aside differences and fight to victory. ](/news/2006/09/11/american-president-george-w-bush-states-that-the-war-against-terrorism-is-the-calling-of-our-generation-and-urged-americans-to-put-aside.md)
-_Context: George W. Bush, U.S. President, United States, terrorism_
+_Context: George W. Bush, U.S., U.S. President, terrorism_
 
 ### [ Tropical Storm Gordon forms in the open Atlantic Ocean with 45 mph winds and is expected to head towards Bermuda. ](/news/2006/09/11/tropical-storm-gordon-forms-in-the-open-atlantic-ocean-with-45-mph-winds-and-is-expected-to-head-towards-bermuda.md)
 _Context: Atlantic Ocean, Bermuda, Tropical Storm Gordon_
 
 ### [ U.S. & New York leaders, along with families and friends of those who died in the September 11, 2001 attacks, remember the 5th anniversary of the attacks with speeches and moments of silence. ](/news/2006/09/11/u-s-new-york-leaders-along-with-families-and-friends-of-those-who-died-in-the-september-11-2001-attacks-remember-the-5th-anniversary.md)
-_Context: New York City, September 11, 2001 attacks, United States, three minutes of silence_
+_Context: New York City, September 11, 2001 attacks, U.S., three minutes of silence_
 
 ### [ A new video broadcast shows Al-Qaeda deputy leader, Ayman al-Zawahiri, issuing a warning about possible future attacks in Israel and the Persian Gulf. ](/news/2006/09/11/a-new-video-broadcast-shows-al-qaeda-deputy-leader-ayman-al-zawahiri-issuing-a-warning-about-possible-future-attacks-in-israel-and-the-pe.md)
 _Context: Ayman al-Zawahiri, Israel, Persian Gulf, al-Qaeda_

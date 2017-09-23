@@ -12,7 +12,7 @@ Google on Thursday released the code for its upcoming Chrome OS, and plans to ha
 ### Related:
 
 1. [ "SCO v. IBM:" SCO Group plans to widen its legal battle against the open-source operating system, stating intent to sue large-scale Linux users for copyright infringement.](/news/2003/11/18/sco-v-ibm-sco-group-plans-to-widen-its-legal-battle-against-the-open-source-operating-system-stating-intent-to-sue-large-scale-linux-u.md) _Context: open source, operating system_
-2. [ Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-gbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Google_
+2. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Google_
 3. [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md) _Context: Google_
 4. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md) _Context: Google_
 5. [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md) _Context: Google_

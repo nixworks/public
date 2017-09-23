@@ -9,5 +9,8 @@ _Context: Galle, Sri Lanka, Tamil Tiger_
 ### [ Chilean police detain 366 high school student protestors in Santiago, and use tear gas and water cannons to disperse their one day strike which called on the government to reform the education law, originally enacted under Augusto Pinochet. ](/news/2006/10/18/chilean-police-detain-366-high-school-student-protestors-in-santiago-and-use-tear-gas-and-water-cannons-to-disperse-their-one-day-strike-w.md)
 _Context: Augusto Pinochet, Chile, Santiago_
 
+### [ Microsoft Corporation released version 7 of its Internet Explorer internet browser software.](/news/2006/10/18/microsoft-corporation-released-version-7-of-its-internet-explorer-internet-browser-software.md)
+_Context: Internet, Internet Explorer, Microsoft, software, web browser_
+
 ## [Previous Day...](/news/2006/10/17/index.md)
 

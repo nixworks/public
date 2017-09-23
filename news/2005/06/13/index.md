@@ -37,7 +37,7 @@ _Context: CAN$, Canada, Cineplex Odeon, Famous Players, Viacom_
 _Context: Niger River, Nigeria, Olusegun Obasanjo, refinery_
 
 ### [ In Mexico, army soldiers and federales take over the city of Nuevo Laredo near the US border. The whole local police force is detained for investigation in connection to drug trafficking and for drug testing. City's just-appointed police chief Alejandro Dominguez was assassinated last Wednesday. On Saturday, a policeman shot a federal agent ](/news/2005/06/13/in-mexico-army-soldiers-and-federales-take-over-the-city-of-nuevo-laredo-near-the-us-border-the-whole-local-police-force-is-detained-for.md)
-_Context: Mexico, Nuevo Laredo, United States, drug testing, drug trafficking, federales, police_
+_Context: Mexico, Nuevo Laredo, U.S., drug testing, drug trafficking, federales, police_
 
 ### [ 14 people drown off the coast of Morocco in a boat that tried to reach Spain ](/news/2005/06/13/14-people-drown-off-the-coast-of-morocco-in-a-boat-that-tried-to-reach-spain.md)
 _Context: Morocco, Spanish_

@@ -37,7 +37,7 @@ _Context: Congolese Labour Party, Denis Sassou Nguesso, President of the Republi
 Divers in Minneapolis found the remains of someone killed in the disaster, bringing the death toll in the collapse to as many as nine, with at least four others still missing.
 
 ### [ United States share markets finish slightly lower as a $38 billion injection from the Federal Reserve helps to stabilise the situation. ](/news/2007/08/10/united-states-share-markets-finish-slightly-lower-as-a-38-billion-injection-from-the-federal-reserve-helps-to-stabilise-the-situation.md)
-_Context: Federal Reserve, US$, United States_
+_Context: Federal Reserve, U.S., US$_
 
 ### [ The United Nations Security Council approves an enhanced role for the United Nations Assistance Mission in Iraq. ](/news/2007/08/10/the-united-nations-security-council-approves-an-enhanced-role-for-the-united-nations-assistance-mission-in-iraq.md)
 _Context: United Nations Assistance Mission in Iraq, United Nations Security Council_
@@ -76,7 +76,7 @@ _Context: Vietnam, flood_
 East Timor is facing a new humanitarian emergency, with hundreds of houses burnt in the country&#039;s east and more than 1,000 villagers fleeing to the mountains.
 
 ### [ Envoys from the United States, European Union and Russia visit Serbia and Kosovo seeking a solution to the Kosovo issue. ](/news/2007/08/10/envoys-from-the-united-states-european-union-and-russia-visit-serbia-and-kosovo-seeking-a-solution-to-the-kosovo-issue.md)
-_Context: EU, Kosovo, Russia, Serbia, United States_
+_Context: EU, Kosovo, Russia, Serbia, U.S._
 
 ### [ Britain's Chief Veterinary Officer Debby Reynolds raises concern about another possible outbreak of foot-and-mouth disease in England. ](/news/2007/08/10/britain-s-chief-veterinary-officer-debby-reynolds-raises-concern-about-another-possible-outbreak-of-foot-and-mouth-disease-in-england.md)
 _Context: Debby Reynolds, England, United Kingdom, outbreak of 2007_

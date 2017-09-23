@@ -1,13 +1,9 @@
 ### [2009-05-27](/news/2009/05/27/index.md)
 
-#  An anti-piracy warship destroys a Yemeni fishing vessel in the Red Sea, killing at least two people. 
+#  An anti-piracy warship destroys a Yemeni fishing vessel in the Red Sea, killing at least two people.
 
 
 
-
-### Source:
-
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8070116.stm)
 
 ### Related:
 

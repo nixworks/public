@@ -19,7 +19,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Dick Cheney, Iraq, Thanksgiving, U.S. Vice President_
 
 ### [ Don Brash resigns as leader of the opposition New Zealand National Party, saying ongoing speculation about his leadership is damaging to the party. ](/news/2006/11/23/don-brash-resigns-as-leader-of-the-opposition-new-zealand-national-party-saying-ongoing-speculation-about-his-leadership-is-damaging-to-th.md)
-_Context: Don Brash, New Zealand National Party_
+_Context: Don Brash, National Party_
 
 ## [Previous Day...](/news/2006/11/22/index.md)
 

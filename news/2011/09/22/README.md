@@ -22,7 +22,7 @@ _Context: Dombivli, Mumbai_
 _Context: Han, Wei River, drainage basin_
 
 ### [2011 Pacific hurricane season: Hurricane Hilary reaches category 3 strength off the coast of Mexico, but is not expected to make landfall. ](/news/2011/09/22/2011-pacific-hurricane-season-hurricane-hilary-reaches-category-3-strength-off-the-coast-of-mexico-but-is-not-expected-to-make-landfall.md)
-_Context: Hilary, Hurricane Jova, category 3_
+_Context: Category 3 hurricane, Hilary, Hurricane Jova_
 
 ### [The Anniston Chemical Activity destroys its last mustard gas shells, becoming the fifth of nine US chemical weapons depots to close under terms of the Chemical Weapons Treaty. ](/news/2011/09/22/the-anniston-chemical-activity-destroys-its-last-mustard-gas-shells-becoming-the-fifth-of-nine-us-chemical-weapons-depots-to-close-under-te.md)
 _Context: Anniston Chemical Activity, Chemical Weapons Treaty, chemical weapon, mustard gas_

@@ -22,7 +22,7 @@ _Context: Afghanistan, Taliban_
 _Context: Kaesong area, North Korea, South Korea_
 
 ### [The White House reports that the United States may have to use military action against Syria. ](/news/2013/04/26/the-white-house-reports-that-the-united-states-may-have-to-use-military-action-against-syria.md)
-_Context: Syria, United States, White House_
+_Context: Syria, U.S., White House_
 
 ### [Boston Marathon bombings suspect Dzhokhar Tsarnaev is transferred from Beth Israel Deaconess Medical Center to the federal prison facility in Fort Devens in the U.S. state of Massachusetts. ](/news/2013/04/26/boston-marathon-bombings-suspect-dzhokhar-tsarnaev-is-transferred-from-beth-israel-deaconess-medical-center-to-the-federal-prison-facility-i.md)
 _Context: Beth Israel Deaconess Medical Center, Boston Marathon bombings, Dzhokhar Tsarnaev, Fort Devens, Massachusetts, U.S., facility, federal prison_

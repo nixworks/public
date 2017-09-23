@@ -67,7 +67,7 @@ An ingenious method to breathalyse a whale using a remote control helicopter win
 Researchers say imprints left by the large bird, which lived in Peru more than 36 million years ago, contain evidence that its feathers were mostly reddish brown and shades of gray.
 
 ### [More than 1,200 NASA employees are laid off despite a $19 billion funding budget passed by the United States Congress earlier in the week. ](/news/2010/10/1/more-than-1-200-nasa-employees-are-laid-off-despite-a-19-billion-funding-budget-passed-by-the-united-states-congress-earlier-in-the-week.md)
-_Context: Congress, NASA_
+_Context: NASA, United States Congress_
 
 ### [China launches the Chang'e 2 lunar probe from Sichuan. ](/news/2010/10/1/china-launches-the-chang-e-2-lunar-probe-from-sichuan.md)
 _Context: Chang'e 2, China, Sichuan_

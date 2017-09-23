@@ -1,7 +1,7 @@
 ## [2004-03-26](/news/2004/03/26/index.md)
 
 ### [ The United States Congress prepares legislation against peer-to-peer technology on multiple fronts. ](/news/2004/03/26/the-united-states-congress-prepares-legislation-against-peer-to-peer-technology-on-multiple-fronts.md)
-_Context: Congress, P2P, technology_
+_Context: P2P, United States Congress, technology_
 
 ### [ United Nations electoral experts and security support arrive in Baghdad. ](/news/2004/03/26/united-nations-electoral-experts-and-security-support-arrive-in-baghdad.md)
 _Context: Baghdad, Security experts, United Nations, election, expert_

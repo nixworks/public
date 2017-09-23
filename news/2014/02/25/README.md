@@ -10,7 +10,7 @@ For a lucky California couple, their $10 million pot of gold came without the ra
 _Context: Asiana Airlines_
 
 ### [The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine's president as "his actions have undermined his legitimacy". ](/news/2014/02/25/the-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraineas-president-as-his-actions-h.md)
-_Context: United States, Viktor Yanukovych_
+_Context: U.S., Viktor Yanukovych_
 
 ### [A court in the UK rules that a man arrested in connection with the 1982 Hyde Park and Regent's Park bombings will not be prosecuted for his involvement.](/news/2014/02/25/a-court-in-the-uk-rules-that-a-man-arrested-in-connection-with-the-1982-hyde-park-and-regent-s-park-bombings-will-not-be-prosecuted-for-his.md)
 John Downey will not be prosecuted because he was able to produce documents proving assurances that he would not face trial.

@@ -1,7 +1,7 @@
 ## [2003-09-8](/news/2003/09/8/index.md)
 
 ### [ "Occupation of Iraq": Declaring Iraq to be the "central front" in the war against terrorism, President Bush asks Congress for $87 billion to help pay for the reconstruction of Iraq as well as Afghanistan.](/news/2003/09/8/occupation-of-iraq-declaring-iraq-to-be-the-central-front-in-the-war-against-terrorism-president-bush-asks-congress-for-87-billion-t.md)
-_Context: Afghanistan, Congress, George W. Bush, Iraq, Iraq war, terrorism_
+_Context: Afghanistan, George W. Bush, Iraq, Iraq war, United States Congress, terrorism_
 
 ### [ Road map for peace: Ahmed Qurei, who was nominated as Palestinian prime minister by the head of the Palestinian Authority, Yasser Arafat, accepts the position (pending the approval of the parliament). He had originally said there was no reason to form a new government unless "Israel wants to change its hostile attitude."](/news/2003/09/8/road-map-for-peace-ahmed-qurei-who-was-nominated-as-palestinian-prime-minister-by-the-head-of-the-palestinian-authority-yasser-arafat-a.md)
 _Context: Ahmed Qurei, Israel, Palestinian, Palestinian Authority, Yasser Arafat, road map peace plan_

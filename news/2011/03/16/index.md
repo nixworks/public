@@ -22,7 +22,7 @@ _Context: an earthquake and tsunami_
 Cambodian police ask prosecutors to charge a recruitment firm with illegally detaining its staff, after one woman died and another was injured at its training centre.
 
 ### [Raymond Davis, an official with the United States embassy in Pakistan, is acquitted of charges of two counts of murder and released from jail after compensation is paid to the victims' families, the result of intense diplomatic talks between the United States and Pakistan.](/news/2011/03/16/raymond-davis-an-official-with-the-united-states-embassy-in-pakistan-is-acquitted-of-charges-of-two-counts-of-murder-and-released-from-jai.md)
-_Context: Pakistan, Raymond Davis, United States_
+_Context: Pakistan, Raymond Davis, U.S._
 
 ### [Hillary Clinton, the United States Secretary of State, states that she will not serve a second term in President Obama's Cabinet if he is reelected in 2012 and will retire from public life. ](/news/2011/03/16/hillary-clinton-the-united-states-secretary-of-state-states-that-she-will-not-serve-a-second-term-in-president-obama-s-cabinet-if-he-is-re.md)
 _Context: Barack Obama, Hillary Clinton, U.S. President, United States Secretary of State, United States presidential election, 2012_

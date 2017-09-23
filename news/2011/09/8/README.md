@@ -28,7 +28,7 @@ _Context: Pacific Islands Forum, Tuiloma Neroni Slade_
 ROAD closures and public transport disruptions are set to plague Sydney today as police, firefighters, teachers and transport workers prepare for the biggest mass demonstration in two decades.
 
 ### [President of the United States Barack Obama delivers a speech to a joint session of both houses of Congress, putting forward a new job-creation plan entailing major spending initiatives and tax cuts. ](/news/2011/09/8/president-of-the-united-states-barack-obama-delivers-a-speech-to-a-joint-session-of-both-houses-of-congress-putting-forward-a-new-job-creat.md)
-_Context: Barack Obama, Congress, U.S. President, joint session of Congress_
+_Context: Barack Obama, U.S. President, United States Congress, joint session of Congress_
 
 ### [Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. ](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.md)
 _Context: Ho Chi Minh City, President of Vietnam, Vo Chi Cong_

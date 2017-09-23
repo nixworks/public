@@ -10,7 +10,7 @@ _Context: Cassini, NASA, Saturn, hurricane_
 _Context: British National Party, Crown Court, Leeds, Mark Collett, Nick Griffin_
 
 ### [ Russia announces that it has reached an agreement with the United States over the terms of Russian entry to the World Trade Organization with a formal deal to be signed next week. ](/news/2006/11/10/russia-announces-that-it-has-reached-an-agreement-with-the-united-states-over-the-terms-of-russian-entry-to-the-world-trade-organization-wi.md)
-_Context: Russia, United States, World Trade Organization_
+_Context: Russia, U.S., World Trade Organization_
 
 ### [ Scientists at Rice University discover that using nanotechnology tiny particles of iron oxide, when placed under a strong magnet, bind with arsenic, a potentially important benefit for countries plagued with arsenic contamination of groundwater. ](/news/2006/11/10/scientists-at-rice-university-discover-that-using-nanotechnology-tiny-particles-of-iron-oxide-when-placed-under-a-strong-magnet-bind-with.md)
 _Context: Rice University, arsenic, arsenic contamination of groundwater, iron oxide, magnet, nanotechnology_

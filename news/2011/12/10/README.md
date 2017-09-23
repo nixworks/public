@@ -19,7 +19,7 @@ _Context: Paraaque, Philippine, crashes into an elementary school_
 _Context: 6.5 magnitude earthquake, Guerrero_
 
 ### [Official results for the 26 November general election confirm John Key's National Party holding a plurality of the votes and seats. With confidence and supply agreements with ACT New Zealand and United Future confirmed, National forms a minority government with a one-seat majority, returning the Fifth National Government to a second term in office. ](/news/2011/12/10/official-results-for-the-26-november-general-election-confirm-john-key-s-national-party-holding-a-plurality-of-the-votes-and-seats-with-con.md)
-_Context: ACT, Fifth National Government, John Key, New Zealand National Party, United Future, confidence and supply, minority government_
+_Context: ACT, Fifth National Government, John Key, National Party, United Future, confidence and supply, minority government_
 
 ### [A day of protests begins in cities across Russia against alleged election fraud by Vladimir Putin and his United Russia party, with fifty thousand people marching in Moscow and 25 people arrested in Khabarovsk. ](/news/2011/12/10/a-day-of-protests-begins-in-cities-across-russia-against-alleged-election-fraud-by-vladimir-putin-and-his-united-russia-party-with-fifty-th.md)
 _Context: Khabarovsk, Moscow, Russia, United Russia, Vladimir Putin_

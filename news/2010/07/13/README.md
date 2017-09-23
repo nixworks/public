@@ -64,7 +64,7 @@ Soldiers&#x20;from&#x20;13&#x20;former&#x20;French&#x20;African&#x20;colonies&#x
 Britain revokes citizenship of Russian spy following her deportation from US.
 
 ### [Colton Harris-Moore, otherwise known as the "Barefoot Bandit", pleads guilty to illegally landing a plane in The Bahamas, and currently faces jail or deportation. ](/news/2010/07/13/colton-harris-moore-otherwise-known-as-the-barefoot-bandit-pleads-guilty-to-illegally-landing-a-plane-in-the-bahamas-and-currently-face.md)
-_Context: Colton Harris-Moore, The Bahamas_
+_Context: Bahamas, Colton Harris-Moore_
 
 ### [A four-year-old boy dies during an exorcism ritual carried out by a traditional healer in the Russian Far East. ](/news/2010/07/13/a-four-year-old-boy-dies-during-an-exorcism-ritual-carried-out-by-a-traditional-healer-in-the-russian-far-east.md)
 A four-year-old boy has died during an exorcism ritual carried out by a traditional healer in the Far East of Russia, investigators say.

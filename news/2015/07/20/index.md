@@ -19,7 +19,7 @@ _Context: Venezuela_
 _Context: Iran, Joint Comprehensive Plan of Action, United Nations Security Council, several world powers_
 
 ### [The United States and Cuba resume full diplomatic relations after five decades. ](/news/2015/07/20/the-united-states-and-cuba-resume-full-diplomatic-relations-after-five-decades.md)
-_Context: Cuba, Cuba-United States relations, United States_
+_Context: Cuba, Cuba-United States relations, U.S._
 
 ### [ The Philae lander on comet 67P/Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/the-philae-lander-on-comet-67p-churyumovagerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-control.md)
 Europe&#39;s robot lab Philae has fallen &quot;silent&quot; on the surface of a comet zipping towards the sun. Ground controllers fear it may have shifted out of radio contact indefinitely.

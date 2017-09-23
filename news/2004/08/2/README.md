@@ -1,7 +1,7 @@
 ## [2004-08-2](/news/2004/08/2/index.md)
 
 ### [ U.S. President George W. Bush urges Congress to create a national intelligence director and a national counterterrorism center. ](/news/2004/08/2/u-s-president-george-w-bush-urges-congress-to-create-a-national-intelligence-director-and-a-national-counterterrorism-center.md)
-_Context: Congress, George W. Bush, counterterrorism_
+_Context: George W. Bush, United States Congress, counterterrorism_
 
 ### [ Jorge Hank Rhon, candidate of the left-conservative PRI party&mdash;which had held power in Mexico for more than 70 years&mdash;wins the Tijuana mayoral election by just 1.09%, on a platform of solving organized crime by omnipresent public surveillance. ](/news/2004/08/2/jorge-hank-rhon-candidate-of-the-left-conservative-pri-party-mdash-which-had-held-power-in-mexico-for-more-than-70-years-mdash-wins-the-ti.md)
 _Context: Jorge Hank Rhon, PRI, Tijuana, organization, surveillance_

@@ -4,7 +4,7 @@
 The clash started after the Pakistanis fired shots or flares at two American helicopters that Pakistan says had crossed its border.
 
 ### [ Senior members of the United States Congress agree on a legislative deal to bail out the U.S. financial system from lingering effects of the subprime mortgage crisis. ](/news/2008/09/25/senior-members-of-the-united-states-congress-agree-on-a-legislative-deal-to-bail-out-the-u-s-financial-system-from-lingering-effects-of-th.md)
-_Context: Congress, Emergency Economic Stabilization Act, housing crisis_
+_Context: Emergency Economic Stabilization Act, United States Congress, housing crisis_
 
 ### [ The Texas Supreme Court denies a petition by the Bob Barr US Presidential campaign seeking removal of Senators Barack Obama and John McCain from that state's ballot due to both candidates missing the filing deadline. ](/news/2008/09/25/the-texas-supreme-court-denies-a-petition-by-the-bob-barr-us-presidential-campaign-seeking-removal-of-senators-barack-obama-and-john-mccain.md)
 _Context: Barack Obama, Bob Barr, John McCain, Texas Supreme Court_
@@ -16,7 +16,7 @@ _Context: Barack Obama, George Fox University, Newberg, Oregon_
 _Context: 2006 Toronto terrorism case, Canada, Canadian Prime Minister, Parliament of Canada, Stephen Harper, behead_
 
 ### [ Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-level-in-18-months-under.md)
-_Context: Jobless, United States, United States economy, durable goods_
+_Context: Jobless, U.S., United States economy, durable goods_
 
 ### [ Following the purchase of British Energy by Electricit de France, plans for a new Hinkley Point C nuclear power station have been announced. ](/news/2008/09/25/following-the-purchase-of-british-energy-by-electricite-de-france-plans-for-a-new-hinkley-point-c-nuclear-power-station-have-been-announce.md)
 _Context: British Energy, Electricit de France, Hinkley Point C nuclear power station_

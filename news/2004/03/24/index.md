@@ -1,7 +1,7 @@
 ## [2004-03-24](/news/2004/03/24/index.md)
 
 ### [ The World Trade Organization makes a preliminary ruling that United States laws prohibiting Internet gambling violate international trade agreements, in response to a complaint by Antigua and Barbuda. The Bush administration vows to appeal, while some members of the United States Congress say they would rather allow a trade war or withdraw from future WTO talks than repeal laws against online gambling. ](/news/2004/03/24/the-world-trade-organization-makes-a-preliminary-ruling-that-united-states-laws-prohibiting-internet-gambling-violate-international-trade-a.md)
-_Context: Antigua and Barbuda, Congress, George W. Bush, Internet, World Trade Organization, gambling, international agreement, international trade, law, trade war_
+_Context: Antigua and Barbuda, George W. Bush, Internet, United States Congress, World Trade Organization, gambling, international agreement, international trade, law, trade war_
 
 ### [ Danish artist Marco Evaristti paints an iceberg in Greenland red, using 780 gallons of paint. ](/news/2004/03/24/danish-artist-marco-evaristti-paints-an-iceberg-in-greenland-red-using-780-gallons-of-paint.md)
 _Context: Denmark, Greenland, Marco Evaristti, iceberg_
