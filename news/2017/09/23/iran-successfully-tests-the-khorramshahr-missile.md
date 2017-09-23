@@ -1,0 +1,24 @@
+### [2017-09-23](/news/2017/09/23/index.md)
+
+# Iran successfully tests the Khorramshahr missile. 
+
+Tehran (AFP) - Iran said on Saturday that it had successfully tested a new medium-range missile in defiance of warnings from Washington that it was ready to ditch a landmark nuclear deal over the issue.
+
+
+### Source:
+
+1. [AFP via Yahoo! News](https://au.news.yahoo.com/world/a/37198606/iran-tests-new-missile-defying-us-warnings/)
+1. [Cover Image](https://s.yimg.com/iu/api/res/1.2/BvidDcEzVn8jugT3ue2m3A--~D/cm90YXRlPWF1dG87Zmk9ZmlsbDtweG9mZj0wO3B5b2ZmPTA7YXBwaWQ9eXZpZGVv/https://s.yimg.com/ea/img/-/170923/59c610c2e74ca_573efff3863b8ff04c0e1b86721bf9a564d40e9c.jpg)
+
+### Related:
+
+1. [Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-of-nuclear-capable-missiles-violated-un.md) _Context: Iran, Iran and weapons of mass destruction_
+2. [Leading Republican Party presidential candidates, including Mitt Romney and Rick Perry, criticize rival candidate Ron Paul for his view that the United States should not act against Iran's suspected nuclear weapons program. ](/news/2011/12/28/leading-republican-party-presidential-candidates-including-mitt-romney-and-rick-perry-criticize-rival-candidate-ron-paul-for-his-view-that.md) _Context: Iran, Iran and weapons of mass destruction_
+3. [ The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md) _Context: Iran, Iran and weapons of mass destruction_
+4. [ The European Union agrees to tougher sanctions against Iran for its alleged nuclear weapons program with the United Kingdom freezing assets of Iran's largest bank Bank Melli. ](/news/2008/06/16/the-european-union-agrees-to-tougher-sanctions-against-iran-for-its-alleged-nuclear-weapons-program-with-the-united-kingdom-freezing-assets.md) _Context: Iran, Iran and weapons of mass destruction_
+5. [ The President of the United States George W. Bush and the President of France Nicolas Sarkozy warn Syria to break with Iran and state that they will not allow Iran to obtain nuclear weapons. ](/news/2008/06/14/the-president-of-the-united-states-george-w-bush-and-the-president-of-france-nicolas-sarkozy-warn-syria-to-break-with-iran-and-state-that.md) _Context: Iran, Iran and weapons of mass destruction_
+6. [ The United States National Intelligence Estimate of November 2007 reports with "high confidence" that Iran stopped its nuclear weapons program in the fall of 2003 and has probably not restarted it since. ](/news/2007/12/3/the-united-states-national-intelligence-estimate-of-november-2007-reports-with-high-confidence-that-iran-stopped-its-nuclear-weapons-prog.md) _Context: Iran, Iran and weapons of mass destruction_
+7. [ CBS News's Mike Wallace holds an interview with Mahmoud Ahmadinejad, the president of Iran. In the interview, Ahmadinejad said that the letter he sent to George W. Bush was meant to "open a window towards the light" for Bush to "see that one can look on the world through a different perspective." He responded to his nation's nuclear program and possible weapons program saying that Iran was "studying" the offer presented by the United States and the European Union. He also claimed that Bush "believes that his power emanates from his nuclear warhead arsenals." ](/news/2006/08/8/cbs-news-s-mike-wallace-holds-an-interview-with-mahmoud-ahmadinejad-the-president-of-iran-in-the-interview-ahmadinejad-said-that-the-let.md) _Context: Iran, Iran and weapons of mass destruction_
+8. [ China, France, Germany, Russia, the United Kingdom and the United States propose a set of incentives and possible sanctions in an effort to encourage Iran to suspend or abandon its plans of nuclear development. ](/news/2006/06/2/china-france-germany-russia-the-united-kingdom-and-the-united-states-propose-a-set-of-incentives-and-possible-sanctions-in-an-effort-to.md) _Context: Iran, Iran and weapons of mass destruction_
+9. [An IAEA report says Iran remains within key limits set in the 2015 agreement with world powers on development of its nuclear program. ](/news/2017/08/31/an-iaea-report-says-iran-remains-within-key-limits-set-in-the-2015-agreement-with-world-powers-on-development-of-its-nuclear-program.md) _Context: Iran_
+10. [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _Context: Iran_
