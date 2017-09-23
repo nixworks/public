@@ -1,0 +1,24 @@
+### [2017-09-23](/news/2017/09/23/index.md)
+
+# The People's Republic of China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-asia-41370722)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/DC76/production/_97983465_hi041491426.jpg)
+
+### Related:
+
+1. [The People's Republic of China refuses to let the United Nations Security Council publish a report on North Korea's efforts to avoid sanctions on its nuclear program. ](/news/2011/02/23/the-people-s-republic-of-china-refuses-to-let-the-united-nations-security-council-publish-a-report-on-north-korea-s-efforts-to-avoid-sanctio.md) _Context: North Korea, North Korea and weapons of mass destruction, People's Republic of China_
+2. [ China announces the resumption of the stalled six-party talks to find a peaceful resolution to concerns about North Korean nuclear weapons program. ](/news/2006/10/31/china-announces-the-resumption-of-the-stalled-six-party-talks-to-find-a-peaceful-resolution-to-concerns-about-north-korean-nuclear-weapons.md) _Context: North Korea, North Korea and weapons of mass destruction, People's Republic of China_
+3. [ The United States is encouraging a vote on a United Nations resolution, which currently would impose an arms embargo and freezing of North Korean funds connected to North Korean nuclear and ballistic missile programs, despite opposition from the People's Republic of China, which has veto power. ](/news/2006/10/13/the-united-states-is-encouraging-a-vote-on-a-united-nations-resolution-which-currently-would-impose-an-arms-embargo-and-freezing-of-north.md) _Context: North Korea, North Korea and weapons of mass destruction, People's Republic of China_
+4. [ Rumors abound that a nuclear test by North Korea may be imminent, and that the United States is urging the People's Republic of China to pressure North Korea not to do so. [http://www.hindu.com/thehindu/holnus/003200504231210.htm (The Hindu)] [http://www.washingtonpost.com/wp-dyn/articles/A10477-2005Apr22.html (Washington Post)] There was no test however for over a year following.](/news/2005/04/22/rumors-abound-that-a-nuclear-test-by-north-korea-may-be-imminent-and-that-the-united-states-is-urging-the-people-s-republic-of-china-to-pr.md) _Context: North Korea, North Korea and weapons of mass destruction, People's Republic of China_
+5. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: North Korea, North Korea and weapons of mass destruction_
+6. [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md) _Context: North Korea, North Korea and weapons of mass destruction_
+7. [North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-ja.md) _Context: North Korea, North Korea and weapons of mass destruction_
+8. [North Korea launches a Short-Range Ballistic missile near Wonsan towards the Sea of Japan, according to South Korea. The missile reportedly lands in Japan's exclusive economic zone (EEZ) after traveling 450 km. ](/news/2017/05/29/north-korea-launches-a-short-range-ballistic-missile-near-wansan-towards-the-sea-of-japan-according-to-south-korea-the-missile-reportedly.md) _Context: North Korea, North Korea and weapons of mass destruction_
+9. [South Korea reports North Korea fired a Pukguksong-2 intermediate-range ballistic missile that flew 500 km before landing in the Sea of Japan. ](/news/2017/05/21/south-korea-reports-north-korea-fired-a-pukguksong-2-intermediate-range-ballistic-missile-that-flew-500-km-before-landing-in-the-sea-of-japa.md) _Context: North Korea, North Korea and weapons of mass destruction_
+10. [ North Korea vows to accelerate its nuclear weapons programme to "maximum pace" and test a nuclear device "at any time" in response to U.S. President Donald Trump's aggressive stance towards the regime. ](/news/2017/05/2/north-korea-vows-to-accelerate-its-nuclear-weapons-programme-to-amaximum-pacea-and-test-a-nuclear-device-aat-any-timea-in-response.md) _Context: North Korea, North Korea and weapons of mass destruction_
