@@ -1,0 +1,24 @@
+### [2017-09-23](/news/2017/09/23/index.md)
+
+# China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-asia-41370722)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/DC76/production/_97983465_hi041491426.jpg)
+
+### Related:
+
+1. [China's Ministry of Commerce suspends all coal imports from North Korea until the end of 2017, as part of international sanctions against North Korea over its ballistic missile program. ](/news/2017/02/18/china-s-ministry-of-commerce-suspends-all-coal-imports-from-north-korea-until-the-end-of-2017-as-part-of-international-sanctions-against-no.md) _Context: China, North Korea, North Korea and weapons of mass destruction_
+2. [North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/north-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md) _Context: China, North Korea, North Korea and weapons of mass destruction_
+3. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: North Korea, North Korea and weapons of mass destruction_
+4. [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md) _Context: North Korea, North Korea and weapons of mass destruction_
+5. [North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-ja.md) _Context: North Korea, North Korea and weapons of mass destruction_
+6. [North Korea launches a Short-Range Ballistic missile near Wonsan towards the Sea of Japan, according to South Korea. The missile reportedly lands in Japan's exclusive economic zone (EEZ) after traveling 450 km. ](/news/2017/05/29/north-korea-launches-a-short-range-ballistic-missile-near-wansan-towards-the-sea-of-japan-according-to-south-korea-the-missile-reportedly.md) _Context: North Korea, North Korea and weapons of mass destruction_
+7. [South Korea reports North Korea fired a Pukguksong-2 intermediate-range ballistic missile that flew 500 km before landing in the Sea of Japan. ](/news/2017/05/21/south-korea-reports-north-korea-fired-a-pukguksong-2-intermediate-range-ballistic-missile-that-flew-500-km-before-landing-in-the-sea-of-japa.md) _Context: North Korea, North Korea and weapons of mass destruction_
+8. [ North Korea vows to accelerate its nuclear weapons programme to "maximum pace" and test a nuclear device "at any time" in response to U.S. President Donald Trump's aggressive stance towards the regime. ](/news/2017/05/2/north-korea-vows-to-accelerate-its-nuclear-weapons-programme-to-amaximum-pacea-and-test-a-nuclear-device-aat-any-timea-in-response.md) _Context: North Korea, North Korea and weapons of mass destruction_
+9. [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 mi reaching an altitude of more than 1245 mi before landing in the Sea of Japan, 60 mi south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md) _Context: North Korea, North Korea and weapons of mass destruction_
+10. [The United States Pacific Command deploys warships, including the USS "Carl Vinson", to move towards the Korean Peninsula following North Korea's recent tests with weapons of mass destruction and opposition to the Sharyat missile strike. North Korea is also reclassified as a state sponsor of terrorism. ](/news/2017/04/9/the-united-states-pacific-command-deploys-warships-including-the-uss-carl-vinson-to-move-towards-the-korean-peninsula-following-north-ko.md) _Context: North Korea, North Korea and weapons of mass destruction_
