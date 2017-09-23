@@ -1,6 +1,6 @@
 ## [2017-09-22](/news/2017/09/22/index.md)
 
-### [ Uber will not be issued a new private hire license, Transport for London has said. ](/news/2017/09/22/uber-will-not-be-issued-a-new-private-hire-license-transport-for-london-has-said.md)
+### [ Transport for London announces that it will not issue Uber a new private hire license. ](/news/2017/09/22/transport-for-london-announces-that-it-will-not-issue-uber-a-new-private-hire-license.md)
 Ride-hailing app Uber is &quot;not fit and proper&quot; to operate in London, the transport regulator says.
 
 ### [Tens of thousands of people in northern Puerto Rico are ordered to evacuate after floodwaters from Hurricane Maria damage the Guajataca Dam. ](/news/2017/09/22/tens-of-thousands-of-people-in-northern-puerto-rico-are-ordered-to-evacuate-after-floodwaters-from-hurricane-maria-damage-the-guajataca-dam.md)
