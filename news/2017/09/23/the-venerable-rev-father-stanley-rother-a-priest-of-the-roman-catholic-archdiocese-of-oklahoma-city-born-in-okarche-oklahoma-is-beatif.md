@@ -7,7 +7,7 @@ The Latest on a beatification mass starts for 1st US martyr (all times local):
 
 ### Source:
 
-1. [New York Times](https://www.nytimes.com/aponline/2017/09/23/us/ap-us-rel-vatican-us-martyr-the-latest.html)
+1. [The New York Times](https://www.nytimes.com/aponline/2017/09/23/us/ap-us-rel-vatican-us-martyr-the-latest.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

@@ -7,7 +7,7 @@ A new earthquake with a magnitude of 6.1 has hit Mexico, just days after another
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mexico-quake/latest-deadly-quake-volcanic-ash-spread-alarm-in-mexico-idUSKCN1BY0FI?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/us-mexico-quake/latest-deadly-quake-volcanic-ash-spread-alarm-in-mexico-idUSKCN1BY0FI)
 2. [Sky News](http://news.sky.com/story/mexico-hit-by-new-62-magnitude-earthquake-11049403)
 3. [Time and AP](http://time.com/4954628/strong-new-earthquake-shakes-buildings-in-mexico-city/)
 3. [Cover Image](https://e3.365dm.com/17/09/1600x900/a393342d18f6b478c6cf3da30a917850ce7b45c6af7e41d8d82bfae9f99df762_4108612.jpg?20170923144544)
