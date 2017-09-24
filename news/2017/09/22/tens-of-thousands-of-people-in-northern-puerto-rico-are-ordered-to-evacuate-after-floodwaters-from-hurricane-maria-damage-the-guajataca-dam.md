@@ -7,7 +7,7 @@ Entire neighborhoods are blanketed in murky water, the waves in some cases reach
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2017/09/22/at-least-6-dead-in-puerto-rico-due-to-hurricane-maria-officials-say/)
+1. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2017/09/22/at-least-6-dead-in-puerto-rico-due-to-hurricane-maria-officials-say/)
 
 ### Related:
 

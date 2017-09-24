@@ -6,7 +6,7 @@ The Latest on a beatification mass starts for 1st US martyr (all times local):
 ### [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md)
 Thousands of villagers on the Indonesian resort island of Bali are sheltering in sports centers, village halls and with relatives, fearing Mount Agung will erupt for the first time in more than half a century.
 
-### [ A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca. ](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-mexican-state-of-oaxaca.md)
+### [ A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca killing at least five people and damaging housing and infrastructure already damaged by Tuesday's 2017 Central Mexico earthquake. ](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-mexican-state-of-oaxaca-killing-at-least-five-people-and-damaging-housing-and-infrastructure.md)
 A new earthquake with a magnitude of 6.1 has hit Mexico, just days after another devastating tremor left 295 people dead.
 
 ### [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md)
