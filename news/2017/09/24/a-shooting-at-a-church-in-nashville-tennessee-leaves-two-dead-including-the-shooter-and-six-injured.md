@@ -1,6 +1,6 @@
 ### [2017-09-24](/news/2017/09/24/index.md)
 
-# A shooting at a church in Nashville, Tennessee leaves two dead, including the shooter, and six injured. 
+# A shooting at a church in Nashville, Tennessee, leaves two dead, including the shooter, and six injured. 
 
 A woman was killed and at least six people suffered gunshot wounds when a man opened fire at a Tennessee church on Sunday morning before shooting himself as one of the worshipers confronted him with a firearm, officials said.
 
