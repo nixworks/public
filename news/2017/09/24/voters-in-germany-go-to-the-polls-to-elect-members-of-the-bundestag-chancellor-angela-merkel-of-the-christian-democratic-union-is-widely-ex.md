@@ -7,8 +7,9 @@ Chancellor Angela Merkel and her main challenger, Martin Schulz have made their 
 
 ### Source:
 
-1. [DW](http://www.dw.com/en/merkel-and-schulz-in-last-minute-bid-to-win-voters/a-40648409)
-1. [Cover Image](http://www.dw.com/image/40652770_304.jpg)
+1. [BBC](http://www.bbc.com/news/world-europe-41376577)
+2. [DW](http://www.dw.com/en/merkel-and-schulz-in-last-minute-bid-to-win-voters/a-40648409)
+2. [Cover Image](http://www.dw.com/image/40652770_304.jpg)
 
 ### Related:
 
