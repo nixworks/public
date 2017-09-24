@@ -9,7 +9,8 @@ China&#039;s earthquake administration says it has detected a magnitude-3.4 trem
 
 1. [ABC News](http://www.abc.net.au/news/2017-09-23/quake-detected-in-north-korea-china-south-divided-on-cause/8978286)
 2. [BBC](http://www.bbc.com/news/world-asia-41370722)
-2. [Cover Image](http://www.abc.net.au/news/image/8952580-1x1-700x700.jpg)
+3. [Reuters via NBC News](https://www.nbcnews.com/news/world/pentagon-says-u-s-fighter-jets-stage-show-response-north-n804161)
+3. [Cover Image](http://www.abc.net.au/news/image/8952580-1x1-700x700.jpg)
 
 ### Related:
 
