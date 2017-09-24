@@ -22,7 +22,7 @@ _Context: A. E. Hotchner, Ernest Hemingway, FBI, J. Edgar Hoover, Nobel Prize, T
 _Context: Crystal Cathedral, Robert H. Schuller, televangelist_
 
 ### [Mount Soputan, a volcano in Indonesia's North Sulawesi province, erupts. ](/news/2011/07/3/mount-soputan-a-volcano-in-indonesia-s-north-sulawesi-province-erupts.md)
-_Context: Indonesia, Mount Soputan, North Sulawesi, volcanic activity_
+_Context: Indonesia, Mount Soputan, North Sulawesi, volcano_
 
 ### [At least 10 people have been killed in a series of bombings and shootings in northeastern Nigeria. ](/news/2011/07/3/at-least-10-people-have-been-killed-in-a-series-of-bombings-and-shootings-in-northeastern-nigeria.md)
 _Context: Nigeria_

@@ -12,7 +12,7 @@ Ride-hailing company Uber Technologies Inc has agreed to pay $20 million to sett
 
 ### Related:
 
-1. [ Uber will not be issued a new private hire license, Transport for London has said. ](/news/2017/09/22/uber-will-not-be-issued-a-new-private-hire-license-transport-for-london-has-said.md) _Context: Uber_
+1. [Transport for London announces that it will not issue Uber a new private hire license. ](/news/2017/09/22/transport-for-london-announces-that-it-will-not-issue-uber-a-new-private-hire-license.md) _Context: Uber_
 2. [The U.S. Federal Trade Commission gives the antitrust go ahead to Abbott Laboratories in its acquisition of St. Jude Medical. ](/news/2016/12/27/the-u-s-federal-trade-commission-gives-the-antitrust-go-ahead-to-abbott-laboratories-in-its-acquisition-of-st-jude-medical.md) _Context: U.S. Federal Trade Commission_
 3. [Uber suspends tests of its self-driving cars in San Francisco, California, after the California Department of Motor Vehicles revoked the registration of the vehicles in the state in response to two red-light violations. ](/news/2016/12/21/uber-suspends-tests-of-its-self-driving-cars-in-san-francisco-california-after-the-california-department-of-motor-vehicles-revoked-the-reg.md) _Context: Uber_
 4. [Uber announces plans to merge its China operations with rival Didi Chuxing with the merge company valued at $35 billion. ](/news/2016/08/1/uber-announces-plans-to-merge-its-china-operations-with-rival-didi-chuxing-with-the-merge-company-valued-at-35-billion.md) _Context: Uber_

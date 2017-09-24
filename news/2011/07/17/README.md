@@ -13,7 +13,7 @@ The UN makes its first aid delivery to drought victims in areas of Somalia contr
 A passenger bus collided with a heavy duty truck in Russia Sunday, killing five people and injuring at least 17 others, an official said.
 
 ### [Mount Lokon, a volcano on Sulawesi in Indonesia erupts again sending ash 3,500 metres in the air. ](/news/2011/07/17/mount-lokon-a-volcano-on-sulawesi-in-indonesia-erupts-again-sending-ash-3-500-metres-in-the-air.md)
-_Context: Indonesia, Mount Lokon, Sulawesi island, volcanic activity_
+_Context: Indonesia, Mount Lokon, Sulawesi island, volcano_
 
 ### [Tropical Storm Bret forms off the coast of the Bahamas. ](/news/2011/07/17/tropical-storm-bret-forms-off-the-coast-of-the-bahamas.md)
 _Context: Bahamas, Hurricane Rina_

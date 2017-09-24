@@ -4,7 +4,7 @@
 _Context: +2, Ehud Olmert, Gaza, Hamas, Israel, Israel Defense Forces, Israel Standard Time, Israeli Prime Minister, January 18, ceasefire, clock, fire, unilateral_
 
 ### [ North Korea claims to have "weaponized" 30.8 kilograms of plutonium, enough for four to five nuclear warheads. ](/news/2009/01/17/north-korea-claims-to-have-weaponized-30-8-kilograms-of-plutonium-enough-for-four-to-five-nuclear-warheads.md)
-_Context: North Korea, its nuclear weapons program, nuclear weapon, plutonium, warhead_
+_Context: North Korea, North Korea and weapons of mass destruction, nuclear weapon, plutonium, warhead_
 
 ### [ The Pan-Malaysian Islamic Party defeats Barisan Nasional in Malaysia's Kuala Terengganu by-election. ](/news/2009/01/17/the-pan-malaysian-islamic-party-defeats-barisan-nasional-in-malaysia-s-kuala-terengganu-by-election.md)
 _Context: Barisan Nasional, Kuala Terengganu, Malaysia, PAS, by-election_

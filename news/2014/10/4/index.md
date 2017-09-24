@@ -7,7 +7,7 @@ Turkey orders troops to border but refuses to intervene to repel brutal jihadist
 Sweden has presented its new centre-left government and created a surprise by announcing a measure that was not in its election manifesto. The
 
 ### [After counting special votes from the 20 September New Zealand general election, the National Party loses its one-seat majority after losing a seat to the Green Party. With the support of ACT and United Future, National still forms a government, albeit a minority government. ](/news/2014/10/4/after-counting-special-votes-from-the-20-september-new-zealand-general-election-the-national-party-loses-its-one-seat-majority-after-losing.md)
-_Context: ACT, Green Party, National Party, New Zealand general election, United Future, minority government, special vote_
+_Context: ACT, Green Party, New Zealand National Party, New Zealand general election, United Future, minority government, special vote_
 
 ### [Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-majority.md)
 The incumbent prime minister of Latvia and her centre-right coalition look likely to retain power after Saturday’s general election. That is

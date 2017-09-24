@@ -22,7 +22,7 @@ _Context: Bosnia-Herzegovina, EU, European Union Force_
 _Context: China, Turpan, Xinjiang, train_
 
 ### [ Authorities monitor a volcano on the island of Stromboli off the north coast of Sicily as lava pours down its slope for a second successive day. ](/news/2007/02/28/authorities-monitor-a-volcano-on-the-island-of-stromboli-off-the-north-coast-of-sicily-as-lava-pours-down-its-slope-for-a-second-successive.md)
-_Context: Sicily, Stromboli, lava, volcanic activity_
+_Context: Sicily, Stromboli, lava, volcano_
 
 ### [ Cuba-United States relations: Carlos and Elsa Alvarez are sentenced to five and three year prison terms respectively after being convicted of spying for the Cuban government. ](/news/2007/02/28/cuba-united-states-relations-carlos-and-elsa-alvarez-are-sentenced-to-five-and-three-year-prison-terms-respectively-after-being-convicted.md)
 _Context: Carlos, Cuba-United States relations, Elsa Alvarez, Government of Cuba, espionage, prison_

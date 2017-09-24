@@ -37,7 +37,7 @@ The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti
 _Context: Pohang, South Korea, nursing home_
 
 ### [Mount Bulusan, a volcano in the Philippines, erupts again. ](/news/2010/11/12/mount-bulusan-a-volcano-in-the-philippines-erupts-again.md)
-_Context: Mount Bulusan, Philippines, volcanic activity_
+_Context: Mount Bulusan, Philippines, volcano_
 
 ### [An intense European windstorm in the British Isles kills an elderly woman and brings gusts exceeding 160 km/h. ](/news/2010/11/12/an-intense-european-windstorm-in-the-british-isles-kills-an-elderly-woman-and-brings-gusts-exceeding-160-km-h.md)
 A 55-year-old woman has died after a tree fell on her car during 24 hours of severe gales and torrential rain.

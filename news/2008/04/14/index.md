@@ -1,7 +1,7 @@
 ## [2008-04-14](/news/2008/04/14/index.md)
 
 ### [ The Nevado del Huila volcano erupts in Colombia, causing thousands to evacuate.](/news/2008/04/14/the-nevado-del-huila-volcano-erupts-in-colombia-causing-thousands-to-evacuate.md)
-_Context: Colombia, Nevado del Huila, volcanic activity_
+_Context: Colombia, Nevado del Huila, volcano_
 
 ### [ Delta Air Lines reaches an agreement with Northwest Airlines to take over Northwest and create the world's biggest airline. ](/news/2008/04/14/delta-air-lines-reaches-an-agreement-with-northwest-airlines-to-take-over-northwest-and-create-the-world-s-biggest-airline.md)
 _Context: Delta Air Lines, Northwest Airlines_

@@ -13,7 +13,7 @@ Japanese officials said Sunday they presumed partial meltdowns had occurred at t
 _Context: 2011 Canterbury earthquake, Bob Parker, Christchurch, New Zealand_
 
 ### [The Shinmoedake volcano in Kagoshima Prefecture, Japan explodes again. ](/news/2011/03/13/the-shinmoedake-volcano-in-kagoshima-prefecture-japan-explodes-again.md)
-_Context: Japan, Kagoshima Prefecture, Shinmoedake, volcanic activity_
+_Context: Japan, Kagoshima Prefecture, Shinmoedake, volcano_
 
 ### [A wind and rainstorm in the Pacific Northwest of the United States results in the loss of power to 114,000 in Portland, Oregon. ](/news/2011/03/13/a-wind-and-rainstorm-in-the-pacific-northwest-of-the-united-states-results-in-the-loss-of-power-to-114-000-in-portland-oregon.md)
 _Context: Pacific Northwest, Portland, Oregon, U.S._

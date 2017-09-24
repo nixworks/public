@@ -16,7 +16,7 @@ _Context: Washington, midwestern_
 _Context: Haditha, Marines, battalion, court-martial_
 
 ### [ Tens of thousands of people are evacuated from villages near Mount Kelud on Java as the volcano threatens to erupt. ](/news/2007/10/19/tens-of-thousands-of-people-are-evacuated-from-villages-near-mount-kelud-on-java-as-the-volcano-threatens-to-erupt.md)
-_Context: Java, Mount Kelud, village, volcanic activity_
+_Context: Java, Mount Kelud, village, volcano_
 
 ### [ Four United States Air Force officers are relieved of command following an investigation of an incident where live nuclear warheads were carried on a B-52 bomber from Minot Air Force Base in North Dakota to Barksdale Air Force Base in Louisiana. ](/news/2007/10/19/four-united-states-air-force-officers-are-relieved-of-command-following-an-investigation-of-an-incident-where-live-nuclear-warheads-were-ca.md)
 _Context: 2007 United States Air Force nuclear weapons incident, Air Force, B-52, Barksdale Air Force Base, Louisiana, Minot Air Force Base, North Dakota, bomber_

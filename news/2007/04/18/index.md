@@ -1,7 +1,7 @@
 ## [2007-04-18](/news/2007/04/18/index.md)
 
 ### [ Colombia's Nevado del Huila volcano erupts, provoking avalanches and floods that sweep away houses and bridges, which , in turn, prompt hundreds to evacuate. ](/news/2007/04/18/colombia-s-nevado-del-huila-volcano-erupts-provoking-avalanches-and-floods-that-sweep-away-houses-and-bridges-which-in-turn-prompt-hun.md)
-_Context: Colombia, Nevado del Huila, volcanic activity_
+_Context: Colombia, Nevado del Huila, volcano_
 
 ### [ After the acquisition of Algoma Steel, India's Essar Group plans to buy U.S.-based Minnesota Steel for US$ 1.66 billion. ](/news/2007/04/18/after-the-acquisition-of-algoma-steel-india-s-essar-group-plans-to-buy-u-s-based-minnesota-steel-for-us-1-66-billion.md)
 _Context: Algoma Steel, Essar Group, India, Minnesota Steel, U.S., USD_

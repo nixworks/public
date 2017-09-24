@@ -25,7 +25,7 @@ _Context: Malaysia, Osu Sukam, United Malays National Organisation, gambling_
 _Context: China, Xinjiang_
 
 ### [ Geologists increase the alert status of Mount Merapi volcano in central Java in Indonesia. The volcano has shown increased activity since last Friday. ](/news/2005/07/13/geologists-increase-the-alert-status-of-mount-merapi-volcano-in-central-java-in-indonesia-the-volcano-has-shown-increased-activity-since-l.md)
-_Context: Indonesia, Java, Mounts Merapi, volcanic activity_
+_Context: Indonesia, Java, Mounts Merapi, volcano_
 
 ### [ In the Philippines, thousands of protestors gather in Manila to demand the resignation of president Gloria Arroyo, who has reshuffled her cabinet. The military is on alert in case of violence. ](/news/2005/07/13/in-the-philippines-thousands-of-protestors-gather-in-manila-to-demand-the-resignation-of-president-gloria-arroyo-who-has-reshuffled-her-c.md)
 _Context: Gloria Arroyo, Manila, Philippines_

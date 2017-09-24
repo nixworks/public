@@ -40,7 +40,7 @@ _Context: 2011 Royal Wedding, Children in Crisis, Princess Beatrice, UNICEF, eBa
 _Context: Jimmy Choo, Labelux_
 
 ### [The Government of Iceland imposes a flight ban, following the eruption of Iceland's most active volcano, Grmsvtn. ](/news/2011/05/22/the-government-of-iceland-imposes-a-flight-ban-following-the-eruption-of-iceland-s-most-active-volcano-grimsvotn.md)
-_Context: Government of Iceland, Grmsvtn, Iceland, volcanic activity_
+_Context: Government of Iceland, Grmsvtn, Iceland, volcano_
 
 ### [Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/tornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killing-at-least-one-person.md)
 Powerful storm blew into metro, killing 1, injuring 30 and putting North Side under curfew.

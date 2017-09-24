@@ -19,7 +19,7 @@ _Context: 2009 Black Saturday bushfires, Australia, Dunedoo, New South Wales, Ne
 Officials in northern California ordered residents near the Oroville Dam to evacuate the area Sunday after an emergency spillway severely eroded.
 
 ### [North Korea test fires a ballistic missile over the Sea of Japan. ](/news/2017/02/12/north-korea-test-fires-a-ballistic-missile-over-the-sea-of-japan.md)
-_Context: North Korea, its nuclear weapons program, the sea_
+_Context: North Korea, North Korea and weapons of mass destruction, the sea_
 
 ### [Voters in Switzerland approve a referendum that makes it easier for third-generation immigrants to become citizens. ](/news/2017/02/12/voters-in-switzerland-approve-a-referendum-that-makes-it-easier-for-third-generation-immigrants-to-become-citizens.md)
 The new law will make it easier for third-generation immigrants to become citizens.

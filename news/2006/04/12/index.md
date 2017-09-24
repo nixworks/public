@@ -13,7 +13,7 @@ _Context: Terrorism Act_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Fossils of "Australopithecus anamensis" help bridge a long gap during a crucial phase of human evolution. ](/news/2006/04/12/fossils-of-australopithecus-anamensis-help-bridge-a-long-gap-during-a-crucial-phase-of-human-evolution.md)
-_Context: Australopithecus anamensis, fossil, human evolution_
+_Context: Australopithecus anamensis, Human evolution, fossil_
 
 ## [Previous Day...](/news/2006/04/11/index.md)
 

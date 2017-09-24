@@ -19,7 +19,7 @@ _Context: Gabonese Democratic Party, Omar Bongo, legislative election_
 _Context: Mortar, ordnance_
 
 ### [ The second part of the fifth round of the six-party talks on North Korea's nuclear weapons program end without any agreement being reached or a date for the next round being set. ](/news/2006/12/22/the-second-part-of-the-fifth-round-of-the-six-party-talks-on-north-korea-s-nuclear-weapons-program-end-without-any-agreement-being-reached.md)
-_Context: North Korea, its nuclear weapons program, six-party talks_
+_Context: North Korea, North Korea and weapons of mass destruction, six-party talks_
 
 ### [ Australian archaeologist Sue O'Connor finds first evidence of modern humans in Jerimalai cave, near Lene Hara cave in East Timor. ](/news/2006/12/22/australian-archaeologist-sue-o-connor-finds-first-evidence-of-modern-humans-in-jerimalai-cave-near-lene-hara-cave-in-east-timor.md)
 _Context: East Timor, Lene Hara cave_

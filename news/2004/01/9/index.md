@@ -16,7 +16,7 @@ _Context: Ahmadiyya, Bangladesh_
 _Context: JPL, Spirit, route_
 
 ### [ Two volcanoes erupt: the Piton de la Fournaise on Reunion Island, and the Volcan de Fuego near Antigua Guatemala, Guatemala. The eruption in Guatemala is not thought to be serious enough to require evacuations.](/news/2004/01/9/two-volcanoes-erupt-the-piton-de-la-fournaise-on-ra-c-union-island-and-the-volca-n-de-fuego-near-antigua-guatemala-guatemala-the-eruption.md)
-_Context: Antigua Guatemala, Guatemala, Piton de la Fournaise, Reunion, Volcan de Fuego, volcanic activity_
+_Context: Antigua Guatemala, Guatemala, Piton de la Fournaise, Reunion, Volcan de Fuego, volcano_
 
 ### [ In Guatemala City, fifteen people die and twenty are hurt when a public bus collides with a crane.](/news/2004/01/9/in-guatemala-city-fifteen-people-die-and-twenty-are-hurt-when-a-public-bus-collides-with-a-crane.md)
 _Context: Guatemala City_

@@ -10,7 +10,7 @@ Contaminated measles vaccine killed 15 children in South Sudan, U.N. and WHO off
 UNITED NATIONS: The 193-member United Nations General Assembly elected Ivory Coast, Equatorial Guinea, Kuwait, Peru and Poland to the U.N. Security Council on Friday for a two-year term beginning Jan. 1, 2018. The Netherlands was elected for a one-year term after reaching a deal with Italy last year...
 
 ### [As a result of North Korea's repeated missile tests, the United Nations Security Council expands its targeted sanctions against the country, adding to the U.N. blacklist four entities, including the Koryo Bank and the Army's Strategic Rocket Force, and 14 people, including the North's head of intelligence operations. ](/news/2017/06/2/as-a-result-of-north-korea-s-repeated-missile-tests-the-united-nations-security-council-expands-its-targeted-sanctions-against-the-country.md)
-_Context: Army's Strategic Rocket Force, United Nations Security Council, its nuclear weapons program_
+_Context: Army's Strategic Rocket Force, North Korea and weapons of mass destruction, United Nations Security Council_
 
 ### [Russia lifts more trade sanctions it had placed on Turkey following the 2015 downing of a Russian fighter jet. ](/news/2017/06/2/russia-lifts-more-trade-sanctions-it-had-placed-on-turkey-following-the-2015-downing-of-a-russian-fighter-jet.md)
 The Russian government continues to partially remove sanctions on Turkey. A new decree lifted the ban on some agricultural products and some Turkish firms. Tomato imports might be allowed for some special uses, as Russia supports its own production

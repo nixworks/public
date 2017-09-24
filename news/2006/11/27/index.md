@@ -22,7 +22,7 @@ _Context: Islamic Revolutionary Guards Corps, Tehran_
 _Context: AWB Limited, Australian Prime Minister, Cole Inquiry, John Howard, Philip Ruddock, Saddam Hussein, attorney general, oil-for-food_
 
 ### [ John Key is elected leader of the opposition New Zealand National Party, with Bill English as his deputy. Both were unopposed. ](/news/2006/11/27/john-key-is-elected-leader-of-the-opposition-new-zealand-national-party-with-bill-english-as-his-deputy-both-were-unopposed.md)
-_Context: Bill English, John Key, National Party_
+_Context: Bill English, John Key, New Zealand National Party_
 
 ### [ Canadian Prime Minister Stephen Harper and the Canadian House of Commons endorse a motion to declare that the Qubcois form a nation within a unified Canada. ](/news/2006/11/27/canadian-prime-minister-stephen-harper-and-the-canadian-house-of-commons-endorse-a-motion-to-declare-that-the-quebecois-form-a-nation-withi.md)
 _Context: Canada, Canadian House of Commons, Canadian Prime Minister, Qubcois, Stephen Harper_

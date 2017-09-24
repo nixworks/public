@@ -4,7 +4,7 @@
 _Context: Bringing Up Father_
 
 ### [The volcano Mount Cameroon erupts.](/news/2000/05/28/the-volcano-mount-cameroon-erupts.md)
-_Context: Mount Cameroon, eruption, volcanic activity_
+_Context: Mount Cameroon, eruption, volcano_
 
 ## [Previous Day...](/news/2000/05/27/index.md)
 

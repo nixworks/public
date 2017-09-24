@@ -1,7 +1,7 @@
 ## [2004-12-28](/news/2004/12/28/index.md)
 
 ### [ The Shiveluch volcano on Russia's Kamchatka Peninsula erupts, causing a large earthquake and producing a 6500 ft plume of hot ash. ](/news/2004/12/28/the-shiveluch-volcano-on-russia-s-kamchatka-peninsula-erupts-causing-a-large-earthquake-and-producing-a-6500-ft-plume-of-hot-ash.md)
-_Context: Kamchatka Peninsula, Shiveluch, earthquake, volcanic activity_
+_Context: Kamchatka Peninsula, Shiveluch, earthquake, volcano_
 
 ### [ An Israeli unmanned drone attempts to kill two suspected Hamas militants in Khan Yunis allegedly on their way to launch an attack on Israelis in Gush Katif with mortar weapons. An Israeli tank fires a shell in Khan Yunis wounding at least nine Palestinians, including a 13-year-old boy. IDF officials say they were opening fire at the source of Qassam rockets fired by Palestinians that landed in Neve Dekalim. No injuries are reported from the Qassam rocket attacks. ](/news/2004/12/28/an-israeli-unmanned-drone-attempts-to-kill-two-suspected-hamas-militants-in-khan-yunis-allegedly-on-their-way-to-launch-an-attack-on-israel.md)
 _Context: Gush Katif, Hamas, Israel, Israeli soldier, Israeli-Palestinian conflict, Khan Yunis, Mortar, Neve Dekalim, Palestinians, Qassam rocket, drone_

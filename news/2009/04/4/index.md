@@ -1,7 +1,7 @@
 ## [2009-04-4](/news/2009/04/4/index.md)
 
 ### [ The Llaima volcano in Chile begins emitting lava and ash, prompting evacuations and landslide warnings. ](/news/2009/04/4/the-llaima-volcano-in-chile-begins-emitting-lava-and-ash-prompting-evacuations-and-landslide-warnings.md)
-_Context: Chile, Llaima, ash, ash eruption, evacuation centers, landslide, lava, volcanic activity, warnings_
+_Context: Chile, Llaima, ash, ash eruption, evacuation centers, landslide, lava, volcano, warnings_
 
 ### [ Three police officers are killed in Pittsburgh, Pennsylvania, United States. ](/news/2009/04/4/three-police-officers-are-killed-in-pittsburgh-pennsylvania-united-states.md)
 _Context: Pennsylvania, Pittsburgh, U.S., killed, police officers_

@@ -7,7 +7,7 @@ _Context: Annika Ostberg, California, Institution for Women, Sweden, convicted, 
 _Context: Baghdad, Iraq, Six car bombs_
 
 ### [ A "significant explosive event" occurs at the Mount Redoubt volcano in Alaska. ](/news/2009/04/6/a-significant-explosive-event-occurs-at-the-mount-redoubt-volcano-in-alaska.md)
-_Context: Alaska, Mount Redoubt, ash eruption, volcanic activity_
+_Context: Alaska, Mount Redoubt, ash eruption, volcano_
 
 ### [ At least 207 people are killed and 1,500 injured during a 6.3-magnitude earthquake near L'Aquila, Italy. ](/news/2009/04/6/at-least-207-people-are-killed-and-1-500-injured-during-a-6-3-magnitude-earthquake-near-l-aquila-italy.md)
 _Context: 2009 L'Aquila earthquake, Italy, L'Aquila, magnitude_

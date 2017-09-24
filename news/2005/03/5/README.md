@@ -4,7 +4,7 @@
 _Context: Bashar al-Assad, Lebanon, President, Syria_
 
 ### [ Scientists flock to an area about 300 mi off the coast of U.S. state of Washington to study what appears to be an ongoing undersea volcanic eruption. Accompanying earthquakes measuring up to magnitude 4.0 have numbered thousands per day. ](/news/2005/03/5/scientists-flock-to-an-area-about-300-mi-off-the-coast-of-u-s-state-of-washington-to-study-what-appears-to-be-an-ongoing-undersea-volcanic.md)
-_Context: Richter scale, Scientist, U.S. state, Washington, earthquake, volcanic activity_
+_Context: Richter scale, Scientist, U.S. state, Washington, earthquake, volcano_
 
 ### [ The South African film director Zola Maseko wins the top prize at the 2005 FESPACO African film festival for his film "Drum". ](/news/2005/03/5/the-south-african-film-director-zola-maseko-wins-the-top-prize-at-the-2005-fespaco-african-film-festival-for-his-film-drum.md)
 _Context: Drum, FESPACO, South Africa, Zola Maseko_

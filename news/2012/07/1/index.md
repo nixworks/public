@@ -16,7 +16,7 @@ Marcus Agius is to resign on Monday as the chairman of Barclays following the Li
 Hundreds of protesters gather as Japan restarts the first nuclear reactor since the crisis at Fukushima last year.
 
 ### [Colombia evacuates towns near the Nevado del Ruiz volcano over concerns about a possible eruption. ](/news/2012/07/1/colombia-evacuates-towns-near-the-nevado-del-ruiz-volcano-over-concerns-about-a-possible-eruption.md)
-_Context: Colombia, Nevado del Ruiz, volcanic activity_
+_Context: Colombia, Nevado del Ruiz, volcano_
 
 ### [Voters in Mexico go to the polls for a general election with Institutional Revolutionary Party presidential candidate Enrique Pena Nieto claiming victory. ](/news/2012/07/1/voters-in-mexico-go-to-the-polls-for-a-general-election-with-institutional-revolutionary-party-presidential-candidate-enrique-pena-nieto-cla.md)
 Mexico goes to the polls to elect a new president on July 1, and Texas lawmakers are paying almost as much attention to that event as to the November election here.

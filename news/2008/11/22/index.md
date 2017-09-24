@@ -1,7 +1,7 @@
 ## [2008-11-22](/news/2008/11/22/index.md)
 
 ### [ The government of Colombia confirms that the eruption of Nevado del Huila, a volcano in southern Colombia, has led to at least 10 deaths in recent days and the evacuation of 12,000 people. ](/news/2008/11/22/the-government-of-colombia-confirms-that-the-eruption-of-nevado-del-huila-a-volcano-in-southern-colombia-has-led-to-at-least-10-deaths-in.md)
-_Context: Colombia, Colombian government, Nevado del Huila, volcanic activity_
+_Context: Colombia, Colombian government, Nevado del Huila, volcano_
 
 ### [ The Kurdistan Workers Party claims responsibility for bombing an oil pipeline between Iraq and Turkey. ](/news/2008/11/22/the-kurdistan-workers-party-claims-responsibility-for-bombing-an-oil-pipeline-between-iraq-and-turkey.md)
 Separatist Kurdish rebels are reported to have claimed responsibility for an explosion at an oil pipeline linking Iraq with southern Turkey.

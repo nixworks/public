@@ -7,7 +7,7 @@ _Context: Haifa, Israel, bomb disposal, car bomb, shopping mall_
 _Context: Iraq, suicide bombing_
 
 ### [ Alaska's Mount Redoubt volcano erupts four more times. ](/news/2009/03/23/alaska-s-mount-redoubt-volcano-erupts-four-more-times.md)
-_Context: Alaska, Mount Redoubt, volcanic activity_
+_Context: Alaska, Mount Redoubt, volcano_
 
 ### [ The United States Treasury Department announces that it will purchase high-yield debts from banks. ](/news/2009/03/23/the-united-states-treasury-department-announces-that-it-will-purchase-high-yield-debts-from-banks.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, Banking in the United States, U.S., United States Treasury Department, junk_

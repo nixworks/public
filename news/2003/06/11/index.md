@@ -1,7 +1,7 @@
 ## [2003-06-11](/news/2003/06/11/index.md)
 
 ### [ Three 160,000-year-old human skulls unearthed in Ethiopia bridge an important gap in the human fossil record and lend support to the "out of Africa" single origin theory of human evolution.](/news/2003/06/11/three-160-000-year-old-human-skulls-unearthed-in-ethiopia-bridge-an-important-gap-in-the-human-fossil-record-and-lend-support-to-the-out-o.md)
-_Context: Ethiopia, fossil record, human evolution, single origin theory_
+_Context: Ethiopia, Human evolution, fossil record, single origin theory_
 
 ### [ Masquerading as an Orthodox Jew, a suicide bomber blows up a bus in Jerusalem, Israel, killing at least sixteen people. An Israeli helicopter attack in the Gaza Strip kills at least seven.](/news/2003/06/11/masquerading-as-an-orthodox-jew-a-suicide-bomber-blows-up-a-bus-in-jerusalem-israel-killing-at-least-sixteen-people-an-israeli-helicopt.md)
 _Context: Gaza, Israel, Jerusalem, Orthodox_

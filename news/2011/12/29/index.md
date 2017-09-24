@@ -25,7 +25,7 @@ At least 17 people are killed and more than 90 injured by a large explosion at w
 _Context: Caracas, Pan American Highway, Venezuela_
 
 ### [Mount Cleveland, a volcano in the U.S. state of Alaska, erupts, causing an air traffic alert to be issued. ](/news/2011/12/29/mount-cleveland-a-volcano-in-the-u-s-state-of-alaska-erupts-causing-an-air-traffic-alert-to-be-issued.md)
-_Context: Alaska, Mount Cleveland, U.S. state, volcanic activity_
+_Context: Alaska, Mount Cleveland, U.S. state, volcano_
 
 ### [A Russian nuclear submarine, the K-84 "Ekaterinburg", is forced to partially submerge itself at a shipyard in Murmansk to douse a blaze on its hull. No radiation leaks are reported. ](/news/2011/12/29/a-russian-nuclear-submarine-the-k-84-ekaterinburg-is-forced-to-partially-submerge-itself-at-a-shipyard-in-murmansk-to-douse-a-blaze-on-i.md)
 Russia said it had won the battle with a raging blaze aboard a nuclear submarine on Friday by submerging the stricken vessel at a navy shipyard after hours of dousing the flames with water from helicopters and tug boats.

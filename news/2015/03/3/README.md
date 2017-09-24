@@ -10,7 +10,7 @@ Ross McEwan wants to focus bailed-out bank on UK and reduce presence to 13 count
 _Context: Target Corporation, U.S._
 
 ### [The Villarrica volcano explodes in southern Chile leading to the evacuation of 3,000 people. ](/news/2015/03/3/the-villarrica-volcano-explodes-in-southern-chile-leading-to-the-evacuation-of-3-000-people.md)
-_Context: Chile, Villarrica, volcanic activity_
+_Context: Chile, Villarrica, volcano_
 
 ### [Russian authorities refuse entry into Russia at Moscow's Sheremetyevo International Airport to a Latvian lawmaker and vice-chair of the biggest bloc in the EU, Sandra Kalniete. Having received no reasonable explanation for the ban, she flies back to Brussels. ](/news/2015/03/3/russian-authorities-refuse-entry-into-russia-at-moscow-s-sheremetyevo-international-airport-to-a-latvian-lawmaker-and-vice-chair-of-the-bigg.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -1,7 +1,7 @@
 ## [2009-03-22](/news/2009/03/22/index.md)
 
 ### [ Alaska's Mount Redoubt volcano erupts. ](/news/2009/03/22/alaska-s-mount-redoubt-volcano-erupts.md)
-_Context: Alaska, Mount Redoubt, volcanic activity_
+_Context: Alaska, Mount Redoubt, volcano_
 
 ### [ A Pilatus PC-12 crashes near Butte, Montana, killing at least 17 people. ](/news/2009/03/22/a-pilatus-pc-12-crashes-near-butte-montana-killing-at-least-17-people.md)
 _Context: Butte, Montana, Pilatus PC-12, crashes_

@@ -25,7 +25,7 @@ _Context: MMM, Mauritius, Navin Ramgoolam, Paul Brenger, Social Alliance, parlia
 _Context: Kuala Lumpur, Malaysia, bird flu_
 
 ### [ In Japan, underwater volcano causes a column of steam near the island of Iwo Jima. ](/news/2005/07/3/in-japan-underwater-volcano-causes-a-column-of-steam-near-the-island-of-iwo-jima.md)
-_Context: Iwo Jima, Japan, volcanic activity_
+_Context: Iwo Jima, Japan, volcano_
 
 ### [ Computer microchip manufacturer AMD asks a Delaware court to order that third parties to its antitrust lawsuit against industry giant Intel, preserve certain documents in their possession that may be required as evidence. The court grants that request, ordering the third parties to suspend normal document destruction as to the documents described. ](/news/2005/07/3/computer-microchip-manufacturer-amd-asks-a-delaware-court-to-order-that-third-parties-to-its-antitrust-lawsuit-against-industry-giant-intel.md)
 _Context: AMD, Delaware, Intel, antitrust, microchip_

@@ -22,7 +22,7 @@ The contest on Facebook has attracted over 24,000 followers and 6,000 posts sinc
 U.K.-based chip designer ARM Holdings confirmed that it agreed to a $32 billion buyout offer from Japan’s SoftBank Group Corp.
 
 ### [South Korea warns that North Korea could hold another nuclear test at any time. ](/news/2016/07/18/south-korea-warns-that-north-korea-could-hold-another-nuclear-test-at-any-time.md)
-_Context: North Korea, North Korea-South Korea relations, South Korea, its nuclear weapons program_
+_Context: North Korea, North Korea and weapons of mass destruction, North Korea-South Korea relations, South Korea_
 
 ### [The United States Secretary of State John Kerry warns Turkey it could lose its NATO membership if it fails to uphold the principles of democracy. Around 8,000 police officers have been sacked in the country following the attempted coup, with more than 6,000 people in the army, the judiciary and other state bodies detained as part of President Recep Tayyip Erdogan's crackdown. ](/news/2016/07/18/the-united-states-secretary-of-state-john-kerry-warns-turkey-it-could-lose-its-nato-membership-if-it-fails-to-uphold-the-principles-of-democ.md)
 Turkey could fall foul of Nato&#039;s &quot;requirement with respect to democracy&quot; if it fails to uphold the rule of law in the wake of an attempted coup, the US Secretary of State John Kerry has warned. The Turkish government&#039;s response to the failed coup has alarmed both the US and the E...

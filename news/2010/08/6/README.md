@@ -58,7 +58,7 @@ China has suspended traffic on the Yalu river, which forms a border with North K
 _Context: Moscow, the recent wildfires_
 
 ### [Mount Karangetang, a volcano on the Indonesian island of Siau, erupts. ](/news/2010/08/6/mount-karangetang-a-volcano-on-the-indonesian-island-of-siau-erupts.md)
-_Context: Indonesia, Karangetang, Siau, volcanic activity_
+_Context: Indonesia, Karangetang, Siau, volcano_
 
 ### [Hiroshima marks the 65th anniversary of the world's first atomic bomb attack; United States representatives attend in an official capacity for the first time. ](/news/2010/08/6/hiroshima-marks-the-65th-anniversary-of-the-world-s-first-atomic-bomb-attack-united-states-representatives-attend-in-an-official-capacity-f.md)
 The Japanese city of Hiroshima marks the 65th anniversary of the atomic bomb attack, with the US attending for the first time.

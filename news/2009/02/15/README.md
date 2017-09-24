@@ -16,7 +16,7 @@ _Context: Deputy Agriculture Minister-designate, Roy Bennett, Zimbabwe, conspira
 _Context: Burma, Karen National Union, Myawaddy_
 
 ### [ Colombia's Galeras volcano erupts. ](/news/2009/02/15/colombia-s-galeras-volcano-erupts.md)
-_Context: Colombia, Galeras, volcanic activity_
+_Context: Colombia, Galeras, volcano_
 
 ### [ Fifty-four percent of participating Venezuelan voters approve a constitutional referendum to remove term limits for elected offices, including the Presidency. ](/news/2009/02/15/fifty-four-percent-of-participating-venezuelan-voters-approve-a-constitutional-referendum-to-remove-term-limits-for-elected-offices-includ.md)
 _Context: Venezuela, Venezuelan President, elected offices, referendum, term limit, the constitution_

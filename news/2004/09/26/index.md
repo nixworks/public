@@ -7,7 +7,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Several earthquakes over the weekend centered below Mount St. Helens in the U.S. state of Washington prompt scientists to issue a rare warning that the volcano could erupt soon. ](/news/2004/09/26/several-earthquakes-over-the-weekend-centered-below-mount-st-helens-in-the-u-s-state-of-washington-prompt-scientists-to-issue-a-rare-warn.md)
-_Context: Mount St. Helens, Washington, earthquake, volcanic activity_
+_Context: Mount St. Helens, Washington, earthquake, volcano_
 
 ### [ The relaunch of Doctor Who is officially announced by the BBC.](/news/2004/09/26/the-relaunch-of-doctor-who-is-officially-announced-by-the-bbc.md)
 _Context: BBC, Doctor Who_

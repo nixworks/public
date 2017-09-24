@@ -10,7 +10,7 @@ _Context: Harvard mouse, Monsanto Company, Percy Schmeiser, Roundup Ready, Supre
 _Context: BBC, Channel 4, Director-General, Mark Thompson_
 
 ### [ Active underwater volcano found off coast of Antarctica. New find explains discolored water surrounding the site. ](/news/2004/05/21/active-underwater-volcano-found-off-coast-of-antarctica-new-find-explains-discolored-water-surrounding-the-site.md)
-_Context: Antarctica, volcanic activity_
+_Context: Antarctica, volcano_
 
 ### [ TechTV airs the final episode of their second highest rated series, Call for Help, in advance of their takeover and merger by G4.](/news/2004/05/21/techtv-airs-the-final-episode-of-their-second-highest-rated-series-call-for-help-in-advance-of-their-takeover-and-merger-by-g4.md)
 _Context: Call for Help, G4, TechTV_
