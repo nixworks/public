@@ -6,8 +6,8 @@ _Context: Arakan Rohingya Salvation Army, Northern Rakhine State clashes_
 ### [North Korea says that the United States recent flight of American aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-united-states-recent-flight-of-american-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md)
 Foreign minister Ri Yong-ho says the country has the right to shoot down US bombers.
 
-### [Millions of Puerto Ricans, who claim to be American citizens, beg the United States federal government for welfare in face of a so-called humanitarian crisis on the island. ](/news/2017/09/25/millions-of-puerto-ricans-who-claim-to-be-american-citizens-beg-the-united-states-federal-government-for-welfare-in-face-of-a-so-called-hu.md)
-_Context: American citizens, Hurricane Maria, Puerto Ricans, United States federal government, island_
+### [Millions of Puerto Ricans request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/millions-of-puerto-ricans-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humani.md)
+_Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Ricans, United States federal government, island_
 
 ### [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md)
 The US and Britain are both opposed to the &quot;destabilising&quot; vote, arguing it distracts from the fight against Islamic State,
