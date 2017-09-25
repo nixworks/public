@@ -1,12 +1,18 @@
 ## [2017-09-24](/news/2017/09/24/index.md)
 
+### [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq.md)
+Iranian forces have launched war games in an area near the border with Iraq&#039;s Kurdistan region, Iran&#039;s state media reported on Sunday.
+
 ### [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md)
 A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir
 
 ### [The Iraqi government discourages foreign countries from importing crude oil directly from its Iraqi Kurdistan region. ](/news/2017/09/24/the-iraqi-government-discourages-foreign-countries-from-importing-crude-oil-directly-from-its-iraqi-kurdistan-region.md)
 Iraq on Sunday urged foreign countries to stop importing crude directly from its autonomous Kurdistan region and to restrict oil trading to the central government.
 
-### [A shooting at a church in Nashville, Tennessee, leaves two dead, including the shooter, and six injured. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-two-dead-including-the-shooter-and-six-injured.md)
+### [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md)
+The Trump administration issued an updated travel ban with fresh restrictions on who can enter the U.S., targeting eight countries.
+
+### [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured, including the shooter. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-including-the-shooter.md)
 A woman was killed and at least six people suffered gunshot wounds when a man opened fire at a Tennessee church on Sunday morning before shooting himself as one of the worshipers confronted him with a firearm, officials said.
 
 ### [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md)
