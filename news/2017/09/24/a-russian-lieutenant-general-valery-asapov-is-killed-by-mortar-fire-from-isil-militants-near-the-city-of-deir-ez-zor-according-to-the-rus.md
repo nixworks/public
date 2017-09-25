@@ -1,15 +1,14 @@
 ### [2017-09-24](/news/2017/09/24/index.md)
 
-# A Russian Lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. 
+# A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. 
 
-Lieutenant-General Valery Asapov, of the Russian armed forces, has been killed after coming under shelling from Islamic State (IS, formerly ISIS/ISIL) militants near Deir ez-Zor, the Russian Defense Ministry has announced.
+A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir
 
 
 ### Source:
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2017/09/24/Russian-general-killed-fighting-ISIS-in-east-Syria.html)
-2. [RT](https://www.rt.com/news/404410-russian-general-killed-syria/)
-2. [Cover Image](https://cdn.rt.com/files/2017.09/article/59c8031afc7e9388388b4567.jpg)
+1. [Cover Image](https://vid.alarabiya.net/images/2017/09/08/c36a0f26-cd09-4d87-973d-a8af7889cea4/c36a0f26-cd09-4d87-973d-a8af7889cea4_16x9_788x442.JPG)
 
 ### Related:
 

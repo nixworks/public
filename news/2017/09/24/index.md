@@ -1,7 +1,7 @@
 ## [2017-09-24](/news/2017/09/24/index.md)
 
-### [A Russian Lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md)
-Lieutenant-General Valery Asapov, of the Russian armed forces, has been killed after coming under shelling from Islamic State (IS, formerly ISIS/ISIL) militants near Deir ez-Zor, the Russian Defense Ministry has announced.
+### [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md)
+A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir
 
 ### [The Iraqi government discourages foreign countries from importing crude oil directly from its Iraqi Kurdistan region. ](/news/2017/09/24/the-iraqi-government-discourages-foreign-countries-from-importing-crude-oil-directly-from-its-iraqi-kurdistan-region.md)
 Iraq on Sunday urged foreign countries to stop importing crude directly from its autonomous Kurdistan region and to restrict oil trading to the central government.
