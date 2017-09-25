@@ -1,6 +1,6 @@
 ### [2017-09-25](/news/2017/09/25/index.md)
 
-# A mass grave of 28 Hindus, including children, allegedly slain by the Arakan Rohingya Salvation Army is discovered by the Burmese army. 
+# A mass grave of 28 Hindus, including children, allegedly slain by the Arakan Rohingya Salvation Army, is discovered by the Burmese army. 
 
 
 
