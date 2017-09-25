@@ -1,9 +1,20 @@
-## [News](/news/2017/09/25/index.md)
+## [News](/news/2017/09/26/index.md)
+
+### [The results of an independence referendum by Iraqi Kurdistan is to be announced. Kurds are widely expected to vote in favor. Iran and Turkey has vowed that there may be violence if the result was independence. ](/news/2017/09/26/the-results-of-an-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-kurds-are-widely-expected-to-vote-in-favor-iran-and-turkey.md)
+Turkey and Iran, traditional foes, have established common ground in Iraq, Syria and Qatar as regional alliances shift.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/25/index.md)
 
 ### [A mass grave of 28 Hindus, including children, allegedly slain by the Arakan Rohingya Salvation Army, is discovered by the Burmese army. ](/news/2017/09/25/a-mass-grave-of-28-hindus-including-children-allegedly-slain-by-the-arakan-rohingya-salvation-army-is-discovered-by-the-burmese-army.md)
 _Context: Arakan Rohingya Salvation Army, Northern Rakhine State clashes_
 
-### [North Korea says that the United States recent flight of American aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-united-states-recent-flight-of-american-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md)
+### [North Korea says that the recent flight of American aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-recent-flight-of-american-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md)
 Foreign minister Ri Yong-ho says the country has the right to shoot down US bombers.
 
 ### [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md)
@@ -15,16 +26,15 @@ The US and Britain are both opposed to the &quot;destabilising&quot; vote, argui
 ### [The Prime Minister of Japan Shinzo Abe calls a snap election with the election to be held on October 22. ](/news/2017/09/25/the-prime-minister-of-japan-shinza-abe-calls-a-snap-election-with-the-election-to-be-held-on-october-22.md)
 _Context: Next Japanese general election, Prime Minister of Japan, Shinzo Abe_
 
+### [Frauke Petry resigns as leader of the right-wing Alternative for Germany (AfD), a day after the party won seats in the Bundestag for the first time, saying the party has become too "anarchical" and "could not offer a credible platform". ](/news/2017/09/25/frauke-petry-resigns-as-leader-of-the-right-wing-alternative-for-germany-afd-a-day-after-the-party-won-seats-in-the-bundestag-for-the-fir.md)
+Frauke Petry ‘drops bomb’ on rightwing nationalist party by announcing she will instead serve as independent MP
+
 ### [At the International Astronautical Congress in Adelaide, the Government of Australia announces that it will create an Australian space agency. ](/news/2017/09/25/at-the-international-astronautical-congress-in-adelaide-the-government-of-australia-announces-that-it-will-create-an-australian-space-agenc.md)
 The federal government has announced the creation of a National Space Agency. 
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/09/24/index.md)
+## [Day Before Yesterday](/news/2017/09/24/index.md)
 
 ### [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md)
 Iranian forces have launched war games in an area near the border with Iraq&#039;s Kurdistan region, Iran&#039;s state media reported on Sunday.
@@ -52,32 +62,7 @@ E-car users will also be exempted from RTA registration and renewal vehicle fees
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/23/index.md)
-
-### [The Venerable Rev. Father Stanley Rother, a priest of the Roman Catholic Archdiocese of Oklahoma City (born in Okarche, Oklahoma), is beatified at the Cox Convention Center in Oklahoma City by Cardinal Angelo Amato, head of the sainthood Congregation in the Roman Curia and Pope Francis's delegate. Rother, who became a missionary, was assassinated in July 1981 in the poor rural village of Santiago Atitlan, Guatemala, and is the first Catholic martyr born a citizen of the United States. ](/news/2017/09/23/the-venerable-rev-father-stanley-rother-a-priest-of-the-roman-catholic-archdiocese-of-oklahoma-city-born-in-okarche-oklahoma-is-beatif.md)
-The Latest on a beatification mass starts for 1st US martyr (all times local):
-
-### [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md)
-Thousands of villagers on the Indonesian resort island of Bali are sheltering in sports centers, village halls and with relatives, fearing Mount Agung will erupt for the first time in more than half a century.
-
-### [A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca killing at least five people and damaging housing and infrastructure already damaged by Tuesday's 2017 Central Mexico earthquake. ](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-mexican-state-of-oaxaca-killing-at-least-five-people-and-damaging-housing-and-infrastructure.md)
-A new earthquake with a magnitude of 6.1 has hit Mexico, just days after another devastating tremor left 295 people dead.
-
-### [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md)
-China&#039;s earthquake administration says it has detected a magnitude-3.4 tremor in North Korea that was a suspected explosion.
-
-### [Iran successfully tests the Khorramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khorramshahr-missile.md)
-Tehran (AFP) - Iran said on Saturday that it had successfully tested a new medium-range missile in defiance of warnings from Washington that it was ready to ditch a landmark nuclear deal over the issue.
-
-### [Acid attacks around a mall and tube station in Stratford, East London, leaves 6 injured. A 15-year-old has been arrested. ](/news/2017/09/23/acid-attacks-around-a-mall-and-tube-station-in-stratford-east-london-leaves-6-injured-a-15-year-old-has-been-arrested.md)
-Six people have been injured in multiple acid attacks at a busy London shopping centre as police launch a manhunt to find the culprits.
-
-### [Voters in New Zealand go to the polls, electing all members of their House of Representatives and the consequent Prime Minister. ](/news/2017/09/23/voters-in-new-zealand-go-to-the-polls-electing-all-members-of-their-house-of-representatives-and-the-consequent-prime-minister.md)
-Jacinda Ardern’s revitalised Labour party is looking to upset prime minister Bill English’s plans for a fourth term for National
-
----
-
-## [Previous Day...](/news/2017/09/22/index.md)
+## [Previous Day...](/news/2017/09/23/index.md)
 
 ---
 
