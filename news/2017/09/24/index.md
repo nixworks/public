@@ -1,13 +1,10 @@
 ## [2017-09-24](/news/2017/09/24/index.md)
 
-### [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq.md)
+### [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md)
 Iranian forces have launched war games in an area near the border with Iraq&#039;s Kurdistan region, Iran&#039;s state media reported on Sunday.
 
 ### [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md)
 A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir
-
-### [North Korea declares war against the United States following the recent flight of American aircraft off the coast of North Korea. ](/news/2017/09/24/north-korea-declares-war-against-the-united-states-following-the-recent-flight-of-american-aircraft-off-the-coast-of-north-korea.md)
-_Context: 2017 North Korea crisis, North Korea, United States_
 
 ### [The Iraqi government discourages foreign countries from importing crude oil directly from its Iraqi Kurdistan region. ](/news/2017/09/24/the-iraqi-government-discourages-foreign-countries-from-importing-crude-oil-directly-from-its-iraqi-kurdistan-region.md)
 Iraq on Sunday urged foreign countries to stop importing crude directly from its autonomous Kurdistan region and to restrict oil trading to the central government.

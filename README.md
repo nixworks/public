@@ -3,6 +3,12 @@
 ### [A mass grave of 28 Hindus, including children, allegedly slain by the Arakan Rohingya Salvation Army, is discovered by the Burmese army. ](/news/2017/09/25/a-mass-grave-of-28-hindus-including-children-allegedly-slain-by-the-arakan-rohingya-salvation-army-is-discovered-by-the-burmese-army.md)
 _Context: Arakan Rohingya Salvation Army, Northern Rakhine State clashes_
 
+### [North Korea says that the United States recent flight of American aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-united-states-recent-flight-of-american-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md)
+Foreign minister Ri Yong-ho says the country has the right to shoot down US bombers.
+
+### [Millions of Puerto Ricans, who claim to be American citizens, beg the United States federal government for welfare in face of a so-called humanitarian crisis on the island. ](/news/2017/09/25/millions-of-puerto-ricans-who-claim-to-be-american-citizens-beg-the-united-states-federal-government-for-welfare-in-face-of-a-so-called-hu.md)
+_Context: American citizens, Hurricane Maria, Puerto Ricans, United States federal government, island_
+
 ### [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md)
 The US and Britain are both opposed to the &quot;destabilising&quot; vote, arguing it distracts from the fight against Islamic State,
 
@@ -20,14 +26,11 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/09/24/index.md)
 
-### [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq.md)
+### [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md)
 Iranian forces have launched war games in an area near the border with Iraq&#039;s Kurdistan region, Iran&#039;s state media reported on Sunday.
 
 ### [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md)
 A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir
-
-### [North Korea declares war against the United States following the recent flight of American aircraft off the coast of North Korea. ](/news/2017/09/24/north-korea-declares-war-against-the-united-states-following-the-recent-flight-of-american-aircraft-off-the-coast-of-north-korea.md)
-_Context: 2017 North Korea crisis, North Korea, United States_
 
 ### [The Iraqi government discourages foreign countries from importing crude oil directly from its Iraqi Kurdistan region. ](/news/2017/09/24/the-iraqi-government-discourages-foreign-countries-from-importing-crude-oil-directly-from-its-iraqi-kurdistan-region.md)
 Iraq on Sunday urged foreign countries to stop importing crude directly from its autonomous Kurdistan region and to restrict oil trading to the central government.
