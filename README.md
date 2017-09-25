@@ -6,8 +6,8 @@ _Context: Arakan Rohingya Salvation Army, Northern Rakhine State clashes_
 ### [North Korea says that the United States recent flight of American aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-united-states-recent-flight-of-american-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md)
 Foreign minister Ri Yong-ho says the country has the right to shoot down US bombers.
 
-### [Millions of Puerto Ricans request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/millions-of-puerto-ricans-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humani.md)
-_Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Ricans, United States federal government, island_
+### [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md)
+_Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Rican, United States federal government, island_
 
 ### [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md)
 The US and Britain are both opposed to the &quot;destabilising&quot; vote, arguing it distracts from the fight against Islamic State,
@@ -38,8 +38,8 @@ Iraq on Sunday urged foreign countries to stop importing crude directly from its
 ### [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md)
 The Trump administration issued an updated travel ban with fresh restrictions on who can enter the U.S., targeting eight countries.
 
-### [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured, including the shooter. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-including-the-shooter.md)
-A woman was killed and at least six people suffered gunshot wounds when a man opened fire at a Tennessee church on Sunday morning before shooting himself as one of the worshipers confronted him with a firearm, officials said.
+### [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured. The suspected shooter is arrested. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-the-suspected-shooter-is-arrested.md)
+Local police and federal authorities worked Monday to determine why a man went on a deadly shooting spree at a Nashville-area church, while a shocked community prepared for prayer vigils for the victims and their families in the shooting&#039;s aftermath. One person was killed and seven others injur...
 
 ### [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md)
 Chancellor Angela Merkel and her main challenger, Martin Schulz have made their final appeals to voters ahead of Sunday&#39;s parliamentary elections. Both have urged Germans not to back the right-wing populist AfD party. 
@@ -47,7 +47,7 @@ Chancellor Angela Merkel and her main challenger, Martin Schulz have made their 
 ### [Amid criticism of U.S. national anthem protests by U.S. President Donald Trump, some National Football League players and teams react to the controversy by kneeling, linking arms, or skipping game performances of the national anthem. ](/news/2017/09/24/amid-criticism-of-u-s-national-anthem-protests-by-u-s-president-donald-trump-some-national-football-league-players-and-teams-react-to-the.md)
 It started early Sunday in London and continued throughout the NFL as players, coaches and even owners locked arms or knelt during the national anthem.
 
-### [City officials in Dubai, United Arab Emirates, announce that residents will receive free parking spots and free Salik tag as well as an exemption from RTA registration and renewal vehicle fees if they choose to swap their petrol engine vehicles for electric ones. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-free-parking-spots-and-free-salik-tag-as-well-as-an-exem.md)
+### [City officials in Dubai, United Arab Emirates, announce that residents will receive incentives for swapping their petrol engine vehicles for electric ones, including a free Salik tag, and an exemption from RTA registration and renewal vehicle fees. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-incentives-for-swapping-their-petrol-engine-vehicles-for.md)
 E-car users will also be exempted from RTA registration and renewal vehicle fees, and will get free Salik tag upon registration.
 
 ---
