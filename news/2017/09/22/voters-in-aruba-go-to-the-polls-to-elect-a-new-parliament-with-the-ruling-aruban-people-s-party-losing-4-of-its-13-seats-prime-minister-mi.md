@@ -1,6 +1,6 @@
 ### [2017-09-22](/news/2017/09/22/index.md)
 
-# Voters in Aruba go to the polls to elect a new Parliament, with the ruling Aruban People's Party losing 4 of its 13 seats. Prime Minister Mike Eman announces his intention to step down as leader of the Aruba People's Pary
+# Voters in Aruba go to the polls to elect a new Parliament, with the ruling Aruban People's Party losing 4 of its 13 seats. Prime Minister Mike Eman announces his intention to step down as leader of the Aruba People's Party
 
 
 

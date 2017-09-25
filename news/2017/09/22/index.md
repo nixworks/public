@@ -6,7 +6,7 @@ Ride-hailing app Uber is &quot;not fit and proper&quot; to operate in London, th
 ### [Tens of thousands of people in northern Puerto Rico are ordered to evacuate after floodwaters from Hurricane Maria damage the Guajataca Dam. ](/news/2017/09/22/tens-of-thousands-of-people-in-northern-puerto-rico-are-ordered-to-evacuate-after-floodwaters-from-hurricane-maria-damage-the-guajataca-dam.md)
 Entire neighborhoods are blanketed in murky water, the waves in some cases reaching near the first-floor windows. Tops of buildings were sliced open, their top-floor rooms visible like dollhouses.
 
-### [Voters in Aruba go to the polls to elect a new Parliament, with the ruling Aruban People's Party losing 4 of its 13 seats. Prime Minister Mike Eman announces his intention to step down as leader of the Aruba People's Pary](/news/2017/09/22/voters-in-aruba-go-to-the-polls-to-elect-a-new-parliament-with-the-ruling-aruban-people-s-party-losing-4-of-its-13-seats-prime-minister-mi.md)
+### [Voters in Aruba go to the polls to elect a new Parliament, with the ruling Aruban People's Party losing 4 of its 13 seats. Prime Minister Mike Eman announces his intention to step down as leader of the Aruba People's Party](/news/2017/09/22/voters-in-aruba-go-to-the-polls-to-elect-a-new-parliament-with-the-ruling-aruban-people-s-party-losing-4-of-its-13-seats-prime-minister-mi.md)
 _Context: Aruba, Aruban People's Party, Aruban general election, 2017, Mike Eman, Parliament, Prime Minister_
 
 ### [A new study shows that Neanderthal brains developed more slowly than those of modern humans, contradicting previous studies. ](/news/2017/09/22/a-new-study-shows-that-neanderthal-brains-developed-more-slowly-than-those-of-modern-humans-contradicting-previous-studies.md)
