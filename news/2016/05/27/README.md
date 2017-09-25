@@ -1,7 +1,7 @@
 ## [2016-05-27](/news/2016/05/27/index.md)
 
 ### [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md)
-_Context: Fallujah, Iraqi Civil War, Islamic State of Iraq and the Levant, Operation Breaking Terrorism_
+_Context: Fallujah, ISIL, Iraqi Civil War, Operation Breaking Terrorism_
 
 ### [Record rainfall and severe flooding in southeast Texas has killed at least two people with three others missing. On Thursday, a record 16.6 inches (42 cm) of rain fell in Brenham, west of Houston. ](/news/2016/05/27/record-rainfall-and-severe-flooding-in-southeast-texas-has-killed-at-least-two-people-with-three-others-missing-on-thursday-a-record-16-6.md)
 At least two people person were killed and three others missing on Friday as record rainfall and severe flooding hit hard parts of southeast Texas, officials said.

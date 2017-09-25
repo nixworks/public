@@ -34,7 +34,7 @@ Rejecting UN famine claims, opposition group says it will not allow certain supp
 _Context: ASEAN Regional Forum, Bali, Indonesia, North Korea, South Korea_
 
 ### [North Korea appoints Ri Yong-ho as its new negotiator in the Six-party talks on the North Korean nuclear weapons program. ](/news/2011/07/22/north-korea-appoints-ri-yong-ho-as-its-new-negotiator-in-the-six-party-talks-on-the-north-korean-nuclear-weapons-program.md)
-_Context: North Korea, North Korea and weapons of mass destruction, Ri Yong-ho, six-party talks_
+_Context: North Korea, Ri Yong-ho, its nuclear weapons program, six-party talks_
 
 ### [Up to 100 asylum seekers, many from Iran, riot again at Australia's Christmas Island Immigration Reception and Processing Centre. ](/news/2011/07/22/up-to-100-asylum-seekers-many-from-iran-riot-again-at-australia-s-christmas-island-immigration-reception-and-processing-centre.md)
 The Immigration Department says up to 100 people armed with makeshift weapons may have been involved in the latest riot at the Christmas Island Detention Centre overnight.

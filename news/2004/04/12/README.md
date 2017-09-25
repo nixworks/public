@@ -1,7 +1,7 @@
 ## [2004-04-12](/news/2004/04/12/index.md)
 
 ### [ Lieutenant General Ricardo S. Sanchez states that the mission of the U.S. forces is to kill or capture Muqtada al-Sadr. ](/news/2004/04/12/lieutenant-general-ricardo-s-sanchez-states-that-the-mission-of-the-u-s-forces-is-to-kill-or-capture-muqtada-al-sadr.md)
-_Context: Lieutenant General, Muqtada al-Sadr, Ricardo S. Sanchez_
+_Context: Muqtada al-Sadr, Ricardo S. Sanchez, lieutenant general_
 
 ### [ Argentine president Nstor Kirchner spends his fourth day in hospital for a bleeding peptic ulcer. ](/news/2004/04/12/argentine-president-nestor-kirchner-spends-his-fourth-day-in-hospital-for-a-bleeding-peptic-ulcer.md)
 _Context: Argentina, Nstor Kirchner, peptic ulcer_

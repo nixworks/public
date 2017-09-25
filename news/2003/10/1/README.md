@@ -1,7 +1,7 @@
 ## [2003-10-1](/news/2003/10/1/index.md)
 
 ### [ South Korean President Roh Moo Hyun reiterates offer to the United States to consider a request for South Korean participation in Multi-National Force - Iraq in exchange for "positive" movement to resolve the standoff over North Korea's nuclear weapons program.](/news/2003/10/1/south-korean-president-roh-moo-hyun-reiterates-offer-to-the-united-states-to-consider-a-request-for-south-korean-participation-in-multi-nat.md)
-_Context: Multi-National Force - Iraq, North Korea and weapons of mass destruction, President of South Korea, Roh Moo-hyun_
+_Context: Multi-National Force - Iraq, President of South Korea, Roh Moo-hyun, its nuclear weapons program_
 
 ### [ Anti-Americanism: A panel chosen by the administration of President George W. Bush concludes that the United States must drastically increase and overhaul its public relations efforts to recast its image among Muslims and Arabs abroad. "Hostility toward America has reached shocking levels&nbsp;... What is required is not merely tactical adaptation but strategic, and radical, transformation."](/news/2003/10/1/anti-americanism-a-panel-chosen-by-the-administration-of-president-george-w-bush-concludes-that-the-united-states-must-drastically-increa.md)
 _Context: Anti-Americanism, Arab, Bush Administration, PR_

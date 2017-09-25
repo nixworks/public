@@ -1,7 +1,7 @@
 ## [2006-05-13](/news/2006/05/13/index.md)
 
-### [ CIA officials try to get the case of Khaled el-Masri, who says he was abducted and tortured, dismissed as it "could undermine U.S. relations with foreign countries". ](/news/2006/05/13/cia-officials-try-to-get-the-case-of-khaled-el-masri-who-says-he-was-abducted-and-tortured-dismissed-as-it-could-undermine-u-s-relation.md)
-_Context: CIA, Khaled el-Masri, extraordinary rendition, torture_
+### [ CIA officials try to get the case of Khalid El-Masri, who says he was abducted and tortured, dismissed as it "could undermine U.S. relations with foreign countries". ](/news/2006/05/13/cia-officials-try-to-get-the-case-of-khalid-el-masri-who-says-he-was-abducted-and-tortured-dismissed-as-it-could-undermine-u-s-relation.md)
+_Context: CIA, Khalid El-Masri, extraordinary rendition, torture_
 
 ### [ The International Committee of the Red Cross criticizes the United States for denying access to detainees in violation of the Geneva Convention. The US admits holding detainees secretly but claims they do not fall under that convention. ](/news/2006/05/13/the-international-committee-of-the-red-cross-criticizes-the-united-states-for-denying-access-to-detainees-in-violation-of-the-geneva-conven.md)
 _Context: Geneva Convention, International Committee of the Red Cross, U.S._
@@ -15,7 +15,7 @@ _Context: ARFWS, Sudanese cabinet, UFDC, second Dby administration_
 ### [ George Seitz, a Labor Party Member of the state Legislative Assembly in Victoria, Australia, is accused of running an elaborate branch stacking operation to manipulate results in state and federal elections and pre-selections. ](/news/2006/05/13/george-seitz-a-labor-party-member-of-the-state-legislative-assembly-in-victoria-australia-is-accused-of-running-an-elaborate-branch-stac.md)
 _Context: Australia, George Seitz, Labor Party, Victoria, Victorian Legislative Assembly, branch stacking_
 
-### [ Authorities in Indonesia issue a red alert for active volcano Mt. Merapi, evacuating 17,000 people in expectation of an eruption. ](/news/2006/05/13/authorities-in-indonesia-issue-a-red-alert-for-active-volcano-mt-merapi-evacuating-17-000-people-in-expectation-of-an-eruption.md)
+### [ Authorities in Indonesia issue a red alert for active volcano Mount Merapi, evacuating 17,000 people in expectation of an eruption. ](/news/2006/05/13/authorities-in-indonesia-issue-a-red-alert-for-active-volcano-mount-merapi-evacuating-17-000-people-in-expectation-of-an-eruption.md)
 Lava streamed down the sides of Indonesia&#8217;s Mount Merapi on Tuesday, but the clouds of hot gas belching from the top were substantially smaller than the day before.
 
 ### [ Liverpool F.C. win the FA Cup against West Ham United F.C. on penalties after a last minute 40-yard Steven Gerrard equalizer. ](/news/2006/05/13/liverpool-f-c-win-the-fa-cup-against-west-ham-united-f-c-on-penalties-after-a-last-minute-40-yard-steven-gerrard-equalizer.md)

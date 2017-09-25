@@ -7,7 +7,7 @@ The United States and Turkey have agreed &quot;in principle&quot; to give air su
 A Tunisian corporal shot dead seven of his comrades before himself being killed, the defence ministry said, adding that he had family and psychological problems.
 
 ### [Close to 55,000 people have fled the Iraqi city of Ramadi since it was captured by Islamic State. ](/news/2015/05/25/close-to-55-000-people-have-fled-the-iraqi-city-of-ramadi-since-it-was-captured-by-islamic-state.md)
-_Context: Iraq, Islamic State of Iraq and the Levant, Ramadi_
+_Context: ISIL, Iraq, Ramadi_
 
 ### [Australia announces that it will repatriate the bodies of up to 25 soldiers killed in the early stages of the Vietnam War. ](/news/2015/05/25/australia-announces-that-it-will-repatriate-the-bodies-of-up-to-25-soldiers-killed-in-the-early-stages-of-the-vietnam-war.md)
 _Context: Australia, Vietnam War, soldiers_

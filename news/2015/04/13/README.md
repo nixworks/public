@@ -13,7 +13,7 @@ _Context: Siberia, Wildfires_
 The Russian president has repealed the ban prohibiting the delivery of S-300 missile air defense systems to Iran, according to the Kremlin&#039;s press service. The ban was introduced by former President Dmitry Medvedev in 2010.
 
 ### [In Tripoli, the Moroccan Embassy is damaged by a bomb explosion just hours after gunmen assault the South Korean mission. ISIL loyalists take credit for both attacks. ](/news/2015/04/13/in-tripoli-the-moroccan-embassy-is-damaged-by-a-bomb-explosion-just-hours-after-gunmen-assault-the-south-korean-mission-isil-loyalists-tak.md)
-_Context: Islamic State of Iraq and the Levant, Libyan Civil War (2014-present), Tripoli_
+_Context: ISIL, Libyan Civil War (2014-present), Tripoli_
 
 ### [An American man working at Managua's U.S. embassy provokes a security scare in Nicaragua; the country's health ministry quarantines the Ebola suspect and asks that he be removed from the country immediately. ](/news/2015/04/13/an-american-man-working-at-managua-s-u-s-embassy-provokes-a-security-scare-in-nicaragua-the-country-s-health-ministry-quarantines-the-ebol.md)
 _Context: Ebola, Managua_

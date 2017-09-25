@@ -10,7 +10,7 @@ _Context: Reuters, Robert Mugabe, Zimbabwe_
 _Context: Libya, Lockerbie bombing, United Nations_
 
 ### [ Johnny Cash died at the age of 71 due to complications from diabetes, which resulted in respiratory failure, while hospitalized at Baptist Hospital in Nashville, Tennessee. He was interred next to his wife in Hendersonville Memory Gardens near his home in Hendersonville, Tennessee.](/news/2003/09/12/johnny-cash-died-at-the-age-of-71-due-to-complications-from-diabetes-which-resulted-in-respiratory-failure-while-hospitalized-at-baptist.md)
-_Context: Baptist Hospital, Hendersonville Memory Gardens, Hendersonville, Tennessee, Johnny Cash, Nashville, wife_
+_Context: Baptist Hospital, Hendersonville Memory Gardens, Hendersonville, Tennessee, Johnny Cash, Nashville, Tennessee, wife_
 
 ### [ Steam, a digital distribution, digital rights management, multiplayer and communications platform developed by Valve Corporation was initially released](/news/2003/09/12/steam-a-digital-distribution-digital-rights-management-multiplayer-and-communications-platform-developed-by-valve-corporation-was-initia.md)
 _Context: Steam, Valve Corporation, copy protection, digital distribution, multiplayer_

@@ -46,7 +46,7 @@ Americans officials want to rotate more military forces through the country, con
 _Context: Moscow, Russian President Vladimir Putin, Ukrainian President, Viktor Yanukovych, Vladimir Putin_
 
 ### [Angela Merkel is elected for a third term as Chancellor of Germany. ](/news/2013/12/17/angela-merkel-is-elected-for-a-third-term-as-chancellor-of-germany.md)
-_Context: Angela Merkel, German Chancellor_
+_Context: Angela Merkel, Chancellor_
 
 ### [Japan intends to increase spending for the Japan Self-Defense Forces and transform it into a modern military. ](/news/2013/12/17/japan-intends-to-increase-spending-for-the-japan-self-defense-forces-and-transform-it-into-a-modern-military.md)
 _Context: Japan, military_

@@ -1,7 +1,7 @@
 ## [2014-10-6](/news/2014/10/6/index.md)
 
 ### [ISIL prepares to establish itself in Libya and reports emerge that they are already in the city of Derna. ](/news/2014/10/6/isil-prepares-to-establish-itself-in-libya-and-reports-emerge-that-they-are-already-in-the-city-of-derna.md)
-_Context: Derna, Islamic State of Iraq and the Levant, Libya_
+_Context: Derna, ISIL, Libya_
 
 ### [India and Pakistan trade fire across the borders resulting in five civilian deaths in India and four in Pakistan. ](/news/2014/10/6/india-and-pakistan-trade-fire-across-the-borders-resulting-in-five-civilian-deaths-in-india-and-four-in-pakistan.md)
 Indian and Pakistan security forces trade fire along their troubled frontier, leaving nine civilians dead.

@@ -1,4 +1,15 @@
-## [News](/news/2017/09/24/index.md)
+## [News](/news/2017/09/25/index.md)
+
+### [Voters in Iraqi Kurdistan head to the polls for a historic referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-historic-referendum-on-independence-from-iraq.md)
+The US and Britain are both opposed to the &quot;destabilising&quot; vote, arguing it distracts from the fight against Islamic State,
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/24/index.md)
 
 ### [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md)
 A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir
@@ -18,13 +29,9 @@ It started early Sunday in London and continued throughout the NFL as players, c
 ### [City officials in Dubai, United Arab Emirates, announce that residents will receive free parking spots and free Salik tag as well as an exemption from RTA registration and renewal vehicle fees if they choose to swap their petrol engine vehicles for electric ones. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-free-parking-spots-and-free-salik-tag-as-well-as-an-exem.md)
 E-car users will also be exempted from RTA registration and renewal vehicle fees, and will get free Salik tag upon registration.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/09/23/index.md)
+## [Day Before Yesterday](/news/2017/09/23/index.md)
 
 ### [The Venerable Rev. Father Stanley Rother, a priest of the Roman Catholic Archdiocese of Oklahoma City (born in Okarche, Oklahoma), is beatified at the Cox Convention Center in Oklahoma City by Cardinal Angelo Amato, head of the sainthood Congregation in the Roman Curia and Pope Francis's delegate. Rother, who became a missionary, was assassinated in July 1981 in the poor rural village of Santiago Atitlan, Guatemala, and is the first Catholic martyr born a citizen of the United States. ](/news/2017/09/23/the-venerable-rev-father-stanley-rother-a-priest-of-the-roman-catholic-archdiocese-of-oklahoma-city-born-in-okarche-oklahoma-is-beatif.md)
 The Latest on a beatification mass starts for 1st US martyr (all times local):
@@ -49,20 +56,7 @@ Jacinda Ardern’s revitalised Labour party is looking to upset prime minister B
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/22/index.md)
-
-### [Transport for London announces that it will not issue Uber a new private hire license. ](/news/2017/09/22/transport-for-london-announces-that-it-will-not-issue-uber-a-new-private-hire-license.md)
-Ride-hailing app Uber is &quot;not fit and proper&quot; to operate in London, the transport regulator says.
-
-### [Tens of thousands of people in northern Puerto Rico are ordered to evacuate after floodwaters from Hurricane Maria damage the Guajataca Dam. ](/news/2017/09/22/tens-of-thousands-of-people-in-northern-puerto-rico-are-ordered-to-evacuate-after-floodwaters-from-hurricane-maria-damage-the-guajataca-dam.md)
-Entire neighborhoods are blanketed in murky water, the waves in some cases reaching near the first-floor windows. Tops of buildings were sliced open, their top-floor rooms visible like dollhouses.
-
-### [A new study shows that Neanderthal brains developed more slowly than those of modern humans, contradicting previous studies. ](/news/2017/09/22/a-new-study-shows-that-neanderthal-brains-developed-more-slowly-than-those-of-modern-humans-contradicting-previous-studies.md)
-A new study shows that Neanderthal brains developed more slowly than ours.
-
----
-
-## [Previous Day...](/news/2017/09/21/index.md)
+## [Previous Day...](/news/2017/09/22/index.md)
 
 ---
 

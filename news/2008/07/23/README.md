@@ -4,7 +4,7 @@
 _Context: Girija Prasad Koirala, President, Prime Minister, Ram Baran Yadav_
 
 ### [ Militants who formed the Movement for the Emancipation of the Niger Delta announce that unless the Nigerian Army withdraws from the area and their development demands are met, they will shut down oil and gas production from Bonny Island. ](/news/2008/07/23/militants-who-formed-the-movement-for-the-emancipation-of-the-niger-delta-announce-that-unless-the-nigerian-army-withdraws-from-the-area-an.md)
-_Context: Bonny Island, Movement for the Emancipation of the Niger Delta, Nigerian Army_
+_Context: Bonny Island, Movement for the Emancipation of the Niger Delta_
 
 ### [ The European Union suspends payments to two Bulgarian agencies due to concerns over corruption and organized crime. ](/news/2008/07/23/the-european-union-suspends-payments-to-two-bulgarian-agencies-due-to-concerns-over-corruption-and-organized-crime.md)
 _Context: Bulgaria, EU, anti-corruption, organization_

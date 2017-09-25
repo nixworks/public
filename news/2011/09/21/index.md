@@ -22,7 +22,7 @@ _Context: Japan, Typhoon Roke, flood_
 THE death toll from a 6.9-magnitude quake that hit the India-Nepal border has risen to 98 and officials warn more bodies are likely to be found.
 
 ### [The governments of North Korea and South Korea meet but fail to reach an agreement on the resumption of Six-party talks on North Korea's nuclear weapons program. ](/news/2011/09/21/the-governments-of-north-korea-and-south-korea-meet-but-fail-to-reach-an-agreement-on-the-resumption-of-six-party-talks-on-north-korea-s-nuc.md)
-_Context: North Korea, North Korea and weapons of mass destruction, South Korea, six-party talks_
+_Context: North Korea, South Korea, its nuclear weapons program, six-party talks_
 
 ### [South Korean religious leaders leave for North Korea on a rare visit. ](/news/2011/09/21/south-korean-religious-leaders-leave-for-north-korea-on-a-rare-visit.md)
 _Context: North Korea, South Korea_

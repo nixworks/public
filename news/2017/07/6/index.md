@@ -4,7 +4,7 @@
 _Context: Krakow, Machu Picchu, Polish, UNESCO, World heritage sites, list of endangered heritage sites_
 
 ### [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md)
-_Context: 2040, Alternative fuel vehicles, France, Nicolas Hulot, diesel-powered, ecology minister, petrol_
+_Context: 2040, Alternative fuel vehicles, France, Nicolas Hulot, diesel-powered, ecology minister, petrol engine vehicles_
 
 ### [At least two are killed and power supply is interrupted in Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/at-least-two-are-killed-and-power-supply-is-interrupted-in-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake-hits-the-province-of-le.md)
 (UPDATED - 6:28 a.m., July 7, 2017) MANILA, Philippines - An earthquake of magnitude 6.5 struck Leyte on Thursday, leaving at least two persons dead and many others injured.

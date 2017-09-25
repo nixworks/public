@@ -7,7 +7,7 @@ _Context: 2016 Brussels bombings, Brussels, Schaerbeek_
 _Context: Boko Haram, Boko Haram insurgency, Nigeria, Nigerian Army_
 
 ### [The Pentagon announces the death of Islamic State of Iraq and the Levant finance minister and deputy leader, Abu Ala al-Afri. ](/news/2016/03/25/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-the-levant-finance-minister-and-deputy-leader-abu-ala-al-afri.md)
-_Context: Abu Ala al-Afri, Islamic State of Iraq and the Levant, Military intervention against ISIL, Pentagon_
+_Context: Abu Ala al-Afri, ISIL, Military intervention against ISIL, Pentagon_
 
 ### [The Syrian Army and allies make major advances near Palmyra against ISIL as the group start pulling out its equipment from the town. ](/news/2016/03/25/the-syrian-army-and-allies-make-major-advances-near-palmyra-against-isil-as-the-group-start-pulling-out-its-equipment-from-the-town.md)
 Syrian government forces advance further into IS-held Palmyra, reportedly capturing a castle perched on a hill above the ruins of the ancient city.
@@ -31,7 +31,7 @@ _Context: France, Fribourg, Italy, Paris, Portuguese nationals, Switzerland, min
 _Context: Fars Province, Iran, Islamic Republic News Agency, air ambulance_
 
 ### [Russia announces it will deploy state-of-the art missile defense systems to the far eastern Kuril Islands where they and Japan have rival territorial claims dating to the end of the Second World War. Russian Defence Minister Sergey Shoygu also says that Russia will form new defence units in the country's Western Military District in response to NATO's recent deployment of forces to member states near its border. ](/news/2016/03/25/russia-announces-it-will-deploy-state-of-the-art-missile-defense-systems-to-the-far-eastern-kuril-islands-where-they-and-japan-have-rival-te.md)
-_Context: Japan, Japan-Russia relations, Kuril Islands, Ministry of Defence, NATO, NATO-Russia relations, Russia, Sergey Shoygu, Western Military District, World War II, membership, rival territorial claims_
+_Context: Japan, Japan-Russia relations, Kuril Islands, NATO, NATO-Russia relations, Russia, Russian Defence Ministry, Sergey Shoygu, Western Military District, World War II, membership, rival territorial claims_
 
 ### [A United States federal district judge rules unconstitutional a provision in an Alabama state law that requires doctors who perform abortions to have admitting privileges at a local hospital. A Florida law enacted today contains a comparable provision to Alabama's. The U.S. Supreme Court heard arguments a few weeks ago on the constitutionality of similar abortion restrictions in Texas. ](/news/2016/03/25/a-united-states-federal-district-judge-rules-unconstitutional-a-provision-in-an-alabama-state-law-that-requires-doctors-who-perform-abortion.md)
 A federal judge on Friday struck down an Alabama law that required abortion providers to have admitting privileges at a local hospital.

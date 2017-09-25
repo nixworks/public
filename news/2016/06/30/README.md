@@ -10,7 +10,7 @@ _Context: Boko Haram insurgency, Cameroon, Far North Region_
 Preliminary and unofficial estimates suggest US-led coalition air strikes have killed 250 suspected fighters and destroyed at least 40 vehicles.
 
 ### [A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.md)
-_Context: 2016 Istanbul airport attack, Islamic State of Iraq and the Levant, Kyrgyzstan, Russia, Turkey, Uzbekistan_
+_Context: 2016 Istanbul airport attack, ISIL, Kyrgyzstan, Russia, Turkey, Uzbekistan_
 
 ### [A 17-year-old Palestinian stabs and kills a sleeping 13-year-old Israeli and American citizen girl Hallel Yaffa Ariel in her bedroom. The assailant is fatally shot by security guards. Israeli Prime Minister Benjamin Netanyahu blamed "incitement-driven terrorists" while the U.S. State Department condemned the "outrageous terrorist attack." ](/news/2016/06/30/a-17-year-old-palestinian-stabs-and-kills-a-sleeping-13-year-old-israeli-and-american-citizen-girl-hallel-yaffa-ariel-in-her-bedroom-the-as.md)
 A Palestinian fatally stabbed a 13-year-old Israeli girl in her bedroom in a settlement in the occupied West Bank on Thursday, the military said, as international sponsors of frozen peace talks prepared to issue a report on the impasse.

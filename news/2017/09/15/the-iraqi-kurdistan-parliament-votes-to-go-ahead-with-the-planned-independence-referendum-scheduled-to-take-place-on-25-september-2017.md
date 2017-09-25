@@ -9,3 +9,7 @@
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-41279682)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15B9/production/_97816550_870098e1-65b1-499c-a631-1c7ab68ac70e.jpg)
+
+### Related:
+
+1. [Voters in Iraqi Kurdistan head to the polls for a historic referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-historic-referendum-on-independence-from-iraq.md) _Context: Iraqi Kurdistan independence referendum, 2017_

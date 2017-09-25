@@ -1,7 +1,7 @@
 ## [2016-10-14](/news/2016/10/14/index.md)
 
 ### [A suspected ISIL attack on a security checkpoint in North Sinai Governorate, Egypt, leaves at least 12 Egyptian military personnel and 15 terrorists dead. ](/news/2016/10/14/a-suspected-isil-attack-on-a-security-checkpoint-in-north-sinai-governorate-egypt-leaves-at-least-12-egyptian-military-personnel-and-15-te.md)
-_Context: Egypt, Egyptian military, Islamic State of Iraq and the Levant, North Sinai Governorate, Sinai insurgency_
+_Context: Egypt, Egyptian military, ISIL, North Sinai Governorate, Sinai insurgency_
 
 ### [An explosion that targeted a funeral in Ma'rib for a top Yemeni army commander, kills five people, including the deceased's brother, and injures 15 more. ](/news/2016/10/14/an-explosion-that-targeted-a-funeral-in-ma-rib-for-a-top-yemeni-army-commander-kills-five-people-including-the-deceased-s-brother-and-inj.md)
 Yemeni officials say an explosion has ripped through a funeral held for a top army commander at a marquee east of the capital Sanaa, killing five people.

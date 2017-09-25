@@ -1,7 +1,7 @@
 ## [2015-04-15](/news/2015/04/15/index.md)
 
 ### [Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-capital-ramadi.md)
-_Context: Anbar province, Iraq, Islamic State of Iraq and the Levant, Ramadi_
+_Context: Anbar province, ISIL, Iraq, Ramadi_
 
 ### [Nokia announces plans to buy telecommunications equipment maker Alcatel-Lucent for EUR15.6 billion (US$16.6 billion). ](/news/2015/04/15/nokia-announces-plans-to-buy-telecommunications-equipment-maker-alcatel-lucent-for-a-15-6-billion-us-16-6-billion.md)
 Nokia has announced its intention to acquire telecoms equipment company Alcatel-Lucent for €15.6 billion ($16.6 billion). The deal will solidify Nokia&#39;s ambitions to become a major provider of...

@@ -12,5 +12,8 @@ _Context: Baquba, Ramadi, War in Iraq_
 ### [ Six students and a teacher from Manukau City's Elim Christian College die in a canyoning trip on the Mangatepopo Stream in the North Island's Tongariro National Park in New Zealand. ](/news/2008/04/15/six-students-and-a-teacher-from-manukau-city-s-elim-christian-college-die-in-a-canyoning-trip-on-the-mangatepopo-stream-in-the-north-island.md)
 _Context: Elim Christian College, Manukau City, New Zealand, North Island, Tongariro National Park, canyoning_
 
+### [ Pope Benedict XVI visits the United States, starting in Washington, D.C.](/news/2008/04/15/pope-benedict-xvi-visits-the-united-states-starting-in-washington-d-c.md)
+_Context: Pope Benedict XVI_
+
 ## [Previous Day...](/news/2008/04/14/index.md)
 

@@ -7,7 +7,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Bangalore, Chief Minister, Dharam Singh, India, Jnanpith, Karnataka, U R Ananthamurthy, colloquial_
 
 ### [ Brian Chase of Nashville, Tennessee admits putting false information about John Seigenthaler Sr. into a Wikipedia article, leading to widespread debate. ](/news/2005/12/11/brian-chase-of-nashville-tennessee-admits-putting-false-information-about-john-seigenthaler-sr-into-a-wikipedia-article-leading-to-wides.md)
-_Context: Brian Chase, John Seigenthaler Sr., Nashville, Wikipedia_
+_Context: Brian Chase, John Seigenthaler Sr., Nashville, Tennessee, Wikipedia_
 
 ### [ A suicide bombing in Kandahar, Afghanistan, injures 3 people while killing the bomber. ](/news/2005/12/11/a-suicide-bombing-in-kandahar-afghanistan-injures-3-people-while-killing-the-bomber.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

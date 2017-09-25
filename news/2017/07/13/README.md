@@ -4,7 +4,7 @@
 Police said they found three children alive but all the adults at the party were shot dead.
 
 ### [Five men in London are attacked with acid in five linked attacks. Two teenaged suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-linked-attacks-two-teenaged-suspects-are-taken-into-custody.md)
-_Context: Crime in London, London, attacked with acid_
+_Context: Acid attack, Crime in London, London_
 
 ### [A suspect in a disappearances case in Bucks County, Pennsylvania, reportedly confesses to killing and burying four men. ](/news/2017/07/13/a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-reportedly-confesses-to-killing-and-burying-four-men.md)
 A 20-year-old man has confessed to killing four men who were missing for days and burying their bodies at a sprawling Bucks County, Pennsylvania, farm owned by his family, his attorney said on Thursday.

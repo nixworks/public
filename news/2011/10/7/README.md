@@ -10,7 +10,7 @@ _Context: Anhui, China, Lianyungang-Khorgas Expressway, Tianjin, expressway_
 _Context: Ellen Johnson Sirleaf, Leymah Gbowee, Liberia, Nobel Peace Prize, Norwegian Nobel Committee, Oslo, President of Liberia, Tawakkul Karman, Yemen_
 
 ### [A South Korean presidential aide warns that North Korea could conduct a third nuclear weapons test if disarmament negotiations do not resume. ](/news/2011/10/7/a-south-korean-presidential-aide-warns-that-north-korea-could-conduct-a-third-nuclear-weapons-test-if-disarmament-negotiations-do-not-resume.md)
-_Context: North Korea, North Korea and weapons of mass destruction, South Korea, six-party talks_
+_Context: North Korea, South Korea, its nuclear weapons program, six-party talks_
 
 ### [The NYPD busts a Queens-based identity theft and retail crime ring, arresting over 110 people. It was the largest identity theft ring in the history of the United States, making an annual profit of over $13 million. ](/news/2011/10/7/the-nypd-busts-a-queens-based-identity-theft-and-retail-crime-ring-arresting-over-110-people-it-was-the-largest-identity-theft-ring-in-the.md)
 Police said on Friday they eavesdropped on thieves speaking Russian, Mandarin and Arabic to make the biggest identity theft bust of its kind in U.S. history against a $13 million crime ring specializing mainly in selling Apple electronics overseas.

@@ -12,5 +12,6 @@ Resham Khan had celebrated her 21st birthday with her cousin when they were atta
 
 ### Related:
 
-1. [The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md) _Context: 2017 Beckton acid attack_
-2. [Five men in London are attacked with acid in five linked attacks. Two teenaged suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-linked-attacks-two-teenaged-suspects-are-taken-into-custody.md) _Context: attacked with acid_
+1. [Acid attacks around a mall and tube station in Stratford, East London, leaves 6 injured. A 15-year-old has been arrested. ](/news/2017/09/23/acid-attacks-around-a-mall-and-tube-station-in-stratford-east-london-leaves-6-injured-a-15-year-old-has-been-arrested.md) _Context: Acid attack, East London_
+2. [The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md) _Context: 2017 Beckton acid attack_
+3. [Five men in London are attacked with acid in five linked attacks. Two teenaged suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-linked-attacks-two-teenaged-suspects-are-taken-into-custody.md) _Context: Acid attack_

@@ -19,7 +19,7 @@ _Context: California, Death Wish, Dino De Laurentiis, Italy, Los Angeles, Califo
 _Context: 3D Express Coach, Beijing_
 
 ### [US singer Brad Paisley wins Entertainer of the Year at the 2010 CMA Awards held in Nashville, Tennessee. ](/news/2010/11/10/us-singer-brad-paisley-wins-entertainer-of-the-year-at-the-2010-cma-awards-held-in-nashville-tennessee.md)
-_Context: Brad Paisley, Nashville, Tennessee, U.S._
+_Context: Brad Paisley, Nashville, Tennessee, Tennessee, U.S._
 
 ### [Singapore Airlines grounds three of its Airbus A380 fleet to replace their Rolls-Royce engines. ](/news/2010/11/10/singapore-airlines-grounds-three-of-its-airbus-a380-fleet-to-replace-their-rolls-royce-engines.md)
 _Context: Airbus A380, Rolls-Royce, Singapore Airlines_

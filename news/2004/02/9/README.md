@@ -16,7 +16,7 @@ _Context: Haiti, Jean Bertrand-Aristide_
 _Context: Afghanistan, Ahmed Bilal, Mike Hawash, Muhammad Bilal, Portland Seven, Portland, Oregon, Robert E. Jones, Taliban, United States Department of Justice, United States District Court for the District of Oregon, conspiracy, convicted, plea, plea agreement_
 
 ### [ Russian Defense Minister Sergei Ivanov announces that Russia is considering withdrawing from the Treaty on Conventional Armed Forces in Europe, a cornerstones of European security, citing the enlargement of NATO and the end of the Cold War.](/news/2004/02/9/russian-defense-minister-sergei-ivanov-announces-that-russia-is-considering-withdrawing-from-the-treaty-on-conventional-armed-forces-in-eur.md)
-_Context: Cold War, Enlargement of NATO, Ministry of Defence, Sergei Ivanov, Treaty on Conventional Armed Forces in Europe_
+_Context: Cold War, Enlargement of NATO, Russian Defence Ministry, Sergei Ivanov, Treaty on Conventional Armed Forces in Europe_
 
 ## [Previous Day...](/news/2004/02/8/index.md)
 

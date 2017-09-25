@@ -4,7 +4,7 @@
 Map detailing Taliban-controlled or contested districts. Click colored district for information. Based on an analysis by The Long War Journal, 36 of Afghanistan&#039;s 398 districts are under Taliban control, and another 36 districts are contested. Map created by Bill Roggio, Caleb Weiss, and Patric...
 
 ### [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md)
-_Context: Islamic State of Iraq and the Levant, Raqqa, Syria, Syrian Civil War_
+_Context: ISIL, Raqqa, Syria, Syrian Civil War_
 
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
 _Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_
@@ -31,7 +31,7 @@ _Context: Ali Khamenei, EU, Iranian government, Joint Comprehensive Plan of Acti
 The Vatican denied an Italian newspaper report on Wednesday that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff was in good health and denouncing the article as &quot;inexcusable&quot;.
 
 ### [Israeli Prime Minister Benjamin Netanyahu's speech yesterday that the Grand Mufti of Jerusalem persuaded the Nazis to adopt their Final Solution to exterminate 6 million Jews is reproached by Holocaust experts and survivors, historians, world leaders, etc. Palestine Liberation Organization's Saeb Erakat and Israel's Zionist Union party's Isaac Herzog both blasted Netanyahu's claim. German Chancellor Angela Merkel said, "All Germans know the history of the murderous race mania of the Nazis that led to ... the Holocaust." Mehnaz Afridi, a Manhattan College professor who promotes Muslim-Jewish dialogue said, "this ... really is a terrible statement to make at this time." ](/news/2015/10/21/israeli-prime-minister-benjamin-netanyahu-s-speech-yesterday-that-the-grand-mufti-of-jerusalem-persuaded-the-nazis-to-adopt-their-final-solu.md)
-_Context: Amin al-Husseini, Angela Merkel, Benjamin Netanyahu, Final Solution, German Chancellor, Holocaust, Isaac Herzog, Israel, Israeli Prime Minister, Jewish, Manhattan College, Nazis, Palestine Liberation Organization's, Saeb Erakat, Zionist Union party's_
+_Context: Amin al-Husseini, Angela Merkel, Benjamin Netanyahu, Chancellor, Final Solution, Holocaust, Isaac Herzog, Israel, Israeli Prime Minister, Jewish, Manhattan College, Nazis, Palestine Liberation Organization's, Saeb Erakat, Zionist Union party's_
 
 ### [Two Chinese consulate staff are killed and a consul general injured after a gunman opened fire on a restaurant in the city of Cebu, the "second city" of the Philippines. Various reports named the gunman as Chinese national Li Qingliang. ](/news/2015/10/21/two-chinese-consulate-staff-are-killed-and-a-consul-general-injured-after-a-gunman-opened-fire-on-a-restaurant-in-the-city-of-cebu-the-sec.md)
 Chinese diplomat injured and two consulate staff shot at an upmarket Philippine restaurant

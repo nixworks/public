@@ -46,7 +46,7 @@ Photos of protests in Gabon emerge after election results were released Wednesda
 Myanmar begins a historic peace conference on Wednesday, with the aim of ending decades of violence between the Myanmar Army and ethnic armed groups that has claimed thousands of lives.
 
 ### [Turkish Interior Minister Efkan Ala resigns amid criticism over his handling of a string of ISIL and PKK terror attacks, and is replaced by Suleyman Soylu. ](/news/2016/08/31/turkish-interior-minister-efkan-ala-resigns-amid-criticism-over-his-handling-of-a-string-of-isil-and-pkk-terror-attacks-and-is-replaced-by.md)
-_Context: Efkan Ala, Islamic State of Iraq and the Levant, Kurdistan Workers' Party, Suleyman Soylu, Turkish interior ministry_
+_Context: Efkan Ala, ISIL, Kurdistan Workers' Party, Suleyman Soylu, Turkish interior ministry_
 
 ### [The population of African elephants have fallen by about 30% between 2007 and 2014. ](/news/2016/08/31/the-population-of-african-elephants-have-fallen-by-about-30-between-2007-and-2014.md)
 An unprecedented census gives a sobering baseline for managing what’s left of Africa’s elephants.

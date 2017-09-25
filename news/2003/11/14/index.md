@@ -28,7 +28,7 @@ _Context: Japanese economy_
 _Context: UN, War on Terrorism, al-Qaeda_
 
 ### [ Politics of Germany: German opposition party CDU votes to expel Member of Parliament Martin Hohmann after he made a speech that was widely criticised for being anti-Semitic.](/news/2003/11/14/politics-of-germany-german-opposition-party-cdu-votes-to-expel-member-of-parliament-martin-hohmann-after-he-made-a-speech-that-was-widely.md)
-_Context: Bundestag, CDU, Martin Hohmann, Politics of Germany, anti-Semitism_
+_Context: Bundestag, Christian Democratic Union, Martin Hohmann, Politics of Germany, anti-Semitism_
 
 ### [ India and the People's Republic of China hold joint naval exercises near Shanghai.](/news/2003/11/14/india-and-the-people-s-republic-of-china-hold-joint-naval-exercises-near-shanghai.md)
 ## [Previous Day...](/news/2003/11/13/index.md)

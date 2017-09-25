@@ -13,7 +13,7 @@ Rupert Murdoch is set to achieve his decades-long dream of owning the Wall Stree
 _Context: Alexandria, Archaeologist, Rhakotis_
 
 ### [ Retired United States Army Lieutenant-General Philip Kensinger is censured by the Army over his role in the series of errors following the death of Ranger Pat Tillman in 2004. ](/news/2007/07/31/retired-united-states-army-lieutenant-general-philip-kensinger-is-censured-by-the-army-over-his-role-in-the-series-of-errors-following-the.md)
-_Context: Lieutenant General, Pat Tillman, Philip Kensinger, Ranger, U.S. soldiers_
+_Context: Pat Tillman, Philip Kensinger, Ranger, U.S. soldiers, lieutenant general_
 
 ### [ The United Nations Security Council authorises up to 26,000 troops and soldiers being sent to the Darfur region of Sudan (United Nations African Union Mission in Darfur or UNAMID). ](/news/2007/07/31/the-united-nations-security-council-authorises-up-to-26-000-troops-and-soldiers-being-sent-to-the-darfur-region-of-sudan-united-nations-af.md)
 _Context: Darfur, Sudan, UNAMID, United Nations African Union Mission in Darfur, United Nations Security Council_

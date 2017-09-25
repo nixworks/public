@@ -10,7 +10,7 @@ Tropical Storm Lee spawned tornado sightings and alerts from the Louisiana Gulf 
 _Context: Texas, Wildfire_
 
 ### [Voters in the German state of Mecklenburg-Vorpommern go to the polls for a state election with the Social Democrats and Greens performing well and the Christian Democrats and Free Democrats performing poorly. ](/news/2011/09/4/voters-in-the-german-state-of-mecklenburg-vorpommern-go-to-the-polls-for-a-state-election-with-the-social-democrats-and-greens-performing-we.md)
-_Context: CDU, Free Democrats, German, Greens, Landtag of Mecklenburg-Vorpommern, SPD, state election_
+_Context: Christian Democratic Union, Free Democrats, German, Greens, Landtag of Mecklenburg-Vorpommern, SPD, state election_
 
 ## [Previous Day...](/news/2011/09/3/index.md)
 

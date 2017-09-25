@@ -19,7 +19,7 @@ _Context: Conflict in Iraq, Mosul, Shia, suicide bomb_
 _Context: Agent Orange, Vietnam, Vietnam War_
 
 ### [ Lebanese President mile Lahoud, reappoints Omar Karami as Prime Minister of Lebanon and asks him to form a new government, less than two weeks after Karami resigned in the face of anti-Syrian protests. ](/news/2005/03/10/lebanese-president-emile-lahoud-reappoints-omar-karami-as-prime-minister-of-lebanon-and-asks-him-to-form-a-new-government-less-than-two-w.md)
-_Context: Emile Lahoud, Lebanese President, Lebanon, Omar Karami, Prime Minister, Syria_
+_Context: Lebanese President, Lebanon, Omar Karami, Prime Minister, Syria, mile Lahoud_
 
 ### [ Israeli troops kill Mohammed Abu Hazneh, a member of Palestinian Islamic Jihad and an alleged plotter of the recent Tel Aviv "Stage" nightclub suicide bombing. After he killed a K9 dog, the troops bulldozed his house, crushing him to death. ](/news/2005/03/10/israeli-troops-kill-mohammed-abu-hazneh-a-member-of-palestinian-islamic-jihad-and-an-alleged-plotter-of-the-recent-tel-aviv-stage-nightc.md)
 _Context: Israel, K9, Palestinian Islamic Jihad, Tel Aviv, bulldozed_

@@ -1,7 +1,7 @@
 ## [2015-10-2](/news/2015/10/2/index.md)
 
 ### [The Russian Government says Russian jets bombed Syria for the third consecutive day, hitting 12 Islamic State of Iraq and the Levant (ISIL) targets. The UK-based Syrian Observatory for Human Rights reports that ISIL has no presence in the western and northern areas struck though Al-Qaeda's Syrian affiliate al-Nusra Front does. Russian planes also bombed Raqqah, the unofficial capital of ISIL. ](/news/2015/10/2/the-russian-government-says-russian-jets-bombed-syria-for-the-third-consecutive-day-hitting-12-islamic-state-of-iraq-and-the-levant-isil.md)
-_Context: Islamic State of Iraq and the Levant, Raqqah, Russian Air Force, Russian Government, Russian intervention in the Syrian Civil War, Syria, Syrian Civil War, Syrian Observatory for Human Rights, al-Nusra, al-Qaeda_
+_Context: ISIL, Raqqah, Russian Air Force, Russian Government, Russian intervention in the Syrian Civil War, Syria, Syrian Civil War, Syrian Observatory for Human Rights, al-Nusra, al-Qaeda_
 
 ### [At least 17 PKK militants are reportedly killed following a Turkish military operation in the Kurdish-majority city of Silvan. ](/news/2015/10/2/at-least-17-pkk-militants-are-reportedly-killed-following-a-turkish-military-operation-in-the-kurdish-majority-city-of-silvan.md)
 At least 17 members of the Kurdistan Workers Party (PKK) have been killed in a Turkish military assault on the city of Silvan, which has a mainly Kurdish population, reports say.

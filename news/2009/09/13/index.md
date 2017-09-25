@@ -19,7 +19,7 @@ _Context: Kampala, Uganda_
 _Context: Brazil, G8 group of nations, Luiz Incio Lula da Silva, President_
 
 ### [ German Chancellor Angela Merkel appears with her main rival, Frank-Walter Steinmeier, in a TV debate, two weeks ahead of an election. ](/news/2009/09/13/german-chancellor-angela-merkel-appears-with-her-main-rival-frank-walter-steinmeier-in-a-tv-debate-two-weeks-ahead-of-an-election.md)
-_Context: Angela Merkel, Frank-Walter Steinmeier, German Chancellor_
+_Context: Angela Merkel, Chancellor, Frank-Walter Steinmeier_
 
 ### [ Saudi Arabia's veteran foreign minister Prince Saud al-Faisal undergoes successful spine surgery in the United States. ](/news/2009/09/13/saudi-arabia-s-veteran-foreign-minister-prince-saud-al-faisal-undergoes-successful-spine-surgery-in-the-united-states.md)
 _Context: Prince Saud al-Faisal, Saudi Arabia, U.S._

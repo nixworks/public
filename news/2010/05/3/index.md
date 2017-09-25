@@ -10,7 +10,7 @@ _Context: Continental Airlines, U.S., United Airlines_
 _Context: Darfur, Justice and Equality Movement, Sudanese government, conflict_
 
 ### [The death toll reaches 28 as flooding from weekend storms worsens in southern US towns and cities, including Nashville in Middle Tennessee, and parts of Kentucky, Alabama and Mississippi. ](/news/2010/05/3/the-death-toll-reaches-28-as-flooding-from-weekend-storms-worsens-in-southern-us-towns-and-cities-including-nashville-in-middle-tennessee.md)
-_Context: Alabama, Kentucky, Middle, Mississippi, Nashville, Tennessee_
+_Context: Alabama, Kentucky, Middle, Mississippi, Nashville, Tennessee, Tennessee_
 
 ### [Thai Prime Minister Abhisit Vejjajiva proposes to hold elections on 14 November to end the political crisis in the country. ](/news/2010/05/3/thai-prime-minister-abhisit-vejjajiva-proposes-to-hold-elections-on-14-november-to-end-the-political-crisis-in-the-country.md)
 _Context: Abhisit Vejjajiva, Thailand, political crisis_

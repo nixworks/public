@@ -1,22 +1,22 @@
 ## [2007-11-25](/news/2007/11/25/index.md)
 
 ### [ At least eight football fans die when part of the Fonte Nova stadium in Salvador de Bahia, Brazil, collapses. ](/news/2007/11/25/at-least-eight-football-fans-die-when-part-of-the-fonte-nova-stadium-in-salvador-de-bahia-brazil-collapses.md)
-_Context: Brazil, Fonte Nova, Salvador de Bahia, footballer, stadium_
+_Context: Brazil, Fonte Nova, Salvador de Bahia, footballer_
 
 ### [ Riots break out in the Villiers-le-Bel and Arnouville suburbs of Paris, France, after a car accident between a police car and a motorbike kills two teenagers. ](/news/2007/11/25/riots-break-out-in-the-villiers-le-bel-and-arnouville-suburbs-of-paris-france-after-a-car-accident-between-a-police-car-and-a-motorbike-k.md)
-_Context: Arnouville, France, Paris, Villiers-le-Bel, car accident, motorbike, police car, riot, suburb, teenager_
+_Context: Arnouville, Villiers-le-Bel_
 
 ### [ Syria accepts a United States invitation to participate in the 2007 Mideast peace conference. ](/news/2007/11/25/syria-accepts-a-united-states-invitation-to-participate-in-the-2007-mideast-peace-conference.md)
-_Context: 2007 Mideast peace conference, Syria, U.S._
+_Context: 2007 Mideast peace conference, Syria_
 
 ### [ Croatia's opposition Social Democrats take a narrow lead on in a close national election, according to exit polls, after a campaign fought over corruption, the economy and future European Union membership. ](/news/2007/11/25/croatia-s-opposition-social-democrats-take-a-narrow-lead-on-in-a-close-national-election-according-to-exit-polls-after-a-campaign-fought.md)
 _Context: Croatia, EU, Social Democrats, in a close national election_
 
 ### [ A wildfire in Malibu, California, destroys 51 structures, including 49 homes. The fire has also burned 4,720 acres (1,910 hectares) and caused the evacuation of 10,000 people. It is currently 40% contained, being fueled by Santa Ana winds that gusted up to 60 mph (96 km/h) on November 24. ](/news/2007/11/25/a-wildfire-in-malibu-california-destroys-51-structures-including-49-homes-the-fire-has-also-burned-4-720-acres-1-910-hectares-and-cau.md)
-_Context: California, Malibu, Santa Ana winds, wildfire_
+_Context: Malibu, California, Santa Ana winds, wildfire_
 
 ### [ Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md)
-_Context: Garry Kasparov, Russia_
+_Context: Garry Kasparov_
 
 ### [ Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md)
 Officials in the Philippines say seven people have been killed in two provinces in flooding ahead of typhoon Mitag.
@@ -25,7 +25,7 @@ Officials in the Philippines say seven people have been killed in two provinces 
 _Context: ASEAN, Bon Om Thook, Cambodia, Phnom Penh, Singapore, Tonl Sap, dragon boat_
 
 ### [ Former Pakistan Prime Minister Nawaz Sharif arrives at Lahore Airport with his family members.date=December 2007 At least 1800 supporters of PML-N are detained in Punjab ahead of Nawaz Sharif's return from exile.date=December 2007 ](/news/2007/11/25/former-pakistan-prime-minister-nawaz-sharif-arrives-at-lahore-airport-with-his-family-members-date-december-2007-at-least-1800-supporters-o.md)
-_Context: Exile, Lahore, Nawaz Sharif, Pakistan, Prime Minister, Punjab, airport_
+_Context: Lahore Airport, Nawaz Sharif, Pakistan, Prime Minister, Punjab_
 
 ### [ President of Georgia Mikheil Saakashvili resigns his position to re-run for the early presidential election scheduled in January 2008. ](/news/2007/11/25/president-of-georgia-mikheil-saakashvili-resigns-his-position-to-re-run-for-the-early-presidential-election-scheduled-in-january-2008.md)
 _Context: Georgian presidential election, 2008, President of Georgia, Saakashvili_

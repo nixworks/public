@@ -7,7 +7,7 @@ U.S. congressional negotiators on Wednesday reached a deal on $789 billion in em
 The number of connections on mobile phone networks has crossed the 4 billion mark worldwide, industry association GSMA said on Wednesday, forecasting further growth to 6 billion by 2013.
 
 ### [ Azerbaijan Air Force Lieutenant General Rail Rzayev is killed in Baku. ](/news/2009/02/11/azerbaijan-air-force-lieutenant-general-rail-rzayev-is-killed-in-baku.md)
-_Context: Air Force, Azerbaijan, Baku, Lieutenant General, Rail Rzayev_
+_Context: Air Force, Azerbaijan, Baku, Rail Rzayev, lieutenant general_
 
 ### [ Palestinian militants launch four mortar shells and one Qassam rocket from the Gaza Strip into Israel. ](/news/2009/02/11/palestinian-militants-launch-four-mortar-shells-and-one-qassam-rocket-from-the-gaza-strip-into-israel.md)
 _Context: Gaza, Israel, Mortar, Palestinian, Qassam rocket, militant, negotiate_

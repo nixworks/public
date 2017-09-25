@@ -13,7 +13,7 @@ _Context: Morgan Tsvangirai, Movement for Democratic Change, Zimbabwe_
 _Context: British House of Commons, Leader of the House of Commons, Nigel Griffiths, Trident nuclear missile system, United Kingdom_
 
 ### [ Lieutenant General Kevin Kiley resigns as the Surgeon General of the United States Army over the Walter Reed Medical Center scandal. ](/news/2007/03/12/lieutenant-general-kevin-kiley-resigns-as-the-surgeon-general-of-the-united-states-army-over-the-walter-reed-medical-center-scandal.md)
-_Context: Kevin Kiley, Lieutenant General, Surgeon General of the United States Army, poor conditions for veterans_
+_Context: Kevin Kiley, Surgeon General of the United States Army, lieutenant general, poor conditions for veterans_
 
 ### [ Asanbekov Sarybayev, the Deputy Culture Minister of the Government of Kyrgyzstan, resigns and joins the United Front For A Worthy Future For Kyrgyzstan opposition coalition. The United Front says it will hold protests in Bishkek in April against the Constitution and in favor of early presidential elections. ](/news/2007/03/12/asanbekov-sarybayev-the-deputy-culture-minister-of-the-government-of-kyrgyzstan-resigns-and-joins-the-united-front-for-a-worthy-future-fo.md)
 _Context: Asanbekov Sarybayev, Bishkek, Government of Kyrgyzstan, United Front For A Worthy Future For Kyrgyzstan, constitution_
