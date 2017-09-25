@@ -26,13 +26,16 @@ Iranian forces have launched war games in an area near the border with Iraq&#039
 ### [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md)
 A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir
 
+### [North Korea declares war against the United States following the recent flight of American aircraft off the coast of North Korea. ](/news/2017/09/24/north-korea-declares-war-against-the-united-states-following-the-recent-flight-of-american-aircraft-off-the-coast-of-north-korea.md)
+_Context: 2017 North Korea crisis, North Korea, United States_
+
 ### [The Iraqi government discourages foreign countries from importing crude oil directly from its Iraqi Kurdistan region. ](/news/2017/09/24/the-iraqi-government-discourages-foreign-countries-from-importing-crude-oil-directly-from-its-iraqi-kurdistan-region.md)
 Iraq on Sunday urged foreign countries to stop importing crude directly from its autonomous Kurdistan region and to restrict oil trading to the central government.
 
 ### [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md)
 The Trump administration issued an updated travel ban with fresh restrictions on who can enter the U.S., targeting eight countries.
 
-### [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured, including the shooter. The Black shooter will not face hate-crime charges despite his ties to black power groups. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-including-the-shooter-the-black-shooter-will-not-face-ha.md)
+### [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured, including the shooter. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-including-the-shooter.md)
 A woman was killed and at least six people suffered gunshot wounds when a man opened fire at a Tennessee church on Sunday morning before shooting himself as one of the worshipers confronted him with a firearm, officials said.
 
 ### [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md)
