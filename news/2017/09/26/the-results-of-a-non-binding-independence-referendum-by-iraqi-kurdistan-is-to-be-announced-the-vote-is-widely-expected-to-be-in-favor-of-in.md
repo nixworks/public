@@ -1,6 +1,6 @@
 ### [2017-09-26](/news/2017/09/26/index.md)
 
-# The results of a non-binding independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. Iran and Turkey have vowed that there may be violence if the result was independence. 
+# The results of a non-binding independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. Iran and Turkey have vowed that there may be military aggression if the result was independence. 
 
 Turkey and Iran, traditional foes, have established common ground in Iraq, Syria and Qatar as regional alliances shift.
 
