@@ -1,6 +1,6 @@
 ## [2017-09-18](/news/2017/09/18/index.md)
 
-### [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md)
+### [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya militants as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-militants-as-well-as-perceived-fo.md)
 _Context: Myanmar, Northern Rakhine State clashes, Rohingya, Yangon_
 
 ### [Toys "R" Us files for Chapter 11 bankruptcy protection in the United States, and also files for bankruptcy in Canada, as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy-protection-in-the-united-states-and-also-files-for-bankruptcy-in-canada-as-it-attempts-to-rest.md)

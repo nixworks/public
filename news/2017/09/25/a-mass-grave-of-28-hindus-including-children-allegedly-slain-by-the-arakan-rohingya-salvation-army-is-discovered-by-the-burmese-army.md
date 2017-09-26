@@ -12,4 +12,4 @@
 ### Related:
 
 1. [The Arakan Rohingya Salvation Army declares a unilateral ceasefire to allow humanitarian groups to facilitate aid for Rohingya refugees. ](/news/2017/09/9/the-arakan-rohingya-salvation-army-declares-a-unilateral-ceasefire-to-allow-humanitarian-groups-to-facilitate-aid-for-rohingya-refugees.md) _Context: Arakan Rohingya Salvation Army_
-2. [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md) _Context: Northern Rakhine State clashes_
+2. [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya militants as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-militants-as-well-as-perceived-fo.md) _Context: Northern Rakhine State clashes_

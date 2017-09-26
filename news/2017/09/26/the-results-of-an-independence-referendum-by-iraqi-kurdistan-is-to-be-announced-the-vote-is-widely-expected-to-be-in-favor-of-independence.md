@@ -7,8 +7,8 @@ Turkey and Iran, traditional foes, have established common ground in Iraq, Syria
 
 ### Source:
 
-1. [Newsweek](http://www.newsweek.com/middle-east-rivals-iran-turkey-war-iraq-peace-syria-670759)
-2. [al-Jazeera](http://www.aljazeera.com/news/2017/09/iraqi-kurds-count-independence-referendum-170925174221276.html)
+1. [Al-Jazeera](http://www.aljazeera.com/news/2017/09/iraqi-kurds-count-independence-referendum-170925174221276.html)
+2. [Newsweek](http://www.newsweek.com/middle-east-rivals-iran-turkey-war-iraq-peace-syria-670759)
 2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2017/09/25/gettyimages-521522012_0.jpg)
 
 ### Related:
