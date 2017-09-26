@@ -23,9 +23,6 @@ _Context: Arakan Rohingya Salvation Army, Northern Rakhine State clashes_
 ### [North Korea says that the recent flight of U.S. aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-recent-flight-of-u-s-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md)
 Foreign minister Ri Yong-ho says the country has the right to shoot down US bombers.
 
-### [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md)
-_Context: Benin City, Nigeria, Ogba Zoo_
-
 ### [The first ever female United States Marine Corps Infantry officer graduates. ](/news/2017/09/25/the-first-ever-female-united-states-marine-corps-infantry-officer-graduates.md)
 The 13-week program is considered one of the toughest in the U.S. military, and one-third of the class dropped out before graduation. The lieutenant has asked to keep her identity private.
 
@@ -35,6 +32,9 @@ The service will provide news, sport, business and culture through a website and
 ### [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md)
 _Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Rican, United States federal government, island_
 
+### [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md)
+_Context: Benin City, Crime in Nigeria, Nigeria, Ogba Zoo_
+
 ### [Russian police arrest a couple from the southern Krasnodar region that has allegedly murdered as many as 30 people since 1999 and consumed parts of the human bodies. ](/news/2017/09/25/russian-police-arrest-a-couple-from-the-southern-krasnodar-region-that-has-allegedly-murdered-as-many-as-30-people-since-1999-and-consumed-p.md)
 A Russian couple was arrested after the police found they allegedly murdered up to 30 people and consumed parts of the bodies.
 
@@ -42,12 +42,12 @@ A Russian couple was arrested after the police found they allegedly murdered up 
 The US and Britain are both opposed to the &quot;destabilising&quot; vote, arguing it distracts from the fight against Islamic State,
 
 ### [The Prime Minister of Japan Shinzo Abe calls a snap election with the election to be held on October 22. ](/news/2017/09/25/the-prime-minister-of-japan-shinza-abe-calls-a-snap-election-with-the-election-to-be-held-on-october-22.md)
-_Context: Next Japanese general election, Prime Minister of Japan, Shinzo Abe_
+_Context: Japanese general election, 2017, Prime Minister of Japan, Shinzo Abe_
 
 ### [Frauke Petry resigns as leader of the far right Alternative for Germany (AfD), a day after the party won seats in the Bundestag for the first time, saying the party has become too "anarchical" and "could not offer a credible platform". ](/news/2017/09/25/frauke-petry-resigns-as-leader-of-the-far-right-alternative-for-germany-afd-a-day-after-the-party-won-seats-in-the-bundestag-for-the-firs.md)
 Frauke Petry ‘drops bomb’ on rightwing nationalist party by announcing she will instead serve as independent MP
 
-### [United States Senator Susan Collins says she will vote "no" on the Graham-Cassidy bill joining Senators John McCain and Rand Paul and possibly ending the most recent effort to repeal Obamacare. ](/news/2017/09/25/united-states-senator-susan-collins-says-she-will-vote-no-on-the-graham-cassidy-bill-joining-senators-john-mccain-and-rand-paul-and-possib.md)
+### [United States Senator Susan Collins says she will vote "no" on the Graham-Cassidy bill joining Senators John McCain and Rand Paul and possibly ending the most recent effort to repeal Obamacare. ](/news/2017/09/25/united-states-senator-susan-collins-says-she-will-vote-no-on-the-grahamacassidy-bill-joining-senators-john-mccain-and-rand-paul-and-poss.md)
 A last-ditch ObamaCare repeal effort by Republicans was all but dead on Monday after Sen. Susan Collins became the third Republican to oppose the measure.
 
 ### [At the International Astronautical Congress in Adelaide, the Government of Australia announces that it will create an Australian space agency. ](/news/2017/09/25/at-the-international-astronautical-congress-in-adelaide-the-government-of-australia-announces-that-it-will-create-an-australian-space-agenc.md)
@@ -57,13 +57,10 @@ The federal government has announced the creation of a National Space Agency.
 
 ## [Day Before Yesterday](/news/2017/09/24/index.md)
 
-### [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md)
-Iranian forces have launched war games in an area near the border with Iraq&#039;s Kurdistan region, Iran&#039;s state media reported on Sunday.
-
 ### [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md)
 A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir
 
-### [The Iraqi government discourages foreign countries from importing crude oil directly from its Iraqi Kurdistan region. ](/news/2017/09/24/the-iraqi-government-discourages-foreign-countries-from-importing-crude-oil-directly-from-its-iraqi-kurdistan-region.md)
+### [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md)
 Iraq on Sunday urged foreign countries to stop importing crude directly from its autonomous Kurdistan region and to restrict oil trading to the central government.
 
 ### [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md)
