@@ -13,7 +13,7 @@ The 13-week program is considered one of the toughest in the U.S. military, and 
 The service will provide news, sport, business and culture through a website and radio broadcasts.
 
 ### [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md)
-_Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Rican, United States federal government, island_
+_Context: 2017 Atlantic hurricane season, Hurricane Maria, United States federal government, island_
 
 ### [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md)
 _Context: Benin City, Crime in Nigeria, Nigeria, Ogba Zoo_
