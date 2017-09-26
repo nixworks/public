@@ -6,5 +6,8 @@ A Palestinian gunman killed three Israeli guards and wounded a fourth in an atta
 ### [The results of a non-binding independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. Iran and Turkey have vowed that there may be violence if the result was independence. ](/news/2017/09/26/the-results-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-the-vote-is-widely-expected-to-be-in-favor-of-in.md)
 Turkey and Iran, traditional foes, have established common ground in Iraq, Syria and Qatar as regional alliances shift.
 
+### [Justice Roy Moore and U.S. senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. ](/news/2017/09/26/justice-roy-moore-and-u-s-senator-luther-strange-face-off-in-alabamaas-special-election-in-what-political-analysts-claim-is-a-deepening-r.md)
+Why is Donald Trump backing an establishment favourite against an anti-establishment judge?
+
 ## [Previous Day...](/news/2017/09/25/index.md)
 
