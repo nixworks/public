@@ -1,6 +1,6 @@
 ### [2017-09-25](/news/2017/09/25/index.md)
 
-# United States Senator Susan Collins says she will vote "no" on the Graham-Cassidy bill joining Senators John McCain and Rand Paul and possibly ending the ongoing efforts to repeal Obamacare. 
+# United States Senator Susan Collins says she will vote "no" on the Graham-Cassidy bill joining Senators John McCain and Rand Paul and possibly ending the most recent effort to repeal Obamacare. 
 
 A last-ditch ObamaCare repeal effort by Republicans was all but dead on Monday after Sen. Susan Collins became the third Republican to oppose the measure.
 
