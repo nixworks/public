@@ -9,6 +9,9 @@ Turkey and Iran, traditional foes, have established common ground in Iraq, Syria
 ### [Justice Roy Moore and U.S. senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. ](/news/2017/09/26/justice-roy-moore-and-u-s-senator-luther-strange-face-off-in-alabamaas-special-election-in-what-political-analysts-claim-is-a-deepening-r.md)
 Why is Donald Trump backing an establishment favourite against an anti-establishment judge?
 
+### [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolai Merkushkin the day before. The dismissals come amid speculation that governors of several federal subjects will resign in anticipation of presidential elections in 2018. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md)
+_Context: Nizhny Novgorod Oblast, Politics of Russia, Russian President, Samara Oblast, Valery Shantsev, Vladimir Putin, federal subjects, presidential elections_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
