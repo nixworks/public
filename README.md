@@ -1,6 +1,6 @@
 ## [News](/news/2017/09/26/index.md)
 
-### [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to Jewish settlement Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-jewish-settlement-har-adar-in-the.md)
+### [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Jewish settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-jewish-settlement-of-har-adar.md)
 A Palestinian gunman killed three Israeli guards and wounded a fourth in an attack on a Jewish settlement in the occupied West Bank on Tuesday before he was shot dead, a police spokeswoman said.
 
 ### [The results of a non-binding independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. Iran and Turkey have vowed that there may be military aggression if the result was independence. ](/news/2017/09/26/the-results-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-the-vote-is-widely-expected-to-be-in-favor-of-in.md)
