@@ -3,13 +3,16 @@
 ### [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Jewish settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-jewish-settlement-of-har-adar.md)
 A Palestinian gunman killed three Israeli guards and wounded a fourth in an attack on a Jewish settlement in the occupied West Bank on Tuesday before he was shot dead, a police spokeswoman said.
 
+### [United States President Donald Trump says he will visit Puerto Rico next week. ](/news/2017/09/26/united-states-president-donald-trump-says-he-will-visit-puerto-rico-next-week.md)
+The president says the earliest he can travel to the hurricane-ravaged U.S. territory is next Tuesday.
+
 ### [ The office of the United States Attorney for the Southern District of New York announces that 10 individuals, including assistant coaches at four NCAA Division I men's basketball programs--Arizona, Auburn, Oklahoma State, and USC--have been arrested on federal corruption charges. The accused are alleged to be part of a scheme, by which coaches accepted bribes to steer NBA-bound college players toward certain agents and financial advisers. Court documents also allege that an apparel company paid $100,000 to the family of an unnamed player to ensure his signing with a Kentucky school that sources identified as the University of Louisville. ](/news/2017/09/26/the-office-of-the-united-states-attorney-for-the-southern-district-of-new-york-announces-that-10-individuals-including-assistant-coaches-a.md)
 Federal prosecutors have announced charges of fraud and corruption in college basketball. Among those arrested and charged are four assistant coaches at Auburn, Arizona, Oklahoma State and USC.
 
 ### [Women in Saudi Arabia will be able to drive from June next year. ](/news/2017/09/26/women-in-saudi-arabia-will-be-able-to-drive-from-june-next-year.md)
 Women in Saudi Arabia will be allowed to drive, the government announced on Tuesday - ending their reign as the only nation in the world where women were forbidden from getting behind the wheel of a car. The news was announced on state television and in a simultaneous media event in Washington, high...
 
-### [The results of a non-binding independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. Iran and Turkey have vowed that there may be military aggression if the result was independence. ](/news/2017/09/26/the-results-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-the-vote-is-widely-expected-to-be-in-favor-of-in.md)
+### [The result of a non-binding independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. Iran and Turkey have vowed that there may be military aggression if the result was independence. ](/news/2017/09/26/the-result-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-the-vote-is-widely-expected-to-be-in-favor-of-ind.md)
 Turkey and Iran, traditional foes, have established common ground in Iraq, Syria and Qatar as regional alliances shift.
 
 ### [Justice Roy Moore and U.S. Senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. ](/news/2017/09/26/justice-roy-moore-and-u-s-senator-luther-strange-face-off-in-alabamaas-special-election-in-what-political-analysts-claim-is-a-deepening-r.md)
@@ -42,7 +45,7 @@ The 13-week program is considered one of the toughest in the U.S. military, and 
 The service will provide news, sport, business and culture through a website and radio broadcasts.
 
 ### [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md)
-_Context: 2017 Atlantic hurricane season, Hurricane Maria, United States federal government, island_
+_Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Rico, United States federal government_
 
 ### [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md)
 _Context: Benin City, Crime in Nigeria, Nigeria, Ogba Zoo_
