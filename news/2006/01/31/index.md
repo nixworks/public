@@ -23,7 +23,7 @@ _Context: 78th Academy Awards, Beverly Hills, California, Mira Sorvino, Sid Gani
 Coretta Scott King, who turned a life shattered by her husband&#8217;s assassination into one devoted to enshrining his legacy of human rights and equality, has died. She was 78.
 
 ### [ A former US Marine, Jim Massey, has claimed on the Irish radio station Live 95FM that the US military has been illegally shipping depleted uranium through Shannon Airport for use in Iraq. ](/news/2006/01/31/a-former-us-marine-jim-massey-has-claimed-on-the-irish-radio-station-live-95fm-that-the-us-military-has-been-illegally-shipping-depleted.md)
-_Context: Iraq, Irish radio, Live 95FM, Marines, Shannon Airport, depleted uranium_
+_Context: Iraq, Irish radio, Live 95FM, Shannon Airport, United States Marine Corps, depleted uranium_
 
 ### [ U.S. oil company ExxonMobil announced profits for 2005 of $36.1 billion, a record amount in US corporate history. In anticipation of a public backlash, the company simultaneously posted newspaper advertisements in the US to explain its success. ](/news/2006/01/31/u-s-oil-company-exxonmobil-announced-profits-for-2005-of-36-1-billion-a-record-amount-in-us-corporate-history-in-anticipation-of-a-publ.md)
 _Context: ExxonMobil Corporation_

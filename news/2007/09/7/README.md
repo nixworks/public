@@ -22,7 +22,7 @@ _Context: Naval Air Station Oceana, Virginia Beach, World War II, stunt plane_
 _Context: Levy Mwanawasa, President, President of Zimbabwe, Robert Mugabe, Southern African Development Community_
 
 ### [ United States District Court judge Royce Lamberth orders Iran to pay $2.6 billion to victims and families in the 1983 Hezbollah bombing of a United States Marine Corps barracks in Lebanon that claimed 241 American lives. ](/news/2007/09/7/united-states-district-court-judge-royce-lamberth-orders-iran-to-pay-2-6-billion-to-victims-and-families-in-the-1983-hezbollah-bombing-of.md)
-_Context: Hezbollah, Iran, Lebanon, Marines, Royce Lamberth, U.S. District Court for the District of Columbia, US$, bomb_
+_Context: Hezbollah, Iran, Lebanon, Royce Lamberth, U.S. District Court for the District of Columbia, US$, United States Marine Corps, bomb_
 
 ### [ The Roman Catholic Diocese of San Diego agrees to pay $198.1 million to settle 144 claims of sexual abuse by clergy. ](/news/2007/09/7/the-roman-catholic-diocese-of-san-diego-agrees-to-pay-198-1-million-to-settle-144-claims-of-sexual-abuse-by-clergy.md)
 _Context: Roman Catholic Diocese of San Diego, US$, sexual abuse_
@@ -34,7 +34,7 @@ The number of people killed when Hurricane Felix tore into the border area betwe
 _Context: Polish, Sejm, parliamentary elections_
 
 ### [ Global Stock Markets fall sharply amid recession fears after the release of a report that shows a surprise decline of the US workforce in August, for the first time in four years. ](/news/2007/09/7/global-stock-markets-fall-sharply-amid-recession-fears-after-the-release-of-a-report-that-shows-a-surprise-decline-of-the-us-workforce-in-a.md)
-_Context: U.S., recession, stock market, workforce_
+_Context: United States, recession, stock market, workforce_
 
 ### [ The Indonesian Supreme Court rejects an appeal by Bali bomber Amrozi bin Nurhasyim. ](/news/2007/09/7/the-indonesian-supreme-court-rejects-an-appeal-by-bali-bomber-amrozi-bin-nurhasyim.md)
 _Context: Amrozi bin Nurhasyim, Bali bomber, Indonesia_
@@ -46,7 +46,7 @@ A U.S. federal judge on Friday refused to block the extradition of deposed Panam
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ The United States is investigating a video which it has obtained, to see if the claims that the man on it is Osama bin Laden are genuine. If they are found to be, it will have been the first time he has been seen since October 2004. ](/news/2007/09/7/the-united-states-is-investigating-a-video-which-it-has-obtained-to-see-if-the-claims-that-the-man-on-it-is-osama-bin-laden-are-genuine-i.md)
-_Context: Osama bin Laden, U.S., video_
+_Context: Osama bin Laden, United States, video_
 
 ### [ The BBC reports that investigations into a recent outbreak of foot and mouth disease has identified five breaches of biosecurity at the Pirbright site of the Institute for Animal Health. ](/news/2007/09/7/the-bbc-reports-that-investigations-into-a-recent-outbreak-of-foot-and-mouth-disease-has-identified-five-breaches-of-biosecurity-at-the-pir.md)
 _Context: BBC, Institute for Animal Health, Pirbright, biosecurity, foot-and-mouth disease_

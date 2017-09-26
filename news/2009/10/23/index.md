@@ -16,13 +16,13 @@ _Context: Ari Vatanen, Fdration Internationale de l'Automobile, Jean Todt, Max M
 New figures show the British economy shrank unexpectedly in the third quarter of this year, confirming it is still in recession.
 
 ### [ The Swiss Government says that the United States has formally requested the extradition of film director Roman Polanski for having unlawful sex with an underage girl in 1977. ](/news/2009/10/23/the-swiss-government-says-that-the-united-states-has-formally-requested-the-extradition-of-film-director-roman-polanski-for-having-unlawful.md)
-_Context: 1977, Roman Polanski, Swiss Government, U.S., extradited, sexual intercourse_
+_Context: 1977, Roman Polanski, Swiss Government, United States, extradited, sexual intercourse_
 
 ### [ A huge explosion rips through an upmarket area of Peshawar in Pakistan. ](/news/2009/10/23/a-huge-explosion-rips-through-an-upmarket-area-of-peshawar-in-pakistan.md)
 _Context: Pakistan, Peshawar_
 
 ### [ A huge explosion occurs at an oil refinery in Catao, Puerto Rico. ](/news/2009/10/23/a-huge-explosion-occurs-at-an-oil-refinery-in-catano-puerto-rico.md)
-_Context: Catao, Puerto Rico, oil refinery fire, refinery_
+_Context: Catao, island, oil refinery fire, refinery_
 
 ### [ Vitit Muntarbhorn, United Nations Special Rapporteur for North Korea, says the country should improve its "abysmal" rights record, adding it should provide food to over 8 million citizens. ](/news/2009/10/23/vitit-muntarbhorn-united-nations-special-rapporteur-for-north-korea-says-the-country-should-improve-its-abysmal-rights-record-adding-i.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan

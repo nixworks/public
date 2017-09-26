@@ -10,13 +10,13 @@ Nearly all of anestimated 1,150 prisoners, including some 400 Taliban inmates,ha
 _Context: Movement for Democratic Change, Tendai Biti, Zimbabwe_
 
 ### [ Kim Jong-hoon, the South Korean Minister for Trade, heads to the United States to push for additional safeguards against mad cow disease in talks with Susan Schwab, the United States Trade Representative as protests continue in South Korea over the decision to resume importing beef from the United States. ](/news/2008/06/13/kim-jong-hoon-the-south-korean-minister-for-trade-heads-to-the-united-states-to-push-for-additional-safeguards-against-mad-cow-disease-in.md)
-_Context: South Korea, Susan Schwab, U.S., United States Trade Representative, beef, mad cow disease_
+_Context: South Korea, Susan Schwab, United States, United States Trade Representative, beef, mad cow disease_
 
 ### [ The Governor of Iowa Chet Culver declares that 83 of the 99 counties in Iowa are disaster areas as flooding leads to evacuations in Cedar Rapids and Des Moines. ](/news/2008/06/13/the-governor-of-iowa-chet-culver-declares-that-83-of-the-99-counties-in-iowa-are-disaster-areas-as-flooding-leads-to-evacuations-in-cedar-r.md)
 _Context: Cedar Rapids, Chet Culver, Des Moines, Iowa, Governor of Iowa, Iowa, federal disaster declaration_
 
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, states talks with the United States on a long-term security agreement have reached "a dead end". ](/news/2008/06/13/nouri-al-maliki-the-prime-minister-of-iraq-states-talks-with-the-united-states-on-a-long-term-security-agreement-have-reached-a-dead-end.md)
-_Context: Iraq Prime Minister, Nouri al-Maliki, U.S._
+_Context: Iraq Prime Minister, Nouri al-Maliki, United States_
 
 ### [ A hydrogen sulfide leak at a fertiliser plant in Kunming, capital of Yunnan Province in China, kills six people and injures 28. ](/news/2008/06/13/a-hydrogen-sulfide-leak-at-a-fertiliser-plant-in-kunming-capital-of-yunnan-province-in-china-kills-six-people-and-injures-28.md)
 A poisonous gas leak at a fertiliser plant in south-west China has killed six people and left 28 others ill, state media reported.

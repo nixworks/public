@@ -4,7 +4,7 @@
 A source in the Spanish government says ETA&#039;s military chief has been arrested by French police, marking the third suspected leader of the Basque separatist guerrillas to be captured in under six months.
 
 ### [ Canada's HMCS "Winnipeg" and the United States' USS "Halyburton" thwart Somali pirates' attack on a Norwegian oil tanker. ](/news/2009/04/18/canada-s-hmcs-winnipeg-and-the-united-states-uss-halyburton-thwart-somali-pirates-attack-on-a-norwegian-oil-tanker.md)
-_Context: Canada, HMCS ''Winnipeg'', Norway, Somali pirates, Somalia, U.S., USS ''Halyburton'', oil tanker_
+_Context: Canada, HMCS ''Winnipeg'', Norway, Somali pirates, Somalia, USS ''Halyburton'', United States, oil tanker_
 
 ### [ Iranian-American journalist Roxana Saberi is charged with espionage and imprisoned in Iran until 2017. ](/news/2009/04/18/iranian-american-journalist-roxana-saberi-is-charged-with-espionage-and-imprisoned-in-iran-until-2017.md)
 _Context: Iran, Iranian-American, Roxana Saberi, espionage, journalism_

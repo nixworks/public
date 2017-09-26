@@ -34,7 +34,7 @@ _Context: 2014 Venezuelan protests, Nicolas Maduro, United States-Venezuela rela
 _Context: United States Supreme Court_
 
 ### [A riot at the Australian Government's immigration detention facility on Manus Island in Papua New Guinea results in one death and 77 injuries. ](/news/2014/02/17/a-riot-at-the-australian-government-s-immigration-detention-facility-on-manus-island-in-papua-new-guinea-results-in-one-death-and-77-injurie.md)
-_Context: Australia's government, Manus Island, Papua New Guinea, immigration detention facility_
+_Context: Government of Australia, Manus Island, Papua New Guinea, immigration detention facility_
 
 ### [Mayor of Florence, Matteo Renzi, is given a mandate by Italian President Giorgio Napolitano to form a new government as Italy's prime minister-designate. ](/news/2014/02/17/mayor-of-florence-matteo-renzi-is-given-a-mandate-by-italian-president-giorgio-napolitano-to-form-a-new-government-as-italyas-prime-mini.md)
 _Context: Giorgio Napolitano, Italian President, Italian Prime Minister, Matteo Renzi, Mayor of Florence_

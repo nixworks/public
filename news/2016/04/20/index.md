@@ -37,7 +37,7 @@ _Context: Alaska, Anchorage Fire Department, Chugiak, Anchorage_
 A large explosion rocks an oil facility in the south-east Mexican state of Veracruz, killing three and injuring at least 136 people.
 
 ### [The Gulf Cooperation Council (GCC) and the United States agree to carry out joint naval patrols to prevent Iranian arms shipments reaching Yemen, the Gulf bloc's secretary general Abdullatif bin Rashid Al Zayani said on Wednesday, following a meeting with United States Secretary of Defense Ash Carter. Iran denies it supplies weapons to the Houthis in Yemen. ](/news/2016/04/20/the-gulf-cooperation-council-gcc-and-the-united-states-agree-to-carry-out-joint-naval-patrols-to-prevent-iranian-arms-shipments-reaching-y.md)
-_Context: Abdullatif bin Rashid Al Zayani, Ash Carter, Defense Secretary, Gulf Cooperation Council, Houthi, Iran, U.S., Yemen, Yemeni Crisis_
+_Context: Abdullatif bin Rashid Al Zayani, Ash Carter, Defense Secretary, Gulf Cooperation Council, Houthi, Iran, United States, Yemen, Yemeni Crisis_
 
 ### [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md)
 _Context: EU, European Council, European Parliament, Ukraine, Ukraine-European Union relations, member states_

@@ -1,7 +1,7 @@
 ## [2005-05-3](/news/2005/05/3/index.md)
 
 ### [ Two United States Marine Corps F/A-18 Hornet jets collide over Iraq while flying a mission in Iraq. The body of one of the pilots is later recovered and an ejected seat was found, but the second one is still missing. ](/news/2005/05/3/two-united-states-marine-corps-f-a-18-hornet-jets-collide-over-iraq-while-flying-a-mission-in-iraq-the-body-of-one-of-the-pilots-is-later.md)
-_Context: F/A-18 Hornet, Iraq, Marines_
+_Context: F/A-18 Hornet, Iraq, United States Marine Corps_
 
 ### [ India bans Monsanto Company genetically modified cotton seeds. ](/news/2005/05/3/india-bans-monsanto-company-genetically-modified-cotton-seeds.md)
 _Context: India, Monsanto Company, genetically modified_
@@ -25,7 +25,7 @@ _Context: Peru_
 _Context: Ali Mohammed Ghedi, Mogadishu, Somalia, grenade_
 
 ### [ Eight people are arrested in Senegal for an advance fee fraud e-mail scam that had fooled at least one American and one Norwegian victim. ](/news/2005/05/3/eight-people-are-arrested-in-senegal-for-an-advance-fee-fraud-e-mail-scam-that-had-fooled-at-least-one-american-and-one-norwegian-victim.md)
-_Context: Norway, Senegal, U.S., advance fee fraud_
+_Context: Norway, Senegal, United States, advance fee fraud_
 
 ## [Previous Day...](/news/2005/05/2/index.md)
 

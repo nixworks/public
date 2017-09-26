@@ -7,7 +7,7 @@ _Context: Microsoft, Microsoft Windows, Novell, Novell's SUSE Linux, operating s
 _Context: Bonaire, Curaao, Dutch municipalities, Kingdom of the Netherlands, Netherlands, Netherlands Antilles, Saba, Sint Eustatius, Sint Maarten, The Hague, associated state_
 
 ### [ The Rev. Ted Haggard resigns as head of the National Association of Evangelicals in the United States amidst allegations of a gay affair. ](/news/2006/11/2/the-rev-ted-haggard-resigns-as-head-of-the-national-association-of-evangelicals-in-the-united-states-amidst-allegations-of-a-gay-affair.md)
-_Context: National Association of Evangelicals, Ted Haggard, U.S._
+_Context: National Association of Evangelicals, Ted Haggard, United States_
 
 ### [ The journal "Science" publishes ](/news/2006/11/2/the-journal-science-publishes.md)
 _Context: Science_

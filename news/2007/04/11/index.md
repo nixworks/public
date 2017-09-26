@@ -1,7 +1,7 @@
 ## [2007-04-11](/news/2007/04/11/index.md)
 
 ### [ Trade officials from the United States, European Union, India and Brazil meet in New Delhi, India, to revive the World Trade Organization's Doha round of negotiations. ](/news/2007/04/11/trade-officials-from-the-united-states-european-union-india-and-brazil-meet-in-new-delhi-india-to-revive-the-world-trade-organization-s.md)
-_Context: Brazil, Doha round of negotiations, EU, India, New Delhi, U.S., World Trade Organization_
+_Context: Brazil, Doha round of negotiations, EU, India, New Delhi, United States, World Trade Organization_
 
 ### [ The United States Secretary of Defense Robert M. Gates meets with the Defense Ministers of the United Kingdom, Australia, Canada, the Netherlands and Denmark as well as officials from Estonia and Romania to discuss progress in Afghanistan in expectation of a Taliban offensive. Two Canadian soldiers are killed when a roadside bomb explodes. ](/news/2007/04/11/the-united-states-secretary-of-defense-robert-m-gates-meets-with-the-defense-ministers-of-the-united-kingdom-australia-canada-the-nethe.md)
 Critics of the Bush administration say that the focus on the Iraq war has jeopardized the early military victory in Afghanistan in 2001.
@@ -10,7 +10,7 @@ Critics of the Bush administration say that the focus on the Iraq war has jeopar
 _Context: George W. Bush, U.S. President, United States Senate, stem-cell research, veto_
 
 ### [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md)
-_Context: Afghanistan, Iraq, U.S., tour of duty_
+_Context: Afghanistan, Iraq, United States, tour of duty_
 
 ### [ Joseph Biden, chair of the United States Senate Foreign Relations Committee and a presidential candidate, calls for the use of military force in Darfur. ](/news/2007/04/11/joseph-biden-chair-of-the-united-states-senate-foreign-relations-committee-and-a-presidential-candidate-calls-for-the-use-of-military-for.md)
 _Context: 2008, Darfur conflict, Joseph Biden, United States Senate Foreign Relations Committee_
@@ -31,10 +31,10 @@ _Context: HD 209458 b, atmosphere, extrasolar planet, water vapor_
 _Context: Algeria, Algiers, recent bomb attacks_
 
 ### [ Russian deputy Prime Minister Sergei Ivanov says a U.S. war against Iran would lead to a catastrophe. ](/news/2007/04/11/russian-deputy-prime-minister-sergei-ivanov-says-a-u-s-war-against-iran-would-lead-to-a-catastrophe.md)
-_Context: Iran, Prime Minister, Russia, Sergei Ivanov, U.S., deputy_
+_Context: Iran, Prime Minister, Russia, Sergei Ivanov, United States, deputy_
 
 ### [ Macau's Monetary Authority says that holders of the North Korean accounts frozen at a bank by the United States can now withdraw or transfer their money. ](/news/2007/04/11/macau-s-monetary-authority-says-that-holders-of-the-north-korean-accounts-frozen-at-a-bank-by-the-united-states-can-now-withdraw-or-transfe.md)
-_Context: Macau, North Korea, U.S._
+_Context: Macau, North Korea, United States_
 
 ### [ North Korea claims that it can shut down its main nuclear reactor within a month. ](/news/2007/04/11/north-korea-claims-that-it-can-shut-down-its-main-nuclear-reactor-within-a-month.md)
 _Context: North Korea_

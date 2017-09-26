@@ -4,7 +4,7 @@
 _Context: CPU, Motorola, RF processing, analog signal processing, digital signal processing, satellite navigation, technology, ubiquitous computing_
 
 ### [ Cte d'Ivoire: Cte d'Ivoire rebel soldiers, still attempting to overthrow the government, have invested a compound containing over 100 American citizens and other foreigners. 200 United States Marines have entered the country.](/news/2002/09/24/cote-d-ivoire-cote-d-ivoire-rebel-soldiers-still-attempting-to-overthrow-the-government-have-invested-a-compound-containing-over-100-ame.md)
-_Context: Cte d'Ivoire, Marines_
+_Context: Cte d'Ivoire, United States Marine Corps_
 
 ## [Previous Day...](/news/2002/09/23/index.md)
 

@@ -7,7 +7,7 @@ _Context: Central Tibetan Administration, government in exile_
 The Fed approved a $30 billion loan for the takeover of Bear Stearns and announced a new lending tool for investment firms.
 
 ### [ The Australian Government announces that the wreck of the German auxiliary cruiser "Kormoran" has been found off the coast of Western Australia. The ship sank after a battle in 1941. ](/news/2008/03/16/the-australian-government-announces-that-the-wreck-of-the-german-auxiliary-cruiser-kormoran-has-been-found-off-the-coast-of-western-austr.md)
-_Context: Australia, Australia's government, German auxiliary cruiser ''Kormoran'', battle in 1941, been found_
+_Context: Australia, German auxiliary cruiser ''Kormoran'', Government of Australia, battle in 1941, been found_
 
 ### [ Data from the United Nations Environment Programme shows the 2006 global glacial shrinkage rate is more than double that of 2005. ](/news/2008/03/16/data-from-the-united-nations-environment-programme-shows-the-2006-global-glacial-shrinkage-rate-is-more-than-double-that-of-2005.md)
 _Context: 2006, Environment Programme, Retreat of glaciers since 1850, United Nations_
@@ -28,7 +28,7 @@ _Context: 2008 presidential election, Taiwan, rallies_
 _Context: Chandel, India, Indian Army, Manipur, Minou, United National Liberation Front_
 
 ### [ A missile strike on a building near Wana in South Waziristan, Pakistan kills at least 16 people. A local tribesman accuses the United States Army of being behind the attack. ](/news/2008/03/16/a-missile-strike-on-a-building-near-wana-in-south-waziristan-pakistan-kills-at-least-16-people-a-local-tribesman-accuses-the-united-state.md)
-_Context: Pakistan, South Waziristan, U.S., U.S. soldiers, Wana, rocket attacks, strike, tribe_
+_Context: Pakistan, South Waziristan, U.S. soldiers, United States, Wana, rocket attacks, strike, tribe_
 
 ### [ Scientists from Harvard Medical School announce a breakthrough technique that could stop cancer cells' growth by inhibiting the enzyme pyruvate kinase. ](/news/2008/03/16/scientists-from-harvard-medical-school-announce-a-breakthrough-technique-that-could-stop-cancer-cells-growth-by-inhibiting-the-enzyme-pyru.md)
 _Context: Harvard Medical School, cancer, enzyme, inhibiting, pyruvate kinase_
@@ -37,7 +37,7 @@ _Context: Harvard Medical School, cancer, enzyme, inhibiting, pyruvate kinase_
 _Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ### [ United States Senator and Republican candidate to the 2008 presidential election John McCain makes a surprise visit to Iraq. ](/news/2008/03/16/united-states-senator-and-republican-candidate-to-the-2008-presidential-election-john-mccain-makes-a-surprise-visit-to-iraq.md)
-_Context: 2008, Iraq, John McCain, Republican candidate, U.S., United States Senator_
+_Context: 2008, Iraq, John McCain, Republican candidate, United States, United States Senator_
 
 ### [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for EUR138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-a-138-million.md)
 _Context: Air France, Alitalia, EUR, Italy, KLM_

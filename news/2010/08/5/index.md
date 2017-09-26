@@ -124,7 +124,7 @@ _Context: 2010 Commonwealth Games, Anil Khanna, Delhi_
 Uruguay striker Diego Forlan attracts huge crowds in the Indian city of Calcutta.
 
 ### [In United States baseball, a group led by Nolan Ryan buys the Texas Rangers at a bankruptcy auction. ](/news/2010/08/5/in-united-states-baseball-a-group-led-by-nolan-ryan-buys-the-texas-rangers-at-a-bankruptcy-auction.md)
-_Context: Nolan Ryan, Texas Rangers, U.S., baseball game_
+_Context: Nolan Ryan, Texas Rangers, United States, baseball game_
 
 ## [Previous Day...](/news/2010/08/4/index.md)
 

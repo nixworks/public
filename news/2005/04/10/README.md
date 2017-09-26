@@ -16,7 +16,7 @@ _Context: FW de Klerk, New National Party, President, South Africa, political pa
 _Context: Al-Aqsa Mosque, Hamas, Israel, Ramallah, Sheikh Hassan Yousef, mosque_
 
 ### [ American spammer Jeremy Jaynes is sentenced for nine years in prison. The sentence is suspended until further appeals. ](/news/2005/04/10/american-spammer-jeremy-jaynes-is-sentenced-for-nine-years-in-prison-the-sentence-is-suspended-until-further-appeals.md)
-_Context: Jeremy Jaynes, U.S., spam_
+_Context: Jeremy Jaynes, United States, spam_
 
 ### [ A magnitude 6.1 earthquake strikes Tokyo. There are no reports of serious damages. ](/news/2005/04/10/a-magnitude-6-1-earthquake-strikes-tokyo-there-are-no-reports-of-serious-damages.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

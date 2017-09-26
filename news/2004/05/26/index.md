@@ -13,7 +13,7 @@ _Context: FBI, John Ashcroft, Robert Mueller, United States Attorney General, al
 _Context: Israel's secret nuclear program, Jerusalem, Peter Hounam_
 
 ### [ A man armed with a knife enters the mansion of Puerto Rican governor Sila Maria Calderon and takes a secretary hostage. Calderon negotiates with him for the hostage's release, and he is arrested soon after. ](/news/2004/05/26/a-man-armed-with-a-knife-enters-the-mansion-of-puerto-rican-governor-sila-maraa-caldera3n-and-takes-a-secretary-hostage-caldera3n-negotia.md)
-_Context: Puerto Rico, Sila Maria Calderon_
+_Context: Sila Maria Calderon, island_
 
 ### [ Football: FC Porto defeat AS Monaco FC 3-0 in the final of the UEFA Champions League ](/news/2004/05/26/football-fc-porto-defeat-as-monaco-fc-3a0-in-the-final-of-the-uefa-champions-league.md)
 _Context: AS Monaco FC, FC Porto, UEFA Champions League, footballer_

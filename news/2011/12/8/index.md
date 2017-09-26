@@ -25,10 +25,10 @@ Police tell people in Scotland not to travel, as severe winds of up to 165mph hi
 _Context: China, Filipino, Philippine President, Philippines, drug trafficking, his predecessor_
 
 ### [Russian Prime Minister Vladimir Putin accuses the United States of sponsoring the opposition in the country, following protests over the outcome of the recent elections. ](/news/2011/12/8/russian-prime-minister-vladimir-putin-accuses-the-united-states-of-sponsoring-the-opposition-in-the-country-following-protests-over-the-out.md)
-_Context: Russia, U.S., Vladimir Putin, parliamentary elections_
+_Context: Russia, United States, Vladimir Putin, parliamentary elections_
 
 ### [Iranian state television shows footage of a United States Lockheed Martin RQ-170 Sentinel drone that its forces claim to have shot down. ](/news/2011/12/8/iranian-state-television-shows-footage-of-a-united-states-lockheed-martin-rq-170-sentinel-drone-that-its-forces-claim-to-have-shot-down.md)
-_Context: Iran, Lockheed Martin RQ-170 Sentinel, U.S._
+_Context: Iran, Lockheed Martin RQ-170 Sentinel, United States_
 
 ### [The Government of Japan apologizes to Canada over the treatment of Canadian POWs during World War II. ](/news/2011/12/8/the-government-of-japan-apologizes-to-canada-over-the-treatment-of-canadian-pows-during-world-war-ii.md)
 _Context: Canada, Japan, POWs, World War II_

@@ -1,7 +1,7 @@
 ## [2004-10-12](/news/2004/10/12/index.md)
 
 ### [ Federal, state, and local officials in the US state of Nevada are gathering information regarding allegations that a private voter registration firm, Voters Outreach of America, destroyed registration forms collected from Democratic voters while submitting those collected from Republican voters. ](/news/2004/10/12/federal-state-and-local-officials-in-the-us-state-of-nevada-are-gathering-information-regarding-allegations-that-a-private-voter-registra.md)
-_Context: Democratic, Nevada, Republican, United States, Voters Outreach of America, state, voter registration_
+_Context: Democratic, Nevada, Republican, United States federal government, Voters Outreach of America, state, voter registration_
 
 ### [ Cambodia's legislature votes to allow a nine-member council to choose a successor to King Norodom Sihanouk. It is expected the council will choose Prince Norodom Sihamoni. ](/news/2004/10/12/cambodia-s-legislature-votes-to-allow-a-nine-member-council-to-choose-a-successor-to-king-norodom-sihanouk-it-is-expected-the-council-will.md)
 _Context: Cambodia, King Norodom Sihanouk, Norodom Sihamoni_

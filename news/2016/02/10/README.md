@@ -25,7 +25,7 @@ The Zika virus has been associated with a birth defect called microcephaly.
 Turkey and Greece have agreed to ask for a NATO mission to monitor refugee flows in the Aegean Sea and combat people smugglers, a senior German government official said late on Wednesday.
 
 ### [Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-considers-to-be-ter.md)
-_Context: President of Turkey, Recep Tayyip Erdogan, Rojava conflict, Syrian Kurdish groups, U.S., terrorism_
+_Context: President of Turkey, Recep Tayyip Erdogan, Rojava conflict, Syrian Kurdish groups, United States, terrorism_
 
 ### [A shootout in Abingdon, Maryland results in the deaths of two Harford County Sheriff's Office deputies and the suspected gunman. ](/news/2016/02/10/a-shootout-in-abingdon-maryland-results-in-the-deaths-of-two-harford-county-sheriff-s-office-deputies-and-the-suspected-gunman.md)
 _Context: Abingdon, Harford County Sheriff's Office, Maryland_

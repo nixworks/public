@@ -19,7 +19,7 @@ Bodies of three women, three men and seven children have been recovered from ben
 SABMiller agrees to Anheuser-Busch InBev latest takeover offer, creating a super brewery with sales of $55 billion, and marking the biggest beer deal ever. 
 
 ### [The Governor of the Japanese prefecture of Okinawa, Takeshi Onaga, revokes permission given by a predecessor for landfill work to replace a United States Marine Corps base. ](/news/2015/10/13/the-governor-of-the-japanese-prefecture-of-okinawa-takeshi-onaga-revokes-permission-given-by-a-predecessor-for-landfill-work-to-replace-a.md)
-_Context: Japan, Marines, Okinawa, Takeshi Onaga, relocate MCAS Futenma to Henoko Bay in Nago_
+_Context: Japan, Okinawa, Takeshi Onaga, United States Marine Corps, relocate MCAS Futenma to Henoko Bay in Nago_
 
 ### [Iran's Islamic Consultative Assembly approves the deal on its nuclear program agreed with six world powers. ](/news/2015/10/13/iran-s-islamic-consultative-assembly-approves-the-deal-on-its-nuclear-program-agreed-with-six-world-powers.md)
 _Context: Iran, Islamic Consultative Assembly, Joint Comprehensive Plan of Action, nuclear program_

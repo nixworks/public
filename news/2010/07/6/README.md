@@ -22,7 +22,7 @@ An American soldier suspected of leaking video footage of a US Apache helicopter
 _Context: 2010 FIFA World Cup, Ghana national football team, Kofi Annan_
 
 ### [The Federal government of the United States files a lawsuit against the U.S. state of Arizona in its bid to overturn its controversial immigration law. ](/news/2010/07/6/the-federal-government-of-the-united-states-files-a-lawsuit-against-the-u-s-state-of-arizona-in-its-bid-to-overturn-its-controversial-immig.md)
-_Context: Arizona, U.S. state, United States, immigration law_
+_Context: Arizona, U.S. state, United States federal government, immigration law_
 
 ### [President of France Nicolas Sarkozy denies allegations of alleged illegal payments from France's richest woman, L'Oreal heiress Liliane Bettencourt. ](/news/2010/07/6/president-of-france-nicolas-sarkozy-denies-allegations-of-alleged-illegal-payments-from-france-s-richest-woman-l-ora-c-al-heiress-liliane-bet.md)
 _Context: L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, President of France_

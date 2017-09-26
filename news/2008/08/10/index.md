@@ -10,7 +10,7 @@ _Context: Andhra Pradesh, Hyderabad, India, flood, monsoon_
 _Context: Georgian, Russia, South Ossetia, Tskhinvali_
 
 ### [ Swimmer Michael Phelps of the United States wins a gold medal in the 400 metre individual medley setting a new world record. ](/news/2008/08/10/swimmer-michael-phelps-of-the-united-states-wins-a-gold-medal-in-the-400-metre-individual-medley-setting-a-new-world-record.md)
-_Context: Michael Phelps, Swimmer, U.S., world record_
+_Context: Michael Phelps, Swimmer, United States, world record_
 
 ### [ A number of blasts in China's western Xinjiang province kill at least two people. ](/news/2008/08/10/a-number-of-blasts-in-china-s-western-xinjiang-province-kill-at-least-two-people.md)
 _Context: A number of blasts, China, Xinjiang_

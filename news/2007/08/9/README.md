@@ -19,16 +19,16 @@ A large fire broke out late on Thursday at the legendary Cinecitta film studios 
 _Context: Arctic, Canada, Canadian Prime Minister, North Pole, Russia, Stephen Harper, sovereignty_
 
 ### [ China temporarily bans exports from two toy manufacturers whose products were banned or recalled in the United States and other countries. ](/news/2007/08/9/china-temporarily-bans-exports-from-two-toy-manufacturers-whose-products-were-banned-or-recalled-in-the-united-states-and-other-countries.md)
-_Context: China, U.S., export, toy_
+_Context: China, United States, export, toy_
 
 ### [ Charges against two United States Marines accused of involvement in the killing of Iraqis in 2005 are dropped. ](/news/2007/08/9/charges-against-two-united-states-marines-accused-of-involvement-in-the-killing-of-iraqis-in-2005-are-dropped.md)
-_Context: Iraq, Marines_
+_Context: Iraq, United States Marine Corps_
 
 ### [ BNP Paribas announced that it could not fairly value the underlying assets in three funds as a result of exposure to U.S. subprime mortgage lending markets. Faced with potentially massive (though unquantifiable) exposure, the European Central Bank (ECB) immediately stepped in to ease market worries by opening lines of EUR96.8 billion (then US$130 billion) in low-interest credit.](/news/2007/08/9/bnp-paribas-announced-that-it-could-not-fairly-value-the-underlying-assets-in-three-funds-as-a-result-of-exposure-to-u-s-subprime-mortgage.md)
 _Context: BNP Paribas_
 
 ### [ The Dow Jones Industrial Average falls by nearly 400 points due to credit worries. Canadian and European stocks also fall. The European Central Bank, United States Federal Reserve and Bank of Canada all inject money into their credit markets to ease concerns. ](/news/2007/08/9/the-dow-jones-industrial-average-falls-by-nearly-400-points-due-to-credit-worries-canadian-and-european-stocks-also-fall-the-european-cen.md)
-_Context: Bank of Canada, Canada, Dow Jones Industrial Average, Europe, European Central Bank, Federal Reserve, U.S._
+_Context: Bank of Canada, Canada, Dow Jones Industrial Average, Europe, European Central Bank, Federal Reserve, United States_
 
 ### [ The South Carolina Republican Party moves its primary election date forward to January 19. ](/news/2007/08/9/the-south-carolina-republican-party-moves-its-primary-election-date-forward-to-january-19.md)
 _Context: January 19, Republican, South Carolina, primary election_

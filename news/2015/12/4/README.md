@@ -22,7 +22,7 @@ As thousands of residents of Chennai and suburbs were rescued from inundated are
 _Context: International Rescue Committee, Texas, Texas Attorney General, federal judge, previous administration, refugees from Syria, temporary restraining order_
 
 ### [The U.S. Supreme Court agrees to hear an appeal case concerning Puerto Rico's restructuring of debt. ](/news/2015/12/4/the-u-s-supreme-court-agrees-to-hear-an-appeal-case-concerning-puerto-rico-s-restructuring-of-debt.md)
-_Context: Puerto Rico, United States Supreme Court_
+_Context: United States Supreme Court, island_
 
 ### [Authorities name Shi Taifeng Acting Governor of Jiangsu province in China, replacing Li Xueyong, who retired due to age. ](/news/2015/12/4/authorities-name-shi-taifeng-acting-governor-of-jiangsu-province-in-china-replacing-li-xueyong-who-retired-due-to-age.md)
 _Context: Jiangsu, Li Xueyong, Shi Taifeng_

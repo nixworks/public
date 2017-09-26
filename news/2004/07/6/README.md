@@ -7,7 +7,7 @@ _Context: Afghanistan, Air Force, Harry Schmidt, dereliction of duty, friendly f
 _Context: Austria, President, Thomas Klestil, heart attack_
 
 ### [ Islamic Response claims that United States Marine Corps Corporal Wassef Ali Hassoun has been taken to a place of safety after he promised to desert from the Marine Corps. ](/news/2004/07/6/islamic-response-claims-that-united-states-marine-corps-corporal-wassef-ali-hassoun-has-been-taken-to-a-place-of-safety-after-he-promised-t.md)
-_Context: AWOL, Islamic Response, Marines, Wassef Ali Hassoun_
+_Context: AWOL, Islamic Response, United States Marine Corps, Wassef Ali Hassoun_
 
 ### [ A car bomb in the Khalis section of Baghdad kills 13 people attending the wake of individuals killed two days ago in a previous attack. ](/news/2004/07/6/a-car-bomb-in-the-khalis-section-of-baghdad-kills-13-people-attending-the-wake-of-individuals-killed-two-days-ago-in-a-previous-attack.md)
 _Context: Baghdad, car bomb_

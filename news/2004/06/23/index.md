@@ -4,7 +4,7 @@
 _Context: Abu Ghraib prison, Democratic, Donald Rumsfeld, George W. Bush, Iraq, Taliban, U.S. President, United States Department of Justice, United States Senate, White House, al-Qaeda, fear of dogs, phobia_
 
 ### [ A class action lawsuit of an unprecedented 1.6 million women is allowed by a federal judge in a case about sexual discrimination at U.S. retailer Wal Mart. ](/news/2004/06/23/a-class-action-lawsuit-of-an-unprecedented-1-6-million-women-is-allowed-by-a-federal-judge-in-a-case-about-sexual-discrimination-at-u-s-re.md)
-_Context: United States, Wal-Mart, class action, lawsuit, retail, sexual discrimination_
+_Context: United States federal government, Wal-Mart, class action, lawsuit, retail, sexual discrimination_
 
 ### [ Iraq's interim Prime Minister Iyad Allawi vows to hunt down militants threatening to assassinate him, dismissing their bloody campaign before a U.S. handover to Iraqi rule in a week's time. ](/news/2004/06/23/iraq-s-interim-prime-minister-iyad-allawi-vows-to-hunt-down-militants-threatening-to-assassinate-him-dismissing-their-bloody-campaign-befo.md)
 _Context: Iraq, Iyad Allawi, assassinate, insurgency, militant, sovereignty_

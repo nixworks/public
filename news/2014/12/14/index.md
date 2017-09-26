@@ -28,7 +28,7 @@ _Context: Angalifu, Nola, San Diego Zoo Safari Park, Sudan, endangered, northern
 UN member states reach agreement on how countries should tackle climate change, after differences cause talks to overrun by two days.
 
 ### [Turkish police arrest 24 journalists, all of whom are supporters of Fethullah Gulen who is a rival of current Turkish President Recep Tayyip Erdogan and is currently in self-imposed exile in the United States. ](/news/2014/12/14/turkish-police-arrest-24-journalists-all-of-whom-are-supporters-of-fethullah-ga1-4len-who-is-a-rival-of-current-turkish-president-recep-tayyi.md)
-_Context: Fethullah Gulen, President of Turkey, Recep Tayyip Erdogan, Turkey, U.S._
+_Context: Fethullah Gulen, President of Turkey, Recep Tayyip Erdogan, Turkey, United States_
 
 ### [At least 18 are held hostage in a chocolate shop in Sydney, Australia. Police stormed the cafe the following day.](/news/2014/12/14/at-least-18-are-held-hostage-in-a-chocolate-shop-in-sydney-australia-police-stormed-the-cafa-c-the-following-day.md)
 _Context: 2014 Sydney hostage crisis, Australia, Sydney_

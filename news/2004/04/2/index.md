@@ -7,7 +7,7 @@ _Context: Sisters_
 _Context: Abbotsford, British Columbia, Avian flu virus, British Columbia, Canadian Food Inspection Agency_
 
 ### [ Federal commissioners investigating the September 11, 2001 attacks look into the 6,000 documents from former President Bill Clinton's presidential archive. ](/news/2004/04/2/federal-commissioners-investigating-the-september-11-2001-attacks-look-into-the-6-000-documents-from-former-president-bill-clinton-s-presi.md)
-_Context: 9/11 Commission, Bill Clinton, September 11, 2001 attacks, United States, presidential archive_
+_Context: 9/11 Commission, Bill Clinton, September 11, 2001 attacks, United States federal government, presidential archive_
 
 ### [ Teenagers from areas controlled by the Palestinian Authority provoke a riot by throwing large stones at Israeli police shortly after noon prayers at the Western Wall. When police try to stop them, hundreds of other Muslims join the stone throwers. Resisting apprehension, the rioters seek refuge at the Temple Mount, site of Al Aqsa Mosque, most holy place to Jews and third-holiest place for Muslims. ](/news/2004/04/2/teenagers-from-areas-controlled-by-the-palestinian-authority-provoke-a-riot-by-throwing-large-stones-at-israeli-police-shortly-after-noon-p.md)
 _Context: Al-Aqsa Mosque, Israel, Jew, Palestinian Authority, Temple Mount, Western Wall, holy_
@@ -45,7 +45,7 @@ _Context: Gavyn Davies, Hutton Inquiry, Michael Grade_
 _Context: Sri Lanka, parliamentary election_
 
 ### [ Former US marine Toby Studabaker, who abducted a 12-year-old British girl after ""grooming"" her via the Internet, is jailed for four and a half years. ](/news/2004/04/2/former-us-marine-toby-studabaker-who-abducted-a-12-year-old-british-girl-after-grooming-her-via-the-internet-is-jailed-for-four-and-a.md)
-_Context: Internet, Marines, Toby Studabaker_
+_Context: Internet, Toby Studabaker, United States Marine Corps_
 
 ### [ An estimated crowd of between 10,000 and 19,000 mourners show up to pay their final respects to Mexican singer Adn Snchez in Los Angeles. Many in the crowd turn violent, jumping onto the van carrying the singer's body. Some are injured, and police and emergency rescue intervention is required. ](/news/2004/04/2/an-estimated-crowd-of-between-10-000-and-19-000-mourners-show-up-to-pay-their-final-respects-to-mexican-singer-adan-sanchez-in-los-angeles.md)
 _Context: Adn Snchez, Los Angeles, California, Mexico_

@@ -12,4 +12,5 @@
 
 ### Related:
 
-1. [Voters in Iraqi Kurdistan head to the polls for a historic referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-historic-referendum-on-independence-from-iraq.md) _Context: Iraqi Kurdistan independence referendum, 2017_
+1. [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md) _Context: Iraqi Kurdistan independence referendum, 2017_
+2. [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md) _Context: Iraqi Kurdistan independence referendum, 2017_

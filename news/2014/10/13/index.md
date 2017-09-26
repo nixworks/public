@@ -13,7 +13,7 @@ _Context: 2014 North Indian Ocean cyclone season, Andhra Pradesh, Cyclone Hudhud
 A magnitude 7.3 earthquake struck late on Monday off the coast of El Salvador and Nicaragua and was felt across Central America, killing at least one person, but there were no immediate reports of major damage.
 
 ### [A United States Marine is detained on the "USS Peleliu", which is docked in Subic Bay, Philippines, after he allegedy murdered Filipino transgender woman Jennifer Laude. ](/news/2014/10/13/a-united-states-marine-is-detained-on-the-uss-peleliu-which-is-docked-in-subic-bay-philippines-after-he-allegedy-murdered-filipino-tran.md)
-_Context: Death of Jennifer Laude, Marines, Philippines, Subic Bay, USS Peleliu, murder_
+_Context: Death of Jennifer Laude, Philippines, Subic Bay, USS Peleliu, United States Marine Corps, murder_
 
 ### [Protesters in the Mexican state of Guerrero attack the state government headquarters in the state capital Chilpancingo over the disappearance of 43 students. ](/news/2014/10/13/protesters-in-the-mexican-state-of-guerrero-attack-the-state-government-headquarters-in-the-state-capital-chilpancingo-over-the-disappearanc.md)
 Mexican riot police are deployed to Chilpancingo after local government offices were set on fire over the disappearance of 43 students.

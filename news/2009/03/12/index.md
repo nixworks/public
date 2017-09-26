@@ -4,7 +4,7 @@
 _Context: China, retail sales_
 
 ### [ Iraqi journalist Muntadhar al-Zaidi is sentenced to three years in prison for throwing shoes at then-United States President George W. Bush. ](/news/2009/03/12/iraqi-journalist-muntadhar-al-zaidi-is-sentenced-to-three-years-in-prison-for-throwing-shoes-at-then-united-states-president-george-w-bush.md)
-_Context: George W. Bush, Iraq, Muntadhar al-Zaidi, U.S., U.S. President, throws a shoe_
+_Context: George W. Bush, Iraq, Muntadhar al-Zaidi, U.S. President, United States, throws a shoe_
 
 ### [ National Semiconductor will cut 1,725 jobs. ](/news/2009/03/12/national-semiconductor-will-cut-1-725-jobs.md)
 _Context: National Semiconductor, layoff_
@@ -16,7 +16,7 @@ _Context: Holocaust, Holocaust denial, Pope, Pope Benedict XVI, Richard Williams
 _Context: Deputy Agriculture Minister-designate, Politics of Zimbabwe, Roy Bennett, Zimbabwe_
 
 ### [ American businessman Bernard Madoff pleads guilty to 11 charges surrounding his US$65-billion Ponzi scheme. ](/news/2009/03/12/american-businessman-bernard-madoff-pleads-guilty-to-11-charges-surrounding-his-us-65-billion-ponzi-scheme.md)
-_Context: Bernard Madoff, Ponzi scheme, U.S., US$, investment fraud_
+_Context: Bernard Madoff, Ponzi scheme, US$, United States, investment fraud_
 
 ### [ Astronauts aboard the International Space Station briefly evacuate to a Russian escape pod as space debris passes. ](/news/2009/03/12/astronauts-aboard-the-international-space-station-briefly-evacuate-to-a-russian-escape-pod-as-space-debris-passes.md)
 _Context: International Space Station, Russia, astronaut, escape pod, space debris_
@@ -25,7 +25,7 @@ _Context: International Space Station, Russia, astronaut, escape pod, space debr
 _Context: Atlantic Ocean, Canada, Cougar Helicopters, Flight 491, Newfoundland and Labrador, St. John's, ditching_
 
 ### [ An American drone aircraft's missiles kill at least 12 people in Pakistan's Kurram Valley. ](/news/2009/03/12/an-american-drone-aircraft-s-missiles-kill-at-least-12-people-in-pakistan-s-kurram-valley.md)
-_Context: Kurram, Pakistan, U.S., drone, rocket attacks_
+_Context: Kurram, Pakistan, United States, drone, rocket attacks_
 
 ## [Previous Day...](/news/2009/03/11/index.md)
 

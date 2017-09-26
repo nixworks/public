@@ -1,7 +1,7 @@
 ## [2004-11-17](/news/2004/11/17/index.md)
 
 ### [ Conflict in Iraq: U.S. officers in Fallujah say marines are "cleaning up" remaining insurgents, as artillery and airstrikes continue. In Baiji, A suicide car bomb kills 15 Iraqis and wounds 22. Three Turkish truck drivers are ambushed and killed in Mosul. In Ramadi, nine Iraqis are killed and 15 wounded when U.S. forces confront insurgents. ](/news/2004/11/17/conflict-in-iraq-u-s-officers-in-fallujah-say-marines-are-cleaning-up-remaining-insurgents-as-artillery-and-airstrikes-continue-in-ba.md)
-_Context: Baiji, Conflict in Iraq, Fallujah, Iraq, Iraqi insurgency, Marines, Mosul, Ramadi, Turk, car bomb_
+_Context: Baiji, Conflict in Iraq, Fallujah, Iraq, Iraqi insurgency, Mosul, Ramadi, Turk, United States Marine Corps, car bomb_
 
 ### [ Three apparently home-made explosive devices are detonated in three Buenos Aires banks in Argentina, killing a security guard and wounding a police officer. ](/news/2004/11/17/three-apparently-home-made-explosive-devices-are-detonated-in-three-buenos-aires-banks-in-argentina-killing-a-security-guard-and-wounding.md)
 _Context: Argentina, Buenos Aires_

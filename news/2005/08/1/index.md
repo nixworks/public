@@ -10,7 +10,7 @@ The Age 404 Page
 _Context: decommissioning, nuclear-powered, submarine_
 
 ### [ Leaked communications between two U.S. military prosecutors reveal internal doubts about the military commission system established to try Guantanamo Bay detainees. In separate emails, the prosecutors allege that the commission system is rigged in favour of the prosecution and that the cases being pursued are "marginal". In Australia, the Australian Government came under renewed pressure to withdraw its support for the commissions, under which Australian citizen David Hicks would be tried. (Wikinews) ](/news/2005/08/1/leaked-communications-between-two-u-s-military-prosecutors-reveal-internal-doubts-about-the-military-commission-system-established-to-try.md)
-_Context: (Wikinews), Australia's government, David Hicks, Guantnamo Bay detainment camp, prosecutors, try_
+_Context: (Wikinews), David Hicks, Government of Australia, Guantnamo Bay detainment camp, prosecutors, try_
 
 ### [ Deadly riots erupt in Khartoum after Garang's death. [http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-08-01T165844Z_01_L0128099_RTRIDST_0_INTERNATIONAL-SUDAN-DC.XML (Reuters)] (Link dead as of 02:29, 15 January 2007 (UTC))](/news/2005/08/1/deadly-riots-erupt-in-khartoum-after-garang-s-death-http-today-reuters-com-news-newsarticle-aspx-type-worldnews-storyid-2005-08-01t1658.md)
 _Context: Khartoum, riot_

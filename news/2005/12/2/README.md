@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: .xxx, Internet, pornography_
 
 ### [ Conflict in Iraq: 10 U.S. Marines are killed following an insurgent roadside bomb attack in Falluja. ](/news/2005/12/2/conflict-in-iraq-10-u-s-marines-are-killed-following-an-insurgent-roadside-bomb-attack-in-falluja.md)
-_Context: Conflict in Iraq, Falluja, Iraqi insurgency, Marines, improvised explosive device_
+_Context: Conflict in Iraq, Falluja, Iraqi insurgency, United States Marine Corps, improvised explosive device_
 
 ### [ Scientists in Gabon and the Republic of Congo discover that three species of fruit bat serve as animal reservoirs for the Ebola virus. The virus probably first spread from animal to human in 1976 by local hunters eating the bats. ](/news/2005/12/2/scientists-in-gabon-and-the-republic-of-congo-discover-that-three-species-of-fruit-bat-serve-as-animal-reservoirs-for-the-ebola-virus-the.md)
 Researchers working in Gabon and Congo have identified three species of fruit bat as the long-sought reservoirs of one of the deadliest known human pathogens, the Ebola virus.The team tested more...
@@ -16,7 +16,7 @@ Researchers working in Gabon and Congo have identified three species of fruit ba
 _Context: 2005 Atlantic hurricane season, Hurricane Epsilon, hurricane, tropical cyclone_
 
 ### [ Kenneth Boyd becomes the 1000th person to be executed in the United States since the re-introduction of capital punishment in 1976. ](/news/2005/12/2/kenneth-boyd-becomes-the-1000th-person-to-be-executed-in-the-united-states-since-the-re-introduction-of-capital-punishment-in-1976.md)
-_Context: Capital punishment in the United States, Kenneth Boyd, U.S., capital punishment_
+_Context: Capital punishment in the United States, Kenneth Boyd, United States, capital punishment_
 
 ### [ Australian Van Tuong Nguyen is executed by hanging in Singapore for drug trafficking. ](/news/2005/12/2/australian-van-tuong-nguyen-is-executed-by-hanging-in-singapore-for-drug-trafficking.md)
 _Context: Australia, Singapore, Van Tuong Nguyen, drug trafficking, executed by hanging_

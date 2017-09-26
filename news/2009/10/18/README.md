@@ -37,7 +37,7 @@ Scotland Yard has said that it has received a complaint about an article written
 _Context: Iran, Iranian Revolutionary guards, bomb attack_
 
 ### [ Seven people are killed and 20 injured after gunmen open fire in a bar in Puerto Rico. ](/news/2009/10/18/seven-people-are-killed-and-20-injured-after-gunmen-open-fire-in-a-bar-in-puerto-rico.md)
-_Context: Puerto Rico_
+_Context: island_
 
 ### [ Two foreign aid workers Sharon Commins and Hilda Kawuki &ndash; one Irish and one Ugandan &ndash; working for the GOAL charity captured in Sudan's Darfur region more than three months ago are released. ](/news/2009/10/18/two-foreign-aid-workers-sharon-commins-and-hilda-kawuki-ndash-one-irish-and-one-ugandan-ndash-working-for-the-goal-charity-captured-in.md)
 GOAL aid worker Sharon Commins has thanked the people of Sudan for their work to secure her release and that of her Ugandan colleague Hilda Kawuki.

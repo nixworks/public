@@ -13,7 +13,7 @@ _Context: Germany, John Demjanjuk, Munich, Nazi, extermination camp, officer, tr
 _Context: Islamic Courts Union, Mogadishu, Somalia, Transitional Federal Government, declares_
 
 ### [ The United States obtains its first seat on the United Nations Human Rights Council. ](/news/2009/05/12/the-united-states-obtains-its-first-seat-on-the-united-nations-human-rights-council.md)
-_Context: Human Rights Council, U.S., United Nations_
+_Context: Human Rights Council, United Nations, United States_
 
 ### [ The Space Shuttle "Atlantis" begins the final servicing mission to the Hubble Space Telescope.](/news/2009/05/12/the-space-shuttle-atlantis-begins-the-final-servicing-mission-to-the-hubble-space-telescope.md)
 _Context: Hubble Space Telescope, Space Shuttle, Space Shuttle Atlantis, completes_

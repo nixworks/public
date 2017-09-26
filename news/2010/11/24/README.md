@@ -25,7 +25,7 @@ _Context: corporations, unemployment rates_
 _Context: New Zealand, are confirmed dead_
 
 ### [An Australian Government report on the Montara oil spill blames it on oil rig operator PTTEP. ](/news/2010/11/24/an-australian-government-report-on-the-montara-oil-spill-blames-it-on-oil-rig-operator-pttep.md)
-_Context: Australia's government, Montara oil spill, PTT Public Company Limited, offshore oil platform_
+_Context: Government of Australia, Montara oil spill, PTT Public Company Limited, offshore oil platform_
 
 ### [The United Nations and Pan American Health Organization estimate that the number of cases in the 2010 Haiti cholera outbreak could reach more than 200,000 in the next three months. ](/news/2010/11/24/the-united-nations-and-pan-american-health-organization-estimate-that-the-number-of-cases-in-the-2010-haiti-cholera-outbreak-could-reach-mor.md)
 The cholera epidemic in Haiti is spreading much faster than predicted, the UN says, and could cause 200,000 cases in the next three months.

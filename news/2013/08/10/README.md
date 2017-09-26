@@ -19,7 +19,7 @@ A volcano erupts on an Indonesian island, spewing hot ash on to a nearby beach a
 _Context: Al Hoceima, Morocco, Royal Guardsmen_
 
 ### [Floods and mudslides in Manitou Springs, Colorado, United States leave at least three people missing and one dead. ](/news/2013/08/10/floods-and-mudslides-in-manitou-springs-colorado-united-states-leave-at-least-three-people-missing-and-one-dead.md)
-_Context: Colorado, Manitou Springs, U.S._
+_Context: Colorado, Manitou Springs, United States_
 
 ### [A total of 56 police officers are injured in Belfast, Northern Ireland after a night of Ulster loyalism rioting. ](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.md)
 More than 50 police officers are injured in what have been described as &quot;shameful attacks&quot; during loyalist protests against a republican parade in Belfast.

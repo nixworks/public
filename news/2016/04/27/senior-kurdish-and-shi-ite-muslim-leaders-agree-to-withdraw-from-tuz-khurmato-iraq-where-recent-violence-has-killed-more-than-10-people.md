@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Voters in Iraqi Kurdistan head to the polls for a historic referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-historic-referendum-on-independence-from-iraq.md) _Context: Iraq, Iraqi Kurdistan_
+1. [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md) _Context: Iraq, Iraqi Kurdistan_
 2. [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md) _Context: Iraq, Iraqi Civil War_
 3. [Violence erupts at a protest rally in Baghdad, Iraq, killing at least four protesters and one police officer. Thousands of supporters of Shia cleric Muqtada al-Sadr gathered in the capital to demand an overhaul of the country's electoral system. ](/news/2017/02/11/violence-erupts-at-a-protest-rally-in-baghdad-iraq-killing-at-least-four-protesters-and-one-police-officer-thousands-of-supporters-of-shi.md) _Context: Iraq, Shi'ite_
 4. [The Iraqi parliament passes a law recognizing Shia paramilitary units as a government entity, complete with salaries and pensions that mirror those of the military and the police. ](/news/2016/11/26/the-iraqi-parliament-passes-a-law-recognizing-shia-paramilitary-units-as-a-government-entity-complete-with-salaries-and-pensions-that-mirro.md) _Context: Iraq, Shi'ite_

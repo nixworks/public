@@ -28,7 +28,7 @@ _Context: Iran, Lula, Recep Tayyip Erdogan, Tehran_
 _Context: Canada, Cathay Pacific, Vancouver International Airport_
 
 ### [United States President Barack Obama is to ask the US Congress for an extra $200m in military aid to help Israel get a short-range rocket defence system called Iron Dome in place against mortar and rocket attacks from Gaza or Southern Lebanon. ](/news/2010/05/16/united-states-president-barack-obama-is-to-ask-the-us-congress-for-an-extra-200m-in-military-aid-to-help-israel-get-a-short-range-rocket-de.md)
-_Context: Barack Obama, Gaza, Iron Dome, Israel, Southern Lebanon, U.S., US Congress, military aid_
+_Context: Barack Obama, Gaza, Iron Dome, Israel, Southern Lebanon, US Congress, United States, military aid_
 
 ### [French lecturer Clotilde Reiss, charged with spying in Iran after last June's disputed election, is released and returns to Paris. ](/news/2010/05/16/french-lecturer-clotilde-reiss-charged-with-spying-in-iran-after-last-june-s-disputed-election-is-released-and-returns-to-paris.md)
 Woman arrested after disputed presidential poll, released and on her way home.
@@ -40,7 +40,7 @@ The discovery of the plumes, one as large as 10 miles long, is evidence that the
 Hong Kong voted in citywide by-elections on Sunday, polls which pro-democracy groups consider to be a de facto referendum on universal suffrage aimed at pressuring Beijing to grant swifter political reforms.
 
 ### [An earthquake of 5.8 magnitude is felt on Puerto Rico. ](/news/2010/05/16/an-earthquake-of-5-8-magnitude-is-felt-on-puerto-rico.md)
-_Context: Puerto Rico_
+_Context: island_
 
 ### [Brazilian President Luiz Inacio Lula da Silva flies from Moscow, where he met Russian President Dmitry Medvedev, to Tehran for a meeting with Iranian officials there on the nuclear issue. ](/news/2010/05/16/brazilian-president-luiz-ina-cio-lula-da-silva-flies-from-moscow-where-he-met-russian-president-dmitry-medvedev-to-tehran-for-a-meeting-wi.md)
 _Context: Dmitry Medvedev, Lula, Moscow, Tehran_

@@ -10,7 +10,7 @@ At least 35 peoplehave been killed in two separate gun battles between Nigerians
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [US military helicopter crashed at a US Marine Camp Hansen in Japan's southernmost prefecture of Okinawa, killing 4 people and injuring 3 others. ](/news/2013/08/5/us-military-helicopter-crashed-at-a-us-marine-camp-hansen-in-japan-s-southernmost-prefecture-of-okinawa-killing-4-people-and-injuring-3-oth.md)
-_Context: Camp Hansen, Japan, Marines, Okinawa, US military_
+_Context: Camp Hansen, Japan, Okinawa, US military, United States Marine Corps_
 
 ### [More than 160 people are killed in flash floods across Afghanistan and Pakistan. ](/news/2013/08/5/more-than-160-people-are-killed-in-flash-floods-across-afghanistan-and-pakistan.md)
 Flash flooding across Afghanistan and Pakistan has left more than 160 dead and dozens stranded in one of South Asia&#039;s worst natural disasters this year, say officials.

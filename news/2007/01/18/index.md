@@ -7,7 +7,7 @@ The Senate passed a new ethics reform bill on Thursday night, intended to change
 _Context: British House of Commons, Celebrity Big Brother 2007, Chancellor of the Exchequer, GBP, Gordon Brown, India, Prime Minister, Shilpa Shetty, Tony Blair_
 
 ### [ The United States government reports that the People's Republic of China successfully tested a missile that destroyed an orbiting satellite of the Dong Fang Hong program. ](/news/2007/01/18/the-united-states-government-reports-that-the-people-s-republic-of-china-successfully-tested-a-missile-that-destroyed-an-orbiting-satellite.md)
-_Context: China, Dong Fang Hong, United States, ballistic missile, released an object into orbit_
+_Context: China, Dong Fang Hong, United States federal government, ballistic missile, released an object into orbit_
 
 ### [ The longest reigning minister-president in 200 years in Bavaria, Edmund Stoiber, quits his position as minister-president and chairman of the CSU. Stoiber held the first position from 1993 and the second position from 1999. ](/news/2007/01/18/the-longest-reigning-minister-president-in-200-years-in-bavaria-edmund-stoiber-quits-his-position-as-minister-president-and-chairman-of-t.md)
 _Context: 1993, 1999, Bavaria, CSU, Edmund Stoiber_
@@ -25,7 +25,7 @@ _Context: Dubai, Jumeirah Lake Towers_
 _Context: Dutch, English Channel, European windstorm, Germany, Great Britain, Kyrill, MSC ''Napoli''_
 
 ### [ Iraqi Prime Minister Nouri al-Maliki suggests that if the United States better armed the Iraqi armed forces, they would be able to dramatically draw back U.S. troops "in three to six months". ](/news/2007/01/18/iraqi-prime-minister-nouri-al-maliki-suggests-that-if-the-united-states-better-armed-the-iraqi-armed-forces-they-would-be-able-to-dramatic.md)
-_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, U.S._
+_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, United States_
 
 ### [ Israel transfers to the Palestinian Authority $100 million tax revenues withheld since the Hamas won the election last year. ](/news/2007/01/18/israel-transfers-to-the-palestinian-authority-100-million-tax-revenues-withheld-since-the-hamas-won-the-election-last-year.md)
 _Context: Hamas, Israel, Palestinian Authority_
@@ -34,7 +34,7 @@ _Context: Hamas, Israel, Palestinian Authority_
 _Context: Edwin Snowe, Liberia, vote of no confidence_
 
 ### [ 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u-s-states-including-23-in-ok.md)
-_Context: Oklahoma!, Texas, U.S., blizzards, freezing-rain, ice storm_
+_Context: Oklahoma!, Texas, United States, blizzards, freezing-rain, ice storm_
 
 ## [Previous Day...](/news/2007/01/17/index.md)
 

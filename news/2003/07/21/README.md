@@ -10,7 +10,7 @@ _Context: Jong-Wook Lee, World Health Organization_
 _Context: GNU GPL, Linux, SCO Group, SCO v. IBM_
 
 ### [ In Puerto Rico, 25 people are seriously injured after a roof collapse in a Vega Alta, Puerto Rico mall. {{es icon}}](/news/2003/07/21/in-puerto-rico-25-people-are-seriously-injured-after-a-roof-collapse-in-a-vega-alta-puerto-rico-mall-es-icon.md)
-_Context: Puerto Rico, Vega Alta, Puerto Rico_
+_Context: Vega Alta, Puerto Rico, island_
 
 ## [Previous Day...](/news/2003/07/20/index.md)
 

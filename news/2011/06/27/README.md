@@ -52,7 +52,7 @@ A raging wildfire near the Los Alamos National Laboratory in New Mexico has prom
 Overheated power lines continue to cause train delays and cancellations between London Liverpool Street and most parts of the East.
 
 ### [The United States Government publishes the Trafficking In Persons report, naming those countries that are not meeting minimum standards against human trafficking and slavery, and which may be subject to US sanctions as a result. ](/news/2011/06/27/the-united-states-government-publishes-the-trafficking-in-persons-report-naming-those-countries-that-are-not-meeting-minimum-standards-agai.md)
-_Context: Trafficking In Persons, United States, human trafficking, sanctions, slavery_
+_Context: Trafficking In Persons, United States federal government, human trafficking, sanctions, slavery_
 
 ### [Sudanese president Omar al-Bashir, the subject of an International Criminal Court arrest warrant for genocide, war crimes and crimes against humanity in the region of Darfur, unexpectedly delays his visit to China without official explanation, after he had already departed for an anti-terrorism conference hosted by Iran. ](/news/2011/06/27/sudanese-president-omar-al-bashir-the-subject-of-an-international-criminal-court-arrest-warrant-for-genocide-war-crimes-and-crimes-against.md)
 The Sudanese president was scheduled to arrive in China on Monday, but the visit has been delayed without official explanation, Chinese ministry officials said.

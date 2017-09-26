@@ -16,7 +16,7 @@ _Context: Philippines, Richter scale_
 _Context: General Medical Council, Paediatrician, Roy Meadow, Sally Clark, expert witness_
 
 ### [ The United States opens its borders to Canadian live cattle after legal action in its courts. ](/news/2005/07/15/the-united-states-opens-its-borders-to-canadian-live-cattle-after-legal-action-in-its-courts.md)
-_Context: Canada, U.S., cattle, court_
+_Context: Canada, United States, cattle, court_
 
 ## [Previous Day...](/news/2005/07/14/index.md)
 

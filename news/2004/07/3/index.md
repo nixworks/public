@@ -1,7 +1,7 @@
 ## [2004-07-3](/news/2004/07/3/index.md)
 
 ### [ Occupation of Iraq: The Islamic extremist group Jaish Ansar al-Sunna has reportedly beheaded U.S. Marine Corporal Wassef Ali Hassoun. The group claims that it will release a videotape recording of the execution in the coming days. ](/news/2004/07/3/occupation-of-iraq-the-islamic-extremist-group-jaish-ansar-al-sunna-has-reportedly-beheaded-u-s-marine-corporal-wassef-ali-hassoun-the-g.md)
-_Context: Jaish Ansar al-Sunna, Marines, Occupation of Iraq, Wassef Ali Hassoun, corporal_
+_Context: Jaish Ansar al-Sunna, Occupation of Iraq, United States Marine Corps, Wassef Ali Hassoun, corporal_
 
 ### [ The new metro in Bangkok, Thailand, officially opens. It is overcrowded within 30 minutes. ](/news/2004/07/3/the-new-metro-in-bangkok-thailand-officially-opens-it-is-overcrowded-within-30-minutes.md)
 _Context: Bangkok, Thailand, new metro_

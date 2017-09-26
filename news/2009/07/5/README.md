@@ -10,7 +10,7 @@ _Context: India, Madhya Pradesh_
 _Context: Florida, Orlando, Florida, Walt Disney World, monorail collision_
 
 ### [ The Fellowship of Confessing Anglicans claims the debate over homosexuality may split the Church of England the way it has split the Episcopal Church in the United States. ](/news/2009/07/5/the-fellowship-of-confessing-anglicans-claims-the-debate-over-homosexuality-may-split-the-church-of-england-the-way-it-has-split-the-episco.md)
-_Context: Church of England, Fellowship of Confessing Anglicans, U.S., U.S. branch of the Communion, homosexuality_
+_Context: Church of England, Fellowship of Confessing Anglicans, U.S. branch of the Communion, United States, homosexuality_
 
 ### [ An Irish government delegation arrives in Cairo to be briefed on the Sudan kidnappings. ](/news/2009/07/5/an-irish-government-delegation-arrives-in-cairo-to-be-briefed-on-the-sudan-kidnappings.md)
 _Context: Cairo, Irish, Sudan_

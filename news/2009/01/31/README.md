@@ -1,7 +1,7 @@
 ## [2009-01-31](/news/2009/01/31/index.md)
 
 ### [ Former Cuban President Fidel Castro criticizes United States President Barack Obama for supporting "Israeli genocide" against the Palestinian people. ](/news/2009/01/31/former-cuban-president-fidel-castro-criticizes-united-states-president-barack-obama-for-supporting-israeli-genocide-against-the-palestini.md)
-_Context: Barack Obama, Cuba, Fidel Castro, Israel, Palestinian, President, U.S., U.S. President, genocide_
+_Context: Barack Obama, Cuba, Fidel Castro, Israel, Palestinian, President, U.S. President, United States, genocide_
 
 ### [ An armed mob desecrates a Sephardic synagogue in Caracas, Venezuela. ](/news/2009/01/31/an-armed-mob-desecrates-a-sephardic-synagogue-in-caracas-venezuela.md)
 _Context: Caracas, Sephardic, Venezuela, synagogue_
@@ -16,7 +16,7 @@ An overturned petrol tanker exploded as hundreds of people were trying to scoop 
 _Context: Russia, Russian Government, current economic crisis_
 
 ### [ Serena Williams of the United States defeats Dinara Safina of Russia to win the 2009 Australian Open women's singles. ](/news/2009/01/31/serena-williams-of-the-united-states-defeats-dinara-safina-of-russia-to-win-the-2009-australian-open-women-s-singles.md)
-_Context: 2009 Australian Open, Dinara Safina, Russia, Serena Williams, U.S., women's singles_
+_Context: 2009 Australian Open, Dinara Safina, Russia, Serena Williams, United States, women's singles_
 
 ### [ More than 5,000 Royal Police are deployed to Bangkok, Thailand, as supporters of deposed Prime Minister Thaksin Shinawatra protest. ](/news/2009/01/31/more-than-5-000-royal-police-are-deployed-to-bangkok-thailand-as-supporters-of-deposed-prime-minister-thaksin-shinawatra-protest.md)
 _Context: Bangkok, Prime Minister, Thai police, Thailand, Thaksin Shinawatra_

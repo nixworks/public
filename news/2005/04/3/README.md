@@ -1,7 +1,7 @@
 ## [2005-04-3](/news/2005/04/3/index.md)
 
 ### [ Conflict in Iraq: A group of at least 40 Iraqi insurgents attacks Baghdad's Abu Ghraib prison, using car bombs, grenades, and small arms. At least 20 American soldiers and 12 Iraqi prisoners are injured, but the US Army says it has put down the assault. ](/news/2005/04/3/conflict-in-iraq-a-group-of-at-least-40-iraqi-insurgents-attacks-baghdad-s-abu-ghraib-prison-using-car-bombs-grenades-and-small-arms-a.md)
-_Context: Abu Ghraib, Baghdad, Conflict in Iraq, Iraq, Iraqi insurgency, U.S., US army_
+_Context: Abu Ghraib, Baghdad, Conflict in Iraq, Iraq, Iraqi insurgency, US army, United States_
 
 ### [ Various world leaders express their condolences for the death of Pope John Paul II, including Queen Elizabeth II, John Howard, Tony Blair, George W. Bush, Carlo Azeglio Ciampi and Lawrence Gonzi. ](/news/2005/04/3/various-world-leaders-express-their-condolences-for-the-death-of-pope-john-paul-ii-including-queen-elizabeth-ii-john-howard-tony-blair.md)
 _Context: Carlo Azeglio Ciampi, George W. Bush, John Howard, Lawrence Gonzi, Pope John Paul II, Queen Elizabeth, Tony Blair_

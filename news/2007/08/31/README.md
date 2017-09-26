@@ -7,7 +7,7 @@ _Context: British Royal Family, Death of Diana, Princess of Wales, Elizabeth II,
 _Context: Gaston Tong Sang, President, vote of no confidence_
 
 ### [ A fuel spill pollutes Puerto Rico's southwest coast from the town of Guanica to Guayanilla Bay. ](/news/2007/08/31/a-fuel-spill-pollutes-puerto-rico-s-southwest-coast-from-the-town-of-guanica-to-guayanilla-bay.md)
-_Context: Guanica, Guayanilla Bay, Puerto Rico_
+_Context: Guanica, Guayanilla Bay, island_
 
 ### [ The United Nations mission to the Democratic Republic of the Congo sends troops to the town of Katale in the Masisi district of North Kivu province due to heavy fighting between the army and supporters of rebel General Laurent Nkunda. ](/news/2007/08/31/the-united-nations-mission-to-the-democratic-republic-of-the-congo-sends-troops-to-the-town-of-katale-in-the-masisi-district-of-north-kivu.md)
 _Context: Democratic Republic of the Congo, Katale, Laurent Nkunda, Masisi, North Kivu, United Nations_

@@ -37,7 +37,7 @@ The man, identified as a minister from Tennessee, was trying to enter the visito
 Federal officials said Monday that they have unlocked the iPhone belonging to one of the San Bernardino shooters and are dropping a request in front of a federal judge that sought to force Apple to help with that effort.
 
 ### [A U.S. federal district court, in a case filed by retailer Wal-Mart Stores. Inc., strikes down a Puerto Rican tax increase for on-island companies, with more than $2.75 billion in revenues that buy goods from off-island "related parties," because the levy clearly discriminates against interstate commerce. ](/news/2016/03/28/a-u-s-federal-district-court-in-a-case-filed-by-retailer-wal-mart-stores-inc-strikes-down-a-puerto-rican-tax-increase-for-on-island-com.md)
-_Context: Puerto Rico, U.S. federal district court, Walmart, interstate commerce_
+_Context: U.S. federal district court, Walmart, interstate commerce, island_
 
 ### [The United States Secret Service says only law enforcement officers will be allowed to have guns inside the Republican National Convention to be held in the Cleveland, Ohio, arena on July 18-21, 2016; responding to an online petition demanding Quicken Loans Arena revoke its ban on open carrying of firearms. ](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention-t.md)
 Some 45,000 people signed a petition asking that attendees be allowed to carry fire arms.

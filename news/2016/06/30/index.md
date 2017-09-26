@@ -19,7 +19,7 @@ A Palestinian fatally stabbed a 13-year-old Israeli girl in her bedroom in a set
 _Context: Cadbury chocolates, Mondelez International, Oreo cookies, The Hershey Company_
 
 ### [The Governor of Puerto Rico authorizes the suspension of payments on the general obligation debt of that commonwealth, assuring a default on the $1.9 billion of debt payments due the following day. ](/news/2016/06/30/the-governor-of-puerto-rico-authorizes-the-suspension-of-payments-on-the-general-obligation-debt-of-that-commonwealth-assuring-a-default-on.md)
-_Context: Puerto Rico, general obligation_
+_Context: general obligation, island_
 
 ### [At least 10 people drown off the coast of Libya when their dinghy sinks. The Italian Navy managed to rescue over 100 more people. ](/news/2016/06/30/at-least-10-people-drown-off-the-coast-of-libya-when-their-dinghy-sinks-the-italian-navy-managed-to-rescue-over-100-more-people.md)
 At least 10 people drown when their inflatable boat capsizes, as Italy raises to the surface a boat that sank with the loss of 700 lives.

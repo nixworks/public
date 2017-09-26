@@ -16,7 +16,7 @@ _Context: 2007 Royal London Watches Grand Prix snooker tournament, Marco Fu, Ron
 _Context: Kurmanbek Bakiyev, Kyrgyzstan, President, constitutional changes in a referendum_
 
 ### [ Speaking at the Washington Institute for Near East Policy, United States Vice President Dick Cheney states: "The United States joins other nations in sending a clear message - we will not allow Iran to have a nuclear weapon." ](/news/2007/10/21/speaking-at-the-washington-institute-for-near-east-policy-united-states-vice-president-dick-cheney-states-the-united-states-joins-other.md)
-_Context: Dick Cheney, Iran, U.S., U.S. Vice President, Washington Institute for Near East Policy, nuclear weapon_
+_Context: Dick Cheney, Iran, U.S. Vice President, United States, Washington Institute for Near East Policy, nuclear weapon_
 
 ### [ A fire in an illegal shoe factory kills at least 34 people in Putian in Fujian province, China. ](/news/2007/10/21/a-fire-in-an-illegal-shoe-factory-kills-at-least-34-people-in-putian-in-fujian-province-china.md)
 _Context: China, Fujian, Putian, factory_

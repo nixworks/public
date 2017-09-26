@@ -10,7 +10,7 @@ _Context: Justice, Ledbetter v. Goodyear, Ruth Bader Ginsburg, United States Sup
 _Context: Lebanon, Nahr el-Bared, al-Qaeda, refugee_
 
 ### [ United States health officials quarantine a man who may have exposed passengers on two transatlantic flights to extensively drug resistant tuberculosis. ](/news/2007/05/29/united-states-health-officials-quarantine-a-man-who-may-have-exposed-passengers-on-two-transatlantic-flights-to-extensively-drug-resistant.md)
-_Context: U.S., extensively drug resistant tuberculosis, quarantine, transatlantic flight_
+_Context: United States, extensively drug resistant tuberculosis, quarantine, transatlantic flight_
 
 ### [ Russia successfully tests its new RS-24 ICBM, purportedly designed to defeat present and future anti-missile systems. ](/news/2007/05/29/russia-successfully-tests-its-new-rs-24-icbm-purportedly-designed-to-defeat-present-and-future-anti-missile-systems.md)
 _Context: ICBM, RS-24, Russia, anti-ballistic missile_

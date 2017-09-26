@@ -19,10 +19,10 @@ _Context: England, gay_
 _Context: Puntland, Somalia, Somaliland_
 
 ### [The United States Secretary of Defense Leon Panetta tells the Marine Corps to re-investigate and take appropriate action against snipers who posed with a logo resembling that of the Nazi Schutzstaffel in Afghanistan. ](/news/2012/02/10/the-united-states-secretary-of-defense-leon-panetta-tells-the-marine-corps-to-re-investigate-and-take-appropriate-action-against-snipers-who.md)
-_Context: Afghanistan, Defense Secretary, Leon Panetta, Marines, Nazi, Schutzstaffel, sniper_
+_Context: Afghanistan, Defense Secretary, Leon Panetta, Nazi, Schutzstaffel, United States Marine Corps, sniper_
 
 ### [The United States Central Intelligence Agency website and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
-_Context: Alabama, CIA, U.S., hacker group Anonymous_
+_Context: Alabama, CIA, United States, hacker group Anonymous_
 
 ### [A new book of poetry by President of Ireland Michael D. Higgins is negatively reviewed by leading critic Professor Kevin Kiely, who says the President "can be accused of crimes against literature". ](/news/2012/02/10/a-new-book-of-poetry-by-president-of-ireland-michael-d-higgins-is-negatively-reviewed-by-leading-critic-professor-kevin-kiely-who-says-the.md)
 _Context: Michael D. Higgins, President_

@@ -4,7 +4,7 @@
 _Context: 2008 Summer Olympics, Government of Iraq, International Olympic Committee, Iraqi Olympic Committee, Iraqi athletes_
 
 ### [ United States Senator Ted Stevens of Alaska is indicted on seven counts related to his conduct as a Senator. ](/news/2008/07/29/united-states-senator-ted-stevens-of-alaska-is-indicted-on-seven-counts-related-to-his-conduct-as-a-senator.md)
-_Context: Alaska, Senator, Ted Stevens, U.S., indicted_
+_Context: Alaska, Senator, Ted Stevens, United States, indicted_
 
 ### [ World Trade Organisation trade talks in Geneva collapse after disagreements between developed and developing nations over access to agricultural markets. ](/news/2008/07/29/world-trade-organisation-trade-talks-in-geneva-collapse-after-disagreements-between-developed-and-developing-nations-over-access-to-agricul.md)
 _Context: Geneva, World Trade Organisation, trade talks_
@@ -19,7 +19,7 @@ _Context: 5.4 magnitude earthquake, California, Chino Hills, Las Vegas, Nevada, 
 _Context: George W. Bush, Ronald A. Gray, U.S. President, U.S. soldiers, capital punishment, military execution, murder, rape_
 
 ### [ The government of Australia ends its mandatory detention of all asylum seekers. ](/news/2008/07/29/the-government-of-australia-ends-its-mandatory-detention-of-all-asylum-seekers.md)
-_Context: Australia's government, asylum seeker, detention of children and family groups_
+_Context: Government of Australia, asylum seeker, detention of children and family groups_
 
 ## [Previous Day...](/news/2008/07/28/index.md)
 

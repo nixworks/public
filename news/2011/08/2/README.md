@@ -22,7 +22,7 @@ _Context: Abyei, Ethiopia, Sudan, peacekeepers_
 _Context: Horn of Africa, Uganda, United Nations, famine_
 
 ### [Tropical Storm Emily moves towards Puerto Rico. ](/news/2011/08/2/tropical-storm-emily-moves-towards-puerto-rico.md)
-_Context: Puerto Rico, Tropical Storm Emily_
+_Context: Tropical Storm Emily, island_
 
 ### [The United Nations Working Group on Arbitrary Detention calls on China to release Liu Xiaobo and his wife. ](/news/2011/08/2/the-united-nations-working-group-on-arbitrary-detention-calls-on-china-to-release-liu-xiaobo-and-his-wife.md)
 A UN panel of independent legal experts calls on China to free Nobel Peace laureate Liu Xiaobo and his wife and pay them compensation.

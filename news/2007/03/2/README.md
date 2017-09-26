@@ -25,7 +25,7 @@ The Secretary of the Army, Francis J. Harvey, resigned today amid the fallout ov
 _Context: Atlanta, Georgia, Bluffton University, Georgia, Interstate 75_
 
 ### [ Puerto Rico institutes a smoking ban in all public places. Smoking will only be allowed in homes, places dedicated to tobacco sales, and open and ventilated places. ](/news/2007/03/2/puerto-rico-institutes-a-smoking-ban-in-all-public-places-smoking-will-only-be-allowed-in-homes-places-dedicated-to-tobacco-sales-and-op.md)
-_Context: Puerto Rico, smoking ban_
+_Context: island, smoking ban_
 
 ### [ A bomb explodes near a car carrying a judge of the Pakistani anti-terrorist court, Mian Bashir Bhatti, wounding him and killing at least three others. ](/news/2007/03/2/a-bomb-explodes-near-a-car-carrying-a-judge-of-the-pakistani-anti-terrorist-court-mian-bashir-bhatti-wounding-him-and-killing-at-least-th.md)
 _Context: Mian Bashir Bhatti, Pakistan_

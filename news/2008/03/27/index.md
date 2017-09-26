@@ -19,7 +19,7 @@ _Context: (Wikinews), Airbus, EADS, GBP, United Kingdom_
 A recording found in Paris is believed to predate Thomas Edison’s invention of the phonograph by nearly 20 years.
 
 ### [ A gunman opens fire at Doctors Hospital in Columbus, Georgia, United States, killing two people and critically wounding one other who later died of his injuries before being shot and wounded by police. ](/news/2008/03/27/a-gunman-opens-fire-at-doctors-hospital-in-columbus-georgia-united-states-killing-two-people-and-critically-wounding-one-other-who-later.md)
-_Context: Columbus, Georgia's, Georgia, U.S._
+_Context: Columbus, Georgia's, Georgia, United States_
 
 ## [Previous Day...](/news/2008/03/26/index.md)
 

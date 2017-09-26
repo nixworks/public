@@ -1,7 +1,7 @@
 ## [2011-05-19](/news/2011/05/19/index.md)
 
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, U.S., protestors_
+_Context: Bashar al-Assad, President, Syria, United States, protestors_
 
 ### [Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/rebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
 _Context: Libya, Muammar Gaddafi, state media_

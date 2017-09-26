@@ -40,7 +40,7 @@ _Context: Ashley Mote, Member of the European Parliament, South East England, fr
 Hurricane Dean has intensified and developed into a category three hurricane, with winds reaching 200 kilometres per hour, the United States National Hurricane Centre has announced.
 
 ### [ Stock prices in the United States and Europe rally after the Federal Reserve cuts its discount lending rate to restore confidence in the banking sector after the subprime mortgage crisis. ](/news/2007/08/17/stock-prices-in-the-united-states-and-europe-rally-after-the-federal-reserve-cuts-its-discount-lending-rate-to-restore-confidence-in-the-ba.md)
-_Context: Europe, Federal Reserve, U.S., housing crisis_
+_Context: Europe, Federal Reserve, United States, housing crisis_
 
 ### [ The death toll from the 2007 Peru earthquake rises to 510 with another 1,500 people being injured. Aid reaches affected areas with President Alan Garca appealing for calm after reports of looting. ](/news/2007/08/17/the-death-toll-from-the-2007-peru-earthquake-rises-to-510-with-another-1-500-people-being-injured-aid-reaches-affected-areas-with-presiden.md)
 _Context: 2007 Peru earthquake, Alan Garcia, President, illegally taken out_
@@ -49,7 +49,7 @@ _Context: 2007 Peru earthquake, Alan Garcia, President, illegally taken out_
 _Context: IAEA, North Korea, United States government_
 
 ### [ Four people die as a United States Marine Corps helicopter crashes on a training flight north of Yuma, Arizona. ](/news/2007/08/17/four-people-die-as-a-united-states-marine-corps-helicopter-crashes-on-a-training-flight-north-of-yuma-arizona.md)
-_Context: Marines, Yuma, Arizona, helicopter_
+_Context: United States Marine Corps, Yuma, Arizona, helicopter_
 
 ### [ Australian Prime Minister John Howard says the country has decided to export Uranium to India.](/news/2007/08/17/australian-prime-minister-john-howard-says-the-country-has-decided-to-export-uranium-to-india.md)
 _Context: Australia, India, John Howard, export, uranium_

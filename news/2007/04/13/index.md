@@ -34,7 +34,7 @@ _Context: Fiji, Great Council of Chiefs, Prime Minister, Voreqe Bainimarama_
 A strong earthquake shook southern Mexico early Friday, knocking out power in parts of Mexico City and Acapulco, swaying tall buildings and sending frightened people into the streets in their pajamas.
 
 ### [ The Australian Government announces plans to outlaw material such as films and books that advocate terrorism. ](/news/2007/04/13/the-australian-government-announces-plans-to-outlaw-material-such-as-films-and-books-that-advocate-terrorism.md)
-_Context: Australia's government, book, film, outlaw, terrorism_
+_Context: Government of Australia, book, film, outlaw, terrorism_
 
 ## [Previous Day...](/news/2007/04/12/index.md)
 

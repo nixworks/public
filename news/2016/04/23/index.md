@@ -34,7 +34,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: North Korea, its nuclear weapons program, submarine-launched ballistic missile_
 
 ### [President of Russia Vladimir Putin accuses the United States of reneging on a 16-year-old deal that called for reducing Russia's and the United States' stockpiles of weapons-grade plutonium. He accused Washington of trying to preserve its ability to turn some of its plutonium stockpile back into a form usable for nuclear weapons. ](/news/2016/04/23/president-of-russia-vladimir-putin-accuses-the-united-states-of-reneging-on-a-16-year-old-deal-that-called-for-reducing-russia-s-and-the-uni.md)
-_Context: Russia, Russia-United States relations, Russian President Vladimir Putin, United States, Vladimir Putin, plutonium_
+_Context: Russia, Russia-United States relations, Russian President Vladimir Putin, United States federal government, Vladimir Putin, plutonium_
 
 ### [Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people, is holding. ](/news/2016/04/23/reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-following-a-three-day-o.md)
 Regional Kurdish security forces and pro-Syrian government forces have declared a ceasefire in northeastern Syria, the Kurdish side said, calming a three-day outbreak of violence which killed more than 26 people.
@@ -43,7 +43,7 @@ Regional Kurdish security forces and pro-Syrian government forces have declared 
 European Council President Donald Tusk has praised Turkey’s treatment of refugees, saying “it is the best example for the whole world.”
 
 ### [ Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspends-its-annual-military-exercises-wit.md)
-_Context: North Korea, North Korea-United States relations, North Korean Foreign Minister, Ri Su-yong's, South Korea, U.S., nuclear tests_
+_Context: North Korea, North Korea-United States relations, North Korean Foreign Minister, Ri Su-yong's, South Korea, United States, nuclear tests_
 
 ### [Professor Rezaul Karim Siddique is killed in the Bangladeshi city of Rajshahi in an ISIL attack. ](/news/2016/04/23/professor-rezaul-karim-siddique-is-killed-in-the-bangladeshi-city-of-rajshahi-in-an-isil-attack.md)
 Unidentified attackers hacked to death a university teacher in northwestern Bangladesh on Saturday.

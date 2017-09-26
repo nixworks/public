@@ -16,7 +16,7 @@ Turkish police fired water cannon and rubber pellets to disperse a gay pride par
 Greece moved to check the growing strains on its crippled financial system on Sunday, closing its banks and imposing capital controls that brought the prospect of being forced out of the euro into plain sight.
 
 ### [The Governor of Puerto Rico, Alejandro Garca Padilla, says that Puerto Rico's debts are "not payable". ](/news/2015/06/28/the-governor-of-puerto-rico-alejandro-garcia-padilla-says-that-puerto-rico-s-debts-are-not-payable.md)
-_Context: Alejandro Garca Padilla, Puerto Rican Governor, Puerto Rico_
+_Context: Alejandro Garca Padilla, Puerto Rican Governor, island_
 
 ### [The number of deaths from MERS in South Korea rises to 32, with the number of cases stabilizing at 182. ](/news/2015/06/28/the-number-of-deaths-from-mers-in-south-korea-rises-to-32-with-the-number-of-cases-stabilizing-at-182.md)
  South Korea reported an additional death from Middle East Respiratory Syndrome on Sunday, bringing its death toll to 32.

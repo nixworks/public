@@ -34,7 +34,7 @@ _Context: Highway 401, Hydro One, Pearson International Airport, Richview neighb
 Chinese security officers in Sichuan Province released Tibetan monks detained after a monk’s self-immolation in protest of Chinese rule.
 
 ### [The Government of Australia sends additional Australian Federal Police officers to Christmas Island following a series of riots at the Christmas Island Immigration Detention Centre. ](/news/2011/03/18/the-government-of-australia-sends-additional-australian-federal-police-officers-to-christmas-island-following-a-series-of-riots-at-the-chris.md)
-_Context: Australia's government, Christmas Island, Christmas Island Immigration Detention Centre, police_
+_Context: Christmas Island, Christmas Island Immigration Detention Centre, Government of Australia, police_
 
 ### [Former British Airways software engineer Rajib Karim, of Newcastle upon Tyne, United Kingdom is jailed for 30 years for plotting to blow up a plane. ](/news/2011/03/18/former-british-airways-software-engineer-rajib-karim-of-newcastle-upon-tyne-united-kingdom-is-jailed-for-30-years-for-plotting-to-blow-up.md)
 A British Airways computer expert is jailed for 30 years for plotting to blow up a plane after contacting an al-Qaeda preacher based in Yemen.

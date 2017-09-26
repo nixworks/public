@@ -28,7 +28,7 @@ _Context: Amnesty International, George W. Bush, Human rights, John Kerry, War o
 _Context: International Criminal Tribunal for the former Yugoslavia, Slobodan Milosevic_
 
 ### [ U.S. presidential election: The BBC reports that it has obtained a document from George W. Bush's Florida campaign headquarters containing a list of 1,886 names and addresses of voters in largely African-American and Democratic areas of Jacksonville, Florida. Democratic Party officials allege that the document is a "caging list" that the Bush campaign intends to use to issue mass challenges to African-American voters, in violation of federal law. ](/news/2004/10/27/u-s-presidential-election-the-bbc-reports-that-it-has-obtained-a-document-from-george-w-bush-s-florida-campaign-headquarters-containing.md)
-_Context: 2004 U.S. presidential candidate, African-American, BBC, Democratic, Florida, George W. Bush, Jacksonville, Florida, United States, Vote, caging list_
+_Context: 2004 U.S. presidential candidate, African-American, BBC, Democratic, Florida, George W. Bush, Jacksonville, Florida, United States federal government, Vote, caging list_
 
 ### [ A vote by the European Parliament over the approval of the new European Commission has been delayed, after incoming president Jose Manuel Barroso asks for more time to reshuffle his team. ](/news/2004/10/27/a-vote-by-the-european-parliament-over-the-approval-of-the-new-european-commission-has-been-delayed-after-incoming-president-josa-c-manuel.md)
 _Context: European Commission, European Parliament, Jose Manuel Barroso_

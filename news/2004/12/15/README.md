@@ -22,7 +22,7 @@ _Context: George W. Bush, Kodiak Island, Marshall Islands, Missile Defense Agenc
 Nextel Communications Inc. and Sprint Corp. &#160;have agreed to merge in a deal that would create the nation&#8217;s third largest wireless telephone provider
 
 ### [ Human rights in Iraq: The U.S. is forced to release evidence which shows prisoners in Iraq were subject to mock executions, electric shocks, and burns by US Marines. ](/news/2004/12/15/human-rights-in-iraq-the-u-s-is-forced-to-release-evidence-which-shows-prisoners-in-iraq-were-subject-to-mock-executions-electric-shocks.md)
-_Context: Human rights in Iraq, Iraq, Marines, electric shock, mock execution_
+_Context: Human rights in Iraq, Iraq, United States Marine Corps, electric shock, mock execution_
 
 ### [ Iraqi transitional parliamentary election: Iraq's defense minister accuses Iran and Syria of supporting terrorists and charges that a senior Iraqi Shiite was leading a "pro-Iranian" coalition into next month's national elections. ](/news/2004/12/15/iraqi-transitional-parliamentary-election-iraq-s-defense-minister-accuses-iran-and-syria-of-supporting-terrorists-and-charges-that-a-senio.md)
 _Context: Iran, Iraq, Iraqi transitional parliamentary election, Shiite, Syria, terrorism_

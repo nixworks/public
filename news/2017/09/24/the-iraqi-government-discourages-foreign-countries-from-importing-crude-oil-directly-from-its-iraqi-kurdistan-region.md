@@ -12,7 +12,7 @@ Iraq on Sunday urged foreign countries to stop importing crude directly from its
 
 ### Related:
 
-1. [The results of an independence referendum by Iraqi Kurdistan is to be announced. Kurds are widely expected to vote in favor. Iran and Turkey has vowed that there may be violence if the result was independence. ](/news/2017/09/26/the-results-of-an-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-kurds-are-widely-expected-to-vote-in-favor-iran-and-turkey.md) _Context: Iraqi Kurdistan_
+1. [The results of an independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. Iran and Turkey have vowed that there may be violence if the result was independence. ](/news/2017/09/26/the-results-of-an-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-the-vote-is-widely-expected-to-be-in-favor-of-independence.md) _Context: Iraqi Kurdistan_
 2. [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md) _Context: Iraqi Kurdistan_
 3. [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md) _Context: Iraqi Kurdistan_
 4. [As new Libyan production comes on line, the world price of crude oil falls below $55 a barrel. ](/news/2016/12/23/as-new-libyan-production-comes-on-line-the-world-price-of-crude-oil-falls-below-55-a-barrel.md) _Context: crude oil_

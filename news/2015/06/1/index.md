@@ -19,7 +19,7 @@ _Context: Central Bank of Nigeria, Nigeria_
 _Context: NSA, Patriot Act, USA Freedom Act_
 
 ### [Senator Lindsey Graham of South Carolina enters the race for the 2016 Republican presidential nomination. ](/news/2015/06/1/senator-lindsey-graham-of-south-carolina-enters-the-race-for-the-2016-republican-presidential-nomination.md)
-_Context: Lindsey Graham, presidential nomination_
+_Context: Graham, presidential nomination_
 
 ### [Former German chancellor, "architect of German reunification" and one of the authors of the European single currency Helmut Kohl is reported to be in a "critical condition" after surgery at a Heidelberg hospital. ](/news/2015/06/1/former-german-chancellor-architect-of-german-reunification-and-one-of-the-authors-of-the-european-single-currency-helmut-kohl-is-reported.md)
 Politician known as the architect of German reunification reported to be in intensive care after intestinal surgery following hip-replacement procedure

@@ -4,7 +4,7 @@
 A motorcycle bomb exploded as worshippers left a mosque after Friday prayers in northern Damascus, wounding several people, Syrian state television said.
 
 ### [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md)
-_Context: Al-Shabaab, Kismayo, Somalia, U.S., drone attack, extrajudicial killing_
+_Context: Al-Shabaab, Kismayo, Somalia, United States, drone attack, extrajudicial killing_
 
 ### [Humanitarian groups express concern over Chile's army head, involved in controversy over a directive instructing military recruiters not to admit homosexuals. ](/news/2012/09/7/humanitarian-groups-express-concern-over-chile-s-army-head-involved-in-controversy-over-a-directive-instructing-military-recruiters-not-to.md)
 _Context: Chile_
@@ -34,7 +34,7 @@ _Context: France's foreign ministers, foreign minister of Germany, talks about I
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
 ### [Pakistan orders foreign nationals working for the Save the Children NGO to leave the country within four weeks. The Pakistani government has accused the organization of being linked to the fake vaccination program used in the hunt for Osama bin Laden. The charity and the U.S. government deny any links. ](/news/2012/09/7/pakistan-orders-foreign-nationals-working-for-the-save-the-children-ngo-to-leave-the-country-within-four-weeks-the-pakistani-government-has.md)
-_Context: Dr. Shakil Afridi, NGO, Osama bin Laden, Pakistan, Save the Children, United States, hunt_
+_Context: Dr. Shakil Afridi, NGO, Osama bin Laden, Pakistan, Save the Children, United States federal government, hunt_
 
 ### [Economic leaders assemble on Russky Island, off the coast of Vladivostok, Russia, for the forum's 24th summit on September 8th and 9th. ](/news/2012/09/7/economic-leaders-assemble-on-russky-island-off-the-coast-of-vladivostok-russia-for-the-forum-s-24th-summit-on-september-8th-and-9th.md)
 Harper to meet with Chinese president during Asia-Pacific Economic Co-operation leaders’ summit
