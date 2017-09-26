@@ -1,6 +1,6 @@
 ### [2017-09-26](/news/2017/09/26/index.md)
 
-# Justice Roy Moore and U.S. senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. 
+# Justice Roy Moore and U.S. Senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. 
 
 Why is Donald Trump backing an establishment favourite against an anti-establishment judge?
 
