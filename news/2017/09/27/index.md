@@ -1,6 +1,6 @@
 ## [2017-09-27](/news/2017/09/27/index.md)
 
-### [The United States Department of Homeland Security will not waive the Merchant Marine Act of 1920 (or "Jones Act") in response to the ongoing disaster in Puerto Rico. ](/news/2017/09/27/the-united-states-department-of-homeland-security-will-not-waive-the-merchant-marine-act-of-1920-or-jones-act-in-response-to-the-ongoing.md)
+### [The United States Department of Homeland Security will not waive the Merchant Marine Act of 1920 (or "Jones Act") in response to the ongoing disaster in Puerto Rico, even though similar waivers were granted for Houston and parts of Florida, in the aftermath of Hurricane Harvey and Hurricane Irma, respectively. ](/news/2017/09/27/the-united-states-department-of-homeland-security-will-not-waive-the-merchant-marine-act-of-1920-or-jones-act-in-response-to-the-ongoing.md)
 Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
 
 ### [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md)
