@@ -8,8 +8,7 @@ Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese po
 ### Source:
 
 1. [Kyodo](https://english.kyodonews.net/news/2017/09/1937a134482d-tokyo-gov-koike-vows-to-reset-japan-with-new-hope-party.html)
-2. [The Telegraph](http://www.independent.co.uk/news/world/europe/ireland-abortion-referendum-2018-next-year-republic-pro-life-choice-legalise-latest-a7968256.html)
-2. [Cover Image](https://img.kyodonews.net/english/public/images/posts/6203d55ef6c86bfaba52f9b6cb9c4e3e/photo_l.jpg)
+1. [Cover Image](https://img.kyodonews.net/english/public/images/posts/6203d55ef6c86bfaba52f9b6cb9c4e3e/photo_l.jpg)
 
 ### Related:
 

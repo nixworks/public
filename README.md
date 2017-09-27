@@ -6,8 +6,8 @@ Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
 ### [Along with the Solomon Islands, the state of Palestine joins Interpol despite objections from the state of Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-the-state-of-israel.md)
 Secret ballot seen as diplomatic win for Palestinian statehood, as Israel was actively seeking to postpone the vote.
 
-### [A Russian cannibal couple may have killed at least 30 people. ](/news/2017/09/27/a-russian-cannibal-couple-may-have-killed-at-least-30-people.md)
-_Context: Crime in Russia, Russia, cannibal_
+### [A Russian cannibal couple in Krasnodar Krai may have killed at least 30 people. ](/news/2017/09/27/a-russian-cannibal-couple-in-krasnodar-krai-may-have-killed-at-least-30-people.md)
+_Context: Crime in Russia, Krasnodar Krai, Russia, cannibal_
 
 ### [Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country from exile. ](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-raufkhon-is-arrested-on-his-return-to-the-central-asian-country-from-exile.md)
 Uzbek police detained dissident writer Nurulloh Muhammad Raufkhon as he returned to the Central Asian country from Turkey on Wednesday, his wife told Reuters.
@@ -17,6 +17,9 @@ Yingluck Shinawatra denied negligence over a costly rice subsidy scheme and fled
 
 ### [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kiba-no-ta-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it.md)
 Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese politics by operating free from the influence of established interests.
+
+### [The Republic of Ireland announces a referendum on abortion will be held in May or June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-in-may-or-june-2018.md)
+Ireland is to hold a referendum on abortion in 2018, it has been announced. A decision on the eighth amendment, which gives equal right to life to the unborn, will take place in May or June next year, according to Prime Minister Leo Varadkar’s government. The public will then decide if abortion sh...
 
 ### [The government of Iraqi Kurdistan announces that they won the referendum by over 92% of the vote. ](/news/2017/09/27/the-government-of-iraqi-kurdistan-announces-that-they-won-the-referendum-by-over-92-of-the-vote.md)
 Almost 93 per cent of those who took part in the referendum on support for Kurdish independence from Iraq have vo
@@ -47,7 +50,7 @@ The decision involving the Bombardier company threatens to inflame trade tension
 ### [The king of Saudi Arabia issues a decree allowing women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-allowing-women-to-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-soverei.md)
 King Salman ordered the reform in a royal decree delivered on Tuesday night, requesting that drivers’ licences be issued to women who wanted them
 
-### [The office of the United States Attorney for the Southern District of New York announces that 10 individuals, including assistant coaches at four NCAA Division I men's basketball programs--Arizona, Auburn, Oklahoma State, and USC--have been arrested on federal corruption charges. The accused are alleged to be part of a scheme by which coaches accepted bribes to steer NBA-bound college players toward certain agents and financial advisers. Court documents also allege that an apparel company paid $100,000 to the family of an unnamed player to ensure his signing with an unnamed Division I school, which was later confirmed as the University of Louisville. ](/news/2017/09/26/the-office-of-the-united-states-attorney-for-the-southern-district-of-new-york-announces-that-10-individuals-including-assistant-coaches-at.md)
+### [The office of the United States Attorney for the Southern District of New York announces that 10 individuals, including assistant coaches at four NCAA Division I men's basketball programs--Arizona, Auburn, Oklahoma State, and USC--have been arrested on federal corruption charges. The accused are alleged to be part of a scheme by which coaches accepted bribes to steer NBA-bound college players toward certain agents and financial advisers. Court documents also allege that an apparel company later identified as Adidas paid $100,000 to the family of an unnamed player to ensure his signing with an unnamed Division I school, which was later confirmed as the University of Louisville. ](/news/2017/09/26/the-office-of-the-united-states-attorney-for-the-southern-district-of-new-york-announces-that-10-individuals-including-assistant-coaches-at.md)
 Federal prosecutors have announced charges of fraud and corruption in college basketball. Among those arrested and charged are four assistant coaches at Auburn, Arizona, Oklahoma State and USC.
 
 ### [The result of a non-binding independence referendum by Iraqi Kurdistan will to be announced within 72 hours. The vote is widely expected to be in favor of independence. ](/news/2017/09/26/the-result-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-will-to-be-announced-within-72-hours-the-vote-is-widely-expected-to.md)
