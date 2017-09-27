@@ -6,16 +6,13 @@ Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
 ### [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md)
 Secret ballot seen as diplomatic win for Palestinian statehood, as Israel was actively seeking to postpone the vote.
 
-### [A Russian cannibal couple in Krasnodar Krai may have killed at least 30 people. ](/news/2017/09/27/a-russian-cannibal-couple-in-krasnodar-krai-may-have-killed-at-least-30-people.md)
-_Context: Crime in Russia, Krasnodar Krai, Russia, cannibal_
-
 ### [Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country from exile. ](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-raufkhon-is-arrested-on-his-return-to-the-central-asian-country-from-exile.md)
 Uzbek police detained dissident writer Nurulloh Muhammad Raufkhon as he returned to the Central Asian country from Turkey on Wednesday, his wife told Reuters.
 
-### [Former Thai Prime Minister Yingluck is jailed "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-is-jailed-in-absentia.md)
+### [Former Thai Prime Minister Yingluck Shinawatra is jailed "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-shinawatra-is-jailed-in-absentia.md)
 Yingluck Shinawatra denied negligence over a costly rice subsidy scheme and fled Thailand in August.
 
-### [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kiba-no-ta-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it.md)
+### [Tokyo governor Yuriko Koike establishes the conservative Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-conservative-kiba-no-ta-party-of-hope-to-contest-the-upcoming-election-although-she-will-nei.md)
 Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese politics by operating free from the influence of established interests.
 
 ### [The Republic of Ireland announces a referendum on abortion will be held between May and June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-between-may-and-june-2018.md)
