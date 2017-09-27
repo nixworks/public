@@ -13,7 +13,7 @@ Iraq on Sunday urged foreign countries to stop importing crude directly from its
 
 ### Related:
 
-1. [The result of a non-binding independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. ](/news/2017/09/26/the-result-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-the-vote-is-widely-expected-to-be-in-favor-of-ind.md) _Context: Iraqi Kurdistan, Iraqi Kurdistan independence referendum, 2017_
+1. [The result of a non-binding independence referendum by Iraqi Kurdistan will to be announced within 72 hours. The vote is widely expected to be in favor of independence. ](/news/2017/09/26/the-result-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-will-to-be-announced-within-72-hours-the-vote-is-widely-expected-to.md) _Context: Iraqi Kurdistan, Iraqi Kurdistan independence referendum, 2017_
 2. [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md) _Context: Iraqi Kurdistan, Iraqi Kurdistan independence referendum, 2017_
 3. [ Three American hikers detained on the border between Iraqi Kurdistan and Iran are to be charged for espionage by Iranian authorities. ](/news/2009/11/9/three-american-hikers-detained-on-the-border-between-iraqi-kurdistan-and-iran-are-to-be-charged-for-espionage-by-iranian-authorities.md) _Context: Iran, Iraqi Kurdistan_
 4. [ The Iranian military bombs villages in northern Iraq, targeting PEJAK militants. ](/news/2007/09/4/the-iranian-military-bombs-villages-in-northern-iraq-targeting-pejak-militants.md) _Context: Iran, Iraqi Kurdistan_

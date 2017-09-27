@@ -1,9 +1,12 @@
 ## [News](/news/2017/09/27/index.md)
 
+### [Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country. ](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-raufkhon-is-arrested-on-his-return-to-the-central-asian-country.md)
+Uzbek police detained dissident writer Nurulloh Muhammad Raufkhon as he returned to the Central Asian country from Turkey on Wednesday, his wife told Reuters.
+
 ### [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kibo-no-to-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it-no.md)
 Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese politics by operating free from the influence of established interests.
 
-### [The Republic of Ireland will hold a referendum on abortion. ](/news/2017/09/27/the-republic-of-ireland-will-hold-a-referendum-on-abortion.md)
+### [The Republic of Ireland announces a referendum on abortion will be held in May or June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-in-may-or-june-2018.md)
 Ireland is to hold a referendum on abortion in 2018, it has been announced. A decision on the eighth amendment, which gives equal right to life to the unborn, will take place in May or June next year, according to Prime Minister Leo Varadkar’s government. The public will then decide if abortion sh...
 
 ## Opinion
@@ -32,7 +35,7 @@ King Salman ordered the reform in a royal decree delivered on Tuesday night, req
 ### [The office of the United States Attorney for the Southern District of New York announces that 10 individuals, including assistant coaches at four NCAA Division I men's basketball programs--Arizona, Auburn, Oklahoma State, and USC--have been arrested on federal corruption charges. ](/news/2017/09/26/the-office-of-the-united-states-attorney-for-the-southern-district-of-new-york-announces-that-10-individuals-including-assistant-coaches-at.md)
 Federal prosecutors have announced charges of fraud and corruption in college basketball. Among those arrested and charged are four assistant coaches at Auburn, Arizona, Oklahoma State and USC.
 
-### [The result of a non-binding independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. ](/news/2017/09/26/the-result-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-the-vote-is-widely-expected-to-be-in-favor-of-ind.md)
+### [The result of a non-binding independence referendum by Iraqi Kurdistan will to be announced within 72 hours. The vote is widely expected to be in favor of independence. ](/news/2017/09/26/the-result-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-will-to-be-announced-within-72-hours-the-vote-is-widely-expected-to.md)
 Turkey and Iran, traditional foes, have established common ground in Iraq, Syria and Qatar as regional alliances shift.
 
 ### [Justice Roy Moore and U.S. Senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. Moore is projected to win the primary runoff. ](/news/2017/09/26/justice-roy-moore-and-u-s-senator-luther-strange-face-off-in-alabamaas-special-election-in-what-political-analysts-claim-is-a-deepening-r.md)
