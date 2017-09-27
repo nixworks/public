@@ -10,7 +10,7 @@ Welcome to Cambridge Core
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [ The first (and second) video was uploaded to YouTube.](/news/2005/04/23/the-first-and-second-video-was-uploaded-to-youtube.md)
-_Context: YouTube_
+_Context: Youtube_
 
 ## [Previous Day...](/news/2005/04/22/index.md)
 

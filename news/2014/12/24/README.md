@@ -7,7 +7,7 @@ A suicide bomber killed 33 people and wounded 55 others in Madaen, about 25 km (
 _Context: Ar-Raqqah, ISIL, Jordanian air force, Syria_
 
 ### [Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md)
-_Context: Google Play, Sony Pictures Entertainment hack, The Interview, YouTube_
+_Context: Google Play, Sony Pictures Entertainment hack, The Interview, Youtube_
 
 ### [Russia declares a state of emergency after oil from a Russian oil pipeline spills into the Black Sea near the port of Tuapse. ](/news/2014/12/24/russia-declares-a-state-of-emergency-after-oil-from-a-russian-oil-pipeline-spills-into-the-black-sea-near-the-port-of-tuapse.md)
 A leak on a major Russian oil pipeline caused a spill in the Black Sea near the port of Tuapse on Wednesday where officials said stormy weather was hampering efforts to assess and respond to the mishap.

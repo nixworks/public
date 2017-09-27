@@ -13,7 +13,7 @@ Washington says weapons may remain there after exercise to help Amman deal with 
 UN investigators say they have reasonable grounds to believe chemical weapons were used in Syria.
 
 ### [Krystian Zimerman, one of the world's leading concert pianists, angrily exits a concert in Essen, North Rhine-Westphalia, over a dispute with YouTube which he says is "destroying music". ](/news/2013/06/4/krystian-zimerman-one-of-the-world-s-leading-concert-pianists-angrily-exits-a-concert-in-essen-north-rhine-westphalia-over-a-dispute-wit.md)
-_Context: Essen, Krystian Zimerman, North Rhine-Westphalia, YouTube_
+_Context: Essen, Krystian Zimerman, North Rhine-Westphalia, Youtube_
 
 ### [Ohio State University president E. Gordon Gee announces his retirement effective July 1 amidst controversy over insulting remarks he made in December 2012. ](/news/2013/06/4/ohio-state-university-president-e-gordon-gee-announces-his-retirement-effective-july-1-amidst-controversy-over-insulting-remarks-he-made-in.md)
 Gordon Gee once said he had &quot;no business talking college football.&quot; But doing so ended his tenure as Ohio State&#39;s President.

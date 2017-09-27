@@ -10,7 +10,7 @@ _Context: Battle of Najaf (2007), Iraq, Najaf_
 _Context: Shia insurgency in Yemen, Yemen_
 
 ### [ YouTube's founder says people who upload their own videos to the site will get a share of the ad revenue. ](/news/2007/01/28/youtube-s-founder-says-people-who-upload-their-own-videos-to-the-site-will-get-a-share-of-the-ad-revenue.md)
-_Context: YouTube, revenue, video_
+_Context: Youtube, revenue, video_
 
 ### [ Roger Federer defeats Fernando Gonzalez 7-6 6-4 6-4 at the Australian Open, claiming his 10th Grand Slam victory. ](/news/2007/01/28/roger-federer-defeats-fernando-gonzalez-7-6-6-4-6-4-at-the-australian-open-claiming-his-10th-grand-slam-victory.md)
 The Age 404 Page

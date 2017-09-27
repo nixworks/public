@@ -19,7 +19,7 @@ _Context: Hammersmith Apollo, Kate Bush, London_
 _Context: Burger King, Canada, Canadian, Fast food, Tim Hortons, corporate tax inversions_
 
 ### [The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-belarus-as-disputes-in-eastern-ukrain.md)
-_Context: Belarus, Minsk, Petro Poroshenko, Russian President Vladimir Putin, Ukraine, Ukrainian President, Vladimir Putin_
+_Context: Belarus, Minsk, Petro Poroshenko, Russian President, Ukraine, Ukrainian President, Vladimir Putin_
 
 ### [At least 5 people die in a prison riot in the Brazilian city of Cascavel. ](/news/2014/08/26/at-least-5-people-die-in-a-prison-riot-in-the-brazilian-city-of-cascavel.md)
 Officials in Brazil say a prison riot in which at least five inmates were killed has ended and the prisoners have been transferred to other jails.

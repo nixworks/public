@@ -7,7 +7,7 @@ _Context: Khost, Taliban, United States_
 Full Coverage of the Rio 2016 Olympics on Yahoo Sports. Get the schedule, medal count and the latest results.
 
 ### [ According to general staff in Moscow, Russia has begun troop withdrawals from Georgia, following a pledge by President Dmitry Medvedev. However, 'Moscow saying it has the right to keep some troops as peacekeepers in a buffer zone around South Ossetia'. ](/news/2008/08/18/according-to-general-staff-in-moscow-russia-has-begun-troop-withdrawals-from-georgia-following-a-pledge-by-president-dmitry-medvedev-how.md)
-_Context: Dmitry Medvedev, Georgian, Moscow, Russia, Russian President Vladimir Putin_
+_Context: Dmitry Medvedev, Georgian, Moscow, Russia, Russian President_
 
 ### [ Pakistani President Pervez Musharraf, who was facing impeachment, announces his resignation as President. Indirect presidential elections will be held within 30 days. ](/news/2008/08/18/pakistani-president-pervez-musharraf-who-was-facing-impeachment-announces-his-resignation-as-president-indirect-presidential-elections-w.md)
 _Context: Indirect presidential elections, Pakistan, Pakistan Presidential Impeachment, Pervez Musharraf, impeach, president_

@@ -22,7 +22,7 @@ _Context: 1977, Roman Polanski, Swiss Government, United States, extradited, sex
 _Context: Pakistan, Peshawar_
 
 ### [ A huge explosion occurs at an oil refinery in Catao, Puerto Rico. ](/news/2009/10/23/a-huge-explosion-occurs-at-an-oil-refinery-in-catano-puerto-rico.md)
-_Context: Catao, island, oil refinery fire, refinery_
+_Context: Catao, Puerto Rico, oil refinery fire, refinery_
 
 ### [ Vitit Muntarbhorn, United Nations Special Rapporteur for North Korea, says the country should improve its "abysmal" rights record, adding it should provide food to over 8 million citizens. ](/news/2009/10/23/vitit-muntarbhorn-united-nations-special-rapporteur-for-north-korea-says-the-country-should-improve-its-abysmal-rights-record-adding-i.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan

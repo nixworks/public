@@ -12,6 +12,9 @@ The Trump administration issued an updated travel ban with fresh restrictions on
 ### [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured. The suspected shooter is arrested. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-the-suspected-shooter-is-arrested.md)
 Local police and federal authorities worked Monday to determine why a man went on a deadly shooting spree at a Nashville-area church, while a shocked community prepared for prayer vigils for the victims and their families in the shooting&#039;s aftermath. One person was killed and seven others injur...
 
+### [Indiana prolific serial killer Orville Lynn Majors, believed to have committed as many as 130 nursing murders between 1993 and 1995, dies in prison at the age of 56. ](/news/2017/09/24/indiana-prolific-serial-killer-orville-lynn-majors-believed-to-have-committed-as-many-as-130-nursing-murders-between-1993-and-1995-dies-in.md)
+Convicted murderer Orville Lynn Majors, who was serving 360 years at Indiana State Prison in Michigan City, has died. 
+
 ### [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md)
 Chancellor Angela Merkel and her main challenger, Martin Schulz have made their final appeals to voters ahead of Sunday&#39;s parliamentary elections. Both have urged Germans not to back the right-wing populist AfD party. 
 

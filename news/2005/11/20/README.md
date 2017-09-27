@@ -10,7 +10,7 @@ _Context: Ariel Sharon, Benjamin Netanyahu, Israeli Labor Party, Israeli Prime M
 _Context: China, George W. Bush, U.S. President_
 
 ### [ Russian President Vladimir Putin visits Japan with 100 business leaders for trade talks. ](/news/2005/11/20/russian-president-vladimir-putin-visits-japan-with-100-business-leaders-for-trade-talks.md)
-_Context: Japan, Russian President Vladimir Putin, Vladimir Putin_
+_Context: Japan, Russian President, Vladimir Putin_
 
 ### [ "Harry Potter and the Goblet of Fire", the latest film based on the books by J. K. Rowling, earns US$101.4 million in its first three days of release across North America, making it the fourth-largest opening ever. ](/news/2005/11/20/harry-potter-and-the-goblet-of-fire-the-latest-film-based-on-the-books-by-j-k-rowling-earns-us-101-4-million-in-its-first-three-days.md)
 _Context: Harry Potter and the Goblet of Fire, J. K. Rowling, fourth-largest opening_

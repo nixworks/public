@@ -7,7 +7,7 @@ ABC News Anchor Peter Jennings died today at his home in New York City. He was 6
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Military of the United States_
 
 ### [ A 10-year-old Israeli boy is severely wounded after being shot in the head when an Al-Aqsa Martyrs Brigades gunman opened fire on the vehicle he was travelling in outside the Israeli settlement of Ateret in the West Bank. ](/news/2005/08/7/a-10-year-old-israeli-boy-is-severely-wounded-after-being-shot-in-the-head-when-an-al-aqsa-martyrs-brigades-gunman-opened-fire-on-the-vehic.md)
-_Context: Al-Aqsa Martyrs' Brigades, Ateret, Israeli settlement, Israelis, West Bank_
+_Context: Al-Aqsa Martyrs' Brigades, Ateret, Israelis, Jewish settlement, West Bank_
 
 ### [ Russian Priz class mini-submarine AS-28 and its 7 crew members are saved at 03:25 UTC off the Pacific coast ](/news/2005/08/7/russian-priz-class-mini-submarine-as-28-and-its-7-crew-members-are-saved-at-03-25-utc-off-the-pacific-coast.md)
 _Context: AS-28, Priz class_

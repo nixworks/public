@@ -7,7 +7,7 @@ France confirms an Algerian jihadist group linked to IS has beheaded 55-year-old
 _Context: Flash flooding, India, mudslide_
 
 ### [Japan imposes additional sanctions on Russia due to the Ukraine conflict and a visit by an aide of the President of Russia Vladimir Putin to a contested island off the coast off northern Japan. ](/news/2014/09/24/japan-imposes-additional-sanctions-on-russia-due-to-the-ukraine-conflict-and-a-visit-by-an-aide-of-the-president-of-russia-vladimir-putin-to.md)
-_Context: Japan, Russia, Russian President Vladimir Putin, Ukraine, Vladimir Putin_
+_Context: Japan, Russia, Russian President, Ukraine, Vladimir Putin_
 
 ### [A Virginia man is arrested in relation to the disappearance of Hannah Graham, a British student studying at the University of Virginia. ](/news/2014/09/24/a-virginia-man-is-arrested-in-relation-to-the-disappearance-of-hannah-graham-a-british-student-studying-at-the-university-of-virginia.md)
 A Virginia man is arrested in the abduction of a British-born student who disappeared more than 10 days ago and remains missing.

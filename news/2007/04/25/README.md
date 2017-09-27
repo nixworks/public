@@ -7,7 +7,7 @@ _Context: June 24, May 27, Ukraine, Ukrainian President, Ukrainian parliamentary
 _Context: Iraq, October 1, United States, United States House of Representatives, legislation_
 
 ### [ Boris Yeltsin, the first President of Russia, is buried at Novodevichy Cemetery following a funeral service in central Moscow. ](/news/2007/04/25/boris-yeltsin-the-first-president-of-russia-is-buried-at-novodevichy-cemetery-following-a-funeral-service-in-central-moscow.md)
-_Context: Boris Yeltsin, Moscow, Novodevichy Cemetery, Russian President Vladimir Putin, funeral_
+_Context: Boris Yeltsin, Moscow, Novodevichy Cemetery, Russian President, funeral_
 
 ### [ Former Polish government minister Barbara Blida commits suicide during a police searching of her house ](/news/2007/04/25/former-polish-government-minister-barbara-blida-commits-suicide-during-a-police-searching-of-her-house.md)
 _Context: Barbara Blida, Polish, suicide_

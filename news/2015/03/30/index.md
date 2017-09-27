@@ -4,7 +4,7 @@
 An air strike killed at least 40 people at a camp for displaced people in north Yemen on Monday, humanitarian workers said, in an attack which apparently targeted nearby Houthi fighters who are battling President Abd-Rabbu Mansour Hadi.
 
 ### [Creditors offer Puerto Rico's highly leveraged power authority $2 billion in new financing, including $1.2 billion for a new natural gas operation, in exchange for assurances that it will repay its debt. ](/news/2015/03/30/creditors-offer-puerto-rico-s-highly-leveraged-power-authority-2-billion-in-new-financing-including-1-2-billion-for-a-new-natural-gas-ope.md)
-_Context: US$, island_
+_Context: Puerto Rico, US$_
 
 ### [American company UnitedHealth Group will buy American pharmacy benefit firm Catamaran Corporation for $12.8 billion. ](/news/2015/03/30/american-company-unitedhealth-group-will-buy-american-pharmacy-benefit-firm-catamaran-corporation-for-12-8-billion.md)
 Health insurer UnitedHealth Group Inc (UNH.N) agreed to buy Catamaran Corp CTRX.OCCT.TO in a deal worth about $12.8 billion to boost its pharmacy benefit business as it competes with bigger rivals such as Express Scripts Holdings Co (ESRX.O).

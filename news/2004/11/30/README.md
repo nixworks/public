@@ -13,7 +13,7 @@ _Context: Jeopardy!, Ken Jennings, game show_
 _Context: George W. Bush, Ottawa_
 
 ### [ U.S. Department of Homeland Security Secretary Tom Ridge resigns. This is the latest in a string of resignations after the 2004 presidential election. ](/news/2004/11/30/u-s-department-of-homeland-security-secretary-tom-ridge-resigns-this-is-the-latest-in-a-string-of-resignations-after-the-2004-presidentia.md)
-_Context: Tom Ridge, United States Homeland Security, resignations after the 2004 presidential election_
+_Context: Tom Ridge, United States Department of Homeland Security, resignations after the 2004 presidential election_
 
 ### [ A report from the International Committee of the Red Cross, recently leaked to the "New York Times", describes the treatment of prisoners at the U.S. base in Guantnamo Bay, Cuba as being "tantamount to torture". The U.S. military disputes this. ](/news/2004/11/30/a-report-from-the-international-committee-of-the-red-cross-recently-leaked-to-the-new-york-times-describes-the-treatment-of-prisoners-a.md)
 _Context: Camp X-Ray, International Committee of the Red Cross, New York Times, U.S. military, torture_

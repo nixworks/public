@@ -1,7 +1,7 @@
 ## [2013-08-20](/news/2013/08/20/index.md)
 
 ### [Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/russian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md)
-_Context: North Caucasus, Russia, police officers_
+_Context: North Caucasus, Russia, Russian police_
 
 ### [Narendra Dabholkar, a rationalist from India, is assassinated while out walking. ](/news/2013/08/20/narendra-dabholkar-a-rationalist-from-india-is-assassinated-while-out-walking.md)
 Anti-superstition activist and Maharashtra’s most vocal rationalist Dr. Narendra Dabholkar (65) was shot dead by two youth on a motorcycle on the Omkareshwar bridge near Pune’s Shanivar Peth area whil

@@ -1,7 +1,7 @@
 ## [2005-08-17](/news/2005/08/17/index.md)
 
 ### [ Israeli-Palestinian Conflict: An Israeli settler kills 3 Palestinian civilians in the West Bank. The attack was condemned by Ariel Sharon as a "Jewish Terror act" and "twisted thinking" while Hamas claimed the right to avenge the deaths. ](/news/2005/08/17/israeli-palestinian-conflict-an-israeli-settler-kills-3-palestinian-civilians-in-the-west-bank-the-attack-was-condemned-by-ariel-sharon-a.md)
-_Context: Ariel Sharon, Hamas, Israeli settlement, Israeli-Palestinian conflict, Palestinian, West Bank, civilians_
+_Context: Ariel Sharon, Hamas, Israeli-Palestinian conflict, Jewish settlement, Palestinian, West Bank, civilians_
 
 ### [ At least two people have been killed and several others injured in a series of over 300 blasts across Bangladesh. An outlawed Islamist group, Jamaat-ul-Mujahideen Bangladesh, has claimed responsibility. ](/news/2005/08/17/at-least-two-people-have-been-killed-and-several-others-injured-in-a-series-of-over-300-blasts-across-bangladesh-an-outlawed-islamist-grou.md)
 _Context: Bangladesh, Islamist, Jamaat-ul-Mujahideen_

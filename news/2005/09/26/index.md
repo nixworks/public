@@ -19,7 +19,7 @@ _Context: Baghdad, Iraqi insurgency, Iskandariya, school_
 _Context: Egypt, Gaza, Hamas, Israel, Israel Defense Forces, Israeli-Palestinian conflict, Khan Yunis, Palestinian, Palestinian National Authority, Rafah, airstrike_
 
 ### [ An Israeli citizen from an Israeli settlement east of Jerusalem was found murdered in Ramallah after Hamas killed the man they accused of being a member of the Shabak. ](/news/2005/09/26/an-israeli-citizen-from-an-israeli-settlement-east-of-jerusalem-was-found-murdered-in-ramallah-after-hamas-killed-the-man-they-accused-of-b.md)
-_Context: Hamas, Israel, Israeli settlement, Jerusalem, Ramallah, Shin Bet's_
+_Context: Hamas, Israel, Jerusalem, Jewish settlement, Ramallah, Shin Bet's_
 
 ### [ "Kitzmiller et al. v. Dover Area School District" is the first direct challenge brought in United States federal courts against a public school district curriculum mandating the teaching of intelligent design as an alternative to evolution. Opening arguments are set for today in Harrisburg, Pennsylvania District Court. [http://www.latimes.com/news/nationworld/nation/la-na-dover26sep26,0,4324588.story?coll=la-tot-promo&track=morenews (LA Times)] [http://www.washingtonpost.com/wp-dyn/content/article/2005/09/26/AR2005092600149.html (AP)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/kitzmiller-et-al-v-dover-area-school-district-is-the-first-direct-challenge-brought-in-united-states-federal-courts-against-a-public-sc.md)
 _Context: Evolution, Harrisburg, Kitzmiller v. Dover Area School District, Pennsylvania, federal court, intelligent design_

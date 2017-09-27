@@ -13,7 +13,7 @@ _Context: China, France, Germany, Iran, Russia, United Kingdom, United States_
 _Context: 2005 levee failures, Hurricane Katrina, New Orleans, Louisiana, United States Army Corps of Engineers_
 
 ### [ The United States Department of Homeland Security reveals that it plans to reallocate anti-terrorism funding to cities across the nation. Funding to New York City and Washington, D.C. is cut, while funding in cities such as Omaha, Nebraska and Los Angeles, California increases. New York Mayor Michael Bloomberg's office calls the report's statement that there are no "national monuments or icons" in New York City "outrageous.](/news/2006/06/1/the-united-states-department-of-homeland-security-reveals-that-it-plans-to-reallocate-anti-terrorism-funding-to-cities-across-the-nation-f.md)
-_Context: District of Columbia, Los Angeles, California, Michael Bloomberg, New York City, Omaha, Nebraska, United States Homeland Security_
+_Context: District of Columbia, Los Angeles, California, Michael Bloomberg, New York City, Omaha, Nebraska, United States Department of Homeland Security_
 
 ### [ The Government of Spain overturns the conviction of Imad Yarkas on charges of conspiracy in the September 11, 2001 attacks after the prosecutor admits that evidence of involvement in the conspiracy was "inconsistent, almost nonexistent." The Spanish government says it will provide further explanation in the coming days. ](/news/2006/06/1/the-government-of-spain-overturns-the-conviction-of-imad-yarkas-on-charges-of-conspiracy-in-the-september-11-2001-attacks-after-the-prosec.md)
 _Context: Imad Yarkas, September 11, 2001 attacks, national government_

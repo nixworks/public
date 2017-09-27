@@ -31,7 +31,7 @@ _Context: Indian Airlines_
 _Context: Fiji, High Commissioner, Voreqe Bainimarama, military government_
 
 ### [ Cuba introduces a United Nations resolution on Puerto Rico calling on the United States to expedite Puerto Rico's self-determination process; the text also requests the General Assembly to consider the question and urges cleanup of Vieques island and release of Puerto Rican political prisoners. ](/news/2007/06/14/cuba-introduces-a-united-nations-resolution-on-puerto-rico-calling-on-the-united-states-to-expedite-puerto-rico-s-self-determination-proces.md)
-_Context: Cuba, United Nations, United Nations General Assembly, Vieques, island_
+_Context: Cuba, Puerto Rico, United Nations, United Nations General Assembly, Vieques_
 
 ### [ The San Antonio Spurs defeat the Cleveland Cavaliers in Game 4 of the 2007 NBA Finals to win the 2007 National Basketball Association Championship. ](/news/2007/06/14/the-san-antonio-spurs-defeat-the-cleveland-cavaliers-in-game-4-of-the-2007-nba-finals-to-win-the-2007-national-basketball-association-champ.md)
 _Context: 2007 NBA Finals, Cleveland Cavaliers, NBA's, San Antonio Spurs_

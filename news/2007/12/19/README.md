@@ -13,7 +13,7 @@ _Context: Chung Dong-young, Lee Hoi-chang, Lee Myung-bak, President of South Kor
 _Context: Pakistan, passenger express train derailment_
 
 ### [ President of Russia Vladimir Putin is ""Time" magazine's Person of the Year". ](/news/2007/12/19/president-of-russia-vladimir-putin-is-time-magazine-s-person-of-the-year.md)
-_Context: Person of the Year, Russia, Russian President Vladimir Putin, Time, Vladimir Putin_
+_Context: Person of the Year, Russia, Russian President, Time, Vladimir Putin_
 
 ### [ Belgian Prime Minister Guy Verhofstadt forms a temporary coalition government comprising five Socialist and Christian Democrat parties from both main language communities. ](/news/2007/12/19/belgian-prime-minister-guy-verhofstadt-forms-a-temporary-coalition-government-comprising-five-socialist-and-christian-democrat-parties-from.md)
 _Context: Belgium, Guy Verhofstadt, Prime Minister, Socialist and Christian Democrat parties, forms a temporary coalition government_

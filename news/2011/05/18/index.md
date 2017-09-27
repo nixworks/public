@@ -43,7 +43,7 @@ _Context: Argentina, Flight 5428, Patagonia, Saab 340, Sol Lneas Areas_
 The Palestinian Authority wants Israel to reinstate the lost residency rights of up to 140,000 people from the West Bank, Yolande Knell reports.
 
 ### [Dmitry Medvedev, the President of Russia, warns of a potential new Cold War if the United States does not listen to Russia's concerns about its proposed missile defense system. ](/news/2011/05/18/dmitry-medvedev-the-president-of-russia-warns-of-a-potential-new-cold-war-if-the-united-states-does-not-listen-to-russia-s-concerns-about.md)
-_Context: Cold War, Dmitry Medvedev, Russia, Russian President Vladimir Putin, United States, missile defense shield_
+_Context: Cold War, Dmitry Medvedev, Russia, Russian President, United States, missile defense shield_
 
 ### [UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. ](/news/2011/05/18/uk-royal-state-visit-to-ireland-queen-elizabeth-ii-of-the-united-kingdom-visits-croke-park-in-dublin-where-british-troops-killed-20-people.md)
 _Context: Bloody Sunday massacre of 1920, Croke Park, Dublin, Queen Elizabeth II, UK royal state visit to Ireland, United Kingdom_

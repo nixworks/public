@@ -40,7 +40,7 @@ The discovery of the plumes, one as large as 10 miles long, is evidence that the
 Hong Kong voted in citywide by-elections on Sunday, polls which pro-democracy groups consider to be a de facto referendum on universal suffrage aimed at pressuring Beijing to grant swifter political reforms.
 
 ### [An earthquake of 5.8 magnitude is felt on Puerto Rico. ](/news/2010/05/16/an-earthquake-of-5-8-magnitude-is-felt-on-puerto-rico.md)
-_Context: island_
+_Context: Puerto Rico_
 
 ### [Brazilian President Luiz Inacio Lula da Silva flies from Moscow, where he met Russian President Dmitry Medvedev, to Tehran for a meeting with Iranian officials there on the nuclear issue. ](/news/2010/05/16/brazilian-president-luiz-ina-cio-lula-da-silva-flies-from-moscow-where-he-met-russian-president-dmitry-medvedev-to-tehran-for-a-meeting-wi.md)
 _Context: Dmitry Medvedev, Lula, Moscow, Tehran_

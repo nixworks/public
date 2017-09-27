@@ -13,7 +13,7 @@ _Context: Dutch Safety Board, Malaysia Airlines Flight 17_
 Greek MPs approve tough economic measures required to enable an €86bn eurozone bailout deal to go ahead, amid clashes outside parliament in Athens.
 
 ### [ Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a-near-term-default-is-a-virtual-certa.md)
-_Context: Government Development Bank, Puerto Rico government-debt crisis, Standard & Poor's, island_
+_Context: Government Development Bank, Puerto Rico, Puerto Rico government-debt crisis, Standard & Poor's_
 
 ### [ Pabst Brewing Company announces plans to brew again at their historic brewery located in Milwaukee. ](/news/2015/07/15/pabst-brewing-company-announces-plans-to-brew-again-at-their-historic-brewery-located-in-milwaukee.md)
 _Context: Milwaukee, Pabst Brewing Company_

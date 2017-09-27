@@ -13,7 +13,7 @@ _Context: Imam Ali Mosque, Iraq, Najaf, U.S. Marines, militia_
 _Context: Canadian War Museum, Commonwealth of Nations, Filip Konowal, Ukrainian, Victoria Cross, battle for Hill 70_
 
 ### [ El Vocero reports that 50 out of 129 illegal immigrants travelling by boat from the Dominican Republic to Puerto Rico have been massacred by the ship's captains.](/news/2004/08/23/el-vocero-reports-that-50-out-of-129-illegal-immigrants-travelling-by-boat-from-the-dominican-republic-to-puerto-rico-have-been-massacred-b.md)
-_Context: Dominican Republic, El Vocero, island_
+_Context: Dominican Republic, El Vocero, Puerto Rico_
 
 ## [Previous Day...](/news/2004/08/22/index.md)
 

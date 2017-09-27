@@ -10,7 +10,7 @@ _Context: 2016 West Iran clashes, Democratic Party of Iranian Kurdistan, Iranian
 Gunmen on motorbikes attack village near Madagali in Adamawa state, killing mourners and setting houses on fire.
 
 ### [Four Russian security officers and six militants are killed in an anti-terrorism operation in Dagestan. ](/news/2016/06/17/four-russian-security-officers-and-six-militants-are-killed-in-an-anti-terrorism-operation-in-dagestan.md)
-_Context: Dagestan, Insurgency in the North Caucasus, militants, police officers_
+_Context: Dagestan, Insurgency in the North Caucasus, Russian police, militants_
 
 ### [The U.S. Justice Department has decided against an action against Angelo Mozilo, former chief executive of Countrywide Financial, arising out of the issuance of mortgage backed securities during his tenure there. ](/news/2016/06/17/the-u-s-justice-department-has-decided-against-an-action-against-angelo-mozilo-former-chief-executive-of-countrywide-financial-arising-ou.md)
 Former Countrywide Financial Corp CEO Angelo Mozilo and other executives will not face a U.S. Justice Department lawsuit for defrauding investors in mortgage-backed securities issued before the 2008 financial crisis, people familiar with the matter said on Friday.

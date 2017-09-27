@@ -25,7 +25,7 @@ Turki al-Hamad, who was arrested in December for tweets criticising Islamism, re
 year-old winner opts for $370 million lump sum
 
 ### [Bangladesh lifts a ban on YouTube that had been in effect since September 2012. ](/news/2013/06/5/bangladesh-lifts-a-ban-on-youtube-that-had-been-in-effect-since-september-2012.md)
-_Context: YouTube_
+_Context: Youtube_
 
 ### [Prince Philip is admitted to a London hospital for an exploratory operation. ](/news/2013/06/5/prince-philip-is-admitted-to-a-london-hospital-for-an-exploratory-operation.md)
 _Context: London, Prince Philip, Duke of Edinburgh_

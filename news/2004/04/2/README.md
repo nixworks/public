@@ -29,7 +29,7 @@ _Context: Bureau of Labor Statistics, Economy of the United States, Nonfarm payr
 _Context: EU, European Monitoring Centre on Racism and Xenophobia, Jew, anti-Semitism_
 
 ### [ Ariel Sharon states that he is ordering a halt to all construction and development in Gaza Strip settlements. ](/news/2004/04/2/ariel-sharon-states-that-he-is-ordering-a-halt-to-all-construction-and-development-in-gaza-strip-settlements.md)
-_Context: Ariel Sharon, Gaza, Israeli settlement, construction_
+_Context: Ariel Sharon, Gaza, Jewish settlement, construction_
 
 ### [ The Spanish government discloses that a powerful bomb has been discovered on the high-speed AVE railway line between Madrid and Seville. ](/news/2004/04/2/the-spanish-government-discloses-that-a-powerful-bomb-has-been-discovered-on-the-high-speed-ave-railway-line-between-madrid-and-seville.md)
 _Context: AVE, Madrid, Seville_

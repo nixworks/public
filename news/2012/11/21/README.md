@@ -28,7 +28,7 @@ A Yemeni military plane has crashed in the capital, Sanaa, killing all 10 people
 India has hanged Mohammad Ajmal Kasab, the only militant to have survived the 2008 attacks on the financial capital Mumbai.
 
 ### [Puerto Rican professional boxer Hector Camacho is shot multiple times in Bayamon, Puerto Rico. The driver of Camacho's car is killed in the attack. Camacho was shot in the neck and face and taken to St. Paul's Hospital in Rio Piedras, where he was pronounced to be in critical condition shortly thereafter. ](/news/2012/11/21/puerto-rican-professional-boxer-ha-c-ctor-camacho-is-shot-multiple-times-in-bayamon-puerto-rico-the-driver-of-camacho-s-car-is-killed-in-the.md)
-_Context: Bayamon, Hector Camacho, Puerto Rican, Rio Piedras, boxing, island_
+_Context: Bayamon, Hector Camacho, Puerto Rican, Puerto Rico, Rio Piedras, boxing_
 
 ### [President of Ireland Michael D. Higgins calls for an investigation into the death of Savita Halappanavar to meet the needs of a "concerned public" as Savita's husband Praveen continues his battle against Ireland's government and the Health Service Executive (HSE) to hold a sworn, public inquiry into her death, which he believes occurred due to her being denied an abortion. ](/news/2012/11/21/president-of-ireland-michael-d-higgins-calls-for-an-investigation-into-the-death-of-savita-halappanavar-to-meet-the-needs-of-a-concerned-p.md)
 _Context: Government of Ireland, Health Service Executive, Ireland, Michael D. Higgins, President, abortion, abortion, abortion scandal_

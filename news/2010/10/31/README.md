@@ -31,7 +31,7 @@ Indonesia has ramped up efforts to help those on remote islands hit by a devasta
 _Context: Indonesia, Mounts Merapi_
 
 ### [Human Rights Watch expresses concern that Iran and Saudi Arabia, which have been criticized for their records on women's rights, are expected to join a new U.N. agency devoted to women and could interfere with the work of the agency. ](/news/2010/10/31/human-rights-watch-expresses-concern-that-iran-and-saudi-arabia-which-have-been-criticized-for-their-records-on-women-s-rights-are-expecte.md)
-_Context: Human Rights Watch, Iran, U.N., Women's rights, conflicts with women's rights_
+_Context: Human Rights Watch, Iran, U.N., Women's rights, Women's rights in Saudi Arabia_
 
 ### [Afghan President Hamid Karzai denounces a large-scale drug raid in which U.S. forces and Russian drug agents took part, calling it a violation of Afghan sovereignty, even though Afghan police participated. ](/news/2010/10/31/afghan-president-hamid-karzai-denounces-a-large-scale-drug-raid-in-which-u-s-forces-and-russian-drug-agents-took-part-calling-it-a-violati.md)
 Afghan President Hamid Karzai on Saturday denounced a large-scale drug raid in which U.S. forces and Russian drug agents took part, calling it a violation of Afghan sovereignty. The outburst marked...

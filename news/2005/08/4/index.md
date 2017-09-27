@@ -4,7 +4,7 @@
 _Context: Ayman al-Zawahri, Foreign Policy, July 2005 London bombings, Tony Blair, al-Qaeda_
 
 ### [ The Ministry of Housing in Israel has issued tenders for the construction of a further 72 houses in an Israeli settlement of Betar Illit, near Bethlehem, on the West Bank. ](/news/2005/08/4/the-ministry-of-housing-in-israel-has-issued-tenders-for-the-construction-of-a-further-72-houses-in-an-israeli-settlement-of-betar-illit-n.md)
-_Context: Betar Illit, Bethlehem, Israel, Israeli settlement, West Bank_
+_Context: Betar Illit, Bethlehem, Israel, Jewish settlement, West Bank_
 
 ### [ In the UK, the Bank of England's Monetary Policy Committee has cut its interest rate by a quarter percent to 4.5% ](/news/2005/08/4/in-the-uk-the-bank-of-england-s-monetary-policy-committee-has-cut-its-interest-rate-by-a-quarter-percent-to-4-5.md)
 _Context: Monetary Policy Committee, United Kingdom_

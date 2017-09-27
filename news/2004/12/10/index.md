@@ -4,7 +4,7 @@
 _Context: Gaza, Israel, Khan Yunis, Mortar, Palestinian_
 
 ### [ A riot forms in Puerto Rico between members of the PIP, the FUPI, the Socialist party and members of the police in front of the federal courthouse, where PIP and PNP backers had gathered two days before the outcome of the 2004 Puerto Rican elections was to be decided by a judge. Several people, including seven policemen, are severely injured. [http://vocero.com/noticia.asp?n=50165&d=12/11/2004 ("El Vocero"] {{es icon}}](/news/2004/12/10/a-riot-forms-in-puerto-rico-between-members-of-the-pip-the-fupi-the-socialist-party-and-members-of-the-police-in-front-of-the-federal-cou.md)
-_Context: 2004 Puerto Rican elections, FUPI, PIP, PNP, Socialist party, U.S. federal court, island, police, riot_
+_Context: 2004 Puerto Rican elections, FUPI, PIP, PNP, Puerto Rico, Socialist party, U.S. federal court, police, riot_
 
 ### [ Italian Prime Minister Silvio Berlusconi is acquitted of bribery thanks to the statute of limitations. The court's ruling implied that Berlusconi probably was guilty of bribing a judge in 1991, but said that too much time had passed for him to be punished. ](/news/2004/12/10/italian-prime-minister-silvio-berlusconi-is-acquitted-of-bribery-thanks-to-the-statute-of-limitations-the-court-s-ruling-implied-that-berl.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

@@ -25,7 +25,7 @@ Germany has recruited 8,500 teachers to teach German to thousands of child refug
 The US says Iran has taken a significant step towards meeting its nuclear commitments, by sending a large quantity of uranium abroad.
 
 ### [A police officer storms the police headquarters in the city of Ponce, Puerto Rico, and shoots dead three fellow officers, including a commanding officer. Authorities say Guarionex Candelario, 50, was arrested for the killings shortly afterwards and taken to hospital for minor injuries. ](/news/2015/12/28/a-police-officer-storms-the-police-headquarters-in-the-city-of-ponce-puerto-rico-and-shoots-dead-three-fellow-officers-including-a-comman.md)
-_Context: Ponce, island, police officer_
+_Context: Ponce, Puerto Rico, police officer_
 
 ### [A U.S. grand jury decides not to bring charges against a Cleveland policeman over the killing of 12 year old Tamir Rice. ](/news/2015/12/28/a-u-s-grand-jury-decides-not-to-bring-charges-against-a-cleveland-policeman-over-the-killing-of-12-year-old-tamir-rice.md)
 A US grand jury decides not to bring charges against a policeman over the killing of a 12-year-old black boy armed with a toy gun in Cleveland, Ohio.

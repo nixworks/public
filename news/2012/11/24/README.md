@@ -7,7 +7,7 @@ Police in the Thai capital, Bangkok, use tear gas against thousands of protester
 _Context: Alabang, Czech Republic, Miss Earth, Miss Earth 2012, Muntinlupa City, Philippines, Tereza Fajksov_
 
 ### [The music video for South Korean pop singer Psy's "Gangnam Style" surpasses 808 million views, making it the most viewed video in the history of YouTube. ](/news/2012/11/24/the-music-video-for-south-korean-pop-singer-psy-s-gangnam-style-surpasses-808-million-views-making-it-the-most-viewed-video-in-the-histor.md)
-_Context: Gangnam Style, Psy, South Korea, YouTube_
+_Context: Gangnam Style, Psy, South Korea, Youtube_
 
 ### [Around 10,000 people demonstrate against austerity in Dublin amid calls for a general strike to shut the country down. ](/news/2012/11/24/around-10-000-people-demonstrate-against-austerity-in-dublin-amid-calls-for-a-general-strike-to-shut-the-country-down.md)
 About 10,000 people attended an anti-austerity protest in Dublin on Saturday, according to Irish police.

@@ -25,7 +25,7 @@ _Context: MTV, The Buggles, Video Killed the Radio Star_
 A US museum is trying to raise funds to restore five dresses worn by Vivien Leigh in the 1939 Oscar-winning film Gone With The Wind.
 
 ### [The internet parody video "Newport State of Mind", which had received hundreds of thousands of hits, is taken off YouTube due to a "copyright claim" by EMI Publishing. ](/news/2010/08/11/the-internet-parody-video-newport-state-of-mind-which-had-received-hundreds-of-thousands-of-hits-is-taken-off-youtube-due-to-a-copyrigh.md)
-_Context: Newport State of Mind, YouTube_
+_Context: Newport State of Mind, Youtube_
 
 ### [A preliminary investigation blames driver error for many Toyota accidents. ](/news/2010/08/11/a-preliminary-investigation-blames-driver-error-for-many-toyota-accidents.md)
 A preliminary study into accidents involving Toyota cars suggests driver error may have played a part in many incidents.

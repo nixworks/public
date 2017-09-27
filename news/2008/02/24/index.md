@@ -19,7 +19,7 @@ _Context: Lord's Resistance Army, Uganda_
 _Context: Christofias, Cypriot presidential election, 2008, Ioannis Kasoulidis, President_
 
 ### [ Pakistani censors cause most of the Earth's Internet users to lose access to the Internet site YouTube for up to two hours. ](/news/2008/02/24/pakistani-censors-cause-most-of-the-earth-s-internet-users-to-lose-access-to-the-internet-site-youtube-for-up-to-two-hours.md)
-_Context: Pakistan, YouTube_
+_Context: Pakistan, Youtube_
 
 ### [ Tottenham Hotspur Football Club win the 2008 League Cup after beating Chelsea F.C. 2-1 after extra time. ](/news/2008/02/24/tottenham-hotspur-football-club-win-the-2008-league-cup-after-beating-chelsea-f-c-2-1-after-extra-time.md)
 _Context: Chelsea F.C., League Cup, Tottenham Hotspur Football Club_

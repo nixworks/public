@@ -28,7 +28,7 @@ Nelson Mandela has had a successful surgical procedure to remove gallstones from
 Secretary of State Hillary Rodham Clinton sustained a concussion after fainting from dehydration at her home early last week, her office disclosed Saturday....
 
 ### [Russian police arrest prominent opposition leaders at a rally against President Vladimir Putin in Moscow. ](/news/2012/12/15/russian-police-arrest-prominent-opposition-leaders-at-a-rally-against-president-vladimir-putin-in-moscow.md)
-_Context: Moscow, Russia, Russian President Vladimir Putin, Vladimir Putin, police officers, rally_
+_Context: Moscow, Russia, Russian President, Russian police, Vladimir Putin, rally_
 
 ### [Yamal-402, the Russian communications satellite, is taken to its planned geostationary orbit following a series of four adjustment operations. ](/news/2012/12/15/yamal-402-the-russian-communications-satellite-is-taken-to-its-planned-geostationary-orbit-following-a-series-of-four-adjustment-operation.md)
 _Context: Russia, Yamal-402, communications satellite, geostationary orbit_

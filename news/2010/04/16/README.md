@@ -59,7 +59,7 @@ An anti-government protest leader has evaded arrest in Thailand by scaling down 
 _Context: Hillary Clinton, Israel, Palestinian, United States Secretary of State_
 
 ### [Lady Gaga breaks a YouTube most viewed record, becoming "Queen of YouTube" with more than one billion views. ](/news/2010/04/16/lady-gaga-breaks-a-youtube-most-viewed-record-becoming-queen-of-youtube-with-more-than-one-billion-views.md)
-_Context: Lady Gaga, YouTube_
+_Context: Lady Gaga, Youtube_
 
 ### [General Motors runs a 2011 Chevrolet Cruze into a pole at 12 MPH as part of a development crash test on FMVSS 214 standards.](/news/2010/04/16/general-motors-runs-a-2011-chevrolet-cruze-into-a-pole-at-12-mph-as-part-of-a-development-crash-test-on-fmvss-214-standards.md)
 _Context: Chevrolet Cruze, General Motors, crash test_

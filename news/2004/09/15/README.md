@@ -25,7 +25,7 @@ _Context: British House of Commons, Countryside Alliance, Parliament, bill, fox 
 _Context: Cornish, helicopter, lifeboat, yacht_
 
 ### [ Both the European Union and the government of the United States express concern about Russian President Vladimir Putin's announcement that, as a means of responding to terrorism, he would significantly alter Russia's political system. The Russian government rejects the United States' concerns as inappropriate interference in Russia's internal affairs. (Reuters: [http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=583655&section=news 1], [http://www.reuters.co.uk/newsPackageArticle.jhtml;jsessionid=PK1I2MCEA22IUCRBAE0CFEY?type=worldNews&storyID=583654&section=news 2])](/news/2004/09/15/both-the-european-union-and-the-government-of-the-united-states-express-concern-about-russian-president-vladimir-putin-s-announcement-that.md)
-_Context: EU, Russian President Vladimir Putin, United States government, Vladimir Putin, terrorism_
+_Context: EU, Russian President, United States government, Vladimir Putin, terrorism_
 
 ### [ In Southern California, the radio system linking air traffic controllers to high-altitude planes breaks down at 17:00 local time, Tuesday (0000 UTC September 15), prompting the U.S. Federal Aviation Administration (FAA) to halt outgoing flights for three hours at Los Angeles International and several other airports. ](/news/2004/09/15/in-southern-california-the-radio-system-linking-air-traffic-controllers-to-high-altitude-planes-breaks-down-at-17-00-local-time-tuesday.md)
 _Context: Federal Aviation Administration, Los Angeles International Airport, Southern California, UTC, air traffic controller, aircraft, airport_

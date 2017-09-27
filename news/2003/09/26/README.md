@@ -7,7 +7,7 @@ _Context: Creutzfeldt-Jakob disease, medicine_
 _Context: International Business Machines, Linux, SCO Group, SCO v. IBM, operating system_
 
 ### [ Israeli-Palestinian conflict: A Palestinian gunman enters a home in Negohot (an Israeli settlement in the West Bank, near Hebron), murders 7-month-old Shaked Avraham and 27-year-old Eyal Yeberbaum, and injures both of the baby girl's parents as they were celebrating the Jewish New Year. The shooter was later killed by Israeli security forces. The Palestinian Islamic Jihad claimed responsibility for the attack.](/news/2003/09/26/israeli-palestinian-conflict-a-palestinian-gunman-enters-a-home-in-negohot-an-israeli-settlement-in-the-west-bank-near-hebron-murders.md)
-_Context: Hebron, Israeli settlement, Israeli-Palestinian conflict, Palestinian, Palestinian Islamic Jihad, Rosh Hashanah, the Jewish New Year, West Bank_
+_Context: Hebron, Israeli-Palestinian conflict, Jewish settlement, Palestinian, Palestinian Islamic Jihad, Rosh Hashanah, the Jewish New Year, West Bank_
 
 ### [ Road map for peace: 'Quartet' urges Israel and Palestinians to do more to revive Middle East peace plan. Voicing ""great concern"" at recent Israeli and Palestinian attacks that have stalled the Middle East peace process, a high-level meeting of the diplomatic Quartet of the United Nations, United States, Russian Federation and European Union call on both sides to take immediate action to revive the Road map for peace.](/news/2003/09/26/road-map-for-peace-quartet-urges-israel-and-palestinians-to-do-more-to-revive-middle-east-peace-plan-voicing-great-concern-at-recen.md)
 _Context: EU, Israel, Middle East peace plan, Palestinians, Russian Federation, United Nations, road map peace plan_

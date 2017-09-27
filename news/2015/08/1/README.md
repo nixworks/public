@@ -13,10 +13,10 @@ _Context: Internal conflict in Peru, Peruvian Army, Shining Path_
 _Context: Hirohito, Japan, Japanese emperor, speech, unconditional surrender_
 
 ### [The President of Russia, Vladimir Putin, places the ancient historic site of Chersonesus under the control of the Russian federal government after a local government made a controversial appointment as site manager. ](/news/2015/08/1/the-president-of-russia-vladimir-putin-places-the-ancient-historic-site-of-chersonesus-under-the-control-of-the-russian-federal-government.md)
-_Context: Chersonesus, Russian Government, Russian President Vladimir Putin, Vladimir Putin_
+_Context: Chersonesus, Russian Government, Russian President, Vladimir Putin_
 
 ### [Puerto Rico fails to make a $58 million bond repayment due today. Gubernatorial Chief of Staff Victor Suarez said the government still hopes to reach an agreement with creditors on renegotiating its debts. ](/news/2015/08/1/puerto-rico-fails-to-make-a-58-million-bond-repayment-due-today-gubernatorial-chief-of-staff-vactor-sua-rez-said-the-government-still-hop.md)
-_Context: Gubernatorial Chief of Staff, Victor Suarez, island_
+_Context: Gubernatorial Chief of Staff, Puerto Rico, Victor Suarez_
 
 ### [Debris suspected to be from Malaysia Airlines Flight 370 that disappeared last year arrives in France for investigation in Toulouse. ](/news/2015/08/1/debris-suspected-to-be-from-malaysia-airlines-flight-370-that-disappeared-last-year-arrives-in-france-for-investigation-in-toulouse.md)
 _Context: France, Malaysia Airlines Flight 370, Toulouse_

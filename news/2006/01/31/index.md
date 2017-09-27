@@ -14,7 +14,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Samuel Alito, United States Senate, United States Supreme Court_
 
 ### [ Russian President Vladimir Putin has voiced renewed opposition to the U.S. decision to abandon the 30-year-old Anti-Ballistic Missile Treaty in favour of missile defence saying it would damage world security. He also claimed that Russia has developed a new category of hypersonic intercontinental missile which can zig-zag in flight and is immune to any missile defense system. ](/news/2006/01/31/russian-president-vladimir-putin-has-voiced-renewed-opposition-to-the-u-s-decision-to-abandon-the-30-year-old-anti-ballistic-missile-treat.md)
-_Context: Anti-Ballistic Missile Treaty, Russian President Vladimir Putin, Vladimir Putin, hypersonic, missile defence_
+_Context: Anti-Ballistic Missile Treaty, Russian President, Vladimir Putin, hypersonic, missile defence_
 
 ### [ Nominations for the 78th Academy Awards were announced in Beverly Hills, California, by Academy President Sid Ganis and actress Mira Sorvino. ([http://www.cnn.com/2006/SHOWBIZ/Movies/01/31/oscar.nominations/index.html CNN])](/news/2006/01/31/nominations-for-the-78th-academy-awards-were-announced-in-beverly-hills-california-by-academy-president-sid-ganis-and-actress-mira-sorvin.md)
 _Context: 78th Academy Awards, Beverly Hills, California, Mira Sorvino, Sid Ganis_

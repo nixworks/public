@@ -19,7 +19,7 @@ Iraqi officials would not discuss the specific charges against Raghad Saddam Hus
 _Context: David B. Chalmers, Jr, Texas, United Nations, oil, oil-for-food, wire fraud_
 
 ### [ Russia, China and four Central Asian members of the Shanghai Cooperation Organisation conduct war games in the southern Ural Mountains area of Russia with Vladimir Putin, the President of Russia, proposing that they be held regularly. ](/news/2007/08/17/russia-china-and-four-central-asian-members-of-the-shanghai-cooperation-organisation-conduct-war-games-in-the-southern-ural-mountains-area.md)
-_Context: Central Asia, China, Russia, Russian President Vladimir Putin, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
+_Context: Central Asia, China, Russia, Russian President, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
 
 ### [ A Nile boat sinks off the northern Egyptian town of Beni Suef with dozens feared missing. ](/news/2007/08/17/a-nile-boat-sinks-off-the-northern-egyptian-town-of-beni-suef-with-dozens-feared-missing.md)
 A Nile boat has sunk off the south Egyptian town of Beni Suef and police sources say they believe dozens of people could be missing.

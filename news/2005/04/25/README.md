@@ -1,7 +1,7 @@
 ## [2005-04-25](/news/2005/04/25/index.md)
 
 ### [ Israeli-Palestinian Conflict: Amnesty International has called on the Israeli government to investigate the poisoning of Palestinian land, allegedly by Israeli settlers around Hebron ](/news/2005/04/25/israeli-palestinian-conflict-amnesty-international-has-called-on-the-israeli-government-to-investigate-the-poisoning-of-palestinian-land.md)
-_Context: Amnesty International, Hebron, Israel, Israeli settlement, Israeli-Palestinian conflict, Palestinian_
+_Context: Amnesty International, Hebron, Israel, Israeli-Palestinian conflict, Jewish settlement, Palestinian_
 
 ### [ Bulgaria and Romania sign accession treaty to the European Union, continuing the enlargement process. ](/news/2005/04/25/bulgaria-and-romania-sign-accession-treaty-to-the-european-union-continuing-the-enlargement-process.md)
 _Context: Bulgaria, EU, European Union candidacy, Romania_

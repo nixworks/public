@@ -25,7 +25,7 @@ _Context: Anna Bligh, Premier, floods, inquiry_
 Italian authorities found 25 dead bodies in a boat that was carrying refugees and was discovered off the coast of the southern island of Lampedusa, an Italian official news agency reported Monday.
 
 ### [Tropical Storm Emily forms in the Atlantic Ocean with tropical storm warnings issued for Puerto Rico, Guadeloupe, Desirade, Les Saintes, Marie Galante and the Dominican Republic. ](/news/2011/08/1/tropical-storm-emily-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-issued-for-puerto-rico-guadeloupe-desirade-les-saintes-mar.md)
-_Context: Atlantic Ocean, Desirade, Dominican Republic, Guadeloupe, Hurricane Rina, Les Saintes, Marie Galante, island, tropical storm_
+_Context: Atlantic Ocean, Desirade, Dominican Republic, Guadeloupe, Hurricane Rina, Les Saintes, Marie Galante, Puerto Rico, tropical storm_
 
 ### [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md)
 _Context: North Korea, United States, its nuclear weapons program, six-party talks_

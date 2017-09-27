@@ -16,7 +16,7 @@ _Context: Canadian House of Commons, Outremont, Roberval--Lac-Saint-Jean, Saint-
 _Context: Caribbean, Cuba, Hugo Chvez, President, Venezuela_
 
 ### [ The President of Russia Vladimir Putin states that a new radar station in the village of Lekhtusi near St Petersburg is the first step in a large-scale air defense program. ](/news/2007/08/11/the-president-of-russia-vladimir-putin-states-that-a-new-radar-station-in-the-village-of-lekhtusi-near-st-petersburg-is-the-first-step-in-a.md)
-_Context: Lekhtusi, Russian President Vladimir Putin, St. Petersburg, Vladimir Putin, air defense, radar_
+_Context: Lekhtusi, Russian President, St. Petersburg, Vladimir Putin, air defense, radar_
 
 ### [ New York City is put on high alert after an al Qaeda bomb threat surfaces on Internet. ](/news/2007/08/11/new-york-city-is-put-on-high-alert-after-an-al-qaeda-bomb-threat-surfaces-on-internet.md)
 _Context: New York City, al-Qaeda_

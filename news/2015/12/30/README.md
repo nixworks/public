@@ -10,7 +10,7 @@ _Context: 2015 Burundian unrest, African Union, Burundi, Pierre Nkurunziza_
 (UPDATED) Joining the China-led AIIB eventually means more jobs and better businesses, Finance Secretary Cesar Purisima says
 
 ### [Governor Alejandro Garcia Padilla indicates Puerto Rico will default on bonds issued by the island's Infrastructure Financing Authority and Public Finance Corporation. ](/news/2015/12/30/governor-alejandro-garcaa-padilla-indicates-puerto-rico-will-default-on-bonds-issued-by-the-islandas-infrastructure-financing-authority-a.md)
-_Context: Alejandro Garcia Padilla, island_
+_Context: Alejandro Garcia Padilla, Puerto Rico_
 
 ### [Storm Frank hits the United Kingdom and Ireland, contributing to the 2015 Great Britain and Ireland floods following previous heavy rainfall. ](/news/2015/12/30/storm-frank-hits-the-united-kingdom-and-ireland-contributing-to-the-2015-great-britain-and-ireland-floods-following-previous-heavy-rainfall.md)
 High winds caused by Storm Frank have resulted in long delays at Belfast airport. As well as departures, travellers also faced a wait to disembark from nine flights as wind speeds reached 55 knots (63mph). The conditions meant it was not immediately possible to get aircraft access steps into place. ...

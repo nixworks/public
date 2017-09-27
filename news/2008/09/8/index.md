@@ -19,7 +19,7 @@ _Context: Banes, Cuba, Hurricane Ike_
 _Context: Afghanistan, Azizabad, Herat Province, US military, civilian_
 
 ### [ President of Russia Dmitry Medvedev and President of France Nicolas Sarkozy announced after talks in Moscow that an agreement to pull Russian forces from Georgia within a month has been reached. The agreement has become possible as EU will send 200 civilian monitors to the area and guarantee that Georgia signs a pledge to not use military force in Abkhazia and South Ossetia again. ](/news/2008/09/8/president-of-russia-dmitry-medvedev-and-president-of-france-nicolas-sarkozy-announced-after-talks-in-moscow-that-an-agreement-to-pull-russi.md)
-_Context: Abkhazia, Dmitry Medvedev, Georgian, Moscow, Nicolas Sarkozy, President of France, Russian President Vladimir Putin, Russian security forces, South Ossetia_
+_Context: Abkhazia, Dmitry Medvedev, Georgian, Moscow, Nicolas Sarkozy, President of France, Russian President, Russian security forces, South Ossetia_
 
 ### [ Three British Muslim men are found guilty of conspiracy to murder relating to the 2006 transatlantic aircraft plot. ](/news/2008/09/8/three-british-muslim-men-are-found-guilty-of-conspiracy-to-murder-relating-to-the-2006-transatlantic-aircraft-plot.md)
 _Context: 2006 transatlantic aircraft plot, United Kingdom, conspiracy, murder_

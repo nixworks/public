@@ -1,7 +1,7 @@
 ## [2004-09-23](/news/2004/09/23/index.md)
 
 ### [ The current Dalai Lama, Tenzin Gyatso, continuing a tour of Latin America, arrives in Puerto Rico for a two-day visit. He is scheduled to make several addresses on the subjects of human rights and demilitarization and to be awarded an honorary doctorate by the University of Puerto Rico. ](/news/2004/09/23/the-current-dalai-lama-tenzin-gyatso-continuing-a-tour-of-latin-america-arrives-in-puerto-rico-for-a-two-day-visit-he-is-scheduled-to-m.md)
-_Context: Dalai Lama, Human rights, Latin America, Tenzin Gyatso, University of Puerto Rico, demilitarized, doctorate, island_
+_Context: Dalai Lama, Human rights, Latin America, Puerto Rico, Tenzin Gyatso, University of Puerto Rico, demilitarized, doctorate_
 
 ### [ Court officials arrive on the remote British territory of Pitcairn Island, which has only 47 inhabitants, to begin the trial of seven islanders, on charges of sexual abuse that date back more than 40 years. ](/news/2004/09/23/court-officials-arrive-on-the-remote-british-territory-of-pitcairn-island-which-has-only-47-inhabitants-to-begin-the-trial-of-seven-islan.md)
 _Context: Pitcairn Island, sexual abuse, territory, trial of seven islanders_

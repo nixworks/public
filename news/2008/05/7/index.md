@@ -13,7 +13,7 @@ _Context: 2008, Democratic, Hillary Clinton_
 Brian Cowen has been confirmed as Ireland&#39;s 12th Taoiseach and revealed his first Cabinet.
 
 ### [ Dmitry Medvedev assumes the role of the President of Russia. ](/news/2008/05/7/dmitry-medvedev-assumes-the-role-of-the-president-of-russia.md)
-_Context: Dmitry Medvedev, Russian President Vladimir Putin_
+_Context: Dmitry Medvedev, Russian President_
 
 ### [ CFR Cluj wins it's first Championship Title in Romania .](/news/2008/05/7/cfr-cluj-wins-it-s-first-championship-title-in-romania.md)
 _Context: CFR Cluj_

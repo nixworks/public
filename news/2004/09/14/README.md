@@ -19,7 +19,7 @@ _Context: Tal Afar, Turkey, Turkmen_
 _Context: Ontario Superior Court, same-sex marriage in Canada_
 
 ### [ Hurricane warnings are issued for Puerto Rico and the United States Virgin Islands in anticipation of Tropical Storm Jeanne, which is expected to become a hurricane by tomorrow. ](/news/2004/09/14/hurricane-warnings-are-issued-for-puerto-rico-and-the-united-states-virgin-islands-in-anticipation-of-tropical-storm-jeanne-which-is-expec.md)
-_Context: Hurricane Jeanne, Virgin Islands', hurricane, hurricane warning, island_
+_Context: Hurricane Jeanne, Puerto Rico, Virgin Islands', hurricane, hurricane warning_
 
 ## [Previous Day...](/news/2004/09/13/index.md)
 

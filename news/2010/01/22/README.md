@@ -40,7 +40,7 @@ Authorities raise alert level after intelligence reports of plot to hijack plane
 _Context: Colombo, Sri Lanka, presidential election_
 
 ### [Alexey Dymovskiy, the Russian policeman who became famous for denouncing police corruption on YouTube, is arrested on charges of fraud and corruption. ](/news/2010/01/22/alexey-dymovskiy-the-russian-policeman-who-became-famous-for-denouncing-police-corruption-on-youtube-is-arrested-on-charges-of-fraud-and-c.md)
-_Context: Alexey Dymovskiy, Russia, YouTube, corruption, fraud, policeman_
+_Context: Alexey Dymovskiy, Russia, Youtube, corruption, fraud, policeman_
 
 ### [The internationally renowned Waterford Crystal tourist centre in Kilbarry, Ireland, ceases to function. ](/news/2010/01/22/the-internationally-renowned-waterford-crystal-tourist-centre-in-kilbarry-ireland-ceases-to-function.md)
 _Context: Irish, Kilbarry, Waterford Crystal_

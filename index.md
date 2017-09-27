@@ -3,13 +3,16 @@
 ### [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Jewish settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-jewish-settlement-of-har-adar.md)
 A Palestinian gunman killed three Israeli guards and wounded a fourth in an attack on a Jewish settlement in the occupied West Bank on Tuesday before he was shot dead, a police spokeswoman said.
 
+### [The United States Department of Homeland Security plans to collect the social media information - such as those in Facebook, Reddit, Twitter and Youtube - of all immigrants, including green card holders and naturalized citizens, beginning on October 18, 2017. ](/news/2017/09/26/the-united-states-department-of-homeland-security-plans-to-collect-the-social-media-information-a-such-as-those-in-facebook-reddit-twitt.md)
+_Context: Facebook, Mass surveillance in the United States, Reddit, Twitter, United States Department of Homeland Security, Youtube, green card holders, immigrants, naturalized citizens, social media_
+
 ### [Twitter announces that it'll double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-ll-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md)
 _Context: Twitter_
 
 ### [United States President Donald Trump says he will visit Puerto Rico next week. ](/news/2017/09/26/united-states-president-donald-trump-says-he-will-visit-puerto-rico-next-week.md)
 The president says the earliest he can travel to the hurricane-ravaged U.S. territory is next Tuesday.
 
-### [Women in Saudi Arabia will be able to drive from June next year. It is the last modern sovereign state to do so. ](/news/2017/09/26/women-in-saudi-arabia-will-be-able-to-drive-from-june-next-year-it-is-the-last-modern-sovereign-state-to-do-so.md)
+### [The king of Saudi Arabia issues a decree requiring that women be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-requiring-that-women-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-sove.md)
 King Salman ordered the reform in a royal decree delivered on Tuesday night, requesting that drivers’ licences be issued to women who wanted them
 
 ### [The office of the United States Attorney for the Southern District of New York announces that 10 individuals, including assistant coaches at four NCAA Division I men's basketball programs--Arizona, Auburn, Oklahoma State, and USC--have been arrested on federal corruption charges. ](/news/2017/09/26/the-office-of-the-united-states-attorney-for-the-southern-district-of-new-york-announces-that-10-individuals-including-assistant-coaches-at.md)
@@ -86,6 +89,9 @@ The Trump administration issued an updated travel ban with fresh restrictions on
 
 ### [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured. The suspected shooter is arrested. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-the-suspected-shooter-is-arrested.md)
 Local police and federal authorities worked Monday to determine why a man went on a deadly shooting spree at a Nashville-area church, while a shocked community prepared for prayer vigils for the victims and their families in the shooting&#039;s aftermath. One person was killed and seven others injur...
+
+### [Indiana prolific serial killer Orville Lynn Majors, believed to have committed as many as 130 nursing murders between 1993 and 1995, dies in prison at the age of 56. ](/news/2017/09/24/indiana-prolific-serial-killer-orville-lynn-majors-believed-to-have-committed-as-many-as-130-nursing-murders-between-1993-and-1995-dies-in.md)
+Convicted murderer Orville Lynn Majors, who was serving 360 years at Indiana State Prison in Michigan City, has died. 
 
 ### [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md)
 Chancellor Angela Merkel and her main challenger, Martin Schulz have made their final appeals to voters ahead of Sunday&#39;s parliamentary elections. Both have urged Germans not to back the right-wing populist AfD party. 

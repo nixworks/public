@@ -34,7 +34,7 @@ Votes are being counted in the West African nation of Guinea-Bissau following an
 _Context: Federal Assembly, Joachim Gauck, President of the Federal Republic of Germany_
 
 ### [Voters in the US territory of Puerto Rico go to the polls for the Republican primary with Mitt Romney winning all of the delegates. ](/news/2012/03/18/voters-in-the-us-territory-of-puerto-rico-go-to-the-polls-for-the-republican-primary-with-mitt-romney-winning-all-of-the-delegates.md)
-_Context: Mitt Romney, Republican primaries, Republican primary, island_
+_Context: Mitt Romney, Puerto Rico, Republican primaries, Republican primary_
 
 ### [Authorities in Cuba detain dissident Berta Soler and dozens of her supporters ahead of a visit by Pope Benedict XVI. ](/news/2012/03/18/authorities-in-cuba-detain-dissident-berta-soler-and-dozens-of-her-supporters-ahead-of-a-visit-by-pope-benedict-xvi.md)
 _Context: Berta Soler, Cuba, Pope Benedict XVI_

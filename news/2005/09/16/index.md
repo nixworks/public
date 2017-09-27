@@ -4,7 +4,7 @@
 _Context: Conflict in Iraq, Iraq, Shia, Tuz Khurmatu, mosque_
 
 ### [ Hamas hold a huge prayer rally in the now abandoned Israeli settlements in the Gaza Strip, leading thousands of Palestinian Muslims in Friday Prayers (Salat ul Jum'a). ](/news/2005/09/16/hamas-hold-a-huge-prayer-rally-in-the-now-abandoned-israeli-settlements-in-the-gaza-strip-leading-thousands-of-palestinian-muslims-in-frid.md)
-_Context: Friday Prayer, Gaza, Hamas, Israeli settlement, Muslim, Palestinian, Salah_
+_Context: Friday Prayer, Gaza, Hamas, Jewish settlement, Muslim, Palestinian, Salah_
 
 ### [ 87 journalists are arrested at a protest in Nepal. ](/news/2005/09/16/87-journalists-are-arrested-at-a-protest-in-nepal.md)
 _Context: Nepal, journalist, protest_

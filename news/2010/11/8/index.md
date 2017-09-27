@@ -61,7 +61,7 @@ _Context: Sudan, United States_
 _Context: Libya_
 
 ### [Unidentified attackers armed with knives kill 12 people in Kushchyovskaya, Krasnodar krai, Russia. ](/news/2010/11/8/unidentified-attackers-armed-with-knives-kill-12-people-in-kushchyovskaya-krasnodar-krai-russia.md)
-_Context: Krasnodar Krai, Kushchyovskaya, Russia_
+_Context: Krasnodar region, Kushchyovskaya, Russia_
 
 ### [U.S. militant Lori Berenson is released from prison in Peru after serving more than a decade for collaborating with the Tupac Amaru Revolutionary Movement. ](/news/2010/11/8/u-s-militant-lori-berenson-is-released-from-prison-in-peru-after-serving-more-than-a-decade-for-collaborating-with-the-taopac-amaru-revolut.md)
 _Context: Lori Berenson, Peru, Tupac Amaru Revolutionary Movement, U.S._

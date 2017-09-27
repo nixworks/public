@@ -25,7 +25,7 @@ _Context: Earl Ray Tomblin, Elk River, West Virginia, West Virginia American Wat
 Six New Jersey residents sue Governor Chris Christie over claims his office created gridlock on to a major bridge as part of a political vendetta.
 
 ### [Russian authorities investigate six suspicious deaths and at least one car explosion in southern Russia's Stavropol territory, about 300 miles from Sochi, the site of next month's Winter Olympics. ](/news/2014/01/9/russian-authorities-investigate-six-suspicious-deaths-and-at-least-one-car-explosion-in-southern-russia-s-stavropol-territory-about-300-mil.md)
-_Context: 2014 Winter Olympics, Sochi, Stavropol, police officers_
+_Context: 2014 Winter Olympics, Russian police, Sochi, Stavropol_
 
 ### [Seven suspects are arrested in the deaths of Venezuelan actress and beauty star Monica Spear and her ex-husband, whose 5-year-old daughter witnessed the roadside shooting and was also wounded. ](/news/2014/01/9/seven-suspects-are-arrested-in-the-deaths-of-venezuelan-actress-and-beauty-star-ma3nica-spear-and-her-ex-husband-whose-5-year-old-daughter.md)
 Venezuela says farewell to slain beauty queen

@@ -7,7 +7,7 @@ _Context: Pro-Russian militants, Ukrainian military, War in Donbass, since Sunda
 _Context: Deir ez-Zor Governorate, ISIL, Russian Defence Ministry, Russian military intervention, Syria_
 
 ### [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md)
-_Context: Chechnya, Insurgency in the North Caucasus, Shali, police officers_
+_Context: Chechnya, Insurgency in the North Caucasus, Russian police, Shali_
 
 ### [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md)
 A suspected U.S. drone strike killed two men believed to be al-Qaeda militants in central Yemen, local officials said early on Monday, hours after American commandos carried out the first military operation authorized by President Donald Trump. 

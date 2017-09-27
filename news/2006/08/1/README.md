@@ -4,7 +4,7 @@
 _Context: El Paso, Juarez, Rio Grande, United States-Mexico border_
 
 ### [ Tropical Storm Chris forms east of the Lesser Antilles, prompting the issuance of tropical storm warnings for ten islands as well as tropical storm watches for Puerto Rico and the Virgin Islands. ](/news/2006/08/1/tropical-storm-chris-forms-east-of-the-lesser-antilles-prompting-the-issuance-of-tropical-storm-warnings-for-ten-islands-as-well-as-tropic.md)
-_Context: Lesser Antilles, Tropical Depression Chris, Tropical Storm Watch, Virgin Islands, island_
+_Context: Lesser Antilles, Puerto Rico, Tropical Depression Chris, Tropical Storm Watch, Virgin Islands_
 
 ### [ There is major outcry in Iran following the death of democracy activist Akbar Mohammadi in Evin Prison. Mohammadi was condemned to death for his role in the 1999 student protests at Tehran University. He had been on a hunger strike for more than a week, protesting the refusal by the Islamic Regime to allow him to seek proper medical treatment for life threatening injuries suffered as a result of torture. Reportedly he was beaten severely by prison guards the night of his death.](/news/2006/08/1/there-is-major-outcry-in-iran-following-the-death-of-democracy-activist-akbar-mohammadi-in-evin-prison-mohammadi-was-condemned-to-death-fo.md)
 _Context: 1999 student protests, Akbar Mohammadi, Evin prison, Human rights in Iran, Iran, hunger strike, torture_

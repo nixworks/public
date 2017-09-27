@@ -19,7 +19,7 @@ Flu-stricken pope issues Christmas &#39;catalogue of virtues&#39; to Curia after
 Agency will bar men who have had sex with another man in the previous year from donating, a policy activists believe is still discriminatory
 
 ### [Russia reinforces the joint Armenian-Russian run Erebuni Airport, home to the Russian 3624th Air Base, with six attack and transport helicopters. The Russian Defence Ministry said the Mi-24 and Mi-8 helicopters had been transferred from a military base in the southern Russian region of Krasnodar Krai to the air base in Erebuni, Armenia. ](/news/2015/12/21/russia-reinforces-the-joint-armenian-russian-run-erebuni-airport-home-to-the-russian-3624th-air-base-with-six-attack-and-transport-helicop.md)
-_Context: Armenia, Armenia-Russia relations, Armenian, Erebuni Airport, Krasnodar Krai, Mi-24, Mil Mi-8, Russia, Russian Air Force, Russian Defence Ministry_
+_Context: Armenia, Armenia-Russia relations, Armenian, Erebuni Airport, Krasnodar region, Mi-24, Mil Mi-8, Russia, Russian Air Force, Russian Defence Ministry_
 
 ### [The European Union extends Russian sanctions for interference in Ukraine another six months, until 31 July 2016. The EU says it's extending the sanctions because the Minsk peace accords would not be fully implemented by the end of this year. ](/news/2015/12/21/the-european-union-extends-russian-sanctions-for-interference-in-ukraine-another-six-months-until-31-july-2016-the-eu-says-it-s-extending.md)
 The European Union renewed economic sanctions on Russia for another six months as questions remained over the implementation of Ukraine’s peace plan.

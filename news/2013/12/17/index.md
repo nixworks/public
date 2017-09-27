@@ -43,7 +43,7 @@ _Context:  October 2013 federal government shutdown, China, Federal Election Com
 Americans officials want to rotate more military forces through the country, concerned about mounting pressure from China on its neighbors.
 
 ### [President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/president-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relationship-between.md)
-_Context: Moscow, Russian President Vladimir Putin, Ukrainian President, Viktor Yanukovych, Vladimir Putin_
+_Context: Moscow, Russian President, Ukrainian President, Viktor Yanukovych, Vladimir Putin_
 
 ### [Angela Merkel is elected for a third term as Chancellor of Germany. ](/news/2013/12/17/angela-merkel-is-elected-for-a-third-term-as-chancellor-of-germany.md)
 _Context: Angela Merkel, Chancellor_
