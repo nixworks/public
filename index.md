@@ -1,18 +1,32 @@
-## [News](/news/2017/09/26/index.md)
+## [News](/news/2017/09/27/index.md)
 
-### [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Jewish settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-jewish-settlement-of-har-adar.md)
+### [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kibo-no-to-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it-no.md)
+Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese politics by operating free from the influence of established interests.
+
+### [The Republic of Ireland will hold a referendum on abortion. ](/news/2017/09/27/the-republic-of-ireland-will-hold-a-referendum-on-abortion.md)
+Ireland is to hold a referendum on abortion in 2018, it has been announced. A decision on the eighth amendment, which gives equal right to life to the unborn, will take place in May or June next year, according to Prime Minister Leo Varadkar’s government. The public will then decide if abortion sh...
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/26/index.md)
+
+### [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Israeli settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-israeli-settlement-of-har-ada.md)
 A Palestinian gunman killed three Israeli guards and wounded a fourth in an attack on a Jewish settlement in the occupied West Bank on Tuesday before he was shot dead, a police spokeswoman said.
 
-### [The United States Department of Homeland Security plans to collect the social media information - such as those in Facebook, Reddit, Twitter and Youtube - of all immigrants, including green card holders and naturalized citizens, beginning on October 18, 2017. ](/news/2017/09/26/the-united-states-department-of-homeland-security-plans-to-collect-the-social-media-information-a-such-as-those-in-facebook-reddit-twitt.md)
-_Context: Facebook, Mass surveillance in the United States, Reddit, Twitter, United States Department of Homeland Security, Youtube, green card holders, immigrants, naturalized citizens, social media_
+### [The United States Department of Homeland Security plans to collect the social media information of all immigrants, including green card holders and naturalized citizens, beginning on October 18, 2017. ](/news/2017/09/26/the-united-states-department-of-homeland-security-plans-to-collect-the-social-media-information-of-all-immigrants-including-green-card-hold.md)
+_Context: Mass surveillance in the United States, United States Department of Homeland Security, green card holders, immigrants, naturalized citizens, social media_
 
-### [Twitter announces that it'll double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-ll-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md)
+### [Twitter announces that it will double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-will-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md)
 _Context: Twitter_
 
-### [United States President Donald Trump says he will visit Puerto Rico next week. ](/news/2017/09/26/united-states-president-donald-trump-says-he-will-visit-puerto-rico-next-week.md)
-The president says the earliest he can travel to the hurricane-ravaged U.S. territory is next Tuesday.
+### [The U.S. Commerce Department imposes preliminary anti-subsidy duties on Bombardier Inc. CSeries jets following American rival Boeing's claims of unfair Canadian subsidies. The penalty is on hold pending the U.S. International Trade Commission's final decision, expected in 2018. ](/news/2017/09/26/the-u-s-commerce-department-imposes-preliminary-anti-subsidy-duties-on-bombardier-inc-cseries-jets-following-american-rival-boeing-s-claim.md)
+The decision involving the Bombardier company threatens to inflame trade tensions between the North American neighbors.
 
-### [The king of Saudi Arabia issues a decree requiring that women be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-requiring-that-women-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-sove.md)
+### [The king of Saudi Arabia issues a decree will allow women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-will-allow-women-to-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-sover.md)
 King Salman ordered the reform in a royal decree delivered on Tuesday night, requesting that drivers’ licences be issued to women who wanted them
 
 ### [The office of the United States Attorney for the Southern District of New York announces that 10 individuals, including assistant coaches at four NCAA Division I men's basketball programs--Arizona, Auburn, Oklahoma State, and USC--have been arrested on federal corruption charges. ](/news/2017/09/26/the-office-of-the-united-states-attorney-for-the-southern-district-of-new-york-announces-that-10-individuals-including-assistant-coaches-at.md)
@@ -21,22 +35,21 @@ Federal prosecutors have announced charges of fraud and corruption in college ba
 ### [The result of a non-binding independence referendum by Iraqi Kurdistan is to be announced. The vote is widely expected to be in favor of independence. ](/news/2017/09/26/the-result-of-a-non-binding-independence-referendum-by-iraqi-kurdistan-is-to-be-announced-the-vote-is-widely-expected-to-be-in-favor-of-ind.md)
 Turkey and Iran, traditional foes, have established common ground in Iraq, Syria and Qatar as regional alliances shift.
 
-### [Justice Roy Moore and U.S. Senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. ](/news/2017/09/26/justice-roy-moore-and-u-s-senator-luther-strange-face-off-in-alabamaas-special-election-in-what-political-analysts-claim-is-a-deepening-r.md)
+### [Justice Roy Moore and U.S. Senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. Moore is projected to win the primary runoff. ](/news/2017/09/26/justice-roy-moore-and-u-s-senator-luther-strange-face-off-in-alabamaas-special-election-in-what-political-analysts-claim-is-a-deepening-r.md)
 Why is Donald Trump backing an establishment favourite against an anti-establishment judge?
 
 ### [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolay Merkushkin the day before. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md)
 _Context: Nikolay Merkushkin, Nizhny Novgorod Oblast, Politics of Russia, Russian President, Samara Oblast, Valery Shantsev, Vladimir Putin_
 
-### [Africa's great green wall is successfully reversing desertification. ](/news/2017/09/26/africa-s-great-green-wall-is-successfully-reversing-desertification.md)
-_Context: Great Green Wall, desertification, green wall_
+### [Acting U.S. Drug Enforcement Administration chief Chuck Rosenberg announces his resignation, effective Oct. 1, after more than two years in the position. ](/news/2017/09/26/acting-u-s-drug-enforcement-administration-chief-chuck-rosenberg-announces-his-resignation-effective-oct-1-after-more-than-two-years-in.md)
+_Context: Chuck Rosenberg, Drug Enforcement Administration_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+### [Africa's Great Green Wall is successfully reversing desertification. ](/news/2017/09/26/africa-s-great-green-wall-is-successfully-reversing-desertification.md)
+_Context: Great Green Wall, desertification_
 
 ---
 
-## [Yesterday](/news/2017/09/25/index.md)
+## [Day Before Yesterday](/news/2017/09/25/index.md)
 
 ### [A mass grave of 28 Hindus, including children, allegedly slain by the Arakan Rohingya Salvation Army, is discovered by the Myanmar Army. ](/news/2017/09/25/a-mass-grave-of-28-hindus-including-children-allegedly-slain-by-the-arakan-rohingya-salvation-army-is-discovered-by-the-myanmar-army.md)
 _Context: Arakan Rohingya Salvation Army, Myanmar Army, Northern Rakhine State clashes_
@@ -51,7 +64,7 @@ The 13-week program is considered one of the toughest in the U.S. military, and 
 The service will provide news, sport, business and culture through a website and radio broadcasts.
 
 ### [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md)
-_Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Rico, United States federal government_
+_Context: 2017 Atlantic hurricane season, Hurricane Maria, United States federal government, island_
 
 ### [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md)
 _Context: Benin City, Crime in Nigeria, Nigeria, Ogba Zoo_
@@ -76,35 +89,7 @@ The federal government has announced the creation of a National Space Agency.
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/24/index.md)
-
-### [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md)
-A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir
-
-### [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md)
-Iraq on Sunday urged foreign countries to stop importing crude directly from its autonomous Kurdistan region and to restrict oil trading to the central government.
-
-### [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md)
-The Trump administration issued an updated travel ban with fresh restrictions on who can enter the U.S., targeting eight countries.
-
-### [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured. The suspected shooter is arrested. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-the-suspected-shooter-is-arrested.md)
-Local police and federal authorities worked Monday to determine why a man went on a deadly shooting spree at a Nashville-area church, while a shocked community prepared for prayer vigils for the victims and their families in the shooting&#039;s aftermath. One person was killed and seven others injur...
-
-### [Indiana prolific serial killer Orville Lynn Majors, believed to have committed as many as 130 nursing murders between 1993 and 1995, dies in prison at the age of 56. ](/news/2017/09/24/indiana-prolific-serial-killer-orville-lynn-majors-believed-to-have-committed-as-many-as-130-nursing-murders-between-1993-and-1995-dies-in.md)
-Convicted murderer Orville Lynn Majors, who was serving 360 years at Indiana State Prison in Michigan City, has died. 
-
-### [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md)
-Chancellor Angela Merkel and her main challenger, Martin Schulz have made their final appeals to voters ahead of Sunday&#39;s parliamentary elections. Both have urged Germans not to back the right-wing populist AfD party. 
-
-### [Amid criticism of U.S. national anthem protests by U.S. President Donald Trump, some National Football League players and teams react to the controversy by kneeling, linking arms, or skipping game performances of the national anthem. ](/news/2017/09/24/amid-criticism-of-u-s-national-anthem-protests-by-u-s-president-donald-trump-some-national-football-league-players-and-teams-react-to-the.md)
-It started early Sunday in London and continued throughout the NFL as players, coaches and even owners locked arms or knelt during the national anthem.
-
-### [City officials in Dubai, United Arab Emirates, announce that residents will receive incentives for swapping their petrol engine vehicles for electric ones, including a free Salik tag, and an exemption from RTA registration and renewal vehicle fees. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-incentives-for-swapping-their-petrol-engine-vehicles-for.md)
-E-car users will also be exempted from RTA registration and renewal vehicle fees, and will get free Salik tag upon registration.
-
----
-
-## [Previous Day...](/news/2017/09/23/index.md)
+## [Previous Day...](/news/2017/09/24/index.md)
 
 ---
 
