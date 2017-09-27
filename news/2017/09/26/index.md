@@ -6,8 +6,8 @@ A Palestinian gunman killed three Israeli guards and wounded a fourth in an atta
 ### [The United States Department of Homeland Security plans to collect the social media information of all immigrants, including green card holders and naturalized citizens, beginning on October 18, 2017. ](/news/2017/09/26/the-united-states-department-of-homeland-security-plans-to-collect-the-social-media-information-of-all-immigrants-including-green-card-hold.md)
 _Context: Mass surveillance in the United States, United States Department of Homeland Security, green card holders, immigrants, naturalized citizens, social media_
 
-### [Twitter announces that it will double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-will-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md)
-_Context: Twitter_
+### [Twitter is experimenting with doubling its 140 character limit to 280 characters for all languages except Japanese, Chinese and Korean. ](/news/2017/09/26/twitter-is-experimenting-with-doubling-its-140-character-limit-to-280-characters-for-all-languages-except-japanese-chinese-and-korean.md)
+_Context: Chinese, Japanese, Korean, Twitter_
 
 ### [The U.S. Commerce Department imposes preliminary anti-subsidy duties on Bombardier Inc. CSeries jets following American rival Boeing's claims of unfair Canadian subsidies. The penalty is on hold pending the U.S. International Trade Commission's final decision, expected in 2018. ](/news/2017/09/26/the-u-s-commerce-department-imposes-preliminary-anti-subsidy-duties-on-bombardier-inc-cseries-jets-following-american-rival-boeing-s-claim.md)
 The decision involving the Bombardier company threatens to inflame trade tensions between the North American neighbors.

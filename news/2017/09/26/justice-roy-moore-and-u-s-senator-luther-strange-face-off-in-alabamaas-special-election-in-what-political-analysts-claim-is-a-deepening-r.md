@@ -10,7 +10,7 @@ Why is Donald Trump backing an establishment favourite against an anti-establish
 1. [BBC](http://www.bbc.com/news/world-us-canada-41391603)
 2. [New York Times](https://www.nytimes.com/elections/results/senate-special-election-primary-runoff-alabama?mcubz=3)
 3. [Politico](http://www.politico.com/story/2017/09/26/corker-to-retire-after-2018-243168)
-4. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/09/26/sen-bob-corkers-retirement-is-notable-for-when-its-happening/?utm_term=.e7866f99090d)
+4. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/09/26/sen-bob-corkers-retirement-is-notable-for-when-its-happening/)
 4. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/60FF/production/_98013842_hi041885707.jpg)
 
 ### Related:

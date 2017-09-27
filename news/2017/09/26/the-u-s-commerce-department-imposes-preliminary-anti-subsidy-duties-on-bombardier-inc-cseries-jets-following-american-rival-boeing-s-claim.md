@@ -8,7 +8,7 @@ The decision involving the Bombardier company threatens to inflame trade tension
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-boeing-bombardier/u-s-slaps-steep-duties-on-bombardier-jets-after-boeing-complaint-idUSKCN1C138W)
-2. [The Washington Post](https://www.washingtonpost.com/business/economy/us-moves-to-impose-tariffs-on-canadian-jet-maker-siding-with-boeing/2017/09/26/9f67cf9e-a2ea-11e7-ade1-76d061d56efa_story.html?utm_term=.97dc14f5dffa)
+2. [The Washington Post](https://www.washingtonpost.com/business/economy/us-moves-to-impose-tariffs-on-canadian-jet-maker-siding-with-boeing/2017/09/26/9f67cf9e-a2ea-11e7-ade1-76d061d56efa_story.html)
 2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170926&t=2&i=1203071695&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8P27Z)
 
 ### Related:

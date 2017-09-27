@@ -1,5 +1,8 @@
 ## [News](/news/2017/09/27/index.md)
 
+### [The United States Department of Homeland Security will not waive the Merchant Marine Act of 1920 or Jones Act in response to the ongoing disaster in Puerto Rico. ](/news/2017/09/27/the-united-states-department-of-homeland-security-will-not-waive-the-merchant-marine-act-of-1920-or-jones-act-in-response-to-the-ongoing-dis.md)
+Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
+
 ### [Along with the Solomon Islands, the state of Palestine joins Interpol despite objections from the state of Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-the-state-of-israel.md)
 Secret ballot seen as diplomatic win for Palestinian statehood, as Israel was actively seeking to postpone the vote.
 
@@ -14,9 +17,6 @@ Yingluck Shinawatra denied negligence over a costly rice subsidy scheme and fled
 
 ### [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kiba-no-ta-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it.md)
 Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese politics by operating free from the influence of established interests.
-
-### [The Republic of Ireland announces a referendum on abortion will be held in May or June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-in-may-or-june-2018.md)
-Ireland is to hold a referendum on abortion in 2018, it has been announced. A decision on the eighth amendment, which gives equal right to life to the unborn, will take place in May or June next year, according to Prime Minister Leo Varadkar’s government. The public will then decide if abortion sh...
 
 ### [The government of Iraqi Kurdistan announces that they won the referendum by over 92% of the vote. ](/news/2017/09/27/the-government-of-iraqi-kurdistan-announces-that-they-won-the-referendum-by-over-92-of-the-vote.md)
 Almost 93 per cent of those who took part in the referendum on support for Kurdish independence from Iraq have vo
@@ -38,8 +38,8 @@ A Palestinian gunman killed three Israeli guards and wounded a fourth in an atta
 ### [The United States Department of Homeland Security plans to collect the social media information of all immigrants, including green card holders and naturalized citizens, beginning on October 18, 2017. ](/news/2017/09/26/the-united-states-department-of-homeland-security-plans-to-collect-the-social-media-information-of-all-immigrants-including-green-card-hold.md)
 _Context: Mass surveillance in the United States, United States Department of Homeland Security, green card holders, immigrants, naturalized citizens, social media_
 
-### [Twitter announces that it will double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-will-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md)
-_Context: Twitter_
+### [Twitter is experimenting with doubling its 140 character limit to 280 characters for all languages except Japanese, Chinese and Korean. ](/news/2017/09/26/twitter-is-experimenting-with-doubling-its-140-character-limit-to-280-characters-for-all-languages-except-japanese-chinese-and-korean.md)
+_Context: Chinese, Japanese, Korean, Twitter_
 
 ### [The U.S. Commerce Department imposes preliminary anti-subsidy duties on Bombardier Inc. CSeries jets following American rival Boeing's claims of unfair Canadian subsidies. The penalty is on hold pending the U.S. International Trade Commission's final decision, expected in 2018. ](/news/2017/09/26/the-u-s-commerce-department-imposes-preliminary-anti-subsidy-duties-on-bombardier-inc-cseries-jets-following-american-rival-boeing-s-claim.md)
 The decision involving the Bombardier company threatens to inflame trade tensions between the North American neighbors.
@@ -82,7 +82,7 @@ The 13-week program is considered one of the toughest in the U.S. military, and 
 The service will provide news, sport, business and culture through a website and radio broadcasts.
 
 ### [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md)
-_Context: 2017 Atlantic hurricane season, Hurricane Maria, United States federal government, island_
+_Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Rico, United States federal government_
 
 ### [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md)
 _Context: Benin City, Crime in Nigeria, Nigeria, Ogba Zoo_
