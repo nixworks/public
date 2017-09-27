@@ -1,13 +1,19 @@
 ## [News](/news/2017/09/27/index.md)
 
-### [Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country. ](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-raufkhon-is-arrested-on-his-return-to-the-central-asian-country.md)
+### [Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country from exile. ](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-raufkhon-is-arrested-on-his-return-to-the-central-asian-country-from-exile.md)
 Uzbek police detained dissident writer Nurulloh Muhammad Raufkhon as he returned to the Central Asian country from Turkey on Wednesday, his wife told Reuters.
+
+### [Former Thai Prime Minister Yingluck is jailed in absaentia. ](/news/2017/09/27/former-thai-prime-minister-yingluck-is-jailed-in-absaentia.md)
+Yingluck Shinawatra denied negligence over a costly rice subsidy scheme and fled Thailand in August.
 
 ### [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kibo-no-to-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it-no.md)
 Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese politics by operating free from the influence of established interests.
 
 ### [The Republic of Ireland announces a referendum on abortion will be held in May or June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-in-may-or-june-2018.md)
 Ireland is to hold a referendum on abortion in 2018, it has been announced. A decision on the eighth amendment, which gives equal right to life to the unborn, will take place in May or June next year, according to Prime Minister Leo Varadkar’s government. The public will then decide if abortion sh...
+
+### [Iraq's prime minister has demanded the Kurdistan Regional Government "cancel" the outcome of the referendum on independence that it held on Monday. ](/news/2017/09/27/iraq-s-prime-minister-has-demanded-the-kurdistan-regional-government-cancel-the-outcome-of-the-referendum-on-independence-that-it-held-on.md)
+_Context: Iraq, Kurdistan Regional Government, referendum_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -29,7 +35,7 @@ _Context: Twitter_
 ### [The U.S. Commerce Department imposes preliminary anti-subsidy duties on Bombardier Inc. CSeries jets following American rival Boeing's claims of unfair Canadian subsidies. The penalty is on hold pending the U.S. International Trade Commission's final decision, expected in 2018. ](/news/2017/09/26/the-u-s-commerce-department-imposes-preliminary-anti-subsidy-duties-on-bombardier-inc-cseries-jets-following-american-rival-boeing-s-claim.md)
 The decision involving the Bombardier company threatens to inflame trade tensions between the North American neighbors.
 
-### [The king of Saudi Arabia issues a decree will allow women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-will-allow-women-to-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-sover.md)
+### [The king of Saudi Arabia issues a decree allowing women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-allowing-women-to-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-soverei.md)
 King Salman ordered the reform in a royal decree delivered on Tuesday night, requesting that drivers’ licences be issued to women who wanted them
 
 ### [The office of the United States Attorney for the Southern District of New York announces that 10 individuals, including assistant coaches at four NCAA Division I men's basketball programs--Arizona, Auburn, Oklahoma State, and USC--have been arrested on federal corruption charges. The accused are alleged to be part of a scheme by which coaches accepted bribes to steer NBA-bound college players toward certain agents and financial advisers. Court documents also allege that an apparel company paid $100,000 to the family of an unnamed player to ensure his signing with an unnamed Division I school, which was later confirmed as the University of Louisville. ](/news/2017/09/26/the-office-of-the-united-states-attorney-for-the-southern-district-of-new-york-announces-that-10-individuals-including-assistant-coaches-at.md)
