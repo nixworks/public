@@ -3,7 +3,7 @@
 ### [The Mount Agung volcano on the island of Bali, Indonesia, continues to release smoke although there is no certainty on whether it will erupt. ](/news/2017/09/28/the-mount-agung-volcano-on-the-island-of-bali-indonesia-continues-to-release-smoke-although-there-is-no-certainty-on-whether-it-will-erupt.md)
 AS BALI’S Mt Agung volcano continues to rumble ominously and more than 96,000 people evacuate to shelters, the locals are blaming tourists for angering the ancient mountain.
 
-### [United States president Donald Trump waives the 'Jones Act' for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Prices for basic supplies, food, water and infrastructure are estimated as being more than twice too high in Puerto Rico, due to the Jones Act. ](/news/2017/09/28/united-states-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-indust.md)
+### [United States president Donald Trump waives the 'Jones Act' for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. ](/news/2017/09/28/united-states-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-indust.md)
 The Jones Act was waived for Texas and Florida in the wake of hurricanes Harvey and Irma.
 
 ### [Prime Minister Shinzo Abe dissolves the lower house of parliament prior to the October 22 election. ](/news/2017/09/28/prime-minister-shinza-abe-dissolves-the-lower-house-of-parliament-prior-to-the-october-22-election.md)
@@ -23,7 +23,7 @@ _Context: Christian, Idlib, Russia, Syrian Civil War_
 ### [Russia announces it has completed the destruction of all of its chemical weapons under the terms of the Chemical Weapons Convention. ](/news/2017/09/27/russia-announces-it-has-completed-the-destruction-of-all-of-its-chemical-weapons-under-the-terms-of-the-chemical-weapons-convention.md)
 Presiding over the weapons’ destruction, President Vladimir V. Putin suggested that Washington was playing a devious double game.
 
-### [Thirty thousand people are evacuated in Ukraine following an explosion in an ammunition dump 180 kilometres southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-in-ukraine-following-an-explosion-in-an-ammunition-dump-180-kilometres-southwest-of-kiev-the-governmen.md)
+### [Thirty thousand people are evacuated in Ukraine following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-in-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-government-of-ukr.md)
 _Context: Government of Ukraine, Kiev, Ukraine_
 
 ### [Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. ](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.md)

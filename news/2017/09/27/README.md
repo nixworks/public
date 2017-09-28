@@ -6,7 +6,7 @@ _Context: Christian, Idlib, Russia, Syrian Civil War_
 ### [Russia announces it has completed the destruction of all of its chemical weapons under the terms of the Chemical Weapons Convention. ](/news/2017/09/27/russia-announces-it-has-completed-the-destruction-of-all-of-its-chemical-weapons-under-the-terms-of-the-chemical-weapons-convention.md)
 Presiding over the weapons’ destruction, President Vladimir V. Putin suggested that Washington was playing a devious double game.
 
-### [Thirty thousand people are evacuated in Ukraine following an explosion in an ammunition dump 180 kilometres southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-in-ukraine-following-an-explosion-in-an-ammunition-dump-180-kilometres-southwest-of-kiev-the-governmen.md)
+### [Thirty thousand people are evacuated in Ukraine following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-in-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-government-of-ukr.md)
 _Context: Government of Ukraine, Kiev, Ukraine_
 
 ### [Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. ](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.md)

@@ -1,6 +1,6 @@
 ### [2017-09-28](/news/2017/09/28/index.md)
 
-# United States president Donald Trump waives the 'Jones Act' for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Prices for basic supplies, food, water and infrastructure are estimated as being more than twice too high in Puerto Rico, due to the Jones Act. 
+# United States president Donald Trump waives the 'Jones Act' for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. 
 
 The Jones Act was waived for Texas and Florida in the wake of hurricanes Harvey and Irma.
 
