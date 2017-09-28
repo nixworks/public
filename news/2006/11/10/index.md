@@ -1,7 +1,7 @@
 ## [2006-11-10](/news/2006/11/10/index.md)
 
 ### [ The Los Angeles Police Department holds an investigation after a video showing police officers beating a man is posted on YouTube. ](/news/2006/11/10/the-los-angeles-police-department-holds-an-investigation-after-a-video-showing-police-officers-beating-a-man-is-posted-on-youtube.md)
-_Context: Los Angeles Police Department, Youtube_
+_Context: Los Angeles Police Department, YouTube_
 
 ### [ NASA's Cassini spacecraft records a hurricane-like storm on the south pole of Saturn which is the first time such an event has been observed on another planet. ](/news/2006/11/10/nasa-s-cassini-spacecraft-records-a-hurricane-like-storm-on-the-south-pole-of-saturn-which-is-the-first-time-such-an-event-has-been-observe.md)
 _Context: Cassini, NASA, Saturn, hurricane_

@@ -4,7 +4,7 @@
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Israel has announced plans to add 3,500 homes to the Ma'ale Adummim settlement in occupied territories east of Jerusalem. Chief Palestinian negotiator Saeb Erekat said this would "sabotage" peace efforts. ](/news/2005/03/21/israel-has-announced-plans-to-add-3-500-homes-to-the-ma-ale-adummim-settlement-in-occupied-territories-east-of-jerusalem-chief-palestinian.md)
-_Context: Israel, Jerusalem, Jewish settlement, Ma'ale Adummim, Palestinian, Saeb Erekat_
+_Context: Israel, Israeli settlement, Jerusalem, Ma'ale Adummim, Palestinian, Saeb Erekat_
 
 ### [ Red Lake shootings: In a U.S. school shooting, Jeff Weise opened fire at Red Lake High School in Minnesota, killing nine people and then himself. ](/news/2005/03/21/red-lake-shootings-in-a-u-s-school-shooting-jeff-weise-opened-fire-at-red-lake-high-school-in-minnesota-killing-nine-people-and-then-hi.md)
 _Context: Jeff Weise, Minnesota, Red Lake High School, Red Lake shootings, school shooting_

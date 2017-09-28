@@ -1,7 +1,7 @@
 ## [2011-02-7](/news/2011/02/7/index.md)
 
 ### [Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md)
-_Context: Cambodia, Cambodian-Thai border stand-off, Preah Vihear Temple, Thailand_
+_Context: Cambodia, Cambodian-Thai border stand-off, Preah Vihear Temple, Thai_
 
 ### [Tunisia calls up recently retired soldiers to contain recent unrest. ](/news/2011/02/7/tunisia-calls-up-recently-retired-soldiers-to-contain-recent-unrest.md)
 _Context: Tunisia, recent unrest_
@@ -25,7 +25,7 @@ AUSTRALIA and the US have formed a partnership to share top-secret intelligence 
 _Context: North Korea, South Korea, Yellow Sea_
 
 ### [Israel approves plans for two new buildings to be built in East Jerusalem, Palestine with the Palestinians currently living there to be evicted.](/news/2011/02/7/israel-approves-plans-for-two-new-buildings-to-be-built-in-east-jerusalem-palestine-with-the-palestinians-currently-living-there-to-be-evic.md)
-_Context: East Jerusalem, Israel, Palestinian_
+_Context: East Jerusalem, Israel, State of Palestine_
 
 ### [The defence team for Julian Assange, facing allegations of sex crimes, prepares to argue that Assange cannot receive a fair trial in Sweden as such cases are heard in secret without any transparency. ](/news/2011/02/7/the-defence-team-for-julian-assange-facing-allegations-of-sex-crimes-prepares-to-argue-that-assange-cannot-receive-a-fair-trial-in-sweden.md)
 LONDON: Julian Assange&#039;s defence team is to argue that he cannot be given a fair trial in Sweden because all rape cases are heard in secret - and justice cannot be seen to be done.

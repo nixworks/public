@@ -4,7 +4,7 @@
 Syrian rebels carry out a bomb attack on an intelligence agency complex in Damascus, with one activist group saying dozens of people were killed.
 
 ### [Suspected Islamist insurgents kill 11 people in southern Thailand. ](/news/2012/10/9/suspected-islamist-insurgents-kill-11-people-in-southern-thailand.md)
-_Context: Islamist, Thailand_
+_Context: Islamist, Thai_
 
 ### [Mexican Drug War: The Mexican Navy confirms that Heriberto Lazcano Lazcano, the top leader of the criminal organization Los Zetas, was killed in a shootout yesterday. The body is stolen by armed gunmen. ](/news/2012/10/9/mexican-drug-war-the-mexican-navy-confirms-that-heriberto-lazcano-lazcano-the-top-leader-of-the-criminal-organization-los-zetas-was-kille.md)
 The death of Heriberto Lazcano, known as El Lazca and the main leader of the Zetas, was confirmed through fingerprint analysis, the navy said. But in an odd twist, the corpse was quickly stolen.

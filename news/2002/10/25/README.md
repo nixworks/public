@@ -4,7 +4,7 @@
 _Context: Chechen War, Chechnya, Moscow theatre siege_
 
 ### [ Israeli-Palestinian conflict: Hundreds of Israeli soldiers backed by scores of tanks and other military vehicles took control of the Palestinian city of Jenin in response to a suicide bombing that killed 14 people. ](/news/2002/10/25/israeli-palestinian-conflict-hundreds-of-israeli-soldiers-backed-by-scores-of-tanks-and-other-military-vehicles-took-control-of-the-palest.md)
-_Context: Israel, Israeli-Palestinian conflict, Jenin, Palestinian, suicide bombing_
+_Context: Israel, Israeli-Palestinian conflict, Jenin, State of Palestine, suicide bombing_
 
 ### [ IBM announces that its Blue Gene petaflop supercomputer architecture will use the Linux operating system.](/news/2002/10/25/ibm-announces-that-its-blue-gene-petaflop-supercomputer-architecture-will-use-the-linux-operating-system.md)
 _Context: Blue Gene/L, International Business Machines, Linux, architecture, petaflop, supercomputer_

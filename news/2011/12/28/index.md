@@ -7,7 +7,7 @@ Syria releases 755 people detained in the nine-month uprising against President 
 _Context: Arab, Delta State, Nigeria_
 
 ### [Greek Orthodox and Armenian Apostolic priests fight in the Church of the Nativity in Bethlehem over a cleaning dispute; Palestinian police break up the fighting. ](/news/2011/12/28/greek-orthodox-and-armenian-apostolic-priests-fight-in-the-church-of-the-nativity-in-bethlehem-over-a-cleaning-dispute-palestinian-police-b.md)
-_Context: Armenian Apostolic, Bethlehem, Church of the Nativity, Greek Orthodox, Palestinian_
+_Context: Armenian Apostolic, Bethlehem, Church of the Nativity, Greek Orthodox, State of Palestine_
 
 ### [A Russian court rejects an attempt to ban "Bhagavad Gita As It Is", a Russian translation of the Hindu holy book Bhagavad Gita. ](/news/2011/12/28/a-russian-court-rejects-an-attempt-to-ban-bhagavad-gita-as-it-is-a-russian-translation-of-the-hindu-holy-book-bhagavad-gita.md)
 An edition of the Hindu holy book the Bhagvad Gita escapes a threatened ban in Russia, in a case that drew protests in India.

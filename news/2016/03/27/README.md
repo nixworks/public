@@ -7,7 +7,7 @@ Bashar al Assad says it is an &quot;important achievement&quot; and shows his ar
 Malik and Mubasher Bukhari
 
 ### [Thousands of people in Dublin, Ireland, attend the Irish government's commemoration of the 1916 Easter Rising against British rule. ](/news/2016/03/27/thousands-of-people-in-dublin-ireland-attend-the-irish-government-s-commemoration-of-the-1916-easter-rising-against-british-rule.md)
-_Context: British rule, Dublin, Easter Rising, Irish_
+_Context: British rule, Dublin, Easter Rising, Republic of Ireland_
 
 ### [At least 12 Algerian Army soldiers are killed in a military helicopter crash near the town of Reggane, in Algeria's southern Adrar Province. ](/news/2016/03/27/at-least-12-algerian-army-soldiers-are-killed-in-a-military-helicopter-crash-near-the-town-of-reggane-in-algeria-s-southern-adrar-province.md)
 At least 12 Algerian soldiers were killed when a military helicopter crashed in the south of the country, the Defense Ministry said on Sunday.

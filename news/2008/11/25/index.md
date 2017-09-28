@@ -19,7 +19,7 @@ _Context: BHP Billiton, Rio Tinto, financial crisis_
 Israel has again sealed off the Gaza Strip in response to rocket fire, one day after humanitarian supplies were allowed in.
 
 ### [ About 10,000 protesters from the People's Alliance for Democracy surround Prime Minister Somchai Wongsawat's temporary office at Don Mueang International Airport in Bangkok, Thailand. ](/news/2008/11/25/about-10-000-protesters-from-the-people-s-alliance-for-democracy-surround-prime-minister-somchai-wongsawat-s-temporary-office-at-don-mueang.md)
-_Context: Bangkok, Don Mueang International Airport, Prime Minister, Somchai Wongsawat, Thailand, yellow shirt_
+_Context: Bangkok, Don Mueang International Airport, Prime Minister, Somchai Wongsawat, Thai, yellow shirt_
 
 ## [Previous Day...](/news/2008/11/24/index.md)
 

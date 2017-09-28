@@ -13,7 +13,7 @@ _Context: Americas, Astronomers, GMT, lunar eclipse_
 _Context: Democratic, Republican, Texas, The Guardian, United States Department of Homeland Security, quorum_
 
 ### [ Three time defending NBA champions Los Angeles Lakers get eliminated from the 2002-2003 playoffs, losing 110-82 to the San Antonio Spurs in Los Angeles in Game 6 of their series.](/news/2003/05/16/three-time-defending-nba-champions-los-angeles-lakers-get-eliminated-from-the-2002a2003-playoffs-losing-110a82-to-the-san-antonio-spur.md)
-_Context: Los Angeles Lakers, Los Angeles, California, NBA's, San Antonio Spurs_
+_Context: Los Angeles Lakers, Los Angeles, California, NBA, San Antonio Spurs_
 
 ## [Previous Day...](/news/2003/05/15/index.md)
 

@@ -7,7 +7,7 @@ _Context: African Development Bank, Aristides Gomes, Carlos Gomes Jnior, Guinea-
 _Context: Amarillo, Donald E. Powell, FDIC, George W. Bush, Gulf Coast, Texas_
 
 ### [ "The Washington Post" reports that the Central Intelligence Agency has been operating, perhaps as illegally, a covert network of "black site" prisons for terrorist suspects in eight foreign countries, including Afghanistan, Thailand, and several Eastern European democracies for the last four years, with little or no oversight from the United States Congress. ](/news/2005/11/2/the-washington-post-reports-that-the-central-intelligence-agency-has-been-operating-perhaps-as-illegally-a-covert-network-of-black-sit.md)
-_Context: Afghanistan, CIA, Thailand, United States Congress, Washington Post, black site, eastern Europe_
+_Context: Afghanistan, CIA, Thai, United States Congress, Washington Post, black site, eastern Europe_
 
 ### [ Iran's President Mahmoud Ahmadinejad nominates Sadeq Mahsouli as Supervisor of Ministry of Petroleum of OPEC's number two producer, risking domestic political commotion and a parliamentary veto after already making a disturbance abroad with a call for Israel's destruction. ](/news/2005/11/2/iran-s-president-mahmoud-ahmadinejad-nominates-sadeq-mahsouli-as-supervisor-of-ministry-of-petroleum-of-opec-s-number-two-producer-risking.md)
 _Context: Iran, Islamic Consultative Assembly, Israel's destruction, Mahmoud Ahmadinejad, OPEC, Sadeq Mahsouli, Supervisor of Ministry of Petroleum, veto_

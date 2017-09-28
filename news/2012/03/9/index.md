@@ -28,7 +28,7 @@ _Context: Carl Icahn, Dynegy Inc, Susheel Kirpalani, bankruptcy_
 _Context: Oxfam, West Africa_
 
 ### [One person is killed and 20 injured in a hotel fire in Bangkok, Thailand. ](/news/2012/03/9/one-person-is-killed-and-20-injured-in-a-hotel-fire-in-bangkok-thailand.md)
-_Context: Bangkok, Thailand_
+_Context: Bangkok, Thai_
 
 ### [China returns 31 North Korean refugees to North Korea, according to activists. ](/news/2012/03/9/china-returns-31-north-korean-refugees-to-north-korea-according-to-activists.md)
 _Context: China, North Korea_

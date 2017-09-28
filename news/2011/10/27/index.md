@@ -19,7 +19,7 @@ _Context: Bank of Korea, South Korean economy_
 _Context: European sovereign-debt crisis, Greek_
 
 ### [Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md)
-_Context: Bangkok, Thailand_
+_Context: Bangkok, Thai_
 
 ### [The death toll from the 2011 Van earthquake in Turkey reaches 523, with rain and snow making conditions worse for people left homeless by the earthquake. ](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.md)
 _Context: 7.1 magnitude earthquake, Turkey_

@@ -55,7 +55,7 @@ Up to 430,000 people infected with Hepatitis B from repeated use of needles, to 
 Thousands march in Brussels to demand political rivals form a government after seven-month political impasse.
 
 ### [Around 27,000 anti-government red shirt protestors march in Bangkok, Thailand, calling for the release of imprisoned leaders. ](/news/2011/01/23/around-27-000-anti-government-red-shirt-protestors-march-in-bangkok-thailand-calling-for-the-release-of-imprisoned-leaders.md)
-_Context: Bangkok, Thailand, red shirt_
+_Context: Bangkok, Thai, red shirt_
 
 ### [A female Islamic activist is arrested in Yemen after organising a 2,500-strong demonstration at the Sana'a University. ](/news/2011/01/23/a-female-islamic-activist-is-arrested-in-yemen-after-organising-a-2-500-strong-demonstration-at-the-sana-a-university.md)
 Tunisian-style protests erupted in Yemen over the weekend with thousands demanding the downfall of its autocratic president who has joined leaders from Algeria to Jordan in the crosshairs of a regional revolt.

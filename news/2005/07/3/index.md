@@ -4,7 +4,7 @@
 _Context: Andy Roddick, Roger Federer_
 
 ### [ Aviators Steve Fossett and Mark Rebholz, flying a replica World War I Vickers Vimy bomber, re-enact the first non-stop transatlantic flight of Alcock and Brown in 1919, landing at Clifden, Connemara, Ireland at 1704 local time (1604 UTC), about 18 hours after they took off from St. John's, Newfoundland. ](/news/2005/07/3/aviators-steve-fossett-and-mark-rebholz-flying-a-replica-world-war-i-vickers-vimy-bomber-re-enact-the-first-non-stop-transatlantic-flight.md)
-_Context: 1919, Alcock and Brown, Clifden, Connemara, First World War, Irish, St. John's, Steve Fossett, Vickers Vimy, transatlantic flight_
+_Context: 1919, Alcock and Brown, Clifden, Connemara, First World War, Republic of Ireland, St. John's, Steve Fossett, Vickers Vimy, transatlantic flight_
 
 ### [ Ihab al-Sherif, Egypt's most senior envoy to Iraq is kidnapped by gunmen while buying a newspaper. He was to be promoted to ambassador, representing the first Arab nation to recognize the new Iraqi government. ](/news/2005/07/3/ihab-al-sherif-egypt-s-most-senior-envoy-to-iraq-is-kidnapped-by-gunmen-while-buying-a-newspaper-he-was-to-be-promoted-to-ambassador-rep.md)
 _Context: Arab world, Egypt, Ihab al-Sherif, Iraq, ambassador, kidnapped, newspaper_

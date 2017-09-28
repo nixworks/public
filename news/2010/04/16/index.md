@@ -8,7 +8,7 @@ Irish airspace reopened and transatlantic flights from Dublin resumed earlier to
 The Government is to establish a statutory fund for former residents of institutions.
 
 ### [The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/the-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md)
-_Context: Gaza, Israel, Palestinian_
+_Context: Gaza, Israel, State of Palestine_
 
 ### [President of Iran Mahmoud Ahmadinejad writes a letter to President of the United States Barack Obama urging cooperation between the two countries. ](/news/2010/04/16/president-of-iran-mahmoud-ahmadinejad-writes-a-letter-to-president-of-the-united-states-barack-obama-urging-cooperation-between-the-two-coun.md)
 _Context: Barack Obama, Mahmoud Ahmadinejad, President, U.S. President_
@@ -56,10 +56,10 @@ _Context: 2010 BRIC summit, Brasilia_
 An anti-government protest leader has evaded arrest in Thailand by scaling down a hotel fa&ccedil;ade with a rope and escaping in a getaway car while &#034;Red Shirt&#034; supporters took two police officers hostage.
 
 ### [United States Secretary of State Hillary Clinton calls again on Israel and the Palestinians to make a better effort to pursue peace. ](/news/2010/04/16/united-states-secretary-of-state-hillary-clinton-calls-again-on-israel-and-the-palestinians-to-make-a-better-effort-to-pursue-peace.md)
-_Context: Hillary Clinton, Israel, Palestinian, United States Secretary of State_
+_Context: Hillary Clinton, Israel, State of Palestine, United States Secretary of State_
 
 ### [Lady Gaga breaks a YouTube most viewed record, becoming "Queen of YouTube" with more than one billion views. ](/news/2010/04/16/lady-gaga-breaks-a-youtube-most-viewed-record-becoming-queen-of-youtube-with-more-than-one-billion-views.md)
-_Context: Lady Gaga, Youtube_
+_Context: Lady Gaga, YouTube_
 
 ### [General Motors runs a 2011 Chevrolet Cruze into a pole at 12 MPH as part of a development crash test on FMVSS 214 standards.](/news/2010/04/16/general-motors-runs-a-2011-chevrolet-cruze-into-a-pole-at-12-mph-as-part-of-a-development-crash-test-on-fmvss-214-standards.md)
 _Context: Chevrolet Cruze, General Motors, crash test_

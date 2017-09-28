@@ -19,7 +19,7 @@ _Context: Mardi Gras, New Orleans, United States, shooting_
 _Context: Crown Princess, Crown Princess Victoria, Daniel Westling, Sweden, engagement, government, personal trainer_
 
 ### [ The National Front marches on Thailand's Government House, demanding an early election. ](/news/2009/02/24/the-national-front-marches-on-thailand-s-government-house-demanding-an-early-election.md)
-_Context: Government House, Thailand, assemble, elections, red shirt_
+_Context: Government House, Thai, assemble, elections, red shirt_
 
 ### [ The Taliban announces a ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/24/the-taliban-announces-a-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md)
 Pakistani Taliban militants announced on Tuesday an indefinite ceasefire in the Swat valley in the northwest of the country, a day after the army said it was ceasing operations in the region.

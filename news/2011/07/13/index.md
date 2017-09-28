@@ -49,7 +49,7 @@ The scandal enveloping Murdoch&rsquo;s News Corp. is also sullying Britain&rsquo
 Premier Colin Barnett has refused to back a call from one of his most senior ministers for Western Australia to consider seceding from the nation over the carbon tax and Minerals Resource Rent Tax.
 
 ### [Thailand's Election Commission fails to endorse 142 prospective members of the House of Representatives including incoming Prime Minister Yingluck Shinawatra and outgoing Prime Minister Abhisit Vejjajiva. ](/news/2011/07/13/thailand-s-election-commission-fails-to-endorse-142-prospective-members-of-the-house-of-representatives-including-incoming-prime-minister-yi.md)
-_Context: Abhisit Vejjajiva, House of Representatives, Prime Minister, Thailand, Yingluck Shinawatra_
+_Context: Abhisit Vejjajiva, House of Representatives, Prime Minister, Thai, Yingluck Shinawatra_
 
 ### [Prime Minister of Japan Naoto Kan tells a news conference of his plans to wean the country off nuclear energy after the Fukushima Daiichi nuclear disaster. ](/news/2011/07/13/prime-minister-of-japan-naoto-kan-tells-a-news-conference-of-his-plans-to-wean-the-country-off-nuclear-energy-after-the-fukushima-daiichi-nu.md)
 Japanese prime minister vows to move country towards renewable energy after disaster-triggered Fukushima meltdown.

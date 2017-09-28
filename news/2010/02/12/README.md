@@ -28,7 +28,7 @@ The Winter Olympic Games opening ceremony has been launched in a flurry of ticke
 A U.S. high-powered airbornelaser weapon shot down a ballistic missile in the firstsuccessful test of a futuristic directed energy weapon, theU.S. Missile Defense Agency said on Friday.
 
 ### [Thailand deports the five-man crew detained in the country since December after transporting weapons from North Korea. ](/news/2010/02/12/thailand-deports-the-five-man-crew-detained-in-the-country-since-december-after-transporting-weapons-from-north-korea.md)
-_Context: North Korea, Thailand_
+_Context: North Korea, Thai_
 
 ### [Campaigning for Iraq's parliamentary election begins. ](/news/2010/02/12/campaigning-for-iraq-s-parliamentary-election-begins.md)
 _Context: Iraq, elections_

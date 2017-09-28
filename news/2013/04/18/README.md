@@ -16,7 +16,7 @@ _Context: China, Japan, United States, top export market, trade deficit, yen_
 _Context: Australia, China, Craig Emerson, Trade Minister, free trade talks, state-owned enterprises_
 
 ### [YouTube successfully defends itself in a billion dollar copyright infringement suit by Viacom. ](/news/2013/04/18/youtube-successfully-defends-itself-in-a-billion-dollar-copyright-infringement-suit-by-viacom.md)
-_Context: Viacom, Youtube, copyright infringement_
+_Context: Viacom, YouTube, copyright infringement_
 
 ### [15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md)
 Emergency services search for survivors after a deadly blast at a fertiliser plant in the US state of Texas, with firefighters among the missing.

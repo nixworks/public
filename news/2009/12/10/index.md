@@ -7,7 +7,7 @@ _Context: Greek, credit rating_
 _Context: FBI, Pakistan_
 
 ### [ Thousands of "red shirt" anti-government protesters demonstrate in Bangkok, Thailand, calling for new elections. ](/news/2009/12/10/thousands-of-red-shirt-anti-government-protesters-demonstrate-in-bangkok-thailand-calling-for-new-elections.md)
-_Context: Bangkok, Thailand, red shirt_
+_Context: Bangkok, Thai, red shirt_
 
 ### [ In what has been described as a landmark case, the Supreme Court of Ireland rules that a gay man, identified as "A", who donated his sperm to a lesbian couple shall have access to the resulting boy child, overturning the original High Court decision. GLEN expresses concern at the Supreme Court's rejection of the lesbian couple as a "de facto family". ](/news/2009/12/10/in-what-has-been-described-as-a-landmark-case-the-supreme-court-of-ireland-rules-that-a-gay-man-identified-as-a-who-donated-his-sperm.md)
 The Supreme Court has ruled the gay friend of a lesbian couple who donated his sperm to one of them so she could have a child&hellip;

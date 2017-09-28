@@ -37,7 +37,7 @@ _Context: Basque, Spanish, autonomy, independent, referendum_
 _Context: European Union Constitution, Slovenia_
 
 ### [ In Japan, the first of the former residents of the island of Miyakejima return to the homes they left after a volcanic eruption in 2000. ](/news/2005/02/2/in-japan-the-first-of-the-former-residents-of-the-island-of-miyakejima-return-to-the-homes-they-left-after-a-volcanic-eruption-in-2000.md)
-_Context: 2000, Japan, Miyakejima, eruption_
+_Context: 2000, Japan, Miyakejima, erupt_
 
 ## [Previous Day...](/news/2005/02/1/index.md)
 

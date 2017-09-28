@@ -10,7 +10,7 @@ _Context: 24 March, Andrus Ansip, Estonia, Juhan Parts, Prime Minister of Estoni
 _Context: Ennepetal, Germany, North Rhine-Westphalia, held hostage_
 
 ### [ Israeli citizens against the proposed Israeli dismantling of Jewish settlements on the Gaza Strip have chained shut 167 schools and nurseries in Tel Aviv as part of their protest. The Fire Service quickly cut through the chains. ](/news/2005/04/12/israeli-citizens-against-the-proposed-israeli-dismantling-of-jewish-settlements-on-the-gaza-strip-have-chained-shut-167-schools-and-nurseri.md)
-_Context: Fire Service, Gaza, Israel, Jew, Jewish settlement, Tel Aviv, school_
+_Context: Fire Service, Gaza, Israel, Israeli settlement, Jew, Tel Aviv, school_
 
 ### [ The death toll in the collapse of a factory in Dacca, Bangladesh rises to 21 and hundreds are still trapped. ](/news/2005/04/12/the-death-toll-in-the-collapse-of-a-factory-in-dacca-bangladesh-rises-to-21-and-hundreds-are-still-trapped.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

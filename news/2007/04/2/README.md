@@ -25,7 +25,7 @@ _Context: Cambodian People's Party_
 _Context: George Yeo, Myanmar, Nyan Win, Singapore, Yangon_
 
 ### [ Panthongtae and Pinthongta Shinawatra, the son and daughter of deposed prime minister of Thailand Thaksin Shinawatra are ordered to pay 10 billion baht in back taxes owed in connection with the sale of Shin Corporation stock to Temasek Holdings. ](/news/2007/04/2/panthongtae-and-pinthongta-shinawatra-the-son-and-daughter-of-deposed-prime-minister-of-thailand-thaksin-shinawatra-are-ordered-to-pay-10.md)
-_Context: Panthongtae, Pinthongta Shinawatra, Shin Corporation, Temasek Holdings, Thailand, Thaksin Shinawatra, baht_
+_Context: Panthongtae, Pinthongta Shinawatra, Shin Corporation, Temasek Holdings, Thai, Thaksin Shinawatra, baht_
 
 ### [ Microsoft co-founder Bill Gates is in Vietnam, touring medical clinics as he looks to support the development of vaccines for children through the Bill and Melinda Gates Foundation. ](/news/2007/04/2/microsoft-co-founder-bill-gates-is-in-vietnam-touring-medical-clinics-as-he-looks-to-support-the-development-of-vaccines-for-children-thro.md)
 _Context: Bill Gates, Bill and Melinda Gates Foundation, Microsoft, Vietnam, vaccine_

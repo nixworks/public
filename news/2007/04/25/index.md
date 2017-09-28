@@ -25,7 +25,7 @@ _Context: 2008 Summer Olympics, China, Mount Everest, Tibetan independence, Unit
 _Context: Japanese police, kidnapped, pro-North Korean group_
 
 ### [ Buddhist monks protest in the streets of Bangkok, demanding that Buddhism be made the official religion of Thailand under a new constitution. ](/news/2007/04/25/buddhist-monks-protest-in-the-streets-of-bangkok-demanding-that-buddhism-be-made-the-official-religion-of-thailand-under-a-new-constitutio.md)
-_Context: Bangkok, Buddhist, Buddhists, Thailand, constitution, monk, official religion_
+_Context: Bangkok, Buddhist, Buddhists, Thai, constitution, monk, official religion_
 
 ### [ Astronomers announce the discovery of the Earth-like exoplanet Gliese 581 c, which may support liquid water and is potentially habitable. ](/news/2007/04/25/astronomers-announce-the-discovery-of-the-earth-like-exoplanet-gliese-581-c-which-may-support-liquid-water-and-is-potentially-habitable.md)
 _Context: Astronomer, Earth-like, Gliese 581 c, extrasolar planet, habitable, habitable zone_

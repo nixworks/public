@@ -40,10 +40,10 @@ Authorities raise alert level after intelligence reports of plot to hijack plane
 _Context: Colombo, Sri Lanka, presidential election_
 
 ### [Alexey Dymovskiy, the Russian policeman who became famous for denouncing police corruption on YouTube, is arrested on charges of fraud and corruption. ](/news/2010/01/22/alexey-dymovskiy-the-russian-policeman-who-became-famous-for-denouncing-police-corruption-on-youtube-is-arrested-on-charges-of-fraud-and-c.md)
-_Context: Alexey Dymovskiy, Russia, Youtube, corruption, fraud, policeman_
+_Context: Alexey Dymovskiy, Russia, YouTube, corruption, fraud, policeman_
 
 ### [The internationally renowned Waterford Crystal tourist centre in Kilbarry, Ireland, ceases to function. ](/news/2010/01/22/the-internationally-renowned-waterford-crystal-tourist-centre-in-kilbarry-ireland-ceases-to-function.md)
-_Context: Irish, Kilbarry, Waterford Crystal_
+_Context: Kilbarry, Republic of Ireland, Waterford Crystal_
 
 ### [Conan O'Brien hosted the late night variety television show, The Tonight Show, on NBC for the final time. ](/news/2010/01/22/conan-o-brien-hosted-the-late-night-variety-television-show-the-tonight-show-on-nbc-for-the-final-time.md)
 Jay Leno has concluded his run as host of “The Tonight Show with Jay Leno” by delivering the show’s biggest overall audience in more than 15 years, since May 1998.

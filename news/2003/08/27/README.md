@@ -22,7 +22,7 @@ _Context: Chicago, shooting_
 _Context: Drumlanrig Castle, Leonardo da Vinci, Madonna with the Yarnwinder_
 
 ### [ A body of a woman is found in a shallow grave on a beach near Dundalk in the Republic of Ireland. It is suspected to be the body of Jean McConville, a young Belfast woman and mother of ten children kidnapped and murdered by the Provisional IRA in the mid-1970s. The IRA had suggested two years ago that McConville was buried in the vicinity. Previous attempts to find her remains had failed.](/news/2003/08/27/a-body-of-a-woman-is-found-in-a-shallow-grave-on-a-beach-near-dundalk-in-the-republic-of-ireland-it-is-suspected-to-be-the-body-of-jean-mc.md)
-_Context: Dundalk, IRA, Irish, Jean McConville_
+_Context: Dundalk, IRA, Jean McConville, Republic of Ireland_
 
 ### [ Two bombs explode at the Emeryville, California, corporate offices of Chiron (corporation); electronic mail sent to reporters from Revolutionary Cells (RCALB) claims responsibility.](/news/2003/08/27/two-bombs-explode-at-the-emeryville-california-corporate-offices-of-chiron-corporation-electronic-mail-sent-to-reporters-from-revoluti.md)
 _Context: Chiron (corporation), Emeryville, California, Revolutionary Cells (RCALB)_

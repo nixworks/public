@@ -13,7 +13,7 @@ _Context: European Space Agency, Mars, Mars Express_
 _Context: Deep Space Network, Madrid, Spain, NASA, Spirit_
 
 ### [ A Thai man suspected of having bird flu died, according to the Public Health Ministry.](/news/2004/01/23/a-thai-man-suspected-of-having-bird-flu-died-according-to-the-public-health-ministry.md)
-_Context: Thailand, bird flu_
+_Context: Thai, bird flu_
 
 ### [ At least 51 people, including a bridegroom, were killed on Friday when a fire ripped through a makeshift wedding hall in the southern Indian state of Tamil Nadu during a marriage ceremony.](/news/2004/01/23/at-least-51-people-including-a-bridegroom-were-killed-on-friday-when-a-fire-ripped-through-a-makeshift-wedding-hall-in-the-southern-india.md)
 _Context: Tamil Nadu, bridegroom_

@@ -43,7 +43,7 @@ _Context: Al-Muhajiroun, Islam4UK, Islamist, United Kingdom_
 _Context: Habikino, Japan, gunman kills two people_
 
 ### [Five Thai policemen are charged with murder over the disappearance of a Saudi businessman 20 years ago that was linked to the theft of Saudi royal jewellery. ](/news/2010/01/12/five-thai-policemen-are-charged-with-murder-over-the-disappearance-of-a-saudi-businessman-20-years-ago-that-was-linked-to-the-theft-of-saudi.md)
-_Context: Saudi Arabia, Thailand_
+_Context: Saudi Arabia, Thai_
 
 ### [Four men feature in the first Crown Court criminal trial to be held without a jury in England and Wales for more than 350 years. ](/news/2010/01/12/four-men-feature-in-the-first-crown-court-criminal-trial-to-be-held-without-a-jury-in-england-and-wales-for-more-than-350-years.md)
 Four men alleged to have carried out an armed robbery at Heathrow went on trial on Tuesday in an unprecedented case being heard without a jury

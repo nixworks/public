@@ -28,7 +28,7 @@ _Context: AMISOM, African Union, Mogadishu, Somalia, civilian, declares, insurge
 _Context: 4th quarter of 2007 and the second quarter of 2009, Japan, Japanese economy, fiscal year_
 
 ### [ Ireland's Commission to Inquire into Child Abuse concludes that the Roman Catholic Church and the Department of Education knew sexual abuse was "endemic" in boys' institutions. ](/news/2009/05/20/ireland-s-commission-to-inquire-into-child-abuse-concludes-that-the-roman-catholic-church-and-the-department-of-education-knew-sexual-abuse.md)
-_Context:  within the church, Commission to Inquire into Child Abuse, Department of Education, Irish, Roman Catholic Church, boys' institutions, endemic, sexual abuse_
+_Context:  within the church, Commission to Inquire into Child Abuse, Department of Education, Republic of Ireland, Roman Catholic Church, boys' institutions, endemic, sexual abuse_
 
 ### [ A car bomb kills at least 34 people and injures 72 others in Baghdad, Iraq. ](/news/2009/05/20/a-car-bomb-kills-at-least-34-people-and-injures-72-others-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq, car bomb_

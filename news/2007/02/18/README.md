@@ -10,7 +10,7 @@ _Context: Bangladesh, Citizens' Power, Muhammad Yunus, Nobel Peace Prize_
 _Context: Israel, Moshe Karadi_
 
 ### [ 2007 South Thailand bombings: 28 bombs explode in southern Thailand, killing three and injuring 50. Militants burn two public schools and shoot three people during the South Thailand insurgency. ](/news/2007/02/18/2007-south-thailand-bombings-28-bombs-explode-in-southern-thailand-killing-three-and-injuring-50-militants-burn-two-public-schools-and-s.md)
-_Context: 2007 South Thailand bombings, South Thailand insurgency, Thailand_
+_Context: 2007 South Thailand bombings, South Thailand insurgency, Thai_
 
 ### [ Islamist insurgency in Somalia (2007-present): A car bomb explodes in Mogadishu killing at least four people. It is the first ever car bomb in the capital. ](/news/2007/02/18/islamist-insurgency-in-somalia-2007apresent-a-car-bomb-explodes-in-mogadishu-killing-at-least-four-people-it-is-the-first-ever-car-bo.md)
 _Context:  Insurgency in Somalia, Mogadishu, car bomb_

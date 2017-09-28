@@ -7,7 +7,7 @@ A strong 6.5-magnitude earthquake struck in the Pacific near the Mexico-Guatemal
 _Context: China, Ningxia Hui Autonomous Region, Shizuishan, coal mine, explosion_
 
 ### [ 2008 Cambodian-Thai stand-off: Cambodia and Thailand agree to joint border controls following a recent clash. ](/news/2008/10/16/2008-cambodian-thai-stand-off-cambodia-and-thailand-agree-to-joint-border-controls-following-a-recent-clash.md)
-_Context: Cambodia, Thailand, border controls, exchange gunfire_
+_Context: Cambodia, Thai, border controls, exchange gunfire_
 
 ### [ The United States Environmental Protection Agency sets a new standard, cutting the amount of lead that can be released into the atmosphere by 90 percent. ](/news/2008/10/16/the-united-states-environmental-protection-agency-sets-a-new-standard-cutting-the-amount-of-lead-that-can-be-released-into-the-atmosphere.md)
 _Context: Environmental Protection Agency, United States, lead_

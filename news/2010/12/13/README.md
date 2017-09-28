@@ -40,7 +40,7 @@ _Context: Barack Obama, Henry E. Hudson, US Eastern District Court of Virginia, 
 _Context:  Catholic nun,  Iona College, embezzled_
 
 ### [Palestinian negotiator Saeb Erakat asks the European Union to recognize "two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-atwo-states-israel-and-palestine-along-the-1967-borders.md)
-_Context: EU, Israel, Palestinian, Saeb Erakat_
+_Context: EU, Israel, Saeb Erakat, State of Palestine_
 
 ### [Europe reaffirms its readiness to recognise a Palestinian state at an "appropriate" time, stopping short of outright recognition despite mounting pressure to break the Middle East impasse. ](/news/2010/12/13/europe-reaffirms-its-readiness-to-recognise-a-palestinian-state-at-an-appropriate-time-stopping-short-of-outright-recognition-despite-mou.md)
 ### [Minni Minnawi, the only Darfur faction leader to sign the Darfur Peace Agreement with the Sudanese government, declares its failure and leaves his post. ](/news/2010/12/13/minni-minnawi-the-only-darfur-faction-leader-to-sign-the-darfur-peace-agreement-with-the-sudanese-government-declares-its-failure-and-leav.md)

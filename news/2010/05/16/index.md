@@ -4,7 +4,7 @@
 _Context: Mogadishu_
 
 ### [Thailand's Prime Minister, Abhisit Vejjajiva, warns of escalating violence, and is considering a curfew after clashes with protesters kill 25 over the last 3 days. ](/news/2010/05/16/thailand-s-prime-minister-abhisit-vejjajiva-warns-of-escalating-violence-and-is-considering-a-curfew-after-clashes-with-protesters-kill-2.md)
-_Context: Abhisit Vejjajiva, Thailand_
+_Context: Abhisit Vejjajiva, Thai_
 
 ### [At least 11 people are killed after rebels from the Al-Shabab militant group attack the Somali parliament as it meets for the first time this year. ](/news/2010/05/16/at-least-11-people-are-killed-after-rebels-from-the-al-shabab-militant-group-attack-the-somali-parliament-as-it-meets-for-the-first-time-thi.md)
 At least seven people killed after African Union forces respond to al-Shabab attack.

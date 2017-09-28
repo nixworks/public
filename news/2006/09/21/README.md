@@ -34,7 +34,7 @@ _Context: Richard Hammond, Top Gear_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The leaders of Thailand's coup ban all meetings and other activities by political parties, two days after taking power. ](/news/2006/09/21/the-leaders-of-thailand-s-coup-ban-all-meetings-and-other-activities-by-political-parties-two-days-after-taking-power.md)
-_Context: Thailand_
+_Context: Thai_
 
 ### [ Turkish writer Elif Shafak is cleared of charge of "insulting Turkishness", under the controversial Article 301 of the Turkish Criminal Code, in an Istanbul Court. ](/news/2006/09/21/turkish-writer-elif-shafak-is-cleared-of-charge-of-insulting-turkishness-under-the-controversial-article-301-of-the-turkish-criminal-cod.md)
 _Context: Elif Shafak, insulting Turkishness_

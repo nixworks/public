@@ -23,7 +23,7 @@ _Context: Adjudication Panel for England, Evening Standard, Ken Livingstone, May
 _Context: Abqaiq, Saudi Arabian_
 
 ### [ After months of an increasing political power struggle, the Thai Prime Minister Thaksin Shinawatra dissolves the House of Representatives and calls for new election to be held on April 2. ](/news/2006/02/24/after-months-of-an-increasing-political-power-struggle-the-thai-prime-minister-thaksin-shinawatra-dissolves-the-house-of-representatives-a.md)
-_Context: House of Representatives, Thailand, Thaksin Shinawatra_
+_Context: House of Representatives, Thai, Thaksin Shinawatra_
 
 ### [ A fire in a textile mill in Chittagong, Bangladesh, kills 51 people and injures over 100. ](/news/2006/02/24/a-fire-in-a-textile-mill-in-chittagong-bangladesh-kills-51-people-and-injures-over-100.md)
 _Context: Bangladesh, Chittagong_

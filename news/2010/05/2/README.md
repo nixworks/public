@@ -31,7 +31,7 @@ _Context: Kathmandu, Madhav Kumar Nepal, Maoist, Prime Minister_
 _Context: Guadalupe, Nuevo Leon, Intocable_
 
 ### [Thai Prime Minister Abhisit Vejjajiva says his government is preparing to take back Bangkok and end the seven-week-long protests. ](/news/2010/05/2/thai-prime-minister-abhisit-vejjajiva-says-his-government-is-preparing-to-take-back-bangkok-and-end-the-seven-week-long-protests.md)
-_Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thailand_
+_Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thai_
 
 ### [A group of Asian finance ministers announce a new US$700 million bond fund to promote the issuance of local bonds because of the guarantee the new funds would provide potential investors. ](/news/2010/05/2/a-group-of-asian-finance-ministers-announce-a-new-us-700-million-bond-fund-to-promote-the-issuance-of-local-bonds-because-of-the-guarantee-t.md)
 _Context: US$_

@@ -10,7 +10,7 @@ _Context: Guwahati, India, serial bombings_
 _Context: 1938, Gabriele D'Annunzio, public domain_
 
 ### [ A nightclub fire in Bangkok, Thailand, kills 61 people and injures more than 200. ](/news/2009/01/1/a-nightclub-fire-in-bangkok-thailand-kills-61-people-and-injures-more-than-200.md)
-_Context: Bangkok, Thailand, nightclub fire_
+_Context: Bangkok, Thai, nightclub fire_
 
 ### [ Russia's Gazprom halts deliveries of natural gas to Ukraine after negotiations over prices fail. ](/news/2009/01/1/russia-s-gazprom-halts-deliveries-of-natural-gas-to-ukraine-after-negotiations-over-prices-fail.md)
 _Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukraine, natural gas_

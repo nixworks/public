@@ -10,7 +10,7 @@ _Context: Abu Ghraib prisoner abuse, Cuba, Cuba's human rights record, Havana_
 _Context: Hizbullah, al-Manar, terrorist organization_
 
 ### [ A public inquiry into the deaths of 85 Muslim protesters in southern Thailand claims the killings were "not deliberate". 78 people suffocated to death after being piled into army trucks by Thai security forces; 7 were shot at the separatist protests on October 25. ](/news/2004/12/17/a-public-inquiry-into-the-deaths-of-85-muslim-protesters-in-southern-thailand-claims-the-killings-were-not-deliberate-78-people-suffocat.md)
-_Context: October 25, Thailand, public inquiry, separatist_
+_Context: October 25, Thai, public inquiry, separatist_
 
 ### [ U.S. President George W. Bush signs the Intelligence Reform and Terrorism Prevention Act, creating the office of the Director of National Intelligence to oversee the country's fifteen spy agencies. ](/news/2004/12/17/u-s-president-george-w-bush-signs-the-intelligence-reform-and-terrorism-prevention-act-creating-the-office-of-the-director-of-national-i.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.

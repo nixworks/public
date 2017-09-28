@@ -22,7 +22,7 @@ _Context: Baghdad, Conflict in Iraq, Iraqi Police_
 _Context: Jericho, Mahmoud Abbas, Shaul Mofaz, Tulkarm_
 
 ### [ In Israel, an official report has revealed that Israeli state bodies have been diverting funds from state projects to fund the establishment of illegal Israeli settlements in the West Bank. Former state prosecutor Talia Sasson has recommended that criminal investigations be launched. ](/news/2005/03/9/in-israel-an-official-report-has-revealed-that-israeli-state-bodies-have-been-diverting-funds-from-state-projects-to-fund-the-establishmen.md)
-_Context: Jewish settlement, Talia Sasson, West Bank_
+_Context: Israeli settlement, Talia Sasson, West Bank_
 
 ### [ Ramush Haradinaj, the former prime minister of Kosovo, flies to International Criminal Tribunal for the Former Yugoslavia in The Hague to answer for charges for his role as a former commander of Kosovo Liberation Army in 1998-1999. He goes there voluntarily. ](/news/2005/03/9/ramush-haradinaj-the-former-prime-minister-of-kosovo-flies-to-international-criminal-tribunal-for-the-former-yugoslavia-in-the-hague-to-a.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

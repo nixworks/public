@@ -7,7 +7,7 @@ _Context: Kamien Pomorski, Polish, destroys, homeless people, hostel, house fire
 Pakistani Taliban are imposing their rule in a Pakistani mountain valley they took over last week, spreading fear in the area only 100 km (60 miles) from the capital, police and residents said on Monday.
 
 ### [ Thai Prime Minister Abhisit Vejjajiva says that anti-government protests in Bangkok are "under control". ](/news/2009/04/13/thai-prime-minister-abhisit-vejjajiva-says-that-anti-government-protests-in-bangkok-are-under-control.md)
-_Context: Abhisit Vejjajiva, Bangkok, Prime Minister, Royal Thai Government, Thailand, political crisis_
+_Context: Abhisit Vejjajiva, Bangkok, Prime Minister, Royal Thai Government, Thai, political crisis_
 
 ### [ Mass media in Fiji protest against government censorship. ](/news/2009/04/13/mass-media-in-fiji-protest-against-government-censorship.md)
 _Context: Fiji, censorship, government, mass media, protest_

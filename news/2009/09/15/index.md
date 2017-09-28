@@ -13,7 +13,7 @@ _Context: Ben S. Bernanke, Federal Reserve, U.S._
 _Context: Dmitry Medvedev, Russia, Russian President, United States, World Trade Organization_
 
 ### [ A United Nations report into the Gaza War alleges both Israeli and Palestinian forces committed war crimes. ](/news/2009/09/15/a-united-nations-report-into-the-gaza-war-alleges-both-israeli-and-palestinian-forces-committed-war-crimes.md)
-_Context: 2008-2009 Gaza War, Israel, Palestinian, United Nations, war crime_
+_Context: 2008-2009 Gaza War, Israel, State of Palestine, United Nations, war crime_
 
 ### [ EirGrid, Ireland's national electricity grid operator, receives permission from An Bord Pleanala to build a new electricity interconnector between Ireland and Wales. ](/news/2009/09/15/eirgrid-ireland-s-national-electricity-grid-operator-receives-permission-from-an-bord-pleana-la-to-build-a-new-electricity-interconnector.md)
 An Bord Pleanála has given EirGrid permission to build a new electricity interconnector between Ireland and Wales.

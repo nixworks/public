@@ -4,7 +4,7 @@
 _Context: DeCSS, Jon Johansen, copyright_
 
 ### [ Kobe Bryant breaks NBA record for most 3-point field goals in a single game.](/news/2003/01/7/kobe-bryant-breaks-nba-record-for-most-3-point-field-goals-in-a-single-game.md)
-_Context: 3-point field goal, Kobe Bryant, NBA's_
+_Context: 3-point field goal, Kobe Bryant, NBA_
 
 ### [ War on Terrorism: British police announced details of the discovery of traces of the toxin ricin in a flat in Wood Green in North London in the wake of the arrest of six terrorist suspects. The timing of this news coincided with a major speech by Prime Minister Tony Blair dealing with the threat of terrorism and Britain's relationship with the U.S.A.](/news/2003/01/7/war-on-terrorism-british-police-announced-details-of-the-discovery-of-traces-of-the-toxin-ricin-in-a-flat-in-wood-green-in-north-london-in.md)
 _Context: Tony Blair, War on Terrorism, Wood Green, ricin, terrorism_

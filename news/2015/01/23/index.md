@@ -16,7 +16,7 @@ The state&#39;s attorney general said he would seek a stay of the ruling.
 _Context: Abdullah, Custodian of the Two Holy Mosques, King, Muqrin bin Abdulaziz Al Saud, Saudi Arabia Crown Prince, king_
 
 ### [Thailand's military-appointed legislature votes to impeach former Prime Minister Yingluck Shinawatra for her role in overseeing a government rice subsidy program that lost billions of dollars. ](/news/2015/01/23/thailand-s-military-appointed-legislature-votes-to-impeach-former-prime-minister-yingluck-shinawatra-for-her-role-in-overseeing-a-government.md)
-_Context: Thailand, Yingluck Shinawatra_
+_Context: Thai, Yingluck Shinawatra_
 
 ## [Previous Day...](/news/2015/01/22/index.md)
 

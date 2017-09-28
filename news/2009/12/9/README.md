@@ -4,13 +4,13 @@
 A eerie turquoise light spotted over Norway has sparked a mystery, with suggestions it could be a missile test.
 
 ### [ Thousands of Jewish settlers stage a protest at the curbs on settlement building in the West Bank. ](/news/2009/12/9/thousands-of-jewish-settlers-stage-a-protest-at-the-curbs-on-settlement-building-in-the-west-bank.md)
-_Context: Israel, Jewish settlement, West Bank_
+_Context: Israel, Israeli settlement, West Bank_
 
 ### [ British Chancellor of the Exchequer Alistair Darling delivers the pre Budget report, with tax rises and spending cuts to reduce the government debt. ](/news/2009/12/9/british-chancellor-of-the-exchequer-alistair-darling-delivers-the-pre-budget-report-with-tax-rises-and-spending-cuts-to-reduce-the-governm.md)
 _Context: Alistair Darling, Chancellor of the Exchequer, United Kingdom_
 
 ### [ Irish Minister for Finance Brian Lenihan delivers the nation's Budget for 2010. ](/news/2009/12/9/irish-minister-for-finance-brian-lenihan-delivers-the-nation-s-budget-for-2010.md)
-_Context: Brian Lenihan Jnr, Budget for 2010, Finance Minister, Irish_
+_Context: Brian Lenihan Jnr, Budget for 2010, Finance Minister, Republic of Ireland_
 
 ### [ The Irish Bishops Conference apologises for the sexual abuse suffered by its children after spending the first day of its winter conference examining the Murphy Report. ](/news/2009/12/9/the-irish-bishops-conference-apologises-for-the-sexual-abuse-suffered-by-its-children-after-spending-the-first-day-of-its-winter-conference.md)
 The Irish Bishops&#39; Conference has issued an apology to all those who were abused by priests.
@@ -19,7 +19,7 @@ The Irish Bishops&#39; Conference has issued an apology to all those who were ab
 _Context: Maguindanao massacre, Philippines_
 
 ### [ A legal challenge to Ireland's abortion laws takes place at the European Court of Human Rights in Strasbourg. ](/news/2009/12/9/a-legal-challenge-to-ireland-s-abortion-laws-takes-place-at-the-european-court-of-human-rights-in-strasbourg.md)
-_Context: European Court of Human Rights, Irish, Strasbourg, abortion_
+_Context: Abortion in the Republic of Ireland, European Court of Human Rights, Republic of Ireland, Strasbourg_
 
 ### [ The Australian government is accused of "censorship" after it refuses visas to several North Korean artists who were to attend an international exhibition displaying their work. ](/news/2009/12/9/the-australian-government-is-accused-of-censorship-after-it-refuses-visas-to-several-north-korean-artists-who-were-to-attend-an-internati.md)
 _Context: Australia, North Korea, censorship_

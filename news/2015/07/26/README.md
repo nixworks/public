@@ -25,7 +25,7 @@ _Context: Atlanta, Bobbi Kristina Brown, Roswell, Georgia, Whitney Houston, medi
 A light plane crashes into a residential area in Tokyo, setting fire to several houses and reportedly killing three people.
 
 ### [Palestinian youth and Israeli riot police clash at the Al-Aqsa Mosque as the Muslims attacked Jews celebrating Tisha B'Av with rocks and firecrackers and barricaded themselves inside the mosque. ](/news/2015/07/26/palestinian-youth-and-israeli-riot-police-clash-at-the-al-aqsa-mosque-as-the-muslims-attacked-jews-celebrating-tisha-b-av-with-rocks-and-fir.md)
-_Context: Al-Aqsa Mosque, Israel, Palestinian, Tisha B'Av_
+_Context: Al-Aqsa Mosque, Israel, State of Palestine, Tisha B'Av_
 
 ### [At least 20 people are killed as gunmen open fire at a wedding celebration in Afghanistan's Baghlan province. ](/news/2015/07/26/at-least-20-people-are-killed-as-gunmen-open-fire-at-a-wedding-celebration-in-afghanistan-s-baghlan-province.md)
 At least 20 people killed by gunmen who opened fire at wedding guests in northern Baghlan province.

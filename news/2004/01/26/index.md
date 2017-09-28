@@ -4,7 +4,7 @@
 _Context: Afghanistan, Hamid Karzai_
 
 ### [ Avian influenza has now been detected in a total of nine countries, with Pakistan and Laos as the latest additions. Pakistan has detected less dangerous strains H7 and H9. A six-year-old Thai boy became the seventh victim in Asia, with another ten suspected cases in the country. Around 19 million chickens have been slaughtered as a result of fighting the spread of the flu. The World Health Organisation expresses concern about a serious human outbreak. (WHO)](/news/2004/01/26/avian-influenza-has-now-been-detected-in-a-total-of-nine-countries-with-pakistan-and-laos-as-the-latest-additions-pakistan-has-detected-l.md)
-_Context: Avian flu virus, Laos, Thailand, World Health Organisation_
+_Context: Avian flu virus, Laos, Thai, World Health Organisation_
 
 ### [ In "Fellers v. United States", the United States Supreme Court unanimously reaffirms the Miranda Warning.](/news/2004/01/26/in-fellers-v-united-states-the-united-states-supreme-court-unanimously-reaffirms-the-miranda-warning.md)
 _Context: Fellers v. United States, Miranda warning, United States Supreme Court_

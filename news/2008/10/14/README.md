@@ -13,7 +13,7 @@ _Context: Canada, Canadian Prime Minister, Conservative Party's, Stephen Harper,
 _Context: Harare, Parliament, Zimbabwe, petition, police_
 
 ### [ 2008 Cambodian-Thai stand-off: Thailand states that it is prepared to respond militarily if attacked by Cambodia after Cambodia issues an ultimatum to withdraw from disputed border areas. ](/news/2008/10/14/2008-cambodian-thai-stand-off-thailand-states-that-it-is-prepared-to-respond-militarily-if-attacked-by-cambodia-after-cambodia-issues-an-u.md)
-_Context: Cambodia, Thailand, exchange gunfire_
+_Context: Cambodia, Thai, exchange gunfire_
 
 ### [ Double murderer Richard Cooey is executed at the Southern Ohio Correctional Facility in Lucasville, Ohio, despite his claims that his obesity made lethal injection inhumane. ](/news/2008/10/14/double-murderer-richard-cooey-is-executed-at-the-southern-ohio-correctional-facility-in-lucasville-ohio-despite-his-claims-that-his-obesi.md)
 An Ohio man convicted of raping, beating and killing two women two decades ago was executed Tuesday by lethal injection at the state prison in Lucasville.

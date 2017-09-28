@@ -22,7 +22,7 @@ _Context: Lekhtusi, Russian President, St. Petersburg, Vladimir Putin, air defen
 _Context: New York City, al-Qaeda_
 
 ### [ Thai insurgents attack several positions held by Thai security forces at Yala Province. ](/news/2007/08/11/thai-insurgents-attack-several-positions-held-by-thai-security-forces-at-yala-province.md)
-_Context: Thailand, Yala_
+_Context: Thai, Yala_
 
 ### [ The President of the United States George W. Bush hosts the President of France Nicolas Sarkozy at a casual lunch at the Bush family home in Maine. ](/news/2007/08/11/the-president-of-the-united-states-george-w-bush-hosts-the-president-of-france-nicolas-sarkozy-at-a-casual-lunch-at-the-bush-family-home-i.md)
 President George W. Bush and French President Nicolas Sarkozy on Saturday stressed friendship over disagreement at a lunch of hamburgers and hot dogs at the Bush family estate aimed at improving relations strained by the Iraq war.

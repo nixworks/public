@@ -13,7 +13,7 @@ _Context: Jack Abramoff Indian lobbying scandal, Jack Abramoff scandals, Republi
 _Context: MINOS, Standard Model, mass, neutrino, neutrino oscillation, particle physics_
 
 ### [ A The Nation Group's newspaper critical of Thai Prime Minister Thaksin Shinawatra agrees to stop publishing for five days amid protests about the way it referred to the King of Thailand. ](/news/2006/03/31/a-the-nation-group-s-newspaper-critical-of-thai-prime-minister-thaksin-shinawatra-agrees-to-stop-publishing-for-five-days-amid-protests-abo.md)
-_Context: Chakri Dynasty, Prime Minister, Thailand, Thaksin Shinawatra, The Nation Group, newspaper, protest_
+_Context: Chakri Dynasty, Prime Minister, Thai, Thaksin Shinawatra, The Nation Group, newspaper, protest_
 
 ### [ In Brussels, Microsoft claims a breakthrough, as an independent monitor of its hearings with European Union regulators in Brussels has outlined what it can do to avoid paying fines of 2 million euros a day. ](/news/2006/03/31/in-brussels-microsoft-claims-a-breakthrough-as-an-independent-monitor-of-its-hearings-with-european-union-regulators-in-brussels-has-outl.md)
 _Context: Brussels, EU, Microsoft_

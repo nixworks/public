@@ -1,7 +1,7 @@
 ## [2009-09-24](/news/2009/09/24/index.md)
 
 ### [ Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-they-vote-on-it-agai.md)
-_Context: Czech Republic, EU, Irish, Treaty of Lisbon, Vaclav Klaus, president, the second Irish referendum_
+_Context: Czech Republic, EU, Republic of Ireland, Treaty of Lisbon, Vaclav Klaus, president, the second Irish referendum_
 
 ### [ The 2009 G-20 Pittsburgh summit commences with two dozen world leaders in attendance.](/news/2009/09/24/the-2009-g-20-pittsburgh-summit-commences-with-two-dozen-world-leaders-in-attendance.md)
 _Context: G-20 Summit_
@@ -16,7 +16,7 @@ _Context: Chandrayaan-1, India, Moon_
 The United Nations council unanimously passed a resolution aimed at shoring up commitment to limiting nuclear weapons.
 
 ### [ Thailand and the U.S. Army announce a breakthrough of a HIV/AIDS vaccine, after trials find it can reduce infection by 31%. ](/news/2009/09/24/thailand-and-the-u-s-army-announce-a-breakthrough-of-a-hiv-aids-vaccine-after-trials-find-it-can-reduce-infection-by-31.md)
-_Context: AIDS, HIV, Thailand_
+_Context: AIDS, HIV, Thai_
 
 ### [ Arthur's Day: The 250th anniversary of the signing of a lease by Arthur Guinness for a brewery at St James's Gate in Dublin. Events organised by Diageo get underway in Dublin, Kuala Lumpur, Lagos, New York and Yaounde. ](/news/2009/09/24/arthur-s-day-the-250th-anniversary-of-the-signing-of-a-lease-by-arthur-guinness-for-a-brewery-at-st-james-s-gate-in-dublin-events-organis.md)
 People all over the world have been toasting what is described as a momentous anniversary for the Guinness company.

@@ -16,7 +16,7 @@ CHINA said today its economy grew at a slower pace in the third quarter as gover
 _Context: Droid RAZR, Motorola_
 
 ### [Taiwanese smartphone manufacturer HTC loses a patent infringement case in the United States, with the United States International Trade Commission ruling that Apple Inc.'s iPhone technology does not violate HTC's patents. ](/news/2011/10/18/taiwanese-smartphone-manufacturer-htc-loses-a-patent-infringement-case-in-the-united-states-with-the-united-states-international-trade-comm.md)
-_Context: Apple Inc., HTC, Taiwan, United States, United States International Trade Commission, iPhone, patent, patent infringement, smartphone_
+_Context: Apple Inc., HTC, Taiwan, U.S. International Trade Commission, United States, iPhone, patent, patent infringement, smartphone_
 
 ### [A bill to takeover the capital city of Harrisburg, rather than have it file for Chapter 9, clears the Pennsylvania State Legislature. The Governor of Pennsylvania, Tom Corbett, is expected to sign it. ](/news/2011/10/18/a-bill-to-takeover-the-capital-city-of-harrisburg-rather-than-have-it-file-for-chapter-9-clears-the-pennsylvania-state-legislature-the-go.md)
 The Pennsylvania state Senate on Tuesday voted for a state takeover of the finances of its capital, Harrisburg, setting up a showdown with the city, which filed for bankruptcy last week.
@@ -25,10 +25,10 @@ The Pennsylvania state Senate on Tuesday voted for a state takeover of the finan
 Sir Richard Branson has dedicated the launchpad for his space tourism venture in the New Mexico desert - with his usual eye for a photo opportunity.
 
 ### [The Governor of Bangkok, Sukhumbhand Paribatra, appeals for 1.2 million sandbags to protect the Thai capital from encroaching floods, which have killed over 300 people nationwide since July. ](/news/2011/10/18/the-governor-of-bangkok-sukhumbhand-paribatra-appeals-for-1-2-million-sandbags-to-protect-the-thai-capital-from-encroaching-floods-which.md)
-_Context: Bangkok, Governor, Sukhumbhand Paribatra, Thailand, floods, sandbag_
+_Context: Bangkok, Governor, Sukhumbhand Paribatra, Thai, floods, sandbag_
 
 ### [Israel and the Palestinian militant organization Hamas begin a major prisoner swap, in which the captured Israeli Army soldier Gilad Shalit is released by Hamas in exchange for 1,027 Palestinian and Israeli-Arab prisoners held in Israel. Among the prisoners released are 280 prisoners serving life sentences for planning and perpetrating terror attacks. ](/news/2011/10/18/israel-and-the-palestinian-militant-organization-hamas-begin-a-major-prisoner-swap-in-which-the-captured-israeli-army-soldier-gilad-shalit.md)
-_Context: Gilad Shalit, Gilad Shalit prisoner exchange, Hamas, Israel, Israeli Army, Israeli-Arab, Palestinian, life imprisonment_
+_Context: Gilad Shalit, Gilad Shalit prisoner exchange, Hamas, Israel, Israeli Army, Israeli-Arab, State of Palestine, life imprisonment_
 
 ### [United States Secretary of State Hillary Clinton makes an unannounced visit to the Libyan capital Tripoli, aiming to strengthen ties between the United States and the National Transitional Council, which has established itself as Libya's ruling body following the ousting of Muammar Gaddafi. ](/news/2011/10/18/united-states-secretary-of-state-hillary-clinton-makes-an-unannounced-visit-to-the-libyan-capital-tripoli-aiming-to-strengthen-ties-between.md)
 US Secretary of State Hillary Clinton makes an unannounced visit to Libya aimed at showing support for the Libyan people and building ties as fierce fighting breaks out in Sirte.

@@ -1,7 +1,7 @@
 ## [2007-12-23](/news/2007/12/23/index.md)
 
 ### [ Thailand's People Power Party, led by Samak Sundaravej, wins the 2007 general elections. ](/news/2007/12/23/thailand-s-people-power-party-led-by-samak-sundaravej-wins-the-2007-general-elections.md)
-_Context: 2007 general elections, People's Power Party, Samak Sundaravej, Thailand_
+_Context: 2007 general elections, People's Power Party, Samak Sundaravej, Thai_
 
 ### [ Saudi police arrest 28 men for allegedly planning terrorist attacks against holy sites in Mecca and Medina. ](/news/2007/12/23/saudi-police-arrest-28-men-for-allegedly-planning-terrorist-attacks-against-holy-sites-in-mecca-and-medina.md)
 _Context: Mecca, Medina, Saudi Arabia, terrorist attacks_

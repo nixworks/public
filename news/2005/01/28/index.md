@@ -28,7 +28,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Thailand's prime minister Thaksin Shinawatra demands that Malaysia extradite separatist leader of Gerakan Mujahidin Islam Patani party known as 'Jehkumir Kuteh' or 'Abdul Rahman Ahmad' (in addition to other names). Malaysian government refuses because he is Malaysian but they would cooperate the best they can ](/news/2005/01/28/thailand-s-prime-minister-thaksin-shinawatra-demands-that-malaysia-extradite-separatist-leader-of-gerakan-mujahidin-islam-patani-party-know.md)
-_Context: Gerakan Mujahidin Islam Patani, Malaysia, Thailand, Thaksin Shinawatra, extradited_
+_Context: Gerakan Mujahidin Islam Patani, Malaysia, Thai, Thaksin Shinawatra, extradited_
 
 ### [ In Russia, special forces have killed seven people in a fight against what they described as islamic militants. The fight happened in an apartment block in Nalchik near Chechnya border ](/news/2005/01/28/in-russia-special-forces-have-killed-seven-people-in-a-fight-against-what-they-described-as-islamic-militants-the-fight-happened-in-an-ap.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

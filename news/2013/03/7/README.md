@@ -34,7 +34,7 @@ _Context: Kalonzo Musyoka, Kenya, Kenyan presidential election, Prime Minister, 
 Sen. Rand Paul declared victory Thursday after Attorney General Eric Holder assured him that the president cannot use a drone to kill a noncombatant American on U.S. soil -- an assurance Paul had sought during his 13-hour filibuster the day before. 
 
 ### [The first built Bombardier CSeries test aircraft is publicly presented during a program update event at the Montreal-Mirabel International Airport, where the manufacturer, Bombardier Aerospace, has its Final Assembly Line facility and flight test facility. ](/news/2013/03/7/the-first-built-bombardier-cseries-test-aircraft-is-publicly-presented-during-a-program-update-event-at-the-montra-c-alamirabel-internationa.md)
-_Context: Bombardier Aerospace, CS100, Montreal-Mirabel International Airport_
+_Context: Bombardier Aerospace, CSeries jets, Montreal-Mirabel International Airport_
 
 ## [Previous Day...](/news/2013/03/6/index.md)
 

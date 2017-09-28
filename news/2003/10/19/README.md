@@ -19,7 +19,7 @@ _Context: George W. Bush, North Korea, North Korea nuclear weapons program, Pyon
 _Context: Hamid Karzai, Kunar Province, Taliban, bomb, land mine, pickup truck_
 
 ### [ Israeli-Palestinian conflict: Palestinian gunmen attack an Israeli army foot patrol near a West Bank village, kills three soldiers and wounds a fourth, rescue services and security sources state. Gunfire attacks near the Palestinian village of Ein Yabrud, east of the town of Ramallah, not far from the Israeli settlement of Ofra.](/news/2003/10/19/israeli-palestinian-conflict-palestinian-gunmen-attack-an-israeli-army-foot-patrol-near-a-west-bank-village-kills-three-soldiers-and-woun.md)
-_Context: Ein Yabrud, Israel, Israeli-Palestinian conflict, Jewish settlement, Ofra, Palestinian, Ramallah, West Bank_
+_Context: Ein Yabrud, Israel, Israeli settlement, Israeli-Palestinian conflict, Ofra, Palestinian, Ramallah, West Bank_
 
 ### [ Occupation of Iraq: A Fallujah roadside attack on a military convoy leaves an American armored car and munitions truck burning wrecks. No one was reported killed. Iraqis nearby were reportedly cheering. Emerging series of threats.](/news/2003/10/19/occupation-of-iraq-a-fallujah-roadside-attack-on-a-military-convoy-leaves-an-american-armored-car-and-munitions-truck-burning-wrecks-no-o.md)
 _Context: Fallujah, Iraq, Occupation of Iraq, armored car, convoy, munitions truck_

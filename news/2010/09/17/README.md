@@ -91,7 +91,7 @@ _Context: Afghanistan, Taliban, parliamentary election, police, security checks_
 _Context: Foreign Minister, Naoto Kan, Prime Minister of Japan, Seiji Maehara, forming a government_
 
 ### [Thailand's red shirt movement holds rallies in the lead up to the fourth anniversary of the removal of former Prime Minister of Thailand Thaksin Shinawatra on Sunday. ](/news/2010/09/17/thailand-s-red-shirt-movement-holds-rallies-in-the-lead-up-to-the-fourth-anniversary-of-the-removal-of-former-prime-minister-of-thailand-tha.md)
-_Context: Prime Minister, Thailand, Thaksin Shinawatra, United Front for Democracy Against Dictatorship_
+_Context: Prime Minister, Thai, Thaksin Shinawatra, United Front for Democracy Against Dictatorship_
 
 ## [Previous Day...](/news/2010/09/16/index.md)
 

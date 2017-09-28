@@ -34,7 +34,7 @@ President Barack Obama announced Thursday that former Federal Reserve Chairman P
 U.S. authorities closed four banks -- one in Denver and three in the U.S. Southeast -- on Friday with total assets of $2.7 billion, bringing the number of failures in 2011 so far to seven.
 
 ### [Five Thais including an MP are given suspended sentences after illegally entering Cambodia, in a case that has strained relations between the two countries. ](/news/2011/01/21/five-thais-including-an-mp-are-given-suspended-sentences-after-illegally-entering-cambodia-in-a-case-that-has-strained-relations-between-th.md)
-_Context: Cambodia, Thailand_
+_Context: Cambodia, Thai_
 
 ### [United Nations Secretary General Ban Ki-moon criticises Israel's refusal to cease illegal settlement building on Palestinian land, telling a UN General Assembly gathering that he is "very concerned at the lack of progress towards peace" and that the recent demolition of East Jerusalem's historic Shepherd Hotel and evictions of Palestinian families had "heightened tensions." He later meets survivors of the Auschwitz-Birkenau concentration camp. ](/news/2011/01/21/united-nations-secretary-general-ban-ki-moon-criticises-israel-s-refusal-to-cease-illegal-settlement-building-on-palestinian-land-telling-a.md)
 _Context: Auschwitz-Birkenau concentration camp, Ban Ki-moon, East Jerusalem, Israel, Shepherd Hotel, United Nations_

@@ -1,7 +1,7 @@
 ## [2013-08-10](/news/2013/08/10/index.md)
 
 ### [Gunmen kidnap four Thai tourists traveling in Nigeria's Rivers State. ](/news/2013/08/10/gunmen-kidnap-four-thai-tourists-traveling-in-nigeria-s-rivers-state.md)
-_Context: Nigeria, Rivers State, Thailand_
+_Context: Nigeria, Rivers State, Thai_
 
 ### [A bomb kills four people and wounds 16 in a park south of Baghdad, Iraq. ](/news/2013/08/10/a-bomb-kills-four-people-and-wounds-16-in-a-park-south-of-baghdad-iraq.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

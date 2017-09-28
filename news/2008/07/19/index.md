@@ -7,7 +7,7 @@ _Context: Hizbul Mujahideen, Indian Army, Jammu and Kashmir, land mine_
 _Context: EU, Iran, United States, enriched uranium, nuclear program_
 
 ### [ 2008 Cambodian-Thai stand-off: Some 500 Thai and 1,000 Cambodian troops have massed near Prasat Preah Vihear temple on the border between the two countries, increasing their presence on the fifth day of the tense stand-off. ](/news/2008/07/19/2008-cambodian-thai-stand-off-some-500-thai-and-1-000-cambodian-troops-have-massed-near-prasat-preah-vihear-temple-on-the-border-between-t.md)
-_Context: Cambodia, Prasat Preah Vihear, Thailand, exchange gunfire_
+_Context: Cambodia, Prasat Preah Vihear, Thai, exchange gunfire_
 
 ### [ Fourteen people are killed, 29 injured and several are missing after a bus crash in Khare Khola, Nepal 100 miles west of Kathmandu. ](/news/2008/07/19/fourteen-people-are-killed-29-injured-and-several-are-missing-after-a-bus-crash-in-khare-khola-nepal-100-miles-west-of-kathmandu.md)
 _Context: Kathmandu, Nepal, bus_

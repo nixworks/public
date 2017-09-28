@@ -25,7 +25,7 @@ Police have conducted mass counter terrorism raids across Melbourne.
 _Context: British Columbia_
 
 ### [ Bangkok Airways Flight PG 266 crashes into a disused control tower at Samui Airport on the island of Ko Samui, Thailand, killing at least one person. ](/news/2009/08/4/bangkok-airways-flight-pg-266-crashes-into-a-disused-control-tower-at-samui-airport-on-the-island-of-ko-samui-thailand-killing-at-least-o.md)
-_Context: Flight PG 266, Ko Samui, Samui Airport, Thai passenger jet, Thailand_
+_Context: Flight PG 266, Ko Samui, Samui Airport, Thai, Thai passenger jet_
 
 ### [ A referendum on whether to extend Mamadou Tandja's presidency for a third term is held in Niger. ](/news/2009/08/4/a-referendum-on-whether-to-extend-mamadou-tandja-s-presidency-for-a-third-term-is-held-in-niger.md)
 _Context: Mamadou Tandja, Niger, President of Niger, referendum_

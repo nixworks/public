@@ -1,7 +1,7 @@
 ## [2010-01-7](/news/2010/01/7/index.md)
 
 ### [Palestinians fire mortars and Katyusha rocket from Gaza, causing widespread panic in Ashkelon, Israel, in the first such rocket attack on Israel in a year. ](/news/2010/01/7/palestinians-fire-mortars-and-katyusha-rocket-from-gaza-causing-widespread-panic-in-ashkelon-israel-in-the-first-such-rocket-attack-on-is.md)
-_Context: Ashkelon, Gaza, Katyusha, Palestinian, Palestinian rocket attacks on Israel_
+_Context: Ashkelon, Gaza, Katyusha, Palestinian rocket attacks on Israel, State of Palestine_
 
 ### [At least four militants are dead after a 23-hour gun battle at a hotel in Srinagar, Jammu and Kashmir. ](/news/2010/01/7/at-least-four-militants-are-dead-after-a-23-hour-gun-battle-at-a-hotel-in-srinagar-jammu-and-kashmir.md)
 A 23-hour terror siege that left Lal Chowk, the bustling centre of Jammu and Kashmirs summer capital Srinagar, looking like an abandoned battlefield ended...
@@ -25,7 +25,7 @@ _Context: BBC, Iris Robinson, Northern Ireland, Spotlight, deputy First Minister
 _Context: China, Taiwan, United States_
 
 ### [Extreme weather in Europe kills nine people in Germany, traps a Eurostar train in the Channel Tunnel, disrupts flights at international airports in Amsterdam, Dublin, Knock and Paris, shuts hundreds of schools in Ireland and disrupts Norway's bus service in Oslo. ](/news/2010/01/7/extreme-weather-in-europe-kills-nine-people-in-germany-traps-a-eurostar-train-in-the-channel-tunnel-disrupts-flights-at-international-airp.md)
-_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, Germany, Irish, Knock, Norway, Oslo, Paris_
+_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, Germany, Knock, Norway, Oslo, Paris, Republic of Ireland_
 
 ### [The governments of Australia and New Zealand announce an investigation into an incident where a boat belonging to the anti-whaling group Sea Shepherd Conservation Society was damaged in a confrontation with a Japanese ship in the Southern Ocean. ](/news/2010/01/7/the-governments-of-australia-and-new-zealand-announce-an-investigation-into-an-incident-where-a-boat-belonging-to-the-anti-whaling-group-sea.md)
 Australia joined New Zealand on Thursday in investigating a clash between an anti-whaling protesters and Japanese whalers, but refused to send a patrol ship to Antarctic waters as activists promised a &quot;whale war&quot;.

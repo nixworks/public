@@ -19,7 +19,7 @@ Military train derails in Giza, outside of Cairo, killing 19 people and injuring
 A cleaning woman stole an empty commuter train in a suburb of Stockholm and crashed it into a house, injuring herself, Swedish officials say.
 
 ### [2013 horse meat contamination in burgers scandal: The Republic of Ireland's Food Safety Authority says that horse DNA has been found in some beefburgers on sale in UK and Irish supermarkets. ](/news/2013/01/15/2013-horse-meat-contamination-in-burgers-scandal-the-republic-of-ireland-s-food-safety-authority-says-that-horse-dna-has-been-found-in-some.md)
-_Context: 2013 horse meat contamination in burgers scandal, DNA, Irish, UK, beefburger, horse, supermarket chain_
+_Context: 2013 horse meat contamination in burgers scandal, DNA, Republic of Ireland, UK, beefburger, horse, supermarket chain_
 
 ### [Egyptian human rights lawyer Ahmed al-Gizawi is sentenced to five years imprisonment and 300 lashes in Saudi Arabia. ](/news/2013/01/15/egyptian-human-rights-lawyer-ahmed-al-gizawi-is-sentenced-to-five-years-imprisonment-and-300-lashes-in-saudi-arabia.md)
 An Egyptian human rights lawyer is sentenced to five years in jail and 300 lashes by a court in Saudi Arabia for trafficking drugs.

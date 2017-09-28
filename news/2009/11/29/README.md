@@ -13,7 +13,7 @@ _Context: Greek, Somali pirates, Somalia, oil tanker_
 _Context: Commonwealth of Nations, Fiji, Government of Fiji, democratic progress, urges_
 
 ### [ Israel announces it is likely to release 980 Palestinian prisoners in exchange for captured soldier Gilad Shalit. ](/news/2009/11/29/israel-announces-it-is-likely-to-release-980-palestinian-prisoners-in-exchange-for-captured-soldier-gilad-shalit.md)
-_Context: Gilad Shalit, Israel, Palestinian_
+_Context: Gilad Shalit, Israel, State of Palestine_
 
 ### [ Four police officers are shot and killed while in a coffee shop in Parkland, Washington, United States. ](/news/2009/11/29/four-police-officers-are-shot-and-killed-while-in-a-coffee-shop-in-parkland-washington-united-states.md)
 The man suspected of gunning down four police officers in a coffee shop is shot and killed by a lone Seattle patrol officer investigating a stolen car.

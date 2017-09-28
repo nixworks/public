@@ -7,7 +7,7 @@ Moamar Gaddafi&#039;s son Saif al-Islam leads a regime fightback in Tripoli as f
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
 ### [Suspected Islamic insurgents kill two Thai Army soldiers and wound 14 other people in southern Thailand. ](/news/2011/08/23/suspected-islamic-insurgents-kill-two-thai-army-soldiers-and-wound-14-other-people-in-southern-thailand.md)
-_Context: Muslims, Thai Army, Thailand_
+_Context: Muslims, Thai, Thai Army_
 
 ### [The United Nations Human Rights Council orders an investigation into alleged human rights violations by the Government of Syria in the 2011 Syrian uprising. ](/news/2011/08/23/the-united-nations-human-rights-council-orders-an-investigation-into-alleged-human-rights-violations-by-the-government-of-syria-in-the-2011.md)
 The UN Human Rights Council orders an international inquiry to look into alleged violations by the Syrian regime during its crackdown on anti-regime protests.
@@ -25,7 +25,7 @@ _Context: Dominican Republic, Haiti, Hispaniola, Hurricane Irene_
 A 5.8 earthquake sent tremors from the nation’s capital to New York City and New England, but with few reports of damage.
 
 ### [Thailand says it will recognize the State of Palestine during its September bid at the United Nations General Assembly. ](/news/2011/08/23/thailand-says-it-will-recognize-the-state-of-palestine-during-its-september-bid-at-the-united-nations-general-assembly.md)
-_Context: Palestinian, Thailand, United Nations General Assembly_
+_Context: State of Palestine, Thai, United Nations General Assembly_
 
 ### [A judge in New York City rules in favour dropping sexual assault charges against former International Monetary Fund head Dominique Strauss-Kahn. ](/news/2011/08/23/a-judge-in-new-york-city-rules-in-favour-dropping-sexual-assault-charges-against-former-international-monetary-fund-head-dominique-strauss-k.md)
 A judge’s dismissal of the sexual assault case against Dominique Strauss-Kahn brought some measure of legal vindication to him after his stunning arrest.

@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md) _Context: Somali pirates, Somalia, Thailand_
+1. [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md) _Context: Somali pirates, Somalia, Thai_
 2. [Two potential pirate attacks in the Gulf of Aden off the coast of Somalia are disrupted by the Seychelles Coast Guard and the Australian navy. ](/news/2010/05/30/two-potential-pirate-attacks-in-the-gulf-of-aden-off-the-coast-of-somalia-are-disrupted-by-the-seychelles-coast-guard-and-the-australian-nav.md) _Context: Gulf of Aden, Somali pirates, Somalia_
 3. [ The South Korean Navy destroyer "Mummu the Great" and the U.S. Navy cruiser "Gettysburg" capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gulf-of.md) _Context: Gulf of Aden, Somali pirates, Somalia_
 4. [ The Russian destroyer "Admiral Panteleyev" detains 29 suspected Somali pirates in the Gulf of Aden. ](/news/2009/04/28/the-russian-destroyer-admiral-panteleyev-detains-29-suspected-somali-pirates-in-the-gulf-of-aden.md) _Context: Gulf of Aden, Somali pirates, Somalia_

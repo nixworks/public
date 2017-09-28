@@ -10,7 +10,7 @@ _Context: Barack Obama, Nobel Peace Prize, Norway_
 _Context: Czech Republic, Treaty of Lisbon, Vclav Klaus, president_
 
 ### [ Samus Kirk is elected the 16th Ceann Comhairle of Ireland following the resignation of John O'Donoghue. ](/news/2009/10/13/seamus-kirk-is-elected-the-16th-ceann-comhairle-of-ireland-following-the-resignation-of-john-o-donoghue.md)
-_Context: Ceann Comhairle, Irish, John O'Donoghue, Samus Kirk_
+_Context: Ceann Comhairle, John O'Donoghue, Republic of Ireland, Samus Kirk_
 
 ### [ An autopsy on the body of Boyzone singer Stephen Gately finds he died of natural causes. ](/news/2009/10/13/an-autopsy-on-the-body-of-boyzone-singer-stephen-gately-finds-he-died-of-natural-causes.md)
 Boyzone star Stephen Gately died of natural causes, a Spanish court confirmed this morning.

@@ -25,7 +25,7 @@ _Context: Hamas, Israel, jihad, military, terrorism_
 _Context: Israel, War on Terrorism, terrorism_
 
 ### [ War on Terrorism: APEC: Indonesia and Malaysia have submitted lists of 20 suspected terrorists with links to two militant groups, asking for Thailand to help monitor their movements on the southern border.](/news/2003/09/10/war-on-terrorism-apec-indonesia-and-malaysia-have-submitted-lists-of-20-suspected-terrorists-with-links-to-two-militant-groups-asking-fo.md)
-_Context: APEC, Indonesia, Malaysia, Thailand, War on Terrorism, militant, terrorism_
+_Context: APEC, Indonesia, Malaysia, Thai, War on Terrorism, militant, terrorism_
 
 ### [ War on Terrorism: Kuala Lumpur: Malaysia will amend its Penal Code to punish not just terrorists but also those who provide financial services or facilities to them. Changes will penalize those who help terrorists.](/news/2003/09/10/war-on-terrorism-kuala-lumpur-malaysia-will-amend-its-penal-code-to-punish-not-just-terrorists-but-also-those-who-provide-financial-servi.md)
 _Context: Kuala Lumpur, Malaysia, War on Terrorism, penal code_

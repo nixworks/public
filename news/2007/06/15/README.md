@@ -16,7 +16,7 @@ _Context: Dhiren Barot, UK, al-Qaeda_
 Indonesia has captured the head of Southeast Asian militant group Jemaah Islamiyah, the chief of the country&#8217;s anti-terrorist unit said Friday.
 
 ### [ A roadside bomb kills at least seven soldiers in Yala Province, Thailand. ](/news/2007/06/15/a-roadside-bomb-kills-at-least-seven-soldiers-in-yala-province-thailand.md)
-_Context: Thailand, Yala, soldier_
+_Context: Thai, Yala, soldier_
 
 ### [ United States Secretary of Defense Robert Gates meets with Iraqi Prime Minister Nuri Kamal Al-Maliki and U.S. military leaders in Iraq to discuss the effectiveness of the current military campaign. ](/news/2007/06/15/united-states-secretary-of-defense-robert-gates-meets-with-iraqi-prime-minister-nuri-kamal-al-maliki-and-u-s-military-leaders-in-iraq-to-d.md)
 U.S. Defense Secretary Robert Gates met Iraqi leaders on Saturday to tell them Washington was disappointed with their efforts to reconcile warring factions.

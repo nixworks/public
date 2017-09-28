@@ -25,7 +25,7 @@ _Context: Charles Kennedy, Labour, Liberal Democrats, United Kingdom_
 _Context: EU, Geneva, Iran, Jack Straw, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, atom, nuclear weapon_
 
 ### [ In Thailand, police officer Somchai Visetsingha is sentenced to a life in prison for murder of two British backpackers in 2004. ](/news/2005/05/26/in-thailand-police-officer-somchai-visetsingha-is-sentenced-to-a-life-in-prison-for-murder-of-two-british-backpackers-in-2004.md)
-_Context: 2004, Somchai Visetsingha, Thailand, United Kingdom, backpacker_
+_Context: 2004, Somchai Visetsingha, Thai, United Kingdom, backpacker_
 
 ### [ A flash flood strikes So Paulo, Brazil. ](/news/2005/05/26/a-flash-flood-strikes-sao-paulo-brazil.md)
 _Context: Brazil, Flash flooding, Sao Paulo_

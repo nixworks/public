@@ -34,7 +34,7 @@ Vincent Tabak is found guilty of the murder of Bristol landscape architect Jo Ye
 _Context: St Paul's Cathedral_
 
 ### [Nine servicemen from the Thai army are arrested on suspicion of killing 13 Chinese sailors on October 5 in a section of the Mekong River bordering Thailand, Laos and Myanmar. ](/news/2011/10/28/nine-servicemen-from-the-thai-army-are-arrested-on-suspicion-of-killing-13-chinese-sailors-on-october-5-in-a-section-of-the-mekong-river-bor.md)
-_Context: Chinese, Laos, Mekong River, Myanmar, Royal Thai Army, Thailand_
+_Context: Chinese, Laos, Mekong River, Myanmar, Royal Thai Army, Thai_
 
 ### [Michael D. Higgins wins the Irish presidential election. ](/news/2011/10/28/michael-d-higgins-wins-the-irish-presidential-election.md)
 Michael D. Higgins will become Ireland&#039;s next president after his main rival conceded defeat on Friday to the 70-year-old poet and former arts minister.

@@ -22,7 +22,7 @@ _Context: North Korea, Northern Limit Line, ROKS ''Cheonan'', South Korea, sinki
 _Context: African Renaissance Monument, Dakar, Senegal, Statue of Liberty_
 
 ### [Thousands of "red shirt" anti-government protesters rally in the Thai capital Bangkok demanding new elections. ](/news/2010/04/3/thousands-of-red-shirt-anti-government-protesters-rally-in-the-thai-capital-bangkok-demanding-new-elections.md)
-_Context: Bangkok, Thailand, red shirt_
+_Context: Bangkok, Thai, red shirt_
 
 ### [Cambridge Boat Club defeats Oxford Boat Club to win the 156th University Boat Race in London, England. ](/news/2010/04/3/cambridge-boat-club-defeats-oxford-boat-club-to-win-the-156th-university-boat-race-in-london-england.md)
 _Context: 156th University Boat Race, Cambridge Boat Club, England, London, Oxford Boat Club_

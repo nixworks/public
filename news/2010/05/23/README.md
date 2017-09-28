@@ -70,7 +70,7 @@ _Context: Blackpool, English Premier League, local football club_
 The Champs-Elysees avenue in Paris is turned into a green space by farmers to highlight their financial plight.
 
 ### [Thai film "Uncle Boonmee Who Can Recall His Past Lives", directed by Apichatpong Weerasethakul "(pictured)" wins the Palme d'Or at the Cannes Film Festival much to the surprise of the BBC. ](/news/2010/05/23/thai-film-uncle-boonmee-who-can-recall-his-past-lives-directed-by-apichatpong-weerasethakul-pictured-wins-the-palme-d-or-at-the-canne.md)
-_Context: Apichatpong Weerasethakul, BBC, Cannes Film Festival, Palme d'Or, Thailand, Uncle Boonmee Who Can Recall His Past Lives, wins_
+_Context: Apichatpong Weerasethakul, BBC, Cannes Film Festival, Palme d'Or, Thai, Uncle Boonmee Who Can Recall His Past Lives, wins_
 
 ### [The Rolling Stones achieve their first UK number one album for 16 years with a re-release of "Exile on Main St.". ](/news/2010/05/23/the-rolling-stones-achieve-their-first-uk-number-one-album-for-16-years-with-a-re-release-of-exile-on-main-st.md)
 The Rolling Stones score their first number one album since 1994 with a reissue of Exile On Main Street.

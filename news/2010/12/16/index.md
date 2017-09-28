@@ -61,7 +61,7 @@ Police in Bangladesh arrest senior opposition politician Salahuddin Quader Chowd
 Troops and police loyal to Ivory Coast leader Laurent Gbagbo have sealed off state television headquarters in Abidjan ahead of a planned attempt by one of his rivals to seize the airwaves. 
 
 ### [The European Court of Human Rights rules that Ireland's ban on abortion in life-threatening cases is illegal. ](/news/2010/12/16/the-european-court-of-human-rights-rules-that-ireland-s-ban-on-abortion-in-life-threatening-cases-is-illegal.md)
-_Context: European Court of Human Rights, Irish, abortion_
+_Context: European Court of Human Rights, Republic of Ireland, abortion_
 
 ### [The Scottish Government rules out re-introducing tuition fees for Scottish university students, but students from other parts of the United Kingdom attending university in Scotland may face fees of GBP6,000. ](/news/2010/12/16/the-scottish-government-rules-out-re-introducing-tuition-fees-for-scottish-university-students-but-students-from-other-parts-of-the-united.md)
 Students from England, Wales and Northern Ireland who go to Scottish universities could face annual tuition fees of up to £6,000.

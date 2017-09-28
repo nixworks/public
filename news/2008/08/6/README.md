@@ -16,7 +16,7 @@ _Context: Osama bin Laden, Salim Hamdan, September 11, 2001 attacks, United Stat
 A coup has taken place in Mauritania, where the army has seized the President and the Prime Minister.
 
 ### [ A UH-1H helicopter of the Royal Thai Air Force crashes in Thailand, killing ten. ](/news/2008/08/6/a-uh-1h-helicopter-of-the-royal-thai-air-force-crashes-in-thailand-killing-ten.md)
-_Context: Royal Thai Air Force, Thailand, UH-1H_
+_Context: Royal Thai Air Force, Thai, UH-1H_
 
 ### [ Competitions start at the Beijing Olympic Games two days ahead of the Opening Ceremony with the Women's football tournament.](/news/2008/08/6/competitions-start-at-the-beijing-olympic-games-two-days-ahead-of-the-opening-ceremony-with-the-women-s-football-tournament.md)
 _Context: 2008 Summer Olympics, 2008 Summer Olympics Opening Ceremony, Women's football tournament_

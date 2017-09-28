@@ -25,7 +25,7 @@ _Context: China, Hunan, Xiangtan, stampede_
 _Context: Aftershock, Malawi, earthquake_
 
 ### [ A Cambodian court sentences a Thai man on charges of spying for Thailand to 7 years imprisonment. ](/news/2009/12/8/a-cambodian-court-sentences-a-thai-man-on-charges-of-spying-for-thailand-to-7-years-imprisonment.md)
-_Context: Cambodia, Thailand, espionage_
+_Context: Cambodia, Thai, espionage_
 
 ### [ Scaled Composites SpaceShipTwo, the world's first commercial spacecraft, is officially unveiled in the Mojave Desert, California. ](/news/2009/12/8/scaled-composites-spaceshiptwo-the-world-s-first-commercial-spacecraft-is-officially-unveiled-in-the-mojave-desert-california.md)
 Sir Richard Branson has unveiled the world&#039;s first commercial spacecraft and named it the Enterprise, after the fictional intergalactic vessel in Star Trek.

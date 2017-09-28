@@ -10,7 +10,7 @@ _Context: Colorado, Denver, FBI, United States_
 _Context: Yemen, ceasefire_
 
 ### [ Pro and anti government protestors demonstrate in the Thai capital Bangkok and near the Preah Vihear Temple along the border with Cambodia. ](/news/2009/09/19/pro-and-anti-government-protestors-demonstrate-in-the-thai-capital-bangkok-and-near-the-preah-vihear-temple-along-the-border-with-cambodia.md)
-_Context: Bangkok, Cambodia, Preah Vihear Temple, Thailand, red shirt, yellow shirt_
+_Context: Bangkok, Cambodia, Preah Vihear Temple, Thai, red shirt, yellow shirt_
 
 ### [ A gay pride march in Belgrade, Serbia, is called off after police and Prime Minister Mirko Cvetkovic tell organisers they could not guarantee its safety. ](/news/2009/09/19/a-gay-pride-march-in-belgrade-serbia-is-called-off-after-police-and-prime-minister-mirko-cvetkovia-tell-organisers-they-could-not-guaran.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

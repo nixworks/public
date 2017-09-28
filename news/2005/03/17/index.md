@@ -34,7 +34,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Anatoly Chubais, RAO UES, Russia, ambush_
 
 ### [ King of Thailand, Bhumibol Adulyadej, intends to personally direct artificial rain making project to end drought in the country. He intends to use his own cloud seeding technique ](/news/2005/03/17/king-of-thailand-bhumibol-adulyadej-intends-to-personally-direct-artificial-rain-making-project-to-end-drought-in-the-country-he-intends.md)
-_Context: Bhumibol Adulyadej, Thailand, cloud seeding, drought, rain_
+_Context: Bhumibol Adulyadej, Thai, cloud seeding, drought, rain_
 
 ### [ In Zimbabwe, president Robert Mugabe states in his election campaign that the country is short of food. Local opposition group the National Constitutional Assembly says that ZANU-PF use food as a political tool ](/news/2005/03/17/in-zimbabwe-president-robert-mugabe-states-in-his-election-campaign-that-the-country-is-short-of-food-local-opposition-group-the-national.md)
 _Context: National Constitutional Assembly, Robert Mugabe, Zimbabwe_

@@ -4,7 +4,7 @@
 Assault on al-Jarrah airfield in Aleppo comes a day after opposition seized a key dam.
 
 ### [16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md)
-_Context: Muslim, Narathiwat, Thailand_
+_Context: Muslim, Narathiwat, Thai_
 
 ### [Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/afghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and-injures-more-including-3-children.md)
 At least 10 civilians, including four children, die in a Nato air strike in the Afghan province of Kunar, local officials say.

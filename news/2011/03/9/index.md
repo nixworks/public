@@ -43,7 +43,7 @@ _Context: North Korea, North Korean defectors_
 _Context: China, Philippine, Taiwan, mainland China_
 
 ### [Denmark upgrades its relation with Palestine to a mission, the second highest rank, following many other western nations recent upgrades.](/news/2011/03/9/denmark-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank-following-many-other-western-nations-recent-upgrades.md)
-_Context: Denmark, Palestinian, its relation_
+_Context: Denmark, State of Palestine, its relation_
 
 ### [Malaysia bans Shi'ites from promoting their faith to other Muslims, but remain able to practice it themselves. ](/news/2011/03/9/malaysia-bans-shi-ites-from-promoting-their-faith-to-other-muslims-but-remain-able-to-practice-it-themselves.md)
 _Context: Malaysia, Muslim, Shi'ite_

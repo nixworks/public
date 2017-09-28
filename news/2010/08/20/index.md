@@ -70,7 +70,7 @@ The remains of a Japanese woman are found in a backpack, police say, as they sea
 An alleged arms dealer nicknamed &quot;The Merchant of Death&quot;, who has been pursued by global law enforcement organisations for years, is to be extradited to the US to stand trial.
 
 ### [An Irish-born Australian man who admitted after initially pleading innocence to breaching the state of emergency during the anti-government protests in Thailand is deported to Australia; he says he was beaten, was treated harshly and was not shown an arrest warrant. ](/news/2010/08/20/an-irish-born-australian-man-who-admitted-after-initially-pleading-innocence-to-breaching-the-state-of-emergency-during-the-anti-government.md)
-_Context: 2010 Thai political protests, Thailand_
+_Context: 2010 Thai political protests, Thai_
 
 ### [Shining Path leaders Abimael Guzmn and Elena Iparraguirre marry at a maximum-security prison near Lima; they fought for their right to marry by going on hunger strike earlier this year. ](/news/2010/08/20/shining-path-leaders-abimael-guzman-and-elena-iparraguirre-marry-at-a-maximum-security-prison-near-lima-they-fought-for-their-right-to-marr.md)
 The jailed leaders of Peru&#039;s Shining Path rebels got married in a maximum-security prison yesterday after staging a hunger strike earlier this year to demand the right to marry behind bars.

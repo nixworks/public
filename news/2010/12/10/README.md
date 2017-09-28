@@ -7,7 +7,7 @@ _Context: Liberia, Mozambique, Somali pirates, Tanzania, hijack_
 Suicide attack at Shia hospital in Khyber Pakhtunkhwa province kills at least 15 and wounds several dozen.
 
 ### [Thai soldiers killed people at a Buddhist temple in Bangkok during demonstrations in May, leaked government documents demonstrate. ](/news/2010/12/10/thai-soldiers-killed-people-at-a-buddhist-temple-in-bangkok-during-demonstrations-in-may-leaked-government-documents-demonstrate.md)
-_Context: Bangkok, Buddhists, Thailand_
+_Context: Bangkok, Buddhists, Thai_
 
 ### [Prime Minister of the United Kingdom David Cameron criticises the "mob" which launched an attack upon the car of Prince Charles and the Duchess of Cornwall as the couple were driven down Regent Street towards a Royal Variety performance in London last night. Protesters indicate the use of police brutality. ](/news/2010/12/10/prime-minister-of-the-united-kingdom-david-cameron-criticises-the-mob-which-launched-an-attack-upon-the-car-of-prince-charles-and-the-duch.md)
 Inquiries launched into royal security and alleged beating of student a day after violence over university fee hike.

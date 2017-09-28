@@ -4,7 +4,7 @@
 _Context: Cherokee County killer, South Carolina, USA_
 
 ### [ Ireland's Minister for Foreign Affairs, Michel Martin, calls for the immediate release of two aid workers who were kidnapped in Sudan's Darfur region. ](/news/2009/07/4/ireland-s-minister-for-foreign-affairs-micheal-martin-calls-for-the-immediate-release-of-two-aid-workers-who-were-kidnapped-in-sudan-s-da.md)
-_Context: Darfur, Irish, Michel Martin, Minister for Foreign Affairs, Sudan_
+_Context: Darfur, Michel Martin, Minister for Foreign Affairs, Republic of Ireland, Sudan_
 
 ### [ Bishop of Rochester Michael Nazir-Ali calls on homosexuals to "repent and be changed" and says the Church of England will not be "rolled over by culture". ](/news/2009/07/4/bishop-of-rochester-michael-nazir-ali-calls-on-homosexuals-to-repent-and-be-changed-and-says-the-church-of-england-will-not-be-rolled-ov.md)
 A senior Church of England bishop has called on homosexuals to repent and &#034;be changed&#034; in comments that have infuriated equality campaigners.

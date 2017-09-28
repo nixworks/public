@@ -19,7 +19,7 @@ _Context: Burkina Faso, Burkina Faso presidential elections_
 _Context: Gyanendra of Nepal, India, Manmohan Singh, Nepal_
 
 ### [ Thailand confirms its fourth case of H5N1 bird flu in 2005. The victim is an 18 month-old boy living in Bangkok. ](/news/2005/11/13/thailand-confirms-its-fourth-case-of-h5n1-bird-flu-in-2005-the-victim-is-an-18-month-old-boy-living-in-bangkok.md)
-_Context: Bangkok, Influenza A virus subtype H5N1, Thailand_
+_Context: Bangkok, Influenza A virus subtype H5N1, Thai_
 
 ### [ 2005 Jilin chemical plant explosions: Explosion in a factory of the state-owned Jilin Petrochemical Company in Jilin City, China. The industrial accident results in 100 tons of toxic benzene and nitrobenzene contaminating a river and posing a major health problem downstream, which is covered-up by the Chinese government. ](/news/2005/11/13/2005-jilin-chemical-plant-explosions-explosion-in-a-factory-of-the-state-owned-jilin-petrochemical-company-in-jilin-city-china-the-indus.md)
 _Context: Jilin City, benzene, cover-up, government, last year's toxic chemical spill, nitrobenzene, state-owned_

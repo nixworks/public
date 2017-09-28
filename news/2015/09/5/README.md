@@ -13,7 +13,7 @@ _Context: Tajikistan_
 Islamist militants al Shabaab seized control of two towns over two days in southern Somalia and attacked two African Union (AU) convoys in the same region, a spokesman for the group and a local official said on Saturday.
 
 ### [Thai police seek a 10th suspect in deadly Bangkok bombing. ](/news/2015/09/5/thai-police-seek-a-10th-suspect-in-deadly-bangkok-bombing.md)
-_Context: Bangkok, Thailand_
+_Context: Bangkok, Thai_
 
 ### [Following Austria's and Germany's decision to waive their asylum system rules, approximately 6,500 migrants - mostly from Syria, Iraq, and Afghanistan - arrive in Vienna. They traveled from Hungary by bus, train or on foot. The migrants were given the opportunity to register in Austria or move on to Germany. ](/news/2015/09/5/following-austria-s-and-germany-s-decision-to-waive-their-asylum-system-rules-approximately-6-500-migrants-a-mostly-from-syria-iraq-and.md)
 Many quickly jumped on trains for Germany, which has agreed to take in tens of thousands.

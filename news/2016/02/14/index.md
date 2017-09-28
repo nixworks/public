@@ -10,7 +10,7 @@ The Turkish army shelled positions held by Kurdish-backed militia in northern Sy
 A United Arab Emirates soldier was killed and another was wounded while fighting in Yemen as part of a Saudi-led military coalition, state news agency WAM reported on Sunday, citing the army general command.
 
 ### [Israel claims its forces shot dead five Palestinian attackers in three separate incidents. ](/news/2016/02/14/israel-claims-its-forces-shot-dead-five-palestinian-attackers-in-three-separate-incidents.md)
-_Context: Israel, Israeli-Palestinian conflict, Palestinian_
+_Context: Israel, Israeli-Palestinian conflict, State of Palestine_
 
 ### [The 69th British Academy Film Awards are held at the Royal Opera House in London. ](/news/2016/02/14/the-69th-british-academy-film-awards-are-held-at-the-royal-opera-house-in-london.md)
 The British Academy of Film and Television Arts celebrated its biggest night tonight at London’s Royal Opera House, which ended with kudos going to Alejandro G Inarritu and The Revenant. The movie …

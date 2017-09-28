@@ -43,7 +43,7 @@ _Context: Aceh, Indonesia_
 Authorities in Venezuela arrested alleged Colombian intelligence officials who were caught &#8220;in espionage,&#8221; on Tuesday, said Deputy Foreign Minister for Latin America, Francisco Arias Cardenas. &#8220;They will be presented in&hellip;
 
 ### [ Prime Minister of Thailand Abhisit Vejjajiva backs autonomy for the restive southern provinces to bring an end to violence in the region. ](/news/2009/10/27/prime-minister-of-thailand-abhisit-vejjajiva-backs-autonomy-for-the-restive-southern-provinces-to-bring-an-end-to-violence-in-the-region.md)
-_Context: Abhisit Vejjajiva, Prime Minister, South Thailand insurgency, Thailand_
+_Context: Abhisit Vejjajiva, Prime Minister, South Thailand insurgency, Thai_
 
 ## [Previous Day...](/news/2009/10/26/index.md)
 

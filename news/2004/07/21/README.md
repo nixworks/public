@@ -16,7 +16,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Egypt, India, Iraq, Kenya, Philippines_
 
 ### [ The United States' Drug Enforcement Administration conducted Operation Web Tryp, arresting 10 people and closing down five suppliers of research chemicals.](/news/2004/07/21/the-united-states-drug-enforcement-administration-conducted-operation-web-tryp-arresting-10-people-and-closing-down-five-suppliers-of-res.md)
-_Context: Operation Web Tryp, U.S. Drug Enforcement Administration, research chemicals_
+_Context: Drug Enforcement Administration, Operation Web Tryp, research chemicals_
 
 ## [Previous Day...](/news/2004/07/20/index.md)
 

@@ -16,7 +16,7 @@ The Queen is in hospital as a precaution, while she is assessed for symptoms of 
 US doctors say they seem to have cured a baby born with HIV - the virus that causes Aids - through very early treatment with standard drug therapy.
 
 ### [Thailand promises to put an end to legal ivory trade within the country. ](/news/2013/03/3/thailand-promises-to-put-an-end-to-legal-ivory-trade-within-the-country.md)
-_Context: African elephant ivory, Thailand_
+_Context: African elephant ivory, Thai_
 
 ### [Scottish Cardinal Keith O'Brien, who resigned last week due to allegations of sexual impropriety, admitted his past sexual misconduct and apologized for it. ](/news/2013/03/3/scottish-cardinal-keith-o-brien-who-resigned-last-week-due-to-allegations-of-sexual-impropriety-admitted-his-past-sexual-misconduct-and-ap.md)
 Cardinal Keith O&#39;Brien said Sunday that he &quot;will play no further part in the public life of the Catholic Church in Scotland.&quot;

@@ -37,7 +37,7 @@ _Context: Hamas, Israel, West Bank, Yatta_
 Government frees some 400 members of Houthi northern rebels as part of Qatar-mediated truce in return for concessions.
 
 ### [Thailand urges Cambodia to release seven of its citizens&ndash;including an MP&ndash;arrested after crossing their mutual border. ](/news/2010/12/30/thailand-urges-cambodia-to-release-seven-of-its-citizens-ndash-including-an-mp-ndash-arrested-after-crossing-their-mutual-border.md)
-_Context: Cambodia, MP, Thailand_
+_Context: Cambodia, MP, Thai_
 
 ### [A 19-year-old Uyghur woman, Pezilet Ekber, is sentenced to death following a secret trial, the second Uyghur woman to receive the death penalty on charges of participating in ethnic riots last year. ](/news/2010/12/30/a-19-year-old-uyghur-woman-pezilet-ekber-is-sentenced-to-death-following-a-secret-trial-the-second-uyghur-woman-to-receive-the-death-pena.md)
 _Context: Uyghur, ethnic riots_
@@ -52,7 +52,7 @@ _Context: Israel, Moshe Katsav, President, Tel Aviv, rape, sexual offences_
 _Context: Arabinda Rajkhowa, India, United Liberation Front of Asom_
 
 ### [A court in Thailand jails 79 pro-government "yellow shirt" protesters for storming a state television station two years ago. ](/news/2010/12/30/a-court-in-thailand-jails-79-pro-government-yellow-shirt-protesters-for-storming-a-state-television-station-two-years-ago.md)
-_Context: Thailand, yellow shirt_
+_Context: Thai, yellow shirt_
 
 ### [Four opposition figures in Belarus are charged with organising riots after demonstrations against the re-election of Alexander Lukashenko. ](/news/2010/12/30/four-opposition-figures-in-belarus-are-charged-with-organising-riots-after-demonstrations-against-the-re-election-of-alexander-lukashenko.md)
 Four Belarus opposition figures are charged with organising riots after the re-election of President Alexander Lukashenko.

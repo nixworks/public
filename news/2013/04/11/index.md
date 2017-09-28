@@ -4,7 +4,7 @@
 _Context: Mexico, Michoacan, anti-drug plan, drug kingpin, government, police_
 
 ### [Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/two-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing-shooting-and-arson-attacks.md)
-_Context: Pattani region, Thailand, arson, bomb, shooting spree_
+_Context: Pattani region, Thai, arson, bomb, shooting spree_
 
 ### [At least 57 people are killed by the Syrian Army in the towns of Sanamayn and Ghabaghib, Daraa Governorate, Syria. ](/news/2013/04/11/at-least-57-people-are-killed-by-the-syrian-army-in-the-towns-of-sanamayn-and-ghabaghib-daraa-governorate-syria.md)
 Children and women said to be among victims of attacks on two towns in Deraa apparently prompted by army defections.

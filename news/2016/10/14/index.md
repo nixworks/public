@@ -22,7 +22,7 @@ Footballer Ched Evans says he is &quot;overwhelmed&quot; after being found not g
 Volkswagen AG (VOWG_p.DE), in another step to move past its costly diesel emissions cheating scandal, has agreed to pay $175 million to U.S. lawyers suing the German automaker on behalf of the owners of 475,000 polluting vehicles, two people briefed on the agreement said on Friday.
 
 ### [Thailand declares today a government holiday for mourning King Bhumibol Adulyadej's death. ](/news/2016/10/14/thailand-declares-today-a-government-holiday-for-mourning-king-bhumibol-adulyadej-s-death.md)
-_Context: Bhumibol Adulyadej, Death and funeral of Bhumibol Adulyadej, King, Thailand_
+_Context: Bhumibol Adulyadej, Death and funeral of Bhumibol Adulyadej, King, Thai_
 
 ### [President Barack Obama issues an executive order on Cuba lifting monetary limits on the amount of Cuban products, including cigars and rum, which Americans can bring back for personal use, allowing Cubans and Americans to engage in joint medical research, and allowing Cubans to buy certain U.S. consumer goods online. ](/news/2016/10/14/president-barack-obama-issues-an-executive-order-on-cuba-lifting-monetary-limits-on-the-amount-of-cuban-products-including-cigars-and-rum.md)
 Regulatory changes ranged from serious business overtures to one that will become a favorite of U.S. travelers to the island: no more limit on how many bottles of rum and Cuban cigars they can bring back for personal use.

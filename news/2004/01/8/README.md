@@ -4,7 +4,7 @@
 _Context: Elizabeth II_
 
 ### [ An RT "Prime Time" investigation accuses the Garda Sochna, the Republic of Ireland's police force, of violent abuse of people arrested. Irish Minister of State Dick Roche accuses Garda of "torture" of one student beaten up in a Dublin police station, while a former judge accuses police of committing perjury in his courts. The Garda deny all allegations.](/news/2004/01/8/an-rte-prime-time-investigation-accuses-the-garda-siochana-the-republic-of-ireland-s-police-force-of-violent-abuse-of-people-arrested.md)
-_Context: Dick Roche, Dublin, Irish, Minister of State, RT, garda, perjury_
+_Context: Dick Roche, Dublin, Minister of State, RT, Republic of Ireland, garda, perjury_
 
 ### [ The United States withdraws a group of 400 weapons inspectors from Iraq after finding nothing of substance. 1400 inspectors remain.](/news/2004/01/8/the-united-states-withdraws-a-group-of-400-weapons-inspectors-from-iraq-after-finding-nothing-of-substance-1400-inspectors-remain.md)
 _Context: Iraq_

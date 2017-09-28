@@ -13,7 +13,7 @@ _Context: Egypt, ISIL, Rafah, Sinai insurgency, patrol boat_
 At least 49 people in Nigeria shopping ahead of Eid celebrations have been killed following explosions at a market in Gombe, officials say.
 
 ### [Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md)
-_Context: Narathiwat, South Thailand insurgency, Thai Army, Thailand_
+_Context: Narathiwat, South Thailand insurgency, Thai, Thai Army_
 
 ### [At least 11 people are killed and many others injured in a tribal fight in a remote area of Papua New Guinea. ](/news/2015/07/16/at-least-11-people-are-killed-and-many-others-injured-in-a-tribal-fight-in-a-remote-area-of-papua-new-guinea.md)
 At least 11 people are killed and many others injured in a fight between two warring tribes in a remote Papua New Guinea jungle, reports say.

@@ -16,7 +16,7 @@ Taylor took entertainer of the year. Jason Aldean and The Band Perry won multipl
 _Context: Italy, escalating economic crisis, interest rate_
 
 ### [The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/the-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md)
-_Context: Thailand_
+_Context: Thai_
 
 ### [The British Ministry of Defence suspends training flights in aircraft with ejector seats similar to that which killed a Red Arrows pilot on Tuesday. ](/news/2011/11/9/the-british-ministry-of-defence-suspends-training-flights-in-aircraft-with-ejector-seats-similar-to-that-which-killed-a-red-arrows-pilot-on.md)
 The MoD suspends training flights in aircraft with ejector seats like the one in which Red Arrows pilot Flt Lt Sean Cunningham died.

@@ -13,7 +13,7 @@ _Context: Air France Flight 4590, Continental Airlines, France_
 _Context: MV ''Princess of the Stars_
 
 ### [ Google is ordered to divulge the viewing habits of every user to Viacom if they have watched YouTube videos. ](/news/2008/07/3/google-is-ordered-to-divulge-the-viewing-habits-of-every-user-to-viacom-if-they-have-watched-youtube-videos.md)
-_Context: Google, Viacom, Youtube_
+_Context: Google, Viacom, YouTube_
 
 ### [ NASA announces discovery of water in the atmosphere of Mercury by its MESSENGER probe. ](/news/2008/07/3/nasa-announces-discovery-of-water-in-the-atmosphere-of-mercury-by-its-messenger-probe.md)
 _Context: MESSENGER, Mercury's, NASA_

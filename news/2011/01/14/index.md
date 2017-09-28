@@ -61,13 +61,13 @@ _Context: Loyalty Islands, New Caledonia, Tropical Cyclone Vania_
 The director of Israels Government Press Office has apologized for the intensive security screening several journalists had to endure before meeting Prime...
 
 ### [Veteran Irish Labour Party TD Michael D. Higgins demands that the British government explain why one of Britain's undercover policemen was operating on Republic of Ireland territory on May Day 2004, as the European Union expanded to the east. Higgins compares it to illegal activities carried out by British state agents in the same country during the 1970s. ](/news/2011/01/14/veteran-irish-labour-party-td-michael-d-higgins-demands-that-the-british-government-explain-why-one-of-britain-s-undercover-policemen-was-o.md)
-_Context: EU, Irish, Labour Party, May Day, Michael D. Higgins, TD_
+_Context: EU, Labour Party, May Day, Michael D. Higgins, Republic of Ireland, TD_
 
 ### [A closed-door briefing occurs at New York City's United Nations building. Behind it around 150 non-American diplomats object to the American government about a decision by the country's banks to end services for diplomatic missions, with some diplomats suggesting the UN budget could be affected. ](/news/2011/01/14/a-closed-door-briefing-occurs-at-new-york-city-s-united-nations-building-behind-it-around-150-non-american-diplomats-object-to-the-american.md)
 Foreign diplomats complain to the US government about the decision by several US banks to end services for diplomatic missions.
 
 ### [Guyana formally recognizes Palestine as an independent state as part of its "long-standing and unwavering solidarity with, and commitment to, the just and legitimate aspirations of the people of Palestine for the exercise of their right to self-determination and to achieve a homeland of their own, independent, free, prosperous and at peace", a foreign ministry statement says. ](/news/2011/01/14/guyana-formally-recognizes-palestine-as-an-independent-state-as-part-of-its-long-standing-and-unwavering-solidarity-with-and-commitment-to.md)
-_Context: Guyana, Palestinian_
+_Context: Guyana, State of Palestine_
 
 ### [South Africa's chief rabbi Warren Goldstein criticises a controversial petition launched by three Jewish Capetonians calling for Archbishop Emeritus and Nobel Peace laureate Desmond Tutu to be axed as patron of two Holocaust centers. ](/news/2011/01/14/south-africa-s-chief-rabbi-warren-goldstein-criticises-a-controversial-petition-launched-by-three-jewish-capetonians-calling-for-archbishop.md)
 _Context: Desmond Tutu, Holocaust, South Africa, Warren Goldstein, rabbi_

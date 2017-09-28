@@ -19,7 +19,7 @@ _Context: Alberto Gonzales, George W. Bush, Michael B. Mukasey, New York City, U
 _Context: Alexander Litvinenko, Andrei Lugovoy, KGB, Liberal Democratic Party of Russia, London, State Duma_
 
 ### [ Flight OG 269 crashes while trying to land in heavy rain at Phuket International Airport in Thailand with reports of 88 deaths and at least 20 people seriously injured. ](/news/2007/09/16/flight-og-269-crashes-while-trying-to-land-in-heavy-rain-at-phuket-international-airport-in-thailand-with-reports-of-88-deaths-and-at-least.md)
-_Context: Flight OG 269, Phuket International Airport, Thailand_
+_Context: Flight OG 269, Phuket International Airport, Thai_
 
 ### [ Colin McRae and his son are confirmed dead in the helicopter crash in Scotland. ](/news/2007/09/16/colin-mcrae-and-his-son-are-confirmed-dead-in-the-helicopter-crash-in-scotland.md)
 News and opinion from The Times &amp; The Sunday Times

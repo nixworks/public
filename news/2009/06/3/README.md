@@ -4,7 +4,7 @@
 The Organization of American States lifted its 47-year suspension of Cuba on Wednesday in a move backed by Washington as it tries to soothe Cold War tensions with the communist-run island.
 
 ### [ Ireland's State Examinations Commission postpones a Leaving Certificate Exam because of an accidental content leak. [http://www.rte.ie/news/2009/0603/exams.html (RTE)] [http://www.irishtimes.com/newspaper/breaking/2009/0603/breaking71.htm "(The Irish Times)"]](/news/2009/06/3/ireland-s-state-examinations-commission-postpones-a-leaving-certificate-exam-because-of-an-accidental-content-leak-http-www-rte-ie-news.md)
-_Context: Irish, Leaving Certificate Examination, State Examinations Commission, leaked_
+_Context: Leaving Certificate Examination, Republic of Ireland, State Examinations Commission, leaked_
 
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
 _Context: Gordon Brown, Labour, MP, Parliament, Prime Minister, United Kingdom, e-mail_

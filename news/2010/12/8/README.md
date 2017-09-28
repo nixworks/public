@@ -43,7 +43,7 @@ Heavy snow hits Paris, briefly closing Charles de Gaulle airport and bringing bu
 Websites of Mastercard, a Swiss bank and Swedish prosecutor shut down in response to latest action against WikiLeaks.
 
 ### [Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/palestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-stop-building-in-settlements.md)
-_Context: Israel, Jewish settlement, Mahmoud Abbas, Palestinian National Authority, resume negotiations_
+_Context: Israel, Israeli settlement, Mahmoud Abbas, Palestinian National Authority, resume negotiations_
 
 ### [Liberian President Ellen Johnson Sirleaf warns former rebel fighters not to get involved in the crisis in Cote d'Ivoire. ](/news/2010/12/8/liberian-president-ellen-johnson-sirleaf-warns-former-rebel-fighters-not-to-get-involved-in-the-crisis-in-ca-te-d-ivoire.md)
 _Context: Cote d'Ivoire, Ellen Johnson Sirleaf, Liberia_

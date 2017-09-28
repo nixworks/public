@@ -31,7 +31,7 @@ Four of the largest chocolate producers in Canada have agreed to pay more than $
 _Context: Paul Kagame, President, Rwanda, Rwandan Patriotic Front, parliamentary election_
 
 ### [Bombardier's CS100 successfully completes its first test flight out of Montreal-Mirabel International Airport. ](/news/2013/09/16/bombardier-s-cs100-successfully-completes-its-first-test-flight-out-of-montra-c-al-mirabel-international-airport.md)
-_Context: CS100, Montreal-Mirabel International Airport_
+_Context: CSeries jets, Montreal-Mirabel International Airport_
 
 ## [Previous Day...](/news/2013/09/15/index.md)
 

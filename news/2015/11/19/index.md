@@ -55,7 +55,7 @@ More Mexicans are leaving the United States than entering it according to a repo
 A United Nations General Assembly committee has adopted a North Korea human rights resolution.
 
 ### [The Obama Administration through the United States State Department expresses deep frustration over the lack of democratic progress in Thailand after last year's military coup, saying a new constitution there won't pass the "smell test" unless civil society helps to draft it. ](/news/2015/11/19/the-obama-administration-through-the-united-states-state-department-expresses-deep-frustration-over-the-lack-of-democratic-progress-in-thail.md)
-_Context: Obama Administration, State Department, Thailand, civil society, constitution, democratic progress, military coup_
+_Context: Obama Administration, State Department, Thai, civil society, constitution, democratic progress, military coup_
 
 ### [A court sentences former restaurant spokesperson Jared Fogle to over 15 years imprisonment for sex with minors and the possession of child pornography. ](/news/2015/11/19/a-court-sentences-former-restaurant-spokesperson-jared-fogle-to-over-15-years-imprisonment-for-sex-with-minors-and-the-possession-of-child-p.md)
 A plea deal was reached in August, with the former Subway pitchman admitting to crossing state lines to pay to have sex with minors and receiving child pornography from the head of his charity.

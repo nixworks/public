@@ -28,7 +28,7 @@ BUENOS AIRES, Argentina (AP) — Outbreaks of looting have spread across Argenti
 Uruguay became the first country to legalize the growing, sale and smoking of marijuana on Tuesday, a pioneering social experiment that will be closely watched by other nations debating drug liberalization.
 
 ### [In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/in-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md)
-_Context: Bangkok, Democrat Party, Thailand_
+_Context: Bangkok, Democrat Party, Thai_
 
 ## [Previous Day...](/news/2013/12/9/index.md)
 

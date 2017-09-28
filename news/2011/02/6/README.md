@@ -25,7 +25,7 @@ At least 30 soldiers have been killed in southern Sudan during internal fighting
 _Context: Afghanistan, Afghanistan President, Hamid Karzai_
 
 ### [The Indian Navy captures 28 suspected Somali pirates on a Thai fishing vessel in the Indian Ocean. ](/news/2011/02/6/the-indian-navy-captures-28-suspected-somali-pirates-on-a-thai-fishing-vessel-in-the-indian-ocean.md)
-_Context: Indian Navy, Indian Ocean, Somali pirates, Thailand_
+_Context: Indian Navy, Indian Ocean, Somali pirates, Thai_
 
 ### [A United Nations World Heritage Site is damaged and collapses due to a dispute between Cambodia and Thailand. ](/news/2011/02/6/a-united-nations-world-heritage-site-is-damaged-and-collapses-due-to-a-dispute-between-cambodia-and-thailand.md)
 Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand.

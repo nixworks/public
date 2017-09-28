@@ -7,7 +7,7 @@ _Context: Gloria Arroyo, Philippine President, Philippines, torture_
 _Context: Kurd, Turkey, disarm_
 
 ### [ Cambodia detains a Thai man on charges of spying for Thailand. ](/news/2009/11/13/cambodia-detains-a-thai-man-on-charges-of-spying-for-thailand.md)
-_Context: Cambodia, Thailand_
+_Context: Cambodia, Thai_
 
 ### [ Microsoft admits that the Windows 7 USB/DVD download tool contains code that is covered by the GNU General Public License and offers to make it available under the terms of that license. ](/news/2009/11/13/microsoft-admits-that-the-windows-7-usb-dvd-download-tool-contains-code-that-is-covered-by-the-gnu-general-public-license-and-offers-to-mak.md)
 Microsoft has acknowledged that it incorporated open-source code into a Windows 7 download tool. As a result, it will make that tool&#39;s source code available to the community.

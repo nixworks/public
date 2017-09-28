@@ -49,7 +49,7 @@ WikiLeaks founder Julian Assange has accused the Federal Government of helping t
 Fine Gael leader Enda Kenny is to travel to Germany tomorrow to brief German Chancellor Angela Merkel on Ireland&#39;s economic situation.
 
 ### [The United Nations Security Council calls for a permanent ceasefire on the Thailand-Cambodia border near the Preah Vihear Temple. ](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.md)
-_Context: Cambodia, Preah Vihear Temple, Thailand, United Nations Security Council_
+_Context: Cambodia, Preah Vihear Temple, Thai, United Nations Security Council_
 
 ### [11 members of a family are found dead in eastern Democratic Republic of the Congo after being kidnapped by Ugandan Islamist rebels. ](/news/2011/02/14/11-members-of-a-family-are-found-dead-in-eastern-democratic-republic-of-the-congo-after-being-kidnapped-by-ugandan-islamist-rebels.md)
 _Context: Democratic Republic of the Congo, Uganda_

@@ -11,7 +11,7 @@ _Context: Ankara, Istanbul, Turkish police, ongoing protests, tear gas_
 
 ### [Two 12 year-old girls stab another 12 year old girl 19 times.](/news/2014/05/31/two-12-year-old-girls-stab-another-12-year-old-girl-19-times.md)
 ### [Psy's "Gangnam Style" becomes the first video to reach 2 billion views on YouTube. ](/news/2014/05/31/psy-s-gangnam-style-becomes-the-first-video-to-reach-2-billion-views-on-youtube.md)
-_Context: Gangnam Style, Psy, Youtube_
+_Context: Gangnam Style, Psy, YouTube_
 
 ### [The United States National Park Service advises that six climbers who went missing on Washington's Mount Rainier are not expected to be found alive. ](/news/2014/05/31/the-united-states-national-park-service-advises-that-six-climbers-who-went-missing-on-washington-s-mount-rainier-are-not-expected-to-be-foun.md)
 _Context: Mount Rainier, National Park Service, Washington_

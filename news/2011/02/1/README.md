@@ -7,7 +7,7 @@ More than a million rally in Cairo as massive countrywide protests are held agai
 Monarch asks ex-army general to form new government in the wake of streets protests over prices and reforms.
 
 ### [A Buddhist family of four is shot killed by suspected Muslim separatists seeking autonomy from predominantly Buddhist Thailand in the latest attack in an escalation of violence in the southern Thailand. ](/news/2011/02/1/a-buddhist-family-of-four-is-shot-killed-by-suspected-muslim-separatists-seeking-autonomy-from-predominantly-buddhist-thailand-in-the-latest.md)
-_Context: Buddhists, South Thailand insurgency, Thailand_
+_Context: Buddhists, South Thailand insurgency, Thai_
 
 ### [The owner of China's fourth-most visited website, Sohu.com Inc, posted a better-than-estimated 41 percent gain in profit after the company raised prices and boosted services such as video sharing. ](/news/2011/02/1/the-owner-of-china-s-fourth-most-visited-website-sohu-com-inc-posted-a-better-than-estimated-41-percent-gain-in-profit-after-the-company-r.md)
 _Context: China, Sohu.com_
@@ -37,7 +37,7 @@ _Context: Iran's own constitution, Iranian human rights, United States, Zahra Ba
 _Context: North Korea, South Korea, Yeonpyeong Island, attack_
 
 ### [Palestine is recognised within its 1967 borders by Suriname.](/news/2011/02/1/palestine-is-recognised-within-its-1967-borders-by-suriname.md)
-_Context: Palestinian, Suriname, officially recognises_
+_Context: State of Palestine, Suriname, officially recognises_
 
 ### [U.S. soldier Bradley Manning, the alleged whistleblower who is thought to have revealed secret U.S. government documents to the international public, is reported to be held in solitary confinement awaiting trial by the United States for seven months now, treatment which the United Nations deems a form of torture when used for such prolonged periods. ](/news/2011/02/1/u-s-soldier-bradley-manning-the-alleged-whistleblower-who-is-thought-to-have-revealed-secret-u-s-government-documents-to-the-internationa.md)
 US soldier accused of giving a dossier of secret documents to WikiLeaks is held in solitary confinement awaiting trial.

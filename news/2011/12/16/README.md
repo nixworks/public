@@ -55,7 +55,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 _Context: Barry Bonds, baseball game, home detention, obstruction of justice_
 
 ### [Thailand reissues a passport for Thaksin Shinawatra, saying he is no longer a "threat". ](/news/2011/12/16/thailand-reissues-a-passport-for-thaksin-shinawatra-saying-he-is-no-longer-a-threat.md)
-_Context: Thailand, Thaksin Shinawatra_
+_Context: Thai, Thaksin Shinawatra_
 
 ### [Labour's Seema Malhotra wins the Feltham and Heston by-election. ](/news/2011/12/16/labour-s-seema-malhotra-wins-the-feltham-and-heston-by-election.md)
 _Context: Feltham and Heston by-election, Labour, Seema Malhotra_

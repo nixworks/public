@@ -64,7 +64,7 @@ _Context: Human Rights Watch, Saudi Arabia_
 A police officer is to be charged with manslaughter over the death of newspaper seller Ian Tomlinson during the 2009 G20 protests.
 
 ### [Thai authorities lift a special security law used to curtail violent demonstrations ahead of elections on 3 July. ](/news/2011/05/24/thai-authorities-lift-a-special-security-law-used-to-curtail-violent-demonstrations-ahead-of-elections-on-3-july.md)
-_Context: Thailand, special security law_
+_Context: Thai, special security law_
 
 ### [More than 30 political prisoners go on hunger strike at Insein Prison in Burma to protest against their treatment. ](/news/2011/05/24/more-than-30-political-prisoners-go-on-hunger-strike-at-insein-prison-in-burma-to-protest-against-their-treatment.md)
 A group of Burmese political prisoners stage a hunger strike over living conditions, as the UN warns that rights abuses are still widespread.

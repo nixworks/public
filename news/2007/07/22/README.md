@@ -10,7 +10,7 @@ British Prime Minister Gordon Brown has held an emergency Cabinet meeting as sev
 _Context: Khurshid Kasuri, Pakistan, Taliban, United States, al-Qaeda_
 
 ### [ Several thousand protesters opposed to Thailand's military government clash with Thai police in Bangkok. ](/news/2007/07/22/several-thousand-protesters-opposed-to-thailand-s-military-government-clash-with-thai-police-in-bangkok.md)
-_Context: Bangkok, Thailand_
+_Context: Bangkok, Thai_
 
 ### [ Irish golfer Pdraig Harrington wins the British Open defeating Sergio Garca in a playoff. ](/news/2007/07/22/irish-golfer-padraig-harrington-wins-the-british-open-defeating-sergio-garcia-in-a-playoff.md)
 _Context: Ireland, Open Championship (British Open), Pdraig Harrington, Sergio Garca, golfer_

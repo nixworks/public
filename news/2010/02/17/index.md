@@ -4,7 +4,7 @@
 _Context: A/H1N1, Mexico City, vaccinated_
 
 ### [Four people are charged in connection with the Santika Club fire in Thailand on December 31, 2008. ](/news/2010/02/17/four-people-are-charged-in-connection-with-the-santika-club-fire-in-thailand-on-december-31-2008.md)
-_Context: Santika Club fire, Thailand_
+_Context: Santika Club fire, Thai_
 
 ### [The body of fallen luger Nodar Kumaritashvili returns to his hometown of Bakuriani, Georgia for burial. ](/news/2010/02/17/the-body-of-fallen-luger-nodar-kumaritashvili-returns-to-his-hometown-of-bakuriani-georgia-for-burial.md)
 The body of the Georgian luger killed during a practice run at the Vancouver Olympics was flown Wednesday to his hometown, where his grief-stricken mother threw herself on his coffin and cried: &quot;Why have I survived you?&quot;

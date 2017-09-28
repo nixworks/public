@@ -37,7 +37,7 @@ A high-frequency trader was arrested in London over his alleged role in the May 
 _Context: Baltimore, United States Department of Justice, death of Freddie Gray_
 
 ### [Michele Leonhart announces her retirement as the Administrator of the United States Drug Enforcement Administration with concerns raised about her leadership following a prostitution scandal involving Agency officers having sex with prostitutes provided by drug cartels. ](/news/2015/04/21/michele-leonhart-announces-her-retirement-as-the-administrator-of-the-united-states-drug-enforcement-administration-with-concerns-raised-abo.md)
-_Context: Michele Leonhart, U.S. Drug Enforcement Administration, drug cartel_
+_Context: Drug Enforcement Administration, Michele Leonhart, drug cartel_
 
 ## [Previous Day...](/news/2015/04/20/index.md)
 

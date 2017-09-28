@@ -46,7 +46,7 @@ _Context: Haiti's presidential election, Port-au-Prince_
 _Context: Egypt, Egyptian parliamentary elections, Muslim Brotherhood_
 
 ### [The Constitutional Court of Thailand dismisses a case brought against the ruling Democrat Party by the election commission, saying the commission did not follow legal procedures. ](/news/2010/11/29/the-constitutional-court-of-thailand-dismisses-a-case-brought-against-the-ruling-democrat-party-by-the-election-commission-saying-the-commi.md)
-_Context: Constitutional Court of Thailand, Democrat Party, Thailand_
+_Context: Constitutional Court of Thailand, Democrat Party, Thai_
 
 ### [John Brumby concedes defeat in the Victorian election; Ted Baillieu becomes the new Premier of the Australian state of Victoria. ](/news/2010/11/29/john-brumby-concedes-defeat-in-the-victorian-election-ted-baillieu-becomes-the-new-premier-of-the-australian-state-of-victoria.md)
 _Context: Australia, John Brumby, Premier, Ted Baillieu, Victoria, Victorian election_

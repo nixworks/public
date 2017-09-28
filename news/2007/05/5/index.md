@@ -10,7 +10,7 @@ _Context: Chile, China, France, Japan, South Korea, United States, trawling_
 _Context: Boeing 737-800, Cameroon, Douala, Flight 507, Kenya, Kenya Airways, Nairobi, Niete_
 
 ### [ Five people are killed in attacks by Islamic rebels in the south of Thailand. ](/news/2007/05/5/five-people-are-killed-in-attacks-by-islamic-rebels-in-the-south-of-thailand.md)
-_Context: Islamist, Thailand_
+_Context: Islamist, Thai_
 
 ### [ A third mass rally in support of secularism in Turkey is held in Canakkale, protesting against the Justice and Development Party (AKP) regarding the presidential election. ](/news/2007/05/5/a-third-mass-rally-in-support-of-secularism-in-turkey-is-held-in-aanakkale-protesting-against-the-justice-and-development-party-akp-reg.md)
 _Context: Canakkale, July elections, ruling party, secular foundation, third mass rally_

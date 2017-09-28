@@ -31,7 +31,7 @@ The 84 million shares of stock have been purchased nowadays by GM from the UST a
 The death toll from the Christmas Island shipwreck could rise as high as 50, Prime Minister Julia Gillard confirmed today.
 
 ### [At least 26 people are killed and several others are injured when a bus carrying tourists from Thailand overturns in Malaysia. ](/news/2010/12/20/at-least-26-people-are-killed-and-several-others-are-injured-when-a-bus-carrying-tourists-from-thailand-overturns-in-malaysia.md)
-_Context: Malaysia, Thailand_
+_Context: Malaysia, Thai_
 
 ### [Three people were killed and 23 wounded in a bomb attack on a bus in central Nairobi, Kenya. ](/news/2010/12/20/three-people-were-killed-and-23-wounded-in-a-bomb-attack-on-a-bus-in-central-nairobi-kenya.md)
 _Context: Kenya, Nairobi_
@@ -46,7 +46,7 @@ Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear
 _Context: Bill Richardson, IAEA, North Korea, United Nations, United States_
 
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)
-_Context: Israel, Palestinian, UN_
+_Context: Israel, State of Palestine, UN_
 
 ### [Russia warns the U.S. that a renegotiation of the Start treaty may lead to the pact's destruction. ](/news/2010/12/20/russia-warns-the-u-s-that-a-renegotiation-of-the-start-treaty-may-lead-to-the-pact-s-destruction.md)
 The Russian foreign minister warns US lawmakers that any change to the new nuclear arms treaty between the two countries could destroy the pact.

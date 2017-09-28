@@ -10,7 +10,7 @@ _Context: Jharkhand_
 _Context: Republican, Senate Majority Leader, Strom Thurmond, Trent Lott, U.S. President, United States Senate, segregationist_
 
 ### [Portland Trail Blazers players, Golden State Warriors players and Warriors' fans get involved in a melee after the Trail Blazers beat the Warriors, 113-111 in Oakland. It might be the first time in NBA history that a home team's fans attack the visiting team during or after a game.](/news/2002/12/20/portland-trail-blazers-players-golden-state-warriors-players-and-warriors-fans-get-involved-in-a-melee-after-the-trail-blazers-beat-the-wa.md)
-_Context: Golden State Warriors, NBA's, Oakland, California, Portland Trail Blazers_
+_Context: Golden State Warriors, NBA, Oakland, California, Portland Trail Blazers_
 
 ### [Speed skater Catriona Le May Doan won the Lou Marsh Trophy, given annually to Canada's outstanding athlete. She edgted out Dallas Mavericks guard Steve Nash.](/news/2002/12/20/speed-skater-catriona-le-may-doan-won-the-lou-marsh-trophy-given-annually-to-canada-s-outstanding-athlete-she-edgted-out-dallas-mavericks.md)
 _Context: Catriona Le May Doan, Dallas Mavericks, Lou Marsh Trophy, Steve Nash, skates_

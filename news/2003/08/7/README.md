@@ -4,7 +4,7 @@
 _Context: 2003 California recall, Darrell Issa, Gray Davis, Republican, election, recall referendum_
 
 ### [ Convicted terrorist, Real IRA leader Michael McKevitt, found guilty yesterday by the Republic of Ireland's Special Criminal Court of "membership of an illegal organisation" and "directing terrorism", is sentenced to twenty years in prison.](/news/2003/08/7/convicted-terrorist-real-ira-leader-michael-mckevitt-found-guilty-yesterday-by-the-republic-of-ireland-s-special-criminal-court-of-membe.md)
-_Context: Irish, Michael McKevitt, Real IRA, Special Criminal Court, terrorism_
+_Context: Michael McKevitt, Real IRA, Republic of Ireland, Special Criminal Court, terrorism_
 
 ### [ An Indonesian court sentences Amrozi bin Nurhasyim to death for his role in the 2002 Bali terrorist bombing. The court found Amrozi guilty of planning and carrying out the attack. The verdict comes two days after another attack outside Marriott Hotel in Jakarta. Jemaah Islamiyah is linked with both of the attacks.](/news/2003/08/7/an-indonesian-court-sentences-amrozi-bin-nurhasyim-to-death-for-his-role-in-the-2002-bali-terrorist-bombing-the-court-found-amrozi-guilty.md)
 _Context: 2002 Bali terrorist bombing, Amrozi bin Nurhasyim, Indonesia, Jakarta, Jemaah Islamiyah, capital punishment, court_

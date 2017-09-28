@@ -7,7 +7,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Algeria, EUR, France, Human rights, Turkey, genocide of Armenians_
 
 ### [ Google officially announces that they will buy video sharing website YouTube for US$1.65 billion. ](/news/2006/10/9/google-officially-announces-that-they-will-buy-video-sharing-website-youtube-for-us-1-65-billion.md)
-_Context: Google, USD, Youtube_
+_Context: Google, USD, YouTube_
 
 ### [ South Korean Ban Ki-moon is nominated to succeed Kofi Annan as the United Nations Secretary-General in an affirmation vote by the Security Council. A confirmation vote by the General Assembly is expected within the next fortnight. ](/news/2006/10/9/south-korean-ban-ki-moon-is-nominated-to-succeed-kofi-annan-as-the-united-nations-secretary-general-in-an-affirmation-vote-by-the-security.md)
 _Context: Ban Ki-moon, Kofi Annan, South Korea, United Nations, United Nations General Assembly, United Nations Secretary-General, United Nations Security Council, fortnight_

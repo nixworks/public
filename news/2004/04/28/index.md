@@ -10,7 +10,7 @@ _Context: AC-130, Fallujah, Iraqi insurgency_
 _Context: Cable TV, Comcast, Disney, bn_
 
 ### [ More than 100 suspected Jemaah Islamiah militants die during their attacks on security outposts in Thailand's Muslim-dominated southern provinces of Pattani, Yala and Songkhla. ](/news/2004/04/28/more-than-100-suspected-jemaah-islamiah-militants-die-during-their-attacks-on-security-outposts-in-thailand-s-muslim-dominated-southern-pro.md)
-_Context: Jemaah Islamiah, Muslim, Pattani, Songkhla Province, Thailand, Yala_
+_Context: Jemaah Islamiah, Muslim, Pattani, Songkhla Province, Thai, Yala_
 
 ## [Previous Day...](/news/2004/04/27/index.md)
 

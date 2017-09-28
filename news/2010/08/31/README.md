@@ -13,7 +13,7 @@ Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank
 _Context: Afghanistan, United States, United States military personnel, bomb_
 
 ### [An explosion occurs outside the head office of a government-run television station in Bangkok, Thailand. ](/news/2010/08/31/an-explosion-occurs-outside-the-head-office-of-a-government-run-television-station-in-bangkok-thailand.md)
-_Context: Bangkok, Thailand_
+_Context: Bangkok, Thai_
 
 ### [3 Russian aircrew kidnapped in Sudan's Darfur region are released. ](/news/2010/08/31/3-russian-aircrew-kidnapped-in-sudan-s-darfur-region-are-released.md)
 _Context: Darfur, Russia, Sudan_

@@ -37,7 +37,7 @@ _Context: Japan, North Korea, South Korea, United Nations Security Council, Unit
 _Context: China, Guantanamo Bay Detention Camp, Palau, Uyghur_
 
 ### [ The Thai army is sent to reinforce positions along Thailand's border with Burma after an influx of Karen refugees following a Burmese army offensive in Karen state. ](/news/2009/06/10/the-thai-army-is-sent-to-reinforce-positions-along-thailand-s-border-with-burma-after-an-influx-of-karen-refugees-following-a-burmese-army.md)
-_Context: Burma, Internal conflict in Burma, Karen, Karen State, Myanmar Army, Royal Thai Army, Thailand_
+_Context: Burma, Internal conflict in Burma, Karen, Karen State, Myanmar Army, Royal Thai Army, Thai_
 
 ### [ Rose Francine Rogomb is sworn in as acting head of state in Gabon, following the death of Omar Bongo Ondimba. ](/news/2009/06/10/rose-francine-rogombe-is-sworn-in-as-acting-head-of-state-in-gabon-following-the-death-of-omar-bongo-ondimba.md)
 _Context: Gabon, Omar Bongo Ondimba, Rose Francine Rogomb_

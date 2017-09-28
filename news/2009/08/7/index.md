@@ -10,7 +10,7 @@ The Paraguayan Congress is not interested in considering the protocol for Venezu
 Republican Sen. Mel Martinez&#39;s decision Friday to step down 16 months early gave Gov. Charlie Crist the perfect gift: his pick of who should watch over the office while Crist tries to win it. 
 
 ### [ Selvarasa Pathmanathan, the new leader of the Liberation Tigers of Tamil Eelam, is detained in Thailand. ](/news/2009/08/7/selvarasa-pathmanathan-the-new-leader-of-the-liberation-tigers-of-tamil-eelam-is-detained-in-thailand.md)
-_Context: LTTE, Selvarasa Pathmanathan, Thailand_
+_Context: LTTE, Selvarasa Pathmanathan, Thai_
 
 ### [ According to both Pakistani officials and Taliban insurgents, Baitullah Mehsud, leader of the Pakistani Taliban, was killed in a drone strike. ](/news/2009/08/7/according-to-both-pakistani-officials-and-taliban-insurgents-baitullah-mehsud-leader-of-the-pakistani-taliban-was-killed-in-a-drone-stri.md)
 Baitullah Mehsud was blamed for the assassination of Benazir Bhutto and scores of suicide bombings.

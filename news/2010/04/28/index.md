@@ -4,7 +4,7 @@
 _Context: John Holmes, Niger, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_
 
 ### [A Thai soldier dies in a flareup of tensions in the ongoing conflict between pro- and anti-government factions in Thailand. ](/news/2010/04/28/a-thai-soldier-dies-in-a-flareup-of-tensions-in-the-ongoing-conflict-between-pro-and-anti-government-factions-in-thailand.md)
-_Context: 2010 Thai political protests, Thailand_
+_Context: 2010 Thai political protests, Thai_
 
 ### [The United States Coast Guard plans a controlled burn to remove spilled oil in the aftermath of the Deepwater Horizon disaster. ](/news/2010/04/28/the-united-states-coast-guard-plans-a-controlled-burn-to-remove-spilled-oil-in-the-aftermath-of-the-deepwater-horizon-disaster.md)
 The U.S. Coast Guard said Wednesday it scheduled a controlled burn in the Gulf of Mexico to minimize environmental risks of an oil slick coming from the site of the sunken oil rig Deepwater Horizon as concern about the accident mounts.

@@ -7,7 +7,7 @@ Somali Islamist militant group al-Shabab says it has killed 60 Ethiopian soldier
 _Context: Baghdad, Iraqi Civil War (2014-present)_
 
 ### [Thailand celebrates the 70th anniversary of King Bhumibol Adulyadej's accession to the Thai throne. ](/news/2016/06/9/thailand-celebrates-the-70th-anniversary-of-king-bhumibol-adulyadej-s-accession-to-the-thai-throne.md)
-_Context: Bhumibol Adulyadej, King, Thailand_
+_Context: Bhumibol Adulyadej, King, Thai_
 
 ### [A bus plunges over a ravine in Brazil's SGBPo Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sagbpo-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md)
 _Context: Brazil, SGBPo Paulo, ravine_

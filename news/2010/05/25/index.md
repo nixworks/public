@@ -19,7 +19,7 @@ Brazil launches an international Portuguese-language TV station based in Africa.
 North Korea is to sever all ties with its southern neighbour, as tensions escalate over the sinking of a South Korean ship.
 
 ### [A court in Thailand issues an arrest warrant for former Prime Minister Thaksin Shinawatra on charges of terrorism, following a report by the Thai Department of Special Investigations, which concluded that he had financed Red Shirt protesters and had helped them smuggle in weapons and fighters from Cambodia, during the 2010 political crisis. ](/news/2010/05/25/a-court-in-thailand-issues-an-arrest-warrant-for-former-prime-minister-thaksin-shinawatra-on-charges-of-terrorism-following-a-report-by-the.md)
-_Context: 2010 Thai political protests, Prime Minister, Thailand, Thaksin Shinawatra, red shirt_
+_Context: 2010 Thai political protests, Prime Minister, Thai, Thaksin Shinawatra, red shirt_
 
 ### [At least 17 people die after a tourist bus crashes in Antalya. ](/news/2010/05/25/at-least-17-people-die-after-a-tourist-bus-crashes-in-antalya.md)
 Sixteen people are killed when a coach carrying Russian tourists crashes off a bridge in southern Turkey, officials say.

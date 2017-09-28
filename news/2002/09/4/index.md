@@ -1,7 +1,7 @@
 ## [2002-09-4](/news/2002/09/4/index.md)
 
 ### [ Argentina defeated the United States, 87-80, at the World Basketball Championships in Indianapolis, Indiana. It was the first loss ever in international play for a United States team containing National Basketball Association players.](/news/2002/09/4/argentina-defeated-the-united-states-87a80-at-the-world-basketball-championships-in-indianapolis-indiana-it-was-the-first-loss-ever-i.md)
-_Context: Argentina, Indianapolis, Indiana, NBA's, basketball_
+_Context: Argentina, Indianapolis, Indiana, NBA, basketball_
 
 ### [ The Oakland Athletics baseball team won their 20th consecutive game, an American League record.](/news/2002/09/4/the-oakland-athletics-baseball-team-won-their-20th-consecutive-game-an-american-league-record.md)
 _Context: American League, Oakland Athletics, baseball game_

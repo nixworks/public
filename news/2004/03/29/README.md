@@ -10,7 +10,7 @@ Things to do in Miami
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Republic of Ireland becomes the first country to ban tobacco smoking in all enclosed workplaces (including bars and restaurants); infringers risk a EUR3,000 (US$3,600) fine. ](/news/2004/03/29/the-republic-of-ireland-becomes-the-first-country-to-ban-tobacco-smoking-in-all-enclosed-workplaces-including-bars-and-restaurants-infri.md)
-_Context: EUR, Irish, USD, tobacco smoking_
+_Context: EUR, Republic of Ireland, USD, tobacco smoking_
 
 ### [ NATO welcomes seven new members, as Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia formally became members by depositing their instruments of accession with the United States' government, though the countries will join officially next month at a NATO meeting. All but Slovenia were formerly members of the Warsaw Pact. ](/news/2004/03/29/nato-welcomes-seven-new-members-as-bulgaria-estonia-latvia-lithuania-romania-slovakia-and-slovenia-formally-became-members-by-deposit.md)
 _Context: Bulgaria, Estonia, Latvia, Lithuania, NATO, Romania, Slovakia, Slovenia, Warsaw Pact_

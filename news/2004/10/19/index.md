@@ -7,7 +7,7 @@ _Context: Alexander Lukashenko, Anatoly Lebedko, Minsk, Monday's referendum, pol
 _Context: Democratic, George W. Bush, Hassan Rowhani, John Kerry, Republican, Supreme National Security Council of Iran, U.S. President_
 
 ### [ An unknown militant group kidnaps Margaret Hassan, head of the international charity CARE International, in Baghdad, Iraq. Ms. Hassan holds British, Irish and Iraqi citizenship. ](/news/2004/10/19/an-unknown-militant-group-kidnaps-margaret-hassan-head-of-the-international-charity-care-international-in-baghdad-iraq-ms-hassan-holds.md)
-_Context: Baghdad, CARE International, Irish, Margaret Hassan, charity_
+_Context: Baghdad, CARE International, Margaret Hassan, Republic of Ireland, charity_
 
 ### [ British police charge Muslim cleric Abu Hamza al-Masri with 16 crimes, including encouraging the murder of non-Muslims. [http://www.reuters.com/newsArticle.jhtml;jsessionid=KCMAIJ0C0LGQGCRBAEOCFEY?type=topNews&storyID=6543585 (Reuters)] (Link dead as of 22:35, 14 January 2007 (UTC))](/news/2004/10/19/british-police-charge-muslim-cleric-abu-hamza-al-masri-with-16-crimes-including-encouraging-the-murder-of-non-muslims-http-www-reuters.md)
 _Context: Abu Hamza al-Masri, police_
@@ -16,7 +16,7 @@ _Context: Abu Hamza al-Masri, police_
 _Context: Iran, United Nations, Vienna, uranium enrichment_
 
 ### [ Thai officials say that Myanmar's military has removed the current prime minister of Myanmar, General Khin Nyunt, from office and placed him under house arrest. ](/news/2004/10/19/thai-officials-say-that-myanmar-s-military-has-removed-the-current-prime-minister-of-myanmar-general-khin-nyunt-from-office-and-placed-hi.md)
-_Context: Khin Nyunt, Myanmar, Thailand_
+_Context: Khin Nyunt, Myanmar, Thai_
 
 ### [ Polytechnic University of the Philippines celebrates its centennial founding.](/news/2004/10/19/polytechnic-university-of-the-philippines-celebrates-its-centennial-founding.md)
 _Context: Polytechnic University of the Philippines_

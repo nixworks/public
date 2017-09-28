@@ -4,7 +4,7 @@
 _Context: Ciudad Juarez, Mexico, bus, tractor-trailer_
 
 ### [ Flash flooding kills at least 35 people in the Trang Province of Thailand. ](/news/2007/04/14/flash-flooding-kills-at-least-35-people-in-the-trang-province-of-thailand.md)
-_Context: Flash flooding, Thailand, Trang Province_
+_Context: Flash flooding, Thai, Trang Province_
 
 ### [ A suicide bomber kills 8 people in the Khost Province of Afghanistan. ](/news/2007/04/14/a-suicide-bomber-kills-8-people-in-the-khost-province-of-afghanistan.md)
 _Context: Afghanistan, Khost, suicide bomber_

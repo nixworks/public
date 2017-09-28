@@ -7,7 +7,7 @@ Further violence has broken out in the city of Jos in central Nigeria following 
 _Context: Afghanistan, Turkey_
 
 ### [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md)
-_Context: Somali pirates, Somalia, Thailand_
+_Context: Somali pirates, Somalia, Thai_
 
 ### [Israeli forces kill 2 Palestinian militants of the al-Quds Brigades of the Islamic Jihad who were planting an explosive device to be used against an Israeli patrol near the border in the southern Gaza Strip. ](/news/2010/12/26/israeli-forces-kill-2-palestinian-militants-of-the-al-quds-brigades-of-the-islamic-jihad-who-were-planting-an-explosive-device-to-be-used-ag.md)
 Two Islamic Jihad militants killed by fire along Strip border; Deputy PM: &quot;I hope there is not need for another operation such as Cast Lead.”
@@ -46,7 +46,7 @@ _Context: Damascus, Latakia, New Delhi_
 Thousands in Istanbul greet the Mavi Marmara, the ship on which protesters were killed by Israeli forces in May.
 
 ### [Industry, Trade and Labour Minister of Israel Binyamin Ben-Eliezer responds to Ecuador's formal recognition of Palestine as an independent state by saying that the "entire world" could recognise a Palestinian state in the next year. ](/news/2010/12/26/industry-trade-and-labour-minister-of-israel-binyamin-ben-eliezer-responds-to-ecuador-s-formal-recognition-of-palestine-as-an-independent-s.md)
-_Context: Binyamin Ben-Eliezer, Ecuador, Industry, Trade and Labour Minister of Israel, Palestinian_
+_Context: Binyamin Ben-Eliezer, Ecuador, Industry, Trade and Labour Minister of Israel, State of Palestine_
 
 ### [Newly released cables from July 2004 reveal that American diplomats panicked about a screening of the film "Fahrenheit 9/11", which is critical of the U.S. government's response to the September 11 attacks. Diplomats stopped what they called a "potential fiasco" by intervening and contacting the offices of the New Zealand prime minister and Marian Hobbs, a government minister referred to as "Boo Boo" Hobbs by America. ](/news/2010/12/26/newly-released-cables-from-july-2004-reveal-that-american-diplomats-panicked-about-a-screening-of-the-film-fahrenheit-9-11-which-is-criti.md)
 The US has been pressed by various government for help with wiretapping criminal and political adversaries, latest Wikileaks disclosures suggest.

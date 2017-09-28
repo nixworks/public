@@ -4,7 +4,7 @@
 Malian troops and suspected Islamist militants are exchanging heavy gunfire in Gao, a day after a suicide bomb attack in the northern town.
 
 ### [A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/a-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md)
-_Context: Thailand, Yala_
+_Context: Thai, Yala_
 
 ### [Suspected Boko Haram militants kill three doctors in the northeastern Nigerian region of Yobe. Their nationality is disputed, with reports suggesting they are South Korean, North Korean or Chinese. ](/news/2013/02/10/suspected-boko-haram-militants-kill-three-doctors-in-the-northeastern-nigerian-region-of-yobe-their-nationality-is-disputed-with-reports-s.md)
 Three doctors - reportedly from North Korea - have been killed in an attack in the north-eastern Nigerian state of Yobe, officials say.

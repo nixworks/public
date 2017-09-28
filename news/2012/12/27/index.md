@@ -25,7 +25,7 @@ Iranian President MahmoudAhmadinejad on Thursday dismissed his only female cabin
 _Context: Assassination of Benazir Bhutto, Benazir Bhutto, Bilawal Bhutto Zardari, Pakistan, Prime Minister_
 
 ### [Catholic figurehead Sean Brady's intervention in Ireland's abortion debate draws harsh criticism from legislators and more calls for the Church to transfer the rest of the compensation it promised for those abused by priests, but has not yet paid. ](/news/2012/12/27/catholic-figurehead-sea-n-brady-s-intervention-in-ireland-s-abortion-debate-draws-harsh-criticism-from-legislators-and-more-calls-for-the-ch.md)
-_Context: Catholic, Catholic Church, Ireland, Sean Brady, abortion, abortion_
+_Context: Abortion in the Republic of Ireland, Catholic, Catholic Church, Ireland, Sean Brady, abortion_
 
 ### [Harry Reid, the Democratic US Senate leader, says the U.S. appears to be heading over the fiscal cliff, with tax raises and spending cuts imminent. ](/news/2012/12/27/harry-reid-the-democratic-us-senate-leader-says-the-u-s-appears-to-be-heading-over-the-fiscal-cliff-with-tax-raises-and-spending-cuts-im.md)
 The US appears to be heading over the &quot;fiscal cliff&quot;, the Democratic US Senate leader says, as the House prepares a last-minute return to Washington.

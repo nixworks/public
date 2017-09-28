@@ -1,7 +1,7 @@
 ## [2006-01-7](/news/2006/01/7/index.md)
 
 ### [ Four suspected militants fatally shoot two border-policemen in the back at a crowded weekend market in Yala province, Thailand, where the South Thailand insurgency continues since an increase in violence in January 2001. ](/news/2006/01/7/four-suspected-militants-fatally-shoot-two-border-policemen-in-the-back-at-a-crowded-weekend-market-in-yala-province-thailand-where-the-s.md)
-_Context: South Thailand insurgency, Thailand, Yala, police_
+_Context: South Thailand insurgency, Thai, Yala, police_
 
 ### [ The head of the UN peacekeeping force in Haiti, General Urano Teixeira da Matta Bacellar, is found dead. UN officials believe his death to be suicide. ](/news/2006/01/7/the-head-of-the-un-peacekeeping-force-in-haiti-general-urano-teixeira-da-matta-bacellar-is-found-dead-un-officials-believe-his-death-to.md)
 _Context: Haiti, MINUSTAH, United Nations, Urano Teixeira da Matta Bacellar, peacekeepers_

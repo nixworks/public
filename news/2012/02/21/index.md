@@ -7,7 +7,7 @@ Syrian government forces killed at least 100 people on Tuesday in assaults on vi
 _Context: Afghanistan, Air Force, General, International Security Assistance Force, John R. Allen, Quran_
 
 ### [Thailand sends an extradition request to Malaysia for one of the five Iranian nationals suspected of involvement in the bombings in Bangkok earlier this month. ](/news/2012/02/21/thailand-sends-an-extradition-request-to-malaysia-for-one-of-the-five-iranian-nationals-suspected-of-involvement-in-the-bombings-in-bangkok.md)
-_Context: Bangkok, Iran, Malaysia, Thailand, bombings, extradited_
+_Context: Bangkok, Iran, Malaysia, Thai, bombings, extradited_
 
 ### [Rioting inmates take control of Indonesia's Kerobokan Prison on the island of Bali. ](/news/2012/02/21/rioting-inmates-take-control-of-indonesia-s-kerobokan-prison-on-the-island-of-bali.md)
 Police have reclaimed control of Bali&#039;s infamous Kerobokan prison, which last night erupted in rioting as prisoners set fire to parts of the desperately overcrowded facility and hurled stones at staff.

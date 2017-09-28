@@ -7,7 +7,7 @@ _Context: 2003 invasion of Iraq, David Kay, George W. Bush, Iraq Intelligence Co
 _Context: Dirksen Senate Office Building, ricin_
 
 ### [ Prime Minister of Israel Ariel Sharon announces to the "Ha'aretz" newspaper that he plans to dismantle 17 Israeli settlements in the Gaza Strip and says that he foresees a time when there are no Jews in Gaza at all.](/news/2004/02/2/prime-minister-of-israel-ariel-sharon-announces-to-the-ha-aretz-newspaper-that-he-plans-to-dismantle-17-israeli-settlements-in-the-gaza-s.md)
-_Context: Ariel Sharon, Gaza, Ha'aretz, Israeli Prime Minister, Jewish settlement_
+_Context: Ariel Sharon, Gaza, Ha'aretz, Israeli Prime Minister, Israeli settlement_
 
 ### [ Pakistani nuclear scientist Abdul Qadeer Khan confesses to smuggling nuclear hardware on chartered planes, sharing secret designs for the centrifuges that produce the enriched uranium necessary to develop a nuclear weapon, and giving personal briefings to nuclear scientists from Iran, North Korea and Libya, believing that nuclear proliferation would "ease Western attention on Pakistan" and "help the Muslim cause"](/news/2004/02/2/pakistani-nuclear-scientist-abdul-qadeer-khan-confesses-to-smuggling-nuclear-hardware-on-chartered-planes-sharing-secret-designs-for-the-c.md)
 _Context: Abdul Qadeer Khan, Iran, Libya, North Korea, proliferation_

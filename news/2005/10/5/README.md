@@ -22,7 +22,7 @@ _Context: 10 Downing Street, AS-28, Kamchatka Peninsula, Order of Maritime Servi
 _Context: Nobel Prize in Chemistry, Richard R. Schrock, Robert H. Grubbs, Royal Swedish Academy of Sciences, Yves Chauvin, metathesis, organic synthesis_
 
 ### [ South Thailand insurgency: Five Thai soldiers are killed in a drive-by shooting in Thailand's Narathiwat province. ](/news/2005/10/5/south-thailand-insurgency-five-thai-soldiers-are-killed-in-a-drive-by-shooting-in-thailand-s-narathiwat-province.md)
-_Context: Narathiwat, South Thailand insurgency, Thai, Thailand, drive-by shooting_
+_Context: Narathiwat, South Thailand insurgency, Thai, Thai, drive-by shooting_
 
 ### [ Conflict in Iraq: The British Government alleges that Iran is responsible for recent attacks on British military forces. ](/news/2005/10/5/conflict-in-iraq-the-british-government-alleges-that-iran-is-responsible-for-recent-attacks-on-british-military-forces.md)
 _Context: British government, British military personnel, Conflict in Iraq, Iran_

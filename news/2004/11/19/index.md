@@ -34,7 +34,7 @@ _Context: Yukos_
 _Context: Congressman, US$, national debt_
 
 ### [ In Auburn Hills, Michigan, members of the NBA Indiana Pacers and Detroit Pistons engage in a brawl involving players and spectators. Ron Artest of the Pacers initiated the conflict with fans when he entered the crowd at The Palace of Auburn Hills after a fan threw a cup of beer at him. The game was postponed with 45 seconds remaining. Artest was suspended for the rest of the season, while several members of both teams were suspended by the league for their involvement. Pacers-Pistons brawl](/news/2004/11/19/in-auburn-hills-michigan-members-of-the-nba-indiana-pacers-and-detroit-pistons-engage-in-a-brawl-involving-players-and-spectators-ron-ar.md)
-_Context: Auburn Hills, Michigan, Detroit Pistons, Indiana Pacers, NBA's, Ron Artest, The Palace of Auburn Hills_
+_Context: Auburn Hills, Michigan, Detroit Pistons, Indiana Pacers, NBA, Ron Artest, The Palace of Auburn Hills_
 
 ### [ U.S. Military officials report that 102 soldiers, 85% of which are serving in Iraq, Kuwait and Afghanistan, have contracted a rather rare blood infection by Acinetobacter baumannii. Military investigators say there is no evidence of biochemical agents in the infection which surfaces occasionally in unsanitary hospitals, but that some soldiers were arriving with infections. ](/news/2004/11/19/u-s-military-officials-report-that-102-soldiers-85-of-which-are-serving-in-iraq-kuwait-and-afghanistan-have-contracted-a-rather-rare-b.md)
 _Context: Acinetobacter baumannii, Afghanistan, Iraq, Kuwait, U.S. military_

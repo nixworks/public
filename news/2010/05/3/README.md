@@ -13,7 +13,7 @@ _Context: Darfur, Justice and Equality Movement, Sudanese government, conflict_
 _Context: Alabama, Kentucky, Middle, Mississippi, Nashville, Tennessee, Tennessee_
 
 ### [Thai Prime Minister Abhisit Vejjajiva proposes to hold elections on 14 November to end the political crisis in the country. ](/news/2010/05/3/thai-prime-minister-abhisit-vejjajiva-proposes-to-hold-elections-on-14-november-to-end-the-political-crisis-in-the-country.md)
-_Context: Abhisit Vejjajiva, Thailand, political crisis_
+_Context: Abhisit Vejjajiva, Thai, political crisis_
 
 ### [Journalists protesting against the prison death of Cameroon newspaper editor Bibi Ngota clash with police in Yaounde as hundreds are prevented from staging a sit-in at the office of the prime minister. ](/news/2010/05/3/journalists-protesting-against-the-prison-death-of-cameroon-newspaper-editor-bibi-ngota-clash-with-police-in-yaounda-c-as-hundreds-are-preven.md)
 _Context: Bibi Ngota, Cameroon, Yaounde_

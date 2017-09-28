@@ -31,7 +31,7 @@ _Context: Wells Fargo, foreclose, housing_
 _Context: China, Taiwan_
 
 ### [Floods in 18 Thai provinces kill 59 people. ](/news/2010/10/27/floods-in-18-thai-provinces-kill-59-people.md)
-_Context: Thailand_
+_Context: Thai_
 
 ### [Fatalities caused by the eruption of Mount Merapi in Indonesia's Yogyakarta province rises, with 28 people known to have been killed by hot ash. ](/news/2010/10/27/fatalities-caused-by-the-eruption-of-mount-merapi-in-indonesia-s-yogyakarta-province-rises-with-28-people-known-to-have-been-killed-by-hot.md)
 _Context: Indonesia, Mount Merapi volcanic eruption, Mounts Merapi, Yogyakarta_

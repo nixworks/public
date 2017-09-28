@@ -16,7 +16,7 @@ _Context: Chile, Roman Catholic, Spanish_
 Sri Lanka&#039;s former army chief, Sarath Fonseka, appeared in a military court yesterday on charges of sedition.
 
 ### [Thai redshirts spill blood at the gates of the government in their third day of protests. ](/news/2010/03/16/thai-redshirts-spill-blood-at-the-gates-of-the-government-in-their-third-day-of-protests.md)
-_Context: Thailand_
+_Context: Thai_
 
 ### [France sends military aid to Wallis and Futuna, which suffered extensive damage from Cyclone Tomas. ](/news/2010/03/16/france-sends-military-aid-to-wallis-and-futuna-which-suffered-extensive-damage-from-cyclone-tomas.md)
 _Context: Cyclone Tomas, France, Wallis and Futuna_

@@ -39,7 +39,7 @@ _Context: District of Columbia, North Korea, state sponsor of terrorism_
 
 ### [ European markets fall steeply upon opening. ](/news/2008/10/10/european-markets-fall-steeply-upon-opening.md)
 ### [ Leaders of the anti-government protests in Thailand surrender to thepolice. ](/news/2008/10/10/leaders-of-the-anti-government-protests-in-thailand-surrender-to-thepolice.md)
-_Context: Thailand, assemble_
+_Context: Thai, assemble_
 
 ### [ The Republic of China (Taiwan) celebrates its 97th National Anniversary on Double Ten Day, with its newly elected President Ma Ying-jeou. ](/news/2008/10/10/the-republic-of-china-taiwan-celebrates-its-97th-national-anniversary-on-double-ten-day-with-its-newly-elected-president-ma-ying-jeou.md)
 Taiwan will celebrate its “Double Ten” National Day today. On October 10, 1911, an uprising occurred in Wuchang, China. Provincial leaders then declared independence to topple the Qing Manchu Dynasty. The Republic of China was proclaimed on January 1, 1912.

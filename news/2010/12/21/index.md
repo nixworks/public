@@ -37,7 +37,7 @@ Taking defence cooperation to a new level, India and Russia on Tuesday signed a 
 A diplomat at the Russian embassy in London has been sent home after the Foreign Office requested the withdrawal earlier this month.
 
 ### [The Thai Cabinet agrees to lift a state of emergency in the capital Bangkok and three surrounding provinces. ](/news/2010/12/21/the-thai-cabinet-agrees-to-lift-a-state-of-emergency-in-the-capital-bangkok-and-three-surrounding-provinces.md)
-_Context: Bangkok, Thailand, states of emergency_
+_Context: Bangkok, Thai, states of emergency_
 
 ### [The Venezuelan parliament approves a law tightening rules on internet content. ](/news/2010/12/21/the-venezuelan-parliament-approves-a-law-tightening-rules-on-internet-content.md)
 _Context: Venezuela_

@@ -16,7 +16,7 @@ _Context: Al Qaida's, Muslim, Osama bin Laden_
 An Israeli military court convicts two Israeli soldiers for using a Palestinian child as a human shield during an assault on Gaza in 2009.
 
 ### [Two Thai soldiers are killed and four others are wounded during a gun fight with suspected Islamist rebels in the south of the country. ](/news/2010/10/3/two-thai-soldiers-are-killed-and-four-others-are-wounded-during-a-gun-fight-with-suspected-islamist-rebels-in-the-south-of-the-country.md)
-_Context: South Thailand insurgency, Thailand_
+_Context: South Thailand insurgency, Thai_
 
 ### [Police in Indonesia kill six suspected Islamist militants and arrest four others in a raid in North Sumatra. ](/news/2010/10/3/police-in-indonesia-kill-six-suspected-islamist-militants-and-arrest-four-others-in-a-raid-in-north-sumatra.md)
 Four suspected terrorists were killed and another two were detained in a firefight with a police unit at a village in Deli Serdang regency on Saturday

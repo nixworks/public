@@ -10,7 +10,7 @@ A man opens fire in the Belgian city of Liege killing at least five people inclu
 _Context: 2011 Syrian uprising, Syria_
 
 ### [Three Thai soldiers are killed by a land mine near the border with Cambodia. ](/news/2011/12/13/three-thai-soldiers-are-killed-by-a-land-mine-near-the-border-with-cambodia.md)
-_Context: Cambodia, Thailand, land mine_
+_Context: Cambodia, Thai, land mine_
 
 ### ["Call of Duty: Modern Warfare 3" becomes the fastest selling entertainment product of all time passing $1bn in sales in 16 days. ](/news/2011/12/13/call-of-duty-modern-warfare-3-becomes-the-fastest-selling-entertainment-product-of-all-time-passing-1bn-in-sales-in-16-days.md)
 _Context: Modern Warfare 3_

@@ -13,7 +13,7 @@ _Context: House of Commons of the United Kingdom, Michael Martin, Speaker of the
 _Context: LTTE, Mahinda Rajapaksa, President of Sri Lanka, Sri Lanka, Sri Lankan Civil War_
 
 ### [ Uzbekistan's government leases Navoiy Airport to the North Atlantic Treaty Organization. ](/news/2009/05/19/uzbekistan-s-government-leases-navoiy-airport-to-the-north-atlantic-treaty-organization.md)
-_Context: NATO, Navoiy Airport, Uzbekistan, government, lease_
+_Context: NATO, Navoiy Airport, Politics of Uzbekistan, Uzbekistan, lease_
 
 ### [ Pro-Tamil Tigers protesters and the Metropolitan Police Service battle, injuring 16 people, in London, England. ](/news/2009/05/19/pro-tamil-tigers-protesters-and-the-metropolitan-police-service-battle-injuring-16-people-in-london-england.md)
 _Context: England, LTTE, London, Metropolitan Police Service, protest_

@@ -37,7 +37,7 @@ _Context: China, South China Sea, United States_
 The Sudanese government has denied supporting rebels in South Sudan after it accused Khartoum of supplying arms to the insurgents threatening its oil fields.
 
 ### [Malaysia announces the discovery of 139 mass graves near the border with Thailand with some graves containing more than one body. ](/news/2015/05/25/malaysia-announces-the-discovery-of-139-mass-graves-near-the-border-with-thailand-with-some-graves-containing-more-than-one-body.md)
-_Context: Malaysia, Thailand_
+_Context: Malaysia, Thai_
 
 ### [Former Prime Minister of Israel Ehud Olmert is sentenced to eight months in jail following a conviction on corruption charges for unlawfully accepting multiple envelopes with cash from an American supporter. There are 3 more criminals prosecutions against him. ](/news/2015/05/25/former-prime-minister-of-israel-ehud-olmert-is-sentenced-to-eight-months-in-jail-following-a-conviction-on-corruption-charges-for-unlawfully.md)
 Former Israeli Prime Minister Ehud Olmert is sentenced to eight months in prison for fraud and breach of trust.

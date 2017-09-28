@@ -19,7 +19,7 @@ _Context: Germany, Stuttgart, Tamil, sword_
 _Context: Angola, Italy, Marburg virus, Uige_
 
 ### [ In Thailand, two bombs explode in Hat Yai and one in Songkhla. Two are dead and dozens injured. ](/news/2005/04/3/in-thailand-two-bombs-explode-in-hat-yai-and-one-in-songkhla-two-are-dead-and-dozens-injured.md)
-_Context: Hat Yai, Songkhla, Thailand_
+_Context: Hat Yai, Songkhla, Thai_
 
 ### [ WWE presents "WrestleMania 21" in Hollywood, California](/news/2005/04/3/wwe-presents-wrestlemania-21-in-hollywood-california.md)
 _Context: Hollywood, World Wrestling Entertainment, WrestleMania 21_

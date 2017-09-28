@@ -1,7 +1,7 @@
 ## [2005-08-11](/news/2005/08/11/index.md)
 
 ### [ Tens of thousands of Israelis have converged on Tel Aviv to protest the proposed removal of Israeli settlements from the Gaza Strip. ](/news/2005/08/11/tens-of-thousands-of-israelis-have-converged-on-tel-aviv-to-protest-the-proposed-removal-of-israeli-settlements-from-the-gaza-strip.md)
-_Context: Gaza, Israelis, Jewish settlement, Tel Aviv_
+_Context: Gaza, Israeli settlement, Israelis, Tel Aviv_
 
 ### [ Scientists at the German Primate Centre and the University of Gttingen announce the discovery of two new species of lemur, "Mirza zaza" and "Microcebus lehilahytsara". ](/news/2005/08/11/scientists-at-the-german-primate-centre-and-the-university-of-gottingen-announce-the-discovery-of-two-new-species-of-lemur-mirza-zaza-an.md)
 _Context: Microcebus lehilahytsara, Mirza zaza_
@@ -13,7 +13,7 @@ _Context: Babur missile, Pakistan, cruise missile_
 _Context: John Garang, Salva Kiir, Sudan, Vice President, inauguration_
 
 ### [ Abortion in Ireland: Three Irish women are taking the Government of Ireland to the European Court of Human Rights to challenge Ireland's constitutional ban on Abortion. ](/news/2005/08/11/abortion-in-ireland-three-irish-women-are-taking-the-government-of-ireland-to-the-european-court-of-human-rights-to-challenge-ireland-s-co.md)
-_Context: European Court of Human Rights, Government of Ireland, Irish, abortion, ban on Abortion, constitutional, women_
+_Context: Abortion in the Republic of Ireland, European Court of Human Rights, Government of Ireland, Irish, ban on Abortion, constitutional, women_
 
 ### [ Mars Reconnaissance Orbiter was scheduled to be launched at 9:00am EST (local time for launch), but the launch was scrubbed due to technical problems. ](/news/2005/08/11/mars-reconnaissance-orbiter-was-scheduled-to-be-launched-at-9-00am-est-local-time-for-launch-but-the-launch-was-scrubbed-due-to-technica.md)
 _Context: EST, Mars Reconnaissance Orbiter_

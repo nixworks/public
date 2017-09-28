@@ -7,7 +7,7 @@ _Context: Baghdad, Imam Ali Mosque, Iraq, Iyad Allawi, Mahdi Army, Muqtada al-Sa
 _Context: Colombia, Revolutionary Armed Forces of Colombia_
 
 ### [ In Dublin, Ireland the Dublin Port Tunnel excavation works were completed and the final tunnel boring machine breakthrough ceremony took place.](/news/2004/08/18/in-dublin-ireland-the-dublin-port-tunnel-excavation-works-were-completed-and-the-final-tunnel-boring-machine-breakthrough-ceremony-took-pl.md)
-_Context: Dublin, Dublin Port Tunnel, Irish, tunnel boring machine_
+_Context: Dublin, Dublin Port Tunnel, Republic of Ireland, tunnel boring machine_
 
 ## [Previous Day...](/news/2004/08/17/index.md)
 

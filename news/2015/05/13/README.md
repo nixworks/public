@@ -40,7 +40,7 @@ Government launches investigation into cause of Manila blaze which killed at lea
 _Context: Caldas Department, gold mine_
 
 ### [The Vatican concludes a treaty to recognize the Palestinian state. ](/news/2015/05/13/the-vatican-concludes-a-treaty-to-recognize-the-palestinian-state.md)
-_Context: Catholic Church, Palestinian_
+_Context: Catholic Church, State of Palestine_
 
 ### [Major General Godefroid Niyombare has declared a coup in Burundi and the establishment of a "national salvation committee". President Pierre Nkurunziza is attempting to return home from Tanzania. ](/news/2015/05/13/major-general-godefroid-niyombare-has-declared-a-coup-in-burundi-and-the-establishment-of-a-national-salvation-committee-president-pierre.md)
 A coup is launched in Burundi to try to overthrow President Pierre Nkurunziza, amid unrest over his bid to be re-elected to a third term.

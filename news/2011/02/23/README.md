@@ -10,7 +10,7 @@ Yemeni&#x20;protesters&#x20;remained&#x20;defiant&#x20;on&#x20;Wednesday&#x20;fo
 _Context: Enid Blyton_
 
 ### [Samsung releases, in South Korea, a camera that can post photos and videos directly to Facebook and YouTube. ](/news/2011/02/23/samsung-releases-in-south-korea-a-camera-that-can-post-photos-and-videos-directly-to-facebook-and-youtube.md)
-_Context: Facebook, Samsung, South Korea, Youtube_
+_Context: Facebook, Samsung, South Korea, YouTube_
 
 ### [Australian businessman Lachlan Murdoch is appointed as acting CEO of Network Ten following the sacking of Grant Blackley. ](/news/2011/02/23/australian-businessman-lachlan-murdoch-is-appointed-as-acting-ceo-of-network-ten-following-the-sacking-of-grant-blackley.md)
 _Context: Australia, Lachlan, Network Ten_
@@ -43,7 +43,7 @@ _Context: China, North Korea, United Nations Security Council, its nuclear weapo
 _Context: China, Xinjiang_
 
 ### [Thai police seize six tiger cubs at the house of a suspected weapons dealer. ](/news/2011/02/23/thai-police-seize-six-tiger-cubs-at-the-house-of-a-suspected-weapons-dealer.md)
-_Context: Thailand, tiger_
+_Context: Thai, tiger_
 
 ### [Three people are arrested in the United Kingdom in connection with an alleged attempt to blackmail Coleen Rooney, the wife of Manchester United F.C. star Wayne Rooney. ](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom-in-connection-with-an-alleged-attempt-to-blackmail-coleen-rooney-the-wife-of-manchester-uni.md)
 _Context: Coleen Rooney, Manchester United, United Kingdom, Wayne Rooney, blackmail_

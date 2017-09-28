@@ -68,7 +68,7 @@ Saudi king invites bloc leaders to Riyadh for talks aimed at breaking months of 
 _Context: Rwanda, Rwandan government_
 
 ### [Turkey lifts a two-year ban on YouTube, which was blocked due to videos insulting the country's founder Mustafa Kemal Ataturk. ](/news/2010/10/30/turkey-lifts-a-two-year-ban-on-youtube-which-was-blocked-due-to-videos-insulting-the-country-s-founder-mustafa-kemal-atata1-4rk.md)
-_Context: Mustafa Kemal Ataturk, Turkey, Youtube_
+_Context: Mustafa Kemal Ataturk, Turkey, YouTube_
 
 ### [Sweden detains two people for allegedly plotting to attack Gothenburg in an alleged "terrorist crime". ](/news/2010/10/30/sweden-detains-two-people-for-allegedly-plotting-to-attack-gothenburg-in-an-alleged-terrorist-crime.md)
 Two people remain in detention in connection with alleged attack plot in Gothenburg.

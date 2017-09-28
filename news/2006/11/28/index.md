@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Pope Benedict XVI, Turkey_
 
 ### [ The Thai Government lifts martial law in 41 of the country's 76 provinces as recommended by coup leader Sonthi Boonyaratglin. ](/news/2006/11/28/the-thai-government-lifts-martial-law-in-41-of-the-country-s-76-provinces-as-recommended-by-coup-leader-sonthi-boonyaratglin.md)
-_Context: Sonthi Boonyaratglin, Thailand, coup, martial law_
+_Context: Sonthi Boonyaratglin, Thai, coup, martial law_
 
 ### [ Nuclear envoys from North Korea, China and the United States meet to discuss North Korea's nuclear program. ](/news/2006/11/28/nuclear-envoys-from-north-korea-china-and-the-united-states-meet-to-discuss-north-korea-s-nuclear-program.md)
 _Context: China, North Korea, United States_

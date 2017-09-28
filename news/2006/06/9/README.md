@@ -13,7 +13,7 @@ _Context: FIFA World Cup Stadium Munich, defending champion_
 _Context: Bristol, Broadmead, United Kingdom, World War II_
 
 ### [ Celebrations for Thailand's King Rama IX's Diamond Jubilee begins.](/news/2006/06/9/celebrations-for-thailand-s-king-rama-ix-s-diamond-jubilee-begins.md)
-_Context: Diamond Jubilee, King Rama IX, Thailand_
+_Context: Diamond Jubilee, King Rama IX, Thai_
 
 ## [Previous Day...](/news/2006/06/8/index.md)
 

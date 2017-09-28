@@ -13,7 +13,7 @@ _Context: Klas Ostergren, Swedish Academy, Ulf Linde, seat No. 11_
 _Context: 2013-14 Australian bushfire season, Hazelwood Power Station, Morwell, Victoria_
 
 ### [At least fifteen children are killed in a school bus crash in Thailand's Prachinburi Province. ](/news/2014/02/28/at-least-fifteen-children-are-killed-in-a-school-bus-crash-in-thailand-s-prachinburi-province.md)
-_Context: Prachinburi Province, Thailand_
+_Context: Prachinburi Province, Thai_
 
 ### [British spree killer Joanne Dennehy is given a whole life sentence for three murders and two attempted murders committed in 2013. ](/news/2014/02/28/british-spree-killer-joanne-dennehy-is-given-a-whole-life-sentence-for-three-murders-and-two-attempted-murders-committed-in-2013.md)
 Triple killer Joanne Dennehy is handed a whole-life sentence by a judge, who said she was &quot;cruel, calculating and manipulative&quot;.

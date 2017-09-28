@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Jewish settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-jewish-settlement-of-har-adar.md) _Context: West Bank_
+1. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Israeli settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-israeli-settlement-of-har-ada.md) _Context: West Bank_
 2. [Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. ](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.md) _Context: West Bank_
 3. [UNESCO declares the old city of Hebron and the Cave of the Patriarchs, both in the West Bank, as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-both-in-the-west-bank-as-world-heritage-sites.md) _Context: West Bank_
 4. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: West Bank_

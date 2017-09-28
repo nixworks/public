@@ -19,7 +19,7 @@ _Context: Italy, Palermo_
 Shanghai, China &#8211; Several people were reportedly injured when a shark tank on the first floor of a shopping center suddenly burst. Customers standing near the
 
 ### [Following the recent death of Savita Halappanavar the Irish government is to introduce legislation to clarify the Republic of Ireland's abortion laws, giving doctors clear guidelines on procedures where the mother's life is at risk. ](/news/2012/12/18/following-the-recent-death-of-savita-halappanavar-the-irish-government-is-to-introduce-legislation-to-clarify-the-republic-of-ireland-s-abor.md)
-_Context: Government of Ireland, Irish, abortion, abortion scandal_
+_Context: Abortion in the Republic of Ireland, Government of Ireland, Republic of Ireland, abortion scandal_
 
 ### [The High Court of England and Wales rules that a seven-year-old boy with a brain tumour should undergo surgery against his mother's wishes. ](/news/2012/12/18/the-high-court-of-england-and-wales-rules-that-a-seven-year-old-boy-with-a-brain-tumour-should-undergo-surgery-against-his-mother-s-wishes.md)
 _Context: High Court of England and Wales, brain tumour_

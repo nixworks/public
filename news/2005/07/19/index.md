@@ -22,7 +22,7 @@ _Context: Adrienne Clarkson, Bill C-38, Canadian Senate, Governor General, Royal
 _Context: India, Manmohan Singh, Prime Minister, US Congress, United States_
 
 ### [ In Thailand, dozens of newspapers editors of Thai Journalist's Association protest against new emergency laws that include media censorship and phone tapping ](/news/2005/07/19/in-thailand-dozens-of-newspapers-editors-of-thai-journalist-s-association-protest-against-new-emergency-laws-that-include-media-censorship.md)
-_Context: Thai Journalist's Association, Thailand, censorship, mass media, phone tapping_
+_Context: Thai, Thai Journalist's Association, censorship, mass media, phone tapping_
 
 ### [ UK court sentences Afghan warlord Faryadi Sarwar Zardad for 20 years in jail for war crimes ](/news/2005/07/19/uk-court-sentences-afghan-warlord-faryadi-sarwar-zardad-for-20-years-in-jail-for-war-crimes.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

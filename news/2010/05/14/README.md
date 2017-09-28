@@ -4,7 +4,7 @@
 Suicide bombers target game in northern town of Tal Afar, leaving at least 25 dead.
 
 ### [Death toll rises to at least 8 and up to 121 injured as anti-government protests escalate in Thailand during a day of violence sparked by yesterday's shooting of a key figure, Khattiya Sawasdipol, of the Red Shirt protesters. ](/news/2010/05/14/death-toll-rises-to-at-least-8-and-up-to-121-injured-as-anti-government-protests-escalate-in-thailand-during-a-day-of-violence-sparked-by-ye.md)
-_Context: Khattiya Sawasdipol, Thailand, red shirt_
+_Context: Khattiya Sawasdipol, Thai, red shirt_
 
 ### [At least one person is killed and 42 injured as live ammunition is fired during clashes between interim government supporters and backers of ousted president Kurmanbek Bakiyev in southern Kyrgyzstan. ](/news/2010/05/14/at-least-one-person-is-killed-and-42-injured-as-live-ammunition-is-fired-during-clashes-between-interim-government-supporters-and-backers-of.md)
 _Context: Kurmanbek Bakiyev, Kyrgyzstan_

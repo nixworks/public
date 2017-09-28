@@ -22,7 +22,7 @@ An aide to Palestinian President Mahmoud Abbas said on Thursday that Egypt has i
 _Context: Iran, Kuwait_
 
 ### [ Deposed Prime Minister of Thailand Thaksin Shinawatra is ordered to return to Thailand to face charges in an asset-concealment case. ](/news/2007/06/21/deposed-prime-minister-of-thailand-thaksin-shinawatra-is-ordered-to-return-to-thailand-to-face-charges-in-an-asset-concealment-case.md)
-_Context: Prime Minister, Thailand, Thaksin Shinawatra_
+_Context: Prime Minister, Thai, Thaksin Shinawatra_
 
 ### [ Japan changes the name of Iwo Jima to its original name, Iwo To, to reflect the wishes of its original inhabitants. ](/news/2007/06/21/japan-changes-the-name-of-iwo-jima-to-its-original-name-iwo-to-to-reflect-the-wishes-of-its-original-inhabitants.md)
 _Context: Iwo Jima, Iwo To, Japan_

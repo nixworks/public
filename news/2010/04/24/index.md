@@ -10,7 +10,7 @@ _Context: Fernando Lugo, Paraguay, Paraguayan People's Army, Paraguayan Presiden
 _Context: Mississippi, tornado_
 
 ### [Prime Minister Abhisit Vejjajiva of Thailand rejects protester demands to dissolve the Parliament within 30 days. ](/news/2010/04/24/prime-minister-abhisit-vejjajiva-of-thailand-rejects-protester-demands-to-dissolve-the-parliament-within-30-days.md)
-_Context: 2010 Thai political protests, Abhisit Vejjajiva, Parliament, Prime Minister, Thailand_
+_Context: 2010 Thai political protests, Abhisit Vejjajiva, Parliament, Prime Minister, Thai_
 
 ### [A strong earthquake measuring 6.1 strikes in the Maluku Islands north of Ambon Island. ](/news/2010/04/24/a-strong-earthquake-measuring-6-1-strikes-in-the-maluku-islands-north-of-ambon-island.md)
 _Context: Ambon Island, Maluku Islands_

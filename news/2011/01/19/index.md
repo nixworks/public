@@ -25,7 +25,7 @@ _Context: American Samoa, smoking_
 _Context: Barack Obama, Hu Jintao, White House, official ceremony_
 
 ### [Palestine calls for the "immediate, full lifting of the Israeli blockade" and "the sustained opening of Gaza's border crossings for the movement of persons and goods." during a debate at the UN Security Council.](/news/2011/01/19/palestine-calls-for-the-immediate-full-lifting-of-the-israeli-blockade-and-the-sustained-opening-of-gaza-s-border-crossings-for-the-move.md)
-_Context: Israeli blockade, Palestinian, UN Security Council_
+_Context: Israeli blockade, State of Palestine, UN Security Council_
 
 ### [Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/former-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of-breaching-switz.md)
 Swiss police re-arrest ex-banker Rudolf Elmer over the passing of data to WikiLeaks, hours after he was found guilty of breaching a secrecy law.

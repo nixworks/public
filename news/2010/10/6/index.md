@@ -7,7 +7,7 @@ _Context: Miramshah, Pakistan, drones launch_
 _Context: Azmat Khel, Bannu, Pakistan_
 
 ### [Thai authorities accuse the anti-government red shirts of being behind a bomb blast in the capital Bangkok that killed at least three people. ](/news/2010/10/6/thai-authorities-accuse-the-anti-government-red-shirts-of-being-behind-a-bomb-blast-in-the-capital-bangkok-that-killed-at-least-three-people.md)
-_Context: Bangkok, Thailand, United Front for Democracy Against Dictatorship_
+_Context: Bangkok, Thai, United Front for Democracy Against Dictatorship_
 
 ### [Gunmen torch up to 40 oil tanker trucks carrying fuel for NATO forces in Afghanistan in Quetta and Nowshera, Pakistan and kill a truck driver. The Tehreek-e-Taliban claimed responsibility for that and other attacks. This was the sixth attack on convoys taking supplies to Afghanistan since Pakistan closed a key border crossing almost a week ago. ](/news/2010/10/6/gunmen-torch-up-to-40-oil-tanker-trucks-carrying-fuel-for-nato-forces-in-afghanistan-in-quetta-and-nowshera-pakistan-and-kill-a-truck-drive.md)
 The U.S. apologized Wednesday for a recent helicopter attack that killed two Pakistani soldiers at an outpost near the Afghan border, saying American pilots mistook the soldiers for insurgents they were pursuing.

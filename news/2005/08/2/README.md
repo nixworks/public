@@ -13,7 +13,7 @@ _Context: Jean Schmidt, Ohio's Second District, Paul Hackett_
 _Context: Air France Flight 358, Toronto Pearson International Airport, landing, runway_
 
 ### [ Anti-disengagement protesters rally in Sderot. The organizers said the crowd numbered 50,000, but police estimated the figure between 10,000 and 15,000. Some 18,000 troops and 12,000 police are involved in preventing protesters from getting to the Gush Katif Israeli settlement on the Gaza Strip. ](/news/2005/08/2/anti-disengagement-protesters-rally-in-sderot-the-organizers-said-the-crowd-numbered-50-000-but-police-estimated-the-figure-between-10-00.md)
-_Context: Gaza, Gush Katif, Jewish settlement, Sderot, disengagement_
+_Context: Gaza, Gush Katif, Israeli settlement, Sderot, disengagement_
 
 ### [ Scientists at Stanford University have used nanotechnology to kill cancer cells without harming healthy tissue. ](/news/2005/08/2/scientists-at-stanford-university-have-used-nanotechnology-to-kill-cancer-cells-without-harming-healthy-tissue.md)
 _Context: Stanford University, cancer, cells, nanotechnology, tissue_

@@ -40,7 +40,7 @@ An Egyptian property tycoon, who was sentenced to death for murdering his former
 _Context: Almere, Geert Wilders, Party for Freedom, The Hague_
 
 ### [The brother of Sinn Fein's Gerry Adams, detained under a European arrest warrant, is released on bail after surrendering to the Garda Siochana in Ireland. ](/news/2010/03/4/the-brother-of-sinn-fa-c-in-s-gerry-adams-detained-under-a-european-arrest-warrant-is-released-on-bail-after-surrendering-to-the-garda-saoc.md)
-_Context: Gerry Adams, Irish, Sinn Fein, police officer_
+_Context: Gerry Adams, Republic of Ireland, Sinn Fein, police officer_
 
 ### [The family of kidnapped boy Sahil Saeed ask that he be returned home safely. ](/news/2010/03/4/the-family-of-kidnapped-boy-sahil-saeed-ask-that-he-be-returned-home-safely.md)
 _Context: Sahil Saeed_

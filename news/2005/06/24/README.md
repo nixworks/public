@@ -33,7 +33,7 @@ _Context: Bihar, India, Indian state, Maoist, police_
 _Context: Israeli-Palestinian conflict_
 
 ### [ Palestinian militants kill an Israeli in drive-by shooting near the Israeli settlement of Beit Haggai, in the West Bank outside Hebron. ](/news/2005/06/24/palestinian-militants-kill-an-israeli-in-drive-by-shooting-near-the-israeli-settlement-of-beit-haggai-in-the-west-bank-outside-hebron.md)
-_Context: Beit Haggai, Hebron, Jewish settlement, West Bank, drive-by shooting_
+_Context: Beit Haggai, Hebron, Israeli settlement, West Bank, drive-by shooting_
 
 ### [ Palestinian Authority arrests eight Palestinians in connection with the previous day's killing of a Palestinian policeman, accusing Said Amin of the Al-Aqsa Martyrs' Brigades of leading the killers. ](/news/2005/06/24/palestinian-authority-arrests-eight-palestinians-in-connection-with-the-previous-day-s-killing-of-a-palestinian-policeman-accusing-said-am.md)
 _Context: Al-Aqsa Martyrs' Brigades, Palestinian Authority_

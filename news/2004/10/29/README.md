@@ -19,7 +19,7 @@ _Context: King of Cambodia, Norodom Sihamoni_
 _Context: Ahmed Qurei, Mahmoud Abbas, Palestine Liberation Organization's, Palestinian Authority, Paris, Yasser Arafat_
 
 ### [ Two bombings occur in southern Thailand, in the wake of clashes between minority Muslim protesters and Thai soldiers in which about 80 protesters were suffocated while being transported to detention camps. ](/news/2004/10/29/two-bombings-occur-in-southern-thailand-in-the-wake-of-clashes-between-minority-muslim-protesters-and-thai-soldiers-in-which-about-80-prot.md)
-_Context: Thailand_
+_Context: Thai_
 
 ### [ A Johns Hopkins University study, published in the British medical journal the "Lancet," estimates that an additional 100,000 civilian deaths have occurred since the 2003 invasion of Iraq. However, the study has a significant margin of error&mdash;the actual figure predicted by the study is anywhere from 8,000 to 194,000 excess deaths. ](/news/2004/10/29/a-johns-hopkins-university-study-published-in-the-british-medical-journal-the-lancet-estimates-that-an-additional-100-000-civilian-deat.md)
 _Context: 2003 invasion of Iraq, Johns Hopkins University, The Lancet, civilian_
