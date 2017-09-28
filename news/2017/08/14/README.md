@@ -39,5 +39,8 @@ California is joining two localities already suing over the policy change the Tr
 ### [Several internet companies, such as domain registrar GoDaddy and video game chat application Discord, shut down services for neo-Nazi, white supremacist, alt-right website "The Daily Stormer" for violation of terms of service, and in response to this weekend's violence in Charlottesville, Virginia. ](/news/2017/08/14/several-internet-companies-such-as-domain-registrar-godaddy-and-video-game-chat-application-discord-shut-down-services-for-neo-nazi-white.md)
 The internet has long been a gathering place for white supremacists. But in the wake of the Virginia attack, some are reconsidering their willingness to host hate
 
+### [LIGO and Virgo observatories detect the gravitational wave signal from two merging black holes. ](/news/2017/08/14/ligo-and-virgo-observatories-detect-the-gravitational-wave-signal-from-two-merging-black-holes.md)
+In August, detectors on two continents recorded gravitational wave signals from a pair of black holes colliding. This discovery, announced today, is the first observation of gravitational waves by three different detectors, marking a new era of greater insights and improved localization of cosmic ev...
+
 ## [Previous Day...](/news/2017/08/13/index.md)
 
