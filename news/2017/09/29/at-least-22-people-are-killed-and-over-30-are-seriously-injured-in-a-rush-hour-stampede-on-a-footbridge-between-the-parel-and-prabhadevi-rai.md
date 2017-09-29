@@ -1,6 +1,6 @@
 ### [2017-09-29](/news/2017/09/29/index.md)
 
-# At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Prabhadevi railway stations in the Indian city of Mumbai 
+# At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Prabhadevi railway stations in the Indian city of Mumbai. 
 
 Twenty-two were killed and over 30 seriously injured in a rush-hour stampede in Mumbai this morning, when a crowd tried to leave a narrow railway bridge connecting two stations after heavy rain. Heart-wrenching visuals showed a crush of bodies on the bridge, straining against the railing. Screams were heard from those trying to escape the weight of the bodies and some were seen jumping off the bridge.
 
