@@ -13,10 +13,10 @@ The decision comes as pressure mounts after a decisive “Yes” vote in an inde
 _Context: Cuba-United States relations, FBI, U.S. State Department, personnel, sonic attacks_
 
 ### [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-ge.md)
-_Context: Henry Bolton, Paul Nuttall, UKIP leadership election, 2017, last general election_
+_Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election, 2017, last general election_
 
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
-_Context: Secretary of Health and Human Services, Tom Price, Trump Administration_
+_Context: Presidency of Donald Trump, Secretary of Health and Human Services, Tom Price_
 
 ### [DNA surgery on embryos removes disease beta-thalassemia. ](/news/2017/09/29/dna-surgery-on-embryos-removes-disease-beta-thalassemia.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
@@ -30,7 +30,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2017/09/28/index.md)
 
 ### [Whole Foods Market, recently acquired by Amazon, announces hacking of payment card information from some of its stores. ](/news/2017/09/28/whole-foods-market-recently-acquired-by-amazon-announces-hacking-of-payment-card-information-from-some-of-its-stores.md)
-_Context: Amazon, Whole Foods Market, hacking_
+_Context: Amazon, Credit card fraud, Whole Foods Market, hacking_
 
 ### [U.S. President Donald Trump waives the Jones Act for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. ](/news/2017/09/28/u-s-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-industry-business.md)
 The Jones Act was waived for Texas and Florida in the wake of hurricanes Harvey and Irma.
