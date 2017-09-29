@@ -1,5 +1,8 @@
 ## [2017-09-28](/news/2017/09/28/index.md)
 
+### [Whole Foods Market, recently acquired by Amazon, announces hacking of payment card information from some of its stores. ](/news/2017/09/28/whole-foods-market-recently-acquired-by-amazon-announces-hacking-of-payment-card-information-from-some-of-its-stores.md)
+_Context: Amazon, Whole Foods Market, hacking_
+
 ### [U.S. President Donald Trump waives the Jones Act for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. ](/news/2017/09/28/u-s-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-industry-business.md)
 The Jones Act was waived for Texas and Florida in the wake of hurricanes Harvey and Irma.
 
