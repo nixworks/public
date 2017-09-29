@@ -6,6 +6,9 @@ The Jones Act was waived for Texas and Florida in the wake of hurricanes Harvey 
 ### [More than 134,000 people on the island of Bali, Indonesia, have been taken to shelters as the Mount Agung volcano continues to release smoke. The alert level for an eruption has been raised to the second highest level, 4. In addition, the entire population of Vanuatu's Aoba Island, also at alert level 4, is being moved from the path of the increasingly active Lombenben volcano. ](/news/2017/09/28/more-than-134-000-people-on-the-island-of-bali-indonesia-have-been-taken-to-shelters-as-the-mount-agung-volcano-continues-to-release-smoke.md)
 AS BALI’S Mt Agung volcano continues to rumble ominously and more than 96,000 people evacuate to shelters, the locals are blaming tourists for angering the ancient mountain.
 
+### [At least 14 Rohingya people, including 10 children, fleeing violence in Myanmar are killed when their boat apparently hits a submerged object and capsizes just yards from the Bangladesh coast. ](/news/2017/09/28/at-least-14-rohingya-people-including-10-children-fleeing-violence-in-myanmar-are-killed-when-their-boat-apparently-hits-a-submerged-objec.md)
+_Context: Bangladesh, Myanmar, Rohingya people, Rohingya refugee crisis_
+
 ### [Prime Minister Shinzo Abe dissolves the lower house of parliament prior to the October 22 election. ](/news/2017/09/28/prime-minister-shinza-abe-dissolves-the-lower-house-of-parliament-prior-to-the-october-22-election.md)
 Japan’s opposition forces appeared set to consolidate around Tokyo Governor Yuriko Koike, whose new political group narrowed a gap in opinion polls with Prime Minister Shinzo Abe’s ruling party weeks ahead of a general election.
 
