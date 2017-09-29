@@ -9,8 +9,8 @@ Twenty-two were killed and over 30 seriously injured in a rush-hour stampede in 
 ### [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md)
 The decision comes as pressure mounts after a decisive “Yes” vote in an independence referendum.
 
-### [The U.S. State Department removes all families of employees and nonessential personnel from Cuba following apparent sonic attacks that injured 21 personnel on the island. Cuba denies any involvement and has authorized the F.B.I. to travel to the island to help the ongoing investigation into the causes. ](/news/2017/09/29/the-u-s-state-department-removes-all-families-of-employees-and-nonessential-personnel-from-cuba-following-apparent-sonic-attacks-that-injur.md)
-_Context: Cuba-United States relations, F.B.I., U.S. State Department, personnel, sonic attacks_
+### [The U.S. State Department removes all families of employees and nonessential personnel from Cuba following apparent sonic attacks that injured 21 personnel on the island. Cuba denies any involvement and has authorized the FBI to travel to the island to help the ongoing investigation into the causes. ](/news/2017/09/29/the-u-s-state-department-removes-all-families-of-employees-and-nonessential-personnel-from-cuba-following-apparent-sonic-attacks-that-injur.md)
+_Context: Cuba-United States relations, FBI, U.S. State Department, personnel, sonic attacks_
 
 ### [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-ge.md)
 _Context: Henry Bolton, Paul Nuttall, UKIP leadership election, 2017, last general election_
@@ -57,8 +57,8 @@ _Context: Christian, Idlib, Russia, Syrian Civil War_
 ### [Russia announces it has completed the destruction of all of its chemical weapons under the terms of the Chemical Weapons Convention. ](/news/2017/09/27/russia-announces-it-has-completed-the-destruction-of-all-of-its-chemical-weapons-under-the-terms-of-the-chemical-weapons-convention.md)
 Presiding over the weapons’ destruction, President Vladimir V. Putin suggested that Washington was playing a devious double game.
 
-### [Thirty thousand people are evacuated in Ukraine following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-in-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-government-of-ukr.md)
-_Context: Government of Ukraine, Kiev, Ukraine_
+### [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md)
+_Context: 2017 Kalynivka munitions explosion, Government of Ukraine, Kalynivka, Kiev, Ukraine_
 
 ### [Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. ](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.md)
 Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
