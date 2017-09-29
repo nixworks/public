@@ -65,7 +65,7 @@ A Greek court suspends a government order to close state broadcaster ERT - a mov
 _Context: 2013 protests in Brazil, Brasilia, National Congress_
 
 ### [Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month. ](/news/2013/06/18/several-federal-officials-including-national-security-agency-nsa-director-keith-alexander-testify-at-a-hearing-held-by-the-u-s-house-in.md)
-_Context: House Intelligence Committee, Keith Alexander, National Security Agency, United States House of Representatives_
+_Context: House of Representatives Intelligence Committee, Keith Alexander, National Security Agency, United States House of Representatives_
 
 ### [Montreal mayor Michael Applebaum resigns following fraud and corruption charges; he had replaced Gerald Tremblay who resigned because of similar allegations. ](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.md)
 Montreal Mayor Michael Applebaum has resigned in the wake of corruption charges being laid against him, although he maintains he is innocent.

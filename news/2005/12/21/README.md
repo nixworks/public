@@ -10,7 +10,7 @@ _Context: Supreme Court of Canada, swingers clubs_
 _Context: Bloemfontein, South Africa, robbery, tigers_
 
 ### [ A bomb explodes near a nightclub in Spain, but no one is hurt. The Basque separatist movement ETA claims responsibility. ](/news/2005/12/21/a-bomb-explodes-near-a-nightclub-in-spain-but-no-one-is-hurt-the-basque-separatist-movement-eta-claims-responsibility.md)
-_Context: Basque, ETA, Spanish, separatist_
+_Context: Basque, ETA, Spain, separatist_
 
 ### [ The U.S. Senate blocks oil drilling in the Arctic National Wildlife Refuge. [http://www.cnn.com/2005/POLITICS/12/21/arctic.drilling.ap/index.html (CNN)] (Link dead as of 00:49, 15 January 2007 (UTC))](/news/2005/12/21/the-u-s-senate-blocks-oil-drilling-in-the-arctic-national-wildlife-refuge-http-www-cnn-com-2005-politics-12-21-arctic-drilling-ap-inde.md)
 _Context: Arctic National Wildlife Refuge, U.S. Senate, oil drilling_

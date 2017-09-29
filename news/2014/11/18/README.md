@@ -7,7 +7,7 @@ _Context: Kabul, suicide bombing_
 Two Palestinians armed with a gun and meat cleavers kill four worshippers at a Jerusalem synagogue, before being shot dead.
 
 ### [UNESCO declares the Rizal Monument in Manila, Machu Picchu of Peru, Camino de Santiago of Spain, and the Dampier Archipelago of Australia as World Heritage Sites in Danger. ](/news/2014/11/18/unesco-declares-the-rizal-monument-in-manila-machu-picchu-of-peru-camino-de-santiago-of-spain-and-the-dampier-archipelago-of-australia-as.md)
-_Context: Australia, Camino de Santiago, Dampier Archipelago, Machu Picchu, Manila, Peru, Rizal Monument, Spanish, UNESCO, World heritage sites, in Danger_
+_Context: Australia, Camino de Santiago, Dampier Archipelago, Machu Picchu, Manila, Peru, Rizal Monument, Spain, UNESCO, World heritage sites, in Danger_
 
 ### [South Korea launches a new National Safety Agency with more than 10,000 staff to replace the Korea Coast Guard, blamed by President Park Geun-hye for a poor response to the sinking of the MV Sewol. ](/news/2014/11/18/south-korea-launches-a-new-national-safety-agency-with-more-than-10-000-staff-to-replace-the-korea-coast-guard-blamed-by-president-park-geu.md)
 South Korea launches a massive new government agency this week to handle emergency rescue and safety management seven months after a ferry disaster killed 304 people and was blamed by President Park Geun-hye on a failed response by the coast guard.

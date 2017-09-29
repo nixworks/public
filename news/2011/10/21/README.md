@@ -10,7 +10,7 @@ _Context: Barack Obama, Iraq, U.S. President_
 _Context: Verizon Communications_
 
 ### [The Government of Japan announces a $157 billion additional budget to cover the costs of recovering from March's earthquake and tsunami. ](/news/2011/10/21/the-government-of-japan-announces-a-157-billion-additional-budget-to-cover-the-costs-of-recovering-from-march-s-earthquake-and-tsunami.md)
-_Context: Japanese government, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japanese government_
 
 ### [Gunmen kill three people near Freeport-McMoRan's gold and copper mine in Indonesia's Papua province. ](/news/2011/10/21/gunmen-kill-three-people-near-freeport-mcmoran-s-gold-and-copper-mine-in-indonesia-s-papua-province.md)
 _Context: Freeport-McMoRan, Grasberg mine, Indonesia, Papua_

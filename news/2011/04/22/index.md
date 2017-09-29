@@ -34,7 +34,7 @@ At least three people are killed and more are missing after a landslide destroye
 Children in Somalia are suffering some of the highest malnutrition rates in the world, says the United Nations, following years of drought.
 
 ### [Japan's government announces a 4 trillion yen emergency budget to deal with the earthquake and tsunami that devastated the country last month. ](/news/2011/04/22/japan-s-government-announces-a-4-trillion-yen-emergency-budget-to-deal-with-the-earthquake-and-tsunami-that-devastated-the-country-last-mont.md)
-_Context: Japan, an earthquake and tsunami, yen_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, yen_
 
 ### [France calls for changes to the Schengen Agreement after Italy allows people from Tunisia and Libya into the passport-free Schengen Area. ](/news/2011/04/22/france-calls-for-changes-to-the-schengen-agreement-after-italy-allows-people-from-tunisia-and-libya-into-the-passport-free-schengen-area.md)
 _Context: Libya, Schengen Agreement, Tunisia, free travel_

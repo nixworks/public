@@ -14,7 +14,7 @@ The principality of Monaco celebrates the wedding of ruler Prince Albert to Sout
 _Context: Bank of Moscow, Russian Central Bank, asset, bailout_
 
 ### [A Bank of Japan survey shows that business confidence has fallen markedly since the 2011 Tohoku earthquake and tsunami. ](/news/2011/07/1/a-bank-of-japan-survey-shows-that-business-confidence-has-fallen-markedly-since-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Bank of Japan, an earthquake and tsunami, business confidence_
+_Context: 2011 Tohoku earthquake and tsunami, Bank of Japan, business confidence_
 
 ### [Manufacturing activity in the People's Republic of China is at its lowest level in more than two years after three successive months of falls indicating a continued slowdown. ](/news/2011/07/1/manufacturing-activity-in-the-people-s-republic-of-china-is-at-its-lowest-level-in-more-than-two-years-after-three-successive-months-of-fall.md)
 _Context: China_

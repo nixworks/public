@@ -10,7 +10,7 @@ Libyan leader Moammar Gadhafi gave a live audio address early Monday, urging sup
 A barrage of attacks struck Monday across Iraq, killing at least 84 people and wounding more than 200, said officials, who likened the attacks to another outbreak last year.
 
 ### [Japan's economy shrinks by 0.3% in the April-June quarter confirming the country is in a recession caused in part by the 2011 Tohoku earthquake and tsunami and subsequent Fukushima Daiichi nuclear disaster. ](/news/2011/08/15/japan-s-economy-shrinks-by-0-3-in-the-april-june-quarter-confirming-the-country-is-in-a-recession-caused-in-part-by-the-2011-tahoku-earthq.md)
-_Context: Fukushima Daiichi nuclear disaster, Japan, Japanese economy, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Fukushima Daiichi nuclear disaster, Japan, Japanese economy_
 
 ### [Authorities in the north-eastern Chinese city of Dalian order a petrochemical plant, which produces paraxylene (PX), to be shut down and relocated, after tens of thousands of local residents protested through the streets on Sunday, fearing potential pollution. The protests resembled to a similar case, when citizens went on a protest "stroll" in the southeastern city of Xiamen in June 2007. ](/news/2011/08/15/authorities-in-the-north-eastern-chinese-city-of-dalian-order-a-petrochemical-plant-which-produces-paraxylene-px-to-be-shut-down-and-rel.md)
 A protest in China shows the complications of the country&#39;s successes and failures

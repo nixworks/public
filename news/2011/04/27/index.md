@@ -40,7 +40,7 @@ _Context: Johnson & Johnson, Synthes_
 _Context: European Central Bank, France, Jean-Claude Trichet, Mario Draghi, Nicolas Sarkozy, President, President of France_
 
 ### [Emperor of Japan Akihito and Empress Michiko visit areas worst-affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/27/emperor-of-japan-akihito-and-empress-michiko-visit-areas-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Akihito, Emperor, Empress Michiko, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Akihito, Emperor, Empress Michiko_
 
 ### [A train overturns on the Alishan Forest Railway near the town of Alishan in Taiwan resulting in at least five deaths and forty injuries. ](/news/2011/04/27/a-train-overturns-on-the-alishan-forest-railway-near-the-town-of-alishan-in-taiwan-resulting-in-at-least-five-deaths-and-forty-injuries.md)
 _Context: Alishan, Alishan Forest Railway, Taiwan_

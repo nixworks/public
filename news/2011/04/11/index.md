@@ -31,7 +31,7 @@ _Context: Intel, former codename "Oak Trail") Atom processor, netbook, tablets_
 _Context: Highland Capital, Lyondell, UBS AG, contract_
 
 ### [Over 14,000 people are still missing in Japan, a month after the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/11/over-14-000-people-are-still-missing-in-japan-a-month-after-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan_
 
 ### [The President of the Tokyo Electric Power Co. visits the government offices of Fukushima Prefecture and the command centre for the Fukushima I nuclear accidents to apologise. ](/news/2011/04/11/the-president-of-the-tokyo-electric-power-co-visits-the-government-offices-of-fukushima-prefecture-and-the-command-centre-for-the-fukushima.md)
 _Context: Fukushima I nuclear accidents, Fukushima Prefecture, Tokyo Electric Power Co._

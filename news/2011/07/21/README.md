@@ -16,10 +16,10 @@ _Context: Abdoulaye Wade, Dakar, President, Senegal_
 Lee Child, who is behind the best-selling Jack Reacher series, wins the novel of the year award at the Harrogate Crime Writing Festival.
 
 ### [Euro zone leaders secure a EUR109 billion bailout for Greece with the country going into default for a short period, but with increased powers for the main European rescue fund to assist countries that have not been bailed out, such as Spain and Italy. ](/news/2011/07/21/euro-zone-leaders-secure-a-a-109-billion-bailout-for-greece-with-the-country-going-into-default-for-a-short-period-but-with-increased-powe.md)
-_Context: Euro zone, Greek, Italy, Spanish_
+_Context: Euro zone, Greek, Italy, Spain_
 
 ### [The Government of Japan publishes a reconstruction plan for areas devastated by the 2011 Tohoku earthquake and tsunami. ](/news/2011/07/21/the-government-of-japan-publishes-a-reconstruction-plan-for-areas-devastated-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japanese government, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japanese government_
 
 ### [Two dozen people have died this week in a heat wave in the United States. ](/news/2011/07/21/two-dozen-people-have-died-this-week-in-a-heat-wave-in-the-united-states.md)
 A blistering band of heat that has killed two dozen people this week is expected to push temperatures in the Northeast toward 100 degrees on Friday.

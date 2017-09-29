@@ -31,13 +31,13 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Spanish parliament rejects an appeal from the Basque regional government for more autonomy and a referendum for eventual independence. ](/news/2005/02/2/the-spanish-parliament-rejects-an-appeal-from-the-basque-regional-government-for-more-autonomy-and-a-referendum-for-eventual-independence.md)
-_Context: Basque, Spanish, autonomy, independent, referendum_
+_Context: Basque, Spain, autonomy, independent, referendum_
 
 ### [ The parliament of Slovenia ratifies the European Union Constitution. ](/news/2005/02/2/the-parliament-of-slovenia-ratifies-the-european-union-constitution.md)
 _Context: European Union Constitution, Slovenia_
 
 ### [ In Japan, the first of the former residents of the island of Miyakejima return to the homes they left after a volcanic eruption in 2000. ](/news/2005/02/2/in-japan-the-first-of-the-former-residents-of-the-island-of-miyakejima-return-to-the-homes-they-left-after-a-volcanic-eruption-in-2000.md)
-_Context: 2000, Japan, Miyakejima, erupt_
+_Context: 2000, Japan, Miyakejima, eruption_
 
 ## [Previous Day...](/news/2005/02/1/index.md)
 

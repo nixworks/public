@@ -22,7 +22,7 @@ _Context: Afghan National Army, Camp Phoenix, Kabul, suicide bomber_
 _Context: County Tyrone, Enda Kenny, Northern Ireland, Omagh, Omagh bombing, Republic of Ireland, Taoiseach_
 
 ### [Prime Minister of Japan Naoto Kan visits the areas of the country worst affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Naoto Kan, Prime Minister of Japan, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Naoto Kan, Prime Minister of Japan_
 
 ### [Tepco confirms radioactive water has been (and still is) leaking into the sea from a crack at the malfunctioning Fukushima nuclear plant. ](/news/2011/04/2/tepco-confirms-radioactive-water-has-been-and-still-is-leaking-into-the-sea-from-a-crack-at-the-malfunctioning-fukushima-nuclear-plant.md)
 _Context: Tokyo Electric Power Company_

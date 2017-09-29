@@ -49,7 +49,7 @@ _Context: Changchun, Kim Jong-il, North Korea_
 Budget shortages have forced the World Food Program to cut rations for those receiving food aid in Somalia, the organization said.
 
 ### [The Premier of China, Wen Jiabao, and the President of South Korea, Lee Myung-bak, visit areas of northern Japan devastated by the 2011 Tohoku earthquake and tsunami, ahead of a trilateral summit tomorrow. ](/news/2011/05/21/the-premier-of-china-wen-jiabao-and-the-president-of-south-korea-lee-myung-bak-visit-areas-of-northern-japan-devastated-by-the-2011-tah.md)
-_Context: Lee Myung-bak, Wen Jiabao, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Lee Myung-bak, Wen Jiabao_
 
 ### [Hundreds of Twitter users post the name of an English Premier League footballer who won a superinjunction to stop details of his affair going public, in protest at the player's attempts to sue the social networking site. ](/news/2011/05/21/hundreds-of-twitter-users-post-the-name-of-an-english-premier-league-footballer-who-won-a-superinjunction-to-stop-details-of-his-affair-goin.md)
 _Context: English Premier League, Twitter, superinjunction_

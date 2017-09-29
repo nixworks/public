@@ -25,7 +25,7 @@ _Context: Athanase Seromba, International Criminal Tribunal for Rwanda, Roman Ca
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Infanta Leonor of Spain, second in the succession line to the Spanish throne, is born in Madrid at 01:46 AM, local time. ](/news/2005/10/31/infanta-leonor-of-spain-second-in-the-succession-line-to-the-spanish-throne-is-born-in-madrid-at-01-46-am-local-time.md)
-_Context: Infanta Leonor, Madrid, Spanish, succession line to the Spanish throne_
+_Context: Infanta Leonor, Madrid, Spain, succession line to the Spanish throne_
 
 ### [ Exiled GAM leader, Bakhtiar Abdullah, visits the Indonesian special territory of Aceh for the first time in 25 years to see the peace process aimed at ending nearly three decades of conflict. ](/news/2005/10/31/exiled-gam-leader-bakhtiar-abdullah-visits-the-indonesian-special-territory-of-aceh-for-the-first-time-in-25-years-to-see-the-peace-proce.md)
 _Context: Aceh, Bakhtiar Abdullah, GAM, Indonesia_

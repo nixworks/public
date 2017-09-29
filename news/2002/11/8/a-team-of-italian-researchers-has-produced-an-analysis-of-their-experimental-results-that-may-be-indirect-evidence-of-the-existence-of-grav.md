@@ -7,4 +7,5 @@
 
 ### Related:
 
-1. [Scientists confirm a second detection of gravitational waves by LIGO. ](/news/2016/06/15/scientists-confirm-a-second-detection-of-gravitational-waves-by-ligo.md) _Context: gravitational wave_
+1. [LIGO and Virgo observatories detect the gravitational wave signal from two merging black holes. ](/news/2017/08/14/ligo-and-virgo-observatories-detect-the-gravitational-wave-signal-from-two-merging-black-holes.md) _Context: gravitational wave_
+2. [Scientists confirm a second detection of gravitational waves by LIGO. ](/news/2016/06/15/scientists-confirm-a-second-detection-of-gravitational-waves-by-ligo.md) _Context: gravitational wave_

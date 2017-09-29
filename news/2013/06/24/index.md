@@ -16,7 +16,7 @@ _Context: Fisher v. University of Texas, United States Supreme Court_
 _Context: Italian Prime Minister, Silvio Berlusconi, found guilty_
 
 ### [According to reports in Catalonia, Argentine football star Lionel Messi has paid EUR10 million in Spanish back taxes for 2010 and 2011, and is looking to settle a claimed tax liability of EUR4.1 million for the 2007-2009 period that is the subject of a current investigation. ](/news/2013/06/24/according-to-reports-in-catalonia-argentine-football-star-lionel-messi-has-paid-a-10-million-in-spanish-back-taxes-for-2010-and-2011-and.md)
-_Context: Argentina, Catalan, Lionel Messi, Spanish, association football_
+_Context: Argentina, Catalonia, Lionel Messi, Spain, association football_
 
 ## [Previous Day...](/news/2013/06/23/index.md)
 

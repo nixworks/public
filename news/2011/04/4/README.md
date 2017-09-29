@@ -40,7 +40,7 @@ A three-panel oil painting by artist Zhang Xiaogang sells for 79m Hong Kong doll
 _Context: Charlene, Princess of Monaco, Prince Albert II of Monaco, Rhodesia, Roman Catholicism_
 
 ### [The Bank of Japan releases its Quarterly Tankan survey of business sentiment confirming that the recent 2011 Tohoku earthquake and tsunami has had a negative effect on business confidence. ](/news/2011/04/4/the-bank-of-japan-releases-its-quarterly-tankan-survey-of-business-sentiment-confirming-that-the-recent-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Bank of Japan, Quarterly Tankan survey of business sentiment, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Bank of Japan, Quarterly Tankan survey of business sentiment_
 
 ### [It is reported that China has succeeded in genetically modifying cows to produce "human" milk. ](/news/2011/04/4/it-is-reported-that-china-has-succeeded-in-genetically-modifying-cows-to-produce-human-milk.md)
 ### [A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/a-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md)

@@ -1,7 +1,7 @@
 ## [2009-03-1](/news/2009/03/1/index.md)
 
 ### [ The Basque Nationalist Party wins a plurality of seats in Spain's Basque Country's parliamentary elections. ](/news/2009/03/1/the-basque-nationalist-party-wins-a-plurality-of-seats-in-spain-s-basque-country-s-parliamentary-elections.md)
-_Context: Basque, Basque Nationalist Party, Spanish, parliamentary elections, plurality_
+_Context: Basque, Basque Nationalist Party, Spain, parliamentary elections, plurality_
 
 ### [ Canada's Samuel Lunenfeld Research Institute discovers a new method to create embryonic-like stem cells that could cure spinal-cord injuries and Parkinson's disease. ](/news/2009/03/1/canada-s-samuel-lunenfeld-research-institute-discovers-a-new-method-to-create-embryonic-like-stem-cells-that-could-cure-spinal-cord-injurie.md)
 _Context: Canada, Parkinson's-like, Samuel Lunenfeld Research Institute, embryonic stem cell, spinal-cord injuries_

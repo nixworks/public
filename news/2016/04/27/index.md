@@ -13,7 +13,7 @@ Israeli police shot dead a Palestinian woman and her teenage brother on Wednesda
 _Context: 2016 Armenian-Azerbaijani clashes, Azerbaijan, Nagorno-Karabakh_
 
 ### [Representatives of the Russian-backed Donetsk People's Republic in Eastern Ukraine say at least five civilians are killed by artillery fire at a checkpoint in the town of Olenivka, with another 10 injured. Kiev denies the accusation. A local border-guard spokesman says there was an explosion at the checkpoint but he saw no artillery fired from either side, suggesting the blast could have been a bomb. ](/news/2016/04/27/representatives-of-the-russian-backed-donetsk-people-s-republic-in-eastern-ukraine-say-at-least-five-civilians-are-killed-by-artillery-fire.md)
-_Context: Donetsk People's Republic, Eastern Ukraine, Kiev, Russia, War in Donbass_
+_Context: Donetsk People's Republic, Eastern Ukraine, Government of Ukraine, Russia, War in Donbass_
 
 ### [The U.S. military warns that the Kabul Attack Network, comprised of fighters from various jihadist groups such as the Taliban and Haqqani networks, is planning attacks on people in the Parwan, Khost, Kabul, and Logar Provinces, Afghanistan, and asks for information from the Afghan public. ](/news/2016/04/27/the-u-s-military-warns-that-the-kabul-attack-network-comprised-of-fighters-from-various-jihadist-groups-such-as-the-taliban-and-haqqani-ne.md)
 The US military made an unusual public plea for information yesterday in its hunt for eight members of a terrorist network which is plotting attacks in four provinces in eastern Afghanistan. The organization, known as the Kabul Attack Network, is comprised of fighters from various jihadist groups op...

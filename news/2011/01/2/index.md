@@ -40,7 +40,7 @@ _Context: Israel, Palestinian Arab_
 IT was a bad New Year Day for some over 1,000 Nigerian pilgrims performing the 2010 pilgrimage to the holy land in Israel as the Israeli authority on Saturday shut its border against those entering the country from Egypt over a bomb scare which turned to be a false alarm.
 
 ### [Strict new anti-smoking legislation comes into effect in Spain. ](/news/2011/01/2/strict-new-anti-smoking-legislation-comes-into-effect-in-spain.md)
-_Context: Spanish, smoking ban_
+_Context: Spain, smoking ban_
 
 ### [US President Barack Obama signs the 9/11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-to.md)
 The $4.3 billion measure to aid rescue workers sickened after the 2001 terrorist attack required the president’s signature before he returned from a Hawaii vacation.

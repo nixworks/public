@@ -28,7 +28,7 @@ A struggle to plug a gush of tainted water appeared to fall short as the radiati
 A struggle to plug a gush of tainted water appeared to fall short as the radiation threat spread.
 
 ### [The official death toll from the 2011 Tohoku earthquake and tsunami passes 12,000 with over 15,000 people missing. ](/news/2011/04/3/the-official-death-toll-from-the-2011-tahoku-earthquake-and-tsunami-passes-12-000-with-over-15-000-people-missing.md)
-_Context: an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami_
 
 ### [The wreckage of Air France Flight 447, which crashed in June 2009, killing 228 people, is found in the Atlantic Ocean. ](/news/2011/04/3/the-wreckage-of-air-france-flight-447-which-crashed-in-june-2009-killing-228-people-is-found-in-the-atlantic-ocean.md)
 Wreckage from an Air France passenger jet lost over the Atlantic in 2009 has been found, French investigators announce.

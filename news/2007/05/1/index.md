@@ -13,7 +13,7 @@ _Context: CEO, Dow Jones, News Corporation, Rupert Murdoch, US$, Wall Street Jou
 _Context: Constitutional Court of Turkey, July elections, Turkish Parliament_
 
 ### [ At least three people die after an explosion in an apartment building in Palencia, Spain. ](/news/2007/05/1/at-least-three-people-die-after-an-explosion-in-an-apartment-building-in-palencia-spain.md)
-_Context: Palencia, Spanish, apartment_
+_Context: Palencia, Spain, apartment_
 
 ### [ Police arrest 30 alleged animal rights extremists in raids in the United Kingdom, Belgium and the Netherlands. ](/news/2007/05/1/police-arrest-30-alleged-animal-rights-extremists-in-raids-in-the-united-kingdom-belgium-and-the-netherlands.md)
 _Context: Belgium, Dutch, United Kingdom, animal rights, police_

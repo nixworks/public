@@ -28,7 +28,7 @@ _Context: Botswana, civil service_
 International Monetary Fund head Dominique Strauss-Kahn resigns following an alleged sexual assault of a hotel maid in New York.
 
 ### [The Japanese economy officially goes into recession, in part due to the effects of the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/19/the-japanese-economy-officially-goes-into-recession-in-part-due-to-the-effects-of-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japanese economy, an earthquake and tsunami, recession_
+_Context: 2011 Tohoku earthquake and tsunami, Japanese economy, recession_
 
 ### [John Malone's Liberty Media makes a USD $1 billion bid for bookseller Barnes & Noble. ](/news/2011/05/19/john-malone-s-liberty-media-makes-a-usd-1-billion-bid-for-bookseller-barnes-noble.md)
 _Context: $, Barnes & Noble, John Malone, Liberty Media_

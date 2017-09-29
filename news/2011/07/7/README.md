@@ -16,7 +16,7 @@ The United States took complete charge of Kandahar Thursday, formally ending ove
 _Context: Karachi, Pakistan_
 
 ### [Japanese automaker Toyota announces plans to fully restore production from the 2011 Tohoku earthquake and tsunami in October, one month earlier than previously announced. ](/news/2011/07/7/japanese-automaker-toyota-announces-plans-to-fully-restore-production-from-the-2011-tahoku-earthquake-and-tsunami-in-october-one-month-ear.md)
-_Context: Japan, Toyota, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, Toyota_
 
 ### [Australia's Civil Aviation Safety Authority applies to extend grounding of Tiger Airways services in Australia to August 1. ](/news/2011/07/7/australia-s-civil-aviation-safety-authority-applies-to-extend-grounding-of-tiger-airways-services-in-australia-to-august-1.md)
 _Context: Australia, Civil Aviation Safety Authority, Tiger Airways_

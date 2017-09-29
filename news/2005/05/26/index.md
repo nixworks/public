@@ -43,7 +43,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Spanish court imprisons Arnaldo Otegi, head of Herri Batasuna party in the Basque region for having links to ETA. Batasuna claims that the move undermines peace efforts. Otegi is in prison pending ?400.000 bail. ](/news/2005/05/26/spanish-court-imprisons-arnaldo-otegi-head-of-herri-batasuna-party-in-the-basque-region-for-having-links-to-eta-batasuna-claims-that-the.md)
-_Context: Arnaldo Otegi, Basque, ETA, Herri Batasuna, Spanish, bail_
+_Context: Arnaldo Otegi, Basque, ETA, Herri Batasuna, Spain, bail_
 
 ### [ French authorities arrest Chechen named Bislan Ismailov suspected for complicity in the murder of Theo van Gogh ](/news/2005/05/26/french-authorities-arrest-chechen-named-bislan-ismailov-suspected-for-complicity-in-the-murder-of-theo-van-gogh.md)
 _Context: Bislan Ismailov, Chechen, France, Theo van Gogh_

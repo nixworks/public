@@ -43,7 +43,7 @@ _Context: DC police, District of Columbia, United States Secret Service_
 Former oil tycoon says order to have him arrested in absentia over alleged murders shows that Russian authorities have ‘gone mad’
 
 ### [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md)
-_Context: Mariano Rajoy, Pedro Sanchez, People's Party, Prime Minister, Socialist Workers' Party, Spanish, election_
+_Context: Mariano Rajoy, Pedro Sanchez, People's Party, Prime Minister, Socialist Workers' Party, Spain, election_
 
 ### [ Prime Minister of Georgia Irakli Garibashvili unexpectedly announces his resignation, without giving any specific reason for his decision. ](/news/2015/12/23/prime-minister-of-georgia-irakli-garibashvili-unexpectedly-announces-his-resignation-without-giving-any-specific-reason-for-his-decision.md)
 _Context: Irakli Garibashvili, Prime Minister of Georgia_

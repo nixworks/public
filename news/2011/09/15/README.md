@@ -1,7 +1,7 @@
 ## [2011-09-15](/news/2011/09/15/index.md)
 
 ### [Japanese automaker Toyota resumes full production at its North American plants, having finally overcome parts shortages caused by the March 2011 Tohoku earthquake and tsunami. ](/news/2011/09/15/japanese-automaker-toyota-resumes-full-production-at-its-north-american-plants-having-finally-overcome-parts-shortages-caused-by-the-march.md)
-_Context: Japan, North America, Toyota, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, North America, Toyota_
 
 ### [A contract between the North American automaker Chrysler and the United Auto Workers expires at midnight while negotiations continue between the union and General Motors. ](/news/2011/09/15/a-contract-between-the-north-american-automaker-chrysler-and-the-united-auto-workers-expires-at-midnight-while-negotiations-continue-between.md)
 _Context: Chrysler, General Motors, North America, United Auto Workers_

@@ -16,7 +16,7 @@ _Context: Rostov-on-Don, Russia, bus crash_
 _Context: Indonesia, Indonesian presidential election, President of Indonesia, Susilo Bambang Yudhoyono_
 
 ### [ Wildfires in the north east of Spain claim the lives of six firefighters in that region. ](/news/2009/07/24/wildfires-in-the-north-east-of-spain-claim-the-lives-of-six-firefighters-in-that-region.md)
-_Context: A line of wildfires, Spanish_
+_Context: A line of wildfires, Spain_
 
 ### [ The trial of Burmese National League for Democracy General Secretary Aung San Suu Kyi nears its end. ](/news/2009/07/24/the-trial-of-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-nears-its-end.md)
 Prosecution given extra time to compile final arguments against Nobel prize winner.

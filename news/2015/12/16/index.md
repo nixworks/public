@@ -19,7 +19,7 @@ By Andrew M. Seaman(Reuters Health) - Offering the families of children with app
 _Context: Cuba, Cuba-United States relations, United States, charter flights, commercial flights_
 
 ### [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabilit.md)
-_Context: Kiev, NATO_
+_Context: Government of Ukraine, NATO_
 
 ### [The United States announces a deal to sell $1.83 billion worth of arms to Taiwan, which includes two decommissioned U.S. Navy frigates, Assault Amphibious Vehicles, and surface-to-air missiles. China has also expressed its disapproval over the deal, claiming it would affect their internal affairs. ](/news/2015/12/16/the-united-states-announces-a-deal-to-sell-1-83-billion-worth-of-arms-to-taiwan-which-includes-two-decommissioned-u-s-navy-frigates-assa.md)
 The Obama administration has announced a $1.83bn (£1.22bn) arms sale to Taiwan, in a deal that China says it &quot;strongly opposes&quot;.

@@ -19,7 +19,7 @@ Thousands of Spaniards vow to remain camping in central Madrid, two weeks after 
 Germany says all of its nuclear power plants will be shut by 2022 in the wake of the Fukushima crisis in Japan, reversing an earlier policy.
 
 ### [The Development Bank of Japan announces plans to establish a 50 billion yen fund to assist auto parts manufacturers hurt by the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/30/the-development-bank-of-japan-announces-plans-to-establish-a-50-billion-yen-fund-to-assist-auto-parts-manufacturers-hurt-by-the-2011-tahoku.md)
-_Context: Development Bank of Japan, an earthquake and tsunami, yen_
+_Context: 2011 Tohoku earthquake and tsunami, Development Bank of Japan, yen_
 
 ### [The death toll from an "E. coli" outbreak in Germany rises to 14 as it spreads to other parts of northern Europe. ](/news/2011/05/30/the-death-toll-from-an-e-coli-outbreak-in-germany-rises-to-14-as-it-spreads-to-other-parts-of-northern-europe.md)
 An E. coli outbreak that has killed 14 people and made more than 300 seriously ill in Germany has spread to other north European countries and is expected to worsen in the coming week.

@@ -43,7 +43,7 @@ One of the largest leaks in Alberta history has spilled about five million litre
 _Context: Aurora movie theater massacre, James Eagan Holmes, University of Colorado, legal insanity, neuroscience_
 
 ### [Japan's lower house of parliament passes a pair of bills changing the country's security laws, allowing Japanese soldiers to fight overseas for the first time since the end of World War II under certain conditions, over strong protests from opposition lawmakers, who walked out of the vote.](/news/2015/07/16/japan-s-lower-house-of-parliament-passes-a-pair-of-bills-changing-the-country-s-security-laws-allowing-japanese-soldiers-to-fight-overseas.md)
-_Context: Japan, World War II, lower house of parliament, military_
+_Context: Japan, World War II, military, the lower house of parliament_
 
 ## [Previous Day...](/news/2015/07/15/index.md)
 

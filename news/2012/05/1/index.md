@@ -25,7 +25,7 @@ U.S. stocks rose solidly Tuesday as investors welcomed a rise in U.S. manufactur
 Tens of thousands of people take to the streets across the globe, protesting against job cuts and austerity measures.
 
 ### [April car sales in Japan rise by 92% year-over-year, a gain partially realized due to low sales in the wake of last year's earthquake and tsunami. ](/news/2012/05/1/april-car-sales-in-japan-rise-by-92-year-over-year-a-gain-partially-realized-due-to-low-sales-in-the-wake-of-last-year-s-earthquake-and-ts.md)
-_Context: Japan, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan_
 
 ### [U.S. President Barack Obama visits Afghanistan on an unannounced visit coinciding with the first anniversary of Osama Bin Laden's assassination by the U.S. Special Forces in Pakistan, signing an agreement with Afghan President Hamid Karzai outlining a continuing U.S. role in Afghanistan after 2014. ](/news/2012/05/1/u-s-president-barack-obama-visits-afghanistan-on-an-unannounced-visit-coinciding-with-the-first-anniversary-of-osama-bin-laden-s-assassinat.md)
 _Context: Afghanistan, Hamid Karzai, Osama bin Laden, Pakistan, father's killing, previous administration_

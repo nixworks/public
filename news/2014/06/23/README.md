@@ -16,7 +16,7 @@ An explosion hits a college in the northern Nigerian city of Kano, killing at le
 Kenyan fighter jets bomb the al-Qaeda-linked al-Shabab group in Somalia, killing more than 80 of its fighters, the African Union (AU) says.
 
 ### [Pro-Russian insurgents agree to a ceasefire proposed by the Government of Ukraine. ](/news/2014/06/23/pro-russian-insurgents-agree-to-a-ceasefire-proposed-by-the-government-of-ukraine.md)
-_Context: 2014 pro-Russian conflict in Ukraine, Kiev_
+_Context: 2014 pro-Russian conflict in Ukraine, Government of Ukraine_
 
 ### [Denmark proper (not counting Greenland) gets its first natural UNESCO World Heritage Sites, in addition to its three cultural sites, as Stevns Klint and the Danish parts of the Wadden Sea are inscribed on the UNESCO list. ](/news/2014/06/23/denmark-proper-not-counting-greenland-gets-its-first-natural-unesco-world-heritage-sites-in-addition-to-its-three-cultural-sites-as-stev.md)
 Doha,&#x20;23&#x20;June&#x20;&amp;ndash&#x3b;&#x20;The&#x20;World&#x20;Heritage&#x20;Committee&#x20;this&#x20;morning&#x20;inscribed&#x20;properties&#x20;in&#x20;the&#x20;Russian&#x20;Federation,&#x20;Costa&#x20;Rica,&#x20;Viet&#x20;Nam,&#x20;India,&#x20;Philippines&#x20;and&#x20;Denmark&#x20;on&#x2...

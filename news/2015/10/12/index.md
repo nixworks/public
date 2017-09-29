@@ -19,7 +19,7 @@ US computer giant Dell agrees a deal to buy data storage company EMC for $67bn -
 The European Union accuses Russia of putting peace efforts at risk in Syria.
 
 ### [The government of Ukraine bans all Russian airlines from flying into Ukraine from October 25 in response to Moscow's decision in September to impose a similar ban on Ukrainian airlines. ](/news/2015/10/12/the-government-of-ukraine-bans-all-russian-airlines-from-flying-into-ukraine-from-october-25-in-response-to-moscow-s-decision-in-september-t.md)
-_Context: Kiev_
+_Context: Government of Ukraine_
 
 ### [Iranian State television reports that court spokesman Gholam-Hossein Mohseni-Eje'i clarified the Iranian-American reporter's verdict -- "Washington Post's" Jason Rezaian was convicted in a closed-door espionage trial that ended two months ago. Details remain unknown. Rezaian faced four charges; it's not clear whether he was convicted of all charges nor what sentence was imposed. Leila Ahsan, Rezaian's lawyer, also had not received the verdict as of Sunday. Post executive editor Martin Baron says they will appeal. ](/news/2015/10/12/iranian-state-television-reports-that-court-spokesman-gholam-hossein-mohseni-eje-i-clarified-the-iranian-american-reporter-s-verdict-was.md)
 Rezaian was arrested in Tehran with his wife in July 2014 and was tried by a Revolutionary Court on espionage and other charges.

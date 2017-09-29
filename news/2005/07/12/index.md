@@ -19,7 +19,7 @@ _Context: Sellapan Ramanathan, Singapore_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Spain, a bomb explosion in Barcelona injures a policeman. ](/news/2005/07/12/in-spain-a-bomb-explosion-in-barcelona-injures-a-policeman.md)
-_Context: Barcelona, Spanish_
+_Context: Barcelona, Spain_
 
 ### [ The European Court supports tighter controls over vitamin and mineral supplements. ](/news/2005/07/12/the-european-court-supports-tighter-controls-over-vitamin-and-mineral-supplements.md)
 _Context: European Court of Justice, vitamin_
@@ -46,7 +46,7 @@ _Context: Costa Rica, San Jose, Costa Rica_
 _Context: Insein Prison, Khin Nyunt, Myanmar, Yangon, anti-corruption, bribes_
 
 ### [ In Spain's Basque region, four bombs explode near a power station at Amorebieta near Bilbao. Separatist group ETA claims responsibility ](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.md)
-_Context: Amorebieta, Basque, Bilbao, ETA, Spanish, power station_
+_Context: Amorebieta, Basque, Bilbao, ETA, Spain, power station_
 
 ### [ In Somalia, United Nations World Food Programme threatens to stop food shipments to the country for ten years if the hijacked food ship and its crew are not released ](/news/2005/07/12/in-somalia-united-nations-world-food-programme-threatens-to-stop-food-shipments-to-the-country-for-ten-years-if-the-hijacked-food-ship-and.md)
 _Context: Somalia, United Nations, World Food Programme_

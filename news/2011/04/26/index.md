@@ -43,7 +43,7 @@ Turkey starts demolishing a statue dedicated to reconciliation with Armenia, des
 Sarkozy and Berlusconi call on EU to change the Schengen treaty following row over mass immigration from north Africa.
 
 ### [Iranian first vice president Mohammad-Reza Rahimi meets with Japanese ambassador to Iran Kinichi Kumano, with Rahimi expressing sympathy in relation to the recent earthquake and tsunami and asking for stronger ties between the countries. ](/news/2011/04/26/iranian-first-vice-president-mohammad-reza-rahimi-meets-with-japanese-ambassador-to-iran-kinichi-kumano-with-rahimi-expressing-sympathy-in.md)
-_Context: Mohammad Reza Rahimi, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Mohammad Reza Rahimi_
 
 ### [Officials from China and the United States agree to engage in dialogue over their respective economies. ](/news/2011/04/26/officials-from-china-and-the-united-states-agree-to-engage-in-dialogue-over-their-respective-economies.md)
 In a reversal of the usual roles played by rich and poor countries, China will be pressing the US to clean house.

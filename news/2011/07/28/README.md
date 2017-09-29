@@ -16,7 +16,7 @@ Taliban bomb and gun attacks on an official&#039;s compound and a militia base i
 Swiss bank Credit Suisse CSGN.VX is cutting about 2,000 jobs after weak trading activity and the strong Swiss franc hit second-quarter results.
 
 ### [Japanese electronics company Sony reduces sales and profit forecasts due to the 2011 Tohoku earthquake and tsunami, a computer hacking attack and slowing demand in the US and Europe. ](/news/2011/07/28/japanese-electronics-company-sony-reduces-sales-and-profit-forecasts-due-to-the-2011-tahoku-earthquake-and-tsunami-a-computer-hacking-atta.md)
-_Context: Japan, Sony, an earthquake and tsunami, hackers_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, Sony, hackers_
 
 ### [Asiana Airlines Flight 991 crashes in the Pacific Ocean, near Jeju Island, South Korea, killing 2 onboard. ](/news/2011/07/28/asiana-airlines-flight-991-crashes-in-the-pacific-ocean-near-jeju-island-south-korea-killing-2-onboard.md)
 _Context: Asiana Airlines Flight 991, Jeju Island, Pacific Ocean, South Korea_

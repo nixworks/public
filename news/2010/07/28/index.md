@@ -37,7 +37,7 @@ _Context: Grand National Party, National Assembly of South Korea, South Korea, b
 California Governor Arnold Schwarzenegger has declared a fiscal state of emergency, requiring most state employees to take three days of unpaid leave per month until a new budget is enacted.
 
 ### [The Spanish autonomous community of Catalonia bans bullfighting, the first region on the mainland to do so. ](/news/2010/07/28/the-spanish-autonomous-community-of-catalonia-bans-bullfighting-the-first-region-on-the-mainland-to-do-so.md)
-_Context: Bullfighting, Catalan, Spanish, autonomous community_
+_Context: Bullfighting, Catalonia, Spain, autonomous community_
 
 ## [Previous Day...](/news/2010/07/27/index.md)
 

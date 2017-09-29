@@ -43,7 +43,7 @@ _Context: IC3_
 _Context: Beninese, Cape Verde, Cote d'Ivoire, Laurent Gbagbo, President, Sierra Leone_
 
 ### [Spain and Russia each expel two diplomats on suspicion of spying in a tit-for-tat row. ](/news/2010/12/28/spain-and-russia-each-expel-two-diplomats-on-suspicion-of-spying-in-a-tit-for-tat-row.md)
-_Context: Russia, Spanish_
+_Context: Russia, Spain_
 
 ### [A Chinese investigative reporter known for reporting on sensitive issues dies after being attacked by six men. ](/news/2010/12/28/a-chinese-investigative-reporter-known-for-reporting-on-sensitive-issues-dies-after-being-attacked-by-six-men.md)
 _Context: China_

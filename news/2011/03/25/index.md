@@ -25,7 +25,7 @@ _Context: Apple Inc., International Trade Commission, Kodak, Research in Motion,
 _Context: China, Zhejiang, lead_
 
 ### [Japan's National Police Agency states that the official death toll from the 2011 Tohoku earthquake and tsunami has passed 10,000 with 17,053 missing. ](/news/2011/03/25/japan-s-national-police-agency-states-that-the-official-death-toll-from-the-2011-tahoku-earthquake-and-tsunami-has-passed-10-000-with-17-05.md)
-_Context: Japan, an earthquake and tsunami, police_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, police_
 
 ### [Japanese officials raise concerns that the core of unit 3 at the Fukushima I Nuclear Power Plant may be damaged. ](/news/2011/03/25/japanese-officials-raise-concerns-that-the-core-of-unit-3-at-the-fukushima-i-nuclear-power-plant-may-be-damaged.md)
 Officials suggest that people living from 12 to 19 miles outside the Fukushima Daiichi nuclear plant should leave, as new signs emerged that it will be hard to bring the plant under control.

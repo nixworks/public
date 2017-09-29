@@ -1,7 +1,7 @@
 ## [2014-05-27](/news/2014/05/27/index.md)
 
 ### [At least thirty pro-Russian separatists have died in fighting over control of Donetsk International Airport; the Ukrainian government claims to have total control of the airport following the clashes with the separatists. ](/news/2014/05/27/at-least-thirty-pro-russian-separatists-have-died-in-fighting-over-control-of-donetsk-international-airport-the-ukrainian-government-claims.md)
-_Context: Donetsk International Airport, Kiev, Russia_
+_Context: Donetsk International Airport, Government of Ukraine, Russia_
 
 ### [Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/eleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-finding-mission-are-atta.md)
 A convoy of chemical weapons inspectors and UN staff that was travelling to a site of an alleged chlorine gas attack in Syria comes under attack.

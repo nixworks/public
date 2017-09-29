@@ -7,7 +7,7 @@ Curfew enforced, several dead and hundreds injured as security forces use tanks 
 _Context: Gaza, Israeli Air Force, Izz ad-Din al-Qassam Brigades, Sdot Negev Regional Council_
 
 ### [Japan's Nikkei 225 improves by six per cent as concerns over the 2011 Tohoku earthquake and tsunami on the economy are reduced. ](/news/2011/03/16/japan-s-nikkei-225-improves-by-six-per-cent-as-concerns-over-the-2011-tahoku-earthquake-and-tsunami-on-the-economy-are-reduced.md)
-_Context: Japan, Japanese economy, Nikkei 225, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, Japanese economy, Nikkei 225_
 
 ### [The Japanese yen reaches a postwar high against the United States dollar on the basis that Japanese insurers will redeem overseas assets to pay for the cost of the Tohoku earthquake and tsunami. ](/news/2011/03/16/the-japanese-yen-reaches-a-postwar-high-against-the-united-states-dollar-on-the-basis-that-japanese-insurers-will-redeem-overseas-assets-to.md)
 _Context: US$, yen_
@@ -16,7 +16,7 @@ _Context: US$, yen_
 Operators of a quake-crippled nuclear plant in Japan said they would try again on Thursday to use military helicopters to douse overheating reactors, as U.S. officials warned of a rising risk of a catastrophic radiation leak from spent fuel rods.
 
 ### [The death toll from the Japanese earthquake and tsunami rises to 4,277 with at least 8,194 missing. ](/news/2011/03/16/the-death-toll-from-the-japanese-earthquake-and-tsunami-rises-to-4-277-with-at-least-8-194-missing.md)
-_Context: an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami_
 
 ### [Police in Cambodia ask prosecutors to charge recruitment firm T&P with illegally detaining its staff. ](/news/2011/03/16/police-in-cambodia-ask-prosecutors-to-charge-recruitment-firm-t-p-with-illegally-detaining-its-staff.md)
 Cambodian police ask prosecutors to charge a recruitment firm with illegally detaining its staff, after one woman died and another was injured at its training centre.

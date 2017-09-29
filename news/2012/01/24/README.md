@@ -22,7 +22,7 @@ Apple records $46.3 billion in sales during the past quarter, which is the best 
 _Context: Mozambique_
 
 ### [Spanish judge Baltasar Garzon, who indicted the Chilean dictator Augusto Pinochet in 1998, is put on trial for supposedly overstepping his powers after he tried to investigate the disappearance of 114,000 people between 1936 and 1975 during the reign of Francisco Franco. ](/news/2012/01/24/spanish-judge-baltasar-garza3n-who-indicted-the-chilean-dictator-augusto-pinochet-in-1998-is-put-on-trial-for-supposedly-overstepping-his.md)
-_Context: Augusto Pinochet, Baltasar Garzon, Franco, Spanish_
+_Context: Augusto Pinochet, Baltasar Garzon, Franco, Spain_
 
 ### [United States President Barack Obama presents his 2012 State of the Union Address to the United States Congress. ](/news/2012/01/24/united-states-president-barack-obama-presents-his-2012-state-of-the-union-address-to-the-united-states-congress.md)
 _Context: 2012 State of the Union Address, Barack Obama, U.S. President, United States Congress_

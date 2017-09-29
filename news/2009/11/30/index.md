@@ -16,7 +16,7 @@ _Context: China, Chu Bo, Fujian, Hebei, Henan, Hu Chunhua, Inner Mongolia, Lu Zh
 _Context: Azerbaijan, Baku, Caucasus, Dagestan, Russia, Tyumen_
 
 ### [ Three Spanish aid workers are kidnapped in northern Mauritania, after they became separated from an aid convoy. ](/news/2009/11/30/three-spanish-aid-workers-are-kidnapped-in-northern-mauritania-after-they-became-separated-from-an-aid-convoy.md)
-_Context: Mauritanian, Spanish_
+_Context: Mauritanian, Spain_
 
 ### [ Former rebel leader Agathon Rwasa, of the National Liberation Forces in Burundi, is selected as a candidate in next year's presidential election. ](/news/2009/11/30/former-rebel-leader-agathon-rwasa-of-the-national-liberation-forces-in-burundi-is-selected-as-a-candidate-in-next-year-s-presidential-ele.md)
 _Context: Agathon Rwasa, Burundi, National Liberation Forces_

@@ -19,7 +19,7 @@ Slovenia began erecting a razor wire fence along parts of its border with Croati
 _Context: Ai Baojun, Anti-corruption campaign in China, Central Commission for Discipline Inspection, Deputy Communist Party Secretary, Lu Xiwen_
 
 ### [The Constitutional Court of Spain agrees to hear an appeal by the national government against a bid for independence by Catalonia suspending legal bids for secession. ](/news/2015/11/11/the-constitutional-court-of-spain-agrees-to-hear-an-appeal-by-the-national-government-against-a-bid-for-independence-by-catalonia-suspending.md)
-_Context: Catalan, Constitutional Court of Spain, national government, secession_
+_Context: Catalonia, Constitutional Court of Spain, national government, secession_
 
 ### [Three aircraft, a Southwest Airlines 737, a Virgin America A319, and a private plane, were all struck by a laser coming from the same direction as they were about to land at Dallas's Love Field, according to the U.S. FAA. ](/news/2015/11/11/three-aircraft-a-southwest-airlines-737-a-virgin-america-a319-and-a-private-plane-were-all-struck-by-a-laser-coming-from-the-same-direct.md)
 Three airplanes were hit by a laser coming from the same direction as they were inbound to a Dallas airport, the FAA said on Wednesday.

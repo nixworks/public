@@ -4,7 +4,7 @@
 _Context: AIDS, GLAAD, MSNBC, Michael Savage, conservative, gay, gay rights, talk show_
 
 ### [ Thousands of people take part in the first bull run of the annual San Fermn festival in Pamplona, Spain. No serious injuries or gorings were reported. ](/news/2003/07/7/thousands-of-people-take-part-in-the-first-bull-run-of-the-annual-san-fermin-festival-in-pamplona-spain-no-serious-injuries-or-gorings-we.md)
-_Context: Pamplona, Running of the Bulls, San Fermn, Spanish_
+_Context: Pamplona, Running of the Bulls, San Fermn, Spain_
 
 ### [ A United States district court approves a settlement between WorldCom and the U.S. Securities and Exchange Commission, in which WorldCom will pay $750&nbsp;million to investors for its accounting scandal. ](/news/2003/07/7/a-united-states-district-court-approves-a-settlement-between-worldcom-and-the-u-s-securities-and-exchange-commission-in-which-worldcom-wi.md)
 _Context: Securities and Exchange Commission, U.S. federal court, WorldCom, accounting fraud_

@@ -22,7 +22,7 @@ Most of the deceased were children who were sheltered in Naisinghpara camp in No
 Jakarta: At least 600 people have been evacuated to temporary shelters a day after Indonesian authorities issued a red alert for the Mount Karangetang...
 
 ### [Construction of temporary housing begins in the Japanese town of Rikuzentakata severely damaged in the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/19/construction-of-temporary-housing-begins-in-the-japanese-town-of-rikuzentakata-severely-damaged-in-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, Rikuzentakata, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, Rikuzentakata_
 
 ### [The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/the-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-events-scale-the-same-as-the-three.md)
 Repercussions of Japan&#39;s triple disaster came into clearer focus Monday after the World Bank said the earthquake and tsunami caused up to $235 billion in damage and health officials reported more cases of radiation-tainted vegetables and tap water.

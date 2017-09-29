@@ -70,7 +70,7 @@ _Context: Dunedin, New Zealand, South Island, South Korea, fishing boat_
 _Context: Melilla, Morocco, Ramadan_
 
 ### [Mauritania extradites a man to Mali convicted for kidnapping three Spanish aid workers believed to be held by the Al-Qaeda Organization in the Islamic Maghreb. ](/news/2010/08/18/mauritania-extradites-a-man-to-mali-convicted-for-kidnapping-three-spanish-aid-workers-believed-to-be-held-by-the-al-qaeda-organization-in-t.md)
-_Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritanian, Spanish_
+_Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritanian, Spain_
 
 ### [Russia, Afghanistan, Tajikistan and Pakistan agree to step up the fight against terrorism and narcotics in a summit in the Russian Black Sea resort of Sochi. ](/news/2010/08/18/russia-afghanistan-tajikistan-and-pakistan-agree-to-step-up-the-fight-against-terrorism-and-narcotics-in-a-summit-in-the-russian-black-sea.md)
 Russia, Afghanistan, Pakistan and Tajikistan agreed to step up joint fight against terrorism and narcotics at a quadripartite summit on Wednesday. Terrorism and drug trafficking pose a “threat to peac

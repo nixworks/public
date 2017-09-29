@@ -4,7 +4,7 @@
 Leaders and ministers from 28 countries including Australia have outlined a draft accord to fight global warming.
 
 ### [ The Catalan Parliament votes to ban bull fighting in the Spanish region. ](/news/2009/12/18/the-catalan-parliament-votes-to-ban-bull-fighting-in-the-spanish-region.md)
-_Context: Catalan, Parliament of Catalonia, Spanish, bull fighting_
+_Context: Catalonia, Parliament of Catalonia, Spain, bull fighting_
 
 ### [ Russian television news channels air repeated coverage of a UFO, shaped like a pyramid and similar to an Imperial Cruiser from "Star Wars". ](/news/2009/12/18/russian-television-news-channels-air-repeated-coverage-of-a-ufo-shaped-like-a-pyramid-and-similar-to-an-imperial-cruiser-from-star-wars.md)
 A giant pyramid which appears to be a UFO hovering over the Kremlin has caused frenzied speculation in Russia that it is an alien spacecraft.
@@ -40,7 +40,7 @@ Microblogging site Twitter went offline Friday after hackers calling themselves 
 _Context: Atlantic Ocean, The Azores, crater, meteor_
 
 ### [ Lava flows and ash explosions continue to emerge from Philippine volcano Mount Mayon while scientists predict a major eruption in the coming weeks and 30,000 people remain in temporary shelter. ](/news/2009/12/18/lava-flows-and-ash-explosions-continue-to-emerge-from-philippine-volcano-mount-mayon-while-scientists-predict-a-major-eruption-in-the-comin.md)
-_Context: Mount Mayon, Philippines, ash, erupt, lava, volcano_
+_Context: Mount Mayon, Philippines, ash, eruption, lava, volcano_
 
 ### [ In a reversal of a previous decision, Sir John Chilcot insists that former British Prime Minister Tony Blair will give the majority of his evidence to The Iraq Inquiry in public. ](/news/2009/12/18/in-a-reversal-of-a-previous-decision-sir-john-chilcot-insists-that-former-british-prime-minister-tony-blair-will-give-the-majority-of-his.md)
 _Context: Iraq Inquiry, John Chilcot, Prime Minister, Tony Blair_

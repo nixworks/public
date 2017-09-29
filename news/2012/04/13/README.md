@@ -28,7 +28,7 @@ The Prime Minister David Cameron today called for sanctions against Burma to be 
 _Context: Mongolia, Nambaryn Enkhbayar_
 
 ### [French President Nicolas Sarkozy admits he did not visit Fukushima while in Japan after last year's earthquake and tsunami, despite having previously said he had done so. ](/news/2012/04/13/french-president-nicolas-sarkozy-admits-he-did-not-visit-fukushima-while-in-japan-after-last-year-s-earthquake-and-tsunami-despite-having-p.md)
-_Context: Fukushima Daiichi Nuclear Power Plant, Japan, Nicolas Sarkozy, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Fukushima Daiichi Nuclear Power Plant, Japan, Nicolas Sarkozy_
 
 ### [Bob Brown resigns as Parliamentary Leader of the Australian Greens and from the Senate. ](/news/2012/04/13/bob-brown-resigns-as-parliamentary-leader-of-the-australian-greens-and-from-the-senate.md)
 _Context: Australian Greens, Bob Brown, Senate of Australia_

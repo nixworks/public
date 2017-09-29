@@ -31,7 +31,7 @@ _Context: Germany, Grimsvotn, Iceland, eruption, northern Europe_
 Arkansas, Oklahoma and Kansas picked up the pieces after damaging storms and tornadoes moved through Tuesday night, but national weather forecasters predicted more severe weather Wednesday evening for parts of the Ohio and Mississippi Valleys.
 
 ### [Two of the reactors damaged in the March earthquake and tsunami at the Fukushima Daiichi nuclear power plant in Japan may be riddled with holes, according to the facility's owner, Tokyo Electric Power Co. ](/news/2011/05/25/two-of-the-reactors-damaged-in-the-march-earthquake-and-tsunami-at-the-fukushima-daiichi-nuclear-power-plant-in-japan-may-be-riddled-with-ho.md)
-_Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Daiichi nuclear disaster, Japan, Tokyo Electric Power Co., an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Fukushima Daiichi Nuclear Power Plant, Fukushima Daiichi nuclear disaster, Japan, Tokyo Electric Power Co._
 
 ### [At least 12 people die after an air ambulance crashes in Faridabad, India. ](/news/2011/05/25/at-least-12-people-die-after-an-air-ambulance-crashes-in-faridabad-india.md)
 A small aircraft with 7 on board crashed into a colony in Faridabad on Wednesday, killing all on board. 3 more persons were killed on the ground. 

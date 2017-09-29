@@ -10,7 +10,7 @@ _Context: Malaysia, Malaysiakini, Sarawak_
 _Context: Aleppo, protestors_
 
 ### [Toyota closes several plants in Europe for part of April and May due to parts shortages caused by the power outages associated with the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/13/toyota-closes-several-plants-in-europe-for-part-of-april-and-may-due-to-parts-shortages-caused-by-the-power-outages-associated-with-the-2011.md)
-_Context: Europe, Toyota, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Europe, Toyota_
 
 ### [Royal Dutch Shell announces that it will close the Clyde oil refinery in Sydney, Australia, resulting in the loss of hundreds of jobs. ](/news/2011/04/13/royal-dutch-shell-announces-that-it-will-close-the-clyde-oil-refinery-in-sydney-australia-resulting-in-the-loss-of-hundreds-of-jobs.md)
 Oil giant Royal Dutch Shell looks set to stop refining oil at its Clyde refinery near Sydney, putting hundreds of jobs at risk.
@@ -19,7 +19,7 @@ Oil giant Royal Dutch Shell looks set to stop refining oil at its Clyde refinery
 Federal government to take a fresh look at oil shale development in the West
 
 ### [Japan's Sendai Airport partially reopens for the first time since the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/13/japan-s-sendai-airport-partially-reopens-for-the-first-time-since-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, Sendai Airport, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, Sendai Airport_
 
 ### [The United States requests the release of one of its citizens detained in North Korea. ](/news/2011/04/13/the-united-states-requests-the-release-of-one-of-its-citizens-detained-in-north-korea.md)
 _Context: North Korea, United States_

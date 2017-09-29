@@ -19,7 +19,7 @@ _Context: 2010-2011 Ivorian crisis, Cote d'Ivoire, Laurent Gbagbo_
 _Context: Gaza, Israel, Israel Defense Forces, Mortar, State of Palestine, air strike_
 
 ### [The World Bank predicts that the 2011 Tohoku earthquake and tsunami will cause a temporary slowdown in the Japanese economy before reconstruction has a positive economic impact. ](/news/2011/03/21/the-world-bank-predicts-that-the-2011-tahoku-earthquake-and-tsunami-will-cause-a-temporary-slowdown-in-the-japanese-economy-before-reconstr.md)
-_Context: Japanese economy, World Bank, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japanese economy, World Bank_
 
 ### [The U.S. Supreme Court declines to take an appeal from an appellate court ruling that ordered the disclosure of information about the Federal Reserve's emergency lending to banks during the 2008 financial crisis. The Supreme Court's refusal means the ruling of the court below stands. ](/news/2011/03/21/the-u-s-supreme-court-declines-to-take-an-appeal-from-an-appellate-court-ruling-that-ordered-the-disclosure-of-information-about-the-federa.md)
 The Supreme Court let stand a ruling that the U.S. Federal Reserve must disclose details about its emergency lending programs to banks during the financial crisis in 2008.

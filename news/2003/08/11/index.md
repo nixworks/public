@@ -13,7 +13,7 @@ _Context: Herb Brooks, The Miracle on Ice, ice hockey_
 _Context: Anglican, Archbishop, Bernard Malango, Botswana, Kenya, Malawi, Zambia, Zimbabwe, church, gay_
 
 ### [ European heat wave: Parisian health authorities charge that fifty people have died in Paris owing to the heat wave, particularly elderly people, and that the government is ignoring the crisis. In Catalonia, five people from one family are killed by a wildfire that encircles their home. Four villages are evacuated in the Algarve.](/news/2003/08/11/european-heat-wave-parisian-health-authorities-charge-that-fifty-people-have-died-in-paris-owing-to-the-heat-wave-particularly-elderly-pe.md)
-_Context: Algarve, Catalan, heat wave_
+_Context: Algarve, Catalonia, heat wave_
 
 ### [ Doctors in Montreal successfully deliver by Caesarean section a healthy baby who grew in an ectopic pregnancy. Such a pregnancy, which begins outside the uterus, is all but invariably fatal to the fetus and is extremely dangerous to the mother. The woman and her doctors were unaware of the ectopic pregnancy until she went into labour.](/news/2003/08/11/doctors-in-montreal-successfully-deliver-by-caesarean-section-a-healthy-baby-who-grew-in-an-ectopic-pregnancy-such-a-pregnancy-which-begi.md)
 _Context: Montreal, caesarean section, ectopic pregnancy, uterus_

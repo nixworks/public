@@ -64,7 +64,7 @@ Law enforcement officials across the country are conducting a nationwide sweep o
 _Context: Kizza Besigye, Uganda, Yoweri Museveni, elections_
 
 ### [Shimon Peres, the President of Israel, is on a four day state visit to Spain as King Juan Carlos expressed his support for the Middle East peace process. ](/news/2011/02/24/shimon-peres-the-president-of-israel-is-on-a-four-day-state-visit-to-spain-as-king-juan-carlos-expressed-his-support-for-the-middle-east-p.md)
-_Context: Israel, Juan Carlos, Shimon Peres, Spanish_
+_Context: Israel, Juan Carlos, Shimon Peres, Spain_
 
 ### [The Prime Minister of Australia Julia Gillard announces a carbon pricing scheme to start on July 1, 2012. ](/news/2011/02/24/the-prime-minister-of-australia-julia-gillard-announces-a-carbon-pricing-scheme-to-start-on-july-1-2012.md)
 A carbon price scheme will be rolled out from July 2012 with a fixed price for the first three to five years.

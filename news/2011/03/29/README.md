@@ -13,7 +13,7 @@ St. Louis Federal Reserve chief James Bullard urged the U.S. central bank on Tue
 _Context: Converteam, GE Energy_
 
 ### [Around 4,000 bodies of people who died in the 2011 Tohoku earthquake and tsunami in Iwate Prefecture, Miyagi Prefecture and Fukushima Prefecture remain unidentified. ](/news/2011/03/29/around-4-000-bodies-of-people-who-died-in-the-2011-tahoku-earthquake-and-tsunami-in-iwate-prefecture-miyagi-prefecture-and-fukushima-prefe.md)
-_Context: Fukushima Prefecture, Iwate prefecture, Miyagi Prefecture, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Fukushima Prefecture, Iwate prefecture, Miyagi Prefecture_
 
 ### [North Korea is reported to be on a state of high alert for radiation from the Fukushima I accidents. ](/news/2011/03/29/north-korea-is-reported-to-be-on-a-state-of-high-alert-for-radiation-from-the-fukushima-i-accidents.md)
 _Context: Fukushima I nuclear accidents, North Korea, radiation_

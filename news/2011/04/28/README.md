@@ -34,7 +34,7 @@ India shortlists two European fighter jets and rules out two US rivals for a key
 _Context: Abyei, Omar al-Bashir, South Sudan_
 
 ### [Japan's industrial output declined by a record level of 15.3% in March due to the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/28/japan-s-industrial-output-declined-by-a-record-level-of-15-3-in-march-due-to-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, an earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan_
 
 ### [Panasonic Corporation will announce cuts to 40,000 jobs according to reports. ](/news/2011/04/28/panasonic-corporation-will-announce-cuts-to-40-000-jobs-according-to-reports.md)
 * Q4 op profit falls 32 pct to 41 bln yen * No forecast for current year due to post-quake uncertainty * To cut workforce by 35,000 over 3

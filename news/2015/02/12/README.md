@@ -10,7 +10,7 @@ _Context: Ansar al-Sharia, Yemen, Yemeni Civil War, al-Qaeda_
 _Context: Reporters without Borders's, freedom of information, non-state groups_
 
 ### [The National Retail Federation worries as products languish on ships and docks at western U.S. ports as negotiations continue between the International Longshore and Warehouse Union and the Pacific Maritime Association. ](/news/2015/02/12/the-national-retail-federation-worries-as-products-languish-on-ships-and-docks-at-western-u-s-ports-as-negotiations-continue-between-the-in.md)
-_Context: International Longshore and Warehouse Union, National Retail Federation, Pacific Maritime Association, western U.S._
+_Context: International Longshore and Warehouse Union, National Retail Federation, Pacific Maritime Association, West Coast of the United States_
 
 ### [Online travel and leisure booking website Expedia announces plans to buy rival Orbitz for $1.3 billion. ](/news/2015/02/12/online-travel-and-leisure-booking-website-expedia-announces-plans-to-buy-rival-orbitz-for-1-3-billion.md)
 Expedia announced Thursday that it would buy rival online travel site Orbitz for about $1.33 billion, further consolidating the travel booking industry. Shares of Orbitz are up more than 23 percent in premarket trading and Expedia is up 5 percent on the announcement. 

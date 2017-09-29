@@ -43,7 +43,7 @@ _Context: King Oyo, Rukidi IV of Toro, Uganda_
 _Context: George Washington, New York Society Library, U.S. President_
 
 ### [69-year-old Spanish tenor opera star Placido Domingo returns to the stage at Milan's Teatro alla Scala weeks after colorectal cancer surgery. ](/news/2010/04/18/69-year-old-spanish-tenor-opera-star-pla-cido-domingo-returns-to-the-stage-at-milan-s-teatro-alla-scala-weeks-after-colorectal-cancer-surger.md)
-_Context: Milan, Placido Domingo, Spanish, Teatro alla Scala, colorectal cancer_
+_Context: Milan, Placido Domingo, Spain, Teatro alla Scala, colorectal cancer_
 
 ### [A recently unearthed track by The Rolling Stones is released as a limited edition 7" single for Record Store Day. The first song recorded by Blur's original line-up since guitarist Graham Coxon quit in 2002 is also released for the same purpose. ](/news/2010/04/18/a-recently-unearthed-track-by-the-rolling-stones-is-released-as-a-limited-edition-7-single-for-record-store-day-the-first-song-recorded-by.md)
 _Context: Blur, Graham Coxon, Record Store Day, The Rolling Stones, first song recorded_

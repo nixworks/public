@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Former Thai Prime Minister Yingluck Shinawatra is jailed "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-shinawatra-is-jailed-in-absentia.md) _Context: Thai, Yingluck Shinawatra_
+1. [Former Thai Prime Minister Yingluck Shinawatra is sentenced to five years in prison "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-shinawatra-is-sentenced-to-five-years-in-prison-in-absentia.md) _Context: Thai, Yingluck Shinawatra_
 2. [Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week-ahead-of-the-verdict-in-her-n.md) _Context: Thai, Yingluck Shinawatra_
 3. [Thailand's National Anti-Corruption Commission refers former Prime Minister Yingluck Shinawatra to face impeachment charges in the Senate over a failed rice subsidy scheme. ](/news/2014/05/8/thailand-s-national-anti-corruption-commission-refers-former-prime-minister-yingluck-shinawatra-to-face-impeachment-charges-in-the-senate-ov.md) _Context: Thai, Yingluck Shinawatra_
 4. [Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md) _Context: Thai, Yingluck Shinawatra_
