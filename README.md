@@ -15,6 +15,9 @@ _Context: Cuba-United States relations, FBI, U.S. State Department, personnel, s
 ### [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-ge.md)
 _Context: Henry Bolton, Paul Nuttall, UKIP leadership election, 2017, last general election_
 
+### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes.. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
+_Context: Secretary of Health and Human Services, Tom Price, Trump Administration_
+
 ### [DNA surgery on embryos removes disease beta-thalassemia. ](/news/2017/09/29/dna-surgery-on-embryos-removes-disease-beta-thalassemia.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
 
@@ -58,7 +61,7 @@ _Context: Christian, Idlib, Russia, Syrian Civil War_
 Presiding over the weapons’ destruction, President Vladimir V. Putin suggested that Washington was playing a devious double game.
 
 ### [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md)
-_Context: 2017 Kalynivka munitions explosion, Government of Ukraine, Kalynivka, Kiev, Ukraine_
+_Context: 2017 Kalynivka munitions explosion, Government of Ukraine, Kalynivka, Kiev, Ukraine, sabotage_
 
 ### [Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. ](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.md)
 Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
