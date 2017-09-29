@@ -15,7 +15,7 @@ _Context: Cuba-United States relations, FBI, U.S. State Department, personnel, s
 ### [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-ge.md)
 _Context: Henry Bolton, Paul Nuttall, UKIP leadership election, 2017, last general election_
 
-### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes.. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
+### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
 _Context: Secretary of Health and Human Services, Tom Price, Trump Administration_
 
 ### [DNA surgery on embryos removes disease beta-thalassemia. ](/news/2017/09/29/dna-surgery-on-embryos-removes-disease-beta-thalassemia.md)

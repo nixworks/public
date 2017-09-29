@@ -1,6 +1,6 @@
 ### [2017-09-29](/news/2017/09/29/index.md)
 
-# Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes.. 
+# Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. 
 
 
 
