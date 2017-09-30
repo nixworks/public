@@ -7,7 +7,7 @@ _Context: NAACP_
 _Context: 1963 Grammy Award, Auburn, Maine, John F. Kennedy's, Vaughn Meader_
 
 ### [ Fighting broke out for the second time in a month in Somalia between troops from the autonomous Somaliland and Puntland macro-regions. So far, fighting in the disputed region has left over a hundred dead.](/news/2004/10/29/fighting-broke-out-for-the-second-time-in-a-month-in-somalia-between-troops-from-the-autonomous-somaliland-and-puntland-macro-regions-so-f.md)
-_Context: Puntland, Somalia, Somaliland_
+_Context: Puntland, Somalian, Somaliland_
 
 ### [ In Rome, heads of state and government from the countries of the European Union sign the treaty establishing a constitution for Europe. The treaty is still subject to ratification by the member nations. ](/news/2004/10/29/in-rome-heads-of-state-and-government-from-the-countries-of-the-european-union-sign-the-treaty-establishing-a-constitution-for-europe-the.md)
 _Context: EU, European constitution, Rome_

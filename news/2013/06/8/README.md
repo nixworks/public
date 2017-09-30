@@ -16,7 +16,7 @@ _Context: Boko Haram, Maiduguri_
 _Context: Mali, Tuareg, ceasefire_
 
 ### [Clashes between the Ras Kamboni Movement and pro-government militia leave at least 18 dead in the Somali port of Kismayu. ](/news/2013/06/8/clashes-between-the-ras-kamboni-movement-and-pro-government-militia-leave-at-least-18-dead-in-the-somali-port-of-kismayu.md)
-_Context: Kismayu, Ras Kamboni Movement, Somalia_
+_Context: Kismayu, Ras Kamboni Movement, Somalian_
 
 ### [Princess Madeleine of Sweden marries British-born American businessman Christopher O'Neill in a lavish ceremony. ](/news/2013/06/8/princess-madeleine-of-sweden-marries-british-born-american-businessman-christopher-o-neill-in-a-lavish-ceremony.md)
 Swedish Princess Madeleine, the youngest of Carl XVI Gustaf and Queen Silvia&rsquo;s three children and fourth in line to the throne, said yes to New York banker Christopher O&rsquo;Neill in a lavish and emotional wedding ceremony in Stockholm on Saturday.

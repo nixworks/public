@@ -52,7 +52,7 @@ _Context: Australia, Minister for Indigenous Health and Aged Care, Nicola Roxon,
 _Context: China, Raptorex kriegsteini, Tyrannosaurus_
 
 ### [ The African Union says a twin bombing that killed 17 peacekeepers on its base in Mogadishu, Somalia, was conducted in UN marked cars. ](/news/2009/09/18/the-african-union-says-a-twin-bombing-that-killed-17-peacekeepers-on-its-base-in-mogadishu-somalia-was-conducted-in-un-marked-cars.md)
-_Context: African Union, Mogadishu, Somalia, United Nations, twin bombing_
+_Context: African Union, Mogadishu, Somalian, United Nations, twin bombing_
 
 ### [ Michel Bagaragaza, former head of Rwanda's tea industry, pleads guilty to complicity in the 1994 genocide, altering his original not guilty plea. ](/news/2009/09/18/michel-bagaragaza-former-head-of-rwanda-s-tea-industry-pleads-guilty-to-complicity-in-the-1994-genocide-altering-his-original-not-guilty.md)
 _Context: Michel Bagaragaza, Rwanda_

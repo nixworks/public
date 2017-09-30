@@ -7,7 +7,7 @@ _Context: Hirohisa Fujii, Japan, finance minister_
 _Context: Argentine, Latin America, civil ceremony, homosexuality, same-sex marriage_
 
 ### [ Xinhua News Agency says China has rescued 25 sailors and the "De Xin Hai", the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-seiz.md)
-_Context: China, China, De Xin Hai, Somalia, Xinhua_
+_Context: China, China, De Xin Hai, Somalian, Xinhua_
 
 ### [ A mine explosion in Shuangbai County, Yunnan causes more deaths to add to those from a similar incident in Jiexiu, Shanxi yesterday, bringing the total deaths for the two incidents to 17, with six other people still trapped. ](/news/2009/12/28/a-mine-explosion-in-shuangbai-county-yunnan-causes-more-deaths-to-add-to-those-from-a-similar-incident-in-jiexiu-shanxi-yesterday-bringi.md)
 _Context: Jiexiu, Shanxi province, Shuangbai County, Yunnan_

@@ -22,7 +22,7 @@ _Context: Sarath Fonseka, Sri Lanka, armed forces_
 They travel thousands of miles to Beijing to bring their problems – land-grabbing, bullying, eviction or abuse by local officials – to the government&#039;s attention. But instead of obtaining justice, a shocking new report reveals that many are thrown into sordid and illegal &quot;black jails&q...
 
 ### [ Sheikh Mohamed Abdi Aware, a Somali judge known for issuing tough sentences to pirates and Islamists, is shot dead in Somalia's Puntland region. ](/news/2009/11/12/sheikh-mohamed-abdi-aware-a-somali-judge-known-for-issuing-tough-sentences-to-pirates-and-islamists-is-shot-dead-in-somalia-s-puntland-re.md)
-_Context: Muslims, Puntland, Sheikh, Somali pirates, Somalia_
+_Context: Muslims, Puntland, Sheikh, Somali pirates, Somalian_
 
 ### [ At least 18 people are killed in an illegal mine collapse in western Ghana, Ghana's most devastating mining tragedy. ](/news/2009/11/12/at-least-18-people-are-killed-in-an-illegal-mine-collapse-in-western-ghana-ghana-s-most-devastating-mining-tragedy.md)
 At least 18 people, including 14 women, have been killed in the collapse of an illegal gold mine in Ghana.

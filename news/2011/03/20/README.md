@@ -7,7 +7,7 @@ Arab League secretary-general Amr Moussa is now questioning whether US and Europ
 Rocket alert system rings out across Ashkelon as rocket from Gaza slams into southern part of the city; no physical injuries or damages reported.
 
 ### [12 people are killed in clashes between Transitional Federal Government troops and al-Shabaab rebels in southern Somalia. ](/news/2011/03/20/12-people-are-killed-in-clashes-between-transitional-federal-government-troops-and-al-shabaab-rebels-in-southern-somalia.md)
-_Context: Somalia, Transitional Federal Government, al Shabaab militia_
+_Context: Al-Shabaab, Somalian, Transitional Federal Government_
 
 ### [A protest against the alleged "appalling" treatment by the United States of Bradley Manning occurs in London, with supporters from Wales, where Manning attended school, attending. ](/news/2011/03/20/a-protest-against-the-alleged-appalling-treatment-by-the-united-states-of-bradley-manning-occurs-in-london-with-supporters-from-wales-wh.md)
 Campaigners from Wales travel to London to protest over the alleged treatment of a US army private accused of leaking confidential papers.

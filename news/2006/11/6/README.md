@@ -1,7 +1,7 @@
 ## [2006-11-6](/news/2006/11/6/index.md)
 
 ### [ Somalian War: Heavy fighting has been reported between forces of Union of Islamic Courts and Puntland, the semi-autonomous region of Somalia. ](/news/2006/11/6/somalian-war-heavy-fighting-has-been-reported-between-forces-of-union-of-islamic-courts-and-puntland-the-semi-autonomous-region-of-somali.md)
-_Context: Puntland, Somali Civil War, Somalia, Union of Islamic Courts_
+_Context: Puntland, Somali Civil War, Somalian, Union of Islamic Courts_
 
 ### [ Felipe Perez Roque, the Foreign Minister of Cuba, backs away from earlier predictions that Fidel Castro would return as the President of Cuba by December raising concerns about the progress of Castro's recovery from intestinal surgery. ](/news/2006/11/6/felipe-pa-c-rez-roque-the-foreign-minister-of-cuba-backs-away-from-earlier-predictions-that-fidel-castro-would-return-as-the-president-of-c.md)
 _Context: Cuba, Felipe Perez Roque, Fidel Castro, President_

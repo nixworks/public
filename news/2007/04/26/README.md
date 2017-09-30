@@ -4,7 +4,7 @@
 _Context: Baltics, Bronze Soldier, Estonia, Russia, Tallinn_
 
 ### [ At least 22 people, mostly insurgents, die and dozens more are wounded in several hours of heavy clashes which rage in the Somali capital Mogadishu. ](/news/2007/04/26/at-least-22-people-mostly-insurgents-die-and-dozens-more-are-wounded-in-several-hours-of-heavy-clashes-which-rage-in-the-somali-capital-m.md)
-_Context: Mogadishu, Somalia, heavy clashes_
+_Context: Mogadishu, Somalian, heavy clashes_
 
 ### [ U.S. Congressman Dennis Kucinich (D-Ohio) submits Resolution ](/news/2007/04/26/u-s-congressman-dennis-kucinich-d-ohio-submits-resolution.md)
 _Context: Dennis Kucinich, U.S. Congress_

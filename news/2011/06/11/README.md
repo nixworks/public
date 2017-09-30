@@ -7,7 +7,7 @@ Turkish officials say at least 4,300 people escaping unrest have crossed the bor
 Opposition calls for further reform at first protest in months after martial law-style restrictions were lifted.
 
 ### [Fazul Abdullah Mohammed, mastermind of the 1998 United States embassy bombings in Kenya and Tanzania, is killed in Somalia. ](/news/2011/06/11/fazul-abdullah-mohammed-mastermind-of-the-1998-united-states-embassy-bombings-in-kenya-and-tanzania-is-killed-in-somalia.md)
-_Context: 1998 United States embassy bombings, Fazul Abdullah Mohammed, Kenya, Somalia, Tanzania_
+_Context: 1998 United States embassy bombings, Fazul Abdullah Mohammed, Kenya, Somalian, Tanzania_
 
 ### [2011 Yemeni uprising: Yemeni President Ali Abdullah Saleh's health is in poor condition a week after a bomb blast injured him and killed several others. ](/news/2011/06/11/2011-yemeni-uprising-yemeni-president-ali-abdullah-saleh-s-health-is-in-poor-condition-a-week-after-a-bomb-blast-injured-him-and-killed-sev.md)
 _Context: 2011 Yemeni uprising, Saleh, Yemen, Yemeni President_

@@ -25,7 +25,7 @@ _Context: Russia, Strategic Arms Reduction Treaty, United States, negotiation_
 _Context: ASEAN, Aung San Suu Kyi, General Secretary, National League for Democracy, trial_
 
 ### [ Ethiopia's National Defense Force reenters Somalia. ](/news/2009/05/19/ethiopia-s-national-defense-force-reenters-somalia.md)
-_Context: Ethiopia, Ethiopian Army, Somalia, declares_
+_Context: Ethiopia, Ethiopian Army, Somalian, declares_
 
 ### [ Former Canadian Prime Minister Brian Mulroney testifies about his relationship with arms dealer Karlheinz Schreiber. ](/news/2009/05/19/former-canadian-prime-minister-brian-mulroney-testifies-about-his-relationship-with-arms-dealer-karlheinz-schreiber.md)
 _Context: Brian Mulroney, Canada, Canadian Prime Minister, Karlheinz Schreiber, defense contractor, relationship_
@@ -43,7 +43,7 @@ _Context: European Parliament, Spain, reform_
 _Context: Germany, lemur, skeleton, species_
 
 ### [ Somali pirates release the German cargo ship MV "Patriot". ](/news/2009/05/19/somali-pirates-release-the-german-cargo-ship-mv-patriot.md)
-_Context: Germany, MV, Patriot, Somali pirates, Somalia, cargo ship_
+_Context: Germany, MV, Patriot, Somali pirates, Somalian, cargo ship_
 
 ### [ Bahrain recognizes Kosovo. ](/news/2009/05/19/bahrain-recognizes-kosovo.md)
 _Context: Bahrain, Kosovo, Kosovo_

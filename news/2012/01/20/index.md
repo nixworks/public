@@ -4,7 +4,7 @@
 _Context: 2011-2012 Syrian uprising_
 
 ### [AMISOM troops raid Islamist hideouts in the Somali capital Mogadishu. ](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.md)
-_Context: AMISOM, Islamist, Mogadishu, Somalia_
+_Context: AMISOM, Islamist, Mogadishu, Somalian_
 
 ### [Several people are killed in a series of bomb explosions in the city of Kano, Nigeria. ](/news/2012/01/20/several-people-are-killed-in-a-series-of-bomb-explosions-in-the-city-of-kano-nigeria.md)
 KANO (AFP) &#8211; A suicide blast and a series of other strong explosions rocked the city of Kano on Friday, killing at least two officers, a police source said, with many others feared dead. A senior police source said the suicide blast occurred at a regional police headquarters in Kano, the large...

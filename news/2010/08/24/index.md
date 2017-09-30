@@ -7,7 +7,7 @@ Army says it is regaining control of Loder after fighting killed 33 and displace
 * Back in Barcelona, pair say they were treated well * EU to draft U.N. resolution on aid worker safety * Al Qaeda welcomes Spain cooperation, c
 
 ### [Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing-at-least-33-people-including.md)
-_Context: MPs, President, Villa Somalia, al Shabaab militia, storm the Hotel Muna_
+_Context: Al-Shabaab, MPs, President, Villa Somalia, storm the Hotel Muna_
 
 ### [Foreign human rights groups accuse Rwandan and Congolese rebels of gang-raping nearly 200 women and some baby boys over four days within miles of a U.N. peacekeepers' base in the village of Bunangiri, North Kivu province, Democratic Republic of the Congo. ](/news/2010/08/24/foreign-human-rights-groups-accuse-rwandan-and-congolese-rebels-of-gang-raping-nearly-200-women-and-some-baby-boys-over-four-days-within-mil.md)
 Aid groups say up to 200 women were raped in four days near a UN peacekeeping base.

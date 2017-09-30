@@ -13,7 +13,7 @@ _Context: Avatar, U.S. and Canada, cross the $1 billion mark_
 _Context: International Criminal Court, Omar al-Bashir, Sudan, conflict, genocide_
 
 ### [Pirates off the coast of Somalia seize a North Korean-flagged cargo ship south of Yemen. ](/news/2010/02/3/pirates-off-the-coast-of-somalia-seize-a-north-korean-flagged-cargo-ship-south-of-yemen.md)
-_Context: North Korea, Somali pirates, Somalia, Yemen_
+_Context: North Korea, Somali pirates, Somalian, Yemen_
 
 ### [NASA and Cornell University have given up attempting to move the "Spirit" rover, currently stuck in sand near Home Plate, Gusev crater on the planet Mars, and are converting it into a stationary outpost. Its twin rover, "Opportunity", remains mobile on Mars. ](/news/2010/02/3/nasa-and-cornell-university-have-given-up-attempting-to-move-the-spirit-rover-currently-stuck-in-sand-near-home-plate-gusev-crater-on-th.md)
 NASA’s decision this week to give up trying to move stuck Mars rover Spirit marks a major turning point in the plucky robot’s storied six-year history on the red planet, scientists say.

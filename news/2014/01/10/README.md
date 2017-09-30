@@ -13,7 +13,7 @@ President Michel Djotodia resigns as he is unable to stop the ethnic fighting in
 _Context: Chaudhry Aslam Khan, Karachi, Pakistan, TTP_
 
 ### [The Kenyan Air Force bombs a suspected militant camp in Garbahaareey, Somalia, killing 30 militants. ](/news/2014/01/10/the-kenyan-air-force-bombs-a-suspected-militant-camp-in-garbahaareey-somalia-killing-30-militants.md)
-_Context: Garbahaareey, Kenyan Air Force, Somalia_
+_Context: Garbahaareey, Kenyan Air Force, Somalian_
 
 ### [Volkswagen's luxury brands Porsche, Audi and Bentley have each posted record sales for 2013. ](/news/2014/01/10/volkswagen-s-luxury-brands-porsche-audi-and-bentley-have-each-posted-record-sales-for-2013.md)
 _Context: Audi, Bentley, Porsche, Volkswagen, luxury_

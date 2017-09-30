@@ -13,7 +13,7 @@ _Context: Auckland City, New Zealand, Pasifika Festival_
 _Context: South China Sea, Vietnam, cargo ship_
 
 ### [ Maritime Self-Defense Force destroyers "Sazanami" and "Samidare" depart Japan to combat piracy in Somalia. ](/news/2009/03/14/maritime-self-defense-force-destroyers-sazanami-and-samidare-depart-japan-to-combat-piracy-in-somalia.md)
-_Context: Japan, Japanese Navy, Samidare, Sazanami, Somali pirates, Somalia, destroyer_
+_Context: Japan, Japanese Navy, Samidare, Sazanami, Somali pirates, Somalian, destroyer_
 
 ### [ Russia's Air Force says the country may base strategic bombers in Cuba or on a Venezuelan island. ](/news/2009/03/14/russia-s-air-force-says-the-country-may-base-strategic-bombers-in-cuba-or-on-a-venezuelan-island.md)
 A Russian Air Force chief said Saturday that the country could base some strategic bombers in Cuba or on an island offered by Venezuela, the Interfax news agency reported.

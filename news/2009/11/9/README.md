@@ -7,7 +7,7 @@ _Context: Berlin Wall, Brandenburg Gate_
 _Context: Aung San Suu Kyi, Burma, State Peace and Development Council_
 
 ### [ Somali pirates attack a Hong Kong-flagged oil tanker with long range rocket-propelled grenades 1,000 miles east off the Somali coast in the Indian Ocean. ](/news/2009/11/9/somali-pirates-attack-a-hong-kong-flagged-oil-tanker-with-long-range-rocket-propelled-grenades-1-000-miles-east-off-the-somali-coast-in-the.md)
-_Context: Hong Kong, Indian Ocean, Somali pirates, Somalia, oil tanker, rocket-propelled grenades_
+_Context: Hong Kong, Indian Ocean, Somali pirates, Somalian, oil tanker, rocket-propelled grenades_
 
 ### [ Lebanese Prime Minister Saad Hariri announces the formation of a unity government with Hezbollah. ](/news/2009/11/9/lebanese-prime-minister-saad-hariri-announces-the-formation-of-a-unity-government-with-hezbollah.md)
 _Context: Hezbollah, Lebanon, Prime Minister, Saad Hariri, unity_

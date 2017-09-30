@@ -13,7 +13,7 @@ President Hollande says Algeria crisis justifies Mali intervention as French con
 The latest explosions struck Thursday morning near Dujail.
 
 ### [Militants belonging to Somali group al-Shabaab announce they have executed the French intelligence agent who was the target of the unsuccessful French rescue attempt on January 11. French officials believe the hostage was killed during the mission itself, and the group is using the incident to manipulate the media. ](/news/2013/01/17/militants-belonging-to-somali-group-al-shabaab-announce-they-have-executed-the-french-intelligence-agent-who-was-the-target-of-the-unsuccess.md)
-_Context: France, Somalia, al Shabaab militia, intelligence agent, rescue attempt_
+_Context: Al-Shabaab, France, Somalian, intelligence agent, rescue attempt_
 
 ### [2013 Jakarta flood: A massive flood hits Jakarta, Indonesia, with the Indonesian Army deploying rubber boats in the financial district to rescue people trapped in this flood. Four people were killed and over 2,000 evacuated. ](/news/2013/01/17/2013-jakarta-flood-a-massive-flood-hits-jakarta-indonesia-with-the-indonesian-army-deploying-rubber-boats-in-the-financial-district-to-re.md)
 At least four people die and thousands are evacuated as flooding hits parts of the Indonesian capital, Jakarta, shutting down offices and traffic.

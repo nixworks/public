@@ -19,7 +19,7 @@ _Context: 2003, 2004, Islamic, Kano, Nigeria, World Health Organization, polio, 
 _Context: Adolfo Scilingo, Argentina, Dirty War, hunger strike, political prisoner_
 
 ### [ Somalian transitional parliament in Kenya has approved the second suggested cabinet of prime minister Ali Mohammed Ghedi. They rejected his earlier suggested cabinet four weeks ago ](/news/2005/01/14/somalian-transitional-parliament-in-kenya-has-approved-the-second-suggested-cabinet-of-prime-minister-ali-mohammed-ghedi-they-rejected-his.md)
-_Context: Ali Mohammed Ghedi, Kenya, Somalia_
+_Context: Ali Mohammed Ghedi, Kenya, Somalian_
 
 ### [ Venezuela recalls its ambassador to Colombia because of the disagreement over capture of FARC member Rodrigo Granda ](/news/2005/01/14/venezuela-recalls-its-ambassador-to-colombia-because-of-the-disagreement-over-capture-of-farc-member-rodrigo-granda.md)
 _Context: Colombia, FARC, Rodrigo Granda, Venezuela, ambassador_

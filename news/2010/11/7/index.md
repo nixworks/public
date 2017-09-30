@@ -1,7 +1,7 @@
 ## [2010-11-7](/news/2010/11/7/index.md)
 
 ### [Somali Islamist militant group al-Shabaab threaten more attacks in Burundi and Uganda in retaliation for their participation in an African Union peacekeeping operation in the country. Meanwhile, seven people are killed in fighting in the capital Mogadishu. ](/news/2010/11/7/somali-islamist-militant-group-al-shabaab-threaten-more-attacks-in-burundi-and-uganda-in-retaliation-for-their-participation-in-an-african-u.md)
-_Context: African Union, Burundi, Islamist, Mogadishu, Somalia, Uganda, al Shabaab militia_
+_Context: African Union, Al-Shabaab, Burundi, Islamist, Mogadishu, Somalian, Uganda_
 
 ### [Police use batons, pepper spray, tear gas and water cannon to disrupt activists expressing concern about the safety of a temporary warehouse in Gorleben where nuclear waste is being transported via train from France to Germany. It is thought to be the largest such mobilisation ever. ](/news/2010/11/7/police-use-batons-pepper-spray-tear-gas-and-water-cannon-to-disrupt-activists-expressing-concern-about-the-safety-of-a-temporary-warehouse.md)
 Confrontation between protesters and riot police marks journey of train to storage site at Gorleben.

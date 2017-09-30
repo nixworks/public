@@ -13,7 +13,7 @@ _Context: Supreme Court of India, brain mapping tests, landmark judgment, lie de
 _Context: Tengchong County, Yunnan Province_
 
 ### [Somali pirates seize the Russian oil tanker Moscow University with 23 people on board, 500 miles off the Somali coast. ](/news/2010/05/5/somali-pirates-seize-the-russian-oil-tanker-moscow-university-with-23-people-on-board-500-miles-off-the-somali-coast.md)
-_Context: Somali pirates, Somalia_
+_Context: Somali pirates, Somalian_
 
 ### [An Egyptian-led proposal for a nuclear arms free Middle East receives support from the United States, Russia, Britain, France, and China. Israel is the only Middle Eastern nation believed to possess nuclear weapons. ](/news/2010/05/5/an-egyptian-led-proposal-for-a-nuclear-arms-free-middle-east-receives-support-from-the-united-states-russia-britain-france-and-china-is.md)
 The United States, Russia, Britain, France and China voiced support on Wednesday for making the Middle East a nuclear-weapons-free zone, which would ultimately force Israel to scrap any atomic arms it has.

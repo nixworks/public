@@ -16,7 +16,7 @@ _Context: FIDE, Magnus Carlsen, chess, world number one_
 An Antarctic expedition has found what it believes to be remains of the first aeroplane brought to the frozen continent, on an icy shore near where it was abandoned almost a century ago.
 
 ### [Police in Denmark shoot a 28-year-old male Somali after he breaks into the Viby J home of Kurt Westergaard, the cartoonist at the centre of the Jyllands-Posten Muhammad cartoons controversy in 2005, and threatens his family with an axe. ](/news/2010/01/2/police-in-denmark-shoot-a-28-year-old-male-somali-after-he-breaks-into-the-viby-j-home-of-kurt-westergaard-the-cartoonist-at-the-centre-of.md)
-_Context: Denmark, Jyllands-Posten Muhammad cartoons controversy, Kurt Westergaard, Somalia, Viby J_
+_Context: Denmark, Jyllands-Posten Muhammad cartoons controversy, Kurt Westergaard, Somalian, Viby J_
 
 ### [A quarter of voters in Iceland sign a petition asking President lafur Ragnar Grmsson to veto a bill on repaying US$5 billion to foreign savers who lost their money when Icelandic banks collapsed. ](/news/2010/01/2/a-quarter-of-voters-in-iceland-sign-a-petition-asking-president-olafur-ragnar-grimsson-to-veto-a-bill-on-repaying-us-5-billion-to-foreign-sa.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News

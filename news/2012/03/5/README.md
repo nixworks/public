@@ -13,7 +13,7 @@ _Context: Haditha, Iraq, Iraqi police_
 _Context: Yemeni Army, Zinjibar, al-Qaeda, battle_
 
 ### [A soldier from Burundi is killed in an explosion in northern Mogadishu, Somalia. ](/news/2012/03/5/a-soldier-from-burundi-is-killed-in-an-explosion-in-northern-mogadishu-somalia.md)
-_Context: Burundi, Mogadishu, Somalia_
+_Context: Burundi, Mogadishu, Somalian_
 
 ### ["The Lorax" brings in US$70.7M during its opening weekend, the highest opener of 2012, and fifth highest total for an animated film ever. ](/news/2012/03/5/the-lorax-brings-in-us-70-7m-during-its-opening-weekend-the-highest-opener-of-2012-and-fifth-highest-total-for-an-animated-film-ever.md)
 _Context: The Lorax_

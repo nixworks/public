@@ -4,7 +4,7 @@
 Congress moves one step closer to fulfilling its first pledge of the 2006 election, passing homeland security provisions that include cargo screening and radiation monitoring equipment.
 
 ### [ The United States Food and Drug Administration suspends a gene therapy study and reviews 28 others after the death of a patient. ](/news/2007/07/26/the-united-states-food-and-drug-administration-suspends-a-gene-therapy-study-and-reviews-28-others-after-the-death-of-a-patient.md)
-_Context: Food and Drug Administration, United States, gene therapy_
+_Context: Food and Drug Administration, Gene therapy, United States_
 
 ### [ Two people are killed and four injured in an explosion at the Mojave Airport in California. ](/news/2007/07/26/two-people-are-killed-and-four-injured-in-an-explosion-at-the-mojave-airport-in-california.md)
 Two people were killed and four others seriously injured on Thursday in an explosion at an airport in the California desert, news reports said.
@@ -13,7 +13,7 @@ Two people were killed and four others seriously injured on Thursday in an explo
 _Context: Dow Jones Industrial Average, United States_
 
 ### [ NASA confirms that it discovered the apparent sabotage of a non-critical component of the International Space Station due to be carried up by the Space Shuttle Endeavour on August 7. ](/news/2007/07/26/nasa-confirms-that-it-discovered-the-apparent-sabotage-of-a-non-critical-component-of-the-international-space-station-due-to-be-carried-up.md)
-_Context: International Space Station, NASA, Saboteurs, Space Shuttle ''Endeavour''_
+_Context: International Space Station, NASA, Space Shuttle ''Endeavour'', sabotage_
 
 ### [ A car bomb in Baghdad kills at least 25 Iraqis and injures at least 50 more. ](/news/2007/07/26/a-car-bomb-in-baghdad-kills-at-least-25-iraqis-and-injures-at-least-50-more.md)
 A powerful car bomb has rocked central Baghdad, killing at least 25 bystanders, wounding more than 75 and destroying a row of shops in a busy commercial district.

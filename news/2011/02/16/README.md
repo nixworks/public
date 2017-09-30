@@ -1,7 +1,7 @@
 ## [2011-02-16](/news/2011/02/16/index.md)
 
 ### [South Korea will fly the bodies of eight Somali pirates killed in a commando raid on a freighter last month from Muscat, Oman, to Mogadishu, Somalia. ](/news/2011/02/16/south-korea-will-fly-the-bodies-of-eight-somali-pirates-killed-in-a-commando-raid-on-a-freighter-last-month-from-muscat-oman-to-mogadishu.md)
-_Context: Mogadishu, Muscat, Oman, Somali pirates, Somalia, South Korea, cargo ship_
+_Context: Mogadishu, Muscat, Oman, Somali pirates, Somalian, South Korea, cargo ship_
 
 ### [Iranian state TV reports clashes between pro-government and anti-government forces at a funeral for someone killed in the 2011 Iranian protests. ](/news/2011/02/16/iranian-state-tv-reports-clashes-between-pro-government-and-anti-government-forces-at-a-funeral-for-someone-killed-in-the-2011-iranian-prote.md)
 _Context: Iran, Iranian government, protestors_

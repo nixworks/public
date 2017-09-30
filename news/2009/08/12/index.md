@@ -25,7 +25,7 @@ _Context: Indonesia, Noordin Mohammed Top_
 _Context: Airlines PNG, Isurava, Papua New Guinea, wreckage_
 
 ### [ Gunmen shoot dead five Pakistani Muslim preachers outside a mosque in Galkayo, Somalia. ](/news/2009/08/12/gunmen-shoot-dead-five-pakistani-muslim-preachers-outside-a-mosque-in-galkayo-somalia.md)
-_Context: Galkayo, Muslims, Pakistan, Somalia_
+_Context: Galkayo, Muslims, Pakistan, Somalian_
 
 ### [ Gregoire Ndahimana, a Rwandan fugitive accused of genocide and crimes against humanity, is arrested by a joint Rwandan-Congolese military operation. ](/news/2009/08/12/gregoire-ndahimana-a-rwandan-fugitive-accused-of-genocide-and-crimes-against-humanity-is-arrested-by-a-joint-rwandan-congolese-military-o.md)
 _Context: Democratic Republic of the Congo, Grgoire Ndahimana, Rwanda, genocide_

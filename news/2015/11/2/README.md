@@ -4,7 +4,7 @@
 _Context: 2015 Nepal fuel crisis, India, Nepal, relations_
 
 ### [At least 15 Somalia army soldiers are killed in an Al-Shabaab ambush near the town of Wanlaweyn in the Lower Shebelle region. ](/news/2015/11/2/at-least-15-somalia-army-soldiers-are-killed-in-an-al-shabaab-ambush-near-the-town-of-wanlaweyn-in-the-lower-shebelle-region.md)
-_Context: Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009-present), al Shabaab militia_
+_Context: Al-Shabaab, Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009-present)_
 
 ### [A Palestinian terrorist stabs an 80-year-old woman and two men in the Israeli town of Rishon Letzion, and another Palestinian attacks an 71-year-old man and critically wounds him in Netanya.](/news/2015/11/2/a-palestinian-terrorist-stabs-an-80-year-old-woman-and-two-men-in-the-israeli-town-of-rishon-letzion-and-another-palestinian-attacks-an-71.md)
 _Context: Netanya, Palestinian terrorist, Rishon Letzion_

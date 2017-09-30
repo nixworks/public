@@ -1,7 +1,7 @@
 ## [2008-10-10](/news/2008/10/10/index.md)
 
 ### [ Pirate spokesman threatens to blow up MV Faina, which has been held off the coast of Somalia since September 25, if $20 million is not paid by October 13. ](/news/2008/10/10/pirate-spokesman-threatens-to-blow-up-mv-faina-which-has-been-held-off-the-coast-of-somalia-since-september-25-if-20-million-is-not-paid.md)
-_Context: Faina, Somalia_
+_Context: Faina, Somalian_
 
 ### [ The president of Peru accepts the resignation of his entire cabinet in response to an oil kickbacks scandal. ](/news/2008/10/10/the-president-of-peru-accepts-the-resignation-of-his-entire-cabinet-in-response-to-an-oil-kickbacks-scandal.md)
 _Context: Peru_
@@ -11,7 +11,7 @@ Hooded gunmen believed engaged in a drugs feud burst into a bar in northern Mexi
 
 ### [ 27 people were killed by a suicide car bomb in Pakistan near the Afghanistan border during a tribal meeting planning the eviction of the Taliban from the area. ](/news/2008/10/10/27-people-were-killed-by-a-suicide-car-bomb-in-pakistan-near-the-afghanistan-border-during-a-tribal-meeting-planning-the-eviction-of-the-ta.md)
 ### [ Dozens of bodies that washed ashore in Yemen are believed to be from the 130 migrants from Somalia thrown overboard by smugglers; prompting calls for action against human trafficking in the Gulf of Aden. ](/news/2008/10/10/dozens-of-bodies-that-washed-ashore-in-yemen-are-believed-to-be-from-the-130-migrants-from-somalia-thrown-overboard-by-smugglers-prompting.md)
-_Context: Gulf of Aden, Somalia, Yemen_
+_Context: Gulf of Aden, Somalian, Yemen_
 
 ### [ An Alaskan legislative committee finds that the Governor of Alaska Sarah Palin unlawfully abused her authority in terminating the Public Safety Commissioner Walter Monegan. ](/news/2008/10/10/an-alaskan-legislative-committee-finds-that-the-governor-of-alaska-sarah-palin-unlawfully-abused-her-authority-in-terminating-the-public-sa.md)
 _Context: Alaska, Governor, Sarah Palin, Walter Monegan, legislative_

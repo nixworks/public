@@ -4,7 +4,7 @@
 ARA News ALEPPO – At least 3o civilians were killed and dozens wounded in the northern Syrian city of Aleppo amid heavy bombardment by forces loyal to President Bashar al-Assad, activists reported on Monday. Pro-Assad forces targeted al-Shaar neighborhood in eastern Aleppo with surface-to-surface ...
 
 ### [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md)
-_Context: Mogadishu, President of Somalia, Somalia, War in Somalia (2009-present), car bomb_
+_Context: Mogadishu, President of Somalia, Somalian, War in Somalia (2009-present), car bomb_
 
 ### [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md)
 At least 17 people were killed in and around the Iraqi capital on Monday in four bomb attacks, including a car bomb claimed by Islamic State militants, while rockets landed near Baghdad airport.

@@ -40,7 +40,7 @@ _Context: Hillary Clinton, India, United States Secretary of State_
 Five bloggers arrested in April after calling for political reforms in the United Arab Emirates.
 
 ### [A Somali man Omer Abdi Mohamed pleads guilty in the US city of Minneapolis, Minnesota, to helping recruit people to travel to Somalia to assist the terror group al-Shabab. ](/news/2011/07/18/a-somali-man-omer-abdi-mohamed-pleads-guilty-in-the-us-city-of-minneapolis-minnesota-to-helping-recruit-people-to-travel-to-somalia-to-ass.md)
-_Context: Minneapolis, Minnesota, Omer Abdi Mohamed, Somali, Somalia, al Shabaab militia_
+_Context: Al-Shabaab, Minneapolis, Minnesota, Omer Abdi Mohamed, Somali, Somalian_
 
 ### [The San Francisco County Superior Court in the US state of California announces plans to cut 200 jobs and close 25 out of 63 court rooms due to budget problems. ](/news/2011/07/18/the-san-francisco-county-superior-court-in-the-us-state-of-california-announces-plans-to-cut-200-jobs-and-close-25-out-of-63-court-rooms-due.md)
 _Context: California, San Francisco County Superior Court_

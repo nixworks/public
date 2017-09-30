@@ -22,7 +22,7 @@ _Context: Abu Musab al-Zarqawi, Baghdad, Fallujah, airstrike, car bomb_
 _Context: Beslan school massacre, Chechnya, Riyadus-Salikhin, Shamil Basayev, martyr_
 
 ### [ In an interview with the Saudi-owned "Al-Arabiyya" satellite television network, U.S. Secretary of State Colin Powell plays down the importance of Wednesday's report by the State Department&mdash;which listed Saudi Arabia as a country that severely restricts religious freedom&mdash;saying that he hopes that he will be able to use dialogue to remove Saudi Arabia from the list.](/news/2004/09/17/in-an-interview-with-the-saudi-owned-al-arabiyya-satellite-television-network-u-s-secretary-of-state-colin-powell-plays-down-the-import.md)
-_Context: Al-Arabiyya, Colin Powell, Saudi Arabia, State Department, United States Secretary of State, religious freedom_
+_Context: Al-Arabiyya, Colin Powell, Saudi Arabia, U.S. State Department, United States Secretary of State, religious freedom_
 
 ## [Previous Day...](/news/2004/09/16/index.md)
 

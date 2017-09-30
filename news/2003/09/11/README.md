@@ -1,7 +1,7 @@
 ## [2003-09-11](/news/2003/09/11/index.md)
 
 ### [ As the United States remembers the deadliest terrorist attack ever on its shores, the United States Department of State warns it is seeing "increasing indications that al-Qaeda is preparing to strike United States interests abroad" and urges citizens overseas to take special caution on the second anniversary of the September 11 attacks amid growing indications that al-Qaeda is planning bigger attacks, "possibly involving unconventional weapons such as chemical or biological agents."](/news/2003/09/11/as-the-united-states-remembers-the-deadliest-terrorist-attack-ever-on-its-shores-the-united-states-department-of-state-warns-it-is-seeing.md)
-_Context: September 11 attacks, State Department, al-Qaeda, biological, chemical warfare, citizenship, terrorist attack, unconventional weapons_
+_Context: September 11 attacks, U.S. State Department, al-Qaeda, biological, chemical warfare, citizenship, terrorist attack, unconventional weapons_
 
 ### [ Swedish Foreign Minister Anna Lindh dies in the hospital from stab wounds inflicted while she was shopping in a department store in the centre of Stockholm. In the wake of the incident, both the Yes and No Euro campaigns suspended their activities.](/news/2003/09/11/swedish-foreign-minister-anna-lindh-dies-in-the-hospital-from-stab-wounds-inflicted-while-she-was-shopping-in-a-department-store-in-the-cen.md)
 _Context: Anna Lindh, EUR, Foreign Minister, Stockholm, Sweden_

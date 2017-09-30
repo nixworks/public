@@ -13,7 +13,7 @@ _Context: Nepal, Supreme Court, same-sex marriage_
 _Context: 2008 South Ossetia war, Amnesty International, Georgian, Russia_
 
 ### [ The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the-coast-of-somalia.md)
-_Context: INS ''Tabar'', India, Indian Navy, Somalia, frigate_
+_Context: INS ''Tabar'', India, Indian Navy, Somalian, frigate_
 
 ### [ New Zealand and Australian researchers identify a new species of penguin, the Waitaha penguin ("Megadyptes waitaha"), which lived in New Zealand until its extinction 500 years ago. ](/news/2008/11/19/new-zealand-and-australian-researchers-identify-a-new-species-of-penguin-the-waitaha-penguin-megadyptes-waitaha-which-lived-in-new-ze.md)
 Australian and New Zealand researchers have used ancient DNA to identify a previously unknown penguin species.

@@ -31,7 +31,7 @@ _Context: Australia, Sydney Harbour, runabout_
 _Context: Conservative Party, England, Labour, Wales, local elections_
 
 ### [ Aden Hashi Farah "Eyrow", a leader of Al-Shabaab in Somalia, is reported as being killed in a U.S. airstrike. ](/news/2008/05/1/aden-hashi-farah-eyrow-a-leader-of-al-shabaab-in-somalia-is-reported-as-being-killed-in-a-u-s-airstrike.md)
-_Context: Aden Hashi Farah "Eyrow", Al-Shabaab, Somalia, airstrike_
+_Context: Aden Hashi Farah "Eyrow", Al-Shabaab, Somalian, airstrike_
 
 ### [ The London Agreement on translation of European patents, concluded in 2000, enters into force in 14 of the 34 Contracting States to the European Patent Convention. ](/news/2008/05/1/the-london-agreement-on-translation-of-european-patents-concluded-in-2000-enters-into-force-in-14-of-the-34-contracting-states-to-the-eur.md)
 _Context: European Patent Convention, London Agreement on translation of European patents_

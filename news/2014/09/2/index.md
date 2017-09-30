@@ -4,7 +4,7 @@
 _Context: Bama, Boko Haram_
 
 ### [At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/at-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-carrying-senior-members-of-the-milita.md)
-_Context: al Shabaab militia_
+_Context: Al-Shabaab_
 
 ### [Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/eleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md)
 Officials say bomb attack killed 11 soldiers in region, where attacks on army have been regular since 2013 coup.

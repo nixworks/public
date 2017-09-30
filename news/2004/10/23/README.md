@@ -4,7 +4,7 @@
 _Context: French Polynesia, Gaston Flosse, Oscar Temaru, Tensions_
 
 ### [ Abdullahi Yusuf Ahmed, Somalia's new president, requests 20,000 African Union troops to help secure the country. ](/news/2004/10/23/abdullahi-yusuf-ahmed-somalia-s-new-president-requests-20-000-african-union-troops-to-help-secure-the-country.md)
-_Context: Abdullahi Yusuf Ahmed, African Union, President of Somalia, Somalia_
+_Context: Abdullahi Yusuf Ahmed, African Union, President of Somalia, Somalian_
 
 ### [ The United States Navy commissions the USS "Virginia", the lead ship of the Virginia class. ](/news/2004/10/23/the-united-states-navy-commissions-the-uss-virginia-the-lead-ship-of-the-virginia-class.md)
 _Context: USS ''Virginia'', United States Navy, Virginia-class submarine, lead ship_

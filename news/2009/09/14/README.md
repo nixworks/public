@@ -7,7 +7,7 @@ _Context: Norway, parliamentary election_
 FRANCE&#039;S political &#039;&#039;trial of the century&#039;&#039;, a case of intrigue and skulduggery that sets a former prime minister, Dominique de Villepin, against the President, Nicolas Sarkozy - and details the sexual peccadilloes of a stellar array of politicians - will open at the Palais ...
 
 ### [ U.S. special forces launch an attack on Islamist militants from Al-Shabab in Somalia. ](/news/2009/09/14/u-s-special-forces-launch-an-attack-on-islamist-militants-from-al-shabab-in-somalia.md)
-_Context: Al-Shabaab, Muslims, Somalia, U.S. special forces launch an attack_
+_Context: Al-Shabaab, Muslims, Somalian, U.S. special forces launch an attack_
 
 ### [ At least 18 women and children are killed in a stampede for free flour handed out by charity workers in Karachi, Pakistan. ](/news/2009/09/14/at-least-18-women-and-children-are-killed-in-a-stampede-for-free-flour-handed-out-by-charity-workers-in-karachi-pakistan.md)
 Many women and children killed during distribution of flour in Pakistani city.

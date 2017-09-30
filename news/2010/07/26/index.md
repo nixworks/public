@@ -4,7 +4,7 @@
 President confirms death of French engineer captured by fighters in North Africa.
 
 ### [The United States, European Union and United Nations pledge additional resources to the African Union's AMISOM peacekeeping force in Somalia. ](/news/2010/07/26/the-united-states-european-union-and-united-nations-pledge-additional-resources-to-the-african-union-s-amisom-peacekeeping-force-in-somalia.md)
-_Context: AMISOM, African Union, EU, Somalia, United Nations, United States, peacekeeping force_
+_Context: AMISOM, African Union, EU, Somalian, United Nations, United States, peacekeeping force_
 
 ### [Two car bombs explode near the southern Iraqi city of Karbala, killing at least twenty people. ](/news/2010/07/26/two-car-bombs-explode-near-the-southern-iraqi-city-of-karbala-killing-at-least-twenty-people.md)
 The southern Iraqi city of Karbala is hit by a double car bombing leaving at least 20 dead and dozens injured, officials say.

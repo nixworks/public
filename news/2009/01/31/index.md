@@ -28,7 +28,7 @@ _Context: Adelaide, Australia, Melbourne, heat wave_
 _Context: February 11, Morgan Tsvangirai, Movement for Democratic Change, President, Prime Minister, Robert Mugabe, Zimbabwe, allows_
 
 ### [ Sharif Ahmed is elected President of Somalia. ](/news/2009/01/31/sharif-ahmed-is-elected-president-of-somalia.md)
-_Context: President, Sharif Ahmed, Somalia, elected_
+_Context: President, Sharif Ahmed, Somalian, elected_
 
 ### [ Iraq's provincial elections begin. ](/news/2009/01/31/iraq-s-provincial-elections-begin.md)
 _Context: Iraq, provincial elections_

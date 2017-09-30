@@ -7,7 +7,7 @@ _Context: Europe, Storm Worm, Trojan horse, United States_
 _Context: Government of Kyrgyzstan, Hizb ut-Tahrir, Kyrgyzstan, al-Qaeda, political party_
 
 ### [ War in Somalia: Somalia's presidential palace is hit by two mortar shells. It's unknown if Somali President Abdullahi Yusuf was inside during the attack. ](/news/2007/01/19/war-in-somalia-somalia-s-presidential-palace-is-hit-by-two-mortar-shells-it-s-unknown-if-somali-president-abdullahi-yusuf-was-inside-duri.md)
-_Context: Abdullahi Yusuf, Somalia, War in Somalia_
+_Context: Abdullahi Yusuf, Somalian, War in Somalia_
 
 ### [ Cash for Peerages: A close aide to UK Prime Minister Tony Blair is arrested in a corruption probe. ](/news/2007/01/19/cash-for-peerages-a-close-aide-to-uk-prime-minister-tony-blair-is-arrested-in-a-corruption-probe.md)
 _Context: Prime Minister, Tony Blair, UK, close aide, current political crisis_

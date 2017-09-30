@@ -43,7 +43,7 @@ _Context: Europa Point, Gibraltar, cargo ship, oil tanker_
 _Context: Australia, Federal Court of Australia, High Court of Australia, Philip Ruddock, Susan Kiefel, judge_
 
 ### [ Eric Laroche, the United Nations Humanitarian Co-ordinator for Somalia raises concerns about recent killings of eminent Somali journalists. ](/news/2007/08/13/eric-laroche-the-united-nations-humanitarian-co-ordinator-for-somalia-raises-concerns-about-recent-killings-of-eminent-somali-journalists.md)
-_Context: Somalia, United Nations_
+_Context: Somalian, United Nations_
 
 ### [ Karl Rove, Deputy White House Chief of Staff and George W. Bush's leading political adviser, tells the "Wall Street Journal" that he intends to resign at the end of August. ](/news/2007/08/13/karl-rove-deputy-white-house-chief-of-staff-and-george-w-bush-s-leading-political-adviser-tells-the-wall-street-journal-that-he-intend.md)
 _Context: Deputy White House Chief of Staff, George W. Bush, Karl Rove, Wall Street Journal_

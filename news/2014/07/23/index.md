@@ -19,7 +19,7 @@ Over 40 people are feared dead after a TransAsia Airways plane crashed Wednesday
 _Context: Taiwan, Typhoon Rammasun (Glenda)_
 
 ### [A glitch in the United States Department of State Consular Consolidated Database causes delays to issuing of US passports and visas around the world. ](/news/2014/07/23/a-glitch-in-the-united-states-department-of-state-consular-consolidated-database-causes-delays-to-issuing-of-us-passports-and-visas-around-t.md)
-_Context: State Department_
+_Context: U.S. State Department_
 
 ### [Authorities in Millau, France have formally charged two men in last Sunday's machete attack in which three Clermont Auvergne rugby union players were injured. ](/news/2014/07/23/authorities-in-millau-france-have-formally-charged-two-men-in-last-sunday-s-machete-attack-in-which-three-clermont-auvergne-rugby-union-pla.md)
 _Context: Clermont Auvergne, France, Millau, rugby union_

@@ -16,7 +16,7 @@ _Context: Beirut, Lebanese Prime Minister, Rafiq Hariri, car bomb_
 _Context: Democratic Republic of Congo, United Nations, peacekeepers, sexual abuse_
 
 ### [ The African Union (AU) sends a team to Somalia to assess the security situation in the capital, Mogadishu. President of the exiled Somalian government, Abdullahi Yusuf, has requested an AU peacekeeping force to allow his cabinet to move back. The trip was delayed on Friday. There is some opposition to deployment of AU peacekeepers and thousands of Somalis have demonstrated in the capital, Mogadishu, against the plans. ](/news/2005/02/14/the-african-union-au-sends-a-team-to-somalia-to-assess-the-security-situation-in-the-capital-mogadishu-president-of-the-exiled-somalian.md)
-_Context: Abdullahi Yusuf, African Union, Exile, Mogadishu, President of Somalia, Somalia, Somalian government_
+_Context: Abdullahi Yusuf, African Union, Exile, Mogadishu, President of Somalia, Somalian, Somalian government_
 
 ### [ In Brazil, President Luiz Incio Lula da Silva meets Venezuelan president Hugo Chvez in Caracas. They start talks about an alliance, joint energy projects and the sale of Brazilian fighter aircraft. ](/news/2005/02/14/in-brazil-president-luiz-inacio-lula-da-silva-meets-venezuelan-president-hugo-chavez-in-caracas-they-start-talks-about-an-alliance-joint.md)
 _Context: Caracas, Hugo Chvez, Luiz Incio Lula da Silva, President, President_

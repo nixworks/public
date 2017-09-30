@@ -13,7 +13,7 @@ _Context: Aceh, Indonesia, North Sumatra, flood_
  Kyrgyzstan was again plunged into crisis on December 19 when President Kurmanbek Bakiyev accepted the resignation of Prime Minister Feliks Kulov and his entire cabinet. As debate rages over how to se
 
 ### [ Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. ](/news/2006/12/25/ethiopian-jets-have-bombed-two-airports-in-somalia-in-a-widening-operation-against-the-islamic-courts-union.md)
-_Context: Ethiopia, Islamic Courts Union, Somalia_
+_Context: Ethiopia, Islamic Courts Union, Somalian_
 
 ## [Previous Day...](/news/2006/12/24/index.md)
 

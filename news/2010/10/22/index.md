@@ -16,7 +16,7 @@ _Context: Orakzai, Pakistan_
 At least 3 people were killed and 22 others sustained severe injuries when a home-made bomb exploded on Friday inside a mosque in Pushta Kharra area of Peshawar. According to the details, the blast occurred shortly after the Juma Prayer killing three people on the spot and causing damages to the mos...
 
 ### [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md)
-_Context: Beled-Hawa, Kenya, Muslims, Somalia_
+_Context: Beled-Hawa, Kenya, Muslims, Somalian_
 
 ### [2 Iranian films, 'Michael' and 'When the Light Shines', win top prizes at Italy's "13th International Religions Today Film Festival" at its closing ceremony. ](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-shinesa-win-top-prizes-at-italy-s-a13th-international-religions-today-film-festiva.md)
 _Context: International Religions Today Film Festival, Iran, Italy_

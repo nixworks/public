@@ -4,7 +4,7 @@
 _Context: 2008, EU, Montenegro, Prime Minister, Stabilisation and Association Agreement, Zeljko Sturanovic_
 
 ### [ Battle of Las Anod: Troops from the breakaway Somali republic of Somaliland seize a town inside Puntland, a rival region loyal to the interim Somali government, killing at least 10 people. ](/news/2007/10/15/battle-of-las-anod-troops-from-the-breakaway-somali-republic-of-somaliland-seize-a-town-inside-puntland-a-rival-region-loyal-to-the-inter.md)
-_Context: Battle of Las Anod, Puntland, Somalia, Somaliland_
+_Context: Battle of Las Anod, Puntland, Somalian, Somaliland_
 
 ### [ Sir Menzies Campbell resigns as the leader of the Liberal Democrats in the United Kingdom, starting a leadership election. ](/news/2007/10/15/sir-menzies-campbell-resigns-as-the-leader-of-the-liberal-democrats-in-the-united-kingdom-starting-a-leadership-election.md)
 _Context: Liberal Democrats, Menzies Campbell, United Kingdom, leadership election_

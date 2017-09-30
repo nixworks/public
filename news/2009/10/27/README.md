@@ -34,7 +34,7 @@ _Context: Seychelles, Somali pirates, United Kingdom_
 _Context: Korean Demilitarized Zone, North Korea, South Korea_
 
 ### [ Burundi and Uganda tighten security after threats by the militant Somali Al-Shabaab, a group with links to Al-Qaeda, to attack their capitals. ](/news/2009/10/27/burundi-and-uganda-tighten-security-after-threats-by-the-militant-somali-al-shabaab-a-group-with-links-to-al-qaeda-to-attack-their-capita.md)
-_Context: Al-Shabaab, Burundi, Somalia, Uganda, al-Qaeda_
+_Context: Al-Shabaab, Burundi, Somalian, Uganda, al-Qaeda_
 
 ### [ The autonomous Aceh province in Indonesia is to ban women from wearing tight trousers under a new law, while a law authorising the stoning to death of adulterers and the whipping of homosexuals will be reviewed. ](/news/2009/10/27/the-autonomous-aceh-province-in-indonesia-is-to-ban-women-from-wearing-tight-trousers-under-a-new-law-while-a-law-authorising-the-stoning.md)
 _Context: Aceh, Indonesia_

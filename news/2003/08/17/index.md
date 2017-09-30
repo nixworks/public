@@ -7,7 +7,7 @@ _Context: Eastlake, FirstEnergy Corporation, North American blackout, Ohio_
 _Context: Gorazdevac, Pec_
 
 ### [ Saboteurs cause a series of explosions that damaged oil and water pipelines in Iraq.](/news/2003/08/17/saboteurs-cause-a-series-of-explosions-that-damaged-oil-and-water-pipelines-in-iraq.md)
-_Context: Iraq, Saboteurs, explosion, oil_
+_Context: Iraq, explosion, oil, sabotage_
 
 ### [ Iceland resumes whaling, 14 years after it stopped commercial whaling in 1989. It says that it will hunt 38 minke whales for research on the impact of the whales on fish stocks.](/news/2003/08/17/iceland-resumes-whaling-14-years-after-it-stopped-commercial-whaling-in-1989-it-says-that-it-will-hunt-38-minke-whales-for-research-on-th.md)
 _Context: Iceland, hunt, whale, whale_

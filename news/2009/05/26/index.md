@@ -34,7 +34,7 @@ _Context: Abu Dhabi, France, Nicolas Sarkozy, President of France, United Arab E
 _Context: Afghanistan, Kapisa province, suicide bombing_
 
 ### [ The Swedish Navy arrests seven Somali pirates during the attempted hijacking of a Greek ship. ](/news/2009/05/26/the-swedish-navy-arrests-seven-somali-pirates-during-the-attempted-hijacking-of-a-greek-ship.md)
-_Context: Greek, Navy, Somali pirates, Somalia, Sweden, ship_
+_Context: Greek, Navy, Somali pirates, Somalian, Sweden, ship_
 
 ### [ Nigerien President Tandja Mamadou dissolves the National Assembly. ](/news/2009/05/26/nigerien-president-tandja-mamadou-dissolves-the-national-assembly.md)
 _Context: National Assembly, Niger, Nigerien President, Tandja Mamadou, parliament's dissolution_

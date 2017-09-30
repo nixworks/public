@@ -64,10 +64,10 @@ _Context: Israel, Ron Prosor, United Nations_
 _Context: North Korea, South Korea_
 
 ### [The United States Department of State warns U.S. citizens of a high security threat level in Yemen due to what it describes as "terrorist activities and civil unrest". ](/news/2011/03/6/the-united-states-department-of-state-warns-u-s-citizens-of-a-high-security-threat-level-in-yemen-due-to-what-it-describes-as-terrorist-ac.md)
-_Context: 2011 Yemeni protests, State Department, Yemen_
+_Context: 2011 Yemeni protests, U.S. State Department, Yemen_
 
 ### [Kenya arrests six Somali Islamist al-Shabaab fighters in the border town of Mandera. ](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.md)
-_Context: Islamist, Kenya, Mandera, Somalia, al Shabaab militia_
+_Context: Al-Shabaab, Islamist, Kenya, Mandera, Somalian_
 
 ### [Gunmen attacked patrons at a bar near the United States consulate in Ciudad Juarez, Mexico killing three people. ](/news/2011/03/6/gunmen-attacked-patrons-at-a-bar-near-the-united-states-consulate-in-ciudad-jua-rez-mexico-killing-three-people.md)
 _Context: Ciudad Juarez, Mexico, United States_

@@ -10,7 +10,7 @@ _Context: Afghanistan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, 
 _Context: Facebook, social network_
 
 ### [The World Food Programme suspends its operations in southern Somalia due to rising instability in the region. ](/news/2010/01/5/the-world-food-programme-suspends-its-operations-in-southern-somalia-due-to-rising-instability-in-the-region.md)
-_Context: Somalia, World Food Programme_
+_Context: Somalian, World Food Programme_
 
 ### [Warren Buffett who through Berkshire Hathaway controls a significant block of the shares of Kraft came out in opposition to Kraft's proposal to float 370 million shares in order to fund its bid for the UK based confectioner Cadbury. ](/news/2010/01/5/warren-buffett-who-through-berkshire-hathaway-controls-a-significant-block-of-the-shares-of-kraft-came-out-in-opposition-to-kraft-s-proposal.md)
 _Context: Berkshire Hathaway Inc., Cadbury, Kraft Foods, Warren Buffett_

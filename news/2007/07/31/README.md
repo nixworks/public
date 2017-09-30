@@ -1,7 +1,7 @@
 ## [2007-07-31](/news/2007/07/31/index.md)
 
 ### [ Nuradin Abdi, a Somali citizen living in the United States, pleads guilty to providing material support to terrorists in connection with a plot to blow up a shopping mall in Columbus, Ohio. ](/news/2007/07/31/nuradin-abdi-a-somali-citizen-living-in-the-united-states-pleads-guilty-to-providing-material-support-to-terrorists-in-connection-with-a.md)
-_Context: Columbus, Nuradin Abdi, Somalia, United States, shopping mall, terrorist_
+_Context: Columbus, Nuradin Abdi, Somalian, United States, shopping mall, terrorist_
 
 ### [ The President of Nicaragua Daniel Ortega offers to give up SAM-7 surface-to-air missiles in exchange for helicopters, surgical supplies and medicine from the United States. ](/news/2007/07/31/the-president-of-nicaragua-daniel-ortega-offers-to-give-up-sam-7-surface-to-air-missiles-in-exchange-for-helicopters-surgical-supplies-and.md)
 _Context: Daniel Ortega, Nicaraguan President, SAM-7, United States, helicopters, surface-to-air missiles_

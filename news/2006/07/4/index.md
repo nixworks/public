@@ -4,7 +4,7 @@
 _Context: Ade, Chad, Military, UFDC, second Dby administration_
 
 ### [ North Korea test-launches at least six missiles which landed in the Sea of Japan. An official from the United States Department of State claims that one of the missiles was a long-range Taepodong 2 missile which failed 35 seconds after takeoff.](/news/2006/07/4/north-korea-test-launches-at-least-six-missiles-which-landed-in-the-sea-of-japan-an-official-from-the-united-states-department-of-state-cl.md)
-_Context: North Korea, State Department, Taepodong-2, launch, the sea_
+_Context: North Korea, Taepodong-2, U.S. State Department, launch, the sea_
 
 ### [ A Qassam rocket hits a High school at Ashkelon, an Israeli city with a population exceeding 117,000. The rocket was launched by Hamas militants from the town of Beit Hanun in the northern Gaza strip. ](/news/2006/07/4/a-qassam-rocket-hits-a-high-school-at-ashkelon-an-israeli-city-with-a-population-exceeding-117-000-the-rocket-was-launched-by-hamas-milit.md)
 _Context: Ashkelon, Gaza, Hamas, Israel, Qassam rocket, high school_

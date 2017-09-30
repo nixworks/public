@@ -28,7 +28,7 @@ _Context: Andry Rajoelina, Madagascar, President, political crisis_
 _Context: Camorra, Italy, Mafia, Naples, protest_
 
 ### [ Somali pirates hijack the Indian cargo ship "Al Rafiquei". ](/news/2009/03/21/somali-pirates-hijack-the-indian-cargo-ship-al-rafiquei.md)
-_Context: India, Somali pirates, Somalia, cargo ship_
+_Context: India, Somali pirates, Somalian, cargo ship_
 
 ## [Previous Day...](/news/2009/03/20/index.md)
 

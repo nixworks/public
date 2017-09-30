@@ -7,7 +7,7 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 _Context: Ahmad Afzali, Najibullah Zazi, Saudi Arabia, United States, imam, subway_
 
 ### [Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capital-mogadis.md)
-_Context: AK-47s, AMISOM, African Union, Mogadishu, Somalia, high-powered rifles, hijab_
+_Context: AK-47s, AMISOM, African Union, Mogadishu, Somalian, high-powered rifles, hijab_
 
 ### [The European Union withdraws a trade concessions deal with Sri Lanka after the former accused the latter of not improving its human rights record. ](/news/2010/07/5/the-european-union-withdraws-a-trade-concessions-deal-with-sri-lanka-after-the-former-accused-the-latter-of-not-improving-its-human-rights-r.md)
 _Context: EU, Sri Lanka, human rights record_

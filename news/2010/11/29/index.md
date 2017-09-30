@@ -7,7 +7,7 @@ An Iranian nuclear scientist is killed and another wounded in separate but simil
 Reports from Kyrgyzstan say four Islamist militants have been killed in a raid by special forces on a hide-out in the southern city of Osh.
 
 ### [Somali pirates hijack a Malaysian cargo vessel with 23 crew members 900 miles off the coast of Somalia. ](/news/2010/11/29/somali-pirates-hijack-a-malaysian-cargo-vessel-with-23-crew-members-900-miles-off-the-coast-of-somalia.md)
-_Context: Malaysia, Somali pirates, Somalia_
+_Context: Malaysia, Somali pirates, Somalian_
 
 ### [Pablo Picasso's electrician says he has 271 previously unknown works given to him as gifts by the artist. ](/news/2010/11/29/pablo-picasso-s-electrician-says-he-has-271-previously-unknown-works-given-to-him-as-gifts-by-the-artist.md)
 A retired electrician in southern France says he has hundreds of previously unknown works by Pablo Picasso, worth about 60m euros.

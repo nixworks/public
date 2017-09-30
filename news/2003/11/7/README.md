@@ -4,7 +4,7 @@
 _Context: 101st Airborne Division, Iraq, Jessica Lynch, New York Times, Tikrit, Turkey, U.S. soldiers, UH-60 Black Hawk, Vietnam War, anal, military, propaganda, rocket-propelled grenades_
 
 ### [ A monitoring panel states to the United Nations Security Council tells of violations of the arms embargo against Somalia have taken place over a six-month period and the weapons are arriving now continuously in many small quantities (while large quantities arrive less often).](/news/2003/11/7/a-monitoring-panel-states-to-the-united-nations-security-council-tells-of-violations-of-the-arms-embargo-against-somalia-have-taken-place-o.md)
-_Context: Somalia, United Nations Security Council, embargo_
+_Context: Somalian, United Nations Security Council, embargo_
 
 ### [ In Pakistan, President Pervez Musharraf pledges that Pakistan will match India's military spending spree.](/news/2003/11/7/in-pakistan-president-pervez-musharraf-pledges-that-pakistan-will-match-india-s-military-spending-spree.md)
 _Context: Pakistan, Pervez Musharraf, President_

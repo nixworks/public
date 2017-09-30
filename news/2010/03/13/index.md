@@ -16,7 +16,7 @@ _Context: Georgian, Imedi, President of Georgia, Russia, Saakashvili, hoax_
 A leading member of the conservation group Sea Shepherd, who was detained aboard a whaling vessel for nearly a month, was met by a crowd of police, coastguards and protesters as he arrived on the Japanese mainland.
 
 ### [Fighting in Somalia's capital Mogadishu has killed 60 people since March 10. ](/news/2010/03/13/fighting-in-somalia-s-capital-mogadishu-has-killed-60-people-since-march-10.md)
-_Context: Battle of Mogadishu (2010), Mogadishu, Somalia_
+_Context: Battle of Mogadishu (2010), Mogadishu, Somalian_
 
 ### [A remotely operated bomb killed 6 people traveling in southern Afghanistan in Tirin Kot, the capital of Afghanistan's Uruzgan province. ](/news/2010/03/13/a-remotely-operated-bomb-killed-6-people-traveling-in-southern-afghanistan-in-tirin-kot-the-capital-of-afghanistan-s-uruzgan-province.md)
 Canadian Soldiers And Afghan Interpreter Die In Roadside Bombing In Kandahar

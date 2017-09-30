@@ -4,7 +4,7 @@
 _Context: Egypt, Middle East, Saada Governorate, Saudi, Saudi Arabia, Yemen, attacks, navy, no-fly zone_
 
 ### [Militants believed to be from al-Shabab attack and temporarily occupy a Mogadishu hotel leaving at least nine people dead. ](/news/2015/03/27/militants-believed-to-be-from-al-shabab-attack-and-temporarily-occupy-a-mogadishu-hotel-leaving-at-least-nine-people-dead.md)
-_Context: Mogadishu, War in Somalia, al Shabaab militia, the March 27 hotel siege_
+_Context: Al-Shabaab, Mogadishu, War in Somalia, the March 27 hotel siege_
 
 ### [A stampede at a Hindu festival in Langalbandh, Bangladesh, kills at least ten people with dozens more injured. ](/news/2015/03/27/a-stampede-at-a-hindu-festival-in-langalbandh-bangladesh-kills-at-least-ten-people-with-dozens-more-injured.md)
 _Context: Bangladesh, Hindu, Langalbandh, stampede_

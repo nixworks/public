@@ -4,7 +4,7 @@
 Officials in northern Cameroon have ordered the closure of mosques and Islamic schools following a series of suicide bombing attacks that have left dozens dead.
 
 ### [A suicide bomber detonates a vehicle loaded with explosives at a hotel in the Somali capital of Mogadishu, killing 15 people. ](/news/2015/07/26/a-suicide-bomber-detonates-a-vehicle-loaded-with-explosives-at-a-hotel-in-the-somali-capital-of-mogadishu-killing-15-people.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somalian_
 
 ### [A bomb detonates on a bus carrying Egyptian military conscripts in Arish, injuring 18. ](/news/2015/07/26/a-bomb-detonates-on-a-bus-carrying-egyptian-military-conscripts-in-arish-injuring-18.md)
 _Context: Arish, Egypt_

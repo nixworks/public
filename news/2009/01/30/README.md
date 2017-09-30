@@ -7,13 +7,13 @@ _Context: Kurgan Oblast, Russia_
 A small plane apparently low on fuel hit a power line and crashed into a wooded area near a West Virginia airport, killing all six people aboard, authorities said.
 
 ### [ The U.S. State Department will not renew security contractor Blackwater Worldwide's license when it expires in May 2009. ](/news/2009/01/30/the-u-s-state-department-will-not-renew-security-contractor-blackwater-worldwide-s-license-when-it-expires-in-may-2009.md)
-_Context: Blackwater Worldwide, State Department, United States, civilian contractor_
+_Context: Blackwater Worldwide, U.S. State Department, United States, civilian contractor_
 
 ### [ Michael S. Steele becomes the U.S. Republican National Committee's first African-American chairman. ](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.md)
 _Context: African-American, Michael S. Steele, Republican National Committee, United States, chairman, first_
 
 ### [ Somalia's Transitional Federal Government collapses after Al-Shabaab captures Baidoa. ](/news/2009/01/30/somalia-s-transitional-federal-government-collapses-after-al-shabaab-captures-baidoa.md)
-_Context: Al-Shabaab, Baidoa, Somalia, Transitional Federal Government_
+_Context: Al-Shabaab, Baidoa, Somalian, Transitional Federal Government_
 
 ### [ United Nations Secretary-General Ban Ki-moon announces an investigation into Israel's attack on the U.N.'s Gaza Strip headquarters. ](/news/2009/01/30/united-nations-secretary-general-ban-ki-moon-announces-an-investigation-into-israel-s-attack-on-the-u-n-s-gaza-strip-headquarters.md)
 Pressure mounts on Israel to answer accusations of war crimes in Gaza Strip.

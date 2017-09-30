@@ -1,7 +1,7 @@
 ## [2005-10-12](/news/2005/10/12/index.md)
 
 ### [ Six armed Somali pirates hijack the MV Miltzow, a freighter that is carrying United Nations food aid. After its cargo of 850 tonnes of food aid was offloaded in the port of Merka, the ship was forced to sail down the coast to Barawa before being released two days later. ](/news/2005/10/12/six-armed-somali-pirates-hijack-the-mv-miltzow-a-freighter-that-is-carrying-united-nations-food-aid-after-its-cargo-of-850-tonnes-of-food.md)
-_Context: Barawa, MV Miltzow, Merka, Pirate, Somalia, United Nations, cargo ship, hijack_
+_Context: Barawa, MV Miltzow, Merka, Pirate, Somalian, United Nations, cargo ship, hijack_
 
 ### [ CNN reports that the Louisiana attorney general is investigating the possibility that mercy killings of critically ill patients by staff medical professionals at Memorial Medical Center in New Orleans, Louisiana occurred during Hurricane Katrina. ](/news/2005/10/12/cnn-reports-that-the-louisiana-attorney-general-is-investigating-the-possibility-that-mercy-killings-of-critically-ill-patients-by-staff-me.md)
 _Context: CNN, Hurricane Katrina, Louisiana, Memorial Medical Center, New Orleans, Louisiana, attorney general, whether or not to continue_

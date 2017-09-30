@@ -4,7 +4,7 @@
 _Context: Sanaa, Yemeni security forces, al-Qaeda_
 
 ### [The government of Iraq launches a large-scale military operation to regain control of Fallujah from anti-government fighters. ](/news/2014/05/9/the-government-of-iraq-launches-a-large-scale-military-operation-to-regain-control-of-fallujah-from-anti-government-fighters.md)
-_Context: Fallujah, Iraqi government_
+_Context: Fallujah, federal government_
 
 ### [On Victory Day, the Ukrainian Institute of National Memory calls on Ukrainians to replace the ribbon of Saint George with a red poppy flower, a symbol that is used in Commonwealth countries on Remembrance Day. ](/news/2014/05/9/on-victory-day-the-ukrainian-institute-of-national-memory-calls-on-ukrainians-to-replace-the-ribbon-of-saint-george-with-a-red-poppy-flower.md)
 Symbol of defeat of Nazi Germany seen in new light by neighbouring states 

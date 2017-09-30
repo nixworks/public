@@ -7,7 +7,7 @@ Syrian opposition groups havesigned an initial agreement to form a new coalition
 _Context: 2012 Northern Mali conflict, Mali, Muslims, West Africa_
 
 ### [Bangladesh detains five Rohingya Muslims who fled fighting between Buddhists and Muslims in Burma. ](/news/2012/11/11/bangladesh-detains-five-rohingya-muslims-who-fled-fighting-between-buddhists-and-muslims-in-burma.md)
-_Context: Bangladesh, Burma, Rohingya, fighting between Buddhists and Muslims_
+_Context: Bangladesh, Burma, Rohingya people, fighting between Buddhists and Muslims_
 
 ### [A strong earthquake with the magnitude 6.8 hits northern Burma, killing at least 12 people. ](/news/2012/11/11/a-strong-earthquake-with-the-magnitude-6-8-hits-northern-burma-killing-at-least-12-people.md)
 _Context: Burma, strong earthquake_

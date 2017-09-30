@@ -1,7 +1,7 @@
 ## [2013-11-8](/news/2013/11/8/index.md)
 
 ### [At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/at-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somalian_
 
 ### [UNESCO suspends the voting rights of the United States and Israel after both countries refused to pay their dues as a protest to the membership of the State of Palestine. ](/news/2013/11/8/unesco-suspends-the-voting-rights-of-the-united-states-and-israel-after-both-countries-refused-to-pay-their-dues-as-a-protest-to-the-members.md)
 _Context: Israel, State of Palestine, UNESCO, United States_

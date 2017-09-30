@@ -13,7 +13,7 @@ _Context: EU, Nicolas Sarkozy, President of France, banking_
 _Context: Barack Obama, Czech Republic, Jan Fischer, Polish, Prime Minister of the Czech Republic, U.S. President, United States, missile shield_
 
 ### [ Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. ](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.md)
-_Context: African Union, Mogadishu, Somalia_
+_Context: African Union, Mogadishu, Somalian_
 
 ### [ Shia insurgency in Yemen: More than 80 people are killed in an air raid on a camp for displaced people in northern Yemen. ](/news/2009/09/17/shia-insurgency-in-yemen-more-than-80-people-are-killed-in-an-air-raid-on-a-camp-for-displaced-people-in-northern-yemen.md)
 _Context: Shia insurgency in Yemen, Yemen_
