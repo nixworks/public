@@ -1,6 +1,6 @@
 ### [2017-09-29](/news/2017/09/29/index.md)
 
-# Sun Yat-sen University research published in the journal "Protein & Cell" describes using gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. The genome editing technology Crispr may one day treat a range of inherited diseases. 
+# Sun Yat-sen University research published in the journal "Protein & Cell" describes using gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. Collectively, this study demonstrated the feasibility of curing this and a range of other inherited diseases using the same genome editing technology of CRISPR. 
 
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
 
