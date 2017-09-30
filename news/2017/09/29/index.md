@@ -18,6 +18,9 @@ _Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election,
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
 _Context: Secretary of Health and Human Services, Tom Price, Trump Administration_
 
+### [ESPN Misrepresents Results from Their Own Poll Which Shows Massive Loss of Ratings in Response to Anthem Protests ](/news/2017/09/29/espn-misrepresents-results-from-their-own-poll-which-shows-massive-loss-of-ratings-in-response-to-anthem-protests.md)
+Despite clear results showing Americans are unhappy with the NFL, ESPN insists its new poll shows that the country is &quot;divided.&quot;
+
 ### [Gene therapy and nuclear transfer on oocytes removes the disease beta-thalassemia. ](/news/2017/09/29/gene-therapy-and-nuclear-transfer-on-oocytes-removes-the-disease-beta-thalassemia.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
 
