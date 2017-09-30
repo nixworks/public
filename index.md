@@ -1,7 +1,10 @@
 ## [News](/news/2017/09/30/index.md)
 
-### [In Australian rules football, the Richmond Football Club defeats the Adelaide Football Club in the 2017 AFL Grand Final by 108 points to 60. Dustin Martin won the Norm Smith Medal for best on ground after having won the 2017 Brownlow Medal for the best and fairest player in the competition. ](/news/2017/09/30/in-australian-rules-football-the-richmond-football-club-defeats-the-adelaide-football-club-in-the-2017-afl-grand-final-by-108-points-to-60.md)
-Tigers superstar Dustin Martin became the first player in history to win the Brownlow and Norm Smith medals in the same week.
+### [ A fire at a retirement home in Bucharest leaves one dead and 19 injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-leaves-one-dead-and-19-injured.md)
+Authorities in Romania say one person has died and 19 people were hospitalized for smoke inhalation after a fire broke out at a retirement home in the capital.
+
+### [A military transport plane crashes after take-off from N'djili Airport in Kinshasha, Democratic Republic of Congo. All 12 Russian crew members die in the crash. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasha-democratic-republic-of-congo-all-12-russian-crew-membe.md)
+_Context: Democratic Republic of Congo, Kinshasha, N'djili Airport, Russia_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -27,7 +30,7 @@ _Context: Cuba-United States relations, FBI, U.S. State Department, personnel, s
 _Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election, 2017, last general election_
 
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
-_Context: Secretary of Health and Human Services, Tom Price, Trump Administration_
+_Context: Presidency of Donald Trump, Secretary of Health and Human Services, Tom Price_
 
 ### [Gene therapy and nuclear transfer on oocytes removes the disease beta-thalassemia. ](/news/2017/09/29/gene-therapy-and-nuclear-transfer-on-oocytes-removes-the-disease-beta-thalassemia.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
