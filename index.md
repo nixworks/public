@@ -1,9 +1,9 @@
 ## [News](/news/2017/09/30/index.md)
 
-### [ A fire at a retirement home in Bucharest leaves one dead and 19 injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-leaves-one-dead-and-19-injured.md)
+### [A fire at a retirement home in Bucharest leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-leaves-one-person-dead-and-19-others-injured.md)
 Authorities in Romania say one person has died and 19 people were hospitalized for smoke inhalation after a fire broke out at a retirement home in the capital.
 
-### [A military transport plane crashes after take-off from N'djili Airport in Kinshasha, Democratic Republic of Congo. All 12 Russian crew members die in the crash. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasha-democratic-republic-of-congo-all-12-russian-crew-membe.md)
+### [A military transport plane crashes after take-off from N'djili Airport in Kinshasha, Democratic Republic of Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasha-democratic-republic-of-congo-killing-all-12-russian-cr.md)
 _Context: Democratic Republic of Congo, Kinshasha, N'djili Airport, Russia_
 
 ## Opinion
@@ -32,7 +32,7 @@ _Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election,
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
 _Context: Presidency of Donald Trump, Secretary of Health and Human Services, Tom Price_
 
-### [Gene therapy and nuclear transfer on oocytes removes the disease beta-thalassemia. ](/news/2017/09/29/gene-therapy-and-nuclear-transfer-on-oocytes-removes-the-disease-beta-thalassemia.md)
+### [Sun Yat-sen University research published in the journal "Protein & Cell" describes using gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. The genome editing technology Crispr may one day treat a range of inherited diseases. ](/news/2017/09/29/sun-yat-sen-university-research-published-in-the-journal-protein-cell-describes-using-gene-therapy-in-the-removal-of-a-version-of-the-in.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
 
 ---

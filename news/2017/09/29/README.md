@@ -18,7 +18,7 @@ _Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election,
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
 _Context: Presidency of Donald Trump, Secretary of Health and Human Services, Tom Price_
 
-### [Gene therapy and nuclear transfer on oocytes removes the disease beta-thalassemia. ](/news/2017/09/29/gene-therapy-and-nuclear-transfer-on-oocytes-removes-the-disease-beta-thalassemia.md)
+### [Sun Yat-sen University research published in the journal "Protein & Cell" describes using gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. The genome editing technology Crispr may one day treat a range of inherited diseases. ](/news/2017/09/29/sun-yat-sen-university-research-published-in-the-journal-protein-cell-describes-using-gene-therapy-in-the-removal-of-a-version-of-the-in.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
 
 ## [Previous Day...](/news/2017/09/28/index.md)
