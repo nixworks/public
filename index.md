@@ -1,4 +1,15 @@
-## [News](/news/2017/09/29/index.md)
+## [News](/news/2017/09/30/index.md)
+
+### [In Australian rules football, the Richmond Football Club defeats the Adelaide Football Club in the 2017 AFL Grand Final by 108 points to 60. Dustin Martin won the Norm Smith Medal for best on ground after having won the 2017 Brownlow Medal for the best and fairest player in the competition. ](/news/2017/09/30/in-australian-rules-football-the-richmond-football-club-defeats-the-adelaide-football-club-in-the-2017-afl-grand-final-by-108-points-to-60.md)
+Tigers superstar Dustin Martin became the first player in history to win the Brownlow and Norm Smith medals in the same week.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/29/index.md)
 
 ### [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md)
 _Context: Al-Shabaab, Mogadishu, Somalian, War in Somalia, soldiers_
@@ -21,13 +32,9 @@ _Context: Secretary of Health and Human Services, Tom Price, Trump Administratio
 ### [Gene therapy and nuclear transfer on oocytes removes the disease beta-thalassemia. ](/news/2017/09/29/gene-therapy-and-nuclear-transfer-on-oocytes-removes-the-disease-beta-thalassemia.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/09/28/index.md)
+## [Day Before Yesterday](/news/2017/09/28/index.md)
 
 ### [Whole Foods Market, recently acquired by Amazon, announces hacking of payment card information from some of its stores. ](/news/2017/09/28/whole-foods-market-recently-acquired-by-amazon-announces-hacking-of-payment-card-information-from-some-of-its-stores.md)
 _Context: Amazon, Credit card fraud, Whole Foods Market, hacking_
@@ -52,50 +59,7 @@ The 2011 Japanese tsunami set the stage for something unprecedented. For the fir
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/27/index.md)
-
-### [Russian aircraft carries out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carries-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing.md)
-_Context: Christian, Idlib, Russia, Syrian Civil War_
-
-### [Russia announces it has completed the destruction of all of its chemical weapons under the terms of the Chemical Weapons Convention. ](/news/2017/09/27/russia-announces-it-has-completed-the-destruction-of-all-of-its-chemical-weapons-under-the-terms-of-the-chemical-weapons-convention.md)
-Presiding over the weapons’ destruction, President Vladimir V. Putin suggested that Washington was playing a devious double game.
-
-### [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md)
-_Context: 2017 Kalynivka munitions explosion, Government of Ukraine, Kalynivka, Kiev, Ukraine, sabotage_
-
-### [Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. ](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.md)
-Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
-
-### [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md)
-Secret ballot seen as diplomatic win for Palestinian statehood, as Israel was actively seeking to postpone the vote.
-
-### [Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country from exile. ](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-raufkhon-is-arrested-on-his-return-to-the-central-asian-country-from-exile.md)
-Uzbek police detained dissident writer Nurulloh Muhammad Raufkhon as he returned to the Central Asian country from Turkey on Wednesday, his wife told Reuters.
-
-### [Former Thai Prime Minister Yingluck Shinawatra is sentenced to five years in prison "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-shinawatra-is-sentenced-to-five-years-in-prison-in-absentia.md)
-Yingluck Shinawatra denied negligence over a costly rice subsidy scheme and fled Thailand in August.
-
-### [Tokyo governor Yuriko Koike establishes the conservative Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-conservative-kiba-no-ta-party-of-hope-to-contest-the-upcoming-election-although-she-will-nei.md)
-Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese politics by operating free from the influence of established interests.
-
-### [The Republic of Ireland announces a referendum on abortion will be held between May and June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-between-may-and-june-2018.md)
-Ireland is to hold a referendum on abortion in 2018, it has been announced. A decision on the eighth amendment, which gives equal right to life to the unborn, will take place in May or June next year, according to Prime Minister Leo Varadkar’s government. The public will then decide if abortion sh...
-
-### [The government of Iraqi Kurdistan announces that they won the referendum by over 92% of the vote. ](/news/2017/09/27/the-government-of-iraqi-kurdistan-announces-that-they-won-the-referendum-by-over-92-of-the-vote.md)
-Almost 93 per cent of those who took part in the referendum on support for Kurdish independence from Iraq have vo
-
-### [Former members of the Alternative fur Deutschland party Frauke Petry and Marcus Pretzell may create a new party. ](/news/2017/09/27/former-members-of-the-alternative-fa1-4r-deutschland-party-frauke-petry-and-marcus-pretzell-may-create-a-new-party.md)
-Two breakaway members of Germany&#39;s right-wing AfD party seem set on forming a separate faction in the Bundestag parliament and even a new party. But a freshly elected AfD leader says the move is &quot;doomed to failure.&quot;
-
-### [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md)
-California will move its presidential primary from June to March under a bill signed on Wednesday by Democratic Governor Jerry Brown, a change aimed at giving the liberal-leaning state more influence in choosing candidates from either national party.
-
-### [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md)
-_Context: Facebook, Google, House of Representatives Intelligence Committee, Russian interference in the 2016 United States elections , Senate Intelligence Committee, Twitter_
-
----
-
-## [Previous Day...](/news/2017/09/26/index.md)
+## [Previous Day...](/news/2017/09/27/index.md)
 
 ---
 
