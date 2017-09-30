@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Iraqi News](https://www.iraqinews.com/arab-world-news/russian-airstrikes-christian-majority-villages-idlib-leave-6-casualties/)
+2. [Iraqi News](https://www.iraqinews.com/arab-world-news/russian-warplanes-conduct-18-airstrikes-al-tamanea-city-idlib/)
 
 ### Related:
 

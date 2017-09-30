@@ -16,7 +16,7 @@ _Context: Cuba-United States relations, FBI, U.S. State Department, personnel, s
 _Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election, 2017, last general election_
 
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
-_Context: Presidency of Donald Trump, Secretary of Health and Human Services, Tom Price_
+_Context: Secretary of Health and Human Services, Tom Price, Trump Administration_
 
 ### [DNA surgery on embryos removes disease beta-thalassemia. ](/news/2017/09/29/dna-surgery-on-embryos-removes-disease-beta-thalassemia.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
