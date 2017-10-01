@@ -4,7 +4,7 @@
 _Context: Nevada, O. J. Simpson, O. J. Simpson robbery case_
 
 ### [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md)
-Riot police smashed into one polling station and seized ballot boxes in the banned Catalonia independence referendum, but voting continued elsewhere.
+At least 337 people have been injured in clashes as police try to stop Catalonia&#039;s illegal independence poll, authorities say.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -56,6 +56,9 @@ _Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election,
 
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
 _Context: Presidency of Donald Trump, Secretary of Health and Human Services, Tom Price_
+
+### [Sun Zhengcai is expelled from the Communist Party of China after the results into the internal disciplinary investigation are announced by the Central Commission for Discipline Inspection. ](/news/2017/09/29/sun-zhengcai-is-expelled-from-the-communist-party-of-china-after-the-results-into-the-internal-disciplinary-investigation-are-announced-by-t.md)
+Former rising Chinese political star Sun Zhengcai was expelled from the ruling Communist Party and dismissed from public office Friday amid a corruption investigation.
 
 ### [The journal "Protein & Cell" publishes Sun Yat-sen University research describing the use of gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. Collectively, this study demonstrated the feasibility of curing this and a range of other inherited diseases using the same genome editing technology of CRISPR. ](/news/2017/09/29/the-journal-protein-cell-publishes-sun-yat-sen-university-research-describing-the-use-of-gene-therapy-in-the-removal-of-a-version-of-the.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
