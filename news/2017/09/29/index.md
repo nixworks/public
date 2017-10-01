@@ -6,6 +6,9 @@ _Context: Al-Shabaab, Mogadishu, Somalian, War in Somalia, soldiers_
 ### [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Prabhadevi railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-prabhadevi-rai.md)
 Twenty-two were killed and over 30 seriously injured in a rush-hour stampede in Mumbai this morning, when a crowd tried to leave a narrow railway bridge connecting two stations after heavy rain. Heart-wrenching visuals showed a crush of bodies on the bridge, straining against the railing. Screams we...
 
+### [Mexico City officials ignored warnings that unauthorized construction work had damaged the structural integrity of the Enrique C. Rebsamen school before the magnitude 7.1 quake which hit Sept. 19 and pancaked a three-story wing of the building, killing 26 people including 19 children. An unpermitted and unsound fourth story had been added atop of the wing. ](/news/2017/09/29/mexico-city-officials-ignored-warnings-that-unauthorized-construction-work-had-damaged-the-structural-integrity-of-the-enrique-c-ra-c-bsamen.md)
+ MEXICO CITY (AP) — A Mexico City borough president said officials from a previous administration ignored warnings that unauthorized construction work had damaged the structural in
+
 ### [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md)
 The decision comes as pressure mounts after a decisive “Yes” vote in an independence referendum.
 
@@ -18,7 +21,7 @@ _Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election,
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
 _Context: Presidency of Donald Trump, Secretary of Health and Human Services, Tom Price_
 
-### [Sun Yat-sen University research published in the journal "Protein & Cell" describes using gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. Collectively, this study demonstrated the feasibility of curing this and a range of other inherited diseases using the same genome editing technology of CRISPR. ](/news/2017/09/29/sun-yat-sen-university-research-published-in-the-journal-protein-cell-describes-using-gene-therapy-in-the-removal-of-a-version-of-the-in.md)
+### [The journal "Protein & Cell" publishes Sun Yat-sen University research describing the of use of gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. Collectively, this study demonstrated the feasibility of curing this and a range of other inherited diseases using the same genome editing technology of CRISPR. ](/news/2017/09/29/the-journal-protein-cell-publishes-sun-yat-sen-university-research-describing-the-of-use-of-gene-therapy-in-the-removal-of-a-version-of.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
 
 ## [Previous Day...](/news/2017/09/28/index.md)

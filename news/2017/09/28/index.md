@@ -16,7 +16,7 @@ _Context: Bangladesh, Myanmar, Rohingya people, Rohingya refugee crisis_
 Japan’s opposition forces appeared set to consolidate around Tokyo Governor Yuriko Koike, whose new political group narrowed a gap in opinion polls with Prime Minister Shinzo Abe’s ruling party weeks ahead of a general election.
 
 ### [The President of Catalonia vows to continue on with the vote despite objections from Spain. ](/news/2017/09/28/the-president-of-catalonia-vows-to-continue-on-with-the-vote-despite-objections-from-spain.md)
-_Context: Catalan independence referendum, 2017, Catalonia, President, Spain_
+_Context: Catalan independence referendum, 2017, Catalonia, President, Spanish_
 
 ### [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md)
 The 2011 Japanese tsunami set the stage for something unprecedented. For the first time in recorded history, scientists have detected entire communities of coastal species crossing the ocean by floating on makeshift rafts. Nearly 300 species have appeared on the shores of Hawaii and the U.S. West Co...
