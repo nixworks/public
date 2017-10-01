@@ -15,5 +15,8 @@ _Context: Democratic Republic of the Congo, Kinshasa, N'djili Airport, Russia_
 ### [Tens of thousands of protesters march through Dublin to demand Ireland to change its abortion laws, and anti-abortion activists stage counter-demonstrations. A pro-choice rally is held outside the Irish embassy in London. ](/news/2017/09/30/tens-of-thousands-of-protesters-march-through-dublin-to-demand-ireland-to-change-its-abortion-laws-and-anti-abortion-activists-stage-counte.md)
 It is the first demonstration since PM Varadkar said he would hold a referendum on the issue.
 
+### [About 600 members of the Swedish neo-Nazi group Nordic Resistance Movement march through Gothenburg, and 10,000 people hold a counter-demonstration. More than 50 people are arrested and several people are injured during the protests. ](/news/2017/09/30/about-600-members-of-the-swedish-neo-nazi-group-nordic-resistance-movement-march-through-gothenburg-and-10-000-people-hold-a-counter-demons.md)
+The far-right march was held in Gothenburg, the country&rsquo;s second-largest city.
+
 ## [Previous Day...](/news/2017/09/29/index.md)
 

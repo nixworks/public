@@ -18,6 +18,9 @@ Japan’s opposition forces appeared set to consolidate around Tokyo Governor Yu
 ### [The President of Catalonia vows to continue on with the vote despite objections from Spain. ](/news/2017/09/28/the-president-of-catalonia-vows-to-continue-on-with-the-vote-despite-objections-from-spain.md)
 _Context: Catalan independence referendum, 2017, Catalonia, President, Spanish_
 
+### [The Islamic State of Iraq and the Levant releases footage which apparently show its leader Abu Bakr al-Baghdadi urging his followers to expand their attacks against "crusaders and apostates". ](/news/2017/09/28/the-islamic-state-of-iraq-and-the-levant-releases-footage-which-apparently-show-its-leader-abu-bakr-al-baghdadi-urging-his-followers-to-expa.md)
+The extremist group released what it said was a new recording of its leader, Abu Bakr Baghdadi, a move apparently intended to counter rumors of his death and rally followers after battlefield losses.
+
 ### [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md)
 The 2011 Japanese tsunami set the stage for something unprecedented. For the first time in recorded history, scientists have detected entire communities of coastal species crossing the ocean by floating on makeshift rafts. Nearly 300 species have appeared on the shores of Hawaii and the U.S. West Co...
 

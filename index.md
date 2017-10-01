@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/1/index.md)
 
-### [O. J. Simpson is expected to be released on parole from a Nevada prison. Last July, the parole board set this day as the earliest possible date for his release. ](/news/2017/10/1/o-j-simpson-is-expected-to-be-released-on-parole-from-a-nevada-prison-last-july-the-parole-board-set-this-day-as-the-earliest-possible-d.md)
+### [O. J. Simpson is released from a Nevada prison after serving nine years for a Las Vegas armed robbery. ](/news/2017/10/1/o-j-simpson-is-released-from-a-nevada-prison-after-serving-nine-years-for-a-las-vegas-armed-robbery.md)
 _Context: Nevada, O. J. Simpson, O. J. Simpson robbery case_
 
 ### [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md)
@@ -28,6 +28,9 @@ _Context: Democratic Republic of the Congo, Kinshasa, N'djili Airport, Russia_
 
 ### [Tens of thousands of protesters march through Dublin to demand Ireland to change its abortion laws, and anti-abortion activists stage counter-demonstrations. A pro-choice rally is held outside the Irish embassy in London. ](/news/2017/09/30/tens-of-thousands-of-protesters-march-through-dublin-to-demand-ireland-to-change-its-abortion-laws-and-anti-abortion-activists-stage-counte.md)
 It is the first demonstration since PM Varadkar said he would hold a referendum on the issue.
+
+### [About 600 members of the Swedish neo-Nazi group Nordic Resistance Movement march through Gothenburg, and 10,000 people hold a counter-demonstration. More than 50 people are arrested and several people are injured during the protests. ](/news/2017/09/30/about-600-members-of-the-swedish-neo-nazi-group-nordic-resistance-movement-march-through-gothenburg-and-10-000-people-hold-a-counter-demons.md)
+The far-right march was held in Gothenburg, the country&rsquo;s second-largest city.
 
 ---
 
