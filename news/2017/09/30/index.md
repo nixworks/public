@@ -3,7 +3,7 @@
 ### [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md)
 _Context: Bangladesh, Foreign relations of Thailand, Ministry of Foreign Affairs, Myanmar, Rakhine State, Rohingya persecution in Myanmar (2016-present), Thailand_
 
-### [A police officer in Edmonton, Alberta, Canada is stabbed after attempting to apprehend a man who threw a game-day barricade near Commonwealth Stadium. The suspect fled the scene and remains at large. ](/news/2017/09/30/a-police-officer-in-edmonton-alberta-canada-is-stabbed-after-attempting-to-apprehend-a-man-who-threw-a-game-day-barricade-near-commonwealt.md)
+### [A police officer in Edmonton, Alberta, Canada, is stabbed after attempting to apprehend a man who drove through a game-day barricade near Commonwealth Stadium. The suspect fled the scene and remains at large. ](/news/2017/09/30/a-police-officer-in-edmonton-alberta-canada-is-stabbed-after-attempting-to-apprehend-a-man-who-drove-through-a-game-day-barricade-near-co.md)
 The suspect remains at large, but police have not provided a description. 
 
 ### [A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romania-leaves-one-person-dead-and-19-others-injured.md)

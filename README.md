@@ -1,5 +1,8 @@
 ## [News](/news/2017/10/1/index.md)
 
+### [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md)
+_Context: Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, U.S., Yemen, Yemeni Crisis (2011-present)_
+
 ### [O. J. Simpson is released from a Nevada prison after serving nine years for a Las Vegas armed robbery. ](/news/2017/10/1/o-j-simpson-is-released-from-a-nevada-prison-after-serving-nine-years-for-a-las-vegas-armed-robbery.md)
 _Context: Nevada, O. J. Simpson, O. J. Simpson robbery case_
 
@@ -17,7 +20,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md)
 _Context: Bangladesh, Foreign relations of Thailand, Ministry of Foreign Affairs, Myanmar, Rakhine State, Rohingya persecution in Myanmar (2016-present), Thailand_
 
-### [A police officer in Edmonton, Alberta, Canada is stabbed after attempting to apprehend a man who threw a game-day barricade near Commonwealth Stadium. The suspect fled the scene and remains at large. ](/news/2017/09/30/a-police-officer-in-edmonton-alberta-canada-is-stabbed-after-attempting-to-apprehend-a-man-who-threw-a-game-day-barricade-near-commonwealt.md)
+### [A police officer in Edmonton, Alberta, Canada, is stabbed after attempting to apprehend a man who drove through a game-day barricade near Commonwealth Stadium. The suspect fled the scene and remains at large. ](/news/2017/09/30/a-police-officer-in-edmonton-alberta-canada-is-stabbed-after-attempting-to-apprehend-a-man-who-drove-through-a-game-day-barricade-near-co.md)
 The suspect remains at large, but police have not provided a description. 
 
 ### [A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romania-leaves-one-person-dead-and-19-others-injured.md)
