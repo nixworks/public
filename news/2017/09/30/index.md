@@ -9,7 +9,7 @@ Authorities in Romania say one person has died and 19 people were hospitalized f
 ### [A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasa-democratic-republic-of-the-congo-killing-all-12-russian.md)
 _Context: Democratic Republic of the Congo, Kinshasa, N'djili Airport, Russia_
 
-### [Twenty-nine people are injured, five seriously, when a barrier collapses during a soccer match at Stade de la Licorne in Amiens, France. ](/news/2017/09/30/twenty-nine-people-are-injured-five-seriously-when-a-barrier-collapses-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france.md)
+### [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md)
 Twenty-nine fans were hurt, five of them seriously, when a barrier collapsed Saturday at a stadium in the northern French city of Amiens as away supporters celebrated their opening goal. A fence separating Lille fans from the pitch gave way as they surged forward to celebrate the goal against Amiens
 
 ### [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md)

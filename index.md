@@ -6,6 +6,12 @@ _Context: Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, U.S., Yemen, Yemeni Cri
 ### [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md)
 _Context: France, Marseille, Saint Charles_
 
+### [Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. ](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.md)
+_Context: Anglophone, Anglophone problem (Cameroon), Bamenda, Buea, Cameroon_
+
+### [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md)
+The Islamic State group on Sunday seized a town in central Syria known as a symbol of religious coexistence in a surprise attack against regime forces, a monitor said.
+
 ### [Nevada prison authorities release former NFL player O. J. Simpson on parole after serving nine years for a 2007 Las Vegas armed robbery. Previously, a jury had acquitted Simpson of the 1995 murder of his ex-wife Nicole Brown Simpson and her friend Ron Goldman. ](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.md)
 _Context: Las Vegas, NFL, Nevada, Nicole Brown Simpson, O. J. Simpson, O. J. Simpson robbery case, Ron Goldman, a jury had acquitted Simpson, armed robbery, parole_
 
@@ -32,7 +38,7 @@ Authorities in Romania say one person has died and 19 people were hospitalized f
 ### [A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasa-democratic-republic-of-the-congo-killing-all-12-russian.md)
 _Context: Democratic Republic of the Congo, Kinshasa, N'djili Airport, Russia_
 
-### [Twenty-nine people are injured, five seriously, when a barrier collapses during a soccer match at Stade de la Licorne in Amiens, France. ](/news/2017/09/30/twenty-nine-people-are-injured-five-seriously-when-a-barrier-collapses-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france.md)
+### [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md)
 Twenty-nine fans were hurt, five of them seriously, when a barrier collapsed Saturday at a stadium in the northern French city of Amiens as away supporters celebrated their opening goal. A fence separating Lille fans from the pitch gave way as they surged forward to celebrate the goal against Amiens
 
 ### [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md)
@@ -54,7 +60,7 @@ _Context: Al-Shabaab, Mogadishu, Somalian, War in Somalia, soldiers_
 ### [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md)
 Twenty-two were killed and over 30 seriously injured in a rush-hour stampede in Mumbai this morning, when a crowd tried to leave a narrow railway bridge connecting two stations after heavy rain. Heart-wrenching visuals showed a crush of bodies on the bridge, straining against the railing. Screams we...
 
-### [Mexico City officials ignored warnings that unauthorized construction work had damaged the structural integrity of the Enrique C. Rebsamen school before the magnitude 7.1 quake which hit Sept. 19 and pancaked a three-story wing of the building, killing 26 people including 19 children. An unpermitted and unsound fourth story had been added atop of the wing. The overall death toll now stands at at least 358 people. ](/news/2017/09/29/mexico-city-officials-ignored-warnings-that-unauthorized-construction-work-had-damaged-the-structural-integrity-of-the-enrique-c-ra-c-bsamen.md)
+### [A Mexico City borough president says previous officials ignored warnings that unauthorized construction work had damaged the structural integrity of several buildings in the city. The overall death toll from the magnitude 7.1 quake which hit Sept. 19 now stands at at least 358 people. ](/news/2017/09/29/a-mexico-city-borough-president-says-previous-officials-ignored-warnings-that-unauthorized-construction-work-had-damaged-the-structural-inte.md)
  MEXICO CITY (AP) — A Mexico City borough president said officials from a previous administration ignored warnings that unauthorized construction work had damaged the structural in
 
 ### [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md)
