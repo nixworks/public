@@ -6,8 +6,8 @@ _Context: Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, U.S., Yemen, Yemeni Cri
 ### [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md)
 _Context: France, Marseille, Saint Charles_
 
-### [Nevada prison authorities release O. J. Simpson on parole after serving nine years for a Las Vegas armed robbery. ](/news/2017/10/1/nevada-prison-authorities-release-o-j-simpson-on-parole-after-serving-nine-years-for-a-las-vegas-armed-robbery.md)
-_Context: Las Vegas, Nevada, O. J. Simpson, O. J. Simpson robbery case, armed robbery, parole_
+### [Nevada prison authorities release former NFL player O. J. Simpson on parole after serving nine years for a 2007 Las Vegas armed robbery. Previously, a jury had acquitted Simpson of the 1995 murder of his ex-wife Nicole Brown Simpson and her friend Ron Goldman. ](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.md)
+_Context: Las Vegas, NFL, Nevada, Nicole Brown Simpson, O. J. Simpson, O. J. Simpson robbery case, Ron Goldman, a jury had acquitted Simpson, armed robbery, parole_
 
 ### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
 Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.

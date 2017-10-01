@@ -1,9 +1,6 @@
 ## [2017-09-30](/news/2017/09/30/index.md)
 
-### [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md)
-_Context: Bangladesh, Foreign relations of Thailand, Ministry of Foreign Affairs, Myanmar, Rakhine State, Rohingya persecution in Myanmar (2016-present), Thailand_
-
-### [A police officer in Edmonton, Alberta, Canada, is stabbed after a man drove through a game-day barricade and hit the officer, near Commonwealth Stadium. The suspect fled the scene and was arrested later that night following a police pursuit, where four pedestrians were hit by the suspect in a rental truck. Police are investigating the incident as an act of terrorism ](/news/2017/09/30/a-police-officer-in-edmonton-alberta-canada-is-stabbed-after-a-man-drove-through-a-game-day-barricade-and-hit-the-officer-near-commonwea.md)
+### [In Edmonton, Alberta, Canada, near Commonwealth Stadium, a man drives into a police officer and then stabs the officer. The suspect fled the scene and was later arrested that night following a police pursuit, where four pedestrians were hit by the suspect in a rental truck. Police are investigating the incident as an act of terrorism. ](/news/2017/09/30/in-edmonton-alberta-canada-near-commonwealth-stadium-a-man-drives-into-a-police-officer-and-then-stabs-the-officer-the-suspect-fled-the.md)
 The suspect remains at large, but police have not provided a description. 
 
 ### [A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romania-leaves-one-person-dead-and-19-others-injured.md)
@@ -11,6 +8,12 @@ Authorities in Romania say one person has died and 19 people were hospitalized f
 
 ### [A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasa-democratic-republic-of-the-congo-killing-all-12-russian.md)
 _Context: Democratic Republic of the Congo, Kinshasa, N'djili Airport, Russia_
+
+### [Twenty-nine people are injured, five seriously, when a barrier collapses during a soccer match at Stade de la Licorne in Amiens, France. ](/news/2017/09/30/twenty-nine-people-are-injured-five-seriously-when-a-barrier-collapses-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france.md)
+Twenty-nine fans were hurt, five of them seriously, when a barrier collapsed Saturday at a stadium in the northern French city of Amiens as away supporters celebrated their opening goal. A fence separating Lille fans from the pitch gave way as they surged forward to celebrate the goal against Amiens
+
+### [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md)
+_Context: Bangladesh, Foreign relations of Thailand, Ministry of Foreign Affairs, Myanmar, Rakhine State, Rohingya persecution in Myanmar (2016-present), Thailand_
 
 ### [Tens of thousands of protesters march through Dublin to demand Ireland to change its abortion laws, and anti-abortion activists stage counter-demonstrations. A pro-choice rally is held outside the Irish embassy in London. ](/news/2017/09/30/tens-of-thousands-of-protesters-march-through-dublin-to-demand-ireland-to-change-its-abortion-laws-and-anti-abortion-activists-stage-counte.md)
 It is the first demonstration since PM Varadkar said he would hold a referendum on the issue.
