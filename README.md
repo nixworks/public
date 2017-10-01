@@ -3,6 +3,9 @@
 ### [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md)
 _Context: Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, U.S., Yemen, Yemeni Crisis (2011-present)_
 
+### [Two women are killed by a knife wielding man at Saint Charles train station in Marseille, France. The suspect is killed by police, who are treating the attack as a terrorist incident. ](/news/2017/10/1/two-women-are-killed-by-a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-the-suspect-is-killed-by-police-who-are-t.md)
+_Context: France, Marseille, Saint Charles_
+
 ### [O. J. Simpson is released from a Nevada prison after serving nine years for a Las Vegas armed robbery. ](/news/2017/10/1/o-j-simpson-is-released-from-a-nevada-prison-after-serving-nine-years-for-a-las-vegas-armed-robbery.md)
 _Context: Nevada, O. J. Simpson, O. J. Simpson robbery case_
 
@@ -54,7 +57,7 @@ The decision comes as pressure mounts after a decisive “Yes” vote in an inde
 ### [The U.S. State Department removes all families of employees and nonessential personnel from Cuba following apparent sonic attacks that injured 21 personnel on the island. Cuba denies any involvement and has authorized the FBI to travel to the island to help the ongoing investigation into the causes. ](/news/2017/09/29/the-u-s-state-department-removes-all-families-of-employees-and-nonessential-personnel-from-cuba-following-apparent-sonic-attacks-that-injur.md)
 _Context: Cuba-United States relations, FBI, U.S. State Department, personnel, sonic attacks_
 
-### [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-ge.md)
+### [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall, who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-g.md)
 _Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election, 2017, last general election_
 
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)
