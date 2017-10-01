@@ -13,7 +13,7 @@ At least five people were killed as heavy monsoon rain deluged India&#39;s finan
 The death toll from Harvey was rising and officials said their rescue effort was nowhere near done.
 
 ### [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy acute lymphoblastic leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.md)
-_Context: Childhood leukemia, Food and Drug Administration, Gene therapy, Novartis, U.S., acute lymphoblastic leukemia_
+_Context: Childhood leukemia, Food and Drug Administration, Novartis, U.S., acute lymphoblastic leukemia, gene therapy_
 
 ### [The Government of Hungary has decided to extend the state of emergency declared last year because of the increased migration to and through the country. Government spokesman Zoltan Kovacs stated that strict border controls were still needed because the "threat of terrorism in Europe has increased". ](/news/2017/08/30/the-government-of-hungary-has-decided-to-extend-the-state-of-emergency-declared-last-year-because-of-the-increased-migration-to-and-through.md)
 _Context: European migrant crisis, Government of Hungary, Zoltan Kovacs, states of emergency_

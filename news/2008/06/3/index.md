@@ -7,7 +7,7 @@ _Context: 2000 Olympics, Antonio Pettigrew, EPO, Michael Johnson, Olympic Games,
 _Context: CNPC, Niger, produce oil_
 
 ### [ General Motors announces it will close 4 pickup truck and sports utility vehicle factories in Janesville, Wisconsin, Oshawa, Ontario, Moraine, Ohio, and Toluca, State of Mexico, eliminating 10,000 jobs; it also announces plans for a small car that will achieve 45 miles per gallon in response to rising fuel prices. ](/news/2008/06/3/general-motors-announces-it-will-close-4-pickup-truck-and-sports-utility-vehicle-factories-in-janesville-wisconsin-oshawa-ontario-morai.md)
-_Context: General Motors, Janesville, Wisconsin, Moraine, Ohio, Oshawa, Ontario, Toluca, State of Mexico, eliminating 10,000 jobs, pickup truck, sports utility vehicle_
+_Context: General Motors, Janesville, Wisconsin, Moraine, Ohio, Oshawa, Ontario, Toluca, State of Mexico, layoff, pickup truck, sports utility vehicle_
 
 ### [ NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. ](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-uns.md)
 _Context: Kennedy Space Center, Launch Complex 39B, NASA, STS-124, completes_

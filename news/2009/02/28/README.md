@@ -22,7 +22,7 @@ _Context: President, Robert Mugabe, Zimbabwe, distributing land from white to bl
 _Context: Colombia, Cundinamarca, Revolutionary Armed Forces of Colombia, military_
 
 ### [ A gene linked to a genetic motor neurone disease is discovered. ](/news/2009/02/28/a-gene-linked-to-a-genetic-motor-neurone-disease-is-discovered.md)
-_Context: gene, genetic, motor neurone disease_
+_Context: gene, inherited, motor neurone disease_
 
 ### [ Bangladesh's Army finds more mass graves where Bangladesh Rifles mutinied in Dhaka. ](/news/2009/02/28/bangladesh-s-army-finds-more-mass-graves-where-bangladesh-rifles-mutinied-in-dhaka.md)
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, Dhaka, army, mass grave_
