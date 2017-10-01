@@ -4,7 +4,7 @@
 _Context: Nevada, O. J. Simpson, O. J. Simpson robbery case_
 
 ### [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md)
-_Context: Catalan independence referendum, 2017, Catalonia, Spanish, independence from Spain_
+Riot police smashed into one polling station and seized ballot boxes in the banned Catalonia independence referendum, but voting continued elsewhere.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

@@ -2,13 +2,14 @@
 
 # The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. 
 
-
+Riot police smashed into one polling station and seized ballot boxes in the banned Catalonia independence referendum, but voting continued elsewhere.
 
 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-41457238)
-1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05hql81.jpg)
+2. [NBC News](https://www.nbcnews.com/news/world/catalonia-independence-poll-spanish-police-scuffle-defiant-voters-n806291?cid=eml_nbn_20171001)
+2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2017_39/2173951/171001-world-spain-catalonia-riot-glass-smash-0343_8bb2395158061e5383ceaa3f7924c8f8.nbcnews-fp-1200-630.jpg)
 
 ### Related:
 
