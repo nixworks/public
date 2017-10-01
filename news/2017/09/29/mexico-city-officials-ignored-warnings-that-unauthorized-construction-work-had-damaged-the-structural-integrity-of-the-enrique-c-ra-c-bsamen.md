@@ -1,6 +1,6 @@
 ### [2017-09-29](/news/2017/09/29/index.md)
 
-# Mexico City officials ignored warnings that unauthorized construction work had damaged the structural integrity of the Enrique C. Rebsamen school before the magnitude 7.1 quake which hit Sept. 19 and pancaked a three-story wing of the building, killing 26 people including 19 children. An unpermitted and unsound fourth story had been added atop of the wing. 
+# Mexico City officials ignored warnings that unauthorized construction work had damaged the structural integrity of the Enrique C. Rebsamen school before the magnitude 7.1 quake which hit Sept. 19 and pancaked a three-story wing of the building, killing 26 people including 19 children. An unpermitted and unsound fourth story had been added atop of the wing. The overall death toll now stands at at least 358 people. 
 
  MEXICO CITY (AP) — A Mexico City borough president said officials from a previous administration ignored warnings that unauthorized construction work had damaged the structural in
 

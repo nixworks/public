@@ -1,7 +1,7 @@
 ## [News](/news/2017/10/1/index.md)
 
-### [Convicted armed robbery perpetrator O. J. Simpson is expected to be released on parole from a Nevada prison. ](/news/2017/10/1/convicted-armed-robbery-perpetrator-o-j-simpson-is-expected-to-be-released-on-parole-from-a-nevada-prison.md)
-_Context: Nevada, O. J. Simpson_
+### [O. J. Simpson is expected to be released on parole from a Nevada prison. Last July, the parole board set this day as the earliest possible date for his release. ](/news/2017/10/1/o-j-simpson-is-expected-to-be-released-on-parole-from-a-nevada-prison-last-july-the-parole-board-set-this-day-as-the-earliest-possible-d.md)
+_Context: Nevada, O. J. Simpson, O. J. Simpson robbery case_
 
 ### [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md)
 _Context: Catalan independence referendum, 2017, Catalonia, Spanish, independence from Spain_
@@ -14,6 +14,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/09/30/index.md)
 
+### [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md)
+_Context: Bangladesh, Foreign relations of Thailand, Ministry of Foreign Affairs, Myanmar, Rakhine State, Rohingya persecution in Myanmar (2016-present), Thailand_
+
 ### [A police officer in Edmonton, Alberta, Canada is stabbed after attempting to apprehend a man who threw a game-day barricade near Commonwealth Stadium. The suspect fled the scene and remains at large. ](/news/2017/09/30/a-police-officer-in-edmonton-alberta-canada-is-stabbed-after-attempting-to-apprehend-a-man-who-threw-a-game-day-barricade-near-commonwealt.md)
 The suspect remains at large, but police have not provided a description. 
 
@@ -22,6 +25,9 @@ Authorities in Romania say one person has died and 19 people were hospitalized f
 
 ### [A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasa-democratic-republic-of-the-congo-killing-all-12-russian.md)
 _Context: Democratic Republic of the Congo, Kinshasa, N'djili Airport, Russia_
+
+### [Tens of thousands of protesters march through Dublin to demand Ireland to change its abortion laws, and anti-abortion activists stage counter-demonstrations. A pro-choice rally is held outside the Irish embassy in London. ](/news/2017/09/30/tens-of-thousands-of-protesters-march-through-dublin-to-demand-ireland-to-change-its-abortion-laws-and-anti-abortion-activists-stage-counte.md)
+It is the first demonstration since PM Varadkar said he would hold a referendum on the issue.
 
 ---
 
@@ -33,7 +39,7 @@ _Context: Al-Shabaab, Mogadishu, Somalian, War in Somalia, soldiers_
 ### [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Prabhadevi railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-prabhadevi-rai.md)
 Twenty-two were killed and over 30 seriously injured in a rush-hour stampede in Mumbai this morning, when a crowd tried to leave a narrow railway bridge connecting two stations after heavy rain. Heart-wrenching visuals showed a crush of bodies on the bridge, straining against the railing. Screams we...
 
-### [Mexico City officials ignored warnings that unauthorized construction work had damaged the structural integrity of the Enrique C. Rebsamen school before the magnitude 7.1 quake which hit Sept. 19 and pancaked a three-story wing of the building, killing 26 people including 19 children. An unpermitted and unsound fourth story had been added atop of the wing. ](/news/2017/09/29/mexico-city-officials-ignored-warnings-that-unauthorized-construction-work-had-damaged-the-structural-integrity-of-the-enrique-c-ra-c-bsamen.md)
+### [Mexico City officials ignored warnings that unauthorized construction work had damaged the structural integrity of the Enrique C. Rebsamen school before the magnitude 7.1 quake which hit Sept. 19 and pancaked a three-story wing of the building, killing 26 people including 19 children. An unpermitted and unsound fourth story had been added atop of the wing. The overall death toll now stands at at least 358 people. ](/news/2017/09/29/mexico-city-officials-ignored-warnings-that-unauthorized-construction-work-had-damaged-the-structural-integrity-of-the-enrique-c-ra-c-bsamen.md)
  MEXICO CITY (AP) — A Mexico City borough president said officials from a previous administration ignored warnings that unauthorized construction work had damaged the structural in
 
 ### [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md)
