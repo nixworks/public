@@ -2,14 +2,13 @@
 
 # The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. 
 
- BARCELONA, Spain (AP) — Catalans were defying rain and police orders to leave designated polling stations Sunday ahead of a banned referendum on the region&#39;s secession that has ch
+
 
 
 ### Source:
 
-1. [AP](https://apnews.com/5341651334024917ad52c0cfa96c3cfd/Catalans-assemble-in-polling-stations-defying-police-orders)
-2. [BBC](http://www.bbc.com/news/world-europe-41457238)
-2. [Cover Image](https://storage.googleapis.com/afs-prod/media/media:a688b27aecdf461e9b9067b7dfb1adde/800.jpeg)
+1. [BBC](http://www.bbc.com/news/world-europe-41457238)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05hql81.jpg)
 
 ### Related:
 
