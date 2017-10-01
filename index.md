@@ -3,11 +3,14 @@
 ### [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md)
 _Context: Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, U.S., Yemen, Yemeni Crisis (2011-present)_
 
-### [Two women are killed by a knife wielding man at Saint Charles train station in Marseille, France. The suspect is killed by police, who are treating the attack as a terrorist incident. ](/news/2017/10/1/two-women-are-killed-by-a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-the-suspect-is-killed-by-police-who-are-t.md)
+### [Two women are killed by a knife-wielding man at Saint Charles train station in Marseille, France. The suspect is killed by police, who are treating the attack as a terrorist incident. ](/news/2017/10/1/two-women-are-killed-by-a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-the-suspect-is-killed-by-police-who-are-t.md)
 _Context: France, Marseille, Saint Charles_
 
 ### [O. J. Simpson is released from a Nevada prison after serving nine years for a Las Vegas armed robbery. ](/news/2017/10/1/o-j-simpson-is-released-from-a-nevada-prison-after-serving-nine-years-for-a-las-vegas-armed-robbery.md)
 _Context: Nevada, O. J. Simpson, O. J. Simpson robbery case_
+
+### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
+Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.
 
 ### [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md)
 At least 337 people have been injured in clashes as police try to stop Catalonia&#039;s illegal independence poll, authorities say.
@@ -23,7 +26,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md)
 _Context: Bangladesh, Foreign relations of Thailand, Ministry of Foreign Affairs, Myanmar, Rakhine State, Rohingya persecution in Myanmar (2016-present), Thailand_
 
-### [A police officer in Edmonton, Alberta, Canada, is stabbed after attempting to apprehend a man who drove through a game-day barricade near Commonwealth Stadium. The suspect fled the scene and remains at large. ](/news/2017/09/30/a-police-officer-in-edmonton-alberta-canada-is-stabbed-after-attempting-to-apprehend-a-man-who-drove-through-a-game-day-barricade-near-co.md)
+### [A police officer in Edmonton, Alberta, Canada, is stabbed after a man drove through a game-day barricade and hit the officer, near Commonwealth Stadium. The suspect fled the scene and was arrested later that night following a police pursuit, where 4 pedestrians were hit by the suspect in a U-Haul truck. ](/news/2017/09/30/a-police-officer-in-edmonton-alberta-canada-is-stabbed-after-a-man-drove-through-a-game-day-barricade-and-hit-the-officer-near-commonwea.md)
 The suspect remains at large, but police have not provided a description. 
 
 ### [A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romania-leaves-one-person-dead-and-19-others-injured.md)

@@ -1,6 +1,6 @@
 ### [2017-10-1](/news/2017/10/1/index.md)
 
-# Two women are killed by a knife wielding man at Saint Charles train station in Marseille, France. The suspect is killed by police, who are treating the attack as a terrorist incident. 
+# Two women are killed by a knife-wielding man at Saint Charles train station in Marseille, France. The suspect is killed by police, who are treating the attack as a terrorist incident. 
 
 
 
