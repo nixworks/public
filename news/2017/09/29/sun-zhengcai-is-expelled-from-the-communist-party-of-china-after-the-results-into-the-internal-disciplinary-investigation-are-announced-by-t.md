@@ -8,7 +8,7 @@ Former rising Chinese political star Sun Zhengcai was expelled from the ruling C
 ### Source:
 
 1. [SCMP](http://www.scmp.com/news/china/policies-politics/article/2113515/dozen-more-chongqing-officials-could-be-caught-sun)
-2. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/china-communist-party-expels-former-star-sun-zhengcai/2017/09/29/e8e22c78-a506-11e7-b573-8ec86cdfe1ed_story.html?utm_term=.9d383c45ed2a)
+2. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/china-communist-party-expels-former-star-sun-zhengcai/2017/09/29/e8e22c78-a506-11e7-b573-8ec86cdfe1ed_story.html?utm_term=.9d383c45ed2a)
 
 ### Related:
 

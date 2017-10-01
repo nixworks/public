@@ -1,6 +1,6 @@
 ### [2017-09-30](/news/2017/09/30/index.md)
 
-# A police officer in Edmonton, Alberta, Canada, is stabbed after a man drove through a game-day barricade and hit the officer, near Commonwealth Stadium. The suspect fled the scene and was arrested later that night following a police pursuit, where 4 pedestrians were hit by the suspect in a U-Haul truck. 
+# A police officer in Edmonton, Alberta, Canada, is stabbed after a man drove through a game-day barricade and hit the officer, near Commonwealth Stadium. The suspect fled the scene and was arrested later that night following a police pursuit, where four pedestrians were hit by the suspect in a rental truck. Police are investigating the incident as an act of terrorism 
 
 The suspect remains at large, but police have not provided a description. 
 
@@ -8,7 +8,8 @@ The suspect remains at large, but police have not provided a description.
 ### Source:
 
 1. [Edmonton Journal](http://edmontonjournal.com/news/crime/heavy-police-presence-near-commonwealth-stadium-officers-checking-vehicles)
-1. [Cover Image](https://postmediaedmontonjournal2.files.wordpress.com/2017/09/image_uploaded_from_ios-jpg.jpg)
+2. [Reuters](https://www.reuters.com/article/us-canada-attacks/canadian-police-probe-car-attacks-stabbing-as-acts-of-terrorism-idUSKCN1C61FP)
+2. [Cover Image](https://postmediaedmontonjournal2.files.wordpress.com/2017/09/image_uploaded_from_ios-jpg.jpg)
 
 ### Related:
 
