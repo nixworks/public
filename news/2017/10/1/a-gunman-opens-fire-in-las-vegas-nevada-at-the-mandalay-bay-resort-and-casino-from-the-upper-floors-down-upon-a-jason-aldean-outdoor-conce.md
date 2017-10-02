@@ -1,6 +1,6 @@
 ### [2017-10-1](/news/2017/10/1/index.md)
 
-# A gunman opens fire in Las Vegas, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 58 people dead and 515 others injuried. Authorities believe the lone gunman is dead. 
+# A gunman opens fire in Las Vegas, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 2 people dead and 26 others injuried. Authorities believe the lone gunman is dead. 
 
 In addition to the two fatalities, hospital officials said at least 24 people had been wounded after a gunman opened fire at a country music concert.
 
