@@ -3,7 +3,7 @@
 ### [The Luxor Hotel is placed on lockdown due to a bomb threat. ](/news/2017/10/2/the-luxor-hotel-is-placed-on-lockdown-due-to-a-bomb-threat.md)
 A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, Las Vegas. 
 
-### [Jeffrey C. Hall, Michael Rosbash and Michael W. Young were awarded the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/jeffrey-c-hall-michael-rosbash-and-michael-w-young-were-awarded-the-prize-for-their-work-on-molecular-mechanisms-that-control-circadian-s.md)
+### [The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.md)
 Scientists share prize awarded for discoveries of molecular mechanisms controlling circadian rhythms – the body’s inner clock – fundamental to human health
 
 ## Opinion
@@ -15,7 +15,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2017/10/1/index.md)
 
 ### [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md)
-_Context: Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, U.S., Yemen, Yemeni Crisis (2011-present)_
+_Context: Americans, Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, Yemen, Yemeni Crisis (2011-present)_
 
 ### [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md)
 _Context: France, Islamic State, Marseille, Saint Charles, kills two women_
