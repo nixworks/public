@@ -12,8 +12,8 @@ _Context: Anglophone, Anglophone problem (Cameroon), Bamenda, Buea, Cameroon_
 ### [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md)
 The Islamic State group on Sunday seized a town in central Syria known as a symbol of religious coexistence in a surprise attack against regime forces, a monitor said.
 
-### [ A gunman opened fire in Las Vegas, Nevada at the Mandalay Bay Resort and Casino, with reports of multiple casualties. ("[https://www.nytimes.com/2017/10/02/us/las-vegas-shooting.html NY Times]")](/news/2017/10/1/a-gunman-opened-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-with-reports-of-multiple-casualties-https-www-nytime.md)
-_Context: Mandalay Bay Resort and Casino_
+### [A gunman opens fire in Las Vegas, Nevada at the Mandalay Bay Resort and Casino, with reports of multiple casualties. ](/news/2017/10/1/a-gunman-opens-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-with-reports-of-multiple-casualties.md)
+In addition to the two fatalities, hospital officials said at least 24 people had been wounded after a gunman opened fire at a country music concert.
 
 ### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
 Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.
