@@ -11,7 +11,8 @@ A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, L
 2. [Express](http://www.express.co.uk/news/world/861169/las-vegas-shooting-mandalay-bay-resort-luxor-hotel-bomb-threat)
 3. [The Guardian](https://www.theguardian.com/us-news/live/2017/oct/02/las-vegas-two-dead-in-mandalay-bay-casino-shooting-latest-updates)
 4. [The New York Times](https://www.nytimes.com/2017/10/02/us/las-vegas-shooting.html)
-4. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/750x445/861169.jpg)
+5. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/10/02/police-shut-down-part-of-las-vegas-strip-due-to-shooting/?hpid=hp_hp-banner-main_las-vegas-230am%3Ahomepage%2Fstory&utm_term=.0ab7f30e97d7)
+5. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/750x445/861169.jpg)
 
 ### Related:
 
