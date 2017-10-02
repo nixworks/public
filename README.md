@@ -3,8 +3,11 @@
 ### [The Luxor Hotel is placed on lockdown due to a bomb threat. ](/news/2017/10/2/the-luxor-hotel-is-placed-on-lockdown-due-to-a-bomb-threat.md)
 A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, Las Vegas. 
 
-### [ Thirty-thousand North Korean rockets are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (406 million EGP/W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rockets-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptian-business-execut.md)
-_Context: EGP, Egypt, North Korea, W_
+### [Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. ](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.md)
+Two suicide bombers attacked a police station in Damascus on Monday, killing a number of civilians and policemen, the interior minister said, in the first such attack in the Syrian capital since July.
+
+### [Thirty-thousand North Korean rockets are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (j.m<font color="white"><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small>d</small></small></small></small></small></small></small></small></small></small></small></small></small></small></small></small></small></small></small></small></font>406 million/W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rockets-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptian-business-executi.md)
+_Context: Egypt, Egypt-North Korea relations, North Korea, W, j.m_
 
 ### [The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.md)
 Scientists share prize awarded for discoveries of molecular mechanisms controlling circadian rhythms – the body’s inner clock – fundamental to human health
@@ -21,7 +24,7 @@ Most of the daily information we see on the mainstream media today is the news e
 _Context: Americans, Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, Yemen, Yemeni Crisis (2011-present)_
 
 ### [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md)
-_Context: France, Islamic State, Marseille, Saint Charles, kills two women_
+_Context: France, Islamic State, Marseille, Marseille stabbing, Saint Charles_
 
 ### [Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. ](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.md)
 _Context: Anglophone, Anglophone problem (Cameroon), Bamenda, Buea, Cameroon_

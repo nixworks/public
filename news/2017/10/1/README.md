@@ -4,7 +4,7 @@
 _Context: Americans, Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, Yemen, Yemeni Crisis (2011-present)_
 
 ### [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md)
-_Context: France, Islamic State, Marseille, Saint Charles, kills two women_
+_Context: France, Islamic State, Marseille, Marseille stabbing, Saint Charles_
 
 ### [Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. ](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.md)
 _Context: Anglophone, Anglophone problem (Cameroon), Bamenda, Buea, Cameroon_
