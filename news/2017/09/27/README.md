@@ -7,7 +7,7 @@ _Context: Christian, Idlib, Russia, Syrian Civil War_
 Presiding over the weapons’ destruction, President Vladimir V. Putin suggested that Washington was playing a devious double game.
 
 ### [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md)
-_Context: 2017 Kalynivka munitions explosion, Government of Ukraine, Kalynivka, Kiev, Ukraine, sabotage_
+_Context: 2017 Kalynivka ammunition depot explosion, Government of Ukraine, Kalynivka, Kiev, Ukraine, sabotage_
 
 ### [Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. ](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.md)
 Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
