@@ -1,7 +1,7 @@
 ## [News](/news/2017/10/2/index.md)
 
-### [Police in Las Vegas are responding to reports of an active shooter near the Mandalay Bay Hotel. The attack occurred during a performance by country music singer Jason Aldean. ](/news/2017/10/2/police-in-las-vegas-are-responding-to-reports-of-an-active-shooter-near-the-mandalay-bay-hotel-the-attack-occurred-during-a-performance-by.md)
-Multiple people are being treated for gunshot wounds after at least one shooter opened fire at the Mandalay Bay hotel and casino.
+### [The Luxor Hotel is placed on lockdown due to a bomb threat. ](/news/2017/10/2/the-luxor-hotel-is-placed-on-lockdown-due-to-a-bomb-threat.md)
+A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, Las Vegas. 
 
 ### [The Nobel Prize committee will announce which scientist has won the Nobel Prize in Physiology or Medicine. ](/news/2017/10/2/the-nobel-prize-committee-will-announce-which-scientist-has-won-the-nobel-prize-in-physiology-or-medicine.md)
 _Context: Nobel Prize, Nobel Prize in Physiology or Medicine_
@@ -26,8 +26,11 @@ _Context: Anglophone, Anglophone problem (Cameroon), Bamenda, Buea, Cameroon_
 ### [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md)
 The Islamic State group on Sunday seized a town in central Syria known as a symbol of religious coexistence in a surprise attack against regime forces, a monitor said.
 
-### [A gunman opens fire in Las Vegas, Nevada at the Mandalay Bay Resort and Casino, with reports of multiple casualties. ](/news/2017/10/1/a-gunman-opens-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-with-reports-of-multiple-casualties.md)
+### [A gunman opens fire in Las Vegas, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean concert, with at least 2 people dead and 26 others injuried. Authorities believe the lone gunman is dead. ](/news/2017/10/1/a-gunman-opens-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-concert-with.md)
 In addition to the two fatalities, hospital officials said at least 24 people had been wounded after a gunman opened fire at a country music concert.
+
+### [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving 10's of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md)
+_Context: Monarch Airlines, United Kingdom, bankruptcy_
 
 ### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
 Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.
