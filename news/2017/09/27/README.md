@@ -1,6 +1,6 @@
 ## [2017-09-27](/news/2017/09/27/index.md)
 
-### [Russian aircraft carries out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carries-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing.md)
+### [Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carry-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing-a.md)
 _Context: Christian, Idlib, Russia, Syrian Civil War_
 
 ### [Russia announces it has completed the destruction of all of its chemical weapons under the terms of the Chemical Weapons Convention. ](/news/2017/09/27/russia-announces-it-has-completed-the-destruction-of-all-of-its-chemical-weapons-under-the-terms-of-the-chemical-weapons-convention.md)

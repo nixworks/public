@@ -6,14 +6,17 @@ A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, L
 ### [Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. ](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.md)
 Two suicide bombers attacked a police station in Damascus on Monday, killing a number of civilians and policemen, the interior minister said, in the first such attack in the Syrian capital since July.
 
+### [American singer and songwriter Tom Petty dies at UCLA Medical Center, Santa Monica, at the age of 66. ](/news/2017/10/2/american-singer-and-songwriter-tom-petty-dies-at-ucla-medical-center-santa-monica-at-the-age-of-66.md)
+U.S. rocker Tom Petty was reported on Monday to be clinging to life in a southern California hospital after conflicting reports that he had died.
+
 ### [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (j.m d 406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md)
 _Context: Egypt, Egypt-North Korea relations, North Korea, W, j.m_
 
 ### [The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.md)
 Scientists share prize awarded for discoveries of molecular mechanisms controlling circadian rhythms – the body’s inner clock – fundamental to human health
 
-### [ Former astronaut Julie Payette is installed as Canada's 29th Governor General of Canada. ](/news/2017/10/2/former-astronaut-julie-payette-is-installed-as-canada-s-29th-governor-general-of-canada.md)
-_Context: Canada, Governor General of Canada, Julie Payette_
+### [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md)
+_Context: Governor General of Canada, Julie Payette, Justin Trudeau, Politics of Canada, Prime Minister of Canada_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -35,7 +38,7 @@ _Context: Anglophone, Anglophone problem (Cameroon), Bamenda, Buea, Cameroon_
 ### [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md)
 The Islamic State group on Sunday seized a town in central Syria known as a symbol of religious coexistence in a surprise attack against regime forces, a monitor said.
 
-### [A gunman opens fire in Las Vegas, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean concert, with at least 2 people dead and 26 others injuried. Authorities believe the lone gunman is dead. ](/news/2017/10/1/a-gunman-opens-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-concert-with.md)
+### [A gunman opens fire in Las Vegas, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 2 people dead and 26 others injuried. Authorities believe the lone gunman is dead. ](/news/2017/10/1/a-gunman-opens-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-outdoor-conce.md)
 In addition to the two fatalities, hospital officials said at least 24 people had been wounded after a gunman opened fire at a country music concert.
 
 ### [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving 10's of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md)
