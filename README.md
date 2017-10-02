@@ -1,5 +1,8 @@
 ## [News](/news/2017/10/2/index.md)
 
+### [Police in Las Vegas are responding to reports of an active shooter near the Mandalay Bay Hotel. ](/news/2017/10/2/police-in-las-vegas-are-responding-to-reports-of-an-active-shooter-near-the-mandalay-bay-hotel.md)
+A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, Las Vegas. 
+
 ### [The Nobel Prize committee will announce which scientist has won the Nobel Prize in Physiology or Medicine. ](/news/2017/10/2/the-nobel-prize-committee-will-announce-which-scientist-has-won-the-nobel-prize-in-physiology-or-medicine.md)
 _Context: Nobel Prize, Nobel Prize in Physiology or Medicine_
 
@@ -22,6 +25,9 @@ _Context: Anglophone, Anglophone problem (Cameroon), Bamenda, Buea, Cameroon_
 
 ### [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md)
 The Islamic State group on Sunday seized a town in central Syria known as a symbol of religious coexistence in a surprise attack against regime forces, a monitor said.
+
+### [ A gunman opened fire in Las Vegas, Nevada at the Mandalay Bay Resort and Casino, with reports of multiple casualties. ("[https://www.nytimes.com/2017/10/02/us/las-vegas-shooting.html NY Times]")](/news/2017/10/1/a-gunman-opened-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-with-reports-of-multiple-casualties-https-www-nytime.md)
+_Context: Mandalay Bay Resort and Casino_
 
 ### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
 Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.
