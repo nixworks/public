@@ -21,5 +21,8 @@ _Context: Las Vegas, NFL, Nevada, Nicole Brown Simpson, O. J. Simpson, O. J. Sim
 ### [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. Catalan President Carles Puigdemont says Catalonia "has won the right to become an independent state." ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md)
 At least 337 people have been injured in clashes as police try to stop Catalonia&#039;s illegal independence poll, authorities say.
 
+### [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md)
+Justin Trudeau congratulates 38-year-old Sikh lawyer on election to lead New Democratic party into 2019 federal election
+
 ## [Previous Day...](/news/2017/09/30/index.md)
 
