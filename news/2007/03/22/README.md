@@ -16,7 +16,7 @@ _Context: AOL, MSN, NBC, News Limited, Yahoo!, YouTube, video_
 _Context: 2007 Zimbabwean political crisis, Archbishop, Bulawayo, Pius Ncube, President of Zimbabwe, Robert Mugabe, Roman Catholic Church_
 
 ### [ Fighting erupts in Kinshasa, Democratic Republic of Congo, between Government troops and the personal militia of Jean-Pierre Bemba, defeated presidential candidate in 2006 and recently elected Senator. The Spanish embassy is caught in the crossfire, leading to its evacuation under United Nations guard. ](/news/2007/03/22/fighting-erupts-in-kinshasa-democratic-republic-of-congo-between-government-troops-and-the-personal-militia-of-jean-pierre-bemba-defeate.md)
-_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, Spain, United Nations, embassies, militia, presidential candidate in 2006, recently elected_
+_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, Spanish, United Nations, embassies, militia, presidential candidate in 2006, recently elected_
 
 ### [ The European Union agrees to open the trans-Atlantic air market to greater competition. ](/news/2007/03/22/the-european-union-agrees-to-open-the-trans-atlantic-air-market-to-greater-competition.md)
 European Union governments backed a deal with the United States that would open restricted airline routes to new rivals.
@@ -31,7 +31,7 @@ _Context: 7 July, England, police_
 _Context: Baghdad, Ban Ki-moon, Iraqi Prime Minister, Nouri Maliki, Secretary General, United Nations, bomb_
 
 ### [ Former U.S. Ambassador to the United Nations John R. Bolton claims the United States deliberately resisted calls for an immediate ceasefire during the 2006 Israel-Lebanon conflict. ](/news/2007/03/22/former-u-s-ambassador-to-the-united-nations-john-r-bolton-claims-the-united-states-deliberately-resisted-calls-for-an-immediate-ceasefire.md)
-_Context: Ambassador to the United Nations, John R. Bolton, United States, ceasefire, war_
+_Context: Ambassador to the United Nations, John R. Bolton, U.S., ceasefire, war_
 
 ### [ Amnesty International calls on governments not to co-operate with U.S. military in trials of detainees at Guantanamo Bay. ](/news/2007/03/22/amnesty-international-calls-on-governments-not-to-co-operate-with-u-s-military-in-trials-of-detainees-at-guanta-namo-bay.md)
 _Context: Amnesty International, Guantanamo Bay, U.S. military_

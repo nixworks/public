@@ -10,7 +10,7 @@ _Context: Canada_
 Typhoon Haitang, which brought tremendous rainfall and caused dozens of casualties in Taiwan, yesterday was downgraded into a less-devastating tropical storm. However, the Central Weather Bureau (CWB) reminded people of the danger of potential flooding, because torrential rainfall is expected to con...
 
 ### [ Government of Thailand changes the new emergency laws, weakening two articles that would have, among other things, enforced curfews and censorship of personal communication. ](/news/2005/07/20/government-of-thailand-changes-the-new-emergency-laws-weakening-two-articles-that-would-have-among-other-things-enforced-curfews-and-cen.md)
-_Context: Thai, censorship, curfew_
+_Context: Thailand, censorship, curfew_
 
 ### [ Saudi Arabian long-time ambassador to the US, prince Bandar bin Sultan, resigns for "personal reasons" ](/news/2005/07/20/saudi-arabian-long-time-ambassador-to-the-us-prince-bandar-bin-sultan-resigns-for-personal-reasons.md)
 _Context: Bandar bin Sultan, Saudi Arabia_

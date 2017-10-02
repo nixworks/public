@@ -22,7 +22,7 @@ _Context: Al Qaida's, George W. Bush, Iraq, Richard Clarke, September 11, 2001 a
 _Context: Algeria, Algiers_
 
 ### [ Mijailo Mijailovic is sentenced to life imprisonment for the equivalent of First-degree murder, found guilty of assassination of Sweden's Foreign Minister Anna Lindh, September 10, 2003.](/news/2004/03/22/mijailo-mijailovic-is-sentenced-to-life-imprisonment-for-the-equivalent-of-first-degree-murder-found-guilty-of-assassination-of-sweden-s-f.md)
-_Context: Anna Lindh, Mijailo Mijailovic, Sweden, first-degree murder, life imprisonment_
+_Context: Anna Lindh, Mijailo Mijailovic, Swedish, first-degree murder, life imprisonment_
 
 ### [ Same-sex marriage in the U.S.: Benton County, Oregon, commissioners, after receiving a letter from state attorney general Hardy Myers, reverse their earlier vote to begin issuing marriage licenses to same-sex couples this Wednesday. But, stating they will observe the principle of equal treatment under the law, the commissioners decide that the county will stop issuing "any" marriage licenses until the Oregon Supreme Court has ruled on the constitutionality of the law. ](/news/2004/03/22/same-sex-marriage-in-the-u-s-benton-county-oregon-commissioners-after-receiving-a-letter-from-state-attorney-general-hardy-myers-reve.md)
 _Context: Benton County, Oregon, Hardy Myers, Oregon Supreme Court, same-sex marriage_

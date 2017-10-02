@@ -10,7 +10,7 @@ Heavy rains drenched Puerto Rico on Monday as a slow-moving tropical disturbance
 _Context: African National Congress, Kgalema Motlanthe, South Africa, Thabo Mbeki_
 
 ### [ More than 18,000 archived radio programs are indefinitely lost after the main computer server at Sweden's National Radio crashed last month. ](/news/2008/09/22/more-than-18-000-archived-radio-programs-are-indefinitely-lost-after-the-main-computer-server-at-sweden-s-national-radio-crashed-last-month.md)
-_Context: National Radio, Sweden, computer server_
+_Context: National Radio, Swedish, computer server_
 
 ### [ Liberal Democratic Party (Japan) leadership election, 2008: Japan's ruling Liberal Democratic Party chooses former Foreign Minister of Japan Taro Aso as the next Prime Minister of Japan replacing Yasuo Fukuda. ](/news/2008/09/22/liberal-democratic-party-japan-leadership-election-2008-japan-s-ruling-liberal-democratic-party-chooses-former-foreign-minister-of-japa.md)
 _Context: Foreign Minister of Japan, Japan, Liberal Democratic Party, Liberal Democratic Party (Japan) leadership election, 2008, Prime Minister of Japan, Taro Aso, Yasuo Fukuda_

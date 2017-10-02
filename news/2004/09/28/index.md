@@ -16,7 +16,7 @@ _Context: Crawford, Texas, Democratic, George W. Bush, John Kerry, Texas, U.S. P
 _Context: Gallup poll, Giovanni di Stefano, President, Saddam Hussein_
 
 ### [ Health officials in Thailand report that they have identified a likely case of human to human transmission of the H5N1 strain of avian influenza, although the World Health Organization says the transmission occurred only after prolonged contact between individuals. A more easily transmitted virus could potentially cause a worldwide flu pandemic on the level of the 1918 Spanish flu. ](/news/2004/09/28/health-officials-in-thailand-report-that-they-have-identified-a-likely-case-of-human-to-human-transmission-of-the-h5n1-strain-of-avian-infl.md)
-_Context: Avian flu virus, Spanish Flu, Thai, World Health Organization, bird flu, pandemic_
+_Context: Avian flu virus, Spanish Flu, Thailand, World Health Organization, bird flu, pandemic_
 
 ### [ In Baghdad, two Italian aid workers, Simona Pari and Simona Torretta are released, three weeks after they were taken hostage, along with two Iraq]is who had been captured with them. In a separate incident, four Egyptian workers are also released. ](/news/2004/09/28/in-baghdad-two-italian-aid-workers-simona-pari-and-simona-torretta-are-released-three-weeks-after-they-were-taken-hostage-along-with-tw.md)
 _Context: Baghdad, Simona Pari, Simona Torretta, hostage_

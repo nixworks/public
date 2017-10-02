@@ -77,7 +77,7 @@ _Context: Batumi, Mikhail Saakashvili, President of Georgia, Tbilisi_
 _Context: British government_
 
 ### [In local and regional elections in Spain, the conservative People's Party performs well, while the ruling Socialist Party suffers heavy losses. ](/news/2011/05/22/in-local-and-regional-elections-in-spain-the-conservative-people-s-party-performs-well-while-the-ruling-socialist-party-suffers-heavy-loss.md)
-_Context: People's Party, Socialist Workers' Party, Spain, local and regional elections_
+_Context: People's Party, Socialist Workers' Party, Spanish, local and regional elections_
 
 ### [Tim Pawlenty, ex-Governor of Minnesota, announces his candidacy for the Republican nomination as President of the United States. ](/news/2011/05/22/tim-pawlenty-ex-governor-of-minnesota-announces-his-candidacy-for-the-republican-nomination-as-president-of-the-united-states.md)
 _Context: Minnesota Governor, Tim Pawlenty, U.S. President, candidacy, nomination_

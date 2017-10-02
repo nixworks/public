@@ -31,7 +31,7 @@ The 84 million shares of stock have been purchased nowadays by GM from the UST a
 The death toll from the Christmas Island shipwreck could rise as high as 50, Prime Minister Julia Gillard confirmed today.
 
 ### [At least 26 people are killed and several others are injured when a bus carrying tourists from Thailand overturns in Malaysia. ](/news/2010/12/20/at-least-26-people-are-killed-and-several-others-are-injured-when-a-bus-carrying-tourists-from-thailand-overturns-in-malaysia.md)
-_Context: Malaysia, Thai_
+_Context: Malaysia, Thailand_
 
 ### [Three people were killed and 23 wounded in a bomb attack on a bus in central Nairobi, Kenya. ](/news/2010/12/20/three-people-were-killed-and-23-wounded-in-a-bomb-attack-on-a-bus-in-central-nairobi-kenya.md)
 _Context: Kenya, Nairobi_
@@ -43,7 +43,7 @@ A powerful earthquake struck a sparsely populated district of southeastern Iran,
 Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear and defence contracts worth billions of dollars.
 
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
-_Context: Bill Richardson, IAEA, North Korea, United Nations, United States_
+_Context: Bill Richardson, IAEA, North Korea, U.S., United Nations_
 
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)
 _Context: Israel, State of Palestine, UN_

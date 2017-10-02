@@ -13,7 +13,7 @@ Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has b
 _Context: Solomon Islands, Truth and Reconciliation Commission_
 
 ### [A Uyghur man is sentenced to 16 months imprisonment for spying on a Uyghur community in Sweden and passing information to China. ](/news/2010/03/9/a-uyghur-man-is-sentenced-to-16-months-imprisonment-for-spying-on-a-uyghur-community-in-sweden-and-passing-information-to-china.md)
-_Context: China, Sweden, Uyghur_
+_Context: China, Swedish, Uyghur_
 
 ### [Seven people are arrested in Ireland &mdash; five in Waterford and two in Cork &mdash; over an alleged plot to assassinate Swedish artist Lars Vilks. ](/news/2010/03/9/seven-people-are-arrested-in-ireland-mdash-five-in-waterford-and-two-in-cork-mdash-over-an-alleged-plot-to-assassinate-swedish-artist-la.md)
 Seven people have been arrested in the southeast by gardaí investigating a conspiracy to kill an individual abroad.

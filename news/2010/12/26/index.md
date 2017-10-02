@@ -7,7 +7,7 @@ Further violence has broken out in the city of Jos in central Nigeria following 
 _Context: Afghanistan, Turkey_
 
 ### [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md)
-_Context: Somali pirates, Somalian, Thai_
+_Context: Somali pirates, Somalian, Thailand_
 
 ### [Israeli forces kill 2 Palestinian militants of the al-Quds Brigades of the Islamic Jihad who were planting an explosive device to be used against an Israeli patrol near the border in the southern Gaza Strip. ](/news/2010/12/26/israeli-forces-kill-2-palestinian-militants-of-the-al-quds-brigades-of-the-islamic-jihad-who-were-planting-an-explosive-device-to-be-used-ag.md)
 Two Islamic Jihad militants killed by fire along Strip border; Deputy PM: &quot;I hope there is not need for another operation such as Cast Lead.”
@@ -16,7 +16,7 @@ Two Islamic Jihad militants killed by fire along Strip border; Deputy PM: &quot;
 _Context: Bandipora district, Inderkoot, Kashmir, Sumbal, curfew_
 
 ### [Wikileaks head Julian Assange says he has deals for his autobiography worth more than GBP1 million and needs the money to defend himself against allegations of sexual assault on two women in Sweden. ](/news/2010/12/26/wikileaks-head-julian-assange-says-he-has-deals-for-his-autobiography-worth-more-than-agbp1-million-and-needs-the-money-to-defend-himself-ag.md)
-_Context: Julian Assange, Sweden, WikiLeaks, sexual assault_
+_Context: Julian Assange, Swedish, WikiLeaks, sexual assault_
 
 ### [Protests against unemployment grow more violent as Tunisian security forces crack down on the residents in Sidi Bou Zid Governorate and a teenager is killed when police open fire. ](/news/2010/12/26/protests-against-unemployment-grow-more-violent-as-tunisian-security-forces-crack-down-on-the-residents-in-sidi-bou-zid-governorate-and-a-te.md)
 Clashes erupt between security forces and residents in Sidi Bouzid amid wave of social unrest.

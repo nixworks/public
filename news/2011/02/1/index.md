@@ -7,7 +7,7 @@ More than a million rally in Cairo as massive countrywide protests are held agai
 Monarch asks ex-army general to form new government in the wake of streets protests over prices and reforms.
 
 ### [A Buddhist family of four is shot killed by suspected Muslim separatists seeking autonomy from predominantly Buddhist Thailand in the latest attack in an escalation of violence in the southern Thailand. ](/news/2011/02/1/a-buddhist-family-of-four-is-shot-killed-by-suspected-muslim-separatists-seeking-autonomy-from-predominantly-buddhist-thailand-in-the-latest.md)
-_Context: Buddhists, South Thailand insurgency, Thai_
+_Context: Buddhists, South Thailand insurgency, Thailand_
 
 ### [The owner of China's fourth-most visited website, Sohu.com Inc, posted a better-than-estimated 41 percent gain in profit after the company raised prices and boosted services such as video sharing. ](/news/2011/02/1/the-owner-of-china-s-fourth-most-visited-website-sohu-com-inc-posted-a-better-than-estimated-41-percent-gain-in-profit-after-the-company-r.md)
 _Context: China, Sohu.com_
@@ -31,7 +31,7 @@ _Context: Indonesia, ferry_
 _Context: Astana, Kazakhstan, Shanghai Cooperation Organization_
 
 ### [The United States urges Iran to halt executions after the hanging of a Dutch-Iranian woman, Zahra Bahrami, accused of being drug smuggler; the U.S. State Department expresses concern that Iran "continues to deny its citizens their human rights" and that cases, trials, and sentences continue to proceed "without transparency and the due process rights enshrined in Iran's own constitution." ](/news/2011/02/1/the-united-states-urges-iran-to-halt-executions-after-the-hanging-of-a-dutch-iranian-woman-zahra-bahrami-accused-of-being-drug-smuggler-t.md)
-_Context: Iran's own constitution, Iranian human rights, United States, Zahra Bahrami, halt executions_
+_Context: Iran's own constitution, Iranian human rights, U.S., Zahra Bahrami, halt executions_
 
 ### [North and South Korea agree to hold working-level military talks on 8 February, their first since the attack on Yeonpyeong Island in November last year. ](/news/2011/02/1/north-and-south-korea-agree-to-hold-working-level-military-talks-on-8-february-their-first-since-the-attack-on-yeonpyeong-island-in-novembe.md)
 _Context: North Korea, South Korea, Yeonpyeong Island, attack_

@@ -19,7 +19,7 @@ _Context: 2014 North Indian Ocean cyclone season, Andhra Pradesh, Cyclone Hudhud
 _Context: Czech Republic, Zdar nad Sazavou, police, schizophrenia_
 
 ### [The President of the Generalitat of Catalonia, Artur Mas i Gavarro, drops plans for a referendum on independence on November 9 from Spain following opposition from the Constitutional Court of Spain. ](/news/2014/10/14/the-president-of-the-generalitat-of-catalonia-artur-mas-i-gavarra3-drops-plans-for-a-referendum-on-independence-on-november-9-from-spain-f.md)
-_Context: Artur Mas i Gavarro, Constitutional Court of Spain, President, Spain_
+_Context: Artur Mas i Gavarro, Constitutional Court of Spain, President, Spanish_
 
 ## [Previous Day...](/news/2014/10/13/index.md)
 

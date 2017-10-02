@@ -7,7 +7,7 @@ The United States and Turkey have agreed &quot;in principle&quot; to give air su
 A Tunisian corporal shot dead seven of his comrades before himself being killed, the defence ministry said, adding that he had family and psychological problems.
 
 ### [Close to 55,000 people have fled the Iraqi city of Ramadi since it was captured by Islamic State. ](/news/2015/05/25/close-to-55-000-people-have-fled-the-iraqi-city-of-ramadi-since-it-was-captured-by-islamic-state.md)
-_Context: ISIL, Iraq, Ramadi_
+_Context: Iraq, Islamic State, Ramadi_
 
 ### [Australia announces that it will repatriate the bodies of up to 25 soldiers killed in the early stages of the Vietnam War. ](/news/2015/05/25/australia-announces-that-it-will-repatriate-the-bodies-of-up-to-25-soldiers-killed-in-the-early-stages-of-the-vietnam-war.md)
 _Context: Australia, Vietnam War, soldiers_
@@ -31,13 +31,13 @@ _Context: Colombia, gold mine_
 _Context: Malaysia, Philippines, a dispute regarding the ownership of Sabah_
 
 ### [The People's Republic of China lodges an official complaint with the United States over a flight by an alleged spy plane over parts of the South China Sea. ](/news/2015/05/25/the-people-s-republic-of-china-lodges-an-official-complaint-with-the-united-states-over-a-flight-by-an-alleged-spy-plane-over-parts-of-the-s.md)
-_Context: China, South China Sea, United States_
+_Context: China, South China Sea, U.S._
 
 ### [The government of Sudan denies allegations from South Sudan that it is supporting rebels threatening oil fields in its southern neighbour. ](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.md)
 The Sudanese government has denied supporting rebels in South Sudan after it accused Khartoum of supplying arms to the insurgents threatening its oil fields.
 
 ### [Malaysia announces the discovery of 139 mass graves near the border with Thailand with some graves containing more than one body. ](/news/2015/05/25/malaysia-announces-the-discovery-of-139-mass-graves-near-the-border-with-thailand-with-some-graves-containing-more-than-one-body.md)
-_Context: Malaysia, Thai_
+_Context: Malaysia, Thailand_
 
 ### [Former Prime Minister of Israel Ehud Olmert is sentenced to eight months in jail following a conviction on corruption charges for unlawfully accepting multiple envelopes with cash from an American supporter. There are 3 more criminals prosecutions against him. ](/news/2015/05/25/former-prime-minister-of-israel-ehud-olmert-is-sentenced-to-eight-months-in-jail-following-a-conviction-on-corruption-charges-for-unlawfully.md)
 Former Israeli Prime Minister Ehud Olmert is sentenced to eight months in prison for fraud and breach of trust.

@@ -1,13 +1,13 @@
 ## [2003-12-13](/news/2003/12/13/index.md)
 
 ### [ Saddam Hussein is captured and arrested by U.S. forces in Tikrit, Iraq.](/news/2003/12/13/saddam-hussein-is-captured-and-arrested-by-u-s-forces-in-tikrit-iraq.md)
-_Context: Iraq, Saddam Hussein, Tikrit, United States_
+_Context: Iraq, Saddam Hussein, Tikrit, U.S._
 
 ### [ Spain has announced an agreement with Morocco to proceed with plans to build a rail tunnel beneath the Strait of Gibraltar, linking Europe and Africa. Assuming the project is technically and financially feasible, digging would start in 2008. ](/news/2003/12/13/spain-has-announced-an-agreement-with-morocco-to-proceed-with-plans-to-build-a-rail-tunnel-beneath-the-strait-of-gibraltar-linking-europe.md)
-_Context: 2008, Morocco, Spain, Strait of Gibraltar, tunnel_
+_Context: 2008, Morocco, Spanish, Strait of Gibraltar, tunnel_
 
 ### [ At the EU summit, EU Commissioner Chris Patten describes the United States' method of awarding contracts for the rebuilding of Iraq as politically "maladroit". [http://www.smh.com.au/articles/2003/12/13/1071125715026.html]](/news/2003/12/13/at-the-eu-summit-eu-commissioner-chris-patten-describes-the-united-states-method-of-awarding-contracts-for-the-rebuilding-of-iraq-as-poli.md)
-_Context: Chris Patten, EU, EU Commissioner, Iraq, United States_
+_Context: Chris Patten, EU, EU Commissioner, Iraq, U.S._
 
 ### [ The European Union fails to reach agreement on a new constitution. [http://news.bbc.co.uk/2/hi/europe/3315447.stm]](/news/2003/12/13/the-european-union-fails-to-reach-agreement-on-a-new-constitution-http-news-bbc-co-uk-2-hi-europe-3315447-stm.md)
 _Context: EU_

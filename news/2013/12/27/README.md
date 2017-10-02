@@ -13,7 +13,7 @@ A suspected suicide bomber attacked a military convoy on the eastern outskirts o
 Three people are killed in fresh clashes between Muslim Brotherhood supporters and police across Egypt.
 
 ### [At least 29 people died and four others were seriously injured when a bus went off the Huay Tong Bridge in Phetchabun Province, Thailand. ](/news/2013/12/27/at-least-29-people-died-and-four-others-were-seriously-injured-when-a-bus-went-off-the-huay-tong-bridge-in-phetchabun-province-thailand.md)
-_Context: Phetchabun Province, Thai_
+_Context: Phetchabun Province, Thailand_
 
 ### [Okinawa prefecture's Gov. Hirokazu Nakaima has approved a measure to allow for the relocation of a controversial U.S. military base on Okinawa, breaking 17 years of stagnation on the base's transfer plan. ](/news/2013/12/27/okinawa-prefecture-s-gov-hirokazu-nakaima-has-approved-a-measure-to-allow-for-the-relocation-of-a-controversial-u-s-military-base-on-okina.md)
 _Context: Hirokazu Nakaima, Okinawa, Okinawa, U.S. military base_

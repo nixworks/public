@@ -1,7 +1,7 @@
 ## [2003-09-24](/news/2003/09/24/index.md)
 
 ### [ Swedish police arrests a new suspect in the murder of Anna Lindh. Per-Olof Svensson is no longer a suspect and has been released.](/news/2003/09/24/swedish-police-arrests-a-new-suspect-in-the-murder-of-anna-lindh-per-olof-svensson-is-no-longer-a-suspect-and-has-been-released.md)
-_Context: Anna Lindh, Per-Olof Svensson, Sweden_
+_Context: Anna Lindh, Per-Olof Svensson, Swedish_
 
 ### [ Belgium's highest court, the Court of Cassation, throws out case against Prime Minister Ariel Sharon and Israeli General Amos Yaron. Also, a case against former U.S. President George H. W. Bush (for war crimes in Iraq) and Secretary of State Colin Powell is dismissed.](/news/2003/09/24/belgium-s-highest-court-the-court-of-cassation-throws-out-case-against-prime-minister-ariel-sharon-and-israeli-general-amos-yaron-also.md)
 _Context: Amos Yaron, Ariel Sharon, Colin Powell, Court of Cassation, General, George H. W. Bush, Iraq, Israel, President, Prime Minister, Secretary of State, court, war crime_

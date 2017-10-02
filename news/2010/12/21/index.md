@@ -37,7 +37,7 @@ Taking defence cooperation to a new level, India and Russia on Tuesday signed a 
 A diplomat at the Russian embassy in London has been sent home after the Foreign Office requested the withdrawal earlier this month.
 
 ### [The Thai Cabinet agrees to lift a state of emergency in the capital Bangkok and three surrounding provinces. ](/news/2010/12/21/the-thai-cabinet-agrees-to-lift-a-state-of-emergency-in-the-capital-bangkok-and-three-surrounding-provinces.md)
-_Context: Bangkok, Thai, states of emergency_
+_Context: Bangkok, Thailand, states of emergency_
 
 ### [The Venezuelan parliament approves a law tightening rules on internet content. ](/news/2010/12/21/the-venezuelan-parliament-approves-a-law-tightening-rules-on-internet-content.md)
 _Context: Venezuela_
@@ -55,7 +55,7 @@ _Context: Milo Dukanovic, Montenegro, Prime Minister_
 _Context: Prime Minister of Tonga, Siale'ataonga Tu'ivakano_
 
 ### [The United States Census Bureau releases the first data from the 2010 Census, revealing the United States to have a population of 308,745,538 on April 1, 2010. ](/news/2010/12/21/the-united-states-census-bureau-releases-the-first-data-from-the-2010-census-revealing-the-united-states-to-have-a-population-of-308-745-53.md)
-_Context: 2010 Census, US Census Bureau headquarters, United States_
+_Context: 2010 Census, U.S., US Census Bureau headquarters_
 
 ### [A total lunar eclipse will take place on December 20/21, 2010. ](/news/2010/12/21/a-total-lunar-eclipse-will-take-place-on-december-20-21-2010.md)
 _Context: lunar eclipse_

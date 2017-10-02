@@ -52,7 +52,7 @@ Jane Taber and Jill Mahoney provided up-to-the-minute coverage of the pomp and c
 Pakistan ex-military ruler Pervez Musharraf apologises for &quot;negative&quot; actions he took while in power, as he launches his new political party in London.
 
 ### [Thailand lifts a state of emergency in Nakhon Ratchasima, Khon Kaen and Udon Thani but it remains in place in Bangkok and the nearby provinces of Nonthaburi, Pathum Thani and Samut Prakan. ](/news/2010/10/1/thailand-lifts-a-state-of-emergency-in-nakhon-ratchasima-khon-kaen-and-udon-thani-but-it-remains-in-place-in-bangkok-and-the-nearby-provinc.md)
-_Context: Bangkok, Khon Kaen, Nakhon Ratchasima, Nonthaburi, Pathum Thani, Samut Prakan, Thai, Udon Thani, states of emergency_
+_Context: Bangkok, Khon Kaen, Nakhon Ratchasima, Nonthaburi, Pathum Thani, Samut Prakan, Thailand, Udon Thani, states of emergency_
 
 ### [President of the United States Barack Obama calls a press conference in the White House to make a "personnel announcement" reported to be related to the departure of his aide Rahm Emanuel. ](/news/2010/10/1/president-of-the-united-states-barack-obama-calls-a-press-conference-in-the-white-house-to-make-a-personnel-announcement-reported-to-be-re.md)
 US President Barack Obama confirms the resignation of his hard-hitting chief of staff Rahm Emanuel, who is poised to run to be mayor of Chicago.

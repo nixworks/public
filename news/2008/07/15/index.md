@@ -1,7 +1,7 @@
 ## [2008-07-15](/news/2008/07/15/index.md)
 
 ### [ 18 people are injured after a funfair ride composed of a spinning arm with a compartment at one end which carries passengers collapses at the Liseberg theme park Gothenburg, Sweden. ](/news/2008/07/15/18-people-are-injured-after-a-funfair-ride-composed-of-a-spinning-arm-with-a-compartment-at-one-end-which-carries-passengers-collapses-at-t.md)
-_Context: Gothenburg, Liseberg, Sweden_
+_Context: Gothenburg, Liseberg, Swedish_
 
 ### [ General Motors announces plans to suspend its dividend, sell off assets and cut 20% off salaried costs in a response to slumping car sales. ](/news/2008/07/15/general-motors-announces-plans-to-suspend-its-dividend-sell-off-assets-and-cut-20-off-salaried-costs-in-a-response-to-slumping-car-sales.md)
 _Context: General Motors, dividend_

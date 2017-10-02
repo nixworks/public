@@ -76,7 +76,7 @@ Six men are now being questioned by police in London following reports of a thre
 _Context: Mogadishu, police_
 
 ### [A former scientist at the Los Alamos National Laboratory and his wife are indicted on charges of trying to provide information about the United States nuclear program to Venezuela. ](/news/2010/09/17/a-former-scientist-at-the-los-alamos-national-laboratory-and-his-wife-are-indicted-on-charges-of-trying-to-provide-information-about-the-uni.md)
-_Context: Los Alamos National Laboratory, United States, Venezuela_
+_Context: Los Alamos National Laboratory, U.S., Venezuela_
 
 ### [Iranian security forces reportedly surround Mir-Hossein Mousavi's office in Tehran. ](/news/2010/09/17/iranian-security-forces-reportedly-surround-mir-hossein-mousavi-s-office-in-tehran.md)
 Iranian security forces surround the office of opposition leader Mir Hossein Mousavi, in effect closing it, his supporters say.
@@ -91,7 +91,7 @@ _Context: Afghanistan, Taliban, parliamentary election, police, security checks_
 _Context: Foreign Minister, Naoto Kan, Prime Minister of Japan, Seiji Maehara, forming a government_
 
 ### [Thailand's red shirt movement holds rallies in the lead up to the fourth anniversary of the removal of former Prime Minister of Thailand Thaksin Shinawatra on Sunday. ](/news/2010/09/17/thailand-s-red-shirt-movement-holds-rallies-in-the-lead-up-to-the-fourth-anniversary-of-the-removal-of-former-prime-minister-of-thailand-tha.md)
-_Context: Prime Minister, Thai, Thaksin Shinawatra, United Front for Democracy Against Dictatorship_
+_Context: Prime Minister, Thailand, Thaksin Shinawatra, United Front for Democracy Against Dictatorship_
 
 ## [Previous Day...](/news/2010/09/16/index.md)
 

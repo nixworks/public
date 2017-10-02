@@ -10,7 +10,7 @@ _Context: JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, United
 French strikers impose new fuel blockades, hours after security forces clear protesters from three depots.
 
 ### [China denies reports that it has banned export of rare earth mineral to the United States and Europe following similar measures against Japan. ](/news/2010/10/20/china-denies-reports-that-it-has-banned-export-of-rare-earth-mineral-to-the-united-states-and-europe-following-similar-measures-against-japa.md)
-_Context: China, Europe, Japan, United States, rare earth mineral_
+_Context: China, Europe, Japan, U.S., rare earth mineral_
 
 ### [The Sino-Singapore Tianjin Eco-city holds a groundbreaking ceremony for its Eco-technology Park in Binhai New Area a key national strategic area in Tianjin. ](/news/2010/10/20/the-sino-singapore-tianjin-eco-city-holds-a-groundbreaking-ceremony-for-its-eco-technology-park-in-binhai-new-area-a-key-national-strategic.md)
 _Context: Binhai New Area, Eco-technology Park, Sino-Singapore Tianjin Eco-city, Tianjin_
@@ -32,7 +32,7 @@ _Context: Batkivschyna, Ukrainian government, Yulia Tymoshenko_
 At least 1,000 Tibetan students in north-west China protest against new curbs on the use of their language, a rights group says.
 
 ### [Spanish Prime Minister Jos Luis Rodrguez Zapatero reshuffles his cabinet in a move to strengthen his government. ](/news/2010/10/20/spanish-prime-minister-jose-luis-rodriguez-zapatero-reshuffles-his-cabinet-in-a-move-to-strengthen-his-government.md)
-_Context: Jos Luis Rodrguez Zapatero, Spain_
+_Context: Jos Luis Rodrguez Zapatero, Spanish_
 
 ### [The two rival presidential candidates in Guinea agree to go ahead with a presidential run-off on Sunday amid the replacement of the head of the election commission. ](/news/2010/10/20/the-two-rival-presidential-candidates-in-guinea-agree-to-go-ahead-with-a-presidential-run-off-on-sunday-amid-the-replacement-of-the-head-of.md)
 _Context: Guinea, November's presidential poll_

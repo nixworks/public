@@ -1,7 +1,7 @@
 ## [2013-12-6](/news/2013/12/6/index.md)
 
 ### [The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants-in-the-process.md)
-_Context: Sanaa, Yemen_
+_Context: Sana'a, Yemen_
 
 ### [The Red Cross claims that at least 300 people have died in two days of fighting in Bangui, the capital of the Central African Republic. ](/news/2013/12/6/the-red-cross-claims-that-at-least-300-people-have-died-in-two-days-of-fighting-in-bangui-the-capital-of-the-central-african-republic.md)
 At least 300 people have been killed in two days of violence in the Central African Republic capital, Bangui, the Red Cross says.

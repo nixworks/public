@@ -34,7 +34,7 @@ _Context: Indonesia, Indonesian police, Jakarta, riot police_
 SEOUL: After weeks of silence North Korea has denied involvement in the mysterious sinking of a South Korean naval patrol boat in disputed waters between the two Koreas.
 
 ### [The Thai army moves into the Bangkok CBD to block the path of protesters. ](/news/2010/04/19/the-thai-army-moves-into-the-bangkok-cbd-to-block-the-path-of-protesters.md)
-_Context: Bangkok, Thai_
+_Context: Bangkok, Thailand_
 
 ### [Australian Prime Minister Kevin Rudd shows a two-hour presentation on his health reform plan at a Council of Australian Governments (COAG) meeting in Canberra. ](/news/2010/04/19/australian-prime-minister-kevin-rudd-shows-a-two-hour-presentation-on-his-health-reform-plan-at-a-council-of-australian-governments-coag-m.md)
 Three letters - GST - are standing between Kevin Rudd and the most dramatic overhaul of the health and hospital network since the introduction of Medicare.

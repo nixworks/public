@@ -19,7 +19,7 @@ _Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavi
 _Context: Anwar Ibrahim, Deputy Prime Minister, Parliament of Malaysia, Penang, Permatang Pauh, Wan Azizah Wan Ismail, by-election in Permatang Pauh_
 
 ### [ A Thai court sentences Pojaman Shinawatra, the wife of former Prime Minister of Thailand Thaksin Shinawatra, to jail for three years for tax evasion. ](/news/2008/07/31/a-thai-court-sentences-pojaman-shinawatra-the-wife-of-former-prime-minister-of-thailand-thaksin-shinawatra-to-jail-for-three-years-for-ta.md)
-_Context: Pojaman Shinawatra, Prime Minister, Thai, Thaksin Shinawatra, tax evasion_
+_Context: Pojaman Shinawatra, Prime Minister, Thailand, Thaksin Shinawatra, tax evasion_
 
 ## [Previous Day...](/news/2008/07/30/index.md)
 

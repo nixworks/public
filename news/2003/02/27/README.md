@@ -4,7 +4,7 @@
 _Context: Ariel Sharon, Israel, Likud, National Religious Party, National Union, Shinui, Tommy Lapid, right-wing_
 
 ### [ Spanish Prime Minister Jose Maria Aznar personally asks United States President George W. Bush to silence Secretary of Defense Donald Rumsfeld, indicating that Rumsfeld's numerous public remarks on European countries' Iraq policies are generally viewed as inflammatory and overwhelmingly counterproductive within the European diplomatic community. Aznar indicated a preference for Secretary of State Colin Powell.](/news/2003/02/27/spanish-prime-minister-josa-c-maraa-aznar-personally-asks-united-states-president-george-w-bush-to-silence-secretary-of-defense-donald-rum.md)
-_Context: Colin Powell, Defense Secretary, Donald Rumsfeld, George W. Bush, Iraq, Jose Maria Aznar, Spain, United States Secretary of State, diplomat_
+_Context: Colin Powell, Defense Secretary, Donald Rumsfeld, George W. Bush, Iraq, Jose Maria Aznar, Spanish, United States Secretary of State, diplomat_
 
 ### [ Career diplomat John Brady Kiesling resigns from the U.S. Foreign Service with a sharp public rebuke for the Bush administration's foreign policy, asking "Has "oderint dum metuant" really become our motto?" and "Is the Russia of the late Romanovs really our model, a selfish, superstitious empire thrashing toward self-destruction in the name of a doomed status quo?" ](/news/2003/02/27/career-diplomat-john-brady-kiesling-resigns-from-the-u-s-foreign-service-with-a-sharp-public-rebuke-for-the-bush-administration-s-foreign.md)
 _Context: John Brady Kiesling, Nicholas II, oderint dum metuant_

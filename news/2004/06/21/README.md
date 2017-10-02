@@ -25,7 +25,7 @@ _Context: United Nations Population Fund, abortion_
 _Context: Enron, Royal Bank of Scotland_
 
 ### [ The first official group of Hmong refugees from the Wat Tham Krabok camp in Thailand begin arriving in the United States. 14,300 to 15,000 refugees are expected to arrive by the end of the year. The camp is one of the last remaining from results of the Vietnam War. One family had left early on June 16 due to a medical emergency. ](/news/2004/06/21/the-first-official-group-of-hmong-refugees-from-the-wat-tham-krabok-camp-in-thailand-begin-arriving-in-the-united-states-14-300-to-15-000.md)
-_Context: Hmong people, Thai, Vietnam War, Wat Tham Krabok, refugee_
+_Context: Hmong people, Thailand, Vietnam War, Wat Tham Krabok, refugee_
 
 ### [ Facing impeachment over corruption charges, Governor John G. Rowland of Connecticut announces that he will resign, effective July 1. ](/news/2004/06/21/facing-impeachment-over-corruption-charges-governor-john-g-rowland-of-connecticut-announces-that-he-will-resign-effective-july-1.md)
 Excerpts from statement by Connecticut Gov John G Rowland announcing his resignation effective July 1

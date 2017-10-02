@@ -7,10 +7,10 @@ _Context: Central African Republic, Chad_
 _Context: Armenia, Armenian President, Azerbaijan, Ilham Aliyev's, Nagorno-Karabakh region, President, Robert Kocharyan_
 
 ### [ The most recent attempt in the United States to adopt a flag desecration amendment fails in the Senate by one vote. ](/news/2006/06/27/the-most-recent-attempt-in-the-united-states-to-adopt-a-flag-desecration-amendment-fails-in-the-senate-by-one-vote.md)
-_Context: United States, United States Senate, flag desecration amendment_
+_Context: U.S., United States Senate, flag desecration amendment_
 
 ### [ Popular musician Axl Rose from the band Guns N' Roses is arrested in Stockholm, Sweden, for alleged violent conduct including biting a security guard on the leg. ](/news/2006/06/27/popular-musician-axl-rose-from-the-band-guns-n-roses-is-arrested-in-stockholm-sweden-for-alleged-violent-conduct-including-biting-a-secu.md)
-_Context: Axl Rose, Guns N' Roses, Stockholm, Sweden, popular music_
+_Context: Axl Rose, Guns N' Roses, Stockholm, Swedish, popular music_
 
 ### [ Iranian Supreme Leader Ayatollah Ali Khamenei says Iran does "not need" to talk with the United States over its nuclear program. ](/news/2006/06/27/iranian-supreme-leader-ayatollah-ali-khamenei-says-iran-does-not-need-to-talk-with-the-united-states-over-its-nuclear-program.md)
 _Context: Ali Khamenei, Ayatollah, Iran_

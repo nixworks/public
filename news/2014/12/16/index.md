@@ -37,7 +37,7 @@ Two hostages and the gunman at the centre of a 16-hour siege at a cafe in Sydney
 Bentzi Gopshtain and nine others held on suspicion of incitement to violence and terror, day after members charged in bilingual school arson
 
 ### [India declares a ban on Islamic State of Iraq and the Levant after an engineer was detained for campaigning on behalf of the group on Twitter. Officials worry that such ban will endanger thirty-nine men, believed to be held hostage by the group. ](/news/2014/12/16/india-declares-a-ban-on-islamic-state-of-iraq-and-the-levant-after-an-engineer-was-detained-for-campaigning-on-behalf-of-the-group-on-twitte.md)
-_Context: ISIL_
+_Context: Islamic State_
 
 ### [The Montgomery County District Attorney reports that Bradley Stone, suspected in the killing of his ex-wife and five of her family members Monday, has been found dead in the woods near his home in Pennsburg, Pa.. ](/news/2014/12/16/the-montgomery-county-district-attorney-reports-that-bradley-stone-suspected-in-the-killing-of-his-ex-wife-and-five-of-her-family-members-m.md)
 Bradley Stone, the man prosecutors say is responsible for killing his ex-wife and five of her family members and seriously stabbing one other before going on the run, has been found dead in the woods near...

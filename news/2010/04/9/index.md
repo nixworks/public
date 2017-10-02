@@ -19,7 +19,7 @@ Home Minister Palaniappan Chidambaram offered to resign after Maoist insurgents 
 Heavy security amid fears of racial tensions around funeral of Eugene Terreblanche.
 
 ### [Anti-government protesters in Thailand storm and occupy an opposition television station. ](/news/2010/04/9/anti-government-protesters-in-thailand-storm-and-occupy-an-opposition-television-station.md)
-_Context: Thai, red shirt_
+_Context: Thailand, red shirt_
 
 ### [Germany charges a former member of the Red Army Faction (RAF) in connection with the murder of Attorney General Siegfried Buback, who was shot alongside two other men in 1977. ](/news/2010/04/9/germany-charges-a-former-member-of-the-red-army-faction-raf-in-connection-with-the-murder-of-attorney-general-siegfried-buback-who-was-sh.md)
 _Context: Attorney General of Germany, Germany, Red Army Faction, Siegfried Buback_

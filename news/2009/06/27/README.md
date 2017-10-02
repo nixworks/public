@@ -7,7 +7,7 @@ Loyalist paramilitaries groups in Northern Ireland have begun decommissioning th
 _Context: Air France, Brazil, crash of Air France Flight 447_
 
 ### [ Thousands of protestors from the National United Front of Democracy Against Dictatorship call on the government to resign in Bangkok, Thailand. ](/news/2009/06/27/thousands-of-protestors-from-the-national-united-front-of-democracy-against-dictatorship-call-on-the-government-to-resign-in-bangkok-thail.md)
-_Context: Bangkok, Royal Thai Government, Thai, red shirt_
+_Context: Bangkok, Royal Thai Government, Thailand, red shirt_
 
 ### [ Saad al-Hariri is appointed the new Prime Minister of Lebanon. ](/news/2009/06/27/saad-al-hariri-is-appointed-the-new-prime-minister-of-lebanon.md)
 _Context: Lebanese Prime Minister, Lebanon, Saad Hariri_

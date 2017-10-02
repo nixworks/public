@@ -25,7 +25,7 @@ Little more than two weeks after Italian scientists warned that climate change h
 Calls to halt negotiations with Ankara angers the country&#039;s leader, who warns of triggering a fresh influx of refugees.
 
 ### [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md)
-_Context: 500 internal documents and emails, Sanaa, United States-Yemen relations, WikiLeaks_
+_Context: 500 internal documents and emails, Sana'a, United States-Yemen relations, WikiLeaks_
 
 ### [The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. ](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistleblower-edward-snowden-s-extradition-lawsuit-against-the-norwegian-government.md)
 _Context: Edward Snowden, National Security Agency, Norway, Supreme Court of Norway_

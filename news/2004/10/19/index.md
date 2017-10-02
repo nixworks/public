@@ -16,7 +16,7 @@ _Context: Abu Hamza al-Masri, police_
 _Context: Iran, United Nations, Vienna, uranium enrichment_
 
 ### [ Thai officials say that Myanmar's military has removed the current prime minister of Myanmar, General Khin Nyunt, from office and placed him under house arrest. ](/news/2004/10/19/thai-officials-say-that-myanmar-s-military-has-removed-the-current-prime-minister-of-myanmar-general-khin-nyunt-from-office-and-placed-hi.md)
-_Context: Khin Nyunt, Myanmar, Thai_
+_Context: Khin Nyunt, Myanmar, Thailand_
 
 ### [ Polytechnic University of the Philippines celebrates its centennial founding.](/news/2004/10/19/polytechnic-university-of-the-philippines-celebrates-its-centennial-founding.md)
 _Context: Polytechnic University of the Philippines_

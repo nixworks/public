@@ -22,13 +22,13 @@ _Context: House of Commons of the United Kingdom, MP, MPs expenses, Michael Mart
 The headquarters of the EU Commission in Brussels was evacuated today because of a fire.
 
 ### [ Former United States Secretary of Defense Donald Rumsfeld is accused of quoting the Bible while briefing then-President George W. Bush. ](/news/2009/05/18/former-united-states-secretary-of-defense-donald-rumsfeld-is-accused-of-quoting-the-bible-while-briefing-then-president-george-w-bush.md)
-_Context: Bible, Defense Secretary, Donald Rumsfeld, George W. Bush, U.S. President, United States_
+_Context: Bible, Defense Secretary, Donald Rumsfeld, George W. Bush, U.S., U.S. President_
 
 ### [ U.S. President Barack Obama urges Israeli Prime Minister Benjamin Netanyahu to accept a Palestinian state. ](/news/2009/05/18/u-s-president-barack-obama-urges-israeli-prime-minister-benjamin-netanyahu-to-accept-a-palestinian-state.md)
 U.S. President Barack Obama on Monday pressed a two-state solution to the Middle East conflict but failed to win a commitment from Israeli Prime Minister Benjamin Netanyahu to back Palestinian statehood.
 
 ### [ Italian Camorra leader Raffaele Amato is arrested in Marbella, Spain. ](/news/2009/05/18/italian-camorra-leader-raffaele-amato-is-arrested-in-marbella-spain.md)
-_Context: Camorra, Italy, Marbella, Raffaele Amato, Spain_
+_Context: Camorra, Italy, Marbella, Raffaele Amato, Spanish_
 
 ## [Previous Day...](/news/2009/05/17/index.md)
 

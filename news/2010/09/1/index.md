@@ -28,7 +28,7 @@ Actress Zsa Zsa Gabor is rushed back to hospital in Los Angeles after slipping i
 _Context: A Journey, Prime Minister, Tony Blair, United Kingdom, autobiography, bestseller_
 
 ### [United States rapper T.I. and his wife singer Tameka Cottle are arrested on Sunset Boulevard in Los Angeles for illegal drug possession. ](/news/2010/09/1/united-states-rapper-t-i-and-his-wife-singer-tameka-cottle-are-arrested-on-sunset-boulevard-in-los-angeles-for-illegal-drug-possession.md)
-_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, United States, rapper_
+_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, U.S., rapper_
 
 ### [Archaeologists discover 200 year old bottles of beer in a shipwreck south of the autonomous Aland Islands in the Baltic Sea believed to be the world's oldest. ](/news/2010/09/1/archaeologists-discover-200-year-old-bottles-of-beer-in-a-shipwreck-south-of-the-autonomous-aland-islands-in-the-baltic-sea-believed-to-be-t.md)
 _Context: Aland Islands, Archaeologist, Baltic Sea, beer, shipwreck_
@@ -79,7 +79,7 @@ Four Afghan asylum seekers have been hospitalised with dehydration after pushing
 Two Yemenis arrested in Amsterdam on suspicion of planning a terror attack are released, prosecutors in the Netherlands say.
 
 ### [Swedish prosecutors decide to reopen a rape case against Wikileaks founder Julian Assange; Assange denies the allegations. ](/news/2010/09/1/swedish-prosecutors-decide-to-reopen-a-rape-case-against-wikileaks-founder-julian-assange-assange-denies-the-allegations.md)
-_Context: Julian Assange, Sweden, WikiLeaks, prosecutor, rape_
+_Context: Julian Assange, Swedish, WikiLeaks, prosecutor, rape_
 
 ### [A man upset with the Discovery Channel's environmental programs takes several people hostage at its headquarters in Silver Spring, Maryland, near Washington, DC. Police snipers eventually kill him with the hostages being safe. ](/news/2010/09/1/a-man-upset-with-the-discovery-channel-s-environmental-programs-takes-several-people-hostage-at-its-headquarters-in-silver-spring-maryland.md)
 _Context: Discovery Channel, Silver Spring, Maryland, Washington DC, environmental, takes several people hostage_

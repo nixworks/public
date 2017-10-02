@@ -31,13 +31,13 @@ _Context: Ady Gil, Sea Shepherd, Shonan Maru, whaling_
 _Context: Dauletabad - Salyp Yar gas pipeline, Iran, Turkmenistan_
 
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
-_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, United States_
+_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, U.S._
 
 ### [The U.S. government lowers the threshold for information deemed important enough to put suspicious individuals on a watch list or no-fly list, or have their visa revoked. ](/news/2010/01/6/the-u-s-government-lowers-the-threshold-for-information-deemed-important-enough-to-put-suspicious-individuals-on-a-watch-list-or-no-fly-lis.md)
 _Context: U.S., visa-free travel_
 
 ### [Yemen arrests three suspected Al-Qaeda members, including one leader, northwest of the capital Sana'a. ](/news/2010/01/6/yemen-arrests-three-suspected-al-qaeda-members-including-one-leader-northwest-of-the-capital-sana-a.md)
-_Context: Sanaa, Yemen, al-Qaeda_
+_Context: Sana'a, Yemen, al-Qaeda_
 
 ### [50-year-old Chinese journalist Li Junqi is imprisoned for 16 years after accepting bribes for his part in a mass three-month cover-up of a coal mine disaster in Hebei in which 35 people, including a rescue worker, were killed prior to the 2008 Summer Olympics in Beijing. ](/news/2010/01/6/50-year-old-chinese-journalist-li-junqi-is-imprisoned-for-16-years-after-accepting-bribes-for-his-part-in-a-mass-three-month-cover-up-of-a-c.md)
 _Context: 2008 Summer Olympics, Beijing, Hebei, Li Junqi, bribes_

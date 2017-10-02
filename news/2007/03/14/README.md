@@ -28,7 +28,7 @@ _Context: Cassini, NASA, Saturnian moon, Titan, hydrocarbon_
 _Context: Samjhauta Express bombing_
 
 ### [ Eight people in southern Thailand are shot dead after their vehicle is bombed by suspected Islamic insurgents. Law enforcement warns of more violence by separatists, citing the anniversary of the founding of the Barisan Revolusi Nasional. ](/news/2007/03/14/eight-people-in-southern-thailand-are-shot-dead-after-their-vehicle-is-bombed-by-suspected-islamic-insurgents-law-enforcement-warns-of-mor.md)
-_Context: Barisan Revolusi Nasional, Islamist militants, South Thailand insurgency, Thai_
+_Context: Barisan Revolusi Nasional, Islamist militants, South Thailand insurgency, Thailand_
 
 ### [ An explosion at a gun shop in Kabul kills at least six people. ](/news/2007/03/14/an-explosion-at-a-gun-shop-in-kabul-kills-at-least-six-people.md)
 _Context: Kabul_

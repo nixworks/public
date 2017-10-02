@@ -13,7 +13,7 @@ _Context: Dublin Central, Dublin South, Republic of Ireland, by-election, local 
 Nobel Prize-winning economist Paul Krugman has predicted that the Irish economic recovery could take five years.
 
 ### [ The Prime Minister of Italy Silvio Berlusconi threatens to sue the Spanish newspaper "El Pais" for publishing indecent photographs of people at his villa in Sardinia. ](/news/2009/06/5/the-prime-minister-of-italy-silvio-berlusconi-threatens-to-sue-the-spanish-newspaper-el-paas-for-publishing-indecent-photographs-of-peop.md)
-_Context: El Pais, Italian Prime Minister, Sardinia, Silvio Berlusconi, Spain, indecent exposure_
+_Context: El Pais, Italian Prime Minister, Sardinia, Silvio Berlusconi, Spanish, indecent exposure_
 
 ### [ Ireland's rate of unemployment reaches 11.8%. ](/news/2009/06/5/ireland-s-rate-of-unemployment-reaches-11-8.md)
 The number of people on the Live Register hit 400,000 for the first time last month.
@@ -43,7 +43,7 @@ _Context: China, Chongqing, landslide_
 _Context: Pakistan, Upper Dir District, War in North-West Pakistan, mosque, suicide bombing_
 
 ### [ Former United States State Department employee Kendall Myers and his wife, Gwendolyn, are arrested and charged with spying for Cuba's government. ](/news/2009/06/5/former-united-states-state-department-employee-kendall-myers-and-his-wife-gwendolyn-are-arrested-and-charged-with-spying-for-cuba-s-gover.md)
-_Context: Cuba, Kendall Myers, U.S. State Department, United States, espionage, government_
+_Context: Cuba, Kendall Myers, U.S., U.S. State Department, espionage, government_
 
 ### [ David Bain, after an extensive three-month retrial, is found not guilty of murdering five family members in Dunedin, New Zealand on 20 June 1994. ](/news/2009/06/5/david-bain-after-an-extensive-three-month-retrial-is-found-not-guilty-of-murdering-five-family-members-in-dunedin-new-zealand-on-20-june.md)
 _Context: David Bain, Dunedin, New Zealand, murdering, retrial_

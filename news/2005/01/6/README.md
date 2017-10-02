@@ -13,7 +13,7 @@ _Context: Camp X-Ray, Cuba, Guantanamo Bay, U.S. military_
 _Context: Conflict in Iraq, Iraq, Tigris River, Tracy Perkins_
 
 ### [ 2004 Indian Ocean earthquake: World leaders gather in Jakarta, Indonesia, for an emergency summit with the United Nations. Aid pledges since the Asian Tsunami disaster are near USD 4 billion (EUR 3 billion). Nearly 150,000 people have been confirmed dead in the four hardest hit nations - Indonesia, India, Sri Lanka and Thailand. ](/news/2005/01/6/2004-indian-ocean-earthquake-world-leaders-gather-in-jakarta-indonesia-for-an-emergency-summit-with-the-united-nations-aid-pledges-sinc.md)
-_Context: 2004 Indian Ocean earthquake, EUR, India, Indonesia, Jakarta, Sri Lanka, Thai, US$, United Nations_
+_Context: 2004 Indian Ocean earthquake, EUR, India, Indonesia, Jakarta, Sri Lanka, Thailand, US$, United Nations_
 
 ## [Previous Day...](/news/2005/01/5/index.md)
 

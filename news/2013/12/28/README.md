@@ -7,7 +7,7 @@ _Context: Al-Azhar University, Cairo, Egypt, Islamist protests in Egypt (July 20
 A Syrian army air strike on a vegetable market in the northern city of Aleppo killed at least 25 people on Saturday, a monitoring group said, continuing a campaign of improvised &quot;barrel bombs&quot; that has drawn international condemnation.
 
 ### [Unidentified gunmen open fire on peaceful protesters in Thailand, leaving one dead and three wounded. ](/news/2013/12/28/unidentified-gunmen-open-fire-on-peaceful-protesters-in-thailand-leaving-one-dead-and-three-wounded.md)
-_Context: 2013 Thai political crisis, Thai_
+_Context: 2013 Thai political crisis, Thailand_
 
 ### [An express train catches fire in India, leaving at least 23 dead. The train was traveling from Bangalore to Nanded in the western state of Maharashtra. ](/news/2013/12/28/an-express-train-catches-fire-in-india-leaving-at-least-23-dead-the-train-was-traveling-from-bangalore-to-nanded-in-the-western-state-of-m.md)
 A fire broke out on an express train in southern India early Saturday and killed at least 23 passengers, officials said.

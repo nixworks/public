@@ -1,7 +1,7 @@
 ## [2014-01-18](/news/2014/01/18/index.md)
 
 ### [An Iranian diplomat is killed in Yemen's capital Sana'a when he resisted gunmen who were trying to kidnap him near the ambassador's residence. ](/news/2014/01/18/an-iranian-diplomat-is-killed-in-yemen-s-capital-sana-a-when-he-resisted-gunmen-who-were-trying-to-kidnap-him-near-the-ambassador-s-residenc.md)
-_Context: Iran, Sanaa, Yemen_
+_Context: Iran, Sana'a, Yemen_
 
 ### [Seven suspected militants are killed by Russian security forces in a shootout near Makhachkala in Dagestan. ](/news/2014/01/18/seven-suspected-militants-are-killed-by-russian-security-forces-in-a-shootout-near-makhachkala-in-dagestan.md)
 Seven suspected militants were killed by security forces in a shootout on Saturday near Makhachkala in Dagestan, Russian news agencies reported, a day after a grenade and bomb attack outside a restaurant in the regional capital injured several people.

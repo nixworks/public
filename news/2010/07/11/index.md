@@ -16,7 +16,7 @@ At least 74 people were killed in the twin blasts that hit Kampala during the Wo
 _Context: Liberia, Monrovia, Togba Mulbah_
 
 ### [Police in northern Eleuthera, The Bahamas, capture Colton Harris-Moore, a 19-year-old fugitive known in the United States as the "Barefoot Bandit". ](/news/2010/07/11/police-in-northern-eleuthera-the-bahamas-capture-colton-harris-moore-a-19-year-old-fugitive-known-in-the-united-states-as-the-barefoot-b.md)
-_Context: Bahamas, Colton Harris-Moore, Eleuthera, Police, United States_
+_Context: Bahamas, Colton Harris-Moore, Eleuthera, Police, U.S._
 
 ### [Spanish film-maker Augusti Vila wins the main prize at the Karlovy Vary International Film Festival in the Czech Republic for his film "The Mosquito Net". ](/news/2010/07/11/spanish-film-maker-augusti-vila-wins-the-main-prize-at-the-karlovy-vary-international-film-festival-in-the-czech-republic-for-his-film-the.md)
 Spanish film-maker Agusti Vila wins the main prize at the Karlovy Vary festival in the Czech Republic.

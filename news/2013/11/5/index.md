@@ -13,13 +13,13 @@ _Context: Lagos, Nigeria_
 _Context: 100 media workers killed, Sinaloa_
 
 ### [Thousands of protesters fill the streets of Bangkok, Thailand, after lawmakers pass a draft bill for political amnesty which could allow self-exiled Prime Minister Thaksin Shinawatra to re-enter the country. ](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.md)
-_Context: Bangkok, Prime Minister, Thai, Thaksin Shinawatra_
+_Context: Bangkok, Prime Minister, Thailand, Thaksin Shinawatra_
 
 ### [American rapper DMX is arrested in South Carolina for driving with a suspended licence, and without a vehicle tag or insurance. ](/news/2013/11/5/american-rapper-dmx-is-arrested-in-south-carolina-for-driving-with-a-suspended-licence-and-without-a-vehicle-tag-or-insurance.md)
 Rapper DMX, whose real name is EarlSimmons, was arrested outside a South Carolina airport onMonday for driving with a suspended license and without avehicle tag and insurance, according to the Spartanburg CountyDetention Center.
 
 ### [SAC Capital Advisors pleads guilty to insider trading and wire fraud and agrees to pay $1.8 billion in penalties to the United States. ](/news/2013/11/5/sac-capital-advisors-pleads-guilty-to-insider-trading-and-wire-fraud-and-agrees-to-pay-1-8-billion-in-penalties-to-the-united-states.md)
-_Context: SAC Capital Advisors, United States, insider trading, wire fraud_
+_Context: SAC Capital Advisors, U.S., insider trading, wire fraud_
 
 ### [152 people are sentenced to death in Bangladesh in connection to the 2009 Bangladesh Rifles revolt. ](/news/2013/11/5/152-people-are-sentenced-to-death-in-bangladesh-in-connection-to-the-2009-bangladesh-rifles-revolt.md)
 A special court in Bangladesh on Tuesday sentenced to death more than 150 people among hundreds of border guards accused of murder and arson during a mutiny at their headquarters in 2009.

@@ -40,10 +40,10 @@ _Context: Basra, Iraq, United Kingdom, its consulate_
 The mother of British computer hacker Gary McKinnon says she is &quot;overwhelmed&quot; after the UK blocked his extradition to the US, ending a 10-year ordeal.
 
 ### [The captain of the Prestige oil tanker goes on trial in Spain. ](/news/2012/10/16/the-captain-of-the-prestige-oil-tanker-goes-on-trial-in-spain.md)
-_Context: Spain_
+_Context: Spanish_
 
 ### [The Brazilian jurisprudence system upholds the convictions of two United States pilots for their roles in the 2006 Gol Transportes Aereos Flight 1907 disaster. ](/news/2012/10/16/the-brazilian-jurisprudence-system-upholds-the-convictions-of-two-united-states-pilots-for-their-roles-in-the-2006-gol-transportes-aa-c-reos-f.md)
-_Context: Gol Transportes Aereos Flight 1907, Law of Brazil, United States_
+_Context: Gol Transportes Aereos Flight 1907, Law of Brazil, U.S._
 
 ### [A 4.0-magnitude (originally, 4.6) earthquake strikes Hollis Center, Maine, roughly 20 miles west of Portland, Maine, the state's largest city. At 3.1 miles deep, it is a shallow earthquake, felt in Maine, southwestern Connecticut, and eastern New York state. There were reports of very minor damage and cellular phone outages, but no serious property damage, injuries, or deaths. ](/news/2012/10/16/a-4-0-magnitude-originally-4-6-earthquake-strikes-hollis-center-maine-roughly-20-miles-west-of-portland-maine-the-state-s-largest-cit.md)
 _Context: Connecticut, Hollis Center, Maine, New York State, Portland, cellular phone_

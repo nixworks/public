@@ -1,7 +1,7 @@
 ## [2010-12-29](/news/2010/12/29/index.md)
 
 ### [South Thailand insurgency: Seven people are injured in a bomb attack in southern Thailand by suspected Islamist insurgents. ](/news/2010/12/29/south-thailand-insurgency-seven-people-are-injured-in-a-bomb-attack-in-southern-thailand-by-suspected-islamist-insurgents.md)
-_Context: South Thailand insurgency, Thai_
+_Context: South Thailand insurgency, Thailand_
 
 ### [Nigerian Sharia conflict: Three people are killed by Islamist group Boko Haram in northeastern Nigeria, in the latest in a number of attacks. ](/news/2010/12/29/nigerian-sharia-conflict-three-people-are-killed-by-islamist-group-boko-haram-in-northeastern-nigeria-in-the-latest-in-a-number-of-attacks.md)
 _Context: Boko Haram, Islamist, Nigeria, Nigerian Sharia conflict_
@@ -34,13 +34,13 @@ Proposed draft resolution calls on Security Council to condemn Israeli settlemen
 A letter published by a group of rabbis in Israel has sparked calls for their dismissal.
 
 ### [The United States revokes the visa for Bernardo Alvarez Herrera, the Venezuelan ambassador to the country. ](/news/2010/12/29/the-united-states-revokes-the-visa-for-bernardo-alvarez-herrera-the-venezuelan-ambassador-to-the-country.md)
-_Context: Bernardo Alvarez Herrera, United States, visa-free travel_
+_Context: Bernardo Alvarez Herrera, U.S., visa-free travel_
 
 ### [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md)
 _Context: Africa, Cote d'Ivoire, Laurent Gbagbo, President_
 
 ### [Seven Thais, including a MP, are arrested after illegally crossing the border into Cambodia. ](/news/2010/12/29/seven-thais-including-a-mp-are-arrested-after-illegally-crossing-the-border-into-cambodia.md)
-_Context: Cambodia, MP, Thai_
+_Context: Cambodia, MP, Thailand_
 
 ### [Cuba commutes the last remaining death sentence on the island. ](/news/2010/12/29/cuba-commutes-the-last-remaining-death-sentence-on-the-island.md)
 Havana, Dec 29 (DPA) Cubas only death row inmate will not receive capital punishment, the countrys highest court decided, according to dissident...

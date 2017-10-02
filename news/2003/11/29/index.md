@@ -10,7 +10,7 @@ _Context: Beth Israel, Istanbul, Turkey, suicide bomber_
 _Context: Luan Enjie_
 
 ### [ Occupation of Iraq: A team of eight Spanish intelligence agents is attacked south of Baghdad; seven are killed and one wounded. Two Japanese diplomats are killed near Tikrit. Two U.S. soldiers and a Colombian civilian contractor are killed in Baghdad.](/news/2003/11/29/occupation-of-iraq-a-team-of-eight-spanish-intelligence-agents-is-attacked-south-of-baghdad-seven-are-killed-and-one-wounded-two-japanes.md)
-_Context: Baghdad, Occupation of Iraq, Spain, Tikrit_
+_Context: Baghdad, Occupation of Iraq, Spanish, Tikrit_
 
 ### [ In Australia, the opposition Labor Party's finance spokesperson, Mark Latham, announces that he will contest the party leadership ballot on 2 December against the former leader Kim Beazley. Press reports place the two candidates at about 40 votes each, with about ten undecided.](/news/2003/11/29/in-australia-the-opposition-labor-party-s-finance-spokesperson-mark-latham-announces-that-he-will-contest-the-party-leadership-ballot-on.md)
 _Context: Kim Beazley, Labor Party, Mark Latham_

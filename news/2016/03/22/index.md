@@ -1,7 +1,7 @@
 ## [2016-03-22](/news/2016/03/22/index.md)
 
 ### [Three explosions in the Brussels Airport and Maalbeek metro station kill at least 34 people and wound at least 170 more, according to Belgian media. Belgian federal Prosecutor Frederic Van Leeuw cautions it is too soon to know exactly how many people died in the bombings. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/03/22/three-explosions-in-the-brussels-airport-and-maalbeek-metro-station-kill-at-least-34-people-and-wound-at-least-170-more-according-to-belgia.md)
-_Context: 2016 Brussels bombings, Belgium, Brussels Zaventem International Airport, ISIL, Maalbeek metro station_
+_Context: 2016 Brussels bombings, Belgium, Brussels Zaventem International Airport, Islamic State, Maalbeek metro station_
 
 ### [Airstrikes near the Yemeni port city of Al Mukalla, Hadhramaut Governorate, reportedly kill at least 30 Al-Qaeda militants. ](/news/2016/03/22/airstrikes-near-the-yemeni-port-city-of-al-mukalla-hadhramaut-governorate-reportedly-kill-at-least-30-al-qaeda-militants.md)
 Saudi-led airstrikes targeting al Qaeda in eastern Yemen killed and wounded dozens on Tuesday, a provincial governor and medics said.

@@ -19,7 +19,7 @@ _Context: Germany, Somali pirates_
 _Context: Juarez, Mexico, soccer_
 
 ### [Insurgents kill nine civilians and injure two others in a bombing in southern Thailand. ](/news/2011/01/25/insurgents-kill-nine-civilians-and-injure-two-others-in-a-bombing-in-southern-thailand.md)
-_Context: South Thailand insurgency, Thai_
+_Context: South Thailand insurgency, Thailand_
 
 ### [The nominees for the 83rd Academy Awards are announced, with "The King's Speech" receiving twelve nominations. ](/news/2011/01/25/the-nominees-for-the-83rd-academy-awards-are-announced-with-the-king-s-speech-receiving-twelve-nominations.md)
 A psychological ballet thriller, a historical drama and a social network movie are among the movies vying for an Oscar.
@@ -38,7 +38,7 @@ A bipartisan panel investigating the financial crisis has referred cases of pote
 
 ### [Statistics indicate that Britain's economy contracted by 0.5% during the final quarter of 2010. ](/news/2011/01/25/statistics-indicate-that-britain-s-economy-contracted-by-0-5-during-the-final-quarter-of-2010.md)
 ### [Around 2,000 "yellow shirt" protesters in Thailand demonstrate over the government's handling of a border dispute with Cambodia. ](/news/2011/01/25/around-2-000-yellow-shirt-protesters-in-thailand-demonstrate-over-the-government-s-handling-of-a-border-dispute-with-cambodia.md)
-_Context: Cambodia, Thai, yellow shirt_
+_Context: Cambodia, Thailand, yellow shirt_
 
 ### [U.S. envoy Jeffrey Feltman expresses his hope that the "example" of the ongoing Tunisian uprising can bring reform to other parts of region, despite U.S. backing for the deposed Zine El Abidine Ben Ali regime. ](/news/2011/01/25/u-s-envoy-jeffrey-feltman-expresses-his-hope-that-the-example-of-the-ongoing-tunisian-uprising-can-bring-reform-to-other-parts-of-region.md)
 _Context: Jeffrey Feltman, Zine El Abidine Ben Ali, demonstrations that toppled his regime_

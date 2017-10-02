@@ -16,7 +16,7 @@ _Context: Bali, Indonesia, Lion Air, Ngurah Rai International Airport, crashed, 
 The BBC says an edition of Panorama filmed secretly on a study trip to North Korea will be aired later despite claims students were put in danger.
 
 ### [Australian Prime Minister Julia Gillard announces that the late Swedish diplomat Raoul Wallenberg has been made an honorary Australian citizen. ](/news/2013/04/15/australian-prime-minister-julia-gillard-announces-that-the-late-swedish-diplomat-raoul-wallenberg-has-been-made-an-honorary-australian-citiz.md)
-_Context: Australia, Australian Prime Minister, Julia Gillard, Raoul Wallenberg, Sweden, honorary Australian citizen_
+_Context: Australia, Australian Prime Minister, Julia Gillard, Raoul Wallenberg, Swedish, honorary Australian citizen_
 
 ### [A hearing into the territorial row between Thailand and Cambodia begins at the International Court of Justice in The Hague. ](/news/2013/04/15/a-hearing-into-the-territorial-row-between-thailand-and-cambodia-begins-at-the-international-court-of-justice-in-the-hague.md)
 A week-long hearing into a territorial dispute between Thailand and Cambodia begins in The Hague.

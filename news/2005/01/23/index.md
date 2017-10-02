@@ -5,7 +5,7 @@
 _Context: February 1, Kenya, Mogadishu, Somalian_
 
 ### [ U.S. Ambassador John Negroponte confirms there is an investigation into the alleged loss or transfer of $300 million USD to a Beirut bank by Iraqi interim Defence Minister, Hazim al-Shaalan to purchase arms. ](/news/2005/01/23/u-s-ambassador-john-negroponte-confirms-there-is-an-investigation-into-the-alleged-loss-or-transfer-of-300-million-usd-to-a-beirut-bank-b.md)
-_Context: Beirut, Hazim al-Shaalan, Iraq, John Negroponte, US$, United States_
+_Context: Beirut, Hazim al-Shaalan, Iraq, John Negroponte, U.S., US$_
 
 ### [ Viktor Yushchenko is invested as president of Ukraine at a ceremony in Kiev before a large crowd of supporters and attended by numerous heads of state and other dignitaries from around the world. ](/news/2005/01/23/viktor-yushchenko-is-invested-as-president-of-ukraine-at-a-ceremony-in-kiev-before-a-large-crowd-of-supporters-and-attended-by-numerous-hea.md)
 _Context: Kiev, Ukraine, Viktor Yushchenko, head of state, invested as president_

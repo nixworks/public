@@ -13,13 +13,13 @@ _Context: Jacob Zuma, Pietermaritzburg, South Africa, Thabo Mbeki_
 _Context: Bangladesh, Bay of Bengal, India_
 
 ### [ The United States Federal Reserve decides to leave its benchmark interest rate unchanged at 5.25% for a second successive month. Chairman Ben Bernanke and his colleagues believe a slowing economy and falling energy prices are starting to relieve inflation pressures. ](/news/2006/09/20/the-united-states-federal-reserve-decides-to-leave-its-benchmark-interest-rate-unchanged-at-5-25-for-a-second-successive-month-chairman-b.md)
-_Context: Ben Bernanke, Federal Reserve, United States, interest rate_
+_Context: Ben Bernanke, Federal Reserve, U.S., interest rate_
 
 ### [ Shinzo Abe is elected as party leader of the Liberal Democratic Party in Japan, replacing the current Prime Minister Junichiro Koizumi. He will likely be elected as the new prime minister on 30 September 2006. ](/news/2006/09/20/shinzo-abe-is-elected-as-party-leader-of-the-liberal-democratic-party-in-japan-replacing-the-current-prime-minister-junichiro-koizumi-he.md)
 _Context: Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_
 
 ### [ The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minister-will-be-appointed-in.md)
-_Context: General, Sonthi Boonyaratglin, Thai, Thaksin Shinawatra, civilian_
+_Context: General, Sonthi Boonyaratglin, Thailand, Thaksin Shinawatra, civilian_
 
 ### [ A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-police-clash-with-demonstrat.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

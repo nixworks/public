@@ -1,13 +1,13 @@
 ## [2003-10-18](/news/2003/10/18/index.md)
 
 ### [ Leaders of Pacific-rim nations gather in Bangkok ahead of the 11th Asian Pacific Economic Cooperation (APEC) conference. President George W. Bush arrives in Thailand ahead of an APEC summit of 21 Asia-Pacific government leaders which is likely to be dominated by discussions of the War on Terrorism and trade friction between rich and poor nations (trade and currency).](/news/2003/10/18/leaders-of-pacific-rim-nations-gather-in-bangkok-ahead-of-the-11th-asian-pacific-economic-cooperation-apec-conference-president-george-w.md)
-_Context: APEC, Asia Pacific, Asian Pacific Economic Cooperation, Bangkok, George W. Bush, Pacific-rim nations, President, Thai, War on Terrorism, government, nation, poverty, trade, wealth_
+_Context: APEC, Asia Pacific, Asian Pacific Economic Cooperation, Bangkok, George W. Bush, Pacific-rim nations, President, Thailand, War on Terrorism, government, nation, poverty, trade, wealth_
 
 ### [ New audio tapes, allegedly from Osama bin Laden, air on the Al Jazeera network.](/news/2003/10/18/new-audio-tapes-allegedly-from-osama-bin-laden-air-on-the-al-jazeera-network.md)
 _Context: Al Jazeera, Osama bin Laden_
 
 ### [ occupation of Iraq: Spain's government, one of the staunchest supporters of the attack on Iraq, has pledged $300 million over several years toward Iraqi reconstruction.](/news/2003/10/18/occupation-of-iraq-spain-s-government-one-of-the-staunchest-supporters-of-the-attack-on-iraq-has-pledged-300-million-over-several-years.md)
-_Context: Occupation of Iraq, Spain_
+_Context: Occupation of Iraq, Spanish_
 
 ### [ Zimbabwe's state oil corporation is reported to have run out of fuel, aggravating the continuing acute fuel crisis.](/news/2003/10/18/zimbabwe-s-state-oil-corporation-is-reported-to-have-run-out-of-fuel-aggravating-the-continuing-acute-fuel-crisis.md)
 _Context: Zimbabwe_

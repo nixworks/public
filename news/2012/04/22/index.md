@@ -4,7 +4,7 @@
 Renewed clashes broke out in Bahrain overnight between hundreds of anti-government protesters and police just a few hours before a Formula One race.
 
 ### [One RKK (Runda Kumpulan Kecil) separatist group member and a Thai policeman are killed in a firefight in the village of Ruso in Thailand's Narathiwat Province. ](/news/2012/04/22/one-rkk-runda-kumpulan-kecil-separatist-group-member-and-a-thai-policeman-are-killed-in-a-firefight-in-the-village-of-ruso-in-thailand-s-n.md)
-_Context: Narathiwat, RKK, Ruso, Thai, Thai police officers_
+_Context: Narathiwat, RKK, Ruso, Thai police officers, Thailand_
 
 ### [Sudan launches a fresh incursion into South Sudan. ](/news/2012/04/22/sudan-launches-a-fresh-incursion-into-south-sudan.md)
 Border areas across Unity State bombed leaving one dead and three others wounded, an official said.

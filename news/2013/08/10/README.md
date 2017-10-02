@@ -1,7 +1,7 @@
 ## [2013-08-10](/news/2013/08/10/index.md)
 
 ### [Gunmen kidnap four Thai tourists traveling in Nigeria's Rivers State. ](/news/2013/08/10/gunmen-kidnap-four-thai-tourists-traveling-in-nigeria-s-rivers-state.md)
-_Context: Nigeria, Rivers State, Thai_
+_Context: Nigeria, Rivers State, Thailand_
 
 ### [A bomb kills four people and wounds 16 in a park south of Baghdad, Iraq. ](/news/2013/08/10/a-bomb-kills-four-people-and-wounds-16-in-a-park-south-of-baghdad-iraq.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -19,7 +19,7 @@ A volcano erupts on an Indonesian island, spewing hot ash on to a nearby beach a
 _Context: Al Hoceima, Morocco, Royal Guardsmen_
 
 ### [Floods and mudslides in Manitou Springs, Colorado, United States leave at least three people missing and one dead. ](/news/2013/08/10/floods-and-mudslides-in-manitou-springs-colorado-united-states-leave-at-least-three-people-missing-and-one-dead.md)
-_Context: Colorado, Manitou Springs, United States_
+_Context: Colorado, Manitou Springs, U.S._
 
 ### [A total of 56 police officers are injured in Belfast, Northern Ireland after a night of Ulster loyalism rioting. ](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.md)
 More than 50 police officers are injured in what have been described as &quot;shameful attacks&quot; during loyalist protests against a republican parade in Belfast.

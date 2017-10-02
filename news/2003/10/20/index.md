@@ -16,7 +16,7 @@ _Context: Swiss People's Party, Swiss elections_
 _Context: Homo erectus_
 
 ### [ [The Soyuz TMA-3 spacecraft docked with the International Space Station bringing a new crew of three from Russia, the United States, and Spain.](/news/2003/10/20/the-soyuz-tma-3-spacecraft-docked-with-the-international-space-station-bringing-a-new-crew-of-three-from-russia-the-united-states-and-sp.md)
-_Context: International Space Station, Soyuz TMA-3, Spain_
+_Context: International Space Station, Soyuz TMA-3, Spanish_
 
 ## [Previous Day...](/news/2003/10/19/index.md)
 

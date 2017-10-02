@@ -4,7 +4,7 @@
 _Context: Cairo, Post-coup unrest in Egypt, presidential palace_
 
 ### [A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-least-one-death.md)
-_Context: Panare, Pattani, South Thailand insurgency, Thai, mosque_
+_Context: Panare, Pattani, South Thailand insurgency, Thailand, mosque_
 
 ### [A cameraman from Russia's Channel One dies after being shot in Donetsk. ](/news/2014/06/30/a-cameraman-from-russia-s-channel-one-dies-after-being-shot-in-donetsk.md)
 A cameraman for Russia&#039;s Channel One TV station died from injuries after being shot by Kiev troops in the eastern Ukrainian city of Donetsk, said the broadcaster’s press service.

@@ -28,7 +28,7 @@ _Context: Lebanon, NTV, Turkey_
 _Context: Afghanistan, NATO_
 
 ### [ Thai authorities take steps to hold peace talks with two Muslim insurgencies, the Patani United Liberation Organisation (PULO) and Bersatu, who are fighting the Government in the Muslim-majority southern provinces of Thailand. ](/news/2006/10/5/thai-authorities-take-steps-to-hold-peace-talks-with-two-muslim-insurgencies-the-patani-united-liberation-organisation-pulo-and-bersatu.md)
-_Context: Bersatu, Muslim, Patani United Liberation Organisation, Thai_
+_Context: Bersatu, Muslim, Patani United Liberation Organisation, Thailand_
 
 ### [ The Court of Appeal of England and Wales determines that a merchant ship, SS Storaa, is eligible for consideration for protection as a war grave under the Protection of Military Remains Act 1986. ](/news/2006/10/5/the-court-of-appeal-of-england-and-wales-determines-that-a-merchant-ship-ss-storaa-is-eligible-for-consideration-for-protection-as-a-war.md)
 _Context: Britain's Court of Appeal, Protection of Military Remains Act 1986, SS Storaa, war grave_

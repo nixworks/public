@@ -4,7 +4,7 @@
 A North Korean propaganda film posted on the internet reveals footage of a newly developed cruise missile based on a Russian design, experts say.
 
 ### [Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-months.md)
-_Context: Narathiwat, Pattani, South Thailand insurgency, Thai, Yala_
+_Context: Narathiwat, Pattani, South Thailand insurgency, Thailand, Yala_
 
 ### [Al-Shabaab militants attack Poromoko village in Kenya, killing 15 people and burning multiple houses down. ](/news/2014/06/17/al-shabaab-militants-attack-poromoko-village-in-kenya-killing-15-people-and-burning-multiple-houses-down.md)
 _Context: Al-Shabaab, Kenya_

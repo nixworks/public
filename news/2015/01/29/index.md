@@ -16,7 +16,7 @@ _Context: Baghdad, Iraqi insurgency (2011-present)_
 Islamic State-linked Ansar Beit al-Maqdis claims responsibility for wide-ranging attacks in Sinai, targeting military base, newspaper; army major shot dead in Rafah.
 
 ### [Shiite Houthi rebels seize a Yemeni military base south of the capital, Sana'a, where U.S. military advisers once trained Yemeni counterterrorism forces to fight Al-Qaeda in the south of the country. Forces loyal to former President Ali Abdullah Saleh had manned the captured base. ](/news/2015/01/29/shiite-houthi-rebels-seize-a-yemeni-military-base-south-of-the-capital-sana-a-where-u-s-military-advisers-once-trained-yemeni-counterterr.md)
-_Context: Houthi, Saleh, Sanaa, Shia insurgency in Yemen, Shiite, U.S., Yemen, al-Qaeda_
+_Context: Houthi, Saleh, Sana'a, Shia insurgency in Yemen, Shiite, U.S., Yemen, al-Qaeda_
 
 ### [The Paraguayan People's Army kills a German couple who lived on a ranch near Yby Yau in northern Paraguay. ](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.md)
 _Context: German, Paraguay, Paraguayan People's Army_

@@ -10,7 +10,7 @@ Italy has fined Ryanair 3 million euros for failing to help passengers after can
 _Context: Hong Kong, by-election_
 
 ### [Government troops in Thailand continue operations to end anti-government protests by red shirt protestors in the capital Bangkok. ](/news/2010/05/15/government-troops-in-thailand-continue-operations-to-end-anti-government-protests-by-red-shirt-protestors-in-the-capital-bangkok.md)
-_Context: 2010 Thai political protests, Bangkok, Thai, red shirt_
+_Context: 2010 Thai political protests, Bangkok, Thailand, red shirt_
 
 ### [Sudanese forces announce they have gained control of a rebel held area in Darfur after killing more than 150 members of the Justice and Equality Movement. ](/news/2010/05/15/sudanese-forces-announce-they-have-gained-control-of-a-rebel-held-area-in-darfur-after-killing-more-than-150-members-of-the-justice-and-equa.md)
 More than 150 fighters reported dead as clashes cast further doubt on peace talks.

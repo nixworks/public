@@ -31,7 +31,7 @@ The Dominican Republic confirms a Haitian man is the first to die of cholera in 
 Negotiations to resolve the stand-off over Iran&#039;s nuclear programme have ended in deadlock &ndash; raising fears that its regime could accelerate its nuclear weapons programme, potentially sparking off a dangerous Middle East crisis.
 
 ### [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md)
-_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, United States_
+_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, U.S._
 
 ### [A "spy" computer is found in an office next to Icelandic MP Birgitta Jonsdottir who has been the target in the United States Department of Justice/Twitter case concerning the WikiLeaks website. ](/news/2011/01/23/a-spy-computer-is-found-in-an-office-next-to-icelandic-mp-birgitta-jonsdottir-who-has-been-the-target-in-the-united-states-department-of-j.md)
 The founder of whistleblower site WikiLeaks attacked Switzerland on Sunday for arresting a Swiss banker on suspicion of breaching banking secrecy instead of investigating the tax evasion he said he had uncovered.
@@ -55,7 +55,7 @@ Up to 430,000 people infected with Hepatitis B from repeated use of needles, to 
 Thousands march in Brussels to demand political rivals form a government after seven-month political impasse.
 
 ### [Around 27,000 anti-government red shirt protestors march in Bangkok, Thailand, calling for the release of imprisoned leaders. ](/news/2011/01/23/around-27-000-anti-government-red-shirt-protestors-march-in-bangkok-thailand-calling-for-the-release-of-imprisoned-leaders.md)
-_Context: Bangkok, Thai, red shirt_
+_Context: Bangkok, Thailand, red shirt_
 
 ### [A female Islamic activist is arrested in Yemen after organising a 2,500-strong demonstration at the Sana'a University. ](/news/2011/01/23/a-female-islamic-activist-is-arrested-in-yemen-after-organising-a-2-500-strong-demonstration-at-the-sana-a-university.md)
 Tunisian-style protests erupted in Yemen over the weekend with thousands demanding the downfall of its autocratic president who has joined leaders from Algeria to Jordan in the crosshairs of a regional revolt.

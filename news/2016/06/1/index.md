@@ -52,7 +52,7 @@ Victim described as popular teacher, devoted family man.
 _Context: Facebook, Plano, Texas_
 
 ### [Thailand authorities discover the remains of 40 dead tiger cubs in a freezer at the Tiger Temple in the Sai Yok District of Kanchanaburi Province. The Theravada Buddhist temple is being investigated for wildlife trafficking. The Department of National Parks, Wildlife and Plant Conservation is in the process of removing 137 tigers from the monks' custody. ](/news/2016/06/1/thailand-authorities-discover-the-remains-of-40-dead-tiger-cubs-in-a-freezer-at-the-tiger-temple-in-the-sai-yok-district-of-kanchanaburi-pro.md)
-_Context: Department of National Parks, Wildlife and Plant Conservation, Kanchanaburi Province, Sai Yok District, Thai, Theravada Buddhist, Tiger Temple_
+_Context: Department of National Parks, Wildlife and Plant Conservation, Kanchanaburi Province, Sai Yok District, Thailand, Theravada Buddhist, Tiger Temple_
 
 ### [ German police are investigating 26 sexual assault reports from this weekend's Schlossgrabenfest music festival near Darmstadt. In one case, three women reported being groped by groups of men Saturday. Police have detained three Pakistani immigrants, and expect more reports following this announcement. ](/news/2016/06/1/german-police-are-investigating-26-sexual-assault-reports-from-this-weekend-s-schlossgrabenfest-music-festival-near-darmstadt-in-one-case.md)
 Darmstadt, Germany, police are seeking suspects after 26 women filed sexual assault reports saying they were groped at a weekend music festival.

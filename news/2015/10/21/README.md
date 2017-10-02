@@ -4,7 +4,7 @@
 Map detailing Taliban-controlled or contested districts. Click colored district for information. Based on an analysis by The Long War Journal, 36 of Afghanistan&#039;s 398 districts are under Taliban control, and another 36 districts are contested. Map created by Bill Roggio, Caleb Weiss, and Patric...
 
 ### [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md)
-_Context: ISIL, Raqqa, Syria, Syrian Civil War_
+_Context: Islamic State, Raqqa, Syria, Syrian Civil War_
 
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
 _Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_
@@ -25,7 +25,7 @@ _Context: American Academy of Pediatrics, American College of Obstetricians and 
 _Context: Bashar al-Assad, Moscow, President, Russian President, Syrian Civil War, Vladimir Putin_
 
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
-_Context: Ali Khamenei, EU, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, United States, pre-sanction_
+_Context: Ali Khamenei, EU, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, U.S., pre-sanction_
 
 ### [The Vatican denies an Italian newspaper report that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff is in good health, and denounces the article as utterly reprehensible. ](/news/2015/10/21/the-vatican-denies-an-italian-newspaper-report-that-pope-francis-has-a-benign-brain-tumour-saying-the-78-year-old-pontiff-is-in-good-health.md)
 The Vatican denied an Italian newspaper report on Wednesday that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff was in good health and denouncing the article as &quot;inexcusable&quot;.

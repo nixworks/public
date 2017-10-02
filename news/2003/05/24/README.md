@@ -10,7 +10,7 @@ _Context: Paul McCartney perform on their soil, Red Square, Russian, The Beatles
 _Context: 2003 Eurovision Song Contest, Latvia, Riga, Sertab Erener, Turkey_
 
 ### [ Swedish singer Carola releases her album Guld, Platina och Passion.](/news/2003/05/24/swedish-singer-carola-releases-her-album-guld-platina-och-passion.md)
-_Context: Carola, Guld, Platina och Passion, Sweden_
+_Context: Carola, Guld, Platina och Passion, Swedish_
 
 ## [Previous Day...](/news/2003/05/23/index.md)
 

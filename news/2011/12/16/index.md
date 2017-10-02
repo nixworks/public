@@ -22,7 +22,7 @@ _Context: Cairo, Egyptian Army_
 Russia finally joins the World Trade Organization at a ceremony in Geneva on Friday, after 18 years negotiating its membership.
 
 ### [Fitch Ratings lowers France's rating outlook while maintaining a AAA rating and puts the grades of six nations including Spain and Italy on review due to Europe's failure to find a solution to the debt problem. ](/news/2011/12/16/fitch-ratings-lowers-france-s-rating-outlook-while-maintaining-a-aaa-rating-and-puts-the-grades-of-six-nations-including-spain-and-italy-on.md)
-_Context: Europe, Fitch Ratings, France, Italy, Spain_
+_Context: Europe, Fitch Ratings, France, Italy, Spanish_
 
 ### [The stock price of Research in Motion, the maker of BlackBerry smart phones, falls after the release of disappointing quarterly numbers and news of the delay of expected product upgrades. ](/news/2011/12/16/the-stock-price-of-research-in-motion-the-maker-of-blackberry-smart-phones-falls-after-the-release-of-disappointing-quarterly-numbers-and.md)
 Research in Motion stock falls after company delays arrival of new phones next year. But the real problem for Research in Motion stock: Loyal BlackBerry users are jumping to other smartphones.
@@ -34,7 +34,7 @@ _Context: Fukushima Daiichi Nuclear Power Plant, Japan, cold shutdown_
 _Context: Hand, foot and mouth disease, Vietnam_
 
 ### [The United States and North Korea are expected to hold diplomatic talks regarding North Korea's nuclear program. The talks are the first meeting after the six-party talks stalled in 2008. ](/news/2011/12/16/the-united-states-and-north-korea-are-expected-to-hold-diplomatic-talks-regarding-north-korea-s-nuclear-program-the-talks-are-the-first-mee.md)
-_Context: North Korea, United States, its nuclear weapons program, six-party talks_
+_Context: North Korea, U.S., its nuclear weapons program, six-party talks_
 
 ### [The International Criminal Court dismisses charges against Callixte Mbarushimana, a Rwandan rebel accused of the torture, rape and murder of Congolese villagers by Hutu militia in 2009. ](/news/2011/12/16/the-international-criminal-court-dismisses-charges-against-callixte-mbarushimana-a-rwandan-rebel-accused-of-the-torture-rape-and-murder-of.md)
 _Context: Callixte Mbarushimana, Democratic Republic of the Congo, Hutu, International Criminal Court, Rwanda_
@@ -55,7 +55,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 _Context: Barry Bonds, baseball game, home detention, obstruction of justice_
 
 ### [Thailand reissues a passport for Thaksin Shinawatra, saying he is no longer a "threat". ](/news/2011/12/16/thailand-reissues-a-passport-for-thaksin-shinawatra-saying-he-is-no-longer-a-threat.md)
-_Context: Thai, Thaksin Shinawatra_
+_Context: Thailand, Thaksin Shinawatra_
 
 ### [Labour's Seema Malhotra wins the Feltham and Heston by-election. ](/news/2011/12/16/labour-s-seema-malhotra-wins-the-feltham-and-heston-by-election.md)
 _Context: Feltham and Heston by-election, Labour, Seema Malhotra_

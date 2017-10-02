@@ -10,7 +10,7 @@ _Context: 2003 invasion of Iraq, Cindy Sheehan, White House, arrest_
 General John de Chastelain has said that he is satisfied that the IRA has completed its disarmament.
 
 ### [ Imad Yarkas is convicted in Spain of conspiracy with al-Qaeda in the September 11, 2001 attacks and sentenced to 27 years. Driss Chebli, was convicted of collaborating with a terrorist group and sentenced to six years, Al Jazeera journalist Tayseer Allouni was also convicted of collaborating with a terrorist group and sentenced to seven years, while Ghasoub al-Abrash Ghalyoun was acquitted on all counts. [http://news.yahoo.com/news?tmpl=story&u=/ap/20050926/ap_on_re_eu/spain_sept11_trial (AP)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/imad-yarkas-is-convicted-in-spain-of-conspiracy-with-al-qaeda-in-the-september-11-2001-attacks-and-sentenced-to-27-years-driss-chebli-wa.md)
-_Context: Al Jazeera, Driss Chebli, Imad Yarkas, September 11, 2001 attacks, Spain, Tayseer Allouni, al-Qaeda_
+_Context: Al Jazeera, Driss Chebli, Imad Yarkas, September 11, 2001 attacks, Spanish, Tayseer Allouni, al-Qaeda_
 
 ### [ Five school teachers were killed in an insurgent attack in Iskandariya, south of Baghdad. ](/news/2005/09/26/five-school-teachers-were-killed-in-an-insurgent-attack-in-iskandariya-south-of-baghdad.md)
 _Context: Baghdad, Iraqi insurgency, Iskandariya, school_

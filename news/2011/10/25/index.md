@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 Defense Ministry to send plane carrying 7 mobile homes to quake-devastated province, more aid to follow.
 
 ### [Floodwaters continue to rise on the outskirts of the Thai capital Bangkok, with floodwaters having reached Don Mueang International Airport, leading to the cancellation of many flights. ](/news/2011/10/25/floodwaters-continue-to-rise-on-the-outskirts-of-the-thai-capital-bangkok-with-floodwaters-having-reached-don-mueang-international-airport.md)
-_Context: Bangkok, Don Mueang International Airport, Thai, floods_
+_Context: Bangkok, Don Mueang International Airport, Thailand, floods_
 
 ### [Following severe flooding in Ireland and parts of the United Kingdom, two apparent flood deaths are reported in the Irish capital Dublin. ](/news/2011/10/25/following-severe-flooding-in-ireland-and-parts-of-the-united-kingdom-two-apparent-flood-deaths-are-reported-in-the-irish-capital-dublin.md)
 A clean-up operation got under way today after torrential rains hit the Dublin region Monday.

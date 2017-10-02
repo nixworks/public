@@ -13,7 +13,7 @@ _Context: 2007 Solomon Islands earthquake, Solomon Islands_
 Get a recap of the Ohio State Buckeyes vs. Florida Gators basketball game.
 
 ### [ The United States and South Korea reach an agreement on bilateral free trade, concluding ten months of negotiations. ](/news/2007/04/2/the-united-states-and-south-korea-reach-an-agreement-on-bilateral-free-trade-concluding-ten-months-of-negotiations.md)
-_Context: South Korea, United States, agreement, free trade_
+_Context: South Korea, U.S., agreement, free trade_
 
 ### [ The United States Supreme Court rules that the Environmental Protection Agency has the authority to regulate the emission of greenhouse gases and must do so unless it can provide some scientific reason proving otherwise. ](/news/2007/04/2/the-united-states-supreme-court-rules-that-the-environmental-protection-agency-has-the-authority-to-regulate-the-emission-of-greenhouse-gas.md)
 The Supreme Court’s ruling that the Clean Air Act expressly authorizes the E.P.A. to regulate carbon dioxide emissions was a strong rebuke to the Bush administration.
@@ -25,7 +25,7 @@ _Context: Cambodian People's Party_
 _Context: George Yeo, Myanmar, Nyan Win, Singapore, Yangon_
 
 ### [ Panthongtae and Pinthongta Shinawatra, the son and daughter of deposed prime minister of Thailand Thaksin Shinawatra are ordered to pay 10 billion baht in back taxes owed in connection with the sale of Shin Corporation stock to Temasek Holdings. ](/news/2007/04/2/panthongtae-and-pinthongta-shinawatra-the-son-and-daughter-of-deposed-prime-minister-of-thailand-thaksin-shinawatra-are-ordered-to-pay-10.md)
-_Context: Panthongtae, Pinthongta Shinawatra, Shin Corporation, Temasek Holdings, Thai, Thaksin Shinawatra, baht_
+_Context: Panthongtae, Pinthongta Shinawatra, Shin Corporation, Temasek Holdings, Thailand, Thaksin Shinawatra, baht_
 
 ### [ Microsoft co-founder Bill Gates is in Vietnam, touring medical clinics as he looks to support the development of vaccines for children through the Bill and Melinda Gates Foundation. ](/news/2007/04/2/microsoft-co-founder-bill-gates-is-in-vietnam-touring-medical-clinics-as-he-looks-to-support-the-development-of-vaccines-for-children-thro.md)
 _Context: Bill Gates, Bill and Melinda Gates Foundation, Microsoft, Vietnam, vaccine_

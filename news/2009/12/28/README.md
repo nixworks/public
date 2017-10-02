@@ -58,7 +58,7 @@ A woman in her 40s has been killed and 18 others injured after a minibus overtur
 Outspoken critics of the government arrested after a day of violent clashes in Tehran.
 
 ### [ Thailand begins repatriating 4,000 Hmong to Laos against their will, despite international protest. ](/news/2009/12/28/thailand-begins-repatriating-4-000-hmong-to-laos-against-their-will-despite-international-protest.md)
-_Context: Hmong people, Laos, Thai_
+_Context: Hmong people, Laos, Thailand_
 
 ### [ Three people are dead and two are seriously injured following a fuel tanker crash and explosion near Batemans Bay, on the south coast of New South Wales, Australia. ](/news/2009/12/28/three-people-are-dead-and-two-are-seriously-injured-following-a-fuel-tanker-crash-and-explosion-near-batemans-bay-on-the-south-coast-of-ne.md)
 First video: Three people are dead and two are seriously injured following a fuel tanker crash near Batemans Bay, on the NSW south coast.

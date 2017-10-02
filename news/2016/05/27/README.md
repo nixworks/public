@@ -1,7 +1,7 @@
 ## [2016-05-27](/news/2016/05/27/index.md)
 
 ### [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md)
-_Context: Fallujah, ISIL, Iraqi Civil War, Operation Breaking Terrorism_
+_Context: Fallujah, Iraqi Civil War, Islamic State, Operation Breaking Terrorism_
 
 ### [Record rainfall and severe flooding in southeast Texas has killed at least two people with three others missing. On Thursday, a record 16.6 inches (42 cm) of rain fell in Brenham, west of Houston. ](/news/2016/05/27/record-rainfall-and-severe-flooding-in-southeast-texas-has-killed-at-least-two-people-with-three-others-missing-on-thursday-a-record-16-6.md)
 At least two people person were killed and three others missing on Friday as record rainfall and severe flooding hit hard parts of southeast Texas, officials said.
@@ -28,7 +28,7 @@ In the majority opinion of the Iowa Supreme Court, even juveniles who commit the
 _Context: Iran_
 
 ### [The legal team of Joaquin Guzman ("El Chapo"), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decision.md)
-_Context: Joaquin "El Chapo" Guzman, Sinaloa Cartel, United States, foreign ministry of Mexico's_
+_Context: Joaquin "El Chapo" Guzman, Sinaloa Cartel, U.S., foreign ministry of Mexico's_
 
 ### [Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md)
 Controversial mayor, known as The Punisher, gets more than 16 million votes after campaign pledge to kill criminals.

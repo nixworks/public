@@ -7,7 +7,7 @@ The city controller, Annise Parker, who avoided making an issue of her sexual or
 At least 900 activists are arrested for trying to disrupt corporate and lobby group meetings.
 
 ### [ Police in Thailand seize a plane carrying weapons from North Korea to an unknown destination, detaining 5 crew. ](/news/2009/12/12/police-in-thailand-seize-a-plane-carrying-weapons-from-north-korea-to-an-unknown-destination-detaining-5-crew.md)
-_Context: North Korea, Thai_
+_Context: North Korea, Thailand_
 
 ### [ The leaders of Cuba and Venezuela sign over US$3.2 billion worth of trade and cooperation agreements. ](/news/2009/12/12/the-leaders-of-cuba-and-venezuela-sign-over-us-3-2-billion-worth-of-trade-and-cooperation-agreements.md)
 _Context: Cuba, Venezuela_
@@ -22,7 +22,7 @@ _Context: Gloria Arroyo, Maguindanao, Maguindanao massacre, Philippines, martial
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 ### [ The U.S. Central Intelligence Agency has cancelled the contract of its private security firm with Xe Services LLC, previously known as Blackwater, for its services related to Drone operations in Afghanistan and Pakistan. ](/news/2009/12/12/the-u-s-central-intelligence-agency-has-cancelled-the-contract-of-its-private-security-firm-with-xe-services-llc-previously-known-as-blac.md)
-_Context: Blackwater Worldwide, CIA, United States, drones launch_
+_Context: Blackwater Worldwide, CIA, U.S., drones launch_
 
 ## [Previous Day...](/news/2009/12/11/index.md)
 

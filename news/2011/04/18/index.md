@@ -7,7 +7,7 @@ _Context: (''Wikinews''), Israel, Palestinian, school bus_
 The best of British &amp; international news, opinion, sport, people &amp; business.
 
 ### [Suspected Muslim insurgents detonate a bomb in southern Thailand, killing one and injuring 23 people. ](/news/2011/04/18/suspected-muslim-insurgents-detonate-a-bomb-in-southern-thailand-killing-one-and-injuring-23-people.md)
-_Context: Muslim, Thai_
+_Context: Muslim, Thailand_
 
 ### [Eight killed in Syrian Protests. ](/news/2011/04/18/eight-killed-in-syrian-protests.md)
 Get the latest BBC News from the Middle East: breaking news, features, analysis and debate plus audio and video coverage from across the Middle East.

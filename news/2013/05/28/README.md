@@ -7,7 +7,7 @@ _Context: John McCain, Syria, Syrian Civil War, United States Senator, United St
 Pakistani authorities suspended a four-day polio vaccination program Tuesday after gunmen shot dead a female polio worker and wounded another, officials said, in a blow to the U.N.-backed campaign aimed at eradicating the crippling disease from this violence-torn country.
 
 ### [Sweden's largest music festival, the Peace & Love in Borlnge, files for bankruptcy. ](/news/2013/05/28/sweden-s-largest-music-festival-the-peace-love-in-borlange-files-for-bankruptcy.md)
-_Context: Borlnge, Peace & Love, Sweden_
+_Context: Borlnge, Peace & Love, Swedish_
 
 ### [The U.S. Attorney's office in Los Angeles, California announces that Scott London, former senior partner with KPMG, has agreed to plead guilty on charges involving insider trading. ](/news/2013/05/28/the-u-s-attorney-s-office-in-los-angeles-california-announces-that-scott-london-former-senior-partner-with-kpmg-has-agreed-to-plead-guil.md)
 _Context: California, KPMG, Los Angeles, chief federal prosecutors, insider trading, office_

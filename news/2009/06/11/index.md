@@ -4,13 +4,13 @@
 Mayor Michael R. Bloomberg said the Hudson River landing of US Airways Flight 1549 &#8220;served as a catalyst to strengthen our efforts in removing geese from, and discouraging them from nesting on, city property near our runways.&#8221;.
 
 ### [ 10,000 Gabonese watch the body of President Omar Bongo arrive back home from Spain. ](/news/2009/06/11/10-000-gabonese-watch-the-body-of-president-omar-bongo-arrive-back-home-from-spain.md)
-_Context: Gabon, Omar Bongo, President, Spain_
+_Context: Gabon, Omar Bongo, President, Spanish_
 
 ### [ A Bosnian television station shows what it says is recent video footage of genocide suspect and Bosnian war commander General Ratko Mladic in Serbia. ](/news/2009/06/11/a-bosnian-television-station-shows-what-it-says-is-recent-video-footage-of-genocide-suspect-and-bosnian-war-commander-general-ratko-mladia.md)
 _Context: Bosnia, Bosnian War, Ratko Mladic, Serbia, genocide_
 
 ### [ Swedish sports car maker Koenigsegg is to buy Saab Automobile from General Motors with support from Norwegian investors.](/news/2009/06/11/swedish-sports-car-maker-koenigsegg-is-to-buy-saab-automobile-from-general-motors-with-support-from-norwegian-investors.md)
-_Context: General Motors, Koenigsegg, Norway, Saab Automobile, Sweden_
+_Context: General Motors, Koenigsegg, Norway, Saab Automobile, Swedish_
 
 ### [ Dail Eireann debates the findings of the Commission to Inquire into Child Abuse, delayed by the motion of no confidence in the Irish Government opened by Fine Gael. ](/news/2009/06/11/da-il-aireann-debates-the-findings-of-the-commission-to-inquire-into-child-abuse-delayed-by-the-motion-of-no-confidence-in-the-irish-gove.md)
 _Context: Commission to Inquire into Child Abuse, Dail Eireann, Fine Gael, Government of Ireland, no confidence_

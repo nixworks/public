@@ -16,7 +16,7 @@ _Context: Halloween Solar Storm, aurora borealis, electric power transmission gr
 _Context: Concorde, Heathrow International Airport_
 
 ### [ Three same-sex couples in Spain, including a Madrid city councilman, apply for marriage licenses. They state that if the registry judge does not grant them the licenses, they will appeal to Spain's constitutional court, and as far as the European Court of Human Rights if necessary. They describe their actions as inspired by the recent rulings on same-sex marriage in Canada.](/news/2003/10/24/three-same-sex-couples-in-spain-including-a-madrid-city-councilman-apply-for-marriage-licenses-they-state-that-if-the-registry-judge-doe.md)
-_Context: European Court of Human Rights, Madrid, Spain, same-sex marriage in Canada_
+_Context: European Court of Human Rights, Madrid, Spanish, same-sex marriage in Canada_
 
 ## [Previous Day...](/news/2003/10/23/index.md)
 

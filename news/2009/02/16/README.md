@@ -7,7 +7,7 @@ _Context: British military personnel, Counter-Terrorism Act 2008, GCHQ, MI5, Sec
 _Context: Holocaust, Israel, fraud, survivors_
 
 ### [ BitTorrent tracker The Pirate Bay's trial begins in Stockholm, Sweden. ](/news/2009/02/16/bittorrent-tracker-the-pirate-bay-s-trial-begins-in-stockholm-sweden.md)
-_Context: BitTorrent, Stockholm, Sweden, The Pirate Bay, tracker, trial_
+_Context: BitTorrent, Stockholm, Swedish, The Pirate Bay, tracker, trial_
 
 ### [ Japan's gross domestic product contracted by 12.7 percent in the fourth fiscal quarter of 2008. ](/news/2009/02/16/japan-s-gross-domestic-product-contracted-by-12-7-percent-in-the-fourth-fiscal-quarter-of-2008.md)
 _Context: GDP, Japan, contracted, fiscal year_

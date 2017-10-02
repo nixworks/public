@@ -1,7 +1,7 @@
 ## [2004-02-9](/news/2004/02/9/index.md)
 
 ### [ Carl XVI Gustaf of Sweden angers some Swedes by his praise of Sultan and Yang di-Pertuan Negara of Brunai Hassanal Bolkiah.](/news/2004/02/9/carl-xvi-gustaf-of-sweden-angers-some-swedes-by-his-praise-of-sultan-and-yang-di-pertuan-negara-of-brunai-hassanal-bolkiah.md)
-_Context: Brunai, Carl XVI Gustaf, Sultan, Sultan of Brunei, Sweden, Yang di-Pertuan Negara_
+_Context: Brunai, Carl XVI Gustaf, Sultan, Sultan of Brunei, Swedish, Yang di-Pertuan Negara_
 
 ### [ Pakistani President Pervez Musharraf admits that he had suspected for at least three years that Abdul Qadeer Khan, Pakistan's top nuclear scientist, was sharing nuclear technology with other countries, blaming the United States for not giving him convincing proof of the activities of his own scientist.](/news/2004/02/9/pakistani-president-pervez-musharraf-admits-that-he-had-suspected-for-at-least-three-years-that-abdul-qadeer-khan-pakistan-s-top-nuclear-s.md)
 _Context: Abdul Qadeer Khan, Pervez Musharraf_

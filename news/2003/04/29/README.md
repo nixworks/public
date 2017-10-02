@@ -4,7 +4,7 @@
 _Context: SARS, Toronto, World Health Organization_
 
 ### [ Leaders of member countries of ASEAN and the Premier of the People's Republic of China held an emergency summit in Bangkok, Thailand in order to address the SARS problem. Among the decisions made were the setting-up of a ministerial-level task force and uniform pre-departure health screening in airports.](/news/2003/04/29/leaders-of-member-countries-of-asean-and-the-premier-of-the-people-s-republic-of-china-held-an-emergency-summit-in-bangkok-thailand-in-ord.md)
-_Context: ASEAN, Bangkok, Premier of the People's Republic of China, SARS, Thai_
+_Context: ASEAN, Bangkok, Premier of the People's Republic of China, SARS, Thailand_
 
 ### [ Israeli forces assassinate three Palestinian militants in Gaza, including Nidal Salamah, a leader of the Popular Front for the Liberation of Palestine. The action prompts accusations that Israel is trying to sabotage the Palestinian government's attempts to transform itself.](/news/2003/04/29/israeli-forces-assassinate-three-palestinian-militants-in-gaza-including-nidal-salamah-a-leader-of-the-popular-front-for-the-liberation-o.md)
 _Context: Gaza, Israel, Nidal Salamah, PFLP, Palestinian_

@@ -10,7 +10,7 @@ _Context: Aung San Suu Kyi, National League for Democracy_
 _Context: China, Yunnan, earthquake_
 
 ### [ One person is killed by a bull, the first such fatality in 14 years, during the Running of the Bulls in Pamplona, Spain. ](/news/2009/07/10/one-person-is-killed-by-a-bull-the-first-such-fatality-in-14-years-during-the-running-of-the-bulls-in-pamplona-spain.md)
-_Context: Pamplona, Running of the Bulls, Spain_
+_Context: Pamplona, Running of the Bulls, Spanish_
 
 ### [ A senior Iranian cleric calls for changes to the election laws in the country to prevent further post-election unrest in the future. ](/news/2009/07/10/a-senior-iranian-cleric-calls-for-changes-to-the-election-laws-in-the-country-to-prevent-further-post-election-unrest-in-the-future.md)
 _Context: Iran_

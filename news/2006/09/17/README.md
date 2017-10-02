@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Four people are dead and 62 are wounded when five bomb blasts go off in the southern Thailand city of Hat Yai. ](/news/2006/09/17/four-people-are-dead-and-62-are-wounded-when-five-bomb-blasts-go-off-in-the-southern-thailand-city-of-hat-yai.md)
-_Context: Hat Yai, Thai, bomb blasts_
+_Context: Hat Yai, Thailand, bomb blasts_
 
 ### [ A global day of action, dubbed the 'International Day for Darfur' by Amnesty International, takes place with prayer vigils and demonstrations in 30 of the world's cities to highlight the plight of refugees and victims of genocide in the region. ](/news/2006/09/17/a-global-day-of-action-dubbed-the-international-day-for-darfur-by-amnesty-international-takes-place-with-prayer-vigils-and-demonstratio.md)
 _Context: Amnesty International, Darfur, genocide, refugees_

@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ A high court in Spain sentences Adolfo Scilingo, former Argentinian navy captain, for 640 years in prison for crimes against humanity during the Dirty War. ](/news/2005/04/19/a-high-court-in-spain-sentences-adolfo-scilingo-former-argentinian-navy-captain-for-640-years-in-prison-for-crimes-against-humanity-durin.md)
-_Context: Adolfo Scilingo, Argentina, Dirty War, Spain_
+_Context: Adolfo Scilingo, Argentina, Dirty War, Spanish_
 
 ### [ The girlfriend of a Paris Opera Hotel employee admits that she might have accidentally started the fire that destroyed the hotel last Friday. Police later take her into custody. The death toll has risen to 24. ](/news/2005/04/19/the-girlfriend-of-a-paris-opera-hotel-employee-admits-that-she-might-have-accidentally-started-the-fire-that-destroyed-the-hotel-last-frida.md)
 _Context: Paris Opera Hotel_

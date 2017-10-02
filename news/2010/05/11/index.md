@@ -22,13 +22,13 @@ Pope Benedict XVI has begun a four-day trip to Portugal, during which he is like
 _Context: Barack Obama, Deepwater Horizon oil spill, Thad Allen, U.S. President, United States Coast Guard, admiral_
 
 ### [Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed-spain-s-air-traffic-control-agency-aena-said.md)
-_Context: Aena, Canary Islands', Spain_
+_Context: Aena, Canary Islands', Spanish_
 
 ### [9 trapped miners found dead in coal gas leak in northwest China's Gansu Province Tuesday. ](/news/2010/05/11/9-trapped-miners-found-dead-in-coal-gas-leak-in-northwest-china-s-gansu-province-tuesday.md)
 _Context: China, Gansu province_
 
 ### [Swedish artist Lars Vilks is headbutted and has his glasses broken by a man sitting in the front row while delivering a lecture about the limits of artistic freedom at Uppsala University, with police using pepper spray and batons on the crowd. ](/news/2010/05/11/swedish-artist-lars-vilks-is-headbutted-and-has-his-glasses-broken-by-a-man-sitting-in-the-front-row-while-delivering-a-lecture-about-the-li.md)
-_Context: Lars Vilks, Sweden, Uppsala University, baton, headbutt, pepper spray_
+_Context: Lars Vilks, Swedish, Uppsala University, baton, headbutt, pepper spray_
 
 ### [South Africa's team manager Sipho Nkumane and commercial director Victor Nosi are suspended by the South African Football Association (SAFA) one month before the start of the 2010 FIFA World Cup. ](/news/2010/05/11/south-africa-s-team-manager-sipho-nkumane-and-commercial-director-victor-nosi-are-suspended-by-the-south-african-football-association-safa.md)
 _Context: 2010 FIFA World Cup, Sipho Nkumane, South Africa national football team, South African Football Association, Victor Nosi_

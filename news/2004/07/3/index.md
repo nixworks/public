@@ -4,7 +4,7 @@
 _Context: Jaish Ansar al-Sunna, Occupation of Iraq, United States Marine Corps, Wassef Ali Hassoun, corporal_
 
 ### [ The new metro in Bangkok, Thailand, officially opens. It is overcrowded within 30 minutes. ](/news/2004/07/3/the-new-metro-in-bangkok-thailand-officially-opens-it-is-overcrowded-within-30-minutes.md)
-_Context: Bangkok, Thai, new metro_
+_Context: Bangkok, Thailand, new metro_
 
 ### [ 17-year-old Maria Sharapova defeats Serena Williams 6-1, 6-4 in the Wimbledon Championships women's tennis final to become the first Russian Wimbledon champion. ](/news/2004/07/3/17-year-old-maria-sharapova-defeats-serena-williams-6a1-6a4-in-the-wimbledon-championships-women-s-tennis-final-to-become-the-first-ru.md)
 _Context: Maria Sharapova, Serena Williams, Wimbledon, tennis_

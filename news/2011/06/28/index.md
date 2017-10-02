@@ -13,7 +13,7 @@ Six bombers said to have stormed the Intercontinental, popular with foreigners a
 Police use tear gas to disperse stone-throwing youths in Athens as a 48-hour general strike is held against a parliamentary vote on austerity measures.
 
 ### [Freedom Flotilla II: The propeller house and propeller shaft of the pro-Palestinian flotilla's Swedish ship "Juliano" are damaged by "hostile divers" in the Greek port of Piraeus, with participants suggesting sabotage. ](/news/2011/06/28/freedom-flotilla-ii-the-propeller-house-and-propeller-shaft-of-the-pro-palestinian-flotilla-s-swedish-ship-juliano-are-damaged-by-hostil.md)
-_Context: Freedom Flotilla II, Palestinian, Piraeus, Sweden, sabotage_
+_Context: Freedom Flotilla II, Palestinian, Piraeus, Swedish, sabotage_
 
 ### [2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md)
 Scenes of jubilation in city besieged for weeks as Gaddafi becomes a wanted man.

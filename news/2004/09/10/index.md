@@ -4,7 +4,7 @@
 Turkish television showed video Friday claiming that an al-Qaida cell leader thought to be behind several bombings in Istanbul had been killed in Iraq. 
 
 ### [ A train crash in Sweden kills two and injures 30. The accident happened when a passenger train collided with a lorry on a railway crossing in Kristianstad. ](/news/2004/09/10/a-train-crash-in-sweden-kills-two-and-injures-30-the-accident-happened-when-a-passenger-train-collided-with-a-lorry-on-a-railway-crossing.md)
-_Context: Kristianstad, Sweden_
+_Context: Kristianstad, Swedish_
 
 ### [ Zimbabwe sentences British mercenary and former SAS officer Simon Mann to seven years in prison for his role in attempting the violent overthrow of the government of Equatorial Guinea. ](/news/2004/09/10/zimbabwe-sentences-british-mercenary-and-former-sas-officer-simon-mann-to-seven-years-in-prison-for-his-role-in-attempting-the-violent-over.md)
 _Context: Equatorial Guinea, SAS, Simon Mann, Zimbabwe, prison_

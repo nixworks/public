@@ -1,7 +1,7 @@
 ## [2014-05-9](/news/2014/05/9/index.md)
 
 ### [Yemeni security forces announce that they have killed Shayef Mohammed Saeed Al-Shabwani, an al-Qaeda terrorist wanted over a series of attacks in Sana'a. ](/news/2014/05/9/yemeni-security-forces-announce-that-they-have-killed-shayef-mohammed-saeed-al-shabwani-an-al-qaeda-terrorist-wanted-over-a-series-of-attac.md)
-_Context: Sanaa, Yemeni security forces, al-Qaeda_
+_Context: Sana'a, Yemeni security forces, al-Qaeda_
 
 ### [The government of Iraq launches a large-scale military operation to regain control of Fallujah from anti-government fighters. ](/news/2014/05/9/the-government-of-iraq-launches-a-large-scale-military-operation-to-regain-control-of-fallujah-from-anti-government-fighters.md)
 _Context: Fallujah, federal government_

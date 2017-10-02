@@ -7,7 +7,7 @@ At least 16 Yemeni civilians including ten people from a single family were kill
 According to officials, the Chinese troops had built a temporary hut in Burtse, North of Ladakh, which was subsequently demolished by ITBP and Army jawans yesterday.
 
 ### [The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-at-least-164-insurg.md)
-_Context: Egyptian military, ISIL, Sinai Peninsula, Sinai insurgency_
+_Context: Egyptian military, Islamic State, Sinai Peninsula, Sinai insurgency_
 
 ### [Violent clashes erupt between new Israeli settlers and Palestinians in the Silwan area of East Jerusalem with 13 Palestinians and four Israeli police injured. ](/news/2015/09/12/violent-clashes-erupt-between-new-israeli-settlers-and-palestinians-in-the-silwan-area-of-east-jerusalem-with-13-palestinians-and-four-israe.md)
 Confrontations erupted on backdrop of new Jewish residents entering neighborhood last week.

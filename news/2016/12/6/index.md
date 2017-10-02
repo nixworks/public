@@ -7,7 +7,7 @@ SANAA: Six Pakistani sailors were reportedly killed in a Saudi air strike target
 After weeks of close-quarter combat, Iraqi soldiers aim to sever important ISIL fighter route over the Tigris River. 
 
 ### [ After a meeting with President-elect of the United States Donald Trump, Masayoshi Son of SoftBank Group pledges to invest $50 billion in the United States and create 50,000 jobs. ](/news/2016/12/6/after-a-meeting-with-president-elect-of-the-united-states-donald-trump-masayoshi-son-of-softbank-group-pledges-to-invest-50-billion-in-th.md)
-_Context: Donald Trump, Masayoshi Son, President-elect, SoftBank Group, United States_
+_Context: Donald Trump, Masayoshi Son, President-elect, SoftBank Group, U.S._
 
 ### [ Airlines serving the regional hub cancel 87 flights into and out of Sea-Tac airport, due to ice on airport runways. Among the affected air carriers, Alaska Airlines has cancelled 35 flights. ](/news/2016/12/6/airlines-serving-the-regional-hub-cancel-87-flights-into-and-out-of-sea-tac-airport-due-to-ice-on-airport-runways-among-the-affected-air.md)
 Dozens of flights were canceled Tuesday in Seattle as icy conditions gripped Sea-Tac Airport. 
@@ -16,7 +16,7 @@ Dozens of flights were canceled Tuesday in Seattle as icy conditions gripped Sea
 Antitrust enforcers at the Justice Department granted approval for the $2.6 billion merger of Alaska Air Group and Virgin America.
 
 ### [ Heavy flooding kills 14 people in Thailand and badly affects the islands of Samui and Pha Ngan in the Gulf of Thailand. It has also severed the rail link to southern Thailand and Malaysia. ](/news/2016/12/6/heavy-flooding-kills-14-people-in-thailand-and-badly-affects-the-islands-of-samui-and-pha-ngan-in-the-gulf-of-thailand-it-has-also-severed.md)
-_Context: Gulf of Thailand, Malaysia, Samui, Thai, southern Thailand_
+_Context: Gulf of Thailand, Malaysia, Samui, Thailand, southern Thailand_
 
 ### [ A meteorite lands near Sayanogorsk, the Republic of Khakassia, Russia at 18:37 UTC+3. No one was hurt. ](/news/2016/12/6/a-meteorite-lands-near-sayanogorsk-the-republic-of-khakassia-russia-at-18-37-utc-3-no-one-was-hurt.md)
 People in the Republic of Khakassia in southwest Siberia witnessed a large fireball exploding in the sky on Tuesday, which briefly made the evening as bright as the day. Some even managed to catch the event on camera.

@@ -16,7 +16,7 @@ _Context: FW de Klerk, New National Party, President, South Africa, political pa
 _Context: Al-Aqsa Mosque, Hamas, Israel, Ramallah, Sheikh Hassan Yousef, mosque_
 
 ### [ American spammer Jeremy Jaynes is sentenced for nine years in prison. The sentence is suspended until further appeals. ](/news/2005/04/10/american-spammer-jeremy-jaynes-is-sentenced-for-nine-years-in-prison-the-sentence-is-suspended-until-further-appeals.md)
-_Context: Jeremy Jaynes, United States, spam_
+_Context: Jeremy Jaynes, U.S., spam_
 
 ### [ A magnitude 6.1 earthquake strikes Tokyo. There are no reports of serious damages. ](/news/2005/04/10/a-magnitude-6-1-earthquake-strikes-tokyo-there-are-no-reports-of-serious-damages.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: MG Rover, United Kingdom_
 
 ### [ Spanish police seize an ETA cache of explosives in Hernani, near San Sebastin. ](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.md)
-_Context: ETA, Hernani, San Sebastin, Spain_
+_Context: ETA, Hernani, San Sebastin, Spanish_
 
 ### [ Italian deputy prime minister Marco Follini calls for an early general election after the centre-right coalition of prime minister Silvio Berlusconi lost in a regional ballot last week. ](/news/2005/04/10/italian-deputy-prime-minister-marco-follini-calls-for-an-early-general-election-after-the-centre-right-coalition-of-prime-minister-silvio-b.md)
 _Context: Italy, Marco Follini, Silvio Berlusconi, parliamentary election_

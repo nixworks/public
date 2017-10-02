@@ -28,7 +28,7 @@ _Context: Atlanta, Georgia, mass cheating scandal_
 President Barack Obama launched a sanctions program on Wednesday to target individuals and groups outside the United States that use cyber attacks to threaten U.S. foreign policy, national security or economic stability.
 
 ### [Thailand's military junta repeals martial law in favor of an imposed constitutional provision that allows the leader of the government to make extra-constitutional orders. ](/news/2015/04/1/thailand-s-military-junta-repeals-martial-law-in-favor-of-an-imposed-constitutional-provision-that-allows-the-leader-of-the-government-to-ma.md)
-_Context: Thai, military junta_
+_Context: Thailand, military junta_
 
 ## [Previous Day...](/news/2015/03/31/index.md)
 

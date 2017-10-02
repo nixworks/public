@@ -10,7 +10,7 @@ _Context: Central Europe, Nord Stream, Russia, natural gas, pipeline_
 _Context: Americans, poverty line_
 
 ### [Flooding in Thailand reaches the residence of the Prime Minister Yingluck Shinawatra in Bangkok, forcing her to withdraw from the Hawaii APEC summit to deal with the crisis. ](/news/2011/11/8/flooding-in-thailand-reaches-the-residence-of-the-prime-minister-yingluck-shinawatra-in-bangkok-forcing-her-to-withdraw-from-the-hawaii-ape.md)
-_Context: APEC, Bangkok, Hawaii, Prime Minister, Thai, Yingluck Shinawatra, floods_
+_Context: APEC, Bangkok, Hawaii, Prime Minister, Thailand, Yingluck Shinawatra, floods_
 
 ### [At least 16 people are killed in a stampede during a religious festival in the Indian city of Haridwar, Uttarakhand. ](/news/2011/11/8/at-least-16-people-are-killed-in-a-stampede-during-a-religious-festival-in-the-indian-city-of-haridwar-uttarakhand.md)
 _Context: Haridwar, India, Uttarakhand, stampede_

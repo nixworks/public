@@ -4,7 +4,7 @@
 Suicide bombers target game in northern town of Tal Afar, leaving at least 25 dead.
 
 ### [Death toll rises to at least 8 and up to 121 injured as anti-government protests escalate in Thailand during a day of violence sparked by yesterday's shooting of a key figure, Khattiya Sawasdipol, of the Red Shirt protesters. ](/news/2010/05/14/death-toll-rises-to-at-least-8-and-up-to-121-injured-as-anti-government-protests-escalate-in-thailand-during-a-day-of-violence-sparked-by-ye.md)
-_Context: Khattiya Sawasdipol, Thai, red shirt_
+_Context: Khattiya Sawasdipol, Thailand, red shirt_
 
 ### [At least one person is killed and 42 injured as live ammunition is fired during clashes between interim government supporters and backers of ousted president Kurmanbek Bakiyev in southern Kyrgyzstan. ](/news/2010/05/14/at-least-one-person-is-killed-and-42-injured-as-live-ammunition-is-fired-during-clashes-between-interim-government-supporters-and-backers-of.md)
 _Context: Kurmanbek Bakiyev, Kyrgyzstan_
@@ -43,7 +43,7 @@ Four African countries sign new water sharing deal amid opposition from Egypt an
 Nigerian and Chinese authorities sign a $23bn deal to build three refineries and a fuel complex in the African state.
 
 ### [Sweden expels Syrian diplomat over suspected kidnapping plot. ](/news/2010/05/14/sweden-expels-syrian-diplomat-over-suspected-kidnapping-plot.md)
-_Context: Sweden, Syria_
+_Context: Swedish, Syria_
 
 ### [British Labour MP Stephen Timms, a former treasury minister, is stabbed in the abdomen by a woman in east London. ](/news/2010/05/14/british-labour-mp-stephen-timms-a-former-treasury-minister-is-stabbed-in-the-abdomen-by-a-woman-in-east-london.md)
 A Labour MP was recovering well from an operation on stab wounds this morning after being stabbed during his first constituency advice surgery since the general election.

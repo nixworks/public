@@ -7,7 +7,7 @@ _Context: Mozdok - Makhachkala - Kazi Magomed pipeline, Republic of Dagestan, Ru
 _Context: Baidu, China, Iran_
 
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
-_Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
+_Context: Iran, Israel, Masoud Alimohammadi, Tehran, U.S._
 
 ### [Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-raid-in-la-paz-baj.md)
 _Context: La Paz, Baja California Sur, Mexico, Teodoro Garcia Simental_
@@ -43,7 +43,7 @@ _Context: Al-Muhajiroun, Islam4UK, Islamist, United Kingdom_
 _Context: Habikino, Japan, gunman kills two people_
 
 ### [Five Thai policemen are charged with murder over the disappearance of a Saudi businessman 20 years ago that was linked to the theft of Saudi royal jewellery. ](/news/2010/01/12/five-thai-policemen-are-charged-with-murder-over-the-disappearance-of-a-saudi-businessman-20-years-ago-that-was-linked-to-the-theft-of-saudi.md)
-_Context: Saudi Arabia, Thai_
+_Context: Saudi Arabia, Thailand_
 
 ### [Four men feature in the first Crown Court criminal trial to be held without a jury in England and Wales for more than 350 years. ](/news/2010/01/12/four-men-feature-in-the-first-crown-court-criminal-trial-to-be-held-without-a-jury-in-england-and-wales-for-more-than-350-years.md)
 Four men alleged to have carried out an armed robbery at Heathrow went on trial on Tuesday in an unprecedented case being heard without a jury

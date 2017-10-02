@@ -31,7 +31,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japan, police_
 Officials suggest that people living from 12 to 19 miles outside the Fukushima Daiichi nuclear plant should leave, as new signs emerged that it will be hard to bring the plant under control.
 
 ### [The death toll from the 2011 Burma earthquake near the Thailand border reaches at least 75 with the potential for "many more casualties" as dozens of buildings are destroyed. ](/news/2011/03/25/the-death-toll-from-the-2011-burma-earthquake-near-the-thailand-border-reaches-at-least-75-with-the-potential-for-many-more-casualties-as.md)
-_Context: 2011 Burma earthquake, Thai_
+_Context: 2011 Burma earthquake, Thailand_
 
 ### [The Democratic Republic of the Congo recalls its ambassador to the Republic of Congo in connection with a raid on President Joseph Kabila's home in Kinshasa. ](/news/2011/03/25/the-democratic-republic-of-the-congo-recalls-its-ambassador-to-the-republic-of-congo-in-connection-with-a-raid-on-president-joseph-kabila-s.md)
 _Context: Democratic Republic of the Congo, Joseph Kabila, Kinshasa, Republic of Congo_

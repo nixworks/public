@@ -40,7 +40,7 @@ _Context: Iran, Mahmoud Ahmadinejad, New York City, President, United Nations, U
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ A Spanish doctor, identified as AM, is sentenced to a year in prison for his role in the death of the former First Lady of Nigeria, Stella Obasanjo. ](/news/2009/09/22/a-spanish-doctor-identified-as-am-is-sentenced-to-a-year-in-prison-for-his-role-in-the-death-of-the-former-first-lady-of-nigeria-stella.md)
-_Context: First Lady, Nigeria, Spain, Stella Obasanjo_
+_Context: First Lady, Nigeria, Spanish, Stella Obasanjo_
 
 ### [ Ireland's National Ploughing Championships, the largest ploughing championship in the world and the largest outdoor agricultural event in Europe, begins in Athy, County Kildare. ](/news/2009/09/22/ireland-s-national-ploughing-championships-the-largest-ploughing-championship-in-the-world-and-the-largest-outdoor-agricultural-event-in-e.md)
 An estimated 49,000 people attended the National Ploughing Championship today.
@@ -49,7 +49,7 @@ An estimated 49,000 people attended the National Ploughing Championship today.
 _Context: Attorney General for England and Wales, Patricia Scotland, Baroness Scotland of Asthal_
 
 ### [ For the first time in at least ten years, all United States embassies and consulates in South Africa are closed following an unspecified "security threat". ](/news/2009/09/22/for-the-first-time-in-at-least-ten-years-all-united-states-embassies-and-consulates-in-south-africa-are-closed-following-an-unspecified-s.md)
-_Context: South Africa, United States_
+_Context: South Africa, U.S._
 
 ### [ The New Zealand dollar soars to a 13-month high against both the U.S. dollar and euro. ](/news/2009/09/22/the-new-zealand-dollar-soars-to-a-13-month-high-against-both-the-u-s-dollar-and-euro.md)
 Basking in good economic news, the New Zealand dollar reached multi-month highs against major currencies overnight as the greenback weakened further. - New Zealand Herald

@@ -4,7 +4,7 @@
 _Context: Libya, Libyan Civil War, Tunisia_
 
 ### [Fresh clashes take place in Yemen between police and opposition tribesmen who have taken control of several government buildings in the capital Sana'a. ](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.md)
-_Context: 2011 Yemeni protests, Sanaa, Yemen_
+_Context: 2011 Yemeni protests, Sana'a, Yemen_
 
 ### [Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. ](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.md)
 _Context: Libya, Muammar Gaddafi, NATO, Tripoli, compound_
@@ -64,7 +64,7 @@ _Context: Human Rights Watch, Saudi Arabia_
 A police officer is to be charged with manslaughter over the death of newspaper seller Ian Tomlinson during the 2009 G20 protests.
 
 ### [Thai authorities lift a special security law used to curtail violent demonstrations ahead of elections on 3 July. ](/news/2011/05/24/thai-authorities-lift-a-special-security-law-used-to-curtail-violent-demonstrations-ahead-of-elections-on-3-july.md)
-_Context: Thai, special security law_
+_Context: Thailand, special security law_
 
 ### [More than 30 political prisoners go on hunger strike at Insein Prison in Burma to protest against their treatment. ](/news/2011/05/24/more-than-30-political-prisoners-go-on-hunger-strike-at-insein-prison-in-burma-to-protest-against-their-treatment.md)
 A group of Burmese political prisoners stage a hunger strike over living conditions, as the UN warns that rights abuses are still widespread.

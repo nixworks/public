@@ -4,7 +4,7 @@
 At least 36 people are killed in multiple blasts at several churches in northern Nigeria and in subsequent rioting, reports say.
 
 ### [Google reveals it has removed so-called 'terrorism videos' from the web at the request of governments, as well as blocking more than 100 YouTube videos which allegedly insult the Thai monarchy. ](/news/2012/06/17/google-reveals-it-has-removed-so-called-terrorism-videos-from-the-web-at-the-request-of-governments-as-well-as-blocking-more-than-100-you.md)
-_Context: Google, Thai_
+_Context: Google, Thailand_
 
 ### [A fire breaks out in a prison in the southeast Turkish province of Sanliurfa, killing 13 prisoners. ](/news/2012/06/17/a-fire-breaks-out-in-a-prison-in-the-southeast-turkish-province-of-aanla-urfa-killing-13-prisoners.md)
 Thirteen prisoners die in a fire in a prison in southeast Turkey after inmates set blankets and beds alight in a reported mutiny.

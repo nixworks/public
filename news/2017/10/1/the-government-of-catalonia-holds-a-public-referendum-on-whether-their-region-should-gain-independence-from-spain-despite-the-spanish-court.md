@@ -7,14 +7,15 @@ At least 337 people have been injured in clashes as police try to stop Catalonia
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-41461032)
-2. [BBC](http://www.bbc.com/news/world-europe-41457238)
-3. [Euronews](http://www.euronews.com/2017/10/01/spain-catalonia-all-the-red-lines-have-been-crossed-says-barcelona-mayor)
-4. [NBC News](https://www.nbcnews.com/news/world/catalonia-independence-poll-spanish-police-scuffle-defiant-voters-n806291?cid=eml_nbn_20171001)
-5. [Sky News](http://news.sky.com/story/police-fire-rubber-bullets-at-voters-in-barcelona-as-catalonia-poll-turns-violent-11062579)
-6. [The Independent](http://www.independent.co.uk/news/world/europe/catalan-independence-referendum-people-hurt-clashes-police-violence-right-to-statehood-a7977651.html)
-7. [The Spain Report](https://www.thespainreport.com/articles/1171-171001171141-civil-guard-and-catalan-police-fight-in-catalan-town)
-7. [Cover Image](https://e3.365dm.com/17/10/1600x900/skynews-catalan-police-barcelona_4116244.jpg?20171001094343)
+1. [AP](https://apnews.com/5341651334024917ad52c0cfa96c3cfd/%22Yes%22-side-wins-Catalonia-independence-vote-marred-by-chaos)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-41461032)
+3. [BBC](http://www.bbc.com/news/world-europe-41457238)
+4. [Euronews](http://www.euronews.com/2017/10/01/spain-catalonia-all-the-red-lines-have-been-crossed-says-barcelona-mayor)
+5. [NBC News](https://www.nbcnews.com/news/world/catalonia-independence-poll-spanish-police-scuffle-defiant-voters-n806291?cid=eml_nbn_20171001)
+6. [Sky News](http://news.sky.com/story/police-fire-rubber-bullets-at-voters-in-barcelona-as-catalonia-poll-turns-violent-11062579)
+7. [The Independent](http://www.independent.co.uk/news/world/europe/catalan-independence-referendum-people-hurt-clashes-police-violence-right-to-statehood-a7977651.html)
+8. [The Spain Report](https://www.thespainreport.com/articles/1171-171001171141-civil-guard-and-catalan-police-fight-in-catalan-town)
+8. [Cover Image](https://e3.365dm.com/17/10/1600x900/skynews-catalan-police-barcelona_4116244.jpg?20171001094343)
 
 ### Related:
 

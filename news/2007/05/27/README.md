@@ -10,7 +10,7 @@ _Context: Bhutan, Nepal, United Nations, asylum seeker_
 _Context: 91st Indianapolis 500, Dario Franchitti, Scotland, automobile racing, rain_
 
 ### [ Iraq War: United States forces rescue 42 Iraqis from an al-Qaeda hideout northeast of Baghdad with some captives showing signs of torture. ](/news/2007/05/27/iraq-war-united-states-forces-rescue-42-iraqis-from-an-al-qaeda-hideout-northeast-of-baghdad-with-some-captives-showing-signs-of-torture.md)
-_Context: Baghdad, Iraq, Iraq War, Military of the United States, United States, al-Qaeda in Iraq, torture_
+_Context: Baghdad, Iraq, Iraq War, Military of the United States, U.S., al-Qaeda in Iraq, torture_
 
 ### [ China claims all gold and silver medals in the Table Tennis World Championships in Zagreb, Croatia. ](/news/2007/05/27/china-claims-all-gold-and-silver-medals-in-the-table-tennis-world-championships-in-zagreb-croatia.md)
 _Context: China, Croatia, Table Tennis, Zagreb_
@@ -22,7 +22,7 @@ A Hamas rocket attack from Gaza killed a man in Israel on Sunday and Prime Minis
 _Context: Prime Minister of Ukraine, September 30, Ukraine, Ukrainian President, Viktor Yanukovych, Viktor Yushchenko_
 
 ### [ Spanish voters go to the polls in local and regional elections. ](/news/2007/05/27/spanish-voters-go-to-the-polls-in-local-and-regional-elections.md)
-_Context: Spain, local and regional elections_
+_Context: Spanish, local and regional elections_
 
 ### [ Venezuelan TV station Radio Caracas Television is shut down by the Hugo Chvez administration. ](/news/2007/05/27/venezuelan-tv-station-radio-caracas-television-is-shut-down-by-the-hugo-chavez-administration.md)
 _Context: Hugo Chvez, RCTV, TV station, Venezuela_

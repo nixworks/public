@@ -1,7 +1,7 @@
 ## [2013-03-29](/news/2013/03/29/index.md)
 
 ### [A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/a-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md)
-_Context: Pakistan, Peshawar, United States, consulate_
+_Context: Pakistan, Peshawar, U.S., consulate_
 
 ### [Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

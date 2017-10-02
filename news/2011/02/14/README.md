@@ -34,7 +34,7 @@ _Context: China, January, trade surplus_
 An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon city of LagoAgrio had ordered U.S. oil giant Chevron (CVX.N) to pay more than$8 billion in environmental damages.
 
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
-_Context: General Motors, United States, hourly worker, profit_
+_Context: General Motors, U.S., hourly worker, profit_
 
 ### [Eurozone finance ministers agree to set up a permanent bail-out fund of EUR500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-a-500-billion-the-european-stability-mechanism-esm-this-replac.md)
 Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost double the current amount that can be lent.
@@ -49,7 +49,7 @@ WikiLeaks founder Julian Assange has accused the Federal Government of helping t
 Fine Gael leader Enda Kenny is to travel to Germany tomorrow to brief German Chancellor Angela Merkel on Ireland&#39;s economic situation.
 
 ### [The United Nations Security Council calls for a permanent ceasefire on the Thailand-Cambodia border near the Preah Vihear Temple. ](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.md)
-_Context: Cambodia, Preah Vihear Temple, Thai, United Nations Security Council_
+_Context: Cambodia, Preah Vihear Temple, Thailand, United Nations Security Council_
 
 ### [11 members of a family are found dead in eastern Democratic Republic of the Congo after being kidnapped by Ugandan Islamist rebels. ](/news/2011/02/14/11-members-of-a-family-are-found-dead-in-eastern-democratic-republic-of-the-congo-after-being-kidnapped-by-ugandan-islamist-rebels.md)
 _Context: Democratic Republic of the Congo, Uganda_

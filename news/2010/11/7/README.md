@@ -13,7 +13,7 @@ Police officer kills 10 people in shooting rampage near station outside Nairobi,
 Action in Arab town in Negev, following a court order, prompts protest call by Muslim residents.
 
 ### [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md)
-_Context: North Waziristan, Pakistan, United States, drone aircraft, drones launch_
+_Context: North Waziristan, Pakistan, U.S., drone aircraft, drones launch_
 
 ### [At least three people die, including two members of Sons of Iraq due to a bomb planted at their checkpoint in central Iraq, and an imam was shot dead in Baghdad. ](/news/2010/11/7/at-least-three-people-die-including-two-members-of-sons-of-iraq-due-to-a-bomb-planted-at-their-checkpoint-in-central-iraq-and-an-imam-was.md)
 _Context: Baghdad, Iraq, Sons of Iraq, imam_
@@ -37,7 +37,7 @@ Qantas considers cancelling flights to Jakarta due to the risk posed by ash clou
 _Context: G5, Germany, Iran, Iranian Foreign Minister, Manouchehr Mottaki, Turkey, UN Security Council_
 
 ### [Israel expels Riksdag member Mehmet Kaplan, a veteran of the Gaza flotilla raid, moments after his arrival, claiming he had "failed to follow procedure". Ex-Israeli artist Dror Feiler, who is also currently based in Sweden, is expelled with him. ](/news/2010/11/7/israel-expels-riksdag-member-mehmet-kaplan-a-veteran-of-the-gaza-flotilla-raid-moments-after-his-arrival-claiming-he-had-failed-to-follo.md)
-_Context: Dror Feiler, Gaza flotilla raid, Israel, Mehmet Kaplan, Riksdag, Sweden_
+_Context: Dror Feiler, Gaza flotilla raid, Israel, Mehmet Kaplan, Riksdag, Swedish_
 
 ### [Sudanese President Omar al-Bashir arrives in Qatar for talks with Sheikh Hamad bin Khalifa Al Thani. ](/news/2010/11/7/sudanese-president-omar-al-bashir-arrives-in-qatar-for-talks-with-sheikh-hamad-bin-khalifa-al-thani.md)
 _Context: Omar al-Bashir, Qatar, Sheikh Hamad bin Khalifa Al Thani_

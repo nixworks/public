@@ -4,13 +4,13 @@
 _Context: Africa, Djibouti, Eritrea, Ethiopia, Kenya, Muslims, Somalian, Sudan, Uganda_
 
 ### [ Two men are arrested in Denver, Colorado, United States, as part of an FBI terror probe. ](/news/2009/09/19/two-men-are-arrested-in-denver-colorado-united-states-as-part-of-an-fbi-terror-probe.md)
-_Context: Colorado, Denver, FBI, United States_
+_Context: Colorado, Denver, FBI, U.S._
 
 ### [ Attacks by rebels in Yemen are reported despite a ceasefire. ](/news/2009/09/19/attacks-by-rebels-in-yemen-are-reported-despite-a-ceasefire.md)
 _Context: Yemen, ceasefire_
 
 ### [ Pro and anti government protestors demonstrate in the Thai capital Bangkok and near the Preah Vihear Temple along the border with Cambodia. ](/news/2009/09/19/pro-and-anti-government-protestors-demonstrate-in-the-thai-capital-bangkok-and-near-the-preah-vihear-temple-along-the-border-with-cambodia.md)
-_Context: Bangkok, Cambodia, Preah Vihear Temple, Thai, red shirt, yellow shirt_
+_Context: Bangkok, Cambodia, Preah Vihear Temple, Thailand, red shirt, yellow shirt_
 
 ### [ A gay pride march in Belgrade, Serbia, is called off after police and Prime Minister Mirko Cvetkovic tell organisers they could not guarantee its safety. ](/news/2009/09/19/a-gay-pride-march-in-belgrade-serbia-is-called-off-after-police-and-prime-minister-mirko-cvetkovia-tell-organisers-they-could-not-guaran.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -28,7 +28,7 @@ European Commission President José Manuel Barroso has said a No vote will affec
 _Context: Gifu Prefecture, Japan, Takayama_
 
 ### [ Pakistani police raid a local security firm that provides security for the United States embassy for illegal weapons possession. ](/news/2009/09/19/pakistani-police-raid-a-local-security-firm-that-provides-security-for-the-united-states-embassy-for-illegal-weapons-possession.md)
-_Context: Pakistan, Security experts, United States_
+_Context: Pakistan, Security experts, U.S._
 
 ### [ The German government raises its terrorism alert level after al Qaeda posted a video on the Internet threatening attacks in Germany based on the outcome of this month's elections. ](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.md)
 _Context: Germany, al-Qaeda_

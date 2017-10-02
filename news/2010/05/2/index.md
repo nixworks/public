@@ -31,7 +31,7 @@ _Context: Kathmandu, Madhav Kumar Nepal, Maoist, Prime Minister_
 _Context: Guadalupe, Nuevo Leon, Intocable_
 
 ### [Thai Prime Minister Abhisit Vejjajiva says his government is preparing to take back Bangkok and end the seven-week-long protests. ](/news/2010/05/2/thai-prime-minister-abhisit-vejjajiva-says-his-government-is-preparing-to-take-back-bangkok-and-end-the-seven-week-long-protests.md)
-_Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thai_
+_Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thailand_
 
 ### [A group of Asian finance ministers announce a new US$700 million bond fund to promote the issuance of local bonds because of the guarantee the new funds would provide potential investors. ](/news/2010/05/2/a-group-of-asian-finance-ministers-announce-a-new-us-700-million-bond-fund-to-promote-the-issuance-of-local-bonds-because-of-the-guarantee-t.md)
 _Context: US$_
@@ -43,7 +43,7 @@ _Context: 10,000 meters, Africa, American record, Chris Solinsky_
 John Higgins, the snooker world champion, has allegedly been caught agreeing to take a &pound;261,000 bribe to fix matches.
 
 ### [Roman Polanski speaks out about his possible extradition to the United States after several months of silence. ](/news/2010/05/2/roman-polanski-speaks-out-about-his-possible-extradition-to-the-united-states-after-several-months-of-silence.md)
-_Context: Roman Polanski, United States_
+_Context: Roman Polanski, U.S._
 
 ### [Japanese supercentenarian and oldest living person in the world Kama Chinen dies 8 days short of 115 and leaves French supercentenarian Eugenie Blanchard as the oldest living person.](/news/2010/05/2/japanese-supercentenarian-and-oldest-living-person-in-the-world-kama-chinen-dies-8-days-short-of-115-and-leaves-french-supercentenarian-euga.md)
 _Context: Eugenie Blanchard, Kama Chinen_

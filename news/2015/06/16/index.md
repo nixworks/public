@@ -4,7 +4,7 @@
 Al-Qaeda confirms that a key commander - Nasser al-Wuhayshi, who headed Al-Qaeda in the Arabian Peninsula - has been killed in a US drone strike in Yemen.
 
 ### [Kurdish People's Protection Units have captured the border town of Tell Abyad from Islamic State of Iraq and the Levant forces. ](/news/2015/06/16/kurdish-people-s-protection-units-have-captured-the-border-town-of-tell-abyad-from-islamic-state-of-iraq-and-the-levant-forces.md)
-_Context: ISIL, Kurdish, Syrian Civil War, Tell Abyad, YPG_
+_Context: Islamic State, Kurdish, Syrian Civil War, Tell Abyad, YPG_
 
 ### [Three of the ten Tunisian consular staff kidnapped last week have been released and negotiation is ongoing about the others. ](/news/2015/06/16/three-of-the-ten-tunisian-consular-staff-kidnapped-last-week-have-been-released-and-negotiation-is-ongoing-about-the-others.md)
 _Context: Libyan Crisis (2011-present), Tunisia, kidnapped_

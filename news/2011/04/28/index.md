@@ -19,7 +19,7 @@ _Context: Karachi, Pakistan Navy_
 _Context: Kampala, Kizza Besigye, Uganda_
 
 ### [Thailand announces that it will send more troops to its border with Cambodia after a seventh day of fighting near the disputed Preah Vihear Temple that has killed 15 people. ](/news/2011/04/28/thailand-announces-that-it-will-send-more-troops-to-its-border-with-cambodia-after-a-seventh-day-of-fighting-near-the-disputed-preah-vihear.md)
-_Context: Cambodia, Preah Vihear Temple, Thai_
+_Context: Cambodia, Preah Vihear Temple, Thailand_
 
 ### [U.S. president Barack Obama nominates General David Petraeus, current head of the war on Afghanistan, as his new CIA chief, and names outgoing CIA chief Leon Panetta as head of The Pentagon. ](/news/2011/04/28/u-s-president-barack-obama-nominates-general-david-petraeus-current-head-of-the-war-on-afghanistan-as-his-new-cia-chief-and-names-outgoi.md)
 _Context: Barack Obama, David Petraeus, Director of the CIA, General, Leon Panetta, United States military, War in Afghanistan (2001-present)_
@@ -43,7 +43,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japan_
 _Context: Cote d'Ivoire_
 
 ### [Exelon Corp., the top nuclear power concern in the United States, announces a deal to buy ](/news/2011/04/28/exelon-corp-the-top-nuclear-power-concern-in-the-united-states-announces-a-deal-to-buy.md)
-_Context: Exelon Corp., United States_
+_Context: Exelon Corp., U.S._
 
 ### [Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/seven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississippi-missouri-tennessee.md)
 STORMS that spawned deadly tornadoes have flattened buildings and knocked out power lines across the central and southern United States, raising the death toll to at least 56.

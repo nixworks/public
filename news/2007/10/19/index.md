@@ -37,7 +37,7 @@ _Context: Glorietta, Makati City, Philippines, explosion_
 A capsized passenger ferry close to a port on the Indonesian island of Sulawesi has left 31 people dead and 35 missing.
 
 ### [ Thailand arrests suspected Canadian child molester Christopher Paul Neil after an international man hunt. ](/news/2007/10/19/thailand-arrests-suspected-canadian-child-molester-christopher-paul-neil-after-an-international-man-hunt.md)
-_Context: Canadian, Christopher Paul Neil, Thai, child sexual abuse_
+_Context: Canadian, Christopher Paul Neil, Thailand, child sexual abuse_
 
 ### [ Leaders of the European Union reach agreement on the Lisbon Treaty following last-minute concessions to Poland, Italy and Bulgaria. ](/news/2007/10/19/leaders-of-the-european-union-reach-agreement-on-the-lisbon-treaty-following-last-minute-concessions-to-poland-italy-and-bulgaria.md)
 European Union (EU) leaders have reached agreement on the last main obstacles to a treaty to reform the bloc&#039;s ailing institutions, making last-minute concessions to Italy and Poland, EU sources have said.

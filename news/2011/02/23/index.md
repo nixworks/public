@@ -22,7 +22,7 @@ OIL PRICES have risen to fresh two-year highs near $US96 a barrel in Asia amid t
 _Context: Japan, trade deficit_
 
 ### [Stock markets in the United States and Europe fall due to uncertainty in the Middle East and rising oil prices. ](/news/2011/02/23/stock-markets-in-the-united-states-and-europe-fall-due-to-uncertainty-in-the-middle-east-and-rising-oil-prices.md)
-_Context: Europe, Middle East, United States, stock market_
+_Context: Europe, Middle East, U.S., stock market_
 
 ### [300 persons are estimated to be still missing in Christchurch, New Zealand, following yesterday's earthquake with the official death toll reaching 75. ](/news/2011/02/23/300-persons-are-estimated-to-be-still-missing-in-christchurch-new-zealand-following-yesterday-s-earthquake-with-the-official-death-toll-re.md)
 10.58pm That concludes our Christchurch earthquake updates for this evening. They will resume from early tomorrow morning. - New Zealand Herald
@@ -43,7 +43,7 @@ _Context: China, North Korea, United Nations Security Council, its nuclear weapo
 _Context: China, Xinjiang_
 
 ### [Thai police seize six tiger cubs at the house of a suspected weapons dealer. ](/news/2011/02/23/thai-police-seize-six-tiger-cubs-at-the-house-of-a-suspected-weapons-dealer.md)
-_Context: Thai, tiger_
+_Context: Thailand, tiger_
 
 ### [Three people are arrested in the United Kingdom in connection with an alleged attempt to blackmail Coleen Rooney, the wife of Manchester United F.C. star Wayne Rooney. ](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom-in-connection-with-an-alleged-attempt-to-blackmail-coleen-rooney-the-wife-of-manchester-uni.md)
 _Context: Coleen Rooney, Manchester United, United Kingdom, Wayne Rooney, blackmail_

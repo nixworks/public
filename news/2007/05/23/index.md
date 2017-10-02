@@ -25,7 +25,7 @@ _Context: Carbon Reduction Commitment, His Majesty's Government, emissions tradi
 _Context: Milorad Ulemek, Prime Minister of Serbia, Serbia, Zoran Dindic_
 
 ### [ A Thai gunman opens fire with an AK-47 in a market in Pathum Thani Province, north of Bangkok, killing a villager, a security guard and a police officer and critically injuring another six before he was shot dead by the police. ](/news/2007/05/23/a-thai-gunman-opens-fire-with-an-ak-47-in-a-market-in-pathum-thani-province-north-of-bangkok-killing-a-villager-a-security-guard-and-a-p.md)
-_Context: AK-47s, Bangkok, Pathum Thani Province, Thai, Thai police_
+_Context: AK-47s, Bangkok, Pathum Thani Province, Thai police, Thailand_
 
 ### [ Gwen Stefani performs in front of a record-breaking crowd at the Tweeter Center in Mansfield, MA.](/news/2007/05/23/gwen-stefani-performs-in-front-of-a-record-breaking-crowd-at-the-tweeter-center-in-mansfield-ma.md)
 _Context: Gwen Stefani, Mansfield, MA, Tweeter Center_

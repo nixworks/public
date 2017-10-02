@@ -4,7 +4,7 @@
 Michael Mukasey collapsed while giving a speech to the Federalist Society in Washington.
 
 ### [ The Swedish Parliament ratifies the Treaty of Lisbon. ](/news/2008/11/20/the-swedish-parliament-ratifies-the-treaty-of-lisbon.md)
-_Context: Riksdag, Sweden, Treaty of Lisbon_
+_Context: Riksdag, Swedish, Treaty of Lisbon_
 
 ### [ NASA's Mars Reconnaissance Orbiter discovers evidence of enormous underground deposits of water ice on Mars; one such deposit, under Hellas Planitia, is estimated to be the size of Los Angeles. ](/news/2008/11/20/nasa-s-mars-reconnaissance-orbiter-discovers-evidence-of-enormous-underground-deposits-of-water-ice-on-mars-one-such-deposit-under-hellas.md)
 _Context: Hellas Planitia, Los Angeles, Mars, Mars Reconnaissance Orbiter, NASA, ice, underground deposits, water_

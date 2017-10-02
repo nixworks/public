@@ -4,7 +4,7 @@
 _Context: EU, European Parliament, reform, telecommunication_
 
 ### [ The United States Supervisory Capital Assessment Program finds that financial services companies JPMorgan Chase, and American Express do not need more capital from the Troubled Asset Relief Program. ](/news/2009/05/6/the-united-states-supervisory-capital-assessment-program-finds-that-financial-services-companies-jpmorgan-chase-and-american-express-do-no.md)
-_Context: American Express, JPMorgan Chase, Troubled Asset Relief Program, United States, capital, company, financial services, stress test_
+_Context: American Express, JPMorgan Chase, Troubled Asset Relief Program, U.S., capital, company, financial services, stress test_
 
 ### [ A car bomb kills at least ten people and injures 30 others in Dora, Baghdad, Iraq. ](/news/2009/05/6/a-car-bomb-kills-at-least-ten-people-and-injures-30-others-in-dora-baghdad-iraq.md)
 _Context: Baghdad, Dora, Iraq, car bomb_

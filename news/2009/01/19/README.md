@@ -10,7 +10,7 @@ Prime Minister Vladimir Putinordered the 2009 budget be reworked at half the ori
 Royal Bank of Scotland, one of Britain&#039;s biggest banks, was yesterday driven to the brink of nationalisation amid fears that the Government&#039;s latest bailout package would fail to alleviate the credit crisis.
 
 ### [ Australian author Harry Nicolaides is jailed for three years in Thailand for insulting the ruling Chakri Dynasty. ](/news/2009/01/19/australian-author-harry-nicolaides-is-jailed-for-three-years-in-thailand-for-insulting-the-ruling-chakri-dynasty.md)
-_Context: Australia, Chakri Dynasty, Harry Nicolaides, Thai, lese-majeste_
+_Context: Australia, Chakri Dynasty, Harry Nicolaides, Thailand, lese-majeste_
 
 ### [ Palestinians unearth 23 bodies from the rubble in Zeitoun after the declaration of a ceasefire in their conflict with Israel. ](/news/2009/01/19/palestinians-unearth-23-bodies-from-the-rubble-in-zeitoun-after-the-declaration-of-a-ceasefire-in-their-conflict-with-israel.md)
 _Context: Israel, Palestinians, Zeitoun, ceasefire, fire_

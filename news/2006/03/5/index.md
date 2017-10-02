@@ -10,7 +10,7 @@ _Context: 2006 National People's Congress, Beijing, Wen Jiabao_
 _Context: Benin presidential election, 2006, Beninese, Mathieu Krkou, President, runoff election_
 
 ### [ Tens of thousands of protesters in Bangkok demand the resignation of Prime Minister Thaksin Shinawatra of Thailand. ](/news/2006/03/5/tens-of-thousands-of-protesters-in-bangkok-demand-the-resignation-of-prime-minister-thaksin-shinawatra-of-thailand.md)
-_Context: Bangkok, Prime Minister, Thai, Thaksin Shinawatra_
+_Context: Bangkok, Prime Minister, Thailand, Thaksin Shinawatra_
 
 ## [Previous Day...](/news/2006/03/4/index.md)
 

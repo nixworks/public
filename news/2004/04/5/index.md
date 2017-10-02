@@ -34,7 +34,7 @@ _Context: Chung Dong-young, President of South Korea, Roh Moo-hyun, South Korea,
 _Context: Islamist, Madrid, arrest warrant_
 
 ### [ Swedish business weekly "Veckans Affarer" argues that Ingvar Kamprad, a Swede who founded the furniture retail chain store IKEA, has overtaken Microsoft's Bill Gates as the world's richest person. IKEA disagrees, stating that he does not personally own the company. ](/news/2004/04/5/swedish-business-weekly-veckans-affa-rer-argues-that-ingvar-kamprad-a-swede-who-founded-the-furniture-retail-chain-store-ikea-has-overt.md)
-_Context: Bill Gates, IKEA, Ingvar Kamprad, Microsoft, Sweden, Veckans Affarer, chain store, furniture, retail, world's richest person_
+_Context: Bill Gates, IKEA, Ingvar Kamprad, Microsoft, Swedish, Veckans Affarer, chain store, furniture, retail, world's richest person_
 
 ### [ Australia's biggest supplier of the potential explosive ammonium nitrate will pull the product from its stores in response to concerns it could be used by terrorists. ](/news/2004/04/5/australia-s-biggest-supplier-of-the-potential-explosive-ammonium-nitrate-will-pull-the-product-from-its-stores-in-response-to-concerns-it-c.md)
 _Context: ammonium nitrate, explosive, potential, supplier, terrorist_

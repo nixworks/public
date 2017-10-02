@@ -28,7 +28,7 @@ _Context: Chinese Academy of Sciences, Muztagh Ata, Tibetan Plateau, Xinjiang Uy
 _Context: Pennsylvania, Pittsburgh, flash flooding_
 
 ### [The announcement of possible wreck relocation of Swedish 16th century warship Mars in the Baltic Sea. ](/news/2011/08/19/the-announcement-of-possible-wreck-relocation-of-swedish-16th-century-warship-mars-in-the-baltic-sea.md)
-_Context: Baltic Sea, Mars, Sweden_
+_Context: Baltic Sea, Mars, Swedish_
 
 ## [Previous Day...](/news/2011/08/18/index.md)
 

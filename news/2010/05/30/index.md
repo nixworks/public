@@ -19,7 +19,7 @@ _Context: Friday's attack, Pakistan_
 Seven deaths in Badakhshan reported as Nato commander accuses Iran of aiding Taliban.
 
 ### [Thailand's Prime Minister Abhisit Vejjajiva lifts a curfew imposed in the wake of deadly anti-government protests but keeps emergency rule after two months of rallies by "Red Shirt" demonstrators paralyzed Bangkok and left almost 90 people dead. ](/news/2010/05/30/thailand-s-prime-minister-abhisit-vejjajiva-lifts-a-curfew-imposed-in-the-wake-of-deadly-anti-government-protests-but-keeps-emergency-rule-a.md)
-_Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thai, United Front for Democracy Against Dictatorship_
+_Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thailand, United Front for Democracy Against Dictatorship_
 
 ### [China encourages North Korea and South Korea to avoid violent clashes in the aftermath of the sinking of a South Korean warship. ](/news/2010/05/30/china-encourages-north-korea-and-south-korea-to-avoid-violent-clashes-in-the-aftermath-of-the-sinking-of-a-south-korean-warship.md)
 _Context: China, North Korea, South Korea, sinking_

@@ -46,6 +46,5 @@ _Context: Pakistan, Pakistan Oppressed Nations Movement, Punjab_
 ### [ In Ukraine, security service states that the death of former interior minister Yuri Kravchenko was probably suicide ](/news/2005/03/31/in-ukraine-security-service-states-that-the-death-of-former-interior-minister-yuri-kravchenko-was-probably-suicide.md)
 _Context: Ukraine, Yuri Kravchenko_
 
-### [ Sukhraj Singh Gill was born ](/news/2005/03/31/sukhraj-singh-gill-was-born.md)
 ## [Previous Day...](/news/2005/03/30/index.md)
 

@@ -19,7 +19,7 @@ U.S. President Barack Obama approved the drone strike that killed Mullah Akhtar 
 Bayer AG offered $62 billion to buy Monsanto Co., deepening investor concern that it will strain its finances as it seeks to become the world’s biggest seller of seeds and farm chemicals.
 
 ### [An overnight fire at Pitakiatwittaya Christian elementary school's dormitory in the northern Chiang Rai Province in Thailand kills 18 girls between the ages of 5 and 12. The other 20 girls sleeping in the dorm are rescued, though five are injured. ](/news/2016/05/23/an-overnight-fire-at-pitakiatwittaya-christian-elementary-school-s-dormitory-in-the-northern-chiang-rai-province-in-thailand-kills-18-girls.md)
-_Context: Chiang Rai Province, Thai, dormitory, elementary school's_
+_Context: Chiang Rai Province, Thailand, dormitory, elementary school's_
 
 ### [Sri Lanka's Disaster Management Centre reports 92 people are confirmed dead with 109 people still missing from landslides and floods resulting from Roanu. More than 500,000 have been driven from their homes. ](/news/2016/05/23/sri-lanka-s-disaster-management-centre-reports-92-people-are-confirmed-dead-with-109-people-still-missing-from-landslides-and-floods-resulti.md)
 Sri Lanka recalls assembly as flood toll nears 100

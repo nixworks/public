@@ -16,7 +16,7 @@ Warplanes target PKK bases a day after deadly clashes between rebels and the arm
 US and Amnesty call for transparency and probe into Urumqi unrest one year on.
 
 ### [Eight soldiers are killed during two roadside bombs in Narathiwat and Yala in Thailand. ](/news/2010/07/2/eight-soldiers-are-killed-during-two-roadside-bombs-in-narathiwat-and-yala-in-thailand.md)
-_Context: Narathiwat, Thai, Yala_
+_Context: Narathiwat, Thailand, Yala_
 
 ### [At least four people are killed and several others are wounded as six suicide bombers storm a USAID compound before dawn in Kunduz, Afghanistan. ](/news/2010/07/2/at-least-four-people-are-killed-and-several-others-are-wounded-as-six-suicide-bombers-storm-a-usaid-compound-before-dawn-in-kunduz-afghanis.md)
 Six suicide bombers stormed a USAID compound in northern Afghanistan before dawn Friday, killing at least four people and wounding several others, officials said. At least two of the dead were foreigners.

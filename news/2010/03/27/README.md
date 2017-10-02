@@ -31,7 +31,7 @@ _Context: Baengnyeong Island, South Korea, Yellow Sea, ship sinking_
 _Context: Burma, Naypyidaw, Than Shwe_
 
 ### [Thai troops retreat after thousands of "red shirt" protesters demand fresh elections. ](/news/2010/03/27/thai-troops-retreat-after-thousands-of-red-shirt-protesters-demand-fresh-elections.md)
-_Context: Thai, red shirt_
+_Context: Thailand, red shirt_
 
 ### [In horse racing, Gloria de Campeao wins the Dubai World Cup. ](/news/2010/03/27/in-horse-racing-gloria-de-campeao-wins-the-dubai-world-cup.md)
 _Context: Dubai World Cup, Gloria de Campeao_

@@ -7,7 +7,7 @@ _Context: AIDS, NIH's, Norvir, price gouging_
 _Context: Chicago, O'Hare International Airport, aviation_
 
 ### [ Saddam Hussein wants to be transferred to a Swedish jail to await his trial. ](/news/2004/08/4/saddam-hussein-wants-to-be-transferred-to-a-swedish-jail-to-await-his-trial.md)
-_Context: Saddam Hussein, Sweden, jail, trial_
+_Context: Saddam Hussein, Swedish, jail, trial_
 
 ### [ The death toll from monsoon flooding in India exceeds 1,000. ](/news/2004/08/4/the-death-toll-from-monsoon-flooding-in-india-exceeds-1-000.md)
 India has evacuated more than 3,000 people from a Himalayan valley because of fears a lake in China will burst its banks and flood across the border, officials said on Tuesday.

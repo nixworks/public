@@ -40,7 +40,7 @@ _Context: Alaska, United Kingdom, United States government, polar bear_
 The Met Office issues warnings of heavy snow and icy roads as the earliest widespread wintry conditions for 17 years grip much of the UK.
 
 ### [A new species of ancient crocodile, "Khoratosuchus jintasakuli", is identified from a fossil in Thailand. [http://www.npr.org/2010/11/25/131592406/100-million-year-old-crocodile-species-discovered (NPR)] 10.1144/SP315.13 ("Geol. Soc., Lond., Spec. Pub.")](/news/2010/11/25/a-new-species-of-ancient-crocodile-khoratosuchus-jintasakuli-is-identified-from-a-fossil-in-thailand-http-www-npr-org-2010-11-25-131.md)
-_Context: Khoratosuchus jintasakuli, Thai, crocodile, fossil_
+_Context: Khoratosuchus jintasakuli, Thailand, crocodile, fossil_
 
 ### [A World Health Organization study estimates that 600,000 deaths a year are attributable to second hand smoking. ](/news/2010/11/25/a-world-health-organization-study-estimates-that-600-000-deaths-a-year-are-attributable-to-second-hand-smoking.md)
 Around one in a hundred deaths worldwide is due to passive smoking, which kills an estimated 600,000 people a year, World Health Organization (WHO) researchers said on Friday.

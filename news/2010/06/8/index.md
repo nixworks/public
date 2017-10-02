@@ -37,7 +37,7 @@ Prosecutors in Cyprus begin presenting evidence against a TV host accused of ord
 Jerome Kerviel appears in court accused of unauthorised deals that cost bank $5.85bn.
 
 ### [The trial of former Governor of Illinois Rod Blagojevich on corruption charges begins today in the United States. ](/news/2010/06/8/the-trial-of-former-governor-of-illinois-rod-blagojevich-on-corruption-charges-begins-today-in-the-united-states.md)
-_Context: Governor of Illinois, Rod Blagojevich, United States, corruption_
+_Context: Governor of Illinois, Rod Blagojevich, U.S., corruption_
 
 ### [Refugee agencies criticise the UK Border Agency's decision to deport Afghan children. ](/news/2010/06/8/refugee-agencies-criticise-the-uk-border-agency-s-decision-to-deport-afghan-children.md)
 _Context: Afghanistan, UK Border Agency_
@@ -58,7 +58,7 @@ _Context: Joseph Estrada, Noynoy Aquino, Philippine President, Philippine presid
 _Context: Emperor Akihito, Japan, Naoto Kan, Prime Minister of Japan_
 
 ### [Public sector workers in Spain hold a major strike in protest against a 5% pay cut due to come into effect this month as part of a government austerity package. ](/news/2010/06/8/public-sector-workers-in-spain-hold-a-major-strike-in-protest-against-a-5-pay-cut-due-to-come-into-effect-this-month-as-part-of-a-governmen.md)
-_Context: Spain_
+_Context: Spanish_
 
 ### [China defends its censorship of the internet in a document laying out the government's attitude towards the web. ](/news/2010/06/8/china-defends-its-censorship-of-the-internet-in-a-document-laying-out-the-government-s-attitude-towards-the-web.md)
 _Context: China, blocks mentions_

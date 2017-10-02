@@ -1,7 +1,7 @@
 ## [2003-09-14](/news/2003/09/14/index.md)
 
 ### [ Sweden and the euro: Swedish voters reject joining the Economic and Monetary Union of the European Union and adopting the Euro, with 56.1 percent of voters voting no.](/news/2003/09/14/sweden-and-the-euro-swedish-voters-reject-joining-the-economic-and-monetary-union-of-the-european-union-and-adopting-the-euro-with-56-1-p.md)
-_Context: EUR, Economic and Monetary Union of the European Union, Sweden, Sweden and the euro_
+_Context: EUR, Economic and Monetary Union of the European Union, Sweden and the euro, Swedish_
 
 ### [ A military coup d'tat is reported in Guinea-Bissau.](/news/2003/09/14/a-military-coup-d-etat-is-reported-in-guinea-bissau.md)
 _Context: Guinea-Bissau, coup d'tat_

@@ -64,7 +64,7 @@ The Democratic Party which has dominated Cook Islands politics for the last deca
 _Context: Malawi_
 
 ### [Anti-government red shirt protesters return to the streets in Thailand. ](/news/2010/11/19/anti-government-red-shirt-protesters-return-to-the-streets-in-thailand.md)
-_Context: Thai, United Front for Democracy Against Dictatorship_
+_Context: Thailand, United Front for Democracy Against Dictatorship_
 
 ### [Mahinda Rajapakse is sworn in for a second term as President of Sri Lanka in Colombo. ](/news/2010/11/19/mahinda-rajapakse-is-sworn-in-for-a-second-term-as-president-of-sri-lanka-in-colombo.md)
 _Context: Colombo, Mahinda Rajapakse, President of Sri Lanka_

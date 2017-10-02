@@ -7,10 +7,10 @@ _Context: Cameroon, parliamentary elections_
 British Prime Minister Gordon Brown has held an emergency Cabinet meeting as severe floods continue to affect large areas of central England and Wales.
 
 ### [ Khurshid Kasuri, the Foreign Minister of Pakistan warns the United States that it would be completely counterproductive" to launch a strike against Al Qaeda and Taliban positions in the tribal areas of Pakistan. ](/news/2007/07/22/khurshid-kasuri-the-foreign-minister-of-pakistan-warns-the-united-states-that-it-would-be-completely-counterproductive-to-launch-a-strike.md)
-_Context: Khurshid Kasuri, Pakistan, Taliban, United States, al-Qaeda_
+_Context: Khurshid Kasuri, Pakistan, Taliban, U.S., al-Qaeda_
 
 ### [ Several thousand protesters opposed to Thailand's military government clash with Thai police in Bangkok. ](/news/2007/07/22/several-thousand-protesters-opposed-to-thailand-s-military-government-clash-with-thai-police-in-bangkok.md)
-_Context: Bangkok, Thai_
+_Context: Bangkok, Thailand_
 
 ### [ Irish golfer Pdraig Harrington wins the British Open defeating Sergio Garca in a playoff. ](/news/2007/07/22/irish-golfer-padraig-harrington-wins-the-british-open-defeating-sergio-garcia-in-a-playoff.md)
 _Context: Ireland, Open Championship (British Open), Pdraig Harrington, Sergio Garca, golfer_

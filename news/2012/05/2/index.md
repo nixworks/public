@@ -37,7 +37,7 @@ The owner has been found of a Harley-Davidson motorcycle that drifted to Canada 
 _Context: Gareth Williams, Secret Intelligence Service_
 
 ### [A man, believed by the media (but not confirmed) to be J. T. Ready, a Neo-Nazi, and a member of the Minutemen Civil Defense Corps, is among five individuals in Gilbert, Arizona, found dead with gunshot wounds. It is unclear what role he may have played in the apparent shootings, and what precise type they were, but he is believed to have shot the others and then himself in a possible murder-suicide. ](/news/2012/05/2/a-man-believed-by-the-media-but-not-confirmed-to-be-j-t-ready-a-neo-nazi-and-a-member-of-the-minutemen-civil-defense-corps-is-among.md)
-_Context: Gilbert, Arizona, J. T. Ready, Minutemen Civil Defense Corps, neo-nazi_
+_Context: Gilbert, Arizona, J. T. Ready, Minutemen Civil Defense Corps, neo-Nazi_
 
 ### [The Egyptian military expresses its willingness to hand over political power on May 24 if an outright winner emerges in the first round of the presidential elections. ](/news/2012/05/2/the-egyptian-military-expresses-its-willingness-to-hand-over-political-power-on-may-24-if-an-outright-winner-emerges-in-the-first-round-of-t.md)
 _Context: Egypt, political power, presidential election_

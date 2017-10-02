@@ -13,10 +13,10 @@ _Context: Seymour Hersh, The New Yorker_
 _Context: Croatia, Stipe Mesic_
 
 ### [ A subway crash in Bangkok, Thailand, injures over 100. ](/news/2005/01/17/a-subway-crash-in-bangkok-thailand-injures-over-100.md)
-_Context: Bangkok, Thai, subways_
+_Context: Bangkok, Thailand, subways_
 
 ### [ Scandinavian prime ministers Gran Persson, Kjell Magne Bondevik and Matti Vanhanen visit Thailand in the aftermath of the 2004 Indian Ocean earthquake. ](/news/2005/01/17/scandinavian-prime-ministers-goran-persson-kjell-magne-bondevik-and-matti-vanhanen-visit-thailand-in-the-aftermath-of-the-2004-indian-ocea.md)
-_Context: 2004 Indian Ocean earthquake, Gran Persson, Kjell Magne Bondevik, Matti Vanhanen, Scandinavians, Thai_
+_Context: 2004 Indian Ocean earthquake, Gran Persson, Kjell Magne Bondevik, Matti Vanhanen, Scandinavians, Thailand_
 
 ### [ James T. Morris, the head of the United Nations World Food Program, visits Tamil Tigers over the objections of the Sri Lankan government ](/news/2005/01/17/james-t-morris-the-head-of-the-united-nations-world-food-program-visits-tamil-tigers-over-the-objections-of-the-sri-lankan-government.md)
 _Context: James T. Morris, Sri Lanka, Tamil Tigers, United Nations World Food Program_

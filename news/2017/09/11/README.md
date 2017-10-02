@@ -13,7 +13,7 @@ _Context: PETA, monkey selfie copyright dispute_
 Two trains collided on Monday in a station in central Switzerland, Swiss police said, injuring around 30 people.
 
 ### [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md)
-_Context: Aurora 17, Gotland, NATO, Sweden, U.S. soldiers_
+_Context: Aurora 17, Gotland, NATO, Swedish, U.S. soldiers_
 
 ### [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md)
 The United Nations Security Council approved new sanctions aimed at punishing North Korea for its latest missile and nuclear tests after the U.S. dropped key demands in order to win support from Russia and China.
@@ -31,7 +31,7 @@ California on Monday sued the Trump administration, challenging as unconstitutio
 _Context: Justice, Philippines, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
 
 ### [Around a million people rally in Barcelona to mark the National Day of Catalonia and to support the upcoming independence referendum on 1 October. ](/news/2017/09/11/around-a-million-people-rally-in-barcelona-to-mark-the-national-day-of-catalonia-and-to-support-the-upcoming-independence-referendum-on-1-oc.md)
-_Context: Barcelona, Catalan independence referendum, 2017, National Day of Catalonia, independence_
+_Context: Barcelona, Catalan independence referendum, 2017, National Day of Catalonia, independence from Spain_
 
 ## [Previous Day...](/news/2017/09/10/index.md)
 

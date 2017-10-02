@@ -10,7 +10,7 @@ _Context: Japan, yen_
 _Context: Honduras, Julian Aristides Gonzalez, drug trafficking_
 
 ### [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time "As the World Turns" after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in-ef.md)
-_Context: As the World Turns, CBS, Procter & Gamble, United States, soap opera_
+_Context: As the World Turns, CBS, Procter & Gamble, U.S., soap opera_
 
 ### [ President of Serbia Boris Tadic, his sports minister and FSS/FSS chief Tomislav Karadzic are punished for breaking FIFA's strict no-alcohol policy at the Stadion Crvena Zvezda on 10 October. ](/news/2009/12/8/president-of-serbia-boris-tadia-his-sports-minister-and-d-d-d-fss-chief-tomislav-karadzic-are-punished-for-breaking-fifa-s-strict-no-alc.md)
 A Serbian court has fined President Boris Tadic €400 for drinking champagne to toast Serbia&#39;s World Cup qualification.
@@ -25,7 +25,7 @@ _Context: China, Hunan, Xiangtan, stampede_
 _Context: Aftershock, Malawi, earthquake_
 
 ### [ A Cambodian court sentences a Thai man on charges of spying for Thailand to 7 years imprisonment. ](/news/2009/12/8/a-cambodian-court-sentences-a-thai-man-on-charges-of-spying-for-thailand-to-7-years-imprisonment.md)
-_Context: Cambodia, Thai, espionage_
+_Context: Cambodia, Thailand, espionage_
 
 ### [ Scaled Composites SpaceShipTwo, the world's first commercial spacecraft, is officially unveiled in the Mojave Desert, California. ](/news/2009/12/8/scaled-composites-spaceshiptwo-the-world-s-first-commercial-spacecraft-is-officially-unveiled-in-the-mojave-desert-california.md)
 Sir Richard Branson has unveiled the world&#039;s first commercial spacecraft and named it the Enterprise, after the fictional intergalactic vessel in Star Trek.

@@ -19,7 +19,7 @@ Eight people are missing from two different families following Sunday morning fl
 _Context: Gloria Steinem, Korean Demilitarized Zone_
 
 ### [Authorities in Malaysia find mass graves in more than a dozen camps near the border with Thailand where Rohingya migrants are held. ](/news/2015/05/24/authorities-in-malaysia-find-mass-graves-in-more-than-a-dozen-camps-near-the-border-with-thailand-where-rohingya-migrants-are-held.md)
-_Context: Malaysia, Rohingya people, Thai_
+_Context: Malaysia, Rohingya people, Thailand_
 
 ### [Voters in Poland go to the polls for the second round of a Presidential election between President Bronislaw Komorowski and challenger Andrzej Duda with exit polls showing Duda ahead. ](/news/2015/05/24/voters-in-poland-go-to-the-polls-for-the-second-round-of-a-presidential-election-between-president-bronisaaw-komorowski-and-challenger-andr.md)
 WARSAW, Poland (AP) — Exit poll shows Andrzej Duda ahead of President Bronislaw Komorowski in Polish election.

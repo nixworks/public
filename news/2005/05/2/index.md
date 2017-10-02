@@ -28,7 +28,7 @@ _Context: New York City, Nuclear Non-Proliferation Treaty_
 _Context: Cairo, Cairo terrorism, terrorism_
 
 ### [ In Germany, prosecutors demand 8-year sentence to neo-nazi leader Martin Weise and three others. ](/news/2005/05/2/in-germany-prosecutors-demand-8-year-sentence-to-neo-nazi-leader-martin-weise-and-three-others.md)
-_Context: Germany, Martin Weise, neo-nazi_
+_Context: Germany, Martin Weise, neo-Nazi_
 
 ### [ Former Haitian prime minister Yvon Neptune demands that the current government drops its claim that he organized a massacre in February 2004. Neptune has been on a hunger strike for 15 days and refuses treatment. ](/news/2005/05/2/former-haitian-prime-minister-yvon-neptune-demands-that-the-current-government-drops-its-claim-that-he-organized-a-massacre-in-february-200.md)
 _Context: Haiti, Yvon Neptune, hunger strike_

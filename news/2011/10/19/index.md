@@ -13,13 +13,13 @@ _Context: Coldplay, EMI, Mylo Xyloto_
 Google has unveiled its latest flagship phone, the Galaxy Nexus, and its latest Android software, Ice Cream Sandwich
 
 ### [The United States' largest bank, Bank of America, is surpassed by JPMorgan Chase in total assets, according to Bank of America's quarterly financial earnings report. ](/news/2011/10/19/the-united-states-largest-bank-bank-of-america-is-surpassed-by-jpmorgan-chase-in-total-assets-according-to-bank-of-america-s-quarterly-f.md)
-_Context: Bank of America, JPMorgan Chase, United States_
+_Context: Bank of America, JPMorgan Chase, U.S._
 
 ### [The parent of American Airlines, AMR, reports a larger third-quarter loss than expected, due to the cost of aviation fuel and the volatility of foreign exchange. ](/news/2011/10/19/the-parent-of-american-airlines-amr-reports-a-larger-third-quarter-loss-than-expected-due-to-the-cost-of-aviation-fuel-and-the-volatility.md)
 American Airlines, struggling to regain financial footing relative to stronger rivals, made little progress toward assuaging investor concerns when it reported a wider-than-expected quarterly loss on Wednesday.
 
 ### [Floodwaters threaten the Thai capital of Bangkok as the 2011 Thai floods - which have killed 317 people and affected nearly nine million in Thailand since August - continue unabated. ](/news/2011/10/19/floodwaters-threaten-the-thai-capital-of-bangkok-as-the-2011-thai-floods-which-have-killed-317-people-and-affected-nearly-nine-million-in.md)
-_Context: 2011 Thai floods, Bangkok, Thai_
+_Context: 2011 Thai floods, Bangkok, Thailand_
 
 ### [Queen Elizabeth II commences her 16th visit to Australia in the capital Canberra. ](/news/2011/10/19/queen-elizabeth-ii-commences-her-16th-visit-to-australia-in-the-capital-canberra.md)
 The Queen will arrive in Canberra today for what may be her last official tour of Australia.

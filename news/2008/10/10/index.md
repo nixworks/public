@@ -32,14 +32,14 @@ _Context: Aceh, Indonesia, Kosovo, Martti Ahtisaari, Namibia, Nobel Peace Prize,
 _Context: Alexey Prokurorov, Russia, Vladimir_
 
 ### [ A Swedish appellate court sentences Chilean opera tenor Ernesto "Tito" Beltran to two years and six months in prison for raping an 18-year-old nanny and molesting a 7-year-old girl.](/news/2008/10/10/a-swedish-appellate-court-sentences-chilean-opera-tenor-ernesto-tito-beltra-n-to-two-years-and-six-months-in-prison-for-raping-an-18-year.md)
-_Context: Chile, Ernesto "Tito" Beltran, Sweden, appeals court, nanny, opera, tenor_
+_Context: Chile, Ernesto "Tito" Beltran, Swedish, appeals court, nanny, opera, tenor_
 
 ### [ North Korea draws nearer to a compromise in a nuclear deal that would prompt Washington to remove it from a list of State Sponsors of Terrorism. ](/news/2008/10/10/north-korea-draws-nearer-to-a-compromise-in-a-nuclear-deal-that-would-prompt-washington-to-remove-it-from-a-list-of-state-sponsors-of-terro.md)
 _Context: District of Columbia, North Korea, state sponsor of terrorism_
 
 ### [ European markets fall steeply upon opening. ](/news/2008/10/10/european-markets-fall-steeply-upon-opening.md)
 ### [ Leaders of the anti-government protests in Thailand surrender to thepolice. ](/news/2008/10/10/leaders-of-the-anti-government-protests-in-thailand-surrender-to-thepolice.md)
-_Context: Thai, assemble_
+_Context: Thailand, assemble_
 
 ### [ The Republic of China (Taiwan) celebrates its 97th National Anniversary on Double Ten Day, with its newly elected President Ma Ying-jeou. ](/news/2008/10/10/the-republic-of-china-taiwan-celebrates-its-97th-national-anniversary-on-double-ten-day-with-its-newly-elected-president-ma-ying-jeou.md)
 Taiwan will celebrate its “Double Ten” National Day today. On October 10, 1911, an uprising occurred in Wuchang, China. Provincial leaders then declared independence to topple the Qing Manchu Dynasty. The Republic of China was proclaimed on January 1, 1912.

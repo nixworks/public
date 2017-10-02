@@ -34,7 +34,7 @@ _Context: Cyclone Nargis, Defense Secretary, Myanmar, Robert Gates_
 _Context: Afghanistan, ISAF, Jalalabad, Nangarhar Province, Suicide bombers, convoy_
 
 ### [ Thai riot police assemble in Bangkok to disperse a rally led by the People's Alliance for Democracy against the government of the Prime Minister of Thailand Samak Sundaravej. ](/news/2008/05/31/thai-riot-police-assemble-in-bangkok-to-disperse-a-rally-led-by-the-people-s-alliance-for-democracy-against-the-government-of-the-prime-min.md)
-_Context: Bangkok, Prime Minister, Samak Sundaravej, Thai, yellow shirt_
+_Context: Bangkok, Prime Minister, Samak Sundaravej, Thailand, yellow shirt_
 
 ### [ The government of Guinea starts paying junior officers of the Military of Guinea back pay in an attempt to end a five day mutiny. ](/news/2008/05/31/the-government-of-guinea-starts-paying-junior-officers-of-the-military-of-guinea-back-pay-in-an-attempt-to-end-a-five-day-mutiny.md)
 _Context: Guinea, Guinean military_

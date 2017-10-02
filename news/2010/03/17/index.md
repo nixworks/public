@@ -1,7 +1,7 @@
 ## [2010-03-17](/news/2010/03/17/index.md)
 
 ### [Protests in Thailand by the National United Front of Democracy Against Dictatorship continue, with supporters throwing their own blood outside the house of Prime Minister Abhisit Vejjajiva. ](/news/2010/03/17/protests-in-thailand-by-the-national-united-front-of-democracy-against-dictatorship-continue-with-supporters-throwing-their-own-blood-outsi.md)
-_Context: Abhisit Vejjajiva, Prime Minister, Thai, blood, red shirt_
+_Context: Abhisit Vejjajiva, Prime Minister, Thailand, blood, red shirt_
 
 ### [A French police officer dies in a shootout with Basque nationalist group ETA in Paris, the first French officer to do so. ](/news/2010/03/17/a-french-police-officer-dies-in-a-shootout-with-basque-nationalist-group-eta-in-paris-the-first-french-officer-to-do-so.md)
 _Context: Basque separatist, ETA, France, Paris_

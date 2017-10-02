@@ -7,7 +7,7 @@ Six people are killed as Syrian troops seize control of a mosque which was a cen
 Libyan leader Colonel Muammar Gaddafi says no-one can force him to leave his country, while suggesting negotiations with Nato.
 
 ### [Thai and Cambodian troops exchange gunfire near the Ta Krabei temple in Oddar Meanchey Province marking the ninth straight day of border clashes. ](/news/2011/04/30/thai-and-cambodian-troops-exchange-gunfire-near-the-ta-krabei-temple-in-oddar-meanchey-province-marking-the-ninth-straight-day-of-border-cla.md)
-_Context: Cambodia, Oddar Meanchey Province, Thai_
+_Context: Cambodia, Oddar Meanchey Province, Thailand_
 
 ### [Moroccan interior minister Taieb Cherkaoui says the bomb detonated in Marrakech was set off remotely. ](/news/2011/04/30/moroccan-interior-minister-taieb-cherkaoui-says-the-bomb-detonated-in-marrakech-was-set-off-remotely.md)
 _Context: Marrakech, Morocco, Taieb Cherkaoui, bomb detonated_

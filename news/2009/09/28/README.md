@@ -13,7 +13,7 @@ _Context: Caracas, Hugo Chavez, Libya, Muammar al-Gaddafi, Venezuela, Venezuelan
 The death toll from devastating floods in the Philippine capital, Manila, and surrounding areas has climbed to 140, with 32 people still missing, the government said on Monday.
 
 ### [ Roman Polanski officially challenges his proposed extradition from Switzerland to the United States to face child sexual abuse charges stemming from a 1977 incident. ](/news/2009/09/28/roman-polanski-officially-challenges-his-proposed-extradition-from-switzerland-to-the-united-states-to-face-child-sexual-abuse-charges-stem.md)
-_Context: Roman Polanski, Switzerland, United States, child sexual abuse, extradited_
+_Context: Roman Polanski, Switzerland, U.S., child sexual abuse, extradited_
 
 ### [ Japan's Liberal Democratic Party elects Sadakazu Tanigaki to replace Taro Aso. ](/news/2009/09/28/japan-s-liberal-democratic-party-elects-sadakazu-tanigaki-to-replace-taro-aso.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
@@ -46,7 +46,7 @@ _Context: China, Chinese Civilisation Revisited, Hong Kong_
 A police sergeant who allegedly struck a woman, Nicola Fisher, during G20 protests will be charged with assault, the Crown Prosecution Service (CPS) said.
 
 ### [ Spain's Pablo Pineda wins the best actor award at the San Sebastian International Film Festival, the first actor with Down's syndrome to win an international film award. ](/news/2009/09/28/spain-s-pablo-pineda-wins-the-best-actor-award-at-the-san-sebastia-n-international-film-festival-the-first-actor-with-down-s-syndrome-to-w.md)
-_Context: Down's syndrome, Pablo Pineda, San Sebastian International Film Festival, Spain_
+_Context: Down's syndrome, Pablo Pineda, San Sebastian International Film Festival, Spanish_
 
 ### [ Art historian Henry Adams claims abstract impressionist Jackson Pollock camouflaged his signature as a "hidden message" inside his famous 1943 "Mural". ](/news/2009/09/28/art-historian-henry-adams-claims-abstract-impressionist-jackson-pollock-camouflaged-his-signature-as-a-hidden-message-inside-his-famous-1.md)
 Jackson Pollock hid his signature inside one of his most important and valuable paintings, an art historian believes.

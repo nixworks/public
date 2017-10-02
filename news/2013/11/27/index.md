@@ -31,7 +31,7 @@ _Context: Tucson, Arizona_
 Angry protesters set fire to the office of Tunisia&#39;s ruling Islamist party in the neglected Gafsa region, as strikes are observed in areas amid rising discontent and political deadlock.
 
 ### [As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.md)
-_Context: Bangkok, Parliament, Prime Minister, Thai, Yingluck Shinawatra_
+_Context: Bangkok, Parliament, Prime Minister, Thailand, Yingluck Shinawatra_
 
 ### [The Prime Minister of Latvia Valdis Dombrovskis resigns due to the Riga supermarket roof collapse. ](/news/2013/11/27/the-prime-minister-of-latvia-valdis-dombrovskis-resigns-due-to-the-riga-supermarket-roof-collapse.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

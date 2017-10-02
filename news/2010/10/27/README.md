@@ -7,7 +7,7 @@ _Context: India, Jammu and Kashmir_
 _Context: Al-Shabaab, Somalian_
 
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
-_Context: Pakistan, United States_
+_Context: Pakistan, U.S._
 
 ### [At least three people are killed in an explosion in Baghdad, Iraq. ](/news/2010/10/27/at-least-three-people-are-killed-in-an-explosion-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_
@@ -31,7 +31,7 @@ _Context: Wells Fargo, foreclose, housing_
 _Context: China, Taiwan_
 
 ### [Floods in 18 Thai provinces kill 59 people. ](/news/2010/10/27/floods-in-18-thai-provinces-kill-59-people.md)
-_Context: Thai_
+_Context: Thailand_
 
 ### [Fatalities caused by the eruption of Mount Merapi in Indonesia's Yogyakarta province rises, with 28 people known to have been killed by hot ash. ](/news/2010/10/27/fatalities-caused-by-the-eruption-of-mount-merapi-in-indonesia-s-yogyakarta-province-rises-with-28-people-known-to-have-been-killed-by-hot.md)
 _Context: Indonesia, Mount Merapi volcanic eruption, Mounts Merapi, Yogyakarta_

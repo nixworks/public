@@ -7,7 +7,7 @@ _Context: Libyan Civil War, Misrata, Tripoli, anti-Gaddafi forces_
 At least 12 people, including several children, have died in a series of bomb attacks in the south of Afghanistan, officials say.
 
 ### [Unemployment in Spain reaches a record high. ](/news/2012/01/3/unemployment-in-spain-reaches-a-record-high.md)
-_Context: Spain, unemployment_
+_Context: Spanish, unemployment_
 
 ### [Germany's unemployment rate reportedly reaches its lowest level since 1991. ](/news/2012/01/3/germany-s-unemployment-rate-reportedly-reaches-its-lowest-level-since-1991.md)
 German unemployment falls to its lowest rate in December since 1991, official figures show.
@@ -22,7 +22,7 @@ _Context: Amman, Israel, Jordan, Palestinian Authority_
 _Context: Iran_
 
 ### [The value of the Iranian rial hits a record low, following the announcement by the United States of further economic sanctions against Iran. ](/news/2012/01/3/the-value-of-the-iranian-rial-hits-a-record-low-following-the-announcement-by-the-united-states-of-further-economic-sanctions-against-iran.md)
-_Context: United States, rial, sanctions_
+_Context: U.S., rial, sanctions_
 
 ### [Iran warns the United States not to send any more aircraft carriers into the Persian Gulf. ](/news/2012/01/3/iran-warns-the-united-states-not-to-send-any-more-aircraft-carriers-into-the-persian-gulf.md)
 _Context: Persian Gulf, aircraft carrier_

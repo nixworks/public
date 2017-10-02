@@ -31,7 +31,7 @@ _Context: Alassane Biga, Ilguilas Weila, Niamey, Niger, slavery_
 _Context: Seoul National University, South Korea, United Kingdom, University of Newcastle, cloning, embryo, stem cell_
 
 ### [ "Star Wars Episode III: Revenge of the Sith", at the time purported to be the final "Star Wars" film, is released in the United States. Just hours after its release, the workprint DVD of the film was "leaked" to file sharing networks. ](/news/2005/05/19/star-wars-episode-iii-revenge-of-the-sith-at-the-time-purported-to-be-the-final-star-wars-film-is-released-in-the-united-states-jus.md)
-_Context: DVD, File sharing, Star Wars Episode III: Revenge of the Sith, United States, workprint_
+_Context: DVD, File sharing, Star Wars Episode III: Revenge of the Sith, U.S., workprint_
 
 ### [ Reggie Miller plays his last game as an Indiana Pacer, losing to the Detroit Pistons in Game 6 of the second round of the NBA Playoffs. He tallied 27 points in his final game.](/news/2005/05/19/reggie-miller-plays-his-last-game-as-an-indiana-pacer-losing-to-the-detroit-pistons-in-game-6-of-the-second-round-of-the-nba-playoffs-he.md)
 ## [Previous Day...](/news/2005/05/18/index.md)

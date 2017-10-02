@@ -1,7 +1,7 @@
 ## [2004-07-5](/news/2004/07/5/index.md)
 
 ### [ Australia and Thailand sign a free trade agreement. ](/news/2004/07/5/australia-and-thailand-sign-a-free-trade-agreement.md)
-_Context: Thai, free trade_
+_Context: Thailand, free trade_
 
 ### [ The International Committee of the Red Cross and UNICEF state that there are more than 100 Iraqi children in custody of the US-led coalition, and a US soldier reports of child harassment in Abu Ghraib. ](/news/2004/07/5/the-international-committee-of-the-red-cross-and-unicef-state-that-there-are-more-than-100-iraqi-children-in-custody-of-the-us-led-coalitio.md)
 _Context: Abu Ghraib prisoner abuse, International Committee of the Red Cross, Iraq, UNICEF_

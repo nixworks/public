@@ -1,7 +1,7 @@
 ## [2015-11-19](/news/2015/11/19/index.md)
 
 ### [China vows to "bring to justice" those responsible for executing one of its citizens after the Islamic State of Iraq and the Levant said it had killed a Chinese hostage. China's Foreign Ministry also confirms the hostage's identity for the first time, naming him as Fan Jinghui. ](/news/2015/11/19/china-vows-to-bring-to-justice-those-responsible-for-executing-one-of-its-citizens-after-the-islamic-state-of-iraq-and-the-levant-said-it.md)
-_Context: China, Chinese Foreign Ministry spokesperson, Fan Jinghui, ISIL, Killing of captives by ISIL_
+_Context: China, Chinese Foreign Ministry spokesperson, Fan Jinghui, Islamic State, Killing of captives by ISIL_
 
 ### [According to the Islamic State of Iraq and the Levant's official propaganda magazine, a soft drink can with an IED, a so-called "Schweppes bomb," was used to destroy the Russian airliner. ](/news/2015/11/19/according-to-the-islamic-state-of-iraq-and-the-levant-s-official-propaganda-magazine-a-soft-drink-can-with-an-ied-a-so-called-schweppes-b.md)
 * Islamic State shows components purportedly used to blow upplane* Includes soft drink can and apparent detonator* Feasible the device could
@@ -55,7 +55,7 @@ More Mexicans are leaving the United States than entering it according to a repo
 A United Nations General Assembly committee has adopted a North Korea human rights resolution.
 
 ### [The Obama Administration through the United States State Department expresses deep frustration over the lack of democratic progress in Thailand after last year's military coup, saying a new constitution there won't pass the "smell test" unless civil society helps to draft it. ](/news/2015/11/19/the-obama-administration-through-the-united-states-state-department-expresses-deep-frustration-over-the-lack-of-democratic-progress-in-thail.md)
-_Context: Obama Administration, Thai, U.S. State Department, civil society, constitution, democratic progress, military coup_
+_Context: Obama Administration, Thailand, U.S. State Department, civil society, constitution, democratic progress, military coup_
 
 ### [A court sentences former restaurant spokesperson Jared Fogle to over 15 years imprisonment for sex with minors and the possession of child pornography. ](/news/2015/11/19/a-court-sentences-former-restaurant-spokesperson-jared-fogle-to-over-15-years-imprisonment-for-sex-with-minors-and-the-possession-of-child-p.md)
 A plea deal was reached in August, with the former Subway pitchman admitting to crossing state lines to pay to have sex with minors and receiving child pornography from the head of his charity.
@@ -76,7 +76,7 @@ A Paris rally to demand strong action on climate change has been cancelled due t
 Democratic Unionist leader Peter Robinson has announced in a newspaper his intention to step down as Northern Ireland&amp;#39;s First Minister. Mr Robinson&amp;#39;s article in the Belfast Telegraph, written ahead of his party&amp;#39;s conference, confirmed he will not contest next May&amp;#39;s As...
 
 ### [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md)
-_Context: Barack Obama, Iraq, Syria, United States, United States House of Representatives, United States Senate, veto_
+_Context: Barack Obama, Iraq, Syria, U.S., United States House of Representatives, United States Senate, veto_
 
 ## [Previous Day...](/news/2015/11/18/index.md)
 

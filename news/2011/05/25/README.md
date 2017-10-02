@@ -4,7 +4,7 @@
 A suicide bomber in an explosive-laden car rammed into a police station in Peshawar, Pakistan, on Wednesday in a Taliban attack that killed seven police officers and injured several others, a senior police official said.
 
 ### [Violent clashes occur between tribesmen and government officials in Sana'a, Yemen. ](/news/2011/05/25/violent-clashes-occur-between-tribesmen-and-government-officials-in-sana-a-yemen.md)
-_Context: 2011 Yemeni uprising, Sanaa, Yemen_
+_Context: 2011 Yemeni uprising, Sana'a, Yemen_
 
 ### [South African President Jacob Zuma will visit Libya for talks with Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-to.md)
 _Context: African Union, Jacob Zuma, Libya, Libyan Civil War, Muammar Gaddafi, President, South Africa_

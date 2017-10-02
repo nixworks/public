@@ -19,7 +19,7 @@ _Context: 2008 unrest in Tibet, China, Lhasa, Qiangba Puncog, Tibet, Tibet Auton
 _Context: 2008 National People's Congress, Hui Liangyu, Li Keqiang, Wang Qishan, Zhang Dejiang, parliament_
 
 ### [ United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
-_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, U.S. Vice President, United States_
+_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, U.S., U.S. Vice President_
 
 ### [ The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
 _Context: Parliament, by-elections_

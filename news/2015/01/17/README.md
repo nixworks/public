@@ -1,7 +1,7 @@
 ## [2015-01-17](/news/2015/01/17/index.md)
 
 ### [Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-houthi-rebels-or-al-qa.md)
-_Context: Ahmed Awad bin Mubarak, Sanaa, Terrorism in Yemen, Yemen, al-Qaeda_
+_Context: Ahmed Awad bin Mubarak, Sana'a, Terrorism in Yemen, Yemen, al-Qaeda_
 
 ### [Violence surrounding various protests against "Charlie Hebdo" leaves five protesters dead as well as some churches set ablaze in Niger. ](/news/2015/01/17/violence-surrounding-various-protests-against-charlie-hebdo-leaves-five-protesters-dead-as-well-as-some-churches-set-ablaze-in-niger.md)
 Second day of violence in Niger as protests continue

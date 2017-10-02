@@ -10,7 +10,7 @@ _Context: Fernando Lugo, Paraguay, Paraguayan People's Army, Paraguayan Presiden
 _Context: Mississippi, tornado_
 
 ### [Prime Minister Abhisit Vejjajiva of Thailand rejects protester demands to dissolve the Parliament within 30 days. ](/news/2010/04/24/prime-minister-abhisit-vejjajiva-of-thailand-rejects-protester-demands-to-dissolve-the-parliament-within-30-days.md)
-_Context: 2010 Thai political protests, Abhisit Vejjajiva, Parliament, Prime Minister, Thai_
+_Context: 2010 Thai political protests, Abhisit Vejjajiva, Parliament, Prime Minister, Thailand_
 
 ### [A strong earthquake measuring 6.1 strikes in the Maluku Islands north of Ambon Island. ](/news/2010/04/24/a-strong-earthquake-measuring-6-1-strikes-in-the-maluku-islands-north-of-ambon-island.md)
 _Context: Ambon Island, Maluku Islands_
@@ -22,7 +22,7 @@ Al-Shabab forces pro-government group out of towns in central Galgudud region.
 PM says attacks that killed 69 people were response to killing of two al-Qaeda leaders.
 
 ### [Russia's Proton-M rocket sends a United States SES-1 telecommunications satellite into space. ](/news/2010/04/24/russia-s-proton-m-rocket-sends-a-united-states-ses-1-telecommunications-satellite-into-space.md)
-_Context: Proton-M, Russia, United States, rocket, space, telecommunications satellite_
+_Context: Proton-M, Russia, U.S., rocket, space, telecommunications satellite_
 
 ### [ An unmanned American aircraft kills seven militants in Pakistan. ](/news/2010/04/24/an-unmanned-american-aircraft-kills-seven-militants-in-pakistan.md)
 _Context: Pakistan, drone_
@@ -34,7 +34,7 @@ _Context: Catholic Church, Chile, President, Sebastin Piera_
 _Context: Yerevan, genocide of Armenians_
 
 ### [Marchers march in a dozen Spanish cities, including thousands in Madrid, to support Judge Baltasar Garzn who has been told he may face a trial for launching an inquiry into the acts of General Francisco Franco. Falange arranges a smaller protest in Madrid in opposition to Garzn. ](/news/2010/04/24/marchers-march-in-a-dozen-spanish-cities-including-thousands-in-madrid-to-support-judge-baltasar-garzon-who-has-been-told-he-may-face-a-tr.md)
-_Context: Baltasar Garzn, Falange, Franco, Madrid, Spain_
+_Context: Baltasar Garzn, Falange, Franco, Madrid, Spanish_
 
 ### [Former Nazi corporal and founder of Villa Baviera in Chile Paul Schfer dies in prison at the age of 88. ](/news/2010/04/24/former-nazi-corporal-and-founder-of-villa-baviera-in-chile-paul-schafer-dies-in-prison-at-the-age-of-88.md)
 _Context: Chile, Nazi, Paul Schfer, Villa Baviera_

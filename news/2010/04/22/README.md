@@ -16,7 +16,7 @@ Protesters blockade parliament amid growing stand-off over presidential decree.
 _Context: Belgium, Brussels-Halle-Vilvoorde, Flemish Liberals and Democrats, Government_
 
 ### [Several grenades explode in Thailand's capital, Bangkok, killing at least one person and injuring at least 75 others. ](/news/2010/04/22/several-grenades-explode-in-thailand-s-capital-bangkok-killing-at-least-one-person-and-injuring-at-least-75-others.md)
-_Context: Bangkok, Several grenades explode, Thai_
+_Context: Bangkok, Several grenades explode, Thailand_
 
 ### [NATO foreign ministers agree to launch a Membership Action Plan (MAP) for Bosnia and Herzegovina. ](/news/2010/04/22/nato-foreign-ministers-agree-to-launch-a-membership-action-plan-map-for-bosnia-and-herzegovina.md)
 NATO ministers agreed on Thursday to grant a Membership Action Plan (MAP) for Bosnia that could see it join the alliance in coming years, but attached conditions to its implementation.

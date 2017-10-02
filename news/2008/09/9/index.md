@@ -19,7 +19,7 @@ _Context: LTTE, Sri Lanka, United Nations_
 _Context: Cuba, Gulf of Mexico, Hurricane Ike, Isle of Youth, San Cristobal_
 
 ### [ A Thai court rules that Prime Minister Samak Sundaravej must be removed from office for receiving payment for appearing on a television cooking show. ](/news/2008/09/9/a-thai-court-rules-that-prime-minister-samak-sundaravej-must-be-removed-from-office-for-receiving-payment-for-appearing-on-a-television-coo.md)
-_Context: Prime Minister, Samak Sundaravej, Thai, cooking show_
+_Context: Prime Minister, Samak Sundaravej, Thailand, cooking show_
 
 ### [ US President George W. Bush pledges 4,500 troops to Afghanistan over the next few months and orders 8,000 troops currently stationed in Iraq to be home by February. ](/news/2008/09/9/us-president-george-w-bush-pledges-4-500-troops-to-afghanistan-over-the-next-few-months-and-orders-8-000-troops-currently-stationed-in-ira.md)
 The United States will ramp up its troop levels in Afghanistan over the next few months as some troops slated for Iraq are deployed instead to the troubled Asian country, President George W. Bush said Tuesday.

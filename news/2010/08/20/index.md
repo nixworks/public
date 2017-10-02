@@ -55,7 +55,7 @@ _Context: Canada Post, Gaza, Israel Post_
 _Context: Mahmoud Ahmadinejad, President, United Nations Security Council, nuclear reactor, uranium, uranium enrichment_
 
 ### [Hillary Clinton, the United States Secretary of State, states that the United States "categorically disagrees" with the decision of the Scottish Government to release on compassionate grounds Abdelbaset al-Megrahi, the man convicted of bombing Pan Am Flight 103. ](/news/2010/08/20/hillary-clinton-the-united-states-secretary-of-state-states-that-the-united-states-categorically-disagrees-with-the-decision-of-the-scot.md)
-_Context: Abdelbaset al-Megrahi, Hillary Clinton, Lockerbie bombing, Scottish Government, United States, United States Secretary of State_
+_Context: Abdelbaset al-Megrahi, Hillary Clinton, Lockerbie bombing, Scottish Government, U.S., United States Secretary of State_
 
 ### [6 police officers in Mexico are arrested and accused of participating in the kidnap and murder of Mayor Edelmiro Cavazos. ](/news/2010/08/20/6-police-officers-in-mexico-are-arrested-and-accused-of-participating-in-the-kidnap-and-murder-of-mayor-edelmiro-cavazos.md)
 Prosecutors have arrested six police officers they say participated in the kidnap and murder of a mayor as part of a drug war.
@@ -70,7 +70,7 @@ The remains of a Japanese woman are found in a backpack, police say, as they sea
 An alleged arms dealer nicknamed &quot;The Merchant of Death&quot;, who has been pursued by global law enforcement organisations for years, is to be extradited to the US to stand trial.
 
 ### [An Irish-born Australian man who admitted after initially pleading innocence to breaching the state of emergency during the anti-government protests in Thailand is deported to Australia; he says he was beaten, was treated harshly and was not shown an arrest warrant. ](/news/2010/08/20/an-irish-born-australian-man-who-admitted-after-initially-pleading-innocence-to-breaching-the-state-of-emergency-during-the-anti-government.md)
-_Context: 2010 Thai political protests, Thai_
+_Context: 2010 Thai political protests, Thailand_
 
 ### [Shining Path leaders Abimael Guzmn and Elena Iparraguirre marry at a maximum-security prison near Lima; they fought for their right to marry by going on hunger strike earlier this year. ](/news/2010/08/20/shining-path-leaders-abimael-guzman-and-elena-iparraguirre-marry-at-a-maximum-security-prison-near-lima-they-fought-for-their-right-to-marr.md)
 The jailed leaders of Peru&#039;s Shining Path rebels got married in a maximum-security prison yesterday after staging a hunger strike earlier this year to demand the right to marry behind bars.
@@ -100,7 +100,7 @@ Thousands show support for Bakiyev-appointed official amid rumours of his dismis
 The Indian cabinet clears a proposal to raise the salaries of members of parliament by more than three-fold.
 
 ### [The Pentagon vows to prevent "internal threats" in the United States. ](/news/2010/08/20/the-pentagon-vows-to-prevent-internal-threats-in-the-united-states.md)
-_Context: United States, United States military_
+_Context: U.S., United States military_
 
 ### [More than half of politicians in Benin call for impeachment proceedings against President Boni Yayi over his involvement in a Ponzi scheme. ](/news/2010/08/20/more-than-half-of-politicians-in-benin-call-for-impeachment-proceedings-against-president-boni-yayi-over-his-involvement-in-a-ponzi-scheme.md)
 _Context: Beninese, Boni Yayi, Ponzi scheme, impeach_

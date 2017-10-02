@@ -1,7 +1,7 @@
 ## [2016-06-25](/news/2016/06/25/index.md)
 
 ### [The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-against-newly-ele.md)
-_Context: ISIL, Malaysia, Moro conflict, Rodrigo Duterte_
+_Context: Islamic State, Malaysia, Moro conflict, Rodrigo Duterte_
 
 ### [At least three people are killed and three more injured as hundreds of Syrian Kurds flee Aleppo Province villages controlled by the Islamic State of Iraq and the Levant, which continues to abduct and enslave Kurds. Yesterday, the Syrian Observatory for Human Rights reported ISIL militants have kidnapped about 900 civilians over the past three weeks. ](/news/2016/06/25/at-least-three-people-are-killed-and-three-more-injured-as-hundreds-of-syrian-kurds-flee-aleppo-province-villages-controlled-by-the-islamic.md)
 Islamic State (ISIS) militants abducted about 900 Kurdish civilians in the northern Syrian province of Aleppo over the past three weeks, forcing the captives to build fortifications for the extremists in retaliation for a Kurdish-led assault on a nearby ISIS stronghold, activists said Friday.

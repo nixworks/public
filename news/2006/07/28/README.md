@@ -22,7 +22,7 @@ _Context: China, Jiangsu Province, fluorine_
 _Context: 2006 Kodori crisis, Abkhazia, Georgian_
 
 ### [ The United States should immediately close all secret detention facilities used in its campaign against terror groups, the UN Human Rights Committee has said. ](/news/2006/07/28/the-united-states-should-immediately-close-all-secret-detention-facilities-used-in-its-campaign-against-terror-groups-the-un-human-rights.md)
-_Context: Human Rights Committee, UN, United States, secret detention facilities_
+_Context: Human Rights Committee, U.S., UN, secret detention facilities_
 
 ### [ The first World Outgames are held in Montreal, Canada. Outgames co-president and Canadian Olympian, Mark Tewksbury, states that the event will "bridge the gap between the gay sport movement and the traditional sport movement.](/news/2006/07/28/the-first-world-outgames-are-held-in-montreal-canada-outgames-co-president-and-canadian-olympian-mark-tewksbury-states-that-the-event-w.md)
 _Context: Canada, Mark Tewksbury, Montreal, World Outgames_

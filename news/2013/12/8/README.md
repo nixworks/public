@@ -13,7 +13,7 @@ Police in Singapore arrest 27 South Asian suspects after hundreds of foreign wor
 _Context: Bharatiya Janata Party, Chhattisgarh, Delhi, Indian National Congress, Madhya Pradesh, Rajasthan_
 
 ### [The Thailand Opposition vows to resign en masse after weeks of protest. ](/news/2013/12/8/the-thailand-opposition-vows-to-resign-en-masse-after-weeks-of-protest.md)
-_Context: Thai_
+_Context: Thailand_
 
 ### [During the third Sunday of mass protests, hundreds of thousands of Ukrainians in Kiev seek the resignation of the government for refusing a deal on closer ties with the European Union. ](/news/2013/12/8/during-the-third-sunday-of-mass-protests-hundreds-of-thousands-of-ukrainians-in-kiev-seek-the-resignation-of-the-government-for-refusing-a.md)
 Protesters in the Ukrainian capital Kiev topple a statue of Lenin as they call for closer EU ties and oppose a Russian-led customs union.

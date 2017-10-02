@@ -25,7 +25,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 _Context: Khyber Pakhtunkhwa, Pakistan, United Nations, War in North-West Pakistan, displaced, international aid, people_
 
 ### [ Spain's National Police Corps arrests 23 people for trafficking Nigerian prostitutes through voodoo. ](/news/2009/05/22/spain-s-national-police-corps-arrests-23-people-for-trafficking-nigerian-prostitutes-through-voodoo.md)
-_Context: National Police Corps, Nigeria, Spain, arrest, human trafficking, prostitution, voodoo_
+_Context: National Police Corps, Nigeria, Spanish, arrest, human trafficking, prostitution, voodoo_
 
 ### [ Northern Ireland's first sextuplets are born in Belfast. ](/news/2009/05/22/northern-ireland-s-first-sextuplets-are-born-in-belfast.md)
 A woman in Northern Ireland has given birth to six babies at the Royal Victoria Hospital.

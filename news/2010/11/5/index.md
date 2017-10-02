@@ -52,10 +52,10 @@ China warns that there will be &quot;consequences&quot; if governments show supp
 Greece resumed the shipment of all mail and packages abroad after midnight on Friday, following a suspension it imposed in the wake of a spate of parcel bombs sent to embassies in Athens and to European governments.
 
 ### [The Government of Norway demands an explanation from the US Government on reports that the US embassy in Oslo conducted illegal surveillance on Norwegian citizens for more than ten years. ](/news/2010/11/5/the-government-of-norway-demands-an-explanation-from-the-us-government-on-reports-that-the-us-embassy-in-oslo-conducted-illegal-surveillance.md)
-_Context: Government of the United States, Norway, Oslo, United States, government of Norway_
+_Context: Government of the United States, Norway, Oslo, U.S., government of Norway_
 
 ### [A Peruvian judge orders that United States born militant Lori Berenson be released from prison in Lima. ](/news/2010/11/5/a-peruvian-judge-orders-that-united-states-born-militant-lori-berenson-be-released-from-prison-in-lima.md)
-_Context: Lima, Lori Berenson, Peru, United States_
+_Context: Lima, Lori Berenson, Peru, U.S._
 
 ### [Mexican drug cartel leader Ezequiel Cardenas Guilln is shot dead by Mexican security forces in Matamoros following a gun fight of several hours. ](/news/2010/11/5/mexican-drug-cartel-leader-ezequiel-cardenas-guillen-is-shot-dead-by-mexican-security-forces-in-matamoros-following-a-gun-fight-of-several-h.md)
 _Context: Ezequiel Cardenas Guilln, Matamoros, Mexico, drug cartel_
@@ -64,7 +64,7 @@ _Context: Ezequiel Cardenas Guilln, Matamoros, Mexico, drug cartel_
 Protesters clashed with the police on Friday night after a white former transit police officer was given a two-year sentence for the killing an unarmed black man.
 
 ### [Protests against the visit of Pope Benedict XVI to Spain take place. ](/news/2010/11/5/protests-against-the-visit-of-pope-benedict-xvi-to-spain-take-place.md)
-_Context: Pope Benedict XVI, Spain_
+_Context: Pope Benedict XVI, Spanish_
 
 ### [A specially convened Election court in the United Kingdom orders a re-run of the 2010 general election campaign in Oldham East and Saddleworth, the constituency of ex-immigration minster Phil Woolas, after he is found guilty of making false statements against an opponent during the original campaign. ](/news/2010/11/5/a-specially-convened-election-court-in-the-united-kingdom-orders-a-re-run-of-the-2010-general-election-campaign-in-oldham-east-and-saddlewor.md)
 Shadow immigration minister Phil Woolas vows to fight a decision to declare his 2010 election victory void.

@@ -61,7 +61,7 @@ _Context: Shali_
 The Duchess of York has allegedly become the victim of a tabloid sting aimed at embarrassing her over her troubled finances.
 
 ### [Sweden's "Treskilling Yellow", the most expensive postage stamp in the world, retains its title at a private auction. ](/news/2010/05/23/sweden-s-treskilling-yellow-the-most-expensive-postage-stamp-in-the-world-retains-its-title-at-a-private-auction.md)
-_Context: Sweden, Treskilling Yellow, postage stamp_
+_Context: Swedish, Treskilling Yellow, postage stamp_
 
 ### [The UK tourist resort of Blackpool is expected to benefit "tens of millions" of pounds, described by the tourism chief as "unthinkable", following the local football club's elevation to the Premier League as an open-top bus tour is announced. ](/news/2010/05/23/the-uk-tourist-resort-of-blackpool-is-expected-to-benefit-tens-of-millions-of-pounds-described-by-the-tourism-chief-as-unthinkable-fol.md)
 _Context: Blackpool, English Premier League, local football club_
@@ -70,7 +70,7 @@ _Context: Blackpool, English Premier League, local football club_
 The Champs-Elysees avenue in Paris is turned into a green space by farmers to highlight their financial plight.
 
 ### [Thai film "Uncle Boonmee Who Can Recall His Past Lives", directed by Apichatpong Weerasethakul "(pictured)" wins the Palme d'Or at the Cannes Film Festival much to the surprise of the BBC. ](/news/2010/05/23/thai-film-uncle-boonmee-who-can-recall-his-past-lives-directed-by-apichatpong-weerasethakul-pictured-wins-the-palme-d-or-at-the-canne.md)
-_Context: Apichatpong Weerasethakul, BBC, Cannes Film Festival, Palme d'Or, Thai, Uncle Boonmee Who Can Recall His Past Lives, wins_
+_Context: Apichatpong Weerasethakul, BBC, Cannes Film Festival, Palme d'Or, Thailand, Uncle Boonmee Who Can Recall His Past Lives, wins_
 
 ### [The Rolling Stones achieve their first UK number one album for 16 years with a re-release of "Exile on Main St.". ](/news/2010/05/23/the-rolling-stones-achieve-their-first-uk-number-one-album-for-16-years-with-a-re-release-of-exile-on-main-st.md)
 The Rolling Stones score their first number one album since 1994 with a reissue of Exile On Main Street.

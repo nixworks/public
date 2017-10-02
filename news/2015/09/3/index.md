@@ -16,7 +16,7 @@ The military parade in Beijing on September 3, celebrating Japan’s surrender i
 _Context: Alejandro Maldonado, Otto Prez Molina, President of Guatemala_
 
 ### [Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md)
-_Context: 2015 Bangkok bombing, Bangkok, Narathiwat, Thai_
+_Context: 2015 Bangkok bombing, Bangkok, Narathiwat, Thailand_
 
 ### [Kim Davis, the Rowan County, Kentucky, clerk, is jailed for contempt of court for continuing to refuse, on grounds of religious freedom, to issue marriage licenses to same-sex couples per U.S. District Judge David Bunning's August 12, 2015, order. The deputy clerks are ordered to issue these licenses. ](/news/2015/09/3/kim-davis-the-rowan-county-kentucky-clerk-is-jailed-for-contempt-of-court-for-continuing-to-refuse-on-grounds-of-religious-freedom-to.md)
 A Kentucky county clerk was jailed on Thursday for refusing to issue marriage licenses to gay couples, and a full day of court hearings failed to put an end to her two-month-old legal fight over a U.S. Supreme Court ruling upholding same-sex marriage.

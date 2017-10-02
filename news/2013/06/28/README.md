@@ -10,7 +10,7 @@ _Context: Egypt, Zagazig_
 _Context: Nigeria, Plateau State_
 
 ### [Two people are killed and seven injured in a bomb attack in Songkhla, Thailand. ](/news/2013/06/28/two-people-are-killed-and-seven-injured-in-a-bomb-attack-in-songkhla-thailand.md)
-_Context: Songkhla, Thai_
+_Context: Songkhla, Thailand_
 
 ### [Three people are killed and seven injured in an attack in Karachi, Pakistan ](/news/2013/06/28/three-people-are-killed-and-seven-injured-in-an-attack-in-karachi-pakistan.md)
 _Context: Karachi, Pakistan_

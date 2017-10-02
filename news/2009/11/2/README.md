@@ -31,7 +31,7 @@ _Context: Tanzania, albino, capital punishment, hanging_
 Radovan Karadzic will on Tuesday appear before a United Nations war crimes tribunal in a special hearing that will attempt to end the former Bosnian Serb leader&#039;s boycott of his trial for genocide.
 
 ### [ Two people are charged with "spreading false information" about the health of Thailand's King Bhumibol Adulyadej. ](/news/2009/11/2/two-people-are-charged-with-spreading-false-information-about-the-health-of-thailand-s-king-bhumibol-adulyadej.md)
-_Context: Bhumibol Adulyadej, Thai, lese-majeste_
+_Context: Bhumibol Adulyadej, Thailand, lese-majeste_
 
 ### [ United Nations Secretary-General Ban Ki-moon makes a surprise visit to Afghanistan ahead of the 7 November second round of the presidential election. ](/news/2009/11/2/united-nations-secretary-general-ban-ki-moon-makes-a-surprise-visit-to-afghanistan-ahead-of-the-7-november-second-round-of-the-presidential.md)
 _Context: Afghanistan, Ban Ki-moon, United Nations Secretary-General, presidential election_

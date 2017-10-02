@@ -40,7 +40,7 @@ _Context: Japan, Nisshin Maru, Southern Ocean, hunt_
 _Context: Navy, Sri Lanka, Tamil Tigers, Trincomalee_
 
 ### [ Finance Minister of Thailand Pridiyathorn Devakula resigns over differences of opinion with the Prime Minister of Thailand Surayud Chulanont. ](/news/2007/02/28/finance-minister-of-thailand-pridiyathorn-devakula-resigns-over-differences-of-opinion-with-the-prime-minister-of-thailand-surayud-chulanon.md)
-_Context: Pridiyathorn Devakula, Prime Minister, Surayud Chulanont, Thai_
+_Context: Pridiyathorn Devakula, Prime Minister, Surayud Chulanont, Thailand_
 
 ## [Previous Day...](/news/2007/02/27/index.md)
 

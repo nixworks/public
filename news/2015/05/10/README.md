@@ -1,7 +1,7 @@
 ## [2015-05-10](/news/2015/05/10/index.md)
 
 ### [Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md)
-_Context: Saleh, Sanaa, Saudi Arabia, Yemeni Civil War, Yemeni President_
+_Context: Saleh, Sana'a, Saudi Arabia, Yemeni Civil War, Yemeni President_
 
 ### [The People's Bank of China in the People's Republic of China lowers its benchmark interest rate for the third time in half a year. ](/news/2015/05/10/the-people-s-bank-of-china-in-the-people-s-republic-of-china-lowers-its-benchmark-interest-rate-for-the-third-time-in-half-a-year.md)
 _Context: China, People's Bank of China, interest rate_

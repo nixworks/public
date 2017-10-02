@@ -49,7 +49,7 @@ _Context: Croxteth, England, Liverpool_
 _Context: Ford, Victoria, industrial dispute_
 
 ### [ Vendors selling puffer fish meat as salmon has led to 15 deaths and 115 people being sickened in Thailand over the past three years. ](/news/2007/08/23/vendors-selling-puffer-fish-meat-as-salmon-has-led-to-15-deaths-and-115-people-being-sickened-in-thailand-over-the-past-three-years.md)
-_Context: Thai, puffer fish, salmon_
+_Context: Thailand, puffer fish, salmon_
 
 ### [ U.S. Customs and U.S. Navy officials seized a submarine-like vessel filled with $352 million worth of cocaine off the Guatemalan coast. (prices given by CIA) ](/news/2007/08/23/u-s-customs-and-u-s-navy-officials-seized-a-submarine-like-vessel-filled-with-352-million-worth-of-cocaine-off-the-guatemalan-coast-pr.md)
 _Context: Guatemala, U.S. Customs, U.S. Navy, submarine_

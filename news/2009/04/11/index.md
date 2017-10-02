@@ -1,7 +1,7 @@
 ## [2009-04-11](/news/2009/04/11/index.md)
 
 ### [ Anti-government protests cancel the Fourth East Asia Summit in Pattaya, Thailand. ](/news/2009/04/11/anti-government-protests-cancel-the-fourth-east-asia-summit-in-pattaya-thailand.md)
-_Context: East Asia Summit, Fourth, Pattaya, Thai, political crisis_
+_Context: East Asia Summit, Fourth, Pattaya, Thailand, political crisis_
 
 ### [ Abdelaziz Bouteflika is reelected as President of Algeria. ](/news/2009/04/11/abdelaziz-bouteflika-is-reelected-as-president-of-algeria.md)
 _Context: Abdelaziz Bouteflika, Algeria, President, reelected_

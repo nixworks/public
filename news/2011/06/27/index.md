@@ -31,7 +31,7 @@ _Context: EUR, Parliament of Greece_
 The Los Angeles Dodgers filed for bankruptcy protection in a Delaware court Monday, blaming Major League Baseball for refusing to approve a multibillion-dollar TV deal that owner Frank McCourt was counting on to keep the troubled team afloat.
 
 ### [A leak is detected in a PTT Public Company Limited pipeline in the Gulf of Thailand; the leak will cut natural gas supplies in Thailand and affect power generation. ](/news/2011/06/27/a-leak-is-detected-in-a-ptt-public-company-limited-pipeline-in-the-gulf-of-thailand-the-leak-will-cut-natural-gas-supplies-in-thailand-and.md)
-_Context: Gulf of Thailand, PTT Public Company Limited, Thai, natural gas_
+_Context: Gulf of Thailand, PTT Public Company Limited, Thailand, natural gas_
 
 ### [The Premier of China Wen Jiabao signals that the People's Republic of China will have trouble meeting its inflation target of 4 per cent in 2011. ](/news/2011/06/27/the-premier-of-china-wen-jiabao-signals-that-the-people-s-republic-of-china-will-have-trouble-meeting-its-inflation-target-of-4-per-cent-in.md)
 Chinese Premier Wen Jiabao signaled for the first time that China would struggle to meet its 4 percent inflation target this year, underlining expectations that interest rates will rise further even as economic growth slows down.

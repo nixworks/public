@@ -25,7 +25,7 @@ _Context: IAEA, Iran, Olli Heinonen_
 Klaas Carel Faber reportedly murdered more than 20 Jews at the Westerbork concentration camp, where many Dutch Jews were sent. 
 
 ### ["The New York Times" claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-united-s.md)
-_Context: Afghanistan, CIA, Karzai administration, Mohammed Zia Salehi, The New York Times, United States, anti-corruption_
+_Context: Afghanistan, CIA, Karzai administration, Mohammed Zia Salehi, The New York Times, U.S., anti-corruption_
 
 ### [Ahmad Vahidi, Iran's Minister of Defense, offers military assistance to Lebanon following a request from Hezbollah. ](/news/2010/08/26/ahmad-vahidi-iran-s-minister-of-defense-offers-military-assistance-to-lebanon-following-a-request-from-hezbollah.md)
 Iran’s Defense Minister Ahmad Vahidi said Iran was ready to offer military aid to Lebanon on Wednesday, after a call for Tehran’s help from the leader of Hizbullah. 

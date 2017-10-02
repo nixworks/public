@@ -40,7 +40,7 @@ Vietnam will sign an agreement with the kingdom of Saudi Arabia to encourage Sau
 Three medical workers among nine arrested for allegedly plotting to kill Helmand governor.
 
 ### [The death toll in clashes between anti-government protesters and Thai troops in the capital Bangkok rises to at least 20 people. ](/news/2010/04/11/the-death-toll-in-clashes-between-anti-government-protesters-and-thai-troops-in-the-capital-bangkok-rises-to-at-least-20-people.md)
-_Context: 2010 Thai political protests, Bangkok, Thai, red shirt_
+_Context: 2010 Thai political protests, Bangkok, Thailand, red shirt_
 
 ### [Two Chinese singers become the country's first to be punished for lip-synching nearly two years after the Beijing Olympiad. ](/news/2010/04/11/two-chinese-singers-become-the-country-s-first-to-be-punished-for-lip-synching-nearly-two-years-after-the-beijing-olympiad.md)
 _Context: 2008 Summer Olympics, China, lip-synching_

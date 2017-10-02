@@ -10,7 +10,7 @@ _Context: Deputy Prime Minister, Malaysia, Malaysian Prime Minister, Najib Tun R
 _Context: France, French police, NATO, Strasbourg, protest, summit_
 
 ### [ Four soldiers die as Thailand's Army and Cambodia's Army exchange gunfire near the Preah Vihear Temple. ](/news/2009/04/3/four-soldiers-die-as-thailand-s-army-and-cambodia-s-army-exchange-gunfire-near-the-preah-vihear-temple.md)
-_Context: Army, Cambodia, Preah Vihear Temple, Royal Thai Army, Thai, exchange gunfire, soldier_
+_Context: Army, Cambodia, Preah Vihear Temple, Royal Thai Army, Thailand, exchange gunfire, soldier_
 
 ### [ The U.S. state of Iowa's Supreme Court legalizes same-sex marriage. ](/news/2009/04/3/the-u-s-state-of-iowa-s-supreme-court-legalizes-same-sex-marriage.md)
 _Context: Iowa, Iowa Supreme Court, U.S. state, legalizes, same-sex marriage_

@@ -1,7 +1,7 @@
 ## [2007-11-30](/news/2007/11/30/index.md)
 
 ### [ Colombian authorities release seized videos of 16 hostages being held by the FARC rebel group; these include former senator and presidential candidate ngrid Betancourt, last heard from in 2002, and three U.S. defence contractors abducted in 2003. ](/news/2007/11/30/colombian-authorities-release-seized-videos-of-16-hostages-being-held-by-the-farc-rebel-group-these-include-former-senator-and-presidentia.md)
-_Context: Colombia, FARC, Ingrid Betancourt, United States_
+_Context: Colombia, FARC, Ingrid Betancourt, U.S._
 
 ### [ The Miami-Dade Police Department arrests four people in relation to the killing of Washington Redskins player Sean Taylor. ](/news/2007/11/30/the-miami-dade-police-department-arrests-four-people-in-relation-to-the-killing-of-washington-redskins-player-sean-taylor.md)
 Get the latest breaking news across the U.S. on ABCNews.com

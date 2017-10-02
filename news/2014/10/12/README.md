@@ -1,7 +1,7 @@
 ## [2014-10-12](/news/2014/10/12/index.md)
 
 ### [Islamic State claims responsibility for a triple suicide bombing in Iraq's Diyala Province that killed 26 Kurds as well as an attack in Anbar Province that killed the head of security. ](/news/2014/10/12/islamic-state-claims-responsibility-for-a-triple-suicide-bombing-in-iraq-s-diyala-province-that-killed-26-kurds-as-well-as-an-attack-in-anba.md)
-_Context: Anbar province, Diyala Province, ISIL, Iraq, Kurdish, suicide bombing_
+_Context: Anbar province, Diyala Province, Iraq, Islamic State, Kurdish, suicide bombing_
 
 ### [At least 21 people die in Libyan tribal clashes on the weekend. ](/news/2014/10/12/at-least-21-people-die-in-libyan-tribal-clashes-on-the-weekend.md)
 _Context: Libya, Post-civil war violence in Libya_

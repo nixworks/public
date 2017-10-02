@@ -40,7 +40,7 @@ _Context: Lai Chau Province, Vietnam_
 A prominent New York real estate developer and socialite told investigators he has no idea who shot him at his expansive Long Island estate, police said.
 
 ### [Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md)
-_Context: Thai, Yingluck Shinawatra_
+_Context: Thailand, Yingluck Shinawatra_
 
 ### [The government of Egypt resign "en masse", allowing Abdel Fattah al-Sisi to run for President. ](/news/2014/02/24/the-government-of-egypt-resign-en-masse-allowing-abdel-fattah-al-sisi-to-run-for-president.md)
 _Context: Abdel Fattah al-Sisi, Egypt_

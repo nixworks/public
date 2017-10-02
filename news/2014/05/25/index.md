@@ -1,13 +1,13 @@
 ## [2014-05-25](/news/2014/05/25/index.md)
 
 ### [The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/the-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md)
-_Context: Sanaa, Yemeni, al-Qaeda_
+_Context: Sana'a, Yemeni, al-Qaeda_
 
 ### [3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md)
 _Context: Homs, Syria_
 
 ### [3 Spanish airmen are injured in a grenade attack in Djibouti. ](/news/2014/05/25/3-spanish-airmen-are-injured-in-a-grenade-attack-in-djibouti.md)
-_Context: Djibouti, Spain_
+_Context: Djibouti, Spanish_
 
 ### [Heavy flooding in Guangdong, China, leaves 15 people dead and 5 more missing. ](/news/2014/05/25/heavy-flooding-in-guangdong-china-leaves-15-people-dead-and-5-more-missing.md)
 The rainstorms, stated to be once-in-a-century phenomenon, slashed Guangzhou, Zhaoqing and Qingyuan cities and caused floods, house collapses and mud flows.

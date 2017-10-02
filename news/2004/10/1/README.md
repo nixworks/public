@@ -28,7 +28,7 @@ _Context: Beit Hanoun, Beit Lahiya, Gaza, Israel, Israeli Defence Forces, Israel
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Same-sex marriage debates: The cabinet of Spanish Prime Minister Jos Luis Rodrguez Zapatero approves a bill to legalize same-sex marriage; the government believes that the bill will pass the full parliament. ](/news/2004/10/1/same-sex-marriage-debates-the-cabinet-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-approves-a-bill-to-legalize-same-sex-marriage.md)
-_Context: Jos Luis Rodrguez Zapatero, Spain, forming a government, same-sex marriage, same-sex marriage_
+_Context: Jos Luis Rodrguez Zapatero, Spanish, forming a government, same-sex marriage, same-sex marriage_
 
 ## [Previous Day...](/news/2004/09/30/index.md)
 
