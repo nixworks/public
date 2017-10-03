@@ -1,6 +1,6 @@
 ### [2017-10-1](/news/2017/10/1/index.md)
 
-# The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving 10's of thousands of passengers stranded. 
+# The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. 
 
 
 

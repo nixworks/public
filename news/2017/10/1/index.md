@@ -15,7 +15,7 @@ The Islamic State group on Sunday seized a town in central Syria known as a symb
 ### [A gunman opens fire in Las Vegas, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 2 people dead and 26 others injuried. Authorities believe the lone gunman is dead. ](/news/2017/10/1/a-gunman-opens-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-outdoor-conce.md)
 In addition to the two fatalities, hospital officials said at least 24 people had been wounded after a gunman opened fire at a country music concert.
 
-### [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving 10's of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md)
+### [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md)
 _Context: Monarch Airlines, United Kingdom, bankruptcy_
 
 ### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
