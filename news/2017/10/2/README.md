@@ -24,8 +24,5 @@ Russian blogger turned opposition figure Aleksey Navalny has been found guilty o
 ### [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md)
 _Context: Governor General of Canada, Julie Payette, Justin Trudeau, Politics of Canada, Prime Minister of Canada_
 
-### [In the Catalan independence referendum, 90% voted in favor independence from Spain. Political clashes ensue as voters were violently dragged out of precincts as shown on video. ](/news/2017/10/2/in-the-catalan-independence-referendum-90-voted-in-favor-independence-from-spain-political-clashes-ensue-as-voters-were-violently-dragged.md)
-_Context: Catalan independence referendum, Politics of Spain, Spain_
-
 ## [Previous Day...](/news/2017/10/1/index.md)
 

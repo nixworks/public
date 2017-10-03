@@ -1,5 +1,8 @@
 ## [News](/news/2017/10/3/index.md)
 
+### [Pro-separatist trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 referendum. ](/news/2017/10/3/pro-separatist-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octob.md)
+A general strike in Catalonia on Tuesday will likely bring much of the wealthy Spanish region to a standstill.
+
 ### [The Nobel Committee will announce which scientist has won the Nobel Prize in Physics later today at 11:45 UTC. ](/news/2017/10/3/the-nobel-committee-will-announce-which-scientist-has-won-the-nobel-prize-in-physics-later-today-at-11-45-utc.md)
 _Context: Nobel Committee, Nobel Prize, Nobel Prize in Physics_
 
@@ -34,9 +37,6 @@ Russian blogger turned opposition figure Aleksey Navalny has been found guilty o
 
 ### [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md)
 _Context: Governor General of Canada, Julie Payette, Justin Trudeau, Politics of Canada, Prime Minister of Canada_
-
-### [In the Catalan independence referendum, 90% voted in favor independence from Spain. Political clashes ensue as voters were violently dragged out of precincts as shown on video. ](/news/2017/10/2/in-the-catalan-independence-referendum-90-voted-in-favor-independence-from-spain-political-clashes-ensue-as-voters-were-violently-dragged.md)
-_Context: Catalan independence referendum, Politics of Spain, Spain_
 
 ---
 

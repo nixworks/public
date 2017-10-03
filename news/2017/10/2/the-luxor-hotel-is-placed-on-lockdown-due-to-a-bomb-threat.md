@@ -7,15 +7,16 @@ A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, L
 
 ### Source:
 
-1. [CBS News](https://www.cbsnews.com/news/las-vegas-shooting-isis-claim-no-proof-stephen-paddock-linked-terror-group/)
-2. [CNBC](https://www.cnbc.com/2017/10/02/las-vegas-gunman-suspect-is-stephen-paddock-64-of-mesquite.html)
-3. [Express](http://www.express.co.uk/news/world/861169/las-vegas-shooting-mandalay-bay-resort-luxor-hotel-bomb-threat)
-4. [Fox News](http://www.foxnews.com/entertainment/2017/10/02/top-cbs-lawyer-no-sympathy-for-vegas-vics-probably-republicans.html)
-5. [The Guardian](https://www.theguardian.com/us-news/live/2017/oct/02/las-vegas-two-dead-in-mandalay-bay-casino-shooting-latest-updates)
-6. [The Hill](http://thehill.com/homenews/media/353495-cbs-executive-fired-after-saying-las-vegas-victims-didnt-deserve-sympathy)
-7. [The New York Times](https://www.nytimes.com/2017/10/02/us/las-vegas-shooting.html)
-8. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/10/02/police-shut-down-part-of-las-vegas-strip-due-to-shooting/)
-8. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/750x445/861169.jpg)
+1. [ABC News](http://abcnews.go.com/US/guns-loaded-high-capacity-magazines-found-vegas-shooters/story?id=50228093)
+2. [CBS News](https://www.cbsnews.com/news/las-vegas-shooting-isis-claim-no-proof-stephen-paddock-linked-terror-group/)
+3. [CNBC](https://www.cnbc.com/2017/10/02/las-vegas-gunman-suspect-is-stephen-paddock-64-of-mesquite.html)
+4. [Express](http://www.express.co.uk/news/world/861169/las-vegas-shooting-mandalay-bay-resort-luxor-hotel-bomb-threat)
+5. [Fox News](http://www.foxnews.com/entertainment/2017/10/02/top-cbs-lawyer-no-sympathy-for-vegas-vics-probably-republicans.html)
+6. [The Guardian](https://www.theguardian.com/us-news/live/2017/oct/02/las-vegas-two-dead-in-mandalay-bay-casino-shooting-latest-updates)
+7. [The Hill](http://thehill.com/homenews/media/353495-cbs-executive-fired-after-saying-las-vegas-victims-didnt-deserve-sympathy)
+8. [The New York Times](https://www.nytimes.com/2017/10/02/us/las-vegas-shooting.html)
+9. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/10/02/police-shut-down-part-of-las-vegas-strip-due-to-shooting/)
+9. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/750x445/861169.jpg)
 
 ### Related:
 
