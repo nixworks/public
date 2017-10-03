@@ -1,7 +1,7 @@
 ## [News](/news/2017/10/3/index.md)
 
-### [The Nobel Prize committee will announce which scientist has won the Nobel Prize in Physics. ](/news/2017/10/3/the-nobel-prize-committee-will-announce-which-scientist-has-won-the-nobel-prize-in-physics.md)
-_Context: Nobel Prize in Physics_
+### [The Nobel Committee will announce which scientist has won the Nobel Prize in Physics later today at 11:45 UTC. ](/news/2017/10/3/the-nobel-committee-will-announce-which-scientist-has-won-the-nobel-prize-in-physics-later-today-at-11-45-utc.md)
+_Context: Nobel Committee, Nobel Prize, Nobel Prize in Physics_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -17,8 +17,8 @@ A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, L
 ### [Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. ](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.md)
 Two suicide bombers attacked a police station in Damascus on Monday, killing a number of civilians and policemen, the interior minister said, in the first such attack in the Syrian capital since July.
 
-### [After suffering a cardiac arrest in his Malibu home, American singer and songwriter Tom Petty is reportedly clinging to life at the UCLA Medical Center, in Santa Monica, California, after initial reports that he had died. ](/news/2017/10/2/after-suffering-a-cardiac-arrest-in-his-malibu-home-american-singer-and-songwriter-tom-petty-is-reportedly-clinging-to-life-at-the-ucla-med.md)
-U.S. rocker Tom Petty was reported on Monday to be clinging to life in a southern California hospital after conflicting reports that he had died.
+### [After suffering a cardiac arrest in his Malibu, California home, American singer and songwriter Tom Petty dies at the UCLA Medical Center in Santa Monica, California. ](/news/2017/10/2/after-suffering-a-cardiac-arrest-in-his-malibu-california-home-american-singer-and-songwriter-tom-petty-dies-at-the-ucla-medical-center-in.md)
+Tom Petty, the dynamic Hall of Fame frontman who led the Heartbreakers, has died at age 66 after suffering cardiac arrest.
 
 ### [The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.md)
 Scientists share prize awarded for discoveries of molecular mechanisms controlling circadian rhythms – the body’s inner clock – fundamental to human health
@@ -32,8 +32,8 @@ Russian blogger turned opposition figure Aleksey Navalny has been found guilty o
 ### [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md)
 _Context: Governor General of Canada, Julie Payette, Justin Trudeau, Politics of Canada, Prime Minister of Canada_
 
-### [Catalonia referendum: 90% voted for independence from Spain. Political clashes ensue as voters were violently get dragged out of precincts as seen on video.](/news/2017/10/2/catalonia-referendum-90-voted-for-independence-from-spain-political-clashes-ensue-as-voters-were-violently-get-dragged-out-of-precincts-a.md)
-_Context: Catalonia, Politics of Spain, Spain_
+### [In the Catalan independence referendum, 90% voted in favor independence from Spain. Political clashes ensue as voters were violently dragged out of precincts as shown on video. ](/news/2017/10/2/in-the-catalan-independence-referendum-90-voted-in-favor-independence-from-spain-political-clashes-ensue-as-voters-were-violently-dragged.md)
+_Context: Catalan independence referendum, Politics of Spain, Spain_
 
 ---
 
