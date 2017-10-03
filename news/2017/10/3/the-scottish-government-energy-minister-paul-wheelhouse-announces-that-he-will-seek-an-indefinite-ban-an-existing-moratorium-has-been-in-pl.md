@@ -1,6 +1,6 @@
 ### [2017-10-3](/news/2017/10/3/index.md)
 
-# The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the use of the process of hydraulic fracturing. 
+# The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the process of hydraulic fracturing. 
 
 Energy minister Paul Wheelhouse tells MSPs that fracking &quot;cannot and will not take place in Scotland&quot;.
 
