@@ -20,7 +20,7 @@ A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, L
 ### [Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. ](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.md)
 Two suicide bombers attacked a police station in Damascus on Monday, killing a number of civilians and policemen, the interior minister said, in the first such attack in the Syrian capital since July.
 
-### [After suffering a cardiac arrest in his Malibu, California home, American singer and songwriter Tom Petty dies at the UCLA Medical Center in Santa Monica, California. ](/news/2017/10/2/after-suffering-a-cardiac-arrest-in-his-malibu-california-home-american-singer-and-songwriter-tom-petty-dies-at-the-ucla-medical-center-in.md)
+### [After suffering a cardiac arrest in his Malibu, California home, American singer and songwriter Tom Petty dies at the UCLA Medical Center in Santa Monica, California at the age of 66. ](/news/2017/10/2/after-suffering-a-cardiac-arrest-in-his-malibu-california-home-american-singer-and-songwriter-tom-petty-dies-at-the-ucla-medical-center-in.md)
 Tom Petty, the dynamic Hall of Fame frontman who led the Heartbreakers, has died at age 66 after suffering cardiac arrest.
 
 ### [The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.md)
@@ -34,6 +34,9 @@ _Context: Donald Trump, Oval Office, Prayut Chan-o-cha, Thai Prime Minister, Tha
 
 ### [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public events, meetings, protests. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.md)
 Russian blogger turned opposition figure Aleksey Navalny has been found guilty of repeatedly violating the law by organizing unauthorized public events, meetings or protests. He is now to be placed under administrative arrest for 20 days.
+
+### [Ecuador's Supreme Court orders that Vice President Jorge Glas be jailed for his alleged acceptance of bribes from the Odebrecht construction company. Prior to this, Glas had been free but barred from leaving the country. ](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.md)
+ QUITO, Ecuador (AP) — Ecuador&#39;s Vice President Jorge Glas was jailed Monday after the Supreme Court ordered his arrest while he is investigated for allegedly taking bribes from a 
 
 ### [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md)
 _Context: Governor General of Canada, Julie Payette, Justin Trudeau, Politics of Canada, Prime Minister of Canada_
