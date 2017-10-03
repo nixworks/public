@@ -24,8 +24,8 @@ Russian blogger turned opposition figure Aleksey Navalny has been found guilty o
 ### [Ecuador's Supreme Court orders that Vice President Jorge Glas be jailed for his alleged acceptance of bribes from the Odebrecht construction company. Prior to this, Glas had been free but barred from leaving the country. ](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.md)
  QUITO, Ecuador (AP) — Ecuador&#39;s Vice President Jorge Glas was jailed Monday after the Supreme Court ordered his arrest while he is investigated for allegedly taking bribes from a 
 
-### [Two Women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank.md)
-_Context: Assassination of Kim Jong-nam, Kim Jong-nam, Malaysia_
+### [Two Women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. He was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-he-wa.md)
+_Context: Assassination of Kim Jong-nam, Kim Jong-il, Kim Jong-nam, Kim Jong-un, Malaysia, North Korea_
 
 ### [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md)
 _Context: Governor General of Canada, Julie Payette, Justin Trudeau, Politics of Canada, Prime Minister of Canada_
