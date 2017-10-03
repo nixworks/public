@@ -9,7 +9,7 @@ _Context: Somali pirates, Somalian, United Nations, child soldiers_
 ### [Somali pirates hijack a vessel under the flag of the Comoros Islands with 29 people on board off the coast of Tanzania. ](/news/2010/11/4/somali-pirates-hijack-a-vessel-under-the-flag-of-the-comoros-islands-with-29-people-on-board-off-the-coast-of-tanzania.md)
 _Context: Comoros Islands, Tanzania_
 
-### [Two men are charged with terrorism following parcel bomb attacks in Greece, as a 14<sup>th</sup> bomb addressed to the French embassy in Athens is detonated by police. ](/news/2010/11/4/two-men-are-charged-with-terrorism-following-parcel-bomb-attacks-in-greece-as-a-14th-bomb-addressed-to-the-french-embassy-in-athens-is-deto.md)
+### [Two men are charged with terrorism following parcel bomb attacks in Greece, as a 14 th bomb addressed to the French embassy in Athens is detonated by police. ](/news/2010/11/4/two-men-are-charged-with-terrorism-following-parcel-bomb-attacks-in-greece-as-a-14-th-bomb-addressed-to-the-french-embassy-in-athens-is-det.md)
 Police in Athens destroy a letter bomb sent to the French embassy, the 14th suspect device found in Greece this week.
 
 ### [Several Sudanese police are killed in a battle with rebel Justice and Equality Movement fighters in Darfur. The Sudanese government claims that the rebels sustained heavy casualties. ](/news/2010/11/4/several-sudanese-police-are-killed-in-a-battle-with-rebel-justice-and-equality-movement-fighters-in-darfur-the-sudanese-government-claims-t.md)

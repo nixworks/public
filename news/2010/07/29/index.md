@@ -3,7 +3,7 @@
 ### [The SITE Institute, a terrorist-monitoring organisation, states that the al-Qaeda affiliated Islamic State of Iraq has claimed responsibility for a deadly attack on the offices of Al-Arabiya Television in Baghdad that killed four people and injured at least 10. ](/news/2010/07/29/the-site-institute-a-terrorist-monitoring-organisation-states-that-the-al-qaeda-affiliated-islamic-state-of-iraq-has-claimed-responsibilit.md)
 _Context: Al Arabiya, Baghdad, Islamic State of Iraq, SITE Institute, al-Qaeda, terrorist_
 
-### [An investigation is launched into the unexplained damage suffered by the Japanese oil tanker M/V "M. STAR" in the Strait of Hormuz near Oman. ](/news/2010/07/29/an-investigation-is-launched-into-the-unexplained-damage-suffered-by-the-japanese-oil-tanker-m-v-m-star-in-the-strait-of-hormuz-near-oman.md)
+### [An investigation is launched into the unexplained damage suffered by the Japanese oil tanker M-V "M. STAR" in the Strait of Hormuz near Oman. ](/news/2010/07/29/an-investigation-is-launched-into-the-unexplained-damage-suffered-by-the-japanese-oil-tanker-m-v-m-star-in-the-strait-of-hormuz-near-oman.md)
 Officials investigate damage to a Japanese oil tanker in the Strait of Hormuz, amid reports of a collision or an attack.
 
 ### [U.S. talk-show host Ellen DeGeneres announces that she is leaving the "American Idol" television show after one year as a judge. ](/news/2010/07/29/u-s-talk-show-host-ellen-degeneres-announces-that-she-is-leaving-the-american-idol-television-show-after-one-year-as-a-judge.md)

@@ -1,6 +1,6 @@
 ### [2003-12-18](/news/2003/12/18/index.md)
 
-#  Prosecutors in California charge singer Michael Jackson with seven counts of child molestation and schedule hearings for January 16, 2004. [http://news.bbc.co.uk/1/hi/entertainment/showbiz/3323237.stm]
+#  Prosecutors in California charge singer Michael Jackson with seven counts of child molestation and schedule hearings for January 16, 2004. [http:--news.bbc.co.uk-1-hi-entertainment-showbiz-3323237.stm]
 
 
 
@@ -12,8 +12,3 @@
 3. [A California judge refuses to suspend the medical licence of Conrad Murray, the doctor charged in connection with Michael Jackson's death. ](/news/2010/06/14/a-california-judge-refuses-to-suspend-the-medical-licence-of-conrad-murray-the-doctor-charged-in-connection-with-michael-jackson-s-death.md) _Context: California, Michael Jackson_
 4. [ A public memorial for Michael Jackson takes place at the Staples Center in Los Angeles, California, with over 17,000 viewing in Los Angeles, and millions more viewing around the world. ](/news/2009/07/7/a-public-memorial-for-michael-jackson-takes-place-at-the-staples-center-in-los-angeles-california-with-over-17-000-viewing-in-los-angeles.md) _Context: California, Michael Jackson_
 5. [ The King of Pop Michael Jackson dies from cardiac arrest at the age of 50 after arrival at the UCLA Medical Center in Los Angeles, California. ](/news/2009/06/25/the-king-of-pop-michael-jackson-dies-from-cardiac-arrest-at-the-age-of-50-after-arrival-at-the-ucla-medical-center-in-los-angeles-californ.md) _Context: California, Michael Jackson_
-6. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: California_
-7. [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md) _Context: California_
-8. [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md) _Context: California_
-9. [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md) _Context: California_
-10. [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of their immigration status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.md) _Context: California_

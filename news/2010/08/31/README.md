@@ -10,7 +10,7 @@ Six women and two men have been killed in an attack on a bar in the Mexican reso
 Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank shooting attack Tuesday evening; pregnant woman apparently among victims, officials say. Security forces nationwide ordered to go on high alert 
 
 ### [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md)
-_Context: Afghanistan, U.S., United States military personnel, bomb_
+_Context: Afghanistan, Americans, United States military personnel, bomb_
 
 ### [An explosion occurs outside the head office of a government-run television station in Bangkok, Thailand. ](/news/2010/08/31/an-explosion-occurs-outside-the-head-office-of-a-government-run-television-station-in-bangkok-thailand.md)
 _Context: Bangkok, Thailand_
@@ -39,7 +39,7 @@ An unknown assailant threw two fire bombs at the Russian embassy in Minsk late o
 ### [Iran's foreign ministry criticises state media for branding French first lady Carla Bruni as a "prostitute" over her support for Sakineh Mohammadi Ashtiani who faces death by stoning after being convicted of adultery. ](/news/2010/08/31/iran-s-foreign-ministry-criticises-state-media-for-branding-french-first-lady-carla-bruni-as-a-prostitute-over-her-support-for-sakineh-moh.md)
 _Context: Carla Bruni, France, Iran, Sakineh Mohammadi Ashtiani, adultery, stoning_
 
-### [Following an Israeli-course on editing Wikipedia to further a national agenda, a Palestinian group initiates a plan to establish its view on the encyclopaedia.[http://www.israelnationalnews.com/News/News.aspx/139189][http://www.ynetnews.com/articles/0,7340,L-3944937,00.html]](/news/2010/08/31/following-an-israeli-course-on-editing-wikipedia-to-further-a-national-agenda-a-palestinian-group-initiates-a-plan-to-establish-its-view-on.md)
+### [Following an Israeli-course on editing Wikipedia to further a national agenda, a Palestinian group initiates a plan to establish its view on the encyclopaedia.[http:--www.israelnationalnews.com-News-News.aspx-139189][http:--www.ynetnews.com-articles-0,7340,L-3944937,00.html]](/news/2010/08/31/following-an-israeli-course-on-editing-wikipedia-to-further-a-national-agenda-a-palestinian-group-initiates-a-plan-to-establish-its-view-on.md)
 _Context: Wikipedia, editing_
 
 ### [The Danish-based Kurdish TV station Roj TV faces terror charges for supporting PKK. ](/news/2010/08/31/the-danish-based-kurdish-tv-station-roj-tv-faces-terror-charges-for-supporting-pkk.md)

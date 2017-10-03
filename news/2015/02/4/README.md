@@ -21,11 +21,11 @@ _Context: China, Ling Jihua, Mao Xiaofeng, Minsheng Banking Corporation_
 ### [A TransAsia Airways ATR 72 turboprop aircraft with 58 people on board en route from the Taiwanese capital Taipei to Kinmen, Taiwan crashes into the Keelung River near Taipei just after liftoff killing at least 31 people with several injures and missing. ](/news/2015/02/4/a-transasia-airways-atr-72-turboprop-aircraft-with-58-people-on-board-en-route-from-the-taiwanese-capital-taipei-to-kinmen-taiwan-crashes-i.md)
 A TransAsia Airways Corp. turboprop plane crashed into a river near Taipei moments after taking off, killing at least 25 of the 58 people on board in the second fatal accident in less than a year for the Taiwanese airline.
 
-### [100 km/h winds spark a scrub fire near the Christchurch suburb of Hornby in New Zealand destroying two homes with several others damaged. ](/news/2015/02/4/100-km-h-winds-spark-a-scrub-fire-near-the-christchurch-suburb-of-hornby-in-new-zealand-destroying-two-homes-with-several-others-damaged.md)
+### [100 km-h winds spark a scrub fire near the Christchurch suburb of Hornby in New Zealand destroying two homes with several others damaged. ](/news/2015/02/4/100-km-h-winds-spark-a-scrub-fire-near-the-christchurch-suburb-of-hornby-in-new-zealand-destroying-two-homes-with-several-others-damaged.md)
 At least five homes are damaged and 20 ha of land razed as fire swept through rural Christchurch.
 
 ### [A Manhattan federal court convicts Ross Ulbricht, aka "Dread Pirate Roberts", the owner of the Silk Road Deep Web illicit products website, on seven charges including trafficking and money laundering in the United States. ](/news/2015/02/4/a-manhattan-federal-court-convicts-ross-ulbricht-aka-dread-pirate-roberts-the-owner-of-the-silk-road-deep-web-illicit-products-website.md)
-_Context: Deep Web, Manhattan, Silk Road, U.S., anti-drug plan, money laundering_
+_Context: Americans, Deep Web, Manhattan, Silk Road, anti-drug plan, money laundering_
 
 ### [The Catholic Bishops Conference of the Philippines says that it will not join growing calls for the impeachment and resignation of Philippines President Benigno Aquino III following the January 25 botched police operation. ](/news/2015/02/4/the-catholic-bishops-conference-of-the-philippines-says-that-it-will-not-join-growing-calls-for-the-impeachment-and-resignation-of-philippin.md)
 Anti-Aquino sentiment gathers momentum in the wake of a bungled police raid that killed scores 

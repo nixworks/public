@@ -7,7 +7,7 @@ _Context: Sana'a, Yemeni, al-Qaeda_
 _Context: Homs, Syria_
 
 ### [3 Spanish airmen are injured in a grenade attack in Djibouti. ](/news/2014/05/25/3-spanish-airmen-are-injured-in-a-grenade-attack-in-djibouti.md)
-_Context: Djibouti, Spanish_
+_Context: Djibouti, Spain_
 
 ### [Heavy flooding in Guangdong, China, leaves 15 people dead and 5 more missing. ](/news/2014/05/25/heavy-flooding-in-guangdong-china-leaves-15-people-dead-and-5-more-missing.md)
 The rainstorms, stated to be once-in-a-century phenomenon, slashed Guangzhou, Zhaoqing and Qingyuan cities and caused floods, house collapses and mud flows.

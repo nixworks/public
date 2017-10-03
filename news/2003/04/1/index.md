@@ -27,13 +27,13 @@ _Context: Enix, Square, Square Enix_
 ### [ The award-winning machinima series "Red vs. Blue" makes its online premiere, alongside the founding of Rooster Teeth Productions](/news/2003/04/1/the-award-winning-machinima-series-red-vs-blue-makes-its-online-premiere-alongside-the-founding-of-rooster-teeth-productions.md)
 _Context: Red vs. Blue, Rooster Teeth Productions, machinima_
 
-### [ The Campus Security Department at Queen's University in Kingston, ON Canada reported "'[http://www.queensu.ca/security/archive/themes/april1/2003/april1.html Computer bugs had infected systems throughout the Campus]"'. Reading the report eventually reveals a different twist to the story&nbsp;...](/news/2003/04/1/the-campus-security-department-at-queen-s-university-in-kingston-on-canada-reported-http-www-queensu-ca-security-archive-themes-april.md)
+### [ The Campus Security Department at Queen's University in Kingston, ON Canada reported "'[http:--www.queensu.ca-security-archive-themes-april1-2003-april1.html Computer bugs had infected systems throughout the Campus]"'. Reading the report eventually reveals a different twist to the story&nbsp;...](/news/2003/04/1/the-campus-security-department-at-queen-s-university-in-kingston-on-canada-reported-http-www-queensu-ca-security-archive-themes-april.md)
 _Context: Queen's University_
 
 ### [ Alex McLeish, manager of Scottish football club Rangers announced the signing of seventeen-year-old Turkish player Yardis Alpolfo in a GBP5 million deal. The name is in fact an anagram of "April Fool's Day" but many news sources, including Reuters, reported the story.](/news/2003/04/1/alex-mcleish-manager-of-scottish-football-club-rangers-announced-the-signing-of-seventeen-year-old-turkish-player-yardis-alpolfo-in-a-gbp5.md)
 _Context: Alex McLeish, Rangers F.C., Reuters, Scotland, Turkey, anagram, footballer_
 
-### [ [http://www.locusmag.com/2003/News/News0401a.html#baen Locus Online] carries a fake news story about Baen Books signing deals with Microsoft and Coca-Cola for product placement deals in Baen novels.](/news/2003/04/1/http-www-locusmag-com-2003-news-news0401a-html-baen-locus-online-carries-a-fake-news-story-about-baen-books-signing-deals-with-microsof.md)
+### [ [http:--www.locusmag.com-2003-News-News0401a.html#baen Locus Online] carries a fake news story about Baen Books signing deals with Microsoft and Coca-Cola for product placement deals in Baen novels.](/news/2003/04/1/http-www-locusmag-com-2003-news-news0401a-html-baen-locus-online-carries-a-fake-news-story-about-baen-books-signing-deals-with-microsof.md)
 _Context: Baen Books, Coca-Cola, Microsoft, product placement_
 
 ## [Previous Day...](/news/2003/03/31/index.md)

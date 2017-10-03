@@ -1,6 +1,6 @@
 ## [2014-04-12](/news/2014/04/12/index.md)
 
-### [The Palestinian Authority signs 15 UN/Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-israel-responds-with-sanctions-p.md)
+### [The Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-israel-responds-with-sanctions-p.md)
 Israel sets a tax sanction on the Palestinian Authority in the latest retaliatory step for its signing up to join international treaties.
 
 ### [Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/chemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md)

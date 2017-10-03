@@ -1,6 +1,6 @@
 ### [2005-05-27](/news/2005/05/27/index.md)
 
-#  Popular singer Morrissey's official Website released the following statement: ""Morrissey will regrettably not be appearing at the Isle Of Wight Festival on the 11th of June as scheduled. The pressure of preparing the new album and losing his drummer earlier this month has made it impossible to do the gig without massively compromising both the gig and the album. Apologies to all the fans, the organisers and the people of the Isle Of Wight"."[http://www.morrisseymusic.com/newsitem.asp?id=118]
+#  Popular singer Morrissey's official Website released the following statement: ""Morrissey will regrettably not be appearing at the Isle Of Wight Festival on the 11th of June as scheduled. The pressure of preparing the new album and losing his drummer earlier this month has made it impossible to do the gig without massively compromising both the gig and the album. Apologies to all the fans, the organisers and the people of the Isle Of Wight"."[http:--www.morrisseymusic.com-newsitem.asp?id=118]
 
 
 

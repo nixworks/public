@@ -21,7 +21,7 @@ Asian markets rose Thursday morning, after the Dow Jones industrial average clos
 ### [ Korean founder and leader of the worldwide Unification Church, Sun Myung Moon, holds a mass wedding ceremony for some 1,000 couples near Seoul. ](/news/2009/10/14/korean-founder-and-leader-of-the-worldwide-unification-church-sun-myung-moon-holds-a-mass-wedding-ceremony-for-some-1-000-couples-near-se.md)
 ASAN, South Korea (Reuters Life!) - The founder of the Unification Church, Sun Myung Moon, held his first mass wedding ceremony in years on Wednesday, blessi
 
-### [ Tim Berners-Lee issues an apology for the unnecessary "//" in URLs he designed for the World Wide Web. ](/news/2009/10/14/tim-berners-lee-issues-an-apology-for-the-unnecessary-in-urls-he-designed-for-the-world-wide-web.md)
+### [ Tim Berners-Lee issues an apology for the unnecessary "--" in URLs he designed for the World Wide Web. ](/news/2009/10/14/tim-berners-lee-issues-an-apology-for-the-unnecessary-in-urls-he-designed-for-the-world-wide-web.md)
 Sir Tim Berners-Lee, the British scientist who created the World Wide Web, has admitted his decision to include two forward slashes in internet addresses was a mistake.
 
 ### [ A Zimbabwean court orders a senior MDC official, Roy Bennett, back to jail on terrorism charges. ](/news/2009/10/14/a-zimbabwean-court-orders-a-senior-mdc-official-roy-bennett-back-to-jail-on-terrorism-charges.md)

@@ -36,7 +36,7 @@ _Context: Federal Investigation Agency, Lahore, Pakistani Taliban, car bomb_
 ### [12 people &mdash; 10 civilian passengers and 2 policemen &mdash; die in two separate roadside bombs in Badghis Province, Afghanistan. ](/news/2010/03/8/12-people-mdash-10-civilian-passengers-and-2-policemen-mdash-die-in-two-separate-roadside-bombs-in-badghis-province-afghanistan.md)
 Two homemade bombs exploding in quick succession killed 12 people, including 10 civilians, in an increasingly volatile part of northwestern Afghanistan, police said on Monday.
 
-### [Parliament approves President of Iran Mahmoud Ahmadinejad's budget for 2010/11. ](/news/2010/03/8/parliament-approves-president-of-iran-mahmoud-ahmadinejad-s-budget-for-2010-11.md)
+### [Parliament approves President of Iran Mahmoud Ahmadinejad's budget for 2010-11. ](/news/2010/03/8/parliament-approves-president-of-iran-mahmoud-ahmadinejad-s-budget-for-2010-11.md)
 _Context: Mahmoud Ahmadinejad, President_
 
 ### [Togolese police fire tear gas at street protesters who dispute Faure Gnassingbe's presidential election triumph. ](/news/2010/03/8/togolese-police-fire-tear-gas-at-street-protesters-who-dispute-faure-gnassingba-c-s-presidential-election-triumph.md)
@@ -60,7 +60,7 @@ Scotland&rsquo;s notoriously bad weather appears to be behind why more of the co
 ### [Tibet Governor Padma Choling announces to the National People's Congress that China will decide Tenzin Gyatso's reincarnation as Dalai Lama. ](/news/2010/03/8/tibet-governor-padma-choling-announces-to-the-national-people-s-congress-that-china-will-decide-tenzin-gyatso-s-reincarnation-as-dalai-lama.md)
 The Chinese government says that it will have the final say, rather than the Dalai Lama, on who succeeds him as Tibet&#039;s spiritual leader.
 
-### [Plans by the Scottish Maritime Museum (SMM) to scrap "City of Adelaide"/HMS "Carrick", one of the world's oldest clippers built in Sunderland in 1864, are postponed in the hope that enough money can be raised to send her to Australia. ](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scrap-city-of-adelaide-hms-carrick-one-of-the-world-s-oldest-clippers-built-in-sunderlan.md)
+### [Plans by the Scottish Maritime Museum (SMM) to scrap "City of Adelaide"-HMS "Carrick", one of the world's oldest clippers built in Sunderland in 1864, are postponed in the hope that enough money can be raised to send her to Australia. ](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scrap-city-of-adelaide-hms-carrick-one-of-the-world-s-oldest-clippers-built-in-sunderlan.md)
 _Context: ''City of Adelaide''/HMS ''Carrick'', Australia, Scottish Maritime Museum, Sunderland, clipper_
 
 ## [Previous Day...](/news/2010/03/7/index.md)

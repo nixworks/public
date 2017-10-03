@@ -25,7 +25,7 @@ _Context: China, Fujian, Guangdong, Guangxi Zhuang, Hainan, Taiwan, Typhoon Chab
 The official death toll from the natural-gas-line explosion in a Bay Area suburb stands at four people, with 38 homes destroyed, as authorities investigate what caused the blast.
 
 ### [An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md)
-_Context: Iran, Sarah Shourd, U.S., United Nations, diplomat_
+_Context: Americans, Iran, Sarah Shourd, United Nations, diplomat_
 
 ### [Susilo Bambang Yudhoyono, the President of Indonesia, and Asif Ali Zardari, the President of Pakistan, call on President of the United States, Barack Obama, to stop International Burn a Koran Day being organised by the Dove World Outreach Center. ](/news/2010/09/9/susilo-bambang-yudhoyono-the-president-of-indonesia-and-asif-ali-zardari-the-president-of-pakistan-call-on-president-of-the-united-state.md)
 Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the Koran on the ninth anniversary of September 11 as a &ldquo;recruitment bonanza for al-Qaeda&rdquo;, as outrage has built across the Islam world.

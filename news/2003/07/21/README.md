@@ -1,6 +1,6 @@
 ## [2003-07-21](/news/2003/07/21/index.md)
 
-### [ [http://www.npr.org npr.org]'s "All Things Considered" program aired a humorous article on the [http://discover.npr.org/rundowns/rundown.jhtml?prgDate=07/21/2003&prgId=2 Wiki phenomenon], and on Wikipedia.org.](/news/2003/07/21/http-www-npr-org-npr-org-s-all-things-considered-program-aired-a-humorous-article-on-the-http-discover-npr-org-rundowns-rundown-jh.md)
+### [ [http:--www.npr.org npr.org]'s "All Things Considered" program aired a humorous article on the [http:--discover.npr.org-rundowns-rundown.jhtml?prgDate=07-21-2003&prgId=2 Wiki phenomenon], and on Wikipedia.org.](/news/2003/07/21/http-www-npr-org-npr-org-s-all-things-considered-program-aired-a-humorous-article-on-the-http-discover-npr-org-rundowns-rundown-jh.md)
 _Context: All Things Considered_
 
 ### [ Jong-Wook Lee becomes the new Director-General of the World Health Organization.](/news/2003/07/21/jong-wook-lee-becomes-the-new-director-general-of-the-world-health-organization.md)

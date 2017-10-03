@@ -1,6 +1,6 @@
 ## [2009-06-4](/news/2009/06/4/index.md)
 
-### [ United Kingdom Secretary of State for Work and Pensions James Purnell announces his resignation and requests that Prime Minister Gordon Brown also resign. [http://www.guardian.co.uk/politics/2009/jun/04/james-purnell-resigns-gordon-brown-cabinet "(Guardian)"]](/news/2009/06/4/united-kingdom-secretary-of-state-for-work-and-pensions-james-purnell-announces-his-resignation-and-requests-that-prime-minister-gordon-bro.md)
+### [ United Kingdom Secretary of State for Work and Pensions James Purnell announces his resignation and requests that Prime Minister Gordon Brown also resign. [http:--www.guardian.co.uk-politics-2009-jun-04-james-purnell-resigns-gordon-brown-cabinet "(Guardian)"]](/news/2009/06/4/united-kingdom-secretary-of-state-for-work-and-pensions-james-purnell-announces-his-resignation-and-requests-that-prime-minister-gordon-bro.md)
 _Context: Gordon Brown, James Purnell, Prime Minister, Secretary of State for Work and Pensions, United Kingdom_
 
 ### [ Two laptop computers that contain personal information on Northern Ireland's 30,000 civil servants are stolen from the Department of Finance and Personnel in Belfast. ](/news/2009/06/4/two-laptop-computers-that-contain-personal-information-on-northern-ireland-s-30-000-civil-servants-are-stolen-from-the-department-of-financ.md)
@@ -22,7 +22,7 @@ An inquiry has begun into the security breach which forced the postponement of t
 _Context: Australia, Joel Fitzgibbon, Minister for Defence_
 
 ### [ Linguistic analysis confirms that American astronaut Neil Armstrong did not say the article "a" in the phrase "one small step for a man" when he walked on the Moon on July 20, 1969. ](/news/2009/06/4/linguistic-analysis-confirms-that-american-astronaut-neil-armstrong-did-not-say-the-article-a-in-the-phrase-one-small-step-for-a-man-wh.md)
-_Context: Linguistic analysis, Moon, Neil Armstrong, U.S., article, astronaut, phrase, walked_
+_Context: Americans, Linguistic analysis, Moon, Neil Armstrong, article, astronaut, phrase, walked_
 
 ### [ 150,000 people assemble in Hong Kong, China, to commemorate the 20th anniversary of the massacre in Tiananmen Square on June 4, 1989. ](/news/2009/06/4/150-000-people-assemble-in-hong-kong-china-to-commemorate-the-20th-anniversary-of-the-massacre-in-tiananmen-square-on-june-4-1989.md)
 _Context: China, Hong Kong, Tiananmen Square, Tiananmen Square protests of 1989_

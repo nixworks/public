@@ -20,4 +20,4 @@ At least 19 people are killed in a stampede at the Love Parade dance music festi
 2. [Germany holds a memorial service for the 21 victims of the Love Parade disaster. ](/news/2010/07/31/germany-holds-a-memorial-service-for-the-21-victims-of-the-love-parade-disaster.md) _Context: Love Parade_
 3. [North Rhine-Westphalians party on the autobahn between Duisburg and Dortmund. ](/news/2010/07/18/north-rhine-westphalians-party-on-the-autobahn-between-duisburg-and-dortmund.md) _Context: Duisburg_
 4. [ Six Italians are found shot to death in the town of Duisburg, Germany. Police say they were connected to 'Ndrangheta. ](/news/2007/08/15/six-italians-are-found-shot-to-death-in-the-town-of-duisburg-germany-police-say-they-were-connected-to-ndrangheta.md) _Context: Duisburg_
-5. [ The 7th World Games are being opened in Duisburg/Germany.](/news/2005/07/14/the-7th-world-games-are-being-opened-in-duisburg-germany.md) _Context: Duisburg_
+5. [ The 7th World Games are being opened in Duisburg-Germany.](/news/2005/07/14/the-7th-world-games-are-being-opened-in-duisburg-germany.md) _Context: Duisburg_

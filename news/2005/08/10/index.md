@@ -18,7 +18,7 @@ _Context: African Union, Mauritanian, military junta_
 ### [ Yahoo Inc. is negotiating to pay approx. US$1 billion, plus the transfer of its own China operations, in return for a 35% equity stake in Alibaba.com, China's second-largest e-commerce concern. ](/news/2005/08/10/yahoo-inc-is-negotiating-to-pay-approx-us-1-billion-plus-the-transfer-of-its-own-china-operations-in-return-for-a-35-equity-stake-in-a.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ A private company, Space Adventures, announces plans to create a tourism program to send people around the Moon. A 5 1/2 day lunar flight could happen in 2008 or 2009, and cost about 100 million USD. ](/news/2005/08/10/a-private-company-space-adventures-announces-plans-to-create-a-tourism-program-to-send-people-around-the-moon-a-5-1-2-day-lunar-flight-c.md)
+### [ A private company, Space Adventures, announces plans to create a tourism program to send people around the Moon. A 5 1-2 day lunar flight could happen in 2008 or 2009, and cost about 100 million USD. ](/news/2005/08/10/a-private-company-space-adventures-announces-plans-to-create-a-tourism-program-to-send-people-around-the-moon-a-5-1-2-day-lunar-flight-c.md)
 _Context: Space Adventures, US$_
 
 ### [ The airline catering firm Gate Gourmet sack 670 workers at London's Heathrow Airport, sparking a sympathy strike from British Airways staff. ](/news/2005/08/10/the-airline-catering-firm-gate-gourmet-sack-670-workers-at-london-s-heathrow-airport-sparking-a-sympathy-strike-from-british-airways-staff.md)

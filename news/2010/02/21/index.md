@@ -3,7 +3,7 @@
 ### [Six Abu Sayyaf Islamic militants, including "most wanted" leader Albader Parad, die after coming into contact with troops at the foot of Mount Tucay in Maimbung, Sulu on Jolo in the Philippines. ](/news/2010/02/21/six-abu-sayyaf-islamic-militants-including-most-wanted-leader-albader-parad-die-after-coming-into-contact-with-troops-at-the-foot-of-mou.md)
 Albader Parad said to be among victims of Philippines army operation in Jolo.
 
-### [The venue for an AC/DC concert upsets WWF Austria environmentalists in Wels who fear it will "smash" endangered species. ](/news/2010/02/21/the-venue-for-an-ac-dc-concert-upsets-wwf-austria-environmentalists-in-wels-who-fear-it-will-smash-endangered-species.md)
+### [The venue for an AC-DC concert upsets WWF Austria environmentalists in Wels who fear it will "smash" endangered species. ](/news/2010/02/21/the-venue-for-an-ac-dc-concert-upsets-wwf-austria-environmentalists-in-wels-who-fear-it-will-smash-endangered-species.md)
 AUSTRIAN environmentalists are trying to stop an AC/DC concert from going ahead in the city of Wels as they say it will put rare birds and plants at risk.
 
 ### [Foreign direct investment (FDI) into China rose for the sixth consecutive month in January, up 7.79 percent year-on-year to $8.13 billion, Chinese Ministry of Commerce announced. ](/news/2010/02/21/foreign-direct-investment-fdi-into-china-rose-for-the-sixth-consecutive-month-in-january-up-7-79-percent-year-on-year-to-8-13-billion-c.md)

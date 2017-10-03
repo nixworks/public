@@ -67,10 +67,10 @@ _Context: ASEAN, Fiji, Melanesian Spearhead Group, Pacific Islands Forum, Timor-
 British and Japanese ultranationalists will shrug off protests from war veterans in an unlikely show of solidarity at a controversial Tokyo memorial today, on the 65th anniversary of Japan&#039;s surrender in the Second World War.
 
 ### [Spain extradites Rifat Hadziahmetovic, an alleged member of the Pink Panthers, to Japan in relation to a 2007 jewel robbery in Tokyo. ](/news/2010/08/14/spain-extradites-rifat-hadziahmetovic-an-alleged-member-of-the-pink-panthers-to-japan-in-relation-to-a-2007-jewel-robbery-in-tokyo.md)
-_Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spanish, Tokyo, extradited_
+_Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spain, Tokyo, extradited_
 
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
-_Context: Louis Berger Group, U.S., U.S. Agency for International Development, foreign aid, prosecutor_
+_Context: Americans, Louis Berger Group, U.S. Agency for International Development, foreign aid, prosecutor_
 
 ### [A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. ](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.md)
 Puntland court jails journalist for interviewing Muslim leader with ties to fighters.
@@ -81,7 +81,7 @@ _Context: Kurdistan Workers' Party, Nizamettin Toguc, Turkey, Venice_
 ### [Several political parties in Azerbaijan release a statement criticising the ruling of Baku Yasamal Court against 15 Shia Muslims, arrested in February while practising their religion in Baku. ](/news/2010/08/14/several-political-parties-in-azerbaijan-release-a-statement-criticising-the-ruling-of-baku-yasamal-court-against-15-shia-muslims-arrested-i.md)
 _Context: Azerbaijan, Baku, Shi'ite_
 
-### [The Sudan People's Liberation Army/Movement warns that the independence referendum in Southern Sudan could be delayed unless the country's electoral commission resolves an internal dispute. ](/news/2010/08/14/the-sudan-people-s-liberation-army-movement-warns-that-the-independence-referendum-in-southern-sudan-could-be-delayed-unless-the-country-s-e.md)
+### [The Sudan People's Liberation Army-Movement warns that the independence referendum in Southern Sudan could be delayed unless the country's electoral commission resolves an internal dispute. ](/news/2010/08/14/the-sudan-people-s-liberation-army-movement-warns-that-the-independence-referendum-in-southern-sudan-could-be-delayed-unless-the-country-s-e.md)
 South Sudan party says disputes in electoral body jeopardises independence referendum.
 
 ### [Guido de Marco, former President of Malta, lies in state after his death on Thursday. A state funeral is to be held on Monday. ](/news/2010/08/14/guido-de-marco-former-president-of-malta-lies-in-state-after-his-death-on-thursday-a-state-funeral-is-to-be-held-on-monday.md)

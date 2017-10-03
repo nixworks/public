@@ -45,10 +45,10 @@ Hedge funds and private equity firms had an easier time raising capital in the l
 ### [The Nigerian Minister of Finance announces that the Nigerian National Petroleum Corporation is insolvent, and is asking the government for funds to help pay off debts and continue operations. ](/news/2010/07/13/the-nigerian-minister-of-finance-announces-that-the-nigerian-national-petroleum-corporation-is-insolvent-and-is-asking-the-government-for-f.md)
 _Context: Nigeria, Nigerian National Petroleum Corporation_
 
-### [Joint United Nations Programme on HIV/AIDS figures demonstrate a fall by up to 25 per cent in the prevalence of HIV among young people aged between 15 and 24 in Africa. ](/news/2010/07/13/joint-united-nations-programme-on-hiv-aids-figures-demonstrate-a-fall-by-up-to-25-per-cent-in-the-prevalence-of-hiv-among-young-people-aged.md)
+### [Joint United Nations Programme on HIV-AIDS figures demonstrate a fall by up to 25 per cent in the prevalence of HIV among young people aged between 15 and 24 in Africa. ](/news/2010/07/13/joint-united-nations-programme-on-hiv-aids-figures-demonstrate-a-fall-by-up-to-25-per-cent-in-the-prevalence-of-hiv-among-young-people-aged.md)
 The prevalence of HIV among young people in Africa falls because of changing sexual behaviour, new UN figures show.
 
-### [President of the United States Barack Obama unveils his country's first national strategy to cut HIV/AIDS infections and improve care for those with the disease. ](/news/2010/07/13/president-of-the-united-states-barack-obama-unveils-his-country-s-first-national-strategy-to-cut-hiv-aids-infections-and-improve-care-for-th.md)
+### [President of the United States Barack Obama unveils his country's first national strategy to cut HIV-AIDS infections and improve care for those with the disease. ](/news/2010/07/13/president-of-the-united-states-barack-obama-unveils-his-country-s-first-national-strategy-to-cut-hiv-aids-infections-and-improve-care-for-th.md)
 US President Barack Obama has rolled out a new national strategy to cut HIV/AIDS infections and improve care for those with the disease.
 
 ### [Six more New Orleans police officers are charged with: shooting dead two civilians, injuries caused to four other civilians, and conspiracy to cover up the incidents on a bridge in the aftermath of the deadly Hurricane Katrina in 2005. ](/news/2010/07/13/six-more-new-orleans-police-officers-are-charged-with-shooting-dead-two-civilians-injuries-caused-to-four-other-civilians-and-conspiracy.md)

@@ -27,6 +27,6 @@ _Context: Iraq, Mosul_
 ### [ At its summit in Bucharest, NATO invites Albania and Croatia to join the alliance. ](/news/2008/04/3/at-its-summit-in-bucharest-nato-invites-albania-and-croatia-to-join-the-alliance.md)
 _Context: Albania, Bucharest, Croatia, NATO, its summit_
 
-### [ According to the Onion, the date of the Apocalypse. [http://www.theonion.com/articles/report-apocalypse-actually-happened-3-years-ago,21143/]](/news/2008/04/3/according-to-the-onion-the-date-of-the-apocalypse-http-www-theonion-com-articles-report-apocalypse-actually-happened-3-years-ago-21143.md)
+### [ According to the Onion, the date of the Apocalypse. [http:--www.theonion.com-articles-report-apocalypse-actually-happened-3-years-ago,21143-]](/news/2008/04/3/according-to-the-onion-the-date-of-the-apocalypse-http-www-theonion-com-articles-report-apocalypse-actually-happened-3-years-ago-21143.md)
 ## [Previous Day...](/news/2008/04/2/index.md)
 

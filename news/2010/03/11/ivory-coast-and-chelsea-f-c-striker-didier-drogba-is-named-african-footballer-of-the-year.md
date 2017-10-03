@@ -16,4 +16,3 @@
 3. [ Chelsea F.C. defeat Everton F.C. to win the 2009 FA Cup Final. ](/news/2009/05/30/chelsea-f-c-defeat-everton-f-c-to-win-the-2009-fa-cup-final.md) _Context: Chelsea F.C._
 4. [ Manchester United F.C. wins the UEFA Champions League 2007-08 defeating Chelsea F.C. in the final after a penalty shootout. ](/news/2008/05/21/manchester-united-f-c-wins-the-uefa-champions-league-2007-08-defeating-chelsea-f-c-in-the-final-after-a-penalty-shootout.md) _Context: Chelsea F.C._
 5. [ Tottenham Hotspur Football Club win the 2008 League Cup after beating Chelsea F.C. 2-1 after extra time. ](/news/2008/02/24/tottenham-hotspur-football-club-win-the-2008-league-cup-after-beating-chelsea-f-c-2-1-after-extra-time.md) _Context: Chelsea F.C._
-6. [ Jose Mourinho, manager of Chelsea Football Club, leaves the club by mutual consent. ](/news/2007/09/19/josa-c-mourinho-manager-of-chelsea-football-club-leaves-the-club-by-mutual-consent.md) _Context: Chelsea F.C._

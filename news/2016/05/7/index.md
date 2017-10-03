@@ -3,7 +3,7 @@
 ### [Two Romanian soldiers are killed along with assailants in an insider attack in Afghanistan. ](/news/2016/05/7/two-romanian-soldiers-are-killed-along-with-assailants-in-an-insider-attack-in-afghanistan.md)
 The attackers were wearing Afghan security forces uniforms, coalition officials said.
 
-### [  At least 13 Iranian soldiers are killed in a battle with Islamist militants in a village near Aleppo, Syria. This is the largest single day loss for the Iranians since the start of the conflict. ](/news/2016/05/7/at-least-13-iranian-soldiers-are-killed-in-a-battle-with-islamist-militants-in-a-village-near-aleppo-syria-this-is-the-largest-single-da.md)
+### [ At least 13 Iranian soldiers are killed in a battle with Islamist militants in a village near Aleppo, Syria. This is the largest single day loss for the Iranians since the start of the conflict. ](/news/2016/05/7/at-least-13-iranian-soldiers-are-killed-in-a-battle-with-islamist-militants-in-a-village-near-aleppo-syria-this-is-the-largest-single-day.md)
 By Bozorgmehr SharafedinDUBAI (Reuters) -...
 
 ### [Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. ](/news/2016/05/7/filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.md)

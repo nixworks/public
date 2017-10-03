@@ -7,7 +7,7 @@ _Context: Iraq, Iyad Allawi, Jalal Talabani, President, Prime Minister, Saddam H
 _Context: Darshan Singh, Nguyen Tuong Van, Singapore, hangman_
 
 ### [ Canadian federal election, 2006: Prime Minister Paul Martin's minority government is defeated in a confidence motion by a vote of 171 - 133. The Prime Minister announces he will request a dissolution of parliament from the Governor General tomorrow. ](/news/2005/11/28/canadian-federal-election-2006-prime-minister-paul-martin-s-minority-government-is-defeated-in-a-confidence-motion-by-a-vote-of-171-133.md)
-_Context: Canadian Prime Minister, Canadian federal election, 2006, Governor General, Paul Martin, minority government_
+_Context: Canadian federal election, 2006, Governor General of Canada, Paul Martin, Prime Minister of Canada, minority government_
 
 ### [ The tribunal trying Saddam Hussein and seven co-defendants adjourned for a second time after hearing posthumous evidence. ](/news/2005/11/28/the-tribunal-trying-saddam-hussein-and-seven-co-defendants-adjourned-for-a-second-time-after-hearing-posthumous-evidence.md)
 _Context: Saddam Hussein_

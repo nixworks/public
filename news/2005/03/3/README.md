@@ -10,7 +10,7 @@ _Context: Edmonton, Alberta, Northwest Rebellion, Royal Canadian Mounted Police_
 _Context: Mukhtar Mai, rape, tribal council_
 
 ### [ The People's Republic of China issues a report condemning the human rights record of the United States, three days after the United States issued a report condemning China's human rights record. ](/news/2005/03/3/the-people-s-republic-of-china-issues-a-report-condemning-the-human-rights-record-of-the-united-states-three-days-after-the-united-states.md)
-_Context: China, U.S._
+_Context: Americans, China_
 
 ### [ In Indonesia, Muslim cleric Abu Bakar Bashir is found guilty of conspiracy for his involvement in the 2002 Bali bombing, but was found not guilty of all charges surrounding the 2003 bombing of the Marriott hotel in Jakarta. He received a two and a half year jail sentence. ](/news/2005/03/3/in-indonesia-muslim-cleric-abu-bakar-bashir-is-found-guilty-of-conspiracy-for-his-involvement-in-the-2002-bali-bombing-but-was-found-not.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
@@ -51,7 +51,7 @@ _Context: Camorra, Naples_
 ### [ Scientists at Florida State University conclude that "Homo floresiensis" is a separate species from "Homo sapiens" and belongs in the "Homo" genus through computer mapping of its brain. ](/news/2005/03/3/scientists-at-florida-state-university-conclude-that-homo-floresiensis-is-a-separate-species-from-homo-sapiens-and-belongs-in-the-homo.md)
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
-### [ At 18:17Z, a 3500-tonne freighter, M/V Karen Danielsen, crashes into the Western bridge of the Great Belt Bridge of Denmark, 800 m from Funen. All traffic across the bridge stopped, effectively separating Denmark in two. ](/news/2005/03/3/at-18-17z-a-3500-tonne-freighter-m-v-karen-danielsen-crashes-into-the-western-bridge-of-the-great-belt-bridge-of-denmark-800-m-from-fun.md)
+### [ At 18:17Z, a 3500-tonne freighter, M-V Karen Danielsen, crashes into the Western bridge of the Great Belt Bridge of Denmark, 800 m from Funen. All traffic across the bridge stopped, effectively separating Denmark in two. ](/news/2005/03/3/at-18-17z-a-3500-tonne-freighter-m-v-karen-danielsen-crashes-into-the-western-bridge-of-the-great-belt-bridge-of-denmark-800-m-from-fun.md)
 _Context: Denmark, Funen, Great Belt Bridge, M/V Karen Danielsen, cargo ship, clock, tonne_
 
 ## [Previous Day...](/news/2005/03/2/index.md)

@@ -9,7 +9,7 @@ Victims of the attack, including eight youngsters, were shot, stabbed, or burned
 ### [Flash flooding in Afghanistan's Baghlan province kills at least 65 people and forces thousands of people to relocate. ](/news/2014/06/7/flash-flooding-in-afghanistan-s-baghlan-province-kills-at-least-65-people-and-forces-thousands-of-people-to-relocate.md)
 Flash flooding in the remote northern Afghan province of Baghlan kills at least 73 people and forces thousands from their homes, police say.
 
-### [Actor/comedian Tracy Morgan is taken to ICU at Robert Wood Johnson University Hospital following a six-vehicle chain-reaction crash on the New Jersey Turnpike that killed friend & fellow comedian James McNair. ](/news/2014/06/7/actor-comedian-tracy-morgan-is-taken-to-icu-at-robert-wood-johnson-university-hospital-following-a-six-vehicle-chain-reaction-crash-on-the-n.md)
+### [Actor-comedian Tracy Morgan is taken to ICU at Robert Wood Johnson University Hospital following a six-vehicle chain-reaction crash on the New Jersey Turnpike that killed friend & fellow comedian James McNair. ](/news/2014/06/7/actor-comedian-tracy-morgan-is-taken-to-icu-at-robert-wood-johnson-university-hospital-following-a-six-vehicle-chain-reaction-crash-on-the-n.md)
 _Context: James McNair, New Jersey Turnpike, Robert Wood Johnson University Hospital, Tracy Morgan_
 
 ### [Ten supporters of former President of Egypt Mohammed Morsi's Muslim Brotherhood movement are sentenced to death in absentia for allegedly inciting violence and blocking a road last July. ](/news/2014/06/7/ten-supporters-of-former-president-of-egypt-mohammed-morsi-s-muslim-brotherhood-movement-are-sentenced-to-death-in-absentia-for-allegedly-in.md)

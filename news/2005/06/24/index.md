@@ -1,6 +1,6 @@
 ## [2005-06-24](/news/2005/06/24/index.md)
 
-### [ Five people are found shot to death at their Yuma, Arizona home, and a sixth victim dies at a local hospital [http://sun.yumasun.com/artman/publish/articles/story_17491.php/(Yumasun)]](/news/2005/06/24/five-people-are-found-shot-to-death-at-their-yuma-arizona-home-and-a-sixth-victim-dies-at-a-local-hospital-http-sun-yumasun-com-artman.md)
+### [ Five people are found shot to death at their Yuma, Arizona home, and a sixth victim dies at a local hospital [http:--sun.yumasun.com-artman-publish-articles-story_17491.php-(Yumasun)]](/news/2005/06/24/five-people-are-found-shot-to-death-at-their-yuma-arizona-home-and-a-sixth-victim-dies-at-a-local-hospital-http-sun-yumasun-com-artman.md)
 _Context: Yuma, Arizona, hospital_
 
 ### [ Juan Rivera Was Found Dead In His Carteret N.J Home](/news/2005/06/24/juan-rivera-was-found-dead-in-his-carteret-n-j-home.md)
@@ -9,7 +9,7 @@ _Context: Yuma, Arizona, hospital_
 _Context: Pension Benefit Guaranty Corporation, United Airlines, United States House of Representatives_
 
 ### [ An Italian judge ordering the arrest of 13 people linked to the CIA on charges of kidnapping terrorism suspect Abu Omar allegedly in order to have him tortured in Egypt dramatizes a growing rift between the U.S. and its allies in the War on Terrorism. ](/news/2005/06/24/an-italian-judge-ordering-the-arrest-of-13-people-linked-to-the-cia-on-charges-of-kidnapping-terrorism-suspect-abu-omar-allegedly-in-order.md)
-_Context: Egypt, Hassan Mustafa Osama Nasr, Italy, U.S., War on Terrorism, torture_
+_Context: Americans, Egypt, Hassan Mustafa Osama Nasr, Italy, War on Terrorism, torture_
 
 ### [ Ohio Governor Bob Taft says he will not resign, despite ethical questions around him and his administration. ](/news/2005/06/24/ohio-governor-bob-taft-says-he-will-not-resign-despite-ethical-questions-around-him-and-his-administration.md)
 _Context: Bob Taft, Governor of Ohio, Ohio_
@@ -41,7 +41,7 @@ _Context: Al-Aqsa Martyrs' Brigades, Palestinian Authority_
 ### [ Billy Graham began his last crusade in New York. He led the first of three services at Flushing Meadows Corona Park ](/news/2005/06/24/billy-graham-began-his-last-crusade-in-new-york-he-led-the-first-of-three-services-at-flushing-meadows-corona-park.md)
 _Context: Billy Graham, Flushing Meadows Corona Park, New York City_
 
-### [ Legg Mason announces the sale of its broker/dealer to Citigroup in exchange for Citigroup's asset management business.](/news/2005/06/24/legg-mason-announces-the-sale-of-its-broker-dealer-to-citigroup-in-exchange-for-citigroup-s-asset-management-business.md)
+### [ Legg Mason announces the sale of its broker-dealer to Citigroup in exchange for Citigroup's asset management business.](/news/2005/06/24/legg-mason-announces-the-sale-of-its-broker-dealer-to-citigroup-in-exchange-for-citigroup-s-asset-management-business.md)
 _Context: Citigroup, Legg Mason_
 
 ## [Previous Day...](/news/2005/06/23/index.md)

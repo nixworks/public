@@ -12,7 +12,7 @@ _Context: Belfast, Israel, Northern Ireland, Real IRA, Sean Farren, Sen  Muireag
 ### [ Evangelist and former United States Presidential candidate Pat Robertson announces his "massive prayer offensive" dubbed "Operation Supreme Court Freedom", asking Americans to pray that at least three United States Supreme Court justices retire so that the court can be filled with conservative justices who will overturn Supreme Court rulings on school prayer, separation of church and state and sodomy.](/news/2003/07/17/evangelist-and-former-united-states-presidential-candidate-pat-robertson-announces-his-massive-prayer-offensive-dubbed-operation-supreme.md)
 _Context: Pat Robertson, Separation of church and state, U.S. President, United States Supreme Court, evangelist, school prayer, sodomy_
 
-### [ The Uniting Church in Australia votes to officially recognise and approve of homesexual clergy [http://www.abc.net.au/news/stories/2003/07/18/904758.htm (ABC (Australia))].](/news/2003/07/17/the-uniting-church-in-australia-votes-to-officially-recognise-and-approve-of-homesexual-clergy-http-www-abc-net-au-news-stories-2003-07.md)
+### [ The Uniting Church in Australia votes to officially recognise and approve of homesexual clergy [http:--www.abc.net.au-news-stories-2003-07-18-904758.htm (ABC (Australia))].](/news/2003/07/17/the-uniting-church-in-australia-votes-to-officially-recognise-and-approve-of-homesexual-clergy-http-www-abc-net-au-news-stories-2003-07.md)
 _Context: Uniting Church in Australia, cleric, homosexuality_
 
 ## [Previous Day...](/news/2003/07/16/index.md)

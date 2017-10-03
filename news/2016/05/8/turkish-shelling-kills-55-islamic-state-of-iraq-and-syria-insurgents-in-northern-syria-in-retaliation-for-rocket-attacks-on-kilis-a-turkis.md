@@ -1,0 +1,14 @@
+### [2016-05-8](/news/2016/05/8/index.md)
+
+#  Turkish shelling kills 55 Islamic State of Iraq and Syria insurgents in northern Syria in retaliation for rocket attacks on Kilis, a Turkish border town. [http:--www.reuters.com-article-us-mideast-crisis-syria-turkey-idUSKCN0XZ05R (Reuters)] [http:--www.dailyprogress.com-news-world-wire-report-turkey-attacks-is-in-syria-militants-killed-article_4b13cd44-6a6b-5be8-91ba-5d4b5cf3af2b.html (Daily Progress)] Three Spanish journalists were released after being abducted around Aleppo, Syria, and held hostage by the Al-Nusra Front since 13 July 2015. [http:--www.telegraph.co.uk-news-2016-05-07-three-spanish-journalists-released-in-syria-by-al-qaeda-group-af- (The Telegraph (UK))]
+
+
+
+
+### Related:
+
+1. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Syria, Syrian Civil War, Turkey, al-Nusra_
+2. [ More than 72 are killed in clashes between Al-Nusra Front and Syrian government forces in Khan Tuman south of Aleppo, Syria. ](/news/2016/05/6/more-than-72-are-killed-in-clashes-between-al-nusra-front-and-syrian-government-forces-in-khan-tuman-south-of-aleppo-syria.md) _Context: Aleppo, Syria, Syrian Civil War, al-Nusra_
+3. [Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants-after-rockets-fired-from-northern-s.md) _Context: Kilis, Spillover of the Syrian Civil War, Syria, Turkey_
+4. [ Turkish president Recep Tayyip Erdogan threatens unilateral action against Islamic State of Iraq and Syria inside Syria. ](/news/2016/05/12/turkish-president-recep-tayyip-erdoaan-threatens-unilateral-action-against-islamic-state-of-iraq-and-syria-inside-syria.md) _Context: Islamic State of Iraq and Syria, Syria, Syrian Civil War, Turkey_
+5. [Rockets fired by ISIL from northern Syria hit a poor neighborhood and a mosque in the Turkish city of Kilis, killing one person and injuring 26 others. Turkish security forces responded by returning fire into Syria. ](/news/2016/04/24/rockets-fired-by-isil-from-northern-syria-hit-a-poor-neighborhood-and-a-mosque-in-the-turkish-city-of-kilis-killing-one-person-and-injuring.md) _Context: Kilis, Syria, Syrian Civil War, Turkey_

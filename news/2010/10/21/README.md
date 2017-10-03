@@ -30,7 +30,7 @@ Guillermo Farinas, the Cuban dissident who held a 135-day hunger strike earlier 
 ### [China condemns a United Nations report that says Chinese bullets were used in attacks on international peacekeeping forces in the Darfur region of Sudan. ](/news/2010/10/21/china-condemns-a-united-nations-report-that-says-chinese-bullets-were-used-in-attacks-on-international-peacekeeping-forces-in-the-darfur-reg.md)
 _Context: African Union - United Nations Hybrid Operation in Darfur, China, Darfur, Sudan, United Nations_
 
-### [President of Venezuela Hugo Chavez finishes a two-day visit to Iran, signing agreements on oil, energy and commerce. [http://edition.cnn.com/2010/WORLD/meast/10/21/iran.chavez.visit/index.html?eref=edition (CNN) ]](/news/2010/10/21/president-of-venezuela-hugo-cha-vez-finishes-a-two-day-visit-to-iran-signing-agreements-on-oil-energy-and-commerce-http-edition-cnn-co.md)
+### [President of Venezuela Hugo Chavez finishes a two-day visit to Iran, signing agreements on oil, energy and commerce. [http:--edition.cnn.com-2010-WORLD-meast-10-21-iran.chavez.visit-index.html?eref=edition (CNN) ]](/news/2010/10/21/president-of-venezuela-hugo-cha-vez-finishes-a-two-day-visit-to-iran-signing-agreements-on-oil-energy-and-commerce-http-edition-cnn-co.md)
 _Context: Hugo Chavez, Iran, President_
 
 ### [Jewish settlers have started building more than 600 homes in the West Bank since a building freeze expired last month. ](/news/2010/10/21/jewish-settlers-have-started-building-more-than-600-homes-in-the-west-bank-since-a-building-freeze-expired-last-month.md)

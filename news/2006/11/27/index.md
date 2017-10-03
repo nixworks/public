@@ -12,7 +12,7 @@ _Context: Air Force, F-16, Fallujah, Iraq, downed by ground fire_
 ### [ Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has revealed they would attack Ethiopian forces in Galkayo in Mudug province, central Somalia. ](/news/2006/11/27/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-revealed-they-would-attack-ethiopian-forces-in-galkay.md)
 _Context: Galkayo, Islamic Courts Union, Mudug province, Somali Civil War, Somalian, its troops have invaded_
 
-### [ The British government rejects proposals to increase the length of sound recording's copyright protection from 50 years to 95 years. This means that Sir Cliff Richard's earliest songs will come out of copyright in 2008, and the earliest songs recorded by the Beatles in 2013. Songs composed and/or written will still have copyright for 70 years after the author's death. ](/news/2006/11/27/the-british-government-rejects-proposals-to-increase-the-length-of-sound-recording-s-copyright-protection-from-50-years-to-95-years-this-m.md)
+### [ The British government rejects proposals to increase the length of sound recording's copyright protection from 50 years to 95 years. This means that Sir Cliff Richard's earliest songs will come out of copyright in 2008, and the earliest songs recorded by the Beatles in 2013. Songs composed and-or written will still have copyright for 70 years after the author's death. ](/news/2006/11/27/the-british-government-rejects-proposals-to-increase-the-length-of-sound-recording-s-copyright-protection-from-50-years-to-95-years-this-m.md)
 _Context: 2008, 2013, Cliff Richard, His Majesty's Government, The Beatles, copyright_
 
 ### [ An airplane crashes in Tehran killing 28 members of the Islamic Revolutionary Guards Corps including high-ranking officers. ](/news/2006/11/27/an-airplane-crashes-in-tehran-killing-28-members-of-the-islamic-revolutionary-guards-corps-including-high-ranking-officers.md)
@@ -25,7 +25,7 @@ _Context: AWB Limited, Australian Prime Minister, Cole Inquiry, John Howard, Phi
 _Context: Bill English, John Key, New Zealand National Party_
 
 ### [ Canadian Prime Minister Stephen Harper and the Canadian House of Commons endorse a motion to declare that the Qubcois form a nation within a unified Canada. ](/news/2006/11/27/canadian-prime-minister-stephen-harper-and-the-canadian-house-of-commons-endorse-a-motion-to-declare-that-the-quebecois-form-a-nation-withi.md)
-_Context: Canada, Canadian House of Commons, Canadian Prime Minister, Qubcois, Stephen Harper_
+_Context: Canada, Canadian House of Commons, Prime Minister of Canada, Qubcois, Stephen Harper_
 
 ## [Previous Day...](/news/2006/11/26/index.md)
 

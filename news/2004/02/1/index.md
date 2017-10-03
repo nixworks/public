@@ -27,7 +27,7 @@ _Context: Adelaide, Darwin, Ghan_
 ### [ Super Bowl XXXVIII halftime show controversy: During the halftime show performance by Janet Jackson and Justin Timberlake, one of Jackson's breasts is exposed and broadcast on the CBS broadcast of the show in what is later described as a "wardrobe malfunction." CBS is fined a record $550,000 by the Federal Communications Commission later in the year and the incident precipitates an increase of the FCC fine per indecency violation from $27,500 to $325,000. See also fleeting expletive.](/news/2004/02/1/super-bowl-xxxviii-halftime-show-controversy-during-the-halftime-show-performance-by-janet-jackson-and-justin-timberlake-one-of-jackson-s.md)
 _Context: CBS, Federal Communications Commission, Janet Jackson, Justin Timberlake, Super Bowl XXXVIII halftime show controversy, breast, fleeting expletive, halftime show, wardrobe malfunction_
 
-### [ The e-mail worm W32/Mydoom launches a denial-of-service (DoS) attack on the Web site www.sco.com at 16:09:18 (UTC).](/news/2004/02/1/the-e-mail-worm-w32-mydoom-launches-a-denial-of-service-dos-attack-on-the-web-site-www-sco-com-at-16-09-18-utc.md)
+### [ The e-mail worm W32-Mydoom launches a denial-of-service (DoS) attack on the Web site www.sco.com at 16:09:18 (UTC).](/news/2004/02/1/the-e-mail-worm-w32-mydoom-launches-a-denial-of-service-dos-attack-on-the-web-site-www-sco-com-at-16-09-18-utc.md)
 _Context: (DoS) attack, SCO Group, W32/Mydoom.B, e-mail worm_
 
 ## [Previous Day...](/news/2004/01/31/index.md)

@@ -12,7 +12,7 @@ _Context: Milan Babic, Republic of Serbian Krajina, suicide, war crimes_
 ### [ M. Michael Rounds, governor of the U.S. State of South Dakota, signs an abortion ban that conflicts with the United States Supreme Court's landmark 1973 "Roe v. Wade" decision. ](/news/2006/03/6/m-michael-rounds-governor-of-the-u-s-state-of-south-dakota-signs-an-abortion-ban-that-conflicts-with-the-united-states-supreme-court-s.md)
 Gov. Mike Rounds signed a bill Monday banning almost all abortions in South Dakota, a move designed to directly challenge Roe v. Wade.
 
-### [ The sentencing hearing of Zacarias Moussaoui, the only person indicted in the US for a direct role in the 9/11 attacks, has opened in Virginia. ](/news/2006/03/6/the-sentencing-hearing-of-zacarias-moussaoui-the-only-person-indicted-in-the-us-for-a-direct-role-in-the-9-11-attacks-has-opened-in-virgi.md)
+### [ The sentencing hearing of Zacarias Moussaoui, the only person indicted in the US for a direct role in the 9-11 attacks, has opened in Virginia. ](/news/2006/03/6/the-sentencing-hearing-of-zacarias-moussaoui-the-only-person-indicted-in-the-us-for-a-direct-role-in-the-9-11-attacks-has-opened-in-virgi.md)
 _Context: 9/11, Zacarias Moussaoui_
 
 ### [ Avian flu outbreak: Poland confirms first outbreak of H5N1, the bird flu virus, in two wild swans. ](/news/2006/03/6/avian-flu-outbreak-poland-confirms-first-outbreak-of-h5n1-the-bird-flu-virus-in-two-wild-swans.md)

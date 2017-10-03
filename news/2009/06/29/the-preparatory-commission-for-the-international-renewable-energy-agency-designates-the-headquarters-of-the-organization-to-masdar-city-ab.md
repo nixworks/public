@@ -1,6 +1,6 @@
 ### [2009-06-29](/news/2009/06/29/index.md)
 
-#  The Preparatory Commission for the International Renewable Energy Agency designates the headquarters of the organization to Masdar City, Abu Dhabi. [http://www.dw-world.de/dw/article/0,,4442082,00.html?maca=en-en_nr-1893-xml-atom "(Deutsche Welle)"]
+#  The Preparatory Commission for the International Renewable Energy Agency designates the headquarters of the organization to Masdar City, Abu Dhabi. [http:--www.dw-world.de-dw-article-0,,4442082,00.html?maca=en-en_nr-1893-xml-atom "(Deutsche Welle)"]
 
 
 
@@ -12,8 +12,3 @@
 3. [The United States lifts its ban on electronics in the cabin of flights from Abu Dhabi to the U.S. ](/news/2017/07/2/the-united-states-lifts-its-ban-on-electronics-in-the-cabin-of-flights-from-abu-dhabi-to-the-u-s.md) _Context: Abu Dhabi_
 4. ["Solar Impulse 2" becomes the first solar-powered aircraft to travel around the world without fuel after it returns to Abu Dhabi. ](/news/2016/07/26/solar-impulse-2-becomes-the-first-solar-powered-aircraft-to-travel-around-the-world-without-fuel-after-it-returns-to-abu-dhabi.md) _Context: Abu Dhabi_
 5. [Solar Impulse 2, a plane powered only by the sun, takes off from Kalaeloa, Hawaii, USA, on the ninth leg of its around-the-world journey. This portion of the trip will cover 2,542 nautical miles and, in about three days, is scheduled to touch down in Mountain View, California. The journey originated in Abu Dhabi, United Arab Emirates, on March 9, 2015, and, after another 8,130 nmi, will complete the circle when it lands in Abu Dhabi. ](/news/2016/04/21/solar-impulse-2-a-plane-powered-only-by-the-sun-takes-off-from-kalaeloa-hawaii-usa-on-the-ninth-leg-of-its-around-the-world-journey-th.md) _Context: Abu Dhabi_
-6. [The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/the-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnavigation-trip-starting-in.md) _Context: Abu Dhabi_
-7. [After being grounded in Abu Dhabi for over 12 hours with all passengers onboard, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. ](/news/2015/01/5/after-being-grounded-in-abu-dhabi-for-over-12-hours-with-all-passengers-onboard-etihad-airways-flight-183-completes-its-flight-to-san-franc.md) _Context: Abu Dhabi_
-8. [Hillary Clinton of the United States speaks out against Iran in Abu Dhabi during a five-day trip to the United Arab Emirates, Oman and Qatar. She requests that the world increase its pressure on Iran, a country she considers "a serious concern". ](/news/2011/01/9/hillary-clinton-of-the-united-states-speaks-out-against-iran-in-abu-dhabi-during-a-five-day-trip-to-the-united-arab-emirates-oman-and-qatar.md) _Context: Abu Dhabi_
-9. [ Dubai receives a US$10 billion bailout from Abu Dhabi to help fund troubled Dubai World. ](/news/2009/12/14/dubai-receives-a-us-10-billion-bailout-from-abu-dhabi-to-help-fund-troubled-dubai-world.md) _Context: Abu Dhabi_
-10. [ French President Nicolas Sarkozy will open a military base in Abu Dhabi, United Arab Emirates. ](/news/2009/05/26/french-president-nicolas-sarkozy-will-open-a-military-base-in-abu-dhabi-united-arab-emirates.md) _Context: Abu Dhabi_

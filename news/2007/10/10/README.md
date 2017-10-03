@@ -13,7 +13,7 @@ _Context: China, China, New Delhi, Tibet, embassies, religious freedom_
 _Context: Taliban, hostages_
 
 ### [ The United States Centers for Disease Control and Prevention warns consumers not to eat Banquet pot pies or other pot pies made by ConAgra with a printed code ending in C9 due to possible links with a salmonella outbreak. ](/news/2007/10/10/the-united-states-centers-for-disease-control-and-prevention-warns-consumers-not-to-eat-banquet-pot-pies-or-other-pot-pies-made-by-conagra.md)
-_Context: Centers for Disease Control and Prevention, ConAgra, U.S., pot pies, salmonella_
+_Context: Americans, Centers for Disease Control and Prevention, ConAgra, pot pies, salmonella_
 
 ### [ Mahmoud Abbas, the President of the Palestinian Authority, spells out his conditions for a peace deal with Israel prior to a conference in Annapolis, Maryland next month. ](/news/2007/10/10/mahmoud-abbas-the-president-of-the-palestinian-authority-spells-out-his-conditions-for-a-peace-deal-with-israel-prior-to-a-conference-in.md)
 _Context: 2007 Mideast peace conference, Annapolis, Maryland, Israel, Mahmoud Abbas, Palestinian Authority_
@@ -39,7 +39,7 @@ _Context: Cleveland, Ohio, goes on a shooting rampage_
 ### [ Sonic the Hedgehog was officially announced to be in the best-selling video game, Super Smash Bros. Brawl.](/news/2007/10/10/sonic-the-hedgehog-was-officially-announced-to-be-in-the-best-selling-video-game-super-smash-bros-brawl.md)
 _Context: Sonic the Hedgehog, Super Smash Bros. Brawl_
 
-### [ Portal, Half-Life 2: Episode 2 and Team Fortress 2 is released by Valve. [http://store.steampowered.com/app/400/][http://store.steampowered.com/app/440]](/news/2007/10/10/portal-half-life-2-episode-2-and-team-fortress-2-is-released-by-valve-http-store-steampowered-com-app-400-http-store-steampowered.md)
+### [ Portal, Half-Life 2: Episode 2 and Team Fortress 2 is released by Valve. [http:--store.steampowered.com-app-400-][http:--store.steampowered.com-app-440]](/news/2007/10/10/portal-half-life-2-episode-2-and-team-fortress-2-is-released-by-valve-http-store-steampowered-com-app-400-http-store-steampowered.md)
 _Context: Half-Life 2: Episode 2, Portal, Team Fortress 2, Valve Corporation_
 
 ## [Previous Day...](/news/2007/10/9/index.md)

@@ -15,7 +15,7 @@ Homemade bomb in government construction site on outskirts of Cairo cuts off mob
 ### [The Bosnian city of Sarajevo commemorates the 100th anniversary of the assassination of Archduke Franz Ferdinand of Austria that led to World War I. ](/news/2014/06/28/the-bosnian-city-of-sarajevo-commemorates-the-100th-anniversary-of-the-assassination-of-archduke-franz-ferdinand-of-austria-that-led-to-worl.md)
 _Context: Archduke Franz Ferdinand of Austria, Bosnia, First World War, Sarajevo, assassination_
 
-### [At least 5 people have been killed in an explosion at the world's largest ship breaking yard at Alang in Indian state of Gujarat.[http://news.biharprabha.com/2014/06/5-killed-in-alang-port-shipbreaking-yard-blast-in-gujarat/ (IANS via Biharprabha) ]](/news/2014/06/28/at-least-5-people-have-been-killed-in-an-explosion-at-the-world-s-largest-ship-breaking-yard-at-alang-in-indian-state-of-gujarat-http-new.md)
+### [At least 5 people have been killed in an explosion at the world's largest ship breaking yard at Alang in Indian state of Gujarat.[http:--news.biharprabha.com-2014-06-5-killed-in-alang-port-shipbreaking-yard-blast-in-gujarat- (IANS via Biharprabha) ]](/news/2014/06/28/at-least-5-people-have-been-killed-in-an-explosion-at-the-world-s-largest-ship-breaking-yard-at-alang-in-indian-state-of-gujarat-http-new.md)
 _Context: Alang, Gujarat, Indian state, ship breaking_
 
 ### [A dilapidated building collapses in the Indian capital New Delhi with eleven people killed and one injured. ](/news/2014/06/28/a-dilapidated-building-collapses-in-the-indian-capital-new-delhi-with-eleven-people-killed-and-one-injured.md)

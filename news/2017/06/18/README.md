@@ -33,7 +33,7 @@ Fairfax County Police said they are not investigating the attack as a hate crime
 ### [Voters in France return to the polls for the second round of a legislative election, with 573 of 577 seats in the National Assembly yet to be decided after the first round. ](/news/2017/06/18/voters-in-france-return-to-the-polls-for-the-second-round-of-a-legislative-election-with-573-of-577-seats-in-the-national-assembly-yet-to-b.md)
 The French are voting Sunday for the fourth time in two months and the main outstanding question is just how big a majority they will hand President Emmanuel Macron.
 
-### [Six members of President Trump's Advisory Council on HIV/AIDS resign stating the administration doesn't have a strategy to address the epidemic, doesn't seek input from experts on HIV policy, supports legislation that would halt or reverse important gains made in the fight against this disease and would harm people living with HIV. ](/news/2017/06/18/six-members-of-president-trump-s-advisory-council-on-hiv-aids-resign-stating-the-administration-doesn-t-have-a-strategy-to-address-the-epide.md)
+### [Six members of President Trump's Advisory Council on HIV-AIDS resign stating the administration doesn't have a strategy to address the epidemic, doesn't seek input from experts on HIV policy, supports legislation that would halt or reverse important gains made in the fight against this disease and would harm people living with HIV. ](/news/2017/06/18/six-members-of-president-trump-s-advisory-council-on-hiv-aids-resign-stating-the-administration-doesn-t-have-a-strategy-to-address-the-epide.md)
 Six members of the Presidential Advisory Council on HIV/AIDS (PACHA) resigned in protest of the Trump administration.
 
 ## [Previous Day...](/news/2017/06/17/index.md)

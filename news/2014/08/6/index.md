@@ -27,7 +27,7 @@ _Context: China, Karamay, Muslims, Xinjiang_
 ### [Two medical students Neil Dalton, 23 and Aidan Brunger completing their exchange from Newcastle University to a hospital in Malaysian Borneo were murdered after 4 men followed them after an argument over singing in a bar and stabbed them from behind. ](/news/2014/08/6/two-medical-students-neil-dalton-23-and-aidan-brunger-completing-their-exchange-from-newcastle-university-to-a-hospital-in-malaysian-borneo.md)
 Neil Dalton and Aidan Brunger were warned about the dangers of drinking in local bars just days before they were brutally knifed to death in Kuching
 
-### [Europe's Rosetta space probe reaches the distant 67P/Churyumov-Gerasimenko to orbit it and eventually land. ](/news/2014/08/6/europe-s-rosetta-space-probe-reaches-the-distant-67p-churyumovagerasimenko-to-orbit-it-and-eventually-land.md)
+### [Europe's Rosetta space probe reaches the distant 67P-Churyumov-Gerasimenko to orbit it and eventually land. ](/news/2014/08/6/europe-s-rosetta-space-probe-reaches-the-distant-67p-churyumovagerasimenko-to-orbit-it-and-eventually-land.md)
 In a historic first, a European spacecraft arrives at a speeding comet after a 10-year chase.
 
 ## [Previous Day...](/news/2014/08/5/index.md)

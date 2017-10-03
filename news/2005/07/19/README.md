@@ -16,10 +16,10 @@ _Context: Chechnya, Russia, explosion_
 _Context: Gloria Arroyo, Philippine President, Philippines, electoral fraud, truth commission_
 
 ### [ The Canadian Senate passes Bill C-38 to legalize same-sex marriage in Canada. The bill will become law when it receives Royal Assent from Governor General Adrienne Clarkson, scheduled for tomorrow. ](/news/2005/07/19/the-canadian-senate-passes-bill-c-38-to-legalize-same-sex-marriage-in-canada-the-bill-will-become-law-when-it-receives-royal-assent-from-g.md)
-_Context: Adrienne Clarkson, Bill C-38, Canadian Senate, Governor General, Royal Assent, same-sex marriage in Canada_
+_Context: Adrienne Clarkson, Bill C-38, Canadian Senate, Governor General of Canada, Royal Assent, same-sex marriage in Canada_
 
 ### [ Prime Minister Manmohan Singh of India addresses joint session of US Congress in his historic visit to the US. ](/news/2005/07/19/prime-minister-manmohan-singh-of-india-addresses-joint-session-of-us-congress-in-his-historic-visit-to-the-us.md)
-_Context: India, Manmohan Singh, Prime Minister, U.S., US Congress_
+_Context: Americans, India, Manmohan Singh, Prime Minister, US Congress_
 
 ### [ In Thailand, dozens of newspapers editors of Thai Journalist's Association protest against new emergency laws that include media censorship and phone tapping ](/news/2005/07/19/in-thailand-dozens-of-newspapers-editors-of-thai-journalist-s-association-protest-against-new-emergency-laws-that-include-media-censorship.md)
 _Context: Thai Journalist's Association, Thailand, censorship, mass media, phone tapping_
@@ -34,7 +34,7 @@ _Context: Miroslav Bralo, war crime_
 After three weeks of political squabbling over key posts Lebanon&#39;s Prime Minister Fouad Siniora formed the new government which excludes Free Patriotic Movement leader Michel Aoun but includes for&nbsp; the first time a senior member of Hizbullah. The inclusion of Hizbullah drew an immediate reb...
 
 ### [ In Spain, huge forest fire continues to rage, threatening villages of Selas and Ablanque. A group of ten day-trippers has confessed being responsible for the start of the fire and one of them has been charged ](/news/2005/07/19/in-spain-huge-forest-fire-continues-to-rage-threatening-villages-of-selas-and-ablanque-a-group-of-ten-day-trippers-has-confessed-being-r.md)
-_Context: Ablanque, Selas, Spanish, day-tripper, forest fire_
+_Context: Ablanque, Selas, Spain, day-tripper, forest fire_
 
 ## [Previous Day...](/news/2005/07/18/index.md)
 

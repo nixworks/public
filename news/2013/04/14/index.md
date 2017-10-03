@@ -4,7 +4,7 @@
 At least 19 people are killed in bomb and gun attacks in the Somali capital Mogadishu, including an assault on the main courts.
 
 ### [A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakistan.md)
-_Context: Datta Khel, North Waziristan, Pakistan, U.S., drones launch_
+_Context: Americans, Datta Khel, North Waziristan, Pakistan, drones launch_
 
 ### [At least 33 people die when a bus tumbles into a river near Trujillo, Peru. ](/news/2013/04/14/at-least-33-people-die-when-a-bus-tumbles-into-a-river-near-trujillo-peru.md)
 _Context: Peru, Trujillo, bus_
@@ -25,7 +25,7 @@ Venezuelans have been voting to choose a successor to late President Hugo Chavez
 _Context: Croatia, EU, European Parliament, MP, country's first ever vote, formal entry of Croatia_
 
 ### [Justin Trudeau, son of former Canadian Prime Minister Pierre Trudeau, is chosen as the new leader of the Liberal Party of Canada. ](/news/2013/04/14/justin-trudeau-son-of-former-canadian-prime-minister-pierre-trudeau-is-chosen-as-the-new-leader-of-the-liberal-party-of-canada.md)
-_Context: Canada, Canadian Prime Minister, Justin Trudeau, Liberal Party's, Pierre Trudeau_
+_Context: Canada, Justin Trudeau, Liberal Party's, Pierre Trudeau, Prime Minister of Canada_
 
 ## [Previous Day...](/news/2013/04/13/index.md)
 

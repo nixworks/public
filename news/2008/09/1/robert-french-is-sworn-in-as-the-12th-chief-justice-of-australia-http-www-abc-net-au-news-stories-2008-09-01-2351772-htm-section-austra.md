@@ -1,6 +1,6 @@
 ### [2008-09-1](/news/2008/09/1/index.md)
 
-#  Robert French is sworn in as the 12th Chief Justice of Australia. [http://www.abc.net.au/news/stories/2008/09/01/2351772.htm?section=australia (ABC (Australia))]
+#  Robert French is sworn in as the 12th Chief Justice of Australia. [http:--www.abc.net.au-news-stories-2008-09-01-2351772.htm?section=australia (ABC (Australia))]
 
 
 

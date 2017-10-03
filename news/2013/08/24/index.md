@@ -4,7 +4,7 @@
 Medecins Sans Frontieres says hospitals it supports in Syria treated about 3,600 patients with &quot;neurotoxic symptoms&quot; of whom 355 died.
 
 ### [The United States commemorates the fiftieth anniversary of Martin Luther King, Jr.'s I Have a Dream speech. ](/news/2013/08/24/the-united-states-commemorates-the-fiftieth-anniversary-of-martin-luther-king-jr-s-i-have-a-dream-speech.md)
-_Context:  Martin Luther King, Jr., I Have a Dream, U.S._
+_Context:  Martin Luther King, Jr., Americans, I Have a Dream_
 
 ### [4 people are confirmed killed in Friday's Super Puma L2 crash near Sumburgh Airport in the Shetland Islands. Operation of the helicopter model is globally suspended. ](/news/2013/08/24/4-people-are-confirmed-killed-in-friday-s-super-puma-l2-crash-near-sumburgh-airport-in-the-shetland-islands-operation-of-the-helicopter-mod.md)
 _Context: Shetland Islands, Sumburgh Airport, Super Puma L2_

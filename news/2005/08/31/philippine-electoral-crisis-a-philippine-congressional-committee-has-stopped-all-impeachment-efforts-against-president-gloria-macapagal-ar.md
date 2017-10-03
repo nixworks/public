@@ -1,6 +1,6 @@
 ### [2005-08-31](/news/2005/08/31/index.md)
 
-#  Philippine electoral crisis: A Philippine congressional committee has stopped all impeachment efforts against President Gloria Macapagal-Arroyo. [http://www.usatoday.com/news/world/2005-08-31-philippines-arroyo_x.htm (USA Today)]date=April 2015
+#  Philippine electoral crisis: A Philippine congressional committee has stopped all impeachment efforts against President Gloria Macapagal-Arroyo. [http:--www.usatoday.com-news-world-2005-08-31-philippines-arroyo_x.htm (USA Today)]date=April 2015
 
 
 
@@ -12,8 +12,3 @@
 3. [South Korean lawmakers impeach President Park Geun-hye by a 234-56 vote. Prime Minister Hwang Kyo-ahn, a staunch defender of Ms. Park, will serve as acting president. South Korea's Constitutional Court has up to 180 days to render a final decision. ](/news/2016/12/9/south-korean-lawmakers-impeach-president-park-geun-hye-by-a-234a56-vote-prime-minister-hwang-kyo-ahn-a-staunch-defender-of-ms-park-wil.md) _Context: impeach_
 4. [The Sandiganbayan court clears former Philippines president Gloria Macapagal Arroyo in the national broadband corruption scandal. ](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.md) _Context: Gloria Macapagal Arroyo_
 5. [Former Philippine president Gloria Macapagal Arroyo has been acquitted of plunder. ](/news/2016/07/19/former-philippine-president-gloria-macapagal-arroyo-has-been-acquitted-of-plunder.md) _Context: Gloria Macapagal Arroyo_
-6. [Hundreds of thousands in Brazil's major cities, some estimates say more than 3 million people, protest the weak economy and political corruption, and call for President Dilma Rousseff's impeachment. ](/news/2016/03/13/hundreds-of-thousands-in-brazil-s-major-cities-some-estimates-say-more-than-3-million-people-protest-the-weak-economy-and-political-corrup.md) _Context: impeach_
-7. [Tens of thousands of Brazilians protest in cities around the country to demand that Congress impeach President Dilma Rousseff. The lower house of Congress opened impeachment proceedings on 2 December 2015. ](/news/2015/12/13/tens-of-thousands-of-brazilians-protest-in-cities-around-the-country-to-demand-that-congress-impeach-president-dilma-rousseff-the-lower-hou.md) _Context: impeach_
-8. [Celebrity British lawyer Amal Clooney files a case in the United Nations on behalf of former Philippines President Gloria Macapagal-Arroyo. ](/news/2015/03/9/celebrity-british-lawyer-amal-clooney-files-a-case-in-the-united-nations-on-behalf-of-former-philippines-president-gloria-macapagal-arroyo.md) _Context: Gloria Macapagal Arroyo_
-9. [Former Prime Minister of Thailand Yingluck Shinawatra appears to face impeachment charges over a failed rice subsidy scheme. ](/news/2015/01/9/former-prime-minister-of-thailand-yingluck-shinawatra-appears-to-face-impeachment-charges-over-a-failed-rice-subsidy-scheme.md) _Context: impeach_
-10. [Thailand's National Anti-Corruption Commission refers former Prime Minister Yingluck Shinawatra to face impeachment charges in the Senate over a failed rice subsidy scheme. ](/news/2014/05/8/thailand-s-national-anti-corruption-commission-refers-former-prime-minister-yingluck-shinawatra-to-face-impeachment-charges-in-the-senate-ov.md) _Context: impeach_

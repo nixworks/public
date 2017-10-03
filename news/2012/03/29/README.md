@@ -4,7 +4,7 @@
 _Context: Adrienne Rich_
 
 ### [Workers in Spain commence a general strike over government austerity measures. ](/news/2012/03/29/workers-in-spain-commence-a-general-strike-over-government-austerity-measures.md)
-_Context: Spanish, general strike_
+_Context: Spain, general strike_
 
 ### [Queues form at petrol stations across the United Kingdom after government ministers urged motorists to top up their fuel tanks ahead of a possible strike by fuel tanker drivers. ](/news/2012/03/29/queues-form-at-petrol-stations-across-the-united-kingdom-after-government-ministers-urged-motorists-to-top-up-their-fuel-tanks-ahead-of-a-po.md)
 _Context: 10 Downing Street, United Kingdom, gas station_

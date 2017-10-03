@@ -1,7 +1,7 @@
 ## [2013-03-10](/news/2013/03/10/index.md)
 
 ### [President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/president-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan-taliban-in-an-effort.md)
-_Context: Afghan Taliban, Afghanistan, Afghanistan President, Hamid Karzai, U.S., U.S. withdrawal, United States military personnel_
+_Context: Afghan Taliban, Afghanistan, Afghanistan President, Americans, Hamid Karzai, U.S. withdrawal, United States military personnel_
 
 ### [Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)
 _Context: Christian, Christian, Lahore, Pakistan_
@@ -19,10 +19,10 @@ James Franco-led, Toto-free Wizard of Oz prequel posts biggest debut of slumping
 A dog called Jilly, who despite a very ordinary name is a Petit Basset Griffon Vendeen, won the Best in Show title at Crufts tonight, after competing against thousands of other pedigrees to win the...
 
 ### [Six teenagers are killed and two other people are injured in a car accident near Warren, Ohio, United States. It is the deadliest accident in Trumbull County history and the deadliest in Ohio in three years. ](/news/2013/03/10/six-teenagers-are-killed-and-two-other-people-are-injured-in-a-car-accident-near-warren-ohio-united-states-it-is-the-deadliest-accident-i.md)
-_Context: Ohio, Trumbull County, U.S., Warren_
+_Context: Americans, Ohio, Trumbull County, Warren_
 
 ### [Five teenagers are killed after a Chevrolet SUV and a gas tanker collide at the intersection of two county roads in Dumas, Texas, United States. ](/news/2013/03/10/five-teenagers-are-killed-after-a-chevrolet-suv-and-a-gas-tanker-collide-at-the-intersection-of-two-county-roads-in-dumas-texas-united-sta.md)
-_Context: Chevrolet, Dumas, SUV, Texas, U.S., gas tanker_
+_Context: Americans, Chevrolet, Dumas, SUV, Texas, gas tanker_
 
 ### [The head of Sierra Leone's Anti-corruption Commission says that 29 government health officials will appear in court on corruption charges for having allegedly defrauded the Bill & Melinda Gates Foundation's vaccine programme. ](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.md)
 _Context: Anti-corruption Commission, Bill & Melinda Gates Foundation, Sierra Leone, vaccine_

@@ -12,7 +12,7 @@ An explosion near a mosque in a Shia area of the Pakistani city of Karachi has k
 ### [Queen Elizabeth II is admitted to hospital for observation after experiencing symptoms of gastroenteritis. Buckingham Palace has described it as a "precaution". ](/news/2013/03/3/queen-elizabeth-ii-is-admitted-to-hospital-for-observation-after-experiencing-symptoms-of-gastroenteritis-buckingham-palace-has-described-i.md)
 The Queen is in hospital as a precaution, while she is assessed for symptoms of gastroenteritis, Buckingham Palace says.
 
-### [Following treatment, a 2-year-old Mississippi girl born with the HIV/AIDS virus is pronounced to be HIV negative. ](/news/2013/03/3/following-treatment-a-2-year-old-mississippi-girl-born-with-the-hiv-aids-virus-is-pronounced-to-be-hiv-negative.md)
+### [Following treatment, a 2-year-old Mississippi girl born with the HIV-AIDS virus is pronounced to be HIV negative. ](/news/2013/03/3/following-treatment-a-2-year-old-mississippi-girl-born-with-the-hiv-aids-virus-is-pronounced-to-be-hiv-negative.md)
 US doctors say they seem to have cured a baby born with HIV - the virus that causes Aids - through very early treatment with standard drug therapy.
 
 ### [Thailand promises to put an end to legal ivory trade within the country. ](/news/2013/03/3/thailand-promises-to-put-an-end-to-legal-ivory-trade-within-the-country.md)

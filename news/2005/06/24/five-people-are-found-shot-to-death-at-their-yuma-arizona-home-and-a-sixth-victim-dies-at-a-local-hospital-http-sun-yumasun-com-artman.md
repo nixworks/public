@@ -1,6 +1,6 @@
 ### [2005-06-24](/news/2005/06/24/index.md)
 
-#  Five people are found shot to death at their Yuma, Arizona home, and a sixth victim dies at a local hospital [http://sun.yumasun.com/artman/publish/articles/story_17491.php/(Yumasun)]
+#  Five people are found shot to death at their Yuma, Arizona home, and a sixth victim dies at a local hospital [http:--sun.yumasun.com-artman-publish-articles-story_17491.php-(Yumasun)]
 
 
 
@@ -12,8 +12,3 @@
 3. [Two hospital nurses are arrested in the Uruguayan capital Montevideo in connection with the suspicious death of dozens of patients over several years at two hospitals. ](/news/2012/03/18/two-hospital-nurses-are-arrested-in-the-uruguayan-capital-montevideo-in-connection-with-the-suspicious-death-of-dozens-of-patients-over-seve.md) _Context: hospital_
 4. [A 6 foot hole appears at 36,000 feet aboard Southwest Airlines Flight 812, a Boeing 737 en route from Phoenix, Arizona to Sacramento, California; the plane lands safely in Yuma, Arizona. ](/news/2011/04/1/a-6-foot-hole-appears-at-36-000-feet-aboard-southwest-airlines-flight-812-a-boeing-737-en-route-from-phoenix-arizona-to-sacramento-califo.md) _Context: Yuma, Arizona_
 5. [United States Representative Gabrielle Giffords leaves hospital in Tucson, Arizona for rehabilitation in Houston, Texas less than two weeks after the 2011 Tucson shooting. ](/news/2011/01/21/united-states-representative-gabrielle-giffords-leaves-hospital-in-tucson-arizona-for-rehabilitation-in-houston-texas-less-than-two-weeks.md) _Context: hospital_
-6. [ The Sri Lankan Army kills 91 people and injures 87 others at a hospital inside a civilian safe zone. ](/news/2009/05/2/the-sri-lankan-army-kills-91-people-and-injures-87-others-at-a-hospital-inside-a-civilian-safe-zone.md) _Context: hospital_
-7. [ Artillery shelling kills 50 people and injures 40 more at a hospital in Sri Lanka's war zone. ](/news/2009/05/13/artillery-shelling-kills-50-people-and-injures-40-more-at-a-hospital-in-sri-lanka-s-war-zone.md) _Context: hospital_
-8. [ Six laptops containing information on about 20,000 patients are stolen from a London hospital. ](/news/2008/06/18/six-laptops-containing-information-on-about-20-000-patients-are-stolen-from-a-london-hospital.md) _Context: hospital_
-9. [ Four people die as a United States Marine Corps helicopter crashes on a training flight north of Yuma, Arizona. ](/news/2007/08/17/four-people-die-as-a-united-states-marine-corps-helicopter-crashes-on-a-training-flight-north-of-yuma-arizona.md) _Context: Yuma, Arizona_
-10. [ Thabo Mbeki, the President of South Africa, sacks Nozizwe Madlala-Routledge as the Deputy Health Minister for attending an AIDS conference in Spain without authorisation and criticising hospital conditions. ](/news/2007/08/10/thabo-mbeki-the-president-of-south-africa-sacks-nozizwe-madlala-routledge-as-the-deputy-health-minister-for-attending-an-aids-conference.md) _Context: hospital_

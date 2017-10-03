@@ -1,6 +1,6 @@
 ### [2005-04-18](/news/2005/04/18/index.md)
 
-#  Mexican government rules out pardoning Andres Manuel Lopez Obrador. His supporters continue their protests. [http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8218933 (Reuters)] (Link dead as of 04:02, 16 January 2007 (UTC))
+#  Mexican government rules out pardoning Andres Manuel Lopez Obrador. His supporters continue their protests. [http:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=8218933 (Reuters)] (Link dead as of 04:02, 16 January 2007 (UTC))
 
 
 

@@ -6,7 +6,7 @@ Videos uploaded on YouTube appear to show graphic scenes of recent violence in C
 ### [Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the-resignation-of-a-police-chief.md)
 Tunisian police kill at least two people in the north-western town of Kef, during an attack on the local police station by protesters.
 
-### [Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http://www.bbc.co.uk/news/world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-with-thailand-http-www-bbc-co-uk.md)
+### [Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http:--www.bbc.co.uk-news-world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-with-thailand-http-www-bbc-co-uk.md)
 _Context: Cambodian-Thai border stand-off_
 
 ### [U.S.-led forces kill four civilians, including a woman, in northern Afghanistan. ](/news/2011/02/6/u-s-led-forces-kill-four-civilians-including-a-woman-in-northern-afghanistan.md)
@@ -41,7 +41,7 @@ Sydney has sweated through its hottest night on record to end its longest heatwa
 A widespread blackout hit at eight states in Brazil&#039;s northeast Friday exposing energy infrastructure vulnerabilities of the nation that will host an Olympics and a World Cup.
 
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: EU, Israel, Middle East Quartet, Munich, Russia, U.S., United Nations_
+_Context: Americans, EU, Israel, Middle East Quartet, Munich, Russia, United Nations_
 
 ### [The European Union's foreign policy chief Catherine Ashton expresses what she believes is the even more crucial need for progress in peace talks between the Israelis and the Palestinians due to events in Egypt and other countries. ](/news/2011/02/6/the-european-union-s-foreign-policy-chief-catherine-ashton-expresses-what-she-believes-is-the-even-more-crucial-need-for-progress-in-peace-t.md)
 European Union foreign policy chief Catherine Ashton said yesterday that events in Egypt and other Mideast countries make progress in peace talks between Israel and the Palestinians eve
@@ -62,7 +62,7 @@ _Context: Ohio, Youngstown_
 _Context: Mexican drug cartel, Sandra Avila Beltran_
 
 ### [Russian billionaire Ashot Egiazaryan, facing charges of financial crimes, flees to the United States claiming persecution. ](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.md)
-_Context: Ashot Egiazaryan, Russia, U.S._
+_Context: Americans, Ashot Egiazaryan, Russia_
 
 ### [Nepal's prime minister Jhala Nath Khanal takes his oath of office. ](/news/2011/02/6/nepal-s-prime-minister-jhala-nath-khanal-takes-his-oath-of-office.md)
 Move marks effective end to political deadlock that has left Himalayan nation without premier for seven months.

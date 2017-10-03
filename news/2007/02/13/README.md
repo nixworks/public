@@ -1,6 +1,6 @@
 ## [2007-02-13](/news/2007/02/13/index.md)
 
-### [ The TGV beats the record of the world's fastest conventional train with a speed of 553 &nbsp;km/h (344&nbsp;mph) reached during a test run on the LGV Est. ](/news/2007/02/13/the-tgv-beats-the-record-of-the-world-s-fastest-conventional-train-with-a-speed-of-553-nbsp-km-h-344-nbsp-mph-reached-during-a-test-run.md)
+### [ The TGV beats the record of the world's fastest conventional train with a speed of 553 &nbsp;km-h (344&nbsp;mph) reached during a test run on the LGV Est. ](/news/2007/02/13/the-tgv-beats-the-record-of-the-world-s-fastest-conventional-train-with-a-speed-of-553-nbsp-km-h-344-nbsp-mph-reached-during-a-test-run.md)
 _Context: LGV Est, TGV train, land speed record for railed vehicles_
 
 ### [ A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md)
@@ -28,7 +28,7 @@ Chinese Nationalist Party (KMT) chief Ma Ying-jeou (馬英九) stepped down
 _Context: Kosovo_
 
 ### [ Japan holds an international conference to push for the resumption of commercial whaling. Anti-whaling nations in the International Whaling Commission such as the United States, United Kingdom and Australia have boycotted the conference. ](/news/2007/02/13/japan-holds-an-international-conference-to-push-for-the-resumption-of-commercial-whaling-anti-whaling-nations-in-the-international-whaling.md)
-_Context: Australia, International Whaling Commission , Japan, U.S., United Kingdom, boycott, hunt_
+_Context: Americans, Australia, International Whaling Commission , Japan, United Kingdom, boycott, hunt_
 
 ### [ At least three people have been killed in bomb blasts that hit two buses in the village of Bikfaya near Beirut, Lebanon. ](/news/2007/02/13/at-least-three-people-have-been-killed-in-bomb-blasts-that-hit-two-buses-in-the-village-of-bikfaya-near-beirut-lebanon.md)
 _Context: Beirut, Lebanon, Bikfaya_

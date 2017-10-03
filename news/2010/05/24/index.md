@@ -43,7 +43,7 @@ _Context: Niger, university degree_
 _Context: Khorramshahr, Mahmoud Ahmadinejad, President_
 
 ### [The International Monetary Fund says "far-reaching" reforms are vital for Spain's economy. ](/news/2010/05/24/the-international-monetary-fund-says-far-reaching-reforms-are-vital-for-spain-s-economy.md)
-_Context: International Monetary Fund, Spanish_
+_Context: International Monetary Fund, Spain_
 
 ### [Plane Stupid protesters break into Manchester Airport and lock arms around an aircraft. Flights are suspended. ](/news/2010/05/24/plane-stupid-protesters-break-into-manchester-airport-and-lock-arms-around-an-aircraft-flights-are-suspended.md)
 _Context: Manchester, Plane Stupid_
@@ -67,7 +67,7 @@ A teacher who bludgeoned a disruptive teenage pupil with a dumbbell has walked f
 The SDLP leader and South Down MP Margaret Ritchie has formally resigned from the Stormont Executive.
 
 ### [Sarah, Duchess of York receives support from businessman Simon Cowell and an award for her work with the disadvantaged children of the U.S. city of Los Angeles despite being caught in a newspaper sting in Britain. ](/news/2010/05/24/sarah-duchess-of-york-receives-support-from-businessman-simon-cowell-and-an-award-for-her-work-with-the-disadvantaged-children-of-the-u-s.md)
-_Context: Los Angeles, Sarah, Duchess of York, Simon Cowell, U.S._
+_Context: Americans, Los Angeles, Sarah, Duchess of York, Simon Cowell_
 
 ### [Iran's largest water supply project is inaugurated in Khorramshahr. ](/news/2010/05/24/iran-s-largest-water-supply-project-is-inaugurated-in-khorramshahr.md)
 _Context: Iran, Khorramshahr_

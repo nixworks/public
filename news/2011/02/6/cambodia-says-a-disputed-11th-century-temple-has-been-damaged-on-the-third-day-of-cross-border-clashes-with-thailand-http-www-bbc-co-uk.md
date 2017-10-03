@@ -1,6 +1,6 @@
 ### [2011-02-6](/news/2011/02/6/index.md)
 
-# Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http://www.bbc.co.uk/news/world-asia-pacific-12377626 BBC])
+# Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http:--www.bbc.co.uk-news-world-asia-pacific-12377626 BBC])
 
 
 

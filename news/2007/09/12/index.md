@@ -9,7 +9,7 @@ _Context: Russia, Russian Navy, Russian Northern Fleet, Vladimir Masorin, Vladim
 ### [ Airstrikes and Afghan army gunfire kills more than 45 Taliban insurgents on the first day of Ramadan. ](/news/2007/09/12/airstrikes-and-afghan-army-gunfire-kills-more-than-45-taliban-insurgents-on-the-first-day-of-ramadan.md)
 _Context: Afghanistan, Ramadan, Taliban_
 
-### [ Bombardier Aerospace orders the grounding of at least 40 percent of its Q-400 turboprop following recent incidents in Scandinavian Airlines aircraft in Denmark and Lithuania. [http://ap.google.com/article/ALeqM5j9dgF42S_3YlUzE-B4hqLtKEdusA (Associated Press)] (Wikinews)](/news/2007/09/12/bombardier-aerospace-orders-the-grounding-of-at-least-40-percent-of-its-q-400-turboprop-following-recent-incidents-in-scandinavian-airlines.md)
+### [ Bombardier Aerospace orders the grounding of at least 40 percent of its Q-400 turboprop following recent incidents in Scandinavian Airlines aircraft in Denmark and Lithuania. [http:--ap.google.com-article-ALeqM5j9dgF42S_3YlUzE-B4hqLtKEdusA (Associated Press)] (Wikinews)](/news/2007/09/12/bombardier-aerospace-orders-the-grounding-of-at-least-40-percent-of-its-q-400-turboprop-following-recent-incidents-in-scandinavian-airlines.md)
 _Context: (Wikinews), Bombardier Aerospace, Dash 8 Q400, Denmark, Lithuania, Scandinavian Airlines, turboprop_
 
 ### [ Somali Islamists and opposition leaders meeting in Eritrea have joined forces in a new alliance to overthrow Somalia's transitional government. ](/news/2007/09/12/somali-islamists-and-opposition-leaders-meeting-in-eritrea-have-joined-forces-in-a-new-alliance-to-overthrow-somalia-s-transitional-governm.md)

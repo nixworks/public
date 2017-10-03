@@ -18,7 +18,7 @@ A fire started by an exploding gas canister kills at least 25 people in the Egyp
 ### [At least six people have been killed and several are missing following a building collapse in the Indian city of Thane. ](/news/2015/07/28/at-least-six-people-have-been-killed-and-several-are-missing-following-a-building-collapse-in-the-indian-city-of-thane.md)
 _Context: India, Thane_
 
-### [Heavy rain in last three days resulted in widespread flood in north Gujarat resulting in more than 70 deaths.[http://www.firstpost.com/india/gujarat-floods-72-people-dead-over-81000-cattle-perished-due-to-heavy-rains-2380592.html]](/news/2015/07/28/heavy-rain-in-last-three-days-resulted-in-widespread-flood-in-north-gujarat-resulting-in-more-than-70-deaths-http-www-firstpost-com-india.md)
+### [Heavy rain in last three days resulted in widespread flood in north Gujarat resulting in more than 70 deaths.[http:--www.firstpost.com-india-gujarat-floods-72-people-dead-over-81000-cattle-perished-due-to-heavy-rains-2380592.html]](/news/2015/07/28/heavy-rain-in-last-three-days-resulted-in-widespread-flood-in-north-gujarat-resulting-in-more-than-70-deaths-http-www-firstpost-com-india.md)
 _Context: Gujarat, widespread flood_
 
 ### [A Libyan court sentences Saif al-Islam Gaddafi to death in absentia for alleged atrocities in 2011. ](/news/2015/07/28/a-libyan-court-sentences-saif-al-islam-gaddafi-to-death-in-absentia-for-alleged-atrocities-in-2011.md)

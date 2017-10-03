@@ -40,7 +40,7 @@ _Context: Mongolia, Prime Minister, Sanjaagiin Bayar, Skhbaataryn Batbold_
 _Context: Democratic Party, South Korea_
 
 ### [ The Matthew Shepard Act, providing legal protection against hate crimes to lesbian, gay, bisexual, and transgendered people, is signed into law in the United States by President Barack Obama. ](/news/2009/10/28/the-matthew-shepard-act-providing-legal-protection-against-hate-crimes-to-lesbian-gay-bisexual-and-transgendered-people-is-signed-into.md)
-_Context: Barack Obama, Matthew Shepard Act, U.S., gay and bisexual men, hate crimes_
+_Context: Americans, Barack Obama, Matthew Shepard Act, gay and bisexual men, hate crimes_
 
 ### [ Federal agents attached to the FBI fatally shoot the leader of a Sunni Muslim group wanted on firearm charges in Detroit, USA. ](/news/2009/10/28/federal-agents-attached-to-the-fbi-fatally-shoot-the-leader-of-a-sunni-muslim-group-wanted-on-firearm-charges-in-detroit-usa.md)
 Federal authorities said that a leader of what they called a radical group was killed during an F.B.I. raid.

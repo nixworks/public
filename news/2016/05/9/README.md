@@ -3,7 +3,7 @@
 ### [ A suicide car bomb targeting Mogadishu's traffic police headquarters kills at least four. Al-Shabaab claims responsibility. ](/news/2016/05/9/a-suicide-car-bomb-targeting-mogadishu-s-traffic-police-headquarters-kills-at-least-four-al-shabaab-claims-responsibility.md)
 _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
 
-### [  Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. ](/news/2016/05/9/airstrikes-by-the-saudi-led-coalition-kill-at-least-10-in-yemen.md)
+### [ Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. ](/news/2016/05/9/airstrikes-by-the-saudi-led-coalition-kill-at-least-10-in-yemen.md)
 _Context: Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_
 
 ### [ The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-other-militants-in-an-airstrike-near.md)

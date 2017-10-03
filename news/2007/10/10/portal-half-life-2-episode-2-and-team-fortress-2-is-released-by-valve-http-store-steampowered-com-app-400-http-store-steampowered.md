@@ -1,6 +1,6 @@
 ### [2007-10-10](/news/2007/10/10/index.md)
 
-#  Portal, Half-Life 2: Episode 2 and Team Fortress 2 is released by Valve. [http://store.steampowered.com/app/400/][http://store.steampowered.com/app/440]
+#  Portal, Half-Life 2: Episode 2 and Team Fortress 2 is released by Valve. [http:--store.steampowered.com-app-400-][http:--store.steampowered.com-app-440]
 
 
 

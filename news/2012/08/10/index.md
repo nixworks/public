@@ -1,7 +1,7 @@
 ## [2012-08-10](/news/2012/08/10/index.md)
 
 ### [Four suspected drug traffickers of the Sinaloa Cartel, including the cousin of Joaquin "El Chapo" Guzman, Mexico's most-wanted drug lord, are captured in Spain. ](/news/2012/08/10/four-suspected-drug-traffickers-of-the-sinaloa-cartel-including-the-cousin-of-joaquan-el-chapo-guzma-n-mexico-s-most-wanted-drug-lord.md)
-_Context: Joaquin Guzman Loera, Sinaloa Cartel, Spanish_
+_Context: Joaquin Guzman Loera, Sinaloa Cartel, Spain_
 
 ### [A Libyan army general Mohammed Hadia al Feitouri is shot dead in Benghazi. ](/news/2012/08/10/a-libyan-army-general-mohammed-hadia-al-feitouri-is-shot-dead-in-benghazi.md)
 A top Libyan defence official is shot dead in the eastern city of Benghazi, in the latest of a series of attacks on Gaddafi-era security officials.
@@ -10,7 +10,7 @@ A top Libyan defence official is shot dead in the eastern city of Benghazi, in t
 _Context: Manila, Philippines_
 
 ### [The United States says they are planning to help clean up herbicide Agent Orange from areas of Vietnam, the first time since the Vietnam War ended in 1975. ](/news/2012/08/10/the-united-states-says-they-are-planning-to-help-clean-up-herbicide-agent-orange-from-areas-of-vietnam-the-first-time-since-the-vietnam-war.md)
-_Context: Agent Orange, U.S., Vietnam, Vietnam War_
+_Context: Agent Orange, Americans, Vietnam, Vietnam War_
 
 ### [The South Korean Yonhap news agency reports that the President of South Korea Lee Myung-bak is considering visiting the disputed Liancourt Rocks, which are also claimed by Japan. ](/news/2012/08/10/the-south-korean-yonhap-news-agency-reports-that-the-president-of-south-korea-lee-myung-bak-is-considering-visiting-the-disputed-liancourt-r.md)
 _Context: Japan, Lee Myung-bak, Liancourt Rocks, President of South Korea, South Korea, Yonhap_

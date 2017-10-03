@@ -1,6 +1,6 @@
 ## [2004-06-27](/news/2004/06/27/index.md)
 
-### [ "Fahrenheit 9/11" breaks the record for highest opening-weekend earnings in the United States for a documentary, earning US$23.9 million. ](/news/2004/06/27/fahrenheit-9-11-breaks-the-record-for-highest-opening-weekend-earnings-in-the-united-states-for-a-documentary-earning-us-23-9-million.md)
+### [ "Fahrenheit 9-11" breaks the record for highest opening-weekend earnings in the United States for a documentary, earning US$23.9 million. ](/news/2004/06/27/fahrenheit-9-11-breaks-the-record-for-highest-opening-weekend-earnings-in-the-united-states-for-a-documentary-earning-us-23-9-million.md)
 _Context: $, Fahrenheit 9/11, documentary_
 
 ### [ In the 2004 Serbian presidential election, Boris Tadic defeats Tomislav Nikolic in the run-off, with 53.7% to 45.0% of the votes. ](/news/2004/06/27/in-the-2004-serbian-presidential-election-boris-tadic-defeats-tomislav-nikolic-in-the-run-off-with-53-7-to-45-0-of-the-votes.md)

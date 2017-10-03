@@ -31,7 +31,7 @@ _Context: Al Wefaq, parliamentary elections, radical Islamists_
 _Context: Black Hawk helicopter, Fiji, HMAS ''Kanimbla'', Suva, soldiers_
 
 ### [ The United Nations Security Council unanimously passes a resolution that extends the mandate of the United States-led multinational force in Iraq until December 31, 2007. The new resolution requires a review of the mandate to begin by June 15, 2007, or sooner if the government of Iraq requests it. The government of Iraq can also revoke the mandate before its end if it chooses to do so. ](/news/2006/11/29/the-united-nations-security-council-unanimously-passes-a-resolution-that-extends-the-mandate-of-the-united-states-led-multinational-force-i.md)
-_Context: Iraq, U.S., U.S.-led troops, United Nations Security Council_
+_Context: Americans, Iraq, U.S.-led troops, United Nations Security Council_
 
 ### [ The Prime Minister of Fiji Laisenia Qarase meets with Fijian military commander Commodore Frank Bainimarama in emergency talks in Wellington, New Zealand aimed at averting a coup. ](/news/2006/11/29/the-prime-minister-of-fiji-laisenia-qarase-meets-with-fijian-military-commander-commodore-frank-bainimarama-in-emergency-talks-in-wellingto.md)
 _Context: Fiji, Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama, Wellington_

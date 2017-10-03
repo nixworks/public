@@ -40,9 +40,9 @@ _Context: Russia, Udmurt Republic, ammo depot_
 UN says up to 150 bodies found off the Tunisian coast a day after a boat reportedly carrying 850 people capsized.
 
 ### [South Korea and the United States launch an investigation into allegations by former United States Army soldiers that chemicals including Agent Orange were dumped at Camp Carroll near the city of Daegu. ](/news/2011/06/2/south-korea-and-the-united-states-launch-an-investigation-into-allegations-by-former-united-states-army-soldiers-that-chemicals-including-ag.md)
-_Context: Agent Orange, Camp Carroll, Daegu, South Korea, U.S., U.S. soldiers_
+_Context: Agent Orange, Americans, Camp Carroll, Daegu, South Korea, U.S. soldiers_
 
-### [WikiLeaks releases secret documents on Egypt's nuclear power plant. [http://www.almasryalyoum.com/en/node/460603 "(Al-Masry Al-Youm)"]](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-nuclear-power-plant-http-www-almasryalyoum-com-en-node-460603-al-masry-al-youm.md)
+### [WikiLeaks releases secret documents on Egypt's nuclear power plant. [http:--www.almasryalyoum.com-en-node-460603 "(Al-Masry Al-Youm)"]](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-nuclear-power-plant-http-www-almasryalyoum-com-en-node-460603-al-masry-al-youm.md)
 _Context: Egypt, WikiLeaks, nuclear power plants_
 
 ### [Five people are killed and one person injured in a multiple shooting at Yuma County, Arizona. ](/news/2011/06/2/five-people-are-killed-and-one-person-injured-in-a-multiple-shooting-at-yuma-county-arizona.md)
@@ -51,7 +51,7 @@ _Context: Arizona, Yuma County_
 ### [Philip and Nancy Garrido are given life sentences in the US state of California for the Kidnapping of Jaycee Lee Dugard. ](/news/2011/06/2/philip-and-nancy-garrido-are-given-life-sentences-in-the-us-state-of-california-for-the-kidnapping-of-jaycee-lee-dugard.md)
 _Context: California, Kidnapping of Jaycee Lee Dugard_
 
-### [Presidential elections in Latvia. Andris Berzins won the election. [http://www.google.com/hostednews/canadianpress/article/ALeqM5h7Fn4phdTPXHp45GeSmGMx6DhTiA?docId=7021348]](/news/2011/06/2/presidential-elections-in-latvia-andris-barziaa-won-the-election-http-www-google-com-hostednews-canadianpress-article-aleqm5h7fn4phd.md)
+### [Presidential elections in Latvia. Andris Berzins won the election. [http:--www.google.com-hostednews-canadianpress-article-ALeqM5h7Fn4phdTPXHp45GeSmGMx6DhTiA?docId=7021348]](/news/2011/06/2/presidential-elections-in-latvia-andris-barziaa-won-the-election-http-www-google-com-hostednews-canadianpress-article-aleqm5h7fn4phd.md)
 _Context: Andris Berzins, Latvia, Presidential elections_
 
 ### [Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md)

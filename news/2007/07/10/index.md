@@ -37,10 +37,10 @@ _Context: Brian France, Cessna 310, Florida, International Speedway Corporation,
 _Context: Australia, Julian Moti, Solomon Islands, child-sex_
 
 ### [ Simn Trinidad, a high-ranking member of the Revolutionary Armed Forces of Colombia, is found guilty of conspiracy to hold three Americans hostage by a U.S. court. ](/news/2007/07/10/simon-trinidad-a-high-ranking-member-of-the-revolutionary-armed-forces-of-colombia-is-found-guilty-of-conspiracy-to-hold-three-americans.md)
-_Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, U.S._
+_Context: Americans, Revolutionary Armed Forces of Colombia, Simn Trinidad_
 
 ### [ In observance of Captive Nations Week, there was a brief ceremony and laying of a wreath today at the Victims of Communism Memorial, Massachusetts and New Jersey Avenues, NW, Washington, D.C.. On 10 July, George W. Bush issued a Proclamation, designating July 15 through 21 as Captive Nations Week and called upon the American people to reaffirm the country's "commitment to all those seeking liberty, justice and self-determination." This year marks the 49th observance of Captive Nations Week. ](/news/2007/07/10/in-observance-of-captive-nations-week-there-was-a-brief-ceremony-and-laying-of-a-wreath-today-at-the-victims-of-communism-memorial-massac.md)
-_Context: 10 July, Captive Nations Week, District of Columbia, George W. Bush, Massachusetts, Proclamation, U.S., communism, self-determination_
+_Context: 10 July, Americans, Captive Nations Week, District of Columbia, George W. Bush, Massachusetts, Proclamation, communism, self-determination_
 
 ### [ Thailand's highest court rules that a corruption case may proceed against former Prime Minister of Thailand Thaksin Shinawatra. ](/news/2007/07/10/thailand-s-highest-court-rules-that-a-corruption-case-may-proceed-against-former-prime-minister-of-thailand-thaksin-shinawatra.md)
 _Context: Prime Minister, Thailand, Thaksin Shinawatra_
@@ -51,7 +51,7 @@ China executed the former head of its State Food and Drug Administration on Tues
 ### [ A Tamil man from Sydney is charged with multiple terrorism charges over alleged links with the Tamil Tigers. ](/news/2007/07/10/a-tamil-man-from-sydney-is-charged-with-multiple-terrorism-charges-over-alleged-links-with-the-tamil-tigers.md)
 _Context: Sri Lankan Tamil, Sydney, Tamil Tigers, terrorism_
 
-### [ Pakistani forces storm the Lal Masjid Mosque in Islamabad, bringing the Lal Masjid siege to an end. At least 3 soldiers and 40 militants die in the assault. [http://www.reuters.com/article/topNews/idUSISL18833720070710?feedType=RSS (Reuters)] [http://www.foxnews.com/story/0,2933,288736,00.html (FOX)]. Abdul Rashid Ghazi, a top clerics was confirmed dead according to Interior ministry sources.](/news/2007/07/10/pakistani-forces-storm-the-lal-masjid-mosque-in-islamabad-bringing-the-lal-masjid-siege-to-an-end-at-least-3-soldiers-and-40-militants-di.md)
+### [ Pakistani forces storm the Lal Masjid Mosque in Islamabad, bringing the Lal Masjid siege to an end. At least 3 soldiers and 40 militants die in the assault. [http:--www.reuters.com-article-topNews-idUSISL18833720070710?feedType=RSS (Reuters)] [http:--www.foxnews.com-story-0,2933,288736,00.html (FOX)]. Abdul Rashid Ghazi, a top clerics was confirmed dead according to Interior ministry sources.](/news/2007/07/10/pakistani-forces-storm-the-lal-masjid-mosque-in-islamabad-bringing-the-lal-masjid-siege-to-an-end-at-least-3-soldiers-and-40-militants-di.md)
 _Context: Abdul Rashid Ghazi, Islamabad, Lal Masjid, Lal Masjid siege, Pakistan, mosque_
 
 ## [Previous Day...](/news/2007/07/9/index.md)

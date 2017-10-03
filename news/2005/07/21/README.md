@@ -6,7 +6,7 @@ _Context: Bombay Police, Maharashtra_
 ### [ Kenyan legislators approve a constitution which critics say leaves too much power in the hands of the President. ](/news/2005/07/21/kenyan-legislators-approve-a-constitution-which-critics-say-leaves-too-much-power-in-the-hands-of-the-president.md)
 _Context: President, constitution, lawmakers_
 
-### [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. [http://news.bbc.co.uk/1/hi/world/europe/4705425.stm BBC News]. - see German federal election, 2005](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005-http-news-bbc-co-uk-1.md)
+### [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. [http:--news.bbc.co.uk-1-hi-world-europe-4705425.stm BBC News]. - see German federal election, 2005](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005-http-news-bbc-co-uk-1.md)
 _Context: German federal election, 2005, Horst Khler_
 
 ### [ After a blitz of detentions of suspected militants and Islamists, Pakistan's President Pervez Musharraf calls for a holy war against preachers of hate and announces steps to curb militant Islamic schools and groups. ](/news/2005/07/21/after-a-blitz-of-detentions-of-suspected-militants-and-islamists-pakistan-s-president-pervez-musharraf-calls-for-a-holy-war-against-preach.md)

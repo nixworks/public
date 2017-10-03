@@ -3,7 +3,7 @@
 ### [ "Harry Potter" author J. K. Rowling announces the release date for her book, "Harry Potter and the Deathly Hallows", the final installment in the "Potter" series to be 21 July 2007. ](/news/2007/02/1/harry-potter-author-j-k-rowling-announces-the-release-date-for-her-book-harry-potter-and-the-deathly-hallows-the-final-installment.md)
 _Context: Harry Potter, Harry Potter and the Deathly Hallows, J. K. Rowling_
 
-### [ The Government of France has banned the smoking of cigarettes in every second-hand smoke area. [http://abcnews.go.com/International/wireStory?id=2839906 (ABC News)] (wikinews)](/news/2007/02/1/the-government-of-france-has-banned-the-smoking-of-cigarettes-in-every-second-hand-smoke-area-http-abcnews-go-com-international-wiresto.md)
+### [ The Government of France has banned the smoking of cigarettes in every second-hand smoke area. [http:--abcnews.go.com-International-wireStory?id=2839906 (ABC News)] (wikinews)](/news/2007/02/1/the-government-of-france-has-banned-the-smoking-of-cigarettes-in-every-second-hand-smoke-area-http-abcnews-go-com-international-wiresto.md)
 _Context: (wikinews), cigarettes, second-hand smoke, smoking_
 
 ### [ British Prime Minister, Tony Blair, questioned for a second time in Scotland Yard's 'Cash for peerages' probe. Calls for an early departure for Blair increase.](/news/2007/02/1/british-prime-minister-tony-blair-questioned-for-a-second-time-in-scotland-yard-s-cash-for-peerages-probe-calls-for-an-early-departure.md)

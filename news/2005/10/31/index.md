@@ -7,7 +7,7 @@ _Context: Carlos Gomes Jnior, Guinea-Bissau, Joo Bernardo Vieira_
 _Context: Andrea Nahles, Franz Mntefering, Germany, Kajo Wasserhvel, November 14, SPD_
 
 ### [ U.S. President George W. Bush nominates Judge Samuel Alito of the Third Circuit Court of Appeals to the U.S. Supreme Court. ](/news/2005/10/31/u-s-president-george-w-bush-nominates-judge-samuel-alito-of-the-third-circuit-court-of-appeals-to-the-u-s-supreme-court.md)
-_Context: George W. Bush, Samuel Alito, Third Circuit Court of Appeals, U.S., U.S. President, United States Supreme Court_
+_Context: Americans, George W. Bush, Samuel Alito, Third Circuit Court of Appeals, U.S. President, United States Supreme Court_
 
 ### [ Japanese Prime Minister Junichiro Koizumi announces his fifth cabinet. Shinzo Abe, former Secretary General of the Liberal Democratic Party, becomes Chief Cabinet Secretary and is widely speculated to be Koizumi's chosen successor. Former Interior Minister Taro Aso becomes Foreign Minister, and is replaced by former economic advisor Heizo Takenaka. ](/news/2005/10/31/japanese-prime-minister-junichiro-koizumi-announces-his-fifth-cabinet-shinzo-abe-former-secretary-general-of-the-liberal-democratic-party.md)
 _Context: Chief Cabinet Secretary, Foreign Minister, Heizo Takenaka, Interior Minister, Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe, Taro Aso_
@@ -25,7 +25,7 @@ _Context: Athanase Seromba, International Criminal Tribunal for Rwanda, Roman Ca
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Infanta Leonor of Spain, second in the succession line to the Spanish throne, is born in Madrid at 01:46 AM, local time. ](/news/2005/10/31/infanta-leonor-of-spain-second-in-the-succession-line-to-the-spanish-throne-is-born-in-madrid-at-01-46-am-local-time.md)
-_Context: Infanta Leonor, Madrid, Spanish, succession line to the Spanish throne_
+_Context: Infanta Leonor, Madrid, Spain, succession line to the Spanish throne_
 
 ### [ Exiled GAM leader, Bakhtiar Abdullah, visits the Indonesian special territory of Aceh for the first time in 25 years to see the peace process aimed at ending nearly three decades of conflict. ](/news/2005/10/31/exiled-gam-leader-bakhtiar-abdullah-visits-the-indonesian-special-territory-of-aceh-for-the-first-time-in-25-years-to-see-the-peace-proce.md)
 _Context: Aceh, Bakhtiar Abdullah, GAM, Indonesia_

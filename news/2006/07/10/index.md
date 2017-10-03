@@ -1,7 +1,7 @@
 ## [2006-07-10](/news/2006/07/10/index.md)
 
 ### [ The United Kingdom unveils a new terror alert status system, similar to the United States' Homeland Security Advisory System. It is currently at "severe" on a scale of low, moderate, substantial, severe and critical. ](/news/2006/07/10/the-united-kingdom-unveils-a-new-terror-alert-status-system-similar-to-the-united-states-homeland-security-advisory-system-it-is-current.md)
-_Context: Homeland Security Advisory System, U.S., United Kingdom_
+_Context: Americans, Homeland Security Advisory System, United Kingdom_
 
 ### [ Hundreds of thousands of children are potentially fingerprinted in the UK, some as young as five years old and without parental consent. ](/news/2006/07/10/hundreds-of-thousands-of-children-are-potentially-fingerprinted-in-the-uk-some-as-young-as-five-years-old-and-without-parental-consent.md)
 _Context: UK_

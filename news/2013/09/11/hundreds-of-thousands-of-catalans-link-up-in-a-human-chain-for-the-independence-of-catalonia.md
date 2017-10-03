@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [The Catalan people vote in a referendum on whether and how they should exercise self-determination. The Spanish government in Madrid does not recognise the authority of the vote. [http://www.bbc.com/news/world-europe-29974635 (BBC) ]](/news/2014/11/9/the-catalan-people-vote-in-a-referendum-on-whether-and-how-they-should-exercise-self-determination-the-spanish-government-in-madrid-does-no.md) _Context: Catalan people_
+1. [The Catalan people vote in a referendum on whether and how they should exercise self-determination. The Spanish government in Madrid does not recognise the authority of the vote. [http:--www.bbc.com-news-world-europe-29974635 (BBC) ]](/news/2014/11/9/the-catalan-people-vote-in-a-referendum-on-whether-and-how-they-should-exercise-self-determination-the-spanish-government-in-madrid-does-no.md) _Context: Catalan people_
 2. [Catalan tenor Jose Carreras announces he is to perform at La Scala for the first time in 14 years. ](/news/2010/07/22/catalan-tenor-josa-c-carreras-announces-he-is-to-perform-at-la-scala-for-the-first-time-in-14-years.md) _Context: Catalan people_

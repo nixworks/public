@@ -1,6 +1,6 @@
 ### [2000-05-5](/news/2000/05/5/index.md)
 
-#  A rare conjunction occurs on the New Moon including all seven of the traditional celestial bodies known from ancient times up until 1781 with the discovery of Uranus. The conjunction consists of the Sun and Moon, Mercury, Venus, Mars, Jupiter, and Saturn.([http://nssdc.gsfc.nasa.gov/planetary/alignment.html NASA])
+#  A rare conjunction occurs on the New Moon including all seven of the traditional celestial bodies known from ancient times up until 1781 with the discovery of Uranus. The conjunction consists of the Sun and Moon, Mercury, Venus, Mars, Jupiter, and Saturn.([http:--nssdc.gsfc.nasa.gov-planetary-alignment.html NASA])
 
 
 
@@ -12,8 +12,3 @@
 3. [NASA releases new pictures from the Dawn spacecraft as it approaches from a distance of 238,000 miles of Ceres, the largest object in the asteroid belt between Mars and Jupiter. Dawn will go into orbit around the dwarf planet on March 6. ](/news/2015/01/19/nasa-releases-new-pictures-from-the-dawn-spacecraft-as-it-approaches-from-a-distance-of-238-000-miles-of-ceres-the-largest-object-in-the-as.md) _Context: Jupiter, Mars_
 4. [Image taken by the Cassini spacecraft from Saturn orbit shows Venus shining like a bright beacon through Saturn's rings. ](/news/2013/03/2/image-taken-by-the-cassini-spacecraft-from-saturn-orbit-shows-venus-shining-like-a-bright-beacon-through-saturnas-rings.md) _Context: Saturn, Venus_
 5. [New data from the NASA space probe MESSENGER indicate that Mercury, the closest planet to the Sun, almost surely has water ice buried beneath the surface at its north pole. ](/news/2012/11/29/new-data-from-the-nasa-space-probe-messenger-indicate-that-mercury-the-closest-planet-to-the-sun-almost-surely-has-water-ice-buried-beneat.md) _Context: Mercury's, Sun_
-6. [Jupiter becomes the brightest object in the night sky after the Moon as it makes its closest approach to Earth since 1963. ](/news/2010/09/20/jupiter-becomes-the-brightest-object-in-the-night-sky-after-the-moon-as-it-makes-its-closest-approach-to-earth-since-1963.md) _Context: Jupiter, Moon_
-7. [ The United States and Russia sign a pact to use Russian technology on NASA missions to hunt for water on the moon and Mars. ](/news/2007/10/3/the-united-states-and-russia-sign-a-pact-to-use-russian-technology-on-nasa-missions-to-hunt-for-water-on-the-moon-and-mars.md) _Context: Mars, Moon_
-8. [ Astronomers have discovered new moons and rings around Uranus using the Hubble Space Telescope. ](/news/2005/12/23/astronomers-have-discovered-new-moons-and-rings-around-uranus-using-the-hubble-space-telescope.md) _Context: Moon, Uranus_
-9. [ Venus passes between the Sun and the Earth in the first transit of Venus since 1882. ](/news/2004/06/8/venus-passes-between-the-sun-and-the-earth-in-the-first-transit-of-venus-since-1882.md) _Context: Sun, Venus_
-10. [ The European Space Agency announces plans to send humans and robot probes to the Moon and Mars over the next three decades.](/news/2004/02/4/the-european-space-agency-announces-plans-to-send-humans-and-robot-probes-to-the-moon-and-mars-over-the-next-three-decades.md) _Context: Mars, Moon_

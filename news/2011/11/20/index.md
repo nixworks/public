@@ -16,7 +16,7 @@ President of Turkey Abdullah Gul says his country still wants to join the EU, be
 _Context: Kingsbury, London, Metropolitan Police Service, attempted murder_
 
 ### [Voters in Spain go to the polls for a general election, with the centre-right Popular Party winning a parliamentary majority. ](/news/2011/11/20/voters-in-spain-go-to-the-polls-for-a-general-election-with-the-centre-right-popular-party-winning-a-parliamentary-majority.md)
-_Context: Popular Party, Spanish, centre-right, general election, parliamentary majority_
+_Context: Popular Party, Spain, centre-right, general election, parliamentary majority_
 
 ## [Previous Day...](/news/2011/11/19/index.md)
 

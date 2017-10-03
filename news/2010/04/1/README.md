@@ -30,7 +30,7 @@ President Dmitry Medvedev on Thursday urged tough anti-terror measures as he mad
 ### [ Missing four-year-old Paulette Gebara Farah, whose disappearance from her home in Huixquilucan, Edomex, achieved major publicity in Mexico, is found dead under a mattress in her bedroom. ](/news/2010/04/1/missing-four-year-old-paulette-gebara-farah-whose-disappearance-from-her-home-in-huixquilucan-edomex-achieved-major-publicity-in-mexico.md)
 A disabled four-year-old girl whose disappearance last week sparked an outpouring of sympathy across Mexico was found dead in her own bedroom.
 
-### [ Dozens of prisoners escape/are wounded after an explosion occurs at a prison in Daleh. ](/news/2010/04/1/dozens-of-prisoners-escape-are-wounded-after-an-explosion-occurs-at-a-prison-in-daleh.md)
+### [ Dozens of prisoners escape-are wounded after an explosion occurs at a prison in Daleh. ](/news/2010/04/1/dozens-of-prisoners-escape-are-wounded-after-an-explosion-occurs-at-a-prison-in-daleh.md)
 Over 30 inmates have escaped from a prison in Yemen after a bomb was thrown at the prison walls and exploded.
 
 ### [ A landmark ruling at the Court of Appeal allows science writer Simon Singh to rely on the defence of fair comment in a libel action taken by the British Chiropractic Association over a 2008 article in "The Guardian" newspaper. ](/news/2010/04/1/a-landmark-ruling-at-the-court-of-appeal-allows-science-writer-simon-singh-to-rely-on-the-defence-of-fair-comment-in-a-libel-action-taken-b.md)
@@ -57,8 +57,8 @@ LOS ANGELES (Reuters Life!) - Oscar winner Anna Paquin came out as bisexual on T
 ### [ Aretha Franklin and Michael Jackson are inducted into the hall of fame at New York's Apollo Theater. ](/news/2010/04/1/aretha-franklin-and-michael-jackson-are-inducted-into-the-hall-of-fame-at-new-york-s-apollo-theater.md)
 _Context: Apollo Theater, Aretha Franklin, Michael Jackson, New York City_
 
-### [ Members of the Christian militia group Hutaree plead not guilty to a court in Michigan, United States, to claims of plotting to kill American police officers. [http://www.cnn.com/2010/CRIME/03/31/michigan.militia.hutaree/index.html?iref=allsearch (CNN) ]](/news/2010/04/1/members-of-the-christian-militia-group-hutaree-plead-not-guilty-to-a-court-in-michigan-united-states-to-claims-of-plotting-to-kill-americ.md)
-_Context: Christian, Hutaree, Michigan, U.S., militia, police officer_
+### [ Members of the Christian militia group Hutaree plead not guilty to a court in Michigan, United States, to claims of plotting to kill American police officers. [http:--www.cnn.com-2010-CRIME-03-31-michigan.militia.hutaree-index.html?iref=allsearch (CNN) ]](/news/2010/04/1/members-of-the-christian-militia-group-hutaree-plead-not-guilty-to-a-court-in-michigan-united-states-to-claims-of-plotting-to-kill-americ.md)
+_Context: Americans, Christian, Hutaree, Michigan, militia, police officer_
 
 ### [ Sarah Palin spoke to thousands of tea party activists gathered in the Nevada desert about Harry Reid. ](/news/2010/04/1/sarah-palin-spoke-to-thousands-of-tea-party-activists-gathered-in-the-nevada-desert-about-harry-reid.md)
 _Context: Harry Reid, Nevada desert, Sarah Palin, Tea Party_

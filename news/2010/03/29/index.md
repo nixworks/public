@@ -31,7 +31,7 @@ MORE than 300 southern right whales, most of them young calves, have been found 
 _Context: Kazuyo Sejima, Pritzker Prize, Ryue Nishizawa, SANAA, architecture_
 
 ### [Nine members of the Hutaree militia are arrested in the United States on allegations of a plot to kill policemen then to attack the funerals, in preparation for a war against all levels of American government. ](/news/2010/03/29/nine-members-of-the-hutaree-militia-are-arrested-in-the-united-states-on-allegations-of-a-plot-to-kill-policemen-then-to-attack-the-funerals.md)
-_Context: Hutaree, U.S., militia_
+_Context: Americans, Hutaree, militia_
 
 ### [A patent on two human genes is struck down by a judge in U.S. District Court in Manhattan. ](/news/2010/03/29/a-patent-on-two-human-genes-is-struck-down-by-a-judge-in-u-s-district-court-in-manhattan.md)
 In a ruling with potentially far-reaching implications for the patenting of human genes, a judge struck down a company’s patents on two genes linked to an increased risk of breast and ovarian cancer.

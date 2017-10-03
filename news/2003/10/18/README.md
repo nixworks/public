@@ -7,7 +7,7 @@ _Context: APEC, Asia Pacific, Asian Pacific Economic Cooperation, Bangkok, Georg
 _Context: Al Jazeera, Osama bin Laden_
 
 ### [ occupation of Iraq: Spain's government, one of the staunchest supporters of the attack on Iraq, has pledged $300 million over several years toward Iraqi reconstruction.](/news/2003/10/18/occupation-of-iraq-spain-s-government-one-of-the-staunchest-supporters-of-the-attack-on-iraq-has-pledged-300-million-over-several-years.md)
-_Context: Occupation of Iraq, Spanish_
+_Context: Occupation of Iraq, Spain_
 
 ### [ Zimbabwe's state oil corporation is reported to have run out of fuel, aggravating the continuing acute fuel crisis.](/news/2003/10/18/zimbabwe-s-state-oil-corporation-is-reported-to-have-run-out-of-fuel-aggravating-the-continuing-acute-fuel-crisis.md)
 _Context: Zimbabwe_
@@ -16,7 +16,7 @@ _Context: Zimbabwe_
 _Context: Squamish, flood_
 
 ### [ Canadian Prime Minister Jean Chrtien, visiting Afghanistan's President Hamid Karzai, is whisked out of Kabul owing to reports of a rocket attack. The reports turn out to be unfounded.](/news/2003/10/18/canadian-prime-minister-jean-chretien-visiting-afghanistan-s-president-hamid-karzai-is-whisked-out-of-kabul-owing-to-reports-of-a-rocket.md)
-_Context: Afghanistan, Canadian Prime Minister, Hamid Karzai, Jean Chrtien, Kabul_
+_Context: Afghanistan, Hamid Karzai, Jean Chrtien, Kabul, Prime Minister of Canada_
 
 ## [Previous Day...](/news/2003/10/17/index.md)
 

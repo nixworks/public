@@ -8,4 +8,4 @@
 ### Related:
 
 1. [Texas Stadium, the former home of the National Football League's Dallas Cowboys, is demolished by implosion. ](/news/2010/04/11/texas-stadium-the-former-home-of-the-national-football-league-s-dallas-cowboys-is-demolished-by-implosion.md) _Context: Texas Stadium_
-2. [ Santana Moss makes two miracle touchdown catches in the final minutes of a Redskins-Cowboys game to win 14-13, bringing the first Washington Redskins victory at Texas Stadium in ten years. [http://sports.yahoo.com/nfl/recap?gid=20050919006]](/news/2005/09/19/santana-moss-makes-two-miracle-touchdown-catches-in-the-final-minutes-of-a-redskins-cowboys-game-to-win-14-13-bringing-the-first-washingto.md) _Context: Texas Stadium_
+2. [ Santana Moss makes two miracle touchdown catches in the final minutes of a Redskins-Cowboys game to win 14-13, bringing the first Washington Redskins victory at Texas Stadium in ten years. [http:--sports.yahoo.com-nfl-recap?gid=20050919006]](/news/2005/09/19/santana-moss-makes-two-miracle-touchdown-catches-in-the-final-minutes-of-a-redskins-cowboys-game-to-win-14-13-bringing-the-first-washingto.md) _Context: Texas Stadium_

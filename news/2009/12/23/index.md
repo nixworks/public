@@ -33,7 +33,7 @@ Refugees in northern Yemen say that their villages were bombed in an escalating 
 ### [ The body of Luis Francisco Cullar, the governor of Caquet department in Colombia kidnapped the previous day, is found. ](/news/2009/12/23/the-body-of-luis-francisco-cuellar-the-governor-of-caqueta-department-in-colombia-kidnapped-the-previous-day-is-found.md)
 A Colombian governor kidnapped by leftist rebels had been killed shortly after he was snatched from his home in a rural southern state, authorities said on Tuesday.
 
-### [ Afghan senator Mohammed Yunos Shirnagha and his son/driver are fatally shot by police in Puli Khumri, Baghlan Province. ](/news/2009/12/23/afghan-senator-mohammed-yunos-shirnagha-and-his-son-driver-are-fatally-shot-by-police-in-puli-khumri-baghlan-province.md)
+### [ Afghan senator Mohammed Yunos Shirnagha and his son-driver are fatally shot by police in Puli Khumri, Baghlan Province. ](/news/2009/12/23/afghan-senator-mohammed-yunos-shirnagha-and-his-son-driver-are-fatally-shot-by-police-in-puli-khumri-baghlan-province.md)
 The senator’s car failed to stop despite repeated warnings from police, according to a statement by the Ministry of Interior.
 
 ### [ Authorities in Uzbekistan fell trees, some of which are more than a century old, in the capital Tashkent, in a controversy which has drawn protests. ](/news/2009/12/23/authorities-in-uzbekistan-fell-trees-some-of-which-are-more-than-a-century-old-in-the-capital-tashkent-in-a-controversy-which-has-drawn.md)
@@ -45,7 +45,7 @@ _Context: International Space Station, Soyuz TMA-17_
 ### [ The United Nations imposes sanctions of a ban on arms importation and frozen bank accounts on Eritrea for supporting Somali rebels. ](/news/2009/12/23/the-united-nations-imposes-sanctions-of-a-ban-on-arms-importation-and-frozen-bank-accounts-on-eritrea-for-supporting-somali-rebels.md)
 The U.N. Security Council imposed sanctions on the Horn of Africa state of Eritrea on Wednesday because of aid that council members say it has given to Islamist insurgents in nearby Somalia.
 
-### [ The Supreme Court of Pakistan orders the government to recognise "hijras" (eunuchs and transgender individuals) as a distinct gender. ([http://news.bbc.co.uk/2/hi/south_asia/8428819.stm BBC News])](/news/2009/12/23/the-supreme-court-of-pakistan-orders-the-government-to-recognise-hijras-eunuchs-and-transgender-individuals-as-a-distinct-gender-htt.md)
+### [ The Supreme Court of Pakistan orders the government to recognise "hijras" (eunuchs and transgender individuals) as a distinct gender. ([http:--news.bbc.co.uk-2-hi-south_asia-8428819.stm BBC News])](/news/2009/12/23/the-supreme-court-of-pakistan-orders-the-government-to-recognise-hijras-eunuchs-and-transgender-individuals-as-a-distinct-gender-htt.md)
 _Context: Supreme Court, hijras_
 
 ## [Previous Day...](/news/2009/12/22/index.md)

@@ -13,7 +13,7 @@ _Context: Ban Ki-moon, Cyclone Nargis, Myanmar, Secretary General, State Peace a
 Around 20,000 rail passengers were affected by today&#39;s industrial action, according to Iarnród Éireann.
 
 ### [ Hu Jintao, the President of China, and the President of Russia Dmitry Medvedev condemn the United States' National missile defense system. ](/news/2008/05/23/hu-jintao-the-president-of-china-and-the-president-of-russia-dmitry-medvedev-condemn-the-united-states-national-missile-defense-system.md)
-_Context: Chinese President, Dmitry Medvedev, Hu Jintao, Russian President, U.S., missile interceptor_
+_Context: Americans, Chinese President, Dmitry Medvedev, Hu Jintao, Russian President, missile interceptor_
 
 ### [ The International Court of Justice awards sovereignty of Pedra Branca to Singapore, ending a 28-year dispute over the islet between Singapore and Malaysia. Malaysia was awarded sovereignty of an outcropping of Pedra Branca, Middle Rocks, while the sovereignty of South Ledge was left to be determined by the maritime boundary between the two nations, which is also a contentious point. ](/news/2008/05/23/the-international-court-of-justice-awards-sovereignty-of-pedra-branca-to-singapore-ending-a-28-year-dispute-over-the-islet-between-singapo.md)
 _Context: International Court of Justice, Malaysia, Middle Rocks, Pedra Branca, Singapore, South Ledge_
@@ -24,7 +24,7 @@ Seven people have been killed in a bus crash in central France.
 ### [ An independent investigation into $8.2 billion in United States Department of Defense spending in Iraq, as well as aid to Egypt and Kuwait since 2001 finds that 95% of payments to contractors failed to meet requirements for documentation to determine what was paid for. ](/news/2008/05/23/an-independent-investigation-into-8-2-billion-in-united-states-department-of-defense-spending-in-iraq-as-well-as-aid-to-egypt-and-kuwait.md)
 An audit of $8.2 billion spent on contractors in Iraq found that almost none of the payments followed federal rules.
 
-### [ 2006 Lathen maglev train accident: Germany fines two test track managers over the 23 deaths and 11 injuries. A third defendant remains to be tried due to suicide fears. [http://www.bloomberg.com/apps/news?pid=20601100&sid=aOU9MgAJN2eY&refer=germany (Bloomberg)] (Wikinews)](/news/2008/05/23/2006-lathen-maglev-train-accident-germany-fines-two-test-track-managers-over-the-23-deaths-and-11-injuries-a-third-defendant-remains-to-b.md)
+### [ 2006 Lathen maglev train accident: Germany fines two test track managers over the 23 deaths and 11 injuries. A third defendant remains to be tried due to suicide fears. [http:--www.bloomberg.com-apps-news?pid=20601100&sid=aOU9MgAJN2eY&refer=germany (Bloomberg)] (Wikinews)](/news/2008/05/23/2006-lathen-maglev-train-accident-germany-fines-two-test-track-managers-over-the-23-deaths-and-11-injuries-a-third-defendant-remains-to-b.md)
 _Context: (Wikinews), 2006 Lathen maglev train accident, Germany, suicide_
 
 ### [ A coroner suggests the entire fleet of British Royal Air Force Hawker Siddeley Nimrod aircraft should be grounded on safety concerns. ](/news/2008/05/23/a-coroner-suggests-the-entire-fleet-of-british-royal-air-force-hawker-siddeley-nimrod-aircraft-should-be-grounded-on-safety-concerns.md)

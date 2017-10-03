@@ -1,6 +1,6 @@
 ## [2016-03-16](/news/2016/03/16/index.md)
 
-### [  A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md)
+### [ A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md)
 More than a dozen killed in attack on government workers in volatile city of Peshawar, near Afghan border
 
 ### [Two female suicide bombers detonate their explosives at a mosque during morning prayer on the outskirts of Maiduguri, Nigeria, killing 22 and injuring 18. ](/news/2016/03/16/two-female-suicide-bombers-detonate-their-explosives-at-a-mosque-during-morning-prayer-on-the-outskirts-of-maiduguri-nigeria-killing-22-an.md)

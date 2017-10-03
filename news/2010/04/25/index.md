@@ -28,7 +28,7 @@ Hungary&#039;s centre-right opposition has won a two-thirds general election vic
 Heinz Fischer easily defeats controversial leader of far-right Freedom Party.
 
 ### [Nearly 100,000 people rally in Okinawa, Japan, demanding the removal of an American base from the island. ](/news/2010/04/25/nearly-100-000-people-rally-in-okinawa-japan-demanding-the-removal-of-an-american-base-from-the-island.md)
-_Context: Japan, Okinawa, U.S._
+_Context: Americans, Japan, Okinawa_
 
 ### [Thousands of people rally in Beirut to ask for the separation of religion and state in Lebanon. ](/news/2010/04/25/thousands-of-people-rally-in-beirut-to-ask-for-the-separation-of-religion-and-state-in-lebanon.md)
 Thousands of demonstrators demand an end to the religious-based political system.
@@ -43,7 +43,7 @@ _Context: Somalian, Spanish Navy_
 _Context: Havana, Ladies in White_
 
 ### [Cuba's Speaker of the Parliament Ricardo Alarcon challenges the United States to lift its 48-year embargo on the island if it believes Cuba benefits from the embargo, as Hillary Clinton suggested. ](/news/2010/04/25/cuba-s-speaker-of-the-parliament-ricardo-alarca3n-challenges-the-united-states-to-lift-its-48-year-embargo-on-the-island-if-it-believes-cuba.md)
-_Context: Cuba, Hillary Clinton, Ricardo Alarcon, U.S._
+_Context: Americans, Cuba, Hillary Clinton, Ricardo Alarcon_
 
 ### [Iranian Minister for Foreign Affairs Manouchehr Mottaki meets the head of the International Atomic Energy Agency (IAEA) in Vienna and says Iran remains interested in a nuclear fuel swap drafted by the United Nations. ](/news/2010/04/25/iranian-minister-for-foreign-affairs-manouchehr-mottaki-meets-the-head-of-the-international-atomic-energy-agency-iaea-in-vienna-and-says-i.md)
 Iranian foreign minister discusses fuel proposal with head of UN nuclear agency.
@@ -51,7 +51,7 @@ Iranian foreign minister discusses fuel proposal with head of UN nuclear agency.
 ### [Tsegaye Kebede wins the men's marathon with a time of 2:05:19; Liliya Shobukhova wins the women's marathon with a time of 2:22:00. ](/news/2010/04/25/tsegaye-kebede-wins-the-men-s-marathon-with-a-time-of-2-05-19-liliya-shobukhova-wins-the-women-s-marathon-with-a-time-of-2-22-00.md)
 Princess Beatrice became the first royal to complete the London Marathon today as more than 35,000 runners braved heavy downpours to contest the annual race.
 
-### [Chennai Super Kings defeat Mumbai Indians to win the third Indian Premier League cricket tournament. "[http://edition.cnn.com/2010/SPORT/04/25/cricket.ipl.chennai.win.tendulkar/index.html?hpt=T2 CNN], [http://english.aljazeera.net/sport/ Al Jazeera], [http://www.smh.com.au/sport/cricket/chennai-win-ipl-with-22run-win-over-mumbai-20100426-tm1h.html Sydney Morning Herald]"](/news/2010/04/25/chennai-super-kings-defeat-mumbai-indians-to-win-the-third-indian-premier-league-cricket-tournament-http-edition-cnn-com-2010-sport-04.md)
+### [Chennai Super Kings defeat Mumbai Indians to win the third Indian Premier League cricket tournament. "[http:--edition.cnn.com-2010-SPORT-04-25-cricket.ipl.chennai.win.tendulkar-index.html?hpt=T2 CNN], [http:--english.aljazeera.net-sport- Al Jazeera], [http:--www.smh.com.au-sport-cricket-chennai-win-ipl-with-22run-win-over-mumbai-20100426-tm1h.html Sydney Morning Herald]"](/news/2010/04/25/chennai-super-kings-defeat-mumbai-indians-to-win-the-third-indian-premier-league-cricket-tournament-http-edition-cnn-com-2010-sport-04.md)
 _Context: Chennai Super Kings, Indian Premier League, Mumbai Indians_
 
 ### [The British Foreign and Commonwealth Office apologises after "The Sunday Telegraph" obtains a "foolish" document calling for the upcoming September visit of Pope Benedict XVI to be marked by the launch of "Benedict-branded" condoms, the opening of an abortion clinic and the blessing of a same-sex marriage. ](/news/2010/04/25/the-british-foreign-and-commonwealth-office-apologises-after-the-sunday-telegraph-obtains-a-foolish-document-calling-for-the-upcoming-se.md)

@@ -13,7 +13,7 @@ The passageway, running east from the Strip into Israel, is part of a larger com
 _Context: 2013 Man Booker Prize, Eleanor Catton, New Zealand, The Luminaries_
 
 ### [International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-negative-in-response-to-the-looming-financia.md)
-_Context: Fitch Ratings, U.S._
+_Context: Americans, Fitch Ratings_
 
 ### [Glenn Greenwald, a reporter with "The Guardian" who has published information provided him by NSA contractor Edward Snowden, is leaving the British newspaper to join a new journalistic enterprise to be bankrolled by Pierre Omidyar, the founder of eBay. ](/news/2013/10/15/glenn-greenwald-a-reporter-with-the-guardian-who-has-published-information-provided-him-by-nsa-contractor-edward-snowden-is-leaving-the.md)
 Glenn Greenwald, who has made headlines around the world with his reporting on U.S. electronic surveillance programs, is leaving the Guardian newspaper to join a new media venture funded by eBay founder Pierre Omidyar, according to people familiar with the matter.

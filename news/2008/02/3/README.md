@@ -24,7 +24,7 @@ _Context: Egypt, Gaza_
 ### [ Super Bowl XLII: The New York Giants defeat the New England Patriots 17-14 in Glendale, Arizona. ](/news/2008/02/3/super-bowl-xlii-the-new-york-giants-defeat-the-new-england-patriots-17-14-in-glendale-arizona.md)
 _Context: Glendale, Arizona, New England Patriots, New York Giants, Super Bowl XLII_
 
-### [ Silver State Helicopters, one of America's largest helicopter flight schools, suddenly closes its doors and files bankruptcy. [http://www.verticalmag.com/control/news/templates/?a=6605&z=6]](/news/2008/02/3/silver-state-helicopters-one-of-america-s-largest-helicopter-flight-schools-suddenly-closes-its-doors-and-files-bankruptcy-http-www-v.md)
+### [ Silver State Helicopters, one of America's largest helicopter flight schools, suddenly closes its doors and files bankruptcy. [http:--www.verticalmag.com-control-news-templates-?a=6605&z=6]](/news/2008/02/3/silver-state-helicopters-one-of-america-s-largest-helicopter-flight-schools-suddenly-closes-its-doors-and-files-bankruptcy-http-www-v.md)
 _Context: Silver State Helicopters, flight school, helicopter_
 
 ## [Previous Day...](/news/2008/02/2/index.md)

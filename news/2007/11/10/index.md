@@ -7,7 +7,7 @@ _Context: Borujerd, Iran, Muslim, Shi'ite, Sufi, cleric, mosque_
 A 4,000-year-old temple filled with murals has been unearthed on the northern coast of Peru, making it one of the oldest finds in the Americas, a leading archaeologist said on Saturday.
 
 ### [ Six American forces serving under NATO's International Security Assistance Force are killed in an insurgent ambush while patrolling in eastern Afghanistan. ](/news/2007/11/10/six-american-forces-serving-under-nato-s-international-security-assistance-force-are-killed-in-an-insurgent-ambush-while-patrolling-in-east.md)
-_Context: Afghanistan, NATO, Taliban insurgency, U.S._
+_Context: Afghanistan, Americans, NATO, Taliban insurgency_
 
 ### [ 2007 Bersih Rally: Malaysia sees its largest political protest in 10 years. ](/news/2007/11/10/2007-bersih-rally-malaysia-sees-its-largest-political-protest-in-10-years.md)
 _Context: its largest political protest_
@@ -18,7 +18,7 @@ _Context: Battle of Mogadishu (November 2007), Mogadishu, Somalian_
 ### [ 2007 North Sea flood: The German ports of Hamburg and Bremerhaven suffer in the floods. ](/news/2007/11/10/2007-north-sea-flood-the-german-ports-of-hamburg-and-bremerhaven-suffer-in-the-floods.md)
 _Context: 2007 North Sea flood, Bremerhaven, Germany, Hamburg_
 
-### [ Malik Mohammad Qayyum, the Attorney General of Pakistan predicts that the 2007 Pakistani state of emergency could be lifted within a month. [http://news.bbc.co.uk/2/hi/south_asia/7088346.stm (BBC)] Benazir Bhutto is to lead a long march against the emergency on 13 November. ](/news/2007/11/10/malik-mohammad-qayyum-the-attorney-general-of-pakistan-predicts-that-the-2007-pakistani-state-of-emergency-could-be-lifted-within-a-month.md)
+### [ Malik Mohammad Qayyum, the Attorney General of Pakistan predicts that the 2007 Pakistani state of emergency could be lifted within a month. [http:--news.bbc.co.uk-2-hi-south_asia-7088346.stm (BBC)] Benazir Bhutto is to lead a long march against the emergency on 13 November. ](/news/2007/11/10/malik-mohammad-qayyum-the-attorney-general-of-pakistan-predicts-that-the-2007-pakistani-state-of-emergency-could-be-lifted-within-a-month.md)
 _Context: 2007 Pakistani state of emergency, Benazir Bhutto, Malik Mohammad Qayyum, Pakistan_
 
 ### [ Stagehands belonging to the International Alliance of Theatrical Stage Employees go on strike, shutting down most Broadway plays and musicals. ](/news/2007/11/10/stagehands-belonging-to-the-international-alliance-of-theatrical-stage-employees-go-on-strike-shutting-down-most-broadway-plays-and-musica.md)

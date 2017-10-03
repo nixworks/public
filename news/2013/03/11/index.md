@@ -16,7 +16,7 @@ _Context: Fitch Ratings, Italy, creditworthiness, stock_
 Five Americans from the Nato-led foreign forces in Afghanistan die in a helicopter crash blamed on a rainstorm, the US says.
 
 ### [An EA-6B Prowler military plane crashes about 50 miles west of Spokane, Washington, United States, and kills three American Navy crew members. ](/news/2013/03/11/an-ea-6b-prowler-military-plane-crashes-about-50-miles-west-of-spokane-washington-united-states-and-kills-three-american-navy-crew-member.md)
-_Context: American Navy, EA-6B Prowler, Spokane, U.S., Washington, crashes_
+_Context: American Navy, Americans, EA-6B Prowler, Spokane, Washington, crashes_
 
 ### [Three minor earthquakes strike Southern California, United States. ](/news/2013/03/11/three-minor-earthquakes-strike-southern-california-united-states.md)
 Three earthquakes have shaken Southern California, according to the U.S. Geological Survey.
@@ -51,7 +51,7 @@ In announcing a settlement, the agency said the state had misled investors about
 ### [A New York state judge invalidates a New York City ban on the sale of soft drinks larger than 16 ounces that was set to take effect on March 12. The office of Mayor Michael Bloomberg indicates it will appeal. ](/news/2013/03/11/a-new-york-state-judge-invalidates-a-new-york-city-ban-on-the-sale-of-soft-drinks-larger-than-16-ounces-that-was-set-to-take-effect-on-march.md)
 _Context: March 12, Mayor, Michael Bloomberg, New York City, New York State, ban, ounces, soft drinks_
 
-### [Chris Huhne and Vicky Pryce are each jailed for eight months for perverting the course of justice. ([http://www.bbc.co.uk/news/uk-21737627 BBC])](/news/2013/03/11/chris-huhne-and-vicky-pryce-are-each-jailed-for-eight-months-for-perverting-the-course-of-justice-http-www-bbc-co-uk-news-uk-21737627-b.md)
+### [Chris Huhne and Vicky Pryce are each jailed for eight months for perverting the course of justice. ([http:--www.bbc.co.uk-news-uk-21737627 BBC])](/news/2013/03/11/chris-huhne-and-vicky-pryce-are-each-jailed-for-eight-months-for-perverting-the-course-of-justice-http-www-bbc-co-uk-news-uk-21737627-b.md)
 _Context: Chris Huhne, Vicky Pryce, jailed, perverting the course of justice_
 
 ### [Interim President of Venezuela Nicolas Maduro files papers to stand in the presidential election on April 14 with Henrique Capriles Radonski standing as an opposition candidate. ](/news/2013/03/11/interim-president-of-venezuela-nicola-s-maduro-files-papers-to-stand-in-the-presidential-election-on-april-14-with-henrique-capriles-radonsk.md)

@@ -1,7 +1,7 @@
 ## [2008-08-18](/news/2008/08/18/index.md)
 
 ### [ Taliban militants unsuccessfully attack the United States base Camp Saleno in Khost Province. ](/news/2008/08/18/taliban-militants-unsuccessfully-attack-the-united-states-base-camp-saleno-in-khost-province.md)
-_Context: Khost, Taliban, U.S._
+_Context: Americans, Khost, Taliban_
 
 ### [ Russia's Yelena Isinbayeva sets a new world record of 5.05 m outdoors in the women's pole vault at the Summer Olympics Games in Beijing. ](/news/2008/08/18/russia-s-yelena-isinbayeva-sets-a-new-world-record-of-5-05-m-outdoors-in-the-women-s-pole-vault-at-the-summer-olympics-games-in-beijing.md)
 Full Coverage of the Rio 2016 Olympics on Yahoo Sports. Get the schedule, medal count and the latest results.

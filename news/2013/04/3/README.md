@@ -22,7 +22,7 @@ Veteran US political activist and intellectual Noam Chomsky has received another
 _Context: Jay Leno, Jimmy Fallon, Late Night with Jimmy Fallon, NBC, TV network, The Tonight Show, U.S._
 
 ### [Subaru recalls around 200,000 vehicles in the United States to fix a defect which could lead to corrosion of the brake lines. ](/news/2013/04/3/subaru-recalls-around-200-000-vehicles-in-the-united-states-to-fix-a-defect-which-could-lead-to-corrosion-of-the-brake-lines.md)
-_Context: Subaru, U.S., corrosion_
+_Context: Americans, Subaru, corrosion_
 
 ### [Disney announces that it is ceasing all internal development at its LucasArts game division. ](/news/2013/04/3/disney-announces-that-it-is-ceasing-all-internal-development-at-its-lucasarts-game-division.md)
 _Context: Disney, LucasArts_
@@ -60,7 +60,7 @@ _Context: India, Uttar Pradesh, acid, motorcyclist_
 ### [Thirty-five American teachers from Atlanta are indicted on fraud charges for allegedly facilitating cheating on standardized tests dating back to 2001. ](/news/2013/04/3/thirty-five-american-teachers-from-atlanta-are-indicted-on-fraud-charges-for-allegedly-facilitating-cheating-on-standardized-tests-dating-ba.md)
 All but a handful of the 35 educators accused in a massive cheating scandal in Atlanta&#39;s public schools had turned themselves in and been freed on bond by early Wednesday, Fulton County authorities said.
 
-### [In the U.S. state of West Virginia, a sheriff is shot and killed in Mingo County. [http://www.wvgazette.com/News/201304030091 "(The Charleston Gazette)"]](/news/2013/04/3/in-the-u-s-state-of-west-virginia-a-sheriff-is-shot-and-killed-in-mingo-county-http-www-wvgazette-com-news-201304030091-the-charlest.md)
+### [In the U.S. state of West Virginia, a sheriff is shot and killed in Mingo County. [http:--www.wvgazette.com-News-201304030091 "(The Charleston Gazette)"]](/news/2013/04/3/in-the-u-s-state-of-west-virginia-a-sheriff-is-shot-and-killed-in-mingo-county-http-www-wvgazette-com-news-201304030091-the-charlest.md)
 _Context: Mingo County, U.S. state, West Virginia, sheriff_
 
 ### [Nicolas Maduro, acting President of Venezuela, officially begins his campaign to succeed Hugo Chavez in the late leader's hometown ahead of the April 14 election. ](/news/2013/04/3/nicola-s-maduro-acting-president-of-venezuela-officially-begins-his-campaign-to-succeed-hugo-cha-vez-in-the-late-leader-s-hometown-ahead-o.md)

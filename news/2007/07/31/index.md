@@ -1,10 +1,10 @@
 ## [2007-07-31](/news/2007/07/31/index.md)
 
 ### [ Nuradin Abdi, a Somali citizen living in the United States, pleads guilty to providing material support to terrorists in connection with a plot to blow up a shopping mall in Columbus, Ohio. ](/news/2007/07/31/nuradin-abdi-a-somali-citizen-living-in-the-united-states-pleads-guilty-to-providing-material-support-to-terrorists-in-connection-with-a.md)
-_Context: Columbus, Nuradin Abdi, Somalian, U.S., shopping mall, terrorist_
+_Context: Americans, Columbus, Nuradin Abdi, Somalian, shopping mall, terrorist_
 
 ### [ The President of Nicaragua Daniel Ortega offers to give up SAM-7 surface-to-air missiles in exchange for helicopters, surgical supplies and medicine from the United States. ](/news/2007/07/31/the-president-of-nicaragua-daniel-ortega-offers-to-give-up-sam-7-surface-to-air-missiles-in-exchange-for-helicopters-surgical-supplies-and.md)
-_Context: Daniel Ortega, Nicaraguan President, SAM-7, U.S., helicopters, surface-to-air missiles_
+_Context: Americans, Daniel Ortega, Nicaraguan President, SAM-7, helicopters, surface-to-air missiles_
 
 ### [ The board of News Corporation formally approves a $5 billion bid for Dow Jones with Dow Jones agreeing to the terms. ](/news/2007/07/31/the-board-of-news-corporation-formally-approves-a-5-billion-bid-for-dow-jones-with-dow-jones-agreeing-to-the-terms.md)
 Rupert Murdoch is set to achieve his decades-long dream of owning the Wall Street Journal.
@@ -27,7 +27,7 @@ The row between Australia and New Zealand over apple imports is heading to the W
 ### [ Bollywood actor Sanjay Dutt is jailed for six years, fined Rs. 25,000 and his probation plea rejected on charges of obtaining weapons from gangsters in a case associated with the 1993 Mumbai bombings. ](/news/2007/07/31/bollywood-actor-sanjay-dutt-is-jailed-for-six-years-fined-rs-25-000-and-his-probation-plea-rejected-on-charges-of-obtaining-weapons-from.md)
 _Context: 1993 Mumbai bombings, Bollywood, Sanjay Dutt, actor, gangster, probation, rupees_
 
-### [ Worsening floods affecting eastern India, Bangladesh and Nepal has led to millions of people leaving their homes. [http://news.bbc.co.uk/2/hi/south_asia/6922484.stm (BBC News)] 160 people confirmed dead in Bangladesh alone.](/news/2007/07/31/worsening-floods-affecting-eastern-india-bangladesh-and-nepal-has-led-to-millions-of-people-leaving-their-homes-http-news-bbc-co-uk-2.md)
+### [ Worsening floods affecting eastern India, Bangladesh and Nepal has led to millions of people leaving their homes. [http:--news.bbc.co.uk-2-hi-south_asia-6922484.stm (BBC News)] 160 people confirmed dead in Bangladesh alone.](/news/2007/07/31/worsening-floods-affecting-eastern-india-bangladesh-and-nepal-has-led-to-millions-of-people-leaving-their-homes-http-news-bbc-co-uk-2.md)
 _Context: Bangladesh, India, Nepal, flood_
 
 ### [ Flood alerts are issued for Hubei province in China as the swollen Yangtze River puts the Three Gorges Dam to the test. Another 27 people have died and Beijing's airport was closed on Monday night due to heavy rain. ](/news/2007/07/31/flood-alerts-are-issued-for-hubei-province-in-china-as-the-swollen-yangtze-river-puts-the-three-gorges-dam-to-the-test-another-27-people-h.md)

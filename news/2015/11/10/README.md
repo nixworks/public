@@ -6,7 +6,7 @@ The Islamic State&#039;s Sinai &quot;province&quot; used this banner to advertis
 ### [Syrian Army troops break an Islamic State in Iraq and the Levant siege of the Kweires airbase in the Aleppo Governorate. ](/news/2015/11/10/syrian-army-troops-break-an-islamic-state-in-iraq-and-the-levant-siege-of-the-kweires-airbase-in-the-aleppo-governorate.md)
 At least 23 people were killed and 40 wounded in two explosions in the Syrian city of Latakia on Tuesday, a monitoring group said, in one of the bloodiest attacks on President Bashar Al Assad&amp;#039;s coastal stronghold.
 
-### [Technology news website "Re/code" reports Dell Incorporated's $67 billion offer to buy data storage company EMC Corporation could be derailed by a tax bill of up to $9 billion if key aspects of the deal do not qualify for the sort of tax treatment the companies consider essential for the transaction. ](/news/2015/11/10/technology-news-website-re-code-reports-dell-incorporated-s-67-billion-offer-to-buy-data-storage-company-emc-corporation-could-be-deraile.md)
+### [Technology news website "Re-code" reports Dell Incorporated's $67 billion offer to buy data storage company EMC Corporation could be derailed by a tax bill of up to $9 billion if key aspects of the deal do not qualify for the sort of tax treatment the companies consider essential for the transaction. ](/news/2015/11/10/technology-news-website-re-code-reports-dell-incorporated-s-67-billion-offer-to-buy-data-storage-company-emc-corporation-could-be-deraile.md)
 _Context: Dell, EMC Corporation, Re/code_
 
 ### [All nine people aboard a Hawker H25 business jet are killed after the plane crashes into an apartment complex in the American city of Akron, Ohio. ](/news/2015/11/10/all-nine-people-aboard-a-hawker-h25-business-jet-are-killed-after-the-plane-crashes-into-an-apartment-complex-in-the-american-city-of-akron.md)
@@ -40,10 +40,10 @@ The plot included plans to bomb and shoot up black churches and Jewish synagogue
 Kenyan police on Tuesday arrested a journalist who wrote about corruption at the Interior Ministry, drawing accusations from media groups that the government was trying to trample free speech.
 
 ### [The United States Court of Appeals for the District of Columbia suspends district court judge Richard Leon's ruling yesterday that found the U.S. National Security Agency's phone data collection program is unconstitutional. Leon's decision barred the agency from further collection of data on the plaintiffs in the case -- California attorney J.J. Little and his law firm -- but did not have sufficient authority to outlaw the practice against all Americans. The government plea for the injunction said it will take "at least several weeks" for the NSA to implement a technical change that would prevent collection of Little's data and therefore the entire program would have to shut down early based on Leon's order. ](/news/2015/11/10/the-united-states-court-of-appeals-for-the-district-of-columbia-suspends-district-court-judge-richard-leon-s-ruling-yesterday-that-found-the.md)
-_Context: National Security Agency, Richard Leon's, U.S., U.S. Appeals Court Judge_
+_Context: Americans, National Security Agency, Richard Leon's, U.S. Appeals Court Judge_
 
 ### [The Obama administration will ask the Supreme Court to overturn yesterday's ruling by the New Orleans, Louisiana, federal Court of Appeals that blocks the deferred deportation of millions of undocumented immigrants who entered the United States as children. ](/news/2015/11/10/the-obama-administration-will-ask-the-supreme-court-to-overturn-yesterday-s-ruling-by-the-new-orleans-louisiana-federal-court-of-appeals-t.md)
-_Context: 5th Circuit Court of Appeals, Obama administration, U.S., United States Supreme Court_
+_Context: 5th Circuit Court of Appeals, Americans, Obama administration, United States Supreme Court_
 
 ### [Former West German chancellor Helmut Schmidt (1974 to 1982) dies at the age of 96. ](/news/2015/11/10/former-west-german-chancellor-helmut-schmidt-1974-to-1982-dies-at-the-age-of-96.md)
 Docker’s grandson, who led country from 1974 to 1982 as it rose to become a global economic powerhouse, had long illness

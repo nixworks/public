@@ -18,7 +18,7 @@ Get the latest breaking news and headlines from the largest Arab News website. G
 ### [ Roman Catholic Bishop Misael Vacca Ramrez, abducted by the left-wing rebel group National Liberation Army (ELN) in Colombia, tells local television he has been set free. ](/news/2004/07/28/roman-catholic-bishop-misael-vacca-ramirez-abducted-by-the-left-wing-rebel-group-national-liberation-army-eln-in-colombia-tells-local-t.md)
 _Context: Colombia, Misael Vacca Ramrez, National Liberation Army, Roman Catholic, bishop_
 
-### [ Traces of ricin are found in jars of baby food in a supermarket in Irvine, California. ([http://quote.bloomberg.com/apps/news?pid=10000103&sid=ambnYuz6DXzM&refer=us Bloomberg])](/news/2004/07/28/traces-of-ricin-are-found-in-jars-of-baby-food-in-a-supermarket-in-irvine-california-http-quote-bloomberg-com-apps-news-pid-10000103.md)
+### [ Traces of ricin are found in jars of baby food in a supermarket in Irvine, California. ([http:--quote.bloomberg.com-apps-news?pid=10000103&sid=ambnYuz6DXzM&refer=us Bloomberg])](/news/2004/07/28/traces-of-ricin-are-found-in-jars-of-baby-food-in-a-supermarket-in-irvine-california-http-quote-bloomberg-com-apps-news-pid-10000103.md)
 _Context: Irvine, California, baby food, ricin, supermarket chain_
 
 ### [ Francis Crick dies at the age of 88.](/news/2004/07/28/francis-crick-dies-at-the-age-of-88.md)

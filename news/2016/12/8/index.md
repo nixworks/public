@@ -15,7 +15,7 @@ NZ Finance Minister Bill English is set to be appointed prime minister after two
 ### [A bill is introduced into the South Korean National Assembly to impeach President Park Geun-hye. A vote is expected tomorrow. ](/news/2016/12/8/a-bill-is-introduced-into-the-south-korean-national-assembly-to-impeach-president-park-geun-hye-a-vote-is-expected-tomorrow.md)
 min Park and Jack Kim
 
-### [Carl's Jr./Hardee's executive and minimum wage reform critic Andrew Puzder is selected as United States Secretary of Labor. ](/news/2016/12/8/carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-states-secretary-of-labor.md)
+### [Carl's Jr.-Hardee's executive and minimum wage reform critic Andrew Puzder is selected as United States Secretary of Labor. ](/news/2016/12/8/carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-states-secretary-of-labor.md)
 _Context: Andrew Puzder, Carl's Jr., Hardee's, Presidential transition of Donald Trump, United States Secretary of Labor, minimum wage reform_
 
 ### [American astronaut John Glenn dies at the age of 95. ](/news/2016/12/8/american-astronaut-john-glenn-dies-at-the-age-of-95.md)

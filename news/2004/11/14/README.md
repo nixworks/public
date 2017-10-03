@@ -33,7 +33,7 @@ _Context: Senkaku Islands, Shoichi Nakagawa_
 ### [ Elections to choose the successor to Yasser Arafat are to be held on 9 January 2005, Palestine Authority interim President Rawhi Fattuh announced today. ](/news/2004/11/14/elections-to-choose-the-successor-to-yasser-arafat-are-to-be-held-on-9-january-2005-palestine-authority-interim-president-rawhi-fattuh-ann.md)
 _Context: Elections, Palestine Authority, Rawhi Fattuh, Yasser Arafat_
 
-### [ The animated/live action dramedy Tom Goes to the Mayor airs for the first time on Adult Swim in America.](/news/2004/11/14/the-animated-live-action-dramedy-tom-goes-to-the-mayor-airs-for-the-first-time-on-adult-swim-in-america.md)
+### [ The animated-live action dramedy Tom Goes to the Mayor airs for the first time on Adult Swim in America.](/news/2004/11/14/the-animated-live-action-dramedy-tom-goes-to-the-mayor-airs-for-the-first-time-on-adult-swim-in-america.md)
 _Context: Adult Swim, Tom Goes to the Mayor_
 
 ### [ Researchers claim to have found a site that may be a candidate for the lost city of Atlantis on the bottom of the east Mediterranean, 80 kilometers southeast of Cyprus. The Cypriot government disputes the claim, saying more evidence is needed. ](/news/2004/11/14/researchers-claim-to-have-found-a-site-that-may-be-a-candidate-for-the-lost-city-of-atlantis-on-the-bottom-of-the-east-mediterranean-80-ki.md)

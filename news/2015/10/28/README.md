@@ -60,7 +60,7 @@ Bidhya Devi Bhandari is deputy leader of the ruling Communist party and campaign
 ### [ The Cassini probe makes a close flyby of Saturn's sixth-largest moon, Enceladus, coming within approximately 49 km of the surface and passing through the icy plume above the south pole. The transit of the plume was the deepest to date. Photographs and other data from the mission are expected within 48 hours. ](/news/2015/10/28/the-cassini-probe-makes-a-close-flyby-of-saturn-s-sixth-largest-moon-enceladus-coming-within-approximately-49-km-of-the-surface-and-passi.md)
 The Cassini spacecraft has made a final ultra-close flyby of Enceladus, a moon of Saturn, to &quot;taste&quot; the water it is spewing into space.
 
-### [ An article published in "Nature" reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P/Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasimenk.md)
+### [ An article published in "Nature" reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P-Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasimenk.md)
 The Rosetta spacecraft has detected significant levels of molecular oxygen coming from a comet, in a discovery that has taken astronomers by surprise.
 
 ## [Previous Day...](/news/2015/10/27/index.md)

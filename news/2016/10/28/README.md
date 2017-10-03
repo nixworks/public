@@ -1,6 +1,6 @@
 ## [2016-10-28](/news/2016/10/28/index.md)
 
-### [  The UN reports 232 civilians have been murdered in and near Mosul by the Islamic State of Iraq and the Levant. ](/news/2016/10/28/the-un-reports-232-civilians-have-been-murdered-in-and-near-mosul-by-the-islamic-state-of-iraq-and-the-levant.md)
+### [ The UN reports 232 civilians have been murdered in and near Mosul by the Islamic State of Iraq and the Levant. ](/news/2016/10/28/the-un-reports-232-civilians-have-been-murdered-in-and-near-mosul-by-the-islamic-state-of-iraq-and-the-levant.md)
 The extremist group has forced almost 8,000 families to leave the homes, probably as a defensive tactic to defend the city of Mosul, according to the U.N.
 
 ### [More than 15 civilians are reported killed and another 100 injured as Syria's Army of Conquest and other jihadist rebels launch an offensive to break the government-led siege on eastern Aleppo. ](/news/2016/10/28/more-than-15-civilians-are-reported-killed-and-another-100-injured-as-syria-s-army-of-conquest-and-other-jihadist-rebels-launch-an-offensive.md)

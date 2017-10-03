@@ -16,7 +16,7 @@ _Context: (Wikinews), Barbara Lee, Congressional Resolution of Inquiry, U.S. Sta
 According to a newly released study, high concentrations of arsenic have been found in a sample of King George III&#39;s hair, and this, say the authors, may have contributed to his unusually severe and prolonged bouts of madness.
 
 ### [ In Spain, bomb explodes in Santiago de Compostela near regional savings bank Caixa Galicia. There are no casualties. Government blames Galician separatists. Police have arrested two people ](/news/2005/07/23/in-spain-bomb-explodes-in-santiago-de-compostela-near-regional-savings-bank-caixa-galicia-there-are-no-casualties-government-blames-gali.md)
-_Context: Caixa Galicia, Galicia, Santiago de Compostela, Spanish_
+_Context: Caixa Galicia, Galicia, Santiago de Compostela, Spain_
 
 ### [ Cuba releases three dissidents, including leader Martha Beatriz Roque. 17 others are still incarcerated after crackdown in Friday ](/news/2005/07/23/cuba-releases-three-dissidents-including-leader-martha-beatriz-roque-17-others-are-still-incarcerated-after-crackdown-in-friday.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -24,7 +24,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ In Colombia, president lvaro Uribe signs a controversial law that is meant to encourage paramilitary groups and guerrillas to disarm ](/news/2005/07/23/in-colombia-president-alvaro-uribe-signs-a-controversial-law-that-is-meant-to-encourage-paramilitary-groups-and-guerrillas-to-disarm.md)
 _Context: Alvaro Uribe, Colombia, guerillas, paramilitary_
 
-### [ In Burma/Myanmar, Khin Nyunt, former prime minister, receives a suspended sentence of 44 years in prison for corruption ](/news/2005/07/23/in-burma-myanmar-khin-nyunt-former-prime-minister-receives-a-suspended-sentence-of-44-years-in-prison-for-corruption.md)
+### [ In Burma-Myanmar, Khin Nyunt, former prime minister, receives a suspended sentence of 44 years in prison for corruption ](/news/2005/07/23/in-burma-myanmar-khin-nyunt-former-prime-minister-receives-a-suspended-sentence-of-44-years-in-prison-for-corruption.md)
 _Context: Burma, Khin Nyunt, Myanmar, anti-corruption_
 
 ### [ 3 bombs hit the Naama Bay area of Sharm el-Sheikh, Egypt, killing 88 people. July 23, 2005 Sharm el-Sheikh attacks.](/news/2005/07/23/3-bombs-hit-the-naama-bay-area-of-sharm-el-sheikh-egypt-killing-88-people-july-23-2005-sharm-el-sheikh-attacks.md)

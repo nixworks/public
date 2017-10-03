@@ -72,7 +72,7 @@ _Context: International Criminal Court, William Ruto_
 ### [Uttar Pradesh Chief Minister Akhilesh Yadav gives away 8,000 laptops to local students. ](/news/2013/06/3/uttar-pradesh-chief-minister-akhilesh-yadav-gives-away-8-000-laptops-to-local-students.md)
 In a function here on Monday, UP chief minister Akhilesh Yadav distributed laptops to about 8,000 students from Ghaziabad and Noida in the presence of senior party leaders.
 
-### [Democrat United States Senator Frank Lautenberg of New Jersey dies at age 89 from pneumonia. Republican governor Chris Christie is tasked with choosing a replacement Senator. [http://www.washingtontimes.com/news/2013/jun/3/sen-frank-lautenberg-dies-89-new-jersey-democrat-w/ "(Washington Post)"]](/news/2013/06/3/democrat-united-states-senator-frank-lautenberg-of-new-jersey-dies-at-age-89-from-pneumonia-republican-governor-chris-christie-is-tasked-wi.md)
+### [Democrat United States Senator Frank Lautenberg of New Jersey dies at age 89 from pneumonia. Republican governor Chris Christie is tasked with choosing a replacement Senator. [http:--www.washingtontimes.com-news-2013-jun-3-sen-frank-lautenberg-dies-89-new-jersey-democrat-w- "(Washington Post)"]](/news/2013/06/3/democrat-united-states-senator-frank-lautenberg-of-new-jersey-dies-at-age-89-from-pneumonia-republican-governor-chris-christie-is-tasked-wi.md)
 _Context: Chris Christie, Democrat, Frank Lautenberg, New Jersey, New Jersey Governor, Republican, United States Senator, pneumonia_
 
 ### [Software engineer Atul Chitnis, known as India's "open source guru", dies at age 50. ](/news/2013/06/3/software-engineer-atul-chitnis-known-as-india-s-open-source-guru-dies-at-age-50.md)

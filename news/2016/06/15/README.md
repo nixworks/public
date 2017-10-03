@@ -34,7 +34,7 @@ A deal on legislation to ban gun sales to suspected terrorists still looks unlik
 _Context: Canadian  House of Commons, O Canada_
 
 ### [The Philadelphia, Pennsylvania, City Council approves a a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This the first so-called sugary drinks tax in a major U.S. city. ](/news/2016/06/15/the-philadelphia-pennsylvania-city-council-approves-a-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1.md)
-_Context: City Council, Pennsylvania, Philadelphia, U.S., sugar-sweetened and diet beverages, sugary drinks tax_
+_Context: Americans, City Council, Pennsylvania, Philadelphia, sugar-sweetened and diet beverages, sugary drinks tax_
 
 ### [Scientists confirm a second detection of gravitational waves by LIGO. ](/news/2016/06/15/scientists-confirm-a-second-detection-of-gravitational-waves-by-ligo.md)
 Following February’s historic announcement, LIGO has again spotted ripples in the fabric of spacetime, from the collision of a second set of black holes

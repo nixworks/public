@@ -18,7 +18,7 @@ Official figures show that there was a dramatic contraction in the economy in th
 ### [ At least 15 people are killed and 40 are injured by the derailment of an Italian freight train and subsequent explosion of two wagons carrying liquified petroleum gas in Viareggio. ](/news/2009/06/30/at-least-15-people-are-killed-and-40-are-injured-by-the-derailment-of-an-italian-freight-train-and-subsequent-explosion-of-two-wagons-carry.md)
 _Context: Italy, Viareggio, liquified petroleum gas, subsequent explosion_
 
-### [ Yemenia Flight 626, an Airbus A310, crashes en route to Moroni, Comoros, from Sana'a, Yemen. [http://www.cnn.com/2009/WORLD/meast/06/29/yemen.plane.crash/index.html (CNN) ]](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-route-to-moroni-comoros-from-sana-a-yemen-http-www-cnn-com-2009-world-meast-06-29-yem.md)
+### [ Yemenia Flight 626, an Airbus A310, crashes en route to Moroni, Comoros, from Sana'a, Yemen. [http:--www.cnn.com-2009-WORLD-meast-06-29-yemen.plane.crash-index.html (CNN) ]](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-route-to-moroni-comoros-from-sana-a-yemen-http-www-cnn-com-2009-world-meast-06-29-yem.md)
 _Context: Airbus A310, Comoros, Moroni, Sana'a, Yemen, Yemenia Flight 626_
 
 ### [ U.S. forces pull out of Baghdad and leave major cities across Iraq. ](/news/2009/06/30/u-s-forces-pull-out-of-baghdad-and-leave-major-cities-across-iraq.md)

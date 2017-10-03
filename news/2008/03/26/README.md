@@ -7,7 +7,7 @@ The shuttle landed at 8:39 p.m., roughly an hour after Capt. Dominic L. Gorie fi
 _Context: Ford Motor Company, India, Jaguar, Land Rover, Tata Motors, USD, United Kingdom, luxury sedan_
 
 ### [ The United States embassy in Cairo confirms that the crew of a United States Navy-contracted ship killed an Egyptian when it opened fire on a small boat near the Suez Canal. ](/news/2008/03/26/the-united-states-embassy-in-cairo-confirms-that-the-crew-of-a-united-states-navy-contracted-ship-killed-an-egyptian-when-it-opened-fire-on.md)
-_Context: Cairo, Egypt, Suez Canal, U.S., United States Navy_
+_Context: Americans, Cairo, Egypt, Suez Canal, United States Navy_
 
 ### [ The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md)
 President Bush has told Chinese President Hu Jintao that a mistake was made in the shipment of nuclear missile fuses to Taiwan.
@@ -18,7 +18,7 @@ _Context: Battle of Basra (2008), Iraqi security forces, Shiite_
 ### [ The South Korean government decides to vote for a resolution on North Korean human rights violations in the United Nations Human Rights Council. ](/news/2008/03/26/the-south-korean-government-decides-to-vote-for-a-resolution-on-north-korean-human-rights-violations-in-the-united-nations-human-rights-cou.md)
 _Context: Human Rights Council, Human rights, North Korea, South Korea_
 
-### [ A 41 km &times; 2.5 km chunk of ice (102.5 km, see size comparisons) breaks away from the Antarctic Wilkins ice shelf, heralding the disintegration of the remaining 14,000 km<sup>2</sup>. ](/news/2008/03/26/a-41-km-times-2-5-km-chunk-of-ice-102-5-km2-see-size-comparisons-breaks-away-from-the-antarctic-wilkins-ice-shelf-heralding-the-disin.md)
+### [ A 41 km &times; 2.5 km chunk of ice (102.5 km, see size comparisons) breaks away from the Antarctic Wilkins ice shelf, heralding the disintegration of the remaining 14,000 km 2 . ](/news/2008/03/26/a-41-km-times-2-5-km-chunk-of-ice-102-5-km2-see-size-comparisons-breaks-away-from-the-antarctic-wilkins-ice-shelf-heralding-the-disin.md)
 _Context: Antarctic, Wilkins ice shelf, iceberg, see size comparisons_
 
 ### [ A Californian federal judge has ruled that the heirs of Jerry Siegel have a valid claim to a share in the United States copyright which Time Warner holds in the Superman character. ](/news/2008/03/26/a-californian-federal-judge-has-ruled-that-the-heirs-of-jerry-siegel-have-a-valid-claim-to-a-share-in-the-united-states-copyright-which-tim.md)

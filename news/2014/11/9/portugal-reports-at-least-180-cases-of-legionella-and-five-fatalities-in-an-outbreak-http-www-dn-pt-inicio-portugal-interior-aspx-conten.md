@@ -1,6 +1,6 @@
 ### [2014-11-9](/news/2014/11/9/index.md)
 
-# Portugal reports at least 180 cases of Legionella and five fatalities in an outbreak. [http://www.dn.pt/inicio/portugal/interior.aspx?content_id=4228714 (Dirio de Notcias) ]
+# Portugal reports at least 180 cases of Legionella and five fatalities in an outbreak. [http:--www.dn.pt-inicio-portugal-interior.aspx?content_id=4228714 (Dirio de Notcias) ]
 
 
 

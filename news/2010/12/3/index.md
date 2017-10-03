@@ -57,7 +57,7 @@ Violence as court overturns provisional results favouring opposition candidate a
 ### [Former British Labour MP Phil Woolas loses his appeal to overturn an election court ruling that stripped him of his Parliamentary seat, thus triggering a by-election in his constituency. ](/news/2010/12/3/former-british-labour-mp-phil-woolas-loses-his-appeal-to-overturn-an-election-court-ruling-that-stripped-him-of-his-parliamentary-seat-thus.md)
 Former Labour MP Phil Woolas admits defeat in his battle to overturn a court ruling which stripped him of his Commons seat - paving the way for a by-election in Oldham.
 
-### [The Boeing X-37B, a United States Air Force unmanned spaceplane, lands autonomously at Vandenberg Air Force Base, California, at 1:16am PST (0916 UTC) after 7 1/2 months in space. ](/news/2010/12/3/the-boeing-x-37b-a-united-states-air-force-unmanned-spaceplane-lands-autonomously-at-vandenberg-air-force-base-california-at-1-16am-pst.md)
+### [The Boeing X-37B, a United States Air Force unmanned spaceplane, lands autonomously at Vandenberg Air Force Base, California, at 1:16am PST (0916 UTC) after 7 1-2 months in space. ](/news/2010/12/3/the-boeing-x-37b-a-united-states-air-force-unmanned-spaceplane-lands-autonomously-at-vandenberg-air-force-base-california-at-1-16am-pst.md)
 The United States Air Force&#039;s mysterious X-37B robot space plan returned to Earth with a successful landing at Vandenberg Air Force Base in California.
 
 ## [Previous Day...](/news/2010/12/2/index.md)

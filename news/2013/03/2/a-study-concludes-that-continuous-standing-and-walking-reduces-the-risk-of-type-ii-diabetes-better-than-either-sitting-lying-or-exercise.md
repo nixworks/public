@@ -1,6 +1,6 @@
 ### [2013-03-2](/news/2013/03/2/index.md)
 
-# A study concludes that continuous standing and walking reduces the risk of type II diabetes better than either sitting/lying or exercise. 
+# A study concludes that continuous standing and walking reduces the risk of type II diabetes better than either sitting-lying or exercise. 
 
 Sitting less and moving around more reduces the risk of developing type 2 diabetes in patients with known risk factors more than vigorous exercise does.
 

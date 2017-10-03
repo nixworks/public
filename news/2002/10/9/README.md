@@ -1,6 +1,6 @@
 ## [2002-10-9](/news/2002/10/9/index.md)
 
-### [ Public Interest group Harvardwatch released a [http://www.people.fas.harvard.edu/~skomarov/harvardwatch/harken_memo_full.pdf/ report] on Harken's partnership with Harvard University.](/news/2002/10/9/public-interest-group-harvardwatch-released-a-http-www-people-fas-harvard-edu-skomarov-harvardwatch-harken_memo_full-pdf-report-on-ha.md)
+### [ Public Interest group Harvardwatch released a [http:--www.people.fas.harvard.edu-~skomarov-harvardwatch-harken_memo_full.pdf- report] on Harken's partnership with Harvard University.](/news/2002/10/9/public-interest-group-harvardwatch-released-a-http-www-people-fas-harvard-edu-skomarov-harvardwatch-harken_memo_full-pdf-report-on-ha.md)
 _Context: Harken's, Harvard University, Harvardwatch_
 
 ### [ The European Commission of the European Union has announced that ten countries - Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia - have met its criteria for entry, opening the way for an expansion of the EU from 15 member states to 25. The European Parliament has still to consider each candidate individually and the final decision will require the approval of the current member states.](/news/2002/10/9/the-european-commission-of-the-european-union-has-announced-that-ten-countries-a-cyprus-the-czech-republic-estonia-hungary-latvia-li.md)

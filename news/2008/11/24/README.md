@@ -1,7 +1,7 @@
 ## [2008-11-24](/news/2008/11/24/index.md)
 
 ### [ United States President-elect Barack Obama announces his Treasury team, which includes Timothy F. Geithner as Secretary, Lawrence Summers as president of the National Economic Council, and Christina Romer as chair of the Council of Economic Advisers. ](/news/2008/11/24/united-states-president-elect-barack-obama-announces-his-treasury-team-which-includes-timothy-f-geithner-as-secretary-lawrence-summers-a.md)
-_Context: Barack Obama, Christina Romer, Council of Economic Advisers, Lawrence Summers, President-elect, Timothy F. Geithner, Treasury Secretary, U.S., U.S. President, United States National Economic Council, United States Treasury Department_
+_Context: Americans, Barack Obama, Christina Romer, Council of Economic Advisers, Lawrence Summers, President-elect, Timothy F. Geithner, Treasury Secretary, U.S. President, United States National Economic Council, United States Treasury Department_
 
 ### [ United Kingdom Prime Minister Gordon Brown outlines plans to raise the income tax rate for the first time since 1975. ](/news/2008/11/24/united-kingdom-prime-minister-gordon-brown-outlines-plans-to-raise-the-income-tax-rate-for-the-first-time-since-1975.md)
 _Context: 1975, Gordon Brown, Prime Minister, United Kingdom, tax_
@@ -19,7 +19,7 @@ _Context: Georgian, Lech Kaczynski, Polish, President, President of Georgia, Saa
 Thousands of Thai protesters surrounded parliament Monday in an effort to prevent lawmakers from meeting in what they say is their final push in a six-month campaign against the government.
 
 ### [ Citigroup receives US$32 billion from the United States Emergency Economic Stabilization Act. ](/news/2008/11/24/citigroup-receives-us-32-billion-from-the-united-states-emergency-economic-stabilization-act.md)
-_Context: Citigroup, Emergency Economic Stabilization Act, U.S., US$_
+_Context: Americans, Citigroup, Emergency Economic Stabilization Act, US$_
 
 ### [ The Asia-Pacific Economic Cooperation's annual summit ends in Lima, Peru, amid an ongoing economic crisis with a declaration of commitment with free markets and an openness of the economy, refrainment from raising trade barriers in goods and services over the next 12 months, the regulation and supervision of financial systems, and the ensuring of corporate social responsibility.](/news/2008/11/24/the-asia-pacific-economic-cooperation-s-annual-summit-ends-in-lima-peru-amid-an-ongoing-economic-crisis-with-a-declaration-of-commitment.md)
 _Context: Asia-Pacific Economic Cooperation, Lima, Peru, annual summit, corporate social responsibility, export controls_

@@ -13,7 +13,7 @@ _Context: European Social Forum, Paris_
 _Context: Vladimir Putin, Yukos_
 
 ### [ Politics of Canada: Paul Martin is elected leader of the Liberal Party. He becomes Prime Minister-designate and will assume office upon Jean Chrtien's retirement by the end of February 2004.](/news/2003/11/14/politics-of-canada-paul-martin-is-elected-leader-of-the-liberal-party-he-becomes-prime-minister-designate-and-will-assume-office-upon-jea.md)
-_Context: Canadian Prime Minister, Canadian political history, Jean Chrtien, Liberal Party's, Paul Martin_
+_Context: Jean Chrtien, Liberal Party's, Paul Martin, Politics of Canada, Prime Minister of Canada_
 
 ### [ The US trade deficit with the People's Republic of China hit a record USD $12.7 billion in September, with imports from mainland China also a record at $14.8 billion. For the first nine months of that year, the total trade deficit was $89.7 billion. At this pace, it will surpass the record of $103 billion set in 2002.](/news/2003/11/14/the-us-trade-deficit-with-the-people-s-republic-of-china-hit-a-record-usd-12-7-billion-in-september-with-imports-from-mainland-china-also.md)
 _Context: USD_

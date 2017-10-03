@@ -6,7 +6,7 @@ _Context: Hong Kong, One country, two systems, Tiananmen Square protests of 1989
 ### [ Pakistan test-fires a ballistic missile capable of carrying a nuclear warhead, but claims it will not increase tensions with India. ](/news/2004/05/30/pakistan-test-fires-a-ballistic-missile-capable-of-carrying-a-nuclear-warhead-but-claims-it-will-not-increase-tensions-with-india.md)
 _Context: ballistic missile, nuclear weapon, warhead_
 
-### [ Saudi commandos storm the Khobar housing compound where Islamic militants were holding several dozen hostages, ending with 22 dead. ([http://news.bbc.co.uk/1/hi/world/middle_east/3762423.stm BBC])](/news/2004/05/30/saudi-commandos-storm-the-khobar-housing-compound-where-islamic-militants-were-holding-several-dozen-hostages-ending-with-22-dead-http.md)
+### [ Saudi commandos storm the Khobar housing compound where Islamic militants were holding several dozen hostages, ending with 22 dead. ([http:--news.bbc.co.uk-1-hi-world-middle_east-3762423.stm BBC])](/news/2004/05/30/saudi-commandos-storm-the-khobar-housing-compound-where-islamic-militants-were-holding-several-dozen-hostages-ending-with-22-dead-http.md)
 _Context: Islamic terrorism, Khobar, Saudi Arabia_
 
 ### [ Thousands of Pakistani Sunni Muslims riot in Karachi, ransacking property, setting fire to four banks, and stoning vehicles after Mufti Nizamuddin Shamzai, an influential pro-Taliban cleric, is killed in a drive-by shooting. ](/news/2004/05/30/thousands-of-pakistani-sunni-muslims-riot-in-karachi-ransacking-property-setting-fire-to-four-banks-and-stoning-vehicles-after-mufti-niz.md)

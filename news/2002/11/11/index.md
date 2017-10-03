@@ -6,7 +6,7 @@ _Context: Kathmandu, Lokendra Bahadur Chand, Maoist, Nepal, Sher Bahadur Deuba, 
 ### [ The Burrell affair takes a turn for the worse as further scandalous rumours begin to circulate about the British royal family and their servants.](/news/2002/11/11/the-burrell-affair-takes-a-turn-for-the-worse-as-further-scandalous-rumours-begin-to-circulate-about-the-british-royal-family-and-their-ser.md)
 _Context: British Royal Family, Burrell affair_
 
-### [ Grigori Perelman uploads an article to [http://arxiv.org arxiv.org] with the proof the Poincar conjecture: Perelman, Grisha (November 11, 2002). "The entropy formula for the Ricci flow and its geometric applications".](/news/2002/11/11/grigori-perelman-uploads-an-article-to-http-arxiv-org-arxiv-org-with-the-proof-the-poincare-conjecture-perelman-grisha-november-11.md)
+### [ Grigori Perelman uploads an article to [http:--arxiv.org arxiv.org] with the proof the Poincar conjecture: Perelman, Grisha (November 11, 2002). "The entropy formula for the Ricci flow and its geometric applications".](/news/2002/11/11/grigori-perelman-uploads-an-article-to-http-arxiv-org-arxiv-org-with-the-proof-the-poincare-conjecture-perelman-grisha-november-11.md)
 _Context: Grigori Perelman_
 
 ## [Previous Day...](/news/2002/11/10/index.md)

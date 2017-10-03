@@ -30,7 +30,7 @@ _Context: Auckland, New Zealand, central business district, prostitute, young re
 ### [A school teacher who stabbed 16 young pupils and a teacher in a knife rampage in south China in April is sentenced to death. ](/news/2010/06/12/a-school-teacher-who-stabbed-16-young-pupils-and-a-teacher-in-a-knife-rampage-in-south-china-in-april-is-sentenced-to-death.md)
 _Context: south China, teacher_
 
-### [The European Union promises EUR500 million towards the 2010/11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-a-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md)
+### [The European Union promises EUR500 million towards the 2010-11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-a-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md)
 _Context: EU, East Africa, Kenya_
 
 ### [Chinese Buddhist monks and archaeologists revealed what they believe to be a part of the skull of Siddartha Gautama, the founder of Buddhism, in east China's Jiangsu Province. ](/news/2010/06/12/chinese-buddhist-monks-and-archaeologists-revealed-what-they-believe-to-be-a-part-of-the-skull-of-siddartha-gautama-the-founder-of-buddhism.md)
@@ -40,10 +40,10 @@ _Context: Buddhist monks, Buddhists, Gautama Buddha, Jiangsu Province_
 _Context: Barack Obama, David Cameron, Deepwater Horizon oil spill, President, Prime Minister, United Kingdom_
 
 ### [A French fishing boat rescues US teenage sailor Abby Sunderland in the Southern Ocean. ](/news/2010/06/12/a-french-fishing-boat-rescues-us-teenage-sailor-abby-sunderland-in-the-southern-ocean.md)
-_Context: Abby Sunderland, France, Southern Ocean, U.S., fishing boat, sailor, teenage_
+_Context: Abby Sunderland, Americans, France, Southern Ocean, fishing boat, sailor, teenage_
 
 ### [Pilots for the American low-cost carrier Spirit Airlines go on strike. ](/news/2010/06/12/pilots-for-the-american-low-cost-carrier-spirit-airlines-go-on-strike.md)
-_Context: Spirit Airlines, U.S., airline pilot, low-cost airline, strike_
+_Context: Americans, Spirit Airlines, airline pilot, low-cost airline, strike_
 
 ## [Previous Day...](/news/2010/06/11/index.md)
 

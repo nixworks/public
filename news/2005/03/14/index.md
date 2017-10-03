@@ -39,7 +39,7 @@ _Context: International Maritime Bureau, Japan, Malacca Strait, Pirate, ransom_
 ### [ In Zambia, former president Frederick Chiluba protests when government anti-corruption investigators seize hundred of pieces of clothing from the warehouse he used to store them. Police suspect that the clothes were bought using government funds ](/news/2005/03/14/in-zambia-former-president-frederick-chiluba-protests-when-government-anti-corruption-investigators-seize-hundred-of-pieces-of-clothing-fr.md)
 _Context: Frederick Chiluba, Zambia, anti-corruption_
 
-### [ The United States government announces the arrests of 103 members of the violent street gang MS-13. ([http://story.news.yahoo.com/news?tmpl=story&cid=519&ncid=519&e=18&u=/ap/20050314/ap_on_re_us/gang_arrests AP])](/news/2005/03/14/the-united-states-government-announces-the-arrests-of-103-members-of-the-violent-street-gang-ms-13-http-story-news-yahoo-com-news-tmpl.md)
+### [ The United States government announces the arrests of 103 members of the violent street gang MS-13. ([http:--story.news.yahoo.com-news?tmpl=story&cid=519&ncid=519&e=18&u=-ap-20050314-ap_on_re_us-gang_arrests AP])](/news/2005/03/14/the-united-states-government-announces-the-arrests-of-103-members-of-the-violent-street-gang-ms-13-http-story-news-yahoo-com-news-tmpl.md)
 _Context: MS-13, United States government, street gang_
 
 ## [Previous Day...](/news/2005/03/13/index.md)

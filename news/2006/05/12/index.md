@@ -15,7 +15,7 @@ _Context: President, Yoweri Museveni, oath of office_
 ### [ 21 people are killed in an Egyptian bus crash. ](/news/2006/05/12/21-people-are-killed-in-an-egyptian-bus-crash.md)
 _Context: Egypt_
 
-### [ The U.S. FBI raids the home of Kyle "Dusty" Foggo, outgoing number three man at the CIA, in an investigation into political corruption, including the use of prostitutes and bribery in connection with lobbyist Brent Wilkes, revealed to be the "no. 1 unindicted co-conspirator" in the Randy "Duke" Cunningham scandal. ([http://www.bloomberg.com/apps/news?pid=10000087&sid=ag5Q_Tt4DJMM&refer=top_world_news Bloomberg.com])](/news/2006/05/12/the-u-s-fbi-raids-the-home-of-kyle-dusty-foggo-outgoing-number-three-man-at-the-cia-in-an-investigation-into-political-corruption-inc.md)
+### [ The U.S. FBI raids the home of Kyle "Dusty" Foggo, outgoing number three man at the CIA, in an investigation into political corruption, including the use of prostitutes and bribery in connection with lobbyist Brent Wilkes, revealed to be the "no. 1 unindicted co-conspirator" in the Randy "Duke" Cunningham scandal. ([http:--www.bloomberg.com-apps-news?pid=10000087&sid=ag5Q_Tt4DJMM&refer=top_world_news Bloomberg.com])](/news/2006/05/12/the-u-s-fbi-raids-the-home-of-kyle-dusty-foggo-outgoing-number-three-man-at-the-cia-in-an-investigation-into-political-corruption-inc.md)
 _Context: Brent Wilkes, CIA, FBI, Kyle "Dusty" Foggo, Randy "Duke" Cunningham, anti-corruption, lobbyist_
 
 ### [ Justin Gatlin breaks the world record in the 100 meter dash with a time of 9.76 seconds. ](/news/2006/05/12/justin-gatlin-breaks-the-world-record-in-the-100-meter-dash-with-a-time-of-9-76-seconds.md)

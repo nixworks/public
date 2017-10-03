@@ -6,7 +6,7 @@ _Context: North Caucasus, Russia, Russian police_
 ### [Narendra Dabholkar, a rationalist from India, is assassinated while out walking. ](/news/2013/08/20/narendra-dabholkar-a-rationalist-from-india-is-assassinated-while-out-walking.md)
 Anti-superstition activist and Maharashtra’s most vocal rationalist Dr. Narendra Dabholkar (65) was shot dead by two youth on a motorcycle on the Omkareshwar bridge near Pune’s Shanivar Peth area whil
 
-### [The Whakaari / White Island volcano in the Bay of Plenty off New Zealand's North Island erupts. ](/news/2013/08/20/the-whakaari-white-island-volcano-in-the-bay-of-plenty-off-new-zealand-s-north-island-erupts.md)
+### [The Whakaari - White Island volcano in the Bay of Plenty off New Zealand's North Island erupts. ](/news/2013/08/20/the-whakaari-white-island-volcano-in-the-bay-of-plenty-off-new-zealand-s-north-island-erupts.md)
 GNS Science says it wouldn&#39;t be surprised if there are more eruptions at White Island in the next few days.
 
 ### [Turkey's Prime Minister Recep Tayyip Erdogan accuses American and Israeli influence of being the ouster of Egypt's President Mohammed Morsi; which are denied by both. ](/news/2013/08/20/turkeyas-prime-minister-recep-tayyip-erdoaan-accuses-american-and-israeli-influence-of-being-the-ouster-of-egyptas-president-mohammed-m.md)

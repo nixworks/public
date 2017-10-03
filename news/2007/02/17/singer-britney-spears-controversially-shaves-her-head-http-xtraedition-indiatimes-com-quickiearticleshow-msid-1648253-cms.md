@@ -1,6 +1,6 @@
 ### [2007-02-17](/news/2007/02/17/index.md)
 
-#  Singer Britney Spears controversially shaves her head. [http://xtraedition.indiatimes.com/quickiearticleshow/msid-1648253.cms]
+#  Singer Britney Spears controversially shaves her head. [http:--xtraedition.indiatimes.com-quickiearticleshow-msid-1648253.cms]
 
 
 

@@ -24,7 +24,7 @@ Symantec&#039;s latest research on Odinaff hacker group and its attacks on SWIFT
 ### [A residential building collapses in the eastern China city of Wenzhou, leaving at least 22 people dead. ](/news/2016/10/11/a-residential-building-collapses-in-the-eastern-china-city-of-wenzhou-leaving-at-least-22-people-dead.md)
 _Context: China, Wenzhou_
 
-### [The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and/or cholera. ](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in-haiti-at-risk-of-st.md)
+### [The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and-or cholera. ](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in-haiti-at-risk-of-st.md)
 Parts of Haiti hit by Matthew were still without aid Tuesday, as the U.N. sought $120 million in life-saving aid for 750,000 survivors at risk of cholera.
 
 ### [Jordanian student pilot Feras Freitekh kills himself and attempts to kill his flight instructor, when their small Piper PA-34 Seneca airplane crashes in East Hartford Connecticut. Investigators conclude the crash was an intentional act motivated by suicide based on the surviving instructor who said there was an argument and struggle for control. The FBI investigates. ](/news/2016/10/11/jordanian-student-pilot-feras-freitekh-kills-himself-and-attempts-to-kill-his-flight-instructor-when-their-small-piper-pa-34-seneca-airplan.md)

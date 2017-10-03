@@ -3,7 +3,7 @@
 ### [ International authorities apprehend 41 suspects in a massive money laundering ring code-named White Whale in Spain. ](/news/2005/03/13/international-authorities-apprehend-41-suspects-in-a-massive-money-laundering-ring-code-named-white-whale-in-spain.md)
 _Context: White Whale, money laundering_
 
-### [ Pope John Paul II leaves Agostino Gemelli University Polyclinic 2 1/2 weeks after his tracheotomy and returns to Vatican City. ](/news/2005/03/13/pope-john-paul-ii-leaves-agostino-gemelli-university-polyclinic-2-1-2-weeks-after-his-tracheotomy-and-returns-to-vatican-city.md)
+### [ Pope John Paul II leaves Agostino Gemelli University Polyclinic 2 1-2 weeks after his tracheotomy and returns to Vatican City. ](/news/2005/03/13/pope-john-paul-ii-leaves-agostino-gemelli-university-polyclinic-2-1-2-weeks-after-his-tracheotomy-and-returns-to-vatican-city.md)
 _Context: Agostino Gemelli University Polyclinic, Pope John Paul II, Vatican City, tracheotomy_
 
 ### [ The Malta Labour Party celebrates a long expected victory in the Local Council Elections in Malta. 53.18% of the electorate voted Labour whereas 44.6% voted for the Partit Nazzjonalista. ](/news/2005/03/13/the-malta-labour-party-celebrates-a-long-expected-victory-in-the-local-council-elections-in-malta-53-18-of-the-electorate-voted-labour-wh.md)

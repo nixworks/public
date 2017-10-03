@@ -21,7 +21,7 @@ _Context: 2005 Cronulla riots, Sydney, suburbs_
 ### [ Korean Air, both national and international has been shut down due to the strike going on in Korea. The national airplane circulation has been stopped already and the Korean Airline planes that were in a foreign country are returning to Korea.](/news/2005/12/11/korean-air-both-national-and-international-has-been-shut-down-due-to-the-strike-going-on-in-korea-the-national-airplane-circulation-has-b.md)
 _Context: Korean Air_
 
-### [ Vengeance of Rain of Hong Kong, was crowned the World Racing Championship winner after winning the Cathay Pacific Hong Kong Cup at Sha Tin Racecourse [http://www.hkjc.com/english]](/news/2005/12/11/vengeance-of-rain-of-hong-kong-was-crowned-the-world-racing-championship-winner-after-winning-the-cathay-pacific-hong-kong-cup-at-sha-tin.md)
+### [ Vengeance of Rain of Hong Kong, was crowned the World Racing Championship winner after winning the Cathay Pacific Hong Kong Cup at Sha Tin Racecourse [http:--www.hkjc.com-english]](/news/2005/12/11/vengeance-of-rain-of-hong-kong-was-crowned-the-world-racing-championship-winner-after-winning-the-cathay-pacific-hong-kong-cup-at-sha-tin.md)
 _Context: Cathay Pacific, Hong Kong, Hong Kong Cup, Sha Tin Racecourse, Vengeance of Rain, World Racing Championship_
 
 ## [Previous Day...](/news/2005/12/10/index.md)

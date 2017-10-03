@@ -39,7 +39,7 @@ Polls Voters in Manitoba are set to elect their next government on Tuesday.
 ### [The Haitian Senate finally approves the appointment of Garry Conille as the Prime Minister. ](/news/2011/10/4/the-haitian-senate-finally-approves-the-appointment-of-garry-conille-as-the-prime-minister.md)
 _Context: Garry Conille, Haiti, Prime Minister, Senate_
 
-### [The Italian Wikipedia shuts down in protest against a privacy law drafted by Silvio Berlusconi's government which would impose restrictions on newspapers and Internet pages. [http://www.reuters.com/article/2011/10/05/us-italy-privacy-idUSTRE79443S20111005 (Reuters)] (Italian Wikipedia)](/news/2011/10/4/the-italian-wikipedia-shuts-down-in-protest-against-a-privacy-law-drafted-by-silvio-berlusconi-s-government-which-would-impose-restrictions.md)
+### [The Italian Wikipedia shuts down in protest against a privacy law drafted by Silvio Berlusconi's government which would impose restrictions on newspapers and Internet pages. [http:--www.reuters.com-article-2011-10-05-us-italy-privacy-idUSTRE79443S20111005 (Reuters)] (Italian Wikipedia)](/news/2011/10/4/the-italian-wikipedia-shuts-down-in-protest-against-a-privacy-law-drafted-by-silvio-berlusconi-s-government-which-would-impose-restrictions.md)
 _Context: (Italian Wikipedia), Italian Wikipedia_
 
 ### [Saul Perlmutter, Brian P. Schmidt and Adam Riess share the Nobel Prize for Physics for work on the accelerating expansion of the universe. ](/news/2011/10/4/saul-perlmutter-brian-p-schmidt-and-adam-riess-share-the-nobel-prize-for-physics-for-work-on-the-accelerating-expansion-of-the-universe.md)

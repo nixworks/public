@@ -33,8 +33,8 @@ _Context: 2010 general election, Members of Parliament, United Kingdom_
 ### [Ajmal Kasab, the only surviving member of a group responsible for the 2008 Mumbai attacks, is sentenced to death. ](/news/2010/05/6/ajmal-kasab-the-only-surviving-member-of-a-group-responsible-for-the-2008-mumbai-attacks-is-sentenced-to-death.md)
 Pak terrorist Ajmal Amir Kasab has been awarded the death sentence by special judge Tahaliyani. Kasab was in tears as the sentence was announced. The judge said there was no chance of Kasab reforming.
 
-### [United States Baptist minister George Rekers, a campaigner who opposes homosexuality, responds to allegations of a holiday in London/Madrid with a male prostitute he met at Rentboy.com. ](/news/2010/05/6/united-states-baptist-minister-george-rekers-a-campaigner-who-opposes-homosexuality-responds-to-allegations-of-a-holiday-in-london-madrid.md)
-_Context: George Rekers, London, Madrid, Rentboy.com, U.S., homosexuality_
+### [United States Baptist minister George Rekers, a campaigner who opposes homosexuality, responds to allegations of a holiday in London-Madrid with a male prostitute he met at Rentboy.com. ](/news/2010/05/6/united-states-baptist-minister-george-rekers-a-campaigner-who-opposes-homosexuality-responds-to-allegations-of-a-holiday-in-london-madrid.md)
+_Context: Americans, George Rekers, London, Madrid, Rentboy.com, homosexuality_
 
 ### [Pope Benedict XVI accepts the resignation of Joseph Duffy, a bishop mentioned in the reports into child sexual abuse by clergy. ](/news/2010/05/6/pope-benedict-xvi-accepts-the-resignation-of-joseph-duffy-a-bishop-mentioned-in-the-reports-into-child-sexual-abuse-by-clergy.md)
 Pope Benedict has accepted the resignation of Bishop Joseph Duffy, who is retiring and whose name was tied to the cover-up of a paedophile priest.
@@ -51,7 +51,7 @@ _Context: MV ''Moscow University'', Somali pirates_
 ### [Ireland's Supreme Court rules, after a ten-year campaign, that there is no constitutional obligation for political and legal acts to be written in both the English and Irish languages ](/news/2010/05/6/ireland-s-supreme-court-rules-after-a-ten-year-campaign-that-there-is-no-constitutional-obligation-for-political-and-legal-acts-to-be-writ.md)
 The Supreme Court today ruled that there is no Constitutional obligation to provide Acts of the Oireachtas or Statutory Instruments simultaneously in Irish and English.
 
-### [The inaugural African Grandmother Gathering convenes in Swaziland to discuss HIV/AIDS. ](/news/2010/05/6/the-inaugural-african-grandmother-gathering-convenes-in-swaziland-to-discuss-hiv-aids.md)
+### [The inaugural African Grandmother Gathering convenes in Swaziland to discuss HIV-AIDS. ](/news/2010/05/6/the-inaugural-african-grandmother-gathering-convenes-in-swaziland-to-discuss-hiv-aids.md)
 _Context: AIDS, African Grandmother Gathering, HIV, Swaziland_
 
 ### [The funeral of broadcaster Gerry Ryan takes place in Dublin, attended by many public figures and broadcast live on RT 2fm. U2 perform a special version of "With or Without You", while Westlife also perform. ](/news/2010/05/6/the-funeral-of-broadcaster-gerry-ryan-takes-place-in-dublin-attended-by-many-public-figures-and-broadcast-live-on-rte-2fm-u2-perform-a-spe.md)

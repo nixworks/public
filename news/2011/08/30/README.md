@@ -21,7 +21,7 @@ _Context: Gujarat, India, monsoon_
 ### [Nineteen coal miners are rescued from a flooded pit in China's Heilongjiang Province. ](/news/2011/08/30/nineteen-coal-miners-are-rescued-from-a-flooded-pit-in-china-s-heilongjiang-province.md)
 _Context: China, Heilongjiang province, coal miner_
 
-### [At least 25 people are killed and thousands displaced due to floods in Ibadan, southwest Nigeria over the weekend. [http://edition.cnn.com/2011/WORLD/africa/08/30/nigeria.flood/index.html(CNN)]](/news/2011/08/30/at-least-25-people-are-killed-and-thousands-displaced-due-to-floods-in-ibadan-southwest-nigeria-over-the-weekend-http-edition-cnn-com-2.md)
+### [At least 25 people are killed and thousands displaced due to floods in Ibadan, southwest Nigeria over the weekend. [http:--edition.cnn.com-2011-WORLD-africa-08-30-nigeria.flood-index.html(CNN)]](/news/2011/08/30/at-least-25-people-are-killed-and-thousands-displaced-due-to-floods-in-ibadan-southwest-nigeria-over-the-weekend-http-edition-cnn-com-2.md)
 _Context: Ibadan, Nigeria_
 
 ### [The Popocatepetl volcano south of Mexico City starts spewing ash into the sky. ](/news/2011/08/30/the-popocatepetl-volcano-south-of-mexico-city-starts-spewing-ash-into-the-sky.md)

@@ -1,6 +1,6 @@
 ### [2003-12-19](/news/2003/12/19/index.md)
 
-#  Flights from Vancouver International Airport bound for the U.S. are delayed following the discovery of an envelope containing suspicious white powder and a threatening note at one of the terminals. [http://www.canada.com/vancouver/story.asp?id=CB66EEAE-4EF9-4542-82EC-654371F49BD1] 
+#  Flights from Vancouver International Airport bound for the U.S. are delayed following the discovery of an envelope containing suspicious white powder and a threatening note at one of the terminals. [http:--www.canada.com-vancouver-story.asp?id=CB66EEAE-4EF9-4542-82EC-654371F49BD1] 
 
 
 

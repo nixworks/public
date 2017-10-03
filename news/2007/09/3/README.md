@@ -66,7 +66,7 @@ _Context: Jamaica, Jamaican general election, 2007_
 ### [ According to reports in Japanese media, Takehiko Endo resigns as the Japanese Agriculture Minister due to involvements in illegal dealings in 1999. ](/news/2007/09/3/according-to-reports-in-japanese-media-takehiko-endo-resigns-as-the-japanese-agriculture-minister-due-to-involvements-in-illegal-dealings.md)
 _Context: Japan, Takehiko Endo_
 
-### [ Hurricane Felix reaches Category 5 strength as it heads towards  Honduras issues a hurricane warning for an area from Limon on the north coast to the border with Nicaragua. The Bay Islands are placed on red alert, and the departments of Gracias a Dios, Colon, Atlantida, Olancho, Cortes and Yoro are placed on yellow alert. ](/news/2007/09/3/hurricane-felix-reaches-category-5-strength-as-it-heads-towards-honduras-issues-a-hurricane-warning-for-an-area-from-lima3n-on-the-north-c.md)
+### [ Hurricane Felix reaches Category 5 strength as it heads towards Honduras issues a hurricane warning for an area from Limon on the north coast to the border with Nicaragua. The Bay Islands are placed on red alert, and the departments of Gracias a Dios, Colon, Atlantida, Olancho, Cortes and Yoro are placed on yellow alert. ](/news/2007/09/3/hurricane-felix-reaches-category-5-strength-as-it-heads-towards-honduras-issues-a-hurricane-warning-for-an-area-from-lima3n-on-the-north-co.md)
 _Context: (Wikinews), Atlantida, Bay Islands, Colon, Cortes, Gracias a Dios, Honduras, Hurricane Felix, Limon, Nicaragua, Olancho, Saffir-Simpson Hurricane Scale, Yoro_
 
 ## [Previous Day...](/news/2007/09/2/index.md)

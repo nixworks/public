@@ -21,7 +21,7 @@ Beijing, Feb 3 (IANS) Five road accidents in two days have claimed the lives of 
 ### [An ATR-72 aircraft belonging to Carpatair veers off a runway at Rome's Leonardo da Vinci-Fiumicino Airport, injuring at least 6 people. ](/news/2013/02/2/an-atr-72-aircraft-belonging-to-carpatair-veers-off-a-runway-at-rome-s-leonardo-da-vinciafiumicino-airport-injuring-at-least-6-people.md)
 _Context: ATR 72, Carpatair, Leonardo da Vinci-Fiumicino Airport, Rome, aircraft_
 
-### [Former United States Navy SEAL Chris Kyle and another man are killed at a shooting range near Glen Rose, Somervell County, Texas. [http://www.nytimes.com/2013/02/04/us/chris-kyle-american-sniper-author-reported-killed.html?_r=0 "(The New York Times)"]](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-another-man-are-killed-at-a-shooting-range-near-glen-rose-somervell-county-texas-http-ww.md)
+### [Former United States Navy SEAL Chris Kyle and another man are killed at a shooting range near Glen Rose, Somervell County, Texas. [http:--www.nytimes.com-2013-02-04-us-chris-kyle-american-sniper-author-reported-killed.html?_r=0 "(The New York Times)"]](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-another-man-are-killed-at-a-shooting-range-near-glen-rose-somervell-county-texas-http-ww.md)
 _Context: Chris Kyle, Glen Rose, Somervell County, Texas, United States Navy SEAL, shooting range_
 
 ### [Iran unveils a new Qaher-313 combat jet which is said can evade radar detection. ](/news/2013/02/2/iran-unveils-a-new-qaher-313-combat-jet-which-is-said-can-evade-radar-detection.md)

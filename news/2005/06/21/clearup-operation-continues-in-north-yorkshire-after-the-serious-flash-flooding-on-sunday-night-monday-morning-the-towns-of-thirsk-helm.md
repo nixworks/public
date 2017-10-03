@@ -1,6 +1,6 @@
 ### [2005-06-21](/news/2005/06/21/index.md)
 
-#  Clearup operation continues in North Yorkshire after the serious flash flooding on Sunday Night / Monday Morning. The towns of Thirsk, Helmsley and Hawnby were seriously affected, as were several villages when the rivers Swale and Rye burst their banks.
+#  Clearup operation continues in North Yorkshire after the serious flash flooding on Sunday Night - Monday Morning. The towns of Thirsk, Helmsley and Hawnby were seriously affected, as were several villages when the rivers Swale and Rye burst their banks.
 
 
 

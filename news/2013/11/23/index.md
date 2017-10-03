@@ -3,7 +3,7 @@
 ### [Syrian government air strikes around the northern Syrian city of Aleppo kill 40 people. ](/news/2013/11/23/syrian-government-air-strikes-around-the-northern-syrian-city-of-aleppo-kill-40-people.md)
 Air strikes around the northern Syrian city of Aleppo killed at least 40 people on Saturday, most of them civilians, the Syrian Observatory for Human Rights said.
 
-### [China delimits an "air-defence identification zone" over an area of the East China Sea, covering Diaoyu/Senkaku Islands, also claimed by Japan. ](/news/2013/11/23/china-delimits-an-air-defence-identification-zone-over-an-area-of-the-east-china-sea-covering-diaoyu-senkaku-islands-also-claimed-by-jap.md)
+### [China delimits an "air-defence identification zone" over an area of the East China Sea, covering Diaoyu-Senkaku Islands, also claimed by Japan. ](/news/2013/11/23/china-delimits-an-air-defence-identification-zone-over-an-area-of-the-east-china-sea-covering-diaoyu-senkaku-islands-also-claimed-by-jap.md)
 China extends its national defence perimeter to include islands in the East China Sea also claimed by Japan, which has protested at an &quot;escalation&quot;.
 
 ### [A car bomb and a suicide bomber kills nine people and wounds 54. ](/news/2013/11/23/a-car-bomb-and-a-suicide-bomber-kills-nine-people-and-wounds-54.md)

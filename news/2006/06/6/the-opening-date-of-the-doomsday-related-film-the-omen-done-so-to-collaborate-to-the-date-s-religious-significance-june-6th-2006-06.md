@@ -1,6 +1,6 @@
 ### [2006-06-6](/news/2006/06/6/index.md)
 
-#  The opening date of the Doomsday-related film, The Omen, done so to collaborate to the date's religious significance (June 6th, 2006 -- 06/06/06, or 666 which is known as the number of the beast in Christianity). It is a remake of another film by the same name from 1976.
+#  The opening date of the Doomsday-related film, The Omen, done so to collaborate to the date's religious significance (June 6th, 2006 -- 06-06-06, or 666 which is known as the number of the beast in Christianity). It is a remake of another film by the same name from 1976.
 
 
 
@@ -12,8 +12,3 @@
 3. [Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/suspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md) _Context: Christian_
 4. [North Korea announces that it will release Australian Christian missionary John Short on account of his age. ](/news/2014/03/3/north-korea-announces-that-it-will-release-australian-christian-missionary-john-short-on-account-of-his-age.md) _Context: Christian_
 5. [The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. ](/news/2013/09/8/the-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-protection-of-the-town.md) _Context: Christian_
-6. [The Movement for the Emancipation of the Niger Delta threatens to launch a terror campaign to "defend Christianity" in Nigeria in response to attacks by Islamist group Boko Haram. ](/news/2013/04/16/the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-launch-a-terror-campaign-to-defend-christianity-in-nigeria-in-response-t.md) _Context: Christian_
-7. [Christians across the globe celebrate Easter, Christianity's most sacred holiday. ](/news/2013/03/31/christians-across-the-globe-celebrate-easter-christianity-s-most-sacred-holiday.md) _Context: Christian_
-8. [Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/several-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of-kano-with-at-least-16-p.md) _Context: Christian_
-9. [The Nigerian Islamist militant group Boko Haram issues a warning to Christians in northern Nigeria to leave the region within three days. ](/news/2012/01/2/the-nigerian-islamist-militant-group-boko-haram-issues-a-warning-to-christians-in-northern-nigeria-to-leave-the-region-within-three-days.md) _Context: Christian_
-10. [Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/muslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-tensions-in-cairo-65-people.md) _Context: Christian_

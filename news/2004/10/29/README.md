@@ -30,7 +30,7 @@ _Context: 101st Airborne Division, Al Qaqaa, IAEA, KSTP-TV, Minnesota, New York 
 ### [ Arab television network Al Jazeera broadcasts a new video tape of Osama bin Laden, addressing citizens of the United States, acknowledging his responsibility for the September 11, 2001 attacks, threatening further action against the U.S., and criticizing U.S. President George W. Bush. He said that the security of the American people depended neither on Mr. Bush nor on John Kerry, but on US policy. ](/news/2004/10/29/arab-television-network-al-jazeera-broadcasts-a-new-video-tape-of-osama-bin-laden-addressing-citizens-of-the-united-states-acknowledging.md)
 _Context: Al Jazeera, George W. Bush, John Kerry, Osama bin Laden, September 11, 2001, a new video tape_
 
-### [ Belgium: Strike of the buses, metros and tramways of the Brussels public transport company STIB/MIVB. Buses of De Lijn however worked. ](/news/2004/10/29/belgium-strike-of-the-buses-metros-and-tramways-of-the-brussels-public-transport-company-stib-mivb-buses-of-de-lijn-however-worked.md)
+### [ Belgium: Strike of the buses, metros and tramways of the Brussels public transport company STIB-MIVB. Buses of De Lijn however worked. ](/news/2004/10/29/belgium-strike-of-the-buses-metros-and-tramways-of-the-brussels-public-transport-company-stib-mivb-buses-of-de-lijn-however-worked.md)
 _Context: Belgium, Brussels, De Lijn, MIVB, STIB_
 
 ## [Previous Day...](/news/2004/10/28/index.md)

@@ -1,6 +1,6 @@
 ### [2014-09-3](/news/2014/09/3/index.md)
 
-# Pharmacy chain CVS Pharmacy announces it will change its name to "CVS Health" and cease marketing tobacco products. [http://sanfrancisco.cbslocal.com/2014/09/03/cvs-announces-plan-to-stop-selling-smoking-cigarettes-health-sales/ "(KPIX)"]
+# Pharmacy chain CVS Pharmacy announces it will change its name to "CVS Health" and cease marketing tobacco products. [http:--sanfrancisco.cbslocal.com-2014-09-03-cvs-announces-plan-to-stop-selling-smoking-cigarettes-health-sales- "(KPIX)"]
 
 
 
@@ -12,8 +12,3 @@
 3. [Philip Morris International, the world's largest tobacco corporation, threatens to sue the Australian government in relation to its introduction of plain, brandless cigarette packing. ](/news/2011/06/27/philip-morris-international-the-world-s-largest-tobacco-corporation-threatens-to-sue-the-australian-government-in-relation-to-its-introduc.md) _Context: tobacco_
 4. [Nicola Roxon, the Australian Minister for Health, announces plans to introduce legislation requiring tobacco products to be sold in plain packaging. ](/news/2011/04/7/nicola-roxon-the-australian-minister-for-health-announces-plans-to-introduce-legislation-requiring-tobacco-products-to-be-sold-in-plain-pa.md) _Context: tobacco_
 5. [ The Iraqi cabinet agrees a draft law to restrict smoking in public places and ban tobacco advertising. ](/news/2009/08/6/the-iraqi-cabinet-agrees-a-draft-law-to-restrict-smoking-in-public-places-and-ban-tobacco-advertising.md) _Context: tobacco_
-6. [ Richard Scruggs, a high-profile United States lawyer known for his lawsuits against the tobacco, pharmaceutical and construction industries, is sentenced to five years jail for conspiracy to bribe a judge. ](/news/2008/06/27/richard-scruggs-a-high-profile-united-states-lawyer-known-for-his-lawsuits-against-the-tobacco-pharmaceutical-and-construction-industries.md) _Context: tobacco_
-7. [ WHO declares global tobacco control efforts and an approach to avoid tens of millions of premature deaths by the middle of this century. ](/news/2008/02/7/who-declares-global-tobacco-control-efforts-and-an-approach-to-avoid-tens-of-millions-of-premature-deaths-by-the-middle-of-this-century.md) _Context: tobacco_
-8. [ A United States federal appeals court blocks a landmark judgment against the tobacco industry clearing the way for selling "light" and "low tar" cigarettes until industry appeals can be reviewed. ](/news/2006/10/31/a-united-states-federal-appeals-court-blocks-a-landmark-judgment-against-the-tobacco-industry-clearing-the-way-for-selling-light-and-low.md) _Context: tobacco_
-9. [ A ban on tobacco smoking in public places begins in Cuba. ](/news/2005/02/8/a-ban-on-tobacco-smoking-in-public-places-begins-in-cuba.md) _Context: tobacco_
-10. [ Bhutan's ban on the sale of all tobacco products comes into effect. ](/news/2004/12/17/bhutan-s-ban-on-the-sale-of-all-tobacco-products-comes-into-effect.md) _Context: tobacco_

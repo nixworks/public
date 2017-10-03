@@ -34,7 +34,7 @@ A French court has dismissed a case against Dominique Strauss-Kahn in relation t
 _Context: Michael Bloomberg, New York City, a law limiting soft drink sales, state appellate court_
 
 ### [A UK government decision to create a controversial marine park in the Indian Ocean gets the go-ahead, though the intentions are questioned by former residents of the Chagos Islands all of whom were expelled by the British between 1965 and 1973 so that an airbase could be built by the United States on Diego Garcia. ](/news/2013/06/11/a-uk-government-decision-to-create-a-controversial-marine-park-in-the-indian-ocean-gets-the-go-ahead-though-the-intentions-are-questioned-b.md)
-_Context: Chagos Islands, Diego Garcia, Indian Ocean, U.S._
+_Context: Americans, Chagos Islands, Diego Garcia, Indian Ocean_
 
 ### [North Korea calls off talks with South Korea, according to officials from the South, amid a disagreement over the pairing of Ryoo Kihl-jae (South) and Kim Yang Gon (North). ](/news/2013/06/11/north-korea-calls-off-talks-with-south-korea-according-to-officials-from-the-south-amid-a-disagreement-over-the-pairing-of-ryoo-kihl-jae.md)
 Talks planned for Wednesday cancelled after N. and S. Korea can&rsquo;t agree on representatives

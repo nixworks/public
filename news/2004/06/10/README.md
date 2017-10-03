@@ -24,13 +24,13 @@ _Context: Afghanistan, Pakistan, paramilitary_
 ### [ The Zimbabwean cricket team is suspended from playing Test matches by the ICC till the end of 2004 due to their policy of racial bias in team selection.](/news/2004/06/10/the-zimbabwean-cricket-team-is-suspended-from-playing-test-matches-by-the-icc-till-the-end-of-2004-due-to-their-policy-of-racial-bias-in-te.md)
 _Context: ICC, Zimbabwe, cricketer_
 
-### [ Apple Computer announces its [http://www.itworld.com/Comp/1184/040610liquidcooling/ new top-of-the-line] Mac G5 will use water-cooling technology. ITworld](/news/2004/06/10/apple-computer-announces-its-http-www-itworld-com-comp-1184-040610liquidcooling-new-top-of-the-line-mac-g5-will-use-water-cooling-tech.md)
+### [ Apple Computer announces its [http:--www.itworld.com-Comp-1184-040610liquidcooling- new top-of-the-line] Mac G5 will use water-cooling technology. ITworld](/news/2004/06/10/apple-computer-announces-its-http-www-itworld-com-comp-1184-040610liquidcooling-new-top-of-the-line-mac-g5-will-use-water-cooling-tech.md)
 _Context: Apple Computer, ITworld, water-cooling_
 
 ### [ Martha Stewart asks a federal judge to throw out charges of obstructing justice, claiming false evidence. ](/news/2004/06/10/martha-stewart-asks-a-federal-judge-to-throw-out-charges-of-obstructing-justice-claiming-false-evidence.md)
 _Context: Martha Stewart, evidence, federal judge, obstruction of justice_
 
-### [ Musician Ray Charles dies due to liver failure/hepatitis C at his home in Beverly Hills, California, surrounded by family and friends.](/news/2004/06/10/musician-ray-charles-dies-due-to-liver-failure-hepatitis-c-at-his-home-in-beverly-hills-california-surrounded-by-family-and-friends.md)
+### [ Musician Ray Charles dies due to liver failure-hepatitis C at his home in Beverly Hills, California, surrounded by family and friends.](/news/2004/06/10/musician-ray-charles-dies-due-to-liver-failure-hepatitis-c-at-his-home-in-beverly-hills-california-surrounded-by-family-and-friends.md)
 _Context: Beverly Hills, California, Ray Charles, hepatitis C, musician_
 
 ## [Previous Day...](/news/2004/06/9/index.md)

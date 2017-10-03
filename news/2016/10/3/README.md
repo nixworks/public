@@ -15,7 +15,7 @@ Chaba will now brush South Korea before moving into mainland Japan.
 ### [A stone quarry collapses in Hubei province, China, leaving five people missing. ](/news/2016/10/3/a-stone-quarry-collapses-in-hubei-province-china-leaving-five-people-missing.md)
 Stone quarry collapsed in Chinese Hubei province, leaving five people missing, local media reported citing the authorities.
 
-### [Heavy rains from Hurricane Matthew's outer bands drench Haiti and Jamaica, killing a Haitian fisherman. The Category 4 storm, with 140 mph ((220 km/h) maximum sustained winds), is heading towards western Haiti, eastern Cuba, and the southeastern and central Bahamas. ](/news/2016/10/3/heavy-rains-from-hurricane-matthew-s-outer-bands-drench-haiti-and-jamaica-killing-a-haitian-fisherman-the-category-4-storm-with-140-mph.md)
+### [Heavy rains from Hurricane Matthew's outer bands drench Haiti and Jamaica, killing a Haitian fisherman. The Category 4 storm, with 140 mph ((220 km-h) maximum sustained winds), is heading towards western Haiti, eastern Cuba, and the southeastern and central Bahamas. ](/news/2016/10/3/heavy-rains-from-hurricane-matthew-s-outer-bands-drench-haiti-and-jamaica-killing-a-haitian-fisherman-the-category-4-storm-with-140-mph.md)
 Heavy rains from the outer bands of Hurricane Matthew drenched Haiti and Jamaica, flooding streets and sending many people to emergency shelters
 
 ### [The Italian coast guard rescues more than 5,600 migrants, in one of the biggest operations in a single day. ](/news/2016/10/3/the-italian-coast-guard-rescues-more-than-5-600-migrants-in-one-of-the-biggest-operations-in-a-single-day.md)

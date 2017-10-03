@@ -39,7 +39,7 @@ _Context: Burma, sectarian violence, states of emergency_
 ### [More than 80 people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried. ](/news/2012/06/11/more-than-80-people-die-in-a-landslide-triggered-by-two-earthquakes-in-afghanistan-an-entire-village-is-buried.md)
 More than 80 people are believed to have been killed in a landslide triggered by two quakes in northern Afghanistan on Monday, officials say.
 
-### [More than 170,000 houses are left without power in south-western Western Australia after winds up to 140 km/h batter the region. ](/news/2012/06/11/more-than-170-000-houses-are-left-without-power-in-south-western-western-australia-after-winds-up-to-140-km-h-batter-the-region.md)
+### [More than 170,000 houses are left without power in south-western Western Australia after winds up to 140 km-h batter the region. ](/news/2012/06/11/more-than-170-000-houses-are-left-without-power-in-south-western-western-australia-after-winds-up-to-140-km-h-batter-the-region.md)
 More than 100,000 households remain without power this morning and may remain without electricity for a week, with Western Power crews working throughout the night.
 
 ### [Flooding hits large parts of England and Wales. ](/news/2012/06/11/flooding-hits-large-parts-of-england-and-wales.md)

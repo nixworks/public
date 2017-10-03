@@ -28,7 +28,7 @@ The United States warned on Tuesday it would consider &quot;other&quot; options,
 BERLIN (AP) — Germany&#039;s foreign minister has expressed regret over the fact that his country&#039;s diplomats failed for years to act on abuses at a secretive German colony in Chile. For three decades from 1961 onward the enclave…
 
 ### [The United States deploys F-22 Raptor fighter jets to Romania's RoAF 86th Air Base, near the Black Sea, in a show of strength and cooperation against Russia. "The United States and Romania enjoy a very strong partnership," said Hans G. Klemm, the United States Ambassador to Romania. ](/news/2016/04/26/the-united-states-deploys-f-22-raptor-fighter-jets-to-romania-s-roaf-86th-air-base-near-the-black-sea-in-a-show-of-strength-and-cooperatio.md)
-_Context: Black Sea, F-22 Raptor, Hans G. Klemm, RoAF 86th Air Base, Romania, Romania-United States relations, Russia, U.S., United States Ambassador to Romania_
+_Context: Americans, Black Sea, F-22 Raptor, Hans G. Klemm, RoAF 86th Air Base, Romania, Romania-United States relations, Russia, United States Ambassador to Romania_
 
 ### [The Supreme Court of Papua New Guinea rules that Australia's detention of asylum seekers on Manus Island breaches the right to personal liberty under the constitution. ](/news/2016/04/26/the-supreme-court-of-papua-new-guinea-rules-that-australia-s-detention-of-asylum-seekers-on-manus-island-breaches-the-right-to-personal-libe.md)
 Papua New Guinea&#039;s Supreme Court rules Australia&#039;s detention of asylum seekers on Manus Island is illegal.
@@ -51,7 +51,7 @@ _Context: Baghdad, Iraq, Iraqi Parliament, Muqtada al-Sadr, Shi'ites_
 ### [Rebel leader Riek Machar arrives in the capital Juba and is immediately sworn is as Vice President upon arrival. It is hoped that this appointment will put an end to the civil war that has plagued the country since late 2013. ](/news/2016/04/26/rebel-leader-riek-machar-arrives-in-the-capital-juba-and-is-immediately-sworn-is-as-vice-president-upon-arrival-it-is-hoped-that-this-appoi.md)
 _Context: Juba, Riek Machar, South Sudanese Civil War, Vice-President_
 
-### [Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees/migrants are reported injured. ](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.md)
+### [Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.md)
 Clashes break out between migrants and riot police at a detention centre on the Greek island of Lesbos, police say.
 
 ### [Following heavy pressure from world powers, Yemen's warring factions agree on an agenda for U.N.-backed peace negotiations to continue. ](/news/2016/04/26/following-heavy-pressure-from-world-powers-yemen-s-warring-factions-agree-on-an-agenda-for-u-n-backed-peace-negotiations-to-continue.md)

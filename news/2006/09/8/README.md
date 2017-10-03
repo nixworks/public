@@ -6,7 +6,7 @@ _Context: Australia, Peter Brock, Targa West, Western Australia, motor racing, r
 ### [ Ralph "Bucky" Phillips, the most recent addition to the FBI Ten Most Wanted Fugitives list, surrenders to Pennsylvania State Police. He is wanted for shooting three New York State troopers, one of whom died, after he escaped from jail. ](/news/2006/09/8/ralph-bucky-phillips-the-most-recent-addition-to-the-fbi-ten-most-wanted-fugitives-list-surrenders-to-pennsylvania-state-police-he-is.md)
 _Context: 10 Most Wanted Fugitives list, New York State, Pennsylvania, Pennsylvania State Police, Ralph "Bucky" Phillips_
 
-### [ Chilean Supreme Court lifts Augusto Pinochet's immunity concerning the Villa Grimaldi case. ([http://news.bbc.co.uk/go/pr/fr/-/1/hi/world/americas/5329264.stm BBC]). ](/news/2006/09/8/chilean-supreme-court-lifts-augusto-pinochet-s-immunity-concerning-the-villa-grimaldi-case-http-news-bbc-co-uk-go-pr-fr-1-hi-world-a.md)
+### [ Chilean Supreme Court lifts Augusto Pinochet's immunity concerning the Villa Grimaldi case. ([http:--news.bbc.co.uk-go-pr-fr---1-hi-world-americas-5329264.stm BBC]). ](/news/2006/09/8/chilean-supreme-court-lifts-augusto-pinochet-s-immunity-concerning-the-villa-grimaldi-case-http-news-bbc-co-uk-go-pr-fr-1-hi-world-a.md)
 _Context: Augusto Pinochet, Villa Grimaldi_
 
 ### [ The non-governmental organization Freedom House ranks Burma, Cuba, Libya, North Korea, Sudan, Syria, Turkmenistan, and Uzbekistan as the worst violators of human rights. FH also cited Tibet and Chechnya as areas of intense repression. ](/news/2006/09/8/the-non-governmental-organization-freedom-house-ranks-burma-cuba-libya-north-korea-sudan-syria-turkmenistan-and-uzbekistan-as-the-wo.md)
@@ -28,7 +28,7 @@ _Context: India, Maharashtra, Malegaon, Nashik, bomb blasts_
 _Context: Operation Murambatsvina, Zimbabwe_
 
 ### [ Taliban insurgency: A suicide car bomb explodes near the United States embassy in Kabul, killing at least ten people. ](/news/2006/09/8/taliban-insurgency-a-suicide-car-bomb-explodes-near-the-united-states-embassy-in-kabul-killing-at-least-ten-people.md)
-_Context: Kabul, Taliban insurgency, U.S._
+_Context: Americans, Kabul, Taliban insurgency_
 
 ## [Previous Day...](/news/2006/09/7/index.md)
 

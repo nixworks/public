@@ -22,7 +22,7 @@ _Context: Ankara, Islamist, President of Turkey, Recep Tayyip Erdogan, Turkey, T
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Bill Richardson, a U.S. special envoy, predicts that North Korea will not meet a deadline of today set by the Six-Party Talks to shut down its nuclear reactor but will meet their obligations a few days after. ](/news/2007/04/14/bill-richardson-a-u-s-special-envoy-predicts-that-north-korea-will-not-meet-a-deadline-of-today-set-by-the-six-party-talks-to-shut-down.md)
-_Context: Bill Richardson, North Korea, U.S., nuclear reactor, six-party talks_
+_Context: Americans, Bill Richardson, North Korea, nuclear reactor, six-party talks_
 
 ### [ Nigerian general election: Nigerian voters go to the polls for state governor and legislative elections. Security is tight in the northern city of Kano following the murder of militant Islamic cleric Ustaz Ja'afar Adam. ](/news/2007/04/14/nigerian-general-election-nigerian-voters-go-to-the-polls-for-state-governor-and-legislative-elections-security-is-tight-in-the-northern.md)
 _Context: Kano, Muslims, Nigeria, Ustaz, gubernatorial elections, presidential election, ten new states_

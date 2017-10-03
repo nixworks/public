@@ -16,7 +16,7 @@ _Context: China, Huaping County, Yunnan_
 Once-Tropical Storm Henri will contribute to bring flooding rain and damaging winds to western Europe through Wednesday.
 
 ### [The death toll rises to 16 from this week's flash flood along the Utah - Arizona border in the United States. ](/news/2015/09/16/the-death-toll-rises-to-16-from-this-week-s-flash-flood-along-the-utah-a-arizona-border-in-the-united-states.md)
-_Context: Arizona, U.S., Utah, flash flood_
+_Context: Americans, Arizona, Utah, flash flood_
 
 ### [An earthquake measuring 8.3 on the Richter scale occurs in the Pacific Ocean near Chile sparking a tsunami warning. At least five people die. ](/news/2015/09/16/an-earthquake-measuring-8-3-on-the-richter-scale-occurs-in-the-pacific-ocean-near-chile-sparking-a-tsunami-warning-at-least-five-people-die.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -6,7 +6,7 @@ US State Department confirms Kerry and Lavrov met but no agreement on ceasefire 
 ### [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md)
 An emerging Egyptian terrorist group has claimed responsibility for a bombing that killed six security officers near the Pyramids of Giza on Friday. The Hasm Movement said it was behind an explosion targeting a checkpoint on a main road near the tourist attraction in Cairo.
 
-### [  At least 56 are killed and 70 wounded in a twin suicide attack in northeastern Nigeria. ](/news/2016/12/9/at-least-56-are-killed-and-70-wounded-in-a-twin-suicide-attack-in-northeastern-nigeria.md)
+### [ At least 56 are killed and 70 wounded in a twin suicide attack in northeastern Nigeria. ](/news/2016/12/9/at-least-56-are-killed-and-70-wounded-in-a-twin-suicide-attack-in-northeastern-nigeria.md)
 A twin bomb blast has ripped through a market in Yola, the Adamawa state capital, about 47 people have been feared killed, Boko Haram is behind the attack.
 
 ### [American film actor and producer Kirk Douglas, one of the last living movie stars of the Golden Age of Hollywood, celebrates his 100th birthday. ](/news/2016/12/9/american-film-actor-and-producer-kirk-douglas-one-of-the-last-living-movie-stars-of-the-golden-age-of-hollywood-celebrates-his-100th-birth.md)

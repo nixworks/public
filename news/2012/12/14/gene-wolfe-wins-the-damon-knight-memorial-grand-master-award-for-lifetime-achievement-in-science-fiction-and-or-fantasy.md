@@ -1,6 +1,6 @@
 ### [2012-12-14](/news/2012/12/14/index.md)
 
-# Gene Wolfe wins the Damon Knight Memorial Grand Master Award for "lifetime achievement in science fiction and/or fantasy". 
+# Gene Wolfe wins the Damon Knight Memorial Grand Master Award for "lifetime achievement in science fiction and-or fantasy". 
 
 SFWA has named Gene Wolfe as the 2012 recipient of the Damon Knight Memorial Grand Master Award for his contributions to the literature of Science Fiction and Fantasy.
 

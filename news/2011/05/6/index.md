@@ -43,7 +43,7 @@ _Context: Arctic, Russia, Taymyr, fleet, nuclear-powered icebreaker_
 _Context: Mexico, Sabinas_
 
 ### [Spanish maritime rescue services look for 22 would-be immigrants missing after their boat capsized south of Spain. ](/news/2011/05/6/spanish-maritime-rescue-services-look-for-22-would-be-immigrants-missing-after-their-boat-capsized-south-of-spain.md)
-_Context: Spanish_
+_Context: Spain_
 
 ### [Samoa announces that it will switch time zones. ](/news/2011/05/6/samoa-announces-that-it-will-switch-time-zones.md)
 _Context: Samoa, time zone_

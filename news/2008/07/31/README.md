@@ -6,7 +6,7 @@ _Context: Arnold Schwarzenegger, California, Governor of California_
 ### [ NASA announces discovery of water on Mars. ](/news/2008/07/31/nasa-announces-discovery-of-water-on-mars.md)
 _Context: NASA, water on Mars_
 
-### [ A Raytheon Hawker 800 corporate jet crashes in Owatonna, Minnesota, resulting in at least eight deaths. [http://ap.google.com/article/ALeqM5gig1LIOGzGlClbdDV7HYLd3muEwAD9295O2O0 (AP via Google News)] (Wikinews Article)](/news/2008/07/31/a-raytheon-hawker-800-corporate-jet-crashes-in-owatonna-minnesota-resulting-in-at-least-eight-deaths-http-ap-google-com-article-aleqm.md)
+### [ A Raytheon Hawker 800 corporate jet crashes in Owatonna, Minnesota, resulting in at least eight deaths. [http:--ap.google.com-article-ALeqM5gig1LIOGzGlClbdDV7HYLd3muEwAD9295O2O0 (AP via Google News)] (Wikinews Article)](/news/2008/07/31/a-raytheon-hawker-800-corporate-jet-crashes-in-owatonna-minnesota-resulting-in-at-least-eight-deaths-http-ap-google-com-article-aleqm.md)
 _Context: Hawker 800, Owatonna, Minnesota, Raytheon, Wikinews Article_
 
 ### [ The Governor of Massachusetts Deval Patrick signs legislation allowing gay and lesbian couples from other states to get married in Massachusetts. ](/news/2008/07/31/the-governor-of-massachusetts-deval-patrick-signs-legislation-allowing-gay-and-lesbian-couples-from-other-states-to-get-married-in-massachu.md)

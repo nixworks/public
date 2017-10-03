@@ -12,7 +12,7 @@ Pro- and anti-government demonstrators hold rallies as Saleh gives guarded welco
 ### [Amid a protest against the construction of a new Tesco superstore in the Stokes Croft area of the English city of Bristol, 9 people are arrested and 8 police officers are injured. ](/news/2011/04/22/amid-a-protest-against-the-construction-of-a-new-tesco-superstore-in-the-stokes-croft-area-of-the-english-city-of-bristol-9-people-are-arre.md)
 Nine people are arrested and eight police officers hurt during violent clashes sparked by a raid on opponents of a new Tesco store in Bristol.
 
-### [A farmer in Los Pozos, Veracruz, Mexico opens fire outside a local church after its Good Friday sermon, killing a woman and two children. "[http://www.wlos.com/template/inews_wire/wires.international/3f78254a-www.wlos.com.shtml (WLOS)]"](/news/2011/04/22/a-farmer-in-los-pozos-veracruz-mexico-opens-fire-outside-a-local-church-after-its-good-friday-sermon-killing-a-woman-and-two-children.md)
+### [A farmer in Los Pozos, Veracruz, Mexico opens fire outside a local church after its Good Friday sermon, killing a woman and two children. "[http:--www.wlos.com-template-inews_wire-wires.international-3f78254a-www.wlos.com.shtml (WLOS)]"](/news/2011/04/22/a-farmer-in-los-pozos-veracruz-mexico-opens-fire-outside-a-local-church-after-its-good-friday-sermon-killing-a-woman-and-two-children.md)
 _Context: Los Pozos, Mexico, Veracruz_
 
 ### [Good Friday celebrations occur internationally. ](/news/2011/04/22/good-friday-celebrations-occur-internationally.md)

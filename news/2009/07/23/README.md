@@ -4,7 +4,7 @@
 A report showing that sales of existing homes rose 3.6 percent in June and a flurry of positive earnings reports fueled the surge.
 
 ### [ The United States signs the Treaty of Amity and Cooperation in Southeast Asia. ](/news/2009/07/23/the-united-states-signs-the-treaty-of-amity-and-cooperation-in-southeast-asia.md)
-_Context: Treaty of Amity and Cooperation in Southeast Asia, U.S._
+_Context: Americans, Treaty of Amity and Cooperation in Southeast Asia_
 
 ### [ Two Swedish passenger ferries sailing between the mainland and Gotland collide in fog just off the port of Nynshamn south of Stockholm, injuring at least 15 people. ](/news/2009/07/23/two-swedish-passenger-ferries-sailing-between-the-mainland-and-gotland-collide-in-fog-just-off-the-port-of-nynashamn-south-of-stockholm-in.md)
 _Context: Gotland, Nynshamn, Stockholm, Swedish, ferry, fog_

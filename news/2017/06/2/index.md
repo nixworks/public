@@ -3,7 +3,7 @@
 ### [A terrorist threat results in the evacuation of tens of thousands of fans at the first day of the annual Rock am Ring music festival at the Zeppelinfeld in Nuremberg, Germany. Organizers say they hope the festival will resume Saturday. ](/news/2017/06/2/a-terrorist-threat-results-in-the-evacuation-of-tens-of-thousands-of-fans-at-the-first-day-of-the-annual-rock-am-ring-music-festival-at-the.md)
 Fans hoping to see German rock giants Rammstein stream out of the Nuerburg arena instead.
 
-### [Fifteen young children die of "severe sepsis/toxicity" from contaminated vaccine during South Sudan's measles vaccination campaign. In one instance, a syringe containing vaccine stored without refrigeration was used for all the children over four days. ](/news/2017/06/2/fifteen-young-children-die-of-severe-sepsis-toxicity-from-contaminated-vaccine-during-south-sudan-s-measles-vaccination-campaign-in-one-i.md)
+### [Fifteen young children die of "severe sepsis-toxicity" from contaminated vaccine during South Sudan's measles vaccination campaign. In one instance, a syringe containing vaccine stored without refrigeration was used for all the children over four days. ](/news/2017/06/2/fifteen-young-children-die-of-severe-sepsis-toxicity-from-contaminated-vaccine-during-south-sudan-s-measles-vaccination-campaign-in-one-i.md)
 Contaminated measles vaccine killed 15 children in South Sudan, U.N. and WHO officials say
 
 ### [Equatorial Guinea, Ivory Coast, Kuwait, Peru and Poland are elected to the United Nations Security Council for a two-year term beginning on January 1, 2018. ](/news/2017/06/2/equatorial-guinea-ivory-coast-kuwait-peru-and-poland-are-elected-to-the-united-nations-security-council-for-a-two-year-term-beginning-on.md)
@@ -18,7 +18,7 @@ The Russian government continues to partially remove sanctions on Turkey. A new 
 ### [At least 37 people are killed in a deliberately lit fire at Resorts World Manila in the Philippines. The perpetrator stole gaming chips and fired gun shots before committing suicide. ](/news/2017/06/2/at-least-37-people-are-killed-in-a-deliberately-lit-fire-at-resorts-world-manila-in-the-philippines-the-perpetrator-stole-gaming-chips-and.md)
 _Context: 2017 Resorts World Manila attack, Philippines, Resorts World Manila_
 
-### [Five anti-government/anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-demanding-that-the-government-step-down-in.md)
+### [Five anti-government-anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-demanding-that-the-government-step-down-in.md)
 _Context: Kabul, May 2017 Kabul attack, War in Afghanistan (2015-present)_
 
 ### [Former Pennsylvania State University president Graham Spanier, former vice president Gary Schultz, and former athletic director Timothy Curley are sentenced to prison for covering up ex-coach Jerry Sandusky's criminal sexual acts, thereby letting him victimize more boys. ](/news/2017/06/2/former-pennsylvania-state-university-president-graham-spanier-former-vice-president-gary-schultz-and-former-athletic-director-timothy-curl.md)
@@ -30,7 +30,7 @@ Disney boss Bob Iger has become the latest chief executive to quit Donald Trumpâ
 ### [Leo Varadkar becomes the new party leader of Fine Gael, after winning 51 of 73 votes in the parliamentary party, and is expected to become Taoiseach (Prime Minister) of Ireland, which would make him the youngest and first openly gay man to be Taoiseach, as well as being the first of half-Indian descent. ](/news/2017/06/2/leo-varadkar-becomes-the-new-party-leader-of-fine-gael-after-winning-51-of-73-votes-in-the-parliamentary-party-and-is-expected-to-become-t.md)
 LEO Varadkar has been confirmed as the new leader of Fine Gael &#8211; and looks set to become the youngest Taoiseach in the history of the State aged just 38. Frontrunner Leo battled for the covetâ€¦
 
-### [Two of Jupiter's moons, S/2003 J 18 and S/2011 J 2 are recovered, and a small 1.5-kilometer outer moon (S/2016 J 1) is discovered, the first moon discovered around a major planet in 6 years. ](/news/2017/06/2/two-of-jupiter-s-moons-s-2003-j-18-and-s-2011-j-2-are-recovered-and-a-small-1-5-kilometer-outer-moon-s-2016-j-1-is-discovered-the-first.md)
+### [Two of Jupiter's moons, S-2003 J 18 and S-2011 J 2 are recovered, and a small 1.5-kilometer outer moon (S-2016 J 1) is discovered, the first moon discovered around a major planet in 6 years. ](/news/2017/06/2/two-of-jupiter-s-moons-s-2003-j-18-and-s-2011-j-2-are-recovered-and-a-small-1-5-kilometer-outer-moon-s-2016-j-1-is-discovered-the-first.md)
 _Context: S/2003 J 18, S/2011 J 2, S/2016 J 1, satellite of Jupiter, the first moon_
 
 ## [Previous Day...](/news/2017/06/1/index.md)

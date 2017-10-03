@@ -4,7 +4,7 @@
 Security forces in Indian-administered Kashmir kill three militants in an ongoing clash in Kupwara district, an army spokesman says.
 
 ### [International campaigners against the drone attacks, carried out by the United States in Pakistan, launch their attempt to have former CIA legal chief John A. Rizzo arrested and charged with the murders of hundreds of people after his admission in "Newsweek" that he approved attacks each month since 2004. ](/news/2011/07/15/international-campaigners-against-the-drone-attacks-carried-out-by-the-united-states-in-pakistan-launch-their-attempt-to-have-former-cia-l.md)
-_Context: John A. Rizzo, Newsweek, Pakistan, U.S., drones launch_
+_Context: Americans, John A. Rizzo, Newsweek, Pakistan, drones launch_
 
 ### [Soldiers, air force bombers and helicopter gunships begin a major offensive in south-eastern Turkey as the country's prime minister Recep Tayyip Erdogan vows to seek vengeance on Kurdish rebels. ](/news/2011/07/15/soldiers-air-force-bombers-and-helicopter-gunships-begin-a-major-offensive-in-south-eastern-turkey-as-the-country-s-prime-minister-recep-ta.md)
 _Context: Recep Tayyip Erdogan_

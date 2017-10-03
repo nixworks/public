@@ -13,7 +13,7 @@ _Context: Beja, Sudan_
 _Context: Chris Smith, HIV, Labour, Secretary of State for Culture, Media and Sport, United Kingdom_
 
 ### [ In Spain, a bomb explodes at a hotel in the southwest town Denia injuring one. Police officials say the detonation occurred after a telephone warning from the Basque ETA group. Spanish parliament is scheduled to debate and vote on a Basque plan for independence from Spain in two days. ](/news/2005/01/30/in-spain-a-bomb-explodes-at-a-hotel-in-the-southwest-town-denia-injuring-one-police-officials-say-the-detonation-occurred-after-a-telepho.md)
-_Context: Basque, Denia, ETA, Spanish_
+_Context: Basque, Denia, ETA, Spain_
 
 ### [ Talks between the Indonesian government and Free Aceh Movement leaders in Helsinki end a day early, possibly signaling a breakdown in negotiations. ](/news/2005/01/30/talks-between-the-indonesian-government-and-free-aceh-movement-leaders-in-helsinki-end-a-day-early-possibly-signaling-a-breakdown-in-negot.md)
 _Context: GAM, Helsinki, Indonesia_

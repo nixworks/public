@@ -19,5 +19,3 @@
 3. [ Italian Camorra leader Raffaele Amato is arrested in Marbella, Spain. ](/news/2009/05/18/italian-camorra-leader-raffaele-amato-is-arrested-in-marbella-spain.md) _Context: Camorra_
 4. [ One hundred thousand people protest against the Sicilian Mafia and Camorra in Naples, Italy. ](/news/2009/03/21/one-hundred-thousand-people-protest-against-the-sicilian-mafia-and-camorra-in-naples-italy.md) _Context: Camorra_
 5. [ 30 suspected mobsters arrested around Naples in "war against the Camorra". ](/news/2008/09/30/30-suspected-mobsters-arrested-around-naples-in-war-against-the-camorra.md) _Context: Camorra_
-6. [ In Naples, Italy, police has arrested at least 42 people during a large operation against Camorra. ](/news/2005/03/3/in-naples-italy-police-has-arrested-at-least-42-people-during-a-large-operation-against-camorra.md) _Context: Camorra_
-7. [ Gang war between rival groups of Camorra continues in Naples, Italy. ](/news/2004/11/25/gang-war-between-rival-groups-of-camorra-continues-in-naples-italy.md) _Context: Camorra_

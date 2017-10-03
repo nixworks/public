@@ -10,7 +10,7 @@ _Context: Pakistan, Shangla District_
 Elinor Ostrom and Oliver Williamson of the United States won the 2009 Nobel Economics Prize on Monday for their work on the organisation of cooperation in economic governance.
 
 ### [ Edgar Allan Poe receives a funeral in Baltimore, USA, 160 years after his death and 200 after his birth. ](/news/2009/10/12/edgar-allan-poe-receives-a-funeral-in-baltimore-usa-160-years-after-his-death-and-200-after-his-birth.md)
-_Context: Baltimore, Edgar Allan Poe, U.S., his death_
+_Context: Americans, Baltimore, Edgar Allan Poe, his death_
 
 ### [ Kai Eide of Norway, the top United Nations official in Afghanistan, acknowledges "widespread fraud" took place during the recent presidential election in the country. ](/news/2009/10/12/kai-eide-of-norway-the-top-united-nations-official-in-afghanistan-acknowledges-widespread-fraud-took-place-during-the-recent-presidenti.md)
 The top UN official in Afghanistan today acknowledged &quot;widespread fraud&quot; in the disputed presidential election and rejected allegations from a former deputy that he covered up cheating to smooth the path to victory for President Hamid Karzai.

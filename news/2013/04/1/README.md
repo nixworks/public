@@ -28,7 +28,7 @@ _Context: Apple Inc., CEO, China, Tim Cook_
 Private newspapers are published in Burma for the first time in almost 50 years, as the latest in a series of democratic reforms comes into effect.
 
 ### [2013 Korean crisis: The annual session of North Korea's Parliament, the Supreme People's Assembly, takes place in Pyongyang, following repeated threats of violence by the leader Kim Jong-Un against South Korea and the United States. Choi Bu-Il is appointed Minister of Internal Security. ](/news/2013/04/1/2013-korean-crisis-the-annual-session-of-north-korea-s-parliament-the-supreme-people-s-assembly-takes-place-in-pyongyang-following-repea.md)
-_Context: 2013 Korean crisis, Kim Jong-un, North Korea, Pyongyang, South Korea, Supreme People's Assembly, U.S., parliament_
+_Context: 2013 Korean crisis, Americans, Kim Jong-un, North Korea, Pyongyang, South Korea, Supreme People's Assembly, parliament_
 
 ### [Japan accuses three Chinese surveillance ships of entering the territorial waters of Tokyo-controlled Senkaku Islands. ](/news/2013/04/1/japan-accuses-three-chinese-surveillance-ships-of-entering-the-territorial-waters-of-tokyo-controlled-senkaku-islands.md)
 _Context: China, Japan, Senkaku Islands, Tokyo, surveillance, territorial waters_

@@ -15,7 +15,7 @@ Today, for the first time in nearly two decades, millions of Serbs and other for
 ### [ Pope Benedict XVI declares two of his predecessors, John Paul II and Pius XII to be Venerable, the second step toward sainthood. ](/news/2009/12/19/pope-benedict-xvi-declares-two-of-his-predecessors-john-paul-ii-and-pius-xii-to-be-venerable-the-second-step-toward-sainthood.md)
 Pope Benedict XVI moved to make two of his predecessors one step closer to sainthood, confirming the virtues of John Paul II and, in a surprise move, those of Pius XII.
 
-### [ A 6.4 M<sub>w</sub> earthquake strikes Taiwan collapsing one building. ](/news/2009/12/19/a-6-4-mw-earthquake-strikes-taiwan-collapsing-one-building.md)
+### [ A 6.4 M w earthquake strikes Taiwan collapsing one building. ](/news/2009/12/19/a-6-4-m-w-earthquake-strikes-taiwan-collapsing-one-building.md)
 A strong earthquake rocked much of Taiwan on Saturday, geological officials said, with local television reporting minor injuries and structural damage to some buildings.
 
 ### [ Madagascar's President Andry Rajoelina dismisses his Prime Minister, Eugene Mangalaza, whom he appointed in October. ](/news/2009/12/19/madagascar-s-president-andry-rajoelina-dismisses-his-prime-minister-euga-ne-mangalaza-whom-he-appointed-in-october.md)

@@ -18,17 +18,17 @@ _Context: China, Chinese human rights, government_
 ### [ An unmanned Palestinian fishing vessel explodes near an Israeli Navy patrol in the Gaza Strip. ](/news/2009/04/13/an-unmanned-palestinian-fishing-vessel-explodes-near-an-israeli-navy-patrol-in-the-gaza-strip.md)
 _Context: Gaza, Israel, Israeli Navy, Israeli-Palestinian conflict, Palestinian, fishing boat, patrol_
 
-### [ United States Representative Donald M. Payne comes under mortar fire at Aden Adde International Airport in Somalia. [http://www.telegraph.co.uk/news/worldnews/africaandindianocean/somalia/5149000/US-congressman-comes-under-mortar-fire-as-he-leaves-Somalia.html "(Telegraph)"]](/news/2009/04/13/united-states-representative-donald-m-payne-comes-under-mortar-fire-at-aden-adde-international-airport-in-somalia-http-www-telegraph-c.md)
-_Context: Aden Adde International Airport, Donald M. Payne, Mortar, Somalian, U.S., United States House of Representatives_
+### [ United States Representative Donald M. Payne comes under mortar fire at Aden Adde International Airport in Somalia. [http:--www.telegraph.co.uk-news-worldnews-africaandindianocean-somalia-5149000-US-congressman-comes-under-mortar-fire-as-he-leaves-Somalia.html "(Telegraph)"]](/news/2009/04/13/united-states-representative-donald-m-payne-comes-under-mortar-fire-at-aden-adde-international-airport-in-somalia-http-www-telegraph-c.md)
+_Context: Aden Adde International Airport, Americans, Donald M. Payne, Mortar, Somalian, United States House of Representatives_
 
 ### [ Protests against Georgian President Mikheil Saakashvili continue in Tbilisi. ](/news/2009/04/13/protests-against-georgian-president-mikheil-saakashvili-continue-in-tbilisi.md)
 _Context: Georgian, President of Georgia, Saakashvili, Tbilisi, protest_
 
-### [ At least four Lebanese Ground Forces soldiers are killed near Baalbek in the Beqaa Valley. [http://www.latimes.com/news/nationworld/world/la-fg-lebanon-ambush14-2009apr14,0,3527611.story "(Los Angeles Times)"]](/news/2009/04/13/at-least-four-lebanese-ground-forces-soldiers-are-killed-near-baalbek-in-the-beqaa-valley-http-www-latimes-com-news-nationworld-world-l.md)
+### [ At least four Lebanese Ground Forces soldiers are killed near Baalbek in the Beqaa Valley. [http:--www.latimes.com-news-nationworld-world-la-fg-lebanon-ambush14-2009apr14,0,3527611.story "(Los Angeles Times)"]](/news/2009/04/13/at-least-four-lebanese-ground-forces-soldiers-are-killed-near-baalbek-in-the-beqaa-valley-http-www-latimes-com-news-nationworld-world-l.md)
 _Context: Baalbek, Beqaa Valley, Ground Forces, Lebanon, soldier_
 
-### [ The U.S. federal government will rescind travel and gift restrictions to Cuba. [http://www.miamiherald.com/news/politics/AP/story/997719.html "(Miami Herald)"]](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-and-gift-restrictions-to-cuba-http-www-miamiherald-com-news-politics-ap-story-997719-ht.md)
-_Context: Cuba, Cuba - United States relations, U.S., United States embargo against Cuba, United States federal government_
+### [ The U.S. federal government will rescind travel and gift restrictions to Cuba. [http:--www.miamiherald.com-news-politics-AP-story-997719.html "(Miami Herald)"]](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-and-gift-restrictions-to-cuba-http-www-miamiherald-com-news-politics-ap-story-997719-ht.md)
+_Context: Americans, Cuba, Cuba - United States relations, United States embargo against Cuba, United States federal government_
 
 ### [ The United Nations Security Council condemns North Korea's launch of Kwangmyongsong-2. ](/news/2009/04/13/the-united-nations-security-council-condemns-north-korea-s-launch-of-kwangmyangsang-2.md)
 _Context: Kwangmyongsong-2, North Korea, United Nations, United Nations Security Council, launches_

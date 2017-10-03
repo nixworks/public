@@ -12,7 +12,7 @@ A raging wildfire near Austin, Texas, killed two people, officials said Tuesday,
 ### [A tropical storm watch is in place for Bermuda as Hurricane Katia gets closer. ](/news/2011/09/6/a-tropical-storm-watch-is-in-place-for-bermuda-as-hurricane-katia-gets-closer.md)
 _Context: Bermuda, Hurricane Katia, tropical storm_
 
-### [The Swiss National Bank introduces a minimum exchange rate of 1.20 CHF/EUR to prevent the overvaluation of the Swiss franc. ](/news/2011/09/6/the-swiss-national-bank-introduces-a-minimum-exchange-rate-of-1-20-chf-eur-to-prevent-the-overvaluation-of-the-swiss-franc.md)
+### [The Swiss National Bank introduces a minimum exchange rate of 1.20 CHF-EUR to prevent the overvaluation of the Swiss franc. ](/news/2011/09/6/the-swiss-national-bank-introduces-a-minimum-exchange-rate-of-1-20-chf-eur-to-prevent-the-overvaluation-of-the-swiss-franc.md)
 The Swiss franc falls sharply after the central bank pegs the franc to the euro, citing a &quot;massive overvaluation&quot; of the Swiss currency.
 
 ### [Four former News International executives are recalled by the House of Commons Culture, Media and Sport Select Committee to face further examination over phone hacking within the organisation. ](/news/2011/09/6/four-former-news-international-executives-are-recalled-by-the-house-of-commons-culture-media-and-sport-select-committee-to-face-further-exa.md)

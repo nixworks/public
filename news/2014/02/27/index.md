@@ -34,7 +34,7 @@ JERUSALEM -- Israeli security forces use excessive force against Palestinians in
 _Context: Arizona, Jan Brewer, gay and bisexual men_
 
 ### [United States Federal Reserve hacker Lauri Love is sentenced. ](/news/2014/02/27/united-states-federal-reserve-hacker-lauri-love-is-sentenced.md)
-_Context: Federal Reserve, U.S._
+_Context: Americans, Federal Reserve_
 
 ### [The National Anti-Corruption Commission summon the Prime Minister of Thailand Yingluck Shinawatra to face charges of allegedly mishandling a rice subsidy program as her supporters block access to the building. ](/news/2014/02/27/the-national-anti-corruption-commission-summon-the-prime-minister-of-thailand-yingluck-shinawatra-to-face-charges-of-allegedly-mishandling-a.md)
 _Context: 2013-14 Thai political crisis, Prime Minister, Yingluck Shinawatra_

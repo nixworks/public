@@ -1,6 +1,6 @@
 ### [2003-12-8](/news/2003/12/8/index.md)
 
-# In San Juan, Puerto Rico, four men are killed and a woman critically injured during a massacre in a discotheque. It is the largest massacre in Puerto Rico since 1988. [http://vocero.com/noticia.asp?n=36816&d=12/9/2003] (in Spanish)
+# In San Juan, Puerto Rico, four men are killed and a woman critically injured during a massacre in a discotheque. It is the largest massacre in Puerto Rico since 1988. [http:--vocero.com-noticia.asp?n=36816&d=12-9-2003] (in Spanish)
 
 
 
@@ -12,8 +12,3 @@
 3. [All 511 passengers and crew are evacuated from the ferry "Caribbean Fantasy" which caught fire off San Juan, Puerto Rico. ](/news/2016/08/17/all-511-passengers-and-crew-are-evacuated-from-the-ferry-caribbean-fantasy-which-caught-fire-off-san-juan-puerto-rico.md) _Context: San Juan, Puerto Rico_
 4. [A decade-long manhunt orchestrated by the United States Federal Bureau of Investigation ends with the capture of Jose Figueroa Agosto in San Juan, Puerto Rico. ](/news/2010/07/18/a-decade-long-manhunt-orchestrated-by-the-united-states-federal-bureau-of-investigation-ends-with-the-capture-of-josa-c-figueroa-agosto-in-sa.md) _Context: San Juan, Puerto Rico_
 5. [ Pope Benedict XVI will rescind the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/22/pope-benedict-xvi-will-rescind-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md) _Context: 1988_
-6. [ Tsutomu Miyazaki, known as "The Otaku Murderer", is executed by hanging in Tokyo for the murders and cannibalization of four young girls in 1988 and 1989. He was hanged with two others, each convicted in separate, unrelated murders. ](/news/2008/06/17/tsutomu-miyazaki-known-as-the-otaku-murderer-is-executed-by-hanging-in-tokyo-for-the-murders-and-cannibalization-of-four-young-girls-in.md) _Context: 1988_
-7. [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2007/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md) _Context: Spanish language_
-8. [ Around 50,000 people participate in the Puerto Rico Shouts march in San Juan, Puerto Rico, demanding a budget agreement to avert a partial shutdown of government offices and public schools. ](/news/2006/04/28/around-50-000-people-participate-in-the-puerto-rico-shouts-march-in-san-juan-puerto-rico-demanding-a-budget-agreement-to-avert-a-partial.md) _Context: San Juan, Puerto Rico_
-9. [ Twenty-two passengers, two stoweaways and crew are injured when an American Eagle ATR 42, flight 1450, crash-lands in San Juan, Puerto Rico. ](/news/2004/05/9/twenty-two-passengers-two-stoweaways-and-crew-are-injured-when-an-american-eagle-atr-42-flight-1450-crash-lands-in-san-juan-puerto-rico.md) _Context: San Juan, Puerto Rico_
-10. [ British athlete Paula Radcliffe sets a new 10&nbsp;km road race world record of 30:21 in San Juan, Puerto Rico.](/news/2003/02/23/british-athlete-paula-radcliffe-sets-a-new-10-nbsp-km-road-race-world-record-of-30-21-in-san-juan-puerto-rico.md) _Context: San Juan, Puerto Rico_

@@ -27,7 +27,7 @@ _Context: Africa, Europe, Libya, Tajoura_
 ### [North Korea holds a trial for American tourist Matthew Miller who was detained in April and sentences him to six years of hard labor. ](/news/2014/09/14/north-korea-holds-a-trial-for-american-tourist-matthew-miller-who-was-detained-in-april-and-sentences-him-to-six-years-of-hard-labor.md)
 _Context: American, North Korea_
 
-### [The Carolina Panthers deactivate defensive end Greg Hardy after his conviction on two counts of female assault and communicating threats. [http://www.usatoday.com/story/sports/nfl/panthers/2014/09/14/carolina-panthers-deactivate-greg-hardy-for-detroit-lions-game/15625873/ "(USA Today)"]](/news/2014/09/14/the-carolina-panthers-deactivate-defensive-end-greg-hardy-after-his-conviction-on-two-counts-of-female-assault-and-communicating-threats-h.md)
+### [The Carolina Panthers deactivate defensive end Greg Hardy after his conviction on two counts of female assault and communicating threats. [http:--www.usatoday.com-story-sports-nfl-panthers-2014-09-14-carolina-panthers-deactivate-greg-hardy-for-detroit-lions-game-15625873- "(USA Today)"]](/news/2014/09/14/the-carolina-panthers-deactivate-defensive-end-greg-hardy-after-his-conviction-on-two-counts-of-female-assault-and-communicating-threats-h.md)
 _Context: Carolina Panthers, Greg Hardy_
 
 ### [Voters in Sweden go to the polls for a general election with a leftist coalition led by the Swedish Social Democratic Party set to form government. Incumbent Prime Minister Fredrik Reinfeldt announces that he will step aside as PM and as leader of the Moderate Party. ](/news/2014/09/14/voters-in-sweden-go-to-the-polls-for-a-general-election-with-a-leftist-coalition-led-by-the-swedish-social-democratic-party-set-to-form-gove.md)

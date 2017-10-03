@@ -1,6 +1,6 @@
 ### [2010-08-20](/news/2010/08/20/index.md)
 
-# A study links the risk of Attention-deficit hyperactivity disorder to pesticide exposure before birth. [http://today.msnbc.msn.com/id/38763223/ns/health-kids_and_parenting/ (MSNBC)] 10.1289/ehp.1002056 ("Env. Health Persp.")
+# A study links the risk of Attention-deficit hyperactivity disorder to pesticide exposure before birth. [http:--today.msnbc.msn.com-id-38763223-ns-health-kids_and_parenting- (MSNBC)] 10.1289-ehp.1002056 ("Env. Health Persp.")
 
 
 

@@ -1,6 +1,6 @@
 ## [2005-05-29](/news/2005/05/29/index.md)
 
-### [ A London newspaper reports that Merrill Lynch, New York, is trying to persuade at least seventeen members of the corporate derivatives team of rival investment bank JP Morgan to defect. An anonymous source/headhunter quoted in the newspaper predicted that the seventeen will be working at Merrill Lynch by the end of the summer. ](/news/2005/05/29/a-london-newspaper-reports-that-merrill-lynch-new-york-is-trying-to-persuade-at-least-seventeen-members-of-the-corporate-derivatives-team.md)
+### [ A London newspaper reports that Merrill Lynch, New York, is trying to persuade at least seventeen members of the corporate derivatives team of rival investment bank JP Morgan to defect. An anonymous source-headhunter quoted in the newspaper predicted that the seventeen will be working at Merrill Lynch by the end of the summer. ](/news/2005/05/29/a-london-newspaper-reports-that-merrill-lynch-new-york-is-trying-to-persuade-at-least-seventeen-members-of-the-corporate-derivatives-team.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The French electorate reject the Treaty establishing a Constitution for Europe by approximately 55% to 45%, igniting a political crisis in the union and dealing a sharp blow to French President Jacques Chirac. All 25 EU member states must ratify the treaty for it to come into effect - 9 have done so to date, but only Spain has previously held a referendum. ](/news/2005/05/29/the-french-electorate-reject-the-treaty-establishing-a-constitution-for-europe-by-approximately-55-to-45-igniting-a-political-crisis-in.md)
@@ -18,7 +18,7 @@ About 10,000 black-clad gangsters, friends and family took part in the funeral o
 ### [ Three US senators visit Uzbekistan to demand investigation on the crackdown of unrest. ](/news/2005/05/29/three-us-senators-visit-uzbekistan-to-demand-investigation-on-the-crackdown-of-unrest.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ Paolo Savoldelli wins the 2005 Giro d'Italia. <small>"<<NEWSLINK MISSING>>"</small>](/news/2005/05/29/paolo-savoldelli-wins-the-2005-giro-d-italia.md)
+### [ Paolo Savoldelli wins the 2005 Giro d'Italia. " >" ](/news/2005/05/29/paolo-savoldelli-wins-the-2005-giro-d-italia.md)
 _Context: 2005 Giro d'Italia, Paolo Savoldelli_
 
 ### [ The Coca Cola League One Play Off Final is won by Sheffield Wednesday at the Millennium Stadium, Cardiff after they beat Hartlepool United 4-2 to gain promotion to the Coca Cola Championship.](/news/2005/05/29/the-coca-cola-league-one-play-off-final-is-won-by-sheffield-wednesday-at-the-millennium-stadium-cardiff-after-they-beat-hartlepool-united.md)

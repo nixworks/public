@@ -13,12 +13,12 @@ Chinese state media report that unlicensed welders accidentally started a fire i
 _Context: India, New Delhi_
 
 ### [The United States will provide an additional US$500-million aid to Pakistan to help rebuild the country after devastating floods caused the worst natural disaster in Pakistan's history. ](/news/2010/11/15/the-united-states-will-provide-an-additional-us-500-million-aid-to-pakistan-to-help-rebuild-the-country-after-devastating-floods-caused-the.md)
-_Context: Pakistan, U.S., devastating floods_
+_Context: Americans, Pakistan, devastating floods_
 
 ### [Iran arrests five human rights lawyers for security-related offences, the latest in a series of arrests of Iranian human rights' activists since last year's disputed presidential election. ](/news/2010/11/15/iran-arrests-five-human-rights-lawyers-for-security-related-offences-the-latest-in-a-series-of-arrests-of-iranian-human-rights-activists-s.md)
 _Context: Human rights, Iran, Iranian human rights, post-election riots_
 
-### [Recently freed democracy leader Aung San Suu Kyi criticizes the recent elections in Burma, but calls for dialogue with Myanmar government and pledges to keep working toward restoring democracy and improving human rights in Myanmar. [http://edition.cnn.com/2010/WORLD/asiapcf/11/15/myanmar.suu.kyi/ (CNN)] [http://www.theaustralian.com.au/news/world/aung-san-suu-kyi-vows-to-probe-burmese-election-rorts/story-e6frg6so-1225954027125 ("The Australian") ]](/news/2010/11/15/recently-freed-democracy-leader-aung-san-suu-kyi-criticizes-the-recent-elections-in-burma-but-calls-for-dialogue-with-myanmar-government-an.md)
+### [Recently freed democracy leader Aung San Suu Kyi criticizes the recent elections in Burma, but calls for dialogue with Myanmar government and pledges to keep working toward restoring democracy and improving human rights in Myanmar. [http:--edition.cnn.com-2010-WORLD-asiapcf-11-15-myanmar.suu.kyi- (CNN)] [http:--www.theaustralian.com.au-news-world-aung-san-suu-kyi-vows-to-probe-burmese-election-rorts-story-e6frg6so-1225954027125 ("The Australian") ]](/news/2010/11/15/recently-freed-democracy-leader-aung-san-suu-kyi-criticizes-the-recent-elections-in-burma-but-calls-for-dialogue-with-myanmar-government-an.md)
 _Context: Aung San Suu Kyi, Burma, Myanmar government, general elections, human rights record_
 
 ### [A. Raja resigns as the Indian Telecommunications Minister over claims that licenses had been improperly given to mobile phone companies. ](/news/2010/11/15/a-raja-resigns-as-the-indian-telecommunications-minister-over-claims-that-licenses-had-been-improperly-given-to-mobile-phone-companies.md)

@@ -21,7 +21,7 @@ _Context: Switzerland_
 ### [A United States Secret Service report outlines numerous security failures that enabled Omar Gonzalez to enter the White House. ](/news/2014/11/13/a-united-states-secret-service-report-outlines-numerous-security-failures-that-enabled-omar-gonzalez-to-enter-the-white-house.md)
 Layer after layer of measures that were supposed to block an intruder all failed in stunning succession.
 
-### [The Philae landing craft is now "stable" after bouncing hundreds of metres from its initial touchdown, and is sending pictures from the surface of the comet 67P/Churyumov-Gerasimenko. ](/news/2014/11/13/the-philae-landing-craft-is-now-stable-after-bouncing-hundreds-of-metres-from-its-initial-touchdown-and-is-sending-pictures-from-the-surf.md)
+### [The Philae landing craft is now "stable" after bouncing hundreds of metres from its initial touchdown, and is sending pictures from the surface of the comet 67P-Churyumov-Gerasimenko. ](/news/2014/11/13/the-philae-landing-craft-is-now-stable-after-bouncing-hundreds-of-metres-from-its-initial-touchdown-and-is-sending-pictures-from-the-surf.md)
 After a historic but awkward comet landing, the robot probe Philae is now stable and sending pictures - but faces concerns about its battery life.
 
 ## [Previous Day...](/news/2014/11/12/index.md)

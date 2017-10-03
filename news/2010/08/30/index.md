@@ -42,7 +42,7 @@ People seek higher ground as troops and civilians struggle to protect city of Th
 ### [The 33 miners involved in the accident make telephone contact with their families for the first time in 3 weeks. ](/news/2010/08/30/the-33-miners-involved-in-the-accident-make-telephone-contact-with-their-families-for-the-first-time-in-3-weeks.md)
 Miners trapped underground in Chile for more than three weeks have their first telephone contact with loved ones.
 
-### [Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km/h) prompting hurricane warnings. ](/news/2010/08/30/category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135-miles-per-hour-215-km-h-prompt.md)
+### [Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km-h) prompting hurricane warnings. ](/news/2010/08/30/category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135-miles-per-hour-215-km-h-prompt.md)
 Hurricane Earl&#39;s winds and driving rains churned over the North Carolina in the dark of night, leaving residents and officials to wait for daybreak to assess the damage. 
 
 ### [Indonesia's Mount Sinabung continues to erupt with 21,000 people now evacuated from nearby areas of north Sumatra and two people dead. ](/news/2010/08/30/indonesia-s-mount-sinabung-continues-to-erupt-with-21-000-people-now-evacuated-from-nearby-areas-of-north-sumatra-and-two-people-dead.md)

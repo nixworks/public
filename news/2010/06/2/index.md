@@ -1,6 +1,6 @@
 ## [2010-06-2](/news/2010/06/2/index.md)
 
-### [The crew of the Libyan M/V "Rim" takes back the ship from Somali pirates in the Gulf of Aden. Another ship, the Panamanian M/V "QSM Dubai", is captured. ](/news/2010/06/2/the-crew-of-the-libyan-m-v-rim-takes-back-the-ship-from-somali-pirates-in-the-gulf-of-aden-another-ship-the-panamanian-m-v-qsm-dubai.md)
+### [The crew of the Libyan M-V "Rim" takes back the ship from Somali pirates in the Gulf of Aden. Another ship, the Panamanian M-V "QSM Dubai", is captured. ](/news/2010/06/2/the-crew-of-the-libyan-m-v-rim-takes-back-the-ship-from-somali-pirates-in-the-gulf-of-aden-another-ship-the-panamanian-m-v-qsm-dubai.md)
 The crew of a cargo ship seized by Somali pirates in the Gulf of Aden reportedly retake control of the vessel.
 
 ### [The Israel Defense Forces claims that the 10 tonnes of aid delivered in the Free Gaza flotilla was turned back by Hamas when delivered to the border at Rafah, with Hamas stating that it will only accept the aid if all flotilla activists imprisoned in Israel are freed, and that the aid be delivered by the flotilla organizers. ](/news/2010/06/2/the-israel-defense-forces-claims-that-the-10-tonnes-of-aid-delivered-in-the-free-gaza-flotilla-was-turned-back-by-hamas-when-delivered-to-th.md)

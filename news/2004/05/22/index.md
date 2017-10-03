@@ -1,6 +1,6 @@
 ## [2004-05-22](/news/2004/05/22/index.md)
 
-### [ Michael Moore's movie "Fahrenheit 9/11" is awarded the "Palme d'Or" at the Cannes Film Festival.](/news/2004/05/22/michael-moore-s-movie-fahrenheit-9-11-is-awarded-the-palme-d-or-at-the-cannes-film-festival.md)
+### [ Michael Moore's movie "Fahrenheit 9-11" is awarded the "Palme d'Or" at the Cannes Film Festival.](/news/2004/05/22/michael-moore-s-movie-fahrenheit-9-11-is-awarded-the-palme-d-or-at-the-cannes-film-festival.md)
 _Context: Cannes Film Festival, Fahrenheit 9/11, Michael Moore, Palme d'Or_
 
 ### [ Spain's Crown Prince Felipe marries Letizia Ortiz in Madrid. ](/news/2004/05/22/spain-s-crown-prince-felipe-marries-letizia-ortiz-in-madrid.md)

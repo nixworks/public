@@ -31,10 +31,10 @@ _Context: India, Pakistan_
 _Context: Cincinnati, Ohio, Hamilton County, acute PCP intoxication, autopsy, baton, blood, cocaine, coronial, heart, police, riots, video, videotape_
 
 ### [ The draw is made for the 2004 European Football Championship. England are drawn with holders France, and hosts Portugal are drawn with neighbours Spain.](/news/2003/11/30/the-draw-is-made-for-the-2004-european-football-championship-england-are-drawn-with-holders-france-and-hosts-portugal-are-drawn-with-neig.md)
-_Context: Euro 2004, Portugal, Spanish_
+_Context: Euro 2004, Portugal, Spain_
 
 ### [ In tennis, Australia wins the Davis Cup by three rubbers to one when Mark Philippoussis defeats Juan Carlos Ferrero of Spain in the first reverse singles match, played in Melbourne. It is the 28th time Australia has won the trophy, the most prestigious title in men's team tennis.](/news/2003/11/30/in-tennis-australia-wins-the-davis-cup-by-three-rubbers-to-one-when-mark-philippoussis-defeats-juan-carlos-ferrero-of-spain-in-the-first-r.md)
-_Context: Davis Cup, Juan Carlos Ferrero, Mark Philippoussis, Melbourne, Spanish, tennis_
+_Context: Davis Cup, Juan Carlos Ferrero, Mark Philippoussis, Melbourne, Spain, tennis_
 
 ## [Previous Day...](/news/2003/11/29/index.md)
 

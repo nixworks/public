@@ -1,6 +1,6 @@
 ### [2005-06-21](/news/2005/06/21/index.md)
 
-#  A hitherto unknown poem by Sappho was identified on an Oxyrhynchus papyrus by scholars of Cologne university, and published in the Times Literary Supplement [http://www.the-tls.co.uk/this_week/story.aspx?story_id=2111206].
+#  A hitherto unknown poem by Sappho was identified on an Oxyrhynchus papyrus by scholars of Cologne university, and published in the Times Literary Supplement [http:--www.the-tls.co.uk-this_week-story.aspx?story_id=2111206].
 
 
 

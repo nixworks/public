@@ -4,7 +4,7 @@
 _Context: Destin, Florida, Louisiana, shark_
 
 ### [ A second case of mad cow disease has been confirmed in the United States. ](/news/2005/06/25/a-second-case-of-mad-cow-disease-has-been-confirmed-in-the-united-states.md)
-_Context: U.S., mad cow disease_
+_Context: Americans, mad cow disease_
 
 ### [ Elections in Bulgaria: The people of Bulgaria are voting today and the government of Prime Minister Simeon Sakskoburggotski, the country's former Tsar, is expected to be defeated. ](/news/2005/06/25/elections-in-bulgaria-the-people-of-bulgaria-are-voting-today-and-the-government-of-prime-minister-simeon-sakskoburggotski-the-country-s.md)
 _Context: Bulgaria, Bulgarian Prime Minister, Elections in Bulgaria, Simeon Saxe-Coburg, Tsar_

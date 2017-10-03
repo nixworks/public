@@ -21,7 +21,7 @@ _Context: Islamist, Mali, Sharia law_
 ### [Torrential rain causes chaos at the Isle of Wight musical festival. ](/news/2012/06/22/torrential-rain-causes-chaos-at-the-isle-of-wight-musical-festival.md)
 _Context: Isle of Wight musical festival_
 
-### [The Philippines lends the International Monetary Fund $1 billion. [http://globalnation.inquirer.net/40931/palace-philippines-duty-bound-to-help-poor-nations "(Philippine Daily Inquirer)"]](/news/2012/06/22/the-philippines-lends-the-international-monetary-fund-1-billion-http-globalnation-inquirer-net-40931-palace-philippines-duty-bound-to-h.md)
+### [The Philippines lends the International Monetary Fund $1 billion. [http:--globalnation.inquirer.net-40931-palace-philippines-duty-bound-to-help-poor-nations "(Philippine Daily Inquirer)"]](/news/2012/06/22/the-philippines-lends-the-international-monetary-fund-1-billion-http-globalnation-inquirer-net-40931-palace-philippines-duty-bound-to-h.md)
 _Context: International Monetary Fund, Philippines_
 
 ### [Wells Fargo plans to move jobs to India and the Philippines. ](/news/2012/06/22/wells-fargo-plans-to-move-jobs-to-india-and-the-philippines.md)

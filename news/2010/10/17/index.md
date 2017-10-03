@@ -18,11 +18,11 @@ A rare sheet of 10 stamps showing film star Audrey Hepburn smoking fetches 430,0
 ### [Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/pope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in-the-vatican-cit.md)
 _Context: Australia, Mary MacKillop, Pope Benedict XVI, Saint Peter's Square, Vatican City, canonize, saints_
 
-### [GM workers protest a drop in wages, from $58,000/year to $30,000/year, at a new car plant in Michigan that was funded by a $50 billion government bailout and is receiving $770 million in tax incentives. ](/news/2010/10/17/gm-workers-protest-a-drop-in-wages-from-58-000-year-to-30-000-year-at-a-new-car-plant-in-michigan-that-was-funded-by-a-50-billion-gover.md)
+### [GM workers protest a drop in wages, from $58,000-year to $30,000-year, at a new car plant in Michigan that was funded by a $50 billion government bailout and is receiving $770 million in tax incentives. ](/news/2010/10/17/gm-workers-protest-a-drop-in-wages-from-58-000-year-to-30-000-year-at-a-new-car-plant-in-michigan-that-was-funded-by-a-50-billion-gover.md)
 _Context: $50 billion government bailout, General Motors, Michigan, a new car plant, tax incentive_
 
 ### [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md)
-_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, U.S., strike_
+_Context: Americans, Chicago, Hilton Hotels, Honolulu, San Francisco, strike_
 
 ### [The Philippines prepares for Typhoon Megi, potentially the strongest typhoon to hit the country this year. ](/news/2010/10/17/the-philippines-prepares-for-typhoon-megi-potentially-the-strongest-typhoon-to-hit-the-country-this-year.md)
 Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, the tenth tropical cyclone and the strongest to hit the country this year.

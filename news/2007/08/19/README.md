@@ -10,7 +10,7 @@ _Context: China, Shandong, Xintai, coal mine, flood_
 _Context: Minnesota, Minnesota Governor, Ongoing flooding, Tim Pawlenty_
 
 ### [ A week-long heat wave in the southeast and midwest of the United States has caused the deaths of 49 with 12 deaths in Memphis, Tennessee. ](/news/2007/08/19/a-week-long-heat-wave-in-the-southeast-and-midwest-of-the-united-states-has-caused-the-deaths-of-49-with-12-deaths-in-memphis-tennessee.md)
-_Context: Memphis, Tennessee, U.S., heat wave_
+_Context: Americans, Memphis, Tennessee, heat wave_
 
 ### [ The Philippines army captures an Abu Sayyaf base on the island of Basilan following a heavy struggle with at least 35 soldiers and militants killed in the battle. ](/news/2007/08/19/the-philippines-army-captures-an-abu-sayyaf-base-on-the-island-of-basilan-following-a-heavy-struggle-with-at-least-35-soldiers-and-militant.md)
 _Context: Abu Sayyaf, Basilan island, Philippines_
@@ -18,7 +18,7 @@ _Context: Abu Sayyaf, Basilan island, Philippines_
 ### [ Kazakhstani legislative election, 2007: President of Kazakhstan Nursultan Nazarbayev's Nur Otan party wins 88 per cent of the vote in yesterday's election and will be the only party represented in the Majilis or Kazakh parliament. ](/news/2007/08/19/kazakhstani-legislative-election-2007-president-of-kazakhstan-nursultan-nazarbayev-s-nur-otan-party-wins-88-per-cent-of-the-vote-in-yeste.md)
 In parliamentary elections in Kazakhstan, President Nursultan Nazarbayev&#039;s party has won 88 per cent of the vote.
 
-### [ Typhoon Sepat spawns a tornado that kills nine people in Zhejiang Province, China. More than a million people have been evacuated as a result of the typhoon. [http://edition.cnn.com/2007/WORLD/asiapcf/08/19/taiwan.typhoon.reut/index.html?eref=rss_world (Reuters via CNN)]<nowiki></nowiki>](/news/2007/08/19/typhoon-sepat-spawns-a-tornado-that-kills-nine-people-in-zhejiang-province-china-more-than-a-million-people-have-been-evacuated-as-a-resu.md)
+### [ Typhoon Sepat spawns a tornado that kills nine people in Zhejiang Province, China. More than a million people have been evacuated as a result of the typhoon. [http:--edition.cnn.com-2007-WORLD-asiapcf-08-19-taiwan.typhoon.reut-index.html?eref=rss_world (Reuters via CNN)] ](/news/2007/08/19/typhoon-sepat-spawns-a-tornado-that-kills-nine-people-in-zhejiang-province-china-more-than-a-million-people-have-been-evacuated-as-a-resu.md)
 _Context: China, Typhoon, Typhoon Sepat, Zhejiang province, tornado_
 
 ### [ Jamaica prepares for Hurricane Dean with the hurricane already responsible for at least eight deaths on Caribbean islands St. Lucia, Martinique and Dominica. It is expected to hit the Cayman Islands on Monday and the Yucatn Peninsula on Tuesday with further impact on Mexico or Texas later in the week. ](/news/2007/08/19/jamaica-prepares-for-hurricane-dean-with-the-hurricane-already-responsible-for-at-least-eight-deaths-on-caribbean-islands-st-lucia-martin.md)

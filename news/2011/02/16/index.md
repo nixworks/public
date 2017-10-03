@@ -28,7 +28,7 @@ By Madeleine Cowley LONDON (Reuters Life!) - Ancient Britons devoured their dead
 _Context: Axel A. Weber, Deutsche Bundesbank, Jens Weidmann_
 
 ### [Borders Group, the second largest bookstore chain in the United States, files for bankruptcy with plans to sell at least 200 stores. ](/news/2011/02/16/borders-group-the-second-largest-bookstore-chain-in-the-united-states-files-for-bankruptcy-with-plans-to-sell-at-least-200-stores.md)
-_Context: Borders Group, U.S., bankruptcy_
+_Context: Americans, Borders Group, bankruptcy_
 
 ### [The Northern Territory Emergency Service in the north of Australia warns residents in low-lying coastal areas including in the capital Darwin ahead of Tropical Cyclone Carlos. ](/news/2011/02/16/the-northern-territory-emergency-service-in-the-north-of-australia-warns-residents-in-low-lying-coastal-areas-including-in-the-capital-darwi.md)
 _Context: Australia, Darwin, Northern Territory, Tropical Cyclone Carlos_
@@ -63,7 +63,7 @@ Anti-government protests continue in tiny kingdom, despite apology by king for t
 ### [The Hawaii Senate approves Hawaii Senate Bill 232 legalising civil unions for gay and lesbian couples and will be sent to the Governor Neil Abercrombie for approval. ](/news/2011/02/16/the-hawaii-senate-approves-hawaii-senate-bill-232-legalising-civil-unions-for-gay-and-lesbian-couples-and-will-be-sent-to-the-governor-neil.md)
 _Context: Governor, Hawaii Senate, Hawaii Senate Bill 232, Neil Abercrombie, civil union_
 
-### [IBM's Watson artificial intelligence program wins on the U.S. quiz show "Jeopardy!", defeating Brad Rutter and Ken Jennings, the series' most successful contestants. [http://www.pcmag.com/article2/0,2817,2380489,00.asp?kc=PCRSS03069TX1K0001121 (PC Mag)] "Watson" used Wikipedia, among other sources, as its knowledge base "[http://www.vancouversun.com/entertainment/Watson+computer+Ottawa+roots/4290481/story.html (The Vancouver Sun)]" "[http://www.npr.org/2011/02/11/133686004/IBM-Computer-Faces-Off-Against-Jeopardy-Champs (NPR)]" "[http://www.ibm.com/ibm100/us/en/icons/watson/ (IBM)]"](/news/2011/02/16/ibm-s-watson-artificial-intelligence-program-wins-on-the-u-s-quiz-show-jeopardy-defeating-brad-rutter-and-ken-jennings-the-series-mos.md)
+### [IBM's Watson artificial intelligence program wins on the U.S. quiz show "Jeopardy!", defeating Brad Rutter and Ken Jennings, the series' most successful contestants. [http:--www.pcmag.com-article2-0,2817,2380489,00.asp?kc=PCRSS03069TX1K0001121 (PC Mag)] "Watson" used Wikipedia, among other sources, as its knowledge base "[http:--www.vancouversun.com-entertainment-Watson+computer+Ottawa+roots-4290481-story.html (The Vancouver Sun)]" "[http:--www.npr.org-2011-02-11-133686004-IBM-Computer-Faces-Off-Against-Jeopardy-Champs (NPR)]" "[http:--www.ibm.com-ibm100-us-en-icons-watson- (IBM)]"](/news/2011/02/16/ibm-s-watson-artificial-intelligence-program-wins-on-the-u-s-quiz-show-jeopardy-defeating-brad-rutter-and-ken-jennings-the-series-mos.md)
 _Context: Brad Rutter, IBM, Jeopardy!, Ken Jennings, Watson, Wikipedia, artificial intelligence, knowledge base_
 
 ### [It is announced that people who suffer from Laron syndrome have a gene that inhibits cancer. ](/news/2011/02/16/it-is-announced-that-people-who-suffer-from-laron-syndrome-have-a-gene-that-inhibits-cancer.md)

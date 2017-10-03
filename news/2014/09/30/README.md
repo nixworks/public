@@ -10,7 +10,7 @@ A hard-line Buddhist monk from Myanmar known for his anti-Muslim stance said his
 _Context: Dallas, Texas, Ebola Virus in the United States, ebola virus_
 
 ### [A student is shot and wounded at Fern Creek Traditional High School in Louisville, Kentucky, U.S. A suspect, also a student at the school, has been arrested. ](/news/2014/09/30/a-student-is-shot-and-wounded-at-fern-creek-traditional-high-school-in-louisville-kentucky-u-s-a-suspect-also-a-student-at-the-school-h.md)
-_Context: Fern Creek Traditional High School, Louisville, Kentucky, U.S._
+_Context: Americans, Fern Creek Traditional High School, Louisville, Kentucky_
 
 ### [A student is shot and wounded at Albemarle High School in Albemarle, North Carolina, U.S. A student is arrested. ](/news/2014/09/30/a-student-is-shot-and-wounded-at-albemarle-high-school-in-albemarle-north-carolina-u-s-a-student-is-arrested.md)
 ALBEMARLE, N.C. — One student was shot Tuesday at a high school in this city about 35 miles east of Charlotte, N.C., police said.

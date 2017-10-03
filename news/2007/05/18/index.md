@@ -9,7 +9,7 @@ _Context: Black Swan Project, US$, coin, colonial era, gold, silver, tons_
 ### [ Two ABC News employees are killed by unknown assailants in Baghdad. ](/news/2007/05/18/two-abc-news-employees-are-killed-by-unknown-assailants-in-baghdad.md)
 _Context: ABC News, Baghdad_
 
-### [ 9 people are killed in a bomb blast at the Mecca Masjid mosque in the Indian city of Hyderabad, Andhra Pradesh. [http://www.rediff.com/news/2007/may/18blast.htm]](/news/2007/05/18/9-people-are-killed-in-a-bomb-blast-at-the-mecca-masjid-mosque-in-the-indian-city-of-hyderabad-andhra-pradesh-http-www-rediff-com-news.md)
+### [ 9 people are killed in a bomb blast at the Mecca Masjid mosque in the Indian city of Hyderabad, Andhra Pradesh. [http:--www.rediff.com-news-2007-may-18blast.htm]](/news/2007/05/18/9-people-are-killed-in-a-bomb-blast-at-the-mecca-masjid-mosque-in-the-indian-city-of-hyderabad-andhra-pradesh-http-www-rediff-com-news.md)
 _Context: Hyderabad, Andhra Pradesh, India, Mecca Masjid, killed in a bomb blast, mosque_
 
 ### [ The Parliament of Kazakhstan votes to allow the President of Kazakhstan Nursultan Nazarbayev to stand for an unlimited number of terms. ](/news/2007/05/18/the-parliament-of-kazakhstan-votes-to-allow-the-president-of-kazakhstan-nursultan-nazarbayev-to-stand-for-an-unlimited-number-of-terms.md)

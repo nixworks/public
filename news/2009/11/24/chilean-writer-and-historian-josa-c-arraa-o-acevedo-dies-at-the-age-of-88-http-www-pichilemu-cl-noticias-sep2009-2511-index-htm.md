@@ -1,6 +1,6 @@
 ### [2009-11-24](/news/2009/11/24/index.md)
 
-#  Chilean writer and historian, Jose Arrano Acevedo dies at the age of 88. [http://www.pichilemu.cl/noticias/sep2009/2511/index.htm]
+#  Chilean writer and historian, Jose Arrano Acevedo dies at the age of 88. [http:--www.pichilemu.cl-noticias-sep2009-2511-index.htm]
 
 
 

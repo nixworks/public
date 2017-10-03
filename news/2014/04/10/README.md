@@ -1,6 +1,6 @@
 ## [2014-04-10](/news/2014/04/10/index.md)
 
-### [At least 10 people are killed after a tour bus collides with a FedEx truck on Interstate 5 near Orland, California. [http://www.cnn.com/2014/04/10/us/california-bus-crash/index.html?hpt=hp_t2 (CNN)] [http://www.usatoday.com/story/news/nation/2014/04/10/calif-crash-9-killed/7579275/ "(USA Today)"]](/news/2014/04/10/at-least-10-people-are-killed-after-a-tour-bus-collides-with-a-fedex-truck-on-interstate-5-near-orland-california-http-www-cnn-com-2014.md)
+### [At least 10 people are killed after a tour bus collides with a FedEx truck on Interstate 5 near Orland, California. [http:--www.cnn.com-2014-04-10-us-california-bus-crash-index.html?hpt=hp_t2 (CNN)] [http:--www.usatoday.com-story-news-nation-2014-04-10-calif-crash-9-killed-7579275- "(USA Today)"]](/news/2014/04/10/at-least-10-people-are-killed-after-a-tour-bus-collides-with-a-fedex-truck-on-interstate-5-near-orland-california-http-www-cnn-com-2014.md)
 _Context: FedEx, Interstate 5, Orland, California_
 
 ### [88 civilians are killed in Aleppo by barrel bombs dropped from Syrian government warplanes. ](/news/2014/04/10/88-civilians-are-killed-in-aleppo-by-barrel-bombs-dropped-from-syrian-government-warplanes.md)

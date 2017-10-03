@@ -40,7 +40,7 @@ India suspends defence exchanges after China denies visa to Kashmir general, rep
 Doctors remove 13 nails and five needles from a Sri Lankan housemaid who said her employer in Saudi Arabia hammered them into her body.
 
 ### [Muslims protest outside the United States embassy in Jakarta about plans by the Dove World Outreach Center in Gainesville, Florida to burn Korans on the 9th anniversary of the September 11 attacks. ](/news/2010/08/27/muslims-protest-outside-the-united-states-embassy-in-jakarta-about-plans-by-the-dove-world-outreach-center-in-gainesville-florida-to-burn-k.md)
-_Context: Gainesville, Florida, Jakarta, Muslim, September 11 attacks, U.S., burn Korans, church_
+_Context: Americans, Gainesville, Florida, Jakarta, Muslim, September 11 attacks, burn Korans, church_
 
 ### [France rejects criticism from the United Nations Committee on the Elimination of Discrimination over its Romani removal strategy. ](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.md)
 _Context: France, Roma, United Nations_

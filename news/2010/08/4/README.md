@@ -69,7 +69,7 @@ BP Plc (BP.L) (BP.N) can pumpcement into its blown-out Gulf of Mexico oil well t
 ### [The Pacific Islands Forum discusses Fiji in Vanuatu. ](/news/2010/08/4/the-pacific-islands-forum-discusses-fiji-in-vanuatu.md)
 Pacific Islands Forum host, Vanuatu, says regional leaders must still engage with Fiji to help restore democracy there.
 
-### [[http://www.dailymail.co.uk/news/article-1381089/Theresa-Riggis-chilling-husband-stabbing-3-children-death.html Theresa Riggi] stabs her three children to death and attempts suicide.](/news/2010/08/4/http-www-dailymail-co-uk-news-article-1381089-theresa-riggis-chilling-husband-stabbing-3-children-death-html-theresa-riggi-stabs-her-thr.md)
+### [[http:--www.dailymail.co.uk-news-article-1381089-Theresa-Riggis-chilling-husband-stabbing-3-children-death.html Theresa Riggi] stabs her three children to death and attempts suicide.](/news/2010/08/4/http-www-dailymail-co-uk-news-article-1381089-theresa-riggis-chilling-husband-stabbing-3-children-death-html-theresa-riggi-stabs-her-thr.md)
 ### [Vaughn R. Walker, the Chief Judge of the United States District Court for the Northern District of California, rules in "Perry v. Schwarzenegger" that California Proposition 8 banning same-sex marriage in California is unconstitutional. ](/news/2010/08/4/vaughn-r-walker-the-chief-judge-of-the-united-states-district-court-for-the-northern-district-of-california-rules-in-perry-v-schwarzene.md)
 _Context: California, Chief Judge, Perry v. Schwarzenegger, Vaughn R. Walker, federal court, reversed its legalization, same-sex marriage_
 

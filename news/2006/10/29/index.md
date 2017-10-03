@@ -6,7 +6,7 @@ _Context: Mexico, Oaxaca_
 ### [ President of Brazil Luiz Inacio Lula da Silva wins a second term in a landslide victory with 61 per cent of voters supporting him. ](/news/2006/10/29/president-of-brazil-luiz-ina-cio-lula-da-silva-wins-a-second-term-in-a-landslide-victory-with-61-per-cent-of-voters-supporting-him.md)
 _Context: Lula, President, a landslide victory_
 
-### [ Serbian constitutional referendum, 2006: Serbian voters approve the new constitution. ([http://news.bbc.co.uk/2/hi/europe/6097344.stm BBC])](/news/2006/10/29/serbian-constitutional-referendum-2006-serbian-voters-approve-the-new-constitution-http-news-bbc-co-uk-2-hi-europe-6097344-stm-bbc.md)
+### [ Serbian constitutional referendum, 2006: Serbian voters approve the new constitution. ([http:--news.bbc.co.uk-2-hi-europe-6097344.stm BBC])](/news/2006/10/29/serbian-constitutional-referendum-2006-serbian-voters-approve-the-new-constitution-http-news-bbc-co-uk-2-hi-europe-6097344-stm-bbc.md)
 _Context: Serbian constitutional referendum, 2006_
 
 ### [ Iraqi insurgency: 17 police officers, 15 of them police trainers, are abducted and murdered in Basra. ](/news/2006/10/29/iraqi-insurgency-17-police-officers-15-of-them-police-trainers-are-abducted-and-murdered-in-basra.md)

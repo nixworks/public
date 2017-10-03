@@ -33,7 +33,7 @@ BERLIN (AP) — Free trade talks between the European Union and the United State
 ### [Both President Ali Bongo Ondimba and his main challenger, former Foreign Minister Jean Ping, say they won yesterday's election for a seven-year term as president. Official results are expected Tuesday. ](/news/2016/08/28/both-president-ali-bongo-ondimba-and-his-main-challenger-former-foreign-minister-jean-ping-say-they-won-yesterday-s-election-for-a-seven-y.md)
 _Context: Ali Bongo Ondimba, Foreign Minister, Gabonese presidential election, 2016, Jean Ping, President_
 
-### [The Indian Space agency ISRO successfully tests its Scramjet engines. Two scramjet engines were mounted alongside of a two-stage, solid fueled rocket called Advanced Technology Vehicle (ATV), which is an advanced sounding rocket. Scramjet engines were then ignited when ATV achieved a speed of Mach 6 (7350 km/hr) at an altitude of 20 km. ](/news/2016/08/28/the-indian-space-agency-isro-successfully-tests-its-scramjet-engines-two-scramjet-engines-were-mounted-alongside-of-a-two-stage-solid-fuel.md)
+### [The Indian Space agency ISRO successfully tests its Scramjet engines. Two scramjet engines were mounted alongside of a two-stage, solid fueled rocket called Advanced Technology Vehicle (ATV), which is an advanced sounding rocket. Scramjet engines were then ignited when ATV achieved a speed of Mach 6 (7350 km-hr) at an altitude of 20 km. ](/news/2016/08/28/the-indian-space-agency-isro-successfully-tests-its-scramjet-engines-two-scramjet-engines-were-mounted-alongside-of-a-two-stage-solid-fuel.md)
 The test-flight of the indigenously-developed supersonic combustion ramjet engine took place from the Satish Dhawan Space Centre in Sriharikota at 6 a.m.
 
 ## [Previous Day...](/news/2016/08/27/index.md)

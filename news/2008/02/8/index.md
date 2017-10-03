@@ -3,7 +3,7 @@
 ### [ The Serbian minister for Kosovo claims that his government has information that the province's Albanian leadership will declare independence on February 17. ](/news/2008/02/8/the-serbian-minister-for-kosovo-claims-that-his-government-has-information-that-the-province-s-albanian-leadership-will-declare-independenc.md)
 _Context: Albanians, February 17, Kosovo, Serbia_
 
-### [ A 5.4 M<sub>w</sub> earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-mw-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md)
+### [ A 5.4 M w earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-m-w-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md)
 _Context: Mexicali, Mexico, earthquake, magnitude_
 
 ### [ The Nebraska Supreme Court rules the electric chair unconstitutional. ](/news/2008/02/8/the-nebraska-supreme-court-rules-the-electric-chair-unconstitutional.md)

@@ -33,7 +33,7 @@ _Context: Communist Party of China, Guangzhou, Human rights in China_
 ### [The Government of the United States rules that 22 emails on Hillary Clinton's home server contained closely guarded information rated as "Top Secret". ](/news/2016/01/29/the-government-of-the-united-states-rules-that-22-emails-on-hillary-clinton-s-home-server-contained-closely-guarded-information-rated-as-to.md)
 _Context: Government of the United States, Hillary Clinton, email server, emails_
 
-### [The Mexican Federal District is officially renamed to Mexico City (Ciudad de Mexico), and becomes one of the 32 first-level administrative entities of Mexico. [http://www.theguardian.com/world/2016/jan/29/mexico-city-name-change-federal-district-df ("The Guardian)"]](/news/2016/01/29/the-mexican-federal-district-is-officially-renamed-to-mexico-city-ciudad-de-ma-c-xico-and-becomes-one-of-the-32-first-level-administrative.md)
+### [The Mexican Federal District is officially renamed to Mexico City (Ciudad de Mexico), and becomes one of the 32 first-level administrative entities of Mexico. [http:--www.theguardian.com-world-2016-jan-29-mexico-city-name-change-federal-district-df ("The Guardian)"]](/news/2016/01/29/the-mexican-federal-district-is-officially-renamed-to-mexico-city-ciudad-de-ma-c-xico-and-becomes-one-of-the-32-first-level-administrative.md)
 _Context: Mexico City, states_
 
 ### [Scientists from UCLA conclude that study of the geology of the Earth and Moon indicate that both consist of a mixture of rocks from the original Earth and a hypothesized planetary-mass object called Theia after a collision. ](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.md)

@@ -10,7 +10,7 @@ _Context: Baghdad, Iraq, Iraq war, Mosul, Saddam Hussein, Sultan Hashim Ahmed, c
 _Context: Hurricane Isabel, Ontario, Pennsylvania_
 
 ### [ Canadian Liberal Leadership Race: Balloting begins in delegate-selection meetings across Canada which will determine the outcome of the Liberal leadership convention this November. Paul Martin is expected to easily secure enough votes to beat opponent Sheila Copps. This all-but guarantees Martin will replace his longtime rival Jean Chretien as the next Prime Minister of Canada.](/news/2003/09/19/canadian-liberal-leadership-race-balloting-begins-in-delegate-selection-meetings-across-canada-which-will-determine-the-outcome-of-the-lib.md)
-_Context: Canadian Prime Minister, Jean Chretien, Liberal Party's, Paul Martin, Jr., Sheila Copps_
+_Context: Jean Chretien, Liberal Party's, Paul Martin, Jr., Prime Minister of Canada, Sheila Copps_
 
 ### [ Email virus: Email users are swamped by a new fast-spreading computer virus circulating through email that purports to be security software from Microsoft, but actually tries to disable security programs that are already running. The worm, dubbed "Swen" or "Gibe", takes advantage of a two-year-old hole in Internet Explorer and affects systems that have not installed a patch for that security hole.](/news/2003/09/19/email-virus-email-users-are-swamped-by-a-new-fast-spreading-computer-virus-circulating-through-email-that-purports-to-be-security-software.md)
 _Context: Computer security, Internet Explorer, Microsoft, computer virus, email_

@@ -18,7 +18,7 @@ _Context: Mylan, Teva Pharmaceutical_
 ### [Three people have died in floods in the Australian town of Dungog, New South Wales as heavy rains and cyclonic winds hits the state of New South Wales causing widespread flooding, loss of power to over 100,000 homes and disruption of transport services. ](/news/2015/04/21/three-people-have-died-in-floods-in-the-australian-town-of-dungog-new-south-wales-as-heavy-rains-and-cyclonic-winds-hits-the-state-of-new-s.md)
 Three people are killed in wild weather in NSW&#039;s Central Hunter region, where homes have been washed off their footings in the town of Dungog, north of Newcastle.
 
-### [Former AC/DC drummer Phil Rudd pleads guilty to threatening to kill and drug possession charges in Tauranga, New Zealand. ](/news/2015/04/21/former-ac-dc-drummer-phil-rudd-pleads-guilty-to-threatening-to-kill-and-drug-possession-charges-in-tauranga-new-zealand.md)
+### [Former AC-DC drummer Phil Rudd pleads guilty to threatening to kill and drug possession charges in Tauranga, New Zealand. ](/news/2015/04/21/former-ac-dc-drummer-phil-rudd-pleads-guilty-to-threatening-to-kill-and-drug-possession-charges-in-tauranga-new-zealand.md)
 The drummer pled guilty to threatening to kill in New Zealand.
 
 ### [Italian police arrest the captain and crew member of a vessel that sank in the Mediterranean Sea on Sunday drowning as many as 900 people. ](/news/2015/04/21/italian-police-arrest-the-captain-and-crew-member-of-a-vessel-that-sank-in-the-mediterranean-sea-on-sunday-drowning-as-many-as-900-people.md)

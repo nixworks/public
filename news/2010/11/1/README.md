@@ -19,7 +19,7 @@ BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic ch
 _Context: India, Kashmir Valley, Kulgam, Kupwara, Lashkar-e-Toiba_
 
 ### [A United States drone attack kills six people in northwest Pakistan. ](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in-northwest-pakistan.md)
-_Context: Pakistan, U.S., drone aircraft, drones launch_
+_Context: Americans, Pakistan, drone aircraft, drones launch_
 
 ### [A suicide bomber kills two Pakistani policemen and wounds 10 others as security forces try to stop him from walking into their local headquarters in Swabi, 100 kilometres northwest of Islamabad. ](/news/2010/11/1/a-suicide-bomber-kills-two-pakistani-policemen-and-wounds-10-others-as-security-forces-try-to-stop-him-from-walking-into-their-local-headqua.md)
 _Context: Islamabad, Pakistan, Swabi_

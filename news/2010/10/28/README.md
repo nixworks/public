@@ -21,7 +21,7 @@ Rescue crews and relief workers are losing hope of finding survivors after a tsu
 ### [Two volcanoes erupt on Russia's Kamchatka Peninsula, Klyuchevskaya Sopka and Shiveluch, forcing flights to divert and spewing volcanic ash over the nearby town of Ust-Kamchatsk. ](/news/2010/10/28/two-volcanoes-erupt-on-russia-s-kamchatka-peninsula-klyuchevskaya-sopka-and-shiveluch-forcing-flights-to-divert-and-spewing-volcanic-ash-o.md)
 _Context: Kamchatka Peninsula, Klyuchevskaya Sopka, Shiveluch, Ust-Kamchatsk, ash, volcano_
 
-### [The 17<sup>th</sup> ASEAN Summit opens in Hanoi, Vietnam. ](/news/2010/10/28/the-17th-asean-summit-opens-in-hanoi-vietnam.md)
+### [The 17 th ASEAN Summit opens in Hanoi, Vietnam. ](/news/2010/10/28/the-17-th-asean-summit-opens-in-hanoi-vietnam.md)
 _Context: ASEAN, ASEAN Summit, Hanoi, Vietnam_
 
 ### [China cancels a meeting with Japan and South Korea amid a dispute over the use of rare earth metals. ](/news/2010/10/28/china-cancels-a-meeting-with-japan-and-south-korea-amid-a-dispute-over-the-use-of-rare-earth-metals.md)

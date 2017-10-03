@@ -24,7 +24,7 @@ _Context: anti-austerity protests in Greece_
 ### [Argentina, Australia, Luxembourg, Rwanda, and South Korea are elected to the United Nations Security Council for two-year terms starting in 2013.](/news/2012/10/18/argentina-australia-luxembourg-rwanda-and-south-korea-are-elected-to-the-united-nations-security-council-for-two-year-terms-starting-in.md)
 _Context: Argentina, Australia, Luxembourg, Rwanda, South Korea, United Nations Security Council, join_
 
-### [The Boy Scouts of America release documents containing over 15,000 pages relating to allegations of sexual abuse by over 1200 scout leaders between 1965-1985.[http://www.nytimes.com/2012/10/19/us/boy-scout-documents-reveal-decades-of-sexual-abuse.html?pagewanted=all "(New York Times)"]](/news/2012/10/18/the-boy-scouts-of-america-release-documents-containing-over-15-000-pages-relating-to-allegations-of-sexual-abuse-by-over-1200-scout-leaders.md)
+### [The Boy Scouts of America release documents containing over 15,000 pages relating to allegations of sexual abuse by over 1200 scout leaders between 1965-1985.[http:--www.nytimes.com-2012-10-19-us-boy-scout-documents-reveal-decades-of-sexual-abuse.html?pagewanted=all "(New York Times)"]](/news/2012/10/18/the-boy-scouts-of-america-release-documents-containing-over-15-000-pages-relating-to-allegations-of-sexual-abuse-by-over-1200-scout-leaders.md)
 _Context: Boy Scouts of America, sexual abuse_
 
 ## [Previous Day...](/news/2012/10/17/index.md)

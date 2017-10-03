@@ -9,7 +9,7 @@ Get the latest weird news stories from all over the world. Find bizarre and offb
 ### [The Metropolitan Museum of Art announces that it will return two Koh Ker statues to Cambodia. ](/news/2013/05/3/the-metropolitan-museum-of-art-announces-that-it-will-return-two-koh-ker-statues-to-cambodia.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-### [The Stockholm School of Economics, one of Sweden's most prestigious universities, is hit by scandal amidst revelation that top official Justin Jenk forged CMC documents about his conviction of insider trading in Greece. [http://www.di.se/artiklar/2013/5/3/toppchefen-pa-handels-domd-till-fangelse/ ("Dagens Industri")] (Swedish)](/news/2013/05/3/the-stockholm-school-of-economics-one-of-sweden-s-most-prestigious-universities-is-hit-by-scandal-amidst-revelation-that-top-official-just.md)
+### [The Stockholm School of Economics, one of Sweden's most prestigious universities, is hit by scandal amidst revelation that top official Justin Jenk forged CMC documents about his conviction of insider trading in Greece. [http:--www.di.se-artiklar-2013-5-3-toppchefen-pa-handels-domd-till-fangelse- ("Dagens Industri")] (Swedish)](/news/2013/05/3/the-stockholm-school-of-economics-one-of-sweden-s-most-prestigious-universities-is-hit-by-scandal-amidst-revelation-that-top-official-just.md)
 _Context: CMC, Greek, Stockholm School of Economics, Swedish, insider trading_
 
 ### [Heavy construction equipment manufacturer Caterpillar announces it plans to lay off an additional 300 employees by July. ](/news/2013/05/3/heavy-construction-equipment-manufacturer-caterpillar-announces-it-plans-to-lay-off-an-additional-300-employees-by-july.md)

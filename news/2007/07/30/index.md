@@ -1,6 +1,6 @@
 ## [2007-07-30](/news/2007/07/30/index.md)
 
-### [ A new species of scallop as well as a new species of octopus are discovered off the coast of Nova Scotia. [http://technology.sympatico.msn.cbc.ca/Canadian+marine+scientists+discover+quirky+creatures/NewsandOpinions/ContentPosting.aspx?isfa=1&newsitemid=gully-creatures&feedname=CBC-TECH-SCIENCE&show=False&number=0&showbyline=True&subtitle=&detect=&abc=abc] ](/news/2007/07/30/a-new-species-of-scallop-as-well-as-a-new-species-of-octopus-are-discovered-off-the-coast-of-nova-scotia-http-technology-sympatico-msn.md)
+### [ A new species of scallop as well as a new species of octopus are discovered off the coast of Nova Scotia. [http:--technology.sympatico.msn.cbc.ca-Canadian+marine+scientists+discover+quirky+creatures-NewsandOpinions-ContentPosting.aspx?isfa=1&newsitemid=gully-creatures&feedname=CBC-TECH-SCIENCE&show=False&number=0&showbyline=True&subtitle=&detect=&abc=abc] ](/news/2007/07/30/a-new-species-of-scallop-as-well-as-a-new-species-of-octopus-are-discovered-off-the-coast-of-nova-scotia-http-technology-sympatico-msn.md)
 _Context: Nova Scotia, octopus, scallop_
 
 ### [ Juan Manuel Santos, the Defense Minister of Colombia, claims that the military has been infiltrated by FARC and drug gangs. ](/news/2007/07/30/juan-manuel-santos-the-defense-minister-of-colombia-claims-that-the-military-has-been-infiltrated-by-farc-and-drug-gangs.md)

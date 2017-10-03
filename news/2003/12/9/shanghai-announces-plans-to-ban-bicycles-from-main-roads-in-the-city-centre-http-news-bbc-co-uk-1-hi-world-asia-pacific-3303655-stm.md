@@ -1,6 +1,6 @@
 ### [2003-12-9](/news/2003/12/9/index.md)
 
-#  Shanghai announces plans to ban bicycles from main roads in the city centre [http://news.bbc.co.uk/1/hi/world/asia-pacific/3303655.stm]
+#  Shanghai announces plans to ban bicycles from main roads in the city centre [http:--news.bbc.co.uk-1-hi-world-asia-pacific-3303655.stm]
 
 
 
@@ -12,8 +12,3 @@
 3. [The USS Stethem visits Shanghai, signaling that relations between the two countries continue despite tensions over the recent USS Lassen cruise near artificial islands constructed by China. The navies of the two nations plan combined maritime exercise as well. ](/news/2015/11/16/the-uss-stethem-visits-shanghai-signaling-that-relations-between-the-two-countries-continue-despite-tensions-over-the-recent-uss-lassen-cru.md) _Context: Shanghai_
 4. [China is dealing with two typhoons in a week. Typhoon Linfa lost power after making landfall in southern China's Guangdong province Thursday. Typhoon Chan-hom (Falcon) is headed for landfall in eastern China near Shanghai this weekend. ](/news/2015/07/10/china-is-dealing-with-two-typhoons-in-a-week-typhoon-linfa-lost-power-after-making-landfall-in-southern-china-s-guangdong-province-thursday.md) _Context: Shanghai_
 5. [A New Year's Eve celebration stampede in Shanghai kills at least 36 people and injures 49 others. ](/news/2014/12/31/a-new-year-s-eve-celebration-stampede-in-shanghai-kills-at-least-36-people-and-injures-49-others.md) _Context: Shanghai_
-6. [At least 68 people were killed and more than 180 injured in an early morning explosion at a factory near Shanghai that makes automobile parts for General Motors. The factory produces aluminum alloy tire rims. ](/news/2014/08/2/at-least-68-people-were-killed-and-more-than-180-injured-in-an-early-morning-explosion-at-a-factory-near-shanghai-that-makes-automobile-part.md) _Context: Shanghai_
-7. [A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/a-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying-of-hundreds-of-fligh.md) _Context: Shanghai_
-8. [At least 15 people die after liquid ammonia leaks from a refrigeration unit at a cold storage plant in Shanghai. ](/news/2013/08/31/at-least-15-people-die-after-liquid-ammonia-leaks-from-a-refrigeration-unit-at-a-cold-storage-plant-in-shanghai.md) _Context: Shanghai_
-9. [At least ten people die as a result of a heatwave in the Shanghai which has recorded its highest temperatures on record, surpassing 40 C. ](/news/2013/07/31/at-least-ten-people-die-as-a-result-of-a-heatwave-in-the-shanghai-which-has-recorded-its-highest-temperatures-on-record-surpassing-40-c.md) _Context: Shanghai_
-10. [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md) _Context: Shanghai_

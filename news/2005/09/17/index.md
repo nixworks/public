@@ -7,12 +7,12 @@ _Context: EU, Iran's nuclear program, Iranian President, Mahmoud Ahmadinejad, Nu
 _Context: Baghdad, Iraq, capital, market_
 
 ### [ Tayseer Allouni, a reporter with Al Jazeera, is arrested by Spanish police for the second time. ](/news/2005/09/17/tayseer-allouni-a-reporter-with-al-jazeera-is-arrested-by-spanish-police-for-the-second-time.md)
-_Context: Al Jazeera, Spanish, Tayseer Allouni_
+_Context: Al Jazeera, Spain, Tayseer Allouni_
 
 ### [ Ariel Sharon, the Prime Minister of Israel, threatens to "make every effort not to help" the upcoming Palestinian elections if Hamas takes part. ](/news/2005/09/17/ariel-sharon-the-prime-minister-of-israel-threatens-to-make-every-effort-not-to-help-the-upcoming-palestinian-elections-if-hamas-takes.md)
 _Context: Ariel Sharon, Hamas, Israeli Prime Minister, State of Palestine_
 
-### [ In the New Zealand general election, the Labour Party, led by Prime Minister Helen Clark, seems best placed to form a new government. Although the opposition National Party of Dr. Don Brash makes the greatest gains, these are mainly at the expense of minor parties. All the existing minor parties lose seats, with only the new Maori Party making gains. ([http://www.electionresults.govt.nz/partystatus.html Elections New Zealand])](/news/2005/09/17/in-the-new-zealand-general-election-the-labour-party-led-by-prime-minister-helen-clark-seems-best-placed-to-form-a-new-government-altho.md)
+### [ In the New Zealand general election, the Labour Party, led by Prime Minister Helen Clark, seems best placed to form a new government. Although the opposition National Party of Dr. Don Brash makes the greatest gains, these are mainly at the expense of minor parties. All the existing minor parties lose seats, with only the new Maori Party making gains. ([http:--www.electionresults.govt.nz-partystatus.html Elections New Zealand])](/news/2005/09/17/in-the-new-zealand-general-election-the-labour-party-led-by-prime-minister-helen-clark-seems-best-placed-to-form-a-new-government-altho.md)
 _Context: Don Brash, Helen Clark, Labour Party, Maori Party, New Zealand National Party, Prime Minister, count of 'special' votes_
 
 ## [Previous Day...](/news/2005/09/16/index.md)

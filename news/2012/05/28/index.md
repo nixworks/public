@@ -21,7 +21,7 @@ _Context: Against Me!, Laura Jane Grace_
 ### [An image of Brett Murray's controversial painting "The Spear" is removed from a the website of a South African newspaper. ](/news/2012/05/28/an-image-of-brett-murray-s-controversial-painting-the-spear-is-removed-from-a-the-website-of-a-south-african-newspaper.md)
 A South African newspaper removes from its website an image of a controversial painting of President Jacob Zuma with his genitals exposed following threats by ANC supporters.
 
-### ["Awaara" has been included in the All-Time 100 greatest films by the "Time Magazine". [http://entertainment.time.com/2012/05/17/movie-masterpieces-richard-corliss-expands-times-list-of-cinematic-greats/slide/awaara/ "(Time Entertainment)"]](/news/2012/05/28/awaara-has-been-included-in-the-all-time-100-greatest-films-by-the-time-magazine-http-entertainment-time-com-2012-05-17-movie-master.md)
+### ["Awaara" has been included in the All-Time 100 greatest films by the "Time Magazine". [http:--entertainment.time.com-2012-05-17-movie-masterpieces-richard-corliss-expands-times-list-of-cinematic-greats-slide-awaara- "(Time Entertainment)"]](/news/2012/05/28/awaara-has-been-included-in-the-all-time-100-greatest-films-by-the-time-magazine-http-entertainment-time-com-2012-05-17-movie-master.md)
 _Context: All-Time 100 greatest films, Awaara, Time_
 
 ### [Financial irregularities are revealed at Bloxham Stockbrokers. ](/news/2012/05/28/financial-irregularities-are-revealed-at-bloxham-stockbrokers.md)

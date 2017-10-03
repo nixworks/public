@@ -21,7 +21,7 @@ _Context: Bankruptcy in the United States, Chapter 11, General Motors, bankruptc
 ### [ The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. ](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.md)
 Pakistani authorities negotiated on Tuesday for the release of about 200 students and staff from a military-run college abducted by Taliban militants as they traveled home for a holiday.
 
-### [ More than 40,000 females compete in the Women's Mini Marathon in Dublin, Ireland. [http://www.herald.ie/national-news/herald-girl-leads-charge-as-40000-cross-the-finish-line-1757378.html "(Evening Herald)"] [http://www.irishtimes.com/newspaper/breaking/2009/0601/breaking4.html?via=mr "(The Irish Times)"]](/news/2009/06/1/more-than-40-000-females-compete-in-the-women-s-mini-marathon-in-dublin-ireland-http-www-herald-ie-national-news-herald-girl-leads-cha.md)
+### [ More than 40,000 females compete in the Women's Mini Marathon in Dublin, Ireland. [http:--www.herald.ie-national-news-herald-girl-leads-charge-as-40000-cross-the-finish-line-1757378.html "(Evening Herald)"] [http:--www.irishtimes.com-newspaper-breaking-2009-0601-breaking4.html?via=mr "(The Irish Times)"]](/news/2009/06/1/more-than-40-000-females-compete-in-the-women-s-mini-marathon-in-dublin-ireland-http-www-herald-ie-national-news-herald-girl-leads-cha.md)
 _Context: Dublin, Republic of Ireland, Women's Mini Marathon_
 
 ### [ The Movement for the Emancipation of the Niger Delta refuses to release British hostage Matthew Maguire. ](/news/2009/06/1/the-movement-for-the-emancipation-of-the-niger-delta-refuses-to-release-british-hostage-matthew-maguire.md)

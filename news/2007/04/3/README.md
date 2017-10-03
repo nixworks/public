@@ -9,7 +9,7 @@ _Context: Afghanistan, India, New Delhi, South Asian Association for Regional Co
 ### [ Colorado State University experts forecast a very active 2007 Atlantic hurricane season with 17 named storms, 9 hurricanes and 5 intense hurricanes. ](/news/2007/04/3/colorado-state-university-experts-forecast-a-very-active-2007-atlantic-hurricane-season-with-17-named-storms-9-hurricanes-and-5-intense-hu.md)
 _Context: 2007, Colorado State University, hurricane, tropical storm_
 
-### [ The V150, a modified TGV train, breaks the land speed record for railed vehicles on the new Paris-Strasbourg LGV Est line with 574.8 km/h (357.2 mph). ](/news/2007/04/3/the-v150-a-modified-tgv-train-breaks-the-land-speed-record-for-railed-vehicles-on-the-new-paris-strasbourg-lgv-est-line-with-574-8-km-h.md)
+### [ The V150, a modified TGV train, breaks the land speed record for railed vehicles on the new Paris-Strasbourg LGV Est line with 574.8 km-h (357.2 mph). ](/news/2007/04/3/the-v150-a-modified-tgv-train-breaks-the-land-speed-record-for-railed-vehicles-on-the-new-paris-strasbourg-lgv-est-line-with-574-8-km-h.md)
 A French TGV train broke a world speed record on Tuesday when it hurtled down a newly built track at 574.8 kilometres per hour (357 mph) in the Champagne region.
 
 ### [ Diego Gasques wins the 7th edition of "Big Brother Brasil". ](/news/2007/04/3/diego-gasques-wins-the-7th-edition-of-big-brother-brasil.md)

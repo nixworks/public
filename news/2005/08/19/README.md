@@ -1,6 +1,6 @@
 ## [2005-08-19](/news/2005/08/19/index.md)
 
-### [ Mounir El Motassadeq, the first person to be convicted for his role in the 9/11 attacks who had his conviction overturned in 2004, is re-convicted in Hamburg, Germany and sentenced to seven years in prison. ](/news/2005/08/19/mounir-el-motassadeq-the-first-person-to-be-convicted-for-his-role-in-the-9-11-attacks-who-had-his-conviction-overturned-in-2004-is-re-co.md)
+### [ Mounir El Motassadeq, the first person to be convicted for his role in the 9-11 attacks who had his conviction overturned in 2004, is re-convicted in Hamburg, Germany and sentenced to seven years in prison. ](/news/2005/08/19/mounir-el-motassadeq-the-first-person-to-be-convicted-for-his-role-in-the-9-11-attacks-who-had-his-conviction-overturned-in-2004-is-re-co.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Pope Benedict XVI speaks inside a synagogue at World Youth Day 2005 about the Judeo-Christian relationship. He also speaks with Protestant and Orthodox Christians about upcoming challenges within Christianity. ](/news/2005/08/19/pope-benedict-xvi-speaks-inside-a-synagogue-at-world-youth-day-2005-about-the-judeo-christian-relationship-he-also-speaks-with-protestant.md)
@@ -27,7 +27,7 @@ Are New York cops about to find &#8220;the most missingest man in America?&#8221
 ### [ Merck & Co. loses the first wrongful death lawsuit over its painkiller Vioxx, with a jury awarding $253 Million in damages. There have been over 4000 cases filed against Merck over this drug. ](/news/2005/08/19/merck-co-loses-the-first-wrongful-death-lawsuit-over-its-painkiller-vioxx-with-a-jury-awarding-253-million-in-damages-there-have-been.md)
 Merck &amp; Co. suffered a serious blow Friday when it lost the first wrongful death lawsuit against it over its painkiller Vioxx, opening the floodgates for additional lawsuits and raising the risk that liability will climb higher than estimates that reach $18 billion.
 
-### [ Pennsylvania police announced the discovery of a body presumed to be that of missing woman LaToyia Figueroa and the arrest of former boyfriend Stephen Poaches.([http://www.cnn.com/2005/US/08/20/Philadelphia.missing.ap/index.html CNN])](/news/2005/08/19/pennsylvania-police-announced-the-discovery-of-a-body-presumed-to-be-that-of-missing-woman-latoyia-figueroa-and-the-arrest-of-former-boyfri.md)
+### [ Pennsylvania police announced the discovery of a body presumed to be that of missing woman LaToyia Figueroa and the arrest of former boyfriend Stephen Poaches.([http:--www.cnn.com-2005-US-08-20-Philadelphia.missing.ap-index.html CNN])](/news/2005/08/19/pennsylvania-police-announced-the-discovery-of-a-body-presumed-to-be-that-of-missing-woman-latoyia-figueroa-and-the-arrest-of-former-boyfri.md)
 _Context: LaToyia Figueroa_
 
 ### [ Pakistan's Supreme Court upholds the death sentence awarded to Manjit Singh, an alleged Research and Analysis Wing agent who was also reportedly involved in five bomb blasts in the country. Singh was arrested by security forces at the Indo-Pak border on August 30, 1990. ](/news/2005/08/19/pakistan-s-supreme-court-upholds-the-death-sentence-awarded-to-manjit-singh-an-alleged-research-and-analysis-wing-agent-who-was-also-repor.md)

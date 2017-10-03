@@ -16,7 +16,7 @@ A bus crash in northern Thailand has killed at least 30 people and injured 22 ot
 ### [The World Health Organisation estimates that air pollution contributed to seven million deaths in 2012. ](/news/2014/03/25/the-world-health-organisation-estimates-that-air-pollution-contributed-to-seven-million-deaths-in-2012.md)
 The biggest pollution-related killers were heart disease, stroke, pulmonary disease and lung cancer
 
-### [Martin Callinan resigns as Commissioner of Ireland's Garda Siochana (national police) over his "disgusting" comment about whistleblowers made to a parliamentary committee. Callinan had also been involved in controversy over the recent surveillance/bugging of GSOC. ](/news/2014/03/25/martin-callinan-resigns-as-commissioner-of-ireland-s-garda-saocha-na-national-police-over-his-disgusting-comment-about-whistleblowers-m.md)
+### [Martin Callinan resigns as Commissioner of Ireland's Garda Siochana (national police) over his "disgusting" comment about whistleblowers made to a parliamentary committee. Callinan had also been involved in controversy over the recent surveillance-bugging of GSOC. ](/news/2014/03/25/martin-callinan-resigns-as-commissioner-of-ireland-s-garda-saocha-na-national-police-over-his-disgusting-comment-about-whistleblowers-m.md)
 The head of the Irish police force resigns following a controversy over whistleblowers, whose concerns about the motoring penalty points system appeared to be vindicated by an independent report.
 
 ### [Mohammed Badie, the guide of Egypt's Muslim Brotherhood, will appear in court with 680 others to face charges of incitement to kill. ](/news/2014/03/25/mohammed-badie-the-guide-of-egypt-s-muslim-brotherhood-will-appear-in-court-with-680-others-to-face-charges-of-incitement-to-kill.md)

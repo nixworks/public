@@ -15,7 +15,7 @@ _Context: Afghanistan, Panjwai district, fuel_
 ### [A United States Navy FA-18 Hornet crashes into an apartment complex in the US city of Virginia Beach, Virginia with minimal injuries and no fatalities. ](/news/2012/04/6/a-united-states-navy-fa-18-hornet-crashes-into-an-apartment-complex-in-the-us-city-of-virginia-beach-virginia-with-minimal-injuries-and-no.md)
 There are no reports so far of critical injuries or fatalities, but emergency crews have yet to complete thorough searches of the remains of the buildings after battling the fire and smoke.
 
-### [Japan renews a territorial claim over Liancourt Rocks (Takeshima/Dokdo), which South Korea also claims to be part of its territory. ](/news/2012/04/6/japan-renews-a-territorial-claim-over-liancourt-rocks-takeshima-dokdo-which-south-korea-also-claims-to-be-part-of-its-territory.md)
+### [Japan renews a territorial claim over Liancourt Rocks (Takeshima-Dokdo), which South Korea also claims to be part of its territory. ](/news/2012/04/6/japan-renews-a-territorial-claim-over-liancourt-rocks-takeshima-dokdo-which-south-korea-also-claims-to-be-part-of-its-territory.md)
 _Context: Japan, Liancourt Rocks, South Korea_
 
 ### [Capt Amadou Sanogo, the leader of the Mali coup, states that power will be transferred to the President of the National Assembly after separatist Tuaregs declare independence. ](/news/2012/04/6/capt-amadou-sanogo-the-leader-of-the-mali-coup-states-that-power-will-be-transferred-to-the-president-of-the-national-assembly-after-separ.md)

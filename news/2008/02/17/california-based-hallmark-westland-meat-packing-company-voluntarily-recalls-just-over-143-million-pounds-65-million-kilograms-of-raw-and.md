@@ -1,6 +1,6 @@
 ### [2008-02-17](/news/2008/02/17/index.md)
 
-#  California-based Hallmark/Westland Meat Packing Company voluntarily recalls just over 143 million pounds (65 million kilograms) of raw and frozen beef products, considered the largest meat recall in the United States, following an investigation into animal cruelty. 
+#  California-based Hallmark-Westland Meat Packing Company voluntarily recalls just over 143 million pounds (65 million kilograms) of raw and frozen beef products, considered the largest meat recall in the United States, following an investigation into animal cruelty. 
 
 A video showing sick animals being shoved with forklifts has led to the largest beef recall in the United States and a scramble to find out if any of the meat is still destined for school kids&#39; lunches.
 

@@ -25,7 +25,7 @@ Seven churches, a power station and an elementary school are also razed. The reg
 ### [BP Chief Executive Tony Hayward testifies before the U.S. Congress, apologizing for the spill but avoiding answering most questions and stating that he was unaware of the risks at the Deepwater Horizon rig that exploded in April causing the oil spill. ](/news/2010/06/17/bp-chief-executive-tony-hayward-testifies-before-the-u-s-congress-apologizing-for-the-spill-but-avoiding-answering-most-questions-and-stat.md)
 _Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Tony Hayward, U.S. Congress_
 
-### [Around 2,000 people mass in Osh Airport.China flies 960 nationals home from Kyrgyzstan; evacuation continues. [http://eng.kabar.kg/index.php?option=com_content&task=view&id=285&Itemid=1 (Kabar)]Kyrgyzstan unrest death toll rises to 192. 913 people were hospitalized. [http://eng.24.kg/community/2010/06/18/12159.html (24)][http://www.itar-tass.com/eng/level2.html?NewsID=15233886&PageNum=0 (ITAR)]Kyrgyz Central Election Commission accredits Kazakh CEC Chair and his assistant to observe constitutional referendum.](/news/2010/06/17/around-2-000-people-mass-in-osh-airport-china-flies-960-nationals-home-from-kyrgyzstan-evacuation-continues-http-eng-kabar-kg-index-php.md)
+### [Around 2,000 people mass in Osh Airport.China flies 960 nationals home from Kyrgyzstan; evacuation continues. [http:--eng.kabar.kg-index.php?option=com_content&task=view&id=285&Itemid=1 (Kabar)]Kyrgyzstan unrest death toll rises to 192. 913 people were hospitalized. [http:--eng.24.kg-community-2010-06-18-12159.html (24)][http:--www.itar-tass.com-eng-level2.html?NewsID=15233886&PageNum=0 (ITAR)]Kyrgyz Central Election Commission accredits Kazakh CEC Chair and his assistant to observe constitutional referendum.](/news/2010/06/17/around-2-000-people-mass-in-osh-airport-china-flies-960-nationals-home-from-kyrgyzstan-evacuation-continues-http-eng-kabar-kg-index-php.md)
 _Context: China, Kyrgyz Central Election Commission, Kyrgyzstan, Osh Airport, constitutional referendum_
 
 ### [Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israel-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s-hamas-rulers-say-this-is-propaga.md)
@@ -55,7 +55,7 @@ Tens of thousands of ultra-Orthodox Jews gathered in Jerusalem to protest a Supr
 ### [African leaders meet in Chad to discuss the Great Green Wall tree belt from Senegal to Djibouti in the battle against the Sahara. ](/news/2010/06/17/african-leaders-meet-in-chad-to-discuss-the-great-green-wall-tree-belt-from-senegal-to-djibouti-in-the-battle-against-the-sahara.md)
 African leaders meet to push forward the idea of planting a tree belt - the Great Green Wall - across Africa from west to east.
 
-### [European Union leaders approve sanctions in Brussels, including bans on investments and oil/gas technology transfers, against Iran, harsher than recent sanctions imposed by the United Nations. Russia calls these and sanctions by the United States "unacceptable". ](/news/2010/06/17/european-union-leaders-approve-sanctions-in-brussels-including-bans-on-investments-and-oil-gas-technology-transfers-against-iran-harsher.md)
+### [European Union leaders approve sanctions in Brussels, including bans on investments and oil-gas technology transfers, against Iran, harsher than recent sanctions imposed by the United Nations. Russia calls these and sanctions by the United States "unacceptable". ](/news/2010/06/17/european-union-leaders-approve-sanctions-in-brussels-including-bans-on-investments-and-oil-gas-technology-transfers-against-iran-harsher.md)
 European Union leaders approve new sanctions on Iran that are tougher than recent measures adopted by the UN Security Council.
 
 ### [Powerful Austrian publisher and household name Hans Dichand, who greatly influenced Austrian politics, dies aged 89. ](/news/2010/06/17/powerful-austrian-publisher-and-household-name-hans-dichand-who-greatly-influenced-austrian-politics-dies-aged-89.md)
@@ -65,7 +65,7 @@ _Context: Austria, Austrian politics, Hans Dichand_
 _Context: Kenya, Mwai Kibaki, Wilfred Machage, president_
 
 ### [Rwanda releases from custody an American lawyer for health reasons. The lawyer is charged with genocide denial and threatening state security, the first outsider tried under the country's 2003 anti-genocide legislation. ](/news/2010/06/17/rwanda-releases-from-custody-an-american-lawyer-for-health-reasons-the-lawyer-is-charged-with-genocide-denial-and-threatening-state-securit.md)
-_Context: Rwanda, U.S._
+_Context: Americans, Rwanda_
 
 ### [Hundreds of surveillance cameras, alleged to be part of a counter-terrorism operation in highly Muslim areas, are put into temporary disuse in parts of Birmingham, England, after protest by the local population. ](/news/2010/06/17/hundreds-of-surveillance-cameras-alleged-to-be-part-of-a-counter-terrorism-operation-in-highly-muslim-areas-are-put-into-temporary-disuse.md)
 Bags are to be put over dozens of surveillance cameras in parts of Birmingham with large Muslim populations, after objections.

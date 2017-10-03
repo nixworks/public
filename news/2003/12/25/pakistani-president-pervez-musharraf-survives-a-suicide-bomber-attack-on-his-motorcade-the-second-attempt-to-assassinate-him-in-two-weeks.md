@@ -1,6 +1,6 @@
 ### [2003-12-25](/news/2003/12/25/index.md)
 
-#  Pakistani President Pervez Musharraf survives a suicide bomber attack on his motorcade, the second attempt to assassinate him in two weeks. [http://www.nytimes.com/2003/12/26/international/asia/26STAN.html]
+#  Pakistani President Pervez Musharraf survives a suicide bomber attack on his motorcade, the second attempt to assassinate him in two weeks. [http:--www.nytimes.com-2003-12-26-international-asia-26STAN.html]
 
 
 
@@ -12,8 +12,3 @@
 3. [A suicide bomber kills at least 26 and injures nearly 50 in Afghanistan's eastern Kunar Province near the border with Pakistan. ](/news/2016/02/27/a-suicide-bomber-kills-at-least-26-and-injures-nearly-50-in-afghanistan-s-eastern-kunar-province-near-the-border-with-pakistan.md) _Context: Pakistan, suicide bomber_
 4. [At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. ](/news/2016/01/19/at-least-9-people-are-killed-and-35-injured-after-a-suicide-bomber-strikes-near-a-security-checkpoint-near-peshawar-pakistan.md) _Context: Pakistan, suicide bomber_
 5. [Former President of Pakistan Pervez Musharraf survives an assassination attempt in Islamabad, Pakistan. There are no reports of injuries. ](/news/2014/04/3/former-president-of-pakistan-pervez-musharraf-survives-an-assassination-attempt-in-islamabad-pakistan-there-are-no-reports-of-injuries.md) _Context: Pakistan, Pervez Musharraf_
-6. [A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. ](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.md) _Context: Pakistan, Pervez Musharraf_
-7. [A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md) _Context: Pakistan, suicide bomber_
-8. [A Pakistani court indicts former President Pervez Musharraf for his alleged involvement in the 2007 assassination of former Prime Minister Benazir Bhutto. ](/news/2013/08/20/a-pakistani-court-indicts-former-president-pervez-musharraf-for-his-alleged-involvement-in-the-2007-assassination-of-former-prime-minister-b.md) _Context: Pakistan, Pervez Musharraf_
-9. [A suicide bomber kills 15 and injures 20 in a Shi'ite mosque in the northwestern Pakistani city of Peshawar. ](/news/2013/06/21/a-suicide-bomber-kills-15-and-injures-20-in-a-shi-ite-mosque-in-the-northwestern-pakistani-city-of-peshawar.md) _Context: Pakistan, suicide bomber_
-10. [Chaudhry Zulfiqar Ali, a prosecutor with Pakistan's Federal Investigation Agency leading the prosecution of former President Pervez Musharraf over alleged involvement in the assassination of Benazir Bhutto, is shot dead on the way to court in Islamabad. ](/news/2013/05/3/chaudhry-zulfiqar-ali-a-prosecutor-with-pakistan-s-federal-investigation-agency-leading-the-prosecution-of-former-president-pervez-musharra.md) _Context: Pakistan, Pervez Musharraf_

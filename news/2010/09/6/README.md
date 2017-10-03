@@ -7,7 +7,7 @@ _Context: Khyber Pakhtunkhwa, Lakki Marwat, Pakistani police, suicide bomber_
 The number of foreign troops killed in Afghanistan this year has reached at least 500, compared with 521 in all of 2009, according to an independent monitoring site on Monday and a tally compiled by Reuters.
 
 ### [Alfredo Perez Rubalcaba, Spain's Interior Minister, dismisses ETA's ceasefire offer as insufficient for a peace process. ](/news/2010/09/6/alfredo-pa-c-rez-rubalcaba-spain-s-interior-minister-dismisses-eta-s-ceasefire-offer-as-insufficient-for-a-peace-process.md)
-_Context: Alfredo Perez Rubalcaba, ETA, Spanish, ceasefire_
+_Context: Alfredo Perez Rubalcaba, ETA, Spain, ceasefire_
 
 ### [New Zealand Army soldiers begin providing security at the centre of Christchurch following the 2010 Canterbury earthquake as a state of emergency is extended until Wednesday. ](/news/2010/09/6/new-zealand-army-soldiers-begin-providing-security-at-the-centre-of-christchurch-following-the-2010-canterbury-earthquake-as-a-state-of-emer.md)
 _Context: 2010 Canterbury earthquake, Christchurch, New Zealand Army, states of emergency_
@@ -22,7 +22,7 @@ Teams in Guatemala have to halt the search for bodies following devasting mudsli
 _Context: 2010 Atlantic hurricane season, Mexico, Texas_
 
 ### [A wind-driven wildfire in the United States state of Colorado leads to the evacuation of 1,000 houses. ](/news/2010/09/6/a-wind-driven-wildfire-in-the-united-states-state-of-colorado-leads-to-the-evacuation-of-1-000-houses.md)
-_Context: Colorado, U.S., Wildfire_
+_Context: Americans, Colorado, Wildfire_
 
 ### [North Korea announces it will release seven detained Chinese and South Korean fishermen. ](/news/2010/09/6/north-korea-announces-it-will-release-seven-detained-chinese-and-south-korean-fishermen.md)
 _Context: China, North Korea, South Korea_

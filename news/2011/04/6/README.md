@@ -28,7 +28,7 @@ _Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents_
 ### [At least 200 African migrants are missing after a boat capsizes off Italy. 20 bodies recovered. ](/news/2011/04/6/at-least-200-african-migrants-are-missing-after-a-boat-capsizes-off-italy-20-bodies-recovered.md)
 A desperate search is mounted for scores of African migrants missing after a boat capsizes off the Italian island of Lampedusa.
 
-### [A United States Navy F/A-18 crashes near Naval Air Station Lemoore in California. ](/news/2011/04/6/a-united-states-navy-f-a-18-crashes-near-naval-air-station-lemoore-in-california.md)
+### [A United States Navy F-A-18 crashes near Naval Air Station Lemoore in California. ](/news/2011/04/6/a-united-states-navy-f-a-18-crashes-near-naval-air-station-lemoore-in-california.md)
 _Context: California, F/A-18, Naval Air Station Lemoore, United States Navy_
 
 ### [Ecuador expels the United States ambassador over Wikileaks diplomatic cables alleging corruption within the Ecuadorian police force. ](/news/2011/04/6/ecuador-expels-the-united-states-ambassador-over-wikileaks-diplomatic-cables-alleging-corruption-within-the-ecuadorian-police-force.md)

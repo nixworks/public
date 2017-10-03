@@ -9,7 +9,7 @@ _Context: Cardinal, Germany, Papal conclave, 2005, Pope, Pope Benedict XVI, Vati
 ### [ "MyPyramid" is released by the United States Department of Agriculture. The new food guidance icon is an update of the 13-year-old food guide pyramid, which was itself an update of charts expounding on the "four basic food groups". ](/news/2005/04/19/mypyramid-is-released-by-the-united-states-department-of-agriculture-the-new-food-guidance-icon-is-an-update-of-the-13-year-old-food-gui.md)
 _Context: MyPyramid, United States Department of Agriculture, basic food groups, food guide pyramid_
 
-### [ The United Iraqi Alliance, the leading coalition in the new Government of Iraq, demands the death penalty for Saddam Hussein, accused of genocide in Kurdistan as well as torture and other human rights violations in Baghdad. ([http://www.aljazeera.com/me.asp?service_ID=7807 Al Jazeera])](/news/2005/04/19/the-united-iraqi-alliance-the-leading-coalition-in-the-new-government-of-iraq-demands-the-death-penalty-for-saddam-hussein-accused-of-ge.md)
+### [ The United Iraqi Alliance, the leading coalition in the new Government of Iraq, demands the death penalty for Saddam Hussein, accused of genocide in Kurdistan as well as torture and other human rights violations in Baghdad. ([http:--www.aljazeera.com-me.asp?service_ID=7807 Al Jazeera])](/news/2005/04/19/the-united-iraqi-alliance-the-leading-coalition-in-the-new-government-of-iraq-demands-the-death-penalty-for-saddam-hussein-accused-of-ge.md)
 _Context: Baghdad, Government of Iraq, Human rights, Kurdish, Saddam Hussein, United Iraqi Alliance, coalition, death penalty, genocide, torture_
 
 ### [ Victims and families observe 168 seconds of silence on the tenth anniversary of the Oklahoma City bombing at 9:02 a.m. (local time). ](/news/2005/04/19/victims-and-families-observe-168-seconds-of-silence-on-the-tenth-anniversary-of-the-oklahoma-city-bombing-at-9-02-a-m-local-time.md)
@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ A high court in Spain sentences Adolfo Scilingo, former Argentinian navy captain, for 640 years in prison for crimes against humanity during the Dirty War. ](/news/2005/04/19/a-high-court-in-spain-sentences-adolfo-scilingo-former-argentinian-navy-captain-for-640-years-in-prison-for-crimes-against-humanity-durin.md)
-_Context: Adolfo Scilingo, Argentina, Dirty War, Spanish_
+_Context: Adolfo Scilingo, Argentina, Dirty War, Spain_
 
 ### [ The girlfriend of a Paris Opera Hotel employee admits that she might have accidentally started the fire that destroyed the hotel last Friday. Police later take her into custody. The death toll has risen to 24. ](/news/2005/04/19/the-girlfriend-of-a-paris-opera-hotel-employee-admits-that-she-might-have-accidentally-started-the-fire-that-destroyed-the-hotel-last-frida.md)
 _Context: Paris Opera Hotel_

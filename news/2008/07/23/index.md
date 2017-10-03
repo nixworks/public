@@ -12,7 +12,7 @@ _Context: Bulgaria, EU, anti-corruption, organization_
 ### [ Cape Verde officially joins the World Trade Organization, becoming its 153rd member. ](/news/2008/07/23/cape-verde-officially-joins-the-world-trade-organization-becoming-its-153rd-member.md)
 _Context: Cape Verde, World Trade Organization_
 
-### [ Hurricane Dolly makes landfall on South Padre Island, Texas, with sustained winds of 95 mph (150 km/h). ](/news/2008/07/23/hurricane-dolly-makes-landfall-on-south-padre-island-texas-with-sustained-winds-of-95-mph-150-km-h.md)
+### [ Hurricane Dolly makes landfall on South Padre Island, Texas, with sustained winds of 95 mph (150 km-h). ](/news/2008/07/23/hurricane-dolly-makes-landfall-on-south-padre-island-texas-with-sustained-winds-of-95-mph-150-km-h.md)
 _Context: Hurricane Dolly, South Padre Island, Texas, landfall_
 
 ## [Previous Day...](/news/2008/07/22/index.md)

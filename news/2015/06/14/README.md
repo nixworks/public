@@ -27,7 +27,7 @@ JOHANNESBURG (AFP) - The International Criminal Court (ICC) has called for South
 ### [Thousands of people march in Hong Kong to demand the Legislative Council reject a China backed proposal for the naming of candidates for Chief Executive be done by a nominating committee. ](/news/2015/06/14/thousands-of-people-march-in-hong-kong-to-demand-the-legislative-council-reject-a-china-backed-proposal-for-the-naming-of-candidates-for-chi.md)
 Two of Hong Kong’s top lawmakers said a China-backed plan for the city’s first direct election for chief executive would fail to pass amid growing public opposition to the bill.
 
-### [The European Space Agency's "Philae" spacecraft wakes up after six months in hibernation as comet 67P/Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumovagerasimenko-gets-closer-to.md)
+### [The European Space Agency's "Philae" spacecraft wakes up after six months in hibernation as comet 67P-Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumovagerasimenko-gets-closer-to.md)
 The European Space Agency says its comet lander, Philae, has woken up and contacted Earth, seven months after it lost power.
 
 ## [Previous Day...](/news/2015/06/13/index.md)

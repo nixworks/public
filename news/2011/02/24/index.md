@@ -25,7 +25,7 @@ _Context: Etta James, Riverside County, California, Superior Court, blues_
 CBS has pulled the plug on “Two and a Half Men”… for now.
 
 ### [Toyota recalls more than two million vehicles in the United States to address problems with accelerator pedals being trapped in floormats. ](/news/2011/02/24/toyota-recalls-more-than-two-million-vehicles-in-the-united-states-to-address-problems-with-accelerator-pedals-being-trapped-in-floormats.md)
-_Context: Toyota, U.S., accelerator_
+_Context: Americans, Toyota, accelerator_
 
 ### [Allison Transmission, a maker of transmissions for trucks and buses, is planning an initial public offering expected to raise between US$500 million and $1 billion, according to Reuters, which cites "four sources familiar with the situation." ](/news/2011/02/24/allison-transmission-a-maker-of-transmissions-for-trucks-and-buses-is-planning-an-initial-public-offering-expected-to-raise-between-us-500.md)
 Private equity-backed Allison Transmission has hired banks and is planning an initial public offering that could raise around $1 billion in the third quarter of the year, four sources familiar with the situation said.
@@ -64,7 +64,7 @@ Law enforcement officials across the country are conducting a nationwide sweep o
 _Context: Kizza Besigye, Uganda, Yoweri Museveni, elections_
 
 ### [Shimon Peres, the President of Israel, is on a four day state visit to Spain as King Juan Carlos expressed his support for the Middle East peace process. ](/news/2011/02/24/shimon-peres-the-president-of-israel-is-on-a-four-day-state-visit-to-spain-as-king-juan-carlos-expressed-his-support-for-the-middle-east-p.md)
-_Context: Israel, Juan Carlos, Shimon Peres, Spanish_
+_Context: Israel, Juan Carlos, Shimon Peres, Spain_
 
 ### [The Prime Minister of Australia Julia Gillard announces a carbon pricing scheme to start on July 1, 2012. ](/news/2011/02/24/the-prime-minister-of-australia-julia-gillard-announces-a-carbon-pricing-scheme-to-start-on-july-1-2012.md)
 A carbon price scheme will be rolled out from July 2012 with a fixed price for the first three to five years.
@@ -73,7 +73,7 @@ A carbon price scheme will be rolled out from July 2012 with a fixed price for t
 _Context: Providence Public School District, Providence, Rhode Island, School Board_
 
 ### [The United States Space Shuttle Discovery takes off for its final mission. ](/news/2011/02/24/the-united-states-space-shuttle-discovery-takes-off-for-its-final-mission.md)
-_Context: Discovery, U.S., final mission_
+_Context: Americans, Discovery, final mission_
 
 ## [Previous Day...](/news/2011/02/23/index.md)
 

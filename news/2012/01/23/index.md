@@ -15,7 +15,7 @@ Discovery raises to 15 the number of people certified dead in Costa Concordia di
 ### [The European Union imposes more sanctions on Iran's banking and oil industries in response to Iran's nuclear program. ](/news/2012/01/23/the-european-union-imposes-more-sanctions-on-iran-s-banking-and-oil-industries-in-response-to-iran-s-nuclear-program.md)
 Iran says an EU ban on imports of Iranian oil is &quot;unfair&quot; and &quot;doomed to fail&quot;, and will not force it to change course on its nuclear programme.
 
-### [Ghana recognizes Kosovo [http://www.mfa-ks.net/?page=1,4,1090&offset=2 (Ministry of Foreign Affairs of Kosovo)] (Albanian)](/news/2012/01/23/ghana-recognizes-kosovo-http-www-mfa-ks-net-page-1-4-1090-offset-2-ministry-of-foreign-affairs-of-kosovo-albanian.md)
+### [Ghana recognizes Kosovo [http:--www.mfa-ks.net-?page=1,4,1090&offset=2 (Ministry of Foreign Affairs of Kosovo)] (Albanian)](/news/2012/01/23/ghana-recognizes-kosovo-http-www-mfa-ks-net-page-1-4-1090-offset-2-ministry-of-foreign-affairs-of-kosovo-albanian.md)
 _Context: Ghana, Kosovo, Kosovo_
 
 ### [The French Senate passes a bill that makes it illegal for citizens to deny the Armenian Genocide by the Ottoman Empire. ](/news/2012/01/23/the-french-senate-passes-a-bill-that-makes-it-illegal-for-citizens-to-deny-the-armenian-genocide-by-the-ottoman-empire.md)

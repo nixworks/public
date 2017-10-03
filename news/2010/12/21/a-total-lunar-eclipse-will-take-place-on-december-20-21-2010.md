@@ -1,6 +1,6 @@
 ### [2010-12-21](/news/2010/12/21/index.md)
 
-# A total lunar eclipse will take place on December 20/21, 2010. 
+# A total lunar eclipse will take place on December 20-21, 2010. 
 
 
 

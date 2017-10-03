@@ -4,7 +4,7 @@
 _Context: Greensburg, Kansas, Greensburg, Kansas Tornado Outbreak, Kansas, tornado_
 
 ### [ Three U.S. Republican legislators from Alaska are charged with accepting bribes to support legislation favorable to oil services company Veco Corp. ](/news/2007/05/4/three-u-s-republican-legislators-from-alaska-are-charged-with-accepting-bribes-to-support-legislation-favorable-to-oil-services-company-ve.md)
-_Context: Alaska, Republican, U.S., Veco Corp, bribe_
+_Context: Alaska, Americans, Republican, Veco Corp, bribe_
 
 ### [ A heavy-lift "Ariane 5" rocket blasts off from French Guiana putting into orbit two telecommunications satellites, Astra 1L and Galaxy 17. ](/news/2007/05/4/a-heavy-lift-ariane-5-rocket-blasts-off-from-french-guiana-putting-into-orbit-two-telecommunications-satellites-astra-1l-and-galaxy-17.md)
 A heavy-lift Ariane-5 rocket blasted off from French Guiana on Friday putting into orbit two telecommunications satellites, space officials said.
@@ -33,7 +33,7 @@ _Context: Egypt, International Compact for Iraq, Iraq, Middle East_
 ### [ A boat carrying nearly 150 Haitian migrants capsizes in the Atlantic Ocean 1 km off the coast of one of the Turks and Caicos Islands, killing at least twenty, requiring the rescue of at least seventy-three and leaving at least fifty-eight unaccounted for. ](/news/2007/05/4/a-boat-carrying-nearly-150-haitian-migrants-capsizes-in-the-atlantic-ocean-1-km-off-the-coast-of-one-of-the-turks-and-caicos-islands-killi.md)
 At least 20 people are dead and dozens are still missing Friday after a boat loaded with Haitian migrants capsized in the Atlantic Ocean southeast of the Bahamas.
 
-### [ Two Cuban military deserters hijack a bus and reroute it to Havana Airport, before attempting to steal an empty passenger jet with the occupants of the bus as hostages. The plan is ultimately foiled but one hostage is killed before the men are captured. [http://www.smh.com.au/news/world/hostage-killed-in-foiled-cuba-plane-hijack/2007/05/04/1177788354032.html]](/news/2007/05/4/two-cuban-military-deserters-hijack-a-bus-and-reroute-it-to-havana-airport-before-attempting-to-steal-an-empty-passenger-jet-with-the-occu.md)
+### [ Two Cuban military deserters hijack a bus and reroute it to Havana Airport, before attempting to steal an empty passenger jet with the occupants of the bus as hostages. The plan is ultimately foiled but one hostage is killed before the men are captured. [http:--www.smh.com.au-news-world-hostage-killed-in-foiled-cuba-plane-hijack-2007-05-04-1177788354032.html]](/news/2007/05/4/two-cuban-military-deserters-hijack-a-bus-and-reroute-it-to-havana-airport-before-attempting-to-steal-an-empty-passenger-jet-with-the-occu.md)
 _Context: Cuba, Havana Airport_
 
 ## [Previous Day...](/news/2007/05/3/index.md)

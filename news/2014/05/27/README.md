@@ -10,7 +10,7 @@ A convoy of chemical weapons inspectors and UN staff that was travelling to a si
 The troops will include troops to train and advise Afghanistan&rsquo;s military and a group of Special Operations forces.
 
 ### [An American doctor, Mehdi Ali Qamar, is shot and killed in Pakistan by unknown assailants on motorbikes. ](/news/2014/05/27/an-american-doctor-mehdi-ali-qamar-is-shot-and-killed-in-pakistan-by-unknown-assailants-on-motorbikes.md)
-_Context: Pakistan, U.S._
+_Context: Americans, Pakistan_
 
 ### [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
 _Context: Anbar province, Baghdad, Iraq, Iraqi insurgency_
@@ -33,7 +33,7 @@ Vietnam and China trading accusations Tuesday over who was the aggressor in an i
 ### [Disgraced former New South Wales Police officer Roger Rogerson is arrested over the alleged murder of student Jamie Gao in Sydney last week. ](/news/2014/05/27/disgraced-former-new-south-wales-police-officer-roger-rogerson-is-arrested-over-the-alleged-murder-of-student-jamie-gao-in-sydney-last-week.md)
 Police have arrested disgraced ex-detective Roger Rogerson at his home in Sydney&#039;s south-west, over the alleged murder of Sydney student Jamie Gao.
 
-### [A Pakistani woman is stoned to death with bricks outside a courthouse by family members including her father, two brothers, and ex-fiance for marrying a man she loved against the family's wishes. ([http://www.jpost.com/International/Pakistan-woman-stoned-to-death-by-family-for-marrying-man-she-loved-354555 JPost via Reuters])](/news/2014/05/27/a-pakistani-woman-is-stoned-to-death-with-bricks-outside-a-courthouse-by-family-members-including-her-father-two-brothers-and-ex-fianca-c-f.md)
+### [A Pakistani woman is stoned to death with bricks outside a courthouse by family members including her father, two brothers, and ex-fiance for marrying a man she loved against the family's wishes. ([http:--www.jpost.com-International-Pakistan-woman-stoned-to-death-by-family-for-marrying-man-she-loved-354555 JPost via Reuters])](/news/2014/05/27/a-pakistani-woman-is-stoned-to-death-with-bricks-outside-a-courthouse-by-family-members-including-her-father-two-brothers-and-ex-fianca-c-f.md)
 _Context: Pakistan, stoned to death_
 
 ### [The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/the-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-encourage-turnout.md)

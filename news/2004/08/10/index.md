@@ -6,7 +6,7 @@ _Context: Gongju, Seoul, South Chungcheong, South Korea, capital_
 ### [ Bombs explode at two small hotels and a gas plant in the Turkish city of Istanbul, killing two people and injuring at least nine. ](/news/2004/08/10/bombs-explode-at-two-small-hotels-and-a-gas-plant-in-the-turkish-city-of-istanbul-killing-two-people-and-injuring-at-least-nine.md)
 _Context: Istanbul, Turkey, bomb_
 
-### [ The U.S. deals a major blow to German prosecutors at the re-trial of Moroccan Mounir al-Motassadek, one of the only 9/11 suspects to face justice to date, by refusing to allow an alleged al-Qaeda member to testify via videolink, citing security concerns and the need to protect secret information. ](/news/2004/08/10/the-u-s-deals-a-major-blow-to-german-prosecutors-at-the-re-trial-of-moroccan-mounir-al-motassadek-one-of-the-only-9-11-suspects-to-face-j.md)
+### [ The U.S. deals a major blow to German prosecutors at the re-trial of Moroccan Mounir al-Motassadek, one of the only 9-11 suspects to face justice to date, by refusing to allow an alleged al-Qaeda member to testify via videolink, citing security concerns and the need to protect secret information. ](/news/2004/08/10/the-u-s-deals-a-major-blow-to-german-prosecutors-at-the-re-trial-of-moroccan-mounir-al-motassadek-one-of-the-only-9-11-suspects-to-face-j.md)
 _Context: Morocco, Mounir al-Motassadek, September 11, 2001 attacks, al-Qaeda, videolink_
 
 ### [ Libya agrees to pay USD 35 million to some victims of the 1986 Berlin discotheque bombing. ](/news/2004/08/10/libya-agrees-to-pay-usd-35-million-to-some-victims-of-the-1986-berlin-discotheque-bombing.md)

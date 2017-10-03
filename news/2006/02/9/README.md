@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ Jyllands-Posten Muhammad cartoons controversy: administration at the University of Prince Edward Island, Canada, ordered a halt to the on-campus distribution of the student newspaper Cadre after the cartoons were re-printed in the newspaper. Campus authorities also attempted to seize all 2,000 copies of the edition containing the cartoons. ](/news/2006/02/9/jyllands-posten-muhammad-cartoons-controversy-administration-at-the-university-of-prince-edward-island-canada-ordered-a-halt-to-the-on-c.md)
 _Context: Cadre, Jyllands-Posten Muhammad cartoons controversy, University of Prince Edward Island_
 
-### [ Legendary producer J Dilla dies. [http://pitchfork.com/news/24579-jay-dee-dead-at-32/]](/news/2006/02/9/legendary-producer-j-dilla-dies-http-pitchfork-com-news-24579-jay-dee-dead-at-32.md)
+### [ Legendary producer J Dilla dies. [http:--pitchfork.com-news-24579-jay-dee-dead-at-32-]](/news/2006/02/9/legendary-producer-j-dilla-dies-http-pitchfork-com-news-24579-jay-dee-dead-at-32.md)
 _Context: J Dilla_
 
 ## [Previous Day...](/news/2006/02/8/index.md)

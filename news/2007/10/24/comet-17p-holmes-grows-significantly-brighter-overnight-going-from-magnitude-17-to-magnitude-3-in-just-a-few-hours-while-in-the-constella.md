@@ -1,6 +1,6 @@
 ### [2007-10-24](/news/2007/10/24/index.md)
 
-#  Comet 17P/Holmes grows significantly brighter overnight, going from magnitude 17 to magnitude 3 in just a few hours, while in the constellation of Perseus. 
+#  Comet 17P-Holmes grows significantly brighter overnight, going from magnitude 17 to magnitude 3 in just a few hours, while in the constellation of Perseus. 
 
 
 

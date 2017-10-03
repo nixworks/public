@@ -1,6 +1,6 @@
 ### [2003-11-6](/news/2003/11/6/index.md)
 
-#  Four people were found shot to death in a motorcycle shop in Chesnee, South Carolina. The case remained unsolved for nearly thirteen years. Following his arrest for an unrelated crime in 2016, Todd Kohlhepp confessed to committing the shootings.<ref name=CNN.Charged>url=http://www.cnn.com/2016/11/05/us/south-carolina-chained-womans-boyfriend-body-idd/ Carolina kidnapping suspect charged with 4 killings in cold case 5, 2016 accessdate=November 7, 2016 first=Steve
+#  Four people were found shot to death in a motorcycle shop in Chesnee, South Carolina. The case remained unsolved for nearly thirteen years. Following his arrest for an unrelated crime in 2016, Todd Kohlhepp confessed to committing the shootings. url=http:--www.cnn.com-2016-11-05-us-south-carolina-chained-womans-boyfriend-body-idd- Carolina kidnapping suspect charged with 4 killings in cold case 5, 2016 accessdate=November 7, 2016 first=Steve
 
 
 

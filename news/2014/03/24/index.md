@@ -12,7 +12,7 @@ OSO, Wash. (AP) — Authorities say the death toll from a massive landslide in W
 ### [The death toll from the Lake Albert boat disaster on March 22 rises to 107. ](/news/2014/03/24/the-death-toll-from-the-lake-albert-boat-disaster-on-march-22-rises-to-107.md)
 _Context: Lake Albert boat disaster_
 
-### [A train overruns the buffers at Chicago O'Hare Airport station, injuring 33 people.([http://www.chicagotribune.com/news/local/breaking/chi-ohare-train-crash-20140324,0,1750012.story Chicago Tribune])](/news/2014/03/24/a-train-overruns-the-buffers-at-chicago-o-hare-airport-station-injuring-33-people-http-www-chicagotribune-com-news-local-breaking-chi-o.md)
+### [A train overruns the buffers at Chicago O'Hare Airport station, injuring 33 people.([http:--www.chicagotribune.com-news-local-breaking-chi-ohare-train-crash-20140324,0,1750012.story Chicago Tribune])](/news/2014/03/24/a-train-overruns-the-buffers-at-chicago-o-hare-airport-station-injuring-33-people-http-www-chicagotribune-com-news-local-breaking-chi-o.md)
 _Context: Chicago O'Hare Airport station, overruns the buffers_
 
 ### [An outbreak of Ebola virus which has killed at least 59 people in Guinea continues its spread, entering Liberia and threatens to spread to Sierra Leone. ](/news/2014/03/24/an-outbreak-of-ebola-virus-which-has-killed-at-least-59-people-in-guinea-continues-its-spread-entering-liberia-and-threatens-to-spread-to-s.md)

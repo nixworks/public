@@ -30,7 +30,7 @@ WASHINGTON — The Supreme Court on Monday rejected a conservative challenge to 
 ### [Myanmar's new parliament, in its first legislative act, votes (611-3) to eliminate 15 government ministries. President-elect Htin Kyaw says by eliminating the ministers' salaries, the nation will save $4 million over five years. No civil servants will lose their jobs. ](/news/2016/03/21/myanmar-s-new-parliament-in-its-first-legislative-act-votes-611-3-to-eliminate-15-government-ministries-president-elect-htin-kyaw-says.md)
 _Context: Htin Kyaw, Myanmar, parliament_
 
-### [Two possibly-twin near-Earth objects, 252P/LINEAR and P/2016 BA14, will safely pass by Earth at relatively close distances today and Tuesday. ](/news/2016/03/21/two-possibly-twin-near-earth-objects-252p-linear-and-p-2016-ba14-will-safely-pass-by-earth-at-relatively-close-distances-today-and-tuesday.md)
+### [Two possibly-twin near-Earth objects, 252P-LINEAR and P-2016 BA14, will safely pass by Earth at relatively close distances today and Tuesday. ](/news/2016/03/21/two-possibly-twin-near-earth-objects-252p-linear-and-p-2016-ba14-will-safely-pass-by-earth-at-relatively-close-distances-today-and-tuesday.md)
 Two comets will safely fly past Earth next week, giving scientists the chance to determine whether they used to be parts of the same comet.
 
 ## [Previous Day...](/news/2016/03/20/index.md)

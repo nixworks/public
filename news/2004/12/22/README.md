@@ -3,7 +3,7 @@
 ### [ Gambian journalists march in protest of the murder of Deyda Hydara, newspaper editor who had criticised new strict press legislation. UNESCO also condemns the killing. ](/news/2004/12/22/gambian-journalists-march-in-protest-of-the-murder-of-deyda-hydara-newspaper-editor-who-had-criticised-new-strict-press-legislation-unesc.md)
 _Context: Gambia, UNESCO_
 
-### [ Switzerland increases its financial support for the forthcoming re-run of election in Ukraine. date= 2017-05-18 | url=http://www.nzz.ch/2004/12/22/english/page-synd5421754.html | text=(NZZ)](/news/2004/12/22/switzerland-increases-its-financial-support-for-the-forthcoming-re-run-of-election-in-ukraine-date-2017-05-18-url-http-www-nzz-ch-200.md)
+### [ Switzerland increases its financial support for the forthcoming re-run of election in Ukraine. date= 2017-05-18 | url=http:--www.nzz.ch-2004-12-22-english-page-synd5421754.html | text=(NZZ)](/news/2004/12/22/switzerland-increases-its-financial-support-for-the-forthcoming-re-run-of-election-in-ukraine-date-2017-05-18-url-http-www-nzz-ch-200.md)
 _Context: Ukraine_
 
 ### [ The Police Service of Northern Ireland confirm that the haul in last Monday's Northern Bank Belfast bank heist was GBP22 million, comprising GBP1.15 million in new Northern Bank GBP100 and GBP50 notes, GBP12 million in new Northern Bank GBP20 and GBP10 notes, GBP5 million in used Northern Ireland notes issued by various banks, and the remainder in other sterling banknotes. Since Northern Irish notes are rarely seen outside Northern Ireland, the gang may have difficulty in laundering most of their haul. ](/news/2004/12/22/the-police-service-of-northern-ireland-confirm-that-the-haul-in-last-monday-s-northern-bank-belfast-bank-heist-was-agbp22-million-comprisi.md)

@@ -3,7 +3,7 @@
 ### [40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md)
 _Context: 2014 Northern Iraq offensive, Indians, Mosul, Turkish_
 
-### [US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. [http://www.thenews.com.pk/article-151102-US-drones-kill-four-in-North-Waziristan- ("The News (Pakistan)")]](/news/2014/06/18/us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths-http-www-thenews-com-pk-a.md)
+### [US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. [http:--www.thenews.com.pk-article-151102-US-drones-kill-four-in-North-Waziristan- ("The News (Pakistan)")]](/news/2014/06/18/us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths-http-www-thenews-com-pk-a.md)
 _Context: North Waziristan, War in North-West Pakistan, drones launch_
 
 ### [Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at-least-20-people.md)
@@ -15,7 +15,7 @@ _Context: Petro Poroshenko, Stepan Kubiv, Ukraine, country's central bank_
 ### [The Malaysian Maritime Enforcement Agency reports that a boat carrying 97 Indonesians has capsized with 66 missing. ](/news/2014/06/18/the-malaysian-maritime-enforcement-agency-reports-that-a-boat-carrying-97-indonesians-has-capsized-with-66-missing.md)
 _Context: Indonesia, Malaysian Maritime Enforcement Agency_
 
-### [[http://www.ustornadoes.com/2014/06/23/tornado-digest-after-three-big-days-in-june-will-we-finish-the-month-strong/ June 16th- 18th Tornado outbreak] continues. Tornadoes rip through parts of the northern plains region again affecting mainly South Dakota. Two towns hard hit are Wessington Springs, SD, by an EF2 tornado, and Alpena, SD, by an EF4 tornado.](/news/2014/06/18/http-www-ustornadoes-com-2014-06-23-tornado-digest-after-three-big-days-in-june-will-we-finish-the-month-strong-june-16th-18th-tornado.md)
+### [[http:--www.ustornadoes.com-2014-06-23-tornado-digest-after-three-big-days-in-june-will-we-finish-the-month-strong- June 16th- 18th Tornado outbreak] continues. Tornadoes rip through parts of the northern plains region again affecting mainly South Dakota. Two towns hard hit are Wessington Springs, SD, by an EF2 tornado, and Alpena, SD, by an EF4 tornado.](/news/2014/06/18/http-www-ustornadoes-com-2014-06-23-tornado-digest-after-three-big-days-in-june-will-we-finish-the-month-strong-june-16th-18th-tornado.md)
 _Context: Alpena, SD, Wessington Springs, SD_
 
 ### [Luxembourg's Chamber of Deputies votes to equalize same-sex marriage and adoption rights from 1 January, 2015. ](/news/2014/06/18/luxembourg-s-chamber-of-deputies-votes-to-equalize-same-sex-marriage-and-adoption-rights-from-1-january-2015.md)

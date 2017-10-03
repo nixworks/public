@@ -1,6 +1,6 @@
 ## [2011-03-7](/news/2011/03/7/index.md)
 
-### [NATO decides to increase surveillance flights over Libya to a 24/7 basis. ](/news/2011/03/7/nato-decides-to-increase-surveillance-flights-over-libya-to-a-24-7-basis.md)
+### [NATO decides to increase surveillance flights over Libya to a 24-7 basis. ](/news/2011/03/7/nato-decides-to-increase-surveillance-flights-over-libya-to-a-24-7-basis.md)
 Two Arab newspapers and alJazeera television said on Monday Libyan leader Muammar Gaddafiwas looking for an agreement allowing him to step down, butthere was no official confirmation of the reports.
 
 ### [Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shots-are-fired.md)
@@ -43,7 +43,7 @@ _Context: Pacific Ocean, Solomon Islands, earthquake_
 _Context: Tibet, unrest in 2008_
 
 ### [Yang Jiechi, the Foreign Minister of the People's Republic of China, warns the United States that relations between China and the US will deteriorate if it sells weapons to Taiwan. ](/news/2011/03/7/yang-jiechi-the-foreign-minister-of-the-people-s-republic-of-china-warns-the-united-states-that-relations-between-china-and-the-us-will-de.md)
-_Context: Foreign Minister, Taiwan, U.S., Yang_
+_Context: Americans, Foreign Minister, Taiwan, Yang_
 
 ### [Robert Gates, the United States Secretary of Defense, arrives in Afghanistan to meet with the President of Afghanistan Hamid Karzai. ](/news/2011/03/7/robert-gates-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai.md)
 Defense Secretary Robert Gates described the mistaken killing of nine Afghan boys by NATO aircraft as a &quot;setback&quot; on Monday as the issue overshadowed a visit to Afghanistan to assess security progress.
@@ -73,7 +73,7 @@ _Context: 2012, John Ensign, Nevada, Senator_
 US President Barack Obama is lifting the two-year freeze on new military trials for detainees at the Guantanamo Bay prison.
 
 ### [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md)
-_Context: ABC News, Barack Obama, China, Gary Locke, U.S., U.S. President, United States Secretary of Commerce_
+_Context: ABC News, Americans, Barack Obama, China, Gary Locke, U.S. President, United States Secretary of Commerce_
 
 ### [A possible discovery of extraterrestrial life forms in samples of CI1 meteorites is reported in the "Journal of Cosmology" by Richard B. Hoover. ](/news/2011/03/7/a-possible-discovery-of-extraterrestrial-life-forms-in-samples-of-ci1-meteorites-is-reported-in-the-journal-of-cosmology-by-richard-b-hoo.md)
 Top NASA scientists have hosed down claims from a colleague that fossils of alien microbes were found in meteorites.

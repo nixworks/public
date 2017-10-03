@@ -6,7 +6,7 @@ _Context: Moscow - Saint Petersburg Railway, Russia, Uglovka, derails, passenger
 ### [ Tiger Woods, the world's number one golfer, is hospitalised after sustaining injuries in a car crash in Orlando, Florida, USA. ](/news/2009/11/27/tiger-woods-the-world-s-number-one-golfer-is-hospitalised-after-sustaining-injuries-in-a-car-crash-in-orlando-florida-usa.md)
 Tiger Woods, the world&#039;s number one golfer, was injured in a car accident near his Florida home, police said last night.
 
-### [ The World Health Organization reports a one-week global increase of more than 1,000 deaths (85% increase in Europe) from the pandemic H1N1/09 virus. ](/news/2009/11/27/the-world-health-organization-reports-a-one-week-global-increase-of-more-than-1-000-deaths-85-increase-in-europe-from-the-pandemic-h1n1.md)
+### [ The World Health Organization reports a one-week global increase of more than 1,000 deaths (85% increase in Europe) from the pandemic H1N1-09 virus. ](/news/2009/11/27/the-world-health-organization-reports-a-one-week-global-increase-of-more-than-1-000-deaths-85-increase-in-europe-from-the-pandemic-h1n1.md)
 _Context: World Health Organization, pandemic H1N1/09 virus_
 
 ### [ A ferry carrying over 1000 people partially sinks in the Tetulia river in southern Bangladesh, trapping an unknown number of people. ](/news/2009/11/27/a-ferry-carrying-over-1000-people-partially-sinks-in-the-tetulia-river-in-southern-bangladesh-trapping-an-unknown-number-of-people.md)
@@ -52,7 +52,7 @@ _Context: European Commissioner, Jose Manuel Barroso, President of the European 
 _Context: STS-129, Space Shuttle Atlantis_
 
 ### [ A mass shooting at a Thanksgiving party in Jupiter, Florida, United States kills four people and critically wounds a fifth. ](/news/2009/11/27/a-mass-shooting-at-a-thanksgiving-party-in-jupiter-florida-united-states-kills-four-people-and-critically-wounds-a-fifth.md)
-_Context: Florida, Jupiter, Thanksgiving, U.S., shooting_
+_Context: Americans, Florida, Jupiter, Thanksgiving, shooting_
 
 ## [Previous Day...](/news/2009/11/26/index.md)
 

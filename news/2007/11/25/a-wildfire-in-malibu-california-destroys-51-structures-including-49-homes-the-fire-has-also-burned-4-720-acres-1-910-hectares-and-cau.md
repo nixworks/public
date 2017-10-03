@@ -1,6 +1,6 @@
 ### [2007-11-25](/news/2007/11/25/index.md)
 
-#  A wildfire in Malibu, California, destroys 51 structures, including 49 homes. The fire has also burned 4,720 acres (1,910 hectares) and caused the evacuation of 10,000 people. It is currently 40% contained, being fueled by Santa Ana winds that gusted up to 60 mph (96 km/h) on November 24. 
+#  A wildfire in Malibu, California, destroys 51 structures, including 49 homes. The fire has also burned 4,720 acres (1,910 hectares) and caused the evacuation of 10,000 people. It is currently 40% contained, being fueled by Santa Ana winds that gusted up to 60 mph (96 km-h) on November 24. 
 
 
 

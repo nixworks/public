@@ -24,7 +24,7 @@ _Context: Malaysia_
 ### [The Metropolitan Police Service restores order in Tottenham, north London, after a riot on Saturday night in which twenty-six police officers were injured. ](/news/2011/08/7/the-metropolitan-police-service-restores-order-in-tottenham-north-london-after-a-riot-on-saturday-night-in-which-twenty-six-police-officer.md)
 More than 40 people are arrested after rioting saw police attacked, buildings looted and vehicles set alight in Tottenham, north London.
 
-### [Nepal bans smoking in public places. [http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_699698.html ("Straits Times")](/news/2011/08/7/nepal-bans-smoking-in-public-places-http-www-straitstimes-com-breakingnews-asia-story-stistory_699698-html-straits-times.md)
+### [Nepal bans smoking in public places. [http:--www.straitstimes.com-BreakingNews-Asia-Story-STIStory_699698.html ("Straits Times")](/news/2011/08/7/nepal-bans-smoking-in-public-places-http-www-straitstimes-com-breakingnews-asia-story-stistory_699698-html-straits-times.md)
 _Context: Nepal, smoking_
 
 ### [The Cambridgeshire Guided Busway, the longest guided busway in the world, opens after years of delays. ](/news/2011/08/7/the-cambridgeshire-guided-busway-the-longest-guided-busway-in-the-world-opens-after-years-of-delays.md)

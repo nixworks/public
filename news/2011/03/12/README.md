@@ -31,7 +31,7 @@ South Sudan says it is suspending talks with the north, accusing President Bashi
 _Context: Australia, Christmas Island, Christmas Island Immigration Detention Centre, asylum seeker_
 
 ### [United States aid worker Alan Gross is sentenced to 15 years in a Cuban jail, ostensibly for working to undermine the Government of Cuba. ](/news/2011/03/12/united-states-aid-worker-alan-gross-is-sentenced-to-15-years-in-a-cuban-jail-ostensibly-for-working-to-undermine-the-government-of-cuba.md)
-_Context: Cuba, Government of Cuba, U.S._
+_Context: Americans, Cuba, Government of Cuba_
 
 ### [Tens of thousands of Portuguese young people march in protest at budget cuts. ](/news/2011/03/12/tens-of-thousands-of-portuguese-young-people-march-in-protest-at-budget-cuts.md)
 _Context: Portugal_

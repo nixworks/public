@@ -21,7 +21,7 @@ _Context: Iraq, Nasiriyah_
 ### [ At least eight people die as a tornado hits Riegelwood, North Carolina as thunderstorms move through the southern United States. One other person died in the larger tornado outbreak. ](/news/2006/11/16/at-least-eight-people-die-as-a-tornado-hits-riegelwood-north-carolina-as-thunderstorms-move-through-the-southern-united-states-one-other.md)
 _Context: Riegelwood, North Carolina, Southern United States, as a tornado hits, tornado outbreak_
 
-### [ The European Commission plan to charge EUR39.60 ($51 / GBP27) green tax per return ticket on long haul flights from and to the EU by 2011, angering U.S. airline companies as they will need to buy permits to cover their European emissions. ](/news/2006/11/16/the-european-commission-plan-to-charge-a-39-60-51-agbp27-green-tax-per-return-ticket-on-long-haul-flights-from-and-to-the-eu-by-2011.md)
+### [ The European Commission plan to charge EUR39.60 ($51 - GBP27) green tax per return ticket on long haul flights from and to the EU by 2011, angering U.S. airline companies as they will need to buy permits to cover their European emissions. ](/news/2006/11/16/the-european-commission-plan-to-charge-a-39-60-51-agbp27-green-tax-per-return-ticket-on-long-haul-flights-from-and-to-the-eu-by-2011.md)
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Mirza Tahir Hussain, a British citizen sentenced to death in Pakistan, has his sentence commuted to life imprisonment after intervention by the President of Pakistan, Pervez Musharraf. ](/news/2006/11/16/mirza-tahir-hussain-a-british-citizen-sentenced-to-death-in-pakistan-has-his-sentence-commuted-to-life-imprisonment-after-intervention-by.md)

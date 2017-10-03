@@ -31,7 +31,7 @@ _Context: China_
 _Context: Bank of Korea, South Korea, inflation, interest rate_
 
 ### [Moody's downgrades Spain's credit rating to Aa2 due to the cost of restructuring the Spanish banking system. ](/news/2011/03/10/moody-s-downgrades-spain-s-credit-rating-to-aa2-due-to-the-cost-of-restructuring-the-spanish-banking-system.md)
-_Context: Moody's, Spanish, credit rating_
+_Context: Moody's, Spain, credit rating_
 
 ### [Flood waters cut off access to towns in North Queensland. ](/news/2011/03/10/flood-waters-cut-off-access-to-towns-in-north-queensland.md)
 _Context: floods, north Queensland_

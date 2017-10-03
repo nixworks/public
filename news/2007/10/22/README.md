@@ -21,7 +21,7 @@ _Context: Southern California, evacuation centers, wildfires_
 ### [ Joaquim Chissano wins the inaugural Prize for Achievement in African Leadership for "his role in leading Mozambique from conflict to peace and democracy." ](/news/2007/10/22/joaquim-chissano-wins-the-inaugural-prize-for-achievement-in-african-leadership-for-his-role-in-leading-mozambique-from-conflict-to-peace.md)
 _Context: Joaquim Chissano, Mozambique, Prize for Achievement in African Leadership, conflict, democratic progress_
 
-### [ Georgia and Slovakia offer to send troops to support the Australian/Dutch taskforce in the south of the Afghanistan as the Dutch government is under pressure to reduce troops. ](/news/2007/10/22/georgia-and-slovakia-offer-to-send-troops-to-support-the-australian-dutch-taskforce-in-the-south-of-the-afghanistan-as-the-dutch-government.md)
+### [ Georgia and Slovakia offer to send troops to support the Australian-Dutch taskforce in the south of the Afghanistan as the Dutch government is under pressure to reduce troops. ](/news/2007/10/22/georgia-and-slovakia-offer-to-send-troops-to-support-the-australian-dutch-taskforce-in-the-south-of-the-afghanistan-as-the-dutch-government.md)
 _Context: Afghanistan, Australia, Georgian, Netherlands, Slovakia_
 
 ### [ The Pakistan Peoples Party (PPP) demands general elections in Pakistan in two months time.date=December 2007 ](/news/2007/10/22/the-pakistan-peoples-party-ppp-demands-general-elections-in-pakistan-in-two-months-time-date-december-2007.md)

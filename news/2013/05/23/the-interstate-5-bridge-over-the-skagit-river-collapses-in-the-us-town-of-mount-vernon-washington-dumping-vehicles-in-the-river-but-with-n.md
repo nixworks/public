@@ -14,4 +14,4 @@ A Washington state bridge over a river collapsed last night, dumping two vehicle
 
 ### Related:
 
-1. [At least 10 people are killed after a tour bus collides with a FedEx truck on Interstate 5 near Orland, California. [http://www.cnn.com/2014/04/10/us/california-bus-crash/index.html?hpt=hp_t2 (CNN)] [http://www.usatoday.com/story/news/nation/2014/04/10/calif-crash-9-killed/7579275/ "(USA Today)"]](/news/2014/04/10/at-least-10-people-are-killed-after-a-tour-bus-collides-with-a-fedex-truck-on-interstate-5-near-orland-california-http-www-cnn-com-2014.md) _Context: Interstate 5_
+1. [At least 10 people are killed after a tour bus collides with a FedEx truck on Interstate 5 near Orland, California. [http:--www.cnn.com-2014-04-10-us-california-bus-crash-index.html?hpt=hp_t2 (CNN)] [http:--www.usatoday.com-story-news-nation-2014-04-10-calif-crash-9-killed-7579275- "(USA Today)"]](/news/2014/04/10/at-least-10-people-are-killed-after-a-tour-bus-collides-with-a-fedex-truck-on-interstate-5-near-orland-california-http-www-cnn-com-2014.md) _Context: Interstate 5_

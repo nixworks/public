@@ -3,7 +3,7 @@
 ### [ The United Nations is to evacuate some staff from Sudan's West Darfur state because of an increase in violence. U.N. officials said that the violence had hindered aid access to 650,000 refugees in the region. ](/news/2005/10/13/the-united-nations-is-to-evacuate-some-staff-from-sudan-s-west-darfur-state-because-of-an-increase-in-violence-u-n-officials-said-that-th.md)
 _Context: Sudan, United Nations, West Darfur_
 
-### [ "Right to Information Act" 2005, (Act No. 22/2005) law enacted by the Parliament of India giving citizens of India access to Government records, came into force in India. [http://righttoinformation.gov.in/ (RTIAct) ]](/news/2005/10/13/right-to-information-act-2005-act-no-22-2005-law-enacted-by-the-parliament-of-india-giving-citizens-of-india-access-to-government-rec.md)
+### [ "Right to Information Act" 2005, (Act No. 22-2005) law enacted by the Parliament of India giving citizens of India access to Government records, came into force in India. [http:--righttoinformation.gov.in- (RTIAct) ]](/news/2005/10/13/right-to-information-act-2005-act-no-22-2005-law-enacted-by-the-parliament-of-india-giving-citizens-of-india-access-to-government-rec.md)
 _Context: India, Right to Information Act_
 
 ### [ ABC investigative reporter Brian Ross reports that security at nuclear reactors on U.S. college campuses is easily compromised. ](/news/2005/10/13/abc-investigative-reporter-brian-ross-reports-that-security-at-nuclear-reactors-on-u-s-college-campuses-is-easily-compromised.md)

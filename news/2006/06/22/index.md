@@ -1,6 +1,6 @@
 ## [2006-06-22](/news/2006/06/22/index.md)
 
-### [ The International Astronomical Union officially names Pluto's recently discovered moons, S/2005 P 2 and S/2005 P 1, Nix (after Nyx, the Greek Goddess of Darkness) and Hydra (multi-headed monster from Greek myth) respectively. ](/news/2006/06/22/the-international-astronomical-union-officially-names-pluto-s-recently-discovered-moons-s-2005-p-2-and-s-2005-p-1-nix-after-nyx-the-gre.md)
+### [ The International Astronomical Union officially names Pluto's recently discovered moons, S-2005 P 2 and S-2005 P 1, Nix (after Nyx, the Greek Goddess of Darkness) and Hydra (multi-headed monster from Greek myth) respectively. ](/news/2006/06/22/the-international-astronomical-union-officially-names-pluto-s-recently-discovered-moons-s-2005-p-2-and-s-2005-p-1-nix-after-nyx-the-gre.md)
 _Context: Greek Goddess, Hydra, International Astronomical Union, Nix, Nyx, Pluto, multi-headed monster, mythical_
 
 ### [ East Timor President Xanana Gusmo threatens to resign over the social unrest in his country. ](/news/2006/06/22/east-timor-president-xanana-gusmao-threatens-to-resign-over-the-social-unrest-in-his-country.md)

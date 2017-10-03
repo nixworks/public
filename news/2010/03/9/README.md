@@ -54,7 +54,7 @@ _Context: Democracy Stadium, Dominique Mbonyumutwa, Gitarama, president_
 ### [Dublin's Tallaght Hospital blames "systemic and process failures" for more than 57,000 X-rays taken between 2005 and 2009 not being reviewed by medical professionals and admits at least two patients received incorrect treatment, one of whom has since died and the other who is receiving cancer treatment. ](/news/2010/03/9/dublin-s-tallaght-hospital-blames-systemic-and-process-failures-for-more-than-57-000-x-rays-taken-between-2005-and-2009-not-being-reviewed.md)
 A patient died when their diagnosis was delayed at Tallaght Hospital because x-rays were not reviewed by a consultant radiologist.
 
-### [Sir Nicholas Winton and Denis Avey are presented with the new British Hero of the Holocaust medal by Prime Minister Gordon Brown. [http://www.telegraph.co.uk/news/newstopics/britainatwar/7402443/Britons-honoured-for-holocaust-heroism.html "(Daily Telegraph)"]](/news/2010/03/9/sir-nicholas-winton-and-denis-avey-are-presented-with-the-new-british-hero-of-the-holocaust-medal-by-prime-minister-gordon-brown-http-ww.md)
+### [Sir Nicholas Winton and Denis Avey are presented with the new British Hero of the Holocaust medal by Prime Minister Gordon Brown. [http:--www.telegraph.co.uk-news-newstopics-britainatwar-7402443-Britons-honoured-for-holocaust-heroism.html "(Daily Telegraph)"]](/news/2010/03/9/sir-nicholas-winton-and-denis-avey-are-presented-with-the-new-british-hero-of-the-holocaust-medal-by-prime-minister-gordon-brown-http-ww.md)
 _Context: British Hero of the Holocaust, Denis Avey, Gordon Brown, Prime Minister, Sir Nicholas Winton_
 
 ### [Pink Floyd take legal action against EMI. ](/news/2010/03/9/pink-floyd-take-legal-action-against-emi.md)

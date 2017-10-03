@@ -1,6 +1,6 @@
 ### [2005-06-14](/news/2005/06/14/index.md)
 
-#  Asafa Powell breaks the world record in the 100 meters (328 feet, 1 inch) Tuesday with a 9.77 clocking at the Athens, Greece Olympic Stadium, making him the world's fastest human at 36.85 km/h (22.9 mi/h). 
+#  Asafa Powell breaks the world record in the 100 meters (328 feet, 1 inch) Tuesday with a 9.77 clocking at the Athens, Greece Olympic Stadium, making him the world's fastest human at 36.85 km-h (22.9 mi-h). 
 
 
 

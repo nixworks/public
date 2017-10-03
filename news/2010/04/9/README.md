@@ -51,7 +51,7 @@ _Context: Afghanistan, CV-22 Osprey, Taliban, Zabiullah Mujahid, air force_
 ### [Associate Justice John Paul Stevens of the U.S. Supreme Court announces his retirement after serving on the court for 34 years. ](/news/2010/04/9/associate-justice-john-paul-stevens-of-the-u-s-supreme-court-announces-his-retirement-after-serving-on-the-court-for-34-years.md)
 _Context: John Paul Stevens, Justice, United States Supreme Court_
 
-### [American and Russian physicists announce the creation of ununseptium, atomic element number 117. [http://www.cbc.ca/technology/story/2010/04/09/tech-chemistry-element-117.html (CBC News)] "[http://www.nytimes.com/2010/04/07/science/07element.html?src=mv New York Times]"](/news/2010/04/9/american-and-russian-physicists-announce-the-creation-of-ununseptium-atomic-element-number-117-http-www-cbc-ca-technology-story-2010-04.md)
+### [American and Russian physicists announce the creation of ununseptium, atomic element number 117. [http:--www.cbc.ca-technology-story-2010-04-09-tech-chemistry-element-117.html (CBC News)] "[http:--www.nytimes.com-2010-04-07-science-07element.html?src=mv New York Times]"](/news/2010/04/9/american-and-russian-physicists-announce-the-creation-of-ununseptium-atomic-element-number-117-http-www-cbc-ca-technology-story-2010-04.md)
 _Context: ununseptium_
 
 ### [ 4.1-magnitude earthquake jolts northern Chinese city of Tangshan. ](/news/2010/04/9/4-1-magnitude-earthquake-jolts-northern-chinese-city-of-tangshan.md)

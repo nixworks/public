@@ -1,6 +1,6 @@
 ### [2016-08-28](/news/2016/08/28/index.md)
 
-# The Indian Space agency ISRO successfully tests its Scramjet engines. Two scramjet engines were mounted alongside of a two-stage, solid fueled rocket called Advanced Technology Vehicle (ATV), which is an advanced sounding rocket. Scramjet engines were then ignited when ATV achieved a speed of Mach 6 (7350 km/hr) at an altitude of 20 km. 
+# The Indian Space agency ISRO successfully tests its Scramjet engines. Two scramjet engines were mounted alongside of a two-stage, solid fueled rocket called Advanced Technology Vehicle (ATV), which is an advanced sounding rocket. Scramjet engines were then ignited when ATV achieved a speed of Mach 6 (7350 km-hr) at an altitude of 20 km. 
 
 The test-flight of the indigenously-developed supersonic combustion ramjet engine took place from the Satish Dhawan Space Centre in Sriharikota at 6 a.m.
 

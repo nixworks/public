@@ -9,7 +9,7 @@ Yemen&#39;s president has declared a state of emergency after at least 25 protes
 ### [Disputed Cote d'Ivoire President Laurent Gbagbo calls on civilians to join in the fighting to "neutralise" supporters of Alassane Ouattara. ](/news/2011/03/18/disputed-ca-te-d-ivoire-president-laurent-gbagbo-calls-on-civilians-to-join-in-the-fighting-to-neutralise-supporters-of-alassane-ouattara.md)
 The shelling of an Abidjan market by Ivory Coast security forces which killed at least 25 people may be a crime against humanity, the UN says.
 
-### [Clashes between the Sudan People's Liberation Army/Movement and rebel forces led by George Athor kill 70 people in South Sudan. ](/news/2011/03/18/clashes-between-the-sudan-people-s-liberation-army-movement-and-rebel-forces-led-by-george-athor-kill-70-people-in-south-sudan.md)
+### [Clashes between the Sudan People's Liberation Army-Movement and rebel forces led by George Athor kill 70 people in South Sudan. ](/news/2011/03/18/clashes-between-the-sudan-people-s-liberation-army-movement-and-rebel-forces-led-by-george-athor-kill-70-people-in-south-sudan.md)
 Two days of fighting between the South Sudan army and rebels have killed about 70 people, officials say.
 
 ### [The "Sankei Shimbun" newspaper reports that the Government of Japan plans to issue more than 10 trillion yen in emergency government bonds to help pay for the recovery effort from the 2011 Sendai earthquake and tsunami. ](/news/2011/03/18/the-sankei-shimbun-newspaper-reports-that-the-government-of-japan-plans-to-issue-more-than-10-trillion-yen-in-emergency-government-bonds-t.md)

@@ -1,6 +1,6 @@
 ## [2013-09-17](/news/2013/09/17/index.md)
 
-### [The videogame company Rockstar Games releases its fifth installment of the Grand Theft Auto series Grand Theft Auto V, which nets 800 million U.S. Dollars on its launch day. [http://www.independent.co.uk/life-style/gadgets-and-tech/news/gta-5-takes-500m-in-24-hours-making-it-the-most-successful-entertainment-property-ever-8825856.html]](/news/2013/09/17/the-videogame-company-rockstar-games-releases-its-fifth-installment-of-the-grand-theft-auto-series-grand-theft-auto-v-which-nets-800-millio.md)
+### [The videogame company Rockstar Games releases its fifth installment of the Grand Theft Auto series Grand Theft Auto V, which nets 800 million U.S. Dollars on its launch day. [http:--www.independent.co.uk-life-style-gadgets-and-tech-news-gta-5-takes-500m-in-24-hours-making-it-the-most-successful-entertainment-property-ever-8825856.html]](/news/2013/09/17/the-videogame-company-rockstar-games-releases-its-fifth-installment-of-the-grand-theft-auto-series-grand-theft-auto-v-which-nets-800-millio.md)
 _Context: Grand Theft Auto, Grand Theft Auto V, Rockstar Games_
 
 ### [The head of a United Nations war crimes tribunal states that it is investigating 14 alleged instances of chemical weapons attacks. ](/news/2013/09/17/the-head-of-a-united-nations-war-crimes-tribunal-states-that-it-is-investigating-14-alleged-instances-of-chemical-weapons-attacks.md)
@@ -13,7 +13,7 @@ Dozens of civilians held by Muslim rebels in a stand-off in the Philippine south
 _Context: ''Costa Concordia'' disaster, Costa Concordia, Italy, Tuscany_
 
 ### [Iranian President Hassan Rouhani confirmed he had contacted U.S. President Barack Obama via letters. Both countries cut all diplomatic relations after the Iranian Hostage Crisis in 1980. ](/news/2013/09/17/iranian-president-hassan-rouhani-confirmed-he-had-contacted-u-s-president-barack-obama-via-letters-both-countries-cut-all-diplomatic-relat.md)
-_Context: Barack Obama, Hassan Rouhani, Iran, Iranian Hostage Crisis, President, U.S., U.S. President_
+_Context: Americans, Barack Obama, Hassan Rouhani, Iran, Iranian Hostage Crisis, President, U.S. President_
 
 ### [Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami party, is sentenced to death for war crimes in the Bangladesh Liberation War in 1971. ](/news/2013/09/17/abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-party-is-sentenced-to-death-for-war-crimes-in-the-bangladesh-liberation-war.md)
 _Context: Bangladesh Jamaat-e-Islami, independence war, war crimes_

@@ -21,7 +21,7 @@ _Context: Aceh, Indonesia, earthquake_
 ### [ Singapore is elected by the International Olympic Committee as the first city to host the Youth Olympic Games in 2010. ](/news/2008/02/21/singapore-is-elected-by-the-international-olympic-committee-as-the-first-city-to-host-the-youth-olympic-games-in-2010.md)
 _Context: International Olympic Committee, Singapore, Youth Olympic Games_
 
-### [ An earthquake of 6.3 Magnitude hits 11.1 miles east/southeast of Wells, Nevada. It is 2.2 miles deep, and is felt as far away as Twin Falls, Idaho, about 125 miles away, and Salt Lake City, Utah, about 180 miles away. ](/news/2008/02/21/an-earthquake-of-6-3-magnitude-hits-11-1-miles-east-southeast-of-wells-nevada-it-is-2-2-miles-deep-and-is-felt-as-far-away-as-twin-falls.md)
+### [ An earthquake of 6.3 Magnitude hits 11.1 miles east-southeast of Wells, Nevada. It is 2.2 miles deep, and is felt as far away as Twin Falls, Idaho, about 125 miles away, and Salt Lake City, Utah, about 180 miles away. ](/news/2008/02/21/an-earthquake-of-6-3-magnitude-hits-11-1-miles-east-southeast-of-wells-nevada-it-is-2-2-miles-deep-and-is-felt-as-far-away-as-twin-falls.md)
 _Context: Salt Lake City, Twin Falls, Idaho, Wells, Nevada_
 
 ### [ Gazprom, Total and StatoilHydro incorporate the Shtokman Development Company, a joint operating company to develop the giant Shtokman gas field. ](/news/2008/02/21/gazprom-total-and-statoilhydro-incorporate-the-shtokman-development-company-a-joint-operating-company-to-develop-the-giant-shtokman-gas-f.md)

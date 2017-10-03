@@ -12,7 +12,7 @@ _Context: China, Chinese President, District of Columbia, Hu Jintao, New York Ci
 ### [ A unilateral three-month ceasefire is declared by Nepal's Maoist rebels as negotiations begin with an alliance of political parties. Their leader, Pushpa Kamal Dahal, said they would "not launch any offensive" during the truce. ](/news/2005/09/3/a-unilateral-three-month-ceasefire-is-declared-by-nepal-s-maoist-rebels-as-negotiations-begin-with-an-alliance-of-political-parties-their.md)
 _Context: Maoist supporters, Nepal, Pushpa Kamal Dahal, ceasefire, unilateral_
 
-### [ The Japan Meteorological Agency announces Category 5 Typhoon Nabi is set to hit Okinawa and the Ryukyu Islands and possibly Kyushu on Monday. [http://www.abc.net.au/news/newsitems/200509/s1452378.htm (ABC)]"'](/news/2005/09/3/the-japan-meteorological-agency-announces-category-5-typhoon-nabi-is-set-to-hit-okinawa-and-the-ryukyu-islands-and-possibly-kya-sha-on-mon.md)
+### [ The Japan Meteorological Agency announces Category 5 Typhoon Nabi is set to hit Okinawa and the Ryukyu Islands and possibly Kyushu on Monday. [http:--www.abc.net.au-news-newsitems-200509-s1452378.htm (ABC)]"'](/news/2005/09/3/the-japan-meteorological-agency-announces-category-5-typhoon-nabi-is-set-to-hit-okinawa-and-the-ryukyu-islands-and-possibly-kya-sha-on-mon.md)
 _Context: Japan Meteorological Agency, Kyushu, Okinawa Island, Ryukyu Islands, Saffir-Simpson Hurricane Scale, Typhoon Nabi_
 
 ### [ French President Jacques Chirac, 72, will be hospitalised for a week after suffering a "minor vascular incident" which is affecting his vision. ](/news/2005/09/3/french-president-jacques-chirac-72-will-be-hospitalised-for-a-week-after-suffering-a-minor-vascular-incident-which-is-affecting-his-vis.md)

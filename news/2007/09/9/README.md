@@ -1,9 +1,9 @@
 ## [2007-09-9](/news/2007/09/9/index.md)
 
-### [ The Lancet publishes a placebo controlled double blind study linking food additives to hyperactivity. ([http://www.sciencedaily.com/releases/2007/09/070909202847.htm Science Daily])](/news/2007/09/9/the-lancet-publishes-a-placebo-controlled-double-blind-study-linking-food-additives-to-hyperactivity-http-www-sciencedaily-com-release.md)
+### [ The Lancet publishes a placebo controlled double blind study linking food additives to hyperactivity. ([http:--www.sciencedaily.com-releases-2007-09-070909202847.htm Science Daily])](/news/2007/09/9/the-lancet-publishes-a-placebo-controlled-double-blind-study-linking-food-additives-to-hyperactivity-http-www-sciencedaily-com-release.md)
 _Context: The Lancet, double blind, food additives, hyperactivity, placebo_
 
-### [ Kevin Everett of the National Football League's Buffalo Bills suffers a life-threatening spinal cord injury in a game against the Denver Broncos. The surgeon who operated on him says Monday Everett is unlikely to walk again, assuming he survives. ([http://sports.yahoo.com/nfl/news;_ylt=Anq3P_Gq2fSSuR_vm9qwb81DubYF?slug=ap-bills-everetthurt&prov=ap&type=lgns AP via Yahoo])](/news/2007/09/9/kevin-everett-of-the-national-football-league-s-buffalo-bills-suffers-a-life-threatening-spinal-cord-injury-in-a-game-against-the-denver-br.md)
+### [ Kevin Everett of the National Football League's Buffalo Bills suffers a life-threatening spinal cord injury in a game against the Denver Broncos. The surgeon who operated on him says Monday Everett is unlikely to walk again, assuming he survives. ([http:--sports.yahoo.com-nfl-news;_ylt=Anq3P_Gq2fSSuR_vm9qwb81DubYF?slug=ap-bills-everetthurt&prov=ap&type=lgns AP via Yahoo])](/news/2007/09/9/kevin-everett-of-the-national-football-league-s-buffalo-bills-suffers-a-life-threatening-spinal-cord-injury-in-a-game-against-the-denver-br.md)
 _Context: Buffalo Bills, Denver Broncos, Kevin Everett, National Football League, spinal cord_
 
 ### [ A lorry carrying dynamite crashes and explodes near Sacramento in the Mexican state of Coahuila; scores of people are injured and 37 are killed, including three local reporters covering the story. ](/news/2007/09/9/a-lorry-carrying-dynamite-crashes-and-explodes-near-sacramento-in-the-mexican-state-of-coahuila-scores-of-people-are-injured-and-37-are-ki.md)
@@ -43,7 +43,7 @@ _Context: India, West Bengal, landslide_
 Nawaz Sharif, the exiled former prime minister of Pakistan, boarded a flight from London to Islamabad as he headed towards a showdown with President Pervez Musharraf, who has threatened him with arrest.
 
 ### [ Tropical Storm Gabrielle makes landfall near the Cape Lookout National Seashore in North Carolina, United States, and hooks over Cape Hatteras before returning to the Atlantic as a tropical depression, bringing much-needed rain to coastal North Carolina as well as some beach erosion. ](/news/2007/09/9/tropical-storm-gabrielle-makes-landfall-near-the-cape-lookout-national-seashore-in-north-carolina-united-states-and-hooks-over-cape-hatte.md)
-_Context: Cape Hatteras, Cape Lookout National Seashore, North Carolina, Tropical Storm Gabrielle, U.S., beach erosion_
+_Context: Americans, Cape Hatteras, Cape Lookout National Seashore, North Carolina, Tropical Storm Gabrielle, beach erosion_
 
 ### [ The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.md)
 The APEC summit in Sydney is drawing to a conclusion, with leaders working on their final statement.

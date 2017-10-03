@@ -15,7 +15,7 @@ _Context: Bob's Stores, Eastern Mountain Sports, Sports Direct, United Kingdom_
 ### [At least 20 schoolchildren are killed after their minibus collides with a truck in Mpumalanga, South Africa. ](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.md)
 The minibus exploded into a fireball and ended up on its side, trapping the victims inside.
 
-### [A U.S. Navy F/A-18 Hornet crashes in the Celebes Sea off the Philippines during an attempted landing on the USS "Carl Vinson". The pilot ejected and was recovered safely. ](/news/2017/04/21/a-u-s-navy-f-a-18-hornet-crashes-in-the-celebes-sea-off-the-philippines-during-an-attempted-landing-on-the-uss-carl-vinson-the-pilot-eje.md)
+### [A U.S. Navy F-A-18 Hornet crashes in the Celebes Sea off the Philippines during an attempted landing on the USS "Carl Vinson". The pilot ejected and was recovered safely. ](/news/2017/04/21/a-u-s-navy-f-a-18-hornet-crashes-in-the-celebes-sea-off-the-philippines-during-an-attempted-landing-on-the-uss-carl-vinson-the-pilot-eje.md)
 A Navy F/A-18E pilot has been safely recovered after ejecting from his fighter jet on final approach to the carrier Carl Vinson.
 
 ### [Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-the-suspect-held-put-options-on-borus.md)

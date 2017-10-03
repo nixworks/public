@@ -19,7 +19,7 @@ _Context: Athens, Germany, Greek_
 ### [10 people are killed in violence as Iraqi security forces dismantle an anti-government protest camp in the western city of Ramadi. ](/news/2013/12/30/10-people-are-killed-in-violence-as-iraqi-security-forces-dismantle-an-anti-government-protest-camp-in-the-western-city-of-ramadi.md)
 At least 10 people are killed in violence as Iraqi security forces dismantle an anti-government protest camp in the city of Ramadi.
 
-### [Cyclone Christine makes landfall in the Pilbara region of Western Australia, causing evacuations in Port Hedland and winds over 170 km/h in Roebourne ](/news/2013/12/30/cyclone-christine-makes-landfall-in-the-pilbara-region-of-western-australia-causing-evacuations-in-port-hedland-and-winds-over-170-km-h-in.md)
+### [Cyclone Christine makes landfall in the Pilbara region of Western Australia, causing evacuations in Port Hedland and winds over 170 km-h in Roebourne ](/news/2013/12/30/cyclone-christine-makes-landfall-in-the-pilbara-region-of-western-australia-causing-evacuations-in-port-hedland-and-winds-over-170-km-h-in.md)
 Port Hedland and Karratha residents are in lockdown as Cyclone Christine tracks towards WA&#039;s Pilbara.
 
 ### [A BNSF train carrying crude oil derails and catches fire near Casselton, North Dakota, USA, forcing the evacuation of the town. ](/news/2013/12/30/a-bnsf-train-carrying-crude-oil-derails-and-catches-fire-near-casselton-north-dakota-usa-forcing-the-evacuation-of-the-town.md)

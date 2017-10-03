@@ -18,10 +18,10 @@ _Context: Bristol, Broadmead, United Kingdom, World War II_
 ### [ Microsoft makes Windows Vista beta 2 available for general download. ](/news/2006/06/8/microsoft-makes-windows-vista-beta-2-available-for-general-download.md)
 _Context: Microsoft, Windows Vista_
 
-### [ Former Malaysian Prime Minister Mahathir bin Mohamad declares his successor, Abdullah Ahmad Badawi, betrayed his trust &mdash; Mahathir's strongest criticism of Abdullah's administration yet. ([http://www.malaysia-today.net/Blog-e/2006/06/velvet-gloves-come-off.htm Malaysia Today])](/news/2006/06/8/former-malaysian-prime-minister-mahathir-bin-mohamad-declares-his-successor-abdullah-ahmad-badawi-betrayed-his-trust-mdash-mahathir-s-s.md)
+### [ Former Malaysian Prime Minister Mahathir bin Mohamad declares his successor, Abdullah Ahmad Badawi, betrayed his trust &mdash; Mahathir's strongest criticism of Abdullah's administration yet. ([http:--www.malaysia-today.net-Blog-e-2006-06-velvet-gloves-come-off.htm Malaysia Today])](/news/2006/06/8/former-malaysian-prime-minister-mahathir-bin-mohamad-declares-his-successor-abdullah-ahmad-badawi-betrayed-his-trust-mdash-mahathir-s-s.md)
 _Context: Abdullah Ahmad Badawi, Mahathir Mohamad, Malaysian Prime Minister_
 
-### [ The U.S. House of Representatives definitively rejects the concept of Net neutrality ([http://news.zdnet.com/2100-9588_22-6081882.html ZDNet])](/news/2006/06/8/the-u-s-house-of-representatives-definitively-rejects-the-concept-of-net-neutrality-http-news-zdnet-com-2100-9588_22-6081882-html-zdne.md)
+### [ The U.S. House of Representatives definitively rejects the concept of Net neutrality ([http:--news.zdnet.com-2100-9588_22-6081882.html ZDNet])](/news/2006/06/8/the-u-s-house-of-representatives-definitively-rejects-the-concept-of-net-neutrality-http-news-zdnet-com-2100-9588_22-6081882-html-zdne.md)
 _Context: U.S. House of Representatives, net neutrality_
 
 ### [ In Game 1 of the NBA Finals (Dallas Mavericks vs. Miami Heat) the Mavs beat Miami 90-80.](/news/2006/06/8/in-game-1-of-the-nba-finals-dallas-mavericks-vs-miami-heat-the-mavs-beat-miami-90-80.md)

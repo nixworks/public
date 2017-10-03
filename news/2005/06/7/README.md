@@ -1,6 +1,6 @@
 ## [2005-06-7](/news/2005/06/7/index.md)
 
-### [ Hungarian opposition candidate Lszl Slyom wins the 2005 presidential election in a 185-182 victory over Katalin Szili. [http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2005/06/07/international/i133212D26.DTL]](/news/2005/06/7/hungarian-opposition-candidate-laszlo-solyom-wins-the-2005-presidential-election-in-a-185-182-victory-over-katalin-szili-http-www-sfgat.md)
+### [ Hungarian opposition candidate Lszl Slyom wins the 2005 presidential election in a 185-182 victory over Katalin Szili. [http:--www.sfgate.com-cgi-bin-article.cgi?f=-n-a-2005-06-07-international-i133212D26.DTL]](/news/2005/06/7/hungarian-opposition-candidate-laszlo-solyom-wins-the-2005-presidential-election-in-a-185-182-victory-over-katalin-szili-http-www-sfgat.md)
 _Context: Hungary, Katalin Szili, Lszl Slyom_
 
 ### [ United States Senator Jon Corzine wins the New Jersey Democratic Party gubernatorial primary. Doug Forrester, a former mayor, wins the New Jersey Republican Party gubernatorial primary after a heated contest with another former mayor, Bret Schundler. The November 2005 election will be the first since Governor James McGreevey resigned over a scandal in which he was revealed to be homosexual. ](/news/2005/06/7/united-states-senator-jon-corzine-wins-the-new-jersey-democratic-party-gubernatorial-primary-doug-forrester-a-former-mayor-wins-the-new.md)

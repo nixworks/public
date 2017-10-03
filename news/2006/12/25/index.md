@@ -1,6 +1,6 @@
 ## [2006-12-25](/news/2006/12/25/index.md)
 
-### [ Iraqi insurgency: Soldiers from the British Army storm a police headquarters in Basra, Iraq, arresting allegedly corrupt officers, transferring prisoners thought to have been subject to torture, and demolishing the building. [http://news.bbc.co.uk/1/hi/world/middle_east/6208535.stm]](/news/2006/12/25/iraqi-insurgency-soldiers-from-the-british-army-storm-a-police-headquarters-in-basra-iraq-arresting-allegedly-corrupt-officers-transfer.md)
+### [ Iraqi insurgency: Soldiers from the British Army storm a police headquarters in Basra, Iraq, arresting allegedly corrupt officers, transferring prisoners thought to have been subject to torture, and demolishing the building. [http:--news.bbc.co.uk-1-hi-world-middle_east-6208535.stm]](/news/2006/12/25/iraqi-insurgency-soldiers-from-the-british-army-storm-a-police-headquarters-in-basra-iraq-arresting-allegedly-corrupt-officers-transfer.md)
 _Context: Basra, British Army, Iraq, Iraqi insurgency_
 
 ### [ James Brown, the "Godfather of Soul," dies of heart failure at the age of 73. ](/news/2006/12/25/james-brown-the-godfather-of-soul-dies-of-heart-failure-at-the-age-of-73.md)

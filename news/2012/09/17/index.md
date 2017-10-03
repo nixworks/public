@@ -37,10 +37,10 @@ _Context: Indians, Jubail, Saudi Arabia_
 A ripped condom given to Swedish police by one of Julian Assange’s accusers does not contain the WikiLeaks founder’s DNA, forensic scientists have reportedly found.
 
 ### [United States and Japanese government officials agree to put a second missile defence system in Japan. ](/news/2012/09/17/united-states-and-japanese-government-officials-agree-to-put-a-second-missile-defence-system-in-japan.md)
-_Context: Japan, U.S._
+_Context: Americans, Japan_
 
 ### [Nobel Laureate Aung San Suu Kyi begins a 17-day tour of the United States in a bid to help ease economic sanctions on Myanmar. ](/news/2012/09/17/nobel-laureate-aung-san-suu-kyi-begins-a-17-day-tour-of-the-united-states-in-a-bid-to-help-ease-economic-sanctions-on-myanmar.md)
-_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, U.S._
+_Context: Americans, Aung San Suu Kyi, Myanmar, Nobel Laureate_
 
 ### [French police announce that they are exploring the possibility that Sylvain Mollier, and not the al-Hilli family, may have been the intended target in the Annecy murders. ](/news/2012/09/17/french-police-announce-that-they-are-exploring-the-possibility-that-sylvain-mollier-and-not-the-al-hilli-family-may-have-been-the-intended.md)
 A French cyclist who was shot dead alongside a British family in a massacre in the Alps may have been the &#034;main target&#034; of the massacre, police have suggested.

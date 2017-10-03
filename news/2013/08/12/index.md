@@ -21,7 +21,7 @@ The UK government is considering &quot;unprecedented&quot; legal action against 
 ### [American mob boss Whitey Bulger is convicted of racketeering. ](/news/2013/08/12/american-mob-boss-whitey-bulger-is-convicted-of-racketeering.md)
 _Context: Whitey Bulger, mob boss_
 
-### [U.S. Attorney General Eric Holder, in a major policy shift in the War on Drugs, announces that the federal government, following some states' stances, will direct its prosecutors to no longer insist on automatic mandatory minimum prison sentences for non-violent, low-level, non-repeat offender drug offenses where the defendant is not involved with gangs and/or cartels. ](/news/2013/08/12/u-s-attorney-general-eric-holder-in-a-major-policy-shift-in-the-war-on-drugs-announces-that-the-federal-government-following-some-states.md)
+### [U.S. Attorney General Eric Holder, in a major policy shift in the War on Drugs, announces that the federal government, following some states' stances, will direct its prosecutors to no longer insist on automatic mandatory minimum prison sentences for non-violent, low-level, non-repeat offender drug offenses where the defendant is not involved with gangs and-or cartels. ](/news/2013/08/12/u-s-attorney-general-eric-holder-in-a-major-policy-shift-in-the-war-on-drugs-announces-that-the-federal-government-following-some-states.md)
 _Context: Eric Holder, War on Drugs, mandatory minimum_
 
 ### [Ibrahim Boubacar Keta is elected as President of Mali. Although results have not yet been made official, his opponent Soumala Ciss has conceded defeat in the election. ](/news/2013/08/12/ibrahim-boubacar-keita-is-elected-as-president-of-mali-although-results-have-not-yet-been-made-official-his-opponent-soumaila-cisse-has-co.md)

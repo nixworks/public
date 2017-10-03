@@ -27,7 +27,7 @@ _Context: Kashmir_
 ### [ Five British Embassy workers kidnapped in Ethiopia twelve days ago have been set free in neighbouring Eritrea. ](/news/2007/03/13/five-british-embassy-workers-kidnapped-in-ethiopia-twelve-days-ago-have-been-set-free-in-neighbouring-eritrea.md)
 _Context: Eritrea, Ethiopia_
 
-### [ The first match of the 2007 Cricket World Cup, between West Indies and Pakistan, takes place at Sabina Park in Jamaica. The West Indies win by 54 runs.([http://news.bbc.co.uk/sport1/hi/cricket/6441789.stm BBC])](/news/2007/03/13/the-first-match-of-the-2007-cricket-world-cup-between-west-indies-and-pakistan-takes-place-at-sabina-park-in-jamaica-the-west-indies-win.md)
+### [ The first match of the 2007 Cricket World Cup, between West Indies and Pakistan, takes place at Sabina Park in Jamaica. The West Indies win by 54 runs.([http:--news.bbc.co.uk-sport1-hi-cricket-6441789.stm BBC])](/news/2007/03/13/the-first-match-of-the-2007-cricket-world-cup-between-west-indies-and-pakistan-takes-place-at-sabina-park-in-jamaica-the-west-indies-win.md)
 _Context: 2007 Cricket World Cup, Jamaica, Pakistan national cricket team, Sabina Park, West Indies, run_
 
 ### [ A draft Climate Change Bill is published in the United Kingdom, outlining a framework for achieving a mandatory 60% cut in carbon emissions by 2050. ](/news/2007/03/13/a-draft-climate-change-bill-is-published-in-the-united-kingdom-outlining-a-framework-for-achieving-a-mandatory-60-cut-in-carbon-emissions.md)

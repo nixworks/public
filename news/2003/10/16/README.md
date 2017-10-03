@@ -16,7 +16,7 @@ _Context: Chris Patten, Israel, Israeli-Palestinian conflict, Palestinians_
 ### [ China's first astronaut, Yang Liwei returns to earth safely aboard a Shenzhou spacecraft, Shenzhou 5. During the 21-hour trip, he circled the planet 14 times.](/news/2003/10/16/china-s-first-astronaut-yang-liwei-returns-to-earth-safely-aboard-a-shenzhou-spacecraft-shenzhou-5-during-the-21-hour-trip-he-circled-t.md)
 _Context: Shenzhou 5, Yang Liwei_
 
-### [ Apple launches its iTunes Music Store, an online download music store, for the Microsoft Windows platform. The iTunes software can be downloaded from [http://www.apple.com/ apple.com] for free.](/news/2003/10/16/apple-launches-its-itunes-music-store-an-online-download-music-store-for-the-microsoft-windows-platform-the-itunes-software-can-be-downl.md)
+### [ Apple launches its iTunes Music Store, an online download music store, for the Microsoft Windows platform. The iTunes software can be downloaded from [http:--www.apple.com- apple.com] for free.](/news/2003/10/16/apple-launches-its-itunes-music-store-an-online-download-music-store-for-the-microsoft-windows-platform-the-itunes-software-can-be-downl.md)
 _Context: Apple Computer, Microsoft Windows_
 
 ## [Previous Day...](/news/2003/10/15/index.md)

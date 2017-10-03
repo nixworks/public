@@ -15,7 +15,7 @@ _Context: Chandrayaan-1, India, Moon_
 ### [ The United Nations Security Council, headed by world leaders, unanimously approve Resolution 1887 to prevent the proliferation of nuclear weapons. ](/news/2009/09/24/the-united-nations-security-council-headed-by-world-leaders-unanimously-approve-resolution-1887-to-prevent-the-proliferation-of-nuclear-w.md)
 The United Nations council unanimously passed a resolution aimed at shoring up commitment to limiting nuclear weapons.
 
-### [ Thailand and the U.S. Army announce a breakthrough of a HIV/AIDS vaccine, after trials find it can reduce infection by 31%. ](/news/2009/09/24/thailand-and-the-u-s-army-announce-a-breakthrough-of-a-hiv-aids-vaccine-after-trials-find-it-can-reduce-infection-by-31.md)
+### [ Thailand and the U.S. Army announce a breakthrough of a HIV-AIDS vaccine, after trials find it can reduce infection by 31%. ](/news/2009/09/24/thailand-and-the-u-s-army-announce-a-breakthrough-of-a-hiv-aids-vaccine-after-trials-find-it-can-reduce-infection-by-31.md)
 _Context: AIDS, HIV, Thailand_
 
 ### [ Arthur's Day: The 250th anniversary of the signing of a lease by Arthur Guinness for a brewery at St James's Gate in Dublin. Events organised by Diageo get underway in Dublin, Kuala Lumpur, Lagos, New York and Yaounde. ](/news/2009/09/24/arthur-s-day-the-250th-anniversary-of-the-signing-of-a-lease-by-arthur-guinness-for-a-brewery-at-st-james-s-gate-in-dublin-events-organis.md)
@@ -39,14 +39,14 @@ The largest hoard of Anglo-Saxon gold ever found comprises more than 1,500 items
 ### [ The "News of the World" and "Daily Mail" newspapers apologise to Fabio Capello, the manager of England's national football team, after printing pictures of him and his wife Laura resting in mud-baths on an Italian beach. ](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers-apologise-to-fabio-capello-the-manager-of-england-s-national-football-team-after-prin.md)
 _Context: Daily Mail, England, England, Fabio Capello, Italy, News of the World, mud-bath_
 
-### [ South Korea agrees to develop 1,000 km<sup>2</sup> (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km2-386-sq-miles-of-farmland-in-tanzania.md)
+### [ South Korea agrees to develop 1,000 km 2 (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km-2-386-sq-miles-of-farmland-in-tanzania.md)
 _Context: South Korea, Tanzania_
 
 ### [ A painting worth up to 3 million euros by surrealist artist Rene Magritte is stolen by thieves at a museum in Brussels. ](/news/2009/09/24/a-painting-worth-up-to-3-million-euros-by-surrealist-artist-rena-c-magritte-is-stolen-by-thieves-at-a-museum-in-brussels.md)
 _Context: Brussels, EUR, Rene Magritte, surrealist_
 
 ### [ Detained Burmese National League for Democracy leader Aung San Suu Kyi welcomes a new United States policy shift which would engage with the Burmese military government. ](/news/2009/09/24/detained-burmese-national-league-for-democracy-leader-aung-san-suu-kyi-welcomes-a-new-united-states-policy-shift-which-would-engage-with-th.md)
-_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, U.S._
+_Context: Americans, Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council_
 
 ### [ A court in Taiwan rejects former President Chen Shui-bian's appeal to be released on bail. ](/news/2009/09/24/a-court-in-taiwan-rejects-former-president-chen-shui-bian-s-appeal-to-be-released-on-bail.md)
 _Context: Chen Shui-bian, President of Taiwan, Taiwan_

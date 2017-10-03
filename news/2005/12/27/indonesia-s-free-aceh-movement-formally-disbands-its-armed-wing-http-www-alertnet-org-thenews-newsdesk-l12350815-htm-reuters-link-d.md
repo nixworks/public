@@ -1,6 +1,6 @@
 ### [2005-12-27](/news/2005/12/27/index.md)
 
-#  Indonesia's Free Aceh Movement formally disbands its armed wing. [http://www.alertnet.org/thenews/newsdesk/L12350815.htm (Reuters)] (Link dead as of 21:18, 14 January 2007 (UTC))
+#  Indonesia's Free Aceh Movement formally disbands its armed wing. [http:--www.alertnet.org-thenews-newsdesk-L12350815.htm (Reuters)] (Link dead as of 21:18, 14 January 2007 (UTC))
 
 
 
@@ -12,8 +12,3 @@
 3. [ Representatives of Indonesian government and the Free Aceh Movement reach a tentative peace settlement in negoations in Helsinki, Finland. They intend to sign a formal truce in August 15. ](/news/2005/07/17/representatives-of-indonesian-government-and-the-free-aceh-movement-reach-a-tentative-peace-settlement-in-negoations-in-helsinki-finland.md) _Context: GAM, Indonesia_
 4. [ Negotiations in Helsinki between the government of Indonesia and Free Aceh Movement end "constructively", according to mediator Martti Ahtisaari. Talks are scheduled to continue in May. ](/news/2005/04/17/negotiations-in-helsinki-between-the-government-of-indonesia-and-free-aceh-movement-end-constructively-according-to-mediator-martti-ahti.md) _Context: GAM, Indonesia_
 5. [ Vice President of Indonesia, Jusuf Kalla, states that he was pleased with the progress of talks with Free Aceh Movement in Finland. Government still opposes independence ](/news/2005/02/25/vice-president-of-indonesia-jusuf-kalla-states-that-he-was-pleased-with-the-progress-of-talks-with-free-aceh-movement-in-finland-governm.md) _Context: GAM, Indonesia_
-6. [ 2004 Indian Ocean earthquake and tsunami: Three Free Aceh Movement (GAM) rebels are killed in a clash with the Indonesian military in the northern Aceh province. Fighting broke out apparently when Indonesian troops attempted to escort aid trucks. Both sides claim the other are taking advantage of the devastation left from the tsunamis. ](/news/2005/01/4/2004-indian-ocean-earthquake-and-tsunami-three-free-aceh-movement-gam-rebels-are-killed-in-a-clash-with-the-indonesian-military-in-the-n.md) _Context: GAM, Indonesia_
-7. [ Talks between the Indonesian government and Free Aceh Movement leaders in Helsinki end a day early, possibly signaling a breakdown in negotiations. ](/news/2005/01/30/talks-between-the-indonesian-government-and-free-aceh-movement-leaders-in-helsinki-end-a-day-early-possibly-signaling-a-breakdown-in-negot.md) _Context: GAM, Indonesia_
-8. [ According to Finland-based Crisis Management Initiative group, Free Aceh Movement and the Indonesian government have agreed to negotiate for ceasefire in Helsinki. ](/news/2005/01/24/according-to-finland-based-crisis-management-initiative-group-free-aceh-movement-and-the-indonesian-government-have-agreed-to-negotiate-fo.md) _Context: GAM, Indonesia_
-9. [ Indonesian foreign minister Hassan Wirayuda says that he wishes to start formal peace talks with Free Aceh Movement. ](/news/2005/01/19/indonesian-foreign-minister-hassan-wirayuda-says-that-he-wishes-to-start-formal-peace-talks-with-free-aceh-movement.md) _Context: GAM, Indonesia_
-10. [ In Indonesia, rebels of the Free Aceh Movement called for ceasefire ](/news/2005/01/13/in-indonesia-rebels-of-the-free-aceh-movement-called-for-ceasefire.md) _Context: GAM, Indonesia_

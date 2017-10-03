@@ -15,7 +15,7 @@ In light of the UN report to be submitted next week, IDF advocate general opens 
 ### [Residents of the Galapagos Islands conduct a strike and protest over decisions by the Ecuador National Assembly to axe cost of living subsidies causing cancellation of flights to and from the islands. ](/news/2015/06/12/residents-of-the-gala-pagos-islands-conduct-a-strike-and-protest-over-decisions-by-the-ecuador-national-assembly-to-axe-cost-of-living-subsi.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Public school teachers in the Brazilian state of SGBPo Paulo vote to return to work after three months of strike action. [http://www.bbc.com/news/world-latin-america-33120843 (BBC)]|](/news/2015/06/12/public-school-teachers-in-the-brazilian-state-of-sagbpo-paulo-vote-to-return-to-work-after-three-months-of-strike-action-http-www-bbc-co.md)
+### [Public school teachers in the Brazilian state of SGBPo Paulo vote to return to work after three months of strike action. [http:--www.bbc.com-news-world-latin-america-33120843 (BBC)]|](/news/2015/06/12/public-school-teachers-in-the-brazilian-state-of-sagbpo-paulo-vote-to-return-to-work-after-three-months-of-strike-action-http-www-bbc-co.md)
 _Context: Brazil, SGBPo Paulo_
 
 ### [Japan approves a thirty-to-forty year plan to clean up the site of the Fukushima Daiichi nuclear disaster. ](/news/2015/06/12/japan-approves-a-thirty-to-forty-year-plan-to-clean-up-the-site-of-the-fukushima-daiichi-nuclear-disaster.md)

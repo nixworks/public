@@ -76,7 +76,7 @@ Two people remain in detention in connection with alleged attack plot in Gothenb
 ### [Fourteen people are killed by gunmen at a soccer field in San Pedro Sula, Honduras. ](/news/2010/10/30/fourteen-people-are-killed-by-gunmen-at-a-soccer-field-in-san-pedro-sula-honduras.md)
 _Context: Honduras, San Pedro Sula, soccer_
 
-### [An estimated 200,000 people attend the Rally to Restore Sanity and/or Fear by political satirists Jon Stewart and Stephen Colbert on the National Mall in Washington, D.C. ](/news/2010/10/30/an-estimated-200-000-people-attend-the-rally-to-restore-sanity-and-or-fear-by-political-satirists-jon-stewart-and-stephen-colbert-on-the-nat.md)
+### [An estimated 200,000 people attend the Rally to Restore Sanity and-or Fear by political satirists Jon Stewart and Stephen Colbert on the National Mall in Washington, D.C. ](/news/2010/10/30/an-estimated-200-000-people-attend-the-rally-to-restore-sanity-and-or-fear-by-political-satirists-jon-stewart-and-stephen-colbert-on-the-nat.md)
 Gathering in Washington called attempt to inject humour and tone down partisan division.
 
 ### [Harriet Harman, the deputy leader of the British Labour Party, issues an apology for branding Danny Alexander, a member of the British Government, a "ginger rodent". Mr Alexander tweets in response: "I am proud to be ginger and rodents do valuable work cleaning up mess others leave behind". ](/news/2010/10/30/harriet-harman-the-deputy-leader-of-the-british-labour-party-issues-an-apology-for-branding-danny-alexander-a-member-of-the-british-gover.md)

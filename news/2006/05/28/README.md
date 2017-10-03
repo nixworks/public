@@ -9,7 +9,7 @@ _Context: 2006 Cannes Film Festival, Ken Loach, Palme d'Or, The Wind That Shakes
 ### [ Comoros volcano Mount Karthala erupts. ](/news/2006/05/28/comoros-volcano-mount-karthala-erupts.md)
 _Context: Comoros, Mount Karthala_
 
-### [ Barry Bonds hits his 715th home run against the Colorado Rockies, passing Babe Ruth to move into second place on the list of all-time home run hitters. ([http://abcnews.go.com/Sports/wireStory?id=2014629 ABC News])](/news/2006/05/28/barry-bonds-hits-his-715th-home-run-against-the-colorado-rockies-passing-babe-ruth-to-move-into-second-place-on-the-list-of-all-time-home.md)
+### [ Barry Bonds hits his 715th home run against the Colorado Rockies, passing Babe Ruth to move into second place on the list of all-time home run hitters. ([http:--abcnews.go.com-Sports-wireStory?id=2014629 ABC News])](/news/2006/05/28/barry-bonds-hits-his-715th-home-run-against-the-colorado-rockies-passing-babe-ruth-to-move-into-second-place-on-the-list-of-all-time-home.md)
 _Context: Babe Ruth, Barry Bonds, Colorado Rockies, home run_
 
 ### [ Sam Hornish, Jr. wins the 90th Indianapolis 500 in the second-closest finish in race history.](/news/2006/05/28/sam-hornish-jr-wins-the-90th-indianapolis-500-in-the-second-closest-finish-in-race-history.md)

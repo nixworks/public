@@ -22,7 +22,7 @@ Federal government to take a fresh look at oil shale development in the West
 _Context: 2011 Tohoku earthquake and tsunami, Japan, Sendai Airport_
 
 ### [The United States requests the release of one of its citizens detained in North Korea. ](/news/2011/04/13/the-united-states-requests-the-release-of-one-of-its-citizens-detained-in-north-korea.md)
-_Context: North Korea, U.S._
+_Context: Americans, North Korea_
 
 ### [The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md)
 The Palestinian government in the West Bank is now largely ready to govern a state, a United Nations report says.

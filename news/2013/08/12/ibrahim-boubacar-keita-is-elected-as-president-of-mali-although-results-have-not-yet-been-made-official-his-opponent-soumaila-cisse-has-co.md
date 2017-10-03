@@ -17,4 +17,3 @@
 3. [Mali lifts a state of emergency ahead of a presidential election. ](/news/2013/07/6/mali-lifts-a-state-of-emergency-ahead-of-a-presidential-election.md) _Context: the election_
 4. [Voters in Mali go to the polls for a presidential election. ](/news/2013/07/28/voters-in-mali-go-to-the-polls-for-a-presidential-election.md) _Context: the election_
 5. [The President of Mali Amadou Toumani Toure resigns as part of a deal with coup leaders. ](/news/2012/04/8/the-president-of-mali-amadou-toumani-toure-resigns-as-part-of-a-deal-with-coup-leaders.md) _Context: President of Mali_
-6. [Dioncounda Traore is sworn in as the interim President of Mali, marking a transition back to civilian rule following last month's coup. ](/news/2012/04/12/dioncounda-traore-is-sworn-in-as-the-interim-president-of-mali-marking-a-transition-back-to-civilian-rule-following-last-month-s-coup.md) _Context: President of Mali_

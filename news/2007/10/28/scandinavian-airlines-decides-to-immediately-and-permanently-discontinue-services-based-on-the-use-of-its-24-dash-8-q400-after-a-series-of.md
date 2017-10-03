@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [ Bombardier Aerospace orders the grounding of at least 40 percent of its Q-400 turboprop following recent incidents in Scandinavian Airlines aircraft in Denmark and Lithuania. [http://ap.google.com/article/ALeqM5j9dgF42S_3YlUzE-B4hqLtKEdusA (Associated Press)] (Wikinews)](/news/2007/09/12/bombardier-aerospace-orders-the-grounding-of-at-least-40-percent-of-its-q-400-turboprop-following-recent-incidents-in-scandinavian-airlines.md) _Context: Dash 8 Q400, Scandinavian Airlines_
+1. [ Bombardier Aerospace orders the grounding of at least 40 percent of its Q-400 turboprop following recent incidents in Scandinavian Airlines aircraft in Denmark and Lithuania. [http:--ap.google.com-article-ALeqM5j9dgF42S_3YlUzE-B4hqLtKEdusA (Associated Press)] (Wikinews)](/news/2007/09/12/bombardier-aerospace-orders-the-grounding-of-at-least-40-percent-of-its-q-400-turboprop-following-recent-incidents-in-scandinavian-airlines.md) _Context: Dash 8 Q400, Scandinavian Airlines_
 2. [ Linate Airport disaster: MD-87 of Scandinavian Airlines collides first with a private plane and then a building at Linate Airport in Milan, Italy, killing 100.](/news/2001/10/8/linate-airport-disaster-md-87-of-scandinavian-airlines-collides-first-with-a-private-plane-and-then-a-building-at-linate-airport-in-milan.md) _Context: Scandinavian Airlines_

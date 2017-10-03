@@ -36,7 +36,7 @@ _Context: Fallujah, Iraq interim government, states of emergency_
 ### [ Illness of Yasser Arafat: A spokesman for Yasser Arafat claims that all the Palestinian president's vital functions are fine although it remains unclear why Arafat has not regained consciousness and if or when he will. ](/news/2004/11/6/illness-of-yasser-arafat-a-spokesman-for-yasser-arafat-claims-that-all-the-palestinian-president-s-vital-functions-are-fine-although-it-re.md)
 _Context: Illness of Yasser Arafat, Yasser Arafat, consciousness_
 
-### [ The Ralph Nader/Peter Camejo campaign has filed a challenge to the voting results in New Hampshire after receiving numerous complaints from voting rights activists. This effort is widely encouraged by Democrats and Independents due to suspected flaws related to Diebold Election Systems voting machines. ](/news/2004/11/6/the-ralph-nader-peter-camejo-campaign-has-filed-a-challenge-to-the-voting-results-in-new-hampshire-after-receiving-numerous-complaints-from.md)
+### [ The Ralph Nader-Peter Camejo campaign has filed a challenge to the voting results in New Hampshire after receiving numerous complaints from voting rights activists. This effort is widely encouraged by Democrats and Independents due to suspected flaws related to Diebold Election Systems voting machines. ](/news/2004/11/6/the-ralph-nader-peter-camejo-campaign-has-filed-a-challenge-to-the-voting-results-in-new-hampshire-after-receiving-numerous-complaints-from.md)
 _Context: Diebold Election Systems, New Hampshire, Peter Camejo, Ralph Nader_
 
 ## [Previous Day...](/news/2004/11/5/index.md)

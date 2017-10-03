@@ -39,7 +39,7 @@ New $60m loan approved for quake-devastated nation.
 ### [A proposal to develop nuclear energy is discussed at an energy policy meeting held by Asean in Da Lat, Vietnam. ](/news/2010/07/22/a-proposal-to-develop-nuclear-energy-is-discussed-at-an-energy-policy-meeting-held-by-asean-in-da-lat-vietnam.md)
 Vietnam calls on its neighbours in the Asean regional group to adopt nuclear power to meet energy demands.
 
-### [Volunteers use their hands to clean an oil spill in the Yellow Sea after pipelines burst off Dalian in Northeastern China's Liaoning Province, spilling 1,500 tonnes of oil and covering an area close to 1,000 km<sup>2</sup> and about 90 km of coast. ](/news/2010/07/22/volunteers-use-their-hands-to-clean-an-oil-spill-in-the-yellow-sea-after-pipelines-burst-off-dalian-in-northeastern-china-s-liaoning-provinc.md)
+### [Volunteers use their hands to clean an oil spill in the Yellow Sea after pipelines burst off Dalian in Northeastern China's Liaoning Province, spilling 1,500 tonnes of oil and covering an area close to 1,000 km 2 and about 90 km of coast. ](/news/2010/07/22/volunteers-use-their-hands-to-clean-an-oil-spill-in-the-yellow-sea-after-pipelines-burst-off-dalian-in-northeastern-china-s-liaoning-provinc.md)
 _Context: China, Dalian, Liaoning province, Northeastern China, Yellow Sea, oil pipeline, oil spill_
 
 ### [Tornado strikes Battle Creek, Michigan](/news/2010/07/22/tornado-strikes-battle-creek-michigan.md)
@@ -64,7 +64,7 @@ _Context: Chad, International Criminal Court_
 _Context: Fiji, Voreqe Bainimarama_
 
 ### [The United States decides to resume training Indonesian soldiers after 12 years. ](/news/2010/07/22/the-united-states-decides-to-resume-training-indonesian-soldiers-after-12-years.md)
-_Context: Indonesia, U.S._
+_Context: Americans, Indonesia_
 
 ### [Israel warns the United Nations that two ships carrying aid to Gaza would not, by "all necessary means", be allowed to reach their destination. ](/news/2010/07/22/israel-warns-the-united-nations-that-two-ships-carrying-aid-to-gaza-would-not-by-all-necessary-means-be-allowed-to-reach-their-destinati.md)
 Israel warned the United Nations on Thursday that two ships preparing to sail from Lebanon to the Gaza Strip to bring aid to the blockaded territory would not be allowed to reach their destination.

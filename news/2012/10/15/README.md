@@ -33,7 +33,7 @@ Norodom Sihanouk, the former Cambodian king who was a key figure through decades
 ### [British Prime Minister David Cameron and Scottish First Minister Alex Salmond agree a deal setting out the terms of a referendum on Scottish independence at a meeting in Edinburgh. ](/news/2012/10/15/british-prime-minister-david-cameron-and-scottish-first-minister-alex-salmond-agree-a-deal-setting-out-the-terms-of-a-referendum-on-scottish.md)
 _Context: Alex Salmond, David Cameron, Edinburgh, First Minister, Prime Minister, deal, independence referendum_
 
-### [Ontario premier Dalton McGuinty announces his resignation. [http://www.thestar.com/news/canada/article/1271913--premier-dalton-mcguinty-resigns (Toronto Star) ]](/news/2012/10/15/ontario-premier-dalton-mcguinty-announces-his-resignation-http-www-thestar-com-news-canada-article-1271913-premier-dalton-mcguinty-resi.md)
+### [Ontario premier Dalton McGuinty announces his resignation. [http:--www.thestar.com-news-canada-article-1271913--premier-dalton-mcguinty-resigns (Toronto Star) ]](/news/2012/10/15/ontario-premier-dalton-mcguinty-announces-his-resignation-http-www-thestar-com-news-canada-article-1271913-premier-dalton-mcguinty-resi.md)
 _Context: Dalton McGuinty, Ontario_
 
 ### [Virgin Trains is asked to continue running the rail franchise for UK's West Coast Main Line following the cancellation of a deal to award the contract to another company when errors were made in the way in which the process was conducted. ](/news/2012/10/15/virgin-trains-is-asked-to-continue-running-the-rail-franchise-for-uk-s-west-coast-main-line-following-the-cancellation-of-a-deal-to-award-th.md)

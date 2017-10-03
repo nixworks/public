@@ -1,6 +1,6 @@
 ### [2013-07-11](/news/2013/07/11/index.md)
 
-# Six women climb western Europe's tallest skyscraper, The Shard, towering over Shell's headquarters in London, to protest against Arctic drilling. [http://www.bbc.co.uk/news/uk-england-london-23267743 (BBC) ]
+# Six women climb western Europe's tallest skyscraper, The Shard, towering over Shell's headquarters in London, to protest against Arctic drilling. [http:--www.bbc.co.uk-news-uk-england-london-23267743 (BBC) ]
 
 
 

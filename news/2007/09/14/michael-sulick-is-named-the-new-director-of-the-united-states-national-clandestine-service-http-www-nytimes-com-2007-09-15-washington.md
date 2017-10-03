@@ -1,6 +1,6 @@
 ### [2007-09-14](/news/2007/09/14/index.md)
 
-#  Michael Sulick is named the new Director of the United States' National Clandestine Service. [http://www.nytimes.com/2007/09/15/washington/15cia.html]
+#  Michael Sulick is named the new Director of the United States' National Clandestine Service. [http:--www.nytimes.com-2007-09-15-washington-15cia.html]
 
 
 

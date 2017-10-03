@@ -15,7 +15,7 @@ _Context: Akhmed Zakayev, Aslan Maskhadov, Chechnya_
 ### [ Colombia extradites captured FARC leader Omaira Rojas Cabrera, also known as "Sonia", to [US to face drug trafficking charges ](/news/2005/03/9/colombia-extradites-captured-farc-leader-omaira-rojas-cabrera-also-known-as-sonia-to-us-to-face-drug-trafficking-charges.md)
 _Context: Omaira Rojas Cabrera, Revolutionary Armed Forces of Colombia, drug trafficking, extradited_
 
-### [ Conflict in Iraq: Iraqi police discover the bullet-riddled and/or headless bodies of 41 people at two sites, one near the Syrian border, the other just south of Baghdad. ](/news/2005/03/9/conflict-in-iraq-iraqi-police-discover-the-bullet-riddled-and-or-headless-bodies-of-41-people-at-two-sites-one-near-the-syrian-border-th.md)
+### [ Conflict in Iraq: Iraqi police discover the bullet-riddled and-or headless bodies of 41 people at two sites, one near the Syrian border, the other just south of Baghdad. ](/news/2005/03/9/conflict-in-iraq-iraqi-police-discover-the-bullet-riddled-and-or-headless-bodies-of-41-people-at-two-sites-one-near-the-syrian-border-th.md)
 _Context: Baghdad, Conflict in Iraq, Iraqi Police_
 
 ### [ Israeli Defence Minister Shaul Mofaz and Palestinian head of the PNA Mahmoud Abbas have not agreed upon giving Jericho and Tulkarm to Palestinian security control, as early reports suggested, but talks continue. ](/news/2005/03/9/israeli-defence-minister-shaul-mofaz-and-palestinian-head-of-the-pna-mahmoud-abbas-have-not-agreed-upon-giving-jericho-and-tulkarm-to-pales.md)

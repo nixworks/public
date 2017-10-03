@@ -7,7 +7,7 @@ _Context: Archbishop, France, Marcel Lefebvre, Pope, Pope Benedict XVI, consecra
 A suicide car bomb aimed at African Union (AU) peacekeepers in the Somali capital missed its target and killed 14 civilians on Saturday, witnesses said.
 
 ### [ A European windstorm across France and Spain kills 15 people with hurricane-force winds. ](/news/2009/01/24/a-european-windstorm-across-france-and-spain-kills-15-people-with-hurricane-force-winds.md)
-_Context: Europe, European windstorm, France, Spanish, hurricane-force, kills_
+_Context: Europe, European windstorm, France, Spain, hurricane-force, kills_
 
 ### [ An avalanche in the Scottish Highlands kills three mountain climbers. ](/news/2009/01/24/an-avalanche-in-the-scottish-highlands-kills-three-mountain-climbers.md)
 Three men have died following an avalanche on a mountain near Glencoe in Scotland.

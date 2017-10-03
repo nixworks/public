@@ -1,6 +1,6 @@
 ### [2016-09-16](/news/2016/09/16/index.md)
 
-# The iPhone 7 was released by Apple, along with the Plus version. [http://www.techinsight.com/about-techinsights/overview/blog/apple-iphone-7-teardown/]
+# The iPhone 7 was released by Apple, along with the Plus version. [http:--www.techinsight.com-about-techinsights-overview-blog-apple-iphone-7-teardown-]
 
 
 

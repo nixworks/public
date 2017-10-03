@@ -1,6 +1,6 @@
 ### [2005-12-1](/news/2005/12/1/index.md)
 
-#  Ray Hanna, who died on this day in Switzerland, was an air-display pilot, regarded by many as the best of the best, and was well known for flying Spitfire Mk IX MH-434. He was with the Red Arrows from 1965 to 1971, and in that time was their longest serving - and some say their most influential - leader. He and his son, Mark Hanna, started the [http://www.ofmc.co.uk/mah/mah.htm Old Flying Machine Company] The Red Arrows paid [http://news.bbc.co.uk/1/hi/england/suffolk/4532334.stm tribute] to him with a flypast at his funeral.
+#  Ray Hanna, who died on this day in Switzerland, was an air-display pilot, regarded by many as the best of the best, and was well known for flying Spitfire Mk IX MH-434. He was with the Red Arrows from 1965 to 1971, and in that time was their longest serving - and some say their most influential - leader. He and his son, Mark Hanna, started the [http:--www.ofmc.co.uk-mah-mah.htm Old Flying Machine Company] The Red Arrows paid [http:--news.bbc.co.uk-1-hi-england-suffolk-4532334.stm tribute] to him with a flypast at his funeral.
 
 
 

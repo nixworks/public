@@ -1,6 +1,6 @@
 ### [2008-09-14](/news/2008/09/14/index.md)
 
-#  The Georgian foreign ministry has released an official statement stating that 'In the villages of the Tskhinvali region/South Ossetia, Georgia, the separatist regime continues carrying out persecution of local Georgian population based on their ethnic origin', adding that 'Once again it becomes evident that for the Russian government the ethnic cleansing remains as one of the main methods for achieving its political goals'. 
+#  The Georgian foreign ministry has released an official statement stating that 'In the villages of the Tskhinvali region-South Ossetia, Georgia, the separatist regime continues carrying out persecution of local Georgian population based on their ethnic origin', adding that 'Once again it becomes evident that for the Russian government the ethnic cleansing remains as one of the main methods for achieving its political goals'. 
 
 
 

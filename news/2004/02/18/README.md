@@ -3,7 +3,7 @@
 ### [ The California state agency that records marriages states that forms that have been altered, which San Francisco has done slightly on its same-sex marriage licenses, will not be registered. ](/news/2004/02/18/the-california-state-agency-that-records-marriages-states-that-forms-that-have-been-altered-which-san-francisco-has-done-slightly-on-its-s.md)
 _Context: California, agency, marriage license_
 
-### [ An [http://www.99mac.se/vbindex.php?id=34#more internal memo] suggests that Apple Computer has paid off its remaining 3 million dollars debts and is now debt-free with 4.8 billion dollars in cash.](/news/2004/02/18/an-http-www-99mac-se-vbindex-php-id-34-more-internal-memo-suggests-that-apple-computer-has-paid-off-its-remaining-3-million-dollars-deb.md)
+### [ An [http:--www.99mac.se-vbindex.php?id=34#more internal memo] suggests that Apple Computer has paid off its remaining 3 million dollars debts and is now debt-free with 4.8 billion dollars in cash.](/news/2004/02/18/an-http-www-99mac-se-vbindex-php-id-34-more-internal-memo-suggests-that-apple-computer-has-paid-off-its-remaining-3-million-dollars-deb.md)
 _Context: Apple Computer_
 
 ### [ At least 200 people are reported to have been killed in Iran after rail wagons carrying sulfur, petrol and fertiliser derailed and exploded. The accident happened near the town of Nishapur in Khorasan province. ](/news/2004/02/18/at-least-200-people-are-reported-to-have-been-killed-in-iran-after-rail-wagons-carrying-sulfur-petrol-and-fertiliser-derailed-and-exploded.md)

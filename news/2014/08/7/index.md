@@ -1,6 +1,6 @@
 ## [2014-08-7](/news/2014/08/7/index.md)
 
-### [The Islamic State captures a range of cities inhabited primarily by Assyrian/Chaldean Christians in Northern Iraq, notably Bakhdida, Bartella, Qaraqosh, Tel Keppe, Karamlish and Tel Isqof; thousands flee, while many Yazidis are caught in the newly-captured city of Sinjar. ](/news/2014/08/7/the-islamic-state-captures-a-range-of-cities-inhabited-primarily-by-assyrian-chaldean-christians-in-northern-iraq-notably-bakhdida-bartell.md)
+### [The Islamic State captures a range of cities inhabited primarily by Assyrian-Chaldean Christians in Northern Iraq, notably Bakhdida, Bartella, Qaraqosh, Tel Keppe, Karamlish and Tel Isqof; thousands flee, while many Yazidis are caught in the newly-captured city of Sinjar. ](/news/2014/08/7/the-islamic-state-captures-a-range-of-cities-inhabited-primarily-by-assyrian-chaldean-christians-in-northern-iraq-notably-bakhdida-bartell.md)
 Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.
 
 ### [Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/yemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md)

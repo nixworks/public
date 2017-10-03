@@ -15,7 +15,7 @@ _Context: Bohorok, Indonesia, North Sumatra_
 ### [Australian criminal Matthew Johnson is found guilty of the murder of drug boss Carl Williams in Victoria's Barwon Prison. ](/news/2011/09/29/australian-criminal-matthew-johnson-is-found-guilty-of-the-murder-of-drug-boss-carl-williams-in-victoria-s-barwon-prison.md)
 After three days of deliberations, a jury finds Matthew Johnson guilty of murdering drug boss Carl Williams in prison.
 
-### [The United Kingdom's Department for Transport announces a consultation process on raising the motorway speed limit to 80mph (128km/h). ](/news/2011/09/29/the-united-kingdom-s-department-for-transport-announces-a-consultation-process-on-raising-the-motorway-speed-limit-to-80mph-128km-h.md)
+### [The United Kingdom's Department for Transport announces a consultation process on raising the motorway speed limit to 80mph (128km-h). ](/news/2011/09/29/the-united-kingdom-s-department-for-transport-announces-a-consultation-process-on-raising-the-motorway-speed-limit-to-80mph-128km-h.md)
 The government is to launch a consultation on increasing the speed limit on English and Welsh motorways from 70mph to 80mph.
 
 ### [The German Bundestag votes to approve the European Financial Stability Facility. ](/news/2011/09/29/the-german-bundestag-votes-to-approve-the-european-financial-stability-facility.md)

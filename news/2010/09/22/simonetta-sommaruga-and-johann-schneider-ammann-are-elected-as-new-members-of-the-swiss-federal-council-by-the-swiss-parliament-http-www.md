@@ -1,6 +1,6 @@
 ### [2010-09-22](/news/2010/09/22/index.md)
 
-# Simonetta Sommaruga and Johann Schneider-Ammann are elected as new members of the Swiss Federal Council by the Swiss parliament. [http://www.parlament.ch/d/wahlen-abstimmungen/wahlen-im-parlament/bundesratswahlen/ruektritt-leuenberger-merz/Seiten/default.aspx "Swiss parliament dossier (german)"]
+# Simonetta Sommaruga and Johann Schneider-Ammann are elected as new members of the Swiss Federal Council by the Swiss parliament. [http:--www.parlament.ch-d-wahlen-abstimmungen-wahlen-im-parlament-bundesratswahlen-ruektritt-leuenberger-merz-Seiten-default.aspx "Swiss parliament dossier (german)"]
 
 
 

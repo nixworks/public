@@ -33,7 +33,7 @@ _Context: Gaza, Hamas, Israel, Israel Defense Forces, State of Palestine_
 ### [Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orders-the-release-of-most-people-de.md)
 _Context: President, Tunisia, Zine El Abidine Ben Ali_
 
-### [The Sudan People's Liberation Army/Movement estimates that turnout in the Southern Sudanese independence referendum has passed the 60% threshold for the result to be declared valid. ](/news/2011/01/12/the-sudan-people-s-liberation-army-movement-estimates-that-turnout-in-the-southern-sudanese-independence-referendum-has-passed-the-60-thres.md)
+### [The Sudan People's Liberation Army-Movement estimates that turnout in the Southern Sudanese independence referendum has passed the 60% threshold for the result to be declared valid. ](/news/2011/01/12/the-sudan-people-s-liberation-army-movement-estimates-that-turnout-in-the-southern-sudanese-independence-referendum-has-passed-the-60-thres.md)
 Officials say the 60 per cent benchmark needed to validate secession referendum has been met by fourth day of voting.
 
 ### [Lebanon's Government led by Prime Minister Saad Hariri collapses following the withdrawal of Hezbollah. ](/news/2011/01/12/lebanon-s-government-led-by-prime-minister-saad-hariri-collapses-following-the-withdrawal-of-hezbollah.md)

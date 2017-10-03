@@ -12,7 +12,7 @@ _Context: Iraq, antibiotic, dual-use technologies, flight simulator, medicine, r
 ### [A tanker, the "Amazonian Explorer", arrived in Puerto la Cruz, Venezuela, 200 kilometers east of Caracas, the capital. President Hugo Chavez traveled to the port to supervise the unloading of 525000 oilbbl of gasoline. Gasoline is restricted due to a strike at Petroleos de Venezuela SA (PdVSA), the state-owned oil company, which is aimed at forcing President Chavez to call early elections.](/news/2002/12/30/a-tanker-the-amazonian-explorer-arrived-in-puerto-la-cruz-venezuela-200-kilometers-east-of-caracas-the-capital-president-hugo-cha-ve.md)
 _Context: Caracas, Hugo Chavez, Petroleos de Venezuela SA, Puerto la Cruz, Venezuela_
 
-### [Crude oil futures on the New York market rose to $33 per barrel (208 $/m<sup>3</sup>) because of the Venezuelan oil strike and fears of war with Iraq.](/news/2002/12/30/crude-oil-futures-on-the-new-york-market-rose-to-33-per-barrel-208-m3-because-of-the-venezuelan-oil-strike-and-fears-of-war-with-iraq.md)
+### [Crude oil futures on the New York market rose to $33 per barrel (208 $-m 3 ) because of the Venezuelan oil strike and fears of war with Iraq.](/news/2002/12/30/crude-oil-futures-on-the-new-york-market-rose-to-33-per-barrel-208-m-3-because-of-the-venezuelan-oil-strike-and-fears-of-war-with-iraq.md)
 _Context: Venezuelan oil strike_
 
 ## [Previous Day...](/news/2002/12/29/index.md)

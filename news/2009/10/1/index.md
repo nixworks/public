@@ -36,7 +36,7 @@ _Context: Kismayo, Muslims, Somalian, port_
 ### [ Paleontologists announced the discovery of an "Ardipithecus ramidus" fossil skeleton, deeming it the oldest fossil skeleton of a human ancestor. ](/news/2009/10/1/paleontologists-announced-the-discovery-of-an-ardipithecus-ramidus-fossil-skeleton-deeming-it-the-oldest-fossil-skeleton-of-a-human-ance.md)
 Scientists said that Ardi, short for Ardipithecus ramidus, was the earliest known skeleton from the human branch of the primate family tree.
 
-### [ The Dow Jones loses over 200 points by the closing bell. [http://money.cnn.com/2009/10/01/markets/markets_newyork/index.htm?postversion=2009100116 (CNN) ]](/news/2009/10/1/the-dow-jones-loses-over-200-points-by-the-closing-bell-http-money-cnn-com-2009-10-01-markets-markets_newyork-index-htm-postversion-200.md)
+### [ The Dow Jones loses over 200 points by the closing bell. [http:--money.cnn.com-2009-10-01-markets-markets_newyork-index.htm?postversion=2009100116 (CNN) ]](/news/2009/10/1/the-dow-jones-loses-over-200-points-by-the-closing-bell-http-money-cnn-com-2009-10-01-markets-markets_newyork-index-htm-postversion-200.md)
 _Context: Dow Jones_
 
 ### [ Pakistan is to launch a greater campaign in South Waziristan against the Taliban. ](/news/2009/10/1/pakistan-is-to-launch-a-greater-campaign-in-south-waziristan-against-the-taliban.md)

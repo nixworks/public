@@ -39,7 +39,7 @@ _Context: Jimmy Wales, June 6, Time, Wikipedia_
 ### [ The chairman of the U.S. Securities and Exchange Commission, William Donaldson, announces that he will leave that post at the end of June. ](/news/2005/06/1/the-chairman-of-the-u-s-securities-and-exchange-commission-william-donaldson-announces-that-he-will-leave-that-post-at-the-end-of-june.md)
 _Context: Securities and Exchange Commission, William Donaldson_
 
-### [ In Crosby, Texas, United States of America an oil well owned by Louisiana Oil & Gas Co. exploded. <small>"<<NEWSLINK MISSING>>"</small>](/news/2005/06/1/in-crosby-texas-united-states-of-america-an-oil-well-owned-by-louisiana-oil-gas-co-exploded.md)
+### [ In Crosby, Texas, United States of America an oil well owned by Louisiana Oil & Gas Co. exploded. " >" ](/news/2005/06/1/in-crosby-texas-united-states-of-america-an-oil-well-owned-by-louisiana-oil-gas-co-exploded.md)
 _Context: Crosby, Texas, Louisiana Oil & Gas Co., United States of America_
 
 ## [Previous Day...](/news/2005/05/31/index.md)

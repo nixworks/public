@@ -25,12 +25,12 @@ The Pentagon will deploy more missile interceptors on the Pacific Coast to count
 A group of eight men have allegedly raped a 39-year-old Swiss tourist and assaulted her husband in the central Indian state of Madhya Pradesh.
 
 ### [Seven people are shot and wounded at a family gathering in an apparent gang-related drive-by shooting in Galt, California, United States. ](/news/2013/03/16/seven-people-are-shot-and-wounded-at-a-family-gathering-in-an-apparent-gang-related-drive-by-shooting-in-galt-california-united-states.md)
-_Context: California, Galt, U.S., drive-by shooting_
+_Context: Americans, California, Galt, drive-by shooting_
 
 ### [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.md)
 Zimbabweans have been voting in a key referendum on a new constitution that would limit future presidents to two terms in office.
 
-### [In Italy, Laura Boldrini, member of the left-wing party Left Ecology Freedom, is elected President of the Chamber of Deputies. Pietro Grasso, a former anti-mafia magistrate and member of the centre-left Democratic Party, is elected President of the Senate. ([http://www.repubblica.it/politica/2013/03/16/news/liveblogging_camera_senato_ii_giorno-54645681/ "La Repubblica"])](/news/2013/03/16/in-italy-laura-boldrini-member-of-the-left-wing-party-left-ecology-freedom-is-elected-president-of-the-chamber-of-deputies-pietro-grasso.md)
+### [In Italy, Laura Boldrini, member of the left-wing party Left Ecology Freedom, is elected President of the Chamber of Deputies. Pietro Grasso, a former anti-mafia magistrate and member of the centre-left Democratic Party, is elected President of the Senate. ([http:--www.repubblica.it-politica-2013-03-16-news-liveblogging_camera_senato_ii_giorno-54645681- "La Repubblica"])](/news/2013/03/16/in-italy-laura-boldrini-member-of-the-left-wing-party-left-ecology-freedom-is-elected-president-of-the-chamber-of-deputies-pietro-grasso.md)
 _Context: Democratic Party, Italy, Laura Boldrini, Left Ecology Freedom, Mafia, Pietro Grasso, President of the Chamber of Deputies, President of the Senate, centre-left, left-wing_
 
 ### [Giving his first audience at the Vatican, Pope Francis tells journalists he wants "a poor Church, for the poor". ](/news/2013/03/16/giving-his-first-audience-at-the-vatican-pope-francis-tells-journalists-he-wants-a-poor-church-for-the-poor.md)

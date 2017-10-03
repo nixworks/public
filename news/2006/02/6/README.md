@@ -10,7 +10,7 @@ _Context: Maaouiya Ould Taya, Mauritania, Woodside Petroleum_
 _Context: Alberto Gonzales, U.S. Senate Committee on the Judiciary, United States Attorney General, warrantless wiretapping_
 
 ### [ As Stephen Harper is sworn in as Canada's 22nd Prime Minister, David Emerson crosses the floor from the Liberal Party to join Harper's Conservative Party, and is appointed as Minister of International Trade. Harper also appointed Michael Fortier, an unelected party supporter, to minister of public works and government services and to the senate. ](/news/2006/02/6/as-stephen-harper-is-sworn-in-as-canada-s-22nd-prime-minister-david-emerson-crosses-the-floor-from-the-liberal-party-to-join-harper-s-cons.md)
-_Context: Canadian Prime Minister, Conservative Party's, David Emerson, Liberal Party's, Michael Fortier, Stephen Harper, crosses the floor_
+_Context: Conservative Party's, David Emerson, Liberal Party's, Michael Fortier, Prime Minister of Canada, Stephen Harper, crosses the floor_
 
 ### [ United States, Indonesian, and Australian scientists working in the Foja Mountains in eastern Papua, Indonesia, discover 20 previously unknown frog species, a new species of honeyeater, four new butterflies, and at least five new plants. Also discovered were a kangaroo unknown in Papua, and a six-wired bird-of-paradise, previously known only from dead specimens whose origin was unknown. ](/news/2006/02/6/united-states-indonesian-and-australian-scientists-working-in-the-foja-mountains-in-eastern-papua-indonesia-discover-20-previously-unkn.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.
@@ -24,7 +24,7 @@ _Context: Egypt, El Salam Maritime Transport, Red Sea, Safaga, al-Salam Boccacci
 ### [ Isabelle Dinoire, the French woman who received the world's first partial face transplant appears before the media for the first time, saying she expects to resume a normal life. ](/news/2006/02/6/isabelle-dinoire-the-french-woman-who-received-the-world-s-first-partial-face-transplant-appears-before-the-media-for-the-first-time-sayi.md)
 _Context: Isabelle Dinoire_
 
-### [ The Austrian Embassy in Tehran is pelted with stones by some 200 youths, in retaliation for the printing of the Muhammed Cartoons by three Austrian newspapers. [http://english.people.com.cn/200602/07/eng20060207_240614.html]](/news/2006/02/6/the-austrian-embassy-in-tehran-is-pelted-with-stones-by-some-200-youths-in-retaliation-for-the-printing-of-the-muhammed-cartoons-by-three.md)
+### [ The Austrian Embassy in Tehran is pelted with stones by some 200 youths, in retaliation for the printing of the Muhammed Cartoons by three Austrian newspapers. [http:--english.people.com.cn-200602-07-eng20060207_240614.html]](/news/2006/02/6/the-austrian-embassy-in-tehran-is-pelted-with-stones-by-some-200-youths-in-retaliation-for-the-printing-of-the-muhammed-cartoons-by-three.md)
 _Context: Muhammed Cartoons, Tehran, embassies_
 
 ## [Previous Day...](/news/2006/02/5/index.md)

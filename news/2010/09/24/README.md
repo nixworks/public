@@ -9,7 +9,7 @@ Barack Obama is to become the first American president to appear in The Beano, i
 ### [American satirist Stephen Colbert attracts media attention in his country by appearing before a United States Congress committee. ](/news/2010/09/24/american-satirist-stephen-colbert-attracts-media-attention-in-his-country-by-appearing-before-a-united-states-congress-committee.md)
 Satirist Stephen Colbert makes a controversial appearance before a US congressional committee discussing immigrant farm workers.
 
-### [Gold prices reach a record US$1,300/oz in a prolonged rally. ](/news/2010/09/24/gold-prices-reach-a-record-us-1-300-oz-in-a-prolonged-rally.md)
+### [Gold prices reach a record US$1,300-oz in a prolonged rally. ](/news/2010/09/24/gold-prices-reach-a-record-us-1-300-oz-in-a-prolonged-rally.md)
 _Context: Gold prices, rally_
 
 ### [Striking pilots from the state-owned Air Zimbabwe end their two week strike that grounded flights and left passengers stranded after a pay deal with the government in Zimbabwe. ](/news/2010/09/24/striking-pilots-from-the-state-owned-air-zimbabwe-end-their-two-week-strike-that-grounded-flights-and-left-passengers-stranded-after-a-pay-d.md)

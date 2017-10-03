@@ -18,7 +18,7 @@ _Context: Germany, Great Depression, Weimar Republic, unemployment_
 ### [ The cancellation of "Star Trek: Enterprise" is announced, marking the end of 18 consecutive years of "Star Trek" on television. ](/news/2005/02/2/the-cancellation-of-star-trek-enterprise-is-announced-marking-the-end-of-18-consecutive-years-of-star-trek-on-television.md)
 _Context: Star Trek, Star Trek Enterprise, television_
 
-### [ Jerusalem/Israel: Horst Kohler, President of Germany, has a special audience in the Knesset, the highest chamber of Israel. Speaking in German, he says that Germany has to fight more aggressively against anti-semitism and far-right parties. ](/news/2005/02/2/jerusalem-israel-horst-kaphler-president-of-germany-has-a-special-audience-in-the-knesset-the-highest-chamber-of-israel-speaking-in-ge.md)
+### [ Jerusalem-Israel: Horst Kohler, President of Germany, has a special audience in the Knesset, the highest chamber of Israel. Speaking in German, he says that Germany has to fight more aggressively against anti-semitism and far-right parties. ](/news/2005/02/2/jerusalem-israel-horst-kaphler-president-of-germany-has-a-special-audience-in-the-knesset-the-highest-chamber-of-israel-speaking-in-ge.md)
 _Context: German language, Germany, Horst Kohler, Israel, Jerusalem, anti-Semitism, parliament in Israel_
 
 ### [ Ariel Sharon, the Prime Minister of Israel, and Abu Mazen, the President of the Palestinian National Authority, are invited by Egypt to attend a summit at Sharm el-Sheikh. A Jordanian delegation will also attend. ](/news/2005/02/2/ariel-sharon-the-prime-minister-of-israel-and-abu-mazen-the-president-of-the-palestinian-national-authority-are-invited-by-egypt-to-att.md)
@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Spanish parliament rejects an appeal from the Basque regional government for more autonomy and a referendum for eventual independence. ](/news/2005/02/2/the-spanish-parliament-rejects-an-appeal-from-the-basque-regional-government-for-more-autonomy-and-a-referendum-for-eventual-independence.md)
-_Context: Basque, Spanish, autonomy, independent, referendum_
+_Context: Basque, Spain, autonomy, independent, referendum_
 
 ### [ The parliament of Slovenia ratifies the European Union Constitution. ](/news/2005/02/2/the-parliament-of-slovenia-ratifies-the-european-union-constitution.md)
 _Context: European Union Constitution, Slovenia_

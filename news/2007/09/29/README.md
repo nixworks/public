@@ -15,7 +15,7 @@ _Context: CIA, Iran, US army_
 ### [ Robert Levy, mayor of the U.S. city of Atlantic City, New Jersey, disappears on after being found to have embellished his Vietnam War record. ](/news/2007/09/29/robert-levy-mayor-of-the-u-s-city-of-atlantic-city-new-jersey-disappears-on-after-being-found-to-have-embellished-his-vietnam-war-recor.md)
 To most Americans Atlantic City is host to seedy casinos, poverty, crime, murder and corrupt politics.
 
-### [ The Geelong Football Club wins the 2007 AFL Grand Final at the Melbourne Cricket Ground in Melbourne, Australia by a record 119 points, the first win for the club since 1963. [http://www.realfooty.com.au/news/news/simply-smashing-cats-sweep-aside-years-of-pain/2007/09/29/1190486637657.html (BigFooty (part of The Age))]](/news/2007/09/29/the-geelong-football-club-wins-the-2007-afl-grand-final-at-the-melbourne-cricket-ground-in-melbourne-australia-by-a-record-119-points-the.md)
+### [ The Geelong Football Club wins the 2007 AFL Grand Final at the Melbourne Cricket Ground in Melbourne, Australia by a record 119 points, the first win for the club since 1963. [http:--www.realfooty.com.au-news-news-simply-smashing-cats-sweep-aside-years-of-pain-2007-09-29-1190486637657.html (BigFooty (part of The Age))]](/news/2007/09/29/the-geelong-football-club-wins-the-2007-afl-grand-final-at-the-melbourne-cricket-ground-in-melbourne-australia-by-a-record-119-points-the.md)
 _Context: 1963, 2007 AFL Grand Final, Geelong, Melbourne, Melbourne Cricket Ground_
 
 ## [Previous Day...](/news/2007/09/28/index.md)

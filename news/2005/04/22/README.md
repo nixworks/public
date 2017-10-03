@@ -1,7 +1,7 @@
 ## [2005-04-22](/news/2005/04/22/index.md)
 
-### [ Rumors abound that a nuclear test by North Korea may be imminent, and that the United States is urging the People's Republic of China to pressure North Korea not to do so. [http://www.hindu.com/thehindu/holnus/003200504231210.htm (The Hindu)] [http://www.washingtonpost.com/wp-dyn/articles/A10477-2005Apr22.html (Washington Post)] There was no test however for over a year following.](/news/2005/04/22/rumors-abound-that-a-nuclear-test-by-north-korea-may-be-imminent-and-that-the-united-states-is-urging-the-people-s-republic-of-china-to-pr.md)
-_Context: China, North Korea, U.S., its nuclear weapons program_
+### [ Rumors abound that a nuclear test by North Korea may be imminent, and that the United States is urging the People's Republic of China to pressure North Korea not to do so. [http:--www.hindu.com-thehindu-holnus-003200504231210.htm (The Hindu)] [http:--www.washingtonpost.com-wp-dyn-articles-A10477-2005Apr22.html (Washington Post)] There was no test however for over a year following.](/news/2005/04/22/rumors-abound-that-a-nuclear-test-by-north-korea-may-be-imminent-and-that-the-united-states-is-urging-the-people-s-republic-of-china-to-pr.md)
+_Context: Americans, China, North Korea, its nuclear weapons program_
 
 ### [ Zacarias Moussaoui pleads guilty to terror charges in U.S. federal court. ](/news/2005/04/22/zacarias-moussaoui-pleads-guilty-to-terror-charges-in-u-s-federal-court.md)
 _Context: Zacarias Moussaoui, federal court, terrorism_
@@ -27,7 +27,7 @@ _Context: ECOWAS, Franois Boko, Togo, Togolese presidential election, civil war,
 ### [ Nepal releases 61 political prisoners, including the former deputy prime minister. ](/news/2005/04/22/nepal-releases-61-political-prisoners-including-the-former-deputy-prime-minister.md)
 _Context: Nepal, political prisoner_
 
-### [ Medtronic, Inc. paid US$ 1.35 billion to settle a patent lawsuit and also to acquire disputed spine surgery-related patents from Gary K. Michelson. [http://www.nytimes.com/2005/04/23/business/23medronic.html]](/news/2005/04/22/medtronic-inc-paid-us-1-35-billion-to-settle-a-patent-lawsuit-and-also-to-acquire-disputed-spine-surgery-related-patents-from-gary-k-mi.md)
+### [ Medtronic, Inc. paid US$ 1.35 billion to settle a patent lawsuit and also to acquire disputed spine surgery-related patents from Gary K. Michelson. [http:--www.nytimes.com-2005-04-23-business-23medronic.html]](/news/2005/04/22/medtronic-inc-paid-us-1-35-billion-to-settle-a-patent-lawsuit-and-also-to-acquire-disputed-spine-surgery-related-patents-from-gary-k-mi.md)
 _Context: Gary K. Michelson, Medtronic, US$, lawsuit, patent_
 
 ## [Previous Day...](/news/2005/04/21/index.md)

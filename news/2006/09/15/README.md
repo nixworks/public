@@ -12,7 +12,7 @@ _Context: Farah Province, Taliban, Taliban insurgency_
 ### [ Yemen foils two attempts by four suicide bombers to attack two oil refineries, Al Jazeera reports. ](/news/2006/09/15/yemen-foils-two-attempts-by-four-suicide-bombers-to-attack-two-oil-refineries-al-jazeera-reports.md)
 _Context: Al Jazeera, Yemen, suicide bomber_
 
-### [ Tarcisio Bertone becomes new Cardinal Secretary of State of the Holy See, and Archbishop Dominique Mamberti is named new Secretary for Relations with States (foreign minister). At the same time, Angelo Sodano retires after sixteen years as Cardinal Secretary of State. [http://www.theindiancatholic.com/newsread.asp?nid=3419]](/news/2006/09/15/tarcisio-bertone-becomes-new-cardinal-secretary-of-state-of-the-holy-see-and-archbishop-dominique-mamberti-is-named-new-secretary-for-rela.md)
+### [ Tarcisio Bertone becomes new Cardinal Secretary of State of the Holy See, and Archbishop Dominique Mamberti is named new Secretary for Relations with States (foreign minister). At the same time, Angelo Sodano retires after sixteen years as Cardinal Secretary of State. [http:--www.theindiancatholic.com-newsread.asp?nid=3419]](/news/2006/09/15/tarcisio-bertone-becomes-new-cardinal-secretary-of-state-of-the-holy-see-and-archbishop-dominique-mamberti-is-named-new-secretary-for-rela.md)
 _Context: Angelo Sodano, Cardinal Tarcisio Bertone, Dominique Mamberti, Holy See, Secretary for Relations with States, Vatican Secretary of State_
 
 ### [ Close to half a million people stage a march in Taipei to demand the resignation of President Chen Shui-Bian. ](/news/2006/09/15/close-to-half-a-million-people-stage-a-march-in-taipei-to-demand-the-resignation-of-president-chen-shui-bian.md)

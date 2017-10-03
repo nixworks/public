@@ -21,7 +21,7 @@ Aligarh (Uttar Padesh), Dec 11 (IANS) Five children of a rickshaw-puller, all ag
 ### [Due to recent floods in Venezuela, President Hugo Chavez announces the erection in his garden of a Bedouin tent given as a gift by Muammar al-Gaddafi from which he is to live and govern to make room for more homeless families in his presidential palace at Miraflores. 25 families made homeless by the disaster had already sought shelter there and Chavez has been personally supervising the provision of relief in the country. ](/news/2010/12/11/due-to-recent-floods-in-venezuela-president-hugo-cha-vez-announces-the-erection-in-his-garden-of-a-bedouin-tent-given-as-a-gift-by-muammar.md)
 Venezuelan President Hugo Chavez is moving into a tent given by Libyan leader Muammar Gaddafi so flood victims can take refuge in his office.
 
-### [Eight fatal cases of A/H1N1 swine flu and two from seasonal flu are confirmed within six weeks in the United Kingdom. ](/news/2010/12/11/eight-fatal-cases-of-a-h1n1-swine-flu-and-two-from-seasonal-flu-are-confirmed-within-six-weeks-in-the-united-kingdom.md)
+### [Eight fatal cases of A-H1N1 swine flu and two from seasonal flu are confirmed within six weeks in the United Kingdom. ](/news/2010/12/11/eight-fatal-cases-of-a-h1n1-swine-flu-and-two-from-seasonal-flu-are-confirmed-within-six-weeks-in-the-united-kingdom.md)
 _Context: A/H1N1, United Kingdom, swine flu_
 
 ### [Delegates at the United Nations Climate Change Conference in Cancun, Mexico, agree to a compromise on slowing climate change, though overall failing to reach a "deal that many activists and governments want." ](/news/2010/12/11/delegates-at-the-united-nations-climate-change-conference-in-cancaon-mexico-agree-to-a-compromise-on-slowing-climate-change-though-overal.md)
@@ -51,7 +51,7 @@ _Context: Russia, time zones_
 ### [Ivory Coast President Laurent Gbagbo is to seek talks with rival presidential candidate Alassane Ouattara to end the crisis in the country. The head of the Economic Community of West African States James Victor Gbeho rejects the idea of power-sharing talks. ](/news/2010/12/11/ivory-coast-president-laurent-gbagbo-is-to-seek-talks-with-rival-presidential-candidate-alassane-ouattara-to-end-the-crisis-in-the-country.md)
 President dismisses fears of civil war resumption following a poll he is widely thought to have lost to his rival.
 
-### [The ruling Sudan People's Liberation Army/Movement in Southern Sudan formally confirms that it will support secession from Sudan in a January 2011 independence referendum. ](/news/2010/12/11/the-ruling-sudan-people-s-liberation-army-movement-in-southern-sudan-formally-confirms-that-it-will-support-secession-from-sudan-in-a-januar.md)
+### [The ruling Sudan People's Liberation Army-Movement in Southern Sudan formally confirms that it will support secession from Sudan in a January 2011 independence referendum. ](/news/2010/12/11/the-ruling-sudan-people-s-liberation-army-movement-in-southern-sudan-formally-confirms-that-it-will-support-secession-from-sudan-in-a-januar.md)
 _Context: Southern Sudan, Southern Sudanese Independence Referendum, Sudan, Sudan People's Liberation Army/Movement, secession_
 
 ### [Political parties in Kosovo cease campaigning ahead of the first parliamentary elections since independence from Serbia was declared in 2008. ](/news/2010/12/11/political-parties-in-kosovo-cease-campaigning-ahead-of-the-first-parliamentary-elections-since-independence-from-serbia-was-declared-in-2008.md)

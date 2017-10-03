@@ -21,7 +21,7 @@ _Context: Joe Strummer_
 ### [Singer Kristyn Osbourne of the country music group SHeDAISY filed a $3.5 million lawsuit against karaoke companies for failure to pay songwriters.](/news/2002/12/22/singer-kristyn-osbourne-of-the-country-music-group-shedaisy-filed-a-3-5-million-lawsuit-against-karaoke-companies-for-failure-to-pay-songwr.md)
 _Context: Kristyn Osbourne, SHeDAISY, country music, karaoke_
 
-### [British/Irish pop girl group Girls Aloud are formed on "Popstars: The Rivals."](/news/2002/12/22/british-irish-pop-girl-group-girls-aloud-are-formed-on-popstars-the-rivals.md)
+### [British-Irish pop girl group Girls Aloud are formed on "Popstars: The Rivals."](/news/2002/12/22/british-irish-pop-girl-group-girls-aloud-are-formed-on-popstars-the-rivals.md)
 _Context: Girls Aloud, Popstars: The Rivals_
 
 ## [Previous Day...](/news/2002/12/21/index.md)

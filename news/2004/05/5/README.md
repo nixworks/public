@@ -6,7 +6,7 @@ _Context: Parliament of New Zealand, foreshore, seabed_
 ### [ The Dalai Lama ends his visit to Canada with a ceremony initiating thousands in Tibetan Buddhism. ](/news/2004/05/5/the-dalai-lama-ends-his-visit-to-canada-with-a-ceremony-initiating-thousands-in-tibetan-buddhism.md)
 _Context: Dalai Lama, Tibetan Buddhist_
 
-### [ Israeli company Givot Olam announces that from a previously known oil reserve near Kfar Saba believed to contain 980 million barrels (156 million m<sup>3</sup>) of oil, 20% of it is extractable. ](/news/2004/05/5/israeli-company-givot-olam-announces-that-from-a-previously-known-oil-reserve-near-kfar-saba-believed-to-contain-980-million-barrels-156-m.md)
+### [ Israeli company Givot Olam announces that from a previously known oil reserve near Kfar Saba believed to contain 980 million barrels (156 million m 3 ) of oil, 20% of it is extractable. ](/news/2004/05/5/israeli-company-givot-olam-announces-that-from-a-previously-known-oil-reserve-near-kfar-saba-believed-to-contain-980-million-barrels-156-m.md)
 _Context: Israel, Kfar Saba_
 
 ### [ During a raid in Gaza Israeli troops kill a police captain and wound 15 people, in an area that is used to fire Qassam rockets into Israeli towns. ](/news/2004/05/5/during-a-raid-in-gaza-israeli-troops-kill-a-police-captain-and-wound-15-people-in-an-area-that-is-used-to-fire-qassam-rockets-into-israeli.md)

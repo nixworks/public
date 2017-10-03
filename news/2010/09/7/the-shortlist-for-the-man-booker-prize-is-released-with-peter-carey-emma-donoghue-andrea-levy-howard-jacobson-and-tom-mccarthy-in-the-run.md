@@ -16,5 +16,3 @@
 3. [ Hilary Mantel's "Wolf Hall" wins the 2009 Man Booker Prize. ](/news/2009/10/6/hilary-mantel-s-wolf-hall-wins-the-2009-man-booker-prize.md) _Context: Man Booker Prize_
 4. [ The longlist for the 2009 Man Booker Prize is announced. ](/news/2009/07/28/the-longlist-for-the-2009-man-booker-prize-is-announced.md) _Context: Man Booker Prize_
 5. [ Indian novelist Aravind Adiga wins the Man Booker Prize for his debut "The White Tiger". ](/news/2008/10/14/indian-novelist-aravind-adiga-wins-the-man-booker-prize-for-his-debut-the-white-tiger.md) _Context: Man Booker Prize_
-6. [ "Midnight's Children" by Salman Rushdie is awarded The Best of the Booker, as the best novel to have won a Man Booker Prize in the first 40 years of its existence. ](/news/2008/07/10/midnight-s-children-by-salman-rushdie-is-awarded-the-best-of-the-booker-as-the-best-novel-to-have-won-a-man-booker-prize-in-the-first-40.md) _Context: Man Booker Prize_
-7. [ Irish writer Anne Enright wins the 2007 Man Booker Prize for her novel "The Gathering". ](/news/2007/10/16/irish-writer-anne-enright-wins-the-2007-man-booker-prize-for-her-novel-the-gathering.md) _Context: Man Booker Prize_

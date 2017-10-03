@@ -34,7 +34,7 @@ Proposed draft resolution calls on Security Council to condemn Israeli settlemen
 A letter published by a group of rabbis in Israel has sparked calls for their dismissal.
 
 ### [The United States revokes the visa for Bernardo Alvarez Herrera, the Venezuelan ambassador to the country. ](/news/2010/12/29/the-united-states-revokes-the-visa-for-bernardo-alvarez-herrera-the-venezuelan-ambassador-to-the-country.md)
-_Context: Bernardo Alvarez Herrera, U.S., visa-free travel_
+_Context: Americans, Bernardo Alvarez Herrera, visa-free travel_
 
 ### [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md)
 _Context: Africa, Cote d'Ivoire, Laurent Gbagbo, President_

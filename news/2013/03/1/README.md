@@ -9,7 +9,7 @@ _Context: Malaysia, Malaysian Armed Forces, Sabah, Sultanate_
 ### [One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/one-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadian-forces-in-northern-mali.md)
 _Context: Abdelhamid Abou Zeid, Africa, Azawad, Islamist, Military, al-Qaeda_
 
-### [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. [http://www.theaustralian.com.au/business/economics/china-office-pmi-for-february-down-to-501-reignites-slowdown-worry/story-e6frg926-1226588359770 ("The Australian)"]](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy-http-www-theaustralian-com-au-b.md)
+### [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. [http:--www.theaustralian.com.au-business-economics-china-office-pmi-for-february-down-to-501-reignites-slowdown-worry-story-e6frg926-1226588359770 ("The Australian)"]](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy-http-www-theaustralian-com-au-b.md)
 _Context: China, Economy of the People's Republic of China, Purchasing Managers Index_
 
 ### [A study concludes that clogged arteries around the heart are a risk factor for brain injury from stroke. ](/news/2013/03/1/a-study-concludes-that-clogged-arteries-around-the-heart-are-a-risk-factor-for-brain-injury-from-stroke.md)
@@ -28,7 +28,7 @@ _Context: China, Kunming, Myanmar, Naw Kham, Yunnan Province, drug kingpin, leth
 Google was handed a small victory in Germany this week when lawmakers there approved a bill that will allow the search giant to freely include headlines and snippets from German publishers on services like Google News.
 
 ### [2013 Sequestration: A budget sequestration comes into effect today in the United States Government. ](/news/2013/03/1/2013-sequestration-a-budget-sequestration-comes-into-effect-today-in-the-united-states-government.md)
-_Context: 2013 Sequestration, U.S., United States federal government, budget sequestration_
+_Context: 2013 Sequestration, Americans, United States federal government, budget sequestration_
 
 ### [British Prime Minister David Cameron says he will "win people back" after his party, the Conservatives came third in the Eastleigh by-election behind the Liberal Democrats and UK Independence Party. ](/news/2013/03/1/british-prime-minister-david-cameron-says-he-will-win-people-back-after-his-party-the-conservatives-came-third-in-the-eastleigh-by-electi.md)
 David Cameron insists the Conservatives can &quot;win people back&quot;, amid criticism from some MPs after the party came third in the Eastleigh by-election.

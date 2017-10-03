@@ -7,7 +7,7 @@ _Context: Imran Khan, Pakistan Tehreek-e-Insaf, Punjab, opposition, politician_
 _Context: government, management, pension reform, strike, transport, unionize_
 
 ### [ United States Secretary of State Condoleezza Rice says the White House wants to broker a permanent deal between Israel and the Palestinian Authority before President George W. Bush leaves office. ](/news/2007/11/21/united-states-secretary-of-state-condoleezza-rice-says-the-white-house-wants-to-broker-a-permanent-deal-between-israel-and-the-palestinian.md)
-_Context: Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, U.S., U.S. President, United States Secretary of State, White House_
+_Context: Americans, Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, U.S. President, United States Secretary of State, White House_
 
 ### [ Portuguese Minister of Foreign Affairs Lus Amado says Zimbabwean President Robert Mugabe is not welcome at the December European Union-African Union summit in Lisbon. United Kingdom Prime Minister Gordon Brown says he will not attend if Mugabe is present. ](/news/2007/11/21/portuguese-minister-of-foreign-affairs-luis-amado-says-zimbabwean-president-robert-mugabe-is-not-welcome-at-the-december-european-union-afr.md)
 _Context: African Union, EU, Gordon Brown, Lisbon, Lus Amado, Minister of Foreign Affairs, Portugal, President of Zimbabwe, Prime Minister, Robert Mugabe, United Kingdom, Zimbabwe_
@@ -16,7 +16,7 @@ _Context: African Union, EU, Gordon Brown, Lisbon, Lus Amado, Minister of Foreig
 _Context: Croatia, England, Euro 2008_
 
 ### [ Former White House Press Secretary Scott McClellan claims that United States President George W. Bush was involved in the Plame affair. ](/news/2007/11/21/former-white-house-press-secretary-scott-mcclellan-claims-that-united-states-president-george-w-bush-was-involved-in-the-plame-affair.md)
-_Context: CIA leak scandal, George W. Bush, Scott McClellan, U.S., U.S. President, White House, White House Press Secretary_
+_Context: Americans, CIA leak scandal, George W. Bush, Scott McClellan, U.S. President, White House, White House Press Secretary_
 
 ### [ Former President of France Jacques Chirac is probed by a judge for alleged embezzlement of public funds when he was Mayor of Paris. ](/news/2007/11/21/former-president-of-france-jacques-chirac-is-probed-by-a-judge-for-alleged-embezzlement-of-public-funds-when-he-was-mayor-of-paris.md)
 _Context: Jacques Chirac, Mayor of Paris, President of France, embezzlement, public funds_
@@ -36,10 +36,10 @@ _Context: army, cyclone Sidr_
 ### [ The Nigerian Army is deployed in Kano State after six people died in clashes during local elections. ](/news/2007/11/21/the-nigerian-army-is-deployed-in-kano-state-after-six-people-died-in-clashes-during-local-elections.md)
 _Context: Kano state, Military, local election_
 
-### [ After a standoff lasting two hours, one of the German Spezialeinsatzkommando hostage rescue units successfully resolves a situation with a man held at knife-point outside a cafe at Berlin's Hauptbahnhof main train station. No one was hurt or injured. [http://www.youtube.com/watch?v=BKc_hfNN4dc]](/news/2007/11/21/after-a-standoff-lasting-two-hours-one-of-the-german-spezialeinsatzkommando-hostage-rescue-units-successfully-resolves-a-situation-with-a.md)
+### [ After a standoff lasting two hours, one of the German Spezialeinsatzkommando hostage rescue units successfully resolves a situation with a man held at knife-point outside a cafe at Berlin's Hauptbahnhof main train station. No one was hurt or injured. [http:--www.youtube.com-watch?v=BKc_hfNN4dc]](/news/2007/11/21/after-a-standoff-lasting-two-hours-one-of-the-german-spezialeinsatzkommando-hostage-rescue-units-successfully-resolves-a-situation-with-a.md)
 _Context: Spezialeinsatzkommando_
 
-### [ The United Nations General Assembly approves Resolution 62/9, stating that the "emergency phase" in Chernobyl is over, and the "recovery phase" should start. ](/news/2007/11/21/the-united-nations-general-assembly-approves-resolution-62-9-stating-that-the-emergency-phase-in-chernobyl-is-over-and-the-recovery-ph.md)
+### [ The United Nations General Assembly approves Resolution 62-9, stating that the "emergency phase" in Chernobyl is over, and the "recovery phase" should start. ](/news/2007/11/21/the-united-nations-general-assembly-approves-resolution-62-9-stating-that-the-emergency-phase-in-chernobyl-is-over-and-the-recovery-ph.md)
 _Context: Chernobyl, Resolution 62/9, United Nations, United Nations General Assembly_
 
 ### [ About 1,000 people a day are returning to Iraq from Syria and Jordan. ](/news/2007/11/21/about-1-000-people-a-day-are-returning-to-iraq-from-syria-and-jordan.md)

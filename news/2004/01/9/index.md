@@ -12,7 +12,7 @@ _Context: terrorism advisory_
 ### [ Bangladesh bans books published by the Ahmadiyya movement, an Islamic sect.](/news/2004/01/9/bangladesh-bans-books-published-by-the-ahmadiyya-movement-an-islamic-sect.md)
 _Context: Ahmadiyya, Bangladesh_
 
-### [ Exploration of Mars: Engineers at JPL decide to turn the Mars Spirit Rover around on its lander after it was found the airbags could not be retracted enough to allow it to move off in a forward direction. It is expected the rover will drive off sometime next week. The Rover has also stood up and deployed its front wheels.<ref name="spaceflightnow1"/>](/news/2004/01/9/exploration-of-mars-engineers-at-jpl-decide-to-turn-the-mars-spirit-rover-around-on-its-lander-after-it-was-found-the-airbags-could-not-be.md)
+### [ Exploration of Mars: Engineers at JPL decide to turn the Mars Spirit Rover around on its lander after it was found the airbags could not be retracted enough to allow it to move off in a forward direction. It is expected the rover will drive off sometime next week. The Rover has also stood up and deployed its front wheels. ](/news/2004/01/9/exploration-of-mars-engineers-at-jpl-decide-to-turn-the-mars-spirit-rover-around-on-its-lander-after-it-was-found-the-airbags-could-not-be.md)
 _Context: JPL, Spirit, route_
 
 ### [ Two volcanoes erupt: the Piton de la Fournaise on Reunion Island, and the Volcan de Fuego near Antigua Guatemala, Guatemala. The eruption in Guatemala is not thought to be serious enough to require evacuations.](/news/2004/01/9/two-volcanoes-erupt-the-piton-de-la-fournaise-on-ra-c-union-island-and-the-volca-n-de-fuego-near-antigua-guatemala-guatemala-the-eruption.md)

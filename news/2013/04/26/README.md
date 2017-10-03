@@ -22,12 +22,12 @@ _Context: Afghanistan, Taliban_
 _Context: Kaesong area, North Korea, South Korea_
 
 ### [The White House reports that the United States may have to use military action against Syria. ](/news/2013/04/26/the-white-house-reports-that-the-united-states-may-have-to-use-military-action-against-syria.md)
-_Context: Syria, U.S., White House_
+_Context: Americans, Syria, White House_
 
 ### [Boston Marathon bombings suspect Dzhokhar Tsarnaev is transferred from Beth Israel Deaconess Medical Center to the federal prison facility in Fort Devens in the U.S. state of Massachusetts. ](/news/2013/04/26/boston-marathon-bombings-suspect-dzhokhar-tsarnaev-is-transferred-from-beth-israel-deaconess-medical-center-to-the-federal-prison-facility-i.md)
 _Context: Beth Israel Deaconess Medical Center, Boston Marathon bombings, Dzhokhar Tsarnaev, Fort Devens, Massachusetts, U.S., facility, federal prison_
 
-### [Eleven members of a Birmingham, United Kingdom, terror cell are jailed for planning an attack to rival the 7 July and 9/11 atrocities. ](/news/2013/04/26/eleven-members-of-a-birmingham-united-kingdom-terror-cell-are-jailed-for-planning-an-attack-to-rival-the-7-july-and-9-11-atrocities.md)
+### [Eleven members of a Birmingham, United Kingdom, terror cell are jailed for planning an attack to rival the 7 July and 9-11 atrocities. ](/news/2013/04/26/eleven-members-of-a-birmingham-united-kingdom-terror-cell-are-jailed-for-planning-an-attack-to-rival-the-7-july-and-9-11-atrocities.md)
 Three men who planned an attack on Birmingham to rival the 7 July and 9/11 atrocities are jailed along with eight other members of their terror cell.
 
 ### [Russian police and security agents detain 140 people at a mosque in Moscow on suspicion of involvement with Islamic extremism. ](/news/2013/04/26/russian-police-and-security-agents-detain-140-people-at-a-mosque-in-moscow-on-suspicion-of-involvement-with-islamic-extremism.md)

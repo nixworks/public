@@ -1,6 +1,6 @@
 ### [2008-06-7](/news/2008/06/7/index.md)
 
-#  Big Brown becomes the first Triple Crown favorite to place last in the 2008 Belmont Stakes in New York. The undefeated colt previously won the 2008 Kentucky Derby and the 2008 Preakness Stakes. The 38/1 longshot Da'Tara wins in a wire-to-wire finish. The last Triple Crown winner was Affirmed in 1978. 
+#  Big Brown becomes the first Triple Crown favorite to place last in the 2008 Belmont Stakes in New York. The undefeated colt previously won the 2008 Kentucky Derby and the 2008 Preakness Stakes. The 38-1 longshot Da'Tara wins in a wire-to-wire finish. The last Triple Crown winner was Affirmed in 1978. 
 
 
 

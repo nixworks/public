@@ -24,7 +24,7 @@ Efficient took out the Melbourne Cup with a blinding finish at Flemington this a
 ### [ The incumbent People's National Movement party retains power in the Trinidad and Tobago elections. ](/news/2007/11/6/the-incumbent-people-s-national-movement-party-retains-power-in-the-trinidad-and-tobago-elections.md)
 _Context: People's National Movement, Trinidad and Tobago elections_
 
-### [ John "Jordan" Lewis is arrested by the Miami-Dade Police Department for the killing of Police Officer Charles Cassidy at a Dunkin' Donuts shop in the East Oak Lane section of Philadelphia on October 31, 2007. [http://www.philly.com/dailynews/breaking/news/John_Lewis_arrested.html]](/news/2007/11/6/john-jordan-lewis-is-arrested-by-the-miami-dade-police-department-for-the-killing-of-police-officer-charles-cassidy-at-a-dunkin-donuts-s.md)
+### [ John "Jordan" Lewis is arrested by the Miami-Dade Police Department for the killing of Police Officer Charles Cassidy at a Dunkin' Donuts shop in the East Oak Lane section of Philadelphia on October 31, 2007. [http:--www.philly.com-dailynews-breaking-news-John_Lewis_arrested.html]](/news/2007/11/6/john-jordan-lewis-is-arrested-by-the-miami-dade-police-department-for-the-killing-of-police-officer-charles-cassidy-at-a-dunkin-donuts-s.md)
 _Context: Charles Cassidy, Dunkin' Donuts, East Oak Lane, Miami-Dade Police Department, Philadelphia_
 
 ## [Previous Day...](/news/2007/11/5/index.md)

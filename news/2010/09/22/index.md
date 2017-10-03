@@ -23,10 +23,10 @@ _Context: Typhoon Fanapi, flood, southern Chinese_
 
 ### [Two workers are killed and another is injured after a mine in Balikesir collapses. 22 workers have been killed there in the past six months. ](/news/2010/09/22/two-workers-are-killed-and-another-is-injured-after-a-mine-in-bala-kesir-collapses-22-workers-have-been-killed-there-in-the-past-six-months.md)
 ### [U.S. celebrity Paris Hilton is barred from entering Japan after pleading guilty to cocaine possession in Las Vegas, Nevada earlier in the week. ](/news/2010/09/22/u-s-celebrity-paris-hilton-is-barred-from-entering-japan-after-pleading-guilty-to-cocaine-possession-in-las-vegas-nevada-earlier-in-the-we.md)
-_Context: Japan, Las Vegas, Nevada, Nevada, Paris Hilton, U.S., cocaine, pop star_
+_Context: Americans, Japan, Las Vegas, Nevada, Nevada, Paris Hilton, cocaine, pop star_
 
 ### [United States singer Eddie Fisher dies in Berkeley, California. ](/news/2010/09/22/united-states-singer-eddie-fisher-dies-in-berkeley-california.md)
-_Context: Berkeley, California, California, Eddie Fisher, U.S._
+_Context: Americans, Berkeley, California, California, Eddie Fisher_
 
 ### [Russia bans arms sales to Iran, in accordance with United Nations Security Council Resolution 1929. ](/news/2010/09/22/russia-bans-arms-sales-to-iran-in-accordance-with-united-nations-security-council-resolution-1929.md)
 _Context: Iran, Russia, ban on ballistic missile tests_
@@ -52,10 +52,10 @@ _Context: BBC, Emadeddin Baghi, Grand Ayatollah, Human rights in Iran, Hussein-A
 ### [Another group of asylum seekers starts a new protest at the Villawood Immigration Detention Centre in Sydney, Australia, while other detainees continue a hunger strike. ](/news/2010/09/22/another-group-of-asylum-seekers-starts-a-new-protest-at-the-villawood-immigration-detention-centre-in-sydney-australia-while-other-detaine.md)
 Nine people, including a pregnant woman, have climbed on to the roof of a building at Sydney&#039;s Villawood detention centre, just hours after 11 other detainees ended their 30-hour protest on another roof.
 
-### [Simonetta Sommaruga and Johann Schneider-Ammann are elected as new members of the Swiss Federal Council by the Swiss parliament. [http://www.parlament.ch/d/wahlen-abstimmungen/wahlen-im-parlament/bundesratswahlen/ruektritt-leuenberger-merz/Seiten/default.aspx "Swiss parliament dossier (german)"]](/news/2010/09/22/simonetta-sommaruga-and-johann-schneider-ammann-are-elected-as-new-members-of-the-swiss-federal-council-by-the-swiss-parliament-http-www.md)
+### [Simonetta Sommaruga and Johann Schneider-Ammann are elected as new members of the Swiss Federal Council by the Swiss parliament. [http:--www.parlament.ch-d-wahlen-abstimmungen-wahlen-im-parlament-bundesratswahlen-ruektritt-leuenberger-merz-Seiten-default.aspx "Swiss parliament dossier (german)"]](/news/2010/09/22/simonetta-sommaruga-and-johann-schneider-ammann-are-elected-as-new-members-of-the-swiss-federal-council-by-the-swiss-parliament-http-www.md)
 _Context: Johann Schneider-Ammann, Simonetta Sommaruga, Swiss Federal Council, Swiss parliament_
 
-### [The discovery of the ceratopsids species "Kosmoceratops richardsoni" and "Utahceratops gettyi" in Utah is announced. [http://news.nationalgeographic.com/news/2010/09/100922-new-species-dinosaurs-horned-utah-fossils-science/ ("National Geographic")] 10.1371/journal.pone.0012292 ("PLoS")](/news/2010/09/22/the-discovery-of-the-ceratopsids-species-kosmoceratops-richardsoni-and-utahceratops-gettyi-in-utah-is-announced-http-news-nationalge.md)
+### [The discovery of the ceratopsids species "Kosmoceratops richardsoni" and "Utahceratops gettyi" in Utah is announced. [http:--news.nationalgeographic.com-news-2010-09-100922-new-species-dinosaurs-horned-utah-fossils-science- ("National Geographic")] 10.1371-journal.pone.0012292 ("PLoS")](/news/2010/09/22/the-discovery-of-the-ceratopsids-species-kosmoceratops-richardsoni-and-utahceratops-gettyi-in-utah-is-announced-http-news-nationalge.md)
 _Context: Kosmoceratops richardsoni, Utah, Utahceratops gettyi, ceratopsid_
 
 ## [Previous Day...](/news/2010/09/21/index.md)

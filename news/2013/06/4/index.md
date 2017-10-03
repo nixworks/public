@@ -4,7 +4,7 @@
 A 22-year-old man died in a hospital after being shot during protests in southern Turkey, as trade unions prepare to strike in support of those on the streets.
 
 ### [Three corpses are dug up near a former U.S. military base in Narkh bringing the number of corpses whose deaths locals blame on the presence of United States personnel to 10; people flood the streets of Maidan Shar calling for the U.S. to leave. ](/news/2013/06/4/three-corpses-are-dug-up-near-a-former-u-s-military-base-in-narkh-bringing-the-number-of-corpses-whose-deaths-locals-blame-on-the-presence.md)
-_Context: Maidan Shar, Narkh, U.S._
+_Context: Americans, Maidan Shar, Narkh_
 
 ### [The United States expands its military presence in Jordan, sending a Patriot missile battery and an undeclared number of F-16 fighters to the area. ](/news/2013/06/4/the-united-states-expands-its-military-presence-in-jordan-sending-a-patriot-missile-battery-and-an-undeclared-number-of-f-16-fighters-to-th.md)
 Washington says weapons may remain there after exercise to help Amman deal with threat from conflict in Syria.

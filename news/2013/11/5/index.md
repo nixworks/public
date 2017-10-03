@@ -19,7 +19,7 @@ _Context: Bangkok, Prime Minister, Thailand, Thaksin Shinawatra_
 Rapper DMX, whose real name is EarlSimmons, was arrested outside a South Carolina airport onMonday for driving with a suspended license and without avehicle tag and insurance, according to the Spartanburg CountyDetention Center.
 
 ### [SAC Capital Advisors pleads guilty to insider trading and wire fraud and agrees to pay $1.8 billion in penalties to the United States. ](/news/2013/11/5/sac-capital-advisors-pleads-guilty-to-insider-trading-and-wire-fraud-and-agrees-to-pay-1-8-billion-in-penalties-to-the-united-states.md)
-_Context: SAC Capital Advisors, U.S., insider trading, wire fraud_
+_Context: Americans, SAC Capital Advisors, insider trading, wire fraud_
 
 ### [152 people are sentenced to death in Bangladesh in connection to the 2009 Bangladesh Rifles revolt. ](/news/2013/11/5/152-people-are-sentenced-to-death-in-bangladesh-in-connection-to-the-2009-bangladesh-rifles-revolt.md)
 A special court in Bangladesh on Tuesday sentenced to death more than 150 people among hundreds of border guards accused of murder and arson during a mutiny at their headquarters in 2009.
@@ -33,7 +33,7 @@ Toronto Mayor Rob Ford says admitting to the world that he smoked crack cocaine 
 ### [The ISRO of India launches a PSLV-XL rocket carrying the Mars Orbiter Mission probe, which will eventually be sent to Mars. ](/news/2013/11/5/the-isro-of-india-launches-a-pslv-xl-rocket-carrying-the-mars-orbiter-mission-probe-which-will-eventually-be-sent-to-mars.md)
 _Context: ISRO, India, Mars, Mars Orbiter Mission, PSLV-C38_
 
-### [The discovery of the Hercules-Corona Borealis Great Wall, the largest known structure in the universe, is announced.[http://adsabs.harvard.edu/abs/2014A%26A...561L..12H]](/news/2013/11/5/the-discovery-of-the-herculesacorona-borealis-great-wall-the-largest-known-structure-in-the-universe-is-announced-http-adsabs-harvard.md)
+### [The discovery of the Hercules-Corona Borealis Great Wall, the largest known structure in the universe, is announced.[http:--adsabs.harvard.edu-abs-2014A%26A...561L..12H]](/news/2013/11/5/the-discovery-of-the-herculesacorona-borealis-great-wall-the-largest-known-structure-in-the-universe-is-announced-http-adsabs-harvard.md)
 _Context: Hercules-Corona Borealis Great Wall_
 
 ## [Previous Day...](/news/2013/11/4/index.md)

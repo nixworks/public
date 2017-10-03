@@ -1,7 +1,7 @@
 ## [2005-08-30](/news/2005/08/30/index.md)
 
 ### [ Conflict in Iraq: According to U.S. and Iraqi government officials, US Air strikes near the border with Syria have left 56 civilians and over seven insurgents dead. ](/news/2005/08/30/conflict-in-iraq-according-to-u-s-and-iraqi-government-officials-us-air-strikes-near-the-border-with-syria-have-left-56-civilians-and-ov.md)
-_Context: Conflict in Iraq, Iraq, Iraqi insurgency, Syria, U.S., air strike, civilian_
+_Context: Americans, Conflict in Iraq, Iraq, Iraqi insurgency, Syria, air strike, civilian_
 
 ### [ The death toll in Biloxi, Mississippi, may be as high as 80. Mayor A.J. Holloway declares that Katrina "is our tsunami", comparing the catastrophe to the 2004 Indian Ocean Earthquake and Tsunami. ](/news/2005/08/30/the-death-toll-in-biloxi-mississippi-may-be-as-high-as-80-mayor-a-j-holloway-declares-that-katrina-is-our-tsunami-comparing-the-cata.md)
 Miss. governor estimates 80 could be dead in one county alone; two levees break in New Orleans, flooding the city.

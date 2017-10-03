@@ -1,6 +1,6 @@
 ### [2010-12-28](/news/2010/12/28/index.md)
 
-# A late Bronze Age grave of a Celtic princess has been unearthed in Heuneburg, Germany. Grave goods of Celtic jewellery made of gold, bronze, coal and amber have been discovered. [http://www.spiegel.de/wissenschaft/mensch/a-736863.html ("Der Spiegel" (de))]
+# A late Bronze Age grave of a Celtic princess has been unearthed in Heuneburg, Germany. Grave goods of Celtic jewellery made of gold, bronze, coal and amber have been discovered. [http:--www.spiegel.de-wissenschaft-mensch-a-736863.html ("Der Spiegel" (de))]
 
 
 

@@ -1,6 +1,6 @@
 ### [2002-11-11](/news/2002/11/11/index.md)
 
-#  Grigori Perelman uploads an article to [http://arxiv.org arxiv.org] with the proof the Poincar conjecture: Perelman, Grisha (November 11, 2002). "The entropy formula for the Ricci flow and its geometric applications".
+#  Grigori Perelman uploads an article to [http:--arxiv.org arxiv.org] with the proof the Poincar conjecture: Perelman, Grisha (November 11, 2002). "The entropy formula for the Ricci flow and its geometric applications".
 
 
 

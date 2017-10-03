@@ -27,7 +27,7 @@ Incumbent wins 92 percent of runoff vote after opposition calls for boycott.
 ### [Voters in Senegal approve a series of constitutional reforms, which include a reduction of presidential terms from seven to five years, with 63 percent of the vote. ](/news/2016/03/23/voters-in-senegal-approve-a-series-of-constitutional-reforms-which-include-a-reduction-of-presidential-terms-from-seven-to-five-years-with.md)
 _Context: Senegal, Senegalese constitutional referendum, 2016_
 
-### [Tuesday, March 22 primaries/caucusesFront runners Hillary Clinton and Donald Trump each won the Democratic and Republican primary in Arizona, respectively. ](/news/2016/03/23/tuesday-march-22-primaries-caucusesfront-runners-hillary-clinton-and-donald-trump-each-won-the-democratic-and-republican-primary-in-arizona.md)
+### [Tuesday, March 22 primaries-caucusesFront runners Hillary Clinton and Donald Trump each won the Democratic and Republican primary in Arizona, respectively. ](/news/2016/03/23/tuesday-march-22-primaries-caucusesfront-runners-hillary-clinton-and-donald-trump-each-won-the-democratic-and-republican-primary-in-arizona.md)
 Voters go to the polls in three states on Tuesday in another set of Republican and Democratic primaries. Full results, from AP, are available here.
 
 ## [Previous Day...](/news/2016/03/22/index.md)

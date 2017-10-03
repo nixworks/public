@@ -15,7 +15,7 @@ _Context: India, Jammu and Kashmir, Manmohan Singh, Prime Minister_
 ### [ The United States unofficially exits recession in the third quarter, growing at 3.5%. ](/news/2009/10/29/the-united-states-unofficially-exits-recession-in-the-third-quarter-growing-at-3-5.md)
 Consumer spending leads recovery, but treasury secretary admits many face hardship.
 
-### [ Kenya is to carry out its first census on its gay population to combat HIV/AIDS, even though homosexuality is banned in the country. ](/news/2009/10/29/kenya-is-to-carry-out-its-first-census-on-its-gay-population-to-combat-hiv-aids-even-though-homosexuality-is-banned-in-the-country.md)
+### [ Kenya is to carry out its first census on its gay population to combat HIV-AIDS, even though homosexuality is banned in the country. ](/news/2009/10/29/kenya-is-to-carry-out-its-first-census-on-its-gay-population-to-combat-hiv-aids-even-though-homosexuality-is-banned-in-the-country.md)
 _Context: AIDS, HIV, Kenya, homosexuality, organising a gay wedding_
 
 ### [ Danish Prime Minister Lars Loekke Rasmussen says a deal at a UN climate change summit in December is unlikely. ](/news/2009/10/29/danish-prime-minister-lars-loekke-rasmussen-says-a-deal-at-a-un-climate-change-summit-in-december-is-unlikely.md)
@@ -40,7 +40,7 @@ _Context: African Union, Guinea, Moussa Dadis Camara_
 _Context: Canada, Crimes Against Humanity and War Crimes Act, Dsir Munyaneza, Rwanda, Rwandan Genocide_
 
 ### [ A gunman opens fire at the Adat Yeshurun Valley Sephardic synagogue in North Hollywood, Los Angeles, United States, and wounds two people. ](/news/2009/10/29/a-gunman-opens-fire-at-the-adat-yeshurun-valley-sephardic-synagogue-in-north-hollywood-los-angeles-united-states-and-wounds-two-people.md)
-_Context: Los Angeles, North Hollywood, U.S., synagogue_
+_Context: Americans, Los Angeles, North Hollywood, synagogue_
 
 ### [ The composer and pianist Elton John cancels his 30 October final date of The Red Piano Tour scheduled for The O2, Dublin, due to declining health. ](/news/2009/10/29/the-composer-and-pianist-elton-john-cancels-his-30-october-final-date-of-the-red-piano-tour-scheduled-for-the-o2-dublin-due-to-declining.md)
 Elton John (62) has pulled out of his Dublin concert tomorrow night after suffering a serious bout of flu.

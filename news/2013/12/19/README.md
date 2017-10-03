@@ -3,7 +3,7 @@
 ### [A series of attacks across Iraq kills 22 Shiite pilgrims. ](/news/2013/12/19/a-series-of-attacks-across-iraq-kills-22-shiite-pilgrims.md)
 Three suicide bombers detonate explosives belts among Shiite pilgrims in Iraq, killing at least 36 people, while militants shoot dead a family of five, officials say.
 
-### [At least 500 people have been killed in fighting since 14 December 2013, according to the United Nations. [http://www.usatoday.com/story/news/world/2013/12/18/united-nations-south-sudan/4093345/ "(USA Today)"]](/news/2013/12/19/at-least-500-people-have-been-killed-in-fighting-since-14-december-2013-according-to-the-united-nations-http-www-usatoday-com-story-new.md)
+### [At least 500 people have been killed in fighting since 14 December 2013, according to the United Nations. [http:--www.usatoday.com-story-news-world-2013-12-18-united-nations-south-sudan-4093345- "(USA Today)"]](/news/2013/12/19/at-least-500-people-have-been-killed-in-fighting-since-14-december-2013-according-to-the-united-nations-http-www-usatoday-com-story-new.md)
 _Context: United Nations_
 
 ### [Phil Robertson, featured on the reality show "Duck Dynasty", is suspended by A&E in response to controversial statements about homosexuality made during an interview with "GQ" magazine. ](/news/2013/12/19/phil-robertson-featured-on-the-reality-show-duck-dynasty-is-suspended-by-a-e-in-response-to-controversial-statements-about-homosexuality.md)

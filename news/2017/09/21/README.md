@@ -12,7 +12,7 @@ _Context: China, Standard & Poor's_
 ### [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md)
 _Context: European migration crisis, Libya_
 
-### [Maria, now a Category 3 hurricane with maximum sustained winds of 125 mph (205 km/h), is passing offshore of the northern coast of the Dominican Republic, expected to impact the Turks and Caicos Islands and southeastern Bahamas later tonight and Friday. ](/news/2017/09/21/maria-now-a-category-3-hurricane-with-maximum-sustained-winds-of-125-mph-205-km-h-is-passing-offshore-of-the-northern-coast-of-the-domin.md)
+### [Maria, now a Category 3 hurricane with maximum sustained winds of 125 mph (205 km-h), is passing offshore of the northern coast of the Dominican Republic, expected to impact the Turks and Caicos Islands and southeastern Bahamas later tonight and Friday. ](/news/2017/09/21/maria-now-a-category-3-hurricane-with-maximum-sustained-winds-of-125-mph-205-km-h-is-passing-offshore-of-the-northern-coast-of-the-domin.md)
 Puerto Ricans are facing the crushing devastation wrought by Hurricane Maria — splintered homes, uprooted trees and floodwaters coursing through streets.
 
 ### [Rescuers are focusing on 10 collapsed buildings where people may still be alive. Mexico City Mayor Miguel Angel Mancera reports the death toll is now at least 273, with 50 people still missing. ](/news/2017/09/21/rescuers-are-focusing-on-10-collapsed-buildings-where-people-may-still-be-alive-mexico-city-mayor-miguel-angel-mancera-reports-the-death-t.md)

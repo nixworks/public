@@ -22,7 +22,7 @@ The National Weather Service chief calls it a heat wave more intense than any he
 _Context: North Korea, Sky News, illegal drugs trade_
 
 ### [The shutdown of the United States Federal Aviation Administration will end August 8th. ](/news/2011/08/4/the-shutdown-of-the-united-states-federal-aviation-administration-will-end-august-8th.md)
-_Context: Federal Aviation Administration, U.S._
+_Context: Americans, Federal Aviation Administration_
 
 ### [A judge rules that Donald Rumsfeld can be sued personally for damages by a U.S. Army veteran in his 50s who says he was imprisoned unjustly and tortured by the U.S. military in Iraq. ](/news/2011/08/4/a-judge-rules-that-donald-rumsfeld-can-be-sued-personally-for-damages-by-a-u-s-army-veteran-in-his-50s-who-says-he-was-imprisoned-unjustly.md)
 _Context: Donald Rumsfeld_
@@ -30,7 +30,7 @@ _Context: Donald Rumsfeld_
 ### [Heather Mills claims that a Mirror Group journalist admitted hacking into her phone and listening to a message from then-boyfriend Paul McCartney - Piers Morgan has admitted to hearing it although he was not the journalist involved. ](/news/2011/08/4/heather-mills-claims-that-a-mirror-group-journalist-admitted-hacking-into-her-phone-and-listening-to-a-message-from-then-boyfriend-paul-mcca.md)
 _Context: Heather Mills, Mirror Group, Paul McCartney, Piers Morgan_
 
-### [The Virginia Tech campus, site of an April 2007 mass shooting, goes on lockdown as a precaution after reports of a man, possibly armed with a gun, on or near the campus were made by teenagers attending a camp there. [http://www.huffingtonpost.com/2011/08/04/virginia-tech-gun-suspect_n_918128.html]](/news/2011/08/4/the-virginia-tech-campus-site-of-an-april-2007-mass-shooting-goes-on-lockdown-as-a-precaution-after-reports-of-a-man-possibly-armed-with.md)
+### [The Virginia Tech campus, site of an April 2007 mass shooting, goes on lockdown as a precaution after reports of a man, possibly armed with a gun, on or near the campus were made by teenagers attending a camp there. [http:--www.huffingtonpost.com-2011-08-04-virginia-tech-gun-suspect_n_918128.html]](/news/2011/08/4/the-virginia-tech-campus-site-of-an-april-2007-mass-shooting-goes-on-lockdown-as-a-precaution-after-reports-of-a-man-possibly-armed-with.md)
 _Context: Virginia Tech, massacre_
 
 ### [Nelson Jobim resigns as the Minister of Defence in Brazil after making critical remarks about the government of President Dilma Rousseff and fellow Ministers - he is replaced by Celso Amorim. ](/news/2011/08/4/nelson-jobim-resigns-as-the-minister-of-defence-in-brazil-after-making-critical-remarks-about-the-government-of-president-dilma-rousseff-and.md)

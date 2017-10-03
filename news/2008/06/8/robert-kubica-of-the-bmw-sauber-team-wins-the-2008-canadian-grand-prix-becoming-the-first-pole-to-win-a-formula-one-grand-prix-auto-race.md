@@ -1,6 +1,6 @@
 ### [2008-06-8](/news/2008/06/8/index.md)
 
-#  Robert Kubica of the BMW Sauber team wins the 2008 Canadian Grand Prix, becoming the first Pole to win a Formula One Grand Prix auto race, and giving BMW its first win as a constructor. [http://en.f1-live.com/f1/en/headlines/news/detail/080608211341.shtml (F1-live)] [http://www.formula1.com/results/season/2008/793/6520/ (Formula1)] (Wikinews)
+#  Robert Kubica of the BMW Sauber team wins the 2008 Canadian Grand Prix, becoming the first Pole to win a Formula One Grand Prix auto race, and giving BMW its first win as a constructor. [http:--en.f1-live.com-f1-en-headlines-news-detail-080608211341.shtml (F1-live)] [http:--www.formula1.com-results-season-2008-793-6520- (Formula1)] (Wikinews)
 
 
 
@@ -12,8 +12,3 @@
 3. [Polish film director and recipient of an Academy Honorary Award Andrzej Wajda dies at the age of 90. ](/news/2016/10/10/polish-film-director-and-recipient-of-an-academy-honorary-award-andrzej-wajda-dies-at-the-age-of-90.md) _Context: Poles_
 4. [Liberty Media confirms it is buying Formula One for US$4.4 billion; however, Bernie Ecclestone will remain as chief executive. ](/news/2016/09/7/liberty-media-confirms-it-is-buying-formula-one-for-us-4-4-billion-however-bernie-ecclestone-will-remain-as-chief-executive.md) _Context: Formula One_
 5. [Nokia sells its mapping application Here to German car makers BMW, Audi, and Mercedes-Benz for 2.8 billion euros. ](/news/2015/08/3/nokia-sells-its-mapping-application-here-to-german-car-makers-bmw-audi-and-mercedes-benz-for-2-8-billion-euros.md) _Context: BMW_
-6. [A German court in Munich rules that Formula One boss Bernie Ecclestone should face bribery charges. ](/news/2014/01/16/a-german-court-in-munich-rules-that-formula-one-boss-bernie-ecclestone-should-face-bribery-charges.md) _Context: Formula One_
-7. [German authorities indict Formula One boss Bernie Ecclestone for alleged bribery. ](/news/2013/07/17/german-authorities-indict-formula-one-boss-bernie-ecclestone-for-alleged-bribery.md) _Context: Formula One_
-8. [Pay-TV company BSkyB secures a seven year deal to share the United Kingdom broadcasting rights of Formula One racing. From March 2012 half the races will air on Sky, while the BBC retains the right to show the other half. ](/news/2011/07/29/pay-tv-company-bskyb-secures-a-seven-year-deal-to-share-the-united-kingdom-broadcasting-rights-of-formula-one-racing-from-march-2012-half-t.md) _Context: Formula One_
-9. [Armed attackers attempt to carjack Formula One World Champion Jensen Button in SGBPo Paulo as he was returning from practice for the Brazilian Grand Prix at Interlagos. ](/news/2010/11/6/armed-attackers-attempt-to-carjack-formula-one-world-champion-jensen-button-in-sagbpo-paulo-as-he-was-returning-from-practice-for-the-brazil.md) _Context: Formula One_
-10. [BMW is recalling 150,000 vehicles in the U.S. due to potential fuel pump failure.](/news/2010/10/26/bmw-is-recalling-150-000-vehicles-in-the-u-s-due-to-potential-fuel-pump-failure.md) _Context: BMW_

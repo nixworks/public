@@ -1,6 +1,6 @@
 ## [2017-04-13](/news/2017/04/13/index.md)
 
-### [The United States Air Force drops the GBU-43/B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield. ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md)
+### [The United States Air Force drops the GBU-43-B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield. ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md)
 The US has deployed the largest non-nuclear bomb in its inventory on an ISIS target in a remote part of far northeast Afghanistan.
 
 ### [A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cyclone-cook-sweeps-across-the-north-island.md)

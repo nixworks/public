@@ -12,4 +12,3 @@
 3. [2011 Libyan Civil War:NATO jets fly over Tripoli on their mission to destroy Muammar Gaddafi's forces as loud explosions knock 3 television stations (Libyan Television, Jamahiriya TV and Shababiya) off-the-air. ](/news/2011/04/25/2011-libyan-civil-war-nato-jets-fly-over-tripoli-on-their-mission-to-destroy-muammar-gaddafi-s-forces-as-loud-explosions-knock-3-television.md) _Context: off-the-air_
 4. ["24" is cancelled. ](/news/2010/03/28/24-is-cancelled.md) _Context: 24_
 5. [ Cartoon Network's hit action-animated programming block Toonami went completely off the air.](/news/2008/09/20/cartoon-network-s-hit-action-animated-programming-block-toonami-went-completely-off-the-air.md) _Context: off-the-air_
-6. [Twentieth Century Fox's American television drama series The Shield premieres.](/news/2002/03/12/twentieth-century-fox-s-american-television-drama-series-the-shield-premieres.md) _Context: Twentieth Century Fox_

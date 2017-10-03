@@ -13,7 +13,7 @@ _Context: Coldplay, EMI, Mylo Xyloto_
 Google has unveiled its latest flagship phone, the Galaxy Nexus, and its latest Android software, Ice Cream Sandwich
 
 ### [The United States' largest bank, Bank of America, is surpassed by JPMorgan Chase in total assets, according to Bank of America's quarterly financial earnings report. ](/news/2011/10/19/the-united-states-largest-bank-bank-of-america-is-surpassed-by-jpmorgan-chase-in-total-assets-according-to-bank-of-america-s-quarterly-f.md)
-_Context: Bank of America, JPMorgan Chase, U.S._
+_Context: Americans, Bank of America, JPMorgan Chase_
 
 ### [The parent of American Airlines, AMR, reports a larger third-quarter loss than expected, due to the cost of aviation fuel and the volatility of foreign exchange. ](/news/2011/10/19/the-parent-of-american-airlines-amr-reports-a-larger-third-quarter-loss-than-expected-due-to-the-cost-of-aviation-fuel-and-the-volatility.md)
 American Airlines, struggling to regain financial footing relative to stronger rivals, made little progress toward assuaging investor concerns when it reported a wider-than-expected quarterly loss on Wednesday.

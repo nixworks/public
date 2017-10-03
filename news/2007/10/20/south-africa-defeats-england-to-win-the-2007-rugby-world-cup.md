@@ -16,4 +16,3 @@
 3. [Former South African rugby union player Solly Tyibilika is shot dead in a bar in Cape Town. ](/news/2011/11/13/former-south-african-rugby-union-player-solly-tyibilika-is-shot-dead-in-a-bar-in-cape-town.md) _Context: South Africa_
 4. [ In rugby union, South Africa defeat New Zealand 32-29 to win the 2009 Tri Nations Series. ](/news/2009/09/12/in-rugby-union-south-africa-defeat-new-zealand-32-29-to-win-the-2009-tri-nations-series.md) _Context: South Africa_
 5. [ England and Japan will stage the Rugby World Cup in 2015 and 2019 respectively. ](/news/2009/07/28/england-and-japan-will-stage-the-rugby-world-cup-in-2015-and-2019-respectively.md) _Context: Rugby World Cup_
-6. [ Peter de Villiers is appointed the first black coach of the South African rugby union team. ](/news/2008/01/9/peter-de-villiers-is-appointed-the-first-black-coach-of-the-south-african-rugby-union-team.md) _Context: South Africa_

@@ -7,7 +7,7 @@ _Context: Darfur, Doha, Omar al-Bashir, Sudanese government_
 Officers on patrol opened fire on the infiltrator after he refused orders to stop, hitting him twice in the stomach.
 
 ### [The U.S. Internal Revenue Service announces that, due to the late passage of the extension of the Bush tax cuts and other itemizations, up to 50 million Americans will not be able to file their 2010 tax returns until mid-February. ](/news/2011/01/2/the-u-s-internal-revenue-service-announces-that-due-to-the-late-passage-of-the-extension-of-the-bush-tax-cuts-and-other-itemizations-up-t.md)
-_Context: Internal Revenue Service, U.S., extension of the Bush tax cuts and other itemizations, tax returns_
+_Context: Americans, Internal Revenue Service, extension of the Bush tax cuts and other itemizations, tax returns_
 
 ### [Officials in Afghanistan said that the price of opium has doubled due to a blight. There are fears the higher prices will draw more farmers into that business. ](/news/2011/01/2/officials-in-afghanistan-said-that-the-price-of-opium-has-doubled-due-to-a-blight-there-are-fears-the-higher-prices-will-draw-more-farmers.md)
 Opium prices have almost doubled after a blight halved production in 2010, Afghan officials said on Sunday, raising fears more farmers would turn to the illicit crop in the absence of profitable alternatives.
@@ -40,9 +40,9 @@ _Context: Israel, Palestinian Arab_
 IT was a bad New Year Day for some over 1,000 Nigerian pilgrims performing the 2010 pilgrimage to the holy land in Israel as the Israeli authority on Saturday shut its border against those entering the country from Egypt over a bomb scare which turned to be a false alarm.
 
 ### [Strict new anti-smoking legislation comes into effect in Spain. ](/news/2011/01/2/strict-new-anti-smoking-legislation-comes-into-effect-in-spain.md)
-_Context: Spanish, smoking ban_
+_Context: Spain, smoking ban_
 
-### [US President Barack Obama signs the 9/11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-to.md)
+### [US President Barack Obama signs the 9-11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-to.md)
 The $4.3 billion measure to aid rescue workers sickened after the 2001 terrorist attack required the president’s signature before he returned from a Hawaii vacation.
 
 ### [Former Canadian ambassador to the United Nations Paul Heinbecker urges the Canadian government to determine its agenda as global power shifts, particularly towards emerging economies. ](/news/2011/01/2/former-canadian-ambassador-to-the-united-nations-paul-heinbecker-urges-the-canadian-government-to-determine-its-agenda-as-global-power-shift.md)

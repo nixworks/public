@@ -22,7 +22,7 @@ Two cruise passengers died when their liner was hit by a freak wave off the Medi
 _Context: Abuja, Goodluck Jonathan, President, Saudi Arabia, Umaru Yar'Adua_
 
 ### [Spain says Venezuela has said it will assist an investigation into allegations of support for ETA. ](/news/2010/03/3/spain-says-venezuela-has-said-it-will-assist-an-investigation-into-allegations-of-support-for-eta.md)
-_Context: ETA, Spanish, Venezuela_
+_Context: ETA, Spain, Venezuela_
 
 ### [5 police officials in Chiniot, Punjab, are detained after footage of them whipping people in their custody are broadcast across national television channels. ](/news/2010/03/3/5-police-officials-in-chiniot-punjab-are-detained-after-footage-of-them-whipping-people-in-their-custody-are-broadcast-across-national-tel.md)
 _Context: Chiniot, Punjab_
@@ -36,7 +36,7 @@ Dozens die in Baquba as suicide bombers launch co-ordinated attacks days before 
 ### [Three are killed in Indian Navy air show crash in Hyderabad, India. ](/news/2010/03/3/three-are-killed-in-indian-navy-air-show-crash-in-hyderabad-india.md)
 _Context: Hyderabad, Indian Navy, air show_
 
-### [In the elections in the Netherlands, voters choose new municipal councils for 394 municipalities. [http://gr2010.nlkiest.nl/ "(Nederland Kiest)"] [http://nos.nl/dossier/133681-nederland-kiest/ "(NOS)"]](/news/2010/03/3/in-the-elections-in-the-netherlands-voters-choose-new-municipal-councils-for-394-municipalities-http-gr2010-nlkiest-nl-nederland-kie.md)
+### [In the elections in the Netherlands, voters choose new municipal councils for 394 municipalities. [http:--gr2010.nlkiest.nl- "(Nederland Kiest)"] [http:--nos.nl-dossier-133681-nederland-kiest- "(NOS)"]](/news/2010/03/3/in-the-elections-in-the-netherlands-voters-choose-new-municipal-councils-for-394-municipalities-http-gr2010-nlkiest-nl-nederland-kie.md)
 _Context: Elections in the Netherlands, municipal council, municipalities_
 
 ### [A BBC investigation claims millions of dollars in Western aid donated to the 1984-1985 famine in Ethiopia was stolen by rebels who used it to purchase weapons. ](/news/2010/03/3/a-bbc-investigation-claims-millions-of-dollars-in-western-aid-donated-to-the-1984a1985-famine-in-ethiopia-was-stolen-by-rebels-who-used-it.md)

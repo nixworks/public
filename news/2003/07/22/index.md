@@ -1,7 +1,7 @@
 ## [2003-07-22](/news/2003/07/22/index.md)
 
 ### [ John Manley, Deputy Prime Minister of Canada, drops out of the race to succeed Jean Chrtien as leader of the Liberal Party of Canada and Prime Minister after conceding he cannot catch front-runner Paul Martin, Jr..](/news/2003/07/22/john-manley-deputy-prime-minister-of-canada-drops-out-of-the-race-to-succeed-jean-chretien-as-leader-of-the-liberal-party-of-canada-and-p.md)
-_Context: Canadian Prime Minister, Deputy Prime Minister, Jean Chrtien, John Manley, Liberal Party's, Paul Martin, Jr._
+_Context: Deputy Prime Minister, Jean Chrtien, John Manley, Liberal Party's, Paul Martin, Jr., Prime Minister of Canada_
 
 ### [ One of the top floors of the Eiffel Tower catches fire. No one is injured.](/news/2003/07/22/one-of-the-top-floors-of-the-eiffel-tower-catches-fire-no-one-is-injured.md)
 _Context: Eiffel Tower_

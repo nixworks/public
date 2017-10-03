@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Avian flu virus, United Kingdom, bird flu, quarantine_
 
 ### [ The Lozells riots in Birmingham begin, leaving according to the most recent reports at least two dead. ](/news/2005/10/22/the-lozells-riots-in-birmingham-begin-leaving-according-to-the-most-recent-reports-at-least-two-dead.md)
-### [ Reporter Rory Caroll prints his kidnap story in "[http://www.guardian.co.uk/rorycarroll/story/0,16647,1598082,00.html The Guardian]".](/news/2005/10/22/reporter-rory-caroll-prints-his-kidnap-story-in-http-www-guardian-co-uk-rorycarroll-story-0-16647-1598082-00-html-the-guardian.md)
+### [ Reporter Rory Caroll prints his kidnap story in "[http:--www.guardian.co.uk-rorycarroll-story-0,16647,1598082,00.html The Guardian]".](/news/2005/10/22/reporter-rory-caroll-prints-his-kidnap-story-in-http-www-guardian-co-uk-rorycarroll-story-0-16647-1598082-00-html-the-guardian.md)
 ### [ The Chicago white Sox defeat the Houston Astros in Game 1 of the World Series, 5-3.](/news/2005/10/22/the-chicago-white-sox-defeat-the-houston-astros-in-game-1-of-the-world-series-5-3.md)
 ## [Previous Day...](/news/2005/10/21/index.md)
 

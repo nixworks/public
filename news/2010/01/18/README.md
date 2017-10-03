@@ -18,7 +18,7 @@ _Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somalian_
 ### [Two dozen Afghan Taliban insurgents launch coordinated attacks against the presidential palace and other buildings in central Kabul on the day a new government is to be sworn in. ](/news/2010/01/18/two-dozen-afghan-taliban-insurgents-launch-coordinated-attacks-against-the-presidential-palace-and-other-buildings-in-central-kabul-on-the-d.md)
 _Context: Afghanistan, Kabul, Taliban_
 
-### [A 3.4 M<sub>w</sub> earthquake hits Guizhou Province, China, and kills seven people. ](/news/2010/01/18/a-3-4-mw-earthquake-hits-guizhou-province-china-and-kills-seven-people.md)
+### [A 3.4 M w earthquake hits Guizhou Province, China, and kills seven people. ](/news/2010/01/18/a-3-4-m-w-earthquake-hits-guizhou-province-china-and-kills-seven-people.md)
 _Context: China, Guizhou province, earthquake, magnitude_
 
 ### [Burma's Supreme Court hears a last appeal against the house arrest of detained National League for Democracy leader Aung San Suu Kyi. ](/news/2010/01/18/burma-s-supreme-court-hears-a-last-appeal-against-the-house-arrest-of-detained-national-league-for-democracy-leader-aung-san-suu-kyi.md)

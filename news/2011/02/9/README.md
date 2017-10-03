@@ -45,7 +45,7 @@ _Context: Egypt, Nicolas Sarkozy, President of France, Tunisia, anti-regime prot
 ### [South Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/south-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-separated-by-the.md)
 Military talks aimed at easing tensions between North and South Korea have broken down, officials in Seoul say.
 
-### [U.S. Homeland Security Secretary Janet Napolitano claims the possibility of terrorism being carried out against the country "has evolved significantly" and, she claims, is "at its most heightened state" since the 9/11 attacks". ](/news/2011/02/9/u-s-homeland-security-secretary-janet-napolitano-claims-the-possibility-of-terrorism-being-carried-out-against-the-country-has-evolved-sig.md)
+### [U.S. Homeland Security Secretary Janet Napolitano claims the possibility of terrorism being carried out against the country "has evolved significantly" and, she claims, is "at its most heightened state" since the 9-11 attacks". ](/news/2011/02/9/u-s-homeland-security-secretary-janet-napolitano-claims-the-possibility-of-terrorism-being-carried-out-against-the-country-has-evolved-sig.md)
 The threat of terrorism in the US is in some ways &quot;at its most heightened state&quot; since the 9/11 attacks, the US homeland security secretary says.
 
 ### [In a new agreement, Denmark and Russia will for the first time, cooperate within military. ](/news/2011/02/9/in-a-new-agreement-denmark-and-russia-will-for-the-first-time-cooperate-within-military.md)
@@ -62,7 +62,7 @@ Jimmy Lemi Milla, minister for cooperatives and reural development, shot dead al
 The war crimes trial of ex-Liberian leader Charles Taylor is adjourned until Friday after he fails to attend the court in The Hague.
 
 ### [Daniel Patrick Boyd pleads guilty to terrorism charges in a trial in the US state of North Carolina. ](/news/2011/02/9/daniel-patrick-boyd-pleads-guilty-to-terrorism-charges-in-a-trial-in-the-us-state-of-north-carolina.md)
-_Context: Daniel Patrick Boyd, North Carolina, U.S., terrorism_
+_Context: Americans, Daniel Patrick Boyd, North Carolina, terrorism_
 
 ### [Spanish Basque nationalists announce a new political party named Sortu (meaning "born" in the Basque language), categorically rejecting all violence, including that of ETA. ](/news/2011/02/9/spanish-basque-nationalists-announce-a-new-political-party-named-sortu-meaning-born-in-the-basque-language-categorically-rejecting-all.md)
 _Context: Basque language, Basque nationalists, ETA, Sortu_
@@ -74,7 +74,7 @@ _Context: Cabinet of Pakistan, Prime Minister, economic crisis, forming a govern
 _Context: 26th congressional district, Chris Lee, United States House of Representatives_
 
 ### [The United States Democratic Leadership Council consisting of centrist Democrats announces that it will wind up. ](/news/2011/02/9/the-united-states-democratic-leadership-council-consisting-of-centrist-democrats-announces-that-it-will-wind-up.md)
-_Context: Democratic, Democratic Leadership Council, U.S._
+_Context: Americans, Democratic, Democratic Leadership Council_
 
 ### [The Chamber of Councillors of Tunisia passes legislation allowing the President to rule by decree. ](/news/2011/02/9/the-chamber-of-councillors-of-tunisia-passes-legislation-allowing-the-president-to-rule-by-decree.md)
 _Context: Chamber of Councillors of Tunisia, President of Tunisia_

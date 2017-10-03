@@ -3,7 +3,7 @@
 ### [Hamas rejects the continuation of a 72-hour ceasefire and has shot over 60 rockets since 8:00 into southern Israel. Israel launches air strikes in response. ](/news/2014/08/8/hamas-rejects-the-continuation-of-a-72-hour-ceasefire-and-has-shot-over-60-rockets-since-8-00-into-southern-israel-israel-launches-air-stri.md)
 _Context: Hamas, Israel_
 
-### [U.S. F/A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/u-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md)
+### [U.S. F-A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/u-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md)
 Tens of thousands of Yazidis have taken refuge on a mountain in Sinjar province after Islamic State fighters overran their town and other areas, pushing out Kurdish paramilitary forces. 
 
 ### [The DotA 2 tournament, "The International 4" begins, the biggest e-sports event of all time with a prize pool of $10,930,698 ](/news/2014/08/8/the-dota-2-tournament-the-international-4-begins-the-biggest-e-sports-event-of-all-time-with-a-prize-pool-of-10-930-698.md)

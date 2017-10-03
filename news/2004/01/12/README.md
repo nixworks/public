@@ -22,7 +22,7 @@ _Context: International Space Station_
 ### [ Iran's provincial governors are threatening to resign unless a decision by the conservative Guardian Council is reversed.](/news/2004/01/12/iran-s-provincial-governors-are-threatening-to-resign-unless-a-decision-by-the-conservative-guardian-council-is-reversed.md)
 _Context: Council of Guardians, Iran_
 
-### [ Mars Exploration Rover Mission: The "Spirit"<nowiki>'</nowiki>s air bags that cushioned its landing on Mars have been obstructing the vehicle's path, and this complication has postponed its exit of the launch vehicle until Wednesday or Thursday.](/news/2004/01/12/mars-exploration-rover-mission-the-spirit-s-air-bags-that-cushioned-its-landing-on-mars-have-been-obstructing-the-vehicle-s-path-and-th.md)
+### [ Mars Exploration Rover Mission: The "Spirit" ' s air bags that cushioned its landing on Mars have been obstructing the vehicle's path, and this complication has postponed its exit of the launch vehicle until Wednesday or Thursday.](/news/2004/01/12/mars-exploration-rover-mission-the-spirit-s-air-bags-that-cushioned-its-landing-on-mars-have-been-obstructing-the-vehicle-s-path-and.md)
 _Context: Mars Exploration Rover Mission, Spirit_
 
 ### [ The World Wildlife Fund-UK reports that the orangutan is in danger of becoming extinct within the next 20 years because of commercial logging and clearance for oil palm plantations.](/news/2004/01/12/the-world-wildlife-fund-uk-reports-that-the-orangutan-is-in-danger-of-becoming-extinct-within-the-next-20-years-because-of-commercial-loggi.md)

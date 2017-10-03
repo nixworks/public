@@ -18,17 +18,17 @@ _Context: Angra dos Reis, Brazil, Ilha Grande_
 ### [ A study suggests that teenagers who go to bed late are more likely to develop depression and to have suicidal thoughts. ](/news/2010/01/1/a-study-suggests-that-teenagers-who-go-to-bed-late-are-more-likely-to-develop-depression-and-to-have-suicidal-thoughts.md)
 _Context: major depressive disorder, suicide_
 
-### [ Researchers announce that the likely origin of devil facial tumour disease, a transmissible cancer which has caused the population of Tasmanian devils to collapse by 60% in the past decade, is Schwann cells. [http://news.bbc.co.uk/2/hi/science/nature/8433645.stm (BBC)] [http://www.time.com/time/health/article/0,8599,1950787,00.html?xid=rss-topstories ("Time")] [http://www.nytimes.com/2010/01/01/science/01devil.html ("New York Times)"] [http://www.sciencemag.org/cgi/content/short/327/5961/84/ "(Science)"]](/news/2010/01/1/researchers-announce-that-the-likely-origin-of-devil-facial-tumour-disease-a-transmissible-cancer-which-has-caused-the-population-of-tasma.md)
+### [ Researchers announce that the likely origin of devil facial tumour disease, a transmissible cancer which has caused the population of Tasmanian devils to collapse by 60% in the past decade, is Schwann cells. [http:--news.bbc.co.uk-2-hi-science-nature-8433645.stm (BBC)] [http:--www.time.com-time-health-article-0,8599,1950787,00.html?xid=rss-topstories ("Time")] [http:--www.nytimes.com-2010-01-01-science-01devil.html ("New York Times)"] [http:--www.sciencemag.org-cgi-content-short-327-5961-84- "(Science)"]](/news/2010/01/1/researchers-announce-that-the-likely-origin-of-devil-facial-tumour-disease-a-transmissible-cancer-which-has-caused-the-population-of-tasma.md)
 _Context: Schwann cell, Tasmanian devil, devil facial tumour disease, transmissible cancer_
 
 ### [ A Cambodian court issues an arrest warrant for opposition leader Sam Rainsy, for failing to turn up at court over a border dispute with Vietnam. ](/news/2010/01/1/a-cambodian-court-issues-an-arrest-warrant-for-opposition-leader-sam-rainsy-for-failing-to-turn-up-at-court-over-a-border-dispute-with-vie.md)
 _Context: Cambodia, Sam Rainsy, Vietnam_
 
 ### [ North Korea calls for the end of hostilities with the United States and a nuclear free Korean Peninsula, to restart talks; in its annual New Year editorial. ](/news/2010/01/1/north-korea-calls-for-the-end-of-hostilities-with-the-united-states-and-a-nuclear-free-korean-peninsula-to-restart-talks-in-its-annual-ne.md)
-_Context: Korean Peninsula, New Year editorial, North Korea, U.S._
+_Context: Americans, Korean Peninsula, New Year editorial, North Korea_
 
 ### [ Spain takes over the Presidency of the Council of the European Union from Sweden. ](/news/2010/01/1/spain-takes-over-the-presidency-of-the-council-of-the-european-union-from-sweden.md)
-_Context: Council of the European Union, EU, Spanish, Swedish, the Council of_
+_Context: Council of the European Union, EU, Spain, Swedish, the Council of_
 
 ## [Previous Day...](/news/2009/12/31/index.md)
 

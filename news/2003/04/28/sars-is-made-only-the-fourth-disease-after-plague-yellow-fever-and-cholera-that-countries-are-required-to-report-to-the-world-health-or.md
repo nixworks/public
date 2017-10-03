@@ -1,6 +1,6 @@
 ### [2003-04-28](/news/2003/04/28/index.md)
 
-#  SARS is made only the fourth disease, after plague, yellow fever, and cholera, that countries are required to report to the World Health Organization.<ref name="globeandmail1"/>
+#  SARS is made only the fourth disease, after plague, yellow fever, and cholera, that countries are required to report to the World Health Organization. 
 
 
 
@@ -12,8 +12,3 @@
 3. [The World Health Organization reports that an outbreak of bubonic plague in Madagascar has killed 40 people. ](/news/2014/11/21/the-world-health-organization-reports-that-an-outbreak-of-bubonic-plague-in-madagascar-has-killed-40-people.md) _Context: Bubonic plague, World Health Organization_
 4. [ Taiwan is the last territory to be declared free of SARS by the World Health Organization, after 20 days with no new cases reported. ](/news/2003/07/5/taiwan-is-the-last-territory-to-be-declared-free-of-sars-by-the-world-health-organization-after-20-days-with-no-new-cases-reported.md) _Context: SARS, World Health Organization_
 5. [ For the first time in more than two months, no new deaths were reported yesterday from SARS, the latest indication that the epidemic is subsiding, the World Health Organization said.](/news/2003/06/5/for-the-first-time-in-more-than-two-months-no-new-deaths-were-reported-yesterday-from-sars-the-latest-indication-that-the-epidemic-is-sub.md) _Context: SARS, World Health Organization_
-6. [ The World Health Organization holds a meeting in Toronto regarding SARS.](/news/2003/04/30/the-world-health-organization-holds-a-meeting-in-toronto-regarding-sars.md) _Context: SARS, World Health Organization_
-7. [ The World Health Organization announces that SARS has peaked in all affected countries except the People's Republic of China. These countries include Canada, Singapore, and Vietnam, as well as Hong Kong.[http://www.globeandmail.com/servlet/story/RTGAM.20030428.wsars0428/BNStory/International ]date=September 2015](/news/2003/04/28/the-world-health-organization-announces-that-sars-has-peaked-in-all-affected-countries-except-the-people-s-republic-of-china-these-countri.md) _Context: SARS, World Health Organization_
-8. [ Severe Acute Respiratory Syndrome: Dr. Carlo Urbani, a WHO expert on communicable diseases and the physician who first identified the outbreak, dies of the disease in Thailand. He had been infected in Vietnam.](/news/2003/03/29/severe-acute-respiratory-syndrome-dr-carlo-urbani-a-who-expert-on-communicable-diseases-and-the-physician-who-first-identified-the-outbr.md) _Context: SARS, World Health Organization_
-9. [The World Health Organization says that hunger around the world has risen as a result of war and climate change. ](/news/2017/09/15/the-world-health-organization-says-that-hunger-around-the-world-has-risen-as-a-result-of-war-and-climate-change.md) _Context: World Health Organization_
-10. [According to the World Health Organization, antibiotic resistance is on the rise in strains of gonorrhoea. It says that there is a need to prevent the spread of these bacteria, recommending usage of condoms and an increase in research and development funding. ](/news/2017/07/7/according-to-the-world-health-organization-antibiotic-resistance-is-on-the-rise-in-strains-of-gonorrhoea-it-says-that-there-is-a-need-to-p.md) _Context: World Health Organization_

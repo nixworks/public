@@ -1,6 +1,6 @@
 ### [2015-11-10](/news/2015/11/10/index.md)
 
-# Technology news website "Re/code" reports Dell Incorporated's $67 billion offer to buy data storage company EMC Corporation could be derailed by a tax bill of up to $9 billion if key aspects of the deal do not qualify for the sort of tax treatment the companies consider essential for the transaction. 
+# Technology news website "Re-code" reports Dell Incorporated's $67 billion offer to buy data storage company EMC Corporation could be derailed by a tax bill of up to $9 billion if key aspects of the deal do not qualify for the sort of tax treatment the companies consider essential for the transaction. 
 
 
 

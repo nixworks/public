@@ -6,7 +6,7 @@ _Context: New Orleans, Robert Davis, not guilty_
 ### [ The Japan Aerospace Exploration Agency successfully tests a $10 million jet that travels at twice the speed of sound. ](/news/2005/10/10/the-japan-aerospace-exploration-agency-successfully-tests-a-10-million-jet-that-travels-at-twice-the-speed-of-sound.md)
 _Context: Japan Aerospace Exploration Agency, speed of sound_
 
-### [ 2005 Kashmir earthquake: SOS Children have reported that despite the destruction of much of their Children's Village in Muzaffarabad all of the children in their care are believed safe. [http://www.sos-childrensvillages.org/News-and-Media/News/Pages/Children-in-need-of-shelter-and-protection-South-Asia-Earthquake.aspx]](/news/2005/10/10/2005-kashmir-earthquake-sos-children-have-reported-that-despite-the-destruction-of-much-of-their-childrenas-village-in-muzaffarabad-all.md)
+### [ 2005 Kashmir earthquake: SOS Children have reported that despite the destruction of much of their Children's Village in Muzaffarabad all of the children in their care are believed safe. [http:--www.sos-childrensvillages.org-News-and-Media-News-Pages-Children-in-need-of-shelter-and-protection-South-Asia-Earthquake.aspx]](/news/2005/10/10/2005-kashmir-earthquake-sos-children-have-reported-that-despite-the-destruction-of-much-of-their-childrenas-village-in-muzaffarabad-all.md)
 _Context: 2005 Kashmir earthquake, Muzaffarabad, SOS Children_
 
 ### [ Conflict in Iraq: Insurgent attacks throughout Iraq leave seven Iraqis, two security officials from the Arab league and one U.S. soldier dead. ](/news/2005/10/10/conflict-in-iraq-insurgent-attacks-throughout-iraq-leave-seven-iraqis-two-security-officials-from-the-arab-league-and-one-u-s-soldier-de.md)

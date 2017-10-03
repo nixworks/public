@@ -7,7 +7,7 @@ Indonesian President Joko Widodo has urged an end to violent clashes in Aceh, af
 Troops have joined the Syrian regime&#039;s military forces and Hizbollah allies in preparation for a ground attack in the Syrian city, say officials
 
 ### [ISIL confirms that U.S. forces killed its number two leader, Abu Mutaz al-Qurashi, in an airstrike near Mosul back in August. ](/news/2015/10/14/isil-confirms-that-u-s-forces-killed-its-number-two-leader-abu-mutaz-al-qurashi-in-an-airstrike-near-mosul-back-in-august.md)
-_Context: Abu Mutaz al-Qurashi, ISIL, Islamic State, Mosul, U.S., U.S. airstrikes_
+_Context: Abu Mutaz al-Qurashi, Americans, ISIL, Islamic State, Mosul, U.S. airstrikes_
 
 ### [Israel's military deploys new checkpoints in its Arab neighborhoods, as well as thousands of border police soldiers to cities and on roads to assist police forces in response to recent Palestinian stabbing attacks. ](/news/2015/10/14/israel-s-military-deploys-new-checkpoints-in-its-arab-neighborhoods-as-well-as-thousands-of-border-police-soldiers-to-cities-and-on-roads-t.md)
 Israel&#39;s military said it started deploying hundreds of soldiers to cities Wednesday to assist police forces, after weeks of shooting and stabbing attacks on Israelis by Palestinians.
@@ -24,7 +24,7 @@ Taliban insurgents overran two checkpoints in southern Helmand province and kill
 ### [At the beginning of today's weekly general audience, Pope Francis asks for forgiveness for the scandals which have recently hit Rome and the Vatican. He did not offer details. The Church's Synod on the Family concludes Sunday, October 25, 2015. ](/news/2015/10/14/at-the-beginning-of-today-s-weekly-general-audience-pope-francis-asks-for-forgiveness-for-the-scandals-which-have-recently-hit-rome-and-the.md)
 Francis made the surprise comments at today&#8217;s general audience in St Peter&#8217;s Square
 
-### [A Swiss Boeing F/A-18 military jet crashes in France while on a training mission, injuring the pilot. The Swiss defense ministry has said it did not know what caused the accident. ](/news/2015/10/14/a-swiss-boeing-f-a-18-military-jet-crashes-in-france-while-on-a-training-mission-injuring-the-pilot-the-swiss-defense-ministry-has-said-it.md)
+### [A Swiss Boeing F-A-18 military jet crashes in France while on a training mission, injuring the pilot. The Swiss defense ministry has said it did not know what caused the accident. ](/news/2015/10/14/a-swiss-boeing-f-a-18-military-jet-crashes-in-france-while-on-a-training-mission-injuring-the-pilot-the-swiss-defense-ministry-has-said-it.md)
 The Swiss army said one of its Boeing F/A-18 jets crashed in France on a training mission on Wednesday, injuring the pilot.
 
 ### [A temporary footbridge across the M1 motorway in Sandton near Johannesburg, South Africa, collapses, killing two people and injuring 23. Both carriageways of the motorway remain closed as rescue work continues. ](/news/2015/10/14/a-temporary-footbridge-across-the-m1-motorway-in-sandton-near-johannesburg-south-africa-collapses-killing-two-people-and-injuring-23-bot.md)

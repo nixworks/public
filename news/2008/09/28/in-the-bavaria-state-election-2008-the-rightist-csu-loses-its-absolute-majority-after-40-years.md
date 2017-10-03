@@ -15,4 +15,4 @@
 ### Related:
 
 1. [ The longest reigning minister-president in 200 years in Bavaria, Edmund Stoiber, quits his position as minister-president and chairman of the CSU. Stoiber held the first position from 1993 and the second position from 1999. ](/news/2007/01/18/the-longest-reigning-minister-president-in-200-years-in-bavaria-edmund-stoiber-quits-his-position-as-minister-president-and-chairman-of-t.md) _Context: CSU_
-2. [ Angela Merkel is elected by the CDU/CSU as candidate to become Chancellor of Germany in the upcoming German federal election, 2005. ](/news/2005/05/30/angela-merkel-is-elected-by-the-cdu-csu-as-candidate-to-become-chancellor-of-germany-in-the-upcoming-german-federal-election-2005.md) _Context: CSU_
+2. [ Angela Merkel is elected by the CDU-CSU as candidate to become Chancellor of Germany in the upcoming German federal election, 2005. ](/news/2005/05/30/angela-merkel-is-elected-by-the-cdu-csu-as-candidate-to-become-chancellor-of-germany-in-the-upcoming-german-federal-election-2005.md) _Context: CSU_

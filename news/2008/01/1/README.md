@@ -18,7 +18,7 @@ _Context: Eldoret, Kenya, Kenyan presidential election, 2007_
 ### [ US Diplomat John Granville, working for the United States Agency for International Development in Sudan, is murdered. ](/news/2008/01/1/us-diplomat-john-granville-working-for-the-united-states-agency-for-international-development-in-sudan-is-murdered.md)
 _Context: John Granville, Sudan, USAID_
 
-### [ Thiyagarajah Maheswaran, a minority Sri Lankan Tamil parliamentarian, is shot dead at a Hindu temple in Colombo, Sri Lanka.([http://timesofindia.indiatimes.com/Sri_Lankan_Tamil_MP_shot_dead_at_Hindu_temple_in_Colombo/articleshow/2666314.cms Times of India])](/news/2008/01/1/thiyagarajah-maheswaran-a-minority-sri-lankan-tamil-parliamentarian-is-shot-dead-at-a-hindu-temple-in-colombo-sri-lanka-http-timesof.md)
+### [ Thiyagarajah Maheswaran, a minority Sri Lankan Tamil parliamentarian, is shot dead at a Hindu temple in Colombo, Sri Lanka.([http:--timesofindia.indiatimes.com-Sri_Lankan_Tamil_MP_shot_dead_at_Hindu_temple_in_Colombo-articleshow-2666314.cms Times of India])](/news/2008/01/1/thiyagarajah-maheswaran-a-minority-sri-lankan-tamil-parliamentarian-is-shot-dead-at-a-hindu-temple-in-colombo-sri-lanka-http-timesof.md)
 _Context: Colombo, Hindu, Sri Lanka, Sri Lankan Tamil, Thiyagarajah Maheswaran_
 
 ## [Previous Day...](/news/2007/12/31/index.md)

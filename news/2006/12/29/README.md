@@ -3,11 +3,11 @@
 ### [ Police "'discover"' skulls, bodies of 15 missing children in Noida, India.](/news/2006/12/29/police-discover-skulls-bodies-of-15-missing-children-in-noida-india.md)
 _Context: Noida, discover_
 
-### [ AT&T, Inc. acquires BellSouth Corporation to create one of the largest telecommunications companies in the world. [http://www.att.com/gen/press-room?pid=4800&cdvn=news&newsarticleid=22860]](/news/2006/12/29/at-t-inc-acquires-bellsouth-corporation-to-create-one-of-the-largest-telecommunications-companies-in-the-world-http-www-att-com-gen-p.md)
+### [ AT&T, Inc. acquires BellSouth Corporation to create one of the largest telecommunications companies in the world. [http:--www.att.com-gen-press-room?pid=4800&cdvn=news&newsarticleid=22860]](/news/2006/12/29/at-t-inc-acquires-bellsouth-corporation-to-create-one-of-the-largest-telecommunications-companies-in-the-world-http-www-att-com-gen-p.md)
 _Context: AT&T, BellSouth Corporation_
 
 ### [ The United Kingdom pays off the last of its debts from World War II by paying the last $100 million to the United States and Canada. The country still has debts outstanding from the Napoleonic Wars, which are cheaper to pay interest on than to redeem. ](/news/2006/12/29/the-united-kingdom-pays-off-the-last-of-its-debts-from-world-war-ii-by-paying-the-last-100-million-to-the-united-states-and-canada-the-co.md)
-_Context: Canada, Napoleonic Wars, U.S., United Kingdom, World War II_
+_Context: Americans, Canada, Napoleonic Wars, United Kingdom, World War II_
 
 ### [ Kazakh Foreign Minister Kassym-Jomart Tokayev says that in the event of a war in Turkmenistan over succession to Turkmenbashi Saparmurat Niyazov, "Kazakhstan is not going to get involved." ](/news/2006/12/29/kazakh-foreign-minister-kassym-jomart-tokayev-says-that-in-the-event-of-a-war-in-turkmenistan-over-succession-to-turkmenbashi-saparmurat-ni.md)
 _Context: Foreign Minister, Kassym-Jomart Tokayev, Saparmurat Niyazov, president, war in Turkmenistan_

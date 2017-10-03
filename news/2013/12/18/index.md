@@ -3,14 +3,14 @@
 ### [The United Nations says that 400 to 500 people may have been killed and up to 800 wounded in recent attacks in the country. ](/news/2013/12/18/the-united-nations-says-that-400-to-500-people-may-have-been-killed-and-up-to-800-wounded-in-recent-attacks-in-the-country.md)
 _Context: United Nations_
 
-### [High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. [http://www.debate.com.mx/eldebate/noticias/default.asp?IdArt=13860743&IdCat=17402&sl=2 "(El Debate)"]](/news/2013/12/18/high-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasco-sonora-http.md)
+### [High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. [http:--www.debate.com.mx-eldebate-noticias-default.asp?IdArt=13860743&IdCat=17402&sl=2 "(El Debate)"]](/news/2013/12/18/high-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasco-sonora-http.md)
 _Context: Gonzalo Inzunza Inzunza, Puerto Peasco, Sonora, Sinaloa Cartel_
 
 ### [Chinese actress Zhang Ziyi settles out of court a U.S. sex scandal libel lawsuit against the U.S.-based overseas alternative news source website Boxun. ](/news/2013/12/18/chinese-actress-zhang-ziyi-settles-out-of-court-a-u-s-sex-scandal-libel-lawsuit-against-the-u-s-based-overseas-alternative-news-source-web.md)
 Chinese film star Zhang Ziyi wins damages from a US-based website that published false reports she was paid to have sex with top Chinese officials.
 
 ### [LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/lgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-united-states-in-sochi-a.md)
-_Context: Billie Jean King, Caitlin Cahow, LGBT rights in Russia, Russia, Sochi, U.S., gay and bisexual men_
+_Context: Americans, Billie Jean King, Caitlin Cahow, LGBT rights in Russia, Russia, Sochi, gay and bisexual men_
 
 ### [China launches a crackdown against the internet currency BitCoin, plunging its value by 35%. ](/news/2013/12/18/china-launches-a-crackdown-against-the-internet-currency-bitcoin-plunging-its-value-by-35.md)
 _Context: China, bitcoin_

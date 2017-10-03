@@ -10,7 +10,7 @@ American commanders say insurgents loyal to rebel cleric Moktada al-Sadr appear 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Prime Minister of Canada Paul Martin asks Governor General Adrienne Clarkson to dissolve Parliament; an election will be held on June 28. ](/news/2004/05/23/prime-minister-of-canada-paul-martin-asks-governor-general-adrienne-clarkson-to-dissolve-parliament-an-election-will-be-held-on-june-28.md)
-_Context: 2004 federal election, Adrienne Clarkson, Canadian Prime Minister, Governor General, Parliament of Canada, Paul Martin_
+_Context: 2004 federal election, Adrienne Clarkson, Governor General of Canada, Parliament of Canada, Paul Martin, Prime Minister of Canada_
 
 ### [ China announces that tests of a SARS vaccine have started on humans. ](/news/2004/05/23/china-announces-that-tests-of-a-sars-vaccine-have-started-on-humans.md)
 _Context: SARS, vaccine_

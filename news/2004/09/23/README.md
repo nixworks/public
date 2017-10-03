@@ -12,7 +12,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 ### [ Conflict in Iraq: The governments of the United Kingdom and Iraq announce that they will not comply with the demands of the militant group Tawhid and Jihad, which has threatened to behead its hostage, British citizen Kenneth Bigley. ](/news/2004/09/23/conflict-in-iraq-the-governments-of-the-united-kingdom-and-iraq-announce-that-they-will-not-comply-with-the-demands-of-the-militant-group.md)
 _Context: Iraq, Kenneth Bigley, Tawhid and Jihad, hostage, rebel-held_
 
-### [ 2004 Atlantic hurricane season: The death toll in Haiti from flooding caused by this weekend's passage of Hurricane Jeanne is now at 1,080 persons, and government officials say the final number is likely to be around 2,000. At least 175,000 Haitians have been affected by the flooding. [http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6309716 (Reuters)] ayung======](/news/2004/09/23/2004-atlantic-hurricane-season-the-death-toll-in-haiti-from-flooding-caused-by-this-weekend-s-passage-of-hurricane-jeanne-is-now-at-1-080.md)
+### [ 2004 Atlantic hurricane season: The death toll in Haiti from flooding caused by this weekend's passage of Hurricane Jeanne is now at 1,080 persons, and government officials say the final number is likely to be around 2,000. At least 175,000 Haitians have been affected by the flooding. [http:--www.reuters.com-newsArticle.jhtml?type=topNews&storyID=6309716 (Reuters)] ayung======](/news/2004/09/23/2004-atlantic-hurricane-season-the-death-toll-in-haiti-from-flooding-caused-by-this-weekend-s-passage-of-hurricane-jeanne-is-now-at-1-080.md)
 _Context: 2004 Atlantic hurricane season, Haiti, Hurricane Jeanne, flood_
 
 ## [Previous Day...](/news/2004/09/22/index.md)

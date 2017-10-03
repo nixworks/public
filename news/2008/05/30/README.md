@@ -1,10 +1,10 @@
 ## [2008-05-30](/news/2008/05/30/index.md)
 
-### [ In the United States, Sameer Mishra wins the 81st Scripps National Spelling Bee, the winning word was "guerdon", a noun meaning a reward. [http://www.usatoday.com/sports/2008-05-30-spelling-bee_N.htm "(USA Today)"]](/news/2008/05/30/in-the-united-states-sameer-mishra-wins-the-81st-scripps-national-spelling-bee-the-winning-word-was-guerdon-a-noun-meaning-a-reward.md)
-_Context: 81st Scripps National Spelling Bee, U.S., guerdon_
+### [ In the United States, Sameer Mishra wins the 81st Scripps National Spelling Bee, the winning word was "guerdon", a noun meaning a reward. [http:--www.usatoday.com-sports-2008-05-30-spelling-bee_N.htm "(USA Today)"]](/news/2008/05/30/in-the-united-states-sameer-mishra-wins-the-81st-scripps-national-spelling-bee-the-winning-word-was-guerdon-a-noun-meaning-a-reward.md)
+_Context: 81st Scripps National Spelling Bee, Americans, guerdon_
 
 ### [ A gunman shoots dead a magistrate and a Perry County, Kentucky, employee before killing himself in a convenience store near Hazard, Kentucky, United States. ](/news/2008/05/30/a-gunman-shoots-dead-a-magistrate-and-a-perry-county-kentucky-employee-before-killing-himself-in-a-convenience-store-near-hazard-kentuck.md)
-_Context: Hazard, Perry County, Kentucky, U.S., magistrate_
+_Context: Americans, Hazard, Perry County, Kentucky, magistrate_
 
 ### [ Agathon Rwasa returns to Burundi from exile in Tanzania after an agreement between his Party for the Liberation of the Hutu People and the government. ](/news/2008/05/30/agathon-rwasa-returns-to-burundi-from-exile-in-tanzania-after-an-agreement-between-his-party-for-the-liberation-of-the-hutu-people-and-the.md)
 _Context: Agathon Rwasa, Party for the Liberation of the Hutu People_
@@ -25,7 +25,7 @@ _Context: Texas Department of Family and Protective Services, YFZ Ranch_
 _Context: Burma, Cyclone Nargis, Rangoon, United Nations_
 
 ### [ Fishermen in Spain, Portugal and Italy strike to protest against high fuel prices; Spain's economy minister says his government cannot cut fuel taxes, but is looking into ways to help fishermen. ](/news/2008/05/30/fishermen-in-spain-portugal-and-italy-strike-to-protest-against-high-fuel-prices-spain-s-economy-minister-says-his-government-cannot-cut.md)
-_Context: Italy, Portugal, Spanish, fuel prices_
+_Context: Italy, Portugal, Spain, fuel prices_
 
 ### [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-airaq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md)
 _Context: Iraq, Muqtada al-Sadr, U.S._

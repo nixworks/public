@@ -1,6 +1,6 @@
 ## [2004-01-1](/news/2004/01/1/index.md)
 
-### [ Montral/Dorval International Airport is renamed Montral/Pierre Elliott Trudeau International Airport.](/news/2004/01/1/montreal-dorval-international-airport-is-renamed-montreal-pierre-elliott-trudeau-international-airport.md)
+### [ Montral-Dorval International Airport is renamed Montral-Pierre Elliott Trudeau International Airport.](/news/2004/01/1/montreal-dorval-international-airport-is-renamed-montreal-pierre-elliott-trudeau-international-airport.md)
 _Context: Montral/Pierre Elliott Trudeau International Airport_
 
 ### [ MySpace has its official launch.](/news/2004/01/1/myspace-has-its-official-launch.md)

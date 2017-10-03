@@ -12,4 +12,3 @@
 3. [The biggest solar flare in five years that occurred on March 6 nears Earth with the capacity to disrupt power grids, GPS systems and airline flights. ](/news/2012/03/7/the-biggest-solar-flare-in-five-years-that-occurred-on-march-6-nears-earth-with-the-capacity-to-disrupt-power-grids-gps-systems-and-airline.md) _Context: solar flare_
 4. [A coronal mass ejection makes the Northern Lights visible over much of North America. ](/news/2011/10/24/a-coronal-mass-ejection-makes-the-northern-lights-visible-over-much-of-north-america.md) _Context: Northern Lights_
 5. [ a solar flare Solar flare#Hazards](/news/2005/01/20/a-solar-flare-solar-flare-hazards.md) _Context: solar flare_
-6. [ The sun surprises astronomers by launching another solar flare, this time the largest ever recorded.](/news/2003/11/4/the-sun-surprises-astronomers-by-launching-another-solar-flare-this-time-the-largest-ever-recorded.md) _Context: solar flare_

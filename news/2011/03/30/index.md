@@ -12,7 +12,7 @@ Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale Un
 ### [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md)
 _Context: Amin Maalouf, Anne Tyler, Dacia Maraini, David Malouf, James Kelman, John le Carre, Juan Goytisolo, Man Booker International Prize, Marilynne Robinson, Philip Pullman, Philip Roth, Rohinton Mistry, Su Tong, Wang Anyi_
 
-### [The oldest copy of "Codex Holmiensis", dating from 1280, is returned to Denmark after 300 years in Sweden. [http://www.dr.dk/Nyheder/Kultur/2011/03/30/103038.htm] (Danish)](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from-1280-is-returned-to-denmark-after-300-years-in-sweden-http-www-dr-dk-nyheder-kultur.md)
+### [The oldest copy of "Codex Holmiensis", dating from 1280, is returned to Denmark after 300 years in Sweden. [http:--www.dr.dk-Nyheder-Kultur-2011-03-30-103038.htm] (Danish)](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from-1280-is-returned-to-denmark-after-300-years-in-sweden-http-www-dr-dk-nyheder-kultur.md)
 _Context: Codex Holmiensis, Denmark, Swedish_
 
 ### [The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. ](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-seaworld-orlando-13-months-after-being-involved-in-the-death-of-trainer-dawn-blancheau.md)

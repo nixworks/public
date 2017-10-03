@@ -6,7 +6,7 @@ _Context: magnetar_
 ### [ In Mulhouse, France, a suspected gas explosion kills 17 people ](/news/2004/12/27/in-mulhouse-france-a-suspected-gas-explosion-kills-17-people.md)
 _Context: Mulhouse_
 
-### [ Newly discovered observations from March 2004 rule out the possibility that asteroid 2004 MN<sub>4</sub> (later named 99942 Apophis in July 2005) will hit Earth in 2029. ](/news/2004/12/27/newly-discovered-observations-from-march-2004-rule-out-the-possibility-that-asteroid-2004-mn4-later-named-99942-apophis-in-july-2005-will.md)
+### [ Newly discovered observations from March 2004 rule out the possibility that asteroid 2004 MN 4 (later named 99942 Apophis in July 2005) will hit Earth in 2029. ](/news/2004/12/27/newly-discovered-observations-from-march-2004-rule-out-the-possibility-that-asteroid-2004-mn-4-later-named-99942-apophis-in-july-2005-wil.md)
 _Context: 99942 Apophis, Asteroid_
 
 ### [ The U.S. dollar hits a new low against the euro: USD 1.3640 to EUR 1.00. ](/news/2004/12/27/the-u-s-dollar-hits-a-new-low-against-the-euro-usd-1-3640-to-eur-1-00.md)

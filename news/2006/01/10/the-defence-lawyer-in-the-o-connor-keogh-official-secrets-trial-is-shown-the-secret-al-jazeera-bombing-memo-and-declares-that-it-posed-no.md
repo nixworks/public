@@ -13,5 +13,5 @@
 
 ### Related:
 
-1. [ The British government suppresses further details of the Bush/Blair memo. (WikiNews)](/news/2005/11/26/the-british-government-suppresses-further-details-of-the-bush-blair-memo-wikinews.md) _Context: Al Jazeera bombing memo_
+1. [ The British government suppresses further details of the Bush-Blair memo. (WikiNews)](/news/2005/11/26/the-british-government-suppresses-further-details-of-the-bush-blair-memo-wikinews.md) _Context: Al Jazeera bombing memo_
 2. [ Al Jazeera bombing memo: British "Daily Mirror" tabloid publishes an article suggesting that George W. Bush discussed with Tony Blair a plan to bomb the offices of the Al Jazeera TV station. ](/news/2005/11/22/al-jazeera-bombing-memo-british-daily-mirror-tabloid-publishes-an-article-suggesting-that-george-w-bush-discussed-with-tony-blair-a-pla.md) _Context: Al Jazeera bombing memo_

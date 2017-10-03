@@ -1,6 +1,6 @@
 ## [2006-07-23](/news/2006/07/23/index.md)
 
-### [ Human Rights Watch releases a report stating that torture of Iraqi detainees was authorized by the US government; soldiers' complaints were ignored. [http://www.hrw.org/english/docs/2006/07/19/usint13767.htm (Human Rights Watch) ]](/news/2006/07/23/human-rights-watch-releases-a-report-stating-that-torture-of-iraqi-detainees-was-authorized-by-the-us-government-soldiers-complaints-were.md)
+### [ Human Rights Watch releases a report stating that torture of Iraqi detainees was authorized by the US government; soldiers' complaints were ignored. [http:--www.hrw.org-english-docs-2006-07-19-usint13767.htm (Human Rights Watch) ]](/news/2006/07/23/human-rights-watch-releases-a-report-stating-that-torture-of-iraqi-detainees-was-authorized-by-the-us-government-soldiers-complaints-were.md)
 _Context: Human Rights Watch, Iraq, government_
 
 ### [ Miss Puerto Rico, Zuleyka Rivera Mendoza, is crowned Miss Universe 2006 in Los Angeles, California. Forty minutes after her crowning, she collapses during a post-pageant news conference. ](/news/2006/07/23/miss-puerto-rico-zuleyka-rivera-mendoza-is-crowned-miss-universe-2006-in-los-angeles-california-forty-minutes-after-her-crowning-she-c.md)
@@ -13,7 +13,7 @@ Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college
 _Context: Ariel Sharon_
 
 ### [ American Floyd Landis wins the 2006 Tour de France. ](/news/2006/07/23/american-floyd-landis-wins-the-2006-tour-de-france.md)
-_Context: 2006, Floyd Landis, U.S._
+_Context: 2006, Americans, Floyd Landis_
 
 ### [ The UN's Jan Egeland has condemned the devastation caused by Israeli air strikes in Beirut, saying it is a violation of humanitarian law.](/news/2006/07/23/the-un-s-jan-egeland-has-condemned-the-devastation-caused-by-israeli-air-strikes-in-beirut-saying-it-is-a-violation-of-humanitarian-law.md)
 (VIDEO) Heavy rocket barrage hits several places in Haifa, Nesher, surrounding areas; two people killed, 12 injured, one sustaining serious wounds. In Nesher, rocket opens hole in wall, lands in center of living room. Child lightly wounded by rocket in Carmiel

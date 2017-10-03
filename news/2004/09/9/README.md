@@ -21,7 +21,7 @@ _Context: Costa Rica_
 ### [ Crown Prince Al-Muhtadee Billah of Brunei marries Pengiran Anak Sarah. ](/news/2004/09/9/crown-prince-al-muhtadee-billah-of-brunei-marries-pengiran-anak-sarah.md)
 _Context: Al-Muhtadee Billah, Brunei, Pengiran Anak Sarah_
 
-### [ 2004 Atlantic hurricane season: Hurricane Ivan strengthens to the first Category 5 hurricane of the season, with sustained wind speeds of 160&nbsp;mi/h (260 km/h). It is currently forecast to strike Jamaica, Cuba and possibly Florida. The storm has the potential to cause catastrophic damage. ](/news/2004/09/9/2004-atlantic-hurricane-season-hurricane-ivan-strengthens-to-the-first-category-5-hurricane-of-the-season-with-sustained-wind-speeds-of-1.md)
+### [ 2004 Atlantic hurricane season: Hurricane Ivan strengthens to the first Category 5 hurricane of the season, with sustained wind speeds of 160&nbsp;mi-h (260 km-h). It is currently forecast to strike Jamaica, Cuba and possibly Florida. The storm has the potential to cause catastrophic damage. ](/news/2004/09/9/2004-atlantic-hurricane-season-hurricane-ivan-strengthens-to-the-first-category-5-hurricane-of-the-season-with-sustained-wind-speeds-of-1.md)
 _Context: 2004 Atlantic hurricane season, Cuba, Florida, Hurricane Ivan, Jamaica, Saffir-Simpson Hurricane Scale_
 
 ## [Previous Day...](/news/2004/09/8/index.md)

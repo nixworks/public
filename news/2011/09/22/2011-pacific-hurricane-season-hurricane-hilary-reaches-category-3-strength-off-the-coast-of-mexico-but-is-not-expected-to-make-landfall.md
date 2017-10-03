@@ -11,12 +11,8 @@
 
 ### Related:
 
-1. [Maria, now a Category 3 hurricane with maximum sustained winds of 125 mph (205 km/h), is passing offshore of the northern coast of the Dominican Republic, expected to impact the Turks and Caicos Islands and southeastern Bahamas later tonight and Friday. ](/news/2017/09/21/maria-now-a-category-3-hurricane-with-maximum-sustained-winds-of-125-mph-205-km-h-is-passing-offshore-of-the-northern-coast-of-the-domin.md) _Context: Category 3 hurricane_
+1. [Maria, now a Category 3 hurricane with maximum sustained winds of 125 mph (205 km-h), is passing offshore of the northern coast of the Dominican Republic, expected to impact the Turks and Caicos Islands and southeastern Bahamas later tonight and Friday. ](/news/2017/09/21/maria-now-a-category-3-hurricane-with-maximum-sustained-winds-of-125-mph-205-km-h-is-passing-offshore-of-the-northern-coast-of-the-domin.md) _Context: Category 3 hurricane_
 2. [Tropical Storm Jova forms off the Pacific coast of Mexico. ](/news/2011/10/6/tropical-storm-jova-forms-off-the-pacific-coast-of-mexico.md) _Context: Hurricane Jova_
 3. [Hurricane Jova crosses the western coast of Mexico northwest of the port of Manzanillo, Colima, at Category 2 strength. ](/news/2011/10/11/hurricane-jova-crosses-the-western-coast-of-mexico-northwest-of-the-port-of-manzanillo-colima-at-category-2-strength.md) _Context: Hurricane Jova_
 4. [Tropical Storm Calvin forms off the Pacific coast of Mexico. ](/news/2011/07/8/tropical-storm-calvin-forms-off-the-pacific-coast-of-mexico.md) _Context: Hurricane Jova_
 5. [Hurricane Dora strengthens to a Category 4 hurricane as it travels towards Mexico. ](/news/2011/07/20/hurricane-dora-strengthens-to-a-category-4-hurricane-as-it-travels-towards-mexico.md) _Context: Hurricane Jova_
-6. [Tropical Storm Dora becomes a hurricane with a tropical storm watch issued for southwestern Mexico. ](/news/2011/07/19/tropical-storm-dora-becomes-a-hurricane-with-a-tropical-storm-watch-issued-for-southwestern-mexico.md) _Context: Hurricane Jova_
-7. [Hurricane Adrian becomes the first hurricane of the 2011 Pacific hurricane season. ](/news/2011/06/8/hurricane-adrian-becomes-the-first-hurricane-of-the-2011-pacific-hurricane-season.md) _Context: Hurricane Jova_
-8. [Tropical Storm Adrian forms in the eastern Pacific Ocean becoming the first tropical storm of the 2011 Pacific hurricane season. ](/news/2011/06/7/tropical-storm-adrian-forms-in-the-eastern-pacific-ocean-becoming-the-first-tropical-storm-of-the-2011-pacific-hurricane-season.md) _Context: Hurricane Jova_
-9. [Hurricane Beatriz becomes the second hurricane of the 2011 Pacific hurricane season. ](/news/2011/06/20/hurricane-beatriz-becomes-the-second-hurricane-of-the-2011-pacific-hurricane-season.md) _Context: Hurricane Jova_

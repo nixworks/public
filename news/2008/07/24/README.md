@@ -15,7 +15,7 @@ _Context: Honshu Island, Japan, earthquake, landslide_
 ### [ Iranian weightlifter Hossein Rezazadeh pulls out of Olympics upon recommendation of the national team's medical commission. ](/news/2008/07/24/iranian-weightlifter-hossein-rezazadeh-pulls-out-of-olympics-upon-recommendation-of-the-national-team-s-medical-commission.md)
 _Context: 2008 Beijing Olympics, Hossein Rezazadeh, Iran, weightlifter_
 
-### [ More than 200,000 people attend Obama's speech at the Victory Column in Berlin, Germany -- the largest crowd Obama addressed throughout his presidential campaign. ([http://www.factcheck.org/2008/08/obama-in-berlin/ FactCheck.org])](/news/2008/07/24/more-than-200-000-people-attend-obamaas-speech-at-the-victory-column-in-berlin-germany-the-largest-crowd-obama-addressed-throughout-h.md)
+### [ More than 200,000 people attend Obama's speech at the Victory Column in Berlin, Germany -- the largest crowd Obama addressed throughout his presidential campaign. ([http:--www.factcheck.org-2008-08-obama-in-berlin- FactCheck.org])](/news/2008/07/24/more-than-200-000-people-attend-obamaas-speech-at-the-victory-column-in-berlin-germany-the-largest-crowd-obama-addressed-throughout-h.md)
 _Context: Victory Column, presidential campaign_
 
 ## [Previous Day...](/news/2008/07/23/index.md)

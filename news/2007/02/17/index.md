@@ -12,10 +12,10 @@ At least 13 people, including a senior judge were killed in a suspected suicide 
 ### [ Italians demonstrate against the expansion of a United States Army base in Vicenza, home of the 173rd Airborne Brigade. ](/news/2007/02/17/italians-demonstrate-against-the-expansion-of-a-united-states-army-base-in-vicenza-home-of-the-173rd-airborne-brigade.md)
 _Context: 173rd Airborne Brigade, Italy, U.S. soldiers, Vicenza, protest_
 
-### [ Former professional wrestler Mike Awesome is found dead in his Tampa, FL residence. He was 42. [http://www.wrestlingobserver.com/wo/news/headlines/default.asp?aID=18705]](/news/2007/02/17/former-professional-wrestler-mike-awesome-is-found-dead-in-his-tampa-fl-residence-he-was-42-http-www-wrestlingobserver-com-wo-news-he.md)
+### [ Former professional wrestler Mike Awesome is found dead in his Tampa, FL residence. He was 42. [http:--www.wrestlingobserver.com-wo-news-headlines-default.asp?aID=18705]](/news/2007/02/17/former-professional-wrestler-mike-awesome-is-found-dead-in-his-tampa-fl-residence-he-was-42-http-www-wrestlingobserver-com-wo-news-he.md)
 _Context: Mike Awesome_
 
-### [ Singer Britney Spears controversially shaves her head. [http://xtraedition.indiatimes.com/quickiearticleshow/msid-1648253.cms]](/news/2007/02/17/singer-britney-spears-controversially-shaves-her-head-http-xtraedition-indiatimes-com-quickiearticleshow-msid-1648253-cms.md)
+### [ Singer Britney Spears controversially shaves her head. [http:--xtraedition.indiatimes.com-quickiearticleshow-msid-1648253.cms]](/news/2007/02/17/singer-britney-spears-controversially-shaves-her-head-http-xtraedition-indiatimes-com-quickiearticleshow-msid-1648253-cms.md)
 _Context: Britney Spears_
 
 ### [ Vietnamese New Year](/news/2007/02/17/vietnamese-new-year.md)

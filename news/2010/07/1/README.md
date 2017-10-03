@@ -9,7 +9,7 @@ Eleven Kurdish rebels, a soldier and three members of a Kurdish militia, part of
 ### [At least 42 people are killed and at least 175 are injured in three suicide bomb explosions at the Data Darbar Sufi shrine in Lahore. ](/news/2010/07/1/at-least-42-people-are-killed-and-at-least-175-are-injured-in-three-suicide-bomb-explosions-at-the-data-darbar-sufi-shrine-in-lahore.md)
 At least 42 dead and 180 injured in pair of suicide attacks in Pakistani city.
 
-### [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50<sup>th</sup> anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50th-anniversary-of-the-country-s-independence.md)
+### [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50-th-anniversary-of-the-country-s-independence.md)
 _Context: President, Sharif Ahmed, Somalian_
 
 ### [Millions of people in Senegal mourn the death of Grand Marabout of the Mourides, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/1/millions-of-people-in-senegal-mourn-the-death-of-grand-marabout-of-the-mourides-serigne-mouhamadou-lamine-bara-mbacka-c.md)
@@ -21,7 +21,7 @@ _Context: Canada Day, Ottawa_
 ### [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
 _Context: 24-hour English TV news channel, China, China, Xinhua_
 
-### [Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km/h), and causes tornadoes that force people into shelters in southern Texas. ](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.md)
+### [Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km-h), and causes tornadoes that force people into shelters in southern Texas. ](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.md)
 Storm makes landfall as heavy seas hamper oil clean-up efforts in Gulf of Mexico.
 
 ### [According to recent estimates, the Deepwater Horizon oil spill has overtaken Ixtoc I in volume to become the United States' worst oceanic oil spill in recorded history. ](/news/2010/07/1/according-to-recent-estimates-the-deepwater-horizon-oil-spill-has-overtaken-ixtoc-i-in-volume-to-become-the-united-states-worst-oceanic-oi.md)

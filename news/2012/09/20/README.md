@@ -18,7 +18,7 @@ _Context: AU Optronics, LCD_
 ### [The US National Snow and Ice Data Center says the Arctic ice cap size on September 16 is at season's low, with a record low size ever since August 26. ](/news/2012/09/20/the-us-national-snow-and-ice-data-center-says-the-arctic-ice-cap-size-on-september-16-is-at-season-s-low-with-a-record-low-size-ever-since.md)
 On Sunday, by an area about the size of Texas, Arctic sea ice extent shrunk below the previous record low established September 18, 2007.
 
-### [Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km<sup>2</sup>. ](/news/2012/09/20/data-from-the-university-of-illinois-at-urbanaachampaign-shows-the-antarctic-ice-sheet-reached-its-seventh-largest-extent-on-september-12.md)
+### [Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km 2 . ](/news/2012/09/20/data-from-the-university-of-illinois-at-urbanaachampaign-shows-the-antarctic-ice-sheet-reached-its-seventh-largest-extent-on-september-12.md)
 _Context: University of Illinois at Urbana-Champaign, ice sheet_
 
 ### [The US Deputy Secretary of State William Burns meets with government officials in Libya about last week's deadly attack at the US consulate in Benghazi. ](/news/2012/09/20/the-us-deputy-secretary-of-state-william-burns-meets-with-government-officials-in-libya-about-last-week-s-deadly-attack-at-the-us-consulate.md)

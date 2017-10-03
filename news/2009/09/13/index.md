@@ -1,6 +1,6 @@
 ## [2009-09-13](/news/2009/09/13/index.md)
 
-### [ Russia announces that it will assist Venezuela in the building of a nuclear energy program.[http://www.bloomberg.com/apps/news?pid=20601086&sid=aElQ3UEU9eYM(Bloomberg)]](/news/2009/09/13/russia-announces-that-it-will-assist-venezuela-in-the-building-of-a-nuclear-energy-program-http-www-bloomberg-com-apps-news-pid-20601086.md)
+### [ Russia announces that it will assist Venezuela in the building of a nuclear energy program.[http:--www.bloomberg.com-apps-news?pid=20601086&sid=aElQ3UEU9eYM(Bloomberg)]](/news/2009/09/13/russia-announces-that-it-will-assist-venezuela-in-the-building-of-a-nuclear-energy-program-http-www-bloomberg-com-apps-news-pid-20601086.md)
 _Context: Russia, Venezuela_
 
 ### [ At least 19 people die and 80 are missing after a ferry sinks in the Congo River in the Democratic Republic of Congo. ](/news/2009/09/13/at-least-19-people-die-and-80-are-missing-after-a-ferry-sinks-in-the-congo-river-in-the-democratic-republic-of-congo.md)
@@ -22,7 +22,7 @@ _Context: Brazil, G8 group of nations, Luiz Incio Lula da Silva, President_
 _Context: Angela Merkel, Chancellor, Frank-Walter Steinmeier_
 
 ### [ Saudi Arabia's veteran foreign minister Prince Saud al-Faisal undergoes successful spine surgery in the United States. ](/news/2009/09/13/saudi-arabia-s-veteran-foreign-minister-prince-saud-al-faisal-undergoes-successful-spine-surgery-in-the-united-states.md)
-_Context: Prince Saud al-Faisal, Saudi Arabia, U.S._
+_Context: Americans, Prince Saud al-Faisal, Saudi Arabia_
 
 ### [ 38 people are killed in a fire at a drug abuse clinic in Taldykorgan, Kazakhstan. ](/news/2009/09/13/38-people-are-killed-in-a-fire-at-a-drug-abuse-clinic-in-taldykorgan-kazakhstan.md)
 _Context: Kazakhstan, Taldykorgan, drug abuse, fire_

@@ -3,7 +3,7 @@
 ### [Several Syrian rebel groups sign an agreement to unite in the fight against the Islamic State of Iraq and Syria and President Bashar al-Assad's forces. ](/news/2014/09/25/several-syrian-rebel-groups-sign-an-agreement-to-unite-in-the-fight-against-the-islamic-state-of-iraq-and-syria-and-president-bashar-al-assa.md)
 _Context: Bashar al-Assad, Islamic State of Iraq and Syria, Syrian Civil War_
 
-### [A 6.2 magnitude earthquake strikes southern Alaska, causing minor damage and affecting the state's largest city, Anchorage. [http://www.adn.com/article/20140925/earthquake-shakes-southcentral-alaska (Alaska Dispatch News) ]](/news/2014/09/25/a-6-2-magnitude-earthquake-strikes-southern-alaska-causing-minor-damage-and-affecting-the-state-s-largest-city-anchorage-http-www-adn.md)
+### [A 6.2 magnitude earthquake strikes southern Alaska, causing minor damage and affecting the state's largest city, Anchorage. [http:--www.adn.com-article-20140925-earthquake-shakes-southcentral-alaska (Alaska Dispatch News) ]](/news/2014/09/25/a-6-2-magnitude-earthquake-strikes-southern-alaska-causing-minor-damage-and-affecting-the-state-s-largest-city-anchorage-http-www-adn.md)
 _Context: Anchorage_
 
 ### [Barack Obama, the President of the United States, signs a memorandum expanding the Pacific Remote Islands Marine National Monument to 490,000 square miles, making it the biggest marine preserve in the world. ](/news/2014/09/25/barack-obama-the-president-of-the-united-states-signs-a-memorandum-expanding-the-pacific-remote-islands-marine-national-monument-to-490-00.md)

@@ -24,7 +24,7 @@ _Context: 2004 Democratic presidential primaries, Arizona, Connecticut, Delaware
 ### [ Nine Cuban migrants attempt to reach Florida in a modified 1959 Buick that was converted to a boat. They are intercepted by the United States Coast Guard. The same group had made a similar attempt the summer before in a modified 1951 Chevrolet truck.](/news/2004/02/3/nine-cuban-migrants-attempt-to-reach-florida-in-a-modified-1959-buick-that-was-converted-to-a-boat-they-are-intercepted-by-the-united-stat.md)
 _Context: Buick, Chevrolet, Cuba, Florida, United States Coast Guard, immigrant, truck_
 
-### [ The e-mail worm W32/Mydoom.B performs a Distributed Denial of Service (DDoS) attack against www.microsoft.com at 13:09:18 (UTC).](/news/2004/02/3/the-e-mail-worm-w32-mydoom-b-performs-a-distributed-denial-of-service-ddos-attack-against-www-microsoft-com-at-13-09-18-utc.md)
+### [ The e-mail worm W32-Mydoom.B performs a Distributed Denial of Service (DDoS) attack against www.microsoft.com at 13:09:18 (UTC).](/news/2004/02/3/the-e-mail-worm-w32-mydoom-b-performs-a-distributed-denial-of-service-ddos-attack-against-www-microsoft-com-at-13-09-18-utc.md)
 _Context: Distributed Denial of Service (DDoS) attack, Microsoft, W32/Mydoom.B, e-mail worm_
 
 ## [Previous Day...](/news/2004/02/2/index.md)

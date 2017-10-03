@@ -6,7 +6,7 @@ _Context: James G. Stavridis, NATO, Scud missiles, Supreme Allied Commander Euro
 ### [Kenneth Kendall, who became the BBC's first in-vision television newsreader in 1955, dies aged 88. ](/news/2012/12/14/kenneth-kendall-who-became-the-bbc-s-first-in-vision-television-newsreader-in-1955-dies-aged-88.md)
 Kenneth Kendall, former BBC newsreader and presenter of the popular UK game show Treasure Hunt, dies aged 88.
 
-### [Gene Wolfe wins the Damon Knight Memorial Grand Master Award for "lifetime achievement in science fiction and/or fantasy". ](/news/2012/12/14/gene-wolfe-wins-the-damon-knight-memorial-grand-master-award-for-lifetime-achievement-in-science-fiction-and-or-fantasy.md)
+### [Gene Wolfe wins the Damon Knight Memorial Grand Master Award for "lifetime achievement in science fiction and-or fantasy". ](/news/2012/12/14/gene-wolfe-wins-the-damon-knight-memorial-grand-master-award-for-lifetime-achievement-in-science-fiction-and-or-fantasy.md)
 SFWA has named Gene Wolfe as the 2012 recipient of the Damon Knight Memorial Grand Master Award for his contributions to the literature of Science Fiction and Fantasy.
 
 ### [Cyclone Evan heads towards Fiji after causing at least three deaths and widespread damage in Samoa. ](/news/2012/12/14/cyclone-evan-heads-towards-fiji-after-causing-at-least-three-deaths-and-widespread-damage-in-samoa.md)

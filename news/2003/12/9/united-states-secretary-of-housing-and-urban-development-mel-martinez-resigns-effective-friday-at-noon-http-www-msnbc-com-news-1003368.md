@@ -1,6 +1,6 @@
 ### [2003-12-9](/news/2003/12/9/index.md)
 
-# United States Secretary of Housing and Urban Development Mel Martinez resigns, effective Friday at noon. [http://www.msnbc.com/news/1003368.asp?0dm=N15ON]
+# United States Secretary of Housing and Urban Development Mel Martinez resigns, effective Friday at noon. [http:--www.msnbc.com-news-1003368.asp?0dm=N15ON]
 
 
 

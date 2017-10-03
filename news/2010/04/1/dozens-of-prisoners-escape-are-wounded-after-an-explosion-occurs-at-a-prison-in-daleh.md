@@ -1,6 +1,6 @@
 ### [2010-04-1](/news/2010/04/1/index.md)
 
-#  Dozens of prisoners escape/are wounded after an explosion occurs at a prison in Daleh. 
+#  Dozens of prisoners escape-are wounded after an explosion occurs at a prison in Daleh. 
 
 Over 30 inmates have escaped from a prison in Yemen after a bomb was thrown at the prison walls and exploded.
 

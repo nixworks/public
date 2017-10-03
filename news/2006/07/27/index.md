@@ -1,6 +1,6 @@
 ## [2006-07-27](/news/2006/07/27/index.md)
 
-### [ U.S. Heat Wave of 2006: A heat wave in California causes at least 90 deaths. (KOVR-TV / CBS 13)](/news/2006/07/27/u-s-heat-wave-of-2006-a-heat-wave-in-california-causes-at-least-90-deaths-kovr-tv-cbs-13.md)
+### [ U.S. Heat Wave of 2006: A heat wave in California causes at least 90 deaths. (KOVR-TV - CBS 13)](/news/2006/07/27/u-s-heat-wave-of-2006-a-heat-wave-in-california-causes-at-least-90-deaths-kovr-tv-cbs-13.md)
 _Context: California, KOVR-TV / CBS 13, heat wave, heat wave_
 
 ### [ Somalia's interim government unravels as at least 20 government members resign, most being parliament members, accusing the country's virtually powerless government of failing to bring peace. ](/news/2006/07/27/somalia-s-interim-government-unravels-as-at-least-20-government-members-resign-most-being-parliament-members-accusing-the-country-s-virtu.md)

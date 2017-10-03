@@ -3,7 +3,7 @@
 ### [ Conflict in Iraq: 95 people die following a series of Insurgent attacks in Balad, Iraq. ](/news/2005/09/29/conflict-in-iraq-95-people-die-following-a-series-of-insurgent-attacks-in-balad-iraq.md)
 _Context: Balad, Conflict in Iraq, Iraqi insurgency_
 
-### [ "The New York Times" reporter Judith Miller is released from federal jail after receiving a waiver from her news source, allowing her to testify in the investigation of the outing of CIA operative Valerie Plame. [http://edition.cnn.com/2005/POLITICS/09/29/cia.leak/index.html (CNN)] [http://news.yahoo.com/s/ap/20050930/ap_on_go_ca_st_pe/cia_leak_investigation (Yahoo News)] (Link dead as of 00:44, 15 January 2007 (UTC))](/news/2005/09/29/the-new-york-times-reporter-judith-miller-is-released-from-federal-jail-after-receiving-a-waiver-from-her-news-source-allowing-her-to-te.md)
+### [ "The New York Times" reporter Judith Miller is released from federal jail after receiving a waiver from her news source, allowing her to testify in the investigation of the outing of CIA operative Valerie Plame. [http:--edition.cnn.com-2005-POLITICS-09-29-cia.leak-index.html (CNN)] [http:--news.yahoo.com-s-ap-20050930-ap_on_go_ca_st_pe-cia_leak_investigation (Yahoo News)] (Link dead as of 00:44, 15 January 2007 (UTC))](/news/2005/09/29/the-new-york-times-reporter-judith-miller-is-released-from-federal-jail-after-receiving-a-waiver-from-her-news-source-allowing-her-to-te.md)
 _Context: CIA, CIA leak scandal, Judith Miller, The New York Times, Valerie Plame_
 
 ### [ Algerians vote in a referendum to grant partial amnesty to militants to end the Algerian Civil War.](/news/2005/09/29/algerians-vote-in-a-referendum-to-grant-partial-amnesty-to-militants-to-end-the-algerian-civil-war.md)
@@ -16,7 +16,7 @@ _Context: China_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ By a vote of 78-22, the United States Senate confirms John G. Roberts, Jr. as Chief Justice, presiding over the Supreme Court. Roberts is sworn in later in the afternoon, and will preside over the Court's Fall term beginning October 3.](/news/2005/09/29/by-a-vote-of-78-22-the-united-states-senate-confirms-john-g-roberts-jr-as-chief-justice-presiding-over-the-supreme-court-roberts-is-s.md)
-_Context: Chief Justice, John G. Roberts, Jr., October 3, U.S., United States Senate, United States Supreme Court_
+_Context: Americans, Chief Justice, John G. Roberts, Jr., October 3, United States Senate, United States Supreme Court_
 
 ### [ The High Court of Australia has found that it is inappropriate for the court to judge whether the Howard Government's unapproved spending on an advertising blitz promoting the controversial industrial relations reform is unlawful. The case was brought by the Australian Labor Party and trade unions. ](/news/2005/09/29/the-high-court-of-australia-has-found-that-it-is-inappropriate-for-the-court-to-judge-whether-the-howard-government-s-unapproved-spending-o.md)
 _Context: Australian Council of Trade Unions, High Court of Australia, John Howard, Labor Party, industrial relations reform_

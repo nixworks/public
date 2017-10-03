@@ -9,7 +9,7 @@ _Context: Three Gorges Dam_
 ### [ Campaigning in Montenegro's referendum on independence ends at midnight local time, with voting scheduled to begin the following morning. ](/news/2006/05/20/campaigning-in-montenegro-s-referendum-on-independence-ends-at-midnight-local-time-with-voting-scheduled-to-begin-the-following-morning.md)
 _Context: Montenegro, dissolution_
 
-### [ 5,000 medical students, doctors, and lawyers rally in New Delhi, India against the boosting of quotas for lower-caste students in medical, engineering and other colleges from 22.5% to 49.5%. [http://www.channelnewsasia.com/stories/afp_asiapacific/view/209358/1/.html (ChannelnewsAsia.com)] (Wikinews)](/news/2006/05/20/5-000-medical-students-doctors-and-lawyers-rally-in-new-delhi-india-against-the-boosting-of-quotas-for-lower-caste-students-in-medical.md)
+### [ 5,000 medical students, doctors, and lawyers rally in New Delhi, India against the boosting of quotas for lower-caste students in medical, engineering and other colleges from 22.5% to 49.5%. [http:--www.channelnewsasia.com-stories-afp_asiapacific-view-209358-1-.html (ChannelnewsAsia.com)] (Wikinews)](/news/2006/05/20/5-000-medical-students-doctors-and-lawyers-rally-in-new-delhi-india-against-the-boosting-of-quotas-for-lower-caste-students-in-medical.md)
 _Context: (Wikinews), boosting of quotas, caste_
 
 ### [ The Iraqi National Assembly votes in a new government, leaving the ministries of Defense, National Security and Interior in temporary hands. ](/news/2006/05/20/the-iraqi-national-assembly-votes-in-a-new-government-leaving-the-ministries-of-defense-national-security-and-interior-in-temporary-hands.md)

@@ -16,7 +16,7 @@ _Context: 2004 Presidential Election, Democratic, General, Howard Dean, U.S. Vic
 _Context: Arab League, IAEA, Iran, Israel, Nuclear Non-Proliferation Treaty, United Nations, nuclear pact, nuclear weapon_
 
 ### [ LGBT rights in Canada: The Canadian House of Commons passes a private member's bill brought by NDP MP Svend Robinson, including protection for sexual orientation in the existing law on hate propaganda.](/news/2003/09/17/lgbt-rights-in-canada-the-canadian-house-of-commons-passes-a-private-member-s-bill-brought-by-ndp-mp-svend-robinson-including-protection.md)
-_Context: Canadian House of Commons, LGBT rights in Canada, NDP, Svend Robinson, hate speech, private member's bill, sexual orientation_
+_Context: Canadian House of Commons, LGBT rights in Canada, New Democratic Party, Svend Robinson, hate speech, private member's bill, sexual orientation_
 
 ## [Previous Day...](/news/2003/09/16/index.md)
 

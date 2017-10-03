@@ -3,7 +3,7 @@
 ### [ The Organization of American States revokes its 47-year suspension of Cuba. ](/news/2009/06/3/the-organization-of-american-states-revokes-its-47-year-suspension-of-cuba.md)
 The Organization of American States lifted its 47-year suspension of Cuba on Wednesday in a move backed by Washington as it tries to soothe Cold War tensions with the communist-run island.
 
-### [ Ireland's State Examinations Commission postpones a Leaving Certificate Exam because of an accidental content leak. [http://www.rte.ie/news/2009/0603/exams.html (RTE)] [http://www.irishtimes.com/newspaper/breaking/2009/0603/breaking71.htm "(The Irish Times)"]](/news/2009/06/3/ireland-s-state-examinations-commission-postpones-a-leaving-certificate-exam-because-of-an-accidental-content-leak-http-www-rte-ie-news.md)
+### [ Ireland's State Examinations Commission postpones a Leaving Certificate Exam because of an accidental content leak. [http:--www.rte.ie-news-2009-0603-exams.html (RTE)] [http:--www.irishtimes.com-newspaper-breaking-2009-0603-breaking71.htm "(The Irish Times)"]](/news/2009/06/3/ireland-s-state-examinations-commission-postpones-a-leaving-certificate-exam-because-of-an-accidental-content-leak-http-www-rte-ie-news.md)
 _Context: Leaving Certificate Examination, Republic of Ireland, State Examinations Commission, leaked_
 
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
@@ -15,8 +15,8 @@ _Context: Challenger Deep, Mariana Trench, Nereus, Pacific Ocean, remotely opera
 ### [ Indian Member of Parliament Meira Kumar becomes the first female Speaker of the House of the People. ](/news/2009/06/3/indian-member-of-parliament-meira-kumar-becomes-the-first-female-speaker-of-the-house-of-the-people.md)
 _Context: India, Lok Sabha, MP, Meira Kumar, Parliament of India, Speaker, becomes_
 
-### [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. [http://news.bbc.co.uk/2/hi/south_asia/8081828.stm (BBC)] [http://www.timesonline.co.uk/tol/news/world/middle_east/article6423668.ece "(The Times)"]](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette-http-news-bbc-co-uk-2-hi-south_as.md)
-_Context: Barack Obama, Osama bin Laden, U.S., U.S. President, al-Qaeda, cassette, criticizes_
+### [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. [http:--news.bbc.co.uk-2-hi-south_asia-8081828.stm (BBC)] [http:--www.timesonline.co.uk-tol-news-world-middle_east-article6423668.ece "(The Times)"]](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette-http-news-bbc-co-uk-2-hi-south_as.md)
+_Context: Americans, Barack Obama, Osama bin Laden, U.S. President, al-Qaeda, cassette, criticizes_
 
 ### [ President Jacob Zuma vows to create 500,000 jobs through 2009 in South Africa's State of the Nation Address. ](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.md)
 _Context: 2009, Jacob Zuma, President, South Africa, State of the Nation Address_
@@ -28,7 +28,7 @@ _Context: Enugu, Nigeria, Politics of Nigeria, prison escape_
 _Context: 2013, Madagascar, Marc Ravalomanana, President, in absentia, incarceration, misconduct in office, political crisis_
 
 ### [ American author Marilynne Robinson wins the Orange Prize for Fiction for her novel "Home". ](/news/2009/06/3/american-author-marilynne-robinson-wins-the-orange-prize-for-fiction-for-her-novel-home.md)
-_Context: Home, Marilynne Robinson, Orange Prize for Fiction, U.S., author, novel_
+_Context: Americans, Home, Marilynne Robinson, Orange Prize for Fiction, author, novel_
 
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)
 _Context: New Hampshire, U.S. state, legalizes, same-sex marriage_

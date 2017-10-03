@@ -18,7 +18,7 @@ _Context: Lebanon, Samir Geagea, militia_
 ### [ South Korean ambassador to the US, Hong Seok-Hyun, resigns for alleged involvement with slush fund scandal of illegal donations during a presidential campaign in 1997 ](/news/2005/07/26/south-korean-ambassador-to-the-us-hong-seok-hyun-resigns-for-alleged-involvement-with-slush-fund-scandal-of-illegal-donations-during-a-pr.md)
 _Context: Hong Seok-Hyun, slush fund_
 
-### [ Burma/Myanmar forgoes 2006 chairmanship of ASEAN ](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.md)
+### [ Burma-Myanmar forgoes 2006 chairmanship of ASEAN ](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.md)
 _Context: ASEAN, Burma, Myanmar_
 
 ### [ At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. ](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonstration-outside-the-main-us-base-of-bagram-in-afghanistan.md)

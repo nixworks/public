@@ -9,7 +9,7 @@ Combat death near Erbil was the result of enemy fire, Defense Secretary Ash Cart
 ### [The Rhode Island Marine Architecture Project claims to have found the wreckage of HMS "Endeavour" used by Royal Navy Lieutenant James Cook on his voyage to Australia, New Zealand and Tahiti between 1768 and 1771. The ship was scuttled in 1778 in Newport Harbor ahead of the Battle of Rhode Island in the American War of Independence. ](/news/2016/05/3/the-rhode-island-marine-architecture-project-claims-to-have-found-the-wreckage-of-hms-endeavour-used-by-royal-navy-lieutenant-james-cook-o.md)
 Researchers say they believe they have located the wreckage of the Endeavour, the ship sailed by British explorer James Cook on his voyage to Australia.
 
-### [Imprisoned Azerbaijani journalist Khadija Ismayilova is announced as the winner of the UNESCO/Guillermo Cano World Press Freedom Prize for 2016 for "her outstanding contribution to press freedom in difficult circumstances." ](/news/2016/05/3/imprisoned-azerbaijani-journalist-khadija-ismayilova-is-announced-as-the-winner-of-the-unesco-guillermo-cano-world-press-freedom-prize-for-2.md)
+### [Imprisoned Azerbaijani journalist Khadija Ismayilova is announced as the winner of the UNESCO-Guillermo Cano World Press Freedom Prize for 2016 for "her outstanding contribution to press freedom in difficult circumstances." ](/news/2016/05/3/imprisoned-azerbaijani-journalist-khadija-ismayilova-is-announced-as-the-winner-of-the-unesco-guillermo-cano-world-press-freedom-prize-for-2.md)
 _Context: Azerbaijan, Khadija Ismayilova, UNESCO/Guillermo Cano World Press Freedom Prize_
 
 ### [The Philippine financial market continues to suffer amid speculation that Rodrigo Duterte may win the upcoming election. ](/news/2016/05/3/the-philippine-financial-market-continues-to-suffer-amid-speculation-that-rodrigo-duterte-may-win-the-upcoming-election.md)
@@ -25,7 +25,7 @@ _Context: Long Island, New York_
 _Context: Iglesia ni Cristo, Rodrigo Duterte_
 
 ### [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md)
-_Context: Anatoliy Serdyukov, Defense Minister, Prime Minister of Russia, Russia, Russia-Spain relations, Russian President, Spanish, Viktor Zubkov, Vladimir Putin, assassinated, money laundering, organized crime from Russia_
+_Context: Anatoliy Serdyukov, Defense Minister, Prime Minister of Russia, Russia, Russia-Spain relations, Russian President, Spain, Viktor Zubkov, Vladimir Putin, assassinated, money laundering, organized crime from Russia_
 
 ### [According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attempted-protests-yes.md)
 Indonesian police arrested almost 1700 West Papuans yesterday for taking part in a series of demonstrations across Papua region.

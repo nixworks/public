@@ -13,12 +13,12 @@ _Context: Hezbollah, Israel, Lebanon, drone, reconnaissance, sonic boom_
 _Context: Organization of American States, election of a new secretary general, stalemate_
 
 ### [ U.S. President George W. Bush praises the Israeli Prime Minister Ariel Sharon for his ""courageous initiative"" to pull all Israeli settlements out of the Gaza Strip, however Bush also told Sharon not to expand other existing settlements. The two leaders met in Texas, USA. ](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli-prime-minister-ariel-sharon-for-his-courageous-initiative-to-pull-all-israeli-settlem.md)
-_Context: Ariel Sharon, Gaza, George W. Bush, Israel, Israeli Prime Minister, Israeli settlement, Texas, U.S., U.S. President, USA_
+_Context: Americans, Ariel Sharon, Gaza, George W. Bush, Israel, Israeli Prime Minister, Israeli settlement, Texas, U.S. President, USA_
 
 ### [ Tulip Revolution: The Parliament of Kyrgyzstan finally approves the resignation of deposed President Askar Akayev. ](/news/2005/04/11/tulip-revolution-the-parliament-of-kyrgyzstan-finally-approves-the-resignation-of-deposed-president-askar-akayev.md)
 _Context: Askar Akayev, Kyrgyzstan, President, Tulip Revolution, resignation_
 
-### [ 2005 anti-Japanese demonstrations: 20,000 protesters marching in two cities in southern Guangdong province objecting to a recently amended Japanese schoolbook which allegedly glosses over Japan's imperialist past. ([http://www.cnn.com/2005/WORLD/asiapcf/04/10/china.japan.protest/index.html CNN])](/news/2005/04/11/2005-anti-japanese-demonstrations-20-000-protesters-marching-in-two-cities-in-southern-guangdong-province-objecting-to-a-recently-amended.md)
+### [ 2005 anti-Japanese demonstrations: 20,000 protesters marching in two cities in southern Guangdong province objecting to a recently amended Japanese schoolbook which allegedly glosses over Japan's imperialist past. ([http:--www.cnn.com-2005-WORLD-asiapcf-04-10-china.japan.protest-index.html CNN])](/news/2005/04/11/2005-anti-japanese-demonstrations-20-000-protesters-marching-in-two-cities-in-southern-guangdong-province-objecting-to-a-recently-amended.md)
 _Context: Empire of Japan, Guangdong, Japan, Japanese history textbooks controversy, protest_
 
 ### [ Jeremy Jaynes, estimated to be the world's eighth most prolific spammer, is sentenced to nine years imprisonment. ](/news/2005/04/11/jeremy-jaynes-estimated-to-be-the-world-s-eighth-most-prolific-spammer-is-sentenced-to-nine-years-imprisonment.md)

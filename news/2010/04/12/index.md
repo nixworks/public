@@ -52,7 +52,7 @@ _Context: Caribbean, Cayman Trough_
 _Context: Copenhagen Conference_
 
 ### [A 6.2 magnitude earthquake strikes Spain, one of the first large earthquakes to strike the Iberian region in half a century.](/news/2010/04/12/a-6-2-magnitude-earthquake-strikes-spain-one-of-the-first-large-earthquakes-to-strike-the-iberian-region-in-half-a-century.md)
-_Context: 6.2 magnitude earthquake, Iberia, Spanish_
+_Context: 6.2 magnitude earthquake, Iberia, Spain_
 
 ### [Microsoft launches two new mobile phones marketed to young people. The phones, the Kin One and Kin Two, are built around their social networking features. ](/news/2010/04/12/microsoft-launches-two-new-mobile-phones-marketed-to-young-people-the-phones-the-kin-one-and-kin-two-are-built-around-their-social-networ.md)
 The phones have social-networking features, like the ability to update status messages on sites like Facebook, Twitter and MySpace, all at once.

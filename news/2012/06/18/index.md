@@ -48,7 +48,7 @@ _Context: Major League Baseball, Roger Clemens, perjury_
 ### [Prince Salman bin Abdulaziz is nominated as heir apparent of Saudi Arabia. ](/news/2012/06/18/prince-salman-bin-abdulaziz-is-nominated-as-heir-apparent-of-saudi-arabia.md)
 The death of Crown Prince Nayef of Saudi Arabia may bring the Saudi royal family closer to a generational switch, analyst Neil Partrick says.
 
-### [Blue Gene/Q becomes the world's fastest supercomputer. ](/news/2012/06/18/blue-gene-q-becomes-the-world-s-fastest-supercomputer.md)
+### [Blue Gene-Q becomes the world's fastest supercomputer. ](/news/2012/06/18/blue-gene-q-becomes-the-world-s-fastest-supercomputer.md)
 _Context: Blue Gene/Q_
 
 ## [Previous Day...](/news/2012/06/17/index.md)

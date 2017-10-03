@@ -1,6 +1,6 @@
 ## [2005-06-3](/news/2005/06/3/index.md)
 
-### [ The German political party Alliance '90/The Greens opens a Wiki that allows all users to contribute to the party's manifesto for the German federal election, 2005 ](/news/2005/06/3/the-german-political-party-alliance-90-the-greens-opens-a-wiki-that-allows-all-users-to-contribute-to-the-party-s-manifesto-for-the-german.md)
+### [ The German political party Alliance '90-The Greens opens a Wiki that allows all users to contribute to the party's manifesto for the German federal election, 2005 ](/news/2005/06/3/the-german-political-party-alliance-90-the-greens-opens-a-wiki-that-allows-all-users-to-contribute-to-the-party-s-manifesto-for-the-german.md)
 _Context: German federal election, 2005, Greens, Wiki_
 
 ### [ Two Israeli soldiers have claimed that they were ordered to kill Palestinian police officers following the deaths of six Israeli soldiers. ](/news/2005/06/3/two-israeli-soldiers-have-claimed-that-they-were-ordered-to-kill-palestinian-police-officers-following-the-deaths-of-six-israeli-soldiers.md)

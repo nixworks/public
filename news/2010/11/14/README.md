@@ -44,7 +44,7 @@ A radical Muslim cleric who once cheered the Sept. 11 terror attacks on the Unit
 _Context: Darfur conflict, South Sudan, Southern Sudanese Independence Referendum, UNAMID_
 
 ### [Thousands of people protest in Spain against a raid by Moroccan authorities in a camp in the disputed Western Sahara. ](/news/2010/11/14/thousands-of-people-protest-in-spain-against-a-raid-by-moroccan-authorities-in-a-camp-in-the-disputed-western-sahara.md)
-_Context: Morocco, Spanish, Western Sahara_
+_Context: Morocco, Spain, Western Sahara_
 
 ### [The Israeli cabinet approves a plan to allow 8,000 Ethiopians of Jewish descent into the country. ](/news/2010/11/14/the-israeli-cabinet-approves-a-plan-to-allow-8-000-ethiopians-of-jewish-descent-into-the-country.md)
 _Context: Ethiopians of Jewish descent, Israeli cabinet_
@@ -58,7 +58,7 @@ The Organisation of American States urges Nicaragua and Costa Rica to withdraw t
 ### [Asia Pacific Economic Cooperation leaders agree to work towards forming a Free Trade Area of the Asia Pacific. ](/news/2010/11/14/asia-pacific-economic-cooperation-leaders-agree-to-work-towards-forming-a-free-trade-area-of-the-asia-pacific.md)
 _Context: Asia-Pacific Economic Cooperation, Free Trade Area of the Asia Pacific_
 
-### [Rival Palestinian parties Fatah and Hamas accuse each other for the failure to resolve the conflict between them in the second round meeting held in Damascus, Syria. [http://www.jpost.com/MiddleEast/Article.aspx?id=195234 ("The Jerusalem Post") ]](/news/2010/11/14/rival-palestinian-parties-fatah-and-hamas-accuse-each-other-for-the-failure-to-resolve-the-conflict-between-them-in-the-second-round-meeting.md)
+### [Rival Palestinian parties Fatah and Hamas accuse each other for the failure to resolve the conflict between them in the second round meeting held in Damascus, Syria. [http:--www.jpost.com-MiddleEast-Article.aspx?id=195234 ("The Jerusalem Post") ]](/news/2010/11/14/rival-palestinian-parties-fatah-and-hamas-accuse-each-other-for-the-failure-to-resolve-the-conflict-between-them-in-the-second-round-meeting.md)
 _Context: Damascus, Fatah, Fatah-Hamas conflict, Hamas, Syria_
 
 ### [Hundreds of people protest in Moscow, Russia, to demand action over an attack on journalist Oleg Kashin. ](/news/2010/11/14/hundreds-of-people-protest-in-moscow-russia-to-demand-action-over-an-attack-on-journalist-oleg-kashin.md)

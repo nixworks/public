@@ -18,7 +18,7 @@ _Context: Pope John Paul II_
 ### [ Canadian Prime Minister Paul Martin tells the US ambassador to Canada that he will say "no" to the US' proposed missile defense plan. ](/news/2005/02/24/canadian-prime-minister-paul-martin-tells-the-us-ambassador-to-canada-that-he-will-say-no-to-the-us-proposed-missile-defense-plan.md)
 _Context: Paul Martin, missile interceptor_
 
-### [ Slovakia Summit between U.S. President George W. Bush and Russian President Vladimir Putin begins in Bratislava. ([http://www.slovakspectator.sk/rubrika-2005007-spect_special.html Slovak Spectator])](/news/2005/02/24/slovakia-summit-between-u-s-president-george-w-bush-and-russian-president-vladimir-putin-begins-in-bratislava-http-www-slovakspectat.md)
+### [ Slovakia Summit between U.S. President George W. Bush and Russian President Vladimir Putin begins in Bratislava. ([http:--www.slovakspectator.sk-rubrika-2005007-spect_special.html Slovak Spectator])](/news/2005/02/24/slovakia-summit-between-u-s-president-george-w-bush-and-russian-president-vladimir-putin-begins-in-bratislava-http-www-slovakspectat.md)
 _Context: Bratislava, George W. Bush, Slovakia Summit, Vladimir Putin_
 
 ### [ In Colombia, there is a ceremony to mark the three-year anniversary of the capture of Ingrid Btancourt, former Colombian presidential candidate who is still a FARC hostage. She was captured February 2002. Her relatives are pressing government to make a prisoner swap for her and other hostages. ](/news/2005/02/24/in-colombia-there-is-a-ceremony-to-mark-the-three-year-anniversary-of-the-capture-of-ingrid-betancourt-former-colombian-presidential-cand.md)
@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ In Mexico, the supreme court rules that former President Luis Echeverra cannot be tried for genocide because of 30-year statute of limitations. Echeverra was accused of genocide because he ordered an attack on protesting students in 1971, resulting in 40 deaths. ](/news/2005/02/24/in-mexico-the-supreme-court-rules-that-former-president-luis-echeverria-cannot-be-tried-for-genocide-because-of-30-year-statute-of-limitat.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-### [ Foreign Minister of Burma/Myanmar Nyan Win visits Bangladesh to discuss with Shamsher M Chowdhury about a direct road link between the countries and repatriation of Burmese refugees ](/news/2005/02/24/foreign-minister-of-burma-myanmar-nyan-win-visits-bangladesh-to-discuss-with-shamsher-m-chowdhury-about-a-direct-road-link-between-the-coun.md)
+### [ Foreign Minister of Burma-Myanmar Nyan Win visits Bangladesh to discuss with Shamsher M Chowdhury about a direct road link between the countries and repatriation of Burmese refugees ](/news/2005/02/24/foreign-minister-of-burma-myanmar-nyan-win-visits-bangladesh-to-discuss-with-shamsher-m-chowdhury-about-a-direct-road-link-between-the-coun.md)
 _Context: Bangladesh, Burma, Myanmar, Nyan Win, Shamsher M Chowdhury, refugee_
 
 ### [ Ebert Anibal Rivera, alleged head of a Mara Salvatrucha gang that killed 28 bus passengers in Honduras last December 23, is arrested in Texas. Honduras intends to request extradition if Texas authorities do not file charges. ](/news/2005/02/24/ebert-anibal-rivera-alleged-head-of-a-mara-salvatrucha-gang-that-killed-28-bus-passengers-in-honduras-last-december-23-is-arrested-in-tex.md)

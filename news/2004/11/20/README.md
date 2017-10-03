@@ -1,6 +1,6 @@
 ## [2004-11-20](/news/2004/11/20/index.md)
 
-### [ Mara Isabel from Spain wins the Junior Eurovision Song Contest 2004. ([http://www.junioreurovision.tv JESC])](/news/2004/11/20/maria-isabel-from-spain-wins-the-junior-eurovision-song-contest-2004-http-www-junioreurovision-tv-jesc.md)
+### [ Mara Isabel from Spain wins the Junior Eurovision Song Contest 2004. ([http:--www.junioreurovision.tv JESC])](/news/2004/11/20/maria-isabel-from-spain-wins-the-junior-eurovision-song-contest-2004-http-www-junioreurovision-tv-jesc.md)
 _Context: Junior Eurovision Song Contest 2004, Mara Isabel_
 
 ### [ NASA launches a satellite, named "Swift", to investigate gamma ray bursts. ](/news/2004/11/20/nasa-launches-a-satellite-named-swift-to-investigate-gamma-ray-bursts.md)

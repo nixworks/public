@@ -42,7 +42,7 @@ Boston police have been investigating whether jailed former New England Patriot 
 ### [Yingluck Shinawatra is being implicated in a controversial rice subsidy scheme. ](/news/2014/01/16/yingluck-shinawatra-is-being-implicated-in-a-controversial-rice-subsidy-scheme.md)
 Thai PM Yingluck Shinawatra is being investigated over a loss-making rice subsidy scheme, adding to already intense pressure for her to resign.
 
-### [A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries. [http://www.reuters.com/video/2014/01/16/reuters-tv-beetlecopter-the-low-cost-alternative-fo?videoId=276456872&videoChannel=118065 (Reuters) ]](/news/2014/01/16/a-british-photographer-designs-and-builds-a-drone-as-a-low-cost-alternative-for-shooting-nature-documentaries-http-www-reuters-com-video.md)
+### [A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries. [http:--www.reuters.com-video-2014-01-16-reuters-tv-beetlecopter-the-low-cost-alternative-fo?videoId=276456872&videoChannel=118065 (Reuters) ]](/news/2014/01/16/a-british-photographer-designs-and-builds-a-drone-as-a-low-cost-alternative-for-shooting-nature-documentaries-http-www-reuters-com-video.md)
 _Context: drone, nature documentaries_
 
 ## [Previous Day...](/news/2014/01/15/index.md)

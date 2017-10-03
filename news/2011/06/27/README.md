@@ -72,7 +72,7 @@ _Context: Brown v. Entertainment Merchants Association, California, First Amendm
 ### [A United Nations-backed tribunal in Cambodia holds its first hearings in the trial of four former senior Khmer Rouge officials, including former head of state Khieu Samphan and Pol Pot's deputy Nuon Chea. ](/news/2011/06/27/a-united-nations-backed-tribunal-in-cambodia-holds-its-first-hearings-in-the-trial-of-four-former-senior-khmer-rouge-officials-including-fo.md)
 _Context: Cambodia, Khieu Samphan, Khmer Rouge, Nuon Chea, Pol Pot, United Nations, head of state_
 
-### [Chinese human rights activist Hu Jia is released after serving a 3 1/2-year sentence, for "inciting to subvert state power." ](/news/2011/06/27/chinese-human-rights-activist-hu-jia-is-released-after-serving-a-3-1-2-year-sentence-for-inciting-to-subvert-state-power.md)
+### [Chinese human rights activist Hu Jia is released after serving a 3 1-2-year sentence, for "inciting to subvert state power." ](/news/2011/06/27/chinese-human-rights-activist-hu-jia-is-released-after-serving-a-3-1-2-year-sentence-for-inciting-to-subvert-state-power.md)
 Prominent human rights activist Hu Jia, who was released over the weekend after serving a 3 1/2-year sentence, is promising his parents he will be &quot;careful&quot; in the future.
 
 ### [Police clash with local residents who object to Italian government plans to build a European Union-funded rail link with France near their homes in the Italian Alps. The police intervention follows a peaceful candlelight nighttime prayer vigil featuring thousands of people. ](/news/2011/06/27/police-clash-with-local-residents-who-object-to-italian-government-plans-to-build-a-european-union-funded-rail-link-with-france-near-their-h.md)

@@ -28,7 +28,7 @@ Thirty-two people are taken to hospital after a police helicopter with three peo
 About 1,500 anti-government protesters have forced their way into the compound of the Royal Thai Army headquarters in Bangkok.
 
 ### [With their demands not being met, protests are scheduled to continue until at least Sunday 1 December 2013. ](/news/2013/11/29/with-their-demands-not-being-met-protests-are-scheduled-to-continue-until-at-least-sunday-1-december-2013.md)
-### [At least part of Comet C/2012 S1 (also known as Comet Ison) emerged from behind the Sun's corona. ](/news/2013/11/29/at-least-part-of-comet-c-2012-s1-also-known-as-comet-ison-emerged-from-behind-the-sun-s-corona.md)
+### [At least part of Comet C-2012 S1 (also known as Comet Ison) emerged from behind the Sun's corona. ](/news/2013/11/29/at-least-part-of-comet-c-2012-s1-also-known-as-comet-ison-emerged-from-behind-the-sun-s-corona.md)
 _Context: C/2012 S1, Sun, comet, corona_
 
 ## [Previous Day...](/news/2013/11/28/index.md)

@@ -3,7 +3,7 @@
 ### [ Brazil's long-term foreign currency sovereign credit rating is raised to BBB[?] by Standard & Poor's, marking the first time the country's foreign currency debt receives an investment grade rating. ](/news/2008/04/30/brazil-s-long-term-foreign-currency-sovereign-credit-rating-is-raised-to-bbba-by-standard-poor-s-marking-the-first-time-the-country-s.md)
 _Context: Brazil, Standard & Poor's, investment grade, national credit rating_
 
-### [ The United States Department of State's annual report on terrorism states that al-Qaeda "has reconstituted some of its pre-9/11 operational capabilities" in the Federally Administered Tribal Areas of Pakistan. ](/news/2008/04/30/the-united-states-department-of-state-s-annual-report-on-terrorism-states-that-al-qaeda-has-reconstituted-some-of-its-pre-9-11-operational.md)
+### [ The United States Department of State's annual report on terrorism states that al-Qaeda "has reconstituted some of its pre-9-11 operational capabilities" in the Federally Administered Tribal Areas of Pakistan. ](/news/2008/04/30/the-united-states-department-of-state-s-annual-report-on-terrorism-states-that-al-qaeda-has-reconstituted-some-of-its-pre-9-11-operational.md)
 State Department reports a 16-percent increase in terrorist attacks in Afghanistan between 2006 and 2007 due to resurgent extremist activity there and in neighboring Pakistan.
 
 ### [ The Bush administration brings back the one year Treasury bill in order to cope with rising budget deficits. ](/news/2008/04/30/the-bush-administration-brings-back-the-one-year-treasury-bill-in-order-to-cope-with-rising-budget-deficits.md)

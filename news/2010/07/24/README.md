@@ -18,7 +18,7 @@ At least 19 people are killed in a stampede at the Love Parade dance music festi
 ### [Rallies occur in Berlin, London, New York City, Paris, Ottawa and elsewhere, calling for the release of Sakineh Mohammadi Ashtiani, a woman facing execution for adultery in Iran. ](/news/2010/07/24/rallies-occur-in-berlin-london-new-york-city-paris-ottawa-and-elsewhere-calling-for-the-release-of-sakineh-mohammadi-ashtiani-a-woman.md)
 Protesters around the world rally in support of jailed woman facing execution for adultery.
 
-### [Beginning of the 2010 European Go Championship in Tampere, Finland. [http://www.egc2010.fi/]](/news/2010/07/24/beginning-of-the-2010-european-go-championship-in-tampere-finland-http-www-egc2010-fi.md)
+### [Beginning of the 2010 European Go Championship in Tampere, Finland. [http:--www.egc2010.fi-]](/news/2010/07/24/beginning-of-the-2010-european-go-championship-in-tampere-finland-http-www-egc2010-fi.md)
 _Context: European Go Championship, Finland, Tampere_
 
 ### [Thousands of people across the globe film their daily lives for Oscar-winning director Kevin Macdonald and producer Ridley Scott's YouTube-based documentary "Life in a Day". ](/news/2010/07/24/thousands-of-people-across-the-globe-film-their-daily-lives-for-oscar-winning-director-kevin-macdonald-and-producer-ridley-scott-s-youtube-b.md)
@@ -43,7 +43,7 @@ Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla ar
 _Context: U.S. military, child pornography_
 
 ### [In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. ](/news/2010/07/24/in-the-united-states-house-of-representatives-republicans-introduce-resolution-1553-which-expresses-united-states-support-for-israeli-use.md)
-_Context: Iran, Israel, U.S., United States House of Representatives_
+_Context: Americans, Iran, Israel, United States House of Representatives_
 
 ### [Prime Minister of Russia Vladimir Putin meets the Russian intelligence agents who were swapped with the United States. ](/news/2010/07/24/prime-minister-of-russia-vladimir-putin-meets-the-russian-intelligence-agents-who-were-swapped-with-the-united-states.md)
 Russian PM Vladimir Putin meets the Russian agents deported from the US and says they had &quot;tough lives&quot; and were &quot;betrayed&quot;.

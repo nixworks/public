@@ -33,7 +33,7 @@ _Context: Tenzin Delek Rinpoche, Tibet, lama_
 ### [ A meteorite lands in Cambodia and sparks several fires. Some locals hope it is a divine omen for peace ](/news/2005/01/26/a-meteorite-lands-in-cambodia-and-sparks-several-fires-some-locals-hope-it-is-a-divine-omen-for-peace.md)
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
-### [ In Germany, the Federal Constitutional Court (supreme court) nullifies legislation that prevented tuition fees. Several states now are planning to introduce such fees. [http://www.studis-online.de/StudInfo/Gebuehren/tuition_fees.php]](/news/2005/01/26/in-germany-the-federal-constitutional-court-supreme-court-nullifies-legislation-that-prevented-tuition-fees-several-states-now-are-plan.md)
+### [ In Germany, the Federal Constitutional Court (supreme court) nullifies legislation that prevented tuition fees. Several states now are planning to introduce such fees. [http:--www.studis-online.de-StudInfo-Gebuehren-tuition_fees.php]](/news/2005/01/26/in-germany-the-federal-constitutional-court-supreme-court-nullifies-legislation-that-prevented-tuition-fees-several-states-now-are-plan.md)
 _Context: Federal Constitutional Court of Germany, tuition fee_
 
 ## [Previous Day...](/news/2005/01/25/index.md)

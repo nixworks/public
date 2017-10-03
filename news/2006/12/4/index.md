@@ -1,6 +1,6 @@
 ## [2006-12-4](/news/2006/12/4/index.md)
 
-### [ Baidu, the leading search engine in Chinese language, announces its plan to provide service in Japanese. ([http://www.washingtonpost.com/wp-dyn/content/article/2006/12/04/AR2006120400678.html Reuters via The Washington Post])](/news/2006/12/4/baidu-the-leading-search-engine-in-chinese-language-announces-its-plan-to-provide-service-in-japanese-http-www-washingtonpost-com-wp.md)
+### [ Baidu, the leading search engine in Chinese language, announces its plan to provide service in Japanese. ([http:--www.washingtonpost.com-wp-dyn-content-article-2006-12-04-AR2006120400678.html Reuters via The Washington Post])](/news/2006/12/4/baidu-the-leading-search-engine-in-chinese-language-announces-its-plan-to-provide-service-in-japanese-http-www-washingtonpost-com-wp.md)
 _Context: Baidu, Chinese, Japanese, search engine_
 
 ### [ NASA announces plans to build a base on either the north pole or south pole of the Moon. ](/news/2006/12/4/nasa-announces-plans-to-build-a-base-on-either-the-north-pole-or-south-pole-of-the-moon.md)

@@ -21,10 +21,10 @@ _Context: Friends, sitcom_
 ### [ It is announced that John Scarlett is to succeed Sir Richard Dearlove as the head of the Secret Intelligence Service with Dearlove becoming master of Pembroke College at Cambridge University. Scarlett is the first head of the SIS ever to have a current photograph published.](/news/2004/05/6/it-is-announced-that-john-scarlett-is-to-succeed-sir-richard-dearlove-as-the-head-of-the-secret-intelligence-service-with-dearlove-becoming.md)
 _Context: John Scarlett, Pembroke College, Richard Dearlove, Secret Intelligence Service, University of Cambridge_
 
-### [ President George W. Bush calls for Israel to withdraw to her borders prior to the Six Day War of 1967, and to give the occupied territories to the Palestinians for a homeland. ([http://www.guardian.co.uk/worldlatest/story/0,1280,-4061451,00.html Guardian Unlimited])](/news/2004/05/6/president-george-w-bush-calls-for-israel-to-withdraw-to-her-borders-prior-to-the-six-day-war-of-1967-and-to-give-the-occupied-territories.md)
+### [ President George W. Bush calls for Israel to withdraw to her borders prior to the Six Day War of 1967, and to give the occupied territories to the Palestinians for a homeland. ([http:--www.guardian.co.uk-worldlatest-story-0,1280,-4061451,00.html Guardian Unlimited])](/news/2004/05/6/president-george-w-bush-calls-for-israel-to-withdraw-to-her-borders-prior-to-the-six-day-war-of-1967-and-to-give-the-occupied-territories.md)
 _Context: George W. Bush, Israel, Palestinians, Six Day War, occupied territories_
 
-### [ Aslan Abashidze resigned as the head of the Autonomous Republic of Ajaria, Georgia, after months of tensions with the central Georgian government. ([http://news.bbc.co.uk/1/hi/world/europe/country_profiles/3520322.stm BBC])](/news/2004/05/6/aslan-abashidze-resigned-as-the-head-of-the-autonomous-republic-of-ajaria-georgia-after-months-of-tensions-with-the-central-georgian-gove.md)
+### [ Aslan Abashidze resigned as the head of the Autonomous Republic of Ajaria, Georgia, after months of tensions with the central Georgian government. ([http:--news.bbc.co.uk-1-hi-world-europe-country_profiles-3520322.stm BBC])](/news/2004/05/6/aslan-abashidze-resigned-as-the-head-of-the-autonomous-republic-of-ajaria-georgia-after-months-of-tensions-with-the-central-georgian-gove.md)
 _Context: Ajaria, Aslan Abashidze, Georgian, months of tensions_
 
 ## [Previous Day...](/news/2004/05/5/index.md)

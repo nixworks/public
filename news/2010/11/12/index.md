@@ -39,7 +39,7 @@ _Context: Pohang, South Korea, nursing home_
 ### [Mount Bulusan, a volcano in the Philippines, erupts again. ](/news/2010/11/12/mount-bulusan-a-volcano-in-the-philippines-erupts-again.md)
 _Context: Mount Bulusan, Philippines, volcano_
 
-### [An intense European windstorm in the British Isles kills an elderly woman and brings gusts exceeding 160 km/h. ](/news/2010/11/12/an-intense-european-windstorm-in-the-british-isles-kills-an-elderly-woman-and-brings-gusts-exceeding-160-km-h.md)
+### [An intense European windstorm in the British Isles kills an elderly woman and brings gusts exceeding 160 km-h. ](/news/2010/11/12/an-intense-european-windstorm-in-the-british-isles-kills-an-elderly-woman-and-brings-gusts-exceeding-160-km-h.md)
 A 55-year-old woman has died after a tree fell on her car during 24 hours of severe gales and torrential rain.
 
 ### [Russian Prime Minister Vladimir Putin has arrived in Sofia for talks with his Bulgarian counterpart Boyko Borisov. ](/news/2010/11/12/russian-prime-minister-vladimir-putin-has-arrived-in-sofia-for-talks-with-his-bulgarian-counterpart-boyko-borisov.md)

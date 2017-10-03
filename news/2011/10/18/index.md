@@ -7,7 +7,7 @@ _Context: 2011 Syrian uprising, Homs, Syria_
 Kenyan troops with aerial support continuing their advance into Somalia, as a suspected suicide car bomb kills at least three civilians in Mogadishu.
 
 ### [Moody's downgrades Spain's credit rating to A1 after Standard & Poor's and Fitch downgraded Spain's rating two weeks ago. ](/news/2011/10/18/moody-s-downgrades-spain-s-credit-rating-to-a1-after-standard-poor-s-and-fitch-downgraded-spain-s-rating-two-weeks-ago.md)
-_Context: Fitch, Moody's, Spanish, Standard & Poor's, credit rating_
+_Context: Fitch, Moody's, Spain, Standard & Poor's, credit rating_
 
 ### [Year-over-year GDP growth in the People's Republic of China slows to 9.1% for the third quarter of 2011, following government efforts to curb inflation. ](/news/2011/10/18/year-over-year-gdp-growth-in-the-people-s-republic-of-china-slows-to-9-1-for-the-third-quarter-of-2011-following-government-efforts-to-cur.md)
 CHINA said today its economy grew at a slower pace in the third quarter as government efforts to tame inflation and turbulence in Europe and the United States curbed business activity.
@@ -16,7 +16,7 @@ CHINA said today its economy grew at a slower pace in the third quarter as gover
 _Context: Droid RAZR, Motorola_
 
 ### [Taiwanese smartphone manufacturer HTC loses a patent infringement case in the United States, with the United States International Trade Commission ruling that Apple Inc.'s iPhone technology does not violate HTC's patents. ](/news/2011/10/18/taiwanese-smartphone-manufacturer-htc-loses-a-patent-infringement-case-in-the-united-states-with-the-united-states-international-trade-comm.md)
-_Context: Apple Inc., HTC, Taiwan, U.S., U.S. International Trade Commission, iPhone, patent, patent infringement, smartphone_
+_Context: Americans, Apple Inc., HTC, Taiwan, U.S. International Trade Commission, iPhone, patent, patent infringement, smartphone_
 
 ### [A bill to takeover the capital city of Harrisburg, rather than have it file for Chapter 9, clears the Pennsylvania State Legislature. The Governor of Pennsylvania, Tom Corbett, is expected to sign it. ](/news/2011/10/18/a-bill-to-takeover-the-capital-city-of-harrisburg-rather-than-have-it-file-for-chapter-9-clears-the-pennsylvania-state-legislature-the-go.md)
 The Pennsylvania state Senate on Tuesday voted for a state takeover of the finances of its capital, Harrisburg, setting up a showdown with the city, which filed for bankruptcy last week.

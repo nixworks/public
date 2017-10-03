@@ -9,13 +9,13 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ At least 80 people die in Iraq following an attack on a Shiite holy site. ](/news/2006/03/14/at-least-80-people-die-in-iraq-following-an-attack-on-a-shiite-holy-site.md)
 _Context: Iraq, Iraq War, Shiite_
 
-### [ Israeli troops shell and demolish a Palestinian prison in Jericho, seizing Ahmad Sa'adat, imprisoned for allegedly assassinating an Israeli minister. [http://news.bbc.co.uk/2/hi/middle_east/4804424.stm (BBC)] In retaliation for the Israeli attack in Jericho, Palestinian gunmen kidnap and then release American professor Douglas Johnson. [http://www.forbes.com/home/feeds/ap/2006/03/14/ap2594746.html (Forbes)]date=September 2016 bot=medicbot=medic](/news/2006/03/14/israeli-troops-shell-and-demolish-a-palestinian-prison-in-jericho-seizing-ahmad-sa-adat-imprisoned-for-allegedly-assassinating-an-israeli.md)
+### [ Israeli troops shell and demolish a Palestinian prison in Jericho, seizing Ahmad Sa'adat, imprisoned for allegedly assassinating an Israeli minister. [http:--news.bbc.co.uk-2-hi-middle_east-4804424.stm (BBC)] In retaliation for the Israeli attack in Jericho, Palestinian gunmen kidnap and then release American professor Douglas Johnson. [http:--www.forbes.com-home-feeds-ap-2006-03-14-ap2594746.html (Forbes)]date=September 2016 bot=medicbot=medic](/news/2006/03/14/israeli-troops-shell-and-demolish-a-palestinian-prison-in-jericho-seizing-ahmad-sa-adat-imprisoned-for-allegedly-assassinating-an-israeli.md)
 _Context: Ahmad Sa'adat, Israel, Israeli-Palestinian conflict, Jericho, Palestinian_
 
 ### [ Euronext, a derivatives exchange based in Amsterdam and Paris, announces that it might join the ongoing auction for the London Stock Exchange&mdash;which would put it in competition with bidders Nasdaq and Deutsche Brse. ](/news/2006/03/14/euronext-a-derivatives-exchange-based-in-amsterdam-and-paris-announces-that-it-might-join-the-ongoing-auction-for-the-london-stock-exchan.md)
 _Context: Amsterdam, Deutsche Borse, Euronext NV, London Stock Exchange, Nasdaq, Paris_
 
-### [ At least seven people have died in wildfires in the U.S. state of Texas which have burned 1,000&nbsp;mi<sup>2</sup> (2500&nbsp;km<sup>2</sup>), forcing 1,900 people to evacuate. ](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in-the-u-s-state-of-texas-which-have-burned-1-000-nbsp-mi2-2500-nbsp-km2-forcing-1-900-peo.md)
+### [ At least seven people have died in wildfires in the U.S. state of Texas which have burned 1,000&nbsp;mi 2 (2500&nbsp;km 2 ), forcing 1,900 people to evacuate. ](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in-the-u-s-state-of-texas-which-have-burned-1-000-nbsp-mi-2-2500-nbsp-km-2-forcing-1-900.md)
 _Context: Texas, Wildfire_
 
 ### [ In London, six men taking part in a clinical trial for a new monoclonal antibody anti-inflammatory drug, TGN1412, are placed in intensive care, some in a life-threatening condition, after suffering adverse side-effects. ](/news/2006/03/14/in-london-six-men-taking-part-in-a-clinical-trial-for-a-new-monoclonal-antibody-anti-inflammatory-drug-tgn1412-are-placed-in-intensive-c.md)

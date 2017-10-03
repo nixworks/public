@@ -10,7 +10,7 @@ _Context: Hebei, Shaanxi, coal miners, mine_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Russia intimates that its opposition to fresh elections might not be unshakable. ](/news/2004/11/28/russia-intimates-that-its-opposition-to-fresh-elections-might-not-be-unshakable.md)
-### [ An oil tanker, the "Athos 1", leaks approximately 30,000 US gallons (100 m<sup>3</sup>) of crude oil into the Delaware River in the eastern United States while pulling into a Citgo oil refinery. The Coast Guard closes part of the river to commercial traffic while cleanup begins. ](/news/2004/11/28/an-oil-tanker-the-athos-1-leaks-approximately-30-000-us-gallons-100-m3-of-crude-oil-into-the-delaware-river-in-the-eastern-united-sta.md)
+### [ An oil tanker, the "Athos 1", leaks approximately 30,000 US gallons (100 m 3 ) of crude oil into the Delaware River in the eastern United States while pulling into a Citgo oil refinery. The Coast Guard closes part of the river to commercial traffic while cleanup begins. ](/news/2004/11/28/an-oil-tanker-the-athos-1-leaks-approximately-30-000-us-gallons-100-m-3-of-crude-oil-into-the-delaware-river-in-the-eastern-united-s.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 ## [Previous Day...](/news/2004/11/27/index.md)

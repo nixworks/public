@@ -10,7 +10,7 @@ _Context: International Security Assistance Force, NATO, War in Afghanistan (200
 _Context: Haiti, United Nations, lynch_
 
 ### [ The United States and India confirm a deal on nuclear co-operation. ](/news/2007/07/27/the-united-states-and-india-confirm-a-deal-on-nuclear-co-operation.md)
-_Context: India, U.S., nuclear co-operation_
+_Context: Americans, India, nuclear co-operation_
 
 ### [ Clinical trials for MVA85A, a new vaccine against tuberculosis, are started in South Africa. ](/news/2007/07/27/clinical-trials-for-mva85a-a-new-vaccine-against-tuberculosis-are-started-in-south-africa.md)
 _Context: MVA85A, South Africa, clinical trial, tuberculosis, vaccine_
@@ -24,7 +24,7 @@ _Context: The Lancet, marijuana, psychosis_
 ### [ An independent review set up by NASA finds out that astronauts were allowed to fly despite being drunk in at least two occasions. ](/news/2007/07/27/an-independent-review-set-up-by-nasa-finds-out-that-astronauts-were-allowed-to-fly-despite-being-drunk-in-at-least-two-occasions.md)
 _Context: NASA, astronaut, drunks_
 
-### [ The United States Congress passes a bill containing measures recommended by the 9/11 Commission. ](/news/2007/07/27/the-united-states-congress-passes-a-bill-containing-measures-recommended-by-the-9-11-commission.md)
+### [ The United States Congress passes a bill containing measures recommended by the 9-11 Commission. ](/news/2007/07/27/the-united-states-congress-passes-a-bill-containing-measures-recommended-by-the-9-11-commission.md)
 _Context: 9/11 Commission, United States Congress_
 
 ### [ The United Nations Educational, Scientific and Cultural Organisation dispatches a team to investigate the shooting of four mountain gorillas in the Virunga National Park in the Democratic Republic of the Congo. ](/news/2007/07/27/the-united-nations-educational-scientific-and-cultural-organisation-dispatches-a-team-to-investigate-the-shooting-of-four-mountain-gorilla.md)
@@ -63,7 +63,7 @@ An official in Indonesia says the death toll from devastating floods and landsli
 ### [ The President of Indonesia Susilo Bambang Yudhoyono meets with the Prime Minister of Australia John Howard to discuss security issues and the possibility of a bilateral free trade agreement. ](/news/2007/07/27/the-president-of-indonesia-susilo-bambang-yudhoyono-meets-with-the-prime-minister-of-australia-john-howard-to-discuss-security-issues-and-t.md)
 _Context: Australian Prime Minister, John Howard, President of Indonesia, Susilo Bambang Yudhoyono, free trade_
 
-### [ The Commonwealth Director of Public Prosecutions drops the charge of supporting a terrorist organization against Mohamed Haneef. [http://www.news.com.au/story/0,23599,22143906-2,00.html (News Limited)] Australian Federal Police admits all their main evidence against Haneef was wrong. ](/news/2007/07/27/the-commonwealth-director-of-public-prosecutions-drops-the-charge-of-supporting-a-terrorist-organization-against-mohamed-haneef-http-ww.md)
+### [ The Commonwealth Director of Public Prosecutions drops the charge of supporting a terrorist organization against Mohamed Haneef. [http:--www.news.com.au-story-0,23599,22143906-2,00.html (News Limited)] Australian Federal Police admits all their main evidence against Haneef was wrong. ](/news/2007/07/27/the-commonwealth-director-of-public-prosecutions-drops-the-charge-of-supporting-a-terrorist-organization-against-mohamed-haneef-http-ww.md)
 _Context: Commonwealth, Director of Public Prosecutions, Mohamed Haneef, police_
 
 ### [ Five thousand Zimbabweans have been arrested in the last month for violating price controls. ](/news/2007/07/27/five-thousand-zimbabweans-have-been-arrested-in-the-last-month-for-violating-price-controls.md)

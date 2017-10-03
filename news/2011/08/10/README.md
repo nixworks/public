@@ -9,7 +9,7 @@ _Context: Kim Kwan-jin, North Korea, South Korea, Yonhap_
 ### [A US drone missile attack kills at least 18 people in Pakistan's North Waziristan district. ](/news/2011/08/10/a-us-drone-missile-attack-kills-at-least-18-people-in-pakistan-s-north-waziristan-district.md)
 _Context: North Waziristan, Pakistan, drones launch_
 
-### [The south ridge of Aoraki / Mount Cook, New Zealand's highest mountain, is renamed Hillary Ridge after Sir Edmund Hillary, the first man to conquer Mount Everest. ](/news/2011/08/10/the-south-ridge-of-aoraki-mount-cook-new-zealand-s-highest-mountain-is-renamed-hillary-ridge-after-sir-edmund-hillary-the-first-man-to.md)
+### [The south ridge of Aoraki - Mount Cook, New Zealand's highest mountain, is renamed Hillary Ridge after Sir Edmund Hillary, the first man to conquer Mount Everest. ](/news/2011/08/10/the-south-ridge-of-aoraki-mount-cook-new-zealand-s-highest-mountain-is-renamed-hillary-ridge-after-sir-edmund-hillary-the-first-man-to.md)
 WELLINGTON (Reuters Life!) - New Zealand will name a part of its highest mountain after one of its most famous citizens, Sir Edmund Hillary, the first ma
 
 ### [Stock markets in Asia and Australia continue to rebound after the United States Federal Reserve promises to keep interest rates near zero for two years. ](/news/2011/08/10/stock-markets-in-asia-and-australia-continue-to-rebound-after-the-united-states-federal-reserve-promises-to-keep-interest-rates-near-zero-fo.md)

@@ -1,6 +1,6 @@
 ### [2008-06-13](/news/2008/06/13/index.md)
 
-#  The Station nightclub fire: Sealed Air pay a US$25 million settlement for manufacturing foam used in the club. 100 people died in the disaster. [http://ap.google.com/article/ALeqM5h5CMQKwNvVeIyOIxllb1n7aBsBnAD919GSPG0 (AP via Google News)] (Wikinews)
+#  The Station nightclub fire: Sealed Air pay a US$25 million settlement for manufacturing foam used in the club. 100 people died in the disaster. [http:--ap.google.com-article-ALeqM5h5CMQKwNvVeIyOIxllb1n7aBsBnAD919GSPG0 (AP via Google News)] (Wikinews)
 
 
 

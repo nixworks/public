@@ -22,7 +22,7 @@ Vicky Pryce, the former wife of ex-MP Chris Huhne, is found guilty of perverting
 Hilton Botha, the former lead detective in the murder case involving Paralympian Oscar Pistorius, has resigned from the SA Police Service.
 
 ### [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md)
-_Context: Jordan, Osama bin Laden, Sulaiman Abu Ghaith, U.S., al-Qaeda_
+_Context: Americans, Jordan, Osama bin Laden, Sulaiman Abu Ghaith, al-Qaeda_
 
 ### [Denis Napthine is sworn in as the Premier of the Australian state of Victoria replacing Ted Baillieu. ](/news/2013/03/7/denis-napthine-is-sworn-in-as-the-premier-of-the-australian-state-of-victoria-replacing-ted-baillieu.md)
 _Context: Australia, Denis Napthine, Premier, Ted Baillieu, Victoria_

@@ -1,6 +1,6 @@
 ## [2007-10-24](/news/2007/10/24/index.md)
 
-### [ Comet 17P/Holmes grows significantly brighter overnight, going from magnitude 17 to magnitude 3 in just a few hours, while in the constellation of Perseus. ](/news/2007/10/24/comet-17p-holmes-grows-significantly-brighter-overnight-going-from-magnitude-17-to-magnitude-3-in-just-a-few-hours-while-in-the-constella.md)
+### [ Comet 17P-Holmes grows significantly brighter overnight, going from magnitude 17 to magnitude 3 in just a few hours, while in the constellation of Perseus. ](/news/2007/10/24/comet-17p-holmes-grows-significantly-brighter-overnight-going-from-magnitude-17-to-magnitude-3-in-just-a-few-hours-while-in-the-constella.md)
 _Context: Comet 17P/Holmes_
 
 ### [ The Bank of America announces that it will lay off 3,000 staff following an announcement of a significant decline in earnings in the third quarter. ](/news/2007/10/24/the-bank-of-america-announces-that-it-will-lay-off-3-000-staff-following-an-announcement-of-a-significant-decline-in-earnings-in-the-third.md)

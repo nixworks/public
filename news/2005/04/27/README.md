@@ -52,12 +52,12 @@ _Context: Afghanistan, Cherif Bassiouni, Human rights, United Nations, United St
 _Context: Austria, Freedom Party of Austria, John Gudenus, Nazism_
 
 ### [ In Vietnam, six people are arrested for trying to sell human remains as remains of MIA US soldiers. ](/news/2005/04/27/in-vietnam-six-people-are-arrested-for-trying-to-sell-human-remains-as-remains-of-mia-us-soldiers.md)
-_Context: MIA, U.S., Vietnam_
+_Context: Americans, MIA, Vietnam_
 
 ### [ In Cte d'Ivoire, opposition leader Alassane Ouattara welcomes President Laurent Gbagbo's decision to let him contest elections. South African president Thabo Mbeki welcomes it as well. ](/news/2005/04/27/in-cote-d-ivoire-opposition-leader-alassane-ouattara-welcomes-president-laurent-gbagbo-s-decision-to-let-him-contest-elections-south-afri.md)
 _Context: Alassane Ouattara, Cte d'Ivoire, Laurent Gbagbo, South Africa, Thabo Mbeki_
 
-### [ In Scotland the [http://www.cbrd.co.uk/motorway/77.shtml M77] was opened by the First minister Jack Mcconnell, from Fenwick in East Ayrshire to Newton Mearns in East Renfrewshire replacing the old dangerous [http://www.a77campaign.co.uk A77] which has claimed many lives, including a local police officer.](/news/2005/04/27/in-scotland-the-http-www-cbrd-co-uk-motorway-77-shtml-m77-was-opened-by-the-first-minister-jack-mcconnell-from-fenwick-in-east-ayrshir.md)
+### [ In Scotland the [http:--www.cbrd.co.uk-motorway-77.shtml M77] was opened by the First minister Jack Mcconnell, from Fenwick in East Ayrshire to Newton Mearns in East Renfrewshire replacing the old dangerous [http:--www.a77campaign.co.uk A77] which has claimed many lives, including a local police officer.](/news/2005/04/27/in-scotland-the-http-www-cbrd-co-uk-motorway-77-shtml-m77-was-opened-by-the-first-minister-jack-mcconnell-from-fenwick-in-east-ayrshir.md)
 _Context: Jack McConnell, Scotland_
 
 ## [Previous Day...](/news/2005/04/26/index.md)

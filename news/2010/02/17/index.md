@@ -1,6 +1,6 @@
 ## [2010-02-17](/news/2010/02/17/index.md)
 
-### [500,000 residents of Mexico City have been vaccinated against the A/H1N1 flu. ](/news/2010/02/17/500-000-residents-of-mexico-city-have-been-vaccinated-against-the-a-h1n1-flu.md)
+### [500,000 residents of Mexico City have been vaccinated against the A-H1N1 flu. ](/news/2010/02/17/500-000-residents-of-mexico-city-have-been-vaccinated-against-the-a-h1n1-flu.md)
 _Context: A/H1N1, Mexico City, vaccinated_
 
 ### [Four people are charged in connection with the Santika Club fire in Thailand on December 31, 2008. ](/news/2010/02/17/four-people-are-charged-in-connection-with-the-santika-club-fire-in-thailand-on-december-31-2008.md)

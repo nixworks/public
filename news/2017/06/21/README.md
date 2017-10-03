@@ -24,7 +24,7 @@ The stabbing of a police officer at a Michigan airport on Wednesday is being inv
 ### [Two people are injured in an acid attack in Beckton, east London. ](/news/2017/06/21/two-people-are-injured-in-an-acid-attack-in-beckton-east-london.md)
 Resham Khan had celebrated her 21st birthday with her cousin when they were attacked in their car.
 
-### [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. [http://www.mirror.co.uk/news/world-news/imam-marries-14-year-old-10661681 ("Daily Mirror") ]](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction-http-www-mirror-co-uk-news-wo.md)
+### [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. [http:--www.mirror.co.uk-news-world-news-imam-marries-14-year-old-10661681 ("Daily Mirror") ]](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction-http-www-mirror-co-uk-news-wo.md)
 _Context: Australia, Child marriage in Australia_
 
 ### [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping his nephew Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-his-nephew-muhammad-b.md)

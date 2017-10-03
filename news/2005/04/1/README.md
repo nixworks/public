@@ -3,7 +3,7 @@
 ### [ Hamas and Islamic Jihad have declared, in principle, their intention to join the Palestine Liberation Organization (PLO). ](/news/2005/04/1/hamas-and-islamic-jihad-have-declared-in-principle-their-intention-to-join-the-palestine-liberation-organization-plo.md)
 _Context: Hamas, Islamic Jihad Movement in Palestine, Palestine Liberation Organization's_
 
-### [ A death squad guns down at least 30 people in the Brazilian state of Rio de Janeiro. Several teenagers and a child were among those killed in the districts of Queimados and Nova Iguacu on Thursday night. Authorities blame rogue police officers for the massacre. [http://news.bbc.co.uk/1/hi/world/americas/4401525.stm (BBC)] (Wikinews)](/news/2005/04/1/a-death-squad-guns-down-at-least-30-people-in-the-brazilian-state-of-rio-de-janeiro-several-teenagers-and-a-child-were-among-those-killed.md)
+### [ A death squad guns down at least 30 people in the Brazilian state of Rio de Janeiro. Several teenagers and a child were among those killed in the districts of Queimados and Nova Iguacu on Thursday night. Authorities blame rogue police officers for the massacre. [http:--news.bbc.co.uk-1-hi-world-americas-4401525.stm (BBC)] (Wikinews)](/news/2005/04/1/a-death-squad-guns-down-at-least-30-people-in-the-brazilian-state-of-rio-de-janeiro-several-teenagers-and-a-child-were-among-those-killed.md)
 _Context: (Wikinews), Brazil, Rio de Janeiro, death squad_
 
 ### [ Google doubles the storage space of its Gmail service to two gigabytes. ](/news/2005/04/1/google-doubles-the-storage-space-of-its-gmail-service-to-two-gigabytes.md)
@@ -28,7 +28,7 @@ _Context: Laos, World Bank, hydroelectric_
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ The government of Argentina delays the restructuring of its debt by the exchange of old bonds for new because of a decision by a federal court judge in the United States that froze the processing of the old bonds in the possession of the Bank of New York pending a hearing before the appeals court. ](/news/2005/04/1/the-government-of-argentina-delays-the-restructuring-of-its-debt-by-the-exchange-of-old-bonds-for-new-because-of-a-decision-by-a-federal-co.md)
-_Context: Argentina, Bank of New York, U.S._
+_Context: Americans, Argentina, Bank of New York_
 
 ## [Previous Day...](/news/2005/03/31/index.md)
 

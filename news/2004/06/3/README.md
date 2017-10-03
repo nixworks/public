@@ -12,7 +12,7 @@ _Context: CIA, George Tenet, John McLaughlin_
 ### [ Iraqi prisoner abuse scandal: Two U.S. Marines, Pfc. Andrew J. Sting and Pfc. Jeremiah J. Trefney, have been jailed for between eight to twelve months after pleading guilty to prisoner abuse at Al Mahmudiya prison in Iraq which occurred after the events at Abu Ghraib prison. ](/news/2004/06/3/iraqi-prisoner-abuse-scandal-two-u-s-marines-pfc-andrew-j-sting-and-pfc-jeremiah-j-trefney-have-been-jailed-for-between-eight-to-tw.md)
 _Context: Abu Ghraib prison, Al Mahmudiya prison, Iraq, Iraqi prisoner abuse scandal, U.S. Marine, prison_
 
-### [ The Organization of the Petroleum Exporting Countries will raise output by 2 million barrels a day from July 1 and by another 500000 oilbbl/d from August 1. ](/news/2004/06/3/the-organization-of-the-petroleum-exporting-countries-will-raise-output-by-2-million-barrels-a-day-from-july-1-and-by-another-500000-oilbbl.md)
+### [ The Organization of the Petroleum Exporting Countries will raise output by 2 million barrels a day from July 1 and by another 500000 oilbbl-d from August 1. ](/news/2004/06/3/the-organization-of-the-petroleum-exporting-countries-will-raise-output-by-2-million-barrels-a-day-from-july-1-and-by-another-500000-oilbbl.md)
 _Context: OPEC_
 
 ## [Previous Day...](/news/2004/06/2/index.md)

@@ -21,7 +21,7 @@ _Context: Chinatown, Henry Street, Lower Manhattan, Manhattan, New York City, Pi
 ### [An Iranian exile group claims that it has evidence of secret nuclear facilities located in tunnels beneath a mountain near the town of Damavand. ](/news/2013/07/11/an-iranian-exile-group-claims-that-it-has-evidence-of-secret-nuclear-facilities-located-in-tunnels-beneath-a-mountain-near-the-town-of-damav.md)
 _Context: Damavand, Iranian, nuclear program_
 
-### [Six women climb western Europe's tallest skyscraper, The Shard, towering over Shell's headquarters in London, to protest against Arctic drilling. [http://www.bbc.co.uk/news/uk-england-london-23267743 (BBC) ]](/news/2013/07/11/six-women-climb-western-europe-s-tallest-skyscraper-the-shard-towering-over-shell-s-headquarters-in-london-to-protest-against-arctic-dril.md)
+### [Six women climb western Europe's tallest skyscraper, The Shard, towering over Shell's headquarters in London, to protest against Arctic drilling. [http:--www.bbc.co.uk-news-uk-england-london-23267743 (BBC) ]](/news/2013/07/11/six-women-climb-western-europe-s-tallest-skyscraper-the-shard-towering-over-shell-s-headquarters-in-london-to-protest-against-arctic-dril.md)
 _Context: The Shard_
 
 ### [A district court in Moscow convicts the late investment fund auditor Sergei Magnitsky of tax evasion in Russia's first posthumous trial. ](/news/2013/07/11/a-district-court-in-moscow-convicts-the-late-investment-fund-auditor-sergei-magnitsky-of-tax-evasion-in-russia-s-first-posthumous-trial.md)

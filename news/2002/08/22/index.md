@@ -4,7 +4,7 @@
 _Context: Bangladesh, Dongting Lake, Hunan, Nepal, Yangtze River, Yueyang, extreme weather, monsoon season_
 
 ### [ Government of Canada: Jean Chrtien, the Prime Minister of Canada, announces he will step down in February 2004.](/news/2002/08/22/government-of-canada-jean-chretien-the-prime-minister-of-canada-announces-he-will-step-down-in-february-2004.md)
-_Context: Canadian Prime Minister, Canadian government, Jean Chrtien_
+_Context: Canadian government, Jean Chrtien, Prime Minister of Canada_
 
 ## [Previous Day...](/news/2002/08/21/index.md)
 

@@ -25,7 +25,7 @@ _Context: Iran, Tehran, United Kingdom, protests against the regime, trial_
 Meet Australia&#039;s answer to velociraptor.
 
 ### [ Syria invites United States President Barack Obama to the Damascus summit. ](/news/2009/07/3/syria-invites-united-states-president-barack-obama-to-the-damascus-summit.md)
-_Context: Barack Obama, Damascus, Syria, U.S., U.S. President_
+_Context: Americans, Barack Obama, Damascus, Syria, U.S. President_
 
 ### [ Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. ](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.md)
 Algerian singer Cheb Mami went on trial in France on Thursday over accusations that he forced his former lover into an attempted abortion in 2005.
@@ -42,11 +42,11 @@ The death toll in this week&#39;s rail disaster in Italy rose to 21 after a woma
 ### [ Six people, including three children, are killed after a fire in a high rise residential tower block in Camberwell, south London, England. ](/news/2009/07/3/six-people-including-three-children-are-killed-after-a-fire-in-a-high-rise-residential-tower-block-in-camberwell-south-london-england.md)
 _Context: Camberwell, England, London, killed after a fire_
 
-### [ Russia opens a route for the United States to fly arms to Afghanistan. [http://www.nytimes.com/2009/07/04/world/europe/04russia.html?hp ("The New York Times") ]](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan-http-www-nytimes-com-2009-07-04-world-europe-04russia-html-hp-t.md)
-_Context: Afghanistan, Russia, U.S._
+### [ Russia opens a route for the United States to fly arms to Afghanistan. [http:--www.nytimes.com-2009-07-04-world-europe-04russia.html?hp ("The New York Times") ]](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan-http-www-nytimes-com-2009-07-04-world-europe-04russia-html-hp-t.md)
+_Context: Afghanistan, Americans, Russia_
 
 ### [ American politician Sarah Palin, current Governor of Alaska and 2008 Vice Presidential candidate, announces her resignation as Governor, effective July 26. ](/news/2009/07/3/american-politician-sarah-palin-current-governor-of-alaska-and-2008-vice-presidential-candidate-announces-her-resignation-as-governor-ef.md)
-_Context: 2008, Alaska, Governor, Sarah Palin, U.S., U.S. Vice President_
+_Context: 2008, Alaska, Americans, Governor, Sarah Palin, U.S. Vice President_
 
 ### [ Two aid workers, including one Irish woman, with the charity GOAL are kidnapped by an armed gang in Sudan's Darfur region. ](/news/2009/07/3/two-aid-workers-including-one-irish-woman-with-the-charity-goal-are-kidnapped-by-an-armed-gang-in-sudan-s-darfur-region.md)
 _Context: Darfur, GOAL, Republic of Ireland, Sudan_

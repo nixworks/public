@@ -60,7 +60,7 @@ Spanish Prime Minister Mariano Rajoy announces sweeping budget cuts and tax rise
 ### [Police clash with Chilean fishermen opposed to a new law said to favour larger companies; Chilean police use tear gas and water cannon to break up demonstrations in Valparaiso. ](/news/2012/07/11/police-clash-with-chilean-fishermen-opposed-to-a-new-law-said-to-favour-larger-companies-chilean-police-use-tear-gas-and-water-cannon-to-br.md)
 Chilean fishermen clash with police as they protest in several coastal towns against a new law they say favours industrial fishing over them.
 
-### [Astronomers announce the discovery of S/2012 P 1, the fifth moon of Pluto. ](/news/2012/07/11/astronomers-announce-the-discovery-of-s-2012-p-1-the-fifth-moon-of-pluto.md)
+### [Astronomers announce the discovery of S-2012 P 1, the fifth moon of Pluto. ](/news/2012/07/11/astronomers-announce-the-discovery-of-s-2012-p-1-the-fifth-moon-of-pluto.md)
 A fifth moon has just been discovered orbiting former planet Pluto, scientists with the Hubble Space Telescope announced Wednesday -- but it’s still not enough to bump the dwarf planet back into the big leagues.
 
 ## [Previous Day...](/news/2012/07/10/index.md)

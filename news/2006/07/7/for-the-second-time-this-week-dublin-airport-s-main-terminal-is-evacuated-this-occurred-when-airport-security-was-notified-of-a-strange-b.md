@@ -1,6 +1,6 @@
 ### [2006-07-7](/news/2006/07/7/index.md)
 
-#  For the second time this week, Dublin Airport's main terminal is evacuated. This occurred when airport security was notified of a strange bag in the Arrivals Area of the airport terminal shortly before 08:00 (IST). A controlled explosion of the bag was carried out by the Army. The airport reopened just over two hours later, though 60 flights and 12,000 passengers were affected. ([http://www.rte.ie/news/2006/0707/airport.html?rss RTE News])
+#  For the second time this week, Dublin Airport's main terminal is evacuated. This occurred when airport security was notified of a strange bag in the Arrivals Area of the airport terminal shortly before 08:00 (IST). A controlled explosion of the bag was carried out by the Army. The airport reopened just over two hours later, though 60 flights and 12,000 passengers were affected. ([http:--www.rte.ie-news-2006-0707-airport.html?rss RTE News])
 
 
 

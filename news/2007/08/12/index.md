@@ -1,6 +1,6 @@
 ## [2007-08-12](/news/2007/08/12/index.md)
 
-### [ Bulk-carrier M/V "New Flame" collides with an oil tanker and runs aground near the southernmost tip of Gibraltar. ](/news/2007/08/12/bulk-carrier-m-v-new-flame-collides-with-an-oil-tanker-and-runs-aground-near-the-southernmost-tip-of-gibraltar.md)
+### [ Bulk-carrier M-V "New Flame" collides with an oil tanker and runs aground near the southernmost tip of Gibraltar. ](/news/2007/08/12/bulk-carrier-m-v-new-flame-collides-with-an-oil-tanker-and-runs-aground-near-the-southernmost-tip-of-gibraltar.md)
 _Context: Gibraltar, M/V ''New Flame'', bulk carrier, oil tanker_
 
 ### [ African Union nations pledge up to 12,000 troops for the joint United Nations-African Union mission to Darfur. ](/news/2007/08/12/african-union-nations-pledge-up-to-12-000-troops-for-the-joint-united-nations-african-union-mission-to-darfur.md)

@@ -1,6 +1,6 @@
 ## [2016-07-24](/news/2016/07/24/index.md)
 
-### [At least 21 are killed and more than 35 people injured in a suicide attack at one of the residential entrances to district Kadhimiyah, in northern Baghdad, Iraq. ISIL claims responsibility, as published in its official media. [http://edition.cnn.com/2016/07/24/middleeast/iraq-baghdad-suicide-bombing-isis/ (CNN) ] [http://www.iraqinews.com/iraq-war/isis-claims-responsibility-for-kadhimiya-bombing/ (Iraqi News) ]](/news/2016/07/24/at-least-21-are-killed-and-more-than-35-people-injured-in-a-suicide-attack-at-one-of-the-residential-entrances-to-district-kadhimiyah-in-no.md)
+### [At least 21 are killed and more than 35 people injured in a suicide attack at one of the residential entrances to district Kadhimiyah, in northern Baghdad, Iraq. ISIL claims responsibility, as published in its official media. [http:--edition.cnn.com-2016-07-24-middleeast-iraq-baghdad-suicide-bombing-isis- (CNN) ] [http:--www.iraqinews.com-iraq-war-isis-claims-responsibility-for-kadhimiya-bombing- (Iraqi News) ]](/news/2016/07/24/at-least-21-are-killed-and-more-than-35-people-injured-in-a-suicide-attack-at-one-of-the-residential-entrances-to-district-kadhimiyah-in-no.md)
 _Context: Baghdad, Iraqi Civil War, Islamic State, Kadhimiyah, Military intervention against ISIL_
 
 ### [Fifteen people are injured following a suicide bombing in Ansbach, Germany. ](/news/2016/07/24/fifteen-people-are-injured-following-a-suicide-bombing-in-ansbach-germany.md)

@@ -1,6 +1,6 @@
 ## [2011-04-18](/news/2011/04/18/index.md)
 
-### [A 16-year-old Israeli boy injured by a Palestinian missile attack on his school bus on April 7 dies. [http://www.bbc.co.uk/news/world-middle-east-13115127 ("BBC")] ("Wikinews")](/news/2011/04/18/a-16-year-old-israeli-boy-injured-by-a-palestinian-missile-attack-on-his-school-bus-on-april-7-dies-http-www-bbc-co-uk-news-world-middle.md)
+### [A 16-year-old Israeli boy injured by a Palestinian missile attack on his school bus on April 7 dies. [http:--www.bbc.co.uk-news-world-middle-east-13115127 ("BBC")] ("Wikinews")](/news/2011/04/18/a-16-year-old-israeli-boy-injured-by-a-palestinian-missile-attack-on-his-school-bus-on-april-7-dies-http-www-bbc-co-uk-news-world-middle.md)
 _Context: (''Wikinews''), Israel, Palestinian, school bus_
 
 ### [Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. ](/news/2011/04/18/gaddafi-s-forces-kill-over-100-civilians-in-grad-rocket-attacks-in-the-nafusa-mountains-of-libya.md)

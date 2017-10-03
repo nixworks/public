@@ -18,7 +18,7 @@ _Context: Amedeo Modigliani, Christie's, Nu couche_
 ### [The German airline Lufthansa suspends 929 flights leaving 113,000 passengers stranded as a result of a cabin crew strike. ](/news/2015/11/9/the-german-airline-lufthansa-suspends-929-flights-leaving-113-000-passengers-stranded-as-a-result-of-a-cabin-crew-strike.md)
 Germany&#x27;s biggest airline Lufthansa scrapped 929 flights on Monday, grounding 113,000 passengers as cabin crew expanded their strike, and the walkout was set to continue despite a new offer from the company. The action, in its third day, is expected to last a week, becoming the longest in Lufth...
 
-### [Cyclone Megh had sustained winds of 204 km/h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-socotra-accordi.md)
+### [Cyclone Megh had sustained winds of 204 km-h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-socotra-accordi.md)
 Cyclone Megh slammed into the Yemeni island of Socotra with winds of 127 mph on Sunday.
 
 ### [Slovenia tightens controls over its Schengen border with Croatia due to concerns of an influx of migrants. ](/news/2015/11/9/slovenia-tightens-controls-over-its-schengen-border-with-croatia-due-to-concerns-of-an-influx-of-migrants.md)
@@ -40,7 +40,7 @@ The UVA frat that was a subject of a sensational article in Rolling Stone about 
 The 2-to-1 ruling from the New Orleans court sets stage for possible Supreme Court battle.
 
 ### [The Catalan Parliament passes a resolution calling for the Catalonian region to secede from Spain. Spanish prime minister Mariano Rajoy says his government will seek to invalidate the motion with an appeal to the Constitutional Court in the coming days. ](/news/2015/11/9/the-catalan-parliament-passes-a-resolution-calling-for-the-catalonian-region-to-secede-from-spain-spanish-prime-minister-mariano-rajoy-says.md)
-_Context: Catalonia, Constitutional Court of Spain, Mariano Rajoy, Parliament of Catalonia, Prime Minister, Spanish, secede_
+_Context: Catalonia, Constitutional Court of Spain, Mariano Rajoy, Parliament of Catalonia, Prime Minister, Spain, secede_
 
 ### [Myanmar's ruling Union Solidarity and Development Party (USDP) concedes defeat in Sunday's first free nationwide election in a quarter of a century. Aung San Suu Kyi's National League for Democracy (NLD), which has won 49 of the first 54 declared seats for the 330-seat lower house, appears headed for a landslide victory that would ensure it forms the next government. ](/news/2015/11/9/myanmar-s-ruling-union-solidarity-and-development-party-usdp-concedes-defeat-in-sunday-s-first-free-nationwide-election-in-a-quarter-of-a.md)
 _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for Democracy, Union Solidarity and Development Party_

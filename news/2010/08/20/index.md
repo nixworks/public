@@ -6,7 +6,7 @@ _Context: Hans Morten Hansen, Norwegian, stand-up comedian_
 ### [A spectator commits suicide during a concert by The Swell Season in the U.S. state of California. ](/news/2010/08/20/a-spectator-commits-suicide-during-a-concert-by-the-swell-season-in-the-u-s-state-of-california.md)
 Swell Season, the Oscar-winning Irish act fronted by Glen Hansard, have said they are &quot;shocked and saddened&quot; by the news that&hellip;
 
-### [Charles Haddon, singer of the British synthpop band Ou Est Le Swimming Pool, commits suicide after a show at the Pukkelpop festival in Belgium. [http://www.nme.com/news/ou-est-le-swimming-pool/52576 "(NME)"]](/news/2010/08/20/charles-haddon-singer-of-the-british-synthpop-band-ou-est-le-swimming-pool-commits-suicide-after-a-show-at-the-pukkelpop-festival-in-belgi.md)
+### [Charles Haddon, singer of the British synthpop band Ou Est Le Swimming Pool, commits suicide after a show at the Pukkelpop festival in Belgium. [http:--www.nme.com-news-ou-est-le-swimming-pool-52576 "(NME)"]](/news/2010/08/20/charles-haddon-singer-of-the-british-synthpop-band-ou-est-le-swimming-pool-commits-suicide-after-a-show-at-the-pukkelpop-festival-in-belgi.md)
 _Context: Belgium, Ou Est Le Swimming Pool, Pukkelpop, United Kingdom, synthpop_
 
 ### [Novelist A. S. Byatt and critic John Carey win the James Tait Black Memorial Prizes, Britain's oldest literary awards. ](/news/2010/08/20/novelist-a-s-byatt-and-critic-john-carey-win-the-james-tait-black-memorial-prizes-britain-s-oldest-literary-awards.md)
@@ -55,7 +55,7 @@ _Context: Canada Post, Gaza, Israel Post_
 _Context: Mahmoud Ahmadinejad, President, United Nations Security Council, nuclear reactor, uranium, uranium enrichment_
 
 ### [Hillary Clinton, the United States Secretary of State, states that the United States "categorically disagrees" with the decision of the Scottish Government to release on compassionate grounds Abdelbaset al-Megrahi, the man convicted of bombing Pan Am Flight 103. ](/news/2010/08/20/hillary-clinton-the-united-states-secretary-of-state-states-that-the-united-states-categorically-disagrees-with-the-decision-of-the-scot.md)
-_Context: Abdelbaset al-Megrahi, Hillary Clinton, Lockerbie bombing, Scottish Government, U.S., United States Secretary of State_
+_Context: Abdelbaset al-Megrahi, Americans, Hillary Clinton, Lockerbie bombing, Scottish Government, United States Secretary of State_
 
 ### [6 police officers in Mexico are arrested and accused of participating in the kidnap and murder of Mayor Edelmiro Cavazos. ](/news/2010/08/20/6-police-officers-in-mexico-are-arrested-and-accused-of-participating-in-the-kidnap-and-murder-of-mayor-edelmiro-cavazos.md)
 Prosecutors have arrested six police officers they say participated in the kidnap and murder of a mayor as part of a drug war.
@@ -100,7 +100,7 @@ Thousands show support for Bakiyev-appointed official amid rumours of his dismis
 The Indian cabinet clears a proposal to raise the salaries of members of parliament by more than three-fold.
 
 ### [The Pentagon vows to prevent "internal threats" in the United States. ](/news/2010/08/20/the-pentagon-vows-to-prevent-internal-threats-in-the-united-states.md)
-_Context: U.S., United States military_
+_Context: Americans, United States military_
 
 ### [More than half of politicians in Benin call for impeachment proceedings against President Boni Yayi over his involvement in a Ponzi scheme. ](/news/2010/08/20/more-than-half-of-politicians-in-benin-call-for-impeachment-proceedings-against-president-boni-yayi-over-his-involvement-in-a-ponzi-scheme.md)
 _Context: Beninese, Boni Yayi, Ponzi scheme, impeach_
@@ -117,13 +117,13 @@ _Context: recent election_
 ### [The world's first solar-diesel power station opens in Marble Bar, Western Australia. ](/news/2010/08/20/the-world-s-first-solar-diesel-power-station-opens-in-marble-bar-western-australia.md)
 _Context: Marble Bar, Solar-powered, Western Australia, diesel fuel, power station_
 
-### [Scientists publish a report in the "Journal of Evolutionary Biology" about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http://www.bbc.co.uk/news/science-environment-11023530 (BBC)] 10.1111/j.1420-9101.2010.02074.x. Evol. Biol.")](/news/2010/08/20/scientists-publish-a-report-in-the-journal-of-evolutionary-biology-about-a-method-of-predicting-radioactive-contamination-damage-on-specie.md)
+### [Scientists publish a report in the "Journal of Evolutionary Biology" about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http:--www.bbc.co.uk-news-science-environment-11023530 (BBC)] 10.1111-j.1420-9101.2010.02074.x. Evol. Biol.")](/news/2010/08/20/scientists-publish-a-report-in-the-journal-of-evolutionary-biology-about-a-method-of-predicting-radioactive-contamination-damage-on-specie.md)
 _Context: Chernobyl, DNA mutation, Journal of Evolutionary Biology, mitochondrial DNA, species_
 
-### [A possible new approach for treating mood disorders, such as depression, suggested in study of ketamine activity with the nervous system, more specifically mTOR-dependent synapse formation. [http://www.telegraph.co.uk/health/healthnews/7953967/Ketamine-is-magic-drug-for-depression.html ("The Daily Telegraph")] 10.1126/science.1190287 ("Science")](/news/2010/08/20/a-possible-new-approach-for-treating-mood-disorders-such-as-depression-suggested-in-study-of-ketamine-activity-with-the-nervous-system-mo.md)
+### [A possible new approach for treating mood disorders, such as depression, suggested in study of ketamine activity with the nervous system, more specifically mTOR-dependent synapse formation. [http:--www.telegraph.co.uk-health-healthnews-7953967-Ketamine-is-magic-drug-for-depression.html ("The Daily Telegraph")] 10.1126-science.1190287 ("Science")](/news/2010/08/20/a-possible-new-approach-for-treating-mood-disorders-such-as-depression-suggested-in-study-of-ketamine-activity-with-the-nervous-system-mo.md)
 _Context: ketamine, mTOR, nervous system, synapse_
 
-### [A study links the risk of Attention-deficit hyperactivity disorder to pesticide exposure before birth. [http://today.msnbc.msn.com/id/38763223/ns/health-kids_and_parenting/ (MSNBC)] 10.1289/ehp.1002056 ("Env. Health Persp.")](/news/2010/08/20/a-study-links-the-risk-of-attention-deficit-hyperactivity-disorder-to-pesticide-exposure-before-birth-http-today-msnbc-msn-com-id-387632.md)
+### [A study links the risk of Attention-deficit hyperactivity disorder to pesticide exposure before birth. [http:--today.msnbc.msn.com-id-38763223-ns-health-kids_and_parenting- (MSNBC)] 10.1289-ehp.1002056 ("Env. Health Persp.")](/news/2010/08/20/a-study-links-the-risk-of-attention-deficit-hyperactivity-disorder-to-pesticide-exposure-before-birth-http-today-msnbc-msn-com-id-387632.md)
 _Context: Attention-deficit hyperactivity disorder, pesticides_
 
 ## [Previous Day...](/news/2010/08/19/index.md)

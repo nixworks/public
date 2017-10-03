@@ -10,7 +10,7 @@ At least 38 people are reported to have been killed in an air strike on a weddin
 _Context: Bangladesh, Dhaka, Islamic State, Italian_
 
 ### [Pope Francis returns to Rome after finishing his trip to Cuba and the United States. ](/news/2015/09/28/pope-francis-returns-to-rome-after-finishing-his-trip-to-cuba-and-the-united-states.md)
-_Context: Cuba, Pope Francis, Pope Francis%27 visit to the United States, Rome, U.S._
+_Context: Americans, Cuba, Pope Francis, Pope Francis%27 visit to the United States, Rome_
 
 ### [Royal Dutch Shell halts its drilling program for oil and gas off the coast of Alaska citing high costs and a challenging regulatory environment. ](/news/2015/09/28/royal-dutch-shell-halts-its-drilling-program-for-oil-and-gas-off-the-coast-of-alaska-citing-high-costs-and-a-challenging-regulatory-environm.md)
 Royal Dutch Shell Plc will halt exploration in the U.S. Arctic after $7 billion of spending ended with a well off Alaska that failed to find any meaningful quantities of oil or natural gas.

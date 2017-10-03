@@ -24,7 +24,7 @@ _Context: Kim Hwang-sik, Prime Minister, South Korea_
 ### [At least twenty coal miners are killed and seventeen are missing following two accidents in the Ukraine. ](/news/2011/07/29/at-least-twenty-coal-miners-are-killed-and-seventeen-are-missing-following-two-accidents-in-the-ukraine.md)
 _Context: Ukraine, coal mine, two accidents_
 
-### [South Sudan joins the African Union as its 54<sup>th</sup> member. ](/news/2011/07/29/south-sudan-joins-the-african-union-as-its-54th-member.md)
+### [South Sudan joins the African Union as its 54 th member. ](/news/2011/07/29/south-sudan-joins-the-african-union-as-its-54-th-member.md)
 The African Union (AU) has admitted South Sudan as its 54th member, marking another recognition for the world’s newest nation. The African Union said it received the requisite number of written commun
 
 ### [North Korea threatens to dispose of South Korean assets at the jointly-run Mount Kumgang resort. ](/news/2011/07/29/north-korea-threatens-to-dispose-of-south-korean-assets-at-the-jointly-run-mount-kumgang-resort.md)

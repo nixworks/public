@@ -18,7 +18,7 @@ USA TODAY delivers current local and national news, sports, entertainment, finan
 ### [ Floods force the evacuations of Kempsey and Grafton, New South Wales, Australia. ](/news/2009/05/23/floods-force-the-evacuations-of-kempsey-and-grafton-new-south-wales-australia.md)
 _Context: Australia, Grafton, Kempsey, New South Wales, evacuation centers, flood_
 
-### [ Madagascar's political parties agree to establish a provisional government and a truth/reconciliation commission. ](/news/2009/05/23/madagascar-s-political-parties-agree-to-establish-a-provisional-government-and-a-truth-reconciliation-commission.md)
+### [ Madagascar's political parties agree to establish a provisional government and a truth-reconciliation commission. ](/news/2009/05/23/madagascar-s-political-parties-agree-to-establish-a-provisional-government-and-a-truth-reconciliation-commission.md)
 _Context: Madagascar, political crisis, political parties, transitional government, truth/reconciliation commission_
 
 ### [ A car bomb kills at least six people and injures 70 others in Peshawar, Pakistan. ](/news/2009/05/23/a-car-bomb-kills-at-least-six-people-and-injures-70-others-in-peshawar-pakistan.md)

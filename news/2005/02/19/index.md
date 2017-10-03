@@ -9,7 +9,7 @@ _Context: Haiti, Port-au-Prince, prison_
 ### [ A massive demonstration in Rome asks for the release of an Italian journalist abducted in Iraq. ](/news/2005/02/19/a-massive-demonstration-in-rome-asks-for-the-release-of-an-italian-journalist-abducted-in-iraq.md)
 _Context: Iraq, Italy, Rome_
 
-### [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. <small>""'[Newslink missing]""'</small>](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.md)
+### [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. ""'[Newslink missing]""' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.md)
 _Context: 2004 Indian Ocean earthquake, Bill Clinton, George H. W. Bush, Thailand, U.S. President_
 
 ### [ An earthquake, registering 6.9 on the Richter scale, strikes South East Sulawesi, Indonesia at 00:04 UTC. ](/news/2005/02/19/an-earthquake-registering-6-9-on-the-richter-scale-strikes-south-east-sulawesi-indonesia-at-00-04-utc.md)

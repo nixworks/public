@@ -42,7 +42,7 @@ _Context: United Nations, World Toilet Day, sanitation, toilet facilities_
 ### [The U.S. clears genetically-modified Atlantic salmon, made by Massachusetts-based AquaBounty Technologies, for human consumption. ](/news/2015/11/19/the-u-s-clears-genetically-modified-atlantic-salmon-made-by-massachusetts-based-aquabounty-technologies-for-human-consumption.md)
 U.S. health regulators on Thursday cleared the way for a type of genetically engineered Atlantic salmon to be farmed for human consumption - the first such approval for an animal whose DNA has been scientifically modified.
 
-### [The American Medical Association urges Congress and/or the FDA to ban direct-to-consumer advertising of prescription drugs and medical devices. The AMA says that the ads increase demand for inappropriate, expensive treatments even if cheaper ones have the same potentials. ](/news/2015/11/19/the-american-medical-association-urges-congress-and-or-the-fda-to-ban-direct-to-consumer-advertising-of-prescription-drugs-and-medical-devic.md)
+### [The American Medical Association urges Congress and-or the FDA to ban direct-to-consumer advertising of prescription drugs and medical devices. The AMA says that the ads increase demand for inappropriate, expensive treatments even if cheaper ones have the same potentials. ](/news/2015/11/19/the-american-medical-association-urges-congress-and-or-the-fda-to-ban-direct-to-consumer-advertising-of-prescription-drugs-and-medical-devic.md)
 Extensive advertisements of direct-to-consumer prescription drugs and medical devices should be banned because patients are now driven to opt for inappropriate, expensive treatments even if cheaper ones have the same potentials.
 
 ### [Asia-Pacific leaders, in the Philippines for the 2015 Asia-Pacific Economic Cooperation (APEC) meeting, which has been overshadowed by the concurrent Paris attacks, call on governments to urgently increase cooperation in the fight against terrorism. ](/news/2015/11/19/asia-pacific-leaders-in-the-philippines-for-the-2015-asia-pacific-economic-cooperation-apec-meeting-which-has-been-overshadowed-by-the-c.md)
@@ -76,7 +76,7 @@ A Paris rally to demand strong action on climate change has been cancelled due t
 Democratic Unionist leader Peter Robinson has announced in a newspaper his intention to step down as Northern Ireland&amp;#39;s First Minister. Mr Robinson&amp;#39;s article in the Belfast Telegraph, written ahead of his party&amp;#39;s conference, confirmed he will not contest next May&amp;#39;s As...
 
 ### [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md)
-_Context: Barack Obama, Iraq, Syria, U.S., United States House of Representatives, United States Senate, veto_
+_Context: Americans, Barack Obama, Iraq, Syria, United States House of Representatives, United States Senate, veto_
 
 ## [Previous Day...](/news/2015/11/18/index.md)
 

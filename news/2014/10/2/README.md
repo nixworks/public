@@ -7,7 +7,7 @@ _Context: 2014 Gorni Lom explosions_
 _Context: Bulgaria, Gorni Lom_
 
 ### [The United States partially lifts a long-time ban on lethal weapon sales to Vietnam to help it improve maritime security, a historic move that comes nearly 40 years after the end of the Vietnam War. ](/news/2014/10/2/the-united-states-partially-lifts-a-long-time-ban-on-lethal-weapon-sales-to-vietnam-to-help-it-improve-maritime-security-a-historic-move-th.md)
-_Context: U.S., Vietnam, Vietnam War_
+_Context: Americans, Vietnam, Vietnam War_
 
 ## [Previous Day...](/news/2014/10/1/index.md)
 

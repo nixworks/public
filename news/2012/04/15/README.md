@@ -12,7 +12,7 @@ Nearly 400 prisoners including militants escaped early Sunday from a jail in nor
 ### [Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md)
 _Context: Heglig, South Sudan, Sudan_
 
-### [Events and ceremonies are held around the world marking the 100th anniversary of the sinking of the RMS "Titanic". [http://www.guardian.co.uk/uk/2012/apr/15/titanic-memorial-service-balmoral?newsfeed=true "(The Observer)"]](/news/2012/04/15/events-and-ceremonies-are-held-around-the-world-marking-the-100th-anniversary-of-the-sinking-of-the-rms-titanic-http-www-guardian-co-u.md)
+### [Events and ceremonies are held around the world marking the 100th anniversary of the sinking of the RMS "Titanic". [http:--www.guardian.co.uk-uk-2012-apr-15-titanic-memorial-service-balmoral?newsfeed=true "(The Observer)"]](/news/2012/04/15/events-and-ceremonies-are-held-around-the-world-marking-the-100th-anniversary-of-the-sinking-of-the-rms-titanic-http-www-guardian-co-u.md)
 _Context: sinking of the RMS ''Titanic''_
 
 ### [Russian Orthodox patriarch Kirill says the church is stronger than its critics after a series of scandals. ](/news/2012/04/15/russian-orthodox-patriarch-kirill-says-the-church-is-stronger-than-its-critics-after-a-series-of-scandals.md)

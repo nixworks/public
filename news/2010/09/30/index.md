@@ -16,7 +16,7 @@ A state of emergency is declared in Ecuador after President Rafael Correa accuse
 _Context: Afghanistan, NATO, Pakistan, Sindh province, convoy, fuel tanker_
 
 ### [US actor Tony Curtis, who appeared in more than 100 films including "Some Like It Hot" and "The Defiant Ones", dies in Henderson, Nevada. ](/news/2010/09/30/us-actor-tony-curtis-who-appeared-in-more-than-100-films-including-some-like-it-hot-and-the-defiant-ones-dies-in-henderson-nevada.md)
-_Context: Henderson, Nevada, Some Like It Hot, The Defiant Ones, Tony Curtis, U.S._
+_Context: Americans, Henderson, Nevada, Some Like It Hot, The Defiant Ones, Tony Curtis_
 
 ### [The International Monetary Fund calls for tighter regulation of credit rating agencies. ](/news/2010/09/30/the-international-monetary-fund-calls-for-tighter-regulation-of-credit-rating-agencies.md)
 Credit rating agencies should improve their procedures, says the International Monetary Fund.
@@ -28,10 +28,10 @@ _Context: Indonesia, Papua, earthquake_
 _Context: Dhaulagiri, Himalayas, Japan, Nepal, mountain climbers_
 
 ### [Heavy rain from former Tropical Storm Nicole causes flooding the US states of North Carolina and Virginia and delays in airline flights on the east coast. ](/news/2010/09/30/heavy-rain-from-former-tropical-storm-nicole-causes-flooding-the-us-states-of-north-carolina-and-virginia-and-delays-in-airline-flights-on-t.md)
-_Context: East Coast of the United States, North Carolina, Tropical Storm Nicole, U.S., Virginia_
+_Context: Americans, East Coast of the United States, North Carolina, Tropical Storm Nicole, Virginia_
 
 ### [The United States imposes sanctions on a Swiss-based Iranian oil company, the Naftiran Inter-trade Company. ](/news/2010/09/30/the-united-states-imposes-sanctions-on-a-swiss-based-iranian-oil-company-the-naftiran-inter-trade-company.md)
-_Context: Iran, Naftiran Inter-trade Company, U.S._
+_Context: Americans, Iran, Naftiran Inter-trade Company_
 
 ### [The first inter-Korean military talks between North and South Korea in two years end without progress. ](/news/2010/09/30/the-first-inter-korean-military-talks-between-north-and-south-korea-in-two-years-end-without-progress.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

@@ -15,7 +15,7 @@ _Context: Emperor of Exmoor, Great Britain, red deer_
 ### [Crisis talks between the New Zealand Government and Warner Bros. to prevent "The Hobbit" film project from moving its production to another country have ended inconclusively. ](/news/2010/10/26/crisis-talks-between-the-new-zealand-government-and-warner-bros-to-prevent-the-hobbit-film-project-from-moving-its-production-to-another.md)
 _Context: ''The Hobbit'' film project, New Zealand Government, Warner Bros._
 
-### [The Shanghai-Hangzhou High-Speed Railway, with a top speed of 355 km/h begins operation. ](/news/2010/10/26/the-shanghaiahangzhou-high-speed-railway-with-a-top-speed-of-355-km-h-begins-operation.md)
+### [The Shanghai-Hangzhou High-Speed Railway, with a top speed of 355 km-h begins operation. ](/news/2010/10/26/the-shanghaiahangzhou-high-speed-railway-with-a-top-speed-of-355-km-h-begins-operation.md)
 _Context: Shanghai-Hangzhou High-Speed Railway_
 
 ### [The water level of the Three Gorges Dam, the world's largest water control and utilization project, reaches its designed full capacity mark. ](/news/2010/10/26/the-water-level-of-the-three-gorges-dam-the-world-s-largest-water-control-and-utilization-project-reaches-its-designed-full-capacity-mark.md)
@@ -34,7 +34,7 @@ _Context: BMW, fuel pump_
 George Osborne says better-than-expected economic figures show the recovery is &quot;steady&quot;, but Labour warns that spending cuts will damage performance.
 
 ### [All 3 dead in US small plane crash in southwest Washington state, about 10 miles (16 km) northeast of Morton. ](/news/2010/10/26/all-3-dead-in-us-small-plane-crash-in-southwest-washington-state-about-10-miles-16-km-northeast-of-morton.md)
-_Context: Morton, U.S., Washington_
+_Context: Americans, Morton, Washington_
 
 ### [After receiving orders from President Susilo Bambang Yudhoyono, who is now on his visit program to China and Vietnam, Indonesian Public Welfare Minister Agung Laksono declares an emergency response. ](/news/2010/10/26/after-receiving-orders-from-president-susilo-bambang-yudhoyono-who-is-now-on-his-visit-program-to-china-and-vietnam-indonesian-public-welf.md)
 A tsunami that pounded remote islands in western Indonesia following an earthquake off the coast of Sumatra killed more than 100 people, officials said on Tuesday, and hundreds more were missing.

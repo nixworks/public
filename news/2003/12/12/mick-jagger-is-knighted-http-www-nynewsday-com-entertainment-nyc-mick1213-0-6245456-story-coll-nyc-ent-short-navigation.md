@@ -1,6 +1,6 @@
 ### [2003-12-12](/news/2003/12/12/index.md)
 
-# Mick Jagger is knighted. [http://www.nynewsday.com/entertainment/nyc-mick1213,0,6245456.story?coll=nyc-ent-short-navigation]
+# Mick Jagger is knighted. [http:--www.nynewsday.com-entertainment-nyc-mick1213,0,6245456.story?coll=nyc-ent-short-navigation]
 
 
 

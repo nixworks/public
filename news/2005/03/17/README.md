@@ -6,7 +6,7 @@ _Context: Horatiu Nastase, Relativistic Heavy Ion Collider, Upton, New York, bla
 ### [ The People's Republic of China frees Uyghur dissident and businesswoman Rebiya Kadeer on medical parole. ](/news/2005/03/17/the-people-s-republic-of-china-frees-uyghur-dissident-and-businesswoman-rebiya-kadeer-on-medical-parole.md)
 _Context: China, Rebiya Kadeer, Uyghur, medical parole_
 
-### [ U.S. Congressman Rob Portman (R-Ohio) was nominated by President George W. Bush to be the United States Trade Representative, replacing Robert Zoellick. Portman is subject to Senate confirmation. (Reuters) [http://edition.cnn.com/2005/BUSINESS/03/17/us.trade.rep.reut/]](/news/2005/03/17/u-s-congressman-rob-portman-r-ohio-was-nominated-by-president-george-w-bush-to-be-the-united-states-trade-representative-replacing-rob.md)
+### [ U.S. Congressman Rob Portman (R-Ohio) was nominated by President George W. Bush to be the United States Trade Representative, replacing Robert Zoellick. Portman is subject to Senate confirmation. (Reuters) [http:--edition.cnn.com-2005-BUSINESS-03-17-us.trade.rep.reut-]](/news/2005/03/17/u-s-congressman-rob-portman-r-ohio-was-nominated-by-president-george-w-bush-to-be-the-united-states-trade-representative-replacing-rob.md)
 _Context: George W. Bush, Ohio, Republican, Reuters, Rob Portman, Robert Zoellick, United States Senate, United States Trade Representative_
 
 ### [ Transparency International (TI), a nonprofit which works against corruption, warns about US companies overcharging for the rebuilding of Iraq. A TI study showed that a multi-million-dollar deal was awarded to a US company only for it to sub-contract the work to an Iraqi firm for a fraction of the cost. ](/news/2005/03/17/transparency-international-ti-a-nonprofit-which-works-against-corruption-warns-about-us-companies-overcharging-for-the-rebuilding-of-ir.md)
@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: London, Sumitomo Mitsui Bank_
 
 ### [ The only remaining statue in Madrid of the Spanish dictator Francisco Franco is removed on government orders. ](/news/2005/03/17/the-only-remaining-statue-in-madrid-of-the-spanish-dictator-francisco-franco-is-removed-on-government-orders.md)
-_Context: Franco, Madrid, Spanish, dictator, statue_
+_Context: Franco, Madrid, Spain, dictator, statue_
 
 ### [ In Italy, the staff of Milan's La Scala opera vote for the resignation of the famous conductor Riccardo Muti. ](/news/2005/03/17/in-italy-the-staff-of-milan-s-la-scala-opera-vote-for-the-resignation-of-the-famous-conductor-riccardo-muti.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

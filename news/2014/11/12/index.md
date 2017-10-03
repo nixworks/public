@@ -27,7 +27,7 @@ The two countries together account for about 45 percent of the world&rsquo;s gre
 ### [Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. ](/news/2014/11/12/protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.md)
 Demonstrators attack the Guerrero state congress building in south-west Mexico, in new protests over the case of 43 missing students.
 
-### [The European Space Agency's "Rosetta" lands the "Philae" probe on the comet 67P/Churyumov-Gerasimenko. ](/news/2014/11/12/the-european-space-agency-s-rosetta-lands-the-philae-probe-on-the-comet-67p-churyumov-gerasimenko.md)
+### [The European Space Agency's "Rosetta" lands the "Philae" probe on the comet 67P-Churyumov-Gerasimenko. ](/news/2014/11/12/the-european-space-agency-s-rosetta-lands-the-philae-probe-on-the-comet-67p-churyumov-gerasimenko.md)
 Even before the Philae landing probe approaches the surface of Comet 67P/Churyumov-Gerasimenko today, scientists know the space rock is not what they imagined when the mission launched in 2004. Data collected by the Rosetta orbiter shows that the comet is warmer and shaped differently than expected,...
 
 ## [Previous Day...](/news/2014/11/11/index.md)

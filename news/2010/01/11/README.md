@@ -18,13 +18,13 @@ _Context: Council of Europe, Wolfgang Wodarg, flu pandemic, pharmaceutical compa
 ### [The New York City Health Department seeks national reduction of salt in food. ](/news/2010/01/11/the-new-york-city-health-department-seeks-national-reduction-of-salt-in-food.md)
 _Context: City Health Department, salt_
 
-### [The United Nations seeks to virtually eliminate mother-to-child transmission of HIV/AIDS in Africa. Michel Sidib visited Sauri in western Kenya, which is a village of the Millennium Villages Project. ](/news/2010/01/11/the-united-nations-seeks-to-virtually-eliminate-mother-to-child-transmission-of-hiv-aids-in-africa-michel-sidibe-visited-sauri-in-western-k.md)
+### [The United Nations seeks to virtually eliminate mother-to-child transmission of HIV-AIDS in Africa. Michel Sidib visited Sauri in western Kenya, which is a village of the Millennium Villages Project. ](/news/2010/01/11/the-united-nations-seeks-to-virtually-eliminate-mother-to-child-transmission-of-hiv-aids-in-africa-michel-sidibe-visited-sauri-in-western-k.md)
 _Context: AIDS, Kenya, Michel Sidib, Millennium Villages Project, Sauri, United Nations_
 
 ### [North Korea proposes a peace treaty, replacing the Korean War armistice. ](/news/2010/01/11/north-korea-proposes-a-peace-treaty-replacing-the-korean-war-armistice.md)
 _Context: Korean War, North Korea_
 
-### [The "'Low Couch diplomatic spat"' between Israel and Turkey. Turkey demands Israeli apology.[http://www.reuters.com/article/idUSTRE60B5T820100112]](/news/2010/01/11/the-low-couch-diplomatic-spat-between-israel-and-turkey-turkey-demands-israeli-apology-http-www-reuters-com-article-idustre60b5t8201.md)
+### [The "'Low Couch diplomatic spat"' between Israel and Turkey. Turkey demands Israeli apology.[http:--www.reuters.com-article-idUSTRE60B5T820100112]](/news/2010/01/11/the-low-couch-diplomatic-spat-between-israel-and-turkey-turkey-demands-israeli-apology-http-www-reuters-com-article-idustre60b5t8201.md)
 ### ["Perry v. Schwarzenegger", a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.md)
 _Context: Perry v. Schwarzenegger, San Francisco, landmark case, reversed its legalization, same-sex marriage_
 

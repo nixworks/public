@@ -6,7 +6,7 @@ A monitoring group has said that at least 60,000 people have died in Syrian gove
 ### [ Rebels ambush and kill six Indian paramilitary soldiers in the state of Manipur, near the northeastern border with Myanmar. ](/news/2016/05/22/rebels-ambush-and-kill-six-indian-paramilitary-soldiers-in-the-state-of-manipur-near-the-northeastern-border-with-myanmar.md)
 A junior commissioned officer (JCO) and five jawans of 29 Assam Rifles were killed in an ambush reportedly by CorCom (Coordination Committee) militants at Hangshi, around 15km from...
 
-### [  Iraqi Prime Minister Haider al-Abadi announces the start of a military operation to recapture Falluja from Islamic State of Iraq and Syria. ](/news/2016/05/22/iraqi-prime-minister-haider-al-abadi-announces-the-start-of-a-military-operation-to-recapture-falluja-from-islamic-state-of-iraq-and-syria.md)
+### [ Iraqi Prime Minister Haider al-Abadi announces the start of a military operation to recapture Falluja from Islamic State of Iraq and Syria. ](/news/2016/05/22/iraqi-prime-minister-haider-al-abadi-announces-the-start-of-a-military-operation-to-recapture-falluja-from-islamic-state-of-iraq-and-syria.md)
 Fighting is reported in near the Iraqi city of Falluja after Prime Minister al-Abadi announces the start of an operation to retake it from so-called Islamic State.
 
 ### [British film "I, Daniel Blake", directed by Ken Loach, wins the Palme d'Or at the Cannes Film Festival. ](/news/2016/05/22/british-film-i-daniel-blake-directed-by-ken-loach-wins-the-palme-d-or-at-the-cannes-film-festival.md)

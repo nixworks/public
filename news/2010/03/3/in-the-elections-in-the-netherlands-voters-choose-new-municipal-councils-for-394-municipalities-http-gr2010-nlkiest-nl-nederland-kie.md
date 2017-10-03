@@ -1,6 +1,6 @@
 ### [2010-03-3](/news/2010/03/3/index.md)
 
-# In the elections in the Netherlands, voters choose new municipal councils for 394 municipalities. [http://gr2010.nlkiest.nl/ "(Nederland Kiest)"] [http://nos.nl/dossier/133681-nederland-kiest/ "(NOS)"]
+# In the elections in the Netherlands, voters choose new municipal councils for 394 municipalities. [http:--gr2010.nlkiest.nl- "(Nederland Kiest)"] [http:--nos.nl-dossier-133681-nederland-kiest- "(NOS)"]
 
 
 

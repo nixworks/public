@@ -1,6 +1,6 @@
 ### [2012-09-20](/news/2012/09/20/index.md)
 
-# Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km<sup>2</sup>. 
+# Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km 2 . 
 
 
 

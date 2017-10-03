@@ -1,6 +1,6 @@
 ### [2009-12-21](/news/2009/12/21/index.md)
 
-#  Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of 285 km/h. 
+#  Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of 285 km-h. 
 
 Cyclone Laurence has caused significant damage to buildings on Western Australia&#039;s north-west coast.
 

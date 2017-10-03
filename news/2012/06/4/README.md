@@ -21,7 +21,7 @@ The Duke of Edinburgh misses the Diamond Jubilee concert after being taken to ho
 ### [Russian baritone singer Eduard Khil, made famous overseas by the "Trololo" internet meme, dies from complications of a stroke in St. Petersburg. ](/news/2012/06/4/russian-baritone-singer-eduard-khil-made-famous-overseas-by-the-trololo-internet-meme-dies-from-complications-of-a-stroke-in-st-petersb.md)
 _Context: Eduard Khil, St. Petersburg, Trololo, internet meme_
 
-### [Japan's S&P/TOPIX 150 reaches its lowest level since 1983 as global stock markets continue to fall. ](/news/2012/06/4/japan-s-s-p-topix-150-reaches-its-lowest-level-since-1983-as-global-stock-markets-continue-to-fall.md)
+### [Japan's S&P-TOPIX 150 reaches its lowest level since 1983 as global stock markets continue to fall. ](/news/2012/06/4/japan-s-s-p-topix-150-reaches-its-lowest-level-since-1983-as-global-stock-markets-continue-to-fall.md)
 _Context: Japan, S&P/TOPIX 150_
 
 ### [At least 23 people are killed and 60 injured after a bus carrying a wedding party crashes near the Pakistani capital Islamabad. ](/news/2012/06/4/at-least-23-people-are-killed-and-60-injured-after-a-bus-carrying-a-wedding-party-crashes-near-the-pakistani-capital-islamabad.md)

@@ -40,7 +40,7 @@ _Context: Afghanistan, Kabul, Laghman Province, Mihtarlam, Taliban_
 Two U.S. journalists held by North Korea for illegal entry admitted they crossed into the reclusive state, but said North Korean guards arrested them on the Chinese side of the border and dragged them back into the country.
 
 ### [ The death certificate of American pop star and entertainer Michael Jackson is amended to reflect his cause of death as homicide via "injection by another". ](/news/2009/09/2/the-death-certificate-of-american-pop-star-and-entertainer-michael-jackson-is-amended-to-reflect-his-cause-of-death-as-homicide-via-inject.md)
-_Context: Michael Jackson, U.S., death, homicide, injection, pop_
+_Context: Americans, Michael Jackson, death, homicide, injection, pop_
 
 ### [ Ennama Asfari, the co-president of a Committee for the Respect of Freedoms in Western Sahara, is jailed for four months for insulting a policeman. ](/news/2009/09/2/ennama-asfari-the-co-president-of-a-committee-for-the-respect-of-freedoms-in-western-sahara-is-jailed-for-four-months-for-insulting-a-pol.md)
 _Context: Committee for the Respect of Freedoms, Ennama Asfari, Western Sahara_
@@ -49,7 +49,7 @@ _Context: Committee for the Respect of Freedoms, Ennama Asfari, Western Sahara_
 _Context: Burkina Faso, Ouagadougou, Tertius Zongo, prime minister_
 
 ### [ A woman kills a man by jumping on top of him in Barcelona, Spain. ](/news/2009/09/2/a-woman-kills-a-man-by-jumping-on-top-of-him-in-barcelona-spain.md)
-_Context: Barcelona, Spanish_
+_Context: Barcelona, Spain_
 
 ### [ Sixteen Somalis drown after being forced overboard into the Gulf of Aden. ](/news/2009/09/2/sixteen-somalis-drown-after-being-forced-overboard-into-the-gulf-of-aden.md)
 _Context: Gulf of Aden, Somalian_

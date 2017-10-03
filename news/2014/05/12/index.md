@@ -21,7 +21,7 @@ Women across Iran are posting photos of themselves without the hijab to a dedica
 ### [The European Central Bank has watered down standards for an ongoing review of Europe's banks, waiving deadlines and some data requests, according to a Reuters report based on "sources familiar with the process." ](/news/2014/05/12/the-european-central-bank-has-watered-down-standards-for-an-ongoing-review-of-europe-s-banks-waiving-deadlines-and-some-data-requests-acco.md)
 The European Central Bank has quietly made a series of concessions to banks that will make it easier for them to meet the tight deadlines of a landmark review of their businesses, four sources familiar with the process told Reuters.
 
-### [The Dow Jones Industrial Average and S&P 500 hit record highs. [http://time.com/96738/us-stock-market-record-high-monday/ "(TIME)"]](/news/2014/05/12/the-dow-jones-industrial-average-and-s-p-500-hit-record-highs-http-time-com-96738-us-stock-market-record-high-monday-time.md)
+### [The Dow Jones Industrial Average and S&P 500 hit record highs. [http:--time.com-96738-us-stock-market-record-high-monday- "(TIME)"]](/news/2014/05/12/the-dow-jones-industrial-average-and-s-p-500-hit-record-highs-http-time-com-96738-us-stock-market-record-high-monday-time.md)
 _Context: Dow Jones Industrial Average, S&P 500_
 
 ### [The European Court of Human Rights orders Turkey to pay $124 million in compensation for the 1974 Turkish invasion of Cyprus, which established the internationally unrecognized state of Turkish Republic of Northern Cyprus. ](/news/2014/05/12/the-european-court-of-human-rights-orders-turkey-to-pay-124-million-in-compensation-for-the-1974-turkish-invasion-of-cyprus-which-establis.md)

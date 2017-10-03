@@ -26,8 +26,14 @@ Scientists share prize awarded for discoveries of molecular mechanisms controlli
 ### [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (j.m d 406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md)
 _Context: Egypt, Egypt-North Korea relations, North Korea, W, j.m_
 
+### [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public events, meetings, protests. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.md)
+Russian blogger turned opposition figure Aleksey Navalny has been found guilty of repeatedly violating the law by organizing unauthorized public events, meetings or protests. He is now to be placed under administrative arrest for 20 days.
+
 ### [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md)
 _Context: Governor General of Canada, Julie Payette, Justin Trudeau, Politics of Canada, Prime Minister of Canada_
+
+### [Catalonia referendum: 90% voted for independence from Spain. Political clashes ensue as voters were violently get dragged out of precincts as seen on video.](/news/2017/10/2/catalonia-referendum-90-voted-for-independence-from-spain-political-clashes-ensue-as-voters-were-violently-get-dragged-out-of-precincts-a.md)
+_Context: Catalonia, Politics of Spain, Spain_
 
 ---
 

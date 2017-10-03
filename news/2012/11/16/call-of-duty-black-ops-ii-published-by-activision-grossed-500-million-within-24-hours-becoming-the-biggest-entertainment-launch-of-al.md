@@ -1,6 +1,6 @@
 ### [2012-11-16](/news/2012/11/16/index.md)
 
-# "Call of Duty: Black Ops II", published by Activision, grossed $500 million within 24 hours, becoming the biggest entertainment launch of all time. [http://www.telegraph.co.uk/technology/news/9683341/Call-of-duty-Black-Ops-II-sales-hit-500-million-in-first-24-hours.html "(The Telegraph)"]
+# "Call of Duty: Black Ops II", published by Activision, grossed $500 million within 24 hours, becoming the biggest entertainment launch of all time. [http:--www.telegraph.co.uk-technology-news-9683341-Call-of-duty-Black-Ops-II-sales-hit-500-million-in-first-24-hours.html "(The Telegraph)"]
 
 
 

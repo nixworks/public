@@ -12,7 +12,7 @@ _Context: Amnesty International, Human rights_
 ### [ Elections in Suriname: General elections are underway in Suriname. Likely winner could be former dictator and drug smuggler, Desi Bouterse. ](/news/2005/05/25/elections-in-suriname-general-elections-are-underway-in-suriname-likely-winner-could-be-former-dictator-and-drug-smuggler-da-c-si-bouterse.md)
 _Context: Desi Bouterse, Elections in Suriname, Suriname, dictator, drug, smuggling_
 
-### [ The American Family Association, a Christian group, ends its nine-year boycott of the Walt Disney Company but continues to boycott Kmart and Abercrombie & Fitch and the book "One of the Guys" by Robert Clark Young. [http://www.newsday.com/news/nationworld/nation/orl-asecdisney25052505may25,0,822280.story?coll=ny-leadnationalnews-headlines]](/news/2005/05/25/the-american-family-association-a-christian-group-ends-its-nine-year-boycott-of-the-walt-disney-company-but-continues-to-boycott-kmart-an.md)
+### [ The American Family Association, a Christian group, ends its nine-year boycott of the Walt Disney Company but continues to boycott Kmart and Abercrombie & Fitch and the book "One of the Guys" by Robert Clark Young. [http:--www.newsday.com-news-nationworld-nation-orl-asecdisney25052505may25,0,822280.story?coll=ny-leadnationalnews-headlines]](/news/2005/05/25/the-american-family-association-a-christian-group-ends-its-nine-year-boycott-of-the-walt-disney-company-but-continues-to-boycott-kmart-an.md)
 _Context: Abercrombie & Fitch, American Family Association, Christian, Kmart, One of the Guys, Robert Clark Young, Walt Disney Company_
 
 ### [ Voyager 1, the most distant man-made object, has entered the heliosheath and is on the cusp of leaving the Solar System and entering the interstellar medium. ](/news/2005/05/25/voyager-1-the-most-distant-man-made-object-has-entered-the-heliosheath-and-is-on-the-cusp-of-leaving-the-solar-system-and-entering-the-in.md)
@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Chile, Michelle Bachelet, President, Soledad Alvear_
 
 ### [ An ETA car bomb explodes near Madrid, Spain after a warning call. ](/news/2005/05/25/an-eta-car-bomb-explodes-near-madrid-spain-after-a-warning-call.md)
-_Context: ETA, Madrid, Spanish_
+_Context: ETA, Madrid, Spain_
 
 ### [ In Guinea-Bissau, an armed group of men led by former President Kumba Iala briefly occupies the presidential palace. The ousted president claims that he is still in charge. ](/news/2005/05/25/in-guinea-bissau-an-armed-group-of-men-led-by-former-president-kumba-iala-briefly-occupies-the-presidential-palace-the-ousted-president.md)
 _Context: Guinea-Bissau, Kumba Iala, former President, presidential palace_

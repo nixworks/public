@@ -1,6 +1,6 @@
 ### [2009-10-1](/news/2009/10/1/index.md)
 
-#  The Dow Jones loses over 200 points by the closing bell. [http://money.cnn.com/2009/10/01/markets/markets_newyork/index.htm?postversion=2009100116 (CNN) ]
+#  The Dow Jones loses over 200 points by the closing bell. [http:--money.cnn.com-2009-10-01-markets-markets_newyork-index.htm?postversion=2009100116 (CNN) ]
 
 
 

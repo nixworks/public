@@ -6,7 +6,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ Jyllands-Posten Muhammad cartoons controversy: A Finnish editor of the paper "Kaltio", Jussi Vilkuna, was fired after refusing to remove a Muhammed-cartoon on the online version of the paper. This cartoon featured a westerner in the grips of Muhammad (who was masked), and Finnish politicians burning Danish flags. ](/news/2006/02/24/jyllands-posten-muhammad-cartoons-controversy-a-finnish-editor-of-the-paper-kaltio-jussi-vilkuna-was-fired-after-refusing-to-remove-a.md)
 _Context: Finland, Jyllands-Posten Muhammad cartoons controversy, Kaltio_
 
-### [ It is revealed that MI5 (British Intelligence) withheld vital anti-terrorism intelligence just months before the Omagh Bombing in 1998. [http://www.rte.ie/news/2006/0224/omagh.html] ](/news/2006/02/24/it-is-revealed-that-mi5-british-intelligence-withheld-vital-anti-terrorism-intelligence-just-months-before-the-omagh-bombing-in-1998-ht.md)
+### [ It is revealed that MI5 (British Intelligence) withheld vital anti-terrorism intelligence just months before the Omagh Bombing in 1998. [http:--www.rte.ie-news-2006-0224-omagh.html] ](/news/2006/02/24/it-is-revealed-that-mi5-british-intelligence-withheld-vital-anti-terrorism-intelligence-just-months-before-the-omagh-bombing-in-1998-ht.md)
 _Context: MI5, Omagh bombing_
 
 ### [ Actor don knotts dies at 81. RT News](/news/2006/02/24/actor-don-knotts-dies-at-81-rte-news.md)

@@ -12,7 +12,7 @@ _Context: Memphis, Tennessee, police_
 ### [ Serbian Prime Minister Vojislav Kostunica resigns, dissolving a coalition too divided over the loss of Kosovo to carry on governing. ](/news/2008/03/8/serbian-prime-minister-vojislav-koa-tunica-resigns-dissolving-a-coalition-too-divided-over-the-loss-of-kosovo-to-carry-on-governing.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
-### [ Voters in Malta go to the polls for the Maltese general election, 2008. [http://www.iht.com/articles/ap/2008/03/08/europe/EU-POL-Malta-Elections.php (AP via "International Herald Tribune")] hggfd](/news/2008/03/8/voters-in-malta-go-to-the-polls-for-the-maltese-general-election-2008-http-www-iht-com-articles-ap-2008-03-08-europe-eu-pol-malta-elec.md)
+### [ Voters in Malta go to the polls for the Maltese general election, 2008. [http:--www.iht.com-articles-ap-2008-03-08-europe-EU-POL-Malta-Elections.php (AP via "International Herald Tribune")] hggfd](/news/2008/03/8/voters-in-malta-go-to-the-polls-for-the-maltese-general-election-2008-http-www-iht-com-articles-ap-2008-03-08-europe-eu-pol-malta-elec.md)
 _Context: Malta, general election_
 
 ### [ Vietnam bans ownership of pet hamsters. ](/news/2008/03/8/vietnam-bans-ownership-of-pet-hamsters.md)
@@ -22,7 +22,7 @@ _Context: Vietnam, hamster_
 _Context: Barisan National, Malaysia, Malaysian general election, 2008_
 
 ### [ The United States and Iraq commence talks about the future of relationships between the two nations including a longer term US military presence in Iraq. ](/news/2008/03/8/the-united-states-and-iraq-commence-talks-about-the-future-of-relationships-between-the-two-nations-including-a-longer-term-us-military-pre.md)
-_Context: Iraq, U.S._
+_Context: Americans, Iraq_
 
 ## [Previous Day...](/news/2008/03/7/index.md)
 

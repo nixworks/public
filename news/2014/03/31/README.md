@@ -6,7 +6,7 @@ _Context: North Korea, South Korea_
 ### [Explosions kill at least five people and injure several more in the Kenyan capital, Nairobi. ](/news/2014/03/31/explosions-kill-at-least-five-people-and-injure-several-more-in-the-kenyan-capital-nairobi.md)
 _Context: Kenya, Nairobi_
 
-### [The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. [http://www.milenio.com/policia/Kike_Plancarte-templarios-lider_de_los_templarios-Enrique_Plancarte_0_272373335.html "(Milenio)"]](/news/2014/03/31/the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis-http-www-milenio-com-policia-kike_plancarte-te.md)
+### [The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. [http:--www.milenio.com-policia-Kike_Plancarte-templarios-lider_de_los_templarios-Enrique_Plancarte_0_272373335.html "(Milenio)"]](/news/2014/03/31/the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis-http-www-milenio-com-policia-kike_plancarte-te.md)
 _Context: Enrique Plancarte Sols, Knights Templar Cartel, Mexican Drug War, Mexican Navy_
 
 ### ["How I Met Your Mother" airs its final episode. ](/news/2014/03/31/how-i-met-your-mother-airs-its-final-episode.md)

@@ -1,6 +1,6 @@
 ## [2013-07-6](/news/2013/07/6/index.md)
 
-### [English rock band, Muse held a concert in Rome, which is called "Live at Rome Olympic Stadium". The concert become the first ever live concert recorded in 4K resolution. [http://www.muse.mu]](/news/2013/07/6/english-rock-band-muse-held-a-concert-in-rome-which-is-called-live-at-rome-olympic-stadium-the-concert-become-the-first-ever-live-conce.md)
+### [English rock band, Muse held a concert in Rome, which is called "Live at Rome Olympic Stadium". The concert become the first ever live concert recorded in 4K resolution. [http:--www.muse.mu]](/news/2013/07/6/english-rock-band-muse-held-a-concert-in-rome-which-is-called-live-at-rome-olympic-stadium-the-concert-become-the-first-ever-live-conce.md)
 _Context: 4K resolution, Live at Rome Olympic Stadium, Muse, rock music_
 
 ### [Islamic extremists kill 42 people, mainly students, in an attack on the Government Secondary School boarding school in the Nigerian town of Mamudo in Yobe state. ](/news/2013/07/6/islamic-extremists-kill-42-people-mainly-students-in-an-attack-on-the-government-secondary-school-boarding-school-in-the-nigerian-town-of.md)

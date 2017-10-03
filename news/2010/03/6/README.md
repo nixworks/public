@@ -3,8 +3,8 @@
 ### [Michel Martin briefs his fellow EU Foreign Ministers on his visit to Gaza at a meeting in Crdoba, Spain. ](/news/2010/03/6/micheal-martin-briefs-his-fellow-eu-foreign-ministers-on-his-visit-to-gaza-at-a-meeting-in-cordoba-spain.md)
 Minister for Foreign Affairs Micheál Martin has briefed EU Foreign Ministers about the humanitarian situation in Gaza following his visit to the region.
 
-### [Washington, D.C. is to become the first American city to hand out free female condoms in the battle against HIV/AIDS. ](/news/2010/03/6/washington-d-c-is-to-become-the-first-american-city-to-hand-out-free-female-condoms-in-the-battle-against-hiv-aids.md)
-_Context: AIDS, District of Columbia, HIV, U.S., female condom_
+### [Washington, D.C. is to become the first American city to hand out free female condoms in the battle against HIV-AIDS. ](/news/2010/03/6/washington-d-c-is-to-become-the-first-american-city-to-hand-out-free-female-condoms-in-the-battle-against-hiv-aids.md)
+_Context: AIDS, Americans, District of Columbia, HIV, female condom_
 
 ### [There are riots in Brussels. ](/news/2010/03/6/there-are-riots-in-brussels.md)
 _Context: Brussels_
@@ -12,7 +12,7 @@ _Context: Brussels_
 ### [Nigeria's and Al-Merreikh's Endurance Idahor dies during a football match in Sudan with the referee ending the match as a result. ](/news/2010/03/6/nigeria-s-and-al-merreikh-s-endurance-idahor-dies-during-a-football-match-in-sudan-with-the-referee-ending-the-match-as-a-result.md)
 _Context: Al-Merreikh, Endurance Idahor, Nigeria, Sudan_
 
-### [Ingushetian President Yunus-bek Yevkurov confirms the death of Alexander Tikhomirov/Said Buryatsky. ](/news/2010/03/6/ingushetian-president-yunus-bek-yevkurov-confirms-the-death-of-alexander-tikhomirov-said-buryatsky.md)
+### [Ingushetian President Yunus-bek Yevkurov confirms the death of Alexander Tikhomirov-Said Buryatsky. ](/news/2010/03/6/ingushetian-president-yunus-bek-yevkurov-confirms-the-death-of-alexander-tikhomirov-said-buryatsky.md)
 _Context: Alexander Tikhomirov, Ingushetia, Said Buryatsky, Yunus-bek Yevkurov_
 
 ### [Taliban commander Faqir Mohammed is reportedly killed in a drone strike in Pakistan. ](/news/2010/03/6/taliban-commander-faqir-mohammed-is-reportedly-killed-in-a-drone-strike-in-pakistan.md)
@@ -34,7 +34,7 @@ _Context: Mansalay, Mindoro, Philippines, communism_
 With 83,478 votes counted following Saturday&#039;s referendum in Iceland, 78,092 are votes to reject December&#039;s Icesave law and 1,284 (1.5 percent) have v...
 
 ### [US Defense Secretary Robert Gates reviews allegations of misconduct in Afghanistan by the private military company formerly known as Blackwater, Xe Services LLC. ](/news/2010/03/6/us-defense-secretary-robert-gates-reviews-allegations-of-misconduct-in-afghanistan-by-the-private-military-company-formerly-known-as-blackwa.md)
-_Context: Afghanistan, Blackwater Worldwide, Defense Secretary, Robert Gates, U.S., civilian contractor_
+_Context: Afghanistan, Americans, Blackwater Worldwide, Defense Secretary, Robert Gates, civilian contractor_
 
 ## [Previous Day...](/news/2010/03/5/index.md)
 

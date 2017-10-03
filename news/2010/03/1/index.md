@@ -19,7 +19,7 @@ Fearing worse flooding to come, residents flee after waters kill at least eight.
 Georgian official says move does not indicate warming of ties between nations.
 
 ### [Spain requests an explanation from Venezuela concerning allegations that it helped terrorist groups Euskadi Ta Askatasuna and FARC plot to kill Colombian President Alvaro Uribe and other Colombian personalities in Spanish soil. ](/news/2010/03/1/spain-requests-an-explanation-from-venezuela-concerning-allegations-that-it-helped-terrorist-groups-euskadi-ta-askatasuna-and-farc-plot-to-k.md)
-_Context: Alvaro Uribe, Colombia, Colombian President, ETA, FARC, Spanish, Venezuela_
+_Context: Alvaro Uribe, Colombia, Colombian President, ETA, FARC, Spain, Venezuela_
 
 ### [Goalkeeper Kodjovi Obilale, shot in the Togo national football team attack prior to the 2010 Africa Cup of Nations in Angola, is to return to France after emergency surgery in Johannesburg. ](/news/2010/03/1/goalkeeper-kodjovi-obilala-c-shot-in-the-togo-national-football-team-attack-prior-to-the-2010-africa-cup-of-nations-in-angola-is-to-return.md)
 _Context: 2010 Africa Cup of Nations, Angola, France, Johannesburg, Kodjovi Obilale, Togo national football team attack_
@@ -48,7 +48,7 @@ _Context: Afghanistan, Khyber Agency, Pakistan, Sikh_
 ### [Robert Mugabe's indiginisation law begins, with 51 per cent of each company being given to black Zimbabweans. ](/news/2010/03/1/robert-mugabe-s-indiginisation-law-begins-with-51-per-cent-of-each-company-being-given-to-black-zimbabweans.md)
 _Context: Robert Mugabe, Zimbabwe, black_
 
-### [A petition featuring 450,000 international names in opposition of Uganda's Anti-Homosexuality Bill is given to the speaker of parliament, Edward Ssekandi, by an Anglican priest and an HIV/AIDS activist. ](/news/2010/03/1/a-petition-featuring-450-000-international-names-in-opposition-of-uganda-s-anti-homosexuality-bill-is-given-to-the-speaker-of-parliament-ed.md)
+### [A petition featuring 450,000 international names in opposition of Uganda's Anti-Homosexuality Bill is given to the speaker of parliament, Edward Ssekandi, by an Anglican priest and an HIV-AIDS activist. ](/news/2010/03/1/a-petition-featuring-450-000-international-names-in-opposition-of-uganda-s-anti-homosexuality-bill-is-given-to-the-speaker-of-parliament-ed.md)
 _Context: AIDS, Edward Ssekandi, HIV, Uganda, law, petition_
 
 ### [Over 5,000 people, including a pregnant woman and TV weatherman Grant Denyer, strip naked and are photographed at the Sydney Opera House during the Sydney Gay and Lesbian Mardi Gras, double the number which had been expected. ](/news/2010/03/1/over-5-000-people-including-a-pregnant-woman-and-tv-weatherman-grant-denyer-strip-naked-and-are-photographed-at-the-sydney-opera-house-dur.md)

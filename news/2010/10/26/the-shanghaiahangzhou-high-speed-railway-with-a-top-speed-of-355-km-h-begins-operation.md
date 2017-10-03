@@ -1,6 +1,6 @@
 ### [2010-10-26](/news/2010/10/26/index.md)
 
-# The Shanghai-Hangzhou High-Speed Railway, with a top speed of 355 km/h begins operation. 
+# The Shanghai-Hangzhou High-Speed Railway, with a top speed of 355 km-h begins operation. 
 
 
 

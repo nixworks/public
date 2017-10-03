@@ -4,7 +4,7 @@
 The World Health Organisation (WHO), bowing to pressure from meat industry producers and concerned governments, said today it&hellip;
 
 ### [ Chrysler declares bankruptcy under Chapter 11 of the United States Code. ](/news/2009/04/30/chrysler-declares-bankruptcy-under-chapter-11-of-the-united-states-code.md)
-_Context: Chapter 11, Chrysler, U.S., bankruptcy, federal offenses, sustain_
+_Context: Americans, Chapter 11, Chrysler, bankruptcy, federal offenses, sustain_
 
 ### [ Seven people are killed and 17 injured at a Queen's Day parade in Apeldoorn, Netherlands. ](/news/2009/04/30/seven-people-are-killed-and-17-injured-at-a-queen-s-day-parade-in-apeldoorn-netherlands.md)
 _Context: Apeldoorn, Netherlands, Queen's Day, attacked, parade_

@@ -1,7 +1,7 @@
 ## [2017-06-5](/news/2017/06/5/index.md)
 
 ### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
-_Context: Florida, Orlando, U.S., shoots and kills five people_
+_Context: Americans, Florida, Orlando, shoots and kills five people_
 
 ### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant has claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
@@ -30,7 +30,7 @@ _Context: China, Paris Agreement, United States withdrawal from the Paris Agreem
 ### [Indian Space Research Organisation successfully launches communications satellite GSAT-19 through its heaviest rocket Geosynchronous Satellite Launch Vehicle Mark III. ](/news/2017/06/5/indian-space-research-organisation-successfully-launches-communications-satellite-gsat-19-through-its-heaviest-rocket-geosynchronous-satelli.md)
 Indian Space Research Organisation on Monday successfully launched its most powerful rocket, GSLV Mk III nicknamed &lsquo;Fatboy&rsquo;, by firing a high thrust indigenous cryogenic engine in the first developmental flight and placed the country&rsquo;s heaviest satellite in orbit.
 
-### [Another satellite of Jupiter is announced, S/2017 J 1, just 3 days after the announcement of S/2016 J 1. ](/news/2017/06/5/another-satellite-of-jupiter-is-announced-s-2017-j-1-just-3-days-after-the-announcement-of-s-2016-j-1.md)
+### [Another satellite of Jupiter is announced, S-2017 J 1, just 3 days after the announcement of S-2016 J 1. ](/news/2017/06/5/another-satellite-of-jupiter-is-announced-s-2017-j-1-just-3-days-after-the-announcement-of-s-2016-j-1.md)
 _Context: S/2016 J 1, S/2017 J 1, satellite of Jupiter_
 
 ### [Apple announces iOS 11 in WWDC 2017. ](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.md)

@@ -15,7 +15,7 @@ _Context: Kyrgyzstan, Nikolai Tanayev_
 ### [ Bolivian president Carlos Mesa offers his resignation when unrest continues.](/news/2005/06/6/bolivian-president-carlos-mesa-offers-his-resignation-when-unrest-continues.md)
 _Context: Bolivia, Carlos Mesa_
 
-### [ Debian GNU/Linux: Version 3.1, codenamed "sarge", is released. ](/news/2005/06/6/debian-gnu-linux-version-3-1-codenamed-sarge-is-released.md)
+### [ Debian GNU-Linux: Version 3.1, codenamed "sarge", is released. ](/news/2005/06/6/debian-gnu-linux-version-3-1-codenamed-sarge-is-released.md)
 _Context: Debian GNU/Linux_
 
 ### [ Apple Computer announces they would change the processors for their Macintosh computer lineup from IBM to Intel. - ](/news/2005/06/6/apple-computer-announces-they-would-change-the-processors-for-their-macintosh-computer-lineup-from-ibm-to-intel.md)
@@ -40,7 +40,7 @@ _Context: Bougainville Island, Joseph Kabui, autonomous government_
 _Context: Australia, Chen Yonglin, China, espionage, political asylum_
 
 ### [ In Washington state, United States, the battle over the results of the 2004 gubernatorial election is settled by a county judge, approving the final count in favor of Christine Gregoire.](/news/2005/06/6/in-washington-state-united-states-the-battle-over-the-results-of-the-2004-gubernatorial-election-is-settled-by-a-county-judge-approving.md)
-_Context: 2004 gubernatorial election, Christine Gregoire, U.S., Washington_
+_Context: 2004 gubernatorial election, Americans, Christine Gregoire, Washington_
 
 ## [Previous Day...](/news/2005/06/5/index.md)
 

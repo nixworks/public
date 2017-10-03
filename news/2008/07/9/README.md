@@ -1,6 +1,6 @@
 ## [2008-07-9](/news/2008/07/9/index.md)
 
-### [ Questioned about conspiratorial ties at a town hall meeting in Portsmouth, Ohio, Senator John McCain does not deny he was president of the New Citizenship Project (forerunner of the neo-conservative Project for the New American Century). Instead he states his pride in the 9/11 Commission. ](/news/2008/07/9/questioned-about-conspiratorial-ties-at-a-town-hall-meeting-in-portsmouth-ohio-senator-john-mccain-does-not-deny-he-was-president-of-the.md)
+### [ Questioned about conspiratorial ties at a town hall meeting in Portsmouth, Ohio, Senator John McCain does not deny he was president of the New Citizenship Project (forerunner of the neo-conservative Project for the New American Century). Instead he states his pride in the 9-11 Commission. ](/news/2008/07/9/questioned-about-conspiratorial-ties-at-a-town-hall-meeting-in-portsmouth-ohio-senator-john-mccain-does-not-deny-he-was-president-of-the.md)
 _Context: 9/11 Commission, John McCain, New Citizenship Project, Project for the New American Century, neo-conservative_
 
 ### [ India formally submits the nuclear safeguards agreement to IAEA to implement the United States-India Peaceful Atomic Energy Cooperation Act. ](/news/2008/07/9/india-formally-submits-the-nuclear-safeguards-agreement-to-iaea-to-implement-the-united-states-india-peaceful-atomic-energy-cooperation-act.md)
@@ -9,11 +9,11 @@ _Context: IAEA, India, United States-India Peaceful Atomic Energy Cooperation Ac
 ### [ The Senate of the United States approves legislation overhauling the rules for eavesdropping and offering immunity to telecom companies who may have violated wiretapping and privacy laws after the September 11, 2001 attacks. ](/news/2008/07/9/the-senate-of-the-united-states-approves-legislation-overhauling-the-rules-for-eavesdropping-and-offering-immunity-to-telecom-companies-who.md)
 _Context: Senator, September 11, 2001 attacks, eavesdropping, privacy, telecommunication, wiretapped_
 
-### [ Five peacekeepers are killed and another 17 missing following an ambush on a patrol by the joint United Nations/African Union peacekeeping mission in Darfur. ](/news/2008/07/9/five-peacekeepers-are-killed-and-another-17-missing-following-an-ambush-on-a-patrol-by-the-joint-united-nations-african-union-peacekeeping.md)
+### [ Five peacekeepers are killed and another 17 missing following an ambush on a patrol by the joint United Nations-African Union peacekeeping mission in Darfur. ](/news/2008/07/9/five-peacekeepers-are-killed-and-another-17-missing-following-an-ambush-on-a-patrol-by-the-joint-united-nations-african-union-peacekeeping.md)
 _Context: African Union, Darfur, United Nations, peacekeepers_
 
 ### [ Three members of the Turkish police force are killed during an armed attack on the United States consulate in Istanbul with three attackers also dead. The US ambassador states that it is an "obvious case of terrorism". ](/news/2008/07/9/three-members-of-the-turkish-police-force-are-killed-during-an-armed-attack-on-the-united-states-consulate-in-istanbul-with-three-attackers.md)
-_Context: Istanbul, Turkish police, U.S., armed attack_
+_Context: Americans, Istanbul, Turkish police, armed attack_
 
 ### [ Iran test-fires nine long- and medium-range missiles, including the Shahab-3. ](/news/2008/07/9/iran-test-fires-nine-long-and-medium-range-missiles-including-the-shahab-3.md)
 _Context: Iran, Shahab-3, rocket attacks, test-fires_

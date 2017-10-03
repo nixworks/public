@@ -15,7 +15,7 @@ _Context: China, Jiangxi, Ruichang, earthquake, magnitude_
 ### [ Vijaypat Singhania of India sets a world record for highest hot air balloon flight, reaching 69,852 feet (20.29 km). ](/news/2005/11/26/vijaypat-singhania-of-india-sets-a-world-record-for-highest-hot-air-balloon-flight-reaching-69-852-feet-20-29-km.md)
 _Context: India, Vijaypat Singhania, hot air balloon_
 
-### [ The British government suppresses further details of the Bush/Blair memo. (WikiNews)](/news/2005/11/26/the-british-government-suppresses-further-details-of-the-bush-blair-memo-wikinews.md)
+### [ The British government suppresses further details of the Bush-Blair memo. (WikiNews)](/news/2005/11/26/the-british-government-suppresses-further-details-of-the-bush-blair-memo-wikinews.md)
 _Context: (WikiNews), Al Jazeera bombing memo, United Kingdom_
 
 ## [Previous Day...](/news/2005/11/25/index.md)

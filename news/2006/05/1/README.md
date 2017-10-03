@@ -1,6 +1,6 @@
 ## [2006-05-1](/news/2006/05/1/index.md)
 
-### [ Chinese Patriotic Catholic Association outraged Vatican by planning to ordain another bishop, Liu Xinhong in Anhui Province. On Sunday, China has already ordained Ma Yinglin, not approved by the Holy See, as a bishop in Yunnan. Hong Kong Cardinal Joseph Zen urged the Vatican to stop diplomatic talks with China [http://www.guardian.co.uk/worldlatest/story/0,,-5793952,00.html]](/news/2006/05/1/chinese-patriotic-catholic-association-outraged-vatican-by-planning-to-ordain-another-bishop-liu-xinhong-in-anhui-province-on-sunday-chi.md)
+### [ Chinese Patriotic Catholic Association outraged Vatican by planning to ordain another bishop, Liu Xinhong in Anhui Province. On Sunday, China has already ordained Ma Yinglin, not approved by the Holy See, as a bishop in Yunnan. Hong Kong Cardinal Joseph Zen urged the Vatican to stop diplomatic talks with China [http:--www.guardian.co.uk-worldlatest-story-0,,-5793952,00.html]](/news/2006/05/1/chinese-patriotic-catholic-association-outraged-vatican-by-planning-to-ordain-another-bishop-liu-xinhong-in-anhui-province-on-sunday-chi.md)
 _Context: Anhui, Cardinal, China, Holy See, Hong Kong, Joseph Zen, Liu Xinhong, Ma Yinglin, Yunnan, state-backed church_
 
 ### [ King Gyanendra of Nepal swears in Girija Prasad Koirala as the new Prime Minister of Nepal. Baburam Bhattarai of the CPN(M) which controls two thirds of the country, states that his party will respect the results of an election to a constituent assembly, so long as these are "free and fair". ](/news/2006/05/1/king-gyanendra-of-nepal-swears-in-girija-prasad-koirala-as-the-new-prime-minister-of-nepal-baburam-bhattarai-of-the-cpn-m-which-controls.md)
@@ -10,7 +10,7 @@ _Context: Baburam Bhattarai, Girija Prasad Koirala, Gyanendra of Nepal, Maoist s
 _Context: Chadian government, Chadian rebels, Donald Yamamoto, Idriss Deby, President of Chad, presidential elections_
 
 ### [ Spain, Portugal, Finland and Greece join the United Kingdom, Republic of Ireland and Sweden in allowing workers from the ten countries which joined the European Union two years ago free access to their labour markets. ](/news/2006/05/1/spain-portugal-finland-and-greece-join-the-united-kingdom-republic-of-ireland-and-sweden-in-allowing-workers-from-the-ten-countries-whic.md)
-_Context: EU, Finland, Greek, Portugal, Republic of Ireland, Spanish, Swedish, United Kingdom_
+_Context: EU, Finland, Greek, Portugal, Republic of Ireland, Spain, Swedish, United Kingdom_
 
 ### [ Bolivian Gas War: President Evo Morales has signed a decree nationalising the nation's natural gas industry, instructing foreign energy firms to channel their activities through the Bolivian government within a six-month deadline or face expulsion, and ordering the Bolivian military to occupy and secure key energy installations. ](/news/2006/05/1/bolivian-gas-war-president-evo-morales-has-signed-a-decree-nationalising-the-nation-s-natural-gas-industry-instructing-foreign-energy-fir.md)
 _Context: Bolivian Gas War, Bolivian military, Evo Morales, President of Bolivia, nationalising, natural gas_
@@ -28,7 +28,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Beaconsfield mine collapse, Beaconsfield, Tasmania_
 
 ### [ Immigrant workers and their supporters across the United States stay home from work or school and abstain from commerce during the 2006 Immigration Policy Boycott in the United States, also called the "Great American Boycott" or "Day Without Immigrants", a protest against the enforcement of immigration law. Demonstrations are planned nationwide. In Latin America, a one-day boycott of American products called the "Nothing Gringo Boycott" is planned in conjunction with U.S. events. ](/news/2006/05/1/immigrant-workers-and-their-supporters-across-the-united-states-stay-home-from-work-or-school-and-abstain-from-commerce-during-the-2006-imm.md)
-_Context: 2006 Immigration Policy Boycott in the United States, Latin America, U.S., demonstration_
+_Context: 2006 Immigration Policy Boycott in the United States, Americans, Latin America, demonstration_
 
 ### [ Asian Pacific American Heritage Month: The first day of Asian American and Pacific Islander Heritage Month in the United States.](/news/2006/05/1/asian-pacific-american-heritage-month-the-first-day-of-asian-american-and-pacific-islander-heritage-month-in-the-united-states.md)
 _Context: Asian Pacific American Heritage Month_

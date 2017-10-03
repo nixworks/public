@@ -1,10 +1,10 @@
 ## [2010-03-11](/news/2010/03/11/index.md)
 
-### [The Kyzyl-Agash dam in Kazakhstan bursts, killing at least 35.([http://www.google.com/hostednews/afp/article/ALeqM5h_voEzPqVAaGf-zOCXEZNGmRUKrA "AFP"])](/news/2010/03/11/the-kyzyl-agash-dam-in-kazakhstan-bursts-killing-at-least-35-http-www-google-com-hostednews-afp-article-aleqm5h_voezpqvaagf-zocxezngmru.md)
+### [The Kyzyl-Agash dam in Kazakhstan bursts, killing at least 35.([http:--www.google.com-hostednews-afp-article-ALeqM5h_voEzPqVAaGf-zOCXEZNGmRUKrA "AFP"])](/news/2010/03/11/the-kyzyl-agash-dam-in-kazakhstan-bursts-killing-at-least-35-http-www-google-com-hostednews-afp-article-aleqm5h_voezpqvaagf-zocxezngmru.md)
 _Context: Kazakhstan, Kyzyl-Agash dam_
 
 ### [Two children are prevented by the Roman Catholic Archdiocese of Denver from enrolling in a Catholic school in Boulder, Colorado, United States because their parents are lesbians. ](/news/2010/03/11/two-children-are-prevented-by-the-roman-catholic-archdiocese-of-denver-from-enrolling-in-a-catholic-school-in-boulder-colorado-united-stat.md)
-_Context: Boulder, Roman Catholic Archdiocese of Denver, Roman Catholic Church, U.S., lesbian_
+_Context: Americans, Boulder, Roman Catholic Archdiocese of Denver, Roman Catholic Church, lesbian_
 
 ### [The American Civil Liberties Union (ACLU) intervenes when Mississippi bans same-sex relationships and cancels its prom (leavers' dinner) due to the desire of a female student to bring her girlfriend and wear a tuxedo, while one of her teachers tells her "she had to remember where she was". ](/news/2010/03/11/the-american-civil-liberties-union-aclu-intervenes-when-mississippi-bans-same-sex-relationships-and-cancels-its-prom-leavers-dinner-due.md)
 _Context: American Civil Liberties Union, Mississippi, leavers' dinner, same-sex couples, tuxedo_

@@ -3,7 +3,7 @@
 ### [ South Korean scientists announce the world's first successfully cloned human embryo.](/news/2004/02/12/south-korean-scientists-announce-the-world-s-first-successfully-cloned-human-embryo.md)
 _Context: South Korea, cloning, embryo_
 
-### [ South Korea's parliament on Friday approves sending 3,000 troops to Iraq, responding to a call from the United States for military help in restoring stability to Iraq.<ref name="auto">[http://www.nytimes.com/aponline/international/AP-SKorea-Iraq.html] date=October 2015</ref>](/news/2004/02/12/south-korea-s-parliament-on-friday-approves-sending-3-000-troops-to-iraq-responding-to-a-call-from-the-united-states-for-military-help-in.md)
+### [ South Korea's parliament on Friday approves sending 3,000 troops to Iraq, responding to a call from the United States for military help in restoring stability to Iraq. [http:--www.nytimes.com-aponline-international-AP-SKorea-Iraq.html] date=October 2015 ](/news/2004/02/12/south-korea-s-parliament-on-friday-approves-sending-3-000-troops-to-iraq-responding-to-a-call-from-the-united-states-for-military-help-in.md)
 _Context: Iraq, South Korea_
 
 ### [ Part of the source code for Microsoft's Windows NT 4 and Windows 2000 products has been leaked to the internet. It is thought that the leak constitutes only a part of the source, and may have originated from Mainsoft. Copies of something purporting to be the Windows source have been reported to be available on various file sharing networks.](/news/2004/02/12/part-of-the-source-code-for-microsoft-s-windows-nt-4-and-windows-2000-products-has-been-leaked-to-the-internet-it-is-thought-that-the-leak.md)

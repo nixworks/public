@@ -9,7 +9,7 @@ _Context: China, Shanghai World Financial Center, fire_
 ### [ The Italian coast guard finds the dead bodies of 14 illegal immigrants near the shores of the Lampedusa island. ](/news/2007/08/14/the-italian-coast-guard-finds-the-dead-bodies-of-14-illegal-immigrants-near-the-shores-of-the-lampedusa-island.md)
 _Context: Italy, Lampedusa, coast guard, illegal immigrant_
 
-### [ A Russian far right group calling itself "National Socialism/White Power" publishes a video on the Internet showing the execution of two men, one from Tajikistan and the other one from Dagestan. Russian authorities investigate the video. ](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.md)
+### [ A Russian far right group calling itself "National Socialism-White Power" publishes a video on the Internet showing the execution of two men, one from Tajikistan and the other one from Dagestan. Russian authorities investigate the video. ](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.md)
 _Context: Dagestan, Internet, Russia, Tajikistan, far right_
 
 ### [ A Polish soldier is killed by Taliban near Gardez, Afghanistan. It is the first Polish casualty in the War in Afghanistan. ](/news/2007/08/14/a-polish-soldier-is-killed-by-taliban-near-gardez-afghanistan-it-is-the-first-polish-casualty-in-the-war-in-afghanistan.md)
@@ -100,7 +100,7 @@ _Context: North Korea, rain_
 Chinese President Hu Jintao goes to Central Asia on Tuesday for a summit and war games officially focused on fighting terrorism, but which Beijing hopes will also boost its presence in an energy-rich region.
 
 ### [ Canadian Prime Minister Stephen Harper shuffles his cabinet. Among the changes, embattled defence minister Gordon O'Connor and heritage minister Bev Oda are moved to National Revenue and International Cooperation and replaced by Peter Mackay and Josee Verner, respectively. ](/news/2007/08/14/canadian-prime-minister-stephen-harper-shuffles-his-cabinet-among-the-changes-embattled-defence-minister-gordon-o-connor-and-heritage-min.md)
-_Context: Bev Oda, Canada, Canadian Prime Minister, Gordon O'Connor, Josee Verner, Peter MacKay, Stephen Harper, new Cabinet_
+_Context: Bev Oda, Canada, Gordon O'Connor, Josee Verner, Peter MacKay, Prime Minister of Canada, Stephen Harper, new Cabinet_
 
 ## [Previous Day...](/news/2007/08/13/index.md)
 

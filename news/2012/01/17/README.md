@@ -12,7 +12,7 @@ _Context: Burma, Internal conflict in Burma, Myanmar's military_
 ### [2011-2012 Yemeni uprising: Vice President Abdurabu Hadi says that presidential and parliamentary elections planned for next month will go ahead. ](/news/2012/01/17/2011a2012-yemeni-uprising-vice-president-abdurabu-hadi-says-that-presidential-and-parliamentary-elections-planned-for-next-month-will-go.md)
 _Context: 2011-2012 Yemeni uprising, parliamentary, presidential election_
 
-### [Yahoo! co-founder Jerry Yang resigns as chief executive officer. [http://www.mercurynews.com/breaking-news/ci_19760292 "(San Jose Mercury News)"]](/news/2012/01/17/yahoo-co-founder-jerry-yang-resigns-as-chief-executive-officer-http-www-mercurynews-com-breaking-news-ci_19760292-san-jose-mercury-ne.md)
+### [Yahoo! co-founder Jerry Yang resigns as chief executive officer. [http:--www.mercurynews.com-breaking-news-ci_19760292 "(San Jose Mercury News)"]](/news/2012/01/17/yahoo-co-founder-jerry-yang-resigns-as-chief-executive-officer-http-www-mercurynews-com-breaking-news-ci_19760292-san-jose-mercury-ne.md)
 _Context: Jerry Yang, Yahoo!, chief executive officer_
 
 ### [At least 26 people are killed after a truck's brakes fail along a busy street in Port-au-Prince, Haiti. ](/news/2012/01/17/at-least-26-people-are-killed-after-a-truck-s-brakes-fail-along-a-busy-street-in-port-au-prince-haiti.md)

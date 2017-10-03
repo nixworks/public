@@ -6,7 +6,7 @@ _Context: Baiji, Conflict in Iraq, Fallujah, Iraq, Iraqi insurgency, Mosul, Rama
 ### [ Three apparently home-made explosive devices are detonated in three Buenos Aires banks in Argentina, killing a security guard and wounding a police officer. ](/news/2004/11/17/three-apparently-home-made-explosive-devices-are-detonated-in-three-buenos-aires-banks-in-argentina-killing-a-security-guard-and-wounding.md)
 _Context: Argentina, Buenos Aires_
 
-### [ Kmart purchases Sears in a deal worth $11.5 billion. The combined resources of the companies results in a $55 billion/year company and encompasses close to 3,500 stores. ](/news/2004/11/17/kmart-purchases-sears-in-a-deal-worth-11-5-billion-the-combined-resources-of-the-companies-results-in-a-55-billion-year-company-and-enco.md)
+### [ Kmart purchases Sears in a deal worth $11.5 billion. The combined resources of the companies results in a $55 billion-year company and encompasses close to 3,500 stores. ](/news/2004/11/17/kmart-purchases-sears-in-a-deal-worth-11-5-billion-the-combined-resources-of-the-companies-results-in-a-55-billion-year-company-and-enco.md)
 Business news & Financial news from Reuters.com.
 
 ### [ The British House of Lords passes a bill to allow same-sex couples to obtain civil partnerships. This is the final legislative hurdle for the bill, which is expected to receive Royal Assent later in the week.](/news/2004/11/17/the-british-house-of-lords-passes-a-bill-to-allow-same-sex-couples-to-obtain-civil-partnerships-this-is-the-final-legislative-hurdle-for-t.md)

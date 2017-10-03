@@ -1,6 +1,6 @@
 ### [2005-05-7](/news/2005/05/7/index.md)
 
-#  The Time Traveler Convention was held at MIT, in the hopes of making contact with time travelers from the future. The convention was organized by Amal Dorai with help from current and former residents of the MIT living group Pi Tau Zeta. The convention was held at 22:45 EDT at the East Campus Courtyard and in Walker Memorial at MIT. That location is 42.360007 degrees north latitude, 71.087870 degrees west longitude. The spacetime coordinates continue to be publicized prominently and indefinitely, so that future time travelers will be aware and have the opportunity to have attended.[http://web.mit.edu/adorai/timetraveler]
+#  The Time Traveler Convention was held at MIT, in the hopes of making contact with time travelers from the future. The convention was organized by Amal Dorai with help from current and former residents of the MIT living group Pi Tau Zeta. The convention was held at 22:45 EDT at the East Campus Courtyard and in Walker Memorial at MIT. That location is 42.360007 degrees north latitude, 71.087870 degrees west longitude. The spacetime coordinates continue to be publicized prominently and indefinitely, so that future time travelers will be aware and have the opportunity to have attended.[http:--web.mit.edu-adorai-timetraveler]
 
 
 

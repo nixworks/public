@@ -21,7 +21,7 @@ _Context: Abdelaziz Bouteflika, Algeria, President_
 ### [Voters in twelve states of India go to the polls for the biggest day of voting during the election process. ](/news/2014/04/17/voters-in-twelve-states-of-india-go-to-the-polls-for-the-biggest-day-of-voting-during-the-election-process.md)
 Millions of Indians vote in the biggest day of the general election pitting the ruling Congress party against the main opposition BJP.
 
-### [Scientists announce creation of cloned human stem cells derived from adult cells. ([http://time.com/65610/cloning-cells-from-two-adult-men/ "TIME"])](/news/2014/04/17/scientists-announce-creation-of-cloned-human-stem-cells-derived-from-adult-cells-http-time-com-65610-cloning-cells-from-two-adult-men.md)
+### [Scientists announce creation of cloned human stem cells derived from adult cells. ([http:--time.com-65610-cloning-cells-from-two-adult-men- "TIME"])](/news/2014/04/17/scientists-announce-creation-of-cloned-human-stem-cells-derived-from-adult-cells-http-time-com-65610-cloning-cells-from-two-adult-men.md)
 _Context: cloned human, stem cells_
 
 ## [Previous Day...](/news/2014/04/16/index.md)

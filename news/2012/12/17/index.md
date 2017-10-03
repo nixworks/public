@@ -12,7 +12,7 @@ _Context: Kabul, US$_
 ### [Famous actor Gerard Depardieu decides to give up his French citizenship and move to Belgium for a permanent residence to avoid taxes. ](/news/2012/12/17/famous-actor-ga-c-rard-depardieu-decides-to-give-up-his-french-citizenship-and-move-to-belgium-for-a-permanent-residence-to-avoid-taxes.md)
 French actor Gerard Depardieu says he is handing back his French passport after the prime minister criticised him for moving to Belgium to avoid taxes.
 
-### [Cyclone Evan hits Fiji with winds as high as 230 km/h, amid reports of flooding and structural damage at resorts and private homes. More than 8,000 people spend the storm in emergency shelters, including many foreign tourists. ](/news/2012/12/17/cyclone-evan-hits-fiji-with-winds-as-high-as-230-km-h-amid-reports-of-flooding-and-structural-damage-at-resorts-and-private-homes-more-tha.md)
+### [Cyclone Evan hits Fiji with winds as high as 230 km-h, amid reports of flooding and structural damage at resorts and private homes. More than 8,000 people spend the storm in emergency shelters, including many foreign tourists. ](/news/2012/12/17/cyclone-evan-hits-fiji-with-winds-as-high-as-230-km-h-amid-reports-of-flooding-and-structural-damage-at-resorts-and-private-homes-more-tha.md)
 _Context: Cyclone Evan, Fiji_
 
 ### [At least 18 people drown after an overloaded boat sinks north of Benin's commercial capital Cotonou. ](/news/2012/12/17/at-least-18-people-drown-after-an-overloaded-boat-sinks-north-of-benin-s-commercial-capital-cotonou.md)

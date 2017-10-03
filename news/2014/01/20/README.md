@@ -37,10 +37,10 @@ Heavy rains are forecast this week, potentially worsening floods which have kill
 Two people have died and another is in a critical condition after a plane carrying a medical team to a transplant crashed in Romania&#8217;s Apuseni mountains. Seven passengers were on board the Britten Norman 2 light aircraft, which crashed landed in remote terrain on Monday evening (January 20) wh...
 
 ### [The United States rejects the invitation of Iran by the United Nations in peace talks involving Syria. ](/news/2014/01/20/the-united-states-rejects-the-invitation-of-iran-by-the-united-nations-in-peace-talks-involving-syria.md)
-_Context: Iran, Syria, U.S., United Nations_
+_Context: Americans, Iran, Syria, United Nations_
 
 ### [Certain sanctions against Iran are lifted by the European Union and the United States through a nuclear deal. ](/news/2014/01/20/certain-sanctions-against-iran-are-lifted-by-the-european-union-and-the-united-states-through-a-nuclear-deal.md)
-_Context: EU, Iran, U.S._
+_Context: Americans, EU, Iran_
 
 ### [Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md)
 Several senior US lawmakers allege that intelligence leaker Edward Snowden may have been working with a foreign power, possibly Russia.
@@ -72,7 +72,7 @@ Zimbabwe President Robert Mugabe appeared in public for the first time in severa
 ### [India launches the Agni-IV missile today. ](/news/2014/01/20/india-launches-the-agni-iv-missile-today.md)
 India’s nuclear deterrence programme received a boost on Monday when its Agni-IV, a surface-to-surface missile with a range of about 4,000 km, was successfully test-fired from the Wheeler Island, off
 
-### [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P/Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumovagerasimenko.md)
+### [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P-Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumovagerasimenko.md)
 European Space Agency controllers wait for a signal from the Rosetta probe that confirms it is awake and ready to resume the audacious mission to chase down a comet.
 
 ### [Dolphin hunting in the Japanese town of Taiji is criticized by US Ambassador to Japan Caroline Kennedy after protests by environmental groups. ](/news/2014/01/20/dolphin-hunting-in-the-japanese-town-of-taiji-is-criticized-by-us-ambassador-to-japan-caroline-kennedy-after-protests-by-environmental-group.md)

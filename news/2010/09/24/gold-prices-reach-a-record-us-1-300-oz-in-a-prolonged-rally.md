@@ -1,6 +1,6 @@
 ### [2010-09-24](/news/2010/09/24/index.md)
 
-# Gold prices reach a record US$1,300/oz in a prolonged rally. 
+# Gold prices reach a record US$1,300-oz in a prolonged rally. 
 
 
 

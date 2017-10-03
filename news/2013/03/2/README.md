@@ -12,7 +12,7 @@ Suspected insurgents detonated a motorcycle bomb in southern Thailand on Saturda
 ### [A massive car crash on I-65 in Kentucky, United States, leaves 6 people from Wisconsin dead and 2 injured. ](/news/2013/03/2/a-massive-car-crash-on-i-65-in-kentucky-united-states-leaves-6-people-from-wisconsin-dead-and-2-injured.md)
 UPDATE: A relative of some of the six victims killed in a Kentucky interstate crash says the Wisconsin couple who died was dedicated to raising foster children.
 
-### [A study concludes that continuous standing and walking reduces the risk of type II diabetes better than either sitting/lying or exercise. ](/news/2013/03/2/a-study-concludes-that-continuous-standing-and-walking-reduces-the-risk-of-type-ii-diabetes-better-than-either-sitting-lying-or-exercise.md)
+### [A study concludes that continuous standing and walking reduces the risk of type II diabetes better than either sitting-lying or exercise. ](/news/2013/03/2/a-study-concludes-that-continuous-standing-and-walking-reduces-the-risk-of-type-ii-diabetes-better-than-either-sitting-lying-or-exercise.md)
 Sitting less and moving around more reduces the risk of developing type 2 diabetes in patients with known risk factors more than vigorous exercise does.
 
 ### [A judge declines to throw out the case against actress Lindsay Lohan in which she is accused of lying to a California police officer after a car accident in 2012. ](/news/2013/03/2/a-judge-declines-to-throw-out-the-case-against-actress-lindsay-lohan-in-which-she-is-accused-of-lying-to-a-california-police-officer-after-a.md)

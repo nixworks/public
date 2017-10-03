@@ -9,7 +9,7 @@ A reinforced French force in the Central African Republic expands operations in 
 ### [87-year-old American comedian Don Rickles is recovering after treatment for a leg infection of necrotizing fasciitis, better known as a flesh-eating disease. ](/news/2013/12/7/87-year-old-american-comedian-don-rickles-is-recovering-after-treatment-for-a-leg-infection-of-necrotizing-fasciitis-better-known-as-a-fles.md)
 Don Rickles is on the mend. After canceling several shows due to treatment for a leg infection, the New York Post has reported that the 87-year-old comedy legend was suffering from necrotizing fasciitis, better known as a flesh-eating disease.
 
-### [United States Supreme Court associate justice Ruth Bader Ginsburg turns down a stay to block the December 9 American Airlines/US Airways merger. ](/news/2013/12/7/united-states-supreme-court-associate-justice-ruth-bader-ginsburg-turns-down-a-stay-to-block-the-december-9-american-airlines-us-airways-mer.md)
+### [United States Supreme Court associate justice Ruth Bader Ginsburg turns down a stay to block the December 9 American Airlines-US Airways merger. ](/news/2013/12/7/united-states-supreme-court-associate-justice-ruth-bader-ginsburg-turns-down-a-stay-to-block-the-december-9-american-airlines-us-airways-mer.md)
 Supreme Court Justice Ruth Bader Ginsburg denied a petition to halt the planned merger between American Airlines and US Airways late Saturday night. 
 
 ### [The death toll reaches 5,800, with 26,233 injured and 1,779 still missing. ](/news/2013/12/7/the-death-toll-reaches-5-800-with-26-233-injured-and-1-779-still-missing.md)
@@ -19,7 +19,7 @@ CASUALTIES in the wake of Yolanda (international name: Haiyan) rose to 5,786 on 
 _Context: Journal of the National Cancer Institute, New York University School of Medicine, anti-inflammatory, butyrate, colorectal cancer, dietary fiber, fatty acid, gut microbe_
 
 ### [North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-again-asks-the-dprk-to-p.md)
-_Context: American, Kenneth Bae, Merrill Newman, North Korea, U.S._
+_Context: American, Americans, Kenneth Bae, Merrill Newman, North Korea_
 
 ### [The World Trade Organization meeting in Bali, Indonesia, concludes with agreement to simplify trade deals and make it easier for poorer states to sell their goods as part of the Bali Package. ](/news/2013/12/7/the-world-trade-organization-meeting-in-bali-indonesia-concludes-with-agreement-to-simplify-trade-deals-and-make-it-easier-for-poorer-stat.md)
 The World Trade Organization agrees a historic global deal aimed at boosting commerce, which could add nearly $1tn to the global economy.

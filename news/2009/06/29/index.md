@@ -1,6 +1,6 @@
 ## [2009-06-29](/news/2009/06/29/index.md)
 
-### [ The Preparatory Commission for the International Renewable Energy Agency designates the headquarters of the organization to Masdar City, Abu Dhabi. [http://www.dw-world.de/dw/article/0,,4442082,00.html?maca=en-en_nr-1893-xml-atom "(Deutsche Welle)"]](/news/2009/06/29/the-preparatory-commission-for-the-international-renewable-energy-agency-designates-the-headquarters-of-the-organization-to-masdar-city-ab.md)
+### [ The Preparatory Commission for the International Renewable Energy Agency designates the headquarters of the organization to Masdar City, Abu Dhabi. [http:--www.dw-world.de-dw-article-0,,4442082,00.html?maca=en-en_nr-1893-xml-atom "(Deutsche Welle)"]](/news/2009/06/29/the-preparatory-commission-for-the-international-renewable-energy-agency-designates-the-headquarters-of-the-organization-to-masdar-city-ab.md)
 _Context: Abu Dhabi, International Renewable Energy Agency, Masdar City_
 
 ### [ Scientific tests show bones housed in the Basilica of Saint Paul Outside the Walls in Rome are those of the apostle Saint Paul himself, according to Pope Benedict XVI. ](/news/2009/06/29/scientific-tests-show-bones-housed-in-the-basilica-of-saint-paul-outside-the-walls-in-rome-are-those-of-the-apostle-saint-paul-himself-acc.md)

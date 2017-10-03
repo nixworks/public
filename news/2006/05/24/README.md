@@ -6,7 +6,7 @@ _Context: Labour, United Kingdom, pension_
 ### [ The 5th Season of the talent search American Idol comes to a close with a two hour finale, and Taylor Hicks being crowned the winner.](/news/2006/05/24/the-5th-season-of-the-talent-search-american-idol-comes-to-a-close-with-a-two-hour-finale-and-taylor-hicks-being-crowned-the-winner.md)
 _Context: American Idol, Taylor Hicks_
 
-### [ The Kuomintang announces that it plans to cease publishing the "Central Daily News", the oldest Chinese language newspaper in existence, by the end of this month. ([http://www.chinapost.com.tw/taiwan/detail.asp?ID=82855&GRP=B ChinaPost])](/news/2006/05/24/the-kuomintang-announces-that-it-plans-to-cease-publishing-the-central-daily-news-the-oldest-chinese-language-newspaper-in-existence-by.md)
+### [ The Kuomintang announces that it plans to cease publishing the "Central Daily News", the oldest Chinese language newspaper in existence, by the end of this month. ([http:--www.chinapost.com.tw-taiwan-detail.asp?ID=82855&GRP=B ChinaPost])](/news/2006/05/24/the-kuomintang-announces-that-it-plans-to-cease-publishing-the-central-daily-news-the-oldest-chinese-language-newspaper-in-existence-by.md)
 _Context: Central Daily News, Chinese, Kuomintang (Chinese Nationalist Party), newspaper_
 
 ### [ The World Health Organization is investigating several bird flu deaths for a possible person-to-person transmission chain. ](/news/2006/05/24/the-world-health-organization-is-investigating-several-bird-flu-deaths-for-a-possible-person-to-person-transmission-chain.md)
@@ -29,7 +29,7 @@ _Context: Dili, East Timor, East Timorese army_
 _Context: Atatrk International Airport, Istanbul, Turkey_
 
 ### [ President of Mexico Vicente Fox begins a tour of the United States in Salt Lake City by criticizing a proposed border wall. This comes amid the U.S. Senate passing a sweeping immigration bill. ](/news/2006/05/24/president-of-mexico-vicente-fox-begins-a-tour-of-the-united-states-in-salt-lake-city-by-criticizing-a-proposed-border-wall-this-comes-amid.md)
-_Context: President, Salt Lake City, U.S., Vicente Fox, illegal worker_
+_Context: Americans, President, Salt Lake City, Vicente Fox, illegal worker_
 
 ## [Previous Day...](/news/2006/05/23/index.md)
 

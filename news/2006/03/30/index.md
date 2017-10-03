@@ -3,7 +3,7 @@
 ### [ Feleti Sevele is confirmed as the first non-noble Prime Minister of Tonga. ](/news/2006/03/30/feleti-sevele-is-confirmed-as-the-first-non-noble-prime-minister-of-tonga.md)
 _Context: Feleti Sevele, Prime Minister of Tonga, noble_
 
-### [ Several large earthquakes rock western Iran, killing and injuring many people [http://news.bbc.co.uk/1/hi/world/middle_east/4863372.stm (BBC)](WikiNews)](/news/2006/03/30/several-large-earthquakes-rock-western-iran-killing-and-injuring-many-people-http-news-bbc-co-uk-1-hi-world-middle_east-4863372-stm-bb.md)
+### [ Several large earthquakes rock western Iran, killing and injuring many people [http:--news.bbc.co.uk-1-hi-world-middle_east-4863372.stm (BBC)](WikiNews)](/news/2006/03/30/several-large-earthquakes-rock-western-iran-killing-and-injuring-many-people-http-news-bbc-co-uk-1-hi-world-middle_east-4863372-stm-bb.md)
 _Context: (WikiNews), Iran, earthquakes_
 
 ### [ Portia Simpson Miller is sworn in as Prime Minister of Jamaica, becoming the first woman to lead the Commonwealth of Jamaica.](/news/2006/03/30/portia-simpson-miller-is-sworn-in-as-prime-minister-of-jamaica-becoming-the-first-woman-to-lead-the-commonwealth-of-jamaica.md)
@@ -24,10 +24,10 @@ A Russian-American crew and Brazil&#8217;s first astronaut flew into orbit Thurs
 ### [ An outage of "Optus B1" after realignment knocks out Sky TV's pay TV to an estimated 650,000 New Zealanders ](/news/2006/03/30/an-outage-of-optus-b1-after-realignment-knocks-out-sky-tv-s-pay-tv-to-an-estimated-650-000-new-zealanders.md)
 _Context: New Zealand, Optus B1, Sky TV, pay TV_
 
-### [ "Al-Dana" disaster: A passenger ferry sailing off Manama, Bahrain, capsizes in the Persian Gulf. At least 57 people drown. [http://www.timesonline.co.uk/tol/news/world/middle_east/article700758.ece]](/news/2006/03/30/al-dana-disaster-a-passenger-ferry-sailing-off-manama-bahrain-capsizes-in-the-persian-gulf-at-least-57-people-drown-http-www-time.md)
+### [ "Al-Dana" disaster: A passenger ferry sailing off Manama, Bahrain, capsizes in the Persian Gulf. At least 57 people drown. [http:--www.timesonline.co.uk-tol-news-world-middle_east-article700758.ece]](/news/2006/03/30/al-dana-disaster-a-passenger-ferry-sailing-off-manama-bahrain-capsizes-in-the-persian-gulf-at-least-57-people-drown-http-www-time.md)
 _Context: Al-Dana, Bahrain, Manama, Persian Gulf, ferry_
 
-### [ U.S. Representative Jean Schmidt has been claiming a degree in secondary education from the University of Cincinnati she did not receive. Her spokesman said Schmidt earned the degree but did not complete the paperwork to be awarded it. ([http://www.cleveland.com/weblogs/openers/index.ssf?/mtlogs/cleve_openers/archives/2006_03.html#125630 The Plain Dealer])](/news/2006/03/30/u-s-representative-jean-schmidt-has-been-claiming-a-degree-in-secondary-education-from-the-university-of-cincinnati-she-did-not-receive-h.md)
+### [ U.S. Representative Jean Schmidt has been claiming a degree in secondary education from the University of Cincinnati she did not receive. Her spokesman said Schmidt earned the degree but did not complete the paperwork to be awarded it. ([http:--www.cleveland.com-weblogs-openers-index.ssf?-mtlogs-cleve_openers-archives-2006_03.html#125630 The Plain Dealer])](/news/2006/03/30/u-s-representative-jean-schmidt-has-been-claiming-a-degree-in-secondary-education-from-the-university-of-cincinnati-she-did-not-receive-h.md)
 _Context: Jean Schmidt, University of Cincinnati_
 
 ## [Previous Day...](/news/2006/03/29/index.md)

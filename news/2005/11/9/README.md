@@ -1,6 +1,6 @@
 ## [2005-11-9](/news/2005/11/9/index.md)
 
-### [ Facing the world's highest HIV infection rate, Swaziland is drafting a Sexual Offences and Domestic Violence Bill proposing the death penalty for child rape, incest and the intentional transmission of HIV. Amnesty International later expresses concern. [http://www.amnesty.org/en/library/info/AFR55/003/2006] ](/news/2005/11/9/facing-the-world-s-highest-hiv-infection-rate-swaziland-is-drafting-a-sexual-offences-and-domestic-violence-bill-proposing-the-death-penal.md)
+### [ Facing the world's highest HIV infection rate, Swaziland is drafting a Sexual Offences and Domestic Violence Bill proposing the death penalty for child rape, incest and the intentional transmission of HIV. Amnesty International later expresses concern. [http:--www.amnesty.org-en-library-info-AFR55-003-2006] ](/news/2005/11/9/facing-the-world-s-highest-hiv-infection-rate-swaziland-is-drafting-a-sexual-offences-and-domestic-violence-bill-proposing-the-death-penal.md)
 _Context: Amnesty International, HIV, Swaziland, death penalty, highest HIV infection rate, incest_
 
 ### [ Amir Peretz is elected leader of the Israeli Labor Party, narrowly defeating the incumbent, Shimon Peres. ](/news/2005/11/9/amir-peretz-is-elected-leader-of-the-israeli-labor-party-narrowly-defeating-the-incumbent-shimon-peres.md)
@@ -16,7 +16,7 @@ _Context: 2005 Amman bombings, Abu Musab al-Zarqawi, Amman, Days Inn, Grand Hyat
 _Context: Archaeologists, Hebrew, Israel, Phoenician, Tel Zayit, ancient Israel, literates, tell_
 
 ### [ In the United States, the visit of Iraqi Deputy Premier Ahmed Chalabi to the Department of State and Department of the Treasury arouses controversy. ](/news/2005/11/9/in-the-united-states-the-visit-of-iraqi-deputy-premier-ahmed-chalabi-to-the-department-of-state-and-department-of-the-treasury-arouses-con.md)
-_Context: Ahmed Chalabi, U.S._
+_Context: Ahmed Chalabi, Americans_
 
 ### [ The British government loses a key House of Commons vote on detaining terrorism suspects for 90-days without charge, in the report stage of the Terrorism Act 2006. This is Tony Blair's first ever commons defeat and has been described a serious blow to his authority. Opposition Leader Michael Howard calls on Blair to resign. ](/news/2005/11/9/the-british-government-loses-a-key-house-of-commons-vote-on-detaining-terrorism-suspects-for-90-days-without-charge-in-the-report-stage-of.md)
 _Context: British government, House of Commons of the United Kingdom, Leader, Michael Howard, Terrorism Act, Tony Blair, terrorism_

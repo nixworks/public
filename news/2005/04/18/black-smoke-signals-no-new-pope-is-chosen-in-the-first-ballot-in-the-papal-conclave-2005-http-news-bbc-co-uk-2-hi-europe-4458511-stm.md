@@ -1,6 +1,6 @@
 ### [2005-04-18](/news/2005/04/18/index.md)
 
-#  Black smoke signals no new Pope is chosen in the first ballot in the Papal conclave, 2005. [http://news.bbc.co.uk/2/hi/europe/4458511.stm (BBC)], [http://abcnews.go.com/US/wireStory?id=680577 (ABC)] (Link dead as of 04:02, 16 January 2007 (UTC)), [http://story.news.yahoo.com/news?tmpl=story&cid=518&ncid=716&e=1&u=/ap/20050419/ap_on_re_eu/pope (Yahoo! News/AP)] (Link dead as of 04:02, 16 January 2007 (UTC))
+#  Black smoke signals no new Pope is chosen in the first ballot in the Papal conclave, 2005. [http:--news.bbc.co.uk-2-hi-europe-4458511.stm (BBC)], [http:--abcnews.go.com-US-wireStory?id=680577 (ABC)] (Link dead as of 04:02, 16 January 2007 (UTC)), [http:--story.news.yahoo.com-news?tmpl=story&cid=518&ncid=716&e=1&u=-ap-20050419-ap_on_re_eu-pope (Yahoo! News-AP)] (Link dead as of 04:02, 16 January 2007 (UTC))
 
 
 
@@ -12,8 +12,3 @@
 3. [In his first public statement since his resignation, former Pope Benedict XVI denies that he covered up child sexual abuse cases involving priests during his tenure. ](/news/2013/09/23/in-his-first-public-statement-since-his-resignation-former-pope-benedict-xvi-denies-that-he-covered-up-child-sexual-abuse-cases-involving-p.md) _Context: Pope_
 4. [The main airport in Tegucigalpa, Honduras, is shutdown due to smoke from a forest fire. ](/news/2013/04/13/the-main-airport-in-tegucigalpa-honduras-is-shutdown-due-to-smoke-from-a-forest-fire.md) _Context: smoke_
 5. [The Vatican announces that the 2013 papal conclave to select a new pope will begin on March 12. ](/news/2013/03/8/the-vatican-announces-that-the-2013-papal-conclave-to-select-a-new-pope-will-begin-on-march-12.md) _Context: Pope_
-6. [Black smoke rises from the Vatican's Sistine Chapel, signalling that Roman Catholic Cardinals had not elected a new pope in the morning session of the second day of voting at their conclave. ](/news/2013/03/13/black-smoke-rises-from-the-vatican-s-sistine-chapel-signalling-that-roman-catholic-cardinals-had-not-elected-a-new-pope-in-the-morning-sess.md) _Context: Pope_
-7. [Pope Benedict XVI announces his resignation, effective February 28 at 8pm CET (7pm UTC). He will become the first pope to resign since Gregory XII in 1415. ](/news/2013/02/11/pope-benedict-xvi-announces-his-resignation-effective-february-28-at-8pm-cet-7pm-utc-he-will-become-the-first-pope-to-resign-since-grego.md) _Context: Pope_
-8. [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square and holds the traditional Mass at St. Peter's Basilica in Vatican City. ](/news/2012/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-and-holds-the-traditional-mass-at-st-peter-s-basilica-in-va.md) _Context: Pope_
-9. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-benedict-xvi.md) _Context: Pope_
-10. [Pope Benedict XVI names John of Avila and Hildegard of Bingen the 34th and 35th doctors of the Catholic church. ](/news/2012/10/7/pope-benedict-xvi-names-john-of-avila-and-hildegard-of-bingen-the-34th-and-35th-doctors-of-the-catholic-church.md) _Context: Pope_

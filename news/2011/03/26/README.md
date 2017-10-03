@@ -27,7 +27,7 @@ _Context: Burma, Mandalay_
 ### [British Police are granted an extension by magistrates to continue questioning a Swindon man suspected of the murder of Sian O'Callaghan. ](/news/2011/03/26/british-police-are-granted-an-extension-by-magistrates-to-continue-questioning-a-swindon-man-suspected-of-the-murder-of-sian-o-callaghan.md)
 _Context: Sian O'Callaghan, Swindon_
 
-### [Voters in the Australian state of New South Wales go to the polls for the NSW state election with the Liberal/National coalition led by Barry O'Farrell winning government by a landslide. ](/news/2011/03/26/voters-in-the-australian-state-of-new-south-wales-go-to-the-polls-for-the-nsw-state-election-with-the-liberal-national-coalition-led-by-barr.md)
+### [Voters in the Australian state of New South Wales go to the polls for the NSW state election with the Liberal-National coalition led by Barry O'Farrell winning government by a landslide. ](/news/2011/03/26/voters-in-the-australian-state-of-new-south-wales-go-to-the-polls-for-the-nsw-state-election-with-the-liberal-national-coalition-led-by-barr.md)
 The International Olympic Committee said Monday that it would set up a special panel to recommend the postponement of events at the Beijing Olympics in case of heavy pollution.
 
 ### [Hundreds of thousands of people march in London, England against government budget cuts with the protests later turning violent. ](/news/2011/03/26/hundreds-of-thousands-of-people-march-in-london-england-against-government-budget-cuts-with-the-protests-later-turning-violent.md)
@@ -37,7 +37,7 @@ Follow our rolling coverage of today&#039;s marches which saw an estimated 400,0
 _Context: Boston, Massachusetts, Democratic, Geraldine Ferraro, U.S. Vice President, United States House of Representatives_
 
 ### [The Governor-General of Canada David Johnston dissolves the Parliament of Canada and issues writs for the Canadian federal election. ](/news/2011/03/26/the-governor-general-of-canada-david-johnston-dissolves-the-parliament-of-canada-and-issues-writs-for-the-canadian-federal-election.md)
-_Context: 2011 Canadian federal election, David Johnston, Governor General, Parliament of Canada_
+_Context: 2011 Canadian federal election, David Johnston, Governor General of Canada, Parliament of Canada_
 
 ## [Previous Day...](/news/2011/03/25/index.md)
 

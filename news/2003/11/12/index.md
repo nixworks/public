@@ -12,7 +12,7 @@ _Context: identity card_
 ### [ The Peruvian Congress approves more charges against ex-President Alberto Fujimori, alleging he trafficked arms to Colombian guerrillas, sanctioned torture, was responsible for the disappearance of student activists, and mismanaged millions of dollars from Japanese charities to build schools for poor children in Peru, with an unexplained $2.3 million shortfall in funds received, among other irregularities.](/news/2003/11/12/the-peruvian-congress-approves-more-charges-against-ex-president-alberto-fujimori-alleging-he-trafficked-arms-to-colombian-guerrillas-san.md)
 _Context: Alberto Fujimori, Colombia, Peru_
 
-### [ Shanghai With 501 km/h the Shanghai Transrapid sets up a new world record for commercial railway systems.](/news/2003/11/12/shanghai-with-501-km-h-the-shanghai-transrapid-sets-up-a-new-world-record-for-commercial-railway-systems.md)
+### [ Shanghai With 501 km-h the Shanghai Transrapid sets up a new world record for commercial railway systems.](/news/2003/11/12/shanghai-with-501-km-h-the-shanghai-transrapid-sets-up-a-new-world-record-for-commercial-railway-systems.md)
 _Context: Shanghai, Shanghai Transrapid_
 
 ## [Previous Day...](/news/2003/11/11/index.md)

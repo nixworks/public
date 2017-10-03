@@ -33,7 +33,7 @@ Cyclone makes landfall on western coast, flattening homes, cutting off power and
 ### [The death toll from Typhoon Megi in Taiwan has reached as least eleven with at least 23 people from two Chinese tour groups missing. It has now made landfall in China's Fujian province. ](/news/2010/10/23/the-death-toll-from-typhoon-megi-in-taiwan-has-reached-as-least-eleven-with-at-least-23-people-from-two-chinese-tour-groups-missing-it-has.md)
 _Context: Chinese, Fujian, Taiwan, Typhoon Megi_
 
-### [Seven people are killed at Nyayo National Stadium in the Kenyan capital Nairobi as fans try to enter a Kenyan Premier League football match between Gor Mahia and AFC Leopards. [http://english.aljazeera.net/news/africa/2010/10/2010102318591713110.html (Al Jazeera)] (BBC)](/news/2010/10/23/seven-people-are-killed-at-nyayo-national-stadium-in-the-kenyan-capital-nairobi-as-fans-try-to-enter-a-kenyan-premier-league-football-match.md)
+### [Seven people are killed at Nyayo National Stadium in the Kenyan capital Nairobi as fans try to enter a Kenyan Premier League football match between Gor Mahia and AFC Leopards. [http:--english.aljazeera.net-news-africa-2010-10-2010102318591713110.html (Al Jazeera)] (BBC)](/news/2010/10/23/seven-people-are-killed-at-nyayo-national-stadium-in-the-kenyan-capital-nairobi-as-fans-try-to-enter-a-kenyan-premier-league-football-match.md)
 _Context: (BBC), AFC Leopards, Gor Mahia, Kenya, Nairobi, Nyayo National Stadium, footballer_
 
 ### [Several people are killed in a helicopter crash in the Mourne Mountains, County Down. ](/news/2010/10/23/several-people-are-killed-in-a-helicopter-crash-in-the-mourne-mountains-county-down.md)

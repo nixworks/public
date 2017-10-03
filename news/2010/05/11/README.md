@@ -12,7 +12,7 @@ Egyptian opposition groups bash decision to extend 29-year-old emergency law for
 ### [At least three people are injured by authorities as protesters attempt to storm Dil ireann in a campaign against bank bail-outs. ](/news/2010/05/11/at-least-three-people-are-injured-by-authorities-as-protesters-attempt-to-storm-dail-eireann-in-a-campaign-against-bank-bail-outs.md)
 A number of people were injured outside the Dáil tonight after a disturbance broke out at the gates of Leinster House.
 
-### [U.S. missiles kill 24 suspected insurgents in North Waziristan, Pakistan, in the latest two of three strikes since an attempted car bombing in New York linked to the Taliban. The identities of most of those killed are not known. [http://www.chicagotribune.com/news/nationworld/la-fgw-pakistan-missiles-20100511,0,278402.story ("Chicago Tribune")] [http://www.usatoday.com/news/world/2010-05-11-pakistan-strikes_N.htm ("USA Today") ]](/news/2010/05/11/u-s-missiles-kill-24-suspected-insurgents-in-north-waziristan-pakistan-in-the-latest-two-of-three-strikes-since-an-attempted-car-bombing.md)
+### [U.S. missiles kill 24 suspected insurgents in North Waziristan, Pakistan, in the latest two of three strikes since an attempted car bombing in New York linked to the Taliban. The identities of most of those killed are not known. [http:--www.chicagotribune.com-news-nationworld-la-fgw-pakistan-missiles-20100511,0,278402.story ("Chicago Tribune")] [http:--www.usatoday.com-news-world-2010-05-11-pakistan-strikes_N.htm ("USA Today") ]](/news/2010/05/11/u-s-missiles-kill-24-suspected-insurgents-in-north-waziristan-pakistan-in-the-latest-two-of-three-strikes-since-an-attempted-car-bombing.md)
 _Context: North Waziristan, Pakistan, Times Square bomber_
 
 ### [Tens of thousands of people line the streets as Pope Benedict XVI begins his four-day trip to Portugal. ](/news/2010/05/11/tens-of-thousands-of-people-line-the-streets-as-pope-benedict-xvi-begins-his-four-day-trip-to-portugal.md)
@@ -22,7 +22,7 @@ Pope Benedict XVI has begun a four-day trip to Portugal, during which he is like
 _Context: Barack Obama, Deepwater Horizon oil spill, Thad Allen, U.S. President, United States Coast Guard, admiral_
 
 ### [Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed-spain-s-air-traffic-control-agency-aena-said.md)
-_Context: Aena, Canary Islands', Spanish_
+_Context: Aena, Canary Islands', Spain_
 
 ### [9 trapped miners found dead in coal gas leak in northwest China's Gansu Province Tuesday. ](/news/2010/05/11/9-trapped-miners-found-dead-in-coal-gas-leak-in-northwest-china-s-gansu-province-tuesday.md)
 _Context: China, Gansu province_
@@ -33,7 +33,7 @@ _Context: Lars Vilks, Swedish, Uppsala University, baton, headbutt, pepper spray
 ### [South Africa's team manager Sipho Nkumane and commercial director Victor Nosi are suspended by the South African Football Association (SAFA) one month before the start of the 2010 FIFA World Cup. ](/news/2010/05/11/south-africa-s-team-manager-sipho-nkumane-and-commercial-director-victor-nosi-are-suspended-by-the-south-african-football-association-safa.md)
 _Context: 2010 FIFA World Cup, Sipho Nkumane, South Africa national football team, South African Football Association, Victor Nosi_
 
-### [China cracks down on dissenters, banning two leading human rights lawyers from practicing and exiling a leading HIV/AIDS campaigner from the country. ](/news/2010/05/11/china-cracks-down-on-dissenters-banning-two-leading-human-rights-lawyers-from-practicing-and-exiling-a-leading-hiv-aids-campaigner-from-the.md)
+### [China cracks down on dissenters, banning two leading human rights lawyers from practicing and exiling a leading HIV-AIDS campaigner from the country. ](/news/2010/05/11/china-cracks-down-on-dissenters-banning-two-leading-human-rights-lawyers-from-practicing-and-exiling-a-leading-hiv-aids-campaigner-from-the.md)
 _Context: AIDS, China, Chinese human rights, dissident_
 
 ### [Pakistan's ambassador to Iran, Mohammad Bakhsh Abbasi, is hospitalised after becoming injured in an attack by an Afghan on his car in Tehran. ](/news/2010/05/11/pakistan-s-ambassador-to-iran-mohammad-bakhsh-abbasi-is-hospitalised-after-becoming-injured-in-an-attack-by-an-afghan-on-his-car-in-tehran.md)

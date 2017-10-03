@@ -12,7 +12,7 @@ _Context: 2007 Mideast peace conference, Syria_
 ### [ Croatia's opposition Social Democrats take a narrow lead on in a close national election, according to exit polls, after a campaign fought over corruption, the economy and future European Union membership. ](/news/2007/11/25/croatia-s-opposition-social-democrats-take-a-narrow-lead-on-in-a-close-national-election-according-to-exit-polls-after-a-campaign-fought.md)
 _Context: Croatia, EU, Social Democrats, in a close national election_
 
-### [ A wildfire in Malibu, California, destroys 51 structures, including 49 homes. The fire has also burned 4,720 acres (1,910 hectares) and caused the evacuation of 10,000 people. It is currently 40% contained, being fueled by Santa Ana winds that gusted up to 60 mph (96 km/h) on November 24. ](/news/2007/11/25/a-wildfire-in-malibu-california-destroys-51-structures-including-49-homes-the-fire-has-also-burned-4-720-acres-1-910-hectares-and-cau.md)
+### [ A wildfire in Malibu, California, destroys 51 structures, including 49 homes. The fire has also burned 4,720 acres (1,910 hectares) and caused the evacuation of 10,000 people. It is currently 40% contained, being fueled by Santa Ana winds that gusted up to 60 mph (96 km-h) on November 24. ](/news/2007/11/25/a-wildfire-in-malibu-california-destroys-51-structures-including-49-homes-the-fire-has-also-burned-4-720-acres-1-910-hectares-and-cau.md)
 _Context: Malibu, California, Santa Ana winds, wildfire_
 
 ### [ Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md)

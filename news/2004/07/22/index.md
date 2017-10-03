@@ -6,10 +6,10 @@ _Context: John Kerry, Washington DC, presidential candidate_
 ### [ Major North American brewers Coors and Molson announce they will go ahead with a proposed merger, creating the world's fifth-biggest brewing company. ](/news/2004/07/22/major-north-american-brewers-coors-and-molson-announce-they-will-go-ahead-with-a-proposed-merger-creating-the-world-s-fifth-biggest-brewin.md)
 _Context: Coors, Merger, Molson, brewing_
 
-### [ In the United States, the 9/11 Commission releases ](/news/2004/07/22/in-the-united-states-the-9-11-commission-releases.md)
+### [ In the United States, the 9-11 Commission releases ](/news/2004/07/22/in-the-united-states-the-9-11-commission-releases.md)
 _Context: 9/11 Commission_
 
-### [ The 9/11 Commission releases a transcript of the hijackers' conversation in the final moments of United Airlines Flight 93, which details how the hijackers forced the plane into the ground in Pennsylvania. ](/news/2004/07/22/the-9-11-commission-releases-a-transcript-of-the-hijackers-conversation-in-the-final-moments-of-united-airlines-flight-93-which-details-h.md)
+### [ The 9-11 Commission releases a transcript of the hijackers' conversation in the final moments of United Airlines Flight 93, which details how the hijackers forced the plane into the ground in Pennsylvania. ](/news/2004/07/22/the-9-11-commission-releases-a-transcript-of-the-hijackers-conversation-in-the-final-moments-of-united-airlines-flight-93-which-details-h.md)
 _Context: 9/11 Commission, Pennsylvania, United Airlines Flight 93_
 
 ### [ United States and Afghan forces kill 10 suspected Islamic militants and arrest five others. ](/news/2004/07/22/united-states-and-afghan-forces-kill-10-suspected-islamic-militants-and-arrest-five-others.md)
@@ -28,7 +28,7 @@ _Context: E. coli_
 _Context: Ankara, Istanbul, Pamukova, Sakarya Province, Turkey_
 
 ### [ Following Canadian Prime Minister Paul Martin's cabinet shuffle two days earlier, Leader of the Opposition Stephen Harper announces a reshuffled Conservative Shadow Cabinet. ](/news/2004/07/22/following-canadian-prime-minister-paul-martin-s-cabinet-shuffle-two-days-earlier-leader-of-the-opposition-stephen-harper-announces-a-reshu.md)
-_Context: Canadian Prime Minister, Conservative Party's, Leader of the Opposition, Paul Martin, Shadow Cabinet, Stephen Harper, reshuffle_
+_Context: Conservative Party's, Leader of the Opposition, Paul Martin, Prime Minister of Canada, Shadow Cabinet, Stephen Harper, reshuffle_
 
 ### [ Ignacio Carrill, the Special Prosecutor for Past Social and Political Movements in Mexico, presents the findings of the investigation into the "dirty war", where it classifies the killings by government forces as genocide, and requests warrants be issued for the arrest of former president Luis Echeverra and 11 other ex-government figures. ](/news/2004/07/22/ignacio-carrill-the-special-prosecutor-for-past-social-and-political-movements-in-mexico-presents-the-findings-of-the-investigation-into.md)
 _Context: Dirty War, Luis Echeverra, Mexico, genocide, prosecutor_

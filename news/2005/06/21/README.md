@@ -15,11 +15,11 @@ _Context: Israel, Kiryat Gat_
 ### [ At Stonehenge in England, some 19,000 people gather to celebrate the rising sun on the summer solstice.](/news/2005/06/21/at-stonehenge-in-england-some-19-000-people-gather-to-celebrate-the-rising-sun-on-the-summer-solstice.md)
 _Context: Stonehenge, summer solstice_
 
-### [ Clearup operation continues in North Yorkshire after the serious flash flooding on Sunday Night / Monday Morning. The towns of Thirsk, Helmsley and Hawnby were seriously affected, as were several villages when the rivers Swale and Rye burst their banks.](/news/2005/06/21/clearup-operation-continues-in-north-yorkshire-after-the-serious-flash-flooding-on-sunday-night-monday-morning-the-towns-of-thirsk-helm.md)
+### [ Clearup operation continues in North Yorkshire after the serious flash flooding on Sunday Night - Monday Morning. The towns of Thirsk, Helmsley and Hawnby were seriously affected, as were several villages when the rivers Swale and Rye burst their banks.](/news/2005/06/21/clearup-operation-continues-in-north-yorkshire-after-the-serious-flash-flooding-on-sunday-night-monday-morning-the-towns-of-thirsk-helm.md)
 _Context: Hawnby, Helmsley, North Yorkshire, Rye, Swale, Thirsk_
 
 ### [ In Manchester, UK, 30 police raid a house at 5 a.m. and arrest a 40-year-old man on suspicion of involvement in suicide bombings in Iraq. Another man resident in the same house is believed to have gone to Iraq in February to carry out a bombing. Last week, police in Spain and Germany also made arrests in connection with bombings in Iraq, but it is not known if the cases are related. ](/news/2005/06/21/in-manchester-uk-30-police-raid-a-house-at-5-a-m-and-arrest-a-40-year-old-man-on-suspicion-of-involvement-in-suicide-bombings-in-iraq-a.md)
-_Context: Germany, Iraq, Manchester, Spanish, United Kingdom, suicide bomb_
+_Context: Germany, Iraq, Manchester, Spain, United Kingdom, suicide bomb_
 
 ### [ New Zealand's telecoms network crashes for five hours when a rat chews one of the North Island's main fibre-optic cables at the same time as a workman damaged another cable in another part of the island. Mobile phone and Internet communications were badly affected, and the Stock Exchange had to close for several hours. ](/news/2005/06/21/new-zealand-s-telecoms-network-crashes-for-five-hours-when-a-rat-chews-one-of-the-north-island-s-main-fibre-optic-cables-at-the-same-time-a.md)
 _Context: New Zealand_
@@ -42,7 +42,7 @@ _Context: AIDS, Bulgaria, Kashiba Bulaya, Zambia, anti-retrovirus drug, bribe_
 ### [ A U.S. Court of Appeals struck down a regulation of the SEC designed to ensure an independent board of directors for mutual funds, holding that the SEC didn't comply with the requirements of the Administrative Procedures Act. ](/news/2005/06/21/a-u-s-court-of-appeals-struck-down-a-regulation-of-the-sec-designed-to-ensure-an-independent-board-of-directors-for-mutual-funds-holding.md)
 _Context: Administrative Procedures Act, Court of Appeals, board, mutual funds_
 
-### [ A hitherto unknown poem by Sappho was identified on an Oxyrhynchus papyrus by scholars of Cologne university, and published in the Times Literary Supplement [http://www.the-tls.co.uk/this_week/story.aspx?story_id=2111206].](/news/2005/06/21/a-hitherto-unknown-poem-by-sappho-was-identified-on-an-oxyrhynchus-papyrus-by-scholars-of-cologne-university-and-published-in-the-times-li.md)
+### [ A hitherto unknown poem by Sappho was identified on an Oxyrhynchus papyrus by scholars of Cologne university, and published in the Times Literary Supplement [http:--www.the-tls.co.uk-this_week-story.aspx?story_id=2111206].](/news/2005/06/21/a-hitherto-unknown-poem-by-sappho-was-identified-on-an-oxyrhynchus-papyrus-by-scholars-of-cologne-university-and-published-in-the-times-li.md)
 _Context: Cologne university, Oxyrhynchus, Sappho, Times Literary Supplement_
 
 ### [ The popular video game, Battlefield 2, was officially released.](/news/2005/06/21/the-popular-video-game-battlefield-2-was-officially-released.md)

@@ -1,6 +1,6 @@
 ## [2008-09-14](/news/2008/09/14/index.md)
 
-### [ The Georgian foreign ministry has released an official statement stating that 'In the villages of the Tskhinvali region/South Ossetia, Georgia, the separatist regime continues carrying out persecution of local Georgian population based on their ethnic origin', adding that 'Once again it becomes evident that for the Russian government the ethnic cleansing remains as one of the main methods for achieving its political goals'. ](/news/2008/09/14/the-georgian-foreign-ministry-has-released-an-official-statement-stating-that-in-the-villages-of-the-tskhinvali-region-south-ossetia-geor.md)
+### [ The Georgian foreign ministry has released an official statement stating that 'In the villages of the Tskhinvali region-South Ossetia, Georgia, the separatist regime continues carrying out persecution of local Georgian population based on their ethnic origin', adding that 'Once again it becomes evident that for the Russian government the ethnic cleansing remains as one of the main methods for achieving its political goals'. ](/news/2008/09/14/the-georgian-foreign-ministry-has-released-an-official-statement-stating-that-in-the-villages-of-the-tskhinvali-region-south-ossetia-geor.md)
 _Context: Georgian foreign ministry_
 
 ### [ The American International Group seeks an emergency $40 billion loan from the United States Federal Reserve. ](/news/2008/09/14/the-american-international-group-seeks-an-emergency-40-billion-loan-from-the-united-states-federal-reserve.md)

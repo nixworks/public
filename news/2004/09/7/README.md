@@ -1,6 +1,6 @@
 ## [2004-09-7](/news/2004/09/7/index.md)
 
-### [ The United States Congress returns from its summer vacation. Several new pieces of legislation, including a major intelligence reform bill, are in the works in response to the recommendations of the 9/11 Commission. ](/news/2004/09/7/the-united-states-congress-returns-from-its-summer-vacation-several-new-pieces-of-legislation-including-a-major-intelligence-reform-bill.md)
+### [ The United States Congress returns from its summer vacation. Several new pieces of legislation, including a major intelligence reform bill, are in the works in response to the recommendations of the 9-11 Commission. ](/news/2004/09/7/the-united-states-congress-returns-from-its-summer-vacation-several-new-pieces-of-legislation-including-a-major-intelligence-reform-bill.md)
 _Context: 9/11 Commission, United States Congress_
 
 ### [ Fighting between U.S. forces and Shia insurgents across Baghdad's Sadr City suburb has left at least 34 dead, including one American. The Associated Press reports that this death marks the 1,000th U.S. combat fatality in Iraq. ](/news/2004/09/7/fighting-between-u-s-forces-and-shia-insurgents-across-baghdad-s-sadr-city-suburb-has-left-at-least-34-dead-including-one-american-the-a.md)

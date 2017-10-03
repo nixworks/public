@@ -19,7 +19,7 @@ _Context: Eudy Simelane, KwaThema, South Africa, association football, lesbian_
 _Context: Barack Obama, Fidel Castro, President, U.S. President, United Nations General Assembly_
 
 ### [ One of the busiest border crossings between Mexico and the United States at San Ysidro is closed for hours after a gun battle between US agents and suspected human traffickers. ](/news/2009/09/23/one-of-the-busiest-border-crossings-between-mexico-and-the-united-states-at-san-ysidro-is-closed-for-hours-after-a-gun-battle-between-us-ag.md)
-_Context: Mexico, San Ysidro, U.S._
+_Context: Americans, Mexico, San Ysidro_
 
 ### [ A Scottish GBP1 banknote, dated 1836, sells for a world record GBP9,000 price at auction. ](/news/2009/09/23/a-scottish-agbp1-banknote-dated-1836-sells-for-a-world-record-agbp9-000-price-at-auction.md)
 _Context: Scotland_
@@ -46,7 +46,7 @@ _Context: India, Julia Roberts, Navratri_
 _Context: Germany, India, Moon, Switzerland, Turkey_
 
 ### [ Julio Alberto Poch, a Transavia commercial airline pilot, is arrested in Spain over his alleged role in Argentina's 1976&ndash;1983 "Dirty War". ](/news/2009/09/23/julio-alberto-poch-a-transavia-commercial-airline-pilot-is-arrested-in-spain-over-his-alleged-role-in-argentina-s-1976-ndash-1983-dirty.md)
-_Context: Argentina, Dirty War, Julio Alberto Poch, Spanish, Transavia_
+_Context: Argentina, Dirty War, Julio Alberto Poch, Spain, Transavia_
 
 ### [ In his first United Nations appearance, Libyan leader Muammar al-Gaddafi calls for reform of the Security Council and chastises the Council for failing to intervene or prevent some 65 wars since the U.N. was founded in 1945. ](/news/2009/09/23/in-his-first-united-nations-appearance-libyan-leader-muammar-al-gaddafi-calls-for-reform-of-the-security-council-and-chastises-the-council.md)
 In his first U.N. appearance, Libyan leader Moammar Gadhafi slams the Security Council and chastised the world body on Wednesday for failing to intervene or prevent some 65 wars.

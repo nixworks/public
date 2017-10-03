@@ -30,8 +30,8 @@ _Context: Areva, France, Mahamadou Issoufou, Niger, President of Niger, uranium 
 ### [Former UK government Minister Chris Huhne pleads guilty to perverting the course of justice over claims he caused his ex-wife to accept speeding points he had incurred. He also announces his intention to resign his House of Commons seat. ](/news/2013/02/4/former-uk-government-minister-chris-huhne-pleads-guilty-to-perverting-the-course-of-justice-over-claims-he-caused-his-ex-wife-to-accept-spee.md)
 Ex-cabinet minister Chris Huhne resigns as an MP after admitting he perverted the course of justice over claims his ex-wife took speeding points for him.
 
-### [Three people are injured after a stabbing on a subway platform in the Parsons/Archer subway station in Queens, New York City, United States. ](/news/2013/02/4/three-people-are-injured-after-a-stabbing-on-a-subway-platform-in-the-parsons-archer-subway-station-in-queens-new-york-city-united-states.md)
-_Context: New York City, Parsons/Archer subway station, Queens, U.S._
+### [Three people are injured after a stabbing on a subway platform in the Parsons-Archer subway station in Queens, New York City, United States. ](/news/2013/02/4/three-people-are-injured-after-a-stabbing-on-a-subway-platform-in-the-parsons-archer-subway-station-in-queens-new-york-city-united-states.md)
+_Context: Americans, New York City, Parsons/Archer subway station, Queens_
 
 ### [The death of Jimmy Lee Dykes results in the end of the 2013 Alabama bunker hostage crisis. ](/news/2013/02/4/the-death-of-jimmy-lee-dykes-results-in-the-end-of-the-2013-alabama-bunker-hostage-crisis.md)
 Authorities rescue five-year-old boy held in a bunker for seven days.

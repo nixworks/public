@@ -18,7 +18,7 @@ _Context: Guangdong, Lantern Festival, Puning_
 ### [A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. ](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-billion-in-direct-economic-loss-at-fanaga-village-of-luquan-county-near-kunming-capital.md)
 _Context: Fanaga village, Kunming, Luquan, Yunnan, yuan_
 
-### [Police in Turkey arrest at least 18 people in connection with an alleged coup plot. "[http://www.cnn.com/2010/WORLD/asiapcf/02/26/turkey.sledgehammer.arrests/index.html?hpt=Sbin (CNN)]"](/news/2010/02/27/police-in-turkey-arrest-at-least-18-people-in-connection-with-an-alleged-coup-plot-http-www-cnn-com-2010-world-asiapcf-02-26-turkey-sle.md)
+### [Police in Turkey arrest at least 18 people in connection with an alleged coup plot. "[http:--www.cnn.com-2010-WORLD-asiapcf-02-26-turkey.sledgehammer.arrests-index.html?hpt=Sbin (CNN)]"](/news/2010/02/27/police-in-turkey-arrest-at-least-18-people-in-connection-with-an-alleged-coup-plot-http-www-cnn-com-2010-world-asiapcf-02-26-turkey-sle.md)
 _Context: Turkey, coup_
 
 ### [Constitutional judges in Colombia reject a referendum to allow President lvaro Uribe to stand for a third term in office. ](/news/2010/02/27/constitutional-judges-in-colombia-reject-a-referendum-to-allow-president-alvaro-uribe-to-stand-for-a-third-term-in-office.md)

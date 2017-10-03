@@ -27,7 +27,7 @@ _Context: 2013 Italian parliamentary election, Italian Prime Minister, Italy, Ma
 ### [Massive Sunni-led demonstrations erupt across Iraq demanding the resignation of Prime Minister Nouri al-Maliki. ](/news/2012/12/28/massive-sunni-led-demonstrations-erupt-across-iraq-demanding-the-resignation-of-prime-minister-nouri-al-maliki.md)
 _Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, Sunni Muslim_
 
-### [A 17-year-old girl and Indian rape victim commits suicide after local police pressure her to marry her attacker. It echos with recent outcry over Indian police tolerance over rape in India. ([http://www.democracynow.org/2012/12/28/headlines#12289 DemocracyNow.org])](/news/2012/12/28/a-17-year-old-girl-and-indian-rape-victim-commits-suicide-after-local-police-pressure-her-to-marry-her-attacker-it-echos-with-recent-outcry.md)
+### [A 17-year-old girl and Indian rape victim commits suicide after local police pressure her to marry her attacker. It echos with recent outcry over Indian police tolerance over rape in India. ([http:--www.democracynow.org-2012-12-28-headlines#12289 DemocracyNow.org])](/news/2012/12/28/a-17-year-old-girl-and-indian-rape-victim-commits-suicide-after-local-police-pressure-her-to-marry-her-attacker-it-echos-with-recent-outcry.md)
 _Context: 2012 Delhi gang rape case, Indian rape_
 
 ## [Previous Day...](/news/2012/12/27/index.md)

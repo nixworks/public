@@ -43,7 +43,7 @@ _Context: Mohamed Nasheed, Mohammed Waheed Hassan, President, national unity gov
 _Context: Bharatiya Janata Party, C C Patil, India, J. Krishna Palemar, Karnataka, Laxman Savadi, Legislative Assembly_
 
 ### [The Washington State Legislature in the United States approves a bill that will allow same-sex marriage in the state. ](/news/2012/02/8/the-washington-state-legislature-in-the-united-states-approves-a-bill-that-will-allow-same-sex-marriage-in-the-state.md)
-_Context: U.S., Washington State Legislature, same-sex marriage_
+_Context: Americans, Washington State Legislature, same-sex marriage_
 
 ### [Wang Lijun, former police chief of the central Chinese city of Chongqing, unexpectedly leaves his position and goes to the Chongqing U.S. Consulate, sparking rumours of his political downfall. ](/news/2012/02/8/wang-lijun-former-police-chief-of-the-central-chinese-city-of-chongqing-unexpectedly-leaves-his-position-and-goes-to-the-chongqing-u-s-co.md)
 A top Chinese policeman in charge of a major crackdown on organised crime goes on leave, amid rumours of an investigation and a bid for asylum.
