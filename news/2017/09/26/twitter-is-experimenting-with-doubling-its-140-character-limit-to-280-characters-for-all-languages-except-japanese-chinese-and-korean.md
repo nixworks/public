@@ -17,3 +17,9 @@
 3. [The BBC plans to launch a service in Korean. ](/news/2017/09/25/the-bbc-plans-to-launch-a-service-in-korean.md) _Context: Korean_
 4. [Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton, after Shkreli posted on Twitter that he would offer $5,000 to anyone who could directly obtain a lock of Clinton's hair. Shkreli was convicted of fraud in August and is awaiting sentencing. ](/news/2017/09/13/former-businessman-martin-shkreli-has-his-bail-revoked-for-threatening-former-politician-hillary-clinton-after-shkreli-posted-on-twitter-th.md) _Context: Twitter_
 5. [U.S. President Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the United States Armed Forces. ](/news/2017/07/26/u-s-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-united-states-armed-forc.md) _Context: Twitter_
+
+### Changes:
+
+1. [Twitter announces that it'll double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-ll-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md) _2017-09-27 03:52:37 (First version)_
+2. [Twitter announces that it will double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-will-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md) _2017-09-27 15:30:06 (Update)_
+2. [Twitter is experimenting with doubling its 140 character limit to 280 characters for all languages except Japanese, Chinese and Korean. ](/news/2017/09/26/twitter-is-experimenting-with-doubling-its-140-character-limit-to-280-characters-for-all-languages-except-japanese-chinese-and-korean.md) _(Current version)_

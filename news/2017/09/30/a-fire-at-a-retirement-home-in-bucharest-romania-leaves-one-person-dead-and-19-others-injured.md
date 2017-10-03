@@ -17,3 +17,9 @@ Authorities in Romania say one person has died and 19 people were hospitalized f
 3. [An incident at a shooting range complex in Bucharest, Romania leaves two people dead. ](/news/2015/03/31/an-incident-at-a-shooting-range-complex-in-bucharest-romania-leaves-two-people-dead.md) _Context: Bucharest, Romania_
 4. [Chinese Premier Li Keqiang, arrives in Bucharest, Romania, to attend the China-Central and Eastern Europe (CEE) leaders' meeting as a guest of Romanian Prime Minister Victor Ponta. ](/news/2013/11/25/chinese-premier-li-keqiang-arrives-in-bucharest-romania-to-attend-the-china-central-and-eastern-europe-cee-leadersa-meeting-as-a-gues.md) _Context: Bucharest, Romania_
 5. [A diplomatic dispute between Romania and Hungary erupts as a Hungarian government official and the ambassador in Bucharest make commentaries that trigger large criticism from the Romanian side. ](/news/2013/02/7/a-diplomatic-dispute-between-romania-and-hungary-erupts-as-a-hungarian-government-official-and-the-ambassador-in-bucharest-make-commentaries.md) _Context: Bucharest, Romania_
+
+### Changes:
+
+1. [ A fire at a retirement home in Bucharest leaves one dead and 19 injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-leaves-one-dead-and-19-injured.md) _2017-09-30 17:30:06 (First version)_
+2. [A fire at a retirement home in Bucharest leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-leaves-one-person-dead-and-19-others-injured.md) _2017-10-01 06:30:05 (Update)_
+2. [A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romania-leaves-one-person-dead-and-19-others-injured.md) _(Current version)_
