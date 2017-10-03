@@ -12,11 +12,11 @@ _Context: Anglophone, Anglophone problem (Cameroon), Bamenda, Buea, Cameroon_
 ### [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md)
 The Islamic State group on Sunday seized a town in central Syria known as a symbol of religious coexistence in a surprise attack against regime forces, a monitor said.
 
-### [A gunman opens fire in Las Vegas, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 2 people dead and 26 others injuried. Authorities believe the lone gunman is dead. ](/news/2017/10/1/a-gunman-opens-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-outdoor-conce.md)
+### [A gunman opens fire in Las Vegas, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 2 people dead and 26 others injured. Authorities believe the lone gunman is dead. ](/news/2017/10/1/a-gunman-opens-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-outdoor-conce.md)
 In addition to the two fatalities, hospital officials said at least 24 people had been wounded after a gunman opened fire at a country music concert.
 
 ### [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md)
-_Context: Bankruptcy in the United Kingdom, Monarch Airlines, United Kingdom, bankruptcy_
+_Context: Monarch Airlines, United Kingdom, bankruptcy_
 
 ### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
 Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.

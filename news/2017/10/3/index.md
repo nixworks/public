@@ -1,7 +1,10 @@
 ## [2017-10-3](/news/2017/10/3/index.md)
 
-### [The Scottish Government announces a ban on the use of fracking in Scotland. ](/news/2017/10/3/the-scottish-government-announces-a-ban-on-the-use-of-fracking-in-scotland.md)
+### [The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the use of the process of hydraulic fracturing. ](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.md)
 Energy minister Paul Wheelhouse tells MSPs that fracking &quot;cannot and will not take place in Scotland&quot;.
+
+### [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-hekmati-a-u-s-marine-who-was-imprisoned-in-iran-as-a-f.md)
+_Context: $, Amir Hekmati, CIA, Ellen S. Huvelle, Iran, Iran-United States relations, U.S. District Court for the District of Columbia, U.S. Marine, default judgment, falsely accused, spy_
 
 ### [Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-independent-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octo.md)
 A general strike in Catalonia on Tuesday will likely bring much of the wealthy Spanish region to a standstill.
