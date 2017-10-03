@@ -23,8 +23,11 @@ Tom Petty, the dynamic Hall of Fame frontman who led the Heartbreakers, has died
 ### [The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.md)
 Scientists share prize awarded for discoveries of molecular mechanisms controlling circadian rhythms – the body’s inner clock – fundamental to human health
 
-### [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (j.m d 406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md)
-_Context: Egypt, Egypt-North Korea relations, North Korea, W, j.m_
+### [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md)
+_Context: EGBP, Egypt, Egypt-North Korea relations, North Korea, W_
+
+### [Thai Prime Minister Prayut Chan-o-cha meets with U.S. President Donald Trump in the Oval Office. Trump says he wants to lower the U.S. trade deficit with Thailand. ](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.md)
+_Context: Donald Trump, Oval Office, Prayut Chan-o-cha, Thai Prime Minister, Thailand, Thailand-United States relations, U.S. trade deficit_
 
 ### [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public events, meetings, protests. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.md)
 Russian blogger turned opposition figure Aleksey Navalny has been found guilty of repeatedly violating the law by organizing unauthorized public events, meetings or protests. He is now to be placed under administrative arrest for 20 days.

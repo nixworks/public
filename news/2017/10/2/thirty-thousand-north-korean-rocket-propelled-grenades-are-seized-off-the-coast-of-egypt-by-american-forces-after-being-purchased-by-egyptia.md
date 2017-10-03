@@ -1,6 +1,6 @@
 ### [2017-10-2](/news/2017/10/2/index.md)
 
-# Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (j.m d 406 million-W20 billion). 
+# Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). 
 
 
 
