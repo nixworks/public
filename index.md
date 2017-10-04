@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/4/index.md)
 
-### [Jacques Dubochet, Joachim Frank and Richard Henderson are awarded the prize for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution. ](/news/2017/10/4/jacques-dubochet-joachim-frank-and-richard-henderson-are-awarded-the-prize-for-developing-cryo-electron-microscopy-for-the-high-resolution.md)
+### [The Nobel Prize committee awards Swiss Jacques Dubochet, German Joachim Frank, and Richard Henderson the Nobel prize for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution. ](/news/2017/10/4/the-nobel-prize-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-richard-henderson-the-nobel-prize-for-developing-cryo-ele.md)
 This year’s prize has been awarded for developing cryo-electron microscopy for the high resolution structure determination of biomolecules in solution – join us live for all the news and reaction
 
 ## Opinion
@@ -30,13 +30,13 @@ The Trump administration on Tuesday ordered the expulsion of 15 Cuban diplomats 
 A general strike in Catalonia on Tuesday will likely bring much of the wealthy Spanish region to a standstill.
 
 ### [Former Prime Minister of Portugal Pedro Passos Coelho steps down as the leader of the opposition Social Democratic Party in local elections. ](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.md)
-_Context: Pedro Passos Coelho, Prime Minister of Portugal, Social Democratic Party_
+_Context: Pedro Passos Coelho, Politics of Portugal, Prime Minister of Portugal, Social Democratic Party_
 
 ### [The U.S. House of Representatives passes legislation (Pain-Capable Unborn Child Protection Act) which would criminalize abortions made 20 weeks into a pregnancy, except for cases endangering the mother's life, rape, or incest. ](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.md)
 _Context: Abortion in the United States, U.S. House of Representatives_
 
 ### [Former President of Iraq, Jalal Talabani, dies at the age of 83. He was the first non-Arab president of Iraq.](/news/2017/10/3/former-president-of-iraq-jalal-talabani-dies-at-the-age-of-83-he-was-the-first-non-arab-president-of-iraq.md)
-_Context: Jalal Talabani, President of Iraq_
+_Context: Jalal Talabani, Politics of Iraq, President of Iraq_
 
 ### [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md)
 Rainer Weiss, Barry C. Barish and Kip S. Thorne have won the 2017 Nobel Prize in physics for detection of black hole collisions that created gravitational waves. The LIGO and Virgo detectors in the United States and Italy were used to conduct the research.
