@@ -14,7 +14,10 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the process of hydraulic fracturing. ](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.md)
 Energy minister Paul Wheelhouse tells MSPs that fracking &quot;cannot and will not take place in Scotland&quot;.
 
-### [Puerto Rico Governor Ricardo Rossello's office reports hurricane-related deaths have more than doubled to 34. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-hurricane-related-deaths-have-more-than-doubled-to-34.md)
+### [Yahoo! reports that all three billion of its accounts were hacked in the August 2013 data theft. ](/news/2017/10/3/yahoo-reports-that-all-three-billion-of-its-accounts-were-hacked-in-the-august-2013-data-theft.md)
+Yahoo on Tuesday said that all 3 billion of its accounts were hacked in a 2013 data theft, tripling its earlier estimate of the size of the largest breach in history, in a disclosure that attorneys said sharply increased the legal exposure of its new owner, Verizon Communications Inc (VZ.N).
+
+### [Puerto Rico Governor Ricardo Rossello's office reports hurricane-related deaths are now 34 people. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-hurricane-related-deaths-are-now-34-people.md)
 The death toll in Puerto Rico from Hurricane Maria has more than doubled to 34, a spokesman for Governor Ricardo Rosello said on Tuesday.
 
 ### [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md)
@@ -26,8 +29,17 @@ The Trump administration on Tuesday ordered the expulsion of 15 Cuban diplomats 
 ### [Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-independent-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octo.md)
 A general strike in Catalonia on Tuesday will likely bring much of the wealthy Spanish region to a standstill.
 
+### [Former Prime Minister of Portugal Pedro Passos Coelho steps down as the leader of the opposition Social Democratic Party in local elections. ](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.md)
+_Context: Pedro Passos Coelho, Prime Minister of Portugal, Social Democratic Party_
+
+### [The U.S. House of Representatives passes legislation which would criminalize abortions made 20 weeks into a pregnancy, except for cases endangering the mother's life, rape, or incest. ](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-which-would-criminalize-abortions-made-20-weeks-into-a-pregnancy-except-for-cases-enda.md)
+_Context: Abortion in the United States, U.S. House of Representatives_
+
+### [Jalal Talabani, former President of Iraq, dies at the age of 83. ](/news/2017/10/3/jalal-talabani-former-president-of-iraq-dies-at-the-age-of-83.md)
+_Context: Jalal Talabani, President of Iraq_
+
 ### [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md)
-Rainer Weiss, Barry C. Barish and Kip S. Thorne have won the 2017 Nobel Prize in physics for detection of black hole collisions that created gravitational waves. The LIGO and Virgo detectors in the U.S. and Italy were used to conduct the research.
+Rainer Weiss, Barry C. Barish and Kip S. Thorne have won the 2017 Nobel Prize in physics for detection of black hole collisions that created gravitational waves. The LIGO and Virgo detectors in the United States and Italy were used to conduct the research.
 
 ---
 

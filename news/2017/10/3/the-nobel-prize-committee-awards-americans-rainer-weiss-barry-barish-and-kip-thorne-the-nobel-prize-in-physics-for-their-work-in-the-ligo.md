@@ -2,13 +2,13 @@
 
 # The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. 
 
-Rainer Weiss, Barry C. Barish and Kip S. Thorne have won the 2017 Nobel Prize in physics for detection of black hole collisions that created gravitational waves. The LIGO and Virgo detectors in the U.S. and Italy were used to conduct the research.
+Rainer Weiss, Barry C. Barish and Kip S. Thorne have won the 2017 Nobel Prize in physics for detection of black hole collisions that created gravitational waves. The LIGO and Virgo detectors in the United States and Italy were used to conduct the research.
 
 
 ### Source:
 
 1. [Nobel Prize.org](https://www.nobelprize.org/nobel_prizes/physics/)
-2. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/10/03/nobel-prize-in-physics-won-by-rainer-weiss-barry-barish-and-kip-thorne/?deferJs=true&outputType=default-article&utm_term=.64ba59e67baf&wpisrc=al_alert-COMBO-hse%252Bnational&wpmk=1)
+2. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/10/03/nobel-prize-in-physics-won-by-rainer-weiss-barry-barish-and-kip-thorne/)
 2. [Cover Image](http://www.nobelprize.org/nobel_prizes/physics/images/landingpage/supernova.jpg)
 
 ### Related:
