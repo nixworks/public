@@ -1,6 +1,6 @@
 ### [2017-10-3](/news/2017/10/3/index.md)
 
-# The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious sonic attacks. 
+# The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. 
 
 The Trump administration on Tuesday ordered the expulsion of 15 Cuban diplomats after pulling more than half of its own embassy staff out of Havana last week, drawing an angry protest from the Cuban government.
 

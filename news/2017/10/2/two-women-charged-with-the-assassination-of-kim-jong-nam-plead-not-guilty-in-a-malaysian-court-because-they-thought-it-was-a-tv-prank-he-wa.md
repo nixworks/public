@@ -1,6 +1,6 @@
 ### [2017-10-2](/news/2017/10/2/index.md)
 
-# Two Women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. He was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. 
+# Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. He was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. 
 
 
 
@@ -21,4 +21,4 @@
 ### Changes:
 
 1. [Two Women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank.md) _2017-10-03 20:30:06 (First version)_
-1. [Two Women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. He was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-he-wa.md) _(Current version)_
+1. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. He was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-he-wa.md) _(Current version)_

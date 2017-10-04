@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/4/index.md)
 
-### [The Nobel Prize committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in solution. ](/news/2017/10/4/the-nobel-prize-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-fo.md)
+### [The Nobel Prize committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-prize-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-fo.md)
 This year’s prize has been awarded for developing cryo-electron microscopy for the high resolution structure determination of biomolecules in solution – join us live for all the news and reaction
 
 ## Opinion
@@ -23,7 +23,7 @@ The death toll in Puerto Rico from Hurricane Maria has more than doubled to 34, 
 ### [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md)
 _Context: $, Amir Mirza Hekmati, CIA, Ellen S. Huvelle, Iran, Iran-United States relations, U.S. District Court for the District of Columbia, U.S. Marine, default judgment, falsely accused, spy_
 
-### [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious sonic attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md)
+### [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md)
 The Trump administration on Tuesday ordered the expulsion of 15 Cuban diplomats after pulling more than half of its own embassy staff out of Havana last week, drawing an angry protest from the Cuban government.
 
 ### [Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-independent-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octo.md)
@@ -40,6 +40,9 @@ _Context: Jalal Talabani, Politics of Iraq, President of Iraq_
 
 ### [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md)
 Rainer Weiss, Barry C. Barish and Kip S. Thorne have won the 2017 Nobel Prize in physics for detection of black hole collisions that created gravitational waves. The LIGO and Virgo detectors in the United States and Italy were used to conduct the research.
+
+### [The Islamic State group releases video footage of two Russian soldiers it has captured. However, the Russian Federation denies the claims. ](/news/2017/10/3/the-islamic-state-group-releases-video-footage-of-two-russian-soldiers-it-has-captured-however-the-russian-federation-denies-the-claims.md)
+In the video, a man identifies himself and a companion as Russian soldiers captured by ISIS during a counteroffensive against Syrian troops in Deir Ezzor.
 
 ---
 
@@ -69,7 +72,7 @@ Russian blogger turned opposition figure Aleksey Navalny has been found guilty o
 ### [Ecuador's Supreme Court orders that Vice President Jorge Glas be jailed for his alleged acceptance of bribes from the Odebrecht construction company. Prior to this, Glas had been free but barred from leaving the country. ](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.md)
  QUITO, Ecuador (AP) — Ecuador&#39;s Vice President Jorge Glas was jailed Monday after the Supreme Court ordered his arrest while he is investigated for allegedly taking bribes from a 
 
-### [Two Women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. He was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-he-wa.md)
+### [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. He was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-he-wa.md)
 _Context: Assassination of Kim Jong-nam, Kim Jong-il, Kim Jong-nam, Kim Jong-un, Malaysia, North Korea_
 
 ### [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md)

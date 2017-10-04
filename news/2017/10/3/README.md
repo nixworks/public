@@ -12,7 +12,7 @@ The death toll in Puerto Rico from Hurricane Maria has more than doubled to 34, 
 ### [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md)
 _Context: $, Amir Mirza Hekmati, CIA, Ellen S. Huvelle, Iran, Iran-United States relations, U.S. District Court for the District of Columbia, U.S. Marine, default judgment, falsely accused, spy_
 
-### [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious sonic attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md)
+### [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md)
 The Trump administration on Tuesday ordered the expulsion of 15 Cuban diplomats after pulling more than half of its own embassy staff out of Havana last week, drawing an angry protest from the Cuban government.
 
 ### [Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-independent-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octo.md)
@@ -29,6 +29,9 @@ _Context: Jalal Talabani, Politics of Iraq, President of Iraq_
 
 ### [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md)
 Rainer Weiss, Barry C. Barish and Kip S. Thorne have won the 2017 Nobel Prize in physics for detection of black hole collisions that created gravitational waves. The LIGO and Virgo detectors in the United States and Italy were used to conduct the research.
+
+### [The Islamic State group releases video footage of two Russian soldiers it has captured. However, the Russian Federation denies the claims. ](/news/2017/10/3/the-islamic-state-group-releases-video-footage-of-two-russian-soldiers-it-has-captured-however-the-russian-federation-denies-the-claims.md)
+In the video, a man identifies himself and a companion as Russian soldiers captured by ISIS during a counteroffensive against Syrian troops in Deir Ezzor.
 
 ## [Previous Day...](/news/2017/10/2/index.md)
 
