@@ -6,7 +6,7 @@ Energy minister Paul Wheelhouse tells MSPs that fracking &quot;cannot and will n
 ### [Yahoo! reports that all three billion of its accounts were hacked in the August 2013 data theft. ](/news/2017/10/3/yahoo-reports-that-all-three-billion-of-its-accounts-were-hacked-in-the-august-2013-data-theft.md)
 Yahoo on Tuesday said that all 3 billion of its accounts were hacked in a 2013 data theft, tripling its earlier estimate of the size of the largest breach in history, in a disclosure that attorneys said sharply increased the legal exposure of its new owner, Verizon Communications Inc (VZ.N).
 
-### [Puerto Rico Governor Ricardo Rossello's office reports hurricane-related deaths are now 34 people. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-hurricane-related-deaths-are-now-34-people.md)
+### [Puerto Rico Governor Ricardo Rossello's office reports that the number of deaths related to Hurricane Maria has risen to 34. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.md)
 The death toll in Puerto Rico from Hurricane Maria has more than doubled to 34, a spokesman for Governor Ricardo Rosello said on Tuesday.
 
 ### [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md)
