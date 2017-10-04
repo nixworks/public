@@ -6,7 +6,7 @@ _Context: Battle of Hawija, Hawija, ISIL, Iraq, Iraqi Army, Kirkuk Governorate_
 ### [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and face his life sentence prison term for four murders in the 1970's. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md)
 Brazilian police detained Cesare Battisti, an Italian former left-wing guerrilla convicted of murder in his country, on Wednesday as he was attempting to cross the border into Bolivia, a federal police spokesman said.
 
-### [Spanish Prime Minister Mariano Rajoy sends the Spanish Legion Logistic Support Group of armed forces into Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-sends-the-spanish-legion-logistic-support-group-of-armed-forces-into-catalonia-to-support-riot-police-i.md)
+### [Spanish Prime Minister Mariano Rajoy deploys the 41st Logistic Support Group of the Spanish Armed Forces in Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-deploys-the-41st-logistic-support-group-of-the-spanish-armed-forces-in-catalonia-to-support-riot-police.md)
 SPAIN has sent in the army to support the Barcelona riot cops despite the Catalan leader’s fiery warning for Madrid not to interfere. Commanders deployed troops from the Logistic Support Group 41 (…
 
 ### [The Nobel Prize committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-prize-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-fo.md)
@@ -20,7 +20,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/10/3/index.md)
 
-### [ISIL releases video footage of two injured Russian soldiers it captured. However, the Russian Federation denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-injured-russian-soldiers-it-captured-however-the-russian-federation-denies-the-claims.md)
+### [ISIL releases video footage of two alleged Russian soldiers it captured. However, the Russian Federation denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-the-russian-federation-denies-the-claims.md)
 In the video, a man identifies himself and a companion as Russian soldiers captured by ISIS during a counteroffensive against Syrian troops in Deir Ezzor.
 
 ### [The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the process of hydraulic fracturing. ](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.md)
