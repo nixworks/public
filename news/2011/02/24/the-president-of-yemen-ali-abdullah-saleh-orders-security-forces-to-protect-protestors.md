@@ -18,3 +18,9 @@
 3. [Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/government-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _Context: President, Saleh_
 4. [Large explosions are reported in the Yemeni capital of Sana'a in the midst of ongoing protests against President Ali Abdullah Saleh; opposition forces claim that the violence threatens to escalate into a civil war. ](/news/2011/05/26/large-explosions-are-reported-in-the-yemeni-capital-of-sana-a-in-the-midst-of-ongoing-protests-against-president-ali-abdullah-saleh-opposit.md) _Context: President, Saleh_
 5. [2011 Yemeni uprising:The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/2011-yemeni-uprising-the-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-refuses-to-sign-a-t.md) _Context: President, Saleh_
+
+### Changes:
+
+1. [2011 Yemeni protests:The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/2011-yemeni-protests-pthe-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _2017-08-25 03:32:19 (First version)_
+2. [2011 Yemeni protests:: The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/2011-yemeni-protests-the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _2017-08-27 03:32:28 (Update)_
+2. [The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _(Current version)_

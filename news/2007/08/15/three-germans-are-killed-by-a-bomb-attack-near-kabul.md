@@ -17,3 +17,9 @@
 3. [German troops kill at least five Afghan soldiers in a friendly fire incident north of the capital Kabul. ](/news/2010/04/3/german-troops-kill-at-least-five-afghan-soldiers-in-a-friendly-fire-incident-north-of-the-capital-kabul.md) _Context: Germany, Kabul_
 4. [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md) _Context: Germany_
 5. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: Germany_
+
+### Changes:
+
+1. [ War in Afghanistan: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-p-three-germans-are-killed-by-a-bomb-attack-near-kabul.md) _2017-08-25 03:20:35 (First version)_
+2. [ War in Afghanistan:: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-three-germans-are-killed-by-a-bomb-attack-near-kabul.md) _2017-08-27 03:20:32 (Update)_
+2. [ Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/three-germans-are-killed-by-a-bomb-attack-near-kabul.md) _(Current version)_

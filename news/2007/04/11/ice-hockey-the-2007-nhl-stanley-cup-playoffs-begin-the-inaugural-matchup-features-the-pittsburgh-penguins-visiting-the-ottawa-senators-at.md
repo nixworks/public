@@ -12,3 +12,8 @@
 3. [ The Detroit Red Wings defeat the Pittsburgh Penguins 3-2 in the sixth game to win the 2008 Stanley Cup Finals 4-2. ](/news/2008/06/4/the-detroit-red-wings-defeat-the-pittsburgh-penguins-3-2-in-the-sixth-game-to-win-the-2008-stanley-cup-finals-4-2.md) _Context: Pittsburgh Penguins_
 4. [ Rioting breaks out in Montreal after the Montreal Canadiens of the NHL win their first round playoff series against the Boston Bruins. Several police cars are torched, but there are no reports of any serious injuries. ](/news/2008/04/21/rioting-breaks-out-in-montreal-after-the-montreal-canadiens-of-the-nhl-win-their-first-round-playoff-series-against-the-boston-bruins-seve.md) _Context: NHL_
 5. [ The Anaheim Ducks defeat the Ottawa Senators to win the Stanley Cup in five games. ](/news/2007/06/6/the-anaheim-ducks-defeat-the-ottawa-senators-to-win-the-stanley-cup-in-five-games.md) _Context: Ottawa Senators_
+
+### Changes:
+
+1. [ Ice hockey: The 2007 NHL Stanley Cup Playoffs begin. The inaugural matchup features the Pittsburgh Penguins visiting the Ottawa Senators at Scotiabank Place in Ottawa, Ontario.](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-begin-the-inaugural-matchup-features-the-pittsburgh-penguins-visiting-the-ottawa-senators-a.md) _2017-08-25 03:19:34 (First version)_
+1. [ Ice hockey: The 2007 NHL Stanley Cup Playoffs begin. The inaugural matchup features the Pittsburgh Penguins visiting the Ottawa Senators at Scotiabank Place in Ottawa, Ontario.](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-begin-the-inaugural-matchup-features-the-pittsburgh-penguins-visiting-the-ottawa-senators-at.md) _(Current version)_

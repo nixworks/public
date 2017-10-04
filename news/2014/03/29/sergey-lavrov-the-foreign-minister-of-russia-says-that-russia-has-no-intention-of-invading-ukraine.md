@@ -17,3 +17,9 @@
 3. [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md) _Context: Russia, Ukraine_
 4. [ Russia and the United States will continue talks on Aleppo after talks between the U.S. Secretary of State John Kerry and Foreign Minister Sergey Lavrov. ](/news/2016/12/9/russia-and-the-united-states-will-continue-talks-on-aleppo-after-talks-between-the-u-s-secretary-of-state-john-kerry-and-foreign-minister.md) _Context: Russia, Sergey Lavrov_
 5. [The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _Context: Russia, Ukraine_
+
+### Changes:
+
+1. [2014 Crimean crisis:Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/2014-crimean-crisis-psergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md) _2017-08-25 03:40:14 (First version)_
+2. [2014 Crimean crisis:: Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/2014-crimean-crisis-sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md) _2017-08-27 03:40:32 (Update)_
+2. [Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md) _(Current version)_

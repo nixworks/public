@@ -18,3 +18,9 @@ Two Nigerian politicians die during an attack by gunmen on a funeral for victims
 3. [The death toll from recent violence between Christians and Muslims in Jos, Nigeria, rises to 80. Islamist group Boko Haram claims responsibility for the deadly Christmas Eve bombings in the city. ](/news/2010/12/28/the-death-toll-from-recent-violence-between-christians-and-muslims-in-jos-nigeria-rises-to-80-islamist-group-boko-haram-claims-responsibi.md) _Context: Christian, Nigeria_
 4. [Hundreds of Christian villagers are hacked to death with machetes by Muslim herders in Dogo-Nahawa, Nigeria. ](/news/2010/03/7/hundreds-of-christian-villagers-are-hacked-to-death-with-machetes-by-muslim-herders-in-dogo-nahawa-nigeria.md) _Context: Christian, Nigeria_
 5. [At least 149 people are killed in two days of violence between Christians and Muslims in the Nigerian city of Jos. ](/news/2010/01/19/at-least-149-people-are-killed-in-two-days-of-violence-between-christians-and-muslims-in-the-nigerian-city-of-jos.md) _Context: Christian, Nigeria_
+
+### Changes:
+
+1. [Nigeria violence:Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-pgunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md) _2017-08-25 03:36:04 (First version)_
+2. [Nigeria violence:: Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-gunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md) _2017-08-27 03:36:15 (Update)_
+2. [Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/gunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md) _(Current version)_

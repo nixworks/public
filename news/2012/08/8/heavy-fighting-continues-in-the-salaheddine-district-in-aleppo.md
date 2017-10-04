@@ -16,3 +16,9 @@ Jordan says Riyad Hijab and his family arrived Wednesday, contradicting earlier 
 3. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo_
 4. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Aleppo_
 5. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo_
+
+### Changes:
+
+1. [Syrian civil war:Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/syrian-civil-war-pheavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md) _2017-08-25 03:36:14 (First version)_
+2. [Syrian civil war:: Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/syrian-civil-war-heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md) _2017-08-27 03:36:25 (Update)_
+2. [Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md) _(Current version)_

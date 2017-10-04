@@ -18,3 +18,8 @@ Hackers disruptedPalestinian Internet services in the West Bank and Gaza Strip o
 3. [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-kraka3w-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md) _Context: UNESCO_
 4. [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking a rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority. ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-a-rare-cooperation-between-iran-israel-turkey-and-the-palestin.md) _Context: Palestinian Authority_
 5. [Yoga, rumba and Nowruz are classified as 'treasures' by UNESCO. ](/news/2016/12/1/yoga-rumba-and-nowruz-are-classified-as-treasures-by-unesco.md) _Context: UNESCO_
+
+### Changes:
+
+1. [The Palestinian Authority is hit by hackers disrupting Palestinian internet and mobile phone services. A link has been suggested to Palestine's UNESCO bid. ](/news/2011/11/1/the-palestinian-authority-is-hit-by-hackers-disrupting-palestinian-internet-and-mobile-phone-services-a-link-has-been-suggested-to-palesti.md) _2017-08-25 03:34:25 (First version)_
+1. [The Palestinian Authority is hit by hackers disrupting Palestinian internet and mobile phone services. A link has been suggested to Palestine's UNESCO bid. ](/news/2011/11/1/the-palestinian-authority-is-hit-by-hackers-disrupting-palestinian-internet-and-mobile-phone-services-a-link-has-been-suggested-to-palestin.md) _(Current version)_

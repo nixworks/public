@@ -18,3 +18,8 @@ Bernie Sanders beats Hillary Clinton in the Maine caucuses, the latest contest i
 3. [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md) _Context: Marco Rubio, Republican, United States presidential election, 2016_
 4. [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md) _Context: Marco Rubio, Republican_
 5. [Republican campaign manager Kellyanne Conway dismisses allegations of Russian interference in the 2016 U.S. presidential election, calling the claims "laughable and ridiculous". ](/news/2016/12/11/republican-campaign-manager-kellyanne-conway-dismisses-allegations-of-russian-interference-in-the-2016-u-s-presidential-election-calling-t.md) _Context: Republican, United States presidential election, 2016_
+
+### Changes:
+
+1. [United States presidential election, 2016: Marco Rubio wins the Puerto Rican Republican Party primary. ](/news/2016/03/6/united-states-presidential-election-2016-marco-rubio-wins-the-puerto-rican-republican-party-primary.md) _2017-08-27 03:45:09 (First version)_
+1. [Marco Rubio wins the Puerto Rican Republican Party primary. ](/news/2016/03/6/marco-rubio-wins-the-puerto-rican-republican-party-primary.md) _(Current version)_

@@ -1,10 +1,10 @@
 ## [2003-03-16](/news/2003/03/16/index.md)
 
 ### [ The United States Department of State ordered non-essential diplomats and embassy dependents out of Kuwait, Tel Aviv, Jerusalem and Damascus.](/news/2003/03/16/the-united-states-department-of-state-ordered-non-essential-diplomats-and-embassy-dependents-out-of-kuwait-tel-aviv-jerusalem-and-damascu.md)
-_Context: Damascus, Jerusalem, Kuwait, Tel Aviv, U.S. State Department, diplomat, embassies_
+_Context: Damascus, Department of State, Jerusalem, Kuwait, Tel Aviv, diplomat, embassies_
 
 ### [ U.S. President George W. Bush, U.K. Prime Minister Tony Blair, and Spanish Prime Minister Jose Maria Aznar meet in the Azores, Portugal for a summit on the Iraq disarmament crisis. One British official describes the meeting as the "last chance for diplomacy." In a press conference at the end of the meeting, President Bush states that "We concluded that tomorrow is a moment of truth for the world".](/news/2003/03/16/u-s-president-george-w-bush-u-k-prime-minister-tony-blair-and-spanish-prime-minister-josa-c-maraa-aznar-meet-in-the-azores-portugal-f.md)
-_Context: Azores, George W. Bush, Iraq disarmament crisis, Jose Maria Aznar, Politics of Spain, Prime Minister, Tony Blair_
+_Context: Azores, George W. Bush, Iraq disarmament crisis, Jose Maria Aznar, Prime Minister, Prime Minister, Tony Blair_
 
 ### [ Israeli-Palestinian conflict: Rachel Corrie, a college student from Olympia, Washington and member of the Palestinian International Solidarity Movement, is killed by an Israeli bulldozer when she tries to prevent it as a human shield from demolishing the house of the Palestinian Dr. Samir Masri.](/news/2003/03/16/israeli-palestinian-conflict-rachel-corrie-a-college-student-from-olympia-washington-and-member-of-the-palestinian-international-solidar.md)
 _Context: International Solidarity Movement, Israeli-Palestinian conflict, Olympia, Rachel Corrie, human shield_

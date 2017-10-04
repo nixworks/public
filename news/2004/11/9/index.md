@@ -19,7 +19,7 @@ _Context: Fallujah, Iraq, Iyad Allawi, Prime Minister, hostage_
 _Context: First Minister, Jack McConnell, Scotland, Scottish National Party, Scottish Parliament, smoking ban_
 
 ### [ The euro reaches a new record high against the United States dollar, valued at more than $1.30. Concerns over the U.S. trade deficit, the $427 billion budget deficit and $166 billion current account deficit are thought to be behind the dollar's recent losses. ](/news/2004/11/9/the-euro-reaches-a-new-record-high-against-the-united-states-dollar-valued-at-more-than-1-30-concerns-over-the-u-s-trade-deficit-the.md)
-_Context: EUR, US$, budget deficit, trade deficit_
+_Context: $, EUR, budget deficit, trade deficit_
 
 ### [ The Association of International Educators reports that the number of foreign graduate students in the U.S. has fallen. ](/news/2004/11/9/the-association-of-international-educators-reports-that-the-number-of-foreign-graduate-students-in-the-u-s-has-fallen.md)
 _Context: Association of International Educators_

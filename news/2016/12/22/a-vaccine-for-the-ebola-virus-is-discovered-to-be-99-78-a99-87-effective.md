@@ -17,3 +17,8 @@ The results are in from the clinical trials of a new vaccine — and it looks li
 3. [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md) _Context: ebola virus_
 4. [The World Health Organization declares that the outbreak of the Ebola virus has ceased in Liberia after weeks of no cases there. ](/news/2015/05/9/the-world-health-organization-declares-that-the-outbreak-of-the-ebola-virus-has-ceased-in-liberia-after-weeks-of-no-cases-there.md) _Context: ebola virus_
 5. [North Korea lifts restrictions on entry into the country imposed ostensibly to stop the spread of the Ebola virus. ](/news/2015/03/3/north-korea-lifts-restrictions-on-entry-into-the-country-imposed-ostensibly-to-stop-the-spread-of-the-ebola-virus.md) _Context: ebola virus_
+
+### Changes:
+
+1. [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-99-87-effective.md) _2017-08-27 03:47:30 (First version)_
+1. [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-a99-87-effective.md) _(Current version)_

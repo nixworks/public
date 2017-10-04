@@ -17,3 +17,8 @@
 3. [Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/typhoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-the-philippines-with-eight-missi.md) _Context: China, Typhoon Rammasun (Glenda), Vietnam_
 4. [Vietnam seizes a Chinese fishing vessel for intruding in its waters and tows the vessel to the port of Hai Phong. ](/news/2016/04/4/vietnam-seizes-a-chinese-fishing-vessel-for-intruding-in-its-waters-and-tows-the-vessel-to-the-port-of-hai-phong.md) _Context: China, Vietnam_
 5. [Vietnam is reported to be preparing for a possible military conflict with China over territorial claims in the South China Sea. ](/news/2015/12/20/vietnam-is-reported-to-be-preparing-for-a-possible-military-conflict-with-china-over-territorial-claims-in-the-south-china-sea.md) _Context: China, Vietnam_
+
+### Changes:
+
+1. [2014 Pacific typhoon season: The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/2014-pacific-typhoon-season-the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md) _2017-08-27 03:41:01 (First version)_
+1. [The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md) _(Current version)_

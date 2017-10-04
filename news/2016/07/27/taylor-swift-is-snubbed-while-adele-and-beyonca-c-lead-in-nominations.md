@@ -18,3 +18,8 @@ If winning an MTV Video Music Award was a squad goal for Taylor Swift this year,
 3. [The 2016 Brit Awards are held at The O2 in London with James Bay, Adele, Tame Impala, Justin Bieber, Bjork, and Coldplay all winning their respective categories. Adele won four awards in total. ](/news/2016/02/24/the-2016-brit-awards-are-held-at-the-o2-in-london-with-james-bay-adele-tame-impala-justin-bieber-bjork-and-coldplay-all-winning-their-r.md) _Context: Adele_
 4. [British singer Adele's album "25" is released. ](/news/2015/11/21/british-singer-adele-s-album-25-is-released.md) _Context: Adele_
 5. [Adele's "Hello" beats Miley Cyrus's "Wrecking Ball" as the fastest video on Vevo to reach 100 million views and is also certified as the official Vevo Record holder. ](/news/2015/10/29/adele-s-hello-beats-miley-cyrus-s-wrecking-ball-as-the-fastest-video-on-vevo-to-reach-100-million-views-and-is-also-certified-as-the-off.md) _Context: Adele_
+
+### Changes:
+
+1. [2016 MTV Video Music Awards: Taylor Swift is snubbed while Adele and Beyonce lead in nominations. ](/news/2016/07/27/2016-mtv-video-music-awards-taylor-swift-is-snubbed-while-adele-and-beyonca-c-lead-in-nominations.md) _2017-08-27 03:46:33 (First version)_
+1. [Taylor Swift is snubbed while Adele and Beyonce lead in nominations. ](/news/2016/07/27/taylor-swift-is-snubbed-while-adele-and-beyonca-c-lead-in-nominations.md) _(Current version)_

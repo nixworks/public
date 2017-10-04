@@ -16,3 +16,9 @@
 3. [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md) _Context: Mogadishu_
 4. [A suicide bomber explodes a car bomb near a hotel, al-Shabaab militants then storm the hotel and a pizza restaurant, killing least 20 people and taking others hostage, in Somalia's capital Mogadishu. All five attackers are later killed. ](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.md) _Context: Mogadishu_
 5. [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu. ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md) _Context: Mogadishu_
+
+### Changes:
+
+1. [Battle of Mogadishu (2010):Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-pclashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md) _2017-08-25 03:29:40 (First version)_
+2. [Battle of Mogadishu (2010):: Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-clashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md) _2017-08-27 03:29:44 (Update)_
+2. [Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/clashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md) _(Current version)_

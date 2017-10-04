@@ -17,3 +17,9 @@
 3. [A Buddhist monk accused of inciting violence against Muslims in Burma says he is joining forces with the Bodu Bala Sena group in Sri Lanka in order to combat a "serious threat from jihadist groups". ](/news/2014/09/28/a-buddhist-monk-accused-of-inciting-violence-against-muslims-in-burma-says-he-is-joining-forces-with-the-bodu-bala-sena-group-in-sri-lanka-i.md) _Context: Burma_
 4. [Two Chinese workers are kidnapped from a controversial copper mine in Burma by activists. ](/news/2014/05/19/two-chinese-workers-are-kidnapped-from-a-controversial-copper-mine-in-burma-by-activists.md) _Context: Burma_
 5. [Buddhist mobs in western Myanmar reportedly target foreign aid groups and workers in reaction to supposedly disrespectful treatment of a Buddhist flag. ](/news/2014/03/28/buddhist-mobs-in-western-myanmar-reportedly-target-foreign-aid-groups-and-workers-in-reaction-to-supposedly-disrespectful-treatment-of-a-bud.md) _Context: Burma_
+
+### Changes:
+
+1. [ 2007 Burmese anti-government protests: Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/2007-burmese-anti-government-protests-p-burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md) _2017-08-25 03:21:07 (First version)_
+2. [ 2007 Burmese anti-government protests:: Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/2007-burmese-anti-government-protests-burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md) _2017-08-27 03:21:03 (Update)_
+2. [ Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md) _(Current version)_

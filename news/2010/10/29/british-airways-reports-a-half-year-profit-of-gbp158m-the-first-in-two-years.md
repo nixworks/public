@@ -17,3 +17,8 @@ British Airways reports a profit of £158m, its first in two years, as the compa
 3. [British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. ](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.md) _Context: British Airways_
 4. [A manuscript by the Austrian composer Gustav Mahler sells for about GBP4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-agbp4-5-million-at-sothebyas.md) _Context: GBP_
 5. [Following the June 23 Brexit vote, the exchange rate for the British pound reaches a 31-year low against the United States dollar. ](/news/2016/10/4/following-the-june-23-brexit-vote-the-exchange-rate-for-the-british-pound-reaches-a-31-year-low-against-the-united-states-dollar.md) _Context: GBP_
+
+### Changes:
+
+1. [British Airways reports a half-year profit of 158m, the first in two years. ](/news/2010/10/29/british-airways-reports-a-half-year-profit-of-ps158m-the-first-in-two-years.md) _2017-08-25 03:30:45 (First version)_
+1. [British Airways reports a half-year profit of GBP158m, the first in two years. ](/news/2010/10/29/british-airways-reports-a-half-year-profit-of-gbp158m-the-first-in-two-years.md) _(Current version)_

@@ -17,3 +17,9 @@ Government says 88 people, including Saudis and Yemenis, held on suspicion of pl
 3. [Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _Context: al-Qaeda_
 4. [Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md) _Context: al-Qaeda_
 5. [ The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.md) _Context: al-Qaeda_
+
+### Changes:
+
+1. [Terrorism in Saudi Arabia:Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/terrorism-in-saudi-arabia-psaudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell-a.md) _2017-08-25 03:40:55 (First version)_
+2. [Terrorism in Saudi Arabia:: Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/terrorism-in-saudi-arabia-saudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell.md) _2017-08-27 03:41:14 (Update)_
+2. [Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/saudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell-and-plotting-attacks-inside.md) _(Current version)_

@@ -21,3 +21,8 @@ The earthquake that struck central Italy on Wednesday has killed at least 247 pe
 3. [A series of earthquakes strikes a region of Central Italy already impacted by a major quake in August. Many buildings are damaged or destroyed across several towns. ](/news/2016/10/26/a-series-of-earthquakes-strikes-a-region-of-central-italy-already-impacted-by-a-major-quake-in-august-many-buildings-are-damaged-or-destroy.md) _Context: Central Italy_
 4. [Officials report the death toll is at least 290 people with at least 10 others still missing. ](/news/2016/08/28/officials-report-the-death-toll-is-at-least-290-people-with-at-least-10-others-still-missing.md) _Context: 2016 Central Italy earthquake_
 5. [A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md) _Context: 2016 Central Italy earthquake_
+
+### Changes:
+
+1. [2016 Central Italy earthquake: A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/2016-central-italy-earthquake-a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatric.md) _2017-08-27 03:46:42 (First version)_
+1. [A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatrice-reports-that-residents-are-bu.md) _(Current version)_

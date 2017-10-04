@@ -17,3 +17,9 @@
 3. [Siam Commercial Bank reports eight people were killed and seven others injured in the basement of its Bangkok, Thailand, headquarters during an upgrade of the building's fire safety system Sunday evening. It appears that workers mistakenly activated a system that released pyrogen, a chemical that deprives a fire of oxygen. ](/news/2016/03/14/siam-commercial-bank-reports-eight-people-were-killed-and-seven-others-injured-in-the-basement-of-its-bangkok-thailand-headquarters-during.md) _Context: Bangkok, Thailand_
 4. [A bolide or meteor fireball explodes over the Thai city of Bangkok. ](/news/2015/09/7/a-bolide-or-meteor-fireball-explodes-over-the-thai-city-of-bangkok.md) _Context: Bangkok, Thailand_
 5. [Thai police seek a 10th suspect in deadly Bangkok bombing. ](/news/2015/09/5/thai-police-seek-a-10th-suspect-in-deadly-bangkok-bombing.md) _Context: Bangkok, Thailand_
+
+### Changes:
+
+1. [2013 Thai political crisis:In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/2013-thai-political-crisis-pin-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md) _2017-08-25 03:39:39 (First version)_
+2. [2013 Thai political crisis:: In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/2013-thai-political-crisis-in-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md) _2017-08-27 03:39:57 (Update)_
+2. [In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/in-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md) _(Current version)_

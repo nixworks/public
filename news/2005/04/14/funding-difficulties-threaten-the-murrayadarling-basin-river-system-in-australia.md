@@ -14,3 +14,8 @@
 
 1. [Evacuation orders are issued for the Australian towns of Griffith and Forbes due to floods moving west through the Murray-Darling basin. ](/news/2012/03/8/evacuation-orders-are-issued-for-the-australian-towns-of-griffith-and-forbes-due-to-floods-moving-west-through-the-murrayadarling-basin.md) _Context: Murray-Darling basin_
 2. [The Australian town of Yenda, New South Wales, is flooded as floodwaters move through the Murray-Darling Basin. ](/news/2012/03/7/the-australian-town-of-yenda-new-south-wales-is-flooded-as-floodwaters-move-through-the-murrayadarling-basin.md) _Context: Murray-Darling basin_
+
+### Changes:
+
+1. [ Funding difficulties threaten the Murray-Darling basin river system in Australia. ](/news/2005/04/14/funding-difficulties-threaten-the-murray-darling-basin-river-system-in-australia.md) _2017-08-27 03:16:01 (First version)_
+1. [ Funding difficulties threaten the Murray-Darling basin river system in Australia. ](/news/2005/04/14/funding-difficulties-threaten-the-murrayadarling-basin-river-system-in-australia.md) _(Current version)_

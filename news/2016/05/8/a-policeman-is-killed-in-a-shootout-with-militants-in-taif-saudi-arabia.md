@@ -18,3 +18,8 @@ A Saudi soldier died in a gunbattle with militants in the western Taif region ou
 3. [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
 4. [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
 5. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Saudi Arabia_
+
+### Changes:
+
+1. [ Terrorism in Saudi Arabia: A policeman is killed in a shootout with militants in Taif, Saudi Arabia. ](/news/2016/05/8/terrorism-in-saudi-arabia-a-policeman-is-killed-in-a-shootout-with-militants-in-taif-saudi-arabia.md) _2017-08-27 03:46:00 (First version)_
+1. [ A policeman is killed in a shootout with militants in Taif, Saudi Arabia. ](/news/2016/05/8/a-policeman-is-killed-in-a-shootout-with-militants-in-taif-saudi-arabia.md) _(Current version)_

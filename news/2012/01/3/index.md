@@ -7,7 +7,7 @@ _Context: Libyan Civil War, Misrata, Tripoli, anti-Gaddafi forces_
 At least 12 people, including several children, have died in a series of bomb attacks in the south of Afghanistan, officials say.
 
 ### [Unemployment in Spain reaches a record high. ](/news/2012/01/3/unemployment-in-spain-reaches-a-record-high.md)
-_Context: Spain, unemployment_
+_Context: Spanish, unemployment_
 
 ### [Germany's unemployment rate reportedly reaches its lowest level since 1991. ](/news/2012/01/3/germany-s-unemployment-rate-reportedly-reaches-its-lowest-level-since-1991.md)
 German unemployment falls to its lowest rate in December since 1991, official figures show.

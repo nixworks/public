@@ -10,7 +10,7 @@ _Context: HIV, HIV vaccine, Institut Pasteur, antibody, in vitro_
 _Context: Indo-Pakistani Wars, Kashmir, Manmohan Singh, Prime Minister, separatist_
 
 ### [ Madrid Train Bombing: A 16-year-old Spaniard has been jailed for six years for his part in the bombing which killed 191. ](/news/2004/11/16/madrid-train-bombing-a-16-year-old-spaniard-has-been-jailed-for-six-years-for-his-part-in-the-bombing-which-killed-191.md)
-_Context: Madrid Train Bombing, Spain_
+_Context: Madrid Train Bombing, Spanish_
 
 ### [ A possible war crime by a U.S. Marine in Fallujah, Iraq, is caught on film by an NBC camera crew. The marine shot and killed an apparently unarmed Iraqi while in a mosque. ](/news/2004/11/16/a-possible-war-crime-by-a-u-s-marine-in-fallujah-iraq-is-caught-on-film-by-an-nbc-camera-crew-the-marine-shot-and-killed-an-apparently.md)
 Pool correspondent Kevin Sites of NBC News videotapes United States marine shooting and killing apparently unarmed Iraqi prisoner in mosque, Falluja; says three other previously wounded prisoners in mosque also had apparently been shot again by marines; Marine Corp probes incident; Sites was embedde...

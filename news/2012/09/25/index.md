@@ -31,7 +31,7 @@ SEOUL, Sept. 25 (Yonhap) -- South Korea is seeking to verify media reports that 
 _Context: Japan, Olympus Corp, Olympus scandal, Tsuyoshi Kikukawa_
 
 ### [Activists from the Enough Project reveal through "The Guardian" newspaper that Omar al-Bashir's Sudan and Joseph Kabila's DR Congo together received 2.4 million pound sterling (around USD 4 million) in British military aid, in the last five years alone. ](/news/2012/09/25/activists-from-the-enough-project-reveal-through-the-guardian-newspaper-that-omar-al-bashir-s-sudan-and-joseph-kabila-s-dr-congo-together.md)
-_Context: Democratic Republic of the Congo, Enough Project, GBP, Joseph Kabila, Omar al-Bashir, Sudan, The Guardian, US$, United Kingdom, military aid_
+_Context: $, Democratic Republic of the Congo, Enough Project, GBP, Joseph Kabila, Omar al-Bashir, Sudan, The Guardian, United Kingdom, military aid_
 
 ### [Protestors and police clash in Madrid over Spanish anti-austerity measures. ](/news/2012/09/25/protestors-and-police-clash-in-madrid-over-spanish-anti-austerity-measures.md)
 Spanish police ringing parliament in Madrid fire rubber bullets at protesters taking part in a mass rally against austerity.

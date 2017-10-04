@@ -7,7 +7,7 @@ At least four people are killed and dozens injured in violence that erupted as T
 At least nine people, including two policemen, are killed during anti-government protests in Kiev, in the worst violence seen in Ukraine in weeks.
 
 ### [A US$1 million vase made by Chinese dissident Ai Wei Wei is destroyed in Miami by a local vandal protesting the lack of exhibits promoting local art. ](/news/2014/02/18/a-us-1-million-vase-made-by-chinese-dissident-ai-wei-wei-is-destroyed-in-miami-by-a-local-vandal-protesting-the-lack-of-exhibits-promoting-l.md)
-_Context: Ai Wei Wei, Miami, US$_
+_Context: $, Ai Wei Wei, Miami_
 
 ### [The Supreme Court of the Philippines declares the libel provisions in the Cybercrime Prevention Act of 2012 as legal. ](/news/2014/02/18/the-supreme-court-of-the-philippines-declares-the-libel-provisions-in-the-cybercrime-prevention-act-of-2012-as-legal.md)
 _Context: Cybercrime Prevention Act of 2012, Supreme Court of the Philippines, libel_

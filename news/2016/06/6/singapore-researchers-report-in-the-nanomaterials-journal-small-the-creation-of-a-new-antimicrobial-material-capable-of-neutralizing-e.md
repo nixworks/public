@@ -18,3 +18,8 @@ Researchers in Singapore have created a new antimicrobial material capable of ne
 3. [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _Context: Singapore_
 4. [An Indonesian police plane, reportedly carrying 13 people, goes missing near Singapore on route to Batam. ](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.md) _Context: Singapore_
 5. [The death toll from a boat accident near Singapore reaches 54. The victims are mostly Indonesian migrant workers. ](/news/2016/11/4/the-death-toll-from-a-boat-accident-near-singapore-reaches-54-the-victims-are-mostly-indonesian-migrant-workers.md) _Context: Singapore_
+
+### Changes:
+
+1. [Singapore researchers report, in the nanomaterials journal ''Small'', the creation of a new antimicrobial material capable of neutralizing ''E. coli'' bacteria, including antibiotic-resistant bacteria such as ''Staphylococcus aureus'' and ''Pseudomonas aeruginosa''. ](/news/2016/06/6/singapore-researchers-report-in-the-nanomaterials-journal-small-the-creation-of-a-new-antimicrobial-material-capable-of-neutralizing.md) _2017-08-25 03:45:50 (First version)_
+1. [Singapore researchers report, in the nanomaterials journal "Small", the creation of a new antimicrobial material capable of neutralizing "E. coli" bacteria, including antibiotic-resistant bacteria such as "Staphylococcus aureus" and "Pseudomonas aeruginosa". ](/news/2016/06/6/singapore-researchers-report-in-the-nanomaterials-journal-small-the-creation-of-a-new-antimicrobial-material-capable-of-neutralizing-e.md) _(Current version)_

@@ -12,3 +12,8 @@
 ### Related:
 
 1. [Muqrin bin Abdulaziz Al Saud, the former head of Saudi Arabia's Intelligence Directorate, is appointed second deputy Prime Minister, making him second in line to the Saudi throne. ](/news/2013/02/1/muqrin-bin-abdulaziz-al-saud-the-former-head-of-saudi-arabia-s-intelligence-directorate-is-appointed-second-deputy-prime-minister-making.md) _Context: Succession to the Saudi Arabian throne_
+
+### Changes:
+
+1. [Succession to the Saudi Arabian throne: Crown Prince Muqrin is replaced by his nephew. ](/news/2015/04/29/succession-to-the-saudi-arabian-throne-crown-prince-muqrin-is-replaced-by-his-nephew.md) _2017-08-27 03:42:15 (First version)_
+1. [Crown Prince Muqrin is replaced by his nephew. ](/news/2015/04/29/crown-prince-muqrin-is-replaced-by-his-nephew.md) _(Current version)_

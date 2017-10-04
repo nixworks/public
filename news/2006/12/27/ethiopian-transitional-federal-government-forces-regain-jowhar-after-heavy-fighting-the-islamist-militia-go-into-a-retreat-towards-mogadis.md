@@ -17,3 +17,10 @@
 3. [AMISOM troops raid Islamist hideouts in the Somali capital Mogadishu. ](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.md) _Context: Islamist, Mogadishu_
 4. [Ethiopian forces capture the central Somali town of Beledweyne from al-Shabaab Islamist militants. ](/news/2011/12/31/ethiopian-forces-capture-the-central-somali-town-of-beledweyne-from-al-shabaab-islamist-militants.md) _Context: Ethiopia, Islamist_
 5. [The Islamist al-Shabaab rebels in Somalia pull out of the capital Mogadishu. ](/news/2011/08/6/the-islamist-al-shabaab-rebels-in-somalia-pull-out-of-the-capital-mogadishu.md) _Context: Islamist, Mogadishu_
+
+### Changes:
+
+1. [ War in Somalia: Ethiopian-Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. ](/news/2006/12/27/war-in-somalia-p-ethiopian-transitional-federal-government-forces-regain-jowhar-after-heavy-fighting-the-islamist-militia-go-into-a-retre.md) _2017-05-25 03:19:15 (First version)_
+2. [ War in Somalia: Ethiopian-Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. ](/news/2006/12/27/war-in-somalia-p-ethiopian-transitional-federal-government-forces-regain-jowhar-after-heavy-fighting-the-islamist-militia-go-into-a-retrea.md) _2017-08-25 03:18:57 (Update)_
+3. [ War in Somalia:: Ethiopian-Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. ](/news/2006/12/27/war-in-somalia-ethiopian-transitional-federal-government-forces-regain-jowhar-after-heavy-fighting-the-islamist-militia-go-into-a-retrea.md) _2017-08-27 03:18:52 (Update)_
+3. [ Ethiopian-Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. ](/news/2006/12/27/ethiopian-transitional-federal-government-forces-regain-jowhar-after-heavy-fighting-the-islamist-militia-go-into-a-retreat-towards-mogadis.md) _(Current version)_

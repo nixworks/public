@@ -16,3 +16,8 @@
 3. [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md) _Context: Abu Bakr al-Baghdadi_
 4. [The Russian Ministry of Defence says its forces may have killed ISIL's leader Abu Bakr al-Baghdadi in an airstrike, south of Raqqa on 28 May, and currently is seeking confirmation. ](/news/2017/06/16/the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bakr-al-baghdadi-in-an-airstrike-south-of-raqqa-on-28-may.md) _Context: Abu Bakr al-Baghdadi_
 5. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Al Qaim_
+
+### Changes:
+
+1. [Military intervention against ISIS: Abu Bakr al-Baghdadi is critically wounded during a US airstrike at al-Qaim. ](/news/2014/11/8/military-intervention-against-isis-abu-bakr-al-baghdadi-is-critically-wounded-during-a-us-airstrike-at-al-qaim.md) _2017-08-27 03:41:29 (First version)_
+1. [Abu Bakr al-Baghdadi is critically wounded during a US airstrike at al-Qaim. ](/news/2014/11/8/abu-bakr-al-baghdadi-is-critically-wounded-during-a-us-airstrike-at-al-qaim.md) _(Current version)_

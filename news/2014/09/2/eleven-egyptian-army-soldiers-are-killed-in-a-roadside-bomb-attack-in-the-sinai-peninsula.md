@@ -17,3 +17,9 @@ Officials say bomb attack killed 11 soldiers in region, where attacks on army ha
 3. [Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. ](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-suicide-bomber-at-a-checkpoint-in-northern-sinai.md) _Context: Egyptian Army, Sinai Peninsula_
 4. [At least seven people are killed, including five Egyptian Army soldiers, a military officer and a civilian woman in two separate blasts in Egypt's Sinai Peninsula. ISIL's Sinai branch claimed responsibility for the attacks on several websites. ](/news/2016/04/8/at-least-seven-people-are-killed-including-five-egyptian-army-soldiers-a-military-officer-and-a-civilian-woman-in-two-separate-blasts-in-e.md) _Context: Egyptian Army, Sinai Peninsula_
 5. [ A shell kills a woman and her two children as fighting continues on the Sinai Peninsula between the Egyptian Army and Islamic State of Iraq and the Levant militants. ](/news/2015/07/4/a-shell-kills-a-woman-and-her-two-children-as-fighting-continues-on-the-sinai-peninsula-between-the-egyptian-army-and-islamic-state-of-iraq.md) _Context: Egyptian Army, Sinai Peninsula_
+
+### Changes:
+
+1. [Sinai insurgency:Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/sinai-insurgency-peleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md) _2017-08-25 03:40:55 (First version)_
+2. [Sinai insurgency:: Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/sinai-insurgency-eleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md) _2017-08-27 03:41:14 (Update)_
+2. [Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/eleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md) _(Current version)_

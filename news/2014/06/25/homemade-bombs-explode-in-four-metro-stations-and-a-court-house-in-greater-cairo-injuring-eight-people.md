@@ -14,3 +14,9 @@ Eight people were hurt in northern Cairo when homemade explosive devices blew up
 
 1. [A police officer is killed and another is wounded after a bomb detonates in a busy square in Cairo's Mohandessin district. ](/news/2014/04/18/a-police-officer-is-killed-and-another-is-wounded-after-a-bomb-detonates-in-a-busy-square-in-cairo-s-mohandessin-district.md) _Context: Greater Cairo_
 2. [Badrashin railway accident: A train carrying Egyptian Army recruits derails near Giza, Greater Cairo, killing 19 and injuring 120 others. ](/news/2013/01/15/badrashin-railway-accident-a-train-carrying-egyptian-army-recruits-derails-near-giza-greater-cairo-killing-19-and-injuring-120-others.md) _Context: Greater Cairo_
+
+### Changes:
+
+1. [Post-coup unrest in Egypt:Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/post-coup-unrest-in-egypt-phomemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md) _2017-08-25 03:40:36 (First version)_
+2. [Post-coup unrest in Egypt:: Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/post-coup-unrest-in-egypt-homemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md) _2017-08-27 03:40:54 (Update)_
+2. [Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/homemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md) _(Current version)_

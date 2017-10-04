@@ -18,3 +18,8 @@ Forget dirty politics, high-profile scalps and accusations of lies and spies - J
 3. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _Context: New Zealand_
 4. [The Deputy Prime Minister of Australia Barnaby Joyce is revealed to have unknowingly held dual citizenship with New Zealand since his election, which may have rendered him ineligible for candidacy under section 44 of the Constitution of Australia. ](/news/2017/08/14/the-deputy-prime-minister-of-australia-barnaby-joyce-is-revealed-to-have-unknowingly-held-dual-citizenship-with-new-zealand-since-his-electi.md) _Context: New Zealand_
 5. [Deputy Leader of the Australian Greens Scott Ludlam resigns as a Senator after discovering that he holds dual citizenship with New Zealand, making him electorally ineligible under Section 44 of the Constitution of Australia. ](/news/2017/07/14/deputy-leader-of-the-australian-greens-scott-ludlam-resigns-as-a-senator-after-discovering-that-he-holds-dual-citizenship-with-new-zealand.md) _Context: New Zealand_
+
+### Changes:
+
+1. [New Zealand general election, 2014: Voters in New Zealand go to the polls for a general election. ](/news/2014/09/20/new-zealand-general-election-2014-voters-in-new-zealand-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:41:18 (First version)_
+1. [Voters in New Zealand go to the polls for a general election. ](/news/2014/09/20/voters-in-new-zealand-go-to-the-polls-for-a-general-election.md) _(Current version)_

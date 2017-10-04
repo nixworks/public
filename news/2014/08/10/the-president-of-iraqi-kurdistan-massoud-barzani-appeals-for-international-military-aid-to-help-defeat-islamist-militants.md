@@ -18,3 +18,9 @@
 3. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: Islamic State_
 4. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Islamic State_
 5. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Islamic State_
+
+### Changes:
+
+1. [2014 Iraq conflict:The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/2014-iraq-conflict-pthe-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-milita.md) _2017-08-25 03:40:50 (First version)_
+2. [2014 Iraq conflict:: The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/2014-iraq-conflict-the-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-milit.md) _2017-08-27 03:41:08 (Update)_
+2. [The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/the-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-militants.md) _(Current version)_

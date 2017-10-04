@@ -25,7 +25,7 @@ _Context: China, Turpan, Xinjiang, train_
 _Context: Sicily, Stromboli, lava, volcano_
 
 ### [ Cuba-United States relations: Carlos and Elsa Alvarez are sentenced to five and three year prison terms respectively after being convicted of spying for the Cuban government. ](/news/2007/02/28/cuba-united-states-relations-carlos-and-elsa-alvarez-are-sentenced-to-five-and-three-year-prison-terms-respectively-after-being-convicted.md)
-_Context: Carlos, Cuba-United States relations, Elsa Alvarez, Government of Cuba, espionage, prison_
+_Context: Carlos, Cuba-United States relations, Elsa Alvarez, Government of Cuba, prison, spy_
 
 ### [ Two paintings by Pablo Picasso, "Maya with Doll" and "Jacqueline", have been stolen from the painter's granddaughter's apartment in Paris, France. ](/news/2007/02/28/two-paintings-by-pablo-picasso-maya-with-doll-and-jacqueline-have-been-stolen-from-the-painter-s-granddaughter-s-apartment-in-paris.md)
 _Context: France, Jacqueline, Maya with Doll, Paris, Picasso, painter_

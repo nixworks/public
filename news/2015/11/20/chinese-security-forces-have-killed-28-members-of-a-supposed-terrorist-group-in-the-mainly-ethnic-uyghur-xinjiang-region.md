@@ -17,3 +17,8 @@ Chinese security forces kill 28 people allegedly behind a deadly attack on a coa
 3. [Several hundred Turkish people protest China's treatment of Uyghurs and burn Chinese flags at the Chinese consulate in Istanbul. ](/news/2015/07/5/several-hundred-turkish-people-protest-china-s-treatment-of-uyghurs-and-burn-chinese-flags-at-the-chinese-consulate-in-istanbul.md) _Context: China, Uyghur_
 4. [A police checkpoint on the outskirts of Kashgar in Xinjiang is attacked by ethnic Uighurs, with at least 18 killed according to US-based Radio Free Asia. ](/news/2015/06/24/a-police-checkpoint-on-the-outskirts-of-kashgar-in-xinjiang-is-attacked-by-ethnic-uighurs-with-at-least-18-killed-according-to-us-based-rad.md) _Context: Xinjiang, Xinjiang_
 5. [Chinese police kill six attacking militants wearing explosive devices in Xinjiang. ](/news/2015/01/12/chinese-police-kill-six-attacking-militants-wearing-explosive-devices-in-xinjiang.md) _Context: China, Xinjiang_
+
+### Changes:
+
+1. [Xinjiang conflict: Chinese security forces have killed 28 members of a supposed terrorist group in the mainly ethnic Uyghur Xinjiang region. ](/news/2015/11/20/xinjiang-conflict-chinese-security-forces-have-killed-28-members-of-a-supposed-terrorist-group-in-the-mainly-ethnic-uyghur-xinjiang-region.md) _2017-08-27 03:43:57 (First version)_
+1. [Chinese security forces have killed 28 members of a supposed terrorist group in the mainly ethnic Uyghur Xinjiang region. ](/news/2015/11/20/chinese-security-forces-have-killed-28-members-of-a-supposed-terrorist-group-in-the-mainly-ethnic-uyghur-xinjiang-region.md) _(Current version)_

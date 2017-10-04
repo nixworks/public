@@ -16,3 +16,8 @@
 3. [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md) _Context: Libya_
 4. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: Libya_
 5. [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md) _Context: Libya_
+
+### Changes:
+
+1. [Second Libyan Civil War (2014-present): Libya's Council of Deputies agrees to resume peace talks. ](/news/2015/03/2/second-libyan-civil-war-2014-present-libya-s-council-of-deputies-agrees-to-resume-peace-talks.md) _2017-08-27 03:42:02 (First version)_
+1. [Libya's Council of Deputies agrees to resume peace talks. ](/news/2015/03/2/libya-s-council-of-deputies-agrees-to-resume-peace-talks.md) _(Current version)_

@@ -25,7 +25,7 @@ _Context: Baghdad, Simona Pari, Simona Torretta, hostage_
 _Context: CNN, Gaza, Israel, Palestinian militants_
 
 ### [ The price of U.S. light crude briefly exceeds the price of USD 50-barrel, the highest since 1983. Analysts attribute the increase largely to concerns over the disruption of oil production in Nigeria; conflicts in Iraq and Saudi Arabia and the effects of Hurricane Ivan are also cited. ](/news/2004/09/28/the-price-of-u-s-light-crude-briefly-exceeds-the-price-of-usd-50-barrel-the-highest-since-1983-analysts-attribute-the-increase-largely-t.md)
-_Context: Hurricane Ivan, Iraq, Nigeria, Saudi Arabia, US$, barrel, crude oil_
+_Context: $, Hurricane Ivan, Iraq, Nigeria, Saudi Arabia, barrel, crude oil_
 
 ### [ A Nigerian militant group threatens "all-out war" against foreign companies in the Niger River delta region if they do not leave by October. The European oil company Royal Dutch-Shell has already evacuated 254 non-essential workers from the area. (BBC: [http:--news.bbc.co.uk-2-hi-africa-3688582.stm 1], [http:--news.bbc.co.uk-2-hi-africa-3695990.stm 2])](/news/2004/09/28/a-nigerian-militant-group-threatens-all-out-war-against-foreign-companies-in-the-niger-river-delta-region-if-they-do-not-leave-by-october.md)
 _Context: Niger River, Nigeria, Royal Dutch Shell, delta_

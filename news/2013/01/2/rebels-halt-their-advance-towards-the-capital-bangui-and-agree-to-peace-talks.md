@@ -18,3 +18,9 @@ Rebels in Central African Republic said they had halted their advance on the cap
 3. [All 500 of the prisoners escape from the Ngaraba jail in Bangui, the capital of the Central African Republic. ](/news/2015/09/29/all-500-of-the-prisoners-escape-from-the-ngaraba-jail-in-bangui-the-capital-of-the-central-african-republic.md) _Context: Bangui's_
 4. [Clashes between Christians and Muslims in the capital Bangui leave at least 21 people dead and over 100 injured. ](/news/2015/09/27/clashes-between-christians-and-muslims-in-the-capital-bangui-leave-at-least-21-people-dead-and-over-100-injured.md) _Context: Bangui's_
 5. [A Rwandan soldier attached to MINUSCA goes on a shooting spree in Bangui, killing four fellow UN peacekeepers and injuring another eight before turning the gun on himself. ](/news/2015/08/8/a-rwandan-soldier-attached-to-minusca-goes-on-a-shooting-spree-in-bangui-killing-four-fellow-un-peacekeepers-and-injuring-another-eight-bef.md) _Context: Bangui's_
+
+### Changes:
+
+1. [2012 Central African Republic rebellion:Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/2012-central-african-republic-rebellion-prebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md) _2017-08-25 03:37:11 (First version)_
+2. [2012 Central African Republic rebellion:: Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/2012-central-african-republic-rebellion-rebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md) _2017-08-27 03:37:21 (Update)_
+2. [Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/rebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md) _(Current version)_

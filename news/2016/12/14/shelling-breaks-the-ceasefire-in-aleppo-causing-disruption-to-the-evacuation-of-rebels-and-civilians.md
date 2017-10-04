@@ -19,3 +19,8 @@ Shelling and tank fire rage in Aleppo as the ceasefire and evacuation plan stall
 3. [Violent clashes break out between the Syrian rebels and Syrian Democratic Forces on the outskirts of al-Muhsenli Village, in the northeastern countryside of Aleppo, but no casualties are reported. ](/news/2017/07/21/violent-clashes-break-out-between-the-syrian-rebels-and-syrian-democratic-forces-on-the-outskirts-of-al-muhsenli-village-in-the-northeaster.md) _Context: Aleppo_
 4. [A car bomb strikes a convoy of buses near Aleppo which were carrying evacuees from the pro-government towns of Al-Fu'ah and Kafriya. Over 100 people are killed. ](/news/2017/04/15/a-car-bomb-strikes-a-convoy-of-buses-near-aleppo-which-were-carrying-evacuees-from-the-pro-government-towns-of-al-fu-ah-and-kafriya-over-10.md) _Context: Aleppo_
 5. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo_
+
+### Changes:
+
+1. [Aleppo offensive (November-December 2016): Shelling breaks the ceasefire in Aleppo causing disruption to the evacuation of rebels and civilians. ](/news/2016/12/14/aleppo-offensive-november-december-2016-shelling-breaks-the-ceasefire-in-aleppo-causing-disruption-to-the-evacuation-of-rebels-and-civi.md) _2017-08-27 03:47:27 (First version)_
+1. [Shelling breaks the ceasefire in Aleppo causing disruption to the evacuation of rebels and civilians. ](/news/2016/12/14/shelling-breaks-the-ceasefire-in-aleppo-causing-disruption-to-the-evacuation-of-rebels-and-civilians.md) _(Current version)_

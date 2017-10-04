@@ -17,3 +17,8 @@ Iraqi forces reach the besieged town of Amerli, where thousands of people have b
 3. [At least 13 civilians have been killed by a roadside bomb while fleeing from fighting between Iraqi security forces and ISIL near Ramadi. ](/news/2016/01/17/at-least-13-civilians-have-been-killed-by-a-roadside-bomb-while-fleeing-from-fighting-between-iraqi-security-forces-and-isil-near-ramadi.md) _Context: Iraqi security forces, Islamic State_
 4. [Iraqi government forces and allied Shia militia recapture the town of Dhuluiya in Saladin Province, north of Baghdad, from the Islamic State of Iraq and the Levant. ](/news/2014/12/30/iraqi-government-forces-and-allied-shia-militia-recapture-the-town-of-dhuluiya-in-saladin-province-north-of-baghdad-from-the-islamic-state.md) _Context: Iraqi insurgency, Islamic State_
 5. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: Islamic State_
+
+### Changes:
+
+1. [Iraqi insurgency: Iraqi security forces reach the town of Amerli which had been besieged by Islamic State of Iraq and the Levant forces. ](/news/2014/08/31/iraqi-insurgency-iraqi-security-forces-reach-the-town-of-amerli-which-had-been-besieged-by-islamic-state-of-iraq-and-the-levant-forces.md) _2017-08-27 03:41:13 (First version)_
+1. [Iraqi security forces reach the town of Amerli which had been besieged by Islamic State of Iraq and the Levant forces. ](/news/2014/08/31/iraqi-security-forces-reach-the-town-of-amerli-which-had-been-besieged-by-islamic-state-of-iraq-and-the-levant-forces.md) _(Current version)_

@@ -17,3 +17,9 @@ The tie-up marks the latest push by Google to boost its hardware business.
 3. [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md) _Context: Google_
 4. [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md) _Context: Google_
 5. [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md) _Context: Taiwan_
+
+### Changes:
+
+1. [ Alphabet's Google has struck a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/alphabet-s-google-has-struck-a-1-1bn-gbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _2017-09-21 20:30:05 (First version)_
+2. [ Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-gbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _2017-09-22 03:53:29 (Update)_
+2. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _(Current version)_

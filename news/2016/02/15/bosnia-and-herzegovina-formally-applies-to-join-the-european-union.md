@@ -17,3 +17,8 @@ Bosnia-Herzegovina applies to join the EU - a milestone in its efforts to overco
 3. [The Turkish deputy ambassador to Britain says Turkey should be allowed to join the European Union in order to help solve the Syrian refugee crisis. ](/news/2016/03/7/the-turkish-deputy-ambassador-to-britain-says-turkey-should-be-allowed-to-join-the-european-union-in-order-to-help-solve-the-syrian-refugee.md) _Context: EU, European Union candidacy_
 4. [Serbia and its former province of Kosovo reach an accord aimed at normalizing relations between the Balkan neighbours, potentially setting Belgrade on the path to membership of the European Union. ](/news/2013/04/19/serbia-and-its-former-province-of-kosovo-reach-an-accord-aimed-at-normalizing-relations-between-the-balkan-neighbours-potentially-setting-b.md) _Context: EU, European Union candidacy_
 5. [ Albania signs a Stabilisation and Association Agreement, a first step toward joining the European Union. ](/news/2006/06/12/albania-signs-a-stabilisation-and-association-agreement-a-first-step-toward-joining-the-european-union.md) _Context: EU, European Union candidacy_
+
+### Changes:
+
+1. [Enlargement of the European Union: Bosnia and Herzegovina formally applies to join the European Union. ](/news/2016/02/15/enlargement-of-the-european-union-bosnia-and-herzegovina-formally-applies-to-join-the-european-union.md) _2017-08-27 03:44:55 (First version)_
+1. [Bosnia and Herzegovina formally applies to join the European Union. ](/news/2016/02/15/bosnia-and-herzegovina-formally-applies-to-join-the-european-union.md) _(Current version)_

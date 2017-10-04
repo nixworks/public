@@ -18,3 +18,9 @@
 3. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: Kabul, suicide bombing_
 4. [Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/twenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md) _Context: Kabul, suicide bombing_
 5. [Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/many-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in-the-capital-kabul-when-a-suicide-bomb.md) _Context: Kabul, suicide bombing_
+
+### Changes:
+
+1. [War in Afghanistan:A suicide bombing attack in Kabul kills at least two people. ](/news/2014/11/18/war-in-afghanistan-pa-suicide-bombing-attack-in-kabul-kills-at-least-two-people.md) _2017-08-25 03:41:13 (First version)_
+2. [War in Afghanistan:: A suicide bombing attack in Kabul kills at least two people. ](/news/2014/11/18/war-in-afghanistan-a-suicide-bombing-attack-in-kabul-kills-at-least-two-people.md) _2017-08-27 03:41:31 (Update)_
+2. [A suicide bombing attack in Kabul kills at least two people. ](/news/2014/11/18/a-suicide-bombing-attack-in-kabul-kills-at-least-two-people.md) _(Current version)_

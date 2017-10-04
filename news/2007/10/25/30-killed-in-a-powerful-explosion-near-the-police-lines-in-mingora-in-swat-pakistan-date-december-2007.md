@@ -12,3 +12,8 @@
 3. [ Ten Army soldiers are killed and 22 others injured during combat with the Taliban in Swat, Pakistan. ](/news/2009/05/7/ten-army-soldiers-are-killed-and-22-others-injured-during-combat-with-the-taliban-in-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan_
 4. [ The Taliban captures Mingora, Swat, Pakistan. ](/news/2009/05/6/the-taliban-captures-mingora-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan_
 5. [ Pakistan's military captures Mingora, Swat, from the Taliban. ](/news/2009/05/30/pakistan-s-military-captures-mingora-swat-from-the-taliban.md) _Context: Pakistan, Swat, Pakistan_
+
+### Changes:
+
+1. [ 30 killed in a powerful explosion near the police lines in Mingora in Swat, Pakistan.{{Fact|date=December 2007}}](/news/2007/10/25/30-killed-in-a-powerful-explosion-near-the-police-lines-in-mingora-in-swat-pakistan-fact-date-december-2007.md) _2017-05-01 03:22:07 (First version)_
+1. [ 30 killed in a powerful explosion near the police lines in Mingora in Swat, Pakistan.date=December 2007](/news/2007/10/25/30-killed-in-a-powerful-explosion-near-the-police-lines-in-mingora-in-swat-pakistan-date-december-2007.md) _(Current version)_

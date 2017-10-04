@@ -17,3 +17,8 @@ Coach carrying pensioners on a day trip collides with truck, causing ‘gigantic
 3. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
 4. [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md) _Context: France_
 5. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
+
+### Changes:
+
+1. [2015 Puisseguin road crash: At least 43 people die after a bus collides with a truck near the French town of Puisseguin. ](/news/2015/10/23/2015-puisseguin-road-crash-at-least-43-people-die-after-a-bus-collides-with-a-truck-near-the-french-town-of-puisseguin.md) _2017-08-27 03:43:28 (First version)_
+1. [At least 43 people die after a bus collides with a truck near the French town of Puisseguin. ](/news/2015/10/23/at-least-43-people-die-after-a-bus-collides-with-a-truck-near-the-french-town-of-puisseguin.md) _(Current version)_

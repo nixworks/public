@@ -19,3 +19,9 @@ Foreign Minister Ahmet Davutoglu urges Israel not to stop next Gaza-bound flotil
 3. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Gaza_
 4. [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md) _Context: Gaza_
 5. [Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md) _Context: Gaza_
+
+### Changes:
+
+1. [Israeli-Palestinian conflict:Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/israeliapalestinian-conflict-ppreparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md) _2017-08-25 03:32:53 (First version)_
+2. [Israeli-Palestinian conflict:: Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/israeli-palestinian-conflict-preparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md) _2017-08-27 03:33:03 (Update)_
+2. [Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/preparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md) _(Current version)_

@@ -19,3 +19,8 @@ The Constitutional Council opposed a plan to impose a 75 percent marginal income
 3. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
 4. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
 5. [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md) _Context: France_
+
+### Changes:
+
+1. [France-s Constitutional Council strikes down the government-s plan to impose a 75 percent marginal income tax rate on the wealthy. ](/news/2012/12/29/france-s-constitutional-council-strikes-down-the-government-s-plan-to-impose-a-75-percent-marginal-income-tax-rate-on-the-wealthy.md) _2017-08-27 03:37:20 (First version)_
+1. [France's Constitutional Council strikes down the government's plan to impose a 75 percent marginal income tax rate on the wealthy. ](/news/2012/12/29/franceas-constitutional-council-strikes-down-the-governmentas-plan-to-impose-a-75-percent-marginal-income-tax-rate-on-the-wealthy.md) _(Current version)_

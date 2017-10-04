@@ -19,3 +19,9 @@
 3. [The Syrian Army backed by Hezbollah fighters retakes a key airbase on the eastern outskirts of Damascus. The Marj al-Sultan airbase had been under rebel control since November 2012. ](/news/2015/12/14/the-syrian-army-backed-by-hezbollah-fighters-retakes-a-key-airbase-on-the-eastern-outskirts-of-damascus-the-marj-al-sultan-airbase-had-been.md) _Context: Damascus, Syrian Army_
 4. [More than 160 people have been killed in fighting between the Syrian Army and opposition forces in the suburbs of Damascus. ](/news/2013/11/24/more-than-160-people-have-been-killed-in-fighting-between-the-syrian-army-and-opposition-forces-in-the-suburbs-of-damascus.md) _Context: Damascus, Syrian Army_
 5. [A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/a-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md) _Context: Damascus, Syrian Army_
+
+### Changes:
+
+1. [Syrian civil war:The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/syrian-civil-war-pthe-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md) _2017-08-25 03:36:10 (First version)_
+2. [Syrian civil war:: The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/syrian-civil-war-the-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md) _2017-08-27 03:36:21 (Update)_
+2. [The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/the-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md) _(Current version)_

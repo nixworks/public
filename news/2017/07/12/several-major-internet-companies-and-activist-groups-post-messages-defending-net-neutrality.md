@@ -17,3 +17,8 @@ Today, some of the world’s biggest internet companies and activist groups are 
 3. [A three-judge panel of the U.S. Court of Appeals for the D.C. Circuit hears arguments about whether the net neutrality rules of the Federal Communications Commission are within the FCC's statutory mandate. ](/news/2015/12/4/a-three-judge-panel-of-the-u-s-court-of-appeals-for-the-d-c-circuit-hears-arguments-about-whether-the-net-neutrality-rules-of-the-federal.md) _Context: net neutrality_
 4. [U.S. Senator Patrick Leahy writes to Internet Service Providers asking them to commit to net neutrality, that is, to refrain from engaging in "paid prioritization." ](/news/2014/10/1/u-s-senator-patrick-leahy-writes-to-internet-service-providers-asking-them-to-commit-to-net-neutrality-that-is-to-refrain-from-engaging-i.md) _Context: net neutrality_
 5. [A policy proposal by Google and Verizon regarding the way internet service is regulated comes under criticism from groups promoting net neutrality. ](/news/2010/08/10/a-policy-proposal-by-google-and-verizon-regarding-the-way-internet-service-is-regulated-comes-under-criticism-from-groups-promoting-net-neut.md) _Context: net neutrality_
+
+### Changes:
+
+1. [Day of Action to Save Net Neutrality: Several major internet companies and activist groups post messages defending net neutrality. ](/news/2017/07/12/day-of-action-to-save-net-neutrality-several-major-internet-companies-and-activist-groups-post-messages-defending-net-neutrality.md) _2017-08-27 03:48:39 (First version)_
+1. [Several major internet companies and activist groups post messages defending net neutrality. ](/news/2017/07/12/several-major-internet-companies-and-activist-groups-post-messages-defending-net-neutrality.md) _(Current version)_

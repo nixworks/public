@@ -16,3 +16,9 @@
 3. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Afghanistan_
 4. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _Context: Afghanistan_
 5. [The number of people displaced globally totals 65.6 million after an addition of 10.3 million people displaced in 2016. Syria, Colombia, Afghanistan, Iraq and South Sudan are the countries in the top five. ](/news/2017/06/19/the-number-of-people-displaced-globally-totals-65-6-million-after-an-addition-of-10-3-million-people-displaced-in-2016-syria-colombia-afg.md) _Context: Afghanistan_
+
+### Changes:
+
+1. [ Taliban insurgency in More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/taliban-insurgency-in-more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md) _2017-08-25 03:18:20 (First version)_
+2. [ Taliban insurgency in Afghanistan: More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/taliban-insurgency-in-afghanistan-more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md) _2017-08-27 03:18:15 (Update)_
+2. [ More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md) _(Current version)_

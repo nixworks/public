@@ -34,10 +34,10 @@ _Context: Brian Mulroney, Canada, Karlheinz Schreiber, Prime Minister of Canada,
 _Context: India, Indian National Congress, Manmohan Singh, Prime Minister, becomes_
 
 ### [ Brazilian oil company Petrobras and the People's Republic of China finalize a US$10-billion agreement. ](/news/2009/05/19/brazilian-oil-company-petrobras-and-the-people-s-republic-of-china-finalize-a-us-10-billion-agreement.md)
-_Context: Brazil, China, Petrobras, US$, petroleum industry_
+_Context: $, Brazil, China, Petrobras, petroleum industry_
 
 ### [ The European Parliament requests that Spain reform its planning laws. ](/news/2009/05/19/the-european-parliament-requests-that-spain-reform-its-planning-laws.md)
-_Context: European Parliament, Spain, reform_
+_Context: European Parliament, Spanish, reform_
 
 ### [ A 47-million-year-old skeleton of a lemur species is discovered in Germany. ](/news/2009/05/19/a-47-million-year-old-skeleton-of-a-lemur-species-is-discovered-in-germany.md)
 _Context: Germany, lemur, skeleton, species_

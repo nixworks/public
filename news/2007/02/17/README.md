@@ -4,7 +4,7 @@
 _Context: 2008, Democratic, George W. Bush, Hillary Clinton, Iraq War, Military of the United States, New York State, U.S. President, United States Senate_
 
 ### [ United States Secretary of State Condoleezza Rice visits Iraq for talks. ](/news/2007/02/17/united-states-secretary-of-state-condoleezza-rice-visits-iraq-for-talks.md)
-_Context: Condoleezza Rice, Iraq, United States Secretary of State_
+_Context: Condoleezza Rice, Iraq, Secretary of State_
 
 ### [ A suicide bomb in a district court in Quetta, the capital of Balochistan, Pakistan kills at least 13 people. ](/news/2007/02/17/a-suicide-bomb-in-a-district-court-in-quetta-the-capital-of-balochistan-pakistan-kills-at-least-13-people.md)
 At least 13 people, including a senior judge were killed in a suspected suicide bomb attack in a district court in Quetta.

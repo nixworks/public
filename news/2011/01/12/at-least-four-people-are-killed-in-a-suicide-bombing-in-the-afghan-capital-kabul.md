@@ -17,3 +17,9 @@ At least eight people are killed in attacks on Afghan intelligence forces in Kab
 3. [A suicide bombing by the Taliban near the headquarters of the International Security Assistance Force in the Afghan capital of Kabul kills at least six people. ](/news/2012/09/8/a-suicide-bombing-by-the-taliban-near-the-headquarters-of-the-international-security-assistance-force-in-the-afghan-capital-of-kabul-kills-a.md) _Context: Afghanistan, Kabul, suicide bombing_
 4. [Several people are arrested in Kabul, the capital of Afghanistan, as alleged suicide bombings are foiled. ](/news/2012/03/27/several-people-are-arrested-in-kabul-the-capital-of-afghanistan-as-alleged-suicide-bombings-are-foiled.md) _Context: Afghanistan, Kabul, suicide bombing_
 5. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Afghanistan, Kabul_
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/war-in-afghanistan-2001apresent-pat-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md) _2017-08-25 03:31:45 (First version)_
+2. [War in Afghanistan (2001-present):: At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/war-in-afghanistan-2001-present-at-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md) _2017-08-27 03:31:52 (Update)_
+2. [At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/at-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md) _(Current version)_

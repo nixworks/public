@@ -27,3 +27,9 @@ The High Court has ordered the release of a man who was placed in custody this m
 3. [Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _Context: Brian Lenihan Jnr, Finance Minister_
 4. [ In Ireland the controversy continues over payments by businessmen friends to Taoiseach (Prime Minister) Bertie Ahern in 1993 when he was Minister for Finance; it has come to light that the largest of the payments was drawn on a company cheque. ](/news/2006/09/30/in-ireland-the-controversy-continues-over-payments-by-businessmen-friends-to-taoiseach-prime-minister-bertie-ahern-in-1993-when-he-was-mi.md) _Context: Finance Minister, Republic of Ireland_
 5. [The Republic of Ireland announces a referendum on abortion will be held between May and June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-between-may-and-june-2018.md) _Context: Republic of Ireland_
+
+### Changes:
+
+1. [Irish financial crisis:Irish Finance Minister Brian Lenihan, Jnr hands down the hardest budget in the country's history. ](/news/2010/12/7/irish-financial-crisis-pirish-finance-minister-brian-lenihan-jnr-hands-down-the-hardest-budget-in-the-country-s-history.md) _2017-08-25 03:31:18 (First version)_
+2. [Irish financial crisis:: Irish Finance Minister Brian Lenihan, Jnr hands down the hardest budget in the country's history. ](/news/2010/12/7/irish-financial-crisis-irish-finance-minister-brian-lenihan-jnr-hands-down-the-hardest-budget-in-the-country-s-history.md) _2017-08-27 03:31:26 (Update)_
+2. [Irish Finance Minister Brian Lenihan, Jnr hands down the hardest budget in the country's history. ](/news/2010/12/7/irish-finance-minister-brian-lenihan-jnr-hands-down-the-hardest-budget-in-the-country-s-history.md) _(Current version)_

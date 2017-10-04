@@ -7,7 +7,7 @@ _Context: Omsk, Russia, nursing home_
 _Context: Special Court for Sierra Leone, child soldiers, international court_
 
 ### [ The government of Dubai announces that it has purchased the RMS "Queen Elizabeth 2" from Cunard Line for US$100-million. It intends to turn her into a floating hotel at the Palm Jumeirah when she leaves service in late 2008. ](/news/2007/06/20/the-government-of-dubai-announces-that-it-has-purchased-the-rms-queen-elizabeth-2-from-cunard-line-for-us-100-million-it-intends-to-turn.md)
-_Context: 2008, Cunard Line, Dubai, Palm Jumeirah, RMS ''Queen Elizabeth 2'', US$, hotel_
+_Context: $, 2008, Cunard Line, Dubai, Palm Jumeirah, RMS ''Queen Elizabeth 2'', hotel_
 
 ### [ Nursultan Nazarbayev, President of Kazakhstan, dissolves parliament, triggering a legislative election for August 18, 2007. ](/news/2007/06/20/nursultan-nazarbayev-president-of-kazakhstan-dissolves-parliament-triggering-a-legislative-election-for-august-18-2007.md)
 _Context: Kazakhstani legislative election, 2007, Nursultan Nazarbayev's, President_
@@ -16,7 +16,7 @@ _Context: Kazakhstani legislative election, 2007, Nursultan Nazarbayev's, Presid
 Israel will allow an unspecified number of Palestinians desperately fleeing the Hamas-controlled Gaza Strip to enter Israel, the Defence Ministry says.
 
 ### [ The Prime Minister of Australia, John Howard, announces plans to buy three Spanish-designed warships and two large Spanish landing ships for the Royal Australian Navy at a cost of $A11-billion. ](/news/2007/06/20/the-prime-minister-of-australia-john-howard-announces-plans-to-buy-three-spanish-designed-warships-and-two-large-spanish-landing-ships-fo.md)
-_Context: A$, Australian Prime Minister, John Howard, Royal Australian Navy, Spain, landing ship, warships_
+_Context: A$, Australian Prime Minister, John Howard, Royal Australian Navy, Spanish, landing ship, warships_
 
 ### [ The Sri Lankan military claims to have killed 30 members of the Tamil Tigers in overnight clashes in the east of the country. ](/news/2007/06/20/the-sri-lankan-military-claims-to-have-killed-30-members-of-the-tamil-tigers-in-overnight-clashes-in-the-east-of-the-country.md)
 _Context: Sri Lanka, Tamil Tigers, overnight clashes_

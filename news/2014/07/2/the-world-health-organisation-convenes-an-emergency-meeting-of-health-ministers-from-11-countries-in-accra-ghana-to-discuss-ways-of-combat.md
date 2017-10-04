@@ -17,3 +17,8 @@ Health ministers from 11 African countries are meeting in Accra, Ghana, in an at
 3. [Flooding in southern Ghana caused by heavy rain leaves at least 10 people dead and the streets of Accra under water. ](/news/2016/06/16/flooding-in-southern-ghana-caused-by-heavy-rain-leaves-at-least-10-people-dead-and-the-streets-of-accra-under-water.md) _Context: Accra_
 4. [The World Health Organisation warns that the Zika virus could spread to most countries in the Americas. ](/news/2016/01/25/the-world-health-organisation-warns-that-the-zika-virus-could-spread-to-most-countries-in-the-americas.md) _Context: World Health Organisation_
 5. [The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md) _Context: World Health Organisation_
+
+### Changes:
+
+1. [2014 West Africa Ebola outbreak: The World Health Organisation convenes an emergency meeting of health ministers from 11 countries in Accra, Ghana, to discuss ways of combatting the outbreak which has so far infected 763 people, leading to 468 deaths. ](/news/2014/07/2/2014-west-africa-ebola-outbreak-the-world-health-organisation-convenes-an-emergency-meeting-of-health-ministers-from-11-countries-in-accra.md) _2017-08-27 03:40:55 (First version)_
+1. [The World Health Organisation convenes an emergency meeting of health ministers from 11 countries in Accra, Ghana, to discuss ways of combatting the outbreak which has so far infected 763 people, leading to 468 deaths. ](/news/2014/07/2/the-world-health-organisation-convenes-an-emergency-meeting-of-health-ministers-from-11-countries-in-accra-ghana-to-discuss-ways-of-combat.md) _(Current version)_

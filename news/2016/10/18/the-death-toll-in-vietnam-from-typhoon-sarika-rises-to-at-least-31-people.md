@@ -17,3 +17,8 @@ Vietnam is preparing itself for Typhoon Sarika, which has already brought torren
 3. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Vietnam_
 4. [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md) _Context: Vietnam_
 5. [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md) _Context: Vietnam_
+
+### Changes:
+
+1. [2016 Pacific typhoon season: The death toll in Vietnam, from Typhoon Sarika, rises to at least 31 people. ](/news/2016/10/18/2016-pacific-typhoon-season-the-death-toll-in-vietnam-from-typhoon-sarika-rises-to-at-least-31-people.md) _2017-08-27 03:47:05 (First version)_
+1. [The death toll in Vietnam, from Typhoon Sarika, rises to at least 31 people. ](/news/2016/10/18/the-death-toll-in-vietnam-from-typhoon-sarika-rises-to-at-least-31-people.md) _(Current version)_

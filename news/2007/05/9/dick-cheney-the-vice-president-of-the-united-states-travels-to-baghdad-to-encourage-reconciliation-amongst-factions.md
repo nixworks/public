@@ -17,3 +17,9 @@
 3. [Former Vice President of the United States Dick Cheney, who has a long history of heart problems, is hospitalized. ](/news/2010/06/26/former-vice-president-of-the-united-states-dick-cheney-who-has-a-long-history-of-heart-problems-is-hospitalized.md) _Context: Dick Cheney, U.S. Vice President_
 4. [ Head of the CIA Leon Panetta accuses former United States Vice President Dick Cheney of hiding an intelligence program from Congress. ](/news/2009/07/12/head-of-the-cia-leon-panetta-accuses-former-united-states-vice-president-dick-cheney-of-hiding-an-intelligence-program-from-congress.md) _Context: Dick Cheney, U.S. Vice President_
 5. [ The Vice-President of the United States Dick Cheney makes an unannounced visit to Afghanistan to hold discussions with the President of Afghanistan. ](/news/2008/03/20/the-vice-president-of-the-united-states-dick-cheney-makes-an-unannounced-visit-to-afghanistan-to-hold-discussions-with-the-president-of-afg.md) _Context: Dick Cheney, U.S. Vice President_
+
+### Changes:
+
+1. [ Iraq War: Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-p-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md) _2017-08-25 03:19:47 (First version)_
+2. [ Iraq War:: Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md) _2017-08-27 03:19:44 (Update)_
+2. [ Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md) _(Current version)_

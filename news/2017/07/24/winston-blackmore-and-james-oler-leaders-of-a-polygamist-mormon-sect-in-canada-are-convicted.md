@@ -16,3 +16,10 @@
 3. [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md) _Context: Canada_
 4. [A state of emergency is declared in Montreal, Canada as 1,200 Canadian Forces personnel are deployed in the province of Quebec to help with rising floodwaters. 146 communities are affected and more than 1,500 residents have been evacuated from their homes. ](/news/2017/05/7/a-state-of-emergency-is-declared-in-montreal-canada-as-1-200-canadian-forces-personnel-are-deployed-in-the-province-of-quebec-to-help-with.md) _Context: Canada_
 5. [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md) _Context: Canada_
+
+### Changes:
+
+1. [Winston Blackmore James Oler, leaders of a polygamist Mormon cult in Canada, is convicted. ](/news/2017/07/24/winston-blackmore-james-oler-leaders-of-a-polygamist-mormon-cult-in-canada-is-convicted.md) _2017-07-25 11:30:06 (First version)_
+2. [Winston Blackmore and James Oler, leaders of a polygamist Mormon cult in Canada, is convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-cult-in-canada-is-convicted.md) _2017-07-25 13:30:05 (Update)_
+3. [Freedom of religion in Canada: Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/freedom-of-religion-in-canada-winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _2017-08-27 03:48:43 (Update)_
+3. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _(Current version)_

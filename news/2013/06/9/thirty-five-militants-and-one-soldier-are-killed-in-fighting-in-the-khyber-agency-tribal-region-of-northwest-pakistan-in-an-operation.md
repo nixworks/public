@@ -17,3 +17,9 @@ Thirty-five militants and a soldier have died in fighting in the restive Khyber 
 3. [ The Army and the Taliban battle in Mingora, Swat, Pakistan. ](/news/2009/05/23/the-army-and-the-taliban-battle-in-mingora-swat-pakistan.md) _Context: Pakistan, Pakistan army, Taliban_
 4. [ Two Army soldiers and 13 Taliban militants are killed during a raid in Mohmand Agency, Pakistan. ](/news/2009/05/2/two-army-soldiers-and-13-taliban-militants-are-killed-during-a-raid-in-mohmand-agency-pakistan.md) _Context: Pakistan, Pakistan army, Taliban_
 5. [ The Army raids a Taliban military base in Swat, Pakistan. ](/news/2009/05/12/the-army-raids-a-taliban-military-base-in-swat-pakistan.md) _Context: Pakistan, Pakistan army, Taliban_
+
+### Changes:
+
+1. [War in North-West Pakistan:Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/war-in-north-west-pakistan-pthirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pak.md) _2017-08-25 03:38:48 (First version)_
+2. [War in North-West Pakistan:: Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/war-in-north-west-pakistan-thirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pa.md) _2017-08-27 03:39:02 (Update)_
+2. [Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/thirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pakistan-in-an-operation.md) _(Current version)_

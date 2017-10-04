@@ -16,3 +16,8 @@
 3. [A heatwave in India has claimed 300 lives in April with daytime cooking banned in some parts of the country to prevent fires which have claimed an additional 80 lives. ](/news/2016/04/30/a-heatwave-in-india-has-claimed-300-lives-in-april-with-daytime-cooking-banned-in-some-parts-of-the-country-to-prevent-fires-which-have-clai.md) _Context: heatwave_
 4. [More than 100 are feared dead in an early summer heatwave in India which has forced the closure of schools. ](/news/2016/04/21/more-than-100-are-feared-dead-in-an-early-summer-heatwave-in-india-which-has-forced-the-closure-of-schools.md) _Context: heatwave_
 5. [Air Canada Flight 88, a scheduled flight from Shanghai to Toronto, diverts to Calgary International Airport after the aircraft, a Boeing 777, encountered violent turbulence. Twenty-one passengers, including three children, were taken to hospital. ](/news/2015/12/31/air-canada-flight-88-a-scheduled-flight-from-shanghai-to-toronto-diverts-to-calgary-international-airport-after-the-aircraft-a-boeing-777.md) _Context: Shanghai_
+
+### Changes:
+
+1. [At least ten people die as a result of a heatwave in the Shanghai which has recorded its highest temperatures on record, surpassing {{convert|40|C}}. ](/news/2013/07/31/at-least-ten-people-die-as-a-result-of-a-heatwave-in-the-shanghai-which-has-recorded-its-highest-temperatures-on-record-surpassing-conver.md) _2017-05-01 03:42:22 (First version)_
+1. [At least ten people die as a result of a heatwave in the Shanghai which has recorded its highest temperatures on record, surpassing 40 C. ](/news/2013/07/31/at-least-ten-people-die-as-a-result-of-a-heatwave-in-the-shanghai-which-has-recorded-its-highest-temperatures-on-record-surpassing-40-c.md) _(Current version)_

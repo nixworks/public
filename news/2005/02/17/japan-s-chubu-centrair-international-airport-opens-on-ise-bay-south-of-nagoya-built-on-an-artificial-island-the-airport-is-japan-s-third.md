@@ -17,3 +17,8 @@
 3. [The United States and Australia warn China they remain committed to freedom of navigation in the waters of the South China Sea and express strong concerns at China's construction of artificial islands in the disputed waters. ](/news/2015/10/13/the-united-states-and-australia-warn-china-they-remain-committed-to-freedom-of-navigation-in-the-waters-of-the-south-china-sea-and-express-s.md) _Context: man-made islands_
 4. [A rail operator JR Tokai unveil a prototype of high-speed maglev L0 train, which it plans to operate on a route Tokyo-Nagoya from 2027. ](/news/2012/11/23/a-rail-operator-jr-tokai-unveil-a-prototype-of-high-speed-maglev-l0-train-which-it-plans-to-operate-on-a-route-tokyoanagoya-from-2027.md) _Context: Nagoya_
 5. [ World Expo 2005 opens in Nagoya, Japan. ](/news/2005/03/24/world-expo-2005-opens-in-nagoya-japan.md) _Context: Nagoya_
+
+### Changes:
+
+1. [ Japan's Chubu Centrair International Airport opens on Ise Bay, south of Nagoya. Built on an artificial island, the airport is Japan's third largest international passenger airport, and is intended to replace nearby Nagoya Airport. ](/news/2005/02/17/japan-s-chubu-centrair-international-airport-opens-on-ise-bay-south-of-nagoya-built-on-an-artificial-island-the-airport-is-japan-s-thir.md) _2017-08-25 03:15:40 (First version)_
+1. [ Japan's Chubu Centrair International Airport opens on Ise Bay, south of Nagoya. Built on an artificial island, the airport is Japan's third largest international passenger airport, and is intended to replace nearby Nagoya Airport. ](/news/2005/02/17/japan-s-chubu-centrair-international-airport-opens-on-ise-bay-south-of-nagoya-built-on-an-artificial-island-the-airport-is-japan-s-third.md) _(Current version)_

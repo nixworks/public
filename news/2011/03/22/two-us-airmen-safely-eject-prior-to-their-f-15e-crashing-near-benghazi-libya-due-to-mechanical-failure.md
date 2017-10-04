@@ -20,3 +20,9 @@ Two US airmen are rescued in eastern Libya after their warplane crashed during a
 3. [United States Air Force warplanes carry out airstrikes on ISIL in western Libya, near the Tunisian border, reportedly killing at least 38 people. ](/news/2016/02/19/united-states-air-force-warplanes-carry-out-airstrikes-on-isil-in-western-libya-near-the-tunisian-border-reportedly-killing-at-least-38-pe.md) _Context: Air Force, Libya_
 4. [A major power station in the eastern Libyan city of Benghazi is shelled by militants. ](/news/2016/01/9/a-major-power-station-in-the-eastern-libyan-city-of-benghazi-is-shelled-by-militants.md) _Context: Benghazi, Libya_
 5. [At least nine people are killed and dozens injured in the eastern Libyan city of Benghazi after several mortar shells hit a protest against a UN proposal for a unity government to end the four-year long crisis in the country. ](/news/2015/10/23/at-least-nine-people-are-killed-and-dozens-injured-in-the-eastern-libyan-city-of-benghazi-after-several-mortar-shells-hit-a-protest-against.md) _Context: Benghazi, Libya_
+
+### Changes:
+
+1. [2011 Libyan civil war:Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/2011-libyan-civil-war-ptwo-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md) _2017-08-25 03:32:37 (First version)_
+2. [2011 Libyan civil war:: Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/2011-libyan-civil-war-two-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md) _2017-08-27 03:32:45 (Update)_
+2. [Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/two-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md) _(Current version)_

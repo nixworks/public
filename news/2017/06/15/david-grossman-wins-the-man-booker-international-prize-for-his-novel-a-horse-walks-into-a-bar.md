@@ -17,3 +17,8 @@ David Grossman is awarded the Man Booker International Prize for his novel about
 3. [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md) _Context: Man Booker International Prize_
 4. [ Egyptian Culture Minister Farouk Hosni announces that the ministry will publish Arabic translations of novels by Israeli writers Amos Oz and David Grossman. ](/news/2009/06/11/egyptian-culture-minister-farouk-hosni-announces-that-the-ministry-will-publish-arabic-translations-of-novels-by-israeli-writers-amos-oz-an.md) _Context: David Grossman_
 5. [ Nigerian author Chinua Achebe wins the Man Booker International Prize in honour of his career. ](/news/2007/06/12/nigerian-author-chinua-achebe-wins-the-man-booker-international-prize-in-honour-of-his-career.md) _Context: Man Booker International Prize_
+
+### Changes:
+
+1. [ Man Booker International Prize: David Grossman wins the Man Booker International Prize for his novel "A Horse Walks Into a Bar". ](/news/2017/06/15/man-booker-international-prize-david-grossman-wins-the-man-booker-international-prize-for-his-novel-a-horse-walks-into-a-bar.md) _2017-08-27 03:48:29 (First version)_
+1. [David Grossman wins the Man Booker International Prize for his novel "A Horse Walks Into a Bar". ](/news/2017/06/15/david-grossman-wins-the-man-booker-international-prize-for-his-novel-a-horse-walks-into-a-bar.md) _(Current version)_

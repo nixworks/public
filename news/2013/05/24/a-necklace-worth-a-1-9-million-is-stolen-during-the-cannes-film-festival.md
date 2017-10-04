@@ -17,3 +17,8 @@
 3. [The French film "Blue Is the Warmest Colour" wins the Palme d'Or at the 2013 Cannes Film Festival. ](/news/2013/05/26/the-french-film-blue-is-the-warmest-colour-wins-the-palme-d-or-at-the-2013-cannes-film-festival.md) _Context: 2013 Cannes Film Festival_
 4. [The 2013 Cannes Film Festival opens with a showing of "The Great Gatsby". ](/news/2013/05/15/the-2013-cannes-film-festival-opens-with-a-showing-of-the-great-gatsby.md) _Context: 2013 Cannes Film Festival_
 5. [The Cannes Film Festival board of directors announce that Steven Spielberg will head the 2013 Cannes Film Festival jury. ](/news/2013/02/28/the-cannes-film-festival-board-of-directors-announce-that-steven-spielberg-will-head-the-2013-cannes-film-festival-jury.md) _Context: 2013 Cannes Film Festival_
+
+### Changes:
+
+1. [A necklace worth -1.9 million is stolen during the Cannes film festival. ](/news/2013/05/24/a-necklace-worth-1-9-million-is-stolen-during-the-cannes-film-festival.md) _2017-08-27 03:38:56 (First version)_
+1. [A necklace worth EUR1.9 million is stolen during the Cannes film festival. ](/news/2013/05/24/a-necklace-worth-a-1-9-million-is-stolen-during-the-cannes-film-festival.md) _(Current version)_

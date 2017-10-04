@@ -12,3 +12,8 @@
 3. [British astronomer and broadcaster Sir Patrick Moore, presenter of "The Sky at Night" for over 55 years, dies aged 89. ](/news/2012/12/9/british-astronomer-and-broadcaster-sir-patrick-moore-presenter-of-the-sky-at-night-for-over-55-years-dies-aged-89.md) _Context: Astronomers_
 4. [ESO astronomers discover an unexpected spiral structure around carbon star R Sculptoris. ](/news/2012/10/10/eso-astronomers-discover-an-unexpected-spiral-structure-around-carbon-star-r-sculptoris.md) _Context: Astronomers_
 5. [Scientists exhume the remains of 16th century astronomer Tycho Brahe in Prague to try to solve the mystery of his sudden death. ](/news/2010/11/15/scientists-exhume-the-remains-of-16th-century-astronomer-tycho-brahe-in-prague-to-try-to-solve-the-mystery-of-his-sudden-death.md) _Context: Astronomers_
+
+### Changes:
+
+1. [ Astronomy: Astronomers announce the discovery of an asteroid (2003 QQ 47 ) whose orbit has a remote chance of striking earth.](/news/2003/09/2/astronomy-astronomers-announce-the-discovery-of-an-asteroid-2003-qq47-whose-orbit-has-a-remote-chance-of-striking-earth.md) _2017-10-02 03:15:46 (First version)_
+1. [ Astronomy: Astronomers announce the discovery of an asteroid (2003 QQ 47 ) whose orbit has a remote chance of striking earth.](/news/2003/09/2/astronomy-astronomers-announce-the-discovery-of-an-asteroid-2003-qq-47-whose-orbit-has-a-remote-chance-of-striking-earth.md) _(Current version)_

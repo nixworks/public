@@ -18,3 +18,8 @@ Four&#x20;Saudi&#x20;soldiers&#x20;and&#x20;dozens&#x20;of&#x20;Yemeni&#x20;rebe
 3. [The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/the-united-states-is-to-limit-military-support-to-saudi-arabia-s-military-intervention-in-yemen-amid-concerns-over-rising-civilian-casualtie.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 4. [The Saudi-led coalition announces a 48 hour ceasefire in Yemen from noon. ](/news/2016/11/19/the-saudi-led-coalition-announces-a-48-hour-ceasefire-in-yemen-from-noon.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 5. [Two prisons in Al Hudaydah, Yemen, are bombed by Saudi Arabian jets, leaving at least 60 dead. ](/news/2016/10/29/two-prisons-in-al-hudaydah-yemen-are-bombed-by-saudi-arabian-jets-leaving-at-least-60-dead.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabian-led-intervention-in-yemen-saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-me.md) _2017-08-27 03:42:29 (First version)_
+1. [Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-media.md) _(Current version)_

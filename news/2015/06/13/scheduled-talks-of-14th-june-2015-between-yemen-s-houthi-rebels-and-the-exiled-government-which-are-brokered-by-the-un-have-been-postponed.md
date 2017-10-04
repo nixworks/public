@@ -17,3 +17,8 @@ Peace talks between Yemen&#39;s warring parties have been postponed to Monday fr
 3. [Saudi-led coalition forces bomb Houthi targets in several provinces of Yemen, killing at least 15 people, despite a UN-brokered truce. ](/news/2015/07/12/saudi-led-coalition-forces-bomb-houthi-targets-in-several-provinces-of-yemen-killing-at-least-15-people-despite-a-un-brokered-truce.md) _Context: Houthi, UN_
 4. [The Saudi-led coalition launches airstrikes on Houthi gatherings in Taez. ](/news/2015/06/7/the-saudi-led-coalition-launches-airstrikes-on-houthi-gatherings-in-taez.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
 5. [Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-media.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: Scheduled talks of 14th June, 2015 between Yemen's Houthi rebels and the exiled government which are brokered by the UN have been postponed with a new schedule set for Monday 15 June, 2015. ](/news/2015/06/13/saudi-arabian-led-intervention-in-yemen-scheduled-talks-of-14th-june-2015-between-yemen-s-houthi-rebels-and-the-exiled-government-which-ar.md) _2017-08-27 03:42:32 (First version)_
+1. [Scheduled talks of 14th June, 2015 between Yemen's Houthi rebels and the exiled government which are brokered by the UN have been postponed with a new schedule set for Monday 15 June, 2015. ](/news/2015/06/13/scheduled-talks-of-14th-june-2015-between-yemen-s-houthi-rebels-and-the-exiled-government-which-are-brokered-by-the-un-have-been-postponed.md) _(Current version)_

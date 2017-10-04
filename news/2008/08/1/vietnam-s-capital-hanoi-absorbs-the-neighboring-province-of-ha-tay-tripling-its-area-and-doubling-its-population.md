@@ -17,3 +17,8 @@
 3. [Ballroom dancers and aerobics classes have popped up in the midst of an anti-China protest in Hanoi, Vietnam, in an apparent ploy by the government to break up the event. ](/news/2014/02/18/ballroom-dancers-and-aerobics-classes-have-popped-up-in-the-midst-of-an-anti-china-protest-in-hanoi-vietnam-in-an-apparent-ploy-by-the-gov.md) _Context: Hanoi, Vietnam_
 4. [A representative from the Vietnamese Foreign Ministry's National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministryas-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md) _Context: Hanoi, Vietnam_
 5. [An anti-China protest takes place in Hanoi, Vietnam, for the second weekend in a row, amid a territorial dispute between the two countries. ](/news/2011/06/12/an-anti-china-protest-takes-place-in-hanoi-vietnam-for-the-second-weekend-in-a-row-amid-a-territorial-dispute-between-the-two-countries.md) _Context: Hanoi, Vietnam_
+
+### Changes:
+
+1. [ Vietnam's capital Hanoi absorbs the neighboring province of H T-y, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-t-y-tripling-its-area-and-doubling-its-population.md) _2017-08-27 03:22:32 (First version)_
+1. [ Vietnam's capital Hanoi absorbs the neighboring province of H Ty, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-tay-tripling-its-area-and-doubling-its-population.md) _(Current version)_

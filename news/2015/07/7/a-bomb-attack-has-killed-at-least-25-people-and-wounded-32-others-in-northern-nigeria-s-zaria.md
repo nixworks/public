@@ -17,3 +17,8 @@
 3. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Boko Haram insurgency_
 4. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Boko Haram insurgency_
 5. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Boko Haram insurgency_
+
+### Changes:
+
+1. [Boko Haram insurgency: Timeline of Boko Haram insurgency: A bomb attack has killed at least 25 people and wounded 32 others in northern Nigeria's Zaria. ](/news/2015/07/7/boko-haram-insurgency-timeline-of-boko-haram-insurgency-a-bomb-attack-has-killed-at-least-25-people-and-wounded-32-others-in-northern-nige.md) _2017-08-27 03:42:40 (First version)_
+1. [ A bomb attack has killed at least 25 people and wounded 32 others in northern Nigeria's Zaria. ](/news/2015/07/7/a-bomb-attack-has-killed-at-least-25-people-and-wounded-32-others-in-northern-nigeria-s-zaria.md) _(Current version)_

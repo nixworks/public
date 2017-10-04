@@ -17,3 +17,8 @@ A mass shooting in San Bernardino, California, that left 14 people dead, is bein
 3. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: Islamic State_
 4. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Islamic State_
 5. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Islamic State_
+
+### Changes:
+
+1. [2015 San Bernardino shooting: Tashfeen Malik, the female suspect in the San Bernardino, California shootings pledged allegiance to the Islamic State of Iraq and the Levant online. ](/news/2015/12/4/2015-san-bernardino-shooting-tashfeen-malik-the-female-suspect-in-the-san-bernardino-california-shootings-pledged-allegiance-to-the-islam.md) _2017-08-27 03:44:11 (First version)_
+1. [Tashfeen Malik, the female suspect in the San Bernardino, California shootings pledged allegiance to the Islamic State of Iraq and the Levant online. ](/news/2015/12/4/tashfeen-malik-the-female-suspect-in-the-san-bernardino-california-shootings-pledged-allegiance-to-the-islamic-state-of-iraq-and-the-levan.md) _(Current version)_

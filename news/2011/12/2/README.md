@@ -7,7 +7,7 @@ Crowds attacked liquor stores, a massage parlor and hotels in the town of Zakho.
 _Context: Agriculture Committee, Jon Corzine, MF Global, New Jersey, U.S. House of Representatives_
 
 ### [United States Secretary of State Hillary Clinton meets with Aung San Suu Kyi, Burma's pre-eminent pro-democracy activist, to promote democratic reforms. ](/news/2011/12/2/united-states-secretary-of-state-hillary-clinton-meets-with-aung-san-suu-kyi-burma-s-pre-eminent-pro-democracy-activist-to-promote-democra.md)
-_Context: Aung San Suu Kyi, Burma, Hillary Clinton, United States Secretary of State, democratic reforms_
+_Context: Aung San Suu Kyi, Burma, Hillary Clinton, Secretary of State, democratic reforms_
 
 ### [The United Nations Human Rights Council denounces the crimes against humanity during the 2011 Syrian uprising which killed over 4,000 people since the uprising started in March. ](/news/2011/12/2/the-united-nations-human-rights-council-denounces-the-crimes-against-humanity-during-the-2011-syrian-uprising-which-killed-over-4-000-people.md)
 _Context: 2011 Syrian uprising, Human Rights Council, crimes against humanity_

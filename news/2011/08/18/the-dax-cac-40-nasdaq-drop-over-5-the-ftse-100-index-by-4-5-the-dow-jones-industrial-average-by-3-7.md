@@ -18,3 +18,8 @@ The S.&P. dropped 4.5 percent amid heightened concerns over the impact of the eu
 3. [The Dow Jones Industrial Average and S&P 500 close at record highs, with the NASDAQ hitting its highest level in ten years. ](/news/2013/07/12/the-dow-jones-industrial-average-and-s-p-500-close-at-record-highs-with-the-nasdaq-hitting-its-highest-level-in-ten-years.md) _Context: Dow Jones Industrial Average, Nasdaq_
 4. [The Dow Jones Industrial Average, NASDAQ, and S&P 500 close at their lowest levels of 2012. ](/news/2012/05/18/the-dow-jones-industrial-average-nasdaq-and-s-p-500-close-at-their-lowest-levels-of-2012.md) _Context: Dow Jones Industrial Average, Nasdaq_
 5. [Stock markets in Asia, Australia, and the United States fall further after the credit rating of the United States is downgraded with the Dow Jones Industrial Average falling by over 634 points, 5.55%. ](/news/2011/08/8/stock-markets-in-asia-australia-and-the-united-states-fall-further-after-the-credit-rating-of-the-united-states-is-downgraded-with-the-dow.md) _Context: Dow Jones Industrial Average, trend_
+
+### Changes:
+
+1. [August 2011 stock markets fall: The DAX, CAC 40, Nasdaq drop over 5%, the FTSE 100 index by 4.5%, the Dow Jones Industrial Average by 3.7%. ](/news/2011/08/18/august-2011-stock-markets-fall-the-dax-cac-40-nasdaq-drop-over-5-the-ftse-100-index-by-4-5-the-dow-jones-industrial-average-by-3-7.md) _2017-08-27 03:34:09 (First version)_
+1. [The DAX, CAC 40, Nasdaq drop over 5%, the FTSE 100 index by 4.5%, the Dow Jones Industrial Average by 3.7%. ](/news/2011/08/18/the-dax-cac-40-nasdaq-drop-over-5-the-ftse-100-index-by-4-5-the-dow-jones-industrial-average-by-3-7.md) _(Current version)_

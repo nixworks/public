@@ -17,3 +17,8 @@ The bodies of 40 migrants have been found washed ashore in Libya, with a search 
 3. [More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. ](/news/2017/04/14/more-than-2-000-migrants-are-rescued-from-the-mediterranean-sea-off-the-coast-of-libya.md) _Context: European migrant crisis, Libya_
 4. [A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.md) _Context: European migrant crisis, Libya_
 5. [Around 100 people are feared to have drowned in the Mediterranean Sea off the coast of Libya. So far this week, 18 people are confirmed dead and 340 missing attempting to migrate to Europe. ](/news/2016/11/17/around-100-people-are-feared-to-have-drowned-in-the-mediterranean-sea-off-the-coast-of-libya-so-far-this-week-18-people-are-confirmed-dead.md) _Context: European migrant crisis, Libya_
+
+### Changes:
+
+1. [European migrant crisis: The bodies of 40 migrants wash ashore on the Libyan coast with another 30 people missing. ](/news/2015/10/25/european-migrant-crisis-the-bodies-of-40-migrants-wash-ashore-on-the-libyan-coast-with-another-30-people-missing.md) _2017-08-27 03:43:30 (First version)_
+1. [The bodies of 40 migrants wash ashore on the Libyan coast with another 30 people missing. ](/news/2015/10/25/the-bodies-of-40-migrants-wash-ashore-on-the-libyan-coast-with-another-30-people-missing.md) _(Current version)_

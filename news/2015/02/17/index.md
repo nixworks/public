@@ -10,7 +10,7 @@ _Context: Derry, Dissident Irish Republican campaign, Dissident republican, Nort
 _Context: Kasserine region, Okba Ibn Nafaa, Tunisia_
 
 ### [South Korean company Samsung Electronics says that they have $56 billion in cash and plan to use some of it for mergers and acquisitions. ](/news/2015/02/17/south-korean-company-samsung-electronics-says-that-they-have-56-billion-in-cash-and-plan-to-use-some-of-it-for-mergers-and-acquisitions.md)
-_Context: Samsung, South Korea, US$, pre-merger_
+_Context: $, Samsung, South Korea, pre-merger_
 
 ### [Carnival festivities are cancelled after at least twenty people are killed in a float accident in Port-au-Prince. ](/news/2015/02/17/carnival-festivities-are-cancelled-after-at-least-twenty-people-are-killed-in-a-float-accident-in-port-au-prince.md)
 _Context: Carnival, Port-au-Prince, float, killed_

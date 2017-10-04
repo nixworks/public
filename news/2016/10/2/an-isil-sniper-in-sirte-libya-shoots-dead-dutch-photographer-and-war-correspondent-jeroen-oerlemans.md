@@ -17,3 +17,8 @@ A Dutch journalist has been killed while covering a government-backed offensive 
 3. [Warplanes of unidentified origin carry out airstrikes on ISIS camps in the Libyan city of Sirte. ](/news/2015/10/20/warplanes-of-unidentified-origin-carry-out-airstrikes-on-isis-camps-in-the-libyan-city-of-sirte.md) _Context: Islamic State, Libya, Libyan Civil War (2014-present), Sirte_
 4. [U.S. B-2 stealth bombers strike two ISIL camps, south of the city of Sirte, Libya, killing more than 80 militants, according to United States Secretary of Defense Ash Carter. ](/news/2017/01/19/u-s-b-2-stealth-bombers-strike-two-isil-camps-south-of-the-city-of-sirte-libya-killing-more-than-80-militants-according-to-united-state.md) _Context: Libya, Libyan Civil War (2014-present), Sirte_
 5. [Libyan forces claim to have captured the port in the city of Sirte after heavy fighting with ISIL. ](/news/2016/06/11/libyan-forces-claim-to-have-captured-the-port-in-the-city-of-sirte-after-heavy-fighting-with-isil.md) _Context: Libya, Libyan Civil War (2014-present), Sirte_
+
+### Changes:
+
+1. [Libyan Civil War (2014-present): An ISIL sniper in Sirte, Libya, shoots dead Dutch photographer and war correspondent Jeroen Oerlemans. ](/news/2016/10/2/libyan-civil-war-2014-present-an-isil-sniper-in-sirte-libya-shoots-dead-dutch-photographer-and-war-correspondent-jeroen-oerlemans.md) _2017-08-27 03:46:56 (First version)_
+1. [An ISIL sniper in Sirte, Libya, shoots dead Dutch photographer and war correspondent Jeroen Oerlemans. ](/news/2016/10/2/an-isil-sniper-in-sirte-libya-shoots-dead-dutch-photographer-and-war-correspondent-jeroen-oerlemans.md) _(Current version)_

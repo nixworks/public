@@ -13,3 +13,8 @@
 ### Related:
 
 1. [The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md) _Context: 2016 Cascade Mall shooting_
+
+### Changes:
+
+1. [2016 Cascade Mall shooting: An, as yet, uncaptured shooter at a mall in the town of Burlington, Washington kills at least three people and injures two others. ](/news/2016/09/23/2016-cascade-mall-shooting-an-as-yet-uncaptured-shooter-at-a-mall-in-the-town-of-burlington-washington-kills-at-least-three-people-and-i.md) _2017-08-27 03:46:54 (First version)_
+1. [An, as yet, uncaptured shooter at a mall in the town of Burlington, Washington kills at least three people and injures two others. ](/news/2016/09/23/an-as-yet-uncaptured-shooter-at-a-mall-in-the-town-of-burlington-washington-kills-at-least-three-people-and-injures-two-others.md) _(Current version)_

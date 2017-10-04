@@ -16,3 +16,8 @@
 3. [Typhoon Goni kills two people in the Philippines with thousands of people evacuated in the Philippines and Taiwan. ](/news/2015/08/21/typhoon-goni-kills-two-people-in-the-philippines-with-thousands-of-people-evacuated-in-the-philippines-and-taiwan.md) _Context: 2015 Pacific typhoon season, Philippines, Typhoon Goni_
 4. [Typhoon Melor (Nona) causes widespread flooding and blackouts in the Philippines. More than 700,000 people had been evacuated ahead of the storm which hit late on Monday night. ](/news/2015/12/15/typhoon-melor-nona-causes-widespread-flooding-and-blackouts-in-the-philippines-more-than-700-000-people-had-been-evacuated-ahead-of-the-s.md) _Context: 2015 Pacific typhoon season, Philippines_
 5. [The death toll for Typhoon Koppu (Lando) in the Philippines rises to 54 with more than 1.2 million affected. ](/news/2015/10/22/the-death-toll-for-typhoon-koppu-lando-in-the-philippines-rises-to-54-with-more-than-1-2-million-affected.md) _Context: 2015 Pacific typhoon season, Philippines_
+
+### Changes:
+
+1. [2015 Pacific typhoon season: Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/2015-pacific-typhoon-season-typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md) _2017-08-27 03:42:53 (First version)_
+1. [Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [Typhoon Rammasun, which has killed at least 54 people in the Philippines, approaches the southern China provinces of Hainan and Guangdong. ](/news/2014/07/18/typhoon-rammasun-which-has-killed-at-least-54-people-in-the-philippines-approaches-the-southern-china-provinces-of-hainan-and-guangdong.md) _Context: China, Philippines, Typhoon Rammasun (Glenda)_
 4. [Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/typhoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-the-philippines-with-eight-missi.md) _Context: China, Philippines, Typhoon Rammasun (Glenda)_
 5. [At a United Nations-Oceans summit, delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their levels of oceanic plastic pollution. ](/news/2017/06/8/at-a-united-nations-oceans-summit-delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into.md) _Context: China, Philippines_
+
+### Changes:
+
+1. [2014 Pacific typhoon season: The death toll from Typhoon Rammasun reaches 94 in the Philippines and 18 in southern China. ](/news/2014/07/20/2014-pacific-typhoon-season-the-death-toll-from-typhoon-rammasun-reaches-94-in-the-philippines-and-18-in-southern-china.md) _2017-08-27 03:41:01 (First version)_
+1. [The death toll from Typhoon Rammasun reaches 94 in the Philippines and 18 in southern China. ](/news/2014/07/20/the-death-toll-from-typhoon-rammasun-reaches-94-in-the-philippines-and-18-in-southern-china.md) _(Current version)_

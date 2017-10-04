@@ -19,3 +19,8 @@ Prime Minister John Key says he is disappointed New Zealanders have voted to kee
 3. [Four alternatives to the current New Zealand flag are chosen for a Spring referendum (20 November - 11 December 2015) in which New Zealanders will determine their favorite of the new designs. ](/news/2015/09/1/four-alternatives-to-the-current-new-zealand-flag-are-chosen-for-a-spring-referendum-20-november-a-11-december-2015-in-which-new-zealand.md) _Context: New Zealand flag debate, current flag_
 4. [A government appointed panel chooses 40 finalist flag designs out of more than 10,000 submitted. ](/news/2015/08/12/a-government-appointed-panel-chooses-40-finalist-flag-designs-out-of-more-than-10-000-submitted.md) _Context: New Zealand flag debate, current flag_
 5. [New Zealand will hold a referendum regarding its national flag in 2016. ](/news/2014/10/29/new-zealand-will-hold-a-referendum-regarding-its-national-flag-in-2016.md) _Context: New Zealand flag debate, current flag_
+
+### Changes:
+
+1. [New Zealand flag debate: New Zealanders vote to retain the current flag over the proposed design in the nation's flag referendum. More than 2 million people vote in the referendum. ](/news/2016/03/24/new-zealand-flag-debate-new-zealanders-vote-to-retain-the-current-flag-over-the-proposed-design-in-the-nation-s-flag-referendum-more-than.md) _2017-08-27 03:45:21 (First version)_
+1. [New Zealanders vote to retain the current flag over the proposed design in the nation's flag referendum. More than 2 million people vote in the referendum. ](/news/2016/03/24/new-zealanders-vote-to-retain-the-current-flag-over-the-proposed-design-in-the-nation-s-flag-referendum-more-than-2-million-people-vote-in.md) _(Current version)_

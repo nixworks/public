@@ -13,7 +13,7 @@ Special committee decides conflict between Israel, Hizbullah to be named Second 
 _Context: (Wikinews), Arctic Ocean, HMS ''Tireless'', Royal Navy, nuclear submarine_
 
 ### [ United States Secretary of State Condoleezza Rice announces that the Bush administration will cut its security package to the government of the Palestinian National Authority by nearly half in order to ensure that Hamas does not receive funding. ](/news/2007/03/21/united-states-secretary-of-state-condoleezza-rice-announces-that-the-bush-administration-will-cut-its-security-package-to-the-government-of.md)
-_Context: Condoleezza Rice, George W. Bush, Hamas, Palestinian National Authority, United States Secretary of State, administration_
+_Context: Condoleezza Rice, George W. Bush, Hamas, Palestinian National Authority, Secretary of State, administration_
 
 ### [ Supreme Leader of Iran Ayatollah Ali Khamenei warns that Iran will pursue nuclear development outside regulations if the United Nations Security Council imposes sanctions. ](/news/2007/03/21/supreme-leader-of-iran-ayatollah-ali-khamenei-warns-that-iran-will-pursue-nuclear-development-outside-regulations-if-the-united-nations-sec.md)
 _Context: Ali Khamenei, Ayatollah, Iran, Supreme Leader of Iran, United Nations Security Council, nuclear program_

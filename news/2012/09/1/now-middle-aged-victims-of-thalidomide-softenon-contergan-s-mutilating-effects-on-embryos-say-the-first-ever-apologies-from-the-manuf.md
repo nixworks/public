@@ -9,3 +9,8 @@ In its first apology for the scandal in 50 years, Grunenthal said on Friday it w
 
 1. [AFP via ''The Globe and Mail](http://www.theglobeandmail.com/news/world/thalidomide-victims-reject-insulting-apology-from-drug-company/article4514146/)
 1. [Cover Image](http://static.theglobeandmail.ca/3cd/news/world/article4514145.ece/ALTERNATES/w620/thalidomide.JPG)
+
+### Changes:
+
+1. [Now middle-aged victims of Thalidomide (''Softenon'', ''Contergan'')'s mutilating effects on embryos say the first ever apologies from the manufacturer Grunenthal GmbH are "insulting". ](/news/2012/09/1/now-middle-aged-victims-of-thalidomide-softenon-contergan-s-mutilating-effects-on-embryos-say-the-first-ever-apologies-from-the-m.md) _2017-08-25 03:36:23 (First version)_
+1. [Now middle-aged victims of Thalidomide ("Softenon", "Contergan")'s mutilating effects on embryos say the first ever apologies from the manufacturer Grunenthal GmbH are "insulting". ](/news/2012/09/1/now-middle-aged-victims-of-thalidomide-softenon-contergan-s-mutilating-effects-on-embryos-say-the-first-ever-apologies-from-the-manuf.md) _(Current version)_

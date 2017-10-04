@@ -17,3 +17,8 @@ London police arrest trader Kweku Adoboli after Swiss bank UBS says unauthorised
 3. [Oswald Grbel, chief executive of Swiss bank UBS, resigns in the wake of a rogue trading scandal. ](/news/2011/09/24/oswald-grubel-chief-executive-of-swiss-bank-ubs-resigns-in-the-wake-of-a-rogue-trading-scandal.md) _Context: Switzerland, UBS_
 4. [UBS trader Kweku Adoboli is charged with fraud and false accounting. ](/news/2011/09/16/ubs-trader-kweku-adoboli-is-charged-with-fraud-and-false-accounting.md) _Context: Kweku Adoboli, UBS_
 5. [ The United States and Switzerland sign an agreement designed to end a tax evasion dispute surrounding UBS U.S. customers. ](/news/2009/08/19/the-united-states-and-switzerland-sign-an-agreement-designed-to-end-a-tax-evasion-dispute-surrounding-ubs-u-s-customers.md) _Context: Switzerland, UBS_
+
+### Changes:
+
+1. [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (PS1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-aps1-3bn-as-a-result-of-unauthorised-tradin.md) _2017-08-25 03:34:09 (First version)_
+1. [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (GBP1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-agbp1-3bn-as-a-result-of-unauthorised-trad.md) _(Current version)_

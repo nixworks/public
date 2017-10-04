@@ -17,3 +17,8 @@ Tens of thousands of Syrian Kurds have flooded into Turkey, prompting an appeal 
 3. [Turkish jets hit Kurdish-led Syrian Democratic Forces (SDF) militia with 26 airstrikes in three recently-captured-from-ISIL villages west of al-Bab and northeast of Aleppo. The Turkish General Staff says between 160 and 200 have been killed, while the Syrian Observatory for Human Rights reports 11 dead and dozens of people wounded. ](/news/2016/10/20/turkish-jets-hit-kurdish-led-syrian-democratic-forces-sdf-militia-with-26-airstrikes-in-three-recently-captured-from-isil-villages-west-of.md) _Context: Kurdish, Turkey_
 4. [Turkish authorities remove two dozen elected Kurdish mayors in southeast Turkey. ](/news/2016/09/12/turkish-authorities-remove-two-dozen-elected-kurdish-mayors-in-southeast-turkey.md) _Context: Kurdish, Turkey_
 5. [Suspected Kurdish militants fire rockets at Diyarbakir Airport in Diyarbakir, Turkey. ](/news/2016/08/27/suspected-kurdish-militants-fire-rockets-at-diyarbaka-r-airport-in-diyarbaka-r-turkey.md) _Context: Kurdish, Turkey_
+
+### Changes:
+
+1. [Islamic State in Iraq and the Levant: Tens of thousands of Kurds flee into Turkey ahead of an ISIL offensive. ](/news/2014/09/21/islamic-state-in-iraq-and-the-levant-tens-of-thousands-of-kurds-flee-into-turkey-ahead-of-an-isil-offensive.md) _2017-08-27 03:41:18 (First version)_
+1. [Tens of thousands of Kurds flee into Turkey ahead of an ISIL offensive. ](/news/2014/09/21/tens-of-thousands-of-kurds-flee-into-turkey-ahead-of-an-isil-offensive.md) _(Current version)_

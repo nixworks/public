@@ -20,3 +20,8 @@ Suspected U.S. missiles struck two vehicles carrying militants in northwest Paki
 3. [ A U.S. drone aircraft's missile kills 13 people in North Waziristan, Pakistan. ](/news/2009/04/4/a-u-s-drone-aircraft-s-missile-kills-13-people-in-north-waziristan-pakistan.md) _Context: Americans, Pakistan, rocket attacks_
 4. [ Two missiles fired from American drone aircraft kill at least 25 people in South Waziristan, Pakistan. ](/news/2009/02/14/two-missiles-fired-from-american-drone-aircraft-kill-at-least-25-people-in-south-waziristan-pakistan.md) _Context: Americans, Pakistan, rocket attacks_
 5. [ A missile strike on a building near Wana in South Waziristan, Pakistan kills at least 16 people. A local tribesman accuses the United States Army of being behind the attack. ](/news/2008/03/16/a-missile-strike-on-a-building-near-wana-in-south-waziristan-pakistan-kills-at-least-16-people-a-local-tribesman-accuses-the-united-state.md) _Context: Americans, Pakistan, rocket attacks_
+
+### Changes:
+
+1. [Pakistan: Suspected United States missiles strike two cars carrying militants in Pakistan's Kurram Valley resulting in at least four deaths. ](/news/2010/08/28/pakistan-suspected-united-states-missiles-strike-two-cars-carrying-militants-in-pakistan-s-kurram-valley-resulting-in-at-least-four-deaths.md) _2017-08-27 03:29:47 (First version)_
+1. [Suspected United States missiles strike two cars carrying militants in Pakistan's Kurram Valley resulting in at least four deaths. ](/news/2010/08/28/suspected-united-states-missiles-strike-two-cars-carrying-militants-in-pakistan-s-kurram-valley-resulting-in-at-least-four-deaths.md) _(Current version)_

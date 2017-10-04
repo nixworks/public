@@ -13,3 +13,8 @@ Scientists from Kew Gardens have rediscovered a plant that has been presumed ext
 ### Related:
 
 1. [The United Kingdom designates Ascension Island and its surrounding waters in the Atlantic Ocean as a Marine protected area. The reserve will be almost as big as the UK with just over half of the protected area completely closed to fishing. ](/news/2016/01/3/the-united-kingdom-designates-ascension-island-and-its-surrounding-waters-in-the-atlantic-ocean-as-a-marine-protected-area-the-reserve-will.md) _Context: Ascension Island_
+
+### Changes:
+
+1. [Four specimens of ''Anogramma ascensionis'', a plant native to Ascension Island and presumed extinct for 60 years, are discovered alive and well in Kew. ](/news/2010/06/24/four-specimens-of-anogramma-ascensionis-a-plant-native-to-ascension-island-and-presumed-extinct-for-60-years-are-discovered-alive-and.md) _2017-08-25 03:28:24 (First version)_
+1. [Four specimens of "Anogramma ascensionis", a plant native to Ascension Island and presumed extinct for 60 years, are discovered alive and well in Kew. ](/news/2010/06/24/four-specimens-of-anogramma-ascensionis-a-plant-native-to-ascension-island-and-presumed-extinct-for-60-years-are-discovered-alive-and-we.md) _(Current version)_

@@ -19,3 +19,9 @@ Australia expels an Israel diplomat after a probe blames Israel for the use of f
 3. [ Israeli President and Nobel Laureate Shimon Peres is hospitalised after a collapse in Tel Aviv. ](/news/2009/09/12/israeli-president-and-nobel-laureate-shimon-peres-is-hospitalised-after-a-collapse-in-tel-aviv.md) _Context: Israel, President, Shimon Peres_
 4. [ Israeli President Shimon Peres selects Likud Chairman Benjamin Netanyahu to form the country's next government. ](/news/2009/02/20/israeli-president-shimon-peres-selects-likud-chairman-benjamin-netanyahu-to-form-the-country-s-next-government.md) _Context: Israel, President, Shimon Peres_
 5. [ Israeli Prime Minister Ehud Olmert officially submits his resignation to President Shimon Peres. Foreign Minister Tzipi Livni begins talks on forming a new government. ](/news/2008/09/21/israeli-prime-minister-ehud-olmert-officially-submits-his-resignation-to-president-shimon-peres-foreign-minister-tzipi-livni-begins-talks.md) _Context: Israel, President, Shimon Peres_
+
+### Changes:
+
+1. [Israel:President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/israel-ppresident-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md) _2017-08-25 03:28:00 (First version)_
+2. [Israel:: President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/israel-president-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md) _2017-08-27 03:27:59 (Update)_
+2. [President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/president-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md) _(Current version)_

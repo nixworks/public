@@ -17,3 +17,8 @@
 3. [An Indian heat wave claims over 200 lives with the states of Andhra Pradesh and Telangana worst affected. ](/news/2015/05/23/an-indian-heat-wave-claims-over-200-lives-with-the-states-of-andhra-pradesh-and-telangana-worst-affected.md) _Context: Andhra Pradesh, Telangana_
 4. [India's ruling coalition endorses the creation of a new state of Telangana to be carved out of Andhra Pradesh in southern India. ](/news/2013/07/31/india-s-ruling-coalition-endorses-the-creation-of-a-new-state-of-telangana-to-be-carved-out-of-andhra-pradesh-in-southern-india.md) _Context: Andhra Pradesh, Telangana_
 5. [At least 88 lawmakers in the Indian state of Andhra Pradesh resign "en masse" in support of the creation of a new state called Telangana. ](/news/2011/07/4/at-least-88-lawmakers-in-the-indian-state-of-andhra-pradesh-resign-en-masse-in-support-of-the-creation-of-a-new-state-called-telangana.md) _Context: Andhra Pradesh, Telangana_
+
+### Changes:
+
+1. [2015 Indian heat wave: The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/2015-indian-heat-wave-the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md) _2017-08-27 03:42:25 (First version)_
+1. [The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md) _(Current version)_

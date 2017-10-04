@@ -17,3 +17,8 @@
 3. [UK Prime Minister Theresa May and Turkish President Recep Tayyip Erdogan sign a GBP100 million defense deal to build new fighter jets. Under the deal, BAE Systems will collaborate with Turkish companies to build the TAI TFX. ](/news/2017/01/28/uk-prime-minister-theresa-may-and-turkish-president-recep-tayyip-erdoaan-sign-a-agbp100-million-defense-deal-to-build-new-fighter-jets-und.md) _Context: GBP_
 4. [The pound sterling sustains a flash crash, dropping from an exchange rate of $1.23 per pound to $1.13 in a few minutes of trading today, then gaining much of it back. Observers blame this development on algorithmic trading. ](/news/2016/10/7/the-pound-sterling-sustains-a-flash-crash-dropping-from-an-exchange-rate-of-1-23-per-pound-to-1-13-in-a-few-minutes-of-trading-today-the.md) _Context: GBP_
 5. [Following the Brexit vote and the subsequent drop in the exchange rate of the British pound to U.S. dollar, the FTSE 100 Index reaches an all-time intra-day high of 7,129. ](/news/2016/10/11/following-the-brexit-vote-and-the-subsequent-drop-in-the-exchange-rate-of-the-british-pound-to-u-s-dollar-the-ftse-100-index-reaches-an-al.md) _Context: GBP_
+
+### Changes:
+
+1. [Julian Assange is to be released on bail of PS240,000 GBP. ](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-aps240-000-gbp.md) _2017-08-25 03:31:23 (First version)_
+1. [Julian Assange is to be released on bail of GBP240,000 GBP. ](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-agbp240-000-gbp.md) _(Current version)_

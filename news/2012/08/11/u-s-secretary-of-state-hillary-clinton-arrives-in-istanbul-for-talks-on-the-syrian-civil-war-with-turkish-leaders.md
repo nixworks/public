@@ -20,3 +20,9 @@ Britain will give 5-million-pounds ($AU7.8million) worth of equipment to Syrian 
 3. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Syrian Civil War_
 4. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Civil War_
 5. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Syrian Civil War_
+
+### Changes:
+
+1. [Syrian civil war:U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-pu-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _2017-08-25 03:36:15 (First version)_
+2. [Syrian civil war:: U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _2017-08-27 03:36:26 (Update)_
+2. [U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structural-damage-to-buildings.md) _Context: Indonesia_
 4. [A rescue helicopter crashes while attempting to evacuate residents near the Dieng Volcanic Complex in Central Java, Indonesia, killing all eight people on board. ](/news/2017/07/3/a-rescue-helicopter-crashes-while-attempting-to-evacuate-residents-near-the-dieng-volcanic-complex-in-central-java-indonesia-killing-all-e.md) _Context: Indonesia_
 5. [In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. ](/news/2017/07/23/in-alleged-emulation-of-philippine-president-rodrigo-duterte-s-war-on-drugs-indonesian-president-joko-widodo-announces-orders-for-police-to.md) _Context: Indonesia_
+
+### Changes:
+
+1. [Aviastar Flight 7503: Indonesia's Aviastar airline loses contact with an aircraft between Masamba-Makassar carrying 10 people. ](/news/2015/10/2/aviastar-flight-7503-indonesia-s-aviastar-airline-loses-contact-with-an-aircraft-between-masamba-makassar-carrying-10-people.md) _2017-08-27 03:43:13 (First version)_
+1. [Indonesia's Aviastar airline loses contact with an aircraft between Masamba-Makassar carrying 10 people. ](/news/2015/10/2/indonesia-s-aviastar-airline-loses-contact-with-an-aircraft-between-masamba-makassar-carrying-10-people.md) _(Current version)_

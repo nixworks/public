@@ -21,3 +21,9 @@ At least ten people were killed and seven injured in a suicide bomb attack that 
 3. [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-the-taliban-claims-responsibility.md) _Context: Helmand Province_
 4. [Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md) _Context: suicide bombing_
 5. [Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after-a-year-long-battle-with-afghan-secur.md) _Context: Helmand Province_
+
+### Changes:
+
+1. [Afghanistan:At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-pat-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md) _2017-08-25 03:27:26 (First version)_
+2. [Afghanistan:: At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-at-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md) _2017-08-27 03:27:22 (Update)_
+2. [At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/at-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md) _(Current version)_

@@ -17,3 +17,8 @@ A fragile 48-hour ceasefire in Yemen ended on Monday after failing to stem viole
 3. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Yemeni conflict_
 4. [At least eight Yemeni soldiers are killed in a suicide bombing at a military camp in Zinjibar. ](/news/2017/02/24/at-least-eight-yemeni-soldiers-are-killed-in-a-suicide-bombing-at-a-military-camp-in-zinjibar.md) _Context: Yemeni conflict_
 5. [A Houthi missile attack on a Yemeni military camp near the port city of Mocha kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-saif-al-yafei-yemen-s-deputy-chief.md) _Context: Yemeni conflict_
+
+### Changes:
+
+1. [Yemeni Civil War (2015-present): A largely ineffective 48-hour ceasefire comes to a head as both sides violate the terms of the armistice and continue clashing. At least 35 are killed, including 4 civilians. ](/news/2016/11/21/yemeni-civil-war-2015-present-a-largely-ineffective-48-hour-ceasefire-comes-to-a-head-as-both-sides-violate-the-terms-of-the-armistice.md) _2017-08-27 03:47:16 (First version)_
+1. [ A largely ineffective 48-hour ceasefire comes to a head as both sides violate the terms of the armistice and continue clashing. At least 35 are killed, including 4 civilians. ](/news/2016/11/21/a-largely-ineffective-48-hour-ceasefire-comes-to-a-head-as-both-sides-violate-the-terms-of-the-armistice-and-continue-clashing-at-least-35.md) _(Current version)_

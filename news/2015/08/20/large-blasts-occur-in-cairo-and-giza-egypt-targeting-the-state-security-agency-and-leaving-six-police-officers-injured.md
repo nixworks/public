@@ -19,3 +19,8 @@
 3. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo, Egypt_
 4. [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md) _Context: Cairo, Egypt_
 5. [The Islamic State of Iraq and the Levant claims responsibility for the Egyptian Coptic Church bombing in Cairo that claimed 25 lives on 11 December. ](/news/2016/12/13/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-the-egyptian-coptic-church-bombing-in-cairo-that-claimed-25-lives-on-11-d.md) _Context: Cairo, Egypt_
+
+### Changes:
+
+1. [August 2015 Egypt bombings: Large blasts occur in Cairo and Giza, Egypt, targeting the State Security agency and leaving six police officers injured. ](/news/2015/08/20/august-2015-egypt-bombings-large-blasts-occur-in-cairo-and-giza-egypt-targeting-the-state-security-agency-and-leaving-six-police-officers.md) _2017-08-27 03:42:52 (First version)_
+1. [Large blasts occur in Cairo and Giza, Egypt, targeting the State Security agency and leaving six police officers injured. ](/news/2015/08/20/large-blasts-occur-in-cairo-and-giza-egypt-targeting-the-state-security-agency-and-leaving-six-police-officers-injured.md) _(Current version)_

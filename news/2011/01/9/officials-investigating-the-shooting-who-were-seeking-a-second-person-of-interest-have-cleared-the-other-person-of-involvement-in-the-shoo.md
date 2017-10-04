@@ -11,3 +11,9 @@ Fidel Castro has denounced as atrocious a shooting attack on a U.S. lawmaker tha
 2. [CNN](http://www.cnn.com/2011/CRIME/01/09/arizona.shooting/index.html?hpt=T1)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/jan/09/gabrielle-giffords-shooting-rightwing-rhetoric)
 3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2011/01/09/fidel-castro-condemns-attack-u-s-congresswoman/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421906206573.jpg?ve=1)
+
+### Changes:
+
+1. [Aftermath of the 2011 Tucson shooting:Officials investigating the shooting, who were seeking a second person of interest, have cleared the other person of involvement in the shooting. ](/news/2011/01/9/aftermath-of-the-2011-tucson-shooting-pofficials-investigating-the-shooting-who-were-seeking-a-second-person-of-interest-have-cleared-the.md) _2017-08-25 03:31:42 (First version)_
+2. [Aftermath of the 2011 Tucson shooting:: Officials investigating the shooting, who were seeking a second person of interest, have cleared the other person of involvement in the shooting. ](/news/2011/01/9/aftermath-of-the-2011-tucson-shooting-officials-investigating-the-shooting-who-were-seeking-a-second-person-of-interest-have-cleared-the.md) _2017-08-27 03:31:50 (Update)_
+2. [Officials investigating the shooting, who were seeking a second person of interest, have cleared the other person of involvement in the shooting. ](/news/2011/01/9/officials-investigating-the-shooting-who-were-seeking-a-second-person-of-interest-have-cleared-the-other-person-of-involvement-in-the-shoo.md) _(Current version)_

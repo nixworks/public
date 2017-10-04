@@ -20,3 +20,9 @@
 3. [ The BBC issues a plea for information on the whereabouts of its Gaza correspondent, Alan Johnston, who has been missing for three days and is believed by Palestinian security officials to have been kidnapped. ](/news/2007/03/15/the-bbc-issues-a-plea-for-information-on-the-whereabouts-of-its-gaza-correspondent-alan-johnston-who-has-been-missing-for-three-days-and.md) _Context: Gaza, Palestinian Authority_
 4. [ The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the-al-aqsa-intifada.md) _Context: Gaza, Palestinian Authority_
 5. [ Yasser Arafat, President of the Palestinian Authority, seeking to quiet unrest in the Gaza Strip reinstates Abdel-Razek al-Majaideh, demoting his cousin Moussa Arafat who was appointed just three days ago. ](/news/2004/07/19/yasser-arafat-president-of-the-palestinian-authority-seeking-to-quiet-unrest-in-the-gaza-strip-reinstates-abdel-razek-al-majaideh-demoti.md) _Context: Gaza, Palestinian Authority_
+
+### Changes:
+
+1. [ ''Fatah-Hamas conflict:'' Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/fatahahamas-conflict-p-hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md) _2017-08-25 03:19:58 (First version)_
+2. [ "Fatah-Hamas conflict:": Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/fatah-hamas-conflict-hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md) _2017-08-27 03:19:57 (Update)_
+2. [ Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md) _(Current version)_

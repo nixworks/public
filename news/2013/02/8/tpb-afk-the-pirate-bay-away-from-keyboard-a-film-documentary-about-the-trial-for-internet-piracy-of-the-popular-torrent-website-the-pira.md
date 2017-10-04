@@ -17,3 +17,8 @@ Filmmaker Simon Klose has spent the last four years following the founders of Th
 3. [Torrent site isoHunt appears to have unofficially resurrected The Pirate Bay at a site which turns out serving new content. ](/news/2014/12/12/torrent-site-isohunt-appears-to-have-unofficially-resurrected-the-pirate-bay-at-a-site-which-turns-out-serving-new-content.md) _Context: The Pirate Bay_
 4. [Activision Blizzard files papers with a California court, calling for unidentified programmers that created cheats for Starcraft II to be made to compensate them for copyright infringement. ](/news/2014/05/22/activision-blizzard-files-papers-with-a-california-court-calling-for-unidentified-programmers-that-created-cheats-for-starcraft-ii-to-be-ma.md) _Context: copyright infringement_
 5. [YouTube successfully defends itself in a billion dollar copyright infringement suit by Viacom. ](/news/2013/04/18/youtube-successfully-defends-itself-in-a-billion-dollar-copyright-infringement-suit-by-viacom.md) _Context: copyright infringement_
+
+### Changes:
+
+1. [''TPB AFK: The Pirate Bay Away From Keyboard'', a film documentary about the trial for Internet piracy of the popular torrent website The Pirate Bay, is released online. ](/news/2013/02/8/tpb-afk-the-pirate-bay-away-from-keyboard-a-film-documentary-about-the-trial-for-internet-piracy-of-the-popular-torrent-website-the-pi.md) _2017-08-25 03:37:28 (First version)_
+1. ["TPB AFK: The Pirate Bay Away From Keyboard", a film documentary about the trial for Internet piracy of the popular torrent website The Pirate Bay, is released online. ](/news/2013/02/8/tpb-afk-the-pirate-bay-away-from-keyboard-a-film-documentary-about-the-trial-for-internet-piracy-of-the-popular-torrent-website-the-pira.md) _(Current version)_

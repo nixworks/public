@@ -13,7 +13,7 @@ _Context: Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, Uzbekist
 _Context: China, drought, states of emergency_
 
 ### [ Somali pirates release Ukraine's MV "Faina" following a US$3.2-million ransom payment. ](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.md)
-_Context: Faina, MV, Somali pirates, Somalian, US$, Ukraine, ransom_
+_Context: $, Faina, MV, Somali pirates, Somalian, Ukraine, ransom_
 
 ### [ The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md)
 _Context: Bank of England, base rate, interest_
@@ -25,7 +25,7 @@ _Context: Brazil, Brazilian police, Rio de Janeiro_
 The Dublin Airport Authority says the airport has reopened and flights have resumed after heavy snowfalls this afternoon.
 
 ### [ Businessman Kazutsugi Nami is arrested by Japanese police over a US$1.4-billion investment scam. ](/news/2009/02/5/businessman-kazutsugi-nami-is-arrested-by-japanese-police-over-a-us-1-4-billion-investment-scam.md)
-_Context: Japan, Japanese police, Kazutsugi Nami, US$, investment scam_
+_Context: $, Japan, Japanese police, Kazutsugi Nami, investment scam_
 
 ### [ Three members of the State Legislative Assembly in Perak state, Malaysia from the People's Alliance declare themselves independent and pledge support for the National Front, sparking a constitutional crisis. ](/news/2009/02/5/three-members-of-the-state-legislative-assembly-in-perak-state-malaysia-from-the-people-s-alliance-declare-themselves-independent-and-pled.md)
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment

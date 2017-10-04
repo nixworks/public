@@ -17,3 +17,8 @@ An Australian mother was arrested for murder in the stabbing deaths of eight chi
 3. [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md) _Context: Queensland_
 4. [Another body has been found after flooding in eastern Queensland, raising the death toll to twelve. ](/news/2017/04/8/another-body-has-been-found-after-flooding-in-eastern-queensland-raising-the-death-toll-to-twelve.md) _Context: Queensland_
 5. [The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. ](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-associated-flooding-in-the-australian-states-of-new-south-wales-and-queensland-rises-to-five-peop.md) _Context: Queensland_
+
+### Changes:
+
+1. [Cairns child killings: Queensland police arrest an Australian mother for murder in the stabbing deaths of eight children. ](/news/2014/12/20/cairns-child-killings-queensland-police-arrest-an-australian-mother-for-murder-in-the-stabbing-deaths-of-eight-children.md) _2017-08-27 03:41:39 (First version)_
+1. [Queensland police arrest an Australian mother for murder in the stabbing deaths of eight children. ](/news/2014/12/20/queensland-police-arrest-an-australian-mother-for-murder-in-the-stabbing-deaths-of-eight-children.md) _(Current version)_

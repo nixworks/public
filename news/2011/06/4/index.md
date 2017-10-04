@@ -37,7 +37,7 @@ _Context: Cairo Criminal Court, Youssef Boutros Ghali, in absentia_
 Baba Ramdev goes on indefinite fast in New Delhi to press the government for tougher action on corruption.
 
 ### [Former United States Secretary of State Lawrence Eagleburger dies. ](/news/2011/06/4/former-united-states-secretary-of-state-lawrence-eagleburger-dies.md)
-_Context: Lawrence Eagleburger, United States Secretary of State_
+_Context: Lawrence Eagleburger, Secretary of State_
 
 ## [Previous Day...](/news/2011/06/3/index.md)
 

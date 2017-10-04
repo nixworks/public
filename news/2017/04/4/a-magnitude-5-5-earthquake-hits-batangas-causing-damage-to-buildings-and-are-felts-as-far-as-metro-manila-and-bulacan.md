@@ -18,3 +18,8 @@
 3. [Rodrigo Duterte, the Philippines presumptive president-elect, says he will allow the immediate burial of former kleptocratic dictator Ferdinand Marcos at the Heroes' Cemetery in metropolitan Manila. ](/news/2016/05/23/rodrigo-duterte-the-philippines-presumptive-president-elect-says-he-will-allow-the-immediate-burial-of-former-kleptocratic-dictator-ferdin.md) _Context: Metro Manila_
 4. [The Philippine Department of Health declares a measles outbreak in Metro Manila. ](/news/2014/01/3/the-philippine-department-of-health-declares-a-measles-outbreak-in-metro-manila.md) _Context: Metro Manila_
 5. [Four people are killed and 18 injured after a bus bombing in the Philippine capital Manila. ](/news/2011/01/25/four-people-are-killed-and-18-injured-after-a-bus-bombing-in-the-philippine-capital-manila.md) _Context: Metro Manila_
+
+### Changes:
+
+1. [2017 Batangas earthquakes: A magnitude 5.5 earthquake hits Batangas, causing damage to buildings and are felts as far as Metro Manila and Bulacan. ](/news/2017/04/4/2017-batangas-earthquakes-a-magnitude-5-5-earthquake-hits-batangas-causing-damage-to-buildings-and-are-felts-as-far-as-metro-manila-and-bu.md) _2017-08-27 03:48:06 (First version)_
+1. [A magnitude 5.5 earthquake hits Batangas, causing damage to buildings and are felts as far as Metro Manila and Bulacan. ](/news/2017/04/4/a-magnitude-5-5-earthquake-hits-batangas-causing-damage-to-buildings-and-are-felts-as-far-as-metro-manila-and-bulacan.md) _(Current version)_

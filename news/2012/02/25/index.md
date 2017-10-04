@@ -16,7 +16,7 @@ _Context: Al Wefaq, Bahrain, tear gas_
 Coins worth nearly half a billion dollars finally arrived in Spain on Saturday after lying in a sunken warship for more than 200 years and following a five-year legal battle between the Spanish government and a salvage company.
 
 ### ["The Artist" wins four awards including best film at the Independent Spirit Awards 2011 held in Santa Monica. ](/news/2012/02/25/the-artist-wins-four-awards-including-best-film-at-the-independent-spirit-awards-2011-held-in-santa-monica.md)
-_Context: Independent Spirit Awards 2011, Santa Monica, The Artist_
+_Context: Independent Spirit Awards 2011, Santa Monica, California, The Artist_
 
 ### [A G-20 finance ministers meeting is held in Mexico City to discuss progress in the Eurozone bailout. ](/news/2012/02/25/a-g-20-finance-ministers-meeting-is-held-in-mexico-city-to-discuss-progress-in-the-eurozone-bailout.md)
 * Germany eases opposition to bigger EU bailoutfund-officials* EU agreement in March would clear way for April IMF deal* Puts G20 on

@@ -18,3 +18,8 @@ Merck &amp; Co. suffered a serious blow Friday when it lost the first wrongful d
 3. [The United States Food and Drug Administration approves the Merck & Co. drug, Bridion, that reverses the effects of muscle relaxants used during surgery. ](/news/2015/12/15/the-united-states-food-and-drug-administration-approves-the-merck-co-drug-bridion-that-reverses-the-effects-of-muscle-relaxants-used-du.md) _Context: Merck & Co._
 4. [Merck agrees to buy "superbug"-fighter Cubist Pharmaceuticals for $9.5 billion. ](/news/2014/12/8/merck-agrees-to-buy-superbug-fighter-cubist-pharmaceuticals-for-9-5-billion.md) _Context: Merck & Co._
 5. [Merck & Co. agrees to buy Idenix Pharmaceuticals for US$3.85 billion. ](/news/2014/06/9/merck-co-agrees-to-buy-idenix-pharmaceuticals-for-us-3-85-billion.md) _Context: Merck & Co._
+
+### Changes:
+
+1. [ Merck & Co. loses the first wrongful death lawsuit over its painkiller Vioxx, with a jury awarding $253 Million in damages. There have been over 4000 cases filed against Merck over this drug. ](/news/2005/08/19/merck-co-loses-the-first-wrongful-death-lawsuit-over-its-painkiller-vioxx-with-a-jury-awarding-253-million-in-damages-there-have-bee.md) _2017-08-25 03:16:42 (First version)_
+1. [ Merck & Co. loses the first wrongful death lawsuit over its painkiller Vioxx, with a jury awarding $253 Million in damages. There have been over 4000 cases filed against Merck over this drug. ](/news/2005/08/19/merck-co-loses-the-first-wrongful-death-lawsuit-over-its-painkiller-vioxx-with-a-jury-awarding-253-million-in-damages-there-have-been.md) _(Current version)_

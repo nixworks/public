@@ -19,3 +19,9 @@ Dozens of people are killed in a government air strike on a bakery in central Sy
 3. [The Syrian Government continues its offensive against Fatah Halab in Aleppo with hundreds of bombing raids. ](/news/2016/09/23/the-syrian-government-continues-its-offensive-against-fatah-halab-in-aleppo-with-hundreds-of-bombing-raids.md) _Context: Syrian Government_
 4. [Syrian Government forces capture the main road into the parts of Aleppo controlled by rebels. ](/news/2016/07/17/syrian-government-forces-capture-the-main-road-into-the-parts-of-aleppo-controlled-by-rebels.md) _Context: Syrian Government_
 5. [Syrian Government forces enter Raqqa province, the joint capital of Islamic State in Iraq and the Levant. It is one of three simultaneous attacks in Iraq and Syria. ](/news/2016/06/4/syrian-government-forces-enter-raqqa-province-the-joint-capital-of-islamic-state-in-iraq-and-the-levant-it-is-one-of-three-simultaneous-at.md) _Context: Syrian Government_
+
+### Changes:
+
+1. [Syrian civil war:Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/syrian-civil-war-pup-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md) _2017-08-25 03:37:06 (First version)_
+2. [Syrian civil war:: Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/syrian-civil-war-up-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md) _2017-08-27 03:37:17 (Update)_
+2. [Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/up-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md) _(Current version)_

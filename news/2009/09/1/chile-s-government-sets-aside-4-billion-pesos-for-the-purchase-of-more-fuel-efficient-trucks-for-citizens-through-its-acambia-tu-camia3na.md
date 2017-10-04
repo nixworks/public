@@ -17,3 +17,8 @@ The Chilean government will subsidize the purchase of more fuel-efficient trucks
 3. [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md) _Context: Chile_
 4. [Millions of residents in the Chilean capital Santiago are left without access to running water after the Maipo River is contaminated by flooding and landslides. At least four people have died in the floods. ](/news/2017/02/26/millions-of-residents-in-the-chilean-capital-santiago-are-left-without-access-to-running-water-after-the-maipo-river-is-contaminated-by-floo.md) _Context: Chile_
 5. [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md) _Context: Chile_
+
+### Changes:
+
+1. [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its -Cambia tu Camion- (-Change your Truck-) program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-cambia-tu-camia3n.md) _2017-08-27 03:25:29 (First version)_
+1. [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its "Cambia tu Camion" ("Change your Truck") program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-acambia-tu-camia3na.md) _(Current version)_

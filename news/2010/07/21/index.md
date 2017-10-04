@@ -88,7 +88,7 @@ Sudan president arrives in Chad despite being wanted on genocide and war crimes 
 _Context: Australia, Fiji, Melanesian Spearhead Group, New Zealand, South Pacific_
 
 ### [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md)
-_Context: Americans, Hillary Clinton, North Korea, ROKS ''Cheonan'', South Korean Navy, United States Secretary of State, sanctions, sinking_
+_Context: Americans, Hillary Clinton, North Korea, ROKS ''Cheonan'', Secretary of State, South Korean Navy, sanctions, sinking_
 
 ### [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md)
 _Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkey, Uruguay, immigration law_

@@ -12,3 +12,8 @@
 3. [ Armenia and Turkey normalise their relationship when their foreign ministers sign an accord in Zurich, Switzerland. ](/news/2009/10/10/armenia-and-turkey-normalise-their-relationship-when-their-foreign-ministers-sign-an-accord-in-zurich-switzerland.md) _Context: Switzerland, Zurich_
 4. [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _Context: Switzerland_
 5. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md) _Context: Switzerland_
+
+### Changes:
+
+1. [Crossair Flight 498: Crossair suffers the first fatal accident in its 25-year history when Crossair Flight 498 crashes in Niederhasli, Switzerland, after take off from Zurich, killing all 10 people on board.](/news/2000/01/10/crossair-flight-498-crossair-suffers-the-first-fatal-accident-in-its-25-year-history-when-crossair-flight-498-crashes-in-niederhasli-switz.md) _2017-08-27 03:15:07 (First version)_
+1. [Crossair suffers the first fatal accident in its 25-year history when Crossair Flight 498 crashes in Niederhasli, Switzerland, after take off from Zurich, killing all 10 people on board.](/news/2000/01/10/crossair-suffers-the-first-fatal-accident-in-its-25-year-history-when-crossair-flight-498-crashes-in-niederhasli-switzerland-after-take-of.md) _(Current version)_

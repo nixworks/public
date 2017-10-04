@@ -17,3 +17,8 @@
 3. [U.S. President Barack Obama and Canadian Prime Minister Justin Trudeau jointly ban offshore oil drilling in the Arctic Ocean and parts of the Atlantic coast. ](/news/2016/12/20/u-s-president-barack-obama-and-canadian-prime-minister-justin-trudeau-jointly-ban-offshore-oil-drilling-in-the-arctic-ocean-and-parts-of-th.md) _Context: Justin Trudeau_
 4. [Canadian Prime Minister Justin Trudeau and EU officials sign the Comprehensive Economic and Trade Agreement (CETA). ](/news/2016/10/30/canadian-prime-minister-justin-trudeau-and-eu-officials-sign-the-comprehensive-economic-and-trade-agreement-ceta.md) _Context: Justin Trudeau_
 5. [Takes place in Ottawa, Canada as US President Barack Obama and Mexican President Enrique Pena Nieto meet with Canadian Prime Minister Justin Trudeau. President Obama later gives a special address to the Parliament of Canada. ](/news/2016/06/29/takes-place-in-ottawa-canada-as-us-president-barack-obama-and-mexican-president-enrique-pea-a-nieto-meet-with-canadian-prime-minister-justi.md) _Context: Justin Trudeau_
+
+### Changes:
+
+1. [Canadian federal election, 2015: The Canadian Liberal party led by Justin Trudeau won the federal election with 184 seats. ](/news/2015/10/19/canadian-federal-election-2015-the-canadian-liberal-party-led-by-justin-trudeau-won-the-federal-election-with-184-seats.md) _2017-08-27 03:43:24 (First version)_
+1. [The Canadian Liberal party led by Justin Trudeau won the federal election with 184 seats. ](/news/2015/10/19/the-canadian-liberal-party-led-by-justin-trudeau-won-the-federal-election-with-184-seats.md) _(Current version)_

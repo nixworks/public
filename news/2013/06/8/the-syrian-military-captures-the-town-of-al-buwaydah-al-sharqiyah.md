@@ -16,3 +16,9 @@
 3. [Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-heavy-clashes-with-isil-militants.md) _Context: military_
 4. [Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third-of-rebel-controlled-eastern-aleppo.md) _Context: military_
 5. [Syrian Armed Forces have captured the entire Hanano district in eastern Aleppo and are working on removing mines and improvised explosive devices from the district, while the rebels blame lack of hospitals for collapsing defences. ](/news/2016/11/27/syrian-armed-forces-have-captured-the-entire-hanano-district-in-eastern-aleppo-and-are-working-on-removing-mines-and-improvised-explosive-de.md) _Context: military_
+
+### Changes:
+
+1. [Syrian civil war:The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-pthe-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md) _2017-08-25 03:38:48 (First version)_
+2. [Syrian civil war:: The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md) _2017-08-27 03:39:02 (Update)_
+2. [The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md) _(Current version)_

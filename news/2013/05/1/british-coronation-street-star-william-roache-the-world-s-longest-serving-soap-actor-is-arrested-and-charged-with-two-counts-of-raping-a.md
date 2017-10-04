@@ -17,3 +17,8 @@
 3. [The United States Army is probing alleged sexual assaults committed by its soldiers in Colombia between 2003-2007. ](/news/2015/04/4/the-united-states-army-is-probing-alleged-sexual-assaults-committed-by-its-soldiers-in-colombia-between-2003-2007.md) _Context: sexual assault_
 4. [Malaysia states that it will extradite a junior military official who returned home after being charged with sexual assault at its diplomatic mission in New Zealand. ](/news/2014/07/1/malaysia-states-that-it-will-extradite-a-junior-military-official-who-returned-home-after-being-charged-with-sexual-assault-at-its-diplomati.md) _Context: sexual assault_
 5. [U.S. Air Force Lieutenant Colonel Jeff Krusinski, who was in charge of the Sexual Assault Prevention and Response Office, is arrested on charges of sexual assault. ](/news/2013/05/6/u-s-air-force-lieutenant-colonel-jeff-krusinski-who-was-in-charge-of-the-sexual-assault-prevention-and-response-office-is-arrested-on-cha.md) _Context: sexual assault_
+
+### Changes:
+
+1. [British ''Coronation Street'' star William Roache, the world's longest-serving soap actor, is arrested and charged with two counts of raping a 15-year-old girl in 1967. ](/news/2013/05/1/british-coronation-street-star-william-roache-the-world-s-longest-serving-soap-actor-is-arrested-and-charged-with-two-counts-of-raping.md) _2017-08-25 03:38:31 (First version)_
+1. [British "Coronation Street" star William Roache, the world's longest-serving soap actor, is arrested and charged with two counts of raping a 15-year-old girl in 1967. ](/news/2013/05/1/british-coronation-street-star-william-roache-the-world-s-longest-serving-soap-actor-is-arrested-and-charged-with-two-counts-of-raping-a.md) _(Current version)_

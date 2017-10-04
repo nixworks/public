@@ -17,3 +17,8 @@
 3. [The Bundestag votes to approve a third bailout for Greece. ](/news/2015/08/19/the-bundestag-votes-to-approve-a-third-bailout-for-greece.md) _Context: Greek, Greek government-debt crisis_
 4. [Greece becomes the first advanced economy to miss a payment to the International Monetary Fund in the 71-year history of the IMF, unwinding decades of precedent and affecting consequences for the fund's future rescues. ](/news/2015/07/1/greece-becomes-the-first-advanced-economy-to-miss-a-payment-to-the-international-monetary-fund-in-the-71-year-history-of-the-imf-unwinding.md) _Context: Greek, Greek government-debt crisis_
 5. [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md) _Context: Greek, Greek government-debt crisis_
+
+### Changes:
+
+1. [Greek government-debt crisis: Greece and its creditors harden their stances after the collapse of talks aimed at preventing a default. ](/news/2015/06/15/greek-government-debt-crisis-greece-and-its-creditors-harden-their-stances-after-the-collapse-of-talks-aimed-at-preventing-a-default.md) _2017-08-27 03:42:33 (First version)_
+1. [Greece and its creditors harden their stances after the collapse of talks aimed at preventing a default. ](/news/2015/06/15/greece-and-its-creditors-harden-their-stances-after-the-collapse-of-talks-aimed-at-preventing-a-default.md) _(Current version)_

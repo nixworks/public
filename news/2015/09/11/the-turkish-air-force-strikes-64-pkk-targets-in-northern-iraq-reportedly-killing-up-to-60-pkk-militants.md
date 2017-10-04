@@ -17,3 +17,8 @@
 3. [Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md) _Context: Iraqi Kurdistan, Turkish Air Force_
 4. [Turkish security forces backed up by tanks and combat helicopters launch a large-scale operation against PKK militants in the mainly Kurdish town of Silvan, which has been under a punishing curfew for nine days. At least five people are killed in the fighting, including a Turkish soldier. ](/news/2015/11/11/turkish-security-forces-backed-up-by-tanks-and-combat-helicopters-launch-a-large-scale-operation-against-pkk-militants-in-the-mainly-kurdish.md) _Context: PKK, Turkey-PKK conflict_
 5. [At least 17 PKK militants are reportedly killed following a Turkish military operation in the Kurdish-majority city of Silvan. ](/news/2015/10/2/at-least-17-pkk-militants-are-reportedly-killed-following-a-turkish-military-operation-in-the-kurdish-majority-city-of-silvan.md) _Context: PKK, Turkey-PKK conflict_
+
+### Changes:
+
+1. [Turkey-PKK conflict: The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/turkey-pkk-conflict-the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md) _2017-08-27 03:43:01 (First version)_
+1. [The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md) _(Current version)_

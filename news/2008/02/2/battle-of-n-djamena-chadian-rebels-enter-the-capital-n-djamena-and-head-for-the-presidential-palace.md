@@ -17,3 +17,9 @@
 3. [At least 23 people are killed and more than 100 injured in suicide attacks on police headquarters and training centers by suspected Boko Haram members in N'Djamena, Chad. ](/news/2015/06/15/at-least-23-people-are-killed-and-more-than-100-injured-in-suicide-attacks-on-police-headquarters-and-training-centers-by-suspected-boko-har.md) _Context: Chad, N'Djamena_
 4. [ Former President Hissene Habre is sentenced to death "in absentia" by a Chadian court for a military assault on the capital. ](/news/2008/08/15/former-president-hissa-ne-habra-c-is-sentenced-to-death-in-absentia-by-a-chadian-court-for-a-military-assault-on-the-capital.md) _Context: Chad, military assault_
 5. [ Chadian rebels take the town Biltine as they move toward the capital N'Djamena. ](/news/2008/06/16/chadian-rebels-take-the-town-biltine-as-they-move-toward-the-capital-n-djamena.md) _Context: Chad, N'Djamena_
+
+### Changes:
+
+1. [ War in Chad (2005-present): Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005apresent-p-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md) _2017-08-25 03:21:43 (First version)_
+2. [ War in Chad (2005-present):: Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005-present-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md) _2017-08-27 03:21:37 (Update)_
+2. [ Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md) _(Current version)_

@@ -23,3 +23,8 @@ Fighting escalates in the Libyan port of Misrata and elsewhere as government for
 3. [President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/president-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md) _Context: Bashar al-Assad, President_
 4. [Two people are killed in ongoing clashes in the Lebanese capital Beirut between supporters and opponents of Syrian President Bashar al-Assad. ](/news/2012/05/21/two-people-are-killed-in-ongoing-clashes-in-the-lebanese-capital-beirut-between-supporters-and-opponents-of-syrian-president-bashar-al-assad.md) _Context: Bashar al-Assad, President_
 5. [Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/syrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-president-bashar-al-as.md) _Context: Bashar al-Assad, President_
+
+### Changes:
+
+1. [Arab Spring: 2011 Syrian protests: President Bashar al-Assad announces that the 48-year-old state of emergency law will be lifted next week. ](/news/2011/04/16/arab-spring-2011-syrian-protests-president-bashar-al-assad-announces-that-the-48-year-old-state-of-emergency-law-will-be-lifted-next-week.md) _2017-08-27 03:32:58 (First version)_
+1. [President Bashar al-Assad announces that the 48-year-old state of emergency law will be lifted next week. ](/news/2011/04/16/president-bashar-al-assad-announces-that-the-48-year-old-state-of-emergency-law-will-be-lifted-next-week.md) _(Current version)_

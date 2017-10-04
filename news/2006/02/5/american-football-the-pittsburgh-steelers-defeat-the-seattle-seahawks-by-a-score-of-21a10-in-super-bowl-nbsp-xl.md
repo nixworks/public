@@ -16,3 +16,8 @@
 3. [Former New England Patriots tight end Aaron Hernandez is formally charged with murder in the US state of Massachusetts more than a week after the body of former semi-professional American football player Odin Lloyd is found near his home. ](/news/2013/06/26/former-new-england-patriots-tight-end-aaron-hernandez-is-formally-charged-with-murder-in-the-us-state-of-massachusetts-more-than-a-week-afte.md) _Context: American football_
 4. [The United States Naval Academy announces it is investigating allegations that three football players sexually assaulted a female student. ](/news/2013/05/31/the-united-states-naval-academy-announces-it-is-investigating-allegations-that-three-football-players-sexually-assaulted-a-female-student.md) _Context: American football_
 5. [American football player Josh Brent of the Dallas Cowboys is arrested for driving while intoxicated and vehicular manslaughter in relation to the death of teammate Jerry Brown. ](/news/2012/12/8/american-football-player-josh-brent-of-the-dallas-cowboys-is-arrested-for-driving-while-intoxicated-and-vehicular-manslaughter-in-relation-t.md) _Context: American football_
+
+### Changes:
+
+1. [ American football: The Pittsburgh Steelers defeat the Seattle Seahawks by a score of 21-10 in Super Bowl&nbsp;XL. ](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat-the-seattle-seahawks-by-a-score-of-21-10-in-super-bowl-nbsp-xl.md) _2017-08-27 03:17:25 (First version)_
+1. [ American football: The Pittsburgh Steelers defeat the Seattle Seahawks by a score of 21-10 in Super Bowl&nbsp;XL. ](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat-the-seattle-seahawks-by-a-score-of-21a10-in-super-bowl-nbsp-xl.md) _(Current version)_

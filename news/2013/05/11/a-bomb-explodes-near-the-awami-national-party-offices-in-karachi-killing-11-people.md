@@ -17,3 +17,9 @@
 3. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Karachi_
 4. [At least 12 people are killed and 75 others injured as a fire erupts in Karachi's Regent Plaza Hotel. ](/news/2016/12/5/at-least-12-people-are-killed-and-75-others-injured-as-a-fire-erupts-in-karachi-s-regent-plaza-hotel.md) _Context: Karachi_
 5. [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md) _Context: Karachi_
+
+### Changes:
+
+1. [War in North-West Pakistan:A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/war-in-north-west-pakistan-pa-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md) _2017-08-25 03:38:37 (First version)_
+2. [War in North-West Pakistan:: A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/war-in-north-west-pakistan-a-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md) _2017-08-27 03:38:50 (Update)_
+2. [A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/a-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md) _(Current version)_

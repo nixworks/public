@@ -17,3 +17,8 @@ A series of car bombs has ripped through a crowded marketplace and a Shi’ite m
 3. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq, Islamic State_
 4. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: Iraq, Islamic State_
 5. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Iraq, Islamic State_
+
+### Changes:
+
+1. [Islamic State of Iraq and the Levant: A series of car bombs kill 19 people in Balad Ruz, east-central Iraq. ](/news/2015/02/28/islamic-state-of-iraq-and-the-levant-a-series-of-car-bombs-kill-19-people-in-balad-ruz-east-central-iraq.md) _2017-08-27 03:42:01 (First version)_
+1. [A series of car bombs kill 19 people in Balad Ruz, east-central Iraq. ](/news/2015/02/28/a-series-of-car-bombs-kill-19-people-in-balad-ruz-east-central-iraq.md) _(Current version)_

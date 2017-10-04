@@ -16,3 +16,8 @@
 3. [Australia is to send refugees from Nauru and Manus Island to the Philippines. ](/news/2015/10/9/australia-is-to-send-refugees-from-nauru-and-manus-island-to-the-philippines.md) _Context: Australia, Manus Island, Nauru_
 4. [ Australia and the United States agree to exchange hundreds of asylum seekers kept in offshore detention camps in Nauru and Guantanamo Bay. ](/news/2007/04/18/australia-and-the-united-states-agree-to-exchange-hundreds-of-asylum-seekers-kept-in-offshore-detention-camps-in-nauru-and-guantanamo-bay.md) _Context: Americans, Australia, Nauru_
 5. [Australia agrees to pay AUS$70 million in compensation to 1,905 people who have been detained on Manus Island since 2012, so avoiding a public trial against the government and the Transfield and G4S private companies for the detainees' degrading and cruel treatment. ](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.md) _Context: Australia, Manus Island_
+
+### Changes:
+
+1. [Australia-United States relations: Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-united-states-relations-australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea.md) _2017-08-27 03:47:13 (First version)_
+1. [Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea-s-manus-island-to-the-u-s.md) _(Current version)_

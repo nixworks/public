@@ -17,3 +17,8 @@ Federal Indigenous Affairs Minister Mal Brough says the passing of the Commonwea
 3. [Australia raises security for its Parliament after conducting raids that arrest dozens of suspected terrorists. ](/news/2014/09/19/australia-raises-security-for-its-parliament-after-conducting-raids-that-arrest-dozens-of-suspected-terrorists.md) _Context: Australia, Parliament_
 4. [Adam Giles is elected as the new leader of the Country Liberal Party in Australia's Northern Territory replacing Terry Mills as Chief Minister. He will be the first indigenous head of government in Australian history. ](/news/2013/03/13/adam-giles-is-elected-as-the-new-leader-of-the-country-liberal-party-in-australia-s-northern-territory-replacing-terry-mills-as-chief-minist.md) _Context: Australia, Northern Territory_
 5. [Voters in Australia's Northern Territory elect the Country Liberal Party. ](/news/2012/08/25/voters-in-australia-s-northern-territory-elect-the-country-liberal-party.md) _Context: Australia, Northern Territory_
+
+### Changes:
+
+1. [ The Parliament of Australia passes the ''Northern Territory Indigenous Bill'' making changes to the Australian welfare system and land rights. ](/news/2007/08/17/the-parliament-of-australia-passes-the-northern-territory-indigenous-bill-making-changes-to-the-australian-welfare-system-and-land-righ.md) _2017-08-25 03:20:37 (First version)_
+1. [ The Parliament of Australia passes the "Northern Territory Indigenous Bill" making changes to the Australian welfare system and land rights. ](/news/2007/08/17/the-parliament-of-australia-passes-the-northern-territory-indigenous-bill-making-changes-to-the-australian-welfare-system-and-land-rights.md) _(Current version)_

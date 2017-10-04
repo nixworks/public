@@ -17,3 +17,8 @@ Dozens of people are killed in car bombings in Baghdad and Mosul, security offic
 3. [A car bombing at a bus station in central Baghdad kills at least nine people. ](/news/2014/01/12/a-car-bombing-at-a-bus-station-in-central-baghdad-kills-at-least-nine-people.md) _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), car bomb_
 4. [A series of car bombings by insurgents across central and southern Iraq kill at least twenty people. ](/news/2013/06/16/a-series-of-car-bombings-by-insurgents-across-central-and-southern-iraq-kill-at-least-twenty-people.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal), car bomb_
 5. [A car bomb explodes in the southern Iraqi city of Hilla, killing at least 21 police officers and injuring 65; in northern Iraq and in Baghdad, four people are killed in other attacks. ](/news/2011/05/5/a-car-bomb-explodes-in-the-southern-iraqi-city-of-hilla-killing-at-least-21-police-officers-and-injuring-65-in-northern-iraq-and-in-baghda.md) _Context: Baghdad, Iraq, car bomb_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal): A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/iraqi-insurgency-post-u-s-withdrawal-a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md) _2017-08-27 03:39:44 (First version)_
+1. [A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md) _(Current version)_

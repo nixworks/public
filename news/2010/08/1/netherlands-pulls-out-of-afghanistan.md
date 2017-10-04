@@ -18,3 +18,8 @@ Dutch&#x20;troops&#x20;ended&#x20;their&#x20;four-year&#x20;mission&#x20;in&#x20
 3. [Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan-is-released-in-exchange-for-five-ta.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
 4. [10 people are killed in a camp by insurgents in western Afghanistan. ](/news/2013/08/17/10-people-are-killed-in-a-camp-by-insurgents-in-western-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
 5. [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+
+### Changes:
+
+1. [War in Afghanistan (2001-present): Netherlands pulls out of Afghanistan. ](/news/2010/08/1/war-in-afghanistan-2001-present-netherlands-pulls-out-of-afghanistan.md) _2017-08-27 03:29:08 (First version)_
+1. [Netherlands pulls out of Afghanistan. ](/news/2010/08/1/netherlands-pulls-out-of-afghanistan.md) _(Current version)_

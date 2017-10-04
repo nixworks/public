@@ -17,3 +17,8 @@ Hong Kong pro-democracy activists recaptured parts of a core protest zone early 
 3. [The Hong Kong Police Force arrests eleven more people in a second night of violence after removal of a camp in Mong Kok and seven police officers are arrested for alleged assault of a protester on October 15. ](/news/2014/11/27/the-hong-kong-police-force-arrests-eleven-more-people-in-a-second-night-of-violence-after-removal-of-a-camp-in-mong-kok-and-seven-police-off.md) _Context: Hong Kong Police Force, Mong Kok_
 4. [More than 80 people are arrested as police dismantle a protest camp in the Mong Kok commercial district. ](/news/2014/11/26/more-than-80-people-are-arrested-as-police-dismantle-a-protest-camp-in-the-mong-kok-commercial-district.md) _Context: 2014 pro-democracy street protests, Mong Kok_
 5. [Hong Kong authorities start clearing away barricades in the district of Mong Kok. ](/news/2014/11/25/hong-kong-authorities-start-clearing-away-barricades-in-the-district-of-mong-kok.md) _Context: 2014 pro-democracy street protests, Mong Kok_
+
+### Changes:
+
+1. [2014 Hong Kong protests: The Hong Kong Police Force stages a dawn raid at the protest site in the suburb of Mong Kok. ](/news/2014/10/17/2014-hong-kong-protests-the-hong-kong-police-force-stages-a-dawn-raid-at-the-protest-site-in-the-suburb-of-mong-kok.md) _2017-08-27 03:41:24 (First version)_
+1. [The Hong Kong Police Force stages a dawn raid at the protest site in the suburb of Mong Kok. ](/news/2014/10/17/the-hong-kong-police-force-stages-a-dawn-raid-at-the-protest-site-in-the-suburb-of-mong-kok.md) _(Current version)_

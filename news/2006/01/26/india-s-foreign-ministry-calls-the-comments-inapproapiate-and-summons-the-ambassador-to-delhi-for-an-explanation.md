@@ -16,3 +16,8 @@
 3. [Water supply is restored to the Indian city of Delhi as repairs are made to the vital Munak canal after the Jat reservation agitation is resolved. ](/news/2016/02/23/water-supply-is-restored-to-the-indian-city-of-delhi-as-repairs-are-made-to-the-vital-munak-canal-after-the-jat-reservation-agitation-is-res.md) _Context: Delhi_
 4. [Jat protesters shut down 70% of Delhi's water supply meaning the Indian city could run out of water by the end of the weekend. At least nine people are killed in fighting. ](/news/2016/02/20/jat-protesters-shut-down-70-of-delhi-s-water-supply-meaning-the-indian-city-could-run-out-of-water-by-the-end-of-the-weekend-at-least-nine.md) _Context: Delhi_
 5. [The bodies of nine Indian Army soldiers killed in an avalanche on the Siachen Glacier will be transported to Delhi. ](/news/2016/02/15/the-bodies-of-nine-indian-army-soldiers-killed-in-an-avalanche-on-the-siachen-glacier-will-be-transported-to-delhi.md) _Context: Delhi_
+
+### Changes:
+
+1. [ India's foreign ministry calls the comments inapproapiate and summons the ambassador to Delhi for an explanation [http:--news.bbc.co.uk-2-hi-south_asia-4649742.stm (BBC news)].](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-inapproapiate-and-summons-the-ambassador-to-delhi-for-an-explanation-http-news-bbc-co-uk-2-h.md) _2017-06-18 03:17:31 (First version)_
+1. [ India's foreign ministry calls the comments inapproapiate and summons the ambassador to Delhi for an explanation ](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-inapproapiate-and-summons-the-ambassador-to-delhi-for-an-explanation.md) _(Current version)_

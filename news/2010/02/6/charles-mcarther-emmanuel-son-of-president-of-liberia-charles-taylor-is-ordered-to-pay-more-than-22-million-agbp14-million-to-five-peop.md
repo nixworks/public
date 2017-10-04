@@ -16,3 +16,8 @@
 3. [The lawyer for former Liberian President Charles Taylor walks out of court protesting that his client's rights to a fair trial had been abused. ](/news/2011/02/8/the-lawyer-for-former-liberian-president-charles-taylor-walks-out-of-court-protesting-that-his-client-s-rights-to-a-fair-trial-had-been-abus.md) _Context: Charles Taylor, President of Liberia_
 4. [Former President of Liberia Charles Taylor's trial in The Hague is extended. ](/news/2011/02/11/former-president-of-liberia-charles-taylor-s-trial-in-the-hague-is-extended.md) _Context: Charles Taylor, President of Liberia_
 5. [Actress Mia Farrow gives evidence in the trial of former President of Liberia Charles Taylor before the United Nations Special Court for Sierra Leone. ](/news/2010/08/9/actress-mia-farrow-gives-evidence-in-the-trial-of-former-president-of-liberia-charles-taylor-before-the-united-nations-special-court-for-sie.md) _Context: Charles Taylor, President of Liberia_
+
+### Changes:
+
+1. [Charles McArther Emmanuel, son of President of Liberia Charles Taylor, is ordered to pay more than $22 million (PS14 million) to five people tortured during the Second Liberian Civil War. ](/news/2010/02/6/charles-mcarther-emmanuel-son-of-president-of-liberia-charles-taylor-is-ordered-to-pay-more-than-22-million-aps14-million-to-five-people.md) _2017-08-25 03:27:05 (First version)_
+1. [Charles McArther Emmanuel, son of President of Liberia Charles Taylor, is ordered to pay more than $22 million (GBP14 million) to five people tortured during the Second Liberian Civil War. ](/news/2010/02/6/charles-mcarther-emmanuel-son-of-president-of-liberia-charles-taylor-is-ordered-to-pay-more-than-22-million-agbp14-million-to-five-peop.md) _(Current version)_

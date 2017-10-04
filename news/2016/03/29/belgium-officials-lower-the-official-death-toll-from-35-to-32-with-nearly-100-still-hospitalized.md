@@ -17,3 +17,8 @@
 3. [At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was-less-than-half-of.md) _Context: 2016 Brussels bombings_
 4. [Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. ](/news/2016/04/15/belgian-minister-of-transportation-jacqueline-galant-resigns-in-the-wake-of-the-recent-bombings-that-shook-brussels-last-march-galant-resig.md) _Context: 2016 Brussels bombings_
 5. [ Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. ](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-have-been-charged-with-terrorist-offenses-linked-to-last-month-s-brussels-bombing-also-three.md) _Context: 2016 Brussels bombings_
+
+### Changes:
+
+1. [2016 Brussels bombings: Belgium officials lower the official death toll from 35 to 32, with nearly 100 still hospitalized. ](/news/2016/03/29/2016-brussels-bombings-belgium-officials-lower-the-official-death-toll-from-35-to-32-with-nearly-100-still-hospitalized.md) _2017-08-27 03:45:24 (First version)_
+1. [Belgium officials lower the official death toll from 35 to 32, with nearly 100 still hospitalized. ](/news/2016/03/29/belgium-officials-lower-the-official-death-toll-from-35-to-32-with-nearly-100-still-hospitalized.md) _(Current version)_

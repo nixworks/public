@@ -1,7 +1,7 @@
 ## [2009-03-10](/news/2009/03/10/index.md)
 
 ### [ The United States Senate passes a US$410-billion omnibus spending bill. ](/news/2009/03/10/the-united-states-senate-passes-a-us-410-billion-omnibus-spending-bill.md)
-_Context: Americans, US$, United States Senate, omnibus spending bill_
+_Context: $, Americans, United States Senate, omnibus spending bill_
 
 ### [ At least ten people are killed during a shooting spree in Geneva County, Alabama, United States. ](/news/2009/03/10/at-least-ten-people-are-killed-during-a-shooting-spree-in-geneva-county-alabama-united-states.md)
 _Context: Alabama, Americans, Geneva County, shooting spree_

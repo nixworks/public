@@ -12,3 +12,8 @@
 ### Related:
 
 1. [GOP presidential candidate Donald Trump hosts "Saturday Night Live". According to NBC the show attained a 6.6 household rating, giving "Saturday Night Live" its best overnight ratings since January 2012 when Charles Barkley was the host. ](/news/2015/11/8/gop-presidential-candidate-donald-trump-hosts-saturday-night-live-according-to-nbc-the-show-attained-a-6-6-household-rating-giving-satu.md) _Context: Saturday Night Live_
+
+### Changes:
+
+1. [''Saturday Night Live'' alumnus Darrell Hammond is chosen to be the new announcer of the long running U.S. variety show following the death of Don Pardo in August. ](/news/2014/09/19/saturday-night-live-alumnus-darrell-hammond-is-chosen-to-be-the-new-announcer-of-the-long-running-u-s-variety-show-following-the-death.md) _2017-08-25 03:41:00 (First version)_
+1. ["Saturday Night Live" alumnus Darrell Hammond is chosen to be the new announcer of the long running U.S. variety show following the death of Don Pardo in August. ](/news/2014/09/19/saturday-night-live-alumnus-darrell-hammond-is-chosen-to-be-the-new-announcer-of-the-long-running-u-s-variety-show-following-the-death-of.md) _(Current version)_

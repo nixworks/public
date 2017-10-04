@@ -17,3 +17,9 @@ Gunmen killed eight people in an attack on a police station and a bank in north-
 3. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
 4. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
 5. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Nigeria_
+
+### Changes:
+
+1. [Nigerian Sharia conflict:Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/nigerian-sharia-conflict-pgunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md) _2017-08-25 03:37:44 (First version)_
+2. [Nigerian Sharia conflict:: Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/nigerian-sharia-conflict-gunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md) _2017-08-27 03:37:55 (Update)_
+2. [Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/gunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md) _(Current version)_

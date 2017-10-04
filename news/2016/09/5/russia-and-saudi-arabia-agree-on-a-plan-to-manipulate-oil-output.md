@@ -17,3 +17,8 @@ Oil prices rose Monday after Russia and Saudi Arabia announced they would cooper
 3. [Russia convenes a UNSC session to discuss Saudi Arabian attacks in Yemen after Royal Saudi Air Force bombed a refugee camp, killing dozens. ](/news/2015/04/4/russia-convenes-a-unsc-session-to-discuss-saudi-arabian-attacks-in-yemen-after-royal-saudi-air-force-bombed-a-refugee-camp-killing-dozens.md) _Context: Russia, Saudi Arabia_
 4. [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md) _Context: Russia, Saudi Arabia_
 5. [ Ali Al-Naimi, the Saudi Arabian oil minister calls for a meeting of oil producing and consuming nations to discuss record oil prices. ](/news/2008/06/9/ali-al-naimi-the-saudi-arabian-oil-minister-calls-for-a-meeting-of-oil-producing-and-consuming-nations-to-discuss-record-oil-prices.md) _Context: Saudi Arabia, oil_
+
+### Changes:
+
+1. [Russia-Saudi Arabia relations: Russia and Saudi Arabia agree on a plan to manipulate oil output. ](/news/2016/09/5/russia-saudi-arabia-relations-russia-and-saudi-arabia-agree-on-a-plan-to-manipulate-oil-output.md) _2017-08-27 03:46:46 (First version)_
+1. [Russia and Saudi Arabia agree on a plan to manipulate oil output. ](/news/2016/09/5/russia-and-saudi-arabia-agree-on-a-plan-to-manipulate-oil-output.md) _(Current version)_

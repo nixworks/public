@@ -16,3 +16,8 @@
 3. [Jim Gilmore suspends his campaign for the Republican Party nomination. ](/news/2016/02/12/jim-gilmore-suspends-his-campaign-for-the-republican-party-nomination.md) _Context: 2016 United States presidential election, Republican_
 4. [2016 United States presidential election: Former Governor of Arkansas Mike Huckabee announces that he is seeking the Republican Party nomination. ](/news/2015/05/5/2016-united-states-presidential-election-former-governor-of-arkansas-mike-huckabee-announces-that-he-is-seeking-the-republican-party-nomina.md) _Context: 2016 United States presidential election, Republican_
 5. [Mark Hurd resigns as chief executive officer of computer company Hewlett-Packard following investigation of a sexual harassment claim. ](/news/2010/08/6/mark-hurd-resigns-as-chief-executive-officer-of-computer-company-hewlett-packard-following-investigation-of-a-sexual-harassment-claim.md) _Context: Hewlett-Packard, chief executive officer_
+
+### Changes:
+
+1. [2016 United States Presidential election: Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/2016-united-states-presidential-election-former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-th.md) _2017-08-27 03:42:16 (First version)_
+1. [Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-the-republican-party-nomination-for-the-2016.md) _(Current version)_

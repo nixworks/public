@@ -20,3 +20,9 @@ The EU agrees to impose sanctions on Ukrainian officials &quot;responsible for v
 3. [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _Context: Kiev_
 4. [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md) _Context: Kiev_
 5. [A former Ukrainian soldier assassinates former Russian Duma deputy Denis Voronenkov in the Ukrainian capital Kiev. In December 2016, he received Ukrainian citizenship. Ilya Ponomarev says Voronenkov was heading to a meeting with him. ](/news/2017/03/23/a-former-ukrainian-soldier-assassinates-former-russian-duma-deputy-denis-voronenkov-in-the-ukrainian-capital-kiev-in-december-2016-he-rece.md) _Context: Kiev_
+
+### Changes:
+
+1. [Euromaidan:A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/euromaidan-pa-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-report.md) _2017-08-25 03:40:04 (First version)_
+2. [Euromaidan:: A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/euromaidan-a-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-repor.md) _2017-08-27 03:40:21 (Update)_
+2. [A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/a-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-reported.md) _(Current version)_

@@ -17,3 +17,8 @@ More than 30 people were injured and dozens of buildings damaged when a tornado 
 3. [A rare EF2 tornado strikes Chelsea and Revere, Massachusetts marking the first such incident since at least 1950 that a tornado had hit the two communities north of Boston according to the NWS. ](/news/2014/07/28/a-rare-ef2-tornado-strikes-chelsea-and-revere-massachusetts-marking-the-first-such-incident-since-at-least-1950-that-a-tornado-had-hit-the.md) _Context: EF-2_
 4. [Five people are injured during a shooting at a Hmong New Year's celebration in Tulsa, Oklahoma, U.S. Two men, 19 and 21 years old, are arrested. ](/news/2013/10/13/five-people-are-injured-during-a-shooting-at-a-hmong-new-year-s-celebration-in-tulsa-oklahoma-u-s-two-men-19-and-21-years-old-are-arres.md) _Context: Tulsa, Oklahoma_
 5. [ An EF4 tornado kills at least eight people and injures 50 in Lone Grove, Oklahoma, United States. ](/news/2009/02/10/an-ef4-tornado-kills-at-least-eight-people-and-injures-50-in-lone-grove-oklahoma-united-states.md) _Context: EF-2_
+
+### Changes:
+
+1. [2017 Tulsa tornado: An EF-2 tornado strikes Tulsa, Oklahoma, injuring 30 people and damaging dozens of buildings. ](/news/2017/08/6/2017-tulsa-tornado-an-ef-2-tornado-strikes-tulsa-oklahoma-injuring-30-people-and-damaging-dozens-of-buildings.md) _2017-08-27 03:48:47 (First version)_
+1. [An EF-2 tornado strikes Tulsa, Oklahoma, injuring 30 people and damaging dozens of buildings. ](/news/2017/08/6/an-ef-2-tornado-strikes-tulsa-oklahoma-injuring-30-people-and-damaging-dozens-of-buildings.md) _(Current version)_

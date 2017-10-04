@@ -17,3 +17,8 @@ Some 5,000 migrants were rescued from rubber dinghies in the Mediterranean on Th
 3. [The United Nations believes that at least 239 migrants drowned in shipwrecks near the coast of Libya. ](/news/2016/11/3/the-united-nations-believes-that-at-least-239-migrants-drowned-in-shipwrecks-near-the-coast-of-libya.md) _Context: European migration crisis_
 4. [The Spanish-based Proactiva Open Arms NGO rescues more than 700 migrants in the Mediterranean Sea about 17 miles north of Sabratha, Libya. The rescued, who are from Nigeria, are transferred to the Italian Coast Guard. ](/news/2016/08/28/the-spanish-based-proactiva-open-arms-ngo-rescues-more-than-700-migrants-in-the-mediterranean-sea-about-17-miles-north-of-sabratha-libya-t.md) _Context: Italian Coast Guard_
 5. [Italy's Coast Guard picks up 1,230 migrants in the Mediterranean Sea. More than 4,000 people have been saved at sea in the past week. ](/news/2016/06/12/italy-s-coast-guard-picks-up-1-230-migrants-in-the-mediterranean-sea-more-than-4-000-people-have-been-saved-at-sea-in-the-past-week.md) _Context: European migration crisis_
+
+### Changes:
+
+1. [European migration crisis: The Italian Coast Guard rescues 4,500 migrants at sea. ](/news/2016/06/23/european-migration-crisis-the-italian-coast-guard-rescues-4-500-migrants-at-sea.md) _2017-08-27 03:46:19 (First version)_
+1. [The Italian Coast Guard rescues 4,500 migrants at sea. ](/news/2016/06/23/the-italian-coast-guard-rescues-4-500-migrants-at-sea.md) _(Current version)_

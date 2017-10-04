@@ -18,3 +18,9 @@ Two weeks of fighting between militias in Libya&#x27;s capital Tripoli have left
 3. [Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-benghazi-from-ansar-al-sharia.md) _Context: Benghazi_
 4. [A car bomb in Benghazi kills three children and injures 20 others. ](/news/2016/11/21/a-car-bomb-in-benghazi-kills-three-children-and-injures-20-others.md) _Context: Benghazi_
 5. [A car bombing in the Al-Quwarsha area on the outskirts of Benghazi claims at least 23 lives. The Shura Council of Benghazi Revolutionaries says it is responsible. ](/news/2016/08/2/a-car-bombing-in-the-al-quwarsha-area-on-the-outskirts-of-benghazi-claims-at-least-23-lives-the-shura-council-of-benghazi-revolutionaries-s.md) _Context: Benghazi_
+
+### Changes:
+
+1. [Post-civil war violence in Libya:Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/post-civil-war-violence-in-libya-pintense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-so.md) _2017-08-25 03:40:45 (First version)_
+2. [Post-civil war violence in Libya:: Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/post-civil-war-violence-in-libya-intense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-s.md) _2017-08-27 03:41:04 (Update)_
+2. [Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/intense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-soldiers.md) _(Current version)_

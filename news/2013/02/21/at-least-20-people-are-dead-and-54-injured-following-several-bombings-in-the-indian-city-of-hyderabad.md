@@ -18,3 +18,9 @@ At least 12 people are killed by twin blasts in the southern Indian city of Hyde
 3. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
 4. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
 5. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md) _Context: India_
+
+### Changes:
+
+1. [2013 Hyderabad blasts:At least 20 people are dead and 54 injured following several bombings in the Indian city of Hyderabad. ](/news/2013/02/21/2013-hyderabad-blasts-pat-least-20-people-are-dead-and-54-injured-following-several-bombings-in-the-indian-city-of-hyderabad.md) _2017-08-25 03:37:35 (First version)_
+2. [2013 Hyderabad blasts:: At least 20 people are dead and 54 injured following several bombings in the Indian city of Hyderabad. ](/news/2013/02/21/2013-hyderabad-blasts-at-least-20-people-are-dead-and-54-injured-following-several-bombings-in-the-indian-city-of-hyderabad.md) _2017-08-27 03:37:46 (Update)_
+2. [At least 20 people are dead and 54 injured following several bombings in the Indian city of Hyderabad. ](/news/2013/02/21/at-least-20-people-are-dead-and-54-injured-following-several-bombings-in-the-indian-city-of-hyderabad.md) _(Current version)_

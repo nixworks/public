@@ -19,7 +19,7 @@ _Context: Americans, Fort Dix, New Jersey, conspiring to kill soldiers_
 _Context: Chilpancingo, Guerrero, Mexico_
 
 ### [ Automobile dealers in Mexico demand a US$3 billion bailout package during the automotive crisis. ](/news/2008/12/22/automobile-dealers-in-mexico-demand-a-us-3-billion-bailout-package-during-the-automotive-crisis.md)
-_Context: US$, bailout, dealers, global crisis_
+_Context: $, bailout, dealers, global crisis_
 
 ### [ The United States and Mexico pledge $1.4 billion for the Merida Initiative, a security cooperation for combating drug trade, transnational crime, and money laundering. ](/news/2008/12/22/the-united-states-and-mexico-pledge-1-4-billion-for-the-ma-c-rida-initiative-a-security-cooperation-for-combating-drug-trade-transnational.md)
 _Context: Americans, Merida Initiative, anti-drug plan, money laundering_

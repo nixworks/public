@@ -17,3 +17,8 @@
 3. [2011 Horn of Africa famine: The United Nations declares a famine in southern Somalia. ](/news/2011/07/20/2011-horn-of-africa-famine-the-united-nations-declares-a-famine-in-southern-somalia.md) _Context: Somalian, famine_
 4. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Somalian_
 5. [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu. ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md) _Context: Somalian_
+
+### Changes:
+
+1. [2011 Horn of Africa famine: Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/2011-horn-of-africa-famine-unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md) _2017-08-27 03:33:59 (First version)_
+1. [Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md) _(Current version)_

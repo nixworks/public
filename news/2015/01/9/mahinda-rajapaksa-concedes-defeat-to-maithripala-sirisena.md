@@ -17,3 +17,9 @@ Shock as authoritarian president’s office reports that he has left official re
 3. [The new Sri Lankan government announces that it will investigate allegations of a coup attempt by Mahinda Rajapaksa, in a bid to retain power after being defeated at the polls. ](/news/2015/01/11/the-new-sri-lankan-government-announces-that-it-will-investigate-allegations-of-a-coup-attempt-by-mahinda-rajapaksa-in-a-bid-to-retain-powe.md) _Context: Mahinda Rajapaksa, Sri Lankan presidential election, 2015_
 4. [ Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. ](/news/2015/06/26/sri-lankan-president-maithripala-sirisena-dissolves-the-parliament-to-pave-the-way-for-the-upcoming-parliamentary-election.md) _Context: Maithripala Sirisena_
 5. [The President of Sri Lanka Mahinda Rajapaksa calls an early election. ](/news/2014/11/20/the-president-of-sri-lanka-mahinda-rajapaksa-calls-an-early-election.md) _Context: Mahinda Rajapaksa_
+
+### Changes:
+
+1. [Sri Lankan presidential election, 2015 Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/sri-lankan-presidential-election-2015-pmahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md) _2017-05-25 03:43:22 (First version)_
+2. [Sri Lankan presidential election, 2015: Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/sri-lankan-presidential-election-2015-mahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md) _2017-08-27 03:41:46 (Update)_
+2. [Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/mahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md) _(Current version)_

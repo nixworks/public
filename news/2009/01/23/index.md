@@ -13,7 +13,7 @@ Japan launched a satellite onFriday to monitor greenhouse gases around the world
 A man and a woman have been killed in a shooting in a car park outside a kindergarten in the northern Norwegian town of Tromso.
 
 ### [ Hamas accuses rival faction Fatah of spying for Israel during the recent conflict in the Gaza Strip. ](/news/2009/01/23/hamas-accuses-rival-faction-fatah-of-spying-for-israel-during-the-recent-conflict-in-the-gaza-strip.md)
-_Context: Fatah, Gaza, Hamas, Israel, espionage, faction, fire_
+_Context: Fatah, Gaza, Hamas, Israel, faction, fire, spy_
 
 ### [ National Congress and Tutsi leader Laurent Nkunda is arrested in Rwanda. ](/news/2009/01/23/national-congress-and-tutsi-leader-laurent-nkunda-is-arrested-in-rwanda.md)
 In a startling turn against its former ally, Rwanda has arrested Congo rebel leader Laurent Nkunda.
@@ -22,7 +22,7 @@ In a startling turn against its former ally, Rwanda has arrested Congo rebel lea
 _Context: Belgium, an attack, day-care center, stabbed_
 
 ### [ The 30-man crew of Chinese cargo ship "Zhenhua 4" receives US$10,000 each after repelling Somali pirates in the Gulf of Aden. ](/news/2009/01/23/the-30-man-crew-of-chinese-cargo-ship-zhenhua-4-receives-us-10-000-each-after-repelling-somali-pirates-in-the-gulf-of-aden.md)
-_Context: China, Gulf of Aden, Somali pirates, Somalian, US$, cargo ship_
+_Context: $, China, Gulf of Aden, Somali pirates, Somalian, cargo ship_
 
 ### [ The United Kingdom enters a recession. ](/news/2009/01/23/the-united-kingdom-enters-a-recession.md)
 _Context: United Kingdom, recession_

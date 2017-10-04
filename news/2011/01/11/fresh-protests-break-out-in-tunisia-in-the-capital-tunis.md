@@ -19,3 +19,9 @@ Police fire into the air to disperse protesters throwing stones and smashing up 
 3. [An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 15 people dead, as the country's government declares a state of emergency. ](/news/2015/11/24/an-explosion-on-a-bus-carrying-tunisian-presidential-guard-personnel-in-tunisia-s-capital-tunis-leaves-at-least-15-people-dead-as-the-count.md) _Context: Tunis, Tunisia_
 4. [A police officer and seven Islamist militants are killed in a gunfight in Tunis, Tunisia. ](/news/2014/02/4/a-police-officer-and-seven-islamist-militants-are-killed-in-a-gunfight-in-tunis-tunisia.md) _Context: Tunis, Tunisia_
 5. [Tunisian police shoot dead an Islamist Militant on the outskirt of the capital Tunis in a raid. ](/news/2013/08/6/tunisian-police-shoot-dead-an-islamist-militant-on-the-outskirt-of-the-capital-tunis-in-a-raid.md) _Context: Tunis, Tunisia_
+
+### Changes:
+
+1. [2010-2011 Tunisian protests:Fresh protests break out in Tunisia, in the capital Tunis. ](/news/2011/01/11/2010a2011-tunisian-protests-pfresh-protests-break-out-in-tunisia-in-the-capital-tunis.md) _2017-08-25 03:31:44 (First version)_
+2. [2010-2011 Tunisian protests:: Fresh protests break out in Tunisia, in the capital Tunis. ](/news/2011/01/11/2010-2011-tunisian-protests-fresh-protests-break-out-in-tunisia-in-the-capital-tunis.md) _2017-08-27 03:31:51 (Update)_
+2. [Fresh protests break out in Tunisia, in the capital Tunis. ](/news/2011/01/11/fresh-protests-break-out-in-tunisia-in-the-capital-tunis.md) _(Current version)_

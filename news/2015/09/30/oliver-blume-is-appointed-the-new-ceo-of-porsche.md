@@ -17,3 +17,8 @@ Volkswagen AG Chief Executive Officer Matthias Mueller will brief the leadership
 3. [Martin Winterkorn resigns as the CEO of Volkswagen as a result of an emissions cheating scandal. ](/news/2015/09/23/martin-winterkorn-resigns-as-the-ceo-of-volkswagen-as-a-result-of-an-emissions-cheating-scandal.md) _Context: Volkswagen emissions violations_
 4. [Volkswagen says that 11 million vehicles could have suspect emission control software and it has set aside 6.5 billion euros ($7.2 billion US dollars) for possible fines, repairs, and litigation. ](/news/2015/09/22/volkswagen-says-that-11-million-vehicles-could-have-suspect-emission-control-software-and-it-has-set-aside-6-5-billion-euros-7-2-billion-u.md) _Context: Volkswagen emissions violations_
 5. [Volkswagen halts sales of its 4-cylinder diesel vehicles in the United States following a U.S. Environmental Protection Agency citation that their cars violated U.S. emissions standards. ](/news/2015/09/20/volkswagen-halts-sales-of-its-4-cylinder-diesel-vehicles-in-the-united-states-following-a-u-s-environmental-protection-agency-citation-that.md) _Context: Volkswagen emissions violations_
+
+### Changes:
+
+1. [Volkswagen emissions violations: Oliver Blume is appointed the new CEO of Porsche. ](/news/2015/09/30/volkswagen-emissions-violations-oliver-blume-is-appointed-the-new-ceo-of-porsche.md) _2017-08-27 03:43:11 (First version)_
+1. [Oliver Blume is appointed the new CEO of Porsche. ](/news/2015/09/30/oliver-blume-is-appointed-the-new-ceo-of-porsche.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/forces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md) _Context: Alassane Ouattara, Laurent Gbagbo_
 4. [Second Ivorian Civil War: Ivorian Popular Front, the party of ousted Ivory Coast President Laurent Gbagbo, calls upon its supporters to end the unrest in the country after his arrest. ](/news/2011/04/16/second-ivorian-civil-war-ivorian-popular-front-the-party-of-ousted-ivory-coast-president-laurent-gbagbo-calls-upon-its-supporters-to-end.md) _Context: Laurent Gbagbo, Second Ivorian Civil War_
 5. [Ivory Coast President Alassane Ouattara says former leader Laurent Gbagbo will face charges at the national and international level. ](/news/2011/04/13/ivory-coast-president-alassane-ouattara-says-former-leader-laurent-gbagbo-will-face-charges-at-the-national-and-international-level.md) _Context: Alassane Ouattara, Laurent Gbagbo_
+
+### Changes:
+
+1. [Second Ivorian Civil War: Pro-Ouattara forces attempt to remove remaining militia loyal to deposed President Laurent Gbagbo. ](/news/2011/04/20/second-ivorian-civil-war-pro-ouattara-forces-attempt-to-remove-remaining-militia-loyal-to-deposed-president-laurent-gbagbo.md) _2017-08-27 03:33:00 (First version)_
+1. [Pro-Ouattara forces attempt to remove remaining militia loyal to deposed President Laurent Gbagbo. ](/news/2011/04/20/pro-ouattara-forces-attempt-to-remove-remaining-militia-loyal-to-deposed-president-laurent-gbagbo.md) _(Current version)_

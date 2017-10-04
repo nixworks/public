@@ -16,3 +16,8 @@
 3. [Eritrea accuses four Britons of espionage and terrorism. ](/news/2011/06/9/eritrea-accuses-four-britons-of-espionage-and-terrorism.md) _Context: United Kingdom, terrorism_
 4. [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md) _Context: United Kingdom, terrorism_
 5. [The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. ](/news/2010/08/2/the-government-of-pakistan-summons-the-british-high-commissioner-to-islamabad-for-a-dressing-down-by-foreign-minister-shah-mehmood-qureshi.md) _Context: United Kingdom, terrorism_
+
+### Changes:
+
+1. [ UK Law Lords rule in ''A v. Secretary of State for the Home Department'' that evidence which may have been obtained by torture cannot be used against suspects in terrorism cases. ](/news/2005/12/8/uk-law-lords-rule-in-a-v-secretary-of-state-for-the-home-department-that-evidence-which-may-have-been-obtained-by-torture-cannot-be-us.md) _2017-08-25 03:17:14 (First version)_
+1. [ UK Law Lords rule in "A v. Secretary of State for the Home Department" that evidence which may have been obtained by torture cannot be used against suspects in terrorism cases. ](/news/2005/12/8/uk-law-lords-rule-in-a-v-secretary-of-state-for-the-home-department-that-evidence-which-may-have-been-obtained-by-torture-cannot-be-used.md) _(Current version)_

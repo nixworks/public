@@ -17,3 +17,8 @@ Police are investigating the cause of the blast, which ripped through a shopping
 3. [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md) _Context: Lahore, War in North-West Pakistan_
 4. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md) _Context: Pakistan, War in North-West Pakistan_
 5. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: Lahore, War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: At least six people are killed in a bomb blast in the Pakistani city of Lahore. ](/news/2017/02/23/war-in-north-west-pakistan-at-least-six-people-are-killed-in-a-bomb-blast-in-the-pakistani-city-of-lahore.md) _2017-08-27 03:47:53 (First version)_
+1. [At least six people are killed in a bomb blast in the Pakistani city of Lahore. ](/news/2017/02/23/at-least-six-people-are-killed-in-a-bomb-blast-in-the-pakistani-city-of-lahore.md) _(Current version)_

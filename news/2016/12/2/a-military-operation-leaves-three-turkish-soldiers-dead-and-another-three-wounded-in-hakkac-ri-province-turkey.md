@@ -19,3 +19,8 @@ At least 27 PKK terrorists were &#39;neutralized&#39; in anti-terror operations 
 3. [Three bombings targeting police and military kill at least 12 people and wound 219 in southeast Turkey. ](/news/2016/08/18/three-bombings-targeting-police-and-military-kill-at-least-12-people-and-wound-219-in-southeast-turkey.md) _Context: Kurdish-Turkish conflict (2015-present), Turkey_
 4. [The Turkish military kills 35 Kurdistan Workers' Party militants after they attempt to capture a base in Turkey's Hakkari Province. ](/news/2016/07/30/the-turkish-military-kills-35-kurdistan-workers-party-militants-after-they-attempt-to-capture-a-base-in-turkey-s-hakkac-ri-province.md) _Context: Hakkari Province, Turkey_
 5. [At least six Turkish soldiers are killed and four others are wounded in a PKK attack in Turkey's eastern Van Province. ](/news/2016/05/24/at-least-six-turkish-soldiers-are-killed-and-four-others-are-wounded-in-a-pkk-attack-in-turkey-s-eastern-van-province.md) _Context: Kurdish-Turkish conflict (2015-present), Turkey_
+
+### Changes:
+
+1. [Kurdish-Turkish conflict (2015-present): A military operation leaves three Turkish soldiers dead and another three wounded in Hakkari Province, Turkey. ](/news/2016/12/2/kurdish-turkish-conflict-2015-present-a-military-operation-leaves-three-turkish-soldiers-dead-and-another-three-wounded-in-hakkac-ri-p.md) _2017-08-27 03:47:21 (First version)_
+1. [ A military operation leaves three Turkish soldiers dead and another three wounded in Hakkari Province, Turkey. ](/news/2016/12/2/a-military-operation-leaves-three-turkish-soldiers-dead-and-another-three-wounded-in-hakkac-ri-province-turkey.md) _(Current version)_

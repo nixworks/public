@@ -16,3 +16,9 @@
 3. [ The Taliban announces a ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/24/the-taliban-announces-a-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md) _Context: Khyber Pakhtunkhwa, Taliban_
 4. [ The Taliban and Pakistan agree to a permanent ceasefire in the war in North-West Frontier Province. ](/news/2009/02/21/the-taliban-and-pakistan-agree-to-a-permanent-ceasefire-in-the-war-in-north-west-frontier-province.md) _Context: Khyber Pakhtunkhwa, Taliban_
 5. [ The Taliban announces a ten-day ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/15/the-taliban-announces-a-ten-day-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md) _Context: Khyber Pakhtunkhwa, Taliban_
+
+### Changes:
+
+1. [War in Afghanistan:Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-psenior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md) _2017-08-25 03:40:04 (First version)_
+2. [War in Afghanistan:: Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-senior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md) _2017-08-27 03:40:22 (Update)_
+2. [Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/senior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md) _(Current version)_

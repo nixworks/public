@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-united-states-secretary-of-defense.md) _Context: Defense Secretary, United States Marine Corps_
+1. [President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-united-states-secretary-of-defense.md) _Context: Defense Secretary, U.S. Marine_
 2. [At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/at-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hagel-the-united-states.md) _Context: Afghanistan, Defense Secretary_
 3. [Chuck Hagel is sworn in as United States Secretary of Defense, replacing Leon Panetta. ](/news/2013/02/27/chuck-hagel-is-sworn-in-as-united-states-secretary-of-defense-replacing-leon-panetta.md) _Context: Defense Secretary, Leon Panetta_
 4. [US Defence Secretary Leon Panetta urges China and its neighbours not to engage in "provocative behaviour" over maritime border disputes. ](/news/2012/09/16/us-defence-secretary-leon-panetta-urges-china-and-its-neighbours-not-to-engage-in-provocative-behaviour-over-maritime-border-disputes.md) _Context: Defense Secretary, Leon Panetta_

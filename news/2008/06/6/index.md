@@ -25,7 +25,7 @@ _Context: 2008, America's Climate Security Act of 2007, Barack Obama, John McCai
 _Context: Colombo, Sri Lanka_
 
 ### [ The price of a barrel of crude oil rises a single-day record of nearly US$11, settling at a new record of US$138.54. ](/news/2008/06/6/the-price-of-a-barrel-of-crude-oil-rises-a-single-day-record-of-nearly-us-11-settling-at-a-new-record-of-us-138-54.md)
-_Context: US$, crude oil_
+_Context: $, crude oil_
 
 ### [ Joseph Muscat becomes the leader of the Malta Labour Party, to become the opposition leader of Malta, to take the place of Charles Mangion, after the resignation of Alfred Sant. ](/news/2008/06/6/joseph-muscat-becomes-the-leader-of-the-malta-labour-party-to-become-the-opposition-leader-of-malta-to-take-the-place-of-charles-mangion.md)
 (Adds further comments by Dr Muscat and video) New Labour leader Joseph Muscat had an informal meeting with the Prime Minister this morning when it was agreed that issues such as parliamentary business, including pairing, will be discussed once the MLP completes the election of its deputy leaders...

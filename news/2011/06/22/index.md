@@ -67,7 +67,7 @@ _Context: Far East, Magadan_
 The personal details of 15 million people, a quarter of the population of Britain, will be held on a new police database which will include information about victims of crime, it has emerged.
 
 ### [Fugitive alleged Boston crime boss James J. Bulger is arrested in the US city of Santa Monica, California. ](/news/2011/06/22/fugitive-alleged-boston-crime-boss-james-j-bulger-is-arrested-in-the-us-city-of-santa-monica-california.md)
-_Context: Boston, Massachusetts, California, James J. Bulger, Santa Monica, fugitive_
+_Context: Boston, Massachusetts, California, James J. Bulger, Santa Monica, California, fugitive_
 
 ### [A vigil is held in London to demand the release of journalist Urunboy Usmonov, imprisoned by authorities in Tajikistan last week. Usmonov is reported to be in ill health. ](/news/2011/06/22/a-vigil-is-held-in-london-to-demand-the-release-of-journalist-urunboy-usmonov-imprisoned-by-authorities-in-tajikistan-last-week-usmonov-is.md)
 BBC journalists hold a vigil to demand the release of colleague Urunboy Usmonov, held in Tajikistan for alleged association with a banned Islamist group.

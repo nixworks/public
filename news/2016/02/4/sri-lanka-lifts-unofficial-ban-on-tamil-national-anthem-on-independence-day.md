@@ -18,3 +18,8 @@ School children rendered the Sinhala and Tamil versions of the national anthem a
 3. [ Sri Lanka's government announces that Tamil refugees held in camps since the end of the conflict with the Tamil Tigers will be free to leave the camps next month. ](/news/2009/11/21/sri-lanka-s-government-announces-that-tamil-refugees-held-in-camps-since-the-end-of-the-conflict-with-the-tamil-tigers-will-be-free-to-leav.md) _Context: Sri Lanka, Tamil_
 4. [ Sri Lanka announces it will rehouse displaced Tamil refugees within the next four months. ](/news/2009/09/18/sri-lanka-announces-it-will-rehouse-displaced-tamil-refugees-within-the-next-four-months.md) _Context: Sri Lanka, Tamil_
 5. [ United Nations Under-Secretary General for Political Affairs Lynn Pascoe begins visiting camps holding displaced Tamil refugees in northern Sri Lanka. ](/news/2009/09/17/united-nations-under-secretary-general-for-political-affairs-lynn-pascoe-begins-visiting-camps-holding-displaced-tamil-refugees-in-northern.md) _Context: Sri Lanka, Tamil_
+
+### Changes:
+
+1. [Tamil national anthem: Sri Lanka lifts unofficial ban on Tamil national anthem on independence day. ](/news/2016/02/4/tamil-national-anthem-sri-lanka-lifts-unofficial-ban-on-tamil-national-anthem-on-independence-day.md) _2017-08-27 03:44:49 (First version)_
+1. [Sri Lanka lifts unofficial ban on Tamil national anthem on independence day. ](/news/2016/02/4/sri-lanka-lifts-unofficial-ban-on-tamil-national-anthem-on-independence-day.md) _(Current version)_

@@ -20,3 +20,9 @@
 
 1. [Thousands, including some from Australia, protest in London, England, against the renewal of the United Kingdom's Trident nuclear deterrent system, the largest anti-nuclear rally since 1983. Leader of the Labour Party Jeremy Corbyn, Scottish National Party leader and First Minister of Scotland Nicola Sturgeon, the Welsh Plaid Cymru Party, and the Green Party participated in the march. A parliamentary vote on renewing Trident is expected this year. ](/news/2016/02/27/thousands-including-some-from-australia-protest-in-london-england-against-the-renewal-of-the-united-kingdom-s-trident-nuclear-deterrent.md) _Context: Green Party_
 2. [ Green Party of England and Wales unveil radical manifesto aiming at measures against climate change. ](/news/2005/04/15/green-party-of-england-and-wales-unveil-radical-manifesto-aiming-at-measures-against-climate-change.md) _Context: Green Party_
+
+### Changes:
+
+1. [United Kingdom general election, 2010:Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/united-kingdom-general-election-2010-pcaroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency-w.md) _2017-08-25 03:27:52 (First version)_
+2. [United Kingdom general election, 2010:: Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/united-kingdom-general-election-2010-caroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency.md) _2017-08-27 03:27:50 (Update)_
+2. [Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/caroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency-with-a-majority-of-1-252.md) _(Current version)_

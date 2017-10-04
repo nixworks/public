@@ -20,3 +20,9 @@ Activists say opposition fighters have taken control of base near Aleppo as figh
 3. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo, Syrian Civil War_
 4. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo, Syrian Civil War_
 5. [The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuation-of-the-last-group-of-rebels-to-the-idlib-gover.md) _Context: Aleppo, Syrian Civil War_
+
+### Changes:
+
+1. [Arab Spring:Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/arab-spring-psyrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md) _2017-08-25 03:36:41 (First version)_
+2. [Arab Spring:: Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/arab-spring-syrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md) _2017-08-27 03:36:51 (Update)_
+2. [Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/syrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md) _(Current version)_

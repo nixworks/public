@@ -17,3 +17,9 @@
 3. [Brexit negotiations begin in Brussels. ](/news/2017/06/19/brexit-negotiations-begin-in-brussels.md) _Context: Brussels_
 4. [Several people are wounded in clashes outside the Turkish consulate in Brussels. ](/news/2017/03/30/several-people-are-wounded-in-clashes-outside-the-turkish-consulate-in-brussels.md) _Context: Brussels_
 5. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Brussels_
+
+### Changes:
+
+1. [Belgian prosecutors release Faycal C., a man charged in connection with last week's deadly Brussels bombings. The prosecutor's office says the evidence which led to his arrest has not been backed up by the ongoing investigation. ](/news/2016/03/28/belgian-prosecutors-release-faycal-c-a-man-charged-in-connection-with-last-week-s-deadly-brussels-bombings-the-prosecutor-s-office-says.md) _2017-08-25 03:45:02 (First version)_
+2. [Aftermath of the Brussels bombings: Belgian prosecutors release Faycal C., a man charged in connection with last week's deadly Brussels bombings. The prosecutor's office says the evidence which led to his arrest has not been backed up by the ongoing investigation. ](/news/2016/03/28/aftermath-of-the-brussels-bombings-belgian-prosecutors-release-faycal-c-a-man-charged-in-connection-with-last-week-s-deadly-brussels-bomb.md) _2017-08-27 03:45:24 (Update)_
+2. [Belgian prosecutors release Faycal C., a man charged in connection with last week's deadly Brussels bombings. The prosecutor's office says the evidence which led to his arrest has not been backed up by the ongoing investigation. ](/news/2016/03/28/belgian-prosecutors-release-faycal-c-a-man-charged-in-connection-with-last-week-s-deadly-brussels-bombings-the-prosecutor-s-office-says-t.md) _(Current version)_

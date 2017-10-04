@@ -17,3 +17,9 @@
 3. [Gunfire is heard in the Afghan capital Kabul with security forces looking for attackers with at least one person killed and six injured. ](/news/2016/09/6/gunfire-is-heard-in-the-afghan-capital-kabul-with-security-forces-looking-for-attackers-with-at-least-one-person-killed-and-six-injured.md) _Context: Afghanistan, Kabul_
 4. [Indian External Affairs Minister Sushma Swaraj announces Indian charity worker Judith D'Souza (Aga Khan Foundation), who was kidnapped in Kabul, Afghanistan, on June 9, 2016, is free. ](/news/2016/07/23/indian-external-affairs-minister-sushma-swaraj-announces-indian-charity-worker-judith-d-souza-aga-khan-foundation-who-was-kidnapped-in-ka.md) _Context: Afghanistan, Kabul_
 5. [Afghan officials report at least 80 people are killed and more than 230 injured as twin suicide blasts hit a large demonstration of the Shiite Hazara community over a power route line at Dehmazang Circle, Kabul, Afghanistan. The Islamic State claims responsibility. ](/news/2016/07/23/afghan-officials-report-at-least-80-people-are-killed-and-more-than-230-injured-as-twin-suicide-blasts-hit-a-large-demonstration-of-the-shii.md) _Context: Afghanistan, Kabul_
+
+### Changes:
+
+1. [War in Afghanistan:Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-pafghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md) _2017-08-25 03:36:12 (First version)_
+2. [War in Afghanistan:: Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-afghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md) _2017-08-27 03:36:23 (Update)_
+2. [Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/afghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md) _(Current version)_

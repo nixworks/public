@@ -16,3 +16,8 @@
 3. [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md) _Context: Baghdad, Iraq_
 4. [ Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad-injuring-at-least-33.md) _Context: Baghdad, Iraq_
 5. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraq_
+
+### Changes:
+
+1. [Iraqi Insurgency: At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/iraqi-insurgency-at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md) _2017-08-27 03:40:45 (First version)_
+1. [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md) _(Current version)_

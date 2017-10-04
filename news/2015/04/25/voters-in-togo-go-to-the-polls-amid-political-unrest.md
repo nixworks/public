@@ -16,3 +16,8 @@
 3. [Faure Gnassingb, the President of Togo, announces his candidacy for the forthcoming election in April. ](/news/2015/02/25/faure-gnassingbe-the-president-of-togo-announces-his-candidacy-for-the-forthcoming-election-in-april.md) _Context: Togolese presidential election, 2015_
 4. [Togo formally recognizes Kosovo. ](/news/2014/07/2/togo-formally-recognizes-kosovo.md) _Context: Togo_
 5. [At least 48 people die and 15 are severely injured after a bus crashes into a truck 150 kilometres north of Lom, capital of the West African nation of Togo. ](/news/2014/04/15/at-least-48-people-die-and-15-are-severely-injured-after-a-bus-crashes-into-a-truck-150-kilometres-north-of-lome-capital-of-the-west-africa.md) _Context: Togo_
+
+### Changes:
+
+1. [Togolese presidential election, 2015: Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/togolese-presidential-election-2015-voters-in-togo-go-to-the-polls-amid-political-unrest.md) _2017-08-27 03:42:14 (First version)_
+1. [Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/voters-in-togo-go-to-the-polls-amid-political-unrest.md) _(Current version)_

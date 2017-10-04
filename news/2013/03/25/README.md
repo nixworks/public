@@ -31,7 +31,7 @@ _Context: Africa, China, Chinese President, Dar es Salaam, Tanzania, Xi Jinping_
 The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe following what it called a &quot;successful&quot; constitutional referendum.
 
 ### [United States Secretary of State John Kerry meets with the President of Afghanistan Hamid Karzai to talk about the two countries' strained relations. ](/news/2013/03/25/united-states-secretary-of-state-john-kerry-meets-with-the-president-of-afghanistan-hamid-karzai-to-talk-about-the-two-countries-strained-r.md)
-_Context: Afghanistan President, Hamid Karzai, John Kerry, United States Secretary of State, strained relations_
+_Context: Afghanistan President, Hamid Karzai, John Kerry, Secretary of State, strained relations_
 
 ### [The European Union and Japan say that they will begin talks to restart free trade between the two entities beginning in April. ](/news/2013/03/25/the-european-union-and-japan-say-that-they-will-begin-talks-to-restart-free-trade-between-the-two-entities-beginning-in-april.md)
 _Context: EU, Japan, free trade_

@@ -16,3 +16,8 @@ Islamabad, Sep 2 (IANS) At least six people were killed in a US drone strike in 
 3. [Seven Pakistani army soldiers and 19 Taliban fighters are killed in overnight fighting in North Waziristan near the Afghanistan border. ](/news/2015/06/8/seven-pakistani-army-soldiers-and-19-taliban-fighters-are-killed-in-overnight-fighting-in-north-waziristan-near-the-afghanistan-border.md) _Context: North Waziristan, War in North-West Pakistan_
 4. [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _Context: North Waziristan, War in North-West Pakistan_
 5. [American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _Context: North Waziristan, War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/war-in-north-west-pakistan-six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _2017-08-27 03:42:57 (First version)_
+1. [Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _(Current version)_

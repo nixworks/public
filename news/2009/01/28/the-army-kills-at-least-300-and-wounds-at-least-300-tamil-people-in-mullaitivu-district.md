@@ -17,3 +17,9 @@
 3. [The death of a Fijian detainee at the Villawood Detention Centre in Sydney, Australia, sparks a rooftop protest by Tamil detainees. ](/news/2010/09/20/the-death-of-a-fijian-detainee-at-the-villawood-detention-centre-in-sydney-australia-sparks-a-rooftop-protest-by-tamil-detainees.md) _Context: Tamil_
 4. [Sri Lankan President Mahinda Rajapaksa announces that Tamils will be given greater say in matters of governance, proposing power sharing agreements. ](/news/2010/01/12/sri-lankan-president-mahinda-rajapaksa-announces-that-tamils-will-be-given-greater-say-in-matters-of-governance-proposing-power-sharing-agr.md) _Context: Tamil_
 5. [ Sri Lanka's government announces that Tamil refugees held in camps since the end of the conflict with the Tamil Tigers will be free to leave the camps next month. ](/news/2009/11/21/sri-lanka-s-government-announces-that-tamil-refugees-held-in-camps-since-the-end-of-the-conflict-with-the-tamil-tigers-will-be-free-to-leav.md) _Context: Tamil_
+
+### Changes:
+
+1. [ Sri Lankan Civil War: The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/sri-lankan-civil-war-p-the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md) _2017-08-25 03:23:35 (First version)_
+2. [ Sri Lankan Civil War:: The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/sri-lankan-civil-war-the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md) _2017-08-27 03:23:27 (Update)_
+2. [ The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md) _(Current version)_

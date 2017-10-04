@@ -21,3 +21,9 @@ Operators of a quake-crippled nuclear plant in Japan said they would try again o
 3. [Typhoon Noul arrives at the southern Japanese islands at Amami Oshima before moving through Kyushu and then Honshu. ](/news/2015/05/12/typhoon-noul-arrives-at-the-southern-japanese-islands-at-amami-oshima-before-moving-through-kyushu-and-then-honshu.md) _Context: Honshu Island, Japan_
 4. [Typhoon Neoguri hits the main Japanese island of Honshu causing flooding, landslides and three deaths. ](/news/2014/07/10/typhoon-neoguri-hits-the-main-japanese-island-of-honshu-causing-flooding-landslides-and-three-deaths.md) _Context: Honshu Island, Japan_
 5. [A strong 6.6 magnitude earthquake and a series of aftershocks occur off the coast of Honshu in Japan. ](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-of-aftershocks-occur-off-the-coast-of-honshu-in-japan.md) _Context: Honshu Island, Japan_
+
+### Changes:
+
+1. [Fukushima I nuclear accidents:Another fire breaks out at the Fukushima I Nuclear Power Plant in northern Honshu, Japan. ](/news/2011/03/16/fukushima-i-nuclear-accidents-panother-fire-breaks-out-at-the-fukushima-i-nuclear-power-plant-in-northern-honshu-japan.md) _2017-08-25 03:32:33 (First version)_
+2. [Fukushima I nuclear accidents:: Another fire breaks out at the Fukushima I Nuclear Power Plant in northern Honshu, Japan. ](/news/2011/03/16/fukushima-i-nuclear-accidents-another-fire-breaks-out-at-the-fukushima-i-nuclear-power-plant-in-northern-honshu-japan.md) _2017-08-27 03:32:41 (Update)_
+2. [Another fire breaks out at the Fukushima I Nuclear Power Plant in northern Honshu, Japan. ](/news/2011/03/16/another-fire-breaks-out-at-the-fukushima-i-nuclear-power-plant-in-northern-honshu-japan.md) _(Current version)_

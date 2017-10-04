@@ -17,3 +17,8 @@ PHILIPPINES-ISLAMIC STATE/ (URGENT):Islamic state claims Philippines attack that
 3. [Islamic State of Iraq and the Levant militants break free supporters from a Marawi jail in the Philippines. ](/news/2016/08/28/islamic-state-of-iraq-and-the-levant-militants-break-free-supporters-from-a-marawi-jail-in-the-philippines.md) _Context: Islamic State, Moro conflict_
 4. [The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-against-newly-ele.md) _Context: Islamic State, Moro conflict_
 5. [The Islamic State of Iraq and the Levant declares war on the Philippines. ](/news/2016/06/22/the-islamic-state-of-iraq-and-the-levant-declares-war-on-the-philippines.md) _Context: Islamic State, Moro conflict_
+
+### Changes:
+
+1. [Moro Conflict: Battle of Tipo-Tipo: ISIL claims responsibility for clashes between militants linked to the group and the Philippine Army that claimed 23 lives. ](/news/2016/04/13/moro-conflict-battle-of-tipo-tipo-isil-claims-responsibility-for-clashes-between-militants-linked-to-the-group-and-the-philippine-army-tha.md) _2017-08-27 03:45:36 (First version)_
+1. [ISIL claims responsibility for clashes between militants linked to the group and the Philippine Army that claimed 23 lives. ](/news/2016/04/13/isil-claims-responsibility-for-clashes-between-militants-linked-to-the-group-and-the-philippine-army-that-claimed-23-lives.md) _(Current version)_

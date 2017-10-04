@@ -20,3 +20,9 @@ French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Ga
 3. [Almost 2,000 families are displaced in Mindanao region of the Philippines due to clashes between government forces and Islamist militants. ](/news/2016/11/29/almost-2-000-families-are-displaced-in-mindanao-region-of-the-philippines-due-to-clashes-between-government-forces-and-islamist-militants.md) _Context: Islamist_
 4. [The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-from-unknown-assailants-th.md) _Context: Malian military_
 5. [Gunmen attack a Malian military checkpoint in the town of Lere, near the Mauritanian border with Mali, killing at least three soldiers and wounding two others. ](/news/2016/02/24/gunmen-attack-a-malian-military-checkpoint-in-the-town-of-la-c-ra-c-near-the-mauritanian-border-with-mali-killing-at-least-three-soldiers-and.md) _Context: Malian military_
+
+### Changes:
+
+1. [Northern Mali conflict:The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-pthe-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md) _2017-08-25 03:37:20 (First version)_
+2. [Northern Mali conflict:: The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-the-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md) _2017-08-27 03:37:30 (Update)_
+2. [The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/the-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md) _(Current version)_

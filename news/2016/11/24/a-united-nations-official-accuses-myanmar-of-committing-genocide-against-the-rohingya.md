@@ -17,3 +17,8 @@ Myanmar wants to rid the country of its Muslim minority, a senior UN official te
 3. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: Myanmar, Rohingya people_
 4. [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md) _Context: Myanmar, Rohingya people_
 5. [At least 14 Rohingya people, including 10 children, fleeing violence in Myanmar are killed when their boat apparently hits a submerged object and capsizes just yards from the Bangladesh coast. ](/news/2017/09/28/at-least-14-rohingya-people-including-10-children-fleeing-violence-in-myanmar-are-killed-when-their-boat-apparently-hits-a-submerged-objec.md) _Context: Myanmar, Rohingya people_
+
+### Changes:
+
+1. [Rohingya conflict: A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/rohingya-conflict-a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md) _2017-08-27 03:47:18 (First version)_
+1. [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md) _(Current version)_

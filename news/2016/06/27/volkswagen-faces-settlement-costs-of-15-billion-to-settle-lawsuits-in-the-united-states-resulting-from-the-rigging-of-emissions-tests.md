@@ -17,3 +17,8 @@ Volkswagen AG’s price tag to settle lawsuits in the U.S. over its rigging of d
 3. [Volkswagen agrees to pay $175 million to United States lawyers suing the German automaker on behalf of the owners of 475,000 polluting vehicles. ](/news/2016/10/14/volkswagen-agrees-to-pay-175-million-to-united-states-lawyers-suing-the-german-automaker-on-behalf-of-the-owners-of-475-000-polluting-vehic.md) _Context: Americans, Volkswagen_
 4. [Volkswagen agrees to pay its U.S. dealers up to US$1.2 billion to compensate them for their losses resulting from the company's emissions cheating scandal. ](/news/2016/10/1/volkswagen-agrees-to-pay-its-u-s-dealers-up-to-us-1-2-billion-to-compensate-them-for-their-losses-resulting-from-the-company-s-emissions-ch.md) _Context: Volkswagen, Volkswagen emissions scandal_
 5. [An engineer from Volkswagen pleads guilty for his role in the emissions cheating scandal. ](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.md) _Context: Volkswagen, Volkswagen emissions scandal_
+
+### Changes:
+
+1. [Volkswagen emissions scandal: Volkswagen faces settlement costs of $15 billion to settle lawsuits in the United States resulting from the rigging of emissions tests. ](/news/2016/06/27/volkswagen-emissions-scandal-volkswagen-faces-settlement-costs-of-15-billion-to-settle-lawsuits-in-the-united-states-resulting-from-the-ri.md) _2017-08-27 03:46:21 (First version)_
+1. [Volkswagen faces settlement costs of $15 billion to settle lawsuits in the United States resulting from the rigging of emissions tests. ](/news/2016/06/27/volkswagen-faces-settlement-costs-of-15-billion-to-settle-lawsuits-in-the-united-states-resulting-from-the-rigging-of-emissions-tests.md) _(Current version)_

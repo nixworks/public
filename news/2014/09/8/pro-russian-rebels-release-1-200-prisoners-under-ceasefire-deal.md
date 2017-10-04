@@ -17,3 +17,8 @@ Pro-Russian rebels have released 1,200 people they had taken captive, Ukrainian 
 3. [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md) _Context: War in Donbass_
 4. [Donetsk People's Republic commander Mikhail Tolstykh, better known by his "nom de guerre" "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. ](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-don.md) _Context: War in Donbass_
 5. [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strategi.md) _Context: War in Donbass_
+
+### Changes:
+
+1. [War in Donbass: Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/war-in-donbass-pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md) _2017-08-27 03:41:15 (First version)_
+1. [Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md) _(Current version)_

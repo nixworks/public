@@ -25,7 +25,7 @@ West Bank shooting: One man dead, two women suffer from shock after gunmen trave
 _Context: Lipitor, Pfizer, intellectual property_
 
 ### [ Denis Donaldson is expelled from Sinn Fin for being a British spy. He later confirms this in a statement. ](/news/2005/12/16/denis-donaldson-is-expelled-from-sinn-fein-for-being-a-british-spy-he-later-confirms-this-in-a-statement.md)
-_Context: Denis Donaldson, Sinn Fin, espionage_
+_Context: Denis Donaldson, Sinn Fin, spy_
 
 ## [Previous Day...](/news/2005/12/15/index.md)
 

@@ -13,7 +13,7 @@ _Context: CIA, Director, Porter Goss, United States Senate, White House, nominat
 _Context: ComReg, EUR, Republic of Ireland, telecommunications, territory_
 
 ### [ The United States Air Force military drops all espionage charges against the Syrian-American airman after he pleads guilty to four lesser charges. The judge criticizes the prosecution for improperly handling key evidence and for failing to correct the mistranslation of a crucial document. ](/news/2004/09/22/the-united-states-air-force-military-drops-all-espionage-charges-against-the-syrian-american-airman-after-he-pleads-guilty-to-four-lesser-c.md)
-_Context: Syria, airman, espionage, evidence_
+_Context: Syria, airman, evidence, spy_
 
 ## [Previous Day...](/news/2004/09/21/index.md)
 

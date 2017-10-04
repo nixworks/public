@@ -17,3 +17,8 @@ Hundreds of thousands face running out of food in besieged city, while Isis laun
 3. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Islamic State, Syrian Civil War_
 4. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Islamic State, Syrian Civil War_
 5. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Islamic State, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian civil war: At least 44 people are killed in a twin bombing in the Kurdish-controlled city of Al-Qamishli on the Syria-Turkey border. ISIL claims responsibility for the attack. ](/news/2016/07/27/syrian-civil-war-at-least-44-people-are-killed-in-a-twin-bombing-in-the-kurdish-controlled-city-of-al-qamishli-on-the-syria-turkey-border.md) _2017-08-27 03:46:33 (First version)_
+1. [At least 44 people are killed in a twin bombing in the Kurdish-controlled city of Al-Qamishli on the Syria-Turkey border. ISIL claims responsibility for the attack. ](/news/2016/07/27/at-least-44-people-are-killed-in-a-twin-bombing-in-the-kurdish-controlled-city-of-al-qamishli-on-the-syriaaturkey-border-isil-claims-resp.md) _(Current version)_

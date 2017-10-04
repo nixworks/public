@@ -16,3 +16,9 @@
 3. [United States-backed Syrian Democratic Forces begin an offensive to regain control of the city of Manbij in the Aleppo Governorate from ISIL. ](/news/2016/06/1/united-states-backed-syrian-democratic-forces-begin-an-offensive-to-regain-control-of-the-city-of-manbij-in-the-aleppo-governorate-from-isil.md) _Context: Americans, ISIL_
 4. [ At least 24 people are killed in a series of attacks in and around Baghdad. ISIL has claimed responsibility. ](/news/2016/05/30/at-least-24-people-are-killed-in-a-series-of-attacks-in-and-around-baghdad-isil-has-claimed-responsibility.md) _Context: Baghdad, ISIL_
 5. [A car bombing in southeastern Baghdad kills at least 19 and injures nearly 50 Shi'ite pilgrims. ISIL has claimed responsibility. ](/news/2016/04/30/a-car-bombing-in-southeastern-baghdad-kills-at-least-19-and-injures-nearly-50-shi-ite-pilgrims-isil-has-claimed-responsibility.md) _Context: Baghdad, ISIL_
+
+### Changes:
+
+1. [2014 Northern Iraq offensive:The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-pthe-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-near.md) _2017-08-25 03:40:33 (First version)_
+2. [2014 Northern Iraq offensive:: The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nea.md) _2017-08-27 03:40:51 (Update)_
+2. [The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nears-the-city.md) _(Current version)_

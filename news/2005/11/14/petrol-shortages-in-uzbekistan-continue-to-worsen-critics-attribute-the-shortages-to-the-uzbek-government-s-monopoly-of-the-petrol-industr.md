@@ -17,3 +17,9 @@
 3. [Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. ](/news/2016/12/4/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-the-first-since-the-death-of-islam-karimov-who-governed-the-country-for-25.md) _Context: Uzbekistan_
 4. [Uzbekistan's parliament appoints Shavkat Mirziyoyev as interim president after the death of President Islam Karimov. ](/news/2016/09/8/uzbekistanas-parliament-appoints-shavkat-mirziyoyev-as-interim-president-after-the-death-of-president-islam-karimov.md) _Context: Uzbekistan_
 5. [President Islam Karimov of Uzbekistan dies after 27 years in office. ](/news/2016/09/2/president-islam-karimov-of-uzbekistan-dies-after-27-years-in-office.md) _Context: Uzbekistan_
+
+### Changes:
+
+1. [ Uzbekistan: Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/uzbekistan-p-petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-p.md) _2017-08-25 03:17:07 (First version)_
+2. [ Uzbekistan:: Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/uzbekistan-petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-p.md) _2017-08-27 03:17:07 (Update)_
+2. [ Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-petrol-industr.md) _(Current version)_

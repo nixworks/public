@@ -17,3 +17,8 @@ New rules mean EU citizens can call, text and browse the internet for the same p
 3. [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md) _Context: EU_
 4. [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md) _Context: EU_
 5. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: EU_
+
+### Changes:
+
+1. [European Union roaming regulations: A European Union law enters force, scrapping roaming charges for people using mobile phones abroad within the EU and the European Economic Area. ](/news/2017/06/15/european-union-roaming-regulations-a-european-union-law-enters-force-scrapping-roaming-charges-for-people-using-mobile-phones-abroad-withi.md) _2017-08-27 03:48:29 (First version)_
+1. [A European Union law enters force, scrapping roaming charges for people using mobile phones abroad within the EU and the European Economic Area. ](/news/2017/06/15/a-european-union-law-enters-force-scrapping-roaming-charges-for-people-using-mobile-phones-abroad-within-the-eu-and-the-european-economic-a.md) _(Current version)_

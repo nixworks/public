@@ -17,3 +17,9 @@ At least 46 students have been killed by a suicide bomber at a school assembly i
 3. [A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md) _Context: Nigeria, suicide bomber_
 4. [A suicide bomber attacks a church in the Potiskum area of Nigeria's Yobe State, killing five and raising the toll of Boko Haram attacks for the past week to 200. ](/news/2015/07/5/a-suicide-bomber-attacks-a-church-in-the-potiskum-area-of-nigeria-s-yobe-state-killing-five-and-raising-the-toll-of-boko-haram-attacks-for.md) _Context: Nigeria, Potiskum_
 5. [A suicide bomber attacks the Nigerian city of Maiduguri killing at least one person. ](/news/2015/07/11/a-suicide-bomber-attacks-the-nigerian-city-of-maiduguri-killing-at-least-one-person.md) _Context: Nigeria, suicide bomber_
+
+### Changes:
+
+1. [Islamist insurgency in Nigeria:A suicide bomber kills at least 47 students at a school assembly in the Nigerian town of Potiskum in Yobe state. ](/news/2014/11/10/islamist-insurgency-in-nigeria-pa-suicide-bomber-kills-at-least-47-students-at-a-school-assembly-in-the-nigerian-town-of-potiskum-in-yobe-st.md) _2017-08-25 03:41:11 (First version)_
+2. [Islamist insurgency in Nigeria:: A suicide bomber kills at least 47 students at a school assembly in the Nigerian town of Potiskum in Yobe state. ](/news/2014/11/10/islamist-insurgency-in-nigeria-a-suicide-bomber-kills-at-least-47-students-at-a-school-assembly-in-the-nigerian-town-of-potiskum-in-yobe-s.md) _2017-08-27 03:41:29 (Update)_
+2. [A suicide bomber kills at least 47 students at a school assembly in the Nigerian town of Potiskum in Yobe state. ](/news/2014/11/10/a-suicide-bomber-kills-at-least-47-students-at-a-school-assembly-in-the-nigerian-town-of-potiskum-in-yobe-state.md) _(Current version)_

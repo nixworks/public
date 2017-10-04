@@ -16,3 +16,8 @@
 3. [ISIS claims responsibility for the deaths of two Syrian refugee activists who fled to Sanliurfa, Turkey, raising concerns about the group's reach in countries outside of Syria and Iraq. Ibrahim Abdel Qader, a founder of Raqqa Is Being Slaughtered Silently, and Fares Hammadi are said to have been killed by an acquaintance posing as a defector from ISIS. ](/news/2015/11/3/isis-claims-responsibility-for-the-deaths-of-two-syrian-refugee-activists-who-fled-to-sanliurfa-turkey-raising-concerns-about-the-groupa.md) _Context: ISIL, Turkey_
 4. [Turkey launches its first air strikes against ISIL in Syria. ](/news/2015/08/29/turkey-launches-its-first-air-strikes-against-isil-in-syria.md) _Context: ISIL, Turkey_
 5. [Mevlut Cavusoglu, the Turkish Foreign Minister, says that Turkey and the U.S. will launch a "comprehensive" campaign to flush out ISIL from a zone in northern Syria near the border. In effect, this means creating a "security zone" by sending foreign soldiers into Syrian territory. ](/news/2015/08/24/mevla1-4t-aavuaoalu-the-turkish-foreign-minister-says-that-turkey-and-the-u-s-will-launch-a-comprehensive-campaign-to-flush-out-isil-f.md) _Context: ISIL, Turkey_
+
+### Changes:
+
+1. [Islamic State in Iraq and the Levant: Turkey arrests 21 people with alleged links to Daesh (ISIL). ](/news/2015/07/10/islamic-state-in-iraq-and-the-levant-turkey-arrests-21-people-with-alleged-links-to-daesh-isil.md) _2017-08-27 03:42:41 (First version)_
+1. [Turkey arrests 21 people with alleged links to Daesh (ISIL). ](/news/2015/07/10/turkey-arrests-21-people-with-alleged-links-to-daesh-isil.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _Context: Panama_
 4. [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md) _Context: Panama_
 5. [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md) _Context: Panama_
+
+### Changes:
+
+1. [Panamanian general election, 2014: Voters in Panama go to the polls for a general election. ](/news/2014/05/4/panamanian-general-election-2014-voters-in-panama-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:40:40 (First version)_
+1. [Voters in Panama go to the polls for a general election. ](/news/2014/05/4/voters-in-panama-go-to-the-polls-for-a-general-election.md) _(Current version)_

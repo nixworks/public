@@ -13,7 +13,7 @@ _Context: Chad, China, Taiwan, United Nations Security Council, second Dby admin
 (VIDEO) Haifa under attack: Rocket hits building, causes it to collapse; body of one woman recovered. Two people critically injured, die in hospital. More than 100 residents hurt. Defense minister, army chief hold security consultation
 
 ### [ Tomo Kriznar, the Slovenian diplomatic envoy and human-rights activist to Sudan, is formally charged with espionage and illegally entering Darfur. Kriznar, who admits entering Darfur without the required visa, was arrested in July. ](/news/2006/08/6/tomo-kria3-4nar-the-slovenian-diplomatic-envoy-and-human-rights-activist-to-sudan-is-formally-charged-with-espionage-and-illegally-entering.md)
-_Context: Darfur, Slovenia, Sudan, Tomo Kriznar, espionage_
+_Context: Darfur, Slovenia, Sudan, Tomo Kriznar, spy_
 
 ### [ Tajikistan President Emomali Rahmonov began a state visit to India. ](/news/2006/08/6/tajikistan-president-emomali-rahmonov-began-a-state-visit-to-india.md)
 _Context: Emomali Rahmonov, India, Tajikistan, state visit_

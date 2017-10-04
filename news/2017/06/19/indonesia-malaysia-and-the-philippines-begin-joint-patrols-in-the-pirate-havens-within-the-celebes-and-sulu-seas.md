@@ -17,3 +17,8 @@
 3. [The Philippines asks the International Court of Arbitration at The Hague to invalidate China's claims to virtually all of the South China Sea. The hearing was attended by observers from Indonesia, Japan, Malaysia, Thailand, and Vietnam. ](/news/2015/07/9/the-philippines-asks-the-international-court-of-arbitration-at-the-hague-to-invalidate-china-s-claims-to-virtually-all-of-the-south-china-se.md) _Context: Indonesia, Malaysia, Philippines_
 4. [Flooding and the death toll continues in Indonesia, Malaysia, the Philippines and Thailand. ](/news/2014/12/30/flooding-and-the-death-toll-continues-in-indonesia-malaysia-the-philippines-and-thailand.md) _Context: Indonesia, Malaysia, Philippines_
 5. [ Malaysia, Indonesia and Singapore agree to joint anti-piracy patrols in the Malacca Strait. ](/news/2005/08/2/malaysia-indonesia-and-singapore-agree-to-joint-anti-piracy-patrols-in-the-malacca-strait.md) _Context: Indonesia, Malaysia, pirate_
+
+### Changes:
+
+1. [Piracy in the Sulu Sea: Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. ](/news/2017/06/19/piracy-in-the-sulu-sea-indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md) _2017-08-27 03:48:31 (First version)_
+1. [Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. ](/news/2017/06/19/indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md) _(Current version)_

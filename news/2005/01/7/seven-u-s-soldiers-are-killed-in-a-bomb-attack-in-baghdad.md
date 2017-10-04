@@ -19,3 +19,9 @@
 3. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 4. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_
 5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad_
+
+### Changes:
+
+1. [ Conflict in Iraq: Seven U.S. soldiers are killed in a bomb attack in Baghdad. ](/news/2005/01/7/conflict-in-iraq-p-seven-u-s-soldiers-are-killed-in-a-bomb-attack-in-baghdad.md) _2017-08-25 03:15:30 (First version)_
+2. [ Conflict in Iraq:: Seven U.S. soldiers are killed in a bomb attack in Baghdad. ](/news/2005/01/7/conflict-in-iraq-seven-u-s-soldiers-are-killed-in-a-bomb-attack-in-baghdad.md) _2017-08-27 03:15:31 (Update)_
+2. [ Seven U.S. soldiers are killed in a bomb attack in Baghdad. ](/news/2005/01/7/seven-u-s-soldiers-are-killed-in-a-bomb-attack-in-baghdad.md) _(Current version)_

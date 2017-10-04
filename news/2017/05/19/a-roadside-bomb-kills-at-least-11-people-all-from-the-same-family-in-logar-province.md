@@ -16,3 +16,8 @@
 3. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: Logar Province_
 4. [A car bomb in Helmand Province kills up to 13 people, including Afghan Army soldiers and civilians, and wounds 18 others, according to government spokesman Omar Zwak. ](/news/2017/08/27/a-car-bomb-in-helmand-province-kills-up-to-13-people-including-afghan-army-soldiers-and-civilians-and-wounds-18-others-according-to-gover.md) _Context: War in Afghanistan_
 5. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _Context: War in Afghanistan_
+
+### Changes:
+
+1. [War in Afghanistan: A roadside bomb kills at least 11 people, all from the same family, in Logar Province. ](/news/2017/05/19/war-in-afghanistan-a-roadside-bomb-kills-at-least-11-people-all-from-the-same-family-in-logar-province.md) _2017-08-27 03:48:21 (First version)_
+1. [A roadside bomb kills at least 11 people, all from the same family, in Logar Province. ](/news/2017/05/19/a-roadside-bomb-kills-at-least-11-people-all-from-the-same-family-in-logar-province.md) _(Current version)_

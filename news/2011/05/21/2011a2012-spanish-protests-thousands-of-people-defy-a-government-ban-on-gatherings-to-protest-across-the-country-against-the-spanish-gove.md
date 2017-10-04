@@ -17,3 +17,9 @@
 ### Related:
 
 1. [Protestors and police clash in Madrid over Spanish anti-austerity measures. ](/news/2012/09/25/protestors-and-police-clash-in-madrid-over-spanish-anti-austerity-measures.md) _Context: clash_
+
+### Changes:
+
+1. [Other anti-government protests:2011-2012 Spanish protests: Thousands of people defy a government ban on gatherings to protest across the country against the Spanish government's economic policies. ](/news/2011/05/21/other-anti-government-protests-p2011a2012-spanish-protests-thousands-of-people-defy-a-government-ban-on-gatherings-to-protest-across-the.md) _2017-08-25 03:33:12 (First version)_
+2. [Other anti-government protests:: 2011-2012 Spanish protests: Thousands of people defy a government ban on gatherings to protest across the country against the Spanish government's economic policies. ](/news/2011/05/21/other-anti-government-protests-2011-2012-spanish-protests-thousands-of-people-defy-a-government-ban-on-gatherings-to-protest-across-the.md) _2017-08-27 03:33:21 (Update)_
+2. [2011-2012 Spanish protests: Thousands of people defy a government ban on gatherings to protest across the country against the Spanish government's economic policies. ](/news/2011/05/21/2011a2012-spanish-protests-thousands-of-people-defy-a-government-ban-on-gatherings-to-protest-across-the-country-against-the-spanish-gove.md) _(Current version)_

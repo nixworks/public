@@ -18,3 +18,8 @@
 3. [Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. ](/news/2016/02/14/slovenia-announces-that-it-will-be-clamping-down-on-the-number-of-migrants-that-it-will-allow-to-enter-the-country.md) _Context: Slovenia_
 4. [Austria is to deploy its army on its borders with Germany and Slovenia in the wake of surging numbers of migrants entering the Central European country. ](/news/2016/01/16/austria-is-to-deploy-its-army-on-its-borders-with-germany-and-slovenia-in-the-wake-of-surging-numbers-of-migrants-entering-the-central-europ.md) _Context: Slovenia_
 5. [Slovenian voters reject a bill legalizing same-sex marriage in the country with only 36% of registered voters supporting it, while over 63% of voters voted against the bill. ](/news/2015/12/21/slovenian-voters-reject-a-bill-legalizing-same-sex-marriage-in-the-country-with-only-36-of-registered-voters-supporting-it-while-over-63.md) _Context: Slovenia_
+
+### Changes:
+
+1. [Voters in Croatia go to the polls for a parliamentary election with an exit poll showing the centre-left Kukuriku coalition set to win a majority. ](/news/2011/12/4/voters-in-croatia-go-to-the-polls-for-a-parliamentary-election-with-an-exit-poll-showing-the-centre-left-kukuriku-coalition-set-to-win-a-maj.md) _2017-10-03 03:38:02 (First version)_
+1. [Voters in Slovenia go to the polls for a parliamentary election with early results showing Positive Slovenia with an early lead. ](/news/2011/12/4/voters-in-slovenia-go-to-the-polls-for-a-parliamentary-election-with-early-results-showing-positive-slovenia-with-an-early-lead.md) _(Current version)_

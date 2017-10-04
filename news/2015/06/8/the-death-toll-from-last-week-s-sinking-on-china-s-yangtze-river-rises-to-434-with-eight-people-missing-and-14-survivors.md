@@ -17,3 +17,8 @@
 3. [The rescue and recovery efforts at the wreckage of the January 15 capsized tugboat on China's Yangtze River near the city of Jingjiang finds that twenty-one people are dead while three are rescued. ](/news/2015/01/17/the-rescue-and-recovery-efforts-at-the-wreckage-of-the-january-15-capsized-tugboat-on-china-s-yangtze-river-near-the-city-of-jingjiang-finds.md) _Context: China, Yangtze River_
 4. [A newly manufactured tug boat capsizes during a test run in the Yangtze River in east China's Jiangsu Province leaving at least 20 people missing. ](/news/2015/01/15/a-newly-manufactured-tug-boat-capsizes-during-a-test-run-in-the-yangtze-river-in-east-china-s-jiangsu-province-leaving-at-least-20-people-mi.md) _Context: China, Yangtze River_
 5. [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md) _Context: China, Yangtze River_
+
+### Changes:
+
+1. [Sinking of "Dong Fang Zhi Xing": The death toll from last week's sinking on China's Yangtze River rises to 434 with eight people missing and 14 survivors. ](/news/2015/06/8/sinking-of-dong-fang-zhi-xing-the-death-toll-from-last-week-s-sinking-on-china-s-yangtze-river-rises-to-434-with-eight-people-missing-and.md) _2017-08-27 03:42:30 (First version)_
+1. [The death toll from last week's sinking on China's Yangtze River rises to 434 with eight people missing and 14 survivors. ](/news/2015/06/8/the-death-toll-from-last-week-s-sinking-on-china-s-yangtze-river-rises-to-434-with-eight-people-missing-and-14-survivors.md) _(Current version)_

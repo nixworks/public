@@ -20,3 +20,8 @@ Philippine Islands President Gloria Arroyo has declared a &quot;state of calamit
 3. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
 4. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Philippines_
 5. [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md) _Context: Philippines_
+
+### Changes:
+
+1. [ Typhoon Parma: Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/typhoon-parma-thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md) _2017-08-27 03:25:49 (First version)_
+1. [ Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md) _(Current version)_

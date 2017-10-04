@@ -18,3 +18,8 @@ China will launch a two-man space mission, Shenzhou 11, on Monday, officials wit
 3. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
 4. [ China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: China_
 5. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_
+
+### Changes:
+
+1. [Shenzhou program: China launches Shenzhou 11, the country's sixth manned spaceflight mission and the first one to the Tiangong-2 space laboratory, with two taikonauts on a 30-day mission. ](/news/2016/10/17/shenzhou-program-china-launches-shenzhou-11-the-country-s-sixth-manned-spaceflight-mission-and-the-first-one-to-the-tiangong-2-space-labor.md) _2017-08-27 03:47:05 (First version)_
+1. [China launches Shenzhou 11, the country's sixth manned spaceflight mission and the first one to the Tiangong-2 space laboratory, with two taikonauts on a 30-day mission. ](/news/2016/10/17/china-launches-shenzhou-11-the-country-s-sixth-manned-spaceflight-mission-and-the-first-one-to-the-tiangong-2-space-laboratory-with-two-ta.md) _(Current version)_

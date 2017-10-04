@@ -20,3 +20,8 @@ Congressional leaders of both parties and President Obama had a framework for a 
 3. [The US Senate confirms Ashton Carter as the 25th Secretary of Defense. ](/news/2015/02/12/the-us-senate-confirms-ashton-carter-as-the-25th-secretary-of-defense.md) _Context: Senator_
 4. [The United States Senate narrowly defeats legislation on the Keystone XL Pipeline, intended to allow oil from the oil sands of Canada to flow to the Gulf Coast of Texas. ](/news/2014/11/18/the-united-states-senate-narrowly-defeats-legislation-on-the-keystone-xl-pipeline-intended-to-allow-oil-from-the-oil-sands-of-canada-to-flo.md) _Context: Senator_
 5. [Mail to the US Senate is suspended after letter sent to U.S. Senator Roger Wicker (R-MS) tests positive for the poisonous substance ricin at an offsite Congressional mail facility. The letter is being sent to the FBI Laboratory in Quantico, Virginia, for further testing. ](/news/2013/04/16/mail-to-the-us-senate-is-suspended-after-letter-sent-to-u-s-senator-roger-wicker-r-ms-tests-positive-for-the-poisonous-substance-ricin-at.md) _Context: Senator_
+
+### Changes:
+
+1. [2011 U.S. debt ceiling crisis: The Senate of the United States fails to pass legislation lifting the debt ceiling with compromise talks continuing. ](/news/2011/07/31/2011-u-s-debt-ceiling-crisis-the-senate-of-the-united-states-fails-to-pass-legislation-lifting-the-debt-ceiling-with-compromise-talks-cont.md) _2017-08-27 03:34:02 (First version)_
+1. [The Senate of the United States fails to pass legislation lifting the debt ceiling with compromise talks continuing. ](/news/2011/07/31/the-senate-of-the-united-states-fails-to-pass-legislation-lifting-the-debt-ceiling-with-compromise-talks-continuing.md) _(Current version)_

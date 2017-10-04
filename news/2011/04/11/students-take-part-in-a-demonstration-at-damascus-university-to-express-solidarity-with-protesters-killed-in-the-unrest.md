@@ -20,3 +20,8 @@
 3. [Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/sources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-president-bashar-al-assad-dur.md) _Context: protestors_
 4. [Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/dozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md) _Context: protestors_
 5. [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md) _Context: protestors_
+
+### Changes:
+
+1. [2011 Syrian protests: Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/2011-syrian-protests-students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unres.md) _2017-08-27 03:32:55 (First version)_
+1. [Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unrest.md) _(Current version)_

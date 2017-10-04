@@ -22,7 +22,7 @@ Five men are killed when a wall collapses at a recycling site in the Nechells ar
 _Context: Songshan Station_
 
 ### [U.S. Secretary of State John Kerry arrives in Kiev, Ukraine, where he is expected to discuss ways of ending the conflict in the east of the country. The visit, along with his visit to Georgia yesterday, comes ahead of the NATO summit in Warsaw that will take place tomorrow. ](/news/2016/07/7/u-s-secretary-of-state-john-kerry-arrives-in-kiev-ukraine-where-he-is-expected-to-discuss-ways-of-ending-the-conflict-in-the-east-of-the.md)
-_Context: 2016 Warsaw summit, Georgian, John Kerry, Kiev, Ukraine, Ukraine-United States relations, United States Secretary of State, War in Donbass_
+_Context: 2016 Warsaw summit, Georgian, John Kerry, Kiev, Secretary of State, Ukraine, Ukraine-United States relations, War in Donbass_
 
 ### [The United States tentatively approves eight, of 12 that applied, airlines for flights from 10 U.S. cities to Havana as early as this fall: Alaska Airlines, American Airlines, Delta Air Lines, Frontier Airlines, JetBlue Airways, Southwest Airlines, Spirit Airlines, and United Airlines. Last month, flights were approved from five U.S. cities to nine other international airports. ](/news/2016/07/7/the-united-states-tentatively-approves-eight-of-12-that-applied-airlines-for-flights-from-10-u-s-cities-to-havana-as-early-as-this-fall.md)
 The United States has tentatively approved flights on eight U.S. airlines to Havana as early as this autumn, with American Airlines Group Inc (AAL.O) receiving the largest share of the limited routes, the Transportation Department said on Thursday.
@@ -55,7 +55,7 @@ Embattled Australian Prime Minister Malcolm Turnbull appeared likely to retain p
 _Context: Andrea Leadsom, Conservative Party, Conservative Party (UK) leadership election, 2016, David Cameron, Department of Energy and Climate Change, Home Secretary, Michael Gove, Parliament, Prime Minister, Secretary of State for Justice, Theresa May_
 
 ### [The United States Department of State reopens an investigation into the possible mishandling of classified information by former Secretary of State and presumptive Democratic Party presidential nominee Hillary Clinton and her top aides. ](/news/2016/07/7/the-united-states-department-of-state-reopens-an-investigation-into-the-possible-mishandling-of-classified-information-by-former-secretary-o.md)
-_Context: Democratic, Hillary Clinton, Hillary Clinton email scandal, U.S. State Department_
+_Context: Democratic, Department of State, Hillary Clinton, Hillary Clinton email scandal_
 
 ### [Scientists manage to extract one last image from the Hitomi x-ray spacecraft, which broke up last March while orbiting Earth. Before it died, the spacecraft captured an image which measured the X-ray activity of the Perseus cluster. ](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from-the-hitomi-x-ray-spacecraft-which-broke-up-last-march-while-orbiting-earth-before-it-died.md)
 A doomed Japanese satellite managed to capture a spectacular view of a cluster of galaxies 250 million light years away just before it died, scientists reveal.

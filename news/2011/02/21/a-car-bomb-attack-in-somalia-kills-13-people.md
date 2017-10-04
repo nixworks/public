@@ -17,3 +17,9 @@
 3. [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed inside his vehicle by security forces near the Villa Somalia in the capital Mogadishu, after mistaking him for a militant. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-inside-his-vehicle-by-security-forces-near-the-villa-somalia-i.md) _Context: Somalian_
 4. [Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.md) _Context: Somalian_
 5. [Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: Somalian_
+
+### Changes:
+
+1. [Situation in Somalia:A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/situation-in-somalia-pa-car-bomb-attack-in-somalia-kills-13-people.md) _2017-08-25 03:32:18 (First version)_
+2. [Situation in Somalia:: A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/situation-in-somalia-a-car-bomb-attack-in-somalia-kills-13-people.md) _2017-08-27 03:32:26 (Update)_
+2. [A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/a-car-bomb-attack-in-somalia-kills-13-people.md) _(Current version)_

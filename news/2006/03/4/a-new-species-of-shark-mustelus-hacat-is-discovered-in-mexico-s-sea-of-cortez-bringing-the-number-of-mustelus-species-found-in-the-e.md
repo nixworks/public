@@ -12,3 +12,8 @@
 3. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
 4. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
 5. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
+
+### Changes:
+
+1. [ A new species of shark, ''Mustelus hacat'', is discovered in Mexico's Sea of Cortez, bringing the number of ''Mustelus'' species found in the eastern North Pacific to five.](/news/2006/03/4/a-new-species-of-shark-mustelus-hacat-is-discovered-in-mexico-s-sea-of-cortez-bringing-the-number-of-mustelus-species-found-in-t.md) _2017-08-25 03:17:30 (First version)_
+1. [ A new species of shark, "Mustelus hacat", is discovered in Mexico's Sea of Cortez, bringing the number of "Mustelus" species found in the eastern North Pacific to five.](/news/2006/03/4/a-new-species-of-shark-mustelus-hacat-is-discovered-in-mexico-s-sea-of-cortez-bringing-the-number-of-mustelus-species-found-in-the-e.md) _(Current version)_

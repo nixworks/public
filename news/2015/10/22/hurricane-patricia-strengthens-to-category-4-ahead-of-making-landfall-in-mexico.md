@@ -17,3 +17,8 @@ Hurricane Patricia has rapidly strengthened into a major hurricane in the easter
 3. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
 4. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
 5. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
+
+### Changes:
+
+1. [2015 Pacific hurricane season: Hurricane Patricia strengthens to Category 4 ahead of making landfall in Mexico. ](/news/2015/10/22/2015-pacific-hurricane-season-hurricane-patricia-strengthens-to-category-4-ahead-of-making-landfall-in-mexico.md) _2017-08-27 03:43:28 (First version)_
+1. [Hurricane Patricia strengthens to Category 4 ahead of making landfall in Mexico. ](/news/2015/10/22/hurricane-patricia-strengthens-to-category-4-ahead-of-making-landfall-in-mexico.md) _(Current version)_

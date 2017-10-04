@@ -19,3 +19,9 @@ French forces say they have entered Kidal in northern Mali, the last major town 
 3. [At least three people are killed in an attack on a United Nations peacekeeping base in Kidal, northern Mali. The jihadist group Ansar Dine claims responsibility. ](/news/2015/11/28/at-least-three-people-are-killed-in-an-attack-on-a-united-nations-peacekeeping-base-in-kidal-northern-mali-the-jihadist-group-ansar-dine-c.md) _Context: Kidal, Mali_
 4. [A rocket and shelling attack in Kidal, northern Mali kills three people, including a UN peacekeeper. ](/news/2015/03/8/a-rocket-and-shelling-attack-in-kidal-northern-mali-kills-three-people-including-a-un-peacekeeper.md) _Context: Kidal, Mali_
 5. [A car bombing in the Malian town of Kidal kills two United Nations peacekeepers. ](/news/2013/12/14/a-car-bombing-in-the-malian-town-of-kidal-kills-two-united-nations-peacekeepers.md) _Context: Kidal, Mali_
+
+### Changes:
+
+1. [Northern Mali conflict (2012-present):French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012apresent-pfrench-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _2017-08-25 03:37:22 (First version)_
+2. [Northern Mali conflict (2012-present):: French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012-present-french-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _2017-08-27 03:37:32 (Update)_
+2. [French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/french-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _(Current version)_

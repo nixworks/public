@@ -18,3 +18,8 @@ George Osborne says better-than-expected economic figures show the recovery is &
 3. [ The United Kingdom's economy contracted by 1.6% in the fourth quarter of 2008. ](/news/2009/03/27/the-united-kingdom-s-economy-contracted-by-1-6-in-the-fourth-quarter-of-2008.md) _Context: UK economy, United Kingdom_
 4. [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md) _Context: United Kingdom_
 5. [The origin of the zero may have been in South Asia according to a Sanskrit script housed in the United Kingdom since 1902 and discovered in Bakhshali near Peshawar, Pakistan. ](/news/2017/09/14/the-origin-of-the-zero-may-have-been-in-south-asia-according-to-a-sanskrit-script-housed-in-the-united-kingdom-since-1902-and-discovered-in.md) _Context: United Kingdom_
+
+### Changes:
+
+1. [Economy of the United Kingdom: The UK economy grew by 0.8% in the third quarter, higher than expectations, but lower than second quarter's growth rate of 1.2%. ](/news/2010/10/26/economy-of-the-united-kingdom-the-uk-economy-grew-by-0-8-in-the-third-quarter-higher-than-expectations-but-lower-than-second-quarter-s-g.md) _2017-08-27 03:30:48 (First version)_
+1. [The UK economy grew by 0.8% in the third quarter, higher than expectations, but lower than second quarter's growth rate of 1.2%. ](/news/2010/10/26/the-uk-economy-grew-by-0-8-in-the-third-quarter-higher-than-expectations-but-lower-than-second-quarter-s-growth-rate-of-1-2.md) _(Current version)_

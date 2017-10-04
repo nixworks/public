@@ -18,3 +18,8 @@ Saudi-led airstrikes on weapons caches in Yemen&#39;s rebel-held capital Monday 
 3. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sana'a_
 4. [An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthis-blames-the-saudi-led-coalition-fo.md) _Context: Sana'a_
 5. [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _Context: Sana'a_
+
+### Changes:
+
+1. [Yemeni Civil War (2015): An airstrike on an alleged Scud missile base in Sana'a causes a huge explosion. ](/news/2015/04/20/yemeni-civil-war-2015-an-airstrike-on-an-alleged-scud-missile-base-in-sana-a-causes-a-huge-explosion.md) _2017-08-27 03:42:13 (First version)_
+1. [An airstrike on an alleged Scud missile base in Sana'a causes a huge explosion. ](/news/2015/04/20/an-airstrike-on-an-alleged-scud-missile-base-in-sana-a-causes-a-huge-explosion.md) _(Current version)_

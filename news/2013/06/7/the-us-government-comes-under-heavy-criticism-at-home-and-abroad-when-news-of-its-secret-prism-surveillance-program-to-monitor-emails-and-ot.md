@@ -14,3 +14,9 @@
 5. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887324299104578529112289298922.html)
 6. [Welt](http://www.welt.de/politik/ausland/article116934481/Unter-Obama-explodierte-die-Ueberwachung.html)
 6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68048000/jpg/_68048226_gchq_pa.jpg)
+
+### Changes:
+
+1. [PRISM (U.S. government surveillance program):The US government comes under heavy criticism at home and abroad when news of its secret PRISM surveillance program to monitor emails and other person information is leaked. ](/news/2013/06/7/prism-u-s-government-surveillance-program-pthe-us-government-comes-under-heavy-criticism-at-home-and-abroad-when-news-of-its-secret-prism.md) _2017-08-25 03:38:48 (First version)_
+2. [PRISM (U.S. government surveillance program):: The US government comes under heavy criticism at home and abroad when news of its secret PRISM surveillance program to monitor emails and other person information is leaked. ](/news/2013/06/7/prism-u-s-government-surveillance-program-the-us-government-comes-under-heavy-criticism-at-home-and-abroad-when-news-of-its-secret-pris.md) _2017-08-27 03:39:01 (Update)_
+2. [The US government comes under heavy criticism at home and abroad when news of its secret PRISM surveillance program to monitor emails and other person information is leaked. ](/news/2013/06/7/the-us-government-comes-under-heavy-criticism-at-home-and-abroad-when-news-of-its-secret-prism-surveillance-program-to-monitor-emails-and-ot.md) _(Current version)_

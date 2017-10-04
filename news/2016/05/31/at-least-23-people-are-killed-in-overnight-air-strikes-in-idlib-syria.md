@@ -18,3 +18,8 @@ At least 23 people have been killed by air strikes overnight on the rebel-held c
 3. [Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carry-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing-a.md) _Context: Idlib, Syrian Civil War_
 4. [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md) _Context: Syria, Syrian Civil War_
 5. [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md) _Context: Syria, Syrian Civil War_
+
+### Changes:
+
+1. [ Syrian Civil War: At least 23 people are killed in overnight air strikes in Idlib, Syria. ](/news/2016/05/31/syrian-civil-war-at-least-23-people-are-killed-in-overnight-air-strikes-in-idlib-syria.md) _2017-08-27 03:46:10 (First version)_
+1. [ At least 23 people are killed in overnight air strikes in Idlib, Syria. ](/news/2016/05/31/at-least-23-people-are-killed-in-overnight-air-strikes-in-idlib-syria.md) _(Current version)_

@@ -7,7 +7,7 @@ _Context: Colorado Avalanche, Steve Moore, Todd Bertuzzi, Vancouver Canucks, ice
 _Context: Jiang Yanyong, SARS, Tiananmen Square protests of 1989, parliament_
 
 ### [ United States Marines shoot and kill a Haitian gunman in front of Port-au-Prince's presidential palace after the man fired rounds at the marines and protesters. Supporters of former President Jean-Bertrand Aristide had shot and killed several anti-Aristide demonstrators.](/news/2004/03/8/united-states-marines-shoot-and-kill-a-haitian-gunman-in-front-of-port-au-prince-s-presidential-palace-after-the-man-fired-rounds-at-the-ma.md)
-_Context: Haiti, Jean Bertrand-Aristide, Port-au-Prince, United States Marine Corps_
+_Context: Haiti, Jean Bertrand-Aristide, Port-au-Prince, U.S. Marine_
 
 ### [ Iraq's governing council unanimously approves the country's new constitution. ](/news/2004/03/8/iraq-s-governing-council-unanimously-approves-the-country-s-new-constitution.md)
 _Context: Iraq, constitution_

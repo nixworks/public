@@ -16,3 +16,8 @@
 3. [ United States President Barack Obama announces a new military strategy for the War in North-West Pakistan and the War in Afghanistan. ](/news/2009/03/26/united-states-president-barack-obama-announces-a-new-military-strategy-for-the-war-in-north-west-pakistan-and-the-war-in-afghanistan.md) _Context: Afghanistan, Pakistan, War in North-West Pakistan_
 4. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan, War in North-West Pakistan_
 5. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: Pakistan, War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/war-in-north-west-pakistan-pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md) _2017-08-27 03:41:26 (First version)_
+1. [Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md) _(Current version)_

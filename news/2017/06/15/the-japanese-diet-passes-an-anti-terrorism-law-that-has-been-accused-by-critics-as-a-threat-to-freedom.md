@@ -18,3 +18,8 @@ Critics including UN expert fear legislation passed by Abe government could targ
 3. [Japan's upper chamber of Parliament approves controversial legislation, which the lower chamber passed in July, that expands the role of the Japanese Self-Defense Forces overseas. ](/news/2015/09/19/japan-s-upper-chamber-of-parliament-approves-controversial-legislation-which-the-lower-chamber-passed-in-july-that-expands-the-role-of-the.md) _Context: Diet, Japan_
 4. [Fist-fights erupt between legislators in the National Diet of Japan over a security bill that would allow Japan Self-Defense Forces to fight abroad. Japan had previously sent only a small amount of troops to Iraq. ](/news/2015/09/17/fist-fights-erupt-between-legislators-in-the-national-diet-of-japan-over-a-security-bill-that-would-allow-japan-self-defense-forces-to-fight.md) _Context: Diet, Japan_
 5. [The National Diet of Japan votes to lower the voting age from 20 to 18. ](/news/2015/06/17/the-national-diet-of-japan-votes-to-lower-the-voting-age-from-20-to-18.md) _Context: Diet, Japan_
+
+### Changes:
+
+1. [Parliament of Japan: The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/parliament-of-japan-the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md) _2017-08-27 03:48:29 (First version)_
+1. [The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md) _(Current version)_

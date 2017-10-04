@@ -14,3 +14,9 @@ The mother of murder victim Sarah Payne has been told she may have been the vict
 ### Related:
 
 1. [The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". ](/news/2011/07/29/the-legal-team-representing-glenn-mulcaire-the-private-investigator-at-the-centre-of-claims-of-phone-hacking-says-that-he-acted-on-the-in.md) _Context: Glenn Mulcaire_
+
+### Changes:
+
+1. [News International phone hacking scandal:Police tell the mother of murder victim Sarah Payne that her mobile phone details have been found in notes made by private investigator Glenn Mulcaire. ](/news/2011/07/28/news-international-phone-hacking-scandal-ppolice-tell-the-mother-of-murder-victim-sarah-payne-that-her-mobile-phone-details-have-been-found.md) _2017-08-25 03:33:54 (First version)_
+2. [News International phone hacking scandal:: Police tell the mother of murder victim Sarah Payne that her mobile phone details have been found in notes made by private investigator Glenn Mulcaire. ](/news/2011/07/28/news-international-phone-hacking-scandal-police-tell-the-mother-of-murder-victim-sarah-payne-that-her-mobile-phone-details-have-been-found.md) _2017-08-27 03:34:01 (Update)_
+2. [Police tell the mother of murder victim Sarah Payne that her mobile phone details have been found in notes made by private investigator Glenn Mulcaire. ](/news/2011/07/28/police-tell-the-mother-of-murder-victim-sarah-payne-that-her-mobile-phone-details-have-been-found-in-notes-made-by-private-investigator-glen.md) _(Current version)_

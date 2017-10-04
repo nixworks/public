@@ -22,3 +22,9 @@ Rioting has spread across London with cars and buildings set alight on a third n
 3. [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md) _Context: England, Manchester_
 4. [At least five workers are killed after a wall collapses on them at a recycling plant in Birmingham, England. ](/news/2016/07/7/at-least-five-workers-are-killed-after-a-wall-collapses-on-them-at-a-recycling-plant-in-birmingham-england.md) _Context: Birmingham, England_
 5. [A fire severely damages the 16th century Wythenshawe Hall, near Manchester, England. ](/news/2016/03/15/a-fire-severely-damages-the-16th-century-wythenshawe-hall-near-manchester-england.md) _Context: England, Manchester_
+
+### Changes:
+
+1. [English riots:Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/english-riots-prioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-bir.md) _2017-08-25 03:33:58 (First version)_
+2. [English riots:: Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/english-riots-rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-bi.md) _2017-08-27 03:34:06 (Update)_
+2. [Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-birmingham.md) _(Current version)_

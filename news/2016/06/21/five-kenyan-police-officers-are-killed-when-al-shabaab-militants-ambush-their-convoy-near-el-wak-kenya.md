@@ -16,3 +16,8 @@ Police vehicle escorting passenger bus in Mandera is set on fire after being att
 3. [A suspected militant of Al-Shabaab shoots and kills four Kenyan police officers at a police station in Kapenguria, Kenya, where he was being held. The militant was later killed following a shootout with police. ](/news/2016/07/14/a-suspected-militant-of-al-shabaab-shoots-and-kills-four-kenyan-police-officers-at-a-police-station-in-kapenguria-kenya-where-he-was-being.md) _Context: Al-Shabaab, Kenya, Kenyan police_
 4. [ Al-Shabaab militants kill 14 in northern Kenya. ](/news/2015/07/7/al-shabaab-militants-kill-14-in-northern-kenya.md) _Context: Al-Shabaab, Kenya, War in Somalia (2009-present)_
 5. [Al-Shabaab militants hijack a bus travelling between the town of Mandera and the Kenyan capital Nairobi and execute 28 non-Muslim passengers. ](/news/2014/11/22/al-shabaab-militants-hijack-a-bus-travelling-between-the-town-of-mandera-and-the-kenyan-capital-nairobi-and-execute-28-non-muslim-passengers.md) _Context: Al-Shabaab, Kenya, War in Somalia (2009-present)_
+
+### Changes:
+
+1. [War in Somalia (2009-present): Five Kenyan police officers are killed when Al-Shabaab militants ambush their convoy near El Wak, Kenya. ](/news/2016/06/21/war-in-somalia-2009-present-five-kenyan-police-officers-are-killed-when-al-shabaab-militants-ambush-their-convoy-near-el-wak-kenya.md) _2017-08-27 03:46:18 (First version)_
+1. [Five Kenyan police officers are killed when Al-Shabaab militants ambush their convoy near El Wak, Kenya. ](/news/2016/06/21/five-kenyan-police-officers-are-killed-when-al-shabaab-militants-ambush-their-convoy-near-el-wak-kenya.md) _(Current version)_

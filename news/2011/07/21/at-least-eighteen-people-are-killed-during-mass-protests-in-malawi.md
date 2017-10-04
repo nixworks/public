@@ -18,3 +18,9 @@ The army is deployed in three Malawian cities on a second day of anti-government
 3. [Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/flash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-displaced.md) _Context: Malawi_
 4. [Floods devastate Mozambique and Malawi, with at least 73 deaths and over 70,000 homeless. ](/news/2015/01/14/floods-devastate-mozambique-and-malawi-with-at-least-73-deaths-and-over-70-000-homeless.md) _Context: Malawi_
 5. [Voters in Malawi go to the polls for a general election. ](/news/2014/05/20/voters-in-malawi-go-to-the-polls-for-a-general-election.md) _Context: Malawi_
+
+### Changes:
+
+1. [2011 Malawian protests:At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-pat-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _2017-08-25 03:33:50 (First version)_
+2. [2011 Malawian protests:: At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-at-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _2017-08-27 03:33:57 (Update)_
+2. [At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/at-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _(Current version)_

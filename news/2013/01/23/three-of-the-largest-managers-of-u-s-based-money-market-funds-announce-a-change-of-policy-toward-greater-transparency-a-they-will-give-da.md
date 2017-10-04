@@ -13,3 +13,8 @@ Three of the biggest managers of U.S. money market funds said on Wednesday they 
 ### Related:
 
 1. [Reuters reports that major money market fund managers are avoiding U.S. Treasury debt due to mature in the next few months, as the debt ceiling nears and Governmental deadlock deepens. ](/news/2013/10/8/reuters-reports-that-major-money-market-fund-managers-are-avoiding-u-s-treasury-debt-due-to-mature-in-the-next-few-months-as-the-debt-ceil.md) _Context: money market fund_
+
+### Changes:
+
+1. [Three of the largest managers of U.S.-based money market funds announce a change of policy toward greater transparency - they will give daily rather than monthly data on fund assets. ](/news/2013/01/23/three-of-the-largest-managers-of-u-s-based-money-market-funds-announce-a-change-of-policy-toward-greater-transparency-they-will-give-da.md) _2017-08-27 03:37:29 (First version)_
+1. [Three of the largest managers of U.S.-based money market funds announce a change of policy toward greater transparency - they will give daily rather than monthly data on fund assets. ](/news/2013/01/23/three-of-the-largest-managers-of-u-s-based-money-market-funds-announce-a-change-of-policy-toward-greater-transparency-a-they-will-give-da.md) _(Current version)_

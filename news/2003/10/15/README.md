@@ -1,10 +1,10 @@
 ## [2003-10-15](/news/2003/10/15/index.md)
 
 ### [ 2003 occupation of Iraq: U.S. concessions to proposals from Russia, the China and Pakistan ensure their support for a United Nations Security Council resolution to provide greater international legitimacy to the occupation force and the Iraq Interim Governing Council. The resolution draft, legitimizing US military and political control over Iraq's political future, was already supported by United Kingdom, Spain, Cameroon, Bulgaria, Angola, Mexico, Chile and Guinea. Russia agrees to act as a mediator to achieve support for the compromise also from Germany and France.](/news/2003/10/15/2003-occupation-of-iraq-u-s-concessions-to-proposals-from-russia-the-china-and-pakistan-ensure-their-support-for-a-united-nations-securi.md)
-_Context: Angola, Bulgaria, Cameroon, Chile, Guinea, Iraq Interim Governing Council, Mexico, Pakistan, Spain, U.S. presence in Iraq, United Kingdom, United Nations Security Council_
+_Context: Angola, Bulgaria, Cameroon, Chile, Guinea, Iraq Interim Governing Council, Mexico, Pakistan, Spanish, U.S. presence in Iraq, United Kingdom, United Nations Security Council_
 
 ### [ Israeli-Palestinian conflict: Four people die in a bomb attack on a convoy of US diplomatic vehicles in the Gaza Strip. Palestinian Authority head Yasser Arafat calls the bombing "dirty and shameful" in an exclusive interview on BBC News. Secretary of State Colin Powell urges Prime Minister Ahmed Qurei in a telephone call ""to take action to put an end to violence and terrorism"," according to a Palestinian official.](/news/2003/10/15/israeli-palestinian-conflict-four-people-die-in-a-bomb-attack-on-a-convoy-of-us-diplomatic-vehicles-in-the-gaza-strip-palestinian-authori.md)
-_Context: Ahmed Qurei, BBC, Colin Powell, Gaza, Israeli-Palestinian conflict, Prime Minister, United States Secretary of State, Yasser Arafat, telephone_
+_Context: Ahmed Qurei, BBC, Colin Powell, Gaza, Israeli-Palestinian conflict, Prime Minister, Secretary of State, Yasser Arafat, telephone_
 
 ### [ China launches its first astronaut, Yang Liwei into orbit aboard a Shenzhou spacecraft, Shenzhou&nbsp;5. The 21-hour trip is planned to circle the planet 14 times.](/news/2003/10/15/china-launches-its-first-astronaut-yang-liwei-into-orbit-aboard-a-shenzhou-spacecraft-shenzhou-nbsp-5-the-21-hour-trip-is-planned-to-cir.md)
 _Context: Shenzhou spacecraft, Shenzhou&nbsp;5, Yang Liwei, astronaut_

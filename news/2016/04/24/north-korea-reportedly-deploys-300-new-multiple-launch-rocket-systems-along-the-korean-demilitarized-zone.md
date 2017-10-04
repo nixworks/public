@@ -17,3 +17,8 @@
 3. [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md) _Context: North Korea, North Korea-South Korea relations_
 4. [South Korea reports that North Korea has fired three ballistic missiles into the Sea of Japan. ](/news/2016/09/5/south-korea-reports-that-north-korea-has-fired-three-ballistic-missiles-into-the-sea-of-japan.md) _Context: North Korea, North Korea-South Korea relations_
 5. [In response to the annual military drills, North Korea threatens to destroy Seoul and Washington, D.C. through nuclear weapons if provoked. Both South Korea and the United States insist the drills are for defense. ](/news/2016/08/23/in-response-to-the-annual-military-drills-north-korea-threatens-to-destroy-seoul-and-washington-d-c-through-nuclear-weapons-if-provoked.md) _Context: North Korea, North Korea-South Korea relations_
+
+### Changes:
+
+1. [North Korea-South Korea relations: North Korea reportedly deploys 300 new multiple launch rocket systems along the Korean Demilitarized Zone. ](/news/2016/04/24/north-korea-south-korea-relations-north-korea-reportedly-deploys-300-new-multiple-launch-rocket-systems-along-the-korean-demilitarized-zo.md) _2017-08-27 03:45:48 (First version)_
+1. [North Korea reportedly deploys 300 new multiple launch rocket systems along the Korean Demilitarized Zone. ](/news/2016/04/24/north-korea-reportedly-deploys-300-new-multiple-launch-rocket-systems-along-the-korean-demilitarized-zone.md) _(Current version)_

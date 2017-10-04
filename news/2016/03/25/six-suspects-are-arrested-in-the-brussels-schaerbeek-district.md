@@ -19,3 +19,9 @@
 3. [At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was-less-than-half-of.md) _Context: 2016 Brussels bombings, Brussels_
 4. [Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. ](/news/2016/04/15/belgian-minister-of-transportation-jacqueline-galant-resigns-in-the-wake-of-the-recent-bombings-that-shook-brussels-last-march-galant-resig.md) _Context: 2016 Brussels bombings, Brussels_
 5. [ Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. ](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-have-been-charged-with-terrorist-offenses-linked-to-last-month-s-brussels-bombing-also-three.md) _Context: 2016 Brussels bombings, Brussels_
+
+### Changes:
+
+1. [Aftermath of the Six suspects are arrested in the Brussels Schaerbeek district. ](/news/2016/03/25/aftermath-of-the-six-suspects-are-arrested-in-the-brussels-schaerbeek-district.md) _2017-08-25 03:45:00 (First version)_
+2. [Aftermath of the 2016 Brussels bombings: Six suspects are arrested in the Brussels Schaerbeek district. ](/news/2016/03/25/aftermath-of-the-2016-brussels-bombings-six-suspects-are-arrested-in-the-brussels-schaerbeek-district.md) _2017-08-27 03:45:22 (Update)_
+2. [Six suspects are arrested in the Brussels Schaerbeek district. ](/news/2016/03/25/six-suspects-are-arrested-in-the-brussels-schaerbeek-district.md) _(Current version)_

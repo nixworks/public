@@ -17,3 +17,8 @@
 3. [A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md) _Context: Tunisia_
 4. [The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. ](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-driving-the-truck-that-smashed-through-a-berlin-market-is-killed-in-a-shoot-out-in-milan.md) _Context: Tunisia_
 5. [German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whose-identifying-inform.md) _Context: Tunisia_
+
+### Changes:
+
+1. [Tunisian parliamentary election, 2014: The results of the recent Tunisian parliamentary election are announced with the secular Nidaa Tounes party winning a plurality of seats. ](/news/2014/10/29/tunisian-parliamentary-election-2014-the-results-of-the-recent-tunisian-parliamentary-election-are-announced-with-the-secular-nidaa-tounes.md) _2017-08-27 03:41:26 (First version)_
+1. [The results of the recent Tunisian parliamentary election are announced with the secular Nidaa Tounes party winning a plurality of seats. ](/news/2014/10/29/the-results-of-the-recent-tunisian-parliamentary-election-are-announced-with-the-secular-nidaa-tounes-party-winning-a-plurality-of-seats.md) _(Current version)_

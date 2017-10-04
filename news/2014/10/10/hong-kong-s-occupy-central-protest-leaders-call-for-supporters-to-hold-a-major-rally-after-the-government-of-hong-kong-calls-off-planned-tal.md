@@ -17,3 +17,9 @@
 3. [The Hong Kong government backs down on plans to introduce Chinese patriotism classes in its schools after weeks of protests. ](/news/2012/09/8/the-hong-kong-government-backs-down-on-plans-to-introduce-chinese-patriotism-classes-in-its-schools-after-weeks-of-protests.md) _Context: Government of Hong Kong, Hong Kong_
 4. [Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100 km-h and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-and-heavy-rain-four-days-after-deadly-typhoon-hato-passed-t.md) _Context: Hong Kong_
 5. [Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md) _Context: Hong Kong_
+
+### Changes:
+
+1. [2014 Hong Kong protests:Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/2014-hong-kong-protests-phong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong-k.md) _2017-08-25 03:41:04 (First version)_
+2. [2014 Hong Kong protests:: Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/2014-hong-kong-protests-hong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong.md) _2017-08-27 03:41:23 (Update)_
+2. [Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/hong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong-kong-calls-off-planned-tal.md) _(Current version)_

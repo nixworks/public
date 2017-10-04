@@ -17,3 +17,8 @@ TWO people have been killed and several injured, including a police officer, fol
 3. [Thousands of Indonesians protest in Jakarta for tolerance after a large protest rally against blasphemy on Friday. ](/news/2016/12/4/thousands-of-indonesians-protest-in-jakarta-for-tolerance-after-a-large-protest-rally-against-blasphemy-on-friday.md) _Context: Jakarta_
 4. [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md) _Context: Jakarta_
 5. [Indonesian police kill three people in a gunfight south of Jakarta after a bomb is found. Fourteen people are arrested in connection to alleged involvement in plans for suicide bomb attacks. ](/news/2016/12/21/indonesian-police-kill-three-people-in-a-gunfight-south-of-jakarta-after-a-bomb-is-found-fourteen-people-are-arrested-in-connection-to-alle.md) _Context: Jakarta_
+
+### Changes:
+
+1. [2017 Jakarta bombings: Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/2017-jakarta-bombings-three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md) _2017-08-27 03:48:23 (First version)_
+1. [Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md) _(Current version)_

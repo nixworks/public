@@ -17,3 +17,8 @@
 3. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
 4. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
 5. [City officials in Dubai, United Arab Emirates, announce that residents will receive incentives for swapping their petrol engine vehicles for electric ones, including a free Salik tag, and an exemption from RTA registration and renewal vehicle fees. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-incentives-for-swapping-their-petrol-engine-vehicles-for.md) _Context: petrol engine vehicles_
+
+### Changes:
+
+1. [Alternative fuel vehicles: French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/alternative-fuel-vehicles-french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _2017-08-27 03:48:37 (First version)_
+1. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _(Current version)_

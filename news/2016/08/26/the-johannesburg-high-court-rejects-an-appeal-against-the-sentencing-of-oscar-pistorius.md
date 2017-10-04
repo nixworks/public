@@ -16,3 +16,8 @@
 3. [A judge in the Oscar Pistorius trial orders the athlete to undertake a mental evaluation. ](/news/2014/05/14/a-judge-in-the-oscar-pistorius-trial-orders-the-athlete-to-undertake-a-mental-evaluation.md) _Context: Oscar Pistorius, Trial of Oscar Pistorius_
 4. [South Africa's North Gauteng High Court rules the government's decision last October to withdraw from the Rome Statute of the International Criminal Court was unconstitutional, and instructs the government to revoke its notice of withdrawal. ](/news/2017/02/22/south-africa-s-north-gauteng-high-court-rules-the-government-s-decision-last-october-to-withdraw-from-the-rome-statute-of-the-international.md) _Context: North Gauteng High Court_
 5. [Oscar Pistorius is admitted to a Pretoria hospital after sustaining injuries to his wrists. Blades are subsequently found in a search of his cell. ](/news/2016/08/7/oscar-pistorius-is-admitted-to-a-pretoria-hospital-after-sustaining-injuries-to-his-wrists-blades-are-subsequently-found-in-a-search-of-his.md) _Context: Oscar Pistorius_
+
+### Changes:
+
+1. [Trial of Oscar Pistorius: The Johannesburg High Court rejects an appeal against the sentencing of Oscar Pistorius. ](/news/2016/08/26/trial-of-oscar-pistorius-the-johannesburg-high-court-rejects-an-appeal-against-the-sentencing-of-oscar-pistorius.md) _2017-08-27 03:46:43 (First version)_
+1. [The Johannesburg High Court rejects an appeal against the sentencing of Oscar Pistorius. ](/news/2016/08/26/the-johannesburg-high-court-rejects-an-appeal-against-the-sentencing-of-oscar-pistorius.md) _(Current version)_

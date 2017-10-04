@@ -17,3 +17,9 @@
 3. [UN troops in the Democratic Republic of the Congo launch an offensive, shelling positions held by rebels near the eastern city of Goma. ](/news/2013/08/23/un-troops-in-the-democratic-republic-of-the-congo-launch-an-offensive-shelling-positions-held-by-rebels-near-the-eastern-city-of-goma.md) _Context: Democratic Republic of the Congo, Goma_
 4. [Five civilians are wounded by mortar fire in the Congo city of Goma. ](/news/2013/08/22/five-civilians-are-wounded-by-mortar-fire-in-the-congo-city-of-goma.md) _Context: Democratic Republic of the Congo, Goma_
 5. [Ban Ki-moon, the Secretary-General of the United Nations, visits the Democratic Republic of the Congo as fighting continues near the eastern city of Goma. ](/news/2013/05/23/ban-ki-moon-the-secretary-general-of-the-united-nations-visits-the-democratic-republic-of-the-congo-as-fighting-continues-near-the-eastern.md) _Context: Democratic Republic of the Congo, Goma_
+
+### Changes:
+
+1. [2012 East D.R. Congo conflict:The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/2012-east-d-r-congo-conflict-pthe-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md) _2017-08-25 03:36:56 (First version)_
+2. [2012 East D.R. Congo conflict:: The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/2012-east-d-r-congo-conflict-the-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md) _2017-08-27 03:37:05 (Update)_
+2. [The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/the-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md) _(Current version)_

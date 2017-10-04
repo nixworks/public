@@ -16,3 +16,9 @@
 3. [An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 15 people dead, as the country's government declares a state of emergency. ](/news/2015/11/24/an-explosion-on-a-bus-carrying-tunisian-presidential-guard-personnel-in-tunisia-s-capital-tunis-leaves-at-least-15-people-dead-as-the-count.md) _Context: Tunis, Tunisia_
 4. [A police officer and seven Islamist militants are killed in a gunfight in Tunis, Tunisia. ](/news/2014/02/4/a-police-officer-and-seven-islamist-militants-are-killed-in-a-gunfight-in-tunis-tunisia.md) _Context: Tunis, Tunisia_
 5. [Tunisian police shoot dead an Islamist Militant on the outskirt of the capital Tunis in a raid. ](/news/2013/08/6/tunisian-police-shoot-dead-an-islamist-militant-on-the-outskirt-of-the-capital-tunis-in-a-raid.md) _Context: Tunis, Tunisia_
+
+### Changes:
+
+1. [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' {{Interlanguage link multi|El Ouardia|fr}} neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-interlanguage-link-multi-el-ouardia-fr.md) _2017-05-01 03:42:23 (First version)_
+2. [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' El Ouardia|fr neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-el-ouardia-fr-neighbourhood.md) _2017-08-29 03:39:06 (Update)_
+2. [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' El Ouardia neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-el-ouardia-neighbourhood.md) _(Current version)_

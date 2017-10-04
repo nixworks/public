@@ -7,7 +7,7 @@ _Context: Americans, B-52 Stratofortress, Greenland, January 21, 1968 crash, Thu
 _Context: Ciampino Airport, Rome, Ryanair Flight 4102_
 
 ### [ The United States government announces a second bailout of American International Group; the total value of the new plan, roughly US$150 billion, represents the largest government support package extended to a private company in US history.](/news/2008/11/10/the-united-states-government-announces-a-second-bailout-of-american-international-group-the-total-value-of-the-new-plan-roughly-us-150-bi.md)
-_Context: AIG, Americans, US$_
+_Context: $, AIG, Americans_
 
 ### [ Italian Prime Minister Silvio Berlusconi repeats a comment that United States President-elect Barack Obama is "young, handsome and also tanned," refusing to apologize for remarks he insisted are "flattering". ](/news/2008/11/10/italian-prime-minister-silvio-berlusconi-repeats-a-comment-that-united-states-president-elect-barack-obama-is-young-handsome-and-also-tan.md)
 _Context: Americans, Barack Obama, Italian Prime Minister, Italy, President-elect, Silvio Berlusconi, U.S. President_

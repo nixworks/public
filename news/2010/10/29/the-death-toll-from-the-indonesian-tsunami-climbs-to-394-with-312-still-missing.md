@@ -19,3 +19,9 @@ Bad weather is again obstructing efforts to get aid to the survivors of the Indo
 3. [A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structural-damage-to-buildings.md) _Context: Indonesia_
 4. [A rescue helicopter crashes while attempting to evacuate residents near the Dieng Volcanic Complex in Central Java, Indonesia, killing all eight people on board. ](/news/2017/07/3/a-rescue-helicopter-crashes-while-attempting-to-evacuate-residents-near-the-dieng-volcanic-complex-in-central-java-indonesia-killing-all-e.md) _Context: Indonesia_
 5. [In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. ](/news/2017/07/23/in-alleged-emulation-of-philippine-president-rodrigo-duterte-s-war-on-drugs-indonesian-president-joko-widodo-announces-orders-for-police-to.md) _Context: Indonesia_
+
+### Changes:
+
+1. [Indonesian tsunamiThe death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunamipthe-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md) _2017-08-25 03:30:45 (First version)_
+2. [Indonesian tsunami: The death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunami-the-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md) _2017-08-27 03:30:51 (Update)_
+2. [The death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/the-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md) _(Current version)_

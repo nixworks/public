@@ -13,3 +13,8 @@ M.E.Doc&#x27;s owners deny that some initial infections last week were spread vi
 ### Related:
 
 1. [A major ransomware cyberattack strikes companies across the globe and 80% of all infections were in Ukraine. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe-and-80-of-all-infections-were-in-ukraine.md) _Context: 2017 cyberattacks on Ukraine_
+
+### Changes:
+
+1. [2017 cyberattacks on Ukraine: As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. ](/news/2017/07/4/2017-cyberattacks-on-ukraine-as-part-of-an-investigation-into-the-recent-cyberattacks-the-servers-of-ukraine-s-most-popular-accounting-sof.md) _2017-08-27 03:48:36 (First version)_
+1. [As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. ](/news/2017/07/4/as-part-of-an-investigation-into-the-recent-cyberattacks-the-servers-of-ukraine-s-most-popular-accounting-software-company-m-e-doc-are-se.md) _(Current version)_

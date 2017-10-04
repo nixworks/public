@@ -12,3 +12,8 @@
 3. [ The Pakistani government releases 500 members of Pakistan Peoples Party it detained prior to return of opposition leader Asif Zardari. Zardari hopes to have dialogue with the government. ](/news/2005/04/18/the-pakistani-government-releases-500-members-of-pakistan-peoples-party-it-detained-prior-to-return-of-opposition-leader-asif-zardari-zard.md) _Context: Pakistan, Pakistan Peoples Party_
 4. [ Pakistan's Anti Terrorism Court cancels the bail of Asif Ali Zardari, leader of the Pakistan Peoples Party and husband of Benazir Bhutto. Zardari was released last month after eight years in prison. He was charged with corruption and conspiracy to murder. ](/news/2004/12/21/pakistan-s-anti-terrorism-court-cancels-the-bail-of-asif-ali-zardari-leader-of-the-pakistan-peoples-party-and-husband-of-benazir-bhutto-z.md) _Context: Pakistan, Pakistan Peoples Party_
 5. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan_
+
+### Changes:
+
+1. [ The Pakistan Peoples Party (PPP) demands general elections in Pakistan in two months time.{{Fact|date=December 2007}} ](/news/2007/10/22/the-pakistan-peoples-party-ppp-demands-general-elections-in-pakistan-in-two-months-time-fact-date-december-2007.md) _2017-05-01 03:22:06 (First version)_
+1. [ The Pakistan Peoples Party (PPP) demands general elections in Pakistan in two months time.date=December 2007 ](/news/2007/10/22/the-pakistan-peoples-party-ppp-demands-general-elections-in-pakistan-in-two-months-time-date-december-2007.md) _(Current version)_

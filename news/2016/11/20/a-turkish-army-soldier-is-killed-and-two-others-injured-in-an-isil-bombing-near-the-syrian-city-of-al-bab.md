@@ -17,3 +17,8 @@
 3. [The Turkish media reports that the Turkish Army has sent troops into Syria to evacuate troops and artefacts from the Tomb of Suleyman Shah in the Aleppo Governorate which has been under threat from Islamic State for several months. One soldier has reportedly been killed. ](/news/2015/02/21/the-turkish-media-reports-that-the-turkish-army-has-sent-troops-into-syria-to-evacuate-troops-and-artefacts-from-the-tomb-of-suleyman-shah-i.md) _Context: Syria, Turkish Army_
 4. [Three Turkish Army soldiers die by gunfire in the town of Ceylanpinar. The local Turkish governor begins an investigation of whether the gunfire came from the Syrian side of the border. ](/news/2014/12/9/three-turkish-army-soldiers-die-by-gunfire-in-the-town-of-ceylanpinar-the-local-turkish-governor-begins-an-investigation-of-whether-the-gun.md) _Context: Syria, Turkish Army_
 5. [Syrian army helicopters bombard the northern rebel-held town of Al-Bab for a second day, killing 20 people. ](/news/2013/12/1/syrian-army-helicopters-bombard-the-northern-rebel-held-town-of-al-bab-for-a-second-day-killing-20-people.md) _Context: Syria, al-Bab_
+
+### Changes:
+
+1. [Turkish military intervention in Syria: A Turkish Army soldier is killed and two others injured in an ISIL bombing near the Syrian city of al-Bab. ](/news/2016/11/20/turkish-military-intervention-in-syria-a-turkish-army-soldier-is-killed-and-two-others-injured-in-an-isil-bombing-near-the-syrian-city-of-a.md) _2017-08-27 03:47:16 (First version)_
+1. [A Turkish Army soldier is killed and two others injured in an ISIL bombing near the Syrian city of al-Bab. ](/news/2016/11/20/a-turkish-army-soldier-is-killed-and-two-others-injured-in-an-isil-bombing-near-the-syrian-city-of-al-bab.md) _(Current version)_

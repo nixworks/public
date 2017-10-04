@@ -17,3 +17,8 @@
 3. [Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of-ar-rutbah-from-the-islamic-state-of-iraq-and-the-levant-group.md) _Context: Baghdad, Iraqi Civil War (2014-present), Islamic State_
 4. [Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _Context: Baghdad, Iraqi Civil War (2014-present), Shiite_
 5. [ At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state-of.md) _Context: Baghdad, Iraqi Civil War (2014-present), Shiite_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/iraqi-civil-war-2014-present-two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md) _2017-08-27 03:45:01 (First version)_
+1. [Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md) _(Current version)_

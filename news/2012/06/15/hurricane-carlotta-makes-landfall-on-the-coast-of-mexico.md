@@ -16,3 +16,9 @@
 3. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
 4. [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md) _Context: Mexico_
 5. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued while at least 226 people have been killed and another 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md) _Context: Mexico_
+
+### Changes:
+
+1. [2012 Pacific hurricane season:Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/2012-pacific-hurricane-season-phurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md) _2017-08-25 03:35:53 (First version)_
+2. [2012 Pacific hurricane season:: Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/2012-pacific-hurricane-season-hurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md) _2017-08-27 03:36:04 (Update)_
+2. [Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/hurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md) _(Current version)_

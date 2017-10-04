@@ -17,3 +17,8 @@
 3. [Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md) _Context: Hong Kong_
 4. [Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _Context: Hong Kong_
 5. [Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20th-anniversary-o.md) _Context: Hong Kong_
+
+### Changes:
+
+1. [Umbrella revolution: Protesters who filled Hong Kong's streets for more democracy lessened Tuesday after the government finally agreed to negotiate with the student leaders. ](/news/2014/10/7/umbrella-revolution-protesters-who-filled-hong-kong-s-streets-for-more-democracy-lessened-tuesday-after-the-government-finally-agreed-to-ne.md) _2017-08-27 03:41:22 (First version)_
+1. [Protesters who filled Hong Kong's streets for more democracy lessened Tuesday after the government finally agreed to negotiate with the student leaders. ](/news/2014/10/7/protesters-who-filled-hong-kong-s-streets-for-more-democracy-lessened-tuesday-after-the-government-finally-agreed-to-negotiate-with-the-stud.md) _(Current version)_

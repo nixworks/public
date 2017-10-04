@@ -19,3 +19,9 @@ The Myanmar military will observe a ceasefire in its fight with ethnic Kachin re
 3. [Major political parties in Myanmar hold a meeting about the upcoming Burmese general election, 2015 which included Thein Sein's Union Solidarity and Development Party and Aung San Suu Kyi's National League for Democracy. ](/news/2014/10/31/major-political-parties-in-myanmar-hold-a-meeting-about-the-upcoming-burmese-general-election-2015-which-included-thein-sein-s-union-solida.md) _Context: Myanmar, Thein Sein_
 4. [Myanmar's Thein Sein and the Philippines' Benigno Aquino III ink trade agreements including those that involve renewable energy, mass media, and visa-free travel. ](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.md) _Context: Myanmar, Thein Sein_
 5. [Thein Sein, the President of Burma (Myanmar) visits the United Kingdom. ](/news/2013/07/15/thein-sein-the-president-of-burma-myanmar-visits-the-united-kingdom.md) _Context: Myanmar, Thein Sein_
+
+### Changes:
+
+1. [Kachin conflict:President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/kachin-conflict-ppresident-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md) _2017-08-25 03:37:17 (First version)_
+2. [Kachin conflict:: President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/kachin-conflict-president-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md) _2017-08-27 03:37:27 (Update)_
+2. [President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/president-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md) _(Current version)_

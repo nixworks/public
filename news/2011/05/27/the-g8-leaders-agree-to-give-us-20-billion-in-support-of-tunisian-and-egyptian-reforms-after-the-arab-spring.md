@@ -19,3 +19,9 @@ Group of Eight leaders promised Friday to support new Arab democracies, accordin
 3. [More than 400 people fleeing Libya and Tunisia arrive on the Italian island of Lampedusa in two boats, the latest in a stream of refugees fleeing the ongoing conflicts in North Africa. ](/news/2011/05/14/more-than-400-people-fleeing-libya-and-tunisia-arrive-on-the-italian-island-of-lampedusa-in-two-boats-the-latest-in-a-stream-of-refugees-fl.md) _Context: Arab Spring, Tunisia_
 4. [Today's Friday protests take place in Egypt, Iraq, Syria and Yemen among other places. ](/news/2011/04/8/today-s-friday-protests-take-place-in-egypt-iraq-syria-and-yemen-among-other-places.md) _Context: Arab Spring, Egypt_
 5. [Hillary Clinton, the United States Secretary of State, announces plans to visit Egypt and Tunisia this week. ](/news/2011/03/10/hillary-clinton-the-united-states-secretary-of-state-announces-plans-to-visit-egypt-and-tunisia-this-week.md) _Context: Egypt, Tunisia_
+
+### Changes:
+
+1. [37th G8 summit:The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/37th-g8-summit-pthe-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md) _2017-08-25 03:33:17 (First version)_
+2. [37th G8 summit:: The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/37th-g8-summit-the-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md) _2017-08-27 03:33:26 (Update)_
+2. [The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/the-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md) _(Current version)_

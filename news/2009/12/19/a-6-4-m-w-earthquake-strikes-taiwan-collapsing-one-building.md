@@ -18,3 +18,8 @@ A strong earthquake rocked much of Taiwan on Saturday, geological officials said
 3. [Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-japan.md) _Context: Taiwan_
 4. [Voters in the Republic of China go to the polls for the 2012 presidential election. Incumbent President Ma Ying-jeou ultimately wins re-election with 51% of the vote, defeating Democratic Progressive Party chairwoman Tsai Ing-wen. ](/news/2012/01/14/voters-in-the-republic-of-china-go-to-the-polls-for-the-2012-presidential-election-incumbent-president-ma-ying-jeou-ultimately-wins-re-elec.md) _Context: Taiwan_
 5. [The Buddha Memorial Center of Fo Guang Shan in Kaohsiung, Taiwan, housing a tooth relic of Gautama Buddha, is consecrated. ](/news/2011/12/24/the-buddha-memorial-center-of-fo-guang-shan-in-kaohsiung-taiwan-housing-a-tooth-relic-of-gautama-buddha-is-consecrated.md) _Context: Taiwan_
+
+### Changes:
+
+1. [ A 6.4 M w earthquake strikes Taiwan collapsing one building. ](/news/2009/12/19/a-6-4-mw-earthquake-strikes-taiwan-collapsing-one-building.md) _2017-10-02 03:29:54 (First version)_
+1. [ A 6.4 M w earthquake strikes Taiwan collapsing one building. ](/news/2009/12/19/a-6-4-m-w-earthquake-strikes-taiwan-collapsing-one-building.md) _(Current version)_

@@ -17,3 +17,8 @@ The&#x20;stakes&#x20;are&#x20;higher&#x20;than&#x20;ever&#x20;as&#x20;Niger,&#x2
 3. [Flooding in Niger kills at least 38 people and leaves more than 92,000 people displaced. ](/news/2016/09/7/flooding-in-niger-kills-at-least-38-people-and-leaves-more-than-92-000-people-displaced.md) _Context: Niger_
 4. [Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. ](/news/2016/06/16/nigerien-authorities-discover-the-bodies-of-34-migrants-mostly-children-left-behind-in-the-sahara-desert-by-people-smugglers-who-were-taki.md) _Context: Niger_
 5. [ Niger security forces kill 12 Boko Haram militants in Bosso. ](/news/2016/05/29/niger-security-forces-kill-12-boko-haram-militants-in-bosso.md) _Context: Niger_
+
+### Changes:
+
+1. [Nigerien general election, 2016: Voters in Niger go to the polls for a general election. ](/news/2016/02/21/nigerien-general-election-2016-voters-in-niger-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:44:58 (First version)_
+1. [Voters in Niger go to the polls for a general election. ](/news/2016/02/21/voters-in-niger-go-to-the-polls-for-a-general-election.md) _(Current version)_

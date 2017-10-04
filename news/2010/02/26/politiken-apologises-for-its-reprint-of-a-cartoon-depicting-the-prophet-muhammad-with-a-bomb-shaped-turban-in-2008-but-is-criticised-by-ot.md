@@ -16,3 +16,8 @@
 3. [Scientists confirm that Denmark has its first wild pack of Gray wolves for the first time in 200 years. ](/news/2017/05/4/scientists-confirm-that-denmark-has-its-first-wild-pack-of-gray-wolves-for-the-first-time-in-200-years.md) _Context: Denmark_
 4. [Denmark's government announces it will be withdrawing its seven F-16 fighter jets from military operations against ISIL in Iraq and Syria from mid-December. ](/news/2016/12/2/denmark-s-government-announces-it-will-be-withdrawing-its-seven-f-16-fighter-jets-from-military-operations-against-isil-in-iraq-and-syria-fr.md) _Context: Denmark_
 5. [Merger talks between Danish oil and gas corporations DONG Energy and Maersk have reached an impasse over valuation. ](/news/2016/12/14/merger-talks-between-danish-oil-and-gas-corporations-dong-energy-and-maersk-have-reached-an-impasse-over-valuation.md) _Context: Denmark_
+
+### Changes:
+
+1. [''Politiken'' apologises for its reprint of a cartoon depicting the Prophet Muhammad with a bomb-shaped turban in 2008 but is criticised by other Danish newspapers. ](/news/2010/02/26/politiken-apologises-for-its-reprint-of-a-cartoon-depicting-the-prophet-muhammad-with-a-bomb-shaped-turban-in-2008-but-is-criticised-by.md) _2017-08-25 03:27:14 (First version)_
+1. ["Politiken" apologises for its reprint of a cartoon depicting the Prophet Muhammad with a bomb-shaped turban in 2008 but is criticised by other Danish newspapers. ](/news/2010/02/26/politiken-apologises-for-its-reprint-of-a-cartoon-depicting-the-prophet-muhammad-with-a-bomb-shaped-turban-in-2008-but-is-criticised-by-ot.md) _(Current version)_

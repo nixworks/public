@@ -17,3 +17,8 @@ The leaders of China and Japan hold formal talks on the sidelines of a major Asi
 3. [The Government of China begins a two-day summit in Beijing, in an attempt to raise international support for its Belt and Road Initiative. ](/news/2017/05/14/the-government-of-china-begins-a-two-day-summit-in-beijing-in-an-attempt-to-raise-international-support-for-its-belt-and-road-initiative.md) _Context: Beijing_
 4. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: Beijing_
 5. [Pro-Beijing Hong Kong leader CY Leung says he will quit after his term ends. ](/news/2016/12/9/pro-beijing-hong-kong-leader-cy-leung-says-he-will-quit-after-his-term-ends.md) _Context: Beijing_
+
+### Changes:
+
+1. [APEC China 2014: Members of the Asia Pacific Economic Cooperation forum gather in Beijing. ](/news/2014/11/10/apec-china-2014-members-of-the-asia-pacific-economic-cooperation-forum-gather-in-beijing.md) _2017-08-27 03:41:29 (First version)_
+1. [Members of the Asia Pacific Economic Cooperation forum gather in Beijing. ](/news/2014/11/10/members-of-the-asia-pacific-economic-cooperation-forum-gather-in-beijing.md) _(Current version)_

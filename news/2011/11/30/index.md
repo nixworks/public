@@ -13,7 +13,7 @@ _Context: Cte d'Ivoire, International Criminal Court, Laurent Gbagbo, Netherland
 _Context: Foreign Minister, Iran_
 
 ### [United States Secretary of State Hillary Clinton arrives in Burma to urge political reforms. ](/news/2011/11/30/united-states-secretary-of-state-hillary-clinton-arrives-in-burma-to-urge-political-reforms.md)
-_Context: Burma, Hillary Clinton, Reforms in Burma, United States Secretary of State_
+_Context: Burma, Hillary Clinton, Reforms in Burma, Secretary of State_
 
 ### [Researchers at Washington State University develop an artificial bone "scaffold" which can be produced using 3D printers, potentially allowing doctors to quickly print replacement bone tissue for injured patients. ](/news/2011/11/30/researchers-at-washington-state-university-develop-an-artificial-bone-scaffold-which-can-be-produced-using-3d-printers-potentially-allowi.md)
 Engineers say they have developed a bone-like substance that can be created by 3D printers to create a scaffold for new bone tissue to grow over.

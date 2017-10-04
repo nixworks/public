@@ -9,3 +9,9 @@ CASUALTIES in the wake of Yolanda (international name: Haiyan) rose to 5,786 on 
 
 1. [BW](http://www.bworldonline.com/content.php?section=Nation&title=Death-toll-of-Yolanda-nears-5,800&id=80433)
 1. [Cover Image](http://www.bworldonline.com/images/fb_sections/Nation.jpg)
+
+### Changes:
+
+1. [Typhoon Haiyan:The death toll reaches 5,800, with 26,233 injured and 1,779 still missing. ](/news/2013/12/7/typhoon-haiyan-pthe-death-toll-reaches-5-800-with-26-233-injured-and-1-779-still-missing.md) _2017-08-25 03:39:39 (First version)_
+2. [Typhoon Haiyan:: The death toll reaches 5,800, with 26,233 injured and 1,779 still missing. ](/news/2013/12/7/typhoon-haiyan-the-death-toll-reaches-5-800-with-26-233-injured-and-1-779-still-missing.md) _2017-08-27 03:39:56 (Update)_
+2. [The death toll reaches 5,800, with 26,233 injured and 1,779 still missing. ](/news/2013/12/7/the-death-toll-reaches-5-800-with-26-233-injured-and-1-779-still-missing.md) _(Current version)_

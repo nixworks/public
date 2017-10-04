@@ -18,3 +18,9 @@
 3. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Homs_
 4. [ A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. ](/news/2016/04/12/a-russian-air-force-mi-28-attack-helicopter-crashes-near-the-syrian-city-of-homs-killing-two-pilots.md) _Context: Homs_
 5. [Twin bomb blasts hit the Syrian city of Homs with at least 57 people reportedly killed and more than 100 injured. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/twin-bomb-blasts-hit-the-syrian-city-of-homs-with-at-least-57-people-reportedly-killed-and-more-than-100-injured-the-islamic-state-of-iraq.md) _Context: Homs_
+
+### Changes:
+
+1. [2011 Syrian uprising:At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/2011-syrian-uprising-pat-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md) _2017-08-25 03:34:26 (First version)_
+2. [2011 Syrian uprising:: At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/2011-syrian-uprising-at-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md) _2017-08-27 03:34:35 (Update)_
+2. [At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/at-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md) _(Current version)_

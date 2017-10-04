@@ -17,3 +17,8 @@
 3. [The United States Senate confirms Loretta Lynch as the Attorney General of the United States. Lynch will be the first African-American woman to hold the position. ](/news/2015/04/23/the-united-states-senate-confirms-loretta-lynch-as-the-attorney-general-of-the-united-states-lynch-will-be-the-first-african-american-woman.md) _Context: Attorney General, United States Senate_
 4. [Eric Holder, the Attorney-General of the United States, confirms that four US citizens have been killed in drone aircraft attacks since 2011 including radical cleric Anwar al-Awlaki killed in 2011. ](/news/2013/05/22/eric-holder-the-attorney-general-of-the-united-states-confirms-that-four-us-citizens-have-been-killed-in-drone-aircraft-attacks-since-2011.md) _Context: Attorney General, Eric Holder_
 5. [ The United States Senate confirms Eric Holder as Attorney General. ](/news/2009/02/2/the-united-states-senate-confirms-eric-holder-as-attorney-general.md) _Context: Eric Holder, United States Senate_
+
+### Changes:
+
+1. [Eric Holder announces his resignation as Attorney General of the United States, effective from when the Senate confirms a successor. [http:--www.npr.org-blogs-thetwo-way-2014-09-25-351363171-eric-holder-to-step-down-as-attorney-general (NPR)].](/news/2014/09/25/eric-holder-announces-his-resignation-as-attorney-general-of-the-united-states-effective-from-when-the-senate-confirms-a-successor-http.md) _2017-06-18 03:43:24 (First version)_
+1. [Eric Holder announces his resignation as Attorney General of the United States, effective from when the Senate confirms a successor. ](/news/2014/09/25/eric-holder-announces-his-resignation-as-attorney-general-of-the-united-states-effective-from-when-the-senate-confirms-a-successor.md) _(Current version)_

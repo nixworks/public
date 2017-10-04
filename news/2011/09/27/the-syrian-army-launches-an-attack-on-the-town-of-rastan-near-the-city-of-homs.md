@@ -16,3 +16,9 @@
 3. [Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/dozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with-heavy-artillery.md) _Context: Homs, Syrian Army_
 4. [The LCC report that up to 400 people have been killed across Syria on Saturday, including about 200 reported executed by the Syrian Army in the Deir Ballba neighborhood of Homs. ](/news/2012/12/29/the-lcc-report-that-up-to-400-people-have-been-killed-across-syria-on-saturday-including-about-200-reported-executed-by-the-syrian-army-in.md) _Context: Homs, Syrian Army_
 5. [Syrian activists claim that at least 35 people have died in an Syrian Army offensive in Homs over the past day. ](/news/2012/06/10/syrian-activists-claim-that-at-least-35-people-have-died-in-an-syrian-army-offensive-in-homs-over-the-past-day.md) _Context: Homs, Syrian Army_
+
+### Changes:
+
+1. [2011 Syrian uprising:The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/2011-syrian-uprising-pthe-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md) _2017-08-25 03:34:14 (First version)_
+2. [2011 Syrian uprising:: The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/2011-syrian-uprising-the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md) _2017-08-27 03:34:22 (Update)_
+2. [The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md) _(Current version)_

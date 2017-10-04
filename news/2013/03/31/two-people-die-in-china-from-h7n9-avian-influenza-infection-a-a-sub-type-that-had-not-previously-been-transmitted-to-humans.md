@@ -16,3 +16,8 @@
 3. [A third man dies in China from the H7N9 strain of bird flu. ](/news/2013/04/3/a-third-man-dies-in-china-from-the-h7n9-strain-of-bird-flu.md) _Context: China, H7N9 avian flu virus_
 4. [The H7N9 strain of avian influenza kills two more people in Shanghai, raising the national death toll to 16. ](/news/2013/04/17/the-h7n9-strain-of-avian-influenza-kills-two-more-people-in-shanghai-raising-the-national-death-toll-to-16.md) _Context: Avian flu virus, H7N9 avian flu virus_
 5. [A seven-year-old girl is confirmed as the first person in Beijing, China, to catch the Influenza A virus subtype H7N9 bird flu. ](/news/2013/04/13/a-seven-year-old-girl-is-confirmed-as-the-first-person-in-beijing-china-to-catch-the-influenza-a-virus-subtype-h7n9-bird-flu.md) _Context: China, H7N9 avian flu virus_
+
+### Changes:
+
+1. [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md) _2017-08-27 03:38:17 (First version)_
+1. [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md) _(Current version)_

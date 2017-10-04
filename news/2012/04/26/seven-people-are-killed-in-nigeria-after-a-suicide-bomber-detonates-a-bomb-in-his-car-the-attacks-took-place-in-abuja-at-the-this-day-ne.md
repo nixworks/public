@@ -17,3 +17,8 @@ Suicide bomber explodes car bomb outside office in capital; Separate attack targ
 3. [Protesters in the Nigerian capital Abuja hold a "million woman" march over the mass kidnapping of schoolgirls by the Boko Haram terrorist group two weeks ago. ](/news/2014/04/30/protesters-in-the-nigerian-capital-abuja-hold-a-million-woman-march-over-the-mass-kidnapping-of-schoolgirls-by-the-boko-haram-terrorist-gr.md) _Context: Abuja, Nigeria_
 4. [Twin bomb blasts hit a crowded bus station at the outskirts of the Nigerian capital Abuja, killing at least 71 and injuring more than 120 others. ](/news/2014/04/14/twin-bomb-blasts-hit-a-crowded-bus-station-at-the-outskirts-of-the-nigerian-capital-abuja-killing-at-least-71-and-injuring-more-than-120-ot.md) _Context: Abuja, Nigeria_
 5. [As many as ten people are feared dead after a bomb explodes at a United Nations building in Abuja, Nigeria. ](/news/2011/08/26/as-many-as-ten-people-are-feared-dead-after-a-bomb-explodes-at-a-united-nations-building-in-abuja-nigeria.md) _Context: Abuja, Nigeria_
+
+### Changes:
+
+1. [Seven people are killed in Nigeria after a suicide bomber detonates a bomb in his car. The attacks took place in Abuja, at the ''This Day'' newspaper offices. ](/news/2012/04/26/seven-people-are-killed-in-nigeria-after-a-suicide-bomber-detonates-a-bomb-in-his-car-the-attacks-took-place-in-abuja-at-the-this-day.md) _2017-08-25 03:35:34 (First version)_
+1. [Seven people are killed in Nigeria after a suicide bomber detonates a bomb in his car. The attacks took place in Abuja, at the "This Day" newspaper offices. ](/news/2012/04/26/seven-people-are-killed-in-nigeria-after-a-suicide-bomber-detonates-a-bomb-in-his-car-the-attacks-took-place-in-abuja-at-the-this-day-ne.md) _(Current version)_

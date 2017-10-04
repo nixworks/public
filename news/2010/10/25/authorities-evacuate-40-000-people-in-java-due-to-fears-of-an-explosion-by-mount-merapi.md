@@ -20,3 +20,8 @@ A major earthquake with a magnitude of 7.5 strikes off western Sumatra triggerin
 3. [Continuing eruptions of Mount Merapi in Java, Indonesia, lead to cancellation of flights to the nearby city of Yogyakarta. ](/news/2010/11/2/continuing-eruptions-of-mount-merapi-in-java-indonesia-lead-to-cancellation-of-flights-to-the-nearby-city-of-yogyakarta.md) _Context: Indonesia, Java, Mounts Merapi_
 4. [ Geologists increase the alert status of Mount Merapi volcano in central Java in Indonesia. The volcano has shown increased activity since last Friday. ](/news/2005/07/13/geologists-increase-the-alert-status-of-mount-merapi-volcano-in-central-java-in-indonesia-the-volcano-has-shown-increased-activity-since-l.md) _Context: Indonesia, Java, Mounts Merapi_
 5. [A landslide hits the Indonesian island of Java and leaves more than two dozen people missing. ](/news/2017/04/1/a-landslide-hits-the-indonesian-island-of-java-and-leaves-more-than-two-dozen-people-missing.md) _Context: Indonesia, Java_
+
+### Changes:
+
+1. [Indonesia: Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. ](/news/2010/10/25/indonesia-authorities-evacuate-40-000-people-in-java-due-to-fears-of-an-explosion-by-mount-merapi.md) _2017-08-27 03:30:46 (First version)_
+1. [Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. ](/news/2010/10/25/authorities-evacuate-40-000-people-in-java-due-to-fears-of-an-explosion-by-mount-merapi.md) _(Current version)_

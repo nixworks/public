@@ -16,3 +16,9 @@
 3. [ Pro and anti government protestors demonstrate in the Thai capital Bangkok and near the Preah Vihear Temple along the border with Cambodia. ](/news/2009/09/19/pro-and-anti-government-protestors-demonstrate-in-the-thai-capital-bangkok-and-near-the-preah-vihear-temple-along-the-border-with-cambodia.md) _Context: Bangkok, yellow shirt_
 4. [ Thirty thousand National United Front demonstrators assemble at Government House in Bangkok, Thailand. ](/news/2009/04/8/thirty-thousand-national-united-front-demonstrators-assemble-at-government-house-in-bangkok-thailand.md) _Context: Bangkok, Government House_
 5. [ People's Alliance for Democracy leader Sondhi Limthongkul is injured in an apparent assassination attempt in Bangkok, Thailand. ](/news/2009/04/17/people-s-alliance-for-democracy-leader-sondhi-limthongkul-is-injured-in-an-apparent-assassination-attempt-in-bangkok-thailand.md) _Context: Bangkok, yellow shirt_
+
+### Changes:
+
+1. [ Thai Political Crisis People's Alliance for Democracy marched to the Government House in Bangkok demand that the Prime Minister, Samak Sundaravej step down. ](/news/2008/06/20/thai-political-crisisp-people-s-alliance-for-democracy-marched-to-the-government-house-in-bangkok-demand-that-the-prime-minister-samak-sun.md) _2017-08-25 03:22:26 (First version)_
+2. [ Thai Political Crisis: People's Alliance for Democracy marched to the Government House in Bangkok demand that the Prime Minister, Samak Sundaravej step down. ](/news/2008/06/20/thai-political-crisis-people-s-alliance-for-democracy-marched-to-the-government-house-in-bangkok-demand-that-the-prime-minister-samak-sun.md) _2017-08-27 03:22:19 (Update)_
+2. [ People's Alliance for Democracy marched to the Government House in Bangkok demand that the Prime Minister, Samak Sundaravej step down. ](/news/2008/06/20/people-s-alliance-for-democracy-marched-to-the-government-house-in-bangkok-demand-that-the-prime-minister-samak-sundaravej-step-down.md) _(Current version)_

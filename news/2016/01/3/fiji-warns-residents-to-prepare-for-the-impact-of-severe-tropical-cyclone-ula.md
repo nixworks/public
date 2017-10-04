@@ -16,3 +16,8 @@
 3. [The death toll from Cyclone Winston in Fiji rises to 29. ](/news/2016/02/23/the-death-toll-from-cyclone-winston-in-fiji-rises-to-29.md) _Context: 2015-16 South Pacific cyclone season, Fiji_
 4. [The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. ](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.md) _Context: 2015-16 South Pacific cyclone season, Fiji_
 5. [At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-after-cyclone-winston-hits-fiji.md) _Context: 2015-16 South Pacific cyclone season, Fiji_
+
+### Changes:
+
+1. [2015-16 South Pacific cyclone season: Fiji warns residents to prepare for the impact of severe tropical cyclone Ula. ](/news/2016/01/3/2015-16-south-pacific-cyclone-season-fiji-warns-residents-to-prepare-for-the-impact-of-severe-tropical-cyclone-ula.md) _2017-08-27 03:44:34 (First version)_
+1. [Fiji warns residents to prepare for the impact of severe tropical cyclone Ula. ](/news/2016/01/3/fiji-warns-residents-to-prepare-for-the-impact-of-severe-tropical-cyclone-ula.md) _(Current version)_

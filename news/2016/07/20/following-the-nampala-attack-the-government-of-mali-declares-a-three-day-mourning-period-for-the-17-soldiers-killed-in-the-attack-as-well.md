@@ -17,3 +17,8 @@ MALI-VIOLENCE/ (URGENT):Mali declares 3-month state of emergency as Islamist vio
 3. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _Context: Mali, Northern Mali conflict_
 4. [Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md) _Context: Mali, Northern Mali conflict_
 5. [ Five United Nations peacekeepers are killed in an attack in central Mali. ](/news/2016/05/29/five-united-nations-peacekeepers-are-killed-in-an-attack-in-central-mali.md) _Context: Mali, Northern Mali conflict_
+
+### Changes:
+
+1. [Northern Mali conflict: Following the Nampala attack, the government of Mali declares a three-day mourning period for the 17 soldiers killed in the attack, as well as a state of emergency for three months across the country. ](/news/2016/07/20/northern-mali-conflict-following-the-nampala-attack-the-government-of-mali-declares-a-three-day-mourning-period-for-the-17-soldiers-killed.md) _2017-08-27 03:46:31 (First version)_
+1. [Following the Nampala attack, the government of Mali declares a three-day mourning period for the 17 soldiers killed in the attack, as well as a state of emergency for three months across the country. ](/news/2016/07/20/following-the-nampala-attack-the-government-of-mali-declares-a-three-day-mourning-period-for-the-17-soldiers-killed-in-the-attack-as-well.md) _(Current version)_

@@ -19,3 +19,8 @@ At least 717 people taking part in the Hajj pilgrimage have been killed in a sta
 3. [Saudi security forces shoot dead two alleged Islamic State of Iraq and the Levant militants while two others blew themselves up near Mecca, Saudi Arabia. ](/news/2016/05/5/saudi-security-forces-shoot-dead-two-alleged-islamic-state-of-iraq-and-the-levant-militants-while-two-others-blew-themselves-up-near-mecca.md) _Context: Mecca, Saudi Arabia_
 4. [Iran bans imports of all products made in Saudi Arabia and reiterates that the ban on Iranians traveling to the Saudi holy city of Mecca remains in place.](/news/2016/01/7/iran-bans-imports-of-all-products-made-in-saudi-arabia-and-reiterates-that-the-ban-on-iranians-traveling-to-the-saudi-holy-city-of-mecca-rem.md) _Context: Mecca, Saudi Arabia_
 5. [The death toll from the stampede near Mecca rises to 769, with 934 injuries. ](/news/2015/09/26/the-death-toll-from-the-stampede-near-mecca-rises-to-769-with-934-injuries.md) _Context: 2015 Hajj stampede, Mecca_
+
+### Changes:
+
+1. [2015 Hajj stampede: At least 719 people are dead and 863 people injured in a stampede near Mecca during the Hajj pilgrimage in Saudi Arabia. ](/news/2015/09/24/2015-hajj-stampede-at-least-719-people-are-dead-and-863-people-injured-in-a-stampede-near-mecca-during-the-hajj-pilgrimage-in-saudi-arabia.md) _2017-08-27 03:43:08 (First version)_
+1. [At least 719 people are dead and 863 people injured in a stampede near Mecca during the Hajj pilgrimage in Saudi Arabia. ](/news/2015/09/24/at-least-719-people-are-dead-and-863-people-injured-in-a-stampede-near-mecca-during-the-hajj-pilgrimage-in-saudi-arabia.md) _(Current version)_

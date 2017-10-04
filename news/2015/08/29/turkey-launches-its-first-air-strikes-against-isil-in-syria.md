@@ -17,3 +17,8 @@
 3. [ISIS claims responsibility for the deaths of two Syrian refugee activists who fled to Sanliurfa, Turkey, raising concerns about the group's reach in countries outside of Syria and Iraq. Ibrahim Abdel Qader, a founder of Raqqa Is Being Slaughtered Silently, and Fares Hammadi are said to have been killed by an acquaintance posing as a defector from ISIS. ](/news/2015/11/3/isis-claims-responsibility-for-the-deaths-of-two-syrian-refugee-activists-who-fled-to-sanliurfa-turkey-raising-concerns-about-the-groupa.md) _Context: ISIL, Syria, Turkey_
 4. [Thousands of Syrians flee into Turkey as Kurdish fighters come closer to capturing the border town of Tell Abyad from Islamic State in Iraq and the Levant. ](/news/2015/06/14/thousands-of-syrians-flee-into-turkey-as-kurdish-fighters-come-closer-to-capturing-the-border-town-of-tell-abyad-from-islamic-state-in-iraq.md) _Context: ISIL, Syria, Turkey_
 5. [Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units encircle the ISIL-held town of Suluk. ](/news/2015/06/13/some-13-000-refugees-have-crossed-into-turkey-as-syrian-kurd-people-s-protection-units-encircle-the-isil-held-town-of-suluk.md) _Context: ISIL, Syria, Turkey_
+
+### Changes:
+
+1. [Islamic State in Iraq and the Levant: Turkey launches its first air strikes against ISIL in Syria. ](/news/2015/08/29/islamic-state-in-iraq-and-the-levant-turkey-launches-its-first-air-strikes-against-isil-in-syria.md) _2017-08-27 03:42:55 (First version)_
+1. [Turkey launches its first air strikes against ISIL in Syria. ](/news/2015/08/29/turkey-launches-its-first-air-strikes-against-isil-in-syria.md) _(Current version)_

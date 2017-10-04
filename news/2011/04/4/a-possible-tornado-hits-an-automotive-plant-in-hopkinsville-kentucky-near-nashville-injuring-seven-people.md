@@ -22,3 +22,9 @@ Severe storms blowing across the Southeast killed at least five people in Georgi
 2. [Four people are shot, leaving three critically injured, when Earnest Moore, 39, a convicted murderer, who was described as the boyfriend of one of the victims, walked up to their SUV and opened fire in Nashville, Tennessee. ](/news/2013/06/14/four-people-are-shot-leaving-three-critically-injured-when-earnest-moore-39-a-convicted-murderer-who-was-described-as-the-boyfriend-of.md) _Context: Nashville_
 3. [A tornado in the US town of Reading, Kansas kills at least one person and destroys 20 homes. ](/news/2011/05/21/a-tornado-in-the-us-town-of-reading-kansas-kills-at-least-one-person-and-destroys-20-homes.md) _Context: tornado_
 4. [Rising floodwaters from the Cumberland River flood the Grand Ole Opry House with several feet of water, and cause evacuations in Nashville, Tennessee. ](/news/2010/05/4/rising-floodwaters-from-the-cumberland-river-flood-the-grand-ole-opry-house-with-several-feet-of-water-and-cause-evacuations-in-nashville.md) _Context: Nashville_
+
+### Changes:
+
+1. [U.S. tornado outbreak:A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/u-s-tornado-outbreak-pa-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _2017-08-25 03:32:44 (First version)_
+2. [U.S. tornado outbreak:: A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/u-s-tornado-outbreak-a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _2017-08-27 03:32:52 (Update)_
+2. [A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _(Current version)_

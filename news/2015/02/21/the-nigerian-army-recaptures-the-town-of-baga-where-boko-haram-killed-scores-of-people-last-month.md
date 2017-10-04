@@ -17,3 +17,8 @@ The Nigerian army says it has retaken the town of Baga, held by Boko Haram milit
 3. [The Nigerian Army claims to have rescued more than 800 hostages from Boko Haram while performing a "clearance operation" in the Northeastern part of Nigeria with fighting killing 22 insurgents. ](/news/2016/03/25/the-nigerian-army-claims-to-have-rescued-more-than-800-hostages-from-boko-haram-while-performing-a-clearance-operation-in-the-northeastern.md) _Context: Boko Haram, Nigerian Army_
 4. [Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md) _Context: Boko Haram, Nigerian Army_
 5. [2015 West African offensive: The Nigerian Army rescues a further 160 women and children from a Boko Haram camp in the Sambisa Forest. ](/news/2015/04/30/2015-west-african-offensive-the-nigerian-army-rescues-a-further-160-women-and-children-from-a-boko-haram-camp-in-the-sambisa-forest.md) _Context: Boko Haram, Nigerian Army_
+
+### Changes:
+
+1. [Boko Haram: The Nigerian Army recaptures the town of Baga where Boko Haram killed scores of people last month. ](/news/2015/02/21/boko-haram-the-nigerian-army-recaptures-the-town-of-baga-where-boko-haram-killed-scores-of-people-last-month.md) _2017-08-27 03:41:59 (First version)_
+1. [The Nigerian Army recaptures the town of Baga where Boko Haram killed scores of people last month. ](/news/2015/02/21/the-nigerian-army-recaptures-the-town-of-baga-where-boko-haram-killed-scores-of-people-last-month.md) _(Current version)_

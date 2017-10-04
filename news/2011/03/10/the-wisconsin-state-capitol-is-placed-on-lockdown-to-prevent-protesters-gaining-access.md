@@ -18,3 +18,9 @@ Assembly Minority Leader Peter Barca filed a complaint Thursday with the Dane Co
 2. [North Carolina A&T State University, a college in Greensboro, North Carolina, is put into lockdown in response to reports of a gunman on campus. No gunman is found in the resulting search. ](/news/2013/04/12/north-carolina-a-t-state-university-a-college-in-greensboro-north-carolina-is-put-into-lockdown-in-response-to-reports-of-a-gunman-on-cam.md) _Context: lockdown_
 3. [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-aflacio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-i.md) _Context: Wisconsin State Capitol_
 4. [ India's government locks down Srinagar, Kashmir, to prevent anti-election protests. ](/news/2009/04/29/india-s-government-locks-down-srinagar-kashmir-to-prevent-anti-election-protests.md) _Context: lockdown_
+
+### Changes:
+
+1. [2011 Wisconsin protests in USThe Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. ](/news/2011/03/10/2011-wisconsin-protests-in-uspthe-wisconsin-state-capitol-is-placed-on-lockdown-to-prevent-protesters-gaining-access.md) _2017-08-25 03:32:29 (First version)_
+2. [2011 Wisconsin protests in US: The Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. ](/news/2011/03/10/2011-wisconsin-protests-in-us-the-wisconsin-state-capitol-is-placed-on-lockdown-to-prevent-protesters-gaining-access.md) _2017-08-27 03:32:38 (Update)_
+2. [The Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. ](/news/2011/03/10/the-wisconsin-state-capitol-is-placed-on-lockdown-to-prevent-protesters-gaining-access.md) _(Current version)_

@@ -17,3 +17,8 @@ Hundreds of refugees fought each other on Sunday in a mass brawl at a Berlin she
 3. [Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. ](/news/2016/12/19/twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz-berlin-germany-a.md) _Context: Berlin_
 4. [The United Nations believes that at least 239 migrants drowned in shipwrecks near the coast of Libya. ](/news/2016/11/3/the-united-nations-believes-that-at-least-239-migrants-drowned-in-shipwrecks-near-the-coast-of-libya.md) _Context: European migration crisis_
 5. [ A group of German lawyers files a criminal complaint in Berlin against Syrian President Bashar al-Assad for alleged war crimes committed by his forces and foreign allies during the Syrian Civil War. ](/news/2016/11/28/a-group-of-german-lawyers-files-a-criminal-complaint-in-berlin-against-syrian-president-bashar-al-assad-for-alleged-war-crimes-committed-by.md) _Context: Berlin_
+
+### Changes:
+
+1. [European migration crisis: A mass brawl breaks out in a refugee shelter in Berlin with a hundred police required to restore order. ](/news/2015/11/29/european-migration-crisis-a-mass-brawl-breaks-out-in-a-refugee-shelter-in-berlin-with-a-hundred-police-required-to-restore-order.md) _2017-08-27 03:44:06 (First version)_
+1. [A mass brawl breaks out in a refugee shelter in Berlin with a hundred police required to restore order. ](/news/2015/11/29/a-mass-brawl-breaks-out-in-a-refugee-shelter-in-berlin-with-a-hundred-police-required-to-restore-order.md) _(Current version)_

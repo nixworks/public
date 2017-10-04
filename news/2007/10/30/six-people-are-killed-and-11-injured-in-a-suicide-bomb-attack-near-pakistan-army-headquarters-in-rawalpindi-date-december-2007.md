@@ -12,3 +12,8 @@
 3. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: Pakistan army_
 4. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: Pakistan army_
 5. [In response to yesterday's bombing at the Shrine of Lal Shahbaz Qalandar that killed 88 people, the Pakistan Army claims to have killed more than 100 terrorists and arrested many others. ](/news/2017/02/17/in-response-to-yesterday-s-bombing-at-the-shrine-of-lal-shahbaz-qalandar-that-killed-88-people-the-pakistan-army-claims-to-have-killed-more.md) _Context: Pakistan army_
+
+### Changes:
+
+1. [ Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.{{Fact|date=December 2007}} ](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suicide-bomb-attack-near-pakistan-army-headquarters-in-rawalpindi-fact-date-december-2007.md) _2017-05-01 03:22:09 (First version)_
+1. [ Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.date=December 2007 ](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suicide-bomb-attack-near-pakistan-army-headquarters-in-rawalpindi-date-december-2007.md) _(Current version)_

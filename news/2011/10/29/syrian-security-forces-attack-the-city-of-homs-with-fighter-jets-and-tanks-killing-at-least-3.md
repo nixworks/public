@@ -16,3 +16,9 @@
 3. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Homs_
 4. [ A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. ](/news/2016/04/12/a-russian-air-force-mi-28-attack-helicopter-crashes-near-the-syrian-city-of-homs-killing-two-pilots.md) _Context: Homs_
 5. [The al-Nusra Front, an al-Qaeda affiliate, assaults the Free Syrian Army's 13th Division in Maarrat al-Nu'man, killing seven FSA fighters with 40 captured. The Syrian Observatory for Human Rights says Nusra seized anti-tank missiles, armored vehicles, a tank, and other arms from the U.S.-backed division. ](/news/2016/03/13/the-al-nusra-front-an-al-qaeda-affiliate-assaults-the-free-syrian-army-s-13th-division-in-maarrat-al-nu-man-killing-seven-fsa-fighters-wi.md) _Context: tank_
+
+### Changes:
+
+1. [2011 Syrian uprising:Syrian security forces attack the city of Homs with fighter jets and tanks, killing at least 3. ](/news/2011/10/29/2011-syrian-uprising-psyrian-security-forces-attack-the-city-of-homs-with-fighter-jets-and-tanks-killing-at-least-3.md) _2017-08-25 03:34:24 (First version)_
+2. [2011 Syrian uprising:: Syrian security forces attack the city of Homs with fighter jets and tanks, killing at least 3. ](/news/2011/10/29/2011-syrian-uprising-syrian-security-forces-attack-the-city-of-homs-with-fighter-jets-and-tanks-killing-at-least-3.md) _2017-08-27 03:34:33 (Update)_
+2. [Syrian security forces attack the city of Homs with fighter jets and tanks, killing at least 3. ](/news/2011/10/29/syrian-security-forces-attack-the-city-of-homs-with-fighter-jets-and-tanks-killing-at-least-3.md) _(Current version)_

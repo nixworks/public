@@ -16,3 +16,9 @@
 3. [Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/two-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-province-in-eastern-afghani.md) _Context: Afghanistan, suicide bombing_
 4. [A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/a-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to-twenty-others.md) _Context: Afghanistan, suicide bombing_
 5. [War in Afghanistan: A suicide bombing in the eastern Afghan city of Khost kills three NATO soldiers and 16 Afghan police officers and civilians. ](/news/2012/10/1/war-in-afghanistan-a-suicide-bombing-in-the-eastern-afghan-city-of-khost-kills-three-nato-soldiers-and-16-afghan-police-officers-and-civili.md) _Context: Afghanistan, suicide bombing_
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001apresent-pa-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md) _2017-08-25 03:38:46 (First version)_
+2. [War in Afghanistan (2001-present):: A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001-present-a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md) _2017-08-27 03:38:59 (Update)_
+2. [A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md) _(Current version)_

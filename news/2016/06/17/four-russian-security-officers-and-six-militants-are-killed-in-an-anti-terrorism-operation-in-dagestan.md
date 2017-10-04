@@ -16,3 +16,8 @@
 3. [The Russian Federal Security Service claims to have killed Rustam Asildarov, the leader of the Islamic State of Iraq and the Levant's Caucasus Province and four other militants in the Dagestan region. ](/news/2016/12/4/the-russian-federal-security-service-claims-to-have-killed-rustam-asildarov-the-leader-of-the-islamic-state-of-iraq-and-the-levant-s-caucas.md) _Context: Dagestan, Insurgency in the North Caucasus_
 4. [At least eight unidentified militants and one security officer are killed in ongoing clashes in rural Dagestan, Russia. ](/news/2016/07/8/at-least-eight-unidentified-militants-and-one-security-officer-are-killed-in-ongoing-clashes-in-rural-dagestan-russia.md) _Context: Dagestan, Insurgency in the North Caucasus_
 5. [A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md) _Context: Dagestan, Insurgency in the North Caucasus_
+
+### Changes:
+
+1. [Insurgency in the North Caucasus: Four Russian security officers and six militants are killed in an anti-terrorism operation in Dagestan. ](/news/2016/06/17/insurgency-in-the-north-caucasus-four-russian-security-officers-and-six-militants-are-killed-in-an-anti-terrorism-operation-in-dagestan.md) _2017-08-27 03:46:17 (First version)_
+1. [Four Russian security officers and six militants are killed in an anti-terrorism operation in Dagestan. ](/news/2016/06/17/four-russian-security-officers-and-six-militants-are-killed-in-an-anti-terrorism-operation-in-dagestan.md) _(Current version)_

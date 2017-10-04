@@ -12,3 +12,8 @@
 3. [ Ten Army soldiers are killed and 22 others injured during combat with the Taliban in Swat, Pakistan. ](/news/2009/05/7/ten-army-soldiers-are-killed-and-22-others-injured-during-combat-with-the-taliban-in-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban_
 4. [ The Taliban captures Mingora, Swat, Pakistan. ](/news/2009/05/6/the-taliban-captures-mingora-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban_
 5. [ Pakistan's military captures Mingora, Swat, from the Taliban. ](/news/2009/05/30/pakistan-s-military-captures-mingora-swat-from-the-taliban.md) _Context: Pakistan, Swat, Pakistan, Taliban_
+
+### Changes:
+
+1. [ Taliban militants capture the Pakistani town of Madyan in Waziristan's Swat region and hoist their flags over buildings.{{Fact|date=December 2007}} ](/news/2007/11/7/taliban-militants-capture-the-pakistani-town-of-madyan-in-waziristan-s-swat-region-and-hoist-their-flags-over-buildings-fact-date-decembe.md) _2017-05-01 03:22:11 (First version)_
+1. [ Taliban militants capture the Pakistani town of Madyan in Waziristan's Swat region and hoist their flags over buildings.date=December 2007 ](/news/2007/11/7/taliban-militants-capture-the-pakistani-town-of-madyan-in-waziristan-s-swat-region-and-hoist-their-flags-over-buildings-date-december-2007.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [ A fire at a shooting range in Busan, South Korea, kills 10 people, including two Japanese tourists, and injures six others. ](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.md) _Context: Busan, South Korea_
 4. [ Five members of a single family die when they fall from a ferris wheel car at an amusement park outside of Busan, South Korea. ](/news/2007/08/13/five-members-of-a-single-family-die-when-they-fall-from-a-ferris-wheel-car-at-an-amusement-park-outside-of-busan-south-korea.md) _Context: Busan, South Korea_
 5. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: South Korea_
+
+### Changes:
+
+1. [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md) _2017-10-03 03:39:07 (First version)_
+1. [At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. ](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-karaoke-venue-in-busan-south-korea.md) _(Current version)_

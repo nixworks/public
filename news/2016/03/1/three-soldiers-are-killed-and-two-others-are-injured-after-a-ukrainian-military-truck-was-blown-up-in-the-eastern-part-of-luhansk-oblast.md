@@ -16,3 +16,8 @@
 3. [The Ukrainian military retakes control of the strategic village of Shyrokyne. ](/news/2016/02/25/the-ukrainian-military-retakes-control-of-the-strategic-village-of-shyrokyne.md) _Context: Ukrainian military, War in Donbass_
 4. [Four people are killed after a minibus hit a landmine near a Ukrainian military checkpoint in the Donetsk Oblast. ](/news/2016/02/10/four-people-are-killed-after-a-minibus-hit-a-landmine-near-a-ukrainian-military-checkpoint-in-the-donetsk-oblast.md) _Context: Ukrainian military, War in Donbass_
 5. [Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-ukraine-service-p.md) _Context: Ukrainian military, War in Donbass_
+
+### Changes:
+
+1. [War in Donbass: Three soldiers are killed and two others are injured after a Ukrainian military truck was blown up in the eastern part of Luhansk Oblast. ](/news/2016/03/1/war-in-donbass-three-soldiers-are-killed-and-two-others-are-injured-after-a-ukrainian-military-truck-was-blown-up-in-the-eastern-part-of-lu.md) _2017-08-27 03:45:05 (First version)_
+1. [Three soldiers are killed and two others are injured after a Ukrainian military truck was blown up in the eastern part of Luhansk Oblast. ](/news/2016/03/1/three-soldiers-are-killed-and-two-others-are-injured-after-a-ukrainian-military-truck-was-blown-up-in-the-eastern-part-of-luhansk-oblast.md) _(Current version)_

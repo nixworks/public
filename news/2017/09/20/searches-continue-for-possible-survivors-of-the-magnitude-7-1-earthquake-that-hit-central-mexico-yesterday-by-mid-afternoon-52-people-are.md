@@ -18,3 +18,9 @@ A powerful earthquake shook central Mexico on Tuesday, killing at least two peop
 3. [ A 6.0 magnitude earthquake centred in the Sea of Cortez shakes western Mexico. ](/news/2009/07/3/a-6-0-magnitude-earthquake-centred-in-the-sea-of-cortez-shakes-western-mexico.md) _Context: Mexico, earthquake_
 4. [ An earthquake of Richter scale 6.5 magnitude strikes the Pacific coasts of Guatemala and Mexico. ](/news/2008/10/16/an-earthquake-of-richter-scale-6-5-magnitude-strikes-the-pacific-coasts-of-guatemala-and-mexico.md) _Context: Mexico, earthquake_
 5. [ A 5.4 M w earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-m-w-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md) _Context: Mexico, earthquake_
+
+### Changes:
+
+1. [Searches continue for possible survivors of the 7.1 magnitude earthquake that hit central Mexico yesterday. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-7-1-magnitude-earthquake-that-hit-central-mexico-yesterday.md) _2017-09-20 20:30:05 (First version)_
+2. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday.md) _2017-09-20 22:30:05 (Update)_
+2. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued while at least 226 people have been killed and another 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md) _(Current version)_

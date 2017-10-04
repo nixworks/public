@@ -18,3 +18,8 @@ Hong Kong police began to clear a small pro-democracy protest site in Causeway B
 3. [C. Y. Leung, the Chief Executive of Hong Kong, warns pro-democracy activists not to return to the streets after yesterday's clashes. ](/news/2014/12/2/c-y-leung-the-chief-executive-of-hong-kong-warns-pro-democracy-activists-not-to-return-to-the-streets-after-yesterday-s-clashes.md) _Context: 2014 pro-democracy street protests_
 4. [Authorities start clearing the main protest site in Hong Kong following a recent court order for protesters to vacate the site in Admiralty area. ](/news/2014/12/11/authorities-start-clearing-the-main-protest-site-in-hong-kong-following-a-recent-court-order-for-protesters-to-vacate-the-site-in-admiralty.md) _Context: 2014 pro-democracy street protests_
 5. [Pro-democracy demonstrators and the Hong Kong Police Force clash outside the headquarters of the Government of Hong Kong. Dozens of people are arrested. ](/news/2014/12/1/pro-democracy-demonstrators-and-the-hong-kong-police-force-clash-outside-the-headquarters-of-the-government-of-hong-kong-dozens-of-people-a.md) _Context: 2014 pro-democracy street protests_
+
+### Changes:
+
+1. [2014 Hong Kong protests: Authorities remove the last remaining protest camp, the one at Causeway Bay, Hong Kong. ](/news/2014/12/15/2014-hong-kong-protests-authorities-remove-the-last-remaining-protest-camp-the-one-at-causeway-bay-hong-kong.md) _2017-08-27 03:41:38 (First version)_
+1. [Authorities remove the last remaining protest camp, the one at Causeway Bay, Hong Kong. ](/news/2014/12/15/authorities-remove-the-last-remaining-protest-camp-the-one-at-causeway-bay-hong-kong.md) _(Current version)_

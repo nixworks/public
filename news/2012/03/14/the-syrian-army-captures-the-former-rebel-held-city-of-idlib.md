@@ -17,3 +17,9 @@
 3. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Army_
 4. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Syrian Army_
 5. [Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carry-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing-a.md) _Context: Idlib_
+
+### Changes:
+
+1. [2011-2012 Syrian uprising:The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/2011-2012-syrian-uprising-pthe-syrian-army-captures-the-former-rebel-held-city-of-idlib.md) _2017-08-25 03:35:17 (First version)_
+2. [2011-2012 Syrian uprising:: The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/2011-2012-syrian-uprising-the-syrian-army-captures-the-former-rebel-held-city-of-idlib.md) _2017-08-27 03:35:26 (Update)_
+2. [The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/the-syrian-army-captures-the-former-rebel-held-city-of-idlib.md) _(Current version)_

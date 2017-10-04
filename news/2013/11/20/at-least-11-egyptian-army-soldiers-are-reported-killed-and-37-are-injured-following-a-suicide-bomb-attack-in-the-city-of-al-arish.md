@@ -18,3 +18,9 @@ Eleven Egyptian military personnel are killed and dozens more wounded in a car b
 3. [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _Context: Egyptian Army_
 4. [At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md) _Context: Egyptian Army_
 5. [Indonesian police kill three people in a gunfight south of Jakarta after a bomb is found. Fourteen people are arrested in connection to alleged involvement in plans for suicide bomb attacks. ](/news/2016/12/21/indonesian-police-kill-three-people-in-a-gunfight-south-of-jakarta-after-a-bomb-is-found-fourteen-people-are-arrested-in-connection-to-alle.md) _Context: suicide bomb_
+
+### Changes:
+
+1. [Sinai insurgency:At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/sinai-insurgency-pat-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of-a.md) _2017-08-25 03:39:33 (First version)_
+2. [Sinai insurgency:: At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/sinai-insurgency-at-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of.md) _2017-08-27 03:39:51 (Update)_
+2. [At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/at-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of-al-arish.md) _(Current version)_

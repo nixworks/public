@@ -17,3 +17,8 @@ A senior officer of the Afghan Supreme Court is among those killed in the spate 
 3. [A Kabul roadside bomb kills at least four Afghan National Security Force soldiers with six other soldiers and six civilians injured. ](/news/2014/10/21/a-kabul-roadside-bomb-kills-at-least-four-afghan-national-security-force-soldiers-with-six-other-soldiers-and-six-civilians-injured.md) _Context: Kabul, Taliban insurgency_
 4. [Taliban suicide bombers attack an Afghan National Army convoy in Kabul, killing at least 7 people and injuring 19. ](/news/2014/10/1/taliban-suicide-bombers-attack-an-afghan-national-army-convoy-in-kabul-killing-at-least-7-people-and-injuring-19.md) _Context: Kabul, Taliban insurgency_
 5. [A suicide bomber attacks an Afghan National Army air force bus in Kabul killing at least five people. ](/news/2014/07/2/a-suicide-bomber-attacks-an-afghan-national-army-air-force-bus-in-kabul-killing-at-least-five-people.md) _Context: Kabul, Taliban insurgency_
+
+### Changes:
+
+1. [Taliban insurgency: Gunmen assassinate Atiqullah Rawoofi, the head of the Secretariat of the Supreme Court of Afghanistan, in the outskirts of Kabul. ](/news/2014/12/13/taliban-insurgency-gunmen-assassinate-atiqullah-rawoofi-the-head-of-the-secretariat-of-the-supreme-court-of-afghanistan-in-the-outskirts.md) _2017-08-27 03:41:37 (First version)_
+1. [Gunmen assassinate Atiqullah Rawoofi, the head of the Secretariat of the Supreme Court of Afghanistan, in the outskirts of Kabul. ](/news/2014/12/13/gunmen-assassinate-atiqullah-rawoofi-the-head-of-the-secretariat-of-the-supreme-court-of-afghanistan-in-the-outskirts-of-kabul.md) _(Current version)_

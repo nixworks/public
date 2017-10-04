@@ -16,3 +16,8 @@
 3. [After Swedish police arrest a suspect on drug-related charges, rioting occurs in Rinkeby, a suburb of the Swedish capital Stockholm. ](/news/2017/02/21/after-swedish-police-arrest-a-suspect-on-drug-related-charges-rioting-occurs-in-rinkeby-a-suburb-of-the-swedish-capital-stockholm.md) _Context: Stockholm_
 4. [Ukraine's Jamala, performing the song "1944", wins the 2016 Eurovision Song Contest in Stockholm, Sweden. ](/news/2016/05/14/ukraine-s-jamala-performing-the-song-1944-wins-the-2016-eurovision-song-contest-in-stockholm-sweden.md) _Context: Stockholm_
 5. [Romania is expelled from this year's Eurovision Song Contest in Stockholm, Sweden, after its national broadcaster, Romanian Television (TVR) failed to pay outstanding debts dating back to 2007. Ovidiu Anton was due to perform the song "Moment of Silence" at the contest. ](/news/2016/04/22/romania-is-expelled-from-this-year-s-eurovision-song-contest-in-stockholm-sweden-after-its-national-broadcaster-romanian-television-tvr.md) _Context: Stockholm_
+
+### Changes:
+
+1. [ The last leg of the 2008-09 Volvo Ocean Race gets underway in Stockholm. ](/news/2009/06/25/the-last-leg-of-the-2008-09-volvo-ocean-race-gets-underway-in-stockholm.md) _2017-08-27 03:24:49 (First version)_
+1. [ The last leg of the 2008-09 Volvo Ocean Race gets underway in Stockholm. ](/news/2009/06/25/the-last-leg-of-the-2008a09-volvo-ocean-race-gets-underway-in-stockholm.md) _(Current version)_

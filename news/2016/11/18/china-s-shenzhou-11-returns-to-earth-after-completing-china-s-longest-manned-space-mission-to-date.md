@@ -17,3 +17,8 @@ China&#x27;s Shenzhou 11 space capsule landed safely in the northern region of I
 3. [ China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: China_
 4. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_
 5. [Researchers at the Breakthrough Listen initiative announce they have detected 15 new powerful fast radio bursts (FRB) from FRB 121102, located in a dwarf galaxy about three billion light-years from Earth. FRB 121102 was first detected in 2012, and gained further attention after FRBs were detected from there again in 2015. ](/news/2017/08/30/researchers-at-the-breakthrough-listen-initiative-announce-they-have-detected-15-new-powerful-fast-radio-bursts-frb-from-frb-121102-locat.md) _Context: Earth_
+
+### Changes:
+
+1. [Shenzhou program: China's Shenzhou 11 returns to Earth after completing China's longest manned space mission to date. ](/news/2016/11/18/shenzhou-program-china-s-shenzhou-11-returns-to-earth-after-completing-china-s-longest-manned-space-mission-to-date.md) _2017-08-27 03:47:15 (First version)_
+1. [China's Shenzhou 11 returns to Earth after completing China's longest manned space mission to date. ](/news/2016/11/18/china-s-shenzhou-11-returns-to-earth-after-completing-china-s-longest-manned-space-mission-to-date.md) _(Current version)_

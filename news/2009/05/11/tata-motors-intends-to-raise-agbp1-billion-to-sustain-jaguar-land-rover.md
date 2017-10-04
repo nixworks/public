@@ -17,3 +17,8 @@ Tata group-owned Jaguar Land Rover (JLR) is planning to raise up to &pound;1 bil
 3. [The pound sterling sustains a flash crash, dropping from an exchange rate of $1.23 per pound to $1.13 in a few minutes of trading today, then gaining much of it back. Observers blame this development on algorithmic trading. ](/news/2016/10/7/the-pound-sterling-sustains-a-flash-crash-dropping-from-an-exchange-rate-of-1-23-per-pound-to-1-13-in-a-few-minutes-of-trading-today-the.md) _Context: GBP_
 4. [Following the Brexit vote and the subsequent drop in the exchange rate of the British pound to U.S. dollar, the FTSE 100 Index reaches an all-time intra-day high of 7,129. ](/news/2016/10/11/following-the-brexit-vote-and-the-subsequent-drop-in-the-exchange-rate-of-the-british-pound-to-u-s-dollar-the-ftse-100-index-reaches-an-al.md) _Context: GBP_
 5. [The Lesedi La Rona diamond, the largest uncut diamond in the world, went on sale at an auction in Mayfair with it expected to sell at GBP52 million, or US$70 million. However, the diamond only managed to draw a high bid of US$61 million, falling short of the reserve price to sell it. ](/news/2016/06/29/the-lesedi-la-rona-diamond-the-largest-uncut-diamond-in-the-world-went-on-sale-at-an-auction-in-mayfair-with-it-expected-to-sell-at-agbp52.md) _Context: GBP_
+
+### Changes:
+
+1. [ Tata Motors intends to raise PS1 billion to sustain Jaguar Land Rover. ](/news/2009/05/11/tata-motors-intends-to-raise-aps1-billion-to-sustain-jaguar-land-rover.md) _2017-08-25 03:24:32 (First version)_
+1. [ Tata Motors intends to raise GBP1 billion to sustain Jaguar Land Rover. ](/news/2009/05/11/tata-motors-intends-to-raise-agbp1-billion-to-sustain-jaguar-land-rover.md) _(Current version)_

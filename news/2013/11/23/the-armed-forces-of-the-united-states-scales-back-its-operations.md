@@ -16,3 +16,9 @@ The U.S. military has began scaling back its emergency relief operations in the 
 2. [A four-year-old Afghan boy is killed by U.S. troops. ](/news/2014/01/11/a-four-year-old-afghan-boy-is-killed-by-u-s-troops.md) _Context: military_
 3. [For an undisclosed price, Google acquires the robot-making company Boston Dynamics which had previously been contracted by the U.S. military. ](/news/2013/12/16/for-an-undisclosed-price-google-acquires-the-robot-making-company-boston-dynamics-which-had-previously-been-contracted-by-the-u-s-military.md) _Context: military_
 4. [ United States armed forces raid the office of the Iranian Consulate General in Arbil, a city in Iraqi Kurdistan. ](/news/2007/01/12/united-states-armed-forces-raid-the-office-of-the-iranian-consulate-general-in-arbil-a-city-in-iraqi-kurdistan.md) _Context: military_
+
+### Changes:
+
+1. [Typhoon Haiyan:The Armed Forces of the United States scales back its operations. ](/news/2013/11/23/typhoon-haiyan-pthe-armed-forces-of-the-united-states-scales-back-its-operations.md) _2017-08-25 03:39:34 (First version)_
+2. [Typhoon Haiyan:: The Armed Forces of the United States scales back its operations. ](/news/2013/11/23/typhoon-haiyan-the-armed-forces-of-the-united-states-scales-back-its-operations.md) _2017-08-27 03:39:52 (Update)_
+2. [The Armed Forces of the United States scales back its operations. ](/news/2013/11/23/the-armed-forces-of-the-united-states-scales-back-its-operations.md) _(Current version)_

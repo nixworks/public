@@ -25,7 +25,7 @@ _Context: Embassy of the United States in Athens, fire an anti-tank missile_
 _Context: Islamic Courts Union, Ras Kamboni, capture_
 
 ### [ An Argentinian judge issues an arrest warrant for former president Isabel Martinez de Peron, implicated in the disappearance of a human-rights activist in 1976. Peron has been living in Spain since 1981. ](/news/2007/01/12/an-argentinian-judge-issues-an-arrest-warrant-for-former-president-isabel-martanez-de-pera3n-implicated-in-the-disappearance-of-a-human-r.md)
-_Context: 1976, 1981, Argentina, Isabel Martinez de Peron, Spain_
+_Context: 1976, 1981, Argentina, Isabel Martinez de Peron, Spanish_
 
 ### [ ""Casino Royale"" and ""The Queen"" lead this year's BAFTA film award nominations. ](/news/2007/01/12/casino-royale-and-the-queen-lead-this-year-s-bafta-film-award-nominations.md)
 _Context: ''Casino Royale'', BAFTA, The Queen_

@@ -16,10 +16,10 @@ _Context: CCIA, EU, Microsoft, Novell, USD, antitrust_
 _Context: Pitcairn Island, Pitcairn sexual assault trial of 2004, Steve Christian_
 
 ### [ The United States dollar falls to a record low of $1.2985 against the euro. ](/news/2004/11/7/the-united-states-dollar-falls-to-a-record-low-of-1-2985-against-the-euro.md)
-_Context: EUR, US$_
+_Context: $, EUR_
 
 ### [ China confirms that two Hong Kong officials have been convicted and jailed for spying for the United Kingdom. ](/news/2004/11/7/china-confirms-that-two-hong-kong-officials-have-been-convicted-and-jailed-for-spying-for-the-united-kingdom.md)
-_Context: Hong Kong, espionage_
+_Context: Hong Kong, spy_
 
 ### [ Intelligence services intercept FARC guerrilla communications calling all units to focus on assassinating Colombian President lvaro Uribe. ](/news/2004/11/7/intelligence-services-intercept-farc-guerrilla-communications-calling-all-units-to-focus-on-assassinating-colombian-president-alvaro-uribe.md)
 _Context: Alvaro Uribe, Revolutionary Armed Forces of Colombia, guerillas_

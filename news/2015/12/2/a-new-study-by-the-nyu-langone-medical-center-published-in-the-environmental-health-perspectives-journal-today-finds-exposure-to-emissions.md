@@ -14,3 +14,8 @@ NEW YORK, Dec. 2, 2015 /PRNewswire-USNewswire/ --&amp;#160;Not all air pollution
 ### Related:
 
 1. [The same day the U.S. Drug Enforcement Administration announces it is easing restrictions on medical research involving cannabidiol (CBD), a key component in marijuana, NYU Langone Medical Center researchers report a clinical trial suggests a pill containing CBD may reduce seizures for children and young adults with epilepsy. ](/news/2015/12/24/the-same-day-the-u-s-drug-enforcement-administration-announces-it-is-easing-restrictions-on-medical-research-involving-cannabidiol-cbd-a.md) _Context: NYU Langone Medical Center_
+
+### Changes:
+
+1. [A new study by the NYU Langone Medical Center published in the ''Environmental Health Perspectives'' journal today finds exposure to emissions from coal-fired power plants over a long period of time is significantly more harmful, five times higher, to the heart than other forms of carbon pollution. ](/news/2015/12/2/a-new-study-by-the-nyu-langone-medical-center-published-in-the-environmental-health-perspectives-journal-today-finds-exposure-to-emissio.md) _2017-08-25 03:43:49 (First version)_
+1. [A new study by the NYU Langone Medical Center published in the "Environmental Health Perspectives" journal today finds exposure to emissions from coal-fired power plants over a long period of time is significantly more harmful, five times higher, to the heart than other forms of carbon pollution. ](/news/2015/12/2/a-new-study-by-the-nyu-langone-medical-center-published-in-the-environmental-health-perspectives-journal-today-finds-exposure-to-emissions.md) _(Current version)_

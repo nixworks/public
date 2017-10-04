@@ -1,7 +1,7 @@
 ## [2008-11-19](/news/2008/11/19/index.md)
 
 ### [ The International Monetary Fund approves a US$2.1 billion rescue package for Iceland following its financial crisis. ](/news/2008/11/19/the-international-monetary-fund-approves-a-us-2-1-billion-rescue-package-for-iceland-following-its-financial-crisis.md)
-_Context: 2008 economic meltdown, Iceland, International Monetary Fund, US$_
+_Context: $, 2008 economic meltdown, Iceland, International Monetary Fund_
 
 ### [ The Supreme Court of California agrees to hear a challenge to Proposition 8, which banned same-sex marriage in the state ](/news/2008/11/19/the-supreme-court-of-california-agrees-to-hear-a-challenge-to-proposition-8-which-banned-same-sex-marriage-in-the-state.md)
 The California Supreme Court voted 6 to 1 on Wednesday to review legal challenges to Proposition 8, the voter initiative that restored a ban on same-sex marriage, but refused to permit gay weddings...
@@ -22,7 +22,7 @@ Australian and New Zealand researchers have used ancient DNA to identify a previ
 _Context: Anand Satyanand, Governor-General, John Key, New Zealand, Prime Minister, sworn in_
 
 ### [ The first successful trachea transplant using a tissue-engineered organ is performed in Spain. ](/news/2008/11/19/the-first-successful-trachea-transplant-using-a-tissue-engineered-organ-is-performed-in-spain.md)
-_Context: Spain, tissue-engineered organ, trachea, transplant_
+_Context: Spanish, tissue-engineered organ, trachea, transplant_
 
 ### [ NASA successfully tests the first deep-space communications protocol to pave the way for Interplanetary Internet. ](/news/2008/11/19/nasa-successfully-tests-the-first-deep-space-communications-protocol-to-pave-the-way-for-interplanetary-internet.md)
 _Context: Interplanetary Internet, NASA, communications protocol, space_

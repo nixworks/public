@@ -17,3 +17,8 @@
 3. [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md) _Context: Bangladesh_
 4. [At least 14 Rohingya people, including 10 children, fleeing violence in Myanmar are killed when their boat apparently hits a submerged object and capsizes just yards from the Bangladesh coast. ](/news/2017/09/28/at-least-14-rohingya-people-including-10-children-fleeing-violence-in-myanmar-are-killed-when-their-boat-apparently-hits-a-submerged-objec.md) _Context: Bangladesh_
 5. [Bangladesh announces plans to build a giant refugee camp the size of a small city to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-a-giant-refugee-camp-the-size-of-a-small-city-to-house-nearly-400-000-rohingya-refugees.md) _Context: Bangladesh_
+
+### Changes:
+
+1. [2017 North Indian Ocean cyclone season: More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/2017-north-indian-ocean-cyclone-season-more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _2017-08-27 03:48:24 (First version)_
+1. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _(Current version)_

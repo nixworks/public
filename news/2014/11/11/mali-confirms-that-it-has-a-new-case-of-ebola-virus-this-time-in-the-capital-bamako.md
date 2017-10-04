@@ -16,3 +16,8 @@
 3. [Gunmen attack a European Union military training operation housed in a converted hotel in the Mali capital, Bamako. There are no casualties among the mission personnel. One suspect is killed and two are arrested. No group has claimed responsibility. ](/news/2016/03/21/gunmen-attack-a-european-union-military-training-operation-housed-in-a-converted-hotel-in-the-mali-capital-bamako-there-are-no-casualties.md) _Context: Bamako, Mali_
 4. [The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md) _Context: Ebola virus epidemic in West Africa, ebola virus_
 5. [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _Context: Ebola virus epidemic in West Africa, ebola virus_
+
+### Changes:
+
+1. [Ebola virus epidemic in West Africa: Mali confirms that it has a new case of Ebola virus, this time in the capital Bamako. ](/news/2014/11/11/ebola-virus-epidemic-in-west-africa-mali-confirms-that-it-has-a-new-case-of-ebola-virus-this-time-in-the-capital-bamako.md) _2017-08-27 03:41:29 (First version)_
+1. [Mali confirms that it has a new case of Ebola virus, this time in the capital Bamako. ](/news/2014/11/11/mali-confirms-that-it-has-a-new-case-of-ebola-virus-this-time-in-the-capital-bamako.md) _(Current version)_

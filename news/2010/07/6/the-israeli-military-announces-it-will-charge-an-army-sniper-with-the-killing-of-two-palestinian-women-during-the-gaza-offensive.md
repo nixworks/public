@@ -28,3 +28,9 @@ Army to press charges of manslaughter over deaths of Palestinian women during wa
 3. [Israel arrests Palestinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palestinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md) _Context: State of Palestine_
 4. [The Gaza Strip's sole power plant is shut down due to running out of fuel, amid unpaid bills and a dispute over tax bills on fuel imports to the blockaded Palestinian territory. ](/news/2017/04/16/the-gaza-strip-s-sole-power-plant-is-shut-down-due-to-running-out-of-fuel-amid-unpaid-bills-and-a-dispute-over-tax-bills-on-fuel-imports-to.md) _Context: State of Palestine_
 5. [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md) _Context: Africa_
+
+### Changes:
+
+1. [Middle East and The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/middle-east-and-the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-gaza-offen.md) _2017-08-25 03:28:36 (First version)_
+2. [Middle East and Africa: The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/middle-east-and-africa-the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-ga.md) _2017-08-27 03:28:36 (Update)_
+2. [The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-gaza-offensive.md) _(Current version)_

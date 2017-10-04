@@ -31,7 +31,7 @@ _Context: United States Congress_
 _Context: Yukos_
 
 ### [ The U.S. U.S. Congress raises the national debt ceiling by USD 800 billion to a total of USD 8.18 trillion. This makes the new borrowing cap 30% higher than the debt Bush inherited, and 70% of the size of the U.S. economy. ](/news/2004/11/19/the-u-s-u-s-congress-raises-the-national-debt-ceiling-by-usd-800-billion-to-a-total-of-usd-8-18-trillion-this-makes-the-new-borrowing-ca.md)
-_Context: Congressman, US$, national debt_
+_Context: $, Congressman, national debt_
 
 ### [ In Auburn Hills, Michigan, members of the NBA Indiana Pacers and Detroit Pistons engage in a brawl involving players and spectators. Ron Artest of the Pacers initiated the conflict with fans when he entered the crowd at The Palace of Auburn Hills after a fan threw a cup of beer at him. The game was postponed with 45 seconds remaining. Artest was suspended for the rest of the season, while several members of both teams were suspended by the league for their involvement. Pacers-Pistons brawl](/news/2004/11/19/in-auburn-hills-michigan-members-of-the-nba-indiana-pacers-and-detroit-pistons-engage-in-a-brawl-involving-players-and-spectators-ron-ar.md)
 _Context: Auburn Hills, Michigan, Detroit Pistons, Indiana Pacers, NBA, Ron Artest, The Palace of Auburn Hills_

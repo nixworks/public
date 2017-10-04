@@ -10,7 +10,7 @@ _Context: Afghanistan, Canadian Armed Forces, Canadian House of Commons, militar
 A Chaldean Catholic archbishop who was kidnapped in Iraq last month was found dead on Thursday, his body half-buried in an empty lot in the northern city of Mosul, police said.
 
 ### [ The price of gold reaches $1000 per troy ounce for the first time. ](/news/2008/03/13/the-price-of-gold-reaches-1000-per-troy-ounce-for-the-first-time.md)
-_Context: Gold prices, US$, gold, troy ounce_
+_Context: $, Gold prices, gold, troy ounce_
 
 ### [ Serbian President Boris Tadic disbands parliament and calls an early general election for May 11. ](/news/2008/03/13/serbian-president-boris-tadia-disbands-parliament-and-calls-an-early-general-election-for-may-11.md)
 _Context: Boris Tadic, May 11, President, Serbia, parliament, parliamentary election_

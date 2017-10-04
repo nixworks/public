@@ -17,3 +17,8 @@ British woman who is a member of the No Borders activist group, which French off
 3. [France clears the Calais Jungle, relocating six thousand migrants. ](/news/2016/10/24/france-clears-the-calais-jungle-relocating-six-thousand-migrants.md) _Context: Calais Jungle_
 4. [Syrian child refugees previously settled in the Calais jungle legally immigrate into England. ](/news/2016/10/15/syrian-child-refugees-previously-settled-in-the-calais-jungle-legally-immigrate-into-england.md) _Context: Calais Jungle_
 5. [Eurostar services between Paris and London are delayed by hundreds of migrants trying to board the trains at Calais. ](/news/2015/09/1/eurostar-services-between-paris-and-london-are-delayed-by-hundreds-of-migrants-trying-to-board-the-trains-at-calais.md) _Context: Calais_
+
+### Changes:
+
+1. [Calais migrant crisis: Clashes break out inside the Calais jungle camp in the port city of Calais between migrants and riot police as officials attempted to evict hundreds of migrants from the southern section of the camp. Several tents and wooden shacks were set on fire by migrants. ](/news/2016/02/29/calais-migrant-crisis-clashes-break-out-inside-the-calais-jungle-camp-in-the-port-city-of-calais-between-migrants-and-riot-police-as-offici.md) _2017-08-27 03:45:04 (First version)_
+1. [Clashes break out inside the Calais jungle camp in the port city of Calais between migrants and riot police as officials attempted to evict hundreds of migrants from the southern section of the camp. Several tents and wooden shacks were set on fire by migrants. ](/news/2016/02/29/clashes-break-out-inside-the-calais-jungle-camp-in-the-port-city-of-calais-between-migrants-and-riot-police-as-officials-attempted-to-evict.md) _(Current version)_

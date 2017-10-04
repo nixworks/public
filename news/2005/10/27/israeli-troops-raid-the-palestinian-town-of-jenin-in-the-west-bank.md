@@ -18,3 +18,9 @@
 3. [ A leader of Islamic Jihad is killed in a shoot-out following an Israeli raid into the West Bank town of Jenin. ](/news/2005/10/16/a-leader-of-islamic-jihad-is-killed-in-a-shoot-out-following-an-israeli-raid-into-the-west-bank-town-of-jenin.md) _Context: Israel, Jenin, West Bank_
 4. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Israel, West Bank_
 5. [Israel passes the Regulation Law which retroactively legalizes 4,000 housing units in 16 settlements on Area C West Bank occupied Palestinian territories. ](/news/2017/02/6/israel-passes-the-regulation-law-which-retroactively-legalizes-4-000-housing-units-in-16-settlements-on-area-c-west-bank-occupied-palestinia.md) _Context: Israel, West Bank_
+
+### Changes:
+
+1. [ Israeli-Palestinian Conflict: Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-palestinian-conflict-p-israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md) _2017-08-25 03:17:02 (First version)_
+2. [ Israeli-Palestinian Conflict:: Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-palestinian-conflict-israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md) _2017-08-27 03:17:01 (Update)_
+2. [ Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md) _(Current version)_

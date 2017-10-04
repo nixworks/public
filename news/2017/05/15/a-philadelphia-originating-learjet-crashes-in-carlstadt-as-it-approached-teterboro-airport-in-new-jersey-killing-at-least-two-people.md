@@ -16,3 +16,9 @@
 3. [Newark Liberty International Airport in northern New Jersey is closed for almost two hours after flames are spotted coming from a United Airlines Boeing 757 jet engine. All 124 passengers and seven crew members safely evacuate the plane. ](/news/2017/05/23/newark-liberty-international-airport-in-northern-new-jersey-is-closed-for-almost-two-hours-after-flames-are-spotted-coming-from-a-united-air.md) _Context: New Jersey_
 4. [A commuter train accident at the Hoboken Terminal in New Jersey leaves one woman dead and 114 others injured. Major structural damage occurs to the station with portions of the roof collapsed. ](/news/2016/09/29/a-commuter-train-accident-at-the-hoboken-terminal-in-new-jersey-leaves-one-woman-dead-and-114-others-injured-major-structural-damage-occurs.md) _Context: New Jersey_
 5. [A man in Philadelphia firebombs a man's car, referring to the injured burned man as being Muslim. ](/news/2016/09/22/a-man-in-philadelphia-firebombs-a-man-s-car-referring-to-the-injured-burned-man-as-being-muslim.md) _Context: Philadelphia_
+
+### Changes:
+
+1. [A Learjet crash as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-learjet-crash-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md) _2017-05-15 21:30:06 (First version)_
+2. [A Philadelphia-originating Learjet crash in Carlstadt as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crash-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md) _2017-05-16 03:52:51 (Update)_
+2. [A Philadelphia-originating Learjet crashes in Carlstadt as it approached Teterboro Airport in New Jersey, killing at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-killing-at-least-two-people.md) _(Current version)_

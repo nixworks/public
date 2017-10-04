@@ -12,3 +12,8 @@
 3. [Voters in Croatia go to the polls for a parliamentary election with the conservative Croatian Democratic Union taking an early lead. ](/news/2016/09/11/voters-in-croatia-go-to-the-polls-for-a-parliamentary-election-with-the-conservative-croatian-democratic-union-taking-an-early-lead.md) _Context: Croatia_
 4. [Croatian MPs vote to dissolve the Parliament, setting the stage for snap election, which are expected to take place in early September. This comes as Croatia is facing an escalating political crisis following the last election in November 2015. ](/news/2016/06/20/croatian-mps-vote-to-dissolve-the-parliament-setting-the-stage-for-snap-election-which-are-expected-to-take-place-in-early-september-this.md) _Context: Croatia_
 5. [The International Criminal Tribunal for the former Yugoslavia, in a majority vote, ordered an "indefinite" halt in the war crimes trial of Croatian Serb rebel leader Goran Hadzic, who is terminally ill with brain cancer and declared "unfit to stand trial." Hadzic was charged with 14 war crimes and crimes against humanity for his role in the 1991-95 war in Croatia. ](/news/2016/04/6/the-international-criminal-tribunal-for-the-former-yugoslavia-in-a-majority-vote-ordered-an-indefinite-halt-in-the-war-crimes-trial-of-c.md) _Context: Croatia_
+
+### Changes:
+
+1. [ Croatia beats Italy 2-1 at the 2002 FIFA World Cup.](/news/2002/06/8/croatia-beats-italy-2-1-at-the-2002-fifa-world-cup.md) _2017-08-27 03:15:13 (First version)_
+1. [ Croatia beats Italy 2-1 at the 2002 FIFA World Cup.](/news/2002/06/8/croatia-beats-italy-2a1-at-the-2002-fifa-world-cup.md) _(Current version)_

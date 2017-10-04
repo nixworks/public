@@ -16,3 +16,8 @@
 3. [The Trump administration releases a new memo that sets the policy for the deportation of undocumented migrants accused of any crime. ](/news/2017/02/21/the-trump-administration-releases-a-new-memo-that-sets-the-policy-for-the-deportation-of-undocumented-migrants-accused-of-any-crime.md) _Context: Trump administration_
 4. [The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/the-united-states-senate-in-a-53a47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md) _Context: Trump administration_
 5. [The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary-of-health-and-human-servi.md) _Context: Trump administration_
+
+### Changes:
+
+1. [Presidential transition of Donald Trump: Former Georgia Governor Sonny Perdue is named Secretary of Agriculture, the last open seat in Trump's cabinet. ](/news/2017/01/19/presidential-transition-of-donald-trump-former-georgia-governor-sonny-perdue-is-named-secretary-of-agriculture-the-last-open-seat-in-trump.md) _2017-08-27 03:47:38 (First version)_
+1. [Former Georgia Governor Sonny Perdue is named Secretary of Agriculture, the last open seat in Trump's cabinet. ](/news/2017/01/19/former-georgia-governor-sonny-perdue-is-named-secretary-of-agriculture-the-last-open-seat-in-trump-s-cabinet.md) _(Current version)_

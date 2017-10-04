@@ -17,3 +17,9 @@
 3. [The first same-sex marriages take place in the United Kingdom after they were given the legal authority to proceed in England and Wales from midnight UTC. ](/news/2014/03/29/the-first-same-sex-marriages-take-place-in-the-united-kingdom-after-they-were-given-the-legal-authority-to-proceed-in-england-and-wales-from.md) _Context: clock_
 4. [Pope Benedict XVI announces his resignation, effective February 28 at 8pm CET (7pm UTC). He will become the first pope to resign since Gregory XII in 1415. ](/news/2013/02/11/pope-benedict-xvi-announces-his-resignation-effective-february-28-at-8pm-cet-7pm-utc-he-will-become-the-first-pope-to-resign-since-grego.md) _Context: clock_
 5. [Kiribati President Anote Tong is re-elected to a third (and final) term in the 2012 presidential election. ](/news/2012/01/13/kiribati-president-anote-tong-is-re-elected-to-a-third-and-final-term-in-the-2012-presidential-election.md) _Context: Kiribati_
+
+### Changes:
+
+1. [ New Year's Eve 2006-2007: The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/new-year-s-eve-2006-2007-p-the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line.md) _2017-08-25 03:18:57 (First version)_
+2. [ New Year's Eve 2006-2007:: The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/new-year-s-eve-2006-2007-the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line.md) _2017-08-27 03:18:53 (Update)_
+2. [ The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line-islands-kiribati.md) _(Current version)_

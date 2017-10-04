@@ -17,3 +17,9 @@
 3. [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md) _Context: Chad_
 4. [The Extraordinary African Chambers tribunal in Dakar, Senegal, upholds its conviction of former Chadian president Hissene Habre for crimes against humanity, but acquits him of rape. ](/news/2017/04/27/the-extraordinary-african-chambers-tribunal-in-dakar-senegal-upholds-its-conviction-of-former-chadian-president-hissa-ne-habra-c-for-crimes.md) _Context: Chad_
 5. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Chad_
+
+### Changes:
+
+1. [ War in Chad (2005-present): Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005apresent-p-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _2017-08-25 03:18:50 (First version)_
+2. [ War in Chad (2005-present):: Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005-present-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _2017-08-27 03:18:45 (Update)_
+2. [ Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _(Current version)_

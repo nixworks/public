@@ -16,3 +16,8 @@
 3. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Vietnam_
 4. [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md) _Context: Vietnam_
 5. [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md) _Context: Vietnam_
+
+### Changes:
+
+1. [Vietnam elects Nguyen Thi Kim Ngan chairwoman of the National Assembly. Ngan, who won 95.5 percent of the votes, is the first woman to lead Vietnam's legislature. In January, she was re-elected to the powerful Politburo at the Communist Party Congress. ](/news/2016/03/31/vietnam-elects-nguya-n-tha-kim-ngac-n-chairwoman-of-the-national-assembly-ngac-n-who-won-95-5-percent-of-the-votes-is-the-first-woman-t.md) _2017-08-25 03:45:05 (First version)_
+1. [Vietnam elects Nguyen Thi Kim Ngan chairwoman of the National Assembly. Ngan, who won 95.5 percent of the votes, is the first woman to lead Vietnam's legislature. In January, she was re-elected to the powerful Politburo at the Communist Party Congress. ](/news/2016/03/31/vietnam-elects-nguya-n-tha-kim-ngac-n-chairwoman-of-the-national-assembly-ngac-n-who-won-95-5-percent-of-the-votes-is-the-first-woman-to.md) _(Current version)_

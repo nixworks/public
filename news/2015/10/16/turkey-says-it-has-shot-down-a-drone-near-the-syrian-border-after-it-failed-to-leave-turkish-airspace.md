@@ -16,3 +16,8 @@
 3. [Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants-after-rockets-fired-from-northern-s.md) _Context: Spillover of the Syrian Civil War, Turkey_
 4. [Mortar shells fired from Syria kill at least one person and injure another in the Turkish border town of Kilis. ](/news/2016/03/8/mortar-shells-fired-from-syria-kill-at-least-one-person-and-injure-another-in-the-turkish-border-town-of-kilis.md) _Context: Spillover of the Syrian Civil War, Turkey_
 5. [A Turkish soldier is killed following a clash on the Syria-Turkey border with an armed group trying to enter Turkey illegally. The Turkish military says the clash occurred in the Yayladagi district of the Hatay Province. ](/news/2016/02/15/a-turkish-soldier-is-killed-following-a-clash-on-the-syriaaturkey-border-with-an-armed-group-trying-to-enter-turkey-illegally-the-turkish.md) _Context: Spillover of the Syrian Civil War, Turkey_
+
+### Changes:
+
+1. [Spillover of the Syrian Civil War: Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/spillover-of-the-syrian-civil-war-turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md) _2017-08-27 03:43:21 (First version)_
+1. [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md) _(Current version)_

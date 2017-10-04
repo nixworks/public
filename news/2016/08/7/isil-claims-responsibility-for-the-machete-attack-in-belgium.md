@@ -17,3 +17,8 @@
 3. [Belgian authorities reduce the threat level in Brussels from its highest level of four to three. The escalation to level four came after suspects in the ISIL attacks in Paris were linked to the city. Suspected Paris gunman, Salah Abdeslam, who lived in Brussels for several years, remains at large. ](/news/2015/11/26/belgian-authorities-reduce-the-threat-level-in-brussels-from-its-highest-level-of-four-to-three-the-escalation-to-level-four-came-after-sus.md) _Context: Belgium, Islamic State_
 4. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: Islamic State_
 5. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: Islamic State_
+
+### Changes:
+
+1. [2016 stabbing of Charleroi police officers: ISIL claims responsibility for the machete attack in Belgium. ](/news/2016/08/7/2016-stabbing-of-charleroi-police-officers-isil-claims-responsibility-for-the-machete-attack-in-belgium.md) _2017-08-27 03:46:37 (First version)_
+1. [ISIL claims responsibility for the machete attack in Belgium. ](/news/2016/08/7/isil-claims-responsibility-for-the-machete-attack-in-belgium.md) _(Current version)_

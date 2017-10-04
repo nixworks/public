@@ -18,3 +18,8 @@
 3. [The Taliban gains control of the Ajristan District in Afghanistan's Ghazni Province after a week of battle. ](/news/2014/09/26/the-taliban-gains-control-of-the-ajristan-district-in-afghanistan-s-ghazni-province-after-a-week-of-battle.md) _Context: Afghanistan, Taliban, Taliban insurgency_
 4. [The Taliban claims responsibility for an attack in central Afghanistan that claims the lives of 10 civilians, four Czech members of the International Security Assistance Force and two Afghan police officers. ](/news/2014/07/8/the-taliban-claims-responsibility-for-an-attack-in-central-afghanistan-that-claims-the-lives-of-10-civilians-four-czech-members-of-the-inte.md) _Context: Afghanistan, Taliban, Taliban insurgency_
 5. [An Afghan soldier kills 3 U.S. troops and injures 1 other in Achin, Nangarhar Province. The Taliban claims responsibility, saying the Afghan soldier was one of several Taliban infiltrators in the Afghan Armed Forces. ](/news/2017/06/10/an-afghan-soldier-kills-3-u-s-troops-and-injures-1-other-in-achin-nangarhar-province-the-taliban-claims-responsibility-saying-the-afghan.md) _Context: Afghanistan, Taliban_
+
+### Changes:
+
+1. [Taliban insurgency: Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-insurgency-taliban-attacks-across-afghanistan-kill-17-people.md) _2017-08-27 03:41:51 (First version)_
+1. [Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-people.md) _(Current version)_

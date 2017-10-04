@@ -16,3 +16,8 @@
 3. [Masked gunmen kill 19 people and wound seven others at multiple locations of SGBPo Paulo's suburbs Thursday night. ](/news/2015/08/14/masked-gunmen-kill-19-people-and-wound-seven-others-at-multiple-locations-of-sagbpo-paulo-s-suburbs-thursday-night.md) _Context: SGBPo Paulo_
 4. [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city SGBPo Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.md) _Context: SGBPo Paulo_
 5. [Brazilians go to the streets in SGBPo Paulo, Rio de Janeiro and other cities to claim against the rise of the public transport fee, being part of the 2013 protests in Brazil.](/news/2013/06/17/brazilians-go-to-the-streets-in-sagbpo-paulo-rio-de-janeiro-and-other-cities-to-claim-against-the-rise-of-the-public-transport-fee-being-p.md) _Context: SGBPo Paulo_
+
+### Changes:
+
+1. [ Five people die in a helicopter crash in a Sao Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sapso-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md) _2017-08-25 03:41:50 (First version)_
+1. [ Five people die in a helicopter crash in a SGBPo Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sagbpo-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md) _(Current version)_

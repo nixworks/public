@@ -17,3 +17,9 @@
 3. [At least eight unidentified militants and one security officer are killed in ongoing clashes in rural Dagestan, Russia. ](/news/2016/07/8/at-least-eight-unidentified-militants-and-one-security-officer-are-killed-in-ongoing-clashes-in-rural-dagestan-russia.md) _Context: Dagestan_
 4. [A bus crashes on a highway in Dagestan, Russia, killing at least nine people and injuring dozens more. ](/news/2016/07/13/a-bus-crashes-on-a-highway-in-dagestan-russia-killing-at-least-nine-people-and-injuring-dozens-more.md) _Context: Dagestan_
 5. [Four Russian security officers and six militants are killed in an anti-terrorism operation in Dagestan. ](/news/2016/06/17/four-russian-security-officers-and-six-militants-are-killed-in-an-anti-terrorism-operation-in-dagestan.md) _Context: Dagestan_
+
+### Changes:
+
+1. [North Caucasus insurgency:Two police officers are killed and one injured in an ambush in the Tsuntinsky District, Dagestan. ](/news/2012/08/6/north-caucasus-insurgency-ptwo-police-officers-are-killed-and-one-injured-in-an-ambush-in-the-tsuntinsky-district-dagestan.md) _2017-08-25 03:36:13 (First version)_
+2. [North Caucasus insurgency:: Two police officers are killed and one injured in an ambush in the Tsuntinsky District, Dagestan. ](/news/2012/08/6/north-caucasus-insurgency-two-police-officers-are-killed-and-one-injured-in-an-ambush-in-the-tsuntinsky-district-dagestan.md) _2017-08-27 03:36:25 (Update)_
+2. [Two police officers are killed and one injured in an ambush in the Tsuntinsky District, Dagestan. ](/news/2012/08/6/two-police-officers-are-killed-and-one-injured-in-an-ambush-in-the-tsuntinsky-district-dagestan.md) _(Current version)_

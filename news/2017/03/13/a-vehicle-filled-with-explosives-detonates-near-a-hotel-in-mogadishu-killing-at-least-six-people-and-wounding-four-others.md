@@ -16,3 +16,8 @@ At least six people killed by bomb-laden vehicle in Mogadishu, according to poli
 3. [A suicide bomber attacks a military training camp in Mogadishu, killing at least nine soldiers. Al-Shabaab claimed responsibility for the attack. ](/news/2017/04/10/a-suicide-bomber-attacks-a-military-training-camp-in-mogadishu-killing-at-least-nine-soldiers-al-shabaab-claimed-responsibility-for-the-at.md) _Context: Mogadishu, War in Somalia (2009-present)_
 4. [A car bomb explodes near a checkpoint outside Mogadishu, wounding at least four Somali soldiers. ](/news/2017/02/27/a-car-bomb-explodes-near-a-checkpoint-outside-mogadishu-wounding-at-least-four-somali-soldiers.md) _Context: Mogadishu, War in Somalia (2009-present)_
 5. [A car bomb explodes in the Wadajir District of Mogadishu, killing at least 20 people and injuring 50 more. ](/news/2017/02/19/a-car-bomb-explodes-in-the-wadajir-district-of-mogadishu-killing-at-least-20-people-and-injuring-50-more.md) _Context: Mogadishu, War in Somalia (2009-present)_
+
+### Changes:
+
+1. [War in Somalia (2009-present): A vehicle filled with explosives detonates near a hotel in Mogadishu, killing at least six people and wounding four others. ](/news/2017/03/13/war-in-somalia-2009-present-a-vehicle-filled-with-explosives-detonates-near-a-hotel-in-mogadishu-killing-at-least-six-people-and-wound.md) _2017-08-27 03:47:59 (First version)_
+1. [A vehicle filled with explosives detonates near a hotel in Mogadishu, killing at least six people and wounding four others. ](/news/2017/03/13/a-vehicle-filled-with-explosives-detonates-near-a-hotel-in-mogadishu-killing-at-least-six-people-and-wounding-four-others.md) _(Current version)_

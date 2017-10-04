@@ -13,7 +13,7 @@ _Context: Hebron, Israeli settlement, Israeli-Palestinian conflict, Palestinian,
 _Context: EU, Israel, Middle East peace plan, Palestinians, Russian Federation, United Nations, road map peace plan_
 
 ### [ Iraq - Constitution: Secretary of State Colin Powell, responding to a rapid timetable self-rule demands from France (and others), states the United States would set a deadline of six months for Iraqi leaders working under the coalition occupation to produce a new constitution. The constitution would clear the way for elections and the installation of a new leadership next year.](/news/2003/09/26/iraq-a-constitution-secretary-of-state-colin-powell-responding-to-a-rapid-timetable-self-rule-demands-from-france-and-others-states.md)
-_Context: Colin Powell, Iraq, United States Secretary of State, constitution, election_
+_Context: Colin Powell, Iraq, Secretary of State, constitution, election_
 
 ### [ Iraq - Terrorism: Mortar rounds hit killing at least seven civilian Iraqis in the town square of Baquba. At least 20 civilian were wounded. Also, Akila al-Hashemi, a member of Iraq's Governing Council, was buried in Najaf a day after she died from wounds inflicted by an unidentified gunmen.](/news/2003/09/26/iraq-a-terrorism-mortar-rounds-hit-killing-at-least-seven-civilian-iraqis-in-the-town-square-of-baquba-at-least-20-civilian-were-wounde.md)
 _Context: Akila al-Hashemi, Baquba, Iraq, Mortar, Najaf, terrorism_

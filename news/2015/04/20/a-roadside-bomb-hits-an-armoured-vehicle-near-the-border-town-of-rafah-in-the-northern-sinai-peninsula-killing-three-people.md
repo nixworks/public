@@ -16,3 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _Context: Sinai Peninsula, Sinai insurgency_
 4. [At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md) _Context: Sinai Peninsula, Sinai insurgency_
 5. [Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. ](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-suicide-bomber-at-a-checkpoint-in-northern-sinai.md) _Context: Sinai Peninsula, Sinai insurgency_
+
+### Changes:
+
+1. [Sinai insurgency: A roadside bomb hits an armoured vehicle near the border town of Rafah in the northern Sinai Peninsula killing three people. ](/news/2015/04/20/sinai-insurgency-a-roadside-bomb-hits-an-armoured-vehicle-near-the-border-town-of-rafah-in-the-northern-sinai-peninsula-killing-three-peopl.md) _2017-08-27 03:42:13 (First version)_
+1. [A roadside bomb hits an armoured vehicle near the border town of Rafah in the northern Sinai Peninsula killing three people. ](/news/2015/04/20/a-roadside-bomb-hits-an-armoured-vehicle-near-the-border-town-of-rafah-in-the-northern-sinai-peninsula-killing-three-people.md) _(Current version)_

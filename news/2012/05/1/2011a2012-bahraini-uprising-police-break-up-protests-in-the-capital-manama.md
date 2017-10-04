@@ -17,3 +17,8 @@
 3. [A teenager in Bahrain dies following an explosion in the village of Bani Jamra, east of the capital Manama. ](/news/2013/10/23/a-teenager-in-bahrain-dies-following-an-explosion-in-the-village-of-bani-jamra-east-of-the-capital-manama.md) _Context: Manama_
 4. [A 16-year-old child is shot dead at close range in Al-Daih, a village west of Manama, Bahrain. ](/news/2013/02/14/a-16-year-old-child-is-shot-dead-at-close-range-in-al-daih-a-village-west-of-manama-bahrain.md) _Context: Manama_
 5. [A fire sweeps through a complex containing housing for foreign workers in Manama, Bahrain, leaving 13 foreign nationals dead. ](/news/2013/01/11/a-fire-sweeps-through-a-complex-containing-housing-for-foreign-workers-in-manama-bahrain-leaving-13-foreign-nationals-dead.md) _Context: Manama_
+
+### Changes:
+
+1. [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011-2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md) _2017-08-27 03:35:45 (First version)_
+1. [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011a2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md) _(Current version)_

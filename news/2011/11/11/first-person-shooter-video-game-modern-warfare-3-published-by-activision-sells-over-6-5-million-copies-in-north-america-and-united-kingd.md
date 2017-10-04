@@ -17,3 +17,8 @@
 3. [Sky UK stops broadcasting Fox News in the United Kingdom after 15 years due to low audience figures. ](/news/2017/08/29/sky-uk-stops-broadcasting-fox-news-in-the-united-kingdom-after-15-years-due-to-low-audience-figures.md) _Context: United Kingdom_
 4. [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md) _Context: North America_
 5. [Nigerian state television reports that President Muhammadu Buhari is back in the country after a three-month sick leave in Britain. ](/news/2017/08/19/nigerian-state-television-reports-that-president-muhammadu-buhari-is-back-in-the-country-after-a-three-month-sick-leave-in-britain.md) _Context: United Kingdom_
+
+### Changes:
+
+1. [First-person shooter video game ''Modern Warfare 3'', published by Activision, sells over 6.5 million copies in North America and United Kingdom, setting a new record. ](/news/2011/11/11/first-person-shooter-video-game-modern-warfare-3-published-by-activision-sells-over-6-5-million-copies-in-north-america-and-united-kin.md) _2017-08-25 03:34:28 (First version)_
+1. [First-person shooter video game "Modern Warfare 3", published by Activision, sells over 6.5 million copies in North America and United Kingdom, setting a new record. ](/news/2011/11/11/first-person-shooter-video-game-modern-warfare-3-published-by-activision-sells-over-6-5-million-copies-in-north-america-and-united-kingd.md) _(Current version)_

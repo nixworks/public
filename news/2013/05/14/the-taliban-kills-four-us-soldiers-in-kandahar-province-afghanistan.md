@@ -17,3 +17,9 @@ Three US soldiers with the Nato-led force in Kandahar province in southern Afgha
 3. [Nine Taliban fighters, including two commanders, are killed as security forces storm their hideout in Kandahar province, south of Afghanistan. ](/news/2010/10/23/nine-taliban-fighters-including-two-commanders-are-killed-as-security-forces-storm-their-hideout-in-kandahar-province-south-of-afghanista.md) _Context: Afghanistan, Kandahar Province, Taliban_
 4. [An Australian Special Air Service Regiment soldier Jason Brown, is killed in fighting the Taliban in northern Kandahar Province, Afghanistan. ](/news/2010/08/13/an-australian-special-air-service-regiment-soldier-jason-brown-is-killed-in-fighting-the-taliban-in-northern-kandahar-province-afghanistan.md) _Context: Afghanistan, Kandahar Province, Taliban_
 5. [ Afghan officials claim that the Taliban has executed as many as 30 of 50 people captured on a bus in Kandahar Province. ](/news/2008/10/19/afghan-officials-claim-that-the-taliban-has-executed-as-many-as-30-of-50-people-captured-on-a-bus-in-kandahar-province.md) _Context: Afghanistan, Kandahar Province, Taliban_
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/war-in-afghanistan-2001apresent-pthe-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _2017-08-25 03:38:40 (First version)_
+2. [War in Afghanistan (2001-present):: The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/war-in-afghanistan-2001-present-the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _2017-08-27 03:38:52 (Update)_
+2. [The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _(Current version)_

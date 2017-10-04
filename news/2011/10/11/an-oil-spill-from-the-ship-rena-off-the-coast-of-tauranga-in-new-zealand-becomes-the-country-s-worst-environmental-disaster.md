@@ -17,3 +17,8 @@
 3. [ Clean-up operations continue in the Strait of Kerch after the oil spill disaster. Ten ships have sunk, 2,000 tons of fuel oil and 6,000 tons of sulphur have been spilled, three sailors have died and about 20 are missing. ](/news/2007/11/13/clean-up-operations-continue-in-the-strait-of-kerch-after-the-oil-spill-disaster-ten-ships-have-sunk-2-000-tons-of-fuel-oil-and-6-000-ton.md) _Context: environmental disaster, oil spill_
 4. [Voters in New Zealand go to the polls, electing all members of their House of Representatives and the consequent Prime Minister. ](/news/2017/09/23/voters-in-new-zealand-go-to-the-polls-electing-all-members-of-their-house-of-representatives-and-the-consequent-prime-minister.md) _Context: New Zealand_
 5. [The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. ](/news/2017/09/1/the-labour-party-led-by-jacinda-ardern-surges-in-the-polls-and-is-neck-and-neck-with-the-national-party-led-by-bill-english-for-the-race.md) _Context: New Zealand_
+
+### Changes:
+
+1. [An oil spill from the ship {{MV|Rena}} off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-mv-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md) _2017-05-01 03:36:41 (First version)_
+1. [An oil spill from the ship Rena off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md) _(Current version)_

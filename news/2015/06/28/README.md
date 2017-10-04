@@ -16,13 +16,13 @@ Turkish police fired water cannon and rubber pellets to disperse a gay pride par
 Greece moved to check the growing strains on its crippled financial system on Sunday, closing its banks and imposing capital controls that brought the prospect of being forced out of the euro into plain sight.
 
 ### [The Governor of Puerto Rico, Alejandro Garca Padilla, says that Puerto Rico's debts are "not payable". ](/news/2015/06/28/the-governor-of-puerto-rico-alejandro-garcia-padilla-says-that-puerto-rico-s-debts-are-not-payable.md)
-_Context: Alejandro Garca Padilla, Puerto Rican Governor, Puerto Rico_
+_Context: Alejandro Garca Padilla, Puerto Rico, Puerto Rico Governor_
 
 ### [The number of deaths from MERS in South Korea rises to 32, with the number of cases stabilizing at 182. ](/news/2015/06/28/the-number-of-deaths-from-mers-in-south-korea-rises-to-32-with-the-number-of-cases-stabilizing-at-182.md)
  South Korea reported an additional death from Middle East Respiratory Syndrome on Sunday, bringing its death toll to 32.
 
 ### [A six-year-old boy whose parents refused to have him vaccinated dies of diphtheria, the first case in Spain since 1987. ](/news/2015/06/28/a-six-year-old-boy-whose-parents-refused-to-have-him-vaccinated-dies-of-diphtheria-the-first-case-in-spain-since-1987.md)
-_Context: Spain, diphtheria_
+_Context: Spanish, diphtheria_
 
 ### [Remaining escapee David Sweat is shot and captured in upstate New York near the border with Canada. ](/news/2015/06/28/remaining-escapee-david-sweat-is-shot-and-captured-in-upstate-new-york-near-the-border-with-canada.md)
 Convicted murderer and escaped inmate David Sweat was shot near the Canadian border Sunday, more than three weeks after breaking free from prison.

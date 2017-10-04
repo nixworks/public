@@ -17,3 +17,8 @@ Authorities in Burkina Faso named former foreign minister Michel Kafando as tran
 3. [A trial at a court in Ouagadougou, Burkina Faso, opens to try former President Blaise Compaor and members of his cabinet in absentia. Burkina Faso accuses Compaor, who is in exile in the Ivory Coast, of ordering the killing of protesters during the uprising that ousted him in 2014. ](/news/2017/05/15/a-trial-at-a-court-in-ouagadougou-burkina-faso-opens-to-try-former-president-blaise-compaore-and-members-of-his-cabinet-in-absentia-burki.md) _Context: Burkina Faso_
 4. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: Burkina Faso_
 5. [An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-troops-dead-and-two-others-missing.md) _Context: Burkina Faso_
+
+### Changes:
+
+1. [Burkinab uprising: Former Burkina Faso foreign minister Michel Kafando is named as transitional President. ](/news/2014/11/17/burkinabe-uprising-former-burkina-faso-foreign-minister-michel-kafando-is-named-as-transitional-president.md) _2017-08-27 03:41:31 (First version)_
+1. [Former Burkina Faso foreign minister Michel Kafando is named as transitional President. ](/news/2014/11/17/former-burkina-faso-foreign-minister-michel-kafando-is-named-as-transitional-president.md) _(Current version)_

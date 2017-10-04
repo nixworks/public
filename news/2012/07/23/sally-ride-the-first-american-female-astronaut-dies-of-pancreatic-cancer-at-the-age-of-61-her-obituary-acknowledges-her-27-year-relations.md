@@ -16,3 +16,8 @@
 3. [ American actor Patrick Swayze dies at age 57, after suffering from pancreatic cancer for more than 1 year. ](/news/2009/09/14/american-actor-patrick-swayze-dies-at-age-57-after-suffering-from-pancreatic-cancer-for-more-than-1-year.md) _Context: Americans, pancreatic cancer_
 4. [ Linguistic analysis confirms that American astronaut Neil Armstrong did not say the article "a" in the phrase "one small step for a man" when he walked on the Moon on July 20, 1969. ](/news/2009/06/4/linguistic-analysis-confirms-that-american-astronaut-neil-armstrong-did-not-say-the-article-a-in-the-phrase-one-small-step-for-a-man-wh.md) _Context: Americans, astronaut_
 5. [ United States President Barack Obama nominates former astronaut Charles F. Bolden, Jr. as Administrator of the National Aeronautics and Space Administration. ](/news/2009/05/23/united-states-president-barack-obama-nominates-former-astronaut-charles-f-bolden-jr-as-administrator-of-the-national-aeronautics-and-spa.md) _Context: Americans, astronaut_
+
+### Changes:
+
+1. [Sally Ride, the first American female astronaut, dies of pancreatic cancer at the age of 61. Her obituary acknowledges her 27-year relationship with a woman. ](/news/2012/07/23/sally-ride-the-first-american-female-astronaut-dies-of-pancreatic-cancer-at-the-age-of-61-her-obituary-acknowledges-her-27-year-relation.md) _2017-08-25 03:36:09 (First version)_
+1. [Sally Ride, the first American female astronaut, dies of pancreatic cancer at the age of 61. Her obituary acknowledges her 27-year relationship with a woman. ](/news/2012/07/23/sally-ride-the-first-american-female-astronaut-dies-of-pancreatic-cancer-at-the-age-of-61-her-obituary-acknowledges-her-27-year-relations.md) _(Current version)_

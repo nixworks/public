@@ -10,7 +10,7 @@ Children can legally have two lesbian mothers and no father under laws that come
 Britain is facing the prospect of widespread power cuts for the first time since the 1970s, government projections show.
 
 ### [ Disney reaches a deal to acquire Marvel Entertainment for US$4 billion, with Marvel shareholders being issued $30 and about 0.745 Disney shares for each share of Marvel they own. ](/news/2009/08/31/disney-reaches-a-deal-to-acquire-marvel-entertainment-for-us-4-billion-with-marvel-shareholders-being-issued-30-and-about-0-745-disney-sh.md)
-_Context: Disney, Marvel Entertainment, US$_
+_Context: $, Disney, Marvel Entertainment_
 
 ### [ Nigeria charges several banking executives with financial crimes discovered following the $2.6 billion bail-out of five banks. ](/news/2009/08/31/nigeria-charges-several-banking-executives-with-financial-crimes-discovered-following-the-2-6-billion-bail-out-of-five-banks.md)
 _Context: Nigeria_

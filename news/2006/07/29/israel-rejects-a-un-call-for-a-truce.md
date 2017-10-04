@@ -22,3 +22,9 @@
 3. [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md) _Context: Israel, UN_
 4. [The United States offers Israel 20 F-35s and opposition to anti-Israel resolutions in the UN if Israel agrees to a partial 90-day freeze in building in the West Bank, excluding east Jerusalem. ](/news/2010/11/14/the-united-states-offers-israel-20-f-35s-and-opposition-to-anti-israel-resolutions-in-the-un-if-israel-agrees-to-a-partial-90-day-freeze-in.md) _Context: Israel, UN_
 5. [ Palestinians have urged the UN to act to punish Israel for its offensive in the Gaza Strip last winter. ](/news/2009/10/15/palestinians-have-urged-the-un-to-act-to-punish-israel-for-its-offensive-in-the-gaza-strip-last-winter.md) _Context: Israel, UN_
+
+### Changes:
+
+1. [ 2006 Israel-Lebanon Conflict: Israel rejects a UN call for a truce. ](/news/2006/07/29/2006-israel-lebanon-conflict-p-israel-rejects-a-un-call-for-a-truce.md) _2017-08-25 03:18:07 (First version)_
+2. [ 2006 Israel-Lebanon Conflict:: Israel rejects a UN call for a truce. ](/news/2006/07/29/2006-israel-lebanon-conflict-israel-rejects-a-un-call-for-a-truce.md) _2017-08-27 03:18:04 (Update)_
+2. [ Israel rejects a UN call for a truce. ](/news/2006/07/29/israel-rejects-a-un-call-for-a-truce.md) _(Current version)_

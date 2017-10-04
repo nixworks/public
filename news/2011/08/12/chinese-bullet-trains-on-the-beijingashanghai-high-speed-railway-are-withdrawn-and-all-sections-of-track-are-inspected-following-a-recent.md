@@ -16,3 +16,8 @@
 3. [Elementary and middle schools in the Chinese capital Beijing suspend outdoor activities due to heavy smog. ](/news/2015/12/6/elementary-and-middle-schools-in-the-chinese-capital-beijing-suspend-outdoor-activities-due-to-heavy-smog.md) _Context: Chinese_
 4. [Chinese human rights lawyer Pu Zhiqiang goes on trial in Beijing for online social commentary critical of the ruling Communist Party. ](/news/2015/12/14/chinese-human-rights-lawyer-pu-zhiqiang-goes-on-trial-in-beijing-for-online-social-commentary-critical-of-the-ruling-communist-party.md) _Context: Chinese_
 5. [Japan and India sign an agreement on high-speed rail, defence technology and a memorandum of understanding on civil nuclear cooperation. ](/news/2015/12/12/japan-and-india-sign-an-agreement-on-high-speed-rail-defence-technology-and-a-memorandum-of-understanding-on-civil-nuclear-cooperation.md) _Context: bullet train_
+
+### Changes:
+
+1. [Chinese Bullet trains on the Beijing-Shanghai High-Speed Railway are withdrawn and all sections of track are inspected following a recent crash. ](/news/2011/08/12/chinese-bullet-trains-on-the-beijing-shanghai-high-speed-railway-are-withdrawn-and-all-sections-of-track-are-inspected-following-a-recent.md) _2017-08-27 03:34:07 (First version)_
+1. [Chinese Bullet trains on the Beijing-Shanghai High-Speed Railway are withdrawn and all sections of track are inspected following a recent crash. ](/news/2011/08/12/chinese-bullet-trains-on-the-beijingashanghai-high-speed-railway-are-withdrawn-and-all-sections-of-track-are-inspected-following-a-recent.md) _(Current version)_

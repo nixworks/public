@@ -17,3 +17,8 @@ After a marathon meeting, the Eurogroup has agreed to extend bailout loans to Gr
 3. [Greece requests its partners in the eurozone for a six month loan program extension in an apparent compromise attempt; Germany has rejected the request. ](/news/2015/02/19/greece-requests-its-partners-in-the-eurozone-for-a-six-month-loan-program-extension-in-an-apparent-compromise-attempt-germany-has-rejected.md) _Context: Eurozone, Greek_
 4. [The eurozone will pay out of 43.7 billion euros in loans to Greece from December 13 for reducing Greece's debt. ](/news/2012/11/27/the-eurozone-will-pay-out-of-43-7-billion-euros-in-loans-to-greece-from-december-13-for-reducing-greece-s-debt.md) _Context: Eurozone, Greek_
 5. [Moody's Investor Services cuts Greece's credit rating to C claiming that there is a still a significant risk of default despite the Eurozone bailout. ](/news/2012/03/2/moody-s-investor-services-cuts-greece-s-credit-rating-to-c-claiming-that-there-is-a-still-a-significant-risk-of-default-despite-the-eurozone.md) _Context: Eurozone, Greek_
+
+### Changes:
+
+1. [Greek financial crisis: The Eurozone agrees to a -10.3 billion ($11.48 billion) bailout package for Greece. ](/news/2016/05/25/greek-financial-crisis-the-eurozone-agrees-to-a-10-3-billion-11-48-billion-bailout-package-for-greece.md) _2017-08-27 03:46:08 (First version)_
+1. [The Eurozone agrees to a EUR10.3 billion ($11.48 billion) bailout package for Greece. ](/news/2016/05/25/the-eurozone-agrees-to-a-a-10-3-billion-11-48-billion-bailout-package-for-greece.md) _(Current version)_

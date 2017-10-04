@@ -17,3 +17,8 @@ Health authorities in Amsterdam are warning of dangerous drugs being sold to tou
 3. [Dutch linesman Richard Nieuwenhuizen dies in hospital after he was kicked and punched by three teenage players of a club from Nieuw Sloten, Amsterdam, while officiating at a match on Sunday. ](/news/2012/12/3/dutch-linesman-richard-nieuwenhuizen-dies-in-hospital-after-he-was-kicked-and-punched-by-three-teenage-players-of-a-club-from-nieuw-sloten.md) _Context: Amsterdam, Netherlands_
 4. [Two trains are involved in a head-on collision near Sloterdijk, west of Amsterdam, the Netherlands, injuring at least 117, with 56 serious injuries. ](/news/2012/04/21/two-trains-are-involved-in-a-head-on-collision-near-sloterdijk-west-of-amsterdam-the-netherlands-injuring-at-least-117-with-56-serious-i.md) _Context: Amsterdam, Netherlands_
 5. [Dozens of people are injured when panic breaks out at the Remembrance of the Dead in Amsterdam, the Netherlands. ](/news/2010/05/4/dozens-of-people-are-injured-when-panic-breaks-out-at-the-remembrance-of-the-dead-in-amsterdam-the-netherlands.md) _Context: Amsterdam, Netherlands_
+
+### Changes:
+
+1. [2014 Amsterdam drug deaths: People died afrer snorting white heroin that was sold as cocaine by a street dealer in Amsterdam, the Netherlands ](/news/2014/11/25/2014-amsterdam-drug-deaths-people-died-afrer-snorting-white-heroin-that-was-sold-as-cocaine-by-a-street-dealer-in-amsterdam-the-netherland.md) _2017-08-27 03:41:33 (First version)_
+1. [People died afrer snorting white heroin that was sold as cocaine by a street dealer in Amsterdam, the Netherlands ](/news/2014/11/25/people-died-afrer-snorting-white-heroin-that-was-sold-as-cocaine-by-a-street-dealer-in-amsterdam-the-netherlands.md) _(Current version)_

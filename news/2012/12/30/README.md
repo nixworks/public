@@ -19,7 +19,7 @@ Mexican marines have slain four gunmen who apparently were trying to steal the b
 President Obama puts pressure on Republicans to accept a deal aimed at avoiding a tax and spending &quot;fiscal cliff&quot;, as the end-of-year deadline looms.
 
 ### [U.S. Secretary of State Hillary Clinton is hospitalized after doctors discover a blood clot related to the concussion she suffered earlier this month. ](/news/2012/12/30/u-s-secretary-of-state-hillary-clinton-is-hospitalized-after-doctors-discover-a-blood-clot-related-to-the-concussion-she-suffered-earlier-t.md)
-_Context: Hillary Clinton, United States Secretary of State, blood clot, concussion_
+_Context: Hillary Clinton, Secretary of State, blood clot, concussion_
 
 ### [The confirmation of the existence of a subatomic particle known as the Higgs boson is named as 2012 Breakthrough of the Year by the "Science" magazine. ](/news/2012/12/30/the-confirmation-of-the-existence-of-a-subatomic-particle-known-as-the-higgs-boson-is-named-as-2012-breakthrough-of-the-year-by-the-science.md)
 _Context: Breakthrough of the Year, Higgs boson, Science, subatomic particle_

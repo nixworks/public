@@ -17,3 +17,10 @@
 3. [Hunters discover a 1000-year-old sword in Iceland. ](/news/2016/09/7/hunters-discover-a-1000-year-old-sword-in-iceland.md) _Context: Iceland_
 4. [Numerous tremors rock the Katla volcano in Iceland prompting the government to raise the alarm level. ](/news/2016/08/30/numerous-tremors-rock-the-katla-volcano-in-iceland-prompting-the-government-to-raise-the-alarm-level.md) _Context: Iceland_
 5. [Researchers in Iceland report on CarbFix, in the journal "Science", that carbon dioxide emissions can be pumped into the earth and changed chemically to stone &nbsp;-- significantly faster than expected. ](/news/2016/06/9/researchers-in-iceland-report-on-carbfix-in-the-journal-science-that-carbon-dioxide-emissions-can-be-pumped-into-the-earth-and-changed-c.md) _Context: Iceland_
+
+### Changes:
+
+1. [Iceland will vote for a new Althing (parliament) on the fourth of November after the collapse of the previous government by Bjarni Benediktsson of the Independence Party due to a corruption scandal. ](/news/2017/09/16/iceland-will-vote-for-a-new-althing-parliament-on-the-fourth-of-november-after-the-collapse-of-the-previous-government-by-bjarni-benedikts.md) _2017-09-17 03:49:21 (First version)_
+2. [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government by Bjarni Benediktsson of the Independence Party due to a corruption scandal. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government-by-bjarni-benediktsson-of-the-i.md) _2017-09-17 06:30:05 (Update)_
+3. [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md) _2017-09-17 10:30:05 (Update)_
+3. [Iceland will vote for a new Althingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md) _(Current version)_

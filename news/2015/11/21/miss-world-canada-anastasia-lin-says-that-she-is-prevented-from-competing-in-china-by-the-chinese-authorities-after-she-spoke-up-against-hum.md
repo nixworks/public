@@ -17,3 +17,8 @@
 3. [Chinese political activist and Nobel Peace Prize laureate Liu Xiaobo is released from prison on medical parole after being diagnosed with terminal liver cancer. ](/news/2017/06/26/chinese-political-activist-and-nobel-peace-prize-laureate-liu-xiaobo-is-released-from-prison-on-medical-parole-after-being-diagnosed-with-te.md) _Context: China, Human rights in China_
 4. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
 5. [ China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: China_
+
+### Changes:
+
+1. [Miss World 2015: Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-2015-miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spo.md) _2017-08-27 03:43:59 (First version)_
+1. [Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spoke-up-against-hum.md) _(Current version)_

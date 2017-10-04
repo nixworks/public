@@ -19,3 +19,8 @@ Millions of Christians around the world are celebrating Christmas, as Pope Bened
 3. [Pope Francis pleads for peace in a Christmas Mass in the Vatican. ](/news/2016/12/25/pope-francis-pleads-for-peace-in-a-christmas-mass-in-the-vatican.md) _Context: Christmas, Vatican City_
 4. [Black smoke rises from the Vatican's Sistine Chapel, signalling that Roman Catholic Cardinals had not elected a new pope in the morning session of the second day of voting at their conclave. ](/news/2013/03/13/black-smoke-rises-from-the-vatican-s-sistine-chapel-signalling-that-roman-catholic-cardinals-had-not-elected-a-new-pope-in-the-morning-sess.md) _Context: Pope, Vatican City_
 5. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-benedict-xvi.md) _Context: Benedict XVI, Pope_
+
+### Changes:
+
+1. [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square and holds the traditional Mass at St. Peter's Basilica in Vatican City. ](/news/2012/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-and-holds-the-traditional-mass-at-st-peter-s-basilica-in-v.md) _2017-08-25 03:37:07 (First version)_
+1. [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square and holds the traditional Mass at St. Peter's Basilica in Vatican City. ](/news/2012/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-and-holds-the-traditional-mass-at-st-peter-s-basilica-in-va.md) _(Current version)_

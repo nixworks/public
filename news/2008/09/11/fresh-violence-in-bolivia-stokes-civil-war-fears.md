@@ -17,3 +17,9 @@
 3. [Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.md) _Context: Bolivia_
 4. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Bolivia_
 5. [Bolivia's deputy interior minister, Rodolfo Illanes, is kidnapped and beaten to death by striking miners. ](/news/2016/08/26/bolivia-s-deputy-interior-minister-rodolfo-illanes-is-kidnapped-and-beaten-to-death-by-striking-miners.md) _Context: Bolivia_
+
+### Changes:
+
+1. [ 2008 unrest in Bolivia: Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/2008-unrest-in-bolivia-p-fresh-violence-in-bolivia-stokes-civil-war-fears.md) _2017-08-25 03:22:51 (First version)_
+2. [ 2008 unrest in Bolivia:: Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/2008-unrest-in-bolivia-fresh-violence-in-bolivia-stokes-civil-war-fears.md) _2017-08-27 03:22:44 (Update)_
+2. [ Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/fresh-violence-in-bolivia-stokes-civil-war-fears.md) _(Current version)_

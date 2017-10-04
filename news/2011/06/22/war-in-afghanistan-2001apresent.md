@@ -12,3 +12,8 @@
 3. [Officials announce that Afghan security forces have retaken Nawa District from the Taliban. ](/news/2017/07/17/officials-announce-that-afghan-security-forces-have-retaken-nawa-district-from-the-taliban.md) _Context: War in Afghanistan (2001-present)_
 4. [Jalaluddin Haqqani, the founder of the Haqqani Network, is reported as having died in 2014. ](/news/2015/07/31/jalaluddin-haqqani-the-founder-of-the-haqqani-network-is-reported-as-having-died-in-2014.md) _Context: War in Afghanistan (2001-present)_
 5. [The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natural-causes.md) _Context: War in Afghanistan (2001-present)_
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):](/news/2011/06/22/war-in-afghanistan-2001-present.md) _2017-08-27 03:33:40 (First version)_
+1. [War in Afghanistan (2001-present):](/news/2011/06/22/war-in-afghanistan-2001apresent.md) _(Current version)_

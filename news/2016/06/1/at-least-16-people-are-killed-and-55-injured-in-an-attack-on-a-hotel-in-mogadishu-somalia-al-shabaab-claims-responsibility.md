@@ -22,3 +22,8 @@ A suicide car bomber crashed into a gate outside a hotel frequented by lawmakers
 3. [ Al Shabaab militants have stormed two hotels in Somalia's capital Mogadishu killing at least 10 civilians. ](/news/2015/07/10/al-shabaab-militants-have-stormed-two-hotels-in-somalia-s-capital-mogadishu-killing-at-least-10-civilians.md) _Context: Al-Shabaab, Mogadishu, Somalian, War in Somalia (2009-present)_
 4. [Islamists from al-Shabab kill a member of the parliament Abdullahi Qayad Barre in the capital city of Mogadishu, Somalia. ](/news/2015/02/9/islamists-from-al-shabab-kill-a-member-of-the-parliament-abdullahi-qayad-barre-in-the-capital-city-of-mogadishu-somalia.md) _Context: Al-Shabaab, Mogadishu, Somalian, War in Somalia (2009-present)_
 5. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Al-Shabaab, Mogadishu, Somalian_
+
+### Changes:
+
+1. [War in Somalia (2009-present): At least 16 people are killed and 55 injured in an attack on a hotel in Mogadishu, Somalia. Al-Shabaab claims responsibility. ](/news/2016/06/1/war-in-somalia-2009-present-at-least-16-people-are-killed-and-55-injured-in-an-attack-on-a-hotel-in-mogadishu-somalia-al-shabaab-clai.md) _2017-08-27 03:46:11 (First version)_
+1. [At least 16 people are killed and 55 injured in an attack on a hotel in Mogadishu, Somalia. Al-Shabaab claims responsibility. ](/news/2016/06/1/at-least-16-people-are-killed-and-55-injured-in-an-attack-on-a-hotel-in-mogadishu-somalia-al-shabaab-claims-responsibility.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: War in North-West Pakistan_
 4. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: War in North-West Pakistan_
 5. [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md) _Context: War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: The Pakistan Air Force claims to have killed at least 27 militants in overnight airstrikes. ](/news/2014/10/16/war-in-north-west-pakistan-the-pakistan-air-force-claims-to-have-killed-at-least-27-militants-in-overnight-airstrikes.md) _2017-08-27 03:41:24 (First version)_
+1. [The Pakistan Air Force claims to have killed at least 27 militants in overnight airstrikes. ](/news/2014/10/16/the-pakistan-air-force-claims-to-have-killed-at-least-27-militants-in-overnight-airstrikes.md) _(Current version)_

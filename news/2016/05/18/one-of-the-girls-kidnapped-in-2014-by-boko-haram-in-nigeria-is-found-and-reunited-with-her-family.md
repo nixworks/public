@@ -18,3 +18,8 @@ One of the 219 missing Chibok schoolgirls is found in Nigeria, the first to be r
 3. [82 of the female students recently released by Boko Haram reunite with their families in Abuja. ](/news/2017/05/20/82-of-the-female-students-recently-released-by-boko-haram-reunite-with-their-families-in-abuja.md) _Context: Boko Haram, Chibok schoolgirls kidnapping_
 4. [ President Muhammadu Buhari announces that the Nigerian Armed Forces have successfully driven out Boko Haram militants from their last stronghold in the Sambisa Forest in northeastern Nigeria. ](/news/2016/12/24/president-muhammadu-buhari-announces-that-the-nigerian-armed-forces-have-successfully-driven-out-boko-haram-militants-from-their-last-stron.md) _Context: Boko Haram, Nigeria_
 5. [The United Nations and Nigeria come to an agreement to release 876 children being held due to suspicions that they are tied to Boko Haram. ](/news/2016/10/30/the-united-nations-and-nigeria-come-to-an-agreement-to-release-876-children-being-held-due-to-suspicions-that-they-are-tied-to-boko-haram.md) _Context: Boko Haram, Nigeria_
+
+### Changes:
+
+1. [Chibok schoolgirls kidnapping: One of the girls kidnapped in 2014 by Boko Haram in Nigeria is found and reunited with her family. ](/news/2016/05/18/chibok-schoolgirls-kidnapping-one-of-the-girls-kidnapped-in-2014-by-boko-haram-in-nigeria-is-found-and-reunited-with-her-family.md) _2017-08-27 03:46:03 (First version)_
+1. [One of the girls kidnapped in 2014 by Boko Haram in Nigeria is found and reunited with her family. ](/news/2016/05/18/one-of-the-girls-kidnapped-in-2014-by-boko-haram-in-nigeria-is-found-and-reunited-with-her-family.md) _(Current version)_

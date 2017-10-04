@@ -16,3 +16,8 @@
 3. [Hungary's parliament passes a law allowing the Hungarian military to help handle the migrant crisis at its borders with Serbia and Croatia, including the right to use non-lethal force such as rubber bullets, pyrotechnical devices, tear gas grenades or net guns. ](/news/2015/09/21/hungary-s-parliament-passes-a-law-allowing-the-hungarian-military-to-help-handle-the-migrant-crisis-at-its-borders-with-serbia-and-croatia.md) _Context: Croatia, European migrant crisis, Serbia_
 4. [Croatia closes seven out of eight border crossings with Serbia. Zoran Milanovic, the Prime Minister, says that his country "will move migrants on". ](/news/2015/09/18/croatia-closes-seven-out-of-eight-border-crossings-with-serbia-zoran-milanovia-the-prime-minister-says-that-his-country-will-move-migra.md) _Context: Croatia, European migrant crisis, Serbia_
 5. [Dozens of migrants reach the border of Serbia and Croatia which has become the new route for migrants denied entry to Hungary. ](/news/2015/09/16/dozens-of-migrants-reach-the-border-of-serbia-and-croatia-which-has-become-the-new-route-for-migrants-denied-entry-to-hungary.md) _Context: Croatia, European migrant crisis, Serbia_
+
+### Changes:
+
+1. [European migrant crisis: Croatia reopens its border with Serbia. ](/news/2015/09/25/european-migrant-crisis-croatia-reopens-its-border-with-serbia.md) _2017-08-27 03:43:08 (First version)_
+1. [Croatia reopens its border with Serbia. ](/news/2015/09/25/croatia-reopens-its-border-with-serbia.md) _(Current version)_

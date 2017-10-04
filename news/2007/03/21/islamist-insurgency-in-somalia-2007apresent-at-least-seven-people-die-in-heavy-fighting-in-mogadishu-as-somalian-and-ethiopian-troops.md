@@ -16,3 +16,8 @@
 3. [ Insurgency in Somalia: An Ethiopian helicopter is downed in Mogadishu as Ethiopian and Somali government troops battle insurgents. ](/news/2007/03/30/insurgency-in-somalia-an-ethiopian-helicopter-is-downed-in-mogadishu-as-ethiopian-and-somali-government-troops-battle-insurgents.md) _Context:  Insurgency in Somalia, Ethiopia, Mogadishu_
 4. [ Somali gunmen open fire at Ethiopian troops stationed in Somalia's capital Mogadishu resulting in at least one death. ](/news/2007/01/7/somali-gunmen-open-fire-at-ethiopian-troops-stationed-in-somalia-s-capital-mogadishu-resulting-in-at-least-one-death.md) _Context: Ethiopia, Mogadishu, Somalian_
 5. [ Thousands of young Muslim men demonstrate in the Somali capital of Mogadishu in support of a call for a holy war against Ethiopia. ](/news/2006/10/27/thousands-of-young-muslim-men-demonstrate-in-the-somali-capital-of-mogadishu-in-support-of-a-call-for-a-holy-war-against-ethiopia.md) _Context: Ethiopia, Mogadishu, Somalian_
+
+### Changes:
+
+1. [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007-present-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md) _2017-08-27 03:19:22 (First version)_
+1. [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007apresent-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md) _(Current version)_

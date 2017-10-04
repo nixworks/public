@@ -18,3 +18,8 @@ Jordanian warplanes have targeted and destroyed several vehicles trying to cross
 3. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Syrian Civil War_
 4. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Civil War_
 5. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: More chemical attacks are reported, this time in the Damascus suburbs. ](/news/2014/04/16/syrian-civil-war-more-chemical-attacks-are-reported-this-time-in-the-damascus-suburbs.md) _2017-08-27 03:40:35 (First version)_
+1. [More chemical attacks are reported, this time in the Damascus suburbs. ](/news/2014/04/16/more-chemical-attacks-are-reported-this-time-in-the-damascus-suburbs.md) _(Current version)_

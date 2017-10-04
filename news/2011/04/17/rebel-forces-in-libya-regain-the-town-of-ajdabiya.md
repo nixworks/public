@@ -18,3 +18,8 @@
 3. [A Libyan starts court proceedings against 41 people accused of helping Muammar Gaddafi to attempt to suppress the opposition in the Libyan Civil War. ](/news/2012/02/5/a-libyan-starts-court-proceedings-against-41-people-accused-of-helping-muammar-gaddafi-to-attempt-to-suppress-the-opposition-in-the-libyan-c.md) _Context: Libya, Libyan Civil War_
 4. [The United Nations says detainees from Libya's civil war are being tortured. ](/news/2012/01/26/the-united-nations-says-detainees-from-libya-s-civil-war-are-being-tortured.md) _Context: Libya, Libyan Civil War_
 5. [2011 Libyan civil war: ousted Libyan dictator Muammar Gaddafi's stronghold of Sirte is reportedly close to being conquered by the forces of the National Transitional Council, who have captured the city's airport, hospital, university and conference centre. ](/news/2011/10/9/2011-libyan-civil-war-ousted-libyan-dictator-muammar-gaddafi-s-stronghold-of-sirte-is-reportedly-close-to-being-conquered-by-the-forces-of.md) _Context: Libya, Libyan Civil War_
+
+### Changes:
+
+1. [2011 Libyan civil war: Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/2011-libyan-civil-war-rebel-forces-in-libya-regain-the-town-of-ajdabiya.md) _2017-08-27 03:32:59 (First version)_
+1. [Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/rebel-forces-in-libya-regain-the-town-of-ajdabiya.md) _(Current version)_

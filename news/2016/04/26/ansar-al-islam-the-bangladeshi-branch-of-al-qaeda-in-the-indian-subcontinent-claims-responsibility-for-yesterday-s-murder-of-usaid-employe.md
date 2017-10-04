@@ -16,3 +16,8 @@
 3. [Attackers in Bangladesh wielding machetes kill Nazimuddin Samad, a liberal blogger. ](/news/2016/04/7/attackers-in-bangladesh-wielding-machetes-kill-nazimuddin-samad-a-liberal-blogger.md) _Context: Attacks on secularists in Bangladesh, Bangladesh_
 4. [Professor Rezaul Karim Siddique is killed in the Bangladeshi city of Rajshahi in an ISIL attack. ](/news/2016/04/23/professor-rezaul-karim-siddique-is-killed-in-the-bangladeshi-city-of-rajshahi-in-an-isil-attack.md) _Context: Attacks on secularists in Bangladesh, Bangladesh_
 5. [Teachers, writers and students lead a protest rally in Dhaka against the recent killings and attacks on secular authors and publishers in Bangladesh. ](/news/2015/11/1/teachers-writers-and-students-lead-a-protest-rally-in-dhaka-against-the-recent-killings-and-attacks-on-secular-authors-and-publishers-in-ba.md) _Context: Attacks on secularists in Bangladesh, Bangladesh_
+
+### Changes:
+
+1. [Attacks on secularists in Bangladesh: Ansar-al Islam, the Bangladeshi branch of al-Qaeda in the Indian Subcontinent, claims responsibility for yesterday's murder of USAID employee and LGBT activist Xulhaz Mannan and his friend, actor Tanay Majumder. ](/news/2016/04/26/attacks-on-secularists-in-bangladesh-ansar-al-islam-the-bangladeshi-branch-of-al-qaeda-in-the-indian-subcontinent-claims-responsibility-f.md) _2017-08-27 03:45:51 (First version)_
+1. [Ansar-al Islam, the Bangladeshi branch of al-Qaeda in the Indian Subcontinent, claims responsibility for yesterday's murder of USAID employee and LGBT activist Xulhaz Mannan and his friend, actor Tanay Majumder. ](/news/2016/04/26/ansar-al-islam-the-bangladeshi-branch-of-al-qaeda-in-the-indian-subcontinent-claims-responsibility-for-yesterday-s-murder-of-usaid-employe.md) _(Current version)_

@@ -18,3 +18,8 @@ At least 49 people in Nigeria shopping ahead of Eid celebrations have been kille
 3. [Suspected Boko Haram Islamist militants launch simultaneous gun and bomb attacks in the northern Nigerian city of Gombe. ](/news/2012/02/24/suspected-boko-haram-islamist-militants-launch-simultaneous-gun-and-bomb-attacks-in-the-northern-nigerian-city-of-gombe.md) _Context: Boko Haram, Gombe_
 4. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Boko Haram_
 5. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Boko Haram_
+
+### Changes:
+
+1. [Boko Haram: Timeline of Boko Haram insurgency: Twin blasts at a market in Gombe, Nigeria kill at least 49 people. ](/news/2015/07/16/boko-haram-timeline-of-boko-haram-insurgency-twin-blasts-at-a-market-in-gombe-nigeria-kill-at-least-49-people.md) _2017-08-27 03:42:42 (First version)_
+1. [Twin blasts at a market in Gombe, Nigeria kill at least 49 people. ](/news/2015/07/16/twin-blasts-at-a-market-in-gombe-nigeria-kill-at-least-49-people.md) _(Current version)_

@@ -12,3 +12,8 @@
 3. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: Mars, NASA_
 4. [NASA releases new pictures from the Dawn spacecraft as it approaches from a distance of 238,000 miles of Ceres, the largest object in the asteroid belt between Mars and Jupiter. Dawn will go into orbit around the dwarf planet on March 6. ](/news/2015/01/19/nasa-releases-new-pictures-from-the-dawn-spacecraft-as-it-approaches-from-a-distance-of-238-000-miles-of-ceres-the-largest-object-in-the-as.md) _Context: Mars, NASA_
 5. [NASA's Mars Reconnaissance Orbiter finds the Beagle 2 spacecraft that disappeared in 2003 intact on the surface of Mars. An error had stopped the spacecraft's solar panels from working and communicating back to Earth. ](/news/2015/01/16/nasa-s-mars-reconnaissance-orbiter-finds-the-beagle-2-spacecraft-that-disappeared-in-2003-intact-on-the-surface-of-mars-an-error-had-stoppe.md) _Context: Mars, Mars Reconnaissance Orbiter_
+
+### Changes:
+
+1. [ NASA releases close-up photos taken by the Mars Reconnaissance Orbiter of the planet Mars revealing its hidden, oceanic past. ](/news/2006/10/6/nasa-releases-close-up-photos-taken-by-the-mars-reconnaissance-orbiter-of-the-planet-mars-revealing-its-hidden-oceanic-past.md) _2017-08-25 03:18:32 (First version)_
+1. [ NASA releases close-up photos taken by the Mars Reconnaissance Orbiter of the planet Mars revealing its hidden, oceanic past. [http:--www.timesonline.co.uk-article-0,,3-2393113,00.html (The Times (UK))]](/news/2006/10/6/nasa-releases-close-up-photos-taken-by-the-mars-reconnaissance-orbiter-of-the-planet-mars-revealing-its-hidden-oceanic-past-http-www-t.md) _(Current version)_

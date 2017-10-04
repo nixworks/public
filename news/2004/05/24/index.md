@@ -4,7 +4,7 @@
 _Context: Momart_
 
 ### [ Saudi Arabian Oil Minister Ali Naimi declares that USD $30-34 per barrel is a 'fair and reasonable price', denies any differences within the Organization of Petroleum Exporting Countries (OPEC), and vouchsafes to increase crude oil supply by 2 million barrels per day (4 m 3 -s) if the market demands it. Previous reports of a deal between U.S. President George W. Bush and Saudi Arabia are not discussed. ](/news/2004/05/24/saudi-arabian-oil-minister-ali-naimi-declares-that-usd-30a34-per-barrel-is-a-fair-and-reasonable-price-denies-any-differences-within.md)
-_Context: George W. Bush, Organization of Petroleum Exporting Countries, Saudi Arabian, US$_
+_Context: $, George W. Bush, Organization of Petroleum Exporting Countries, Saudi Arabian_
 
 ### [ Copyright infringement: The Recording Industry Association of America sues 493 more individuals under US copyright law and intends to discover their identities. Nearly 3000 people have now been sued by the RIAA since September 2003. ](/news/2004/05/24/copyright-infringement-the-recording-industry-association-of-america-sues-493-more-individuals-under-us-copyright-law-and-intends-to-disco.md)
 _Context: Recording Industry Association of America, US copyright law, copyright infringement, lawsuit_

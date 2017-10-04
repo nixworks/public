@@ -16,3 +16,8 @@
 3. [Investigators hypothesise that the plane may be further to the north than the current search area. ](/news/2016/07/27/investigators-hypothesise-that-the-plane-may-be-further-to-the-north-than-the-current-search-area.md) _Context: Malaysia Airlines Flight 370_
 4. [An article in "New York" magazine speculates that the pilot may have deliberately crashed the plane into the Southern Ocean. ](/news/2016/07/23/an-article-in-new-york-magazine-speculates-that-the-pilot-may-have-deliberately-crashed-the-plane-into-the-southern-ocean.md) _Context: Malaysia Airlines Flight 370_
 5. [The Government of Malaysia confirms that two more pieces of debris found in South Africa and Rodrigues Island off the coast of Mauritius are "almost certainly" from Malaysia Airlines 370 that disappeared two years ago. ](/news/2016/05/12/the-government-of-malaysia-confirms-that-two-more-pieces-of-debris-found-in-south-africa-and-rodrigues-island-off-the-coast-of-mauritius-are.md) _Context: Malaysia Airlines Flight 370_
+
+### Changes:
+
+1. [Malaysia Airlines Flight 370: The underwater search for missing Malaysia Airlines Flight 370 has been suspended. ](/news/2017/01/17/malaysia-airlines-flight-370-the-underwater-search-for-missing-malaysia-airlines-flight-370-has-been-suspended.md) _2017-08-27 03:47:37 (First version)_
+1. [The underwater search for missing Malaysia Airlines Flight 370 has been suspended. ](/news/2017/01/17/the-underwater-search-for-missing-malaysia-airlines-flight-370-has-been-suspended.md) _(Current version)_

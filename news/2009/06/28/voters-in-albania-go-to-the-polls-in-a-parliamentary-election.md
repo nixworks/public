@@ -18,3 +18,8 @@ Albanians were voting in legislative elections seen as crucial for the European 
 3. [More than 400 Albanian police supported by Army helicopters surround the village of Lazarat in southern Albania known as the "cannabis Kingdom" where an armed criminal gang has entrenched itself. ](/news/2015/06/25/more-than-400-albanian-police-supported-by-army-helicopters-surround-the-village-of-lazarat-in-southern-albania-known-as-the-cannabis-kingd.md) _Context: Albania_
 4. [Pope Francis celebrates Mass in Albania. ](/news/2014/09/21/pope-francis-celebrates-mass-in-albania.md) _Context: Albania_
 5. [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md) _Context: Albania_
+
+### Changes:
+
+1. [ Voters in Argentina go to the polls for the legislative elections. ](/news/2009/06/28/voters-in-argentina-go-to-the-polls-for-the-legislative-elections.md) _2017-10-03 03:27:53 (First version)_
+1. [ Voters in Albania go to the polls in a parliamentary election. ](/news/2009/06/28/voters-in-albania-go-to-the-polls-in-a-parliamentary-election.md) _(Current version)_

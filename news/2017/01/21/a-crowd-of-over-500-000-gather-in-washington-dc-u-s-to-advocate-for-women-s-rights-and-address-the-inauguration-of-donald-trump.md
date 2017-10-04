@@ -17,3 +17,8 @@
 
 1. [Some protesters of the inauguration smash windows, damage cars, and clash with the police. Six police officers and at least one civilian are injured. DC police say 217 protesters have been arrested. ](/news/2017/01/20/some-protesters-of-the-inauguration-smash-windows-damage-cars-and-clash-with-the-police-six-police-officers-and-at-least-one-civilian-are.md) _Context: Inauguration of Donald Trump protests_
 2. [Donald Trump is officially sworn in as the 45th President of the United States. ](/news/2017/01/20/donald-trump-is-officially-sworn-in-as-the-45th-president-of-the-united-states.md) _Context: inauguration of Donald Trump_
+
+### Changes:
+
+1. [2017 Women's March and A crowd of over 500,000 gather in Washington DC, U.S., to advocate for women's rights and address the inauguration of Donald Trump ](/news/2017/01/21/2017-women-s-march-and-a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of.md) _2017-08-25 03:47:14 (First version)_
+1. [A crowd of over 500,000 gather in Washington DC, U.S., to advocate for women's rights and address the inauguration of Donald Trump ](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.md) _(Current version)_

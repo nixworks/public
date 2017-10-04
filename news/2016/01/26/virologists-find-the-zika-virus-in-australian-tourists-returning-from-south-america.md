@@ -17,3 +17,8 @@ The mosquito-borne Zika virus, linked to brain damage in babies, has already bee
 3. [The World Health Organization declares the spread of the Zika virus a global public health emergency requiring an urgent, united response. ](/news/2016/02/1/the-world-health-organization-declares-the-spread-of-the-zika-virus-a-global-public-health-emergency-requiring-an-urgent-united-response.md) _Context: Zika virus, Zika virus outbreak in the Americas (2015-present)_
 4. [Jamaican health officials confirm the country's first case of the Zika virus in a 4-year-old child who recently returned from a trip to Texas. ](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.md) _Context: Zika virus, Zika virus outbreak in the Americas (2015-present)_
 5. [The World Health Organization forms an emergency committee to tackle the spread of the Zika virus in the Americas. ](/news/2016/01/28/the-world-health-organization-forms-an-emergency-committee-to-tackle-the-spread-of-the-zika-virus-in-the-americas.md) _Context: Zika virus, Zika virus outbreak in the Americas (2015-present)_
+
+### Changes:
+
+1. [Zika virus outbreak in the Americas (2015-present): Virologists find the Zika virus in Australian tourists returning from South America. ](/news/2016/01/26/zika-virus-outbreak-in-the-americas-2015-present-virologists-find-the-zika-virus-in-australian-tourists-returning-from-south-america.md) _2017-08-27 03:44:45 (First version)_
+1. [Virologists find the Zika virus in Australian tourists returning from South America. ](/news/2016/01/26/virologists-find-the-zika-virus-in-australian-tourists-returning-from-south-america.md) _(Current version)_

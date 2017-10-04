@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The Nobel Prize committee will announce which scientist has won the Nobel Prize in Physics. ](/news/2017/10/3/the-nobel-prize-committee-will-announce-which-scientist-has-won-the-nobel-prize-in-physics.md) _Context: Nobel Prize in Physics_
+1. [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md) _Context: Nobel Prize in Physics_
 2. [British scientists, David Thouless, Duncan Haldane, and John M. Kosterlitz, are awarded the 2016 Nobel Prize in Physics "for theoretical discoveries of topological phase transitions and topological phases of matter". ](/news/2016/10/4/british-scientists-david-thouless-duncan-haldane-and-john-m-kosterlitz-are-awarded-the-2016-nobel-prize-in-physics-for-theoretical-dis.md) _Context: Nobel Prize in Physics_
 3. [Takaaki Kajita and Arthur B. McDonald win the 2015 Nobel Prize in Physics for their discovery of neutrino oscillations. ](/news/2015/10/6/takaaki-kajita-and-arthur-b-mcdonald-win-the-2015-nobel-prize-in-physics-for-their-discovery-of-neutrino-oscillations.md) _Context: Nobel Prize in Physics_
 4. [The European Union launches an antitrust action against American semiconductor company Qualcomm, for possible abuse of a dominant market position, on the one hand, and predatory pricing, on the other hand. ](/news/2015/07/16/the-european-union-launches-an-antitrust-action-against-american-semiconductor-company-qualcomm-for-possible-abuse-of-a-dominant-market-pos.md) _Context: semiconductor_

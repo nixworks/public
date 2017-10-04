@@ -23,3 +23,9 @@ The World Bank has increased funding to help Pakistan cope with catastrophic flo
 3. [Pakistan postpones a visit from U.S. acting Assistant Secretary of State Alice Wells, its foreign ministry says, as some protest President Donald Trump's accusations that Pakistan is harbouring terrorists. ](/news/2017/08/27/pakistan-postpones-a-visit-from-u-s-acting-assistant-secretary-of-state-alice-wells-its-foreign-ministry-says-as-some-protest-president-d.md) _Context: Pakistan_
 4. [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md) _Context: Pakistan_
 5. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: Pakistan_
+
+### Changes:
+
+1. [2010 Pakistan floods:The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/2010-pakistan-floods-pthe-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md) _2017-08-25 03:29:48 (First version)_
+2. [2010 Pakistan floods:: The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/2010-pakistan-floods-the-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md) _2017-08-27 03:29:52 (Update)_
+2. [The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/the-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md) _(Current version)_

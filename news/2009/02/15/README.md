@@ -7,7 +7,7 @@ _Context: Creutzfeldt-Jakob disease, United Kingdom, blood plasma, blood transfu
 At least 15 people died and seven were injured when a three-storey wooden hostel erupted in flames in southern Russia, local emergency officials say.
 
 ### [ Israel will pay US$50,000 to the family of a Palestinian man who was killed by the country's Defense Forces in December 2003. ](/news/2009/02/15/israel-will-pay-us-50-000-to-the-family-of-a-palestinian-man-who-was-killed-by-the-country-s-defense-forces-in-december-2003.md)
-_Context: 2003, Israel, Israel Defense Forces, Palestinian, US$_
+_Context: $, 2003, Israel, Israel Defense Forces, Palestinian_
 
 ### [ Zimbabwe replaces a treason charge against Deputy Agriculture Minister-designate Roy Bennett with "conspiring to acquire arms with a view to disrupting essential services." ](/news/2009/02/15/zimbabwe-replaces-a-treason-charge-against-deputy-agriculture-minister-designate-roy-bennett-with-conspiring-to-acquire-arms-with-a-view-t.md)
 _Context: Deputy Agriculture Minister-designate, Roy Bennett, Zimbabwe, conspiracy, indicted, service, treason, weapon_

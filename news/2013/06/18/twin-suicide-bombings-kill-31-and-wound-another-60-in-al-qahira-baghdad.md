@@ -17,3 +17,9 @@ At least 31 people are killed in a double suicide bomb attack at a Shia mosque i
 3. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 4. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_
 5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/iraqi-insurgency-post-u-s-withdrawal-ptwin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md) _2017-08-25 03:38:52 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/iraqi-insurgency-post-u-s-withdrawal-twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md) _2017-08-27 03:39:06 (Update)_
+2. [Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md) _(Current version)_

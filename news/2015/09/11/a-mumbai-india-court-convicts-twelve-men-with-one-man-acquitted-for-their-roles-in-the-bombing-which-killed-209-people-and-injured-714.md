@@ -15,3 +15,8 @@ A special court convicts 12 out of 13 men accused of planning bombings on commut
 
 1. [An Indian court sentences five suspected Islamic militants to death and seven others to life imprisonment for bombing attacks nine years ago on seven Mumbai commuter trains that killed 188 people and wounded more than 800. ](/news/2015/09/30/an-indian-court-sentences-five-suspected-islamic-militants-to-death-and-seven-others-to-life-imprisonment-for-bombing-attacks-nine-years-ago.md) _Context: 2006 Mumbai train bombings_
 2. [At least two people are killed and 18 others injured as protests held in Mumbai, India, against religious riots in Assam and Myanmar turn violent. ](/news/2012/08/11/at-least-two-people-are-killed-and-18-others-injured-as-protests-held-in-mumbai-india-against-religious-riots-in-assam-and-myanmar-turn-vi.md) _Context: Mumbai, India_
+
+### Changes:
+
+1. [2006 Mumbai train bombings: A Mumbai, India court convicts twelve men with one man acquitted for their roles in the bombing which killed 209 people and injured 714. ](/news/2015/09/11/2006-mumbai-train-bombings-a-mumbai-india-court-convicts-twelve-men-with-one-man-acquitted-for-their-roles-in-the-bombing-which-killed-209.md) _2017-08-27 03:43:01 (First version)_
+1. [A Mumbai, India court convicts twelve men with one man acquitted for their roles in the bombing which killed 209 people and injured 714. ](/news/2015/09/11/a-mumbai-india-court-convicts-twelve-men-with-one-man-acquitted-for-their-roles-in-the-bombing-which-killed-209-people-and-injured-714.md) _(Current version)_

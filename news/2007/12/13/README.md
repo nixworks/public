@@ -10,7 +10,7 @@ _Context: Americans, United States Senate, energy bill, fuel economy_
 _Context: Americans, George J. Mitchell, Major League Baseball, Mitchell Report, United States Senate, current and former, performance-enhancing drugs_
 
 ### [ A United States Marine Corps reservist is found guilty of killing an Iraqi soldier while they stood guard together in Fallujah. ](/news/2007/12/13/a-united-states-marine-corps-reservist-is-found-guilty-of-killing-an-iraqi-soldier-while-they-stood-guard-together-in-fallujah.md)
-_Context: Americans, Fallujah, Iraq, United States Marine Corps, reservist_
+_Context: Americans, Fallujah, Iraq, U.S. Marine, reservist_
 
 ### [ European Union leaders sign the Reform Treaty in Lisbon, Portugal. ](/news/2007/12/13/european-union-leaders-sign-the-reform-treaty-in-lisbon-portugal.md)
 _Context: EU, Lisbon, Portugal, Treaty of Lisbon_

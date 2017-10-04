@@ -17,3 +17,8 @@
 3. [Warner Bros. has reported that "Harry Potter and the Deathly Hallows - Part 2", the final instalment of the "Harry Potter" film series has broken box office records, taking $92.1m (GBP57m) in North America on Friday, its opening day. ](/news/2011/07/17/warner-bros-has-reported-that-harry-potter-and-the-deathly-hallows-a-part-2-the-final-instalment-of-the-harry-potter-film-series-has.md) _Context: Warner Bros._
 4. [Warner Bros. axes the 3D version of the next Harry Potter film. ](/news/2010/10/9/warner-bros-axes-the-3d-version-of-the-next-harry-potter-film.md) _Context: Warner Bros._
 5. [The industrial dispute surrounding "The Hobbit" film project is mediated by New Zealand's Economic Development Minister Gerry Brownlee and Arts and Culture Minister Chris Finlayson. ](/news/2010/10/4/the-industrial-dispute-surrounding-the-hobbit-film-project-is-mediated-by-new-zealand-s-economic-development-minister-gerry-brownlee-and-a.md) _Context: ''The Hobbit'' film project_
+
+### Changes:
+
+1. [Crisis talks between the New Zealand Government and Warner Bros. to prevent ''The Hobbit'' film project from moving its production to another country have ended inconclusively. ](/news/2010/10/26/crisis-talks-between-the-new-zealand-government-and-warner-bros-to-prevent-the-hobbit-film-project-from-moving-its-production-to-anothe.md) _2017-08-25 03:30:42 (First version)_
+1. [Crisis talks between the New Zealand Government and Warner Bros. to prevent "The Hobbit" film project from moving its production to another country have ended inconclusively. ](/news/2010/10/26/crisis-talks-between-the-new-zealand-government-and-warner-bros-to-prevent-the-hobbit-film-project-from-moving-its-production-to-another.md) _(Current version)_

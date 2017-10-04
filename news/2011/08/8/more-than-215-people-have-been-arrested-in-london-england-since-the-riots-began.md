@@ -23,3 +23,9 @@ Rioting has spread across London with cars and buildings set alight on a third n
 3. [Film director and newspaper columnist Michael Winner dies aged 77 in Kensington, London, England. ](/news/2013/01/21/film-director-and-newspaper-columnist-michael-winner-dies-aged-77-in-kensington-london-england.md) _Context: England, London_
 4. [Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-birmingham.md) _Context: England, London_
 5. [Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/rioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-largely-quiet.md) _Context: England, London_
+
+### Changes:
+
+1. [2011 London riots:More than 215 people have been arrested in London, England since the riots began. ](/news/2011/08/8/2011-london-riots-pmore-than-215-people-have-been-arrested-in-london-england-since-the-riots-began.md) _2017-08-25 03:33:58 (First version)_
+2. [2011 London riots:: More than 215 people have been arrested in London, England since the riots began. ](/news/2011/08/8/2011-london-riots-more-than-215-people-have-been-arrested-in-london-england-since-the-riots-began.md) _2017-08-27 03:34:06 (Update)_
+2. [More than 215 people have been arrested in London, England since the riots began. ](/news/2011/08/8/more-than-215-people-have-been-arrested-in-london-england-since-the-riots-began.md) _(Current version)_

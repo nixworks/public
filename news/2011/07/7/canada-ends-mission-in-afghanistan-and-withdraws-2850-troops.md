@@ -18,3 +18,9 @@ The United States took complete charge of Kandahar Thursday, formally ending ove
 3. [ A suicide bombing targeting a Canadian military convoy kills at least 37 Afghan civilians and injures three Canadian soldiers in Spin Boldak, Afghanistan. ](/news/2008/02/18/a-suicide-bombing-targeting-a-canadian-military-convoy-kills-at-least-37-afghan-civilians-and-injures-three-canadian-soldiers-in-spin-bolda.md) _Context: Afghanistan, Canada_
 4. [ A military judge dismisses terrorism-related charges against a Canadian Guantanamo Bay detainee charged with killing a United States Army soldier in Afghanistan. ](/news/2007/06/4/a-military-judge-dismisses-terrorism-related-charges-against-a-canadian-guantanamo-bay-detainee-charged-with-killing-a-united-states-army-s.md) _Context: Afghanistan, Canada_
 5. [ The United States Secretary of Defense Robert M. Gates meets with the Defense Ministers of the United Kingdom, Australia, Canada, the Netherlands and Denmark as well as officials from Estonia and Romania to discuss progress in Afghanistan in expectation of a Taliban offensive. Two Canadian soldiers are killed when a roadside bomb explodes. ](/news/2007/04/11/the-united-states-secretary-of-defense-robert-m-gates-meets-with-the-defense-ministers-of-the-united-kingdom-australia-canada-the-nethe.md) _Context: Afghanistan, Canada_
+
+### Changes:
+
+1. [War in Afghanistan:Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-pcanada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _2017-08-25 03:33:42 (First version)_
+2. [War in Afghanistan:: Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-canada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _2017-08-27 03:33:51 (Update)_
+2. [Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/canada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _(Current version)_

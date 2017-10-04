@@ -17,3 +17,8 @@
 3. [Nigeria, Niger, Cameroon, Benin, and Chad join together to combat Boko Haram. ](/news/2014/05/17/nigeria-niger-cameroon-benin-and-chad-join-together-to-combat-boko-haram.md) _Context: Beninese_
 4. [President Boni Yayi of Benin dismisses his entire Cabinet. ](/news/2013/08/9/president-boni-yayi-of-benin-dismisses-his-entire-cabinet.md) _Context: Beninese_
 5. [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-beninaore-expressway.md) _Context: Beninese_
+
+### Changes:
+
+1. [Beninese presidential election, 2016: Voting for the second round of Benin's election begins with current President Thomas Boni Yayi stepping down after completing two terms. ](/news/2016/03/20/beninese-presidential-election-2016-voting-for-the-second-round-of-benin-s-election-begins-with-current-president-thomas-boni-yayi-steppin.md) _2017-08-27 03:45:19 (First version)_
+1. [Voting for the second round of Benin's election begins with current President Thomas Boni Yayi stepping down after completing two terms. ](/news/2016/03/20/voting-for-the-second-round-of-benin-s-election-begins-with-current-president-thomas-boni-yayi-stepping-down-after-completing-two-terms.md) _(Current version)_

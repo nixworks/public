@@ -18,3 +18,8 @@ The Syrian army and its allies reached an air base besieged for years by Islamic
 3. [The United States acknowledges that its warplanes may have hit a Syrian Army position near Deir ez-Zor Airport in eastern Syria, while conducting an operation against ISIL, killing more than 60 Syrian troops. ](/news/2016/09/17/the-united-states-acknowledges-that-its-warplanes-may-have-hit-a-syrian-army-position-near-deir-ez-zor-airport-in-eastern-syria-while-condu.md) _Context: Deir ez-Zor Airport, Islamic State, Syrian Army, Syrian Civil War_
 4. [The Syrian Army captures at least 23 villages in North East Aleppo Governorate from ISIL in a matter of hours after an ISIL withdrawal caused by the SAA capturing Al-Khafsah. ](/news/2017/03/7/the-syrian-army-captures-at-least-23-villages-in-north-east-aleppo-governorate-from-isil-in-a-matter-of-hours-after-an-isil-withdrawal-cause.md) _Context: Islamic State, Syrian Army, Syrian Civil War_
 5. [The Syrian Army and its allies recapture the ancient city of Palmyra from the Islamic State of Iraq and the Levant. ](/news/2017/03/2/the-syrian-army-and-its-allies-recapture-the-ancient-city-of-palmyra-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: Islamic State, Syrian Army, Syrian Civil War_
+
+### Changes:
+
+1. [The Syrian army breaks the Islamic States' nine month long siege of the Deir ez-Zor airport. ](/news/2017/09/9/the-syrian-army-breaks-the-islamic-states-nine-month-long-siege-of-the-deir-ez-zor-airport.md) _2017-09-09 18:30:05 (First version)_
+1. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _(Current version)_

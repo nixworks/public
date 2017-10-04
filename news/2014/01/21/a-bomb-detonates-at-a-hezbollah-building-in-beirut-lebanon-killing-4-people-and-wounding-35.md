@@ -17,3 +17,9 @@ BEIRUT (AP) — A car bomb ripped through a Shiite neighborhood in south Beirut 
 3. [A Lebanese man protesting against Hezbollah's role in the Syrian civil war is shot dead outside the Iranian embassy in Beirut. ](/news/2013/06/9/a-lebanese-man-protesting-against-hezbollah-s-role-in-the-syrian-civil-war-is-shot-dead-outside-the-iranian-embassy-in-beirut.md) _Context: Beirut, Hezbollah, Lebanon_
 4. [ 2008 unrest in Lebanon: Gunbattles erupt in Beirut as the government of Lebanon cracks down on Hezbollah. Two people are killed and eight injured in the fighting. ](/news/2008/05/8/2008-unrest-in-lebanon-gunbattles-erupt-in-beirut-as-the-government-of-lebanon-cracks-down-on-hezbollah-two-people-are-killed-and-eight-i.md) _Context: Beirut, Hezbollah, Lebanon_
 5. [ Hezbollah members demonstrate their opposition to the Siniora administration in Beirut, Lebanon. ](/news/2006/12/1/hezbollah-members-demonstrate-their-opposition-to-the-siniora-administration-in-beirut-lebanon.md) _Context: Beirut, Hezbollah, Lebanon_
+
+### Changes:
+
+1. [Syrian Civil War spillover in Lebanon:A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-pa-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _2017-08-25 03:39:55 (First version)_
+2. [Syrian Civil War spillover in Lebanon:: A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _2017-08-27 03:40:14 (Update)_
+2. [A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _(Current version)_

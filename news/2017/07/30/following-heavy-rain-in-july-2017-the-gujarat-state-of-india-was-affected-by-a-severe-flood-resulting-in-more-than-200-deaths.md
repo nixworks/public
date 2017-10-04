@@ -18,3 +18,9 @@ The flood toll in Gujarat has risen to 218 this monsoon, with 61 people killed i
 3. [At least 37 people die in the Indian state of Gujarat after a passenger bus plunges off a bridge over the Purna River. ](/news/2016/02/5/at-least-37-people-die-in-the-indian-state-of-gujarat-after-a-passenger-bus-plunges-off-a-bridge-over-the-purna-river.md) _Context: Gujarat_
 4. [The Government of India deploys the Army to the state of Gujarat after two days of caste-related violence results in seven deaths. ](/news/2015/08/27/the-government-of-india-deploys-the-army-to-the-state-of-gujarat-after-two-days-of-caste-related-violence-results-in-seven-deaths.md) _Context: Gujarat_
 5. [Protests by the Patidar community in Ahmedabad turn violent, sparking violence across the state of Gujarat, India. ](/news/2015/08/25/protests-by-the-patidar-community-in-ahmedabad-turn-violent-sparking-violence-across-the-state-of-gujarat-india.md) _Context: Gujarat_
+
+### Changes:
+
+1. [ Following heavy rain in July 2017, the Gujarat state of India was affected by the severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-the-severe-flood-resulting-in-more-than-200-deaths.md) _2017-08-01 13:30:05 (First version)_
+2. [ Floods in India: Following heavy rain in July 2017, the Gujarat state of India was affected by a severe flood resulting in more than 200 deaths.](/news/2017/07/30/floods-in-india-following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-a-severe-flood-resulting-in-more-than-200-de.md) _2017-08-27 03:48:44 (Update)_
+2. [ Following heavy rain in July 2017, the Gujarat state of India was affected by a severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-a-severe-flood-resulting-in-more-than-200-deaths.md) _(Current version)_

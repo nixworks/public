@@ -23,3 +23,8 @@ China can maintain its grip on Tibet &quot;forever&quot;, a senior official said
 3. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: China, Taiwan_
 4. [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier "Liaoning", sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following-e.md) _Context: China, Taiwan_
 5. [At least 13 people are killed and 20 others are missing following a gas explosion in a coal mine in western China's Chongqing region. ](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.md) _Context: China, Chongqing_
+
+### Changes:
+
+1. [China: China and Taiwan sign a trade deal in the southern mainland city of Chongqing. ](/news/2010/06/29/china-china-and-taiwan-sign-a-trade-deal-in-the-southern-mainland-city-of-chongqing.md) _2017-08-27 03:28:29 (First version)_
+1. [China and Taiwan sign a trade deal in the southern mainland city of Chongqing. ](/news/2010/06/29/china-and-taiwan-sign-a-trade-deal-in-the-southern-mainland-city-of-chongqing.md) _(Current version)_

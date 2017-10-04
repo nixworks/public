@@ -19,7 +19,7 @@ _Context: James Brown, prostate cancer_
 _Context: Pakistan, Quetta_
 
 ### [ The Inter-American Court of Human Rights orders Guatemala to pay USD $7.9 million in compensation to 317 survivors of the 1982 Plan de Snchez massacre in which soldiers and paramilitaries killed 268 villagers.](/news/2004/12/10/the-inter-american-court-of-human-rights-orders-guatemala-to-pay-usd-7-9-million-in-compensation-to-317-survivors-of-the-1982-plan-de-sanc.md)
-_Context: Guatemala, Inter-American Court of Human Rights, Plan de Snchez massacre, US$_
+_Context: $, Guatemala, Inter-American Court of Human Rights, Plan de Snchez massacre_
 
 ## [Previous Day...](/news/2004/12/9/index.md)
 

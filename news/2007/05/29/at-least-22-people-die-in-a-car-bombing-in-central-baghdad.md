@@ -19,3 +19,9 @@ Gunmen in police uniforms kidnapped five Britons in Baghdad on Tuesday and the d
 3. [ A car bomb explosion outside a popular ice cream parlor in central Baghdad kills 13 people and injures 24. ISIL claims responsibility for the attack. ](/news/2017/05/30/a-car-bomb-explosion-outside-a-popular-ice-cream-parlor-in-central-baghdad-kills-13-people-and-injures-24-isil-claims-responsibility-for-t.md) _Context: Baghdad_
 4. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Baghdad_
 5. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
+
+### Changes:
+
+1. [ Iraqi insurgency: At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/iraqi-insurgency-p-at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _2017-08-25 03:19:54 (First version)_
+2. [ Iraqi insurgency:: At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/iraqi-insurgency-at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _2017-08-27 03:19:52 (Update)_
+2. [ At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _(Current version)_

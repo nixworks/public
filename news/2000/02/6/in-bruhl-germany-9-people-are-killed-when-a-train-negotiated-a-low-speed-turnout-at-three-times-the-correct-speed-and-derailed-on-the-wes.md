@@ -12,3 +12,8 @@
 3. [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md) _Context: Germany_
 4. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Germany_
 5. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Germany_
+
+### Changes:
+
+1. [Brhl train disaster: In Brhl, Germany, 9 people are killed when a train negotiated a low speed turnout at three times the correct speed and derailed, on the West Rhine Railway.](/news/2000/02/6/bruhl-train-disaster-in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-an.md) _2017-08-27 03:15:07 (First version)_
+1. [In Brhl, Germany, 9 people are killed when a train negotiated a low speed turnout at three times the correct speed and derailed, on the West Rhine Railway.](/news/2000/02/6/in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-and-derailed-on-the-wes.md) _(Current version)_

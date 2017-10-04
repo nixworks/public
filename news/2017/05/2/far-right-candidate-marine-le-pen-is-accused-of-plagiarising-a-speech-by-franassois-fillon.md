@@ -17,3 +17,9 @@
 3. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _Context: Marine Le Pen, last month's presidential election_
 4. [Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md) _Context: Marine Le Pen, last month's presidential election_
 5. [Jean-Francois Jalkh, who replaced current presidential finalist Marine Le Pen as leader of the National Front, steps down from this role after three days following the reemergence of his comments questioning the logistics of Holocaust extermination camps, and is replaced by Steeve Briois. ](/news/2017/04/28/jean-franassois-jalkh-who-replaced-current-presidential-finalist-marine-le-pen-as-leader-of-the-national-front-steps-down-from-this-role-af.md) _Context: Marine Le Pen, last month's presidential election_
+
+### Changes:
+
+1. [Far-right candidate Marine le Pen is accused of allegedly plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-allegedly-plagiarising-a-speech-by-francois-fillon.md) _2017-05-02 19:30:07 (First version)_
+2. [French presidential election, 2017: Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/french-presidential-election-2017-far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md) _2017-08-27 03:48:16 (Update)_
+2. [Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md) _(Current version)_

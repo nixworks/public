@@ -20,3 +20,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 3. [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md) _Context: Georgian_
 4. [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md) _Context: Georgian_
 5. [The European Union grants visa-free travel for Georgia and Ukraine. ](/news/2016/12/9/the-european-union-grants-visa-free-travel-for-georgia-and-ukraine.md) _Context: Georgian_
+
+### Changes:
+
+1. [ Prime Minister Zurab Zhvania of Georgia dies of gas poisoning. Zhvania was found dead by security guards, an apparent victim of carbon monoxide exposure. ](/news/2005/02/3/prime-minister-zurab-zhvania-of-georgia-dies-of-gas-poisoning-zhvania-was-found-dead-by-security-guards-an-apparent-victim-of-carbon-mon.md) _2017-08-25 03:15:37 (First version)_
+1. [ Prime Minister Zurab Zhvania of Georgia dies of gas poisoning. Zhvania was found dead by security guards, an apparent victim of carbon monoxide exposure. ](/news/2005/02/3/prime-minister-zurab-zhvania-of-georgia-dies-of-gas-poisoning-zhvania-was-found-dead-by-security-guards-an-apparent-victim-of-carbon-mono.md) _(Current version)_

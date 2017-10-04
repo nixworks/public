@@ -18,3 +18,8 @@
 3. [The Kenyan electoral commission announces that President Uhuru Kenyatta has won re-election. Kenyatta leads ODM candidate Raila Odinga by more than 1.4 million votes. The opposition National Super Alliance rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-has-won-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-mo.md) _Context: re-election_
 4. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Hosni Mubarak_
 5. [Former Egyptian President Hosni Mubarak is acquitted of involvement in the deaths of hundreds of anti-government protesters during the 2011 Egyptian revolution. ](/news/2017/03/2/former-egyptian-president-hosni-mubarak-is-acquitted-of-involvement-in-the-deaths-of-hundreds-of-anti-government-protesters-during-the-2011.md) _Context: Hosni Mubarak_
+
+### Changes:
+
+1. [ Egyptian presidential election, 2005: The first ever multi-party elections in Egypt are conducted, with incumbent President Hosni Mubarak expected to win a fifth six-year term. ](/news/2005/09/7/egyptian-presidential-election-2005-the-first-ever-multi-party-elections-in-egypt-are-conducted-with-incumbent-president-hosni-mubarak.md) _2017-08-25 03:16:46 (First version)_
+1. [ Egyptian presidential election, 2005: The first ever multi-party elections in Egypt are conducted, with incumbent President Hosni Mubarak expected to win a fifth six-year term. ](/news/2005/09/7/egyptian-presidential-election-2005-the-first-ever-multi-party-elections-in-egypt-are-conducted-with-incumbent-president-hosni-mubarak-e.md) _(Current version)_

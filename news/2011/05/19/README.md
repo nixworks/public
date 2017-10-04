@@ -34,7 +34,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japanese economy, recession_
 _Context: $, Barnes & Noble, John Malone, Liberty Media_
 
 ### [The Eurasian Economic Community, led by Russia, offers Belarus a $3 billion bailout package. ](/news/2011/05/19/the-eurasian-economic-community-led-by-russia-offers-belarus-a-3-billion-bailout-package.md)
-_Context: Belarus, Eurasian Economic Community, Russia, US$_
+_Context: $, Belarus, Eurasian Economic Community, Russia_
 
 ### [22 people are killed when Sol Lineas Aereas Flight 5428 crashes in southern Argentina. ](/news/2011/05/19/22-people-are-killed-when-sol-laneas-aa-c-reas-flight-5428-crashes-in-southern-argentina.md)
 All 22 people aboard a commuter plane were killed when it crashed in southern Argentina, the airline said Thursday.

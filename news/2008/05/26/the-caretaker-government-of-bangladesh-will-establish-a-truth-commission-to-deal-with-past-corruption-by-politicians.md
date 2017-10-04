@@ -16,3 +16,8 @@
 3. [Mohammad al-Dahabi, the former spy chief of Jordan, is sentenced to 13 years imprisonment after being convicted of corruption. ](/news/2012/11/11/mohammad-al-dahabi-the-former-spy-chief-of-jordan-is-sentenced-to-13-years-imprisonment-after-being-convicted-of-corruption.md) _Context: anti-corruption_
 4. [After 15 years, the Mahon Tribunal into political corruption in Ireland concludes with findings against high-profile politicians, including two former Taoisigh. ](/news/2012/03/22/after-15-years-the-mahon-tribunal-into-political-corruption-in-ireland-concludes-with-findings-against-high-profile-politicians-including.md) _Context: anti-corruption_
 5. [P. J. Thomas, India's chief of anti-corruption, resigns over charges brought against him of corruption stemming from 1992. ](/news/2011/03/3/p-j-thomas-india-s-chief-of-anti-corruption-resigns-over-charges-brought-against-him-of-corruption-stemming-from-1992.md) _Context: anti-corruption_
+
+### Changes:
+
+1. [ The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. [http:--news.bbc.co.uk-2-hi-south_asia-7420410.stm (BBC News)].](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-establish-a-truth-commission-to-deal-with-past-corruption-by-politicians-http-news-bbc-co-u.md) _2017-06-18 03:22:37 (First version)_
+1. [ The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. ](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-establish-a-truth-commission-to-deal-with-past-corruption-by-politicians.md) _(Current version)_

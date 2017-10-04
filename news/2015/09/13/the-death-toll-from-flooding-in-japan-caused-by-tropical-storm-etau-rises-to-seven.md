@@ -19,3 +19,8 @@ TOKYO (AFP) - The number of people who died in floods which devastated Japan thi
 3. [Thousands of people are evacuated on the Japanese island of Hokkaido as Typhoon Choi-wan approaches from the east. ](/news/2015/10/8/thousands-of-people-are-evacuated-on-the-japanese-island-of-hokkaido-as-typhoon-choi-wan-approaches-from-the-east.md) _Context: 2015 Pacific typhoon season, Japan_
 4. [Japan resumes a search for 16 missing persons after torrential rain and floods with thousands still hoping to return home. ](/news/2015/09/12/japan-resumes-a-search-for-16-missing-persons-after-torrential-rain-and-floods-with-thousands-still-hoping-to-return-home.md) _Context: Japan, Tropical Storm Etau_
 5. [Typhoon Goni makes landfall in southwestern Japan with at least 26 people injured but no people killed. The death toll in the Philippines rises to 21 while South Korea is on alert. ](/news/2015/08/25/typhoon-goni-makes-landfall-in-southwestern-japan-with-at-least-26-people-injured-but-no-people-killed-the-death-toll-in-the-philippines-ri.md) _Context: 2015 Pacific typhoon season, Japan_
+
+### Changes:
+
+1. [2015 Pacific typhoon season: The death toll from flooding in Japan caused by Tropical Storm Etau rises to seven. ](/news/2015/09/13/2015-pacific-typhoon-season-the-death-toll-from-flooding-in-japan-caused-by-tropical-storm-etau-rises-to-seven.md) _2017-08-27 03:43:02 (First version)_
+1. [The death toll from flooding in Japan caused by Tropical Storm Etau rises to seven. ](/news/2015/09/13/the-death-toll-from-flooding-in-japan-caused-by-tropical-storm-etau-rises-to-seven.md) _(Current version)_

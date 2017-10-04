@@ -16,3 +16,8 @@
 3. [Five migrants drown off the island of Samos close to Turkey. ](/news/2016/04/9/five-migrants-drown-off-the-island-of-samos-close-to-turkey.md) _Context: European migrant crisis, Samos, Turkey_
 4. [Greece starts deporting migrants to Turkey. ](/news/2016/04/4/greece-starts-deporting-migrants-to-turkey.md) _Context: European migrant crisis, Greek, Turkey_
 5. [At least 25 migrants, including 10 children, drown after their wooden boat capsizes in the Aegean Sea near the seaside town of Didim, Turkey. The Turkish Coast Guard was able to rescue 15 people. ](/news/2016/03/6/at-least-25-migrants-including-10-children-drown-after-their-wooden-boat-capsizes-in-the-aegean-sea-near-the-seaside-town-of-didim-turkey.md) _Context: European migrant crisis, Turkey, Turkish Coast Guard_
+
+### Changes:
+
+1. [European migrant crisis: Turkey's state-run Anadolu Agency reports 11 migrants, including three children, drowned, and the Turkish coast guard rescued seven Syrians from a capsized boat headed to the Greek island of Samos. ](/news/2015/12/22/european-migrant-crisis-turkey-s-state-run-anadolu-agency-reports-11-migrants-including-three-children-drowned-and-the-turkish-coast-gua.md) _2017-08-27 03:44:28 (First version)_
+1. [Turkey's state-run Anadolu Agency reports 11 migrants, including three children, drowned, and the Turkish coast guard rescued seven Syrians from a capsized boat headed to the Greek island of Samos. ](/news/2015/12/22/turkey-s-state-run-anadolu-agency-reports-11-migrants-including-three-children-drowned-and-the-turkish-coast-guard-rescued-seven-syrians.md) _(Current version)_

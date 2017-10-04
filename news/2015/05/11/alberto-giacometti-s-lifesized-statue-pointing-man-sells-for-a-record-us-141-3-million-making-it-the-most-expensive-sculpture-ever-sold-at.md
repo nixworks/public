@@ -16,3 +16,8 @@
 3. [ A colossal statue of Apollo is discovered at a UNESCO World Heritage Site at Hierapolis, Turkey. ](/news/2009/09/8/a-colossal-statue-of-apollo-is-discovered-at-a-unesco-world-heritage-site-at-hierapolis-turkey.md) _Context: statue_
 4. [ A bomb damages a statue of Vladimir Lenin near Finlyandsky Rail Terminal in Saint Petersburg, Russia. ](/news/2009/04/1/a-bomb-damages-a-statue-of-vladimir-lenin-near-finlyandsky-rail-terminal-in-saint-petersburg-russia.md) _Context: statue_
 5. [ A Paris court rejects a bid to block the auction of two China-claimed Qing Dynasty sculptures that are part of Yves Saint Laurent's art collection. ](/news/2009/02/23/a-paris-court-rejects-a-bid-to-block-the-auction-of-two-china-claimed-qing-dynasty-sculptures-that-are-part-of-yves-saint-laurent-s-art-col.md) _Context: sculpture_
+
+### Changes:
+
+1. [Alberto Giacometti's lifesized statue ''Pointing Man'' sells for a record US$141.3 million making it the most expensive sculpture ever sold at auction. ](/news/2015/05/11/alberto-giacometti-s-lifesized-statue-pointing-man-sells-for-a-record-us-141-3-million-making-it-the-most-expensive-sculpture-ever-sold.md) _2017-08-25 03:41:59 (First version)_
+1. [Alberto Giacometti's lifesized statue "Pointing Man" sells for a record US$141.3 million making it the most expensive sculpture ever sold at auction. ](/news/2015/05/11/alberto-giacometti-s-lifesized-statue-pointing-man-sells-for-a-record-us-141-3-million-making-it-the-most-expensive-sculpture-ever-sold-at.md) _(Current version)_

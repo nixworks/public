@@ -17,3 +17,8 @@ Some 25,000 households will be without electricity overnight as Storm Barney swe
 3. [Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _Context: Ireland_
 4. [The European Union orders Apple to pay up to 13 billion euros in back taxes to Ireland. A three-year investigation by the EU's competition commissioner concludes that Apple received "illegal state aid" from Ireland, the EU order that Apple pay 13 billion euros ($14.5 billion), and, in addition, also interest and unpaid taxes. ](/news/2016/08/30/the-european-union-orders-apple-to-pay-up-to-13-billion-euros-in-back-taxes-to-ireland-a-three-year-investigation-by-the-eu-s-competition-c.md) _Context: Ireland_
 5. [The United Kingdom's Met Office warns of major travel disruption due to heavy rain, flooding and "damaging" high winds as Storm Katie moves in from the Atlantic Ocean bringing winds of up to 75mph. ](/news/2016/03/28/the-united-kingdom-s-met-office-warns-of-major-travel-disruption-due-to-heavy-rain-flooding-and-damaging-high-winds-as-storm-katie-moves.md) _Context: 2015-16 UK and Ireland windstorm season_
+
+### Changes:
+
+1. [2015-16 UK and Ireland windstorm season: Some 25,000 households in Ireland lose power as a result of Storm Barney. ](/news/2015/11/18/2015-16-uk-and-ireland-windstorm-season-some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.md) _2017-08-27 03:43:55 (First version)_
+1. [Some 25,000 households in Ireland lose power as a result of Storm Barney. ](/news/2015/11/18/some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.md) _(Current version)_

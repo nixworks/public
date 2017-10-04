@@ -4,7 +4,7 @@
 _Context: Galileo probe_
 
 ### [ Espionage: The "Washington Times" reveals the arrest of U.S. Army Captain James Yee, an Islamic chaplain at the Guantanamo Bay naval base, for officials, speaking on condition of anonymity, state that FBI agents discovered classified documents carried by Yee and were questioning him before handing him over to the military.](/news/2003/09/21/espionage-the-washington-times-reveals-the-arrest-of-u-s-army-captain-james-yee-an-islamic-chaplain-at-the-guantanamo-bay-naval-base.md)
-_Context: FBI, Guantnamo Bay detainment camp, James Yee, Washington Times, chaplain, espionage_
+_Context: FBI, Guantnamo Bay detainment camp, James Yee, Washington Times, chaplain, spy_
 
 ### [ Terrorism - 9-11: Khalid Shaikh Mohammed, mastermind of the September 11 attacks, tells interrogators he first discussed the plot with Osama bin Laden in 1996. The original plan, and its evolution, are told to an interrogator, along with the answers to several questions over the attacks.](/news/2003/09/21/terrorism-a-9-11-khalid-shaikh-mohammed-mastermind-of-the-september-11-attacks-tells-interrogators-he-first-discussed-the-plot-with-os.md)
 _Context: Khalid Shaikh Mohammed, Osama bin Laden, September 11, 2001 attacks, plan, terrorism_

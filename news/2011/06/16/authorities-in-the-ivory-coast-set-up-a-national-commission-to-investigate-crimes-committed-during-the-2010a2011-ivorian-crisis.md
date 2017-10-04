@@ -17,3 +17,8 @@ Authorities in Ivory Coast say they are setting up a national commission to inve
 3. [Ivory Coast resumes exports of cocoa after a political crisis and brief civil war. ](/news/2011/05/10/ivory-coast-resumes-exports-of-cocoa-after-a-political-crisis-and-brief-civil-war.md) _Context: 2010-2011 Ivorian crisis, Ivory Coast_
 4. [2010-2011 Ivorian crisis: Heavy fighting continues in Abidjan, the largest city in the Ivory Coast between forces loyal to current President of the Ivory Coast Laurent Gbagbo and internationally-recognised claimant Alassane Ouattara. ](/news/2011/04/1/2010a2011-ivorian-crisis-heavy-fighting-continues-in-abidjan-the-largest-city-in-the-ivory-coast-between-forces-loyal-to-current-preside.md) _Context: 2010-2011 Ivorian crisis, Ivory Coast_
 5. [Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md) _Context: 2010-2011 Ivorian crisis, Ivory Coast_
+
+### Changes:
+
+1. [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010-2011-ivorian-crisis.md) _2017-08-27 03:33:38 (First version)_
+1. [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010a2011-ivorian-crisis.md) _(Current version)_

@@ -22,3 +22,9 @@ Thousands of Syrians took to the streets in what appeared to be a dangerous turn
 3. [The European Union imposes sanctions on 13 Syrian officials in response to a violent crackdown on protests in the country. ](/news/2011/05/10/the-european-union-imposes-sanctions-on-13-syrian-officials-in-response-to-a-violent-crackdown-on-protests-in-the-country.md) _Context: Syria, protestors_
 4. [2011 Syrian protests:The Syrian human rights organisation Sawasiah claims that the Government of Syria has arrested 500 protesters since the crackdown began. ](/news/2011/04/26/2011-syrian-protests-the-syrian-human-rights-organisation-sawasiah-claims-that-the-government-of-syria-has-arrested-500-protesters-since-the.md) _Context: Syria, protestors_
 5. [Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/security-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md) _Context: Syria, protestors_
+
+### Changes:
+
+1. [2011 Syrian protests:Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-psyrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayers.md) _2017-08-25 03:33:12 (First version)_
+2. [2011 Syrian protests:: Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayer.md) _2017-08-27 03:33:21 (Update)_
+2. [Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayers.md) _(Current version)_

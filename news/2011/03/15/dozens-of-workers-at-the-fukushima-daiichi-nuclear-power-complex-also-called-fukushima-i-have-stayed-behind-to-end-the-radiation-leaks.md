@@ -29,3 +29,9 @@ Japan faced the likelihood of a catastrophic nuclear accident after an explosion
 20. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc00023fx.php)
 21. [news.com.au](http://www.news.com.au/breaking-news/radiation-shoots-up-after-nuke-plant-blast/story-e6frfku0-1226021707383)
 21. [Cover Image](https://static01.nyt.com/images/2011/03/15/world/NUCLEAR/NUCLEAR-thumbStandard.jpg)
+
+### Changes:
+
+1. [2011 Tohoku earthquake and tsunami:Dozens of workers at the Fukushima Daiichi nuclear power complex (also called ''Fukushima I'') have stayed behind to end the radiation leaks, known as the ''Fukushima 50'', risking fatal radiation exposure. ](/news/2011/03/15/2011-tahoku-earthquake-and-tsunami-pdozens-of-workers-at-the-fukushima-daiichi-nuclear-power-complex-also-called-fukushima-i-have-sta.md) _2017-08-25 03:32:32 (First version)_
+2. [2011 Tohoku earthquake and tsunami:: Dozens of workers at the Fukushima Daiichi nuclear power complex (also called "Fukushima I") have stayed behind to end the radiation leaks, known as the "Fukushima 50", risking fatal radiation exposure. ](/news/2011/03/15/2011-tahoku-earthquake-and-tsunami-dozens-of-workers-at-the-fukushima-daiichi-nuclear-power-complex-also-called-fukushima-i-have-stay.md) _2017-08-27 03:32:40 (Update)_
+2. [Dozens of workers at the Fukushima Daiichi nuclear power complex (also called "Fukushima I") have stayed behind to end the radiation leaks, known as the "Fukushima 50", risking fatal radiation exposure. ](/news/2011/03/15/dozens-of-workers-at-the-fukushima-daiichi-nuclear-power-complex-also-called-fukushima-i-have-stayed-behind-to-end-the-radiation-leaks.md) _(Current version)_

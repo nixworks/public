@@ -24,3 +24,9 @@ Videos uploaded on YouTube appear to show graphic scenes of recent violence in C
 15. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-7)
 16. [a live stream](http://english.aljazeera.net/watch_now/)
 16. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/6/20112615955414784_20.jpg)
+
+### Changes:
+
+1. [2011 Egyptian protests:People demonstrate against the Mubarak regime for the thirteenth consecutive day, dubbed the "Day of Martyrs" in memory of those killed. ](/news/2011/02/6/2011-egyptian-protests-ppeople-demonstrate-against-the-mubarak-regime-for-the-thirteenth-consecutive-day-dubbed-the-day-of-martyrs-in-mem.md) _2017-08-25 03:32:04 (First version)_
+2. [2011 Egyptian protests:: People demonstrate against the Mubarak regime for the thirteenth consecutive day, dubbed the "Day of Martyrs" in memory of those killed. ](/news/2011/02/6/2011-egyptian-protests-people-demonstrate-against-the-mubarak-regime-for-the-thirteenth-consecutive-day-dubbed-the-day-of-martyrs-in-me.md) _2017-08-27 03:32:13 (Update)_
+2. [People demonstrate against the Mubarak regime for the thirteenth consecutive day, dubbed the "Day of Martyrs" in memory of those killed. ](/news/2011/02/6/people-demonstrate-against-the-mubarak-regime-for-the-thirteenth-consecutive-day-dubbed-the-day-of-martyrs-in-memory-of-those-killed.md) _(Current version)_

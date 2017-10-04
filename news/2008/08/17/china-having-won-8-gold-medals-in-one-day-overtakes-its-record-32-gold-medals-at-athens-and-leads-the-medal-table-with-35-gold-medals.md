@@ -13,3 +13,9 @@ Swedish greco-roman wrestler Ara Abrahamian has been stripped of his 84kg-catego
 4. [Reuters](http://www.reuters.com/article/GCA-Olympics/idUSPEK25534420080817)
 5. [Reuters](http://www.reuters.com/article/GCA-Olympics/idUSSP5681420080816)
 5. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080816&t=2&i=5617031&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-08-16T103934Z_01_SP56814_RTRUKOP_0_PICTURE0)
+
+### Changes:
+
+1. [ 2008 Summer Olympics: China, having won 8 gold medals in one day, overtakes its record (32 gold medals) at Athens and leads the medal table with 35 gold medals. ](/news/2008/08/17/2008-summer-olympics-p-china-having-won-8-gold-medals-in-one-day-overtakes-its-record-32-gold-medals-at-athens-and-leads-the-medal-tabl.md) _2017-08-25 03:22:43 (First version)_
+2. [ 2008 Summer Olympics:: China, having won 8 gold medals in one day, overtakes its record (32 gold medals) at Athens and leads the medal table with 35 gold medals. ](/news/2008/08/17/2008-summer-olympics-china-having-won-8-gold-medals-in-one-day-overtakes-its-record-32-gold-medals-at-athens-and-leads-the-medal-tabl.md) _2017-08-27 03:22:36 (Update)_
+2. [ China, having won 8 gold medals in one day, overtakes its record (32 gold medals) at Athens and leads the medal table with 35 gold medals. ](/news/2008/08/17/china-having-won-8-gold-medals-in-one-day-overtakes-its-record-32-gold-medals-at-athens-and-leads-the-medal-table-with-35-gold-medals.md) _(Current version)_

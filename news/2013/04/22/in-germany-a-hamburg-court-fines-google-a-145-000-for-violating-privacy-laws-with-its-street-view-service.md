@@ -17,3 +17,8 @@ Google has been fined €145,000 by a German privacy regulator for the systemati
 3. [German police storm a refugee center in Hamburg after a knife-wielding man barricades himself in a room with a pregnant woman believed to be his partner. The man was injured before he was arrested. ](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.md) _Context: Germany, Hamburg_
 4. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: EUR, Germany_
 5. [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for EUR725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-a-725-million.md) _Context: EUR, Germany_
+
+### Changes:
+
+1. [In Germany, a Hamburg court fines Google -145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-145-000-for-violating-privacy-laws-with-its-street-view-service.md) _2017-08-27 03:38:39 (First version)_
+1. [In Germany, a Hamburg court fines Google EUR145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-a-145-000-for-violating-privacy-laws-with-its-street-view-service.md) _(Current version)_

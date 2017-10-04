@@ -17,3 +17,8 @@ A Philippine presidential debate erupted into heated exchanges Sunday over alleg
 3. [Bongbong Marcos pays [?]36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/bongbong-marcos-pays-a-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine-vice-president-leni-robredo.md) _Context: Philippine presidential election, 2016_
 4. [The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-marcos-against-philippine-vice-president-le.md) _Context: Philippine presidential election, 2016_
 5. [Filipino voters head to the polls for a presidential election with unofficial counts showing Davao City mayor Rodrigo Duterte with a commanding lead. ](/news/2016/05/9/filipino-voters-head-to-the-polls-for-a-presidential-election-with-unofficial-counts-showing-davao-city-mayor-rodrigo-duterte-with-a-command.md) _Context: Philippine presidential election, 2016_
+
+### Changes:
+
+1. [Philippine presidential election, 2016: The second leg of the presidential debates was held in Cebu City. ](/news/2016/03/20/philippine-presidential-election-2016-the-second-leg-of-the-presidential-debates-was-held-in-cebu-city.md) _2017-08-27 03:45:19 (First version)_
+1. [The second leg of the presidential debates was held in Cebu City. ](/news/2016/03/20/the-second-leg-of-the-presidential-debates-was-held-in-cebu-city.md) _(Current version)_

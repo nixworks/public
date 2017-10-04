@@ -15,3 +15,8 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 1. [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md) _Context: Paradise, Nevada_
 2. [ Filipino boxer Manny Pacquiao defeats Mexican American Oscar De La Hoya during a welterweight bout at the MGM Grand Garden Arena in Las Vegas, Nevada. ](/news/2008/12/6/filipino-boxer-manny-pacquiao-defeats-mexican-american-oscar-de-la-hoya-during-a-welterweight-bout-at-the-mgm-grand-garden-arena-in-las-veg.md) _Context: MGM Grand Garden Arena_
+
+### Changes:
+
+1. [16th Annual Latin Grammy Awards: The Latin Academy of Recording Arts and Sciences members present the Latin Grammy Awards at the MGM Grand Garden Arena in Paradise, Nevada. ](/news/2015/11/19/16th-annual-latin-grammy-awards-the-latin-academy-of-recording-arts-and-sciences-members-present-the-latin-grammy-awards-at-the-mgm-grand-g.md) _2017-08-27 03:43:56 (First version)_
+1. [The Latin Academy of Recording Arts and Sciences members present the Latin Grammy Awards at the MGM Grand Garden Arena in Paradise, Nevada. ](/news/2015/11/19/the-latin-academy-of-recording-arts-and-sciences-members-present-the-latin-grammy-awards-at-the-mgm-grand-garden-arena-in-paradise-nevada.md) _(Current version)_

@@ -4,7 +4,7 @@
 _Context: Argentina, farmers strike_
 
 ### [ Condoleezza Rice, the United States Secretary of State, criticises a planned expansion of Israeli housing in East Jerusalem as "not helpful" to the Middle East peace process. ](/news/2008/06/14/condoleezza-rice-the-united-states-secretary-of-state-criticises-a-planned-expansion-of-israeli-housing-in-east-jerusalem-as-not-helpful.md)
-_Context: Condoleezza Rice, East Jerusalem, Israel, Middle East, United States Secretary of State_
+_Context: Condoleezza Rice, East Jerusalem, Israel, Middle East, Secretary of State_
 
 ### [ The Space Shuttle Discovery lands having successfully completed mission STS-124. ](/news/2008/06/14/the-space-shuttle-discovery-lands-having-successfully-completed-mission-sts-124.md)
 _Context: Discovery, STS-124_

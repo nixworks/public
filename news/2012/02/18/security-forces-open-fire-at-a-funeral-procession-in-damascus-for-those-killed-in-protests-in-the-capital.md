@@ -18,3 +18,9 @@ A Chinese envoy visiting Syria calls on all sides in the country to end violence
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [2011-2012 Syrian uprising:Security forces open fire at a funeral procession in Damascus for those killed in protests in the capital. ](/news/2012/02/18/2011a2012-syrian-uprising-psecurity-forces-open-fire-at-a-funeral-procession-in-damascus-for-those-killed-in-protests-in-the-capital.md) _2017-08-25 03:35:05 (First version)_
+2. [2011-2012 Syrian uprising:: Security forces open fire at a funeral procession in Damascus for those killed in protests in the capital. ](/news/2012/02/18/2011-2012-syrian-uprising-security-forces-open-fire-at-a-funeral-procession-in-damascus-for-those-killed-in-protests-in-the-capital.md) _2017-08-27 03:35:14 (Update)_
+2. [Security forces open fire at a funeral procession in Damascus for those killed in protests in the capital. ](/news/2012/02/18/security-forces-open-fire-at-a-funeral-procession-in-damascus-for-those-killed-in-protests-in-the-capital.md) _(Current version)_

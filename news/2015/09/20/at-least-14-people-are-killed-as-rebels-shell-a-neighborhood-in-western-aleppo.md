@@ -16,3 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo, Syrian Civil War_
 4. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo, Syrian Civil War_
 5. [The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuation-of-the-last-group-of-rebels-to-the-idlib-gover.md) _Context: Aleppo, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: At least 14 people are killed as rebels shell a neighborhood in western Aleppo. ](/news/2015/09/20/syrian-civil-war-at-least-14-people-are-killed-as-rebels-shell-a-neighborhood-in-western-aleppo.md) _2017-08-27 03:43:06 (First version)_
+1. [At least 14 people are killed as rebels shell a neighborhood in western Aleppo. ](/news/2015/09/20/at-least-14-people-are-killed-as-rebels-shell-a-neighborhood-in-western-aleppo.md) _(Current version)_

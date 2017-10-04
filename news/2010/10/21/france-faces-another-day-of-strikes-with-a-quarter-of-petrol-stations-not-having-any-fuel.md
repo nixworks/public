@@ -18,3 +18,9 @@
 3. [The National Assembly of France takes a final vote on pension reform, with President Nicolas Sarkozy hoping that it will end the recent strikes and demonstrations. ](/news/2010/10/27/the-national-assembly-of-france-takes-a-final-vote-on-pension-reform-with-president-nicolas-sarkozy-hoping-that-it-will-end-the-recent-stri.md) _Context: recent strikes and demonstrations_
 4. [2010 strikes in France: Further, larger strikes are planned against government attempts to increase the age of retirement for the country's workers. ](/news/2010/10/24/2010-strikes-in-france-further-larger-strikes-are-planned-against-government-attempts-to-increase-the-age-of-retirement-for-the-country-s.md) _Context: recent strikes and demonstrations_
 5. [2010 strikes in France: French unions challenge a back-to-work order in court, one day after the senate voted in favour of increasing their retirement age. ](/news/2010/10/23/2010-strikes-in-france-french-unions-challenge-a-back-to-work-order-in-court-one-day-after-the-senate-voted-in-favour-of-increasing-their.md) _Context: recent strikes and demonstrations_
+
+### Changes:
+
+1. [French protestsFrance faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/french-protestspfrance-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md) _2017-08-25 03:30:37 (First version)_
+2. [French protests: France faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/french-protests-france-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md) _2017-08-27 03:30:43 (Update)_
+2. [France faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/france-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md) _(Current version)_

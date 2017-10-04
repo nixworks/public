@@ -17,3 +17,9 @@
 3. [Sir Peter Cosgrove is sworn into office as Governor General of Australia. ](/news/2014/03/27/sir-peter-cosgrove-is-sworn-into-office-as-governor-general-of-australia.md) _Context: Governor General of Australia_
 4. [Former Australian Army General Peter Cosgrove is named as the next Governor-General of Australia. ](/news/2014/01/28/former-australian-army-general-peter-cosgrove-is-named-as-the-next-governor-general-of-australia.md) _Context: Governor General of Australia_
 5. [The Governor-General of Australia swears in Julia Gillard as Prime Minister of Australia and her Ministry. ](/news/2010/09/14/the-governor-general-of-australia-swears-in-julia-gillard-as-prime-minister-of-australia-and-her-ministry.md) _Context: Governor General of Australia_
+
+### Changes:
+
+1. [ Australia: Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-p-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md) _2017-08-25 03:22:49 (First version)_
+2. [ Australia:: Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md) _2017-08-27 03:22:42 (Update)_
+2. [ Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md) _(Current version)_

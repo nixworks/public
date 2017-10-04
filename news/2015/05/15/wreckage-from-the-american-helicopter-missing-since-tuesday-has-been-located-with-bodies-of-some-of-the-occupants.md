@@ -16,3 +16,8 @@
 3. [Nepal announces plans to reopen heritage sites in the Kathmandu Valley two months after the April 2015 Nepal earthquake. ](/news/2015/06/15/nepal-announces-plans-to-reopen-heritage-sites-in-the-kathmandu-valley-two-months-after-the-april-2015-nepal-earthquake.md) _Context: suspicions_
 4. [Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. ](/news/2015/05/31/thousands-of-schools-open-in-nepal-after-the-devastating-earthquake-of-april-2015-which-destroyed-more-than-25-000-classrooms-and-killed-mor.md) _Context: suspicions_
 5. [Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.](/news/2015/05/3/kathmandu-international-airport-closes-to-large-aircraft-flying-in-relief-because-its-runway-can-no-longer-stand-the-strain.md) _Context: suspicions_
+
+### Changes:
+
+1. [ April 2015 Nepal earthquake: Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. ](/news/2015/05/15/april-2015-nepal-earthquake-wreckage-from-the-american-helicopter-missing-since-tuesday-has-been-located-with-bodies-of-some-of-the-occup.md) _2017-08-27 03:42:19 (First version)_
+1. [ Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. ](/news/2015/05/15/wreckage-from-the-american-helicopter-missing-since-tuesday-has-been-located-with-bodies-of-some-of-the-occupants.md) _(Current version)_

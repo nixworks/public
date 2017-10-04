@@ -16,3 +16,8 @@
 3. [Yemen arrests three suspected Al-Qaeda members, including one leader, northwest of the capital Sana'a. ](/news/2010/01/6/yemen-arrests-three-suspected-al-qaeda-members-including-one-leader-northwest-of-the-capital-sana-a.md) _Context: Sana'a, Yemen, al-Qaeda_
 4. [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md) _Context: Sana'a, Yemen_
 5. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sana'a, Yemen_
+
+### Changes:
+
+1. [Terrorism in Yemen: Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/terrorism-in-yemen-gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-ho.md) _2017-08-27 03:41:48 (First version)_
+1. [Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-houthi-rebels-or-al-qa.md) _(Current version)_

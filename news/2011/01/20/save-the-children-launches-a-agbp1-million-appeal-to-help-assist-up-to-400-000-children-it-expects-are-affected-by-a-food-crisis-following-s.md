@@ -16,3 +16,8 @@
 3. [Disaster Management Centre of Sri Lanka reports that 91 people are killed and 110 people from 14 districts are missing due to flood and landslide. ](/news/2017/05/26/disaster-management-centre-of-sri-lanka-reports-that-91-people-are-killed-and-110-people-from-14-districts-are-missing-due-to-flood-and-land.md) _Context: Sri Lanka_
 4. [A landfill slide in Colombo, Sri Lanka, kills at least 16 people. ](/news/2017/04/14/a-landfill-slide-in-colombo-sri-lanka-kills-at-least-16-people.md) _Context: Sri Lanka_
 5. [Off the northern coast of Somalia, Somali pirates hijack the "Aris 13", a United Arab Emirates-owned oil tanker, kidnapping eight Sri Lankan crew members. This is the first hijacking of a large commercial vessel in five years. ](/news/2017/03/14/off-the-northern-coast-of-somalia-somali-pirates-hijack-the-aris-13-a-united-arab-emirates-owned-oil-tanker-kidnapping-eight-sri-lankan.md) _Context: Sri Lanka_
+
+### Changes:
+
+1. [Save the Children launches a PS1 million appeal to help assist up to 400,000 children it expects are affected by a food crisis following Sri Lanka's worst floods in recent history. ](/news/2011/01/20/save-the-children-launches-a-aps1-million-appeal-to-help-assist-up-to-400-000-children-it-expects-are-affected-by-a-food-crisis-following-sri.md) _2017-08-25 03:31:51 (First version)_
+1. [Save the Children launches a GBP1 million appeal to help assist up to 400,000 children it expects are affected by a food crisis following Sri Lanka's worst floods in recent history. ](/news/2011/01/20/save-the-children-launches-a-agbp1-million-appeal-to-help-assist-up-to-400-000-children-it-expects-are-affected-by-a-food-crisis-following-s.md) _(Current version)_

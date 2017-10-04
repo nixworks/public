@@ -17,3 +17,8 @@
 3. [Two Palestinian gunmen open fire in the Israeli city of Tel Aviv killing at least four people and injuring at least 18 others. The two gunmen are arrested. ](/news/2016/06/8/two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-aviv-killing-at-least-four-people-and-injuring-at-least-18-others-the-two-gunme.md) _Context: Israel, Israeli-Palestinian conflict (2015-present), Palestinian_
 4. [Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated. ](/news/2016/05/11/israel-seals-off-the-west-bank-and-gaza-strip-for-two-days-while-yom-ha-atzmaut-israel-s-remembrance-day-and-independence-day-is-celebrate.md) _Context: Israel, Israeli-Palestinian conflict (2015-present), West Bank_
 5. [Israeli security forces arrest 18 Palestinians on the West Bank for alleged terrorism related offences. ](/news/2016/04/11/israeli-security-forces-arrest-18-palestinians-on-the-west-bank-for-alleged-terrorism-related-offences.md) _Context: Israeli-Palestinian conflict (2015-present), Palestinian, West Bank_
+
+### Changes:
+
+1. [Israeli-Palestinian conflict (2015-present): Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-palestinian-conflict-2015-present-israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md) _2017-08-27 03:45:26 (First version)_
+1. [Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md) _(Current version)_

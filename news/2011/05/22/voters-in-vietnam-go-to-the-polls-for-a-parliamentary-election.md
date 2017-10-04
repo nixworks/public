@@ -16,3 +16,8 @@
 3. [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md) _Context: Vietnam_
 4. [An Indonesian maritime patrol boat, the "KM Hiu Macan 001", intercepts five boats and arrested 55 Vietnamese crew members for allegedly poaching off Natuna Islands, but after an unexpected aggressive intervention by Vietnamese coast guards forces the Indonesian authorities to back off, release the arrested men and return to base empty handed. ](/news/2017/05/21/an-indonesian-maritime-patrol-boat-the-km-hiu-macan-001-intercepts-five-boats-and-arrested-55-vietnamese-crew-members-for-allegedly-poac.md) _Context: Vietnam_
 5. [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md) _Context: Vietnam_
+
+### Changes:
+
+1. [Voters in Cyprus go to the polls for a parliamentary election. ](/news/2011/05/22/voters-in-cyprus-go-to-the-polls-for-a-parliamentary-election.md) _2017-10-03 03:36:39 (First version)_
+1. [Voters in Vietnam go to the polls for a parliamentary election. ](/news/2011/05/22/voters-in-vietnam-go-to-the-polls-for-a-parliamentary-election.md) _(Current version)_

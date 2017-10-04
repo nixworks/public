@@ -16,3 +16,9 @@
 3. [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md) _Context: Swedish_
 4. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: Swedish_
 5. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Swedish_
+
+### Changes:
+
+1. [ The Swedish adventurer Lasse Schmidt finishes the first solo crossing of the Baltic Sea in a kayak. The crossing between Sweden and Estonia took three days to complete without sleep.](/news/2006/09/3/the-swedish-adventurer-lasse-schmidt-finishes-the-first-solo-crossing-of-the-baltic-sea-in-a-kayak-the-crossing-between-sweden-and-estoni.md) _2017-08-25 03:18:19 (First version)_
+2. [ Kayaking world record: The Swedish adventurer Lasse Schmidt finishes the first solo crossing of the Baltic Sea in a kayak. The crossing between Sweden and Estonia took three days to complete without sleep.](/news/2006/09/3/kayaking-world-record-the-swedish-adventurer-lasse-schmidt-finishes-the-first-solo-crossing-of-the-baltic-sea-in-a-kayak-the-crossing-bet.md) _2017-08-27 03:18:15 (Update)_
+2. [ The Swedish adventurer Lasse Schmidt finishes the first solo crossing of the Baltic Sea in a kayak. The crossing between Sweden and Estonia took three days to complete without sleep.](/news/2006/09/3/the-swedish-adventurer-lasse-schmidt-finishes-the-first-solo-crossing-of-the-baltic-sea-in-a-kayak-the-crossing-between-sweden-and-estonia.md) _(Current version)_

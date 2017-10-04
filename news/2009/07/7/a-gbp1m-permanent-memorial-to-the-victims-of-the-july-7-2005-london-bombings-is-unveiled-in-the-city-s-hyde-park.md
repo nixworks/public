@@ -18,3 +18,8 @@ Relatives of the 52 victims of the 7 July 2005 bombings in London have marked th
 3. [The inquest into the 7 July 2005 London bombings concludes with the ruling that the victims had been unlawfully killed. ](/news/2011/05/6/the-inquest-into-the-7-july-2005-london-bombings-concludes-with-the-ruling-that-the-victims-had-been-unlawfully-killed.md) _Context: 7 July_
 4. [British judge Heather Hallett opens the inquests into the 7 July 2005 London bombings. ](/news/2010/10/11/british-judge-heather-hallett-opens-the-inquests-into-the-7-july-2005-london-bombings.md) _Context: 7 July_
 5. [ Pakistan arrests seven militants in Peshawar in connection with the London bombings of July 7, 2005. ](/news/2009/01/22/pakistan-arrests-seven-militants-in-peshawar-in-connection-with-the-london-bombings-of-july-7-2005.md) _Context: 7 July_
+
+### Changes:
+
+1. [ A 1m permanent memorial to the victims of the July 7, 2005 London bombings is unveiled in the city's Hyde Park. ](/news/2009/07/7/a-ps1m-permanent-memorial-to-the-victims-of-the-july-7-2005-london-bombings-is-unveiled-in-the-city-s-hyde-park.md) _2017-08-25 03:25:06 (First version)_
+1. [ A GBP1m permanent memorial to the victims of the July 7, 2005 London bombings is unveiled in the city's Hyde Park. ](/news/2009/07/7/a-gbp1m-permanent-memorial-to-the-victims-of-the-july-7-2005-london-bombings-is-unveiled-in-the-city-s-hyde-park.md) _(Current version)_

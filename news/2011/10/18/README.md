@@ -7,7 +7,7 @@ _Context: 2011 Syrian uprising, Homs, Syria_
 Kenyan troops with aerial support continuing their advance into Somalia, as a suspected suicide car bomb kills at least three civilians in Mogadishu.
 
 ### [Moody's downgrades Spain's credit rating to A1 after Standard & Poor's and Fitch downgraded Spain's rating two weeks ago. ](/news/2011/10/18/moody-s-downgrades-spain-s-credit-rating-to-a1-after-standard-poor-s-and-fitch-downgraded-spain-s-rating-two-weeks-ago.md)
-_Context: Fitch, Moody's, Spain, Standard & Poor's, credit rating_
+_Context: Fitch, Moody's, Spanish, Standard & Poor's, credit rating_
 
 ### [Year-over-year GDP growth in the People's Republic of China slows to 9.1% for the third quarter of 2011, following government efforts to curb inflation. ](/news/2011/10/18/year-over-year-gdp-growth-in-the-people-s-republic-of-china-slows-to-9-1-for-the-third-quarter-of-2011-following-government-efforts-to-cur.md)
 CHINA said today its economy grew at a slower pace in the third quarter as government efforts to tame inflation and turbulence in Europe and the United States curbed business activity.

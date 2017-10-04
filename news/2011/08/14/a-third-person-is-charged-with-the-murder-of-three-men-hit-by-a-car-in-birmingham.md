@@ -17,3 +17,8 @@ A third person is charged with murdering three men who were hit by a car in Birm
 3. [Eight men are found not guilty of the murder of three friends in Birmingham during last year's riots in England. ](/news/2012/07/19/eight-men-are-found-not-guilty-of-the-murder-of-three-friends-in-birmingham-during-last-year-s-riots-in-england.md) _Context: 2011 England Riots_
 4. [Jamie Waylett is convicted of participating in violent disorder and handling stolen goods, but cleared of intent to destroy or damage property during last year's riots throughout England. Waylett is jailed for two years. ](/news/2012/03/20/jamie-waylett-is-convicted-of-participating-in-violent-disorder-and-handling-stolen-goods-but-cleared-of-intent-to-destroy-or-damage-proper.md) _Context: 2011 England Riots_
 5. [Figures from the United Kingdom's Ministry of Justice indicate that three quarters of those charged with offences relating to the riots which occurred in August had previous criminal convictions. One quarter had committed more than ten previous offences. ](/news/2011/09/15/figures-from-the-united-kingdom-s-ministry-of-justice-indicate-that-three-quarters-of-those-charged-with-offences-relating-to-the-riots-whic.md) _Context: 2011 England Riots_
+
+### Changes:
+
+1. [2011 England riots: A third person is charged with the murder of three men hit by a car in Birmingham. ](/news/2011/08/14/2011-england-riots-a-third-person-is-charged-with-the-murder-of-three-men-hit-by-a-car-in-birmingham.md) _2017-08-27 03:34:08 (First version)_
+1. [A third person is charged with the murder of three men hit by a car in Birmingham. ](/news/2011/08/14/a-third-person-is-charged-with-the-murder-of-three-men-hit-by-a-car-in-birmingham.md) _(Current version)_

@@ -18,3 +18,8 @@
 3. [At least 40 people are killed by landslides from floods created from Earl's heavy rainfall in the eastern Mexican states of Puebla and Veracruz. The tropical depression dissipated early today. ](/news/2016/08/8/at-least-40-people-are-killed-by-landslides-from-floods-created-from-earl-s-heavy-rainfall-in-the-eastern-mexican-states-of-puebla-and-verac.md) _Context: Mexico, Veracruz_
 4. [Twenty people are killed after a bus carrying amateur football players and fans plunges into a river in Veracruz, eastern Mexico. ](/news/2016/01/10/twenty-people-are-killed-after-a-bus-carrying-amateur-football-players-and-fans-plunges-into-a-river-in-veracruz-eastern-mexico.md) _Context: Mexico, Veracruz_
 5. [Authorities in Mexico's Veracruz state evacuate residents in low-lying areas ahead of the arrival of Hurricane Ingrid. ](/news/2013/09/14/authorities-in-mexico-s-veracruz-state-evacuate-residents-in-low-lying-areas-ahead-of-the-arrival-of-hurricane-ingrid.md) _Context: Mexico, Veracruz_
+
+### Changes:
+
+1. [ Mexican war on drugs: Police report 14 suspected criminals, who attacked a police patrol, are killed in a gunbattle with police and Mexican Marines in Veracruz, Mexico. An unknown number fled. ](/news/2016/12/5/mexican-war-on-drugs-police-report-14-suspected-criminals-who-attacked-a-police-patrol-are-killed-in-a-gunbattle-with-police-and-mexican.md) _2017-08-27 03:47:23 (First version)_
+1. [ Police report 14 suspected criminals, who attacked a police patrol, are killed in a gunbattle with police and Mexican Marines in Veracruz, Mexico. An unknown number fled. ](/news/2016/12/5/police-report-14-suspected-criminals-who-attacked-a-police-patrol-are-killed-in-a-gunbattle-with-police-and-mexican-marines-in-veracruz.md) _(Current version)_

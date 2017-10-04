@@ -16,3 +16,8 @@
 3. [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md) _Context: Florida_
 4. [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md) _Context: Florida_
 5. [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md) _Context: Florida_
+
+### Changes:
+
+1. [Sly James is elected as the Mayor of the US city of Kansas City, Missouri. ](/news/2011/03/22/sly-james-is-elected-as-the-mayor-of-the-us-city-of-kansas-city-missouri.md) _2017-10-03 03:36:01 (First version)_
+1. [Bob Buckhorn is elected as the mayor of the US city of Tampa, Florida. ](/news/2011/03/22/bob-buckhorn-is-elected-as-the-mayor-of-the-us-city-of-tampa-florida.md) _(Current version)_

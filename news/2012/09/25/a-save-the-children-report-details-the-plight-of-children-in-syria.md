@@ -17,3 +17,9 @@ British charity talks to refugees to document alleged atrocities suffered by Syr
 3. [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md) _Context: Syria_
 4. [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md) _Context: Syria_
 5. [The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town was also struck; there are no reports of casualties. ](/news/2017/07/23/the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-killing-six-civilia.md) _Context: Syria_
+
+### Changes:
+
+1. [Syrian civil war:A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/syrian-civil-war-pa-save-the-children-report-details-the-plight-of-children-in-syria.md) _2017-08-25 03:36:36 (First version)_
+2. [Syrian civil war:: A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/syrian-civil-war-a-save-the-children-report-details-the-plight-of-children-in-syria.md) _2017-08-27 03:36:46 (Update)_
+2. [A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/a-save-the-children-report-details-the-plight-of-children-in-syria.md) _(Current version)_

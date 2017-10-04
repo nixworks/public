@@ -22,3 +22,9 @@ The U.S. Treasury moved on Wednesday to broaden the range of debt it sells to ra
 3. [ ASEAN concludes its annual summit in Hua Hin, Thailand, and calls for coordinated action against the current recession. ](/news/2009/03/1/asean-concludes-its-annual-summit-in-hua-hin-thailand-and-calls-for-coordinated-action-against-the-current-recession.md) _Context: late 2000s recession_
 4. [ Japan's Nissan Motors cuts 20,000 jobs because of the global economic downturn. ](/news/2009/02/9/japan-s-nissan-motors-cuts-20-000-jobs-because-of-the-global-economic-downturn.md) _Context: late 2000s recession_
 5. [ The government announces a $42-billion stimulus package to revive the economy. ](/news/2009/02/3/the-government-announces-a-42-billion-stimulus-package-to-revive-the-economy.md) _Context: late 2000s recession_
+
+### Changes:
+
+1. [ The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope-with-the-current-rec.md) _2017-08-25 03:23:40 (First version)_
+2. [ Late 2000s recession: The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/late-2000s-recession-the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope.md) _2017-08-27 03:23:31 (Update)_
+2. [ The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope-with-the-current-rece.md) _(Current version)_

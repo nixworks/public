@@ -17,3 +17,9 @@ BEIRUT - A car bomb exploded in eastern Damascus on Saturday, an insurgent spoke
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [Syrian civil war:In Damascus, a car bomb kills six people, and a gunman assassinates a state television journalist. ](/news/2012/12/22/syrian-civil-war-pin-damascus-a-car-bomb-kills-six-people-and-a-gunman-assassinates-a-state-television-journalist.md) _2017-08-25 03:37:06 (First version)_
+2. [Syrian civil war:: In Damascus, a car bomb kills six people, and a gunman assassinates a state television journalist. ](/news/2012/12/22/syrian-civil-war-in-damascus-a-car-bomb-kills-six-people-and-a-gunman-assassinates-a-state-television-journalist.md) _2017-08-27 03:37:17 (Update)_
+2. [In Damascus, a car bomb kills six people, and a gunman assassinates a state television journalist. ](/news/2012/12/22/in-damascus-a-car-bomb-kills-six-people-and-a-gunman-assassinates-a-state-television-journalist.md) _(Current version)_

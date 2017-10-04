@@ -19,3 +19,8 @@
 3. [10 Chinese sailors are missing and 14 others are rescued after the cargo ship MV Hong Wei founders off the southeast coast of China. ](/news/2010/12/4/10-chinese-sailors-are-missing-and-14-others-are-rescued-after-the-cargo-ship-mv-hong-wei-founders-off-the-southeast-coast-of-china.md) _Context: China, China_
 4. [British Prime Minister David Cameron begins an official visit to the People's Republic of China. China, UK seek closer ties as economic dialogue opens in Beijing. ](/news/2010/11/9/british-prime-minister-david-cameron-begins-an-official-visit-to-the-people-s-republic-of-china-china-uk-seek-closer-ties-as-economic-dial.md) _Context: China, China_
 5. [ Xinhua News Agency says China has rescued 25 sailors and the "De Xin Hai", the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-seiz.md) _Context: China, China_
+
+### Changes:
+
+1. [China: China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md) _2017-08-27 03:28:32 (First version)_
+1. [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md) _(Current version)_

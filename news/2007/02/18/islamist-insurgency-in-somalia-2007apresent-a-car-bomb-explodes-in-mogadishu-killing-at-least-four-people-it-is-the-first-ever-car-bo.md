@@ -16,3 +16,8 @@
 3. [A car bomb outside a shopping mall in the Somali capital Mogadishu kills at least three and injures at least eight. The al Qaeda-linked Al Shabaab claim responsibility. ](/news/2015/12/19/a-car-bomb-outside-a-shopping-mall-in-the-somali-capital-mogadishu-kills-at-least-three-and-injures-at-least-eight-the-al-qaeda-linked-al-s.md) _Context: Mogadishu, car bomb_
 4. [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md) _Context: Mogadishu, car bomb_
 5. [ A suicide car bomb targeting African Union peacekeepers kills 14 civilians in Mogadishu, Somalia. ](/news/2009/01/24/a-suicide-car-bomb-targeting-african-union-peacekeepers-kills-14-civilians-in-mogadishu-somalia.md) _Context: Mogadishu, car bomb_
+
+### Changes:
+
+1. [ Islamist insurgency in Somalia (2007-present): A car bomb explodes in Mogadishu killing at least four people. It is the first ever car bomb in the capital. ](/news/2007/02/18/islamist-insurgency-in-somalia-2007-present-a-car-bomb-explodes-in-mogadishu-killing-at-least-four-people-it-is-the-first-ever-car-bo.md) _2017-08-27 03:19:09 (First version)_
+1. [ Islamist insurgency in Somalia (2007-present): A car bomb explodes in Mogadishu killing at least four people. It is the first ever car bomb in the capital. ](/news/2007/02/18/islamist-insurgency-in-somalia-2007apresent-a-car-bomb-explodes-in-mogadishu-killing-at-least-four-people-it-is-the-first-ever-car-bo.md) _(Current version)_

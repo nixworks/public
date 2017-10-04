@@ -17,3 +17,8 @@ Four Iraqi soldiers have been killed in a suicide bombing outside the camp where
 3. [Iraqi Army discover at least 100 beheaded bodies as they retake Hamam al-Alil, the last major settlement south of Mosul. ](/news/2016/11/7/iraqi-army-discover-at-least-100-beheaded-bodies-as-they-retake-hamam-al-alil-the-last-major-settlement-south-of-mosul.md) _Context: Iraqi Army, Iraqi Civil War (2014-present)_
 4. [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md) _Context: Iraqi Army, Iraqi Civil War (2014-present)_
 5. [The Iraqi Army recaptures the western town of Hit, Al Anbar Governorate, after driving out hundreds of ISIL militants. ](/news/2016/04/8/the-iraqi-army-recaptures-the-western-town-of-ha-t-al-anbar-governorate-after-driving-out-hundreds-of-isil-militants.md) _Context: Iraqi Army, Iraqi Civil War (2014-present)_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): A suicide bombing strikes Camp Taji, killing four Iraqi Army soldiers. ](/news/2016/06/20/iraqi-civil-war-2014-present-a-suicide-bombing-strikes-camp-taji-killing-four-iraqi-army-soldiers.md) _2017-08-27 03:46:18 (First version)_
+1. [A suicide bombing strikes Camp Taji, killing four Iraqi Army soldiers. ](/news/2016/06/20/a-suicide-bombing-strikes-camp-taji-killing-four-iraqi-army-soldiers.md) _(Current version)_

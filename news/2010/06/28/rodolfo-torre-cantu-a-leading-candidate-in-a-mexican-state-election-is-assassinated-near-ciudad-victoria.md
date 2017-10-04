@@ -19,3 +19,9 @@ Front-running candidate for governor in border state shot dead with four aides.
 3. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
 4. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
 5. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
+
+### Changes:
+
+1. [Assassination of Rodolfo Torre Cantu:Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/assassination-of-rodolfo-torre-cantu-prodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-vict.md) _2017-08-25 03:28:27 (First version)_
+2. [Assassination of Rodolfo Torre Cantu:: Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/assassination-of-rodolfo-torre-cantu-rodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-vic.md) _2017-08-27 03:28:29 (Update)_
+2. [Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/rodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-victoria.md) _(Current version)_

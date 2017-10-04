@@ -17,3 +17,8 @@ Iraqi forces on Tuesday recaptured the main government building in Mosul, the ce
 3. [Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-were-defeated.md) _Context: Battle of Mosul (2016-17), Mosul_
 4. [Two Iraqi Army pilots are killed when their Mi-24 helicopter is shot down by ISIS over the city of Mosul. ](/news/2017/04/6/two-iraqi-army-pilots-are-killed-when-their-mi-24-helicopter-is-shot-down-by-isis-over-the-city-of-mosul.md) _Context: Iraqi Army, Mosul_
 5. [ The Iraqi Army bears down on a strategic bridge across the Tigris River in Mosul. Fighting is occurring in the Salam neighbourhood less than 1.5 kilometres from the Tigris. ](/news/2016/12/6/the-iraqi-army-bears-down-on-a-strategic-bridge-across-the-tigris-river-in-mosul-fighting-is-occurring-in-the-salam-neighbourhood-less-tha.md) _Context: Iraqi Army, Mosul_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): Battle of Mosul (2016-17): The Iraqi Army retakes Mosul Museum as well as the main government building in Mosul. ](/news/2017/03/7/iraqi-civil-war-2014-present-battle-of-mosul-2016-17-the-iraqi-army-retakes-mosul-museum-as-well-as-the-main-government-building-i.md) _2017-08-27 03:47:57 (First version)_
+1. [The Iraqi Army retakes Mosul Museum as well as the main government building in Mosul. ](/news/2017/03/7/the-iraqi-army-retakes-mosul-museum-as-well-as-the-main-government-building-in-mosul.md) _(Current version)_

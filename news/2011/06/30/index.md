@@ -67,7 +67,7 @@ Footage shows Venezuelan president with Fidel Castro, but regional summit postpo
 _Context: 2011 royal tour of Canada, Catherine, Duchess of Cambridge, Duke of Cambridge_
 
 ### [United States Secretary of State Hillary Clinton is in Budapest today. ](/news/2011/06/30/united-states-secretary-of-state-hillary-clinton-is-in-budapest-today.md)
-_Context: Budapest, Hillary Clinton, United States Secretary of State_
+_Context: Budapest, Hillary Clinton, Secretary of State_
 
 ### [Israeli Prime Minister Binyamin Netanyahu says that Israel is "fully entitled to work against" attempts by the Gaza-bound "provocation flotilla" to smuggle arms into the Hamas-controlled Gaza Strip. ](/news/2011/06/30/israeli-prime-minister-binyamin-netanyahu-says-that-israel-is-fully-entitled-to-work-against-attempts-by-the-gaza-bound-provocation-floti.md)
 Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound Irish ship may have been sabotaged.

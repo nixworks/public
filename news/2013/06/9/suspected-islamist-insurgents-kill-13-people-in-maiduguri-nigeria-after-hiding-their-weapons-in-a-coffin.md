@@ -16,3 +16,9 @@ MAIDUGURI, Nigeria - Suspected Islamist insurgents who hid weapons inside a coff
 3. [Four suicide bombers kill at least two people and wound 16 others in Maiduguri, Nigeria. ](/news/2017/03/15/four-suicide-bombers-kill-at-least-two-people-and-wound-16-others-in-maiduguri-nigeria.md) _Context: Maiduguri_
 4. [Up to seven suicide bombers blow themselves up after failing in an attempt to attack a camp for displaced people near Maiduguri, Nigeria. ](/news/2017/02/17/up-to-seven-suicide-bombers-blow-themselves-up-after-failing-in-an-attempt-to-attack-a-camp-for-displaced-people-near-maiduguri-nigeria.md) _Context: Maiduguri_
 5. [At least three people are killed in two suicide bombing attacks in Maiduguri, Nigeria. ](/news/2016/12/11/at-least-three-people-are-killed-in-two-suicide-bombing-attacks-in-maiduguri-nigeria.md) _Context: Maiduguri_
+
+### Changes:
+
+1. [Nigerian Sharia conflict:Suspected Islamist insurgents kill 13 people in Maiduguri, Nigeria after hiding their weapons in a coffin. ](/news/2013/06/9/nigerian-sharia-conflict-psuspected-islamist-insurgents-kill-13-people-in-maiduguri-nigeria-after-hiding-their-weapons-in-a-coffin.md) _2017-08-25 03:38:48 (First version)_
+2. [Nigerian Sharia conflict:: Suspected Islamist insurgents kill 13 people in Maiduguri, Nigeria after hiding their weapons in a coffin. ](/news/2013/06/9/nigerian-sharia-conflict-suspected-islamist-insurgents-kill-13-people-in-maiduguri-nigeria-after-hiding-their-weapons-in-a-coffin.md) _2017-08-27 03:39:02 (Update)_
+2. [Suspected Islamist insurgents kill 13 people in Maiduguri, Nigeria after hiding their weapons in a coffin. ](/news/2013/06/9/suspected-islamist-insurgents-kill-13-people-in-maiduguri-nigeria-after-hiding-their-weapons-in-a-coffin.md) _(Current version)_

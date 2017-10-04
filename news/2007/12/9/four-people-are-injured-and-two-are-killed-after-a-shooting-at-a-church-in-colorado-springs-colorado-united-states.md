@@ -16,3 +16,8 @@
 3. [Effective midnight, Washington, D.C. joins Alaska, Colorado, and Washington state as the only places in the United States that locally purport to override federal law and allow the use of marijuana for recreational purposes. ](/news/2015/02/26/effective-midnight-washington-d-c-joins-alaska-colorado-and-washington-state-as-the-only-places-in-the-united-states-that-locally-purpo.md) _Context: Americans, Colorado_
 4. [A gunman critically wounds a student in a shooting at Arapahoe High School, Centennial, Colorado, United States. ](/news/2013/12/13/a-gunman-critically-wounds-a-student-in-a-shooting-at-arapahoe-high-school-centennial-colorado-united-states.md) _Context: Americans, Colorado_
 5. [Floods and mudslides in Manitou Springs, Colorado, United States leave at least three people missing and one dead. ](/news/2013/08/10/floods-and-mudslides-in-manitou-springs-colorado-united-states-leave-at-least-three-people-missing-and-one-dead.md) _Context: Americans, Colorado_
+
+### Changes:
+
+1. [ Two people are killed and two are injured in a shooting at a youth training center in Arvada Colorado, United States. ](/news/2007/12/9/two-people-are-killed-and-two-are-injured-in-a-shooting-at-a-youth-training-center-in-arvada-colorado-united-states.md) _2017-10-03 03:24:14 (First version)_
+1. [ Four people are injured and two are killed after a shooting at a church in Colorado Springs, Colorado, United States. ](/news/2007/12/9/four-people-are-injured-and-two-are-killed-after-a-shooting-at-a-church-in-colorado-springs-colorado-united-states.md) _(Current version)_

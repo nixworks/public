@@ -17,3 +17,9 @@
 3. [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md) _Context: Sierra Leone_
 4. [Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.md) _Context: Sierra Leone_
 5. [The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md) _Context: Sierra Leone_
+
+### Changes:
+
+1. [West Africa Ebola virus epidemic:Sierra Leone declares a four day nationwide lockdown to attempt to stop the spread of Ebola. ](/news/2014/09/6/west-africa-ebola-virus-epidemic-psierra-leone-declares-a-four-day-nationwide-lockdown-to-attempt-to-stop-the-spread-of-ebola.md) _2017-08-25 03:40:56 (First version)_
+2. [West Africa Ebola virus epidemic:: Sierra Leone declares a four day nationwide lockdown to attempt to stop the spread of Ebola. ](/news/2014/09/6/west-africa-ebola-virus-epidemic-sierra-leone-declares-a-four-day-nationwide-lockdown-to-attempt-to-stop-the-spread-of-ebola.md) _2017-08-27 03:41:14 (Update)_
+2. [Sierra Leone declares a four day nationwide lockdown to attempt to stop the spread of Ebola. ](/news/2014/09/6/sierra-leone-declares-a-four-day-nationwide-lockdown-to-attempt-to-stop-the-spread-of-ebola.md) _(Current version)_

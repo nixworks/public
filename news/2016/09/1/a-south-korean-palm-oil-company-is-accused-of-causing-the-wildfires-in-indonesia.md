@@ -17,3 +17,8 @@ Some of the world’s biggest buyers have stopped trading with Korindo after the
 3. [Two pilots are killed after a South Korean-made KAI T-50 Golden Eagle crashes and bursts into flames at an air show in Yogyakarta on Indonesia's Java island. ](/news/2015/12/20/two-pilots-are-killed-after-a-south-korean-made-kai-t-50-golden-eagle-crashes-and-bursts-into-flames-at-an-air-show-in-yogyakarta-on-indones.md) _Context: Indonesia, South Korea_
 4. [Kim Sung-hwan, the South Korean Minister for Foreign Affairs, meets with Pak Ui-chun, his North Korean counterpart, on the sidelines of an ASEAN meeting in Bali, Indonesia. ](/news/2011/07/23/kim-sung-hwan-the-south-korean-minister-for-foreign-affairs-meets-with-pak-ui-chun-his-north-korean-counterpart-on-the-sidelines-of-an-a.md) _Context: Indonesia, South Korea_
 5. [South Korea seeks a bilateral meeting with North Korea to discuss nuclear issues at the sidelines of an ASEAN Regional Forum in Bali, Indonesia. ](/news/2011/07/22/south-korea-seeks-a-bilateral-meeting-with-north-korea-to-discuss-nuclear-issues-at-the-sidelines-of-an-asean-regional-forum-in-bali-indone.md) _Context: Indonesia, South Korea_
+
+### Changes:
+
+1. [2016 Southeast Asian haze: A South Korean palm oil company is accused of causing the wildfires in Indonesia. ](/news/2016/09/1/2016-southeast-asian-haze-a-south-korean-palm-oil-company-is-accused-of-causing-the-wildfires-in-indonesia.md) _2017-08-27 03:46:45 (First version)_
+1. [A South Korean palm oil company is accused of causing the wildfires in Indonesia. ](/news/2016/09/1/a-south-korean-palm-oil-company-is-accused-of-causing-the-wildfires-in-indonesia.md) _(Current version)_

@@ -17,3 +17,8 @@ Thirty-seven people have died in an air strike in southern Niger during military
 3. [Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.md) _Context: Boko Haram, Nigeria, Nigerian Army_
 4. [Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md) _Context: Boko Haram, Nigeria, Nigerian Army_
 5. [Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/two-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle-in-the-north-east-adamawa.md) _Context: Boko Haram, Nigeria, Nigerian Army_
+
+### Changes:
+
+1. [Boko Haram: The Nigerian Army claims to have killed 300 militants in northeastern Nigeria. ](/news/2015/02/18/boko-haram-the-nigerian-army-claims-to-have-killed-300-militants-in-northeastern-nigeria.md) _2017-08-27 03:41:57 (First version)_
+1. [The Nigerian Army claims to have killed 300 militants in northeastern Nigeria. ](/news/2015/02/18/the-nigerian-army-claims-to-have-killed-300-militants-in-northeastern-nigeria.md) _(Current version)_

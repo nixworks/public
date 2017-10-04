@@ -17,3 +17,8 @@ India called a quarter of its 815 million voters to polls on Thursday, the bigge
 3. [In India, six police and election officials have been killed as violence hits restive Maoist region and Kashmir.](/news/2014/04/24/in-india-six-police-and-election-officials-have-been-killed-as-violence-hits-restive-maoist-region-and-kashmir.md) _Context: India, election_
 4. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
 5. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
+
+### Changes:
+
+1. [Indian general election, 2014: India is halfway through elections for 16th Lok Sabha in world's biggest election with an electorate of 815 million voters.](/news/2014/04/19/indian-general-election-2014-india-is-halfway-through-elections-for-16th-lok-sabha-in-world-s-biggest-election-with-an-electorate-of-815-m.md) _2017-08-27 03:40:36 (First version)_
+1. [India is halfway through elections for 16th Lok Sabha in world's biggest election with an electorate of 815 million voters.](/news/2014/04/19/india-is-halfway-through-elections-for-16th-lok-sabha-in-world-s-biggest-election-with-an-electorate-of-815-million-voters.md) _(Current version)_

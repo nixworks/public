@@ -18,3 +18,9 @@
 3. [Libyan leader Mustafa Abdul Jalil says he will "defend national unity" after Cyrenaica, the eastern region of the country, declared it would become semi-autonomous. ](/news/2012/03/7/libyan-leader-mustafa-abdul-jalil-says-he-will-defend-national-unity-after-cyrenaica-the-eastern-region-of-the-country-declared-it-would.md) _Context: Eastern, Libya_
 4. [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md) _Context: Libya_
 5. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: Libya_
+
+### Changes:
+
+1. [Cyrenaican bid for semi-autonomy:Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaican-bid-for-semi-autonomy-pcyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md) _2017-08-25 03:35:13 (First version)_
+2. [Cyrenaican bid for semi-autonomy:: Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaican-bid-for-semi-autonomy-cyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md) _2017-08-27 03:35:23 (Update)_
+2. [Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md) _(Current version)_

@@ -20,3 +20,8 @@ Sigmundur Davíð Gunnlaugsson steps aside amid widespread anger over allegation
 3. [Denmark's government plans to buy the leaked Panama Papers containing Danish citizens. ](/news/2016/09/7/denmark-s-government-plans-to-buy-the-leaked-panama-papers-containing-danish-citizens.md) _Context: Panama Papers_
 4. [The Panama Papers go online at the International Consortium of Investigative Journalists website. ](/news/2016/05/9/the-panama-papers-go-online-at-the-international-consortium-of-investigative-journalists-website.md) _Context: Panama Papers_
 5. [Thousands of people protest in Whitehall calling on British Prime Minister David Cameron to resign over his financial affairs and his handling of them in relation to revelations made by the leak of the Panama Papers. ](/news/2016/04/9/thousands-of-people-protest-in-whitehall-calling-on-british-prime-minister-david-cameron-to-resign-over-his-financial-affairs-and-his-handli.md) _Context: Panama Papers_
+
+### Changes:
+
+1. [Panama Papers: Icelandic Prime Minister Sigmundur David Gunnlaugsson temporarily steps down amid allegations his family attempted to hide millions in an offshore account. ](/news/2016/04/5/panama-papers-icelandic-prime-minister-sigmundur-davaadeg-gunnlaugsson-temporarily-steps-down-amid-allegations-his-family-attempted-to-hide.md) _2017-08-27 03:45:30 (First version)_
+1. [Icelandic Prime Minister Sigmundur David Gunnlaugsson temporarily steps down amid allegations his family attempted to hide millions in an offshore account. ](/news/2016/04/5/icelandic-prime-minister-sigmundur-davaadeg-gunnlaugsson-temporarily-steps-down-amid-allegations-his-family-attempted-to-hide-millions-in-an.md) _(Current version)_

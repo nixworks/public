@@ -16,3 +16,8 @@
 3. [ Greenpeace in Switzerland accuses three chemical firms based in Basel of failing to clean up toxic waste ](/news/2005/03/1/greenpeace-in-switzerland-accuses-three-chemical-firms-based-in-basel-of-failing-to-clean-up-toxic-waste.md) _Context: Basel, Switzerland_
 4. [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _Context: Switzerland_
 5. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md) _Context: Switzerland_
+
+### Changes:
+
+1. [The Anne Frank Fonds in Basel, Switzerland, announces that Otto Frank, father of Anne Frank, is editor and legally the co-author of -The Diary of Anne Frank.- ](/news/2015/11/13/the-anne-frank-fonds-in-basel-switzerland-announces-that-otto-frank-father-of-anne-frank-is-editor-and-legally-the-co-author-of-the-d.md) _2017-08-27 03:43:50 (First version)_
+1. [The Anne Frank Fonds in Basel, Switzerland, announces that Otto Frank, father of Anne Frank, is editor and legally the co-author of "The Diary of Anne Frank." ](/news/2015/11/13/the-anne-frank-fonds-in-basel-switzerland-announces-that-otto-frank-father-of-anne-frank-is-editor-and-legally-the-co-author-of-athe-d.md) _(Current version)_

@@ -18,3 +18,9 @@ DUBLIN - Irish bishops and politicians called Wednesday for the release of an el
 ### Related:
 
 1. [ A video of the kidnapped Irish priest Father Michael Sinnott is released by his captors in the Philippines. The kidnappers want a $2 million (EUR1.36 million) ransom. It is the first evidence that Sinnott is still alive since his abduction on 11 October. ](/news/2009/10/31/a-video-of-the-kidnapped-irish-priest-father-michael-sinnott-is-released-by-his-captors-in-the-philippines-the-kidnappers-want-a-2-millio.md) _Context: Father Michael Sinnott_
+
+### Changes:
+
+1. [ Philippines: Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/philippines-p-irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md) _2017-08-25 03:26:03 (First version)_
+2. [ Philippines:: Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/philippines-irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md) _2017-08-27 03:25:55 (Update)_
+2. [ Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md) _(Current version)_

@@ -12,3 +12,9 @@ An intensified campaign with foreign leaders and diplomats this week will press 
 3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/2013818175824286257.html)
 4. [Reuters](http://www.reuters.com/article/2013/08/18/us-egypt-protests-prison-idUSBRE97H0A420130818)
 4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+
+### Changes:
+
+1. [Political violence in Egypt:Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/political-violence-in-egypt-pisrael-to-call-on-us-eu-to-support-egyptian-army.md) _2017-08-25 03:39:10 (First version)_
+2. [Political violence in Egypt:: Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/political-violence-in-egypt-israel-to-call-on-us-eu-to-support-egyptian-army.md) _2017-08-27 03:39:25 (Update)_
+2. [Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/israel-to-call-on-us-eu-to-support-egyptian-army.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Islamic State_
 4. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Islamic State_
 5. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Islamic State_
+
+### Changes:
+
+1. [2016 Hurghada attack: Two suspected ISIS militants are killed and three tourists injured in an unsuccessful attack on a hotel in the city of Hurghada. ](/news/2016/01/8/2016-hurghada-attack-two-suspected-isis-militants-are-killed-and-three-tourists-injured-in-an-unsuccessful-attack-on-a-hotel-in-the-city-of.md) _2017-08-27 03:44:37 (First version)_
+1. [Two suspected ISIS militants are killed and three tourists injured in an unsuccessful attack on a hotel in the city of Hurghada. ](/news/2016/01/8/two-suspected-isis-militants-are-killed-and-three-tourists-injured-in-an-unsuccessful-attack-on-a-hotel-in-the-city-of-hurghada.md) _(Current version)_

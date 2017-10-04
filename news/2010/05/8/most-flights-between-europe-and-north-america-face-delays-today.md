@@ -23,3 +23,9 @@ Irish airports remained open today, but there is disruption in some parts of sou
 3. [International stock markets slump in value in Asia, Europe and North America due to speculation brought about by comments from the Federal Reserve System of the United States. ](/news/2010/08/11/international-stock-markets-slump-in-value-in-asia-europe-and-north-america-due-to-speculation-brought-about-by-comments-from-the-federal-r.md) _Context: Europe, North America_
 4. [ Eight people are killed and at least 20 injured after a bus carrying North American and European tourists crashes on the Sinai peninsula in Egypt. ](/news/2008/05/1/eight-people-are-killed-and-at-least-20-injured-after-a-bus-carrying-north-american-and-european-tourists-crashes-on-the-sinai-peninsula-in.md) _Context: Europe, North America_
 5. [ Melting sea ice in the Arctic Ocean opens up the Northwest Passage between Europe, Asia and North America. ](/news/2007/09/15/melting-sea-ice-in-the-arctic-ocean-opens-up-the-northwest-passage-between-europe-asia-and-north-america.md) _Context: Europe, North America_
+
+### Changes:
+
+1. [Icelandic volcanic disruption:Most flights between Europe and North America face delays today. ](/news/2010/05/8/icelandic-volcanic-disruption-pmost-flights-between-europe-and-north-america-face-delays-today.md) _2017-08-25 03:27:52 (First version)_
+2. [Icelandic volcanic disruption:: Most flights between Europe and North America face delays today. ](/news/2010/05/8/icelandic-volcanic-disruption-most-flights-between-europe-and-north-america-face-delays-today.md) _2017-08-27 03:27:50 (Update)_
+2. [Most flights between Europe and North America face delays today. ](/news/2010/05/8/most-flights-between-europe-and-north-america-face-delays-today.md) _(Current version)_

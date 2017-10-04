@@ -13,3 +13,9 @@ Nigerian and Chinese authorities sign a $23bn deal to build three refineries and
 ### Related:
 
 1. [The Nigerian Minister of Finance announces that the Nigerian National Petroleum Corporation is insolvent, and is asking the government for funds to help pay off debts and continue operations. ](/news/2010/07/13/the-nigerian-minister-of-finance-announces-that-the-nigerian-national-petroleum-corporation-is-insolvent-and-is-asking-the-government-for-f.md) _Context: Nigerian National Petroleum Corporation_
+
+### Changes:
+
+1. [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a EUR18 billion (PS16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-a-18-billion-aps16-billion-dea.md) _2017-08-25 03:27:55 (First version)_
+2. [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a -18 billion (GBP16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-18-billion-agbp16-billion-d.md) _2017-08-27 03:27:53 (Update)_
+2. [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a EUR18 billion (GBP16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-a-18-billion-agbp16-billion-d.md) _(Current version)_

@@ -18,3 +18,8 @@ Jimmy Morales, a former TV comedy actor who promised to clean up Guatemala’s c
 3. [A 6.8-magnitude earthquake strikes off the coast of Puerto San Jose, Guatemala. ](/news/2017/06/22/a-6-8-magnitude-earthquake-strikes-off-the-coast-of-puerto-san-josa-c-guatemala.md) _Context: Guatemala_
 4. [At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _Context: Guatemala_
 5. [A fire breaks out at an orphanage in San Jose Pinula, Guatemala after students protesting conditions including alleged sexual and physical abuse set fire to their bedding, killing at least 19 children. ](/news/2017/03/8/a-fire-breaks-out-at-an-orphanage-in-san-josa-c-pinula-guatemala-after-students-protesting-conditions-including-alleged-sexual-and-physical.md) _Context: Guatemala_
+
+### Changes:
+
+1. [Guatemalan general election, 2015: Voters in Guatemala go to the polls for the second round of voting in a presidential election with former TV comedian Jimmy Morales winning a landslide victory. ](/news/2015/10/25/guatemalan-general-election-2015-voters-in-guatemala-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-with-former.md) _2017-08-27 03:43:30 (First version)_
+1. [Voters in Guatemala go to the polls for the second round of voting in a presidential election with former TV comedian Jimmy Morales winning a landslide victory. ](/news/2015/10/25/voters-in-guatemala-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-with-former-tv-comedian-jimmy-morales-winning.md) _(Current version)_

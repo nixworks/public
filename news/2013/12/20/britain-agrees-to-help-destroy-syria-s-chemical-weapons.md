@@ -17,3 +17,9 @@ Britain will help eliminate Syria¿s chemical stockpile by destroying 165 tons o
 3. [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md) _Context: Syria_
 4. [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md) _Context: Syria_
 5. [The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town was also struck; there are no reports of casualties. ](/news/2017/07/23/the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-killing-six-civilia.md) _Context: Syria_
+
+### Changes:
+
+1. [Syrian Civil War:Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/syrian-civil-war-pbritain-agrees-to-help-destroy-syria-s-chemical-weapons.md) _2017-08-25 03:39:44 (First version)_
+2. [Syrian Civil War:: Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/syrian-civil-war-britain-agrees-to-help-destroy-syria-s-chemical-weapons.md) _2017-08-27 03:40:03 (Update)_
+2. [Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/britain-agrees-to-help-destroy-syria-s-chemical-weapons.md) _(Current version)_

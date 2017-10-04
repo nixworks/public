@@ -17,3 +17,8 @@
 3. [A deep sea search vessel discovers the wreckage of the lost aircraft in the Mediterranean Sea. ](/news/2016/06/15/a-deep-sea-search-vessel-discovers-the-wreckage-of-the-lost-aircraft-in-the-mediterranean-sea.md) _Context: EgyptAir Flight 804_
 4. [A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. ](/news/2016/06/1/a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md) _Context: EgyptAir Flight 804_
 5. [Reports claim that an Egyptian forensic official says that body parts recovered from EgyptAir flight 804 indicate that the crash was caused by an explosion. ](/news/2016/05/24/reports-claim-that-an-egyptian-forensic-official-says-that-body-parts-recovered-from-egyptair-flight-804-indicate-that-the-crash-was-caused.md) _Context: EgyptAir Flight 804_
+
+### Changes:
+
+1. [EgyptAir Flight 804: Data from one of the flight recorders from EgyptAir Flight 804 shows that there was smoke on board when the Airbus A320 crashed into the water. Soot has also been found on the wreckage. ](/news/2016/06/29/egyptair-flight-804-data-from-one-of-the-flight-recorders-from-egyptair-flight-804-shows-that-there-was-smoke-on-board-when-the-airbus-a320.md) _2017-08-27 03:46:22 (First version)_
+1. [Data from one of the flight recorders from EgyptAir Flight 804 shows that there was smoke on board when the Airbus A320 crashed into the water. Soot has also been found on the wreckage. ](/news/2016/06/29/data-from-one-of-the-flight-recorders-from-egyptair-flight-804-shows-that-there-was-smoke-on-board-when-the-airbus-a320-crashed-into-the-wat.md) _(Current version)_

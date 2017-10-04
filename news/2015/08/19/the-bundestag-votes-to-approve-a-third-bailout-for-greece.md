@@ -17,3 +17,8 @@ The German Bundestag is expected to approve €86bn bailout, paving the way for 
 3. [Bundestag, the German lower house of parliament, approves Greece's bailout plan by 439-119 with 40 abstained. ](/news/2015/07/17/bundestag-the-german-lower-house-of-parliament-approves-greece-s-bailout-plan-by-439a119-with-40-abstained.md) _Context: Bundestag, Greek government-debt crisis_
 4. [Greece becomes the first advanced economy to miss a payment to the International Monetary Fund in the 71-year history of the IMF, unwinding decades of precedent and affecting consequences for the fund's future rescues. ](/news/2015/07/1/greece-becomes-the-first-advanced-economy-to-miss-a-payment-to-the-international-monetary-fund-in-the-71-year-history-of-the-imf-unwinding.md) _Context: Greek, Greek government-debt crisis_
 5. [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md) _Context: Greek, Greek government-debt crisis_
+
+### Changes:
+
+1. [Greek government-debt crisis: The Bundestag votes to approve a third bailout for Greece. ](/news/2015/08/19/greek-government-debt-crisis-the-bundestag-votes-to-approve-a-third-bailout-for-greece.md) _2017-08-27 03:42:51 (First version)_
+1. [The Bundestag votes to approve a third bailout for Greece. ](/news/2015/08/19/the-bundestag-votes-to-approve-a-third-bailout-for-greece.md) _(Current version)_

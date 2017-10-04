@@ -18,3 +18,8 @@ Police say they are preparing for as many as 40 deaths after a fire breaks out a
 3. [Asiana Airlines says they will sue Oakland, California television station KTVU for defamation after the station reported the wrong names of the pilots of Asiana Airlines Flight 214. ](/news/2013/07/15/asiana-airlines-says-they-will-sue-oakland-california-television-station-ktvu-for-defamation-after-the-station-reported-the-wrong-names-of.md) _Context: California, Oakland, California_
 4. [A memorial service is held for the seven victims of the Oikos University shooting in the US city of Oakland, California. ](/news/2012/04/3/a-memorial-service-is-held-for-the-seven-victims-of-the-oikos-university-shooting-in-the-us-city-of-oakland-california.md) _Context: California, Oakland, California_
 5. [A mass shooting at Oikos University at Oakland, California leaves 7 people dead and three injured, according to a police spokesperson. ](/news/2012/04/2/a-mass-shooting-at-oikos-university-at-oakland-california-leaves-7-people-dead-and-three-injured-according-to-a-police-spokesperson.md) _Context: California, Oakland, California_
+
+### Changes:
+
+1. [2016 Oakland warehouse fire: At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/2016-oakland-warehouse-fire-at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md) _2017-08-27 03:47:22 (First version)_
+1. [At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md) _(Current version)_

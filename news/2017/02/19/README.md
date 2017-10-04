@@ -13,7 +13,7 @@ Animal rights activists were due to hold an anti-bullfighting march close to whe
 MULTAN, Pakistan (AP) — Pakistani police say that counter-terrorism forces killed five militants in an overnight raid and seized weapons and explosives from their hideout. Nayab Haider, a spokesman for the counter-terrorism…
 
 ### [Kraft Heinz drops its bid to buy Unilever for US$143 billion. Unilever rejected the idea last Friday but Kraft Heinz still expressed interest in finding an agreement. ](/news/2017/02/19/kraft-heinz-drops-its-bid-to-buy-unilever-for-us-143-billion-unilever-rejected-the-idea-last-friday-but-kraft-heinz-still-expressed-interes.md)
-_Context: Kraft Heinz, US$, Unilever_
+_Context: $, Kraft Heinz, Unilever_
 
 ### [At least 25 people are killed by snowstorms and avalanches in northern Afghanistan as heavy snow continues to hit the country. ](/news/2017/02/19/at-least-25-people-are-killed-by-snowstorms-and-avalanches-in-northern-afghanistan-as-heavy-snow-continues-to-hit-the-country.md)
 _Context: 2017 Afghanistan avalanches, Afghanistan_

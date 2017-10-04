@@ -28,3 +28,9 @@ Security cabinet adjourns meeting on allowing entry of building materials and ot
 3. [A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said-it-responded-to-mortar-r.md) _Context: Gaza, Israel_
 4. [Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties. ](/news/2016/05/4/hamas-says-it-has-reached-a-truce-with-the-israeli-military-following-hostilities-today-along-the-gaza-israel-border-there-were-no-casualti.md) _Context: Gaza, Israel_
 5. [Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated. ](/news/2016/05/11/israel-seals-off-the-west-bank-and-gaza-strip-for-two-days-while-yom-ha-atzmaut-israel-s-remembrance-day-and-independence-day-is-celebrate.md) _Context: Gaza, Israel_
+
+### Changes:
+
+1. [Middle East:Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/middle-east-pisrael-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md) _2017-08-25 03:28:17 (First version)_
+2. [Middle East:: Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/middle-east-israel-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md) _2017-08-27 03:28:17 (Update)_
+2. [Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/israel-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md) _(Current version)_

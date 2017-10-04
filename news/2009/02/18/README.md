@@ -7,7 +7,7 @@ _Context: 2009, Eurovision Song Contest, Georgian, Moscow, Prime Minister of Rus
 The nearly complete skeleton of a massive Columbian mammoth who died during the last ice age has been dug out of a construction site near the La Brea Tar Pits in downtown Los Angeles, a remarkable find even in the fossil-rich area, scientists said Wednesday.
 
 ### [ Switzerland's UBS AG will pay the United States federal government US$780 million in fines and restitution after admitting to helping American clients avoid taxes. ](/news/2009/02/18/switzerland-s-ubs-ag-will-pay-the-united-states-federal-government-us-780-million-in-fines-and-restitution-after-admitting-to-helping-ameri.md)
-_Context: Americans, Switzerland, UBS AG, US$, United States federal government, avoid taxes, fine, restitution_
+_Context: $, Americans, Switzerland, UBS AG, United States federal government, avoid taxes, fine, restitution_
 
 ### [ A Eurocopter Super Puma carrying 18 people ditches into the North Sea. ](/news/2009/02/18/a-eurocopter-super-puma-carrying-18-people-ditches-into-the-north-sea.md)
 _Context: Eurocopter Super Puma, North Sea, ditches_
@@ -22,7 +22,7 @@ _Context: Israel, Securities Authority, chief executive officer, insider trading
 _Context: Iran, drone_
 
 ### [ Lawyers representing the entertainment industry defend their compensation claims of US$13 million against The Pirate Bay. ](/news/2009/02/18/lawyers-representing-the-entertainment-industry-defend-their-compensation-claims-of-us-13-million-against-the-pirate-bay.md)
-_Context: The Pirate Bay, US$, claims, damages, entertainment industry, lawyer, trial_
+_Context: $, The Pirate Bay, claims, damages, entertainment industry, lawyer, trial_
 
 ### [ A GEO Television reporter is killed in Pakistan's war-torn Swat Valley. ](/news/2009/02/18/a-geo-television-reporter-is-killed-in-pakistan-s-war-torn-swat-valley.md)
 _Context: GEO Television, Pakistan, Swat, Pakistan, War in North-West Pakistan_

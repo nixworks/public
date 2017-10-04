@@ -21,3 +21,8 @@ Zimbabwe&#x27;s President Robert Mugabe on Friday blamed sanctions by Western co
 3. [Thousands of opposition supporters rally in Harare, Zimbabwe, against President Robert Mugabe and the deteriorating economy. The rally was banned by the police, however, it went ahead after a ruling by the High Court sanctioned the protest. ](/news/2016/04/14/thousands-of-opposition-supporters-rally-in-harare-zimbabwe-against-president-robert-mugabe-and-the-deteriorating-economy-the-rally-was-b.md) _Context: Harare, President, Robert Mugabe_
 4. [The High Court of Zimbabwe overturns bans on protests in Harare. ](/news/2016/09/8/the-high-court-of-zimbabwe-overturns-bans-on-protests-in-harare.md) _Context: 2016 Zimbabwe protests, Harare_
 5. [The Zimbabwe economy is crippled after a week of protests as a result of dissatisfaction with the regime of Robert Mugabe. ](/news/2016/07/9/the-zimbabwe-economy-is-crippled-after-a-week-of-protests-as-a-result-of-dissatisfaction-with-the-regime-of-robert-mugabe.md) _Context: 2016 Zimbabwe protests, Robert Mugabe_
+
+### Changes:
+
+1. [2016 Zimbabwe protests: Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/2016-zimbabwe-protests-protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-m.md) _2017-08-27 03:46:27 (First version)_
+1. [Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-mugabe-for-them-to-stop.md) _(Current version)_

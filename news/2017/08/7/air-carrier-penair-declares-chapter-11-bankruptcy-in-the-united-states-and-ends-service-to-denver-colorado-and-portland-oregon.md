@@ -17,3 +17,8 @@ Regional airline Peninsula Airways filed for bankruptcy over the weekend, blamin
 3. [ General Motors files for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code. ](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.md) _Context: Bankruptcy in the United States, Chapter 11_
 4. [Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: Bankruptcy in the United States_
 5. [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md) _Context: Chapter 11_
+
+### Changes:
+
+1. [Airline bankruptcies in the United States: Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/airline-bankruptcies-in-the-united-states-air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denve.md) _2017-08-27 03:48:47 (First version)_
+1. [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md) _(Current version)_

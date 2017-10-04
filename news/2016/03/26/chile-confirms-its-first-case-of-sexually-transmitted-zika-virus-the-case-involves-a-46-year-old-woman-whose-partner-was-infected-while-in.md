@@ -18,3 +18,8 @@ Chile has confirmed its first case of the Zika virus having been sexually transm
 3. [ Cuban officials announce they have detected the first case of the Zika virus transmitted inside the country: a 21-year-old Havana woman who had not traveled abroad. Cuba has reported a handful of travel-associated Zika cases, all believed imported from Venezuela. ](/news/2016/03/16/cuban-officials-announce-they-have-detected-the-first-case-of-the-zika-virus-transmitted-inside-the-country-a-21-year-old-havana-woman-who.md) _Context: Zika virus, Zika virus outbreak_
 4. [The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md) _Context: Zika virus, Zika virus outbreak_
 5. [The first case of the Zika virus has been diagnosed in South Africa. ](/news/2016/02/19/the-first-case-of-the-zika-virus-has-been-diagnosed-in-south-africa.md) _Context: Zika virus, Zika virus outbreak_
+
+### Changes:
+
+1. [Zika virus outbreak: Chile confirms its first case of sexually transmitted Zika virus. The case involves a 46-year-old woman whose partner was infected while in Haiti. ](/news/2016/03/26/zika-virus-outbreak-chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-w.md) _2017-08-27 03:45:23 (First version)_
+1. [Chile confirms its first case of sexually transmitted Zika virus. The case involves a 46-year-old woman whose partner was infected while in Haiti. ](/news/2016/03/26/chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-was-infected-while-in.md) _(Current version)_

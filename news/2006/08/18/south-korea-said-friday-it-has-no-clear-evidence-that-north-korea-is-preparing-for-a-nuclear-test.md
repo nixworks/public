@@ -17,3 +17,9 @@
 3. [A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. ](/news/2017/06/13/a-north-korean-soldier-crosses-the-korean-demilitarized-zone-dmz-and-defects-to-south-korea-the-first-since-september-2016.md) _Context: North Korea, South Korea_
 4. [North Korea launches a Short-Range Ballistic missile near Wonsan towards the Sea of Japan, according to South Korea. The missile reportedly lands in Japan's exclusive economic zone (EEZ) after traveling 450 km. ](/news/2017/05/29/north-korea-launches-a-short-range-ballistic-missile-near-wansan-towards-the-sea-of-japan-according-to-south-korea-the-missile-reportedly.md) _Context: North Korea, South Korea_
 5. [South Korea reports North Korea fired a Pukguksong-2 intermediate-range ballistic missile that flew 500 km before landing in the Sea of Japan. ](/news/2017/05/21/south-korea-reports-north-korea-fired-a-pukguksong-2-intermediate-range-ballistic-missile-that-flew-500-km-before-landing-in-the-sea-of-japa.md) _Context: North Korea, South Korea_
+
+### Changes:
+
+1. [ North Korea: South Korea said Friday it has no clear evidence that North Korea is preparing for a nuclear test. ](/news/2006/08/18/north-korea-p-south-korea-said-friday-it-has-no-clear-evidence-that-north-korea-is-preparing-for-a-nuclear-test.md) _2017-08-25 03:18:12 (First version)_
+2. [ North Korea:: South Korea said Friday it has no clear evidence that North Korea is preparing for a nuclear test. ](/news/2006/08/18/north-korea-south-korea-said-friday-it-has-no-clear-evidence-that-north-korea-is-preparing-for-a-nuclear-test.md) _2017-08-27 03:18:09 (Update)_
+2. [ South Korea said Friday it has no clear evidence that North Korea is preparing for a nuclear test. ](/news/2006/08/18/south-korea-said-friday-it-has-no-clear-evidence-that-north-korea-is-preparing-for-a-nuclear-test.md) _(Current version)_

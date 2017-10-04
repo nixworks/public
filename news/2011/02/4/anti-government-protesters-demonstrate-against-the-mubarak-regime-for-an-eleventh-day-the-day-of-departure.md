@@ -23,3 +23,9 @@
 14. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/05/AR2011020500696.html?hpid=topnews)
 15. [a live stream](http://english.aljazeera.net/watch_now/)
 15. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2011/02/04/egypt-vp-targeted-assassination-attempt-killed-bodyguards-sources-tell-fox-news/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449532004981.jpg?ve=1)
+
+### Changes:
+
+1. [2011 Egyptian protests:Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/2011-egyptian-protests-panti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md) _2017-08-25 03:32:02 (First version)_
+2. [2011 Egyptian protests:: Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/2011-egyptian-protests-anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md) _2017-08-27 03:32:10 (Update)_
+2. [Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md) _(Current version)_

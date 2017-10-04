@@ -17,3 +17,8 @@
 3. [Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _Context: Iraqi Civil War (2014-present), Shiite_
 4. [ At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state-of.md) _Context: Iraqi Civil War (2014-present), Shiite_
 5. [Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md) _Context: Iraqi Civil War (2014-present), Shiite_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): More than 20 people have been killed in attacks targeting Shiite militias and government forces. ](/news/2016/04/4/iraqi-civil-war-2014-present-more-than-20-people-have-been-killed-in-attacks-targeting-shiite-militias-and-government-forces.md) _2017-08-27 03:45:29 (First version)_
+1. [More than 20 people have been killed in attacks targeting Shiite militias and government forces. ](/news/2016/04/4/more-than-20-people-have-been-killed-in-attacks-targeting-shiite-militias-and-government-forces.md) _(Current version)_

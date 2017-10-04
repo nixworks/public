@@ -23,3 +23,8 @@ Australian stocks staged a spectacular recovery today, reversing a massive slide
 3. [A pregnant Australian woman in the state of Queensland tests positive for the Zika virus. ](/news/2016/02/10/a-pregnant-australian-woman-in-the-state-of-queensland-tests-positive-for-the-zika-virus.md) _Context: Australian_
 4. [Two Australians, a doctor and his wife, have been abducted in northern Burkina Faso. The Al Qaeda-linked, Mali-based "Emirate of the Sahara" is responsible, according to SITE. ](/news/2016/01/16/two-australians-a-doctor-and-his-wife-have-been-abducted-in-northern-burkina-faso-the-al-qaeda-linked-mali-based-emirate-of-the-sahara.md) _Context: Australian_
 5. [Australian artist Nigel Milsom wins the 2015 Archibald Prize for a portrait of barrister Charles Waterstreet who represented Milsom when he was sentenced for armed robbery. ](/news/2015/07/17/australian-artist-nigel-milsom-wins-the-2015-archibald-prize-for-a-portrait-of-barrister-charles-waterstreet-who-represented-milsom-when-he.md) _Context: Australian_
+
+### Changes:
+
+1. [August 2011 stock markets fall: The Australian Commonwealth and Westpac banks cut fixed home loan rates. ](/news/2011/08/9/august-2011-stock-markets-fall-the-australian-commonwealth-and-westpac-banks-cut-fixed-home-loan-rates.md) _2017-08-27 03:34:06 (First version)_
+1. [The Australian Commonwealth and Westpac banks cut fixed home loan rates. ](/news/2011/08/9/the-australian-commonwealth-and-westpac-banks-cut-fixed-home-loan-rates.md) _(Current version)_

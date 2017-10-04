@@ -18,3 +18,9 @@
 3. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Karachi_
 4. [At least 12 people are killed and 75 others injured as a fire erupts in Karachi's Regent Plaza Hotel. ](/news/2016/12/5/at-least-12-people-are-killed-and-75-others-injured-as-a-fire-erupts-in-karachi-s-regent-plaza-hotel.md) _Context: Karachi_
 5. [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md) _Context: Karachi_
+
+### Changes:
+
+1. [2014 Jinnah International Airport attack:Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/2014-jinnah-international-airport-attack-pkarachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claimed.md) _2017-08-25 03:40:31 (First version)_
+2. [2014 Jinnah International Airport attack:: Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/2014-jinnah-international-airport-attack-karachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claime.md) _2017-08-27 03:40:49 (Update)_
+2. [Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/karachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claimed-21-lives.md) _(Current version)_

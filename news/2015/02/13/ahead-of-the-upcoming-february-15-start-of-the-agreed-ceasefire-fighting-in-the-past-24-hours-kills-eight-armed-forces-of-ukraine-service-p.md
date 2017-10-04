@@ -17,3 +17,8 @@ Eight Ukrainian service personnel have been killed and 34 wounded in fighting ag
 3. [A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest-toll-reported-i.md) _Context: Ukrainian military, War in Donbass_
 4. [Three soldiers are killed and two others are injured after a Ukrainian military truck was blown up in the eastern part of Luhansk Oblast. ](/news/2016/03/1/three-soldiers-are-killed-and-two-others-are-injured-after-a-ukrainian-military-truck-was-blown-up-in-the-eastern-part-of-luhansk-oblast.md) _Context: Ukrainian military, War in Donbass_
 5. [The Ukrainian military retakes control of the strategic village of Shyrokyne. ](/news/2016/02/25/the-ukrainian-military-retakes-control-of-the-strategic-village-of-shyrokyne.md) _Context: Ukrainian military, War in Donbass_
+
+### Changes:
+
+1. [War in Donbass: Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/war-in-donbass-ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-u.md) _2017-08-27 03:41:55 (First version)_
+1. [Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-ukraine-service-p.md) _(Current version)_

@@ -25,7 +25,7 @@ _Context: Nawaz Sharif, Pakistan, Pervez Musharraf, Prime Minister, Prime Minist
 _Context: Bolivia, Sucre, draft constitution_
 
 ### [ The People's Republic of China signs a deal to buy 160 Airbus aircraft in a deal worth $US17 billion during a visit by the President of France Nicolas Sarkozy. ](/news/2007/11/26/the-people-s-republic-of-china-signs-a-deal-to-buy-160-airbus-aircraft-in-a-deal-worth-us17-billion-during-a-visit-by-the-president-of-fra.md)
-_Context: Airbus, China, Nicolas Sarkozy, President of France, US$_
+_Context: $, Airbus, China, Nicolas Sarkozy, President of France_
 
 ### [ Newsweek Magazine will come out with a new edition, about the top ranked schools in the United States. ](/news/2007/11/26/newsweek-magazine-will-come-out-with-a-new-edition-about-the-top-ranked-schools-in-the-united-states.md)
 ## [Previous Day...](/news/2007/11/25/index.md)

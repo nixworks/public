@@ -17,3 +17,9 @@ By Alberto Dabo BISSAU (Reuters) - Former finance minister Jose Mario Vaz won a 
 3. [A firefight in Guinea-Bissau kills six people. ](/news/2012/10/21/a-firefight-in-guinea-bissau-kills-six-people.md) _Context: Guinea-Bissau_
 4. [The Economic Community of West African States condemns the election plan of the military junta which seized power in Guinea-Bissau. ](/news/2012/04/20/the-economic-community-of-west-african-states-condemns-the-election-plan-of-the-military-junta-which-seized-power-in-guinea-bissau.md) _Context: Guinea-Bissau_
 5. [Guinea-Bissau is suspended from the African Union one week after a coup d'etat. ](/news/2012/04/17/guinea-bissau-is-suspended-from-the-african-union-one-week-after-a-coup-d-a-c-tat.md) _Context: Guinea-Bissau_
+
+### Changes:
+
+1. [Guinea-Bissau general election, 2014:Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/guinea-bissau-general-election-2014-pformer-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md) _2017-08-25 03:40:25 (First version)_
+2. [Guinea-Bissau general election, 2014:: Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/guinea-bissau-general-election-2014-former-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md) _2017-08-27 03:40:43 (Update)_
+2. [Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/former-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md) _(Current version)_

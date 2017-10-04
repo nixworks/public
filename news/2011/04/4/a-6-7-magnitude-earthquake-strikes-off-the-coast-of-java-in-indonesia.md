@@ -18,3 +18,9 @@ Hundreds of residents fled an Indonesian port town for higher ground on Monday w
 3. [Two pilots are killed after a South Korean-made KAI T-50 Golden Eagle crashes and bursts into flames at an air show in Yogyakarta on Indonesia's Java island. ](/news/2015/12/20/two-pilots-are-killed-after-a-south-korean-made-kai-t-50-golden-eagle-crashes-and-bursts-into-flames-at-an-air-show-in-yogyakarta-on-indones.md) _Context: Indonesia, Java_
 4. [Indonesia closes four airports including Bali International Airport due to an ongoing eruption by the Raung volcano on Java. ](/news/2015/07/10/indonesia-closes-four-airports-including-bali-international-airport-due-to-an-ongoing-eruption-by-the-raung-volcano-on-java.md) _Context: Indonesia, Java_
 5. [The death toll from a landslide in central Java in Indonesia rises to 24 with scores still missing. ](/news/2014/12/14/the-death-toll-from-a-landslide-in-central-java-in-indonesia-rises-to-24-with-scores-still-missing.md) _Context: Indonesia, Java_
+
+### Changes:
+
+1. [Indonesian earthquake and tsunami:A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/indonesian-earthquake-and-tsunami-pa-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md) _2017-08-25 03:32:43 (First version)_
+2. [Indonesian earthquake and tsunami:: A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/indonesian-earthquake-and-tsunami-a-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md) _2017-08-27 03:32:52 (Update)_
+2. [A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/a-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md) _(Current version)_

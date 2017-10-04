@@ -18,3 +18,8 @@
 3. [An air raid kills at least 24 civilians at a market in Houthi-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-houthi-held-saada-governorate-yemen.md) _Context: Saudi Arabian-led intervention in Yemen, Yemen_
 4. [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md) _Context: Saudi Arabian-led intervention in Yemen, Yemen_
 5. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Saudi Arabian-led intervention in Yemen, Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: The UN announces that it has grave concerns for around 96,000 children in Al Hudaydah, Yemen, who are starving due to the nearby fighting. ](/news/2015/09/8/saudi-arabian-led-intervention-in-yemen-the-un-announces-that-it-has-grave-concerns-for-around-96-000-children-in-al-hudaydah-yemen-who-a.md) _2017-08-27 03:42:59 (First version)_
+1. [The UN announces that it has grave concerns for around 96,000 children in Al Hudaydah, Yemen, who are starving due to the nearby fighting. ](/news/2015/09/8/the-un-announces-that-it-has-grave-concerns-for-around-96-000-children-in-al-hudaydah-yemen-who-are-starving-due-to-the-nearby-fighting.md) _(Current version)_

@@ -19,3 +19,8 @@
 3. [Pakistan's cricket captain, Shahid Afridi, quits in controversy after losing his team's first Test to Australia. ](/news/2010/07/16/pakistan-s-cricket-captain-shahid-afridi-quits-in-controversy-after-losing-his-team-s-first-test-to-australia.md) _Context: cricketer_
 4. [Cricket: Australia and Pakistan contest the first neutral Test at Lord's Cricket Ground since 1912. ](/news/2010/07/13/cricket-australia-and-pakistan-contest-the-first-neutral-test-at-lord-s-cricket-ground-since-1912.md) _Context: cricketer_
 5. [ Pakistan's Raffatullah Momand and Aamer Sajjad set a new world record for a second wicket partnership scoring 580 runs in a first-class Quaid-i-Azam Trophy match, breaking the previous record of 576 held by Sri Lanka's Sanath Jayasuriya and Roshan Mahanama.](/news/2009/12/7/pakistanas-raffatullah-momand-and-aamer-sajjad-set-a-new-world-record-for-a-second-wicket-partnership-scoring-580-runs-in-a-first-class-q.md) _Context: run_
+
+### Changes:
+
+1. [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworth-lewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md) _2017-08-27 03:29:13 (First version)_
+1. [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworthalewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md) _(Current version)_

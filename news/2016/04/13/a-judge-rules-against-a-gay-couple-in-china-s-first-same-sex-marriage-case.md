@@ -16,3 +16,8 @@ CHANGSHA, China (AP) — A judge has ruled against a gay couple in China&#039;s 
 3. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_
 4. [India and China agree to end a two month-long stand-off with the withdrawal of Indian troops. The stand-off began in June after China began constructing a road in the disputed territory of Doklam which is claimed by both China and Bhutan. ](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.md) _Context: China_
 5. [Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos. ](/news/2017/08/2/teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece-of-faulty-dna.md) _Context: China_
+
+### Changes:
+
+1. [Recognition of same-sex unions in China: A judge rules against a gay couple in China's first same-sex marriage case. ](/news/2016/04/13/recognition-of-same-sex-unions-in-china-a-judge-rules-against-a-gay-couple-in-china-s-first-same-sex-marriage-case.md) _2017-08-27 03:45:37 (First version)_
+1. [A judge rules against a gay couple in China's first same-sex marriage case. ](/news/2016/04/13/a-judge-rules-against-a-gay-couple-in-china-s-first-same-sex-marriage-case.md) _(Current version)_

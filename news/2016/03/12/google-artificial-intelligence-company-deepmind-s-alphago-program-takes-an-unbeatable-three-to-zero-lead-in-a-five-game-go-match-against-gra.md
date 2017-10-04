@@ -17,3 +17,8 @@ This is the first time an artificially intelligent system has topped one of the 
 3. [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md) _Context: Google_
 4. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Google_
 5. [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md) _Context: Google_
+
+### Changes:
+
+1. [AlphaGo versus Lee Sedol: Google artificial intelligence company DeepMind's AlphaGo program takes an unbeatable three to zero lead in a five-game Go match against grand master Lee Sedol. ](/news/2016/03/12/alphago-versus-lee-sedol-google-artificial-intelligence-company-deepmind-s-alphago-program-takes-an-unbeatable-three-to-zero-lead-in-a-five.md) _2017-08-27 03:45:13 (First version)_
+1. [Google artificial intelligence company DeepMind's AlphaGo program takes an unbeatable three to zero lead in a five-game Go match against grand master Lee Sedol. ](/news/2016/03/12/google-artificial-intelligence-company-deepmind-s-alphago-program-takes-an-unbeatable-three-to-zero-lead-in-a-five-game-go-match-against-gra.md) _(Current version)_

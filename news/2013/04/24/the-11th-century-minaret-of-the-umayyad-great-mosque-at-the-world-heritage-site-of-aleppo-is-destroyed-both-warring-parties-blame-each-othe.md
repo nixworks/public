@@ -18,3 +18,9 @@
 3. [UNESCO declares the old city of Hebron and the Cave of the Patriarchs, both in the West Bank, as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-both-in-the-west-bank-as-world-heritage-sites.md) _Context: world heritage site_
 4. [A fire breaks out in the bell tower of Moscow's Novodevichy Convent, established in 1524 and added to UNESCO's World Heritage Sites. ](/news/2015/03/15/a-fire-breaks-out-in-the-bell-tower-of-moscow-s-novodevichy-convent-established-in-1524-and-added-to-unesco-s-world-heritage-sites.md) _Context: world heritage site_
 5. [Several places in North Korea are named as World Heritage Sites by UNESCO. ](/news/2013/06/23/several-places-in-north-korea-are-named-as-world-heritage-sites-by-unesco.md) _Context: world heritage site_
+
+### Changes:
+
+1. [Syrian Civil War:The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/syrian-civil-war-pthe-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-parti.md) _2017-08-25 03:38:28 (First version)_
+2. [Syrian Civil War:: The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/syrian-civil-war-the-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-part.md) _2017-08-27 03:38:40 (Update)_
+2. [The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/the-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-parties-blame-each-othe.md) _(Current version)_

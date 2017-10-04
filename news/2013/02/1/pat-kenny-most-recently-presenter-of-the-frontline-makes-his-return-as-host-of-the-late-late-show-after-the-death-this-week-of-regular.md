@@ -15,3 +15,8 @@ RT&Eacute; has extended sympathy to Ryan Tubridy and his family following the de
 
 1. [ Ryan Tubridy takes over as host of "The Late Late Show", the world's longest running chat show. ](/news/2009/09/4/ryan-tubridy-takes-over-as-host-of-the-late-late-show-the-world-s-longest-running-chat-show.md) _Context: Ryan Tubridy, The Late Late Show_
 2. [ Irish broadcaster Pat Kenny hosts his final episode of "The Late Late Show". ](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.md) _Context: Pat Kenny, The Late Late Show_
+
+### Changes:
+
+1. [Pat Kenny, most recently presenter of ''The Frontline'', makes his return as host of ''The Late Late Show'' after the death this week of regular host Ryan Tubridy's father. ](/news/2013/02/1/pat-kenny-most-recently-presenter-of-the-frontline-makes-his-return-as-host-of-the-late-late-show-after-the-death-this-week-of-reg.md) _2017-08-25 03:37:24 (First version)_
+1. [Pat Kenny, most recently presenter of "The Frontline", makes his return as host of "The Late Late Show" after the death this week of regular host Ryan Tubridy's father. ](/news/2013/02/1/pat-kenny-most-recently-presenter-of-the-frontline-makes-his-return-as-host-of-the-late-late-show-after-the-death-this-week-of-regular.md) _(Current version)_

@@ -4,7 +4,7 @@
 _Context: Accountancy scandals, Securities and Exchange Commission, WorldCom_
 
 ### [ Finance - The euro approaches parity with the United States dollar.](/news/2002/06/27/finance-a-the-euro-approaches-parity-with-the-united-states-dollar.md)
-_Context: EUR, US$, financial centers_
+_Context: $, EUR, financial centers_
 
 ### [ Music - The Who's bassist John Entwistle dies of a heart attack at age 57.](/news/2002/06/27/music-a-the-who-s-bassist-john-entwistle-dies-of-a-heart-attack-at-age-57.md)
 _Context: John Entwistle, The Who, music_

@@ -17,3 +17,9 @@
 3. [Russian police and security agents detain 140 people at a mosque in Moscow on suspicion of involvement with Islamic extremism. ](/news/2013/04/26/russian-police-and-security-agents-detain-140-people-at-a-mosque-in-moscow-on-suspicion-of-involvement-with-islamic-extremism.md) _Context: Russia, Russian police_
 4. [Russian police arrest prominent opposition leaders at a rally against President Vladimir Putin in Moscow. ](/news/2012/12/15/russian-police-arrest-prominent-opposition-leaders-at-a-rally-against-president-vladimir-putin-in-moscow.md) _Context: Russia, Russian police_
 5. [Georgian forces free 10 hostages held by militants from Russia's North Caucasian republic of Dagestan. Three Georgian police officers and 11 militants die in a clash. ](/news/2012/08/29/georgian-forces-free-10-hostages-held-by-militants-from-russia-s-north-caucasian-republic-of-dagestan-three-georgian-police-officers-and-11.md) _Context: North Caucasus, Russia_
+
+### Changes:
+
+1. [Insurgency in the North Caucasus:Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/insurgency-in-the-north-caucasus-prussian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md) _2017-08-25 03:39:10 (First version)_
+2. [Insurgency in the North Caucasus:: Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/insurgency-in-the-north-caucasus-russian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md) _2017-08-27 03:39:26 (Update)_
+2. [Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/russian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md) _(Current version)_

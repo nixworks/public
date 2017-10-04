@@ -17,3 +17,9 @@
 3. [ President Muhammadu Buhari announces that the Nigerian Armed Forces have successfully driven out Boko Haram militants from their last stronghold in the Sambisa Forest in northeastern Nigeria. ](/news/2016/12/24/president-muhammadu-buhari-announces-that-the-nigerian-armed-forces-have-successfully-driven-out-boko-haram-militants-from-their-last-stron.md) _Context: Boko Haram, Nigeria_
 4. [The United Nations and Nigeria come to an agreement to release 876 children being held due to suspicions that they are tied to Boko Haram. ](/news/2016/10/30/the-united-nations-and-nigeria-come-to-an-agreement-to-release-876-children-being-held-due-to-suspicions-that-they-are-tied-to-boko-haram.md) _Context: Boko Haram, Nigeria_
 5. [Suspected Boko Haram suicide bombers kill at least eight people in the Nigerian city of Maiduguri. ](/news/2016/10/29/suspected-boko-haram-suicide-bombers-kill-at-least-eight-people-in-the-nigerian-city-of-maiduguri.md) _Context: Boko Haram, Nigeria_
+
+### Changes:
+
+1. [Nigerian Sharia conflict:Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/nigerian-sharia-conflict-psuspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md) _2017-08-25 03:37:08 (First version)_
+2. [Nigerian Sharia conflict:: Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/nigerian-sharia-conflict-suspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md) _2017-08-27 03:37:18 (Update)_
+2. [Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/suspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md) _(Current version)_

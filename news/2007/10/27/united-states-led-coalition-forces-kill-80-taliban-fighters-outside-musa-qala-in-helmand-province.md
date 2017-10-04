@@ -18,3 +18,9 @@ U.S.-led forces killed about 80 Taliban fighters during a battle in Southern Afg
 3. [Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after-a-year-long-battle-with-afghan-secur.md) _Context: Helmand Province, Taliban_
 4. [Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-helmand-province.md) _Context: Helmand Province, Taliban_
 5. [According to the Afghan Interior Ministry, Mullah Abdul Salam Akhund, a senior Taliban commander, is killed in a U.S. airstrike in Kunduz Province. ](/news/2017/02/27/according-to-the-afghan-interior-ministry-mullah-abdul-salam-akhund-a-senior-taliban-commander-is-killed-in-a-u-s-airstrike-in-kunduz-pr.md) _Context: Americans, Taliban_
+
+### Changes:
+
+1. [ War in Afghanistan: United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/war-in-afghanistan-p-united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md) _2017-08-25 03:21:16 (First version)_
+2. [ War in Afghanistan:: United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/war-in-afghanistan-united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md) _2017-08-27 03:21:11 (Update)_
+2. [ United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md) _(Current version)_

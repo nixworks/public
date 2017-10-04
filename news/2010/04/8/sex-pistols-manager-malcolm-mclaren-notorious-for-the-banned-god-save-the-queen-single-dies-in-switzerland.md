@@ -20,3 +20,8 @@ Malcolm McLaren, the former manager of the Sex Pistols and impresario, has died 
 3. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md) _Context: Switzerland_
 4. [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _Context: Switzerland_
 5. [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md) _Context: Switzerland_
+
+### Changes:
+
+1. [Sex Pistols manager Malcolm McLaren, notorious for the banned "God Save the Queen" single, dies in New York. ](/news/2010/04/8/sex-pistols-manager-malcolm-mclaren-notorious-for-the-banned-god-save-the-queen-single-dies-in-new-york.md) _2017-08-03 03:28:12 (First version)_
+1. [Sex Pistols manager Malcolm McLaren, notorious for the banned "God Save the Queen" single, dies in Switzerland. ](/news/2010/04/8/sex-pistols-manager-malcolm-mclaren-notorious-for-the-banned-god-save-the-queen-single-dies-in-switzerland.md) _(Current version)_

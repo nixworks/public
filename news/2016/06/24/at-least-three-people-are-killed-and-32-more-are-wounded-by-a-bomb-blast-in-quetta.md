@@ -16,3 +16,8 @@
 3. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: War in North-West Pakistan_
 4. [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md) _Context: War in North-West Pakistan_
 5. [Multiple blasts occur at a market in Parachinar, killing at least 37 people and wounding over 150 more. ](/news/2017/06/23/multiple-blasts-occur-at-a-market-in-parachinar-killing-at-least-37-people-and-wounding-over-150-more.md) _Context: War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: At least three people are killed and 32 more are wounded by a bomb blast in Quetta. ](/news/2016/06/24/war-in-north-west-pakistan-at-least-three-people-are-killed-and-32-more-are-wounded-by-a-bomb-blast-in-quetta.md) _2017-08-27 03:46:20 (First version)_
+1. [At least three people are killed and 32 more are wounded by a bomb blast in Quetta. ](/news/2016/06/24/at-least-three-people-are-killed-and-32-more-are-wounded-by-a-bomb-blast-in-quetta.md) _(Current version)_

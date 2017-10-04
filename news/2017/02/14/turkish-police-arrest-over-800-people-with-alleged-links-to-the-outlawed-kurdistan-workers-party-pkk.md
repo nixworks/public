@@ -16,3 +16,8 @@ State media says more than 800 people have been detained in operations carried o
 3. [A police Sikorsky S-70 helicopter crashes in Tunceli Province, Turkey, killing 12 people. ](/news/2017/04/18/a-police-sikorsky-s-70-helicopter-crashes-in-tunceli-province-turkey-killing-12-people.md) _Context: police_
 4. [The Turkish government dismisses more than 4,400 public servants from their jobs in the latest purge within the country following a failed coup attempt last year. ](/news/2017/02/8/the-turkish-government-dismisses-more-than-4-400-public-servants-from-their-jobs-in-the-latest-purge-within-the-country-following-a-failed-c.md) _Context: 2016-17 Turkish purges_
 5. [Turkish police arrest over 400 suspected ISIL members in raids across the country. ](/news/2017/02/5/turkish-police-arrest-over-400-suspected-isil-members-in-raids-across-the-country.md) _Context: police_
+
+### Changes:
+
+1. [Kurdish-Turkish conflict (1978-present) - Turkish police arrest over 800 people with alleged links to the outlawed Kurdistan Workers' Party (PKK). ](/news/2017/02/14/kurdishaturkish-conflict-1978apresent-turkish-police-arrest-over-800-people-with-alleged-links-to-the-outlawed-kurdistan-workers-pa.md) _2017-08-25 03:47:24 (First version)_
+1. [Turkish police arrest over 800 people with alleged links to the outlawed Kurdistan Workers' Party (PKK). ](/news/2017/02/14/turkish-police-arrest-over-800-people-with-alleged-links-to-the-outlawed-kurdistan-workers-party-pkk.md) _(Current version)_

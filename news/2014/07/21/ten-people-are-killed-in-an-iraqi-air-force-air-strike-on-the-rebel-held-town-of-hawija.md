@@ -17,3 +17,8 @@ Ten people were killed, including a mother and three children, in a government a
 3. [An Iraqi Air Force Sukhoi Su-25 jet, returning from a bombing raid against ISIL militants in the north, accidentally drops a bomb on Baghdad destroying several homes and killing at least 7 civilians. American officials claimed that as many as 65% of Iraqi air force bombers do not drop their bombs due to "lack of targets". ](/news/2015/07/6/an-iraqi-air-force-sukhoi-su-25-jet-returning-from-a-bombing-raid-against-isil-militants-in-the-north-accidentally-drops-a-bomb-on-baghdad.md) _Context: Iraqi Air Force_
 4. [At least 6 guards and 30 prisoners are killed in an Iraq prison break while 40 prisoners escape. ](/news/2015/05/9/at-least-6-guards-and-30-prisoners-are-killed-in-an-iraq-prison-break-while-40-prisoners-escape.md) _Context: Iraqi insurgency (2011-present)_
 5. [Two explosions in Baghdad kill at least 13 people and injure dozens. ](/news/2015/05/2/two-explosions-in-baghdad-kill-at-least-13-people-and-injure-dozens.md) _Context: Iraqi insurgency (2011-present)_
+
+### Changes:
+
+1. [Iraqi insurgency (2011-present): Ten people are killed in an Iraqi Air Force air strike on the rebel-held town of Hawija. ](/news/2014/07/21/iraqi-insurgency-2011-present-ten-people-are-killed-in-an-iraqi-air-force-air-strike-on-the-rebel-held-town-of-hawija.md) _2017-08-27 03:41:01 (First version)_
+1. [Ten people are killed in an Iraqi Air Force air strike on the rebel-held town of Hawija. ](/news/2014/07/21/ten-people-are-killed-in-an-iraqi-air-force-air-strike-on-the-rebel-held-town-of-hawija.md) _(Current version)_

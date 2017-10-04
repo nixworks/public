@@ -18,3 +18,8 @@ The U.S. government has declared a public health emergency in Puerto Rico becaus
 3. [Vietnam reports its first microcephaly case likely to be linked to the Zika virus. ](/news/2016/10/30/vietnam-reports-its-first-microcephaly-case-likely-to-be-linked-to-the-zika-virus.md) _Context: Zika virus, Zika virus outbreak timeline_
 4. [ The Centers for Disease Control and Prevention reports at that least 270 pregnant women in the United States are infected with the Zika virus. ](/news/2016/05/20/the-centers-for-disease-control-and-prevention-reports-at-that-least-270-pregnant-women-in-the-united-states-are-infected-with-the-zika-vir.md) _Context: Americans, Zika virus_
 5. [ The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-united-states-an-elderly-man-in-puerto-ri.md) _Context: Puerto Rico, Zika virus_
+
+### Changes:
+
+1. [Zika virus outbreak timeline: The United States declares a public health emergency in Puerto Rico over an outbreak of the Zika virus which has infected nearly 11,000 people. ](/news/2016/08/12/zika-virus-outbreak-timeline-the-united-states-declares-a-public-health-emergency-in-puerto-rico-over-an-outbreak-of-the-zika-virus-which-h.md) _2017-08-27 03:46:39 (First version)_
+1. [The United States declares a public health emergency in Puerto Rico over an outbreak of the Zika virus which has infected nearly 11,000 people. ](/news/2016/08/12/the-united-states-declares-a-public-health-emergency-in-puerto-rico-over-an-outbreak-of-the-zika-virus-which-has-infected-nearly-11-000-peop.md) _(Current version)_

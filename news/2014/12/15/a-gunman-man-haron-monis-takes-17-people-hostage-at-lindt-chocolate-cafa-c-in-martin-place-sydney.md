@@ -19,3 +19,8 @@ Hundreds of armed police seal off an area of central Sydney where a gunman is ho
 3. [At least 18 are held hostage in a chocolate shop in Sydney, Australia. Police stormed the cafe the following day.](/news/2014/12/14/at-least-18-are-held-hostage-in-a-chocolate-shop-in-sydney-australia-police-stormed-the-cafa-c-the-following-day.md) _Context: 2014 Sydney hostage crisis, Sydney_
 4. [Australian federal police conduct raids in four separate suburbs of Sydney, detaining individuals and confiscating materials involved in a suspected terrorist plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-involved-in-a-s.md) _Context: Sydney_
 5. [ New South Wales facing evacuations and a rising flood threat as heavy rain and high winds hit Sydney and Newcastle. Parts of Victoria and Tasmania are braced for wild weather. ](/news/2016/06/5/new-south-wales-facing-evacuations-and-a-rising-flood-threat-as-heavy-rain-and-high-winds-hit-sydney-and-newcastle-parts-of-victoria-and-t.md) _Context: Sydney_
+
+### Changes:
+
+1. [2014 Sydney hostage crisis: A gunman, Man Haron Monis, takes 17 people hostage at Lindt Chocolate Cafe in Martin Place, Sydney. ](/news/2014/12/15/2014-sydney-hostage-crisis-a-gunman-man-haron-monis-takes-17-people-hostage-at-lindt-chocolate-cafa-c-in-martin-place-sydney.md) _2017-08-27 03:41:38 (First version)_
+1. [A gunman, Man Haron Monis, takes 17 people hostage at Lindt Chocolate Cafe in Martin Place, Sydney. ](/news/2014/12/15/a-gunman-man-haron-monis-takes-17-people-hostage-at-lindt-chocolate-cafa-c-in-martin-place-sydney.md) _(Current version)_

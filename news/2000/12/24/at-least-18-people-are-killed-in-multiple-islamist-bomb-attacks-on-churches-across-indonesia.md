@@ -12,3 +12,8 @@
 3. [A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structural-damage-to-buildings.md) _Context: Indonesia_
 4. [A rescue helicopter crashes while attempting to evacuate residents near the Dieng Volcanic Complex in Central Java, Indonesia, killing all eight people on board. ](/news/2017/07/3/a-rescue-helicopter-crashes-while-attempting-to-evacuate-residents-near-the-dieng-volcanic-complex-in-central-java-indonesia-killing-all-e.md) _Context: Indonesia_
 5. [In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. ](/news/2017/07/23/in-alleged-emulation-of-philippine-president-rodrigo-duterte-s-war-on-drugs-indonesian-president-joko-widodo-announces-orders-for-police-to.md) _Context: Indonesia_
+
+### Changes:
+
+1. [Christmas Eve 2000 Indonesia bombings: At least 18 people are killed in multiple Islamist bomb attacks on churches across Indonesia.](/news/2000/12/24/christmas-eve-2000-indonesia-bombings-at-least-18-people-are-killed-in-multiple-islamist-bomb-attacks-on-churches-across-indonesia.md) _2017-08-27 03:15:09 (First version)_
+1. [At least 18 people are killed in multiple Islamist bomb attacks on churches across Indonesia.](/news/2000/12/24/at-least-18-people-are-killed-in-multiple-islamist-bomb-attacks-on-churches-across-indonesia.md) _(Current version)_

@@ -17,3 +17,9 @@ At least 15 people have died in a suicide bomb attack targeting a Shia mosque in
 3. [ Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad-injuring-at-least-33.md) _Context: Baghdad, Iraq_
 4. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraq_
 5. [ At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state-of.md) _Context: Baghdad, Iraq_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):15 people die in a suicide bomb attack targeting a Shia mosque in the Iraqi capital of Baghdad. ](/news/2013/07/5/iraqi-insurgency-post-u-s-withdrawal-p15-people-die-in-a-suicide-bomb-attack-targeting-a-shia-mosque-in-the-iraqi-capital-of-baghdad.md) _2017-08-25 03:38:57 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: 15 people die in a suicide bomb attack targeting a Shia mosque in the Iraqi capital of Baghdad. ](/news/2013/07/5/iraqi-insurgency-post-u-s-withdrawal-15-people-die-in-a-suicide-bomb-attack-targeting-a-shia-mosque-in-the-iraqi-capital-of-baghdad.md) _2017-08-27 03:39:12 (Update)_
+2. [15 people die in a suicide bomb attack targeting a Shia mosque in the Iraqi capital of Baghdad. ](/news/2013/07/5/15-people-die-in-a-suicide-bomb-attack-targeting-a-shia-mosque-in-the-iraqi-capital-of-baghdad.md) _(Current version)_

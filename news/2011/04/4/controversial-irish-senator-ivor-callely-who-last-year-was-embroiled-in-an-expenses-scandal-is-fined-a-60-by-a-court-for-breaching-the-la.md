@@ -16,3 +16,8 @@
 
 1. [Irish senator Ivor Callely is suspended from Fianna Fail over new expense allegations. ](/news/2010/08/3/irish-senator-ivor-callely-is-suspended-from-fianna-fa-il-over-new-expense-allegations.md) _Context: Ivor Callely_
 2. [Irish Fianna Fail Senator Ivor Callely is suspended for 20 days without pay due to a travel expenses scandal. ](/news/2010/07/14/irish-fianna-fa-il-senator-ivor-callely-is-suspended-for-20-days-without-pay-due-to-a-travel-expenses-scandal.md) _Context: Ivor Callely_
+
+### Changes:
+
+1. [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined -60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-60-by-a-court-for-breaching-the-la.md) _2017-08-27 03:32:52 (First version)_
+1. [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined EUR60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-a-60-by-a-court-for-breaching-the-la.md) _(Current version)_

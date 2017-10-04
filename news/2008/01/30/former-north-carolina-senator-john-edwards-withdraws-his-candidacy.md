@@ -19,3 +19,9 @@ Rudolph W. Giuliani endorsed Senator John McCain for the Republican nomination. 
 3. [John Edwards, former United States presidential candidate and Senator representing North Carolina, is indicted on charges of conspiracy and violating campaign finance laws in connection to his affair with Rielle Hunter; Edwards denies he broke any laws. ](/news/2011/06/3/john-edwards-former-united-states-presidential-candidate-and-senator-representing-north-carolina-is-indicted-on-charges-of-conspiracy-and.md) _Context: John Edwards, North Carolina_
 4. [ U.S. presidential campaign: Incumbent US Vice President Dick Cheney and challenger Senator John Edwards meet in Cleveland, Ohio, for the only vice presidential debate of the 2004 U.S. presidential election. ](/news/2004/10/5/u-s-presidential-campaign-incumbent-us-vice-president-dick-cheney-and-challenger-senator-john-edwards-meet-in-cleveland-ohio-for-the-on.md) _Context: John Edwards, United States Senate_
 5. [Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. ](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.md) _Context: North Carolina_
+
+### Changes:
+
+1. [ United States presidential election, 2008: Former North Carolina Senator John Edwards withdraws his candidacy. ](/news/2008/01/30/united-states-presidential-election-2008-p-former-north-carolina-senator-john-edwards-withdraws-his-candidacy.md) _2017-08-25 03:21:43 (First version)_
+2. [ United States presidential election, 2008:: Former North Carolina Senator John Edwards withdraws his candidacy. ](/news/2008/01/30/united-states-presidential-election-2008-former-north-carolina-senator-john-edwards-withdraws-his-candidacy.md) _2017-08-27 03:21:37 (Update)_
+2. [ Former North Carolina Senator John Edwards withdraws his candidacy. ](/news/2008/01/30/former-north-carolina-senator-john-edwards-withdraws-his-candidacy.md) _(Current version)_

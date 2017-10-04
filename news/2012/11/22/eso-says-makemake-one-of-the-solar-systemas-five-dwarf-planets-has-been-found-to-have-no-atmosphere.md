@@ -17,3 +17,8 @@ First look at Kuiper Belt object also reveals no shroud of gases
 3. [Astronomers announce that 2014 UZ224 is the third most distant Solar System object known from our Sun, currently over 90 times the Earth's distance from the Sun (90.8 AU or 8.44 billion miles), after Eris (96.2 AU) and V774104 (~103 AU). ](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.md) _Context: Solar System_
 4. [Researchers from Konkoly Observatory in Budapest, Hungary, reveal that (225088) 2007 OR10 is the third largest dwarf planet in the solar system. ](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapest-hungary-reveal-that-225088-2007-or10-is-the-third-largest-dwarf-planet-in-the-solar-sys.md) _Context: Solar System_
 5. [Astronomers announce the discovery of V774104, the most distant object yet found in the solar system, a dwarf planet orbiting at three times the distance of Pluto. ](/news/2015/11/11/astronomers-announce-the-discovery-of-v774104-the-most-distant-object-yet-found-in-the-solar-system-a-dwarf-planet-orbiting-at-three-times.md) _Context: Solar System_
+
+### Changes:
+
+1. [ESO says Makemake, one of the solar system-s five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-system-s-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md) _2017-08-27 03:37:01 (First version)_
+1. [ESO says Makemake, one of the solar system's five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-systemas-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md) _(Current version)_

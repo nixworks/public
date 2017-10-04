@@ -18,3 +18,8 @@ Sony Music Ireland has said it is looking into an incident on its website after 
 3. [Australian singer Dannii Minogue resigns as a judge on "The X Factor". ](/news/2011/05/14/australian-singer-dannii-minogue-resigns-as-a-judge-on-the-x-factor.md) _Context: The X Factor_
 4. [A student who guessed the answers to former Governor of Alaska Sarah Palin's security questions in 2008 is convicted of hacking and sentenced to one year in state custody. ](/news/2010/11/12/a-student-who-guessed-the-answers-to-former-governor-of-alaska-sarah-palin-s-security-questions-in-2008-is-convicted-of-hacking-and-sentence.md) _Context: hacking_
 5. [Simon Cowell signs a deal with ITV which will see "The X Factor" and "Britain's Got Talent" return for the next three years. ](/news/2010/10/19/simon-cowell-signs-a-deal-with-itv-which-will-see-the-x-factor-and-britain-s-got-talent-return-for-the-next-three-years.md) _Context: The X Factor_
+
+### Changes:
+
+1. [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, ''The X Factor'' and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-fact.md) _2017-08-25 03:33:41 (First version)_
+1. [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, "The X Factor" and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-facto.md) _(Current version)_

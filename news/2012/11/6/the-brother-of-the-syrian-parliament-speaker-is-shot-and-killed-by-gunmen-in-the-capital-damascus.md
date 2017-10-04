@@ -18,3 +18,9 @@ Gunmen shoot and kill the brother of Syria&#39;s parliament speaker as he drives
 3. [Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _Context: Damascus, Syria_
 4. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Damascus, Syria_
 5. [A suicide bomb attack in Syria's capital Damascus kills at least 10 people. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/9/a-suicide-bomb-attack-in-syria-s-capital-damascus-kills-at-least-10-people-the-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Damascus, Syria_
+
+### Changes:
+
+1. [Syrian civil war:The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-pthe-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md) _2017-08-25 03:36:46 (First version)_
+2. [Syrian civil war:: The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-the-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md) _2017-08-27 03:36:57 (Update)_
+2. [The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/the-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md) _(Current version)_

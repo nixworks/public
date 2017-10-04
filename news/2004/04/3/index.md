@@ -19,7 +19,7 @@ _Context: Simpsons, strike, voice actors_
 _Context: Cologne, Stuttgart_
 
 ### [ An ongoing study by sociologist Robert Cushing for the "Austin American-Statesman" newspaper reveals a statistical anomaly: soldiers and Marines from rural areas are dying at twice the rate of troops from cities and suburbs. ](/news/2004/04/3/an-ongoing-study-by-sociologist-robert-cushing-for-the-austin-american-statesman-newspaper-reveals-a-statistical-anomaly-soldiers-and-ma.md)
-_Context: Austin American-Statesman, Robert Cushing, United States Marine Corps, area, cities, research, rural, sociologist, statistic, suburb_
+_Context: Austin American-Statesman, Robert Cushing, U.S. Marine, area, cities, research, rural, sociologist, statistic, suburb_
 
 ### [ Pennsylvania's chief auditor states that community notification about felons is often ""incorrect, late, and ineffective"", after review of state police monitoring of sexually violent predators under Megan's Law. ](/news/2004/04/3/pennsylvania-s-chief-auditor-states-that-community-notification-about-felons-is-often-incorrect-late-and-ineffective-after-review-of.md)
 _Context: Megan's Law, Pennsylvania, auditor, community notification, felons, incorrect, sexually violent predator, state police_

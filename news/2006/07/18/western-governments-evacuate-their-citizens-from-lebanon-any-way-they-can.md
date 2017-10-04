@@ -20,3 +20,8 @@ While army continues to strike Hizbullah, limit its weapons resources, outside g
 3. [Israel says it will lift its air and sea blockade of Lebanon. ](/news/2006/09/7/israel-says-it-will-lift-its-air-and-sea-blockade-of-lebanon.md) _Context: Lebanon, war_
 4. [ The Turkish Parliament votes to authorize the Turkish government to send troops to the United Nations peacekeeping force in Lebanon. Deputy speaker Nevzat Pakdil said 340 of the 533 lawmakers present in the 550-seat house voted for the deployment; 192 voted against and one abstained. ](/news/2006/09/5/the-turkish-parliament-votes-to-authorize-the-turkish-government-to-send-troops-to-the-united-nations-peacekeeping-force-in-lebanon-deputy.md) _Context: Lebanon, war_
 5. [ The United Nations Human Rights Council has voted to send a team to Lebanon to investigate alleged abuses by Israel. ](/news/2006/08/12/the-united-nations-human-rights-council-has-voted-to-send-a-team-to-lebanon-to-investigate-alleged-abuses-by-israel.md) _Context: Lebanon, war_
+
+### Changes:
+
+1. [ 2006 Israel-Lebanon conflict: Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/2006-israel-lebanon-conflict-western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md) _2017-08-27 03:18:01 (First version)_
+1. [ Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md) _(Current version)_

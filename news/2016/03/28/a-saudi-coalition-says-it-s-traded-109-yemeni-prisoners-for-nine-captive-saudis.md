@@ -16,3 +16,8 @@
 3. [Two prisons in Al Hudaydah, Yemen, are bombed by Saudi Arabian jets, leaving at least 60 dead. ](/news/2016/10/29/two-prisons-in-al-hudaydah-yemen-are-bombed-by-saudi-arabian-jets-leaving-at-least-60-dead.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 4. [The death toll from a Saudi-led Arab coalition airstrike which hit a house in a residential area in western Yemen has risen to 26 people. ](/news/2016/09/22/the-death-toll-from-a-saudi-led-arab-coalition-airstrike-which-hit-a-house-in-a-residential-area-in-western-yemen-has-risen-to-26-people.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 5. [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: A Saudi coalition says it's traded 109 Yemeni prisoners for nine captive Saudis. ](/news/2016/03/28/saudi-arabian-led-intervention-in-yemen-a-saudi-coalition-says-it-s-traded-109-yemeni-prisoners-for-nine-captive-saudis.md) _2017-08-27 03:45:23 (First version)_
+1. [A Saudi coalition says it's traded 109 Yemeni prisoners for nine captive Saudis. ](/news/2016/03/28/a-saudi-coalition-says-it-s-traded-109-yemeni-prisoners-for-nine-captive-saudis.md) _(Current version)_

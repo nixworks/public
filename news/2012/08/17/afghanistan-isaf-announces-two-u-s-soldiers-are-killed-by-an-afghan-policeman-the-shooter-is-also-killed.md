@@ -18,3 +18,9 @@ Two US soldiers are shot dead by a local policeman in Afghanistan, officials for
 3. [A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/a-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _Context: ISAF_
 4. [A book released by former U.S. Defense Secretary Robert Gates criticizes President Barack Obama for his handling of the War in Afghanistan. ](/news/2014/01/8/a-book-released-by-former-u-s-defense-secretary-robert-gates-criticizes-president-barack-obama-for-his-handling-of-the-war-in-afghanistan.md) _Context: War in Afghanistan_
 5. [A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/a-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md) _Context: ISAF_
+
+### Changes:
+
+1. [War on Terror:Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/war-on-terror-pafghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md) _2017-08-25 03:36:16 (First version)_
+2. [War on Terror:: Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/war-on-terror-afghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md) _2017-08-27 03:36:28 (Update)_
+2. [Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/afghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md) _(Current version)_

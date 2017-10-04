@@ -17,3 +17,8 @@
 3. [Egyptian Field Marshal Abdel Fattah el-Sisi resigns from his position as Minister of Defense and announces his bid for the upcoming presidential election. ](/news/2014/03/26/egyptian-field-marshal-abdel-fattah-el-sisi-resigns-from-his-position-as-minister-of-defense-and-announces-his-bid-for-the-upcoming-presiden.md) _Context: Egyptian presidential election, 2014_
 4. [Hamdeen Sabahi announces his candidacy for the upcoming Egyptian presidential elections. ](/news/2014/02/8/hamdeen-sabahi-announces-his-candidacy-for-the-upcoming-egyptian-presidential-elections.md) _Context: Egyptian presidential election, 2014_
 5. [The governing body of the Egyptian military approves Field Marshal Abdel Fattah el-Sisi, who led the coup d'tat that overthrew President Mohamed Morsi in July 2013, to run for the presidency in the upcoming election. ](/news/2014/01/27/the-governing-body-of-the-egyptian-military-approves-field-marshal-abdel-fattah-el-sisi-who-led-the-coup-d-etat-that-overthrew-president-mo.md) _Context: Egyptian presidential election, 2014_
+
+### Changes:
+
+1. [Electoral authorities in Egypt set the first round of the presidential election for 26-27 May. ](/news/2014/03/30/electoral-authorities-in-egypt-set-the-first-round-of-the-presidential-election-for-26-27-may.md) _2017-08-27 03:40:32 (First version)_
+1. [Electoral authorities in Egypt set the first round of the presidential election for 26-27 May. ](/news/2014/03/30/electoral-authorities-in-egypt-set-the-first-round-of-the-presidential-election-for-26a27-may.md) _(Current version)_

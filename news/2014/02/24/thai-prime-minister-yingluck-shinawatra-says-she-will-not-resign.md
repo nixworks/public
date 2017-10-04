@@ -16,3 +16,9 @@
 3. [Thailand's military-appointed legislature votes to impeach former Prime Minister Yingluck Shinawatra for her role in overseeing a government rice subsidy program that lost billions of dollars. ](/news/2015/01/23/thailand-s-military-appointed-legislature-votes-to-impeach-former-prime-minister-yingluck-shinawatra-for-her-role-in-overseeing-a-government.md) _Context: Thailand, Yingluck Shinawatra_
 4. [Thailand's National Anti-Corruption Commission refers former Prime Minister Yingluck Shinawatra to face impeachment charges in the Senate over a failed rice subsidy scheme. ](/news/2014/05/8/thailand-s-national-anti-corruption-commission-refers-former-prime-minister-yingluck-shinawatra-to-face-impeachment-charges-in-the-senate-ov.md) _Context: Thailand, Yingluck Shinawatra_
 5. [As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.md) _Context: Thailand, Yingluck Shinawatra_
+
+### Changes:
+
+1. [2013-14 Thai political crisis:Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013a14-thai-political-crisis-pthai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md) _2017-08-25 03:40:04 (First version)_
+2. [2013-14 Thai political crisis:: Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013-14-thai-political-crisis-thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md) _2017-08-27 03:40:23 (Update)_
+2. [Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md) _(Current version)_

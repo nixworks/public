@@ -18,3 +18,8 @@ Kuwait has declared an &#034;all-out confrontation&#034; with terrorism after an
 3. [Kuwait claims that the suicide bomber responsible for the attack that killed 27 people was Fahd Suleiman Abdulmohsen al-Qaba'a, a citizen of Saudi Arabia. ](/news/2015/06/28/kuwait-claims-that-the-suicide-bomber-responsible-for-the-attack-that-killed-27-people-was-fahd-suleiman-abdulmohsen-al-qaba-a-a-citizen-of.md) _Context: June 2015 terror attack, Kuwait_
 4. [Equatorial Guinea, Ivory Coast, Kuwait, Peru and Poland are elected to the United Nations Security Council for a two-year term beginning on January 1, 2018. ](/news/2017/06/2/equatorial-guinea-ivory-coast-kuwait-peru-and-poland-are-elected-to-the-united-nations-security-council-for-a-two-year-term-beginning-on.md) _Context: Kuwait_
 5. [Five people are killed in a raid on a house of a Shia cleric in Bahrain. ](/news/2017/05/24/five-people-are-killed-in-a-raid-on-a-house-of-a-shia-cleric-in-bahrain.md) _Context: Shia_
+
+### Changes:
+
+1. [2015 Kuwait mosque bombing: Kuwait declares a day of mourning for the victims of the bombing of a Shia mosque yesterday. ](/news/2015/06/27/2015-kuwait-mosque-bombing-kuwait-declares-a-day-of-mourning-for-the-victims-of-the-bombing-of-a-shia-mosque-yesterday.md) _2017-08-27 03:42:36 (First version)_
+1. [Kuwait declares a day of mourning for the victims of the bombing of a Shia mosque yesterday. ](/news/2015/06/27/kuwait-declares-a-day-of-mourning-for-the-victims-of-the-bombing-of-a-shia-mosque-yesterday.md) _(Current version)_

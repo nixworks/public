@@ -1,7 +1,7 @@
 ## [2007-09-10](/news/2007/09/10/index.md)
 
 ### [ The Supreme Court of Indonesia orders "TIME" magazine to pay US$106 million in damages to former President of Indonesia Suharto. The magazine had reported in 1999 that the former President and his family had accumulated $73 billion dollars fraudulently during his time in office. The case had previously been rejected by two lower courts. ](/news/2007/09/10/the-supreme-court-of-indonesia-orders-time-magazine-to-pay-us-106-million-in-damages-to-former-president-of-indonesia-suharto-the-magazi.md)
-_Context: President of Indonesia, Suharto, Supreme Court of Indonesia, Time, US$_
+_Context: $, President of Indonesia, Suharto, Supreme Court of Indonesia, Time_
 
 ### [ The Ejrcito Popular Revolucionario plants a series of bombs that tear apart six Pemex natural gas pipelines in the Mexican states of Veracruz and Tlaxcala. ](/news/2007/09/10/the-ejercito-popular-revolucionario-plants-a-series-of-bombs-that-tear-apart-six-pemex-natural-gas-pipelines-in-the-mexican-states-of-verac.md)
 _Context:  Ejrcito Popular Revolucionario, Mexican state, PEMEX, Tlaxcala, Veracruz_

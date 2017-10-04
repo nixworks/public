@@ -16,3 +16,8 @@
 3. [The suicide bomber from Jordan, Humam Khalil Abu-Mulal al-Balawi, who killed seven CIA agents in Afghanistan, is reported to be an al-Qaeda triple agent. ](/news/2010/01/5/the-suicide-bomber-from-jordan-humam-khalil-abu-mulal-al-balawi-who-killed-seven-cia-agents-in-afghanistan-is-reported-to-be-an-al-qaeda.md) _Context: CIA, al-Qaeda_
 4. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: al-Qaeda_
 5. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: al-Qaeda_
+
+### Changes:
+
+1. [ Lithuania launches an inquiry into allegations that it hosted a secret CIA prison for al-Qaeda suspects. [http:--news.bbc.co.uk-2-hi-europe-8221469.stm (BBC)].](/news/2009/08/26/lithuania-launches-an-inquiry-into-allegations-that-it-hosted-a-secret-cia-prison-for-al-qaeda-suspects-http-news-bbc-co-uk-2-hi-europe.md) _2017-06-18 03:26:12 (First version)_
+1. [ Lithuania launches an inquiry into allegations that it hosted a secret CIA prison for al-Qaeda suspects. ](/news/2009/08/26/lithuania-launches-an-inquiry-into-allegations-that-it-hosted-a-secret-cia-prison-for-al-qaeda-suspects.md) _(Current version)_

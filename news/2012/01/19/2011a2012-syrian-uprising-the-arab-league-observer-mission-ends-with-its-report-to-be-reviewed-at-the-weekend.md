@@ -17,3 +17,8 @@ Syrian government troops pulled back armoured vehicles from the town of Zabandi 
 3. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md) _Context: 2011-2012 Syrian uprising, Arab League_
 4. [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011a2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md) _Context: 2011-2012 Syrian uprising, Arab League_
 5. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its plan to end the violence in Syria. ](/news/2012/01/26/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-plan-to-end-the-violence-in-syria.md) _Context: 2011-2012 Syrian uprising, Arab League_
+
+### Changes:
+
+1. [2011-2012 Syrian uprising: The Arab League observer mission ends, with its report to be reviewed at the weekend. ](/news/2012/01/19/2011-2012-syrian-uprising-the-arab-league-observer-mission-ends-with-its-report-to-be-reviewed-at-the-weekend.md) _2017-08-27 03:35:01 (First version)_
+1. [2011-2012 Syrian uprising: The Arab League observer mission ends, with its report to be reviewed at the weekend. ](/news/2012/01/19/2011a2012-syrian-uprising-the-arab-league-observer-mission-ends-with-its-report-to-be-reviewed-at-the-weekend.md) _(Current version)_

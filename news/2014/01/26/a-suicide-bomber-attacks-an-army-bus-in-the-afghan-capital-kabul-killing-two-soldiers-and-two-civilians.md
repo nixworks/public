@@ -17,3 +17,8 @@ A suicide bomber blows himself up near a bus carrying soldiers in the Afghan cap
 3. [ Twenty-seven people die during a suicide attack in Kabul, Afghanistan. ](/news/2009/02/11/twenty-seven-people-die-during-a-suicide-attack-in-kabul-afghanistan.md) _Context: Afghanistan, Kabul, suicide bombing_
 4. [ A suicide attack kills two Afghans and one United States Army soldier and wounds 30 other people in Kabul, Afghanistan. ](/news/2009/01/17/a-suicide-attack-kills-two-afghans-and-one-united-states-army-soldier-and-wounds-30-other-people-in-kabul-afghanistan.md) _Context: Afghanistan, Kabul, suicide bombing_
 5. [ A suicide car bomber strikes outside the Indian embassy in Kabul, Afghanistan, with at least 41 people killed. ](/news/2008/07/7/a-suicide-car-bomber-strikes-outside-the-indian-embassy-in-kabul-afghanistan-with-at-least-41-people-killed.md) _Context: Afghanistan, Kabul, suicide bombing_
+
+### Changes:
+
+1. [Taliban insurgency: A suicide bomber attacks an army bus in the Afghan capital, Kabul, killing two soldiers and two civilians. ](/news/2014/01/26/taliban-insurgency-a-suicide-bomber-attacks-an-army-bus-in-the-afghan-capital-kabul-killing-two-soldiers-and-two-civilians.md) _2017-08-27 03:40:15 (First version)_
+1. [A suicide bomber attacks an army bus in the Afghan capital, Kabul, killing two soldiers and two civilians. ](/news/2014/01/26/a-suicide-bomber-attacks-an-army-bus-in-the-afghan-capital-kabul-killing-two-soldiers-and-two-civilians.md) _(Current version)_

@@ -17,3 +17,8 @@ The ruling party in Georgia decisively won parliamentary elections, firming its 
 3. [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md) _Context: Georgian_
 4. [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md) _Context: Georgian_
 5. [The European Union grants visa-free travel for Georgia and Ukraine. ](/news/2016/12/9/the-european-union-grants-visa-free-travel-for-georgia-and-ukraine.md) _Context: Georgian_
+
+### Changes:
+
+1. [Georgian parliamentary election, 2016: Voters in Georgia go to the polls for a legislative election. ](/news/2016/10/8/georgian-parliamentary-election-2016-voters-in-georgia-go-to-the-polls-for-a-legislative-election.md) _2017-08-27 03:46:59 (First version)_
+1. [Voters in Georgia go to the polls for a legislative election. ](/news/2016/10/8/voters-in-georgia-go-to-the-polls-for-a-legislative-election.md) _(Current version)_

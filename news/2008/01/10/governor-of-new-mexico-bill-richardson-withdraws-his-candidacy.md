@@ -21,3 +21,9 @@
 3. [Gary Johnson, former Governor of New Mexico, secures the nomination for the Libertarian Party in the U.S. presidential election. Johnson picks former Massachusetts governor, and former Republican, William Weld as his running mate. ](/news/2016/05/29/gary-johnson-former-governor-of-new-mexico-secures-the-nomination-for-the-libertarian-party-in-the-u-s-presidential-election-johnson-pic.md) _Context: Governor of New Mexico_
 4. [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md) _Context: Bill Richardson_
 5. [Governor of the U.S. state of New Mexico Bill Richardson arrives in Pyongyang for talks with North Korean officials concerning the situation on the Korean peninsula. ](/news/2010/12/16/governor-of-the-u-s-state-of-new-mexico-bill-richardson-arrives-in-pyongyang-for-talks-with-north-korean-officials-concerning-the-situation.md) _Context: Bill Richardson_
+
+### Changes:
+
+1. [ United States presidential election, 2008: Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/united-states-presidential-election-2008-p-governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md) _2017-08-25 03:21:39 (First version)_
+2. [ United States presidential election, 2008:: Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/united-states-presidential-election-2008-governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md) _2017-08-27 03:21:33 (Update)_
+2. [ Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md) _(Current version)_

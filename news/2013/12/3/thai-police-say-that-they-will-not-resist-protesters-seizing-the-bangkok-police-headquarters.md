@@ -17,3 +17,9 @@
 3. [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md) _Context: Bangkok_
 4. [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md) _Context: Bangkok_
 5. [A combined bomb and gun attack kills three Thai police officers and injures two others in Yala province. ](/news/2016/09/23/a-combined-bomb-and-gun-attack-kills-three-thai-police-officers-and-injures-two-others-in-yala-province.md) _Context: Thai police officers_
+
+### Changes:
+
+1. [2013 Thai protests:Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/2013-thai-protests-pthai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md) _2017-08-25 03:39:36 (First version)_
+2. [2013 Thai protests:: Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/2013-thai-protests-thai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md) _2017-08-27 03:39:55 (Update)_
+2. [Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/thai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md) _(Current version)_

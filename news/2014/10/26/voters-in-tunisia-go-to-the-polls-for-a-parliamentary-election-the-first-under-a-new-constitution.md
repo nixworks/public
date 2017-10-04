@@ -17,3 +17,8 @@ Tunisia votes in the first election to be held under its new constitution, which
 3. [The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. ](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-driving-the-truck-that-smashed-through-a-berlin-market-is-killed-in-a-shoot-out-in-milan.md) _Context: Tunisia_
 4. [German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whose-identifying-inform.md) _Context: Tunisia_
 5. [Tunisian lawmakers, dissatisfied with the lack of progress on a financial reforms package, vote (118-3) to dismiss Prime Minister Habib Essid from office. ](/news/2016/07/30/tunisian-lawmakers-dissatisfied-with-the-lack-of-progress-on-a-financial-reforms-package-vote-118-3-to-dismiss-prime-minister-habib-essi.md) _Context: Tunisia_
+
+### Changes:
+
+1. [Tunisian parliamentary election, 2014: Voters in Tunisia go to the polls for a parliamentary election, the first under a new constitution. ](/news/2014/10/26/tunisian-parliamentary-election-2014-voters-in-tunisia-go-to-the-polls-for-a-parliamentary-election-the-first-under-a-new-constitution.md) _2017-08-27 03:41:26 (First version)_
+1. [Voters in Tunisia go to the polls for a parliamentary election, the first under a new constitution. ](/news/2014/10/26/voters-in-tunisia-go-to-the-polls-for-a-parliamentary-election-the-first-under-a-new-constitution.md) _(Current version)_

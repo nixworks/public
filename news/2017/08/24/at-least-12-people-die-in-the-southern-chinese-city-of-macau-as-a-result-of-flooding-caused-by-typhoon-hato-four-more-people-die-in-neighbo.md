@@ -17,3 +17,9 @@
 3. [Voters in Macau vote for a new Legislative Assembly. ](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.md) _Context: Macau_
 4. [Typhoon Doksuri (Maring) hits central Vietnam killing one person and injuring ten. ](/news/2017/09/15/typhoon-doksuri-maring-hits-central-vietnam-killing-one-person-and-injuring-ten.md) _Context: 2017 Pacific typhoon season_
 5. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: 2017 Pacific typhoon season_
+
+### Changes:
+
+1. [At least 12 people have died in the southern Chinese city of Macau as a result of flooding caused by Typhoon Hato. Four more people died in neighbouring Guangdong province. ](/news/2017/08/24/at-least-12-people-have-died-in-the-southern-chinese-city-of-macau-as-a-result-of-flooding-caused-by-typhoon-hato-four-more-people-died-in.md) _2017-08-24 19:30:04 (First version)_
+2. [2017 Pacific typhoon season: At least 12 people die in the southern Chinese city of Macau as a result of flooding caused by Typhoon Hato. Four more people die in neighbouring Guangdong province. ](/news/2017/08/24/2017-pacific-typhoon-season-at-least-12-people-die-in-the-southern-chinese-city-of-macau-as-a-result-of-flooding-caused-by-typhoon-hato-fo.md) _2017-08-27 17:30:04 (Update)_
+2. [At least 12 people die in the southern Chinese city of Macau as a result of flooding caused by Typhoon Hato. Four more people die in neighbouring Guangdong province. ](/news/2017/08/24/at-least-12-people-die-in-the-southern-chinese-city-of-macau-as-a-result-of-flooding-caused-by-typhoon-hato-four-more-people-die-in-neighbo.md) _(Current version)_

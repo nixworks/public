@@ -22,7 +22,7 @@ A Russian Soyuz spacecraft with three astronauts on board blasted off from Kazak
 _Context: New Zealand, Whangarei, Zion Wildlife Gardens, euthanizing animals, white tiger, zookeeper_
 
 ### [ Russia will supply US$1 billion of uranium to civilian nuclear reactors in the United States. ](/news/2009/05/27/russia-will-supply-us-1-billion-of-uranium-to-civilian-nuclear-reactors-in-the-united-states.md)
-_Context: Americans, Russia, US$, civilian, nuclear reactors, uranium_
+_Context: $, Americans, Russia, civilian, nuclear reactors, uranium_
 
 ### [ An anti-piracy warship destroys a Yemeni fishing vessel in the Red Sea, killing at least two people.](/news/2009/05/27/an-anti-piracy-warship-destroys-a-yemeni-fishing-vessel-in-the-red-sea-killing-at-least-two-people.md)
 _Context: Red Sea, Somali pirates, Yemen, fishing boat, warships_

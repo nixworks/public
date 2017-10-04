@@ -18,3 +18,8 @@ Military officials and residents say al Qaeda has taken control of a major airpo
 3. [At least six Yemeni soldiers are killed in suicide bombings near the city of Al Mukalla. ](/news/2016/07/18/at-least-six-yemeni-soldiers-are-killed-in-suicide-bombings-near-the-city-of-al-mukalla.md) _Context: Al Mukalla, Yemen, Yemeni Civil War_
 4. [Three Islamic State of Iraq and the Levant bombings in Yemen's southern port city of Al Mukalla kill 38 government forces and injure 24 others. ](/news/2016/06/28/three-islamic-state-of-iraq-and-the-levant-bombings-in-yemen-s-southern-port-city-of-al-mukalla-kill-38-government-forces-and-injure-24-othe.md) _Context: Al Mukalla, Yemen, Yemeni Civil War_
 5. [Saudi-led air strikes kill at least ten al Qaeda in the Arabian Peninsula fighters in southern Yemen. ](/news/2016/04/24/saudi-led-air-strikes-kill-at-least-ten-al-qaeda-in-the-arabian-peninsula-fighters-in-southern-yemen.md) _Context: Yemen, Yemeni Civil War, al-Qaida_
+
+### Changes:
+
+1. [Yemeni Civil War: Al-Qaeda in the Arabian Peninsula captures Riyan Airport, seaport and oil terminal in the city of Al Mukalla in southern Yemen. ](/news/2015/04/16/yemeni-civil-war-al-qaeda-in-the-arabian-peninsula-captures-riyan-airport-seaport-and-oil-terminal-in-the-city-of-al-mukalla-in-southern-y.md) _2017-08-27 03:42:13 (First version)_
+1. [Al-Qaeda in the Arabian Peninsula captures Riyan Airport, seaport and oil terminal in the city of Al Mukalla in southern Yemen. ](/news/2015/04/16/al-qaeda-in-the-arabian-peninsula-captures-riyan-airport-seaport-and-oil-terminal-in-the-city-of-al-mukalla-in-southern-yemen.md) _(Current version)_

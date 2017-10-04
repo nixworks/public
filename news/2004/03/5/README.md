@@ -34,7 +34,7 @@ _Context: North Pole, Scientist_
 _Context: 2003 invasion of Iraq, Tony Blair, leadership_
 
 ### [ Same-sex marriage in the United States: The Wisconsin State Assembly approves state constitution amendment (voted 68-27) to ban same-sex marriages or civil unions, to counter efforts elsewhere to legalize such partnerships. The Kansas House passes, by 88 votes to 36, a proposed amendment. ](/news/2004/03/5/same-sex-marriage-in-the-united-states-the-wisconsin-state-assembly-approves-state-constitution-amendment-voted-68-27-to-ban-same-sex-ma.md)
-_Context: Kansas, Wisconsin State Assembly, bans, civil union, homosexuality, partnership, same-sex marriage, same-sex marriage_
+_Context: Kansas, Wisconsin State Assembly, ban, civil union, homosexuality, partnership, same-sex marriage, same-sex marriage_
 
 ### [ Police hold a Haifa man, Eliran Golan, and his 54-year-old father in custody on suspicion of involvement in making and planting bombs over the last three years. Haifa Magistrate court extends for five days the remand of Yivgeny Grossman. Grossman denies any connection. ](/news/2004/03/5/police-hold-a-haifa-man-eliran-golan-and-his-54-year-old-father-in-custody-on-suspicion-of-involvement-in-making-and-planting-bombs-over.md)
 _Context: Haifa, bomb, police_

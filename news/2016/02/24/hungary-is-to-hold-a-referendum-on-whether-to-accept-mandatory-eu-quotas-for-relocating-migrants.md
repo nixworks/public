@@ -17,3 +17,8 @@ Hungary will hold a referendum on whether to accept mandatory EU quotas for relo
 3. [Foreign ministers from Czech Republic, Hungary, Poland and Slovakia meet with officials from the European Union and Germany to discuss differences over migrant quotas. ](/news/2015/09/11/foreign-ministers-from-czech-republic-hungary-poland-and-slovakia-meet-with-officials-from-the-european-union-and-germany-to-discuss-diffe.md) _Context: EU, European migrant crisis, Hungary_
 4. [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md) _Context: EU, Hungary_
 5. [The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md) _Context: European migrant crisis, Hungary_
+
+### Changes:
+
+1. [European migrant crisis: Hungary is to hold a referendum on whether to accept mandatory EU quotas for relocating migrants. ](/news/2016/02/24/european-migrant-crisis-hungary-is-to-hold-a-referendum-on-whether-to-accept-mandatory-eu-quotas-for-relocating-migrants.md) _2017-08-27 03:45:01 (First version)_
+1. [Hungary is to hold a referendum on whether to accept mandatory EU quotas for relocating migrants. ](/news/2016/02/24/hungary-is-to-hold-a-referendum-on-whether-to-accept-mandatory-eu-quotas-for-relocating-migrants.md) _(Current version)_

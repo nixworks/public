@@ -17,3 +17,8 @@ Mnuchin, former head of One West bank, which was embroiled in the foreclosure cr
 3. [The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary-of-health-and-human-servi.md) _Context: Trump administration, United States Senate_
 4. [The United States Senate confirms Jack Lew as the Secretary of the Treasury. ](/news/2013/02/27/the-united-states-senate-confirms-jack-lew-as-the-secretary-of-the-treasury.md) _Context: Treasury Secretary, United States Senate_
 5. [ The United States Senate confirms Timothy F. Geithner as Secretary of the Treasury. ](/news/2009/01/26/the-united-states-senate-confirms-timothy-f-geithner-as-secretary-of-the-treasury.md) _Context: Treasury Secretary, United States Senate_
+
+### Changes:
+
+1. [Cabinet of Donald Trump: The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/cabinet-of-donald-trump-the-united-states-senate-in-a-53-47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md) _2017-08-27 03:47:48 (First version)_
+1. [The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/the-united-states-senate-in-a-53a47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md) _(Current version)_

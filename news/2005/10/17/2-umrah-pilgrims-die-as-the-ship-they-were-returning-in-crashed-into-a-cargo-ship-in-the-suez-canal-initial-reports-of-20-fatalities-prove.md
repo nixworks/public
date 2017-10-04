@@ -16,3 +16,8 @@
 3. [Armed militants stage an unsuccessful attack on a container ship passing through the Suez canal in an attempt to disrupt the flow of ships through the waterway. ](/news/2013/09/1/armed-militants-stage-an-unsuccessful-attack-on-a-container-ship-passing-through-the-suez-canal-in-an-attempt-to-disrupt-the-flow-of-ships-t.md) _Context: Suez Canal_
 4. [The Iran Navy sends two ships through the Suez Canal for the first time since the 1979 Iranian Revolution. ](/news/2011/02/22/the-iran-navy-sends-two-ships-through-the-suez-canal-for-the-first-time-since-the-1979-iranian-revolution.md) _Context: Suez Canal_
 5. [Iran requests permission from the Government of Egypt for the Iranian navy to pass through the Suez Canal. ](/news/2011/02/17/iran-requests-permission-from-the-government-of-egypt-for-the-iranian-navy-to-pass-through-the-suez-canal.md) _Context: Suez Canal_
+
+### Changes:
+
+1. [ 2 Umrah pilgrims die as the ship they were returning in crashed into a cargo ship in the Suez Canal. Initial reports of 20 fatalities proved unfounded, though over 90 people were injured. ](/news/2005/10/17/2-umrah-pilgrims-die-as-the-ship-they-were-returning-in-crashed-into-a-cargo-ship-in-the-suez-canal-initial-reports-of-20-fatalities-prov.md) _2017-08-25 03:16:59 (First version)_
+1. [ 2 Umrah pilgrims die as the ship they were returning in crashed into a cargo ship in the Suez Canal. Initial reports of 20 fatalities proved unfounded, though over 90 people were injured. ](/news/2005/10/17/2-umrah-pilgrims-die-as-the-ship-they-were-returning-in-crashed-into-a-cargo-ship-in-the-suez-canal-initial-reports-of-20-fatalities-prove.md) _(Current version)_

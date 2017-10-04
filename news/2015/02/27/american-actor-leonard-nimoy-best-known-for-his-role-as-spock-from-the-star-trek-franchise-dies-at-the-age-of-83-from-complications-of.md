@@ -15,3 +15,8 @@
 2. [ James Doohan, the actor best known for playing Scotty on "Star Trek: The Original Series" and the first seven "Star Trek" films, dies at his home in Redmond, Washington.](/news/2005/07/20/james-doohan-the-actor-best-known-for-playing-scotty-on-star-trek-the-original-series-and-the-first-seven-star-trek-films-dies-at-hi.md) _Context: Star Trek_
 3. [ The cancellation of "Star Trek: Enterprise" is announced, marking the end of 18 consecutive years of "Star Trek" on television. ](/news/2005/02/2/the-cancellation-of-star-trek-enterprise-is-announced-marking-the-end-of-18-consecutive-years-of-star-trek-on-television.md) _Context: Star Trek_
 4. [ The fifth and final "Star Trek" television series "Enterprise" debuts on UPN.](/news/2001/09/26/the-fifth-and-final-star-trek-television-series-enterprise-debuts-on-upn.md) _Context: Star Trek_
+
+### Changes:
+
+1. [ American actor Leonard Nimoy, best known for his role as Spock from the ''Star Trek'' franchise, dies at the age of 83 from complications of COPD. ](/news/2015/02/27/american-actor-leonard-nimoy-best-known-for-his-role-as-spock-from-the-star-trek-franchise-dies-at-the-age-of-83-from-complications-o.md) _2017-08-25 03:41:42 (First version)_
+1. [ American actor Leonard Nimoy, best known for his role as Spock from the "Star Trek" franchise, dies at the age of 83 from complications of COPD. ](/news/2015/02/27/american-actor-leonard-nimoy-best-known-for-his-role-as-spock-from-the-star-trek-franchise-dies-at-the-age-of-83-from-complications-of.md) _(Current version)_

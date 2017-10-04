@@ -17,3 +17,8 @@ Danes vote No in a referendum on adopting EU rules strengthening cross-border po
 3. [The European Union's executive branch sends a formal notice to Poland expressing their concern that the new "discretionary" powers given to the country's justice minister threaten the independence of the courts in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-to.md) _Context: EU_
 4. [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md) _Context: EU_
 5. [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md) _Context: EU_
+
+### Changes:
+
+1. [Danish European Union opt-out referendum, 2015: Danish voters reject adopting EU rules on cross-border policing. ](/news/2015/12/3/danish-european-union-opt-out-referendum-2015-danish-voters-reject-adopting-eu-rules-on-cross-border-policing.md) _2017-08-27 03:44:10 (First version)_
+1. [Danish voters reject adopting EU rules on cross-border policing. ](/news/2015/12/3/danish-voters-reject-adopting-eu-rules-on-cross-border-policing.md) _(Current version)_

@@ -17,3 +17,9 @@
 3. [Gunmen from the Nigerian Islamist group Boko Haram kill 42 people, mostly students, in an attack on a college in the town of Gujba, Yobe State. ](/news/2013/09/29/gunmen-from-the-nigerian-islamist-group-boko-haram-kill-42-people-mostly-students-in-an-attack-on-a-college-in-the-town-of-gujba-yobe-sta.md) _Context: Nigeria, Yobe State_
 4. [At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/at-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md) _Context: Nigeria, Yobe State_
 5. [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md) _Context: Nigeria_
+
+### Changes:
+
+1. [Nigerian Sharia conflict:Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-pgunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md) _2017-08-25 03:37:39 (First version)_
+2. [Nigerian Sharia conflict:: Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md) _2017-08-27 03:37:49 (Update)_
+2. [Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md) _(Current version)_

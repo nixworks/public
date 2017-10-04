@@ -12,3 +12,8 @@
 3. [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md) _Context: Texas_
 4. [At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. ](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.md) _Context: Texas_
 5. [The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more-days-of-heavy-rain-causing-ca.md) _Context: Texas_
+
+### Changes:
+
+1. [Former United States Navy SEAL Chris Kyle and another man are killed at a shooting range near Glen Rose, Somervell County, Texas. ](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-another-man-are-killed-at-a-shooting-range-near-glen-rose-somervell-county-texas.md) _2017-08-25 03:37:25 (First version)_
+1. [Former United States Navy SEAL Chris Kyle and another man are killed at a shooting range near Glen Rose, Somervell County, Texas. [http:--www.nytimes.com-2013-02-04-us-chris-kyle-american-sniper-author-reported-killed.html?_r=0 "(The New York Times)"]](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-another-man-are-killed-at-a-shooting-range-near-glen-rose-somervell-county-texas-http-ww.md) _(Current version)_

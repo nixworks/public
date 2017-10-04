@@ -24,3 +24,9 @@ One of the biggest earthquakes in recorded history rocked Chile on Saturday, kil
 3. [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md) _Context: Chile_
 4. [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md) _Context: Chile_
 5. [Millions of residents in the Chilean capital Santiago are left without access to running water after the Maipo River is contaminated by flooding and landslides. At least four people have died in the floods. ](/news/2017/02/26/millions-of-residents-in-the-chilean-capital-santiago-are-left-without-access-to-running-water-after-the-maipo-river-is-contaminated-by-floo.md) _Context: Chile_
+
+### Changes:
+
+1. [2010 Chile earthquake and Pacific Ocean tsunamis:An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-pan-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _2017-08-25 03:27:15 (First version)_
+2. [2010 Chile earthquake and Pacific Ocean tsunamis:: An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _2017-08-27 03:27:09 (Update)_
+2. [An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _(Current version)_

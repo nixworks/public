@@ -17,3 +17,8 @@ Eighteen people were killed and 100 homes torched in an attack in the dead of ni
 3. [Clashes near the village of Toumour in Niger's southeast Diffa Region kill at least 30 Boko Haram militants and five Niger Armed Forces soldiers. ](/news/2016/09/14/clashes-near-the-village-of-toumour-in-niger-s-southeast-diffa-region-kill-at-least-30-boko-haram-militants-and-five-niger-armed-forces-sold.md) _Context: Boko Haram, Diffa Region_
 4. [Niger, following attacks by Boko Haram on Bosso and Yebi in the Lake Chad region, extends for three months a state of emergency in Diffa. ](/news/2016/07/30/niger-following-attacks-by-boko-haram-on-bosso-and-yebi-in-the-lake-chad-region-extends-for-three-months-a-state-of-emergency-in-diffa.md) _Context: Boko Haram, Bosso_
 5. [Boko Haram and al-Qaeda kill four security force personnel in two separate attacks in Niger. ](/news/2016/03/18/boko-haram-and-al-qaeda-kill-four-security-force-personnel-in-two-separate-attacks-in-niger.md) _Context: Boko Haram, Niger_
+
+### Changes:
+
+1. [Islamist insurgency in West Africa: At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/islamist-insurgency-in-west-africa-at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-n.md) _2017-08-27 03:44:04 (First version)_
+1. [At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-near-the-commune-of-bosso-in-niger-s.md) _(Current version)_

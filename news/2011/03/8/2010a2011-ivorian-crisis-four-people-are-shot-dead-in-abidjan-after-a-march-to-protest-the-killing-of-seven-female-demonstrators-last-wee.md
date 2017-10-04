@@ -19,3 +19,8 @@
 3. [Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md) _Context: 2010-2011 Ivorian crisis, Abidjan_
 4. [At least three prisoners die in a prison riot in Abidjan, Ivory Coast. ](/news/2013/07/24/at-least-three-prisoners-die-in-a-prison-riot-in-abidjan-ivory-coast.md) _Context: Abidjan_
 5. [Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md) _Context: Abidjan_
+
+### Changes:
+
+1. [2010-2011 Ivorian crisis: Four people are shot dead in Abidjan after a march to protest the killing of seven female demonstrators last week. ](/news/2011/03/8/2010-2011-ivorian-crisis-four-people-are-shot-dead-in-abidjan-after-a-march-to-protest-the-killing-of-seven-female-demonstrators-last-wee.md) _2017-08-27 03:32:35 (First version)_
+1. [2010-2011 Ivorian crisis: Four people are shot dead in Abidjan after a march to protest the killing of seven female demonstrators last week. ](/news/2011/03/8/2010a2011-ivorian-crisis-four-people-are-shot-dead-in-abidjan-after-a-march-to-protest-the-killing-of-seven-female-demonstrators-last-wee.md) _(Current version)_

@@ -24,3 +24,9 @@ Sky News Australia has the top stories in news online from Australia and the res
 3. [Australia and New Zealand mark Anzac Day. Events occur in Afghanistan, France, Turkey and Vietnam, while Julia Gillard heads to South Korea. ](/news/2011/04/25/australia-and-new-zealand-mark-anzac-day-events-occur-in-afghanistan-france-turkey-and-vietnam-while-julia-gillard-heads-to-south-korea.md) _Context: Afghanistan, Australia_
 4. [43 Afghan migrants on their way to Australia are detained by Indonesian authorities. ](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.md) _Context: Afghanistan, Australia_
 5. [Australian SAS Corporal Ben Roberts-Smith is awarded the Victoria Cross for gallantry in action in the offensive in the Shah Wali Kot region in Afghanistan in June 2010. ](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.md) _Context: Afghanistan, Australia_
+
+### Changes:
+
+1. [War in Afghanistan:The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/war-in-afghanistan-pthe-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md) _2017-08-25 03:28:12 (First version)_
+2. [War in Afghanistan:: The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/war-in-afghanistan-the-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md) _2017-08-27 03:28:11 (Update)_
+2. [The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/the-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md) _(Current version)_

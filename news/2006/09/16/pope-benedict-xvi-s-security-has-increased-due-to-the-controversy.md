@@ -20,3 +20,9 @@ Italian media report security around Benedict XVI tightened following harsh resp
 3. [Pope Francis visits Pope Emeritus Benedict XVI before celebrating his first Christmas Mass. ](/news/2013/12/24/pope-francis-visits-pope-emeritus-benedict-xvi-before-celebrating-his-first-christmas-mass.md) _Context: Pope Benedict XVI_
 4. [In his first public statement since his resignation, former Pope Benedict XVI denies that he covered up child sexual abuse cases involving priests during his tenure. ](/news/2013/09/23/in-his-first-public-statement-since-his-resignation-former-pope-benedict-xvi-denies-that-he-covered-up-child-sexual-abuse-cases-involving-p.md) _Context: Pope Benedict XVI_
 5. [Two months after his resignation, Pope Emeritus Benedict XVI returns to live in Vatican City at the Mater Ecclesiae. ](/news/2013/05/2/two-months-after-his-resignation-pope-emeritus-benedict-xvi-returns-to-live-in-vatican-city-at-the-mater-ecclesiae.md) _Context: Pope Benedict XVI_
+
+### Changes:
+
+1. [ Pope Benedict XVI Islam controversy: Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-islam-controversy-p-pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md) _2017-08-25 03:18:24 (First version)_
+2. [ Pope Benedict XVI Islam controversy:: Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-islam-controversy-pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md) _2017-08-27 03:18:18 (Update)_
+2. [ Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md) _(Current version)_

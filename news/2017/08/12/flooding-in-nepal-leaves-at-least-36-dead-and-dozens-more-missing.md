@@ -17,3 +17,9 @@ Many of the casualties were reported from the Terai region bordering India, whic
 3. [At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _Context: August 2017 Nepal and India floods_
 4. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: Nepal_
 5. [The government of Nepal proposes to amend the constitution to make it more inclusive. ](/news/2016/11/30/the-government-of-nepal-proposes-to-amend-the-constitution-to-make-it-more-inclusive.md) _Context: Nepal_
+
+### Changes:
+
+1. [Floods in Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/floods-in-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _2017-08-15 22:30:04 (First version)_
+2. [August 2017 Nepal and India floods: Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/august-2017-nepal-and-india-floods-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _2017-08-27 03:48:48 (Update)_
+2. [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _(Current version)_

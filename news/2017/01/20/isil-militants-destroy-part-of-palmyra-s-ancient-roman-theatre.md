@@ -19,3 +19,8 @@ An air strike killed more than 40 members of the jihadist group Jabhat Fateh al-
 3. [ISIL recaptures the Syrian city of Palmyra despite heavy Russian airstrikes, according to the Syrian Observatory for Human Rights and Palmyra Coordination Committee (PCC). ](/news/2016/12/11/isil-recaptures-the-syrian-city-of-palmyra-despite-heavy-russian-airstrikes-according-to-the-syrian-observatory-for-human-rights-and-palmyr.md) _Context: Islamic State, Palmyra, Syrian Civil War_
 4. [The SOHR and Amaq announce that ISIL has captured an oil field north-west of Palmyra. ](/news/2016/12/10/the-sohr-and-amaq-announce-that-isil-has-captured-an-oil-field-north-west-of-palmyra.md) _Context: Islamic State, Palmyra, Syrian Civil War_
 5. [The Syrian Army takes full control of Palmyra after heavy fighting with ISIL forces, according to a Syrian military source. ](/news/2016/03/27/the-syrian-army-takes-full-control-of-palmyra-after-heavy-fighting-with-isil-forces-according-to-a-syrian-military-source.md) _Context: Islamic State, Palmyra, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: ISIL militants destroy part of Palmyra's ancient Roman theatre. ](/news/2017/01/20/syrian-civil-war-isil-militants-destroy-part-of-palmyra-s-ancient-roman-theatre.md) _2017-08-27 03:47:39 (First version)_
+1. [ISIL militants destroy part of Palmyra's ancient Roman theatre. ](/news/2017/01/20/isil-militants-destroy-part-of-palmyra-s-ancient-roman-theatre.md) _(Current version)_

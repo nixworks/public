@@ -17,3 +17,8 @@ The government in Sunni-ruled Bahrain announced Sunday an indefinite ban on the 
 3. [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md) _Context: Bahrain_
 4. [Five people are killed in a raid on a house of a Shia cleric in Bahrain. ](/news/2017/05/24/five-people-are-killed-in-a-raid-on-a-house-of-a-shia-cleric-in-bahrain.md) _Context: Bahrain_
 5. [Bahrain executes three people for their alleged involvement in a bombing that killed three police officers in 2014, the first executions in the country since 2010. ](/news/2017/01/15/bahrain-executes-three-people-for-their-alleged-involvement-in-a-bombing-that-killed-three-police-officers-in-2014-the-first-executions-in.md) _Context: Bahrain_
+
+### Changes:
+
+1. [Censorship in Bahrain: Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/censorship-in-bahrain-bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _2017-08-27 03:48:25 (First version)_
+1. [Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _(Current version)_

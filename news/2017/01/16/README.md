@@ -19,7 +19,7 @@ _Context: Crimea, Eastern Ukraine, International Court of Justice, Russia, Russi
 _Context: Egypt-Saudi Arabia relations, Red Sea, Sanafir Island, Saudi Arabia, Tiran Island_
 
 ### [Three hundred U.S. marines arrive in Norway for a six-month deployment, becoming the first foreign troops in Norway since World War II. The marines will be stationed at Vaernes Air Station in Stjordal. ](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.md)
-_Context: Norway, Norway-United States relations, Operation Atlantic Resolve, Stjordal, United States Marine Corps, Vaernes Air Station_
+_Context: Norway, Norway-United States relations, Operation Atlantic Resolve, Stjordal, U.S. Marine, Vaernes Air Station_
 
 ### [South Korean prosecutors issue an arrest warrant for Lee Jae-yong, a senior executive in the Samsung Group, in relation to the political scandal that has led to the impeachment of Park Geun-hye, the President of South Korea. ](/news/2017/01/16/south-korean-prosecutors-issue-an-arrest-warrant-for-lee-jae-yong-a-senior-executive-in-the-samsung-group-in-relation-to-the-political-sca.md)
 A decision was expected Monday on whether to prosecute Samsung chief Lee Jae-yong

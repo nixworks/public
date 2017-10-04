@@ -12,3 +12,8 @@
 3. [ The Centers for Disease Control and Prevention reports at that least 270 pregnant women in the United States are infected with the Zika virus. ](/news/2016/05/20/the-centers-for-disease-control-and-prevention-reports-at-that-least-270-pregnant-women-in-the-united-states-are-infected-with-the-zika-vir.md) _Context: Centers for Disease Control and Prevention_
 4. [ The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-united-states-an-elderly-man-in-puerto-ri.md) _Context: Centers for Disease Control and Prevention_
 5. [The United States Centers for Disease Control and Prevention confirms that the Zika virus causes birth defects like microcephaly. ](/news/2016/04/13/the-united-states-centers-for-disease-control-and-prevention-confirms-that-the-zika-virus-causes-birth-defects-like-microcephaly.md) _Context: Centers for Disease Control and Prevention_
+
+### Changes:
+
+1. [ Medicine&nbsp;- The Centers for Disease Control and Prevention (CDC) of the United States will be headed by an infectious disease expert.](/news/2002/07/2/medicine-nbsp-the-centers-for-disease-control-and-prevention-cdc-of-the-united-states-will-be-headed-by-an-infectious-disease-expert.md) _2017-08-27 03:15:13 (First version)_
+1. [ Medicine&nbsp;- The Centers for Disease Control and Prevention (CDC) of the United States will be headed by an infectious disease expert.](/news/2002/07/2/medicine-nbsp-a-the-centers-for-disease-control-and-prevention-cdc-of-the-united-states-will-be-headed-by-an-infectious-disease-expert.md) _(Current version)_

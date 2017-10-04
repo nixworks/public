@@ -17,3 +17,8 @@ Dozens of professional Russian soldiers are facing trial after abandoning a trai
 3. [The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _Context: Russia, Ukraine_
 4. [Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. ](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.md) _Context: Russia, Ukraine_
 5. [German Chancellor Angela Merkel invites the presidents of Russia, Ukraine, and France to meet tomorrow in Berlin to discuss peace efforts in eastern Ukraine. ](/news/2016/10/18/german-chancellor-angela-merkel-invites-the-presidents-of-russia-ukraine-and-france-to-meet-tomorrow-in-berlin-to-discuss-peace-efforts-in.md) _Context: Russia, Ukraine_
+
+### Changes:
+
+1. [Russian military intervention in Ukraine: Dozens of Russian soldiers face trial for fleeing a training ground in Maikop, fearing deployment to Ukraine. ](/news/2015/07/11/russian-military-intervention-in-ukraine-dozens-of-russian-soldiers-face-trial-for-fleeing-a-training-ground-in-maikop-fearing-deployment.md) _2017-08-27 03:42:41 (First version)_
+1. [Dozens of Russian soldiers face trial for fleeing a training ground in Maikop, fearing deployment to Ukraine. ](/news/2015/07/11/dozens-of-russian-soldiers-face-trial-for-fleeing-a-training-ground-in-maikop-fearing-deployment-to-ukraine.md) _(Current version)_

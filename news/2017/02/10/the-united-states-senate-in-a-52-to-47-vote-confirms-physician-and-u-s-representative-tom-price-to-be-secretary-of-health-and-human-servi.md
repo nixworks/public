@@ -17,3 +17,8 @@ Price, who served in Congress since 2005, has been a major proponent of dismantl
 3. [The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. ](/news/2017/02/8/the-united-states-senate-in-a-52-to-47-vote-confirms-the-nomination-of-jeff-sessions-as-united-states-attorney-general.md) _Context: Trump administration, United States Senate_
 4. [The U.S. Senate confirms, via Vice President Mike Pence's unprecedented tie-breaking vote, Betsy DeVos as Secretary of Education. ](/news/2017/02/7/the-u-s-senate-confirms-via-vice-president-mike-pence-s-unprecedented-tie-breaking-vote-betsy-devos-as-secretary-of-education.md) _Context: Trump administration, United States Senate_
 5. [The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/the-united-states-senate-in-a-53a47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md) _Context: Trump administration, United States Senate_
+
+### Changes:
+
+1. [Cabinet of Donald Trump: The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/cabinet-of-donald-trump-the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary.md) _2017-08-27 03:47:48 (First version)_
+1. [The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary-of-health-and-human-servi.md) _(Current version)_

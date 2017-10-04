@@ -17,3 +17,9 @@ At least five people were killed in Yemen when a pro-government militia attacked
 3. [An Ansar al-Sharia suicide bomb attack kills seven soldiers at an army base in southern Yemen. ](/news/2014/12/9/an-ansar-al-sharia-suicide-bomb-attack-kills-seven-soldiers-at-an-army-base-in-southern-yemen.md) _Context: Ansar al-Sharia_
 4. [Two drone strikes kill at least seven suspected al-Qaeda militants in the Abyan Governorate of Yemen. ](/news/2013/06/1/two-drone-strikes-kill-at-least-seven-suspected-al-qaeda-militants-in-the-abyan-governorate-of-yemen.md) _Context: Abyan Governorate_
 5. [A suicide bombing in the southern Yemeni province of Abyan kills at least 45 people. ](/news/2012/08/4/a-suicide-bombing-in-the-southern-yemeni-province-of-abyan-kills-at-least-45-people.md) _Context: Abyan Governorate_
+
+### Changes:
+
+1. [Al-Qaeda insurgency in Yemen:Three members of Ansar al-Sharia and two pro-government militia fighters are killed in an attack in Abyan Governorate. ](/news/2013/03/21/al-qaeda-insurgency-in-yemen-pthree-members-of-ansar-al-sharia-and-two-pro-government-militia-fighters-are-killed-in-an-attack-in-abyan-gove.md) _2017-08-25 03:37:57 (First version)_
+2. [Al-Qaeda insurgency in Yemen:: Three members of Ansar al-Sharia and two pro-government militia fighters are killed in an attack in Abyan Governorate. ](/news/2013/03/21/al-qaeda-insurgency-in-yemen-three-members-of-ansar-al-sharia-and-two-pro-government-militia-fighters-are-killed-in-an-attack-in-abyan-gov.md) _2017-08-27 03:38:07 (Update)_
+2. [Three members of Ansar al-Sharia and two pro-government militia fighters are killed in an attack in Abyan Governorate. ](/news/2013/03/21/three-members-of-ansar-al-sharia-and-two-pro-government-militia-fighters-are-killed-in-an-attack-in-abyan-governorate.md) _(Current version)_

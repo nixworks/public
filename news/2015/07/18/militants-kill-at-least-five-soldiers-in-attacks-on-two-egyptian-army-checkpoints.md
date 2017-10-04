@@ -16,3 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _Context: Egyptian Army, Sinai insurgency_
 4. [At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md) _Context: Egyptian Army, Sinai insurgency_
 5. [Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. ](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-suicide-bomber-at-a-checkpoint-in-northern-sinai.md) _Context: Egyptian Army, Sinai insurgency_
+
+### Changes:
+
+1. [Sinai insurgency: Militants kill at least five soldiers in attacks on two Egyptian Army checkpoints. ](/news/2015/07/18/sinai-insurgency-militants-kill-at-least-five-soldiers-in-attacks-on-two-egyptian-army-checkpoints.md) _2017-08-27 03:42:43 (First version)_
+1. [Militants kill at least five soldiers in attacks on two Egyptian Army checkpoints. ](/news/2015/07/18/militants-kill-at-least-five-soldiers-in-attacks-on-two-egyptian-army-checkpoints.md) _(Current version)_

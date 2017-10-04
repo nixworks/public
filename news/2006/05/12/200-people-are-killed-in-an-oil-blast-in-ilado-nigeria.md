@@ -17,3 +17,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
 4. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
 5. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Nigeria_
+
+### Changes:
+
+1. [ 21 people are killed in an Egyptian bus crash. ](/news/2006/05/12/21-people-are-killed-in-an-egyptian-bus-crash.md) _2017-10-03 03:19:59 (First version)_
+1. [ 200 people are killed in an oil blast in Ilado, Nigeria. ](/news/2006/05/12/200-people-are-killed-in-an-oil-blast-in-ilado-nigeria.md) _(Current version)_

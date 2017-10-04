@@ -16,13 +16,13 @@ _Context: Albanians, Kondovo, Macedonian, National Liberation Army, Skopje, guer
 _Context: Democratic, FBI, U.S. House Committee on the Judiciary_
 
 ### [ A US$85 million test of the U.S. National Missile Defense system by the Missile Defense Agency is aborted when an unknown anomaly is detected before the launch of an interceptor missile in the Marshall Islands, 16 minutes after the launch of the target from Kodiak Island, Alaska. It is the first test since a previous failed test in 2002. As in 2002, the Bush administration abandons plans to activate the system by the end of the year, and projects its activation in early 2005. ](/news/2004/12/15/a-us-85-million-test-of-the-u-s-national-missile-defense-system-by-the-missile-defense-agency-is-aborted-when-an-unknown-anomaly-is-detect.md)
-_Context: George W. Bush, Kodiak Island, Marshall Islands, Missile Defense Agency, US$, missile interceptor, rocket attacks_
+_Context: $, George W. Bush, Kodiak Island, Marshall Islands, Missile Defense Agency, missile interceptor, rocket attacks_
 
 ### [ Sprint Corporation announces a US$35 billion deal to acquire Nextel Communications. With about $40 billion in combined yearly revenue the resulting company (called Sprint Nextel) will be the third largest wireless telephone service provider in the U.S.. ](/news/2004/12/15/sprint-corporation-announces-a-us-35-billion-deal-to-acquire-nextel-communications-with-about-40-billion-in-combined-yearly-revenue-the-r.md)
 Nextel Communications Inc. and Sprint Corp. &#160;have agreed to merge in a deal that would create the nation&#8217;s third largest wireless telephone provider
 
 ### [ Human rights in Iraq: The U.S. is forced to release evidence which shows prisoners in Iraq were subject to mock executions, electric shocks, and burns by US Marines. ](/news/2004/12/15/human-rights-in-iraq-the-u-s-is-forced-to-release-evidence-which-shows-prisoners-in-iraq-were-subject-to-mock-executions-electric-shocks.md)
-_Context: Human rights in Iraq, Iraq, United States Marine Corps, electric shock, mock execution_
+_Context: Human rights in Iraq, Iraq, U.S. Marine, electric shock, mock execution_
 
 ### [ Iraqi transitional parliamentary election: Iraq's defense minister accuses Iran and Syria of supporting terrorists and charges that a senior Iraqi Shiite was leading a "pro-Iranian" coalition into next month's national elections. ](/news/2004/12/15/iraqi-transitional-parliamentary-election-iraq-s-defense-minister-accuses-iran-and-syria-of-supporting-terrorists-and-charges-that-a-senio.md)
 _Context: Iran, Iraq, Iraqi transitional parliamentary election, Shiite, Syria, terrorism_

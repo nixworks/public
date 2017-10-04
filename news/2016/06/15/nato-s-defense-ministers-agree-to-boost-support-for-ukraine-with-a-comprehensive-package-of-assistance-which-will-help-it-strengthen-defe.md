@@ -16,3 +16,8 @@
 3. [NATO claims that Russian Army troops and military equipment have entered Ukraine. ](/news/2014/11/12/nato-claims-that-russian-army-troops-and-military-equipment-have-entered-ukraine.md) _Context: NATO, Ukraine_
 4. [The two-day NATO summit in Newport, Wales, begins. Leaders agree to apply further sanctions on Russia. NATO sources claim that there are "several thousand" Russian troops inside Ukraine. ](/news/2014/09/4/the-two-day-nato-summit-in-newport-wales-begins-leaders-agree-to-apply-further-sanctions-on-russia-nato-sources-claim-that-there-are-se.md) _Context: NATO, Ukraine_
 5. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Ukraine_
+
+### Changes:
+
+1. [Ukraine-NATO relations: NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/ukraine-nato-relations-nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-wi.md) _2017-08-27 03:46:16 (First version)_
+1. [NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-will-help-it-strengthen-defe.md) _(Current version)_

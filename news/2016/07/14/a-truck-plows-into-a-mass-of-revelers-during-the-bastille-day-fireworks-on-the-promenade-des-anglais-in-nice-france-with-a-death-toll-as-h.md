@@ -18,3 +18,8 @@
 3. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
 4. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
 5. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
+
+### Changes:
+
+1. [2016 Nice attack: A truck plows into a mass of revelers during the Bastille Day fireworks on the Promenade des Anglais in Nice, France, with a death toll as high as 80 and 100 people injured. ](/news/2016/07/14/2016-nice-attack-a-truck-plows-into-a-mass-of-revelers-during-the-bastille-day-fireworks-on-the-promenade-des-anglais-in-nice-france-with.md) _2017-08-27 03:46:29 (First version)_
+1. [A truck plows into a mass of revelers during the Bastille Day fireworks on the Promenade des Anglais in Nice, France, with a death toll as high as 80 and 100 people injured. ](/news/2016/07/14/a-truck-plows-into-a-mass-of-revelers-during-the-bastille-day-fireworks-on-the-promenade-des-anglais-in-nice-france-with-a-death-toll-as-h.md) _(Current version)_

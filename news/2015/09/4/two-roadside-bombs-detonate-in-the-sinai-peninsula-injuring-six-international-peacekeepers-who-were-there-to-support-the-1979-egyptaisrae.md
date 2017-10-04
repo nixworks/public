@@ -17,3 +17,8 @@
 3. [At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md) _Context: Sinai Peninsula, Sinai insurgency_
 4. [Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. ](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-suicide-bomber-at-a-checkpoint-in-northern-sinai.md) _Context: Sinai Peninsula, Sinai insurgency_
 5. [At least seven people are killed, including five Egyptian Army soldiers, a military officer and a civilian woman in two separate blasts in Egypt's Sinai Peninsula. ISIL's Sinai branch claimed responsibility for the attacks on several websites. ](/news/2016/04/8/at-least-seven-people-are-killed-including-five-egyptian-army-soldiers-a-military-officer-and-a-civilian-woman-in-two-separate-blasts-in-e.md) _Context: Sinai Peninsula, Sinai insurgency_
+
+### Changes:
+
+1. [Sinai insurgency: Two roadside bombs detonate in the Sinai Peninsula injuring six international peacekeepers, who were there to support the 1979 Egypt-Israel Peace Treaty. ](/news/2015/09/4/sinai-insurgency-two-roadside-bombs-detonate-in-the-sinai-peninsula-injuring-six-international-peacekeepers-who-were-there-to-support-the.md) _2017-08-27 03:42:58 (First version)_
+1. [Two roadside bombs detonate in the Sinai Peninsula injuring six international peacekeepers, who were there to support the 1979 Egypt-Israel Peace Treaty. ](/news/2015/09/4/two-roadside-bombs-detonate-in-the-sinai-peninsula-injuring-six-international-peacekeepers-who-were-there-to-support-the-1979-egyptaisrae.md) _(Current version)_

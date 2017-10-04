@@ -18,3 +18,8 @@ Finns are tipped to oust apro-European and pro-NATO prime minister in elections 
 3. [At least two people are reportedly killed, and several others wounded in a stabbing in Turku, Finland. Police said they arrested one person after a shootout and had launched a manhunt for other possible attackers. ](/news/2017/08/18/at-least-two-people-are-reportedly-killed-and-several-others-wounded-in-a-stabbing-in-turku-finland-police-said-they-arrested-one-person.md) _Context: Finland_
 4. [Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/voters-go-to-the-polls-for-municipal-elections-in-finland.md) _Context: Finland_
 5. [Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _Context: Finland_
+
+### Changes:
+
+1. [Finnish parliamentary election, 2015: Voters in Finland go to the polls for a parliamentary election with a new coalition government led by Juha Sipila of the Centre Party favoured to form government after negotiation. ](/news/2015/04/19/finnish-parliamentary-election-2015-voters-in-finland-go-to-the-polls-for-a-parliamentary-election-with-a-new-coalition-government-led-by.md) _2017-08-27 03:42:13 (First version)_
+1. [Voters in Finland go to the polls for a parliamentary election with a new coalition government led by Juha Sipila of the Centre Party favoured to form government after negotiation. ](/news/2015/04/19/voters-in-finland-go-to-the-polls-for-a-parliamentary-election-with-a-new-coalition-government-led-by-juha-sipila-of-the-centre-party-favou.md) _(Current version)_

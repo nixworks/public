@@ -18,3 +18,8 @@ Hussain and his wife, Sally Jones, from Kent, had been dubbed &#039;Mr and Mrs T
 3. [ISIL militants execute 12 people in Palmyra, according to the Syrian Observatory for Human Rights. ](/news/2017/01/19/isil-militants-execute-12-people-in-palmyra-according-to-the-syrian-observatory-for-human-rights.md) _Context: Islamic State, Palmyra_
 4. [ISIL recaptures the Syrian city of Palmyra despite heavy Russian airstrikes, according to the Syrian Observatory for Human Rights and Palmyra Coordination Committee (PCC). ](/news/2016/12/11/isil-recaptures-the-syrian-city-of-palmyra-despite-heavy-russian-airstrikes-according-to-the-syrian-observatory-for-human-rights-and-palmyr.md) _Context: Islamic State, Palmyra_
 5. [The SOHR and Amaq announce that ISIL has captured an oil field north-west of Palmyra. ](/news/2016/12/10/the-sohr-and-amaq-announce-that-isil-has-captured-an-oil-field-north-west-of-palmyra.md) _Context: Islamic State, Palmyra_
+
+### Changes:
+
+1. [Islamic State of Iraq and the Levant: ISIL has destroyed two historic Muslim shrines in Palmyra. ](/news/2015/08/26/islamic-state-of-iraq-and-the-levant-isil-has-destroyed-two-historic-muslim-shrines-in-palmyra.md) _2017-08-27 03:42:54 (First version)_
+1. [ISIL has destroyed two historic Muslim shrines in Palmyra. ](/news/2015/08/26/isil-has-destroyed-two-historic-muslim-shrines-in-palmyra.md) _(Current version)_

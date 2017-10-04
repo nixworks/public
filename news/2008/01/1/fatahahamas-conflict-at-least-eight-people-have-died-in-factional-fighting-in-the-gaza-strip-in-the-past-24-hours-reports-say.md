@@ -16,3 +16,8 @@
 3. [Hamas bans Fatah supporters from holding a rally in the Gaza Strip as representatives of the two parties prepare to meet in Syria to discuss ways of resolving the conflict between them. ](/news/2010/11/9/hamas-bans-fatah-supporters-from-holding-a-rally-in-the-gaza-strip-as-representatives-of-the-two-parties-prepare-to-meet-in-syria-to-discuss.md) _Context: Fatah-Hamas conflict, Gaza_
 4. [Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. ](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.md) _Context: Gaza_
 5. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Gaza_
+
+### Changes:
+
+1. [ Fatah-Hamas conflict: At least eight people have died in factional fighting in the Gaza Strip in the past 24 hours, reports say. ](/news/2008/01/1/fatah-hamas-conflict-at-least-eight-people-have-died-in-factional-fighting-in-the-gaza-strip-in-the-past-24-hours-reports-say.md) _2017-08-27 03:21:32 (First version)_
+1. [ Fatah-Hamas conflict: At least eight people have died in factional fighting in the Gaza Strip in the past 24 hours, reports say. ](/news/2008/01/1/fatahahamas-conflict-at-least-eight-people-have-died-in-factional-fighting-in-the-gaza-strip-in-the-past-24-hours-reports-say.md) _(Current version)_

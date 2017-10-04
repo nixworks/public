@@ -16,3 +16,9 @@
 3. [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md) _Context: Xinjiang_
 4. [The United States State Department criticizes Thailand for deporting ethnic Uyghur back to China. The predominantly Uyghur Xinjiang province is the site of an ongoing political and religious crackdown in response to a wave of Muslim terrorist attacks in China. ](/news/2015/07/10/the-united-states-state-department-criticizes-thailand-for-deporting-ethnic-uyghur-back-to-china-the-predominantly-uyghur-xinjiang-province.md) _Context: Xinjiang_
 5. [A police checkpoint on the outskirts of Kashgar in Xinjiang is attacked by ethnic Uighurs, with at least 18 killed according to US-based Radio Free Asia. ](/news/2015/06/24/a-police-checkpoint-on-the-outskirts-of-kashgar-in-xinjiang-is-attacked-by-ethnic-uighurs-with-at-least-18-killed-according-to-us-based-rad.md) _Context: Xinjiang_
+
+### Changes:
+
+1. [May 2014 rmqi attack:A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/may-2014-urumqi-attack-pa-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md) _2017-08-25 03:41:18 (First version)_
+2. [May 2014 rmqi attack:: A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/may-2014-urumqi-attack-a-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md) _2017-08-27 03:41:36 (Update)_
+2. [A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/a-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md) _(Current version)_

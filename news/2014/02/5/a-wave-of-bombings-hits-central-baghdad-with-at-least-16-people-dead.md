@@ -17,3 +17,9 @@ BAGHDAD -- Multiple explosions rocked Baghdad on Wednesday, killing at least 32 
 3. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 4. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_
 5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md) _2017-08-25 03:39:57 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md) _2017-08-27 03:40:16 (Update)_
+2. [A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/a-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md) _(Current version)_

@@ -18,3 +18,9 @@
 3. [ Unidentified gunmen shoot dead Khurram Zaki, a Pakistani rights activist known for speaking out against the Taliban. ](/news/2016/05/8/unidentified-gunmen-shoot-dead-khurram-zaki-a-pakistani-rights-activist-known-for-speaking-out-against-the-taliban.md) _Context: Pakistan, Taliban_
 4. [The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend-during-an-american-dr.md) _Context: Pakistan, Taliban_
 5. [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representati.md) _Context: Pakistan, Taliban_
+
+### Changes:
+
+1. [War in North-West Pakistan:Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/war-in-north-west-pakistan-ppakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _2017-08-25 03:39:55 (First version)_
+2. [War in North-West Pakistan:: Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/war-in-north-west-pakistan-pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _2017-08-27 03:40:14 (Update)_
+2. [Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _(Current version)_

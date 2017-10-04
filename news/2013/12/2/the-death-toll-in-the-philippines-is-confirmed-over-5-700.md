@@ -17,3 +17,9 @@ MANILA &ndash; The official death toll from super typhoon &quot;Yolanda&quot; is
 3. [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md) _Context: Philippines_
 4. [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md) _Context: Philippines_
 5. [The Pentagon is considering conducting airstrikes in Marawi, which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated Maute group as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the Philippines has yet to make a request. ](/news/2017/08/8/the-pentagon-is-considering-conducting-airstrikes-in-marawi-which-if-approved-would-later-put-u-s-troops-on-the-ground-to-battle-the-isis.md) _Context: Philippines_
+
+### Changes:
+
+1. [Typhoon Haiyan:The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/typhoon-haiyan-pthe-death-toll-in-the-philippines-is-confirmed-over-5-700.md) _2017-08-25 03:39:36 (First version)_
+2. [Typhoon Haiyan:: The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/typhoon-haiyan-the-death-toll-in-the-philippines-is-confirmed-over-5-700.md) _2017-08-27 03:39:55 (Update)_
+2. [The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/the-death-toll-in-the-philippines-is-confirmed-over-5-700.md) _(Current version)_

@@ -19,3 +19,8 @@ At least 40 people killed and 140 others injured in attacks on Shia pilgrims.
 3. [Four consecutive bombings kill at least 10 people and injure 70 others in the Iraqi city of Karbala. ](/news/2011/09/25/four-consecutive-bombings-kill-at-least-10-people-and-injure-70-others-in-the-iraqi-city-of-karbala.md) _Context: Karbala_
 4. [A series of bombings in Baghdad and Karbala kill at least 33 people less than a week after similar attacks claimed the lives of 133 others. ](/news/2011/01/24/a-series-of-bombings-in-baghdad-and-karbala-kill-at-least-33-people-less-than-a-week-after-similar-attacks-claimed-the-lives-of-133-others.md) _Context: Karbala_
 5. [At least 50 people are killed and more than 150 others are injured in two bomb attacks near Karbala. ](/news/2011/01/20/at-least-50-people-are-killed-and-more-than-150-others-are-injured-in-two-bomb-attacks-near-karbala.md) _Context: Karbala_
+
+### Changes:
+
+1. [At least 22 people are killed and more than 50 are injured in two separate bombings in Karachi. ](/news/2010/02/5/at-least-22-people-are-killed-and-more-than-50-are-injured-in-two-separate-bombings-in-karachi.md) _2017-10-03 03:30:07 (First version)_
+1. [At least 40 people are killed and more than 140 are wounded in at least two explosions in Karbala during the final day of Arba'een. ](/news/2010/02/5/at-least-40-people-are-killed-and-more-than-140-are-wounded-in-at-least-two-explosions-in-karbala-during-the-final-day-of-arba-een.md) _(Current version)_

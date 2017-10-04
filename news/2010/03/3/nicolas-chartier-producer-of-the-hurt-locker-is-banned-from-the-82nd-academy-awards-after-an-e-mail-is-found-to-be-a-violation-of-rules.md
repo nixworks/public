@@ -20,3 +20,9 @@
 3. [Hackers hack the popular note-taking application Evernote. The website says that the hackers gained access to user passwords, e-mails, and usernames. ](/news/2013/03/2/hackers-hack-the-popular-note-taking-application-evernote-the-website-says-that-the-hackers-gained-access-to-user-passwords-e-mails-and-u.md) _Context: e-mail_
 4. [Internet analytics company ComScore says Google's Gmail has edged out Microsoft's Hotmail as the world's top e-mail service. ](/news/2012/11/1/internet-analytics-company-comscore-says-google-s-gmail-has-edged-out-microsoft-s-hotmail-as-the-world-s-top-e-mail-service.md) _Context: e-mail_
 5. [The hacker group Anonymous releases e-mails obtained from the Bank of America. ](/news/2011/03/14/the-hacker-group-anonymous-releases-e-mails-obtained-from-the-bank-of-america.md) _Context: e-mail_
+
+### Changes:
+
+1. [''The Hurt Locker'':Nicolas Chartier, producer of ''The Hurt Locker'', is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/the-hurt-locker-pnicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-b.md) _2017-08-25 03:27:16 (First version)_
+2. ["The Hurt Locker":: Nicolas Chartier, producer of "The Hurt Locker", is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/the-hurt-locker-nicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-be-a.md) _2017-08-27 03:27:11 (Update)_
+2. [Nicolas Chartier, producer of "The Hurt Locker", is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/nicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-be-a-violation-of-rules.md) _(Current version)_

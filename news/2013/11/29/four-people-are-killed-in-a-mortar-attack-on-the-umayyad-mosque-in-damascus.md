@@ -17,3 +17,9 @@ At least four killed and 26 injured in the attack near Umayyad Mosque in Damascu
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [Syrian civil war:Four people are killed in a mortar attack on the Umayyad Mosque in Damascus. ](/news/2013/11/29/syrian-civil-war-pfour-people-are-killed-in-a-mortar-attack-on-the-umayyad-mosque-in-damascus.md) _2017-08-25 03:39:36 (First version)_
+2. [Syrian civil war:: Four people are killed in a mortar attack on the Umayyad Mosque in Damascus. ](/news/2013/11/29/syrian-civil-war-four-people-are-killed-in-a-mortar-attack-on-the-umayyad-mosque-in-damascus.md) _2017-08-27 03:39:54 (Update)_
+2. [Four people are killed in a mortar attack on the Umayyad Mosque in Damascus. ](/news/2013/11/29/four-people-are-killed-in-a-mortar-attack-on-the-umayyad-mosque-in-damascus.md) _(Current version)_

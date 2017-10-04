@@ -21,3 +21,9 @@ OPPONENTS of President Kurmanbek Bakiyev took control overnight of Kyrgyzstan af
 3. [Kyrgyzstani voters vote for a new constitution. ](/news/2016/12/11/kyrgyzstani-voters-vote-for-a-new-constitution.md) _Context: Kyrgyzstan_
 4. [A car bomb explodes near the Chinese embassy in Kyrgyzstan, killing the perpetrator and injuring three. ](/news/2016/08/30/a-car-bomb-explodes-near-the-chinese-embassy-in-kyrgyzstan-killing-the-perpetrator-and-injuring-three.md) _Context: Kyrgyzstan_
 5. [A fire at a warehouse in Moscow, Russia, kills at least 17 people, all migrant workers from Kyrgyzstan. The Investigative Committee of Russia, which reports directly to President Vladimir Putin, says a criminal inquiry has been launched. ](/news/2016/08/27/a-fire-at-a-warehouse-in-moscow-russia-kills-at-least-17-people-all-migrant-workers-from-kyrgyzstan-the-investigative-committee-of-russi.md) _Context: Kyrgyzstan_
+
+### Changes:
+
+1. [2010 Kyrgyzstan riots:100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/2010-kyrgyzstan-riots-p100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md) _2017-08-25 03:27:35 (First version)_
+2. [2010 Kyrgyzstan riots:: 100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/2010-kyrgyzstan-riots-100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md) _2017-08-27 03:27:31 (Update)_
+2. [100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md) _(Current version)_

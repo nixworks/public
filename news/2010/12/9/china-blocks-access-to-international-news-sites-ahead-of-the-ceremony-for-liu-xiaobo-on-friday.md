@@ -22,3 +22,9 @@ China steps up its campaign to try to discredit the Nobel committee, ahead of th
 3. [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md) _Context: China, Liu Xiaobo_
 4. [A ceremony is held in Norway to award the Nobel Peace Prize to Chinese dissident Liu Xiaobo "in absentia". ](/news/2010/12/10/a-ceremony-is-held-in-norway-to-award-the-nobel-peace-prize-to-chinese-dissident-liu-xiaobo-in-absentia.md) _Context: China, Liu Xiaobo_
 5. [The Chinese embassy in Oslo implicitly warns foreign diplomats not to attend the Nobel Peace Prize award ceremony for Liu Xiaobo. ](/news/2010/11/5/the-chinese-embassy-in-oslo-implicitly-warns-foreign-diplomats-not-to-attend-the-nobel-peace-prize-award-ceremony-for-liu-xiaobo.md) _Context: China, Liu Xiaobo_
+
+### Changes:
+
+1. [2010 Nobel Peace Prize:China blocks access to international news sites ahead of the ceremony for Liu Xiaobo on Friday. ](/news/2010/12/9/2010-nobel-peace-prize-pchina-blocks-access-to-international-news-sites-ahead-of-the-ceremony-for-liu-xiaobo-on-friday.md) _2017-08-25 03:31:20 (First version)_
+2. [2010 Nobel Peace Prize:: China blocks access to international news sites ahead of the ceremony for Liu Xiaobo on Friday. ](/news/2010/12/9/2010-nobel-peace-prize-china-blocks-access-to-international-news-sites-ahead-of-the-ceremony-for-liu-xiaobo-on-friday.md) _2017-08-27 03:31:27 (Update)_
+2. [China blocks access to international news sites ahead of the ceremony for Liu Xiaobo on Friday. ](/news/2010/12/9/china-blocks-access-to-international-news-sites-ahead-of-the-ceremony-for-liu-xiaobo-on-friday.md) _(Current version)_

@@ -17,3 +17,9 @@ Two suspected al Qaeda militants were killed in a U.S. drone strike in the south
 3. [Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _Context: al-Qaeda_
 4. [Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md) _Context: al-Qaeda_
 5. [ The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.md) _Context: al-Qaeda_
+
+### Changes:
+
+1. [South Yemen insurgency:Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/south-yemen-insurgency-ptwo-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md) _2017-08-25 03:39:49 (First version)_
+2. [South Yemen insurgency:: Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/south-yemen-insurgency-two-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md) _2017-08-27 03:40:07 (Update)_
+2. [Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/two-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md) _(Current version)_

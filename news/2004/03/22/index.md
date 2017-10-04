@@ -7,7 +7,7 @@ _Context: McAlester, Oklahoma City bombing, Terry Nichols, murder, testimony_
 _Context: 2004 presidential election, Chen Shui-bian, Democratic Progressive Party, Lien Chan, coalition allies, legislative chamber_
 
 ### [ Microsoft is to be fined a record EUR497 million ($613 million) by the European Commission as punishment for abusing its Windows monopoly, according to reports ahead of a key meeting by EU Commissioners on Wednesday. ](/news/2004/03/22/microsoft-is-to-be-fined-a-record-a-497-million-613-million-by-the-european-commission-as-punishment-for-abusing-its-windows-monopoly.md)
-_Context: EUR, European Commission, Microsoft, Microsoft Windows, US$_
+_Context: $, EUR, European Commission, Microsoft, Microsoft Windows_
 
 ### [ Salvadoran presidential election: Tony Saca of the Nationalist Republican Alliance (ARENA) declares victory over a former Communist Party guerrilla leader, with 60% of the votes. ](/news/2004/03/22/salvadoran-presidential-election-tony-saca-of-the-nationalist-republican-alliance-arena-declares-victory-over-a-former-communist-party-g.md)
 _Context: ARENA, Farabundo Marti National Liberation Front, Salvadoran presidential election, Tony Saca_

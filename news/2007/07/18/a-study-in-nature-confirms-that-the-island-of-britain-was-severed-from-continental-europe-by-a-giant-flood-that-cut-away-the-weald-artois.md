@@ -16,3 +16,8 @@
 3. [Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. ](/news/2017/03/3/since-december-flooding-in-zimbabwe-has-killed-246-people-and-nearly-2-000-more-have-been-left-homeless-according-to-officials.md) _Context: flood_
 4. [Seattle-based Amazon.com says it will create 15,000 new full-time jobs across Europe by the end of 2017, increasing its European workforce by approximately 30 percent. ](/news/2017/02/20/seattle-based-amazon-com-says-it-will-create-15-000-new-full-time-jobs-across-europe-by-the-end-of-2017-increasing-its-european-workforce-b.md) _Context: Europe_
 5. [A cold spell with the temperature reaching [?]30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10 in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-a30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _Context: Europe_
+
+### Changes:
+
+1. [ A study in ''Nature'' confirms that the island of Britain was severed from continental Europe by a giant flood that cut away the Weald-Artois Anticline about 200,000 years ago. ](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-britain-was-severed-from-continental-europe-by-a-giant-flood-that-cut-away-the-weald-arto.md) _2017-08-25 03:20:13 (First version)_
+1. [ A study in "Nature" confirms that the island of Britain was severed from continental Europe by a giant flood that cut away the Weald-Artois Anticline about 200,000 years ago. ](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-britain-was-severed-from-continental-europe-by-a-giant-flood-that-cut-away-the-weald-artois.md) _(Current version)_

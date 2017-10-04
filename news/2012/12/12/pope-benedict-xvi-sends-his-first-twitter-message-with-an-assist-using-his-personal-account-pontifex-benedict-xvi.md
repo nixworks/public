@@ -20,3 +20,9 @@ Pope Benedict XVI sends his first much-anticipated Twitter message using the han
 3. [Pope Benedict XVI adds Arabic to weekly Vatican address in front of pilgrims. ](/news/2012/10/10/pope-benedict-xvi-adds-arabic-to-weekly-vatican-address-in-front-of-pilgrims.md) _Context: Benedict XVI, Pope_
 4. [ Pope Benedict XVI releases a statement stating that he shares the "outrage, betrayal and shame" felt by the Irish people over the findings of the Murphy Report into sexual abuse by the Catholic clergy in Dublin. ](/news/2009/12/11/pope-benedict-xvi-releases-a-statement-stating-that-he-shares-the-outrage-betrayal-and-shame-felt-by-the-irish-people-over-the-findings.md) _Context: Benedict XVI, Pope_
 5. [ Pope Benedict XVI calls for a new financial world order guided by ethics, dignity and the search for a common good. ](/news/2009/07/7/pope-benedict-xvi-calls-for-a-new-financial-world-order-guided-by-ethics-dignity-and-the-search-for-a-common-good.md) _Context: Benedict XVI, Pope_
+
+### Changes:
+
+1. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account ({{twitter|pontifex|Pope Benedict XVI}}). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-twitter-pontifex-pope-benedict-xvi.md) _2017-05-01 03:39:49 (First version)_
+2. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex|Pope Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-pope-benedict-xvi.md) _2017-08-29 03:37:01 (Update)_
+2. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-benedict-xvi.md) _(Current version)_

@@ -18,3 +18,8 @@ Turkey vowed on Monday to &quot;completely cleanse&quot; Islamic State militants
 3. [ A blast hits a police station in the southern Turkish city of Gaziantep leaving one officer dead and 13 injured. ](/news/2016/05/1/a-blast-hits-a-police-station-in-the-southern-turkish-city-of-gaziantep-leaving-one-officer-dead-and-13-injured.md) _Context: Gaziantep_
 4. [Ankara's Chief Prosecutor's office says it has "strong evidence" that an Islamic State group -- based in Gaziantep, near the Syrian border -- is behind the bombings at this month's Ankara peace rally that killed 102 people, as well as four previous attacks in Turkey since May that have mainly targeted supporters of a pro-Kurdish party. ](/news/2015/10/28/ankara-s-chief-prosecutor-s-office-says-it-has-strong-evidence-that-an-islamic-state-group-a-based-in-gaziantep-near-the-syrian-border.md) _Context: Gaziantep_
 5. [At least eight people are killed by a bomb attack in the city of Gaziantep, Turkey. ](/news/2012/08/20/at-least-eight-people-are-killed-by-a-bomb-attack-in-the-city-of-gaziantep-turkey.md) _Context: Gaziantep_
+
+### Changes:
+
+1. [Gaziantep bombing: A suicide bomber targets a Kurdish wedding celebration in the Turkish city of Gaziantep killing at least 22 people and wounding 94. ](/news/2016/08/20/gaziantep-bombing-a-suicide-bomber-targets-a-kurdish-wedding-celebration-in-the-turkish-city-of-gaziantep-killing-at-least-22-people-and-wo.md) _2017-08-27 03:46:40 (First version)_
+1. [A suicide bomber targets a Kurdish wedding celebration in the Turkish city of Gaziantep killing at least 22 people and wounding 94. ](/news/2016/08/20/a-suicide-bomber-targets-a-kurdish-wedding-celebration-in-the-turkish-city-of-gaziantep-killing-at-least-22-people-and-wounding-94.md) _(Current version)_

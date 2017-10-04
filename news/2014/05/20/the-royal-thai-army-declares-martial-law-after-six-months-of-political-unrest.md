@@ -17,3 +17,9 @@ Military claims it is not part of a coup, coming one day after the caretaker pri
 3. [The Government of Cambodia claims that the Royal Thai Army has killed five Cambodians since January. ](/news/2015/08/5/the-government-of-cambodia-claims-that-the-royal-thai-army-has-killed-five-cambodians-since-january.md) _Context: Royal Thai Army_
 4. [Royal Thai Army chief and coup leader General Prayuth Chan-ocha detains former Prime Minister of Thailand Yingluck Shinawatra after summoning her for talks a day after the coup. ](/news/2014/05/23/royal-thai-army-chief-and-coup-leader-general-prayuth-chan-ocha-detains-former-prime-minister-of-thailand-yingluck-shinawatra-after-summonin.md) _Context: Royal Thai Army_
 5. [Eight Royal Thai Army soldiers are killed during an ambush in Krong Pinang District in Yala Province located in Southern Thailand. ](/news/2013/06/29/eight-royal-thai-army-soldiers-are-killed-during-an-ambush-in-krong-pinang-district-in-yala-province-located-in-southern-thailand.md) _Context: Royal Thai Army_
+
+### Changes:
+
+1. [2013-14 Thai political crisis:The Royal Thai Army declares martial law after six months of political unrest. ](/news/2014/05/20/2013a14-thai-political-crisis-pthe-royal-thai-army-declares-martial-law-after-six-months-of-political-unrest.md) _2017-08-25 03:40:25 (First version)_
+2. [2013-14 Thai political crisis:: The Royal Thai Army declares martial law after six months of political unrest. ](/news/2014/05/20/2013-14-thai-political-crisis-the-royal-thai-army-declares-martial-law-after-six-months-of-political-unrest.md) _2017-08-27 03:40:43 (Update)_
+2. [The Royal Thai Army declares martial law after six months of political unrest. ](/news/2014/05/20/the-royal-thai-army-declares-martial-law-after-six-months-of-political-unrest.md) _(Current version)_

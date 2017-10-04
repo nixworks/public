@@ -17,3 +17,8 @@ Hospital officials in Indian-administered Kashmir say 36 people have now died in
 3. [ Sixteen militants and eight Indian Army soldiers are killed in Jammu and Kashmir's Kupwara District. ](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.md) _Context: India, Insurgency in Jammu and Kashmir_
 4. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
 5. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
+
+### Changes:
+
+1. [Insurgency in Jammu and Kashmir: The death toll from anti-government protests in the Indian state rises to 36 with over a thousand more being treated for injuries. Chief Minister Mehbooba Mufti has called for calm. ](/news/2016/07/13/insurgency-in-jammu-and-kashmir-the-death-toll-from-anti-government-protests-in-the-indian-state-rises-to-36-with-over-a-thousand-more-bein.md) _2017-08-27 03:46:29 (First version)_
+1. [The death toll from anti-government protests in the Indian state rises to 36 with over a thousand more being treated for injuries. Chief Minister Mehbooba Mufti has called for calm. ](/news/2016/07/13/the-death-toll-from-anti-government-protests-in-the-indian-state-rises-to-36-with-over-a-thousand-more-being-treated-for-injuries-chief-min.md) _(Current version)_

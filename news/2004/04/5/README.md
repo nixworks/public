@@ -40,7 +40,7 @@ _Context: Bill Gates, IKEA, Ingvar Kamprad, Microsoft, Swedish, Veckans Affarer,
 _Context: ammonium nitrate, explosive, potential, supplier, terrorist_
 
 ### [ After ""serious social resonance"", the Duma's United Russia majority backpedals from outright support of a bill banning public protests in many public places. ](/news/2004/04/5/after-serious-social-resonance-the-duma-s-united-russia-majority-backpedals-from-outright-support-of-a-bill-banning-public-protests-in.md)
-_Context: Duma, United Russia, bans, bill into law_
+_Context: Duma, United Russia, ban, bill into law_
 
 ## [Previous Day...](/news/2004/04/4/index.md)
 

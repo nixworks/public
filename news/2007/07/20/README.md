@@ -13,7 +13,7 @@ _Context: Americans, China, Panama_
 _Context: Bolivia, La Paz, Sucre_
 
 ### [ United States District Judge James Jones levies a fine of $634.5 million on Purdue Pharma and three executives for misleading the public about OxyContin. ](/news/2007/07/20/united-states-district-judge-james-jones-levies-a-fine-of-634-5-million-on-purdue-pharma-and-three-executives-for-misleading-the-public-ab.md)
-_Context: OxyContin, Purdue Pharma, US$, United States District Judge_
+_Context: $, OxyContin, Purdue Pharma, United States District Judge_
 
 ### [ The Government of Ethiopia pardons and frees opposition leaders who had been sentenced to life imprisonment for their roles in riots following 2005 elections. Prime Minister Meles Zenawi denies that the release was forced by the United States. ](/news/2007/07/20/the-government-of-ethiopia-pardons-and-frees-opposition-leaders-who-had-been-sentenced-to-life-imprisonment-for-their-roles-in-riots-follow.md)
 _Context: 2005 elections, Americans, Meles Zenawi, Prime Minister, government, life imprisonment_

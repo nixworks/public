@@ -18,3 +18,8 @@ A bomb exploded outside an Egyptian army building north of Cairo on Sunday, woun
 3. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo, Egypt_
 4. [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md) _Context: Cairo, Egypt_
 5. [The Islamic State of Iraq and the Levant claims responsibility for the Egyptian Coptic Church bombing in Cairo that claimed 25 lives on 11 December. ](/news/2016/12/13/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-the-egyptian-coptic-church-bombing-in-cairo-that-claimed-25-lives-on-11-d.md) _Context: Cairo, Egypt_
+
+### Changes:
+
+1. [Islamist protests in Egypt (July 2013-present): A bomb targeting an Egyptian military intelligence building north of Cairo in the village of Anshas wounds four soldiers. ](/news/2013/12/29/islamist-protests-in-egypt-july-2013-present-a-bomb-targeting-an-egyptian-military-intelligence-building-north-of-cairo-in-the-village.md) _2017-08-27 03:40:06 (First version)_
+1. [A bomb targeting an Egyptian military intelligence building north of Cairo in the village of Anshas wounds four soldiers. ](/news/2013/12/29/a-bomb-targeting-an-egyptian-military-intelligence-building-north-of-cairo-in-the-village-of-anshas-wounds-four-soldiers.md) _(Current version)_

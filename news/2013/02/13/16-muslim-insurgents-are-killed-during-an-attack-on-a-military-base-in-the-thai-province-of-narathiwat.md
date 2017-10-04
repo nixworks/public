@@ -17,3 +17,9 @@
 3. [Muslim separatists in southern Thailand kill four soldiers in an attack on an army base. ](/news/2011/01/20/muslim-separatists-in-southern-thailand-kill-four-soldiers-in-an-attack-on-an-army-base.md) _Context: Muslim, Thailand_
 4. [ Militants in southern Thailand kill a Muslim family of three while a bomb attack injures two in Pattani Province. ](/news/2009/12/4/militants-in-southern-thailand-kill-a-muslim-family-of-three-while-a-bomb-attack-injures-two-in-pattani-province.md) _Context: Muslim, Thailand_
 5. [ 11 people are shot dead and a bomb at a restaurant injures 27 amid unrest in Thailand's Muslim south. ](/news/2009/09/3/11-people-are-shot-dead-and-a-bomb-at-a-restaurant-injures-27-amid-unrest-in-thailand-s-muslim-south.md) _Context: Muslim, Thailand_
+
+### Changes:
+
+1. [South Thailand insurgency:16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/south-thailand-insurgency-p16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md) _2017-08-25 03:37:31 (First version)_
+2. [South Thailand insurgency:: 16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/south-thailand-insurgency-16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md) _2017-08-27 03:37:42 (Update)_
+2. [16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md) _(Current version)_

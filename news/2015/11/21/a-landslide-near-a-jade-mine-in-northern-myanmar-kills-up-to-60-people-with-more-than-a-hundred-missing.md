@@ -16,3 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: Myanmar_
 4. [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md) _Context: Myanmar_
 5. [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md) _Context: Myanmar_
+
+### Changes:
+
+1. [Hpakant jade mine disaster: A landslide near a jade mine in northern Myanmar kills up to 60 people with more than a hundred missing. ](/news/2015/11/21/hpakant-jade-mine-disaster-a-landslide-near-a-jade-mine-in-northern-myanmar-kills-up-to-60-people-with-more-than-a-hundred-missing.md) _2017-08-27 03:43:59 (First version)_
+1. [A landslide near a jade mine in northern Myanmar kills up to 60 people with more than a hundred missing. ](/news/2015/11/21/a-landslide-near-a-jade-mine-in-northern-myanmar-kills-up-to-60-people-with-more-than-a-hundred-missing.md) _(Current version)_

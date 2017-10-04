@@ -18,3 +18,9 @@ UN official describes vote as peaceful but several polling sites delayed opening
 3. [Thousands of Haitians riot in Port-Au-Prince, Haiti to protest the exclusion of Michel Martelly from the second round of voting in the Haitian presidential election. ](/news/2010/12/8/thousands-of-haitians-riot-in-port-au-prince-haiti-to-protest-the-exclusion-of-michel-martelly-from-the-second-round-of-voting-in-the-haiti.md) _Context: Haiti, Haitian general election, 2010-2011_
 4. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _Context: Haiti_
 5. [A bus driver in the Haitian city of Gonaives ploughs into crowds of people celebrating Rara while speeding away from an earlier accident which left one person dead, killing at least 38 people, including a group of street musicians, and injures 17 others. ](/news/2017/03/12/a-bus-driver-in-the-haitian-city-of-gonaa-ves-ploughs-into-crowds-of-people-celebrating-rara-while-speeding-away-from-an-earlier-accident-wh.md) _Context: Haiti_
+
+### Changes:
+
+1. [Haitian general election, 2010-2011:Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/haitian-general-election-2010a2011-pvoters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md) _2017-08-25 03:32:35 (First version)_
+2. [Haitian general election, 2010-2011:: Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/haitian-general-election-2010-2011-voters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md) _2017-08-27 03:32:43 (Update)_
+2. [Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/voters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md) _(Current version)_

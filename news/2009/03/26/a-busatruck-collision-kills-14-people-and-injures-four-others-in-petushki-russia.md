@@ -17,3 +17,8 @@
 3. [In a collision between a bus and a truck at kilometer 90 of the highway Anaco-Cantaura, state of Anzoategui, Venezuela, 8 killed and at least 25 injured. ](/news/2012/11/25/in-a-collision-between-a-bus-and-a-truck-at-kilometer-90-of-the-highway-anaco-cantaura-state-of-anzoa-tegui-venezuela-8-killed-and-at-lea.md) _Context: bus, truck_
 4. [ A bomb attack on a bus kills five people and hurts 12 in the Russian republic of North Ossetia-Alania. ](/news/2007/11/22/a-bomb-attack-on-a-bus-kills-five-people-and-hurts-12-in-the-russian-republic-of-north-ossetia-alania.md) _Context: Russia, bus_
 5. [ At least 17 people die in Sri Lanka as a bus collides with a truck 80 km south of Colombo. ](/news/2007/04/10/at-least-17-people-die-in-sri-lanka-as-a-bus-collides-with-a-truck-80-km-south-of-colombo.md) _Context: bus, truck_
+
+### Changes:
+
+1. [ A bus-truck collision kills 14 people and injures four others in Petushki, Russia. ](/news/2009/03/26/a-bus-truck-collision-kills-14-people-and-injures-four-others-in-petushki-russia.md) _2017-08-27 03:24:03 (First version)_
+1. [ A bus-truck collision kills 14 people and injures four others in Petushki, Russia. ](/news/2009/03/26/a-busatruck-collision-kills-14-people-and-injures-four-others-in-petushki-russia.md) _(Current version)_

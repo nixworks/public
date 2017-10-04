@@ -17,3 +17,8 @@
 3. [Two senior army commanders from Saudi Arabia and the United Arab Emirates are killed, including the head of the Saudi Special forces in Yemen, Colonel Abdullah al-Sahyan, along with dozens of Saudi, Emirati, Sudanese and Yemeni coalition troops in a OTR-21 Tochka missile attack by Houthi forces on their base near the city of Taiz in southwestern Yemen. ](/news/2015/12/14/two-senior-army-commanders-from-saudi-arabia-and-the-united-arab-emirates-are-killed-including-the-head-of-the-saudi-special-forces-in-yeme.md) _Context: Taiz, Yemeni Civil War (2015)_
 4. [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md) _Context: Taiz, Yemeni Civil War (2015)_
 5. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi_
+
+### Changes:
+
+1. [Yemeni Civil War (2015): Rockets fired by Houthi militiamen reportedly kill 14 people as fighting intensifies in the city of Taiz. ](/news/2015/08/24/yemeni-civil-war-2015-rockets-fired-by-houthi-militiamen-reportedly-kill-14-people-as-fighting-intensifies-in-the-city-of-taiz.md) _2017-08-27 03:42:53 (First version)_
+1. [Rockets fired by Houthi militiamen reportedly kill 14 people as fighting intensifies in the city of Taiz. ](/news/2015/08/24/rockets-fired-by-houthi-militiamen-reportedly-kill-14-people-as-fighting-intensifies-in-the-city-of-taiz.md) _(Current version)_

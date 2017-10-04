@@ -12,3 +12,8 @@
 3. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo_
 4. [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md) _Context: Cairo_
 5. [The Islamic State of Iraq and the Levant claims responsibility for the Egyptian Coptic Church bombing in Cairo that claimed 25 lives on 11 December. ](/news/2016/12/13/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-the-egyptian-coptic-church-bombing-in-cairo-that-claimed-25-lives-on-11-d.md) _Context: Cairo_
+
+### Changes:
+
+1. [Gunmen open fire on a Christian wedding in a Cairo suburb in Egypt, with at least three people killed and nine others injured. ](/news/2013/10/20/gunmen-open-fire-on-a-christian-wedding-in-a-cairo-suburb-in-egypt-with-at-least-three-people-killed-and-nine-others-injured.md) _2017-08-25 03:39:24 (First version)_
+1. [Gunmen open fire on a Christian wedding in a Cairo suburb in Egypt, with at least three people killed and nine others injured. [http:--www.bbc.co.uk-news-world-middle-east-24605130 (BBC) ]](/news/2013/10/20/gunmen-open-fire-on-a-christian-wedding-in-a-cairo-suburb-in-egypt-with-at-least-three-people-killed-and-nine-others-injured-http-www-b.md) _(Current version)_

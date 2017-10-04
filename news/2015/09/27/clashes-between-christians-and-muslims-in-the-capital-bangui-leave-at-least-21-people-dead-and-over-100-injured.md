@@ -17,3 +17,8 @@ Another 100 people thought to have been injured and thousands displaced in capit
 3. [All 500 of the prisoners escape from the Ngaraba jail in Bangui, the capital of the Central African Republic. ](/news/2015/09/29/all-500-of-the-prisoners-escape-from-the-ngaraba-jail-in-bangui-the-capital-of-the-central-african-republic.md) _Context: Bangui's_
 4. [A Rwandan soldier attached to MINUSCA goes on a shooting spree in Bangui, killing four fellow UN peacekeepers and injuring another eight before turning the gun on himself. ](/news/2015/08/8/a-rwandan-soldier-attached-to-minusca-goes-on-a-shooting-spree-in-bangui-killing-four-fellow-un-peacekeepers-and-injuring-another-eight-bef.md) _Context: Bangui's_
 5. [At least 11 people are killed in an attack on a church by the Slka militia group in the city of Bangui in the Central African Republic. ](/news/2014/05/28/at-least-11-people-are-killed-in-an-attack-on-a-church-by-the-seleka-militia-group-in-the-city-of-bangui-in-the-central-african-republic.md) _Context: Bangui's_
+
+### Changes:
+
+1. [Central African Republic Civil War (2012-present): Clashes between Christians and Muslims in the capital Bangui leave at least 21 people dead and over 100 injured. ](/news/2015/09/27/central-african-republic-civil-war-2012-present-clashes-between-christians-and-muslims-in-the-capital-bangui-leave-at-least-21-people-dea.md) _2017-08-27 03:43:10 (First version)_
+1. [Clashes between Christians and Muslims in the capital Bangui leave at least 21 people dead and over 100 injured. ](/news/2015/09/27/clashes-between-christians-and-muslims-in-the-capital-bangui-leave-at-least-21-people-dead-and-over-100-injured.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [ War in Pakistan (2004-present): Another Pakistani security outpost near the border with Afghanistan is abandoned by government troops due to threats from pro-Taliban fighters. ](/news/2008/01/17/war-in-pakistan-2004apresent-another-pakistani-security-outpost-near-the-border-with-afghanistan-is-abandoned-by-government-troops-due.md) _Context: Pakistan, War in Pakistan (2004-present)_
 4. [ War in Pakistan (2004-present); Sararogha Fort raid: Islamic militants overrun and capture a Pakistani military outpost, Sararogha Fort, close to the Afghan border in a battle that kills seven Pakistani soldiers and leaves 20 missing. The Pakistani military claims 50 attackers also died. ](/news/2008/01/16/war-in-pakistan-2004apresent-sararogha-fort-raid-islamic-militants-overrun-and-capture-a-pakistani-military-outpost-sararogha-fort.md) _Context: Pakistan, War in Pakistan (2004-present)_
 5. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan_
+
+### Changes:
+
+1. [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004-present-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md) _2017-08-27 03:21:36 (First version)_
+1. [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004apresent-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md) _(Current version)_

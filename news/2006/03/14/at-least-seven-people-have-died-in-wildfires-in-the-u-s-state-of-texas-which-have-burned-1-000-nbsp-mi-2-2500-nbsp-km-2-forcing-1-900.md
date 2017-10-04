@@ -16,3 +16,8 @@
 3. [Wildfires continue to burn in the US state of Texas, destroying tens of thousands of acres of land. ](/news/2011/09/4/wildfires-continue-to-burn-in-the-us-state-of-texas-destroying-tens-of-thousands-of-acres-of-land.md) _Context: Texas, Wildfire_
 4. [Wildfires severely damage homes and infrastructure in the US states of Texas and Oklahoma. ](/news/2011/08/31/wildfires-severely-damage-homes-and-infrastructure-in-the-us-states-of-texas-and-oklahoma.md) _Context: Texas, Wildfire_
 5. [Wildfires in the US state of Texas destroy more than 230,000 acres of land, including about 20 homes in the small town of Fort Davis. ](/news/2011/04/10/wildfires-in-the-us-state-of-texas-destroy-more-than-230-000-acres-of-land-including-about-20-homes-in-the-small-town-of-fort-davis.md) _Context: Texas, Wildfire_
+
+### Changes:
+
+1. [ At least seven people have died in wildfires in the U.S. state of Texas which have burned 1,000&nbsp;mi 2 (2500&nbsp;km 2 ), forcing 1,900 people to evacuate. ](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in-the-u-s-state-of-texas-which-have-burned-1-000-nbsp-mi2-2500-nbsp-km2-forcing-1-900-peo.md) _2017-10-02 03:19:58 (First version)_
+1. [ At least seven people have died in wildfires in the U.S. state of Texas which have burned 1,000&nbsp;mi 2 (2500&nbsp;km 2 ), forcing 1,900 people to evacuate. ](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in-the-u-s-state-of-texas-which-have-burned-1-000-nbsp-mi-2-2500-nbsp-km-2-forcing-1-900.md) _(Current version)_

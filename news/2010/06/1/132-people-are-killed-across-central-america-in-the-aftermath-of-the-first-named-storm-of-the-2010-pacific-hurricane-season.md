@@ -15,3 +15,8 @@ Collapsed roads and highway bridges complicated rescue efforts in Guatemala on T
 ### Related:
 
 1. [Celia becomes the first hurricane of the 2010 Pacific hurricane season. ](/news/2010/06/20/celia-becomes-the-first-hurricane-of-the-2010-pacific-hurricane-season.md) _Context: 2010 Pacific hurricane season_
+
+### Changes:
+
+1. [Tropical Storm Agatha: 132 people are killed across Central America in the aftermath of the first named storm of the 2010 Pacific hurricane season. ](/news/2010/06/1/tropical-storm-agatha-132-people-are-killed-across-central-america-in-the-aftermath-of-the-first-named-storm-of-the-2010-pacific-hurricane.md) _2017-08-27 03:28:05 (First version)_
+1. [132 people are killed across Central America in the aftermath of the first named storm of the 2010 Pacific hurricane season. ](/news/2010/06/1/132-people-are-killed-across-central-america-in-the-aftermath-of-the-first-named-storm-of-the-2010-pacific-hurricane-season.md) _(Current version)_

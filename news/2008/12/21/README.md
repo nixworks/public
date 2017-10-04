@@ -13,7 +13,7 @@ _Context: Continental Airlines, Denver, Colorado, Flight 1404_
 _Context: Human Rights Day, Iran, Iranian police, Nobel Peace Prize, Shirin Ebadi_
 
 ### [ Canada announces a US$3.3 billion bailout for its troubled automotive industry. ](/news/2008/12/21/canada-announces-a-us-3-3-billion-bailout-for-its-troubled-automotive-industry.md)
-_Context: Canada, US$, bailout, troubled automotive industry_
+_Context: $, Canada, bailout, troubled automotive industry_
 
 ### [ 2008 Russian financial crisis: Russian Internal Troops quell a protest in Vladivostok over higher tariffs on imported used automobiles. ](/news/2008/12/21/2008-russian-financial-crisis-russian-internal-troops-quell-a-protest-in-vladivostok-over-higher-tariffs-on-imported-used-automobiles.md)
 _Context: 2008 Russian financial crisis, Internal Troops, Russia, Vladivostok, import, import tariffs, used automobiles_

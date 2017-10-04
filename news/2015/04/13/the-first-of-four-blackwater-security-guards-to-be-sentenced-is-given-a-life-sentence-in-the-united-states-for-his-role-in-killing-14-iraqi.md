@@ -16,3 +16,8 @@ Security contractors face decades in prison for the 2007 shootings in Baghdad&rs
 3. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Baghdad_
 4. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 5. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_
+
+### Changes:
+
+1. [Blackwater Baghdad shootings: The first of four Blackwater security guards to be sentenced is given a life sentence in the United States for his role in killing 14 Iraqi civilians in Baghdad in 2007. ](/news/2015/04/13/blackwater-baghdad-shootings-the-first-of-four-blackwater-security-guards-to-be-sentenced-is-given-a-life-sentence-in-the-united-states-for.md) _2017-08-27 03:42:11 (First version)_
+1. [The first of four Blackwater security guards to be sentenced is given a life sentence in the United States for his role in killing 14 Iraqi civilians in Baghdad in 2007. ](/news/2015/04/13/the-first-of-four-blackwater-security-guards-to-be-sentenced-is-given-a-life-sentence-in-the-united-states-for-his-role-in-killing-14-iraqi.md) _(Current version)_

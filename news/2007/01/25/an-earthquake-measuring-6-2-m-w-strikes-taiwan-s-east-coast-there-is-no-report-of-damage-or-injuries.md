@@ -16,3 +16,8 @@
 3. [A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca killing at least five people and damaging housing and infrastructure already damaged by Tuesday's 2017 Central Mexico earthquake. ](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-mexican-state-of-oaxaca-killing-at-least-five-people-and-damaging-housing-and-infrastructure.md) _Context: magnitude_
 4. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Taiwan_
 5. [A magnitude 7.1 earthquake strikes Mexico, killing at least 220 people and collapsing several buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico City earthquake. ](/news/2017/09/19/a-magnitude-7-1-earthquake-strikes-mexico-killing-at-least-220-people-and-collapsing-several-buildings-in-mexico-city-and-widespread-evacua.md) _Context: magnitude_
+
+### Changes:
+
+1. [ An earthquake measuring 6.2 M w strikes Taiwan's east coast. There is no report of damage or injuries. ](/news/2007/01/25/an-earthquake-measuring-6-2-mw-strikes-taiwan-s-east-coast-there-is-no-report-of-damage-or-injuries.md) _2017-10-02 03:21:44 (First version)_
+1. [ An earthquake measuring 6.2 M w strikes Taiwan's east coast. There is no report of damage or injuries. ](/news/2007/01/25/an-earthquake-measuring-6-2-m-w-strikes-taiwan-s-east-coast-there-is-no-report-of-damage-or-injuries.md) _(Current version)_

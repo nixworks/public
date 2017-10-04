@@ -19,3 +19,8 @@ Police were investigating today after an officer accidentally discharged a 50,00
 3. [Researchers from London's Natural History Museum claim that ancient skulls found in Gough's Cave in the Cheddar Gorge in the southwestern English county of Somerset show signs of cannibalism. ](/news/2011/02/16/researchers-from-london-s-natural-history-museum-claim-that-ancient-skulls-found-in-gough-s-cave-in-the-cheddar-gorge-in-the-southwestern-en.md) _Context: England, Somerset_
 4. [A hoard of 52,503 Roman coins dating to the third century is found in Somerset, England. ](/news/2010/07/8/a-hoard-of-52-503-roman-coins-dating-to-the-third-century-is-found-in-somerset-england.md) _Context: England, Somerset_
 5. [ A fire destroys the Grand Pier at Weston-super-Mare, Somerset, England. ](/news/2008/07/28/a-fire-destroys-the-grand-pier-at-weston-super-mare-somerset-england.md) _Context: England, Somerset_
+
+### Changes:
+
+1. [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillain-barra-c-syndrome-sufferer-in-somerset-england-prompting.md) _2017-08-27 03:28:56 (First version)_
+1. [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillainabarra-c-syndrome-sufferer-in-somerset-england-prompting.md) _(Current version)_

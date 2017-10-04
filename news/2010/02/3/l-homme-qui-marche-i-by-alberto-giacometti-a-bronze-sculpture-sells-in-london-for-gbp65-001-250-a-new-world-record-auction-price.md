@@ -18,3 +18,8 @@ An Alberto Giacometti bronze sculpture has become the most expensive piece of ar
 3. [At a news briefing in London, the CEO of Smartmatic, the Venezuelan-owned multinational company that provided the election system used in Sunday's election, says the number of those participating in the poll was tampered with, off by at least one million. ](/news/2017/08/2/at-a-news-briefing-in-london-the-ceo-of-smartmatic-the-venezuelan-owned-multinational-company-that-provided-the-election-system-used-in-su.md) _Context: London_
 4. [London's Big Ben, atop Elizabeth Tower, will fall silent for four years beginning 21 August while essential repair works are performed. ](/news/2017/08/14/london-s-big-ben-atop-elizabeth-tower-will-fall-silent-for-four-years-beginning-21-august-while-essential-repair-works-are-performed.md) _Context: London_
 5. [Five men in London are attacked with acid in five linked attacks. Two teenaged suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-linked-attacks-two-teenaged-suspects-are-taken-into-custody.md) _Context: London_
+
+### Changes:
+
+1. [''L'Homme Qui Marche I'' by Alberto Giacometti, a bronze sculpture sells in London for 65,001,250, a new world record auction price. ](/news/2010/02/3/l-homme-qui-marche-i-by-alberto-giacometti-a-bronze-sculpture-sells-in-london-for-ps65-001-250-a-new-world-record-auction-price.md) _2017-08-25 03:27:05 (First version)_
+1. ["L'Homme Qui Marche I" by Alberto Giacometti, a bronze sculpture sells in London for GBP65,001,250, a new world record auction price. ](/news/2010/02/3/l-homme-qui-marche-i-by-alberto-giacometti-a-bronze-sculpture-sells-in-london-for-gbp65-001-250-a-new-world-record-auction-price.md) _(Current version)_

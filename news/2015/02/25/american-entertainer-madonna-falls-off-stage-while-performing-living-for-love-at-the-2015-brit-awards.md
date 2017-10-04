@@ -19,3 +19,8 @@ Madonna has suffered an embarrassing fall at the Brit Awards.
 3. [Singer Madonna is accused by the office of Malawi President Joyce Banda of "bullying state officials" after she reportedly exaggerated her charity's contribution and complained about her treatment on a recent visit to the country. ](/news/2013/04/11/singer-madonna-is-accused-by-the-office-of-malawi-president-joyce-banda-of-bullying-state-officials-after-she-reportedly-exaggerated-her-c.md) _Context: Madonna_
 4. [Madonna exposes her right breast on stage in Istanbul. ](/news/2012/06/11/madonna-exposes-her-right-breast-on-stage-in-istanbul.md) _Context: Madonna_
 5. [Madonna kicks off the MDNA Tour in Tel Aviv, Israel. ](/news/2012/06/1/madonna-kicks-off-the-mdna-tour-in-tel-aviv-israel.md) _Context: Madonna_
+
+### Changes:
+
+1. [2015 Brit Awards: American entertainer Madonna falls off stage while performing "Living for Love" at the 2015 Brit Awards. ](/news/2015/02/25/2015-brit-awards-american-entertainer-madonna-falls-off-stage-while-performing-living-for-love-at-the-2015-brit-awards.md) _2017-08-27 03:42:00 (First version)_
+1. [American entertainer Madonna falls off stage while performing "Living for Love" at the 2015 Brit Awards. ](/news/2015/02/25/american-entertainer-madonna-falls-off-stage-while-performing-living-for-love-at-the-2015-brit-awards.md) _(Current version)_

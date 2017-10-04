@@ -17,3 +17,8 @@
 3. [The campaign of Jon Ossoff wins a lawsuit extending voter registration. ](/news/2017/05/4/the-campaign-of-jon-ossoff-wins-a-lawsuit-extending-voter-registration.md) _Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff_
 4. [Both Paul Ryan and Tom Perez plan to campaign for the local candidates Karen Handel and Jon Ossoff respectively. ](/news/2017/04/20/both-paul-ryan-and-tom-perez-plan-to-campaign-for-the-local-candidates-karen-handel-and-jon-ossoff-respectively.md) _Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff_
 5. [Local Republican candidate Karen Handel says she wants Donald Trump to campaign for her in the district. ](/news/2017/04/19/local-republican-candidate-karen-handel-says-she-wants-donald-trump-to-campaign-for-her-in-the-district.md) _Context: Donald Trump, Georgia's 6th congressional district special election, 2017_
+
+### Changes:
+
+1. [Georgia's 6th congressional district special election, 2017: In a meeting for the NRA, U.S. president Donald Trump criticizes Democratic candidate Jon Ossoff. ](/news/2017/04/28/georgia-s-6th-congressional-district-special-election-2017-in-a-meeting-for-the-nra-u-s-president-donald-trump-criticizes-democratic-can.md) _2017-08-27 03:48:16 (First version)_
+1. [In a meeting for the NRA, U.S. president Donald Trump criticizes Democratic candidate Jon Ossoff. ](/news/2017/04/28/in-a-meeting-for-the-nra-u-s-president-donald-trump-criticizes-democratic-candidate-jon-ossoff.md) _(Current version)_

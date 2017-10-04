@@ -13,7 +13,7 @@ _Context: Constitutional Court, Czech Republic, Lisbon Treaty, Vaclav Klaus, dep
 Pyongyang says it has produced more weapons-grade plutonium from spent fuel rods.
 
 ### [ African countries boycott the United Nations climate talks in Barcelona, Spain, after saying goals set by industrialised countries are too low. ](/news/2009/11/3/african-countries-boycott-the-united-nations-climate-talks-in-barcelona-spain-after-saying-goals-set-by-industrialised-countries-are-too.md)
-_Context: Africa, Barcelona, Spain, United Nations_
+_Context: Africa, Barcelona, Spanish, United Nations_
 
 ### [ Former Bosnian Serb leader Radovan Karadzic attends his war crimes trial for the first time after boycotting previous sittings. ](/news/2009/11/3/former-bosnian-serb-leader-radovan-karada3-4ia-attends-his-war-crimes-trial-for-the-first-time-after-boycotting-previous-sittings.md)
 Former Bosnian Serb leader Radovan Karadzic appeared on Tuesday for an administrative hearing in his war crimes trial, temporarily giving up his boycott to ask for more time to prepare his case. Karadzic, who is acting as his own attorney, refused to attend the opening of the proceedings before the ...

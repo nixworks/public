@@ -17,3 +17,8 @@
 3. [A car bomb explodes at a checkpoint near the Villa Somalia, the President of Somalia Mohamed Abdullahi Mohamed's official residence in Mogadishu, killing at least five people. ](/news/2017/03/21/a-car-bomb-explodes-at-a-checkpoint-near-the-villa-somalia-the-president-of-somalia-mohamed-abdullahi-mohamed-s-official-residence-in-mogad.md) _Context: Mogadishu, President of Somalia, car bomb_
 4. [At least 16 people are killed and 55 injured in an attack on a hotel in Mogadishu, Somalia. Al-Shabaab claims responsibility. ](/news/2016/06/1/at-least-16-people-are-killed-and-55-injured-in-an-attack-on-a-hotel-in-mogadishu-somalia-al-shabaab-claims-responsibility.md) _Context: Mogadishu, Somalian, War in Somalia (2009-present)_
 5. [AMISOM soldiers kill four Somali civilians in the town of Bulla Marer, southwest of Mogadishu. The AU Mission said scared soldiers opened fire when the car the civilians were driving failed to stop at a roadblock. ](/news/2016/04/16/amisom-soldiers-kill-four-somali-civilians-in-the-town-of-bulla-marer-southwest-of-mogadishu-the-au-mission-said-scared-soldiers-opened-fi.md) _Context: Mogadishu, Somalian, War in Somalia (2009-present)_
+
+### Changes:
+
+1. [War in Somalia (2009-present): A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/war-in-somalia-2009-present-a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md) _2017-08-27 03:43:07 (First version)_
+1. [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md) _(Current version)_

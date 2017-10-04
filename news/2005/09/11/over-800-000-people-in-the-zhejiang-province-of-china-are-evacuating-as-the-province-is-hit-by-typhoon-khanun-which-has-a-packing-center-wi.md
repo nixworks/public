@@ -16,3 +16,8 @@
 3. [The death toll from a landslide on Friday in China's Zhejiang province rises to 16 with 21 still missing. ](/news/2015/11/15/the-death-toll-from-a-landslide-on-friday-in-china-s-zhejiang-province-rises-to-16-with-21-still-missing.md) _Context: China, Zhejiang_
 4. [At least four people are dead and 33 injured in a landslide in China's Zhejiang province. ](/news/2015/11/13/at-least-four-people-are-dead-and-33-injured-in-a-landslide-in-china-s-zhejiang-province.md) _Context: China, Zhejiang_
 5. [Eastern China braces for the impact of Typhoon Chan-hom with the province of Zhejiang evacuating 865,000 people in coastal areas. ](/news/2015/07/11/eastern-china-braces-for-the-impact-of-typhoon-chan-hom-with-the-province-of-zhejiang-evacuating-865-000-people-in-coastal-areas.md) _Context: China, Zhejiang_
+
+### Changes:
+
+1. [ Over 800,000 people in the Zhejiang province of China are evacuating as the province is hit by Typhoon Khanun which has a packing center winds of 144 kilometers per hour. ](/news/2005/09/11/over-800-000-people-in-the-zhejiang-province-of-china-are-evacuating-as-the-province-is-hit-by-typhoon-khanun-which-has-a-packing-center-w.md) _2017-08-25 03:16:47 (First version)_
+1. [ Over 800,000 people in the Zhejiang province of China are evacuating as the province is hit by Typhoon Khanun which has a packing center winds of 144 kilometers per hour. ](/news/2005/09/11/over-800-000-people-in-the-zhejiang-province-of-china-are-evacuating-as-the-province-is-hit-by-typhoon-khanun-which-has-a-packing-center-wi.md) _(Current version)_

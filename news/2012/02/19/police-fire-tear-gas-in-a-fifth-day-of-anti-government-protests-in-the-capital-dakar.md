@@ -17,3 +17,9 @@
 3. [Adama Barrow is sworn in as the Gambia's new President at the Gambian embassy in Dakar, Senegal. ](/news/2017/01/19/adama-barrow-is-sworn-in-as-the-gambia-s-new-president-at-the-gambian-embassy-in-dakar-senegal.md) _Context: Dakar_
 4. [Protestors demanding the resignation of President Blaise Compaor set fire to parliament and other official buildings. The Chief of the Army dismisses the government and national assembly and announces a curfew and a transition time of one year. Compaor fled to Dakar, Senegal. ](/news/2014/10/30/protestors-demanding-the-resignation-of-president-blaise-compaore-set-fire-to-parliament-and-other-official-buildings-the-chief-of-the-army.md) _Context: Dakar_
 5. [Aminata Tour is dismissed as Prime Minister of Senegal by the country's parliament following her failure to win a seat from Dakar in the 2014 local elections. ](/news/2014/07/4/aminata-toure-is-dismissed-as-prime-minister-of-senegal-by-the-country-s-parliament-following-her-failure-to-win-a-seat-from-dakar-in-the-20.md) _Context: Dakar_
+
+### Changes:
+
+1. [2012 Senegalese protests:Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/2012-senegalese-protests-ppolice-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md) _2017-08-25 03:35:05 (First version)_
+2. [2012 Senegalese protests:: Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/2012-senegalese-protests-police-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md) _2017-08-27 03:35:14 (Update)_
+2. [Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/police-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md) _(Current version)_

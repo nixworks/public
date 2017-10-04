@@ -18,3 +18,9 @@ The White House on Wednesday confirmed the authenticity of an Internet video tha
 3. [The White House releases a proposed budget that includes an increase in spending for the military but a decrease in healthcare and welfare. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-but-a-decrease-in-healthcare-and-welfare.md) _Context: White House_
 4. [President Donald Trump's pick for the U.S. Supreme Court, Neil Gorsuch, is sworn in at the White House. ](/news/2017/04/10/president-donald-trump-s-pick-for-the-u-s-supreme-court-neil-gorsuch-is-sworn-in-at-the-white-house.md) _Context: White House_
 5. [President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-advisor-in-the-white-house.md) _Context: White House_
+
+### Changes:
+
+1. [Syrian Civil War:A spokesman for the White House confirms that a video showing American journalist Steven Sotloff being beheaded is authentic. ](/news/2014/09/3/syrian-civil-war-pa-spokesman-for-the-white-house-confirms-that-a-video-showing-american-journalist-steven-sotloff-being-beheaded-is-authent.md) _2017-08-25 03:40:56 (First version)_
+2. [Syrian Civil War:: A spokesman for the White House confirms that a video showing American journalist Steven Sotloff being beheaded is authentic. ](/news/2014/09/3/syrian-civil-war-a-spokesman-for-the-white-house-confirms-that-a-video-showing-american-journalist-steven-sotloff-being-beheaded-is-authen.md) _2017-08-27 03:41:14 (Update)_
+2. [A spokesman for the White House confirms that a video showing American journalist Steven Sotloff being beheaded is authentic. ](/news/2014/09/3/a-spokesman-for-the-white-house-confirms-that-a-video-showing-american-journalist-steven-sotloff-being-beheaded-is-authentic.md) _(Current version)_

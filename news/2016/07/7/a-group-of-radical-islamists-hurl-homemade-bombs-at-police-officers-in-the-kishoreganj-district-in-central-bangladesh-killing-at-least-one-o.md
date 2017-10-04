@@ -17,3 +17,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 3. [Police fire rubber bullets to disperse rioting garment workers as protests spread beyond the capital Dhaka to other Bangladeshi cities. ](/news/2010/07/31/police-fire-rubber-bullets-to-disperse-rioting-garment-workers-as-protests-spread-beyond-the-capital-dhaka-to-other-bangladeshi-cities.md) _Context: Bangladesh, police officers_
 4. [ At least 47 people drown after a ferry capsizes in Kishoreganj District, Bangladesh. ](/news/2009/12/4/at-least-47-people-drown-after-a-ferry-capsizes-in-kishoreganj-district-bangladesh.md) _Context: Bangladesh, Kishoreganj District_
 5. [ The Bangladesh Police arrest 31 suspected Hizb ut-Tahrir members for planning terrorism. ](/news/2009/04/17/the-bangladesh-police-arrest-31-suspected-hizb-ut-tahrir-members-for-planning-terrorism.md) _Context: Bangladesh, police officers_
+
+### Changes:
+
+1. [Terrorism in Bangladesh: A group of radical Islamists hurl homemade bombs at police officers in the Kishoreganj District in central Bangladesh killing at least one officer and injuring several others. ](/news/2016/07/7/terrorism-in-bangladesh-a-group-of-radical-islamists-hurl-homemade-bombs-at-police-officers-in-the-kishoreganj-district-in-central-banglade.md) _2017-08-27 03:46:26 (First version)_
+1. [A group of radical Islamists hurl homemade bombs at police officers in the Kishoreganj District in central Bangladesh killing at least one officer and injuring several others. ](/news/2016/07/7/a-group-of-radical-islamists-hurl-homemade-bombs-at-police-officers-in-the-kishoreganj-district-in-central-bangladesh-killing-at-least-one-o.md) _(Current version)_

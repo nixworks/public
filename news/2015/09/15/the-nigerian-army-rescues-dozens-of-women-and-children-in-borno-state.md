@@ -16,3 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Boko Haram insurgency, Borno State_
 4. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Boko Haram insurgency, Borno State_
 5. [A Nigerian Air Force jet mistakenly bombs a refugee camp in Borno State, near the border with Cameroon, killing at least 90 people and injuring more than 100. The pilot reportedly believed he was attacking Boko Haram militants. ](/news/2017/01/17/a-nigerian-air-force-jet-mistakenly-bombs-a-refugee-camp-in-borno-state-near-the-border-with-cameroon-killing-at-least-90-people-and-injur.md) _Context: Boko Haram insurgency, Borno State_
+
+### Changes:
+
+1. [Boko Haram insurgency: 2015 West African offensive: The Nigerian Army rescues dozens of women and children in Borno State. ](/news/2015/09/15/boko-haram-insurgency-2015-west-african-offensive-the-nigerian-army-rescues-dozens-of-women-and-children-in-borno-state.md) _2017-08-27 03:43:03 (First version)_
+1. [The Nigerian Army rescues dozens of women and children in Borno State. ](/news/2015/09/15/the-nigerian-army-rescues-dozens-of-women-and-children-in-borno-state.md) _(Current version)_

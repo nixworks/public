@@ -17,3 +17,8 @@
 3. [At least 60 people are killed and 110 wounded in a twin-suicide bomb attack in the town of Sayyidah Zaynab, Rif Dimashq Governorate, near Syria's holiest Shi'ite shrine, the Sayyidah Zaynab Mosque. The Islamic State of Iraq and the Levant claim responsibility for the attack. ](/news/2016/01/31/at-least-60-people-are-killed-and-110-wounded-in-a-twin-suicide-bomb-attack-in-the-town-of-sayyidah-zaynab-rif-dimashq-governorate-near-sy.md) _Context: Shi'ite_
 4. [The Associated Press reports that Kurds in Syria established a new administration in the Sunni-Arab town of Tal Abyad, which the Kurds wrestled from ISIS last June. ](/news/2015/10/22/the-associated-press-reports-that-kurds-in-syria-established-a-new-administration-in-the-sunni-arab-town-of-tal-abyad-which-the-kurds-wrest.md) _Context: Sunni_
 5. [A bomb in a Shi'ite mosque in the Pakistani city of Rawalpindi kills at least two people and injures six. ](/news/2015/02/18/a-bomb-in-a-shi-ite-mosque-in-the-pakistani-city-of-rawalpindi-kills-at-least-two-people-and-injures-six.md) _Context: Shi'ite_
+
+### Changes:
+
+1. [Shia insurgency in Yemen: At least 16 people are killed in clashes between Shi'ite Muslim tribesmen and Yemeni government forces and allied Sunni tribesmen. ](/news/2014/05/20/shia-insurgency-in-yemen-at-least-16-people-are-killed-in-clashes-between-shi-ite-muslim-tribesmen-and-yemeni-government-forces-and-allied.md) _2017-08-27 03:40:43 (First version)_
+1. [At least 16 people are killed in clashes between Shi'ite Muslim tribesmen and Yemeni government forces and allied Sunni tribesmen. ](/news/2014/05/20/at-least-16-people-are-killed-in-clashes-between-shi-ite-muslim-tribesmen-and-yemeni-government-forces-and-allied-sunni-tribesmen.md) _(Current version)_

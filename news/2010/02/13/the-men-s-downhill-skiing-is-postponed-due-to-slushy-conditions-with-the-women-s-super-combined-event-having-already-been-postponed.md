@@ -13,3 +13,9 @@ Vancouvers Olympic troubles continued on Saturday as the mens downhill skiing ev
 4. [Sky Sports](http://www.skysports.com/story/0,19528,12040_5947136,00.html)
 5. [The Times](http://www.timesonline.co.uk/tol/sport/olympics/article7026060.ece)
 5. [Cover Image](http://e0.365dm.com/10/02/150x150/skiing_2419272.jpg?20100213130213)
+
+### Changes:
+
+1. [2010 Winter Olympics in Vancouver:The men's downhill skiing is postponed due to "slushy conditions", with the women's super-combined event having already been postponed. ](/news/2010/02/13/2010-winter-olympics-in-vancouver-pthe-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event.md) _2017-08-25 03:27:09 (First version)_
+2. [2010 Winter Olympics in Vancouver:: The men's downhill skiing is postponed due to "slushy conditions", with the women's super-combined event having already been postponed. ](/news/2010/02/13/2010-winter-olympics-in-vancouver-the-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event.md) _2017-08-27 03:27:04 (Update)_
+2. [The men's downhill skiing is postponed due to "slushy conditions", with the women's super-combined event having already been postponed. ](/news/2010/02/13/the-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event-having-already-been-postponed.md) _(Current version)_

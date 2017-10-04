@@ -16,3 +16,8 @@
 3. [Two suicide bombers kill at least 24 people and injure 112 others at a market in northern Cameroon. ](/news/2016/02/19/two-suicide-bombers-kill-at-least-24-people-and-injure-112-others-at-a-market-in-northern-cameroon.md) _Context: Boko Haram insurgency, Cameroon_
 4. [Suicide bombers kill at least 32 people and injure 66 others in northern Cameroon, near the border with Nigeria. ](/news/2016/01/25/suicide-bombers-kill-at-least-32-people-and-injure-66-others-in-northern-cameroon-near-the-border-with-nigeria.md) _Context: Boko Haram insurgency, Cameroon_
 5. [An overnight raid by suspected Boko Haram militants on Niger's southern border town of Abadam, kills two Nigerien Army soldiers and three civilians. And, separately, a suicide-bomb attack on Lake Chad killed three of the attackers but no one else. A military convoy was also ambushed by militants in northern Cameroon, although there were no reported deaths. ](/news/2015/12/23/an-overnight-raid-by-suspected-boko-haram-militants-on-niger-s-southern-border-town-of-abadam-kills-two-nigerien-army-soldiers-and-three-ci.md) _Context: Boko Haram insurgency, Far North Region_
+
+### Changes:
+
+1. [Boko Haram insurgency: At least 15 people are killed and 50 are wounded following two suicide bombings in Cameroon's Far North Region. ](/news/2016/06/30/boko-haram-insurgency-at-least-15-people-are-killed-and-50-are-wounded-following-two-suicide-bombings-in-cameroon-s-far-north-region.md) _2017-08-27 03:46:22 (First version)_
+1. [At least 15 people are killed and 50 are wounded following two suicide bombings in Cameroon's Far North Region. ](/news/2016/06/30/at-least-15-people-are-killed-and-50-are-wounded-following-two-suicide-bombings-in-cameroon-s-far-north-region.md) _(Current version)_

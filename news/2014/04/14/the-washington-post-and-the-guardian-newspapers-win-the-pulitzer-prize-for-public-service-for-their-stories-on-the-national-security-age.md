@@ -17,3 +17,8 @@
 3. [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md) _Context: Edward Snowden, National Security Agency_
 4. ["The Guardian" deputy editor Paul Johnson confirms that British law enforcement agencies have threatened to close the newspaper over its role in publishing global surveillance information obtained from U.S. whistleblower Edward Snowden. ](/news/2014/03/26/the-guardian-deputy-editor-paul-johnson-confirms-that-british-law-enforcement-agencies-have-threatened-to-close-the-newspaper-over-its-rol.md) _Context: Edward Snowden, The Guardian_
 5. ["The Guardian" reports that the National Security Agency collects data from hundreds of millions of text messages each day. ](/news/2014/01/16/the-guardian-reports-that-the-national-security-agency-collects-data-from-hundreds-of-millions-of-text-messages-each-day.md) _Context: National Security Agency, The Guardian_
+
+### Changes:
+
+1. [The ''Washington Post'' and ''The Guardian'' newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security.md) _2017-08-25 03:40:17 (First version)_
+1. [The "Washington Post" and "The Guardian" newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security-age.md) _(Current version)_

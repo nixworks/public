@@ -17,3 +17,8 @@ Strong winds from tropical cyclone Ula were being felt in Vanuatu&#39;s Tafea pr
 3. [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md) _Context: Vanuatu_
 4. [Dozens of people in Vanuatu are in shelters as Cyclone Cook hits the island. It is due to pass through New Caledonia tomorrow. ](/news/2017/04/9/dozens-of-people-in-vanuatu-are-in-shelters-as-cyclone-cook-hits-the-island-it-is-due-to-pass-through-new-caledonia-tomorrow.md) _Context: Vanuatu_
 5. [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md) _Context: Vanuatu_
+
+### Changes:
+
+1. [2015-16 South Pacific cyclone season: Residents of the islands of Tafea are urged to seek shelter as Severe Tropical Cyclone Ula approaches Vanuatu. ](/news/2016/01/10/2015-16-south-pacific-cyclone-season-residents-of-the-islands-of-tafea-are-urged-to-seek-shelter-as-severe-tropical-cyclone-ula-approache.md) _2017-08-27 03:44:38 (First version)_
+1. [Residents of the islands of Tafea are urged to seek shelter as Severe Tropical Cyclone Ula approaches Vanuatu. ](/news/2016/01/10/residents-of-the-islands-of-tafea-are-urged-to-seek-shelter-as-severe-tropical-cyclone-ula-approaches-vanuatu.md) _(Current version)_

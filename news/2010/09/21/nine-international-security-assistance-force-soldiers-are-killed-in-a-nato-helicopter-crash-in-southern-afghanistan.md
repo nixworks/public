@@ -20,3 +20,8 @@ A helicopter crash Tuesday brought the number of NATO service members killed in 
 3. [A helicopter crash kills two American NATO soldiers in eastern Afghanistan. ](/news/2013/04/9/a-helicopter-crash-kills-two-american-nato-soldiers-in-eastern-afghanistan.md) _Context: Afghanistan, NATO, helicopter_
 4. [A United States helicopter crashes near Kandahar in southern Afghanistan, killing one coalition service member and injuring another. ](/news/2013/03/16/a-united-states-helicopter-crashes-near-kandahar-in-southern-afghanistan-killing-one-coalition-service-member-and-injuring-another.md) _Context: Afghanistan, International Security Assistance Force, helicopter_
 5. [Four members of the NATO-led International Security Assistance Force are killed in Afghanistan's Kapisa province. ](/news/2012/06/9/four-members-of-the-nato-led-international-security-assistance-force-are-killed-in-afghanistan-s-kapisa-province.md) _Context: Afghanistan, International Security Assistance Force, NATO_
+
+### Changes:
+
+1. [War in Afghanistan (2001-present): Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/war-in-afghanistan-2001-present-nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern.md) _2017-08-27 03:30:12 (First version)_
+1. [Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern-afghanistan.md) _(Current version)_

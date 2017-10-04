@@ -18,3 +18,11 @@ Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;acro
 3. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
 4. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
 5. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
+
+### Changes:
+
+1. [European heatwaveFirefirghters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/european-heatwavepfirefirghters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2017-07-25 11:30:06 (First version)_
+2. [European Firefirghters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/european-firefirghters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2017-07-25 13:30:06 (Update)_
+3. [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2017-08-25 03:48:16 (Update)_
+4. [2017 heat wave in Europe: Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europe-firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2017-08-27 03:48:43 (Update)_
+4. [Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _(Current version)_

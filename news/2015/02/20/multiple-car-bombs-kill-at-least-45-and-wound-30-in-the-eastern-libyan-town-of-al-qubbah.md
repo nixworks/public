@@ -18,3 +18,8 @@ A multiple bomb attack by Islamic State militants in Libya has killed at least 4
 3. [U.S. B-2 stealth bombers strike two ISIL camps, south of the city of Sirte, Libya, killing more than 80 militants, according to United States Secretary of Defense Ash Carter. ](/news/2017/01/19/u-s-b-2-stealth-bombers-strike-two-isil-camps-south-of-the-city-of-sirte-libya-killing-more-than-80-militants-according-to-united-state.md) _Context: Libya, Libyan Civil War (2014-present)_
 4. [ At least eight are killed in clashes in Tripoli, Libya. ](/news/2016/12/2/at-least-eight-are-killed-in-clashes-in-tripoli-libya.md) _Context: Libya, Libyan Civil War (2014-present)_
 5. [An ISIL sniper in Sirte, Libya, shoots dead Dutch photographer and war correspondent Jeroen Oerlemans. ](/news/2016/10/2/an-isil-sniper-in-sirte-libya-shoots-dead-dutch-photographer-and-war-correspondent-jeroen-oerlemans.md) _Context: Libya, Libyan Civil War (2014-present)_
+
+### Changes:
+
+1. [Libyan Civil War (2014-present): Multiple car bombs kill at least 45 and wound 30 in the eastern Libyan town of Al Qubbah. ](/news/2015/02/20/libyan-civil-war-2014-present-multiple-car-bombs-kill-at-least-45-and-wound-30-in-the-eastern-libyan-town-of-al-qubbah.md) _2017-08-27 03:41:58 (First version)_
+1. [Multiple car bombs kill at least 45 and wound 30 in the eastern Libyan town of Al Qubbah. ](/news/2015/02/20/multiple-car-bombs-kill-at-least-45-and-wound-30-in-the-eastern-libyan-town-of-al-qubbah.md) _(Current version)_

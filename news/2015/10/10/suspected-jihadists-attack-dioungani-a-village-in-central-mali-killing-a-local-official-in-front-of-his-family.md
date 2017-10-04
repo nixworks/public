@@ -16,3 +16,8 @@
 3. [Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. ](/news/2017/06/18/gunmen-storm-a-popular-tourist-resort-near-the-malian-capital-bamako-at-least-two-people-are-reportedly-killed-malian-troops-and-france-s.md) _Context: Mali_
 4. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _Context: Mali_
 5. [President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-world-leaders-after-yesterday-s-failed-attempts-at-persuad.md) _Context: Mali_
+
+### Changes:
+
+1. [Mali conflict: Suspected jihadists attack Dioungani, a village in central Mali, killing a local official in front of his family. ](/news/2015/10/10/mali-conflict-suspected-jihadists-attack-dioungani-a-village-in-central-mali-killing-a-local-official-in-front-of-his-family.md) _2017-08-27 03:43:18 (First version)_
+1. [Suspected jihadists attack Dioungani, a village in central Mali, killing a local official in front of his family. ](/news/2015/10/10/suspected-jihadists-attack-dioungani-a-village-in-central-mali-killing-a-local-official-in-front-of-his-family.md) _(Current version)_

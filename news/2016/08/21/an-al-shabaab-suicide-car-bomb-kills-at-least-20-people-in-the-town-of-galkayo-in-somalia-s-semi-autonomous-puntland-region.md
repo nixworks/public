@@ -17,3 +17,8 @@
 3. [Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.md) _Context: Al-Shabaab, Somalian, War in Somalia (2009-present)_
 4. [The United States is to deploy troops to Somalia for the first time since 1994 to help train the Somali Armed Forces in their conflict with al-Shabaab insurgents. ](/news/2017/04/14/the-united-states-is-to-deploy-troops-to-somalia-for-the-first-time-since-1994-to-help-train-the-somali-armed-forces-in-their-conflict-with.md) _Context: Al-Shabaab, Somalian, War in Somalia (2009-present)_
 5. [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md) _Context: Al-Shabaab, Somalian, War in Somalia (2009-present)_
+
+### Changes:
+
+1. [War in Somalia (2009-present): An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. ](/news/2016/08/21/war-in-somalia-2009-present-an-al-shabaab-suicide-car-bomb-kills-at-least-20-people-in-the-town-of-galkayo-in-somalia-s-semi-autonomous.md) _2017-08-27 03:46:41 (First version)_
+1. [An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. ](/news/2016/08/21/an-al-shabaab-suicide-car-bomb-kills-at-least-20-people-in-the-town-of-galkayo-in-somalia-s-semi-autonomous-puntland-region.md) _(Current version)_

@@ -17,3 +17,8 @@ A special forces base in Libya has been seized by militias, the fighters and off
 3. [The Libyan National Army fights with rebels occupying oil ports near Benghazi. ](/news/2014/03/22/the-libyan-national-army-fights-with-rebels-occupying-oil-ports-near-benghazi.md) _Context: Benghazi, Post-civil war violence in Libya_
 4. [Libyan police found the bodies of seven Egyptian Christians shot dead execution-style on a beach near the city of Benghazi. ](/news/2014/02/24/libyan-police-found-the-bodies-of-seven-egyptian-christians-shot-dead-execution-style-on-a-beach-near-the-city-of-benghazi.md) _Context: Benghazi, Post-civil war violence in Libya_
 5. [Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-benghazi-from-ansar-al-sharia.md) _Context: Benghazi_
+
+### Changes:
+
+1. [Post-civil war violence in Libya: Islamist militias capture a special forces base in Benghazi. ](/news/2014/07/30/post-civil-war-violence-in-libya-islamist-militias-capture-a-special-forces-base-in-benghazi.md) _2017-08-27 03:41:05 (First version)_
+1. [Islamist militias capture a special forces base in Benghazi. ](/news/2014/07/30/islamist-militias-capture-a-special-forces-base-in-benghazi.md) _(Current version)_

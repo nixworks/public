@@ -17,3 +17,8 @@ Former Labour MP Jim Devine is jailed for 16 months at the Old Bailey for fraudu
 3. [Former British Labour Party minister Elliot Morley pleads guilty to dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/04/7/former-british-labour-party-minister-elliot-morley-pleads-guilty-to-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-expenses.md) _Context: Labour, MPs expenses_
 4. [British Labour MP Eric Illsley resigns his seat two days before he is due to be sentenced for dishonestly claiming parliamentary expenses, thus triggering a by-election. ](/news/2011/02/8/british-labour-mp-eric-illsley-resigns-his-seat-two-days-before-he-is-due-to-be-sentenced-for-dishonestly-claiming-parliamentary-expenses-t.md) _Context: Labour, MPs expenses_
 5. [Former British Labour MP David Chaytor is sentenced to 18 months imprisonment for fraudulently claiming more than GBP20,000 in expenses. ](/news/2011/01/7/former-british-labour-mp-david-chaytor-is-sentenced-to-18-months-imprisonment-for-fraudulently-claiming-more-than-agbp20-000-in-expenses.md) _Context: Labour, MPs expenses_
+
+### Changes:
+
+1. [Former British Labour MP Jim Devine is jailed for 16 months for fraudulently claiming PS8,385 in expenses. ](/news/2011/03/31/former-british-labour-mp-jim-devine-is-jailed-for-16-months-for-fraudulently-claiming-aps8-385-in-expenses.md) _2017-08-25 03:32:42 (First version)_
+1. [Former British Labour MP Jim Devine is jailed for 16 months for fraudulently claiming GBP8,385 in expenses. ](/news/2011/03/31/former-british-labour-mp-jim-devine-is-jailed-for-16-months-for-fraudulently-claiming-agbp8-385-in-expenses.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [ North Korea announces that arrested American journalists Euna Lee and Laura Ling will be tried on June 4. ](/news/2009/05/14/north-korea-announces-that-arrested-american-journalists-euna-lee-and-laura-ling-will-be-tried-on-june-4.md) _Context: journalism_
 4. [ An Iranian appellate court releases imprisoned American journalist Roxana Saberi. ](/news/2009/05/11/an-iranian-appellate-court-releases-imprisoned-american-journalist-roxana-saberi.md) _Context: journalism_
 5. [ Two American Current TV journalists will be tried on criminal charges in North Korea. ](/news/2009/04/24/two-american-current-tv-journalists-will-be-tried-on-criminal-charges-in-north-korea.md) _Context: journalism_
+
+### Changes:
+
+1. [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraska-lincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md) _2017-08-27 03:36:43 (First version)_
+1. [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraskaalincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md) _(Current version)_

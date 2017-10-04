@@ -7,7 +7,7 @@ _Context: Bloc Qubcois, Canada, Conservative Party's, Liberal Party's, New Democ
 _Context: Afghanistan, Helmand, suicide bomb_
 
 ### [ United States President-elect Barack Obama announces his national security team to his transition advisory board, among them being Senator Hillary Clinton of New York, who was nominated Secretary of State. ](/news/2008/12/1/united-states-president-elect-barack-obama-announces-his-national-security-team-to-his-transition-advisory-board-among-them-being-senator.md)
-_Context: Barack Obama, Hillary Clinton, New York State, United States Secretary of State, transition_
+_Context: Barack Obama, Hillary Clinton, New York State, Secretary of State, transition_
 
 ### [ The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters-to-bangkok-s-two-airports-su.md)
 _Context: Don Muang, Suvarnabhumi, Thai Government House, yellow shirt_

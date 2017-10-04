@@ -17,3 +17,8 @@ The Russian embassy in the Syrian capital of Damascus was shelled on Tuesday, wi
 3. [Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carry-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing-a.md) _Context: Russia, Syrian Civil War_
 4. [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md) _Context: Russia, Syrian Civil War_
 5. [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md) _Context: Russia, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: The Russian embassy in Damascus is shelled. ](/news/2015/05/19/syrian-civil-war-the-russian-embassy-in-damascus-is-shelled.md) _2017-08-27 03:42:20 (First version)_
+1. [The Russian embassy in Damascus is shelled. ](/news/2015/05/19/the-russian-embassy-in-damascus-is-shelled.md) _(Current version)_

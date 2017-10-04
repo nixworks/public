@@ -16,3 +16,8 @@
 3. [Iraqi officials, following arrested IS militants' directions, uncover two mass graves with bodies of about 40 people in Ramadi. ](/news/2016/04/19/iraqi-officials-following-arrested-is-militants-directions-uncover-two-mass-graves-with-bodies-of-about-40-people-in-ramadi.md) _Context: Iraq, Islamic State, Ramadi_
 4. [Iraqi Armed Forces announce the complete recapture of the city of Ramadi in western Iraq's Anbar Province from the Islamic State, along with the reopening of the Ramadi-Baghdad road. ](/news/2016/02/9/iraqi-armed-forces-announce-the-complete-recapture-of-the-city-of-ramadi-in-western-iraq-s-anbar-province-from-the-islamic-state-along-with.md) _Context: Anbar province, Islamic State, Ramadi_
 5. [Iraqi officials say the country's forces have managed to retake large parts of the key city of Ramadi from Islamic State of Iraq and the Levant militants. ](/news/2015/12/8/iraqi-officials-say-the-country-s-forces-have-managed-to-retake-large-parts-of-the-key-city-of-ramadi-from-islamic-state-of-iraq-and-the-lev.md) _Context: Iraq, Islamic State, Ramadi_
+
+### Changes:
+
+1. [Islamic State of Iraq and the Levant: Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/islamic-state-of-iraq-and-the-levant-fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-c.md) _2017-08-27 03:42:12 (First version)_
+1. [Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-capital-ramadi.md) _(Current version)_

@@ -9,3 +9,8 @@ Three people remain in critical condition after an alleged firebomb attack on th
 
 1. [Independent](http://www.independent.co.uk/news/world/asia/hong-kong-firebomb-arson-metro-commuters-rush-tsim-sha-tsui-cheung-kam-fai-a7576306.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/12/15/hong-kong-fire.jpg)
+
+### Changes:
+
+1. [ In Hong Kong, over 16 were injured, and an incoherent man was charged with arson after an alleged firebomb attack on a rush hour Hong Kong metro commuter train. The man set fire to himself and others with a flammable liquid for an unspecified personal reason, but officials found no evidence of a terrorist motive. ](/news/2017/02/10/in-hong-kong-over-16-were-injured-and-an-incoherent-man-was-charged-with-arson-after-an-alleged-firebomb-attack-on-a-rush-hour-hong-kon.md) _2017-08-25 03:47:23 (First version)_
+1. [ In Hong Kong, over 16 were injured, and an incoherent man was charged with arson after an alleged firebomb attack on a rush hour Hong Kong metro commuter train. The man set fire to himself and others with a flammable liquid for an unspecified personal reason, but officials found no evidence of a terrorist motive. ](/news/2017/02/10/in-hong-kong-over-16-were-injured-and-an-incoherent-man-was-charged-with-arson-after-an-alleged-firebomb-attack-on-a-rush-hour-hong-kong.md) _(Current version)_

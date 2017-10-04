@@ -16,3 +16,8 @@
 3. [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md) _Context: Governor General of Canada_
 4. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canada_
 5. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canada_
+
+### Changes:
+
+1. [David Lloyd Johnston, president of the University of Waterloo, is announced as Canada's next Governor General. He will succeed Michaelle Jean in September. ](/news/2010/07/8/david-lloyd-johnston-president-of-the-university-of-waterloo-is-announced-as-canada-s-next-governor-general-he-will-succeed-michaa-lle-j.md) _2017-08-25 03:28:37 (First version)_
+1. [David Lloyd Johnston, president of the University of Waterloo, is announced as Canada's next Governor General. He will succeed Michaelle Jean in September. ](/news/2010/07/8/david-lloyd-johnston-president-of-the-university-of-waterloo-is-announced-as-canada-s-next-governor-general-he-will-succeed-michaa-lle-je.md) _(Current version)_

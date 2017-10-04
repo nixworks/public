@@ -16,3 +16,8 @@
 3. [Nearly 100,000 people rally in Okinawa, Japan, demanding the removal of an American base from the island. ](/news/2010/04/25/nearly-100-000-people-rally-in-okinawa-japan-demanding-the-removal-of-an-american-base-from-the-island.md) _Context: Americans, Japan, Okinawa_
 4. [The citizens of Nago, Okinawa, elect mayor Susumu Inamine, an opponent of the U.S. Marine Corps Air Station Futenma, which is crucial for Japan - United States relations. ](/news/2010/01/24/the-citizens-of-nago-okinawa-elect-mayor-susumu-inamine-an-opponent-of-the-u-s-marine-corps-air-station-futenma-which-is-crucial-for-ja.md) _Context: Americans, Japan, Marine Corps Air Station Futenma_
 5. [ Thousands of people in Okinawa, Japan protest, demanding the removal of a U.S. military base. ](/news/2009/11/8/thousands-of-people-in-okinawa-japan-protest-demanding-the-removal-of-a-u-s-military-base.md) _Context: Americans, Japan, Okinawa_
+
+### Changes:
+
+1. [The ''Yomiuri'' reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by.md) _2017-08-25 03:33:01 (First version)_
+1. [The "Yomiuri" reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by-2.md) _(Current version)_

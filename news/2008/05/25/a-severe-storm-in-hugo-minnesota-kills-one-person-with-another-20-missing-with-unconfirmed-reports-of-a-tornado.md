@@ -17,3 +17,9 @@
 3. [ Tornadoes of 2008: The Governor of Nebraska Dave Heineman declares a state of emergency in relation to tornadoes in the towns of Kearney, Nebraska, and Aurora, Nebraska. ](/news/2008/05/29/tornadoes-of-2008-the-governor-of-nebraska-dave-heineman-declares-a-state-of-emergency-in-relation-to-tornadoes-in-the-towns-of-kearney-n.md) _Context: Tornadoes of 2008, tornado_
 4. [ Tornadoes of 2008: Two people from Colorado die in a tornado south of Pratt, Kansas as more than a dozen tornadoes hit Kansas. ](/news/2008/05/24/tornadoes-of-2008-two-people-from-colorado-die-in-a-tornado-south-of-pratt-kansas-as-more-than-a-dozen-tornadoes-hit-kansas.md) _Context: Tornadoes of 2008, tornado_
 5. [ Tornadoes sweep through central and southeastern Virginia injuring more than 200 people and damaging multiple houses. ](/news/2008/04/28/tornadoes-sweep-through-central-and-southeastern-virginia-injuring-more-than-200-people-and-damaging-multiple-houses.md) _Context: Tornadoes of 2008, tornado_
+
+### Changes:
+
+1. [ USA A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/usa-a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md) _2017-08-25 03:22:13 (First version)_
+2. [ USA Tornadoes of 2008: A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/usa-tornadoes-of-2008-a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md) _2017-08-27 03:22:08 (Update)_
+2. [ A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md) _(Current version)_

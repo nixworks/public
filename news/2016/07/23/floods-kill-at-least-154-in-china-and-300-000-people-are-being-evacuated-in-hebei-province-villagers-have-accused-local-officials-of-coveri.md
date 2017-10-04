@@ -16,3 +16,8 @@
 3. [ At least 123 miners are missing following an explosion at a coal mine in China's Hebei province, the official Xinhua news agency says. ](/news/2005/12/6/at-least-123-miners-are-missing-following-an-explosion-at-a-coal-mine-in-china-s-hebei-province-the-official-xinhua-news-agency-says.md) _Context: China, Hebei_
 4. [ In China, a group of farmers in Shengyou village in Hebei province that demonstrated over seizure of an arable land for the power plant, win in a dispute. ](/news/2005/07/21/in-china-a-group-of-farmers-in-shengyou-village-in-hebei-province-that-demonstrated-over-seizure-of-an-arable-land-for-the-power-plant-wi.md) _Context: China, Hebei_
 5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
+
+### Changes:
+
+1. [July 2016 North China cyclone: Floods kill at least 154 in China and 300,000 people are being evacuated in Hebei province. Villagers have accused local officials of covering up the extent of the damage. ](/news/2016/07/23/july-2016-north-china-cyclone-floods-kill-at-least-154-in-china-and-300-000-people-are-being-evacuated-in-hebei-province-villagers-have-ac.md) _2017-08-27 03:46:32 (First version)_
+1. [Floods kill at least 154 in China and 300,000 people are being evacuated in Hebei province. Villagers have accused local officials of covering up the extent of the damage. ](/news/2016/07/23/floods-kill-at-least-154-in-china-and-300-000-people-are-being-evacuated-in-hebei-province-villagers-have-accused-local-officials-of-coveri.md) _(Current version)_

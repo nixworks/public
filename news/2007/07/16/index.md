@@ -1,7 +1,7 @@
 ## [2007-07-16](/news/2007/07/16/index.md)
 
 ### [ Felisa Miceli, the Argentine Economy Minister, resigns over approximately $60,000 found in a bag in her office. ](/news/2007/07/16/felisa-miceli-the-argentine-economy-minister-resigns-over-approximately-60-000-found-in-a-bag-in-her-office.md)
-_Context: Argentina, Felisa Miceli, US$_
+_Context: $, Argentina, Felisa Miceli_
 
 ### [ The President of the United States George W. Bush and the President of Poland Lech Kaczynski agree to proceed with building a missile defense system in Europe despite Russian concerns. ](/news/2007/07/16/the-president-of-the-united-states-george-w-bush-and-the-president-of-poland-lech-kaczyaski-agree-to-proceed-with-building-a-missile-defe.md)
 _Context: Europe, George W. Bush, Lech Kaczynski, President, Russia, missile defense shield_

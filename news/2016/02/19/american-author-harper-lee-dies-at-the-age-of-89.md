@@ -14,3 +14,8 @@ American novelist Harper Lee, author of Pulitzer Prize-winning To Kill a Mocking
 
 1. [American author Harper Lee announced plans to publish her second book, a sequel to "To Kill a Mockingbird", that was completed in the 1950s but misplaced. July 14, 2015 will be the release date for "Go Set a Watchman". ](/news/2015/02/3/american-author-harper-lee-announced-plans-to-publish-her-second-book-a-sequel-to-to-kill-a-mockingbird-that-was-completed-in-the-1950s.md) _Context: Harper Lee_
 2. [American author Harper Lee files a lawsuit claiming that a literary agent tricked her into relinquishing the copyright on her book, "To Kill a Mockingbird". ](/news/2013/05/4/american-author-harper-lee-files-a-lawsuit-claiming-that-a-literary-agent-tricked-her-into-relinquishing-the-copyright-on-her-book-to-kill.md) _Context: Harper Lee_
+
+### Changes:
+
+1. [Italian author and philosopher Umberto Eco dies at the age of 84. ](/news/2016/02/19/italian-author-and-philosopher-umberto-eco-dies-at-the-age-of-84.md) _2017-10-03 03:48:18 (First version)_
+1. [American author Harper Lee dies at the age of 89. ](/news/2016/02/19/american-author-harper-lee-dies-at-the-age-of-89.md) _(Current version)_

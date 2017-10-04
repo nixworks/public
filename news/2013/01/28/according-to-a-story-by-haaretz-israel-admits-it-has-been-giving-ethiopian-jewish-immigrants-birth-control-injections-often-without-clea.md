@@ -17,3 +17,8 @@ Israel has admitted for the first time that it has been giving Ethiopian Jewish 
 3. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _Context: Israel_
 4. [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md) _Context: Israel_
 5. [Israel plans to shut down all of Al Jazeera's operations in the country, alleging support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-alleging-support-of-terrorism.md) _Context: Israel_
+
+### Changes:
+
+1. [According to a story by ''Haaretz'', Israel admits it has been giving Ethiopian Jewish immigrants birth-control injections, often without clearly explaining the effects of the drugs. ](/news/2013/01/28/according-to-a-story-by-haaretz-israel-admits-it-has-been-giving-ethiopian-jewish-immigrants-birth-control-injections-often-without-cl.md) _2017-08-25 03:37:21 (First version)_
+1. [According to a story by "Haaretz", Israel admits it has been giving Ethiopian Jewish immigrants birth-control injections, often without clearly explaining the effects of the drugs. ](/news/2013/01/28/according-to-a-story-by-haaretz-israel-admits-it-has-been-giving-ethiopian-jewish-immigrants-birth-control-injections-often-without-clea.md) _(Current version)_

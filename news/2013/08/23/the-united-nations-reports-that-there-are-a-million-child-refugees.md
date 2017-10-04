@@ -18,3 +18,9 @@ The longer chemical weapons inspectors wait in a Damascus luxury hotel for permi
 3. [ The United Nations launches a food assistance program to assist Iraqi refugees in Syria. ](/news/2007/09/1/the-united-nations-launches-a-food-assistance-program-to-assist-iraqi-refugees-in-syria.md) _Context: United Nations, refugee_
 4. [ Gunmen kill at least 156 people &ndash; mainly women and children &ndash; in an overnight raid on the Gatumba camp for Congolese Tutsi refugees in Burundi, the UN says. ](/news/2004/08/14/gunmen-kill-at-least-156-people-ndash-mainly-women-and-children-ndash-in-an-overnight-raid-on-the-gatumba-camp-for-congolese-tutsi-refu.md) _Context: United Nations, refugee_
 5. [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md) _Context: refugee_
+
+### Changes:
+
+1. [Syrian civil war:The United Nations reports that there are a million child refugees. ](/news/2013/08/23/syrian-civil-war-pthe-united-nations-reports-that-there-are-a-million-child-refugees.md) _2017-08-25 03:39:12 (First version)_
+2. [Syrian civil war:: The United Nations reports that there are a million child refugees. ](/news/2013/08/23/syrian-civil-war-the-united-nations-reports-that-there-are-a-million-child-refugees.md) _2017-08-27 03:39:27 (Update)_
+2. [The United Nations reports that there are a million child refugees. ](/news/2013/08/23/the-united-nations-reports-that-there-are-a-million-child-refugees.md) _(Current version)_

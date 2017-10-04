@@ -15,3 +15,8 @@
 ### Related:
 
 1. [Nicolaus Copernicus is disinterred from an unmarked grave and reburied by Poland. ](/news/2010/05/22/nicolaus-copernicus-is-disinterred-from-an-unmarked-grave-and-reburied-by-poland.md) _Context: Nicolaus Copernicus_
+
+### Changes:
+
+1. [Element 112 is officially named ''Copernicium'' and assigned the symbol ''Cn'' on the 537th anniversary of the birthday of Nicolaus Copernicus. ](/news/2010/02/19/element-112-is-officially-named-copernicium-and-assigned-the-symbol-cn-on-the-537th-anniversary-of-the-birthday-of-nicolaus-copernic.md) _2017-08-25 03:27:11 (First version)_
+1. [Element 112 is officially named "Copernicium" and assigned the symbol "Cn" on the 537th anniversary of the birthday of Nicolaus Copernicus. ](/news/2010/02/19/element-112-is-officially-named-copernicium-and-assigned-the-symbol-cn-on-the-537th-anniversary-of-the-birthday-of-nicolaus-copernicus.md) _(Current version)_

@@ -14,3 +14,8 @@ There was applause and a sense of relief in Vanuatu&#39;s parliament today as Ta
 
 1. [Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. ](/news/2017/06/17/baldwin-lonsdale-the-president-of-vanuatu-dies-suddenly-of-a-heart-attack-at-age-67-parliament-speaker-esmon-saimon-takes-his-post-as-act.md) _Context: Baldwin Lonsdale, President of Vanuatu_
 2. [ Iolu Abil is elected the President of Vanuatu during the third round of the Vanuatuan presidential election. ](/news/2009/09/2/iolu-abil-is-elected-the-president-of-vanuatu-during-the-third-round-of-the-vanuatuan-presidential-election.md) _Context: President of Vanuatu_
+
+### Changes:
+
+1. [Elections in Vanuatu: Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/elections-in-vanuatu-tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office.md) _2017-08-27 03:48:37 (First version)_
+1. [Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office-in-june.md) _(Current version)_

@@ -18,3 +18,8 @@ A suicide attack on a Turkish embassy vehicle in the Afghan capital, Kabul, kill
 3. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Kabul, War in Afghanistan_
 4. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: Kabul, Taliban_
 5. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md) _Context: Kabul, Taliban_
+
+### Changes:
+
+1. [War in Afghanistan: A Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. ](/news/2015/02/26/war-in-afghanistan-a-taliban-suicide-bomb-attack-on-a-turkish-government-vehicle-in-kabul-kills-at-least-one-person.md) _2017-08-27 03:42:01 (First version)_
+1. [A Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. ](/news/2015/02/26/a-taliban-suicide-bomb-attack-on-a-turkish-government-vehicle-in-kabul-kills-at-least-one-person.md) _(Current version)_

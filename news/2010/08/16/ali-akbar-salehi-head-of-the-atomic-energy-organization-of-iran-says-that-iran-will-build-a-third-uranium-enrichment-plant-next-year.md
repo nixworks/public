@@ -18,3 +18,8 @@ Nuke chief Salehi: New uranium enrichment site to open next year.
 3. [Ali Akbar Salehi, former Iranian foreign minister, is appointed as head of Atomic Energy Organization of Iran. ](/news/2013/08/16/ali-akbar-salehi-former-iranian-foreign-minister-is-appointed-as-head-of-atomic-energy-organization-of-iran.md) _Context: Ali Akbar Salehi, Iran nuclear chief_
 4. [Iran's negotiator Saeed Jalili defends the nation's controversial nuclear program that involves uranium enrichment, in a new round of talks with P5+1 countries in Kazakhstan. ](/news/2013/04/5/iran-s-negotiator-saeed-jalili-defends-the-nation-s-controversial-nuclear-program-that-involves-uranium-enrichment-in-a-new-round-of-talks.md) _Context: Iran, enriched uranium_
 5. [International Atomic Energy Agency nuclear inspectors arrive in Tehran to hold discussions about Iran's nuclear program. ](/news/2012/02/20/international-atomic-energy-agency-nuclear-inspectors-arrive-in-tehran-to-hold-discussions-about-iran-s-nuclear-program.md) _Context: Iran, nuclear program_
+
+### Changes:
+
+1. [Iran nuclear program: Ali Akbar Salehi, head of the Atomic Energy Organization of Iran, says that Iran will build a third uranium enrichment plant next year. ](/news/2010/08/16/iran-nuclear-program-ali-akbar-salehi-head-of-the-atomic-energy-organization-of-iran-says-that-iran-will-build-a-third-uranium-enrichment.md) _2017-08-27 03:29:32 (First version)_
+1. [Ali Akbar Salehi, head of the Atomic Energy Organization of Iran, says that Iran will build a third uranium enrichment plant next year. ](/news/2010/08/16/ali-akbar-salehi-head-of-the-atomic-energy-organization-of-iran-says-that-iran-will-build-a-third-uranium-enrichment-plant-next-year.md) _(Current version)_

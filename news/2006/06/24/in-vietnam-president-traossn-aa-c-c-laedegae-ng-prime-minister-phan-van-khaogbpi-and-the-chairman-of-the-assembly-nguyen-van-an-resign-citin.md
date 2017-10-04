@@ -16,3 +16,8 @@
 3. [The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-a.md) _Context: Prime Minister_
 4. [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md) _Context: Vietnam_
 5. [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md) _Context: Vietnam_
+
+### Changes:
+
+1. [ In Vietnam, President Tran Duc Luong, Prime Minister Phan Van Khai and the Chairman of the Assembly Nguyen Van An resign, citing old age. ](/news/2006/06/24/in-vietnam-president-traossn-aa-c-c-laedegae-ng-prime-minister-phan-van-khaopsi-and-the-chairman-of-the-assembly-nguyen-van-an-resign-citing.md) _2017-08-25 03:17:49 (First version)_
+1. [ In Vietnam, President Tran Duc Luong, Prime Minister Phan Van KhGBPi and the Chairman of the Assembly Nguyen Van An resign, citing old age. ](/news/2006/06/24/in-vietnam-president-traossn-aa-c-c-laedegae-ng-prime-minister-phan-van-khaogbpi-and-the-chairman-of-the-assembly-nguyen-van-an-resign-citin.md) _(Current version)_

@@ -34,7 +34,7 @@ _Context: Hungary, Zsa Zsa Gabor_
 _Context: California, Google, U.S. state_
 
 ### [Gabon signs over US$4 billion of contracts with Indian and Singaporean companies for infrastructure projects, on the eve of the country's 50th anniversary since independence. ](/news/2010/08/14/gabon-signs-over-us-4-billion-of-contracts-with-indian-and-singaporean-companies-for-infrastructure-projects-on-the-eve-of-the-country-s-50.md)
-_Context: Gabon, India, Singapore, US$_
+_Context: $, Gabon, India, Singapore_
 
 ### [The United Nations states Niger faces its worst hunger crisis in history, worse than 2005 when thousands of people were left to starve to death. ](/news/2010/08/14/the-united-nations-states-niger-faces-its-worst-hunger-crisis-in-history-worse-than-2005-when-thousands-of-people-were-left-to-starve-to-de.md)
 _Context: Niger, United Nations_
@@ -67,7 +67,7 @@ _Context: ASEAN, Fiji, Melanesian Spearhead Group, Pacific Islands Forum, Timor-
 British and Japanese ultranationalists will shrug off protests from war veterans in an unlikely show of solidarity at a controversial Tokyo memorial today, on the 65th anniversary of Japan&#039;s surrender in the Second World War.
 
 ### [Spain extradites Rifat Hadziahmetovic, an alleged member of the Pink Panthers, to Japan in relation to a 2007 jewel robbery in Tokyo. ](/news/2010/08/14/spain-extradites-rifat-hadziahmetovic-an-alleged-member-of-the-pink-panthers-to-japan-in-relation-to-a-2007-jewel-robbery-in-tokyo.md)
-_Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spain, Tokyo, extradited_
+_Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spanish, Tokyo, extradited_
 
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
 _Context: Americans, Louis Berger Group, U.S. Agency for International Development, foreign aid, prosecutor_

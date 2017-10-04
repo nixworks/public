@@ -17,3 +17,8 @@ Israel confirms it imprisoned an Australian-Israeli man under a false identity f
 3. [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md) _Context: Israel_
 4. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _Context: Israel_
 5. [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md) _Context: Israel_
+
+### Changes:
+
+1. [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australian-israeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md) _2017-08-27 03:37:42 (First version)_
+1. [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australianaisraeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md) _(Current version)_

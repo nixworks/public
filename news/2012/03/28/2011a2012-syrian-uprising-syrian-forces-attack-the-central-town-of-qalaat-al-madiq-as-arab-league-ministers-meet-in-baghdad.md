@@ -18,3 +18,8 @@ Fighting continues in Syria as the Arab League meets over the crisis, with the g
 3. [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011a2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md) _Context: 2011-2012 Syrian uprising, Arab League_
 4. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its plan to end the violence in Syria. ](/news/2012/01/26/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-plan-to-end-the-violence-in-syria.md) _Context: 2011-2012 Syrian uprising, Arab League_
 5. [2011-2012 Syrian uprising: Arab League ministers meet in Cairo, Egypt, to discuss the extension of its monitoring mission in Syria. ](/news/2012/01/22/2011a2012-syrian-uprising-arab-league-ministers-meet-in-cairo-egypt-to-discuss-the-extension-of-its-monitoring-mission-in-syria.md) _Context: 2011-2012 Syrian uprising, Arab League_
+
+### Changes:
+
+1. [2011-2012 Syrian uprising: Syrian forces attack the central town of Qalaat al-Madiq as Arab League ministers meet in Baghdad. ](/news/2012/03/28/2011-2012-syrian-uprising-syrian-forces-attack-the-central-town-of-qalaat-al-madiq-as-arab-league-ministers-meet-in-baghdad.md) _2017-08-27 03:35:31 (First version)_
+1. [2011-2012 Syrian uprising: Syrian forces attack the central town of Qalaat al-Madiq as Arab League ministers meet in Baghdad. ](/news/2012/03/28/2011a2012-syrian-uprising-syrian-forces-attack-the-central-town-of-qalaat-al-madiq-as-arab-league-ministers-meet-in-baghdad.md) _(Current version)_

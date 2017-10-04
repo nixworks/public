@@ -16,3 +16,8 @@
 3. [A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _Context: Beirut, Hezbollah_
 4. [A Hezbollah official Hassan al-Lakkis is assassinated outside his home in Hadath, south of the Lebanese capital Beirut with Hezbollah blaming Israel. ](/news/2013/12/4/a-hezbollah-official-hassan-al-lakkis-is-assassinated-outside-his-home-in-hadath-south-of-the-lebanese-capital-beirut-with-hezbollah-blamin.md) _Context: Beirut, Hezbollah_
 5. [Two suicide bombers target the Iranian embassy in the Lebanese capital Beirut killing at least 23 people. ](/news/2013/11/19/two-suicide-bombers-target-the-iranian-embassy-in-the-lebanese-capital-beirut-killing-at-least-23-people.md) _Context: Beirut, Syrian Civil War spillover in Lebanon_
+
+### Changes:
+
+1. [Syrian Civil War spillover in Lebanon: Two people are killed and 38 injured in a bombing of a Hezbollah stronghold in Beirut. ](/news/2014/02/19/syrian-civil-war-spillover-in-lebanon-two-people-are-killed-and-38-injured-in-a-bombing-of-a-hezbollah-stronghold-in-beirut.md) _2017-08-27 03:40:21 (First version)_
+1. [Two people are killed and 38 injured in a bombing of a Hezbollah stronghold in Beirut. ](/news/2014/02/19/two-people-are-killed-and-38-injured-in-a-bombing-of-a-hezbollah-stronghold-in-beirut.md) _(Current version)_

@@ -16,3 +16,8 @@ The Western-allied president&rsquo;s weakened position is likely to spell troubl
 3. [Fierce battles between army and Houthi rebels continue for third day in the Yemeni capital Sana'a, killing 123 people and forcing hundreds to flee their homes. ](/news/2014/09/20/fierce-battles-between-army-and-houthi-rebels-continue-for-third-day-in-the-yemeni-capital-sana-a-killing-123-people-and-forcing-hundreds-t.md) _Context: Houthi, Shia insurgency in Yemen_
 4. [ Yemeni government forces say they have killed a leader during fighting with Houthi rebels in the north of the country. ](/news/2009/11/19/yemeni-government-forces-say-they-have-killed-a-leader-during-fighting-with-houthi-rebels-in-the-north-of-the-country.md) _Context: Houthi, Shia insurgency in Yemen_
 5. [ Two Saudi soldiers are killed and five wounded killed in fighting with Houthi rebels in northern Yemen. ](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.md) _Context: Houthi, Shia insurgency in Yemen_
+
+### Changes:
+
+1. [Shia insurgency in Yemen: Houthi rebels take over the residence of the President amidst calls by the rebel leader for negotiations to adjust the country's power structure. ](/news/2015/01/20/shia-insurgency-in-yemen-houthi-rebels-take-over-the-residence-of-the-president-amidst-calls-by-the-rebel-leader-for-negotiations-to-adjust.md) _2017-08-27 03:41:49 (First version)_
+1. [Houthi rebels take over the residence of the President amidst calls by the rebel leader for negotiations to adjust the country's power structure. ](/news/2015/01/20/houthi-rebels-take-over-the-residence-of-the-president-amidst-calls-by-the-rebel-leader-for-negotiations-to-adjust-the-country-s-power-struc.md) _(Current version)_

@@ -17,3 +17,9 @@ Coalition confirms 2 killed as apparent suicide attack in east of Afghan capital
 3. [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md) _Context: Afghanistan, Kabul_
 4. [Gunfire is heard in the Afghan capital Kabul with security forces looking for attackers with at least one person killed and six injured. ](/news/2016/09/6/gunfire-is-heard-in-the-afghan-capital-kabul-with-security-forces-looking-for-attackers-with-at-least-one-person-killed-and-six-injured.md) _Context: Afghanistan, Kabul_
 5. [Indian External Affairs Minister Sushma Swaraj announces Indian charity worker Judith D'Souza (Aga Khan Foundation), who was kidnapped in Kabul, Afghanistan, on June 9, 2016, is free. ](/news/2016/07/23/indian-external-affairs-minister-sushma-swaraj-announces-indian-charity-worker-judith-d-souza-aga-khan-foundation-who-was-kidnapped-in-ka.md) _Context: Afghanistan, Kabul_
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/war-in-afghanistan-2001-present-pa-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _2017-08-25 03:40:00 (First version)_
+2. [War in Afghanistan (2001-present):: A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/war-in-afghanistan-2001-present-a-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _2017-08-27 03:40:18 (Update)_
+2. [A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/a-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _(Current version)_

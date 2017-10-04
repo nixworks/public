@@ -16,3 +16,8 @@
 3. [ Thailand declares emergency in three southern provinces of Narathiwat, Pattani and Yala because of increasing violence of Muslim insurgency. ](/news/2005/07/17/thailand-declares-emergency-in-three-southern-provinces-of-narathiwat-pattani-and-yala-because-of-increasing-violence-of-muslim-insurgency.md) _Context: Narathiwat, Pattani, Thailand, Yala_
 4. [Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md) _Context: Narathiwat, South Thailand insurgency, Thailand_
 5. [A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-least-one-death.md) _Context: Pattani, South Thailand insurgency, Thailand_
+
+### Changes:
+
+1. [South Thailand insurgency: Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/south-thailand-insurgency-emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-month.md) _2017-08-27 03:40:52 (First version)_
+1. [Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-months.md) _(Current version)_

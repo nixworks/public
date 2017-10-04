@@ -22,3 +22,8 @@ Islamic State militants claim gun and bomb assault on Indonesia&#039;s capital t
 3. [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md) _Context: Indonesia, Jakarta_
 4. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Indonesia, Jakarta_
 5. [One person has died and hundreds of people have been evacuated after heavy rain in the Indonesian capital Jakarta. ](/news/2016/02/29/one-person-has-died-and-hundreds-of-people-have-been-evacuated-after-heavy-rain-in-the-indonesian-capital-jakarta.md) _Context: Indonesia, Jakarta_
+
+### Changes:
+
+1. [2016 Jakarta attacks: Bomb blasts and gunfire are reported in the centre of the Indonesian capital Jakarta. At least seven deaths have been reported. ](/news/2016/01/14/2016-jakarta-attacks-bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been.md) _2017-08-27 03:44:40 (First version)_
+1. [Bomb blasts and gunfire are reported in the centre of the Indonesian capital Jakarta. At least seven deaths have been reported. ](/news/2016/01/14/bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been-reported.md) _(Current version)_

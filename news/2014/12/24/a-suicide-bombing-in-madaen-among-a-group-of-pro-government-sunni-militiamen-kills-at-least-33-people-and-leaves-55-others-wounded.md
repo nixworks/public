@@ -17,3 +17,9 @@ A suicide bomber killed 33 people and wounded 55 others in Madaen, about 25 km (
 3. [Clashes with ISIL in Anbar province kill twenty-three Iraqi Army soldiers and allied Sunni fighters. ](/news/2015/01/6/clashes-with-isil-in-anbar-province-kill-twenty-three-iraqi-army-soldiers-and-allied-sunni-fighters.md) _Context: Sunni_
 4. [Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/over-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-western-iraq.md) _Context: Sunni_
 5. [Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-governorate.md) _Context: Sunni_
+
+### Changes:
+
+1. [Iraqi insurgency:A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/iraqi-insurgency-pa-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-others.md) _2017-08-25 03:41:23 (First version)_
+2. [Iraqi insurgency:: A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/iraqi-insurgency-a-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-other.md) _2017-08-27 03:41:41 (Update)_
+2. [A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/a-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-others-wounded.md) _(Current version)_

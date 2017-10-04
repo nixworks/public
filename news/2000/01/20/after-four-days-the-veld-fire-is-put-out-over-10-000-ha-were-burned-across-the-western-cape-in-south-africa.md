@@ -12,3 +12,8 @@
 3. [The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-pr.md) _Context: South Africa_
 4. [At least 20 schoolchildren are killed after their minibus collides with a truck in Mpumalanga, South Africa. ](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.md) _Context: South Africa_
 5. [At least nine people are killed in fires overnight in Cape Town, South Africa. ](/news/2017/03/11/at-least-nine-people-are-killed-in-fires-overnight-in-cape-town-south-africa.md) _Context: South Africa_
+
+### Changes:
+
+1. [Table Mountain Fire (2000): After four days, the veld fire is put out. Over 10,000 ha were burned across the Western Cape, in South Africa.](/news/2000/01/20/table-mountain-fire-2000-after-four-days-the-veld-fire-is-put-out-over-10-000-ha-were-burned-across-the-western-cape-in-south-africa.md) _2017-08-27 03:15:07 (First version)_
+1. [After four days, the veld fire is put out. Over 10,000 ha were burned across the Western Cape, in South Africa.](/news/2000/01/20/after-four-days-the-veld-fire-is-put-out-over-10-000-ha-were-burned-across-the-western-cape-in-south-africa.md) _(Current version)_

@@ -16,3 +16,9 @@
 ### Related:
 
 1. [ The Iranian Parliament begins debating President Mahmoud Ahmadinejads choice of Cabinet. ](/news/2009/08/30/the-iranian-parliament-begins-debating-president-mahmoud-ahmadinejads-choice-of-cabinet.md) _Context: Islamic Consultative Assembly of Iran_
+
+### Changes:
+
+1. [ Iranian ministerial appointments: The Islamic Consultative Assembly of Iran approves at least 18 ministers for the 21 available posts. ](/news/2009/09/3/iranian-ministerial-appointments-p-the-islamic-consultative-assembly-of-iran-approves-at-least-18-ministers-for-the-21-available-posts.md) _2017-08-25 03:25:38 (First version)_
+2. [ Iranian ministerial appointments:: The Islamic Consultative Assembly of Iran approves at least 18 ministers for the 21 available posts. ](/news/2009/09/3/iranian-ministerial-appointments-the-islamic-consultative-assembly-of-iran-approves-at-least-18-ministers-for-the-21-available-posts.md) _2017-08-27 03:25:31 (Update)_
+2. [ The Islamic Consultative Assembly of Iran approves at least 18 ministers for the 21 available posts. ](/news/2009/09/3/the-islamic-consultative-assembly-of-iran-approves-at-least-18-ministers-for-the-21-available-posts.md) _(Current version)_

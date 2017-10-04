@@ -17,3 +17,8 @@ In addition to the presidential museum and gardens, the new center will feature 
 3. [Barack Obama chooses his home city of Chicago for his presidential library. ](/news/2016/07/27/barack-obama-chooses-his-home-city-of-chicago-for-his-presidential-library.md) _Context: Barack Obama, Chicago, presidential library_
 4. [ United States President Barack Obama ends the American arms embargo with Vietnam during his visit in the country. ](/news/2016/05/23/united-states-president-barack-obama-ends-the-american-arms-embargo-with-vietnam-during-his-visit-in-the-country.md) _Context: Americans, Barack Obama, U.S. President_
 5. [President Barack Obama says the United States isn't taking North Korean Foreign Minister Ri Su-yong's proposal to halt nuclear activity seriously. Pyongyang would "have to do better than that," he added. ](/news/2016/04/24/president-barack-obama-says-the-united-states-isn-t-taking-north-korean-foreign-minister-ri-su-yong-s-proposal-to-halt-nuclear-activity-seri.md) _Context: Americans, Barack Obama, U.S. President_
+
+### Changes:
+
+1. [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama is revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-is-revealed.md) _2017-05-03 23:30:08 (First version)_
+1. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _(Current version)_

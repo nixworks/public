@@ -17,3 +17,8 @@ Two U.S. service members were killed and five injured during combat operations i
 3. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: Iraqi Civil War (2014-present)_
 4. [At least 21 people are killed after two suicide bombers attack a wedding party near Tikrit. ](/news/2017/03/8/at-least-21-people-are-killed-after-two-suicide-bombers-attack-a-wedding-party-near-tikrit.md) _Context: Iraqi Civil War (2014-present)_
 5. [The Iraqi Army retakes Mosul Museum as well as the main government building in Mosul. ](/news/2017/03/7/the-iraqi-army-retakes-mosul-museum-as-well-as-the-main-government-building-in-mosul.md) _Context: Iraqi Civil War (2014-present)_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): During combat operations in northern Iraq, two U.S. service members are killed and five injured. ](/news/2017/08/13/iraqi-civil-war-2014-present-during-combat-operations-in-northern-iraq-two-u-s-service-members-are-killed-and-five-injured.md) _2017-08-27 03:48:48 (First version)_
+1. [During combat operations in northern Iraq, two U.S. service members are killed and five injured. ](/news/2017/08/13/during-combat-operations-in-northern-iraq-two-u-s-service-members-are-killed-and-five-injured.md) _(Current version)_

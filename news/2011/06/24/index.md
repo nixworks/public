@@ -4,7 +4,7 @@
 Osama bin Laden used the militant group Harakat-ul-Mujahedeen, which has links to Pakistani intelligence, as part of his support network.
 
 ### [Hillary Clinton, the United States Secretary of State, warns of a possible escalation of the 2011 Syrian uprising as Syrian Army forces mass near the border with Turkey. ](/news/2011/06/24/hillary-clinton-the-united-states-secretary-of-state-warns-of-a-possible-escalation-of-the-2011-syrian-uprising-as-syrian-army-forces-mass.md)
-_Context: 2011 Syrian uprising, Hillary Clinton, Syrian Army, Turkey, United States Secretary of State_
+_Context: 2011 Syrian uprising, Hillary Clinton, Secretary of State, Syrian Army, Turkey_
 
 ### [Three explosions hit the Myanmar cities of Naypyidaw, Mandalay and Pyin U Lwin. ](/news/2011/06/24/three-explosions-hit-the-myanmar-cities-of-naypyidaw-mandalay-and-pyin-u-lwin.md)
 _Context: Mandalay, Myanmar, Naypyidaw, Pyin U Lwin_

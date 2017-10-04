@@ -20,3 +20,9 @@ Rioting spreads to a number of cities with unrest in Manchester and Liverpool, w
 3. [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md) _Context: England, Manchester_
 4. [At least five workers are killed after a wall collapses on them at a recycling plant in Birmingham, England. ](/news/2016/07/7/at-least-five-workers-are-killed-after-a-wall-collapses-on-them-at-a-recycling-plant-in-birmingham-england.md) _Context: Birmingham, England_
 5. [A fire severely damages the 16th century Wythenshawe Hall, near Manchester, England. ](/news/2016/03/15/a-fire-severely-damages-the-16th-century-wythenshawe-hall-near-manchester-england.md) _Context: England, Manchester_
+
+### Changes:
+
+1. [England riots:Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/england-riots-prioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-large.md) _2017-08-25 03:33:59 (First version)_
+2. [England riots:: Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/england-riots-rioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-larg.md) _2017-08-27 03:34:06 (Update)_
+2. [Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/rioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-largely-quiet.md) _(Current version)_

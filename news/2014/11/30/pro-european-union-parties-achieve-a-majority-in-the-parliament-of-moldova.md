@@ -16,3 +16,8 @@
 3. [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md) _Context: EU_
 4. [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md) _Context: EU_
 5. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: EU_
+
+### Changes:
+
+1. [Moldovan parliamentary election: Pro-European Union parties achieve a majority in the Parliament of Moldova. ](/news/2014/11/30/moldovan-parliamentary-election-pro-european-union-parties-achieve-a-majority-in-the-parliament-of-moldova.md) _2017-08-27 03:41:34 (First version)_
+1. [Pro-European Union parties achieve a majority in the Parliament of Moldova. ](/news/2014/11/30/pro-european-union-parties-achieve-a-majority-in-the-parliament-of-moldova.md) _(Current version)_

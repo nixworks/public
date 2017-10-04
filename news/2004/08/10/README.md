@@ -10,7 +10,7 @@ _Context: Istanbul, Turkey, bomb_
 _Context: Morocco, Mounir al-Motassadek, September 11, 2001 attacks, al-Qaeda, videolink_
 
 ### [ Libya agrees to pay USD 35 million to some victims of the 1986 Berlin discotheque bombing. ](/news/2004/08/10/libya-agrees-to-pay-usd-35-million-to-some-victims-of-the-1986-berlin-discotheque-bombing.md)
-_Context: 1986 Berlin discotheque bombing, Libya, US$_
+_Context: $, 1986 Berlin discotheque bombing, Libya_
 
 ### [ U.S. President George W. Bush announces his intention to have Porter J. Goss confirmed as the new director of the CIA. ](/news/2004/08/10/u-s-president-george-w-bush-announces-his-intention-to-have-porter-j-goss-confirmed-as-the-new-director-of-the-cia.md)
 _Context: CIA, George W. Bush, Porter J. Goss_

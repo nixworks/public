@@ -17,3 +17,8 @@
 3. [French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. ](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.md) _Context: Antarctica, Australia_
 4. [Remains of the first plane taken to Antarctica in 1912 are discovered by Australian researchers. ](/news/2010/01/3/remains-of-the-first-plane-taken-to-antarctica-in-1912-are-discovered-by-australian-researchers.md) _Context: Antarctica, Australia_
 5. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
+
+### Changes:
+
+1. [Australian icebreaker, ''Aurora Australis'', runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austr.md) _2017-08-25 03:44:40 (First version)_
+1. [Australian icebreaker, "Aurora Australis", runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austral.md) _(Current version)_

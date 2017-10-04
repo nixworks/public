@@ -21,3 +21,8 @@ The closure of the embassy comes after weeks of concern about the safety of thos
 3. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Homs, Syria_
 4. [ A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. ](/news/2016/04/12/a-russian-air-force-mi-28-attack-helicopter-crashes-near-the-syrian-city-of-homs-killing-two-pilots.md) _Context: Homs, Syria_
 5. [Twin bomb blasts hit the Syrian city of Homs with at least 57 people reportedly killed and more than 100 injured. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/twin-bomb-blasts-hit-the-syrian-city-of-homs-with-at-least-57-people-reportedly-killed-and-more-than-100-injured-the-islamic-state-of-iraq.md) _Context: Homs, Syria_
+
+### Changes:
+
+1. [2011-2012 Syrian uprising: Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/2011-2012-syrian-uprising-syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md) _2017-08-27 03:35:08 (First version)_
+1. [Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md) _(Current version)_

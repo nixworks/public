@@ -17,3 +17,9 @@
 3. [Gunmen attack a Pakistani police training academy in the southwestern city of Quetta, leaving at least 59 people dead and 117 others injured. ISIL - Khorasan Province claims responsibility for the attack. ](/news/2016/10/25/gunmen-attack-a-pakistani-police-training-academy-in-the-southwestern-city-of-quetta-leaving-at-least-59-people-dead-and-117-others-injured.md) _Context: Pakistani police_
 4. [Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. ](/news/2016/04/20/pakistani-taliban-militants-in-two-attacks-kill-seven-police-officers-who-were-guarding-medical-workers-administering-polio-vaccinations-i.md) _Context: Pakistani police_
 5. [ A Pakistani police officer accidentally detonates a grenade in an anti-terrorism court in Karachi, injuring himself and a court assistant. The officer was attempting to demonstrate a grenade detonator to a judge and said the grenade was defused before pulling the pin. ](/news/2016/04/12/a-pakistani-police-officer-accidentally-detonates-a-grenade-in-an-anti-terrorism-court-in-karachi-injuring-himself-and-a-court-assistant.md) _Context: Pakistani police_
+
+### Changes:
+
+1. [ Pakistan: Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/pakistan-p-seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md) _2017-08-25 03:23:42 (First version)_
+2. [ Pakistan:: Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/pakistan-seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md) _2017-08-27 03:23:33 (Update)_
+2. [ Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md) _(Current version)_

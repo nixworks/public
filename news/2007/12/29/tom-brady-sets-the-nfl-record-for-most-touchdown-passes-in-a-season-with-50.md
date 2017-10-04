@@ -12,3 +12,8 @@
 3. [Daryl Washington, an American football player with the Arizona Cardinals, is arrested on aggravated assault charges in Phoenix, Arizona. ](/news/2013/05/3/daryl-washington-an-american-football-player-with-the-arizona-cardinals-is-arrested-on-aggravated-assault-charges-in-phoenix-arizona.md) _Context: NFL_
 4. [Former NFL 1st round draft pick punter for the New Orleans Saints Russell Erxleben is arrested on charges of wire fraud in an alleged Ponzi scheme. ](/news/2013/01/25/former-nfl-1st-round-draft-pick-punter-for-the-new-orleans-saints-russell-erxleben-is-arrested-on-charges-of-wire-fraud-in-an-alleged-ponzi.md) _Context: NFL_
 5. [ Brett Favre, quarterback of the Green Bay Packers announces his retirement from the NFL after 17 years.](/news/2008/03/4/brett-favre-quarterback-of-the-green-bay-packers-announces-his-retirement-from-the-nfl-after-17-years.md) _Context: NFL_
+
+### Changes:
+
+1. [ Randy Moss sets the NFL record for the Most Touchdown Receptions in a season with 23.](/news/2007/12/29/randy-moss-sets-the-nfl-record-for-the-most-touchdown-receptions-in-a-season-with-23.md) _2017-10-03 03:24:18 (First version)_
+1. [ Tom Brady sets the NFL record for Most Touchdown Passes in a season with 50.](/news/2007/12/29/tom-brady-sets-the-nfl-record-for-most-touchdown-passes-in-a-season-with-50.md) _(Current version)_

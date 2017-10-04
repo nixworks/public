@@ -1,7 +1,7 @@
 ## [2004-03-12](/news/2004/03/12/index.md)
 
 ### [ Same-sex marriage in the United States: Oregon's attorney general issues his opinion on same-sex marriage within Oregon. He concludes that current state law prohibits issuing marriage licenses to same-sex couples, but that the Oregon Supreme Court is likely to conclude those statutes violate the state's constitution. The Wisconsin State Senate approves state constitution amendment to ban same-sex marriages or civil unions, to counter efforts elsewhere to legalize such partnerships. ](/news/2004/03/12/same-sex-marriage-in-the-united-states-oregon-s-attorney-general-issues-his-opinion-on-same-sex-marriage-within-oregon-he-concludes-that.md)
-_Context: Oregon, Oregon Supreme Court, State Senators, attorney general, bans, civil union, homosexuality, partnership, same-sex marriage, same-sex marriage, same-sex marriage within Oregon, state's constitution_
+_Context: Oregon, Oregon Supreme Court, State Senators, attorney general, ban, civil union, homosexuality, partnership, same-sex marriage, same-sex marriage, same-sex marriage within Oregon, state's constitution_
 
 ### [ A Utah woman is charged with murder when her child is stillborn, after allegedly refusing a Caesarean section. ](/news/2004/03/12/a-utah-woman-is-charged-with-murder-when-her-child-is-stillborn-after-allegedly-refusing-a-caesarean-section.md)
 _Context: Utah, caesarean section, murder, stillborn_

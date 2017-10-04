@@ -18,3 +18,8 @@ The Israeli navy yesterday seized a ship carrying what defence officials said wa
 3. [Bahrain says it has dismantled a terrorist cell allegedly linked to Iran's Revolutionary Guard and Lebanon's Hezbollah. ](/news/2016/01/6/bahrain-says-it-has-dismantled-a-terrorist-cell-allegedly-linked-to-iran-s-revolutionary-guard-and-lebanon-s-hezbollah.md) _Context: Hezbollah, Iran, Lebanon_
 4. [Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/friends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md) _Context: Hezbollah, Iran, Lebanon_
 5. [A pan-Arab satellite television channel, Al Mayadeen ("The Squares" in Arabic), is launched in Lebanon that is speculated to be a mouthpiece for Iran and Hezbollah. ](/news/2012/06/11/a-pan-arab-satellite-television-channel-al-mayadeen-the-squares-in-arabic-is-launched-in-lebanon-that-is-speculated-to-be-a-mouthpiece.md) _Context: Hezbollah, Iran, Lebanon_
+
+### Changes:
+
+1. [ The Israeli navy intercepts the {{MV|Francop}}, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-mv-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md) _2017-05-01 03:27:33 (First version)_
+1. [ The Israeli navy intercepts the Francop, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md) _(Current version)_

@@ -22,3 +22,10 @@
 3. [Asian stock markets open lower following the fall in the Dow Jones amid speculations about the Federal Reserve's target interest rates. ](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.md) _Context: stock market_
 4. [The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. ](/news/2015/11/16/the-japanese-economy-goes-into-recession-for-the-second-time-since-the-election-of-prime-minister-shinzo-abe.md) _Context: recession_
 5. [Brazil's economy falls into recession. ](/news/2014/08/29/brazil-s-economy-falls-into-recession.md) _Context: recession_
+
+### Changes:
+
+1. [ 2008 stock market downturn: Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. ](/news/2008/01/21/2008-stock-market-downturn-p-stock-markets-around-the-world-plunge-amid-growing-fears-of-a-u-s-recession-fueled-by-the-2007-subprime-mor.md) _2017-05-25 03:22:12 (First version)_
+2. [ 2008 stock market downturn: Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. ](/news/2008/01/21/2008-stock-market-downturn-p-stock-markets-around-the-world-plunge-amid-growing-fears-of-a-u-s-recession-fueled-by-the-2007-subprime-mort.md) _2017-08-25 03:21:40 (Update)_
+3. [ 2008 stock market downturn:: Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. ](/news/2008/01/21/2008-stock-market-downturn-stock-markets-around-the-world-plunge-amid-growing-fears-of-a-u-s-recession-fueled-by-the-2007-subprime-mort.md) _2017-08-27 03:21:35 (Update)_
+3. [ Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. ](/news/2008/01/21/stock-markets-around-the-world-plunge-amid-growing-fears-of-a-u-s-recession-fueled-by-the-2007-subprime-mortgage-financial-crisis.md) _(Current version)_

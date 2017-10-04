@@ -17,3 +17,8 @@
 3. [Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md) _Context: China, South China Sea disputes_
 4. [At a United Nations-Oceans summit, delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their levels of oceanic plastic pollution. ](/news/2017/06/8/at-a-united-nations-oceans-summit-delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into.md) _Context: China, Philippines_
 5. [The Philippines clarifies a controversial remark about a potential "war" with China amid criticism from Filipinos. ](/news/2017/05/22/the-philippines-clarifies-a-controversial-remark-about-a-potential-war-with-china-amid-criticism-from-filipinos.md) _Context: China, Philippines_
+
+### Changes:
+
+1. [South China Sea disputes: The Philippines says it will join the Asian Infrastructure Investment Bank despite disputes between it and the bank's founder, China. ](/news/2015/12/30/south-china-sea-disputes-the-philippines-says-it-will-join-the-asian-infrastructure-investment-bank-despite-disputes-between-it-and-the-ban.md) _2017-08-27 03:44:33 (First version)_
+1. [The Philippines says it will join the Asian Infrastructure Investment Bank despite disputes between it and the bank's founder, China. ](/news/2015/12/30/the-philippines-says-it-will-join-the-asian-infrastructure-investment-bank-despite-disputes-between-it-and-the-bank-s-founder-china.md) _(Current version)_

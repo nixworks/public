@@ -18,3 +18,9 @@
 3. [In Germany, a Hamburg court fines Google EUR145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-a-145-000-for-violating-privacy-laws-with-its-street-view-service.md) _Context: EUR, Germany_
 4. [Angela Merkel, Chancellor of Germany, reaffirms that country's support for the euro in a joint press conference with the Prime Minister of Italy, Silvio Berlusconi. ](/news/2011/01/12/angela-merkel-chancellor-of-germany-reaffirms-that-country-s-support-for-the-euro-in-a-joint-press-conference-with-the-prime-minister-of-i.md) _Context: EUR, Germany_
 5. [Germany offers compensation of EUR3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-a-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md) _Context: EUR, Germany_
+
+### Changes:
+
+1. [ Subprime mortgage crisis: The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/subprime-mortgage-crisis-p-the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md) _2017-08-25 03:22:59 (First version)_
+2. [ Subprime mortgage crisis:: The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/subprime-mortgage-crisis-the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md) _2017-08-27 03:22:53 (Update)_
+2. [ The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md) _(Current version)_

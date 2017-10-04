@@ -15,3 +15,8 @@ Rahami has been charged with five counts of attempted murder of a law enforcemen
 
 1. [A bombing occurs in the Chelsea neighborhood of Manhattan injuring 29 people. ](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.md) _Context: 2016 New York and New Jersey bombings_
 2. [A massive fire burns parts of the boardwalk in Seaside Park, New Jersey. Numerous decades-old buildings are destroyed. ](/news/2013/09/12/a-massive-fire-burns-parts-of-the-boardwalk-in-seaside-park-new-jersey-numerous-decades-old-buildings-are-destroyed.md) _Context: Seaside Park_
+
+### Changes:
+
+1. [2016 New York and New Jersey bombings: A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey. There has been a previous explosion in Seaside Park. No one is hurt. ](/news/2016/09/19/2016-new-york-and-new-jersey-bombings-a-bomb-squad-robot-detonates-an-explosive-device-at-a-transit-station-in-elizabeth-new-jersey-there.md) _2017-08-27 03:46:52 (First version)_
+1. [A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey. There has been a previous explosion in Seaside Park. No one is hurt. ](/news/2016/09/19/a-bomb-squad-robot-detonates-an-explosive-device-at-a-transit-station-in-elizabeth-new-jersey-there-has-been-a-previous-explosion-in-seasi.md) _(Current version)_

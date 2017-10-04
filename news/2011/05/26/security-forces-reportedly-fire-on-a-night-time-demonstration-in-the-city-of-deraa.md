@@ -17,3 +17,9 @@ Syrian security forces fired liverounds on Thursday at hundreds of protesters ma
 3. [2011 Syrian uprising: An Arab League observer witnesses snipers in the Syrian city of Deraa and calls for their immediate removal. ](/news/2011/12/31/2011-syrian-uprising-an-arab-league-observer-witnesses-snipers-in-the-syrian-city-of-deraa-and-calls-for-their-immediate-removal.md) _Context: Deraa_
 4. [A Syrian activist claims that a mass grave has been found in the town of Deraa, the town at the centre of the 2011 Syrian uprising. ](/news/2011/05/16/a-syrian-activist-claims-that-a-mass-grave-has-been-found-in-the-town-of-deraa-the-town-at-the-centre-of-the-2011-syrian-uprising.md) _Context: Deraa_
 5. [The Syrian army continues its assault on the city of Deraa using tanks and snipers. ](/news/2011/04/30/the-syrian-army-continues-its-assault-on-the-city-of-deraa-using-tanks-and-snipers.md) _Context: Deraa_
+
+### Changes:
+
+1. [2011 Syrian protests:Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/2011-syrian-protests-psecurity-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md) _2017-08-25 03:33:16 (First version)_
+2. [2011 Syrian protests:: Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/2011-syrian-protests-security-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md) _2017-08-27 03:33:25 (Update)_
+2. [Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/security-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md) _(Current version)_

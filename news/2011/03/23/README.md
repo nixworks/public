@@ -58,7 +58,7 @@ _Context: Canadian Forces, Canadian House of Commons, Conservative Party's, F-35
 _Context: Jose Socrates, Prime Minister of Portugal, parliament_
 
 ### [Spain bans the new Basque nationalist political party Sortu.](/news/2011/03/23/spain-bans-the-new-basque-nationalist-political-party-sortu.md)
-_Context: Basque separatist, Sortu, Spain_
+_Context: Basque separatist, Sortu, Spanish_
 
 ## [Previous Day...](/news/2011/03/22/index.md)
 

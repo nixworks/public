@@ -18,3 +18,9 @@ On the anniversary of the 9/11 bombings on the US, a car bomb causes serious dam
 3. [A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/a-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensive-damage-to-the.md) _Context: Libya, car bomb_
 4. [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md) _Context: Libya_
 5. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: Libya_
+
+### Changes:
+
+1. [Post-civil war violence in Libya:On the first anniversary of the 2012 Benghazi attack, a powerful car bomb explodes near the Libyan Foreign Ministry building in the city. ](/news/2013/09/11/post-civil-war-violence-in-libya-pon-the-first-anniversary-of-the-2012-benghazi-attack-a-powerful-car-bomb-explodes-near-the-libyan-foreign.md) _2017-08-25 03:39:15 (First version)_
+2. [Post-civil war violence in Libya:: On the first anniversary of the 2012 Benghazi attack, a powerful car bomb explodes near the Libyan Foreign Ministry building in the city. ](/news/2013/09/11/post-civil-war-violence-in-libya-on-the-first-anniversary-of-the-2012-benghazi-attack-a-powerful-car-bomb-explodes-near-the-libyan-foreig.md) _2017-08-27 03:39:32 (Update)_
+2. [On the first anniversary of the 2012 Benghazi attack, a powerful car bomb explodes near the Libyan Foreign Ministry building in the city. ](/news/2013/09/11/on-the-first-anniversary-of-the-2012-benghazi-attack-a-powerful-car-bomb-explodes-near-the-libyan-foreign-ministry-building-in-the-city.md) _(Current version)_

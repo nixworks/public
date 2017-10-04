@@ -22,3 +22,9 @@ Russia formally recognized the independence of South Ossetia and Abkhazia in a c
 3. [ Western donors pledge US$4.5 billion toward the rebuilding of Georgia, which suffered from damage inflicted during short war with Russia, South Ossetia and Abkhazia in August. ](/news/2008/10/22/western-donors-pledge-us-4-5-billion-toward-the-rebuilding-of-georgia-which-suffered-from-damage-inflicted-during-short-war-with-russia-s.md) _Context: Abkhazia, Russia, South Ossetia_
 4. [ Georgia cuts diplomatic ties with Russia following Russian recognition of South Ossetia and Abkhazia. ](/news/2008/08/29/georgia-cuts-diplomatic-ties-with-russia-following-russian-recognition-of-south-ossetia-and-abkhazia.md) _Context: Abkhazia, Russia, South Ossetia_
 5. [ The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-independence-of-georgia-s-b.md) _Context: Abkhazia, Russia, South Ossetia_
+
+### Changes:
+
+1. [ 2008 South Ossetia war: Russia recognises the independence of Abkhazia and South Ossetia.](/news/2008/08/26/2008-south-ossetia-war-p-russia-recognises-the-independence-of-abkhazia-and-south-ossetia.md) _2017-08-25 03:22:46 (First version)_
+2. [ 2008 South Ossetia war:: Russia recognises the independence of Abkhazia and South Ossetia.](/news/2008/08/26/2008-south-ossetia-war-russia-recognises-the-independence-of-abkhazia-and-south-ossetia.md) _2017-08-27 03:22:39 (Update)_
+2. [ Russia recognises the independence of Abkhazia and South Ossetia.](/news/2008/08/26/russia-recognises-the-independence-of-abkhazia-and-south-ossetia.md) _(Current version)_

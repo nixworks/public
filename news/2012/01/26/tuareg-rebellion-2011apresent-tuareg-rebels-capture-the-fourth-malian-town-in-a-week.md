@@ -17,3 +17,8 @@ Rebel group clashes with army as week-long offensive continues into the Azawad a
 3. [Fighting between Tuareg rebels and government troops in Mali kills 47 people. ](/news/2012/01/20/fighting-between-tuareg-rebels-and-government-troops-in-mali-kills-47-people.md) _Context: Mali, Tuareg_
 4. [The International Criminal Court has ruled that Ahmad al-Faqi al-Mahdi is liable for about EUR 2.7 million in personal damages for the destruction of Timbuktu's heritage sites, and that the victims (including Mali itself and the international community) be paid "individual, collective, and symbolic" reparations. The Trust Fund for Victims is to decide until 16 February 2018 how the amount will be paid (the Court has also recognized that the penniless al-Mahdi would be unable to pay). ](/news/2017/08/17/the-international-criminal-court-has-ruled-that-ahmad-al-faqi-al-mahdi-is-liable-for-about-a-2-7-million-in-personal-damages-for-the-destr.md) _Context: Mali_
 5. [A U.N. peacekeeping helicopter crashes during a mission in northern Mali, resulting in the death of two German pilots within. ](/news/2017/07/26/a-u-n-peacekeeping-helicopter-crashes-during-a-mission-in-northern-mali-resulting-in-the-death-of-two-german-pilots-within.md) _Context: Mali_
+
+### Changes:
+
+1. [Tuareg Rebellion (2011-present): Tuareg rebels capture the fourth Malian town in a week. ](/news/2012/01/26/tuareg-rebellion-2011-present-tuareg-rebels-capture-the-fourth-malian-town-in-a-week.md) _2017-08-27 03:35:03 (First version)_
+1. [Tuareg Rebellion (2011-present): Tuareg rebels capture the fourth Malian town in a week. ](/news/2012/01/26/tuareg-rebellion-2011apresent-tuareg-rebels-capture-the-fourth-malian-town-in-a-week.md) _(Current version)_

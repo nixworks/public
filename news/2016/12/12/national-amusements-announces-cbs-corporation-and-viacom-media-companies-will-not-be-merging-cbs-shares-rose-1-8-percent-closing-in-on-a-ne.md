@@ -17,3 +17,8 @@ Media mogul Sumner Redstone and his daughter Shari called off their failed effor
 3. [ Google is ordered to divulge the viewing habits of every user to Viacom if they have watched YouTube videos. ](/news/2008/07/3/google-is-ordered-to-divulge-the-viewing-habits-of-every-user-to-viacom-if-they-have-watched-youtube-videos.md) _Context: Viacom_
 4. [ CBS Corporation agreed to buy the popular computer and technology website CNET Networks for $1.75 billion. ](/news/2008/05/15/cbs-corporation-agreed-to-buy-the-popular-computer-and-technology-website-cnet-networks-for-1-75-billion.md) _Context: CBS Corporation_
 5. [ Viacom's Paramount Pictures agrees to buy the DreamWorks SKG company founded by Steven Spielberg, Jeffrey Katzenberg and David Geffen for $1.6 billion. ](/news/2005/12/9/viacom-s-paramount-pictures-agrees-to-buy-the-dreamworks-skg-company-founded-by-steven-spielberg-jeffrey-katzenberg-and-david-geffen-for.md) _Context: Viacom_
+
+### Changes:
+
+1. [National Amusements announces CBS Corporation and Viacom media companies will not be merging. CBS shares rose 1.8 percent closing in on a nearly 2-1-2 year high while Viacom fell 6.9 percent. ](/news/2016/12/12/national-amusements-announces-cbs-corporation-and-viacom-media-companies-will-not-be-merging-cbs-shares-rose-1-8-percent-closing-in-on-a-n.md) _2017-08-25 03:47:02 (First version)_
+1. [National Amusements announces CBS Corporation and Viacom media companies will not be merging. CBS shares rose 1.8 percent closing in on a nearly 2-1-2 year high while Viacom fell 6.9 percent. ](/news/2016/12/12/national-amusements-announces-cbs-corporation-and-viacom-media-companies-will-not-be-merging-cbs-shares-rose-1-8-percent-closing-in-on-a-ne.md) _(Current version)_

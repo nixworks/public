@@ -18,3 +18,8 @@ Action in Arab town in Negev, following a court order, prompts protest call by M
 3. [Around 300 Bedouins living in "illegal settlements" in Israel's Negev desert have been made homeless after police raided their village and razed their homes. They are to be resettled in Rahat. ](/news/2010/07/28/around-300-bedouins-living-in-illegal-settlements-in-israel-s-negev-desert-have-been-made-homeless-after-police-raided-their-village-and-r.md) _Context: Israel, Rahat_
 4. [ An Israeli airstrike on the mosque in the Gaza Strip village of Beit Lahia kills at least 13 people. ](/news/2009/01/3/an-israeli-airstrike-on-the-mosque-in-the-gaza-strip-village-of-beit-lahia-kills-at-least-13-people.md) _Context: Israel, mosque_
 5. [ Two women have been killed as Israeli troops opened fire on a crowd of women gathered to help besieged gunmen flee a mosque in Beit Hanoun in northern Gaza. ](/news/2006/11/4/two-women-have-been-killed-as-israeli-troops-opened-fire-on-a-crowd-of-women-gathered-to-help-besieged-gunmen-flee-a-mosque-in-beit-hanoun.md) _Context: Israel, mosque_
+
+### Changes:
+
+1. [Israel police fire tear gas and rubber bullets at residents trying to halt demolition of an illegal mosque in the southern Bedouin city of Rahat. ](/news/2010/11/7/israel-police-fire-tear-gas-and-rubber-bullets-at-residents-trying-to-halt-demolition-of-an-illegal-mosque-in-the-southern-bedouin-city-of.md) _2017-08-25 03:30:54 (First version)_
+1. [Israel police fire tear gas and rubber bullets at residents trying to halt demolition of an illegal mosque in the southern Bedouin city of Rahat. ](/news/2010/11/7/israel-police-fire-tear-gas-and-rubber-bullets-at-residents-trying-to-halt-demolition-of-an-illegal-mosque-in-the-southern-bedouin-city-of-r.md) _(Current version)_

@@ -17,3 +17,8 @@ Kuwait says the suicide bomber who carried out a mosque attack claimed by Islami
 3. [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md) _Context: Kuwait, Saudi Arabia_
 4. [A suicide bomber attacks an Iraqi Army post in Al Anbar Governorate on the border with Saudi Arabia, killing at least six guards. ](/news/2015/12/12/a-suicide-bomber-attacks-an-iraqi-army-post-in-al-anbar-governorate-on-the-border-with-saudi-arabia-killing-at-least-six-guards.md) _Context: Saudi Arabia, suicide bomber_
 5. [A suicide-bomb attack at a Shia mosque in the Saudi Arabian city of Najran accounts for over a dozen casualties. ](/news/2015/10/26/a-suicide-bomb-attack-at-a-shia-mosque-in-the-saudi-arabian-city-of-najran-accounts-for-over-a-dozen-casualties.md) _Context: Saudi Arabia, suicide bomber_
+
+### Changes:
+
+1. [2015 Kuwait mosque bombing: Kuwait claims that the suicide bomber responsible for the attack that killed 27 people was Fahd Suleiman Abdulmohsen al-Qaba'a, a citizen of Saudi Arabia. ](/news/2015/06/28/2015-kuwait-mosque-bombing-kuwait-claims-that-the-suicide-bomber-responsible-for-the-attack-that-killed-27-people-was-fahd-suleiman-abdulmo.md) _2017-08-27 03:42:36 (First version)_
+1. [Kuwait claims that the suicide bomber responsible for the attack that killed 27 people was Fahd Suleiman Abdulmohsen al-Qaba'a, a citizen of Saudi Arabia. ](/news/2015/06/28/kuwait-claims-that-the-suicide-bomber-responsible-for-the-attack-that-killed-27-people-was-fahd-suleiman-abdulmohsen-al-qaba-a-a-citizen-of.md) _(Current version)_

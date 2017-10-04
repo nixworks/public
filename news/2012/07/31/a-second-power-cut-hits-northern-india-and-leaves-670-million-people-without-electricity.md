@@ -20,3 +20,9 @@ Hundreds of millions are left without electricity in northern and eastern India,
 3. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md) _Context: India_
 4. [Japan agrees to help with the construction of an Indian bullet train. ](/news/2017/09/14/japan-agrees-to-help-with-the-construction-of-an-indian-bullet-train.md) _Context: India_
 5. [A rickety multi-story apartment building collapses in the Indian city of Mumbai resulting in at least 24 deaths with at least 12 people missing. ](/news/2017/08/31/a-rickety-multi-story-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-miss.md) _Context: India_
+
+### Changes:
+
+1. [2012 northern India power grid failure:A second power cut hits northern India and leaves 670 million people without electricity. ](/news/2012/07/31/2012-northern-india-power-grid-failure-pa-second-power-cut-hits-northern-india-and-leaves-670-million-people-without-electricity.md) _2017-08-25 03:36:12 (First version)_
+2. [2012 northern India power grid failure:: A second power cut hits northern India and leaves 670 million people without electricity. ](/news/2012/07/31/2012-northern-india-power-grid-failure-a-second-power-cut-hits-northern-india-and-leaves-670-million-people-without-electricity.md) _2017-08-27 03:36:23 (Update)_
+2. [A second power cut hits northern India and leaves 670 million people without electricity. ](/news/2012/07/31/a-second-power-cut-hits-northern-india-and-leaves-670-million-people-without-electricity.md) _(Current version)_

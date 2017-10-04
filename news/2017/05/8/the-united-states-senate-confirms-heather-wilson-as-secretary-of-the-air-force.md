@@ -16,3 +16,8 @@ The Senate has confirmed Heather Wilson as Air Force secretary, making her Presi
 3. [The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budget.md) _Context: Political appointments of Donald Trump, United States Senate_
 4. [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md) _Context: United States Senate_
 5. [The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.md) _Context: United States Senate_
+
+### Changes:
+
+1. [Political appointments of Donald Trump: The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/political-appointments-of-donald-trump-the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _2017-08-27 03:48:18 (First version)_
+1. [The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _(Current version)_

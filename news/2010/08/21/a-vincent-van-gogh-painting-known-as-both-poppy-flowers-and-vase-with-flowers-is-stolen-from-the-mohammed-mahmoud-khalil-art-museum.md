@@ -18,3 +18,8 @@ A painting by Vincent Van Gogh, stolen from a Cairo museum, is still missing, sa
 3. [German and Egyptian archaeologists uncover a humanoid statue with an approximate height of eight metres, believed to be of Ramesses II, at the former site of Heliopolis in northeast Cairo. ](/news/2017/03/9/german-and-egyptian-archaeologists-uncover-a-humanoid-statue-with-an-approximate-height-of-eight-metres-believed-to-be-of-ramesses-ii-at-t.md) _Context: Cairo_
 4. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo_
 5. [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md) _Context: Cairo_
+
+### Changes:
+
+1. [A Vincent van Gogh painting - known as both ''Poppy Flowers'' and ''Vase with Flowers'' - is stolen from the Mohammed Mahmoud Khalil art museum in Cairo, but is later said to have been recovered at Cairo Airport. ](/news/2010/08/21/a-vincent-van-gogh-painting-known-as-both-poppy-flowers-and-vase-with-flowers-is-stolen-from-the-mohammed-mahmoud-khalil-art-mus.md) _2017-08-25 03:29:36 (First version)_
+1. [A Vincent van Gogh painting - known as both "Poppy Flowers" and "Vase with Flowers" - is stolen from the Mohammed Mahmoud Khalil art museum in Cairo, but is later said to have been recovered at Cairo Airport. ](/news/2010/08/21/a-vincent-van-gogh-painting-known-as-both-poppy-flowers-and-vase-with-flowers-is-stolen-from-the-mohammed-mahmoud-khalil-art-museum.md) _(Current version)_

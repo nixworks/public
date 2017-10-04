@@ -22,7 +22,7 @@ _Context: Switzerland, air traffic control_
 _Context: Microsoft_
 
 ### [ Israel raids four banks in the West Bank seizing currency amounting to over 6 million dollars from accounts which it alleged had been used to fund terrorism. Israel claims it will use the funds for humanitarian projects in Palestinian areas. The U.S. State Department criticized the Israeli raid, and Palestinian Arabs condemned it utterly. ](/news/2004/02/26/israel-raids-four-banks-in-the-west-bank-seizing-currency-amounting-to-over-6-million-dollars-from-accounts-which-it-alleged-had-been-used.md)
-_Context: Israel, Palestinian, U.S. State Department, West Bank, bank, terrorism_
+_Context: Department of State, Israel, Palestinian, West Bank, bank, terrorism_
 
 ### [ Clare Short, former British Cabinet Minister, alleges on the BBC "Today" radio programme that British spies regularly intercept UN communications, including those of Kofi Annan, its Secretary-General. ](/news/2004/02/26/clare-short-former-british-cabinet-minister-alleges-on-the-bbc-today-radio-programme-that-british-spies-regularly-intercept-un-communic.md)
 _Context: BBC, Clare Short, Kofi Annan, Secret Intelligence Service, Secretary General, Today, UN, forming a government_

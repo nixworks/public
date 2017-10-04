@@ -16,3 +16,9 @@
 3. [Russian airstrikes in Syria's coastal Latakia province have killed a top FSA commander, Basil Zamo, and several other rebel fighters. ](/news/2015/10/20/russian-airstrikes-in-syriaas-coastal-latakia-province-have-killed-a-top-fsa-commander-basil-zamo-and-several-other-rebel-fighters.md) _Context: Free Syrian Army, Syria_
 4. [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md) _Context: Syria_
 5. [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md) _Context: Syria_
+
+### Changes:
+
+1. [Syrian civil war:Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-civil-war-psyrian-rebels-capture-three-military-airbases-in-the-north.md) _2017-08-25 03:38:30 (First version)_
+2. [Syrian civil war:: Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-civil-war-syrian-rebels-capture-three-military-airbases-in-the-north.md) _2017-08-27 03:38:42 (Update)_
+2. [Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-rebels-capture-three-military-airbases-in-the-north.md) _(Current version)_

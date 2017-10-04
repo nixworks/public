@@ -17,3 +17,8 @@ The spraying had been delayed a day after worried and angry residents complained
 3. [The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. ](/news/2016/10/11/the-world-health-organization-warns-that-the-zika-virus-will-continue-to-spread-across-asia-with-cases-already-reported-in-singapore-and-tha.md) _Context: 2015-16 Zika virus epidemic, Zika virus_
 4. [Malaysia reports its first pregnant woman infected with the Zika virus. ](/news/2016/09/7/malaysia-reports-its-first-pregnant-woman-infected-with-the-zika-virus.md) _Context: 2015-16 Zika virus epidemic, Zika virus_
 5. [A new infection of the Zika virus spreads to the Philippines. ](/news/2016/09/6/a-new-infection-of-the-zika-virus-spreads-to-the-philippines.md) _Context: 2015-16 Zika virus epidemic, Zika virus_
+
+### Changes:
+
+1. [2015-16 Zika virus epidemic: Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/2015-16-zika-virus-epidemic-miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _2017-08-27 03:46:49 (First version)_
+1. [Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _(Current version)_

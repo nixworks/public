@@ -12,3 +12,9 @@
 3. [ Iraq's Police Service kills an Iraqi interpreter and injures at least three U.S. soldiers in Mosul. ](/news/2009/02/24/iraq-s-police-service-kills-an-iraqi-interpreter-and-injures-at-least-three-u-s-soldiers-in-mosul.md) _Context: Americans, Iraq, Mosul_
 4. [ A car bomb in the town of Tal Afar in northern Iraq kills at least 21 people and injures about 70. ](/news/2008/08/8/a-car-bomb-in-the-town-of-tal-afar-in-northern-iraq-kills-at-least-21-people-and-injures-about-70.md) _Context: Iraq, Tal Afar, car bomb_
 5. [ Four United States soldiers die in Baghdad in a car bomb attack, while 12 Iraqis die in Baghdad and Iskandariya in the south of Iraq. ](/news/2007/03/15/four-united-states-soldiers-die-in-baghdad-in-a-car-bomb-attack-while-12-iraqis-die-in-baghdad-and-iskandariya-in-the-south-of-iraq.md) _Context: Americans, Iraq, car bomb_
+
+### Changes:
+
+1. [Occupation of Iraq:Some 60 U.S. soldiers and a handful of Iraqis are injured in Tal Afar, west of Mosul, when a pre-dawn car bomb explodes at an entrance to an army base. ](/news/2003/12/9/occupation-of-iraq-psome-60-u-s-soldiers-and-a-handful-of-iraqis-are-injured-in-tal-afar-west-of-mosul-when-a-pre-dawn-car-bomb-explodes.md) _2017-08-25 03:15:22 (First version)_
+2. [Occupation of Iraq:: Some 60 U.S. soldiers and a handful of Iraqis are injured in Tal Afar, west of Mosul, when a pre-dawn car bomb explodes at an entrance to an army base. ](/news/2003/12/9/occupation-of-iraq-some-60-u-s-soldiers-and-a-handful-of-iraqis-are-injured-in-tal-afar-west-of-mosul-when-a-pre-dawn-car-bomb-explodes.md) _2017-08-27 03:15:23 (Update)_
+2. [Some 60 U.S. soldiers and a handful of Iraqis are injured in Tal Afar, west of Mosul, when a pre-dawn car bomb explodes at an entrance to an army base. ](/news/2003/12/9/some-60-u-s-soldiers-and-a-handful-of-iraqis-are-injured-in-tal-afar-west-of-mosul-when-a-pre-dawn-car-bomb-explodes-at-an-entrance-to-an.md) _(Current version)_

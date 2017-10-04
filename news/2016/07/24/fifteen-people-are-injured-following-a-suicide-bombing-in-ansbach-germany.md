@@ -17,3 +17,8 @@ A failed Syrian asylum seeker blows himself up and injures 15 other people with 
 3. [ Three German soldiers are killed with four civilians in a suicide bombing in Kunduz in northern Afghanistan. ](/news/2007/05/19/three-german-soldiers-are-killed-with-four-civilians-in-a-suicide-bombing-in-kunduz-in-northern-afghanistan.md) _Context: Germany, suicide bombing_
 4. [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md) _Context: Germany_
 5. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: Germany_
+
+### Changes:
+
+1. [2016 Ansbach bombing: Fifteen people are injured following a suicide bombing in Ansbach, Germany. ](/news/2016/07/24/2016-ansbach-bombing-fifteen-people-are-injured-following-a-suicide-bombing-in-ansbach-germany.md) _2017-08-27 03:46:32 (First version)_
+1. [Fifteen people are injured following a suicide bombing in Ansbach, Germany. ](/news/2016/07/24/fifteen-people-are-injured-following-a-suicide-bombing-in-ansbach-germany.md) _(Current version)_

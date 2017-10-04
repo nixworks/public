@@ -16,3 +16,10 @@
 3. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: suicide bomber_
 4. [An explosion outside a military camp in southern Yemen kills at least 49 people and injures many more. The explosion is believed to have been caused by a suicide bomber wearing an explosive vest. ](/news/2016/12/18/an-explosion-outside-a-military-camp-in-southern-yemen-kills-at-least-49-people-and-injures-many-more-the-explosion-is-believed-to-have-bee.md) _Context: suicide bomber_
 5. [A suicide bomber kills at least 29 people and injures 50 others in an attack on a police station near Mogadishu's port. ](/news/2016/12/11/a-suicide-bomber-kills-at-least-29-people-and-injures-50-others-in-an-attack-on-a-police-station-near-mogadishu-s-port.md) _Context: suicide bomber_
+
+### Changes:
+
+1. [ War in An American A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/war-in-an-american-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _2017-08-25 03:20:41 (First version)_
+2. [ War in Iraq: An American (Wikinews): A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/war-in-iraq-an-american-wikinews-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _2017-08-27 03:20:39 (Update)_
+3. [ An American A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/an-american-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _2017-09-24 03:23:17 (Update)_
+3. [ A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _(Current version)_

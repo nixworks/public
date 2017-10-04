@@ -17,3 +17,8 @@ Van Morrison has exclusively told RTÉ Radio&#39;s News at One that his official
 ### Related:
 
 1. [The trooping the colour ceremony is held in London to celebrate the Queen's Official Birthday while singer Van Morrison and American actor Kevin Spacey are given knighthoods at the Birthday Honours. ](/news/2015/06/13/the-trooping-the-colour-ceremony-is-held-in-london-to-celebrate-the-queen-s-official-birthday-while-singer-van-morrison-and-american-actor-k.md) _Context: Van Morrison_
+
+### Changes:
+
+1. [ Van Morrison tells ''RTE News at One'' that a baby his own website claimed he has fathered does not exist and that he has never met the alleged mother. ](/news/2009/12/31/van-morrison-tells-rta-news-at-one-that-a-baby-his-own-website-claimed-he-has-fathered-does-not-exist-and-that-he-has-never-met-the-al.md) _2017-08-25 03:26:45 (First version)_
+1. [ Van Morrison tells "RTE News at One" that a baby his own website claimed he has fathered does not exist and that he has never met the alleged mother. ](/news/2009/12/31/van-morrison-tells-rta-news-at-one-that-a-baby-his-own-website-claimed-he-has-fathered-does-not-exist-and-that-he-has-never-met-the-alle.md) _(Current version)_

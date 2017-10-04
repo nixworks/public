@@ -16,3 +16,8 @@
 3. [ Iraq War: U.S. troops kill 11 members of a Mahdi Army splinter group. The military also announces that it has detained two more suspects in the capture of three U.S. soldiers earlier this year. ](/news/2007/12/27/iraq-war-u-s-troops-kill-11-members-of-a-mahdi-army-splinter-group-the-military-also-announces-that-it-has-detained-two-more-suspects-in.md) _Context: Iraq War, Mahdi Army_
 4. [ Iraq War: Shia cleric Moqtada al-Sadr calls for an anti-American protest on the fourth anniversary of the overthrow of Saddam Hussein. Hundreds of thousands of Shias gather in Najaf for a demonstration calling for U.S.-led troops to leave Iraq. ](/news/2007/04/9/iraq-war-shia-cleric-moqtada-al-sadr-calls-for-an-anti-american-protest-on-the-fourth-anniversary-of-the-overthrow-of-saddam-hussein-hund.md) _Context: Iraq War, Shia_
 5. [ At least four Shia Muslims, believed to be members of the Mahdi Army are killed by US soldiers in a gunfight following a U.S. raid into Sadr City, eastern Baghdad. ](/news/2005/09/25/at-least-four-shia-muslims-believed-to-be-members-of-the-mahdi-army-are-killed-by-us-soldiers-in-a-gunfight-following-a-u-s-raid-into-sad.md) _Context: Mahdi Army, Shia_
+
+### Changes:
+
+1. [ Iraq War: Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/iraq-war-moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md) _2017-08-27 03:16:41 (First version)_
+1. [ Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md) _(Current version)_

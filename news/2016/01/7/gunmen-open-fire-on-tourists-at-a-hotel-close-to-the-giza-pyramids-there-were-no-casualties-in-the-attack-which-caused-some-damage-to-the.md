@@ -14,3 +14,8 @@ Two masked gunmen opened fire at a hotel to the pyramids in Cairo as tourists bo
 
 1. [Two police officers are shot dead by gunmen near the Giza pyramids, on the outskirts of Cairo. ](/news/2016/01/9/two-police-officers-are-shot-dead-by-gunmen-near-the-giza-pyramids-on-the-outskirts-of-cairo.md) _Context: Giza pyramids, Terrorism in Egypt_
 2. [At least four Egyptian police officers are killed in a drive-by shooting in Saqqara, south of Cairo. An Islamic State of Iraq and the Levant affiliate claims responsibility. ](/news/2015/11/28/at-least-four-egyptian-police-officers-are-killed-in-a-drive-by-shooting-in-saqqara-south-of-cairo-an-islamic-state-of-iraq-and-the-levant.md) _Context: Terrorism in Egypt_
+
+### Changes:
+
+1. [Terrorism in Egypt: Gunmen open fire on tourists at a hotel close to the Giza pyramids. There were no casualties in the attack, which caused some damage to the hotel, and the attackers were arrested shortly afterwards. ](/news/2016/01/7/terrorism-in-egypt-gunmen-open-fire-on-tourists-at-a-hotel-close-to-the-giza-pyramids-there-were-no-casualties-in-the-attack-which-caused.md) _2017-08-27 03:44:37 (First version)_
+1. [Gunmen open fire on tourists at a hotel close to the Giza pyramids. There were no casualties in the attack, which caused some damage to the hotel, and the attackers were arrested shortly afterwards. ](/news/2016/01/7/gunmen-open-fire-on-tourists-at-a-hotel-close-to-the-giza-pyramids-there-were-no-casualties-in-the-attack-which-caused-some-damage-to-the.md) _(Current version)_

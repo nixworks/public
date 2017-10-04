@@ -17,3 +17,9 @@
 3. [The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _Context: Russia, Ukraine_
 4. [Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. ](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.md) _Context: Russia, Ukraine_
 5. [German Chancellor Angela Merkel invites the presidents of Russia, Ukraine, and France to meet tomorrow in Berlin to discuss peace efforts in eastern Ukraine. ](/news/2016/10/18/german-chancellor-angela-merkel-invites-the-presidents-of-russia-ukraine-and-france-to-meet-tomorrow-in-berlin-to-discuss-peace-efforts-in.md) _Context: Russia, Ukraine_
+
+### Changes:
+
+1. [2013-15 Ukrainian crisis:Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/2013a15-ukrainian-crisis-pclashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md) _2017-08-25 03:41:30 (First version)_
+2. [2013-15 Ukrainian crisis:: Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/2013-15-ukrainian-crisis-clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md) _2017-08-27 03:41:48 (Update)_
+2. [Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md) _(Current version)_

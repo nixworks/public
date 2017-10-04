@@ -17,3 +17,8 @@
 3. [The Prime Minister of Australia, Tony Abbott, advises the Parliament that two objects possibly related to the search for Malaysia Airlines Flight 370 have been located in the southern Indian Ocean. ](/news/2014/03/20/the-prime-minister-of-australia-tony-abbott-advises-the-parliament-that-two-objects-possibly-related-to-the-search-for-malaysia-airlines-f.md) _Context: Indian Ocean, Malaysia Airlines Flight 370_
 4. [The underwater search for missing Malaysia Airlines Flight 370 has been suspended. ](/news/2017/01/17/the-underwater-search-for-missing-malaysia-airlines-flight-370-has-been-suspended.md) _Context: Malaysia Airlines Flight 370_
 5. [Authorities confirm that a wing part found in Mauritius in May is part of the aircraft from Malaysian Airlines Flight 370. ](/news/2016/10/7/authorities-confirm-that-a-wing-part-found-in-mauritius-in-may-is-part-of-the-aircraft-from-malaysian-airlines-flight-370.md) _Context: Malaysia Airlines Flight 370_
+
+### Changes:
+
+1. [Search for Malaysia Airlines Flight 370: New analysis by the Australian Transport Safety Bureau suggests that no-one was controlling Malaysia Airlines Flight 370 as it plunged into the southern Indian Ocean in 2014. ](/news/2016/11/2/search-for-malaysia-airlines-flight-370-new-analysis-by-the-australian-transport-safety-bureau-suggests-that-no-one-was-controlling-malaysi.md) _2017-08-27 03:47:09 (First version)_
+1. [New analysis by the Australian Transport Safety Bureau suggests that no-one was controlling Malaysia Airlines Flight 370 as it plunged into the southern Indian Ocean in 2014. ](/news/2016/11/2/new-analysis-by-the-australian-transport-safety-bureau-suggests-that-no-one-was-controlling-malaysia-airlines-flight-370-as-it-plunged-into.md) _(Current version)_

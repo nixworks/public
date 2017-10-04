@@ -17,3 +17,8 @@ Police have killed four terrorists, and arrested seven more, as a manhunt contin
 3. [A suspected Islamist attacker kills seven people in the southern Kazakh city of Taraz before blowing himself up. ](/news/2011/11/12/a-suspected-islamist-attacker-kills-seven-people-in-the-southern-kazakh-city-of-taraz-before-blowing-himself-up.md) _Context: Islamic terrorism, Kazakhstan_
 4. [A suicide bombing occurs in Aktobe, western Kazakhstan, injuring three people. ](/news/2011/05/17/a-suicide-bombing-occurs-in-aktobe-western-kazakhstan-injuring-three-people.md) _Context: Aktobe, Kazakhstan_
 5. [Right-wing media personality Katie Hopkins is to leave LBC with "immediate effect" after Hopkins posted on Twitter calling for a so-called "final solution" to the United Kingdom's Islamic terrorism problem following the Manchester Arena bombing which left 22 people dead. ](/news/2017/05/26/right-wing-media-personality-katie-hopkins-is-to-leave-lbc-with-immediate-effect-after-hopkins-posted-on-twitter-calling-for-a-so-called.md) _Context: Islamic terrorism_
+
+### Changes:
+
+1. [ 2016 Aktobe shootings: Three people are killed and 10 more are injured following an attack on a military base in Aktobe, Kazakhstan, by suspected Islamists. ](/news/2016/06/5/2016-aktobe-shootings-three-people-are-killed-and-10-more-are-injured-following-an-attack-on-a-military-base-in-aktobe-kazakhstan-by-sus.md) _2017-08-27 03:46:12 (First version)_
+1. [ Three people are killed and 10 more are injured following an attack on a military base in Aktobe, Kazakhstan, by suspected Islamists. ](/news/2016/06/5/three-people-are-killed-and-10-more-are-injured-following-an-attack-on-a-military-base-in-aktobe-kazakhstan-by-suspected-islamists.md) _(Current version)_

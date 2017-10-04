@@ -22,3 +22,9 @@ On a day when the row over McLaren&#039;s new car simmered, sparked occasionally
 3. [ The 2004 Formula One championship gets under way with the Australian Grand Prix in Melbourne. Michael Schumacher wins. ](/news/2004/03/7/the-2004-formula-one-championship-gets-under-way-with-the-australian-grand-prix-in-melbourne-michael-schumacher-wins.md) _Context: Formula One, Michael Schumacher_
 4. [ The second race of the 2004 Formula One championship, in Malaysia, is won by Michael Schumacher. ](/news/2004/03/21/the-second-race-of-the-2004-formula-one-championship-in-malaysia-is-won-by-michael-schumacher.md) _Context: Formula One, Michael Schumacher_
 5. [Liberty Media confirms it is buying Formula One for US$4.4 billion; however, Bernie Ecclestone will remain as chief executive. ](/news/2016/09/7/liberty-media-confirms-it-is-buying-formula-one-for-us-4-4-billion-however-bernie-ecclestone-will-remain-as-chief-executive.md) _Context: Formula One_
+
+### Changes:
+
+1. [Sport:Michael Schumacher makes his return to Formula One at the age of 41. ](/news/2010/03/13/sport-pmichael-schumacher-makes-his-return-to-formula-one-at-the-age-of-41.md) _2017-08-25 03:27:22 (First version)_
+2. [Sport:: Michael Schumacher makes his return to Formula One at the age of 41. ](/news/2010/03/13/sport-michael-schumacher-makes-his-return-to-formula-one-at-the-age-of-41.md) _2017-08-27 03:27:17 (Update)_
+2. [Michael Schumacher makes his return to Formula One at the age of 41. ](/news/2010/03/13/michael-schumacher-makes-his-return-to-formula-one-at-the-age-of-41.md) _(Current version)_

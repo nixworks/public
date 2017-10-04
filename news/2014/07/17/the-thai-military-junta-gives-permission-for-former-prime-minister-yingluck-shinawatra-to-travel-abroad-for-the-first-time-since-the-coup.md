@@ -17,3 +17,9 @@
 3. [Former Prime Minister of Thailand Yingluck Shinawatra appears in court to face corruption charges. ](/news/2016/01/15/former-prime-minister-of-thailand-yingluck-shinawatra-appears-in-court-to-face-corruption-charges.md) _Context: Prime Minister, Yingluck Shinawatra_
 4. [Former Prime Minister of Thailand Yingluck Shinawatra will be indicted over a controversial rice subsidy scheme. ](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.md) _Context: Prime Minister, Yingluck Shinawatra_
 5. [Former Prime Minister of Thailand Yingluck Shinawatra appears to face impeachment charges over a failed rice subsidy scheme. ](/news/2015/01/9/former-prime-minister-of-thailand-yingluck-shinawatra-appears-to-face-impeachment-charges-over-a-failed-rice-subsidy-scheme.md) _Context: Prime Minister, Yingluck Shinawatra_
+
+### Changes:
+
+1. [2013-14 Thai political crisis:The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/2013a14-thai-political-crisis-pthe-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-for.md) _2017-08-25 03:40:41 (First version)_
+2. [2013-14 Thai political crisis:: The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/2013-14-thai-political-crisis-the-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-fo.md) _2017-08-27 03:40:59 (Update)_
+2. [The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/the-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-for-the-first-time-since-the-coup.md) _(Current version)_

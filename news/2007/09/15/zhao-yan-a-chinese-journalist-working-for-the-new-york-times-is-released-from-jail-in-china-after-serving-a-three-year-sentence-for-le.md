@@ -16,3 +16,8 @@
 3. [ China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: China_
 4. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_
 5. [India and China agree to end a two month-long stand-off with the withdrawal of Indian troops. The stand-off began in June after China began constructing a road in the disputed territory of Doklam which is claimed by both China and Bhutan. ](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.md) _Context: China_
+
+### Changes:
+
+1. [ Zhao Yan, a Chinese journalist working for the ''New York Times'', is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for.md) _2017-08-25 03:20:58 (First version)_
+1. [ Zhao Yan, a Chinese journalist working for the "New York Times", is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for-le.md) _(Current version)_

@@ -17,3 +17,8 @@ A mayor linked to the drugs trade in the Philippines is shot dead in his prison 
 3. [Speaking to government workers at the presidential palace in Manila, President Rodrigo Duterte orders police to kill his eldest son, Paulo Duterte, if drug trafficking allegations against him are proven true, and adds that those who carried out the execution would be protected from prosecution. ](/news/2017/09/20/speaking-to-government-workers-at-the-presidential-palace-in-manila-president-rodrigo-duterte-orders-police-to-kill-his-eldest-son-paulo-d.md) _Context: war on drugs_
 4. [Around 1,200 members of the Philippine National Police in the suburb of Caloocan are fired over allegations of crimes attributed to the police. ](/news/2017/09/15/around-1-200-members-of-the-philippine-national-police-in-the-suburb-of-caloocan-are-fired-over-allegations-of-crimes-attributed-to-the-poli.md) _Context: war on drugs_
 5. [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md) _Context: war on drugs_
+
+### Changes:
+
+1. [Philippine Drug War: The mayor of Albuera, Leyte, accused of drug trafficking, is shot dead in jail. ](/news/2016/11/5/philippine-drug-war-the-mayor-of-albuera-leyte-accused-of-drug-trafficking-is-shot-dead-in-jail.md) _2017-08-27 03:47:11 (First version)_
+1. [The mayor of Albuera, Leyte, accused of drug trafficking, is shot dead in jail. ](/news/2016/11/5/the-mayor-of-albuera-leyte-accused-of-drug-trafficking-is-shot-dead-in-jail.md) _(Current version)_

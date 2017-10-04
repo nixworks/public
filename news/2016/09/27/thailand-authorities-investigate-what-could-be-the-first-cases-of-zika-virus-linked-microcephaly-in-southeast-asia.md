@@ -17,3 +17,8 @@ Thailand is investigating four suspected cases of Zika-related microcephaly in t
 3. [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md) _Context: 2015-16 Zika virus epidemic, Zika virus_
 4. [Vietnam reports its first microcephaly case likely to be linked to the Zika virus. ](/news/2016/10/30/vietnam-reports-its-first-microcephaly-case-likely-to-be-linked-to-the-zika-virus.md) _Context: Zika virus, microcephaly_
 5. [Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _Context: 2015-16 Zika virus epidemic, Zika virus_
+
+### Changes:
+
+1. [2015-16 Zika virus epidemic: Thailand authorities investigate what could be the first cases of Zika virus-linked microcephaly in Southeast Asia. ](/news/2016/09/27/2015-16-zika-virus-epidemic-thailand-authorities-investigate-what-could-be-the-first-cases-of-zika-virus-linked-microcephaly-in-southeast.md) _2017-08-27 03:46:54 (First version)_
+1. [Thailand authorities investigate what could be the first cases of Zika virus-linked microcephaly in Southeast Asia. ](/news/2016/09/27/thailand-authorities-investigate-what-could-be-the-first-cases-of-zika-virus-linked-microcephaly-in-southeast-asia.md) _(Current version)_

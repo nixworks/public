@@ -20,3 +20,8 @@
 3. [ An Israeli Special committee decides the recent conflict between Israel and Hezbullah is to be named the Second Lebanon War. ](/news/2007/03/21/an-israeli-special-committee-decides-the-recent-conflict-between-israel-and-hezbullah-is-to-be-named-the-second-lebanon-war.md) _Context: war_
 4. [ The Israeli Ministerial Committee for Symbols and Ceremonies declares the 2006 Israel-Lebanon conflict a war. ](/news/2007/03/19/the-israeli-ministerial-committee-for-symbols-and-ceremonies-declares-the-2006-israel-lebanon-conflict-a-war.md) _Context: war_
 5. [ The last Israeli troops leave Lebanon in accordance with UN Resolution 1701, two months after occupying the territory. UNIFIL officials, however, claim that they still occupy the border village of Ghajar. ](/news/2006/10/1/the-last-israeli-troops-leave-lebanon-in-accordance-with-un-resolution-1701-two-months-after-occupying-the-territory-unifil-officials-ho.md) _Context: war_
+
+### Changes:
+
+1. [ 2006 Israel-Lebanon conflict: The Battle of Ayta al-Sha`b rages, with multiple Israeli casualties. ](/news/2006/08/1/2006-israel-lebanon-conflict-the-battle-of-ayta-al-sha-b-rages-with-multiple-israeli-casualties.md) _2017-08-27 03:18:05 (First version)_
+1. [ The Battle of Ayta al-Sha`b rages, with multiple Israeli casualties. ](/news/2006/08/1/the-battle-of-ayta-al-sha-b-rages-with-multiple-israeli-casualties.md) _(Current version)_

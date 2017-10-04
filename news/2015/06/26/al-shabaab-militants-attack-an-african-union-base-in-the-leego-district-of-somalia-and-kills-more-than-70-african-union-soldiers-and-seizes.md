@@ -18,3 +18,8 @@
 3. [Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md) _Context: Al-Shabaab, Somali Civil War, Somalian_
 4. [A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-militants.md) _Context: Al-Shabaab, Somali Civil War, Somalian_
 5. [A top level Somali al-Shabab militant with a $3m US bounty, Zakariya Ahmed Ismail Hersi, surrenders to police. ](/news/2014/12/27/a-top-level-somali-al-shabab-militant-with-a-3m-us-bounty-zakariya-ahmed-ismail-hersi-surrenders-to-police.md) _Context: Al-Shabaab, Somali Civil War, Somalian_
+
+### Changes:
+
+1. [ Somali Civil War: Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/somali-civil-war-al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-s.md) _2017-08-27 03:42:36 (First version)_
+1. [Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-soldiers-and-seizes.md) _(Current version)_

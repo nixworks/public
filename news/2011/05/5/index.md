@@ -58,7 +58,7 @@ A man accused of killing Jo Yeates, whose body was found near Bristol on Christm
 _Context: Calisto Tanzi, Italy, Parmalat_
 
 ### [Italian police seize assets worth around $1.38 billion from the Polverino mafia clan in the Naples region, and arrest 39 alleged clan members, including two who were local elections candidates from Prime Minister Silvio Berlusconi's People of Freedom party. ](/news/2011/05/5/italian-police-seize-assets-worth-around-1-38-billion-from-the-polverino-mafia-clan-in-the-naples-region-and-arrest-39-alleged-clan-member.md)
-_Context: Camorra, Italian Prime Minister, Naples, People of Freedom party, Silvio Berlusconi, US$_
+_Context: $, Camorra, Italian Prime Minister, Naples, People of Freedom party, Silvio Berlusconi_
 
 ### [A shipping vessel registered in Taiwan with a history of oil spills is fined CAD $80,000 for the illegal dumping of pollutants in Canadian waters south of Newfoundland. ](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.md)
 _Context: CAN$, Newfoundland, Taiwan, illegal dumping, oil spill_

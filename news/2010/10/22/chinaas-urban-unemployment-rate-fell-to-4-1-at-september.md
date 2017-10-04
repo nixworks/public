@@ -16,3 +16,8 @@
 3. [International internet group Anonymous protests censorship by targeting Chinese websites, including government bureaus in several Chinese cities. ](/news/2012/04/5/international-internet-group-anonymous-protests-censorship-by-targeting-chinese-websites-including-government-bureaus-in-several-chinese-ci.md) _Context: China_
 4. [Ma Jian, author of the banned novel "Beijing Coma", daubs red paint over his face at the London Book Fair and calls Chinese publishers "the mouthpiece of the Chinese communist party." ](/news/2012/04/19/ma-jian-author-of-the-banned-novel-beijing-coma-daubs-red-paint-over-his-face-at-the-london-book-fair-and-calls-chinese-publishers-the.md) _Context: China_
 5. [The Philippines sends another ship to join the current ship it has involved in a confrontation with two Chinese surveillance ships on the South China Sea, although both sides claim to be committed to a peaceful solution. ](/news/2012/04/12/the-philippines-sends-another-ship-to-join-the-current-ship-it-has-involved-in-a-confrontation-with-two-chinese-surveillance-ships-on-the-so.md) _Context: China_
+
+### Changes:
+
+1. [China-s urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/china-s-urban-unemployment-rate-fell-to-4-1-at-september.md) _2017-08-27 03:30:43 (First version)_
+1. [China's urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/chinaas-urban-unemployment-rate-fell-to-4-1-at-september.md) _(Current version)_

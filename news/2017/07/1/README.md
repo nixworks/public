@@ -31,7 +31,7 @@ _Context: Canada, Canada Day, Canadian Confederation, sesquicentennial_
 Hong Kong police clashed with protesters on Saturday as Carrie Lam was sworn in as the city&#39;s new leader on the 20th anniversary of its handover from British to Chinese rule.
 
 ### [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md)
-_Context: California, Donald Trump, Kentucky, Mississippi, New York State, Presidency of Donald Trump, President, U.S. state, voter fraud_
+_Context: California, Donald Trump, Kentucky, Mississippi, New York State, President, Trump administration, U.S. state, voter fraud_
 
 ### [Amid a budget crisis, Governor Chris Christie shuts down the state government of New Jersey. ](/news/2017/07/1/amid-a-budget-crisis-governor-chris-christie-shuts-down-the-state-government-of-new-jersey.md)
 _Context: Chris Christie, New Jersey, Politics of New Jersey, budget crisis_

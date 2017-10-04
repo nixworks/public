@@ -16,3 +16,9 @@ ANKARA, Turkey (AP) — Turkey has deported more than 3,300 foreigners suspected
 3. [On Wednesday, the European Union will propose relaxing visa requirements for Turks as a reward for having reduced the flood of refugees and migrants into Europe. ](/news/2016/05/2/on-wednesday-the-european-union-will-propose-relaxing-visa-requirements-for-turks-as-a-reward-for-having-reduced-the-flood-of-refugees-and.md) _Context: European migrant crisis, Turkey_
 4. [Five migrants drown off the island of Samos close to Turkey. ](/news/2016/04/9/five-migrants-drown-off-the-island-of-samos-close-to-turkey.md) _Context: European migrant crisis, Turkey_
 5. [Greece starts deporting migrants to Turkey. ](/news/2016/04/4/greece-starts-deporting-migrants-to-turkey.md) _Context: European migrant crisis, Turkey_
+
+### Changes:
+
+1. [Turkey says it has deported more than 3,300 foreigners suspected of links to jihadi groups, and barred another 41,000 foreigners from entering the country. ](/news/2016/04/25/turkey-says-it-has-deported-more-than-3-300-foreigners-suspected-of-links-to-jihadi-groups-and-barred-another-41-000-foreigners-from-ent.md) _2017-08-25 03:45:27 (First version)_
+2. [European migrant crisis: Turkey says it has deported more than 3,300 foreigners suspected of links to jihadi groups, and barred another 41,000 foreigners from entering the country. ](/news/2016/04/25/european-migrant-crisis-turkey-says-it-has-deported-more-than-3-300-foreigners-suspected-of-links-to-jihadi-groups-and-barred-another-41-0.md) _2017-08-27 03:45:50 (Update)_
+2. [Turkey says it has deported more than 3,300 foreigners suspected of links to jihadi groups, and barred another 41,000 foreigners from entering the country. ](/news/2016/04/25/turkey-says-it-has-deported-more-than-3-300-foreigners-suspected-of-links-to-jihadi-groups-and-barred-another-41-000-foreigners-from-enteri.md) _(Current version)_

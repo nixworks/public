@@ -17,3 +17,9 @@ Syrian troops captured a key town from rebels near the Lebanese border on Tuesda
 3. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Syrian Army, Syrian Civil War_
 4. [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md) _Context: Syrian Army, Syrian Civil War_
 5. [The Syrian Army captures at least 23 villages in North East Aleppo Governorate from ISIL in a matter of hours after an ISIL withdrawal caused by the SAA capturing Al-Khafsah. ](/news/2017/03/7/the-syrian-army-captures-at-least-23-villages-in-north-east-aleppo-governorate-from-isil-in-a-matter-of-hours-after-an-isil-withdrawal-cause.md) _Context: Syrian Army, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War, Battle of Qalamoun:The Syrian Army captures the town of Qarah. ](/news/2013/11/19/syrian-civil-war-battle-of-qalamoun-pthe-syrian-army-captures-the-town-of-qarah.md) _2017-05-01 03:42:56 (First version)_
+2. [Syrian Civil War: Battle of Qalamoun: The Syrian Army captures the town of Qarah. ](/news/2013/11/19/syrian-civil-war-battle-of-qalamoun-the-syrian-army-captures-the-town-of-qarah.md) _2017-08-27 03:39:51 (Update)_
+2. [The Syrian Army captures the town of Qarah. ](/news/2013/11/19/the-syrian-army-captures-the-town-of-qarah.md) _(Current version)_

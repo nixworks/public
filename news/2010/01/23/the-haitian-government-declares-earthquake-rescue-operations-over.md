@@ -17,3 +17,9 @@
 3. [The Associated Press claims that an unreleased U.S. Agency for International Development report claims that the death toll from the 2010 Haiti earthquake was much less than claimed by the Government of Haiti. ](/news/2011/05/30/the-associated-press-claims-that-an-unreleased-u-s-agency-for-international-development-report-claims-that-the-death-toll-from-the-2010-hai.md) _Context: 2010 Haiti earthquake, Government of Haiti_
 4. [Haitians commemorate the first anniversary of the 2010 earthquake. ](/news/2011/01/12/haitians-commemorate-the-first-anniversary-of-the-2010-earthquake.md) _Context: 2010 Haiti earthquake, Haiti_
 5. [Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-the-cholera-epidemic-and-the-after.md) _Context: 2010 Haiti earthquake, Haiti_
+
+### Changes:
+
+1. [Aftermath of the 2010 Haiti earthquake:The Haitian government declares earthquake rescue operations over. ](/news/2010/01/23/aftermath-of-the-2010-haiti-earthquake-pthe-haitian-government-declares-earthquake-rescue-operations-over.md) _2017-08-25 03:26:58 (First version)_
+2. [Aftermath of the 2010 Haiti earthquake:: The Haitian government declares earthquake rescue operations over. ](/news/2010/01/23/aftermath-of-the-2010-haiti-earthquake-the-haitian-government-declares-earthquake-rescue-operations-over.md) _2017-08-27 03:26:52 (Update)_
+2. [The Haitian government declares earthquake rescue operations over. ](/news/2010/01/23/the-haitian-government-declares-earthquake-rescue-operations-over.md) _(Current version)_

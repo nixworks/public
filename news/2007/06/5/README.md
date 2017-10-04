@@ -16,7 +16,7 @@ _Context: Americans, Czech Republic, Europe, George W. Bush, Germany, Group of E
 ETA has said it will end its 15-month-old ceasefire at midnight tonight and has warned the Spanish government of new attacks.
 
 ### [ Thailand's interim government removes a ban on political party activities. ](/news/2007/06/5/thailand-s-interim-government-removes-a-ban-on-political-party-activities.md)
-_Context: Thailand, bans, political party_
+_Context: Thailand, ban, political party_
 
 ### [ Eleven people are killed and around 30 injured in a train crash 10 kilometres north of Kerang, Victoria, Australia. ](/news/2007/06/5/eleven-people-are-killed-and-around-30-injured-in-a-train-crash-10-kilometres-north-of-kerang-victoria-australia.md)
 Ten people have been killed and dozens injured in Australia&#39;s worst rail crash in 30 years.

@@ -12,3 +12,8 @@
 3. [ China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: China_
 4. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_
 5. [India and China agree to end a two month-long stand-off with the withdrawal of Indian troops. The stand-off began in June after China began constructing a road in the disputed territory of Doklam which is claimed by both China and Bhutan. ](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.md) _Context: China_
+
+### Changes:
+
+1. [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. ](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy.md) _2017-08-25 03:37:42 (First version)_
+1. [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. [http:--www.theaustralian.com.au-business-economics-china-office-pmi-for-february-down-to-501-reignites-slowdown-worry-story-e6frg926-1226588359770 ("The Australian)"]](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy-http-www-theaustralian-com-au-b.md) _(Current version)_

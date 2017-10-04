@@ -18,3 +18,8 @@ Dozens more injured in bombing believed to have been carried out by Russia fight
 3. [Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carry-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing-a.md) _Context: Idlib, Syrian Civil War_
 4. [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md) _Context: Syria, Syrian Civil War_
 5. [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md) _Context: Syria, Syrian Civil War_
+
+### Changes:
+
+1. [ Syrian Civil War: At least 21 people are killed in suspected Russian airstrikes on Idlib, Syria. ](/news/2016/12/4/syrian-civil-war-at-least-21-people-are-killed-in-suspected-russian-airstrikes-on-idlib-syria.md) _2017-08-27 03:47:23 (First version)_
+1. [ At least 21 people are killed in suspected Russian airstrikes on Idlib, Syria. ](/news/2016/12/4/at-least-21-people-are-killed-in-suspected-russian-airstrikes-on-idlib-syria.md) _(Current version)_

@@ -17,3 +17,8 @@ Boko Haram gunmen killed at least 43 people and burnt down three villages in nor
 3. [ President Muhammadu Buhari announces that the Nigerian Armed Forces have successfully driven out Boko Haram militants from their last stronghold in the Sambisa Forest in northeastern Nigeria. ](/news/2016/12/24/president-muhammadu-buhari-announces-that-the-nigerian-armed-forces-have-successfully-driven-out-boko-haram-militants-from-their-last-stron.md) _Context: Boko Haram, Nigeria_
 4. [The United Nations and Nigeria come to an agreement to release 876 children being held due to suspicions that they are tied to Boko Haram. ](/news/2016/10/30/the-united-nations-and-nigeria-come-to-an-agreement-to-release-876-children-being-held-due-to-suspicions-that-they-are-tied-to-boko-haram.md) _Context: Boko Haram, Nigeria_
 5. [Suspected Boko Haram suicide bombers kill at least eight people in the Nigerian city of Maiduguri. ](/news/2016/10/29/suspected-boko-haram-suicide-bombers-kill-at-least-eight-people-in-the-nigerian-city-of-maiduguri.md) _Context: Boko Haram, Nigeria_
+
+### Changes:
+
+1. [Boko Haram: Residents of northeast Nigeria claim that Boko Haram has killed at least 43 people and burnt down three villages in recent attacks. ](/news/2015/06/11/boko-haram-residents-of-northeast-nigeria-claim-that-boko-haram-has-killed-at-least-43-people-and-burnt-down-three-villages-in-recent-attac.md) _2017-08-27 03:42:31 (First version)_
+1. [Residents of northeast Nigeria claim that Boko Haram has killed at least 43 people and burnt down three villages in recent attacks. ](/news/2015/06/11/residents-of-northeast-nigeria-claim-that-boko-haram-has-killed-at-least-43-people-and-burnt-down-three-villages-in-recent-attacks.md) _(Current version)_

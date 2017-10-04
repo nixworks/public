@@ -18,3 +18,8 @@
 3. [German and Egyptian archaeologists uncover a humanoid statue with an approximate height of eight metres, believed to be of Ramesses II, at the former site of Heliopolis in northeast Cairo. ](/news/2017/03/9/german-and-egyptian-archaeologists-uncover-a-humanoid-statue-with-an-approximate-height-of-eight-metres-believed-to-be-of-ramesses-ii-at-t.md) _Context: Cairo_
 4. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo_
 5. [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md) _Context: Cairo_
+
+### Changes:
+
+1. [Post-coup unrest in Egypt: A police officer was killed and several others wounded in a small explosion near the presidential palace in Cairo. A second officer was killed while defusing another bomb at the same site. ](/news/2014/06/30/post-coup-unrest-in-egypt-a-police-officer-was-killed-and-several-others-wounded-in-a-small-explosion-near-the-presidential-palace-in-cairo.md) _2017-08-27 03:40:54 (First version)_
+1. [A police officer was killed and several others wounded in a small explosion near the presidential palace in Cairo. A second officer was killed while defusing another bomb at the same site. ](/news/2014/06/30/a-police-officer-was-killed-and-several-others-wounded-in-a-small-explosion-near-the-presidential-palace-in-cairo-a-second-officer-was-kill.md) _(Current version)_

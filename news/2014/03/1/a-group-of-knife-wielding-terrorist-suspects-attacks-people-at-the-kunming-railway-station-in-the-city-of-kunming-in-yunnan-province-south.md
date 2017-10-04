@@ -18,3 +18,8 @@ An attack by knife-wielding men at a railway station in Kunming, south-west Chin
 3. [China dispatches 2,500 People's Liberation Army soldiers to Yunnan province to search for hundreds of people missing after the earthquake. ](/news/2014/08/4/china-dispatches-2-500-people-s-liberation-army-soldiers-to-yunnan-province-to-search-for-hundreds-of-people-missing-after-the-earthquake.md) _Context: China, Yunnan_
 4. [A magnitude 6.1 earthquake kills at least 367 people and injures more than 1,700 in Yunnan, China. ](/news/2014/08/3/a-magnitude-6-1-earthquake-kills-at-least-367-people-and-injures-more-than-1-700-in-yunnan-china.md) _Context: China, Yunnan_
 5. [The death toll in landslides in the province of Yunnan, China rises to 46, according to state media. ](/news/2013/01/12/the-death-toll-in-landslides-in-the-province-of-yunnan-china-rises-to-46-according-to-state-media.md) _Context: China, Yunnan_
+
+### Changes:
+
+1. [Kunming station massacre: A group of knife-wielding terrorist suspects attacks people at the Kunming Railway Station in the city of Kunming in Yunnan province, south-western China. At least 29 people are killed and 130 others injured. ](/news/2014/03/1/kunming-station-massacre-a-group-of-knife-wielding-terrorist-suspects-attacks-people-at-the-kunming-railway-station-in-the-city-of-kunming.md) _2017-08-27 03:40:24 (First version)_
+1. [A group of knife-wielding terrorist suspects attacks people at the Kunming Railway Station in the city of Kunming in Yunnan province, south-western China. At least 29 people are killed and 130 others injured. ](/news/2014/03/1/a-group-of-knife-wielding-terrorist-suspects-attacks-people-at-the-kunming-railway-station-in-the-city-of-kunming-in-yunnan-province-south.md) _(Current version)_

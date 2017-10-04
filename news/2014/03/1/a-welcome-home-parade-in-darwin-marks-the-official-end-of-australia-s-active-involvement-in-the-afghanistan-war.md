@@ -16,3 +16,8 @@
 3. [The Northern Territory Emergency Service in the north of Australia warns residents in low-lying coastal areas including in the capital Darwin ahead of Tropical Cyclone Carlos. ](/news/2011/02/16/the-northern-territory-emergency-service-in-the-north-of-australia-warns-residents-in-low-lying-coastal-areas-including-in-the-capital-darwi.md) _Context: Australia, Darwin_
 4. [92 Afghan asylum seekers escape from the Northern Immigration Detention Centre in Darwin, Australia as part of a protest with four people being hospitalised due to dehydration. ](/news/2010/09/1/92-afghan-asylum-seekers-escape-from-the-northern-immigration-detention-centre-in-darwin-australia-as-part-of-a-protest-with-four-people-be.md) _Context: Australia, Darwin_
 5. [Indonesian detainees riot and light a fire at the Northern Immigration Detention Centre in Darwin, Australia. ](/news/2010/08/29/indonesian-detainees-riot-and-light-a-fire-at-the-northern-immigration-detention-centre-in-darwin-australia.md) _Context: Australia, Darwin_
+
+### Changes:
+
+1. [War in Afghanistan (2001-present): A welcome home parade in Darwin marks the official end of Australia's active involvement in the Afghanistan War. ](/news/2014/03/1/war-in-afghanistan-2001-present-a-welcome-home-parade-in-darwin-marks-the-official-end-of-australia-s-active-involvement-in-the-afghani.md) _2017-08-27 03:40:24 (First version)_
+1. [A welcome home parade in Darwin marks the official end of Australia's active involvement in the Afghanistan War. ](/news/2014/03/1/a-welcome-home-parade-in-darwin-marks-the-official-end-of-australia-s-active-involvement-in-the-afghanistan-war.md) _(Current version)_

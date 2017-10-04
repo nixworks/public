@@ -19,3 +19,8 @@ Poland&apos;s former president confirms that he allowed a CIA black site to oper
 3. [A report by Amnesty International states that between 5,000 and 13,000 people, most of them civilians, were hanged at the military-run Sednaya Prison near Damascus between September 2011 and December 2015. ](/news/2017/02/7/a-report-by-amnesty-international-states-that-between-5-000-and-13-000-people-most-of-them-civilians-were-hanged-at-the-military-run-sedna.md) _Context: Amnesty International_
 4. [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md) _Context: Amnesty International_
 5. [ Amnesty International criticizes a Saudi court decision to impose the death sentence on 15 people in a case involving 32 people including 30 Saudis, one Iranian and one Afghan national in an alleged Iranian spy cell. ](/news/2016/12/6/amnesty-international-criticizes-a-saudi-court-decision-to-impose-the-death-sentence-on-15-people-in-a-case-involving-32-people-including-3.md) _Context: Amnesty International_
+
+### Changes:
+
+1. [Human Rights Day: Amnesty International notes that torture still occurs in some countries. ](/news/2014/12/10/human-rights-day-amnesty-international-notes-that-torture-still-occurs-in-some-countries.md) _2017-08-27 03:41:36 (First version)_
+1. [Amnesty International notes that torture still occurs in some countries. ](/news/2014/12/10/amnesty-international-notes-that-torture-still-occurs-in-some-countries.md) _(Current version)_

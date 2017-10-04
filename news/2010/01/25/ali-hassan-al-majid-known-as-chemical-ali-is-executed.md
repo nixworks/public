@@ -17,3 +17,9 @@
 3. [ The Presidency Council of Iraq approves the execution of Saddam Hussein's cousin Ali Hassan al-Majid, widely known as "Chemical Ali", for his role in the Al-Anfal Campaign against Iraqi Kurds in the 1980s. ](/news/2008/02/29/the-presidency-council-of-iraq-approves-the-execution-of-saddam-hussein-s-cousin-ali-hassan-al-majid-widely-known-as-chemical-ali-for-h.md) _Context: Ali Hassan al-Majid_
 4. [ The Iraqi Supreme Court confirms the death sentence passed on Ali Hassan al-Majid, Sultan Hashim al-Tai and Hussein Rashid al-Tikriti. ](/news/2007/09/4/the-iraqi-supreme-court-confirms-the-death-sentence-passed-on-ali-hassan-al-majid-sultan-hashim-al-tai-and-hussein-rashid-al-tikriti.md) _Context: Ali Hassan al-Majid_
 5. [ Fifteen former associates of Saddam Hussein, including his cousin Ali Hassan al-Majid, face a trial in the Supreme Iraqi Criminal Tribunal for their alleged role in suppressing a Shiite uprising in 1991. ](/news/2007/08/21/fifteen-former-associates-of-saddam-hussein-including-his-cousin-ali-hassan-al-majid-face-a-trial-in-the-supreme-iraqi-criminal-tribunal.md) _Context: Ali Hassan al-Majid_
+
+### Changes:
+
+1. [Iraq:Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/iraq-pali-hassan-al-majid-known-as-chemical-ali-is-executed.md) _2017-08-25 03:27:01 (First version)_
+2. [Iraq:: Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/iraq-ali-hassan-al-majid-known-as-chemical-ali-is-executed.md) _2017-08-27 03:26:54 (Update)_
+2. [Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/ali-hassan-al-majid-known-as-chemical-ali-is-executed.md) _(Current version)_

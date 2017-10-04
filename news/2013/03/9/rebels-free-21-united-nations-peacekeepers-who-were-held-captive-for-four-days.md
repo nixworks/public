@@ -18,3 +18,9 @@ A group of 21 Filipino UN peacekeepers captured by rebels in Syria earlier this 
 3. [A suicide bombing at a UN patrol base in Mali results in the deaths of 2 UN peacekeepers and the injury of at least 7 others. ](/news/2014/08/17/a-suicide-bombing-at-a-un-patrol-base-in-mali-results-in-the-deaths-of-2-un-peacekeepers-and-the-injury-of-at-least-7-others.md) _Context: United Nations, peacekeepers_
 4. [UN troops in the Democratic Republic of the Congo launch an offensive, shelling positions held by rebels near the eastern city of Goma. ](/news/2013/08/23/un-troops-in-the-democratic-republic-of-the-congo-launch-an-offensive-shelling-positions-held-by-rebels-near-the-eastern-city-of-goma.md) _Context: United Nations, peacekeepers_
 5. [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _Context: United Nations, peacekeepers_
+
+### Changes:
+
+1. [Syrian civil war:Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/syrian-civil-war-prebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md) _2017-08-25 03:37:46 (First version)_
+2. [Syrian civil war:: Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/syrian-civil-war-rebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md) _2017-08-27 03:37:57 (Update)_
+2. [Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/rebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md) _(Current version)_

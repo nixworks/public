@@ -19,3 +19,8 @@
 3. [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md) _Context: Karachi_
 4. [At least 22 people have been killed and 65 injured following a collision of the Bahauddin Zakaria Express with a stationary train at Juma Goth Train station, Karachi, Pakistan. ](/news/2016/11/3/at-least-22-people-have-been-killed-and-65-injured-following-a-collision-of-the-bahauddin-zakaria-express-with-a-stationary-train-at-juma-go.md) _Context: Karachi_
 5. [At least 14 people are killed and 59 burned when a gas cylinder explosion aboard an oil tanker causes a major fire at the ship-breaking yard in Gadani in Pakistan's Balochistan Province. Dozens other workers remain missing as many injured are transferred to hospitals in nearby Karachi. ](/news/2016/11/1/at-least-14-people-are-killed-and-59-burned-when-a-gas-cylinder-explosion-aboard-an-oil-tanker-causes-a-major-fire-at-the-ship-breaking-yard.md) _Context: Karachi_
+
+### Changes:
+
+1. [At least 40 people are killed and more than 140 are wounded in at least two explosions in Karbala during the final day of Arba'een. ](/news/2010/02/5/at-least-40-people-are-killed-and-more-than-140-are-wounded-in-at-least-two-explosions-in-karbala-during-the-final-day-of-arba-een.md) _2017-10-03 03:30:07 (First version)_
+1. [At least 22 people are killed and more than 50 are injured in two separate bombings in Karachi. ](/news/2010/02/5/at-least-22-people-are-killed-and-more-than-50-are-injured-in-two-separate-bombings-in-karachi.md) _(Current version)_

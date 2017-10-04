@@ -20,3 +20,8 @@
 3. [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md) _Context: Paris_
 4. [Rare specimens of daisies from the 1850s originally held in the National Museum of Natural History in Paris were reportedly destroyed by Australia in March allegedly due to incomplete paperwork. ](/news/2017/05/8/rare-specimens-of-daisies-from-the-1850s-originally-held-in-the-national-museum-of-natural-history-in-paris-were-reportedly-destroyed-by-aus.md) _Context: Paris_
 5. [Yesterday's terrorist attack in Paris disrupts campaigning for the elections. ](/news/2017/04/21/yesterday-s-terrorist-attack-in-paris-disrupts-campaigning-for-the-elections.md) _Context: Paris_
+
+### Changes:
+
+1. [ 2008 Summer Olympics: The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. ](/news/2008/04/7/2008-summer-olympics-the-olympic-torch-is-extinguished-by-officials-as-police-are-confronted-by-protesters-during-the-olympic-torch-relay.md) _2017-08-27 03:21:56 (First version)_
+1. [ The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. ](/news/2008/04/7/the-olympic-torch-is-extinguished-by-officials-as-police-are-confronted-by-protesters-during-the-olympic-torch-relay-through-paris.md) _(Current version)_

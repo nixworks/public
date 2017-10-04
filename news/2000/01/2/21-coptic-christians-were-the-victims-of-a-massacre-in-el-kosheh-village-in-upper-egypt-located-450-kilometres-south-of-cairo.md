@@ -12,3 +12,8 @@
 3. [German and Egyptian archaeologists uncover a humanoid statue with an approximate height of eight metres, believed to be of Ramesses II, at the former site of Heliopolis in northeast Cairo. ](/news/2017/03/9/german-and-egyptian-archaeologists-uncover-a-humanoid-statue-with-an-approximate-height-of-eight-metres-believed-to-be-of-ramesses-ii-at-t.md) _Context: Cairo_
 4. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo_
 5. [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md) _Context: Cairo_
+
+### Changes:
+
+1. [Kosheh massacres: 21 Coptic Christians were the victims of a massacre in el-Kosheh village in Upper Egypt, located 450 kilometres south of Cairo.](/news/2000/01/2/kosheh-massacres-21-coptic-christians-were-the-victims-of-a-massacre-in-el-kosheh-village-in-upper-egypt-located-450-kilometres-south-of-c.md) _2017-08-27 03:15:07 (First version)_
+1. [21 Coptic Christians were the victims of a massacre in el-Kosheh village in Upper Egypt, located 450 kilometres south of Cairo.](/news/2000/01/2/21-coptic-christians-were-the-victims-of-a-massacre-in-el-kosheh-village-in-upper-egypt-located-450-kilometres-south-of-cairo.md) _(Current version)_

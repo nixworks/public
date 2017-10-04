@@ -18,3 +18,8 @@ Former IDF officer was sentenced in absentia to 11 years in prison for training 
 3. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Colombia_
 4. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _Context: Israel_
 5. [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md) _Context: Israel_
+
+### Changes:
+
+1. [Colombia asks Israel to extradite former Israeli army Lt. Col. Yair Klein, who was convicted by a Colombian court ''in absentia'' for training drug lords' assassins in the 1980s. ](/news/2011/01/28/colombia-asks-israel-to-extradite-former-israeli-army-lt-col-yair-klein-who-was-convicted-by-a-colombian-court-in-absentia-for-traini.md) _2017-08-25 03:31:57 (First version)_
+1. [Colombia asks Israel to extradite former Israeli army Lt. Col. Yair Klein, who was convicted by a Colombian court "in absentia" for training drug lords' assassins in the 1980s. ](/news/2011/01/28/colombia-asks-israel-to-extradite-former-israeli-army-lt-col-yair-klein-who-was-convicted-by-a-colombian-court-in-absentia-for-training.md) _(Current version)_

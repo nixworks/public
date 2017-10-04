@@ -16,3 +16,8 @@
 3. [The death toll from the blizzard rises to 38. ](/news/2016/01/26/the-death-toll-from-the-blizzard-rises-to-38.md) _Context: January 2016 United States blizzard_
 4. [This potentially record storm, which is predicted to generate blizzard conditions through a third day on Sunday, has caused at least 10 deaths, knocked out power to hundreds of thousands, led to more than 8,300 canceled flights, stranded many travelers on major highways and, with up to 70 mph winds, produced record-high tides along the Delaware and New Jersey shores. ](/news/2016/01/23/this-potentially-record-storm-which-is-predicted-to-generate-blizzard-conditions-through-a-third-day-on-sunday-has-caused-at-least-10-deat.md) _Context: January 2016 United States blizzard_
 5. [Millions of people in the Mid-Atlantic states brace for a winter storm. ](/news/2016/01/22/millions-of-people-in-the-mid-atlantic-states-brace-for-a-winter-storm.md) _Context: January 2016 United States blizzard_
+
+### Changes:
+
+1. [January 2016 United States blizzard: The death toll from the blizzard that hit the Eastern United States rises to 50. ](/news/2016/01/27/january-2016-united-states-blizzard-the-death-toll-from-the-blizzard-that-hit-the-eastern-united-states-rises-to-50.md) _2017-08-27 03:44:46 (First version)_
+1. [The death toll from the blizzard that hit the Eastern United States rises to 50. ](/news/2016/01/27/the-death-toll-from-the-blizzard-that-hit-the-eastern-united-states-rises-to-50.md) _(Current version)_

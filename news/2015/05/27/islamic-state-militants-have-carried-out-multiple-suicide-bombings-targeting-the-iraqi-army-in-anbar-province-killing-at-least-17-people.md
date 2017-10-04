@@ -16,3 +16,8 @@
 3. [Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car-bombing-in-anbar-province.md) _Context: Anbar province, Iraqi Army_
 4. [The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal-afar-in-the-nineveh-governorate-after-eight-days-of-clashes.md) _Context: Iraqi Army_
 5. [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md) _Context: ISIL_
+
+### Changes:
+
+1. [Islamic State in Iraq and the Levant: Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-in-iraq-and-the-levant-islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-p.md) _2017-08-27 03:42:24 (First version)_
+1. [Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-province-killing-at-least-17-people.md) _(Current version)_

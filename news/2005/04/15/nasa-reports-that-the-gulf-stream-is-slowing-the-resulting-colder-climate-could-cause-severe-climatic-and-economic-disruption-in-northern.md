@@ -16,3 +16,8 @@
 3. [NASA announces Saturn's moon Enceladus has the conditions in its global subsurface ocean to support life. ](/news/2017/04/13/nasa-announces-saturn-s-moon-enceladus-has-the-conditions-in-its-global-subsurface-ocean-to-support-life.md) _Context: NASA_
 4. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: NASA_
 5. [NASA astronaut Shane Kimbrough and ESA astronaut Thomas Pesquet take a spacewalk outside of the International Space Station to prepare the vessel for new arrivals. ](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronaut-thomas-pesquet-take-a-spacewalk-outside-of-the-international-space-station-to-prepare-the-v.md) _Context: NASA_
+
+### Changes:
+
+1. [ NASA reports that the Gulf Stream is slowing. The resulting colder climate could cause severe climatic and economic distruption in Northern Europe. ](/news/2005/04/15/nasa-reports-that-the-gulf-stream-is-slowing-the-resulting-colder-climate-could-cause-severe-climatic-and-economic-distruption-in-norther.md) _2017-06-01 03:16:07 (First version)_
+1. [ NASA reports that the Gulf Stream is slowing. The resulting colder climate could cause severe climatic and economic disruption in Northern Europe. ](/news/2005/04/15/nasa-reports-that-the-gulf-stream-is-slowing-the-resulting-colder-climate-could-cause-severe-climatic-and-economic-disruption-in-northern.md) _(Current version)_

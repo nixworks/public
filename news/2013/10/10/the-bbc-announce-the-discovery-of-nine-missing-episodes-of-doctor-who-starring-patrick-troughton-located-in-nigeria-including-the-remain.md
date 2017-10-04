@@ -17,3 +17,8 @@
 3. [ The relaunch of Doctor Who is officially announced by the BBC.](/news/2004/09/26/the-relaunch-of-doctor-who-is-officially-announced-by-the-bbc.md) _Context: BBC, Doctor Who_
 4. [ The BBC announces that actor Christopher Eccleston is to play Doctor Who when the show makes its eagerly awaited return to television in 2005. ](/news/2004/03/20/the-bbc-announces-that-actor-christopher-eccleston-is-to-play-doctor-who-when-the-show-makes-its-eagerly-awaited-return-to-television-in-20.md) _Context: BBC, Doctor Who_
 5. [The BBC plans to launch a service in Korean. ](/news/2017/09/25/the-bbc-plans-to-launch-a-service-in-korean.md) _Context: BBC_
+
+### Changes:
+
+1. [The BBC announce the discovery of nine missing episodes of ''Doctor Who'' starring Patrick Troughton, located in Nigeria, including the remainder of the partially-missing serial ''The Enemy of the World'' and 4 of the 5 missing episodes of ''The Web of Fear''. ](/news/2013/10/10/the-bbc-announce-the-discovery-of-nine-missing-episodes-of-doctor-who-starring-patrick-troughton-located-in-nigeria-including-the-rema.md) _2017-08-25 03:39:22 (First version)_
+1. [The BBC announce the discovery of nine missing episodes of "Doctor Who" starring Patrick Troughton, located in Nigeria, including the remainder of the partially-missing serial "The Enemy of the World" and 4 of the 5 missing episodes of "The Web of Fear". ](/news/2013/10/10/the-bbc-announce-the-discovery-of-nine-missing-episodes-of-doctor-who-starring-patrick-troughton-located-in-nigeria-including-the-remain.md) _(Current version)_

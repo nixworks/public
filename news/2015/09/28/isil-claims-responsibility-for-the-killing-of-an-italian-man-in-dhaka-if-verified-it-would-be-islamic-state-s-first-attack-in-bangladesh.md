@@ -16,3 +16,8 @@
 3. [A garment factory boiler explosion in Dhaka, Bangladesh, kills 10 people and injures dozens. ](/news/2017/07/4/a-garment-factory-boiler-explosion-in-dhaka-bangladesh-kills-10-people-and-injures-dozens.md) _Context: Bangladesh, Dhaka_
 4. [ A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. ](/news/2016/05/21/a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim-responsibility.md) _Context: Bangladesh, Islamic State_
 5. [A Hindu priest is hacked to death and two devotees, who tried to intercede, are wounded in a temple in the Panchagarh District in northern Bangladesh. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/a-hindu-priest-is-hacked-to-death-and-two-devotees-who-tried-to-intercede-are-wounded-in-a-temple-in-the-panchagarh-district-in-northern-b.md) _Context: Bangladesh, Islamic State_
+
+### Changes:
+
+1. [Islamic State of Iraq and the Levant: ISIL claims responsibility for the killing of an Italian man in Dhaka. If verified, it would be Islamic State's first attack in Bangladesh. ](/news/2015/09/28/islamic-state-of-iraq-and-the-levant-isil-claims-responsibility-for-the-killing-of-an-italian-man-in-dhaka-if-verified-it-would-be-islami.md) _2017-08-27 03:43:10 (First version)_
+1. [ISIL claims responsibility for the killing of an Italian man in Dhaka. If verified, it would be Islamic State's first attack in Bangladesh. ](/news/2015/09/28/isil-claims-responsibility-for-the-killing-of-an-italian-man-in-dhaka-if-verified-it-would-be-islamic-state-s-first-attack-in-bangladesh.md) _(Current version)_

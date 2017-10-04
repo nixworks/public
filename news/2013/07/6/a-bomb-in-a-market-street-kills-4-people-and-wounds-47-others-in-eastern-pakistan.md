@@ -16,3 +16,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Pakistan postpones a visit from U.S. acting Assistant Secretary of State Alice Wells, its foreign ministry says, as some protest President Donald Trump's accusations that Pakistan is harbouring terrorists. ](/news/2017/08/27/pakistan-postpones-a-visit-from-u-s-acting-assistant-secretary-of-state-alice-wells-its-foreign-ministry-says-as-some-protest-president-d.md) _Context: Pakistan_
 4. [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md) _Context: Pakistan_
 5. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan:A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/war-in-north-west-pakistan-pa-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md) _2017-08-25 03:38:57 (First version)_
+2. [War in North-West Pakistan:: A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/war-in-north-west-pakistan-a-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md) _2017-08-27 03:39:12 (Update)_
+2. [A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/a-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md) _(Current version)_

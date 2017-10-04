@@ -13,3 +13,9 @@
 ### Related:
 
 1. [ North Light wins the 225th Epsom Derby, the second race in the British Triple Crown of Thoroughbred Racing. ](/news/2004/06/5/north-light-wins-the-225th-epsom-derby-the-second-race-in-the-british-triple-crown-of-thoroughbred-racing.md) _Context: Epsom Derby_
+
+### Changes:
+
+1. [Horse racing:Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (](/news/2010/06/5/horse-racing-pworkforce-wins-the-epsom-derby-jockey-ryan-l-moore-also-won-the-epsom-oaks-on-friday.md) _2017-08-25 03:28:08 (First version)_
+2. [Horse racing:: Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (](/news/2010/06/5/horse-racing-workforce-wins-the-epsom-derby-jockey-ryan-l-moore-also-won-the-epsom-oaks-on-friday.md) _2017-08-27 03:28:07 (Update)_
+2. [Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (](/news/2010/06/5/workforce-wins-the-epsom-derby-jockey-ryan-l-moore-also-won-the-epsom-oaks-on-friday.md) _(Current version)_

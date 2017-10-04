@@ -17,3 +17,9 @@ At least 40 Syrian soldiers and Iraqis have been killed by gunmen in western Ira
 3. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Iraq, Syria_
 4. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: Iraq, Syria_
 5. [Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the-executive-order-takes.md) _Context: Iraq, Syria_
+
+### Changes:
+
+1. [Akashat ambush:At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/akashat-ambush-pat-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md) _2017-08-25 03:37:42 (First version)_
+2. [Akashat ambush:: At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/akashat-ambush-at-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md) _2017-08-27 03:37:54 (Update)_
+2. [At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/at-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md) _(Current version)_

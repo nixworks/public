@@ -7,7 +7,7 @@ _Context: Imran Khan, Pakistan Tehreek-e-Insaf, Punjab, opposition, politician_
 _Context: government, management, pension reform, strike, transport, unionize_
 
 ### [ United States Secretary of State Condoleezza Rice says the White House wants to broker a permanent deal between Israel and the Palestinian Authority before President George W. Bush leaves office. ](/news/2007/11/21/united-states-secretary-of-state-condoleezza-rice-says-the-white-house-wants-to-broker-a-permanent-deal-between-israel-and-the-palestinian.md)
-_Context: Americans, Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, U.S. President, United States Secretary of State, White House_
+_Context: Americans, Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, Secretary of State, U.S. President, White House_
 
 ### [ Portuguese Minister of Foreign Affairs Lus Amado says Zimbabwean President Robert Mugabe is not welcome at the December European Union-African Union summit in Lisbon. United Kingdom Prime Minister Gordon Brown says he will not attend if Mugabe is present. ](/news/2007/11/21/portuguese-minister-of-foreign-affairs-luis-amado-says-zimbabwean-president-robert-mugabe-is-not-welcome-at-the-december-european-union-afr.md)
 _Context: African Union, EU, Gordon Brown, Lisbon, Lus Amado, Minister of Foreign Affairs, Portugal, President of Zimbabwe, Prime Minister, Robert Mugabe, United Kingdom, Zimbabwe_

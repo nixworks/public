@@ -18,3 +18,9 @@
 3. [Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/tripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md) _Context: NATO, Tripoli_
 4. [NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/nato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses-artillery-fire-to-kill.md) _Context: NATO, Tripoli_
 5. [Libyan leader Muammar Gaddafi's compound in Tripoli is hit by a NATO bombing raid. ](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.md) _Context: NATO, Tripoli_
+
+### Changes:
+
+1. [2011 Libyan civil war:Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/2011-libyan-civil-war-pfresh-nato-airstrikes-take-place-over-the-capital-tripoli.md) _2017-08-25 03:33:26 (First version)_
+2. [2011 Libyan civil war:: Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/2011-libyan-civil-war-fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md) _2017-08-27 03:33:35 (Update)_
+2. [Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md) _(Current version)_

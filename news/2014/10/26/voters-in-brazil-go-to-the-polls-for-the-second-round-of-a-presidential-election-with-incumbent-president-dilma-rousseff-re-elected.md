@@ -18,3 +18,8 @@
 3. [The Brazilian Supreme Federal Court releases a plea bargain testimony from JBS S.A., revealing that the company paid 500 million reais in bribes to politicians, including current President Michel Temer and his predecessors Dilma and Lula. ](/news/2017/05/19/the-brazilian-supreme-federal-court-releases-a-plea-bargain-testimony-from-jbs-s-a-revealing-that-the-company-paid-500-million-reais-in-br.md) _Context: Brazil, Dilma Rousseff, President_
 4. [Brazil's Federal Senate begins the impeachment trial of suspended President Dilma Rousseff. ](/news/2016/08/25/brazil-s-federal-senate-begins-the-impeachment-trial-of-suspended-president-dilma-rousseff.md) _Context: Brazil, Dilma Rousseff, President_
 5. [Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.md) _Context: Brazil, Dilma Rousseff, President_
+
+### Changes:
+
+1. [Brazilian general election, 2014: Voters in Brazil go to the polls for the second round of a presidential election with incumbent President Dilma Rousseff re-elected. ](/news/2014/10/26/brazilian-general-election-2014-voters-in-brazil-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-incumbent-president.md) _2017-08-27 03:41:26 (First version)_
+1. [Voters in Brazil go to the polls for the second round of a presidential election with incumbent President Dilma Rousseff re-elected. ](/news/2014/10/26/voters-in-brazil-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-incumbent-president-dilma-rousseff-re-elected.md) _(Current version)_

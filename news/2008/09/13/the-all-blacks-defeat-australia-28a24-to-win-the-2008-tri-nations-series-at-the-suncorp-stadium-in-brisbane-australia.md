@@ -16,3 +16,8 @@
 3. [Protestors in Brisbane burn Australian flags over indigenous rights. ](/news/2014/11/16/protestors-in-brisbane-burn-australian-flags-over-indigenous-rights.md) _Context: Australia, Brisbane_
 4. [The ninth G-20 summit gets underway in the Australian city of Brisbane. ](/news/2014/11/15/the-ninth-g-20-summit-gets-underway-in-the-australian-city-of-brisbane.md) _Context: Australia, Brisbane_
 5. [Former Kenyan presidential candidate Quincy Timberlake is charged with murder in the Australian city of Brisbane. ](/news/2014/09/2/former-kenyan-presidential-candidate-quincy-timberlake-is-charged-with-murder-in-the-australian-city-of-brisbane.md) _Context: Australia, Brisbane_
+
+### Changes:
+
+1. [ The All Blacks defeat Australia (28-24) to win the 2008 Tri Nations Series at the Suncorp Stadium in Brisbane, Australia. ](/news/2008/09/13/the-all-blacks-defeat-australia-28-24-to-win-the-2008-tri-nations-series-at-the-suncorp-stadium-in-brisbane-australia.md) _2017-08-27 03:22:45 (First version)_
+1. [ The All Blacks defeat Australia (28-24) to win the 2008 Tri Nations Series at the Suncorp Stadium in Brisbane, Australia. ](/news/2008/09/13/the-all-blacks-defeat-australia-28a24-to-win-the-2008-tri-nations-series-at-the-suncorp-stadium-in-brisbane-australia.md) _(Current version)_

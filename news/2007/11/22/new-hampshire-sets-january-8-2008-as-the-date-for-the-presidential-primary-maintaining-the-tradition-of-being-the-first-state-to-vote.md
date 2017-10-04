@@ -17,3 +17,9 @@
 3. [The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md) _Context: New Hampshire_
 4. [Vermont Senator Bernie Sanders endorses Democratic Party rival Hillary Clinton for president at a rally in New Hampshire, effectively suspending his presidential campaign. ](/news/2016/07/12/vermont-senator-bernie-sanders-endorses-democratic-party-rival-hillary-clinton-for-president-at-a-rally-in-new-hampshire-effectively-suspen.md) _Context: New Hampshire_
 5. [The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md) _Context: New Hampshire_
+
+### Changes:
+
+1. [ United States presidential election, 2008: New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/united-states-presidential-election-2008-p-new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tr.md) _2017-08-25 03:21:27 (First version)_
+2. [ United States presidential election, 2008:: New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/united-states-presidential-election-2008-new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tr.md) _2017-08-27 03:21:23 (Update)_
+2. [ New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tradition-of-being-the-first-state-to-vote.md) _(Current version)_

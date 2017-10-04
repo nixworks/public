@@ -13,3 +13,8 @@ Tory MP will resign from Commons at May election after quitting as head of parli
 ### Related:
 
 1. [Two former British foreign secretaries, Jack Straw and Sir Malcolm Rifkind become embroiled in a "cash for access" scandal. The two deny any wrongdoing and refer themselves to the Parliamentary Commissioner for Standards Kathryn Hudson.](/news/2015/02/22/two-former-british-foreign-secretaries-jack-straw-and-sir-malcolm-rifkind-become-embroiled-in-a-cash-for-access-scandal-the-two-deny-any.md) _Context: Malcolm Rifkind_
+
+### Changes:
+
+1. [Former U.K. Foreign Secretary Malcolm Rifkind steps down as chair of a parliamentary intelligence committee and said he won-t run for re-election as a Conservative member of parliament after becoming embroiled in an embarrassing cash-for-access sting. ](/news/2015/02/24/former-u-k-foreign-secretary-malcolm-rifkind-steps-down-as-chair-of-a-parliamentary-intelligence-committee-and-said-he-won-t-run-for-re-e.md) _2017-08-27 03:42:00 (First version)_
+1. [Former U.K. Foreign Secretary Malcolm Rifkind steps down as chair of a parliamentary intelligence committee and said he won't run for re-election as a Conservative member of parliament after becoming embroiled in an embarrassing cash-for-access sting. ](/news/2015/02/24/former-u-k-foreign-secretary-malcolm-rifkind-steps-down-as-chair-of-a-parliamentary-intelligence-committee-and-said-he-wonat-run-for-re-e.md) _(Current version)_

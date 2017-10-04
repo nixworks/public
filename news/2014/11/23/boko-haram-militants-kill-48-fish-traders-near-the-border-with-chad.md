@@ -17,3 +17,9 @@
 3. [Five suicide bombers target a village in Chad that is home to thousands of Nigerian refugees who have fled Boko Haram, killing at least 36 people. ](/news/2015/10/10/five-suicide-bombers-target-a-village-in-chad-that-is-home-to-thousands-of-nigerian-refugees-who-have-fled-boko-haram-killing-at-least-36-p.md) _Context: Boko Haram, Chad_
 4. [Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, Chad. ](/news/2015/07/8/suspected-militants-from-the-nigerian-islamist-group-boko-haram-killed-26-people-in-attacks-on-two-villages-on-lake-chad-chad.md) _Context: Boko Haram, Chad_
 5. [The Chadian Air Force carries out airstrikes against bases of Boko Haram in neighbouring Nigeria to avenge twin bombings in Chad's capital N'Djamena three days ago. ](/news/2015/06/18/the-chadian-air-force-carries-out-airstrikes-against-bases-of-boko-haram-in-neighbouring-nigeria-to-avenge-twin-bombings-in-chad-s-capital-n.md) _Context: Boko Haram, Chad_
+
+### Changes:
+
+1. [Islamist insurgency in Nigeria:Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/islamist-insurgency-in-nigeria-pboko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md) _2017-08-25 03:41:14 (First version)_
+2. [Islamist insurgency in Nigeria:: Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/islamist-insurgency-in-nigeria-boko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md) _2017-08-27 03:41:33 (Update)_
+2. [Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/boko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md) _(Current version)_

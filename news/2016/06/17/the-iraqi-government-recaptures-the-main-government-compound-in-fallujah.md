@@ -16,3 +16,8 @@
 3. [France conducts airstrikes against ISIL positions in Iraq from the French aircraft carrier "Charles de Gaulle". ](/news/2016/09/30/france-conducts-airstrikes-against-isil-positions-in-iraq-from-the-french-aircraft-carrier-charles-de-gaulle.md) _Context: Iraq, Military intervention against ISIL_
 4. [The United States announces it will be sending 560 more United States Armed Forces soldiers to Iraq to help fight against ISIL. ](/news/2016/07/11/the-united-states-announces-it-will-be-sending-560-more-united-states-armed-forces-soldiers-to-iraq-to-help-fight-against-isil.md) _Context: Iraq, Military intervention against ISIL_
 5. [In the Third Battle of Fallujah, ISIL militants attack a military barracks east of Fallujah, killing more than 50 government soldiers and militia members. At least 12 militants were also killed in the assault. ](/news/2016/06/12/in-the-third-battle-of-fallujah-isil-militants-attack-a-military-barracks-east-of-fallujah-killing-more-than-50-government-soldiers-and-mi.md) _Context: Fallujah, Third Battle of Fallujah_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present), The Iraqi government recaptures the main government compound in Fallujah. ](/news/2016/06/17/iraqi-civil-war-2014apresent-the-iraqi-government-recaptures-the-main-government-compound-in-fallujah.md) _2017-08-25 03:45:54 (First version)_
+1. [The Iraqi government recaptures the main government compound in Fallujah. ](/news/2016/06/17/the-iraqi-government-recaptures-the-main-government-compound-in-fallujah.md) _(Current version)_

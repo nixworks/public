@@ -16,3 +16,8 @@
 3. [Police in India kill Umakanta Mahato, a top Maoist guerilla wanted in connection with the Gyaneshwari Express train derailment in May. ](/news/2010/08/27/police-in-india-kill-umakanta-mahato-a-top-maoist-guerilla-wanted-in-connection-with-the-gyaneshwari-express-train-derailment-in-may.md) _Context: India, Indian Police_
 4. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
 5. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
+
+### Changes:
+
+1. [According to Indian Police, at least one person is killed and up to 20 people injured during, what became violent, protests by the Jat agricultural community in Rohtak, India, for a 10 percent increase in the number of their caste quota (affirmative action). ](/news/2016/02/19/according-to-indian-police-at-least-one-person-is-killed-and-up-to-20-people-injured-during-what-became-violent-protests-by-the-jat-ag.md) _2017-08-25 03:44:36 (First version)_
+1. [According to Indian Police, at least one person is killed and up to 20 people injured during, what became violent, protests by the Jat agricultural community in Rohtak, India, for a 10 percent increase in the number of their caste quota (affirmative action). ](/news/2016/02/19/according-to-indian-police-at-least-one-person-is-killed-and-up-to-20-people-injured-during-what-became-violent-protests-by-the-jat-agric.md) _(Current version)_

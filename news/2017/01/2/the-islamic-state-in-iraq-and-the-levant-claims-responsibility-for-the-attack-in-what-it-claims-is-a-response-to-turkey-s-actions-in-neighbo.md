@@ -16,3 +16,8 @@
 3. [Turkey launches its first air strikes against ISIL in Syria. ](/news/2015/08/29/turkey-launches-its-first-air-strikes-against-isil-in-syria.md) _Context: ISIL, Syria, Turkey_
 4. [Thousands of Syrians flee into Turkey as Kurdish fighters come closer to capturing the border town of Tell Abyad from Islamic State in Iraq and the Levant. ](/news/2015/06/14/thousands-of-syrians-flee-into-turkey-as-kurdish-fighters-come-closer-to-capturing-the-border-town-of-tell-abyad-from-islamic-state-in-iraq.md) _Context: ISIL, Syria, Turkey_
 5. [Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units encircle the ISIL-held town of Suluk. ](/news/2015/06/13/some-13-000-refugees-have-crossed-into-turkey-as-syrian-kurd-people-s-protection-units-encircle-the-isil-held-town-of-suluk.md) _Context: ISIL, Syria, Turkey_
+
+### Changes:
+
+1. [2017 Istanbul nightclub attack: The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/2017-istanbul-nightclub-attack-the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-respons.md) _2017-08-27 03:47:34 (First version)_
+1. [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md) _(Current version)_

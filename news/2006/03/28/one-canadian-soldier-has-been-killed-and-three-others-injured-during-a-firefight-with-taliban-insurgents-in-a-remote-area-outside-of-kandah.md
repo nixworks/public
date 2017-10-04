@@ -17,3 +17,8 @@ A Canadian soldier was killed early Wednesday when Taliban insurgents attacked a
 3. [Three Taliban insurgents are killed by a team of Afghan police and private commandos after attacking a former National Directorate of Security headquarters in Kandahar, Afghanistan. The Taliban claims they killed four commandos and five policemen, which police deny. ](/news/2014/03/12/three-taliban-insurgents-are-killed-by-a-team-of-afghan-police-and-private-commandos-after-attacking-a-former-national-directorate-of-securi.md) _Context: Kandahar, Taliban_
 4. [Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. ](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.md) _Context: Canadian, Kandahar_
 5. [ Afghan and Canadian forces begin an offensive against the Taliban in the Arghandab District of Kandahar. ](/news/2008/06/18/afghan-and-canadian-forces-begin-an-offensive-against-the-taliban-in-the-arghandab-district-of-kandahar.md) _Context: Kandahar, Taliban_
+
+### Changes:
+
+1. [ One Canadian soldier has been killed and three others injured during a firefight with Taliban insurgents in a remote area outside of Kandahar. ](/news/2006/03/28/one-canadian-soldier-has-been-killed-and-three-others-injured-during-a-firefight-with-taliban-insurgents-in-a-remote-area-outside-of-kanda.md) _2017-08-25 03:17:32 (First version)_
+1. [ One Canadian soldier has been killed and three others injured during a firefight with Taliban insurgents in a remote area outside of Kandahar. ](/news/2006/03/28/one-canadian-soldier-has-been-killed-and-three-others-injured-during-a-firefight-with-taliban-insurgents-in-a-remote-area-outside-of-kandah.md) _(Current version)_

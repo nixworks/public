@@ -17,3 +17,8 @@
 3. [Burma's Supreme Court rejects an appeal by detained National League for Democracy leader Aung San Suu Kyi against an 18 month extension on her house arrest. ](/news/2010/02/26/burma-s-supreme-court-rejects-an-appeal-by-detained-national-league-for-democracy-leader-aung-san-suu-kyi-against-an-18-month-extension-on-h.md) _Context: Aung San Suu Kyi, house arrest_
 4. [The Burmese Supreme Court announces it will return a verdict on the extended house arrest of Aung San Suu Kyi by next month. ](/news/2010/01/20/the-burmese-supreme-court-announces-it-will-return-a-verdict-on-the-extended-house-arrest-of-aung-san-suu-kyi-by-next-month.md) _Context: Aung San Suu Kyi, house arrest_
 5. [Burma's Supreme Court hears a last appeal against the house arrest of detained National League for Democracy leader Aung San Suu Kyi. ](/news/2010/01/18/burma-s-supreme-court-hears-a-last-appeal-against-the-house-arrest-of-detained-national-league-for-democracy-leader-aung-san-suu-kyi.md) _Context: Aung San Suu Kyi, house arrest_
+
+### Changes:
+
+1. [ Aung San Suu Kyi: The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. ](/news/2008/05/27/aung-san-suu-kyi-the-state-peace-and-development-council-extends-aung-san-suu-kyi-s-house-arrest-by-one-year.md) _2017-08-27 03:22:08 (First version)_
+1. [ The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. ](/news/2008/05/27/the-state-peace-and-development-council-extends-aung-san-suu-kyi-s-house-arrest-by-one-year.md) _(Current version)_

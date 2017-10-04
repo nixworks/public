@@ -18,3 +18,8 @@ An explosion inside Cairo&#039;s Coptic cathedral has killed at least 25 people 
 3. [German and Egyptian archaeologists uncover a humanoid statue with an approximate height of eight metres, believed to be of Ramesses II, at the former site of Heliopolis in northeast Cairo. ](/news/2017/03/9/german-and-egyptian-archaeologists-uncover-a-humanoid-statue-with-an-approximate-height-of-eight-metres-believed-to-be-of-ramesses-ii-at-t.md) _Context: Cairo_
 4. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo_
 5. [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md) _Context: Cairo_
+
+### Changes:
+
+1. [Botroseya Church bombing: A bombing in Saint Mark's Coptic Orthodox Cathedral in Cairo kills at least 25 people and injures at least 49 others. ](/news/2016/12/11/botroseya-church-bombing-a-bombing-in-saint-mark-s-coptic-orthodox-cathedral-in-cairo-kills-at-least-25-people-and-injures-at-least-49-othe.md) _2017-08-27 03:47:25 (First version)_
+1. [A bombing in Saint Mark's Coptic Orthodox Cathedral in Cairo kills at least 25 people and injures at least 49 others. ](/news/2016/12/11/a-bombing-in-saint-mark-s-coptic-orthodox-cathedral-in-cairo-kills-at-least-25-people-and-injures-at-least-49-others.md) _(Current version)_

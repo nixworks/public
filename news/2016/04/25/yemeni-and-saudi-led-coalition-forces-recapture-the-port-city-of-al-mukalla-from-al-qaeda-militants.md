@@ -17,3 +17,8 @@ The Yemeni port city of Mukalla, controlled by jihadist militants from al-Qaeda 
 3. [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md) _Context: Saudi Arabian-led intervention in Yemen, Yemeni conflict_
 4. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Saudi Arabian-led intervention in Yemen, Yemeni conflict_
 5. [An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthis-blames-the-saudi-led-coalition-fo.md) _Context: Saudi Arabian-led intervention in Yemen, Yemeni conflict_
+
+### Changes:
+
+1. [Yemeni Civil War (2015-present): Yemeni and Saudi-led coalition forces recapture the port city of Al Mukalla from al-Qaeda militants. ](/news/2016/04/25/yemeni-civil-war-2015-present-yemeni-and-saudi-led-coalition-forces-recapture-the-port-city-of-al-mukalla-from-al-qaeda-militants.md) _2017-08-27 03:45:50 (First version)_
+1. [Yemeni and Saudi-led coalition forces recapture the port city of Al Mukalla from al-Qaeda militants. ](/news/2016/04/25/yemeni-and-saudi-led-coalition-forces-recapture-the-port-city-of-al-mukalla-from-al-qaeda-militants.md) _(Current version)_

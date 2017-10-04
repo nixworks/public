@@ -25,3 +25,9 @@ CBS News Chicago station reports trace amounts of radiation clinging to flights 
 3. [Three people die after a helicopter working with the Canadian Coast Guard research ship CCGS "Amundsen" crashes in the Arctic Ocean. ](/news/2013/09/10/three-people-die-after-a-helicopter-working-with-the-canadian-coast-guard-research-ship-ccgs-amundsen-crashes-in-the-arctic-ocean.md) _Context: helicopter_
 4. [Four men including the pilot die in a helicopter crash in southern Switzerland. ](/news/2013/06/29/four-men-including-the-pilot-die-in-a-helicopter-crash-in-southern-switzerland.md) _Context: helicopter_
 5. [A helicopter crash kills two American NATO soldiers in eastern Afghanistan. ](/news/2013/04/9/a-helicopter-crash-kills-two-american-nato-soldiers-in-eastern-afghanistan.md) _Context: helicopter_
+
+### Changes:
+
+1. [Fukushima I nuclear accidents:Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/fukushima-i-nuclear-accidents-phelicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-th.md) _2017-08-25 03:32:33 (First version)_
+2. [Fukushima I nuclear accidents:: Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/fukushima-i-nuclear-accidents-helicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-t.md) _2017-08-27 03:32:42 (Update)_
+2. [Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/helicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-the-core.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [The title of the seventh installment of the Star Wars film franchise is revealed to be "The Force Awakens". ](/news/2014/11/6/the-title-of-the-seventh-installment-of-the-star-wars-film-franchise-is-revealed-to-be-the-force-awakens.md) _Context: Star Wars_
 4. [The Walt Disney Company purchases Lucasfilm Ltd. from George Lucas for US$4.05 billion. Included in the deal are the rights to the "Star Wars" and "Indiana Jones" franchises. ](/news/2012/10/30/the-walt-disney-company-purchases-lucasfilm-ltd-from-george-lucas-for-us-4-05-billion-included-in-the-deal-are-the-rights-to-the-star-war.md) _Context: Star Wars_
 5. [ Russian television news channels air repeated coverage of a UFO, shaped like a pyramid and similar to an Imperial Cruiser from "Star Wars". ](/news/2009/12/18/russian-television-news-channels-air-repeated-coverage-of-a-ufo-shaped-like-a-pyramid-and-similar-to-an-imperial-cruiser-from-star-wars.md) _Context: Star Wars_
+
+### Changes:
+
+1. [Carrie Fisher, the actress and writer best known for playing Princess Leia in the ''Star Wars'' franchise, dies following complications from a heart attack. ](/news/2016/12/27/carrie-fisher-the-actress-and-writer-best-known-for-playing-princess-leia-in-the-star-wars-franchise-dies-following-complications-from.md) _2017-08-25 03:47:08 (First version)_
+1. [Carrie Fisher, the actress and writer best known for playing Princess Leia in the "Star Wars" franchise, dies following complications from a heart attack. ](/news/2016/12/27/carrie-fisher-the-actress-and-writer-best-known-for-playing-princess-leia-in-the-star-wars-franchise-dies-following-complications-from-a.md) _(Current version)_

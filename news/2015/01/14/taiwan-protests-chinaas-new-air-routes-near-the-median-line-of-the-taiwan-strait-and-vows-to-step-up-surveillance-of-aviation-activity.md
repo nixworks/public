@@ -18,3 +18,8 @@
 3. [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _Context: China, Taiwan_
 4. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: China, Taiwan_
 5. [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md) _Context: China, Taiwan_
+
+### Changes:
+
+1. [Taiwan protests China-s new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-china-s-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md) _2017-08-27 03:41:47 (First version)_
+1. [Taiwan protests China's new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-chinaas-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md) _(Current version)_

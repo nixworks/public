@@ -17,3 +17,9 @@ Fifteen people have been killed and 14 others wounded in a &quot;terrorist attac
 3. [ Four Chinese Uighurs from the Guantanamo Bay detention camp are resettled in Bermuda. ](/news/2009/06/11/four-chinese-uighurs-from-the-guantanamo-bay-detention-camp-are-resettled-in-bermuda.md) _Context: China, Uyghur_
 4. [ Palau agrees to accept up to 17 Chinese Uighurs from Guantanamo Bay detention camp. ](/news/2009/06/10/palau-agrees-to-accept-up-to-17-chinese-uighurs-from-guantanamo-bay-detention-camp.md) _Context: China, Uyghur_
 5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
+
+### Changes:
+
+1. [Xinjiang conflict Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/xinjiang-conflict-pchinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkan.md) _2017-05-25 03:43:06 (First version)_
+2. [Xinjiang conflict: Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/xinjiang-conflict-chinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkan.md) _2017-08-27 03:41:34 (Update)_
+2. [Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/chinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkant-county-china.md) _(Current version)_

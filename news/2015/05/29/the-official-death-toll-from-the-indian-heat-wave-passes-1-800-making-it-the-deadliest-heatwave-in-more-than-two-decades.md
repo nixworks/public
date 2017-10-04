@@ -16,3 +16,8 @@ Indian authorities urged hospitals to treat heatstroke as an emergency as the to
 2. [The death toll from the heat wave reaches 2,100 with intense heat to continue until Monday. ](/news/2015/05/31/the-death-toll-from-the-heat-wave-reaches-2-100-with-intense-heat-to-continue-until-monday.md) _Context: 2015 Indian heat wave_
 3. [The death toll from the Indian heat wave rises to over 1,400 with over 1000 dead in Andhra Pradesh state alone. ](/news/2015/05/28/the-death-toll-from-the-indian-heat-wave-rises-to-over-1-400-with-over-1000-dead-in-andhra-pradesh-state-alone.md) _Context: 2015 Indian heat wave_
 4. [The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md) _Context: 2015 Indian heat wave_
+
+### Changes:
+
+1. [2015 Indian heat wave: The official death toll from the Indian heat wave passes 1,800 making it the deadliest heatwave in more than two decades. ](/news/2015/05/29/2015-indian-heat-wave-the-official-death-toll-from-the-indian-heat-wave-passes-1-800-making-it-the-deadliest-heatwave-in-more-than-two-deca.md) _2017-08-27 03:42:26 (First version)_
+1. [The official death toll from the Indian heat wave passes 1,800 making it the deadliest heatwave in more than two decades. ](/news/2015/05/29/the-official-death-toll-from-the-indian-heat-wave-passes-1-800-making-it-the-deadliest-heatwave-in-more-than-two-decades.md) _(Current version)_

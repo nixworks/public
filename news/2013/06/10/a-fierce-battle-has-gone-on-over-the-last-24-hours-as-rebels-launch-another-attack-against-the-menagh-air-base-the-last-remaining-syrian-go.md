@@ -16,3 +16,9 @@
 3. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo_
 4. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Aleppo_
 5. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo_
+
+### Changes:
+
+1. [Syrian civil war:A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/syrian-civil-war-pa-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last-r.md) _2017-08-25 03:38:49 (First version)_
+2. [Syrian civil war:: A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/syrian-civil-war-a-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last.md) _2017-08-27 03:39:02 (Update)_
+2. [A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/a-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last-remaining-syrian-go.md) _(Current version)_

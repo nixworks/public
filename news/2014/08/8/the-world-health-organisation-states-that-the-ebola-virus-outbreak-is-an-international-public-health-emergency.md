@@ -18,3 +18,9 @@ The World Health Organization on Friday declared the Ebola outbreak in West Afri
 3. [The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md) _Context: World Health Organisation, ebola virus_
 4. [The official death toll from the Ebola virus outbreak reaches 3,000 with the World Health Organisation warning that the official figures "vastly underestimate the true scale of the epidemic". ](/news/2014/09/27/the-official-death-toll-from-the-ebola-virus-outbreak-reaches-3-000-with-the-world-health-organisation-warning-that-the-official-figures-va.md) _Context: World Health Organisation, ebola virus_
 5. [The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md) _Context: World Health Organisation, ebola virus_
+
+### Changes:
+
+1. [2014 West Africa Ebola outbreak:The World Health Organisation states that the Ebola virus outbreak is an international public health emergency. ](/news/2014/08/8/2014-west-africa-ebola-outbreak-pthe-world-health-organisation-states-that-the-ebola-virus-outbreak-is-an-international-public-health-emerge.md) _2017-08-25 03:40:49 (First version)_
+2. [2014 West Africa Ebola outbreak:: The World Health Organisation states that the Ebola virus outbreak is an international public health emergency. ](/news/2014/08/8/2014-west-africa-ebola-outbreak-the-world-health-organisation-states-that-the-ebola-virus-outbreak-is-an-international-public-health-emerg.md) _2017-08-27 03:41:07 (Update)_
+2. [The World Health Organisation states that the Ebola virus outbreak is an international public health emergency. ](/news/2014/08/8/the-world-health-organisation-states-that-the-ebola-virus-outbreak-is-an-international-public-health-emergency.md) _(Current version)_

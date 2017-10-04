@@ -18,3 +18,8 @@ Shanghai (AFP) - Super typhoon Chan-hom barrelled towards eastern China near com
 3. [The death toll from a landslide on Friday in China's Zhejiang province rises to 16 with 21 still missing. ](/news/2015/11/15/the-death-toll-from-a-landslide-on-friday-in-china-s-zhejiang-province-rises-to-16-with-21-still-missing.md) _Context: China, Zhejiang_
 4. [At least four people are dead and 33 injured in a landslide in China's Zhejiang province. ](/news/2015/11/13/at-least-four-people-are-dead-and-33-injured-in-a-landslide-in-china-s-zhejiang-province.md) _Context: China, Zhejiang_
 5. [Typhoon Dujuan hits mainland China in Fujian province after hitting Taiwan, where it caused two deaths and injured 300. ](/news/2015/09/29/typhoon-dujuan-hits-mainland-china-in-fujian-province-after-hitting-taiwan-where-it-caused-two-deaths-and-injured-300.md) _Context: 2015 Pacific typhoon season, China_
+
+### Changes:
+
+1. [2015 Pacific typhoon season: Eastern China braces for the impact of Typhoon Chan-hom with the province of Zhejiang evacuating 865,000 people in coastal areas. ](/news/2015/07/11/2015-pacific-typhoon-season-eastern-china-braces-for-the-impact-of-typhoon-chan-hom-with-the-province-of-zhejiang-evacuating-865-000-people.md) _2017-08-27 03:42:41 (First version)_
+1. [Eastern China braces for the impact of Typhoon Chan-hom with the province of Zhejiang evacuating 865,000 people in coastal areas. ](/news/2015/07/11/eastern-china-braces-for-the-impact-of-typhoon-chan-hom-with-the-province-of-zhejiang-evacuating-865-000-people-in-coastal-areas.md) _(Current version)_

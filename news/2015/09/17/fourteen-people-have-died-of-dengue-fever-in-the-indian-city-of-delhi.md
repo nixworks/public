@@ -17,3 +17,8 @@ A three-year-old girl has died of dengue, taking the total number of dead to 15 
 3. [Jat protesters shut down 70% of Delhi's water supply meaning the Indian city could run out of water by the end of the weekend. At least nine people are killed in fighting. ](/news/2016/02/20/jat-protesters-shut-down-70-of-delhi-s-water-supply-meaning-the-indian-city-could-run-out-of-water-by-the-end-of-the-weekend-at-least-nine.md) _Context: Delhi, India_
 4. [Authorities in the Dominican Republic issue an alert as the number of deaths (57 this year) and cases of dengue fever continue to rise. ](/news/2015/09/19/authorities-in-the-dominican-republic-issue-an-alert-as-the-number-of-deaths-57-this-year-and-cases-of-dengue-fever-continue-to-rise.md) _Context: 2015 Dengue fever outbreaks, dengue fever_
 5. [Bus drivers in the Indian city of Delhi call off a strike to protest the murder of a driver after the state government invokes the Essential Services Maintenance Act (ESMA). ](/news/2015/05/12/bus-drivers-in-the-indian-city-of-delhi-call-off-a-strike-to-protest-the-murder-of-a-driver-after-the-state-government-invokes-the-essential.md) _Context: Delhi, India_
+
+### Changes:
+
+1. [2015 Dengue fever outbreaks: Fourteen people have died of dengue fever in the Indian city of Delhi. ](/news/2015/09/17/2015-dengue-fever-outbreaks-fourteen-people-have-died-of-dengue-fever-in-the-indian-city-of-delhi.md) _2017-08-27 03:43:04 (First version)_
+1. [Fourteen people have died of dengue fever in the Indian city of Delhi. ](/news/2015/09/17/fourteen-people-have-died-of-dengue-fever-in-the-indian-city-of-delhi.md) _(Current version)_

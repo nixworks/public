@@ -46,3 +46,9 @@ Ahmad Shafiq promises not to allow street violence again, after clashes in Cairo
 37. [his blog](http://www.sandmonkey.org/cgi-sys/suspendedpage.cgi)
 38. [iloubnan](http://iloubnan.info/politics/actualite/id/55656/titre/Nile-Sat-journalist-resigns-after-being-intimidated-by-the-state)
 38. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/3/2011231374959738_20.jpg)
+
+### Changes:
+
+1. [2011 Egyptian protests:Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/2011-egyptian-protests-panti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md) _2017-08-25 03:32:02 (First version)_
+2. [2011 Egyptian protests:: Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/2011-egyptian-protests-anti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md) _2017-08-27 03:32:10 (Update)_
+2. [Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/anti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md) _(Current version)_

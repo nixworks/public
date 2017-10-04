@@ -17,3 +17,8 @@ A hot air balloon carrying at least 16 people catches fire and crashes in the US
 3. [Two people are killed after a hot air balloon crashes onto a bowling green in Midsomer Norton, Somerset, United Kingdom. ](/news/2011/01/1/two-people-are-killed-after-a-hot-air-balloon-crashes-onto-a-bowling-green-in-midsomer-norton-somerset-united-kingdom.md) _Context: hot air balloon_
 4. [ Two people are killed and eleven are injured when a hot air balloon bursts into flames in Surrey, British Columbia, Canada. ](/news/2007/08/24/two-people-are-killed-and-eleven-are-injured-when-a-hot-air-balloon-bursts-into-flames-in-surrey-british-columbia-canada.md) _Context: hot air balloon_
 5. [ Vijaypat Singhania of India sets a world record for highest hot air balloon flight, reaching 69,852 feet (20.29 km). ](/news/2005/11/26/vijaypat-singhania-of-india-sets-a-world-record-for-highest-hot-air-balloon-flight-reaching-69-852-feet-20-29-km.md) _Context: hot air balloon_
+
+### Changes:
+
+1. [2016 Lockhart hot air balloon crash: At least 16 people are killed after a hot air balloon catches fire and crashes near Lockhart, Texas. ](/news/2016/07/30/2016-lockhart-hot-air-balloon-crash-at-least-16-people-are-killed-after-a-hot-air-balloon-catches-fire-and-crashes-near-lockhart-texas.md) _2017-08-27 03:46:34 (First version)_
+1. [At least 16 people are killed after a hot air balloon catches fire and crashes near Lockhart, Texas. ](/news/2016/07/30/at-least-16-people-are-killed-after-a-hot-air-balloon-catches-fire-and-crashes-near-lockhart-texas.md) _(Current version)_

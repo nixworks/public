@@ -17,3 +17,8 @@
 3. [The Union for a Popular Movement reelects former French President Nicolas Sarkozy, as the party leader. ](/news/2014/11/29/the-union-for-a-popular-movement-reelects-former-french-president-nicolas-sarkozy-as-the-party-leader.md) _Context: UMP_
 4. [Voters in France go to the polls for municipal elections with candidates from the centre-right Union for a Popular Movement performing well. ](/news/2014/03/23/voters-in-france-go-to-the-polls-for-municipal-elections-with-candidates-from-the-centre-right-union-for-a-popular-movement-performing-well.md) _Context: UMP_
 5. [French Labour Minister Eric Woerth resigns as UMP party treasurer at the request of President Nicolas Sarkozy to focus on pension reform. ](/news/2010/07/13/french-labour-minister-aric-warth-resigns-as-ump-party-treasurer-at-the-request-of-president-nicolas-sarkozy-to-focus-on-pension-reform.md) _Context: UMP_
+
+### Changes:
+
+1. [Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of -79.1 millions for the year 2013 ](/news/2014/07/8/amidst-several-spending-scandals-the-french-major-opposition-party-union-for-a-popular-movement-is-discovered-to-have-an-hidden-debt-of.md) _2017-08-27 03:40:57 (First version)_
+1. [Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of EUR79.1 millions for the year 2013 ](/news/2014/07/8/amidst-several-spending-scandals-the-french-major-opposition-party-union-for-a-popular-movement-is-discovered-to-have-an-hidden-debt-of-a.md) _(Current version)_

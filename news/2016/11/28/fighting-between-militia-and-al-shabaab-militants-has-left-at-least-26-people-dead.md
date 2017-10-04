@@ -16,3 +16,8 @@ Twenty six people have been killed and several others wounded in an ongoing heav
 3. [Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.md) _Context: Al-Shabaab, War in Somalia (2009-present)_
 4. [The United States is to deploy troops to Somalia for the first time since 1994 to help train the Somali Armed Forces in their conflict with al-Shabaab insurgents. ](/news/2017/04/14/the-united-states-is-to-deploy-troops-to-somalia-for-the-first-time-since-1994-to-help-train-the-somali-armed-forces-in-their-conflict-with.md) _Context: Al-Shabaab, War in Somalia (2009-present)_
 5. [A suicide bomber attacks a military training camp in Mogadishu, killing at least nine soldiers. Al-Shabaab claimed responsibility for the attack. ](/news/2017/04/10/a-suicide-bomber-attacks-a-military-training-camp-in-mogadishu-killing-at-least-nine-soldiers-al-shabaab-claimed-responsibility-for-the-at.md) _Context: Al-Shabaab, War in Somalia (2009-present)_
+
+### Changes:
+
+1. [War in Somalia (2009-present): Fighting between militia and Al-Shabaab militants has left at least 26 people dead. ](/news/2016/11/28/war-in-somalia-2009-present-fighting-between-militia-and-al-shabaab-militants-has-left-at-least-26-people-dead.md) _2017-08-27 03:47:19 (First version)_
+1. [Fighting between militia and Al-Shabaab militants has left at least 26 people dead. ](/news/2016/11/28/fighting-between-militia-and-al-shabaab-militants-has-left-at-least-26-people-dead.md) _(Current version)_

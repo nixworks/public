@@ -12,3 +12,9 @@
 3. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
 4. [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md) _Context: France_
 5. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
+
+### Changes:
+
+1. [ Nobel Prize: French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-p-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md) _2017-08-25 03:23:01 (First version)_
+2. [ Nobel Prize:: French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md) _2017-08-27 03:22:54 (Update)_
+2. [ French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md) _(Current version)_

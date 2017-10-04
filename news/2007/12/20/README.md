@@ -7,7 +7,7 @@ _Context: Louisiana, New Orleans, Louisiana, public housing_
 _Context: 2008, Mitt Romney, Republican, Tom Tancredo_
 
 ### [ The US$8 billion buyout of the Tribune Company is completed by Sam Zell. ](/news/2007/12/20/the-us-8-billion-buyout-of-the-tribune-company-is-completed-by-sam-zell.md)
-_Context: Sam Zell, Tribune Company, US$_
+_Context: $, Sam Zell, Tribune Company_
 
 ### [ At 81 years, 7 months, and 29 days, Queen Elizabeth II becomes the longest-lived British monarch, surpassing the record of Queen Victoria. ](/news/2007/12/20/at-81-years-7-months-and-29-days-queen-elizabeth-ii-becomes-the-longest-lived-british-monarch-surpassing-the-record-of-queen-victoria.md)
 _Context: Queen, Queen Elizabeth, Queen Victoria_

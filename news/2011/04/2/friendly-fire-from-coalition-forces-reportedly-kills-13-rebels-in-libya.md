@@ -18,3 +18,9 @@ A NATO airstrike intended to thwart Moammar Gadhafi&#39;s forces killed 13 rebel
 3. [In a friendly fire incident, a NATO air strike hits an Afghan National Army outpost in Logar Province, about 30 miles east of Kabul, with at least seven soldiers killed and five wounded. ](/news/2015/07/20/in-a-friendly-fire-incident-a-nato-air-strike-hits-an-afghan-national-army-outpost-in-logar-province-about-30-miles-east-of-kabul-with-at.md) _Context: friendly fire_
 4. [Five American soldiers, an Afghan soldier, and an interpreter in the Zabul province of Afghanistan are killed when a NATO air strike accidentally targeted them. ](/news/2014/06/10/five-american-soldiers-an-afghan-soldier-and-an-interpreter-in-the-zabul-province-of-afghanistan-are-killed-when-a-nato-air-strike-acciden.md) _Context: friendly fire_
 5. [German troops kill at least five Afghan soldiers in a friendly fire incident north of the capital Kabul. ](/news/2010/04/3/german-troops-kill-at-least-five-afghan-soldiers-in-a-friendly-fire-incident-north-of-the-capital-kabul.md) _Context: friendly fire_
+
+### Changes:
+
+1. [Libyan Civil War:Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/libyan-civil-war-pfriendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md) _2017-08-25 03:32:43 (First version)_
+2. [Libyan Civil War:: Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/libyan-civil-war-friendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md) _2017-08-27 03:32:51 (Update)_
+2. [Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/friendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md) _(Current version)_

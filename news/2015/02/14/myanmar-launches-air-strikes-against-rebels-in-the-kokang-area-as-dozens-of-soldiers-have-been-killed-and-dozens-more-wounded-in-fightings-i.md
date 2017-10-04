@@ -16,3 +16,8 @@
 3. [Several days of clashes with Kokang rebels in the north of the country kills forty-seven Myanmar Army soldiers with dozens wounded. ](/news/2015/02/13/several-days-of-clashes-with-kokang-rebels-in-the-north-of-the-country-kills-forty-seven-myanmar-army-soldiers-with-dozens-wounded.md) _Context: Internal conflict in Burma, Kokang offensive_
 4. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: Myanmar_
 5. [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md) _Context: Myanmar_
+
+### Changes:
+
+1. [Internal conflict in Burma: Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/internal-conflict-in-burma-myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens.md) _2017-08-27 03:41:56 (First version)_
+1. [Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens-more-wounded-in-fightings-i.md) _(Current version)_

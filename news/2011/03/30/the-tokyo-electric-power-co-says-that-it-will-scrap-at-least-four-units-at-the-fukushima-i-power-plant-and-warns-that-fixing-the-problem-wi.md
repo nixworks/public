@@ -18,3 +18,8 @@ Japan called on the world not to impose &quot;unjustifiable&quot; import curbs o
 3. [Tokyo Electric Power Co. (TEPCO) announces new plans to tackle the ongoing Fukushima I nuclear crisis, after it is discovered that the problems with the number 1 reactor at the Fukushima I plant are worse than thought. ](/news/2011/05/17/tokyo-electric-power-co-tepco-announces-new-plans-to-tackle-the-ongoing-fukushima-i-nuclear-crisis-after-it-is-discovered-that-the-probl.md) _Context: Tokyo Electric Power Co._
 4. [Workers at the Fukushima I Nuclear Power Plant manage to plug radiation leaks. ](/news/2011/04/6/workers-at-the-fukushima-i-nuclear-power-plant-manage-to-plug-radiation-leaks.md) _Context: Fukushima I Nuclear Power Plant_
 5. [The bodies of two dead workers are found at the afflicted Fukushima I Nuclear Power Plant in Japan. ](/news/2011/04/3/the-bodies-of-two-dead-workers-are-found-at-the-afflicted-fukushima-i-nuclear-power-plant-in-japan.md) _Context: Fukushima I Nuclear Power Plant_
+
+### Changes:
+
+1. [Fukushima I Nuclear Power Plant: The Tokyo Electric Power Co. says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. ](/news/2011/03/30/fukushima-i-nuclear-power-plant-the-tokyo-electric-power-co-says-that-it-will-scrap-at-least-four-units-at-the-fukushima-i-power-plant-and.md) _2017-08-27 03:32:49 (First version)_
+1. [The Tokyo Electric Power Co. says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. ](/news/2011/03/30/the-tokyo-electric-power-co-says-that-it-will-scrap-at-least-four-units-at-the-fukushima-i-power-plant-and-warns-that-fixing-the-problem-wi.md) _(Current version)_

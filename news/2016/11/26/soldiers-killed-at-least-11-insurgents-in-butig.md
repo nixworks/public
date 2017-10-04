@@ -17,3 +17,8 @@ Government troops have killed at least 11 members of a rebel group in the southe
 3. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Moro conflict_
 4. [Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-philippines.md) _Context: Moro conflict_
 5. [Muslim rebel group Moro National Liberation Front leader Nur Misuari meets with Philippines president Rodrigo Duterte in Malacanang Palace after receiving a reprieve from previous crimes of rebellion. ](/news/2016/11/3/muslim-rebel-group-moro-national-liberation-front-leader-nur-misuari-meets-with-philippines-president-rodrigo-duterte-in-malacaa-ang-palace.md) _Context: Moro conflict_
+
+### Changes:
+
+1. [Moro conflict: November 2016 Butig clash: Soldiers killed at least 11 insurgents in Butig. ](/news/2016/11/26/moro-conflict-november-2016-butig-clash-soldiers-killed-at-least-11-insurgents-in-butig.md) _2017-08-27 03:47:18 (First version)_
+1. [Soldiers killed at least 11 insurgents in Butig. ](/news/2016/11/26/soldiers-killed-at-least-11-insurgents-in-butig.md) _(Current version)_

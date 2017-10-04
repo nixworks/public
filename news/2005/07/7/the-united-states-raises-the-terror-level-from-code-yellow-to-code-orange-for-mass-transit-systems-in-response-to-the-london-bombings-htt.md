@@ -12,3 +12,8 @@
 3. [The inquest into the 7 July 2005 London bombings concludes with the ruling that the victims had been unlawfully killed. ](/news/2011/05/6/the-inquest-into-the-7-july-2005-london-bombings-concludes-with-the-ruling-that-the-victims-had-been-unlawfully-killed.md) _Context: 7 July_
 4. [British judge Heather Hallett opens the inquests into the 7 July 2005 London bombings. ](/news/2010/10/11/british-judge-heather-hallett-opens-the-inquests-into-the-7-july-2005-london-bombings.md) _Context: 7 July_
 5. [Public transport workers in France and London go on strike over French and UK government austerity measures. The French actions are part of a general strike. ](/news/2010/09/7/public-transport-workers-in-france-and-london-go-on-strike-over-french-and-uk-government-austerity-measures-the-french-actions-are-part-of.md) _Context: public transport_
+
+### Changes:
+
+1. [ The United States raises the terror level from code yellow to code orange for mass transit systems in response to the London bombings. ](/news/2005/07/7/the-united-states-raises-the-terror-level-from-code-yellow-to-code-orange-for-mass-transit-systems-in-response-to-the-london-bombings.md) _2017-08-25 03:16:29 (First version)_
+1. [ The United States raises the terror level from code yellow to code orange for mass transit systems in response to the London bombings. [http:--www.guardian.co.uk-worldlatest-story-0,1280,-5125518,00.html (Guardian)] [http:--www.emergencyemail.org-homeland2005.asp (EmergencyEmail)] [http:--www.cnn.com-2005-US-07-07-us.response-index.html (CNN)] (Wikinews) ](/news/2005/07/7/the-united-states-raises-the-terror-level-from-code-yellow-to-code-orange-for-mass-transit-systems-in-response-to-the-london-bombings-htt.md) _(Current version)_

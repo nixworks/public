@@ -17,3 +17,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 3. [At least three people are killed and dozens more are wounded when protesters clash with Indian Army soldiers. The protesters defied an army curfew and took part in the funeral of a top rebel commander of Hizbul Mujahideen. ](/news/2016/07/9/at-least-three-people-are-killed-and-dozens-more-are-wounded-when-protesters-clash-with-indian-army-soldiers-the-protesters-defied-an-army.md) _Context: Insurgency in Jammu and Kashmir_
 4. [The death toll from anti-government protests in the Indian state rises to 36 with over a thousand more being treated for injuries. Chief Minister Mehbooba Mufti has called for calm. ](/news/2016/07/13/the-death-toll-from-anti-government-protests-in-the-indian-state-rises-to-36-with-over-a-thousand-more-being-treated-for-injuries-chief-min.md) _Context: Insurgency in Jammu and Kashmir_
 5. [At least 30 civilians have been killed by Indian Army soldiers as anti-government protests and violence spread across the state. ](/news/2016/07/11/at-least-30-civilians-have-been-killed-by-indian-army-soldiers-as-anti-government-protests-and-violence-spread-across-the-state.md) _Context: Insurgency in Jammu and Kashmir_
+
+### Changes:
+
+1. [ Insurgency in Jammu and Kashmir: Jaish-e-Mohammed operations chief is killed in a gun battle with police. ](/news/2016/05/24/insurgency-in-jammu-and-kashmir-jaish-e-mohammed-operations-chief-is-killed-in-a-gun-battle-with-police.md) _2017-08-27 03:46:07 (First version)_
+1. [ Jaish-e-Mohammed operations chief is killed in a gun battle with police. ](/news/2016/05/24/jaish-e-mohammed-operations-chief-is-killed-in-a-gun-battle-with-police.md) _(Current version)_

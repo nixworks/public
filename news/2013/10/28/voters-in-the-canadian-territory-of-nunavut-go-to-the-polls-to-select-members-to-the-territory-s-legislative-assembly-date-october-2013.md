@@ -12,3 +12,8 @@
 3. [ Nunavut, an Inuit homeland, part of the Northwest Territories becomes Canada's third territory.](/news/1999/04/1/nunavut-an-inuit-homeland-part-of-the-northwest-territories-becomes-canada-s-third-territory.md) _Context: Canada, Nunavut_
 4. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canada_
 5. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canada_
+
+### Changes:
+
+1. [Voters in the Canadian territory of Nunavut go to the polls to select members to the territory's Legislative Assembly.{{citation needed|date=October 2013}}](/news/2013/10/28/voters-in-the-canadian-territory-of-nunavut-go-to-the-polls-to-select-members-to-the-territory-s-legislative-assembly-citation-needed-date.md) _2017-05-01 03:42:48 (First version)_
+1. [Voters in the Canadian territory of Nunavut go to the polls to select members to the territory's Legislative Assembly.date=October 2013](/news/2013/10/28/voters-in-the-canadian-territory-of-nunavut-go-to-the-polls-to-select-members-to-the-territory-s-legislative-assembly-date-october-2013.md) _(Current version)_

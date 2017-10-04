@@ -17,3 +17,8 @@
 3. [The death toll from the recent eruption of Mount Merapi in Indonesia rises to 32 as it erupts again. ](/news/2010/10/28/the-death-toll-from-the-recent-eruption-of-mount-merapi-in-indonesia-rises-to-32-as-it-erupts-again.md) _Context: Indonesia, Mount Merapi volcanic eruption, Mounts Merapi_
 4. [Fatalities caused by the eruption of Mount Merapi in Indonesia's Yogyakarta province rises, with 28 people known to have been killed by hot ash. ](/news/2010/10/27/fatalities-caused-by-the-eruption-of-mount-merapi-in-indonesia-s-yogyakarta-province-rises-with-28-people-known-to-have-been-killed-by-hot.md) _Context: Indonesia, Mount Merapi volcanic eruption, Mounts Merapi_
 5. [Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. ](/news/2010/10/25/authorities-evacuate-40-000-people-in-java-due-to-fears-of-an-explosion-by-mount-merapi.md) _Context: Indonesia, Java, Mounts Merapi_
+
+### Changes:
+
+1. [2010 eruption of Mount Merapi: Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/2010-eruption-of-mount-merapi-lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises.md) _2017-08-27 03:31:00 (First version)_
+1. [Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises-to-120.md) _(Current version)_

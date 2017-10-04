@@ -17,3 +17,8 @@
 3. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: Shia_
 4. [An apparent sectarian attack by two motorcyclists who open fire on a bus traveling to Hazara Town, Quetta, Pakistan, kills four women from Pakistan's Shia Hazara and injures two other people. ](/news/2016/10/4/an-apparent-sectarian-attack-by-two-motorcyclists-who-open-fire-on-a-bus-traveling-to-hazara-town-quetta-pakistan-kills-four-women-from-p.md) _Context: Shia_
 5. [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _Context: Shia_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal): Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/iraqi-insurgency-post-u-s-withdrawal-attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targe.md) _2017-08-27 03:39:41 (First version)_
+1. [Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targeting-at-least-15-members-of-the-country-s.md) _(Current version)_

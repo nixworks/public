@@ -17,3 +17,8 @@ Cyclone Winston death toll hits 42, with reports entire villages have been wiped
 3. [The death toll from Cyclone Winston in Fiji rises to 29. ](/news/2016/02/23/the-death-toll-from-cyclone-winston-in-fiji-rises-to-29.md) _Context: 2015-16 South Pacific cyclone season, Cyclone Winston_
 4. [The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. ](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.md) _Context: 2015-16 South Pacific cyclone season, Cyclone Winston_
 5. [At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-after-cyclone-winston-hits-fiji.md) _Context: 2015-16 South Pacific cyclone season, Cyclone Winston_
+
+### Changes:
+
+1. [2015-16 South Pacific cyclone season: Cyclone Winston: The death toll in Fiji rises to 42 and is expected to rise further as relief teams reach remote islands. ](/news/2016/02/24/2015-16-south-pacific-cyclone-season-cyclone-winston-the-death-toll-in-fiji-rises-to-42-and-is-expected-to-rise-further-as-relief-teams.md) _2017-08-27 03:45:01 (First version)_
+1. [The death toll in Fiji rises to 42 and is expected to rise further as relief teams reach remote islands. ](/news/2016/02/24/the-death-toll-in-fiji-rises-to-42-and-is-expected-to-rise-further-as-relief-teams-reach-remote-islands.md) _(Current version)_

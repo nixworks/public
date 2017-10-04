@@ -19,7 +19,7 @@ _Context: England, gay_
 _Context: Puntland, Somalian, Somaliland_
 
 ### [The United States Secretary of Defense Leon Panetta tells the Marine Corps to re-investigate and take appropriate action against snipers who posed with a logo resembling that of the Nazi Schutzstaffel in Afghanistan. ](/news/2012/02/10/the-united-states-secretary-of-defense-leon-panetta-tells-the-marine-corps-to-re-investigate-and-take-appropriate-action-against-snipers-who.md)
-_Context: Afghanistan, Defense Secretary, Leon Panetta, Nazi, Schutzstaffel, United States Marine Corps, sniper_
+_Context: Afghanistan, Defense Secretary, Leon Panetta, Nazi, Schutzstaffel, U.S. Marine, sniper_
 
 ### [The United States Central Intelligence Agency website and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
 _Context: Alabama, Americans, CIA, hacker group Anonymous_

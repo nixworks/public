@@ -17,3 +17,9 @@ Unless carbon emissions are curtailed, climate change may expose 1.5 billion peo
 3. [Coffee may prolong the human lifespan, suggests one study by Imperial College London and the International Agency for Research on Cancer, and another by the Keck School of Medicine of USC. ](/news/2017/07/10/coffee-may-prolong-the-human-lifespan-suggests-one-study-by-imperial-college-london-and-the-international-agency-for-research-on-cancer-an.md) _Context: human_
 4. [ISRO has successfully launched a new communications satellite for South Asia from Satish Dhawan Space Centre, India. ](/news/2017/05/5/isro-has-successfully-launched-a-new-communications-satellite-for-south-asia-from-satish-dhawan-space-centre-india.md) _Context: South Asia_
 5. [The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md) _Context: Asia_
+
+### Changes:
+
+1. [Large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _2017-08-03 03:49:50 (First version)_
+2. [Effects of global warming on South Asia: New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/effects-of-global-warming-on-south-asia-new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels.md) _2017-08-27 03:48:45 (Update)_
+2. [New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _(Current version)_

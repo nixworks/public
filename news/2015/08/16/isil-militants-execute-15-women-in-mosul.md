@@ -17,3 +17,8 @@ The former prime minister could face charges over his role in allowing the city 
 3. [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md) _Context: Islamic State, Mosul_
 4. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Islamic State, Mosul_
 5. [Thousands of Iraqis flee western Mosul as the battle between Iraqi and allied forces and ISIL militants escalates in the densely populated Old City. ](/news/2017/03/18/thousands-of-iraqis-flee-western-mosul-as-the-battle-between-iraqi-and-allied-forces-and-isil-militants-escalates-in-the-densely-populated-o.md) _Context: Islamic State, Mosul_
+
+### Changes:
+
+1. [Islamic State of Iraq and the Levant: ISIL militants execute 15 women in Mosul. ](/news/2015/08/16/islamic-state-of-iraq-and-the-levant-isil-militants-execute-15-women-in-mosul.md) _2017-08-27 03:42:50 (First version)_
+1. [ISIL militants execute 15 women in Mosul. ](/news/2015/08/16/isil-militants-execute-15-women-in-mosul.md) _(Current version)_

@@ -12,3 +12,8 @@
 3. [Pakistan's opposition interrupts Parliament's scheduled session demanding Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-his.md) _Context: Pakistan, Prime Minister_
 4. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Karachi, Pakistan_
 5. [At least 22 people have been killed and 65 injured following a collision of the Bahauddin Zakaria Express with a stationary train at Juma Goth Train station, Karachi, Pakistan. ](/news/2016/11/3/at-least-22-people-have-been-killed-and-65-injured-following-a-collision-of-the-bahauddin-zakaria-express-with-a-stationary-train-at-juma-go.md) _Context: Karachi, Pakistan_
+
+### Changes:
+
+1. [ Pakistani Prime Minister Shaukat Aziz rejects a demand for a probe by foreign experts in recent Karachi suicide bombings.{{Fact|date=December 2007}} ](/news/2007/10/23/pakistani-prime-minister-shaukat-aziz-rejects-a-demand-for-a-probe-by-foreign-experts-in-recent-karachi-suicide-bombings-fact-date-decemb.md) _2017-05-01 03:22:07 (First version)_
+1. [ Pakistani Prime Minister Shaukat Aziz rejects a demand for a probe by foreign experts in recent Karachi suicide bombings.date=December 2007 ](/news/2007/10/23/pakistani-prime-minister-shaukat-aziz-rejects-a-demand-for-a-probe-by-foreign-experts-in-recent-karachi-suicide-bombings-date-december-2007.md) _(Current version)_

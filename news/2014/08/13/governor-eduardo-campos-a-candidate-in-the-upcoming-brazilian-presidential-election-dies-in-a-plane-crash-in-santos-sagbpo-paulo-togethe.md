@@ -14,3 +14,8 @@ Brazilian presidential candidate Eduardo Campos died Wednesday when his campaign
 ### Related:
 
 1. [The internationally-acclaimed environmental campaigner Marina Silva replaces Eduardo Campos, who died in a plane crash on August 13, as the presidential candidate of the Brazilian Socialist Party, with polls suggesting she could surpass Aecio Neves in the first round and current president Dilma Rousseff in the second. ](/news/2014/08/21/the-internationally-acclaimed-environmental-campaigner-marina-silva-replaces-eduardo-campos-who-died-in-a-plane-crash-on-august-13-as-the.md) _Context: Brazilian presidential election, 2014, Eduardo Campos_
+
+### Changes:
+
+1. [Governor Eduardo Campos, a candidate in the upcoming Brazilian presidential election, dies in a plane crash in Santos, Sao Paulo, together with six other people on board the aircraft. It also sparks a large fire ](/news/2014/08/13/governor-eduardo-campos-a-candidate-in-the-upcoming-brazilian-presidential-election-dies-in-a-plane-crash-in-santos-sapso-paulo-together.md) _2017-08-25 03:40:50 (First version)_
+1. [Governor Eduardo Campos, a candidate in the upcoming Brazilian presidential election, dies in a plane crash in Santos, SGBPo Paulo, together with six other people on board the aircraft. It also sparks a large fire ](/news/2014/08/13/governor-eduardo-campos-a-candidate-in-the-upcoming-brazilian-presidential-election-dies-in-a-plane-crash-in-santos-sagbpo-paulo-togethe.md) _(Current version)_

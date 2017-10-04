@@ -17,3 +17,9 @@ Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, fro
 3. [In the second police officer shooting in the city in three days, a man ambushed a marked police SUV stopped at a traffic light in Las Vegas by walking up and firing multiple rounds, striking one officer in the hand. The shooter was arrested. ](/news/2015/09/6/in-the-second-police-officer-shooting-in-the-city-in-three-days-a-man-ambushed-a-marked-police-suv-stopped-at-a-traffic-light-in-las-vegas.md) _Context: Las Vegas_
 4. [A woman is arrested after she throws a shoe at the head of former United States Secretary of State Hillary Clinton as she was giving a speech in Las Vegas, Nevada. ](/news/2014/04/11/a-woman-is-arrested-after-she-throws-a-shoe-at-the-head-of-former-united-states-secretary-of-state-hillary-clinton-as-she-was-giving-a-speec.md) _Context: Las Vegas_
 5. [First time in the history of digital currency, two Las Vegas casinos begin to accept Bitcoin. ](/news/2014/01/21/first-time-in-the-history-of-digital-currency-two-las-vegas-casinos-begin-to-accept-bitcoin.md) _Context: Las Vegas_
+
+### Changes:
+
+1. [American comedian Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/american-comedian-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _2017-08-20 23:30:04 (First version)_
+2. [Deaths in August 2017: American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/deaths-in-august-2017-american-comedian-and-muscular-dystrophy-association-chairman-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _2017-08-27 17:30:04 (Update)_
+2. [American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/american-comedian-and-muscular-dystrophy-association-chairman-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _(Current version)_

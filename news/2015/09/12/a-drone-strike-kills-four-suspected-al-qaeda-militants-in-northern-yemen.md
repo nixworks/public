@@ -19,3 +19,8 @@ At least 16 Yemeni civilians including ten people from a single family were kill
 3. [al-Qaeda launches an attack on the south Yemen town of al-Bayda killing at least four soldiers before being beaten back by the army. ](/news/2014/10/8/al-qaeda-launches-an-attack-on-the-south-yemen-town-of-al-bayda-killing-at-least-four-soldiers-before-being-beaten-back-by-the-army.md) _Context: Al-Qaeda insurgency in Yemen, Yemen, al-Qaeda_
 4. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Saudi Arabian-led intervention in Yemen, Yemen_
 5. [An air raid kills at least 24 civilians at a market in Houthi-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-houthi-held-saada-governorate-yemen.md) _Context: Saudi Arabian-led intervention in Yemen, Yemen_
+
+### Changes:
+
+1. [Yemeni Civil War (2015), A drone strike kills four suspected Al-Qaeda militants in northern Yemen. ](/news/2015/09/12/yemeni-civil-war-2015-a-drone-strike-kills-four-suspected-al-qaeda-militants-in-northern-yemen.md) _2017-08-25 03:42:45 (First version)_
+1. [A drone strike kills four suspected Al-Qaeda militants in northern Yemen. ](/news/2015/09/12/a-drone-strike-kills-four-suspected-al-qaeda-militants-in-northern-yemen.md) _(Current version)_

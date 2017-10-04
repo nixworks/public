@@ -10,7 +10,7 @@ _Context: Afghanistan, Pakistan, Waziristan, Waziristan conflict (July 2007-pres
 _Context: Sri Lanka, Tamil Tigers, Vavuniya_
 
 ### [ The Roman Catholic Archdiocese of Los Angeles settles sexual abuse claims against its clergy at a cost of $ 600 million. ](/news/2007/07/14/the-roman-catholic-archdiocese-of-los-angeles-settles-sexual-abuse-claims-against-its-clergy-at-a-cost-of-600-million.md)
-_Context: Roman Catholic Archdiocese of Los Angeles, US$, cleric, sexual abuse_
+_Context: $, Roman Catholic Archdiocese of Los Angeles, cleric, sexual abuse_
 
 ### [ Iranian state radio reports that a South Korean flagged ship has sunk in the Sea of Oman off the coast of Iran with 13 crew members missing. ](/news/2007/07/14/iranian-state-radio-reports-that-a-south-korean-flagged-ship-has-sunk-in-the-sea-of-oman-off-the-coast-of-iran-with-13-crew-members-missing.md)
 Iranian state radio has reported a South Korean-flagged cargo ship with 23 people on board sank off the coast of Iran, and 13 people are missing.

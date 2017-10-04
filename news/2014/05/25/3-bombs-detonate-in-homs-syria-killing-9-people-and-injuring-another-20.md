@@ -16,3 +16,9 @@
 3. [Twin bomb blasts hit the Syrian city of Homs with at least 57 people reportedly killed and more than 100 injured. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/twin-bomb-blasts-hit-the-syrian-city-of-homs-with-at-least-57-people-reportedly-killed-and-more-than-100-injured-the-islamic-state-of-iraq.md) _Context: Homs, Syria_
 4. [At least 32 people are killed and 90 injured following a car bomb and suicide-bomb attack in the al-Zahra district of the Syrian city of Homs. ](/news/2015/12/28/at-least-32-people-are-killed-and-90-injured-following-a-car-bomb-and-suicide-bomb-attack-in-the-al-zahra-district-of-the-syrian-city-of-hom.md) _Context: Homs, Syria_
 5. [Sixteen people are killed and many more injured by a car bomb and a second, delayed explosion near a hospital in Syria's mainly Alawite, government-controlled neighborhood of al-Zahra, east of Homs' old city, the Syrian Observatory for Human Rights reports. The attack comes just five days after the government and rebels agreed on a local ceasefire in the western al-Waer suburb. ](/news/2015/12/12/sixteen-people-are-killed-and-many-more-injured-by-a-car-bomb-and-a-second-delayed-explosion-near-a-hospital-in-syria-s-mainly-alawite-gov.md) _Context: Homs, Syria_
+
+### Changes:
+
+1. [Syrian Civil War:3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/syrian-civil-war-p3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md) _2017-08-25 03:40:27 (First version)_
+2. [Syrian Civil War:: 3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/syrian-civil-war-3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md) _2017-08-27 03:40:45 (Update)_
+2. [3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md) _(Current version)_

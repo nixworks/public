@@ -16,3 +16,8 @@
 3. [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a GBP400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-agbp400-000-bribe-from-italian-prime-minister-silv.md) _Context: GBP, United Kingdom_
 4. [ United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson unveils a GBP2.3-billion bailout for the British motor industry. ](/news/2009/01/27/united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mandelson-unveils-a-agbp2-3-billion-bailout-for-the.md) _Context: GBP, United Kingdom_
 5. [ The BBC announces 1,800 job cuts as part of restructuring to fill a GBP2 billion (US$4 bn) shortfall caused by lower than expected funding by the British government. ](/news/2007/10/18/the-bbc-announces-1-800-job-cuts-as-part-of-restructuring-to-fill-a-gbp2-billion-us-4-bn-shortfall-caused-by-lower-than-expected-funding.md) _Context: GBP, United Kingdom_
+
+### Changes:
+
+1. [ Nike agrees to buy United Kingdom sportswear firm Umbro for PS285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-aps285-million.md) _2017-08-25 03:21:15 (First version)_
+1. [ Nike agrees to buy United Kingdom sportswear firm Umbro for GBP285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-agbp285-million.md) _(Current version)_

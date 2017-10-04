@@ -19,3 +19,9 @@ Defeated Syrian rebels abandoned their shattered stronghold in Homs, giving way 
 3. [The Syrian Army launches an offensive against Hama and continue the bombardment of Homs. ](/news/2012/02/15/the-syrian-army-launches-an-offensive-against-hama-and-continue-the-bombardment-of-homs.md) _Context: Homs, bombardment_
 4. [The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/the-syrian-army-continues-its-bombardment-of-homs.md) _Context: Homs, bombardment_
 5. [2011-2012 Syrian uprising:The Syrian Army offensive in Homs continues with further heavy fighting expected over the weekend. ](/news/2012/02/10/2011-2012-syrian-uprising-the-syrian-army-offensive-in-homs-continues-with-further-heavy-fighting-expected-over-the-weekend.md) _Context: Homs, bombardment_
+
+### Changes:
+
+1. [Syria:Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syria-psyrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md) _2017-08-25 03:35:11 (First version)_
+2. [Syria:: Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syria-syrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md) _2017-08-27 03:35:20 (Update)_
+2. [Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md) _(Current version)_

@@ -17,3 +17,8 @@ Eleven giant pyres of tusks went up in smoke Saturday as Kenya torched its vast 
 3. [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _Context: Kenya_
 4. [Voters in Kenya go to the polls to elect the President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/voters-in-kenya-go-to-the-polls-to-elect-the-president-as-well-as-members-of-the-national-assembly-and-senate.md) _Context: Kenya_
 5. [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md) _Context: Kenya_
+
+### Changes:
+
+1. [Destruction of ivory: Kenya burns 105 tonnes of elephant ivory and 1.05 tonnes of rhinoceros horn in order to call for a total ban on the ivory trade. ](/news/2016/04/30/destruction-of-ivory-kenya-burns-105-tonnes-of-elephant-ivory-and-1-05-tonnes-of-rhinoceros-horn-in-order-to-call-for-a-total-ban-on-the-iv.md) _2017-08-27 03:45:55 (First version)_
+1. [Kenya burns 105 tonnes of elephant ivory and 1.05 tonnes of rhinoceros horn in order to call for a total ban on the ivory trade. ](/news/2016/04/30/kenya-burns-105-tonnes-of-elephant-ivory-and-1-05-tonnes-of-rhinoceros-horn-in-order-to-call-for-a-total-ban-on-the-ivory-trade.md) _(Current version)_

@@ -18,3 +18,8 @@
 3. [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 4. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 5. [Abu Sayyaf of the Philippines allegedly kidnap three Filipino fishermen from their trawler off the Malaysian state of Sabah on Borneo island. ](/news/2016/09/12/abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-on-borneo-island.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
+
+### Changes:
+
+1. [Moro conflict: Three people, including a pregnant woman, are kidnapped in Patikul, Sulu, in the Philippines Autonomous Region in Muslim Mindanao. No group has claimed responsibility, though Abu Sayyaf is suspected. ](/news/2016/08/6/moro-conflict-three-people-including-a-pregnant-woman-are-kidnapped-in-patikul-sulu-in-the-philippines-autonomous-region-in-muslim-mind.md) _2017-08-27 03:46:37 (First version)_
+1. [Three people, including a pregnant woman, are kidnapped in Patikul, Sulu, in the Philippines Autonomous Region in Muslim Mindanao. No group has claimed responsibility, though Abu Sayyaf is suspected. ](/news/2016/08/6/three-people-including-a-pregnant-woman-are-kidnapped-in-patikul-sulu-in-the-philippines-autonomous-region-in-muslim-mindanao-no-group.md) _(Current version)_

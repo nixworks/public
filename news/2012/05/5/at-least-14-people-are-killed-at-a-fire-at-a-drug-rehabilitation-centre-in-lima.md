@@ -18,3 +18,8 @@ A fire at a drug rehabilitation centre in the Peruvian capital Lima has killed 1
 3. [Archaeologists discover four prehistoric Ichma culture tombs in the centre of the Peruvian capital Lima. ](/news/2015/11/27/archaeologists-discover-four-prehistoric-ichma-culture-tombs-in-the-centre-of-the-peruvian-capital-lima.md) _Context: Lima_
 4. [The United Nations adopts a format for national pledges to tackle climate change after meetings extend into the weekend at the conference held in Lima, Peru. ](/news/2014/12/14/the-united-nations-adopts-a-format-for-national-pledges-to-tackle-climate-change-after-meetings-extend-into-the-weekend-at-the-conference-he.md) _Context: Lima_
 5. [Two British women, called the Peru Two, are sentenced to six and a half years imprisonment in Lima, Peru, for drug smuggling.](/news/2013/12/17/two-british-women-called-the-peru-two-are-sentenced-to-six-and-a-half-years-imprisonment-in-lima-peru-for-drug-smuggling.md) _Context: Lima_
+
+### Changes:
+
+1. [At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. ](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-karaoke-venue-in-busan-south-korea.md) _2017-10-03 03:39:07 (First version)_
+1. [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md) _(Current version)_

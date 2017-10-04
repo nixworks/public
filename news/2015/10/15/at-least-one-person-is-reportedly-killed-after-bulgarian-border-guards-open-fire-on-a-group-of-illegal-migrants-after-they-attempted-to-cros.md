@@ -18,3 +18,8 @@ An Afghan migrant has been shot dead after an incident near the southeastern Bul
 3. [On Wednesday, the European Union will propose relaxing visa requirements for Turks as a reward for having reduced the flood of refugees and migrants into Europe. ](/news/2016/05/2/on-wednesday-the-european-union-will-propose-relaxing-visa-requirements-for-turks-as-a-reward-for-having-reduced-the-flood-of-refugees-and.md) _Context: European migrant crisis, Turkey_
 4. [Five migrants drown off the island of Samos close to Turkey. ](/news/2016/04/9/five-migrants-drown-off-the-island-of-samos-close-to-turkey.md) _Context: European migrant crisis, Turkey_
 5. [Greece starts deporting migrants to Turkey. ](/news/2016/04/4/greece-starts-deporting-migrants-to-turkey.md) _Context: European migrant crisis, Turkey_
+
+### Changes:
+
+1. [European migrant crisis: At least one person is reportedly killed after Bulgarian border guards open fire on a group of illegal migrants after they attempted to cross the border from Turkey. The incident happened near the southeastern town of Sredets. ](/news/2015/10/15/european-migrant-crisis-at-least-one-person-is-reportedly-killed-after-bulgarian-border-guards-open-fire-on-a-group-of-illegal-migrants-aft.md) _2017-08-27 03:43:21 (First version)_
+1. [At least one person is reportedly killed after Bulgarian border guards open fire on a group of illegal migrants after they attempted to cross the border from Turkey. The incident happened near the southeastern town of Sredets. ](/news/2015/10/15/at-least-one-person-is-reportedly-killed-after-bulgarian-border-guards-open-fire-on-a-group-of-illegal-migrants-after-they-attempted-to-cros.md) _(Current version)_

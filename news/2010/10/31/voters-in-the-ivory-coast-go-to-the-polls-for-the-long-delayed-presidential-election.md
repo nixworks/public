@@ -16,3 +16,8 @@
 3. [Ivory Coasts' election commission in Cte d'Ivoire declares Alassane Ouattara the winner of the Ivorian presidential election but the Constitutional Council declares the announcement invalid as it missed the deadline to announce the results. ](/news/2010/12/2/ivory-coasts-election-commission-in-cote-d-ivoire-declares-alassane-ouattara-the-winner-of-the-ivorian-presidential-election-but-the-consti.md) _Context: 2010 presidential election, Ivory Coast_
 4. [An alliance of opposition parties that endorse the presidency of Alassane Ouattara in the Ivory Coast call for mass protests, following the presidential election. ](/news/2010/12/15/an-alliance-of-opposition-parties-that-endorse-the-presidency-of-alassane-ouattara-in-the-ivory-coast-call-for-mass-protests-following-the.md) _Context: 2010 presidential election, Ivory Coast_
 5. [Supporters of Ivory Coast presidential aspirant Alassane Ouattara conduct a mass protest over the results of the recent presidential election. ](/news/2010/12/14/supporters-of-ivory-coast-presidential-aspirant-alassane-ouattara-conduct-a-mass-protest-over-the-results-of-the-recent-presidential-electio.md) _Context: 2010 presidential election, Ivory Coast_
+
+### Changes:
+
+1. [Voters in Tanzania go to the polls for the country's general election. ](/news/2010/10/31/voters-in-tanzania-go-to-the-polls-for-the-country-s-general-election.md) _2017-10-03 03:34:07 (First version)_
+1. [Voters in the Ivory Coast go to the polls for the long delayed presidential election. ](/news/2010/10/31/voters-in-the-ivory-coast-go-to-the-polls-for-the-long-delayed-presidential-election.md) _(Current version)_

@@ -11,3 +11,8 @@ A new record was set for the world&#039;s most expensive printed book at an auct
 2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/eu_britain_rare_book)
 3. [The Guardian](http://www.guardian.co.uk/books/2010/dec/07/world-most-expensive-book-sold)
 4. [The Independent](http://www.independent.co.uk/arts-entertainment/books/news/worlds-most-costly-book-sells-for-1637m-2154061.html)
+
+### Changes:
+
+1. [A copy of John James Audubon's ''Birds of America'' is sold at auction in London for a record PS7.3 million ($10.3 million). ](/news/2010/12/7/a-copy-of-john-james-audubon-s-birds-of-america-is-sold-at-auction-in-london-for-a-record-aps7-3-million-10-3-million.md) _2017-08-25 03:31:18 (First version)_
+1. [A copy of John James Audubon's "Birds of America" is sold at auction in London for a record GBP7.3 million ($10.3 million). ](/news/2010/12/7/a-copy-of-john-james-audubon-s-birds-of-america-is-sold-at-auction-in-london-for-a-record-agbp7-3-million-10-3-million.md) _(Current version)_

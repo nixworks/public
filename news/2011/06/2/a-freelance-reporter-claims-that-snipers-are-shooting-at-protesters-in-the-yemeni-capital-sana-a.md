@@ -16,3 +16,8 @@
 3. [2011 Yemeni uprising: At least 12 people die in another major outbreak of fighting in the Yemeni capital Sana'a between supporters and opponents of President Ali Abdullah Saleh. ](/news/2011/10/17/2011-yemeni-uprising-at-least-12-people-die-in-another-major-outbreak-of-fighting-in-the-yemeni-capital-sana-a-between-supporters-and-oppon.md) _Context: 2011 Yemeni uprising, Sana'a, Yemen_
 4. [2011 Yemeni uprising: Heavy fighting is reported in the northern suburbs of Sana'a, Yemen's capital. ](/news/2011/09/29/2011-yemeni-uprising-heavy-fighting-is-reported-in-the-northern-suburbs-of-sana-a-yemen-s-capital.md) _Context: 2011 Yemeni uprising, Sana'a, Yemen_
 5. [2011 Yemeni uprising: Rockets hit a protest camp in the Yemeni capital, Sanaa, killing at least two people. ](/news/2011/09/20/2011-yemeni-uprising-rockets-hit-a-protest-camp-in-the-yemeni-capital-sanaa-killing-at-least-two-people.md) _Context: 2011 Yemeni uprising, Sana'a, Yemen_
+
+### Changes:
+
+1. [2011 Yemeni uprising: A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/2011-yemeni-uprising-a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md) _2017-08-27 03:33:29 (First version)_
+1. [A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md) _(Current version)_

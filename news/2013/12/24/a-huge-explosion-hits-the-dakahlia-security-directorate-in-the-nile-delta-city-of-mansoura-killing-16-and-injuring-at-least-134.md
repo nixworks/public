@@ -17,3 +17,9 @@
 2. [Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile-delta-city-of-mansoura.md) _Context: Nile delta_
 3. [A bomb explodes at a police station in the Egyptian city of Mansoura, the capital of the Dakahlia Governorate, killing at least one person and injuring 17. ](/news/2013/07/24/a-bomb-explodes-at-a-police-station-in-the-egyptian-city-of-mansoura-the-capital-of-the-dakahlia-governorate-killing-at-least-one-person-a.md) _Context: Dakahlia_
 4. [ At least 18 factory workers are killed when their bus collides with a truck in the Nile Delta, Egypt. ](/news/2009/06/8/at-least-18-factory-workers-are-killed-when-their-bus-collides-with-a-truck-in-the-nile-delta-egypt.md) _Context: Nile delta_
+
+### Changes:
+
+1. [Islamist protests in Egypt (July 2013-present):A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/islamist-protests-in-egypt-july-2013apresent-pa-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansoura.md) _2017-08-25 03:39:46 (First version)_
+2. [Islamist protests in Egypt (July 2013-present):: A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/islamist-protests-in-egypt-july-2013-present-a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansour.md) _2017-08-27 03:40:04 (Update)_
+2. [A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansoura-killing-16-and-injuring-at-least-134.md) _(Current version)_

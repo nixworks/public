@@ -7,7 +7,7 @@ _Context: Baghdad, Blackwater Worldwide, Iraq, Iraq War, civilian contractor_
 _Context: Czech Republic, Eastern Partnership, Prague_
 
 ### [ General Motors reports a US$6 billion loss for the first fiscal quarter of 2009. ](/news/2009/05/7/general-motors-reports-a-us-6-billion-loss-for-the-first-fiscal-quarter-of-2009.md)
-_Context: General Motors, US$, fiscal year_
+_Context: $, General Motors, fiscal year_
 
 ### [ One police officer is killed and two more are injured in Napier, New Zealand. ](/news/2009/05/7/one-police-officer-is-killed-and-two-more-are-injured-in-napier-new-zealand.md)
 _Context: Napier, New Zealand, killed, police officer_

@@ -17,3 +17,8 @@
 3. [Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/former-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md) _Context: Guinea-Bissau_
 4. [Former navy chief of Guinea-Bissau and suspected drug kingpin, Bubo Na Tchuto, is arrested in a United States-led sting operation off the coast of West Africa. ](/news/2013/04/4/former-navy-chief-of-guinea-bissau-and-suspected-drug-kingpin-bubo-na-tchuto-is-arrested-in-a-united-states-led-sting-operation-off-the-co.md) _Context: Guinea-Bissau_
 5. [A firefight in Guinea-Bissau kills six people. ](/news/2012/10/21/a-firefight-in-guinea-bissau-kills-six-people.md) _Context: Guinea-Bissau_
+
+### Changes:
+
+1. [ In Guinea-Bissau, electoral commission declares Joao Bernardo Vieira winner of the presidential election with a 52-55% majority ](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-joapso-bernardo-vieira-winner-of-the-presidential-election-with-a-52-55-majority.md) _2017-08-25 03:16:36 (First version)_
+1. [ In Guinea-Bissau, electoral commission declares JoGBPo Bernardo Vieira winner of the presidential election with a 52-55% majority ](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-joagbpo-bernardo-vieira-winner-of-the-presidential-election-with-a-52-55-majority.md) _(Current version)_

@@ -17,3 +17,8 @@ Comedian David Walliams says he is relieved after swimming 140 miles of the Rive
 3. [The BBC plans to launch a service in Korean. ](/news/2017/09/25/the-bbc-plans-to-launch-a-service-in-korean.md) _Context: BBC_
 4. [Jodie Whittaker has been announced to be replacing Peter Capaldi as the thirteenth incarnation of The Doctor, becoming the first woman to take the lead role of the BBC's long-running science fiction television series, "Doctor Who". ](/news/2017/07/16/jodie-whittaker-has-been-announced-to-be-replacing-peter-capaldi-as-the-thirteenth-incarnation-of-the-doctor-becoming-the-first-woman-to-ta.md) _Context: BBC_
 5. [The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md) _Context: River Thames_
+
+### Changes:
+
+1. [British comedian David Walliams completes a 140-mile charity swim along the River Thames, raising PS1 million in aid of the BBC's Sport Relief. ](/news/2011/09/12/british-comedian-david-walliams-completes-a-140-mile-charity-swim-along-the-river-thames-raising-aps1-million-in-aid-of-the-bbc-s-sport-reli.md) _2017-08-25 03:34:08 (First version)_
+1. [British comedian David Walliams completes a 140-mile charity swim along the River Thames, raising GBP1 million in aid of the BBC's Sport Relief. ](/news/2011/09/12/british-comedian-david-walliams-completes-a-140-mile-charity-swim-along-the-river-thames-raising-agbp1-million-in-aid-of-the-bbc-s-sport-re.md) _(Current version)_

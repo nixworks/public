@@ -10,7 +10,7 @@ _Context: Americans, North Korea, nuclear warfare_
 _Context: FIFA, Greece, footballer, government_
 
 ### [ At least 41 people die during a lunchtime subway accident in Valencia, Spain when two cars of a train derail and overturn. Early reports indicate the train was travelling too fast. ](/news/2006/07/3/at-least-41-people-die-during-a-lunchtime-subway-accident-in-valencia-spain-when-two-cars-of-a-train-derail-and-overturn-early-reports-in.md)
-_Context: Spain, subway accident in Valencia_
+_Context: Spanish, subway accident in Valencia_
 
 ### [ The government of Tajikistan renamed the second and the fourth highest peaks of the Pamir Mountains into the Independence Peak and Avicenna Peak, respectively. ](/news/2006/07/3/the-government-of-tajikistan-renamed-the-second-and-the-fourth-highest-peaks-of-the-pamir-mountains-into-the-independence-peak-and-avicenna.md)
 _Context: Avicenna Peak, Independence Peak, Pamir Mountains, Tajikistan_

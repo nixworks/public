@@ -17,3 +17,8 @@
 3. [ 2008 Pacific hurricane season: Hurricane Norbert reaches Category 3 strength as it nears Baja California in Mexico. ](/news/2008/10/11/2008-pacific-hurricane-season-hurricane-norbert-reaches-category-3-strength-as-it-nears-baja-california-in-mexico.md) _Context: Baja California, Mexico_
 4. [ Some fires are reported in the Mexican state of Baja California, south of the U.S. border, but these are generally brought fairly swiftly under control. ](/news/2007/10/27/some-fires-are-reported-in-the-mexican-state-of-baja-california-south-of-the-u-s-border-but-these-are-generally-brought-fairly-swiftly-u.md) _Context: Baja California, Mexico_
 5. [ Hurricane Paul becomes a Category 2 hurricane off Mexico's Pacific coast as it heads for Baja California. ](/news/2006/10/23/hurricane-paul-becomes-a-category-2-hurricane-off-mexico-s-pacific-coast-as-it-heads-for-baja-california.md) _Context: Baja California, Mexico_
+
+### Changes:
+
+1. [2014 Pacific hurricane season: Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/2014-pacific-hurricane-season-hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md) _2017-08-27 03:41:17 (First version)_
+1. [Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md) _(Current version)_

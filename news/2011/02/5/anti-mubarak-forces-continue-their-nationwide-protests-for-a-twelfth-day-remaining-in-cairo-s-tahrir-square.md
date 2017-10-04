@@ -28,3 +28,9 @@ Sky News Australia has the top stories in news online from Australia and the res
 3. [The Egyptian Army initiates a fatal crackdown in Tahrir Square, Cairo, on people protesting that ousted president Hosni Mubarak be prosecuted for corruption. ](/news/2011/04/9/the-egyptian-army-initiates-a-fatal-crackdown-in-tahrir-square-cairo-on-people-protesting-that-ousted-president-hosni-mubarak-be-prosecute.md) _Context: Cairo, Hosni Mubarak, Tahrir Square_
 4. [Protesters plan a "million-man march" on President Hosni Mubarak's presidential palace in Cairo starting at Tahrir Square. ](/news/2011/02/1/protesters-plan-a-million-man-march-on-president-hosni-mubarak-s-presidential-palace-in-cairo-starting-at-tahrir-square.md) _Context: Cairo, Hosni Mubarak, Tahrir Square_
 5. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo, Hosni Mubarak_
+
+### Changes:
+
+1. [2011 Egyptian protests:Anti-Mubarak forces continue their nationwide protests for a twelfth day, remaining in Cairo's Tahrir Square. ](/news/2011/02/5/2011-egyptian-protests-panti-mubarak-forces-continue-their-nationwide-protests-for-a-twelfth-day-remaining-in-cairo-s-tahrir-square.md) _2017-08-25 03:32:03 (First version)_
+2. [2011 Egyptian protests:: Anti-Mubarak forces continue their nationwide protests for a twelfth day, remaining in Cairo's Tahrir Square. ](/news/2011/02/5/2011-egyptian-protests-anti-mubarak-forces-continue-their-nationwide-protests-for-a-twelfth-day-remaining-in-cairo-s-tahrir-square.md) _2017-08-27 03:32:11 (Update)_
+2. [Anti-Mubarak forces continue their nationwide protests for a twelfth day, remaining in Cairo's Tahrir Square. ](/news/2011/02/5/anti-mubarak-forces-continue-their-nationwide-protests-for-a-twelfth-day-remaining-in-cairo-s-tahrir-square.md) _(Current version)_

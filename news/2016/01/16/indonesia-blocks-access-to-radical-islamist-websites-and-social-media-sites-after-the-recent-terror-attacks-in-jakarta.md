@@ -17,3 +17,8 @@ Indonesia shut down at least 11radical websites and several social media account
 3. [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md) _Context: Indonesia, Jakarta_
 4. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Indonesia, Jakarta_
 5. [One person has died and hundreds of people have been evacuated after heavy rain in the Indonesian capital Jakarta. ](/news/2016/02/29/one-person-has-died-and-hundreds-of-people-have-been-evacuated-after-heavy-rain-in-the-indonesian-capital-jakarta.md) _Context: Indonesia, Jakarta_
+
+### Changes:
+
+1. [2016 Jakarta attacks: Indonesia blocks access to radical Islamist websites and social media sites after the recent terror attacks in Jakarta. ](/news/2016/01/16/2016-jakarta-attacks-indonesia-blocks-access-to-radical-islamist-websites-and-social-media-sites-after-the-recent-terror-attacks-in-jakarta.md) _2017-08-27 03:44:41 (First version)_
+1. [Indonesia blocks access to radical Islamist websites and social media sites after the recent terror attacks in Jakarta. ](/news/2016/01/16/indonesia-blocks-access-to-radical-islamist-websites-and-social-media-sites-after-the-recent-terror-attacks-in-jakarta.md) _(Current version)_

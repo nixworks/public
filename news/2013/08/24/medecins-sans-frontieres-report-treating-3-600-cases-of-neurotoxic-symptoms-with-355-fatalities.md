@@ -17,3 +17,9 @@ Medecins Sans Frontieres says hospitals it supports in Syria treated about 3,600
 3. [ Doctors without Borders criticizes the response to the 2010 Haiti cholera outbreak as inadequate. ](/news/2010/11/20/doctors-without-borders-criticizes-the-response-to-the-2010-haiti-cholera-outbreak-as-inadequate.md) _Context: Mdecins Sans Frontires_
 4. [Humanitarian group Mdecins Sans Frontires accuses Bangladesh of a "crackdown" on Muslim Rohingya refugees from Burma. ](/news/2010/02/18/humanitarian-group-medecins-sans-frontieres-accuses-bangladesh-of-a-crackdown-on-muslim-rohingya-refugees-from-burma.md) _Context: Mdecins Sans Frontires_
 5. [ Mdecins Sans Frontires claims that South Africa has expelled 450 Zimbabwean refugees. ](/news/2008/06/28/medecins-sans-frontieres-claims-that-south-africa-has-expelled-450-zimbabwean-refugees.md) _Context: Mdecins Sans Frontires_
+
+### Changes:
+
+1. [Syrian civil war:Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/syrian-civil-war-pmedecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md) _2017-08-25 03:39:12 (First version)_
+2. [Syrian civil war:: Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/syrian-civil-war-medecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md) _2017-08-27 03:39:28 (Update)_
+2. [Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/medecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md) _(Current version)_

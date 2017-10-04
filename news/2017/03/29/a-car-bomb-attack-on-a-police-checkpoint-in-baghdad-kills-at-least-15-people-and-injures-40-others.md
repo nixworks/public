@@ -17,3 +17,8 @@
 3. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
 4. [A suicide bomber detonates a pick-up truck full of explosives at a busy street in northern Baghdad, killing at least nine people. ](/news/2017/02/15/a-suicide-bomber-detonates-a-pick-up-truck-full-of-explosives-at-a-busy-street-in-northern-baghdad-killing-at-least-nine-people.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
 5. [Two suicide bombings, one using a car bomb and another with an explosive belt, take place in vegetable markets in eastern Baghdad, killing at least 20 people and injuring more than 50. The Islamic State in Iraq and the Levant claims responsibility. ](/news/2017/01/8/two-suicide-bombings-one-using-a-car-bomb-and-another-with-an-explosive-belt-take-place-in-vegetable-markets-in-eastern-baghdad-killing-a.md) _Context: Baghdad, car bomb_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/iraqi-civil-war-2014-present-a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _2017-08-27 03:48:04 (First version)_
+1. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _(Current version)_

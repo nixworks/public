@@ -17,3 +17,8 @@
 3. [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md) _Context: Swedish_
 4. [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md) _Context: Swedish_
 5. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: Swedish_
+
+### Changes:
+
+1. [Sweden's terror threat level is raised to 'high' for the first time in history, as national security service ''Sapo'' says that police are hunting a suspected terrorist. ](/news/2015/11/18/sweden-s-terror-threat-level-is-raised-to-high-for-the-first-time-in-history-as-national-security-service-sa-po-says-that-police-are.md) _2017-08-25 03:43:37 (First version)_
+1. [Sweden's terror threat level is raised to 'high' for the first time in history, as national security service "Sapo" says that police are hunting a suspected terrorist. ](/news/2015/11/18/sweden-s-terror-threat-level-is-raised-to-high-for-the-first-time-in-history-as-national-security-service-sa-po-says-that-police-are-hu.md) _(Current version)_

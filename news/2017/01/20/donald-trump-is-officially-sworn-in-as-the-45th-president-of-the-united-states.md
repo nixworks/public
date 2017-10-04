@@ -17,3 +17,8 @@ Donald J Trump has capped the day of his inauguration with dancing and celebrati
 3. [Amid criticism of U.S. national anthem protests by U.S. President Donald Trump, some National Football League players and teams react to the controversy by kneeling, linking arms, or skipping game performances of the national anthem. ](/news/2017/09/24/amid-criticism-of-u-s-national-anthem-protests-by-u-s-president-donald-trump-some-national-football-league-players-and-teams-react-to-the.md) _Context: Donald Trump, U.S. President_
 4. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: Donald Trump, U.S. President_
 5. [ California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.-Mexico border. ](/news/2017/09/20/california-attorney-general-xavier-becerra-files-suit-in-federal-court-against-u-s-president-donald-trump-s-proposed-plan-for-a-wall-along.md) _Context: Donald Trump, U.S. President_
+
+### Changes:
+
+1. [Inauguration of Donald Trump: Donald Trump is officially sworn in as the 45th President of the United States. ](/news/2017/01/20/inauguration-of-donald-trump-donald-trump-is-officially-sworn-in-as-the-45th-president-of-the-united-states.md) _2017-08-27 03:47:39 (First version)_
+1. [Donald Trump is officially sworn in as the 45th President of the United States. ](/news/2017/01/20/donald-trump-is-officially-sworn-in-as-the-45th-president-of-the-united-states.md) _(Current version)_

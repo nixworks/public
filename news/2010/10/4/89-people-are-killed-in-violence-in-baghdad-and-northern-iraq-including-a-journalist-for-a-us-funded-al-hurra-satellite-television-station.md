@@ -20,3 +20,9 @@ BAGHDAD ·— Ten people were killed in violence in Baghdad and northern Iraq on
 3. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Baghdad_
 4. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 5. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_
+
+### Changes:
+
+1. [War in Iraq89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraqp89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televis.md) _2017-08-25 03:30:20 (First version)_
+2. [War in Iraq: 89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraq-89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televi.md) _2017-08-27 03:30:25 (Update)_
+2. [89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-television-station.md) _(Current version)_

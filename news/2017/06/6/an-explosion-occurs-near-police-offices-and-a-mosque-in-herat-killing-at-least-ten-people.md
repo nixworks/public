@@ -16,3 +16,8 @@ Several people killed in explosion near a mosque and police offices in western p
 3. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _Context: War in Afghanistan_
 4. [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md) _Context: War in Afghanistan_
 5. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _Context: Herat_
+
+### Changes:
+
+1. [War in Afghanistan: 2017 Herat bombing: An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/war-in-afghanistan-2017-herat-bombing-an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md) _2017-08-27 03:48:26 (First version)_
+1. [An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md) _(Current version)_

@@ -17,3 +17,9 @@
 3. [Coffee may prolong the human lifespan, suggests one study by Imperial College London and the International Agency for Research on Cancer, and another by the Keck School of Medicine of USC. ](/news/2017/07/10/coffee-may-prolong-the-human-lifespan-suggests-one-study-by-imperial-college-london-and-the-international-agency-for-research-on-cancer-an.md) _Context: life_
 4. [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md) _Context: Earth_
 5. [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md) _Context: life_
+
+### Changes:
+
+1. [A newly-published paper suggest that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggest-that-some-tardigrades-may-outlive-most-life-on-earth.md) _2017-07-17 06:30:05 (First version)_
+2. [Tardigrade: A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/tardigrade-a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _2017-08-27 03:48:40 (Update)_
+2. [A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _(Current version)_

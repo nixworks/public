@@ -16,3 +16,9 @@
 3. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 4. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_
 5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen attack a police headquarters north of Baghdad and suicide bombers strike across Iraq killing 25 people and injuring dozens. ](/news/2014/03/21/iraqi-insurgency-post-u-s-withdrawal-pgunmen-attack-a-police-headquarters-north-of-baghdad-and-suicide-bombers-strike-across-iraq-killing.md) _2017-08-25 03:40:12 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen attack a police headquarters north of Baghdad and suicide bombers strike across Iraq killing 25 people and injuring dozens. ](/news/2014/03/21/iraqi-insurgency-post-u-s-withdrawal-gunmen-attack-a-police-headquarters-north-of-baghdad-and-suicide-bombers-strike-across-iraq-killin.md) _2017-08-27 03:40:30 (Update)_
+2. [Gunmen attack a police headquarters north of Baghdad and suicide bombers strike across Iraq killing 25 people and injuring dozens. ](/news/2014/03/21/gunmen-attack-a-police-headquarters-north-of-baghdad-and-suicide-bombers-strike-across-iraq-killing-25-people-and-injuring-dozens.md) _(Current version)_

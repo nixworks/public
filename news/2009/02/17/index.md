@@ -25,7 +25,7 @@ _Context: Diet, Japan, Minister of Finance, Shoichi Nakagawa, money_
 California, which is on the brink of running out of cash, will notify 20,000 state workers on Tuesday their jobs may be eliminated, a spokesman for Governor Arnold Schwarzenegger said on Monday.
 
 ### [ U.S. Secretary of State Hillary Clinton arrives in Japan to deliberate the global economic crisis and international security. ](/news/2009/02/17/u-s-secretary-of-state-hillary-clinton-arrives-in-japan-to-deliberate-the-global-economic-crisis-and-international-security.md)
-_Context: Americans, Hillary Clinton, Japan, United States Secretary of State, current financial crisis, international security_
+_Context: Americans, Hillary Clinton, Japan, Secretary of State, current financial crisis, international security_
 
 ### [ Former Khmer Rouge leader Kang Kek Iew stands trial before the Extraordinary Chambers in Cambodia. ](/news/2009/02/17/former-khmer-rouge-leader-kang-kek-iew-stands-trial-before-the-extraordinary-chambers-in-cambodia.md)
 _Context: Cambodia, Extraordinary Chambers in the Courts of Cambodia, Kang Kek Iew, Khmer Rouge_

@@ -17,3 +17,9 @@
 3. [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province results in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-results-in-dozens-of-people-killed-and-inj.md) _Context: suicide bombing_
 4. [A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-killed-and-461-injured.md) _Context: suicide bombing_
 5. [A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md) _Context: suicide bombing_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md) _2017-08-25 03:37:11 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md) _2017-08-27 03:37:21 (Update)_
+2. [A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/a-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md) _(Current version)_

@@ -1,7 +1,7 @@
 ## [2006-10-17](/news/2006/10/17/index.md)
 
 ### [ Iraq War: The United States military in Iraq says a marine and nine soldiers have been killed in Iraq, including four in a roadside bombing near Baghdad. ](/news/2006/10/17/iraq-war-the-united-states-military-in-iraq-says-a-marine-and-nine-soldiers-have-been-killed-in-iraq-including-four-in-a-roadside-bombing.md)
-_Context: Baghdad, Iraq, Iraq War, United States Marine Corps, United States military_
+_Context: Baghdad, Iraq, Iraq War, U.S. Marine, United States military_
 
 ### [ UN Security Council election: The contest between Guatemala and Venezuela for a seat on the United Nations Security Council remains stalemated after a second day of voting. ](/news/2006/10/17/un-security-council-election-the-contest-between-guatemala-and-venezuela-for-a-seat-on-the-united-nations-security-council-remains-stalema.md)
 _Context: After 48 rounds of voting, Guatemala, Security Council, United Nations, Venezuela_

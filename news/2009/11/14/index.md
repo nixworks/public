@@ -10,7 +10,7 @@ Tony Alamo, a US preacher, has been sentenced to 175 years in prison for taking 
 _Context: Ethiopia, Ogaden National Liberation Front, Somalian_
 
 ### [ A Peruvian court orders the arrest of two Chilean military officers on charges of spying, causing a diplomatic row between the two countries. ](/news/2009/11/14/a-peruvian-court-orders-the-arrest-of-two-chilean-military-officers-on-charges-of-spying-causing-a-diplomatic-row-between-the-two-countrie.md)
-_Context: Chile, Peru, espionage_
+_Context: Chile, Peru, spy_
 
 ### [ Two Saudi soldiers are killed and five wounded killed in fighting with Houthi rebels in northern Yemen. ](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.md)
 _Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen_

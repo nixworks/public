@@ -16,3 +16,8 @@
 3. [China's Alibaba Group Holding Limited acquires Hong Kong's largest English-language newspaper, the "South China Morning Post", in a deal reported to be worth about $100 million. ](/news/2015/12/11/china-s-alibaba-group-holding-limited-acquires-hong-kong-s-largest-english-language-newspaper-the-south-china-morning-post-in-a-deal-rep.md) _Context: English_
 4. [The online encyclopedia Wikipedia celebrates the tenth anniversary of its founding. ](/news/2011/01/15/the-online-encyclopedia-wikipedia-celebrates-the-tenth-anniversary-of-its-founding.md) _Context: encyclopedia_
 5. [Georgia replaces the Russian language with the English language as its second language. ](/news/2010/09/26/georgia-replaces-the-russian-language-with-the-english-language-as-its-second-language.md) _Context: English_
+
+### Changes:
+
+1. [''Encyclopaedia Britannica'', the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing.md) _2017-08-25 03:35:16 (First version)_
+1. ["Encyclopaedia Britannica", the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing-pr.md) _(Current version)_

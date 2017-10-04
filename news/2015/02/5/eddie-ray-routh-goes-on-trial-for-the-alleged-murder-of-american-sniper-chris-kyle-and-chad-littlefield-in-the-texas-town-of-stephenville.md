@@ -17,3 +17,8 @@
 3. [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md) _Context: Texas_
 4. [At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. ](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.md) _Context: Texas_
 5. [The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more-days-of-heavy-rain-causing-ca.md) _Context: Texas_
+
+### Changes:
+
+1. [Eddie Ray Routh goes on trial for the alleged murder of ''American Sniper'' Chris Kyle and Chad Littlefield in the Texas town of Stephenville. ](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-murder-of-american-sniper-chris-kyle-and-chad-littlefield-in-the-texas-town-of-stephenvill.md) _2017-08-25 03:41:34 (First version)_
+1. [Eddie Ray Routh goes on trial for the alleged murder of "American Sniper" Chris Kyle and Chad Littlefield in the Texas town of Stephenville. ](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-murder-of-american-sniper-chris-kyle-and-chad-littlefield-in-the-texas-town-of-stephenville.md) _(Current version)_

@@ -17,3 +17,8 @@ A hillside collapsed onto Santa Catarina Pinula on the south-eastern edge of Gua
 3. [At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _Context: Guatemala_
 4. [A fire breaks out at an orphanage in San Jose Pinula, Guatemala after students protesting conditions including alleged sexual and physical abuse set fire to their bedding, killing at least 19 children. ](/news/2017/03/8/a-fire-breaks-out-at-an-orphanage-in-san-josa-c-pinula-guatemala-after-students-protesting-conditions-including-alleged-sexual-and-physical.md) _Context: Guatemala_
 5. [The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 38 children. ](/news/2017/03/11/the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-38-children.md) _Context: Guatemala_
+
+### Changes:
+
+1. [2015 Guatemala landslide: The death toll from the landslides in Guatemala rises to 253 with 374 people still missing. ](/news/2015/10/9/2015-guatemala-landslide-the-death-toll-from-the-landslides-in-guatemala-rises-to-253-with-374-people-still-missing.md) _2017-08-27 03:43:17 (First version)_
+1. [The death toll from the landslides in Guatemala rises to 253 with 374 people still missing. ](/news/2015/10/9/the-death-toll-from-the-landslides-in-guatemala-rises-to-253-with-374-people-still-missing.md) _(Current version)_

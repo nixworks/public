@@ -15,3 +15,8 @@ Opposition party set to gain from frustration over drug violence and weak econom
 ### Related:
 
 1. [10 children, youths and young adults between the ages of 8 and 21 are gunned down, presumably by drug traffickers, in the northern Mexican state of Durango. ](/news/2010/03/30/10-children-youths-and-young-adults-between-the-ages-of-8-and-21-are-gunned-down-presumably-by-drug-traffickers-in-the-northern-mexican-s.md) _Context: Mexican states_
+
+### Changes:
+
+1. [Mexican gubernatorial elections, 2010: Voters in 14 Mexican states states vote to elect governors and mayors. ](/news/2010/07/4/mexican-gubernatorial-elections-2010-voters-in-14-mexican-states-states-vote-to-elect-governors-and-mayors.md) _2017-08-27 03:28:34 (First version)_
+1. [Voters in 14 Mexican states states vote to elect governors and mayors. ](/news/2010/07/4/voters-in-14-mexican-states-states-vote-to-elect-governors-and-mayors.md) _(Current version)_

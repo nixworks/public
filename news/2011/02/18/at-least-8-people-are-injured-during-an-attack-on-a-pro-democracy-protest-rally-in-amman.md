@@ -17,3 +17,9 @@
 3. [A Muslim preacher from a local mosque shoots and kills Jordanian writer and cartoonist Nahed Hattar in front of a courthouse in the capital Amman. Authorities take the gunman into custody.](/news/2016/09/25/a-muslim-preacher-from-a-local-mosque-shoots-and-kills-jordanian-writer-and-cartoonist-nahed-hattar-in-front-of-a-courthouse-in-the-capital.md) _Context: Amman_
 4. [Five people working for Jordanian intelligence are killed in an attack in a Palestinian Baqa'a refugee camp near Amman. ](/news/2016/06/6/five-people-working-for-jordanian-intelligence-are-killed-in-an-attack-in-a-palestinian-baqa-a-refugee-camp-near-amman.md) _Context: Amman_
 5. [Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of-ar-rutbah-from-the-islamic-state-of-iraq-and-the-levant-group.md) _Context: Amman_
+
+### Changes:
+
+1. [2011 Jordanian protests:At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/2011-jordanian-protests-pat-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md) _2017-08-25 03:32:15 (First version)_
+2. [2011 Jordanian protests:: At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/2011-jordanian-protests-at-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md) _2017-08-27 03:32:24 (Update)_
+2. [At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/at-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md) _(Current version)_

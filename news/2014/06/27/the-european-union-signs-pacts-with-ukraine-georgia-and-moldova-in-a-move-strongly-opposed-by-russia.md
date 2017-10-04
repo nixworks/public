@@ -17,3 +17,9 @@ Ukraine, Georgia and Moldova sign partnership agreements with the European Union
 3. [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md) _Context: Russia, Ukraine_
 4. [The European Union grants visa-free travel for Georgia and Ukraine. ](/news/2016/12/9/the-european-union-grants-visa-free-travel-for-georgia-and-ukraine.md) _Context: Georgian, Ukraine_
 5. [The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _Context: Russia, Ukraine_
+
+### Changes:
+
+1. [Ukraine-European Union Association Agreement:The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/ukraineaeuropean-union-association-agreement-pthe-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed.md) _2017-08-25 03:40:36 (First version)_
+2. [Ukraine-European Union Association Agreement:: The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/ukraine-european-union-association-agreement-the-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed.md) _2017-08-27 03:40:54 (Update)_
+2. [The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/the-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed-by-russia.md) _(Current version)_

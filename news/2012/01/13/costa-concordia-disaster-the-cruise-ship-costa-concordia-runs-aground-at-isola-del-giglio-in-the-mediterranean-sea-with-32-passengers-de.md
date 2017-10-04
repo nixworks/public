@@ -17,3 +17,8 @@
 3. [The "Costa Concordia" is pulled completely upright from the place where it sunk in early 2012 off the coast of Tuscany in Italy. ](/news/2013/09/17/the-costa-concordia-is-pulled-completely-upright-from-the-place-where-it-sunk-in-early-2012-off-the-coast-of-tuscany-in-italy.md) _Context: ''Costa Concordia'' disaster, Costa Concordia_
 4. [Costa Cruises is fined US$1.3 million in lieu of criminal charges relating to the "Costa Concordia" cruise ship disaster last year. ](/news/2013/04/10/costa-cruises-is-fined-us-1-3-million-in-lieu-of-criminal-charges-relating-to-the-costa-concordia-cruise-ship-disaster-last-year.md) _Context: ''Costa Concordia'' disaster, Costa Concordia_
 5. [More bodies are dug out of the wreck of the "Costa Concordia". ](/news/2012/03/22/more-bodies-are-dug-out-of-the-wreck-of-the-costa-concordia.md) _Context: ''Costa Concordia'' disaster, Costa Concordia_
+
+### Changes:
+
+1. [Costa Concordia disaster: The cruise ship ''Costa Concordia'' runs aground at Isola del Giglio in the Mediterranean Sea, with 32 passengers dead, 2 missing and presumed dead, and 64 injured. ](/news/2012/01/13/costa-concordia-disaster-the-cruise-ship-costa-concordia-runs-aground-at-isola-del-giglio-in-the-mediterranean-sea-with-32-passengers.md) _2017-08-25 03:34:50 (First version)_
+1. [Costa Concordia disaster: The cruise ship "Costa Concordia" runs aground at Isola del Giglio in the Mediterranean Sea, with 32 passengers dead, 2 missing and presumed dead, and 64 injured. ](/news/2012/01/13/costa-concordia-disaster-the-cruise-ship-costa-concordia-runs-aground-at-isola-del-giglio-in-the-mediterranean-sea-with-32-passengers-de.md) _(Current version)_

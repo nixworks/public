@@ -17,3 +17,8 @@ Arab coalition forces killed six al Qaeda militants and arrested four others dur
 3. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: al-Qaeda_
 4. [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md) _Context: Yemeni conflict_
 5. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Yemeni conflict_
+
+### Changes:
+
+1. [Yemeni Civil War (2015-present): Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/yemeni-civil-war-2015-present-six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _2017-08-27 03:47:12 (First version)_
+1. [Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _(Current version)_

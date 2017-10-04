@@ -18,3 +18,8 @@ Watch or download the latest launch videos, mission updates, animations, This We
 3. [NASA Curiosity Mars rover begins its mission to its destination and drives to Mount Sharp. ](/news/2013/07/8/nasa-curiosity-mars-rover-begins-its-mission-to-its-destination-and-drives-to-mount-sharp.md) _Context: Curiosity, Mars, NASA_
 4. [NASA holds a media conference to announce new discoveries about Mars made by the Curiosity rover. It was found that the planet could have once supported life. ](/news/2013/03/12/nasa-holds-a-media-conference-to-announce-new-discoveries-about-mars-made-by-the-curiosity-rover-it-was-found-that-the-planet-could-have-on.md) _Context: Curiosity, Mars, NASA_
 5. [NASA announces new plans to launch another Curiosity-like robotic science rover to Mars in 2020. ](/news/2012/12/4/nasa-announces-new-plans-to-launch-another-curiosity-like-robotic-science-rover-to-mars-in-2020.md) _Context: Curiosity, Mars, NASA_
+
+### Changes:
+
+1. [NASA-s Curiosity rover finds calcium deposits on Mars similar to those seen on Earth when water circulates in cracks and rock fractures. ](/news/2013/01/19/nasa-s-curiosity-rover-finds-calcium-deposits-on-mars-similar-to-those-seen-on-earth-when-water-circulates-in-cracks-and-rock-fractures.md) _2017-08-27 03:37:27 (First version)_
+1. [NASA's Curiosity rover finds calcium deposits on Mars similar to those seen on Earth when water circulates in cracks and rock fractures. ](/news/2013/01/19/nasaas-curiosity-rover-finds-calcium-deposits-on-mars-similar-to-those-seen-on-earth-when-water-circulates-in-cracks-and-rock-fractures.md) _(Current version)_

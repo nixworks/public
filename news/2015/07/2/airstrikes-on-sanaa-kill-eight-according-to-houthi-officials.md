@@ -16,3 +16,8 @@
 3. [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md) _Context: Houthi, Sana'a_
 4. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sana'a, Saudi Arabian-led intervention in Yemen_
 5. [An air raid kills at least 24 civilians at a market in Houthi-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-houthi-held-saada-governorate-yemen.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: Airstrikes on Sanaa kill eight, according to Houthi officials. ](/news/2015/07/2/saudi-arabian-led-intervention-in-yemen-airstrikes-on-sanaa-kill-eight-according-to-houthi-officials.md) _2017-08-27 03:42:38 (First version)_
+1. [Airstrikes on Sanaa kill eight, according to Houthi officials. ](/news/2015/07/2/airstrikes-on-sanaa-kill-eight-according-to-houthi-officials.md) _(Current version)_

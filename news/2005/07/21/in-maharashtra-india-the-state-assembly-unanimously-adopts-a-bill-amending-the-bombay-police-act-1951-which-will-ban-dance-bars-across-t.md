@@ -16,3 +16,8 @@
 3. [ A massive fire occurs in a textile factory in the Mumbai suburb of Bhiwandi in India's Maharashtra state. Fifty people are feared trapped. ](/news/2016/04/12/a-massive-fire-occurs-in-a-textile-factory-in-the-mumbai-suburb-of-bhiwandi-in-india-s-maharashtra-state-fifty-people-are-feared-trapped.md) _Context: Maharashtra_
 4. [One hundred and fifty people are trapped after a landslide in the village of Ambe in the Pune district in India's Maharashtra state with 20 killed. ](/news/2014/07/30/one-hundred-and-fifty-people-are-trapped-after-a-landslide-in-the-village-of-ambe-in-the-pune-district-in-india-s-maharashtra-state-with-20.md) _Context: Maharashtra_
 5. [A train derailment in the Raigad district of India's Maharashtra state causes at least 19 deaths and 130 people injured. ](/news/2014/05/4/a-train-derailment-in-the-raigad-district-of-india-s-maharashtra-state-causes-at-least-19-deaths-and-130-people-injured.md) _Context: Maharashtra_
+
+### Changes:
+
+1. [ In Maharashtra, India, the state Assembly unanimously adopts a Bill amending the Bombay Police Act, 1951 which will ban dance bars across the state. ](/news/2005/07/21/in-maharashtra-india-the-state-assembly-unanimously-adopts-a-bill-amending-the-bombay-police-act-1951-which-will-ban-dance-bars-across.md) _2017-08-25 03:16:33 (First version)_
+1. [ In Maharashtra, India, the state Assembly unanimously adopts a Bill amending the Bombay Police Act, 1951 which will ban dance bars across the state. ](/news/2005/07/21/in-maharashtra-india-the-state-assembly-unanimously-adopts-a-bill-amending-the-bombay-police-act-1951-which-will-ban-dance-bars-across-t.md) _(Current version)_

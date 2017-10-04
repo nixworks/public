@@ -19,3 +19,9 @@ Admiral says some lives could have been spared had a warning been issued earlier
 3. [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md) _Context: tsunami_
 4. [A 7.9 magnitude earthquake hits west of Panguna, Papua New Guinea, beneath Bougainville Island. No immediate reports of casualties or major damage. Tsunami alert for Papua New Guinea and the Solomon Islands is rescinded. ](/news/2017/01/22/a-7-9-magnitude-earthquake-hits-west-of-panguna-papua-new-guinea-beneath-bougainville-island-no-immediate-reports-of-casualties-or-major.md) _Context: tsunami_
 5. [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _Context: tsunami_
+
+### Changes:
+
+1. [Aftermath of the 2010 Chile earthquake:The Chilean Navy admits failure to prevent deaths in the tsunami triggered by the recent earthquake. ](/news/2010/03/3/aftermath-of-the-2010-chile-earthquake-pthe-chilean-navy-admits-failure-to-prevent-deaths-in-the-tsunami-triggered-by-the-recent-earthquake.md) _2017-08-25 03:27:16 (First version)_
+2. [Aftermath of the 2010 Chile earthquake:: The Chilean Navy admits failure to prevent deaths in the tsunami triggered by the recent earthquake. ](/news/2010/03/3/aftermath-of-the-2010-chile-earthquake-the-chilean-navy-admits-failure-to-prevent-deaths-in-the-tsunami-triggered-by-the-recent-earthquake.md) _2017-08-27 03:27:11 (Update)_
+2. [The Chilean Navy admits failure to prevent deaths in the tsunami triggered by the recent earthquake. ](/news/2010/03/3/the-chilean-navy-admits-failure-to-prevent-deaths-in-the-tsunami-triggered-by-the-recent-earthquake.md) _(Current version)_

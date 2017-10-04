@@ -16,3 +16,8 @@
 3. [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _Context: Panama_
 4. [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md) _Context: Panama_
 5. [Former HBOS manager Lynden Scourfield and other bankers and consultants are found guilty of corruption and abuse of power in stealing GBP245 million from the bank and small businesses in a loans scam, which was spent on personal luxuries. Scourfield was sentenced to 11 years in prison. ](/news/2017/02/2/former-hbos-manager-lynden-scourfield-and-other-bankers-and-consultants-are-found-guilty-of-corruption-and-abuse-of-power-in-stealing-agbp24.md) _Context: GBP_
+
+### Changes:
+
+1. [ Panama begins work on its PS2.7 billion Panama Canal expansion project. ](/news/2007/09/3/panama-begins-work-on-its-aps2-7-billion-panama-canal-expansion-project.md) _2017-08-25 03:20:50 (First version)_
+1. [ Panama begins work on its GBP2.7 billion Panama Canal expansion project. ](/news/2007/09/3/panama-begins-work-on-its-agbp2-7-billion-panama-canal-expansion-project.md) _(Current version)_

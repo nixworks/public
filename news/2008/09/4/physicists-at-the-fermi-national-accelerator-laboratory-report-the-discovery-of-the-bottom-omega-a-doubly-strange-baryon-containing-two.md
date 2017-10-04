@@ -13,3 +13,8 @@
 
 1. [Physicists from Fermi National Accelerator Laboratory report data suggesting the elusive hypothesized Higgs boson ("God particle") may have been detected. ](/news/2012/03/7/physicists-from-fermi-national-accelerator-laboratory-report-data-suggesting-the-elusive-hypothesized-higgs-boson-god-particle-may-have.md) _Context: Fermi National Accelerator Laboratory_
 2. [ The 2008 Nobel Prize in Physics is awarded Yoichiro Nambu for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics, and Makoto Kobayashi and Toshihide Maskawa for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature.](/news/2008/10/7/the-2008-nobel-prize-in-physics-is-awarded-yoichiro-nambu-for-the-discovery-of-the-mechanism-of-spontaneous-broken-symmetry-in-subatomic-ph.md) _Context: quarks_
+
+### Changes:
+
+1. [ Physicists at the Fermi National Accelerator Laboratory report the discovery of the {{Subatomic particle|Bottom Omega-}}, a "doubly-strange" baryon containing two strange quarks and a bottom quark. ](/news/2008/09/4/physicists-at-the-fermi-national-accelerator-laboratory-report-the-discovery-of-the-subatomic-particle-bottom-omega-a-doubly-strange.md) _2017-05-01 03:23:49 (First version)_
+1. [ Physicists at the Fermi National Accelerator Laboratory report the discovery of the Bottom Omega-, a "doubly-strange" baryon containing two strange quarks and a bottom quark. ](/news/2008/09/4/physicists-at-the-fermi-national-accelerator-laboratory-report-the-discovery-of-the-bottom-omega-a-doubly-strange-baryon-containing-two.md) _(Current version)_

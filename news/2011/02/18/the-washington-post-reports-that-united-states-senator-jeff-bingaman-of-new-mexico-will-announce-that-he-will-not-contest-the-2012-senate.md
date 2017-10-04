@@ -16,3 +16,8 @@
 3. [A man stabs and wounds four people at a church in Albuquerque, New Mexico, United States. ](/news/2013/04/28/a-man-stabs-and-wounds-four-people-at-a-church-in-albuquerque-new-mexico-united-states.md) _Context: Americans, New Mexico_
 4. [A bipartisan group of eight United States Senators releases its plan to overhaul the immigration system potentially allowing millions of illegal aliens the chance to become citizens. ](/news/2013/04/16/a-bipartisan-group-of-eight-united-states-senators-releases-its-plan-to-overhaul-the-immigration-system-potentially-allowing-millions-of-ill.md) _Context: Americans, Senator_
 5. [A 15-year-old male shoots and kills a family, with three children, at a house near Albuquerque, New Mexico, United States. A suspect is later apprehended. ](/news/2013/01/20/a-15-year-old-male-shoots-and-kills-a-family-with-three-children-at-a-house-near-albuquerque-new-mexico-united-states-a-suspect-is-late.md) _Context: Americans, New Mexico_
+
+### Changes:
+
+1. [The ''Washington Post'' reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senat.md) _2017-08-25 03:32:15 (First version)_
+1. [The "Washington Post" reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senate.md) _(Current version)_

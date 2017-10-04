@@ -16,3 +16,8 @@
 3. [Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md) _Context: Al-Shabaab, Somali Civil War, Somalian_
 4. [A top level Somali al-Shabab militant with a $3m US bounty, Zakariya Ahmed Ismail Hersi, surrenders to police. ](/news/2014/12/27/a-top-level-somali-al-shabab-militant-with-a-3m-us-bounty-zakariya-ahmed-ismail-hersi-surrenders-to-police.md) _Context: Al-Shabaab, Somali Civil War, Somalian_
 5. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Al-Shabaab, Somalian_
+
+### Changes:
+
+1. [Somali civil war: A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/somali-civil-war-a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-m.md) _2017-08-27 03:41:42 (First version)_
+1. [A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-militants.md) _(Current version)_

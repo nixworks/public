@@ -17,3 +17,9 @@ Coordinated bombings rip through mostly Shiite neighbourhoods in the Baghdad are
 3. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 4. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_
 5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/iraqi-insurgency-post-u-s-withdrawal-pat-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around.md) _2017-08-25 03:39:13 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/iraqi-insurgency-post-u-s-withdrawal-at-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around.md) _2017-08-27 03:39:29 (Update)_
+2. [At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/at-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around-baghdad.md) _(Current version)_

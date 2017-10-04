@@ -17,3 +17,8 @@ A suspected arson fire badly damaged a Bellevue mosque early Saturday morning. P
 3. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: mosque_
 4. [A mosque under refurbishment in the Somalian capital Mogadishu collapses during Friday prayers resulting in at least 15 deaths. ](/news/2016/04/29/a-mosque-under-refurbishment-in-the-somalian-capital-mogadishu-collapses-during-friday-prayers-resulting-in-at-least-15-deaths.md) _Context: mosque_
 5. [Boko Haram suicide bombers kill at least 15 people at a mosque in the northeastern Nigerian city of Damaturu. ](/news/2015/10/7/boko-haram-suicide-bombers-kill-at-least-15-people-at-a-mosque-in-the-northeastern-nigerian-city-of-damaturu.md) _Context: mosque_
+
+### Changes:
+
+1. [ Islamophobia in the United States: A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/islamophobia-in-the-united-states-a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md) _2017-08-27 03:47:36 (First version)_
+1. [ A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md) _(Current version)_

@@ -17,3 +17,8 @@ Reporter for Ukrainian Pravda and critic of leaders in Ukraine, Belarus and Russ
 3. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Kiev_
 4. [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _Context: Kiev_
 5. [A former Ukrainian soldier assassinates former Russian Duma deputy Denis Voronenkov in the Ukrainian capital Kiev. In December 2016, he received Ukrainian citizenship. Ilya Ponomarev says Voronenkov was heading to a meeting with him. ](/news/2017/03/23/a-former-ukrainian-soldier-assassinates-former-russian-duma-deputy-denis-voronenkov-in-the-ukrainian-capital-kiev-in-december-2016-he-rece.md) _Context: Kiev_
+
+### Changes:
+
+1. [Ukrainian crisis: Prominent Ukrainian-based journalist Pavel Sheremet of the Ukrayinska Pravda is killed in a car bombing in Kiev. ](/news/2016/07/20/ukrainian-crisis-prominent-ukrainian-based-journalist-pavel-sheremet-of-the-ukrayinska-pravda-is-killed-in-a-car-bombing-in-kiev.md) _2017-08-27 03:46:31 (First version)_
+1. [Prominent Ukrainian-based journalist Pavel Sheremet of the Ukrayinska Pravda is killed in a car bombing in Kiev. ](/news/2016/07/20/prominent-ukrainian-based-journalist-pavel-sheremet-of-the-ukrayinska-pravda-is-killed-in-a-car-bombing-in-kiev.md) _(Current version)_

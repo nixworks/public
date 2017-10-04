@@ -17,3 +17,9 @@
 3. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Boko Haram_
 4. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Boko Haram_
 5. [82 of the female students recently released by Boko Haram reunite with their families in Abuja. ](/news/2017/05/20/82-of-the-female-students-recently-released-by-boko-haram-reunite-with-their-families-in-abuja.md) _Context: Boko Haram_
+
+### Changes:
+
+1. [Islamist insurgency in Nigeria:Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/islamist-insurgency-in-nigeria-psuspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md) _2017-08-25 03:41:16 (First version)_
+2. [Islamist insurgency in Nigeria:: Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/islamist-insurgency-in-nigeria-suspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md) _2017-08-27 03:41:34 (Update)_
+2. [Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/suspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md) _(Current version)_

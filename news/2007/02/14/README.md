@@ -13,7 +13,7 @@ _Context: Kosovo, Parliament of Serbia, United Nations_
 _Context: Al Franken, Minnesota, United States Senate, United States Senate election, 2008, comedian_
 
 ### [ Vodafone's Chief Executive, Arun Sarin, says the company will spend US$2 billion to enhance its investments in India. ](/news/2007/02/14/vodafone-s-chief-executive-arun-sarin-says-the-company-will-spend-us-2-billion-to-enhance-its-investments-in-india.md)
-_Context: Arun Sarin, CEO, India, US$, Vodafone Group Plc_
+_Context: $, Arun Sarin, CEO, India, Vodafone Group Plc_
 
 ### [ Mid-February winter storm: A major weather system reaches the Northeastern United States and eastern Canada and hammers the region with snow and ice. The same system is responsible for severe weather in the Midwest and a tornado in New Orleans, Louisiana. ](/news/2007/02/14/mid-february-winter-storm-a-major-weather-system-reaches-the-northeastern-united-states-and-eastern-canada-and-hammers-the-region-with-sno.md)
 _Context: Canada, Mid-February winter storm, Midwest, New Orleans, Louisiana, Northeastern United States, snow and ice, tornado, weather system_

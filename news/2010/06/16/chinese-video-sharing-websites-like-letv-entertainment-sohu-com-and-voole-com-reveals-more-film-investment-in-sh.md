@@ -14,3 +14,9 @@
 ### Related:
 
 1. [ A call to boycott French hypermart Carrefour from 1 May began spreading through mobile text messaging and online chat rooms amongst the Chinese over the weekend from 12 April, accusing the company's major shareholder, the LVMH Group, of donating funds to the Dalai Lama. There were also calls to extend the boycott to include French luxury goods and cosmetic products. According to the "Washington Times" on April 15, however, the Chinese government was attempting to "calm the situation" through censorship: "All comments posted on popular Internet forum Sohu.com relating to a boycott of Carrefour have been deleted."](/news/2008/04/12/a-call-to-boycott-french-hypermart-carrefour-from-1-may-began-spreading-through-mobile-text-messaging-and-online-chat-rooms-amongst-the-chi.md) _Context: Sohu_
+
+### Changes:
+
+1. [Shanghai International Film Festival:Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/shanghai-international-film-festival-pchinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-in.md) _2017-08-25 03:28:17 (First version)_
+2. [Shanghai International Film Festival:: Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/shanghai-international-film-festival-chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-i.md) _2017-08-27 03:28:17 (Update)_
+2. [Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-investment-in-sh.md) _(Current version)_

@@ -17,3 +17,8 @@ The BBC has become the latest victim of Twitter hackers as several of its feeds,
 3. [Twitter is experimenting with doubling its 140 character limit to 280 characters for all languages except Japanese, Chinese and Korean. ](/news/2017/09/26/twitter-is-experimenting-with-doubling-its-140-character-limit-to-280-characters-for-all-languages-except-japanese-chinese-and-korean.md) _Context: Twitter_
 4. [The BBC plans to launch a service in Korean. ](/news/2017/09/25/the-bbc-plans-to-launch-a-service-in-korean.md) _Context: BBC_
 5. [Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton, after Shkreli posted on Twitter that he would offer $5,000 to anyone who could directly obtain a lock of Clinton's hair. Shkreli was convicted of fraud in August and is awaiting sentencing. ](/news/2017/09/13/former-businessman-martin-shkreli-has-his-bail-revoked-for-threatening-former-politician-hillary-clinton-after-shkreli-posted-on-twitter-th.md) _Context: Twitter_
+
+### Changes:
+
+1. [Several BBC Twitter accounts are hacked including its Weather, Arabic and Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electroni.md) _2017-08-25 03:37:57 (First version)_
+1. [Several BBC Twitter accounts are hacked including its Weather, Arabic and Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electronic.md) _(Current version)_

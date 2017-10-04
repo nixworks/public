@@ -19,3 +19,9 @@ Malian troops and suspected Islamist militants are exchanging heavy gunfire in G
 3. [Gunmen attack a Malian military checkpoint in the town of Lere, near the Mauritanian border with Mali, killing at least three soldiers and wounding two others. ](/news/2016/02/24/gunmen-attack-a-malian-military-checkpoint-in-the-town-of-la-c-ra-c-near-the-mauritanian-border-with-mali-killing-at-least-three-soldiers-and.md) _Context: Mali, Malian military_
 4. [A Dutch military helicopter serving as part of the United Nations peacekeeping mission in Mali crashes near Gao, killing two people. ](/news/2015/03/17/a-dutch-military-helicopter-serving-as-part-of-the-united-nations-peacekeeping-mission-in-mali-crashes-near-gao-killing-two-people.md) _Context: Gao, Mali_
 5. [The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. ](/news/2013/02/8/the-country-s-first-reported-suicide-bomber-blows-himself-up-in-gao-injuring-one-malian-soldier-in-the-north-french-and-chadian-forces-re.md) _Context: Gao, Mali_
+
+### Changes:
+
+1. [Northern Mali conflict (2012-present):Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012apresent-pfirefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md) _2017-08-25 03:37:30 (First version)_
+2. [Northern Mali conflict (2012-present):: Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012-present-firefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md) _2017-08-27 03:37:40 (Update)_
+2. [Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/firefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md) _(Current version)_

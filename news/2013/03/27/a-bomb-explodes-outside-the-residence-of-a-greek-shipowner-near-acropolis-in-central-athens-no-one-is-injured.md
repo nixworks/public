@@ -16,3 +16,9 @@
 3. [Greek anti-terror police arrest four people in Athens, Greece in alleged relation to the January 15 failed terrorist plot to kill police officers in Belgium. ](/news/2015/01/17/greek-anti-terror-police-arrest-four-people-in-athens-greece-in-alleged-relation-to-the-january-15-failed-terrorist-plot-to-kill-police-off.md) _Context: Athens, Greek_
 4. [Shots are fired at the German ambassador's residence in Athens, Greece; no casualties are reported. ](/news/2013/12/30/shots-are-fired-at-the-german-ambassador-s-residence-in-athens-greece-no-casualties-are-reported.md) _Context: Athens, Greek_
 5. [Several hours of heavy rain and thunderstorms in the Greek capital Athens flood roads, houses, and causes disruption to train and tram networks. ](/news/2013/02/22/several-hours-of-heavy-rain-and-thunderstorms-in-the-greek-capital-athens-flood-roads-houses-and-causes-disruption-to-train-and-tram-netwo.md) _Context: Athens, Greek_
+
+### Changes:
+
+1. [Terrorism in Greece:A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/terrorism-in-greece-pa-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md) _2017-08-25 03:38:03 (First version)_
+2. [Terrorism in Greece:: A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/terrorism-in-greece-a-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md) _2017-08-27 03:38:14 (Update)_
+2. [A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/a-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md) _(Current version)_

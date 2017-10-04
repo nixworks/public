@@ -25,7 +25,7 @@ _Context: Americans, Indiana, Waynesville_
 Authorities on Saturday arrested the 12-year-old brother of an 8-year-old girl who was mysteriously stabbed at her home in a quiet Northern California community last month.
 
 ### [Andrew Moran, one of Britain's most wanted criminals, is arrested in Costa Blanca, Spain. ](/news/2013/05/12/andrew-moran-one-of-britain-s-most-wanted-criminals-is-arrested-in-costa-blanca-spain.md)
-_Context: Costa Blanca, Spain, United Kingdom_
+_Context: Costa Blanca, Spanish, United Kingdom_
 
 ### [Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/partial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obtain-an-absolute-majority-in-the-34.md)
 _Context: Nawaz Sharif_

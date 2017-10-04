@@ -18,3 +18,8 @@ A masked man armed with a sword kills a teacher and a pupil at a school in the S
 3. [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md) _Context: Swedish_
 4. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: Swedish_
 5. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Swedish_
+
+### Changes:
+
+1. [Trollhattan school attack: A teacher and a student are killed, and another student injured, in an attack at a high school in Trollhattan, Sweden. The attacker was shot dead by police. ](/news/2015/10/22/trollha-ttan-school-attack-a-teacher-and-a-student-are-killed-and-another-student-injured-in-an-attack-at-a-high-school-in-trollha-ttan.md) _2017-08-27 03:43:28 (First version)_
+1. [A teacher and a student are killed, and another student injured, in an attack at a high school in Trollhattan, Sweden. The attacker was shot dead by police. ](/news/2015/10/22/a-teacher-and-a-student-are-killed-and-another-student-injured-in-an-attack-at-a-high-school-in-trollha-ttan-sweden-the-attacker-was-sho.md) _(Current version)_

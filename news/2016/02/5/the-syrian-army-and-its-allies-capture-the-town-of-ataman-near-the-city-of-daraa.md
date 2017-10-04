@@ -18,3 +18,8 @@ Some 15,000 Syrians are massed at the Turkish border after fleeing a government 
 3. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Syrian Army, Syrian Civil War_
 4. [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md) _Context: Syrian Army, Syrian Civil War_
 5. [The Syrian Army captures at least 23 villages in North East Aleppo Governorate from ISIL in a matter of hours after an ISIL withdrawal caused by the SAA capturing Al-Khafsah. ](/news/2017/03/7/the-syrian-army-captures-at-least-23-villages-in-north-east-aleppo-governorate-from-isil-in-a-matter-of-hours-after-an-isil-withdrawal-cause.md) _Context: Syrian Army, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: The Syrian Army and its allies capture the town of Ataman, near the city of Daraa. ](/news/2016/02/5/syrian-civil-war-the-syrian-army-and-its-allies-capture-the-town-of-ataman-near-the-city-of-daraa.md) _2017-08-27 03:44:50 (First version)_
+1. [The Syrian Army and its allies capture the town of Ataman, near the city of Daraa. ](/news/2016/02/5/the-syrian-army-and-its-allies-capture-the-town-of-ataman-near-the-city-of-daraa.md) _(Current version)_

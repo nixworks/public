@@ -17,3 +17,9 @@ Officials in Iraq say at least 26 people have been killed by a suicide bomber wh
 3. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 4. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_
 5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):26 people are killed and 55 wounded by a suicide bomber in a park in northern Baghdad ](/news/2013/08/23/iraqi-insurgency-post-u-s-withdrawal-p26-people-are-killed-and-55-wounded-by-a-suicide-bomber-in-a-park-in-northern-baghdad.md) _2017-08-25 03:39:11 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: 26 people are killed and 55 wounded by a suicide bomber in a park in northern Baghdad ](/news/2013/08/23/iraqi-insurgency-post-u-s-withdrawal-26-people-are-killed-and-55-wounded-by-a-suicide-bomber-in-a-park-in-northern-baghdad.md) _2017-08-27 03:39:27 (Update)_
+2. [26 people are killed and 55 wounded by a suicide bomber in a park in northern Baghdad ](/news/2013/08/23/26-people-are-killed-and-55-wounded-by-a-suicide-bomber-in-a-park-in-northern-baghdad.md) _(Current version)_

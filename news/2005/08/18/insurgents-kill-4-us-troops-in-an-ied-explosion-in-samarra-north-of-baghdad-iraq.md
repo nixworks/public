@@ -18,3 +18,9 @@
 3. [ Edward Pietrzyk, the Polish ambassador to Iraq, is hurt and his bodyguard is killed by a bomb attack in Baghdad. ](/news/2007/10/3/edward-pietrzyk-the-polish-ambassador-to-iraq-is-hurt-and-his-bodyguard-is-killed-by-a-bomb-attack-in-baghdad.md) _Context: Baghdad, Iraq, improvised explosive device_
 4. [ Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md) _Context: Baghdad, Iraq, improvised explosive device_
 5. [ Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md) _Context: Baghdad, Iraq, Iraqi insurgency_
+
+### Changes:
+
+1. [ Conflict in Iraq: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-p-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _2017-08-25 03:16:41 (First version)_
+2. [ Conflict in Iraq:: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _2017-08-27 03:16:43 (Update)_
+2. [ Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _(Current version)_

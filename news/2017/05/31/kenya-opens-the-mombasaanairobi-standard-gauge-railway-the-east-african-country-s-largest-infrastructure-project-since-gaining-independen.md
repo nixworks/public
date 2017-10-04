@@ -17,3 +17,8 @@
 3. [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md) _Context: Kenya_
 4. [The Kenyan electoral commission announces that President Uhuru Kenyatta has won re-election. Kenyatta leads ODM candidate Raila Odinga by more than 1.4 million votes. The opposition National Super Alliance rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-has-won-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-mo.md) _Context: Kenya_
 5. [Prominent Italian-born conservationist Kuki Gallmann is shot and injured in an ambush in northern Kenya. ](/news/2017/04/23/prominent-italian-born-conservationist-kuki-gallmann-is-shot-and-injured-in-an-ambush-in-northern-kenya.md) _Context: Kenya_
+
+### Changes:
+
+1. [Kenya opens the Mombasa-Nairobi Standard Gauge Railway, the East African country's largest infrastructure project since gaining independence. ](/news/2017/05/31/kenya-opens-the-mombasa-nairobi-standard-gauge-railway-the-east-african-country-s-largest-infrastructure-project-since-gaining-independen.md) _2017-08-27 03:48:24 (First version)_
+1. [Kenya opens the Mombasa-Nairobi Standard Gauge Railway, the East African country's largest infrastructure project since gaining independence. ](/news/2017/05/31/kenya-opens-the-mombasaanairobi-standard-gauge-railway-the-east-african-country-s-largest-infrastructure-project-since-gaining-independen.md) _(Current version)_

@@ -17,3 +17,8 @@ These interactive map and charts show the drug-related fatalities reported since
 3. [The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of 17-year old Kian Loyd delos Santos.](/news/2017/08/20/the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-17-year-old-kian-loyd-delos-s.md) _Context: Philippines, war on drugs_
 4. [At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md) _Context: Philippines, war on drugs_
 5. [In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. ](/news/2017/07/23/in-alleged-emulation-of-philippine-president-rodrigo-duterte-s-war-on-drugs-indonesian-president-joko-widodo-announces-orders-for-police-to.md) _Context: Philippines, war on drugs_
+
+### Changes:
+
+1. [Philippine Drug War: The Philippines' current crackdown on controlled substances passes a death toll of 500. ](/news/2016/07/21/philippine-drug-war-the-philippines-current-crackdown-on-controlled-substances-passes-a-death-toll-of-500.md) _2017-08-27 03:46:31 (First version)_
+1. [The Philippines' current crackdown on controlled substances passes a death toll of 500. ](/news/2016/07/21/the-philippines-current-crackdown-on-controlled-substances-passes-a-death-toll-of-500.md) _(Current version)_

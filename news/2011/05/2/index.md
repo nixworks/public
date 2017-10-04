@@ -25,7 +25,7 @@ Investors warn that this kind of reaction to major news is often only temporary 
 Asian stocks rose on Monday andU.S. stock index futures extended gains on the back of mediareports that Osama bin Laden was dead.
 
 ### [The Australian dollar reaches $1.10 in United States dollars, its highest level since the Australian dollar was floated in 1983. ](/news/2011/05/2/the-australian-dollar-reaches-1-10-in-united-states-dollars-its-highest-level-since-the-australian-dollar-was-floated-in-1983.md)
-_Context: A$, US$_
+_Context: $, A$_
 
 ### [Sony advises that hackers may have stolen personal details of 24.6 million users of Sony Online Entertainment resulting in the site closing. ](/news/2011/05/2/sony-advises-that-hackers-may-have-stolen-personal-details-of-24-6-million-users-of-sony-online-entertainment-resulting-in-the-site-closing.md)
 _Context: Sony, Sony Online Entertainment, hackers_

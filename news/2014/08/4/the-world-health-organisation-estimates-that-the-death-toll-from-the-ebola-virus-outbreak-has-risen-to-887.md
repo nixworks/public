@@ -16,3 +16,8 @@
 3. [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md) _Context: World Health Organisation, ebola virus_
 4. [The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md) _Context: World Health Organisation, ebola virus_
 5. [The official death toll from the Ebola virus outbreak reaches 3,000 with the World Health Organisation warning that the official figures "vastly underestimate the true scale of the epidemic". ](/news/2014/09/27/the-official-death-toll-from-the-ebola-virus-outbreak-reaches-3-000-with-the-world-health-organisation-warning-that-the-official-figures-va.md) _Context: World Health Organisation, ebola virus_
+
+### Changes:
+
+1. [2014 West Africa Ebola outbreak: The World Health Organisation estimates that the death toll from the Ebola virus outbreak has risen to 887. ](/news/2014/08/4/2014-west-africa-ebola-outbreak-the-world-health-organisation-estimates-that-the-death-toll-from-the-ebola-virus-outbreak-has-risen-to-887.md) _2017-08-27 03:41:06 (First version)_
+1. [The World Health Organisation estimates that the death toll from the Ebola virus outbreak has risen to 887. ](/news/2014/08/4/the-world-health-organisation-estimates-that-the-death-toll-from-the-ebola-virus-outbreak-has-risen-to-887.md) _(Current version)_

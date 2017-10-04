@@ -106,7 +106,7 @@ _Context: November's presidential poll, Supreme Court_
 Rwandan President Paul Kagame has said he is confident of re-election as he kicked off a campaign already tarnished by a string of political assassinations and arrests.
 
 ### [Spain rejects a proposal to ban the burqa in public places; 183 to 162, with two abstaining. ](/news/2010/07/20/spain-rejects-a-proposal-to-ban-the-burqa-in-public-places-183-to-162-with-two-abstaining.md)
-_Context: Spain, burqa_
+_Context: Spanish, burqa_
 
 ### [Shirley Sherrod, an employee of the United States Department of Agriculture, resigns after a video on the internet surfaced showing her apparently making racist remarks regarding the foreclosure of a farm owned by a white farmer. ](/news/2010/07/20/shirley-sherrod-an-employee-of-the-united-states-department-of-agriculture-resigns-after-a-video-on-the-internet-surfaced-showing-her-appa.md)
 A video has surfaced showing an Agriculture Department official regaling an NAACP audience with a story about how she withheld help to a white farmer facing bankruptcy -- video that now has forced the official to resign

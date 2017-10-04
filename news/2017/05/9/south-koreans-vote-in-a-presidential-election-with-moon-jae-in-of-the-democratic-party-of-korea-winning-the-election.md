@@ -19,3 +19,9 @@ min Park and Cynthia Kim
 3. [Voters in South Korea go to the polls with exit polls showing a very close race expected between Park Geun-hye of the conservative Saenuri Party and Moon Jae-in of the left-of-centre Democratic United Party. ](/news/2012/12/19/voters-in-south-korea-go-to-the-polls-with-exit-polls-showing-a-very-close-race-expected-between-park-geun-hye-of-the-conservative-saenuri-p.md) _Context: Moon Jae-in, South Korea_
 4. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: South Korea_
 5. [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md) _Context: South Korea_
+
+### Changes:
+
+1. [South Koreans vote in a presidential election, with Moon Jae-in leading in the polls. ](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-with-moon-jae-in-leading-in-the-polls.md) _2017-05-10 00:30:05 (First version)_
+2. [South Korean presidential election, 2017: South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. ](/news/2017/05/9/south-korean-presidential-election-2017-south-koreans-vote-in-a-presidential-election-with-moon-jae-in-of-the-democratic-party-of-korea-w.md) _2017-08-27 03:48:19 (Update)_
+2. [South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. ](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-with-moon-jae-in-of-the-democratic-party-of-korea-winning-the-election.md) _(Current version)_

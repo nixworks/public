@@ -20,3 +20,9 @@ As BP continued its effort to gain control of its untamed deep-sea well, Preside
 3. [U.S. federal magistrate Carl Barbier's ruling caps BP's fine under the Clean Water Act for its 2010 "Deepwater Horizon" oil spill in the Gulf of Mexico at $13.7 billion. ](/news/2015/01/16/u-s-federal-magistrate-carl-barbier-s-ruling-caps-bp-s-fine-under-the-clean-water-act-for-its-2010-deepwater-horizon-oil-spill-in-the-gul.md) _Context: BP_
 4. [The US Supreme Court rejects BP's challenge to their "Deepwater Horizon" gulf oil spill settlement. ](/news/2014/12/8/the-us-supreme-court-rejects-bp-s-challenge-to-their-deepwater-horizon-gulf-oil-spill-settlement.md) _Context: BP_
 5. [Exxon Mobil, BP and BG decline to take part in the upcoming international bidding for rights to explore Brazil's deep-water Libra oil field, one of the largest pre-salt fields yet to be explored in that country. ](/news/2013/09/21/exxon-mobil-bp-and-bg-decline-to-take-part-in-the-upcoming-international-bidding-for-rights-to-explore-brazil-s-deep-water-libra-oil-field.md) _Context: BP_
+
+### Changes:
+
+1. [Gulf of Mexico oil spill:BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/gulf-of-mexico-oil-spill-pbp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md) _2017-08-25 03:28:03 (First version)_
+2. [Gulf of Mexico oil spill:: BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/gulf-of-mexico-oil-spill-bp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md) _2017-08-27 03:28:02 (Update)_
+2. [BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/bp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md) _(Current version)_

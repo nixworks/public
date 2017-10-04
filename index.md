@@ -1,7 +1,7 @@
 ## [News](/news/2017/10/4/index.md)
 
 ### [The Nobel Prize committee will announce which scientist has won the Nobel Prize in Chemistry. ](/news/2017/10/4/the-nobel-prize-committee-will-announce-which-scientist-has-won-the-nobel-prize-in-chemistry.md)
-_Context: Nobel Prize in Chemistry_
+_Context: Nobel Prize, Nobel Prize in Chemistry, Nobel Prize in Chemistry_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -13,6 +13,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the process of hydraulic fracturing. ](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.md)
 Energy minister Paul Wheelhouse tells MSPs that fracking &quot;cannot and will not take place in Scotland&quot;.
+
+### [Puerto Rico Governor Ricardo Rossello's office reports hurricane-related deaths have more than doubled to 34. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-hurricane-related-deaths-have-more-than-doubled-to-34.md)
+The death toll in Puerto Rico from Hurricane Maria has more than doubled to 34, a spokesman for Governor Ricardo Rosello said on Tuesday.
 
 ### [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md)
 _Context: $, Amir Mirza Hekmati, CIA, Ellen S. Huvelle, Iran, Iran-United States relations, U.S. District Court for the District of Columbia, U.S. Marine, default judgment, falsely accused, spy_

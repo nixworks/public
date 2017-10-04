@@ -21,3 +21,9 @@
 3. [ Iraq's government announces that all Bremer walls will be removed from Baghdad within forty days. ](/news/2009/08/5/iraq-s-government-announces-that-all-bremer-walls-will-be-removed-from-baghdad-within-forty-days.md) _Context: Government of Iraq, Iraq_
 4. [ The Accordance Front, Iraq's largest Sunni party, withdraws from the government while at least 70 people die in three bomb attacks. ](/news/2007/08/1/the-accordance-front-iraq-s-largest-sunni-party-withdraws-from-the-government-while-at-least-70-people-die-in-three-bomb-attacks.md) _Context: Government of Iraq, Iraq_
 5. [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md) _Context: Iraq_
+
+### Changes:
+
+1. [ Iraq War: An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-p-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md) _2017-08-25 03:20:09 (First version)_
+2. [ Iraq War:: An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md) _2017-08-27 03:20:09 (Update)_
+2. [ An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md) _(Current version)_

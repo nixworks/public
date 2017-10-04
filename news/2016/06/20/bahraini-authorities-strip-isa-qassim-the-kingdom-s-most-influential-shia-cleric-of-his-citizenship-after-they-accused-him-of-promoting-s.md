@@ -17,3 +17,8 @@
 3. [Bahrain's public prosecution charges seven police officers with torturing Shia medics to obtain confessions during the ongoing Bahraini uprising. ](/news/2012/09/18/bahrain-s-public-prosecution-charges-seven-police-officers-with-torturing-shia-medics-to-obtain-confessions-during-the-ongoing-bahraini-upri.md) _Context: Bahrain, Shi'ite_
 4. [Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/four-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-attack.md) _Context: Bahrain, Shi'ite_
 5. [4 Shia Muslim activists are arrested in Bahrain. ](/news/2010/08/15/4-shia-muslim-activists-are-arrested-in-bahrain.md) _Context: Bahrain, Shi'ite_
+
+### Changes:
+
+1. [Human rights in Bahrain: Bahraini authorities strip Isa Qassim, the kingdom's most influential Shia cleric, of his citizenship after they accused him of promoting "sectarianism and violence". ](/news/2016/06/20/human-rights-in-bahrain-bahraini-authorities-strip-isa-qassim-the-kingdom-s-most-influential-shia-cleric-of-his-citizenship-after-they-ac.md) _2017-08-27 03:46:18 (First version)_
+1. [Bahraini authorities strip Isa Qassim, the kingdom's most influential Shia cleric, of his citizenship after they accused him of promoting "sectarianism and violence". ](/news/2016/06/20/bahraini-authorities-strip-isa-qassim-the-kingdom-s-most-influential-shia-cleric-of-his-citizenship-after-they-accused-him-of-promoting-s.md) _(Current version)_

@@ -19,3 +19,8 @@ A comprehensive operation against terrorists is being launched upon direction of
 3. [Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan. The soldiers belonged to the Frontier Corps; the attack targeted a checkpoint northeast of the border village of Angoor Adda. ](/news/2015/10/27/pakistan-says-seven-of-its-soldiers-have-been-killed-in-the-south-waziristan-tribal-region-by-fire-from-across-the-border-with-afghanistan.md) _Context: Afghanistan, War in North-West Pakistan_
 4. [Seven Pakistani army soldiers and 19 Taliban fighters are killed in overnight fighting in North Waziristan near the Afghanistan border. ](/news/2015/06/8/seven-pakistani-army-soldiers-and-19-taliban-fighters-are-killed-in-overnight-fighting-in-north-waziristan-near-the-afghanistan-border.md) _Context: Afghanistan, War in North-West Pakistan_
 5. [Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md) _Context: Afghanistan, War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/war-in-north-west-pakistan-airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md) _2017-08-27 03:40:51 (First version)_
+1. [Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md) _(Current version)_

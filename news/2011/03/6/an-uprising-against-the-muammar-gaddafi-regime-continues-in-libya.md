@@ -26,3 +26,9 @@ Intense gunfire was heard in the center of the Libyan capital Tripoli before daw
 3. [Over documents delivered to Saif al-Islam, detained son of slain leader Muammar Gaddafi, Libya arrests an Australian lawyer from the International Criminal Court (ICC) for trying "to deliver documents to the accused, documents that have nothing to do with his case and that represent a danger to the security of Libya". ](/news/2012/06/10/over-documents-delivered-to-saif-al-islam-detained-son-of-slain-leader-muammar-gaddafi-libya-arrests-an-australian-lawyer-from-the-interna.md) _Context: Libya, Muammar Gaddafi_
 4. [A Libyan starts court proceedings against 41 people accused of helping Muammar Gaddafi to attempt to suppress the opposition in the Libyan Civil War. ](/news/2012/02/5/a-libyan-starts-court-proceedings-against-41-people-accused-of-helping-muammar-gaddafi-to-attempt-to-suppress-the-opposition-in-the-libyan-c.md) _Context: Libya, Muammar Gaddafi_
 5. [In Libya, the town of Bani Walid, a former stronghold of Muammar Gaddafi, revolts against the National Transitional Council government. ](/news/2012/01/24/in-libya-the-town-of-bani-walid-a-former-stronghold-of-muammar-gaddafi-revolts-against-the-national-transitional-council-government.md) _Context: Libya, Muammar Gaddafi_
+
+### Changes:
+
+1. [Libyan Civil War:An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/libyan-civil-war-pan-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md) _2017-08-25 03:32:26 (First version)_
+2. [Libyan Civil War:: An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/libyan-civil-war-an-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md) _2017-08-27 03:32:34 (Update)_
+2. [An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/an-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md) _(Current version)_

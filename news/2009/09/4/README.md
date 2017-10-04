@@ -31,7 +31,7 @@ As many as 40 Afghan civilians were feared to be among the 90 people killed in a
 _Context: Madagascan Army, Madagascar, political crisis_
 
 ### [ The International Monetary Fund grants Zimbabwe a US$ 500 million loan, its first to the country in 10 years. ](/news/2009/09/4/the-international-monetary-fund-grants-zimbabwe-a-us-500-million-loan-its-first-to-the-country-in-10-years.md)
-_Context: International Monetary Fund, US$, Zimbabwe_
+_Context: $, International Monetary Fund, Zimbabwe_
 
 ### [ Temperatures in the Arctic are at their highest for 2000 years, according to a new study. ](/news/2009/09/4/temperatures-in-the-arctic-are-at-their-highest-for-2000-years-according-to-a-new-study.md)
 Latest environmental news, features and updates. Pictures, video and more. 

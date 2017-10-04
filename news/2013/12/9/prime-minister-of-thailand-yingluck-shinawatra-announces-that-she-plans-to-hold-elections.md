@@ -17,3 +17,9 @@
 3. [Former Prime Minister of Thailand Yingluck Shinawatra appears in court to face corruption charges. ](/news/2016/01/15/former-prime-minister-of-thailand-yingluck-shinawatra-appears-in-court-to-face-corruption-charges.md) _Context: Prime Minister, Yingluck Shinawatra_
 4. [Former Prime Minister of Thailand Yingluck Shinawatra will be indicted over a controversial rice subsidy scheme. ](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.md) _Context: Prime Minister, Yingluck Shinawatra_
 5. [Former Prime Minister of Thailand Yingluck Shinawatra appears to face impeachment charges over a failed rice subsidy scheme. ](/news/2015/01/9/former-prime-minister-of-thailand-yingluck-shinawatra-appears-to-face-impeachment-charges-over-a-failed-rice-subsidy-scheme.md) _Context: Prime Minister, Yingluck Shinawatra_
+
+### Changes:
+
+1. [2013 Thai protests:Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/2013-thai-protests-pprime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md) _2017-08-25 03:39:39 (First version)_
+2. [2013 Thai protests:: Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/2013-thai-protests-prime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md) _2017-08-27 03:39:57 (Update)_
+2. [Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/prime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo, Syrian Civil War_
 4. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo, Syrian Civil War_
 5. [The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuation-of-the-last-group-of-rebels-to-the-idlib-gover.md) _Context: Aleppo, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian civil war: A chlorine attack in Aleppo on Tuesday injures more than 100 people. The blast from barrel bombs dropped kills one person. ](/news/2016/09/7/syrian-civil-war-a-chlorine-attack-in-aleppo-on-tuesday-injures-more-than-100-people-the-blast-from-barrel-bombs-dropped-kills-one-person.md) _2017-08-27 03:46:47 (First version)_
+1. [A chlorine attack in Aleppo on Tuesday injures more than 100 people. The blast from barrel bombs dropped kills one person. ](/news/2016/09/7/a-chlorine-attack-in-aleppo-on-tuesday-injures-more-than-100-people-the-blast-from-barrel-bombs-dropped-kills-one-person.md) _(Current version)_

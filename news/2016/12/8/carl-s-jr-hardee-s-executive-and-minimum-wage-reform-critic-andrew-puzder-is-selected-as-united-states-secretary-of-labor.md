@@ -16,3 +16,8 @@
 3. [U.S. President Donald Trump names Florida International University College of Law Dean and former National Labor Relations Board member Alexander Acosta to be Secretary of Labor. The President's initial nominee, Andy Puzder, withdrew his nomination yesterday. ](/news/2017/02/16/u-s-president-donald-trump-names-florida-international-university-college-of-law-dean-and-former-national-labor-relations-board-member-alex.md) _Context: United States Secretary of Labor_
 4. [United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.md) _Context: Presidential transition of Donald Trump_
 5. [President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _Context: Presidential transition of Donald Trump_
+
+### Changes:
+
+1. [Presidential transition of Donald Trump: Carl's Jr.-Hardee's executive and minimum wage reform critic Andrew Puzder is selected as United States Secretary of Labor. ](/news/2016/12/8/presidential-transition-of-donald-trump-carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-st.md) _2017-08-27 03:47:24 (First version)_
+1. [Carl's Jr.-Hardee's executive and minimum wage reform critic Andrew Puzder is selected as United States Secretary of Labor. ](/news/2016/12/8/carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-states-secretary-of-labor.md) _(Current version)_

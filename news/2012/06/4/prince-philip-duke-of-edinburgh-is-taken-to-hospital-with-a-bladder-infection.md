@@ -18,3 +18,9 @@ The Duke of Edinburgh misses the Diamond Jubilee concert after being taken to ho
 3. [U.S. President Barack Obama, in an op-ed in London's "Daily Telegraph", urges Britons to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-obam.md) _Context: Prince Philip, Duke of Edinburgh_
 4. [Prince Philip, Duke of Edinburgh is admitted to a London hospital for an exploratory operation after experiencing abdominal pains. ](/news/2013/06/6/prince-philip-duke-of-edinburgh-is-admitted-to-a-london-hospital-for-an-exploratory-operation-after-experiencing-abdominal-pains.md) _Context: Prince Philip, Duke of Edinburgh_
 5. [Prince Philip is admitted to a London hospital for an exploratory operation. ](/news/2013/06/5/prince-philip-is-admitted-to-a-london-hospital-for-an-exploratory-operation.md) _Context: Prince Philip, Duke of Edinburgh_
+
+### Changes:
+
+1. [Diamond Jubilee of Elizabeth II:Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-pprince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _2017-08-25 03:35:49 (First version)_
+2. [Diamond Jubilee of Elizabeth II:: Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-prince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _2017-08-27 03:35:59 (Update)_
+2. [Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/prince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _(Current version)_

@@ -19,3 +19,8 @@ Violent aftershocks hampered desperate efforts to find survivors in quake-hit Ch
 3. [A dust storm hits Christchurch, New Zealand, hampering the recovery efforts from the 2011 Canterbury earthquake. ](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.md) _Context: 2011 Canterbury earthquake, New Zealand_
 4. [A memorial service is held in Christchurch, New Zealand, for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/18/a-memorial-service-is-held-in-christchurch-new-zealand-for-the-victims-of-the-2011-canterbury-earthquake.md) _Context: 2011 Canterbury earthquake, New Zealand_
 5. [Bob Parker, the mayor of the New Zealand city of Christchurch, estimates that the city centre is still "very, very dangerous" with up to a third of the buildings needing to be demolished. ](/news/2011/03/13/bob-parker-the-mayor-of-the-new-zealand-city-of-christchurch-estimates-that-the-city-centre-is-still-very-very-dangerous-with-up-to-a-t.md) _Context: 2011 Canterbury earthquake, New Zealand_
+
+### Changes:
+
+1. [2011 Canterbury earthquake: The death toll from the earthquake in New Zealand rises to 144 and there is great concern about 200 more people missing. ](/news/2011/02/26/2011-canterbury-earthquake-the-death-toll-from-the-earthquake-in-new-zealand-rises-to-144-and-there-is-great-concern-about-200-more-people.md) _2017-08-27 03:32:29 (First version)_
+1. [The death toll from the earthquake in New Zealand rises to 144 and there is great concern about 200 more people missing. ](/news/2011/02/26/the-death-toll-from-the-earthquake-in-new-zealand-rises-to-144-and-there-is-great-concern-about-200-more-people-missing.md) _(Current version)_

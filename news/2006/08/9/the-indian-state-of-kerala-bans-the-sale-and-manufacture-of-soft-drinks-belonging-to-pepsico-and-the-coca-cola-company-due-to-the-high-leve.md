@@ -16,3 +16,8 @@
 3. [ India announces it is to create a new state, Telangana, out of Andhra Pradesh, with some officials resigning in protest. ](/news/2009/12/10/india-announces-it-is-to-create-a-new-state-telangana-out-of-andhra-pradesh-with-some-officials-resigning-in-protest.md) _Context: India, Indian state_
 4. [ Eight children drown after a boat carrying 35 pupils capsizes in Kerala, southern India. ](/news/2009/11/4/eight-children-drown-after-a-boat-carrying-35-pupils-capsizes-in-kerala-southern-india.md) _Context: India, Kerala_
 5. [ India investigates several deaths caused by the hepatitis B virus in the western state of Gujarat. ](/news/2009/02/20/india-investigates-several-deaths-caused-by-the-hepatitis-b-virus-in-the-western-state-of-gujarat.md) _Context: India, Indian state_
+
+### Changes:
+
+1. [ The Indian state of Kerala bans the sale and manufacture of soft drinks belonging to PepsiCo and The Coca-Cola Company due to the high levels of pesticide residue in the water used in these products. ](/news/2006/08/9/the-indian-state-of-kerala-bans-the-sale-and-manufacture-of-soft-drinks-belonging-to-pepsico-and-the-coca-cola-company-due-to-the-high-le.md) _2017-08-25 03:18:10 (First version)_
+1. [ The Indian state of Kerala bans the sale and manufacture of soft drinks belonging to PepsiCo and The Coca-Cola Company due to the high levels of pesticide residue in the water used in these products. ](/news/2006/08/9/the-indian-state-of-kerala-bans-the-sale-and-manufacture-of-soft-drinks-belonging-to-pepsico-and-the-coca-cola-company-due-to-the-high-leve.md) _(Current version)_

@@ -17,3 +17,8 @@ Afghan President Hamid Karzai today condemned US troops for killing a four-year-
 3. [A car bomb in Helmand Province kills up to 13 people, including Afghan Army soldiers and civilians, and wounds 18 others, according to government spokesman Omar Zwak. ](/news/2017/08/27/a-car-bomb-in-helmand-province-kills-up-to-13-people-including-afghan-army-soldiers-and-civilians-and-wounds-18-others-according-to-gover.md) _Context: War in Afghanistan_
 4. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _Context: War in Afghanistan_
 5. [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md) _Context: War in Afghanistan_
+
+### Changes:
+
+1. [War in Afghanistan: A four-year-old Afghan boy is killed by U.S. troops. ](/news/2014/01/11/war-in-afghanistan-a-four-year-old-afghan-boy-is-killed-by-u-s-troops.md) _2017-08-27 03:40:09 (First version)_
+1. [A four-year-old Afghan boy is killed by U.S. troops. ](/news/2014/01/11/a-four-year-old-afghan-boy-is-killed-by-u-s-troops.md) _(Current version)_

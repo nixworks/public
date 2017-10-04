@@ -17,3 +17,8 @@ The crew of a car transporter, which ran on to a sand bank in the Solent off the
 3. [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _Context: Singapore_
 4. [An Indonesian police plane, reportedly carrying 13 people, goes missing near Singapore on route to Batam. ](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.md) _Context: Singapore_
 5. [The death toll from a boat accident near Singapore reaches 54. The victims are mostly Indonesian migrant workers. ](/news/2016/11/4/the-death-toll-from-a-boat-accident-near-singapore-reaches-54-the-victims-are-mostly-indonesian-migrant-workers.md) _Context: Singapore_
+
+### Changes:
+
+1. [The Singapore-registered cargo ship {{MV|Hegh Osaka}} runs aground on Bramble Bank off the coast of the Isle of Wight, in the entrance to Southampton Water. ](/news/2015/01/3/the-singapore-registered-cargo-ship-mv-hoegh-osaka-runs-aground-on-bramble-bank-off-the-coast-of-the-isle-of-wight-in-the-entrance-to-s.md) _2017-05-01 03:44:58 (First version)_
+1. [The Singapore-registered cargo ship Hegh Osaka runs aground on Bramble Bank off the coast of the Isle of Wight, in the entrance to Southampton Water. ](/news/2015/01/3/the-singapore-registered-cargo-ship-hoegh-osaka-runs-aground-on-bramble-bank-off-the-coast-of-the-isle-of-wight-in-the-entrance-to-southamp.md) _(Current version)_

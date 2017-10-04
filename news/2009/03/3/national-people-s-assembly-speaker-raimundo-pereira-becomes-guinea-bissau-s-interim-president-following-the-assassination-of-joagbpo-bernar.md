@@ -17,3 +17,8 @@
 3. [Voters in Guinea-Bissau go to the polls for a presidential election following the death of President Malam Bacai Sanha in January. ](/news/2012/03/18/voters-in-guinea-bissau-go-to-the-polls-for-a-presidential-election-following-the-death-of-president-malam-bacai-sanha-in-january.md) _Context: Guinea-Bissau, acting president_
 4. [ A presidential election takes place in Guinea-Bissau following the death of former President Joo Bernardo Vieira. ](/news/2009/06/28/a-presidential-election-takes-place-in-guinea-bissau-following-the-death-of-former-president-joao-bernardo-vieira.md) _Context: Guinea-Bissau, acting president_
 5. [ In Guinea-Bissau, electoral commission declares JoGBPo Bernardo Vieira winner of the presidential election with a 52-55% majority ](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-joagbpo-bernardo-vieira-winner-of-the-presidential-election-with-a-52-55-majority.md) _Context: Guinea-Bissau, JoGBPo Bernardo Vieira_
+
+### Changes:
+
+1. [ National People's Assembly Speaker Raimundo Pereira becomes Guinea-Bissau's interim President following the assassination of Joao Bernardo Vieira. ](/news/2009/03/3/national-people-s-assembly-speaker-raimundo-pereira-becomes-guinea-bissau-s-interim-president-following-the-assassination-of-joapso-bernardo.md) _2017-08-25 03:23:59 (First version)_
+1. [ National People's Assembly Speaker Raimundo Pereira becomes Guinea-Bissau's interim President following the assassination of JoGBPo Bernardo Vieira. ](/news/2009/03/3/national-people-s-assembly-speaker-raimundo-pereira-becomes-guinea-bissau-s-interim-president-following-the-assassination-of-joagbpo-bernar.md) _(Current version)_

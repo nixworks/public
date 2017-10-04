@@ -16,3 +16,8 @@
 3. [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md) _Context: Nigeria_
 4. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
 5. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
+
+### Changes:
+
+1. [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-benin-ore-expressway.md) _2017-08-27 03:38:23 (First version)_
+1. [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-beninaore-expressway.md) _(Current version)_

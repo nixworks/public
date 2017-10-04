@@ -18,3 +18,8 @@ Pope Francis called on Wednesday for ethnic and religious reconciliation at the 
 3. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Pope Francis_
 4. [The Venerable Rev. Father Stanley Rother, a priest of the Roman Catholic Archdiocese of Oklahoma City (born in Okarche, Oklahoma), is beatified at the Cox Convention Center in Oklahoma City by Cardinal Angelo Amato, head of the sainthood Congregation in the Roman Curia and Pope Francis's delegate. Rother, who became a missionary, was assassinated in July 1981 in the poor rural village of Santiago Atitlan, Guatemala, and is the first Catholic martyr born a citizen of the United States. ](/news/2017/09/23/the-venerable-rev-father-stanley-rother-a-priest-of-the-roman-catholic-archdiocese-of-oklahoma-city-born-in-okarche-oklahoma-is-beatif.md) _Context: Pope Francis_
 5. [Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md) _Context: Pope Francis_
+
+### Changes:
+
+1. [Pope Francis%27 visit to Kenya: Pope Francis makes his first official visit to Africa. ](/news/2015/11/25/pope-francis-27-visit-to-kenya-pope-francis-makes-his-first-official-visit-to-africa.md) _2017-08-27 03:44:03 (First version)_
+1. [Pope Francis makes his first official visit to Africa. ](/news/2015/11/25/pope-francis-makes-his-first-official-visit-to-africa.md) _(Current version)_

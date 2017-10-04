@@ -19,3 +19,8 @@ Hungarians have overwhelmingly rejected the EU&#39;s refugee quota plan in a ref
 3. [According to the United Nations, as many as 96 families have been displaced by criminal gangs who are filling the vacuum left by FARC rebels in Colombia after the latter signed a peace deal with the government last year. ](/news/2017/02/18/according-to-the-united-nations-as-many-as-96-families-have-been-displaced-by-criminal-gangs-who-are-filling-the-vacuum-left-by-farc-rebels.md) _Context: Colombia, FARC_
 4. [The Congress of Colombia unanimously approves a peace deal between the Government and rebel group FARC to end the Colombian conflict. ](/news/2016/11/30/the-congress-of-colombia-unanimously-approves-a-peace-deal-between-the-government-and-rebel-group-farc-to-end-the-colombian-conflict.md) _Context: Colombian government, FARC_
 5. [The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. ](/news/2016/11/24/the-colombian-government-and-farc-rebels-sign-a-new-peace-deal-after-the-failure-of-the-original-one.md) _Context: Colombia, FARC_
+
+### Changes:
+
+1. [Colombian peace agreement referendum, 2016: Referendum voters in Colombia narrowly fail to ratify a peace deal between the Government of Colombia and FARC. ](/news/2016/10/2/colombian-peace-agreement-referendum-2016-referendum-voters-in-colombia-narrowly-fail-to-ratify-a-peace-deal-between-the-government-of-col.md) _2017-08-27 03:46:56 (First version)_
+1. [Referendum voters in Colombia narrowly fail to ratify a peace deal between the Government of Colombia and FARC. ](/news/2016/10/2/referendum-voters-in-colombia-narrowly-fail-to-ratify-a-peace-deal-between-the-government-of-colombia-and-farc.md) _(Current version)_

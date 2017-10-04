@@ -16,3 +16,8 @@
 3. [ New South Wales facing evacuations and a rising flood threat as heavy rain and high winds hit Sydney and Newcastle. Parts of Victoria and Tasmania are braced for wild weather. ](/news/2016/06/5/new-south-wales-facing-evacuations-and-a-rising-flood-threat-as-heavy-rain-and-high-winds-hit-sydney-and-newcastle-parts-of-victoria-and-t.md) _Context: Australian east coast low_
 4. [Fifteen people have had to be rescued from floodwaters as the town of Bellingen is likely to be cut off. ](/news/2015/05/2/fifteen-people-have-had-to-be-rescued-from-floodwaters-as-the-town-of-bellingen-is-likely-to-be-cut-off.md) _Context: Australian east coast low_
 5. [The storm in Australia's New South Wales is declared a "catastrophe" with four deaths, heavy flooding and disruption of transport to the state's largest cities Sydney and Newcastle. ](/news/2015/04/22/the-storm-in-australia-s-new-south-wales-is-declared-a-catastrophe-with-four-deaths-heavy-flooding-and-disruption-of-transport-to-the-sta.md) _Context: Australian east coast low_
+
+### Changes:
+
+1. [Australian east coast low: Four people have died in South East Queensland in flood waters triggered by heavy rain. ](/news/2015/05/1/australian-east-coast-low-four-people-have-died-in-south-east-queensland-in-flood-waters-triggered-by-heavy-rain.md) _2017-08-27 03:42:15 (First version)_
+1. [Four people have died in South East Queensland in flood waters triggered by heavy rain. ](/news/2015/05/1/four-people-have-died-in-south-east-queensland-in-flood-waters-triggered-by-heavy-rain.md) _(Current version)_

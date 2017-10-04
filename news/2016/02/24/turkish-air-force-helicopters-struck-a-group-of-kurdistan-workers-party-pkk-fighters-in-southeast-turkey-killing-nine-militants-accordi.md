@@ -17,3 +17,8 @@ By Seyhmus Cakan DIYARBAKIR, Turkey (Reuters) - Turkish military helicopters kil
 3. [Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md) _Context: Kurdistan Workers' Party, Turkish Air Force_
 4. [Turkish air force strikes kill four members of the PKK in Northern Iraq. ](/news/2011/09/5/turkish-air-force-strikes-kill-four-members-of-the-pkk-in-northern-iraq.md) _Context: Kurdistan Workers' Party, Turkish Air Force_
 5. [ Iraq War: Turkish Air Force planes strike Kurdistan Workers Party targets in northern Iraq. ](/news/2007/12/22/iraq-war-turkish-air-force-planes-strike-kurdistan-workers-party-targets-in-northern-iraq.md) _Context: Kurdistan Workers' Party, Turkish Air Force_
+
+### Changes:
+
+1. [Kurdish-Turkish conflict: Turkish Air Force helicopters struck a group of Kurdistan Workers' Party (PKK) fighters in southeast Turkey, killing nine militants, according to security sources. ](/news/2016/02/24/kurdish-turkish-conflict-turkish-air-force-helicopters-struck-a-group-of-kurdistan-workers-party-pkk-fighters-in-southeast-turkey-kil.md) _2017-08-27 03:45:01 (First version)_
+1. [Turkish Air Force helicopters struck a group of Kurdistan Workers' Party (PKK) fighters in southeast Turkey, killing nine militants, according to security sources. ](/news/2016/02/24/turkish-air-force-helicopters-struck-a-group-of-kurdistan-workers-party-pkk-fighters-in-southeast-turkey-killing-nine-militants-accordi.md) _(Current version)_

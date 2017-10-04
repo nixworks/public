@@ -20,3 +20,9 @@ Syrian state TV says rebels linked to al-Qaeda group detonated cars filled with 
 3. [Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _Context: Damascus, Syria_
 4. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Damascus, Syria_
 5. [A suicide bomb attack in Syria's capital Damascus kills at least 10 people. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/9/a-suicide-bomb-attack-in-syria-s-capital-damascus-kills-at-least-10-people-the-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Damascus, Syria_
+
+### Changes:
+
+1. [Syrian civil war:Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/syrian-civil-war-ptwo-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md) _2017-08-25 03:37:17 (First version)_
+2. [Syrian civil war:: Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/syrian-civil-war-two-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md) _2017-08-27 03:37:27 (Update)_
+2. [Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/two-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md) _(Current version)_

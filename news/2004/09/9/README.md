@@ -1,7 +1,7 @@
 ## [2004-09-9](/news/2004/09/9/index.md)
 
 ### [ United States Secretary of State Colin Powell declares that the actions of the Janjaweed Arab militia in Darfur constitute genocide. Powell holds the government of Sudan responsible. Up to 50,000 ethnic Africans have been killed and 2.2 million displaced into refugee camps in neighboring Chad by ethnic Arab militias. ](/news/2004/09/9/united-states-secretary-of-state-colin-powell-declares-that-the-actions-of-the-janjaweed-arab-militia-in-darfur-constitute-genocide-powell.md)
-_Context: Chad, Colin Powell, Darfur, Janjaweed, Sudan, United States Secretary of State, genocide_
+_Context: Chad, Colin Powell, Darfur, Janjaweed, Secretary of State, Sudan, genocide_
 
 ### [ A car bomb explodes outside the Australian embassy in Jakarta, Indonesia, killing 9 people (according to the BBC) and wounding 180. Jemaah Islamiyah, the Southeast Asian terrorist group connected with Al Qaeda, is believed responsible. ](/news/2004/09/9/a-car-bomb-explodes-outside-the-australian-embassy-in-jakarta-indonesia-killing-9-people-according-to-the-bbc-and-wounding-180-jemaah.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

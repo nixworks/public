@@ -16,3 +16,8 @@
 3. [Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.md) _Context: Sierra Leone_
 4. [The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md) _Context: Sierra Leone_
 5. [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _Context: Sierra Leone_
+
+### Changes:
+
+1. [The Japan Coast Guard is searching for six missing sailors after the Japanese cargo ship ''Eifukumaru No.18'' capsizes after a collision with a Sierra Leone-registered ship off the coast of Izu Oshima island. ](/news/2013/09/27/the-japan-coast-guard-is-searching-for-six-missing-sailors-after-the-japanese-cargo-ship-eifukumaru-no-18-capsizes-after-a-collision-wit.md) _2017-08-25 03:39:20 (First version)_
+1. [The Japan Coast Guard is searching for six missing sailors after the Japanese cargo ship "Eifukumaru No.18" capsizes after a collision with a Sierra Leone-registered ship off the coast of Izu Oshima island. ](/news/2013/09/27/the-japan-coast-guard-is-searching-for-six-missing-sailors-after-the-japanese-cargo-ship-eifukumaru-no-18-capsizes-after-a-collision-with.md) _(Current version)_

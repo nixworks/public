@@ -17,3 +17,8 @@
 3. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
 4. [ China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: China_
 5. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_
+
+### Changes:
+
+1. [Pollution in China: Sixty cities in the People's Republic of China issued smog alerts between December 2 and 4. ](/news/2016/12/4/pollution-in-china-sixty-cities-in-the-people-s-republic-of-china-issued-smog-alerts-between-december-2-and-4.md) _2017-08-27 03:47:22 (First version)_
+1. [Sixty cities in the People's Republic of China issued smog alerts between December 2 and 4. ](/news/2016/12/4/sixty-cities-in-the-people-s-republic-of-china-issued-smog-alerts-between-december-2-and-4.md) _(Current version)_

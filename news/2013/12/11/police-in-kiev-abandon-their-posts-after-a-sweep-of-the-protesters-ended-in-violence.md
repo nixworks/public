@@ -17,3 +17,9 @@ Security forces pulled back after seizing control of a large section of the squa
 3. [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _Context: Kiev_
 4. [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md) _Context: Kiev_
 5. [A former Ukrainian soldier assassinates former Russian Duma deputy Denis Voronenkov in the Ukrainian capital Kiev. In December 2016, he received Ukrainian citizenship. Ilya Ponomarev says Voronenkov was heading to a meeting with him. ](/news/2017/03/23/a-former-ukrainian-soldier-assassinates-former-russian-duma-deputy-denis-voronenkov-in-the-ukrainian-capital-kiev-in-december-2016-he-rece.md) _Context: Kiev_
+
+### Changes:
+
+1. [Euromaidan:Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/euromaidan-ppolice-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md) _2017-08-25 03:39:40 (First version)_
+2. [Euromaidan:: Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/euromaidan-police-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md) _2017-08-27 03:39:57 (Update)_
+2. [Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/police-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md) _(Current version)_

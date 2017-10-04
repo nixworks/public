@@ -17,3 +17,8 @@
 3. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
 4. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
 5. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
+
+### Changes:
+
+1. [China-Mexico relations: Representatives from China and Mexico pledge to deepen ties between their countries as a reaction to Donald Trump's positions on trade. ](/news/2016/12/12/china-mexico-relations-representatives-from-china-and-mexico-pledge-to-deepen-ties-between-their-countries-as-a-reaction-to-donald-trump.md) _2017-08-27 03:47:26 (First version)_
+1. [Representatives from China and Mexico pledge to deepen ties between their countries as a reaction to Donald Trump's positions on trade. ](/news/2016/12/12/representatives-from-china-and-mexico-pledge-to-deepen-ties-between-their-countries-as-a-reaction-to-donald-trump-s-positions-on-trade.md) _(Current version)_

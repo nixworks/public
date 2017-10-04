@@ -4,7 +4,7 @@
 _Context: nuclear program_
 
 ### [ Automotive industry crisis of 2008: The White House and U.S. Congress agree on a proposal for a US$15 billion bailout package for three major US automakers. ](/news/2008/12/10/automotive-industry-crisis-of-2008-the-white-house-and-u-s-congress-agree-on-a-proposal-for-a-us-15-billion-bailout-package-for-three-maj.md)
-_Context: U.S. Congress, US$, White House, global crisis_
+_Context: $, U.S. Congress, White House, global crisis_
 
 ### [ Global food price crisis: The Food and Agriculture Organization of the United Nations estimates that 963 million people are suffering from prolonged food deficiency around the world. ](/news/2008/12/10/global-food-price-crisis-the-food-and-agriculture-organization-of-the-united-nations-estimates-that-963-million-people-are-suffering-from.md)
 _Context: Food and Agriculture Organization, Global food price crisis_

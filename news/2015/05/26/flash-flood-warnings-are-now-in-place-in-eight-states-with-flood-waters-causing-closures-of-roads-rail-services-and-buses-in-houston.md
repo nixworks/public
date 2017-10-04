@@ -19,3 +19,8 @@ An unprecedented downpour of torrential rain triggered &quot;extremely dangerous
 3. [A gunman opens fire at a Houston shopping center and injures nine people. Responding police kill the shooter afterwards. ](/news/2016/09/26/a-gunman-opens-fire-at-a-houston-shopping-center-and-injures-nine-people-responding-police-kill-the-shooter-afterwards.md) _Context: Houston_
 4. [Three people aboard a small plane are killed when the aircraft crashes into a parked car near the Houston, Texas, Hobby Airport. ](/news/2016/06/9/three-people-aboard-a-small-plane-are-killed-when-the-aircraft-crashes-into-a-parked-car-near-the-houston-texas-hobby-airport.md) _Context: Houston_
 5. [Record rainfall and severe flooding in southeast Texas has killed at least two people with three others missing. On Thursday, a record 16.6 inches (42 cm) of rain fell in Brenham, west of Houston. ](/news/2016/05/27/record-rainfall-and-severe-flooding-in-southeast-texas-has-killed-at-least-two-people-with-three-others-missing-on-thursday-a-record-16-6.md) _Context: Houston_
+
+### Changes:
+
+1. [Texas-Oklahoma floods: Flash flood warnings are now in place in eight states with flood waters causing closures of roads, rail services and buses in Houston. ](/news/2015/05/26/texas-oklahoma-floods-flash-flood-warnings-are-now-in-place-in-eight-states-with-flood-waters-causing-closures-of-roads-rail-services-an.md) _2017-08-27 03:42:24 (First version)_
+1. [Flash flood warnings are now in place in eight states with flood waters causing closures of roads, rail services and buses in Houston. ](/news/2015/05/26/flash-flood-warnings-are-now-in-place-in-eight-states-with-flood-waters-causing-closures-of-roads-rail-services-and-buses-in-houston.md) _(Current version)_

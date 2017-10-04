@@ -16,3 +16,8 @@
 3. [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md) _Context: Swedish_
 4. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: Swedish_
 5. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Swedish_
+
+### Changes:
+
+1. [A new Swedish study published in the journal ''Pediatrics'' finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-l.md) _2017-08-25 03:38:35 (First version)_
+1. [A new Swedish study published in the journal "Pediatrics" finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-lat.md) _(Current version)_

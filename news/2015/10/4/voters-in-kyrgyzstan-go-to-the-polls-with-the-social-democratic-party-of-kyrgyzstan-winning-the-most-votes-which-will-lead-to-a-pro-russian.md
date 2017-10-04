@@ -17,3 +17,8 @@ The Social Democratic Party of Kyrgyzstan, linked to pro-Moscow President Almazb
 3. [The Eurasian Economic Union between Russia, Kazakhstan, Belarus, Kyrgyzstan and Armenia comes into effect ](/news/2015/01/1/the-eurasian-economic-union-between-russia-kazakhstan-belarus-kyrgyzstan-and-armenia-comes-into-effect.md) _Context: Kyrgyzstan, Russia_
 4. [Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-southern-city-of-osh.md) _Context: Kyrgyzstan, Russia_
 5. [ Russia signs a deal to open a second military base in Kyrgyzstan at a Collective Security Treaty Organisation summit. ](/news/2009/08/1/russia-signs-a-deal-to-open-a-second-military-base-in-kyrgyzstan-at-a-collective-security-treaty-organisation-summit.md) _Context: Kyrgyzstan, Russia_
+
+### Changes:
+
+1. [Kyrgyzstani parliamentary election, 2015: Voters in Kyrgyzstan go to the polls with the Social Democratic Party of Kyrgyzstan winning the most votes which will lead to a pro-Russian coalition. ](/news/2015/10/4/kyrgyzstani-parliamentary-election-2015-voters-in-kyrgyzstan-go-to-the-polls-with-the-social-democratic-party-of-kyrgyzstan-winning-the-mo.md) _2017-08-27 03:43:14 (First version)_
+1. [Voters in Kyrgyzstan go to the polls with the Social Democratic Party of Kyrgyzstan winning the most votes which will lead to a pro-Russian coalition. ](/news/2015/10/4/voters-in-kyrgyzstan-go-to-the-polls-with-the-social-democratic-party-of-kyrgyzstan-winning-the-most-votes-which-will-lead-to-a-pro-russian.md) _(Current version)_

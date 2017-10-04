@@ -17,3 +17,8 @@ Those taking part in the rally had to show identity cards to prove they were cit
 3. [An Indonesian police plane, reportedly carrying 13 people, goes missing near Singapore on route to Batam. ](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.md) _Context: Singapore_
 4. [The death toll from a boat accident near Singapore reaches 54. The victims are mostly Indonesian migrant workers. ](/news/2016/11/4/the-death-toll-from-a-boat-accident-near-singapore-reaches-54-the-victims-are-mostly-indonesian-migrant-workers.md) _Context: Singapore_
 5. [The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. ](/news/2016/10/11/the-world-health-organization-warns-that-the-zika-virus-will-continue-to-spread-across-asia-with-cases-already-reported-in-singapore-and-tha.md) _Context: Singapore_
+
+### Changes:
+
+1. [Law of Singapore: Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/law-of-singapore-singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _2017-08-27 03:48:35 (First version)_
+1. [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _(Current version)_

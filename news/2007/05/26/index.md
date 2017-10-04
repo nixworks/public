@@ -4,7 +4,7 @@
 _Context: Americans, Czech Republic, Prague, Wenceslas Square, missile defence_
 
 ### [ Iran claims to have uncovered an espionage network run by the United States and its allies. ](/news/2007/05/26/iran-claims-to-have-uncovered-an-espionage-network-run-by-the-united-states-and-its-allies.md)
-_Context: Americans, Iran, espionage_
+_Context: Americans, Iran, spy_
 
 ### [ Fianna Fil performs strongly in the Irish general election, putting it in a strong position to retain government. ](/news/2007/05/26/fianna-fail-performs-strongly-in-the-irish-general-election-putting-it-in-a-strong-position-to-retain-government.md)
 As counting in the General Election comes to a close, Fianna Fáil has won 78 seats and is now seeking coalition partners to give Bertie Ahern a third term as Taoiseach.

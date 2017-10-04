@@ -17,3 +17,8 @@ Video shows captives from Canada, Norway and the Philippines begging governments
 3. [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 4. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 5. [Abu Sayyaf frees a Norwegian hostage for a ransom of [?]30 million (US$638,000) and releases three kidnapped Indonesians from Sabah. ](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.md) _Context: Abu Sayyaf, Moro conflict, Norway_
+
+### Changes:
+
+1. [Moro conflict: The Abu Sayyaf militant group threatens to behead a Canadian hostage, a Filipina hostage, and a Norwegian hostage. ](/news/2016/05/4/moro-conflict-the-abu-sayyaf-militant-group-threatens-to-behead-a-canadian-hostage-a-filipina-hostage-and-a-norwegian-hostage.md) _2017-08-27 03:45:58 (First version)_
+1. [The Abu Sayyaf militant group threatens to behead a Canadian hostage, a Filipina hostage, and a Norwegian hostage. ](/news/2016/05/4/the-abu-sayyaf-militant-group-threatens-to-behead-a-canadian-hostage-a-filipina-hostage-and-a-norwegian-hostage.md) _(Current version)_

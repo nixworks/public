@@ -16,3 +16,8 @@
 3. [Nigerian state television reports that President Muhammadu Buhari is back in the country after a three-month sick leave in Britain. ](/news/2017/08/19/nigerian-state-television-reports-that-president-muhammadu-buhari-is-back-in-the-country-after-a-three-month-sick-leave-in-britain.md) _Context: Muhammadu Buhari, President_
 4. [ President Muhammadu Buhari announces that the Nigerian Armed Forces have successfully driven out Boko Haram militants from their last stronghold in the Sambisa Forest in northeastern Nigeria. ](/news/2016/12/24/president-muhammadu-buhari-announces-that-the-nigerian-armed-forces-have-successfully-driven-out-boko-haram-militants-from-their-last-stron.md) _Context: Boko Haram, Muhammadu Buhari_
 5. [Suspected Boko Haram suicide bombers kill at least eight people in the Nigerian city of Maiduguri. ](/news/2016/10/29/suspected-boko-haram-suicide-bombers-kill-at-least-eight-people-in-the-nigerian-city-of-maiduguri.md) _Context: Boko Haram, Maiduguri_
+
+### Changes:
+
+1. [Boko Haram: A suicide bomber kills 26 people in a Maiduguri mosque hours after militants launch an attack on the first full day of President of Nigeria Muhammadu Buhari's term of office. ](/news/2015/05/30/boko-haram-a-suicide-bomber-kills-26-people-in-a-maiduguri-mosque-hours-after-militants-launch-an-attack-on-the-first-full-day-of-president.md) _2017-08-27 03:42:27 (First version)_
+1. [A suicide bomber kills 26 people in a Maiduguri mosque hours after militants launch an attack on the first full day of President of Nigeria Muhammadu Buhari's term of office. ](/news/2015/05/30/a-suicide-bomber-kills-26-people-in-a-maiduguri-mosque-hours-after-militants-launch-an-attack-on-the-first-full-day-of-president-of-nigeria.md) _(Current version)_

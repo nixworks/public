@@ -25,3 +25,8 @@ Tehran: Irans Guardian Council will recount 10 percent of the ballot boxes in la
 3. [The 17-story Plasco Building collapses after a blaze in Tehran, Iran. The building was evacuated but 30 firefighters have been killed in the collapse. ](/news/2017/01/19/the-17-story-plasco-building-collapses-after-a-blaze-in-tehran-iran-the-building-was-evacuated-but-30-firefighters-have-been-killed-in-the.md) _Context: Iran, Tehran_
 4. [As many as 412 people have died in the last 23 days due to smog in Tehran, according to Iran's Health Ministry. All schools in the city have also been ordered to close as part of emergency measures. ](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-days-due-to-smog-in-tehran-according-to-iran-s-health-ministry-all-schools-in-the-city-have.md) _Context: Iran, Tehran_
 5. [Saudi Arabia breaks off diplomatic relations with Iran after Sheikh Nimr's execution and an attack on the Saudi embassy in Tehran. ](/news/2016/01/3/saudi-arabia-breaks-off-diplomatic-relations-with-iran-after-sheikh-nimr-s-execution-and-an-attack-on-the-saudi-embassy-in-tehran.md) _Context: Iran, Tehran_
+
+### Changes:
+
+1. [ Iran: Riot police clash with protesters in Tehran. ](/news/2009/06/20/iran-riot-police-clash-with-protesters-in-tehran.md) _2017-08-27 03:24:47 (First version)_
+1. [ Riot police clash with protesters in Tehran. ](/news/2009/06/20/riot-police-clash-with-protesters-in-tehran.md) _(Current version)_

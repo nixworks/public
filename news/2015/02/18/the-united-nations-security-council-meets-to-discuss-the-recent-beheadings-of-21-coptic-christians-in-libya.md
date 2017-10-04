@@ -17,3 +17,8 @@ THE UN Security Council will meet Wednesday to discuss the situation in Libya af
 3. [Qatar withdraws its ambassador from Egypt following disagreement over Egyptian Air Force strikes against Islamic State targets in Libya after the execution of 21 Coptic Christian hostages by Islamic State. ](/news/2015/02/19/qatar-withdraws-its-ambassador-from-egypt-following-disagreement-over-egyptian-air-force-strikes-against-islamic-state-targets-in-libya-afte.md) _Context: Libya, execution of 21 Coptic Christian_
 4. [Egypt bombs Islamic State in Iraq and the Levant targets in the city of Derna in Libya following the execution of 21 Coptic Christians recently. ](/news/2015/02/16/egypt-bombs-islamic-state-in-iraq-and-the-levant-targets-in-the-city-of-derna-in-libya-following-the-execution-of-21-coptic-christians-recen.md) _Context: Coptic, Libya_
 5. [The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/the-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminated-on-october-31.md) _Context: Libya, United Nations Security Council_
+
+### Changes:
+
+1. [Islamic State: The United Nations Security Council meets to discuss the recent beheadings of 21 Coptic Christians in Libya. ](/news/2015/02/18/islamic-state-the-united-nations-security-council-meets-to-discuss-the-recent-beheadings-of-21-coptic-christians-in-libya.md) _2017-08-27 03:41:57 (First version)_
+1. [The United Nations Security Council meets to discuss the recent beheadings of 21 Coptic Christians in Libya. ](/news/2015/02/18/the-united-nations-security-council-meets-to-discuss-the-recent-beheadings-of-21-coptic-christians-in-libya.md) _(Current version)_

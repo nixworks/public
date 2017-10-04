@@ -18,3 +18,8 @@ A bomb attack on a polio vaccination team in north-west Pakistan has killed at l
 3. [ Indonesia intends to vaccinate 6.4 million children against polio in the next couple of days. There are already 16 cases in the country. ](/news/2005/05/31/indonesia-intends-to-vaccinate-6-4-million-children-against-polio-in-the-next-couple-of-days-there-are-already-16-cases-in-the-country.md) _Context: polio, vaccination_
 4. [ The Indian Government begins it largest ever vaccination program. It aims to inoculate 160 million children against polio within six days. ](/news/2003/02/9/the-indian-government-begins-it-largest-ever-vaccination-program-it-aims-to-inoculate-160-million-children-against-polio-within-six-days.md) _Context: polio, vaccination_
 5. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/war-in-north-west-pakistan-a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md) _2017-08-27 03:40:24 (First version)_
+1. [A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md) _(Current version)_

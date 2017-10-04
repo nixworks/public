@@ -17,3 +17,8 @@ The 5-year-old patient who is receiving care at HHC Bellevue Hospital Center has
 3. [The United States stops giving out visas to high ranking officials of Cambodia, Eritrea, Guinea and Sierra Leone for failing to accept deportations. ](/news/2017/09/13/the-united-states-stops-giving-out-visas-to-high-ranking-officials-of-cambodia-eritrea-guinea-and-sierra-leone-for-failing-to-accept-depor.md) _Context: Guinea_
 4. [Pedro Hernandez, convicted in February 2017 for the May 25, 1979 death of Etan Patz in the SoHo neighborhood of Manhattan, was sentenced yesterday to 25 years to life imprisonment.](/news/2017/04/19/pedro-hernandez-convicted-in-february-2017-for-the-may-25-1979-death-of-etan-patz-in-the-soho-neighborhood-of-manhattan-was-sentenced-yes.md) _Context: Manhattan_
 5. [Former President Yahya Jammeh leaves The Gambia on a plane reportedly bound for Guinea. ](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.md) _Context: Guinea_
+
+### Changes:
+
+1. [Ebola virus disease in the United States: A New York City physician tests positive for Ebola at the Bellevue Hospital Center in Manhattan after treating Ebola patients in Guinea. ](/news/2014/10/23/ebola-virus-disease-in-the-united-states-a-new-york-city-physician-tests-positive-for-ebola-at-the-bellevue-hospital-center-in-manhattan-af.md) _2017-08-27 03:41:26 (First version)_
+1. [A New York City physician tests positive for Ebola at the Bellevue Hospital Center in Manhattan after treating Ebola patients in Guinea. ](/news/2014/10/23/a-new-york-city-physician-tests-positive-for-ebola-at-the-bellevue-hospital-center-in-manhattan-after-treating-ebola-patients-in-guinea.md) _(Current version)_

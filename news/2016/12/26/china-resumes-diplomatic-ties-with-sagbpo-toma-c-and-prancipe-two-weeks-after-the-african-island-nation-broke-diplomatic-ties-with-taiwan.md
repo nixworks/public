@@ -16,3 +16,8 @@
 3. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
 4. [ China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: China_
 5. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_
+
+### Changes:
+
+1. [ China resumes diplomatic ties with Sao Tome and Principe two weeks after the African island nation broke diplomatic ties with Taiwan. ](/news/2016/12/26/china-resumes-diplomatic-ties-with-sapso-toma-c-and-prancipe-two-weeks-after-the-african-island-nation-broke-diplomatic-ties-with-taiwan.md) _2017-08-25 03:47:08 (First version)_
+1. [ China resumes diplomatic ties with SGBPo Tome and Principe two weeks after the African island nation broke diplomatic ties with Taiwan. ](/news/2016/12/26/china-resumes-diplomatic-ties-with-sagbpo-toma-c-and-prancipe-two-weeks-after-the-african-island-nation-broke-diplomatic-ties-with-taiwan.md) _(Current version)_

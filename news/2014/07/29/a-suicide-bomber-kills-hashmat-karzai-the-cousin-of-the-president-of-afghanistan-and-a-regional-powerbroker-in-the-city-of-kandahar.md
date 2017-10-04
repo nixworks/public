@@ -17,3 +17,8 @@ The killing of President Hamid Karzai&rsquo;s cousin Hashmat by a Taliban suicid
 3. [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md) _Context: Taliban insurgency_
 4. [At least 11 people are killed in a bombing in Kandahar, including five UAE diplomats. ](/news/2017/01/11/at-least-11-people-are-killed-in-a-bombing-in-kandahar-including-five-uae-diplomats.md) _Context: Kandahar_
 5. [ Eight policemen are killed in an insider attack in Zabul Province. ](/news/2016/05/19/eight-policemen-are-killed-in-an-insider-attack-in-zabul-province.md) _Context: Taliban insurgency_
+
+### Changes:
+
+1. [Taliban insurgency: A suicide bomber kills Hashmat Karzai, the cousin of the President of Afghanistan and a regional powerbroker, in the city of Kandahar. ](/news/2014/07/29/taliban-insurgency-a-suicide-bomber-kills-hashmat-karzai-the-cousin-of-the-president-of-afghanistan-and-a-regional-powerbroker-in-the-cit.md) _2017-08-27 03:41:04 (First version)_
+1. [A suicide bomber kills Hashmat Karzai, the cousin of the President of Afghanistan and a regional powerbroker, in the city of Kandahar. ](/news/2014/07/29/a-suicide-bomber-kills-hashmat-karzai-the-cousin-of-the-president-of-afghanistan-and-a-regional-powerbroker-in-the-city-of-kandahar.md) _(Current version)_

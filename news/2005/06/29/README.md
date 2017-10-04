@@ -1,7 +1,7 @@
 ## [2005-06-29](/news/2005/06/29/index.md)
 
 ### [ The United States House of Representatives passes a $1.17 billion funding bill for Amtrak in fiscal year 2006, an amount that is still short of the $2 billion Amtrak was originally seeking. The funding was approved in an amendment to a more general transportation and treasury appropriations bill. The House also removed the requirement in the bill that would mandate Amtrak to end passenger train service on currently unprofitable routes. The funding has yet to be approved by the Senate.](/news/2005/06/29/the-united-states-house-of-representatives-passes-a-1-17-billion-funding-bill-for-amtrak-in-fiscal-year-2006-an-amount-that-is-still-shor.md)
-_Context: 2006, Amtrak, US$, United States House of Representatives, United States Senate, passenger train_
+_Context: $, 2006, Amtrak, United States House of Representatives, United States Senate, passenger train_
 
 ### [ The United States Capitol in Washington D.C. was briefly evacuated due to an aircraft that entered restricted airspace.](/news/2005/06/29/the-united-states-capitol-in-washington-d-c-was-briefly-evacuated-due-to-an-aircraft-that-entered-restricted-airspace.md)
 _Context: District of Columbia, United States Capitol_
@@ -10,7 +10,7 @@ _Context: District of Columbia, United States Capitol_
 _Context: One World Trade Center, World Trade Center_
 
 ### [ In Spain, Manuel Fraga, the last politician from the era of Francisco Franco, loses in elections in Galicia.](/news/2005/06/29/in-spain-manuel-fraga-the-last-politician-from-the-era-of-francisco-franco-loses-in-elections-in-galicia.md)
-_Context: Franco, Galicia, Manuel Fraga, Spain_
+_Context: Franco, Galicia, Manuel Fraga, Spanish_
 
 ### [ A Belgian jury finds two Rwandans, Etienne Nzabonimana and Samuel Ndashyikirwa, guilty of involvement in the Rwandan genocide.](/news/2005/06/29/a-belgian-jury-finds-two-rwandans-etienne-nzabonimana-and-samuel-ndashyikirwa-guilty-of-involvement-in-the-rwandan-genocide.md)
 _Context: Belgium, Etienne Nzabonimana, Rwanda, Rwandan Genocide, Samuel Ndashyikirwa_

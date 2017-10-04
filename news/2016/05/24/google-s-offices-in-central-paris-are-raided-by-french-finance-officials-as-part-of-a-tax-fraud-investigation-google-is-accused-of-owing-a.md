@@ -17,3 +17,8 @@ French finance officials raid the Paris offices of US internet giant Google as p
 3. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Google_
 4. [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md) _Context: Google_
 5. [In a suspected terror attack, six French soldiers are injured, three seriously, when a man drives a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-when-a-man-drives-a-car-into-them-at-a-barracks-in-the-paris.md) _Context: Paris_
+
+### Changes:
+
+1. [Google's offices in central Paris are raided by French finance officials as part of a tax fraud investigation. Google is accused of owing -1.6bn ($1.8bn; GBP1.3bn) in unpaid taxes. ](/news/2016/05/24/google-s-offices-in-central-paris-are-raided-by-french-finance-officials-as-part-of-a-tax-fraud-investigation-google-is-accused-of-owing.md) _2017-08-27 03:46:07 (First version)_
+1. [Google's offices in central Paris are raided by French finance officials as part of a tax fraud investigation. Google is accused of owing EUR1.6bn ($1.8bn; GBP1.3bn) in unpaid taxes. ](/news/2016/05/24/google-s-offices-in-central-paris-are-raided-by-french-finance-officials-as-part-of-a-tax-fraud-investigation-google-is-accused-of-owing-a.md) _(Current version)_

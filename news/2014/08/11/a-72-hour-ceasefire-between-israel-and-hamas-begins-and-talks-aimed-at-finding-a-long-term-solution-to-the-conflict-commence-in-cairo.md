@@ -18,3 +18,8 @@
 3. [Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 4. [Israel and Hamas agree upon a fresh five-day ceasefire. ](/news/2014/08/14/israel-and-hamas-agree-upon-a-fresh-five-day-ceasefire.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 5. [ Yasser Arafat's funeral procession is held in Cairo, Egypt. Arafat is given full military honours and his coffin is led by a horse-drawn carriage. Leaders of Muslim and Arab countries as well as other dignitaries attend, including Khaled Meshaal, head of Hamas, who is currently sought by Israel. ](/news/2004/11/11/yasser-arafat-s-funeral-procession-is-held-in-cairo-egypt-arafat-is-given-full-military-honours-and-his-coffin-is-led-by-a-horse-drawn-ca.md) _Context: Cairo, Hamas, Israel_
+
+### Changes:
+
+1. [2014 Israel-Gaza conflict: A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/2014-israel-gaza-conflict-a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-con.md) _2017-08-27 03:41:08 (First version)_
+1. [A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-conflict-commence-in-cairo.md) _(Current version)_

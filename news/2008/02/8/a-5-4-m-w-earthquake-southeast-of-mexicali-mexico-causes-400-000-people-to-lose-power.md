@@ -17,3 +17,8 @@
 3. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued while at least 226 people have been killed and another 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md) _Context: Mexico, earthquake_
 4. [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-ocean.md) _Context: earthquake, magnitude_
 5. [Four earthquakes of magnitude 5.1 or higher strike near Amatrice, Italy, forcing evacuation of some schools and the Rome Metro. No deaths are reported from the quakes. ](/news/2017/01/18/four-earthquakes-of-magnitude-5-1-or-higher-strike-near-amatrice-italy-forcing-evacuation-of-some-schools-and-the-rome-metro-no-deaths-ar.md) _Context: earthquake, magnitude_
+
+### Changes:
+
+1. [ A 5.4 M w earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-mw-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md) _2017-10-02 03:24:40 (First version)_
+1. [ A 5.4 M w earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-m-w-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md) _(Current version)_

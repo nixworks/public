@@ -17,3 +17,8 @@ Volkswagen (VOWG_p.DE) has won German regulatory approval for technical fixes on
 3. [An engineer from Volkswagen pleads guilty for his role in the emissions cheating scandal. ](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.md) _Context: Volkswagen, Volkswagen emissions scandal_
 4. [Litigants file a new wave of lawsuits against Volkswagen regarding its emissions scandal. ](/news/2016/09/21/litigants-file-a-new-wave-of-lawsuits-against-volkswagen-regarding-its-emissions-scandal.md) _Context: Volkswagen, Volkswagen emissions scandal_
 5. [Volkswagen faces settlement costs of $15 billion to settle lawsuits in the United States resulting from the rigging of emissions tests. ](/news/2016/06/27/volkswagen-faces-settlement-costs-of-15-billion-to-settle-lawsuits-in-the-united-states-resulting-from-the-rigging-of-emissions-tests.md) _Context: Volkswagen, Volkswagen emissions scandal_
+
+### Changes:
+
+1. [Volkswagen emissions scandal: Volkswagen gets approval from Germany's motor vehicle authority for technical fixes on 460,000 cars. ](/news/2016/08/14/volkswagen-emissions-scandal-volkswagen-gets-approval-from-germany-s-motor-vehicle-authority-for-technical-fixes-on-460-000-cars.md) _2017-08-27 03:46:39 (First version)_
+1. [Volkswagen gets approval from Germany's motor vehicle authority for technical fixes on 460,000 cars. ](/news/2016/08/14/volkswagen-gets-approval-from-germany-s-motor-vehicle-authority-for-technical-fixes-on-460-000-cars.md) _(Current version)_

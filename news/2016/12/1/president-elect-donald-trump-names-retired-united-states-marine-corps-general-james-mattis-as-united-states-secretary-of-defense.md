@@ -17,3 +17,8 @@ WASHINGTON – President-elect Donald Trump has selected James Mattis, a legenda
 3. [United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.md) _Context: Donald Trump, Presidential transition of Donald Trump_
 4. [President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _Context: Donald Trump, Presidential transition of Donald Trump_
 5. [U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-negotiator.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+
+### Changes:
+
+1. [Presidential transition of Donald Trump: President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/presidential-transition-of-donald-trump-president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-unite.md) _2017-08-27 03:47:21 (First version)_
+1. [President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-united-states-secretary-of-defense.md) _(Current version)_

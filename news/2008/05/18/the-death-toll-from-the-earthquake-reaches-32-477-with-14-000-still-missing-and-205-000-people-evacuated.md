@@ -19,3 +19,9 @@ Hope drained out of this mountain valley Saturday as thousands of homeless resid
 3. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: earthquake_
 4. [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-ocean.md) _Context: earthquake_
 5. [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md) _Context: earthquake_
+
+### Changes:
+
+1. [ 2008 Sichuan earthquake: The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/2008-sichuan-earthquake-p-the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md) _2017-08-25 03:22:12 (First version)_
+2. [ 2008 Sichuan earthquake:: The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/2008-sichuan-earthquake-the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md) _2017-08-27 03:22:06 (Update)_
+2. [ The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [Islamic State releases a video showing the execution of three Kurdish peshmerga fighters in northern Iraq with threats to execute dozens more. ](/news/2015/03/20/islamic-state-releases-a-video-showing-the-execution-of-three-kurdish-peshmerga-fighters-in-northern-iraq-with-threats-to-execute-dozens-mor.md) _Context: Iraq, Kurdish_
 4. [The Kurdish region's military forces, the Peshmerga Ministry, states that over 700 Iraqi Kurds have died fighting ISIL forces since June. ](/news/2014/12/10/the-kurdish-regionas-military-forces-the-peshmerga-ministry-states-that-over-700-iraqi-kurds-have-died-fighting-isil-forces-since-june.md) _Context: Iraq, Kurdish_
 5. [A car bomb targets a government building in the Iraqi Kurdish capital Irbil, resulting in four deaths. ](/news/2014/11/19/a-car-bomb-targets-a-government-building-in-the-iraqi-kurdish-capital-irbil-resulting-in-four-deaths.md) _Context: Iraq, Kurdish_
+
+### Changes:
+
+1. [Kurdish-Turkish conflict (2015-present): Turkish fighter jets kill 19 suspected Kurdish militants in strikes on the Gara region in northern Iraq. ](/news/2016/12/10/kurdish-turkish-conflict-2015-present-turkish-fighter-jets-kill-19-suspected-kurdish-militants-in-strikes-on-the-gara-region-in-north.md) _2017-08-27 03:47:25 (First version)_
+1. [ Turkish fighter jets kill 19 suspected Kurdish militants in strikes on the Gara region in northern Iraq. ](/news/2016/12/10/turkish-fighter-jets-kill-19-suspected-kurdish-militants-in-strikes-on-the-gara-region-in-northern-iraq.md) _(Current version)_

@@ -17,3 +17,8 @@ Yasuo Fukuda, a mild-mannered political moderate, is known for his ability to bu
 3. [ Japan's Prime Minister-elect Yukio Hatoyama proposes a 25% cut in greenhouse gas emissions by 2020, up from 8% by the outgoing administration. ](/news/2009/09/7/japan-s-prime-minister-elect-yukio-hatoyama-proposes-a-25-cut-in-greenhouse-gas-emissions-by-2020-up-from-8-by-the-outgoing-administrati.md) _Context: Japan, Liberal Democratic Party_
 4. [ Japan's Liberal Democratic Party elects Sadakazu Tanigaki to replace Taro Aso. ](/news/2009/09/28/japan-s-liberal-democratic-party-elects-sadakazu-tanigaki-to-replace-taro-aso.md) _Context: Japan, Liberal Democratic Party_
 5. [ Japanese Prime Minister Yasuo Fukuda abruptly resigns less than a year after taking office, triggering a leadership election. ](/news/2008/09/1/japanese-prime-minister-yasuo-fukuda-abruptly-resigns-less-than-a-year-after-taking-office-triggering-a-leadership-election.md) _Context: Japan, Yasuo Fukuda_
+
+### Changes:
+
+1. [ Yasuo Fukuda, a political moderate, is elected by Japan-s governing Liberal Democratic Party to become the country-s next prime minister. ](/news/2007/09/23/yasuo-fukuda-a-political-moderate-is-elected-by-japan-s-governing-liberal-democratic-party-to-become-the-country-s-next-prime-ministe.md) _2017-08-27 03:20:59 (First version)_
+1. [ Yasuo Fukuda, a political moderate, is elected by Japan's governing Liberal Democratic Party to become the country's next prime minister. ](/news/2007/09/23/yasuo-fukuda-a-political-moderate-is-elected-by-japanas-governing-liberal-democratic-party-to-become-the-countryas-next-prime-ministe.md) _(Current version)_

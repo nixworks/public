@@ -20,3 +20,9 @@ A local staff member of the United Nations in Myanmar and three of her family me
 3. [Than Shwe, the former head of Burma's State Peace and Development Council, retires as the head of the Myanmar military. ](/news/2011/04/4/than-shwe-the-former-head-of-burma-s-state-peace-and-development-council-retires-as-the-head-of-the-myanmar-military.md) _Context: State Peace and Development Council_
 4. [The State Peace and Development Council military government is officially dissolved in Burma. ](/news/2011/03/30/the-state-peace-and-development-council-military-government-is-officially-dissolved-in-burma.md) _Context: State Peace and Development Council_
 5. [Burma is to swear in a new President within two days, marking a transfer from military to civilian government. ](/news/2011/03/29/burma-is-to-swear-in-a-new-president-within-two-days-marking-a-transfer-from-military-to-civilian-government.md) _Context: State Peace and Development Council_
+
+### Changes:
+
+1. [ 2007 Burmese anti-government protests: The State Peace and Development Council releases 80 Buddhist monks and 149 Buddhist nuns. ](/news/2007/10/3/2007-burmese-anti-government-protests-p-the-state-peace-and-development-council-releases-80-buddhist-monks-and-149-buddhist-nuns.md) _2017-08-25 03:21:06 (First version)_
+2. [ 2007 Burmese anti-government protests:: The State Peace and Development Council releases 80 Buddhist monks and 149 Buddhist nuns. ](/news/2007/10/3/2007-burmese-anti-government-protests-the-state-peace-and-development-council-releases-80-buddhist-monks-and-149-buddhist-nuns.md) _2017-08-27 03:21:02 (Update)_
+2. [ The State Peace and Development Council releases 80 Buddhist monks and 149 Buddhist nuns. ](/news/2007/10/3/the-state-peace-and-development-council-releases-80-buddhist-monks-and-149-buddhist-nuns.md) _(Current version)_

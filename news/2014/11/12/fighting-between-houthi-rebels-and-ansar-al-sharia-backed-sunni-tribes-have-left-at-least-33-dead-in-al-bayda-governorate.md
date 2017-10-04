@@ -17,3 +17,8 @@
 3. [A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medics-on-the-scene-as-reported-by-reuters-around.md) _Context: Al Bayda Governorate, Yemen_
 4. [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _Context: Houthi, Yemen_
 5. [At least 10 children are killed and 28 injured in an air attack on a school in northern Yemen. The Houthi group claims that the Saudi Arabia led coalition is responsible. ](/news/2016/08/13/at-least-10-children-are-killed-and-28-injured-in-an-air-attack-on-a-school-in-northern-yemen-the-houthi-group-claims-that-the-saudi-arabia.md) _Context: Houthi, Yemen_
+
+### Changes:
+
+1. [Yemen: Houthi rebellion: Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/yemen-houthi-rebellion-fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-gove.md) _2017-08-27 03:41:30 (First version)_
+1. [Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-governorate.md) _(Current version)_

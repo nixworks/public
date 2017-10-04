@@ -18,3 +18,8 @@
 3. [Cameroon's army, backed by a regional taskforce, has killed at least 100 members of the militant Islamist Boko Haram group and freed 900 people it had held hostage, the west African country's defence ministry has said. Regional taskforce conducts sweep along border with Nigeria. ](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.md) _Context: Islamist insurgency in Nigeria, Nigeria_
 4. [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md) _Context: Islamist insurgency in Nigeria, Nigeria_
 5. [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md) _Context: Islamist insurgency in Nigeria, Nigeria_
+
+### Changes:
+
+1. [Islamist insurgency in Nigeria: A bombing at a football match in the town on Mubi in northeastern Nigeria kills at least 40 people. ](/news/2014/06/1/islamist-insurgency-in-nigeria-a-bombing-at-a-football-match-in-the-town-on-mubi-in-northeastern-nigeria-kills-at-least-40-people.md) _2017-08-27 03:40:47 (First version)_
+1. [A bombing at a football match in the town on Mubi in northeastern Nigeria kills at least 40 people. ](/news/2014/06/1/a-bombing-at-a-football-match-in-the-town-on-mubi-in-northeastern-nigeria-kills-at-least-40-people.md) _(Current version)_

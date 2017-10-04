@@ -19,3 +19,8 @@ Greek voters have dealt a blow to eurozone hopes that Athens will stick to its a
 3. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: Greek_
 4. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greek_
 5. [Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. ](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-human-remains-in-the-balkans-area-near-bulgaria-and-greece.md) _Context: Greek_
+
+### Changes:
+
+1. [Voters in Armenia go to the polls for a parliamentary election with exit polls showing the ruling Republican Party doing well. ](/news/2012/05/6/voters-in-armenia-go-to-the-polls-for-a-parliamentary-election-with-exit-polls-showing-the-ruling-republican-party-doing-well.md) _2017-10-03 03:39:07 (First version)_
+1. [Voters in Greece go to the polls for a parliamentary election with parties opposed to austerity measures winning 60 per cent of the vote and the two main parties in favour of austerity suffering withering defeats. ](/news/2012/05/6/voters-in-greece-go-to-the-polls-for-a-parliamentary-election-with-parties-opposed-to-austerity-measures-winning-60-per-cent-of-the-vote-and.md) _(Current version)_

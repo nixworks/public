@@ -17,3 +17,8 @@ Thousands turned up at Lawson Tama stadium in Honiara yesterday to farewell the 
 3. [ A report commissioned by the Solomon Islands Government is critical of the handling of last year's Honiara riots by the Regional Assistance Mission to the Solomon Islands (RAMSI). ](/news/2007/07/19/a-report-commissioned-by-the-solomon-islands-government-is-critical-of-the-handling-of-last-year-s-honiara-riots-by-the-regional-assistance.md) _Context: Honiara, Solomon Islands_
 4. [ Solomon Islands police and members of the Regional Assistance Mission to the Solomon Islands (RAMSI) raid the office of Prime Minister Manasseh Sogavare in Honiara. ](/news/2006/10/20/solomon-islands-police-and-members-of-the-regional-assistance-mission-to-the-solomon-islands-ramsi-raid-the-office-of-prime-minister-mana.md) _Context: Honiara, Solomon Islands_
 5. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _Context: Solomon Islands_
+
+### Changes:
+
+1. [RAMSI: A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/ramsi-a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _2017-08-27 03:48:34 (First version)_
+1. [A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _(Current version)_

@@ -17,3 +17,8 @@ Cheryl Boone Isaacs, Guillermo del Toro, John Krasinski and Ang Lee reveal the 8
 3. [The Motion Picture Academy announces the nominees for the 87th Academy Awards best picture at the Samuel Goldwyn Theater in Beverly Hills, California. The nominations are "American Sniper", "Birdman", "Boyhood", "The Grand Budapest Hotel", "The Imitation Game", "Selma", "The Theory of Everything", and "Whiplash". ](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.md) _Context: Samuel Goldwyn Theater_
 4. [A shooting and stabbing kills one person and wounds 5 others at a BET party held in Hollywood, Los Angeles, California, U.S. ](/news/2014/06/29/a-shooting-and-stabbing-kills-one-person-and-wounds-5-others-at-a-bet-party-held-in-hollywood-los-angeles-california-u-s.md) _Context: Hollywood_
 5. [The 85th Academy Awards are held at the Dolby Theatre in the Los Angeles district of Hollywood. ](/news/2013/02/24/the-85th-academy-awards-are-held-at-the-dolby-theatre-in-the-los-angeles-district-of-hollywood.md) _Context: Hollywood_
+
+### Changes:
+
+1. [88th Academy Awards: The nominations are announced for the 88th Academy Awards at the Samuel Goldwyn Theater in Hollywood. ](/news/2016/01/14/88th-academy-awards-the-nominations-are-announced-for-the-88th-academy-awards-at-the-samuel-goldwyn-theater-in-hollywood.md) _2017-08-27 03:44:40 (First version)_
+1. [The nominations are announced for the 88th Academy Awards at the Samuel Goldwyn Theater in Hollywood. ](/news/2016/01/14/the-nominations-are-announced-for-the-88th-academy-awards-at-the-samuel-goldwyn-theater-in-hollywood.md) _(Current version)_

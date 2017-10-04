@@ -17,3 +17,9 @@ How far the country has come since the fall of apartheid is undeniable, but it c
 3. [The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-pr.md) _Context: South Africa_
 4. [At least 20 schoolchildren are killed after their minibus collides with a truck in Mpumalanga, South Africa. ](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.md) _Context: South Africa_
 5. [At least nine people are killed in fires overnight in Cape Town, South Africa. ](/news/2017/03/11/at-least-nine-people-are-killed-in-fires-overnight-in-cape-town-south-africa.md) _Context: South Africa_
+
+### Changes:
+
+1. [South African general election, 2014:Voters in South Africa go to the polls for a general election. ](/news/2014/05/7/south-african-general-election-2014-pvoters-in-south-africa-go-to-the-polls-for-a-general-election.md) _2017-08-25 03:40:23 (First version)_
+2. [South African general election, 2014:: Voters in South Africa go to the polls for a general election. ](/news/2014/05/7/south-african-general-election-2014-voters-in-south-africa-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:40:40 (Update)_
+2. [Voters in South Africa go to the polls for a general election. ](/news/2014/05/7/voters-in-south-africa-go-to-the-polls-for-a-general-election.md) _(Current version)_

@@ -20,3 +20,8 @@ A suspected suicide bomber dies after being tackled by guards near the US consul
 3. [In Jeddah, Saudi Arabia, blogger Raif Badawi receives 50 lashes for "insulting Islam". This first punishment is part of a sentence of ten years' imprisonment and 1,000 lashes. He will receive 50 lashes a week for 19 more weeks. ](/news/2015/01/9/in-jeddah-saudi-arabia-blogger-raif-badawi-receives-50-lashes-for-insulting-islam-this-first-punishment-is-part-of-a-sentence-of-ten-ye.md) _Context: Jeddah_
 4. [The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a-man-reportedly-dying-of-the-dise.md) _Context: Jeddah_
 5. [The meeting of the Arab Foreign ministers in Jeddah to tackle Syria conflict is postponed. ](/news/2012/08/12/the-meeting-of-the-arab-foreign-ministers-in-jeddah-to-tackle-syria-conflict-is-postponed.md) _Context: Jeddah_
+
+### Changes:
+
+1. [2016 Saudi Arabia bombings: A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/2016-saudi-arabia-bombings-a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-tw.md) _2017-08-27 03:46:24 (First version)_
+1. [A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-two-guards.md) _(Current version)_

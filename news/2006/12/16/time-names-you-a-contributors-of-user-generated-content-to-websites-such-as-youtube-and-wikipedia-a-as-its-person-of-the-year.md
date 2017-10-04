@@ -18,3 +18,8 @@ You were named Time magazine &#8220;Person of the Year&#8221; on Saturday for th
 3. [ Bono, Melinda Gates and Bill Gates are named "Time"'s Persons of the Year. ](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.md) _Context: Person of the Year, Time_
 4. [ In the June 6 issue of "TIME Magazine", Wikipedia and its founder Jimmy Wales have been featured in a story on the rise of wiki technology. ](/news/2005/06/1/in-the-june-6-issue-of-time-magazine-wikipedia-and-its-founder-jimmy-wales-have-been-featured-in-a-story-on-the-rise-of-wiki-technology.md) _Context: Time, Wikipedia_
 5. [ US president George W. Bush is named "Person of the Year" by "Time" magazine. ](/news/2004/12/19/us-president-george-w-bush-is-named-person-of-the-year-by-time-magazine.md) _Context: Person of the Year, Time_
+
+### Changes:
+
+1. [ "Time" names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its "Person of the Year". ](/news/2006/12/16/time-names-you-contributors-of-user-generated-content-to-websites-such-as-youtube-and-wikipedia-as-its-person-of-the-year.md) _2017-08-27 03:18:51 (First version)_
+1. [ "Time" names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its "Person of the Year". ](/news/2006/12/16/time-names-you-a-contributors-of-user-generated-content-to-websites-such-as-youtube-and-wikipedia-a-as-its-person-of-the-year.md) _(Current version)_

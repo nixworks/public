@@ -28,7 +28,7 @@ _Context: Cambodia, Sam Rainsy, Vietnam_
 _Context: Americans, Korean Peninsula, New Year editorial, North Korea_
 
 ### [ Spain takes over the Presidency of the Council of the European Union from Sweden. ](/news/2010/01/1/spain-takes-over-the-presidency-of-the-council-of-the-european-union-from-sweden.md)
-_Context: Council of the European Union, EU, Spain, Swedish, the Council of_
+_Context: Council of the European Union, EU, Spanish, Swedish, the Council of_
 
 ## [Previous Day...](/news/2009/12/31/index.md)
 

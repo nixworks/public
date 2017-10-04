@@ -17,3 +17,8 @@
 3. [Opposition candidate Adama Barrow defeats Gambian President Yahya Jammeh, bringing an end to Jammeh's 22-year-rule in the West African nation. ](/news/2016/12/2/opposition-candidate-adama-barrow-defeats-gambian-president-yahya-jammeh-bringing-an-end-to-jammeh-s-22-year-rule-in-the-west-african-natio.md) _Context: West Africa_
 4. [Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.md) _Context: West Africa_
 5. [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md) _Context: West Africa_
+
+### Changes:
+
+1. [2014 Ebola epidemic: In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/2014-ebola-epidemic-in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md) _2017-08-27 03:41:41 (First version)_
+1. [In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md) _(Current version)_

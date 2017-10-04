@@ -17,3 +17,8 @@ Restaurant Brands International said it would expand Popeyes in the U.S. and glo
 3. [Indonesian authorities reveal that the crashed plane was transporting $US470,000 in cash for the poor. ](/news/2015/08/17/indonesian-authorities-reveal-that-the-crashed-plane-was-transporting-us470-000-in-cash-for-the-poor.md) _Context: US$_
 4. [Russia and China agree to a US$2 billion fund for agricultural investments in both countries. ](/news/2015/05/8/russia-and-china-agree-to-a-us-2-billion-fund-for-agricultural-investments-in-both-countries.md) _Context: US$_
 5. [Fast food giant Burger King agrees to acquire Canadian coffee giant Tim Hortons for $11.4 billion and move its headquarters to Canada. ](/news/2014/08/26/fast-food-giant-burger-king-agrees-to-acquire-canadian-coffee-giant-tim-hortons-for-11-4-billion-and-move-its-headquarters-to-canada.md) _Context: Burger King_
+
+### Changes:
+
+1. [Restaurant Brands International: The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/restaurant-brands-international-the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-po.md) _2017-08-27 03:47:51 (First version)_
+1. [The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-popeyes-chicken-restaurant-chain-in.md) _(Current version)_

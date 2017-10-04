@@ -17,3 +17,8 @@ Polling is underway in Samoa&#39;s general election.
 3. [Results from yesterday's election indicate that the ruling Human Rights Protection Party will retain power in a landslide. ](/news/2016/03/5/results-from-yesterday-s-election-indicate-that-the-ruling-human-rights-protection-party-will-retain-power-in-a-landslide.md) _Context: Samoan general election, 2016_
 4. [Cyclone Evan bears down on Fiji, disrupting international flights after leaving at least 4 people dead in Samoa with 8 others missing. ](/news/2012/12/16/cyclone-evan-bears-down-on-fiji-disrupting-international-flights-after-leaving-at-least-4-people-dead-in-samoa-with-8-others-missing.md) _Context: Samoa_
 5. [Cyclone Evan heads towards Fiji after causing at least three deaths and widespread damage in Samoa. ](/news/2012/12/14/cyclone-evan-heads-towards-fiji-after-causing-at-least-three-deaths-and-widespread-damage-in-samoa.md) _Context: Samoa_
+
+### Changes:
+
+1. [Samoan general election, 2016: Voters in Samoa go to the polls for a general election. ](/news/2016/03/4/samoan-general-election-2016-voters-in-samoa-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:45:08 (First version)_
+1. [Voters in Samoa go to the polls for a general election. ](/news/2016/03/4/voters-in-samoa-go-to-the-polls-for-a-general-election.md) _(Current version)_

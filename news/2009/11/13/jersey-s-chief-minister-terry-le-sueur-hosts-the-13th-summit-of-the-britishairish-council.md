@@ -16,3 +16,8 @@ Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today i
 2. [Damian Rzeszowski is sentenced to 30 years in prison for killing six people&mdash;including his wife and children&mdash;in Jersey. ](/news/2012/10/29/damian-rzeszowski-is-sentenced-to-30-years-in-prison-for-killing-six-people-mdash-including-his-wife-and-children-mdash-in-jersey.md) _Context: Jersey_
 3. [Six people are killed in a stabbing incident on the Channel Island of Jersey ](/news/2011/08/14/six-people-are-killed-in-a-stabbing-incident-on-the-channel-island-of-jersey.md) _Context: Jersey_
 4. [Taoiseach Enda Kenny arrives in London for a six-monthly meeting of the British-Irish Council, including talks with Nick Clegg, the deputy prime minister of Britain, and Alex Salmond, the recently victorious Scottish first minister. ](/news/2011/06/20/taoiseach-enda-kenny-arrives-in-london-for-a-six-monthly-meeting-of-the-britishairish-council-including-talks-with-nick-clegg-the-deputy.md) _Context: British-Irish Council_
+
+### Changes:
+
+1. [ Jersey's Chief Minister Terry Le Sueur hosts the 13th summit of the British-Irish Council. ](/news/2009/11/13/jersey-s-chief-minister-terry-le-sueur-hosts-the-13th-summit-of-the-british-irish-council.md) _2017-08-27 03:26:11 (First version)_
+1. [ Jersey's Chief Minister Terry Le Sueur hosts the 13th summit of the British-Irish Council. ](/news/2009/11/13/jersey-s-chief-minister-terry-le-sueur-hosts-the-13th-summit-of-the-britishairish-council.md) _(Current version)_

@@ -17,3 +17,9 @@ Spike in violence comes amid tensions between the Shiite-led government and Sunn
 3. [ Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad-injuring-at-least-33.md) _Context: Baghdad, Iraq_
 4. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraq_
 5. [ At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state-of.md) _Context: Baghdad, Iraq_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/iraqi-insurgency-post-u-s-withdrawal-pseventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md) _2017-08-25 03:38:41 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/iraqi-insurgency-post-u-s-withdrawal-seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md) _2017-08-27 03:38:54 (Update)_
+2. [Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md) _(Current version)_

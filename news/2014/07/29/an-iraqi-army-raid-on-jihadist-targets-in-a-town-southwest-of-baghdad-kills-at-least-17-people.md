@@ -16,3 +16,9 @@
 3. [Gunmen attack a prisoner convoy north of Baghdad resulting in the death of 52 prisoners and eight Iraqi Army soldiers. ](/news/2014/07/24/gunmen-attack-a-prisoner-convoy-north-of-baghdad-resulting-in-the-death-of-52-prisoners-and-eight-iraqi-army-soldiers.md) _Context: Baghdad, Iraqi Army_
 4. [At least twelve people die when gunmen try to rob jewellery shops in Baghdad, Iraq and get into a gunfight with security, police and military. ](/news/2010/10/17/at-least-twelve-people-die-when-gunmen-try-to-rob-jewellery-shops-in-baghdad-iraq-and-get-into-a-gunfight-with-security-police-and-militar.md) _Context: Baghdad, Iraqi Army_
 5. [An Iraqi Army soldier is killed and eleven people are wounded following two bombs going off in Baghdad. ](/news/2010/09/17/an-iraqi-army-soldier-is-killed-and-eleven-people-are-wounded-following-two-bombs-going-off-in-baghdad.md) _Context: Baghdad, Iraqi Army_
+
+### Changes:
+
+1. [Iraqi insurgency (2011-present):An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/iraqi-insurgency-2011apresent-pan-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md) _2017-08-25 03:40:46 (First version)_
+2. [Iraqi insurgency (2011-present):: An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/iraqi-insurgency-2011-present-an-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md) _2017-08-27 03:41:04 (Update)_
+2. [An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/an-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md) _(Current version)_

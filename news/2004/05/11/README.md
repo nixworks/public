@@ -10,7 +10,7 @@ _Context: Gaza, Hamas, Islamic Jihad Movement in Palestine, Israel, Israeli-Pale
 Get the latest breaking news and headlines from the largest Arab News website. Get world news, sport news, business news, entertainment, lifestyle, video and photos.
 
 ### [ Thai Prime Minister Thaksin Shinawatra buys a 30% stake in Liverpool Football Club for approximately GBP60&nbsp;million (~ USD100 million). It is unclear whether most of the money originates from the Thai government or is the prime minister's own money. It is hoped that the purchase will assist with the development of football in Thailand. ](/news/2004/05/11/thai-prime-minister-thaksin-shinawatra-buys-a-30-stake-in-liverpool-football-club-for-approximately-gbp60-nbsp-million-usd100-million.md)
-_Context: Liverpool, Thailand, Thaksin Shinawatra, US$, footballer_
+_Context: $, Liverpool, Thailand, Thaksin Shinawatra, footballer_
 
 ### [ Gosselin Sextuplets are born in Hershey Pennsylvania](/news/2004/05/11/gosselin-sextuplets-are-born-in-hershey-pennsylvania.md)
 ### [ Gene Sprague committs suicide by jumping off of the Golden Gate Bridge in San Francisco, CA as seen in the movie "The Bridge"](/news/2004/05/11/gene-sprague-committs-suicide-by-jumping-off-of-the-golden-gate-bridge-in-san-francisco-ca-as-seen-in-the-movie-the-bridge.md)

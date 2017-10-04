@@ -16,3 +16,9 @@
 3. [The trial of former French President Jacques Chirac on embezzlement charges begins in Paris. ](/news/2011/09/5/the-trial-of-former-french-president-jacques-chirac-on-embezzlement-charges-begins-in-paris.md) _Context: Jacques Chirac, President of France_
 4. [Former President of France Jacques Chirac faces charges that related to alleged use of Paris city government resources to benefit his Rally for the Republic party while serving as Mayor of Paris. ](/news/2011/03/7/former-president-of-france-jacques-chirac-faces-charges-that-related-to-alleged-use-of-paris-city-government-resources-to-benefit-his-rally.md) _Context: Jacques Chirac, President of France_
 5. [ Former French President Jacques Chirac is ordered to stand trial on corruption charges. ](/news/2009/10/30/former-french-president-jacques-chirac-is-ordered-to-stand-trial-on-corruption-charges.md) _Context: Jacques Chirac, President of France_
+
+### Changes:
+
+1. [ 2006 Israel-Lebanon conflict: French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". ](/news/2006/08/25/2006-israel-lebanon-conflict-p-french-president-jacques-chirac-says-sending-15-000-peacekeeping-troops-to-southern-lebanon-is-excessive.md) _2017-08-25 03:18:16 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". ](/news/2006/08/25/2006-israel-lebanon-conflict-french-president-jacques-chirac-says-sending-15-000-peacekeeping-troops-to-southern-lebanon-is-excessive.md) _2017-08-27 03:18:12 (Update)_
+2. [ French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". ](/news/2006/08/25/french-president-jacques-chirac-says-sending-15-000-peacekeeping-troops-to-southern-lebanon-is-excessive.md) _(Current version)_

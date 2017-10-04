@@ -19,3 +19,8 @@ Fourteen people have been killed in China in the heaviest rains in a century bro
 3. [Typhoon Dujuan hits mainland China in Fujian province after hitting Taiwan, where it caused two deaths and injured 300. ](/news/2015/09/29/typhoon-dujuan-hits-mainland-china-in-fujian-province-after-hitting-taiwan-where-it-caused-two-deaths-and-injured-300.md) _Context: 2015 Pacific typhoon season, Taiwan_
 4. [Taiwan prepares for the impact of Typhoon Dujuan tonight, with thousands of people evacuated from outlying islands ahead of this. ](/news/2015/09/28/taiwan-prepares-for-the-impact-of-typhoon-dujuan-tonight-with-thousands-of-people-evacuated-from-outlying-islands-ahead-of-this.md) _Context: 2015 Pacific typhoon season, Taiwan_
 5. [The death toll in China from Typhoon Soudelor rises to at least 22 people with more missing and millions without power. ](/news/2015/08/9/the-death-toll-in-china-from-typhoon-soudelor-rises-to-at-least-22-people-with-more-missing-and-millions-without-power.md) _Context: 2015 Pacific typhoon season, Typhoon Soudelor_
+
+### Changes:
+
+1. [2015 Pacific typhoon season: Typhoon Soudelor makes landfall in Taiwan killing at least four people with four people missing and 64 injured. ](/news/2015/08/8/2015-pacific-typhoon-season-typhoon-soudelor-makes-landfall-in-taiwan-killing-at-least-four-people-with-four-people-missing-and-64-injured.md) _2017-08-27 03:42:48 (First version)_
+1. [Typhoon Soudelor makes landfall in Taiwan killing at least four people with four people missing and 64 injured. ](/news/2015/08/8/typhoon-soudelor-makes-landfall-in-taiwan-killing-at-least-four-people-with-four-people-missing-and-64-injured.md) _(Current version)_

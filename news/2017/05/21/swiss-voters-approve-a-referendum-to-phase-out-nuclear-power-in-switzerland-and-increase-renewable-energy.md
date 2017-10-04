@@ -17,3 +17,8 @@
 3. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md) _Context: Switzerland_
 4. [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md) _Context: Switzerland_
 5. [The leaders of northern and southern Cyprus meet in Switzerland to restart talks about reuniting the island. ](/news/2016/11/7/the-leaders-of-northern-and-southern-cyprus-meet-in-switzerland-to-restart-talks-about-reuniting-the-island.md) _Context: Switzerland_
+
+### Changes:
+
+1. [Swiss referendums, 2017: Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-referendums-2017-swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _2017-08-27 03:48:22 (First version)_
+1. [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _(Current version)_

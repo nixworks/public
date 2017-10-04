@@ -20,3 +20,9 @@ Syrian activists say rebels have seized key security buildings in the northern c
 3. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Syrian Civil War_
 4. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Civil War_
 5. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Syrian Civil War_
+
+### Changes:
+
+1. [Syrian civil war:Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/syrian-civil-war-pbattle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil-w.md) _2017-08-25 03:37:44 (First version)_
+2. [Syrian civil war:: Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/syrian-civil-war-battle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil.md) _2017-08-27 03:37:56 (Update)_
+2. [Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/battle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil-war.md) _(Current version)_

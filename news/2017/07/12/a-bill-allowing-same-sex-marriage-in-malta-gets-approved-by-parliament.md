@@ -17,3 +17,8 @@ Parliament this evening approved the introduction of gay marriage through the ne
 3. [The Bundestag votes to introduce same-sex marriage in Germany. With 393 votes in favor and 226 against, including Chancellor Angela Merkel, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md) _Context: same-sex marriage_
 4. [Voters in Malta go to the polls for a snap election, with current Prime Minister Joseph Muscat and his Labour Party facing off against Forza Nazzjonali, led by Simon Busuttil. The election comes amid corruption allegations leveled against Muscat's associates. ](/news/2017/06/3/voters-in-malta-go-to-the-polls-for-a-snap-election-with-current-prime-minister-joseph-muscat-and-his-labour-party-facing-off-against-forza.md) _Context: Malta_
 5. [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md) _Context: same-sex marriage_
+
+### Changes:
+
+1. [Recognition of same-sex unions in Malta: A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/recognition-of-same-sex-unions-in-malta-a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _2017-08-27 03:48:39 (First version)_
+1. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _(Current version)_

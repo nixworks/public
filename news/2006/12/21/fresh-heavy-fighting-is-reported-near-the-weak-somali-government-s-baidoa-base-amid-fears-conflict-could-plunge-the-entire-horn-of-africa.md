@@ -17,3 +17,9 @@
 3. [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _Context: Baidoa_
 4. [Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md) _Context: Baidoa_
 5. [A suicide bomb attack kills at least 10 at a restaurant in Baidoa. ](/news/2014/12/5/a-suicide-bomb-attack-kills-at-least-10-at-a-restaurant-in-baidoa.md) _Context: Baidoa_
+
+### Changes:
+
+1. [ War in Somalia: Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/war-in-somalia-p-fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entir.md) _2017-08-25 03:18:56 (First version)_
+2. [ War in Somalia:: Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/war-in-somalia-fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entir.md) _2017-08-27 03:18:51 (Update)_
+2. [ Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entire-horn-of-africa.md) _(Current version)_

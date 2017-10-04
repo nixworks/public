@@ -16,3 +16,8 @@
 3. [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md) _Context: ISIL_
 4. [The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town was also struck; there are no reports of casualties. ](/news/2017/07/23/the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-killing-six-civilia.md) _Context: Raqqa_
 5. [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's "de facto" Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md) _Context: Raqqa_
+
+### Changes:
+
+1. [Islamic State in Iraq and the Levant: Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/islamic-state-in-iraq-and-the-levant-syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md) _2017-08-27 03:41:33 (First version)_
+1. [Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md) _(Current version)_

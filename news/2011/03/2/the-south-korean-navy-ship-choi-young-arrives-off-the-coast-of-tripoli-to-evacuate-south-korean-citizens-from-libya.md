@@ -21,3 +21,8 @@ Rebel forces in the eastern Libyan town of Brega fight off an attack by soldiers
 3. [2011 Libyan civil war: Fresh explosions are heard in the Libyan capital Tripoli as NATO bombing continues. ](/news/2011/05/28/2011-libyan-civil-war-fresh-explosions-are-heard-in-the-libyan-capital-tripoli-as-nato-bombing-continues.md) _Context: Libya, Libyan Civil War, Tripoli_
 4. [2011 Libyan civil war: NATO warplanes attack the port of Tripoli and the residence of Libyan leader Muammar Gaddafi. ](/news/2011/05/22/2011-libyan-civil-war-nato-warplanes-attack-the-port-of-tripoli-and-the-residence-of-libyan-leader-muammar-gaddafi.md) _Context: Libya, Libyan Civil War, Tripoli_
 5. [Opposition forces in Libya make gains amid NATO bombing, reportedly operating out of the capital Tripoli. ](/news/2011/05/10/opposition-forces-in-libya-make-gains-amid-nato-bombing-reportedly-operating-out-of-the-capital-tripoli.md) _Context: Libya, Libyan Civil War, Tripoli_
+
+### Changes:
+
+1. [2011 Libyan civil war: The South Korean Navy ship "Choi Young" arrives off the coast of Tripoli to evacuate South Korean citizens from Libya. ](/news/2011/03/2/2011-libyan-civil-war-the-south-korean-navy-ship-choi-young-arrives-off-the-coast-of-tripoli-to-evacuate-south-korean-citizens-from-libya.md) _2017-08-27 03:32:32 (First version)_
+1. [The South Korean Navy ship "Choi Young" arrives off the coast of Tripoli to evacuate South Korean citizens from Libya. ](/news/2011/03/2/the-south-korean-navy-ship-choi-young-arrives-off-the-coast-of-tripoli-to-evacuate-south-korean-citizens-from-libya.md) _(Current version)_

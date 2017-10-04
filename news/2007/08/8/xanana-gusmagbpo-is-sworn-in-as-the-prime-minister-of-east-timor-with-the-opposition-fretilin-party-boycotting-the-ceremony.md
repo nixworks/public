@@ -16,3 +16,8 @@
 3. [Elections are held in East Timor to vote for the nation's 4th President. Francisco Guterres, runner-up in the 2007 and 2012 elections, is expected to win due to the support of Xanana GusmGBPo. ](/news/2017/03/20/elections-are-held-in-east-timor-to-vote-for-the-nation-s-4th-president-francisco-guterres-runner-up-in-the-2007-and-2012-elections-is-ex.md) _Context: East Timor, Xanana GusmGBPo_
 4. [Mario Viegas CarrascalGBPo resigns as the Deputy Prime Minister of East Timor leaving the Prime Minister Xanana GusmGBPo without a majority in the Parliament. ](/news/2010/09/10/ma-rio-viegas-carrascalagbpo-resigns-as-the-deputy-prime-minister-of-east-timor-leaving-the-prime-minister-xanana-gusmagbpo-without-a-majori.md) _Context: East Timor, Xanana GusmGBPo_
 5. [ Youths in East Timor attack Australian Army forces and United Nations personnel following the announcement that Xanana Gusmo would be the next Prime Minister. ](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.md) _Context: East Timor, Prime Minister_
+
+### Changes:
+
+1. [ Xanana Gusmao is sworn in as the Prime Minister of East Timor with the opposition Fretilin party boycotting the ceremony. ](/news/2007/08/8/xanana-gusmapso-is-sworn-in-as-the-prime-minister-of-east-timor-with-the-opposition-fretilin-party-boycotting-the-ceremony.md) _2017-08-25 03:20:29 (First version)_
+1. [ Xanana GusmGBPo is sworn in as the Prime Minister of East Timor with the opposition Fretilin party boycotting the ceremony. ](/news/2007/08/8/xanana-gusmagbpo-is-sworn-in-as-the-prime-minister-of-east-timor-with-the-opposition-fretilin-party-boycotting-the-ceremony.md) _(Current version)_

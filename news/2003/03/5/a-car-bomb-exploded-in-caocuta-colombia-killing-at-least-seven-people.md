@@ -12,3 +12,8 @@
 3. [Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels Caracol Television and RCN Television off air due to their coverage of the 2017 Venezuelan constitutional crisis. ](/news/2017/08/24/venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-television-channels-caracol-televisia3n-and-rcn-televisia3n.md) _Context: Colombia_
 4. [At least nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/at-least-nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a.md) _Context: Colombia_
 5. [The number of people displaced globally totals 65.6 million after an addition of 10.3 million people displaced in 2016. Syria, Colombia, Afghanistan, Iraq and South Sudan are the countries in the top five. ](/news/2017/06/19/the-number-of-people-displaced-globally-totals-65-6-million-after-an-addition-of-10-3-million-people-displaced-in-2016-syria-colombia-afg.md) _Context: Colombia_
+
+### Changes:
+
+1. [ A man exploded a bomb in a bus in Haifa, Israel, killing at least ten people.](/news/2003/03/5/a-man-exploded-a-bomb-in-a-bus-in-haifa-israel-killing-at-least-ten-people.md) _2017-10-03 03:15:27 (First version)_
+1. [ A car bomb exploded in Cucuta, Colombia killing at least seven people.](/news/2003/03/5/a-car-bomb-exploded-in-caocuta-colombia-killing-at-least-seven-people.md) _(Current version)_

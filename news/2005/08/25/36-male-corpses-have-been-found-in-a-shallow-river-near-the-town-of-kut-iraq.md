@@ -19,3 +19,9 @@
 3. [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md) _Context: Iraq_
 4. [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md) _Context: Iraq_
 5. [U.S. District Judge for the Eastern District of Michigan, Mark A. Goldsmith, halts for 90 days the mass deportation from the United States of more than 1,400 Iraqi nationals, including Chaldean Christians, to allow the plaintiffs time to appeal their cases. The American Civil Liberties Union petitioned for the injunction stating these people would face persecution in Iraq where they are considered ethnic and religious minorities. ](/news/2017/07/24/u-s-district-judge-for-the-eastern-district-of-michigan-mark-a-goldsmith-halts-for-90-days-the-mass-deportation-from-the-united-states-o.md) _Context: Iraq_
+
+### Changes:
+
+1. [ Conflict in Iraq: 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/conflict-in-iraq-p-36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md) _2017-08-25 03:16:43 (First version)_
+2. [ Conflict in Iraq:: 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/conflict-in-iraq-36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md) _2017-08-27 03:16:44 (Update)_
+2. [ 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md) _(Current version)_

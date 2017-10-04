@@ -18,3 +18,8 @@ IRELAND will hold a general election on February 26, Prime Minister Enda Kenny h
 3. [Enda Kenny is elected as the 13th Taoiseach of Ireland by a margin of 117-27 in the 31st Dail Eireann, replacing Brian Cowen. ](/news/2011/03/9/enda-kenny-is-elected-as-the-13th-taoiseach-of-ireland-by-a-margin-of-117-27-in-the-31st-da-il-aireann-replacing-brian-cowen.md) _Context: Republic of Ireland, current Dail_
 4. [Queen Elizabeth II accepts an invitation from President of Ireland Mary McAleese to visit Ireland in May. ](/news/2011/03/4/queen-elizabeth-ii-accepts-an-invitation-from-president-of-ireland-mary-mcaleese-to-visit-ireland-in-may.md) _Context: President, Republic of Ireland_
 5. [ Irish President Mary McAleese announces her intention to convene a meeting of the Council of State on 22 July. ](/news/2009/07/17/irish-president-mary-mcaleese-announces-her-intention-to-convene-a-meeting-of-the-council-of-state-on-22-july.md) _Context: President, Republic of Ireland_
+
+### Changes:
+
+1. [Irish general election, 2016: Voters in Ireland will go to the polls on February 26 after the President dissolves the current Dail or parliament. ](/news/2016/02/3/irish-general-election-2016-voters-in-ireland-will-go-to-the-polls-on-february-26-after-the-president-dissolves-the-current-dail-or-parlia.md) _2017-08-27 03:44:49 (First version)_
+1. [Voters in Ireland will go to the polls on February 26 after the President dissolves the current Dail or parliament. ](/news/2016/02/3/voters-in-ireland-will-go-to-the-polls-on-february-26-after-the-president-dissolves-the-current-dail-or-parliament.md) _(Current version)_

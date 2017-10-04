@@ -12,5 +12,6 @@
 
 ### Related:
 
-1. [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250 acre of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-of-state-park-land-burned-south-of-mal.md) _Context: Malibu, California_
-2. [ Comedian and actor Buddy Hackett dies at his home in Malibu at the age of 78.](/news/2003/06/30/comedian-and-actor-buddy-hackett-dies-at-his-home-in-malibu-at-the-age-of-78.md) _Context: Malibu, California_
+1. [After suffering a cardiac arrest in his Malibu, California home, American singer and songwriter Tom Petty dies at the UCLA Medical Center in Santa Monica, California, at the age of 66. ](/news/2017/10/2/after-suffering-a-cardiac-arrest-in-his-malibu-california-home-american-singer-and-songwriter-tom-petty-dies-at-the-ucla-medical-center-in.md) _Context: Malibu, California_
+2. [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250 acre of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-of-state-park-land-burned-south-of-mal.md) _Context: Malibu, California_
+3. [ Comedian and actor Buddy Hackett dies at his home in Malibu at the age of 78.](/news/2003/06/30/comedian-and-actor-buddy-hackett-dies-at-his-home-in-malibu-at-the-age-of-78.md) _Context: Malibu, California_

@@ -17,3 +17,8 @@
 3. [The Government of Pakistan decides to accord recognition to the Republic of Kosovo. ](/news/2012/12/24/the-government-of-pakistan-decides-to-accord-recognition-to-the-republic-of-kosovo.md) _Context: Pakistan, government_
 4. [The Pakistani Taliban confirms that it is holding peace talks with the government. ](/news/2011/12/10/the-pakistani-taliban-confirms-that-it-is-holding-peace-talks-with-the-government.md) _Context: Pakistan, government_
 5. [The United States announces the removal of a number of troops from Pakistan, following a request from the Pakistani government. ](/news/2011/05/26/the-united-states-announces-the-removal-of-a-number-of-troops-from-pakistan-following-a-request-from-the-pakistani-government.md) _Context: Pakistan, government_
+
+### Changes:
+
+1. [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of ''Innocence of Muslims''. The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-o.md) _2017-08-25 03:36:34 (First version)_
+1. [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of "Innocence of Muslims". The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-of.md) _(Current version)_

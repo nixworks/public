@@ -18,3 +18,9 @@ Syrian troops backed by armoured vehicles today entered the district of Midan in
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [Syrian uprising (2011-present):Heavy fighting is reported in the capital Damascus overnight with claims of at least five deaths and dozens of injuries. ](/news/2012/07/16/syrian-uprising-2011apresent-pheavy-fighting-is-reported-in-the-capital-damascus-overnight-with-claims-of-at-least-five-deaths-and-dozen.md) _2017-08-25 03:36:07 (First version)_
+2. [Syrian uprising (2011-present):: Heavy fighting is reported in the capital Damascus overnight with claims of at least five deaths and dozens of injuries. ](/news/2012/07/16/syrian-uprising-2011-present-heavy-fighting-is-reported-in-the-capital-damascus-overnight-with-claims-of-at-least-five-deaths-and-doze.md) _2017-08-27 03:36:18 (Update)_
+2. [Heavy fighting is reported in the capital Damascus overnight with claims of at least five deaths and dozens of injuries. ](/news/2012/07/16/heavy-fighting-is-reported-in-the-capital-damascus-overnight-with-claims-of-at-least-five-deaths-and-dozens-of-injuries.md) _(Current version)_

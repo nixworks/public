@@ -16,3 +16,8 @@
 3. [A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md) _Context: Naxalite, Naxalite-Maoist insurgency_
 4. [Ten members of the Naxalite insurgent movement are killed in a clash with Indian police in Chhattisgarh state. ](/news/2013/04/16/ten-members-of-the-naxalite-insurgent-movement-are-killed-in-a-clash-with-indian-police-in-chhattisgarh-state.md) _Context: Indian police, Naxalite_
 5. [Two villagers and 10 Naxalites are killed in firing between a group of criminals and Maoists in Munger, India. ](/news/2010/12/1/two-villagers-and-10-naxalites-are-killed-in-firing-between-a-group-of-criminals-and-maoists-in-munger-india.md) _Context: Maoist, Naxalite_
+
+### Changes:
+
+1. [Naxalite-Maoist insurgency: Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/naxalite-maoist-insurgency-indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _2017-08-27 03:42:30 (First version)_
+1. [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _(Current version)_

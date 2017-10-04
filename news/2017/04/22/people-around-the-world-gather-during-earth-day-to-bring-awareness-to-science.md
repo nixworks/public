@@ -17,3 +17,8 @@ When politicians smear science, real people get hurt. I’m marching because we 
 3. [ Mars Reconnaissance Orbiter successfully completed aerobraking, and is preparing to enter a Sun synchronized science orbit at Mars. ](/news/2006/08/30/mars-reconnaissance-orbiter-successfully-completed-aerobraking-and-is-preparing-to-enter-a-sun-synchronized-science-orbit-at-mars.md) _Context: science_
 4. [ A comparison of 42 articles by the journal "Nature" concludes that Wikipedia is almost as accurate on science topics as the "Encyclopdia Britannica". The study also notes that Wikipedia's writing is more disorganized than Britannica's. ](/news/2005/12/15/a-comparison-of-42-articles-by-the-journal-nature-concludes-that-wikipedia-is-almost-as-accurate-on-science-topics-as-the-encyclopaedia-b.md) _Context: science_
 5. [ The United Nations releases a science and technology strategy report, ""Inventing a Better Future: A Strategy for Building Worldwide Capacities in Science and Technology"", produced by the InterAcademy Council (IAC).](/news/2004/02/5/the-united-nations-releases-a-science-and-technology-strategy-report-inventing-a-better-future-a-strategy-for-building-worldwide-capaci.md) _Context: science_
+
+### Changes:
+
+1. [March for Science: People around the world gather during Earth Day to bring awareness to science. ](/news/2017/04/22/march-for-science-people-around-the-world-gather-during-earth-day-to-bring-awareness-to-science.md) _2017-08-27 03:48:13 (First version)_
+1. [People around the world gather during Earth Day to bring awareness to science. ](/news/2017/04/22/people-around-the-world-gather-during-earth-day-to-bring-awareness-to-science.md) _(Current version)_

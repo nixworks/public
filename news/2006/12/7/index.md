@@ -37,7 +37,7 @@ _Context: Fiji, Great Council of Chiefs, Voreqe Bainimarama, coup_
 An article recently published by an Azerbaijani bimonthly newspaper that disparaged Islam has sparked a religious furor both in Azerbaijan and neighboring Iran. An Iranian cleric exacerbated the contr
 
 ### [ The Hard Rock Cafe chain of cafes, hotels and casinos, as well as its extensive collection of rock and roll memorabilia, is purchased from the The Rank Group by the Seminole Tribe of Florida for US$965 million. ](/news/2006/12/7/the-hard-rock-cafe-chain-of-cafes-hotels-and-casinos-as-well-as-its-extensive-collection-of-rock-and-roll-memorabilia-is-purchased-from.md)
-_Context: Hard Rock Cafe, Seminole, The Rank Group, US$, memorabilia, rock and roll_
+_Context: $, Hard Rock Cafe, Seminole, The Rank Group, memorabilia, rock and roll_
 
 ### [ Nintendo's next generation gaming console, the Wii, is released in Australia. ](/news/2006/12/7/nintendo-s-next-generation-gaming-console-the-wii-is-released-in-australia.md)
 _Context: Australia, Nintendo, Wii_

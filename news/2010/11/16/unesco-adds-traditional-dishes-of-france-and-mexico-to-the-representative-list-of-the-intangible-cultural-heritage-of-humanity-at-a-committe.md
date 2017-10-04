@@ -17,3 +17,8 @@
 3. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
 4. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
 5. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
+
+### Changes:
+
+1. [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committ.md) _2017-08-25 03:31:03 (First version)_
+1. [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committe.md) _(Current version)_

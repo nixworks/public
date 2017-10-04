@@ -16,3 +16,8 @@ Bomber wearing a military uniform was driving a car that exploded at the entranc
 3. [About 40 suspected Al-Qaeda in the Arabian Peninsula fighters are killed as Yemeni forces, aided by Saudi-led airstrikes, fight their way into Zinjibar and Ja'ar in eastern Yemen. ](/news/2016/08/14/about-40-suspected-al-qaeda-in-the-arabian-peninsula-fighters-are-killed-as-yemeni-forces-aided-by-saudi-led-airstrikes-fight-their-way-in.md) _Context: Yemeni soldiers, Zinjibar_
 4. [Human rights activists accuse forces led by Saudi Arabia and the UAE of kidnapping and torturing people during the Yemeni conflict. ](/news/2017/06/9/human-rights-activists-accuse-forces-led-by-saudi-arabia-and-the-uae-of-kidnapping-and-torturing-people-during-the-yemeni-conflict.md) _Context: Yemeni conflict_
 5. [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md) _Context: Yemeni conflict_
+
+### Changes:
+
+1. [Yemeni Civil War (2015-present): At least eight Yemeni soldiers are killed in a suicide bombing at a military camp in Zinjibar. ](/news/2017/02/24/yemeni-civil-war-2015-present-at-least-eight-yemeni-soldiers-are-killed-in-a-suicide-bombing-at-a-military-camp-in-zinjibar.md) _2017-08-27 03:47:53 (First version)_
+1. [At least eight Yemeni soldiers are killed in a suicide bombing at a military camp in Zinjibar. ](/news/2017/02/24/at-least-eight-yemeni-soldiers-are-killed-in-a-suicide-bombing-at-a-military-camp-in-zinjibar.md) _(Current version)_

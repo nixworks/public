@@ -17,3 +17,8 @@
 3. [At least 50 militants are reportedly killed in a U.S. air strike on an Al-Qaeda training camp in southern Yemen. ](/news/2016/03/23/at-least-50-militants-are-reportedly-killed-in-a-u-s-air-strike-on-an-al-qaeda-training-camp-in-southern-yemen.md) _Context: Yemen, Yemeni conflict, al-Qaida_
 4. [Al-Qaeda militants take control of the southern Yemeni town of Ahwar in the Abyan Governorate. ](/news/2016/02/20/al-qaeda-militants-take-control-of-the-southern-yemeni-town-of-ahwar-in-the-abyan-governorate.md) _Context: Yemen, Yemeni conflict, al-Qaida_
 5. [A U.S. drone strike on a vehicle in Yemen's Shabwah Governorate kills three suspected Al-Qaeda in the Arabian Peninsula (AQAP) militants. ](/news/2016/01/16/a-u-s-drone-strike-on-a-vehicle-in-yemen-s-shabwah-governorate-kills-three-suspected-al-qaeda-in-the-arabian-peninsula-aqap-militants.md) _Context: Shabwa province, Yemen, al-Qaida_
+
+### Changes:
+
+1. [Yemeni Civil War (2015-present): A drone strike in Yemen's Shabwah Governorate kills six suspected Al-Qaeda in the Arabian Peninsula militants. ](/news/2016/02/4/yemeni-civil-war-2015-present-a-drone-strike-in-yemen-s-shabwah-governorate-kills-six-suspected-al-qaeda-in-the-arabian-peninsula-milit.md) _2017-08-27 03:44:49 (First version)_
+1. [A drone strike in Yemen's Shabwah Governorate kills six suspected Al-Qaeda in the Arabian Peninsula militants. ](/news/2016/02/4/a-drone-strike-in-yemen-s-shabwah-governorate-kills-six-suspected-al-qaeda-in-the-arabian-peninsula-militants.md) _(Current version)_

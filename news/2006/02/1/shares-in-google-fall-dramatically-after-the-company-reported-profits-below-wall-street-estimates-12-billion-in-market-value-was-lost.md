@@ -16,3 +16,8 @@
 3. [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md) _Context: Google_
 4. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md) _Context: Google_
 5. [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md) _Context: Google_
+
+### Changes:
+
+1. [ Shares in Google fall dramatically after the company reported profits below Wall Street estimates. {{Nowrap|$12 billion}} in market value was lost. ](/news/2006/02/1/shares-in-google-fall-dramatically-after-the-company-reported-profits-below-wall-street-estimates-nowrap-12-billion-in-market-value-w.md) _2017-05-01 03:17:46 (First version)_
+1. [ Shares in Google fall dramatically after the company reported profits below Wall Street estimates. $12 billion in market value was lost. ](/news/2006/02/1/shares-in-google-fall-dramatically-after-the-company-reported-profits-below-wall-street-estimates-12-billion-in-market-value-was-lost.md) _(Current version)_

@@ -15,3 +15,9 @@ La La Land scoops five Bafta film awards, with Lion star Dev Patel among the Bri
 1. [Nominations for the 2017 Academy Awards are announced, with "La La Land", "Moonlight" and "Hidden Figures" among the favorites. ](/news/2017/01/24/nominations-for-the-2017-academy-awards-are-announced-with-la-la-land-moonlight-and-hidden-figures-among-the-favorites.md) _Context: La La Land_
 2. ["La La Land" leads nominations. ](/news/2016/12/12/la-la-land-leads-nominations.md) _Context: La La Land_
 3. [British film "I, Daniel Blake", directed by Ken Loach, wins the Palme d'Or at the Cannes Film Festival. ](/news/2016/05/22/british-film-i-daniel-blake-directed-by-ken-loach-wins-the-palme-d-or-at-the-cannes-film-festival.md) _Context: I, Daniel Blake_
+
+### Changes:
+
+1. [''La La Land'' wins five awards. ''I, Daniel Blake'' wins Best British Film. Emma Stone, Casey Affleck, Viola Davis and Dev Patel win in their respective acting categories. ](/news/2017/02/12/la-la-land-wins-five-awards-i-daniel-blake-wins-best-british-film-emma-stone-casey-affleck-viola-davis-and-dev-patel-win-in-the.md) _2017-08-25 03:47:23 (First version)_
+2. [70th British Academy Film Awards: "La La Land" wins five awards. "I, Daniel Blake" wins Best British Film. Emma Stone, Casey Affleck, Viola Davis and Dev Patel win in their respective acting categories. ](/news/2017/02/12/70th-british-academy-film-awards-la-la-land-wins-five-awards-i-daniel-blake-wins-best-british-film-emma-stone-casey-affleck-viola.md) _2017-08-27 03:47:48 (Update)_
+2. ["La La Land" wins five awards. "I, Daniel Blake" wins Best British Film. Emma Stone, Casey Affleck, Viola Davis and Dev Patel win in their respective acting categories. ](/news/2017/02/12/la-la-land-wins-five-awards-i-daniel-blake-wins-best-british-film-emma-stone-casey-affleck-viola-davis-and-dev-patel-win-in-their-r.md) _(Current version)_

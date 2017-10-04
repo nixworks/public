@@ -18,3 +18,8 @@
 3. [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md) _Context: South Korea_
 4. [Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos. ](/news/2017/08/2/teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece-of-faulty-dna.md) _Context: South Korea_
 5. [South Korea's National Police raid the headquarters of Korean Air as part of an investigation into embezzlement and breach of trust related to misappropriated funds alleged to have been used to fund construction at the residence of Korean Air Chairman Cho Yang-ho (father of Heather Cho, instigator of the "Nut rage incident" in 2014). The company's shares continue to drop. ](/news/2017/07/7/south-korea-s-national-police-raid-the-headquarters-of-korean-air-as-part-of-an-investigation-into-embezzlement-and-breach-of-trust-related.md) _Context: South Korea_
+
+### Changes:
+
+1. [ South Korea agrees to develop 1,000 km 2 (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km2-386-sq-miles-of-farmland-in-tanzania.md) _2017-10-02 03:29:04 (First version)_
+1. [ South Korea agrees to develop 1,000 km 2 (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km-2-386-sq-miles-of-farmland-in-tanzania.md) _(Current version)_

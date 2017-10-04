@@ -17,3 +17,9 @@
 3. [Syrian uprising:United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/syrian-uprising-united-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-reported-to-have-been.md) _Context: Syrian uprising (2011-present)_
 4. [Syrian uprising: Opposition activists on the ground in Syria report that a massacre has been committed in the small village of Qubair, Hama, by the government-hired Shabiha militia. Activists report 78 dead, mostly women and children. ](/news/2012/06/6/syrian-uprising-opposition-activists-on-the-ground-in-syria-report-that-a-massacre-has-been-committed-in-the-small-village-of-qubair-hama.md) _Context: Syrian uprising (2011-present)_
 5. [Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md) _Context: Syrian uprising (2011-present)_
+
+### Changes:
+
+1. [Arab Spring:Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/arab-spring-psyrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md) _2017-08-25 03:35:39 (First version)_
+2. [Arab Spring:: Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/arab-spring-syrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md) _2017-08-27 03:35:49 (Update)_
+2. [Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/syrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md) _(Current version)_

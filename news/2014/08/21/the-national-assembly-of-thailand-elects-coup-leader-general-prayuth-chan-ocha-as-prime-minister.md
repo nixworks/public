@@ -16,3 +16,8 @@
 3. [Royal Thai Army chief and coup leader General Prayuth Chan-ocha detains former Prime Minister of Thailand Yingluck Shinawatra after summoning her for talks a day after the coup. ](/news/2014/05/23/royal-thai-army-chief-and-coup-leader-general-prayuth-chan-ocha-detains-former-prime-minister-of-thailand-yingluck-shinawatra-after-summonin.md) _Context: Prayuth Chan-ocha, Prime Minister_
 4. [Thailand's army chief Prayuth Chan-ocha announces a coup d'etat, saying the military is taking control of government. ](/news/2014/05/22/thailand-s-army-chief-prayuth-chan-ocha-announces-a-coup-d-a-c-tat-saying-the-military-is-taking-control-of-government.md) _Context: Prayuth Chan-ocha, military coup_
 5. [Prime Minister of Thailand Abhisit Vejjajiva, declares a state of emergency after widespread anti-government protests and shortly after demonstrators stormed the country's parliament. ](/news/2010/04/7/prime-minister-of-thailand-abhisit-vejjajiva-declares-a-state-of-emergency-after-widespread-anti-government-protests-and-shortly-after-demo.md) _Context: National Assembly of Thailand, Prime Minister_
+
+### Changes:
+
+1. [2014 Thai coup d'etat: The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. ](/news/2014/08/21/2014-thai-coup-d-a-c-tat-the-national-assembly-of-thailand-elects-coup-leader-general-prayuth-chan-ocha-as-prime-minister.md) _2017-08-27 03:41:10 (First version)_
+1. [The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. ](/news/2014/08/21/the-national-assembly-of-thailand-elects-coup-leader-general-prayuth-chan-ocha-as-prime-minister.md) _(Current version)_

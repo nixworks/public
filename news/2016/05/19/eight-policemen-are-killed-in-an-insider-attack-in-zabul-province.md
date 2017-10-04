@@ -17,3 +17,8 @@ Eight Afghan policemen were killed by a colleague who turned his gun on them at 
 3. [Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-killed-after-engaging-wi.md) _Context: Afghan police_
 4. [According to a local police chief, at least seven militants are killed by Afghan security forces in Logar Province. ](/news/2017/03/25/according-to-a-local-police-chief-at-least-seven-militants-are-killed-by-afghan-security-forces-in-logar-province.md) _Context: Afghan police_
 5. [According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-faryab-province.md) _Context: Afghan police_
+
+### Changes:
+
+1. [ Taliban insurgency: Eight policemen are killed in an insider attack in Zabul Province. ](/news/2016/05/19/taliban-insurgency-eight-policemen-are-killed-in-an-insider-attack-in-zabul-province.md) _2017-08-27 03:46:04 (First version)_
+1. [ Eight policemen are killed in an insider attack in Zabul Province. ](/news/2016/05/19/eight-policemen-are-killed-in-an-insider-attack-in-zabul-province.md) _(Current version)_

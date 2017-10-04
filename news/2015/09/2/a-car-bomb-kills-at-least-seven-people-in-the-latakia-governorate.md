@@ -17,3 +17,8 @@ At least ten people were killed and scores wounded when a car bomb exploded in t
 3. [Syrian rebels launch new offensives against government forces in the country's Latakia Governorate and Hama Governorate. Several rebel groups earlier announced they were launching a new battle against government forces in response to claimed violations of the cease-fire agreement, further putting a strain on the Syrian peace process. ](/news/2016/04/18/syrian-rebels-launch-new-offensives-against-government-forces-in-the-country-s-latakia-governorate-and-hama-governorate-several-rebel-group.md) _Context: Latakia Governorate, Syrian Civil War_
 4. [The Syrian Army, backed by the Russian Air Force, says it has captured the town of Kinsabba in the northwest Latakia Governorate. ](/news/2016/02/18/the-syrian-army-backed-by-the-russian-air-force-says-it-has-captured-the-town-of-kinsabba-in-the-northwest-latakia-governorate.md) _Context: Latakia Governorate, Syrian Civil War_
 5. [The Syrian Army takes control of the strategic Turkmen town of Rabia in Syria's Latakia Governorate. The town had been under rebel control since 2012. ](/news/2016/01/24/the-syrian-army-takes-control-of-the-strategic-turkmen-town-of-rabia-in-syria-s-latakia-governorate-the-town-had-been-under-rebel-control-s.md) _Context: Latakia Governorate, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/syrian-civil-war-a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md) _2017-08-27 03:42:57 (First version)_
+1. [A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md) _(Current version)_

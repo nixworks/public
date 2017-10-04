@@ -18,3 +18,9 @@
 3. [France seeks United States and Russian support for a Security Council resolution to impose a new truce that will allow aid into Aleppo, which has experienced two weeks of heavy Syrian and Russian bombing of rebel-held areas. ](/news/2016/10/5/france-seeks-united-states-and-russian-support-for-a-security-council-resolution-to-impose-a-new-truce-that-will-allow-aid-into-aleppo-whic.md) _Context: Aleppo, Syria_
 4. [Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.md) _Context: Aleppo, Syria_
 5. [The Syrian Observatory for Human Rights says that at least 51 people have been killed in the Syrian city of Aleppo. ](/news/2016/08/13/the-syrian-observatory-for-human-rights-says-that-at-least-51-people-have-been-killed-in-the-syrian-city-of-aleppo.md) _Context: Aleppo, Syria_
+
+### Changes:
+
+1. [Syrian civil war:Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/syrian-civil-war-pfierce-fighting-continues-in-syria-s-second-city-of-aleppo.md) _2017-08-25 03:36:11 (First version)_
+2. [Syrian civil war:: Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/syrian-civil-war-fierce-fighting-continues-in-syria-s-second-city-of-aleppo.md) _2017-08-27 03:36:22 (Update)_
+2. [Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/fierce-fighting-continues-in-syria-s-second-city-of-aleppo.md) _(Current version)_

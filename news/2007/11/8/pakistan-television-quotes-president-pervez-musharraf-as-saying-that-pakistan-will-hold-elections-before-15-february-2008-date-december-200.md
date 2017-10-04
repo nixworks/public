@@ -12,3 +12,8 @@
 3. [Former President of Pakistan Pervez Musharraf survives an assassination attempt in Islamabad, Pakistan. There are no reports of injuries. ](/news/2014/04/3/former-president-of-pakistan-pervez-musharraf-survives-an-assassination-attempt-in-islamabad-pakistan-there-are-no-reports-of-injuries.md) _Context: Pakistan, Pervez Musharraf_
 4. [A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. ](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.md) _Context: Pakistan, Pervez Musharraf_
 5. [A Pakistani court indicts former President Pervez Musharraf for his alleged involvement in the 2007 assassination of former Prime Minister Benazir Bhutto. ](/news/2013/08/20/a-pakistani-court-indicts-former-president-pervez-musharraf-for-his-alleged-involvement-in-the-2007-assassination-of-former-prime-minister-b.md) _Context: Pakistan, Pervez Musharraf_
+
+### Changes:
+
+1. [ Pakistan Television quotes President Pervez Musharraf as saying that Pakistan will hold elections before 15 February 2008.{{Fact|date=December 2007}} ](/news/2007/11/8/pakistan-television-quotes-president-pervez-musharraf-as-saying-that-pakistan-will-hold-elections-before-15-february-2008-fact-date-decem.md) _2017-05-01 03:22:12 (First version)_
+1. [ Pakistan Television quotes President Pervez Musharraf as saying that Pakistan will hold elections before 15 February 2008.date=December 2007 ](/news/2007/11/8/pakistan-television-quotes-president-pervez-musharraf-as-saying-that-pakistan-will-hold-elections-before-15-february-2008-date-december-200.md) _(Current version)_

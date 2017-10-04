@@ -17,3 +17,8 @@
 3. [ The United Nations Secretary-General Ban Ki-moon will travel to Burma on Friday to press the country on democratic reform. ](/news/2009/06/29/the-united-nations-secretary-general-ban-ki-moon-will-travel-to-burma-on-friday-to-press-the-country-on-democratic-reform.md) _Context: Ban Ki-moon, Burma, Secretary General, United Nations_
 4. [The United Nations Secretary-General Ban Ki-moon says there is no prospect of an end to the conflict in Syria. ](/news/2012/12/20/the-united-nations-secretary-general-ban-ki-moon-says-there-is-no-prospect-of-an-end-to-the-conflict-in-syria.md) _Context: Ban Ki-moon, Secretary General, United Nations_
 5. [The United Nations Secretary-General Ban Ki-moon visits Burma. ](/news/2012/04/29/the-united-nations-secretary-general-ban-ki-moon-visits-burma.md) _Context: Ban Ki-moon, Burma, United Nations_
+
+### Changes:
+
+1. [ United Nations Secretary-General Ban Ki-moon arrives in Burma, meeting junta leader Senior General Than Shwe and calling for the release of political prisoners. ](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arrives-in-burma-meeting-junta-leader-senior-general-than-shwe-and-calling-for-the-release-o.md) _2017-08-25 03:25:02 (First version)_
+1. [ United Nations Secretary-General Ban Ki-moon arrives in Burma, meeting junta leader Senior General Than Shwe and calling for the release of political prisoners. ](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arrives-in-burma-meeting-junta-leader-senior-general-than-shwe-and-calling-for-the-release-of.md) _(Current version)_

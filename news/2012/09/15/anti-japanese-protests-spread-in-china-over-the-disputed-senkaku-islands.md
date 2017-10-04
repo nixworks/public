@@ -19,3 +19,9 @@
 3. [Japan reports that two Chinese ships have entered territorial waters off the coast of the disputed Senkaku Islands. ](/news/2013/09/19/japan-reports-that-two-chinese-ships-have-entered-territorial-waters-off-the-coast-of-the-disputed-senkaku-islands.md) _Context: China, Japan, Senkaku Islands_
 4. [Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns-over-the-deal.md) _Context: China, Japan, Senkaku Islands_
 5. [Japan accuses three Chinese surveillance ships of entering the territorial waters of Tokyo-controlled Senkaku Islands. ](/news/2013/04/1/japan-accuses-three-chinese-surveillance-ships-of-entering-the-territorial-waters-of-tokyo-controlled-senkaku-islands.md) _Context: China, Japan, Senkaku Islands_
+
+### Changes:
+
+1. [Senkaku Islands dispute:Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/senkaku-islands-dispute-panti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md) _2017-08-25 03:36:31 (First version)_
+2. [Senkaku Islands dispute:: Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/senkaku-islands-dispute-anti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md) _2017-08-27 03:36:41 (Update)_
+2. [Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/anti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md) _(Current version)_

@@ -9,3 +9,9 @@ Clashes have erupted across Turkey following an activist&#039;s funeral, whose d
 
 1. [Russia Today](http://rt.com/news/turkey-protest-clashes-death-685/)
 1. [Cover Image](https://img.rt.com/files/news/20/64/d0/00/turkey-protest-clashes-death.si.jpg)
+
+### Changes:
+
+1. [2013 protests in Turkey:Clashes erupt across the country after the funeral of a 22-year-old student activist and security forces respond by teargas and water cannons. ](/news/2013/09/10/2013-protests-in-turkey-pclashes-erupt-across-the-country-after-the-funeral-of-a-22-year-old-student-activist-and-security-forces-respond-by.md) _2017-08-25 03:39:15 (First version)_
+2. [2013 protests in Turkey:: Clashes erupt across the country after the funeral of a 22-year-old student activist and security forces respond by teargas and water cannons. ](/news/2013/09/10/2013-protests-in-turkey-clashes-erupt-across-the-country-after-the-funeral-of-a-22-year-old-student-activist-and-security-forces-respond-b.md) _2017-08-27 03:39:32 (Update)_
+2. [Clashes erupt across the country after the funeral of a 22-year-old student activist and security forces respond by teargas and water cannons. ](/news/2013/09/10/clashes-erupt-across-the-country-after-the-funeral-of-a-22-year-old-student-activist-and-security-forces-respond-by-teargas-and-water-cannon.md) _(Current version)_

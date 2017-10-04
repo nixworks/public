@@ -17,3 +17,8 @@
 3. [Chen Min'er replaces Sun Zhengcai as Communist Party Secretary of Chongqing; Sun Zhigang becomes party chief of Guizhou. ](/news/2017/07/15/chen-min-er-replaces-sun-zhengcai-as-communist-party-secretary-of-chongqing-sun-zhigang-becomes-party-chief-of-guizhou.md) _Context: Politics of China_
 4. [Reports emerge of the Australian Security Intelligence Organisation's discovery of classified Australian documents, related to Chinese intelligence activity abroad, in the Canberra home of a woman allegedly acting on behalf of the Communist Party of China. ](/news/2017/06/5/reports-emerge-of-the-australian-security-intelligence-organisation-s-discovery-of-classified-australian-documents-related-to-chinese-intel.md) _Context: Communist Party of China_
 5. [Zhejiang governor Li Qiang is transferred to neighbouring Jiangsu province to serve as party chief. He is succeeded as Zhejiang governor by Xinjiang deputy party chief Che Jun. ](/news/2016/07/4/zhejiang-governor-li-qiang-is-transferred-to-neighbouring-jiangsu-province-to-serve-as-party-chief-he-is-succeeded-as-zhejiang-governor-by.md) _Context: Communist Party of China_
+
+### Changes:
+
+1. [The 19th National Congress of the Communist Party of China is expected to start October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-october-18-2017.md) _2017-09-01 07:30:06 (First version)_
+1. [The 19th National Congress of the Communist Party of China is expected to start on October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-on-october-18-2017.md) _(Current version)_

@@ -21,3 +21,8 @@ Afghan forces retake control of Kunduz from Taliban insurgents after fierce figh
 3. [Afghan National Security Forces start efforts to recapture the city of Kunduz. ](/news/2015/09/29/afghan-national-security-forces-start-efforts-to-recapture-the-city-of-kunduz.md) _Context: Battle of Kunduz, Kunduz, War in Afghanistan (2015-present)_
 4. [The Taliban launches an offensive entering the city of Kunduz which they briefly captured last year. ](/news/2016/10/3/the-taliban-launches-an-offensive-entering-the-city-of-kunduz-which-they-briefly-captured-last-year.md) _Context: Kunduz, War in Afghanistan (2015-present)_
 5. [ Suspect Taliban militants kill nine and kidnap 170 in an attack on three passenger buses in Kunduz, Afghanistan. ](/news/2016/05/31/suspect-taliban-militants-kill-nine-and-kidnap-170-in-an-attack-on-three-passenger-buses-in-kunduz-afghanistan.md) _Context: Kunduz, War in Afghanistan (2015-present)_
+
+### Changes:
+
+1. [War in Afghanistan (2015-present): Battle of Kunduz: The government of Afghanistan claims to have recaptured the city of Kunduz. ](/news/2015/10/1/war-in-afghanistan-2015-present-battle-of-kunduz-the-government-of-afghanistan-claims-to-have-recaptured-the-city-of-kunduz.md) _2017-08-27 03:43:12 (First version)_
+1. [The government of Afghanistan claims to have recaptured the city of Kunduz. ](/news/2015/10/1/the-government-of-afghanistan-claims-to-have-recaptured-the-city-of-kunduz.md) _(Current version)_

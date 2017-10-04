@@ -7,7 +7,7 @@ Islamic State militants counter-attack in northern Iraq, killing at least 19 peo
 Singer-songwriter’s failure to respond to phone calls from the Swedish Academy after being awarded the Nobel literature prize ‘unprecedented’
 
 ### [British American Tobacco offers to buy out U.S. cigarette maker Reynolds American Inc in a $47 billion takeover that would create the world's biggest listed tobacco company. ](/news/2016/10/21/british-american-tobacco-offers-to-buy-out-u-s-cigarette-maker-reynolds-american-inc-in-a-47-billion-takeover-that-would-create-the-world.md)
-_Context: British American Tobacco, Reynolds American Inc, US$, cigarette, tobacco_
+_Context: $, British American Tobacco, Reynolds American Inc, cigarette, tobacco_
 
 ### [AT&T reportedly agrees in principle to buy Time Warner for about $85 billion. ](/news/2016/10/21/at-t-reportedly-agrees-in-principle-to-buy-time-warner-for-about-85-billion.md)
 AT&T Inc (T.N) reached a deal to buy media company Time Warner Inc (TWX.N) for more than $80 billion, The Wall Street Journal reported on Saturday.

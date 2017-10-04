@@ -17,3 +17,8 @@ Europe&#39;s best known landmarks fall dark,&#160; following Sydney&#39;s Opera 
 
 1. [ Millions of people worldwide recognize Earth Hour by deactivating unnecessary lighting. ](/news/2009/03/28/millions-of-people-worldwide-recognize-earth-hour-by-deactivating-unnecessary-lighting.md) _Context: Earth Hour_
 2. [ Cities around the world participate in Earth Hour, an international event that asks households and businesses to turn off their lights and non-essential electrical appliances between 8-9pm local time. ](/news/2008/03/29/cities-around-the-world-participate-in-earth-hour-an-international-event-that-asks-households-and-businesses-to-turn-off-their-lights-and.md) _Context: Earth Hour_
+
+### Changes:
+
+1. [Earth Hour: Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (](/news/2010/03/27/earth-hour-approximately-4-000-cities-around-the-world-dimmed-their-building-lights-to-commemorate-earth-hour.md) _2017-08-27 03:27:26 (First version)_
+1. [Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (](/news/2010/03/27/approximately-4-000-cities-around-the-world-dimmed-their-building-lights-to-commemorate-earth-hour.md) _(Current version)_

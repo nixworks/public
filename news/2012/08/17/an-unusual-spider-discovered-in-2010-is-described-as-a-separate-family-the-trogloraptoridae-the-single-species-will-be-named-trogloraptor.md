@@ -13,3 +13,8 @@ The newfound spider family is being named trogloraptor, meaning &quot;cave robbe
 ### Related:
 
 1. ["Scientific Reports" publishes Carthage College research that "Daspletosaurus horneri", from the same Tyrannosauridae family as the Tyrannosaurus rex, had a sensitive nose. The research describes that foramina sprouted from the trigeminal nerve at the snout and jaws possibly enabling the behavioral functions of exploration, courtship, nesting, foreplay, and parental investment. ](/news/2017/03/30/scientific-reports-publishes-carthage-college-research-that-daspletosaurus-horneri-from-the-same-tyrannosauridae-family-as-the-tyrannos.md) _Context: family_
+
+### Changes:
+
+1. [An unusual spider discovered in 2010 is described as a separate family, the Trogloraptoridae. The single species will be named ''Trogloraptor marchingtoni'', after Neil Marchington, a deputy sheriff, amateur biologist and local cave explorer who helped with the discovery. ](/news/2012/08/17/an-unusual-spider-discovered-in-2010-is-described-as-a-separate-family-the-trogloraptoridae-the-single-species-will-be-named-troglorapto.md) _2017-08-25 03:36:17 (First version)_
+1. [An unusual spider discovered in 2010 is described as a separate family, the Trogloraptoridae. The single species will be named "Trogloraptor marchingtoni", after Neil Marchington, a deputy sheriff, amateur biologist and local cave explorer who helped with the discovery. ](/news/2012/08/17/an-unusual-spider-discovered-in-2010-is-described-as-a-separate-family-the-trogloraptoridae-the-single-species-will-be-named-trogloraptor.md) _(Current version)_

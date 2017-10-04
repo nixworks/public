@@ -16,3 +16,9 @@
 3. [ Afghan and Canadian forces begin an offensive against the Taliban in the Arghandab District of Kandahar. ](/news/2008/06/18/afghan-and-canadian-forces-begin-an-offensive-against-the-taliban-in-the-arghandab-district-of-kandahar.md) _Context: Afghanistan, Kandahar, Taliban_
 4. [ Hundreds of Taliban militants swarm in the Arghandab District of Kandahar Province with the Afghan government sending reinforcements to the nearby city of Kandahar. ](/news/2008/06/16/hundreds-of-taliban-militants-swarm-in-the-arghandab-district-of-kandahar-province-with-the-afghan-government-sending-reinforcements-to-the.md) _Context: Afghanistan, Kandahar, Taliban_
 5. [ A Taliban attack on a prison in Kandahar, Afghanistan allows almost all of the 1150 inmates to escape, including 390 Taliban inmates. ](/news/2008/06/13/a-taliban-attack-on-a-prison-in-kandahar-afghanistan-allows-almost-all-of-the-1150-inmates-to-escape-including-390-taliban-inmates.md) _Context: Afghanistan, Kandahar, Taliban_
+
+### Changes:
+
+1. [ Taliban insurgency in More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/taliban-insurgency-in-more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md) _2017-08-25 03:18:19 (First version)_
+2. [ Taliban insurgency in Afghanistan: More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/taliban-insurgency-in-afghanistan-more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md) _2017-08-27 03:18:15 (Update)_
+2. [ More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md) _(Current version)_

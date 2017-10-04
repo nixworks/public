@@ -19,7 +19,7 @@ _Context: Georgian, Lech Kaczynski, Polish, President, President of Georgia, Saa
 Thousands of Thai protesters surrounded parliament Monday in an effort to prevent lawmakers from meeting in what they say is their final push in a six-month campaign against the government.
 
 ### [ Citigroup receives US$32 billion from the United States Emergency Economic Stabilization Act. ](/news/2008/11/24/citigroup-receives-us-32-billion-from-the-united-states-emergency-economic-stabilization-act.md)
-_Context: Americans, Citigroup, Emergency Economic Stabilization Act, US$_
+_Context: $, Americans, Citigroup, Emergency Economic Stabilization Act_
 
 ### [ The Asia-Pacific Economic Cooperation's annual summit ends in Lima, Peru, amid an ongoing economic crisis with a declaration of commitment with free markets and an openness of the economy, refrainment from raising trade barriers in goods and services over the next 12 months, the regulation and supervision of financial systems, and the ensuring of corporate social responsibility.](/news/2008/11/24/the-asia-pacific-economic-cooperation-s-annual-summit-ends-in-lima-peru-amid-an-ongoing-economic-crisis-with-a-declaration-of-commitment.md)
 _Context: Asia-Pacific Economic Cooperation, Lima, Peru, annual summit, corporate social responsibility, export controls_

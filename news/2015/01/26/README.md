@@ -13,7 +13,7 @@ _Context: 2014-15 Russian financial crisis, Standard & Poor's, junk bond_
 Watch scenes from across America&#039;s East Coast as Winter Storm Juno causes travel chaos
 
 ### [An F-16 jet belonging to the Hellenic Air Force crashes in southern Spain during a NATO exercise, killing ten people and injuring 21. ](/news/2015/01/26/an-f-16-jet-belonging-to-the-hellenic-air-force-crashes-in-southern-spain-during-a-nato-exercise-killing-ten-people-and-injuring-21.md)
-_Context: F-16, Hellenic Air Force, January 26 crash, NATO, Spain_
+_Context: F-16, Hellenic Air Force, January 26 crash, NATO, Spanish_
 
 ### [The U.S. Secret Service recovers a flying drone from the lawn at the White House. ](/news/2015/01/26/the-u-s-secret-service-recovers-a-flying-drone-from-the-lawn-at-the-white-house.md)
 _Context: United States Secret Service, White House, flying drone_

@@ -15,3 +15,8 @@ Borussia Dortmund&#39;s team bus was hit by three explosions while on its way to
 
 1. [Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-the-suspect-held-put-options-on-borus.md) _Context: Borussia Dortmund, Borussia Dortmund team bus bombing_
 2. [ Football: FC Porto defeat AS Monaco FC 3-0 in the final of the UEFA Champions League ](/news/2004/05/26/football-fc-porto-defeat-as-monaco-fc-3a0-in-the-final-of-the-uefa-champions-league.md) _Context: AS Monaco FC_
+
+### Changes:
+
+1. [Borussia Dortmund team bus bombing: Three explosions occur near the Borussia Dortmund football team bus as it slowed down to turn a corner. Spanish player Marc Bartra was injured and has been taken to hospital. Dortmund's UEFA Champions League fixture against AS Monaco FC is subsequently postponed. ](/news/2017/04/11/borussia-dortmund-team-bus-bombing-three-explosions-occur-near-the-borussia-dortmund-football-team-bus-as-it-slowed-down-to-turn-a-corner.md) _2017-08-27 03:48:08 (First version)_
+1. [Three explosions occur near the Borussia Dortmund football team bus as it slowed down to turn a corner. Spanish player Marc Bartra was injured and has been taken to hospital. Dortmund's UEFA Champions League fixture against AS Monaco FC is subsequently postponed. ](/news/2017/04/11/three-explosions-occur-near-the-borussia-dortmund-football-team-bus-as-it-slowed-down-to-turn-a-corner-spanish-player-marc-bartra-was-injur.md) _(Current version)_

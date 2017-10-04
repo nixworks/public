@@ -17,3 +17,8 @@
 3. [A wave of bombings in the Iraqi capital Baghdad kills 53 people. ](/news/2014/02/27/a-wave-of-bombings-in-the-iraqi-capital-baghdad-kills-53-people.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 4. [At least 26 people are killed in a series of attacks in central Iraq. ](/news/2014/01/15/at-least-26-people-are-killed-in-a-series-of-attacks-in-central-iraq.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 5. [18 people are killed in attacks across Iraq, including a military general in a bombing in the northern city of Mosul. ](/news/2013/12/29/18-people-are-killed-in-attacks-across-iraq-including-a-military-general-in-a-bombing-in-the-northern-city-of-mosul.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal): 17 people are killed in car-bomb and mortar attacks on a Shi'ite Muslim village in Iraq. ](/news/2014/01/25/iraqi-insurgency-post-u-s-withdrawal-17-people-are-killed-in-car-bomb-and-mortar-attacks-on-a-shi-ite-muslim-village-in-iraq.md) _2017-08-27 03:40:15 (First version)_
+1. [17 people are killed in car-bomb and mortar attacks on a Shi'ite Muslim village in Iraq. ](/news/2014/01/25/17-people-are-killed-in-car-bomb-and-mortar-attacks-on-a-shi-ite-muslim-village-in-iraq.md) _(Current version)_

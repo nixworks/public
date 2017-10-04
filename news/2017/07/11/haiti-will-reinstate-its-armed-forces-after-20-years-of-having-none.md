@@ -17,3 +17,8 @@ The recruitment drive follows the announcement that the UN is leaving Haiti.
 3. [The Haitian national electoral commission promises to release results of the highly contested elections between the candidates Jovenel Moise of the Haitian Tet Kale Party, Maryse Narcisse of the Fanmi Lavalas and Jude Celestin of the Alternative League for Haitian Progress and Emancipation. ](/news/2016/11/28/the-haitian-national-electoral-commission-promises-to-release-results-of-the-highly-contested-elections-between-the-candidates-jovenel-moise.md) _Context: Haiti_
 4. [Tensions spread in Haiti after both Maryse Narcisse of the Fanmi Lavalas party and Jovenel Moise of the Haitian Tet Kale Party declare themselves winners. ](/news/2016/11/24/tensions-spread-in-haiti-after-both-maryse-narcisse-of-the-fanmi-lavalas-party-and-jovenel-moise-of-the-haitian-ta-t-kale-party-declare-them.md) _Context: Haiti_
 5. [Voters in Haiti go to the polls for the first round of a presidential election. ](/news/2016/11/20/voters-in-haiti-go-to-the-polls-for-the-first-round-of-a-presidential-election.md) _Context: Haiti_
+
+### Changes:
+
+1. [Human rights in Haiti: Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/human-rights-in-haiti-haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _2017-08-27 03:48:38 (First version)_
+1. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _(Current version)_

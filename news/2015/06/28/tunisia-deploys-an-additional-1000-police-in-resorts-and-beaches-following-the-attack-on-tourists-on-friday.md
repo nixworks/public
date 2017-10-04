@@ -19,3 +19,8 @@ The death toll of Britons killed in the Tunisian gun attack will double to at le
 3. [Tunisia arrests 127 people suspected of being members of terrorist groups following last month's attack. ](/news/2015/07/12/tunisia-arrests-127-people-suspected-of-being-members-of-terrorist-groups-following-last-month-s-attack.md) _Context: 2015 Sousse attacks, Tunisia_
 4. [Tunisia announces plans to close down 80 "propagandist" mosques following yesterday's attacks in which 39 people died. ](/news/2015/06/27/tunisia-announces-plans-to-close-down-80-propagandist-mosques-following-yesterday-s-attacks-in-which-39-people-died.md) _Context: 2015 Sousse attacks, Tunisia_
 5. [A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md) _Context: Tunisia_
+
+### Changes:
+
+1. [2015 Sousse attacks: Tunisia deploys an additional 1000 police in resorts and beaches following the attack on tourists on Friday. ](/news/2015/06/28/2015-sousse-attacks-tunisia-deploys-an-additional-1000-police-in-resorts-and-beaches-following-the-attack-on-tourists-on-friday.md) _2017-08-27 03:42:36 (First version)_
+1. [Tunisia deploys an additional 1000 police in resorts and beaches following the attack on tourists on Friday. ](/news/2015/06/28/tunisia-deploys-an-additional-1000-police-in-resorts-and-beaches-following-the-attack-on-tourists-on-friday.md) _(Current version)_

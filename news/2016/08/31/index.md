@@ -31,7 +31,7 @@ MANILA -- China must cease all provocations in the South China Sea before the Ph
 _Context: Donald Trump, Enrique Pena Nieto, Mexico City, Mexico-United States relations, President, Republican, United States presidential election, 2016_
 
 ### [Singer Chris Brown is released on a US$ 250,000 bail for an assault charge. ](/news/2016/08/31/singer-chris-brown-is-released-on-a-us-250-000-bail-for-an-assault-charge.md)
-_Context: Chris Brown, US$_
+_Context: $, Chris Brown_
 
 ### [More than 2,000 people have reportedly died in the Philippine Drug War. ](/news/2016/08/31/more-than-2-000-people-have-reportedly-died-in-the-philippine-drug-war.md)
 The wave of killings unleashed since President Duterte came to power has alarmed rights groups and brought expressions of concern from the US, a close ally.

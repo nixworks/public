@@ -23,3 +23,8 @@ Stephen Harper has been re-elected and will head a majority Conservative governm
 3. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canada_
 4. [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C. A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md) _Context: Canada_
 5. [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md) _Context: Canada_
+
+### Changes:
+
+1. [Canadian federal election, 2011: Voters in Canada go to the polls for a federal election. ](/news/2011/05/2/canadian-federal-election-2011-voters-in-canada-go-to-the-polls-for-a-federal-election.md) _2017-08-27 03:33:07 (First version)_
+1. [Voters in Canada go to the polls for a federal election. ](/news/2011/05/2/voters-in-canada-go-to-the-polls-for-a-federal-election.md) _(Current version)_

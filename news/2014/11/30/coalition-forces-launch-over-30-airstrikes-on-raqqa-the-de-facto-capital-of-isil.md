@@ -17,3 +17,8 @@
 3. [The Russian Ministry of Defence says its forces may have killed ISIL's leader Abu Bakr al-Baghdadi in an airstrike, south of Raqqa on 28 May, and currently is seeking confirmation. ](/news/2017/06/16/the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bakr-al-baghdadi-in-an-airstrike-south-of-raqqa-on-28-may.md) _Context: Islamic State, Raqqa_
 4. [The United States Marine Corps' 11th Marine Expeditionary Unit arrives in Syria ahead of a Syrian Democratic Forces operation to take control of ISIL's de facto capital of Raqqa. ](/news/2017/03/8/the-united-states-marine-corps-11th-marine-expeditionary-unit-arrives-in-syria-ahead-of-a-syrian-democratic-forces-operation-to-take-contro.md) _Context: Islamic State, Raqqa_
 5. [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md) _Context: Islamic State, Raqqa_
+
+### Changes:
+
+1. [Islamic State of Iraq and the Levant: Coalition forces launch over 30 airstrikes on Raqqa, the "de facto" capital of ISIL. ](/news/2014/11/30/islamic-state-of-iraq-and-the-levant-coalition-forces-launch-over-30-airstrikes-on-raqqa-the-de-facto-capital-of-isil.md) _2017-08-27 03:41:34 (First version)_
+1. [Coalition forces launch over 30 airstrikes on Raqqa, the "de facto" capital of ISIL. ](/news/2014/11/30/coalition-forces-launch-over-30-airstrikes-on-raqqa-the-de-facto-capital-of-isil.md) _(Current version)_

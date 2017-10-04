@@ -18,3 +18,8 @@ A fire and riot broke out Thursday at a prison in northern Mexico, killing at le
 3. [Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/alleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md) _Context: Monterrey_
 4. [Mexican Drug War: 49 dismembered bodies are discovered by Mexican authorities on Mexican Federal Highway 40. The decapitated and mutilated bodies were dumped on a roadside near the northern city of Monterrey, presumably by members of the powerful Los Zetas drug cartel. ](/news/2012/05/13/mexican-drug-war-49-dismembered-bodies-are-discovered-by-mexican-authorities-on-mexican-federal-highway-40-the-decapitated-and-mutilated-b.md) _Context: Monterrey_
 5. [Two Mexican police officers assigned to guard the United States consulate in Monterrey are killed in a drive-by shooting while off duty. ](/news/2011/07/22/two-mexican-police-officers-assigned-to-guard-the-united-states-consulate-in-monterrey-are-killed-in-a-drive-by-shooting-while-off-duty.md) _Context: Monterrey_
+
+### Changes:
+
+1. [Topo Chico prison riot: At least 52 inmates are killed in a riot and fire at Topo Chico prison in Monterrey, Mexico. ](/news/2016/02/11/topo-chico-prison-riot-at-least-52-inmates-are-killed-in-a-riot-and-fire-at-topo-chico-prison-in-monterrey-mexico.md) _2017-08-27 03:44:53 (First version)_
+1. [At least 52 inmates are killed in a riot and fire at Topo Chico prison in Monterrey, Mexico. ](/news/2016/02/11/at-least-52-inmates-are-killed-in-a-riot-and-fire-at-topo-chico-prison-in-monterrey-mexico.md) _(Current version)_

@@ -17,3 +17,8 @@ The Nobel laureate, known for his fight for democracy and human rights, was suff
 3. [The Nobel Peace Prize winner Liu Xiaobo is in "critical condition," according to Chinese doctors. ](/news/2017/07/10/the-nobel-peace-prize-winner-liu-xiaobo-is-in-critical-condition-according-to-chinese-doctors.md) _Context: Human rights in China, Liu Xiaobo, Nobel Peace Prize_
 4. [The Nobel Committee says the Nobel Peace Prize for Liu Xiaobo may not be handed out this year as China will not allow anyone from his family to attend the event. ](/news/2010/11/18/the-nobel-committee-says-the-nobel-peace-prize-for-liu-xiaobo-may-not-be-handed-out-this-year-as-china-will-not-allow-anyone-from-his-family.md) _Context: China, Liu Xiaobo, Nobel Peace Prize_
 5. [Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spoke-up-against-hum.md) _Context: China, Human rights in China_
+
+### Changes:
+
+1. [Human rights in China: Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies. ](/news/2017/07/13/human-rights-in-china-prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md) _2017-08-27 03:48:39 (First version)_
+1. [Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies. ](/news/2017/07/13/prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md) _(Current version)_

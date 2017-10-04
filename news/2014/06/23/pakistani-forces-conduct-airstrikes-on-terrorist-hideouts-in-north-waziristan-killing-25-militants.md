@@ -17,3 +17,9 @@
 3. [Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _Context: North Waziristan, Pakistan_
 4. [A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/a-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan-s-border-with-afghanistan.md) _Context: North Waziristan, Pakistan_
 5. [The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/the-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakistan-rises-to-16.md) _Context: North Waziristan, Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan:Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/war-in-north-west-pakistan-ppakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md) _2017-08-25 03:40:35 (First version)_
+2. [War in North-West Pakistan:: Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/war-in-north-west-pakistan-pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md) _2017-08-27 03:40:53 (Update)_
+2. [Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md) _(Current version)_

@@ -17,3 +17,8 @@ At least three children were killed and 20 people wounded by a blast in the Liby
 3. [A car bomb explodes near a hospital in the Libyan city of Benghazi, killing at least nine people. ](/news/2013/05/13/a-car-bomb-explodes-near-a-hospital-in-the-libyan-city-of-benghazi-killing-at-least-nine-people.md) _Context: Benghazi, car bomb_
 4. [The International Criminal Court issues an arrest warrant against Mahmoud al-Werfalli for the war crime of murder following the circulation of several videos in which he appears to oversee the execution of over 30 prisoners. ](/news/2017/08/15/the-international-criminal-court-issues-an-arrest-warrant-against-mahmoud-al-werfalli-for-the-war-crime-of-murder-following-the-circulation.md) _Context: Libyan Civil War_
 5. [At least 18 people are killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/at-least-18-people-are-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanistan.md) _Context: car bomb_
+
+### Changes:
+
+1. [Libyan Civil War: A car bomb in Benghazi kills three children and injures 20 others. ](/news/2016/11/21/libyan-civil-war-a-car-bomb-in-benghazi-kills-three-children-and-injures-20-others.md) _2017-08-27 03:47:16 (First version)_
+1. [A car bomb in Benghazi kills three children and injures 20 others. ](/news/2016/11/21/a-car-bomb-in-benghazi-kills-three-children-and-injures-20-others.md) _(Current version)_

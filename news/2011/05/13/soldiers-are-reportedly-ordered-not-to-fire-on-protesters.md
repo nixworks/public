@@ -11,3 +11,9 @@ Syrian President Bashar al-Assad has ordered troops not to fire on pro-democracy
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13391828)
 3. [Buenos Aires Herald](http://www.buenosairesherald.com/article/66907/syrias-assad-reported-to-have-ordered-no-shooting)
 3. [Cover Image](/files/imagenes//201105/66907_12_160126.jpg)
+
+### Changes:
+
+1. [2011 Syrian uprising:Soldiers are reportedly ordered not to fire on protesters. ](/news/2011/05/13/2011-syrian-uprising-psoldiers-are-reportedly-ordered-not-to-fire-on-protesters.md) _2017-08-25 03:33:05 (First version)_
+2. [2011 Syrian uprising:: Soldiers are reportedly ordered not to fire on protesters. ](/news/2011/05/13/2011-syrian-uprising-soldiers-are-reportedly-ordered-not-to-fire-on-protesters.md) _2017-08-27 03:33:15 (Update)_
+2. [Soldiers are reportedly ordered not to fire on protesters. ](/news/2011/05/13/soldiers-are-reportedly-ordered-not-to-fire-on-protesters.md) _(Current version)_

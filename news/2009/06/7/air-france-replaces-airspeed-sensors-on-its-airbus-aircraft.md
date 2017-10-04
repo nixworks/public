@@ -20,3 +20,9 @@ Search crews have spotted more bodies and found a large amount of debris from th
 3. [NATO allies agree to send aircraft and ships to strengthen Turkey's Syrian border air defenses and avoid incidents similar to November's downing of a Russian jet. ](/news/2015/12/18/nato-allies-agree-to-send-aircraft-and-ships-to-strengthen-turkey-s-syrian-border-air-defenses-and-avoid-incidents-similar-to-november-s-dow.md) _Context: aircraft_
 4. [Ten gunmen storm the five-star Radisson Blu Hotel in the Malian capital Bamako, taking 170 hostages with at least 27 people killed. The grenade-toting assailants free captives who are able to recite the Quran. The hotel is "often used" by Air France staff. ](/news/2015/11/20/ten-gunmen-storm-the-five-star-radisson-blu-hotel-in-the-malian-capital-bamako-taking-170-hostages-with-at-least-27-people-killed-the-gren.md) _Context: Air France_
 5. [China's government-owned Comac launches the Comac C919 as part of its efforts to challenge Boeing and Airbus. ](/news/2015/11/2/china-s-government-owned-comac-launches-the-comac-c919-as-part-of-its-efforts-to-challenge-boeing-and-airbus.md) _Context: Airbus_
+
+### Changes:
+
+1. [ Air France Flight 447: Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-flight-447-p-air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md) _2017-08-25 03:24:48 (First version)_
+2. [ Air France Flight 447:: Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-flight-447-air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md) _2017-08-27 03:24:39 (Update)_
+2. [ Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md) _(Current version)_

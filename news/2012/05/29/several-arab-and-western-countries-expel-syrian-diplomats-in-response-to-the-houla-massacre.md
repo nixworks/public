@@ -19,3 +19,9 @@ Japan and Turkey join 11 countries in concerted move over massacre as Annan says
 3. [Several nations, including Turkey, Germany and Canada, expel Syrian diplomats in response to the May 25 Houla massacre. ](/news/2012/05/30/several-nations-including-turkey-germany-and-canada-expel-syrian-diplomats-in-response-to-the-may-25-houla-massacre.md) _Context: Syria, massacre_
 4. [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md) _Context: Syria_
 5. [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md) _Context: Syria_
+
+### Changes:
+
+1. [Syrian uprising:Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/syrian-uprising-pseveral-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md) _2017-08-25 03:35:46 (First version)_
+2. [Syrian uprising:: Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/syrian-uprising-several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md) _2017-08-27 03:35:57 (Update)_
+2. [Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md) _(Current version)_

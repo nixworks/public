@@ -16,3 +16,8 @@ BAGHDAD (Reuters) - Three bombs exploded in Shi&#x27;ite parts of Baghdad on Mon
 3. [Protesters demanding political reform leave Baghdad's Green Zone after camping for 24 hours in the heavily fortified government district. These activists, followers of Shi'ite Muslim cleric Muqtada al-Sadr, support Prime Minister Haider al-Abadi's anti-corruption proposals to replace party-affiliated ministers with technocrats. A grid-locked parliament has been unable to act on these changes. ](/news/2016/05/1/protesters-demanding-political-reform-leave-baghdad-s-green-zone-after-camping-for-24-hours-in-the-heavily-fortified-government-district-th.md) _Context: Baghdad, Shi'ite_
 4. [A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. ](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.md) _Context: Baghdad, Shi'ite_
 5. [Two explosions in Baghdad kill at least 13 people and injure dozens. ](/news/2015/05/2/two-explosions-in-baghdad-kill-at-least-13-people-and-injure-dozens.md) _Context: Baghdad, Iraqi insurgency (2011-present)_
+
+### Changes:
+
+1. [Iraqi insurgency (2011-present): Three bombs explode in Shi'ite areas of Baghdad killing at least 30 people. ](/news/2014/10/13/iraqi-insurgency-2011-present-three-bombs-explode-in-shi-ite-areas-of-baghdad-killing-at-least-30-people.md) _2017-08-27 03:41:24 (First version)_
+1. [Three bombs explode in Shi'ite areas of Baghdad killing at least 30 people. ](/news/2014/10/13/three-bombs-explode-in-shi-ite-areas-of-baghdad-killing-at-least-30-people.md) _(Current version)_

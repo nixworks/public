@@ -17,3 +17,8 @@
 3. [Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/philippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-give-autonomy-to-filipino-muslims-in-ba.md) _Context: Filipino Muslims, Philippines_
 4. [More than 40 people are killed on Mindanao between the Philippine government and armed groups opposed to the peace deal between the Philippines and the Moro Islamic Liberation Front. ](/news/2014/01/29/more-than-40-people-are-killed-on-mindanao-between-the-philippine-government-and-armed-groups-opposed-to-the-peace-deal-between-the-philippi.md) _Context: Civil conflict in the Philippines, Philippines_
 5. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
+
+### Changes:
+
+1. [Civil conflict in the Philippines: The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/civil-conflict-in-the-philippines-the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md) _2017-08-27 03:40:15 (First version)_
+1. [The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md) _(Current version)_

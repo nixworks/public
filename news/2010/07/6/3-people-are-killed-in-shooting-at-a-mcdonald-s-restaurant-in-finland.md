@@ -16,3 +16,8 @@
 3. [At least two people are reportedly killed, and several others wounded in a stabbing in Turku, Finland. Police said they arrested one person after a shootout and had launched a manhunt for other possible attackers. ](/news/2017/08/18/at-least-two-people-are-reportedly-killed-and-several-others-wounded-in-a-stabbing-in-turku-finland-police-said-they-arrested-one-person.md) _Context: Finland_
 4. [In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md) _Context: Europe_
 5. [Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/voters-go-to-the-polls-for-municipal-elections-in-finland.md) _Context: Finland_
+
+### Changes:
+
+1. [Europe: 3 people are killed in shooting at a McDonald's restaurant in Finland. ](/news/2010/07/6/europe-3-people-are-killed-in-shooting-at-a-mcdonald-s-restaurant-in-finland.md) _2017-08-27 03:28:36 (First version)_
+1. [3 people are killed in shooting at a McDonald's restaurant in Finland. ](/news/2010/07/6/3-people-are-killed-in-shooting-at-a-mcdonald-s-restaurant-in-finland.md) _(Current version)_

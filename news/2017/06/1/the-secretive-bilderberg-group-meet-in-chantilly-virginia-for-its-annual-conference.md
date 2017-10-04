@@ -17,3 +17,8 @@ At the top of the agenda in the Virginia forum is assessing how the Trump admini
 3. [The 64th annual conference of the secretive Bilderberg Group takes place at the Taschenbergpalais hotel in Dresden, Germany. ](/news/2016/06/9/the-64th-annual-conference-of-the-secretive-bilderberg-group-takes-place-at-the-taschenbergpalais-hotel-in-dresden-germany.md) _Context: Bilderberg Group_
 4. [UK premier David Cameron attracts criticism for attending the 61st annual summit of the secretive Bilderberg Group at The Grove, Watford. ](/news/2013/06/7/uk-premier-david-cameron-attracts-criticism-for-attending-the-61st-annual-summit-of-the-secretive-bilderberg-group-at-the-grove-watford.md) _Context: Bilderberg Group_
 5. [Delegates, among them billionaire businessmen, royalty and elected politicians, arrive in England for the 61st summit of the annual Bilderberg Group at The Grove, Watford. ](/news/2013/06/6/delegates-among-them-billionaire-businessmen-royalty-and-elected-politicians-arrive-in-england-for-the-61st-summit-of-the-annual-bilderbe.md) _Context: Bilderberg Group_
+
+### Changes:
+
+1. [2017 Bilderberg Conference: The secretive Bilderberg Group meet in Chantilly, Virginia, for its annual conference. ](/news/2017/06/1/2017-bilderberg-conference-the-secretive-bilderberg-group-meet-in-chantilly-virginia-for-its-annual-conference.md) _2017-08-27 03:48:25 (First version)_
+1. [The secretive Bilderberg Group meet in Chantilly, Virginia, for its annual conference. ](/news/2017/06/1/the-secretive-bilderberg-group-meet-in-chantilly-virginia-for-its-annual-conference.md) _(Current version)_

@@ -14,3 +14,9 @@
 ### Related:
 
 1. [Syrian residents from the town of Jisr al-Shugur flee from a threatened reprisal from the government of President Bashar al-Assad. ](/news/2011/06/8/syrian-residents-from-the-town-of-jisr-al-shugur-flee-from-a-threatened-reprisal-from-the-government-of-president-bashar-al-assad.md) _Context: Jisr al-Shugur_
+
+### Changes:
+
+1. [2011 Syrian uprising:Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/2011-syrian-uprising-psyrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md) _2017-08-25 03:33:28 (First version)_
+2. [2011 Syrian uprising:: Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/2011-syrian-uprising-syrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md) _2017-08-27 03:33:36 (Update)_
+2. [Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/syrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md) _(Current version)_

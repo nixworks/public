@@ -18,3 +18,8 @@
 3. [The 2010 FIFA World Cup runner-up Netherlands national football team embarks on an open-top boat tour of Amsterdam's canals drinking beer, lined by hundreds of thousands of people. ](/news/2010/07/13/the-2010-fifa-world-cup-runner-up-netherlands-national-football-team-embarks-on-an-open-top-boat-tour-of-amsterdam-s-canals-drinking-beer-l.md) _Context: 2010 FIFA World Cup Final, Netherlands_
 4. [Spain's victorious 2010 FIFA World Cup "campeones" return to Madrid where they are met by millions of people in the streets, the royal family and politicians. ](/news/2010/07/12/spain-s-victorious-2010-fifa-world-cup-campeones-return-to-madrid-where-they-are-met-by-millions-of-people-in-the-streets-the-royal-famil.md) _Context: 2010 FIFA World Cup Final, Spain_
 5. [2010 FIFA World Cup: Germany defeats Uruguay 3-2 to finish third. ](/news/2010/07/10/2010-fifa-world-cup-germany-defeats-uruguay-3-2-to-finish-third.md) _Context: Germany, third_
+
+### Changes:
+
+1. [FIFA World Cup 2010: Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/fifa-world-cup-2010-spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world.md) _2017-08-27 03:28:37 (First version)_
+1. [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md) _(Current version)_

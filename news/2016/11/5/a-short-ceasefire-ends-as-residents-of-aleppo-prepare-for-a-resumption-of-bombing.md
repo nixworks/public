@@ -17,3 +17,8 @@ Syrian rebels and civilians refuse to leave the besieged city of Aleppo as a cea
 3. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo_
 4. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Aleppo_
 5. [ Russia and the United States will continue talks on Aleppo after talks between the U.S. Secretary of State John Kerry and Foreign Minister Sergey Lavrov. ](/news/2016/12/9/russia-and-the-united-states-will-continue-talks-on-aleppo-after-talks-between-the-u-s-secretary-of-state-john-kerry-and-foreign-minister.md) _Context: Battle of Aleppo_
+
+### Changes:
+
+1. [Battle of Aleppo: A short ceasefire ends as residents of Aleppo prepare for a resumption of bombing. ](/news/2016/11/5/battle-of-aleppo-a-short-ceasefire-ends-as-residents-of-aleppo-prepare-for-a-resumption-of-bombing.md) _2017-08-27 03:47:11 (First version)_
+1. [A short ceasefire ends as residents of Aleppo prepare for a resumption of bombing. ](/news/2016/11/5/a-short-ceasefire-ends-as-residents-of-aleppo-prepare-for-a-resumption-of-bombing.md) _(Current version)_

@@ -17,3 +17,8 @@ Flash floods killed at least 13 people and injured 31 in central Vietnam this we
 3. [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md) _Context: Vietnam_
 4. [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md) _Context: Vietnam_
 5. [An Indonesian maritime patrol boat, the "KM Hiu Macan 001", intercepts five boats and arrested 55 Vietnamese crew members for allegedly poaching off Natuna Islands, but after an unexpected aggressive intervention by Vietnamese coast guards forces the Indonesian authorities to back off, release the arrested men and return to base empty handed. ](/news/2017/05/21/an-indonesian-maritime-patrol-boat-the-km-hiu-macan-001-intercepts-five-boats-and-arrested-55-vietnamese-crew-members-for-allegedly-poac.md) _Context: Vietnam_
+
+### Changes:
+
+1. [ Flash floods in central Vietnam kill at least 13 people and injure 31 with 14,000 homes submerged in Quang Tri, Quang Binh and Quang Nam provinces. ](/news/2007/11/1/flash-floods-in-central-vietnam-kill-at-least-13-people-and-injure-31-with-14-000-homes-submerged-in-quaopsng-tra-quaopsng-ba-nh-and-quaops.md) _2017-08-25 03:21:17 (First version)_
+1. [ Flash floods in central Vietnam kill at least 13 people and injure 31 with 14,000 homes submerged in QuGBPng Tri, QuGBPng Binh and QuGBPng Nam provinces. ](/news/2007/11/1/flash-floods-in-central-vietnam-kill-at-least-13-people-and-injure-31-with-14-000-homes-submerged-in-quaogbpng-tra-quaogbpng-ba-nh-and-q.md) _(Current version)_

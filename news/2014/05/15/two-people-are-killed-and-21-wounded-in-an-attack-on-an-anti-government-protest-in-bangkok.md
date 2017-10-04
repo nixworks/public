@@ -17,3 +17,9 @@ Two people were killed and 21 were wounded in an attack early Thursday on an ant
 3. [The Government of Thailand declares 60-day state of emergency in Bangkok and surrounding provinces from tomorrow as anti-government protests continue. ](/news/2014/01/21/the-government-of-thailand-declares-60-day-state-of-emergency-in-bangkok-and-surrounding-provinces-from-tomorrow-as-anti-government-protests.md) _Context: Bangkok, Royal Thai Government_
 4. [ Thousands of protestors from the National United Front of Democracy Against Dictatorship call on the government to resign in Bangkok, Thailand. ](/news/2009/06/27/thousands-of-protestors-from-the-national-united-front-of-democracy-against-dictatorship-call-on-the-government-to-resign-in-bangkok-thail.md) _Context: Bangkok, Royal Thai Government_
 5. [ Thai Prime Minister Abhisit Vejjajiva says that anti-government protests in Bangkok are "under control". ](/news/2009/04/13/thai-prime-minister-abhisit-vejjajiva-says-that-anti-government-protests-in-bangkok-are-under-control.md) _Context: Bangkok, Royal Thai Government_
+
+### Changes:
+
+1. [2013-14 Thai political crisis:Two people are killed and 21 wounded in an attack on an anti-government protest in Bangkok. ](/news/2014/05/15/2013a14-thai-political-crisis-ptwo-people-are-killed-and-21-wounded-in-an-attack-on-an-anti-government-protest-in-bangkok.md) _2017-08-25 03:40:24 (First version)_
+2. [2013-14 Thai political crisis:: Two people are killed and 21 wounded in an attack on an anti-government protest in Bangkok. ](/news/2014/05/15/2013-14-thai-political-crisis-two-people-are-killed-and-21-wounded-in-an-attack-on-an-anti-government-protest-in-bangkok.md) _2017-08-27 03:40:42 (Update)_
+2. [Two people are killed and 21 wounded in an attack on an anti-government protest in Bangkok. ](/news/2014/05/15/two-people-are-killed-and-21-wounded-in-an-attack-on-an-anti-government-protest-in-bangkok.md) _(Current version)_

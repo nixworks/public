@@ -16,3 +16,8 @@
 3. [At least two people are killed and dozens more are wounded in a suicide bombing in Jalalabad, Nangarhar Province. ](/news/2016/07/2/at-least-two-people-are-killed-and-dozens-more-are-wounded-in-a-suicide-bombing-in-jalalabad-nangarhar-province.md) _Context: Nangarhar Province, War in Afghanistan_
 4. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: War in Afghanistan_
 5. [A car bomb in Helmand Province kills up to 13 people, including Afghan Army soldiers and civilians, and wounds 18 others, according to government spokesman Omar Zwak. ](/news/2017/08/27/a-car-bomb-in-helmand-province-kills-up-to-13-people-including-afghan-army-soldiers-and-civilians-and-wounds-18-others-according-to-gover.md) _Context: War in Afghanistan_
+
+### Changes:
+
+1. [War in Afghanistan: At least seven people are killed when their vehicle hits a roadside bomb in Nangarhar Province. ](/news/2017/01/15/war-in-afghanistan-at-least-seven-people-are-killed-when-their-vehicle-hits-a-roadside-bomb-in-nangarhar-province.md) _2017-08-27 03:47:36 (First version)_
+1. [At least seven people are killed when their vehicle hits a roadside bomb in Nangarhar Province. ](/news/2017/01/15/at-least-seven-people-are-killed-when-their-vehicle-hits-a-roadside-bomb-in-nangarhar-province.md) _(Current version)_

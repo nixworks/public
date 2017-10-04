@@ -18,3 +18,8 @@ Colombia said Friday that three people had died after contracting the Zika virus
 3. [Jamaican health officials confirm the country's first case of the Zika virus in a 4-year-old child who recently returned from a trip to Texas. ](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.md) _Context: Zika virus, Zika virus outbreak in the Americas (2015-present)_
 4. [The World Health Organization forms an emergency committee to tackle the spread of the Zika virus in the Americas. ](/news/2016/01/28/the-world-health-organization-forms-an-emergency-committee-to-tackle-the-spread-of-the-zika-virus-in-the-americas.md) _Context: Zika virus, Zika virus outbreak in the Americas (2015-present)_
 5. [Virologists find the Zika virus in Australian tourists returning from South America. ](/news/2016/01/26/virologists-find-the-zika-virus-in-australian-tourists-returning-from-south-america.md) _Context: Zika virus, Zika virus outbreak in the Americas (2015-present)_
+
+### Changes:
+
+1. [Zika virus outbreak in the Americas (2015-present): Three people die in Colombia after contracting the Zika virus and developing Guillain-Barre syndrome. ](/news/2016/02/5/zika-virus-outbreak-in-the-americas-2015-present-three-people-die-in-colombia-after-contracting-the-zika-virus-and-developing-guillain.md) _2017-08-27 03:44:50 (First version)_
+1. [Three people die in Colombia after contracting the Zika virus and developing Guillain-Barre syndrome. ](/news/2016/02/5/three-people-die-in-colombia-after-contracting-the-zika-virus-and-developing-guillainabarra-c-syndrome.md) _(Current version)_

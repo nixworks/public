@@ -17,3 +17,9 @@ Grenade attack destroys a minibus in a Somali-dominated neighbourhood of the cap
 3. [Heavy rain in Nairobi, Kenya, causes floods killing at least four people. ](/news/2016/04/29/heavy-rain-in-nairobi-kenya-causes-floods-killing-at-least-four-people.md) _Context: Kenya, Nairobi_
 4. [The World Trade Organization approves Afghanistan's membership at its 10th ministerial conference in Nairobi, Kenya. Afghanistan becomes the 164th WTO member and is the 36th least developed country (LDC) in the global trade body. ](/news/2015/12/17/the-world-trade-organization-approves-afghanistan-s-membership-at-its-10th-ministerial-conference-in-nairobi-kenya-afghanistan-becomes-the.md) _Context: Kenya, Nairobi_
 5. [As many as 53 members of the World Trade Organization sign an agreement in Nairobi, Kenya, to remove import tariffs on 201 information technology products that account for trade of $1.3 trillion annually. ](/news/2015/12/16/as-many-as-53-members-of-the-world-trade-organization-sign-an-agreement-in-nairobi-kenya-to-remove-import-tariffs-on-201-information-techn.md) _Context: Kenya, Nairobi_
+
+### Changes:
+
+1. [2012 terrorist attacks in Kenya:Five people are killed after a grenade destroys a bus in Nairobi, Kenya. ](/news/2012/11/18/2012-terrorist-attacks-in-kenya-pfive-people-are-killed-after-a-grenade-destroys-a-bus-in-nairobi-kenya.md) _2017-08-25 03:36:50 (First version)_
+2. [2012 terrorist attacks in Kenya:: Five people are killed after a grenade destroys a bus in Nairobi, Kenya. ](/news/2012/11/18/2012-terrorist-attacks-in-kenya-five-people-are-killed-after-a-grenade-destroys-a-bus-in-nairobi-kenya.md) _2017-08-27 03:36:59 (Update)_
+2. [Five people are killed after a grenade destroys a bus in Nairobi, Kenya. ](/news/2012/11/18/five-people-are-killed-after-a-grenade-destroys-a-bus-in-nairobi-kenya.md) _(Current version)_

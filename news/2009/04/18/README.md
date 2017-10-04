@@ -7,7 +7,7 @@ A source in the Spanish government says ETA&#039;s military chief has been arres
 _Context: Americans, Canada, HMCS ''Winnipeg'', Norway, Somali pirates, Somalian, USS ''Halyburton'', oil tanker_
 
 ### [ Iranian-American journalist Roxana Saberi is charged with espionage and imprisoned in Iran until 2017. ](/news/2009/04/18/iranian-american-journalist-roxana-saberi-is-charged-with-espionage-and-imprisoned-in-iran-until-2017.md)
-_Context: Iran, Iranian-American, Roxana Saberi, espionage, journalism_
+_Context: Iran, Iranian-American, Roxana Saberi, journalism, spy_
 
 ### [ An explosion at a warehouse kills at least 18 people in Hunan Province, China. ](/news/2009/04/18/an-explosion-at-a-warehouse-kills-at-least-18-people-in-hunan-province-china.md)
 _Context: China, Hunan, explosion, warehouse_

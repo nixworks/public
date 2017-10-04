@@ -14,3 +14,8 @@ Ukraine appealed to Russia to halt &quot;provocative actions&quot; in its easter
 
 1. [Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md) _Context: 2014 pro-Russian protests in Ukraine_
 2. [Ukraine launches a "full-scale anti-terrorist operation" against pro-Russian protesters who have captured police and security forces buildings in the town of Slaviansk. ](/news/2014/04/13/ukraine-launches-a-full-scale-anti-terrorist-operation-against-pro-russian-protesters-who-have-captured-police-and-security-forces-buildin.md) _Context: Slaviansk_
+
+### Changes:
+
+1. [2014 pro-Russian protests in Ukraine: Gunmen gain control of a police department in the town of Slaviansk in the eastern Ukraine. ](/news/2014/04/12/2014-pro-russian-protests-in-ukraine-gunmen-gain-control-of-a-police-department-in-the-town-of-slaviansk-in-the-eastern-ukraine.md) _2017-08-27 03:40:34 (First version)_
+1. [Gunmen gain control of a police department in the town of Slaviansk in the eastern Ukraine. ](/news/2014/04/12/gunmen-gain-control-of-a-police-department-in-the-town-of-slaviansk-in-the-eastern-ukraine.md) _(Current version)_

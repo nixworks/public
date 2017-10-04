@@ -18,3 +18,8 @@ The attack targeted buses carrying Shia pilgrims to the Bab al-Saghir cemetery s
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus, Syrian Civil War_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus, Syrian Civil War_
 5. [According to the Syrian Observatory for Human Rights, at least 38 people are killed, including civilians and Syrian Democratic Forces fighters, after ISIL militants attack a camp for displaced Syrian and Iraqi refugees near Al-Shaddadah, Al-Hasakah Governorate. ](/news/2017/05/2/according-to-the-syrian-observatory-for-human-rights-at-least-38-people-are-killed-including-civilians-and-syrian-democratic-forces-fighte.md) _Context: Iraq, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: Twin bombings kill at least 40 people, mostly Shia Iraqi pilgrims, and wound over 100 in the Bab al-Saghir area of Damascus. ](/news/2017/03/11/syrian-civil-war-twin-bombings-kill-at-least-40-people-mostly-shia-iraqi-pilgrims-and-wound-over-100-in-the-bab-al-saghir-area-of-damascu.md) _2017-08-27 03:47:58 (First version)_
+1. [Twin bombings kill at least 40 people, mostly Shia Iraqi pilgrims, and wound over 100 in the Bab al-Saghir area of Damascus. ](/news/2017/03/11/twin-bombings-kill-at-least-40-people-mostly-shia-iraqi-pilgrims-and-wound-over-100-in-the-bab-al-saghir-area-of-damascus.md) _(Current version)_

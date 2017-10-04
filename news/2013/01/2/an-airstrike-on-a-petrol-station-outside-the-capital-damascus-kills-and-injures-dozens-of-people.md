@@ -18,3 +18,9 @@ Warplane destroys petrol station near Damascus, killing and wounding dozens and 
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [Syrian civil war:An airstrike on a petrol station outside the capital Damascus kills and injures dozens of people. ](/news/2013/01/2/syrian-civil-war-pan-airstrike-on-a-petrol-station-outside-the-capital-damascus-kills-and-injures-dozens-of-people.md) _2017-08-25 03:37:11 (First version)_
+2. [Syrian civil war:: An airstrike on a petrol station outside the capital Damascus kills and injures dozens of people. ](/news/2013/01/2/syrian-civil-war-an-airstrike-on-a-petrol-station-outside-the-capital-damascus-kills-and-injures-dozens-of-people.md) _2017-08-27 03:37:21 (Update)_
+2. [An airstrike on a petrol station outside the capital Damascus kills and injures dozens of people. ](/news/2013/01/2/an-airstrike-on-a-petrol-station-outside-the-capital-damascus-kills-and-injures-dozens-of-people.md) _(Current version)_

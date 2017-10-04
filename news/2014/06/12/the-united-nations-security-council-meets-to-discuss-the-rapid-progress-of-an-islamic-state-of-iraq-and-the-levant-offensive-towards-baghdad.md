@@ -18,3 +18,8 @@ Stay up-to-date with the latest developments in the ongoing IS battle in Iraq an
 3. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad, Islamic State_
 4. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad, Islamic State_
 5. [Twin suicide bombings at the Nakheel Mall in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-responsibility.md) _Context: Baghdad, Islamic State_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal): The United Nations Security Council meets to discuss the rapid progress of an Islamic State of Iraq and the Levant offensive towards Baghdad. ](/news/2014/06/12/iraqi-insurgency-post-u-s-withdrawal-the-united-nations-security-council-meets-to-discuss-the-rapid-progress-of-an-islamic-state-of-iraq.md) _2017-08-27 03:40:50 (First version)_
+1. [The United Nations Security Council meets to discuss the rapid progress of an Islamic State of Iraq and the Levant offensive towards Baghdad. ](/news/2014/06/12/the-united-nations-security-council-meets-to-discuss-the-rapid-progress-of-an-islamic-state-of-iraq-and-the-levant-offensive-towards-baghdad.md) _(Current version)_

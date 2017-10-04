@@ -13,7 +13,7 @@ _Context: Conrad Black, Securities and Exchange Commission, fraud_
 _Context: Serge Vohor, Taiwan, Vanuatu, diplomatic relations_
 
 ### [ U.S. President George W. Bush accepts the resignation of Secretary of State Colin Powell. He is the sixth Cabinet member to resign since the re-election of President Bush. [http:--www.cnn.com-2004-ALLPOLITICS-11-15-powell-index.html (CNN)] [http:--news.bbc.co.uk-2-hi-americas-4013621.stm (BBC)]. Other resignations today include Agriculture Secretary Ann Veneman [http:--www.reuters.com-newsArticle.jhtml?type=politicsNews&storyID=6816327 (Reuters)], Energy Secretary Spencer Abraham [http:--www.reuters.com-newsArticle.jhtml?type=politicsNews&storyID=6815887 (Reuters)] and Education Secretary Rod Paige.](/news/2004/11/15/u-s-president-george-w-bush-accepts-the-resignation-of-secretary-of-state-colin-powell-he-is-the-sixth-cabinet-member-to-resign-since-th.md)
-_Context: 2004 U.S. presidential candidate, Ann Veneman, Cabinet, Colin Powell, Energy, George W. Bush, Rod Paige, Spencer Abraham, U.S. President, United States Secretary of Agriculture, United States Secretary of Education, United States Secretary of State_
+_Context: 2004 U.S. presidential candidate, Ann Veneman, Cabinet, Colin Powell, Energy, George W. Bush, Rod Paige, Secretary of State, Spencer Abraham, U.S. President, United States Secretary of Agriculture, United States Secretary of Education_
 
 ### [ Bhutan announces a nationwide ban on tobacco sales. ](/news/2004/11/15/bhutan-announces-a-nationwide-ban-on-tobacco-sales.md)
 _Context: Bhutan, tobacco smoking_
@@ -22,7 +22,7 @@ _Context: Bhutan, tobacco smoking_
 _Context: 2012 Summer Olympics, International Olympic Committee, Madrid, Singapore_
 
 ### [ The United States Secretary of State is to visit the West Bank next week for talks, Palestinian Foreign Minister Nabil Shaath said today. ](/news/2004/11/15/the-united-states-secretary-of-state-is-to-visit-the-west-bank-next-week-for-talks-palestinian-foreign-minister-nabil-shaath-said-today.md)
-_Context: Nabil Shaath, Palestinian, United States Secretary of State, West Bank_
+_Context: Nabil Shaath, Palestinian, Secretary of State, West Bank_
 
 ### [ US troops in Falluja have launched new air strikes and artillery attacks against suspected rebel positions. ](/news/2004/11/15/us-troops-in-falluja-have-launched-new-air-strikes-and-artillery-attacks-against-suspected-rebel-positions.md)
 _Context: Falluja, US Troops_

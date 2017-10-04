@@ -9,3 +9,8 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 1. [ABC News](http://abcnews.go.com/Entertainment/wireStory/maureen-ohara-spirited-movie-star-dies-95-34703112)
 2. [AP](http://bigstory.ap.org/article/315a033607844f42a14d9bd2b8944012/maureen-ohara-spirited-movie-star-dies-95)
+
+### Changes:
+
+1. [Actress Maureen O'Hara dies in her sleep at her Boise, Idaho, home. "She passed peacefully surrounded by her loving family as they celebrated her life listening to music from her favorite movie, '' The Quiet Man''," said her family's statement. ](/news/2015/10/24/actress-maureen-o-hara-dies-in-her-sleep-at-her-boise-idaho-home-she-passed-peacefully-surrounded-by-her-loving-family-as-they-celebrat.md) _2017-08-25 03:43:11 (First version)_
+1. [Actress Maureen O'Hara dies in her sleep at her Boise, Idaho, home. "She passed peacefully surrounded by her loving family as they celebrated her life listening to music from her favorite movie, " The Quiet Man"," said her family's statement. ](/news/2015/10/24/actress-maureen-o-hara-dies-in-her-sleep-at-her-boise-idaho-home-she-passed-peacefully-surrounded-by-her-loving-family-as-they-celebrate.md) _(Current version)_

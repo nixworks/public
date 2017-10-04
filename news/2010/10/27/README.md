@@ -43,7 +43,7 @@ The death toll from a tsunami in western Indonesia rises to 282, officials say, 
 Nearly 100 people on board a fishing ship which is on fire 230 miles south-west of the Isles of Scilly take to life rafts.
 
 ### [A surprise trip by U.S. Secretary of State Hillary Clinton to China has been confirmed. ](/news/2010/10/27/a-surprise-trip-by-u-s-secretary-of-state-hillary-clinton-to-china-has-been-confirmed.md)
-_Context: China, Hillary Clinton, United States Secretary of State_
+_Context: China, Hillary Clinton, Secretary of State_
 
 ### [North Korea demands 500,000 tonnes of rice and 300,000 of fertilizer from South Korea in return for family reunions. ](/news/2010/10/27/north-korea-demands-500-000-tonnes-of-rice-and-300-000-of-fertilizer-from-south-korea-in-return-for-family-reunions.md)
 _Context: North Korea, South Korea_

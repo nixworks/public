@@ -16,3 +16,8 @@
 3. [Former United States Senator Arlen Specter, who was vital in several United States Supreme Court nominations, dies at the age of 82, due to complications of non-Hodgkin's lymphoma. ](/news/2012/10/14/former-united-states-senator-arlen-specter-who-was-vital-in-several-united-states-supreme-court-nominations-dies-at-the-age-of-82-due-to.md) _Context: United States Senate, United States Supreme Court_
 4. [The United States Senate confirms the nomination of Elena Kagan as an associate justice of the U.S. Supreme Court. ](/news/2010/08/5/the-united-states-senate-confirms-the-nomination-of-elena-kagan-as-an-associate-justice-of-the-u-s-supreme-court.md) _Context: United States Senate, United States Supreme Court_
 5. [ U.S. Senate confirmation hearings for United States Supreme Court nominee Sonia Sotomayor begin. ](/news/2009/07/13/u-s-senate-confirmation-hearings-for-united-states-supreme-court-nominee-sonia-sotomayor-begin.md) _Context: United States Senate, United States Supreme Court_
+
+### Changes:
+
+1. [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54-45-vote-in-the-united-states-senate-after.md) _2017-08-27 03:48:07 (First version)_
+1. [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md) _(Current version)_

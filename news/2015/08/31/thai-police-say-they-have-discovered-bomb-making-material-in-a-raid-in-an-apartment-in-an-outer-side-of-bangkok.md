@@ -16,3 +16,8 @@
 3. [A military court in Bangkok charges two men, Adem Karadag and Yusufu Miefaili, with offences related to the 2015 Bangkok bombing. ](/news/2015/11/24/a-military-court-in-bangkok-charges-two-men-adem-karadag-and-yusufu-miefaili-with-offences-related-to-the-2015-bangkok-bombing.md) _Context: 2015 Bangkok bombing, Bangkok_
 4. [Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md) _Context: 2015 Bangkok bombing, Bangkok_
 5. [Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-but-that-international.md) _Context: 2015 Bangkok bombing, Thai police officers_
+
+### Changes:
+
+1. [2015 Bangkok bombing: Thai police say they have discovered bomb-making material in a raid in an apartment in an outer side of Bangkok. ](/news/2015/08/31/2015-bangkok-bombing-thai-police-say-they-have-discovered-bomb-making-material-in-a-raid-in-an-apartment-in-an-outer-side-of-bangkok.md) _2017-08-27 03:42:56 (First version)_
+1. [Thai police say they have discovered bomb-making material in a raid in an apartment in an outer side of Bangkok. ](/news/2015/08/31/thai-police-say-they-have-discovered-bomb-making-material-in-a-raid-in-an-apartment-in-an-outer-side-of-bangkok.md) _(Current version)_

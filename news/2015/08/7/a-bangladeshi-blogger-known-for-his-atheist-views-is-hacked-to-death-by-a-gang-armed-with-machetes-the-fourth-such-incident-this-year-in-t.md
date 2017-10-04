@@ -19,3 +19,8 @@ Niloy Neel, a Bangladeshi blogger known for his atheist views, is hacked to deat
 3. [Faisal Abedin Deepan, a publisher of secular books, is hacked to death in Dhaka. ](/news/2015/10/31/faisal-abedin-deepan-a-publisher-of-secular-books-is-hacked-to-death-in-dhaka.md) _Context: Attacks on secularists in Bangladesh, Dhaka_
 4. [A garment factory boiler explosion in Dhaka, Bangladesh, kills 10 people and injures dozens. ](/news/2017/07/4/a-garment-factory-boiler-explosion-in-dhaka-bangladesh-kills-10-people-and-injures-dozens.md) _Context: Dhaka_
 5. [Gunmen storm a restaurant, exchange fire with security, and take at least twenty hostages in the Gulshan neighborhood of Dhaka, Bangladesh. Two policemen are killed. The Islamic State claims responsibility. ](/news/2016/07/1/gunmen-storm-a-restaurant-exchange-fire-with-security-and-take-at-least-twenty-hostages-in-the-gulshan-neighborhood-of-dhaka-bangladesh.md) _Context: Dhaka_
+
+### Changes:
+
+1. [Attacks on secularists in Bangladesh: A Bangladeshi blogger known for his atheist views is hacked to death by a gang armed with machetes, the fourth such incident this year, in the capital Dhaka. ](/news/2015/08/7/attacks-on-secularists-in-bangladesh-a-bangladeshi-blogger-known-for-his-atheist-views-is-hacked-to-death-by-a-gang-armed-with-machetes-th.md) _2017-08-27 03:42:47 (First version)_
+1. [A Bangladeshi blogger known for his atheist views is hacked to death by a gang armed with machetes, the fourth such incident this year, in the capital Dhaka. ](/news/2015/08/7/a-bangladeshi-blogger-known-for-his-atheist-views-is-hacked-to-death-by-a-gang-armed-with-machetes-the-fourth-such-incident-this-year-in-t.md) _(Current version)_

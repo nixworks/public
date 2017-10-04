@@ -49,7 +49,7 @@ Syria&#39;s opposition coalition has elected Ghassan Hitto to serve as prime min
 Plans for a new press watchdog able to impose million-pound fines and demand apologies are set out as a deal is struck between the three main parties after the phone-hacking scandal.
 
 ### [Former United States Secretary of State Hillary Clinton officially announces her support for same-sex marriage. ](/news/2013/03/18/former-united-states-secretary-of-state-hillary-clinton-officially-announces-her-support-for-same-sex-marriage.md)
-_Context: Americans, Hillary Clinton, United States Secretary of State, same-sex marriage_
+_Context: Americans, Hillary Clinton, Secretary of State, same-sex marriage_
 
 ### [US President Barack Obama nominates Assistant Attorney General Thomas Perez to be the next United States Secretary of Labor. ](/news/2013/03/18/us-president-barack-obama-nominates-assistant-attorney-general-thomas-perez-to-be-the-next-united-states-secretary-of-labor.md)
 UPDATE 12:09 p.m. ET President Barack Obama on Monday highlighted the professional experience as well as the background of Assistant Attorney General Tom Perez, head of the Justice Department&#x27;s Civil Rights Division, as he announced Perez&#x27;s nomination as the next secretary of labor. Obama ...

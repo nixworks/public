@@ -16,3 +16,8 @@
 3. [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _Context: Naxalite, Naxalite-Maoist insurgency_
 4. [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxaliteamaoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md) _Context: Naxalite, Naxalite-Maoist insurgency_
 5. [At least 11 Central Reserve Police Force troops are killed after their convoy is attacked by suspected Communist Party of India militants in Chhattisgarh. ](/news/2017/03/11/at-least-11-central-reserve-police-force-troops-are-killed-after-their-convoy-is-attacked-by-suspected-communist-party-of-india-militants-in.md) _Context: Naxalite-Maoist insurgency_
+
+### Changes:
+
+1. [Naxalite-Maoist insurgency: Seven police commandos are killed in a Naxalite attack in the Indian state of Maharashtra. ](/news/2014/05/11/naxalite-maoist-insurgency-seven-police-commandos-are-killed-in-a-naxalite-attack-in-the-indian-state-of-maharashtra.md) _2017-08-27 03:40:41 (First version)_
+1. [Seven police commandos are killed in a Naxalite attack in the Indian state of Maharashtra. ](/news/2014/05/11/seven-police-commandos-are-killed-in-a-naxalite-attack-in-the-indian-state-of-maharashtra.md) _(Current version)_

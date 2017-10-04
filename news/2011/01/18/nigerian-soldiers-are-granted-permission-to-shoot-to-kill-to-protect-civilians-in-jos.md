@@ -17,3 +17,9 @@
 3. [The death toll from recent violence between Christians and Muslims in Jos, Nigeria, rises to 80. Islamist group Boko Haram claims responsibility for the deadly Christmas Eve bombings in the city. ](/news/2010/12/28/the-death-toll-from-recent-violence-between-christians-and-muslims-in-jos-nigeria-rises-to-80-islamist-group-boko-haram-claims-responsibi.md) _Context: Jos, Nigeria_
 4. [Riot police are deployed to the streets of Jos in central Nigeria following clashes between ethnic groups and a bombing on Christmas Eve. ](/news/2010/12/27/riot-police-are-deployed-to-the-streets-of-jos-in-central-nigeria-following-clashes-between-ethnic-groups-and-a-bombing-on-christmas-eve.md) _Context: Jos, Nigeria_
 5. [Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/further-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md) _Context: Jos, Nigeria_
+
+### Changes:
+
+1. [Nigerian Sharia conflict:Nigerian soldiers are granted permission to shoot to kill "to protect civilians" in Jos. ](/news/2011/01/18/nigerian-sharia-conflict-pnigerian-soldiers-are-granted-permission-to-shoot-to-kill-to-protect-civilians-in-jos.md) _2017-08-25 03:31:50 (First version)_
+2. [Nigerian Sharia conflict:: Nigerian soldiers are granted permission to shoot to kill "to protect civilians" in Jos. ](/news/2011/01/18/nigerian-sharia-conflict-nigerian-soldiers-are-granted-permission-to-shoot-to-kill-to-protect-civilians-in-jos.md) _2017-08-27 03:31:57 (Update)_
+2. [Nigerian soldiers are granted permission to shoot to kill "to protect civilians" in Jos. ](/news/2011/01/18/nigerian-soldiers-are-granted-permission-to-shoot-to-kill-to-protect-civilians-in-jos.md) _(Current version)_

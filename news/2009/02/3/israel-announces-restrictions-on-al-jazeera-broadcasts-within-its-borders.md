@@ -17,3 +17,9 @@
 3. [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md) _Context: Israel_
 4. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _Context: Israel_
 5. [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md) _Context: Israel_
+
+### Changes:
+
+1. [ 2008-2009 Israel-Gaza conflict: Israel announces restrictions on Al Jazeera broadcasts within its borders. ](/news/2009/02/3/2008a2009-israelagaza-conflict-p-israel-announces-restrictions-on-al-jazeera-broadcasts-within-its-borders.md) _2017-08-25 03:23:39 (First version)_
+2. [ 2008-2009 Israel-Gaza conflict:: Israel announces restrictions on Al Jazeera broadcasts within its borders. ](/news/2009/02/3/2008-2009-israel-gaza-conflict-israel-announces-restrictions-on-al-jazeera-broadcasts-within-its-borders.md) _2017-08-27 03:23:31 (Update)_
+2. [ Israel announces restrictions on Al Jazeera broadcasts within its borders. ](/news/2009/02/3/israel-announces-restrictions-on-al-jazeera-broadcasts-within-its-borders.md) _(Current version)_

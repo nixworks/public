@@ -16,3 +16,8 @@
 3. [A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _Context: Earth_
 4. [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md) _Context: Earth_
 5. [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md) _Context: Earth_
+
+### Changes:
+
+1. [Scientists from the Harvard-Smithsonian Center for Astrophysics estimate that there are at least 17 billion planets approximately the size of Earth in the Milky Way. ](/news/2013/01/7/scientists-from-the-harvard-smithsonian-center-for-astrophysics-estimate-that-there-are-at-least-17-billion-planets-approximately-the-size.md) _2017-08-27 03:37:23 (First version)_
+1. [Scientists from the Harvard-Smithsonian Center for Astrophysics estimate that there are at least 17 billion planets approximately the size of Earth in the Milky Way. ](/news/2013/01/7/scientists-from-the-harvardasmithsonian-center-for-astrophysics-estimate-that-there-are-at-least-17-billion-planets-approximately-the-size.md) _(Current version)_

@@ -17,3 +17,9 @@ Pakistani Taliban attacked a prison in the country&rsquo;s northwestern town of 
 3. [A suicide car-bomber attacks a police van in the north western Pakistani town of Dera Ismail Khan, killing 12 people. ](/news/2010/05/18/a-suicide-car-bomber-attacks-a-police-van-in-the-north-western-pakistani-town-of-dera-ismail-khan-killing-12-people.md) _Context: Dera Ismail Khan, Pakistan_
 4. [ According to both Pakistani officials and Taliban insurgents, Baitullah Mehsud, leader of the Pakistani Taliban, was killed in a drone strike. ](/news/2009/08/7/according-to-both-pakistani-officials-and-taliban-insurgents-baitullah-mehsud-leader-of-the-pakistani-taliban-was-killed-in-a-drone-stri.md) _Context: Pakistan, Pakistani Taliban_
 5. [ At least seven people are killed and 50 injured by a bomb blast in Dera Ismail Khan, Pakistan. ](/news/2009/06/14/at-least-seven-people-are-killed-and-50-injured-by-a-bomb-blast-in-dera-ismail-khan-pakistan.md) _Context: Dera Ismail Khan, Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan:The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/war-in-north-west-pakistan-pthe-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-fr.md) _2017-08-25 03:39:04 (First version)_
+2. [War in North-West Pakistan:: The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/war-in-north-west-pakistan-the-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-f.md) _2017-08-27 03:39:19 (Update)_
+2. [The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/the-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-freed.md) _(Current version)_

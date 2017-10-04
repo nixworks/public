@@ -17,3 +17,8 @@ Air China is suspending flights between Beijing and the North Korean capital of 
 3. [A delegation from the United States arrives in the North Korean capital Pyongyang to assess the food shortage in the country. ](/news/2011/05/24/a-delegation-from-the-united-states-arrives-in-the-north-korean-capital-pyongyang-to-assess-the-food-shortage-in-the-country.md) _Context: Americans, North Korea, Pyongyang_
 4. [ Former United States President Bill Clinton arrives in Pyongyang, North Korea, and secures the freedom of two detained American journalists, Laura Ling and Euna Lee. ](/news/2009/08/4/former-united-states-president-bill-clinton-arrives-in-pyongyang-north-korea-and-secures-the-freedom-of-two-detained-american-journalists.md) _Context: Americans, North Korea, Pyongyang_
 5. [North Korea says that the recent flight of U.S. aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-recent-flight-of-u-s-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md) _Context: Americans, North Korea_
+
+### Changes:
+
+1. [China-North Korea relations: Air China suspends all flights to North Korea's capital Pyongyang amid rising tensions between North Korea and the United States. ](/news/2017/04/14/china-north-korea-relations-air-china-suspends-all-flights-to-north-korea-s-capital-pyongyang-amid-rising-tensions-between-north-korea-an.md) _2017-08-27 03:48:10 (First version)_
+1. [Air China suspends all flights to North Korea's capital Pyongyang amid rising tensions between North Korea and the United States. ](/news/2017/04/14/air-china-suspends-all-flights-to-north-korea-s-capital-pyongyang-amid-rising-tensions-between-north-korea-and-the-united-states.md) _(Current version)_

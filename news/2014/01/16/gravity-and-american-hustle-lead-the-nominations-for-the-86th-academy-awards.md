@@ -13,3 +13,8 @@ Director David O. Russell seems to have the golden touch. His con-man comedy &qu
 ### Related:
 
 1. [The Golden Globe Awards are held in Beverly Hills, California, with "12 Years a Slave" winning the Golden Globe Award for Best Motion Picture - Drama and "American Hustle" winning the Golden Globe Award for Best Motion Picture - Musical or Comedy. ](/news/2014/01/12/the-golden-globe-awards-are-held-in-beverly-hills-california-with-12-years-a-slave-winning-the-golden-globe-award-for-best-motion-pictur.md) _Context: American Hustle_
+
+### Changes:
+
+1. ["The Last of Us" leads the nominations for the 17th DICE Awards. ](/news/2014/01/16/the-last-of-us-leads-the-nominations-for-the-17th-dice-awards.md) _2017-10-03 03:43:27 (First version)_
+1. ["Gravity" and "American Hustle" lead the nominations for the 86th Academy Awards. ](/news/2014/01/16/gravity-and-american-hustle-lead-the-nominations-for-the-86th-academy-awards.md) _(Current version)_

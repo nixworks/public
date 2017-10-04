@@ -16,3 +16,8 @@
 3. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Boko Haram insurgency, Nigeria_
 4. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Boko Haram insurgency, Nigeria_
 5. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Boko Haram insurgency, Nigeria_
+
+### Changes:
+
+1. [Boko Haram insurgency: Suicide bombers kill at least 32 people and injure 66 others in northern Cameroon, near the border with Nigeria. ](/news/2016/01/25/boko-haram-insurgency-suicide-bombers-kill-at-least-32-people-and-injure-66-others-in-northern-cameroon-near-the-border-with-nigeria.md) _2017-08-27 03:44:45 (First version)_
+1. [Suicide bombers kill at least 32 people and injure 66 others in northern Cameroon, near the border with Nigeria. ](/news/2016/01/25/suicide-bombers-kill-at-least-32-people-and-injure-66-others-in-northern-cameroon-near-the-border-with-nigeria.md) _(Current version)_

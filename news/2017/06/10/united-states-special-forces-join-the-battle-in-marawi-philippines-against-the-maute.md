@@ -16,3 +16,9 @@ U.S. special forces are aiding troops from the Philippines in attempting to brea
 3. [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md) _Context: Marawi, Marawi crisis, Philippines_
 4. [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md) _Context: Marawi, Marawi crisis, Maute group_
 5. [Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-milf-is-broken-up-to-2-0.md) _Context: Marawi, Marawi crisis_
+
+### Changes:
+
+1. [United States special forces join the battle in Marawi against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-against-the-maute.md) _2017-06-10 14:30:07 (First version)_
+2. [Marawi crisis: United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/marawi-crisis-united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _2017-08-27 03:48:28 (Update)_
+2. [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _(Current version)_

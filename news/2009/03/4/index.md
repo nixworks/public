@@ -16,7 +16,7 @@ _Context: France, Nicolas Sarkozy, President of France, death threat, politician
 _Context: China, military budget_
 
 ### [ U.S. Secretary of State Hillary Clinton and Palestinian National Authority President Mahmoud Abbas meet in the West Bank. ](/news/2009/03/4/u-s-secretary-of-state-hillary-clinton-and-palestinian-national-authority-president-mahmoud-abbas-meet-in-the-west-bank.md)
-_Context: Americans, Hillary Clinton, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, United States Secretary of State, West Bank_
+_Context: Americans, Hillary Clinton, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, Secretary of State, West Bank_
 
 ### [ President Asif Ali Zardari says Pakistan will not negotiate with the "extremist Taliban and terrorists." ](/news/2009/03/4/president-asif-ali-zardari-says-pakistan-will-not-negotiate-with-the-extremist-taliban-and-terrorists.md)
 _Context: Asif Ali Zardari, Pakistan, Taliban, extremist, negotiation, president, terrorism_

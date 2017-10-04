@@ -16,3 +16,8 @@ Most of the 100,000 refugees and migrants who crossed the Mediterranean Sea this
 3. [The EU imposes further sanctions on Belarus, Iran, and Syria, expresses support for Libya's National Transitional Council, and reiterates call for Syria's President Bashar al-Assad to step down. ](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-iran-and-syria-expresses-support-for-libya-s-national-transitional-council-and-reiterates-ca.md) _Context: EU, Libya_
 4. [Sudanese President Omar al-Bashir is to boycott an African Union-European Union meeting in the Libyan capital Tripoli to "avoid embarrassment to Libya". ](/news/2010/11/28/sudanese-president-omar-al-bashir-is-to-boycott-an-african-union-european-union-meeting-in-the-libyan-capital-tripoli-to-avoid-embarrassmen.md) _Context: EU, Libya_
 5. [The European Union and Libya lift visa bans on each other. ](/news/2010/03/27/the-european-union-and-libya-lift-visa-bans-on-each-other.md) _Context: EU, Libya_
+
+### Changes:
+
+1. [European Union-Libya relations: The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/european-union-libya-relations-the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _2017-08-27 03:48:40 (First version)_
+1. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _(Current version)_

@@ -12,3 +12,8 @@
 3. [ National Democratic Congress candidate John Atta Mills wins Ghana's 2008 presidential election after narrowly defeating Nana Akufo-Addo of the incumbent New Patriotic Party in a run-off. ](/news/2009/01/3/national-democratic-congress-candidate-john-atta-mills-wins-ghana-s-2008-presidential-election-after-narrowly-defeating-nana-akufo-addo-of.md) _Context: John Atta Mills_
 4. [ Ghanaians vote in the presidential election run-off between Nana Akufo-Addo and John Atta Mills. ](/news/2008/12/28/ghanaians-vote-in-the-presidential-election-run-off-between-nana-akufo-addo-and-john-atta-mills.md) _Context: John Atta Mills_
 5. [ President of Ghana John Kufuor is involved in a car accident in Accra, but is not hurt. ](/news/2007/11/14/president-of-ghana-john-kufuor-is-involved-in-a-car-accident-in-accra-but-is-not-hurt.md) _Context: John Kufuor_
+
+### Changes:
+
+1. [The first ballot takes place in the Ghanaian presidential election. The two leading candidates are John Kufuor and John Atta-Mills, who go on to the second ballot.](/news/2000/12/7/the-first-ballot-takes-place-in-the-ghanaian-presidential-election-the-two-leading-candidates-are-john-kufuor-and-john-atta-mills-who-go.md) _2017-08-25 03:15:09 (First version)_
+1. [The first ballot takes place in the Ghanaian presidential election. The two leading candidates are John Kufuor and John Atta-Mills, who go on to the second ballot.](/news/2000/12/7/the-first-ballot-takes-place-in-the-ghanaian-presidential-election-the-two-leading-candidates-are-john-kufuor-and-john-atta-mills-who-go-o.md) _(Current version)_

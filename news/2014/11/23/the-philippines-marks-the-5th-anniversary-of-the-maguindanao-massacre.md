@@ -18,3 +18,8 @@ The Philippines marks the fifth anniversary of its worst political massacre, as 
 3. [More than a dozen suspects are indicted in the Philippines in connection with last year's Maguindanao massacre. ](/news/2010/04/21/more-than-a-dozen-suspects-are-indicted-in-the-philippines-in-connection-with-last-year-s-maguindanao-massacre.md) _Context: Maguindanao massacre, Philippines_
 4. [Andal Ampatuan Jr., former ally of President Gloria Macapagal-Arroyo, and 196 other people are charged with murder in the Philippines, in connection with the Maguindanao massacre in November 2009. ](/news/2010/02/9/andal-ampatuan-jr-former-ally-of-president-gloria-macapagal-arroyo-and-196-other-people-are-charged-with-murder-in-the-philippines-in-co.md) _Context: Maguindanao massacre, Philippines_
 5. [Andal Ampatuan Jr., charged with 41 counts of murder in the Maguindanao massacre in November, pleads not guilty at the beginning of his trial in the Philippines. ](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.md) _Context: Maguindanao massacre, Philippines_
+
+### Changes:
+
+1. [Crime in the Philippines: The Philippines marks the 5th anniversary of the Maguindanao massacre. ](/news/2014/11/23/crime-in-the-philippines-the-philippines-marks-the-5th-anniversary-of-the-maguindanao-massacre.md) _2017-08-27 03:41:33 (First version)_
+1. [The Philippines marks the 5th anniversary of the Maguindanao massacre. ](/news/2014/11/23/the-philippines-marks-the-5th-anniversary-of-the-maguindanao-massacre.md) _(Current version)_

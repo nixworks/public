@@ -18,3 +18,9 @@
 3. [An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/an-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md) _Context: Kano, Nigeria_
 4. [A blast hits the northern Nigerian city of Kano. ](/news/2014/05/18/a-blast-hits-the-northern-nigerian-city-of-kano.md) _Context: Kano, Nigeria_
 5. [Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.md) _Context: Kano, Nigeria_
+
+### Changes:
+
+1. [African church attacks:Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/african-church-attacks-pseveral-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of.md) _2017-08-25 03:35:35 (First version)_
+2. [African church attacks:: Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/african-church-attacks-several-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of.md) _2017-08-27 03:35:45 (Update)_
+2. [Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/several-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of-kano-with-at-least-16-p.md) _(Current version)_

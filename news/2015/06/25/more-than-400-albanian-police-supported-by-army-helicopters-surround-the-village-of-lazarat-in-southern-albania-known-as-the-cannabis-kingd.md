@@ -17,3 +17,8 @@ A police officer is killed during a shootout involving machine guns and anti-tan
 3. [The Trump administration signals that it plans a crackdown on U.S states that legalize the use of cannabis. ](/news/2017/02/24/the-trump-administration-signals-that-it-plans-a-crackdown-on-u-s-states-that-legalize-the-use-of-cannabis.md) _Context: cannabis_
 4. [The states of Oklahoma and Nebraska, having recently suffered a loss in their frontal attack on Colorado's state-legal cannabis policy, launch another litigation strategy to the same end. ](/news/2016/04/29/the-states-of-oklahoma-and-nebraska-having-recently-suffered-a-loss-in-their-frontal-attack-on-colorado-s-state-legal-cannabis-policy-laun.md) _Context: cannabis_
 5. [Pope Francis celebrates Mass in Albania. ](/news/2014/09/21/pope-francis-celebrates-mass-in-albania.md) _Context: Albania_
+
+### Changes:
+
+1. [More than 400 Albanian police supported by Army helicopters surround the village of Lazarat in southern Albania known as the "cannabis Kingdom" where an armed criminal gang has entrenched itself. ](/news/2015/06/25/more-than-400-albanian-police-supported-by-army-helicopters-surround-the-village-of-lazarat-in-southern-albania-known-as-the-cannabis-king.md) _2017-08-25 03:42:17 (First version)_
+1. [More than 400 Albanian police supported by Army helicopters surround the village of Lazarat in southern Albania known as the "cannabis Kingdom" where an armed criminal gang has entrenched itself. ](/news/2015/06/25/more-than-400-albanian-police-supported-by-army-helicopters-surround-the-village-of-lazarat-in-southern-albania-known-as-the-cannabis-kingd.md) _(Current version)_

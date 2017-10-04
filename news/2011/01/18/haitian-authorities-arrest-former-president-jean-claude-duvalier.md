@@ -19,3 +19,9 @@ Former Haiti leader Jean-Claude &quot;Baby Doc&quot; Duvalier is charged with co
 3. [Haiti's former president Jean-Claude "Baby Doc" Duvalier, now facing charges of corruption and theft of funds, hopes to becomes president again, according to his lawyer. ](/news/2011/01/20/haiti-s-former-president-jean-claude-baby-doc-duvalier-now-facing-charges-of-corruption-and-theft-of-funds-hopes-to-becomes-president-ag.md) _Context: Haiti, Jean-Claude Duvalier_
 4. [Haitian authorities file corruption and theft charges against former president Jean-Claude Duvalier. ](/news/2011/01/19/haitian-authorities-file-corruption-and-theft-charges-against-former-president-jean-claude-duvalier.md) _Context: Haiti, Jean-Claude Duvalier_
 5. [Former Haitian President Jean-Claude Duvalier returns to the country. ](/news/2011/01/16/former-haitian-president-jean-claude-duvalier-returns-to-the-country.md) _Context: Haiti, Jean-Claude Duvalier_
+
+### Changes:
+
+1. [Arrest of Jean-Claude "Baby Doc" Duvalier:Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/arrest-of-jean-claude-baby-doc-duvalier-phaitian-authorities-arrest-former-president-jean-claude-duvalier.md) _2017-08-25 03:31:50 (First version)_
+2. [Arrest of Jean-Claude "Baby Doc" Duvalier:: Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/arrest-of-jean-claude-baby-doc-duvalier-haitian-authorities-arrest-former-president-jean-claude-duvalier.md) _2017-08-27 03:31:57 (Update)_
+2. [Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/haitian-authorities-arrest-former-president-jean-claude-duvalier.md) _(Current version)_

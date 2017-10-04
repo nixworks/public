@@ -17,3 +17,9 @@ An official at the Angolan Embassy said Angola is a country that does not interf
 3. [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new president, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md) _Context: Angola_
 4. [The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md) _Context: Muslims_
 5. [At least 17 people are killed with dozens injured in a crowd stampede at a football stadium in Uige, Angola. ](/news/2017/02/10/at-least-17-people-are-killed-with-dozens-injured-in-a-crowd-stampede-at-a-football-stadium-in-uage-angola.md) _Context: Angola_
+
+### Changes:
+
+1. [Islam in Angola:Angola denies it has banned Islam. ](/news/2013/11/26/islam-in-angola-pangola-denies-it-has-banned-islam.md) _2017-08-25 03:39:35 (First version)_
+2. [Islam in Angola:: Angola denies it has banned Islam. ](/news/2013/11/26/islam-in-angola-angola-denies-it-has-banned-islam.md) _2017-08-27 03:39:53 (Update)_
+2. [Angola denies it has banned Islam. ](/news/2013/11/26/angola-denies-it-has-banned-islam.md) _(Current version)_

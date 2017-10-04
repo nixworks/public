@@ -17,3 +17,9 @@ A top US public health official says the Ebola outbreak is set to get worse befo
 3. [An explosion at a gasoline station in Accra, Ghana, kills at least 78 people. ](/news/2015/06/4/an-explosion-at-a-gasoline-station-in-accra-ghana-kills-at-least-78-people.md) _Context: Accra, Ghana_
 4. [At least 11 people are killed in a fire at a filling station in the Ghanaian capital Accra. ](/news/2015/06/3/at-least-11-people-are-killed-in-a-fire-at-a-filling-station-in-the-ghanaian-capital-accra.md) _Context: Accra, Ghana_
 5. [An Allied Air cargo plane crashes into a minibus after overshooting the runway at Accra's Kotoka International Airport in Ghana killing at least twelve people. ](/news/2012/06/2/an-allied-air-cargo-plane-crashes-into-a-minibus-after-overshooting-the-runway-at-accra-s-kotoka-international-airport-in-ghana-killing-at-l.md) _Context: Accra, Ghana_
+
+### Changes:
+
+1. [2014 West Africa Ebola virus outbreak:Health Ministers from the Economic Community of West African States will meet in Accra, Ghana to discuss the crisis. ](/news/2014/08/28/2014-west-africa-ebola-virus-outbreak-phealth-ministers-from-the-economic-community-of-west-african-states-will-meet-in-accra-ghana-to-disc.md) _2017-08-25 03:40:54 (First version)_
+2. [2014 West Africa Ebola virus outbreak:: Health Ministers from the Economic Community of West African States will meet in Accra, Ghana to discuss the crisis. ](/news/2014/08/28/2014-west-africa-ebola-virus-outbreak-health-ministers-from-the-economic-community-of-west-african-states-will-meet-in-accra-ghana-to-dis.md) _2017-08-27 03:41:13 (Update)_
+2. [Health Ministers from the Economic Community of West African States will meet in Accra, Ghana to discuss the crisis. ](/news/2014/08/28/health-ministers-from-the-economic-community-of-west-african-states-will-meet-in-accra-ghana-to-discuss-the-crisis.md) _(Current version)_

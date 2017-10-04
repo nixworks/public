@@ -16,3 +16,8 @@ In the deadliest of two assaults, a suicide bomber killed seven police officers,
 3. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: Logar Province_
 4. [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md) _Context: Taliban insurgency_
 5. [A Taliban raid kills at least 20 Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-20-afghan-police-officers-in-southern-afghanistan.md) _Context: Afghan_
+
+### Changes:
+
+1. [Taliban insurgency: Ten policemen, including a commander, are killed by bomb blasts in Jalalabad and Logar Province. ](/news/2014/11/10/taliban-insurgency-ten-policemen-including-a-commander-are-killed-by-bomb-blasts-in-jalalabad-and-logar-province.md) _2017-08-27 03:41:29 (First version)_
+1. [Ten policemen, including a commander, are killed by bomb blasts in Jalalabad and Logar Province. ](/news/2014/11/10/ten-policemen-including-a-commander-are-killed-by-bomb-blasts-in-jalalabad-and-logar-province.md) _(Current version)_

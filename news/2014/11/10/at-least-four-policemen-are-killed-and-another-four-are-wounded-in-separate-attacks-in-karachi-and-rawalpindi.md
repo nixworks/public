@@ -16,3 +16,8 @@
 3. [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md) _Context: Karachi, Pakistani police_
 4. [A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/a-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md) _Context: Karachi, Pakistani police_
 5. [At least six Pakistani police officers are killed and 50 injured in an attack in Karachi. ](/news/2011/08/20/at-least-six-pakistani-police-officers-are-killed-and-50-injured-in-an-attack-in-karachi.md) _Context: Karachi, Pakistani police_
+
+### Changes:
+
+1. [Terrorism in Pakistan: At least four policemen are killed and another four are wounded in separate attacks in Karachi and Rawalpindi. ](/news/2014/11/10/terrorism-in-pakistan-at-least-four-policemen-are-killed-and-another-four-are-wounded-in-separate-attacks-in-karachi-and-rawalpindi.md) _2017-08-27 03:41:29 (First version)_
+1. [At least four policemen are killed and another four are wounded in separate attacks in Karachi and Rawalpindi. ](/news/2014/11/10/at-least-four-policemen-are-killed-and-another-four-are-wounded-in-separate-attacks-in-karachi-and-rawalpindi.md) _(Current version)_

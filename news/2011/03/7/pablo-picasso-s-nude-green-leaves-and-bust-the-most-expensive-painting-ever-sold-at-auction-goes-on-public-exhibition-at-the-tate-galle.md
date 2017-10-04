@@ -16,3 +16,8 @@
 3. [Film director and newspaper columnist Michael Winner dies aged 77 in Kensington, London, England. ](/news/2013/01/21/film-director-and-newspaper-columnist-michael-winner-dies-aged-77-in-kensington-london-england.md) _Context: England, London_
 4. [Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-birmingham.md) _Context: England, London_
 5. [More than 215 people have been arrested in London, England since the riots began. ](/news/2011/08/8/more-than-215-people-have-been-arrested-in-london-england-since-the-riots-began.md) _Context: England, London_
+
+### Changes:
+
+1. [Pablo Picasso's ''Nude, Green Leaves and Bust'', the most expensive painting ever sold at auction, goes on public exhibition at the Tate Gallery in London, England. ](/news/2011/03/7/pablo-picasso-s-nude-green-leaves-and-bust-the-most-expensive-painting-ever-sold-at-auction-goes-on-public-exhibition-at-the-tate-gal.md) _2017-08-25 03:32:26 (First version)_
+1. [Pablo Picasso's "Nude, Green Leaves and Bust", the most expensive painting ever sold at auction, goes on public exhibition at the Tate Gallery in London, England. ](/news/2011/03/7/pablo-picasso-s-nude-green-leaves-and-bust-the-most-expensive-painting-ever-sold-at-auction-goes-on-public-exhibition-at-the-tate-galle.md) _(Current version)_

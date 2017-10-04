@@ -17,3 +17,8 @@ UKIP MEP Diane James wins party leadership contest to succeed Nigel Farage and t
 3. [Paul Nuttall wins an overall majority in a vote to become the UK Independence Party's (UKIP) leader, succeeding Nigel Farage. ](/news/2016/11/28/paul-nuttall-wins-an-overall-majority-in-a-vote-to-become-the-uk-independence-party-s-ukip-leader-succeeding-nigel-farage.md) _Context: UK Independence Party_
 4. [An altercation with a fellow UKIP MEP inside the European Parliament leaves UK Independence Party, Member of the European Parliament, and current UKIP party leadership favorite Steven Woolfe hospitalized. ](/news/2016/10/6/an-altercation-with-a-fellow-ukip-mep-inside-the-european-parliament-leaves-uk-independence-party-member-of-the-european-parliament-and-cu.md) _Context: UK Independence Party_
 5. [Diane James resigns as the leader of the United Kingdom Independence Party after just 18 days in charge. ](/news/2016/10/4/diane-james-resigns-as-the-leader-of-the-united-kingdom-independence-party-after-just-18-days-in-charge.md) _Context: Diane James_
+
+### Changes:
+
+1. [UK Independence Party leadership election, 2016: Members of the UK Independence Party (UKIP) elect Diane James as their new leader. ](/news/2016/09/16/uk-independence-party-leadership-election-2016-members-of-the-uk-independence-party-ukip-elect-diane-james-as-their-new-leader.md) _2017-08-27 03:46:52 (First version)_
+1. [Members of the UK Independence Party (UKIP) elect Diane James as their new leader. ](/news/2016/09/16/members-of-the-uk-independence-party-ukip-elect-diane-james-as-their-new-leader.md) _(Current version)_

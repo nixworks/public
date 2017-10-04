@@ -13,3 +13,8 @@ The Obelisk is headline winner in a year marked by diminished presence of conser
 ### Related:
 
 1. [The Hugo Award committee announces their choices for the 2015 winners in Spokane, U.S. ](/news/2015/08/22/the-hugo-award-committee-announces-their-choices-for-the-2015-winners-in-spokane-u-s.md) _Context: Hugo Award_
+
+### Changes:
+
+1. [Hugo Award: The winners of the annual Hugo Awards are announced at the 75th World Science Fiction Convention in Helsinki. ](/news/2017/08/11/hugo-award-the-winners-of-the-annual-hugo-awards-are-announced-at-the-75th-world-science-fiction-convention-in-helsinki.md) _2017-08-27 03:48:47 (First version)_
+1. [The winners of the annual Hugo Awards are announced at the 75th World Science Fiction Convention in Helsinki. ](/news/2017/08/11/the-winners-of-the-annual-hugo-awards-are-announced-at-the-75th-world-science-fiction-convention-in-helsinki.md) _(Current version)_

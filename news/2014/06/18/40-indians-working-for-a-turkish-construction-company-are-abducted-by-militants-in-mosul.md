@@ -17,3 +17,8 @@
 3. [Pope Francis, in his first speech upon arrival at the presidential palace of Serzh Sargsyan in the Armenian capital Yerevan, denounces the planned genocide of Armenians by Ottoman-era Turks a century ago, though the word "genocide" was not included in his prepared speech. ](/news/2016/06/24/pope-francis-in-his-first-speech-upon-arrival-at-the-presidential-palace-of-serzh-sargsyan-in-the-armenian-capital-yerevan-denounces-the-p.md) _Context: Turkish_
 4. [Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeast.md) _Context: Turkish_
 5. [Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md) _Context: Turkish_
+
+### Changes:
+
+1. [2014 Northern Iraq offensive: 40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/2014-northern-iraq-offensive-40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md) _2017-08-27 03:40:52 (First version)_
+1. [40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md) _(Current version)_

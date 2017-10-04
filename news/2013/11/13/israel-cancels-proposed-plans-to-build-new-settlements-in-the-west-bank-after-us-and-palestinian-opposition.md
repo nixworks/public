@@ -17,3 +17,9 @@ The Israeli prime minister says he has ordered his housing minister to reconside
 3. [ Thousands of Jewish settlers stage a protest at the curbs on settlement building in the West Bank. ](/news/2009/12/9/thousands-of-jewish-settlers-stage-a-protest-at-the-curbs-on-settlement-building-in-the-west-bank.md) _Context: Israel, Israeli settlement, West Bank_
 4. [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md) _Context: Israel, Israeli settlement, West Bank_
 5. [ Israel evicts Jewish settlers from a hilltop in the West Bank. ](/news/2009/05/21/israel-evicts-jewish-settlers-from-a-hilltop-in-the-west-bank.md) _Context: Israel, Israeli settlement, West Bank_
+
+### Changes:
+
+1. [Israeli-Palestinian conflict:Israel cancels proposed plans to build new settlements in the West Bank after US and Palestinian opposition. ](/news/2013/11/13/israeli-palestinian-conflict-pisrael-cancels-proposed-plans-to-build-new-settlements-in-the-west-bank-after-us-and-palestinian-opposition.md) _2017-08-25 03:39:31 (First version)_
+2. [Israeli-Palestinian conflict:: Israel cancels proposed plans to build new settlements in the West Bank after US and Palestinian opposition. ](/news/2013/11/13/israeli-palestinian-conflict-israel-cancels-proposed-plans-to-build-new-settlements-in-the-west-bank-after-us-and-palestinian-opposition.md) _2017-08-27 03:39:49 (Update)_
+2. [Israel cancels proposed plans to build new settlements in the West Bank after US and Palestinian opposition. ](/news/2013/11/13/israel-cancels-proposed-plans-to-build-new-settlements-in-the-west-bank-after-us-and-palestinian-opposition.md) _(Current version)_

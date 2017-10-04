@@ -17,3 +17,9 @@ Gunmen attack military checkpoint south-east of the Libyan capital Tripoli killi
 3. [2011-present Libyan factional fighting: The Libyan Army launches a new full-scale assault against the town of Bani Walid, accusing it of being controlled by supporters of the late Muammar Gaddafi. ](/news/2012/10/19/2011apresent-libyan-factional-fighting-the-libyan-army-launches-a-new-full-scale-assault-against-the-town-of-bani-walid-accusing-it-of-b.md) _Context: Bani Walid_
 4. [In Libya, the town of Bani Walid, a former stronghold of Muammar Gaddafi, revolts against the National Transitional Council government. ](/news/2012/01/24/in-libya-the-town-of-bani-walid-a-former-stronghold-of-muammar-gaddafi-revolts-against-the-national-transitional-council-government.md) _Context: Bani Walid_
 5. [A group of Gaddafi loyalists take control of part of the town of Bani Walid and fly the green flag after a battle with NTC forces left 5 dead and 20 injured. ](/news/2012/01/23/a-group-of-gaddafi-loyalists-take-control-of-part-of-the-town-of-bani-walid-and-fly-the-green-flag-after-a-battle-with-ntc-forces-left-5-dea.md) _Context: Bani Walid_
+
+### Changes:
+
+1. [Post-civil war clashes in Libya:Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/post-civil-war-clashes-in-libya-pgunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md) _2017-08-25 03:39:21 (First version)_
+2. [Post-civil war clashes in Libya:: Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/post-civil-war-clashes-in-libya-gunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md) _2017-08-27 03:39:38 (Update)_
+2. [Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/gunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md) _(Current version)_

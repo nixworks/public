@@ -37,7 +37,7 @@ _Context: Congolese Labour Party, Denis Sassou Nguesso, President of the Republi
 Divers in Minneapolis found the remains of someone killed in the disaster, bringing the death toll in the collapse to as many as nine, with at least four others still missing.
 
 ### [ United States share markets finish slightly lower as a $38 billion injection from the Federal Reserve helps to stabilise the situation. ](/news/2007/08/10/united-states-share-markets-finish-slightly-lower-as-a-38-billion-injection-from-the-federal-reserve-helps-to-stabilise-the-situation.md)
-_Context: Americans, Federal Reserve, US$_
+_Context: $, Americans, Federal Reserve_
 
 ### [ The United Nations Security Council approves an enhanced role for the United Nations Assistance Mission in Iraq. ](/news/2007/08/10/the-united-nations-security-council-approves-an-enhanced-role-for-the-united-nations-assistance-mission-in-iraq.md)
 _Context: United Nations Assistance Mission in Iraq, United Nations Security Council_
@@ -46,7 +46,7 @@ _Context: United Nations Assistance Mission in Iraq, United Nations Security Cou
 _Context: Hamid Ansari, Vice-President of India_
 
 ### [ Thabo Mbeki, the President of South Africa, sacks Nozizwe Madlala-Routledge as the Deputy Health Minister for attending an AIDS conference in Spain without authorisation and criticising hospital conditions. ](/news/2007/08/10/thabo-mbeki-the-president-of-south-africa-sacks-nozizwe-madlala-routledge-as-the-deputy-health-minister-for-attending-an-aids-conference.md)
-_Context: AIDS, Nozizwe Madlala-Routledge, President, Spain, Thabo Mbeki, hospital_
+_Context: AIDS, Nozizwe Madlala-Routledge, President, Spanish, Thabo Mbeki, hospital_
 
 ### [ The President of Venezuela Hugo Chvez meets with the President of Bolivia Evo Morales and the President of Argentina Nstor Kirchner in Tarija, Bolivia. ](/news/2007/08/10/the-president-of-venezuela-hugo-chavez-meets-with-the-president-of-bolivia-evo-morales-and-the-president-of-argentina-nestor-kirchner-in-ta.md)
 _Context: Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Argentina, President of Bolivia, Tarija, Bolivia_
@@ -67,7 +67,7 @@ _Context: Crandall Canyon mine, Huntington, Utah, miner_
 _Context: Queensland Legislative Assembly, councils_
 
 ### [ The Ugandan government announces plans to pay the "chronically poor" earning less than a dollar a day a poverty allowance of $10 a month. ](/news/2007/08/10/the-ugandan-government-announces-plans-to-pay-the-chronically-poor-earning-less-than-a-dollar-a-day-a-poverty-allowance-of-10-a-month.md)
-_Context: US$, Uganda, poverty_
+_Context: $, Uganda, poverty_
 
 ### [ Floods in Vietnam kill 43 people. ](/news/2007/08/10/floods-in-vietnam-kill-43-people.md)
 _Context: Vietnam, flood_

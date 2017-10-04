@@ -19,3 +19,9 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 3. [ A suicide car bomb targeting African Union peacekeepers kills 14 civilians in Mogadishu, Somalia. ](/news/2009/01/24/a-suicide-car-bomb-targeting-african-union-peacekeepers-kills-14-civilians-in-mogadishu-somalia.md) _Context: car bomb, suicide bombing_
 4. [ A car bomb in the town of Tal Afar in northern Iraq kills at least 21 people and injures about 70. ](/news/2008/08/8/a-car-bomb-in-the-town-of-tal-afar-in-northern-iraq-kills-at-least-21-people-and-injures-about-70.md) _Context: Tal Afar, car bomb_
 5. [ War in Iraq: At least 47 people die in insurgent strikes including 20 as a result of a suicide truck bomb in a Baghdad police station. ](/news/2007/03/24/war-in-iraq-at-least-47-people-die-in-insurgent-strikes-including-20-as-a-result-of-a-suicide-truck-bomb-in-a-baghdad-police-station.md) _Context: car bomb, suicide bombing_
+
+### Changes:
+
+1. [ Iraq War: Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/iraq-war-p-suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md) _2017-08-25 03:19:29 (First version)_
+2. [ Iraq War:: Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/iraq-war-suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md) _2017-08-27 03:19:25 (Update)_
+2. [ Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md) _(Current version)_

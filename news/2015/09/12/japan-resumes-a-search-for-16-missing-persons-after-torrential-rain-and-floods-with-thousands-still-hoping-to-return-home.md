@@ -16,3 +16,8 @@
 3. [In Japan, tens of thousands are forced to evacuate due to flooding and landslides caused by Tropical Storm Etau. So far, one person is reported as missing. ](/news/2015/09/10/in-japan-tens-of-thousands-are-forced-to-evacuate-due-to-flooding-and-landslides-caused-by-tropical-storm-etau-so-far-one-person-is-repor.md) _Context: Japan, Tropical Storm Etau_
 4. [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md) _Context: Japan_
 5. [Japanese Prime Minister Shinzo Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections. ](/news/2017/09/17/japanese-prime-minister-shinza-abe-is-expected-to-dissolve-the-house-of-representatives-on-september-28-2017-to-make-way-for-fresh-electio.md) _Context: Japan_
+
+### Changes:
+
+1. [Tropical Storm Etau (2015): Japan resumes a search for 16 missing persons after torrential rain and floods with thousands still hoping to return home. ](/news/2015/09/12/tropical-storm-etau-2015-japan-resumes-a-search-for-16-missing-persons-after-torrential-rain-and-floods-with-thousands-still-hoping-to-re.md) _2017-08-27 03:43:02 (First version)_
+1. [Japan resumes a search for 16 missing persons after torrential rain and floods with thousands still hoping to return home. ](/news/2015/09/12/japan-resumes-a-search-for-16-missing-persons-after-torrential-rain-and-floods-with-thousands-still-hoping-to-return-home.md) _(Current version)_

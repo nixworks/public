@@ -16,3 +16,8 @@
 3. [Gunmen kill 20 laborers at a dam construction in Pakistan's Balochistan province. ](/news/2015/04/10/gunmen-kill-20-laborers-at-a-dam-construction-in-pakistan-s-balochistan-province.md) _Context: Balochistan, Balochistan conflict_
 4. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: Pakistan army_
 5. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: Pakistan army_
+
+### Changes:
+
+1. [Balochistan conflict: A bomb kills three Pakistan Army soldiers and injures four others in the restive province of Balochistan. ](/news/2014/01/31/balochistan-conflict-a-bomb-kills-three-pakistan-army-soldiers-and-injures-four-others-in-the-restive-province-of-balochistan.md) _2017-08-27 03:40:15 (First version)_
+1. [A bomb kills three Pakistan Army soldiers and injures four others in the restive province of Balochistan. ](/news/2014/01/31/a-bomb-kills-three-pakistan-army-soldiers-and-injures-four-others-in-the-restive-province-of-balochistan.md) _(Current version)_

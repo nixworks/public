@@ -17,3 +17,9 @@ Israel aircraft bombed a target in Syria on Thursday, an Obama administration of
 3. [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md) _Context: Israel_
 4. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _Context: Israel_
 5. [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md) _Context: Israel_
+
+### Changes:
+
+1. [Syrian civil war:Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/syrian-civil-war-pisraeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md) _2017-08-25 03:38:33 (First version)_
+2. [Syrian civil war:: Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/syrian-civil-war-israeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md) _2017-08-27 03:38:46 (Update)_
+2. [Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/israeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md) _(Current version)_

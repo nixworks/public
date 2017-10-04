@@ -20,3 +20,8 @@ A FRENCH Muslim woman has been fined for driving while wearing a full-face veil,
 3. [ The French National Assembly announces the beginning of an inquiry into whether women in France should be allowed to wear the burqa. ](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.md) _Context: France, burqa_
 4. [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md) _Context: France, burqa_
 5. [ Vandals desecrate 148 Muslim graves in France's biggest World War I cemetery at Notre Dame de Lorette outside Arras in northern France. ](/news/2008/04/6/vandals-desecrate-148-muslim-graves-in-france-s-biggest-world-war-i-cemetery-at-notre-dame-de-lorette-outside-arras-in-northern-france.md) _Context: France, Muslim_
+
+### Changes:
+
+1. [Police issue a French Muslim woman with a fine of -22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md) _2017-08-27 03:27:41 (First version)_
+1. [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md) _Context: NATO, War in Afghanistan (2015-present)_
 4. [A car bomb near Kabul's Hamid Karzai International Airport, that was targeting a NATO convoy passing through the area, kills one civilian and injures 33 others. The Taliban claim responsibility. ](/news/2015/12/28/a-car-bomb-near-kabul-s-hamid-karzai-international-airport-that-was-targeting-a-nato-convoy-passing-through-the-area-kills-one-civilian-an.md) _Context: NATO, War in Afghanistan (2015-present)_
 5. [An overnight attack on Camp Integrity in Kabul leaves one NATO service member killed, along with eight support staff and two Taliban insurgents. ](/news/2015/08/8/an-overnight-attack-on-camp-integrity-in-kabul-leaves-one-nato-service-member-killed-along-with-eight-support-staff-and-two-taliban-insurge.md) _Context: NATO, War in Afghanistan (2015-present)_
+
+### Changes:
+
+1. [War in Afghanistan (2015-present): Two NATO soldiers are shot dead by two men in Afghan military uniforms. ](/news/2015/08/26/war-in-afghanistan-2015-present-two-nato-soldiers-are-shot-dead-by-two-men-in-afghan-military-uniforms.md) _2017-08-27 03:42:54 (First version)_
+1. [Two NATO soldiers are shot dead by two men in Afghan military uniforms. ](/news/2015/08/26/two-nato-soldiers-are-shot-dead-by-two-men-in-afghan-military-uniforms.md) _(Current version)_

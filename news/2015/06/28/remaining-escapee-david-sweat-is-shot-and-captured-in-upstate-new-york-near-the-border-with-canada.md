@@ -17,3 +17,8 @@ Convicted murderer and escaped inmate David Sweat was shot near the Canadian bor
 3. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canada_
 4. [New York State-based GateHouse Media announces an agreement to buy 11 U.S. newspapers from Georgia-based Morris Communications. Included in the deal is the "Log Cabin Democrat", founded in 1879, and three Alaskan newspapers: the "Juneau Empire", the "Peninsula Clarion" and "Homer News". The deal is expected to close on October 2. ](/news/2017/08/10/new-york-state-based-gatehouse-media-announces-an-agreement-to-buy-11-u-s-newspapers-from-georgia-based-morris-communications-included-in.md) _Context: New York State_
 5. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canada_
+
+### Changes:
+
+1. [2015 Clinton Correctional Facility escape: Remaining escapee David Sweat is shot and captured in upstate New York near the border with Canada. ](/news/2015/06/28/2015-clinton-correctional-facility-escape-remaining-escapee-david-sweat-is-shot-and-captured-in-upstate-new-york-near-the-border-with-canad.md) _2017-08-27 03:42:36 (First version)_
+1. [Remaining escapee David Sweat is shot and captured in upstate New York near the border with Canada. ](/news/2015/06/28/remaining-escapee-david-sweat-is-shot-and-captured-in-upstate-new-york-near-the-border-with-canada.md) _(Current version)_

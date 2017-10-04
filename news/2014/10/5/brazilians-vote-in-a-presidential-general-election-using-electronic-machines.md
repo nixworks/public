@@ -18,3 +18,8 @@
 3. [Voters in Brazil go to the polls for the second round of a presidential election with incumbent President Dilma Rousseff re-elected. ](/news/2014/10/26/voters-in-brazil-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-incumbent-president-dilma-rousseff-re-elected.md) _Context: 2014, Brazil_
 4. [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md) _Context: Brazil_
 5. [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md) _Context: Brazil_
+
+### Changes:
+
+1. [Brazilian general election, 2014: Brazilians vote in a presidential general election using electronic machines. ](/news/2014/10/5/brazilian-general-election-2014-brazilians-vote-in-a-presidential-general-election-using-electronic-machines.md) _2017-08-27 03:41:21 (First version)_
+1. [Brazilians vote in a presidential general election using electronic machines. ](/news/2014/10/5/brazilians-vote-in-a-presidential-general-election-using-electronic-machines.md) _(Current version)_

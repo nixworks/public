@@ -18,3 +18,8 @@ The Obama administration vows to review security procedures at airports and the 
 3. [U.S. soul singer Solomon Burke dies at Amsterdam's Airport Schiphol. ](/news/2010/10/10/u-s-soul-singer-solomon-burke-dies-at-amsterdam-s-airport-schiphol.md) _Context: Americans, Amsterdam_
 4. [2 Yemenis are released from custody in Amsterdam, having been arrested after being suspected by the United States of plotting a terrorist act. No evidence was found against the men. ](/news/2010/09/1/2-yemenis-are-released-from-custody-in-amsterdam-having-been-arrested-after-being-suspected-by-the-united-states-of-plotting-a-terrorist-ac.md) _Context: Americans, Amsterdam_
 5. [Osama Bin Laden claims responsibility for the failed Christmas day bombing attempt in Detroit, USA, last year. ](/news/2010/01/24/osama-bin-laden-claims-responsibility-for-the-failed-christmas-day-bombing-attempt-in-detroit-usa-last-year.md) _Context: Detroit, Northwest Airlines Flight 253_
+
+### Changes:
+
+1. [ American officials investigate a possible attempted terrorist attack after an incident on Northwest Airlines Flight 253 from Amsterdam to Detroit. ](/news/2009/12/25/american-officials-investigate-a-possible-attempted-terrorist-attack-after-an-incident-on-northwest-airlines-flight-253-from-amsterdam-to.md) _2017-08-25 03:26:41 (First version)_
+1. [ American officials investigate a possible attempted terrorist attack after an incident on Northwest Airlines Flight 253 from Amsterdam to Detroit. ](/news/2009/12/25/american-officials-investigate-a-possible-attempted-terrorist-attack-after-an-incident-on-northwest-airlines-flight-253-from-amsterdam-to-d.md) _(Current version)_

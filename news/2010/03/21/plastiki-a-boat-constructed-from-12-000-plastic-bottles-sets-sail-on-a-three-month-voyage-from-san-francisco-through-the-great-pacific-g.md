@@ -16,3 +16,8 @@
 3. [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _Context: San Francisco_
 4. [Australian federal police conduct raids in four separate suburbs of Sydney, detaining individuals and confiscating materials involved in a suspected terrorist plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-involved-in-a-s.md) _Context: Sydney_
 5. [The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns its selfie. ](/news/2017/07/12/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-macaque-owns-its.md) _Context: San Francisco_
+
+### Changes:
+
+1. [''Plastiki'', a boat constructed from 12,000 plastic bottles, sets sail on a three-month voyage from San Francisco through the Great Pacific Garbage Patch to Sydney. ](/news/2010/03/21/plastiki-a-boat-constructed-from-12-000-plastic-bottles-sets-sail-on-a-three-month-voyage-from-san-francisco-through-the-great-pacific.md) _2017-08-25 03:27:25 (First version)_
+1. ["Plastiki", a boat constructed from 12,000 plastic bottles, sets sail on a three-month voyage from San Francisco through the Great Pacific Garbage Patch to Sydney. ](/news/2010/03/21/plastiki-a-boat-constructed-from-12-000-plastic-bottles-sets-sail-on-a-three-month-voyage-from-san-francisco-through-the-great-pacific-g.md) _(Current version)_

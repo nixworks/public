@@ -16,3 +16,9 @@ Parliamentary coalition votes to triple university fees as students clash with p
 7. [The Hindu](http://www.thehindu.com/news/international/article941840.ece)
 8. [The Northern Echo](http://www.thenorthernecho.co.uk/news/8730342.Prince_Charles__car_attacked_by_mob/)
 8. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/9/201012920650845360_20.jpg)
+
+### Changes:
+
+1. [Protests in London:Thousands of British students demonstrate as MPs vote to triple university tuition fees. ](/news/2010/12/9/protests-in-london-pthousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.md) _2017-08-25 03:31:20 (First version)_
+2. [Protests in London:: Thousands of British students demonstrate as MPs vote to triple university tuition fees. ](/news/2010/12/9/protests-in-london-thousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.md) _2017-08-27 03:31:28 (Update)_
+2. [Thousands of British students demonstrate as MPs vote to triple university tuition fees. ](/news/2010/12/9/thousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.md) _(Current version)_

@@ -18,3 +18,8 @@ It also gives NASA a $19.5 billion budget, cancels a mission to capture an aster
 3. [NASA's Mars "Curiosity" rover reaches its final destination Aeolis Mons, a mountain that rises 5.5 km at the center of Gale Crater. ](/news/2014/09/12/nasa-s-mars-curiosity-rover-reaches-its-final-destination-aeolis-mons-a-mountain-that-rises-5-5-km-at-the-center-of-gale-crater.md) _Context: Mars, NASA_
 4. [NASA Curiosity Mars rover begins its mission to its destination and drives to Mount Sharp. ](/news/2013/07/8/nasa-curiosity-mars-rover-begins-its-mission-to-its-destination-and-drives-to-mount-sharp.md) _Context: Mars, NASA_
 5. [NASA holds a media conference to announce new discoveries about Mars made by the Curiosity rover. It was found that the planet could have once supported life. ](/news/2013/03/12/nasa-holds-a-media-conference-to-announce-new-discoveries-about-mars-made-by-the-curiosity-rover-it-was-found-that-the-planet-could-have-on.md) _Context: Mars, NASA_
+
+### Changes:
+
+1. [Timeline of Mars exploration: U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/timeline-of-mars-exploration-u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _2017-08-27 03:47:57 (First version)_
+1. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _(Current version)_

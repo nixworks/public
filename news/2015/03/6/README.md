@@ -31,7 +31,7 @@ _Context: 2014 Taipei Metro attack, New Taipei City, Taipei Metro_
 _Context: CIA, CIA Counterterrorism Center, CIA Directorate of Digital Innovation, John Brennan_
 
 ### [Customs officers at the Shahjalal International Airport catch Son Young Nam, a North Korean diplomat trying to smuggle an estimated $1.4 million worth of gold into Bangladesh. Bangladesh authorities release him but will still seek to press charges. ](/news/2015/03/6/customs-officers-at-the-shahjalal-international-airport-catch-son-young-nam-a-north-korean-diplomat-trying-to-smuggle-an-estimated-1-4-mil.md)
-_Context: Bangladesh, North Korea, Shahjalal International Airport, US$_
+_Context: $, Bangladesh, North Korea, Shahjalal International Airport_
 
 ### [Madison Police Department officers fatally shoot an unarmed 19-year-old black teenager who was suspected of a recent battery. A struggle ensued between the suspect and an officer, and the teen was fatally shot. ](/news/2015/03/6/madison-police-department-officers-fatally-shoot-an-unarmed-19-year-old-black-teenager-who-was-suspected-of-a-recent-battery-a-struggle-ens.md)
 _Context: Madison Police Department_

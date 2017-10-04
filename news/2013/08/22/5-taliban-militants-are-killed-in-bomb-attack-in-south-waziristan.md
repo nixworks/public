@@ -16,3 +16,9 @@
 3. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: TTP_
 4. [Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. ](/news/2016/04/20/pakistani-taliban-militants-in-two-attacks-kill-seven-police-officers-who-were-guarding-medical-workers-administering-polio-vaccinations-i.md) _Context: TTP_
 5. [A Taliban suicide bomber hits a court complex in the town of Shabqadar killing at least 13 people and injuring 36. Jamaat-ul-Ahrar, a Pakistani Taliban faction, says the attack is retaliation for Mumtaz Qadri's execution last week. ](/news/2016/03/7/a-taliban-suicide-bomber-hits-a-court-complex-in-the-town-of-shabqadar-killing-at-least-13-people-and-injuring-36-jamaat-ul-ahrar-a-pakist.md) _Context: TTP_
+
+### Changes:
+
+1. [War in North-West Pakistan:5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/war-in-north-west-pakistan-p5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md) _2017-08-25 03:39:11 (First version)_
+2. [War in North-West Pakistan:: 5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/war-in-north-west-pakistan-5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md) _2017-08-27 03:39:27 (Update)_
+2. [5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md) _(Current version)_

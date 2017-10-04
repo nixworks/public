@@ -17,3 +17,9 @@ A suicide driver rammed his explosive-laden car into a police checkpoint in the 
 3. [At least 29 people are killed in an suicide bombing in Baghdad's largest Sunni mosque including Khalid al-Fahdawi, a member of the Council of Representatives of Iraq. ](/news/2011/08/28/at-least-29-people-are-killed-in-an-suicide-bombing-in-baghdad-s-largest-sunni-mosque-including-khalid-al-fahdawi-a-member-of-the-council-o.md) _Context: Baghdad, suicide bombing_
 4. [The death toll from the suicide bombing of a cafe in the Diyala Governorate near Baghdad, Iraq reaches 22. ](/news/2010/10/29/the-death-toll-from-the-suicide-bombing-of-a-cafe-in-the-diyala-governorate-near-baghdad-iraq-reaches-22.md) _Context: Baghdad, suicide bombing_
 5. [ At least 10 people are killed and 15 wounded in a suicide bombing outside a Baghdad bakery as residents prepared to break their Ramadan fast. ](/news/2007/09/15/at-least-10-people-are-killed-and-15-wounded-in-a-suicide-bombing-outside-a-baghdad-bakery-as-residents-prepared-to-break-their-ramadan-fas.md) _Context: Baghdad, suicide bombing_
+
+### Changes:
+
+1. [Iraqi insurgency (2011-present):A suicide bombing in Baghdad kills at least 21 people. ](/news/2014/07/22/iraqi-insurgency-2011apresent-pa-suicide-bombing-in-baghdad-kills-at-least-21-people.md) _2017-08-25 03:40:43 (First version)_
+2. [Iraqi insurgency (2011-present):: A suicide bombing in Baghdad kills at least 21 people. ](/news/2014/07/22/iraqi-insurgency-2011-present-a-suicide-bombing-in-baghdad-kills-at-least-21-people.md) _2017-08-27 03:41:01 (Update)_
+2. [A suicide bombing in Baghdad kills at least 21 people. ](/news/2014/07/22/a-suicide-bombing-in-baghdad-kills-at-least-21-people.md) _(Current version)_

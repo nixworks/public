@@ -17,3 +17,9 @@ Suicide attacker targets funeral of son of Sunni Awakening movement leader in Ba
 3. [At least 30 people are killed and 46 others are wounded, including women and children, as a car bomb explodes near a Shia mosque in Abu Sayeeda, Baqubah, Diyala in Iraq. ](/news/2010/07/21/at-least-30-people-are-killed-and-46-others-are-wounded-including-women-and-children-as-a-car-bomb-explodes-near-a-shia-mosque-in-abu-saye.md) _Context: Baqubah, Iraq_
 4. [ Two suicide attacks near Baqubah and in Baghdad, Iraq, kill at least 87 people. ](/news/2009/04/23/two-suicide-attacks-near-baqubah-and-in-baghdad-iraq-kill-at-least-87-people.md) _Context: Baqubah, Iraq_
 5. [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md) _Context: Iraq_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing at a funeral kills at least 17 people in Baqubah, Iraq. ](/news/2013/12/1/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-at-a-funeral-kills-at-least-17-people-in-baqubah-iraq.md) _2017-08-25 03:39:36 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing at a funeral kills at least 17 people in Baqubah, Iraq. ](/news/2013/12/1/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-at-a-funeral-kills-at-least-17-people-in-baqubah-iraq.md) _2017-08-27 03:39:54 (Update)_
+2. [A suicide bombing at a funeral kills at least 17 people in Baqubah, Iraq. ](/news/2013/12/1/a-suicide-bombing-at-a-funeral-kills-at-least-17-people-in-baqubah-iraq.md) _(Current version)_

@@ -25,7 +25,7 @@ _Context: India, clean technology, energy efficiency_
 _Context: France_
 
 ### [The Australian dollar reaches its highest level against the United States dollar in 27 years. ](/news/2010/10/13/the-australian-dollar-reaches-its-highest-level-against-the-united-states-dollar-in-27-years.md)
-_Context: A$, US$_
+_Context: $, A$_
 
 ### [The US government rules out a moratorium on foreclosures. The moratorium would help millions expected to lose their homes, but may also hurt the housing market. ](/news/2010/10/13/the-us-government-rules-out-a-moratorium-on-foreclosures-the-moratorium-would-help-millions-expected-to-lose-their-homes-but-may-also-hurt.md)
 The Obama administration rejected calls for a nationwide moratorium on housing foreclosures amid fears that such a move could cripple an already slow recovery of the U.S. housing market.

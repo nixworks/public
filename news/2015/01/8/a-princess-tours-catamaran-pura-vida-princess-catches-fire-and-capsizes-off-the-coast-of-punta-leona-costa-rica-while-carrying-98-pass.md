@@ -18,3 +18,8 @@ According to an official government report, there were 106 people rescued, inclu
 3. [The United Nations Committee on the Elimination of Racial Discrimination recommends that Costa Rica remove "Cocori" from schools because of its perceived racial connotation. ](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because-of.md) _Context: Costa Rica_
 4. [Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/voters-in-costa-rica-go-to-the-polls-for-a-general-election.md) _Context: Costa Rica_
 5. [The United States launches a prosecution against Liberty Reserve, based in Costa Rica, for money laundering worth $6 billion. ](/news/2013/05/28/the-united-states-launches-a-prosecution-against-liberty-reserve-based-in-costa-rica-for-money-laundering-worth-6-billion.md) _Context: Costa Rica_
+
+### Changes:
+
+1. [A Princess Tours catamaran, ''Pura Vida Princess'', catches fire and capsizes off the coast of Punta Leona, Costa Rica, while carrying 98 passengers and ten crew; the Costa Rican Red Cross confirms that three are dead. ](/news/2015/01/8/a-princess-tours-catamaran-pura-vida-princess-catches-fire-and-capsizes-off-the-coast-of-punta-leona-costa-rica-while-carrying-98-pa.md) _2017-08-25 03:41:27 (First version)_
+1. [A Princess Tours catamaran, "Pura Vida Princess", catches fire and capsizes off the coast of Punta Leona, Costa Rica, while carrying 98 passengers and ten crew; the Costa Rican Red Cross confirms that three are dead. ](/news/2015/01/8/a-princess-tours-catamaran-pura-vida-princess-catches-fire-and-capsizes-off-the-coast-of-punta-leona-costa-rica-while-carrying-98-pass.md) _(Current version)_

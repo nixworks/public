@@ -16,3 +16,8 @@
 2. [The centre-right opposition bloc led by "Venstre" wins the 2015 Danish general election, even though the Social Democrat party remains Denmark's largest. The anti-immigration Danish People's Party will be the second-largest in parliament. ](/news/2015/06/19/the-centre-right-opposition-bloc-led-by-venstre-wins-the-2015-danish-general-election-even-though-the-social-democrat-party-remains-denma.md) _Context: Danish general election, 2015_
 3. [The Prime Minister of Denmark Helle Thorning-Schmidt calls an election for June 18. ](/news/2015/05/27/the-prime-minister-of-denmark-helle-thorning-schmidt-calls-an-election-for-june-18.md) _Context: Danish general election, 2015_
 4. [ Danish prime minister Anders Fogh Rasmussen's liberal-conservative government has secured a third term in office following early parliamentary elections to the Folketing. ](/news/2007/11/14/danish-prime-minister-anders-fogh-rasmussen-s-liberal-conservative-government-has-secured-a-third-term-in-office-following-early-parliament.md) _Context: Folketing_
+
+### Changes:
+
+1. [Danish general election, 2015: Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/danish-general-election-2015-pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md) _2017-08-27 03:42:38 (First version)_
+1. [Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md) _(Current version)_

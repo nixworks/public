@@ -16,3 +16,8 @@
 3. [At least 100 people are killed and hundreds others injured in an attack by Boko Haram militants on Dalori Village 4 kilometers from Maiduguri, Nigeria. ](/news/2016/01/31/at-least-100-people-are-killed-and-hundreds-others-injured-in-an-attack-by-boko-haram-militants-on-dalori-village-4-kilometers-from-maidugur.md) _Context: Boko Haram, Maiduguri, Nigeria_
 4. [Boko Haram militants attack the northeast Nigerian city of Maiduguri with rocket-propelled grenades and multiple suicide bombers. At least 30 people are reportedly killed. ](/news/2015/12/27/boko-haram-militants-attack-the-northeast-nigerian-city-of-maiduguri-with-rocket-propelled-grenades-and-multiple-suicide-bombers-at-least-3.md) _Context: Boko Haram, Maiduguri, Nigeria_
 5. [Two suicide bombings at mosques kill at least 33 people in the northeast Nigerian cities of Yola and Maiduguri. ](/news/2015/10/23/two-suicide-bombings-at-mosques-kill-at-least-33-people-in-the-northeast-nigerian-cities-of-yola-and-maiduguri.md) _Context: Boko Haram, Maiduguri, Nigeria_
+
+### Changes:
+
+1. [Boko Haram: A bomb explodes at a market place in the Nigerian city of Maiduguri killing at least four people. ](/news/2015/05/31/boko-haram-a-bomb-explodes-at-a-market-place-in-the-nigerian-city-of-maiduguri-killing-at-least-four-people.md) _2017-08-27 03:42:27 (First version)_
+1. [A bomb explodes at a market place in the Nigerian city of Maiduguri killing at least four people. ](/news/2015/05/31/a-bomb-explodes-at-a-market-place-in-the-nigerian-city-of-maiduguri-killing-at-least-four-people.md) _(Current version)_

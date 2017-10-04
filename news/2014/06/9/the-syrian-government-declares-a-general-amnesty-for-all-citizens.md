@@ -16,3 +16,9 @@
 3. [North Korea sentences American Kenneth Bae to 15 years of prison labor for "hostile acts" against the regime. The United States calls for amnesty. ](/news/2013/05/2/north-korea-sentences-american-kenneth-bae-to-15-years-of-prison-labor-for-hostile-acts-against-the-regime-the-united-states-calls-for-am.md) _Context: amnesty_
 4. [Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. ](/news/2013/04/11/boko-haram-rejects-the-idea-of-an-amnesty-offer-for-militants-by-nigerian-president-goodluck-jonathan.md) _Context: amnesty_
 5. [Burma releases 500 prisoners, including at least 58 political prisoners and foreigners, in an amnesty. ](/news/2012/09/18/burma-releases-500-prisoners-including-at-least-58-political-prisoners-and-foreigners-in-an-amnesty.md) _Context: amnesty_
+
+### Changes:
+
+1. [Syrian civil war:The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/syrian-civil-war-pthe-syrian-government-declares-a-general-amnesty-for-all-citizens.md) _2017-08-25 03:40:31 (First version)_
+2. [Syrian civil war:: The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/syrian-civil-war-the-syrian-government-declares-a-general-amnesty-for-all-citizens.md) _2017-08-27 03:40:49 (Update)_
+2. [The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/the-syrian-government-declares-a-general-amnesty-for-all-citizens.md) _(Current version)_

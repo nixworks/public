@@ -19,3 +19,9 @@
 3. [ Conflict in Iraq: An insurgent group broadcasts a video over the Internet of what they claim is the death of American Ronald Allen Schulz. ](/news/2005/12/19/conflict-in-iraq-an-insurgent-group-broadcasts-a-video-over-the-internet-of-what-they-claim-is-the-death-of-american-ronald-allen-schulz.md) _Context: Americans, Iraqi insurgency_
 4. [ Conflict in Iraq: Three U.S. Soldiers die in two separate insurgent attacks in Baghdad and near Baqouba. ](/news/2005/10/26/conflict-in-iraq-three-u-s-soldiers-die-in-two-separate-insurgent-attacks-in-baghdad-and-near-baqouba.md) _Context: Americans, Iraqi insurgency_
 5. [ Conflict in Iraq: According to U.S. and Iraqi government officials, US Air strikes near the border with Syria have left 56 civilians and over seven insurgents dead. ](/news/2005/08/30/conflict-in-iraq-according-to-u-s-and-iraqi-government-officials-us-air-strikes-near-the-border-with-syria-have-left-56-civilians-and-ov.md) _Context: Americans, Iraqi insurgency_
+
+### Changes:
+
+1. [ Conflict in Iraq: At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/conflict-in-iraq-p-at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md) _2017-08-25 03:17:08 (First version)_
+2. [ Conflict in Iraq:: At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/conflict-in-iraq-at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md) _2017-08-27 03:17:08 (Update)_
+2. [ At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md) _(Current version)_

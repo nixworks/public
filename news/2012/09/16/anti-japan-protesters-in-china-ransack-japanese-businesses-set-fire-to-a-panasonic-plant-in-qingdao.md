@@ -21,3 +21,9 @@ Chinese police used pepper spray, tear gas and water cannon to break up an anti-
 3. [At least 35 people are killed in an explosion after a leaking oil pipeline caught fire in the city of Qingdao, China. ](/news/2013/11/22/at-least-35-people-are-killed-in-an-explosion-after-a-leaking-oil-pipeline-caught-fire-in-the-city-of-qingdao-china.md) _Context: Qingdao_
 4. [The European Commission fines Philips, LG Electronics, Samsung SDI, Panasonic, Toshiba and Technicolor a total of EUR1.47 bn for fixing prices of TV cathode-ray tubes. ](/news/2012/12/5/the-european-commission-fines-philips-lg-electronics-samsung-sdi-panasonic-toshiba-and-technicolor-a-total-of-a-1-47-bn-for-fixing-pric.md) _Context: Panasonic_
 5. [Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/japanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-china-until-tuesday-as-a-resul.md) _Context: Panasonic_
+
+### Changes:
+
+1. [Senkaku Islands dispute:Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/senkaku-islands-dispute-panti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md) _2017-08-25 03:36:31 (First version)_
+2. [Senkaku Islands dispute:: Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/senkaku-islands-dispute-anti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md) _2017-08-27 03:36:41 (Update)_
+2. [Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/anti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md) _(Current version)_

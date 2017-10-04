@@ -16,3 +16,8 @@
 3. [Voters in East Timor go to the polls for a parliamentary election. ](/news/2012/07/7/voters-in-east-timor-go-to-the-polls-for-a-parliamentary-election.md) _Context: East Timor_
 4. [Voters in East Timor go to the polls for a presidential election with incumbent President Jose Ramos-Horta standing against 11 other candidates. ](/news/2012/03/17/voters-in-east-timor-go-to-the-polls-for-a-presidential-election-with-incumbent-president-jose-ramos-horta-standing-against-11-other-candida.md) _Context: East Timor_
 5. [East Timor rejected Chinese plans to build a radar on its territory in 2007, due to fears it would be used for intelligence purposes, according to Wikileaks. ](/news/2011/05/10/east-timor-rejected-chinese-plans-to-build-a-radar-on-its-territory-in-2007-due-to-fears-it-would-be-used-for-intelligence-purposes-accord.md) _Context: East Timor_
+
+### Changes:
+
+1. [East Timorese parliamentary election, 2017: Voters in East Timor go to the polls to elect members of their National Parliament. ](/news/2017/07/22/east-timorese-parliamentary-election-2017-voters-in-east-timor-go-to-the-polls-to-elect-members-of-their-national-parliament.md) _2017-08-27 03:48:42 (First version)_
+1. [Voters in East Timor go to the polls to elect members of their National Parliament. ](/news/2017/07/22/voters-in-east-timor-go-to-the-polls-to-elect-members-of-their-national-parliament.md) _(Current version)_

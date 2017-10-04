@@ -19,3 +19,8 @@
 3. [Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md) _Context: Baghdad, Iraqi Civil War (2014-present), Shiite_
 4. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
 5. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/iraqi-civil-war-2014-present-three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _2017-08-27 03:45:57 (First version)_
+1. [Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _(Current version)_

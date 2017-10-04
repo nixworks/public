@@ -21,3 +21,9 @@ Nineteen people are now known to have died in severe floods in the Philippines, 
 3. [More than two million people are reported to have been displaced or otherwise affected by flooding in the Chinese province of Zhejiang. ](/news/2011/06/19/more-than-two-million-people-are-reported-to-have-been-displaced-or-otherwise-affected-by-flooding-in-the-chinese-province-of-zhejiang.md) _Context: China, Zhejiang_
 4. [Over 600 people are poisoned by lead in Zhejiang, eastern China. ](/news/2011/06/12/over-600-people-are-poisoned-by-lead-in-zhejiang-eastern-china.md) _Context: China, Zhejiang_
 5. [More than 100 people are poisoned by lead from a battery plant built in a residential area in Zhejiang, China. ](/news/2011/03/25/more-than-100-people-are-poisoned-by-lead-from-a-battery-plant-built-in-a-residential-area-in-zhejiang-china.md) _Context: China, Zhejiang_
+
+### Changes:
+
+1. [2012 Pacific typhoon season:Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-ptyphoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md) _2017-08-25 03:36:14 (First version)_
+2. [2012 Pacific typhoon season:: Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md) _2017-08-27 03:36:25 (Update)_
+2. [Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md) _(Current version)_

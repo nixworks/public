@@ -18,3 +18,8 @@ Sectarian outfit Lashkar-e-Jhangvi al-Alami claims responsibility for the attack
 3. [A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tribal-areas.md) _Context: Kurram, War in North-West Pakistan_
 4. [At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.md) _Context: Parachinar, War in North-West Pakistan_
 5. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: At least 25 people are killed and dozens injured in a bombing at a second-hand clothes market in the city of Parachinar in the Kurram Valley. ](/news/2015/12/13/war-in-north-west-pakistan-at-least-25-people-are-killed-and-dozens-injured-in-a-bombing-at-a-second-hand-clothes-market-in-the-city-of-par.md) _2017-08-27 03:44:20 (First version)_
+1. [At least 25 people are killed and dozens injured in a bombing at a second-hand clothes market in the city of Parachinar in the Kurram Valley. ](/news/2015/12/13/at-least-25-people-are-killed-and-dozens-injured-in-a-bombing-at-a-second-hand-clothes-market-in-the-city-of-parachinar-in-the-kurram-valley.md) _(Current version)_

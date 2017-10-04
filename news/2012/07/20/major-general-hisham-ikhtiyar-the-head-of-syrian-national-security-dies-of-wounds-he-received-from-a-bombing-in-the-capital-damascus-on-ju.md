@@ -20,3 +20,9 @@ A fourth top Syrian official dies from injuries incurred in a bombing on Wednesd
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [Syrian uprising (2011-present):Major General Hisham Ikhtiyar, the head of Syrian national security, dies of wounds he received from a bombing in the capital Damascus on July 18. ](/news/2012/07/20/syrian-uprising-2011apresent-pmajor-general-hisham-ikhtiyar-the-head-of-syrian-national-security-dies-of-wounds-he-received-from-a-bom.md) _2017-08-25 03:36:08 (First version)_
+2. [Syrian uprising (2011-present):: Major General Hisham Ikhtiyar, the head of Syrian national security, dies of wounds he received from a bombing in the capital Damascus on July 18. ](/news/2012/07/20/syrian-uprising-2011-present-major-general-hisham-ikhtiyar-the-head-of-syrian-national-security-dies-of-wounds-he-received-from-a-bo.md) _2017-08-27 03:36:20 (Update)_
+2. [Major General Hisham Ikhtiyar, the head of Syrian national security, dies of wounds he received from a bombing in the capital Damascus on July 18. ](/news/2012/07/20/major-general-hisham-ikhtiyar-the-head-of-syrian-national-security-dies-of-wounds-he-received-from-a-bombing-in-the-capital-damascus-on-ju.md) _(Current version)_

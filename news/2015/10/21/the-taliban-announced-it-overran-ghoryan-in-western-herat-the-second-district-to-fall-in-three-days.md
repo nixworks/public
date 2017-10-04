@@ -17,3 +17,8 @@ Map detailing Taliban-controlled or contested districts. Click colored district 
 3. [Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. ](/news/2017/05/26/taliban-militants-attack-an-afghan-national-army-base-in-shah-wali-kot-district-kandahar-province-killing-at-least-15-soldiers.md) _Context: Taliban, War in Afghanistan (2015-present)_
 4. [A Taliban raid kills at least 20 Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-20-afghan-police-officers-in-southern-afghanistan.md) _Context: Taliban, War in Afghanistan (2015-present)_
 5. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: Taliban, War in Afghanistan (2015-present)_
+
+### Changes:
+
+1. [War in Afghanistan (2015-present): The Taliban announced it overran Ghoryan in western Herat, the second district to fall in three days. ](/news/2015/10/21/war-in-afghanistan-2015-present-the-taliban-announced-it-overran-ghoryan-in-western-herat-the-second-district-to-fall-in-three-days.md) _2017-08-27 03:43:26 (First version)_
+1. [The Taliban announced it overran Ghoryan in western Herat, the second district to fall in three days. ](/news/2015/10/21/the-taliban-announced-it-overran-ghoryan-in-western-herat-the-second-district-to-fall-in-three-days.md) _(Current version)_

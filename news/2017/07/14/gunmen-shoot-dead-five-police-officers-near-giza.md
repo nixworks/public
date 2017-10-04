@@ -18,3 +18,8 @@ A man is arrested after two tourists are killed at the Egyptian resort of Hurgha
 3. [Two police officers are shot dead by gunmen near the Giza pyramids, on the outskirts of Cairo. ](/news/2016/01/9/two-police-officers-are-shot-dead-by-gunmen-near-the-giza-pyramids-on-the-outskirts-of-cairo.md) _Context: police officers_
 4. [At least four Egyptian police officers are killed in a drive-by shooting in Saqqara, south of Cairo. An Islamic State of Iraq and the Levant affiliate claims responsibility. ](/news/2015/11/28/at-least-four-egyptian-police-officers-are-killed-in-a-drive-by-shooting-in-saqqara-south-of-cairo-an-islamic-state-of-iraq-and-the-levant.md) _Context: police officers_
 5. [A bomb explodes on a bus carrying Egyptian police killing one of them and injuring 29 others in the Nile delta. ](/news/2015/08/24/a-bomb-explodes-on-a-bus-carrying-egyptian-police-killing-one-of-them-and-injuring-29-others-in-the-nile-delta.md) _Context: police officers_
+
+### Changes:
+
+1. [Insurgency in Egypt (2013-present): Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/insurgency-in-egypt-2013-present-gunmen-shoot-dead-five-police-officers-near-giza.md) _2017-08-27 03:48:40 (First version)_
+1. [Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/gunmen-shoot-dead-five-police-officers-near-giza.md) _(Current version)_

@@ -4,7 +4,7 @@
 Mayor Michael R. Bloomberg said the Hudson River landing of US Airways Flight 1549 &#8220;served as a catalyst to strengthen our efforts in removing geese from, and discouraging them from nesting on, city property near our runways.&#8221;.
 
 ### [ 10,000 Gabonese watch the body of President Omar Bongo arrive back home from Spain. ](/news/2009/06/11/10-000-gabonese-watch-the-body-of-president-omar-bongo-arrive-back-home-from-spain.md)
-_Context: Gabon, Omar Bongo, President, Spain_
+_Context: Gabon, Omar Bongo, President, Spanish_
 
 ### [ A Bosnian television station shows what it says is recent video footage of genocide suspect and Bosnian war commander General Ratko Mladic in Serbia. ](/news/2009/06/11/a-bosnian-television-station-shows-what-it-says-is-recent-video-footage-of-genocide-suspect-and-bosnian-war-commander-general-ratko-mladia.md)
 _Context: Bosnia, Bosnian War, Ratko Mladic, Serbia, genocide_
@@ -49,7 +49,7 @@ _Context: Amos Oz, Arabic, David Grossman, Egypt, Farouk Hosni, Israel_
 _Context: China, Shenzhen, Xu Zongheng_
 
 ### [ For the first time ever, Brazil offers US$10 billion in financing to the International Monetary Fund to help improve the availability of credit in developing countries. ](/news/2009/06/11/for-the-first-time-ever-brazil-offers-us-10-billion-in-financing-to-the-international-monetary-fund-to-help-improve-the-availability-of-cr.md)
-_Context: Brazil, International Monetary Fund, US$_
+_Context: $, Brazil, International Monetary Fund_
 
 ### [ Ferrero SpA is cleared of allegations of fraud relating to the supply of hazelnuts. ](/news/2009/06/11/ferrero-spa-is-cleared-of-allegations-of-fraud-relating-to-the-supply-of-hazelnuts.md)
 _Context: Ferrero SpA, hazelnut_

@@ -19,3 +19,9 @@ Syrian troops clashed with rebels in the city of Aleppo for a second day Saturda
 3. [Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _Context: Damascus, Syria_
 4. [Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md) _Context: Aleppo, Syria_
 5. [Between four and 20 people are reported killed by government and Russian airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo, says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospitals-and-a-mobile.md) _Context: Aleppo, Syria_
+
+### Changes:
+
+1. [Syrian uprising (2011-present):Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/syrian-uprising-2011apresent-pheavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md) _2017-08-25 03:36:09 (First version)_
+2. [Syrian uprising (2011-present):: Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/syrian-uprising-2011-present-heavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md) _2017-08-27 03:36:20 (Update)_
+2. [Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/heavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md) _(Current version)_

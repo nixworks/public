@@ -18,3 +18,8 @@ Gunmen attacked a prisoner convoy north of Baghdad on Thursday, setting off a gu
 3. [Separate attacks in Baghdad kill at least eight people. ](/news/2015/03/5/separate-attacks-in-baghdad-kill-at-least-eight-people.md) _Context: Baghdad, Iraqi insurgency (2011-present)_
 4. [Multiple bombings in Baghdad, Iraq, kill at least nineteen people and wound another thirty-six. ](/news/2015/03/23/multiple-bombings-in-baghdad-iraq-kill-at-least-nineteen-people-and-wound-another-thirty-six.md) _Context: Baghdad, Iraqi insurgency (2011-present)_
 5. [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md) _Context: Baghdad, Iraqi insurgency (2011-present)_
+
+### Changes:
+
+1. [Iraqi insurgency (2011-present): Gunmen attack a prisoner convoy north of Baghdad resulting in the death of 52 prisoners and eight Iraqi Army soldiers. ](/news/2014/07/24/iraqi-insurgency-2011-present-gunmen-attack-a-prisoner-convoy-north-of-baghdad-resulting-in-the-death-of-52-prisoners-and-eight-iraqi-a.md) _2017-08-27 03:41:02 (First version)_
+1. [Gunmen attack a prisoner convoy north of Baghdad resulting in the death of 52 prisoners and eight Iraqi Army soldiers. ](/news/2014/07/24/gunmen-attack-a-prisoner-convoy-north-of-baghdad-resulting-in-the-death-of-52-prisoners-and-eight-iraqi-army-soldiers.md) _(Current version)_

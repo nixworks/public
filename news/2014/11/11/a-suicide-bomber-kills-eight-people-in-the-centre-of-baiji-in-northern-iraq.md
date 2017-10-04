@@ -17,3 +17,8 @@
 3. [According to the Syrian Observatory for Human Rights, at least 38 people are killed, including civilians and Syrian Democratic Forces fighters, after ISIL militants attack a camp for displaced Syrian and Iraqi refugees near Al-Shaddadah, Al-Hasakah Governorate. ](/news/2017/05/2/according-to-the-syrian-observatory-for-human-rights-at-least-38-people-are-killed-including-civilians-and-syrian-democratic-forces-fighte.md) _Context: Iraq, Islamic State_
 4. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq, Islamic State_
 5. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: Iraq, Islamic State_
+
+### Changes:
+
+1. [Islamic State of Iraq and the Levant: A suicide bomber kills eight people in the centre of Baiji in northern Iraq. ](/news/2014/11/11/islamic-state-of-iraq-and-the-levant-a-suicide-bomber-kills-eight-people-in-the-centre-of-baiji-in-northern-iraq.md) _2017-08-27 03:41:29 (First version)_
+1. [A suicide bomber kills eight people in the centre of Baiji in northern Iraq. ](/news/2014/11/11/a-suicide-bomber-kills-eight-people-in-the-centre-of-baiji-in-northern-iraq.md) _(Current version)_

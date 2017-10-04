@@ -17,3 +17,8 @@ The plane carrying footballers which crashed in Colombia ran out of fuel, a leak
 3. [Former Colombian crime boss Griselda Blanco is killed by hitmen in Medelln. ](/news/2012/09/3/former-colombian-crime-boss-griselda-blanco-is-killed-by-hitmen-in-medellin.md) _Context: Colombia, Medellin_
 4. [Voters in Colombia go to the polls for local gubernatorial and mayoral elections, including the mayors of Bogot, Medelln, and Cali. ](/news/2011/10/30/voters-in-colombia-go-to-the-polls-for-local-gubernatorial-and-mayoral-elections-including-the-mayors-of-bogota-medellin-and-cali.md) _Context: Colombia, Medellin_
 5. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Colombia_
+
+### Changes:
+
+1. [LaMia Airlines Flight 2933: The BBC reports that leaked audio recordings of air traffic tower tapes indicate that the LaMia Airlines flight was running out of fuel near the Colombian city of Medellin. ](/news/2016/11/30/lamia-airlines-flight-2933-the-bbc-reports-that-leaked-audio-recordings-of-air-traffic-tower-tapes-indicate-that-the-lamia-airlines-flight.md) _2017-08-27 03:47:21 (First version)_
+1. [The BBC reports that leaked audio recordings of air traffic tower tapes indicate that the LaMia Airlines flight was running out of fuel near the Colombian city of Medellin. ](/news/2016/11/30/the-bbc-reports-that-leaked-audio-recordings-of-air-traffic-tower-tapes-indicate-that-the-lamia-airlines-flight-was-running-out-of-fuel-near.md) _(Current version)_

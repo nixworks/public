@@ -16,3 +16,8 @@
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus, Syrian Civil War_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus, Syrian Civil War_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: At least eight people are reportedly killed as a car bomb explodes at a checkpoint south of Damascus. ](/news/2016/04/25/syrian-civil-war-at-least-eight-people-are-reportedly-killed-as-a-car-bomb-explodes-at-a-checkpoint-south-of-damascus.md) _2017-08-27 03:45:50 (First version)_
+1. [At least eight people are reportedly killed as a car bomb explodes at a checkpoint south of Damascus. ](/news/2016/04/25/at-least-eight-people-are-reportedly-killed-as-a-car-bomb-explodes-at-a-checkpoint-south-of-damascus.md) _(Current version)_

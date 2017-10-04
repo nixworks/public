@@ -20,3 +20,9 @@
 3. [Haitians commemorate the first anniversary of the 2010 earthquake. ](/news/2011/01/12/haitians-commemorate-the-first-anniversary-of-the-2010-earthquake.md) _Context: 2010 Haiti earthquake, Haiti_
 4. [Officials in Haiti say more than 2,000 people have died in the cholera outbreak. ](/news/2010/12/6/officials-in-haiti-say-more-than-2-000-people-have-died-in-the-cholera-outbreak.md) _Context: Haiti, worst epidemic of cholera_
 5. [At least 120 people are tested for cholera in the capital of Haiti, Port-au-Prince. ](/news/2010/11/8/at-least-120-people-are-tested-for-cholera-in-the-capital-of-haiti-port-au-prince.md) _Context: Haiti, worst epidemic of cholera_
+
+### Changes:
+
+1. [Haitian general election, 2010:Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/haitian-general-election-2010-pvoters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-th.md) _2017-08-25 03:31:11 (First version)_
+2. [Haitian general election, 2010:: Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/haitian-general-election-2010-voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-t.md) _2017-08-27 03:31:19 (Update)_
+2. [Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-the-cholera-epidemic-and-the-after.md) _(Current version)_

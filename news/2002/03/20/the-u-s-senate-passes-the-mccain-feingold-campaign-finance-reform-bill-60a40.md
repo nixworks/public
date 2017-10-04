@@ -12,3 +12,8 @@
 3. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: United States Senate_
 4. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _Context: United States Senate_
 5. [A hearing in the U.S. Senate is held about alleged human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md) _Context: United States Senate_
+
+### Changes:
+
+1. [The U.S. Senate passes the McCain-Feingold campaign finance reform bill 60-40.](/news/2002/03/20/the-u-s-senate-passes-the-mccain-feingold-campaign-finance-reform-bill-60-40.md) _2017-08-27 03:15:12 (First version)_
+1. [The U.S. Senate passes the McCain-Feingold campaign finance reform bill 60-40.](/news/2002/03/20/the-u-s-senate-passes-the-mccain-feingold-campaign-finance-reform-bill-60a40.md) _(Current version)_

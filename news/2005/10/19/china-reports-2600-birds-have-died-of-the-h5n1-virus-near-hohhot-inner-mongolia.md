@@ -19,3 +19,9 @@
 3. [Four employees of Chinese dairy giant Mengniu are arrested in Hohhot, Inner Mongolia for allegedly hiring a public relations firm to spread false rumours online about products of industry rival Yili Group. ](/news/2010/10/24/four-employees-of-chinese-dairy-giant-mengniu-are-arrested-in-hohhot-inner-mongolia-for-allegedly-hiring-a-public-relations-firm-to-spread.md) _Context: Hohhot, Inner Mongolia_
 4. [At least 10 people die and 14 are injured in a fire at a dormitory for railway workers in Hohhot, Inner Mongolia. ](/news/2010/05/4/at-least-10-people-die-and-14-are-injured-in-a-fire-at-a-dormitory-for-railway-workers-in-hohhot-inner-mongolia.md) _Context: Hohhot, Inner Mongolia_
 5. [ China's Inner Mongolia Autonomous Region celebrates its 60th Anniversary. Chinese Vice-President Zeng Qinghong visits its capital, Hohhot, and participates in a series of large celebration events. ](/news/2007/08/8/china-s-inner-mongolia-autonomous-region-celebrates-its-60th-anniversary-chinese-vice-president-zeng-qinghong-visits-its-capital-hohhot.md) _Context: Hohhot, Inner Mongolia_
+
+### Changes:
+
+1. [ Avian influenza: China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/avian-influenza-p-china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md) _2017-08-25 03:16:59 (First version)_
+2. [ Avian influenza:: China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/avian-influenza-china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md) _2017-08-27 03:16:58 (Update)_
+2. [ China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md) _(Current version)_

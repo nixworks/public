@@ -18,3 +18,9 @@ Union pledges to fight to reverse the decision.
 3. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: Japan_
 4. [Japan agrees to help with the construction of an Indian bullet train. ](/news/2017/09/14/japan-agrees-to-help-with-the-construction-of-an-indian-bullet-train.md) _Context: Japan_
 5. [North Korea fires a Hwasong-12 ballistic missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-hwasong-12-ballistic-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-th.md) _Context: Japan_
+
+### Changes:
+
+1. [ Late 2000s recession: Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/late-2000s-recession-p-japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md) _2017-08-25 03:23:44 (First version)_
+2. [ Late 2000s recession:: Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/late-2000s-recession-japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md) _2017-08-27 03:23:35 (Update)_
+2. [ Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md) _(Current version)_

@@ -25,7 +25,7 @@ _Context: Malaysia, Malaysia Airlines Flight 370, Malaysian Airlines_
 South Korea has reported 24 cases of the virus since diagnosing the its first MERS illness last month in a man who had traveled to the Middle East.
 
 ### [Beijing bans smoking in indoor public places, including offices, shopping malls, restaurants, bars and airports, and in outdoor public places, including hospitals and schools. ](/news/2015/06/2/beijing-bans-smoking-in-indoor-public-places-including-offices-shopping-malls-restaurants-bars-and-airports-and-in-outdoor-public-place.md)
-_Context: Beijing, airports, bans, bars, hospitals, offices, restaurants, schools, shopping malls_
+_Context: Beijing, airports, ban, bars, hospitals, offices, restaurants, schools, shopping malls_
 
 ### [Thai Army Lieutenant General Manus Kongpan is suspended after police order his arrest on involvement in people trafficking. ](/news/2015/06/2/thai-army-lieutenant-general-manus-kongpan-is-suspended-after-police-order-his-arrest-on-involvement-in-people-trafficking.md)
 A Thai military general is suspended after police ordered his arrest on suspicion of human trafficking.

@@ -17,3 +17,8 @@ U.S. electronics chain RadioShack Corp filed for bankruptcy on Wednesday for the
 3. [Rapper Curtis James Jackson III, better known by his stage name 50 Cent, files for Chapter 11 bankruptcy protection. ](/news/2015/07/13/rapper-curtis-james-jackson-iii-better-known-by-his-stage-name-50-cent-files-for-chapter-11-bankruptcy-protection.md) _Context: Chapter 11_
 4. [American electronics retailer RadioShack files for Chapter 11 bankruptcy. ](/news/2015/02/5/american-electronics-retailer-radioshack-files-for-chapter-11-bankruptcy.md) _Context: RadioShack_
 5. [American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. ](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.md) _Context: Chapter 11_
+
+### Changes:
+
+1. [RadioShack files for chapter 11 protection from creditors for the second time in two years. [http:--www.reuters.com-article-us-radioshack-bankruptcy-idUSKBN16G06J (Reuters)].](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years-http-www-reuters-com-article-us-radioshack-ba.md) _2017-06-18 03:50:29 (First version)_
+1. [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-philippines.md) _Context: Abu Sayyaf, Philippines_
 4. [The armed group Abu Sayyaf kidnaps a German national and murders his female companion off the coast of Mindanao in the Philippines. ](/news/2016/11/7/the-armed-group-abu-sayyaf-kidnaps-a-german-national-and-murders-his-female-companion-off-the-coast-of-mindanao-in-the-philippines.md) _Context: Abu Sayyaf, Philippines_
 5. [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _Context: Abu Sayyaf, Philippines_
+
+### Changes:
+
+1. [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-an.md) _2017-08-25 03:34:56 (First version)_
+1. [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md) _(Current version)_

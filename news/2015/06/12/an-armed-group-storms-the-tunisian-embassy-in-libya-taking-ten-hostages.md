@@ -16,3 +16,8 @@
 3. [The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-captured-five-cities-and-two-oil-pro.md) _Context: Libya, Libyan Civil War (2014-present)_
 4. [U.S. B-2 stealth bombers strike two ISIL camps, south of the city of Sirte, Libya, killing more than 80 militants, according to United States Secretary of Defense Ash Carter. ](/news/2017/01/19/u-s-b-2-stealth-bombers-strike-two-isil-camps-south-of-the-city-of-sirte-libya-killing-more-than-80-militants-according-to-united-state.md) _Context: Libya, Libyan Civil War (2014-present)_
 5. [ At least eight are killed in clashes in Tripoli, Libya. ](/news/2016/12/2/at-least-eight-are-killed-in-clashes-in-tripoli-libya.md) _Context: Libya, Libyan Civil War (2014-present)_
+
+### Changes:
+
+1. [Libyan Civil War (2014-present): An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/libyan-civil-war-2014-present-an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md) _2017-08-27 03:42:31 (First version)_
+1. [An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md) _(Current version)_

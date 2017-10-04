@@ -16,3 +16,8 @@
 3. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
 4. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: South Korea_
 5. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
+
+### Changes:
+
+1. [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries. ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-reta.md) _2017-08-25 03:33:27 (First version)_
+1. [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries. ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-retal.md) _(Current version)_

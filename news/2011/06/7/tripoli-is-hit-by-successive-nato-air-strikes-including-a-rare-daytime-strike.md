@@ -21,3 +21,9 @@ Libyan leader Moammar Gadhafi vowed Tuesday that &quot;we will not surrender,&qu
 3. [NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/nato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses-artillery-fire-to-kill.md) _Context: NATO, Tripoli_
 4. [Libyan leader Muammar Gaddafi's compound in Tripoli is hit by a NATO bombing raid. ](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.md) _Context: NATO, Tripoli_
 5. [Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md) _Context: NATO, Tripoli_
+
+### Changes:
+
+1. [Libyan Civil War:Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/libyan-civil-war-ptripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md) _2017-08-25 03:33:24 (First version)_
+2. [Libyan Civil War:: Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/libyan-civil-war-tripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md) _2017-08-27 03:33:32 (Update)_
+2. [Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/tripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md) _(Current version)_

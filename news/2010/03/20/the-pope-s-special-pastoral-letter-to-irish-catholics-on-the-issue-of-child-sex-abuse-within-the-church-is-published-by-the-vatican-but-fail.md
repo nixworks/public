@@ -13,3 +13,9 @@ Pope Benedict XVI has described the abuse of children by Irish clergy and religi
 4. [RTÉ](http://www.rte.ie/news/2010/0320/abuse.html)
 5. [Reuters](http://www.reuters.com/article/idUSTRE62J1OY20100320)
 5. [Cover Image](https://img.rasset.ie/0002ee10-1600.jpg)
+
+### Changes:
+
+1. [Child sex abuse in the Catholic Church:The Pope's special pastoral letter to Irish Catholics on the issue of child sex abuse within the Church is published by the Vatican but fails to impress some survivors organisations. ](/news/2010/03/20/child-sex-abuse-in-the-catholic-church-pthe-pope-s-special-pastoral-letter-to-irish-catholics-on-the-issue-of-child-sex-abuse-within-the-chu.md) _2017-08-25 03:27:25 (First version)_
+2. [Child sex abuse in the Catholic Church:: The Pope's special pastoral letter to Irish Catholics on the issue of child sex abuse within the Church is published by the Vatican but fails to impress some survivors organisations. ](/news/2010/03/20/child-sex-abuse-in-the-catholic-church-the-pope-s-special-pastoral-letter-to-irish-catholics-on-the-issue-of-child-sex-abuse-within-the-ch.md) _2017-08-27 03:27:21 (Update)_
+2. [The Pope's special pastoral letter to Irish Catholics on the issue of child sex abuse within the Church is published by the Vatican but fails to impress some survivors organisations. ](/news/2010/03/20/the-pope-s-special-pastoral-letter-to-irish-catholics-on-the-issue-of-child-sex-abuse-within-the-church-is-published-by-the-vatican-but-fail.md) _(Current version)_

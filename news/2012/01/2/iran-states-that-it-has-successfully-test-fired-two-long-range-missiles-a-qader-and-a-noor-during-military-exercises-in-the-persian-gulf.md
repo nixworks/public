@@ -23,3 +23,9 @@ Iran said on Monday it had successfully test-fired what it described as two long
 3. [ U.S. Secretary of State Hillary Clinton warns that it could arm its allies in the Gulf and extend a "defense umbrella" over the region, if Iran goes nuclear. ](/news/2009/07/22/u-s-secretary-of-state-hillary-clinton-warns-that-it-could-arm-its-allies-in-the-gulf-and-extend-a-defense-umbrella-over-the-region-if.md) _Context: Iran, Persian Gulf_
 4. [ Iran opens a naval base in the town of Jask, just outside the Strait of Hormuz entrance to the Persian Gulf. ](/news/2008/10/28/iran-opens-a-naval-base-in-the-town-of-jask-just-outside-the-strait-of-hormuz-entrance-to-the-persian-gulf.md) _Context: Iran, Persian Gulf_
 5. [ Iran test-fires a Sagheb missile during exercises in the Persian Gulf. ](/news/2006/08/27/iran-test-fires-a-sagheb-missile-during-exercises-in-the-persian-gulf.md) _Context: Iran, Persian Gulf_
+
+### Changes:
+
+1. [Iran:Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-piran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian.md) _2017-08-25 03:34:47 (First version)_
+2. [Iran:: Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-iran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian.md) _2017-08-27 03:34:56 (Update)_
+2. [Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian-gulf.md) _(Current version)_

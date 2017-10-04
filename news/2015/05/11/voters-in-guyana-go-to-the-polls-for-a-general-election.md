@@ -17,3 +17,8 @@
 3. [Guyana rejects the latest objections raised by neighboring Venezuela over the granting to ExxonMobil Corp. of an oil and gas concession in Caribbean waters claimed by both nations. ](/news/2015/03/14/guyana-rejects-the-latest-objections-raised-by-neighboring-venezuela-over-the-granting-to-exxonmobil-corp-of-an-oil-and-gas-concession-in-c.md) _Context: Guyana_
 4. [No-one was killed when a Caribbean Airlines Boeing 737 plane crashed and split in two at the Cheddi Jagan International Airport, Guyana ](/news/2011/07/31/no-one-was-killed-when-a-caribbean-airlines-boeing-737-plane-crashed-and-split-in-two-at-the-cheddi-jagan-international-airport-guyana.md) _Context: Guyana_
 5. [Guyana formally recognizes Palestine as an independent state as part of its "long-standing and unwavering solidarity with, and commitment to, the just and legitimate aspirations of the people of Palestine for the exercise of their right to self-determination and to achieve a homeland of their own, independent, free, prosperous and at peace", a foreign ministry statement says. ](/news/2011/01/14/guyana-formally-recognizes-palestine-as-an-independent-state-as-part-of-its-long-standing-and-unwavering-solidarity-with-and-commitment-to.md) _Context: Guyana_
+
+### Changes:
+
+1. [Guyanese general election: Voters in Guyana go to the polls for a general election. ](/news/2015/05/11/guyanese-general-election-voters-in-guyana-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:42:18 (First version)_
+1. [Voters in Guyana go to the polls for a general election. ](/news/2015/05/11/voters-in-guyana-go-to-the-polls-for-a-general-election.md) _(Current version)_

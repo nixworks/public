@@ -17,3 +17,8 @@ The Bank of England says it will inject a further £75bn into the economy throug
 3. [As markets have expected, the Bank of England cuts the key interest rate to 0.25, the first cut since 2009. ](/news/2016/08/4/as-markets-have-expected-the-bank-of-england-cuts-the-key-interest-rate-to-0-25-the-first-cut-since-2009.md) _Context: Bank of England_
 4. [ The Bank of England issues an unusually sharp warning about the possible economic consequences of an "Out" vote in the upcoming Brexit referendum. ](/news/2016/05/12/the-bank-of-england-issues-an-unusually-sharp-warning-about-the-possible-economic-consequences-of-an-out-vote-in-the-upcoming-brexit-refe.md) _Context: Bank of England_
 5. [The Bank of England fires Martin Mallett, once its chief foreign exchange dealer, due to evidence that he was in some degree complicit in market manipulation. ](/news/2014/11/11/the-bank-of-england-fires-martin-mallett-once-its-chief-foreign-exchange-dealer-due-to-evidence-that-he-was-in-some-degree-complicit-in-ma.md) _Context: Bank of England_
+
+### Changes:
+
+1. [The Bank of England injects a further PS75bn into the British economy through quantitative easing. ](/news/2011/10/6/the-bank-of-england-injects-a-further-aps75bn-into-the-british-economy-through-quantitative-easing.md) _2017-08-25 03:34:16 (First version)_
+1. [The Bank of England injects a further GBP75bn into the British economy through quantitative easing. ](/news/2011/10/6/the-bank-of-england-injects-a-further-agbp75bn-into-the-british-economy-through-quantitative-easing.md) _(Current version)_

@@ -16,3 +16,9 @@
 3. [At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/at-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hagel-the-united-states.md) _Context: Chuck Hagel, Defense Secretary_
 4. [Chuck Hagel is sworn in as United States Secretary of Defense, replacing Leon Panetta. ](/news/2013/02/27/chuck-hagel-is-sworn-in-as-united-states-secretary-of-defense-replacing-leon-panetta.md) _Context: Chuck Hagel, Defense Secretary_
 5. [Chuck Hagel is confirmed by the Senate as the United States Secretary of Defense. ](/news/2013/02/26/chuck-hagel-is-confirmed-by-the-senate-as-the-united-states-secretary-of-defense.md) _Context: Chuck Hagel, Defense Secretary_
+
+### Changes:
+
+1. [Senkaku Islands dispute:United States Secretary of Defense Chuck Hagel voices the U.S. government's continued support of Japan's claims to the disputed territory. ](/news/2014/04/8/senkaku-islands-dispute-punited-states-secretary-of-defense-chuck-hagel-voices-the-u-s-governmentas-continued-support-of-japanas-claims.md) _2017-08-25 03:40:16 (First version)_
+2. [Senkaku Islands dispute:: United States Secretary of Defense Chuck Hagel voices the U.S. government-s continued support of Japan-s claims to the disputed territory. ](/news/2014/04/8/senkaku-islands-dispute-united-states-secretary-of-defense-chuck-hagel-voices-the-u-s-government-s-continued-support-of-japan-s-claim.md) _2017-08-27 03:40:34 (Update)_
+2. [United States Secretary of Defense Chuck Hagel voices the U.S. government's continued support of Japan's claims to the disputed territory. ](/news/2014/04/8/united-states-secretary-of-defense-chuck-hagel-voices-the-u-s-governmentas-continued-support-of-japanas-claims-to-the-disputed-territor.md) _(Current version)_

@@ -17,3 +17,9 @@ Tens of thousands of people gathered in the city of Krakow on Sunday for the sta
 8. [Reuters](http://www.reuters.com/article/industrialsSector/idUSLDE63H0F220100418)
 9. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7101167.ece)
 9. [Cover Image](https://i.cbc.ca/1.2067723.1381900059!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-kaczynski-funeral-cp-rtr.jpg)
+
+### Changes:
+
+1. [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-pthousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md) _2017-08-25 03:27:40 (First version)_
+2. [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:: Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-thousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md) _2017-08-27 03:27:37 (Update)_
+2. [Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/thousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md) _(Current version)_

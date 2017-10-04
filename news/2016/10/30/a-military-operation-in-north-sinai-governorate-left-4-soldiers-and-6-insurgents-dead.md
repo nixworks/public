@@ -16,3 +16,8 @@
 3. [A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of-the-city-wounds-a.md) _Context: Sinai insurgency_
 4. [A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _Context: Sinai insurgency_
 5. [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _Context: Sinai insurgency_
+
+### Changes:
+
+1. [Sinai insurgency: A military operation in North Sinai Governorate left 4 soldiers and 6 insurgents dead. ](/news/2016/10/30/sinai-insurgency-a-military-operation-in-north-sinai-governorate-left-4-soldiers-and-6-insurgents-dead.md) _2017-08-27 03:47:09 (First version)_
+1. [A military operation in North Sinai Governorate left 4 soldiers and 6 insurgents dead. ](/news/2016/10/30/a-military-operation-in-north-sinai-governorate-left-4-soldiers-and-6-insurgents-dead.md) _(Current version)_

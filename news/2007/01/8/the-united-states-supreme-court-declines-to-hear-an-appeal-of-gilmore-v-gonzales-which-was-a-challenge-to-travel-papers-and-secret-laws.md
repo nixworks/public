@@ -17,3 +17,8 @@
 3. [The United States Supreme Court ruled in "Montgomery v. Louisiana" (2016) that its prohibition of mandatory life sentences for juveniles convicted of murder (under "Miller v. Alabama" (2012)), had to be applied retroactively, potentially affecting 1300 to 2300 cases nationally.](/news/2016/01/25/the-united-states-supreme-court-ruled-in-montgomery-v-louisiana-2016-that-its-prohibition-of-mandatory-life-sentences-for-juveniles-con.md) _Context: United States Supreme Court_
 4. [In a 5-4 decision, the United States Supreme Court declares state bans on same-sex marriage unconstitutional and effectively legalizes it across the United States. ](/news/2015/06/26/in-a-5-4-decision-the-united-states-supreme-court-declares-state-bans-on-same-sex-marriage-unconstitutional-and-effectively-legalizes-it-ac.md) _Context: United States Supreme Court_
 5. [The legality of private gambling is taken before the United States Supreme Court. ](/news/2014/02/17/the-legality-of-private-gambling-is-taken-before-the-united-states-supreme-court.md) _Context: United States Supreme Court_
+
+### Changes:
+
+1. [ The United States Supreme Court declines to hear an appeal of ''Gilmore v. Gonzales'', which was a challenge to travel papers and secret laws. ](/news/2007/01/8/the-united-states-supreme-court-declines-to-hear-an-appeal-of-gilmore-v-gonzales-which-was-a-challenge-to-travel-papers-and-secret-l.md) _2017-08-25 03:18:58 (First version)_
+1. [ The United States Supreme Court declines to hear an appeal of "Gilmore v. Gonzales", which was a challenge to travel papers and secret laws. ](/news/2007/01/8/the-united-states-supreme-court-declines-to-hear-an-appeal-of-gilmore-v-gonzales-which-was-a-challenge-to-travel-papers-and-secret-laws.md) _(Current version)_

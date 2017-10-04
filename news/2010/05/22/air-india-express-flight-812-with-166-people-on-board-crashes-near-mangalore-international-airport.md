@@ -19,3 +19,9 @@ A Boeing 737-8HG (WL) passenger plane, registered VT-AXV, was destroyed in a lan
 ### Related:
 
 1. [Rescue teams hunt for the data recorders from Air India Express Flight 812. ](/news/2010/05/23/rescue-teams-hunt-for-the-data-recorders-from-air-india-express-flight-812.md) _Context: Air India Express Flight 812_
+
+### Changes:
+
+1. [Air India Express Flight 812:Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. ](/news/2010/05/22/air-india-express-flight-812-pair-india-express-flight-812-with-166-people-on-board-crashes-near-mangalore-international-airport.md) _2017-08-25 03:27:58 (First version)_
+2. [Air India Express Flight 812:: Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. ](/news/2010/05/22/air-india-express-flight-812-air-india-express-flight-812-with-166-people-on-board-crashes-near-mangalore-international-airport.md) _2017-08-27 03:27:57 (Update)_
+2. [Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. ](/news/2010/05/22/air-india-express-flight-812-with-166-people-on-board-crashes-near-mangalore-international-airport.md) _(Current version)_

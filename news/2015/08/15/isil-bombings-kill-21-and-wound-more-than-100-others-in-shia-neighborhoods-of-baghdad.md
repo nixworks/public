@@ -16,3 +16,8 @@
 3. [Iraqi security forces raid the offices of Kata'ib Hezbollah in Baghdad, accusing them of being involved in the abduction of 18 Turkish workers. ](/news/2015/09/4/iraqi-security-forces-raid-the-offices-of-kata-ib-hezbollah-in-baghdad-accusing-them-of-being-involved-in-the-abduction-of-18-turkish-worke.md) _Context: Baghdad, Iraq War (2014-present)_
 4. [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md) _Context: Baghdad, Iraq War (2014-present)_
 5. [Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md) _Context: Baghdad, Iraq War (2014-present)_
+
+### Changes:
+
+1. [Iraq War (2014-present): ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/iraq-war-2014-present-isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md) _2017-08-27 03:42:50 (First version)_
+1. [ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md) _(Current version)_

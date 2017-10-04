@@ -17,3 +17,8 @@ Two pilots have surpassed the world distance and durations records for a flight 
 3. [Tropical Storm Jova forms off the Pacific coast of Mexico. ](/news/2011/10/6/tropical-storm-jova-forms-off-the-pacific-coast-of-mexico.md) _Context: Mexico, Pacific Ocean_
 4. [Tropical Storm Calvin forms off the Pacific coast of Mexico. ](/news/2011/07/8/tropical-storm-calvin-forms-off-the-pacific-coast-of-mexico.md) _Context: Mexico, Pacific Ocean_
 5. [ Hurricane Paul becomes a Category 2 hurricane off Mexico's Pacific coast as it heads for Baja California. ](/news/2006/10/23/hurricane-paul-becomes-a-category-2-hurricane-off-mexico-s-pacific-coast-as-it-heads-for-baja-california.md) _Context: Mexico, Pacific Ocean_
+
+### Changes:
+
+1. [Two balloonists, Troy Bradley of the United States and Leonid Tiukhtyaev of Russia, are crossing the Pacific Ocean in the Two Eagles gas balloon and have surpassed the distance and duration records for straight gas balloons. They are set to land in Mexico on Saturday. ](/news/2015/01/30/two-balloonists-troy-bradley-of-the-united-states-and-leonid-tiukhtyaev-of-russia-are-crossing-the-pacific-ocean-in-the-two-eagles-gas-ba.md) _2017-08-25 03:41:33 (First version)_
+1. [Two balloonists, Troy Bradley of the United States and Leonid Tiukhtyaev of Russia, are crossing the Pacific Ocean in the Two Eagles gas balloon and have surpassed the distance and duration records for straight gas balloons. They are set to land in Mexico on Saturday. ](/news/2015/01/30/two-balloonists-troy-bradley-of-the-united-states-and-leonid-tiukhtyaev-of-russia-are-crossing-the-pacific-ocean-in-the-two-eagles-gas-bal.md) _(Current version)_

@@ -17,3 +17,9 @@
 3. [The government of Sudan denies allegations from South Sudan that it is supporting rebels threatening oil fields in its southern neighbour. ](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.md) _Context: South Sudan, Sudan_
 4. [The United Nations seeks $16.4 billion to fund humanitarian assistance programs in 2015 with Syria, Iraq, Sudan and South Sudan the areas of greatest need. ](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.md) _Context: South Sudan, Sudan_
 5. [Sudanese president Omar al-Bashir orders the closure of oil pipelines coming from South Sudan. ](/news/2013/06/8/sudanese-president-omar-al-bashir-orders-the-closure-of-oil-pipelines-coming-from-south-sudan.md) _Context: South Sudan, Sudan_
+
+### Changes:
+
+1. [2012 South Sudan-Sudan border conflict:Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/2012-south-sudanasudan-border-conflict-psudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md) _2017-08-25 03:35:30 (First version)_
+2. [2012 South Sudan-Sudan border conflict:: Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/2012-south-sudan-sudan-border-conflict-sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md) _2017-08-27 03:35:39 (Update)_
+2. [Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md) _(Current version)_

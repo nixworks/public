@@ -18,3 +18,9 @@ Leaders also agreed to recapitalize struggling banks without making governments 
 3. [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md) _Context: EU_
 4. [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md) _Context: EU_
 5. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: EU_
+
+### Changes:
+
+1. [Crisis in the European Union:European Union leaders agree to use a bailout fund to recapitalise struggling banks and to work on a plan for tighter budgetary and political union. ](/news/2012/06/29/crisis-in-the-european-union-peuropean-union-leaders-agree-to-use-a-bailout-fund-to-recapitalise-struggling-banks-and-to-work-on-a-plan-for.md) _2017-08-25 03:36:00 (First version)_
+2. [Crisis in the European Union:: European Union leaders agree to use a bailout fund to recapitalise struggling banks and to work on a plan for tighter budgetary and political union. ](/news/2012/06/29/crisis-in-the-european-union-european-union-leaders-agree-to-use-a-bailout-fund-to-recapitalise-struggling-banks-and-to-work-on-a-plan-for.md) _2017-08-27 03:36:11 (Update)_
+2. [European Union leaders agree to use a bailout fund to recapitalise struggling banks and to work on a plan for tighter budgetary and political union. ](/news/2012/06/29/european-union-leaders-agree-to-use-a-bailout-fund-to-recapitalise-struggling-banks-and-to-work-on-a-plan-for-tighter-budgetary-and-politica.md) _(Current version)_

@@ -17,3 +17,8 @@ Deceased include political tehsildar; one Levies official injured
 3. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Pakistan, War in North-West Pakistan_
 4. [At least six people are killed in a bomb blast in the Pakistani city of Lahore. ](/news/2017/02/23/at-least-six-people-are-killed-in-a-bomb-blast-in-the-pakistani-city-of-lahore.md) _Context: Pakistan, War in North-West Pakistan_
 5. [Two separate bombings take place in Pakistan, killing at least seven people. A suicide bomber kills five people at the administrative headquarters in the Mohmand Agency tribal district while the other kills two people at a hospital in Peshawar. Jamaat-ul-Ahrar claims responsibility for the first attack. ](/news/2017/02/15/two-separate-bombings-take-place-in-pakistan-killing-at-least-seven-people-a-suicide-bomber-kills-five-people-at-the-administrative-headqu.md) _Context: Pakistan, War in North-West Pakistan_
+
+### Changes:
+
+1. [A roadside bomb kills five people in Pakistan's Bajaur Agency. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-pakistan-s-bajaur-agency.md) _2017-09-18 21:30:06 (First version)_
+1. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _(Current version)_

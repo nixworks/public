@@ -16,3 +16,8 @@
 3. [2011 Libyan civil war: Human rights groups accuse pro-Gaddafi troops of using cluster bombs in Misrata. ](/news/2011/04/15/2011-libyan-civil-war-human-rights-groups-accuse-pro-gaddafi-troops-of-using-cluster-bombs-in-misrata.md) _Context: Libyan Civil War, Misrata_
 4. [2011 Libyan civil war: Muammar Gaddafi's forces attack the eastern front line and shell the city of Misrata. ](/news/2011/04/12/2011-libyan-civil-war-muammar-gaddafi-s-forces-attack-the-eastern-front-line-and-shell-the-city-of-misrata.md) _Context: Libyan Civil War, Misrata_
 5. [Al-Jazeera reports that forces supporting Muammar Gaddafi have bombed targets in the Libyan city of Misrata. ](/news/2011/03/1/al-jazeera-reports-that-forces-supporting-muammar-gaddafi-have-bombed-targets-in-the-libyan-city-of-misrata.md) _Context: Libyan Civil War, Misrata_
+
+### Changes:
+
+1. [2011 Libyan civil war: The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/2011-libyan-civil-war-the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-larg.md) _2017-08-27 03:33:10 (First version)_
+1. [The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-large-fire.md) _(Current version)_

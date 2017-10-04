@@ -20,3 +20,8 @@ Turnout in the referendum on Scottish independence hit a record high for any ele
 3. [Scottish First Minister Alex Salmond says that blocking a post-independence Scotland from a currency union could damage businesses in the rest of the United Kingdom. ](/news/2014/02/17/scottish-first-minister-alex-salmond-says-that-blocking-a-post-independence-scotland-from-a-currency-union-could-damage-businesses-in-the-re.md) _Context: Scotland, Scottish independence_
 4. [Jose Manuel Barroso, President of the European Commission, says it would be "extremely difficult, if not impossible" for an independent Scotland to join the European Union as it would need the approval of all member states. ](/news/2014/02/16/josa-c-manuel-barroso-president-of-the-european-commission-says-it-would-be-extremely-difficult-if-not-impossible-for-an-independent-sco.md) _Context: Scotland, Scottish independence_
 5. [The BBC is told that the UK's three main political parties, the Conservatives, Labour and the Liberal Democrats, will declare that whoever forms the government after the next general election will not agree to a currency union with an independent Scotland. ](/news/2014/02/12/the-bbc-is-told-that-the-uk-s-three-main-political-parties-the-conservatives-labour-and-the-liberal-democrats-will-declare-that-whoever-f.md) _Context: Scotland, Scottish independence_
+
+### Changes:
+
+1. [2014 Scottish independence referendum: Scotland votes "No" to Scottish independence. ](/news/2014/09/19/2014-scottish-independence-referendum-scotland-votes-no-to-scottish-independence.md) _2017-08-27 03:41:18 (First version)_
+1. [Scotland votes "No" to Scottish independence. ](/news/2014/09/19/scotland-votes-no-to-scottish-independence.md) _(Current version)_

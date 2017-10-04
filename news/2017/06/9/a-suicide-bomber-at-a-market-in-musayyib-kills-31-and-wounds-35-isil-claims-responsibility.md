@@ -17,3 +17,8 @@ A woman suicide bomber killed at least 31 people and wounded 35 in a crowded mar
 3. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Iraqi Civil War (2014-present), Islamic State_
 4. [The Iraqi Army announces the liberation of the eastern part of Mosul following the collapse of ISIL defenses. ](/news/2017/01/18/the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-following-the-collapse-of-isil-defenses.md) _Context: Iraqi Civil War (2014-present), Islamic State_
 5. [At least 80 Shia pilgrims are killed in a truck bomb attack in Iraq. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/24/at-least-80-shia-pilgrims-are-killed-in-a-truck-bomb-attack-in-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Iraqi Civil War (2014-present), Islamic State_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/iraqi-civil-war-2014-present-a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md) _2017-08-27 03:48:27 (First version)_
+1. [A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md) _(Current version)_

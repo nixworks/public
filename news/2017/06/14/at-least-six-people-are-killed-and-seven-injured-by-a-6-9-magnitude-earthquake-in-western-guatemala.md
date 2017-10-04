@@ -17,3 +17,8 @@ GUATEMALA CITY (AP) — Five people were killed and seven injured by a magnitude
 3. [A fire breaks out at an orphanage in San Jose Pinula, Guatemala after students protesting conditions including alleged sexual and physical abuse set fire to their bedding, killing at least 19 children. ](/news/2017/03/8/a-fire-breaks-out-at-an-orphanage-in-san-josa-c-pinula-guatemala-after-students-protesting-conditions-including-alleged-sexual-and-physical.md) _Context: Guatemala_
 4. [The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 38 children. ](/news/2017/03/11/the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-38-children.md) _Context: Guatemala_
 5. [The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 35 children. ](/news/2017/03/10/the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-35-children.md) _Context: Guatemala_
+
+### Changes:
+
+1. [Earthquakes in Guatemala: At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/earthquakes-in-guatemala-at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _2017-08-27 03:48:29 (First version)_
+1. [At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _(Current version)_

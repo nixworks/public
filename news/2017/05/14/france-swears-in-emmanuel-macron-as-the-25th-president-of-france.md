@@ -17,3 +17,8 @@ New French President Emmanuel Macron pledges to work to overcome divisions in so
 3. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _Context: Emmanuel Macron, President of France, last month's presidential election_
 4. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: Emmanuel Macron, France, last month's presidential election_
 5. [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md) _Context: France, President of France, last month's presidential election_
+
+### Changes:
+
+1. [French presidential election, 2017: France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/french-presidential-election-2017-france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _2017-08-27 03:48:20 (First version)_
+1. [France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _(Current version)_

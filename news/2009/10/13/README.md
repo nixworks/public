@@ -31,7 +31,7 @@ The Democratic Liberal Government led by Emil Boc lost a censure motion vote in 
 Josef Stalin&#039;s grandson has lost a bizarre legal case he hoped would rehabilitate the Soviet dictator&#039;s murderous reputation posthumously.
 
 ### [ Spanish authorities arrest five members of the banned Basque political group Batasuna. ](/news/2009/10/13/spanish-authorities-arrest-five-members-of-the-banned-basque-political-group-batasuna.md)
-_Context: Basque, Batasuna, Spain_
+_Context: Basque, Batasuna, Spanish_
 
 ### [ North and South Korea agree to hold talks on flood control and family reunions, after North Korea fired several short range missiles earlier this week. ](/news/2009/10/13/north-and-south-korea-agree-to-hold-talks-on-flood-control-and-family-reunions-after-north-korea-fired-several-short-range-missiles-earlie.md)
 _Context: North Korea, South Korea_

@@ -17,3 +17,8 @@ CAGAYAN DE ORO, Philippines -- Presidential candidates hoping to succeed incumbe
 3. [Bongbong Marcos pays [?]36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/bongbong-marcos-pays-a-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine-vice-president-leni-robredo.md) _Context: Philippine presidential election, 2016_
 4. [The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-marcos-against-philippine-vice-president-le.md) _Context: Philippine presidential election, 2016_
 5. [Cagayan de Oro experienced a series of flash floods caused by heavy rainfall brought by a low-pressure area in the Moro Gulf. ](/news/2017/01/16/cagayan-de-oro-experienced-a-series-of-flash-floods-caused-by-heavy-rainfall-brought-by-a-low-pressure-area-in-the-moro-gulf.md) _Context: Cagayan de Oro_
+
+### Changes:
+
+1. [Philippine presidential election, 2016: The debate series, "PiliPinas Debates 2016", kicks off in Cagayan de Oro. ](/news/2016/02/21/philippine-presidential-election-2016-the-debate-series-pilipinas-debates-2016-kicks-off-in-cagayan-de-oro.md) _2017-08-27 03:44:58 (First version)_
+1. [The debate series, "PiliPinas Debates 2016", kicks off in Cagayan de Oro. ](/news/2016/02/21/the-debate-series-pilipinas-debates-2016-kicks-off-in-cagayan-de-oro.md) _(Current version)_

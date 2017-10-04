@@ -17,3 +17,8 @@
 3. [ Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-int.md) _Context: 2015-16 Iraqi protests, Baghdad, Green Zone_
 4. [ Iraqi insurgency: A roadside bomb kills two civilians near Baghdad's Green Zone. ](/news/2007/11/14/iraqi-insurgency-a-roadside-bomb-kills-two-civilians-near-baghdad-s-green-zone.md) _Context: Baghdad, Green Zone_
 5. [ Mortars hit the Green Zone in Baghdad. The Green Zone has been attacked at least 80 times since March, killing 26. ](/news/2007/07/10/mortars-hit-the-green-zone-in-baghdad-the-green-zone-has-been-attacked-at-least-80-times-since-march-killing-26.md) _Context: Baghdad, Green Zone_
+
+### Changes:
+
+1. [ 2015-16 Iraqi protests: At least four are killed and 90 injured among protesters who stormed the Green Zone in Baghdad. ](/news/2016/05/21/2015-16-iraqi-protests-at-least-four-are-killed-and-90-injured-among-protesters-who-stormed-the-green-zone-in-baghdad.md) _2017-08-27 03:46:05 (First version)_
+1. [ At least four are killed and 90 injured among protesters who stormed the Green Zone in Baghdad. ](/news/2016/05/21/at-least-four-are-killed-and-90-injured-among-protesters-who-stormed-the-green-zone-in-baghdad.md) _(Current version)_

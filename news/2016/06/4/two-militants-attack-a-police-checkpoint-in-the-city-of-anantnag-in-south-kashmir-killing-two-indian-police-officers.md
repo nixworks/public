@@ -17,3 +17,8 @@ The attack comes ahead of the June 22 polling for by-election to Anantnag Assemb
 3. [Indian and Pakistani border guards exchange gunfire over the disputed Kashmir border with nine civilians killed and 63 injured. ](/news/2015/08/28/indian-and-pakistani-border-guards-exchange-gunfire-over-the-disputed-kashmir-border-with-nine-civilians-killed-and-63-injured.md) _Context: Kashmir, Kashmir conflict_
 4. [India and Pakistan trade gunfire over the border in the disputed area of Kashmir leaving eight people killed in the past week. ](/news/2015/08/16/india-and-pakistan-trade-gunfire-over-the-border-in-the-disputed-area-of-kashmir-leaving-eight-people-killed-in-the-past-week.md) _Context: Kashmir, Kashmir conflict_
 5. [Indian paramilitary forces shoot dead seven protesters outside a Border Security Force station in Kashmir with dozens injured. ](/news/2013/07/18/indian-paramilitary-forces-shoot-dead-seven-protesters-outside-a-border-security-force-station-in-kashmir-with-dozens-injured.md) _Context: Indian police officers, Kashmir_
+
+### Changes:
+
+1. [Kashmir conflict: Two militants attack a police checkpoint in the city of Anantnag in south Kashmir killing two Indian police officers. ](/news/2016/06/4/kashmir-conflict-two-militants-attack-a-police-checkpoint-in-the-city-of-anantnag-in-south-kashmir-killing-two-indian-police-officers.md) _2017-08-27 03:46:12 (First version)_
+1. [Two militants attack a police checkpoint in the city of Anantnag in south Kashmir killing two Indian police officers. ](/news/2016/06/4/two-militants-attack-a-police-checkpoint-in-the-city-of-anantnag-in-south-kashmir-killing-two-indian-police-officers.md) _(Current version)_

@@ -18,3 +18,9 @@
 3. [United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. ](/news/2016/02/15/united-states-president-barack-obama-hosts-a-two-day-summit-in-rancho-mirage-california-with-leaders-of-the-asean-member-states-including.md) _Context: ASEAN_
 4. [The European Union warns Thailand that the country needs to quickly address the human rights and slavery issues in its seafood industry if it wants to avoid an EU import ban. ](/news/2015/12/18/the-european-union-warns-thailand-that-the-country-needs-to-quickly-address-the-human-rights-and-slavery-issues-in-its-seafood-industry-if-i.md) _Context: Human rights_
 5. [Chinese human rights lawyer Pu Zhiqiang goes on trial in Beijing for online social commentary critical of the ruling Communist Party. ](/news/2015/12/14/chinese-human-rights-lawyer-pu-zhiqiang-goes-on-trial-in-beijing-for-online-social-commentary-critical-of-the-ruling-communist-party.md) _Context: Human rights_
+
+### Changes:
+
+1. [7th East Asia Summit:ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/7th-east-asia-summit-pasean-leaders-sign-a-controversial-human-rights-declaration.md) _2017-08-25 03:36:50 (First version)_
+2. [7th East Asia Summit:: ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/7th-east-asia-summit-asean-leaders-sign-a-controversial-human-rights-declaration.md) _2017-08-27 03:37:00 (Update)_
+2. [ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/asean-leaders-sign-a-controversial-human-rights-declaration.md) _(Current version)_

@@ -17,3 +17,8 @@ Attack comes day after Turkish prosecutor taken hostage dies in police shootout 
 3. [A motorcycle bomb in the Yenibosna neighborhood of Istanbul, Turkey, injures 10 civilians. ](/news/2016/10/6/a-motorcycle-bomb-in-the-yenibosna-neighborhood-of-istanbul-turkey-injures-10-civilians.md) _Context: Istanbul, Turkey_
 4. [The United States orders all civilian staff family members to leave its consulate in Istanbul, Turkey, due to increasing threats from terrorist organizations. ](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.md) _Context: Istanbul, Turkey_
 5. [Turkey opens the Yavuz Sultan Selim Bridge in Istanbul, one of the world's biggest suspension bridges. ](/news/2016/08/26/turkey-opens-the-yavuz-sultan-selim-bridge-in-istanbul-one-of-the-world-s-biggest-suspension-bridges.md) _Context: Istanbul, Turkey_
+
+### Changes:
+
+1. [Turkish police shoot two attackers outside Istanbul-s central police headquarters, killing one of them. The exchange of fire wounds two officers. ](/news/2015/04/1/turkish-police-shoot-two-attackers-outside-istanbul-s-central-police-headquarters-killing-one-of-them-the-exchange-of-fire-wounds-two-of.md) _2017-08-27 03:42:09 (First version)_
+1. [Turkish police shoot two attackers outside Istanbul's central police headquarters, killing one of them. The exchange of fire wounds two officers. ](/news/2015/04/1/turkish-police-shoot-two-attackers-outside-istanbulas-central-police-headquarters-killing-one-of-them-the-exchange-of-fire-wounds-two-of.md) _(Current version)_

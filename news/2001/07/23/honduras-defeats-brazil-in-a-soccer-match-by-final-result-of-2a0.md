@@ -12,3 +12,8 @@
 3. [ Honduras issues a 10-day deadline to Brazil asking it to decide the status of deposed President Manuel Zelaya, who is residing in its embassy in the capital Tegucigalpa. ](/news/2009/09/27/honduras-issues-a-10-day-deadline-to-brazil-asking-it-to-decide-the-status-of-deposed-president-manuel-zelaya-who-is-residing-in-its-embas.md) _Context: Brazil, Honduras_
 4. [ Honduran soldiers break up protests outside the Brazilian embassy in Tegucigalpa in support of deposed President Manuel Zelaya, who is staying inside. ](/news/2009/09/22/honduran-soldiers-break-up-protests-outside-the-brazilian-embassy-in-tegucigalpa-in-support-of-deposed-president-manuel-zelaya-who-is-stay.md) _Context: Brazil, Honduras_
 5. [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md) _Context: Brazil_
+
+### Changes:
+
+1. [ Honduras defeats Brazil in a soccer match by final result of 2-0.](/news/2001/07/23/honduras-defeats-brazil-in-a-soccer-match-by-final-result-of-2-0.md) _2017-08-27 03:15:10 (First version)_
+1. [ Honduras defeats Brazil in a soccer match by final result of 2-0.](/news/2001/07/23/honduras-defeats-brazil-in-a-soccer-match-by-final-result-of-2a0.md) _(Current version)_

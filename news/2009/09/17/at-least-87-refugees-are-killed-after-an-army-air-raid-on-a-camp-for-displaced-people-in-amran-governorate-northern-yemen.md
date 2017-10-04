@@ -20,3 +20,8 @@
 3. [An American UH-60 Black Hawk helicopter on a training mission crashes off the coast of Yemen with six aboard, five of whom have been rescued. The search continues for the other U.S. service member. ](/news/2017/08/25/an-american-uh-60-black-hawk-helicopter-on-a-training-mission-crashes-off-the-coast-of-yemen-with-six-aboard-five-of-whom-have-been-rescued.md) _Context: Yemen_
 4. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Yemen_
 5. [At least 56 African migrants drown in the Red Sea while traveling from the Horn of Africa to Yemen. Human traffickers had forced 300 people aboard two boats into the sea. ](/news/2017/08/11/at-least-56-african-migrants-drown-in-the-red-sea-while-traveling-from-the-horn-of-africa-to-yemen-human-traffickers-had-forced-300-people.md) _Context: Yemen_
+
+### Changes:
+
+1. [ Shia insurgency in Yemen: More than 80 people are killed in an air raid on a camp for displaced people in northern Yemen. ](/news/2009/09/17/shia-insurgency-in-yemen-more-than-80-people-are-killed-in-an-air-raid-on-a-camp-for-displaced-people-in-northern-yemen.md) _2017-10-03 03:28:43 (First version)_
+1. [ At least 87 refugees are killed after an army air raid on a camp for displaced people in 'Amran Governorate, northern Yemen. ](/news/2009/09/17/at-least-87-refugees-are-killed-after-an-army-air-raid-on-a-camp-for-displaced-people-in-amran-governorate-northern-yemen.md) _(Current version)_

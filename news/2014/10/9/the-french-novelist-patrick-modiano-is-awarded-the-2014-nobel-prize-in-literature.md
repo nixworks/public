@@ -17,3 +17,9 @@ Patrick Modiano, author of Lacombe Lucien, wins the The Swedish Academy award fo
 3. [American singer-songwriter Bob Dylan wins the Nobel Prize in Literature. ](/news/2016/10/13/american-singer-songwriter-bob-dylan-wins-the-nobel-prize-in-literature.md) _Context: Nobel Prize in Literature_
 4. [Belarusian author and journalist Svetlana Alexievich wins the 2015 Nobel Prize in Literature. ](/news/2015/10/8/belarusian-author-and-journalist-svetlana-alexievich-wins-the-2015-nobel-prize-in-literature.md) _Context: Nobel Prize in Literature_
 5. [The Swedish Academy releases secret documents of the 1963 Nobel Prize in Literature that ultimately was awarded the Greek poet Giorgos Seferis, revealing that writers such as Samuel Beckett and Vladimir Nabokov were dismissed early in the selection process.](/news/2014/01/2/the-swedish-academy-releases-secret-documents-of-the-1963-nobel-prize-in-literature-that-ultimately-was-awarded-the-greek-poet-giorgos-sefer.md) _Context: Nobel Prize in Literature_
+
+### Changes:
+
+1. [2014 The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/2014-the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md) _2017-08-25 03:41:04 (First version)_
+2. [2014 Nobel Prize in Literature: The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/2014-nobel-prize-in-literature-the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md) _2017-08-27 03:41:22 (Update)_
+2. [The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md) _(Current version)_

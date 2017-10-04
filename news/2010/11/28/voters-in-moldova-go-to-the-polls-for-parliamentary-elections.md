@@ -16,3 +16,8 @@
 3. [A Romanian medical helicopter crashes near Cahul, Moldova, killing four people. ](/news/2016/06/2/a-romanian-medical-helicopter-crashes-near-cahul-moldova-killing-four-people.md) _Context: Moldova_
 4. [About 200 U.S. troops arrive in Moldova from Romania for planned military exercises with the Moldovan military which will last until May 20. ](/news/2016/05/2/about-200-u-s-troops-arrive-in-moldova-from-romania-for-planned-military-exercises-with-the-moldovan-military-which-will-last-until-may-20.md) _Context: Moldova_
 5. [Protests continue in Moldova as thousands of anti-government protesters demonstrate in the capital Chisinau despite concessions given to the protesters last month by the government. ](/news/2016/04/24/protests-continue-in-moldova-as-thousands-of-anti-government-protesters-demonstrate-in-the-capital-chieinau-despite-concessions-given-to-t.md) _Context: Moldova_
+
+### Changes:
+
+1. [Voters in Catalonia, Spain, go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-catalonia-spain-go-to-the-polls-for-parliamentary-elections.md) _2017-10-03 03:34:32 (First version)_
+1. [Voters in Moldova go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-moldova-go-to-the-polls-for-parliamentary-elections.md) _(Current version)_

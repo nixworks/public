@@ -17,3 +17,9 @@
 3. [Parliamentary elections were held in Indonesia, with early count indicating Megawati's PDIP won a narrow plurality. ](/news/2014/04/9/parliamentary-elections-were-held-in-indonesia-with-early-count-indicating-megawati-s-pdip-won-a-narrow-plurality.md) _Context: plurality_
 4. [The Elections for the 19th Knesset are held in Israel. The incumbent Prime Minister Benjamin Netanyahu's electoral alliance, Likud Yisrael Beiteinu, wins a plurality with 31 seats. ](/news/2013/01/22/the-elections-for-the-19th-knesset-are-held-in-israel-the-incumbent-prime-minister-benjamin-netanyahu-s-electoral-alliance-likud-yisrael-b.md) _Context: plurality_
 5. [Voters in Spain go to the polls for a general election, with the centre-right Popular Party winning a parliamentary majority. ](/news/2011/11/20/voters-in-spain-go-to-the-polls-for-a-general-election-with-the-centre-right-popular-party-winning-a-parliamentary-majority.md) _Context: centre-right_
+
+### Changes:
+
+1. [ European Union's parliamentary elections: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-p-the-centre-right-european-people-s-party-increases-its-plurality.md) _2017-08-25 03:24:49 (First version)_
+2. [ European Union's parliamentary elections:: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-the-centre-right-european-people-s-party-increases-its-plurality.md) _2017-08-27 03:24:39 (Update)_
+2. [ The centre-right European People's Party increases its plurality. ](/news/2009/06/8/the-centre-right-european-people-s-party-increases-its-plurality.md) _(Current version)_

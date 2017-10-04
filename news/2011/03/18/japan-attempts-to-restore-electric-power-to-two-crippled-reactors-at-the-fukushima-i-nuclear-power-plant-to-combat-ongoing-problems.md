@@ -18,3 +18,8 @@
 3. [The International Atomic Energy Agency is sending a team to Japan this month to inspect the crippled Fukushima nuclear plants and will present its preliminary evaluation of the crisis in June.](/news/2011/05/1/the-international-atomic-energy-agency-is-sending-a-team-to-japan-this-month-to-inspect-the-crippled-fukushima-nuclear-plants-and-will-prese.md) _Context: Fukushima I nuclear accidents, Japan_
 4. [Workers at the Fukushima I Nuclear Power Plant manage to plug radiation leaks. ](/news/2011/04/6/workers-at-the-fukushima-i-nuclear-power-plant-manage-to-plug-radiation-leaks.md) _Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents_
 5. [Japan sets a maximum level of radiation for fish after a catch from Ibaraki prefecture is found with a high level of radioactive iodine from the nuclear accidents. ](/news/2011/04/5/japan-sets-a-maximum-level-of-radiation-for-fish-after-a-catch-from-ibaraki-prefecture-is-found-with-a-high-level-of-radioactive-iodine-from.md) _Context: Fukushima I nuclear accidents, Japan_
+
+### Changes:
+
+1. [Fukushima I nuclear accidents: Japan attempts to restore electric power to two crippled reactors at the Fukushima I Nuclear Power Plant to combat ongoing problems. ](/news/2011/03/18/fukushima-i-nuclear-accidents-japan-attempts-to-restore-electric-power-to-two-crippled-reactors-at-the-fukushima-i-nuclear-power-plant-to-c.md) _2017-08-27 03:32:42 (First version)_
+1. [Japan attempts to restore electric power to two crippled reactors at the Fukushima I Nuclear Power Plant to combat ongoing problems. ](/news/2011/03/18/japan-attempts-to-restore-electric-power-to-two-crippled-reactors-at-the-fukushima-i-nuclear-power-plant-to-combat-ongoing-problems.md) _(Current version)_

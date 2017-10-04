@@ -16,3 +16,8 @@
 3. [The American NBC network announces that Lester Holt will continue as the host of the NBC Nightly News with Brian Williams returning in an undisclosed role. ](/news/2015/06/17/the-american-nbc-network-announces-that-lester-holt-will-continue-as-the-host-of-the-nbc-nightly-news-with-brian-williams-returning-in-an-un.md) _Context: Brian Williams_
 4. [Three people die after a helicopter working with the Canadian Coast Guard research ship CCGS "Amundsen" crashes in the Arctic Ocean. ](/news/2013/09/10/three-people-die-after-a-helicopter-working-with-the-canadian-coast-guard-research-ship-ccgs-amundsen-crashes-in-the-arctic-ocean.md) _Context: helicopter_
 5. [Four men including the pilot die in a helicopter crash in southern Switzerland. ](/news/2013/06/29/four-men-including-the-pilot-die-in-a-helicopter-crash-in-southern-switzerland.md) _Context: helicopter_
+
+### Changes:
+
+1. [''NBC Nightly News'' suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-persona.md) _2017-08-25 03:41:35 (First version)_
+1. ["NBC Nightly News" suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-personal.md) _(Current version)_

@@ -19,7 +19,7 @@ _Context: Argentina, Carlos Menem, Switzerland_
 _Context: Israel, Palestinian National Authority, West Bank, World Court_
 
 ### [Spanish Prime Minister Jos Mara Aznar pays a surprise visit to Spanish troops in Iraq. [http:--news.bbc.co.uk-2-hi-middle_east-3336565.stm]](/news/2003/12/20/spanish-prime-minister-jose-maria-aznar-pays-a-surprise-visit-to-spanish-troops-in-iraq-http-news-bbc-co-uk-2-hi-middle_east-3336565-stm.md)
-_Context: Iraq, Jos Mara Aznar, Prime Minister, Spain_
+_Context: Iraq, Jos Mara Aznar, Prime Minister, Spanish_
 
 ### [Massive landslides in the Philippines caused by heavy rain result in the deaths of up to 90 people. [http:--news.bbc.co.uk-2-hi-asia-pacific-3336327.stm]](/news/2003/12/20/massive-landslides-in-the-philippines-caused-by-heavy-rain-result-in-the-deaths-of-up-to-90-people-http-news-bbc-co-uk-2-hi-asia-pacific.md)
 _Context: Philippines_

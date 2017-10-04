@@ -7,7 +7,7 @@ _Context: Iran, Murmansk Oblast, Plesetsk Cosmodrome, Russia, Sinah-1_
 _Context: Dick Cheney, Scooter Libby, U.S. Vice President, grand jury, obstruction of justice, perjury_
 
 ### [ Elvis Presley tops "Forbes"' list of Top Ten Earning Dead Celebrities for the fifth successive year, earning US$45 million in royalties. He is followed by Charles M. Schulz ($35M), John Lennon ($22M), and Andy Warhol ($16M). ](/news/2005/10/28/elvis-presley-tops-forbes-list-of-top-ten-earning-dead-celebrities-for-the-fifth-successive-year-earning-us-45-million-in-royalties-he.md)
-_Context: Andy Warhol, Charles M. Schulz, Elvis Presley, Forbes, John Lennon, US$_
+_Context: $, Andy Warhol, Charles M. Schulz, Elvis Presley, Forbes, John Lennon_
 
 ### [ President Fidel Castro of Cuba agrees to allow three officials from the United States Agency for International Development into the country to assist in relief efforts in the wake of Hurricane Wilma. The communist nation typically turns down offers of assistance from the United States since trade embargoes from the U.S. have been in place for over 40 years. ](/news/2005/10/28/president-fidel-castro-of-cuba-agrees-to-allow-three-officials-from-the-united-states-agency-for-international-development-into-the-country.md)
 _Context: Americans, Communist, Cuba, Fidel Castro, Hurricane Wilma, President, USAID, trade embargo_

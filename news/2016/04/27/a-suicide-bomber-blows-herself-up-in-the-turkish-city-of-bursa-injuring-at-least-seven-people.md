@@ -13,3 +13,8 @@
 
 1. [A power transformer malfunction in Bursa, Turkey, leaves millions without electricity, including the metropolis of Istanbul. ](/news/2012/01/14/a-power-transformer-malfunction-in-bursa-turkey-leaves-millions-without-electricity-including-the-metropolis-of-istanbul.md) _Context: Bursa_
 2. [Floods kill an elderly man in Turkey's Bursa. ](/news/2010/10/14/floods-kill-an-elderly-man-in-turkey-s-bursa.md) _Context: Bursa_
+
+### Changes:
+
+1. [2016 Bursa bombing: A suicide bomber blows herself up in the Turkish city of Bursa, injuring at least seven people. ](/news/2016/04/27/2016-bursa-bombing-a-suicide-bomber-blows-herself-up-in-the-turkish-city-of-bursa-injuring-at-least-seven-people.md) _2017-08-27 03:45:51 (First version)_
+1. [A suicide bomber blows herself up in the Turkish city of Bursa, injuring at least seven people. ](/news/2016/04/27/a-suicide-bomber-blows-herself-up-in-the-turkish-city-of-bursa-injuring-at-least-seven-people.md) _(Current version)_

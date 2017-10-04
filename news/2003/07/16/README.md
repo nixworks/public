@@ -13,7 +13,7 @@ _Context: Antony Leung, Hong Kong, Hong Kong Basic Law Article 23, Regina Ip_
 _Context: Assembly of First Nations, Chief Phil Fontaine_
 
 ### [ An 86-year-old man accidentally hits the accelerator instead of the brake at a farmer's market in Santa Monica, California, driving his car through a closed-off street and killing at least 10 people (including a 3-year-old girl and a 7-month-old boy) and injuring over 50 others. One of the dead is the daughter-in-law of actor Dennis Weaver.](/news/2003/07/16/an-86-year-old-man-accidentally-hits-the-accelerator-instead-of-the-brake-at-a-farmer-s-market-in-santa-monica-california-driving-his-car.md)
-_Context: Dennis Weaver, Santa Monica, farmer's market_
+_Context: Dennis Weaver, Santa Monica, California, farmer's market_
 
 ### [ An Australian research team led by Graham Giles of The Cancer Council publishes a medical study which concludes that frequent masturbation by males may help prevent the development of prostate cancer.](/news/2003/07/16/an-australian-research-team-led-by-graham-giles-of-the-cancer-council-publishes-a-medical-study-which-concludes-that-frequent-masturbation.md)
 _Context: Graham Giles, The Cancer Council, masturbation, prostate cancer_

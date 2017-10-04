@@ -17,3 +17,9 @@
 3. [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md) _Context: China, Taiwan_
 4. [China is blocking Taiwan's efforts to join the International Civil Aviation Organization despite 58 million air passengers passing over Taiwan's flight information region annually, citing the One-China principle. ](/news/2016/08/4/china-is-blocking-taiwan-s-efforts-to-join-the-international-civil-aviation-organization-despite-58-million-air-passengers-passing-over-taiw.md) _Context: China, Taiwan_
 5. [Taiwan and China brace for the impact of Typhoon Nepartak, the first major typhoon of 2016. Thousands of people have been evacuated in Taiwan while over 35,000 military personnel have been placed on standby to help with relief efforts. ](/news/2016/07/7/taiwan-and-china-brace-for-the-impact-of-typhoon-nepartak-the-first-major-typhoon-of-2016-thousands-of-people-have-been-evacuated-in-taiwa.md) _Context: China, Taiwan_
+
+### Changes:
+
+1. [Panama severs diplomatic ties with Taiwan and establishes formal relation with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relation-with-china.md) _2017-06-13 13:30:07 (First version)_
+2. [Foreign relations of Panama: Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/foreign-relations-of-panama-panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _2017-08-27 03:48:28 (Update)_
+2. [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _(Current version)_

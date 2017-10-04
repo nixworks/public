@@ -33,3 +33,9 @@ Syrian forces fired into the air on Monday to disperse a pro-democracy protest i
 3. [Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/dozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md) _Context: protestors_
 4. [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md) _Context: protestors_
 5. [Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayers.md) _Context: protestors_
+
+### Changes:
+
+1. [Arab Spring:Syria forces open fire on protesters in Daraa, witness says although other reports claim that they were firing shots in the air. ](/news/2011/03/28/arab-spring-psyria-forces-open-fire-on-protesters-in-daraa-witness-says-although-other-reports-claim-that-they-were-firing-shots-in-the-air.md) _2017-08-25 03:32:40 (First version)_
+2. [Arab Spring:: 2011 Syrian protests: Syria forces open fire on protesters in Daraa, witness says although other reports claim that they were firing shots in the air. ](/news/2011/03/28/arab-spring-2011-syrian-protests-syria-forces-open-fire-on-protesters-in-daraa-witness-says-although-other-reports-claim-that-they-were.md) _2017-08-27 03:32:48 (Update)_
+2. [Syria forces open fire on protesters in Daraa, witness says although other reports claim that they were firing shots in the air. ](/news/2011/03/28/syria-forces-open-fire-on-protesters-in-daraa-witness-says-although-other-reports-claim-that-they-were-firing-shots-in-the-air.md) _(Current version)_

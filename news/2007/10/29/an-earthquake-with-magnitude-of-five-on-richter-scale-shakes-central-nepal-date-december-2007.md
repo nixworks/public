@@ -12,3 +12,8 @@
 3. [2013 Lushan earthquake: An earthquake of 7.0 magnitude strikes Lushan County, Sichuan province, China, with the latest estimate showing 193 people dead, 24 missing and 11,826 injured. ](/news/2013/04/20/2013-lushan-earthquake-an-earthquake-of-7-0-magnitude-strikes-lushan-county-sichuan-province-china-with-the-latest-estimate-showing-193.md) _Context: earthquake, magnitude_
 4. [At least 37 people are dead after a 7.8 magnitude earthquake strikes with its epicenter below Khash County, Sistan and Baluchestan Province, Iran, near the border with Pakistan. Tremors are felt throughout the Middle East, Pakistan and North India, and hundreds of deaths are expected by the Iran government. ](/news/2013/04/16/at-least-37-people-are-dead-after-a-7-8-magnitude-earthquake-strikes-with-its-epicenter-below-khash-county-sistan-and-baluchestan-province.md) _Context: earthquake, magnitude_
 5. [An earthquake estimated at a magnitude of 6.0 hits Kobe, Japan, injuring at least 22 people. ](/news/2013/04/13/an-earthquake-estimated-at-a-magnitude-of-6-0-hits-kobe-japan-injuring-at-least-22-people.md) _Context: earthquake, magnitude_
+
+### Changes:
+
+1. [ An earthquake with magnitude of five on Richter scale shakes central Nepal.{{Fact|date=December 2007}}](/news/2007/10/29/an-earthquake-with-magnitude-of-five-on-richter-scale-shakes-central-nepal-fact-date-december-2007.md) _2017-05-01 03:22:09 (First version)_
+1. [ An earthquake with magnitude of five on Richter scale shakes central Nepal.date=December 2007](/news/2007/10/29/an-earthquake-with-magnitude-of-five-on-richter-scale-shakes-central-nepal-date-december-2007.md) _(Current version)_

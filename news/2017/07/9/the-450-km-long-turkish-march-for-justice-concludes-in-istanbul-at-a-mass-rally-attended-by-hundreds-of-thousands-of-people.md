@@ -17,3 +17,8 @@
 3. [Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. ](/news/2017/02/11/abdulkadir-masharipov-is-charged-with-murder-in-relation-to-the-shootings-in-istanbul-that-killed-39-people-and-is-remanded-in-custody-isla.md) _Context: Istanbul_
 4. [Abdulkadir Masharipov, suspected of killing 39 people in the 2017 Istanbul nightclub shooting, is arrested in Istanbul's Esenyurt district. ](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-people-in-the-2017-istanbul-nightclub-shooting-is-arrested-in-istanbul-s-esenyurt-district.md) _Context: Istanbul_
 5. [A Gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. ](/news/2017/01/1/a-gunman-opens-fire-in-a-nightclub-in-istanbul-on-the-european-coast-of-the-bosphorus-killing-at-least-39-people-with-an-additional-69-wou.md) _Context: Istanbul_
+
+### Changes:
+
+1. [2017 March for Justice: The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/2017-march-for-justice-the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of.md) _2017-08-27 03:48:38 (First version)_
+1. [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md) _(Current version)_

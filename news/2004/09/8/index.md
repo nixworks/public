@@ -1,7 +1,7 @@
 ## [2004-09-8](/news/2004/09/8/index.md)
 
 ### [ Conflict in Russia (Chechnya): Russian President Vladimir Putin's government offers 300 million rubles (USD 10 million) for information leading to the arrest of Chechen rebel leaders Shamil Basayev and Aslan Maskhadov. Maskhadov was the last democratically elected leader of Chechnya. ](/news/2004/09/8/conflict-in-russia-chechnya-russian-president-vladimir-putin-s-government-offers-300-million-rubles-usd-10-million-for-information-lea.md)
-_Context: Aslan Maskhadov, Chechnya, Russian President, Russian ruble, Shamil Basayev, US$, Vladimir Putin, democratic progress_
+_Context: $, Aslan Maskhadov, Chechnya, Russian President, Russian ruble, Shamil Basayev, Vladimir Putin, democratic progress_
 
 ### [ U.N. officials say a ten-year-old Palestinian girl is in critical condition after being hit by "indiscriminate" gunfire from Israeli forces while sitting in school. Israel alleges that it exchanged fire with militants in the area but says it did not fire at buildings. ](/news/2004/09/8/u-n-officials-say-a-ten-year-old-palestinian-girl-is-in-critical-condition-after-being-hit-by-indiscriminate-gunfire-from-israeli-forces.md)
 _Context: Israel, Palestinian, U.N._

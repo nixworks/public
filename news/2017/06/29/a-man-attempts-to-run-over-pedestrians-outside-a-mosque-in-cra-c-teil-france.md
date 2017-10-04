@@ -17,3 +17,10 @@ Barriers protected the building in the Créteil suburb and the suspect was arres
 3. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
 4. [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md) _Context: France_
 5. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
+
+### Changes:
+
+1. [A man attempts to run over pedestrians outside a Mosque in Paris France.](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france.md) _2017-06-30 10:30:06 (First version)_
+2. [A man attempts to run over pedestrians outside a mosque in Paris, France. ([http:--www.bbc.co.uk-news-world-europe-40452264 BBC])](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france-http-www-bbc-co-uk-news-world-europe-40452264-bbc.md) _2017-06-30 22:30:05 (Update)_
+3. [2017 Creteil mosque incident: A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/2017-cra-c-teil-mosque-incident-a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _2017-08-27 03:48:34 (Update)_
+3. [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _(Current version)_

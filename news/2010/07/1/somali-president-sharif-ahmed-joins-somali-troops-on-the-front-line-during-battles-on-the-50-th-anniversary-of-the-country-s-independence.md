@@ -18,3 +18,8 @@
 3. [ Sharif Ahmed is elected President of Somalia. ](/news/2009/01/31/sharif-ahmed-is-elected-president-of-somalia.md) _Context: President, Sharif Ahmed, Somalian_
 4. [ President of Somalia Abdullahi Yusuf Ahmed resigns. Parliamentary Speaker Adan Mohamed Nuur Madobe will take over for 30 days, in which time the legislature will select a new head of state. ](/news/2008/12/29/president-of-somalia-abdullahi-yusuf-ahmed-resigns-parliamentary-speaker-adan-mohamed-nuur-madobe-will-take-over-for-30-days-in-which-tim.md) _Context: President, Somalian_
 5. [ Mohamoud Mohamed Gacmodhere, who was appointed Prime Minister of Somalia by President Abdullahi Yusuf Ahmed last week, resigns. ](/news/2008/12/24/mohamoud-mohamed-gacmodhere-who-was-appointed-prime-minister-of-somalia-by-president-abdullahi-yusuf-ahmed-last-week-resigns.md) _Context: President, Somalian_
+
+### Changes:
+
+1. [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50th-anniversary-of-the-country-s-independence.md) _2017-10-02 03:32:04 (First version)_
+1. [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50-th-anniversary-of-the-country-s-independence.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [The Central Bank lowers interest rate to 11%, while the ruble falls 1.5% on the day to close at 60.60 against the dollar. ](/news/2015/07/31/the-central-bank-lowers-interest-rate-to-11-while-the-ruble-falls-1-5-on-the-day-to-close-at-60-60-against-the-dollar.md) _Context: Russian financial crisis (2014-present)_
 4. [The Russian gas company Gazprom suspends shipments of gas to Ukraine following a payment dispute. ](/news/2015/07/1/the-russian-gas-company-gazprom-suspends-shipments-of-gas-to-ukraine-following-a-payment-dispute.md) _Context: Gazprom_
 5. [The Central Bank of Russia lowers the interest rate to 11.5%. ](/news/2015/06/15/the-central-bank-of-russia-lowers-the-interest-rate-to-11-5.md) _Context: Russian financial crisis (2014-present)_
+
+### Changes:
+
+1. [Russian financial crisis (2014-present): State-owned gas company, Gazprom, loses 86 percent in net income due to ruble devaluation, plunge on oil prices, and Ukraine crisis. ](/news/2015/04/29/russian-financial-crisis-2014-present-state-owned-gas-company-gazprom-loses-86-percent-in-net-income-due-to-ruble-devaluation-plunge.md) _2017-08-27 03:42:15 (First version)_
+1. [ State-owned gas company, Gazprom, loses 86 percent in net income due to ruble devaluation, plunge on oil prices, and Ukraine crisis. ](/news/2015/04/29/state-owned-gas-company-gazprom-loses-86-percent-in-net-income-due-to-ruble-devaluation-plunge-on-oil-prices-and-ukraine-crisis.md) _(Current version)_

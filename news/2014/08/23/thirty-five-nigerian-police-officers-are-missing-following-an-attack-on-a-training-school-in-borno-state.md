@@ -16,3 +16,8 @@
 3. [Borno State Senator Ahmed Zannah reports that 135 civilians have been killed in attacks in north west Nigeria since Wednesday. ](/news/2014/04/12/borno-state-senator-ahmed-zannah-reports-that-135-civilians-have-been-killed-in-attacks-in-north-west-nigeria-since-wednesday.md) _Context: Borno State, Islamist insurgency in Nigeria_
 4. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Borno State_
 5. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Borno State_
+
+### Changes:
+
+1. [Islamist insurgency in Nigeria: Thirty-five Nigerian police officers are missing following an attack on a training school in Borno state. ](/news/2014/08/23/islamist-insurgency-in-nigeria-thirty-five-nigerian-police-officers-are-missing-following-an-attack-on-a-training-school-in-borno-state.md) _2017-08-27 03:41:11 (First version)_
+1. [Thirty-five Nigerian police officers are missing following an attack on a training school in Borno state. ](/news/2014/08/23/thirty-five-nigerian-police-officers-are-missing-following-an-attack-on-a-training-school-in-borno-state.md) _(Current version)_

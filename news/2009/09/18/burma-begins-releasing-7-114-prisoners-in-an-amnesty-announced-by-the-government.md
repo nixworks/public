@@ -21,3 +21,9 @@ It is not known if political detainees are among the 7,114 prisoners due to be r
 3. [North Korea announces a criminal amnesty in honor of the 70th anniversary of independence from Japanese rule. ](/news/2015/07/14/north-korea-announces-a-criminal-amnesty-in-honor-of-the-70th-anniversary-of-independence-from-japanese-rule.md) _Context: amnesty_
 4. [Burma pledges to release 3000 prisoners a month before it hosts a Southeast Asian summit. ](/news/2014/10/7/burma-pledges-to-release-3000-prisoners-a-month-before-it-hosts-a-southeast-asian-summit.md) _Context: Burma_
 5. [Burmese hard-line monk, Ashin Wirathu, and a hardline group in Sri Lanka, Bodu Bala Sena, say they would work together to rally other Buddhist groups and defend their faith against militant Islamists. ](/news/2014/09/30/burmese-hard-line-monk-ashin-wirathu-and-a-hardline-group-in-sri-lanka-bodu-bala-sena-say-they-would-work-together-to-rally-other-buddhi.md) _Context: Burma_
+
+### Changes:
+
+1. [ Burma: Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-p-burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md) _2017-08-25 03:25:47 (First version)_
+2. [ Burma:: Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md) _2017-08-27 03:25:39 (Update)_
+2. [ Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md) _(Current version)_

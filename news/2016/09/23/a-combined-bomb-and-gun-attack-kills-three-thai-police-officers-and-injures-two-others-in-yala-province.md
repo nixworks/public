@@ -17,3 +17,8 @@ Three Thai policemen were killed and two wounded on Friday in a bomb and gun att
 3. [ Four suspected militants fatally shoot two border-policemen in the back at a crowded weekend market in Yala province, Thailand, where the South Thailand insurgency continues since an increase in violence in January 2001. ](/news/2006/01/7/four-suspected-militants-fatally-shoot-two-border-policemen-in-the-back-at-a-crowded-weekend-market-in-yala-province-thailand-where-the-s.md) _Context: South Thailand insurgency, Yala_
 4. [Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.md) _Context: South Thailand insurgency_
 5. [A motorcycle bomb kills a father and daughter outside an elementary school in Narathiwat province. ](/news/2016/09/6/a-motorcycle-bomb-kills-a-father-and-daughter-outside-an-elementary-school-in-narathiwat-province.md) _Context: South Thailand insurgency_
+
+### Changes:
+
+1. [South Thailand insurgency: A combined bomb and gun attack kills three Thai police officers and injures two others in Yala province. ](/news/2016/09/23/south-thailand-insurgency-a-combined-bomb-and-gun-attack-kills-three-thai-police-officers-and-injures-two-others-in-yala-province.md) _2017-08-27 03:46:54 (First version)_
+1. [A combined bomb and gun attack kills three Thai police officers and injures two others in Yala province. ](/news/2016/09/23/a-combined-bomb-and-gun-attack-kills-three-thai-police-officers-and-injures-two-others-in-yala-province.md) _(Current version)_

@@ -18,3 +18,9 @@ French and Malian troops seize the key Malian towns of Diabaly and Douentza from
 3. [Mali returns two people France deported on the same planes they arrived on. ](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.md) _Context: France, Mali_
 4. [ Fourteen Sufi mausoleums in the city of Timbuktu in northern Mali have been rebuilt, three years after they were destroyed by Islamist militants from Ansar Dine group. ](/news/2015/07/19/fourteen-sufi-mausoleums-in-the-city-of-timbuktu-in-northern-mali-have-been-rebuilt-three-years-after-they-were-destroyed-by-islamist-mili.md) _Context: Islamist, Mali_
 5. [A sixth French soldier is killed in Mali when his vehicle struck a roadside bomb, seriously injuring two more. ](/news/2013/04/29/a-sixth-french-soldier-is-killed-in-mali-when-his-vehicle-struck-a-roadside-bomb-seriously-injuring-two-more.md) _Context: France, Mali_
+
+### Changes:
+
+1. [Northern Mali conflict:French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-pfrench-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _2017-08-25 03:37:18 (First version)_
+2. [Northern Mali conflict:: French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _2017-08-27 03:37:28 (Update)_
+2. [French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _(Current version)_

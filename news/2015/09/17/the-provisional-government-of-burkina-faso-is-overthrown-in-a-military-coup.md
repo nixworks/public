@@ -21,3 +21,8 @@ EU and UN demand army release detained president and prime minister as warning s
 3. [At least 17 people, including two Canadians, are reported dead and eight others injured in an attack on a Turkish themed restaurant in Ouagadougou, the capital of Burkina Faso. ](/news/2017/08/13/at-least-17-people-including-two-canadians-are-reported-dead-and-eight-others-injured-in-an-attack-on-a-turkish-themed-restaurant-in-ouaga.md) _Context: Burkina Faso_
 4. [A trial at a court in Ouagadougou, Burkina Faso, opens to try former President Blaise Compaor and members of his cabinet in absentia. Burkina Faso accuses Compaor, who is in exile in the Ivory Coast, of ordering the killing of protesters during the uprising that ousted him in 2014. ](/news/2017/05/15/a-trial-at-a-court-in-ouagadougou-burkina-faso-opens-to-try-former-president-blaise-compaore-and-members-of-his-cabinet-in-absentia-burki.md) _Context: Burkina Faso_
 5. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: Burkina Faso_
+
+### Changes:
+
+1. [2015 Burkinabe coup d'etat: The provisional government of Burkina Faso is overthrown in a military coup. ](/news/2015/09/17/2015-burkinaba-c-coup-d-a-c-tat-the-provisional-government-of-burkina-faso-is-overthrown-in-a-military-coup.md) _2017-08-27 03:43:04 (First version)_
+1. [The provisional government of Burkina Faso is overthrown in a military coup. ](/news/2015/09/17/the-provisional-government-of-burkina-faso-is-overthrown-in-a-military-coup.md) _(Current version)_

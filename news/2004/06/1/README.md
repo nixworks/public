@@ -19,7 +19,7 @@ _Context: Democratic, Republican, South Dakota, Stephanie Herseth, United States
 _Context: Zimbabwe, broadband providers_
 
 ### [ Norway becomes the world's second nation after Ireland to ban smoking in all bars and restaurants. ](/news/2004/06/1/norway-becomes-the-world-s-second-nation-after-ireland-to-ban-smoking-in-all-bars-and-restaurants.md)
-_Context: Ireland, Norway, bans, tobacco smoking_
+_Context: Ireland, Norway, ban, tobacco smoking_
 
 ### [ Jennifer Hawkins, a twenty-year-old Australian, wins the Miss Universe contest, held in Quito, Ecuador. ](/news/2004/06/1/jennifer-hawkins-a-twenty-year-old-australian-wins-the-miss-universe-contest-held-in-quito-ecuador.md)
 _Context: Ecuador, Jennifer Hawkins, Miss Universe, Quito_

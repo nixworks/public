@@ -18,3 +18,8 @@ A stark assessment has found that the American invasion and occupation of Iraq h
 3. [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md) _Context: Americans, Iraq War_
 4. [The United States ends combat operations in Iraq as its last combat brigade departs for Kuwait. ](/news/2010/08/18/the-united-states-ends-combat-operations-in-iraq-as-its-last-combat-brigade-departs-for-kuwait.md) _Context: Americans, Iraq War_
 5. [ The United States is to withdraw 4,000 troops from Iraq by the end of October. ](/news/2009/09/30/the-united-states-is-to-withdraw-4-000-troops-from-iraq-by-the-end-of-october.md) _Context: Americans, Iraq War_
+
+### Changes:
+
+1. [ The ''New York Times'' leaks a conclusion from a U.S. National Intelligence Estimate that the Iraq War has made the overall terrorism problem worse. ](/news/2006/09/24/the-new-york-times-leaks-a-conclusion-from-a-u-s-national-intelligence-estimate-that-the-iraq-war-has-made-the-overall-terrorism-probl.md) _2017-08-25 03:18:27 (First version)_
+1. [ The "New York Times" leaks a conclusion from a U.S. National Intelligence Estimate that the Iraq War has made the overall terrorism problem worse. ](/news/2006/09/24/the-new-york-times-leaks-a-conclusion-from-a-u-s-national-intelligence-estimate-that-the-iraq-war-has-made-the-overall-terrorism-problem.md) _(Current version)_

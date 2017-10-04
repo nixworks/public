@@ -16,3 +16,8 @@
 3. [Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _Context: Hong Kong_
 4. [Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20th-anniversary-o.md) _Context: Hong Kong_
 5. [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md) _Context: Hong Kong_
+
+### Changes:
+
+1. [Kevin Lau Chun-to, the former editor of newspaper ''Ming Pao'' whose dismissal in January sparked protests over press freedom, is attacked by a man with a meat cleaver in his Hong Kong neighborhood. He is in critical condition. ](/news/2014/02/26/kevin-lau-chun-to-the-former-editor-of-newspaper-ming-pao-whose-dismissal-in-january-sparked-protests-over-press-freedom-is-attacked-b.md) _2017-08-25 03:40:05 (First version)_
+1. [Kevin Lau Chun-to, the former editor of newspaper "Ming Pao" whose dismissal in January sparked protests over press freedom, is attacked by a man with a meat cleaver in his Hong Kong neighborhood. He is in critical condition. ](/news/2014/02/26/kevin-lau-chun-to-the-former-editor-of-newspaper-ming-pao-whose-dismissal-in-january-sparked-protests-over-press-freedom-is-attacked-by.md) _(Current version)_

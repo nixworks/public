@@ -17,3 +17,8 @@
 3. [Four suicide bombers kill at least two people and wound 16 others in Maiduguri, Nigeria. ](/news/2017/03/15/four-suicide-bombers-kill-at-least-two-people-and-wound-16-others-in-maiduguri-nigeria.md) _Context: Boko Haram insurgency, Maiduguri, Nigeria_
 4. [Up to seven suicide bombers blow themselves up after failing in an attempt to attack a camp for displaced people near Maiduguri, Nigeria. ](/news/2017/02/17/up-to-seven-suicide-bombers-blow-themselves-up-after-failing-in-an-attempt-to-attack-a-camp-for-displaced-people-near-maiduguri-nigeria.md) _Context: Boko Haram insurgency, Maiduguri, Nigeria_
 5. [Suspected Boko Haram suicide bombers kill at least eight people in the Nigerian city of Maiduguri. ](/news/2016/10/29/suspected-boko-haram-suicide-bombers-kill-at-least-eight-people-in-the-nigerian-city-of-maiduguri.md) _Context: Boko Haram insurgency, Maiduguri, Nigeria_
+
+### Changes:
+
+1. [Boko Haram insurgency: Triple explosions kill at least 80 people and injure 150 in the Nigerian city of Maiduguri. ](/news/2015/09/20/boko-haram-insurgency-triple-explosions-kill-at-least-80-people-and-injure-150-in-the-nigerian-city-of-maiduguri.md) _2017-08-27 03:43:06 (First version)_
+1. [ Triple explosions kill at least 80 people and injure 150 in the Nigerian city of Maiduguri. ](/news/2015/09/20/triple-explosions-kill-at-least-80-people-and-injure-150-in-the-nigerian-city-of-maiduguri.md) _(Current version)_

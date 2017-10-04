@@ -18,3 +18,8 @@ The governing coalition may also prevent civil servants from wearing religious s
 3. [The French law banning the burqa and niqab comes into effect. ](/news/2011/04/11/the-french-law-banning-the-burqa-and-niqab-comes-into-effect.md) _Context: burqa, niqab_
 4. [The new right wing coalition in the Netherlands have agreed to ban full Islamic veils, such as the Burqa and Niqab ](/news/2010/09/30/the-new-right-wing-coalition-in-the-netherlands-have-agreed-to-ban-full-islamic-veils-such-as-the-burqa-and-niqab.md) _Context: burqa, niqab_
 5. [France's lower house of parliament approves a bill that bans wearing burqa and niqab in public. ](/news/2010/07/13/france-s-lower-house-of-parliament-approves-a-bill-that-bans-wearing-burqa-and-niqab-in-public.md) _Context: burqa, niqab_
+
+### Changes:
+
+1. [Austria agrees to ban the full-face veil (burqa and niqab) in public spaces, part of a larger deal struck by the center-left Social Democratic Party and the center-right Austrian People's Party to avoid the collapse of the ruling coalition government. ](/news/2017/01/31/austria-agrees-to-ban-the-full-face-veil-burqa-and-niqab-in-public-spaces-part-of-a-larger-deal-struck-by-the-center-left-social-democr.md) _2017-08-25 03:47:19 (First version)_
+1. [Austria agrees to ban the full-face veil (burqa and niqab) in public spaces, part of a larger deal struck by the center-left Social Democratic Party and the center-right Austrian People's Party to avoid the collapse of the ruling coalition government. ](/news/2017/01/31/austria-agrees-to-ban-the-full-face-veil-burqa-and-niqab-in-public-spaces-part-of-a-larger-deal-struck-by-the-center-left-social-democra.md) _(Current version)_

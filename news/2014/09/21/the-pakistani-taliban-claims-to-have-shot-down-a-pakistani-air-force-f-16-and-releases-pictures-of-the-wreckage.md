@@ -17,3 +17,8 @@
 3. [At least 13 people, including six police officers, are killed and 85 are injured after a bomb explodes at a protest rally in Lahore, Punjab. The Pakistani Taliban splinter group Jamaat-ul-Ahrar claims responsibility. ](/news/2017/02/13/at-least-13-people-including-six-police-officers-are-killed-and-85-are-injured-after-a-bomb-explodes-at-a-protest-rally-in-lahore-punjab.md) _Context: Pakistani Taliban_
 4. [ Four suicide bombers and two soldiers are killed in a failed attack on the Ghalani camp in the Mohmand tribal distrct. Jamaat-ul-Ahrar claims responsibility. ](/news/2016/11/26/four-suicide-bombers-and-two-soldiers-are-killed-in-a-failed-attack-on-the-ghalani-camp-in-the-mohmand-tribal-distrct-jamaat-ul-ahrar-clai.md) _Context: Terrorism in Pakistan_
 5. [ At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Terrorism in Pakistan_
+
+### Changes:
+
+1. [Terrorism in Pakistan: The Pakistani Taliban claims to have shot down a Pakistani Air Force F-16, and releases pictures of the wreckage. ](/news/2014/09/21/terrorism-in-pakistan-the-pakistani-taliban-claims-to-have-shot-down-a-pakistani-air-force-f-16-and-releases-pictures-of-the-wreckage.md) _2017-08-27 03:41:18 (First version)_
+1. [The Pakistani Taliban claims to have shot down a Pakistani Air Force F-16, and releases pictures of the wreckage. ](/news/2014/09/21/the-pakistani-taliban-claims-to-have-shot-down-a-pakistani-air-force-f-16-and-releases-pictures-of-the-wreckage.md) _(Current version)_

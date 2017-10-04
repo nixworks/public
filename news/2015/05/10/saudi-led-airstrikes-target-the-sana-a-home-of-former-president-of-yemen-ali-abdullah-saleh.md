@@ -18,3 +18,8 @@
 3. [2011 Yemeni uprising: The President of Yemen, Ali Abdullah Saleh, returns from Saudi Arabia after a three-month absence, amid an increase in political unrest and violence in Yemen. ](/news/2011/09/23/2011-yemeni-uprising-the-president-of-yemen-ali-abdullah-saleh-returns-from-saudi-arabia-after-a-three-month-absence-amid-an-increase-in.md) _Context: Saleh, Saudi Arabia, Yemeni President_
 4. [2011 Yemeni uprising: Yemeni President Ali Abdullah Saleh leaves hospital in Saudi Arabia after injuries sustained during the ongoing uprising. ](/news/2011/08/7/2011-yemeni-uprising-yemeni-president-ali-abdullah-saleh-leaves-hospital-in-saudi-arabia-after-injuries-sustained-during-the-ongoing-uprisi.md) _Context: Saleh, Saudi Arabia, Yemeni President_
 5. [Tens of thousands of people protest in the Yemeni capital Sana'a calling for an end to the government of President Ali Abdullah Saleh. ](/news/2011/01/27/tens-of-thousands-of-people-protest-in-the-yemeni-capital-sana-a-calling-for-an-end-to-the-government-of-president-ali-abdullah-saleh.md) _Context: Saleh, Sana'a, Yemeni President_
+
+### Changes:
+
+1. [Yemeni Civil War: Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/yemeni-civil-war-saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md) _2017-08-27 03:42:17 (First version)_
+1. [Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md) _(Current version)_

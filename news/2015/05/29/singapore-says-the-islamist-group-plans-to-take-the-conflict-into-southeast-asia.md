@@ -19,3 +19,8 @@ Singapore has been identified as a possible target for attack by a recent Islami
 3. [ The southern segment of the Kallang-Paya Lebar Expressway in Singapore, set to be the longest subterranean road tunnel in Southeast Asia when fully complete, opens to traffic. ](/news/2007/10/26/the-southern-segment-of-the-kallang-paya-lebar-expressway-in-singapore-set-to-be-the-longest-subterranean-road-tunnel-in-southeast-asia-wh.md) _Context: Asia, Singapore_
 4. [ Southeast Asian nations will seek $2 billion to build a rail link from Kunming in China to Singapore. ](/news/2007/08/27/southeast-asian-nations-will-seek-2-billion-to-build-a-rail-link-from-kunming-in-china-to-singapore.md) _Context: Asia, Singapore_
 5. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: Islamic State_
+
+### Changes:
+
+1. [Islamic State of Iraq and the Levant: Singapore says the Islamist group plans to take the conflict into Southeast Asia. ](/news/2015/05/29/islamic-state-of-iraq-and-the-levant-singapore-says-the-islamist-group-plans-to-take-the-conflict-into-southeast-asia.md) _2017-08-27 03:42:26 (First version)_
+1. [Singapore says the Islamist group plans to take the conflict into Southeast Asia. ](/news/2015/05/29/singapore-says-the-islamist-group-plans-to-take-the-conflict-into-southeast-asia.md) _(Current version)_

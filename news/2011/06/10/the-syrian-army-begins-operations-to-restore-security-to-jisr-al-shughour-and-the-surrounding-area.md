@@ -20,3 +20,9 @@ Syrian state TV reports the army has begun operations in Jisr al-Shughour, where
 3. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Army_
 4. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Syrian Army_
 5. [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md) _Context: Syrian Army_
+
+### Changes:
+
+1. [2011 Syrian uprising:The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/2011-syrian-uprising-pthe-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md) _2017-08-25 03:33:27 (First version)_
+2. [2011 Syrian uprising:: The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/2011-syrian-uprising-the-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md) _2017-08-27 03:33:35 (Update)_
+2. [The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/the-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [ China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md) _Context: China, Inner Mongolia_
 4. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
 5. [ China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: China_
+
+### Changes:
+
+1. [ The reentry module of the Chinese manned spacecraft ''Shenzhou 6'' lands safely in Inner Mongolia, China. [http:--english.people.com.cn-200510-17-eng20051017_214689.html (People's Daily)].](/news/2005/10/16/the-reentry-module-of-the-chinese-manned-spacecraft-shenzhou-6-lands-safely-in-inner-mongolia-china-http-english-people-com-cn-200.md) _2017-06-18 03:17:05 (First version)_
+1. [ The reentry module of the Chinese manned spacecraft "Shenzhou 6" lands safely in Inner Mongolia, China. ](/news/2005/10/16/the-reentry-module-of-the-chinese-manned-spacecraft-shenzhou-6-lands-safely-in-inner-mongolia-china.md) _(Current version)_

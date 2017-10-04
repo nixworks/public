@@ -18,3 +18,9 @@
 3. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Gaza_
 4. [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md) _Context: Gaza_
 5. [Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md) _Context: Gaza_
+
+### Changes:
+
+1. [Israeli-Palestinian conflict:Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/israeliapalestinian-conflict-ptwo-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md) _2017-08-25 03:39:27 (First version)_
+2. [Israeli-Palestinian conflict:: Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/israeli-palestinian-conflict-two-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md) _2017-08-27 03:39:44 (Update)_
+2. [Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/two-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md) _(Current version)_

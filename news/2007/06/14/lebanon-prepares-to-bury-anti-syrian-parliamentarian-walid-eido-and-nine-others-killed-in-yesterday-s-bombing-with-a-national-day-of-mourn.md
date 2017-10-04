@@ -16,3 +16,8 @@
 3. [In Lebanon, President Michel Suleiman asks Tammam Salam, a legislator and a former minister of culture, to head a new cabinet after a vast majority of the members of Parliament chose him for the job. ](/news/2013/04/6/in-lebanon-president-michel-suleiman-asks-tammam-salam-a-legislator-and-a-former-minister-of-culture-to-head-a-new-cabinet-after-a-vast-m.md) _Context: Lebanese lawmakers, Lebanon_
 4. [ United States District Court judge Royce Lamberth orders Iran to pay $2.6 billion to victims and families in the 1983 Hezbollah bombing of a United States Marine Corps barracks in Lebanon that claimed 241 American lives. ](/news/2007/09/7/united-states-district-court-judge-royce-lamberth-orders-iran-to-pay-2-6-billion-to-victims-and-families-in-the-1983-hezbollah-bombing-of.md) _Context: Lebanon, bomb_
 5. [ An explosion in Beirut kills at least 10 people, including MP Walid Eido. ](/news/2007/06/13/an-explosion-in-beirut-kills-at-least-10-people-including-mp-walid-eido.md) _Context: Lebanese lawmakers, Walid Eido_
+
+### Changes:
+
+1. [ Lebanon prepares to bury anti-Syrian parliamentarian Walid Eido and nine others killed in yesterday's bombing, with a national day of mourning declared. ](/news/2007/06/14/lebanon-prepares-to-bury-anti-syrian-parliamentarian-walid-eido-and-nine-others-killed-in-yesterday-s-bombing-with-a-national-day-of-mour.md) _2017-08-25 03:19:58 (First version)_
+1. [ Lebanon prepares to bury anti-Syrian parliamentarian Walid Eido and nine others killed in yesterday's bombing, with a national day of mourning declared. ](/news/2007/06/14/lebanon-prepares-to-bury-anti-syrian-parliamentarian-walid-eido-and-nine-others-killed-in-yesterday-s-bombing-with-a-national-day-of-mourn.md) _(Current version)_

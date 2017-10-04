@@ -21,3 +21,9 @@
 3. [It is announced that three professional storm chasers who were members of TWISTEX were among those killed by tornadoes in Oklahoma, US, on May 31. ](/news/2013/06/2/it-is-announced-that-three-professional-storm-chasers-who-were-members-of-twistex-were-among-those-killed-by-tornadoes-in-oklahoma-us-on-m.md) _Context: Oklahoma!, tornado_
 4. [At least one person is killed and a dozen injured after a series of tornadoes hits the US states of Oklahoma, Kansas, Iowa and Illinois. ](/news/2013/05/19/at-least-one-person-is-killed-and-a-dozen-injured-after-a-series-of-tornadoes-hits-the-us-states-of-oklahoma-kansas-iowa-and-illinois.md) _Context: Oklahoma!, tornado_
 5. [Two people are killed, one missing and four people critically injured after a tornado hits Atoka County in the US state of Oklahoma. ](/news/2011/04/14/two-people-are-killed-one-missing-and-four-people-critically-injured-after-a-tornado-hits-atoka-county-in-the-us-state-of-oklahoma.md) _Context: Oklahoma!, tornado_
+
+### Changes:
+
+1. [ May 2008 tornado outbreak sequence: A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/may-2008-tornado-outbreak-sequence-p-a-tornado-kills-at-least-nine-in-picher-oklahoma.md) _2017-08-25 03:22:09 (First version)_
+2. [ May 2008 tornado outbreak sequence:: A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/may-2008-tornado-outbreak-sequence-a-tornado-kills-at-least-nine-in-picher-oklahoma.md) _2017-08-27 03:22:03 (Update)_
+2. [ A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/a-tornado-kills-at-least-nine-in-picher-oklahoma.md) _(Current version)_

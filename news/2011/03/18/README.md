@@ -52,7 +52,7 @@ _Context: North Korea, Supreme People's Assembly_
 _Context: Abdullah, King, regional unrest_
 
 ### [Former United States Secretary of State Warren Christopher died. ](/news/2011/03/18/former-united-states-secretary-of-state-warren-christopher-died.md)
-_Context: United States Secretary of State, Warren Christopher_
+_Context: Secretary of State, Warren Christopher_
 
 ### [The Canadian Opposition accuses the Conservative Party of Canada and Harper Government of Contempt of Parliament after a ruling by the Speaker of the House of Commons, signalling a possible spring federal election. ](/news/2011/03/18/the-canadian-opposition-accuses-the-conservative-party-of-canada-and-harper-government-of-contempt-of-parliament-after-a-ruling-by-the-speak.md)
 Parliament faces a week of political gamesmanship and mounting election speculation

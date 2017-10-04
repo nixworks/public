@@ -16,3 +16,8 @@
 3. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sana'a_
 4. [An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthis-blames-the-saudi-led-coalition-fo.md) _Context: Sana'a_
 5. [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _Context: Sana'a_
+
+### Changes:
+
+1. [Yemeni crisis: Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/yemeni-crisis-islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md) _2017-08-27 03:42:07 (First version)_
+1. [Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md) _(Current version)_

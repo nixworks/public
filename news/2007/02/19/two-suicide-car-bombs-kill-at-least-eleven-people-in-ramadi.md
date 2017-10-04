@@ -17,3 +17,9 @@
 3. [ A suicide car bomb targeting African Union peacekeepers kills 14 civilians in Mogadishu, Somalia. ](/news/2009/01/24/a-suicide-car-bomb-targeting-african-union-peacekeepers-kills-14-civilians-in-mogadishu-somalia.md) _Context: car bomb, suicide bombing_
 4. [ Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md) _Context: car bomb, suicide bombing_
 5. [ War in Iraq: At least 47 people die in insurgent strikes including 20 as a result of a suicide truck bomb in a Baghdad police station. ](/news/2007/03/24/war-in-iraq-at-least-47-people-die-in-insurgent-strikes-including-20-as-a-result-of-a-suicide-truck-bomb-in-a-baghdad-police-station.md) _Context: car bomb, suicide bombing_
+
+### Changes:
+
+1. [ Iraq War: Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/iraq-war-p-two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md) _2017-08-25 03:19:14 (First version)_
+2. [ Iraq War:: Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/iraq-war-two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md) _2017-08-27 03:19:10 (Update)_
+2. [ Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md) _(Current version)_

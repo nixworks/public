@@ -18,3 +18,8 @@ Super typhoon Nepartak hit Taiwan on Friday, driving thousands of people from th
 3. [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _Context: 2016 Pacific typhoon season, Taiwan_
 4. [Taiwan braces for the potential impact of Typhoon Megi which is strengthening as it approaches the island. ](/news/2016/09/26/taiwan-braces-for-the-potential-impact-of-typhoon-megi-which-is-strengthening-as-it-approaches-the-island.md) _Context: 2016 Pacific typhoon season, Taiwan_
 5. [Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. ](/news/2016/09/16/typhoon-meranti-hits-mainland-china-and-taiwan-killing-at-least-eight-people-and-destroying-1-600-houses.md) _Context: 2016 Pacific typhoon season, Taiwan_
+
+### Changes:
+
+1. [2016 Pacific typhoon season: Typhoon Nepartak hits eastern Taiwan causing three deaths so far, 124 injuries, thousands of people to be evacuated, disrupting transport and power supplies. ](/news/2016/07/8/2016-pacific-typhoon-season-typhoon-nepartak-hits-eastern-taiwan-causing-three-deaths-so-far-124-injuries-thousands-of-people-to-be-evacu.md) _2017-08-27 03:46:26 (First version)_
+1. [Typhoon Nepartak hits eastern Taiwan causing three deaths so far, 124 injuries, thousands of people to be evacuated, disrupting transport and power supplies. ](/news/2016/07/8/typhoon-nepartak-hits-eastern-taiwan-causing-three-deaths-so-far-124-injuries-thousands-of-people-to-be-evacuated-disrupting-transport-an.md) _(Current version)_

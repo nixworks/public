@@ -19,3 +19,8 @@ Eight Irish people were among crew rescued from a sinking racing yacht after it 
 3. [Indonesia closes four airports including Bali International Airport due to an ongoing eruption by the Raung volcano on Java. ](/news/2015/07/10/indonesia-closes-four-airports-including-bali-international-airport-due-to-an-ongoing-eruption-by-the-raung-volcano-on-java.md) _Context: Indonesia, Java_
 4. [The death toll from a landslide in central Java in Indonesia rises to 24 with scores still missing. ](/news/2014/12/14/the-death-toll-from-a-landslide-in-central-java-in-indonesia-rises-to-24-with-scores-still-missing.md) _Context: Indonesia, Java_
 5. [Landslides caused by heavy rain in Java, Indonesia, kill at least 17 people with a hundred still unaccounted for. ](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.md) _Context: Indonesia, Java_
+
+### Changes:
+
+1. [A crew of eight Irish sailors is rescued after the Clipper Round the World Yacht Race competitor ''Cork Clipper'' hits a rock in Java, Indonesia. ](/news/2010/01/14/a-crew-of-eight-irish-sailors-is-rescued-after-the-clipper-round-the-world-yacht-race-competitor-cork-clipper-hits-a-rock-in-java-indon.md) _2017-08-25 03:26:53 (First version)_
+1. [A crew of eight Irish sailors is rescued after the Clipper Round the World Yacht Race competitor "Cork Clipper" hits a rock in Java, Indonesia. ](/news/2010/01/14/a-crew-of-eight-irish-sailors-is-rescued-after-the-clipper-round-the-world-yacht-race-competitor-cork-clipper-hits-a-rock-in-java-indones.md) _(Current version)_

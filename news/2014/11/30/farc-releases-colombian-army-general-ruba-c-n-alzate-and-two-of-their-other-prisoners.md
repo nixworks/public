@@ -17,3 +17,8 @@
 3. [Alfonso Cano, the head of the Colombian militant organisation FARC, is reportedly killed in a raid by the Colombian Army. ](/news/2011/11/4/alfonso-cano-the-head-of-the-colombian-militant-organisation-farc-is-reportedly-killed-in-a-raid-by-the-colombian-army.md) _Context: Colombian Army, Revolutionary Armed Forces of Colombia_
 4. [ A Colombian military official claims that eight FARC guerrillas and five Colombian army soldiers have been killed in heavy fighting in Cauca Department. ](/news/2009/10/17/a-colombian-military-official-claims-that-eight-farc-guerrillas-and-five-colombian-army-soldiers-have-been-killed-in-heavy-fighting-in-cauc.md) _Context: Colombian Army, Revolutionary Armed Forces of Colombia_
 5. [A suspected terrorist bomb explosion in an Andino shopping mall's ladies room in Bogota, Colombia, kills three women and injures at least 11. ](/news/2017/06/17/a-suspected-terrorist-bomb-explosion-in-an-andino-shopping-mall-s-ladies-room-in-bogota-colombia-kills-three-women-and-injures-at-least-1.md) _Context: Colombian conflict_
+
+### Changes:
+
+1. [Colombian conflict: FARC releases Colombian Army general Ruben Alzate and two of their other prisoners. ](/news/2014/11/30/colombian-conflict-farc-releases-colombian-army-general-ruba-c-n-alzate-and-two-of-their-other-prisoners.md) _2017-08-27 03:41:34 (First version)_
+1. [FARC releases Colombian Army general Ruben Alzate and two of their other prisoners. ](/news/2014/11/30/farc-releases-colombian-army-general-ruba-c-n-alzate-and-two-of-their-other-prisoners.md) _(Current version)_

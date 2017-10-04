@@ -18,3 +18,8 @@
 3. [The Greek Coast Guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/the-greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md) _Context: Greek Coast Guard_
 4. [The Gaza Strip's sole power plant is shut down due to running out of fuel, amid unpaid bills and a dispute over tax bills on fuel imports to the blockaded Palestinian territory. ](/news/2017/04/16/the-gaza-strip-s-sole-power-plant-is-shut-down-due-to-running-out-of-fuel-amid-unpaid-bills-and-a-dispute-over-tax-bills-on-fuel-imports-to.md) _Context: Gaza_
 5. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Gaza_
+
+### Changes:
+
+1. [Freedom Flotilla II: The Greek Coast Guard prevents the ship ''Dignity Al Karama'' from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-i.md) _2017-08-25 03:33:43 (First version)_
+1. [Freedom Flotilla II: The Greek Coast Guard prevents the ship "Dignity Al Karama" from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-in.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [Typhoon Fanapi arrives in China's Fujian province after causing widespread damage in Taiwan. ](/news/2010/09/20/typhoon-fanapi-arrives-in-china-s-fujian-province-after-causing-widespread-damage-in-taiwan.md) _Context: Chinese, Fujian_
 4. [Typhoon Fanapi (Inday) hits Taiwan with at least three people killed and dozens of people injured. The Peoples Republic of China steps up its emergency response in preparation for an impact on Monday. ](/news/2010/09/19/typhoon-fanapi-inday-hits-taiwan-with-at-least-three-people-killed-and-dozens-of-people-injured-the-peoples-republic-of-china-steps-up-it.md) _Context: Chinese, Typhoon Chaba_
 5. [More than 300 flights from Shanghai, China are delayed due to torrential rain caused by Tropical Storm Meranti. ](/news/2010/09/11/more-than-300-flights-from-shanghai-china-are-delayed-due-to-torrential-rain-caused-by-tropical-storm-meranti.md) _Context: Chinese, Typhoon Chaba_
+
+### Changes:
+
+1. [2010 Pacific typhoon season: Severe Tropical Storm Lionrock lands in China's Fujian province with warnings of strong winds and torrential rains. ](/news/2010/09/2/2010-pacific-typhoon-season-severe-tropical-storm-lionrock-lands-in-china-s-fujian-province-with-warnings-of-strong-winds-and-torrential-ra.md) _2017-08-27 03:29:55 (First version)_
+1. [Severe Tropical Storm Lionrock lands in China's Fujian province with warnings of strong winds and torrential rains. ](/news/2010/09/2/severe-tropical-storm-lionrock-lands-in-china-s-fujian-province-with-warnings-of-strong-winds-and-torrential-rains.md) _(Current version)_

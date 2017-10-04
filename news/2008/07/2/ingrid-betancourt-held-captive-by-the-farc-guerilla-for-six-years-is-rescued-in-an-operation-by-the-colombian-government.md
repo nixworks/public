@@ -17,3 +17,8 @@
 3. [Colombia's Revolutionary Armed Forces of Colombia or FARC announces that it has abandoned kidnapping and will soon release its last remaining captives. ](/news/2012/02/26/colombia-s-revolutionary-armed-forces-of-colombia-or-farc-announces-that-it-has-abandoned-kidnapping-and-will-soon-release-its-last-remainin.md) _Context: Colombia, Revolutionary Armed Forces of Colombia_
 4. [Alfonso Cano, the head of the Colombian militant organisation FARC, is reportedly killed in a raid by the Colombian Army. ](/news/2011/11/4/alfonso-cano-the-head-of-the-colombian-militant-organisation-farc-is-reportedly-killed-in-a-raid-by-the-colombian-army.md) _Context: Colombia, Revolutionary Armed Forces of Colombia_
 5. [Army forces in Colombia kill 10 FARC rebels in western Choco department. ](/news/2011/03/24/army-forces-in-colombia-kill-10-farc-rebels-in-western-choca3-department.md) _Context: Colombia, Revolutionary Armed Forces of Colombia_
+
+### Changes:
+
+1. [ Colombia: ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. ](/news/2008/07/2/colombia-ingrid-betancourt-held-captive-by-the-farc-guerilla-for-six-years-is-rescued-in-an-operation-by-the-colombian-government.md) _2017-08-27 03:22:24 (First version)_
+1. [ ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. ](/news/2008/07/2/ingrid-betancourt-held-captive-by-the-farc-guerilla-for-six-years-is-rescued-in-an-operation-by-the-colombian-government.md) _(Current version)_

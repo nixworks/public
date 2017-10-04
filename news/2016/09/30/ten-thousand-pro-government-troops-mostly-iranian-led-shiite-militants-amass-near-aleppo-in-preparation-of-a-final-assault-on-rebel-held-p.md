@@ -16,3 +16,8 @@
 3. [A car bomb strikes a convoy of buses near Aleppo which were carrying evacuees from the pro-government towns of Al-Fu'ah and Kafriya. Over 100 people are killed. ](/news/2017/04/15/a-car-bomb-strikes-a-convoy-of-buses-near-aleppo-which-were-carrying-evacuees-from-the-pro-government-towns-of-al-fu-ah-and-kafriya-over-10.md) _Context: Aleppo_
 4. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo_
 5. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Aleppo_
+
+### Changes:
+
+1. [Aleppo offensive (September 2016): Ten thousand pro-government troops, mostly Iranian-led Shiite militants, amass near Aleppo in preparation of a final assault on rebel-held parts of the city. ](/news/2016/09/30/aleppo-offensive-september-2016-ten-thousand-pro-government-troops-mostly-iranian-led-shiite-militants-amass-near-aleppo-in-preparation.md) _2017-08-27 03:46:55 (First version)_
+1. [Ten thousand pro-government troops, mostly Iranian-led Shiite militants, amass near Aleppo in preparation of a final assault on rebel-held parts of the city. ](/news/2016/09/30/ten-thousand-pro-government-troops-mostly-iranian-led-shiite-militants-amass-near-aleppo-in-preparation-of-a-final-assault-on-rebel-held-p.md) _(Current version)_

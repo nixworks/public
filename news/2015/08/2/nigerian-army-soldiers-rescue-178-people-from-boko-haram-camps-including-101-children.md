@@ -16,3 +16,8 @@
 3. [The Nigerian Army claims to have rescued more than 800 hostages from Boko Haram while performing a "clearance operation" in the Northeastern part of Nigeria with fighting killing 22 insurgents. ](/news/2016/03/25/the-nigerian-army-claims-to-have-rescued-more-than-800-hostages-from-boko-haram-while-performing-a-clearance-operation-in-the-northeastern.md) _Context: Boko Haram, Nigerian Army_
 4. [2015 West African offensive: The Nigerian Army rescues a further 160 women and children from a Boko Haram camp in the Sambisa Forest. ](/news/2015/04/30/2015-west-african-offensive-the-nigerian-army-rescues-a-further-160-women-and-children-from-a-boko-haram-camp-in-the-sambisa-forest.md) _Context: Boko Haram, Nigerian Army_
 5. [Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md) _Context: Boko Haram, Nigerian Army_
+
+### Changes:
+
+1. [Boko Haram: Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/boko-haram-nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md) _2017-08-27 03:42:46 (First version)_
+1. [Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md) _(Current version)_

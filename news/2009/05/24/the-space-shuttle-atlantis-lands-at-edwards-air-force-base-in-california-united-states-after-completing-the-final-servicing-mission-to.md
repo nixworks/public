@@ -17,3 +17,8 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 3. [ The Space Shuttle "Atlantis" begins the final servicing mission to the Hubble Space Telescope.](/news/2009/05/12/the-space-shuttle-atlantis-begins-the-final-servicing-mission-to-the-hubble-space-telescope.md) _Context: Hubble Space Telescope, Space Shuttle, Space Shuttle Atlantis, completes_
 4. [ NASA's Space Shuttle "Discovery" lands at the Edwards Air Force Base in California, USA. ](/news/2009/09/11/nasa-s-space-shuttle-discovery-lands-at-the-edwards-air-force-base-in-california-usa.md) _Context: Americans, California, Edwards Air Force Base_
 5. [ A United States Air Force F-22 Raptor crashes near Edwards AF Base in California, killing its pilot. ](/news/2009/03/25/a-united-states-air-force-f-22-raptor-crashes-near-edwards-af-base-in-california-killing-its-pilot.md) _Context: Americans, California, Edwards Air Force Base_
+
+### Changes:
+
+1. [ The Space Shuttle ''Atlantis'' lands at Edwards Air Force Base in California, United States, after completing the final servicing mission to the Hubble Space Telescope. ](/news/2009/05/24/the-space-shuttle-atlantis-lands-at-edwards-air-force-base-in-california-united-states-after-completing-the-final-servicing-mission-t.md) _2017-08-25 03:24:40 (First version)_
+1. [ The Space Shuttle "Atlantis" lands at Edwards Air Force Base in California, United States, after completing the final servicing mission to the Hubble Space Telescope. ](/news/2009/05/24/the-space-shuttle-atlantis-lands-at-edwards-air-force-base-in-california-united-states-after-completing-the-final-servicing-mission-to.md) _(Current version)_

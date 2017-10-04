@@ -16,3 +16,8 @@
 3. [A suicide car bomb kills at least 21 people and wounds more than 32 at the entrance to Al Khalis, northeast of Baghdad. Most died inside their vehicles while waiting to enter the town. ](/news/2016/07/25/a-suicide-car-bomb-kills-at-least-21-people-and-wounds-more-than-32-at-the-entrance-to-al-khalis-northeast-of-baghdad-most-died-inside-the.md) _Context: Baghdad, car bomb_
 4. [Iraqi security forces raid the offices of Kata'ib Hezbollah in Baghdad, accusing them of being involved in the abduction of 18 Turkish workers. ](/news/2015/09/4/iraqi-security-forces-raid-the-offices-of-kata-ib-hezbollah-in-baghdad-accusing-them-of-being-involved-in-the-abduction-of-18-turkish-worke.md) _Context: Baghdad, Iraq War (2014-present)_
 5. [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md) _Context: Baghdad, Iraq War (2014-present)_
+
+### Changes:
+
+1. [Iraq War (2014-present): A car bomb detonates in the parking lot of a Baghdad police station while police attempt to defuse it, killing six officers and injuring another ten. ](/news/2015/08/28/iraq-war-2014-present-a-car-bomb-detonates-in-the-parking-lot-of-a-baghdad-police-station-while-police-attempt-to-defuse-it-killing-si.md) _2017-08-27 03:42:55 (First version)_
+1. [A car bomb detonates in the parking lot of a Baghdad police station while police attempt to defuse it, killing six officers and injuring another ten. ](/news/2015/08/28/a-car-bomb-detonates-in-the-parking-lot-of-a-baghdad-police-station-while-police-attempt-to-defuse-it-killing-six-officers-and-injuring-ano.md) _(Current version)_

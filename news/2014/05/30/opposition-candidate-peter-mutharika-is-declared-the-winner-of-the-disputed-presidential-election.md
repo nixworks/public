@@ -13,3 +13,8 @@
 ### Related:
 
 1. [Peter Mutharika is sworn into office as the President of Malawi. ](/news/2014/05/31/peter-mutharika-is-sworn-into-office-as-the-president-of-malawi.md) _Context: Peter Mutharika_
+
+### Changes:
+
+1. [Malawian general election, 2014: Opposition candidate Peter Mutharika is declared the winner of the disputed presidential election. ](/news/2014/05/30/malawian-general-election-2014-opposition-candidate-peter-mutharika-is-declared-the-winner-of-the-disputed-presidential-election.md) _2017-08-27 03:40:46 (First version)_
+1. [Opposition candidate Peter Mutharika is declared the winner of the disputed presidential election. ](/news/2014/05/30/opposition-candidate-peter-mutharika-is-declared-the-winner-of-the-disputed-presidential-election.md) _(Current version)_

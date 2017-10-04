@@ -16,3 +16,8 @@
 3. [Justin Trudeau, son of former Canadian Prime Minister Pierre Trudeau, is chosen as the new leader of the Liberal Party of Canada. ](/news/2013/04/14/justin-trudeau-son-of-former-canadian-prime-minister-pierre-trudeau-is-chosen-as-the-new-leader-of-the-liberal-party-of-canada.md) _Context: Canada, Prime Minister of Canada_
 4. [Several nations, including Turkey, Germany and Canada, expel Syrian diplomats in response to the May 25 Houla massacre. ](/news/2012/05/30/several-nations-including-turkey-germany-and-canada-expel-syrian-diplomats-in-response-to-the-may-25-houla-massacre.md) _Context: Canada, Germany_
 5. [Four climbers from Canada, China, Germany and South Korea die whilst returning from the summit of Mount Everest; a Nepalese guide is missing. ](/news/2012/05/21/four-climbers-from-canada-china-germany-and-south-korea-die-whilst-returning-from-the-summit-of-mount-everest-a-nepalese-guide-is-missing.md) _Context: Canada, Germany_
+
+### Changes:
+
+1. [ ''The Globe and Mail'' refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arm.md) _2017-08-25 03:24:38 (First version)_
+1. [ "The Globe and Mail" refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arms.md) _(Current version)_

@@ -22,3 +22,9 @@ Prominent Israeli filmmaker and peace activist was the son of a Jewish mother an
 3. [A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said-it-responded-to-mortar-r.md) _Context: Gaza, Israel_
 4. [Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties. ](/news/2016/05/4/hamas-says-it-has-reached-a-truce-with-the-israeli-military-following-hostilities-today-along-the-gaza-israel-border-there-were-no-casualti.md) _Context: Gaza, Israel_
 5. [Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated. ](/news/2016/05/11/israel-seals-off-the-west-bank-and-gaza-strip-for-two-days-while-yom-ha-atzmaut-israel-s-remembrance-day-and-independence-day-is-celebrate.md) _Context: Gaza, Israel_
+
+### Changes:
+
+1. [Israeli-Palestinian conflict:Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeliapalestinian-conflict-pisraeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md) _2017-08-25 03:32:44 (First version)_
+2. [Israeli-Palestinian conflict:: Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeli-palestinian-conflict-israeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md) _2017-08-27 03:32:52 (Update)_
+2. [Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md) _(Current version)_

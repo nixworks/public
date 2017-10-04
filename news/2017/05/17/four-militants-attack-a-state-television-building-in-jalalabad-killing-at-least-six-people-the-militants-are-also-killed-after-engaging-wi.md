@@ -17,3 +17,8 @@ At least six people and four IS gunmen die in a battle at the Afghan state TV bu
 3. [At least two people are killed and dozens more are wounded in a suicide bombing in Jalalabad, Nangarhar Province. ](/news/2016/07/2/at-least-two-people-are-killed-and-dozens-more-are-wounded-in-a-suicide-bombing-in-jalalabad-nangarhar-province.md) _Context: Jalalabad, War in Afghanistan_
 4. [ Six police officers are killed in an insider attack in Uruzgan province. ](/news/2016/05/21/six-police-officers-are-killed-in-an-insider-attack-in-uruzgan-province.md) _Context: Afghan police, War in Afghanistan_
 5. [Islamic State militants attack Pakistan's consulate in Jalalabad, Afghanistan, killing 9 people and injuring 12 more. ](/news/2016/01/13/islamic-state-militants-attack-pakistan-s-consulate-in-jalalabad-afghanistan-killing-9-people-and-injuring-12-more.md) _Context: Jalalabad, War in Afghanistan_
+
+### Changes:
+
+1. [War in Afghanistan: Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/war-in-afghanistan-four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-kill.md) _2017-08-27 03:48:20 (First version)_
+1. [Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-killed-after-engaging-wi.md) _(Current version)_

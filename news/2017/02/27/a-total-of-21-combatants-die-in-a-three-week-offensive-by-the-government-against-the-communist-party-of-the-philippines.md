@@ -17,3 +17,8 @@
 3. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _Context: Communist_
 4. [The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan-joins-the-government-cabin.md) _Context: Communist_
 5. [Jose Maria Sison, who is the leader of the guerrilla Communist Party of the Philippines, says that the presidency of Rodrigo Duterte is "good for national unity." ](/news/2016/05/1/jose-maria-sison-who-is-the-leader-of-the-guerrilla-communist-party-of-the-philippines-says-that-the-presidency-of-rodrigo-duterte-is-goo.md) _Context: Communist_
+
+### Changes:
+
+1. [Communist rebellion in the Philippines: A total of 21 combatants die in a three-week offensive by the government against the Communist Party of the Philippines. ](/news/2017/02/27/communist-rebellion-in-the-philippines-a-total-of-21-combatants-die-in-a-three-week-offensive-by-the-government-against-the-communist-party.md) _2017-08-27 03:47:54 (First version)_
+1. [A total of 21 combatants die in a three-week offensive by the government against the Communist Party of the Philippines. ](/news/2017/02/27/a-total-of-21-combatants-die-in-a-three-week-offensive-by-the-government-against-the-communist-party-of-the-philippines.md) _(Current version)_

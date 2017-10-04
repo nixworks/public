@@ -22,3 +22,8 @@ Mughrabi and Ori Lewis
 3. [Israeli ground forces will leave the Gaza Strip ahead of an Egyptian mediated ceasefire starting at 0500 GMT today. ](/news/2014/08/5/israeli-ground-forces-will-leave-the-gaza-strip-ahead-of-an-egyptian-mediated-ceasefire-starting-at-0500-gmt-today.md) _Context: 2014 Israel-Gaza conflict, Egypt, Israel_
 4. [Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 5. [Israel and Hamas agree upon a fresh five-day ceasefire. ](/news/2014/08/14/israel-and-hamas-agree-upon-a-fresh-five-day-ceasefire.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
+
+### Changes:
+
+1. [2014 Israel-Gaza conflict: Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/2014-israel-gaza-conflict-israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _2017-08-27 03:41:06 (First version)_
+1. [Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _(Current version)_

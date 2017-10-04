@@ -17,3 +17,8 @@
 3. [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen, Yemeni Civil War_
 4. [Seven Pakistani crew members on Iranian cargo ship MV "Joya", sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s-co.md) _Context: Yemen, Yemeni Civil War_
 5. [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _Context: Yemen, Yemeni Civil War_
+
+### Changes:
+
+1. [Yemeni Civil War: Fighters from the Al-Qaeda affiliated Ansar al-Sharia take control of an army base in southern Yemen. ](/news/2015/02/12/yemeni-civil-war-fighters-from-the-al-qaeda-affiliated-ansar-al-sharia-take-control-of-an-army-base-in-southern-yemen.md) _2017-08-27 03:41:55 (First version)_
+1. [Fighters from the Al-Qaeda affiliated Ansar al-Sharia take control of an army base in southern Yemen. ](/news/2015/02/12/fighters-from-the-al-qaeda-affiliated-ansar-al-sharia-take-control-of-an-army-base-in-southern-yemen.md) _(Current version)_

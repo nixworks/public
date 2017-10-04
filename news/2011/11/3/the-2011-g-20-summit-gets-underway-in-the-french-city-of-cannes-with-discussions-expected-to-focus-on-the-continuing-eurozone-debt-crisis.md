@@ -20,3 +20,9 @@
 3. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
 4. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
 5. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
+
+### Changes:
+
+1. [Eurozone debt crisis:The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/eurozone-debt-crisis-pthe-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing.md) _2017-08-25 03:34:26 (First version)_
+2. [Eurozone debt crisis:: The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/eurozone-debt-crisis-the-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing.md) _2017-08-27 03:34:35 (Update)_
+2. [The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/the-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing-eurozone-debt-crisis.md) _(Current version)_

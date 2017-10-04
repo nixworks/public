@@ -25,7 +25,7 @@ THE coalition government has secured a free trade deal with South Korea, the fir
 U.S. reporters say China&rsquo;s efforts to intimidate journalists have increased under President Xi Jinping.
 
 ### [United States Secretary of State John Kerry meets with the Prime Minister of Israel Benjamin Netanyahu in Jerusalem to talk about many topics including the nuclear program of Iran. ](/news/2013/12/5/united-states-secretary-of-state-john-kerry-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-in-jerusalem-to-talk-about-many-topic.md)
-_Context: Benjamin Netanyahu, Israeli Prime Minister, Jerusalem, John Kerry, United States Secretary of State, nuclear program_
+_Context: Benjamin Netanyahu, Israeli Prime Minister, Jerusalem, John Kerry, Secretary of State, nuclear program_
 
 ### [Myanmar's Thein Sein and the Philippines' Benigno Aquino III ink trade agreements including those that involve renewable energy, mass media, and visa-free travel. ](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.md)
 _Context: Myanmar, Philippines, Thein Sein, his predecessor, mass media, renewable energy, visa-free travel_

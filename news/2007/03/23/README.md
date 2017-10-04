@@ -1,7 +1,7 @@
 ## [2007-03-23](/news/2007/03/23/index.md)
 
 ### [ Condoleezza Rice, the United States Secretary of State, travels to the Middle East to talk with Israel and the Palestinian National Authority about the peace process. ](/news/2007/03/23/condoleezza-rice-the-united-states-secretary-of-state-travels-to-the-middle-east-to-talk-with-israel-and-the-palestinian-national-authori.md)
-_Context: Condoleezza Rice, Israel, Middle East, Palestinian National Authority, United States Secretary of State_
+_Context: Condoleezza Rice, Israel, Middle East, Palestinian National Authority, Secretary of State_
 
 ### [ Sami Al-Arian, the former university professor convicted of funneling money to Palestinian Islamic Jihad, ends his hunger strike to protest his imprisonment, after 60 days. ](/news/2007/03/23/sami-al-arian-the-former-university-professor-convicted-of-funneling-money-to-palestinian-islamic-jihad-ends-his-hunger-strike-to-protest.md)
 _Context: Palestinian Islamic Jihad, Sami Al-Arian_

@@ -10,7 +10,7 @@ The government has prepared a plan to take control of troubled mortgage giants F
 Worldwide sea levels may rise by about 2.6 to 6.6 feet by 2100 thanks to global warming, but dire predictions of larger increases seem unrealistic, U.S. scientists said on Thursday.
 
 ### [ Condoleezza Rice becomes the first United States Secretary of State to visit Libya since 1953. ](/news/2008/09/5/condoleezza-rice-becomes-the-first-united-states-secretary-of-state-to-visit-libya-since-1953.md)
-_Context: 1953, Condoleezza Rice, Libya, United States Secretary of State_
+_Context: 1953, Condoleezza Rice, Libya, Secretary of State_
 
 ### [ Pakistan reinstates Supreme Court judges ousted by former President Pervez Musharraf. ](/news/2008/09/5/pakistan-reinstates-supreme-court-judges-ousted-by-former-president-pervez-musharraf.md)
 _Context: Pakistan, Pervez Musharraf, Supreme Court, president_

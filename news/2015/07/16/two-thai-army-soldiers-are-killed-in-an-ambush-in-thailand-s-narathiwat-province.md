@@ -16,3 +16,8 @@
 3. [Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-months.md) _Context: Narathiwat, South Thailand insurgency, Thailand_
 4. [ South Thailand insurgency: Five Thai soldiers are killed in a drive-by shooting in Thailand's Narathiwat province. ](/news/2005/10/5/south-thailand-insurgency-five-thai-soldiers-are-killed-in-a-drive-by-shooting-in-thailand-s-narathiwat-province.md) _Context: Narathiwat, South Thailand insurgency, Thailand_
 5. [A motorcycle bomb kills a father and daughter outside an elementary school in Narathiwat province. ](/news/2016/09/6/a-motorcycle-bomb-kills-a-father-and-daughter-outside-an-elementary-school-in-narathiwat-province.md) _Context: Narathiwat, South Thailand insurgency_
+
+### Changes:
+
+1. [South Thailand insurgency: Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/south-thailand-insurgency-two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md) _2017-08-27 03:42:42 (First version)_
+1. [Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md) _(Current version)_

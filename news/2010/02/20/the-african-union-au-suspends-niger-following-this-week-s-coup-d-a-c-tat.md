@@ -20,3 +20,9 @@ Capital calm as international bodies urge military leadership to restore democra
 3. [Morocco rejoins the African Union after a 33-year absence, despite opposition from several member states over the political status of Western Sahara. ](/news/2017/01/31/morocco-rejoins-the-african-union-after-a-33-year-absence-despite-opposition-from-several-member-states-over-the-political-status-of-wester.md) _Context: African Union_
 4. [The African Union says it will cease to recognize Yahya Jammeh as President of The Gambia on January 19, the date he is to hand power over to his opponent Adama Barrow, who won last year's election. ](/news/2017/01/13/the-african-union-says-it-will-cease-to-recognize-yahya-jammeh-as-president-of-the-gambia-on-january-19-the-date-he-is-to-hand-power-over-t.md) _Context: African Union_
 5. [Unknown assailants attack a refugee camp near the village of Tassalit, in Niger's Tahoua Region, killing at least 22 soldiers. ](/news/2016/10/6/unknown-assailants-attack-a-refugee-camp-near-the-village-of-tassalit-in-niger-s-tahoua-region-killing-at-least-22-soldiers.md) _Context: Niger_
+
+### Changes:
+
+1. [2010 Nigerien coup d'etat:The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/2010-nigerien-coup-d-a-c-tat-pthe-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md) _2017-08-25 03:27:11 (First version)_
+2. [2010 Nigerien coup d'etat:: The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/2010-nigerien-coup-d-a-c-tat-the-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md) _2017-08-27 03:27:06 (Update)_
+2. [The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/the-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md) _(Current version)_

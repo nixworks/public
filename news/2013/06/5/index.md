@@ -34,7 +34,7 @@ _Context: London, Prince Philip, Duke of Edinburgh_
 _Context: Michael Jackson_
 
 ### [The Australian dollar hits a 20-month low against the United States dollar. ](/news/2013/06/5/the-australian-dollar-hits-a-20-month-low-against-the-united-states-dollar.md)
-_Context: A$, US$_
+_Context: $, A$_
 
 ### [The United States International Trade Commission rules that Apple is infringing on a Samsung patent and bans the import of several popular Apple products. ](/news/2013/06/5/the-united-states-international-trade-commission-rules-that-apple-is-infringing-on-a-samsung-patent-and-bans-the-import-of-several-popular-a.md)
 Samsung Electronics scored a victory over rival Apple Inc intheir long-running dispute over mobile device patents after aU.S. trade agency issued an order banning older butstill-popular Apple products from the U.S. market.

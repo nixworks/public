@@ -16,3 +16,8 @@
 3. [Comrade Artemio, leader of the Shining Path Peruvian rebel movement, is captured in the Huallaga Valley area by the Army and National Police. ](/news/2012/02/12/comrade-artemio-leader-of-the-shining-path-peruvian-rebel-movement-is-captured-in-the-huallaga-valley-area-by-the-army-and-national-police.md) _Context: Peru, Shining Path_
 4. [ The remains of 92 victims of a military massacre in Putis, Peru, are laid to rest 25 years later.](/news/2009/08/30/the-remains-of-92-victims-of-a-military-massacre-in-putis-peru-are-laid-to-rest-25-years-later.md) _Context: Internal conflict in Peru, Peru_
 5. [ Narcoterrorist attack on a military convoy by Shining Path guerrillas kills 19 including women and children in southeast Peru. ](/news/2008/10/9/narcoterrorist-attack-on-a-military-convoy-by-shining-path-guerrillas-kills-19-including-women-and-children-in-southeast-peru.md) _Context: Peru, Shining Path_
+
+### Changes:
+
+1. [Internal conflict in Peru: At least two people are killed in a remote part of Peru in an attack by Shining Path guerillas. ](/news/2016/04/9/internal-conflict-in-peru-at-least-two-people-are-killed-in-a-remote-part-of-peru-in-an-attack-by-shining-path-guerillas.md) _2017-08-27 03:45:33 (First version)_
+1. [At least two people are killed in a remote part of Peru in an attack by Shining Path guerillas. ](/news/2016/04/9/at-least-two-people-are-killed-in-a-remote-part-of-peru-in-an-attack-by-shining-path-guerillas.md) _(Current version)_

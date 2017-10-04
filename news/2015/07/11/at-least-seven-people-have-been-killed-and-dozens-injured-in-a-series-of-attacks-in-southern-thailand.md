@@ -17,3 +17,8 @@ Three people were killed and a dozen injured in four separate bomb blasts in Tha
 3. [Flooding in southern Thailand has caused 40 deaths in recent days with more heavy rain forecast for Monday. ](/news/2017/01/15/flooding-in-southern-thailand-has-caused-40-deaths-in-recent-days-with-more-heavy-rain-forecast-for-monday.md) _Context: southern Thailand_
 4. [ Heavy flooding kills 14 people in Thailand and badly affects the islands of Samui and Pha Ngan in the Gulf of Thailand. It has also severed the rail link to southern Thailand and Malaysia. ](/news/2016/12/6/heavy-flooding-kills-14-people-in-thailand-and-badly-affects-the-islands-of-samui-and-pha-ngan-in-the-gulf-of-thailand-it-has-also-severed.md) _Context: southern Thailand_
 5. [A motorcycle bomb kills a father and daughter outside an elementary school in Narathiwat province. ](/news/2016/09/6/a-motorcycle-bomb-kills-a-father-and-daughter-outside-an-elementary-school-in-narathiwat-province.md) _Context: South Thailand insurgency_
+
+### Changes:
+
+1. [South Thailand insurgency: At least seven people have been killed and dozens injured in a series of attacks in southern Thailand. ](/news/2015/07/11/south-thailand-insurgency-at-least-seven-people-have-been-killed-and-dozens-injured-in-a-series-of-attacks-in-southern-thailand.md) _2017-08-27 03:42:41 (First version)_
+1. [At least seven people have been killed and dozens injured in a series of attacks in southern Thailand. ](/news/2015/07/11/at-least-seven-people-have-been-killed-and-dozens-injured-in-a-series-of-attacks-in-southern-thailand.md) _(Current version)_

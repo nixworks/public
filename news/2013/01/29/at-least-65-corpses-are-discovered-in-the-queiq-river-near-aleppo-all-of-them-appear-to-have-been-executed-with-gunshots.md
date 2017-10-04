@@ -17,3 +17,9 @@ The bodies of at least 71 young men, all apparently summarily executed, have bee
 3. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo_
 4. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Aleppo_
 5. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo_
+
+### Changes:
+
+1. [Syrian civil war:At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-pat-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md) _2017-08-25 03:37:22 (First version)_
+2. [Syrian civil war:: At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-at-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md) _2017-08-27 03:37:32 (Update)_
+2. [At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/at-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md) _(Current version)_

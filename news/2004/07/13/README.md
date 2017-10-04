@@ -7,7 +7,7 @@ _Context: Khaled al-Harbi, Osama bin Laden, Saudi, Sheikh, Tehran, al-Qaeda, amn
 _Context: Abu Musab al-Zarqawi, Al Jazeera, Bulgaria, al-Qaeda, rebel-held_
 
 ### [ The United States Department of State adds the Continuity Irish Republican Army (CIRA) to its list of foreign terrorist organisations, which means that CIRA assets in the US will be frozen and visas denied to members of CIRA. ](/news/2004/07/13/the-united-states-department-of-state-adds-the-continuity-irish-republican-army-cira-to-its-list-of-foreign-terrorist-organisations-whic.md)
-_Context: Continuity Irish Republican Army, U.S. State Department, terrorism_
+_Context: Continuity Irish Republican Army, Department of State, terrorism_
 
 ### [ A rough cut of U2's new album is stolen in Nice, France. The album is scheduled for release in November. ](/news/2004/07/13/a-rough-cut-of-u2-s-new-album-is-stolen-in-nice-france-the-album-is-scheduled-for-release-in-november.md)
 _Context: Nice, U2_

@@ -19,3 +19,9 @@ Forces fighting to oust the Libyan leader Col Muammar Gaddafi seize control of Z
 3. [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md) _Context: United Nations Security Council_
 4. [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md) _Context: United Nations Security Council_
 5. [A United Nations Security Council session is to be held to address the escalating violence in Jerusalem. ](/news/2017/07/22/a-united-nations-security-council-session-is-to-be-held-to-address-the-escalating-violence-in-jerusalem.md) _Context: United Nations Security Council_
+
+### Changes:
+
+1. [ Libya:The United Nations Security Council adopts Resolution 1970, imposing sanctions on Muammar Gaddafi's regime. ](/news/2011/02/27/libya-pthe-united-nations-security-council-adopts-resolution-1970-imposing-sanctions-on-muammar-gaddafi-s-regime.md) _2017-08-25 03:32:21 (First version)_
+2. [ Libya:: The United Nations Security Council adopts Resolution 1970, imposing sanctions on Muammar Gaddafi's regime. ](/news/2011/02/27/libya-the-united-nations-security-council-adopts-resolution-1970-imposing-sanctions-on-muammar-gaddafi-s-regime.md) _2017-08-27 03:32:29 (Update)_
+2. [The United Nations Security Council adopts Resolution 1970, imposing sanctions on Muammar Gaddafi's regime. ](/news/2011/02/27/the-united-nations-security-council-adopts-resolution-1970-imposing-sanctions-on-muammar-gaddafi-s-regime.md) _(Current version)_

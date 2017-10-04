@@ -16,7 +16,7 @@ _Context: East Timor, Jose Ramos-Horta, troubled nation_
 _Context: Constitution of Italy, Italian Prime Minister, Italy, federal state, referendum, regions_
 
 ### [ The world's third richest man, Warren Buffett, pledges to donate approximately $37 billion USD in shares to the Bill & Melinda Gates Foundation, effectively making it the largest charitable organization in history. ](/news/2006/06/25/the-world-s-third-richest-man-warren-buffett-pledges-to-donate-approximately-37-billion-usd-in-shares-to-the-bill-melinda-gates-founda.md)
-_Context: Bill & Melinda Gates Foundation, US$, Warren Buffett, world's third richest man_
+_Context: $, Bill & Melinda Gates Foundation, Warren Buffett, world's third richest man_
 
 ## [Previous Day...](/news/2006/06/24/index.md)
 

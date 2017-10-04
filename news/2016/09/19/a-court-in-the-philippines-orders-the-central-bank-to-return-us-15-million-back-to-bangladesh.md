@@ -17,3 +17,8 @@ A Philippine regional trial court has ordered the Bangko Sentral ng Pilipinas (B
 3. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: Bangladesh_
 4. [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md) _Context: Bangladesh_
 5. [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md) _Context: Bangladesh_
+
+### Changes:
+
+1. [2016 Bangladesh Bank heist: A court in the Philippines orders the central bank to return US$15 million back to Bangladesh. ](/news/2016/09/19/2016-bangladesh-bank-heist-a-court-in-the-philippines-orders-the-central-bank-to-return-us-15-million-back-to-bangladesh.md) _2017-08-27 03:46:52 (First version)_
+1. [A court in the Philippines orders the central bank to return US$15 million back to Bangladesh. ](/news/2016/09/19/a-court-in-the-philippines-orders-the-central-bank-to-return-us-15-million-back-to-bangladesh.md) _(Current version)_

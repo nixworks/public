@@ -16,3 +16,8 @@
 3. [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-ocean.md) _Context: Alaska_
 4. [Two people are attacked and killed by black bears, in separate incidents in Alaska, following a rise in bear attacks in that state. ](/news/2017/06/19/two-people-are-attacked-and-killed-by-black-bears-in-separate-incidents-in-alaska-following-a-rise-in-bear-attacks-in-that-state.md) _Context: Alaska_
 5. [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-oil-drilling.md) _Context: Alaska_
+
+### Changes:
+
+1. [ The Alaskan cruise ship ''Empress of the North'' strikes an underwater rock on day two of a seven-day tour, and evacuates all 281 passengers on board. ](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-strikes-an-underwater-rock-on-day-two-of-a-seven-day-tour-and-evacuates-all-281-passenger.md) _2017-08-25 03:19:48 (First version)_
+1. [ The Alaskan cruise ship "Empress of the North" strikes an underwater rock on day two of a seven-day tour, and evacuates all 281 passengers on board. ](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-strikes-an-underwater-rock-on-day-two-of-a-seven-day-tour-and-evacuates-all-281-passengers.md) _(Current version)_

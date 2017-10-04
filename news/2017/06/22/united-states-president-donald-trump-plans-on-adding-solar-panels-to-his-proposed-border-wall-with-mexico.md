@@ -18,3 +18,8 @@ Attaching solar panels to a wall along the Mexican border will cut costs, the US
 3. [Amid criticism of U.S. national anthem protests by U.S. President Donald Trump, some National Football League players and teams react to the controversy by kneeling, linking arms, or skipping game performances of the national anthem. ](/news/2017/09/24/amid-criticism-of-u-s-national-anthem-protests-by-u-s-president-donald-trump-some-national-football-league-players-and-teams-react-to-the.md) _Context: Donald Trump, U.S. President_
 4. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: Donald Trump, U.S. President_
 5. [ California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.-Mexico border. ](/news/2017/09/20/california-attorney-general-xavier-becerra-files-suit-in-federal-court-against-u-s-president-donald-trump-s-proposed-plan-for-a-wall-along.md) _Context: Donald Trump, U.S. President_
+
+### Changes:
+
+1. [Mexico-United States wall: United States President Donald Trump plans on adding solar panels to his proposed border wall with Mexico. ](/news/2017/06/22/mexico-united-states-wall-united-states-president-donald-trump-plans-on-adding-solar-panels-to-his-proposed-border-wall-with-mexico.md) _2017-08-27 03:48:32 (First version)_
+1. [United States President Donald Trump plans on adding solar panels to his proposed border wall with Mexico. ](/news/2017/06/22/united-states-president-donald-trump-plans-on-adding-solar-panels-to-his-proposed-border-wall-with-mexico.md) _(Current version)_

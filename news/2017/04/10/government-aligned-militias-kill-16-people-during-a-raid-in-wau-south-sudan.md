@@ -17,3 +17,8 @@ At least 10 people were killed in the South Sudanese town of Wau on Monday, as e
 3. [Clashes between government troops and rebels in South Sudan, leave at least 56 people killed. ](/news/2016/10/17/clashes-between-government-troops-and-rebels-in-south-sudan-leave-at-least-56-people-killed.md) _Context: South Sudanese Civil War_
 4. [According to a military spokesman of the rebel SPLM-IO, at least 115 soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital, Juba. ](/news/2016/07/9/according-to-a-military-spokesman-of-the-rebel-splm-io-at-least-115-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions.md) _Context: South Sudanese Civil War_
 5. [Five soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital Juba, with reports of heavy gunfire continuing, despite President Salva Kiir Mayardit and rebel leader Riek Machar having reached a peace deal back in April. ](/news/2016/07/8/five-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions-are-killed-in-clashes-in-the-capital-juba-with-reports-of-heavy.md) _Context: South Sudanese Civil War_
+
+### Changes:
+
+1. [South Sudanese Civil War: Government-aligned militias kill 16 people during a raid in Wau, South Sudan. ](/news/2017/04/10/south-sudanese-civil-war-government-aligned-militias-kill-16-people-during-a-raid-in-wau-south-sudan.md) _2017-08-27 03:48:08 (First version)_
+1. [Government-aligned militias kill 16 people during a raid in Wau, South Sudan. ](/news/2017/04/10/government-aligned-militias-kill-16-people-during-a-raid-in-wau-south-sudan.md) _(Current version)_

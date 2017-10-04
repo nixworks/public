@@ -17,3 +17,8 @@ Laura Marling I Speak Because I Can
 
 1. [English musician PJ Harvey wins her second Mercury Prize for best album from the United Kingdom and Ireland for her album "Let England Shake". ](/news/2011/09/6/english-musician-pj-harvey-wins-her-second-mercury-prize-for-best-album-from-the-united-kingdom-and-ireland-for-her-album-let-england-shake.md) _Context: Mercury Prize_
 2. [ Klaxons win the Mercury Prize for their album "Myths of the Near Future" beating favourites Amy Winehouse and the Arctic Monkeys. ](/news/2007/09/4/klaxons-win-the-mercury-prize-for-their-album-myths-of-the-near-future-beating-favourites-amy-winehouse-and-the-arctic-monkeys.md) _Context: Mercury Prize_
+
+### Changes:
+
+1. [The shortlist for the Forward Poetry Prize is announced. ](/news/2010/07/20/the-shortlist-for-the-forward-poetry-prize-is-announced.md) _2017-10-03 03:32:09 (First version)_
+1. [The shortlist for the 2010 Mercury Prize is announced. ](/news/2010/07/20/the-shortlist-for-the-2010-mercury-prize-is-announced.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [A bomb placed in an elevator shaft kills Pro-Russian, high-ranking officer of the Donetsk People's Republic's special forces, Arseny Pavlov, also known as "Motorola", in Donetsk. ](/news/2016/10/16/a-bomb-placed-in-an-elevator-shaft-kills-pro-russian-high-ranking-officer-of-the-donetsk-people-s-republic-s-special-forces-arseny-pavlov.md) _Context: Donetsk, War in Donbass_
 4. [Three Ukrainian Army soldiers are killed and eight more are injured around separatist-controlled Donetsk and government-controlled Mariupol by Russian-backed separatists. ](/news/2016/05/30/three-ukrainian-army-soldiers-are-killed-and-eight-more-are-injured-around-separatist-controlled-donetsk-and-government-controlled-mariupol.md) _Context: Donetsk, War in Donbass_
 5. [Portraits of former dictator Joseph Stalin go up in the city of Donetsk as the Donetsk People's Republic adopts more Soviet era policies. ](/news/2015/10/19/portraits-of-former-dictator-joseph-stalin-go-up-in-the-city-of-donetsk-as-the-donetsk-people-s-republic-adopts-more-soviet-era-policies.md) _Context: Donetsk, War in Donbass_
+
+### Changes:
+
+1. [War in Donbass: Artillery shelling of Donetsk leaves at least one civilian dead while five Ukrainian Army soldiers are killed in heavy fighting. ](/news/2015/02/2/war-in-donbass-artillery-shelling-of-donetsk-leaves-at-least-one-civilian-dead-while-five-ukrainian-army-soldiers-are-killed-in-heavy-fight.md) _2017-08-27 03:41:52 (First version)_
+1. [Artillery shelling of Donetsk leaves at least one civilian dead while five Ukrainian Army soldiers are killed in heavy fighting. ](/news/2015/02/2/artillery-shelling-of-donetsk-leaves-at-least-one-civilian-dead-while-five-ukrainian-army-soldiers-are-killed-in-heavy-fighting.md) _(Current version)_

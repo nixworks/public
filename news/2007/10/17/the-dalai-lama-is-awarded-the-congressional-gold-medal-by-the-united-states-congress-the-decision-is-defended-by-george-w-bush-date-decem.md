@@ -12,3 +12,8 @@
 3. [ The United States Congress overrides President George W. Bush's veto of the $23 billion Water Resource Bill. ](/news/2007/11/8/the-united-states-congress-overrides-president-george-w-bush-s-veto-of-the-23-billion-water-resource-bill.md) _Context: George W. Bush, United States Congress_
 4. [ The President of the United States George W. Bush asks the United States Congress for $189.3 billion to fund the wars in Iraq and Afghanistan. ](/news/2007/10/22/the-president-of-the-united-states-george-w-bush-asks-the-united-states-congress-for-189-3-billion-to-fund-the-wars-in-iraq-and-afghanist.md) _Context: George W. Bush, United States Congress_
 5. [ The President of the United States George W. Bush urges Congress to pass legislation to expand potential surveillance targets. ](/news/2007/07/28/the-president-of-the-united-states-george-w-bush-urges-congress-to-pass-legislation-to-expand-potential-surveillance-targets.md) _Context: George W. Bush, United States Congress_
+
+### Changes:
+
+1. [ The Dalai Lama is awarded the Congressional Gold Medal by the United States Congress; the decision is defended by George W. Bush.{{Fact|date=December 2007}}](/news/2007/10/17/the-dalai-lama-is-awarded-the-congressional-gold-medal-by-the-united-states-congress-the-decision-is-defended-by-george-w-bush-fact-dat.md) _2017-05-01 03:22:03 (First version)_
+1. [ The Dalai Lama is awarded the Congressional Gold Medal by the United States Congress; the decision is defended by George W. Bush.date=December 2007](/news/2007/10/17/the-dalai-lama-is-awarded-the-congressional-gold-medal-by-the-united-states-congress-the-decision-is-defended-by-george-w-bush-date-decem.md) _(Current version)_

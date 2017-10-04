@@ -17,3 +17,8 @@ Maoist rebels kill at least 14 paramilitary policemen in an ambush in the centra
 3. [At least seven Central Reserve Police Force (CRPF) personnel are killed in an IED attack on their vehicle in the Indian state of Chhattisgarh's Dantewada district. Naxalite insurgents are suspected to have been behind the attack. ](/news/2016/03/30/at-least-seven-central-reserve-police-force-crpf-personnel-are-killed-in-an-ied-attack-on-their-vehicle-in-the-indian-state-of-chhattisgar.md) _Context: Central Reserve Police Force, Chhattisgarh_
 4. [Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. ](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.md) _Context: Chhattisgarh, Maoist_
 5. [Sixteen Naxalite Maoist insurgents are killed by Central Reserve Police Force in the Indian state of Chhattisgarh. ](/news/2012/06/29/sixteen-naxalite-maoist-insurgents-are-killed-by-central-reserve-police-force-in-the-indian-state-of-chhattisgarh.md) _Context: Central Reserve Police Force, Chhattisgarh_
+
+### Changes:
+
+1. [Naxalite-Maoist insurgency: Maoist rebels kill 14 Central Reserve Police Force members in an ambush in Chhattisgarh, Central India. ](/news/2014/12/1/naxalite-maoist-insurgency-maoist-rebels-kill-14-central-reserve-police-force-members-in-an-ambush-in-chhattisgarh-central-india.md) _2017-08-27 03:41:34 (First version)_
+1. [Maoist rebels kill 14 Central Reserve Police Force members in an ambush in Chhattisgarh, Central India. ](/news/2014/12/1/maoist-rebels-kill-14-central-reserve-police-force-members-in-an-ambush-in-chhattisgarh-central-india.md) _(Current version)_

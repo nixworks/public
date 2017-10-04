@@ -17,3 +17,8 @@ The country has had more than 20 coups or attempts at seizing power since it gai
 3. [Ikililou Dhoinine is elected President of the Comoros, defeating rival Mohamed Said Fazul with 61% of the vote. ](/news/2010/12/31/ikililou-dhoinine-is-elected-president-of-the-comoros-defeating-rival-mohamed-said-fazul-with-61-of-the-vote.md) _Context: Comoros_
 4. [ Legislative elections take place in Comoros. ](/news/2009/12/6/legislative-elections-take-place-in-comoros.md) _Context: Comoros_
 5. [ The head of the opposition in Comoros is arrested after openly criticising President Ahmed Abdallah Mohamed Sambi. ](/news/2009/11/17/the-head-of-the-opposition-in-comoros-is-arrested-after-openly-criticising-president-ahmed-abdallah-mohamed-sambi.md) _Context: Comoros_
+
+### Changes:
+
+1. [Comorian presidential election, 2016: Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/comorian-presidential-election-2016-voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md) _2017-08-27 03:44:58 (First version)_
+1. [Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md) _(Current version)_

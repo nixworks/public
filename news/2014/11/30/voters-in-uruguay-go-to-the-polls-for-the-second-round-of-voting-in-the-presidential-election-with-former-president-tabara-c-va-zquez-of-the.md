@@ -18,3 +18,8 @@
 3. [ President Tabare Vazquez of Uruguay shuffles his cabinet, with Gonzalo Fernandez, drafter of all major legislation, moving from Foreign Affairs to Defence. ](/news/2009/09/1/president-tabara-c-va-zquez-of-uruguay-shuffles-his-cabinet-with-gonzalo-ferna-ndez-drafter-of-all-major-legislation-moving-from-foreign.md) _Context: Tabare Vazquez, Uruguay_
 4. [ In Montevideo, President of Mexico Felipe Calderon and President of Uruguay Tabare Vazquez sign a Strategic Association accord to strengthen political dialogue and bilateral trade relations. ](/news/2009/08/14/in-montevideo-president-of-mexico-felipe-caldera3n-and-president-of-uruguay-tabara-c-va-zquez-sign-a-strategic-association-accord-to-streng.md) _Context: Tabare Vazquez, Uruguay_
 5. [Vice President Raul Sendic of Uruguay resigns amid a graft investigation. ](/news/2017/09/9/vice-president-raaol-sendic-of-uruguay-resigns-amid-a-graft-investigation.md) _Context: Uruguay_
+
+### Changes:
+
+1. [Uruguayan general election: Voters in Uruguay go to the polls for the second round of voting in the presidential election with former President Tabare Vazquez of the ruling Broad Front winning another term in government. ](/news/2014/11/30/uruguayan-general-election-voters-in-uruguay-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-presid.md) _2017-08-27 03:41:34 (First version)_
+1. [Voters in Uruguay go to the polls for the second round of voting in the presidential election with former President Tabare Vazquez of the ruling Broad Front winning another term in government. ](/news/2014/11/30/voters-in-uruguay-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-president-tabara-c-va-zquez-of-the.md) _(Current version)_

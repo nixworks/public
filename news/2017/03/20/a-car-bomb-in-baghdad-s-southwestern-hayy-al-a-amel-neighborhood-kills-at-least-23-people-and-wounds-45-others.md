@@ -17,3 +17,8 @@ Iraqi officials say a car bomb in Baghdad has killed at least 23 people and woun
 3. [A suicide bomber detonates a pick-up truck full of explosives at a busy street in northern Baghdad, killing at least nine people. ](/news/2017/02/15/a-suicide-bomber-detonates-a-pick-up-truck-full-of-explosives-at-a-busy-street-in-northern-baghdad-killing-at-least-nine-people.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
 4. [A pair of bomb blasts targeting a market in central Baghdad kills at least 27 people and injures over 50. ](/news/2016/12/31/a-pair-of-bomb-blasts-targeting-a-market-in-central-baghdad-kills-at-least-27-people-and-injures-over-50.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
 5. [Three bombings kill at least 17 people in Baghdad. ](/news/2016/09/27/three-bombings-kill-at-least-17-people-in-baghdad.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/iraqi-civil-war-2014-present-a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-o.md) _2017-08-27 03:48:00 (First version)_
+1. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _(Current version)_

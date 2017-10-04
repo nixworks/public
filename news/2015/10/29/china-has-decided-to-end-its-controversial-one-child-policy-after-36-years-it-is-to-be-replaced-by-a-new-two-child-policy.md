@@ -18,3 +18,8 @@ China decides to end its decades-long policy of allowing couples to have only on
 3. [China is to relax some elements of its one-child policy and announces it will end its "re-education through labour" camps. ](/news/2013/11/15/china-is-to-relax-some-elements-of-its-one-child-policy-and-announces-it-will-end-its-re-education-through-labour-camps.md) _Context: China, one-child policy_
 4. [ China relaxes its one-child policy to allow parents of children killed in the 2008 Sichuan earthquake to have another child. ](/news/2008/05/26/china-relaxes-its-one-child-policy-to-allow-parents-of-children-killed-in-the-2008-sichuan-earthquake-to-have-another-child.md) _Context: China, one-child policy_
 5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
+
+### Changes:
+
+1. [One-child policy: China has decided to end its controversial one-child policy after 36 years. It is to be replaced by a new two-child policy. ](/news/2015/10/29/one-child-policy-china-has-decided-to-end-its-controversial-one-child-policy-after-36-years-it-is-to-be-replaced-by-a-new-two-child-policy.md) _2017-08-27 03:43:35 (First version)_
+1. [China has decided to end its controversial one-child policy after 36 years. It is to be replaced by a new two-child policy. ](/news/2015/10/29/china-has-decided-to-end-its-controversial-one-child-policy-after-36-years-it-is-to-be-replaced-by-a-new-two-child-policy.md) _(Current version)_

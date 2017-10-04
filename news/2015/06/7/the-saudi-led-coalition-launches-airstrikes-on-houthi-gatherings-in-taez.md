@@ -16,3 +16,8 @@
 3. [Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-media.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
 4. [Scheduled talks of 14th June, 2015 between Yemen's Houthi rebels and the exiled government which are brokered by the UN have been postponed with a new schedule set for Monday 15 June, 2015. ](/news/2015/06/13/scheduled-talks-of-14th-june-2015-between-yemen-s-houthi-rebels-and-the-exiled-government-which-are-brokered-by-the-un-have-been-postponed.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
 5. [The Saudi Arabia-led airstrikes against the Houthi rebels resume after a five-day ceasefire. ](/news/2015/05/18/the-saudi-arabia-led-airstrikes-against-the-houthi-rebels-resume-after-a-five-day-ceasefire.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: The Saudi-led coalition launches airstrikes on Houthi gatherings in Taez. ](/news/2015/06/7/saudi-arabian-led-intervention-in-yemen-the-saudi-led-coalition-launches-airstrikes-on-houthi-gatherings-in-taez.md) _2017-08-27 03:42:29 (First version)_
+1. [The Saudi-led coalition launches airstrikes on Houthi gatherings in Taez. ](/news/2015/06/7/the-saudi-led-coalition-launches-airstrikes-on-houthi-gatherings-in-taez.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [The Nigerian Army claims to have rescued more than 800 hostages from Boko Haram while performing a "clearance operation" in the Northeastern part of Nigeria with fighting killing 22 insurgents. ](/news/2016/03/25/the-nigerian-army-claims-to-have-rescued-more-than-800-hostages-from-boko-haram-while-performing-a-clearance-operation-in-the-northeastern.md) _Context: Boko Haram, Boko Haram insurgency, Nigerian Army_
 4. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Boko Haram, Boko Haram insurgency_
 5. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Boko Haram, Boko Haram insurgency_
+
+### Changes:
+
+1. [Boko Haram insurgency: Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-insurgency-boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md) _2017-08-27 03:42:14 (First version)_
+1. [Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md) _(Current version)_

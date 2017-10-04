@@ -18,3 +18,8 @@
 3. [The United States Congress refuses to offer a bailout to Puerto Rico. ](/news/2015/07/9/the-united-states-congress-refuses-to-offer-a-bailout-to-puerto-rico.md) _Context: bailout_
 4. [The Central Bank lowers interest rate to 11%, while the ruble falls 1.5% on the day to close at 60.60 against the dollar. ](/news/2015/07/31/the-central-bank-lowers-interest-rate-to-11-while-the-ruble-falls-1-5-on-the-day-to-close-at-60-60-against-the-dollar.md) _Context: Russian Central Bank_
 5. [Greece has formally requested a new bailout loan from the International Monetary Fund. ](/news/2015/07/24/greece-has-formally-requested-a-new-bailout-loan-from-the-international-monetary-fund.md) _Context: bailout_
+
+### Changes:
+
+1. [''Bank of Moscow'', the fifth largest bank in Russia, in record bailout of $14 billion, after the discovery that almost a third of the bank's assets are "problematic," the Central Bank of Russia said.](/news/2011/07/1/bank-of-moscow-the-fifth-largest-bank-in-russia-in-record-bailout-of-14-billion-after-the-discovery-that-almost-a-third-of-the-bank.md) _2017-08-25 03:33:39 (First version)_
+1. ["Bank of Moscow", the fifth largest bank in Russia, in record bailout of $14 billion, after the discovery that almost a third of the bank's assets are "problematic," the Central Bank of Russia said.](/news/2011/07/1/bank-of-moscow-the-fifth-largest-bank-in-russia-in-record-bailout-of-14-billion-after-the-discovery-that-almost-a-third-of-the-bank-s.md) _(Current version)_

@@ -17,3 +17,8 @@ Six Turkish soldiers were killed and four others were wounded in a PKK terror at
 3. [ A military operation leaves three Turkish soldiers dead and another three wounded in Hakkari Province, Turkey. ](/news/2016/12/2/a-military-operation-leaves-three-turkish-soldiers-dead-and-another-three-wounded-in-hakkac-ri-province-turkey.md) _Context: Kurdish-Turkish conflict (2015-present), Turkey_
 4. [Turkey suspends 11,500 teachers over alleged links to separatist terrorist organization Kurdistan Workers' Party (PKK) a week before the start of school. ](/news/2016/09/8/turkey-suspends-11-500-teachers-over-alleged-links-to-separatist-terrorist-organization-kurdistan-workers-party-pkk-a-week-before-the-sta.md) _Context: Kurdistan Workers' Party, Turkey_
 5. [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md) _Context: Kurdistan Workers' Party, Turkey_
+
+### Changes:
+
+1. [Kurdish-Turkish conflict (2015-present): At least six Turkish soldiers are killed and four others are wounded in a PKK attack in Turkey's eastern Van Province. ](/news/2016/05/24/kurdish-turkish-conflict-2015-present-at-least-six-turkish-soldiers-are-killed-and-four-others-are-wounded-in-a-pkk-attack-in-turkey.md) _2017-08-27 03:46:07 (First version)_
+1. [At least six Turkish soldiers are killed and four others are wounded in a PKK attack in Turkey's eastern Van Province. ](/news/2016/05/24/at-least-six-turkish-soldiers-are-killed-and-four-others-are-wounded-in-a-pkk-attack-in-turkey-s-eastern-van-province.md) _(Current version)_

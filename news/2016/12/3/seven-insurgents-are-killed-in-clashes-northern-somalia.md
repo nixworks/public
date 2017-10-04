@@ -17,3 +17,8 @@ Soldiers allied to the Western-backed Somali government said they killed seven i
 3. [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed inside his vehicle by security forces near the Villa Somalia in the capital Mogadishu, after mistaking him for a militant. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-inside-his-vehicle-by-security-forces-near-the-villa-somalia-i.md) _Context: Somalian_
 4. [Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.md) _Context: Somalian_
 5. [Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: Somalian_
+
+### Changes:
+
+1. [Somali Civil War (2009-present): Seven insurgents are killed in clashes northern Somalia. ](/news/2016/12/3/somali-civil-war-2009-present-seven-insurgents-are-killed-in-clashes-northern-somalia.md) _2017-08-27 03:47:22 (First version)_
+1. [ Seven insurgents are killed in clashes northern Somalia. ](/news/2016/12/3/seven-insurgents-are-killed-in-clashes-northern-somalia.md) _(Current version)_

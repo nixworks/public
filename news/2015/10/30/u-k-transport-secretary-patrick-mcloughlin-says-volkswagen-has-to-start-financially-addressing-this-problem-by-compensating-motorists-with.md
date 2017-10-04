@@ -18,3 +18,8 @@ Motorists may have to be reimbursed for the fall in value of their cars after th
 3. [An engineer from Volkswagen pleads guilty for his role in the emissions cheating scandal. ](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.md) _Context: Volkswagen, Volkswagen emissions scandal_
 4. [Litigants file a new wave of lawsuits against Volkswagen regarding its emissions scandal. ](/news/2016/09/21/litigants-file-a-new-wave-of-lawsuits-against-volkswagen-regarding-its-emissions-scandal.md) _Context: Volkswagen, Volkswagen emissions scandal_
 5. [Volkswagen gets approval from Germany's motor vehicle authority for technical fixes on 460,000 cars. ](/news/2016/08/14/volkswagen-gets-approval-from-germany-s-motor-vehicle-authority-for-technical-fixes-on-460-000-cars.md) _Context: Volkswagen, Volkswagen emissions scandal_
+
+### Changes:
+
+1. [Volkswagen emissions scandal: U.K. transport secretary Patrick McLoughlin says Volkswagen has to start financially addressing this problem by compensating motorists with, the estimated total is GBP600m (US$925 million). ](/news/2015/10/30/volkswagen-emissions-scandal-u-k-transport-secretary-patrick-mcloughlin-says-volkswagen-has-to-start-financially-addressing-this-problem-b.md) _2017-08-27 03:43:36 (First version)_
+1. [U.K. transport secretary Patrick McLoughlin says Volkswagen has to start financially addressing this problem by compensating motorists with, the estimated total is GBP600m (US$925 million). ](/news/2015/10/30/u-k-transport-secretary-patrick-mcloughlin-says-volkswagen-has-to-start-financially-addressing-this-problem-by-compensating-motorists-with.md) _(Current version)_

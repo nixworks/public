@@ -16,3 +16,8 @@
 3. [One person is dead and fourteen missing after floods hit Huaping County in China's Yunnan province. ](/news/2015/09/16/one-person-is-dead-and-fourteen-missing-after-floods-hit-huaping-county-in-china-s-yunnan-province.md) _Context: China, Yunnan_
 4. [A group of knife-wielding terrorist suspects attacks people at the Kunming Railway Station in the city of Kunming in Yunnan province, south-western China. At least 29 people are killed and 130 others injured. ](/news/2014/03/1/a-group-of-knife-wielding-terrorist-suspects-attacks-people-at-the-kunming-railway-station-in-the-city-of-kunming-in-yunnan-province-south.md) _Context: China, Yunnan_
 5. [The death toll in landslides in the province of Yunnan, China rises to 46, according to state media. ](/news/2013/01/12/the-death-toll-in-landslides-in-the-province-of-yunnan-china-rises-to-46-according-to-state-media.md) _Context: China, Yunnan_
+
+### Changes:
+
+1. [2014 Ludian earthquake: The death toll from the earthquake in China's Yunnan province rises to 589 with nine people still missing. ](/news/2014/08/6/2014-ludian-earthquake-the-death-toll-from-the-earthquake-in-china-s-yunnan-province-rises-to-589-with-nine-people-still-missing.md) _2017-08-27 03:41:07 (First version)_
+1. [The death toll from the earthquake in China's Yunnan province rises to 589 with nine people still missing. ](/news/2014/08/6/the-death-toll-from-the-earthquake-in-china-s-yunnan-province-rises-to-589-with-nine-people-still-missing.md) _(Current version)_

@@ -17,3 +17,9 @@ A militant group in Gaza said the first rocket strike in more than three months 
 3. [ Palestinian militants fire two rockets from the Gaza Strip into Israel. ](/news/2009/02/8/palestinian-militants-fire-two-rockets-from-the-gaza-strip-into-israel.md) _Context: Gaza, Israel, rocket_
 4. [ The Israeli Air Force attacks the Gaza Strip after Palestinian militants fire two rockets into the country. ](/news/2009/02/7/the-israeli-air-force-attacks-the-gaza-strip-after-palestinian-militants-fire-two-rockets-into-the-country.md) _Context: Gaza, Israel, rocket_
 5. [ The Israel Defense Forces bomb the Gaza Strip in response to Palestinian rocket and mortar fire. ](/news/2009/02/2/the-israel-defense-forces-bomb-the-gaza-strip-in-response-to-palestinian-rocket-and-mortar-fire.md) _Context: Gaza, Israel, rocket_
+
+### Changes:
+
+1. [Israeli-Palestinian conflict:A rocket is fired from the Gaza Strip into Israel, marking the first such attack since a ceasefire was signed in November 2012. ](/news/2013/02/26/israeliapalestinian-conflict-pa-rocket-is-fired-from-the-gaza-strip-into-israel-marking-the-first-such-attack-since-a-ceasefire-was-signe.md) _2017-08-25 03:37:40 (First version)_
+2. [Israeli-Palestinian conflict:: A rocket is fired from the Gaza Strip into Israel, marking the first such attack since a ceasefire was signed in November 2012. ](/news/2013/02/26/israeli-palestinian-conflict-a-rocket-is-fired-from-the-gaza-strip-into-israel-marking-the-first-such-attack-since-a-ceasefire-was-sign.md) _2017-08-27 03:37:50 (Update)_
+2. [A rocket is fired from the Gaza Strip into Israel, marking the first such attack since a ceasefire was signed in November 2012. ](/news/2013/02/26/a-rocket-is-fired-from-the-gaza-strip-into-israel-marking-the-first-such-attack-since-a-ceasefire-was-signed-in-november-2012.md) _(Current version)_

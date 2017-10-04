@@ -17,3 +17,8 @@ Victims aged from 18 months to 15 years were all from same family, with mother b
 3. [The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. ](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-associated-flooding-in-the-australian-states-of-new-south-wales-and-queensland-rises-to-five-peop.md) _Context: Australia, Queensland_
 4. [An accident on board the Thunder River Rapids Ride at Dreamworld on the Gold Coast in Queensland, Australia, leaves four people dead. ](/news/2016/10/25/an-accident-on-board-the-thunder-river-rapids-ride-at-dreamworld-on-the-gold-coast-in-queensland-australia-leaves-four-people-dead.md) _Context: Australia, Queensland_
 5. [The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four year fixed parliamentary term. ](/news/2016/04/5/the-results-of-a-referendum-last-month-in-the-australian-state-of-queensland-with-voters-agreeing-to-plans-for-a-four-year-fixed-parliamenta.md) _Context: Australia, Queensland_
+
+### Changes:
+
+1. [Cairns child killings: Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/cairns-child-killings-queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md) _2017-08-27 03:41:39 (First version)_
+1. [Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md) _(Current version)_

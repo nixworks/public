@@ -20,3 +20,8 @@
 3. [European Union Agriculture Ministers meet in Luxembourg to discuss the continuing 2011 E. coli O104:H4 outbreak that has so far killed 23 and for which no cause has yet been found; a 150 million euro compensation fund is proposed, but no Europe-wide bans on produce. ](/news/2011/06/7/european-union-agriculture-ministers-meet-in-luxembourg-to-discuss-the-continuing-2011-e-coli-o104-h4-outbreak-that-has-so-far-killed-23-an.md) _Context: EU, EUR_
 4. [The International Monetary Fund approves a 26 billion euro loan to Portugal as part of a joint bailout package with the European Union to try to resolve the European sovereign debt crisis. ](/news/2011/05/20/the-international-monetary-fund-approves-a-26-billion-euro-loan-to-portugal-as-part-of-a-joint-bailout-package-with-the-european-union-to-tr.md) _Context: EU, EUR_
 5. [European Union finance ministers approve a 78 billion euro bailout package for Portugal ](/news/2011/05/16/european-union-finance-ministers-approve-a-78-billion-euro-bailout-package-for-portugal.md) _Context: EU, EUR_
+
+### Changes:
+
+1. [ The European Union proposes a -200 billion stimulus package that will include already-spent money ](/news/2008/11/26/the-european-union-proposes-a-200-billion-stimulus-package-that-will-include-already-spent-money.md) _2017-08-27 03:23:06 (First version)_
+1. [ The European Union proposes a EUR200 billion stimulus package that will include already-spent money ](/news/2008/11/26/the-european-union-proposes-a-a-200-billion-stimulus-package-that-will-include-already-spent-money.md) _(Current version)_

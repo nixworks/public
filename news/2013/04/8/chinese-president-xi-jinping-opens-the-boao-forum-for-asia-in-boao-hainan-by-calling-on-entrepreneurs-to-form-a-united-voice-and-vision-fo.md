@@ -16,3 +16,8 @@
 3. [China's President Xi Jinping vows to intensify ties with Africa, as he addresses leaders in Dar es Salaam, Tanzania, on his first trip to the continent. ](/news/2013/03/25/china-s-president-xi-jinping-vows-to-intensify-ties-with-africa-as-he-addresses-leaders-in-dar-es-salaam-tanzania-on-his-first-trip-to-th.md) _Context: China, Chinese President, Xi Jinping_
 4. [Xi Jinping heads to Russia on the first stop of his maiden overseas tour as President of China. ](/news/2013/03/22/xi-jinping-heads-to-russia-on-the-first-stop-of-his-maiden-overseas-tour-as-president-of-china.md) _Context: China, Chinese President, Xi Jinping_
 5. [ At the 11th National People's Congress, Hu Jintao is elected to a second term as the President of China, and Xi Jinping is elected Vice-President. ](/news/2008/03/15/at-the-11th-national-people-s-congress-hu-jintao-is-elected-to-a-second-term-as-the-president-of-china-and-xi-jinping-is-elected-vice-pre.md) _Context: China, Chinese President, Xi Jinping_
+
+### Changes:
+
+1. [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-f.md) _2017-08-25 03:38:14 (First version)_
+1. [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md) _(Current version)_

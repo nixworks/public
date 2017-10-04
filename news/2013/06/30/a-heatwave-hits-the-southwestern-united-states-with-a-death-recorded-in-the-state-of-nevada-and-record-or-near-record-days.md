@@ -19,3 +19,9 @@ A man died and another was hospitalized in serious condition Saturday afternoon 
 3. [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md) _Context: Nevada_
 4. [U.S. President Barack Obama declares the Bears Ears in Utah and Gold Butte area of Nevada as National Monuments. Both are known for the presence of Native American populations and archaeological sites. ](/news/2016/12/29/u-s-president-barack-obama-declares-the-bears-ears-in-utah-and-gold-butte-area-of-nevada-as-national-monuments-both-are-known-for-the-pres.md) _Context: Nevada_
 5. [Reform candidate Rocky de la Fuente files for a sample recount in parts of Nevada. ](/news/2016/11/30/reform-candidate-rocky-de-la-fuente-files-for-a-sample-recount-in-parts-of-nevada.md) _Context: Nevada_
+
+### Changes:
+
+1. [US heatwave:A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/us-heatwave-pa-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md) _2017-08-25 03:38:55 (First version)_
+2. [US heatwave:: A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/us-heatwave-a-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md) _2017-08-27 03:39:10 (Update)_
+2. [A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/a-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md) _(Current version)_

@@ -20,3 +20,9 @@ Embattled Japanese Prime MinisterNaoto Kan, at risk of losing a no-confidence vo
 3. [The Japanese government led by Prime Minister Naoto Kan announces that it is firing three senior bureaucrats responsible for nuclear energy policy as a result of the Fukushima Daiichi nuclear disaster earlier this year. ](/news/2011/08/4/the-japanese-government-led-by-prime-minister-naoto-kan-announces-that-it-is-firing-three-senior-bureaucrats-responsible-for-nuclear-energy.md) _Context: Naoto Kan, Prime Minister of Japan_
 4. [The ruling Democratic Party of Japan selects a replacement for Naoto Kan as party leader and Prime Minister of Japan with current Minister of Finance Yoshihiko Noda winning the ballot. ](/news/2011/08/29/the-ruling-democratic-party-of-japan-selects-a-replacement-for-naoto-kan-as-party-leader-and-prime-minister-of-japan-with-current-minister-o.md) _Context: Naoto Kan, Prime Minister of Japan_
 5. [Naoto Kan announces his resignation as Prime Minister of Japan after the Parliament passes two key pieces of legislation. ](/news/2011/08/26/naoto-kan-announces-his-resignation-as-prime-minister-of-japan-after-the-parliament-passes-two-key-pieces-of-legislation.md) _Context: Naoto Kan, Prime Minister of Japan_
+
+### Changes:
+
+1. [Japanese politicsPrime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/japanese-politicspprime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md) _2017-08-25 03:33:21 (First version)_
+2. [Japanese politics: Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/japanese-politics-prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md) _2017-08-27 03:33:29 (Update)_
+2. [Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md) _(Current version)_

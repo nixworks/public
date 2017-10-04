@@ -16,3 +16,8 @@
 3. [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md) _Context: Kabul, War in Afghanistan_
 4. [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md) _Context: Kabul, War in Afghanistan_
 5. [An explosion in Kabul leads to several casualties. Afghan police report that the attack was aimed at a member of the National Assembly, Fakori Behishti. ](/news/2016/12/28/an-explosion-in-kabul-leads-to-several-casualties-afghan-police-report-that-the-attack-was-aimed-at-a-member-of-the-national-assembly-fako.md) _Context: Kabul, National Assembly_
+
+### Changes:
+
+1. [War in Afghanistan: 10 January 2017 Afghanistan bombings: Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/war-in-afghanistan-10-january-2017-afghanistan-bombings-two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _2017-08-27 03:47:35 (First version)_
+1. [Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _(Current version)_

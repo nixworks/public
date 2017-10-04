@@ -18,3 +18,9 @@ Eleven men were shot dead in Cape Verde on Tuesday, including eight soldiers, a 
 3. [Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/voters-in-cape-verde-go-to-the-polls-for-an-election.md) _Context: Cape Verde_
 4. [Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _Context: Cape Verde_
 5. [Volcano eruption on Fogo island, Cape Verde is among the strongest ever recorded on the island and is forcing the evacuation of the ChGBP das Caldeiras village. ](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-among-the-strongest-ever-recorded-on-the-island-and-is-forcing-the-evacuation-of-the-chagbp-d.md) _Context: Cape Verde_
+
+### Changes:
+
+1. [Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a-missing-disgruntled-s.md) _2017-08-25 03:45:28 (First version)_
+2. [Monte Tchota massacre: Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/monte-tchota-massacre-eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a.md) _2017-08-27 03:45:51 (Update)_
+2. [Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a-missing-disgruntled-so.md) _(Current version)_

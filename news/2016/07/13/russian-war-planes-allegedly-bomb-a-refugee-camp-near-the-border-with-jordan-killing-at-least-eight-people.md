@@ -18,3 +18,8 @@ Jets bombed a Syrian refugee camp on the border with Jordan, killing at least ei
 3. [Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carry-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing-a.md) _Context: Russia, Syrian Civil War_
 4. [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md) _Context: Russia, Syrian Civil War_
 5. [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md) _Context: Russia, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: Russian war planes allegedly bomb a refugee camp near the border with Jordan, killing at least eight people. ](/news/2016/07/13/syrian-civil-war-russian-war-planes-allegedly-bomb-a-refugee-camp-near-the-border-with-jordan-killing-at-least-eight-people.md) _2017-08-27 03:46:29 (First version)_
+1. [Russian war planes allegedly bomb a refugee camp near the border with Jordan, killing at least eight people. ](/news/2016/07/13/russian-war-planes-allegedly-bomb-a-refugee-camp-near-the-border-with-jordan-killing-at-least-eight-people.md) _(Current version)_

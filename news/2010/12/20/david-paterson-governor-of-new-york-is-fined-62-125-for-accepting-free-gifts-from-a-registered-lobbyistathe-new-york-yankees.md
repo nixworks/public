@@ -17,3 +17,8 @@
 3. [ New York Governor David Paterson appoints Kirsten Gillibrand to Hillary Clinton's vacated United States Senate seat. ](/news/2009/01/23/new-york-governor-david-paterson-appoints-kirsten-gillibrand-to-hillary-clinton-s-vacated-united-states-senate-seat.md) _Context: David Paterson, New York Governor_
 4. [ The Governor of New York David Paterson directs New York state agencies to recognise gay marriages performed in other jurisdictions such as Canada, California and Massachusetts. ](/news/2008/05/28/the-governor-of-new-york-david-paterson-directs-new-york-state-agencies-to-recognise-gay-marriages-performed-in-other-jurisdictions-such-as.md) _Context: David Paterson, New York Governor_
 5. [ David Paterson is sworn in as the new Governor of New York after the Eliot Spitzer prostitution scandal. ](/news/2008/03/17/david-paterson-is-sworn-in-as-the-new-governor-of-new-york-after-the-eliot-spitzer-prostitution-scandal.md) _Context: David Paterson, New York Governor_
+
+### Changes:
+
+1. [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist-the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyist-the-new-york-yankees.md) _2017-08-27 03:31:36 (First version)_
+1. [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist--the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyistathe-new-york-yankees.md) _(Current version)_

@@ -16,7 +16,7 @@ _Context: United States Navy, Vieques_
 _Context: British Columbia, same-sex marriage_
 
 ### [ The Canadian dollar exceeds 70 cents US for the first time in five years, reaching $0.7044 US.](/news/2003/05/1/the-canadian-dollar-exceeds-70-cents-us-for-the-first-time-in-five-years-reaching-0-7044-us.md)
-_Context: CAN$, US$_
+_Context: $, CAN$_
 
 ### [ Aron Ralston ends his 6-day entrapment in Blue John Canyon by severing his right arm with a pocket-knife.](/news/2003/05/1/aron-ralston-ends-his-6-day-entrapment-in-blue-john-canyon-by-severing-his-right-arm-with-a-pocket-knife.md)
 _Context: Aron Ralston, Blue John Canyon_

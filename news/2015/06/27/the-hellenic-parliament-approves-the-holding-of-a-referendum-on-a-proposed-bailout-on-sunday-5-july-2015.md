@@ -17,3 +17,8 @@ Greek parliament approves motion to hold referendum on creditors&#39; fiscal ref
 3. [ A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md) _Context: Hellenic Parliament_
 4. [The government of Greece submits more legislation to the Hellenic Parliament required by its creditors to start a bailout package. ](/news/2015/07/21/the-government-of-greece-submits-more-legislation-to-the-hellenic-parliament-required-by-its-creditors-to-start-a-bailout-package.md) _Context: Hellenic Parliament_
 5. [The Hellenic Parliament votes to approve the Greek bailout package despite many senior lawmakers from the ruling Syriza Party refusing to vote for the deal. ](/news/2015/07/15/the-hellenic-parliament-votes-to-approve-the-greek-bailout-package-despite-many-senior-lawmakers-from-the-ruling-syriza-party-refusing-to-vo.md) _Context: Hellenic Parliament_
+
+### Changes:
+
+1. [Greek economy referendum, 2015: The Hellenic Parliament approves the holding of a referendum on a proposed bailout on Sunday 5 July 2015. ](/news/2015/06/27/greek-economy-referendum-2015-the-hellenic-parliament-approves-the-holding-of-a-referendum-on-a-proposed-bailout-on-sunday-5-july-2015.md) _2017-08-27 03:42:36 (First version)_
+1. [The Hellenic Parliament approves the holding of a referendum on a proposed bailout on Sunday 5 July 2015. ](/news/2015/06/27/the-hellenic-parliament-approves-the-holding-of-a-referendum-on-a-proposed-bailout-on-sunday-5-july-2015.md) _(Current version)_

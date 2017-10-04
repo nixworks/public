@@ -18,3 +18,9 @@ Tunisian authorities ban protests planned for Friday, after rival Islamist ralli
 3. [German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whose-identifying-inform.md) _Context: Tunisia_
 4. [Tunisian lawmakers, dissatisfied with the lack of progress on a financial reforms package, vote (118-3) to dismiss Prime Minister Habib Essid from office. ](/news/2016/07/30/tunisian-lawmakers-dissatisfied-with-the-lack-of-progress-on-a-financial-reforms-package-vote-118-3-to-dismiss-prime-minister-habib-essi.md) _Context: Tunisia_
 5. [Tunisia's army and security forces kill another five suspected terrorists in an operation near the Libyan border. ](/news/2016/03/8/tunisia-s-army-and-security-forces-kill-another-five-suspected-terrorists-in-an-operation-near-the-libyan-border.md) _Context: Tunisia_
+
+### Changes:
+
+1. [Arab Spring:Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/arab-spring-ptunisian-authorities-ban-protests-planned-for-friday.md) _2017-08-25 03:35:52 (First version)_
+2. [Arab Spring:: Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/arab-spring-tunisian-authorities-ban-protests-planned-for-friday.md) _2017-08-27 03:36:03 (Update)_
+2. [Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/tunisian-authorities-ban-protests-planned-for-friday.md) _(Current version)_

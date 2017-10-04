@@ -22,3 +22,8 @@ French President Francois Hollande has said Muslims are the &quot;main victims&q
 3. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
 4. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
 5. [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md) _Context: France_
+
+### Changes:
+
+1. ["Charlie Hebdo" shooting: The two suspect brothers take a hostage at a sign printing company, Creation Tendance Decouverte, in the French town of Dammartin-en-Goele. ](/news/2015/01/9/charlie-hebdo-shooting-the-two-suspect-brothers-take-a-hostage-at-a-sign-printing-company-cra-c-ation-tendance-da-c-couverte-in-the-french.md) _2017-08-27 03:41:45 (First version)_
+1. [The two suspect brothers take a hostage at a sign printing company, Creation Tendance Decouverte, in the French town of Dammartin-en-Goele. ](/news/2015/01/9/the-two-suspect-brothers-take-a-hostage-at-a-sign-printing-company-cra-c-ation-tendance-da-c-couverte-in-the-french-town-of-dammartin-en-goa-l.md) _(Current version)_

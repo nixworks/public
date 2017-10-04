@@ -17,3 +17,8 @@
 3. [Singapore closes its primary and secondary schools as smoke from the Indonesian fires raises air pollution to hazardous levels. ](/news/2015/09/25/singapore-closes-its-primary-and-secondary-schools-as-smoke-from-the-indonesian-fires-raises-air-pollution-to-hazardous-levels.md) _Context: Indonesia, Singapore, recent incident of hazes in 2015_
 4. [Forest fires in Sumatra, Indonesia, cause a thick haze to drift over Singapore. ](/news/2010/10/22/forest-fires-in-sumatra-indonesia-cause-a-thick-haze-to-drift-over-singapore.md) _Context: Indonesia, Singapore, forest fire_
 5. [ Two earthquakes measuring 6.4 and 6.3 on the Moment magnitude scale hit Sumatra in Indonesia, with the epicenter near Lake Singkarak. At least 82 fatalities are currently reported. The earthquakes were felt as far as in Malaysia and Singapore. ](/news/2007/03/6/two-earthquakes-measuring-6-4-and-6-3-on-the-moment-magnitude-scale-hit-sumatra-in-indonesia-with-the-epicenter-near-lake-singkarak-at-le.md) _Context: Indonesia, Malaysia, Singapore_
+
+### Changes:
+
+1. [2015 Southeast Asian haze: The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/2015-southeast-asian-haze-the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-sm.md) _2017-08-27 03:43:07 (First version)_
+1. [The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-smog.md) _(Current version)_

@@ -17,3 +17,9 @@ A suicide bomber detonated his explosive vest in a crowd of spectators at a voll
 3. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: suicide bomber_
 4. [An explosion outside a military camp in southern Yemen kills at least 49 people and injures many more. The explosion is believed to have been caused by a suicide bomber wearing an explosive vest. ](/news/2016/12/18/an-explosion-outside-a-military-camp-in-southern-yemen-kills-at-least-49-people-and-injures-many-more-the-explosion-is-believed-to-have-bee.md) _Context: suicide bomber_
 5. [A suicide bomber kills at least 29 people and injures 50 others in an attack on a police station near Mogadishu's port. ](/news/2016/12/11/a-suicide-bomber-kills-at-least-29-people-and-injures-50-others-in-an-attack-on-a-police-station-near-mogadishu-s-port.md) _Context: suicide bomber_
+
+### Changes:
+
+1. [War in Afghanistan:A suicide bomber kills 45 people and injures 50 more at a volleyball game in Paktika province. ](/news/2014/11/23/war-in-afghanistan-pa-suicide-bomber-kills-45-people-and-injures-50-more-at-a-volleyball-game-in-paktika-province.md) _2017-08-25 03:41:14 (First version)_
+2. [War in Afghanistan:: A suicide bomber kills 45 people and injures 50 more at a volleyball game in Paktika province. ](/news/2014/11/23/war-in-afghanistan-a-suicide-bomber-kills-45-people-and-injures-50-more-at-a-volleyball-game-in-paktika-province.md) _2017-08-27 03:41:33 (Update)_
+2. [A suicide bomber kills 45 people and injures 50 more at a volleyball game in Paktika province. ](/news/2014/11/23/a-suicide-bomber-kills-45-people-and-injures-50-more-at-a-volleyball-game-in-paktika-province.md) _(Current version)_

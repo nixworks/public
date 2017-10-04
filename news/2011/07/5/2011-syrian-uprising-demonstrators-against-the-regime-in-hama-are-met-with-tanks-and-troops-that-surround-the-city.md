@@ -23,3 +23,9 @@ At least 16 people reported killed by Syrian forces in city that has become foca
 3. [2011 Syrian uprising: Over a thousand people flee Hama in fear of a government attack by the Syrian Army. ](/news/2011/07/7/2011-syrian-uprising-over-a-thousand-people-flee-hama-in-fear-of-a-government-attack-by-the-syrian-army.md) _Context: 2011 Syrian uprising, Hama_
 4. [2011 Syrian uprising: The Syrian army encircles the city of Hama after one of the largest protests against the regime of Bashar al-Assad. ](/news/2011/07/3/2011-syrian-uprising-the-syrian-army-encircles-the-city-of-hama-after-one-of-the-largest-protests-against-the-regime-of-bashar-al-assad.md) _Context: 2011 Syrian uprising, Hama_
 5. [In the first declared visit to the town since the beginning of the war, President Bashar al-Assad attends the Eid al-Fitr prayer in Hama. ](/news/2017/06/25/in-the-first-declared-visit-to-the-town-since-the-beginning-of-the-war-president-bashar-al-assad-attends-the-eid-al-fitr-prayer-in-hama.md) _Context: Hama_
+
+### Changes:
+
+1. [Arab Spring:2011 Syrian uprising:Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/arab-spring-p2011-syrian-uprising-pdemonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md) _2017-08-25 03:33:42 (First version)_
+2. [Arab Spring:: 2011 Syrian uprising:: Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/arab-spring-2011-syrian-uprising-demonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md) _2017-08-27 03:33:49 (Update)_
+2. [2011 Syrian uprising:Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/2011-syrian-uprising-demonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md) _(Current version)_

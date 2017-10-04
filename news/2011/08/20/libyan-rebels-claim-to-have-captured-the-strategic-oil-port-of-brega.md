@@ -18,3 +18,8 @@ Fighting erupted in Tripoli overnight after rebels closed in on the Libyan capit
 3. [Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md) _Context: Brega, Libyan Civil War_
 4. [2011 Libyan civil war: Rebels are forced from the town of Brega by troops loyal to Muammar Gaddafi but later claim to have recaptured it. ](/news/2011/03/13/2011-libyan-civil-war-rebels-are-forced-from-the-town-of-brega-by-troops-loyal-to-muammar-gaddafi-but-later-claim-to-have-recaptured-it.md) _Context: Brega, Libyan Civil War_
 5. [Forces loyal to Libyan general and former US citizen Khalifa Haftar, commander of the elected Council of Deputies military, seize control of the ports of Sidra, Ra's Lanuf, Brega and Zuwetina. ](/news/2016/09/11/forces-loyal-to-libyan-general-and-former-us-citizen-khalifa-haftar-commander-of-the-elected-council-of-deputies-military-seize-control-of.md) _Context: Brega_
+
+### Changes:
+
+1. [2011 Libyan civil war: Libyan rebels claim to have captured the strategic oil port of Brega. ](/news/2011/08/20/2011-libyan-civil-war-libyan-rebels-claim-to-have-captured-the-strategic-oil-port-of-brega.md) _2017-08-27 03:34:09 (First version)_
+1. [Libyan rebels claim to have captured the strategic oil port of Brega. ](/news/2011/08/20/libyan-rebels-claim-to-have-captured-the-strategic-oil-port-of-brega.md) _(Current version)_

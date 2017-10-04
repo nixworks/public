@@ -17,3 +17,8 @@
 3. [Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also-being-charged-with-invol.md) _Context: November 2015 Paris Attacks_
 4. [Six people are arrested in Belgium including:Mohamed Abrini, wanted in connection with the 2015 Paris attacks, is arrested in Belgium. ](/news/2016/04/8/six-people-are-arrested-in-belgium-including-mohamed-abrini-wanted-in-connection-with-the-2015-paris-attacks-is-arrested-in-belgium.md) _Context: November 2015 Paris Attacks_
 5. [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md) _Context: November 2015 Paris Attacks_
+
+### Changes:
+
+1. [ The French newspaper ''Le Monde'' claims that the November 13, 2015 Paris attacks were coordinated from Belgium by a single unidentified suspect. ](/news/2015/12/29/the-french-newspaper-le-monde-claims-that-the-november-13-2015-paris-attacks-were-coordinated-from-belgium-by-a-single-unidentified-su.md) _2017-08-25 03:44:11 (First version)_
+1. [ The French newspaper "Le Monde" claims that the November 13, 2015 Paris attacks were coordinated from Belgium by a single unidentified suspect. ](/news/2015/12/29/the-french-newspaper-le-monde-claims-that-the-november-13-2015-paris-attacks-were-coordinated-from-belgium-by-a-single-unidentified-susp.md) _(Current version)_

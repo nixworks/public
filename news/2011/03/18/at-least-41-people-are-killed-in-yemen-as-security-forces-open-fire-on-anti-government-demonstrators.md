@@ -26,3 +26,8 @@ Yemen&#39;s president has declared a state of emergency after at least 25 protes
 3. [2011 Yemeni uprising:Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/2011-yemeni-uprising-two-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility-in-sana-a-yem.md) _Context: Arab Spring, Yemen_
 4. [2011 Yemeni protests: Protests continue in Yemen. ](/news/2011/05/6/2011-yemeni-protests-protests-continue-in-yemen.md) _Context: 2011 Yemeni protests, Yemen_
 5. [Fresh clashes take place in Yemen between police and opposition tribesmen who have taken control of several government buildings in the capital Sana'a. ](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.md) _Context: 2011 Yemeni protests, Yemen_
+
+### Changes:
+
+1. [Arab Spring: At least 41 people are killed in Yemen as security forces open fire on anti-government demonstrators. ](/news/2011/03/18/arab-spring-at-least-41-people-are-killed-in-yemen-as-security-forces-open-fire-on-anti-government-demonstrators.md) _2017-08-27 03:32:42 (First version)_
+1. [At least 41 people are killed in Yemen as security forces open fire on anti-government demonstrators. ](/news/2011/03/18/at-least-41-people-are-killed-in-yemen-as-security-forces-open-fire-on-anti-government-demonstrators.md) _(Current version)_

@@ -16,3 +16,9 @@
 3. [The Syrian Army launches an offensive against Hama and continue the bombardment of Homs. ](/news/2012/02/15/the-syrian-army-launches-an-offensive-against-hama-and-continue-the-bombardment-of-homs.md) _Context: Hama, Homs_
 4. [2011-2012 Syrian uprising:Activists say the Syrian Army has launched new attacks against Homs and Hama, as the United Nations Security Council prepares to discuss the conflict. ](/news/2012/01/27/2011a2012-syrian-uprising-activists-say-the-syrian-army-has-launched-new-attacks-against-homs-and-hama-as-the-united-nations-security-cou.md) _Context: Hama, Homs_
 5. [Opposition activists claim that at least 38 people, including six children, have been killed by security forces across Syria: 16 in the city of Homs, 10 in Idlib, six in Hama, three in the suburbs of Damascus and three in Daraa. ](/news/2011/11/10/opposition-activists-claim-that-at-least-38-people-including-six-children-have-been-killed-by-security-forces-across-syria-16-in-the-city.md) _Context: Hama, Homs_
+
+### Changes:
+
+1. [Syria:Over 100 civilians are killed by the Syrian army, primarily in the artillery shelling of the cities of Homs and Hama. ](/news/2012/02/25/syria-pover-100-civilians-are-killed-by-the-syrian-army-primarily-in-the-artillery-shelling-of-the-cities-of-homs-and-hama.md) _2017-08-25 03:35:08 (First version)_
+2. [Syria:: Over 100 civilians are killed by the Syrian army, primarily in the artillery shelling of the cities of Homs and Hama. ](/news/2012/02/25/syria-over-100-civilians-are-killed-by-the-syrian-army-primarily-in-the-artillery-shelling-of-the-cities-of-homs-and-hama.md) _2017-08-27 03:35:17 (Update)_
+2. [Over 100 civilians are killed by the Syrian army, primarily in the artillery shelling of the cities of Homs and Hama. ](/news/2012/02/25/over-100-civilians-are-killed-by-the-syrian-army-primarily-in-the-artillery-shelling-of-the-cities-of-homs-and-hama.md) _(Current version)_

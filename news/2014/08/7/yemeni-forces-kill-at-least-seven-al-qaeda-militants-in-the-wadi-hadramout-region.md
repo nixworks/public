@@ -17,3 +17,9 @@ Yemeni security forces killed seven suspected al Qaeda militants on Thursday whe
 3. [A drone strike kills four suspected Al-Qaeda militants in northern Yemen. ](/news/2015/09/12/a-drone-strike-kills-four-suspected-al-qaeda-militants-in-northern-yemen.md) _Context: Yemen, al-Qaeda_
 4. [Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md) _Context: Yemen, al-Qaeda_
 5. [Fighters from the Al-Qaeda affiliated Ansar al-Sharia take control of an army base in southern Yemen. ](/news/2015/02/12/fighters-from-the-al-qaeda-affiliated-ansar-al-sharia-take-control-of-an-army-base-in-southern-yemen.md) _Context: Yemen, al-Qaeda_
+
+### Changes:
+
+1. [Al-Qaeda insurgency in Yemen:Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/al-qaeda-insurgency-in-yemen-pyemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md) _2017-08-25 03:40:49 (First version)_
+2. [Al-Qaeda insurgency in Yemen:: Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/al-qaeda-insurgency-in-yemen-yemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md) _2017-08-27 03:41:07 (Update)_
+2. [Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/yemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md) _(Current version)_

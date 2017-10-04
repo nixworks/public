@@ -55,7 +55,7 @@ _Context: Canada Post, Gaza, Israel Post_
 _Context: Mahmoud Ahmadinejad, President, United Nations Security Council, nuclear reactor, uranium, uranium enrichment_
 
 ### [Hillary Clinton, the United States Secretary of State, states that the United States "categorically disagrees" with the decision of the Scottish Government to release on compassionate grounds Abdelbaset al-Megrahi, the man convicted of bombing Pan Am Flight 103. ](/news/2010/08/20/hillary-clinton-the-united-states-secretary-of-state-states-that-the-united-states-categorically-disagrees-with-the-decision-of-the-scot.md)
-_Context: Abdelbaset al-Megrahi, Americans, Hillary Clinton, Lockerbie bombing, Scottish Government, United States Secretary of State_
+_Context: Abdelbaset al-Megrahi, Americans, Hillary Clinton, Lockerbie bombing, Scottish Government, Secretary of State_
 
 ### [6 police officers in Mexico are arrested and accused of participating in the kidnap and murder of Mayor Edelmiro Cavazos. ](/news/2010/08/20/6-police-officers-in-mexico-are-arrested-and-accused-of-participating-in-the-kidnap-and-murder-of-mayor-edelmiro-cavazos.md)
 Prosecutors have arrested six police officers they say participated in the kidnap and murder of a mayor as part of a drug war.

@@ -18,3 +18,8 @@ The German, French and Spanish leaders visit the site in the French Alps where a
 3. [Seven mountain climbers die in an avalanche in the French Alps near the town of Pelvoux. ](/news/2015/09/15/seven-mountain-climbers-die-in-an-avalanche-in-the-french-alps-near-the-town-of-pelvoux.md) _Context: French Alps_
 4. [A French investigation finds that Andreas Lubitz, perpetrator copilot of the murder-suicide disaster of Germanwings Flight 9525 had practised rapid descent on a previous flight. ](/news/2015/05/6/a-french-investigation-finds-that-andreas-lubitz-perpetrator-copilot-of-the-murder-suicide-disaster-of-germanwings-flight-9525-had-practise.md) _Context: Germanwings Flight 9525_
 5. [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md) _Context: Germanwings Flight 9525_
+
+### Changes:
+
+1. [Germanwings Flight 9525: A search and recovery operation resumes for the remains of the Germanwings flight that crashed into the French Alps on March 24. ](/news/2015/03/25/germanwings-flight-9525-a-search-and-recovery-operation-resumes-for-the-remains-of-the-germanwings-flight-that-crashed-into-the-french-alps.md) _2017-08-27 03:42:08 (First version)_
+1. [A search and recovery operation resumes for the remains of the Germanwings flight that crashed into the French Alps on March 24. ](/news/2015/03/25/a-search-and-recovery-operation-resumes-for-the-remains-of-the-germanwings-flight-that-crashed-into-the-french-alps-on-march-24.md) _(Current version)_

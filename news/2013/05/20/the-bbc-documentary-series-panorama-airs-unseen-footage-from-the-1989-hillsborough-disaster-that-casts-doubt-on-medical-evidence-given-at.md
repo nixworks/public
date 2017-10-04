@@ -17,3 +17,8 @@ Crucial evidence from the 1989 Hillsborough football disaster, which was undermi
 3. [The BBC apologises to clothing retailer Primark for a "Panorama" documentary showing boys in a Bangalore clothing workshop. ](/news/2011/06/16/the-bbc-apologises-to-clothing-retailer-primark-for-a-panorama-documentary-showing-boys-in-a-bangalore-clothing-workshop.md) _Context: BBC, Panorama_
 4. [The BBC plans to launch a service in Korean. ](/news/2017/09/25/the-bbc-plans-to-launch-a-service-in-korean.md) _Context: BBC_
 5. [Jodie Whittaker has been announced to be replacing Peter Capaldi as the thirteenth incarnation of The Doctor, becoming the first woman to take the lead role of the BBC's long-running science fiction television series, "Doctor Who". ](/news/2017/07/16/jodie-whittaker-has-been-announced-to-be-replacing-peter-capaldi-as-the-thirteenth-incarnation-of-the-doctor-becoming-the-first-woman-to-ta.md) _Context: BBC_
+
+### Changes:
+
+1. [The BBC documentary series ''Panorama'' airs unseen footage from the 1989 Hillsborough disaster that casts doubt on medical evidence given at the inquest. ](/news/2013/05/20/the-bbc-documentary-series-panorama-airs-unseen-footage-from-the-1989-hillsborough-disaster-that-casts-doubt-on-medical-evidence-given-a.md) _2017-08-25 03:38:41 (First version)_
+1. [The BBC documentary series "Panorama" airs unseen footage from the 1989 Hillsborough disaster that casts doubt on medical evidence given at the inquest. ](/news/2013/05/20/the-bbc-documentary-series-panorama-airs-unseen-footage-from-the-1989-hillsborough-disaster-that-casts-doubt-on-medical-evidence-given-at.md) _(Current version)_

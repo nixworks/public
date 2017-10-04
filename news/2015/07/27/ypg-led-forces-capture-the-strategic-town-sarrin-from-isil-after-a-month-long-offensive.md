@@ -17,3 +17,8 @@ The Kurdish YPG militia on Monday captured a town from Islamic State fighters in
 3. [The ISIL-affiliated Syrian opposition group Jaysh Khaled bin Waleed overwhelms Tahrir al-Sham and Southern Front militants, capturing the towns of Tasil and Saham al-Jawlan, along with two other villages and a hill in Daraa Governorate. ](/news/2017/02/20/the-isil-affiliated-syrian-opposition-group-jaysh-khaled-bin-waleed-overwhelms-tahrir-al-sham-and-southern-front-militants-capturing-the-to.md) _Context: ISIL, Syrian Civil War_
 4. [Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third-of-rebel-controlled-eastern-aleppo.md) _Context: Syrian Civil War, YPG_
 5. [Turkey sends more tanks into northern Syria to continue its offensive against Islamic State of Iraq and the Levant and Kurdish People's Protection Units (YPG). ](/news/2016/08/25/turkey-sends-more-tanks-into-northern-syria-to-continue-its-offensive-against-islamic-state-of-iraq-and-the-levant-and-kurdish-people-s-prot.md) _Context: Syrian Civil War, YPG_
+
+### Changes:
+
+1. [ Syrian Civil War: Battle of Sarrin (June-July 2015): YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/syrian-civil-war-battle-of-sarrin-june-july-2015-ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offens.md) _2017-08-27 03:42:45 (First version)_
+1. [ YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offensive.md) _(Current version)_

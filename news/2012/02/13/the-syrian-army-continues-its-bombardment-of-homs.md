@@ -19,3 +19,9 @@ The UN human rights chief has ramped up pressure on the Syrian president, accusi
 3. [2011-2012 Syrian uprising:The Syrian Army offensive in Homs continues with further heavy fighting expected over the weekend. ](/news/2012/02/10/2011-2012-syrian-uprising-the-syrian-army-offensive-in-homs-continues-with-further-heavy-fighting-expected-over-the-weekend.md) _Context: Homs, Syrian Army, bombardment_
 4. [A suicide bomb attack on a Syrian Army (SAA) checkpoint in the city of Homs kills at least 22 people, including around a dozen soldiers. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/01/26/a-suicide-bomb-attack-on-a-syrian-army-saa-checkpoint-in-the-city-of-homs-kills-at-least-22-people-including-around-a-dozen-soldiers-the.md) _Context: Homs, Syrian Army_
 5. [The Syrian opposition calls for immediate humanitarian aid to Homs after the Syrian army and Hezbollah step up their siege of the city with increased artillery shelling and incendiary bombs. ](/news/2013/07/5/the-syrian-opposition-calls-for-immediate-humanitarian-aid-to-homs-after-the-syrian-army-and-hezbollah-step-up-their-siege-of-the-city-with.md) _Context: Homs, Syrian Army_
+
+### Changes:
+
+1. [Syria:The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/syria-pthe-syrian-army-continues-its-bombardment-of-homs.md) _2017-08-25 03:35:02 (First version)_
+2. [Syria:: The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/syria-the-syrian-army-continues-its-bombardment-of-homs.md) _2017-08-27 03:35:12 (Update)_
+2. [The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/the-syrian-army-continues-its-bombardment-of-homs.md) _(Current version)_

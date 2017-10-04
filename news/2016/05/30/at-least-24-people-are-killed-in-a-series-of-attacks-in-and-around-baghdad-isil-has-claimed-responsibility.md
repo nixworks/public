@@ -20,3 +20,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 3. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
 4. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
 5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
+
+### Changes:
+
+1. [ Iraqi civil war (2014-present): At least 24 people are killed in a series of attacks in and around Baghdad. ISIL has claimed responsibility. ](/news/2016/05/30/iraqi-civil-war-2014-present-at-least-24-people-are-killed-in-a-series-of-attacks-in-and-around-baghdad-isil-has-claimed-responsibili.md) _2017-08-27 03:46:09 (First version)_
+1. [ At least 24 people are killed in a series of attacks in and around Baghdad. ISIL has claimed responsibility. ](/news/2016/05/30/at-least-24-people-are-killed-in-a-series-of-attacks-in-and-around-baghdad-isil-has-claimed-responsibility.md) _(Current version)_

@@ -19,3 +19,8 @@ Eight people were killed and nearly 20 wounded on Monday in two separate car bom
 3. [According to security sources, dozens of people are killed in an overnight attack in Tikrit by suspected ISIL militants. 31 bodies were taken to a hospital, according to a local doctor, while more continued to be found by morning. ](/news/2017/04/5/according-to-security-sources-dozens-of-people-are-killed-in-an-overnight-attack-in-tikrit-by-suspected-isil-militants-31-bodies-were-take.md) _Context: Iraqi Civil War (2014-present)_
 4. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: Iraqi Civil War (2014-present)_
 5. [At least 21 people are killed after two suicide bombers attack a wedding party near Tikrit. ](/news/2017/03/8/at-least-21-people-are-killed-after-two-suicide-bombers-attack-a-wedding-party-near-tikrit.md) _Context: Iraqi Civil War (2014-present)_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): A suicide bomber kills six people near Karbala. ](/news/2016/11/14/iraqi-civil-war-2014-present-a-suicide-bomber-kills-six-people-near-karbala.md) _2017-08-27 03:47:14 (First version)_
+1. [A suicide bomber kills six people near Karbala. ](/news/2016/11/14/a-suicide-bomber-kills-six-people-near-karbala.md) _(Current version)_

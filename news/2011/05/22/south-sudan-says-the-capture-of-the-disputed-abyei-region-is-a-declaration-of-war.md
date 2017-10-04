@@ -18,3 +18,9 @@ The United Nations Security Council called on the north Sudanese army to withdra
 3. [Sudan and South Sudan sign a pact to demilitarise the disputed Abyei region and to permit the presence of Ethiopian peacekeeping forces. ](/news/2011/06/20/sudan-and-south-sudan-sign-a-pact-to-demilitarise-the-disputed-abyei-region-and-to-permit-the-presence-of-ethiopian-peacekeeping-forces.md) _Context: Abyei, South Sudan_
 4. [Almost 100 civilians are killed in the disputed Abyei region between North and South Sudan since northern troops seized the area on 21 May. ](/news/2011/06/2/almost-100-civilians-are-killed-in-the-disputed-abyei-region-between-north-and-south-sudan-since-northern-troops-seized-the-area-on-21-may.md) _Context: Abyei, South Sudan_
 5. [North and South Sudan agree to demilitarise the disputed Abyei region. ](/news/2011/06/13/north-and-south-sudan-agree-to-demilitarise-the-disputed-abyei-region.md) _Context: Abyei, South Sudan_
+
+### Changes:
+
+1. [Sudanese seizure of Abyei:South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/sudanese-seizure-of-abyei-psouth-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md) _2017-08-25 03:33:13 (First version)_
+2. [Sudanese seizure of Abyei:: South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/sudanese-seizure-of-abyei-south-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md) _2017-08-27 03:33:22 (Update)_
+2. [South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/south-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md) _(Current version)_

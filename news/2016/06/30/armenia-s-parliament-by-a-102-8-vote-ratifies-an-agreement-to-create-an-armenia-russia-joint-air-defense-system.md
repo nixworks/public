@@ -18,3 +18,8 @@
 3. [The Eurasian Economic Union between Russia, Kazakhstan, Belarus, Kyrgyzstan and Armenia comes into effect ](/news/2015/01/1/the-eurasian-economic-union-between-russia-kazakhstan-belarus-kyrgyzstan-and-armenia-comes-into-effect.md) _Context: Armenia, Russia_
 4. [Georgia annuls a military transit treaty with Russia, which allowed the latter access to its military base in Armenia.](/news/2011/04/19/georgia-annuls-a-military-transit-treaty-with-russia-which-allowed-the-latter-access-to-its-military-base-in-armenia.md) _Context: Armenia, Russia_
 5. [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md) _Context: Air Defense, Russia_
+
+### Changes:
+
+1. [Armenia-Russia relations: Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-russia-relations-armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-syste.md) _2017-08-27 03:46:23 (First version)_
+1. [Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.md) _(Current version)_

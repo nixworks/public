@@ -17,3 +17,8 @@ A suicide bomber kills eight Kurdish police in the northern Iraqi town of Tuz Kh
 3. [Two suicide bombings at a swimming pool in northern Iraq kill at least 12 people. ](/news/2015/07/25/two-suicide-bombings-at-a-swimming-pool-in-northern-iraq-kill-at-least-12-people.md) _Context: Iraq, suicide bombing_
 4. [Iraqi security forces find the bodies of 53 men shot recently in Hamza south of Baghdad. ](/news/2014/07/9/iraqi-security-forces-find-the-bodies-of-53-men-shot-recently-in-hamza-south-of-baghdad.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 5. [A suicide truck bomber detonates his vehicle at the gate of a Patriotic Union of Kurdistan office in Tuz Khormato, Iraq, a second truck bomb detonated as people were gathering around the first one. Over 15 are killed and at least 110 injured. ](/news/2014/06/9/a-suicide-truck-bomber-detonates-his-vehicle-at-the-gate-of-a-patriotic-union-of-kurdistan-office-in-tuz-khormato-iraq-a-second-truck-bomb.md) _Context: Iraq, Tuz Khormato_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal): A suicide bombing in the Iraqi town of Tuz Khormato kills at least eight policemen. ](/news/2013/07/28/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-in-the-iraqi-town-of-tuz-khormato-kills-at-least-eight-policemen.md) _2017-08-27 03:39:19 (First version)_
+1. [A suicide bombing in the Iraqi town of Tuz Khormato kills at least eight policemen. ](/news/2013/07/28/a-suicide-bombing-in-the-iraqi-town-of-tuz-khormato-kills-at-least-eight-policemen.md) _(Current version)_

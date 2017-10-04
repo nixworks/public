@@ -18,3 +18,8 @@ Somali security forces retake control of a popular beachside restaurant in the c
 3. [A suicide bomber attacks a military training camp in Mogadishu, killing at least nine soldiers. Al-Shabaab claimed responsibility for the attack. ](/news/2017/04/10/a-suicide-bomber-attacks-a-military-training-camp-in-mogadishu-killing-at-least-nine-soldiers-al-shabaab-claimed-responsibility-for-the-at.md) _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
 4. [Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrorist-group-al-shabaab-claims-respon.md) _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
 5. [A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md) _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
+
+### Changes:
+
+1. [War in Somalia (2009-present): Al-Shabaab militants attack the Lido or beach area in Mogadishu. At least 20 people are reportedly killed. ](/news/2016/01/21/war-in-somalia-2009-present-al-shabaab-militants-attack-the-lido-or-beach-area-in-mogadishu-at-least-20-people-are-reportedly-killed.md) _2017-08-27 03:44:44 (First version)_
+1. [Al-Shabaab militants attack the Lido or beach area in Mogadishu. At least 20 people are reportedly killed. ](/news/2016/01/21/al-shabaab-militants-attack-the-lido-or-beach-area-in-mogadishu-at-least-20-people-are-reportedly-killed.md) _(Current version)_

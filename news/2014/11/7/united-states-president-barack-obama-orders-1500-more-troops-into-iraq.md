@@ -16,3 +16,8 @@
 3. [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md) _Context: Americans, Barack Obama, Iraq_
 4. [President of the United States Barack Obama delivers a televised Oval Office address to the United States commemorating the end of United States armed forces being directly involved in fighting in Iraq. ](/news/2010/08/31/president-of-the-united-states-barack-obama-delivers-a-televised-oval-office-address-to-the-united-states-commemorating-the-end-of-united-st.md) _Context: Americans, Barack Obama, Iraq_
 5. [ United States President Barack Obama will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/26/united-states-president-barack-obama-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md) _Context: Americans, Barack Obama, Iraq_
+
+### Changes:
+
+1. [2014 military intervention against ISIS: United States President Barack Obama orders 1500 more troops into Iraq. ](/news/2014/11/7/2014-military-intervention-against-isis-united-states-president-barack-obama-orders-1500-more-troops-into-iraq.md) _2017-08-27 03:41:29 (First version)_
+1. [United States President Barack Obama orders 1500 more troops into Iraq. ](/news/2014/11/7/united-states-president-barack-obama-orders-1500-more-troops-into-iraq.md) _(Current version)_

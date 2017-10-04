@@ -16,3 +16,9 @@
 3. [Somali pirates seize an Indonesian chemical tanker with 24 crew in the Gulf of Aden and a British cargo ship with 26 cars 620 miles off the Horn of Africa. ](/news/2010/01/2/somali-pirates-seize-an-indonesian-chemical-tanker-with-24-crew-in-the-gulf-of-aden-and-a-british-cargo-ship-with-26-cars-620-miles-off-the.md) _Context: Horn of Africa, Somali pirates_
 4. [ Somali pirates seize UK and Panamanian-flagged ships with international crews on board in the Gulf of Aden. ](/news/2009/12/29/somali-pirates-seize-uk-and-panamanian-flagged-ships-with-international-crews-on-board-in-the-gulf-of-aden.md) _Context: Panama, Somali pirates_
 5. [At least 56 African migrants drown in the Red Sea while traveling from the Horn of Africa to Yemen. Human traffickers had forced 300 people aboard two boats into the sea. ](/news/2017/08/11/at-least-56-african-migrants-drown-in-the-red-sea-while-traveling-from-the-horn-of-africa-to-yemen-human-traffickers-had-forced-300-people.md) _Context: Horn of Africa_
+
+### Changes:
+
+1. [Somali pirates seize a Panamanian-flagged chemical tanker almost {{convert|900|nmi|km|abbr=on}} from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-convert-900-nmi-km-abbr-on-from-the-horn-of-africa.md) _2017-05-01 03:32:56 (First version)_
+2. [Somali pirates seize a Panamanian-flagged chemical tanker almost 900|nmi|km|abbr=on from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-900-nmi-km-abbr-on-from-the-horn-of-africa.md) _2017-08-29 03:31:07 (Update)_
+2. [Somali pirates seize a Panamanian-flagged chemical tanker almost 900 nmi from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-900-nmi-from-the-horn-of-africa.md) _(Current version)_

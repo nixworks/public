@@ -19,10 +19,10 @@ _Context: Ringling Bros. and Barnum & Bailey Circus, elephant_
 _Context: Edward Cardinal Egan, New York City_
 
 ### [American pharmaceutical company AbbVie Inc buys leukemia drugmaker Pharmacyclics Inc for $21 billion. ](/news/2015/03/5/american-pharmaceutical-company-abbvie-inc-buys-leukemia-drugmaker-pharmacyclics-inc-for-21-billion.md)
-_Context: AbbVie, US$, leukemia_
+_Context: $, AbbVie, leukemia_
 
 ### [A New York state appellate court in Manhattan rules to approve in its entirety the 2011 settlement by Bank of America with 22 institutional investors including BlackRock Inc, MetLife Inc, and Allianz SE's Pacific Investment Management Co to resolve claims over $174 billion of mortgage securities issued by the former Countrywide Financial Corp. in a $8.5 billion settlement. ](/news/2015/03/5/a-new-york-state-appellate-court-in-manhattan-rules-to-approve-in-its-entirety-the-2011-settlement-by-bank-of-america-with-22-institutional.md)
-_Context: Allianz, Bank of America, BlackRock, Countrywide Financial Corp., Manhattan, MetLife, New York State, US$, state appellate court_
+_Context: $, Allianz, Bank of America, BlackRock, Countrywide Financial Corp., Manhattan, MetLife, New York State, state appellate court_
 
 ### [Dublin-based generic drugmaker, specialty drug supplier, and medical imaging agent producer Mallinckrodt Plc increases its presence in U.S. hospitals by buying privately held Ikaria Inc, a maker of a respiratory drug and its delivery system, for $2.3 billion from a group of investors led by private equity firm Madison Dearborn Partners LLC. The deal includes INOmax, which is the only approved product to treat hypoxic respiratory failure in infants through nitric oxide. ](/news/2015/03/5/dublin-based-generic-drugmaker-specialty-drug-supplier-and-medical-imaging-agent-producer-mallinckrodt-plc-increases-its-presence-in-u-s.md)
 Dublin-based drugmaker Mallinckrodt Plc strengthened its presence in U.S. hospitals as it agreed to buy privately held Ikaria Inc, a maker of a respiratory drug and its delivery system, for $2.3 billion.

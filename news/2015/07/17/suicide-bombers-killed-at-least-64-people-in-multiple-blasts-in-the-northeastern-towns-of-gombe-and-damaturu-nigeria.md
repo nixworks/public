@@ -20,3 +20,8 @@ Suicide bombers have killed at least 59 people in multiple blasts in the northea
 3. [Twin blasts at a market in Gombe, Nigeria kill at least 49 people. ](/news/2015/07/16/twin-blasts-at-a-market-in-gombe-nigeria-kill-at-least-49-people.md) _Context: Boko Haram, Gombe, Timeline of Boko Haram insurgency_
 4. [Suspected Boko Haram Islamist militants launch simultaneous gun and bomb attacks in the northern Nigerian city of Gombe. ](/news/2012/02/24/suspected-boko-haram-islamist-militants-launch-simultaneous-gun-and-bomb-attacks-in-the-northern-nigerian-city-of-gombe.md) _Context: Boko Haram, Gombe, Nigeria_
 5. [The Islamist terrorist group Boko Haram claims responsibility for a series of bomb and gun attacks in the north-eastern Nigerian town of Damaturu that have killed at least 63 people. ](/news/2011/11/5/the-islamist-terrorist-group-boko-haram-claims-responsibility-for-a-series-of-bomb-and-gun-attacks-in-the-north-eastern-nigerian-town-of-dam.md) _Context: Boko Haram, Damaturu, Nigeria_
+
+### Changes:
+
+1. [Boko Haram: Timeline of Boko Haram insurgency: Suicide bombers killed at least 64 people in multiple blasts in the northeastern towns of Gombe and Damaturu, Nigeria. ](/news/2015/07/17/boko-haram-timeline-of-boko-haram-insurgency-suicide-bombers-killed-at-least-64-people-in-multiple-blasts-in-the-northeastern-towns-of-gom.md) _2017-08-27 03:42:43 (First version)_
+1. [Suicide bombers killed at least 64 people in multiple blasts in the northeastern towns of Gombe and Damaturu, Nigeria. ](/news/2015/07/17/suicide-bombers-killed-at-least-64-people-in-multiple-blasts-in-the-northeastern-towns-of-gombe-and-damaturu-nigeria.md) _(Current version)_

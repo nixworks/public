@@ -22,7 +22,7 @@ _Context: 2008 Pacific hurricane season, Leon, Nicaragua, tropical storm_
 _Context: Iceland, Richter scale, Selfoss, strong earthquake_
 
 ### [ The World Bank announces a US$1.2 billion package to fight the global food crisis including $200 million in grants for those most at risk in Third World countries. ](/news/2008/05/29/the-world-bank-announces-a-us-1-2-billion-package-to-fight-the-global-food-crisis-including-200-million-in-grants-for-those-most-at-risk-i.md)
-_Context: Global food price crisis, Third World, US$, World Bank, grant_
+_Context: $, Global food price crisis, Third World, World Bank, grant_
 
 ### [ Track and field coach Trevor Graham is convicted of lying to investigators of links to a steroids dealer in the Bay Area Laboratory Co-operative investigation. ](/news/2008/05/29/track-and-field-coach-trevor-graham-is-convicted-of-lying-to-investigators-of-links-to-a-steroids-dealer-in-the-bay-area-laboratory-co-oper.md)
 _Context: Bay Area Laboratory Co-operative, Trevor Graham, steroids, track and field_

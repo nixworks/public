@@ -7,13 +7,13 @@ The case arose arose from a conference call that Representative Jim McDermott, D
 The president rejects legislation to pull U.S. troops out of Iraq, calling it &quot;a prescription for chaos.&quot; 
 
 ### [ Rupert Murdoch, the CEO of News Corporation, announces a $5 billion offer to take over Dow Jones, the publisher of the "Wall Street Journal". ](/news/2007/05/1/rupert-murdoch-the-ceo-of-news-corporation-announces-a-5-billion-offer-to-take-over-dow-jones-the-publisher-of-the-wall-street-journal.md)
-_Context: CEO, Dow Jones, News Corporation, Rupert Murdoch, US$, Wall Street Journal_
+_Context: $, CEO, Dow Jones, News Corporation, Rupert Murdoch, Wall Street Journal_
 
 ### [ Turkish presidential election, 2007: The Constitutional Court of Turkey annuls last Friday's presidential vote in the Grand National Assembly after a challenge by opposition parties. ](/news/2007/05/1/turkish-presidential-election-2007-the-constitutional-court-of-turkey-annuls-last-friday-s-presidential-vote-in-the-grand-national-assemb.md)
 _Context: Constitutional Court of Turkey, July elections, Turkish Parliament_
 
 ### [ At least three people die after an explosion in an apartment building in Palencia, Spain. ](/news/2007/05/1/at-least-three-people-die-after-an-explosion-in-an-apartment-building-in-palencia-spain.md)
-_Context: Palencia, Spain, apartment_
+_Context: Palencia, Spanish, apartment_
 
 ### [ Police arrest 30 alleged animal rights extremists in raids in the United Kingdom, Belgium and the Netherlands. ](/news/2007/05/1/police-arrest-30-alleged-animal-rights-extremists-in-raids-in-the-united-kingdom-belgium-and-the-netherlands.md)
 _Context: Belgium, Dutch, United Kingdom, animal rights, police_

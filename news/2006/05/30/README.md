@@ -7,7 +7,7 @@ _Context: Democratic Progressive Party, Taiwan, Taiwan, Three Links, coalition a
 _Context: GBP, Germany, United Kingdom, Vodafone Group Plc, mobile phone_
 
 ### [ The board of the Engelhard Corporation agreed to a takeover by BASF. BASF will become the world's largest manufacturer of catalytic converters. BASF will pay USD 5.0 billion for Engelhard, which translates to $39 per share. ](/news/2006/05/30/the-board-of-the-engelhard-corporation-agreed-to-a-takeover-by-basf-basf-will-become-the-world-s-largest-manufacturer-of-catalytic-convert.md)
-_Context: BASF, Engelhard, US$, catalytic converter_
+_Context: $, BASF, Engelhard, catalytic converter_
 
 ### [ Seven United Nations peacekeepers are taken hostage by the Nationalist and Integrationist Front militia of Ituri Province, Democratic Republic of the Congo. ](/news/2006/05/30/seven-united-nations-peacekeepers-are-taken-hostage-by-the-nationalist-and-integrationist-front-militia-of-ituri-province-democratic-repub.md)
 _Context: Democratic Republic of the Congo, Ituri, Nationalist and Integrationist Front, United Nations, peacekeepers_

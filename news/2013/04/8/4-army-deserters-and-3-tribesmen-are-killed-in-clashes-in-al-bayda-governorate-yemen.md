@@ -17,3 +17,9 @@ Seven people were killed in clashes between army deserters and tribesmen in sout
 3. [A US drone strike kills five Al Qaeda in the Arabian Peninsula operatives including Shawki al-Badani and Nabil al-Dahab, leader of Ansar al-Sharia in Yemen's Al Bayda Governorate. ](/news/2014/11/5/a-us-drone-strike-kills-five-al-qaeda-in-the-arabian-peninsula-operatives-including-shawki-al-badani-and-nabil-al-dahab-leader-of-ansar-al.md) _Context: Al Bayda Governorate, Yemen_
 4. [Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-governorate.md) _Context: Al Bayda Governorate, Yemen_
 5. [An air strike intended to target an al Qaeda convoy in Al-Bayda province in central Yemen mistakenly attacks a wedding procession, killing 15 civilians. ](/news/2013/12/12/an-air-strike-intended-to-target-an-al-qaeda-convoy-in-al-bayda-province-in-central-yemen-mistakenly-attacks-a-wedding-procession-killing-1.md) _Context: Al Bayda Governorate, Yemen_
+
+### Changes:
+
+1. [South Yemen insurgency:4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/south-yemen-insurgency-p4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md) _2017-08-25 03:38:14 (First version)_
+2. [South Yemen insurgency:: 4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/south-yemen-insurgency-4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md) _2017-08-27 03:38:26 (Update)_
+2. [4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md) _(Current version)_

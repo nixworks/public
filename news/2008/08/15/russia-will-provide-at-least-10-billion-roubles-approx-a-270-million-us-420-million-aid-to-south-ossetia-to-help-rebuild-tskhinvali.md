@@ -28,3 +28,9 @@ The conflict may be over, but not the war of words. Moscow claims some Western n
 19. [The Times](http://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article4525885.ece)
 20. [USA Today](http://www.usatoday.com/news/world/2008-08-15-bush-georgia_N.htm)
 20. [Cover Image](https://i.ytimg.com/vi/KEijEa8KZ0w/hqdefault.jpg)
+
+### Changes:
+
+1. [ 2008 South Ossetia war: Russia will provide 'at least' 10 billion Roubles (approx. EUR270 million, US$420 million) aid to South Ossetia to help rebuild Tskhinvali 'leveled' during the Georgian 'lasting artillery shelling' of 7th and 8th of August. ](/news/2008/08/15/2008-south-ossetia-war-p-russia-will-provide-at-least-10-billion-roubles-approx-a-270-million-us-420-million-aid-to-south-ossetia-to.md) _2017-08-25 03:22:42 (First version)_
+2. [ 2008 South Ossetia war:: Russia will provide 'at least' 10 billion Roubles (approx. -270 million, US$420 million) aid to South Ossetia to help rebuild Tskhinvali 'leveled' during the Georgian 'lasting artillery shelling' of 7th and 8th of August. ](/news/2008/08/15/2008-south-ossetia-war-russia-will-provide-at-least-10-billion-roubles-approx-270-million-us-420-million-aid-to-south-ossetia-to.md) _2017-08-27 03:22:36 (Update)_
+2. [ Russia will provide 'at least' 10 billion Roubles (approx. EUR270 million, US$420 million) aid to South Ossetia to help rebuild Tskhinvali 'leveled' during the Georgian 'lasting artillery shelling' of 7th and 8th of August. ](/news/2008/08/15/russia-will-provide-at-least-10-billion-roubles-approx-a-270-million-us-420-million-aid-to-south-ossetia-to-help-rebuild-tskhinvali.md) _(Current version)_

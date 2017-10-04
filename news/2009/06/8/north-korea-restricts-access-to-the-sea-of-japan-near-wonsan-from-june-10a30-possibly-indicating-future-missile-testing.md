@@ -16,3 +16,8 @@
 3. [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 mi reaching an altitude of more than 1245 mi before landing in the Sea of Japan, 60 mi south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md) _Context: North Korea, its nuclear weapons program, the sea_
 4. [South Korea claims that North Korea has fired several missiles from the Sohae Satellite Launching Station into the Sea of Japan. ](/news/2017/03/6/south-korea-claims-that-north-korea-has-fired-several-missiles-from-the-sohae-satellite-launching-station-into-the-sea-of-japan.md) _Context: North Korea, its nuclear weapons program, the sea_
 5. [North Korea test fires a ballistic missile over the Sea of Japan. ](/news/2017/02/12/north-korea-test-fires-a-ballistic-missile-over-the-sea-of-japan.md) _Context: North Korea, its nuclear weapons program, the sea_
+
+### Changes:
+
+1. [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10-30-possibly-indicating-future-missile-testing.md) _2017-08-27 03:24:39 (First version)_
+1. [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10a30-possibly-indicating-future-missile-testing.md) _(Current version)_

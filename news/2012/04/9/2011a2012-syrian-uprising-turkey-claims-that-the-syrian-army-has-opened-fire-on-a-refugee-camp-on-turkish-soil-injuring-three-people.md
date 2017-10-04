@@ -22,3 +22,9 @@ Al-Jadeed TV cameraman Ali Shaaban was killed Monday at a border crossing in the
 3. [New refugee camps go up near the Syria-Turkey border after Turkey blocks thousands of refugees from entering the country. ](/news/2016/02/8/new-refugee-camps-go-up-near-the-syriaaturkey-border-after-turkey-blocks-thousands-of-refugees-from-entering-the-country.md) _Context: Turkey, refugee camp_
 4. [Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeast.md) _Context: Turkey, Turkish_
 5. [Turkish jets bomb Kurdish PKK positions in south-east Turkey. ](/news/2014/10/14/turkish-jets-bomb-kurdish-pkk-positions-in-south-east-turkey.md) _Context: Turkey, Turkish_
+
+### Changes:
+
+1. [Arab Spring:2011-2012 Syrian uprising:Turkey claims that the Syrian Army has opened fire on a refugee camp on Turkish soil injuring three people. ](/news/2012/04/9/arab-spring-p2011a2012-syrian-uprising-pturkey-claims-that-the-syrian-army-has-opened-fire-on-a-refugee-camp-on-turkish-soil-injuring-thre.md) _2017-08-25 03:35:27 (First version)_
+2. [Arab Spring:: 2011-2012 Syrian uprising:: Turkey claims that the Syrian Army has opened fire on a refugee camp on Turkish soil injuring three people. ](/news/2012/04/9/arab-spring-2011-2012-syrian-uprising-turkey-claims-that-the-syrian-army-has-opened-fire-on-a-refugee-camp-on-turkish-soil-injuring-th.md) _2017-08-27 03:35:36 (Update)_
+2. [2011-2012 Syrian uprising:Turkey claims that the Syrian Army has opened fire on a refugee camp on Turkish soil injuring three people. ](/news/2012/04/9/2011a2012-syrian-uprising-turkey-claims-that-the-syrian-army-has-opened-fire-on-a-refugee-camp-on-turkish-soil-injuring-three-people.md) _(Current version)_

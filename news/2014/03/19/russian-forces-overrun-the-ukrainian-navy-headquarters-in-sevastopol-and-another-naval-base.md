@@ -19,3 +19,8 @@ By Aleksandar Vasovic and Maria Kiselyova SEVASTOPOL, Ukraine/MOSCOW (Reuters) -
 3. [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md) _Context: 2014 Crimean crisis_
 4. [Armed men &ndash; thought to be Russian &ndash; attempt to seize a Ukrainian military base in Sevastopol, withdrawing soon afterwards. ](/news/2014/03/7/armed-men-ndash-thought-to-be-russian-ndash-attempt-to-seize-a-ukrainian-military-base-in-sevastopol-withdrawing-soon-afterwards.md) _Context: Sevastopol_
 5. [The Chancellor of Germany, Angela Merkel, announces the possibility of further sanctions from the European Union against Russia for the invasion and annexation of Crimea. ](/news/2014/03/20/the-chancellor-of-germany-angela-merkel-announces-the-possibility-of-further-sanctions-from-the-european-union-against-russia-for-the-inva.md) _Context: 2014 Crimean crisis_
+
+### Changes:
+
+1. [2014 Crimean crisis: Russian forces overrun the Ukrainian Navy headquarters in Sevastopol and another naval base. ](/news/2014/03/19/2014-crimean-crisis-russian-forces-overrun-the-ukrainian-navy-headquarters-in-sevastopol-and-another-naval-base.md) _2017-08-27 03:40:29 (First version)_
+1. [Russian forces overrun the Ukrainian Navy headquarters in Sevastopol and another naval base. ](/news/2014/03/19/russian-forces-overrun-the-ukrainian-navy-headquarters-in-sevastopol-and-another-naval-base.md) _(Current version)_

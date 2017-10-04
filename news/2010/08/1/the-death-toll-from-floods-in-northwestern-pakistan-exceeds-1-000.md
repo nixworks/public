@@ -20,3 +20,9 @@ The number of people known to have been killed by floods in north-west Pakistan 
 3. [Pakistan postpones a visit from U.S. acting Assistant Secretary of State Alice Wells, its foreign ministry says, as some protest President Donald Trump's accusations that Pakistan is harbouring terrorists. ](/news/2017/08/27/pakistan-postpones-a-visit-from-u-s-acting-assistant-secretary-of-state-alice-wells-its-foreign-ministry-says-as-some-protest-president-d.md) _Context: Pakistan_
 4. [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md) _Context: Pakistan_
 5. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: Pakistan_
+
+### Changes:
+
+1. [Pakistan floodsThe death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floodspthe-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _2017-08-25 03:29:07 (First version)_
+2. [Pakistan floods: The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floods-the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _2017-08-27 03:29:08 (Update)_
+2. [The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _(Current version)_

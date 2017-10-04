@@ -19,3 +19,8 @@ People in the Chinese city of Tianjin whose homes were damaged by the huge explo
 3. [The State Council of the People's Republic of China orders a thorough investigation of the explosions as the death toll rises to 121. ](/news/2015/08/22/the-state-council-of-the-people-s-republic-of-china-orders-a-thorough-investigation-of-the-explosions-as-the-death-toll-rises-to-121.md) _Context: the explosions last year_
 4. [The death toll from the explosions rises to 112 with 95 people missing including 85 fire fighters. ](/news/2015/08/16/the-death-toll-from-the-explosions-rises-to-112-with-95-people-missing-including-85-fire-fighters.md) _Context: the explosions last year_
 5. [The death toll from the explosions in Tianjin rises to at least 85. In a further update, Chinese state media says that the death toll is at least 104. ](/news/2015/08/15/the-death-toll-from-the-explosions-in-tianjin-rises-to-at-least-85-in-a-further-update-chinese-state-media-says-that-the-death-toll-is-at.md) _Context: the explosions last year_
+
+### Changes:
+
+1. [2015 Tianjin explosions: Protesters in Tianjin demand answers and compensation from the government. ](/news/2015/08/17/2015-tianjin-explosions-protesters-in-tianjin-demand-answers-and-compensation-from-the-government.md) _2017-08-27 03:42:51 (First version)_
+1. [Protesters in Tianjin demand answers and compensation from the government. ](/news/2015/08/17/protesters-in-tianjin-demand-answers-and-compensation-from-the-government.md) _(Current version)_

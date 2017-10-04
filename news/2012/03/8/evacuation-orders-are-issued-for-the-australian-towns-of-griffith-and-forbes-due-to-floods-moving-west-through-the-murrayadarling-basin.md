@@ -16,3 +16,8 @@
 3. [Thousands of people living on the Mid North Coast of the Australian state of New South Wales face a flooding risk, with the town of Kempsey under particular threat and with ten thousand people isolated. ](/news/2011/06/15/thousands-of-people-living-on-the-mid-north-coast-of-the-australian-state-of-new-south-wales-face-a-flooding-risk-with-the-town-of-kempsey.md) _Context: Australia, flood_
 4. [ Floods force the evacuations of Kempsey and Grafton, New South Wales, Australia. ](/news/2009/05/23/floods-force-the-evacuations-of-kempsey-and-grafton-new-south-wales-australia.md) _Context: Australia, flood_
 5. [ South East Queensland, Australia, is declared a natural disaster zone, following flooding. ](/news/2009/05/20/south-east-queensland-australia-is-declared-a-natural-disaster-zone-following-flooding.md) _Context: Australia, flood_
+
+### Changes:
+
+1. [Evacuation orders are issued for the Australian towns of Griffith and Forbes due to floods moving west through the Murray-Darling basin. ](/news/2012/03/8/evacuation-orders-are-issued-for-the-australian-towns-of-griffith-and-forbes-due-to-floods-moving-west-through-the-murray-darling-basin.md) _2017-08-27 03:35:23 (First version)_
+1. [Evacuation orders are issued for the Australian towns of Griffith and Forbes due to floods moving west through the Murray-Darling basin. ](/news/2012/03/8/evacuation-orders-are-issued-for-the-australian-towns-of-griffith-and-forbes-due-to-floods-moving-west-through-the-murrayadarling-basin.md) _(Current version)_

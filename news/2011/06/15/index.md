@@ -49,7 +49,7 @@ _Context: Australia, Chile, New Zealand, Perth, Qantas, Tasmania, Virgin Austral
 _Context: North Korea, South Korea, Yellow Sea, Yonhap_
 
 ### [Liberia suspends diplomatic ties with Libya, after United States Secretary of State Hillary Clinton called on countries to sever ties with Libya. ](/news/2011/06/15/liberia-suspends-diplomatic-ties-with-libya-after-united-states-secretary-of-state-hillary-clinton-called-on-countries-to-sever-ties-with-l.md)
-_Context: Hillary Clinton, Liberia, Libya, United States Secretary of State_
+_Context: Hillary Clinton, Liberia, Libya, Secretary of State_
 
 ### [The Australian Broadcasting Corporation reports that the son of the acting Prime Minister of Papua New Guinea Sam Abal has been arrested on murder charges. ](/news/2011/06/15/the-australian-broadcasting-corporation-reports-that-the-son-of-the-acting-prime-minister-of-papua-new-guinea-sam-abal-has-been-arrested-on.md)
 _Context: Australian Broadcasting Corporation, Papua New Guinea, Prime Minister, Sam Abal_

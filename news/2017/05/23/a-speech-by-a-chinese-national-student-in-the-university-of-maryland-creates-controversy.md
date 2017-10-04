@@ -17,3 +17,8 @@ Shuping Yang praised the &quot;fresh air of free speech&quot; in the U.S. during
 3. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_
 4. [India and China agree to end a two month-long stand-off with the withdrawal of Indian troops. The stand-off began in June after China began constructing a road in the disputed territory of Doklam which is claimed by both China and Bhutan. ](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.md) _Context: China_
 5. [Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos. ](/news/2017/08/2/teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece-of-faulty-dna.md) _Context: China_
+
+### Changes:
+
+1. [Freedom of speech in China: A speech by a Chinese-national student in the University of Maryland creates controversy. ](/news/2017/05/23/freedom-of-speech-in-china-a-speech-by-a-chinese-national-student-in-the-university-of-maryland-creates-controversy.md) _2017-08-27 03:48:23 (First version)_
+1. [A speech by a Chinese-national student in the University of Maryland creates controversy. ](/news/2017/05/23/a-speech-by-a-chinese-national-student-in-the-university-of-maryland-creates-controversy.md) _(Current version)_

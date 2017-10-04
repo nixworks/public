@@ -16,3 +16,8 @@
 3. [The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.md) _Context: Kazakhstan_
 4. [Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. ](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.md) _Context: Kazakhstan_
 5. [Three policemen and one civilian are killed in Almaty, Kazakhstan, in an attack on a police station by a radical Islamist. One gunman is reportedly still at large. ](/news/2016/07/18/three-policemen-and-one-civilian-are-killed-in-almaty-kazakhstan-in-an-attack-on-a-police-station-by-a-radical-islamist-one-gunman-is-rep.md) _Context: Kazakhstan_
+
+### Changes:
+
+1. [Kazakhstan issues an official -thank you- to Sacha Baron Cohen for his comedy character Borat Sagdiyev despite an initial ban. ](/news/2012/04/23/kazakhstan-issues-an-official-thank-you-to-sacha-baron-cohen-for-his-comedy-character-borat-sagdiyev-despite-an-initial-ban.md) _2017-08-27 03:35:42 (First version)_
+1. [Kazakhstan issues an official 'thank you' to Sacha Baron Cohen for his comedy character Borat Sagdiyev despite an initial ban. ](/news/2012/04/23/kazakhstan-issues-an-official-athank-youa-to-sacha-baron-cohen-for-his-comedy-character-borat-sagdiyev-despite-an-initial-ban.md) _(Current version)_

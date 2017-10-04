@@ -18,3 +18,8 @@ At least 65 civilians die in air strikes by a Saudi-led coalition in the Yemeni 
 3. [An air raid kills at least 24 civilians at a market in Houthi-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-houthi-held-saada-governorate-yemen.md) _Context: Saudi Arabian-led intervention in Yemen_
 4. [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md) _Context: Saudi Arabian-led intervention in Yemen_
 5. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Saudi Arabian-led intervention in Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: Saudi-led coalition air-strikes on the Yemeni city of Taiz leave at least 65 civilians killed. ](/news/2015/08/21/saudi-arabian-led-intervention-in-yemen-saudi-led-coalition-air-strikes-on-the-yemeni-city-of-taiz-leave-at-least-65-civilians-killed.md) _2017-08-27 03:42:52 (First version)_
+1. [Saudi-led coalition air-strikes on the Yemeni city of Taiz leave at least 65 civilians killed. ](/news/2015/08/21/saudi-led-coalition-air-strikes-on-the-yemeni-city-of-taiz-leave-at-least-65-civilians-killed.md) _(Current version)_

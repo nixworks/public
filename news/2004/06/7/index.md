@@ -13,7 +13,7 @@ _Context: Iraq, U.S. presence in Iraq, UN Security Council_
 _Context: Mexico, North American Free Trade Agreement, Teamsters, United States Supreme Court, environmentalist_
 
 ### [ A civil trial begins in San Francisco, California, in the U.S. Justice Department's effort to prevent the purchase of PeopleSoft by Oracle Corporation. Antitrust authorities contend that the proposed acquisition of PeopleSoft, for USD $7.7 billion, would effectively monopolize the market for enterprise software. ](/news/2004/06/7/a-civil-trial-begins-in-san-francisco-california-in-the-u-s-justice-department-s-effort-to-prevent-the-purchase-of-peoplesoft-by-oracle.md)
-_Context: California, Oracle Corporation, PeopleSoft, San Francisco, US$, antitrust_
+_Context: $, California, Oracle Corporation, PeopleSoft, San Francisco, antitrust_
 
 ### [ The Tampa Bay Lightning defeat the Calgary Flames in Game 7 of the Stanley Cup Finals 2-1, their first Stanley Cup victory. ](/news/2004/06/7/the-tampa-bay-lightning-defeat-the-calgary-flames-in-game-7-of-the-stanley-cup-finals-2a1-their-first-stanley-cup-victory.md)
 Ruslan Fedotenko scored twice, including the critical first goal, as the resilient Lightning held off the Flames 2-1 in Game 7 Monday night to win their first Stanley Cup.

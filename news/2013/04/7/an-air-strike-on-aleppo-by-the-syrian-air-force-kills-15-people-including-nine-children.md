@@ -19,3 +19,9 @@ The violence in Syria continues. An air strike has killed 15 people in Aleppo. T
 3. [A car bomb strikes a convoy of buses near Aleppo which were carrying evacuees from the pro-government towns of Al-Fu'ah and Kafriya. Over 100 people are killed. ](/news/2017/04/15/a-car-bomb-strikes-a-convoy-of-buses-near-aleppo-which-were-carrying-evacuees-from-the-pro-government-towns-of-al-fu-ah-and-kafriya-over-10.md) _Context: Aleppo_
 4. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo_
 5. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Aleppo_
+
+### Changes:
+
+1. [Syrian civil war:An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/syrian-civil-war-pan-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md) _2017-08-25 03:38:12 (First version)_
+2. [Syrian civil war:: An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/syrian-civil-war-an-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md) _2017-08-27 03:38:24 (Update)_
+2. [An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/an-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md) _(Current version)_

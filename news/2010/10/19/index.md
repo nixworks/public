@@ -43,7 +43,7 @@ UK court finds Prince Saud Abdulaziz bin Nasser al Saud guilty of murdering serv
 _Context: Democratic Republic of the Congo, International Criminal Court, Jean-Pierre Bemba_
 
 ### [The United States Secretary of State Hillary Clinton says that she understands the trial of two hikers will start on November 6. ](/news/2010/10/19/the-united-states-secretary-of-state-hillary-clinton-says-that-she-understands-the-trial-of-two-hikers-will-start-on-november-6.md)
-_Context: Hillary Clinton, United States Secretary of State, two American citizens_
+_Context: Hillary Clinton, Secretary of State, two American citizens_
 
 ### [The Kenyan Higher Education Minister William Ruto is suspended by President Mwai Kibaki after a court ruled he must stand trial for corruption allegations. ](/news/2010/10/19/the-kenyan-higher-education-minister-william-ruto-is-suspended-by-president-mwai-kibaki-after-a-court-ruled-he-must-stand-trial-for-corrupti.md)
 _Context: Kenya, Mwai Kibaki, William Ruto_

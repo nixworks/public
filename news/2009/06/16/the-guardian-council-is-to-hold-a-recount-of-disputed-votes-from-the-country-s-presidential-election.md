@@ -23,3 +23,8 @@ Authorities in Iran have banned foreign media from covering &#39;unauthorised&#3
 3. [ Iran says two thirds of protesters have already been released and another 100 will be freed in the aftermath of the disputed presidential election. ](/news/2009/07/8/iran-says-two-thirds-of-protesters-have-already-been-released-and-another-100-will-be-freed-in-the-aftermath-of-the-disputed-presidential-e.md) _Context: Iran, protests against the regime, re-election_
 4. [ Iranian opposition leaders call for the release of people who demonstrated in the aftermath of the disputed presidential election. ](/news/2009/07/7/iranian-opposition-leaders-call-for-the-release-of-people-who-demonstrated-in-the-aftermath-of-the-disputed-presidential-election.md) _Context: Iran, protests against the regime, re-election_
 5. [ 35 people are arrested in Mazandran, northern Iran, during post-election protests. ](/news/2009/07/4/35-people-are-arrested-in-mazandran-northern-iran-during-post-election-protests.md) _Context: Iran, protests against the regime, re-election_
+
+### Changes:
+
+1. [ Iran: The Guardian Council is to hold a recount of disputed votes from the country's presidential election. ](/news/2009/06/16/iran-the-guardian-council-is-to-hold-a-recount-of-disputed-votes-from-the-country-s-presidential-election.md) _2017-08-27 03:24:45 (First version)_
+1. [ The Guardian Council is to hold a recount of disputed votes from the country's presidential election. ](/news/2009/06/16/the-guardian-council-is-to-hold-a-recount-of-disputed-votes-from-the-country-s-presidential-election.md) _(Current version)_

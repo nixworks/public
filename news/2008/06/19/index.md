@@ -7,7 +7,7 @@ Venezuelan President Hugo Chavez on Thursday threatened to stop selling oil to E
 _Context: Amarah, Iraqi security forces, Sadrist_
 
 ### [ An Alabama state judge upholds a fraud verdict against AstraZeneca Pharmaceuticals in a Medicaid drug pricing suit but reduces the value of damages to $160 million. ](/news/2008/06/19/an-alabama-state-judge-upholds-a-fraud-verdict-against-astrazeneca-pharmaceuticals-in-a-medicaid-drug-pricing-suit-but-reduces-the-value-of.md)
-_Context: Alabama, AstraZeneca, Medicaid, US$_
+_Context: $, Alabama, AstraZeneca, Medicaid_
 
 ### [ The President of Iran Mahmoud Ahmadinejad accuses the United States of plotting to kidnap and assassinate him during a visit to Iraq. ](/news/2008/06/19/the-president-of-iran-mahmoud-ahmadinejad-accuses-the-united-states-of-plotting-to-kidnap-and-assassinate-him-during-a-visit-to-iraq.md)
 _Context: Americans, Iraq, Mahmoud Ahmadinejad, President_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md) _Context: Hillary Clinton, Israel, United States Secretary of State_
+1. [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md) _Context: Hillary Clinton, Israel, Secretary of State_
 2. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _Context: Israel, State of Palestine_
 3. [Israel arrests Palestinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palestinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md) _Context: Israel, State of Palestine_
 4. [A summit begins in Paris, France, to restart peace negotiations between Israel and Palestine in an effort to discuss a possible two-state solution to the conflict. However, neither Israel nor Palestine sent representatives to the summit, casting doubts on a breakthrough. ](/news/2017/01/15/a-summit-begins-in-paris-france-to-restart-peace-negotiations-between-israel-and-palestine-in-an-effort-to-discuss-a-possible-two-state-so.md) _Context: Israel, State of Palestine_

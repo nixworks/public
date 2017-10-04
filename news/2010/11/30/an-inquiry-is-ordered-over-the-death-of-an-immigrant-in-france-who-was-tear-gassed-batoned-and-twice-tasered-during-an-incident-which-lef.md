@@ -17,3 +17,8 @@ An immigrant from Mali in West Africa has died after French police shot him twic
 3. [Police baton and tear gas people protesting on a highway in Dhaka, arresting dozens. ](/news/2011/04/4/police-baton-and-tear-gas-people-protesting-on-a-highway-in-dhaka-arresting-dozens.md) _Context: baton, tear gas_
 4. [Police beat with batons and shoot tear gas at student protesters in the Sudanese state of Sennar in demonstrations inspired by the uprisings in Tunisia and Egypt. ](/news/2011/02/4/police-beat-with-batons-and-shoot-tear-gas-at-student-protesters-in-the-sudanese-state-of-sennar-in-demonstrations-inspired-by-the-uprisings.md) _Context: baton, tear gas_
 5. [Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/bahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-batons-to-disperse-the-crowd.md) _Context: baton, tear gas_
+
+### Changes:
+
+1. [An inquiry is ordered over the death of an immigrant in France, who was tear gassed, batoned, and twice tasered during an incident which left four police injured. ](/news/2010/11/30/an-inquiry-is-ordered-over-the-death-of-an-immigrant-in-france-who-was-tear-gassed-batoned-and-twice-tasered-during-an-incident-which-l.md) _2017-08-25 03:31:13 (First version)_
+1. [An inquiry is ordered over the death of an immigrant in France, who was tear gassed, batoned, and twice tasered during an incident which left four police injured. ](/news/2010/11/30/an-inquiry-is-ordered-over-the-death-of-an-immigrant-in-france-who-was-tear-gassed-batoned-and-twice-tasered-during-an-incident-which-lef.md) _(Current version)_

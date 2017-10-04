@@ -17,3 +17,8 @@ Ethiopia declares a six-month state of emergency following months of anti-govern
 3. [More than fifty protesters are killed by Ethiopian security forces over the last few days. The government restricted internet and journalist access to the country. ](/news/2016/08/8/more-than-fifty-protesters-are-killed-by-ethiopian-security-forces-over-the-last-few-days-the-government-restricted-internet-and-journalist.md) _Context: 2016 Ethiopian protests, government_
 4. [At least nine students are killed in protests in Ethiopia's Oromia Region. ](/news/2014/05/2/at-least-nine-students-are-killed-in-protests-in-ethiopia-s-oromia-region.md) _Context: Ethiopia, Oromia Region_
 5. [Human Rights Watch accuses the Ethiopian government of withholding foreign aid from opposition supporters. ](/news/2010/10/19/human-rights-watch-accuses-the-ethiopian-government-of-withholding-foreign-aid-from-opposition-supporters.md) _Context: Ethiopia, government_
+
+### Changes:
+
+1. [2016 Ethiopian protests: Ethiopia's government declares a six-month state of emergency amid continuing protests, especially in the restive Oromia Region. ](/news/2016/10/9/2016-ethiopian-protests-ethiopia-s-government-declares-a-six-month-state-of-emergency-amid-continuing-protests-especially-in-the-restive-o.md) _2017-08-27 03:47:00 (First version)_
+1. [Ethiopia's government declares a six-month state of emergency amid continuing protests, especially in the restive Oromia Region. ](/news/2016/10/9/ethiopia-s-government-declares-a-six-month-state-of-emergency-amid-continuing-protests-especially-in-the-restive-oromia-region.md) _(Current version)_

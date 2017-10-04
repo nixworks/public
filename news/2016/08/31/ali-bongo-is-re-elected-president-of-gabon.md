@@ -18,3 +18,8 @@ Photos of protests in Gabon emerge after election results were released Wednesda
 3. [Both President Ali Bongo Ondimba and his main challenger, former Foreign Minister Jean Ping, say they won yesterday's election for a seven-year term as president. Official results are expected Tuesday. ](/news/2016/08/28/both-president-ali-bongo-ondimba-and-his-main-challenger-former-foreign-minister-jean-ping-say-they-won-yesterday-s-election-for-a-seven-y.md) _Context: Ali Bongo Ondimba, Gabonese presidential election, 2016_
 4. [The president of Gabon Ali Bongo calls for calm following clashes between police and anti-government protesters and a subsequent attack on an opposition television station. ](/news/2012/08/17/the-president-of-gabon-ali-bongo-calls-for-calm-following-clashes-between-police-and-anti-government-protesters-and-a-subsequent-attack-on-a.md) _Context: Ali Bongo Ondimba, Gabon_
 5. [At least 45 people drown and 60 are missing after a boat carrying Nigerian migrants capsizes and sinks off shore from Libreville, Gabon. ](/news/2013/03/21/at-least-45-people-drown-and-60-are-missing-after-a-boat-carrying-nigerian-migrants-capsizes-and-sinks-off-shore-from-libreville-gabon.md) _Context: Gabon_
+
+### Changes:
+
+1. [Gabonese presidential election, 2016: Ali Bongo is re-elected President of Gabon. ](/news/2016/08/31/gabonese-presidential-election-2016-ali-bongo-is-re-elected-president-of-gabon.md) _2017-08-27 03:46:45 (First version)_
+1. [Ali Bongo is re-elected President of Gabon. ](/news/2016/08/31/ali-bongo-is-re-elected-president-of-gabon.md) _(Current version)_

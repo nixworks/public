@@ -18,3 +18,8 @@ Rights groups call on Nigerian government to conduct investigation into the viol
 3. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
 4. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
 5. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
+
+### Changes:
+
+1. [2015 Zaria Shia Massacre: Human Rights Watch (HRW) reports Nigeria-s military has quickly buried the corpses of at least 300 Shia Muslims killed during raids at the house of Ibrahim Zakzaky in Zaria earlier in December. ](/news/2015/12/24/2015-zaria-shia-massacre-human-rights-watch-hrw-reports-nigeria-s-military-has-quickly-buried-the-corpses-of-at-least-300-shia-muslims.md) _2017-08-27 03:44:30 (First version)_
+1. [Human Rights Watch (HRW) reports Nigeria's military has quickly buried the corpses of at least 300 Shia Muslims killed during raids at the house of Ibrahim Zakzaky in Zaria earlier in December. ](/news/2015/12/24/human-rights-watch-hrw-reports-nigeriaas-military-has-quickly-buried-the-corpses-of-at-least-300-shia-muslims-killed-during-raids-at-the.md) _(Current version)_

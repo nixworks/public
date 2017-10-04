@@ -16,3 +16,8 @@
 3. [Former Congolese Vice President and warlord Jean-Pierre Bemba, sentenced last year by the International Criminal Court (ICC) to 18 years in prison for war crimes, is given an additional 12 months and fined 300,000 euros for bribing witnesses during an earlier ICC trial. The court also handed jail terms and fines for alleged interference in his trial to members of his legal team. ](/news/2017/03/22/former-congolese-vice-president-and-warlord-jean-pierre-bemba-sentenced-last-year-by-the-international-criminal-court-icc-to-18-years-in.md) _Context: EUR_
 4. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: EUR_
 5. [The European Union pledges to give the Gambia EUR225 million in aid to assist the country following the departure of former president Yahya Jammeh, whose 22 years of misrule left the country "virtually bankrupt". ](/news/2017/02/10/the-european-union-pledges-to-give-the-gambia-a-225-million-in-aid-to-assist-the-country-following-the-departure-of-former-president-yahya.md) _Context: EUR_
+
+### Changes:
+
+1. [ Barclays plc agrees to buy ABN Amro in a -67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-67-billion-deal.md) _2017-08-27 03:19:36 (First version)_
+1. [ Barclays plc agrees to buy ABN Amro in a EUR67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-a-67-billion-deal.md) _(Current version)_

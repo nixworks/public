@@ -16,3 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: China, Taiwan_
 4. [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier "Liaoning", sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following-e.md) _Context: China, Taiwan_
 5. [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md) _Context: China, Taiwan_
+
+### Changes:
+
+1. [2015 Pacific typhoon season: Typhoon Dujuan hits mainland China in Fujian province after hitting Taiwan, where it caused two deaths and injured 300. ](/news/2015/09/29/2015-pacific-typhoon-season-typhoon-dujuan-hits-mainland-china-in-fujian-province-after-hitting-taiwan-where-it-caused-two-deaths-and-inju.md) _2017-08-27 03:43:10 (First version)_
+1. [Typhoon Dujuan hits mainland China in Fujian province after hitting Taiwan, where it caused two deaths and injured 300. ](/news/2015/09/29/typhoon-dujuan-hits-mainland-china-in-fujian-province-after-hitting-taiwan-where-it-caused-two-deaths-and-injured-300.md) _(Current version)_

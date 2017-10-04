@@ -16,3 +16,8 @@
 3. [Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-months.md) _Context: Pattani, South Thailand insurgency, Thailand_
 4. [ Militants in southern Thailand kill a Muslim family of three while a bomb attack injures two in Pattani Province. ](/news/2009/12/4/militants-in-southern-thailand-kill-a-muslim-family-of-three-while-a-bomb-attack-injures-two-in-pattani-province.md) _Context: Pattani, South Thailand insurgency, Thailand_
 5. [Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md) _Context: South Thailand insurgency, Thailand_
+
+### Changes:
+
+1. [South Thailand insurgency: A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/south-thailand-insurgency-a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-l.md) _2017-08-27 03:40:55 (First version)_
+1. [A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-least-one-death.md) _(Current version)_

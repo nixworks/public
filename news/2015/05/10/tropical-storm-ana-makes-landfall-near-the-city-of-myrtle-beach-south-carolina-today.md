@@ -16,3 +16,8 @@
 3. [Hurricane Joaquin becomes a Category 4 hurricane with maximum sustained winds of 130 mph. Some additional strengthening is possible tomorrow. The storm, moving at just 6 mph, is predicted to drop 10 to 15 inches of rain in the central Bahamas with up to five inches expected for the rest of the archipelago. ](/news/2015/10/1/hurricane-joaquin-becomes-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-some-additional-strengthening-is-possible-tomorrow.md) _Context: 2015 Atlantic hurricane season_
 4. [Tropical Storm Fred's predicted track will turn northeast toward the Azores islands off the coast of Portugal as a Tropical Depression. ](/news/2015/09/4/tropical-storm-fred-s-predicted-track-will-turn-northeast-toward-the-azores-islands-off-the-coast-of-portugal-as-a-tropical-depression.md) _Context: 2015 Atlantic hurricane season_
 5. [Hurricane Joaquin passes over ocean with temperatures near 86degF (30degC) - the warmest since record keeping began in 1880. ](/news/2015/09/30/hurricane-joaquin-passes-over-ocean-with-temperatures-near-86adegf-30adegc-the-warmest-since-record-keeping-began-in-1880.md) _Context: 2015 Atlantic hurricane season_
+
+### Changes:
+
+1. [2015 Atlantic hurricane season: Tropical Storm Ana makes landfall near the city of Myrtle Beach, South Carolina, today. ](/news/2015/05/10/2015-atlantic-hurricane-season-tropical-storm-ana-makes-landfall-near-the-city-of-myrtle-beach-south-carolina-today.md) _2017-08-27 03:42:17 (First version)_
+1. [Tropical Storm Ana makes landfall near the city of Myrtle Beach, South Carolina, today. ](/news/2015/05/10/tropical-storm-ana-makes-landfall-near-the-city-of-myrtle-beach-south-carolina-today.md) _(Current version)_

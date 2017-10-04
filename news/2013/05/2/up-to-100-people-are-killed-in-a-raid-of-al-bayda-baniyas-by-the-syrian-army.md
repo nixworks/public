@@ -17,3 +17,9 @@ Fierce clashes between troops and rebels erupted on Thursday for the first time 
 3. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Syrian Army_
 4. [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md) _Context: Syrian Army_
 5. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Army_
+
+### Changes:
+
+1. [Syrian civil war:Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-pup-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md) _2017-08-25 03:38:32 (First version)_
+2. [Syrian civil war:: Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-up-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md) _2017-08-27 03:38:44 (Update)_
+2. [Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/up-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md) _(Current version)_

@@ -10,7 +10,7 @@ _Context: Morocco, Nelson Mandela, Nkosazana Dlamini-Zuma, Pan-African Parliamen
 _Context: Canadian government, health care system, patient_
 
 ### [ In a report released today, the U.S. State Department for the first time places the Kingdom of Saudi Arabia on its list of "countries of particular concern" (CPCs) that engage in "particularly severe violations" of religious freedom. A designation as a CPC requires the State Department to take whatever steps are necessary&mdash;up to the level of sanctions&mdash;to increase religious tolerance in the designated country. ](/news/2004/09/15/in-a-report-released-today-the-u-s-state-department-for-the-first-time-places-the-kingdom-of-saudi-arabia-on-its-list-of-countries-of-pa.md)
-_Context: Saudi Arabia, U.S. State Department, religious freedom, sanctions_
+_Context: Department of State, Saudi Arabia, religious freedom, sanctions_
 
 ### [ Six Palestinian gunmen and four others are killed by Israeli troops. ](/news/2004/09/15/six-palestinian-gunmen-and-four-others-are-killed-by-israeli-troops.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

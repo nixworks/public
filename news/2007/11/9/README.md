@@ -13,7 +13,7 @@ _Context: Arnold Schwarzenegger, Governor of California, San Francisco Bay, San 
 _Context: Ethiopia, Islamist, Mogadishu, Somalian_
 
 ### [ Ugandan Lord's Resistance Army chief Joseph Kony tells peace negotiator Norbert Mao that Vincent Otti, his former deputy, is not dead as rumored, but is under house arrest for espionage. ](/news/2007/11/9/ugandan-lord-s-resistance-army-chief-joseph-kony-tells-peace-negotiator-norbert-mao-that-vincent-otti-his-former-deputy-is-not-dead-as-ru.md)
-_Context: Joseph Kony, Lord's Resistance Army, Norbert Mao, Uganda, Vincent Otti, espionage, house arrest, negotiation_
+_Context: Joseph Kony, Lord's Resistance Army, Norbert Mao, Uganda, Vincent Otti, house arrest, negotiation, spy_
 
 ### [ Iraqi insurgency: The United States Army releases five Iranian suspects who had been arrested in Iraq. ](/news/2007/11/9/iraqi-insurgency-the-united-states-army-releases-five-iranian-suspects-who-had-been-arrested-in-iraq.md)
 _Context: Iran, Iraq, Iraqi insurgency, U.S. soldiers_

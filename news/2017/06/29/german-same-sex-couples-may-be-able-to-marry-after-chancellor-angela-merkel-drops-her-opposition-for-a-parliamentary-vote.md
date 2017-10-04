@@ -17,3 +17,8 @@
 3. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: same-sex marriage_
 4. [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md) _Context: German_
 5. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _Context: same-sex marriage_
+
+### Changes:
+
+1. [Recognition of same-sex unions in Germany: German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/recognition-of-same-sex-unions-in-germany-german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition.md) _2017-08-27 03:48:34 (First version)_
+1. [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md) _(Current version)_

@@ -31,7 +31,7 @@ Rovio, the Finnish gaming company behind Angry Birds, has opened its Shanghai of
 A massive explosion at a government-owned steel plant in the southern Indian state of Andhra Pradesh has killed at least 11 people, police say.
 
 ### [United States Secretary of State Hillary Clinton says that the supreme leader of North Korea Kim Jong-un "has a choice to make" about the country's current policies. ](/news/2012/06/14/united-states-secretary-of-state-hillary-clinton-says-that-the-supreme-leader-of-north-korea-kim-jong-un-has-a-choice-to-make-about-the-co.md)
-_Context: Hillary Clinton, Kim Jong-un, United States Secretary of State, leader_
+_Context: Hillary Clinton, Kim Jong-un, Secretary of State, leader_
 
 ### [Jose Trevino Morales, an alleged money launderer of the Mexican criminal group Los Zetas and a prominent quarter horse racer in the U.S., is arrested in Lexington, Oklahoma. ](/news/2012/06/14/josa-c-trevia-o-morales-an-alleged-money-launderer-of-the-mexican-criminal-group-los-zetas-and-a-prominent-quarter-horse-racer-in-the-u-s.md)
 _Context: Jose Trevino Morales, Lexington, Oklahoma, Los Zetas_

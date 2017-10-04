@@ -47,3 +47,9 @@ At least three people killed as protesters attempt to storm the interior ministr
 3. [2011 Egyptian protests: Egyptian protestors claims that the Egyptian Army beat them up in Cairo's Tahrir Square. ](/news/2011/02/25/2011-egyptian-protests-egyptian-protestors-claims-that-the-egyptian-army-beat-them-up-in-cairo-s-tahrir-square.md) _Context: Cairo, Egyptian Army, Tahrir Square_
 4. [Masked gunmen attack a bus carrying Egyptian Army soldiers in Cairo, killing one. ](/news/2014/03/13/masked-gunmen-attack-a-bus-carrying-egyptian-army-soldiers-in-cairo-killing-one.md) _Context: Cairo, Egyptian Army_
 5. [At least 42 people have been killed and hundreds injured after the Army raids a sit-in by supporters of former President Mohamed Morsi in the Nasr City district of Cairo. ](/news/2013/07/8/at-least-42-people-have-been-killed-and-hundreds-injured-after-the-army-raids-a-sit-in-by-supporters-of-former-president-mohamed-morsi-in-th.md) _Context: Cairo, Egyptian Army_
+
+### Changes:
+
+1. [2011 Egyptian protests:The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/2011-egyptian-protests-pthe-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md) _2017-08-25 03:31:57 (First version)_
+2. [2011 Egyptian protests:: The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/2011-egyptian-protests-the-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md) _2017-08-27 03:32:05 (Update)_
+2. [The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/the-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md) _(Current version)_

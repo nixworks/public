@@ -16,3 +16,8 @@
 3. [Nobel Prize winner John Forbes Nash, Jr. and his wife Alicia died in a taxi accident. ](/news/2015/05/24/nobel-prize-winner-john-forbes-nash-jr-and-his-wife-alicia-died-in-a-taxi-accident.md) _Context: accident_
 4. [3 Doors Down bass player Todd Harrell is charged in Nashville, Tennessee, United States, with vehicular homicide by intoxication after being involved in a car crash which killed another driver. ](/news/2013/04/20/3-doors-down-bass-player-todd-harrell-is-charged-in-nashville-tennessee-united-states-with-vehicular-homicide-by-intoxication-after-being.md) _Context: accident_
 5. [A massive car crash on I-65 in Kentucky, United States, leaves 6 people from Wisconsin dead and 2 injured. ](/news/2013/03/2/a-massive-car-crash-on-i-65-in-kentucky-united-states-leaves-6-people-from-wisconsin-dead-and-2-injured.md) _Context: accident_
+
+### Changes:
+
+1. [ ''Top Gear'' presenter Richard Hammond leaves Leeds General Infirmary for an undisclosed hospital near his home to recuperate after major car crash whilst filming the week before. ](/news/2006/09/28/top-gear-presenter-richard-hammond-leaves-leeds-general-infirmary-for-an-undisclosed-hospital-near-his-home-to-recuperate-after-major-c.md) _2017-08-25 03:18:29 (First version)_
+1. [ "Top Gear" presenter Richard Hammond leaves Leeds General Infirmary for an undisclosed hospital near his home to recuperate after major car crash whilst filming the week before. ](/news/2006/09/28/top-gear-presenter-richard-hammond-leaves-leeds-general-infirmary-for-an-undisclosed-hospital-near-his-home-to-recuperate-after-major-car.md) _(Current version)_

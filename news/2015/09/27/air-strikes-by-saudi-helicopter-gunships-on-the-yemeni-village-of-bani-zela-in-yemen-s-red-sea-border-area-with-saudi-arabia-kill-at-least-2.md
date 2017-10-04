@@ -16,3 +16,8 @@ News - Your daily dose of information: European and International latest breakin
 3. [The Saudi-led coalition announces a 48 hour ceasefire in Yemen from noon. ](/news/2016/11/19/the-saudi-led-coalition-announces-a-48-hour-ceasefire-in-yemen-from-noon.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 4. [Two prisons in Al Hudaydah, Yemen, are bombed by Saudi Arabian jets, leaving at least 60 dead. ](/news/2016/10/29/two-prisons-in-al-hudaydah-yemen-are-bombed-by-saudi-arabian-jets-leaving-at-least-60-dead.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 5. [The death toll from a Saudi-led Arab coalition airstrike which hit a house in a residential area in western Yemen has risen to 26 people. ](/news/2016/09/22/the-death-toll-from-a-saudi-led-arab-coalition-airstrike-which-hit-a-house-in-a-residential-area-in-western-yemen-has-risen-to-26-people.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: Air-strikes by Saudi helicopter gunships on the Yemeni village of Bani Zela in Yemen's Red Sea border area with Saudi Arabia kill at least 25 people. ](/news/2015/09/27/saudi-arabian-led-intervention-in-yemen-air-strikes-by-saudi-helicopter-gunships-on-the-yemeni-village-of-bani-zela-in-yemen-s-red-sea-bord.md) _2017-08-27 03:43:10 (First version)_
+1. [Air-strikes by Saudi helicopter gunships on the Yemeni village of Bani Zela in Yemen's Red Sea border area with Saudi Arabia kill at least 25 people. ](/news/2015/09/27/air-strikes-by-saudi-helicopter-gunships-on-the-yemeni-village-of-bani-zela-in-yemen-s-red-sea-border-area-with-saudi-arabia-kill-at-least-2.md) _(Current version)_

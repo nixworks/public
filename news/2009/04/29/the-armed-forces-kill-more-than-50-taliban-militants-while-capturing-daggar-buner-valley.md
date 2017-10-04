@@ -18,3 +18,9 @@ Pakistani troops took the main town in strategically important Buner Valley on W
 3. [ Two Army soldiers and 13 Taliban militants are killed during a raid in Mohmand Agency, Pakistan. ](/news/2009/05/2/two-army-soldiers-and-13-taliban-militants-are-killed-during-a-raid-in-mohmand-agency-pakistan.md) _Context: Taliban, War in North-West Pakistan, militant_
 4. [ The Pakistani Army kills approximately 60 Taliban militants during Operation Black Thunder. ](/news/2009/05/1/the-pakistani-army-kills-approximately-60-taliban-militants-during-operation-black-thunder.md) _Context: Taliban, War in North-West Pakistan, militant_
 5. [A Taliban suicide bomber hits a court complex in the town of Shabqadar killing at least 13 people and injuring 36. Jamaat-ul-Ahrar, a Pakistani Taliban faction, says the attack is retaliation for Mumtaz Qadri's execution last week. ](/news/2016/03/7/a-taliban-suicide-bomber-hits-a-court-complex-in-the-town-of-shabqadar-killing-at-least-13-people-and-injuring-36-jamaat-ul-ahrar-a-pakist.md) _Context: Taliban, War in North-West Pakistan_
+
+### Changes:
+
+1. [ Pakistan: The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/pakistan-p-the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _2017-08-25 03:24:26 (First version)_
+2. [ Pakistan:: The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/pakistan-the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _2017-08-27 03:24:18 (Update)_
+2. [ The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _(Current version)_

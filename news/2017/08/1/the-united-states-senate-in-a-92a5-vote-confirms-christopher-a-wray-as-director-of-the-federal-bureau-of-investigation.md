@@ -17,3 +17,8 @@
 3. [Pastor A.R. Bernard becomes the first religious leader to resign from the president's evangelical advisory board. ](/news/2017/08/19/pastor-a-r-bernard-becomes-the-first-religious-leader-to-resign-from-the-president-s-evangelical-advisory-board.md) _Context: Political appointments by Donald Trump_
 4. [Steve Bannon resigns as President Donald Trump's White House Chief Strategist. ](/news/2017/08/18/steve-bannon-resigns-as-president-donald-trump-s-white-house-chief-strategist.md) _Context: Political appointments by Donald Trump_
 5. [Newly-appointed White House Chief of Staff John F. Kelly fires Director of Communications Anthony Scaramucci less than ten days after Scaramucci took up his post. ](/news/2017/07/31/newly-appointed-white-house-chief-of-staff-john-f-kelly-fires-director-of-communications-anthony-scaramucci-less-than-ten-days-after-scaram.md) _Context: Political appointments by Donald Trump_
+
+### Changes:
+
+1. [Political appointments by Donald Trump: The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/political-appointments-by-donald-trump-the-united-states-senate-in-a-92-5-vote-confirms-christopher-a-wray-as-director-of-the-federal.md) _2017-08-27 03:48:45 (First version)_
+1. [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md) _(Current version)_

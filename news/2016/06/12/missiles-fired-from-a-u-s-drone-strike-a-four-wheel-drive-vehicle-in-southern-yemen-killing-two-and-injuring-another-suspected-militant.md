@@ -17,3 +17,8 @@
 3. [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen, Yemeni Civil War_
 4. [Seven Pakistani crew members on Iranian cargo ship MV "Joya", sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s-co.md) _Context: Yemen, Yemeni Civil War_
 5. [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _Context: Yemen, Yemeni Civil War_
+
+### Changes:
+
+1. [Yemeni civil war: Missiles, fired from a U.S. drone, strike a four-wheel drive vehicle in southern Yemen, killing two and injuring another suspected militant. ](/news/2016/06/12/yemeni-civil-war-missiles-fired-from-a-u-s-drone-strike-a-four-wheel-drive-vehicle-in-southern-yemen-killing-two-and-injuring-another-s.md) _2017-08-27 03:46:14 (First version)_
+1. [Missiles, fired from a U.S. drone, strike a four-wheel drive vehicle in southern Yemen, killing two and injuring another suspected militant. ](/news/2016/06/12/missiles-fired-from-a-u-s-drone-strike-a-four-wheel-drive-vehicle-in-southern-yemen-killing-two-and-injuring-another-suspected-militant.md) _(Current version)_

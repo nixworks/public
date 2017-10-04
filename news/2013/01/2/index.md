@@ -34,7 +34,7 @@ _Context: Hugo Chavez, Venezuela, inauguration approaches_
 _Context: American Taxpayer Relief Act of 2012, Barack Obama, U.S. President, fiscal cliff_
 
 ### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md)
-_Context: Hillary Clinton, NewYork-Presbyterian Hospital, United States Secretary of State, blood clot_
+_Context: Hillary Clinton, NewYork-Presbyterian Hospital, Secretary of State, blood clot_
 
 ## [Previous Day...](/news/2013/01/1/index.md)
 

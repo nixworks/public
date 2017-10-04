@@ -17,3 +17,8 @@ The US investigates reports that it killed dozens of civilians but denies it hit
 3. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo, Syrian Civil War_
 4. [The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuation-of-the-last-group-of-rebels-to-the-idlib-gover.md) _Context: Aleppo, Syrian Civil War_
 5. [At least ten people are killed and others were injured during air strikes on Aleppo's Bab al-Nairab neighborhood. ](/news/2016/11/29/at-least-ten-people-are-killed-and-others-were-injured-during-air-strikes-on-aleppo-s-bab-al-nairab-neighborhood.md) _Context: Aleppo, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: 2017 al-Jina mosque airstrike: An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/syrian-civil-war-2017-al-jina-mosque-airstrike-an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al.md) _2017-08-27 03:47:59 (First version)_
+1. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _(Current version)_

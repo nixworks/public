@@ -12,3 +12,8 @@
 3. [A ceremony is held to commemorate the 100th anniversary of the Panama Canal. ](/news/2014/08/15/a-ceremony-is-held-to-commemorate-the-100th-anniversary-of-the-panama-canal.md) _Context: Panama Canal_
 4. [A North Korean cargo ship is allowed to leave the Panama Canal. ](/news/2014/02/15/a-north-korean-cargo-ship-is-allowed-to-leave-the-panama-canal.md) _Context: Panama Canal_
 5. [Floods across South America: Panama experiences its heaviest ever rains, with the Panama Canal shut for the first time due to weather. Millions of people are affected across the region, and there are deaths, including in Colombia and Venezuela. ](/news/2010/12/9/floods-across-south-america-panama-experiences-its-heaviest-ever-rains-with-the-panama-canal-shut-for-the-first-time-due-to-weather-milli.md) _Context: Panama Canal_
+
+### Changes:
+
+1. [ The Panama Canal Authority took over the administration of the Panama Canal as per the Torrijos-Carter Treaties.](/news/1999/12/31/the-panama-canal-authority-took-over-the-administration-of-the-panama-canal-as-per-the-torrijos-carter-treaties.md) _2017-08-27 03:15:07 (First version)_
+1. [ The Panama Canal Authority took over the administration of the Panama Canal as per the Torrijos-Carter Treaties.](/news/1999/12/31/the-panama-canal-authority-took-over-the-administration-of-the-panama-canal-as-per-the-torrijosacarter-treaties.md) _(Current version)_

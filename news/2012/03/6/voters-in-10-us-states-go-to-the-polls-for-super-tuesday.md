@@ -26,3 +26,9 @@ For those of us who have never been held hostage, now we know what it feels like
 3. [Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/voters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-republican-primaries-with-mitt-romney-proj.md) _Context: Republican primaries_
 4. [American politician Rick Santorum suspends his candidacy for the Republican nomination, increasing the likelihood that Mitt Romney will be the nominee. ](/news/2012/04/10/american-politician-rick-santorum-suspends-his-candidacy-for-the-republican-nomination-increasing-the-likelihood-that-mitt-romney-will-be-t.md) _Context: Republican primaries_
 5. [Voters in the US territory of Puerto Rico go to the polls for the Republican primary with Mitt Romney winning all of the delegates. ](/news/2012/03/18/voters-in-the-us-territory-of-puerto-rico-go-to-the-polls-for-the-republican-primary-with-mitt-romney-winning-all-of-the-delegates.md) _Context: Republican primaries_
+
+### Changes:
+
+1. [Super Tuesday:Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/super-tuesday-pvoters-in-10-us-states-go-to-the-polls-for-super-tuesday.md) _2017-08-25 03:35:12 (First version)_
+2. [Super Tuesday:: Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/super-tuesday-voters-in-10-us-states-go-to-the-polls-for-super-tuesday.md) _2017-08-27 03:35:22 (Update)_
+2. [Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/voters-in-10-us-states-go-to-the-polls-for-super-tuesday.md) _(Current version)_

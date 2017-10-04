@@ -13,3 +13,9 @@
 ### Related:
 
 1. [The Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-israel-responds-with-sanctions-p.md) _Context: Peace talks_
+
+### Changes:
+
+1. [2013 Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/2013-israeli-palestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-o.md) _2017-08-12 03:39:51 (First version)_
+2. [Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/israeli-palestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-of-m.md) _2017-08-27 03:39:24 (Update)_
+2. [Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/israeliapalestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-of-m.md) _(Current version)_

@@ -10,7 +10,7 @@ _Context: ETA, March 11, 2004 Madrid attacks, Morocco_
 _Context: Afghanistan, Al Qaida's, Mullah Omar, Osama bin Laden, Taliban_
 
 ### [ Fifteen teams that qualified for the DARPA Grand Challenge start on a 150-200 mile robotic race to Las Vegas, Nevada, for a $1 million prize. All of the teams break down within seven miles of the start line; none collect the prize. ](/news/2004/03/13/fifteen-teams-that-qualified-for-the-darpa-grand-challenge-start-on-a-150a200-mile-robotic-race-to-las-vegas-nevada-for-a-1-million-pr.md)
-_Context: DARPA Grand Challenge, Las Vegas, Nevada, US$_
+_Context: $, DARPA Grand Challenge, Las Vegas, Nevada_
 
 ### [ Nine people, eight of whom are children, are found dead in Fresno, California, US. A man apparently related to the victims is arrested. The police speculate that the deaths may have been part of a ritual. ](/news/2004/03/13/nine-people-eight-of-whom-are-children-are-found-dead-in-fresno-california-us-a-man-apparently-related-to-the-victims-is-arrested-the.md)
 _Context: Fresno, California_

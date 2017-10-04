@@ -12,3 +12,8 @@
 3. [ Former WorldCom chief Bernard Ebbers reports to a federal prison in the U.S. state of Louisiana to begin a 25-year prison term. ](/news/2006/09/26/former-worldcom-chief-bernard-ebbers-reports-to-a-federal-prison-in-the-u-s-state-of-louisiana-to-begin-a-25-year-prison-term.md) _Context: WorldCom_
 4. [ A U.S. federal appeals court upholds the conviction and 25 year sentence of former WorldCom CEO Bernard Ebbers for fraud. ](/news/2006/07/28/a-u-s-federal-appeals-court-upholds-the-conviction-and-25-year-sentence-of-former-worldcom-ceo-bernard-ebbers-for-fraud.md) _Context: WorldCom_
 5. [ Scott Sullivan, once the chief financial officer of WorldCom, then the star witness in the prosecution of his former boss there, Bernie Ebbers, is sentenced to five years in prison.](/news/2005/08/11/scott-sullivan-once-the-chief-financial-officer-of-worldcom-then-the-star-witness-in-the-prosecution-of-his-former-boss-there-bernie-ebb.md) _Context: WorldCom_
+
+### Changes:
+
+1. [ Accountancy scandals: WorldCom announced it had discovered {{Nowrap|$3.3 billion}} in false accounting in addition to the {{Nowrap|$3.8 billion}} discovered earlier.](/news/2002/08/8/accountancy-scandals-worldcom-announced-it-had-discovered-nowrap-3-3-billion-in-false-accounting-in-addition-to-the-nowrap-3-8-bil.md) _2017-05-01 03:15:15 (First version)_
+1. [ Accountancy scandals: WorldCom announced it had discovered $3.3 billion in false accounting in addition to the $3.8 billion discovered earlier.](/news/2002/08/8/accountancy-scandals-worldcom-announced-it-had-discovered-3-3-billion-in-false-accounting-in-addition-to-the-3-8-billion-discovered-earl.md) _(Current version)_

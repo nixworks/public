@@ -17,3 +17,8 @@ Nigeria’s president vows to continue negotiations over freeing remaining Boko 
 3. [One of the girls kidnapped in 2014 by Boko Haram in Nigeria is found and reunited with her family. ](/news/2016/05/18/one-of-the-girls-kidnapped-in-2014-by-boko-haram-in-nigeria-is-found-and-reunited-with-her-family.md) _Context: Boko Haram, Chibok schoolgirls kidnapping_
 4. [Nigerian police in Abuja ban all protests planned in support of the 276 girls kidnapped from northern Nigeria by Boko Haram. ](/news/2014/06/3/nigerian-police-in-abuja-ban-all-protests-planned-in-support-of-the-276-girls-kidnapped-from-northern-nigeria-by-boko-haram.md) _Context: Abuja, Boko Haram_
 5. [Air Marshal Alex Barde, the Nigeria head of defense, tells protesters in Abuja that the military knows where the 300 girls kidnapped by Boko Haram are but are reluctant to rescue them due to the fear of having them killed. ](/news/2014/05/26/air-marshal-alex-barde-the-nigeria-head-of-defense-tells-protesters-in-abuja-that-the-military-knows-where-the-300-girls-kidnapped-by-boko.md) _Context: Abuja, Boko Haram_
+
+### Changes:
+
+1. [Chibok schoolgirls kidnapping: 82 of the female students recently released by Boko Haram reunite with their families in Abuja. ](/news/2017/05/20/chibok-schoolgirls-kidnapping-82-of-the-female-students-recently-released-by-boko-haram-reunite-with-their-families-in-abuja.md) _2017-08-27 03:48:22 (First version)_
+1. [82 of the female students recently released by Boko Haram reunite with their families in Abuja. ](/news/2017/05/20/82-of-the-female-students-recently-released-by-boko-haram-reunite-with-their-families-in-abuja.md) _(Current version)_

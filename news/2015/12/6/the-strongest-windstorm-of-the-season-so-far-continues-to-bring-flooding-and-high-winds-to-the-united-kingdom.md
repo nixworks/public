@@ -18,3 +18,8 @@ Live updates as Storm Desmond brings flooding and travel disruption to parts of 
 3. [The fourth named windstorm of the season makes landfall across the United Kingdom and Ireland, bringing high winds and serious flooding. ](/news/2015/12/5/the-fourth-named-windstorm-of-the-season-makes-landfall-across-the-united-kingdom-and-ireland-bringing-high-winds-and-serious-flooding.md) _Context: Storm Desmond, United Kingdom_
 4. [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md) _Context: United Kingdom_
 5. [The origin of the zero may have been in South Asia according to a Sanskrit script housed in the United Kingdom since 1902 and discovered in Bakhshali near Peshawar, Pakistan. ](/news/2017/09/14/the-origin-of-the-zero-may-have-been-in-south-asia-according-to-a-sanskrit-script-housed-in-the-united-kingdom-since-1902-and-discovered-in.md) _Context: United Kingdom_
+
+### Changes:
+
+1. [Storm Desmond: The strongest windstorm of the season so far continues to bring flooding and high winds to the United Kingdom. ](/news/2015/12/6/storm-desmond-the-strongest-windstorm-of-the-season-so-far-continues-to-bring-flooding-and-high-winds-to-the-united-kingdom.md) _2017-08-27 03:44:12 (First version)_
+1. [The strongest windstorm of the season so far continues to bring flooding and high winds to the United Kingdom. ](/news/2015/12/6/the-strongest-windstorm-of-the-season-so-far-continues-to-bring-flooding-and-high-winds-to-the-united-kingdom.md) _(Current version)_

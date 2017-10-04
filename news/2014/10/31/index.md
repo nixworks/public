@@ -19,7 +19,7 @@ Maine health officials have asked a court to limit the movements of nurse Kaci H
 Thawing of diplomatic relations follows democratic elections in September that brought coup era to an end
 
 ### [A Mexican judge releases a United States Marine Corps member detained for crossing the border with loaded guns eight months ago. ](/news/2014/10/31/a-mexican-judge-releases-a-united-states-marine-corps-member-detained-for-crossing-the-border-with-loaded-guns-eight-months-ago.md)
-_Context: Mexico, Mexico-U.S. border, United States Marine Corps_
+_Context: Mexico, Mexico-U.S. border, U.S. Marine_
 
 ### [Major political parties in Myanmar hold a meeting about the upcoming Burmese general election, 2015 which included Thein Sein's Union Solidarity and Development Party and Aung San Suu Kyi's National League for Democracy. ](/news/2014/10/31/major-political-parties-in-myanmar-hold-a-meeting-about-the-upcoming-burmese-general-election-2015-which-included-thein-sein-s-union-solida.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

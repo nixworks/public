@@ -17,3 +17,9 @@
 3. [Two people are killed and 38 injured in a bombing of a Hezbollah stronghold in Beirut. ](/news/2014/02/19/two-people-are-killed-and-38-injured-in-a-bombing-of-a-hezbollah-stronghold-in-beirut.md) _Context: Beirut, Hezbollah_
 4. [A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _Context: Beirut, Hezbollah_
 5. [A Hezbollah official Hassan al-Lakkis is assassinated outside his home in Hadath, south of the Lebanese capital Beirut with Hezbollah blaming Israel. ](/news/2013/12/4/a-hezbollah-official-hassan-al-lakkis-is-assassinated-outside-his-home-in-hadath-south-of-the-lebanese-capital-beirut-with-hezbollah-blamin.md) _Context: Beirut, Hezbollah_
+
+### Changes:
+
+1. [ 2008 unrest in Lebanon: Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/2008-unrest-in-lebanon-p-hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md) _2017-08-25 03:22:08 (First version)_
+2. [ 2008 unrest in Lebanon:: Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/2008-unrest-in-lebanon-hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md) _2017-08-27 03:22:03 (Update)_
+2. [ Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md) _(Current version)_

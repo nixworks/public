@@ -19,3 +19,9 @@ Officials in the Philippines say seven people have been killed in two provinces 
 3. [One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/one-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-season-makes-la.md) _Context: Philippines, Typhoon_
 4. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
 5. [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md) _Context: Philippines_
+
+### Changes:
+
+1. [ 2007 Pacific typhoon season: Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/2007-pacific-typhoon-season-p-three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md) _2017-08-25 03:21:29 (First version)_
+2. [ 2007 Pacific typhoon season:: Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/2007-pacific-typhoon-season-three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md) _2017-08-27 03:21:24 (Update)_
+2. [ Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md) _(Current version)_

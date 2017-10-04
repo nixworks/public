@@ -17,3 +17,8 @@ Russia has started the delivery of its S-300 air defense systems to Iran, TASS n
 3. [Russian president Vladimir Putin lifts the ban on delivery of S-300 missile air defense systems to Iran in connection to the nuclear dialogue. Israel and the United States oppose the deal on the grounds that Iran is a state sponsor of terrorism. ](/news/2015/04/13/russian-president-vladimir-putin-lifts-the-ban-on-delivery-of-s-300-missile-air-defense-systems-to-iran-in-connection-to-the-nuclear-dialogu.md) _Context: Iran, Russia, S-300_
 4. [Russia announces plans to sell Iran S-300 ground-to-air missiles, stating that the new United Nations sanctions do not cover stationary air defense weaponry. ](/news/2010/06/10/russia-announces-plans-to-sell-iran-s-300-ground-to-air-missiles-stating-that-the-new-united-nations-sanctions-do-not-cover-stationary-air.md) _Context: Iran, Russia, S-300_
 5. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-un.md) _Context: Iran, Russia_
+
+### Changes:
+
+1. [Iran-Russia relations: Russia begins deliveries of its S-300 air defense systems to Iran. ](/news/2015/12/3/iran-russia-relations-russia-begins-deliveries-of-its-s-300-air-defense-systems-to-iran.md) _2017-08-27 03:44:10 (First version)_
+1. [Russia begins deliveries of its S-300 air defense systems to Iran. ](/news/2015/12/3/russia-begins-deliveries-of-its-s-300-air-defense-systems-to-iran.md) _(Current version)_

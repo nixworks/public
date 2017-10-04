@@ -18,3 +18,9 @@ Some 29 people, 20 of them women, were killed on Saturday evening in an apartmen
 3. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 4. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_
 5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad_
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/iraqi-insurgency-post-u-s-withdrawal-pgunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md) _2017-08-25 03:40:40 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/iraqi-insurgency-post-u-s-withdrawal-gunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md) _2017-08-27 03:40:58 (Update)_
+2. [Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/gunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md) _(Current version)_

@@ -17,3 +17,8 @@ The founder of Microsoft&#39;s remains the second-richest person in the world. A
 3. [ "Fortune" magazine lists Mexican businessman Carlos Slim as the richest man in the world ahead of Microsoft founder Bill Gates. ](/news/2007/08/7/fortune-magazine-lists-mexican-businessman-carlos-slim-as-the-richest-man-in-the-world-ahead-of-microsoft-founder-bill-gates.md) _Context: Carlos Slim, Mexico_
 4. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
 5. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
+
+### Changes:
+
+1. [''Forbes'' releases its annual list of the world's wealthiest people, with Mexican business magnate Carlos Slim topping the list for the fourth year in a row. ](/news/2013/03/4/forbes-releases-its-annual-list-of-the-world-s-wealthiest-people-with-mexican-business-magnate-carlos-slim-topping-the-list-for-the-fou.md) _2017-08-25 03:37:43 (First version)_
+1. ["Forbes" releases its annual list of the world's wealthiest people, with Mexican business magnate Carlos Slim topping the list for the fourth year in a row. ](/news/2013/03/4/forbes-releases-its-annual-list-of-the-world-s-wealthiest-people-with-mexican-business-magnate-carlos-slim-topping-the-list-for-the-fourt.md) _(Current version)_

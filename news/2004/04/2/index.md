@@ -45,7 +45,7 @@ _Context: Gavyn Davies, Hutton Inquiry, Michael Grade_
 _Context: Sri Lanka, parliamentary election_
 
 ### [ Former US marine Toby Studabaker, who abducted a 12-year-old British girl after ""grooming"" her via the Internet, is jailed for four and a half years. ](/news/2004/04/2/former-us-marine-toby-studabaker-who-abducted-a-12-year-old-british-girl-after-grooming-her-via-the-internet-is-jailed-for-four-and-a.md)
-_Context: Internet, Toby Studabaker, United States Marine Corps_
+_Context: Internet, Toby Studabaker, U.S. Marine_
 
 ### [ An estimated crowd of between 10,000 and 19,000 mourners show up to pay their final respects to Mexican singer Adn Snchez in Los Angeles. Many in the crowd turn violent, jumping onto the van carrying the singer's body. Some are injured, and police and emergency rescue intervention is required. ](/news/2004/04/2/an-estimated-crowd-of-between-10-000-and-19-000-mourners-show-up-to-pay-their-final-respects-to-mexican-singer-adan-sanchez-in-los-angeles.md)
 _Context: Adn Snchez, Los Angeles, California, Mexico_

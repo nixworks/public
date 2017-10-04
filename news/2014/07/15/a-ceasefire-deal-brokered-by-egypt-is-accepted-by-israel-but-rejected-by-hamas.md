@@ -20,3 +20,9 @@ Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace
 3. [Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _Context: Egypt, Hamas, Israel_
 4. [A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. ](/news/2012/11/21/a-ceasefire-between-israel-and-hamas-announced-by-egyptian-foreign-minister-mohamed-kamel-amr-and-us-secretary-of-state-hillary-clinton-co.md) _Context: Hamas, Israel, ceasefire_
 5. [Israeli air strikes kill at least 20 Palestinians in the Gaza Strip including Islamic Jihad members, while over 130 rockets are fired towards Israel injuring several, amid ceasefire talks in Egypt. ](/news/2012/11/19/israeli-air-strikes-kill-at-least-20-palestinians-in-the-gaza-strip-including-islamic-jihad-members-while-over-130-rockets-are-fired-toward.md) _Context: Egypt, Israel, ceasefire_
+
+### Changes:
+
+1. [Operation Protective Edge:A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/operation-protective-edge-pa-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _2017-08-25 03:40:41 (First version)_
+2. [Operation Protective Edge:: A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/operation-protective-edge-a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _2017-08-27 03:40:59 (Update)_
+2. [A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _(Current version)_

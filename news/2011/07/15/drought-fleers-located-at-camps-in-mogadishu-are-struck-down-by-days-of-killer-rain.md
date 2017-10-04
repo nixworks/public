@@ -19,3 +19,9 @@ People who have fled the drought in Somalia to camps near the capital Mogadishu 
 3. [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md) _Context: Mogadishu_
 4. [A suicide bomber explodes a car bomb near a hotel, al-Shabaab militants then storm the hotel and a pizza restaurant, killing least 20 people and taking others hostage, in Somalia's capital Mogadishu. All five attackers are later killed. ](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.md) _Context: Mogadishu_
 5. [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu. ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md) _Context: Mogadishu_
+
+### Changes:
+
+1. [2011 Horn of Africa drought:Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/2011-horn-of-africa-drought-pdrought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md) _2017-08-25 03:33:47 (First version)_
+2. [2011 Horn of Africa drought:: Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/2011-horn-of-africa-drought-drought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md) _2017-08-27 03:33:54 (Update)_
+2. [Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/drought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md) _(Current version)_

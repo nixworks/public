@@ -17,3 +17,8 @@ Seven employees of a popular Afghan TV channel are killed after their bus is tar
 3. [A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.md) _Context: Kabul, War in Afghanistan_
 4. [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md) _Context: Kabul, War in Afghanistan_
 5. [A U.S. special forces service member is killed while taking part in an operation against ISIL militants in Afghanistan's eastern Nangarhar Province. ](/news/2017/04/8/a-u-s-special-forces-service-member-is-killed-while-taking-part-in-an-operation-against-isil-militants-in-afghanistan-s-eastern-nangarhar-p.md) _Context: Afghanistan, War in Afghanistan_
+
+### Changes:
+
+1. [War in Afghanistan: A suicide bomber in Kabul, Afghanistan, targets Tolo News, killing four and wounding 20. ](/news/2016/01/20/war-in-afghanistan-a-suicide-bomber-in-kabul-afghanistan-targets-tolo-news-killing-four-and-wounding-20.md) _2017-08-27 03:44:44 (First version)_
+1. [A suicide bomber in Kabul, Afghanistan, targets Tolo News, killing four and wounding 20. ](/news/2016/01/20/a-suicide-bomber-in-kabul-afghanistan-targets-tolo-news-killing-four-and-wounding-20.md) _(Current version)_

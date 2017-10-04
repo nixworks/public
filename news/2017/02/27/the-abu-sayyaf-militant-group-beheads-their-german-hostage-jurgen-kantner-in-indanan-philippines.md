@@ -17,3 +17,8 @@ Islamist militants in the Philippines have executed a German who survived being 
 3. [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 4. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 5. [Abu Sayyaf of the Philippines allegedly kidnap three Filipino fishermen from their trawler off the Malaysian state of Sabah on Borneo island. ](/news/2016/09/12/abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-on-borneo-island.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
+
+### Changes:
+
+1. [Moro conflict: The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/moro-conflict-the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _2017-08-27 03:47:54 (First version)_
+1. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _(Current version)_

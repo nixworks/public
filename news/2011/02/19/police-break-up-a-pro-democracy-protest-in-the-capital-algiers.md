@@ -18,3 +18,9 @@ Several people are injured and others are arrested as police thwart pro-democrac
 3. [AQIM militants kill eleven soldiers in Tizi Ouzou region of Algeria east of capital Algiers in one the deadliest attacks on the Algerian military in several years. [http:--www.baiatdecartier.ro (BDC)]date=April 2014](/news/2014/04/20/aqim-militants-kill-eleven-soldiers-in-tizi-ouzou-region-of-algeria-east-of-capital-algiers-in-one-the-deadliest-attacks-on-the-algerian-mil.md) _Context: Algiers_
 4. [The European Union opens an office in Burma in recognition of recent democratic reforms. ](/news/2012/04/28/the-european-union-opens-an-office-in-burma-in-recognition-of-recent-democratic-reforms.md) _Context: democratic progress_
 5. [Police in Swaziland detain at least seven activists on their way to a pro-democracy church service in the city of Manzini. ](/news/2012/04/15/police-in-swaziland-detain-at-least-seven-activists-on-their-way-to-a-pro-democracy-church-service-in-the-city-of-manzini.md) _Context: democratic progress_
+
+### Changes:
+
+1. [2010-2011 Algerian protests:Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/2010-2011-algerian-protests-ppolice-break-up-a-pro-democracy-protest-in-the-capital-algiers.md) _2017-08-25 03:32:16 (First version)_
+2. [2010-2011 Algerian protests:: Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/2010-2011-algerian-protests-police-break-up-a-pro-democracy-protest-in-the-capital-algiers.md) _2017-08-27 03:32:24 (Update)_
+2. [Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/police-break-up-a-pro-democracy-protest-in-the-capital-algiers.md) _(Current version)_

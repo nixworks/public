@@ -7,7 +7,7 @@ _Context: Texas, United Kingdom_
 _Context: Houthi, Saudi Arabia, Yemen, due to fighting_
 
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
-_Context: Bermeo, Somali pirates, Spain_
+_Context: Bermeo, Somali pirates, Spanish_
 
 ### [ At least two workers are killed after a bridge under construction collapses in Andorra. ](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.md)
 _Context: Andorra_

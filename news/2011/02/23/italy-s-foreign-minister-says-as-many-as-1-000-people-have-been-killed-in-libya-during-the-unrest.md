@@ -24,3 +24,8 @@
 3. [A Libyan spokesperson says two Italian hostages are freed by local fighters from Islamic State custody in Sabratha, Libya. He also confirms that two other Italian hostages were recently killed during local forces clashes with IS militants. ](/news/2016/03/4/a-libyan-spokesperson-says-two-italian-hostages-are-freed-by-local-fighters-from-islamic-state-custody-in-sabratha-libya-he-also-confirms.md) _Context: Italy, Libya_
 4. [Italy rescues thousands of refugees in the Mediterranean Sea off the coast of Libya. ](/news/2015/09/19/italy-rescues-thousands-of-refugees-in-the-mediterranean-sea-off-the-coast-of-libya.md) _Context: Italy, Libya_
 5. [Italy reports nearly 4,100 migrants were rescued off the Libyan coast with more rescues expected as people smugglers take advantage of the safe conditions. ](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.md) _Context: Italy, Libya_
+
+### Changes:
+
+1. [2011 Libyan civil war: Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/2011-libyan-civil-war-italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md) _2017-08-27 03:32:26 (First version)_
+1. [Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md) _(Current version)_

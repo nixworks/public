@@ -19,3 +19,9 @@ United Russia, the governing party of Prime Minister Vladimir V. Putin, suffered
 3. [Russia's lower parliament approves a bill creating a list of blacklisted websites, amid fears of censorship. ](/news/2012/07/11/russia-s-lower-parliament-approves-a-bill-creating-a-list-of-blacklisted-websites-amid-fears-of-censorship.md) _Context: Russia, State Duma_
 4. [The speaker of Russia's lower house of parliament and ally of Vladimir Putin, Boris Gryzlov, resigns. ](/news/2011/12/14/the-speaker-of-russia-s-lower-house-of-parliament-and-ally-of-vladimir-putin-boris-gryzlov-resigns.md) _Context: Russia, State Duma_
 5. [ Opposition politicians walk out of the Russian lower house of parliament, the State Duma, alleging vote rigging at the weekend's elections which saw the United Russia party winning nearly every poll. ](/news/2009/10/14/opposition-politicians-walk-out-of-the-russian-lower-house-of-parliament-the-state-duma-alleging-vote-rigging-at-the-weekend-s-elections.md) _Context: Russia, State Duma_
+
+### Changes:
+
+1. [Russian election:Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/russian-election-pvoters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md) _2017-08-25 03:34:34 (First version)_
+2. [Russian election:: Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/russian-election-voters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md) _2017-08-27 03:34:44 (Update)_
+2. [Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/voters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md) _(Current version)_

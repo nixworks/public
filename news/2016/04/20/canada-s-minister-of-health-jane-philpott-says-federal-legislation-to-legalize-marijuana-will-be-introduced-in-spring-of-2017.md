@@ -17,3 +17,8 @@
 3. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canada_
 4. [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C. A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md) _Context: Canada_
 5. [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md) _Context: Canada_
+
+### Changes:
+
+1. [Drug policy of Canada: Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/drug-policy-of-canada-canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring.md) _2017-08-27 03:45:42 (First version)_
+1. [Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring-of-2017.md) _(Current version)_

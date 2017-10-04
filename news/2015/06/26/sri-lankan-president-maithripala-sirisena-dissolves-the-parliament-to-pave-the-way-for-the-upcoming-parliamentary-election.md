@@ -17,3 +17,8 @@ Sri Lankan President Maithripala Sirisena dissolves parliament, paving the way f
 3. [Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/mahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md) _Context: Maithripala Sirisena_
 4. [Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-between-president-mahinda-rajapaksa-and-chall.md) _Context: Maithripala Sirisena_
 5. [The President of Sri Lanka Maithripala Sirisena reinstates former Chief Justice Shirani Bandaranayake who had been sacked by former President Mahinda Rajapaksa. ](/news/2015/01/28/the-president-of-sri-lanka-maithripala-sirisena-reinstates-former-chief-justice-shirani-bandaranayake-who-had-been-sacked-by-former-presiden.md) _Context: Maithripala Sirisena_
+
+### Changes:
+
+1. [ Sri Lankan parliamentary election, 2015: Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. ](/news/2015/06/26/sri-lankan-parliamentary-election-2015-sri-lankan-president-maithripala-sirisena-dissolves-the-parliament-to-pave-the-way-for-the-upcomin.md) _2017-08-27 03:42:36 (First version)_
+1. [ Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. ](/news/2015/06/26/sri-lankan-president-maithripala-sirisena-dissolves-the-parliament-to-pave-the-way-for-the-upcoming-parliamentary-election.md) _(Current version)_

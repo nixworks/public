@@ -17,3 +17,8 @@ As it happens: The latest news, views and analysis from the BBC and beyond.
 3. [Eurozone finance ministers reject a request by Greece to extend debt negotiations past Tuesday's deadline. ](/news/2015/06/27/eurozone-finance-ministers-reject-a-request-by-greece-to-extend-debt-negotiations-past-tuesday-s-deadline.md) _Context: Eurozone, Greek_
 4. [Greece requests its partners in the eurozone for a six month loan program extension in an apparent compromise attempt; Germany has rejected the request. ](/news/2015/02/19/greece-requests-its-partners-in-the-eurozone-for-a-six-month-loan-program-extension-in-an-apparent-compromise-attempt-germany-has-rejected.md) _Context: Eurozone, Greek_
 5. [The eurozone will pay out of 43.7 billion euros in loans to Greece from December 13 for reducing Greece's debt. ](/news/2012/11/27/the-eurozone-will-pay-out-of-43-7-billion-euros-in-loans-to-greece-from-december-13-for-reducing-greece-s-debt.md) _Context: Eurozone, Greek_
+
+### Changes:
+
+1. [timeline: Eurozone leaders agree on a bailout deal for Greece providing the Hellenic Parliament passes reforms into law by July 15. ](/news/2015/07/13/timeline-eurozone-leaders-agree-on-a-bailout-deal-for-greece-providing-the-hellenic-parliament-passes-reforms-into-law-by-july-15.md) _2017-08-27 03:42:41 (First version)_
+1. [Eurozone leaders agree on a bailout deal for Greece providing the Hellenic Parliament passes reforms into law by July 15. ](/news/2015/07/13/eurozone-leaders-agree-on-a-bailout-deal-for-greece-providing-the-hellenic-parliament-passes-reforms-into-law-by-july-15.md) _(Current version)_

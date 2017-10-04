@@ -18,3 +18,8 @@
 3. [Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md) _Context: 2016 Atlantic hurricane season, Earl's_
 4. [ Tropical Storm Earl, now about 265 miles (425 km) east-southeast of Belize City with top sustained winds of 70 mph (110 KM-H), becomes Hurricane Earl that could produce up to 16 inches of rain by the time it hits Belize. On Sunday, then a tropical wave, Earl was responsible for nine deaths, with four people still missing, in the Dominican Republic. ](/news/2016/08/3/tropical-storm-earl-now-about-265-miles-425-km-east-southeast-of-belize-city-with-top-sustained-winds-of-70-mph-110-km-h-becomes-hurr.md) _Context: 2016 Atlantic hurricane season, Earl's_
 5. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
+
+### Changes:
+
+1. [2016 Atlantic hurricane season: Tropical Storm Earl makes its final landfall near Veracruz in eastern Mexico, producing flooding rains that kill at least six. ](/news/2016/08/6/2016-atlantic-hurricane-season-tropical-storm-earl-makes-its-final-landfall-near-veracruz-in-eastern-mexico-producing-flooding-rains-that.md) _2017-08-27 03:46:37 (First version)_
+1. [Tropical Storm Earl makes its final landfall near Veracruz in eastern Mexico, producing flooding rains that kill at least six. ](/news/2016/08/6/tropical-storm-earl-makes-its-final-landfall-near-veracruz-in-eastern-mexico-producing-flooding-rains-that-kill-at-least-six.md) _(Current version)_

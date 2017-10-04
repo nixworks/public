@@ -18,3 +18,9 @@ At least 12 Taliban fighters held for their alleged involvement in attack that k
 3. [ The Taliban's Students' Movement captures Buner District in Pakistan. ](/news/2009/04/23/the-taliban-s-students-movement-captures-buner-district-in-pakistan.md) _Context: Pakistan, TTP, War in North-West Pakistan_
 4. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan, War in North-West Pakistan_
 5. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: Pakistan, War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/war-in-north-west-pakistan-ppakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-la.md) _2017-05-25 03:43:34 (First version)_
+2. [War in North-West Pakistan: Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/war-in-north-west-pakistan-pakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-la.md) _2017-08-27 03:41:55 (Update)_
+2. [Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/pakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-last-year-s-school-massacre.md) _(Current version)_

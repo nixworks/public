@@ -19,3 +19,9 @@ Parts of Co Clare are on high flood alert because of increasing water levels in 
 3. [Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md) _Context: Cumbria_
 4. [At least 12 people are killed and 25 injured during shootings carried out by a taxi driver in the Whitehaven, Egremont and Seascale areas of west Cumbria, England. He is found dead, an apparent suicide, in Boot. ](/news/2010/06/2/at-least-12-people-are-killed-and-25-injured-during-shootings-carried-out-by-a-taxi-driver-in-the-whitehaven-egremont-and-seascale-areas-of.md) _Context: Cumbria_
 5. [ Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md) _Context: Cumbria_
+
+### Changes:
+
+1. [ Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for-a-missing-woman-swept-away-near-breco.md) _2017-08-25 03:26:26 (First version)_
+2. [ Flooding in Great Britain and Ireland: Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/flooding-in-great-britain-and-ireland-residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for.md) _2017-08-27 03:26:18 (Update)_
+2. [ Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for-a-missing-woman-swept-away-near-brecon.md) _(Current version)_

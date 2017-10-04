@@ -17,3 +17,9 @@
 3. [Gisela Mota Ocampo, mayor of Temixco in Mexico's Morelos state is assassinated by gunmen at her home, less than a day after taking office. Morelos Governor, Graco Ramirez, attributed Mota's killing to organized crime, without citing a particular drug cartel or gang. ](/news/2016/01/2/gisela-mota-ocampo-mayor-of-temixco-in-mexico-s-morelos-state-is-assassinated-by-gunmen-at-her-home-less-than-a-day-after-taking-office-m.md) _Context: List of politicians killed in the Mexican Drug War_
 4. [Mexican Drug War: Two state police officers and six other people are dead following a gunfight in the southern state of Guerrero between police and suspected kidnappers. ](/news/2015/04/30/mexican-drug-war-two-state-police-officers-and-six-other-people-are-dead-following-a-gunfight-in-the-southern-state-of-guerrero-between-pol.md) _Context: Guerrero_
 5. [Forensic specialists at the University of Innsbruck confirm the identity of the first of the 43 missing students in Guerrero. The remains were located at a municipal dump in Cocula, Guerrero. ](/news/2014/12/6/forensic-specialists-at-the-university-of-innsbruck-confirm-the-identity-of-the-first-of-the-43-missing-students-in-guerrero-the-remains-we.md) _Context: Guerrero_
+
+### Changes:
+
+1. [Mexican Drug War:Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/mexican-drug-war-parmed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md) _2017-08-25 03:36:13 (First version)_
+2. [Mexican Drug War:: Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/mexican-drug-war-armed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md) _2017-08-27 03:36:24 (Update)_
+2. [Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/armed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md) _(Current version)_

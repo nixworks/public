@@ -7,7 +7,7 @@ Officials said power and communications were cut in some areas, with weather ham
 The US ambassador to Qatar said Tuesday she is resigning her post in Doha amid the worst diplomatic crisis involving Washington’s Persian Gulf allies in years. &#8220;This month, I end my 3 years a…
 
 ### [After over a year in North Korean prison, the government releases the one-year comatose Otto Warmbier after negotiations from the United States Department of State. ](/news/2017/06/13/after-over-a-year-in-north-korean-prison-the-government-releases-the-one-year-comatose-otto-warmbier-after-negotiations-from-the-united-sta.md)
-_Context: North Korea, North Korea-United States relations, Otto Warmbier, U.S. State Department, coma_
+_Context: Department of State, North Korea, North Korea-United States relations, Otto Warmbier, coma_
 
 ### [A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. ](/news/2017/06/13/a-north-korean-soldier-crosses-the-korean-demilitarized-zone-dmz-and-defects-to-south-korea-the-first-since-september-2016.md)
 _Context: Korean Demilitarized Zone, North Korea, North Korean defectors, South Korea_

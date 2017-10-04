@@ -43,7 +43,7 @@ _Context: Iran, protests against the regime, re-election_
 Hundreds of mourners today protested at the funeral of an Egyptian woman who was murdered inside a German court in a crime that&hellip;
 
 ### [ Four Rio Tinto executives accused of espionage are detained by Chinese Authorities amid iron ore negotiations. ](/news/2009/07/8/four-rio-tinto-executives-accused-of-espionage-are-detained-by-chinese-authorities-amid-iron-ore-negotiations.md)
-_Context: Rio Tinto, espionage, iron ore_
+_Context: Rio Tinto, iron ore, spy_
 
 ### [ Two car bombs blow up in Mosul, the second of them killing at least nine people. ](/news/2009/07/8/two-car-bombs-blow-up-in-mosul-the-second-of-them-killing-at-least-nine-people.md)
 _Context: Mosul_

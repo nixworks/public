@@ -15,3 +15,8 @@ Resham Khan had celebrated her 21st birthday with her cousin when they were atta
 1. [Acid attacks around a mall and tube station in Stratford, East London, leaves 6 injured. A 15-year-old has been arrested. ](/news/2017/09/23/acid-attacks-around-a-mall-and-tube-station-in-stratford-east-london-leaves-6-injured-a-15-year-old-has-been-arrested.md) _Context: Acid attack, East London_
 2. [The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md) _Context: 2017 Beckton acid attack_
 3. [Five men in London are attacked with acid in five linked attacks. Two teenaged suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-linked-attacks-two-teenaged-suspects-are-taken-into-custody.md) _Context: Acid attack_
+
+### Changes:
+
+1. [2017 Beckton acid attack: Two people are injured in an acid attack in Beckton, east London. ](/news/2017/06/21/2017-beckton-acid-attack-two-people-are-injured-in-an-acid-attack-in-beckton-east-london.md) _2017-08-27 03:48:32 (First version)_
+1. [Two people are injured in an acid attack in Beckton, east London. ](/news/2017/06/21/two-people-are-injured-in-an-acid-attack-in-beckton-east-london.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo, Syrian Civil War_
 4. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo, Syrian Civil War_
 5. [The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuation-of-the-last-group-of-rebels-to-the-idlib-gover.md) _Context: Aleppo, Syrian Civil War_
+
+### Changes:
+
+1. [Syrian Civil War: A large explosion levels the Carlton Hotel in Aleppo which was used as a military base by the Army of Syria as well as several other buildings. ](/news/2014/05/8/syrian-civil-war-a-large-explosion-levels-the-carlton-hotel-in-aleppo-which-was-used-as-a-military-base-by-the-army-of-syria-as-well-as-sev.md) _2017-08-27 03:40:41 (First version)_
+1. [A large explosion levels the Carlton Hotel in Aleppo which was used as a military base by the Army of Syria as well as several other buildings. ](/news/2014/05/8/a-large-explosion-levels-the-carlton-hotel-in-aleppo-which-was-used-as-a-military-base-by-the-army-of-syria-as-well-as-several-other-buildin.md) _(Current version)_

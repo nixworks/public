@@ -17,3 +17,9 @@ Government troops fired tank shells and artillery in heavy clashes between Syria
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [Syrian civil war:Syria's opposition claims that 200 civilians are trapped in a mosque in a Damascus suburb while fighting rages outside. ](/news/2013/07/14/syrian-civil-war-psyria-s-opposition-claims-that-200-civilians-are-trapped-in-a-mosque-in-a-damascus-suburb-while-fighting-rages-outside.md) _2017-08-25 03:38:59 (First version)_
+2. [Syrian civil war:: Syria's opposition claims that 200 civilians are trapped in a mosque in a Damascus suburb while fighting rages outside. ](/news/2013/07/14/syrian-civil-war-syria-s-opposition-claims-that-200-civilians-are-trapped-in-a-mosque-in-a-damascus-suburb-while-fighting-rages-outside.md) _2017-08-27 03:39:15 (Update)_
+2. [Syria's opposition claims that 200 civilians are trapped in a mosque in a Damascus suburb while fighting rages outside. ](/news/2013/07/14/syria-s-opposition-claims-that-200-civilians-are-trapped-in-a-mosque-in-a-damascus-suburb-while-fighting-rages-outside.md) _(Current version)_

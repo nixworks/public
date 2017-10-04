@@ -13,7 +13,7 @@ After the blast, angry groups of young men roamed the city, setting fire to a ga
 _Context: Vladimir Putin_
 
 ### [ Shieik Abdul-Satar al-Bahadli, a senior aide to Muqtada al-Sadr, is offering a reward of 250,000 dinars (~&nbsp;USD 170) to any Iraqi who captures a British woman soldier; he says the captive will be kept as a concubine. ](/news/2004/05/7/shieik-abdul-satar-al-bahadli-a-senior-aide-to-muqtada-al-sadr-is-offering-a-reward-of-250-000-dinars-nbsp-usd-170-to-any-iraqi-who-c.md)
-_Context: Muqtada al-Sadr, Shieik Abdul-Satar al-Bahadli, US$, concubine, dinar_
+_Context: $, Muqtada al-Sadr, Shieik Abdul-Satar al-Bahadli, concubine, dinar_
 
 ### [ Chilean President Ricardo Lagos signs legislation legalizing divorce. ](/news/2004/05/7/chilean-president-ricardo-lagos-signs-legislation-legalizing-divorce.md)
 _Context: Chile, President, Ricardo Lagos_

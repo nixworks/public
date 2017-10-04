@@ -16,3 +16,8 @@
 3. [The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md) _Context: Royal Dutch Shell_
 4. [Shareholders of Royal Dutch Shell approve that company's acquisition of BG Group, a deal expected to close on February 15. ](/news/2016/01/27/shareholders-of-royal-dutch-shell-approve-that-company-s-acquisition-of-bg-group-a-deal-expected-to-close-on-february-15.md) _Context: Royal Dutch Shell_
 5. [The United States cancels two potential Arctic lease sales off Alaska's northern coast, and announces Shell and Statoil current leases will not be extended because of "current market conditions and low industry interest." ](/news/2015/10/17/the-united-states-cancels-two-potential-arctic-lease-sales-off-alaska-s-northern-coast-and-announces-shell-and-statoil-current-leases-will.md) _Context: Royal Dutch Shell_
+
+### Changes:
+
+1. [ Royal Dutch Shell breaks the record for the highest ever annual profit for a British company with a total of 13.12bn ](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-highest-ever-annual-profit-for-a-british-company-with-a-total-of-ps13-12bn.md) _2017-08-25 03:17:25 (First version)_
+1. [ Royal Dutch Shell breaks the record for the highest ever annual profit for a British company with a total of GBP13.12bn ](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-highest-ever-annual-profit-for-a-british-company-with-a-total-of-gbp13-12bn.md) _(Current version)_

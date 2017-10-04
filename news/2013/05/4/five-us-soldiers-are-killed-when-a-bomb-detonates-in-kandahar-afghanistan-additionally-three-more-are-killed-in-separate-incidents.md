@@ -17,3 +17,8 @@ Eight soldiers from the American-led military coalition were killed in Afghanist
 3. [A U.S. special forces service member is killed while taking part in an operation against ISIL militants in Afghanistan's eastern Nangarhar Province. ](/news/2017/04/8/a-u-s-special-forces-service-member-is-killed-while-taking-part-in-an-operation-against-isil-militants-in-afghanistan-s-eastern-nangarhar-p.md) _Context: Afghanistan, War in Afghanistan_
 4. [Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/taliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it-is-said-to-be-the-de.md) _Context: Afghanistan, War in Afghanistan_
 5. [At least 11 people are killed in a bombing in Kandahar, including five UAE diplomats. ](/news/2017/01/11/at-least-11-people-are-killed-in-a-bombing-in-kandahar-including-five-uae-diplomats.md) _Context: Kandahar, War in Afghanistan_
+
+### Changes:
+
+1. [War in Afghanistan: Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/war-in-afghanistan-five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separ.md) _2017-08-27 03:38:46 (First version)_
+1. [Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separate-incidents.md) _(Current version)_

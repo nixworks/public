@@ -17,3 +17,8 @@ A Saudi-led coalition resumes air strikes against Houthi rebels in Yemen after a
 3. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
 4. [Human rights activists accuse forces led by Saudi Arabia and the UAE of kidnapping and torturing people during the Yemeni conflict. ](/news/2017/06/9/human-rights-activists-accuse-forces-led-by-saudi-arabia-and-the-uae-of-kidnapping-and-torturing-people-during-the-yemeni-conflict.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen_
 5. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: The Saudi Arabia-led airstrikes against the Houthi rebels resume after a five-day ceasefire. ](/news/2015/05/18/saudi-arabian-led-intervention-in-yemen-the-saudi-arabia-led-airstrikes-against-the-houthi-rebels-resume-after-a-five-day-ceasefire.md) _2017-08-27 03:42:20 (First version)_
+1. [The Saudi Arabia-led airstrikes against the Houthi rebels resume after a five-day ceasefire. ](/news/2015/05/18/the-saudi-arabia-led-airstrikes-against-the-houthi-rebels-resume-after-a-five-day-ceasefire.md) _(Current version)_

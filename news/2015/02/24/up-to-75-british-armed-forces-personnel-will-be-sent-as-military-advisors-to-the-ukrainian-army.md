@@ -17,3 +17,8 @@ Up to 75 British military personnel will deploy to Ukraine next month to provide
 3. [Artillery shelling of Donetsk leaves at least one civilian dead while five Ukrainian Army soldiers are killed in heavy fighting. ](/news/2015/02/2/artillery-shelling-of-donetsk-leaves-at-least-one-civilian-dead-while-five-ukrainian-army-soldiers-are-killed-in-heavy-fighting.md) _Context: Ukrainian Army, War in Donbass_
 4. [During the ceasefire, fighting kills at least five Ukrainian Army soldiers with 22 injured. ](/news/2015/02/16/during-the-ceasefire-fighting-kills-at-least-five-ukrainian-army-soldiers-with-22-injured.md) _Context: Ukrainian Army, War in Donbass_
 5. [Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-eastern-ukraine-were.md) _Context: War in Donbass_
+
+### Changes:
+
+1. [War in Donbass: Up to 75 British Armed Forces personnel will be sent as military advisors to the Ukrainian Army. ](/news/2015/02/24/war-in-donbass-up-to-75-british-armed-forces-personnel-will-be-sent-as-military-advisors-to-the-ukrainian-army.md) _2017-08-27 03:42:00 (First version)_
+1. [Up to 75 British Armed Forces personnel will be sent as military advisors to the Ukrainian Army. ](/news/2015/02/24/up-to-75-british-armed-forces-personnel-will-be-sent-as-military-advisors-to-the-ukrainian-army.md) _(Current version)_

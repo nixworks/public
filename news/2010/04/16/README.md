@@ -56,7 +56,7 @@ _Context: 2010 BRIC summit, Brasilia_
 An anti-government protest leader has evaded arrest in Thailand by scaling down a hotel fa&ccedil;ade with a rope and escaping in a getaway car while &#034;Red Shirt&#034; supporters took two police officers hostage.
 
 ### [United States Secretary of State Hillary Clinton calls again on Israel and the Palestinians to make a better effort to pursue peace. ](/news/2010/04/16/united-states-secretary-of-state-hillary-clinton-calls-again-on-israel-and-the-palestinians-to-make-a-better-effort-to-pursue-peace.md)
-_Context: Hillary Clinton, Israel, State of Palestine, United States Secretary of State_
+_Context: Hillary Clinton, Israel, Secretary of State, State of Palestine_
 
 ### [Lady Gaga breaks a YouTube most viewed record, becoming "Queen of YouTube" with more than one billion views. ](/news/2010/04/16/lady-gaga-breaks-a-youtube-most-viewed-record-becoming-queen-of-youtube-with-more-than-one-billion-views.md)
 _Context: Lady Gaga, YouTube_

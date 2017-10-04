@@ -17,3 +17,8 @@
 3. [ A previously unrecognized painting, "La Bella Principessa", is attributed to Leonardo da Vinci on fingerprint evidence. ](/news/2009/10/13/a-previously-unrecognized-painting-la-bella-principessa-is-attributed-to-leonardo-da-vinci-on-fingerprint-evidence.md) _Context: Leonardo da Vinci_
 4. [ The world famous painting of Leonardo da Vinci, the Mona Lisa, is taken to its original location, the Salle des Etats, in the Louvre, Paris. ](/news/2005/04/6/the-world-famous-painting-of-leonardo-da-vinci-the-mona-lisa-is-taken-to-its-original-location-the-salle-des-etats-in-the-louvre-paris.md) _Context: Leonardo da Vinci_
 5. [ A painting by Leonardo da Vinci, the "Madonna with the Yarnwinder" is stolen from Drumlanrig Castle in Scotland, the home of the Duke of Buccleuch.](/news/2003/08/27/a-painting-by-leonardo-da-vinci-the-madonna-with-the-yarnwinder-is-stolen-from-drumlanrig-castle-in-scotland-the-home-of-the-duke-of-bu.md) _Context: Leonardo da Vinci_
+
+### Changes:
+
+1. [Five men accused of conspiring to extort PS4.25 million for the safe return of ''Madonna of the Yarnwinder'', an oil painting by Leonardo da Vinci, are cleared. ](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-aps4-25-million-for-the-safe-return-of-madonna-of-the-yarnwinder-an-oil-painting-by-leonardo-da.md) _2017-08-25 03:27:42 (First version)_
+1. [Five men accused of conspiring to extort GBP4.25 million for the safe return of "Madonna of the Yarnwinder", an oil painting by Leonardo da Vinci, are cleared. ](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-agbp4-25-million-for-the-safe-return-of-madonna-of-the-yarnwinder-an-oil-painting-by-leonardo-da.md) _(Current version)_

@@ -19,3 +19,9 @@ The Olympic torch arrives in Argentina with organisers desperate to avoid repeat
 3. [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md) _Context: European Parliament_
 4. [Antonio Tajani has been elected as new President of the European Parliament. ](/news/2017/01/17/antonio-tajani-has-been-elected-as-new-president-of-the-european-parliament.md) _Context: European Parliament_
 5. [Turkish President Recep Tayyip Erdogan threatens to open Turkey's borders to allow refugees and migrants to reach Europe after the European Parliament votes to temporarily freeze talks of Turkey's accession to the EU. ](/news/2016/11/25/turkish-president-recep-tayyip-erdoaan-threatens-to-open-turkey-s-borders-to-allow-refugees-and-migrants-to-reach-europe-after-the-european.md) _Context: European Parliament_
+
+### Changes:
+
+1. [ 2008 Summer Olympics: The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/2008-summer-olympics-p-the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md) _2017-08-25 03:22:02 (First version)_
+2. [ 2008 Summer Olympics:: The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/2008-summer-olympics-the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md) _2017-08-27 03:21:56 (Update)_
+2. [ The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md) _(Current version)_

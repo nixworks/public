@@ -7,7 +7,7 @@ _Context: Conflict in Iraq, Kuwait, Paris Club, Saudi Arabia_
 _Context: Hifikepunye Pohamba, Namibia, President of Namibia, Sam Nujoma, South-West Africa People's Organisation_
 
 ### [ U.S. Secretary of State Colin Powell arrives in Israel for talks with leaders of both sides of the conflict with an aim to restarting the stalled peace process. ](/news/2004/11/21/u-s-secretary-of-state-colin-powell-arrives-in-israel-for-talks-with-leaders-of-both-sides-of-the-conflict-with-an-aim-to-restarting-the-s.md)
-_Context: Colin Powell, Israel, United States Secretary of State_
+_Context: Colin Powell, Israel, Secretary of State_
 
 ### [ Ukraine holds the second vote in a run-off presidential election today. Voters will decide between Moscow-oriented Prime Minister Viktor Yanukovych and western-leaning reformer Viktor Yushchenko. Observers have expressed concern over possible Russian interference, election abuses, and bias in reporting by the state media. With 74% of vote counted, Yanukovych leads Yushchenko 49-48%. Yushchenko has alleged that massive election fraud has taken place. ](/news/2004/11/21/ukraine-holds-the-second-vote-in-a-run-off-presidential-election-today-voters-will-decide-between-moscow-oriented-prime-minister-viktor-ya.md)
 _Context: Ukraine, Ukrainian presidential election controversy, Viktor Yanukovych, Viktor Yushchenko, bias, media, second round_

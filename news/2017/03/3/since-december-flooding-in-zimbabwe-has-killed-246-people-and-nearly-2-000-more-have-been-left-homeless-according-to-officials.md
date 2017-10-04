@@ -16,3 +16,8 @@ Officials declare national disaster and appeal to international donors for $100m
 3. [The High Court of Zimbabwe overturns bans on protests in Harare. ](/news/2016/09/8/the-high-court-of-zimbabwe-overturns-bans-on-protests-in-harare.md) _Context: Zimbabwe_
 4. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Zimbabwe_
 5. [Zimbabwean authorities arrest dozens of protesters as anti-government protests spread across the country. ](/news/2016/07/7/zimbabwean-authorities-arrest-dozens-of-protesters-as-anti-government-protests-spread-across-the-country.md) _Context: Zimbabwe_
+
+### Changes:
+
+1. [2016-17 Zimbabwe floods: Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. ](/news/2017/03/3/2016-17-zimbabwe-floods-since-december-flooding-in-zimbabwe-has-killed-246-people-and-nearly-2-000-more-have-been-left-homeless-accordi.md) _2017-08-27 03:47:56 (First version)_
+1. [Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. ](/news/2017/03/3/since-december-flooding-in-zimbabwe-has-killed-246-people-and-nearly-2-000-more-have-been-left-homeless-according-to-officials.md) _(Current version)_

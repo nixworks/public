@@ -18,3 +18,9 @@
 3. [At least one person dies in Haiti from flooding caused by Hurricane Tomas, adding to the fourteen people who died in Saint Lucia. ](/news/2010/11/5/at-least-one-person-dies-in-haiti-from-flooding-caused-by-hurricane-tomas-adding-to-the-fourteen-people-who-died-in-saint-lucia.md) _Context: Tropical Storm Tomas_
 4. [Residents in Haiti and Jamaica are evacuated ahead of Tropical Storm Tomas. ](/news/2010/11/4/residents-in-haiti-and-jamaica-are-evacuated-ahead-of-tropical-storm-tomas.md) _Context: Tropical Storm Tomas_
 5. [At least 14 people are killed as Tropical Storm Tomas passes over Saint Lucia. ](/news/2010/11/2/at-least-14-people-are-killed-as-tropical-storm-tomas-passes-over-saint-lucia.md) _Context: Tropical Storm Tomas_
+
+### Changes:
+
+1. [2010 Atlantic hurricane season:The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/2010-atlantic-hurricane-season-pthe-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later-i.md) _2017-08-25 03:30:48 (First version)_
+2. [2010 Atlantic hurricane season:: The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/2010-atlantic-hurricane-season-the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later.md) _2017-08-27 03:30:54 (Update)_
+2. [The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later-in-the-week-expected-to-make-thin.md) _(Current version)_

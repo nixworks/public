@@ -17,3 +17,8 @@ At least 43,000 people have been displaced by the powerful earthquake that hit I
 3. [Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-in-aceh-on-accusation-of-illegal-homosexual-intercourse.md) _Context: Aceh, Indonesia_
 4. [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md) _Context: Aceh, Indonesia_
 5. [Thousands of demonstrators rally in Banda Aceh, the capital of Indonesia's Aceh province, in support of local leaders' bid to adopt a separatist flag as the staunchly Islamic province's official emblem. ](/news/2013/04/4/thousands-of-demonstrators-rally-in-banda-aceh-the-capital-of-indonesia-s-aceh-province-in-support-of-local-leaders-bid-to-adopt-a-separa.md) _Context: Aceh, Indonesia_
+
+### Changes:
+
+1. [2016 Aceh earthquake: At least 43,000 have been displaced by Wednesday's earthquake in the Indonesian province of Aceh. ](/news/2016/12/10/2016-aceh-earthquake-at-least-43-000-have-been-displaced-by-wednesday-s-earthquake-in-the-indonesian-province-of-aceh.md) _2017-08-27 03:47:25 (First version)_
+1. [At least 43,000 have been displaced by Wednesday's earthquake in the Indonesian province of Aceh. ](/news/2016/12/10/at-least-43-000-have-been-displaced-by-wednesday-s-earthquake-in-the-indonesian-province-of-aceh.md) _(Current version)_

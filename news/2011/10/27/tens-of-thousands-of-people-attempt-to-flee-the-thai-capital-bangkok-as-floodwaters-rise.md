@@ -18,3 +18,9 @@
 3. [Siam Commercial Bank reports eight people were killed and seven others injured in the basement of its Bangkok, Thailand, headquarters during an upgrade of the building's fire safety system Sunday evening. It appears that workers mistakenly activated a system that released pyrogen, a chemical that deprives a fire of oxygen. ](/news/2016/03/14/siam-commercial-bank-reports-eight-people-were-killed-and-seven-others-injured-in-the-basement-of-its-bangkok-thailand-headquarters-during.md) _Context: Bangkok, Thailand_
 4. [A bolide or meteor fireball explodes over the Thai city of Bangkok. ](/news/2015/09/7/a-bolide-or-meteor-fireball-explodes-over-the-thai-city-of-bangkok.md) _Context: Bangkok, Thailand_
 5. [Thai police seek a 10th suspect in deadly Bangkok bombing. ](/news/2015/09/5/thai-police-seek-a-10th-suspect-in-deadly-bangkok-bombing.md) _Context: Bangkok, Thailand_
+
+### Changes:
+
+1. [2011 Thailand floods:Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/2011-thailand-floods-ptens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md) _2017-08-25 03:34:23 (First version)_
+2. [2011 Thailand floods:: Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/2011-thailand-floods-tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md) _2017-08-27 03:34:32 (Update)_
+2. [Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md) _(Current version)_

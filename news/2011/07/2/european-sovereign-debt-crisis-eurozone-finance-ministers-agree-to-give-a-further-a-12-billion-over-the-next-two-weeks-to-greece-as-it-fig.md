@@ -18,3 +18,8 @@ Eurozone finance ministers agree to release a further 12bn euros of emergency ai
 3. [Eurozone finance ministers reject a request by Greece to extend debt negotiations past Tuesday's deadline. ](/news/2015/06/27/eurozone-finance-ministers-reject-a-request-by-greece-to-extend-debt-negotiations-past-tuesday-s-deadline.md) _Context: Eurozone, Greek_
 4. [Greece requests its partners in the eurozone for a six month loan program extension in an apparent compromise attempt; Germany has rejected the request. ](/news/2015/02/19/greece-requests-its-partners-in-the-eurozone-for-a-six-month-loan-program-extension-in-an-apparent-compromise-attempt-germany-has-rejected.md) _Context: Eurozone, Greek_
 5. [The eurozone will pay out of 43.7 billion euros in loans to Greece from December 13 for reducing Greece's debt. ](/news/2012/11/27/the-eurozone-will-pay-out-of-43-7-billion-euros-in-loans-to-greece-from-december-13-for-reducing-greece-s-debt.md) _Context: Eurozone, Greek_
+
+### Changes:
+
+1. [European sovereign debt crisis: Eurozone finance ministers agree to give a further -12 billion over the next two weeks to Greece as it fights bankruptcy. ](/news/2011/07/2/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-give-a-further-12-billion-over-the-next-two-weeks-to-greece-as-it-fig.md) _2017-08-27 03:33:47 (First version)_
+1. [European sovereign debt crisis: Eurozone finance ministers agree to give a further EUR12 billion over the next two weeks to Greece as it fights bankruptcy. ](/news/2011/07/2/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-give-a-further-a-12-billion-over-the-next-two-weeks-to-greece-as-it-fig.md) _(Current version)_

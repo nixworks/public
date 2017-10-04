@@ -16,3 +16,8 @@ A 21-year-old pregnant woman who sustained a severe head injury from the Davao C
 2. [In light of the attacks, the governments of Australia, Canada, Singapore, the United Kingdom, and the United States issue travel warnings against going to Mindanao, Philippines. ](/news/2016/09/4/in-light-of-the-attacks-the-governments-of-australia-canada-singapore-the-united-kingdom-and-the-united-states-issue-travel-warnings-ag.md) _Context: 2016 Davao City bombing_
 3. [The President of the Philippines Rodrigo Duterte declares a nationwide "state of lawlessness" after yesterday's bombing in Davao City that has killed at least 14 people. ](/news/2016/09/3/the-president-of-the-philippines-rodrigo-duterte-declares-a-nationwide-state-of-lawlessness-after-yesterday-s-bombing-in-davao-city-that-h.md) _Context: 2016 Davao City bombing_
 4. [An explosion at a night market in Davao City, Philippines, kills at least 14 people and injures 60. President of the Philippines and former Davao City mayor Rodrigo Duterte was in the city at the time. Abu Sayyaf have claimed responsibility for the attack. ](/news/2016/09/2/an-explosion-at-a-night-market-in-davao-city-philippines-kills-at-least-14-people-and-injures-60-president-of-the-philippines-and-former.md) _Context: 2016 Davao City bombing_
+
+### Changes:
+
+1. [2016 Davao City bombing: The death toll of the September 2 bombing rises to 15. ](/news/2016/09/14/2016-davao-city-bombing-the-death-toll-of-the-september-2-bombing-rises-to-15.md) _2017-08-27 03:46:51 (First version)_
+1. [The death toll of the September 2 bombing rises to 15. ](/news/2016/09/14/the-death-toll-of-the-september-2-bombing-rises-to-15.md) _(Current version)_

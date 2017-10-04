@@ -18,3 +18,9 @@
 3. [ Garry Kasparov, Russian chess champion and opposition activist, is arrested with over 100 others while attempting to hold a protest march in Moscow. ](/news/2007/04/14/garry-kasparov-russian-chess-champion-and-opposition-activist-is-arrested-with-over-100-others-while-attempting-to-hold-a-protest-march-i.md) _Context: Garry Kasparov_
 4. [ The former chess world champion Garry Kasparov announces he is going to retire from professional competitions ](/news/2005/03/11/the-former-chess-world-champion-garry-kasparov-announces-he-is-going-to-retire-from-professional-competitions.md) _Context: Garry Kasparov_
 5. [ The four-match chess contest between Garry Kasparov and X3D Fritz ends in a draw.](/news/2003/11/19/the-four-match-chess-contest-between-garry-kasparov-and-x3d-fritz-ends-in-a-draw.md) _Context: Garry Kasparov_
+
+### Changes:
+
+1. [ Russia protests of 2007: Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-protests-of-2007-p-russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md) _2017-08-25 03:21:28 (First version)_
+2. [ Russia protests of 2007:: Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-protests-of-2007-russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md) _2017-08-27 03:21:24 (Update)_
+2. [ Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md) _(Current version)_

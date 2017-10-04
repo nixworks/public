@@ -17,3 +17,8 @@ Funeral prayers in absentia for one of the Uri attackers, organized by LeT&rsquo
 3. [Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.md) _Context: 2016 Uri attack, Pakistan_
 4. [ Indian police accuse Pakistan's security and intelligence service, the ISI, of masterminding the Mumbai train bombings in July, carried out by militant group Lashkar-e-Taiba, which killed nearly 200 people. ](/news/2006/09/30/indian-police-accuse-pakistan-s-security-and-intelligence-service-the-isi-of-masterminding-the-mumbai-train-bombings-in-july-carried-out.md) _Context: Lashkar-e-Taiba, Pakistan_
 5. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan_
+
+### Changes:
+
+1. [2016 Uri attack: Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/2016-uri-attack-pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the.md) _2017-08-27 03:47:07 (First version)_
+1. [Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the-indian-state-of-j.md) _(Current version)_

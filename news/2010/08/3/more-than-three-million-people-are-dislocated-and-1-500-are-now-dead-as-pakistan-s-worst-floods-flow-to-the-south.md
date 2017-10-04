@@ -16,3 +16,9 @@ Pakistani rescue teams try to reach tens of thousands of people cut off by devas
 ### Related:
 
 1. [The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _Context: Pakistan's worst floods_
+
+### Changes:
+
+1. [2010 Khyber Pakhtunkhwa floods:More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. ](/news/2010/08/3/2010-khyber-pakhtunkhwa-floods-pmore-than-three-million-people-are-dislocated-and-1-500-are-now-dead-as-pakistan-s-worst-floods-flow-to-the.md) _2017-08-25 03:29:10 (First version)_
+2. [2010 Khyber Pakhtunkhwa floods:: More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. ](/news/2010/08/3/2010-khyber-pakhtunkhwa-floods-more-than-three-million-people-are-dislocated-and-1-500-are-now-dead-as-pakistan-s-worst-floods-flow-to-the.md) _2017-08-27 03:29:11 (Update)_
+2. [More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. ](/news/2010/08/3/more-than-three-million-people-are-dislocated-and-1-500-are-now-dead-as-pakistan-s-worst-floods-flow-to-the-south.md) _(Current version)_

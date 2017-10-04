@@ -17,3 +17,8 @@ The Islamic State militant group claims it was responsible for a car bomb that k
 3. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
 4. [A suicide bomber detonates a pick-up truck full of explosives at a busy street in northern Baghdad, killing at least nine people. ](/news/2017/02/15/a-suicide-bomber-detonates-a-pick-up-truck-full-of-explosives-at-a-busy-street-in-northern-baghdad-killing-at-least-nine-people.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
 5. [A pair of bomb blasts targeting a market in central Baghdad kills at least 27 people and injures over 50. ](/news/2016/12/31/a-pair-of-bomb-blasts-targeting-a-market-in-central-baghdad-kills-at-least-27-people-and-injures-over-50.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): At least four people are killed in a bombing attack on Baghdad. ](/news/2015/09/29/iraqi-civil-war-2014-present-at-least-four-people-are-killed-in-a-bombing-attack-on-baghdad.md) _2017-08-27 03:43:11 (First version)_
+1. [At least four people are killed in a bombing attack on Baghdad. ](/news/2015/09/29/at-least-four-people-are-killed-in-a-bombing-attack-on-baghdad.md) _(Current version)_

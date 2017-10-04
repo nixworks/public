@@ -17,3 +17,8 @@
 3. [At least 11 people are killed in a fire at a filling station in the Ghanaian capital Accra. ](/news/2015/06/3/at-least-11-people-are-killed-in-a-fire-at-a-filling-station-in-the-ghanaian-capital-accra.md) _Context: Accra, Ghana_
 4. [Health Ministers from the Economic Community of West African States will meet in Accra, Ghana to discuss the crisis. ](/news/2014/08/28/health-ministers-from-the-economic-community-of-west-african-states-will-meet-in-accra-ghana-to-discuss-the-crisis.md) _Context: Accra, Ghana_
 5. [An Allied Air cargo plane crashes into a minibus after overshooting the runway at Accra's Kotoka International Airport in Ghana killing at least twelve people. ](/news/2012/06/2/an-allied-air-cargo-plane-crashes-into-a-minibus-after-overshooting-the-runway-at-accra-s-kotoka-international-airport-in-ghana-killing-at-l.md) _Context: Accra, Ghana_
+
+### Changes:
+
+1. [2015 Accra explosion: The death toll from an explosion at a gasoline station on Wednesday in the Ghanaian capital Accra rises to over 200. ](/news/2015/06/5/2015-accra-explosion-the-death-toll-from-an-explosion-at-a-gasoline-station-on-wednesday-in-the-ghanaian-capital-accra-rises-to-over-200.md) _2017-08-27 03:42:28 (First version)_
+1. [The death toll from an explosion at a gasoline station on Wednesday in the Ghanaian capital Accra rises to over 200. ](/news/2015/06/5/the-death-toll-from-an-explosion-at-a-gasoline-station-on-wednesday-in-the-ghanaian-capital-accra-rises-to-over-200.md) _(Current version)_

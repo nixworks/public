@@ -16,3 +16,9 @@
 3. [Two gunmen kill three Pakistani Army soldiers near the city of Peshawar. ](/news/2016/09/18/two-gunmen-kill-three-pakistani-army-soldiers-near-the-city-of-peshawar.md) _Context: Peshawar_
 4. [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _Context: Peshawar_
 5. [ A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md) _Context: Peshawar_
+
+### Changes:
+
+1. [War in North-West Pakistan:At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/war-in-north-west-pakistan-pat-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md) _2017-08-25 03:40:00 (First version)_
+2. [War in North-West Pakistan:: At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/war-in-north-west-pakistan-at-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md) _2017-08-27 03:40:18 (Update)_
+2. [At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/at-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md) _(Current version)_

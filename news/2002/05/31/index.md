@@ -1,7 +1,7 @@
 ## [2002-05-31](/news/2002/05/31/index.md)
 
 ### [ The United States Department of State issues a travel warning advising all Americans except for essential diplomatic personnel (about 60,000 people) to leave India because "conditions along India's border with Pakistan and in the state of Jammu and Kashmir have deteriorated."](/news/2002/05/31/the-united-states-department-of-state-issues-a-travel-warning-advising-all-americans-except-for-essential-diplomatic-personnel-about-60-00.md)
-_Context: Jammu, Kashmir, Pakistan, U.S. State Department_
+_Context: Department of State, Jammu, Kashmir, Pakistan_
 
 ### [ The European Union ratifies the Kyoto Protocol treaty, and Japan stated they would shortly.](/news/2002/05/31/the-european-union-ratifies-the-kyoto-protocol-treaty-and-japan-stated-they-would-shortly.md)
 _Context: EU, Kyoto Protocol_

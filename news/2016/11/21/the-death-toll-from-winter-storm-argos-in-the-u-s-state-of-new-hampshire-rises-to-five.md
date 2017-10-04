@@ -17,3 +17,8 @@
 3. [Vermont Senator Bernie Sanders endorses Democratic Party rival Hillary Clinton for president at a rally in New Hampshire, effectively suspending his presidential campaign. ](/news/2016/07/12/vermont-senator-bernie-sanders-endorses-democratic-party-rival-hillary-clinton-for-president-at-a-rally-in-new-hampshire-effectively-suspen.md) _Context: New Hampshire_
 4. [The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md) _Context: New Hampshire_
 5. [Voters in the state of New Hampshire go to the polls for the first primary election in this year's presidential cycle. ](/news/2016/02/9/voters-in-the-state-of-new-hampshire-go-to-the-polls-for-the-first-primary-election-in-this-year-s-presidential-cycle.md) _Context: New Hampshire_
+
+### Changes:
+
+1. [2016-17 North American winter: The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/2016-17-north-american-winter-the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md) _2017-08-27 03:47:16 (First version)_
+1. [The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md) _(Current version)_

@@ -17,3 +17,8 @@ The United States said on Wednesday it had agreed with Russia to extend a cessat
 3. [The Syrian Observatory for Human Rights reports a car bomb has killed at least ten people in the city of Azaz, Aleppo Governorate. ](/news/2016/11/17/the-syrian-observatory-for-human-rights-reports-a-car-bomb-has-killed-at-least-ten-people-in-the-city-of-azaz-aleppo-governorate.md) _Context: Aleppo Governorate, Syrian Civil War_
 4. [Turkish-backed Free Syrian Army rebels seize control of the symbolic town of Dabiq, Aleppo Governorate, following clashes with ISIL militants. ](/news/2016/10/16/turkish-backed-free-syrian-army-rebels-seize-control-of-the-symbolic-town-of-dabiq-aleppo-governorate-following-clashes-with-isil-militant.md) _Context: Aleppo Governorate, Syrian Civil War_
 5. [Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md) _Context: Syrian Civil War, Syrian Government_
+
+### Changes:
+
+1. [Syrian Civil War: Dozens of people have died in heavy fighting between Syrian government and opposition forces in the western Aleppo Governorate. ](/news/2016/05/4/syrian-civil-war-dozens-of-people-have-died-in-heavy-fighting-between-syrian-government-and-opposition-forces-in-the-western-aleppo-governo.md) _2017-08-27 03:45:58 (First version)_
+1. [Dozens of people have died in heavy fighting between Syrian government and opposition forces in the western Aleppo Governorate. ](/news/2016/05/4/dozens-of-people-have-died-in-heavy-fighting-between-syrian-government-and-opposition-forces-in-the-western-aleppo-governorate.md) _(Current version)_

@@ -12,3 +12,8 @@
 3. [Stage and screen actor Sir Patrick Stewart, known for his role in "Star Trek", is knighted by the Queen at Buckingham Palace in England. ](/news/2010/06/2/stage-and-screen-actor-sir-patrick-stewart-known-for-his-role-in-star-trek-is-knighted-by-the-queen-at-buckingham-palace-in-england.md) _Context: Star Trek_
 4. [ The Australian Government announces plans to outlaw material such as films and books that advocate terrorism. ](/news/2007/04/13/the-australian-government-announces-plans-to-outlaw-material-such-as-films-and-books-that-advocate-terrorism.md) _Context: film_
 5. [ Several Imax cinemas in the US (in Texas, Georgia and the Carolinas) have chosen not to show the film "Volcanoes of the Deep Sea" in light of its reference to the theory of evolution. ](/news/2005/03/25/several-imax-cinemas-in-the-us-in-texas-georgia-and-the-carolinas-have-chosen-not-to-show-the-film-volcanoes-of-the-deep-sea-in-light.md) _Context: film_
+
+### Changes:
+
+1. [ James Doohan, the actor best known for playing Scotty on ''Star Trek: The Original Series'' and the first seven ''Star Trek'' films, dies at his home in Redmond, Washington.](/news/2005/07/20/james-doohan-the-actor-best-known-for-playing-scotty-on-star-trek-the-original-series-and-the-first-seven-star-trek-films-dies-a.md) _2017-08-25 03:16:33 (First version)_
+1. [ James Doohan, the actor best known for playing Scotty on "Star Trek: The Original Series" and the first seven "Star Trek" films, dies at his home in Redmond, Washington.](/news/2005/07/20/james-doohan-the-actor-best-known-for-playing-scotty-on-star-trek-the-original-series-and-the-first-seven-star-trek-films-dies-at-hi.md) _(Current version)_

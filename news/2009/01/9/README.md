@@ -19,7 +19,7 @@ _Context: Governor of Illinois, House of Representatives, Illinois, Rod Blagojev
 _Context: Costa Rica, earthquake, magnitude_
 
 ### [ The MV "Sirius Star", a supertanker seized in the world's largest hijacking, is released with 2000000 oilbbl of oil and all 25 crew members unharmed after a US$3 million ransom is paid. ](/news/2009/01/9/the-mv-sirius-star-a-supertanker-seized-in-the-world-s-largest-hijacking-is-released-with-2000000-oilbbl-of-oil-and-all-25-crew-members.md)
-_Context: ''Sirius Star'', MV, US$, oil, oil tanker, ransom_
+_Context: $, ''Sirius Star'', MV, oil, oil tanker, ransom_
 
 ## [Previous Day...](/news/2009/01/8/index.md)
 

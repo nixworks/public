@@ -17,3 +17,8 @@ It is the second kidnapping in the Philippine region in a week.
 3. [Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 4. [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 5. [Abu Sayyaf of the Philippines allegedly kidnap three Filipino fishermen from their trawler off the Malaysian state of Sabah on Borneo island. ](/news/2016/09/12/abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-on-borneo-island.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
+
+### Changes:
+
+1. [Moro conflict: Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/moro-conflict-six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _2017-08-27 03:47:13 (First version)_
+1. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _(Current version)_

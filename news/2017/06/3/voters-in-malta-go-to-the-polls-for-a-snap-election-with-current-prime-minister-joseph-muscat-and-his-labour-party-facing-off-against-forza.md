@@ -17,3 +17,8 @@
 3. [ Joseph Muscat becomes the leader of the Malta Labour Party, to become the opposition leader of Malta, to take the place of Charles Mangion, after the resignation of Alfred Sant. ](/news/2008/06/6/joseph-muscat-becomes-the-leader-of-the-malta-labour-party-to-become-the-opposition-leader-of-malta-to-take-the-place-of-charles-mangion.md) _Context: Joseph Muscat, Malta_
 4. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _Context: Malta_
 5. [The gigantic limestone natural arch Azure Window on the Maltese island of Gozo collapses due to a storm. ](/news/2017/03/8/the-gigantic-limestone-natural-arch-azure-window-on-the-maltese-island-of-gozo-collapses-due-to-a-storm.md) _Context: Malta_
+
+### Changes:
+
+1. [Maltese general election, 2017: Voters in Malta go to the polls for a snap election, with current Prime Minister Joseph Muscat and his Labour Party facing off against Forza Nazzjonali, led by Simon Busuttil. The election comes amid corruption allegations leveled against Muscat's associates. ](/news/2017/06/3/maltese-general-election-2017-voters-in-malta-go-to-the-polls-for-a-snap-election-with-current-prime-minister-joseph-muscat-and-his-labou.md) _2017-08-27 03:48:25 (First version)_
+1. [Voters in Malta go to the polls for a snap election, with current Prime Minister Joseph Muscat and his Labour Party facing off against Forza Nazzjonali, led by Simon Busuttil. The election comes amid corruption allegations leveled against Muscat's associates. ](/news/2017/06/3/voters-in-malta-go-to-the-polls-for-a-snap-election-with-current-prime-minister-joseph-muscat-and-his-labour-party-facing-off-against-forza.md) _(Current version)_

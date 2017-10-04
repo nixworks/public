@@ -18,3 +18,9 @@ Tens of thousands join mass civil disobedience over voting rights as authorities
 3. [Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100 km-h and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-and-heavy-rain-four-days-after-deadly-typhoon-hato-passed-t.md) _Context: Hong Kong_
 4. [Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md) _Context: Hong Kong_
 5. [Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _Context: Hong Kong_
+
+### Changes:
+
+1. [2014 Hong Kong protests:Benny Tai announces that Occupy Central is launched as Hong Kong's government headquarters is being occupied by thousands of protesters. ](/news/2014/09/28/2014-hong-kong-protests-pbenny-tai-announces-that-occupy-central-is-launched-as-hong-kong-s-government-headquarters-is-being-occupied-by-tho.md) _2017-08-25 03:41:02 (First version)_
+2. [2014 Hong Kong protests:: Benny Tai announces that Occupy Central is launched as Hong Kong's government headquarters is being occupied by thousands of protesters. ](/news/2014/09/28/2014-hong-kong-protests-benny-tai-announces-that-occupy-central-is-launched-as-hong-kong-s-government-headquarters-is-being-occupied-by-th.md) _2017-08-27 03:41:20 (Update)_
+2. [Benny Tai announces that Occupy Central is launched as Hong Kong's government headquarters is being occupied by thousands of protesters. ](/news/2014/09/28/benny-tai-announces-that-occupy-central-is-launched-as-hong-kong-s-government-headquarters-is-being-occupied-by-thousands-of-protesters.md) _(Current version)_

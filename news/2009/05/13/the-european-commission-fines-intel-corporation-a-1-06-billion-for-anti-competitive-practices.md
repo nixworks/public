@@ -16,3 +16,8 @@
 3. [ Microsoft is to be fined a record EUR497 million ($613 million) by the European Commission as punishment for abusing its Windows monopoly, according to reports ahead of a key meeting by EU Commissioners on Wednesday. ](/news/2004/03/22/microsoft-is-to-be-fined-a-record-a-497-million-613-million-by-the-european-commission-as-punishment-for-abusing-its-windows-monopoly.md) _Context: EUR, European Commission_
 4. [ The European Commission will not shy away from imposing fines on France if it continues to break Euro-rules, according to Economics Commissioner Pedro Solbes.](/news/2003/09/30/the-european-commission-will-not-shy-away-from-imposing-fines-on-france-if-it-continues-to-break-euro-rules-according-to-economics-commiss.md) _Context: EUR, European Commission_
 5. [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md) _Context: European Commission_
+
+### Changes:
+
+1. [ The European Commission fines Intel Corporation -1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-1-06-billion-for-anti-competitive-practices.md) _2017-08-27 03:24:24 (First version)_
+1. [ The European Commission fines Intel Corporation EUR1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-a-1-06-billion-for-anti-competitive-practices.md) _(Current version)_

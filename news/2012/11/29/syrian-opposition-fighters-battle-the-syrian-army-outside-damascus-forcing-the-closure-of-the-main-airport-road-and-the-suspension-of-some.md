@@ -19,3 +19,9 @@ Syrian rebels battled forces loyal to President Bashar al-Assad just outside Dam
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [Syrian civil war:Syrian opposition fighters battle the Syrian Army outside Damascus, forcing the closure of the main airport road, and the suspension of some flights. ](/news/2012/11/29/syrian-civil-war-psyrian-opposition-fighters-battle-the-syrian-army-outside-damascus-forcing-the-closure-of-the-main-airport-road-and-the.md) _2017-08-25 03:36:54 (First version)_
+2. [Syrian civil war:: Syrian opposition fighters battle the Syrian Army outside Damascus, forcing the closure of the main airport road, and the suspension of some flights. ](/news/2012/11/29/syrian-civil-war-syrian-opposition-fighters-battle-the-syrian-army-outside-damascus-forcing-the-closure-of-the-main-airport-road-and-the.md) _2017-08-27 03:37:04 (Update)_
+2. [Syrian opposition fighters battle the Syrian Army outside Damascus, forcing the closure of the main airport road, and the suspension of some flights. ](/news/2012/11/29/syrian-opposition-fighters-battle-the-syrian-army-outside-damascus-forcing-the-closure-of-the-main-airport-road-and-the-suspension-of-some.md) _(Current version)_

@@ -17,3 +17,8 @@ A suspected U.S. drone strike against Islamic State in Afghanistan killed at lea
 3. [The United States Air Force drops the GBU-43-B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield. ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md) _Context: Nangarhar Province, War in Afghanistan (2015-present)_
 4. [Fighting breaks out between ISIL militants and Afghan police in the Haska Mina District, Nangarhar Province, leaving six police officers and 15 militants dead, according to officials. ](/news/2016/06/11/fighting-breaks-out-between-isil-militants-and-afghan-police-in-the-haska-mina-district-nangarhar-province-leaving-six-police-officers-and.md) _Context: Nangarhar Province, War in Afghanistan (2015-present)_
 5. [A blast occurs at a mosque in a small village in the Nangarhar Province, killing four people and injuring nearly 40 more. ](/news/2016/06/10/a-blast-occurs-at-a-mosque-in-a-small-village-in-the-nangarhar-province-killing-four-people-and-injuring-nearly-40-more.md) _Context: Nangarhar Province, War in Afghanistan (2015-present)_
+
+### Changes:
+
+1. [War in Afghanistan (2015-present): A U.S. drone strike in Nangarhar Province kills at least 21 people. ](/news/2016/09/28/war-in-afghanistan-2015-present-a-u-s-drone-strike-in-nangarhar-province-kills-at-least-21-people.md) _2017-08-27 03:46:55 (First version)_
+1. [A U.S. drone strike in Nangarhar Province kills at least 21 people. ](/news/2016/09/28/a-u-s-drone-strike-in-nangarhar-province-kills-at-least-21-people.md) _(Current version)_

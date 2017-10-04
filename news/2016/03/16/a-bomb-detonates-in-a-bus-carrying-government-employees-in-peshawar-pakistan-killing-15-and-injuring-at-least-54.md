@@ -17,3 +17,8 @@ More than a dozen killed in attack on government workers in volatile city of Pes
 3. [At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. ](/news/2016/01/19/at-least-9-people-are-killed-and-35-injured-after-a-suicide-bomber-strikes-near-a-security-checkpoint-near-peshawar-pakistan.md) _Context: Pakistan, Peshawar, War in North-West Pakistan_
 4. [Pakistan lifts the moratorium on the death penalty for terror-related cases following the Taliban's assault on a school in Peshawar on Tuesday that killed 141, including 132 children. ](/news/2014/12/17/pakistan-lifts-the-moratorium-on-the-death-penalty-for-terror-related-cases-following-the-taliban-s-assault-on-a-school-in-peshawar-on-tuesd.md) _Context: Pakistan, Peshawar, War in North-West Pakistan_
 5. [ Two bombs kill eight people and injure 74 others in Peshawar, Pakistan. ](/news/2009/05/28/two-bombs-kill-eight-people-and-injure-74-others-in-peshawar-pakistan.md) _Context: Pakistan, Peshawar, War in North-West Pakistan_
+
+### Changes:
+
+1. [ War in North-West Pakistan: 2016 Peshawar bus bombing: A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/war-in-north-west-pakistan-2016-peshawar-bus-bombing-a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killi.md) _2017-08-27 03:45:16 (First version)_
+1. [ A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md) _(Current version)_

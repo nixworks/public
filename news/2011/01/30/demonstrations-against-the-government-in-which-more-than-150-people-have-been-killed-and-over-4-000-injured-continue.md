@@ -56,3 +56,9 @@ Al Jazeera English is available free-to-air through satellite and cable provider
 47. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/31/c_13714065.htm)
 48. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4020878,00.html)
 48. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/11/14/20131114162127164734_20.jpg)
+
+### Changes:
+
+1. [2011 Egyptian protests:Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/2011-egyptian-protests-pdemonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-contin.md) _2017-08-25 03:31:58 (First version)_
+2. [2011 Egyptian protests:: Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/2011-egyptian-protests-demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-conti.md) _2017-08-27 03:32:06 (Update)_
+2. [Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-continue.md) _(Current version)_

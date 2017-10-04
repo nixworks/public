@@ -18,3 +18,8 @@ Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last ni
 3. [MPs release a letter sent to News International in 2007 by former "News of the World" Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. ](/news/2011/08/16/mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-editor-clive-goodman-in-which-he-alleges-senior.md) _Context: News International, News of the World_
 4. [ In the United Kingdom, the "News of the World" newspaper's royal editor Clive Goodman pleads guilty to conspiring to intercept the voicemail messages of Princes William and Harry. ](/news/2006/11/29/in-the-united-kingdom-the-news-of-the-world-newspaper-s-royal-editor-clive-goodman-pleads-guilty-to-conspiring-to-intercept-the-voicemai.md) _Context: News of the World, United Kingdom_
 5. [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md) _Context: United Kingdom_
+
+### Changes:
+
+1. [News International: The final edition of the "News of the World" is published in the United Kingdom. ](/news/2011/07/10/news-international-the-final-edition-of-the-news-of-the-world-is-published-in-the-united-kingdom.md) _2017-08-27 03:33:51 (First version)_
+1. [The final edition of the "News of the World" is published in the United Kingdom. ](/news/2011/07/10/the-final-edition-of-the-news-of-the-world-is-published-in-the-united-kingdom.md) _(Current version)_

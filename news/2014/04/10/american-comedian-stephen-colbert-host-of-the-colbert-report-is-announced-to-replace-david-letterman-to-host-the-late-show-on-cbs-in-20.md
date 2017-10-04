@@ -17,3 +17,8 @@
 3. [The Primetime Emmy Awards is held in Los Angeles at the Microsoft Theater. Political satirist and "The Late Show" host Stephen Colbert hosts the event. ](/news/2017/09/17/the-primetime-emmy-awards-is-held-in-los-angeles-at-the-microsoft-theater-political-satirist-and-the-late-show-host-stephen-colbert-hosts.md) _Context: Stephen Colbert_
 4. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of "CBS Evening News". Pelley will remain with "CBS News" as a correspondent in "60 Minutes". ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs-ne.md) _Context: CBS_
 5. [Scottish-American comedian Craig Ferguson announces his departure from the CBS late-night talk show "The Late Late Show", effective December 2014. ](/news/2014/04/28/scottish-american-comedian-craig-ferguson-announces-his-departure-from-the-cbs-late-night-talk-show-the-late-late-show-effective-december.md) _Context: CBS_
+
+### Changes:
+
+1. [American comedian Stephen Colbert, host of ''The Colbert Report'' is announced to replace David Letterman to host the ''Late Show'' on CBS in 2015. ](/news/2014/04/10/american-comedian-stephen-colbert-host-of-the-colbert-report-is-announced-to-replace-david-letterman-to-host-the-late-show-on-cbs-i.md) _2017-08-25 03:40:16 (First version)_
+1. [American comedian Stephen Colbert, host of "The Colbert Report" is announced to replace David Letterman to host the "Late Show" on CBS in 2015. ](/news/2014/04/10/american-comedian-stephen-colbert-host-of-the-colbert-report-is-announced-to-replace-david-letterman-to-host-the-late-show-on-cbs-in-20.md) _(Current version)_

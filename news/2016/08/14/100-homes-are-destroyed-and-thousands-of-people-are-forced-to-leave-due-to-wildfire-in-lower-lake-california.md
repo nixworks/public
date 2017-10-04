@@ -17,3 +17,8 @@ Firefighters are battling to control a Northern California blaze that destroyed 
 3. [The town of Wrightwood, California, is evacuated due to threats from the Blue Cut Fire burning in the Cajon Pass. ](/news/2016/08/16/the-town-of-wrightwood-california-is-evacuated-due-to-threats-from-the-blue-cut-fire-burning-in-the-cajon-pass.md) _Context: 2016 California wildfires_
 4. [The deadly, nine-day old Soberanes Fire, blazing south of Carmel-by-the-Sea, has destroyed 57 homes and is expected to grow to 170,000 acres (265 square miles) before it's done. It is 15 percent contained. Six major Big Sur State Parks remain closed through August 6. ](/news/2016/07/30/the-deadly-nine-day-old-soberanes-fire-blazing-south-of-carmel-by-the-sea-has-destroyed-57-homes-and-is-expected-to-grow-to-170-000-acres.md) _Context: 2016 California wildfires_
 5. [ A state of emergency is declared in Los Angeles County, California, due to the threat posed by the Sand Fire. ](/news/2016/07/26/a-state-of-emergency-is-declared-in-los-angeles-county-california-due-to-the-threat-posed-by-the-sand-fire.md) _Context: 2016 California wildfires_
+
+### Changes:
+
+1. [2016 California wildfires: 100 homes are destroyed and thousands of people are forced to leave due to wildfire in Lower Lake, California. ](/news/2016/08/14/2016-california-wildfires-100-homes-are-destroyed-and-thousands-of-people-are-forced-to-leave-due-to-wildfire-in-lower-lake-california.md) _2017-08-27 03:46:39 (First version)_
+1. [100 homes are destroyed and thousands of people are forced to leave due to wildfire in Lower Lake, California. ](/news/2016/08/14/100-homes-are-destroyed-and-thousands-of-people-are-forced-to-leave-due-to-wildfire-in-lower-lake-california.md) _(Current version)_

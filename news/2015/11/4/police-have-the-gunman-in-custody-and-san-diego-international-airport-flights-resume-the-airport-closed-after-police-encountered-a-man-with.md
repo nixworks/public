@@ -11,3 +11,8 @@ San Diego police on Wednesday took into custody a gunman who had fired at office
 2. [Airfare Watchdog](http://www.airfarewatchdog.com/pages/11876890/)
 3. [Reuters](http://www.reuters.com/article/2015/11/04/us-california-shooting-idUSKCN0ST2Q020151104#TXv3KE9G2e77tXWD.97)
 3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151104&t=2&i=1092358169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA319V)
+
+### Changes:
+
+1. [Police have the gunman in custody and San Diego International Airport flights resume. The airport closed after police encountered a man with a gun shooting in a Bankers Hill apartment complex, east of the approach path to the airport. Also known as Lindbergh Field, the airport is frequently cited as one of the scariest because of its downtown location. ](/news/2015/11/4/police-have-the-gunman-in-custody-and-san-diego-international-airport-flights-resume-the-airport-closed-after-police-encountered-a-man.md) _2017-08-25 03:43:22 (First version)_
+1. [Police have the gunman in custody and San Diego International Airport flights resume. The airport closed after police encountered a man with a gun shooting in a Bankers Hill apartment complex, east of the approach path to the airport. Also known as Lindbergh Field, the airport is frequently cited as one of the scariest because of its downtown location. ](/news/2015/11/4/police-have-the-gunman-in-custody-and-san-diego-international-airport-flights-resume-the-airport-closed-after-police-encountered-a-man-with.md) _(Current version)_

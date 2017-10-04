@@ -18,3 +18,9 @@ Finland&amp;#039;s municipal elections are underway, as today Sunday, April 9 is
 3. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Finland_
 4. [Three women, the Imatra Town Council chairwoman and two local reporters, are shot dead outside a restaurant in Imatra, Finland, a town east of the capital, Helsinki. A 23-year-old suspect is apprehended by police. ](/news/2016/12/4/three-women-the-imatra-town-council-chairwoman-and-two-local-reporters-are-shot-dead-outside-a-restaurant-in-imatra-finland-a-town-east.md) _Context: Finland_
 5. [Avian flu virus H5N8 outbreaks are reported in birds in India, Germany, Finland, Ireland, the Netherlands, and several other European nations. The World Health Organization advised on 17 November that human infection is possible, but unlikely, based on information available. ](/news/2016/11/26/avian-flu-virus-h5n8-outbreaks-are-reported-in-birds-in-india-germany-finland-ireland-the-netherlands-and-several-other-european-nation.md) _Context: Finland_
+
+### Changes:
+
+1. [Finnish municipal elections, 2017 Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-pvoters-go-to-the-polls-for-municipal-elections-in-finland.md) _2017-05-25 03:50:21 (First version)_
+2. [Finnish municipal elections, 2017: Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-voters-go-to-the-polls-for-municipal-elections-in-finland.md) _2017-08-27 03:48:08 (Update)_
+2. [Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/voters-go-to-the-polls-for-municipal-elections-in-finland.md) _(Current version)_

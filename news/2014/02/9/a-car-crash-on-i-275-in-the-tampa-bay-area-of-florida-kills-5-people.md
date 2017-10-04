@@ -17,3 +17,8 @@ TAMPADozens of men and women gathered on the shoulder of Interstate 275 shortly 
 3. [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md) _Context: Florida_
 4. [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md) _Context: Florida_
 5. [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md) _Context: Florida_
+
+### Changes:
+
+1. [A car crash on the Pomona Freeway in Los Angeles, California, kills 6 people. ](/news/2014/02/9/a-car-crash-on-the-pomona-freeway-in-los-angeles-california-kills-6-people.md) _2017-10-03 03:43:34 (First version)_
+1. [A car crash on I-275 in the Tampa Bay Area of Florida kills 5 people. ](/news/2014/02/9/a-car-crash-on-i-275-in-the-tampa-bay-area-of-florida-kills-5-people.md) _(Current version)_

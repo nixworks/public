@@ -17,3 +17,8 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 3. [Seven Pakistani army soldiers and 19 Taliban fighters are killed in overnight fighting in North Waziristan near the Afghanistan border. ](/news/2015/06/8/seven-pakistani-army-soldiers-and-19-taliban-fighters-are-killed-in-overnight-fighting-in-north-waziristan-near-the-afghanistan-border.md) _Context: North Waziristan, War in North-West Pakistan_
 4. [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _Context: North Waziristan, War in North-West Pakistan_
 5. [American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _Context: North Waziristan, War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/war-in-north-west-pakistan-at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md) _2017-08-27 03:40:50 (First version)_
+1. [At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md) _(Current version)_

@@ -15,3 +15,9 @@ Israel sets a tax sanction on the Palestinian Authority in the latest retaliator
 
 1. [Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/israeliapalestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-of-m.md) _Context: Peace talks_
 2. [United Nations report says that Israeli settlements must be immediately withdrawn without preconditions, to comply with article 49 of the Fourth Geneva Convention. ](/news/2013/01/31/united-nations-report-says-that-israeli-settlements-must-be-immediately-withdrawn-without-preconditions-to-comply-with-article-49-of-the-fo.md) _Context: Fourth Geneva Convention_
+
+### Changes:
+
+1. [Palestinian-Israeli conflictThe Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/palestinian-israeli-conflictpthe-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-isra.md) _2017-08-25 03:40:16 (First version)_
+2. [Palestinian-Israeli conflict: The Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/palestinian-israeli-conflict-the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-isr.md) _2017-08-27 03:40:34 (Update)_
+2. [The Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-israel-responds-with-sanctions-p.md) _(Current version)_

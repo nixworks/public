@@ -16,3 +16,8 @@
 3. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _Context: War in Afghanistan_
 4. [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md) _Context: War in Afghanistan_
 5. [According to the Defense Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defense-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md) _Context: War in Afghanistan_
+
+### Changes:
+
+1. [War in Afghanistan: Gunmen kill at least thirteen people in an attack on three passing vehicles including a bus in Wardak province's Sayad Abad district. ](/news/2015/03/24/war-in-afghanistan-gunmen-kill-at-least-thirteen-people-in-an-attack-on-three-passing-vehicles-including-a-bus-in-wardak-province-s-sayad-a.md) _2017-08-27 03:42:07 (First version)_
+1. [Gunmen kill at least thirteen people in an attack on three passing vehicles including a bus in Wardak province's Sayad Abad district. ](/news/2015/03/24/gunmen-kill-at-least-thirteen-people-in-an-attack-on-three-passing-vehicles-including-a-bus-in-wardak-province-s-sayad-abad-district.md) _(Current version)_

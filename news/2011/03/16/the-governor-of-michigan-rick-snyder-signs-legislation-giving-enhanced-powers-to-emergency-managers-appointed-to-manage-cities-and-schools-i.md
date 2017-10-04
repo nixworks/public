@@ -17,3 +17,9 @@
 3. [Several trade unions in Turkey hold a one-day strike in response to the disaster. ](/news/2014/05/15/several-trade-unions-in-turkey-hold-a-one-day-strike-in-response-to-the-disaster.md) _Context: unionize_
 4. [Trade unions in Greece call a general strike in protest against continuing austerity measures. ](/news/2012/09/26/trade-unions-in-greece-call-a-general-strike-in-protest-against-continuing-austerity-measures.md) _Context: unionize_
 5. [Trade unions in India hold a strike over plans to open up supermarkets to international competition. ](/news/2012/09/20/trade-unions-in-india-hold-a-strike-over-plans-to-open-up-supermarkets-to-international-competition.md) _Context: unionize_
+
+### Changes:
+
+1. [Michigan protests:The Governor of Michigan Rick Snyder signs legislation giving enhanced powers to emergency managers appointed to manage cities and schools including the power to terminate union contracts. ](/news/2011/03/16/michigan-protests-pthe-governor-of-michigan-rick-snyder-signs-legislation-giving-enhanced-powers-to-emergency-managers-appointed-to-manage-c.md) _2017-08-25 03:32:33 (First version)_
+2. [Michigan protests:: The Governor of Michigan Rick Snyder signs legislation giving enhanced powers to emergency managers appointed to manage cities and schools including the power to terminate union contracts. ](/news/2011/03/16/michigan-protests-the-governor-of-michigan-rick-snyder-signs-legislation-giving-enhanced-powers-to-emergency-managers-appointed-to-manage.md) _2017-08-27 03:32:41 (Update)_
+2. [The Governor of Michigan Rick Snyder signs legislation giving enhanced powers to emergency managers appointed to manage cities and schools including the power to terminate union contracts. ](/news/2011/03/16/the-governor-of-michigan-rick-snyder-signs-legislation-giving-enhanced-powers-to-emergency-managers-appointed-to-manage-cities-and-schools-i.md) _(Current version)_

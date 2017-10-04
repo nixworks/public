@@ -16,3 +16,8 @@
 3. [Georgia accuses Russia of violating its sovereignty by placing border markers on the edge of the South Ossetia region, leaving part of an international oil pipeline in territory under Russian control. The area was the site of the Russo-Georgian war in 2008. ](/news/2015/07/13/georgia-accuses-russia-of-violating-its-sovereignty-by-placing-border-markers-on-the-edge-of-the-south-ossetia-region-leaving-part-of-an-in.md) _Context: Georgian, Russia_
 4. [The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/the-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed-by-russia.md) _Context: Georgian, Russia_
 5. [A senior Russian diplomat is gunned down in Sukhumi, the capital of Georgia's breakaway region of Abkhazia. ](/news/2013/09/9/a-senior-russian-diplomat-is-gunned-down-in-sukhumi-the-capital-of-georgia-s-breakaway-region-of-abkhazia.md) _Context: Georgian, Russia_
+
+### Changes:
+
+1. [ Post-Soviet Georgia holds the municipal elections seen as a crucial test for the country-s current government amid the ongoing tensions with Russia. ](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-elections-seen-as-a-crucial-test-for-the-country-s-current-government-amid-the-ongoing-tensions-w.md) _2017-08-27 03:18:26 (First version)_
+1. [ Post-Soviet Georgia holds the municipal elections seen as a crucial test for the country's current government amid the ongoing tensions with Russia. ](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-elections-seen-as-a-crucial-test-for-the-countryas-current-government-amid-the-ongoing-tensions-w.md) _(Current version)_

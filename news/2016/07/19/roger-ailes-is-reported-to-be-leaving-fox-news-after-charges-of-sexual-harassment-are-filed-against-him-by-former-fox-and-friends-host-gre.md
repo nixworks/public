@@ -17,3 +17,9 @@ Roger Ailes, who transformed Fox News Channel from a start-up into one of the na
 3. [21st Century Fox, the parent company of Fox News, settles a sexual harassment case by Gretchen Carlson for US$20 million. ](/news/2016/09/6/21st-century-fox-the-parent-company-of-fox-news-settles-a-sexual-harassment-case-by-gretchen-carlson-for-us-20-million.md) _Context: Gretchen Carlson, sexual harassment_
 4. [Sky UK stops broadcasting Fox News in the United Kingdom after 15 years due to low audience figures. ](/news/2017/08/29/sky-uk-stops-broadcasting-fox-news-in-the-united-kingdom-after-15-years-due-to-low-audience-figures.md) _Context: Fox News_
 5. [Fox News retracts their claims regarding the murder. ](/news/2017/05/24/fox-news-retracts-their-claims-regarding-the-murder.md) _Context: Fox News_
+
+### Changes:
+
+1. [Roger Ailes is reported to be leaving Fox News after charges of sexual harassment are filed against him by former ''Fox and Friends'' host Gretchen Carlson. ](/news/2016/07/19/roger-ailes-is-reported-to-be-leaving-fox-news-after-charges-of-sexual-harassment-are-filed-against-him-by-former-fox-and-friends-host-g.md) _2017-08-25 03:46:09 (First version)_
+2. [Fox News Channel controversies: Roger Ailes is reported to be leaving Fox News after charges of sexual harassment are filed against him by former "Fox and Friends" host Gretchen Carlson. ](/news/2016/07/19/fox-news-channel-controversies-roger-ailes-is-reported-to-be-leaving-fox-news-after-charges-of-sexual-harassment-are-filed-against-him-by-f.md) _2017-08-27 03:46:31 (Update)_
+2. [Roger Ailes is reported to be leaving Fox News after charges of sexual harassment are filed against him by former "Fox and Friends" host Gretchen Carlson. ](/news/2016/07/19/roger-ailes-is-reported-to-be-leaving-fox-news-after-charges-of-sexual-harassment-are-filed-against-him-by-former-fox-and-friends-host-gre.md) _(Current version)_

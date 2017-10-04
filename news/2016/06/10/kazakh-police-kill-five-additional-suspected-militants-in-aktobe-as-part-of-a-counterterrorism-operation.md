@@ -16,3 +16,8 @@
 3. [Three policemen and one civilian are killed in Almaty, Kazakhstan, in an attack on a police station by a radical Islamist. One gunman is reportedly still at large. ](/news/2016/07/18/three-policemen-and-one-civilian-are-killed-in-almaty-kazakhstan-in-an-attack-on-a-police-station-by-a-radical-islamist-one-gunman-is-rep.md) _Context: Kazakhstan, policemen_
 4. [Around 1,000 people stage a rare public protest in the Kazakh city of Atyrau, rallying against the government's decision to sell land in auctions amid a heavy police presence, though they did not forcibly disperse the rally. ](/news/2016/04/24/around-1-000-people-stage-a-rare-public-protest-in-the-kazakh-city-of-atyrau-rallying-against-the-government-s-decision-to-sell-land-in-auc.md) _Context: Kazakhstan, policemen_
 5. [A suicide bombing occurs in Aktobe, western Kazakhstan, injuring three people. ](/news/2011/05/17/a-suicide-bombing-occurs-in-aktobe-western-kazakhstan-injuring-three-people.md) _Context: Aktobe, Kazakhstan_
+
+### Changes:
+
+1. [2016 Aktobe shootings: Kazakh police kill five additional suspected militants in Aktobe as part of a "counterterrorism operation". ](/news/2016/06/10/2016-aktobe-shootings-kazakh-police-kill-five-additional-suspected-militants-in-aktobe-as-part-of-a-counterterrorism-operation.md) _2017-08-27 03:46:14 (First version)_
+1. [Kazakh police kill five additional suspected militants in Aktobe as part of a "counterterrorism operation". ](/news/2016/06/10/kazakh-police-kill-five-additional-suspected-militants-in-aktobe-as-part-of-a-counterterrorism-operation.md) _(Current version)_

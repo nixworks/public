@@ -19,3 +19,8 @@ What to do... what to do...
 3. [A Frenchman and his Algerian driver are kidnapped by armed men in Niger. ](/news/2010/04/23/a-frenchman-and-his-algerian-driver-are-kidnapped-by-armed-men-in-niger.md) _Context: Algeria, France_
 4. [At the NRJ Music Awards in Cannes, France, hip hop band Black Eyed Peas are mistakenly presented with an award for best international group which was intended for Tokio Hotel, while Rihanna falls off the stage during a live performance of "Russian Roulette". ](/news/2010/01/24/at-the-nrj-music-awards-in-cannes-france-hip-hop-band-black-eyed-peas-are-mistakenly-presented-with-an-award-for-best-international-group.md) _Context: Cannes, France_
 5. [ Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. ](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.md) _Context: Algeria, France_
+
+### Changes:
+
+1. [Hundreds of people protest in Cannes over ''Hors-la-loi'', a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-agains.md) _2017-08-25 03:27:58 (First version)_
+1. [Hundreds of people protest in Cannes over "Hors-la-loi", a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-against.md) _(Current version)_

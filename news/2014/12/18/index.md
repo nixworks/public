@@ -4,7 +4,7 @@
 Militants storm a remote village in north-eastern Nigeria, killing at least 33 people and kidnapping about 200, a survivor tells the BBC.
 
 ### [The price of Brent Crude oil rises to $61+ per barrel as companies cut upstream investments. ](/news/2014/12/18/the-price-of-brent-crude-oil-rises-to-61-per-barrel-as-companies-cut-upstream-investments.md)
-_Context: Brent Crude, US$_
+_Context: $, Brent Crude_
 
 ### [US clothing company Gap Inc. agrees to distribute their apparels to Chinese e-commerce company JD.com. ](/news/2014/12/18/us-clothing-company-gap-inc-agrees-to-distribute-their-apparels-to-chinese-e-commerce-company-jd-com.md)
 _Context: Gap Inc., JD.com_

@@ -17,3 +17,9 @@
 3. [ Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad-injuring-at-least-33.md) _Context: Baghdad, Iraq_
 4. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraq_
 5. [ At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state-of.md) _Context: Baghdad, Iraq_
+
+### Changes:
+
+1. [ War in Iraq: Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/war-in-iraq-p-employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md) _2017-08-25 03:21:09 (First version)_
+2. [ War in Iraq:: Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/war-in-iraq-employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md) _2017-08-27 03:21:04 (Update)_
+2. [ Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md) _(Current version)_

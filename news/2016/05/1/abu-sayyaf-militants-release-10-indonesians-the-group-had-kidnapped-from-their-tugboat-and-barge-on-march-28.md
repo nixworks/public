@@ -17,3 +17,8 @@
 3. [Philippine officials report four Indonesian sailors were kidnapped last night off the Philippines' southernmost town of Sitangkai, Tawi-Tawi, near Malaysia's Sabah state. Seven gunmen in a blue speedboat attacked two Indonesian-flagged tugboats. Six other sailors, including one who was shot, were not taken by ISIL-linked Abu Sayyaf militants. ](/news/2016/04/16/philippine-officials-report-four-indonesian-sailors-were-kidnapped-last-night-off-the-philippines-southernmost-town-of-sitangkai-tawi-tawi.md) _Context: Abu Sayyaf, Indonesia, Moro conflict_
 4. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Abu Sayyaf, Moro conflict_
 5. [Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict_
+
+### Changes:
+
+1. [Moro conflict: Abu Sayyaf militants release 10 Indonesians the group had kidnapped from their tugboat and barge on March 28. ](/news/2016/05/1/moro-conflict-abu-sayyaf-militants-release-10-indonesians-the-group-had-kidnapped-from-their-tugboat-and-barge-on-march-28.md) _2017-08-27 03:45:56 (First version)_
+1. [Abu Sayyaf militants release 10 Indonesians the group had kidnapped from their tugboat and barge on March 28. ](/news/2016/05/1/abu-sayyaf-militants-release-10-indonesians-the-group-had-kidnapped-from-their-tugboat-and-barge-on-march-28.md) _(Current version)_

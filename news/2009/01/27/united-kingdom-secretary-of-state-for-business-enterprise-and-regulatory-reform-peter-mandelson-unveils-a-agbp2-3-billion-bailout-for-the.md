@@ -16,3 +16,8 @@
 3. [ The Bank of England plans to create GBP75 billion for the United Kingdom's economy through quantitative easing. ](/news/2009/03/5/the-bank-of-england-plans-to-create-gbp75-billion-for-the-united-kingdom-s-economy-through-quantitative-easing.md) _Context: GBP, United Kingdom_
 4. [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a GBP400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-agbp400-000-bribe-from-italian-prime-minister-silv.md) _Context: GBP, United Kingdom_
 5. [ Nike agrees to buy United Kingdom sportswear firm Umbro for GBP285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-agbp285-million.md) _Context: GBP, United Kingdom_
+
+### Changes:
+
+1. [ United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson unveils a PS2.3-billion bailout for the British motor industry. ](/news/2009/01/27/united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mandelson-unveils-a-aps2-3-billion-bailout-for-the-br.md) _2017-08-25 03:23:34 (First version)_
+1. [ United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson unveils a GBP2.3-billion bailout for the British motor industry. ](/news/2009/01/27/united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mandelson-unveils-a-agbp2-3-billion-bailout-for-the.md) _(Current version)_

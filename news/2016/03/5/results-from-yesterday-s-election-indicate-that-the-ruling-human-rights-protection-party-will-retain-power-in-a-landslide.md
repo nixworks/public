@@ -14,3 +14,8 @@ Preliminary results from Samoa&#039;s general election show the ruling party is 
 
 1. [Voters in Samoa go to the polls for a general election. ](/news/2016/03/4/voters-in-samoa-go-to-the-polls-for-a-general-election.md) _Context: Samoan general election, 2016_
 2. [ The Human Rights Protection Party wins Samoa's general election. The HRPP was already the ruling party, and its leader Tuila'epa Sailele Malielegaoi the Prime Minister, but the party did better in the election than polls had indicated. ](/news/2006/04/2/the-human-rights-protection-party-wins-samoa-s-general-election-the-hrpp-was-already-the-ruling-party-and-its-leader-tuila-epa-sailele-ma.md) _Context: Human Rights Protection Party_
+
+### Changes:
+
+1. [Samoan general election, 2016: Results from yesterday's election indicate that the ruling Human Rights Protection Party will retain power in a landslide. ](/news/2016/03/5/samoan-general-election-2016-results-from-yesterday-s-election-indicate-that-the-ruling-human-rights-protection-party-will-retain-power-in.md) _2017-08-27 03:45:08 (First version)_
+1. [Results from yesterday's election indicate that the ruling Human Rights Protection Party will retain power in a landslide. ](/news/2016/03/5/results-from-yesterday-s-election-indicate-that-the-ruling-human-rights-protection-party-will-retain-power-in-a-landslide.md) _(Current version)_

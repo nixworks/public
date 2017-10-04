@@ -12,3 +12,8 @@
 3. [Four people are killed and 18 injured after a bus bombing in the Philippine capital Manila. ](/news/2011/01/25/four-people-are-killed-and-18-injured-after-a-bus-bombing-in-the-philippine-capital-manila.md) _Context: Metro Manila, Philippines_
 4. [ At least 10 people are dead in Metro Manila after Tropical Storm Ketsana hits the northern Philippines. ](/news/2009/09/26/at-least-10-people-are-dead-in-metro-manila-after-tropical-storm-ketsana-hits-the-northern-philippines.md) _Context: Metro Manila, Philippines_
 5. [ A stampede at a sports stadium in Pasig City, Metro Manila, Philippines, kills 73 and injures more than 320, mostly women. Tens of thousands of people had gathered to watch the anniversary presentation of the popular ABS-CBN early afternoon TV gameshow, "Wowowee". ](/news/2006/02/4/a-stampede-at-a-sports-stadium-in-pasig-city-metro-manila-philippines-kills-73-and-injures-more-than-320-mostly-women-tens-of-thousand.md) _Context: Metro Manila, Philippines_
+
+### Changes:
+
+1. [Rizal Day Bombings: A series of bombs explode in various places in Metro Manila, Philippines, within a span of a few hours killing 22 and injuring about a hundred.](/news/2000/12/30/rizal-day-bombings-a-series-of-bombs-explode-in-various-places-in-metro-manila-philippines-within-a-span-of-a-few-hours-killing-22-and-in.md) _2017-08-27 03:15:09 (First version)_
+1. [A series of bombs explode in various places in Metro Manila, Philippines, within a span of a few hours killing 22 and injuring about a hundred.](/news/2000/12/30/a-series-of-bombs-explode-in-various-places-in-metro-manila-philippines-within-a-span-of-a-few-hours-killing-22-and-injuring-about-a-hundr.md) _(Current version)_

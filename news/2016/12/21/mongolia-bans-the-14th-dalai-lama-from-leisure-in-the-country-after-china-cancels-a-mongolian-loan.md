@@ -18,3 +18,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 3. [China describes Tibetan monks that have self-immolated as "criminals" and accuses the Dalai Lama of supporting the acts. ](/news/2012/03/7/china-describes-tibetan-monks-that-have-self-immolated-as-criminals-and-accuses-the-dalai-lama-of-supporting-the-acts.md) _Context: 14th Dalai Lama, China_
 4. [ A total solar eclipse is visible from northern Canada (Nunavut), Greenland, central Russia, eastern Kazakhstan, western Mongolia and China. ](/news/2008/08/1/a-total-solar-eclipse-is-visible-from-northern-canada-nunavut-greenland-central-russia-eastern-kazakhstan-western-mongolia-and-china.md) _Context: China, Mongolia_
 5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
+
+### Changes:
+
+1. [ China-Mongolia relations: Mongolia bans the 14th Dalai Lama from leisure in the country after China cancels a Mongolian loan. ](/news/2016/12/21/china-mongolia-relations-mongolia-bans-the-14th-dalai-lama-from-leisure-in-the-country-after-china-cancels-a-mongolian-loan.md) _2017-08-27 03:47:29 (First version)_
+1. [Mongolia bans the 14th Dalai Lama from leisure in the country after China cancels a Mongolian loan. ](/news/2016/12/21/mongolia-bans-the-14th-dalai-lama-from-leisure-in-the-country-after-china-cancels-a-mongolian-loan.md) _(Current version)_

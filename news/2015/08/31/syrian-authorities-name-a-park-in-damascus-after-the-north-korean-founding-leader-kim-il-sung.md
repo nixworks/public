@@ -17,3 +17,9 @@
 3. [Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _Context: Damascus, Syria_
 4. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Damascus, Syria_
 5. [North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country's founder Kim Il-sung, according to South Korea's Yonhap news agency. ](/news/2016/04/14/north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibly-preparing-for-launch-on-or-around-friday-t.md) _Context: Kim Il-sung, North Korea_
+
+### Changes:
+
+1. [Syria-North Korea relationsSyrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syriaanorth-korea-relationspsyrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md) _2017-08-25 03:42:39 (First version)_
+2. [Syria-North Korea relations: Syrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syria-north-korea-relations-syrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md) _2017-08-27 03:42:56 (Update)_
+2. [Syrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md) _(Current version)_

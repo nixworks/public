@@ -17,3 +17,8 @@ Tropical storm Fung-Wong churns towards Taiwan after killing at least five peopl
 3. [A measles outbreak from the Philippines has spread into Australia, Canada, Taiwan, and the United Kingdom. ](/news/2014/02/12/a-measles-outbreak-from-the-philippines-has-spread-into-australia-canada-taiwan-and-the-united-kingdom.md) _Context: Philippines, Taiwan_
 4. [Taiwan demands an apology from the Philippines related to an incident where a Taiwanese fisherman died after a Philippine Coast Guard intercepted his fishing vessel in the disputed waters of the Bashi Channel. ](/news/2013/05/10/taiwan-demands-an-apology-from-the-philippines-related-to-an-incident-where-a-taiwanese-fisherman-died-after-a-philippine-coast-guard-interc.md) _Context: Philippines, Taiwan_
 5. [Typhoon Nanmadol hits Taiwan after killing 11 people in the Philippines. ](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.md) _Context: Philippines, Taiwan_
+
+### Changes:
+
+1. [Tropical Storm Fung-wong (2014): Tropical Storm Fung-wong heads towards Taiwan after leaving five people dead and 200,000 displaced in the Philippines. ](/news/2014/09/20/tropical-storm-fung-wong-2014-tropical-storm-fung-wong-heads-towards-taiwan-after-leaving-five-people-dead-and-200-000-displaced-in-the-p.md) _2017-08-27 03:41:18 (First version)_
+1. [Tropical Storm Fung-wong heads towards Taiwan after leaving five people dead and 200,000 displaced in the Philippines. ](/news/2014/09/20/tropical-storm-fung-wong-heads-towards-taiwan-after-leaving-five-people-dead-and-200-000-displaced-in-the-philippines.md) _(Current version)_

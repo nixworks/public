@@ -15,3 +15,8 @@ Two Irish citizens, three British passport holders and a Spaniard have been kill
 ### Related:
 
 1. [The first investigation into yesterday's plane crash at Cork Airport is expected within a month; the airport remains closed today. ](/news/2011/02/11/the-first-investigation-into-yesterday-s-plane-crash-at-cork-airport-is-expected-within-a-month-the-airport-remains-closed-today.md) _Context: Cork Airport_
+
+### Changes:
+
+1. [A Manx2 flight from Belfast to Cork crashes on landing, killing six and injuring at least another six. It is the deadliest in Irish aviation since 1968. ](/news/2011/02/10/a-manx2-flight-from-belfast-to-cork-crashes-on-landing-killing-six-and-injuring-at-least-another-six-it-is-the-deadliest-in-irish-aviatio.md) _2017-08-25 03:32:07 (First version)_
+1. [A Manx2 flight from Belfast to Cork crashes on landing, killing six and injuring at least another six. It is the deadliest in Irish aviation since 1968. ](/news/2011/02/10/a-manx2-flight-from-belfast-to-cork-crashes-on-landing-killing-six-and-injuring-at-least-another-six-it-is-the-deadliest-in-irish-aviation.md) _(Current version)_

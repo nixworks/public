@@ -17,3 +17,9 @@
 3. [Bahrain's public prosecution charges seven police officers with torturing Shia medics to obtain confessions during the ongoing Bahraini uprising. ](/news/2012/09/18/bahrain-s-public-prosecution-charges-seven-police-officers-with-torturing-shia-medics-to-obtain-confessions-during-the-ongoing-bahraini-upri.md) _Context: Bahrain, Shi'ite_
 4. [4 Shia Muslim activists are arrested in Bahrain. ](/news/2010/08/15/4-shia-muslim-activists-are-arrested-in-bahrain.md) _Context: Bahrain, Shi'ite_
 5. [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md) _Context: Bahrain_
+
+### Changes:
+
+1. [Bahraini uprising:Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/bahraini-uprising-pfour-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-attac.md) _2017-08-25 03:35:28 (First version)_
+2. [Bahraini uprising:: Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/bahraini-uprising-four-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-atta.md) _2017-08-27 03:35:37 (Update)_
+2. [Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/four-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-attack.md) _(Current version)_

@@ -47,7 +47,7 @@ _Context: Jeffrey Feltman, Zine El Abidine Ben Ali, demonstrations that toppled 
 _Context: African Union, Alassane Ouattara, Ivory Coast, Laurent Gbagbo_
 
 ### [The United States describes the Israeli commission of inquiry into the May 2010 Gaza flotilla raid as "an independent report, credible and impartial and transparent", but says the "primary forum" for examining the event was the international committee operating under the auspices of UN Secretary-General Ban Ki-moon. ](/news/2011/01/25/the-united-states-describes-the-israeli-commission-of-inquiry-into-the-may-2010-gaza-flotilla-raid-as-an-independent-report-credible-and-i.md)
-_Context: Ban Ki-moon, Gaza flotilla raid, Israel's report, U.S. State Department, UN Secretary General_
+_Context: Ban Ki-moon, Department of State, Gaza flotilla raid, Israel's report, UN Secretary General_
 
 ### [A U.S. judge sentences Ahmed Ghailani, the first Guantanamo detainee to have a civilian trial in America, to life imprisonment for conspiracy to destroy government buildings. He was found "not guilty" of 285 other charges filed against him, including 200 counts of murder and dozens of other charges. ](/news/2011/01/25/a-u-s-judge-sentences-ahmed-ghailani-the-first-guantanamo-detainee-to-have-a-civilian-trial-in-america-to-life-imprisonment-for-conspirac.md)
 The only Guantanamo detainee tried in a US civilian court is given a life sentence for his part in US embassy bombings.

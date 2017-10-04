@@ -17,3 +17,9 @@ An explosion at a Shia mosque in the Afghan city of Herat kills at least 20 peop
 3. [At least 18 people are killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/at-least-18-people-are-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2015-present)_
 4. [A Taliban raid kills at least 20 Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-20-afghan-police-officers-in-southern-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2015-present)_
 5. [Two U.S. service members are killed and a third is injured during a raid against ISIL militants in Afghanistan's Nangarhar Province. ](/news/2017/04/27/two-u-s-service-members-are-killed-and-a-third-is-injured-during-a-raid-against-isil-militants-in-afghanistan-s-nangarhar-province.md) _Context: Afghanistan, War in Afghanistan (2015-present)_
+
+### Changes:
+
+1. [An explosion kills at least 20 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-20-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _2017-08-01 22:30:05 (First version)_
+2. [War in Afghanistan (2015-present): An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/war-in-afghanistan-2015-present-an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _2017-08-27 03:48:45 (Update)_
+2. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _(Current version)_

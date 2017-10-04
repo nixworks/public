@@ -23,3 +23,9 @@ Taoiseach Brian Cowen has confirmed that a major financial assistance plan for I
 3. [ Irish Finance Minister Brian Lenihan announces an emergency budget. ](/news/2009/04/7/irish-finance-minister-brian-lenihan-announces-an-emergency-budget.md) _Context: Brian Lenihan Jnr, Finance Minister_
 4. [The United States Congress refuses to offer a bailout to Puerto Rico. ](/news/2015/07/9/the-united-states-congress-refuses-to-offer-a-bailout-to-puerto-rico.md) _Context: bailout_
 5. [Greece has formally requested a new bailout loan from the International Monetary Fund. ](/news/2015/07/24/greece-has-formally-requested-a-new-bailout-loan-from-the-international-monetary-fund.md) _Context: bailout_
+
+### Changes:
+
+1. [Irish Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _2017-08-25 03:31:07 (First version)_
+2. [Irish financial crisis: Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-financial-crisis-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _2017-08-27 03:31:14 (Update)_
+2. [Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _(Current version)_

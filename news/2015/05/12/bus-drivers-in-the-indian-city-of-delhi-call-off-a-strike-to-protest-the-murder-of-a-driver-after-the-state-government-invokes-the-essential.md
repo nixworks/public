@@ -17,3 +17,8 @@ Drivers of the Delhi Transport Cooperation (DTC) today called off their strike p
 3. [Jat protesters shut down 70% of Delhi's water supply meaning the Indian city could run out of water by the end of the weekend. At least nine people are killed in fighting. ](/news/2016/02/20/jat-protesters-shut-down-70-of-delhi-s-water-supply-meaning-the-indian-city-could-run-out-of-water-by-the-end-of-the-weekend-at-least-nine.md) _Context: Delhi, India_
 4. [Fourteen people have died of dengue fever in the Indian city of Delhi. ](/news/2015/09/17/fourteen-people-have-died-of-dengue-fever-in-the-indian-city-of-delhi.md) _Context: Delhi, India_
 5. [A Delhi magistrate orders an inquiry into the death of Sunanda Pushkar, the wife of Indian cabinet minister Shashi Tharoor. ](/news/2014/01/22/a-delhi-magistrate-orders-an-inquiry-into-the-death-of-sunanda-pushkar-the-wife-of-indian-cabinet-minister-shashi-tharoor.md) _Context: Delhi, India_
+
+### Changes:
+
+1. [Bus drivers in the Indian city of Delhi call off a strike to protest the murder of a driver after the state government invokes the Essential Services Maintenance Act (ESMA). ](/news/2015/05/12/bus-drivers-in-the-indian-city-of-delhi-call-off-a-strike-to-protest-the-murder-of-a-driver-after-the-state-government-invokes-the-essenti.md) _2017-08-25 03:42:00 (First version)_
+1. [Bus drivers in the Indian city of Delhi call off a strike to protest the murder of a driver after the state government invokes the Essential Services Maintenance Act (ESMA). ](/news/2015/05/12/bus-drivers-in-the-indian-city-of-delhi-call-off-a-strike-to-protest-the-murder-of-a-driver-after-the-state-government-invokes-the-essential.md) _(Current version)_

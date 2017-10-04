@@ -10,7 +10,7 @@ _Context: Madeleine McCann_
 _Context: 2008 Summer Olympics, Aaron Peirsol, Natalie Coughlin, backstroke, world record_
 
 ### [ A jury orders pharmaceutical companies GlaxoSmithKline and Novartis to pay $114 million in compensation to the Government of Alabama for overcharging for Medicaid prescription drugs. ](/news/2008/07/1/a-jury-orders-pharmaceutical-companies-glaxosmithkline-and-novartis-to-pay-114-million-in-compensation-to-the-government-of-alabama-for-ov.md)
-_Context: Glaxosmithkline, Government of Alabama, Medicaid, Novartis, US$, pharmaceutical companies_
+_Context: $, Glaxosmithkline, Government of Alabama, Medicaid, Novartis, pharmaceutical companies_
 
 ### [ Starbucks announces that it will close 600 underperforming coffee shops in the United States. ](/news/2008/07/1/starbucks-announces-that-it-will-close-600-underperforming-coffee-shops-in-the-united-states.md)
 _Context: Americans, Starbucks, coffee shop_

@@ -16,3 +16,9 @@
 3. [Police fire rubber bullets to disperse rioting garment workers as protests spread beyond the capital Dhaka to other Bangladeshi cities. ](/news/2010/07/31/police-fire-rubber-bullets-to-disperse-rioting-garment-workers-as-protests-spread-beyond-the-capital-dhaka-to-other-bangladeshi-cities.md) _Context: Bangladesh, police officers_
 4. [ The Bangladesh Police arrest 31 suspected Hizb ut-Tahrir members for planning terrorism. ](/news/2009/04/17/the-bangladesh-police-arrest-31-suspected-hizb-ut-tahrir-members-for-planning-terrorism.md) _Context: Bangladesh, police officers_
 5. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: Bangladesh_
+
+### Changes:
+
+1. [2013 Bangladesh protests:At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/2013-bangladesh-protests-pat-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md) _2017-08-25 03:37:35 (First version)_
+2. [2013 Bangladesh protests:: At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/2013-bangladesh-protests-at-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md) _2017-08-27 03:37:46 (Update)_
+2. [At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/at-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md) _(Current version)_

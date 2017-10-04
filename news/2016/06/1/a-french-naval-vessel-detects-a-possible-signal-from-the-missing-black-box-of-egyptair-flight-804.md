@@ -17,3 +17,8 @@
 3. [The second flight recorder from the wreckage of ill-fated EgyptAir Flight 804 is recovered from the crash site in the Mediterranean Sea. ](/news/2016/06/17/the-second-flight-recorder-from-the-wreckage-of-ill-fated-egyptair-flight-804-is-recovered-from-the-crash-site-in-the-mediterranean-sea.md) _Context: EgyptAir Flight 804_
 4. [A deep sea search vessel discovers the wreckage of the lost aircraft in the Mediterranean Sea. ](/news/2016/06/15/a-deep-sea-search-vessel-discovers-the-wreckage-of-the-lost-aircraft-in-the-mediterranean-sea.md) _Context: EgyptAir Flight 804_
 5. [Reports claim that an Egyptian forensic official says that body parts recovered from EgyptAir flight 804 indicate that the crash was caused by an explosion. ](/news/2016/05/24/reports-claim-that-an-egyptian-forensic-official-says-that-body-parts-recovered-from-egyptair-flight-804-indicate-that-the-crash-was-caused.md) _Context: EgyptAir Flight 804_
+
+### Changes:
+
+1. [EgyptAir Flight 804: A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. ](/news/2016/06/1/egyptair-flight-804-a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md) _2017-08-27 03:46:11 (First version)_
+1. [A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. ](/news/2016/06/1/a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md) _(Current version)_

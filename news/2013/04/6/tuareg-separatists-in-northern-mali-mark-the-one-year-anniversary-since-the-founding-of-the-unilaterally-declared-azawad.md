@@ -18,3 +18,9 @@ A Mali government spokesman says clashes between national soldiers and armed pol
 3. [The Malian government and Tuareg rebels sign a ceasefire agreement. ](/news/2013/06/18/the-malian-government-and-tuareg-rebels-sign-a-ceasefire-agreement.md) _Context: Tuareg_
 4. [One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/one-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadian-forces-in-northern-mali.md) _Context: Azawad_
 5. [The Malian army used artillery on Islamist rebels in Gnimignama in the first skirmish between the two belligerents since April 2012, when Islamist and Tuareg rebels first assumed control of the region. ](/news/2013/01/8/the-malian-army-used-artillery-on-islamist-rebels-in-gnimignama-in-the-first-skirmish-between-the-two-belligerents-since-april-2012-when-is.md) _Context: Tuareg_
+
+### Changes:
+
+1. [Northern Mali conflict:Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/northern-mali-conflict-ptuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-az.md) _2017-08-25 03:38:12 (First version)_
+2. [Northern Mali conflict:: Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/northern-mali-conflict-tuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-a.md) _2017-08-27 03:38:23 (Update)_
+2. [Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/tuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-azawad.md) _(Current version)_

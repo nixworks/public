@@ -17,3 +17,8 @@ A U.S. drone strike killed at least four suspected Taliban militants in northwes
 3. [Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _Context: North Waziristan, War in North-West Pakistan_
 4. [A roadside bomb in North Waziristan kills at least three Pakistan Army soldiers and injures six others. ](/news/2015/07/5/a-roadside-bomb-in-north-waziristan-kills-at-least-three-pakistan-army-soldiers-and-injures-six-others.md) _Context: North Waziristan, War in North-West Pakistan_
 5. [Pakistan lifts the moratorium on the death penalty for terror-related cases following the Taliban's assault on a school in Peshawar on Tuesday that killed 141, including 132 children. ](/news/2014/12/17/pakistan-lifts-the-moratorium-on-the-death-penalty-for-terror-related-cases-following-the-taliban-s-assault-on-a-school-in-peshawar-on-tuesd.md) _Context: Taliban, War in North-West Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan: U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/war-in-north-west-pakistan-u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _2017-08-27 03:42:11 (First version)_
+1. [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [NATO-backed Afghan security forces end a 12-hour siege carried out by Taliban insurgents on the Spozhmai Hotel outside Kabul, killing all five insurgents. ](/news/2012/06/22/nato-backed-afghan-security-forces-end-a-12-hour-siege-carried-out-by-taliban-insurgents-on-the-spozhmai-hotel-outside-kabul-killing-all-fi.md) _Context: Afghanistan, NATO, Taliban_
 4. [The London "Times" reports that a secret NATO report claims that the Taliban, backed by Pakistan, is set to regain control over Afghanistan after international forces withdraw from the country. ](/news/2012/02/1/the-london-times-reports-that-a-secret-nato-report-claims-that-the-taliban-backed-by-pakistan-is-set-to-regain-control-over-afghanistan.md) _Context: Afghanistan, NATO, Taliban_
 5. [Afghan and U.S. forces repel a Taliban raid on a NATO base in Afghanistan's Panjshir Province, reportedly killing four militants. ](/news/2011/10/15/afghan-and-u-s-forces-repel-a-taliban-raid-on-a-nato-base-in-afghanistan-s-panjshir-province-reportedly-killing-four-militants.md) _Context: Afghanistan, NATO, Taliban_
+
+### Changes:
+
+1. [ The ''Washington Post'' reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-ta.md) _2017-08-25 03:20:58 (First version)_
+1. [ The "Washington Post" reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-tali.md) _(Current version)_

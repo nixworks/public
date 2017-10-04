@@ -16,3 +16,8 @@ Fighting between government and rebels has seen deliberate starvation, gang rape
 3. [The United Nations seeks $16.4 billion to fund humanitarian assistance programs in 2015 with Syria, Iraq, Sudan and South Sudan the areas of greatest need. ](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.md) _Context: South Sudan, United Nations_
 4. [Dozens of civilians sheltering in a UN base in the South Sudan town of Bor are killed in an attack by armed men. ](/news/2014/04/18/dozens-of-civilians-sheltering-in-a-un-base-in-the-south-sudan-town-of-bor-are-killed-in-an-attack-by-armed-men.md) _Context: South Sudan, United Nations_
 5. [Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. ](/news/2013/04/9/gunmen-kill-12-united-nations-peacekeepers-and-civilian-staff-in-an-ambush-in-jonglei-south-sudan.md) _Context: South Sudan, United Nations_
+
+### Changes:
+
+1. [Ethnic violence in South Sudan (2011-present): A United Nations human rights commission in South Sudan claims a "steady process of ethnic cleansing is underway" in the war-torn nation. ](/news/2016/12/1/ethnic-violence-in-south-sudan-2011-present-a-united-nations-human-rights-commission-in-south-sudan-claims-a-steady-process-of-ethnic.md) _2017-08-27 03:47:21 (First version)_
+1. [A United Nations human rights commission in South Sudan claims a "steady process of ethnic cleansing is underway" in the war-torn nation. ](/news/2016/12/1/a-united-nations-human-rights-commission-in-south-sudan-claims-a-steady-process-of-ethnic-cleansing-is-underway-in-the-war-torn-nation.md) _(Current version)_

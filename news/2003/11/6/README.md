@@ -55,7 +55,7 @@ _Context: Bank of England_
 _Context: Rwanda, genocide_
 
 ### [ Defense Secretary Donald Rumsfeld unveils a troop replacement plan for Iraq. Overall number of American soldiers in the country will decrease next year, if security conditions permit. United States Senator John McCain (R-Ariz.) criticizes the Bush administration's plans to reduce troops in Iraq. The former Vietnam POW discusses why more ground troops are needed to meet policy goals. One US soldier is killed and 2 injured in another ambush. The US begins informing units that will be needed in Iraq in 2004. The Marines will be returning. The United States Department of Defense summarizes US casualties so far. The first Polish soldier is killed in Iraq. A CNN-USA Today Gallup poll suggests that support for President Bush's handling of Iraq is slipping; a majority of the people polled disapprove of what is being done.](/news/2003/11/6/defense-secretary-donald-rumsfeld-unveils-a-troop-replacement-plan-for-iraq-overall-number-of-american-soldiers-in-the-country-will-decrea.md)
-_Context: CNN, Defense Secretary, Donald Rumsfeld, John McCain, Polish, U.S. military, USA Today, United States Marine Corps, United States Senate_
+_Context: CNN, Defense Secretary, Donald Rumsfeld, John McCain, Polish, U.S. Marine, U.S. military, USA Today, United States Senate_
 
 ### [ In Seattle, Washington, the text of Gary Ridgway's ("Green River Killer") confession is released.](/news/2003/11/6/in-seattle-washington-the-text-of-gary-ridgway-s-green-river-killer-confession-is-released.md)
 _Context: Gary Ridgway, Seattle, Washington_

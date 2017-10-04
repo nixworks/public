@@ -17,3 +17,8 @@
 3. [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md) _Context: Swedish_
 4. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: Swedish_
 5. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Swedish_
+
+### Changes:
+
+1. [ Sweden-s Supreme Court rules in favor of late film director Vilgot Sjoman who had sued a TV channel for copyright infringement after it ran three commercial breaks during the director's film. ](/news/2008/03/18/sweden-s-supreme-court-rules-in-favor-of-late-film-director-vilgot-sjapman-who-had-sued-a-tv-channel-for-copyright-infringement-after-it.md) _2017-08-27 03:21:51 (First version)_
+1. [ Sweden's Supreme Court rules in favor of late film director Vilgot Sjoman who had sued a TV channel for copyright infringement after it ran three commercial breaks during the director's film. ](/news/2008/03/18/swedenas-supreme-court-rules-in-favor-of-late-film-director-vilgot-sjapman-who-had-sued-a-tv-channel-for-copyright-infringement-after-it.md) _(Current version)_

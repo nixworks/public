@@ -12,3 +12,8 @@
 3. [ Canada restores citizenship to foreigners in an amendment to the Citizenship Act of 1977. ](/news/2009/04/17/canada-restores-citizenship-to-foreigners-in-an-amendment-to-the-citizenship-act-of-1977.md) _Context: law_
 4. [ United Nations Secretary-General Kofi Annan reluctantly describes the 2003 U.S.-led invasion of Iraq as an "illegal" violation of the UN Charter, in response to repeated questions on the subject during a press conference. ](/news/2004/09/16/united-nations-secretary-general-kofi-annan-reluctantly-describes-the-2003-u-s-led-invasion-of-iraq-as-an-illegal-violation-of-the-un-ch.md) _Context: law_
 5. [ The World Trade Organization makes a preliminary ruling that United States laws prohibiting Internet gambling violate international trade agreements, in response to a complaint by Antigua and Barbuda. The Bush administration vows to appeal, while some members of the United States Congress say they would rather allow a trade war or withdraw from future WTO talks than repeal laws against online gambling. ](/news/2004/03/24/the-world-trade-organization-makes-a-preliminary-ruling-that-united-states-laws-prohibiting-internet-gambling-violate-international-trade-a.md) _Context: law_
+
+### Changes:
+
+1. [ Law - Go Daddy Software pursues VeriSign for damages.](/news/2002/06/20/law-go-daddy-software-pursues-verisign-for-damages.md) _2017-08-27 03:15:13 (First version)_
+1. [ Law - Go Daddy Software pursues VeriSign for damages.](/news/2002/06/20/law-a-go-daddy-software-pursues-verisign-for-damages.md) _(Current version)_

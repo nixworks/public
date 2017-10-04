@@ -18,3 +18,8 @@ Judge Mark Goldsmith said he had the power to order the government to keep Iraqi
 3. [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _Context: Christian, immigrants_
 4. [A bipartisan group of eight United States Senators releases its plan to overhaul the immigration system potentially allowing millions of illegal aliens the chance to become citizens. ](/news/2013/04/16/a-bipartisan-group-of-eight-united-states-senators-releases-its-plan-to-overhaul-the-immigration-system-potentially-allowing-millions-of-ill.md) _Context: Americans, immigrants_
 5. [ Iraq's Police Service kills an Iraqi interpreter and injures at least three U.S. soldiers in Mosul. ](/news/2009/02/24/iraq-s-police-service-kills-an-iraqi-interpreter-and-injures-at-least-three-u-s-soldiers-in-mosul.md) _Context: Americans, Iraqi_
+
+### Changes:
+
+1. [Immigration to the United States: A U.S. federal judge halts the possible deportation of Iraqi Chaldean Christian refugees until further review. ](/news/2017/07/12/immigration-to-the-united-states-a-u-s-federal-judge-halts-the-possible-deportation-of-iraqi-chaldean-christian-refugees-until-further-rev.md) _2017-08-27 03:48:39 (First version)_
+1. [A U.S. federal judge halts the possible deportation of Iraqi Chaldean Christian refugees until further review. ](/news/2017/07/12/a-u-s-federal-judge-halts-the-possible-deportation-of-iraqi-chaldean-christian-refugees-until-further-review.md) _(Current version)_

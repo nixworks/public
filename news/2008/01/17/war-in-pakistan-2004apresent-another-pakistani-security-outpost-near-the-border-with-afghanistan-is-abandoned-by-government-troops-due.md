@@ -16,3 +16,8 @@
 3. [Rescuers continue a search for survivors of the earthquake in Afghanistan and Pakistan including in areas controlled by the Taliban. The death toll from the earthquake is 339 with many thousands injured. ](/news/2015/10/27/rescuers-continue-a-search-for-survivors-of-the-earthquake-in-afghanistan-and-pakistan-including-in-areas-controlled-by-the-taliban-the-dea.md) _Context: Afghanistan, Pakistan, Taliban_
 4. [The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natural-causes.md) _Context: Afghanistan, Pakistan, Taliban_
 5. [Pakistan frees Mullah Abdul Ghani Baradar, a cofounder of the Taliban in Afghanistan. ](/news/2013/09/21/pakistan-frees-mullah-abdul-ghani-baradar-a-cofounder-of-the-taliban-in-afghanistan.md) _Context: Afghanistan, Pakistan, Taliban_
+
+### Changes:
+
+1. [ War in Pakistan (2004-present): Another Pakistani security outpost near the border with Afghanistan is abandoned by government troops due to threats from pro-Taliban fighters. ](/news/2008/01/17/war-in-pakistan-2004-present-another-pakistani-security-outpost-near-the-border-with-afghanistan-is-abandoned-by-government-troops-due.md) _2017-08-27 03:21:34 (First version)_
+1. [ War in Pakistan (2004-present): Another Pakistani security outpost near the border with Afghanistan is abandoned by government troops due to threats from pro-Taliban fighters. ](/news/2008/01/17/war-in-pakistan-2004apresent-another-pakistani-security-outpost-near-the-border-with-afghanistan-is-abandoned-by-government-troops-due.md) _(Current version)_

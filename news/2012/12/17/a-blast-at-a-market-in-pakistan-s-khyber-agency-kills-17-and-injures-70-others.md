@@ -18,3 +18,9 @@ At least 17 people are killed and dozens injured in a car bomb attack on a marke
 3. [A U.S. missile strike kills seven militants in the Spin Drand area of Khyber, Pakistan. ](/news/2010/12/16/a-u-s-missile-strike-kills-seven-militants-in-the-spin-drand-area-of-khyber-pakistan.md) _Context: Khyber Agency, Pakistan_
 4. [Three troops were killed when a roadside blast struck a military vehicle in Bara area of Khyber, one of the seven tribal agencies in Pakistan's restive northwest bordering Afghanistan. ](/news/2010/09/22/three-troops-were-killed-when-a-roadside-blast-struck-a-military-vehicle-in-bara-area-of-khyber-one-of-the-seven-tribal-agencies-in-pakista.md) _Context: Khyber Agency, Pakistan_
 5. [Two of three Sikhs kidnapped in Khyber Agency on the Afghan border in January are recovered by Pakistan's security forces. The decapitated corpse of the other was found last week. ](/news/2010/03/1/two-of-three-sikhs-kidnapped-in-khyber-agency-on-the-afghan-border-in-january-are-recovered-by-pakistan-s-security-forces-the-decapitated-c.md) _Context: Khyber Agency, Pakistan_
+
+### Changes:
+
+1. [War in North-West Pakistan:A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/war-in-north-west-pakistan-pa-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md) _2017-08-25 03:37:03 (First version)_
+2. [War in North-West Pakistan:: A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/war-in-north-west-pakistan-a-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md) _2017-08-27 03:37:14 (Update)_
+2. [A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/a-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md) _(Current version)_

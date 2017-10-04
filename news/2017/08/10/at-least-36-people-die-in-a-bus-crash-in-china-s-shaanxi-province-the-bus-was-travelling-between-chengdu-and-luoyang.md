@@ -17,3 +17,8 @@ A passenger coach crashed into the wall of an expressway tunnel in China&#39;s n
 3. [Hundreds of people attempt to control a large diesel leak into a major tributary of the Yellow River, the Wei River, in Shaanxi, China. ](/news/2010/01/3/hundreds-of-people-attempt-to-control-a-large-diesel-leak-into-a-major-tributary-of-the-yellow-river-the-wei-river-in-shaanxi-china.md) _Context: China, Shaanxi_
 4. [ A bus fire kills at least 24 people in Chengdu, Sichuan, China. ](/news/2009/06/5/a-bus-fire-kills-at-least-24-people-in-chengdu-sichuan-china.md) _Context: Chengdu, China_
 5. [ A radioactive lead ball containing caesium-137 is missing from a deconstructed factory in Tongchaun, Shaanxi, China. ](/news/2009/03/27/a-radioactive-lead-ball-containing-caesium-137-is-missing-from-a-deconstructed-factory-in-tongchaun-shaanxi-china.md) _Context: China, Shaanxi_
+
+### Changes:
+
+1. [Road incidents in China: At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/road-incidents-in-china-at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoya.md) _2017-08-27 03:48:47 (First version)_
+1. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _(Current version)_

@@ -17,3 +17,8 @@ It became the first mainstream automaker to sound the death knell of the traditi
 3. [Apple Inc announces that it will speed up work on an electric car to be ready by 2019. ](/news/2015/09/21/apple-inc-announces-that-it-will-speed-up-work-on-an-electric-car-to-be-ready-by-2019.md) _Context: electric_
 4. [Panasonic will stop making lithium-ion batteries for phones and cameras in Beijing, China, with a cut of 1,300 jobs. The company will instead refocus on higher-margin products such as electric car batteries. ](/news/2015/08/27/panasonic-will-stop-making-lithium-ion-batteries-for-phones-and-cameras-in-beijing-china-with-a-cut-of-1-300-jobs-the-company-will-instea.md) _Context: electric_
 5. [Electric car company Better Place announces it will file for bankruptcy. ](/news/2013/05/26/electric-car-company-better-place-announces-it-will-file-for-bankruptcy.md) _Context: electric_
+
+### Changes:
+
+1. [The Chinese-owned car company Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/the-chinese-owned-car-company-volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md) _2017-07-06 14:30:06 (First version)_
+1. [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md) _(Current version)_

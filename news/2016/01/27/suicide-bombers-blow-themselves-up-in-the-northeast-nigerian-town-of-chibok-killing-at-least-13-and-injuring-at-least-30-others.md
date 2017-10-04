@@ -20,3 +20,8 @@ At least 13 people were killed on Wednesday when three suicide bombers blew them
 3. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Boko Haram insurgency, Nigeria_
 4. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Boko Haram insurgency, Nigeria_
 5. [Multiple suicide blasts occur at a refugee camp near Maiduguri, Nigeria, leaving eight people dead and wounding 18 others. ](/news/2017/03/22/multiple-suicide-blasts-occur-at-a-refugee-camp-near-maiduguri-nigeria-leaving-eight-people-dead-and-wounding-18-others.md) _Context: Boko Haram insurgency, Nigeria_
+
+### Changes:
+
+1. [Boko Haram insurgency: Suicide bombers blow themselves up in the northeast Nigerian town of Chibok, killing at least 13 and injuring at least 30 others. ](/news/2016/01/27/boko-haram-insurgency-suicide-bombers-blow-themselves-up-in-the-northeast-nigerian-town-of-chibok-killing-at-least-13-and-injuring-at-leas.md) _2017-08-27 03:44:46 (First version)_
+1. [Suicide bombers blow themselves up in the northeast Nigerian town of Chibok, killing at least 13 and injuring at least 30 others. ](/news/2016/01/27/suicide-bombers-blow-themselves-up-in-the-northeast-nigerian-town-of-chibok-killing-at-least-13-and-injuring-at-least-30-others.md) _(Current version)_

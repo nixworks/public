@@ -31,7 +31,7 @@ _Context: Cambodia, Chhouk Rin, Khmer Rouge, appealed, backpackers, conviction, 
 _Context: Britain's Court of Appeal, Countryside Alliance, Hunting Act 2004, Parliament Act 1949, fox hunting, lobbying_
 
 ### [ In Nigeria, an Islamic court sentences cross-dressing Abubakar Hamza to six months in prison and a fine equivalent to $38 for "immoral behaviour". He had lived for seven years as a woman to sell aphrodisiacs. ](/news/2005/02/16/in-nigeria-an-islamic-court-sentences-cross-dressing-abubakar-hamza-to-six-months-in-prison-and-a-fine-equivalent-to-38-for-immoral-beha.md)
-_Context: Abubakar Hamza, Nigeria, US$, aphrodisiac, cross-dressing, moral, sharia law_
+_Context: $, Abubakar Hamza, Nigeria, aphrodisiac, cross-dressing, moral, sharia law_
 
 ### [ Iran and Syria announce the formation of a "united front" in order to face "challenges and threats", resolved after a meeting between Iranian First Vice President Mohammad Reza Aref and Syrian Prime Minister Mohammed Naji al-Otari. ](/news/2005/02/16/iran-and-syria-announce-the-formation-of-a-united-front-in-order-to-face-challenges-and-threats-resolved-after-a-meeting-between-irani.md)
 _Context: Iran, Mohammad Reza Aref, Mohammed Naji al-Otari, Syria_

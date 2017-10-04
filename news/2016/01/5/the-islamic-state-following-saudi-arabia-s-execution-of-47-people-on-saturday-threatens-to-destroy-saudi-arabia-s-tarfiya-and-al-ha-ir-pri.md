@@ -18,3 +18,8 @@
 3. [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md) _Context: Islamic State, Saudi Arabia_
 4. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: Islamic State_
 5. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: Islamic State_
+
+### Changes:
+
+1. [The Islamic State, following Saudi Arabia's execution of 47 people on Saturday, threatens to destroy Saudi Arabia's Tarfiya and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir.md) _2017-08-25 03:44:15 (First version)_
+1. [The Islamic State, following Saudi Arabia's execution of 47 people on Saturday, threatens to destroy Saudi Arabia's Tarfiya and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir-pri.md) _(Current version)_

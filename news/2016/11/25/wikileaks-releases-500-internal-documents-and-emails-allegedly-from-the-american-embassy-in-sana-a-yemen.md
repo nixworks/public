@@ -17,3 +17,8 @@
 3. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: WikiLeaks_
 4. [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md) _Context: WikiLeaks_
 5. [An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthis-blames-the-saudi-led-coalition-fo.md) _Context: Sana'a_
+
+### Changes:
+
+1. [United States-Yemen relations: WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/united-states-yemen-relations-wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _2017-08-27 03:47:18 (First version)_
+1. [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _(Current version)_

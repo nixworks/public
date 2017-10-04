@@ -24,3 +24,8 @@ Dozens die as a new earthquake of magnitude 7.3 strikes Nepal, two weeks after a
 3. [A Buddha Air flight taking tourists to see Mount Everest crashes in Nepal, killing 19 people. ](/news/2011/09/25/a-buddha-air-flight-taking-tourists-to-see-mount-everest-crashes-in-nepal-killing-19-people.md) _Context: Mount Everest, Nepal_
 4. [TeliaSonera, through its Nepal subsidiary Ncell, announces that a series of eight 3G wireless transmitters have been installed along the trail to base camps on Mount Everest, with coverage reaching the summit. ](/news/2010/10/29/teliasonera-through-its-nepal-subsidiary-ncell-announces-that-a-series-of-eight-3g-wireless-transmitters-have-been-installed-along-the-tra.md) _Context: Mount Everest, Nepal_
 5. [Leading Nepalese Sherpa Chhewang Nima, known for climbing Mount Everest 19 times, is now feared dead. ](/news/2010/10/25/leading-nepalese-sherpa-chhewang-nima-known-for-climbing-mount-everest-19-times-is-now-feared-dead.md) _Context: Mount Everest, Nepal_
+
+### Changes:
+
+1. [May 2015 Nepal earthquake: A magnitude 7.3 earthquake strikes the town of Namche Bazaar, Nepal, near the Tibetan border and the base camp for Mount Everest. ](/news/2015/05/12/may-2015-nepal-earthquake-a-magnitude-7-3-earthquake-strikes-the-town-of-namche-bazaar-nepal-near-the-tibetan-border-and-the-base-camp-fo.md) _2017-08-27 03:42:19 (First version)_
+1. [A magnitude 7.3 earthquake strikes the town of Namche Bazaar, Nepal, near the Tibetan border and the base camp for Mount Everest. ](/news/2015/05/12/a-magnitude-7-3-earthquake-strikes-the-town-of-namche-bazaar-nepal-near-the-tibetan-border-and-the-base-camp-for-mount-everest.md) _(Current version)_

@@ -13,7 +13,7 @@ _Context: Israel, Israeli settlement, Palestinian Authority, West Bank_
 _Context: Ivars Godmanis, Latvia, Prime Minister of Latvia, government_
 
 ### [ Gold futures reclaim the US$1,000-an-ounce mark. ](/news/2009/02/20/gold-futures-reclaim-the-us-1-000-an-ounce-mark.md)
-_Context: US$, futures, gold_
+_Context: $, futures, gold_
 
 ### [ New York State Attorney General Andrew Cuomo subpoenas Bank of America Chairman and CEO Kenneth Lewis for misleading investors during the purchase of Merrill Lynch. ](/news/2009/02/20/new-york-state-attorney-general-andrew-cuomo-subpoenas-bank-of-america-chairman-and-ceo-kenneth-lewis-for-misleading-investors-during-the-p.md)
 _Context: Andrew Cuomo, Bank of America, Kenneth Lewis, Merrill Lynch, New York State, State Attorney General, chief executive officer, subpoena_

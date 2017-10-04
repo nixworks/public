@@ -17,3 +17,8 @@ At least 32 people were reported missing after rain-saturated hillsides collapse
 3. [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _Context: 2016 Pacific typhoon season, Typhoon Megi_
 4. [Taiwan and China brace for the impact of Typhoon Nepartak, the first major typhoon of 2016. Thousands of people have been evacuated in Taiwan while over 35,000 military personnel have been placed on standby to help with relief efforts. ](/news/2016/07/7/taiwan-and-china-brace-for-the-impact-of-typhoon-nepartak-the-first-major-typhoon-of-2016-thousands-of-people-have-been-evacuated-in-taiwa.md) _Context: 2016 Pacific typhoon season, China_
 5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
+
+### Changes:
+
+1. [2016 Pacific typhoon season: Typhoon Megi causes landslides in China and leaves at least 32 people missing. ](/news/2016/09/29/2016-pacific-typhoon-season-typhoon-megi-causes-landslides-in-china-and-leaves-at-least-32-people-missing.md) _2017-08-27 03:46:55 (First version)_
+1. [Typhoon Megi causes landslides in China and leaves at least 32 people missing. ](/news/2016/09/29/typhoon-megi-causes-landslides-in-china-and-leaves-at-least-32-people-missing.md) _(Current version)_

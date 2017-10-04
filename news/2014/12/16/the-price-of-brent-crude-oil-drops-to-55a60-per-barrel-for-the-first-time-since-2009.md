@@ -17,3 +17,8 @@ Brent crude futures fell for a fifth straight day on Tuesday to end below $60 a 
 3. [A Paul Gauguin painting, "Nafea Faa Ipoipo" ("When Will You Marry?"), sells to a Qatari buyer for close to $300 million. ](/news/2015/02/5/a-paul-gauguin-painting-nafea-faa-ipoipo-when-will-you-marry-sells-to-a-qatari-buyer-for-close-to-300-million.md) _Context: United States dollars_
 4. [The United Nations seeks $16.4 billion to fund humanitarian assistance programs in 2015 with Syria, Iraq, Sudan and South Sudan the areas of greatest need. ](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.md) _Context: United States dollars_
 5. [Merck agrees to buy "superbug"-fighter Cubist Pharmaceuticals for $9.5 billion. ](/news/2014/12/8/merck-agrees-to-buy-superbug-fighter-cubist-pharmaceuticals-for-9-5-billion.md) _Context: United States dollars_
+
+### Changes:
+
+1. [The price of Brent Crude oil drops to $55-60 per barrel for the first time since 2009. ](/news/2014/12/16/the-price-of-brent-crude-oil-drops-to-55-60-per-barrel-for-the-first-time-since-2009.md) _2017-08-27 03:41:38 (First version)_
+1. [The price of Brent Crude oil drops to $55-60 per barrel for the first time since 2009. ](/news/2014/12/16/the-price-of-brent-crude-oil-drops-to-55a60-per-barrel-for-the-first-time-since-2009.md) _(Current version)_

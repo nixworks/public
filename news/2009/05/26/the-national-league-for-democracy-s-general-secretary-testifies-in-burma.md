@@ -19,3 +19,9 @@ Myanmar opposition leader Aung San Suu Kyi denied violating her house arrest on 
 3. [ An American man is arrested in Burma for trespassing on National League for Democracy General Secretary Aung San Suu Kyi's property. ](/news/2009/05/7/an-american-man-is-arrested-in-burma-for-trespassing-on-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-property.md) _Context: Burma, General Secretary, National League for Democracy_
 4. [ National League for Democracy General Secretary Aung San Suu Kyi's trial for violating house arrest begins in Burma. ](/news/2009/05/18/national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-for-violating-house-arrest-begins-in-burma.md) _Context: Burma, General Secretary, National League for Democracy_
 5. [ Burma charges National League for Democracy General Secretary Aung San Suu Kyi for violating her house arrest. ](/news/2009/05/14/burma-charges-national-league-for-democracy-general-secretary-aung-san-suu-kyi-for-violating-her-house-arrest.md) _Context: Burma, General Secretary, National League for Democracy_
+
+### Changes:
+
+1. [ Trial of Aung San Suu Kyi: The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/trial-of-aung-san-suu-kyi-p-the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md) _2017-08-25 03:24:41 (First version)_
+2. [ Trial of Aung San Suu Kyi:: The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/trial-of-aung-san-suu-kyi-the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md) _2017-08-27 03:24:32 (Update)_
+2. [ The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md) _(Current version)_

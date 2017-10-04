@@ -17,3 +17,8 @@
 3. [Around 1,200 members of the Philippine National Police in the suburb of Caloocan are fired over allegations of crimes attributed to the police. ](/news/2017/09/15/around-1-200-members-of-the-philippine-national-police-in-the-suburb-of-caloocan-are-fired-over-allegations-of-crimes-attributed-to-the-poli.md) _Context: Philippine National Police, war on drugs_
 4. [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md) _Context: Philippines, senators_
 5. [Hundreds of sympathizers attend the funeral procession of a teenager killed allegedly due to the ongoing drug purge in the Philippines. ](/news/2017/08/26/hundreds-of-sympathizers-attend-the-funeral-procession-of-a-teenager-killed-allegedly-due-to-the-ongoing-drug-purge-in-the-philippines.md) _Context: Philippines, war on drugs_
+
+### Changes:
+
+1. [Philippine Drug War: A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/philippine-drug-war-a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-nationa.md) _2017-08-27 03:47:24 (First version)_
+1. [A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-national-police-is-unconstit.md) _(Current version)_

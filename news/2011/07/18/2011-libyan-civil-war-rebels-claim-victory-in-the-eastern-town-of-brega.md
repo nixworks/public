@@ -20,3 +20,9 @@ Reports from the Syrian city of Hama say 50 protesters have been released and go
 3. [Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md) _Context: Brega, Libyan Civil War_
 4. [2011 Libyan civil war: Rebels are forced from the town of Brega by troops loyal to Muammar Gaddafi but later claim to have recaptured it. ](/news/2011/03/13/2011-libyan-civil-war-rebels-are-forced-from-the-town-of-brega-by-troops-loyal-to-muammar-gaddafi-but-later-claim-to-have-recaptured-it.md) _Context: Brega, Libyan Civil War_
 5. [Forces loyal to Libyan general and former US citizen Khalifa Haftar, commander of the elected Council of Deputies military, seize control of the ports of Sidra, Ra's Lanuf, Brega and Zuwetina. ](/news/2016/09/11/forces-loyal-to-libyan-general-and-former-us-citizen-khalifa-haftar-commander-of-the-elected-council-of-deputies-military-seize-control-of.md) _Context: Brega_
+
+### Changes:
+
+1. [Arab Spring:2011 Libyan civil war:Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/arab-spring-p2011-libyan-civil-war-prebels-claim-victory-in-the-eastern-town-of-brega.md) _2017-08-25 03:33:49 (First version)_
+2. [Arab Spring:: 2011 Libyan civil war:: Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/arab-spring-2011-libyan-civil-war-rebels-claim-victory-in-the-eastern-town-of-brega.md) _2017-08-27 03:33:56 (Update)_
+2. [2011 Libyan civil war:Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/2011-libyan-civil-war-rebels-claim-victory-in-the-eastern-town-of-brega.md) _(Current version)_

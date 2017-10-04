@@ -17,3 +17,8 @@ President-elect’s former rival for Republican presidential nomination says he 
 3. [United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.md) _Context: Donald Trump, Presidential transition of Donald Trump_
 4. [President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _Context: Donald Trump, Presidential transition of Donald Trump_
 5. [U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-negotiator.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+
+### Changes:
+
+1. [Presidential transition of Donald Trump: President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. ](/news/2016/12/5/presidential-transition-of-donald-trump-president-elect-donald-trump-nominates-ben-carson-for-united-states-secretary-of-housing-and-urban.md) _2017-08-27 03:47:23 (First version)_
+1. [President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. ](/news/2016/12/5/president-elect-donald-trump-nominates-ben-carson-for-united-states-secretary-of-housing-and-urban-development.md) _(Current version)_

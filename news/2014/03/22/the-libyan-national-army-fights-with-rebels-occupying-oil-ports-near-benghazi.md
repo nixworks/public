@@ -17,3 +17,8 @@
 3. [Senior Libyan military officials say French special forces are on the ground in Benghazi helping Libyan National Army troops fight ISIL militants. They said that the French forces, along with American and British teams, are setting up an operations room inside Benina International Airport in Benina. The French defense ministry declined to comment, citing a policy not to comment on special forces' activities. ](/news/2016/02/24/senior-libyan-military-officials-say-french-special-forces-are-on-the-ground-in-benghazi-helping-libyan-national-army-troops-fight-isil-mili.md) _Context: Benghazi, Libyan National Army_
 4. [The Libyan National Army says it has taken control of the town of Ajdabiya and several areas of Benghazi following heavy clashes with Islamist militant groups. ](/news/2016/02/21/the-libyan-national-army-says-it-has-taken-control-of-the-town-of-ajdabiya-and-several-areas-of-benghazi-following-heavy-clashes-with-islami.md) _Context: Benghazi, Libyan National Army_
 5. [Islamist militias capture a special forces base in Benghazi. ](/news/2014/07/30/islamist-militias-capture-a-special-forces-base-in-benghazi.md) _Context: Benghazi, Post-civil war violence in Libya_
+
+### Changes:
+
+1. [Post-civil war violence in Libya: The Libyan National Army fights with rebels occupying oil ports near Benghazi. ](/news/2014/03/22/post-civil-war-violence-in-libya-the-libyan-national-army-fights-with-rebels-occupying-oil-ports-near-benghazi.md) _2017-08-27 03:40:30 (First version)_
+1. [The Libyan National Army fights with rebels occupying oil ports near Benghazi. ](/news/2014/03/22/the-libyan-national-army-fights-with-rebels-occupying-oil-ports-near-benghazi.md) _(Current version)_

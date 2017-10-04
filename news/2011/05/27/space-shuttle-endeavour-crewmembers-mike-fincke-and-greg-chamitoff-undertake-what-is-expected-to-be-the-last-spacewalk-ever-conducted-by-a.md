@@ -17,3 +17,8 @@ NASA completed its part in the construction of the International Space Station o
 3. [ NASA defers the launch of Space Shuttle "Endeavour" for a second time until July. ](/news/2009/06/17/nasa-defers-the-launch-of-space-shuttle-endeavour-for-a-second-time-until-july.md) _Context: Space Shuttle, Space Shuttle ''Endeavour''_
 4. [ The planned launch of Space Shuttle "Endeavour" is scrubbed because of a gaseous hydrogen leak. ](/news/2009/06/13/the-planned-launch-of-space-shuttle-endeavour-is-scrubbed-because-of-a-gaseous-hydrogen-leak.md) _Context: Space Shuttle, Space Shuttle ''Endeavour''_
 5. [ Mission STS-126 commences with the launch of Space Shuttle "Endeavour". The spacecraft will deliver equipment required to increase the crew capacity of the International Space Station from three to six members. ](/news/2008/11/15/mission-sts-126-commences-with-the-launch-of-space-shuttle-endeavour-the-spacecraft-will-deliver-equipment-required-to-increase-the-crew.md) _Context: Space Shuttle, Space Shuttle ''Endeavour''_
+
+### Changes:
+
+1. [Space Shuttle ''Endeavour'' crewmembers Mike Fincke and Greg Chamitoff undertake what is expected to be the last spacewalk ever conducted by a space shuttle crew. ](/news/2011/05/27/space-shuttle-endeavour-crewmembers-mike-fincke-and-greg-chamitoff-undertake-what-is-expected-to-be-the-last-spacewalk-ever-conducted-by.md) _2017-08-25 03:33:17 (First version)_
+1. [Space Shuttle "Endeavour" crewmembers Mike Fincke and Greg Chamitoff undertake what is expected to be the last spacewalk ever conducted by a space shuttle crew. ](/news/2011/05/27/space-shuttle-endeavour-crewmembers-mike-fincke-and-greg-chamitoff-undertake-what-is-expected-to-be-the-last-spacewalk-ever-conducted-by-a.md) _(Current version)_

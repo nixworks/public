@@ -19,3 +19,9 @@ Police and armed men in civilian clothes opened fire on anti-government demonstr
 3. [More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md) _Context: Taiz_
 4. [At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md) _Context: policemen_
 5. [Saudi-led coalition airstrikes, targeting Houthi rebels battling pro-government fighters, killed and wounded dozens in the port city of Mocha, according to Yemeni security officials. Around 35 fighters on both sides were killed in the battle over a key military base near the city of Taiz. ](/news/2015/12/8/saudi-led-coalition-airstrikes-targeting-houthi-rebels-battling-pro-government-fighters-killed-and-wounded-dozens-in-the-port-city-of-moch.md) _Context: Taiz_
+
+### Changes:
+
+1. [2011 Yemeni protests:Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/2011-yemeni-protests-pyemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md) _2017-08-25 03:32:44 (First version)_
+2. [2011 Yemeni protests:: Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/2011-yemeni-protests-yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md) _2017-08-27 03:32:52 (Update)_
+2. [Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md) _(Current version)_

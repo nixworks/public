@@ -17,3 +17,8 @@
 3. [ The Niger Delta Emancipation Movement claims that Nigeria's military killed one of its hostages during an operation. ](/news/2009/05/16/the-niger-delta-emancipation-movement-claims-that-nigeria-s-military-killed-one-of-its-hostages-during-an-operation.md) _Context: Conflict in the Niger Delta, Niger Delta_
 4. [ The Emancipation Movement and the Army battle in Nigeria's Niger Delta. ](/news/2009/05/13/the-emancipation-movement-and-the-army-battle-in-nigeria-s-niger-delta.md) _Context: Conflict in the Niger Delta, Niger Delta_
 5. [ Conflict in the Niger Delta: Villagers in Nigeria storm and seize three Royal Dutch Shell oil platforms in the Niger Delta, forcing oil production to be shut down at each one. ](/news/2006/10/25/conflict-in-the-niger-delta-villagers-in-nigeria-storm-and-seize-three-royal-dutch-shell-oil-platforms-in-the-niger-delta-forcing-oil-pro.md) _Context: Conflict in the Niger Delta, Niger Delta_
+
+### Changes:
+
+1. [Conflict in the Niger Delta: The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/conflict-in-the-niger-delta-the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md) _2017-08-27 03:46:14 (First version)_
+1. [The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md) _(Current version)_

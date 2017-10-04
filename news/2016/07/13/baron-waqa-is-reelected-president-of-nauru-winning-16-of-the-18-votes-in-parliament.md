@@ -17,3 +17,8 @@ Baron Waqa has been re-elected as president of Nauru taking 16 of the 18 votes.
 3. [Nauru swears in its third President in less than a week, as President Freddie Pitcher, in office for just six days, is ousted in a 9-8 vote of no confidence. Sprent Dabwido is sworn in as the new president. ](/news/2011/11/15/nauru-swears-in-its-third-president-in-less-than-a-week-as-president-freddie-pitcher-in-office-for-just-six-days-is-ousted-in-a-9-8-vote.md) _Context: President of Nauru_
 4. [The President of Nauru, Marcus Stephen, resigns amid allegations of corruption, and is replaced by Freddie Pitcher. ](/news/2011/11/10/the-president-of-nauru-marcus-stephen-resigns-amid-allegations-of-corruption-and-is-replaced-by-freddie-pitcher.md) _Context: President of Nauru_
 5. [Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/parliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-elected-to-serve-a-3-year-term.md) _Context: Parliament_
+
+### Changes:
+
+1. [Nauruan parliamentary election, 2016: Baron Waqa is reelected President of Nauru, winning 16 of the 18 votes in Parliament. ](/news/2016/07/13/nauruan-parliamentary-election-2016-baron-waqa-is-reelected-president-of-nauru-winning-16-of-the-18-votes-in-parliament.md) _2017-08-27 03:46:29 (First version)_
+1. [Baron Waqa is reelected President of Nauru, winning 16 of the 18 votes in Parliament. ](/news/2016/07/13/baron-waqa-is-reelected-president-of-nauru-winning-16-of-the-18-votes-in-parliament.md) _(Current version)_

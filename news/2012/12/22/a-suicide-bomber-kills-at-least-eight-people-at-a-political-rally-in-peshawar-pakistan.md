@@ -17,3 +17,9 @@ A suicide bomber kills at least eight people, including a key provincial ministe
 3. [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _Context: Pakistan, Peshawar_
 4. [ A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md) _Context: Pakistan, Peshawar_
 5. [At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. ](/news/2016/01/19/at-least-9-people-are-killed-and-35-injured-after-a-suicide-bomber-strikes-near-a-security-checkpoint-near-peshawar-pakistan.md) _Context: Pakistan, Peshawar_
+
+### Changes:
+
+1. [War in North-West Pakistan:A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/war-in-north-west-pakistan-pa-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md) _2017-08-25 03:37:06 (First version)_
+2. [War in North-West Pakistan:: A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/war-in-north-west-pakistan-a-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md) _2017-08-27 03:37:17 (Update)_
+2. [A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/a-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md) _(Current version)_

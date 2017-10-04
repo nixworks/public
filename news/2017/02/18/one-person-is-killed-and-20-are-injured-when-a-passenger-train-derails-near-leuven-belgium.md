@@ -17,3 +17,9 @@ The passenger train bound for the Belgian capital jumps the tracks, with one car
 3. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested. ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 4. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 5. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_
+
+### Changes:
+
+1. [One person is killed and 20 are injured when a passenger train derails near {{rws|Leuven}}, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-rws-leuven-belgium.md) _2017-05-01 03:51:40 (First version)_
+2. [2017 Leuven derailment: One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/2017-leuven-derailment-one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md) _2017-08-27 03:47:50 (Update)_
+2. [One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md) _(Current version)_

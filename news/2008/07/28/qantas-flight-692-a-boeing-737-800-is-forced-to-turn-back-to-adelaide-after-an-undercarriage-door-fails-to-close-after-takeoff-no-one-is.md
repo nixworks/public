@@ -16,3 +16,8 @@
 3. [Three aircraft, a Southwest Airlines 737, a Virgin America A319, and a private plane, were all struck by a laser coming from the same direction as they were about to land at Dallas's Love Field, according to the U.S. FAA. ](/news/2015/11/11/three-aircraft-a-southwest-airlines-737-a-virgin-america-a319-and-a-private-plane-were-all-struck-by-a-laser-coming-from-the-same-direct.md) _Context: 737_
 4. [A Boeing 737 operated by Malaysian Airlines carrying 166 people makes an emergency landing after a tire on the main landing gear blew out. ](/news/2014/04/21/a-boeing-737-operated-by-malaysian-airlines-carrying-166-people-makes-an-emergency-landing-after-a-tire-on-the-main-landing-gear-blew-out.md) _Context: 737_
 5. [A Boeing 737 carrying more than 130 people catches fire while landing in Moscow. No injuries are reported. ](/news/2013/05/18/a-boeing-737-carrying-more-than-130-people-catches-fire-while-landing-in-moscow-no-injuries-are-reported.md) _Context: 737_
+
+### Changes:
+
+1. [ Qantas Flight 692, a Boeing 737-800, is forced to turn back to Adelaide after an undercarriage door fails to close after takeoff. No one is injured. ](/news/2008/07/28/qantas-flight-692-a-boeing-737-800-is-forced-to-turn-back-to-adelaide-after-an-undercarriage-door-fails-to-close-after-takeoff-no-one-i.md) _2017-08-25 03:22:37 (First version)_
+1. [ Qantas Flight 692, a Boeing 737-800, is forced to turn back to Adelaide after an undercarriage door fails to close after takeoff. No one is injured. ](/news/2008/07/28/qantas-flight-692-a-boeing-737-800-is-forced-to-turn-back-to-adelaide-after-an-undercarriage-door-fails-to-close-after-takeoff-no-one-is.md) _(Current version)_

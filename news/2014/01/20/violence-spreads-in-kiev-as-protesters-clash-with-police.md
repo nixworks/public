@@ -16,3 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [DPR leader Alexander Zakharchenko announced that the self-declared Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR) would form a new state called Malorossiya (Little Russia) as an official successor to what he called the "failed state" of Ukraine, with Donetsk replacing Kiev as the country's capital. Ukrainian president Petro Poroshenko and LPR leader Igor Plotnitsky denounced the plans. ](/news/2017/07/18/dpr-leader-alexander-zakharchenko-announced-that-the-self-declared-donetsk-people-s-republic-dpr-and-luhansk-people-s-republic-lpr-would.md) _Context: Kiev_
 4. [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _Context: Kiev_
 5. [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md) _Context: Kiev_
+
+### Changes:
+
+1. [Euromaidan: Violence spreads in Kiev as protesters clash with police. ](/news/2014/01/20/euromaidan-violence-spreads-in-kiev-as-protesters-clash-with-police.md) _2017-08-27 03:40:12 (First version)_
+1. [Violence spreads in Kiev as protesters clash with police. ](/news/2014/01/20/violence-spreads-in-kiev-as-protesters-clash-with-police.md) _(Current version)_

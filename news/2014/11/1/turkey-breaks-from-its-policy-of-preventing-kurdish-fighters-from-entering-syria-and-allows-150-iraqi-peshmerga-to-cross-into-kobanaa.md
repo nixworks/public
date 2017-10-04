@@ -17,3 +17,8 @@
 3. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Syria, Turkey_
 4. [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md) _Context: Syria, Turkey_
 5. [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md) _Context: Syria, Turkey_
+
+### Changes:
+
+1. [Siege of Kobane: Turkey breaks from its policy of preventing Kurdish fighters from entering Syria and allows 150 Iraqi Peshmerga to cross into Kobane. ](/news/2014/11/1/siege-of-kobanaa-turkey-breaks-from-its-policy-of-preventing-kurdish-fighters-from-entering-syria-and-allows-150-iraqi-peshmerga-to-cross-i.md) _2017-08-27 03:41:27 (First version)_
+1. [Turkey breaks from its policy of preventing Kurdish fighters from entering Syria and allows 150 Iraqi Peshmerga to cross into Kobane. ](/news/2014/11/1/turkey-breaks-from-its-policy-of-preventing-kurdish-fighters-from-entering-syria-and-allows-150-iraqi-peshmerga-to-cross-into-kobanaa.md) _(Current version)_

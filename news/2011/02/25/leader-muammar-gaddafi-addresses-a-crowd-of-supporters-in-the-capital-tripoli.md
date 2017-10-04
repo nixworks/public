@@ -23,3 +23,8 @@
 3. [2011 Libyan civil war: Rebels claim to have fired rockets at a meeting of senior Gaddafi-regime officials in the capital Tripoli. ](/news/2011/07/23/2011-libyan-civil-war-rebels-claim-to-have-fired-rockets-at-a-meeting-of-senior-gaddafi-regime-officials-in-the-capital-tripoli.md) _Context: Libyan Civil War, Muammar Gaddafi, Tripoli_
 4. [Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/mikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suicidal-plan-to-destr.md) _Context: Libyan Civil War, Muammar Gaddafi, Tripoli_
 5. [2011 Libyan civil war: NATO warplanes attack the port of Tripoli and the residence of Libyan leader Muammar Gaddafi. ](/news/2011/05/22/2011-libyan-civil-war-nato-warplanes-attack-the-port-of-tripoli-and-the-residence-of-libyan-leader-muammar-gaddafi.md) _Context: Libyan Civil War, Muammar Gaddafi, Tripoli_
+
+### Changes:
+
+1. [2011 Libyan civil war: Leader Muammar Gaddafi addresses a crowd of supporters in the capital Tripoli. ](/news/2011/02/25/2011-libyan-civil-war-leader-muammar-gaddafi-addresses-a-crowd-of-supporters-in-the-capital-tripoli.md) _2017-08-27 03:32:28 (First version)_
+1. [Leader Muammar Gaddafi addresses a crowd of supporters in the capital Tripoli. ](/news/2011/02/25/leader-muammar-gaddafi-addresses-a-crowd-of-supporters-in-the-capital-tripoli.md) _(Current version)_

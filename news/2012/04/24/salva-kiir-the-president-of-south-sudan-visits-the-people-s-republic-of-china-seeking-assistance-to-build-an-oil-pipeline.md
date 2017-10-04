@@ -18,3 +18,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Sudan's President Omar al-Bashir visits South Sudan for the first time since the country won its independence in 2011 to meet with President Salva Kiir. ](/news/2013/04/12/sudan-s-president-omar-al-bashir-visits-south-sudan-for-the-first-time-since-the-country-won-its-independence-in-2011-to-meet-with-president.md) _Context: President of South Sudan, Salva Kiir_
 4. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _Context: China_
 5. [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md) _Context: China_
+
+### Changes:
+
+1. [South Sudan:Salva Kiir, the President of South Sudan, visits the People's Republic of China seeking assistance to build an oil pipeline. ](/news/2012/04/24/south-sudan-psalva-kiir-the-president-of-south-sudan-visits-the-people-s-republic-of-china-seeking-assistance-to-build-an-oil-pipeline.md) _2017-08-25 03:35:33 (First version)_
+2. [South Sudan:: Salva Kiir, the President of South Sudan, visits the People's Republic of China seeking assistance to build an oil pipeline. ](/news/2012/04/24/south-sudan-salva-kiir-the-president-of-south-sudan-visits-the-people-s-republic-of-china-seeking-assistance-to-build-an-oil-pipeline.md) _2017-08-27 03:35:43 (Update)_
+2. [Salva Kiir, the President of South Sudan, visits the People's Republic of China seeking assistance to build an oil pipeline. ](/news/2012/04/24/salva-kiir-the-president-of-south-sudan-visits-the-people-s-republic-of-china-seeking-assistance-to-build-an-oil-pipeline.md) _(Current version)_

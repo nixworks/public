@@ -24,3 +24,8 @@ Chinese soldiers and paramilitary police deployed amid simmering ethnic tensions
 3. [ A further three people are sentenced to death for their involvement in the July riots in rmqi, Xinjiang, in northwestern China. ](/news/2009/12/4/a-further-three-people-are-sentenced-to-death-for-their-involvement-in-the-july-riots-in-urumqi-xinjiang-in-northwestern-china.md) _Context: China, Urumqi, Xinjiang_
 4. [ A further five people are sentenced to death over their involvement in the July riots in rmqi, Xinjiang, in northwestern China. ](/news/2009/12/3/a-further-five-people-are-sentenced-to-death-over-their-involvement-in-the-july-riots-in-urumqi-xinjiang-in-northwestern-china.md) _Context: China, Urumqi, Xinjiang_
 5. [ China sentences a further five people to death over riots in rmqi, Xinjiang in July, bringing the total number of people sentenced to death to 22. ](/news/2009/12/24/china-sentences-a-further-five-people-to-death-over-riots-in-urumqi-xinjiang-in-july-bringing-the-total-number-of-people-sentenced-to-dea.md) _Context: China, Urumqi, Xinjiang_
+
+### Changes:
+
+1. [ Xinjiang: Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/xinjiang-another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md) _2017-08-27 03:25:32 (First version)_
+1. [ Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md) _(Current version)_

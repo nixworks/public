@@ -18,3 +18,8 @@ The UN has warned that up to 200,000 people have been forced to flee after Islam
 3. [The Islamic State captures a range of cities inhabited primarily by Assyrian-Chaldean Christians in Northern Iraq, notably Bakhdida, Bartella, Qaraqosh, Tel Keppe, Karamlish and Tel Isqof; thousands flee, while many Yazidis are caught in the newly-captured city of Sinjar. ](/news/2014/08/7/the-islamic-state-captures-a-range-of-cities-inhabited-primarily-by-assyrian-chaldean-christians-in-northern-iraq-notably-bakhdida-bartell.md) _Context: Islamic State, Sinjar_
 4. [The Islamic State of Iraq and the Levant is renamed The Islamic State, with a caliphate being proclaimed and Abu Bakr al-Baghdadi being named caliph. ](/news/2014/06/29/the-islamic-state-of-iraq-and-the-levant-is-renamed-the-islamic-state-with-a-caliphate-being-proclaimed-and-abu-bakr-al-baghdadi-being-name.md) _Context: 2014 Northern Iraq offensive, Islamic State_
 5. [American human rights group Human Rights Watch claims that Islamic State of Iraq and the Levant executed at least 160 captives earlier this month in Tikrit. ](/news/2014/06/27/american-human-rights-group-human-rights-watch-claims-that-islamic-state-of-iraq-and-the-levant-executed-at-least-160-captives-earlier-this.md) _Context: 2014 Northern Iraq offensive, Islamic State_
+
+### Changes:
+
+1. [2014 Northern Iraq offensive: The Islamic State seizes the Yazidi-dominated town of Sinjar. ](/news/2014/08/3/2014-northern-iraq-offensive-the-islamic-state-seizes-the-yazidi-dominated-town-of-sinjar.md) _2017-08-27 03:41:05 (First version)_
+1. [The Islamic State seizes the Yazidi-dominated town of Sinjar. ](/news/2014/08/3/the-islamic-state-seizes-the-yazidi-dominated-town-of-sinjar.md) _(Current version)_

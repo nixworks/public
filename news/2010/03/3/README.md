@@ -22,7 +22,7 @@ Two cruise passengers died when their liner was hit by a freak wave off the Medi
 _Context: Abuja, Goodluck Jonathan, President, Saudi Arabia, Umaru Yar'Adua_
 
 ### [Spain says Venezuela has said it will assist an investigation into allegations of support for ETA. ](/news/2010/03/3/spain-says-venezuela-has-said-it-will-assist-an-investigation-into-allegations-of-support-for-eta.md)
-_Context: ETA, Spain, Venezuela_
+_Context: ETA, Spanish, Venezuela_
 
 ### [5 police officials in Chiniot, Punjab, are detained after footage of them whipping people in their custody are broadcast across national television channels. ](/news/2010/03/3/5-police-officials-in-chiniot-punjab-are-detained-after-footage-of-them-whipping-people-in-their-custody-are-broadcast-across-national-tel.md)
 _Context: Chiniot, Punjab_

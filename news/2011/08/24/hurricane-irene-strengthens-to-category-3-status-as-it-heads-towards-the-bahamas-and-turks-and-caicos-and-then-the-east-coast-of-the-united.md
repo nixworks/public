@@ -19,3 +19,8 @@ Officials in a popular stretch of coastal North Carolina ordered all visitors to
 3. [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md) _Context: Bahamas_
 4. [Weather forecasters track Hurricane Matthew as it makes landfall in Haiti and issue hurricane warnings for Cuba and the Bahamas. ](/news/2016/10/4/weather-forecasters-track-hurricane-matthew-as-it-makes-landfall-in-haiti-and-issue-hurricane-warnings-for-cuba-and-the-bahamas.md) _Context: Bahamas_
 5. [Following the death of Alton Sterling and Philando Castile and the shooting of white police officers in Dallas, Texas, The Bahamas issues a rare travel warning for its citizens traveling to the United States. ](/news/2016/07/9/following-the-death-of-alton-sterling-and-philando-castile-and-the-shooting-of-white-police-officers-in-dallas-texas-the-bahamas-issues-a.md) _Context: Bahamas_
+
+### Changes:
+
+1. [Hurricane Irene: Hurricane Irene strengthens to Category 3 status as it heads towards The Bahamas and Turks and Caicos and then the East Coast of the United States. ](/news/2011/08/24/hurricane-irene-hurricane-irene-strengthens-to-category-3-status-as-it-heads-towards-the-bahamas-and-turks-and-caicos-and-then-the-east-coa.md) _2017-08-27 03:34:11 (First version)_
+1. [Hurricane Irene strengthens to Category 3 status as it heads towards The Bahamas and Turks and Caicos and then the East Coast of the United States. ](/news/2011/08/24/hurricane-irene-strengthens-to-category-3-status-as-it-heads-towards-the-bahamas-and-turks-and-caicos-and-then-the-east-coast-of-the-united.md) _(Current version)_

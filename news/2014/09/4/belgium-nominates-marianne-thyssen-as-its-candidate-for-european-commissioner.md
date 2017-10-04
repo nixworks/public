@@ -18,3 +18,8 @@ The list of proposed new EU commissioners is now complete, with enough women for
 3. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested. ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 4. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 5. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_
+
+### Changes:
+
+1. [Juncker Commission: Belgium nominates Marianne Thyssen as its candidate for European commissioner. ](/news/2014/09/4/juncker-commission-belgium-nominates-marianne-thyssen-as-its-candidate-for-european-commissioner.md) _2017-08-27 03:41:14 (First version)_
+1. [Belgium nominates Marianne Thyssen as its candidate for European commissioner. ](/news/2014/09/4/belgium-nominates-marianne-thyssen-as-its-candidate-for-european-commissioner.md) _(Current version)_

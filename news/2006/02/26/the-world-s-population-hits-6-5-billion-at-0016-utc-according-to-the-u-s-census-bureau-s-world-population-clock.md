@@ -17,3 +17,8 @@
 3. [A leap second is added to the clock for the first time in 3 years. ](/news/2015/06/30/a-leap-second-is-added-to-the-clock-for-the-first-time-in-3-years.md) _Context: clock_
 4. [ Ronald Anderson is arrested in connection with a kidnapping his girlfriend, the fatal shooting of a guard at US Census Bureau headquarters and police chase into H Street night life district on April 9. ](/news/2015/04/10/ronald-anderson-is-arrested-in-connection-with-a-kidnapping-his-girlfriend-the-fatal-shooting-of-a-guard-at-us-census-bureau-headquarters.md) _Context: US Census Bureau headquarters_
 5. [NASA's New Horizons spacecraft reawakens at 20:00&nbsp;UTC in preparation for observing the dwarf planet Pluto and its satellites. New Horizons, launched on January 19, 2006, will begin distant observations on January 15, 2015, culminating with its July 14, 2015 closest approach flyby. ](/news/2014/12/6/nasa-s-new-horizons-spacecraft-reawakens-at-20-00-nbsp-utc-in-preparation-for-observing-the-dwarf-planet-pluto-and-its-satellites-new-horiz.md) _Context: clock_
+
+### Changes:
+
+1. [ The world's population hits {{Nowrap|6.5 billion}} at 0016 UTC, according to the U.S. Census Bureau's World Population Clock. ](/news/2006/02/26/the-world-s-population-hits-nowrap-6-5-billion-at-0016-utc-according-to-the-u-s-census-bureau-s-world-population-clock.md) _2017-05-01 03:17:50 (First version)_
+1. [ The world's population hits 6.5 billion at 0016 UTC, according to the U.S. Census Bureau's World Population Clock. ](/news/2006/02/26/the-world-s-population-hits-6-5-billion-at-0016-utc-according-to-the-u-s-census-bureau-s-world-population-clock.md) _(Current version)_

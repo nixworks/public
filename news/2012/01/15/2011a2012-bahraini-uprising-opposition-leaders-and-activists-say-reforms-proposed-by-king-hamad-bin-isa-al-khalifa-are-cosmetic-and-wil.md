@@ -17,3 +17,8 @@
 3. [2011 Bahraini uprising: King Hamad bin Isa Al Khalifa approves parliamentary reforms, which are rejected by opposition groups. ](/news/2011/07/29/2011-bahraini-uprising-king-hamad-bin-isa-al-khalifa-approves-parliamentary-reforms-which-are-rejected-by-opposition-groups.md) _Context: Hamad bin Isa Al Khalifa, King of Bahrain_
 4. [Bahrain's King Hamad bin Isa Al Khalifa orders an end to the emergency law imposed after anti-government protests. ](/news/2011/05/8/bahrain-s-king-hamad-bin-isa-al-khalifa-orders-an-end-to-the-emergency-law-imposed-after-anti-government-protests.md) _Context: Hamad bin Isa Al Khalifa, King of Bahrain_
 5. [Bahrain's King Hamad bin Isa Al Khalifa grants new powers to parliament. ](/news/2012/05/3/bahrain-s-king-hamad-bin-isa-al-khalifa-grants-new-powers-to-parliament.md) _Context: Hamad bin Isa Al Khalifa_
+
+### Changes:
+
+1. [2011-2012 Bahraini uprising: Opposition leaders and activists say reforms proposed by King Hamad bin Isa Al Khalifa are "cosmetic" and will do little to stop the uprising. ](/news/2012/01/15/2011-2012-bahraini-uprising-opposition-leaders-and-activists-say-reforms-proposed-by-king-hamad-bin-isa-al-khalifa-are-cosmetic-and-wil.md) _2017-08-27 03:35:00 (First version)_
+1. [2011-2012 Bahraini uprising: Opposition leaders and activists say reforms proposed by King Hamad bin Isa Al Khalifa are "cosmetic" and will do little to stop the uprising. ](/news/2012/01/15/2011a2012-bahraini-uprising-opposition-leaders-and-activists-say-reforms-proposed-by-king-hamad-bin-isa-al-khalifa-are-cosmetic-and-wil.md) _(Current version)_

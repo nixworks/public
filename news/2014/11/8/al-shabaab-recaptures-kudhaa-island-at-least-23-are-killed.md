@@ -17,3 +17,8 @@ Somalia&rsquo;s Al Qaeda linked Al Shabaab militants have taken back strategic I
 3. [A suicide bomber explodes a car bomb near a hotel, al-Shabaab militants then storm the hotel and a pizza restaurant, killing least 20 people and taking others hostage, in Somalia's capital Mogadishu. All five attackers are later killed. ](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.md) _Context: Al-Shabaab, War in Somalia_
 4. [Somali police say at least seven are dead after clashes as Somali and African Union troops pushed back al-Shabab extremists from Afgooye, a town near Mogadishu. ](/news/2016/10/18/somali-police-say-at-least-seven-are-dead-after-clashes-as-somali-and-african-union-troops-pushed-back-al-shabab-extremists-from-afgooye-a.md) _Context: Al-Shabaab, War in Somalia_
 5. [A car bomb at a Mogadishu restaurant near the Jilaow detention center kills four people and injures another five. Al-Shabaab claims responsibility for the attack. ](/news/2016/10/1/a-car-bomb-at-a-mogadishu-restaurant-near-the-jilaow-detention-center-kills-four-people-and-injures-another-five-al-shabaab-claims-responsi.md) _Context: Al-Shabaab, War in Somalia_
+
+### Changes:
+
+1. [War in Somalia: Al-Shabaab recaptures Kudhaa Island, at least 23 are killed. ](/news/2014/11/8/war-in-somalia-al-shabaab-recaptures-kudhaa-island-at-least-23-are-killed.md) _2017-08-27 03:41:29 (First version)_
+1. [Al-Shabaab recaptures Kudhaa Island, at least 23 are killed. ](/news/2014/11/8/al-shabaab-recaptures-kudhaa-island-at-least-23-are-killed.md) _(Current version)_

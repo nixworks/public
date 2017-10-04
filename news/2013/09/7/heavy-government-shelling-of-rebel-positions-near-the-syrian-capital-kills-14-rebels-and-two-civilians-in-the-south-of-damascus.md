@@ -17,3 +17,9 @@ Heavy government shelling of rebel positions near the Syrian capital killed 16 p
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [Syrian civil war:Heavy government shelling of rebel positions near the Syrian capital kills 14 rebels and two civilians in the south of Damascus. ](/news/2013/09/7/syrian-civil-war-pheavy-government-shelling-of-rebel-positions-near-the-syrian-capital-kills-14-rebels-and-two-civilians-in-the-south-of-dam.md) _2017-08-25 03:39:15 (First version)_
+2. [Syrian civil war:: Heavy government shelling of rebel positions near the Syrian capital kills 14 rebels and two civilians in the south of Damascus. ](/news/2013/09/7/syrian-civil-war-heavy-government-shelling-of-rebel-positions-near-the-syrian-capital-kills-14-rebels-and-two-civilians-in-the-south-of-da.md) _2017-08-27 03:39:31 (Update)_
+2. [Heavy government shelling of rebel positions near the Syrian capital kills 14 rebels and two civilians in the south of Damascus. ](/news/2013/09/7/heavy-government-shelling-of-rebel-positions-near-the-syrian-capital-kills-14-rebels-and-two-civilians-in-the-south-of-damascus.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [The University of Dsseldorf strips German Minister of Education and Research Annette Schavan of a doctorate and degree following allegations of plagiarism. ](/news/2013/02/5/the-university-of-dusseldorf-strips-german-minister-of-education-and-research-annette-schavan-of-a-doctorate-and-degree-following-allegation.md) _Context: plagiarising_
 4. [The German Federal Minister for Defence Karl-Theodor zu Guttenberg resigns over a plagiarism scandal. ](/news/2011/03/1/the-german-federal-minister-for-defence-karl-theodor-zu-guttenberg-resigns-over-a-plagiarism-scandal.md) _Context: plagiarising_
 5. [German defence minister Karl-Theodor zu Guttenberg has his doctorate revoked by the University of Bayreuth for submitting a thesis riddled with plagiarisms. ](/news/2011/02/23/german-defence-minister-karl-theodor-zu-guttenberg-has-his-doctorate-revoked-by-the-university-of-bayreuth-for-submitting-a-thesis-riddled-w.md) _Context: plagiarising_
+
+### Changes:
+
+1. [Shia LeBeouf walks out of the premiere of ''Nymphomaniac'' with a paper bag over his head after becoming involved in a plagiarism controversy. ](/news/2014/02/9/shia-lebeouf-walks-out-of-the-premiere-of-nymphomaniac-with-a-paper-bag-over-his-head-after-becoming-involved-in-a-plagiarism-controvers.md) _2017-08-25 03:39:59 (First version)_
+1. [Shia LeBeouf walks out of the premiere of "Nymphomaniac" with a paper bag over his head after becoming involved in a plagiarism controversy. ](/news/2014/02/9/shia-lebeouf-walks-out-of-the-premiere-of-nymphomaniac-with-a-paper-bag-over-his-head-after-becoming-involved-in-a-plagiarism-controversy.md) _(Current version)_

@@ -19,3 +19,8 @@
 3. [Tropical Cyclone Vardah is expected to make landfall in southern India today bringing heavy rain to the city of Chennai in Tamil Nadu as well as Andhra Pradesh. At least four people have been killed and tens of thousands of people have been evacuated from low lying areas. ](/news/2016/12/12/tropical-cyclone-vardah-is-expected-to-make-landfall-in-southern-india-today-bringing-heavy-rain-to-the-city-of-chennai-in-tamil-nadu-as-wel.md) _Context: Chennai_
 4. [Heavy rains continue to lash Thanjavur and Thanjavur district, inundating urban areas and hundreds of acres of farmland. Many residential areas in Thanjavur have been marooned by rising water. ](/news/2015/12/9/heavy-rains-continue-to-lash-thanjavur-and-thanjavur-district-inundating-urban-areas-and-hundreds-of-acres-of-farmland-many-residential-ar.md) _Context: 2015 South Indian floods_
 5. [Chennai International Airport is set to reopen as flood waters recede. The death toll currently stands at at least 280 people. ](/news/2015/12/6/chennai-international-airport-is-set-to-reopen-as-flood-waters-recede-the-death-toll-currently-stands-at-at-least-280-people.md) _Context: 2015 South Indian floods_
+
+### Changes:
+
+1. [2015 South Indian floods: Floods cut off power to the intensive care unit of a Chennai hospital leaving eighteen patients dead. ](/news/2015/12/5/2015-south-indian-floods-floods-cut-off-power-to-the-intensive-care-unit-of-a-chennai-hospital-leaving-eighteen-patients-dead.md) _2017-08-27 03:44:11 (First version)_
+1. [Floods cut off power to the intensive care unit of a Chennai hospital leaving eighteen patients dead. ](/news/2015/12/5/floods-cut-off-power-to-the-intensive-care-unit-of-a-chennai-hospital-leaving-eighteen-patients-dead.md) _(Current version)_

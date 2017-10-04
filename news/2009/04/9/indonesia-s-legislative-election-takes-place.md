@@ -17,3 +17,8 @@ Thursday’s vote is seen as an important gauge of the country’s democratic re
 3. [ Indonesia's National Police shoot nine demonstrators at a pre-election protest in Nabire, West Papua. ](/news/2009/04/6/indonesia-s-national-police-shoot-nine-demonstrators-at-a-pre-election-protest-in-nabire-west-papua.md) _Context: 2009 legislative elections, Indonesia_
 4. [More than 134,000 people on the island of Bali, Indonesia, have been taken to shelters as the Mount Agung volcano continues to release smoke. The alert level for an eruption has been raised to the second highest level, 4. In addition, the entire population of Vanuatu's Aoba Island, also at alert level 4, is being moved from the path of the increasingly active Lombenben volcano. ](/news/2017/09/28/more-than-134-000-people-on-the-island-of-bali-indonesia-have-been-taken-to-shelters-as-the-mount-agung-volcano-continues-to-release-smoke.md) _Context: Indonesia_
 5. [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md) _Context: Indonesia_
+
+### Changes:
+
+1. [ Algeria's presidential election takes place. ](/news/2009/04/9/algeria-s-presidential-election-takes-place.md) _2017-10-03 03:27:10 (First version)_
+1. [ Indonesia's legislative election takes place. ](/news/2009/04/9/indonesia-s-legislative-election-takes-place.md) _(Current version)_

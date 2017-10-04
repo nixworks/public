@@ -17,3 +17,8 @@ Tehran (AFP) - Iran said on Saturday that it had successfully tested a new mediu
 3. [ The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md) _Context: Iran, Iran and weapons of mass destruction_
 4. [ The European Union agrees to tougher sanctions against Iran for its alleged nuclear weapons program with the United Kingdom freezing assets of Iran's largest bank Bank Melli. ](/news/2008/06/16/the-european-union-agrees-to-tougher-sanctions-against-iran-for-its-alleged-nuclear-weapons-program-with-the-united-kingdom-freezing-assets.md) _Context: Iran, Iran and weapons of mass destruction_
 5. [ The President of the United States George W. Bush and the President of France Nicolas Sarkozy warn Syria to break with Iran and state that they will not allow Iran to obtain nuclear weapons. ](/news/2008/06/14/the-president-of-the-united-states-george-w-bush-and-the-president-of-france-nicolas-sarkozy-warn-syria-to-break-with-iran-and-state-that.md) _Context: Iran, Iran and weapons of mass destruction_
+
+### Changes:
+
+1. [Iran successfully tests the Khoramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khoramshahr-missile.md) _2017-09-23 11:30:05 (First version)_
+1. [Iran successfully tests the Khorramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khorramshahr-missile.md) _(Current version)_

@@ -17,3 +17,8 @@ President Benigno Aquino III says group that beheaded Canadian man also plotted 
 3. [Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict_
 4. [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict_
 5. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _Context: Abu Sayyaf, Moro conflict_
+
+### Changes:
+
+1. [Moro conflict: Philippine president Benigno Aquino III says that the Abu Sayyaf militants plan to kidnap his sister actress Kris Aquino and boxer Manny Pacquiao. ](/news/2016/04/27/moro-conflict-philippine-president-benigno-aquino-iii-says-that-the-abu-sayyaf-militants-plan-to-kidnap-his-sister-actress-kris-aquino-and.md) _2017-08-27 03:45:52 (First version)_
+1. [Philippine president Benigno Aquino III says that the Abu Sayyaf militants plan to kidnap his sister actress Kris Aquino and boxer Manny Pacquiao. ](/news/2016/04/27/philippine-president-benigno-aquino-iii-says-that-the-abu-sayyaf-militants-plan-to-kidnap-his-sister-actress-kris-aquino-and-boxer-manny-pac.md) _(Current version)_

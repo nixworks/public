@@ -17,3 +17,8 @@
 3. [The United States is to deploy troops to Somalia for the first time since 1994 to help train the Somali Armed Forces in their conflict with al-Shabaab insurgents. ](/news/2017/04/14/the-united-states-is-to-deploy-troops-to-somalia-for-the-first-time-since-1994-to-help-train-the-somali-armed-forces-in-their-conflict-with.md) _Context: Al-Shabaab, Somalian, War in Somalia (2009-present)_
 4. [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md) _Context: Al-Shabaab, Somalian, War in Somalia (2009-present)_
 5. [A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. ](/news/2016/08/30/a-car-bomb-explodes-outside-the-president-of-somalia-s-compound-in-mogadishu-claiming-at-least-ten-people-s-lives-al-shabaab-has-claimed-re.md) _Context: Al-Shabaab, President of Somalia, War in Somalia (2009-present)_
+
+### Changes:
+
+1. [War in Somalia (2009-present): Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/war-in-somalia-2009-present-somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-y.md) _2017-08-27 03:40:57 (First version)_
+1. [Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-yesterday.md) _(Current version)_

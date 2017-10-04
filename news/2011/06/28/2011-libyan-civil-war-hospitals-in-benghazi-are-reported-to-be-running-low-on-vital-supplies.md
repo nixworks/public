@@ -22,3 +22,9 @@ Scenes of jubilation in city besieged for weeks as Gaddafi becomes a wanted man.
 3. [Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-benghazi-from-ansar-al-sharia.md) _Context: Benghazi_
 4. [A car bomb in Benghazi kills three children and injures 20 others. ](/news/2016/11/21/a-car-bomb-in-benghazi-kills-three-children-and-injures-20-others.md) _Context: Benghazi_
 5. [A car bombing in the Al-Quwarsha area on the outskirts of Benghazi claims at least 23 lives. The Shura Council of Benghazi Revolutionaries says it is responsible. ](/news/2016/08/2/a-car-bombing-in-the-al-quwarsha-area-on-the-outskirts-of-benghazi-claims-at-least-23-lives-the-shura-council-of-benghazi-revolutionaries-s.md) _Context: Benghazi_
+
+### Changes:
+
+1. [Arab Spring:2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-p2011-libyan-civil-war-phospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _2017-08-25 03:33:37 (First version)_
+2. [Arab Spring:: 2011 Libyan civil war:: Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _2017-08-27 03:33:44 (Update)_
+2. [2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _(Current version)_

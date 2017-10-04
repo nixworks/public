@@ -24,3 +24,9 @@
 3. [China is dealing with two typhoons in a week. Typhoon Linfa lost power after making landfall in southern China's Guangdong province Thursday. Typhoon Chan-hom (Falcon) is headed for landfall in eastern China near Shanghai this weekend. ](/news/2015/07/10/china-is-dealing-with-two-typhoons-in-a-week-typhoon-linfa-lost-power-after-making-landfall-in-southern-china-s-guangdong-province-thursday.md) _Context: China, Shanghai_
 4. [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md) _Context: China, Shanghai_
 5. [A sixth person dies in the People's Republic of China from the Influenza A virus subtype H7N9, after the closure of poultry markets in the city of Shanghai and a mass culling of 20,000 birds. ](/news/2013/04/5/a-sixth-person-dies-in-the-people-s-republic-of-china-from-the-influenza-a-virus-subtype-h7n9-after-the-closure-of-poultry-markets-in-the-c.md) _Context: China, Shanghai_
+
+### Changes:
+
+1. [Expo 2010:Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-phailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md) _2017-08-25 03:27:48 (First version)_
+2. [Expo 2010:: Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-hailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md) _2017-08-27 03:27:45 (Update)_
+2. [Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/hailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md) _(Current version)_

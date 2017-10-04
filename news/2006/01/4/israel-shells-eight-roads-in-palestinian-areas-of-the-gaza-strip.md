@@ -17,3 +17,9 @@
 3. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Gaza, Palestinian_
 4. [Israel passes the Regulation Law which retroactively legalizes 4,000 housing units in 16 settlements on Area C West Bank occupied Palestinian territories. ](/news/2017/02/6/israel-passes-the-regulation-law-which-retroactively-legalizes-4-000-housing-units-in-16-settlements-on-area-c-west-bank-occupied-palestinia.md) _Context: Israel, Palestinian_
 5. [Israeli security forces begin evicting people from the illegal Amona, Mateh Binyamin, outpost built on private Palestinian-owned land near Ramallah in the central West Bank. The Supreme Court ordered residents to leave the area last year. ](/news/2017/02/1/israeli-security-forces-begin-evicting-people-from-the-illegal-amona-mateh-binyamin-outpost-built-on-private-palestinian-owned-land-near-r.md) _Context: Israel, Palestinian_
+
+### Changes:
+
+1. [ Israeli-Palestinian Conflict: Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israeli-palestinian-conflict-p-israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md) _2017-08-25 03:17:20 (First version)_
+2. [ Israeli-Palestinian Conflict:: Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israeli-palestinian-conflict-israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md) _2017-08-27 03:17:20 (Update)_
+2. [ Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md) _(Current version)_

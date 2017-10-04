@@ -19,3 +19,9 @@ The Yemeni air force Friday bombed tribesmen fighting to overthrow President Ali
 3. [2011 Yemeni uprising:The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/2011-yemeni-uprising-the-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-refuses-to-sign-a-t.md) _Context: President, Saleh_
 4. [Yemeni President Ali Abdullah Saleh reportedly refuses to sign a Gulf-brokered accord allowing him to resign within 30 days in exchange for immunity; the opposition signed the deal yesterday. ](/news/2011/05/22/yemeni-president-ali-abdullah-saleh-reportedly-refuses-to-sign-a-gulf-brokered-accord-allowing-him-to-resign-within-30-days-in-exchange-for.md) _Context: President, Saleh_
 5. [Yemeni President Ali Abdullah Saleh announces plans to move towards a parliamentary democracy, following weeks of demonstrations. ](/news/2011/03/10/yemeni-president-ali-abdullah-saleh-announces-plans-to-move-towards-a-parliamentary-democracy-following-weeks-of-demonstrations.md) _Context: President, Saleh_
+
+### Changes:
+
+1. [2011 Yemeni protests:Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-pgovernment-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _2017-08-25 03:33:16 (First version)_
+2. [2011 Yemeni protests:: Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-government-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _2017-08-27 03:33:26 (Update)_
+2. [Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/government-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _(Current version)_

@@ -16,7 +16,7 @@ _Context: Alfredo Reinhado, Jose Ramos-Horta, President, Prime Minister of East 
 _Context: Ferris wheel, London Eye, The Singapore Flyer_
 
 ### [ Gregg Bergersen, a United States Defense Department Analyst, is arrested and charged with espionage after being accused of leaking American military secrets to the Chinese government. ](/news/2008/02/11/gregg-bergersen-a-united-states-defense-department-analyst-is-arrested-and-charged-with-espionage-after-being-accused-of-leaking-american.md)
-_Context: Americans, China, Gregg Bergersen, U.S. military, espionage_
+_Context: Americans, China, Gregg Bergersen, U.S. military, spy_
 
 ## [Previous Day...](/news/2008/02/10/index.md)
 

@@ -20,3 +20,9 @@ Rebels fighting to overthrow Syrian President Bashar al-Assad have captured a ke
 3. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Syria, Turkey_
 4. [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md) _Context: Syria, Turkey_
 5. [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md) _Context: Syria, Turkey_
+
+### Changes:
+
+1. [Syrian civil war:Syrian rebels capture Menagh Military Airbase in Aleppo near the Turkish border. ](/news/2013/08/6/syrian-civil-war-psyrian-rebels-capture-menagh-military-airbase-in-aleppo-near-the-turkish-border.md) _2017-08-25 03:39:06 (First version)_
+2. [Syrian civil war:: Syrian rebels capture Menagh Military Airbase in Aleppo near the Turkish border. ](/news/2013/08/6/syrian-civil-war-syrian-rebels-capture-menagh-military-airbase-in-aleppo-near-the-turkish-border.md) _2017-08-27 03:39:22 (Update)_
+2. [Syrian rebels capture Menagh Military Airbase in Aleppo near the Turkish border. ](/news/2013/08/6/syrian-rebels-capture-menagh-military-airbase-in-aleppo-near-the-turkish-border.md) _(Current version)_

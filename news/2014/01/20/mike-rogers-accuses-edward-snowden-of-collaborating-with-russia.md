@@ -17,3 +17,8 @@ Several senior US lawmakers allege that intelligence leaker Edward Snowden may h
 3. [American National Security Agency whistleblower Edward Snowden is granted a one-year temporary political asylum in Russia and leaves Moscow's Sheremetyevo Airport. ](/news/2013/08/1/american-national-security-agency-whistleblower-edward-snowden-is-granted-a-one-year-temporary-political-asylum-in-russia-and-leaves-moscow.md) _Context: Edward Snowden, Russia_
 4. [Despite earlier reports to the contrary, fugitive NSA whistleblower Edward Snowden remains stranded at Sheremetyevo International Airport in Moscow, Russia. ](/news/2013/07/24/despite-earlier-reports-to-the-contrary-fugitive-nsa-whistleblower-edward-snowden-remains-stranded-at-sheremetyevo-international-airport-in.md) _Context: Edward Snowden, Russia_
 5. [Former United States spy agency contractor Edward Snowden applies for political asylum in Russia. ](/news/2013/07/1/former-united-states-spy-agency-contractor-edward-snowden-applies-for-political-asylum-in-russia.md) _Context: Edward Snowden, Russia_
+
+### Changes:
+
+1. [Global surveillance disclosures (2013-present): Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/global-surveillance-disclosures-2013-present-mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md) _2017-08-27 03:40:12 (First version)_
+1. [Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md) _(Current version)_

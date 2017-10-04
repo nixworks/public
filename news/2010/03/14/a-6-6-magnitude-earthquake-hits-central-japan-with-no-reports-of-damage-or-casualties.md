@@ -19,3 +19,9 @@ A strong earthquake hits off the eastern coast of central Japan, rattling buildi
 3. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: Japan_
 4. [Japan agrees to help with the construction of an Indian bullet train. ](/news/2017/09/14/japan-agrees-to-help-with-the-construction-of-an-indian-bullet-train.md) _Context: Japan_
 5. [North Korea fires a Hwasong-12 ballistic missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-hwasong-12-ballistic-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-th.md) _Context: Japan_
+
+### Changes:
+
+1. [Earthquakes:A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/earthquakes-pa-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md) _2017-08-25 03:27:22 (First version)_
+2. [Earthquakes:: A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/earthquakes-a-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md) _2017-08-27 03:27:18 (Update)_
+2. [A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/a-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md) _(Current version)_

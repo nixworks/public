@@ -16,3 +16,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md) _Context: Damascus_
 4. [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md) _Context: Damascus_
 5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus_
+
+### Changes:
+
+1. [Syrian Civil War:Mortar fire kills at least six people in a Damascus suburb. ](/news/2014/04/3/syrian-civil-war-pmortar-fire-kills-at-least-six-people-in-a-damascus-suburb.md) _2017-08-25 03:40:15 (First version)_
+2. [Syrian Civil War:: Mortar fire kills at least six people in a Damascus suburb. ](/news/2014/04/3/syrian-civil-war-mortar-fire-kills-at-least-six-people-in-a-damascus-suburb.md) _2017-08-27 03:40:33 (Update)_
+2. [Mortar fire kills at least six people in a Damascus suburb. ](/news/2014/04/3/mortar-fire-kills-at-least-six-people-in-a-damascus-suburb.md) _(Current version)_

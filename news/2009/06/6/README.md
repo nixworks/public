@@ -31,7 +31,7 @@ _Context: Air France, Atlantic Ocean, crash of Air France Flight 447_
 _Context: Mindanao, Moro Islamic Liberation Front, Philippines, army, communist insurgency_
 
 ### [ Former West Berlin police officer Karl-Heinz Kurras is revealed to have spied for East Germany's Stasi. ](/news/2009/06/6/former-west-berlin-police-officer-karl-heinz-kurras-is-revealed-to-have-spied-for-east-germany-s-stasi.md)
-_Context: East Germany, Karl-Heinz Kurras, Stasi, West Berlin, espionage, police officer_
+_Context: East Germany, Karl-Heinz Kurras, Stasi, West Berlin, police officer, spy_
 
 ### [ Harvard University discovers a molecular mechanism that regulates coagulation. ](/news/2009/06/6/harvard-university-discovers-a-molecular-mechanism-that-regulates-coagulation.md)
 _Context: Harvard University, coagulation, molecule_

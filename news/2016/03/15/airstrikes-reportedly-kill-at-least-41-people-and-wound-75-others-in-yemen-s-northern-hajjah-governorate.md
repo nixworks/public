@@ -17,3 +17,8 @@
 3. [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md) _Context: Saudi Arabian-led intervention in Yemen, Yemen_
 4. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Saudi Arabian-led intervention in Yemen, Yemen_
 5. [The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/the-united-states-is-to-limit-military-support-to-saudi-arabia-s-military-intervention-in-yemen-amid-concerns-over-rising-civilian-casualtie.md) _Context: Saudi Arabian-led intervention in Yemen, Yemen_
+
+### Changes:
+
+1. [Saudi Arabian-led intervention in Yemen: Airstrikes reportedly kill at least 41 people and wound 75 others in Yemen's northern Hajjah Governorate. ](/news/2016/03/15/saudi-arabian-led-intervention-in-yemen-airstrikes-reportedly-kill-at-least-41-people-and-wound-75-others-in-yemen-s-northern-hajjah-govern.md) _2017-08-27 03:45:15 (First version)_
+1. [Airstrikes reportedly kill at least 41 people and wound 75 others in Yemen's northern Hajjah Governorate. ](/news/2016/03/15/airstrikes-reportedly-kill-at-least-41-people-and-wound-75-others-in-yemen-s-northern-hajjah-governorate.md) _(Current version)_

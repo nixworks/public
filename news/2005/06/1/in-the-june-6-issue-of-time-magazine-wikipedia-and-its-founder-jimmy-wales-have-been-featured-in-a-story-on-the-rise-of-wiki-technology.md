@@ -16,3 +16,8 @@
 3. [ Jimmy Wales clarifies the recent media statements made about possible changes to Wikipedia editorial content. ](/news/2005/08/6/jimmy-wales-clarifies-the-recent-media-statements-made-about-possible-changes-to-wikipedia-editorial-content.md) _Context: Jimmy Wales, Wikipedia_
 4. [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md) _Context: Wikipedia_
 5. [Wikipedia co-founder Jimmy Wales announces plans for a crowdfunded news website, "Wikitribune", that will publish stories by journalists, with contributions, including fact checking, by volunteers to, among other goals, counter the recent spread of so-called "fake news". ](/news/2017/04/25/wikipedia-co-founder-jimmy-wales-announces-plans-for-a-crowdfunded-news-website-wikitribune-that-will-publish-stories-by-journalists-wi.md) _Context: Jimmy Wales_
+
+### Changes:
+
+1. [ In the June 6 issue of ''TIME Magazine'', Wikipedia and its founder Jimmy Wales have been featured in a story on the rise of wiki technology. ](/news/2005/06/1/in-the-june-6-issue-of-time-magazine-wikipedia-and-its-founder-jimmy-wales-have-been-featured-in-a-story-on-the-rise-of-wiki-technolog.md) _2017-08-25 03:16:19 (First version)_
+1. [ In the June 6 issue of "TIME Magazine", Wikipedia and its founder Jimmy Wales have been featured in a story on the rise of wiki technology. ](/news/2005/06/1/in-the-june-6-issue-of-time-magazine-wikipedia-and-its-founder-jimmy-wales-have-been-featured-in-a-story-on-the-rise-of-wiki-technology.md) _(Current version)_

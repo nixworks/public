@@ -18,3 +18,8 @@ The death toll from the worst ever outbreak of Ebola has reached 1,013 after ano
 3. [The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md) _Context: ebola virus_
 4. [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _Context: ebola virus_
 5. [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md) _Context: ebola virus_
+
+### Changes:
+
+1. [2014 West Africa Ebola virus outbreak: The death toll from the Ebola virus outbreak passes 1,000. ](/news/2014/08/12/2014-west-africa-ebola-virus-outbreak-the-death-toll-from-the-ebola-virus-outbreak-passes-1-000.md) _2017-08-27 03:41:08 (First version)_
+1. [The death toll from the Ebola virus outbreak passes 1,000. ](/news/2014/08/12/the-death-toll-from-the-ebola-virus-outbreak-passes-1-000.md) _(Current version)_

@@ -16,3 +16,8 @@
 3. [Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-america.md) _Context: 2016 Atlantic hurricane season_
 4. [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md) _Context: 2016 Atlantic hurricane season_
 5. [Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km-h winds) approaching the North Carolina coast. ](/news/2016/10/8/hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-businesses-in-the-southeastern-uni.md) _Context: 2016 Atlantic hurricane season_
+
+### Changes:
+
+1. [2016 Atlantic hurricane season: Hurricane Alex heads towards the Azores with hurricane warnings in place for several islands. ](/news/2016/01/15/2016-atlantic-hurricane-season-hurricane-alex-heads-towards-the-azores-with-hurricane-warnings-in-place-for-several-islands.md) _2017-08-27 03:44:40 (First version)_
+1. [Hurricane Alex heads towards the Azores with hurricane warnings in place for several islands. ](/news/2016/01/15/hurricane-alex-heads-towards-the-azores-with-hurricane-warnings-in-place-for-several-islands.md) _(Current version)_

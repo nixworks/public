@@ -19,3 +19,8 @@
 3. [Voters in Tunisia go to the polls for the country's first election since the Tunisian Revolution. ](/news/2011/10/23/voters-in-tunisia-go-to-the-polls-for-the-country-s-first-election-since-the-tunisian-revolution.md) _Context: Jasmine Revolution of 2011, Tunisia_
 4. [The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/the-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md) _Context: Arab Spring, Tunisia_
 5. [More than 400 people fleeing Libya and Tunisia arrive on the Italian island of Lampedusa in two boats, the latest in a stream of refugees fleeing the ongoing conflicts in North Africa. ](/news/2011/05/14/more-than-400-people-fleeing-libya-and-tunisia-arrive-on-the-italian-island-of-lampedusa-in-two-boats-the-latest-in-a-stream-of-refugees-fl.md) _Context: Arab Spring, Tunisia_
+
+### Changes:
+
+1. [Tunisian presidential election, 2014: Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/tunisian-presidential-election-2014-voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring.md) _2017-08-27 03:41:33 (First version)_
+1. [Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring-s-jasmine-revolution.md) _(Current version)_

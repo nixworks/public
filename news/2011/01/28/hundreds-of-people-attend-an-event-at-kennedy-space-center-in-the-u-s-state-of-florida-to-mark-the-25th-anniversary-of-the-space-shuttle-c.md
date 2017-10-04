@@ -17,3 +17,8 @@ Nasa officials gather at Kennedy Space Center in Florida to mark the 25th annive
 3. [NASA's Space Shuttle "Endeavour" successfully launches from the Kennedy Space Center in the U.S. state of Florida on its final mission. ](/news/2011/05/16/nasa-s-space-shuttle-endeavour-successfully-launches-from-the-kennedy-space-center-in-the-u-s-state-of-florida-on-its-final-mission.md) _Context: Florida, Kennedy Space Center_
 4. [The Space Shuttle "Discovery" makes its final landing at the Kennedy Space Center in Florida, after 27 years of service. ](/news/2011/03/9/the-space-shuttle-discovery-makes-its-final-landing-at-the-kennedy-space-center-in-florida-after-27-years-of-service.md) _Context: Florida, Kennedy Space Center_
 5. [Space Shuttle "Atlantis" completes its final scheduled mission after landing at Kennedy Space Center, Florida. ](/news/2010/05/26/space-shuttle-atlantis-completes-its-final-scheduled-mission-after-landing-at-kennedy-space-center-florida.md) _Context: Florida, Kennedy Space Center_
+
+### Changes:
+
+1. [Hundreds of people attend an event at Kennedy Space Center in the U.S. state of Florida to mark the 25th anniversary of the Space Shuttle ''Challenger'' disaster. ](/news/2011/01/28/hundreds-of-people-attend-an-event-at-kennedy-space-center-in-the-u-s-state-of-florida-to-mark-the-25th-anniversary-of-the-space-shuttle.md) _2017-08-25 03:31:57 (First version)_
+1. [Hundreds of people attend an event at Kennedy Space Center in the U.S. state of Florida to mark the 25th anniversary of the Space Shuttle "Challenger" disaster. ](/news/2011/01/28/hundreds-of-people-attend-an-event-at-kennedy-space-center-in-the-u-s-state-of-florida-to-mark-the-25th-anniversary-of-the-space-shuttle-c.md) _(Current version)_

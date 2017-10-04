@@ -17,3 +17,9 @@ A huge new study conducted in 33 sites across Europe finds that seeds coated wit
 3. [German chemical and pharmaceutical company Bayer bids to merge with American agrochemical and agricultural firm Monsanto. ](/news/2016/05/19/german-chemical-and-pharmaceutical-company-bayer-bids-to-merge-with-american-agrochemical-and-agricultural-firm-monsanto.md) _Context: Bayer_
 4. [China's state owned ChemChina offers to buy Swiss pesticide and seed manufacturer Syngenta for $43 billion. ](/news/2016/02/3/china-s-state-owned-chemchina-offers-to-buy-swiss-pesticide-and-seed-manufacturer-syngenta-for-43-billion.md) _Context: Syngenta_
 5. [The United States Department of Agriculture reports that more than 40% of honey bee colonies died in the preceding year. Farmers rely on honey bees to pollinate over half the country's food supply annually. ](/news/2015/05/13/the-united-states-department-of-agriculture-reports-that-more-than-40-of-honey-bee-colonies-died-in-the-preceding-year-farmers-rely-on-hon.md) _Context: Colony collapse disorder_
+
+### Changes:
+
+1. [A study funded by Bayer and Syngenta confirms that neonicotinoids kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoids-kill-queen-and-worker-bees.md) _2017-06-30 16:30:07 (First version)_
+2. [Colony collapse disorder: A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. ](/news/2017/06/30/colony-collapse-disorder-a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoid-insecticides-kill-queen-and-worker-bees.md) _2017-08-27 03:48:35 (Update)_
+2. [A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoid-insecticides-kill-queen-and-worker-bees.md) _(Current version)_

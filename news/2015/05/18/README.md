@@ -19,7 +19,7 @@ _Context: 2015 Philadelphia train derailment, Amtrak, New York City, Philadelphi
 A massive landslide tore through a ravine in northwest Colombia Monday before dawn, killing at least 62 people and injuring 40, authorities said. Most residents were sleeping when the landslide hit the municipality of Salgar around 3:00 am, burying a large area in mud and debris. The rush of mud and
 
 ### [The United States Secretary of State, John Kerry, assures South Korea of "ironclad" American security commitments on a visit to Seoul while accusing North Korea of a litany of crimes. ](/news/2015/05/18/the-united-states-secretary-of-state-john-kerry-assures-south-korea-of-ironclad-american-security-commitments-on-a-visit-to-seoul-while.md)
-_Context: John Kerry, North Korea, Seoul, South Korea, United States Secretary of State_
+_Context: John Kerry, North Korea, Secretary of State, Seoul, South Korea_
 
 ### [The Philippines says that it is willing to accept 3,000 Rohingya refugees after an accusation by a newspaper was made. Last week Indonesia turned away boats carrying over 1,000 Rohingya refugees. ](/news/2015/05/18/the-philippines-says-that-it-is-willing-to-accept-3-000-rohingya-refugees-after-an-accusation-by-a-newspaper-was-made-last-week-indonesia-t.md)
 _Context: Indonesia, Philippines, Rohingya people_

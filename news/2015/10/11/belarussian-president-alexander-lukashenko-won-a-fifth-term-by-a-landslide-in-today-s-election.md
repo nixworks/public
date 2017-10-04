@@ -19,3 +19,8 @@
 3. [ President of Belarus Alexander Lukashenko refuses to attend the Collective Security Treaty Organisation summit in Moscow after Russia's ban of Belarusian milk and dairy imports. ](/news/2009/06/14/president-of-belarus-alexander-lukashenko-refuses-to-attend-the-collective-security-treaty-organisation-summit-in-moscow-after-russia-s-ban.md) _Context: Alexander Lukashenko, Belarussian President_
 4. [ The Czech Republic invites Belarussian President Alexander Lukashenko to a European Union summit in May. ](/news/2009/04/17/the-czech-republic-invites-belarussian-president-alexander-lukashenko-to-a-european-union-summit-in-may.md) _Context: Alexander Lukashenko, Belarussian President_
 5. [ The European Union temporarily lifts travel bans on Belarusian President Alexander Lukashenko and other top officials for six months to encourage democratic reforms in that country. ](/news/2008/10/13/the-european-union-temporarily-lifts-travel-bans-on-belarusian-president-alexander-lukashenko-and-other-top-officials-for-six-months-to-enc.md) _Context: Alexander Lukashenko, Belarussian President_
+
+### Changes:
+
+1. [Belarusian presidential election, 2015: Belarussian President Alexander Lukashenko won a fifth term by a landslide in today's election. ](/news/2015/10/11/belarusian-presidential-election-2015-belarussian-president-alexander-lukashenko-won-a-fifth-term-by-a-landslide-in-today-s-election.md) _2017-08-27 03:43:18 (First version)_
+1. [Belarussian President Alexander Lukashenko won a fifth term by a landslide in today's election. ](/news/2015/10/11/belarussian-president-alexander-lukashenko-won-a-fifth-term-by-a-landslide-in-today-s-election.md) _(Current version)_

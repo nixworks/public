@@ -17,3 +17,8 @@
 3. [ Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a-near-term-default-is-a-virtual-certa.md) _Context: Standard & Poor's_
 4. [Standard & Poor's reaches settlements totaling $1.5 billion with the U.S. Justice Department and several U.S. states for inflating ratings on subprime mortgage bonds in the lead-up to the 2008 financial crisis. ](/news/2015/02/3/standard-poor-s-reaches-settlements-totaling-1-5-billion-with-the-u-s-justice-department-and-several-u-s-states-for-inflating-ratings-o.md) _Context: Standard & Poor's_
 5. [Fitch Ratings downgrades Ukraine's credit rating to junk bond status predicting it is likely to default on its debts. ](/news/2015/02/13/fitch-ratings-downgrades-ukraine-s-credit-rating-to-junk-bond-status-predicting-it-is-likely-to-default-on-its-debts.md) _Context: junk bond_
+
+### Changes:
+
+1. [2014-15 Russian financial crisis: Standard & Poor's ratings agency cuts Russia's credit rating to junk status due to the impact of falling oil prices and sanctions. ](/news/2015/01/26/2014-15-russian-financial-crisis-standard-poor-s-ratings-agency-cuts-russia-s-credit-rating-to-junk-status-due-to-the-impact-of-falling.md) _2017-08-27 03:41:50 (First version)_
+1. [Standard & Poor's ratings agency cuts Russia's credit rating to junk status due to the impact of falling oil prices and sanctions. ](/news/2015/01/26/standard-poor-s-ratings-agency-cuts-russia-s-credit-rating-to-junk-status-due-to-the-impact-of-falling-oil-prices-and-sanctions.md) _(Current version)_

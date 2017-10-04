@@ -17,3 +17,8 @@ Afghan security forces exchanged fire with gunmen barricaded in a house near the
 3. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: War in Afghanistan_
 4. [A car bomb in Helmand Province kills up to 13 people, including Afghan Army soldiers and civilians, and wounds 18 others, according to government spokesman Omar Zwak. ](/news/2017/08/27/a-car-bomb-in-helmand-province-kills-up-to-13-people-including-afghan-army-soldiers-and-civilians-and-wounds-18-others-according-to-gover.md) _Context: War in Afghanistan_
 5. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _Context: War in Afghanistan_
+
+### Changes:
+
+1. [War in Afghanistan: Islamic State militants attack Pakistan's consulate in Jalalabad, Afghanistan, killing 9 people and injuring 12 more. ](/news/2016/01/13/war-in-afghanistan-islamic-state-militants-attack-pakistan-s-consulate-in-jalalabad-afghanistan-killing-9-people-and-injuring-12-more.md) _2017-08-27 03:44:40 (First version)_
+1. [Islamic State militants attack Pakistan's consulate in Jalalabad, Afghanistan, killing 9 people and injuring 12 more. ](/news/2016/01/13/islamic-state-militants-attack-pakistan-s-consulate-in-jalalabad-afghanistan-killing-9-people-and-injuring-12-more.md) _(Current version)_

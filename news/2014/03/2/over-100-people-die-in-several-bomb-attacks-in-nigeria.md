@@ -17,3 +17,9 @@ It was another tragic day in Maiduguri, Borno State capital, yesterday, after tw
 3. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
 4. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
 5. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Nigeria_
+
+### Changes:
+
+1. [Islamist insurgency in Nigeria:Over 100 people die in several bomb attacks in Nigeria. ](/news/2014/03/2/islamist-insurgency-in-nigeria-pover-100-people-die-in-several-bomb-attacks-in-nigeria.md) _2017-08-25 03:40:06 (First version)_
+2. [Islamist insurgency in Nigeria:: Over 100 people die in several bomb attacks in Nigeria. ](/news/2014/03/2/islamist-insurgency-in-nigeria-over-100-people-die-in-several-bomb-attacks-in-nigeria.md) _2017-08-27 03:40:24 (Update)_
+2. [Over 100 people die in several bomb attacks in Nigeria. ](/news/2014/03/2/over-100-people-die-in-several-bomb-attacks-in-nigeria.md) _(Current version)_

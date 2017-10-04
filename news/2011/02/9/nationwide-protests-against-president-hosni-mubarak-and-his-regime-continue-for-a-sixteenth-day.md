@@ -24,3 +24,9 @@ CAIRO — Egypt’s embattled regime warned of a military crackdown on Wednesday
 3. [Egypt's highest court overturns and initiates a retrial on the only remaining conviction against former President Hosni Mubarak (a May 2014 sentencing of three years in prison for embezzlement). ](/news/2015/01/13/egypt-s-highest-court-overturns-and-initiates-a-retrial-on-the-only-remaining-conviction-against-former-president-hosni-mubarak-a-may-2014.md) _Context: Egyptian President, Hosni Mubarak_
 4. [A Cairo court clears former President of Egypt Hosni Mubarak on murder charges related to the death of hundreds of protesters in the 2011 Egyptian revolution. ](/news/2014/11/29/a-cairo-court-clears-former-president-of-egypt-hosni-mubarak-on-murder-charges-related-to-the-death-of-hundreds-of-protesters-in-the-2011-eg.md) _Context: Egyptian President, Hosni Mubarak_
 5. [Former President of Egypt Hosni Mubarak is sentenced to three years in jail for embezzlement. ](/news/2014/05/21/former-president-of-egypt-hosni-mubarak-is-sentenced-to-three-years-in-jail-for-embezzlement.md) _Context: Egyptian President, Hosni Mubarak_
+
+### Changes:
+
+1. [2011 Egyptian protests:Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-pnationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _2017-08-25 03:32:07 (First version)_
+2. [2011 Egyptian protests:: Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-nationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _2017-08-27 03:32:15 (Update)_
+2. [Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/nationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _(Current version)_

@@ -17,3 +17,8 @@
 3. [Chinese President Hu Jintao begins a four-day state visit to the United States. ](/news/2011/01/18/chinese-president-hu-jintao-begins-a-four-day-state-visit-to-the-united-states.md) _Context: China, Hu Jintao_
 4. [China and North Korea acknowledge the leader of North Korea Kim Jong Il visited China recently where he met with the President of China Hu Jintao. ](/news/2010/08/30/china-and-north-korea-acknowledge-the-leader-of-north-korea-kim-jong-il-visited-china-recently-where-he-met-with-the-president-of-china-hu-j.md) _Context: China, Hu Jintao_
 5. [ North Korean leader Kim Jong-il tells a visiting envoy of Chinese President Hu Jintao he is willing to engage in talks on his country's nuclear programme. ](/news/2009/09/18/north-korean-leader-kim-jong-il-tells-a-visiting-envoy-of-chinese-president-hu-jintao-he-is-willing-to-engage-in-talks-on-his-country-s-nuc.md) _Context: China, Hu Jintao_
+
+### Changes:
+
+1. [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstan-china-oil-pipeline-connecting-central-asia-to-china.md) _2017-08-27 03:26:27 (First version)_
+1. [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstanachina-oil-pipeline-connecting-central-asia-to-china.md) _(Current version)_

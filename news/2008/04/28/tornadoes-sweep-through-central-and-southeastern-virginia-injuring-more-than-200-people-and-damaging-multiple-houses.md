@@ -17,3 +17,8 @@
 3. [ Tornadoes of 2008: Two people from Colorado die in a tornado south of Pratt, Kansas as more than a dozen tornadoes hit Kansas. ](/news/2008/05/24/tornadoes-of-2008-two-people-from-colorado-die-in-a-tornado-south-of-pratt-kansas-as-more-than-a-dozen-tornadoes-hit-kansas.md) _Context: Tornadoes of 2008, tornado_
 4. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: tornado_
 5. [The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-rises-to-ten-with-two-people-missing.md) _Context: tornado_
+
+### Changes:
+
+1. [ Tornadoes of 2008: Tornadoes sweep through central and southeastern Virginia injuring more than 200 people and damaging multiple houses. ](/news/2008/04/28/tornadoes-of-2008-tornadoes-sweep-through-central-and-southeastern-virginia-injuring-more-than-200-people-and-damaging-multiple-houses.md) _2017-08-27 03:21:59 (First version)_
+1. [ Tornadoes sweep through central and southeastern Virginia injuring more than 200 people and damaging multiple houses. ](/news/2008/04/28/tornadoes-sweep-through-central-and-southeastern-virginia-injuring-more-than-200-people-and-damaging-multiple-houses.md) _(Current version)_

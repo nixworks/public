@@ -18,3 +18,8 @@ The latest donation brings total U.S. aid over four years to $4.5 billion, more 
 3. [Croatia reopens its border with Serbia allowing thousands of refugees to cross. ](/news/2015/10/19/croatia-reopens-its-border-with-serbia-allowing-thousands-of-refugees-to-cross.md) _Context: Croatia, European migrant crisis, Serbia_
 4. [The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md) _Context: Croatia, European migrant crisis, Hungary_
 5. [Croatia reopens its border with Serbia. ](/news/2015/09/25/croatia-reopens-its-border-with-serbia.md) _Context: Croatia, European migrant crisis, Serbia_
+
+### Changes:
+
+1. [European migrant crisis: Hungary's parliament passes a law allowing the Hungarian military to help handle the migrant crisis at its borders with Serbia and Croatia, including the right to use non-lethal force such as rubber bullets, pyrotechnical devices, tear gas grenades or net guns. ](/news/2015/09/21/european-migrant-crisis-hungary-s-parliament-passes-a-law-allowing-the-hungarian-military-to-help-handle-the-migrant-crisis-at-its-borders.md) _2017-08-27 03:43:07 (First version)_
+1. [Hungary's parliament passes a law allowing the Hungarian military to help handle the migrant crisis at its borders with Serbia and Croatia, including the right to use non-lethal force such as rubber bullets, pyrotechnical devices, tear gas grenades or net guns. ](/news/2015/09/21/hungary-s-parliament-passes-a-law-allowing-the-hungarian-military-to-help-handle-the-migrant-crisis-at-its-borders-with-serbia-and-croatia.md) _(Current version)_

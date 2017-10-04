@@ -13,7 +13,7 @@ The Iranian Intelligence Ministry has released the names of and other informatio
 The United States shot down a pro-Syrian government drone that fired toward U.S.-led coalition forces in Syria on Thursday, a U.S. military spokesman said, in a major escalation of tensions between Washington and troops supporting Damascus.
 
 ### [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md)
-_Context: Ben Jacobs, Committee to Protect Journalists, Freedom of the press in the United States, Greg Gianforte, Montana, US$, body slam_
+_Context: $, Ben Jacobs, Committee to Protect Journalists, Freedom of the press in the United States, Greg Gianforte, Montana, body slam_
 
 ### [At a United Nations-Oceans summit, delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their levels of oceanic plastic pollution. ](/news/2017/06/8/at-a-united-nations-oceans-summit-delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into.md)
 China, Thailand, Indonesia and the Philippines say they will act to stop plastic polluting the oceans.

@@ -17,3 +17,9 @@ Son and assumed heir of Kim Jong-il pays respects as South Korea sends condolenc
 3. [Kim Jong-un attends the Arirang Festival performance in Pyongyang with his father Kim Jong-il. It is Kim Jong-un's first appearance before the world's media. ](/news/2010/10/9/kim-jong-un-attends-the-arirang-festival-performance-in-pyongyang-with-his-father-kim-jong-il-it-is-kim-jong-un-s-first-appearance-before-t.md) _Context: Kim Jong-il, Pyongyang_
 4. [The governing Workers Party of North Korea reschedules its first party conference for thirty years for September 28 in Pyongyang amongst speculation that Leader Kim Jong-il will name his youngest son Kim Jong-un as his successor. ](/news/2010/09/21/the-governing-workers-party-of-north-korea-reschedules-its-first-party-conference-for-thirty-years-for-september-28-in-pyongyang-amongst-spe.md) _Context: Kim Jong-il, Pyongyang_
 5. [ The President of South Korea Roh Moo-hyun and the leader of North Korea Kim Jong-il commence talks in Pyongyang. ](/news/2007/10/3/the-president-of-south-korea-roh-moo-hyun-and-the-leader-of-north-korea-kim-jong-il-commence-talks-in-pyongyang.md) _Context: Kim Jong-il, Pyongyang_
+
+### Changes:
+
+1. [Death of Kim Jong-il:The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-pthe-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md) _2017-08-25 03:34:41 (First version)_
+2. [Death of Kim Jong-il:: The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-the-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md) _2017-08-27 03:34:51 (Update)_
+2. [The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/the-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md) _(Current version)_

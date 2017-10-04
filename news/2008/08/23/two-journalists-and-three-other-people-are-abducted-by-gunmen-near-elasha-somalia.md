@@ -16,3 +16,8 @@
 3. [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed inside his vehicle by security forces near the Villa Somalia in the capital Mogadishu, after mistaking him for a militant. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-inside-his-vehicle-by-security-forces-near-the-villa-somalia-i.md) _Context: Somalian_
 4. [Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.md) _Context: Somalian_
 5. [Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: Somalian_
+
+### Changes:
+
+1. [ War in Somalia (2006-09): Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/war-in-somalia-2006-09-two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md) _2017-08-27 03:22:38 (First version)_
+1. [ Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md) _(Current version)_

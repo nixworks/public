@@ -17,3 +17,8 @@ A device is made safe as Russian police investigating the metro bombing make fur
 3. [Anti-government protests take place in cities across Russia, with 100 protesters detained at rallies in Moscow and Saint Petersburg. ](/news/2010/02/1/anti-government-protests-take-place-in-cities-across-russia-with-100-protesters-detained-at-rallies-in-moscow-and-saint-petersburg.md) _Context: Russia, Saint Petersburg_
 4. [ A bomb damages a statue of Vladimir Lenin near Finlyandsky Rail Terminal in Saint Petersburg, Russia. ](/news/2009/04/1/a-bomb-damages-a-statue-of-vladimir-lenin-near-finlyandsky-rail-terminal-in-saint-petersburg-russia.md) _Context: Russia, Saint Petersburg_
 5. [ Three people are killed in a car bombing near the Udelnaya Metro station in Saint Petersburg, Russia. ](/news/2008/11/25/three-people-are-killed-in-a-car-bombing-near-the-udelnaya-metro-station-in-saint-petersburg-russia.md) _Context: Russia, Saint Petersburg_
+
+### Changes:
+
+1. [2017 Saint Petersburg Metro bombing: Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/2017-saint-petersburg-metro-bombing-russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongo.md) _2017-08-27 03:48:07 (First version)_
+1. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _(Current version)_

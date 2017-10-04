@@ -17,3 +17,8 @@
 3. [A 450-year-old "Madonna and Child" work sells for $16.9 million at Sotheby's in New York, a new auction record for Titian. ](/news/2011/01/28/a-450-year-old-madonna-and-child-work-sells-for-16-9-million-at-sotheby-s-in-new-york-a-new-auction-record-for-titian.md) _Context: Sotheby's_
 4. [John Lennon's handwritten lyrics to "A Day in the Life" sell for $1.2 million at Sotheby's. ](/news/2010/06/18/john-lennon-s-handwritten-lyrics-to-a-day-in-the-life-sell-for-1-2-million-at-sotheby-s.md) _Context: Sotheby's_
 5. [ Sotheby's announces that it will auction an early version of the Magna Carta. ](/news/2007/09/25/sotheby-s-announces-that-it-will-auction-an-early-version-of-the-magna-carta.md) _Context: Sotheby's_
+
+### Changes:
+
+1. [A rare manuscript of an unfinished Jane Austen novel has sold for PS993,250 (US$1.6m) in London. The work, ''The Watsons'', was sold at Sotheby's for three times its estimated price. ](/news/2011/07/14/a-rare-manuscript-of-an-unfinished-jane-austen-novel-has-sold-for-aps993-250-us-1-6m-in-london-the-work-the-watsons-was-sold-at-soth.md) _2017-08-25 03:33:47 (First version)_
+1. [A rare manuscript of an unfinished Jane Austen novel has sold for GBP993,250 (US$1.6m) in London. The work, "The Watsons", was sold at Sotheby's for three times its estimated price. ](/news/2011/07/14/a-rare-manuscript-of-an-unfinished-jane-austen-novel-has-sold-for-agbp993-250-us-1-6m-in-london-the-work-the-watsons-was-sold-at-soth.md) _(Current version)_
