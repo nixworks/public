@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/4/index.md)
 
-### [The Spanish government sends Logistic Support armed forces into Catalonia to support riot police in Barcelona. ](/news/2017/10/4/the-spanish-government-sends-logistic-support-armed-forces-into-catalonia-to-support-riot-police-in-barcelona.md)
+### [Spanish Prime Minister Mariano Rajoy sends the Spanish Legion Logistic Support Group of armed forces into Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-sends-the-spanish-legion-logistic-support-group-of-armed-forces-into-catalonia-to-support-riot-police-i.md)
 SPAIN has sent in the army to support the Barcelona riot cops despite the Catalan leader’s fiery warning for Madrid not to interfere. Commanders deployed troops from the Logistic Support Group 41 (…
 
 ### [The Nobel Prize committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-prize-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-fo.md)
@@ -13,6 +13,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2017/10/3/index.md)
+
+### [ISIL releases video footage of two injured Russian soldiers it captured. However, the Russian Federation denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-injured-russian-soldiers-it-captured-however-the-russian-federation-denies-the-claims.md)
+In the video, a man identifies himself and a companion as Russian soldiers captured by ISIS during a counteroffensive against Syrian troops in Deir Ezzor.
 
 ### [The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the process of hydraulic fracturing. ](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.md)
 Energy minister Paul Wheelhouse tells MSPs that fracking &quot;cannot and will not take place in Scotland&quot;.
@@ -43,9 +46,6 @@ _Context: Jalal Talabani, Politics of Iraq, President of Iraq_
 
 ### [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md)
 Rainer Weiss, Barry C. Barish and Kip S. Thorne have won the 2017 Nobel Prize in physics for detection of black hole collisions that created gravitational waves. The LIGO and Virgo detectors in the United States and Italy were used to conduct the research.
-
-### [The Islamic State group releases video footage of two Russian soldiers it has captured. However, the Russian Federation denies the claims. ](/news/2017/10/3/the-islamic-state-group-releases-video-footage-of-two-russian-soldiers-it-has-captured-however-the-russian-federation-denies-the-claims.md)
-In the video, a man identifies himself and a companion as Russian soldiers captured by ISIS during a counteroffensive against Syrian troops in Deir Ezzor.
 
 ---
 

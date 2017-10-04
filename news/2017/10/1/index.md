@@ -4,7 +4,7 @@
 _Context: Americans, Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, Yemen, Yemeni Crisis (2011-present)_
 
 ### [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md)
-_Context: France, Islamic State, Marseille, Marseille stabbing, Saint Charles_
+_Context: France, ISIL, Marseille, Marseille stabbing, Saint Charles_
 
 ### [Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. ](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.md)
 _Context: Anglophone, Anglophone problem (Cameroon), Bamenda, Buea, Cameroon_
@@ -16,7 +16,7 @@ The Islamic State group on Sunday seized a town in central Syria known as a symb
 In addition to the two fatalities, hospital officials said at least 24 people had been wounded after a gunman opened fire at a country music concert.
 
 ### [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md)
-_Context: Bankruptcy in the United Kingdom, Monarch Airlines, United Kingdom, bankruptcy_
+_Context: Monarch Airlines, United Kingdom, bankruptcy_
 
 ### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
 Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.
