@@ -6,11 +6,14 @@ If confirmed, capture would mean only area of Iraq that remains under Islamic St
 ### [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md)
 _Context: British, Japanese, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature_
 
+### [Nicaragua's vice president says 15 people have been killed by flooding from this tropical storm. Costa Rica officials report seven people have been killed and 15 are missing. ](/news/2017/10/5/nicaragua-s-vice-president-says-15-people-have-been-killed-by-flooding-from-this-tropical-storm-costa-rica-officials-report-seven-people-ha.md)
+The Latest on Tropical Storm Nate (all times local): 5:30 p.m. Louisiana Gov. John Bel Edwards has declared a state of emergency as his state prepares for a direct hit from Tropical Storm Nate, possibly as a hurricane. The governor said 1,300 National Guard troops are being...
+
 ### [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md)
 _Context:  Russian President, King Salman, Moscow Kremlin, Russia-Saudi Arabia relations, Saudi Arabia, Syrian Civil War, Vladimir Putin_
 
-### [The Trump administration, through the Department of Justice, reverses an Obama-era policy which applied Title VII of the Civil Rights Act to disallow discrimination of transgender employees. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-applied-title-vii-of-the-civil-rights-act-to.md)
-_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, Trump administration, discrimination, transgender_
+### [The Department of Justice, reverses an Obama-era policy which applied Title VII of the Civil Rights Act to disallow discrimination of transgender employees. ](/news/2017/10/5/the-department-of-justice-reverses-an-obama-era-policy-which-applied-title-vii-of-the-civil-rights-act-to-disallow-discrimination-of-transg.md)
+_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, discrimination, transgender_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
