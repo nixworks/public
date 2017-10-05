@@ -9,8 +9,7 @@ At least 60 civilians were killed trying to flee heavy fighting in Deir Ezzor pr
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/09/rights-group-condemns-attacks-syrian-hospitals-170928072406051.html)
 2. [Middle East Eye](http://www.middleeasteye.net/news/russian-jets-kill-civilians-fleeing-across-euphrates-syrian-opposition-108491042)
-3. [RT](https://www.rt.com/news/405699-us-isis-syria-russia/)
-3. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/Russian%20Syria%20Reuters.JPG)
+2. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/Russian%20Syria%20Reuters.JPG)
 
 ### Related:
 
