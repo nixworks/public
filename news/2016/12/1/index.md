@@ -13,7 +13,7 @@ What are the unique traditions and social practices that Unesco wants to preserv
 Bolivia suspends the operating licence of LaMia, the airline whose plane crashed in Colombia killing 71 people.
 
 ### [Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. ](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.md)
-_Context: Crimea, Russia, Ukraine, Ukrainian crisis, its intervention in Ukraine_
+_Context: Crimea, Ukraine, Ukrainian crisis, its intervention in Ukraine, the Russian Federation_
 
 ### [The Israeli Ministry of Transportation orders a bus company in Beersheba to remove Arabic-language advertisements on their buses following complaints from several Jewish residents. ](/news/2016/12/1/the-israeli-ministry-of-transportation-orders-a-bus-company-in-beersheba-to-remove-arabic-language-advertisements-on-their-buses-following-c.md)
 Israeli buses remove Arabic-language announcements in southern city of Beersheba after pressure from Jewish residents.

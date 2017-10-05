@@ -10,7 +10,7 @@ _Context: Harriet Miers, Joshua Bolten, United States House of Representatives, 
 _Context: Northern Illinois University, opens fire at a lecture hall_
 
 ### [ President Vladimir Putin says Russia would target its missiles at Ukraine if it threatened Russia's national security. ](/news/2008/02/14/president-vladimir-putin-says-russia-would-target-its-missiles-at-ukraine-if-it-threatened-russia-s-national-security.md)
-_Context: Russia, Ukraine, Vladimir Putin_
+_Context: Ukraine, Vladimir Putin, the Russian Federation_
 
 ### [ The United States Navy will use an SM-3 missile to destroy USA 193, a broken National Reconnaissance Office spy satellite which contains unused hydrazine fuel. ](/news/2008/02/14/the-united-states-navy-will-use-an-sm-3-missile-to-destroy-usa-193-a-broken-national-reconnaissance-office-spy-satellite-which-contains-un.md)
 _Context:  NRO, SM-3, USA 193, United States Navy, hydrazine, spy satellite_

@@ -7,7 +7,7 @@ Pink Floyd end a legal battle with their record company EMI and sign a new five-
 The top rate of VAT rises from 17.5% to 20% as the government looks to boost tax revenue to cut the budget deficit.
 
 ### [Russia begins an operation to free 500 people stranded in ships by ice in the Sea of Okhotsk. ](/news/2011/01/4/russia-begins-an-operation-to-free-500-people-stranded-in-ships-by-ice-in-the-sea-of-okhotsk.md)
-_Context: Russia, Sea of Okhotsk_
+_Context: Sea of Okhotsk, the Russian Federation_
 
 ### [More evacuations take place in Queensland, Australia, as flood waters continued to rise and the Australian prime minister says damages could amount to hundreds of millions of dollars. ](/news/2011/01/4/more-evacuations-take-place-in-queensland-australia-as-flood-waters-continued-to-rise-and-the-australian-prime-minister-says-damages-could.md)
 _Context: Australia, Queensland_

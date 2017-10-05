@@ -13,7 +13,7 @@ _Context: Hezbollah, Israel, Lebanon, Nahariya, rocket_
 _Context: Bank of England, interest rate_
 
 ### [ Russia and Ukraine agree to resend natural gas through pipelines to Europe. ](/news/2009/01/8/russia-and-ukraine-agree-to-resend-natural-gas-through-pipelines-to-europe.md)
-_Context: Europe, Russia, Russia-Ukraine gas disputes, Ukraine, natural gas, pipeline_
+_Context: Europe, Russia-Ukraine gas disputes, Ukraine, natural gas, pipeline, the Russian Federation_
 
 ### [ Lasantha Wickrematunge is assassinated in Sri Lanka ](/news/2009/01/8/lasantha-wickrematunge-is-assassinated-in-sri-lanka.md)
 _Context: Lasantha Wickrematunge, Sri Lanka_

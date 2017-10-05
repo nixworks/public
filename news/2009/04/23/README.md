@@ -1,7 +1,7 @@
 ## [2009-04-23](/news/2009/04/23/index.md)
 
 ### [ General Motors will temporarily close 13 factories in the United States and Mexico. ](/news/2009/04/23/general-motors-will-temporarily-close-13-factories-in-the-united-states-and-mexico.md)
-_Context: Americans, General Motors, Mexico, factory_
+_Context: General Motors, Mexico, United States, factory_
 
 ### [ The Taliban's Students' Movement captures Buner District in Pakistan. ](/news/2009/04/23/the-taliban-s-students-movement-captures-buner-district-in-pakistan.md)
 _Context: Buner District, Pakistan, TTP, Taliban, War in North-West Pakistan_
@@ -22,7 +22,7 @@ _Context: Lesotho, Pakalitha Mosisili, Prime Minister, assassinated_
 _Context: Baghdad, Baqubah, Iraq, kill, suicide bombing_
 
 ### [ Iraq's government calculates that more than 110,000 Iraqis have died since the Iraq War began in 2003. ](/news/2009/04/23/iraq-s-government-calculates-that-more-than-110-000-iraqis-have-died-since-the-iraq-war-began-in-2003.md)
-_Context: 2003 invasion of Iraq, Iraq, Iraq War, Iraqi, government_
+_Context: 2003 invasion of Iraq, Iraq, Iraq War, Iraqi, Politics of Iraq_
 
 ## [Previous Day...](/news/2009/04/22/index.md)
 

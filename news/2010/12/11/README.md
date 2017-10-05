@@ -46,7 +46,7 @@ Police moved WikiLeaks chief Julian Assange to the segregation unit of a London 
 Mark Madoff, elder son of jailed financier Bernard Madoff, found dead in an apparent suicide.
 
 ### [Thousands of people in eastern Russia protest against proposed changes to the country's time zones. ](/news/2010/12/11/thousands-of-people-in-eastern-russia-protest-against-proposed-changes-to-the-country-s-time-zones.md)
-_Context: Russia, time zones_
+_Context: the Russian Federation, time zones_
 
 ### [Ivory Coast President Laurent Gbagbo is to seek talks with rival presidential candidate Alassane Ouattara to end the crisis in the country. The head of the Economic Community of West African States James Victor Gbeho rejects the idea of power-sharing talks. ](/news/2010/12/11/ivory-coast-president-laurent-gbagbo-is-to-seek-talks-with-rival-presidential-candidate-alassane-ouattara-to-end-the-crisis-in-the-country.md)
 President dismisses fears of civil war resumption following a poll he is widely thought to have lost to his rival.

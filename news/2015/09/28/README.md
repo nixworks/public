@@ -7,10 +7,10 @@ Hard-line militants seeking to gain territory after the end of the NATO combat m
 At least 38 people are reported to have been killed in an air strike on a wedding party in south-western Yemen.
 
 ### [ISIL claims responsibility for the killing of an Italian man in Dhaka. If verified, it would be Islamic State's first attack in Bangladesh. ](/news/2015/09/28/isil-claims-responsibility-for-the-killing-of-an-italian-man-in-dhaka-if-verified-it-would-be-islamic-state-s-first-attack-in-bangladesh.md)
-_Context: Bangladesh, Dhaka, Islamic State, Italian_
+_Context: Bangladesh, Dhaka, ISIL, Italian_
 
 ### [Pope Francis returns to Rome after finishing his trip to Cuba and the United States. ](/news/2015/09/28/pope-francis-returns-to-rome-after-finishing-his-trip-to-cuba-and-the-united-states.md)
-_Context: Americans, Cuba, Pope Francis, Pope Francis%27 visit to the United States, Rome_
+_Context: Cuba, Pope Francis, Pope Francis%27 visit to the United States, Rome, United States_
 
 ### [Royal Dutch Shell halts its drilling program for oil and gas off the coast of Alaska citing high costs and a challenging regulatory environment. ](/news/2015/09/28/royal-dutch-shell-halts-its-drilling-program-for-oil-and-gas-off-the-coast-of-alaska-citing-high-costs-and-a-challenging-regulatory-environm.md)
 Royal Dutch Shell Plc will halt exploration in the U.S. Arctic after $7 billion of spending ended with a well off Alaska that failed to find any meaningful quantities of oil or natural gas.
@@ -25,7 +25,7 @@ _Context: 2015 Pacific typhoon season, Taiwan, Typhoon Dujuan_
 _Context: Democratic Front, Milo Dukanovic, Montenegro, Podgorica_
 
 ### [Separatists won a clear majority of seats in Catalonia's parliament (72 out of 135) in this weekend's election that saw a record turnout of 78 percent. The winners will seek to unilaterally declare independence within 18 months. Spain's constitution does not allow any region to break away. Spanish Prime Minister Mariano Rajoy vows to fight the separatist plan. ](/news/2015/09/28/separatists-won-a-clear-majority-of-seats-in-catalonia-s-parliament-72-out-of-135-in-this-weekend-s-election-that-saw-a-record-turnout-of.md)
-_Context: Catalonia, Catalonian parliamentary election, 2015, Mariano Rajoy, Prime Minister_
+_Context: Catalonia, Catalonian parliamentary election, 2015, Mariano Rajoy, Spanish Prime Minister_
 
 ### [NASA states that it has found the best evidence yet of the existence of liquid water on Mars. The water is not pure but highly poisonous, containing various dissolved salts that on Earth only an extremophile microbe might survive within. ](/news/2015/09/28/nasa-states-that-it-has-found-the-best-evidence-yet-of-the-existence-of-liquid-water-on-mars-the-water-is-not-pure-but-highly-poisonous-co.md)
 NASA will detail a major science finding from the agency’s ongoing exploration of Mars during a news briefing at 11:30 a.m. EDT on Monday, Sept. 28 at the James Webb Auditorium at NASA Headquarters in Washington. The event will be broadcast live on NASA Television and the agency&#039;s website.

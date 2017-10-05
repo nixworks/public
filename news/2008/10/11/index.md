@@ -4,7 +4,7 @@
 _Context: Global financial crisis of September-October 2008_
 
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
-_Context: Americans, G7, George W. Bush, U.S. President_
+_Context: G7, George W. Bush, U.S. President, United States_
 
 ### [The International Monetary Fund warns of a global meltdown and offers to lend to countries if needed. ](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.md)
 _Context: International Monetary Fund, housing crisis_
@@ -16,7 +16,7 @@ _Context: Movement for Democratic Change, Politics of Zimbabwe, President, Presi
 _Context: Department of State, North Korea, state sponsor of terrorism_
 
 ### [ An earthquake struck southern Russia with tremors felt across five Russian regions. The epicentre was in Chechnya, with 12 dead. ](/news/2008/10/11/an-earthquake-struck-southern-russia-with-tremors-felt-across-five-russian-regions-the-epicentre-was-in-chechnya-with-12-dead.md)
-_Context: Chechnya, Russia, earthquake_
+_Context: Chechnya, earthquake, the Russian Federation_
 
 ### [ 2008 Pacific hurricane season: Hurricane Norbert reaches Category 3 strength as it nears Baja California in Mexico. ](/news/2008/10/11/2008-pacific-hurricane-season-hurricane-norbert-reaches-category-3-strength-as-it-nears-baja-california-in-mexico.md)
 _Context: 2008 Pacific hurricane season, Baja California, Hurricane Norbert, Mexico, Saffir-Simpson Hurricane Scale_

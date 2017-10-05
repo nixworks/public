@@ -7,7 +7,7 @@ _Context: ARENA, Central American Parliament, El Salvador, Guatemala City, Presi
 _Context: Caserma Ederle, Italy, U.S. soldiers, Vicenza, military installations, protest_
 
 ### [ The U.S. moves forward with plans to base a missile shield for National Missile Defense in the Czech Republic and Poland. In response, Russian officials have claimed they may target the two Eastern European countries. The Russians also claimed they could pull out of the 1987 Intermediate Range Nuclear Forces Treaty. ](/news/2007/02/19/the-u-s-moves-forward-with-plans-to-base-a-missile-shield-for-national-missile-defense-in-the-czech-republic-and-poland-in-response-russ.md)
-_Context: Czech Republic, INF Treaty, Polish, Russia, U.S., eastern Europe, missile interceptor_
+_Context: Czech Republic, INF Treaty, Polish, U.S., eastern Europe, missile interceptor, the Russian Federation_
 
 ### [ Colombian foreign minister Mara Consuelo Arajo resigns days after the arrest of her brother, Senator lvaro Arajo, in the country's ongoing para-political scandal. President lvaro Uribe Vlez appoints Fernando Arajo as the new Minister. ](/news/2007/02/19/colombian-foreign-minister-maria-consuelo-araujo-resigns-days-after-the-arrest-of-her-brother-senator-alvaro-araujo-in-the-country-s-ongo.md)
 _Context: Colombia, Colombian President, Fernando Arajo, Mara Consuelo Arajo, Senate, lvaro Arajo, lvaro Uribe Vlez, para-political scandal_

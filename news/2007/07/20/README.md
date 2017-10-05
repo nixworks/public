@@ -7,7 +7,7 @@ _Context: Luiz Incio Lula da Silva, President, TAM Linhas Areas Flight 3054_
 _Context: Cash for honours, Crown Prosecution Service, UK_
 
 ### [ China shuts down a chemical plant associated with deaths in Panama from tainted medicine and two petfood plants associated with the deaths of pets in the United States. ](/news/2007/07/20/china-shuts-down-a-chemical-plant-associated-with-deaths-in-panama-from-tainted-medicine-and-two-petfood-plants-associated-with-the-deaths.md)
-_Context: Americans, China, Panama_
+_Context: China, Panama, United States_
 
 ### [ Hundreds of thousands of Bolivians protest proposals to shift the capital from La Paz to Sucre. ](/news/2007/07/20/hundreds-of-thousands-of-bolivians-protest-proposals-to-shift-the-capital-from-la-paz-to-sucre.md)
 _Context: Bolivia, La Paz, Sucre_
@@ -16,7 +16,7 @@ _Context: Bolivia, La Paz, Sucre_
 _Context: $, OxyContin, Purdue Pharma, United States District Judge_
 
 ### [ The Government of Ethiopia pardons and frees opposition leaders who had been sentenced to life imprisonment for their roles in riots following 2005 elections. Prime Minister Meles Zenawi denies that the release was forced by the United States. ](/news/2007/07/20/the-government-of-ethiopia-pardons-and-frees-opposition-leaders-who-had-been-sentenced-to-life-imprisonment-for-their-roles-in-riots-follow.md)
-_Context: 2005 elections, Americans, Meles Zenawi, Prime Minister, government, life imprisonment_
+_Context: 2005 elections, Meles Zenawi, Prime Minister, United States, government, life imprisonment_
 
 ### [ The Supreme Court of Pakistan unanimously reinstates Iftikhar Chaudhry as Chief Justice. ](/news/2007/07/20/the-supreme-court-of-pakistan-unanimously-reinstates-iftikhar-chaudhry-as-chief-justice.md)
 _Context: Iftikhar Chaudhry, Supreme Court_

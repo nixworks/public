@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Xi Jinping heads to Russia on the first stop of his maiden overseas tour as President of China. ](/news/2013/03/22/xi-jinping-heads-to-russia-on-the-first-stop-of-his-maiden-overseas-tour-as-president-of-china.md) _Context: Chinese President, Russia_
+1. [Xi Jinping heads to Russia on the first stop of his maiden overseas tour as President of China. ](/news/2013/03/22/xi-jinping-heads-to-russia-on-the-first-stop-of-his-maiden-overseas-tour-as-president-of-china.md) _Context: Chinese President, the Russian Federation_
 2. [A Tibetan activist sets himself on fire at a demonstration in India's capital New Delhi ahead of a visit by the President of China Hu Jintao later in the week. ](/news/2012/03/26/a-tibetan-activist-sets-himself-on-fire-at-a-demonstration-in-india-s-capital-new-delhi-ahead-of-a-visit-by-the-president-of-china-hu-jintao.md) _Context: Chinese President, Hu Jintao_
 3. [President of China Hu Jintao warns of attempts to "westernise" the country by "hostile powers". ](/news/2012/01/2/president-of-china-hu-jintao-warns-of-attempts-to-westernise-the-country-by-hostile-powers.md) _Context: Chinese President, Hu Jintao_
 4. [Human rights groups send an open letter to the President of the People's Republic of China, Hu Jintao, pressing the Chinese government to address the underlying causes of protests that have led 11 Tibetans to set themselves on fire since March. ](/news/2011/11/8/human-rights-groups-send-an-open-letter-to-the-president-of-the-people-s-republic-of-china-hu-jintao-pressing-the-chinese-government-to-ad.md) _Context: Chinese President, Hu Jintao_

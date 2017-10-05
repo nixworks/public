@@ -16,7 +16,7 @@ Scores of worshippers killed as suicide bomber strikes during Friday prayers in 
 A highly radioactive lead ball has gone missing in China, prompting authorities to launch an urgent search.
 
 ### [ Russia will establish a military force to protect its territorial claims in the Arctic. ](/news/2009/03/27/russia-will-establish-a-military-force-to-protect-its-territorial-claims-in-the-arctic.md)
-_Context: Arctic, Russia, Russian security forces, officially submit a claim_
+_Context: Arctic, Russian security forces, officially submit a claim, the Russian Federation_
 
 ### [ "The Lancet" accuses Pope Benedict XVI of "distorting...science" in his argument against the use of condoms. ](/news/2009/03/27/the-lancet-accuses-pope-benedict-xvi-of-distorting-science-in-his-argument-against-the-use-of-condoms.md)
 _Context: Pope, Pope Benedict XVI, The Lancet, argument against the use, condoms, science_

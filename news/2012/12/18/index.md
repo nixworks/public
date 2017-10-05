@@ -43,7 +43,7 @@ Part of the British Antarctic Territory is named in honour of the Queen, who als
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 ### [The President of Iraq Jalal Talabani has a stroke with his condition reported as stable. ](/news/2012/12/18/the-president-of-iraq-jalal-talabani-has-a-stroke-with-his-condition-reported-as-stable.md)
-_Context: Jalal Talabani, President_
+_Context: Jalal Talabani, President of Iraq_
 
 ### [Senator Patrick Leahy of Vermont is sworn in as the President pro tempore of the United States Senate, making him third in the United States presidential line of succession. ](/news/2012/12/18/senator-patrick-leahy-of-vermont-is-sworn-in-as-the-president-pro-tempore-of-the-united-states-senate-making-him-third-in-the-united-states.md)
 Sen. Patrick Leahy was officially sworn in as the third-in-line for the presidency, following the death of Sen. Inouye. 

@@ -1,7 +1,7 @@
 ## [2010-04-13](/news/2010/04/13/index.md)
 
 ### [President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/president-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945-greets-leaders-from-nearl.md)
-_Context: Americans, Barack Obama, U.S. President_
+_Context: Barack Obama, U.S. President, United States_
 
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
 _Context: China, Qinghai, Yangtze River_
@@ -25,7 +25,7 @@ _Context: Islamic Jihad Movement in Palestine, Israel_
 _Context: Lebanese Civil War, Lebanon, association football_
 
 ### [The body of Poland's First Lady, Maria Kaczynska, is flown to Warsaw to lie in state alongside that of her husband, President Lech Kaczynski. Poland has seen an outpouring of grief since the couple and scores of other senior Polish officials died in a plane crash in western Russia on Saturday. ](/news/2010/04/13/the-body-of-poland-s-first-lady-maria-kaczyaska-is-flown-to-warsaw-to-lie-in-state-alongside-that-of-her-husband-president-lech-kaczyas.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Maria Kaczynska, Polish, Russia, Warsaw_
+_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Maria Kaczynska, Polish, Warsaw, the Russian Federation_
 
 ### [The First Lady of the United States, Michelle Obama, makes an unannounced visit to Haiti. It is her first official trip overseas without US President Barack Obama since he took office last year. ](/news/2010/04/13/the-first-lady-of-the-united-states-michelle-obama-makes-an-unannounced-visit-to-haiti-it-is-her-first-official-trip-overseas-without-us.md)
 _Context: Barack Obama, First Lady, Haiti, Michelle Obama_

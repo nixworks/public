@@ -1,7 +1,7 @@
 ## [2014-08-26](/news/2014/08/26/index.md)
 
 ### [Russia says that the 10 armed Russian paratroopers captured during the night in the village of Dzerkalne, Donetsk Oblast, roughly 20 kilometers from the Russian border, only entered Ukraine by "mistake". ](/news/2014/08/26/russia-says-that-the-10-armed-russian-paratroopers-captured-during-the-night-in-the-village-of-dzerkalne-donetsk-oblast-roughly-20-kilomet.md)
-_Context: Donetsk Oblast, Dzerkalne, Russia, Ukraine_
+_Context: Donetsk Oblast, Dzerkalne, Ukraine, the Russian Federation_
 
 ### [On the 50th day of the conflict, an internationally supported long-term truce is reached where the borders of Gaza, Egypt, and Israel are opened for humanitarian and reconstruction supplies and the Gaza fishing zone is extended to 6 km. Other issues such as an airport-seaport and the Israeli demand for demilitarization will be negotiated within a month. ](/news/2014/08/26/on-the-50th-day-of-the-conflict-an-internationally-supported-long-term-truce-is-reached-where-the-borders-of-gaza-egypt-and-israel-are-op.md)
 Four others injured; sides agree to open Gaza crossings for aid and building supplies; Hamas claims &#8216;victory&#8217;; Abbas announces truce in Ramallah, later confirmed by Jerusalem; 12 Gazans said killed in strikes

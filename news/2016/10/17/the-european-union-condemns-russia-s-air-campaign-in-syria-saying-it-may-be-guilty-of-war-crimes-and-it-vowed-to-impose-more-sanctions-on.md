@@ -13,10 +13,10 @@
 ### Related:
 
 1. [The European Union lifts an oil trade embargo it imposed on Syria during the early stages of the civil war to help the finances of the opposition. ](/news/2013/04/22/the-european-union-lifts-an-oil-trade-embargo-it-imposed-on-syria-during-the-early-stages-of-the-civil-war-to-help-the-finances-of-the-oppos.md) _Context: EU, Syrian Civil War_
-2. [Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. ](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.md) _Context: Syrian Civil War_
-3. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: Syrian Civil War_
-4. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Syrian Civil War_
-5. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: EU_
+2. [ISIL releases video footage of two alleged Russian soldiers it captured. However, the Russian Federation denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-the-russian-federation-denies-the-claims.md) _Context: Syrian Civil War_
+3. [Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. ](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.md) _Context: Syrian Civil War_
+4. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: Syrian Civil War_
+5. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Syrian Civil War_
 
 ### Changes:
 

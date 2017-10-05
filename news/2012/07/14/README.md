@@ -10,7 +10,7 @@ E-SHARIF, Afghanistan (Reuters) - A suicide bomber killed a prominent anti-Talib
 _Context: Van_
 
 ### [North Caucasus insurgency: The Russian military kill 8 militants, including two regional commanders, in Dagestan and Kabardino-Balkaria. ](/news/2012/07/14/north-caucasus-insurgency-the-russian-military-kill-8-militants-including-two-regional-commanders-in-dagestan-and-kabardino-balkaria.md)
-_Context: Dagestan, Insurgency in the North Caucasus, Kabardino-Balkaria, Russia_
+_Context: Dagestan, Insurgency in the North Caucasus, Kabardino-Balkaria, the Russian Federation_
 
 ### [The musical "Chicago" is to close after a run of 15 years on London's West End, the longest run for a revival in British theatre. ](/news/2012/07/14/the-musical-chicago-is-to-close-after-a-run-of-15-years-on-london-s-west-end-the-longest-run-for-a-revival-in-british-theatre.md)
 Long-running West End show Chicago &amp;#8211; which has featured an array of star names &amp;#8211; is to close after nearly 15 years.

@@ -10,7 +10,7 @@ A mass grave including the bodies of women and children has been uncovered in th
 Two guards were killed in an attempted attack on an oil field in eastern Libya by suspected Islamic State militants on Saturday, a guards spokesman said.
 
 ### [Iraqi security forces free a large number of prisoners from an underground ISIL-operated jail in the city of Hit. Malallah al-Obeidi, a local official in the Al Anbar Governorate, put the number of freed prisoners at around 1,500, saying most of them were civilians. ](/news/2016/04/2/iraqi-security-forces-free-a-large-number-of-prisoners-from-an-underground-isil-operated-jail-in-the-city-of-ha-t-malallah-al-obeidi-a-loc.md)
-_Context: Anbar province, Hit, Hit offensive (2016), Iraq, Iraqi Civil War (2014-present), Islamic State_
+_Context: Anbar province, Hit, Hit offensive (2016), ISIL, Iraq, Iraqi Civil War (2014-present)_
 
 ### [A bombing kills at least five Turkish soldiers and one special forces police officer in the southeastern city of Nusaybin, near the Syria-Turkey border. ](/news/2016/04/2/a-bombing-kills-at-least-five-turkish-soldiers-and-one-special-forces-police-officer-in-the-southeastern-city-of-nusaybin-near-the-syriaa.md)
 Five soldiers and one special forces police officer have been killed in a bomb attack in south-eastern Turkey blamed on Kurdish rebels, reports say.
@@ -34,7 +34,7 @@ Austria plans to deploy soldiers at the Brenner border with Italy to stem an exp
 Council asks UN secretary general to present options within 15 days for police deployment in violence-wracked country.
 
 ### [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.md)
-_Context:  F-15C Eagle, Air Force, Europe, Iceland, NATO-Russia relations, Netherlands, Russia_
+_Context:  F-15C Eagle, Air Force, Europe, Iceland, NATO-Russia relations, Netherlands, the Russian Federation_
 
 ### [Greece demands an explanation from the International Monetary Fund (IMF) after an apparent leaked transcript suggested the IMF may threaten to pull out of the country's bailout as a tactic to force European lenders to offer more debt relief. Whistleblowing site WikiLeaks published what it said was the transcript of a March 19 conference call of three senior IMF officials discussing tactics to apply pressure on Greece, Germany and the EU to reach a deal in April. ](/news/2016/04/2/greece-demands-an-explanation-from-the-international-monetary-fund-imf-after-an-apparent-leaked-transcript-suggested-the-imf-may-threaten.md)
 International Monetary Fund Managing Director Christine Lagarde denied on Sunday that IMF staff would push Greece closer to default as a negotiating tactic on a new Greek bailout deal, which she said was &quot;still a good distance away.&quot;

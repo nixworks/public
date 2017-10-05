@@ -16,7 +16,7 @@ An Indian preacher has been banned from entering the UK for his &quot;unacceptab
 Palestinian president urges George Mitchell to press Israel to lift its blockade on Gaza.
 
 ### [International Monetary Fund (IMF) head Dominique Strauss-Kahn meets with Prime Minister of Spain Jose Luis Rodriguez Zapatero in Madrid. ](/news/2010/06/18/international-monetary-fund-imf-head-dominique-strauss-kahn-meets-with-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-in-madrid.md)
-_Context: Dominique Strauss-Kahn, International Monetary Fund, Jose Luis Rodriguez Zapatero, Madrid, Prime Minister_
+_Context: Dominique Strauss-Kahn, International Monetary Fund, Jose Luis Rodriguez Zapatero, Madrid, Spanish Prime Minister_
 
 ### [President of Sri Lanka Mahinda Rajapaksa responds in a speech at a commemorative military pageant to critics of the army who say human rights abuses were committed against civilians during the 2009 defeat of the Liberation Tigers of Tamil Eelam rebels. ](/news/2010/06/18/president-of-sri-lanka-mahinda-rajapaksa-responds-in-a-speech-at-a-commemorative-military-pageant-to-critics-of-the-army-who-say-human-right.md)
 _Context: LTTE, Mahinda Rajapaksa, President of Sri Lanka_
@@ -46,7 +46,7 @@ _Context: Ali Akbar Salehi, Iran nuclear chief, Tehran, nuclear research reactor
 The US welcomes the release by a Rwandan court of genocide lawyer Peter Erlinder on medical grounds.
 
 ### [Two people die during a series of tornadoes in Wadena and Otter Tail County, Minnesota, United States. ](/news/2010/06/18/two-people-die-during-a-series-of-tornadoes-in-wadena-and-otter-tail-county-minnesota-united-states.md)
-_Context: Americans, Otter Tail County, Minnesota, Wadena, tornado_
+_Context: Otter Tail County, Minnesota, United States, Wadena, tornado_
 
 ### [FIFA receives a complaint about its security after a football fan breaks into the dressing room of the England national football team during a 2010 FIFA World Cup game in which the team were booed in South Africa. ](/news/2010/06/18/fifa-receives-a-complaint-about-its-security-after-a-football-fan-breaks-into-the-dressing-room-of-the-england-national-football-team-during.md)
 _Context: 2010 FIFA World Cup, England, FIFA, South Africa_

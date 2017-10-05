@@ -10,7 +10,7 @@ A Syrian soldier is killed in air strikes launched by Israel in retaliation for 
 Two Egyptian army officers and five jihadist militants have been killed in a gunfight that erupted during a raid north of Cairo, officials say.
 
 ### [Toyota is ordered to pay $1.2 billion to settle charges that it lied to United States safety investigators and the public about deadly accelerator defects. ](/news/2014/03/19/toyota-is-ordered-to-pay-1-2-billion-to-settle-charges-that-it-lied-to-united-states-safety-investigators-and-the-public-about-deadly-accel.md)
-_Context: Americans, Toyota_
+_Context: Toyota, United States_
 
 ### [South Africa's Public Protector finds that President Jacob Zuma has "benefitted unduly" from government funded upgrades of his rural residence. ](/news/2014/03/19/south-africa-s-public-protector-finds-that-president-jacob-zuma-has-benefitted-unduly-from-government-funded-upgrades-of-his-rural-residen.md)
 _Context: Jacob Zuma, President, Public Protector, South Africa_

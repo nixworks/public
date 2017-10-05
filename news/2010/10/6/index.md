@@ -16,7 +16,7 @@ The U.S. apologized Wednesday for a recent helicopter attack that killed two Pak
 _Context: Sana'a, United Kingdom, Yemen, embassies_
 
 ### [President of the United States Barack Obama awards a Medal of Honor posthumously to Robert James Miller of the US Army Green Berets for "conspicuous gallantry ... at risk of life above and beyond the call of duty" while fighting in the War in Afghanistan on January 25, 2008. ](/news/2010/10/6/president-of-the-united-states-barack-obama-awards-a-medal-of-honor-posthumously-to-robert-james-miller-of-the-us-army-green-berets-for-con.md)
-_Context: Barack Obama, Medal of Honor, Robert James Miller, U.S. President, U.S. special forces, War in Afghanistan (2001-present)_
+_Context: Barack Obama, Green Berets, Medal of Honor, Robert James Miller, U.S. President, War in Afghanistan (2001-present)_
 
 ### [The 15th Pusan International Film Festival started in Pusan, South Korea. ](/news/2010/10/6/the-15th-pusan-international-film-festival-started-in-pusan-south-korea.md)
 _Context: Pusan, Pusan International Film Festival, South Korea_
@@ -25,7 +25,7 @@ _Context: Pusan, Pusan International Film Festival, South Korea_
 Poet Seamus Heaney is named the winner of the prestigious Forward Prize, which comes with a cheque for £10,000.
 
 ### [An autopsy finds that the death of United States actor Gary Coleman in Salt Lake City, Utah was an accident. ](/news/2010/10/6/an-autopsy-finds-that-the-death-of-united-states-actor-gary-coleman-in-salt-lake-city-utah-was-an-accident.md)
-_Context: Americans, Gary Coleman, Salt Lake City, Utah, autopsy_
+_Context: Gary Coleman, Salt Lake City, United States, Utah, autopsy_
 
 ### [Four people were killed and three others were injured when two containers of fireworks exploded near the My Dinh National Stadium, Hanoi. ](/news/2010/10/6/four-people-were-killed-and-three-others-were-injured-when-two-containers-of-fireworks-exploded-near-the-my-dinh-national-stadium-hanoi.md)
 _Context: Hanoi, My Dinh National Stadium_
@@ -49,7 +49,7 @@ The death toll from floods that devastated central Vietnam over recent days has 
 _Context: India, Vishwas Nagar_
 
 ### [Tornadoes hit Bellemont, Arizona in the southwest of the United States resulting in at least seven people being injured. ](/news/2010/10/6/tornadoes-hit-bellemont-arizona-in-the-southwest-of-the-united-states-resulting-in-at-least-seven-people-being-injured.md)
-_Context: Americans, Arizona, Bellemont, tornado_
+_Context: Arizona, Bellemont, United States, tornado_
 
 ### [South Korea and the European Union sign a free trade agreement. ](/news/2010/10/6/south-korea-and-the-european-union-sign-a-free-trade-agreement.md)
 _Context: EU, Free Trade Agreement, South Korea_
@@ -64,7 +64,7 @@ The judge in the first civilian case against an ex-Guantanamo inmate bars a key 
 _Context: Conservative Party's, Federal Court of Canada, Francophone, Quebec, census_
 
 ### [United States Federal Bureau of Investigation agents arrest dozens of Puerto Rico police officers accused of aiding drug traffickers. ](/news/2010/10/6/united-states-federal-bureau-of-investigation-agents-arrest-dozens-of-puerto-rico-police-officers-accused-of-aiding-drug-traffickers.md)
-_Context: Americans, FBI, Puerto Rico, police officers_
+_Context: FBI, Puerto Rico, United States, police officers_
 
 ### [Law enforcement agencies in Victoria, Australia, the United Kingdom and Spain conduct raids in relation to allegedly corrupt behaviour by the currency subsidiary of the Reserve Bank of Australia. ](/news/2010/10/6/law-enforcement-agencies-in-victoria-australia-the-united-kingdom-and-spain-conduct-raids-in-relation-to-allegedly-corrupt-behaviour-by-th.md)
 Law enforcement agencies in Melbourne, Britain and Spain have launched raids over claims of corrupt conduct by the currency subsidiary of the Reserve Bank of Australia.

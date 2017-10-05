@@ -16,7 +16,7 @@ Pro-Russian activists attack another official building in east Ukraine, ignoring
 _Context: Edward Snowden, National Security Agency, Pulitzer Prize for Public Service, The Guardian, Washington Post_
 
 ### [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaaacref-agrees-to-buy-nuveen-investments-for-6-25-billion.md)
-_Context: $, Americans, Nuveen Investments, TIAA-CREF_
+_Context: $, Nuveen Investments, TIAA-CREF, United States_
 
 ### [Radical British Muslim cleric Abu Hamza al-Masri goes on trial in the American state of New York for 11 alleged terrorism offenses. ](/news/2014/04/14/radical-british-muslim-cleric-abu-hamza-al-masri-goes-on-trial-in-the-american-state-of-new-york-for-11-alleged-terrorism-offenses.md)
 The trial of Abu Hamza al-Masri, the radical cleric extradited from the UK to the US in 2012, begins in a federal court in New York.

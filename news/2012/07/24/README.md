@@ -4,7 +4,7 @@
 _Context: China, Guangdong, Hong Kong, Typhoon Vicente_
 
 ### [Four barrels containing 248 human fetuses are found in a forest in Russia's Sverdlovsk region. ](/news/2012/07/24/four-barrels-containing-248-human-fetuses-are-found-in-a-forest-in-russia-s-sverdlovsk-region.md)
-_Context: Russia, Sverdlovsk region_
+_Context: Sverdlovsk region, the Russian Federation_
 
 ### [A man with a gun crawls beneath a dock and enters the grounds of the University of Connecticut's Avery Point campus. The man later commits suicide. ](/news/2012/07/24/a-man-with-a-gun-crawls-beneath-a-dock-and-enters-the-grounds-of-the-university-of-connecticut-s-avery-point-campus-the-man-later-commits-s.md)
 _Context: University of Connecticut_

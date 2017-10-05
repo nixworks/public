@@ -11,10 +11,10 @@
 
 ### Related:
 
-1. [ Space Shuttle "Discovery" lands at the Kennedy Space Center on Merritt Island, Florida, United States. ](/news/2009/03/28/space-shuttle-discovery-lands-at-the-kennedy-space-center-on-merritt-island-florida-united-states.md) _Context: Americans, Discovery, Florida, Kennedy Space Center, Space Shuttle_
+1. [ Space Shuttle "Discovery" lands at the Kennedy Space Center on Merritt Island, Florida, United States. ](/news/2009/03/28/space-shuttle-discovery-lands-at-the-kennedy-space-center-on-merritt-island-florida-united-states.md) _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle, United States_
 2. [The Space Shuttle "Discovery" makes its final landing at the Kennedy Space Center in Florida, after 27 years of service. ](/news/2011/03/9/the-space-shuttle-discovery-makes-its-final-landing-at-the-kennedy-space-center-in-florida-after-27-years-of-service.md) _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
-3. [ Space Shuttle "Endeavour" lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-stati.md) _Context: Americans, Florida, International Space Station, Kennedy Space Center_
-4. [ The Space Shuttle "Atlantis" prepares to land at the Kennedy Space Center in Florida, United States. ](/news/2009/05/22/the-space-shuttle-atlantis-prepares-to-land-at-the-kennedy-space-center-in-florida-united-states.md) _Context: Americans, Florida, Kennedy Space Center, Space Shuttle_
+3. [ Space Shuttle "Endeavour" lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-stati.md) _Context: Florida, International Space Station, Kennedy Space Center, United States_
+4. [ The Space Shuttle "Atlantis" prepares to land at the Kennedy Space Center in Florida, United States. ](/news/2009/05/22/the-space-shuttle-atlantis-prepares-to-land-at-the-kennedy-space-center-in-florida-united-states.md) _Context: Florida, Kennedy Space Center, Space Shuttle, United States_
 5. [ Space Shuttle "Discovery" successfully launches from the Kennedy Space Center in Florida. ](/news/2009/03/15/space-shuttle-discovery-successfully-launches-from-the-kennedy-space-center-in-florida.md) _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
 
 ### Changes:

@@ -16,7 +16,7 @@ _Context: Bay of Bengal, Pirate_
 _Context: Ali Bongo Ondimba, Gabon_
 
 ### [North Caucasus insurgency: 4 police officers are killed in an attack near Grozny, the capital of the Russian North Caucasus republic of Chechnya. ](/news/2012/08/17/north-caucasus-insurgency-4-police-officers-are-killed-in-an-attack-near-grozny-the-capital-of-the-russian-north-caucasus-republic-of-chec.md)
-_Context: Chechnya, Grozny, Insurgency in the North Caucasus, Russia_
+_Context: Chechnya, Grozny, Insurgency in the North Caucasus, the Russian Federation_
 
 ### [An unusual spider discovered in 2010 is described as a separate family, the Trogloraptoridae. The single species will be named "Trogloraptor marchingtoni", after Neil Marchington, a deputy sheriff, amateur biologist and local cave explorer who helped with the discovery. ](/news/2012/08/17/an-unusual-spider-discovered-in-2010-is-described-as-a-separate-family-the-trogloraptoridae-the-single-species-will-be-named-trogloraptor.md)
 The newfound spider family is being named trogloraptor, meaning &quot;cave robber,&quot; and the single species found near Grants Pass is named Trogloraptor marchingtoni for Neil Marchington, a Deschutes County deputy sheriff who is also an amateur biologist and local cave explorer who helped lead t...

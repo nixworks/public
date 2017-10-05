@@ -13,7 +13,7 @@ _Context: 2007 Solomon Islands earthquake, Solomon Islands_
 Get a recap of the Ohio State Buckeyes vs. Florida Gators basketball game.
 
 ### [ The United States and South Korea reach an agreement on bilateral free trade, concluding ten months of negotiations. ](/news/2007/04/2/the-united-states-and-south-korea-reach-an-agreement-on-bilateral-free-trade-concluding-ten-months-of-negotiations.md)
-_Context: Americans, South Korea, agreement, free trade_
+_Context: South Korea, United States, agreement, free trade_
 
 ### [ The United States Supreme Court rules that the Environmental Protection Agency has the authority to regulate the emission of greenhouse gases and must do so unless it can provide some scientific reason proving otherwise. ](/news/2007/04/2/the-united-states-supreme-court-rules-that-the-environmental-protection-agency-has-the-authority-to-regulate-the-emission-of-greenhouse-gas.md)
 The Supreme Court’s ruling that the Clean Air Act expressly authorizes the E.P.A. to regulate carbon dioxide emissions was a strong rebuke to the Bush administration.

@@ -1,13 +1,13 @@
 ## [2010-11-26](/news/2010/11/26/index.md)
 
 ### [Three armed men are killed in a shootout in the Russian republic. ](/news/2010/11/26/three-armed-men-are-killed-in-a-shootout-in-the-russian-republic.md)
-_Context: Russia_
+_Context: the Russian Federation_
 
 ### [A suicide bomb explodes at a rebel Houthi procession in northern Yemen, killing several people. ](/news/2010/11/26/a-suicide-bomb-explodes-at-a-rebel-houthi-procession-in-northern-yemen-killing-several-people.md)
 A suicide attack on a Houthi rebel procession in northern Yemen kills at least two people and wounds 10 others.
 
 ### [United States country music singer Willie Nelson is charged with marijuana possession. ](/news/2010/11/26/united-states-country-music-singer-willie-nelson-is-charged-with-marijuana-possession.md)
-_Context: Americans, Willie Nelson, country music, marijuana_
+_Context: United States, Willie Nelson, country music, marijuana_
 
 ### [Irish financial crisis. Widespread speculation that senior bondholders of Irish banks will have to take a "haircut" -- i.e. share in the costs of an EU bailout -- leads to downgrades in the credit worthiness of the institutions that hads the most at stake in the ballooning property values of recent years. ](/news/2010/11/26/irish-financial-crisis-widespread-speculation-that-senior-bondholders-of-irish-banks-will-have-to-take-a-haircut-i-e-share-in-the-cos.md)
 Ireland&#039;s banks suffered a string of credit downgrades Friday&mdash;one reduced to junk-bond status &mdash;as speculation mounted that an EU-IMF bailout of Ireland could require senior bondholders to share the massive bill. 
@@ -34,7 +34,7 @@ _Context: Islamabad, Pakistani police, radical Islamists, suicide bombing_
 Authorities have arrested 124 Saudis and 25 foreigners, who were planning attacks on government and security officials.
 
 ### [Authorities find the largest cache of homemade explosives ever discovered in the United States, in two houses near Escondido, California. ](/news/2010/11/26/authorities-find-the-largest-cache-of-homemade-explosives-ever-discovered-in-the-united-states-in-two-houses-near-escondido-california.md)
-_Context: Americans, Escondido, California, explosives_
+_Context: Escondido, California, United States, explosives_
 
 ### [Human Rights Watch criticizes the punishment of Israeli soldiers who forced a Palestinian child to open bags thought to be booby-trapped as inadequate and a sign that the "Israeli military justice system will not seriously sanction soldiers convicted for offenses that are war crimes". ](/news/2010/11/26/human-rights-watch-criticizes-the-punishment-of-israeli-soldiers-who-forced-a-palestinian-child-to-open-bags-thought-to-be-booby-trapped-as.md)
 _Context: Human Rights Watch_

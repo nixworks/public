@@ -25,7 +25,7 @@ _Context: Japan_
 A rash of fires were blazing this evening in four separate Detroit neighborhoods, destroying at least 20 homes, according to witnesses and local reports.
 
 ### [Mark David Chapman, John Lennon's killer, is denied parole by the New York State Division of Parole in the U.S.. ](/news/2010/09/7/mark-david-chapman-john-lennon-s-killer-is-denied-parole-by-the-new-york-state-division-of-parole-in-the-u-s.md)
-_Context: Americans, John Lennon, Mark David Chapman, New York City, parole_
+_Context: John Lennon, Mark David Chapman, New York City, United States, parole_
 
 ### [A curfew is imposed in parts of Srinagar following clashes. ](/news/2010/09/7/a-curfew-is-imposed-in-parts-of-srinagar-following-clashes.md)
 _Context: Srinagar_

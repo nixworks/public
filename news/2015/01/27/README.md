@@ -16,7 +16,7 @@ _Context: Hellenic Air Force, January 26 crash, Spanish_
 _Context: Boston, January 2015 nor'easter, Massachusetts, New England_
 
 ### [American 1964 Nobel Prize-winning physicist Charles Hard Townes, who helped invent the now-ubiquitous laser, dies at the age of 99. ](/news/2015/01/27/american-1964-nobel-prize-winning-physicist-charles-hard-townes-who-helped-invent-the-now-ubiquitous-laser-dies-at-the-age-of-99.md)
-_Context: Americans, Charles Hard Townes, Nobel Prize, Nobel Prize in Physics, laser_
+_Context: Charles Hard Townes, Nobel Prize, Nobel Prize in Physics, United States, laser_
 
 ## [Previous Day...](/news/2015/01/26/index.md)
 

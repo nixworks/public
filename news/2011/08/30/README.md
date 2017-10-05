@@ -1,7 +1,7 @@
 ## [2011-08-30](/news/2011/08/30/index.md)
 
 ### [Three suicide bombings leave 9 dead and 20 wounded in Grozny, the capital of the Republic of Chechnya, Russia. ](/news/2011/08/30/three-suicide-bombings-leave-9-dead-and-20-wounded-in-grozny-the-capital-of-the-republic-of-chechnya-russia.md)
-_Context: Grozny, Republic of Chechnya, Russia_
+_Context: Grozny, Republic of Chechnya, the Russian Federation_
 
 ### [The Libyan National Transitional Council gives an ultimatum to supporters of Muammar Gaddafi in Sirte to surrender by the end of Eid ul-Fitr on Saturday. ](/news/2011/08/30/the-libyan-national-transitional-council-gives-an-ultimatum-to-supporters-of-muammar-gaddafi-in-sirte-to-surrender-by-the-end-of-eid-ul-fitr.md)
 _Context: Eid-ul-Fitr, Libya, Muammar Gaddafi, National Transitional Council, Sirte_

@@ -19,13 +19,13 @@ VATICAN CITY (AP) — In a sweeping document on family life that opened a door t
 _Context: Bruce Springsteen and the E Street Band, Greensboro, North Carolina, North Carolina bathroom bill, bathroom bill_
 
 ### [Both Starwood Hotels and Resorts Worldwide and Marriott International shareholders approve Marriott's acquisition of Starwood, which will create the world's largest hotelier. The deal has cleared the pre-merger antitrust reviews in the United States and Canada; approvals from the European Union and China is pending. Last week, Anbang Insurance Group topped Marriott's bid, then withdrew their offer three days later. ](/news/2016/04/8/both-starwood-hotels-and-resorts-worldwide-and-marriott-international-shareholders-approve-marriott-s-acquisition-of-starwood-which-will-cr.md)
-_Context: Americans, Anbang Insurance Group, Canada, China, EU, Marriott International, Starwood Hotels and Resorts Worldwide, pre-merger, reduced competition and higher prices, shareholders_
+_Context: Anbang Insurance Group, Canada, China, EU, Marriott International, Starwood Hotels and Resorts Worldwide, United States, pre-merger, reduced competition and higher prices, shareholders_
 
 ### [At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. ](/news/2016/04/8/at-least-245-people-are-reportedly-injured-following-a-head-on-collision-between-two-commuter-trains-in-san-josa-c-costa-rica.md)
 _Context: San Jose, Costa Rica_
 
 ### [Three people are killed, and there was one survivor, following the crash of a small plane headed to Angoon in Southeast Alaska, United States. ](/news/2016/04/8/three-people-are-killed-and-there-was-one-survivor-following-the-crash-of-a-small-plane-headed-to-angoon-in-southeast-alaska-united-state.md)
-_Context: Americans, Angoon, Southeast Alaska_
+_Context: Angoon, Southeast Alaska, United States_
 
 ### [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md)
 Friday&#39;s public announcement is unusual for South Korea, which typically keeps a low-profile about defections.
@@ -37,7 +37,7 @@ _Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, Egyp
 The 33-year-old from San Diego disappeared after crossing into Syria from Turkey in 2012.
 
 ### [NATO announces it will hold a meeting of the NATO-Russia Council at the ambassadorial level at NATO headquarters in Brussels in the next two weeks after a two-year break since NATO cut all practical cooperation with Russia in 2014. ](/news/2016/04/8/nato-announces-it-will-hold-a-meeting-of-the-natoarussia-council-at-the-ambassadorial-level-at-nato-headquarters-in-brussels-in-the-next-t.md)
-_Context: Brussels, NATO, NATO headquarters, NATO-Russia Council, NATO-Russia relations, Russia_
+_Context: Brussels, NATO, NATO headquarters, NATO-Russia Council, NATO-Russia relations, the Russian Federation_
 
 ### [Italy recalls its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge University student Giulio Regeni. "We want only one thing, the truth about what happened to Giulio," Foreign Minister Paolo Gentiloni said on Friday. ](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consultations-in-protest-over-the-lack-of-progress-in-a-probe-into-the-fate-of-murdered-cambridge.md)
 Italy on Friday recalled its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge student Giulio Regeni. The move came after two days of talks between Egyptian and Italian investigators in Rome ended without a resolution of tension...

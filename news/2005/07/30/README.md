@@ -7,10 +7,10 @@ _Context: CzechTek, electronic music, riot police_
 _Context: Basra, Conflict in Iraq, Iraq_
 
 ### [ Lawyers for the former President of Iraq, Saddam Hussein, claim he was attacked by an unidentified man after questioning by the Iraqi special tribunal on Thursday; however the United States denies the event. ](/news/2005/07/30/lawyers-for-the-former-president-of-iraq-saddam-hussein-claim-he-was-attacked-by-an-unidentified-man-after-questioning-by-the-iraqi-speci.md)
-_Context: Iraq, President, Saddam Hussein, lawyer_
+_Context: Iraq, President of Iraq, Saddam Hussein, lawyer_
 
 ### [ Uzbekistan has reportedly given the United States six months to move out of a key base used for operations in Afghanistan.](/news/2005/07/30/uzbekistan-has-reportedly-given-the-united-states-six-months-to-move-out-of-a-key-base-used-for-operations-in-afghanistan.md)
-_Context: Afghanistan, Americans, Uzbekistan_
+_Context: Afghanistan, United States, Uzbekistan_
 
 ### [ Russia begins to withdraw its troops from the military bases in Georgia ](/news/2005/07/30/russia-begins-to-withdraw-its-troops-from-the-military-bases-in-georgia.md)
 _Context: Georgian, military installations_

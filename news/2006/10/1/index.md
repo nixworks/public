@@ -10,7 +10,7 @@ _Context: Cardinal Joseph Ratzinger, Crimen sollicitationis, Pope_
 _Context: Austria, October 2006 Austrian elections, Social Democratic Party_
 
 ### [ Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an-act-of-state-terrorism-with-hos.md)
-_Context: Russia, Vladimir Putin, hostage-taking, terrorism_
+_Context: Vladimir Putin, hostage-taking, terrorism, the Russian Federation_
 
 ### [ General Elections 2006 in Brazil are taking place.](/news/2006/10/1/general-elections-2006-in-brazil-are-taking-place.md)
 _Context: Brazil, General Elections 2006_

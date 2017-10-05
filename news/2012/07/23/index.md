@@ -28,7 +28,7 @@ A protected forest in Romania&#8217;s Bucegi mountains, at some 1,700 m altitude
 The proceeding offered the first public glimpse of James E. Holmes since he was arrested outside the Century 16 multiplex in Aurora early Friday.
 
 ### [Sally Ride, the first American female astronaut, dies of pancreatic cancer at the age of 61. Her obituary acknowledges her 27-year relationship with a woman. ](/news/2012/07/23/sally-ride-the-first-american-female-astronaut-dies-of-pancreatic-cancer-at-the-age-of-61-her-obituary-acknowledges-her-27-year-relations.md)
-_Context: Americans, Sally Ride, astronaut, pancreatic cancer_
+_Context: Sally Ride, United States, astronaut, pancreatic cancer_
 
 ## [Previous Day...](/news/2012/07/22/index.md)
 

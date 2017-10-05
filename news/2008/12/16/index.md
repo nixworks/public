@@ -7,7 +7,7 @@ _Context: 2007 attack, Bilal Abdullah, Glasgow International Airport, London, We
 _Context: Abdullahi Yusuf Ahmed, Interior Minister, Mohamoud Mohamed Gacmodhere, Nur Hassan Hussein, President, Prime Minister of Somalia, Somalian, no confidence_
 
 ### [ The United States consumer price index fell in November by 1.9% on a non-seasonally adjusted basis, the U.S. Labor Department reports, the biggest decline since the nadir of the Great Depression in January 1932. ](/news/2008/12/16/the-united-states-consumer-price-index-fell-in-november-by-1-9-on-a-non-seasonally-adjusted-basis-the-u-s-labor-department-reports-the.md)
-_Context: Americans, Great Depression, United States Department of Labor, consumer price index_
+_Context: Great Depression, United States, United States Department of Labor, consumer price index_
 
 ### [ Five sticks of dynamite are found in the Printemps department store on the Boulevard Haussmann in Paris. ](/news/2008/12/16/five-sticks-of-dynamite-are-found-in-the-printemps-department-store-on-the-boulevard-haussmann-in-paris.md)
 _Context: Boulevard Haussmann, Paris, Printemps, dynamite_
@@ -22,7 +22,7 @@ The State House voted unanimously Monday evening to go forward with a plan to ga
 _Context: ASEAN, charter_
 
 ### [ Twenty-four Russian tourists are killed when their bus plummets into a ravine near Eilat in southern Israel, making this road accident the deadliest in the state's history. ](/news/2008/12/16/twenty-four-russian-tourists-are-killed-when-their-bus-plummets-into-a-ravine-near-eilat-in-southern-israel-making-this-road-accident-the.md)
-_Context: Eilat, Israel, Russia_
+_Context: Eilat, Israel, the Russian Federation_
 
 ## [Previous Day...](/news/2008/12/15/index.md)
 

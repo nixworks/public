@@ -13,7 +13,7 @@ Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forc
 The death toll has risen to at least 48 hostages killed during a four-day siege at a gas plant deep in the Sahara as a veteran Islamist fighter claimed responsibility on behalf of al Qaeda for the attack.
 
 ### [At least four miners are killed and four others trapped after a fire at a mine in Prokopyevsky District, Kemerovo Oblast, Russia. ](/news/2013/01/20/at-least-four-miners-are-killed-and-four-others-trapped-after-a-fire-at-a-mine-in-prokopyevsky-district-kemerovo-oblast-russia.md)
-_Context: Kemerovo Oblast, Prokopyevsky District, Russia_
+_Context: Kemerovo Oblast, Prokopyevsky District, the Russian Federation_
 
 ### [A French sailor who had spent three days adrift in a life raft in the Southern Ocean off the coast of Tasmania in Australia is rescued by the cruise ship MV "Orion". ](/news/2013/01/20/a-french-sailor-who-had-spent-three-days-adrift-in-a-life-raft-in-the-southern-ocean-off-the-coast-of-tasmania-in-australia-is-rescued-by-th.md)
 A French sailor who had spent three days adrift in a life raft in the Southern Ocean off the coast of Tasmania in Australia is rescued by a cruise ship.

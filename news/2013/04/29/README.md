@@ -14,7 +14,7 @@ BAGHDAD - The Iraqi government ordered 10 predominantly Sunni Muslim satellite t
 
 ### [It is revealed that Everett Dutschke was, earlier this month, charged with two child molestations involving three girls younger than 16. ](/news/2013/04/29/it-is-revealed-that-everett-dutschke-was-earlier-this-month-charged-with-two-child-molestations-involving-three-girls-younger-than-16.md)
 ### [Prosecutors discuss a plea deal (avoidance of the death penalty in exchange for a likely sentence of life in prison without parole) for the surviving Boston bomber, Dzhokhar Tsarnaev. Police have taken DNA from Tamerlan Tsarnaev's wife and are exploring the brothers' connection to two deceased Russian extremists. ](/news/2013/04/29/prosecutors-discuss-a-plea-deal-avoidance-of-the-death-penalty-in-exchange-for-a-likely-sentence-of-life-in-prison-without-parole-for-the.md)
-_Context: Boston, DNA, Dzhokhar Tsarnaev, Russia, death penalty, life in prison without parole_
+_Context: Boston, DNA, Dzhokhar Tsarnaev, death penalty, life in prison without parole, the Russian Federation_
 
 ### [The U.S. Supreme Court declines to hear a petition (Eaton Corp v. Z F Meritor) from Eaton Corp., letting stand a U.S. 3rd Circuit Court ruling on an antitrust issue that may limit the use of loyalty discounts in the form of rebates as a way of locking in customers. ](/news/2013/04/29/the-u-s-supreme-court-declines-to-hear-a-petition-eaton-corp-v-z-f-meritor-from-eaton-corp-letting-stand-a-u-s-3rd-circuit-court-ruli.md)
 _Context: Eaton Corp., United States Supreme Court, United States court, antitrust_

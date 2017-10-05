@@ -1,7 +1,7 @@
 ## [2011-09-1](/news/2011/09/1/index.md)
 
 ### [At least four people, including a high-ranking security service officer, are killed in a series of bombings and shootings across Russia's North Caucasus. ](/news/2011/09/1/at-least-four-people-including-a-high-ranking-security-service-officer-are-killed-in-a-series-of-bombings-and-shootings-across-russia-s-no.md)
-_Context: North Caucasus, Russia_
+_Context: North Caucasus, the Russian Federation_
 
 ### [2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi's hometown of Sirte to surrender in order to avoid further fighting. ](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitional-council-extends-the-deadline-for-tribal-leaders-in-muammar-gaddafias-hometown-of-sirt.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, National Transitional Council, Sirte_

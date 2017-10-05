@@ -25,7 +25,7 @@ Two people are killed and 14 others injured in Rwanda after a car ploughs into a
 Mexico police find 55 bodies in an abandoned mine that appears to have been used as a mass grave by drugs gangs.
 
 ### [Polish officials say 6,000 Polish zloty were withdrawn using credit cards stolen from a passenger killed in the 2010 Polish Air Force Tu-154 crash near Smolensk. Poland says four soldiers have been arrested, while Russia denies this. ](/news/2010/06/7/polish-officials-say-6-000-polish-zloty-were-withdrawn-using-credit-cards-stolen-from-a-passenger-killed-in-the-2010-polish-air-force-tu-154.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Polish, Polish zloty, Russia, Smolensk_
+_Context: 2010 Polish Air Force Tu-154 crash, Polish, Polish zloty, Smolensk, the Russian Federation_
 
 ### [9 passengers are injured and a train carriage left dangling over an embankment after a derailment in Scotland. ](/news/2010/06/7/9-passengers-are-injured-and-a-train-carriage-left-dangling-over-an-embankment-after-a-derailment-in-scotland.md)
 _Context: Scotland, derailment_

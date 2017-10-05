@@ -7,7 +7,7 @@ Police in Honduras say that vice-president of the National Congress, Mario Ferna
 _Context: Mahmoud Abbas, Palestinian National Authority, Palestinian state_
 
 ### [ Human rights activists and opposition politicians in Russia's southern republic of Ingushetia say that the predominantly Muslim region is now in a state of civil war. ](/news/2008/11/23/human-rights-activists-and-opposition-politicians-in-russia-s-southern-republic-of-ingushetia-say-that-the-predominantly-muslim-region-is-n.md)
-_Context: Ingushetia, Russia, civil war, federal subjects, radical Islamists_
+_Context: Ingushetia, civil war, federal subjects, radical Islamists, the Russian Federation_
 
 ### [ One person is killed and several injured in an apparent failed coup attempt in Guinea-Bissau, hours after the controversial results of the parliamentary election were announced where the African Party for the Independence of Guinea and Cape Verde won 67 of 100 seats. ](/news/2008/11/23/one-person-is-killed-and-several-injured-in-an-apparent-failed-coup-attempt-in-guinea-bissau-hours-after-the-controversial-results-of-the.md)
 _Context: African Party for the Independence of Guinea and Cape Verde, Guinea-Bissau, the parliamentary election_

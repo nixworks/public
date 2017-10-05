@@ -1,7 +1,7 @@
 ## [2009-11-27](/news/2009/11/27/index.md)
 
 ### [ A Russian high-speed passenger train traveling on the Moscow - Saint Petersburg Railway derails near Uglovka in a suspected terrorist attack, killing 26 people and injuring more than 100. ](/news/2009/11/27/a-russian-high-speed-passenger-train-traveling-on-the-moscow-a-saint-petersburg-railway-derails-near-uglovka-in-a-suspected-terrorist-att.md)
-_Context: Moscow - Saint Petersburg Railway, Russia, Uglovka, derails, passenger train_
+_Context: Moscow - Saint Petersburg Railway, Uglovka, derails, passenger train, the Russian Federation_
 
 ### [ Tiger Woods, the world's number one golfer, is hospitalised after sustaining injuries in a car crash in Orlando, Florida, USA. ](/news/2009/11/27/tiger-woods-the-world-s-number-one-golfer-is-hospitalised-after-sustaining-injuries-in-a-car-crash-in-orlando-florida-usa.md)
 Tiger Woods, the world&#039;s number one golfer, was injured in a car accident near his Florida home, police said last night.
@@ -52,7 +52,7 @@ _Context: European Commissioner, Jose Manuel Barroso, President of the European 
 _Context: STS-129, Space Shuttle Atlantis_
 
 ### [ A mass shooting at a Thanksgiving party in Jupiter, Florida, United States kills four people and critically wounds a fifth. ](/news/2009/11/27/a-mass-shooting-at-a-thanksgiving-party-in-jupiter-florida-united-states-kills-four-people-and-critically-wounds-a-fifth.md)
-_Context: Americans, Florida, Jupiter, Thanksgiving, shooting_
+_Context: Florida, Jupiter, Thanksgiving, United States, shooting_
 
 ## [Previous Day...](/news/2009/11/26/index.md)
 

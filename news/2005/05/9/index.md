@@ -10,7 +10,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Cumbria, England, Sellafield, nuclear plant, plutonium, radioactive, tonne, uranium, water_
 
 ### [ More than 50 heads of state, including Vladimir Putin, George W. Bush and German chancellor Gerhard Schrder, are among the guests attending the official celebrations commemorating the end of World War II in Moscow, Russia. It is the first time a German chancellor has attended a world-wide commemoration for the victims of the Third Reich. (Wikinews) ](/news/2005/05/9/more-than-50-heads-of-state-including-vladimir-putin-george-w-bush-and-german-chancellor-gerhard-schroder-are-among-the-guests-attendin.md)
-_Context: (Wikinews), Chancellor, George W. Bush, Gerhard Schrder, Moscow, Russia, Third Reich, Vladimir Putin, World War II, head of state_
+_Context: (Wikinews), Chancellor, George W. Bush, Gerhard Schrder, Moscow, Third Reich, Vladimir Putin, World War II, head of state, the Russian Federation_
 
 ### [ Re-examination of old images taken by the Mars Global Surveyor several years ago may have led to the identification of the crash site of the Mars Polar Lander, which failed in December 1999. Using insights and techniques developed for analyzing images of the Mars Exploration Rovers, Malin Space Science Systems may have spotted the rocket blast zone, Mars Polar Lander and the parachute. ](/news/2005/05/9/re-examination-of-old-images-taken-by-the-mars-global-surveyor-several-years-ago-may-have-led-to-the-identification-of-the-crash-site-of-th.md)
 The search is back on for a spacecraft that disappeared during a landing attempt nearly six years ago. And there are hints that the probe might have been found.

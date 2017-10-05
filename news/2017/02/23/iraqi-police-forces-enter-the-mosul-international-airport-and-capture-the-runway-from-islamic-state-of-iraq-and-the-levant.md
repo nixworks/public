@@ -11,11 +11,11 @@
 
 ### Related:
 
-1. [Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-were-defeated.md) _Context: Battle of Mosul (2016-17), Islamic State_
-2. [The Iraqi Army announces the liberation of the eastern part of Mosul following the collapse of ISIL defenses. ](/news/2017/01/18/the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-following-the-collapse-of-isil-defenses.md) _Context: Battle of Mosul (2016-17), Islamic State_
-3. [Iraqi forces capture parts of Mosul University and several areas along the Tigris River from Islamic State militants. ](/news/2017/01/14/iraqi-forces-capture-parts-of-mosul-university-and-several-areas-along-the-tigris-river-from-islamic-state-militants.md) _Context: Battle of Mosul (2016-17), Islamic State_
-4. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: Islamic State_
-5. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: Islamic State_
+1. [Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-were-defeated.md) _Context: Battle of Mosul (2016-17), ISIL_
+2. [The Iraqi Army announces the liberation of the eastern part of Mosul following the collapse of ISIL defenses. ](/news/2017/01/18/the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-following-the-collapse-of-isil-defenses.md) _Context: Battle of Mosul (2016-17), ISIL_
+3. [Iraqi forces capture parts of Mosul University and several areas along the Tigris River from Islamic State militants. ](/news/2017/01/14/iraqi-forces-capture-parts-of-mosul-university-and-several-areas-along-the-tigris-river-from-islamic-state-militants.md) _Context: Battle of Mosul (2016-17), ISIL_
+4. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: ISIL_
+5. [ISIL releases video footage of two alleged Russian soldiers it captured. However, the Russian Federation denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-the-russian-federation-denies-the-claims.md) _Context: ISIL_
 
 ### Changes:
 

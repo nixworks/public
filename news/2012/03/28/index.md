@@ -19,7 +19,7 @@ _Context: Air Pacific, Australia, Government of Fiji, Qantas_
 _Context: Mega Millions_
 
 ### [The United States suspends planned food aid to North Korea, after the latter plans to launch a rocket next month. ](/news/2012/03/28/the-united-states-suspends-planned-food-aid-to-north-korea-after-the-latter-plans-to-launch-a-rocket-next-month.md)
-_Context: Americans, North Korea_
+_Context: North Korea, United States_
 
 ### [2012 Malian coup d'etat: Coup leaders in Mali unveil a new constitution. ](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.md)
 African delegation set to arrive to press for restoration of democracy, as thousands march in support of mutineers.

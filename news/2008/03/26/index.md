@@ -7,7 +7,7 @@ The shuttle landed at 8:39 p.m., roughly an hour after Capt. Dominic L. Gorie fi
 _Context: Ford Motor Company, India, Jaguar, Land Rover, Tata Motors, USD, United Kingdom, luxury sedan_
 
 ### [ The United States embassy in Cairo confirms that the crew of a United States Navy-contracted ship killed an Egyptian when it opened fire on a small boat near the Suez Canal. ](/news/2008/03/26/the-united-states-embassy-in-cairo-confirms-that-the-crew-of-a-united-states-navy-contracted-ship-killed-an-egyptian-when-it-opened-fire-on.md)
-_Context: Americans, Cairo, Egypt, Suez Canal, United States Navy_
+_Context: Cairo, Egypt, Suez Canal, United States, United States Navy_
 
 ### [ The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md)
 President Bush has told Chinese President Hu Jintao that a mistake was made in the shipment of nuclear missile fuses to Taiwan.

@@ -13,16 +13,16 @@ _Context: 2008 Chinese milk scandal, Australia_
 Officials in Athens have said Greece will follow the Irish lead in guaranteeing all bank deposits.
 
 ### [ Both of Russia's main stock exchanges, the MICEX and RTS, suspend trading of stocks "for technical reasons" as the markets rally after a 1-1-2 day trading halt that ended earlier in the morning. ](/news/2008/10/3/both-of-russia-s-main-stock-exchanges-the-micex-and-rts-suspend-trading-of-stocks-for-technical-reasons-as-the-markets-rally-after-a-1.md)
-_Context: MICEX, RTS, Russia_
+_Context: MICEX, RTS, the Russian Federation_
 
 ### [ Investigators in the United States announce that they have found human remains in what is believed to be the wreckage of Steve Fossett's plane, which went missing over California a year ago. ](/news/2008/10/3/investigators-in-the-united-states-announce-that-they-have-found-human-remains-in-what-is-believed-to-be-the-wreckage-of-steve-fossett-s-pl.md)
-_Context: Americans, California, Steve Fossett, went missing_
+_Context: California, Steve Fossett, United States, went missing_
 
 ### [ United States government announces sale of billions of dollars of arms to Taiwan to keep a balance with China's massive arms buildup aimed at Taiwan. ](/news/2008/10/3/united-states-government-announces-sale-of-billions-of-dollars-of-arms-to-taiwan-to-keep-a-balance-with-china-s-massive-arms-buildup-aimed.md)
 The U.S. government has announced plans to sell billions of dollars worth of weapons to Taiwan, a move certain to anger China, which considers Taiwan part of its territory.
 
 ### [ Russia's foreign minister calls for international action to halt piracy in Somalia. ](/news/2008/10/3/russia-s-foreign-minister-calls-for-international-action-to-halt-piracy-in-somalia.md)
-_Context: Russia, Somali pirates_
+_Context: Somali pirates, the Russian Federation_
 
 ### [ The remains of a Viking-era stave church, including the skeletal remains of a woman, is uncovered near the cemetery of the Lnns church in Odensbacken outside rebro in central Sweden. ](/news/2008/10/3/the-remains-of-a-viking-era-stave-church-including-the-skeletal-remains-of-a-woman-is-uncovered-near-the-cemetery-of-the-lannas-church-in.md)
 _Context: Odensbacken, Swedish, Viking, cemetery, rebro, stave church, woman_

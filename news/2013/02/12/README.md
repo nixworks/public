@@ -10,7 +10,7 @@ Two University of Maryland students died early on Tuesday in an apparent murder-
 The man accused of killing two police officers in a gun and grenade attack now admits their killings.
 
 ### [2013 Southern California shootings: Christopher Dorner kills a sheriff's deputy and injures another in the Big Bear Lake, California, United States. He then barricades himself in a cabin, which catches on fire during a police assault. The suspect was killed in the fire. ](/news/2013/02/12/2013-southern-california-shootings-christopher-dorner-kills-a-sheriff-s-deputy-and-injures-another-in-the-big-bear-lake-california-united.md)
-_Context: 2013 Southern California shootings, Americans, Big Bear Lake, California, Christopher Dorner_
+_Context: 2013 Southern California shootings, Big Bear Lake, California, Christopher Dorner, United States_
 
 ### [Three people are dead and 11 are wounded in a stabbing attack on the U.S. territory island of Guam. ](/news/2013/02/12/three-people-are-dead-and-11-are-wounded-in-a-stabbing-attack-on-the-u-s-territory-island-of-guam.md)
 _Context: Guam, U.S. territory, stabbed_

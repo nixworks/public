@@ -25,7 +25,7 @@ _Context: Algeria, Morocco_
 _Context: Kampala, Uganda_
 
 ### [ At least 7 die in several separate attacks and suicide bombings in Russia's North Caucasus. ](/news/2009/09/12/at-least-7-die-in-several-separate-attacks-and-suicide-bombings-in-russia-s-north-caucasus.md)
-_Context: North Caucasus, Russia_
+_Context: North Caucasus, the Russian Federation_
 
 ### [ At least three people die and several others are injured in Somaliland when angry demonstrators clash with riot police. ](/news/2009/09/12/at-least-three-people-die-and-several-others-are-injured-in-somaliland-when-angry-demonstrators-clash-with-riot-police.md)
 _Context: Somaliland_

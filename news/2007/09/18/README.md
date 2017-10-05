@@ -4,7 +4,7 @@
 Dozens of people living in a Peruvian town near Lake Titicaca reported vomiting and headaches after they went to look at a crater apparently left by a meteorite that crashed down over the weekend, health officials said on Tuesday.
 
 ### [ Nuclear program of Iran: The United States is drafting a United Nations Security Council resolution calling for sanctions against Iran prior to discussions amongst the five permanent members. ](/news/2007/09/18/nuclear-program-of-iran-the-united-states-is-drafting-a-united-nations-security-council-resolution-calling-for-sanctions-against-iran-prio.md)
-_Context: Americans, Iran, United Nations Security Council, nuclear program, sanctions_
+_Context: Iran, United Nations Security Council, United States, nuclear program, sanctions_
 
 ### [ The United States Federal Reserve cuts a key short-term interest rate by a half-percentage point, resulting in a stock market rally. ](/news/2007/09/18/the-united-states-federal-reserve-cuts-a-key-short-term-interest-rate-by-a-half-percentage-point-resulting-in-a-stock-market-rally.md)
 _Context: United States Federal Reserve, interest rates, stock market_
@@ -22,7 +22,7 @@ _Context: Buddhists, Myanmar, monk, teargas_
 _Context: 2007 subprime mortgage financial crisis, Bank of England, Northern Rock_
 
 ### [ Russia claims to have killed top Dagestani militant Rappani Khalilov along with another militant in a day-long battle. ](/news/2007/09/18/russia-claims-to-have-killed-top-dagestani-militant-rappani-khalilov-along-with-another-militant-in-a-day-long-battle.md)
-_Context: Dagestan, Rappani Khalilov, Russia_
+_Context: Dagestan, Rappani Khalilov, the Russian Federation_
 
 ### [ North Korea denies allegations that it is helping Syria to develop a nuclear weapons facility. ](/news/2007/09/18/north-korea-denies-allegations-that-it-is-helping-syria-to-develop-a-nuclear-weapons-facility.md)
 _Context: North Korea, Syria, nuclear weapon_

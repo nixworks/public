@@ -19,7 +19,7 @@ Prime Minister Johanna Sigurdardottir, buoyed by an election victory, said she w
 _Context: Germany, Greek, MV, Somali pirates, Somalian, pirate, ship_
 
 ### [ University of Georgia Professor George Zinkhan allegedly kills three people in Athens, Georgia, United States. ](/news/2009/04/25/university-of-georgia-professor-george-zinkhan-allegedly-kills-three-people-in-athens-georgia-united-states.md)
-_Context: Americans, Athens, George Zinkhan, Georgia, University of Georgia, professor_
+_Context: Athens, George Zinkhan, Georgia, United States, University of Georgia, professor_
 
 ## [Previous Day...](/news/2009/04/24/index.md)
 

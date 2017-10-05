@@ -28,7 +28,7 @@ Chinese manufacturing output grew at its slowest rate for 17 months in July, as 
 _Context: BlackBerry, Saudi Arabia, United Arab Emirates_
 
 ### [Thousands of troops are mobilised in Russia to tackle forest fires spreading in 17 regions, the worst in decades, as the death toll rises to 30. ](/news/2010/08/1/thousands-of-troops-are-mobilised-in-russia-to-tackle-forest-fires-spreading-in-17-regions-the-worst-in-decades-as-the-death-toll-rises-to.md)
-_Context: Russia, forest fire_
+_Context: forest fire, the Russian Federation_
 
 ### [Floods in northeastern China kill more than 100 people and sweep 3,000 chemical-filled barrels into the Songhua River. ](/news/2010/08/1/floods-in-northeastern-china-kill-more-than-100-people-and-sweep-3-000-chemical-filled-barrels-into-the-songhua-river.md)
 More deaths and destruction after northeastern region hit by worst flood in a decade.

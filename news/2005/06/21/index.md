@@ -4,7 +4,7 @@
 _Context: Bragg Creek, Calgary, AB, Canada, Drumheller, Glenmore Dam_
 
 ### [ The Cosmos 1 experimental solar sail spacecraft, a project of international space advocacy group The Planetary Society and science based entertainment company Cosmos Studios, is launched by a Russian R-29R Volna ICBM from a Russian Delta III submarine submerged in the Barents Sea. However, the spacecraft is feared lost, for the rocket failed 83 seconds after launch. ](/news/2005/06/21/the-cosmos-1-experimental-solar-sail-spacecraft-a-project-of-international-space-advocacy-group-the-planetary-society-and-science-based-en.md)
-_Context: Barents Sea, Cosmos 1, Cosmos Studios, Delta III, Planetary Society, R-29R, Russia, Volna, intercontinental ballistic missile, solar sail, space advocacy, spacecraft, submarine_
+_Context: Barents Sea, Cosmos 1, Cosmos Studios, Delta III, Planetary Society, R-29R, Volna, intercontinental ballistic missile, solar sail, space advocacy, spacecraft, submarine, the Russian Federation_
 
 ### [ The LA Times suspends an experiment called "wikitorial" after three days because of vandalism. ](/news/2005/06/21/the-la-times-suspends-an-experiment-called-wikitorial-after-three-days-because-of-vandalism.md)
 A bold Los Angeles Times experiment in letting readers rewrite the paper&#8217;s editorials lasted all of three days after some users flooded the newspaper&#8217;s Web site with foul language and pornographic photos.

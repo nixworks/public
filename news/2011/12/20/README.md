@@ -7,7 +7,7 @@ _Context: Syria_
 _Context: China, Haimen, Shanghai, coal-fired power station, tear gas_
 
 ### [Indian Foreign Minister S. M. Krishna condemns a court case in Russia that could see the "Bhagavad Gita As It Is" holy book banned there. ](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.md)
-_Context: Bhagavad Gita As It Is, India, Russia, SM Krishna, attempt to ban_
+_Context: Bhagavad Gita As It Is, India, SM Krishna, attempt to ban, the Russian Federation_
 
 ### [The death toll from Tropical Storm Washi in the Philippines rises to nearly 1,000. ](/news/2011/12/20/the-death-toll-from-tropical-storm-washi-in-the-philippines-rises-to-nearly-1-000.md)
 The Philippine government shipped more than 400 coffins to two flood-stricken cities in the south where the death toll neared 1,000 as President Benigno Aquino declared a state of national calamity and relief agencies rushed to help.

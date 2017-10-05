@@ -64,7 +64,7 @@ Albertans go the polls today following an election campaign that quickly became 
 Venezuelan President Hugo Chavez phones state TV to deny rumours he has died while undergoing radiotherapy in Cuba for a malignant tumour.
 
 ### [Scientists record what they believe to be the first adult white orca in the wild off the coast of Kamchatka, Russia. ](/news/2012/04/23/scientists-record-what-they-believe-to-be-the-first-adult-white-orca-in-the-wild-off-the-coast-of-kamchatka-russia.md)
-_Context: Kamchatka, Russia, orca_
+_Context: Kamchatka, orca, the Russian Federation_
 
 ## [Previous Day...](/news/2012/04/22/index.md)
 

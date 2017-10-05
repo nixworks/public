@@ -10,7 +10,7 @@ _Context: Port of Seattle_
 Authorities apprehend Mexican drug kingpin Javier Arellano-Felix, leader of a violent gang responsible for digging drug-smuggling tunnels under the U.S. border.
 
 ### [ A Russian border patrol boat fires on a Japanese crab fishing boat near Kaigara Island, part of the Kuril Islands. One fisherman is killed and three others detained by the Russian authorities. ](/news/2006/08/16/a-russian-border-patrol-boat-fires-on-a-japanese-crab-fishing-boat-near-kaigara-island-part-of-the-kuril-islands-one-fisherman-is-killed.md)
-_Context: Japan, Kaigara Island, Kuril Islands, Russia_
+_Context: Japan, Kaigara Island, Kuril Islands, the Russian Federation_
 
 ### [ The International Astronomical Union proposes a new definition for a planet to be voted on August 24 which would include Charon, Eris, and Ceres as planets. ](/news/2006/08/16/the-international-astronomical-union-proposes-a-new-definition-for-a-planet-to-be-voted-on-august-24-which-would-include-charon-eris-and.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.

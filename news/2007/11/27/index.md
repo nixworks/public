@@ -7,7 +7,7 @@ Here are the remarks President Bush delivered today at the United States Naval A
 _Context: Oscar Wyatt Jr., Texas, United Nations, oil-for-food_
 
 ### [ Russian Federation Council Speaker Sergei Mironov said that the fact that the election day has been set for March 2 allows president Vladimir Putin, who is required to leave office when his second term ends in May 2008, the option of resigning early and then running again. ](/news/2007/11/27/russian-federation-council-speaker-sergei-mironov-said-that-the-fact-that-the-election-day-has-been-set-for-march-2-allows-president-vladim.md)
-_Context: Federation Council, Russia, Sergei Mironov, Vladimir Putin, go to the polls_
+_Context: Federation Council, Sergei Mironov, Vladimir Putin, go to the polls, the Russian Federation_
 
 ### [ Zimbabwe's Central Statistical Office has not issued estimated inflation figures because no products are being sold. Inflation is independently estimated at around 15,000% to 20,000%. ](/news/2007/11/27/zimbabwe-s-central-statistical-office-has-not-issued-estimated-inflation-figures-because-no-products-are-being-sold-inflation-is-independe.md)
 _Context: Zimbabwe, Zimbabwe's economic crisis_

@@ -7,7 +7,7 @@ Officials cautioned that the peacekeeping force would not be used to disarm Hezb
 _Context: Andover Inn, Liverpool, fire_
 
 ### [ Chad orders United States' ChevronTexaco and Malaysia's Petronas out of the country for failing to meet tax obligations. Chadian president, Idriss Dby, stated that Chad, whose new national oil company was to partner with an Exxon Mobil-ChevronTexaco-Petronas consortium, will continue to work with US' Exxon Mobil while attempting to "find a solution with the two other partners." ](/news/2006/08/26/chad-orders-united-states-chevrontexaco-and-malaysia-s-petronas-out-of-the-country-for-failing-to-meet-tax-obligations-chadian-president.md)
-_Context: Americans, Chad, ChevronTexaco, Exxon Mobil, Idriss Deby, Malaysia, Petronas_
+_Context: Chad, ChevronTexaco, Exxon Mobil, Idriss Deby, Malaysia, Petronas, United States_
 
 ### [ Eyewitnesses claim that Israel bombed a Reuters armored car in Gaza City. Hospital staff say that two cameramen and three bystanders were injured. ](/news/2006/08/26/eyewitnesses-claim-that-israel-bombed-a-reuters-armored-car-in-gaza-city-hospital-staff-say-that-two-cameramen-and-three-bystanders-were-i.md)
 _Context: Gaza, Israel, Reuters_

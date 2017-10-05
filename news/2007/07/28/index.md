@@ -1,7 +1,7 @@
 ## [2007-07-28](/news/2007/07/28/index.md)
 
 ### [ Pakistan raises concerns about a draft bill adopted by the United States Congress that ties United States foreign aid to progress in the fight against Al Qaeda and the Taliban. ](/news/2007/07/28/pakistan-raises-concerns-about-a-draft-bill-adopted-by-the-united-states-congress-that-ties-united-states-foreign-aid-to-progress-in-the-fi.md)
-_Context: Americans, Pakistan, Taliban, United States Congress, al-Qaeda, foreign aid_
+_Context: Pakistan, Taliban, United States, United States Congress, al-Qaeda, foreign aid_
 
 ### [ Colombia's intelligence chief Andres Penate claims FARC rebels accidentally killed 11 politicians it was holding, after running into another rebel unit. ](/news/2007/07/28/colombia-s-intelligence-chief-andra-c-s-pea-ate-claims-farc-rebels-accidentally-killed-11-politicians-it-was-holding-after-running-into-anot.md)
 _Context: Andres Penate, Colombia, FARC_

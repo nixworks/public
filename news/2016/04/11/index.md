@@ -1,7 +1,7 @@
 ## [2016-04-11](/news/2016/04/11/index.md)
 
 ### [ At least three suicide bombers attack a police station in Stavropol, Russia. ](/news/2016/04/11/at-least-three-suicide-bombers-attack-a-police-station-in-stavropol-russia.md)
-_Context: 2016 Stavropol bombings, Russia, Stavropol_
+_Context: 2016 Stavropol bombings, Stavropol, the Russian Federation_
 
 ### [Clashes and air strikes are reported in Yemen despite a fragile truce between the government and Houthis taking effect. However, the truce appears to be largely holding as members from the International Red Cross and Red Crescent Movement are granted unhindered access to give humanitarian aid and personnel across the country. ](/news/2016/04/11/clashes-and-air-strikes-are-reported-in-yemen-despite-a-fragile-truce-between-the-government-and-houthis-taking-effect-however-the-truce-a.md)
 A truce aimed at ending more than a year of war in Yemen appears to be largely holding, despite reports of fighting in several places.

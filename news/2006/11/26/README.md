@@ -7,7 +7,7 @@ _Context: Ethiopia, Islamic Courts Union, Somali Civil War, Somalian_
 _Context: Abeche, Chad_
 
 ### [ Peter Hain, the Secretary of State for Northern Ireland criticizes "murky murders" associated with Vladimir Putin's regime in Russia following the poisoning of Alexander Litvinenko. ](/news/2006/11/26/peter-hain-the-secretary-of-state-for-northern-ireland-criticizes-murky-murders-associated-with-vladimir-putin-s-regime-in-russia-follow.md)
-_Context: Alexander Litvinenko, Northern Ireland, Peter Hain, Russia, Secretary of State for Northern Ireland, Vladimir Putin_
+_Context: Alexander Litvinenko, Northern Ireland, Peter Hain, Secretary of State for Northern Ireland, Vladimir Putin, the Russian Federation_
 
 ### [ Sunni and Shia Islamists score big victories in Bahrain's parliamentary elections as results are announced from yesterday's poll ](/news/2006/11/26/sunni-and-shia-islamists-score-big-victories-in-bahrain-s-parliamentary-elections-as-results-are-announced-from-yesterday-s-poll.md)
 _Context: Al Wefaq, Bahrain, Islamist, Sunni, parliamentary elections_

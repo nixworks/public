@@ -1,7 +1,7 @@
 ## [2014-05-27](/news/2014/05/27/index.md)
 
 ### [At least thirty pro-Russian separatists have died in fighting over control of Donetsk International Airport; the Ukrainian government claims to have total control of the airport following the clashes with the separatists. ](/news/2014/05/27/at-least-thirty-pro-russian-separatists-have-died-in-fighting-over-control-of-donetsk-international-airport-the-ukrainian-government-claims.md)
-_Context: Donetsk International Airport, Government of Ukraine, Russia_
+_Context: Donetsk International Airport, Government of Ukraine, the Russian Federation_
 
 ### [Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/eleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-finding-mission-are-atta.md)
 A convoy of chemical weapons inspectors and UN staff that was travelling to a site of an alleged chlorine gas attack in Syria comes under attack.
@@ -10,7 +10,7 @@ A convoy of chemical weapons inspectors and UN staff that was travelling to a si
 The troops will include troops to train and advise Afghanistan&rsquo;s military and a group of Special Operations forces.
 
 ### [An American doctor, Mehdi Ali Qamar, is shot and killed in Pakistan by unknown assailants on motorbikes. ](/news/2014/05/27/an-american-doctor-mehdi-ali-qamar-is-shot-and-killed-in-pakistan-by-unknown-assailants-on-motorbikes.md)
-_Context: Americans, Pakistan_
+_Context: Pakistan, United States_
 
 ### [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
 _Context: Anbar province, Baghdad, Iraq, Iraqi insurgency_
@@ -25,7 +25,7 @@ European Central Bank President Mario Draghi said on Tuesday the bank was aware 
 _Context: Nexium, Pfizer, heartburn_
 
 ### [Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-determine-the-estimated-path-of-mis.md)
-_Context: British people, Department of Civil Aviation, Inmarsat, Malaysia_
+_Context: British, Department of Civil Aviation, Inmarsat, Malaysia_
 
 ### [Vietnam and China trade accusations over an incident in the South China Sea that led to the sinking of a Vietnamese fishing boat yesterday. ](/news/2014/05/27/vietnam-and-china-trade-accusations-over-an-incident-in-the-south-china-sea-that-led-to-the-sinking-of-a-vietnamese-fishing-boat-yesterday.md)
 Vietnam and China trading accusations Tuesday over who was the aggressor in an incident that led to the sinking of a Vietnamese fishing boat in the South China Sea, sharpening already dangerously high tensions between the two nations over their overlapping territorial claims in the waters.

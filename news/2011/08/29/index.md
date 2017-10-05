@@ -4,7 +4,7 @@
 As many as 50,000 political prisoners may still be trapped in underground jails in Libya, if they have not already been executed by elements of the crumbling Gaddafi regime. The National Transitional Council says it has already freed around 10,000 political prisoners but tens of thousands are still ...
 
 ### [Stock, bond and commodities markets open as usual in the United States despite the impact of Hurricane Irene on New York City. ](/news/2011/08/29/stock-bond-and-commodities-markets-open-as-usual-in-the-united-states-despite-the-impact-of-hurricane-irene-on-new-york-city.md)
-_Context: Americans, Hurricane Irene, New York City_
+_Context: Hurricane Irene, New York City, United States_
 
 ### [Typhoon Nanmadol hits Taiwan after killing 11 people in the Philippines. ](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.md)
 _Context: Philippines, Taiwan, Typhoon Nanmadol_

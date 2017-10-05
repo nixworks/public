@@ -1,7 +1,7 @@
 ## [2007-04-23](/news/2007/04/23/index.md)
 
 ### [ Former Russian President Boris Yeltsin dies at the age of 76. ](/news/2007/04/23/former-russian-president-boris-yeltsin-dies-at-the-age-of-76.md)
-_Context: Boris Yeltsin, President, Russia_
+_Context: Boris Yeltsin, President, the Russian Federation_
 
 ### [ Prime Minister Nouri Maliki calls for construction to be halted on the three-mile wall being built by the United States military around the predominantly Sunni district of Adhamiyah, Baghdad. Thousands of Iraqis also protest the wall. ](/news/2007/04/23/prime-minister-nouri-maliki-calls-for-construction-to-be-halted-on-the-three-mile-wall-being-built-by-the-united-states-military-around-the.md)
 _Context: Adhamiyah, Baghdad, Iraq, Iraq Prime Minister, Nouri Maliki, Sunni, United States military, protest, three-mile wall_
@@ -19,7 +19,7 @@ _Context: EU, Nigeria, Umaru Yar'Adua, presidential election_
 _Context: 3D, NASA, STEREO, Sun_
 
 ### [ The United States' 391st National Park Unit, Sand Creek Massacre National Historic Site, is formally established. ](/news/2007/04/23/the-united-states-391st-national-park-unit-sand-creek-massacre-national-historic-site-is-formally-established.md)
-_Context: Americans, National Park Unit, Sand Creek Massacre National Historic Site_
+_Context: National Park Unit, Sand Creek Massacre National Historic Site, United States_
 
 ### [ VA allows Wiccan symbols on headstones. ](/news/2007/04/23/va-allows-wiccan-symbols-on-headstones.md)
 After a lawsuit advocating the usage of Wiccan pentacles on headstones, the US Department of Veterans Affairs added the symbol to its list of approved emblems.

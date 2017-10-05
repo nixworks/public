@@ -10,13 +10,13 @@ A cargo plane crashed into houses near Brazzaville Maya-Maya airport while attem
 A railroad bridge collapsed on Friday over a creek in southern New Jersey, causing a Conrail freight train to derail and spill hazardous chemicals into the air and water, authorities said.
 
 ### [Two people are killed and more than ten others injured in a gas explosion and fire in an apartment building in the Siberian city of Tomsk, Russia. ](/news/2012/11/30/two-people-are-killed-and-more-than-ten-others-injured-in-a-gas-explosion-and-fire-in-an-apartment-building-in-the-siberian-city-of-tomsk-r.md)
-_Context: Russia, Siberian, Tomsk, gas explosion_
+_Context: Siberian, Tomsk, gas explosion, the Russian Federation_
 
 ### [A freight train derails at the Stuttgart-Feuerbach station, Germany, after a collision with the railway platform. There were no reports of injuries. ](/news/2012/11/30/a-freight-train-derails-at-the-stuttgart-feuerbach-station-germany-after-a-collision-with-the-railway-platform-there-were-no-reports-of-i.md)
 _Context: Germany, Stuttgart-Feuerbach station, freight train, railway platform_
 
 ### [A murder-suicide attack occurs in Casper, Wyoming, United States. Two people are murdered, including a female computer science instructor (off campus), and a male faculty member that she'd been seeing (in a classroom) at Casper College, before the perpetrator, the male professor's son, killed himself in the classroom. ](/news/2012/11/30/a-murderasuicide-attack-occurs-in-casper-wyoming-united-states-two-people-are-murdered-including-a-female-computer-science-instructor.md)
-_Context: Americans, Casper College, Casper, Wyoming, murder-suicide_
+_Context: Casper College, Casper, Wyoming, United States, murder-suicide_
 
 ### [A New Hampshire federal grand jury indicts David Kwiatkowski, 33, a former employee of Exeter Hospital in Exeter, New Hampshire, on fraud and product-tampering charges in connection with an outbreak of hepatitis C that sickened more than 30 people and caused concern in 7 states. ](/news/2012/11/30/a-new-hampshire-federal-grand-jury-indicts-david-kwiatkowski-33-a-former-employee-of-exeter-hospital-in-exeter-new-hampshire-on-fraud-an.md)
 _Context: Exeter, New Hampshire, New Hampshire, fraud, grand jury, hepatitis C_

@@ -7,7 +7,7 @@ _Context: Behzad Nabavi, Iran, Majlis of Iran_
 _Context: Muslims, Omar Bakri Muhammad, militant, terrorist_
 
 ### [ The new Prime Minister of Spain, Jos Luis Rodrguez Zapatero, orders that all Spanish troops should be brought home from Iraq "in as short a time as possible", in accordance with "the will of the Spanish people". ](/news/2004/04/18/the-new-prime-minister-of-spain-jose-luis-rodriguez-zapatero-orders-that-all-spanish-troops-should-be-brought-home-from-iraq-in-as-short.md)
-_Context: Iraq, Jos Luis Rodrguez Zapatero, Prime Minister_
+_Context: Iraq, Jos Luis Rodrguez Zapatero, Spanish Prime Minister_
 
 ### [ In Kosovo, a Jordanian UN police officer opens fire upon a convoy of UN police officers killing two female Americans and injuring eleven others. The attack reportedly stemmed from an argument between American and Jordanian UN police over Iraq policies. ](/news/2004/04/18/in-kosovo-a-jordanian-un-police-officer-opens-fire-upon-a-convoy-of-un-police-officers-killing-two-female-americans-and-injuring-eleven-ot.md)
 _Context: Iraq, Jordan, Kosovo, United Nations_

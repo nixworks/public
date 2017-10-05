@@ -13,7 +13,7 @@ _Context: George Yeo, Mark Chen, Singapore, Taiwan, independence_
 _Context: Crawford, Texas, Democratic, George W. Bush, John Kerry, Texas, U.S. President, last election, newspaper, presidential candidate_
 
 ### [ Giovanni di Stefano, the lawyer of former Iraqi President Saddam Hussein, tells the Danish newspaper "B.T." that Hussein plans to run as a candidate in the Iraqi elections scheduled for January 2005. A recent Gallup poll indicated that 42 percent of the Iraqi people want their former leader back. ](/news/2004/09/28/giovanni-di-stefano-the-lawyer-of-former-iraqi-president-saddam-hussein-tells-the-danish-newspaper-b-t-that-hussein-plans-to-run-as-a.md)
-_Context: Gallup poll, Giovanni di Stefano, President, Saddam Hussein_
+_Context: Gallup poll, Giovanni di Stefano, President of Iraq, Saddam Hussein_
 
 ### [ Health officials in Thailand report that they have identified a likely case of human to human transmission of the H5N1 strain of avian influenza, although the World Health Organization says the transmission occurred only after prolonged contact between individuals. A more easily transmitted virus could potentially cause a worldwide flu pandemic on the level of the 1918 Spanish flu. ](/news/2004/09/28/health-officials-in-thailand-report-that-they-have-identified-a-likely-case-of-human-to-human-transmission-of-the-h5n1-strain-of-avian-infl.md)
 _Context: Avian flu virus, Spanish Flu, Thailand, World Health Organization, bird flu, pandemic_

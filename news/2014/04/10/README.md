@@ -10,7 +10,7 @@ _Context: Aleppo, barrel bomb_
 _Context: CBS, David Letterman, Late Show with David Letterman, Stephen Colbert, The Colbert Report_
 
 ### [The Parliamentary Assembly of the Council of Europe suspends Russia's right to vote and take part in election observations as a consequence to its annexation of Crimea. ](/news/2014/04/10/the-parliamentary-assembly-of-the-council-of-europe-suspends-russia-s-right-to-vote-and-take-part-in-election-observations-as-a-consequence.md)
-_Context: Council of Europe, Crimea, Russia_
+_Context: Council of Europe, Crimea, the Russian Federation_
 
 ### [Protesters against a proposed trade deal with China peacefully ended their 24-day occupation of the legislature, as lawmakers prepare to review bills requiring greater oversight for such agreements. ](/news/2014/04/10/protesters-against-a-proposed-trade-deal-with-china-peacefully-ended-their-24-day-occupation-of-the-legislature-as-lawmakers-prepare-to-rev.md)
 _Context: trade deal_

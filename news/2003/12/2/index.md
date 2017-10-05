@@ -10,7 +10,7 @@ _Context: DeCSS, Jon Johansen_
 _Context: $, EUR, current account, protectionism_
 
 ### [ Andrei Illarionov, economic advisor to President Vladimir Putin, indicates Russia will not ratify the Kyoto Protocol in its current form, a decision that would kill the accord. Some observers speculate that this is purely domestic posturing for forthcoming elections. [http:--news.bbc.co.uk-2-hi-science-nature-3256604.stm]](/news/2003/12/2/andrei-illarionov-economic-advisor-to-president-vladimir-putin-indicates-russia-will-not-ratify-the-kyoto-protocol-in-its-current-form-a.md)
-_Context: Andrei Illarionov, Kyoto Protocol, Russia, Vladimir Putin, election_
+_Context: Andrei Illarionov, Kyoto Protocol, Vladimir Putin, election, the Russian Federation_
 
 ### [ Mark Latham is elected to succeed Simon Crean as the new leader of the opposition Australian Labor Party, defeating former leader Kim Beazley by 47 votes to 45. In 2004 Latham will face Liberal Prime Minister John Howard at a general election. [http:--www.smh.com.au-articles-2003-12-02-1070127386800.html]](/news/2003/12/2/mark-latham-is-elected-to-succeed-simon-crean-as-the-new-leader-of-the-opposition-australian-labor-party-defeating-former-leader-kim-beazl.md)
 _Context: 2004, Australian Prime Minister, John Howard, Kim Beazley, Labor Party, Liberal Party, Mark Latham, Simon Crean, parliamentary election_
@@ -25,7 +25,7 @@ _Context: Arnold Schwarzenegger, Chris Patten, Defense Secretary, Donald Rumsfel
 _Context: Paris, flu_
 
 ### [ The European Union threatens retaliatory sanctions unless the United States lifts its threat of restrictions on imports of steel; the US measures have been declared illegal by the WTO. [http:--abcnews.go.com-wire-Politics-ap20031201_936.html]](/news/2003/12/2/the-european-union-threatens-retaliatory-sanctions-unless-the-united-states-lifts-its-threat-of-restrictions-on-imports-of-steel-the-us-me.md)
-_Context: Americans, EU, WTO, steel_
+_Context: EU, United States, WTO, steel_
 
 ### [ Pirate copies of a pre-alpha version of Microsoft's Windows "Longhorn" operating system go on sale in Malaysia more than a year ahead of its expected release date. [http:--news.bbc.co.uk-2-hi-technology-3255120.stm]](/news/2003/12/2/pirate-copies-of-a-pre-alpha-version-of-microsoft-s-windows-longhorn-operating-system-go-on-sale-in-malaysia-more-than-a-year-ahead-of-it.md)
 _Context: Malaysia, Microsoft, Windows Vista_
@@ -34,7 +34,7 @@ _Context: Malaysia, Microsoft, Windows Vista_
 _Context: Great Internet Mersenne Prime Search, Mersenne prime, decimal, digits, prime number_
 
 ### [ The Pentagon announces that U.S.-born illegal combatant and Taliban fighter Yaser Esam Hamdi will be allowed access to a lawyer after having been denied such counsel for two years. [http:--www.myafghan.com-news2.asp?id=985750365&search=12-3-2003]](/news/2003/12/2/the-pentagon-announces-that-u-s-born-illegal-combatant-and-taliban-fighter-yaser-esam-hamdi-will-be-allowed-access-to-a-lawyer-after-havin.md)
-_Context: Americans, Taliban, United States military, Yaser Esam Hamdi, illegal enemy combatant_
+_Context: Taliban, United States, United States military, Yaser Esam Hamdi, illegal enemy combatant_
 
 ## [Previous Day...](/news/2003/12/1/index.md)
 

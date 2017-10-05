@@ -1,7 +1,7 @@
 ## [2008-09-22](/news/2008/09/22/index.md)
 
 ### [ Herman Simm, a former head of security at the Estonian Defense Ministry, and his wife Heete Simm, who works as a lawyer at Estonia's National Police Board, are arrested on suspicion of spying for Russia. ](/news/2008/09/22/herman-simm-a-former-head-of-security-at-the-estonian-defense-ministry-and-his-wife-heete-simm-who-works-as-a-lawyer-at-estonia-s-nation.md)
-_Context: Estonia, Heete Simm, Herman Simm, Russia_
+_Context: Estonia, Heete Simm, Herman Simm, the Russian Federation_
 
 ### [ Four people die in Puerto Rico as a result of heavy rains. ](/news/2008/09/22/four-people-die-in-puerto-rico-as-a-result-of-heavy-rains.md)
 Heavy rains drenched Puerto Rico on Monday as a slow-moving tropical disturbance lingered over the U.S. Caribbean territory, killing four people, flooding streets and neighborhoods and forcing public schools to close.

@@ -37,7 +37,7 @@ _Context: Burma, UN special rapporteurs, United Nations, crimes against humanity
 _Context: Sudan, conflict_
 
 ### [Russia signs a nuclear reactor deal with India which will see it build 16 nuclear reactors in India. ](/news/2010/03/12/russia-signs-a-nuclear-reactor-deal-with-india-which-will-see-it-build-16-nuclear-reactors-in-india.md)
-_Context: India, Russia_
+_Context: India, the Russian Federation_
 
 ### [Taoiseach Brian Cowen departs for the United States ahead of his Saint Patrick's Day engagements with President Barack Obama. ](/news/2010/03/12/taoiseach-brian-cowen-departs-for-the-united-states-ahead-of-his-saint-patrick-s-day-engagements-with-president-barack-obama.md)
 The Taoiseach begins his visit to the US today, which culminates with a meeting with US President Barack Obama at the White House on St Patrick&#39;s Day.

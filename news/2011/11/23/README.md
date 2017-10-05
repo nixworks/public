@@ -7,13 +7,13 @@ _Context: 2011 Egyptian revolution, Cairo, Tahrir Square_
 A father and his three young children planning to spend the Thanksgiving weekend together have died after a small plane they were in slammed into the Superstition Mountains in the United States.
 
 ### [The United States announces that it will stop observing the 1990 Treaty on Conventional Armed Forces in Europe. The decision comes four years after Russia withdrew compliance from the treaty. ](/news/2011/11/23/the-united-states-announces-that-it-will-stop-observing-the-1990-treaty-on-conventional-armed-forces-in-europe-the-decision-comes-four-year.md)
-_Context: Americans, Russia, Treaty on Conventional Armed Forces in Europe_
+_Context: Treaty on Conventional Armed Forces in Europe, United States, the Russian Federation_
 
 ### [In a warning to Syrian President Bashar al-Assad to step down, Turkish Prime Minister Recep Tayyip Erdogan calls al-Assad's ongoing crackdown on protests cowardice, comparing al-Assad to past dictators such as Adolf Hitler and Muammar Gaddafi. ](/news/2011/11/23/in-a-warning-to-syrian-president-bashar-al-assad-to-step-down-turkish-prime-minister-recep-tayyip-erdoaan-calls-al-assad-s-ongoing-crackdo.md)
 _Context: 2011 Syrian uprising, Adolf Hitler, Bashar al-Assad, Muammar Gaddafi, Recep Tayyip Erdogan, Syrian President, Turkish Prime Minister_
 
 ### [The European Space Agency claims to have made contact with Russia's stranded Fobos-Grunt probe, two days after the closure of the spacecraft's window for launch to Mars. ](/news/2011/11/23/the-european-space-agency-claims-to-have-made-contact-with-russia-s-stranded-fobos-grunt-probe-two-days-after-the-closure-of-the-spacecraft.md)
-_Context: European Space Agency, Fobos-Grunt, Mars, Russia_
+_Context: European Space Agency, Fobos-Grunt, Mars, the Russian Federation_
 
 ## [Previous Day...](/news/2011/11/22/index.md)
 

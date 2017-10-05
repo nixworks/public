@@ -13,7 +13,7 @@ _Context: Armed Forces, National Police, Peru, indigenous Amazon groups_
 _Context: LTTE, Sri Lanka, Sri Lankan Civil War, Tamil Eelam, ceasefire_
 
 ### [ A 4.7-magnitude earthquake strikes Inglewood and Lennox, California, United States. ](/news/2009/05/17/a-4-7-magnitude-earthquake-strikes-inglewood-and-lennox-california-united-states.md)
-_Context: Americans, California, Inglewood, Lennox, magnitude_
+_Context: California, Inglewood, Lennox, United States, magnitude_
 
 ### [ Demonstrators demand that Guatemalan President Alvaro Colom resign for allegedly killing Rodrigo Rosenberg. ](/news/2009/05/17/demonstrators-demand-that-guatemalan-president-alvaro-colom-resign-for-allegedly-killing-rodrigo-rosenberg.md)
 _Context: Alvaro Colom, Guatemala, President of Guatemala, Rodrigo Rosenberg Marzano, demonstration_

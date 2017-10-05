@@ -73,7 +73,7 @@ Toxic red sludge from a Hungarian alumina plant reached the Danube on Thursday a
 _Context: Darfur, Security Council, Southern Sudanese Independence Referendum, Sudan_
 
 ### [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md)
-_Context: Air Defense, Iran, Russia, ban on ballistic missile tests, nuclear program_
+_Context: Air Defense, Iran, ban on ballistic missile tests, nuclear program, the Russian Federation_
 
 ### [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md)
 As the White House tried to mollify Pakistan over an airstrike, officials said there were larger tensions.

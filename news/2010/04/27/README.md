@@ -16,7 +16,7 @@ _Context: Baghdad, Iraqi Army, Mortar_
 Myanmars prime minister and at least 17 other ministers and deputy ministers Monday resigned their military posts in what appears to be a step towards...
 
 ### [A smoke bomb is thrown in the Ukrainian parliament during protests after Ukraine's extension of the lease on a Russian naval base in Sevastopol. ](/news/2010/04/27/a-smoke-bomb-is-thrown-in-the-ukrainian-parliament-during-protests-after-ukraine-s-extension-of-the-lease-on-a-russian-naval-base-in-sevasto.md)
-_Context: Russia, Sevastopol, Ukraine, Verkhovna Rada, during protests, smoke bomb_
+_Context: Sevastopol, Ukraine, Verkhovna Rada, during protests, smoke bomb, the Russian Federation_
 
 ### [A United States Senate investigation finds that Goldman Sachs made billions of dollars at the expense of its clients during the collapse of the housing market. ](/news/2010/04/27/a-united-states-senate-investigation-finds-that-goldman-sachs-made-billions-of-dollars-at-the-expense-of-its-clients-during-the-collapse-of.md)
 _Context: Goldman Sachs, United States Senate, housing market_

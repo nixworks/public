@@ -4,7 +4,7 @@
 _Context: Buhriz, Iraq_
 
 ### [British singer Susan Boyle reveals she has Asperger syndrome. ](/news/2013/12/9/british-singer-susan-boyle-reveals-she-has-asperger-syndrome.md)
-_Context: Asperger syndrome, British people, Susan Boyle_
+_Context: Asperger syndrome, British, Susan Boyle_
 
 ### [American Airlines Group is formed from the merger of AMR Corporation and US Airways Group and begins trading on the NASDAQ. ](/news/2013/12/9/american-airlines-group-is-formed-from-the-merger-of-amr-corporation-and-us-airways-group-and-begins-trading-on-the-nasdaq.md)
 Eleven months after American Airlines and US Airways announced plans to merge, the union that creates the world&apos;s largest airline became official Monday.

@@ -22,7 +22,7 @@ Teams in Guatemala have to halt the search for bodies following devasting mudsli
 _Context: 2010 Atlantic hurricane season, Mexico, Texas_
 
 ### [A wind-driven wildfire in the United States state of Colorado leads to the evacuation of 1,000 houses. ](/news/2010/09/6/a-wind-driven-wildfire-in-the-united-states-state-of-colorado-leads-to-the-evacuation-of-1-000-houses.md)
-_Context: Americans, Colorado, Wildfire_
+_Context: Colorado, United States, Wildfire_
 
 ### [North Korea announces it will release seven detained Chinese and South Korean fishermen. ](/news/2010/09/6/north-korea-announces-it-will-release-seven-detained-chinese-and-south-korean-fishermen.md)
 _Context: China, North Korea, South Korea_

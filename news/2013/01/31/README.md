@@ -43,7 +43,7 @@ The timing of the attacks coincided with reporting for an investigation that fou
 SOUTH Australian Opposition Leader Isobel Redmond has quit the Liberal leadership because of party disunity, setting up a vote to replace her.
 
 ### [The Russian city of Volgograd passes a measure to refer to itself by its previous name, Stalingrad, on Victory Day and five key dates relating to the Battle of Stalingrad. ](/news/2013/01/31/the-russian-city-of-volgograd-passes-a-measure-to-refer-to-itself-by-its-previous-name-stalingrad-on-victory-day-and-five-key-dates-relati.md)
-_Context: Russia, Victory Day, Volgograd, battle of the same name_
+_Context: Victory Day, Volgograd, battle of the same name, the Russian Federation_
 
 ### [Serbia's Prime Minister Ivica Dacic, who was flashed by a model without underwear masquerading as a television interviewer, launches an investigation into how he became the target of the prank. ](/news/2013/01/31/serbia-s-prime-minister-ivica-daaia-who-was-flashed-by-a-model-without-underwear-masquerading-as-a-television-interviewer-launches-an-in.md)
 _Context: Ivica Dacic, Prime Minister of Serbia, Serbia, interviewer, model, prank, underwear_

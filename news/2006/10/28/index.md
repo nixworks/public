@@ -7,7 +7,7 @@ _Context: Boeing 747, Henry Obering, Iran, Missile Defense Agency, North Korea, 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The Russian political parties Rodina, the Russian Party of Life and the Russian Pensioners' Party merge to form a new leftist party, Fair Russia, effectively making Sergey Mironov the new leader of the opposition in the Russian legislature. ](/news/2006/10/28/the-russian-political-parties-rodina-the-russian-party-of-life-and-the-russian-pensioners-party-merge-to-form-a-new-leftist-party-fair-r.md)
-_Context: Fair Russia, Federal Assembly, Rodina, Russia, Russian Party of Life, Russian Pensioners' Party, Sergey Mironov, opposition party, political parties_
+_Context: Fair Russia, Federal Assembly, Rodina, Russian Party of Life, Russian Pensioners' Party, Sergey Mironov, opposition party, political parties, the Russian Federation_
 
 ### [ Prime Minister of Iraq Nouri al-Maliki tells the U.S. ambassador that he is Washington's friend but "not America's man in Iraq." ](/news/2006/10/28/prime-minister-of-iraq-nouri-al-maliki-tells-the-u-s-ambassador-that-he-is-washington-s-friend-but-not-america-s-man-in-iraq.md)
 _Context: District of Columbia, Iraq, Iraq Prime Minister, Nouri al-Maliki, United States of America_

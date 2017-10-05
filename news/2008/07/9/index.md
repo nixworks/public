@@ -13,7 +13,7 @@ _Context: Senator, September 11, 2001 attacks, eavesdropping, privacy, telecommu
 _Context: African Union, Darfur, United Nations, peacekeepers_
 
 ### [ Three members of the Turkish police force are killed during an armed attack on the United States consulate in Istanbul with three attackers also dead. The US ambassador states that it is an "obvious case of terrorism". ](/news/2008/07/9/three-members-of-the-turkish-police-force-are-killed-during-an-armed-attack-on-the-united-states-consulate-in-istanbul-with-three-attackers.md)
-_Context: Americans, Istanbul, Turkish police, armed attack_
+_Context: Istanbul, Turkish police, United States, armed attack_
 
 ### [ Iran test-fires nine long- and medium-range missiles, including the Shahab-3. ](/news/2008/07/9/iran-test-fires-nine-long-and-medium-range-missiles-including-the-shahab-3.md)
 _Context: Iran, Shahab-3, rocket attacks, test-fires_

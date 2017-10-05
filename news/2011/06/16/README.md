@@ -7,7 +7,7 @@ _Context: Ayman al-Zawahiri, Osama bin Laden, al-Qaeda_
 _Context: Government of Malaysia, hacker group Anonymous, hackers_
 
 ### [Sections of the British media report that Prince Harry has been cleared to return to service in the Afghan War. ](/news/2011/06/16/sections-of-the-british-media-report-that-prince-harry-has-been-cleared-to-return-to-service-in-the-afghan-war.md)
-_Context: British people, Prince Harry, War in Afghanistan (2001-present)_
+_Context: British, Prince Harry, War in Afghanistan (2001-present)_
 
 ### [Libyan leader Muammar Gaddafi's compound in Tripoli is hit by a NATO bombing raid. ](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.md)
 _Context: Libyan, Muammar Gaddafi, NATO, Tripoli_
@@ -19,7 +19,7 @@ The BBC must make an on-air apology to Primark over a Panorama film which showed
 _Context: London, Sir Stanley Spencer, Sotheby's_
 
 ### [British comedians Matt Lucas and David Walliams end their partnership which led to successful television shows "Come Fly With Me" and "Little Britain". ](/news/2011/06/16/british-comedians-matt-lucas-and-david-walliams-end-their-partnership-which-led-to-successful-television-shows-come-fly-with-me-and-littl.md)
-_Context: British people, Come Fly With Me, David Walliams, Little Britain, Matt Lucas_
+_Context: British, Come Fly With Me, David Walliams, Little Britain, Matt Lucas_
 
 ### [Software company Oracle announces that it is looking for damages "in the billions of dollars" from Google in an ongoing patent law action over the smartphone. ](/news/2011/06/16/software-company-oracle-announces-that-it-is-looking-for-damages-in-the-billions-of-dollars-from-google-in-an-ongoing-patent-law-action-ov.md)
 Oracle Corp is seeking damages &quot;in the billions of dollars&quot; from Google Inc in a patent lawsuit over the smartphone market, according to a court filing.

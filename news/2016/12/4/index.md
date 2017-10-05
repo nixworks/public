@@ -1,7 +1,7 @@
 ## [2016-12-4](/news/2016/12/4/index.md)
 
 ### [The Russian Federal Security Service claims to have killed Rustam Asildarov, the leader of the Islamic State of Iraq and the Levant's Caucasus Province and four other militants in the Dagestan region. ](/news/2016/12/4/the-russian-federal-security-service-claims-to-have-killed-rustam-asildarov-the-leader-of-the-islamic-state-of-iraq-and-the-levant-s-caucas.md)
-_Context: Caucasus Province, Dagestan, Federal Security Service, Insurgency in the North Caucasus, Islamic State, Russia, Rustam Asildarov_
+_Context: Caucasus Province, Dagestan, Federal Security Service, ISIL, Insurgency in the North Caucasus, Rustam Asildarov, the Russian Federation_
 
 ### [ At least 21 people are killed in suspected Russian airstrikes on Idlib, Syria. ](/news/2016/12/4/at-least-21-people-are-killed-in-suspected-russian-airstrikes-on-idlib-syria.md)
 Dozens more injured in bombing believed to have been carried out by Russia fighter jets
@@ -22,7 +22,7 @@ The death toll in the historic Gatlinburg fires is now at 14, Park Service spoke
 “Sixty cities in China issued smog alerts Dec. 2-4. Authorities say more effective measures needed for environmental protection”
 
 ### [At least 12 people, including 10 children, are killed in a bus crash in Siberia, Russia. ](/news/2016/12/4/at-least-12-people-including-10-children-are-killed-in-a-bus-crash-in-siberia-russia.md)
-_Context: Russia, Siberia_
+_Context: Siberia, the Russian Federation_
 
 ### [Three women, the Imatra Town Council chairwoman and two local reporters, are shot dead outside a restaurant in Imatra, Finland, a town east of the capital, Helsinki. A 23-year-old suspect is apprehended by police. ](/news/2016/12/4/three-women-the-imatra-town-council-chairwoman-and-two-local-reporters-are-shot-dead-outside-a-restaurant-in-imatra-finland-a-town-east.md)
 A deadly shooting has occurred in the city of Imatra in South-East Finland. Police say that three women are confirmed dead from gunshot wounds from a rifle. A local man has been apprehended.

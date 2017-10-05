@@ -10,7 +10,7 @@ _Context: Chinese President, Hu Jintao, Taiwan, Vincent Siew_
 _Context: Lusaka, President of Zimbabwe, Robert Mugabe, The Herald, Zambia, newspaper, run-off presidential election_
 
 ### [ Russia threatens to block Ban Ki Moon from serving a second term as United Nations Secretary-General because of his stance on Kosovo's recent independence. The Kremlin is pressing Ban to ignore, or at least prolong, a proposed 120-day transition period to Kosovo independence from Serbia that expires on 16 June. Renewal of Serbia-Kosovo talks is possible. ](/news/2008/04/12/russia-threatens-to-block-ban-ki-moon-from-serving-a-second-term-as-united-nations-secretary-general-because-of-his-stance-on-kosovo-s-rece.md)
-_Context: 16 June, Ban Ki-moon, Russia, United Nations Secretary-General_
+_Context: 16 June, Ban Ki-moon, United Nations Secretary-General, the Russian Federation_
 
 ### [ A Sudanese cargo plane crashes in Moldova, killing eight people. ](/news/2008/04/12/a-sudanese-cargo-plane-crashes-in-moldova-killing-eight-people.md)
 _Context: Moldova, Sudan, crashes_

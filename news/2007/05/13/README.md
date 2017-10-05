@@ -1,7 +1,7 @@
 ## [2007-05-13](/news/2007/05/13/index.md)
 
 ### [ Team Canada wins the 2007 IIHF World Hockey Championship after a 4-2 win over Finland in the gold medal game in Moscow, Russia. ](/news/2007/05/13/team-canada-wins-the-2007-iihf-world-hockey-championship-after-a-4-2-win-over-finland-in-the-gold-medal-game-in-moscow-russia.md)
-_Context: 2007 IIHF World Hockey Championship, Finland, Moscow, Russia, Team Canada, gold medal_
+_Context: 2007 IIHF World Hockey Championship, Finland, Moscow, Team Canada, gold medal, the Russian Federation_
 
 ### [ Two cargo ships collide in heavy fog near Dalian, China. 16 sailors are missing. ](/news/2007/05/13/two-cargo-ships-collide-in-heavy-fog-near-dalian-china-16-sailors-are-missing.md)
 _Context: China, Dalian, cargo ship_

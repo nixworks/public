@@ -10,7 +10,7 @@ _Context: Bolivia, Evo Morales, Oruro, President of Bolivia, dynamite_
 _Context: Apex, Environmental Quality Industrial Services, North Carolina, U.S. state_
 
 ### [ Negotiators from the European Union and the United States reach a deal on sharing trans-Atlantic passenger data used in anti-terrorism investigations. ](/news/2006/10/6/negotiators-from-the-european-union-and-the-united-states-reach-a-deal-on-sharing-trans-atlantic-passenger-data-used-in-anti-terrorism-inve.md)
-_Context: Americans, EU_
+_Context: EU, United States_
 
 ### [ The Roman Catholic Church's Theological Commission are reviewing the teaching of "limbus infantium" (limbo for infants who died before being baptised) and may recommend to Pope Benedict XVI that it be amended. ](/news/2006/10/6/the-roman-catholic-church-s-theological-commission-are-reviewing-the-teaching-of-limbus-infantium-limbo-for-infants-who-died-before-bein.md)
 _Context: Pope Benedict XVI, Roman Catholic Church, baptised, limbus infantium_

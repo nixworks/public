@@ -25,7 +25,7 @@ _Context: Hormel, Skippy peanut butter, Unilever_
 Coffee giant opening first outlet in the country next month
 
 ### [Subaru issues a recall for nearly 634,000 vehicles in the United States due to a lighting problem. ](/news/2013/01/3/subaru-issues-a-recall-for-nearly-634-000-vehicles-in-the-united-states-due-to-a-lighting-problem.md)
-_Context: Americans, Subaru_
+_Context: Subaru, United States_
 
 ### [The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.md)
 Prime Minister David Cameron strongly rebuffs a call by Argentine President Cristina Fernandez de Kirchner for the UK to return the South Atlantic islands.

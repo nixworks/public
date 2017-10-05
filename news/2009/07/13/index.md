@@ -28,7 +28,7 @@ _Context: Urumqi, Uyghur_
 By Emma Amaize LAGOSÂ -Â MOVEMENT for the Emancipation of the Niger-Delta (MEND) yesterday switched its ongoing offensive, codenamed Hurricane Moses outside the Niger-Delta region, setting ablaze the Atlas Cove Jetty in Lagos state. The groupâ€™s spokesman, Jomo Gbomo who confirmed the unpara...
 
 ### [ Russian President Dmitry Medvedev makes his first visit to South Ossetia. ](/news/2009/07/13/russian-president-dmitry-medvedev-makes-his-first-visit-to-south-ossetia.md)
-_Context: Dmitry Medvedev, Russia, Russian President, South Ossetia_
+_Context: Dmitry Medvedev, Russian President, South Ossetia, the Russian Federation_
 
 ### [ John Demjanjuk is charged with 27,900 counts of accessory to murder in World War II at a court in Germany. ](/news/2009/07/13/john-demjanjuk-is-charged-with-27-900-counts-of-accessory-to-murder-in-world-war-ii-at-a-court-in-germany.md)
 _Context: Germany, John Demjanjuk, World War II, accessory to murder_
@@ -37,7 +37,7 @@ _Context: Germany, John Demjanjuk, World War II, accessory to murder_
 The police chief of a district south of Kabul that the Americans had sought to make a Taliban-free model of safety and security was killed in a roadside blast.
 
 ### [ U.S. Senate confirmation hearings for United States Supreme Court nominee Sonia Sotomayor begin. ](/news/2009/07/13/u-s-senate-confirmation-hearings-for-united-states-supreme-court-nominee-sonia-sotomayor-begin.md)
-_Context: Americans, Sonia Sotomayor, United States Senate, United States Supreme Court_
+_Context: Sonia Sotomayor, United States, United States Senate, United States Supreme Court_
 
 ### [ Former Prime Minister of Lebanon Amin al-Hafez dies at age 83. ](/news/2009/07/13/former-prime-minister-of-lebanon-amin-al-hafez-dies-at-age-83.md)
 _Context: Amin al-Hafez, Prime Minister_

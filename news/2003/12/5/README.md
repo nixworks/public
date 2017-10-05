@@ -1,7 +1,7 @@
 ## [2003-12-5](/news/2003/12/5/index.md)
 
 ### [Suicide bombers blow up a morning rush-hour commuter train in Russia's Northern Caucasus, on the border with Chechnya; at least 40 people are killed. ](/news/2003/12/5/suicide-bombers-blow-up-a-morning-rush-hour-commuter-train-in-russia-s-northern-caucasus-on-the-border-with-chechnya-at-least-40-people-ar.md)
-_Context: Chechnya, Northern Caucasus, Russia, commuter train, suicide bombing_
+_Context: Chechnya, Northern Caucasus, commuter train, suicide bombing, the Russian Federation_
 
 ### [As part of a spending bill passed by the United States Congress this week, the University of California will have to compete for the management contract of all three of its national laboratories: Lawrence Berkeley, Lawrence Livermore, and Los Alamos. Previously, it was expected that only Los Alamos would be up for bidding. [http:--www.sfgate.com-cgi-bin-article.cgi?file=-chronicle-archive-2003-12-04-MNG0Q3FSQ51.DTL]](/news/2003/12/5/as-part-of-a-spending-bill-passed-by-the-united-states-congress-this-week-the-university-of-california-will-have-to-compete-for-the-managem.md)
 _Context: Lawrence Berkeley, Lawrence Livermore National Laboratory, Los Alamos National Laboratory, United States Congress, University of California_

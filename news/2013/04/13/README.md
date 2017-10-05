@@ -25,10 +25,10 @@ South Korean police on Saturday stopped a planned launch of anti-North Korea lea
 _Context: Iranian Army, nuclear program, rocket_
 
 ### [China and the United States agree to collaborate on resolving cybersecurity issues between the two countries. ](/news/2013/04/13/china-and-the-united-states-agree-to-collaborate-on-resolving-cybersecurity-issues-between-the-two-countries.md)
-_Context: Americans, China, cybersecurity_
+_Context: China, United States, cybersecurity_
 
 ### [Russia bans 18 American diplomats from entering the country, in retaliation for similar restrictions placed on 18 Russian officials by the Magnitsky Act. ](/news/2013/04/13/russia-bans-18-american-diplomats-from-entering-the-country-in-retaliation-for-similar-restrictions-placed-on-18-russian-officials-by-the-m.md)
-_Context: Americans, Magnitsky Act, Russia, diplomat_
+_Context: Magnitsky Act, United States, diplomat, the Russian Federation_
 
 ### [Former Egyptian President Hosni Mubarak's retrial on charges of corruption and conspiracy to kill protesters during the 2011 Egyptian revolution is transferred to another court. ](/news/2013/04/13/former-egyptian-president-hosni-mubarak-s-retrial-on-charges-of-corruption-and-conspiracy-to-kill-protesters-during-the-2011-egyptian-revolu.md)
 _Context: 2011 Egyptian revolution, Egypt, Egyptian President, Hosni Mubarak, conspiracy, corruption, protester_

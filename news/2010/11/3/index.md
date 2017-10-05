@@ -34,7 +34,7 @@ A&#x20;French&#x20;court&#x20;approved&#x20;Wednesday&#x20;the&#x20;transfer&#x2
 A new round of talks is scheduled to attempt to break an impasse in the dispute over the Western Sahara territory, the UN says.
 
 ### [NATO's Secretary General Anders Fogh Rasmussen is to visit Russia to discuss the European missile defence project with President Medvedev. ](/news/2010/11/3/nato-s-secretary-general-anders-fogh-rasmussen-is-to-visit-russia-to-discuss-the-european-missile-defence-project-with-president-medvedev.md)
-_Context: Anders Fogh Rasmussen, NATO, Russia_
+_Context: Anders Fogh Rasmussen, NATO, the Russian Federation_
 
 ### [David Tamihere is granted parole after serving 20 years imprisonment for the 1989 murders of two Swedish backpackers in New Zealand. ](/news/2010/11/3/david-tamihere-is-granted-parole-after-serving-20-years-imprisonment-for-the-1989-murders-of-two-swedish-backpackers-in-new-zealand.md)
 Convicted double murderer David Tamihere has been granted parole after serving nearly 20 years in prison. - New Zealand Herald

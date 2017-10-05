@@ -1,7 +1,7 @@
 ## [2015-07-4](/news/2015/07/4/index.md)
 
 ### [ A rally of war veterans in Kiev calls for Ukraine to abandon the Minsk II ceasefire agreement and to declare war on pro-Russian separatists in the Donbass region. Despite two ceasefire agreements since September, combat operations, including the use of heavy artillery and ballistic missiles, never stopped. ](/news/2015/07/4/a-rally-of-war-veterans-in-kiev-calls-for-ukraine-to-abandon-the-minsk-ii-ceasefire-agreement-and-to-declare-war-on-pro-russian-separatists.md)
-_Context: Kiev, Minsk II, Russia, Ukraine, War in Donbass_
+_Context: Kiev, Minsk II, Ukraine, War in Donbass, the Russian Federation_
 
 ### [ Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-saudi-soldiers-being-killed.md)
 Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had shelled various areas in Saudi Arabia&#39;s Jizan and Najran, killing and wounding several soldiers.
@@ -10,7 +10,7 @@ Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had sh
 _Context: Derna, Second Libyan Civil War_
 
 ### [ A shell kills a woman and her two children as fighting continues on the Sinai Peninsula between the Egyptian Army and Islamic State of Iraq and the Levant militants. ](/news/2015/07/4/a-shell-kills-a-woman-and-her-two-children-as-fighting-continues-on-the-sinai-peninsula-between-the-egyptian-army-and-islamic-state-of-iraq.md)
-_Context: Egyptian Army, Islamic State, Sinai Peninsula, Sinai insurgency_
+_Context: Egyptian Army, ISIL, Sinai Peninsula, Sinai insurgency_
 
 ### [ A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. ](/news/2015/07/4/a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.md)
 _Context: Al Qaida's, Nusra Front, Syrian Civil War_

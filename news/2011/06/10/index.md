@@ -13,7 +13,7 @@ Somali Interior Minister Abdi Shakur Sheikh Hassan is killed in a suicide attack
 _Context: NATO, Tripoli_
 
 ### [The People's Republic of China's only ratings house that grades sovereign entities, the Dagong Global Credit Rating Company, states that the United States is already defaulting on its debt by allowing the U.S. dollar to devalue against other currencies, diminishing the wealth of China as a U.S. creditor. ](/news/2011/06/10/the-people-s-republic-of-china-s-only-ratings-house-that-grades-sovereign-entities-the-dagong-global-credit-rating-company-states-that-the.md)
-_Context:  debt, $, Americans, China, Dagong Global Credit Rating, creditor, defaults_
+_Context:  debt, $, China, Dagong Global Credit Rating, United States, creditor, defaults_
 
 ### [The South Korean Central Bank raises its benchmark interest rate by 25 basis points to 3.25 percent. ](/news/2011/06/10/the-south-korean-central-bank-raises-its-benchmark-interest-rate-by-25-basis-points-to-3-25-percent.md)
 _Context: Bank of Korea, South Korea_
@@ -34,7 +34,7 @@ _Context: Hamas, Iran, Taliban, terrorist_
 China accuses Vietnam of &quot;gravely violating&quot; its sovereignty in an escalating row over disputed waters in the South China Sea.
 
 ### [Yuri Budanov, a Russian colonel convicted of strangling an 18-year-old Chechen girl during the Chechen War, is shot dead in Moscow. ](/news/2011/06/10/yuri-budanov-a-russian-colonel-convicted-of-strangling-an-18-year-old-chechen-girl-during-the-chechen-war-is-shot-dead-in-moscow.md)
-_Context: Chechen, Chechen War, Moscow, Russia, Yuri Budanov_
+_Context: Chechen, Chechen War, Moscow, Yuri Budanov, the Russian Federation_
 
 ### [Hundreds of Mainland Chinese and Taiwanese people are arrested in several countries across Asia during a crackdown on a telephone scam network. ](/news/2011/06/10/hundreds-of-mainland-chinese-and-taiwanese-people-are-arrested-in-several-countries-across-asia-during-a-crackdown-on-a-telephone-scam-netwo.md)
 _Context: Asia, China, Taiwan_

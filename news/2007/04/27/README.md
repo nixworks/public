@@ -1,10 +1,10 @@
 ## [2007-04-27](/news/2007/04/27/index.md)
 
 ### [ A Russian Mi-8 military transport helicopter is shot down during the fighting near Shatoy, Chechnya by Chechen rebels, resulting in the death of at least 20 Russian soldiers. ](/news/2007/04/27/a-russian-mi-8-military-transport-helicopter-is-shot-down-during-the-fighting-near-shatoy-chechnya-by-chechen-rebels-resulting-in-the-dea.md)
-_Context: Chechen War, Chechnya, Mil Mi-8, Russia, Russian security forces, Shatoy, helicopter, the fighting_
+_Context: Chechen War, Chechnya, Mil Mi-8, Russian security forces, Shatoy, helicopter, the Russian Federation, the fighting_
 
 ### [ The U.S. Pentagon says that the CIA has arrested a senior al-Qaeda operative, Abdul Hadi al Iraqi, and transferred him to the Guantanamo Bay detention center. ](/news/2007/04/27/the-u-s-pentagon-says-that-the-cia-has-arrested-a-senior-al-qaeda-operative-abdul-hadi-al-iraqi-and-transferred-him-to-the-guantanamo-ba.md)
-_Context: Abdul Hadi al Iraqi, Americans, CIA, Guantanamo Bay Detention Camp, United States military, al-Qaeda_
+_Context: Abdul Hadi al Iraqi, CIA, Guantanamo Bay Detention Camp, United States, United States military, al-Qaeda_
 
 ### [ Saudi Arabia arrests 172 terrorist suspects in a series of raids after uncovering a plot to carry out suicide air attacks on oil and military installations. $32.4m in cash was also uncovered, as were many weapons. ](/news/2007/04/27/saudi-arabia-arrests-172-terrorist-suspects-in-a-series-of-raids-after-uncovering-a-plot-to-carry-out-suicide-air-attacks-on-oil-and-milita.md)
 _Context: $, Saudi Arabia, suicide bombing, weapon_

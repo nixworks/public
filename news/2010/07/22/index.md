@@ -55,7 +55,7 @@ _Context: Ban Ki-moon, Gaza flotilla raid, Secretary General_
 New US sanctions against N.Korea will violate a UN statement issued after the sinking of a South Korean warship, a spokesman for Pyongyang says.
 
 ### [Belarus and Georgia form political alliance against Russia. ](/news/2010/07/22/belarus-and-georgia-form-political-alliance-against-russia.md)
-_Context: Belarus, Georgian, Russia_
+_Context: Belarus, Georgian, the Russian Federation_
 
 ### [Chad suggests the International Criminal Court is biased against African leaders. ](/news/2010/07/22/chad-suggests-the-international-criminal-court-is-biased-against-african-leaders.md)
 _Context: Chad, International Criminal Court_
@@ -64,7 +64,7 @@ _Context: Chad, International Criminal Court_
 _Context: Fiji, Voreqe Bainimarama_
 
 ### [The United States decides to resume training Indonesian soldiers after 12 years. ](/news/2010/07/22/the-united-states-decides-to-resume-training-indonesian-soldiers-after-12-years.md)
-_Context: Americans, Indonesia_
+_Context: Indonesia, United States_
 
 ### [Israel warns the United Nations that two ships carrying aid to Gaza would not, by "all necessary means", be allowed to reach their destination. ](/news/2010/07/22/israel-warns-the-united-nations-that-two-ships-carrying-aid-to-gaza-would-not-by-all-necessary-means-be-allowed-to-reach-their-destinati.md)
 Israel warned the United Nations on Thursday that two ships preparing to sail from Lebanon to the Gaza Strip to bring aid to the blockaded territory would not be allowed to reach their destination.

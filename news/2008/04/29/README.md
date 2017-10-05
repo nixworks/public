@@ -1,7 +1,7 @@
 ## [2008-04-29](/news/2008/04/29/index.md)
 
 ### [ The S&P-Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-to-february-2008-with-17-of-20.md)
-_Context: Americans, Case-Shiller index, Economy of the United States, S&P, real estate pricing_
+_Context: Case-Shiller index, Economy of the United States, S&P, United States, real estate pricing_
 
 ### [ Grand Theft Auto IV is released worldwide, sparking a windfall of sales. The game would go on to become the fastest selling game in 24 hours by selling 609,000 copies. ](/news/2008/04/29/grand-theft-auto-iv-is-released-worldwide-sparking-a-windfall-of-sales-the-game-would-go-on-to-become-the-fastest-selling-game-in-24-hour.md)
 _Context: Grand Theft Auto IV_
@@ -16,7 +16,7 @@ _Context: Afghanistan, Nangarhar Province_
 _Context: EU, ICTY, Serbia, Stabilisation and Association Agreement, parliamentary election_
 
 ### [ Lithuania blocked the beginning of talks on a strategic deal between the European Union and Russia because of ongoing disputes with Moscow ](/news/2008/04/29/lithuania-blocked-the-beginning-of-talks-on-a-strategic-deal-between-the-european-union-and-russia-because-of-ongoing-disputes-with-moscow.md)
-_Context: EU, Lithuania, Moscow, Russia_
+_Context: EU, Lithuania, Moscow, the Russian Federation_
 
 ## [Previous Day...](/news/2008/04/28/index.md)
 

@@ -34,7 +34,7 @@ _Context: Occupy Wall Street_
 _Context: China, rebellion by villagers in Wukan_
 
 ### [Thousands protest in several Russian cities for a second week, against the results of the parliamentary elections. ](/news/2011/12/18/thousands-protest-in-several-russian-cities-for-a-second-week-against-the-results-of-the-parliamentary-elections.md)
-_Context: Russia, parliamentary elections, protest_
+_Context: parliamentary elections, protest, the Russian Federation_
 
 ### [Vclav Havel, former President of Czechoslovakia and President of the Czech Republic, dies. ](/news/2011/12/18/vaclav-havel-former-president-of-czechoslovakia-and-president-of-the-czech-republic-dies.md)
 Vaclav Havel, who died on December 18 aged 75 , was President of Czechoslovakia and later of the Czech Republic, but enjoyed his finest hour before he attained office when, in December 1989, he led &ldquo;the Velvet Revolution&rdquo; which toppled the communist regime in Czechoslovakia.

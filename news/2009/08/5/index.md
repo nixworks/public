@@ -22,16 +22,16 @@ _Context: Baghdad, Bremer wall, Government of Iraq, Iraq_
 _Context: Khartoum, Nile, Sudan_
 
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: Americans, Bill Clinton, Euna Lee, Laura Ling, North Korea, U.S. President, detained_
+_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, U.S. President, United States, detained_
 
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
 _Context: Madagascar, Marc Ravalomanana_
 
 ### [ A dog featured in an American film called "I Love You, Man", which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads-to.md)
-_Context: Americans, Anwar El Sadat, Egypt, Egyptian President, I Love You, Man, blog_
+_Context: Anwar El Sadat, Egypt, Egyptian President, I Love You, Man, United States, blog_
 
 ### [ Fourteen people are shot at a women's dance class in LA Fitness gymnasium in Collier Township, Pennsylvania, United States. Three women die, as does the gunman. ](/news/2009/08/5/fourteen-people-are-shot-at-a-women-s-dance-class-in-la-fitness-gymnasium-in-collier-township-pennsylvania-united-states-three-women-die.md)
-_Context: Americans, Collier Township, LA Fitness, Pennsylvania, shot_
+_Context: Collier Township, LA Fitness, Pennsylvania, United States, shot_
 
 ### [ Eight people are injured when an Airbus A320 plane catches fire on one of its engines at Paris-Orly Airport. The fire is quickly brought under control. ](/news/2009/08/5/eight-people-are-injured-when-an-airbus-a320-plane-catches-fire-on-one-of-its-engines-at-paris-orly-airport-the-fire-is-quickly-brought-un.md)
 _Context: Airbus A320, Paris-Orly Airport, catches fire_
@@ -52,7 +52,7 @@ _Context: Zambia_
 _Context: Lubna al-Hussein, Sudan, teargas_
 
 ### [ A court in Moscow opens a new trial into the murder of Russian journalist Anna Politkovskaya. ](/news/2009/08/5/a-court-in-moscow-opens-a-new-trial-into-the-murder-of-russian-journalist-anna-politkovskaya.md)
-_Context: Anna Politkovskaya, Moscow, Russia_
+_Context: Anna Politkovskaya, Moscow, the Russian Federation_
 
 ### [ A Chinese teenager sent to an internet addiction rehabilitation camp is allegedly beaten to death by its counsellors. ](/news/2009/08/5/a-chinese-teenager-sent-to-an-internet-addiction-rehabilitation-camp-is-allegedly-beaten-to-death-by-its-counsellors.md)
 _Context: China, internet addiction_

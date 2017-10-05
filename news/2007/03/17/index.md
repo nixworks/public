@@ -19,7 +19,7 @@ _Context: Fatah, Hamas, Palestinian Legislative Council, forming a government_
 _Context: GEO Television, Islamabad, Pakistan, Pervez Musharraf, president_
 
 ### [ At least seven people die in a TU-134 plane crash in Samara in Russia. ](/news/2007/03/17/at-least-seven-people-die-in-a-tu-134-plane-crash-in-samara-in-russia.md)
-_Context: Russia, Samara, TU-134, plane crash_
+_Context: Samara, TU-134, plane crash, the Russian Federation_
 
 ### [ A heavy metal band tours India for the first time. Iron Maiden, at Palace Grounds, Bangalore.](/news/2007/03/17/a-heavy-metal-band-tours-india-for-the-first-time-iron-maiden-at-palace-grounds-bangalore.md)
 ## [Previous Day...](/news/2007/03/16/index.md)

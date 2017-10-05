@@ -12,11 +12,11 @@
 
 ### Related:
 
-1. [Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. ](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.md) _Context: Prime Minister of Portugal_
-2. [Former Prime Minister of Portugal Antonio Guterres is sworn in as the new United Nations Secretary General. ](/news/2016/12/12/former-prime-minister-of-portugal-anta3nio-guterres-is-sworn-in-as-the-new-united-nations-secretary-general.md) _Context: Prime Minister of Portugal_
-3. [The United Nations General Assembly officially appoints former Portuguese Prime Minister Antonio Guterres its next Secretary-General. ](/news/2016/10/13/the-united-nations-general-assembly-officially-appoints-former-portuguese-prime-minister-anta3nio-guterres-its-next-secretary-general.md) _Context: Prime Minister of Portugal_
-4. [Antonio Costa, the leader of the Socialist Party, is named as the Prime Minister of Portugal. ](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.md) _Context: Prime Minister of Portugal_
-5. [Exit polls show Portugal's center-right government, in its first contest since tough austerity measures were launched to combat a debt crisis, is headed for victory, but, could lose its majority in parliament. ](/news/2015/10/4/exit-polls-show-portugalas-center-right-government-in-its-first-contest-since-tough-austerity-measures-were-launched-to-combat-a-debt-cri.md) _Context: Portuguese legislative election, 2015_
+1. [Former Prime Minister of Portugal Pedro Passos Coelho steps down as the leader of the opposition Social Democratic Party in local elections. ](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.md) _Context: Pedro Passos Coelho, Prime Minister of Portugal_
+2. [Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. ](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.md) _Context: Prime Minister of Portugal_
+3. [Former Prime Minister of Portugal Antonio Guterres is sworn in as the new United Nations Secretary General. ](/news/2016/12/12/former-prime-minister-of-portugal-anta3nio-guterres-is-sworn-in-as-the-new-united-nations-secretary-general.md) _Context: Prime Minister of Portugal_
+4. [The United Nations General Assembly officially appoints former Portuguese Prime Minister Antonio Guterres its next Secretary-General. ](/news/2016/10/13/the-united-nations-general-assembly-officially-appoints-former-portuguese-prime-minister-anta3nio-guterres-its-next-secretary-general.md) _Context: Prime Minister of Portugal_
+5. [Antonio Costa, the leader of the Socialist Party, is named as the Prime Minister of Portugal. ](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.md) _Context: Prime Minister of Portugal_
 
 ### Changes:
 

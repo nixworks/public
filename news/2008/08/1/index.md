@@ -1,10 +1,10 @@
 ## [2008-08-1](/news/2008/08/1/index.md)
 
 ### [ The International Atomic Energy Agency unanimously approves a safeguards agreement with India, a precondition of the nuclear deal with the United States. ](/news/2008/08/1/the-international-atomic-energy-agency-unanimously-approves-a-safeguards-agreement-with-india-a-precondition-of-the-nuclear-deal-with-the.md)
-_Context: Americans, IAEA, India_
+_Context: IAEA, India, United States_
 
 ### [ Unemployment in the United States rises to 5.7 per cent, its highest rate in more than four years. ](/news/2008/08/1/unemployment-in-the-united-states-rises-to-5-7-per-cent-its-highest-rate-in-more-than-four-years.md)
-_Context: Americans, unemployment_
+_Context: United States, unemployment_
 
 ### [ Vietnam's capital Hanoi absorbs the neighboring province of H Ty, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-tay-tripling-its-area-and-doubling-its-population.md)
 _Context: H Ty, Hanoi, Vietnam, province_
@@ -28,7 +28,7 @@ _Context: Anatolia, Konya Province, Turkey_
 _Context: Colombo, South Asian Association for Regional Cooperation, Sri Lanka, terrorism_
 
 ### [ A total solar eclipse is visible from northern Canada (Nunavut), Greenland, central Russia, eastern Kazakhstan, western Mongolia and China. ](/news/2008/08/1/a-total-solar-eclipse-is-visible-from-northern-canada-nunavut-greenland-central-russia-eastern-kazakhstan-western-mongolia-and-china.md)
-_Context: Canada, China, Greenland, Kazakhstan, Mongolia, Nunavut, Russia, total solar eclipse_
+_Context: Canada, China, Greenland, Kazakhstan, Mongolia, Nunavut, the Russian Federation, total solar eclipse_
 
 ## [Previous Day...](/news/2008/07/31/index.md)
 

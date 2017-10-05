@@ -22,7 +22,7 @@ _Context: China, People's Bank of China, reserve requirements_
 _Context: Kim Jong-il, Kim Jong-un, Korean People's Army, Media of North Korea, North Korea, Supreme Commander_
 
 ### [Tens of thousands of people protest across Russia against parliamentary elections that they allege were rigged in favour of the ruling United Russia party. ](/news/2011/12/24/tens-of-thousands-of-people-protest-across-russia-against-parliamentary-elections-that-they-allege-were-rigged-in-favour-of-the-ruling-unite.md)
-_Context: Russia, United Russia, parliamentary elections, protest_
+_Context: United Russia, parliamentary elections, protest, the Russian Federation_
 
 ### [Cuba announces that it will release 2,900 prisoners &ndash; including some political prisoners &ndash; in the next few days. ](/news/2011/12/24/cuba-announces-that-it-will-release-2-900-prisoners-ndash-including-some-political-prisoners-ndash-in-the-next-few-days.md)
 Cuban President Raul Castro says 2,900 prisoners, including some convicted of political crimes, will be freed in the next few days as a goodwill gesture.

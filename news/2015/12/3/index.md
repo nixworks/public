@@ -4,7 +4,7 @@
 David Cameron says Britain&#039;s air war will require &quot;patience and persistence&quot;, as RAF planes bomb an Islamic State oilfield.
 
 ### [Russian president Vladimir Putin addresses the shootdown of one of their jets in Syria by the Turkish Air Force. He goes on to say that "if anyone thinks Russia's reaction will be limited to trade sanctions, they are deeply mistaken". ](/news/2015/12/3/russian-president-vladimir-putin-addresses-the-shootdown-of-one-of-their-jets-in-syria-by-the-turkish-air-force-he-goes-on-to-say-that-if.md)
-_Context: 2015 downing, Russia, Syria, Turkish Air Force, Vladimir Putin_
+_Context: 2015 downing, Syria, Turkish Air Force, Vladimir Putin, the Russian Federation_
 
 ### [Following the Obama Administration's pledge of additional Special Operations troops to Iraq, several members of Iraq's ruling alliance state that only the Iraqi Parliament can authorize the action, and political associates of Iraqi Prime Minister Haider al-Abadi report such a troop expansion would be unacceptable. Several members of Iraqi militias have also decried a deployment of more U.S. troops. During the pull out from Iraq, president Obama promised there would be no more "boots on the ground" in Iraq again. ](/news/2015/12/3/following-the-obama-administration-s-pledge-of-additional-special-operations-troops-to-iraq-several-members-of-iraqas-ruling-alliance-sta.md)
 _Context: American-led intervention in Iraq, Haider al-Abadi, Iraq, Iraqi Civil War (2014-present), Iraqi Parliament, Iraqi militias, Obama Administration, Prime Minister_

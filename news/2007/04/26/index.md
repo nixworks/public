@@ -1,7 +1,7 @@
 ## [2007-04-26](/news/2007/04/26/index.md)
 
 ### [ A man is killed and about 40 people are hurt during a night of unrest in Tallinn, Estonia. Demonstrators protesting against the removal of the Bronze Soldier statue clash with the police. Russia's authorities threaten to break off diplomatic relations with their Baltic neighbour. ](/news/2007/04/26/a-man-is-killed-and-about-40-people-are-hurt-during-a-night-of-unrest-in-tallinn-estonia-demonstrators-protesting-against-the-removal-of.md)
-_Context: Baltics, Bronze Soldier, Estonia, Russia, Tallinn_
+_Context: Baltics, Bronze Soldier, Estonia, Tallinn, the Russian Federation_
 
 ### [ At least 22 people, mostly insurgents, die and dozens more are wounded in several hours of heavy clashes which rage in the Somali capital Mogadishu. ](/news/2007/04/26/at-least-22-people-mostly-insurgents-die-and-dozens-more-are-wounded-in-several-hours-of-heavy-clashes-which-rage-in-the-somali-capital-m.md)
 _Context: Mogadishu, Somalian, heavy clashes_
@@ -25,7 +25,7 @@ _Context: George W. Bush, Senator, U.S. President, War in Iraq, veto_
 _Context: 2008, 2008 presidential debate, Democratic, South Carolina Democratic Party, South Carolina State University, candidates_
 
 ### [ A former commander of a United States military detention center in Iraq is detained and under investigation for "aiding the enemy". ](/news/2007/04/26/a-former-commander-of-a-united-states-military-detention-center-in-iraq-is-detained-and-under-investigation-for-aiding-the-enemy.md)
-_Context: Americans, Iraq_
+_Context: Iraq, United States_
 
 ### [ The Sultan of Terengganu, Sultan Mizan Zainal Abidin, is formally installed as the 13th Yang di-Pertuan Agong of Malaysia. ](/news/2007/04/26/the-sultan-of-terengganu-sultan-mizan-zainal-abidin-is-formally-installed-as-the-13th-yang-di-pertuan-agong-of-malaysia.md)
 _Context: Malaysia, Sultan Mizan Zainal Abidin, Sultan of Terengganu, monarch_

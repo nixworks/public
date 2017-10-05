@@ -31,7 +31,7 @@ _Context: Los Zetas Cartel, Mexican police_
 _Context: Belgrade, Serbia, Serbian Progressive Party, Tomislav Nikolic_
 
 ### [Pro and anti-government rallies against corruption take place in Moscow, Russia. ](/news/2011/04/16/pro-and-anti-government-rallies-against-corruption-take-place-in-moscow-russia.md)
-_Context: Moscow, Russia_
+_Context: Moscow, the Russian Federation_
 
 ### [Cuban President Raul Castro proposes term limits for public office. ](/news/2011/04/16/cuban-president-raaol-castro-proposes-term-limits-for-public-office.md)
 _Context: Cuba, President, Raul Castro_

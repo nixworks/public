@@ -40,7 +40,7 @@ Japanese police say 15,000 people may have died in one prefecture alone, as effo
 _Context: 2011 Pointe-Noire Trans Air Congo An-12 crash, Pointe Noire, Republic of Congo, cargo plane_
 
 ### [Russian President Dmitry Medvedev criticises Vladimir Putin's stance on United Nations Security Council Resolution 1973 concerning the situation in Libya as "unacceptable". Putin had said the resolution resembled a "medieval call for crusades". ](/news/2011/03/21/russian-president-dmitry-medvedev-criticises-vladimir-putin-s-stance-on-united-nations-security-council-resolution-1973-concerning-the-situa.md)
-_Context: Dmitry Medvedev, Libya, Russia, UN Security Council Resolution 1973, Vladimir Putin_
+_Context: Dmitry Medvedev, Libya, UN Security Council Resolution 1973, Vladimir Putin, the Russian Federation_
 
 ### [The United States and Chile sign a nuclear accord. ](/news/2011/03/21/the-united-states-and-chile-sign-a-nuclear-accord.md)
 The United States signs a nuclear accord with Chile, despite growing misgivings in the country about the safety of nuclear power.
@@ -61,7 +61,7 @@ The government should be found in contempt of Parliament, a committee of MPs dec
 Guatemalan President Alvaro Colom and his wife Sandra Torres file for divorce so she can stand for election to succeed him, officials say.
 
 ### [Surgeons at the Brigham and Women's Hospital in Boston, Massachusetts, perform the first full face transplant in the United States. ](/news/2011/03/21/surgeons-at-the-brigham-and-women-s-hospital-in-boston-massachusetts-perform-the-first-full-face-transplant-in-the-united-states.md)
-_Context: Americans, Boston, Brigham and Women's Hospital, Surgeon, face transplant_
+_Context: Boston, Brigham and Women's Hospital, Surgeon, United States, face transplant_
 
 ## [Previous Day...](/news/2011/03/20/index.md)
 

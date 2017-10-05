@@ -25,7 +25,7 @@ _Context: San Diego, Southern California, earthquake, magnitude_
 _Context: 16th Summit of the Non-Aligned Movement, Iran, Non-aligned Movement, Tehran_
 
 ### [Two Pussy Riot members, alleged to be the two participants in the band's Cathedral protest on February 21 who remain unarrested, "leave" Russia. ](/news/2012/08/26/two-pussy-riot-members-alleged-to-be-the-two-participants-in-the-band-s-cathedral-protest-on-february-21-who-remain-unarrested-leave-rus.md)
-_Context: Cathedral protest, Pussy Riot, Russia_
+_Context: Cathedral protest, Pussy Riot, the Russian Federation_
 
 ### [The president of Libya's newly elected legislative congress, Mohamed Yousef el-Magariaf, calls the prime minister to an emergency meeting, after Saturday's bulldozing of the Sidi el-Sha'ab mausoleum in Tripoli by unnamed organized assailants. ](/news/2012/08/26/the-president-of-libya-s-newly-elected-legislative-congress-mohamed-yousef-el-magariaf-calls-the-prime-minister-to-an-emergency-meeting-a.md)
 _Context: Libya, Libyan Parliament, Libyan Prime Minister, Mohamed Yousef el-Magariaf, Sidi el-Sha'ab mausoleum, Tripoli_

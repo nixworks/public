@@ -31,7 +31,7 @@ NEW YORK, Dec. 2, 2015 /PRNewswire-USNewswire/ --&amp;#160;Not all air pollution
 _Context: Japanese government, Okinawa, Takeshi Onaga, U.S. military air base, US Marine Corps air base_
 
 ### [Thai Prime Minister Prayuth Chan-ocha orders officials to improve aviation safety standards after the U.S. Federal Aviation Administration (FAA) downgraded Thailand's safety ratings. The lower rating is for failure to tackle commercial aviation standards shortcomings found in an audit this year. The European Aviation Safety Agency is due to announce the results of its own audit later in December. ](/news/2015/12/2/thai-prime-minister-prayuth-chan-ocha-orders-officials-to-improve-aviation-safety-standards-after-the-u-s-federal-aviation-administration.md)
-_Context: Americans, European Aviation Safety Agency, Federal Aviation Administration, Prayuth Chan-ocha, Prime Minister, Thailand, aviation safety_
+_Context: European Aviation Safety Agency, Federal Aviation Administration, Prayuth Chan-ocha, Prime Minister, Thailand, United States, aviation safety_
 
 ### [NATO Secretary General Jens Stoltenberg announces the invitation sent to Montenegro to join the military alliance, 16 years after the country, as part of the Federal Republic of Yugoslavia, was bombed by the alliance in the Kosovo War. Montenegro's accession would result in "retaliatory actions", according to a spokesman for Russian President Vladimir Putin. ](/news/2015/12/2/nato-secretary-general-jens-stoltenberg-announces-the-invitation-sent-to-montenegro-to-join-the-military-alliance-16-years-after-the-countr.md)
 Nato invites Montenegro to join the alliance, in its first expansion for six years - prompting Russia to warn that it will retaliate.

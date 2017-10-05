@@ -19,10 +19,10 @@ Taiwan’s last two African allies have no plans to switch allegiances and break
 The German government voted Wednesday to scrap a &quot;lese majeste&quot; law that Turkish President Recep Tayyip Erdogan had sought to employ against a popular German television satirist.
 
 ### [The Russian Duma backs a law decriminalizing a first instance of domestic violence that does "not seriously injure" the person, making it an administrative offense. The bill also includes violence against children. ](/news/2017/01/25/the-russian-duma-backs-a-law-decriminalizing-a-first-instance-of-domestic-violence-that-does-not-seriously-injure-the-person-making-it-an.md)
-_Context: Duma, Russia, domestic violence_
+_Context: Duma, domestic violence, the Russian Federation_
 
 ### [Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-newly-reinstated-m.md)
-_Context: Americans, Belgium, Lilianne Ploumen, Mexico City policy, Netherlands, Women's rights_
+_Context: Belgium, Lilianne Ploumen, Mexico City policy, Netherlands, United States, Women's rights_
 
 ### [The Vatican City State announces that Pope Francis will name a Pontifical Delegate to head the Sovereign Military Order of Malta after Prince and Grand Master Matthew Festing's unexpected forced resignation in a spat over condoms. ](/news/2017/01/25/the-vatican-city-state-announces-that-pope-francis-will-name-a-pontifical-delegate-to-head-the-sovereign-military-order-of-malta-after-princ.md)
 Pope Francis will name his own man to run the Knights of Malta temporarily after the head of the ancient chivalric and charity institution resigned in the climax of a bitter dispute over sovereignty with the Vatican.

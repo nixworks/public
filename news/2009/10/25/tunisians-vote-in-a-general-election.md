@@ -20,5 +20,5 @@ Incumbent Ben Ali, who has been in power for 22 years, likely to win fifth term.
 
 ### Changes:
 
-1. [ Uruguayans vote in a general election. ](/news/2009/10/25/uruguayans-vote-in-a-general-election.md) _2017-10-03 03:29:06 (First version)_
+1. [ Uruguayans vote in a general election. ](/news/2009/10/25/uruguayans-vote-in-a-general-election.md) _2017-10-04 03:31:05 (First version)_
 1. [ Tunisians vote in a general election. ](/news/2009/10/25/tunisians-vote-in-a-general-election.md) _(Current version)_

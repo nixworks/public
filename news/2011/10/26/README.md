@@ -10,13 +10,13 @@ _Context: Afghanistan, Parwan_
 _Context: Bollywood, Diwali, Hindu, India, Ra.One_
 
 ### [A coroner finds that the death of British soul singer Amy Winehouse in July was caused by alcohol poisoning. ](/news/2011/10/26/a-coroner-finds-that-the-death-of-british-soul-singer-amy-winehouse-in-july-was-caused-by-alcohol-poisoning.md)
-_Context: Amy Winehouse, British people, alcohol poisoning, coronial, soul music_
+_Context: Amy Winehouse, British, alcohol poisoning, coronial, soul music_
 
 ### [The composite-bodied Boeing 787 Dreamliner makes its first commercial flight with All Nippon Airways, flying between Tokyo and Hong Kong. ](/news/2011/10/26/the-composite-bodied-boeing-787-dreamliner-makes-its-first-commercial-flight-with-all-nippon-airways-flying-between-tokyo-and-hong-kong.md)
 _Context: All Nippon Airways, Boeing 787 Dreamliner, Hong Kong, Tokyo, composite_
 
 ### [Tsuyoshi Kikukawa resigns as the President and Chairman of Olympus Corporation, as financial and law enforcement bodies in Japan, the United States and the United Kingdom investigate the optical equipment company's acquisitions in recent years. ](/news/2011/10/26/tsuyoshi-kikukawa-resigns-as-the-president-and-chairman-of-olympus-corporation-as-financial-and-law-enforcement-bodies-in-japan-the-united.md)
-_Context: Americans, Japan, Olympus Corp, Tsuyoshi Kikukawa, United Kingdom_
+_Context: Japan, Olympus Corp, Tsuyoshi Kikukawa, United Kingdom, United States_
 
 ### [Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. ](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.md)
 _Context: Cancun, Hurricane Rina, Mexico_

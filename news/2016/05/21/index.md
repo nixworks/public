@@ -34,7 +34,7 @@ Venezuela is holding the biggest military exercise in its history this weekend, 
 Violent protests have broken out in Chile as President Michelle Bachelet presents a state-of-the-nation report to Congress.
 
 ### [Lake Mead in Mohave County, Arizona, the largest reservoir in the United States, drops to its lowest level in history, declining to its lowest level since it was filled in the 1930s. The reservoir serves water to the states of Arizona, Nevada and California. ](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.md)
-_Context: Americans, Arizona, California, Lake Mead, Mohave County, Arizona, Nevada, reservoir_
+_Context: Arizona, California, Lake Mead, Mohave County, Arizona, Nevada, United States, reservoir_
 
 ## [Previous Day...](/news/2016/05/20/index.md)
 

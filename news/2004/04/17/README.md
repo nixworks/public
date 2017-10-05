@@ -10,7 +10,7 @@ _Context: Myanmar, National League for Democracy, Rangoon_
 _Context: Abdel Aziz al-Rantissi, Hamas, Israel_
 
 ### [ Socialist Party leader Jos Luis Rodrguez Zapatero is sworn in as Spain's prime minister. ](/news/2004/04/17/socialist-party-leader-jose-luis-rodriguez-zapatero-is-sworn-in-as-spain-s-prime-minister.md)
-_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Socialist Workers' Party_
+_Context: Jos Luis Rodrguez Zapatero, Socialist Workers' Party, Spanish Prime Minister_
 
 ### [ 15th Annual Thunder Over Louisville is held in Louisville, Kentucky.](/news/2004/04/17/15th-annual-thunder-over-louisville-is-held-in-louisville-kentucky.md)
 _Context: Louisville, Kentucky, Thunder Over Louisville_

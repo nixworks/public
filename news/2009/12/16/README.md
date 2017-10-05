@@ -13,7 +13,7 @@ A Papuan separatist leader shot dead by Indonesian police was behind a string of
 A young Italian man was overpowered by police guards as he attempted to enter Silvio Berlusconi&#039;s hospital room in the second security scare in a matter of days.
 
 ### [ Roy E. Disney, head of Disney Animation and responsible for guiding the studio through a golden age of animation, dies in a California hospital in the United States. ](/news/2009/12/16/roy-e-disney-head-of-disney-animation-and-responsible-for-guiding-the-studio-through-a-golden-age-of-animation-dies-in-a-california-hosp.md)
-_Context: Americans, California, Disney Animation, Roy E. Disney_
+_Context: California, Disney Animation, Roy E. Disney, United States_
 
 ### [ Malawi recognizes the independence of Kosovo ](/news/2009/12/16/malawi-recognizes-the-independence-of-kosovo.md)
 _Context: Kosovo, Kosovo, Malawi_

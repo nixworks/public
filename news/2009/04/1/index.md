@@ -1,10 +1,10 @@
 ## [2009-04-1](/news/2009/04/1/index.md)
 
 ### [ The 72-year-old American soap opera "Guiding Light" will broadcast its final episode on September 18. ](/news/2009/04/1/the-72-year-old-american-soap-opera-guiding-light-will-broadcast-its-final-episode-on-september-18.md)
-_Context: Americans, Guiding Light, broadcaster, soap opera_
+_Context: Guiding Light, United States, broadcaster, soap opera_
 
 ### [ The United States and Russia begin Strategic Arms Limitation Talks. ](/news/2009/04/1/the-united-states-and-russia-begin-strategic-arms-limitation-talks.md)
-_Context: Americans, Russia, Strategic Arms Limitation Talks_
+_Context: Strategic Arms Limitation Talks, United States, the Russian Federation_
 
 ### [ Local government in England undergoes structural changes. ](/news/2009/04/1/local-government-in-england-undergoes-structural-changes.md)
 _Context: England, local government, structural changes_
@@ -37,7 +37,7 @@ Researchers mapping the sea floor off Victoria have uncovered the rusting wreck 
 _Context: Riksdag, Swedish, decides, same-sex marriage_
 
 ### [ A bomb damages a statue of Vladimir Lenin near Finlyandsky Rail Terminal in Saint Petersburg, Russia. ](/news/2009/04/1/a-bomb-damages-a-statue-of-vladimir-lenin-near-finlyandsky-rail-terminal-in-saint-petersburg-russia.md)
-_Context: Finlyandsky Rail Terminal, Lenin, Russia, Saint Petersburg, bomb, statue_
+_Context: Finlyandsky Rail Terminal, Lenin, Saint Petersburg, bomb, statue, the Russian Federation_
 
 ## [Previous Day...](/news/2009/03/31/index.md)
 

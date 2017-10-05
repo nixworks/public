@@ -19,7 +19,7 @@ Afghan President Hamid Karzai will give private security firms operating in the 
 German singer Nadja Benaissa admits at her trial to having unprotected sex with several men without warning them she was HIV-positive.
 
 ### [U.S. actor Michael Douglas begins chemotherapy after doctors discover a tumor in his throat. ](/news/2010/08/16/u-s-actor-michael-douglas-begins-chemotherapy-after-doctors-discover-a-tumor-in-his-throat.md)
-_Context: Americans, Michael Douglas, chemotherapy, tumor_
+_Context: Michael Douglas, United States, chemotherapy, tumor_
 
 ### [Politicians and intellectuals including Etienne Balibar, Noam Chomsky, Daniel Cohn-Bendit and Eva Joly appeal to Nicolas Sarkozy that France repay EUR17 billion it took from Haiti in 1825 after the Haitian Revolution (1791-1804); they say the money is "morally, economically, and legally unassailable" in the aftermath of the January 2010 earthquake. ](/news/2010/08/16/politicians-and-intellectuals-including-atienne-balibar-noam-chomsky-daniel-cohn-bendit-and-eva-joly-appeal-to-nicolas-sarkozy-that-franc.md)
 A group of intellectuals and politicians calls on France to repay 17bn euros (£14bn) &quot;extorted&quot; from Haiti in the 19th Century.
@@ -31,7 +31,7 @@ Passenger dies of heart attack and 114 others are injured in crash.
 As officials struggle with immediate response to the disaster, concerns are growing about the toll on the overall economy, food supply and stability.
 
 ### [Russia is battered by a severe storm following its recent heatwave, its hottest summer in recorded history. ](/news/2010/08/16/russia-is-battered-by-a-severe-storm-following-its-recent-heatwave-its-hottest-summer-in-recorded-history.md)
-_Context: Russia, its recent heatwave_
+_Context: its recent heatwave, the Russian Federation_
 
 ### [An explosion at a maternity hospital in Romania's capital Bucharest, kills at least 4 babies, while 2 pregnant women and 8 newborn infants sustain burns and other injuries in serious condition. ](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania-s-capital-bucharest-kills-at-least-4-babies-while-2-pregnant-women-and-8-newborn-infants-s.md)
 _Context: An explosion, Bucharest, Romania_

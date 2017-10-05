@@ -49,7 +49,7 @@ _Context: 2011 Puyehue-Cordon Caulle eruption, Australian, Chile, Darwin_
 _Context: Chuncheon, Seoul, South Korea, Suwon, heat wave_
 
 ### [A RusAir Tupolev Tu-134 passenger jet crashes near Petrozavodsk Airport in Russia's Karelia region with 45 people dead. ](/news/2011/06/20/a-rusair-tupolev-tu-134-passenger-jet-crashes-near-petrozavodsk-airport-in-russia-s-karelia-region-with-45-people-dead.md)
-_Context: Karelia, Petrozavodsk Airport, RusAir, Russia, Tupolev Tu-134, crashes near_
+_Context: Karelia, Petrozavodsk Airport, RusAir, Tupolev Tu-134, crashes near, the Russian Federation_
 
 ### [Hurricane Beatriz becomes the second hurricane of the 2011 Pacific hurricane season. ](/news/2011/06/20/hurricane-beatriz-becomes-the-second-hurricane-of-the-2011-pacific-hurricane-season.md)
 _Context: Hurricane Beatriz, Hurricane Jova_

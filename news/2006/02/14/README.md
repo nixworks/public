@@ -16,7 +16,7 @@ _Context: Anglo Leasing affair, George Saitoti, Kenya, Moody Awori, Mwai Kibaki,
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Former Iraqi president Saddam Hussein tells the court during the latest session of his trial that he and his seven co-accused are on hunger strike to protest at their treatment. ](/news/2006/02/14/former-iraqi-president-saddam-hussein-tells-the-court-during-the-latest-session-of-his-trial-that-he-and-his-seven-co-accused-are-on-hunger.md)
-_Context: President, Saddam Hussein, hunger strike_
+_Context: President of Iraq, Saddam Hussein, hunger strike_
 
 ### [ A top Iranian official confirms that Iran has resumed small-scale enrichment of uranium at one of its main nuclear facilities last week. ](/news/2006/02/14/a-top-iranian-official-confirms-that-iran-has-resumed-small-scale-enrichment-of-uranium-at-one-of-its-main-nuclear-facilities-last-week.md)
 Iran confirmed on Tuesday it had resumed small-scale enrichment of uranium last week at one of its main nuclear facilities, said a top Iranian official.

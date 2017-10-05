@@ -52,7 +52,7 @@ A federal appeals court ruled on Friday that genes can be patented, overturning 
 _Context:  debt, United States House of Representatives, United States Senate_
 
 ### [The Prime Minister of Spain Jose Luis Rodriguez Zapatero calls an early election for November 20 rather than 2012. ](/news/2011/07/29/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-calls-an-early-election-for-november-20-rather-than-2012.md)
-_Context: Jose Luis Rodriguez Zapatero, Prime Minister_
+_Context: Jose Luis Rodriguez Zapatero, Spanish Prime Minister_
 
 ## [Previous Day...](/news/2011/07/28/index.md)
 

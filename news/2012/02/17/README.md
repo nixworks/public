@@ -4,7 +4,7 @@
 _Context: 2011-2012 Syrian uprising, Homs_
 
 ### [Insurgency in the North Caucasus: Dozens are killed and wounded as fighting intensifies between the Russian forces and the local Muslim insurgents in Chechnya and Dagestan. ](/news/2012/02/17/insurgency-in-the-north-caucasus-dozens-are-killed-and-wounded-as-fighting-intensifies-between-the-russian-forces-and-the-local-muslim-insu.md)
-_Context: Chechnya, Dagestan, Insurgency in the North Caucasus, Russia, fighting intensifies_
+_Context: Chechnya, Dagestan, Insurgency in the North Caucasus, fighting intensifies, the Russian Federation_
 
 ### [Thai police search for two more suspects in an attempted terror attack on Israeli diplomats widely blamed on Iran. ](/news/2012/02/17/thai-police-search-for-two-more-suspects-in-an-attempted-terror-attack-on-israeli-diplomats-widely-blamed-on-iran.md)
 _Context: Iran, Israel, Thai police officers_

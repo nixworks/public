@@ -22,7 +22,7 @@ _Context: federal state, no sitting national Legislature_
 _Context: Assembly election, Democratic Unionist Party, Government of Northern Ireland, Northern Ireland, Sinn Fein, direct rule, powersharing_
 
 ### [ Cuba-United States relations: The United States Coast Guard stages an exercise in Florida in preparation for a possible mass exodus from Cuba in the event of the death of Cuban leader Fidel Castro. During the drill 40 Cuban exiles reach the United States. ](/news/2007/03/9/cuba-united-states-relations-the-united-states-coast-guard-stages-an-exercise-in-florida-in-preparation-for-a-possible-mass-exodus-from-cu.md)
-_Context: Americans, Cuba, Cuba-United States relations, Cuban exile, Fidel Castro, Florida, President, United States Coast Guard, mass exodus_
+_Context: Cuba, Cuba-United States relations, Cuban exile, Fidel Castro, Florida, President, United States, United States Coast Guard, mass exodus_
 
 ### [ Kelvin Thomson, the Shadow Attorney-General, in Australia resigns after it is discovered that he provided a reference to fugitive accused drug trafficker Tony Mokbel when Mokbel applied for a liquor licence in 2000. ](/news/2007/03/9/kelvin-thomson-the-shadow-attorney-general-in-australia-resigns-after-it-is-discovered-that-he-provided-a-reference-to-fugitive-accused-d.md)
 _Context: Australia, Kelvin Thomson, Tony Mokbel, attorney general_

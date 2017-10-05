@@ -10,7 +10,7 @@ _Context: Dakahlia, Egypt, Mansoura_
 _Context: Inter-Services Intelligence, Pakistan, Sukkur_
 
 ### [Wells Fargo of the United States becomes the world's largest bank by market capitalisation, replacing the Industrial and Commercial Bank of China amid an economic slowdown in China. ](/news/2013/07/24/wells-fargo-of-the-united-states-becomes-the-world-s-largest-bank-by-market-capitalisation-replacing-the-industrial-and-commercial-bank-of.md)
-_Context: Americans, China, Industrial and Commercial Bank of China, Wells Fargo, market capitalisation_
+_Context: China, Industrial and Commercial Bank of China, United States, Wells Fargo, market capitalisation_
 
 ### [An Australia-bound boat carrying Iranian asylum seekers sinks off the coast of Indonesia, leaving at least three people dead, 157 rescued and an uncertain number missing. ](/news/2013/07/24/an-australia-bound-boat-carrying-iranian-asylum-seekers-sinks-off-the-coast-of-indonesia-leaving-at-least-three-people-dead-157-rescued-an.md)
 At least four people are dead after a boat carrying Australia-bound asylum-seekers sank, amid ongoing debate over the new policy.
@@ -25,7 +25,7 @@ Shrien Dewani&#039;s suicide risk is not immediate and he is well enough to be s
 _Context: Abidjan, Ivory Coast, prison riot_
 
 ### [Despite earlier reports to the contrary, fugitive NSA whistleblower Edward Snowden remains stranded at Sheremetyevo International Airport in Moscow, Russia. ](/news/2013/07/24/despite-earlier-reports-to-the-contrary-fugitive-nsa-whistleblower-edward-snowden-remains-stranded-at-sheremetyevo-international-airport-in.md)
-_Context: Edward Snowden, Moscow, NSA, Russia, Sheremetyevo International Airport_
+_Context: Edward Snowden, Moscow, NSA, Sheremetyevo International Airport, the Russian Federation_
 
 ### [Scientists warn that a massive release of methane resulting from Arctic sea ice decline could cause significant global disruption, potentially costing the world economy an extra US$ 60 trillion to $400 trillion from the effects of global warming and climate change. The full impact of climate change in the Arctic, including, for example, ocean acidification, and altered ocean and atmospheric circulation, will be much greater.](/news/2013/07/24/scientists-warn-that-a-massive-release-of-methane-resulting-from-arctic-sea-ice-decline-could-cause-significant-global-disruption-potential.md)
 The sudden release from the melting Arctic of vast quantities of methane – a greenhouse gas at least 20 times more potent than carbon dioxide –is an “economic time-bomb” that could explode at a cost of $60 trillion (£40tr) to the global economy, a study has concluded.

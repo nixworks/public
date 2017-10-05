@@ -7,7 +7,7 @@ At least one person has been killed and more than 40 have been left wounded afte
 _Context: Del Monte Foods, Kohlberg Kravis Roberts, leveraged buyout_
 
 ### [Seven are killed and three injured in the rough landing of a Mi-8 helicopter in the Omsk region of Siberia, Russia. ](/news/2010/11/25/seven-are-killed-and-three-injured-in-the-rough-landing-of-a-mi-8-helicopter-in-the-omsk-region-of-siberia-russia.md)
-_Context: Mil Mi-8, Omsk, Russia, Siberia_
+_Context: Mil Mi-8, Omsk, Siberia, the Russian Federation_
 
 ### [North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/north-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md)
 _Context: North Korea, South Korea_

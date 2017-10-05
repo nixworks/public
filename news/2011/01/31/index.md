@@ -34,7 +34,7 @@ _Context: Japanese government, Kyushu, Shinmoedake, volcano_
 _Context: Anna Bligh, Australia, Cyclone Yasi, Premier, Queensland_
 
 ### [The European Union and United States impose new sanctions against Belarus President Alexander Lukashenko and close associates. ](/news/2011/01/31/the-european-union-and-united-states-impose-new-sanctions-against-belarus-president-alexander-lukashenko-and-close-associates.md)
-_Context: Alexander Lukashenko, Americans, Belarus, EU_
+_Context: Alexander Lukashenko, Belarus, EU, United States_
 
 ### [Oman says it has uncovered a spy network from the United Arab Emirates operating in the country. ](/news/2011/01/31/oman-says-it-has-uncovered-a-spy-network-from-the-united-arab-emirates-operating-in-the-country.md)
 Oman says it has uncovered a UAE spy network in the Gulf Arab state that targeted its government and military.
@@ -64,7 +64,7 @@ A new parliament opens in Burma for the first time in 22 years following electio
 Niger&amp;&#x23;039&#x3B;s&#x20;junta&#x20;leader&#x20;Salou&#x20;Djibo&#x20;called&#x20;on&#x20;voters&#x20;to&#x20;turn&#x20;out&#x20;massively&#x20;on&#x20;Monday&#x20;to&#x20;elect&#x20;a&#x20;new,&#x20;civilian&#x20;president&#x20;and&#x20;put&#x20;an&#x20;end&#x20;to&#x20;military&#x20;rule.&#...
 
 ### [The United States Secretary of State Hillary Clinton convenes a mass meeting of United States ambassadors from around the world. ](/news/2011/01/31/the-united-states-secretary-of-state-hillary-clinton-convenes-a-mass-meeting-of-united-states-ambassadors-from-around-the-world.md)
-_Context: Americans, Hillary Clinton, Secretary of State, ambassadors_
+_Context: Hillary Clinton, Secretary of State, United States, ambassadors_
 
 ### [The 40th Canadian Parliament returns to session amid speculation of an impending election after an extended "holiday break". ](/news/2011/01/31/the-40th-canadian-parliament-returns-to-session-amid-speculation-of-an-impending-election-after-an-extended-holiday-break.md)
 _Context: 40th Canadian Parliament, election_

@@ -13,11 +13,11 @@ The deaths occurred during an American attack on a Shiite area on the outskirts 
 
 ### Related:
 
-1. [ Shiite cleric Muqtada al-Sadr claims that he is developing a new force to fight United States forces in Iraq. ](/news/2008/06/15/shiite-cleric-muqtada-al-sadr-claims-that-he-is-developing-a-new-force-to-fight-united-states-forces-in-iraq.md) _Context: Americans, Shiite_
-2. [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md) _Context: Americans, Shiite_
-3. [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md) _Context: Americans, Shiite_
-4. [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md) _Context: Americans, Shiite_
-5. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious sonic attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: Americans_
+1. [ Shiite cleric Muqtada al-Sadr claims that he is developing a new force to fight United States forces in Iraq. ](/news/2008/06/15/shiite-cleric-muqtada-al-sadr-claims-that-he-is-developing-a-new-force-to-fight-united-states-forces-in-iraq.md) _Context: Shiite, United States_
+2. [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md) _Context: Shiite, United States_
+3. [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md) _Context: Shiite, United States_
+4. [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md) _Context: Shiite, United States_
+5. [An apparent ambush in Niger near the Malian border leaves three United States Green Berets and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-united-states-green-berets-and-five-nigerien-soldiers-dead-during-a-joint-pa.md) _Context: United States_
 
 ### Changes:
 

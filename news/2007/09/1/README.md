@@ -4,10 +4,10 @@
 _Context: Dave Zabriski, Greenville, SC_
 
 ### [ The Church of Uganda, the Anglican province of Uganda, appoints a bishop in the United States, John Guernsey, deepening a split with the Episcopal Church over the ordination of gay priests and bishops. ](/news/2007/09/1/the-church-of-uganda-the-anglican-province-of-uganda-appoints-a-bishop-in-the-united-states-john-guernsey-deepening-a-split-with-the-ep.md)
-_Context: Americans, Anglican Communion, Church of Uganda, John Guernsey, Uganda, United States Episcopal Church, bishop, priest_
+_Context: Anglican Communion, Church of Uganda, John Guernsey, Uganda, United States, United States Episcopal Church, bishop, priest_
 
 ### [ World Championships in Athletics: American athlete Tyson Gay wins his third medal of the championship as part of the 100 metres relay team after earlier winning gold medals in the 100 metres and 200 metres. ](/news/2007/09/1/world-championships-in-athletics-american-athlete-tyson-gay-wins-his-third-medal-of-the-championship-as-part-of-the-100-metres-relay-team.md)
-_Context: Americans, Tyson Gay, World Championships in Athletics, athlete, gold medal, relay_
+_Context: Tyson Gay, United States, World Championships in Athletics, athlete, gold medal, relay_
 
 ### [ The Sri Lankan Army captures territory near Mannar from the Liberation Tigers of Tamil Eelam (LTTE) after a week of heavy fighting. ](/news/2007/09/1/the-sri-lankan-army-captures-territory-near-mannar-from-the-liberation-tigers-of-tamil-eelam-ltte-after-a-week-of-heavy-fighting.md)
 _Context: LTTE, Mannar, Sri Lanka_
@@ -31,7 +31,7 @@ _Context: Iraq, Syria, United Nations, refugee_
 _Context: Polish, Radom, air show_
 
 ### [ The National Assembly of Panama selects Pedro Miguel Gonzalez Pinzon as its President despite the fact that he is wanted in the United States for an alleged murder of a United States Army sergeant and the attempted murder of another. Gonzalez has been cleared by a Panamanian court of these charges. ](/news/2007/09/1/the-national-assembly-of-panama-selects-pedro-miguel-gonza-lez-pinza3n-as-its-president-despite-the-fact-that-he-is-wanted-in-the-united-st.md)
-_Context: Americans, National Assembly of Panama, Panama, Pedro Miguel Gonzalez Pinzon, U.S. soldiers_
+_Context: National Assembly of Panama, Panama, Pedro Miguel Gonzalez Pinzon, U.S. soldiers, United States_
 
 ### [ Iraq is to free up to 6,000 Sunni insurgents in an attempt at reconciliation by the Government. ](/news/2007/09/1/iraq-is-to-free-up-to-6-000-sunni-insurgents-in-an-attempt-at-reconciliation-by-the-government.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
@@ -73,7 +73,7 @@ _Context: Iran, Iraq, Kurdish, Party for a Free Life in Kurdistan_
 _Context: Japan, Takehiko Endo_
 
 ### [ Envoys from the United States and North Korea meet in Geneva to discuss normalising relations. ](/news/2007/09/1/envoys-from-the-united-states-and-north-korea-meet-in-geneva-to-discuss-normalising-relations.md)
-_Context: Americans, Geneva, North Korea_
+_Context: Geneva, North Korea, United States_
 
 ### [ A concrete and steel fence is built in Sydney to protect leaders attending the Asia-Pacific Economic Cooperation meeting next week. ](/news/2007/09/1/a-concrete-and-steel-fence-is-built-in-sydney-to-protect-leaders-attending-the-asia-pacific-economic-cooperation-meeting-next-week.md)
 _Context: Asia-Pacific Economic Cooperation, Sydney, concrete, steel_

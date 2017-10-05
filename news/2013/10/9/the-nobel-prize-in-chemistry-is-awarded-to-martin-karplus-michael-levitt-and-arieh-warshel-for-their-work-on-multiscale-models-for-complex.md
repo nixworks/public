@@ -12,7 +12,7 @@ The Nobel Prize in chemistry has been awarded to three scientists who &quot;took
 
 ### Related:
 
-1. [The Nobel Prize committee will announce which scientist has won the Nobel Prize in Chemistry. ](/news/2017/10/4/the-nobel-prize-committee-will-announce-which-scientist-has-won-the-nobel-prize-in-chemistry.md) _Context: Nobel Prize_
+1. [The Nobel Prize committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-prize-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-fo.md) _Context: Nobel Prize_
 2. [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md) _Context: Nobel Prize_
 3. [The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.md) _Context: Nobel Prize_
 4. [Nobel Prize winner John Forbes Nash, Jr. and his wife Alicia died in a taxi accident. ](/news/2015/05/24/nobel-prize-winner-john-forbes-nash-jr-and-his-wife-alicia-died-in-a-taxi-accident.md) _Context: Nobel Prize_

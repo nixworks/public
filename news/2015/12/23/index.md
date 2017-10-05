@@ -4,7 +4,7 @@
 Amnesty International says at least 200 civilians died in the first two months of Russian air strikes in Syria and war crimes may have been committed.
 
 ### [An overnight raid by suspected Boko Haram militants on Niger's southern border town of Abadam, kills two Nigerien Army soldiers and three civilians. And, separately, a suicide-bomb attack on Lake Chad killed three of the attackers but no one else. A military convoy was also ambushed by militants in northern Cameroon, although there were no reported deaths. ](/news/2015/12/23/an-overnight-raid-by-suspected-boko-haram-militants-on-niger-s-southern-border-town-of-abadam-kills-two-nigerien-army-soldiers-and-three-ci.md)
-_Context: Boko Haram, Boko Haram insurgency, Far North Region, Lake Chad, Niger, soldiers_
+_Context: Boko Haram, Boko Haram insurgency, Far North Region, Lake Chad, Niger, Nigerien soldiers_
 
 ### [Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-two-and-injuring-one-the-attackers-are.md)
 Both assailants shot and killed by 2 female Border Police officers; Police heighten security for thousands of Christian tourists expected in Old City for Christmas.
@@ -43,7 +43,7 @@ _Context: DC police, District of Columbia, United States Secret Service_
 Former oil tycoon says order to have him arrested in absentia over alleged murders shows that Russian authorities have ‘gone mad’
 
 ### [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md)
-_Context: Mariano Rajoy, Pedro Sanchez, People's Party, Prime Minister, Socialist Workers' Party, Spanish, election_
+_Context: Mariano Rajoy, Pedro Sanchez, People's Party, Socialist Workers' Party, Spanish, Spanish Prime Minister, election_
 
 ### [ Prime Minister of Georgia Irakli Garibashvili unexpectedly announces his resignation, without giving any specific reason for his decision. ](/news/2015/12/23/prime-minister-of-georgia-irakli-garibashvili-unexpectedly-announces-his-resignation-without-giving-any-specific-reason-for-his-decision.md)
 _Context: Irakli Garibashvili, Prime Minister of Georgia_

@@ -1,7 +1,7 @@
 ## [2016-03-15](/news/2016/03/15/index.md)
 
 ### [A senior Iraqi intelligence official, who is also a Syrian activist leader, says Islamic State of Iraq and the Levant commander Omar al-Shishani (Omar the Chechen, real name Tarkhan Tayumurazovich Batirashvili) died of wounds suffered in a March 4 U.S. airstrike near the Syrian town of Al-Shaddadah. The U.S. State Department offered up to $5 million for information on his whereabouts. Amaq news agency, which supports ISIL, says Shishani is neither dead nor hurt. ](/news/2016/03/15/a-senior-iraqi-intelligence-official-who-is-also-a-syrian-activist-leader-says-islamic-state-of-iraq-and-the-levant-commander-omar-al-shis.md)
-_Context: Al-Shaddadah, American-led intervention in Syria, Department of State, Iraq, Islamic State, Omar al-Shishani, Syria, United States military personnel, airstrike_
+_Context: Al-Shaddadah, American-led intervention in Syria, Department of State, ISIL, Iraq, Omar al-Shishani, Syria, United States military personnel, airstrike_
 
 ### [Belgian security forces hunt gunmen linked to the November 2015 Paris attacks following a raid on a house in Brussels which left four officers wounded and one suspect dead after an exchange of gunfire. Roads have been blocked off in the Belgian capital's southern suburb of Forest as one or more gunmen remain at large. ](/news/2016/03/15/belgian-security-forces-hunt-gunmen-linked-to-the-november-2015-paris-attacks-following-a-raid-on-a-house-in-brussels-which-left-four-office.md)
 Police in Brussels have shot dead a suspect in an anti-terror operation linked to the Paris attacks, after gunmen with assault rifles opened fire and wounded four officers. The dead person has not been identified but prosecutors said it was not Salah Abdeslam, a key suspect in the November Paris mas...
@@ -28,7 +28,7 @@ Hundreds of thousands of commuters, visitors and residents of Washington, D.C., 
 _Context: England, Manchester, Wythenshawe Hall_
 
 ### [A deadly fire breaks out at a rehabilitation center for addicts in Sterlitamak, Bashkortostan, a Republic of Russia, killing 12 people. An investigation was immediately launched. ](/news/2016/03/15/a-deadly-fire-breaks-out-at-a-rehabilitation-center-for-addicts-in-sterlitamak-bashkortostan-a-republic-of-russia-killing-12-people-an-i.md)
-_Context: Bashkortostan, Republic, Russia, Sterlitamak_
+_Context: Bashkortostan, Republic, Sterlitamak, the Russian Federation_
 
 ### [The U.S. Centers for Disease Control and Prevention issues final recommendations urging doctors to try something besides an opioid when first treating pain, and if an opioid drug, such as hydrocodone or oxycodone, is the best choice, start with the lowest possible dose. ](/news/2016/03/15/the-u-s-centers-for-disease-control-and-prevention-issues-final-recommendations-urging-doctors-to-try-something-besides-an-opioid-when-firs.md)
 New guidelines from the CDC urge doctors to take it easy in prescribing the potentially killer drugs.

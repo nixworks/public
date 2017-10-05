@@ -37,7 +37,7 @@ World stock markets slide as investors worry about the health of the US economy 
 The Bank of England lowers its growth estimates and says it expects the UK economy to face challenges in the next two years.
 
 ### [Fires are reported in Russia's nuclear-contaminated forests from the Chernobyl disaster in 1986, amid concerns about the spread of radiation. ](/news/2010/08/11/fires-are-reported-in-russia-s-nuclear-contaminated-forests-from-the-chernobyl-disaster-in-1986-amid-concerns-about-the-spread-of-radiation.md)
-_Context: Chernobyl disaster, Russia, radiation, the recent wildfires_
+_Context: Chernobyl disaster, radiation, the Russian Federation, the recent wildfires_
 
 ### [Heavy rains threaten rescue efforts after a deadly mudslide in Gansu, China, as the death toll reaches 1,117. ](/news/2010/08/11/heavy-rains-threaten-rescue-efforts-after-a-deadly-mudslide-in-gansu-china-as-the-death-toll-reaches-1-117.md)
 Heavy rain threatens the Chinese county devastated by landslides, as the death toll from the disaster rises to 1,117 people.
@@ -58,7 +58,7 @@ The leaders of Colombia and Venezuela met in an effort to repair relations that 
 Israeli army offiocial tell inquiry that troops were right to use live ammunition.
 
 ### [The Palestine Liberation Organization's (PLO) executive committee announces that America's George J. Mitchell informed President of Palestine Mahmoud Abbas that the United States had given preliminary approval to the idea of the Quartet on the Middle East having peace talks with Israel. ](/news/2010/08/11/the-palestine-liberation-organization-s-plo-executive-committee-announces-that-america-s-george-j-mitchell-informed-president-of-palestin.md)
-_Context: Americans, George J. Mitchell, Israel, Mahmoud Abbas, Palestine Liberation Organization's, diplomatic Quartet_
+_Context: George J. Mitchell, Israel, Mahmoud Abbas, Palestine Liberation Organization's, United States, diplomatic Quartet_
 
 ### [President Luiz Inacio Lula da Silva signs a decree promising Brazil's co-operation with United Nations sanctions against Iran. ](/news/2010/08/11/president-luiz-ina-cio-lula-da-silva-signs-a-decree-promising-brazil-s-co-operation-with-united-nations-sanctions-against-iran.md)
 _Context: Brazil, Iran, Lula, President, United Nations_
@@ -94,7 +94,7 @@ _Context: Igor Chudinov_
 _Context: West Bengal_
 
 ### [Michael Mara, a man dubbed the "Granddad Bandit" suspected of bank robbery in 13 US states is arrested in Baton Rouge, Louisiana. ](/news/2010/08/11/michael-mara-a-man-dubbed-the-granddad-bandit-suspected-of-bank-robbery-in-13-us-states-is-arrested-in-baton-rouge-louisiana.md)
-_Context: Americans, Baton Rouge, Louisiana, Granddad Bandit, Louisiana, bank robbery_
+_Context: Baton Rouge, Louisiana, Granddad Bandit, Louisiana, United States, bank robbery_
 
 ### [Peruvian indigenous Amazon groups announce a plan to launch their own political party before next year's election; protecting the rainforest and indigenous rights are to be among its aims. ](/news/2010/08/11/peruvian-indigenous-amazon-groups-announce-a-plan-to-launch-their-own-political-party-before-next-year-s-election-protecting-the-rainforest.md)
 Indigenous groups in the Peruvian Amazon say they plan to launch their own political party ahead of general elections next year.

@@ -1,7 +1,7 @@
 ## [2007-05-27](/news/2007/05/27/index.md)
 
 ### [ Gay rights in Russia: Russian gay rights leaders and foreign dignitaries are beaten and arrested in Moscow. Moscow mayor Yuri Luzhkov had denied permission for a gay pride parade.](/news/2007/05/27/gay-rights-in-russia-russian-gay-rights-leaders-and-foreign-dignitaries-are-beaten-and-arrested-in-moscow-moscow-mayor-yuri-luzhkov-had-d.md)
-_Context: Gay rights in Russia, Moscow, Russia, Yuri Luzhkov, gay pride parade, gay rights_
+_Context: Gay rights in Russia, Moscow, Yuri Luzhkov, gay pride parade, gay rights, the Russian Federation_
 
 ### [ Nepalese police clash with Bhutanese asylum seekers at a United Nations resulting in one 16-year-old boy being killed and a dozen people being injured. ](/news/2007/05/27/nepalese-police-clash-with-bhutanese-asylum-seekers-at-a-united-nations-resulting-in-one-16-year-old-boy-being-killed-and-a-dozen-people-be.md)
 _Context: Bhutan, Nepal, United Nations, asylum seeker_
@@ -10,7 +10,7 @@ _Context: Bhutan, Nepal, United Nations, asylum seeker_
 _Context: 91st Indianapolis 500, Dario Franchitti, Scotland, automobile racing, rain_
 
 ### [ Iraq War: United States forces rescue 42 Iraqis from an al-Qaeda hideout northeast of Baghdad with some captives showing signs of torture. ](/news/2007/05/27/iraq-war-united-states-forces-rescue-42-iraqis-from-an-al-qaeda-hideout-northeast-of-baghdad-with-some-captives-showing-signs-of-torture.md)
-_Context: Americans, Baghdad, Iraq, Iraq War, Military of the United States, al-Qaeda in Iraq, torture_
+_Context: Baghdad, Iraq, Iraq War, Military of the United States, United States, al-Qaeda in Iraq, torture_
 
 ### [ China claims all gold and silver medals in the Table Tennis World Championships in Zagreb, Croatia. ](/news/2007/05/27/china-claims-all-gold-and-silver-medals-in-the-table-tennis-world-championships-in-zagreb-croatia.md)
 _Context: China, Croatia, Table Tennis, Zagreb_

@@ -19,7 +19,7 @@ _Context: Baghdad, Conflict in Iraq, Iraqi Police, suicide bomb_
 _Context: Red Cross, Red Crystal_
 
 ### [ Deposed Iraq president Saddam Hussein has refused to attend his trial for crimes against humanity, throwing the sometimes chaotic Iraqi proceedings into further confusion. ](/news/2005/12/6/deposed-iraq-president-saddam-hussein-has-refused-to-attend-his-trial-for-crimes-against-humanity-throwing-the-sometimes-chaotic-iraqi-pro.md)
-_Context: Iraq, President, Saddam Hussein, deposed_
+_Context: Iraq, President of Iraq, Saddam Hussein, deposed_
 
 ### [ At least 123 miners are missing following an explosion at a coal mine in China's Hebei province, the official Xinhua news agency says. ](/news/2005/12/6/at-least-123-miners-are-missing-following-an-explosion-at-a-coal-mine-in-china-s-hebei-province-the-official-xinhua-news-agency-says.md)
 _Context: China, Hebei, province_

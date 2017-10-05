@@ -16,7 +16,7 @@ _Context: Human Rights Day, Iran, Iranian police, Nobel Peace Prize, Shirin Ebad
 _Context: $, Canada, bailout, troubled automotive industry_
 
 ### [ 2008 Russian financial crisis: Russian Internal Troops quell a protest in Vladivostok over higher tariffs on imported used automobiles. ](/news/2008/12/21/2008-russian-financial-crisis-russian-internal-troops-quell-a-protest-in-vladivostok-over-higher-tariffs-on-imported-used-automobiles.md)
-_Context: 2008 Russian financial crisis, Internal Troops, Russia, Vladivostok, import, import tariffs, used automobiles_
+_Context: 2008 Russian financial crisis, Internal Troops, Vladivostok, import, import tariffs, the Russian Federation, used automobiles_
 
 ### [ Clashes between rioters and the Hellenic Police continue near the National Technical University of Athens in Greece. ](/news/2008/12/21/clashes-between-rioters-and-the-hellenic-police-continue-near-the-national-technical-university-of-athens-in-greece.md)
 _Context: 2008 Greek riots, Athens, Greek, Greek police, National Technical University_

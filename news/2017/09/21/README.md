@@ -1,7 +1,7 @@
 ## [2017-09-21](/news/2017/09/21/index.md)
 
 ### [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md)
-_Context: Idlib, Russia, Syria, Syrian Civil War_
+_Context: Idlib, Syria, Syrian Civil War, the Russian Federation_
 
 ### [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md)
 The tie-up marks the latest push by Google to boost its hardware business.

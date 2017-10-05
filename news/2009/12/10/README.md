@@ -25,7 +25,7 @@ India will carve a newstate out of southern Andhra Pradesh, home to several majo
 _Context: Agusan del Sur, Mindanao, Philippines_
 
 ### [ A failed launch of an intercontinental missile RSM-56 Bulava by Russia is reported to be the cause of the mysterious spiral light seen over Northern Norway yesterday. ](/news/2009/12/10/a-failed-launch-of-an-intercontinental-missile-rsm-56-bulava-by-russia-is-reported-to-be-the-cause-of-the-mysterious-spiral-light-seen-over.md)
-_Context: Northern Norway, RSM-56 Bulava, Russia, mysterious spiral light_
+_Context: Northern Norway, RSM-56 Bulava, mysterious spiral light, the Russian Federation_
 
 ### [ U.S. President Barack Obama accepts the 2009 Nobel Peace Prize in Oslo, Norway. ](/news/2009/12/10/u-s-president-barack-obama-accepts-the-2009-nobel-peace-prize-in-oslo-norway.md)
 Formally accepting the Nobel Peace Prize in Oslo on Thursday, President Obama robustly defended the use of military force “on humanitarian grounds” and to preserve peace.

@@ -4,7 +4,7 @@
 _Context: Afghanistan, Behsod district, Kabul, Nangarhar Province_
 
 ### [Russian security forces kill three rebels in Buinaksk in the Caucasus region of Dagestan. ](/news/2010/11/14/russian-security-forces-kill-three-rebels-in-buinaksk-in-the-caucasus-region-of-dagestan.md)
-_Context: Buinaksk, Caucasus, Dagestan, Russia_
+_Context: Buinaksk, Caucasus, Dagestan, the Russian Federation_
 
 ### [Eleven people are killed in Helmand province, Uruzgan province, Kandahar province, and Nangarhar province of Afghanistan. ](/news/2010/11/14/eleven-people-are-killed-in-helmand-province-uruzgan-province-kandahar-province-and-nangarhar-province-of-afghanistan.md)
 _Context: Helmand Province, Kandahar Province, Nangarhar Province, Uruzgan province_
@@ -62,7 +62,7 @@ _Context: Asia-Pacific Economic Cooperation, Free Trade Area of the Asia Pacific
 _Context: Damascus, Fatah, Fatah-Hamas conflict, Hamas, Syria_
 
 ### [Hundreds of people protest in Moscow, Russia, to demand action over an attack on journalist Oleg Kashin. ](/news/2010/11/14/hundreds-of-people-protest-in-moscow-russia-to-demand-action-over-an-attack-on-journalist-oleg-kashin.md)
-_Context: Moscow, Oleg Kashin, Russia_
+_Context: Moscow, Oleg Kashin, the Russian Federation_
 
 ### [Cuba frees political prisoner Arnaldo Ramos Lauzerique, one of 13 prisoners who had refused to go into exile in exchange for their freedom. ](/news/2010/11/14/cuba-frees-political-prisoner-arnaldo-ramos-lauzerique-one-of-13-prisoners-who-had-refused-to-go-into-exile-in-exchange-for-their-freedom.md)
 Cuba frees one of 13 dissidents who have been refusing a government deal to go into exile in exchange for their freedom.

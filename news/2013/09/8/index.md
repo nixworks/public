@@ -1,7 +1,7 @@
 ## [2013-09-8](/news/2013/09/8/index.md)
 
 ### [The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. ](/news/2013/09/8/the-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-protection-of-the-town.md)
-_Context: Christian, Ma'loula, Russia, Syrian Army, al-Nusra_
+_Context: Christian, Ma'loula, Syrian Army, al-Nusra, the Russian Federation_
 
 ### [The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md)
 Taliban militants detonated a car bomb outside an Afghan intelligence office near the capital Sunday and then tried to attack it on foot with guns, officials and the insurgent group said. At least four soldiers guarding the compound were killed and six insurgents died in the assault, officials said.

@@ -1,7 +1,7 @@
 ## [2012-02-3](/news/2012/02/3/index.md)
 
 ### [Insurgency in the North Caucasus: The Chechen rebel leader Doku Umarov orders his subordinates to halt attacks on the civilian population of Russia, while leaving military and security personnel as legitimate targets.](/news/2012/02/3/insurgency-in-the-north-caucasus-the-chechen-rebel-leader-doku-umarov-orders-his-subordinates-to-halt-attacks-on-the-civilian-population-of.md)
-_Context: Chechnya, Doku Umarov, Insurgency in the North Caucasus, Russia_
+_Context: Chechnya, Doku Umarov, Insurgency in the North Caucasus, the Russian Federation_
 
 ### [Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. ](/news/2012/02/3/egyptian-police-shoot-and-kill-two-protesters-in-suez-the-first-deaths-to-occur-as-protests-spring-up-over-the-port-said-stadium-clashes.md)
 Two people are shot dead and more than 400 injured in protests across Egypt sparked by the deaths of 74 people after a football match.
@@ -16,7 +16,7 @@ _Context: Homs, Syrian Observatory for Human Rights_
 * All Malev flights grounded as of 0500 GMT on Friday* Comes after EU ruling in January to repay state aid* Malev accounted for 40 pc
 
 ### [Stocks rise sharply in the United States following positive jobs information with the Nasdaq Composite reaching its highest level since 2000 and the Dow Jones Industrial Average nearing levels last reached in 2008. ](/news/2012/02/3/stocks-rise-sharply-in-the-united-states-following-positive-jobs-information-with-the-nasdaq-composite-reaching-its-highest-level-since-2000.md)
-_Context: Americans, Dow Jones Industrial Average, NASDAQ_
+_Context: Dow Jones Industrial Average, NASDAQ, United States_
 
 ### [In the United States, employers added over 240,000 jobs in the month of January and the unemployment rate dropped to 8.3%, the lowest percent in three years. ](/news/2012/02/3/in-the-united-states-employers-added-over-240-000-jobs-in-the-month-of-january-and-the-unemployment-rate-dropped-to-8-3-the-lowest-percen.md)
 American employers substantially stepped up their hiring in January, bringing the unemployment rate down for the fifth month in a row.

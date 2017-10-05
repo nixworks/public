@@ -10,7 +10,7 @@ _Context: Israel, Tel Aviv, homosexuality, shooting attack_
 _Context: Corazon Aquino, Philippine President, cardiopulmonary arrest, colon cancer_
 
 ### [ Russia signs a deal to open a second military base in Kyrgyzstan at a Collective Security Treaty Organisation summit. ](/news/2009/08/1/russia-signs-a-deal-to-open-a-second-military-base-in-kyrgyzstan-at-a-collective-security-treaty-organisation-summit.md)
-_Context: Collective Security Treaty Organisation, Kyrgyzstan, Russia_
+_Context: Collective Security Treaty Organisation, Kyrgyzstan, the Russian Federation_
 
 ### [ The trial of 30 protesters in Iran who demonstrated in protests after the disputed presidential election begins. ](/news/2009/08/1/the-trial-of-30-protesters-in-iran-who-demonstrated-in-protests-after-the-disputed-presidential-election-begins.md)
 Activists face charges of rioting in wake of disputed presidential vote.

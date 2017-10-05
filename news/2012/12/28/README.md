@@ -13,7 +13,7 @@ _Context: Dasarathpur, Nepal_
 For months, life for Ann and Kurt Suhs has been a whirlwind of assembling documents, getting fingerprinted and scheduling evaluations of their Atlanta-area home in preparation for welcoming a Russian child into their family for a second time.
 
 ### [South Sudan's ambassador to Moscow says the UN helicopter with Russian crew that was downed in South Sudan last week was probably mistaken for one of the Sudanese aircraft. ](/news/2012/12/28/south-sudanas-ambassador-to-moscow-says-the-un-helicopter-with-russian-crew-that-was-downed-in-south-sudan-last-week-was-probably-mistaken.md)
-_Context: Moscow, Russia, South Sudan, Sudan, United Nations_
+_Context: Moscow, South Sudan, Sudan, United Nations, the Russian Federation_
 
 ### [US President Barack Obama says he is "modestly optimistic" that a deal to avoid the fiscal cliff is possible, after a last-ditch White House meeting. ](/news/2012/12/28/us-president-barack-obama-says-he-is-modestly-optimistic-that-a-deal-to-avoid-the-fiscal-cliff-is-possible-after-a-last-ditch-white-house.md)
 US President Barack Obama says he is &quot;modestly optimistic&quot; that a deal to avoid the &quot;fiscal cliff&quot; is possible, after a last-ditch White House meeting.

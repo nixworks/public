@@ -22,7 +22,7 @@ _Context: 6.5 magnitude earthquake, Guerrero_
 _Context: ACT, Fifth National Government, John Key, New Zealand National Party, United Future, confidence and supply, minority government_
 
 ### [A day of protests begins in cities across Russia against alleged election fraud by Vladimir Putin and his United Russia party, with fifty thousand people marching in Moscow and 25 people arrested in Khabarovsk. ](/news/2011/12/10/a-day-of-protests-begins-in-cities-across-russia-against-alleged-election-fraud-by-vladimir-putin-and-his-united-russia-party-with-fifty-th.md)
-_Context: Khabarovsk, Moscow, Russia, United Russia, Vladimir Putin_
+_Context: Khabarovsk, Moscow, United Russia, Vladimir Putin, the Russian Federation_
 
 ### [At least six people are killed in clashes in the Democratic Republic of the Congo in the aftermath of disputed general elections in which Joseph Kabila was named President. ](/news/2011/12/10/at-least-six-people-are-killed-in-clashes-in-the-democratic-republic-of-the-congo-in-the-aftermath-of-disputed-general-elections-in-which-jo.md)
 At least six people have been killed in the capital Kinshasa as opposition supporters face off with police.

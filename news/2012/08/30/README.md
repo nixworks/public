@@ -34,7 +34,7 @@ UN watchdog quarterly report says number of centrifuges at Fordo facility more t
 _Context: Osama bin Laden, book_
 
 ### [Russian investigators find the bodies of two murdered women in an apartment in Kazan and the shout ""Free! Pussy Riot"" written on the wall. The perpetrator is as of yet unknown. Observers warn against radicalism and false flags. ](/news/2012/08/30/russian-investigators-find-the-bodies-of-two-murdered-women-in-an-apartment-in-kazan-and-the-shout-free-pussy-riot-written-on-the-wall.md)
-_Context: Kazan, Russia, false flag_
+_Context: Kazan, false flag, the Russian Federation_
 
 ### [Three journalists jailed in Eritrea for over a decade have died in prison, according to prison guards who fled the country. ](/news/2012/08/30/three-journalists-jailed-in-eritrea-for-over-a-decade-have-died-in-prison-according-to-prison-guards-who-fled-the-country.md)
 _Context: Eritrea_

@@ -16,7 +16,7 @@ U.S. Secretary of State Condoleezza Rice and Defense Secretary Robert Gates head
 Thousands of Egyptian riot police have clashed with Bedouin protesting against the Government near the border with the Gaza Strip, and witnesses say several civilians were shot and wounded.
 
 ### [ The Palestinian President Mahmoud Abbas travels to Moscow seeking Russian support. ](/news/2007/07/30/the-palestinian-president-mahmoud-abbas-travels-to-moscow-seeking-russian-support.md)
-_Context: Mahmoud Abbas, Moscow, Palestinian Authority President, Russia_
+_Context: Mahmoud Abbas, Moscow, Palestinian Authority President, the Russian Federation_
 
 ### [ International Atomic Energy Agency inspectors visit the Arak heavy-water reactor site in Iran. ](/news/2007/07/30/international-atomic-energy-agency-inspectors-visit-the-arak-heavy-water-reactor-site-in-iran.md)
 _Context: Arak, IAEA, Iran_

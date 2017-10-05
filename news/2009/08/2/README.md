@@ -7,7 +7,7 @@ _Context: Alberta, Big Valley Jamboree, Canada_
 _Context: Hainan Tibetan Autonomous Prefecture, pneumonic plague_
 
 ### [ Three workers from the Russian Emergency Ministry are killed in Ingushetia. ](/news/2009/08/2/three-workers-from-the-russian-emergency-ministry-are-killed-in-ingushetia.md)
-_Context: Ingushetia, Ministry of Emergency Situations, Russia_
+_Context: Ingushetia, Ministry of Emergency Situations, the Russian Federation_
 
 ### [ Nine families who have been living in East Jerusalem since 1956 are evicted by force. (Previous reports of 'two families' are wrong.) ](/news/2009/08/2/nine-families-who-have-been-living-in-east-jerusalem-since-1956-are-evicted-by-force-previous-reports-of-two-families-are-wrong.md)
 Two families are forcibly expelled from their homes in East Jerusalem.

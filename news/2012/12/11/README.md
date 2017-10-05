@@ -13,7 +13,7 @@ Egypt&#039;s army chief calls for talks on national unity to end the country&#03
 _Context: Belfast City Council, Mike Nesbitt, Ulster Unionist Party, Ulster loyalism, Union Flag, petrol bomb, police vehicle_
 
 ### [Russian soprano opera singer Galina Vishnevskaya, wife of Mstislav Rostropovich, dies in Moscow at the age of 86. ](/news/2012/12/11/russian-soprano-opera-singer-galina-vishnevskaya-wife-of-mstislav-rostropovich-dies-in-moscow-at-the-age-of-86.md)
-_Context: Galina Vishnevskaya, Moscow, Mstislav Rostropovich, Russia, opera, soprano_
+_Context: Galina Vishnevskaya, Moscow, Mstislav Rostropovich, opera, soprano, the Russian Federation_
 
 ### [Indian sitar virtuoso and classical composer Ravi Shankar dies in the U.S. city of San Diego at the age of 92. ](/news/2012/12/11/indian-sitar-virtuoso-and-classical-composer-ravi-shankar-dies-in-the-u-s-city-of-san-diego-at-the-age-of-92.md)
 Sitar player Ravi Shankar, who popularised Indian music around the world, dies in hospital in the United States at the age of 92.
@@ -55,7 +55,7 @@ _Context: Lansing, Michigan, Michigan State Capitol, right to work_
 _Context: Cuba, Hugo Chvez, President, cancer surgery_
 
 ### [The $3 million special Fundamental Physics Prize is awarded to Stephen Hawking, a British theoretical physicist. Seven scientists who led the Large Hadron Collider and discovered Higgs-like particle share another $3 million special prize which was founded by a Russian physicist and internet entrepreneur Yuri Milner. ](/news/2012/12/11/the-3-million-special-fundamental-physics-prize-is-awarded-to-stephen-hawking-a-british-theoretical-physicist-seven-scientists-who-led-th.md)
-_Context: British people, Fundamental Physics Prize, Higgs boson, Large Hadron Collider, Russia, Stephen Hawking, Theoretical physicists, Yuri Milner_
+_Context: British, Fundamental Physics Prize, Higgs boson, Large Hadron Collider, Stephen Hawking, Theoretical physicists, Yuri Milner, the Russian Federation_
 
 ## [Previous Day...](/news/2012/12/10/index.md)
 

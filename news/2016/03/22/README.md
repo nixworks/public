@@ -1,7 +1,7 @@
 ## [2016-03-22](/news/2016/03/22/index.md)
 
 ### [Three explosions in the Brussels Airport and Maalbeek metro station kill at least 34 people and wound at least 170 more, according to Belgian media. Belgian federal Prosecutor Frederic Van Leeuw cautions it is too soon to know exactly how many people died in the bombings. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/03/22/three-explosions-in-the-brussels-airport-and-maalbeek-metro-station-kill-at-least-34-people-and-wound-at-least-170-more-according-to-belgia.md)
-_Context: 2016 Brussels bombings, Belgium, Brussels Zaventem International Airport, Islamic State, Maalbeek metro station_
+_Context: 2016 Brussels bombings, Belgium, Brussels Zaventem International Airport, ISIL, Maalbeek metro station_
 
 ### [Airstrikes near the Yemeni port city of Al Mukalla, Hadhramaut Governorate, reportedly kill at least 30 Al-Qaeda militants. ](/news/2016/03/22/airstrikes-near-the-yemeni-port-city-of-al-mukalla-hadhramaut-governorate-reportedly-kill-at-least-30-al-qaeda-militants.md)
 Saudi-led airstrikes targeting al Qaeda in eastern Yemen killed and wounded dozens on Tuesday, a provincial governor and medics said.
@@ -22,7 +22,7 @@ Russia and Finland agreed on Tuesday to impose temporary restrictions at two Arc
 A Russian court sentences Ukrainian pilot Nadiya Savchenko to 22 years in jail in a case relating to the deaths of two Russian journalists.
 
 ### [A court in southern Russia finds Ukrainian pilot Nadiya Savchenko guilty of being complicit in the killing of two Russian journalists, killing civilians and illegal border crossing and is sentenced to 22 years in prison and a fine of 30,000 rubles. Savchenko denies all the charges and the Ukrainian government said that they would continue to press for her release. ](/news/2016/03/22/a-court-in-southern-russia-finds-ukrainian-pilot-nadiya-savchenko-guilty-of-being-complicit-in-the-killing-of-two-russian-journalists-killi.md)
-_Context: Nadiya Savchenko, Russia, Russian ruble, Ukraine_
+_Context: Nadiya Savchenko, Russian ruble, Ukraine, the Russian Federation_
 
 ### [A federal judge postpones Tuesday's hearing at the government's request. The FBI says a third party demonstrated a way to access Syed Rizwan Farook's iPhone. Melanie Newman, U.S. Department of Justice spokeswoman, says officials are cautiously optimistic a test of this method will allow access to the phone without compromising the data. ](/news/2016/03/22/a-federal-judge-postpones-tuesday-s-hearing-at-the-government-s-request-the-fbi-says-a-third-party-demonstrated-a-way-to-access-syed-rizwan.md)
 A federal judge has postponed a hearing set for Tuesday that would have been the next step toward settling the battle between Apple and the FBI.

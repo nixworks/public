@@ -16,7 +16,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Human Rights Watch, Joseph Kony, Lord's Resistance Army, Riek Machar, Sudan, Vincent Otti_
 
 ### [ A Russian diplomat is killed and four kidnapped in an attack near the Russian embassy in Baghdad, according to Russian and Iraqi officials. ](/news/2006/06/3/a-russian-diplomat-is-killed-and-four-kidnapped-in-an-attack-near-the-russian-embassy-in-baghdad-according-to-russian-and-iraqi-officials.md)
-_Context: Baghdad, Russia, attack near the Russian embassy_
+_Context: Baghdad, attack near the Russian embassy, the Russian Federation_
 
 ### [ In a special session of parliament, Montenegro declares its independence from the State Union of Serbia and Montenegro. ](/news/2006/06/3/in-a-special-session-of-parliament-montenegro-declares-its-independence-from-the-state-union-of-serbia-and-montenegro.md)
 _Context: Montenegro, Serbia and Montenegro_

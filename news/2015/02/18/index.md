@@ -25,7 +25,7 @@ THE UN Security Council will meet Wednesday to discuss the situation in Libya af
 _Context: Australian, David Hicks, Guantanamo Bay, U.S. Court of Military Commission Review, United States Navy, terrorism_
 
 ### [Swede Alex Yucel pleads guilty in the United States to distributing Blackshades software that was used to hack into 500,000 computers worldwide. ](/news/2015/02/18/swede-alex-yucel-pleads-guilty-in-the-united-states-to-distributing-blackshades-software-that-was-used-to-hack-into-500-000-computers-worldw.md)
-_Context: Americans, Blackshades, Swede, hackers, software_
+_Context: Blackshades, Swede, United States, hackers, software_
 
 ### [Robert van Winkle aka Vanilla Ice is arrested for burglary and grand theft in Florida. ](/news/2015/02/18/robert-van-winkle-aka-vanilla-ice-is-arrested-for-burglary-and-grand-theft-in-florida.md)
 _Context: Florida, Vanilla Ice, burglary, grand theft_

@@ -25,7 +25,7 @@ _Context: Peru_
 _Context: Ali Mohammed Ghedi, Mogadishu, Somalian, grenade_
 
 ### [ Eight people are arrested in Senegal for an advance fee fraud e-mail scam that had fooled at least one American and one Norwegian victim. ](/news/2005/05/3/eight-people-are-arrested-in-senegal-for-an-advance-fee-fraud-e-mail-scam-that-had-fooled-at-least-one-american-and-one-norwegian-victim.md)
-_Context: Americans, Norway, Senegal, advance fee fraud_
+_Context: Norway, Senegal, United States, advance fee fraud_
 
 ## [Previous Day...](/news/2005/05/2/index.md)
 

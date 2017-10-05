@@ -1,7 +1,7 @@
 ## [2017-04-23](/news/2017/04/23/index.md)
 
 ### [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md)
-_Context: Americans, Luhansk, OSCE, War in Donbass, land mine_
+_Context: Luhansk, OSCE, United States, War in Donbass, land mine_
 
 ### [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md)
 The detention of a third US man comes amid heightened tension on the peninsula.

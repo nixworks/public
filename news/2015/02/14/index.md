@@ -1,7 +1,7 @@
 ## [2015-02-14](/news/2015/02/14/index.md)
 
 ### [Ukrainian President Petro Poroshenko warns of a threat to a planned ceasefire tonight from heavy fighting today and accuses Russia of "significantly increasing" its offensive. In a live interview he ordered all Ukrainian forces to cease fire after midnight. ](/news/2015/02/14/ukrainian-president-petro-poroshenko-warns-of-a-threat-to-a-planned-ceasefire-tonight-from-heavy-fighting-today-and-accuses-russia-of-signi.md)
-_Context: Petro Poroshenko, Russia, War in Donbass_
+_Context: Petro Poroshenko, War in Donbass, the Russian Federation_
 
 ### [Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens-more-wounded-in-fightings-i.md)
 _Context: Internal conflict in Burma, Kokang, Kokang offensive, Myanmar_

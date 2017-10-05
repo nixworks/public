@@ -1,7 +1,7 @@
 ## [2006-07-15](/news/2006/07/15/index.md)
 
 ### [ The 32nd G8 summit begins in Saint Petersburg, Russia. ](/news/2006/07/15/the-32nd-g8-summit-begins-in-saint-petersburg-russia.md)
-_Context: 32nd G8 summit, Russia, Saint Petersburg_
+_Context: 32nd G8 summit, Saint Petersburg, the Russian Federation_
 
 ### [ The United Nations Security Council unanimously adopts a resolution calling for weapons-related sanctions against North Korea. North Korea rejects the resolution. ](/news/2006/07/15/the-united-nations-security-council-unanimously-adopts-a-resolution-calling-for-weapons-related-sanctions-against-north-korea-north-korea.md)
 _Context: North Korea, United Nations Security Council_
@@ -13,7 +13,7 @@ _Context: 2006 Central American and Caribbean Games, Cartagena_
 _Context: 2001, Afghanistan, Taliban, United Kingdom_
 
 ### [ US President George W. Bush claims that the United States and Russia had almost reached agreement on Russia joining the World Trade Organisation. Bush met with Vladimir Putin prior to the G8 meeting in Strelna. ](/news/2006/07/15/us-president-george-w-bush-claims-that-the-united-states-and-russia-had-almost-reached-agreement-on-russia-joining-the-world-trade-organis.md)
-_Context: Americans, George W. Bush, Group of Eight, Russia, Strelna, Vladimir Putin, World Trade Organisation_
+_Context: George W. Bush, Group of Eight, Strelna, United States, Vladimir Putin, World Trade Organisation, the Russian Federation_
 
 ### [ The presidents of the US and Russia differ in emphasis in voicing concern about the Mid-East crisis at the 32nd G8 summit in Strelna.](/news/2006/07/15/the-presidents-of-the-us-and-russia-differ-in-emphasis-in-voicing-concern-about-the-mid-east-crisis-at-the-32nd-g8-summit-in-strelna.md)
 (VIDEO) Announcement to allow shutting down schools, operating essential industries and closing certain areas for traffic. The aim: Cutting down damages and assisting fighting 

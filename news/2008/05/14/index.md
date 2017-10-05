@@ -34,7 +34,7 @@ The death toll from the cyclone in Burma could wind up climbing to between 68,83
 _Context: Basque, Legutiano, Spanish, barracks, car bomb_
 
 ### [ In football, Zenit St Petersburg of Russia win the 2008 UEFA Cup after defeating Scottish side Rangers 2-0 in the final. ](/news/2008/05/14/in-football-zenit-st-petersburg-of-russia-win-the-2008-uefa-cup-after-defeating-scottish-side-rangers-2a0-in-the-final.md)
-_Context: 2008 UEFA Cup, Rangers F.C., Russia, Scotland, Zenit St Petersburg, association football, final_
+_Context: 2008 UEFA Cup, Rangers F.C., Scotland, Zenit St Petersburg, association football, final, the Russian Federation_
 
 ## [Previous Day...](/news/2008/05/13/index.md)
 

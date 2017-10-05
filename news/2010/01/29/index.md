@@ -25,7 +25,7 @@ _Context: North Korea, Northern Limit Line, South Korea_
 An employee of the Bank of Ireland is being questioned by gardaí investigating the biggest bank robbery in the history of the State.
 
 ### [First flight of the Russian stealth fighter Sukhoi T-50. ](/news/2010/01/29/first-flight-of-the-russian-stealth-fighter-sukhoi-t-50.md)
-_Context: Russia, Sukhoi T-50, stealth fighter_
+_Context: Sukhoi T-50, stealth fighter, the Russian Federation_
 
 ### [Several people are killed in heavy fighting in the Somalian capital Mogadishu. ](/news/2010/01/29/several-people-are-killed-in-heavy-fighting-in-the-somalian-capital-mogadishu.md)
 At least nine dead in fighting in densely populated Mogadishu neighbourhoods.

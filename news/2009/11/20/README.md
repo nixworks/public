@@ -7,7 +7,7 @@ Scientists are restarting a giant sub-atomic particle collider built to reproduc
 _Context: French Polynesian President, Oscar Temaru, no confidence_
 
 ### [ The United States Senate clears Senator Roland Burris of legal wrongdoing in relation to his appointment to the Senate. ](/news/2009/11/20/the-united-states-senate-clears-senator-roland-burris-of-legal-wrongdoing-in-relation-to-his-appointment-to-the-senate.md)
-_Context: Americans, Roland Burris, United States Senate_
+_Context: Roland Burris, United States, United States Senate_
 
 ### [ At least 100 people are killed and around 50,000 displaced in the Democratic Republic of the Congo, with some fleeing to the Republic of the Congo, in an ethnic conflict over fishing rights. ](/news/2009/11/20/at-least-100-people-are-killed-and-around-50-000-displaced-in-the-democratic-republic-of-the-congo-with-some-fleeing-to-the-republic-of-th.md)
 _Context: Democratic Republic of the Congo, Republic of the Congo_
@@ -31,7 +31,7 @@ _Context: Algeria, Cairo, Egypt, qualifying match_
 The Defence Forces have further increased their deployment due to the recent flooding.
 
 ### [ Somalia announces it is to ratify the United Nations Convention on the Rights of the Child, leaving the United States the only country not to ratify it. ](/news/2009/11/20/somalia-announces-it-is-to-ratify-the-united-nations-convention-on-the-rights-of-the-child-leaving-the-united-states-the-only-country-not.md)
-_Context: Americans, Convention on the Rights of the Child, Somalian, United Nations_
+_Context: Convention on the Rights of the Child, Somalian, United Nations, United States_
 
 ### [ Colombia accuses Venezuelan troops of blowing up two border bridges between the two countries. ](/news/2009/11/20/colombia-accuses-venezuelan-troops-of-blowing-up-two-border-bridges-between-the-two-countries.md)
 Bogota accuses Caracas of blowing up pedestrian bridges between two countries.

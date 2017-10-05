@@ -25,7 +25,7 @@ _Context: Beyonce, Lemonade_
 _Context: 2015-16 South Pacific cyclone season, Samoa, Severe Tropical Cyclone Amos_
 
 ### [A Russian oil tanker catches fire in the Caspian Sea, killing at least one crew member. A total of 10 crew members were evacuated from the ship, which was in the territorial waters of Turkmenistan when the fire broke out. It was unclear what caused the blaze. ](/news/2016/04/23/a-russian-oil-tanker-catches-fire-in-the-caspian-sea-killing-at-least-one-crew-member-a-total-of-10-crew-members-were-evacuated-from-the-s.md)
-_Context: Caspian Sea, Russia, Turkmenistan, oil tanker_
+_Context: Caspian Sea, Turkmenistan, oil tanker, the Russian Federation_
 
 ### [The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-south-america-this-century.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -34,7 +34,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: North Korea, its nuclear weapons program, submarine-launched ballistic missile_
 
 ### [President of Russia Vladimir Putin accuses the United States of reneging on a 16-year-old deal that called for reducing Russia's and the United States' stockpiles of weapons-grade plutonium. He accused Washington of trying to preserve its ability to turn some of its plutonium stockpile back into a form usable for nuclear weapons. ](/news/2016/04/23/president-of-russia-vladimir-putin-accuses-the-united-states-of-reneging-on-a-16-year-old-deal-that-called-for-reducing-russia-s-and-the-uni.md)
-_Context: Russia, Russia-United States relations, Russian President, United States federal government, Vladimir Putin, plutonium_
+_Context: Russia-United States relations, Russian President, United States federal government, Vladimir Putin, plutonium, the Russian Federation_
 
 ### [Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people, is holding. ](/news/2016/04/23/reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-following-a-three-day-o.md)
 Regional Kurdish security forces and pro-Syrian government forces have declared a ceasefire in northeastern Syria, the Kurdish side said, calming a three-day outbreak of violence which killed more than 26 people.
@@ -43,7 +43,7 @@ Regional Kurdish security forces and pro-Syrian government forces have declared 
 European Council President Donald Tusk has praised Turkey’s treatment of refugees, saying “it is the best example for the whole world.”
 
 ### [ Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspends-its-annual-military-exercises-wit.md)
-_Context: Americans, North Korea, North Korea-United States relations, North Korean Foreign Minister, Ri Su-yong's, South Korea, nuclear tests_
+_Context: North Korea, North Korea-United States relations, North Korean Foreign Minister, Ri Su-yong's, South Korea, United States, nuclear tests_
 
 ### [Professor Rezaul Karim Siddique is killed in the Bangladeshi city of Rajshahi in an ISIL attack. ](/news/2016/04/23/professor-rezaul-karim-siddique-is-killed-in-the-bangladeshi-city-of-rajshahi-in-an-isil-attack.md)
 Unidentified attackers hacked to death a university teacher in northwestern Bangladesh on Saturday.

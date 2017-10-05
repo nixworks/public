@@ -16,7 +16,7 @@ _Context: North Korea, Northern Limit Line, South Korea_
 _Context: Darfur, Sudan, peacekeeping mission_
 
 ### [ Seven people are found dead in the US state of Georgia and two are seriously wounded in one of the worst slayings in the state in 25 years.](/news/2009/08/29/seven-people-are-found-dead-in-the-us-state-of-georgia-and-two-are-seriously-wounded-in-one-of-the-worst-slayings-in-the-state-in-25-years.md)
-_Context: Americans, worst slayings_
+_Context: United States, worst slayings_
 
 ## [Previous Day...](/news/2009/08/28/index.md)
 

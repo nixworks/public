@@ -7,7 +7,7 @@ SANAA: Six Pakistani sailors were reportedly killed in a Saudi air strike target
 After weeks of close-quarter combat, Iraqi soldiers aim to sever important ISIL fighter route over the Tigris River. 
 
 ### [ After a meeting with President-elect of the United States Donald Trump, Masayoshi Son of SoftBank Group pledges to invest $50 billion in the United States and create 50,000 jobs. ](/news/2016/12/6/after-a-meeting-with-president-elect-of-the-united-states-donald-trump-masayoshi-son-of-softbank-group-pledges-to-invest-50-billion-in-th.md)
-_Context: Americans, Donald Trump, Masayoshi Son, President-elect, SoftBank Group_
+_Context: Donald Trump, Masayoshi Son, President-elect, SoftBank Group, United States_
 
 ### [ Airlines serving the regional hub cancel 87 flights into and out of Sea-Tac airport, due to ice on airport runways. Among the affected air carriers, Alaska Airlines has cancelled 35 flights. ](/news/2016/12/6/airlines-serving-the-regional-hub-cancel-87-flights-into-and-out-of-sea-tac-airport-due-to-ice-on-airport-runways-among-the-affected-air.md)
 Dozens of flights were canceled Tuesday in Seattle as icy conditions gripped Sea-Tac Airport. 

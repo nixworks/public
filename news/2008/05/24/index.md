@@ -1,7 +1,7 @@
 ## [2008-05-24](/news/2008/05/24/index.md)
 
 ### [ Dima Bilan of Russia wins the Eurovision Song Contest 2008 with the song "Believe" with 272 points. ](/news/2008/05/24/dima-bilan-of-russia-wins-the-eurovision-song-contest-2008-with-the-song-believe-with-272-points.md)
-_Context: Believe, Dima Bilan, Eurovision Song Contest 2008, Russia_
+_Context: Believe, Dima Bilan, Eurovision Song Contest 2008, the Russian Federation_
 
 ### [ Tornadoes of 2008: Two people from Colorado die in a tornado south of Pratt, Kansas as more than a dozen tornadoes hit Kansas. ](/news/2008/05/24/tornadoes-of-2008-two-people-from-colorado-die-in-a-tornado-south-of-pratt-kansas-as-more-than-a-dozen-tornadoes-hit-kansas.md)
 _Context: Colorado, Kansas, Pratt, Kansas, Tornadoes of 2008, tornado_

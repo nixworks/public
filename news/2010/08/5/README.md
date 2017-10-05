@@ -46,7 +46,7 @@ _Context: Pham Thanh Binh, Vietnam_
 _Context: Pakistan, United Nations, devastating floods_
 
 ### [A Russian military garrison near Naro-Fominsk outside Moscow moves its artillery rockets to a safer location as the wildfires get nearer. ](/news/2010/08/5/a-russian-military-garrison-near-naro-fominsk-outside-moscow-moves-its-artillery-rockets-to-a-safer-location-as-the-wildfires-get-nearer.md)
-_Context: Moscow, Naro-Fominsk, Russia, Russian security forces, garrison, ordnance, rocket, the recent wildfires_
+_Context: Moscow, Naro-Fominsk, Russian security forces, garrison, ordnance, rocket, the Russian Federation, the recent wildfires_
 
 ### [At least 20 people die after a bus falls into the Jhelum River in Pakistan controlled Kashmir. ](/news/2010/08/5/at-least-20-people-die-after-a-bus-falls-into-the-jhelum-river-in-pakistan-controlled-kashmir.md)
 _Context: Jhelum River, Kashmir, Pakistan_
@@ -124,7 +124,7 @@ _Context: 2010 Commonwealth Games, Anil Khanna, Delhi_
 Uruguay striker Diego Forlan attracts huge crowds in the Indian city of Calcutta.
 
 ### [In United States baseball, a group led by Nolan Ryan buys the Texas Rangers at a bankruptcy auction. ](/news/2010/08/5/in-united-states-baseball-a-group-led-by-nolan-ryan-buys-the-texas-rangers-at-a-bankruptcy-auction.md)
-_Context: Americans, Nolan Ryan, Texas Rangers, baseball game_
+_Context: Nolan Ryan, Texas Rangers, United States, baseball game_
 
 ## [Previous Day...](/news/2010/08/4/index.md)
 

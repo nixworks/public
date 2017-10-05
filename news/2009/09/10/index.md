@@ -22,7 +22,7 @@ _Context: Lebanese Prime Minister, Lebanon, Saad Hariri_
 Five girls have been killed in a stampede at a school in the Indian capital, New Delhi.
 
 ### [ Venezuelan President Hugo Chavez recognizes Abkhazia and South Ossetia during a visit to Russia. ](/news/2009/09/10/venezuelan-president-hugo-cha-vez-recognizes-abkhazia-and-south-ossetia-during-a-visit-to-russia.md)
-_Context: Abkhazia, Hugo Chavez, Russia, South Ossetia, Venezuela, recognition_
+_Context: Abkhazia, Hugo Chavez, South Ossetia, Venezuela, recognition, the Russian Federation_
 
 ### [ Afghan journalists express anger over the killing of local reporter Sultan Munadi during a rescue operation that saved his colleague Stephen Farrell. ](/news/2009/09/10/afghan-journalists-express-anger-over-the-killing-of-local-reporter-sultan-munadi-during-a-rescue-operation-that-saved-his-colleague-stephe.md)
 Afghan journalists have expressed anger over the killing of a local reporter during the rescue operation that saved his British-Irish colleague.

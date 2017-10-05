@@ -13,10 +13,10 @@ President Anibal Cavaco Silva proposed an urgent cross-party agreement between t
 ### Related:
 
 1. [A series of talks between Minister of Foreign Affairs and the Prime Minister to solve the question around the former's resignation. After a third round the Prime Minister Passos Coelho is to meet with the President of the Republic Cavaco Silva.](/news/2013/07/4/a-series-of-talks-between-minister-of-foreign-affairs-and-the-prime-minister-to-solve-the-question-around-the-former-s-resignation-after-a.md) _Context: Cavaco Silva, President_
-2. [Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. ](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.md) _Context: President_
-3. [Marcelo Rebelo de Sousa is elected President of the Portuguese Republic. ](/news/2016/01/24/marcelo-rebelo-de-sousa-is-elected-president-of-the-portuguese-republic.md) _Context: President_
-4. [Antonio Costa, the leader of the Socialist Party, is named as the Prime Minister of Portugal. ](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.md) _Context: Socialist Party_
-5. [Minister of Foreign Affairs Paulo Portas reportedly gives an ultimatum to the Prime Minister asking to exonerate the Minister of Finance Maria Luis Albuquerque in order to keep the first in the Government, as the President Cavaco Silva has demanded.](/news/2013/07/5/minister-of-foreign-affairs-paulo-portas-reportedly-gives-an-ultimatum-to-the-prime-minister-asking-to-exonerate-the-minister-of-finance-mar.md) _Context: Cavaco Silva_
+2. [Former Prime Minister of Portugal Pedro Passos Coelho steps down as the leader of the opposition Social Democratic Party in local elections. ](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.md) _Context: Social Democratic Party_
+3. [Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. ](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.md) _Context: President_
+4. [Marcelo Rebelo de Sousa is elected President of the Portuguese Republic. ](/news/2016/01/24/marcelo-rebelo-de-sousa-is-elected-president-of-the-portuguese-republic.md) _Context: President_
+5. [Antonio Costa, the leader of the Socialist Party, is named as the Prime Minister of Portugal. ](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.md) _Context: Socialist Party_
 
 ### Changes:
 

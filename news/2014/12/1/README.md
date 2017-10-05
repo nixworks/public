@@ -13,13 +13,13 @@ _Context: Boko Haram, Damaturu, Maiduguri, Nigerian Army, police_
 At least nine killed and 20 wounded in suicide attack at funeral in Baghlan province in northern Afghanistan.
 
 ### [A search continues for 52 people missing from a South Korean fishing vessel, the "Oriong-501", that sank early in the morning in bad weather in the Bering Sea off Russia's Chukotka Autonomous Okrug. Eight people have been rescued including one person who subsequently died. ](/news/2014/12/1/a-search-continues-for-52-people-missing-from-a-south-korean-fishing-vessel-the-oriong-501-that-sank-early-in-the-morning-in-bad-weather.md)
-_Context: Bering Sea, Chukotka Autonomous Okrug, Russia, South Korea_
+_Context: Bering Sea, Chukotka Autonomous Okrug, South Korea, the Russian Federation_
 
 ### [Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. ](/news/2014/12/1/researchers-claim-that-the-pandemic-has-reached-a-tipping-point-where-the-number-of-people-receiving-treatment-in-a-year-was-greater-than-th.md)
 The world has finally reached &quot;the beginning of the end&quot; of the AIDS pandemic that has infected and killed millions in the past 30 years, according to a leading campaign group fighting HIV.
 
 ### [Russia abandons its plans for the South Stream pipeline to Bulgaria due to European Union objections instead looking at a pipeline to Turkey. ](/news/2014/12/1/russia-abandons-its-plans-for-the-south-stream-pipeline-to-bulgaria-due-to-european-union-objections-instead-looking-at-a-pipeline-to-turkey.md)
-_Context: Bulgaria, EU, Russia, South Stream, Turkey_
+_Context: Bulgaria, EU, South Stream, Turkey, the Russian Federation_
 
 ### [The United Nations World Food Program suspends a food program for 1.7 million Syrian refugees after donor countries fail to meet their commitments. ](/news/2014/12/1/the-united-nations-world-food-program-suspends-a-food-program-for-1-7-million-syrian-refugees-after-donor-countries-fail-to-meet-their-commi.md)
 The United Nations World Food Program on Monday suspended a food voucher program serving more than 1.7 million Syrian refugees, citing a funding crisis after many donors failed to meet their commitments.

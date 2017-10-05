@@ -7,7 +7,7 @@ _Context: Harare, Morgan Tsvangirai, Movement for Democratic Change, Robert Muga
 _Context: Jacques Chirac, President of France_
 
 ### [ Voters in Russia go to the polls in elections in 14 regions including Saint Petersburg. The elections have been widely criticised by the Opposition. ](/news/2007/03/11/voters-in-russia-go-to-the-polls-in-elections-in-14-regions-including-saint-petersburg-the-elections-have-been-widely-criticised-by-the-op.md)
-_Context: Russia, Saint Petersburg_
+_Context: Saint Petersburg, the Russian Federation_
 
 ### [ The Ariane 5 rocket carrying the new generation Skynet 5 military satellite system is launched successfully from Kourou in French Guiana at 22:03 GMT. ](/news/2007/03/11/the-ariane-5-rocket-carrying-the-new-generation-skynet-5-military-satellite-system-is-launched-successfully-from-kourou-in-french-guiana-at.md)
 _Context: Ariane 5, French Guiana, Kourou, Skynet 5, released an object into orbit_

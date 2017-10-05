@@ -7,7 +7,7 @@ An historic gathering of Orthodox Churches opens on the Greek island of Crete, d
 Flash flooding and landslides in Indonesia kill 35 and leave more than two dozen missing, an official says.
 
 ### [At least 14 people, mostly children, are killed in a storm that struck Lake Syamozero in the Republic of Karelia, Russia. Those killed were among 49 people who went rafting on the lake late at night before a storm capsized their boats. ](/news/2016/06/19/at-least-14-people-mostly-children-are-killed-in-a-storm-that-struck-lake-syamozero-in-the-republic-of-karelia-russia-those-killed-were.md)
-_Context: Lake Syamozero, Republic of Karelia, Russia_
+_Context: Lake Syamozero, Republic of Karelia, the Russian Federation_
 
 ### [Over 50,000 people protest in Okinawa capital Naha against U.S. military presence on the Japanese island, spurred on by last month's arrest of an U.S. Marine veteran, civilian contractor for the rape and killing of a 20-year-old local woman. ](/news/2016/06/19/over-50-000-people-protest-in-okinawa-capital-naha-against-u-s-military-presence-on-the-japanese-island-spurred-on-by-last-month-s-arrest.md)
 TOKYO (AP) — Tens of thousands of people on the Japanese island of Okinawa protested Sunday against the presence of U.S. military bases there, many wearing black to mourn the rape and killing of a local woman in which…

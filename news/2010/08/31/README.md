@@ -10,13 +10,13 @@ Six women and two men have been killed in an attack on a bar in the Mexican reso
 Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank shooting attack Tuesday evening; pregnant woman apparently among victims, officials say. Security forces nationwide ordered to go on high alert 
 
 ### [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md)
-_Context: Afghanistan, Americans, United States military personnel, bomb_
+_Context: Afghanistan, United States, United States military personnel, bomb_
 
 ### [An explosion occurs outside the head office of a government-run television station in Bangkok, Thailand. ](/news/2010/08/31/an-explosion-occurs-outside-the-head-office-of-a-government-run-television-station-in-bangkok-thailand.md)
 _Context: Bangkok, Thailand_
 
 ### [3 Russian aircrew kidnapped in Sudan's Darfur region are released. ](/news/2010/08/31/3-russian-aircrew-kidnapped-in-sudan-s-darfur-region-are-released.md)
-_Context: Darfur, Russia, Sudan_
+_Context: Darfur, Sudan, the Russian Federation_
 
 ### [The Sudan People's Liberation Army pledges to demobilise all of its child soldiers by the end of the year. ](/news/2010/08/31/the-sudan-people-s-liberation-army-pledges-to-demobilise-all-of-its-child-soldiers-by-the-end-of-the-year.md)
 The army in south Sudan pledges to demobilise all child soldiers by the end of the year.

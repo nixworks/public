@@ -28,7 +28,7 @@ Queanbeyan, south-east of Canberra, has been declared a natural disaster zone af
 The African Union suspends Ivory Coast, following a disputed presidential election in the West African nation.
 
 ### [India is to complain to the United States after its ambassador, Meera Shankar, was pulled from a security line and patted down at an airport. ](/news/2010/12/9/india-is-to-complain-to-the-united-states-after-its-ambassador-meera-shankar-was-pulled-from-a-security-line-and-patted-down-at-an-airport.md)
-_Context: Americans, India, Meera Shankar_
+_Context: India, Meera Shankar, United States_
 
 ### [Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-companies-who-have-blacklisted-the-websit.md)
 A group of computer hackers are planning to attack Amazon, the online retailer, over its treatment of the whistle-blowing website WikiLeaks.

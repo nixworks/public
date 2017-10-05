@@ -28,7 +28,7 @@ _Context: Iran, Lula, Recep Tayyip Erdogan, Tehran_
 _Context: Canada, Cathay Pacific, Vancouver International Airport_
 
 ### [United States President Barack Obama is to ask the US Congress for an extra $200m in military aid to help Israel get a short-range rocket defence system called Iron Dome in place against mortar and rocket attacks from Gaza or Southern Lebanon. ](/news/2010/05/16/united-states-president-barack-obama-is-to-ask-the-us-congress-for-an-extra-200m-in-military-aid-to-help-israel-get-a-short-range-rocket-de.md)
-_Context: Americans, Barack Obama, Gaza, Iron Dome, Israel, Southern Lebanon, US Congress, military aid_
+_Context: Barack Obama, Gaza, Iron Dome, Israel, Southern Lebanon, US Congress, United States, military aid_
 
 ### [French lecturer Clotilde Reiss, charged with spying in Iran after last June's disputed election, is released and returns to Paris. ](/news/2010/05/16/french-lecturer-clotilde-reiss-charged-with-spying-in-iran-after-last-june-s-disputed-election-is-released-and-returns-to-paris.md)
 Woman arrested after disputed presidential poll, released and on her way home.
@@ -52,7 +52,7 @@ _Context: North Korea, South Korean Navy_
 _Context: Iceland, Ireland_
 
 ### [David Triesman, Baron Triesman resigns as chairman of The Football Association as well as England's 2018 FIFA World Cup bid after his "entrapment" by "The Mail on Sunday" in which he suggested Spain could drop its bid if Russia bribed referees at the 2010 FIFA World Cup next month. ](/news/2010/05/16/david-triesman-baron-triesman-resigns-as-chairman-of-the-football-association-as-well-as-england-s-2018-fifa-world-cup-bid-after-his-entra.md)
-_Context: 2010 FIFA World Cup, 2018 FIFA World Cup, David Triesman, Baron Triesman, England, Russia, Spanish, The Football Association, The Mail on Sunday_
+_Context: 2010 FIFA World Cup, 2018 FIFA World Cup, David Triesman, Baron Triesman, England, Spanish, The Football Association, The Mail on Sunday, the Russian Federation_
 
 ### [Oxford United F.C. get promoted out of the Conference National after beating York City F.C. 3-1 at Wembley Stadium](/news/2010/05/16/oxford-united-f-c-get-promoted-out-of-the-conference-national-after-beating-york-city-f-c-3-1-at-wembley-stadium.md)
 _Context: Conference National, Oxford United F.C., Wembley Stadium, York City F.C._

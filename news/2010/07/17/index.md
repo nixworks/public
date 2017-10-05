@@ -13,7 +13,7 @@ Sudan rebel group denies reports in state media of nearly 400 killed in troubled
 At least eight people are killed by attackers with machetes near Jos in Nigeria, the scene of deadly sectarian violence this year.
 
 ### [South Korea develops a long-range cruise missile capable of striking North Korea, Japan, Russia and China. ](/news/2010/07/17/south-korea-develops-a-long-range-cruise-missile-capable-of-striking-north-korea-japan-russia-and-china.md)
-_Context: Japan, North Korea, Russia, South Korea_
+_Context: Japan, North Korea, South Korea, the Russian Federation_
 
 ### [Suspected militants armed with assault rifles attack a bus in northwest Pakistan near the Afghanistan border, resulting in at least 16 casualties. ](/news/2010/07/17/suspected-militants-armed-with-assault-rifles-attack-a-bus-in-northwest-pakistan-near-the-afghanistan-border-resulting-in-at-least-16-casua.md)
 Suspected militants armed with assault rifles have killed up to 16 bus passengers in an ambush in north-west Pakistan.

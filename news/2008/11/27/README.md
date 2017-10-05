@@ -13,7 +13,7 @@ Brazil sent hundreds of stateand federal police officers on Wednesday to quell l
 Russian President Dmitry Medvedev and his Brazilian counterpart Luiz Inacio Lula da Silva called on Wednesday for the first summit of major emerging market countries known as BRICs in Russia next year.
 
 ### [ A suicide car bomb explodes near the United States embassy in Kabul, Afghanistan, with at least one person dead. ](/news/2008/11/27/a-suicide-car-bomb-explodes-near-the-united-states-embassy-in-kabul-afghanistan-with-at-least-one-person-dead.md)
-_Context: Afghanistan, Americans, Kabul, car bomb, embassies, suicide_
+_Context: Afghanistan, Kabul, United States, car bomb, embassies, suicide_
 
 ### [ An Australian soldier is killed and several injured in fighting in Oruzgan Province, Afghanistan. ](/news/2008/11/27/an-australian-soldier-is-killed-and-several-injured-in-fighting-in-oruzgan-province-afghanistan.md)
 _Context: Oruzgan province_

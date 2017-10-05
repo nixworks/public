@@ -31,7 +31,7 @@ Relatives attend the dedication of the new Fromelles Military Cemetery, built fo
 _Context: Gateshead, United Kingdom_
 
 ### [China surpasses the United States to become world's biggest energy consumer, consuming about 4% more than the U.S. ](/news/2010/07/19/china-surpasses-the-united-states-to-become-world-s-biggest-energy-consumer-consuming-about-4-more-than-the-u-s.md)
-_Context: Americans_
+_Context: United States_
 
 ### [Two trains collide in the Birbhum district of West Bengal, India with at least 50 people feared dead. ](/news/2010/07/19/two-trains-collide-in-the-birbhum-district-of-west-bengal-india-with-at-least-50-people-feared-dead.md)
 Death came at express speed to the sleepy station of Sainthia early Monday when the Uttar Banga Express crashed into the Ranchi-bound Vananchal Express, which was about to pull out of the platform.
@@ -49,7 +49,7 @@ The US must stop using &quot;cowboy logic&quot; if it wants dialogue with Iran o
 _Context: Afghanistan, Kabul_
 
 ### [The United States issues a warning to US citizens visiting or living in Uganda about the risk of terrorism as an African Union summit on maternal and child health summit starts. ](/news/2010/07/19/the-united-states-issues-a-warning-to-us-citizens-visiting-or-living-in-uganda-about-the-risk-of-terrorism-as-an-african-union-summit-on-mat.md)
-_Context: African Union, Americans, Uganda, terrorism_
+_Context: African Union, Uganda, United States, terrorism_
 
 ### [A two-year "Top Secret America" investigation by "The Washington Post" concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-much.md)
 US intelligence gathering has grown so much since 9/11 no-one knows its true cost, nor size, the Washington Post newspaper says.

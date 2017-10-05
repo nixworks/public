@@ -10,7 +10,7 @@ _Context: Constituent Assembly, Nepal, UN Security Council, election_
 _Context: Gloria Arroyo, Joseph Estrada, Philippine President_
 
 ### [ Leaders of the European Union and Russia meet for their annual summit in Lisbon. ](/news/2007/10/26/leaders-of-the-european-union-and-russia-meet-for-their-annual-summit-in-lisbon.md)
-_Context: EU, Lisbon, Russia_
+_Context: EU, Lisbon, the Russian Federation_
 
 ### [ The southern segment of the Kallang-Paya Lebar Expressway in Singapore, set to be the longest subterranean road tunnel in Southeast Asia when fully complete, opens to traffic. ](/news/2007/10/26/the-southern-segment-of-the-kallang-paya-lebar-expressway-in-singapore-set-to-be-the-longest-subterranean-road-tunnel-in-southeast-asia-wh.md)
 _Context: Asia, Kallang-Paya Lebar Expressway, Singapore, subterranean, tunnel_

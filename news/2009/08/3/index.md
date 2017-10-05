@@ -4,7 +4,7 @@
 Bolivia has become the first country in the history of South America to declare the right of indigenous people to govern themselves. The country&#039;s first indigenous president, Evo Morales, launched his so-called &#147;indigenous autonomy&#148; policy in the eastern lowlands.
 
 ### [ Georgia accuses Russia of trying to seize more of its territory as the anniversary of the 2008 war between the two countries approaches. ](/news/2009/08/3/georgia-accuses-russia-of-trying-to-seize-more-of-its-territory-as-the-anniversary-of-the-2008-war-between-the-two-countries-approaches.md)
-_Context: 2008 South Ossetia war, Georgian, Russia_
+_Context: 2008 South Ossetia war, Georgian, the Russian Federation_
 
 ### [ Several earthquakes, including one of 6.9 magnitude, hit northwestern Mexico. ](/news/2009/08/3/several-earthquakes-including-one-of-6-9-magnitude-hit-northwestern-mexico.md)
 _Context: Mexico, one of 6.9 magnitude_

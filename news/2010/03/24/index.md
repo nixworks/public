@@ -28,7 +28,7 @@ _Context: Civil Rights Congress of Nigeria, Kaduna, Twitter, sharia law_
 _Context: Norway_
 
 ### [Scientists identify the Denisova hominin - a previously unknown type of ancient human through DNA analysis from a finger found in a cave in Siberia, Russia. ](/news/2010/03/24/scientists-identify-the-denisova-hominin-a-previously-unknown-type-of-ancient-human-through-dna-analysis-from-a-finger-found-in-a-cave-in.md)
-_Context: DNA, Denisova hominin, Russia, Siberia, human_
+_Context: DNA, Denisova hominin, Siberia, human, the Russian Federation_
 
 ### [Go Daddy, the largest domain name registration company in the world, announces it will cease registering websites in China after the Chinese government required customers to provide photographs and other identifying information before registering. ](/news/2010/03/24/go-daddy-the-largest-domain-name-registration-company-in-the-world-announces-it-will-cease-registering-websites-in-china-after-the-chinese.md)
 _Context: China, Go Daddy, government_

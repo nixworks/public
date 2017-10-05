@@ -25,7 +25,7 @@ _Context: California, Santa Ana, hit and run, trick-or-treat_
 _Context: 1989 Revolution, ACL, Klaus Iohannis, PSD, President, Prime Minister, Romanian presidential election, 2014, Sibiu, Victor Ponta, social-democrat_
 
 ### [Voters in break away "people's republics" (Donetsk People's Republic and Lugansk People's Republic respectively) in Donetsk and Luhansk go to the polls for parliamentary and presidential elections. Rebel leaders Alexander Zakharchenko (Donetsk) and Igor Plotnisky (Luhansk) appear set for victory in early counting in elections which will be recognised in Russia but not elsewhere. International observers noted a very high turnout. ](/news/2014/11/2/voters-in-break-away-people-s-republics-donetsk-people-s-republic-and-lugansk-people-s-republic-respectively-in-donetsk-and-luhansk-go-t.md)
-_Context: Alexander Zakharchenko, Donetsk, Donetsk People's Republic, Lugansk People's Republic, Luhansk, Russia, parliamentary and presidential elections_
+_Context: Alexander Zakharchenko, Donetsk, Donetsk People's Republic, Lugansk People's Republic, Luhansk, parliamentary and presidential elections, the Russian Federation_
 
 ## [Previous Day...](/news/2014/11/1/index.md)
 

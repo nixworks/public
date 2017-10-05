@@ -10,7 +10,7 @@ _Context: Hizbul Mujahideen, Srinagar_
 _Context: George W. Bush, John G. Roberts, Jr., Sandra Day O'Connor, U.S. President, Wikinews_
 
 ### [ According to reports from Russia, at least 14 people have been killed and several injured in an explosion in Chechnya. ](/news/2005/07/19/according-to-reports-from-russia-at-least-14-people-have-been-killed-and-several-injured-in-an-explosion-in-chechnya.md)
-_Context: Chechnya, Russia, explosion_
+_Context: Chechnya, explosion, the Russian Federation_
 
 ### [ In the Philippines, President Gloria Arroyo announces that she intends to form a "truth commission" to investigate charges of poll fraud against her. ](/news/2005/07/19/in-the-philippines-president-gloria-arroyo-announces-that-she-intends-to-form-a-truth-commission-to-investigate-charges-of-poll-fraud-ag.md)
 _Context: Gloria Arroyo, Philippine President, Philippines, electoral fraud, truth commission_
@@ -19,7 +19,7 @@ _Context: Gloria Arroyo, Philippine President, Philippines, electoral fraud, tru
 _Context: Adrienne Clarkson, Bill C-38, Canadian Senate, Governor General of Canada, Royal Assent, same-sex marriage in Canada_
 
 ### [ Prime Minister Manmohan Singh of India addresses joint session of US Congress in his historic visit to the US. ](/news/2005/07/19/prime-minister-manmohan-singh-of-india-addresses-joint-session-of-us-congress-in-his-historic-visit-to-the-us.md)
-_Context: Americans, India, Manmohan Singh, Prime Minister, US Congress_
+_Context: India, Manmohan Singh, Prime Minister, US Congress, United States_
 
 ### [ In Thailand, dozens of newspapers editors of Thai Journalist's Association protest against new emergency laws that include media censorship and phone tapping ](/news/2005/07/19/in-thailand-dozens-of-newspapers-editors-of-thai-journalist-s-association-protest-against-new-emergency-laws-that-include-media-censorship.md)
 _Context: Thai Journalist's Association, Thailand, censorship, mass media, phone tapping_

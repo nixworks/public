@@ -4,7 +4,7 @@
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.
 
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: Afghanistan, Americans, U.S. soldiers_
+_Context: Afghanistan, U.S. soldiers, United States_
 
 ### [2 car bombs explode in Baghdad, Iraq, killing at least 31 people and injuring 111. ](/news/2010/09/19/2-car-bombs-explode-in-baghdad-iraq-killing-at-least-31-people-and-injuring-111.md)
 _Context: 2 car bomb, Baghdad, Iraq_
@@ -79,7 +79,7 @@ _Context: Minister for Basic Industry, President, Raul Castro, Yadira Garcia Ver
 _Context: Birmingham, Cardinal, England, John Henry Newman, Pope Benedict XVI, beatified, visit of Pope Benedict XVI_
 
 ### [Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. ](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-salvadoran-migrants-to-the-united-states-in-palmdale-california-who-have-gone-missing-after-l.md)
-_Context: Americans, California, El Salvador, Jesus, Palmdale, cult_
+_Context: California, El Salvador, Jesus, Palmdale, United States, cult_
 
 ### [Approximately 2,000 Armenians worship at the 10th century Church of the Holy Cross on Akdamar Island in Turkey for the first time since 1915. ](/news/2010/09/19/approximately-2-000-armenians-worship-at-the-10th-century-church-of-the-holy-cross-on-akdamar-island-in-turkey-for-the-first-time-since-1915.md)
 _Context: 10th century, Akdamar Island, Armenia, Turkey_

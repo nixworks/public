@@ -11,11 +11,11 @@
 
 ### Related:
 
-1. [Iraqi officials, following arrested IS militants' directions, uncover two mass graves with bodies of about 40 people in Ramadi. ](/news/2016/04/19/iraqi-officials-following-arrested-is-militants-directions-uncover-two-mass-graves-with-bodies-of-about-40-people-in-ramadi.md) _Context: Iraq, Islamic State, Ramadi_
-2. [Iraqi officials say the country's forces have managed to retake large parts of the key city of Ramadi from Islamic State of Iraq and the Levant militants. ](/news/2015/12/8/iraqi-officials-say-the-country-s-forces-have-managed-to-retake-large-parts-of-the-key-city-of-ramadi-from-islamic-state-of-iraq-and-the-lev.md) _Context: Iraq, Islamic State, Ramadi_
-3. [The Islamic State reportedly seizes control of the Iraqi city of Ramadi after the retreat of government forces. ](/news/2015/05/17/the-islamic-state-reportedly-seizes-control-of-the-iraqi-city-of-ramadi-after-the-retreat-of-government-forces.md) _Context: Iraq, Islamic State, Ramadi_
-4. [Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-capital-ramadi.md) _Context: Iraq, Islamic State, Ramadi_
-5. [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md) _Context: Iraq, Islamic State_
+1. [Iraqi officials, following arrested IS militants' directions, uncover two mass graves with bodies of about 40 people in Ramadi. ](/news/2016/04/19/iraqi-officials-following-arrested-is-militants-directions-uncover-two-mass-graves-with-bodies-of-about-40-people-in-ramadi.md) _Context: ISIL, Iraq, Ramadi_
+2. [Iraqi officials say the country's forces have managed to retake large parts of the key city of Ramadi from Islamic State of Iraq and the Levant militants. ](/news/2015/12/8/iraqi-officials-say-the-country-s-forces-have-managed-to-retake-large-parts-of-the-key-city-of-ramadi-from-islamic-state-of-iraq-and-the-lev.md) _Context: ISIL, Iraq, Ramadi_
+3. [The Islamic State reportedly seizes control of the Iraqi city of Ramadi after the retreat of government forces. ](/news/2015/05/17/the-islamic-state-reportedly-seizes-control-of-the-iraqi-city-of-ramadi-after-the-retreat-of-government-forces.md) _Context: ISIL, Iraq, Ramadi_
+4. [Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-capital-ramadi.md) _Context: ISIL, Iraq, Ramadi_
+5. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: ISIL, Iraq_
 
 ### Changes:
 

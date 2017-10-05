@@ -1,7 +1,7 @@
 ## [2010-01-9](/news/2010/01/9/index.md)
 
 ### [The United States warns against an attack by "regional extremists" on an Air Uganda flight between Uganda and Sudan. ](/news/2010/01/9/the-united-states-warns-against-an-attack-by-regional-extremists-on-an-air-uganda-flight-between-uganda-and-sudan.md)
-_Context: Air Uganda, Americans, Sudan, Uganda_
+_Context: Air Uganda, Sudan, Uganda, United States_
 
 ### [A bomb explodes outside the Greek Parliament in Athens with no casualties. ](/news/2010/01/9/a-bomb-explodes-outside-the-greek-parliament-in-athens-with-no-casualties.md)
 _Context: Athens, Hellenic Parliament_

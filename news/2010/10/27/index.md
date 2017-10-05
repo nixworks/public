@@ -7,7 +7,7 @@ _Context: India, Jammu and Kashmir_
 _Context: Al-Shabaab, Somalian_
 
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
-_Context: Americans, Pakistan_
+_Context: Pakistan, United States_
 
 ### [At least three people are killed in an explosion in Baghdad, Iraq. ](/news/2010/10/27/at-least-three-people-are-killed-in-an-explosion-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_

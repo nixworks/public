@@ -7,7 +7,7 @@ Rebels say dozens dead while Syrian military claims guards only wounded and top 
 _Context: Greek, general strike, unionize_
 
 ### [Russia and Japan schedule a sub-cabinet level meeting for October in Tokyo to discuss the Kuril Islands dispute. ](/news/2012/09/26/russia-and-japan-schedule-a-sub-cabinet-level-meeting-for-october-in-tokyo-to-discuss-the-kuril-islands-dispute.md)
-_Context: Japan, Russia, Tokyo, rival territorial claims_
+_Context: Japan, Tokyo, rival territorial claims, the Russian Federation_
 
 ### [Prime Minister Yoshihiko Noda addresses the UNGA by stating that Japan is committed to a "peaceful solution" to its territorial disputes, but that it intends to "fulfill its responsibility" to protecting its sovereignty. ](/news/2012/09/26/prime-minister-yoshihiko-noda-addresses-the-unga-by-stating-that-japan-is-committed-to-a-peaceful-solution-to-its-territorial-disputes-bu.md)
 _Context: Japan, Prime Minister of Japan, United Nations General Assembly, Yoshihiko Noda_

@@ -16,7 +16,7 @@ _Context: Democratic Republic of Congo, Ebola, World Health Organization_
 _Context: Angola, Marburg virus_
 
 ### [ Russia demands return of the energy minister Yevgeny Adamov, who is in a Swiss prison on a U.S. warrant waiting extradition. [http:--en.rian.ru-world-20050518-40377207.html (RIA Novosti)] [http:--www.swissinfo.org-sen-swissinfo.html?siteSect=106&sid=5796834&cKey=1116446378000 (Swissinfo)] [http:--www.latimes.com-news-nationworld-world-wire-sns-ap-swiss-us-russia-arrest,1,1349109.story?coll=sns-ap-world-headlines (LA Times)].Band named Green Day had their live album Bullet in a Bible Live at the National Bowl (Milton Keyes National Bowl) on this date.](/news/2005/05/18/russia-demands-return-of-the-energy-minister-yevgeny-adamov-who-is-in-a-swiss-prison-on-a-u-s-warrant-waiting-extradition-http-en-ria.md)
-_Context: Americans, Russia, Switzerland, Yevgeny Adamov_
+_Context: Switzerland, United States, Yevgeny Adamov, the Russian Federation_
 
 ## [Previous Day...](/news/2005/05/17/index.md)
 

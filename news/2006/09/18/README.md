@@ -13,7 +13,7 @@ _Context: Abdullahi Yusuf, Somalian, assassinated_
 _Context: International Space Station_
 
 ### [ 2006 referendum in Transnistria: The vast majority of the population of Transdniestr, a self-proclaimed republic in Moldova, voted for independence and future accession to Russia, the central election committee said. ](/news/2006/09/18/2006-referendum-in-transnistria-the-vast-majority-of-the-population-of-transdniestr-a-self-proclaimed-republic-in-moldova-voted-for-inde.md)
-_Context: 2006 referendum in Transnistria, Moldova, Russia_
+_Context: 2006 referendum in Transnistria, Moldova, the Russian Federation_
 
 ### [ Iran's Ayatollah Ali Khamenei condemns the recent speech by Pope Benedict, claiming it is the "latest link" in "the chain of a conspiracy to set in train a crusade against Islam". ](/news/2006/09/18/iran-s-ayatollah-ali-khamenei-condemns-the-recent-speech-by-pope-benedict-claiming-it-is-the-latest-link-in-the-chain-of-a-conspiracy-t.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

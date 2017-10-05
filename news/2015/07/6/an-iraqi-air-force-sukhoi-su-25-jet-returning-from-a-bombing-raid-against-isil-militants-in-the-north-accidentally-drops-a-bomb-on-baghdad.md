@@ -12,11 +12,11 @@ Seven people die and 11 are hurt as a bomb falls from a Sukhoi Su-25 jet returni
 
 ### Related:
 
-1. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad, Iraqi Air Force, Islamic State_
-2. [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md) _Context: Baghdad, Iraq War (2014-present), Islamic State_
-3. [A truck bombing in Baghdad, Iraq kills at least 76 people and wounds 212 others. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/08/13/a-truck-bombing-in-baghdad-iraq-kills-at-least-76-people-and-wounds-212-others-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Baghdad, Iraq War (2014-present), Islamic State_
-4. [ A car bomb explosion outside a popular ice cream parlor in central Baghdad kills 13 people and injures 24. ISIL claims responsibility for the attack. ](/news/2017/05/30/a-car-bomb-explosion-outside-a-popular-ice-cream-parlor-in-central-baghdad-kills-13-people-and-injures-24-isil-claims-responsibility-for-t.md) _Context: Baghdad, Islamic State_
-5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad, Islamic State_
+1. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad, ISIL, Iraqi Air Force_
+2. [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md) _Context: Baghdad, ISIL, Iraq War (2014-present)_
+3. [A truck bombing in Baghdad, Iraq kills at least 76 people and wounds 212 others. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/08/13/a-truck-bombing-in-baghdad-iraq-kills-at-least-76-people-and-wounds-212-others-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Baghdad, ISIL, Iraq War (2014-present)_
+4. [ A car bomb explosion outside a popular ice cream parlor in central Baghdad kills 13 people and injures 24. ISIL claims responsibility for the attack. ](/news/2017/05/30/a-car-bomb-explosion-outside-a-popular-ice-cream-parlor-in-central-baghdad-kills-13-people-and-injures-24-isil-claims-responsibility-for-t.md) _Context: Baghdad, ISIL_
+5. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad, ISIL_
 
 ### Changes:
 

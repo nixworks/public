@@ -25,7 +25,7 @@ _Context: Hepatitis A_
 Some in the administration and Congress say whoever leaked the information should be prosecuted.
 
 ### [300 Muslims are arrested in Moscow, Russia while they pray at a mosque in an apparent crackdown on radical Islam. ](/news/2013/06/9/300-muslims-are-arrested-in-moscow-russia-while-they-pray-at-a-mosque-in-an-apparent-crackdown-on-radical-islam.md)
-_Context: Moscow, Muslims, Russia, mosque_
+_Context: Moscow, Muslims, mosque, the Russian Federation_
 
 ### [2013 protests in Turkey: Turkish prime minister Recep Tayyip Erdogan called protestors "a handful of looters". ](/news/2013/06/9/2013-protests-in-turkey-turkish-prime-minister-recep-tayyip-erdoaan-called-protestors-a-handful-of-looters.md)
 _Context: Recep Tayyip Erdogan, anti-government protests_

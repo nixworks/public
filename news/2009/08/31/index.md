@@ -19,7 +19,7 @@ _Context: Nigeria_
 _Context: American Airlines_
 
 ### [ Russian forces state that they have killed an Algerian Al Qaeda operative and another militant during a raid on a house in Khasavyurt, Dagestan. ](/news/2009/08/31/russian-forces-state-that-they-have-killed-an-algerian-al-qaeda-operative-and-another-militant-during-a-raid-on-a-house-in-khasavyurt-dage.md)
-_Context: Algeria, Dagestan, Khasavyurt, Russia, al-Qaeda_
+_Context: Algeria, Dagestan, Khasavyurt, al-Qaeda, the Russian Federation_
 
 ### [ Iraqi officials begin negotiations with Serbia over the return of 19 MiG-21 and MiG-23 fighter jets sent to Yugoslavia in the 1980's for repairs. ](/news/2009/08/31/iraqi-officials-begin-negotiations-with-serbia-over-the-return-of-19-mig-21-and-mig-23-fighter-jets-sent-to-yugoslavia-in-the-1980-s-for-re.md)
 _Context: Iraq, MiG 21, MiG-23, Serbia, Yugoslavia_

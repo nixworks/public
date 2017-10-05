@@ -7,7 +7,7 @@ _Context: 2005 Kashmir earthquake, 8 October_
 _Context: 1933, 1969, 2005 Atlantic hurricane season, Hurricane Wilma, hPa, mb_
 
 ### [ Saddam Hussein goes on trial in Baghdad for crimes against humanity. The former President of Iraq is led into court with seven associates, charged with ordering the killing of 143 Shi'a men in the town of Dujail in 1982. If convicted, Hussein could face capital punishment. ](/news/2005/10/19/saddam-hussein-goes-on-trial-in-baghdad-for-crimes-against-humanity-the-former-president-of-iraq-is-led-into-court-with-seven-associates.md)
-_Context: 1982, Baghdad, Dujail, President, Saddam Hussein, Shi'a, capital punishment, trial_
+_Context: 1982, Baghdad, Dujail, President of Iraq, Saddam Hussein, Shi'a, capital punishment, trial_
 
 ### [ China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md)
 _Context: China, Hohhot, Inner Mongolia, bird flu_

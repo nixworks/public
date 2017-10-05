@@ -1,7 +1,7 @@
 ## [2012-02-16](/news/2012/02/16/index.md)
 
 ### [A United States drone attack kills five militants in the Pakistani town of Spalga in north Waziristan. ](/news/2012/02/16/a-united-states-drone-attack-kills-five-militants-in-the-pakistani-town-of-spalga-in-north-waziristan.md)
-_Context: Americans, North Waziristan, Pakistan, Spalga, drones launch_
+_Context: North Waziristan, Pakistan, Spalga, United States, drones launch_
 
 ### [The Syrian Army attacks the Free Syrian Army positions in the town of Deraa. ](/news/2012/02/16/the-syrian-army-attacks-the-free-syrian-army-positions-in-the-town-of-deraa.md)
 _Context: Deraa, Free Syrian Army, Syrian Army_

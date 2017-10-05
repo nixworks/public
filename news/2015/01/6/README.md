@@ -37,7 +37,7 @@ Thai police have arrested a man convicted of involvement in a bomb attack in Ind
 The Safeway supermarket chain has been ordered to pay nearly $10 million for illegally dumping batteries, electronics and pharmaceuticals in California landfills.
 
 ### [A man claiming to be the Lord's Resistance Army top commander Ugandan Dominic Ongwen turns himself in to United States forces in the Central African Republic. ](/news/2015/01/6/a-man-claiming-to-be-the-lord-s-resistance-army-top-commander-ugandan-dominic-ongwen-turns-himself-in-to-united-states-forces-in-the-central.md)
-_Context: Americans, Central African Republic, Dominic Ongwen, Lord's Resistance Army, Ugandan_
+_Context: Central African Republic, Dominic Ongwen, Lord's Resistance Army, Ugandan, United States_
 
 ### [A U.S. District Judge sentences former Virginia Governor Bob McDonnell to two years in prison for corruption. ](/news/2015/01/6/a-u-s-district-judge-sentences-former-virginia-governor-bob-mcdonnell-to-two-years-in-prison-for-corruption.md)
 Former Virginia Gov. Bob McDonnell was sentenced Tuesday to two years in federal prison for taking bribes to promote a dietary supplement.

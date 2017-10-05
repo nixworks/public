@@ -55,7 +55,7 @@ A man has been rescued after his light aircraft ditched into the sea off Co Wexf
 _Context: Crown Princess Victoria, Jonas Bergstrom, Princess Madeleine, Swedish_
 
 ### [ A Russian woman is arrested after throwing a teacup at the "Mona Lisa" portrait in the Louvre, Paris. ](/news/2009/08/11/a-russian-woman-is-arrested-after-throwing-a-teacup-at-the-mona-lisa-portrait-in-the-louvre-paris.md)
-_Context: Louvre, Mona Lisa, Paris, Russia_
+_Context: Louvre, Mona Lisa, Paris, the Russian Federation_
 
 ### [ A passenger plane carrying 13 people, including nine Australians, en route to Kokoda, site of a hiking trail and famous World War II battle, is reported missing over Papua New Guinea. ](/news/2009/08/11/a-passenger-plane-carrying-13-people-including-nine-australians-en-route-to-kokoda-site-of-a-hiking-trail-and-famous-world-war-ii-battle.md)
 A passenger plane carrying 13 people, including nine Australians, is missing feared crashed over Papua New Guinea.

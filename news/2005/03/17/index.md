@@ -31,7 +31,7 @@ _Context: Franco, Madrid, Spanish, dictator, statue_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Russia, Anatoly Chubais, head of Russia's state power monopoly RAO UES, survives an apparent ambush ](/news/2005/03/17/in-russia-anatoly-chubais-head-of-russia-s-state-power-monopoly-rao-ues-survives-an-apparent-ambush.md)
-_Context: Anatoly Chubais, RAO UES, Russia, ambush_
+_Context: Anatoly Chubais, RAO UES, ambush, the Russian Federation_
 
 ### [ King of Thailand, Bhumibol Adulyadej, intends to personally direct artificial rain making project to end drought in the country. He intends to use his own cloud seeding technique ](/news/2005/03/17/king-of-thailand-bhumibol-adulyadej-intends-to-personally-direct-artificial-rain-making-project-to-end-drought-in-the-country-he-intends.md)
 _Context: Bhumibol Adulyadej, Thailand, cloud seeding, drought, rain_
@@ -40,7 +40,7 @@ _Context: Bhumibol Adulyadej, Thailand, cloud seeding, drought, rain_
 _Context: National Constitutional Assembly, Robert Mugabe, Zimbabwe_
 
 ### [ Russian police arrests an Australian man who threatened to blow up a passenger plane ](/news/2005/03/17/russian-police-arrests-an-australian-man-who-threatened-to-blow-up-a-passenger-plane.md)
-_Context: Australia, Russia_
+_Context: Australia, the Russian Federation_
 
 ### [ St Patrick's Day celebrations take place worldwide](/news/2005/03/17/st-patrick-s-day-celebrations-take-place-worldwide.md)
 _Context: St Patrick's Day_

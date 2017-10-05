@@ -10,7 +10,7 @@ _Context: Philippine President, Philippines, his predecessor_
 At least four people are killed and 15 injured by a grenade thrown onto a bus in the Kenyan capital, Nairobi, the interior ministry says.
 
 ### [British actor Peter O'Toole, best known for his role in "Lawrence of Arabia", dies at the age of 81 after a long illness. ](/news/2013/12/14/british-actor-peter-o-toole-best-known-for-his-role-in-lawrence-of-arabia-dies-at-the-age-of-81-after-a-long-illness.md)
-_Context: British people, Lawrence of Arabia, Peter O'Toole_
+_Context: British, Lawrence of Arabia, Peter O'Toole_
 
 ### [The remains of Nelson Mandela are flown to the province of Eastern Cape, a day before his state funeral is held in Qunu. ](/news/2013/12/14/the-remains-of-nelson-mandela-are-flown-to-the-province-of-eastern-cape-a-day-before-his-state-funeral-is-held-in-qunu.md)
 _Context: Eastern Cape, Nelson Mandela, Qunu, province, state funeral_

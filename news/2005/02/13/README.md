@@ -10,7 +10,7 @@ _Context: Ali al-Sistani, Grand Ayatollah, Kurd, Shi'a, legislative election_
 _Context: Paris_
 
 ### [ In Moscow, Russia, thousands protest against the new benefits plan, which replaces such benefits as free transportation and subsidized drugs with small cash payments. ](/news/2005/02/13/in-moscow-russia-thousands-protest-against-the-new-benefits-plan-which-replaces-such-benefits-as-free-transportation-and-subsidized-drug.md)
-_Context: Moscow, Russia_
+_Context: Moscow, the Russian Federation_
 
 ### [ Two strong aftershocks strike tsunami-devastated Aceh, Indonesia, leading to some panic. ](/news/2005/02/13/two-strong-aftershocks-strike-tsunami-devastated-aceh-indonesia-leading-to-some-panic.md)
 _Context: 2004 Indian Ocean earthquake, Aceh, Aftershock, Indonesia_

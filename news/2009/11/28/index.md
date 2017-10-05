@@ -22,7 +22,7 @@ _Context: Democratic Republic of the Congo, Lake Mai-Ndombe, ferry_
 _Context: Asif Ali Zardari, Pakistan, Pervez Musharraf, amnesty, amnesty protecting him, anti-corruption, president_
 
 ### [ Russia's prosecutor general opens a criminal case into the 2009 Nevsky Express bombing which killed at least 26 people yesterday. ](/news/2009/11/28/russia-s-prosecutor-general-opens-a-criminal-case-into-the-2009-nevsky-express-bombing-which-killed-at-least-26-people-yesterday.md)
-_Context: Russia, the bomb attack_
+_Context: the Russian Federation, the bomb attack_
 
 ### [ Three people are killed and four injured after a Zimbabwean cargo plane catches fire at Shanghai Pudong International Airport. ](/news/2009/11/28/three-people-are-killed-and-four-injured-after-a-zimbabwean-cargo-plane-catches-fire-at-shanghai-pudong-international-airport.md)
 _Context: Shanghai Pudong International Airport, Zimbabwe_

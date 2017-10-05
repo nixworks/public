@@ -31,7 +31,7 @@ Punk pioneers the Ramones, British actress and singer Julie Andrews and jazz dru
 At least 11 people were trampled to death on Saturday in a stampede at an election campaign rally for Nigerian President Goodluck Jonathan in the southern oil city of Port Harcourt.
 
 ### [A fire destroys 20 homes on the Yakama Indian Reservation in the US state of Washington. ](/news/2011/02/12/a-fire-destroys-20-homes-on-the-yakama-indian-reservation-in-the-us-state-of-washington.md)
-_Context: Americans, Washington, Yakama Indian Reservation_
+_Context: United States, Washington, Yakama Indian Reservation_
 
 ### [Myanmar arrests the Australian owner and editor of the "Myanmar Times" newspaper, detained under immigration laws. ](/news/2011/02/12/myanmar-arrests-the-australian-owner-and-editor-of-the-myanmar-times-newspaper-detained-under-immigration-laws.md)
 Ross Dunkley, the Australian owner of English-language newspaper Myanmar Times, is arrested in Burma on an alleged immigration offence.

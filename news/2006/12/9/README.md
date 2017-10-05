@@ -7,7 +7,7 @@ _Context: 2nd congressional election, Democratic, Karen Carter, William J. Jeffe
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ A fire at a Russian drug treatment hospital kills 45 people with arson suspected. ](/news/2006/12/9/a-fire-at-a-russian-drug-treatment-hospital-kills-45-people-with-arson-suspected.md)
-_Context: Russia, arson, kills 45 people_
+_Context: arson, kills 45 people, the Russian Federation_
 
 ### [ The Space Shuttle "Discovery" makes a rare night time launch. ](/news/2006/12/9/the-space-shuttle-discovery-makes-a-rare-night-time-launch.md)
 _Context: Discovery, STS-116_

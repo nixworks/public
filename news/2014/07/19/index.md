@@ -22,7 +22,7 @@ Forty-three people reportedly killed when a van hit a bus on a highway in centra
 A super typhoon has killed atleast fourteen people in China since making landfall on Fridayafternoon, state media said on Saturday, after hitting parts ofthe Philippines and leaving 77 dead.
 
 ### [Russia bans 13 Americans including Congressman Jim Moran, Rear Adm. Richard Butler and Lynndie England in response to the United States banning Russians for human rights abuses. ](/news/2014/07/19/russia-bans-13-americans-including-congressman-jim-moran-rear-adm-richard-butler-and-lynndie-england-in-response-to-the-united-states-bann.md)
-_Context: American, Americans, Jim Moran, Lynndie England, Russia, United States Congress_
+_Context: American, Jim Moran, Lynndie England, United States, United States Congress, the Russian Federation_
 
 ### [A Florida court awards $23.6 billion in punitive damages against R.J. Reynolds Tobacco Company in a case of a longtime smoker who died in 1996. ](/news/2014/07/19/a-florida-court-awards-23-6-billion-in-punitive-damages-against-r-j-reynolds-tobacco-company-in-a-case-of-a-longtime-smoker-who-died-in-19.md)
 _Context: Florida, R. J. Reynolds Tobacco Company, punitive damages_

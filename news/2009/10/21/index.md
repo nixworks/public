@@ -19,7 +19,7 @@ _Context: Litokwa Tomeing, President, Ruben Zackhras, vote of no confidence_
 _Context: Lima, Peru, abortion_
 
 ### [ The United States is to send a rare mission to Burma for talks with the military government. ](/news/2009/10/21/the-united-states-is-to-send-a-rare-mission-to-burma-for-talks-with-the-military-government.md)
-_Context: Americans, Burma, State Peace and Development Council_
+_Context: Burma, State Peace and Development Council, United States_
 
 ### [ Several people are arrested over a bomb attack in southeastern Iran that killed 42 people, including members of the Revolutionary Guards. ](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.md)
 _Context: Iran, Iranian Revolutionary guards, bomb attack_
@@ -49,7 +49,7 @@ The crypt of Daniel O&#39;Connell at Glasnevin Cemetery in Dublin has been refur
 _Context: Japan_
 
 ### [ Russian President Dmitry Medvedev announces plans to curb the number of state companies by privatising some. ](/news/2009/10/21/russian-president-dmitry-medvedev-announces-plans-to-curb-the-number-of-state-companies-by-privatising-some.md)
-_Context: Dmitry Medvedev, Russia, Russian President_
+_Context: Dmitry Medvedev, Russian President, the Russian Federation_
 
 ### [ Former President of South Africa Nelson Mandela denies writing a foreword praising Republic of the Congo President Denis Sassou Nguesso's biography, "Straight Speaking for Africa". ](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.md)
 _Context: Denis Sassou Nguesso, Nelson Mandela, President, President, Republic of the Congo, South Africa, foreword_

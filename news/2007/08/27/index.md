@@ -28,7 +28,7 @@ _Context: Indonesia, Malaysia, karate_
 President Bush today praised Attorney General Alberto R. Gonzales, whose tenure has been marred by accusations of perjury before Congress, as “a man of integrity, decency and principle.”
 
 ### [ Ten people are arrested in Russia over the murder of investigative journalist Anna Politkovskaya. ](/news/2007/08/27/ten-people-are-arrested-in-russia-over-the-murder-of-investigative-journalist-anna-politkovskaya.md)
-_Context: Anna Politkovskaya, Russia, investigative journalist_
+_Context: Anna Politkovskaya, investigative journalist, the Russian Federation_
 
 ### [ Southeast Asian nations will seek $2 billion to build a rail link from Kunming in China to Singapore. ](/news/2007/08/27/southeast-asian-nations-will-seek-2-billion-to-build-a-rail-link-from-kunming-in-china-to-singapore.md)
 Southeast Asian nations will seek to raise $2 billion later this year to complete a railway system that will eventually stretch from China to Singapore and link eight countries in the region.

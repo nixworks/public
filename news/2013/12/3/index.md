@@ -1,7 +1,7 @@
 ## [2013-12-3](/news/2013/12/3/index.md)
 
 ### [Russian ballet dancer Pavel Dmitrichenko is convicted of organizing an acid attack on Sergei Filin, artistic director of the Bolshoi Theatre. ](/news/2013/12/3/russian-ballet-dancer-pavel-dmitrichenko-is-convicted-of-organizing-an-acid-attack-on-sergei-filin-artistic-director-of-the-bolshoi-theatre.md)
-_Context: Bolshoi Theatre, Pavel Dmitrichenko, Russia, Sergei Filin, ballet dancer_
+_Context: Bolshoi Theatre, Pavel Dmitrichenko, Sergei Filin, ballet dancer, the Russian Federation_
 
 ### [An inquiry into the 1989 Jonesborough ambush finds that members of the Garda Siochana colluded with the IRA in the shooting of two RUC officers as they crossed the Irish border. ](/news/2013/12/3/an-inquiry-into-the-1989-jonesborough-ambush-finds-that-members-of-the-garda-saocha-na-colluded-with-the-ira-in-the-shooting-of-two-ruc-off.md)
 Irish police colluded in the IRA murders of two senior Northern Ireland policemen, an inquiry has found.

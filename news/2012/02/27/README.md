@@ -19,7 +19,7 @@ Germany&#039;s parliament overwhelmingly endorses a second rescue package for Gr
 _Context: Facebook, Yahoo!_
 
 ### [A section of a nine-story apartment building in the city of Astrakhan, Russia, collapses in a natural gas explosion, injuring at least 12 people with 11 people missing ](/news/2012/02/27/a-section-of-a-nine-story-apartment-building-in-the-city-of-astrakhan-russia-collapses-in-a-natural-gas-explosion-injuring-at-least-12-pe.md)
-_Context: Astrakhan, Astrakhan apartment gas explosion, Russia_
+_Context: Astrakhan, Astrakhan apartment gas explosion, the Russian Federation_
 
 ### [East Africa's high-speed internet access is severely damaged by a ship dropping its anchor onto the fibre-optic cables of the TEAMS and EASSy cable systems off the coast of Mombasa, Kenya. ](/news/2012/02/27/east-africa-s-high-speed-internet-access-is-severely-damaged-by-a-ship-dropping-its-anchor-onto-the-fibre-optic-cables-of-the-teams-and-eass.md)
 _Context: EASSy, East Africa, Kenya, Mombasa, TEAMS_

@@ -40,7 +40,7 @@ _Context: Hurricane Jova, Pacific Ocean, tropical storm_
 Missouri suffered a small earthquake Tuesday that caused no deaths or injuries, a relatively minor blow for a state hit by a series of natural disasters this spring including tornadoes, floods, soaring temperatures, and even cicadas.
 
 ### [NATO and Russia conduct first-ever joint military exercises, codenamed 'Vigilant Skies 2011', to improve cooperation to protect passenger flights between NATO member states and Russia and to prevent hijackings such as the September 11 attacks. ](/news/2011/06/7/nato-and-russia-conduct-first-ever-joint-military-exercises-codenamed-vigilant-skies-2011-to-improve-cooperation-to-protect-passenger-fl.md)
-_Context: NATO, Russia, September 11 attacks, aircraft piracy, military exercise_
+_Context: NATO, September 11 attacks, aircraft piracy, military exercise, the Russian Federation_
 
 ### [At a news conference with visiting German Chancellor Angela Merkel, US President Barack Obama says the United States and its allies may impose additional sanctions on Iran over its nuclear program, after Iran says that no offer could halt its enrichment of uranium. ](/news/2011/06/7/at-a-news-conference-with-visiting-german-chancellor-angela-merkel-us-president-barack-obama-says-the-united-states-and-its-allies-may-impo.md)
 President Barack Obama said on Tuesday the United States and its allies may slap more sanctions on Iran over its nuclear program, after Tehran vowed that no offer could halt its enrichment of uranium.

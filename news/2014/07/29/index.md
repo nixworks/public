@@ -28,10 +28,10 @@ At least 34 people have reportedly died in a stampede in Guinea, during a concer
 A West African airline halts flights to Liberia and Sierra Leone amid concern about Ebola as a leading doctor dies of the virus in Sierra Leone.
 
 ### [Moscow describes Tokyo's decision to impose further sanctions on Russia in the wake of the downing of Malaysia Airlines Flight 17 as an "unfriendly step" that may harm "the entire system of relations" between Russia and Japan. ](/news/2014/07/29/moscow-describes-tokyo-s-decision-to-impose-further-sanctions-on-russia-in-the-wake-of-the-downing-of-malaysia-airlines-flight-17-as-an-unf.md)
-_Context: Japan, Malaysia Airlines Flight 17, Russia_
+_Context: Japan, Malaysia Airlines Flight 17, the Russian Federation_
 
 ### [The European Union and United States impose tougher sanctions against Russia over the Ukraine crisis. ](/news/2014/07/29/the-european-union-and-united-states-impose-tougher-sanctions-against-russia-over-the-ukraine-crisis.md)
-_Context: Americans, EU, Russia_
+_Context: EU, United States, the Russian Federation_
 
 ### [Chinese state media report that former Politburo Standing Committee member and security chief Zhou Yongkang is undergoing investigation for "disciplinary violations." ](/news/2014/07/29/chinese-state-media-report-that-former-politburo-standing-committee-member-and-security-chief-zhou-yongkang-is-undergoing-investigation-for.md)
 _Context: Politburo Standing Committee, Zhou Yongkang_

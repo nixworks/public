@@ -13,7 +13,7 @@ Toyota Motor Corp., moving to put years of legal problems behind it, has agreed 
 _Context: New York State, Porsche Automobil Holding, Volkswagen, hedge funds, state appeals court_
 
 ### [Japan's Coast Guard sends a rescue team to the Russian fishing trawler "Alanet" with 24 fishermen on board which is in distress off Japanese Hokkaido Island. ](/news/2012/12/27/japan-s-coast-guard-sends-a-rescue-team-to-the-russian-fishing-trawler-alanet-with-24-fishermen-on-board-which-is-in-distress-off-japanese.md)
-_Context: Hokkaido Island, Japan, Japan Coast Guard, Russia, fishermen, rescue team, trawler_
+_Context: Hokkaido Island, Japan, Japan Coast Guard, fishermen, rescue team, the Russian Federation, trawler_
 
 ### [Private investigator Paul Huebl claims Whitney Houston was killed by drug dealers in February 2012 after clocking up a $1.5 million debt. ](/news/2012/12/27/private-investigator-paul-huebl-claims-whitney-houston-was-killed-by-drug-dealers-in-february-2012-after-clocking-up-a-1-5-million-debt.md)
 _Context: Private investigator, Whitney Houston_

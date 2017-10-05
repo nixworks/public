@@ -10,7 +10,7 @@ Turkish fighter jets force a Syrian passenger plane, suspected of carrying weapo
 _Context: BAE Systems, EADS_
 
 ### [A court in Moscow, Russia, frees one of the three Pussy Riot members at an appeal hearing. ](/news/2012/10/10/a-court-in-moscow-russia-frees-one-of-the-three-pussy-riot-members-at-an-appeal-hearing.md)
-_Context: Moscow, Pussy Riot, Russia_
+_Context: Moscow, Pussy Riot, the Russian Federation_
 
 ### [U.S. President Obama nominates general John R. Allen for the SACEUR function. General Joseph Dunford would succeed Allen as ISAF commander in Afghanistan. ](/news/2012/10/10/u-s-president-obama-nominates-general-john-r-allen-for-the-saceur-function-general-joseph-dunford-would-succeed-allen-as-isaf-commander-i.md)
 _Context: International Security Assistance Force, John R. Allen, Joseph F. Dunford, Jr., SACEUR, War in Afghanistan (2001-present)_

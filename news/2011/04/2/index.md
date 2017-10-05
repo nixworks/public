@@ -49,7 +49,7 @@ _Context: Nigeria, parliamentary elections_
 Thousands protest in Sydney parks to denounce and to support a carbon tax.
 
 ### [The Prime Minister of Spain Jose Luis Rodriguez Zapatero announces that he will not be seeking a third term in the next election. ](/news/2011/04/2/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-announces-that-he-will-not-be-seeking-a-third-term-in-the-next-election.md)
-_Context: Jose Luis Rodriguez Zapatero, Prime Minister, next election_
+_Context: Jose Luis Rodriguez Zapatero, Spanish Prime Minister, next election_
 
 ### [Police make 12 arrests following protest marches by the English Defence League and opposing groups in Blackburn, Lancashire. ](/news/2011/04/2/police-make-12-arrests-following-protest-marches-by-the-english-defence-league-and-opposing-groups-in-blackburn-lancashire.md)
 Arrests are made during a huge police operation in Blackburn for protests by the English Defence League and opposing groups.

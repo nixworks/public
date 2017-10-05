@@ -10,7 +10,7 @@ _Context: African Union - United Nations Hybrid Operation in Darfur, Nyala, Sout
 _Context: Brazil, Minas Gerais_
 
 ### [Eighteen people are killed and at least 40 injured after a gravel truck smashes into a bus near Podolsk, Russia. ](/news/2013/07/13/eighteen-people-are-killed-and-at-least-40-injured-after-a-gravel-truck-smashes-into-a-bus-near-podolsk-russia.md)
-_Context: Podolsk, Russia_
+_Context: Podolsk, the Russian Federation_
 
 ### [George Zimmerman is found not guilty in the shooting of Trayvon Martin. ](/news/2013/07/13/george-zimmerman-is-found-not-guilty-in-the-shooting-of-trayvon-martin.md)
 The jury deciding George Zimmerman&#x27;s fate began its deliberations about 2:30 p.m. ET on Friday. Zimmerman is accused of profiling, pursuing, and fatally shooting Trayvon Martin, an unarmed black teen, in February 2012.

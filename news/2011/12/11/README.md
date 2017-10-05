@@ -16,7 +16,7 @@ North Korea has warned of &quot;unexpected consequences&quot; if South Korea goe
 _Context: 2011 United Nations Climate Change Conference, Durban, South Africa_
 
 ### [Former leader of Panama Manuel Noriega is extradited home from France and the United States where he has been serving jail sentences for the past 22 years to serve more time for his role in the murder of political opponents. ](/news/2011/12/11/former-leader-of-panama-manuel-noriega-is-extradited-home-from-france-and-the-united-states-where-he-has-been-serving-jail-sentences-for-the.md)
-_Context: Americans, France, Manuel Noriega, Panama_
+_Context: France, Manuel Noriega, Panama, United States_
 
 ### [A 16-year-old teenager in the U.S. state of Ohio is charged with murder in a deadly Craigslist robbery scheme.](/news/2011/12/11/a-16-year-old-teenager-in-the-u-s-state-of-ohio-is-charged-with-murder-in-a-deadly-craigslist-robbery-scheme.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
@@ -28,7 +28,7 @@ _Context: Democratic Republic of the Congo, presidential election_
 _Context: Cte d'Ivoire, Parliamentary elections_
 
 ### [Russian President Dmitry Medvedev orders an inquiry into the disputed results of the parliamentary elections. ](/news/2011/12/11/russian-president-dmitry-medvedev-orders-an-inquiry-into-the-disputed-results-of-the-parliamentary-elections.md)
-_Context: Dmitry Medvedev, Russia, parliamentary elections_
+_Context: Dmitry Medvedev, parliamentary elections, the Russian Federation_
 
 ### [Around 1,000 people protest in Taipei, demanding that the government make a weekly day off a legal right for Taiwan's 200,000 foreign live-in caregivers. ](/news/2011/12/11/around-1-000-people-protest-in-taipei-demanding-that-the-government-make-a-weekly-day-off-a-legal-right-for-taiwan-s-200-000-foreign-live-i.md)
 _Context: Taipei, Taiwan_

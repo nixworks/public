@@ -46,7 +46,7 @@ Socialist Francois Hollande is sworn in as France&#039;s president before naming
 _Context: Greek, governing coalition_
 
 ### [The United States announces a national plan to develop an effective treatment for Alzheimer's disease by 2025. ](/news/2012/05/15/the-united-states-announces-a-national-plan-to-develop-an-effective-treatment-for-alzheimer-s-disease-by-2025.md)
-_Context: Alzheimer's disease, Americans_
+_Context: Alzheimer's disease, United States_
 
 ### [American scientists develop a device which uses genetically-engineered viruses to generate electricity. The invention could allow the development of ubiquitous piezoelectric micro-generators which gather energy from everyday vibrations such as closing doors. ](/news/2012/05/15/american-scientists-develop-a-device-which-uses-genetically-engineered-viruses-to-generate-electricity-the-invention-could-allow-the-develo.md)
 Scientists in the US have developed a way to generate electricity using viruses.

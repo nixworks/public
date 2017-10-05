@@ -17,5 +17,5 @@ American novelist Harper Lee, author of Pulitzer Prize-winning To Kill a Mocking
 
 ### Changes:
 
-1. [Italian author and philosopher Umberto Eco dies at the age of 84. ](/news/2016/02/19/italian-author-and-philosopher-umberto-eco-dies-at-the-age-of-84.md) _2017-10-03 03:48:18 (First version)_
+1. [Italian author and philosopher Umberto Eco dies at the age of 84. ](/news/2016/02/19/italian-author-and-philosopher-umberto-eco-dies-at-the-age-of-84.md) _2017-10-04 03:53:30 (First version)_
 1. [American author Harper Lee dies at the age of 89. ](/news/2016/02/19/american-author-harper-lee-dies-at-the-age-of-89.md) _(Current version)_

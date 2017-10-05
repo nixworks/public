@@ -10,7 +10,7 @@ _Context: JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, United
 French strikers impose new fuel blockades, hours after security forces clear protesters from three depots.
 
 ### [China denies reports that it has banned export of rare earth mineral to the United States and Europe following similar measures against Japan. ](/news/2010/10/20/china-denies-reports-that-it-has-banned-export-of-rare-earth-mineral-to-the-united-states-and-europe-following-similar-measures-against-japa.md)
-_Context: Americans, China, Europe, Japan, rare earth mineral_
+_Context: China, Europe, Japan, United States, rare earth mineral_
 
 ### [The Sino-Singapore Tianjin Eco-city holds a groundbreaking ceremony for its Eco-technology Park in Binhai New Area a key national strategic area in Tianjin. ](/news/2010/10/20/the-sino-singapore-tianjin-eco-city-holds-a-groundbreaking-ceremony-for-its-eco-technology-park-in-binhai-new-area-a-key-national-strategic.md)
 _Context: Binhai New Area, Eco-technology Park, Sino-Singapore Tianjin Eco-city, Tianjin_

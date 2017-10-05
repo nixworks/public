@@ -46,7 +46,7 @@ All of 110 pounds, security guard Chen Xiu might not pack much heft, but he says
 _Context: Dublin, Eurovision Song Contest 1994, Gerry Ryan, RT 2fm, The Gerry Ryan Show, death of Gerry Ryan_
 
 ### [Russian businessman Vasily Bukhtienko, who established a Joseph Stalin museum in Volgograd, is beat to death by electric shocks. ](/news/2010/04/30/russian-businessman-vasily-bukhtienko-who-established-a-joseph-stalin-museum-in-volgograd-is-beat-to-death-by-electric-shocks.md)
-_Context: Joseph Stalin, Russia, Vasily Bukhtienko, Volgograd_
+_Context: Joseph Stalin, Vasily Bukhtienko, Volgograd, the Russian Federation_
 
 ## [Previous Day...](/news/2010/04/29/index.md)
 

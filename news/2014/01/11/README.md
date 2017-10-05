@@ -52,7 +52,7 @@ _Context: X-ray astronomers, black hole, dwarf galaxy, star_
 Former PM and general was polarising figure who backed Jewish settlements but pulled out of Gaza.
 
 ### [India says that it has "no stand-off" with the United States even after the Devyani Khobragade incident. ](/news/2014/01/11/india-says-that-it-has-no-stand-off-with-the-united-states-even-after-the-devyani-khobragade-incident.md)
-_Context: Americans, Devyani Khobragade incident, India_
+_Context: Devyani Khobragade incident, India, United States_
 
 ### [French President Francois Hollande is under pressure after photos of him and actress Julie Gayet appear in a magazine. ](/news/2014/01/11/french-president-franassois-hollande-is-under-pressure-after-photos-of-him-and-actress-julie-gayet-appear-in-a-magazine.md)
 French President Francois Hollande is under pressure to clarify his personal situation, after a magazine report about an alleged secret affair.

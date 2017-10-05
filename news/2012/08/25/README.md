@@ -10,7 +10,7 @@ _Context: 2011-present Libyan factional fighting, Mohamed Yousef el-Magariaf, Su
 _Context: Moon, Neil Armstrong, first person_
 
 ### [A historic drought develops in the Balkans causing severe losses to agriculture. Towns in Serbia introduce water restrictions while scorching temperatures fuel hundreds of fires. Russia stations a second fire fighting aircraft to help in Nis. ](/news/2012/08/25/a-historic-drought-develops-in-the-balkans-causing-severe-losses-to-agriculture-towns-in-serbia-introduce-water-restrictions-while-scorchin.md)
-_Context: Balkans, Nis, Russia, Serbia, Wildfire, drought, fire fighting aircraft, fuel, help_
+_Context: Balkans, Nis, Serbia, Wildfire, drought, fire fighting aircraft, fuel, help, the Russian Federation_
 
 ### [Tropical Storm Isaac causes floodings and kills at least three people in Haiti, a nation still recovering from the 2010 earthquake. The storm moves Northwest over east Cuba. ](/news/2012/08/25/tropical-storm-isaac-causes-floodings-and-kills-at-least-three-people-in-haiti-a-nation-still-recovering-from-the-2010-earthquake-the-stor.md)
 At least 3 dead in Haiti; Forecasters say storm with 60-mph winds will build strength into Category 1 hurricane as it approaches Sunshine State; Florida Gov. Scott declares state of emergency

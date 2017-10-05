@@ -1,7 +1,7 @@
 ## [2014-09-14](/news/2014/09/14/index.md)
 
 ### [Australia sends combat aircraft and special forces to the Middle East to help in the fight against Islamic State. ](/news/2014/09/14/australia-sends-combat-aircraft-and-special-forces-to-the-middle-east-to-help-in-the-fight-against-islamic-state.md)
-_Context: Australia, Islamic State, Middle East_
+_Context: Australia, ISIL, Middle East_
 
 ### [Heavy fighting resumes between Ukraine forces and rebels near Donetsk International Airport with at least six people dead. The terminal is burning. ](/news/2014/09/14/heavy-fighting-resumes-between-ukraine-forces-and-rebels-near-donetsk-international-airport-with-at-least-six-people-dead-the-terminal-is-b.md)
 _Context: Donetsk International Airport, War in Donbass_

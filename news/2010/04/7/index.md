@@ -4,7 +4,7 @@
 U.S. climate scientist James Hansen won a $100,000 environmental prize Wednesday for decades of work trying to alert politicians to what he called an unsolved emergency of global warming.
 
 ### [The Gay & Lesbian Alliance Against Defamation (GLAAD) announces that the number of LGBT characters on scripted programs in the United States has doubled since 2005. ](/news/2010/04/7/the-gay-lesbian-alliance-against-defamation-glaad-announces-that-the-number-of-lgbt-characters-on-scripted-programs-in-the-united-states.md)
-_Context: Americans, Gay & Lesbian Alliance Against Defamation, gay and bisexual men_
+_Context: Gay & Lesbian Alliance Against Defamation, United States, gay and bisexual men_
 
 ### [ President Kurmanbek Bakiyev reportedly flees the country, as the government steps down and protestors overrun the parliament building. The opposition announces the formation of a new provisional government headed by Roza Otunbayeva. ](/news/2010/04/7/president-kurmanbek-bakiyev-reportedly-flees-the-country-as-the-government-steps-down-and-protestors-overrun-the-parliament-building-the.md)
 Protest leaders claim command of capital after deadly anti-government clashes, reports say.

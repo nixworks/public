@@ -28,7 +28,7 @@ _Context: China, Zhejiang, heavy flood_
 _Context: China, Hanoi, South China Sea, Vietnamese_
 
 ### [Six foreigners including two Britons and an American are jailed for lengthy terms in Somalia after the seizure of a plane containing $3.6 million in ransom for pirates. ](/news/2011/06/19/six-foreigners-including-two-britons-and-an-american-are-jailed-for-lengthy-terms-in-somalia-after-the-seizure-of-a-plane-containing-3-6-mi.md)
-_Context: British people, Somali pirates, Somalian, U.S._
+_Context: British, Somali pirates, Somalian, U.S._
 
 ### [An Indonesian woman is beheaded in Saudi Arabia for killing a Saudi woman. ](/news/2011/06/19/an-indonesian-woman-is-beheaded-in-saudi-arabia-for-killing-a-saudi-woman.md)
 _Context: Indonesia, Saudi Arabia, beheading_
@@ -40,7 +40,7 @@ _Context: Ali Akbar Salehi, Foreign Minister, Foreign Minister, MPs, Mohammad Sh
 _Context: Mohamed Abdullahi Farmajo, Prime Minister of Somalia, Somalian_
 
 ### [Russian human rights activist Yelena Bonner dies aged 88. ](/news/2011/06/19/russian-human-rights-activist-yelena-bonner-dies-aged-88.md)
-_Context: Russia, Yelena Bonner_
+_Context: Yelena Bonner, the Russian Federation_
 
 ### [Burmese opposition figure Aung San Suu Kyi celebrates her first birthday in freedom for more than 10 years. ](/news/2011/06/19/burmese-opposition-figure-aung-san-suu-kyi-celebrates-her-first-birthday-in-freedom-for-more-than-10-years.md)
 _Context: Aung San Suu Kyi, Burma_

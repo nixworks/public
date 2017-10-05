@@ -7,7 +7,7 @@ Malware which infected the airport&#039;s network has been compared a virus that
 An airstrike launched by the Saudi-led coalition in Yemen killed at least 26 people and injured around 15 others after hitting a police building in Sanaa overnight, according to security sources. Some 30 people are believed to be trapped underneath rubble.
 
 ### [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md)
-_Context: Aleppo Governorate, Islamic State, Kilis, Spillover of the Syrian Civil War, Syria, Syria-Turkey border, Turkey, Turkish troops_
+_Context: Aleppo Governorate, ISIL, Kilis, Spillover of the Syrian Civil War, Syria, Syria-Turkey border, Turkey, Turkish troops_
 
 ### [Glenn Frey, a founding member of the Eagles, dies of complications arising from rheumatoid arthritis, colitis and pneumonia. ](/news/2016/01/18/glenn-frey-a-founding-member-of-the-eagles-dies-of-complications-arising-from-rheumatoid-arthritis-colitis-and-pneumonia.md)
 The Eagles founder and guitarist Glenn Frey has died at the age of 67, the band announces on its website.
@@ -28,7 +28,7 @@ The suspect, a Belgian of Moroccan origin, was arrested in the port city of Moha
 WARRI, Nigeria (AP) — Nigerian separatists said police killed eight people during renewed violent protests Monday demanding an independent Biafran state in southeastern Nigeria and the release of a detained leader. Police deny the allegation&hellip;
 
 ### [The Russian Duma rejects a Communist Party bill banning homosexual expression. ](/news/2016/01/18/the-russian-duma-rejects-a-communist-party-bill-banning-homosexual-expression.md)
-_Context: Communist Party, Duma, Russia, homosexuality_
+_Context: Communist Party, Duma, homosexuality, the Russian Federation_
 
 ### [The British Parliament debates a petition, signed by more than 560,000 people, calling for the Home Secretary to ban, because of 'hate speech,' United States Republican Party presidential candidate Donald Trump from entering the United Kingdom. Almost all of the 50 MPs (member of parliament), of the 650-member legislative body, present criticized Trump -- especially his comments on Muslims -- but few supported an entry ban. ](/news/2016/01/18/the-british-parliament-debates-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ban-because-of-hate-speec.md)
 British MPs debate proposal to ban ‘poisonous, corrosive’ Republican presidential candidate from the country

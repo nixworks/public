@@ -28,7 +28,7 @@ Three people arrested during protests over disputed presidential poll are senten
 _Context: Guinea, massacre of opposition protesters_
 
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: Americans, Barack Obama, U.S. President, United States military personnel, don't ask, don't tell, gay_
+_Context: Barack Obama, U.S. President, United States, United States military personnel, don't ask, don't tell, gay_
 
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
 _Context: England, Manchester, Muslims, racial bias_
@@ -37,7 +37,7 @@ _Context: England, Manchester, Muslims, racial bias_
 More than 200 modifications
 
 ### [ Thousands of protesters gather in St Petersburg, Russia, against a plan to build a 77 storey building for Gazprom. ](/news/2009/10/10/thousands-of-protesters-gather-in-st-petersburg-russia-against-a-plan-to-build-a-77-storey-building-for-gazprom.md)
-_Context: Gazprom, Russia, St. Petersburg_
+_Context: Gazprom, St. Petersburg, the Russian Federation_
 
 ## [Previous Day...](/news/2009/10/9/index.md)
 

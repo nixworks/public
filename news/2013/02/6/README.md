@@ -19,7 +19,7 @@ _Context: Securities and Exchange Commission, U.S., decimalisation, equity, roun
 SIX bodies, including that of a child, have been found in the sodden wreckage left by a tsunami that smashed into villages in the Solomon Islands.
 
 ### [In United States, two children and one woman are killed in a Denver apartment shooting. ](/news/2013/02/6/in-united-states-two-children-and-one-woman-are-killed-in-a-denver-apartment-shooting.md)
-_Context: Americans, Denver_
+_Context: Denver, United States_
 
 ### [Chokri Belaid, the general secretary of the Patriotic Democratic Party, is shot dead outside his house in Tunis, leading to reported clashes between the police and hundreds of protesters. The Prime Minister of Tunisia Hamadi Jebali claims that a new government will be formed within one day. ](/news/2013/02/6/chokri-belaid-the-general-secretary-of-the-patriotic-democratic-party-is-shot-dead-outside-his-house-in-tunis-leading-to-reported-clashes.md)
 The prime minister said he would dissolve the Islamist-led government after a politician, Chokri Belaid, was killed and thousands took to the streets in protest.

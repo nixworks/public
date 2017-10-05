@@ -13,7 +13,7 @@ _Context: Beijing, China, East Turkestan Islamic Movement, Tiananmen Gate_
 _Context: Bank of America, Citigroup, Fannie Mae, LIBOR scandal, Libor, United States dollars_
 
 ### [Flash floods and heavy rains sweep across central Texas, United States, killing 2 people. ](/news/2013/11/1/flash-floods-and-heavy-rains-sweep-across-central-texas-united-states-killing-2-people.md)
-_Context: Americans, Flash flooding, Texas_
+_Context: Flash flooding, Texas, United States_
 
 ### [2013 Los Angeles International Airport shooting: A gunman opens fire at Los Angeles International Airport, killing a US Transportation Security Administration employee, and wounding several other people. It prompts a terminal evacuation. ](/news/2013/11/1/2013-los-angeles-international-airport-shooting-a-gunman-opens-fire-at-los-angeles-international-airport-killing-a-us-transportation-secur.md)
 A gunman with an assault rifle opened fire in a crowded terminal at Los Angeles International Airport Friday, killing a TSA employee and injuring at least six before being wounded and taken into custody.

@@ -7,7 +7,7 @@ The United Nations and Washington on Monday condemned air strikes on medical fac
 _Context: India, Kashmir, Kashmir conflict, curfew, general strike_
 
 ### [A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md)
-_Context: Dagestan, Insurgency in the North Caucasus, Republic, Russia, car bomb, policemen_
+_Context: Dagestan, Insurgency in the North Caucasus, Republic, car bomb, policemen, the Russian Federation_
 
 ### [Cross-border shelling from Yemen kills a Saudi Arabian border guard in the Jizan Region. ](/news/2016/02/15/cross-border-shelling-from-yemen-kills-a-saudi-arabian-border-guard-in-the-jizan-region.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -19,7 +19,7 @@ _Context: Hungary, Komrom, freight train, train_
 _Context: Iran, Prime Minister, Tony Blair, United Kingdom, nuclear program_
 
 ### [ The Iranian Government confirms that an Iranian envoy in Baghdad has been kidnapped by men wearing Iraqi army uniforms, and says it holds the United States responsible for his life. The U.S. denies any involvement of U.S. and Iraqi troops. ](/news/2007/02/6/the-iranian-government-confirms-that-an-iranian-envoy-in-baghdad-has-been-kidnapped-by-men-wearing-iraqi-army-uniforms-and-says-it-holds-t.md)
-_Context: Americans, Baghdad, Iran, Iranian government, Iraqi army_
+_Context: Baghdad, Iran, Iranian government, Iraqi army, United States_
 
 ### [ UK newspaper "The Sun" has obtained a video tape of a U.S. pilot shooting a UK convoy in a friendly fire incident during the Iraq War, killing one British soldier and injuring four. The pilot, and others, are said to have made a series of crucial mistakes. ](/news/2007/02/6/uk-newspaper-the-sun-has-obtained-a-video-tape-of-a-u-s-pilot-shooting-a-uk-convoy-in-a-friendly-fire-incident-during-the-iraq-war-kill.md)
 _Context: Air Force, Iraq War, The Sun, United Kingdom, friendly fire_

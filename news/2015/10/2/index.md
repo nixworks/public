@@ -1,13 +1,13 @@
 ## [2015-10-2](/news/2015/10/2/index.md)
 
 ### [The Russian Government says Russian jets bombed Syria for the third consecutive day, hitting 12 Islamic State of Iraq and the Levant (ISIL) targets. The UK-based Syrian Observatory for Human Rights reports that ISIL has no presence in the western and northern areas struck though Al-Qaeda's Syrian affiliate al-Nusra Front does. Russian planes also bombed Raqqah, the unofficial capital of ISIL. ](/news/2015/10/2/the-russian-government-says-russian-jets-bombed-syria-for-the-third-consecutive-day-hitting-12-islamic-state-of-iraq-and-the-levant-isil.md)
-_Context: Islamic State, Raqqah, Russian Air Force, Russian Government, Russian intervention in the Syrian Civil War, Syria, Syrian Civil War, Syrian Observatory for Human Rights, al-Nusra, al-Qaeda_
+_Context: ISIL, Raqqah, Russian Air Force, Russian Government, Russian intervention in the Syrian Civil War, Syria, Syrian Civil War, Syrian Observatory for Human Rights, al-Nusra, al-Qaeda_
 
 ### [At least 17 PKK militants are reportedly killed following a Turkish military operation in the Kurdish-majority city of Silvan. ](/news/2015/10/2/at-least-17-pkk-militants-are-reportedly-killed-following-a-turkish-military-operation-in-the-kurdish-majority-city-of-silvan.md)
 At least 17 members of the Kurdistan Workers Party (PKK) have been killed in a Turkish military assault on the city of Silvan, which has a mainly Kurdish population, reports say.
 
 ### [OSCE observers who are monitoring a ceasefire in eastern Ukraine between the Ukrainian military and pro-Russian rebels, reported the presence of a new Russian weapons system in rebel-held territory this week, the 'TOS-1 Buratino' is a thermobaric multiple rocket launcher system which can destroy several city blocks in one strike and cause indiscriminate damage. Only Russia produces the system and it was not exported to Ukraine before the conflict broke out. ](/news/2015/10/2/osce-observers-who-are-monitoring-a-ceasefire-in-eastern-ukraine-between-the-ukrainian-military-and-pro-russian-rebels-reported-the-presenc.md)
-_Context: 2014-15 Russian military intervention in Ukraine, Minsk Protocol, OSCE, Russia, TOS-1 Buratino, Ukraine, Ukrainian military, War in Donbass, thermobaric_
+_Context: 2014-15 Russian military intervention in Ukraine, Minsk Protocol, OSCE, TOS-1 Buratino, Ukraine, Ukrainian military, War in Donbass, the Russian Federation, thermobaric_
 
 ### [Air France KLM will cut 2,900 jobs after talks with pilots unions are unsuccessful. ](/news/2015/10/2/air-france-klm-will-cut-2-900-jobs-after-talks-with-pilots-unions-are-unsuccessful.md)
 Air France is reportedly cutting 2,900 jobs after talks with pilot unions were unsuccessful.

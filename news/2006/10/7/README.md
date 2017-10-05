@@ -4,7 +4,7 @@
 _Context: New Guinea, Rabaul caldera_
 
 ### [ Russian journalist Anna Politkovskaya, famous for her criticism of President Vladimir Putin and his government's actions in Chechnya, is found murdered in Moscow. ](/news/2006/10/7/russian-journalist-anna-politkovskaya-famous-for-her-criticism-of-president-vladimir-putin-and-his-government-s-actions-in-chechnya-is-fo.md)
-_Context: Anna Politkovskaya, Chechnya, Moscow, Russia, Russian President, Vladimir Putin_
+_Context: Anna Politkovskaya, Chechnya, Moscow, Russian President, Vladimir Putin, the Russian Federation_
 
 ### [ Sixty warning shots are fired by South Korean soldiers at the Korean Demilitarized Zone after they observe five North Korean soldiers crossing part of the boundary. ](/news/2006/10/7/sixty-warning-shots-are-fired-by-south-korean-soldiers-at-the-korean-demilitarized-zone-after-they-observe-five-north-korean-soldiers-cross.md)
 _Context: Korean Demilitarized Zone, North Korea, South Korea_

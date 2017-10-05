@@ -4,7 +4,7 @@
 Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on Monday, killing 18 police and wounding seven others in one of the deadliest attacks this year in the restive region bordering Israel and the Gaza Strip.
 
 ### [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md)
-_Context: Deir ez-Zor Governorate, Russia, Siege of Deir ez-Zor (2014-17), Syrian Civil War, combat engineers, demining_
+_Context: Deir ez-Zor Governorate, Siege of Deir ez-Zor (2014-17), Syrian Civil War, combat engineers, demining, the Russian Federation_
 
 ### [PETA and David Slater settle the monkey selfie copyright dispute. ](/news/2017/09/11/peta-and-david-slater-settle-the-monkey-selfie-copyright-dispute.md)
 _Context: PETA, monkey selfie copyright dispute_

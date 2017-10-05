@@ -34,7 +34,7 @@ Ireland&#39;s most senior Cardinal, Dr Cahal Daly, is seriously ill in Belfast C
 _Context: Ashura, Karachi, Pakistan, Shia, suicide bombing_
 
 ### [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-a-pacific-ocean-oil-pipeline.md)
-_Context: Eastern Siberia - Pacific Ocean oil pipeline, Russia, Vladimir Putin_
+_Context: Eastern Siberia - Pacific Ocean oil pipeline, Vladimir Putin, the Russian Federation_
 
 ### [ At least 2,000 hectares and 20 homes are destroyed and hundreds of people are evacuated after a suspected arson causes forest fires in Valparaiso, Chile. ](/news/2009/12/28/at-least-2-000-hectares-and-20-homes-are-destroyed-and-hundreds-of-people-are-evacuated-after-a-suspected-arson-causes-forest-fires-in-valp.md)
 _Context: Chile, Valparaiso_

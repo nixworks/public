@@ -4,7 +4,7 @@
 _Context: Burkina Faso, Mali, Niger, Nigeria, United Nations, United Nations Children's Fund, epidemic, meningitis_
 
 ### [ The United States National Aeronautics and Space Administration delays the Space Shuttle "Discovery"'s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space-s.md)
-_Context: Americans, Discovery, International Space Station, NASA, Space Shuttle, hydrogen gas, lands, natural gas leak_
+_Context: Discovery, International Space Station, NASA, Space Shuttle, United States, hydrogen gas, lands, natural gas leak_
 
 ### [ China's exports contract 25.7%, the worst decline since 1993. ](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, China, export_

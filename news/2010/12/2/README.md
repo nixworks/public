@@ -52,7 +52,7 @@ _Context: Bushehr, Iran, nuclear reactor_
 _Context: Dick Cheney, Halliburton, Nigeria_
 
 ### [Police in Iran make several arrests of suspects in relation to an attack on two nuclear physicists that it claims are connected to the United States Central Intelligence Agency, Mossad from Israel, and MI6 in the United Kingdom. ](/news/2010/12/2/police-in-iran-make-several-arrests-of-suspects-in-relation-to-an-attack-on-two-nuclear-physicists-that-it-claims-are-connected-to-the-unite.md)
-_Context: Americans, CIA, Iran, Iranian police, Israel, MI6, Mossad, United Kingdom, nuclear physicists_
+_Context: CIA, Iran, Iranian police, Israel, MI6, Mossad, United Kingdom, United States, nuclear physicists_
 
 ### [Former Taiwanese President Chen Shui-bian enters prison on being convicted of corruption charges. ](/news/2010/12/2/former-taiwanese-president-chen-shui-bian-enters-prison-on-being-convicted-of-corruption-charges.md)
 Former president Chen Shui-bian (陳水扁) will now be identified by his personal identification number, 1020, as he began serving his prison sentence at Taipei Prison on Thursday after being convicted on corruption charges.
@@ -64,7 +64,7 @@ Election commission calls for patience as announcement of contested election res
 The prime minister of Vanuatu, Edward Natapei, is ousted by a vote of no confidence in parliament while out of the country.
 
 ### [All Russian state media is to be put up for sale by the government. ](/news/2010/12/2/all-russian-state-media-is-to-be-put-up-for-sale-by-the-government.md)
-_Context: Russia, state media_
+_Context: state media, the Russian Federation_
 
 ### [The United States House of Representatives votes to censure New York Democratic Party member Charlie Rangel. ](/news/2010/12/2/the-united-states-house-of-representatives-votes-to-censure-new-york-democratic-party-member-charlie-rangel.md)
 Despite an impassioned plea by Representative Charles B. Rangel, the House voted 333-79 for a severe sanction.

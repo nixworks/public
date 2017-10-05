@@ -10,13 +10,13 @@ Get the latest science news and technology news, read tech reviews and more at A
 _Context: 31 January, IRA, Northern Ireland, Robert McCartney_
 
 ### [ Russian armed forces claim that Chechen separatist leader Aslan Maskhadov has been killed in a special forces operation. ](/news/2005/03/8/russian-armed-forces-claim-that-chechen-separatist-leader-aslan-maskhadov-has-been-killed-in-a-special-forces-operation.md)
-_Context: Aslan Maskhadov, Chechnya, Russia_
+_Context: Aslan Maskhadov, Chechnya, the Russian Federation_
 
 ### [ Kosovan Prime Minister Ramush Haradinaj reports that he has been charged with war crimes by the International Criminal Tribunal for the Former Yugoslavia and resigns. He will travel to The Hague of his own volition, although he maintains his innocence. ](/news/2005/03/8/kosovan-prime-minister-ramush-haradinaj-reports-that-he-has-been-charged-with-war-crimes-by-the-international-criminal-tribunal-for-the-for.md)
 _Context: International Criminal Tribunal for the former Yugoslavia, Kosovo, Ramush Haradinaj, The Hague, war crimes_
 
 ### [ Gianfranco Fini, the foreign minister of Italy has demanded that the U.S. "identify and punish" those responsible for the death of Nicola Calipari, the Italian intelligence agent killed by US soldiers in Iraq. ](/news/2005/03/8/gianfranco-fini-the-foreign-minister-of-italy-has-demanded-that-the-u-s-identify-and-punish-those-responsible-for-the-death-of-nicola-c.md)
-_Context: Americans, Foreign Minister, Gianfranco Fini, Iraq, Italy, Nicola Calipari_
+_Context: Foreign Minister, Gianfranco Fini, Iraq, Italy, Nicola Calipari, United States_
 
 ### [ In Australia, 104-year-old Chinese widow Cui Yu Hu, who has lived in the country for 10 years, loses an appeal to receive a permanent visa. She has asked immigration minister Amanda Vanstone to intervene. ](/news/2005/03/8/in-australia-104-year-old-chinese-widow-cui-yu-hu-who-has-lived-in-the-country-for-10-years-loses-an-appeal-to-receive-a-permanent-visa.md)
 _Context: Amanda Vanstone, Australia, Chinese, Cui Yu Hu, visa-free travel_

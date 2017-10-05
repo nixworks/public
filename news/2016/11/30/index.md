@@ -16,7 +16,7 @@ _Context: Colombian conflict, Colombian government, Congress of Colombia, FARC, 
 A handwritten score by Gustav Mahler fetches a record-breaking £4.5m at auction.
 
 ### [OPEC agrees to cut oil production by 1.2 million barrels a day. Key non-OPEC producers most notably Russia have also agreed to cut their production. Oil futures have risen by 9%. ](/news/2016/11/30/opec-agrees-to-cut-oil-production-by-1-2-million-barrels-a-day-key-non-opec-producers-most-notably-russia-have-also-agreed-to-cut-their-pro.md)
-_Context: OPEC, Russia_
+_Context: OPEC, the Russian Federation_
 
 ### [The Financial Industry Regulatory Authority announces it has fined Bank of America Merrill Lynch $7 million for failure to supervise the use of leverage in its brokerage accounts, especially in connection with Puerto Rico municipal bonds. ](/news/2016/11/30/the-financial-industry-regulatory-authority-announces-it-has-fined-bank-of-america-merrill-lynch-7-million-for-failure-to-supervise-the-use.md)
 The Financial Industry Regulatory Authority said on Wednesday it fined Bank of America (BAC.N) Merrill Lynch $7 million for inadequate supervision of client brokerage accounts that used leverage to buy Puerto Rican municipal bonds and other securities.

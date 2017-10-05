@@ -25,7 +25,7 @@ A mosque under refurbishment collapses during Friday prayers in the Somali capit
 The man died from internal bleeding resulting from a rare immune reaction to his Zika infection.
 
 ### [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md)
-_Context: Air Force, Baltics, Lithuania, Lithuania-United States relations, Russia, Ukraine, most advanced fighter jets_
+_Context: Air Force, Baltics, Lithuania, Lithuania-United States relations, Ukraine, most advanced fighter jets, the Russian Federation_
 
 ### [Australia commemorates the one-year anniversary of the execution of the ringleaders the Bali Nine. ](/news/2016/04/29/australia-commemorates-the-one-year-anniversary-of-the-execution-of-the-ringleaders-the-bali-nine.md)
 A long-term guard and former inmates of Kerobokan speak of their loss, one year on from the executions of Bali Nine ringleaders Myuran Sukumaran and Andrew Chan.

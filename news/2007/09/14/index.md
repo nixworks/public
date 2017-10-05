@@ -1,7 +1,7 @@
 ## [2007-09-14](/news/2007/09/14/index.md)
 
 ### [ Finland scrambles a jet fighter to intercept a Russian aircraft. (Wikinews)](/news/2007/09/14/finland-scrambles-a-jet-fighter-to-intercept-a-russian-aircraft-wikinews.md)
-_Context: (Wikinews), Finland, Russia_
+_Context: (Wikinews), Finland, the Russian Federation_
 
 ### [ Chrysler recalls 300,000 sport utility vehicles to investigate braking problems while Honda recalls 180,000 Honda Civics from the 2006-07 season due to problems with a wheel-bearing seal. ](/news/2007/09/14/chrysler-recalls-300-000-sport-utility-vehicles-to-investigate-braking-problems-while-honda-recalls-180-000-honda-civics-from-the-2006a07.md)
 _Context: Chrysler, Honda Civic, Honda Motor Co., SUV, braking_
@@ -25,7 +25,7 @@ _Context: Benazir Bhutto, Pakistan Peoples Party_
 A chief provider and curator of Catholic information on the web since 1996. Our editorial voice, always faithful to the teachings of the Church, assists and inspires Catholic clergy and laity.
 
 ### [ The Russian State Duma confirms Viktor Zubkov as new Prime Minister of Russia. ](/news/2007/09/14/the-russian-state-duma-confirms-viktor-zubkov-as-new-prime-minister-of-russia.md)
-_Context: Prime Minister of Russia, Russia, State Duma, Viktor Zubkov_
+_Context: Prime Minister of Russia, State Duma, Viktor Zubkov, the Russian Federation_
 
 ### [ Oscar Temaru is elected as the President of French Polynesia by the Parliament for the third time in three years. ](/news/2007/09/14/oscar-temaru-is-elected-as-the-president-of-french-polynesia-by-the-parliament-for-the-third-time-in-three-years.md)
 _Context: French Polynesia, Oscar Temaru_

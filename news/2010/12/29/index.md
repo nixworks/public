@@ -25,7 +25,7 @@ _Context: Beijing, China, minimum wage reform_
 _Context: South China Sea, Vietnam_
 
 ### [An Antonov An-22 cargo plane crashes during training in Russia's Tula region, killing 12 crew. ](/news/2010/12/29/an-antonov-an-22-cargo-plane-crashes-during-training-in-russia-s-tula-region-killing-12-crew.md)
-_Context: Antonov An-22, Russia, Tula region_
+_Context: Antonov An-22, Tula region, the Russian Federation_
 
 ### [A proposed draft resolution calling on the United Nations Security Council to criticise the construction of settlements by Israel is obtained by the Associated Press. ](/news/2010/12/29/a-proposed-draft-resolution-calling-on-the-united-nations-security-council-to-criticise-the-construction-of-settlements-by-israel-is-obtaine.md)
 Proposed draft resolution calls on Security Council to condemn Israeli settlements after impasse over US-brokered talks.
@@ -34,7 +34,7 @@ Proposed draft resolution calls on Security Council to condemn Israeli settlemen
 A letter published by a group of rabbis in Israel has sparked calls for their dismissal.
 
 ### [The United States revokes the visa for Bernardo Alvarez Herrera, the Venezuelan ambassador to the country. ](/news/2010/12/29/the-united-states-revokes-the-visa-for-bernardo-alvarez-herrera-the-venezuelan-ambassador-to-the-country.md)
-_Context: Americans, Bernardo Alvarez Herrera, visa-free travel_
+_Context: Bernardo Alvarez Herrera, United States, visa-free travel_
 
 ### [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md)
 _Context: Africa, Cote d'Ivoire, Laurent Gbagbo, President_

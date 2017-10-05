@@ -4,7 +4,7 @@
 Senator John McCain sought to move from a convention marked by an effort to reassure the party base to an appeal to a broader electorate.
 
 ### [ Former United States political lobbyist Jack Abramoff is sentenced to four years in prison for his role in the Jack Abramoff scandals. ](/news/2008/09/4/former-united-states-political-lobbyist-jack-abramoff-is-sentenced-to-four-years-in-prison-for-his-role-in-the-jack-abramoff-scandals.md)
-_Context: Americans, Jack Abramoff, Jack Abramoff scandals, lobbyist_
+_Context: Jack Abramoff, Jack Abramoff scandals, United States, lobbyist_
 
 ### [ The death toll from flooding in Haiti caused by Tropical Storm Hanna rises to 61. ](/news/2008/09/4/the-death-toll-from-flooding-in-haiti-caused-by-tropical-storm-hanna-rises-to-61.md)
 _Context: Haiti, Tropical Storm Hanna, flood_

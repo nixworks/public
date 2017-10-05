@@ -1,7 +1,7 @@
 ## [2008-03-12](/news/2008/03/12/index.md)
 
 ### [ The United States Environmental Protection Agency announces a major expansion of efforts to fight smog in cities and towns throughout the United States. ](/news/2008/03/12/the-united-states-environmental-protection-agency-announces-a-major-expansion-of-efforts-to-fight-smog-in-cities-and-towns-throughout-the-u.md)
-_Context: Americans, U.S. Environmental Protection Agency, smog_
+_Context: U.S. Environmental Protection Agency, United States, smog_
 
 ### [ The total amount of digital information is estimated at 281 exabytes in 2007, exceeding available data storage for the first time. ](/news/2008/03/12/the-total-amount-of-digital-information-is-estimated-at-281-exabytes-in-2007-exceeding-available-data-storage-for-the-first-time.md)
 _Context: data storage, digital information, exabyte_

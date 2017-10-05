@@ -28,7 +28,7 @@ _Context:  Christ Church Cathedral, Dublin, Laurence O'Toole, heart, saints, thi
 A lawyer, who two men are accused of trying to murder, as well as Celtic manager Neil Lennon, dies in Pakistan.
 
 ### [Voters in Russia go to the polls for a presidential election with Prime Minister Vladimir Putin claiming victory despite allegations of voter fraud. ](/news/2012/03/4/voters-in-russia-go-to-the-polls-for-a-presidential-election-with-prime-minister-vladimir-putin-claiming-victory-despite-allegations-of-vote.md)
-_Context: Prime Minister of Russia, Russia, Vladimir Putin, last week's election_
+_Context: Prime Minister of Russia, Vladimir Putin, last week's election, the Russian Federation_
 
 ### [Cardinal Keith O'Brien, the leader of the Catholic Church in Scotland and Britain's most senior Roman Catholic cleric, criticises government plans to allow Same-sex marriage in the United Kingdom. ](/news/2012/03/4/cardinal-keith-o-brien-the-leader-of-the-catholic-church-in-scotland-and-britain-s-most-senior-roman-catholic-cleric-criticises-government.md)
 _Context: Catholic Church in Scotland, Keith O'Brien, marriage_

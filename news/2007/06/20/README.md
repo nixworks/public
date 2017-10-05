@@ -1,7 +1,7 @@
 ## [2007-06-20](/news/2007/06/20/index.md)
 
 ### [ A fire in a Russian nursing home in Omsk kills at least ten people. ](/news/2007/06/20/a-fire-in-a-russian-nursing-home-in-omsk-kills-at-least-ten-people.md)
-_Context: Omsk, Russia, nursing home_
+_Context: Omsk, nursing home, the Russian Federation_
 
 ### [ The Special Court for Sierra Leone issues the first-ever guilty verdicts by an international court related to the military use of children. ](/news/2007/06/20/the-special-court-for-sierra-leone-issues-the-first-ever-guilty-verdicts-by-an-international-court-related-to-the-military-use-of-children.md)
 _Context: Special Court for Sierra Leone, child soldiers, international court_

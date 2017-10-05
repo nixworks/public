@@ -12,7 +12,7 @@ F. Sherwood Rowland, the Nobel prize-winning chemist who sounded the alarm on th
 
 ### Related:
 
-1. [The Nobel Prize committee will announce which scientist has won the Nobel Prize in Chemistry. ](/news/2017/10/4/the-nobel-prize-committee-will-announce-which-scientist-has-won-the-nobel-prize-in-chemistry.md) _Context: Nobel Prize in Chemistry_
+1. [The Nobel Prize committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-prize-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-fo.md) _Context: Nobel Prize in Chemistry_
 2. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: California_
 3. [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md) _Context: California_
 4. [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md) _Context: California_

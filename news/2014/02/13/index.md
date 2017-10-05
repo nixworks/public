@@ -7,7 +7,7 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 _Context: Karachi, Pakistani police, suicide bomb_
 
 ### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
-_Context: Americans_
+_Context: United States_
 
 ### [Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. ](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.md)
 _Context: David Beckham, Typhoon Haiyan (Yolanda), footballer_
@@ -22,7 +22,7 @@ _Context: Comcast, Time Warner Cable, United States dollars_
 The threat of deflation across the euro zone is more serious than the European Central Bank claims, as austerity imposed on peripheral economies is already pushing prices lower, a Reuters poll of forecasters found on Thursday.
 
 ### [Facebook users in the United States are now allowed to customize their gender. ](/news/2014/02/13/facebook-users-in-the-united-states-are-now-allowed-to-customize-their-gender.md)
-_Context: Americans, Facebook_
+_Context: Facebook, United States_
 
 ### [Thousands of homes in England remain without power following Wednesday's storms as the UK's Met Office forecasts fresh heavy rain and high winds for Friday. ](/news/2014/02/13/thousands-of-homes-in-england-remain-without-power-following-wednesday-s-storms-as-the-uk-s-met-office-forecasts-fresh-heavy-rain-and-high-w.md)
 _Context: Met Office, Winter storms_

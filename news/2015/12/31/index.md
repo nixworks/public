@@ -4,7 +4,7 @@
 Jan Bartunek and Philip Blenkinsop
 
 ### [Rochester, New York, police arrest 25-year-old Emanuel Lutchman who allegedly planned to attack a local bar with knives and machetes and a pressure cooker bomb to prove he was worthy of joining the Islamic State group. Rochester cancels New Year's Eve fireworks. ](/news/2015/12/31/rochester-new-york-police-arrest-25-year-old-emanuel-lutchman-who-allegedly-planned-to-attack-a-local-bar-with-knives-and-machetes-and-a-p.md)
-_Context: Islamic State, Rochester, New York, machete, pressure cooker bomb_
+_Context: ISIL, Rochester, New York, machete, pressure cooker bomb_
 
 ### [Record flooding along the Mississippi River and its tributaries that has closed major highways, forced evacuations, and overflowed levees, continues to threaten the Midwestern United States where at least 24 have died. The Mississippi is expected to crest in the next few days in Thebes, Illinois, at 47.5 feet, breaking the 1995 record by more than a foot and a half (46 cm). And now periods of below-freezing air will cause some flooded areas to turn icy. ](/news/2015/12/31/record-flooding-along-the-mississippi-river-and-its-tributaries-that-has-closed-major-highways-forced-evacuations-and-overflowed-levees-c.md)
 Record flooding from rain-swollen rivers has washed out hundreds of structures in Missouri, Illinois, Arkansas and eastern Oklahoma, forcing thousands to flee their homes, and 9.3 million Americans still face flood warnings.
@@ -16,7 +16,7 @@ Twenty-one passengers &mdash; including three children &mdash; on an Air Canada 
 _Context: The Address Downtown Dubai_
 
 ### [Russian President Vladimir Putin signs an amendment to Russia's law regarding the regulation of the use of weapons, giving the FSB the authority to use lethal force on crowds in order to "prevent acts of terrorism, rescue hostages, or repel attacks on public buildings." ](/news/2015/12/31/russian-president-vladimir-putin-signs-an-amendment-to-russia-s-law-regarding-the-regulation-of-the-use-of-weapons-giving-the-fsb-the-autho.md)
-_Context: Federal Security Service, Russia, Russian President, Vladimir Putin_
+_Context: Federal Security Service, Russian President, Vladimir Putin, the Russian Federation_
 
 ### [The Indonesian government plans an appeal to a South Sumatra court's rejection of a Rp 7.8 trillion (SGD 780 million) lawsuit against a pulp and paper company accused of contributing to the recurring Southeast Asian hazes, particularly the recent incident of hazes in 2015. ](/news/2015/12/31/the-indonesian-government-plans-an-appeal-to-a-south-sumatra-court-s-rejection-of-a-rp-7-8-trillion-sgd-780-million-lawsuit-against-a-pulp.md)
 The Indonesian government says it will appeal a court decision to reject a $565m (£381m) lawsuit against a plantation company accused of causing forest fires.

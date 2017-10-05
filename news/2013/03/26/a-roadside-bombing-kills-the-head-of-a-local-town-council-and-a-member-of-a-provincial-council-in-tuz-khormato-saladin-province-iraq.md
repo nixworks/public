@@ -15,7 +15,7 @@
 2. [A suicide bombing in the Iraqi town of Tuz Khormato kills at least eight policemen. ](/news/2013/07/28/a-suicide-bombing-in-the-iraqi-town-of-tuz-khormato-kills-at-least-eight-policemen.md) _Context: Iraq, Tuz Khormato_
 3. [A suicide bombing at a mosque in the Iraqi town of Tuz Khormato kills at least 23 people. ](/news/2013/01/23/a-suicide-bombing-at-a-mosque-in-the-iraqi-town-of-tuz-khormato-kills-at-least-23-people.md) _Context: Iraq, Tuz Khormato_
 4. [ Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md) _Context: Iraq, Tuz Khormato_
-5. [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md) _Context: Iraq_
+5. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: Iraq_
 
 ### Changes:
 

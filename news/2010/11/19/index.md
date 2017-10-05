@@ -4,7 +4,7 @@
 _Context: Ahlu Sunna Waljama'a, Al-Shabaab, Somalian_
 
 ### [A police officer dies in hospital after a suspected militant attack in Russia's North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russiaas-north-caucasus-republic-of-dagestan.md)
-_Context: Dagestan, North Caucasus, Russia_
+_Context: Dagestan, North Caucasus, the Russian Federation_
 
 ### [A US drone attack kills at least three suspected militants and destroys their vehicle in the North Waziristan district of Pakistan. ](/news/2010/11/19/a-us-drone-attack-kills-at-least-three-suspected-militants-and-destroys-their-vehicle-in-the-north-waziristan-district-of-pakistan.md)
 Islamabad, Nov 19 (IANS) At least three suspected militants were killed in a US drone strike Friday in Pakistans North Waziristan district along the Afghan...

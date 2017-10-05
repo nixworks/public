@@ -4,7 +4,7 @@
 _Context: China, Shenzhen_
 
 ### [ Ariel Sharon, the Prime Minister of Israel, was heckled and booed at a meeting to promote the planned Israeli withdrawal from the Gaza Strip by several U.S. Jews. ](/news/2005/05/22/ariel-sharon-the-prime-minister-of-israel-was-heckled-and-booed-at-a-meeting-to-promote-the-planned-israeli-withdrawal-from-the-gaza-stri.md)
-_Context: Americans, Ariel Sharon, Gaza, Israel, Israeli Prime Minister, Jew_
+_Context: Ariel Sharon, Gaza, Israel, Israeli Prime Minister, Jew, United States_
 
 ### [ Laura Bush, the First Lady of the United States, was heckled by both Israeli and Palestinian protesters as she visited the Wailing Wall and the outside of the Dome of the Rock. ](/news/2005/05/22/laura-bush-the-first-lady-of-the-united-states-was-heckled-by-both-israeli-and-palestinian-protesters-as-she-visited-the-wailing-wall-and.md)
 _Context: Dome of the Rock, First Lady, Israel, Laura Bush, Palestinian, Wailing Wall_

@@ -25,7 +25,7 @@ _Context: London City Airport, remediation_
 A train derailed in Cameroon on Friday reportedly killing more than 50 people and injuring over 500 who were on board.
 
 ### [A Mil Mi-8 helicopter crashes and leaves at least 19 dead and three others injured on the Yamal Peninsula in Russia's Extreme North. ](/news/2016/10/21/a-mil-mi-8-helicopter-crashes-and-leaves-at-least-19-dead-and-three-others-injured-on-the-yamal-peninsula-in-russia-s-extreme-north.md)
-_Context: Extreme North, Mil Mi-8, Russia, Yamal Peninsula_
+_Context: Extreme North, Mil Mi-8, Yamal Peninsula, the Russian Federation_
 
 ### [South Africa formally begins the process of withdrawing from the International Criminal Court amid a dispute over the country's refusal to arrest Sudanese President Omar al-Bashir at last year's African Union summit in Johannesburg. ](/news/2016/10/21/south-africa-formally-begins-the-process-of-withdrawing-from-the-international-criminal-court-amid-a-dispute-over-the-country-s-refusal-to-a.md)
 South Africa formally begins the process of withdrawing from the International Criminal Court, saying it did not want to help achieve &quot;regime change&quot;.

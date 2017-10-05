@@ -46,7 +46,7 @@ _Context: Angela Merkel, Chancellor, European migrant crisis, Germany_
 _Context: Austria, Iran, John Kerry, Saudi Arabia, Secretary of State, Syria, Syrian Civil War peace process, Turkey, United Nations, Vienna_
 
 ### [As a temporary security measure, effective Saturday, Russia bans incoming flights by Egypt's state-owned airline, EgyptAir, two weeks after an apparent terrorist bomb downed a Russian jet in the Sinai. ](/news/2015/11/13/as-a-temporary-security-measure-effective-saturday-russia-bans-incoming-flights-by-egypt-s-state-owned-airline-egyptair-two-weeks-after.md)
-_Context: Egypt, EgyptAir, Flight 9268, Russia, Sinai Peninsula_
+_Context: Egypt, EgyptAir, Flight 9268, Sinai Peninsula, the Russian Federation_
 
 ### [Police in the Dominican Republic raid a mansion owned by 30-year-old Francisco Flores de Freites, one of the two nephews of Venezuelan President Nicolas Maduro facing charges for allegedly trying to traffic 800 kg of cocaine into the U.S., and found more than 280 pounds of cocaine and 22 pounds of heroin hidden inside the nephew's posh Casa de Campo property and a 135-foot yacht named "The Kingdom" docked behind it. ](/news/2015/11/13/police-in-the-dominican-republic-raid-a-mansion-owned-by-30-year-old-francisco-flores-de-freites-one-of-the-two-nephews-of-venezuelan-presi.md)
 Police in the Dominican Republic raided a mansion owned by one of the two nephews of the Venezuelan President Nicolas Maduro.

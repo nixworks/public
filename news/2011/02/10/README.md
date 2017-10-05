@@ -19,7 +19,7 @@ _Context: Israel, Nablus_
 _Context: International Choir Festival, Vietnam_
 
 ### [Eight people are killed in a warehouse fire in Perm, Russia. ](/news/2011/02/10/eight-people-are-killed-in-a-warehouse-fire-in-perm-russia.md)
-_Context: Perm, Russia_
+_Context: Perm, the Russian Federation_
 
 ### [A Manx2 flight from Belfast to Cork crashes on landing, killing six and injuring at least another six. It is the deadliest in Irish aviation since 1968. ](/news/2011/02/10/a-manx2-flight-from-belfast-to-cork-crashes-on-landing-killing-six-and-injuring-at-least-another-six-it-is-the-deadliest-in-irish-aviation.md)
 Two Irish citizens, three British passport holders and a Spaniard have been killed and six others are injured after a commuter flight from Belfast crashed at Cork Airport this morning.

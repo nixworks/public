@@ -13,7 +13,7 @@ Zimbabwe President Robert Mugabe ordered the expulsion of eight foreign diamond 
 _Context: 2015-16 South Pacific cyclone season, Cyclone Winston, Fiji_
 
 ### [Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states-citing-the-open-skies-treaty.md)
-_Context: Americans, Open Skies Treaty, Russia-United States relations_
+_Context: Open Skies Treaty, Russia-United States relations, United States_
 
 ### [German Interior Minister Thomas de Maiziere strongly criticizes Austria's decision to put a daily cap on the number of refugees the country can accept. Austria has set a limit of dealing with 80 asylum applications a day, while letting thousands of others transit to Germany. Maiziere said this sends "the wrong signal" and is "unacceptable". ](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-strongly-criticizes-austria-s-decision-to-put-a-daily-cap-on-the-number-of-refugees-the-country.md)
 Austria&#x27;s decision to only accept 80 asylum seekers a day while letting thousands of others transit through sends &quot;the wrong signal&quot; and is &quot;unacceptable&quot;, German Interior Minister Thomas de Maiziere said Sunday. Berlin fears many of these migrants are heading straight for G...

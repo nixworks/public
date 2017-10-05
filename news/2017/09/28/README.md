@@ -4,7 +4,7 @@
 The extremist group released what it said was a new recording of its leader, Abu Bakr Baghdadi, a move apparently intended to counter rumors of his death and rally followers after battlefield losses.
 
 ### [Whole Foods Market, recently acquired by Amazon, announces hacking of payment card information from some of its stores. ](/news/2017/09/28/whole-foods-market-recently-acquired-by-amazon-announces-hacking-of-payment-card-information-from-some-of-its-stores.md)
-_Context: Amazon, Credit card fraud, Whole Foods Market, hacking_
+_Context: Amazon, Credit card fraud, Cybercrime, Whole Foods Market_
 
 ### [U.S. President Donald Trump waives the Jones Act for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. ](/news/2017/09/28/u-s-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-industry-business.md)
 The Jones Act was waived for Texas and Florida in the wake of hurricanes Harvey and Irma.

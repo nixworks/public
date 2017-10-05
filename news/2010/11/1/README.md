@@ -19,7 +19,7 @@ BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic ch
 _Context: India, Kashmir Valley, Kulgam, Kupwara, Lashkar-e-Toiba_
 
 ### [A United States drone attack kills six people in northwest Pakistan. ](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in-northwest-pakistan.md)
-_Context: Americans, Pakistan, drone aircraft, drones launch_
+_Context: Pakistan, United States, drone aircraft, drones launch_
 
 ### [A suicide bomber kills two Pakistani policemen and wounds 10 others as security forces try to stop him from walking into their local headquarters in Swabi, 100 kilometres northwest of Islamabad. ](/news/2010/11/1/a-suicide-bomber-kills-two-pakistani-policemen-and-wounds-10-others-as-security-forces-try-to-stop-him-from-walking-into-their-local-headqua.md)
 _Context: Islamabad, Pakistan, Swabi_
@@ -49,7 +49,7 @@ _Context: Andhra Pradesh, Elamanchili, India, Nakapalli, Payakaraopeta, Rambilli
 _Context: Schmalkalden_
 
 ### [The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-kuril-islands-disput.md)
-_Context: Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, Russia, Russian President, rival territorial claims_
+_Context: Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, Russian President, rival territorial claims, the Russian Federation_
 
 ### [Three suspected ivory poachers are shot dead by rangers in Kenya in separate incidents. ](/news/2010/11/1/three-suspected-ivory-poachers-are-shot-dead-by-rangers-in-kenya-in-separate-incidents.md)
 _Context: Kenya, poachers_

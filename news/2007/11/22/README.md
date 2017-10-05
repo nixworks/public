@@ -13,7 +13,7 @@ _Context: Argentina, Brigadier General, Defense Minister, Nilda Garr, Osvaldo Mo
 _Context: LTTE, Sri Lanka, Tamils Rehabilitation Organisation_
 
 ### [ A bomb attack on a bus kills five people and hurts 12 in the Russian republic of North Ossetia-Alania. ](/news/2007/11/22/a-bomb-attack-on-a-bus-kills-five-people-and-hurts-12-in-the-russian-republic-of-north-ossetia-alania.md)
-_Context: North Ossetia, Russia, bomb, bus_
+_Context: North Ossetia, bomb, bus, the Russian Federation_
 
 ### [ England football coach Steve McClaren and his deputy Terry Venables are sacked after England lose 3-2 to Croatia at Wembley Stadium. ](/news/2007/11/22/england-football-coach-steve-mcclaren-and-his-deputy-terry-venables-are-sacked-after-england-lose-3-2-to-croatia-at-wembley-stadium.md)
 _Context: Croatia, England, Steve McClaren, Terry Venables, Wembley Stadium_
@@ -37,7 +37,7 @@ _Context: Hawr Rajab, Hawr Rajab Awakening Council, Iraq, al-Qaeda, militant, so
 _Context: Bangladesh, aid agencies, cyclone Sidr_
 
 ### [ Farid Babayev, a Russian politician with the Yabloko party, is shot and seriously wounded in Makhachkala, Dagestan. ](/news/2007/11/22/farid-babayev-a-russian-politician-with-the-yabloko-party-is-shot-and-seriously-wounded-in-makhachkala-dagestan.md)
-_Context: Dagestan, Farid Babayev, Makhachkala, Russia, Yabloko, politician_
+_Context: Dagestan, Farid Babayev, Makhachkala, Yabloko, politician, the Russian Federation_
 
 ### [ Nur Hassan Hussein, head of the Somali Red Crescent and former policeman, is named the new Prime Minister of Somalia. ](/news/2007/11/22/nur-hassan-hussein-head-of-the-somali-red-crescent-and-former-policeman-is-named-the-new-prime-minister-of-somalia.md)
 _Context: Nur Hassan Hussein, Prime Minister of Somalia, Red Crescent, Somalian, policeman_

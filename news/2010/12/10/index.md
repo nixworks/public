@@ -58,7 +58,7 @@ Hundreds protest against the arrest of Julian Assange and accuse the Australian 
 As of today Taca Peru will depart from Lima every Monday, Wednesday, Friday and Sunday at 7:50 pm and depart from Arequipa the same days at 10:00 pm.
 
 ### [Russian President Dmitry Medvedev is to seek a second term, according to aide Arkady Dvorkovich. ](/news/2010/12/10/russian-president-dmitry-medvedev-is-to-seek-a-second-term-according-to-aide-arkady-dvorkovich.md)
-_Context: Arkady Dvorkovich, Dmitry Medvedev, Russia_
+_Context: Arkady Dvorkovich, Dmitry Medvedev, the Russian Federation_
 
 ### [A school in Dublin threatens to expel a student who led a protest march against education cuts outlined by the Irish government. ](/news/2010/12/10/a-school-in-dublin-threatens-to-expel-a-student-who-led-a-protest-march-against-education-cuts-outlined-by-the-irish-government.md)
 A Leaving Cert student who organised a protest march against budget cuts in education is facing expulsion from his Dublin school.

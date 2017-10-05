@@ -31,7 +31,7 @@ _Context: Kenya, Nairobi_
 Hundreds of Vietnamese turn out in Hanoi and Ho Chi Minh City to protest against Chinese naval operations in the disputed South China Sea.
 
 ### [Voters in Portugal go to the polls for the Portuguese legislative election after months of a caretaker government and financial problems that led to a request for an international bailout - the opposition Social Democrats led by Pedro Passos Coelho won. ](/news/2011/06/5/voters-in-portugal-go-to-the-polls-for-the-portuguese-legislative-election-after-months-of-a-caretaker-government-and-financial-problems-tha.md)
-_Context: PSD, Pedro Passos Coelho, Portugal, Portuguese legislative election, international bailout_
+_Context: Pedro Passos Coelho, Portugal, Portuguese legislative election, Social Democratic Party, international bailout_
 
 ### [Voters in the Republic of Macedonia go to the polls for parliamentary elections. ](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.md)
 _Context: Macedonian, parliamentary elections_

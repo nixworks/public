@@ -37,7 +37,7 @@ _Context: Pacific island, Samoa, Tokelau, international date line, time zone_
 _Context: Kim Jong-il, Kim Jong-un, North Korea, leader, state funeral_
 
 ### [Around 500 people protest in the Russian capital Moscow against the detention of opposition leader Sergei Udaltsov. ](/news/2011/12/29/around-500-people-protest-in-the-russian-capital-moscow-against-the-detention-of-opposition-leader-sergei-udaltsov.md)
-_Context: Moscow, Russia, Sergei Udaltsov_
+_Context: Moscow, Sergei Udaltsov, the Russian Federation_
 
 ### [General elections take place in Jamaica, with preliminary results showing the Opposition People's National Party led by Portia Simpson Miller in a winning position. ](/news/2011/12/29/general-elections-take-place-in-jamaica-with-preliminary-results-showing-the-opposition-people-s-national-party-led-by-portia-simpson-mille.md)
 Jamaicans head to the polls on the tourism-dependent Caribbean island today, with their young prime minister&#39;s job on the line.

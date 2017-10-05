@@ -13,7 +13,7 @@ _Context: Israeli cabinet, Yisrael Beitenu_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Saddam Hussein's chief lawyer, Khalil al-Duleimi, walks out of court after 12 of his requests were rejected, but the chief judge immediately appoints other attorneys to defend the deposed President of Iraq. ](/news/2006/10/30/saddam-hussein-s-chief-lawyer-khalil-al-duleimi-walks-out-of-court-after-12-of-his-requests-were-rejected-but-the-chief-judge-immediatel.md)
-_Context: Khalil al-Duleimi, President, Saddam Hussein_
+_Context: Khalil al-Duleimi, President of Iraq, Saddam Hussein_
 
 ### [ Specialist Ahmed Qusai al-Taayie, an Iraqi American United States Army soldier currently listed as missing in action in Iraq, is reported to have married an Iraqi citizen, against U.S. military regulations. ](/news/2006/10/30/specialist-ahmed-qusai-al-taayie-an-iraqi-american-united-states-army-soldier-currently-listed-as-missing-in-action-in-iraq-is-reported-t.md)
 A U.S. Army translator missing after being kidnapped in Iraq had broken military rules to marry an Iraqi woman and was visiting her when he was abducted, according to people who claim to be relatives of the wife.

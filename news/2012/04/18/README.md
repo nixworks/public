@@ -7,7 +7,7 @@ Thousands march outside Manama while police use sound bombs to disperse a smalle
 A museum in Italy has started burning its artworks in protest at budget cuts which it says have left cultural institutions out of pocket.
 
 ### [American television personality and producer Dick Clark dies of a heart attack at the age of 82. ](/news/2012/04/18/american-television-personality-and-producer-dick-clark-dies-of-a-heart-attack-at-the-age-of-82.md)
-_Context: Americans, Dick Clark_
+_Context: Dick Clark, United States_
 
 ### [In the U.S., the Commodity Futures Trading Commission and the Securities and Exchange Commission finalize joint rules that will limit which firms must register with either or both of those agencies as "swap dealers." ](/news/2012/04/18/in-the-u-s-the-commodity-futures-trading-commission-and-the-securities-and-exchange-commission-finalize-joint-rules-that-will-limit-which.md)
 U.S. regulators limited the number of market players that will be slapped with a pricey &quot;swap dealer&quot; tag, heeding warnings by swap users about getting too tough but dismaying advocates of greater oversight.

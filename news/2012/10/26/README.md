@@ -16,7 +16,7 @@ _Context: Javier Maras, Los enamoramientos, National Novel Prize_
 The Chinese government began blocking access to The Times after publication of an article describing the wealth accumulated by relatives of Prime Minister Wen Jiabao.
 
 ### [Russian leftist protest leader Sergei Udaltsov is charged with plotting "mass disorder" and could face a 10 year prison sentence if convicted. ](/news/2012/10/26/russian-leftist-protest-leader-sergei-udaltsov-is-charged-with-plotting-mass-disorder-and-could-face-a-10-year-prison-sentence-if-convicte.md)
-_Context: Russia, Sergei Udaltsov_
+_Context: Sergei Udaltsov, the Russian Federation_
 
 ### [Former Italian Prime Minister Silvio Berlusconi is sentenced to four years imprisonment for fiscal fraud. ](/news/2012/10/26/former-italian-prime-minister-silvio-berlusconi-is-sentenced-to-four-years-imprisonment-for-fiscal-fraud.md)
 _Context: Italy, Silvio Berlusconi_

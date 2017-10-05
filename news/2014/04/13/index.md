@@ -7,7 +7,7 @@ _Context: Taliban_
 Ukraine has given pro-Russian separatists a Monday morning deadline to disarm or face a &quot;full-scale anti-terrorist operation&quot; by its armed forces, raising the risk of a military confrontation with Moscow.
 
 ### [A suicide truck bomber detonates at a police station in Kirkuk Governorate, Iraq killing eight policemen. ](/news/2014/04/13/a-suicide-truck-bomber-detonates-at-a-police-station-in-kirkuk-governorate-iraq-killing-eight-policemen.md)
-_Context: Iraq, Kirkuk province_
+_Context: Iraq, Kirkuk Governorate_
 
 ### [A bus en route from Villahermosa to Mexico City crashes into a tractor-trailer and catches fire, killing at least 36 people. ](/news/2014/04/13/a-bus-en-route-from-villahermosa-to-mexico-city-crashes-into-a-tractor-trailer-and-catches-fire-killing-at-least-36-people.md)
 _Context: Mexico City, Villahermosa, crashes_

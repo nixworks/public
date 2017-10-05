@@ -10,7 +10,7 @@ _Context: China, Kidnap, Kordofan, Sudan_
 President Bush and European leaders agreed to take steps toward a series of international meetings to address the economic crisis, the White House said.
 
 ### [ Russia reports that two soldiers were killed and seven were wounded in an ambush by local Muslim separatists in Ingushetia. Other reports suggested as many as 40 Russian troops were killed. ](/news/2008/10/18/russia-reports-that-two-soldiers-were-killed-and-seven-were-wounded-in-an-ambush-by-local-muslim-separatists-in-ingushetia-other-reports-s.md)
-_Context: Ingushetia, Muslim, Russia_
+_Context: Ingushetia, Muslim, the Russian Federation_
 
 ### [ Modern techniques reveal several amino acids in vials left from the 1953 Miller-Urey experiment in addition to those that were detected by Stanley Miller. ](/news/2008/10/18/modern-techniques-reveal-several-amino-acids-in-vials-left-from-the-1953-miller-urey-experiment-in-addition-to-those-that-were-detected-by.md)
 _Context: 1953, Miller-Urey experiment, Stanley Miller, amino acid_

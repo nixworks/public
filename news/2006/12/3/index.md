@@ -19,7 +19,7 @@ _Context: Madagascar, Marc Ravalomanana, President of Madagascar, holds an elect
 _Context: Junior Eurovision Song Contest 2006, Russia_
 
 ### [ Russia wins the 2006 Davis Cup after a 3-2 victory over Argentina ](/news/2006/12/3/russia-wins-the-2006-davis-cup-after-a-3-2-victory-over-argentina.md)
-_Context: 2006 Davis Cup, Argentina, Russia_
+_Context: 2006 Davis Cup, Argentina, the Russian Federation_
 
 ## [Previous Day...](/news/2006/12/2/index.md)
 

@@ -31,7 +31,7 @@ Move comes as Turkey says it should not be expected to become a &lsquo;concentra
 aval warships, aircraft carriers and submarines from the U.S.
 
 ### [South Ossetian President Leonid Tibilov announces South Ossetia intends on holding a referendum on joining the Russian Federation. Tibilov said reuniting with Russia "is a century-long dream of the South Ossetian people". ](/news/2015/10/19/south-ossetian-president-leonid-tibilov-announces-south-ossetia-intends-on-holding-a-referendum-on-joining-the-russian-federation-tibilov-s.md)
-_Context: Leonid Tibilov, Russia, South Ossetia_
+_Context: Leonid Tibilov, South Ossetia, the Russian Federation_
 
 ### [Spencer Stone, primarily responsible for thwarting an August terrorist attack on a train en route to Paris from Amsterdam and later stabbed in downtown Sacramento has undergone open heart surgery. The wounds from the most recent altercation were more serious than previously reported. ](/news/2015/10/19/spencer-stone-primarily-responsible-for-thwarting-an-august-terrorist-attack-on-a-train-en-route-to-paris-from-amsterdam-and-later-stabbed.md)
 Airman 1st Class Spencer Stone’s wounds were much more serious than previously reported, according to an online campaign seeking to raise money for his family.“He was stabbed 4 times,” according to a gofundme account established on Thursday.

@@ -10,7 +10,7 @@ _Context: Afghan police, Helmand Province, Taliban, War in Afghanistan (2015-pre
 Two police officers were killed on May 30 in an outlawed Kurdistan Workers’ Party (PKK) bomb attack in the İpekyolu district of the eastern province of Van
 
 ### [Three Ukrainian Army soldiers are killed and eight more are injured around separatist-controlled Donetsk and government-controlled Mariupol by Russian-backed separatists. ](/news/2016/05/30/three-ukrainian-army-soldiers-are-killed-and-eight-more-are-injured-around-separatist-controlled-donetsk-and-government-controlled-mariupol.md)
-_Context: Donetsk, Mariupol, Russia, Ukrainian Army, War in Donbass_
+_Context: Donetsk, Mariupol, Ukrainian Army, War in Donbass, the Russian Federation_
 
 ### [The Bible Emoji, a new digital translation of all 66 books of the King James Version of the Bible which replaces some words with emojis, is announced by its anonymous creator. ](/news/2016/05/30/the-bible-emoji-a-new-digital-translation-of-all-66-books-of-the-king-james-version-of-the-bible-which-replaces-some-words-with-emojis-is.md)
 A new translation of the Bible updates the religious text with modern technology, replacing several words with emojis.

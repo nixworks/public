@@ -4,7 +4,7 @@
 MIDEAST-CRISIS/BAGHDAD (UPDATE 1):UPDATE 1-Wave of bombings in Baghdad kills 37 people
 
 ### [The Syrian Observatory for Human Rights estimates that ISIL kidnapped at least 150 people from Assyrian Christian villages in Syria in a series of February 23 raids. ](/news/2015/02/24/the-syrian-observatory-for-human-rights-estimates-that-isil-kidnapped-at-least-150-people-from-assyrian-christian-villages-in-syria-in-a-ser.md)
-_Context: Chaldean, Christian, Islamic State, Syria, Syrian Observatory for Human Rights_
+_Context: Chaldean, Christian, ISIL, Syria, Syrian Observatory for Human Rights_
 
 ### [The Congolese Army launches an offensive against FDLR rebels in South Kivu. ](/news/2015/02/24/the-congolese-army-launches-an-offensive-against-fdlr-rebels-in-south-kivu.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -52,7 +52,7 @@ _Context: Abd Rabbuh Mansur Hadi, Houthi, Yemeni Crisis (2011-present), Yemeni P
 Tory MP will resign from Commons at May election after quitting as head of parliamentary security committee over cash-for-access claims
 
 ### [U.S. Secretary of Veterans Affairs Robert A. McDonald admits that he lied when he claimed that he served in the U.S. Army Special Forces. ](/news/2015/02/24/u-s-secretary-of-veterans-affairs-robert-a-mcdonald-admits-that-he-lied-when-he-claimed-that-he-served-in-the-u-s-army-special-forces.md)
-_Context: Robert A. McDonald, U.S. Secretary of Veterans Affairs, U.S. special forces_
+_Context: Green Berets, Robert A. McDonald, U.S. Secretary of Veterans Affairs_
 
 ## [Previous Day...](/news/2015/02/23/index.md)
 

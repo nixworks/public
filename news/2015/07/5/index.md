@@ -28,7 +28,7 @@ Greeks have been voting today on whether or not to accept the proposals put to t
 Foreign ministry says Chinese tourists recently &quot;attacked and disturbed&quot; in Istanbul protests over treatment of Uighurs.
 
 ### [A Russian space capsule reaches the International Space Station allowing resupply of provisions after the crash of the SpaceX space capsule last week. ](/news/2015/07/5/a-russian-space-capsule-reaches-the-international-space-station-allowing-resupply-of-provisions-after-the-crash-of-the-spacex-space-capsule.md)
-_Context: International Space Station, Russia, SpaceX_
+_Context: International Space Station, SpaceX, the Russian Federation_
 
 ## [Previous Day...](/news/2015/07/4/index.md)
 

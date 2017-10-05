@@ -37,7 +37,7 @@ A secular blogger is hacked to death by suspected Islamists in Bangladesh, the t
 _Context: Madison Police Department, Madison, Wisconsin, Shooting of Tony Robinson_
 
 ### [Russia delays the return of three astronauts from the International Space Station due to a recent failure of a supply mission. ](/news/2015/05/12/russia-delays-the-return-of-three-astronauts-from-the-international-space-station-due-to-a-recent-failure-of-a-supply-mission.md)
-_Context: International Space Station, Russia_
+_Context: International Space Station, the Russian Federation_
 
 ## [Previous Day...](/news/2015/05/11/index.md)
 

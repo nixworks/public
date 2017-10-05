@@ -13,7 +13,7 @@ Suicide bomber explodes car bomb outside office in capital; Separate attack targ
 _Context: Afghanistan, United States military personnel_
 
 ### [Indonesia suspends imports of beef from the United States after a dairy cow with mad cow disease is discovered in California. ](/news/2012/04/26/indonesia-suspends-imports-of-beef-from-the-united-states-after-a-dairy-cow-with-mad-cow-disease-is-discovered-in-california.md)
-_Context: Americans, California, Indonesia, mad cow disease_
+_Context: California, Indonesia, United States, mad cow disease_
 
 ### [The Argentine Senate passes with an overwhelming majority a bill submitted by president Cristina Fernandez de Kirchner to nationalise 51% of YPF. ](/news/2012/04/26/the-argentine-senate-passes-with-an-overwhelming-majority-a-bill-submitted-by-president-cristina-ferna-ndez-de-kirchner-to-nationalise-51-o.md)
 * Polls show most Argentines favor the expropriation * Spain, in reprisal, halts imports of Argentine biodiesel (Recasts, adds context, bac

@@ -31,7 +31,7 @@ Men who become fathers later in life pass on more brand-new genetic mutations to
 _Context: FBI, Graham Spanier, Jerry Sandusky, Louis Freeh, Penn State child sex abuse scandal, Pennsylvania State University, awareness_
 
 ### [Russia becomes the 156th member of the World Trade Organization. Vanuatu becomes the 157th member. ](/news/2012/08/22/russia-becomes-the-156th-member-of-the-world-trade-organization-vanuatu-becomes-the-157th-member.md)
-_Context: Russia, Vanuatu, member, the World Trade Organization_
+_Context: Vanuatu, member, the Russian Federation, the World Trade Organization_
 
 ## [Previous Day...](/news/2012/08/21/index.md)
 

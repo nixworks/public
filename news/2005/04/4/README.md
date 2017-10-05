@@ -4,10 +4,10 @@
 _Context: Israel, Palestinian, West Bank_
 
 ### [ A UNDP report, the third Arab Human Development Report criticizes the United States for their actions in the Middle East, particularly in Iraq. ](/news/2005/04/4/a-undp-report-the-third-arab-human-development-report-criticizes-the-united-states-for-their-actions-in-the-middle-east-particularly-in-i.md)
-_Context: Americans, Arab Human Development Report, Iraq, Middle East, UNDP_
+_Context: Arab Human Development Report, Iraq, Middle East, UNDP, United States_
 
 ### [ The United States awards its highest military award, the Medal of Honor, to Paul Ray Smith, who was killed in fighting at the Baghdad airport in 2003. This is the first presentation of the award since 1993 and only the third since the Vietnam War. ](/news/2005/04/4/the-united-states-awards-its-highest-military-award-the-medal-of-honor-to-paul-ray-smith-who-was-killed-in-fighting-at-the-baghdad-airpo.md)
-_Context: 1993, Americans, Baghdad, Medal of Honor, Paul Ray Smith, Vietnam War_
+_Context: 1993, Baghdad, Medal of Honor, Paul Ray Smith, United States, Vietnam War_
 
 ### [ The Vatican announces that Pope John Paul II's funeral is to take place on the morning of April 8 and that he is to be buried in the crypt of Saint Peter in the Vatican. ](/news/2005/04/4/the-vatican-announces-that-pope-john-paul-ii-s-funeral-is-to-take-place-on-the-morning-of-april-8-and-that-he-is-to-be-buried-in-the-crypt.md)
 _Context: April 8, Holy See, Pope John Paul II, Saint Peter, Vatican, funeral of Pope John Paul II_

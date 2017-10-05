@@ -8,10 +8,10 @@ Islam Ahmadiyya Khilafat Centenary celebration&#39;s clip on CNN. Islam Ahmadiyy
 _Context: 2 June, 28 May, Argentina, export, farmer, federal government, grain_
 
 ### [ The Russian Constitutional Court meets in its first session since it relocated from Moscow to the historical building of the Governing Senate at the Decembrists Square in Saint Petersburg. ](/news/2008/05/27/the-russian-constitutional-court-meets-in-its-first-session-since-it-relocated-from-moscow-to-the-historical-building-of-the-governing-sena.md)
-_Context: Constitutional Court, Decembrists Square, Governing Senate, Moscow, Russia, Saint Petersburg_
+_Context: Constitutional Court, Decembrists Square, Governing Senate, Moscow, Saint Petersburg, the Russian Federation_
 
 ### [ The S&P-Case-Shiller index shows a record annual decline in United States house prices of 14.1%. ](/news/2008/05/27/the-s-p-case-shiller-index-shows-a-record-annual-decline-in-united-states-house-prices-of-14-1.md)
-_Context: Americans, Case-Shiller index, S&P_
+_Context: Case-Shiller index, S&P, United States_
 
 ### [ The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. ](/news/2008/05/27/the-state-peace-and-development-council-extends-aung-san-suu-kyi-s-house-arrest-by-one-year.md)
 _Context: Aung San Suu Kyi, State Peace and Development Council, house arrest_

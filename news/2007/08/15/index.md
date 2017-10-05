@@ -46,7 +46,7 @@ _Context: Kenya, Nairobi_
 _Context: Alexander Downer, Australia, India, nuclear scientist, uranium_
 
 ### [ Richard Boucher, the U.S. Assistant Secretary of State, arrives in Pakistan to meet foreign minister Khurshid Mahmud Kasuri and President Pervez Musharraf. ](/news/2007/08/15/richard-boucher-the-u-s-assistant-secretary-of-state-arrives-in-pakistan-to-meet-foreign-minister-khurshid-mahmud-kasuri-and-president-p.md)
-_Context: Americans, Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U.S. Assistant Secretary of State_
+_Context: Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U.S. Assistant Secretary of State, United States_
 
 ### [ Cristina Fernandez de Kirchner, Argentinian presidential candidate, presents Julio Cobos as her running mate. ](/news/2007/08/15/cristina-ferna-ndez-de-kirchner-argentinian-presidential-candidate-presents-julio-cobos-as-her-running-mate.md)
 _Context: Argentina, Argentine general election, 2007, Cristina Fernandez de Kirchner, Julio Cobos, running mate_
@@ -67,7 +67,7 @@ _Context: Germany, Kabul_
 _Context: Japan, Prime Minister of Japan, Shinzo Abe, World War II, Yasukuni Shrine_
 
 ### [ Government sources reveal that the Russian administration of Boris Yeltsin sent unofficial signals to Finland at the end of 1991 about returning Karelia to Finland. ](/news/2007/08/15/government-sources-reveal-that-the-russian-administration-of-boris-yeltsin-sent-unofficial-signals-to-finland-at-the-end-of-1991-about-retu.md)
-_Context: Boris Yeltsin, Finland, Karelia, Russia_
+_Context: Boris Yeltsin, Finland, Karelia, the Russian Federation_
 
 ### [ The Shanghai Cooperation Organisation invites Turkmenistan to its summit in Bishkek with a view to asking it to join. ](/news/2007/08/15/the-shanghai-cooperation-organisation-invites-turkmenistan-to-its-summit-in-bishkek-with-a-view-to-asking-it-to-join.md)
 _Context: Bishkek, Shanghai Cooperation Organisation, Turkmenistan_
@@ -91,7 +91,7 @@ Queen Elizabeth II and British Prime Minister Gordon Brown have congratulated In
 _Context: Bangladesh, President, Sheikh Mujibur Rahman, assassinating, independence war_
 
 ### [ The United States declares Iran's Islamic Revolutionary Guard Corps a "specially designated global terrorist," paving the way for increased financial pressure on Iran and its assets abroad. ](/news/2007/08/15/the-united-states-declares-iran-s-islamic-revolutionary-guard-corps-a-specially-designated-global-terrorist-paving-the-way-for-increased.md)
-_Context: Americans, Iran, Islamic Revolutionary Guard Corps_
+_Context: Iran, Islamic Revolutionary Guard Corps, United States_
 
 ## [Previous Day...](/news/2007/08/14/index.md)
 

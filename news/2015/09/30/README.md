@@ -40,7 +40,7 @@ U.N. members voted earlier this month to allow the Palestinian and Vatican flags
 _Context: Georgia, Kelly Gissendaner, Pope Francis_
 
 ### [Oklahoma Governor Mary Fallin issues a 37-day stay of Richard Glossip's execution that was scheduled for today to allow the American state time to address questions about chemicals and protocol. Pope Francis, who spent last week in the U.S., asked Archbishop Carlo Maria Vigano, the Apostolic Nuncio to the United States, to intercede with the governor and request she commute Glossip's sentence. ](/news/2015/09/30/oklahoma-governor-mary-fallin-issues-a-37-day-stay-of-richard-glossip-s-execution-that-was-scheduled-for-today-to-allow-the-american-state-t.md)
-_Context: Americans, Archbishop Carlo Maria Vigano, Mary Fallin, Pope Francis, Richard Glossip's, governor, stay, to the U.S._
+_Context: Archbishop Carlo Maria Vigano, Mary Fallin, Pope Francis, Richard Glossip's, United States, governor, stay, to the U.S._
 
 ### [Mexican authorities arrest American Paul Erven Jackson for kidnapping and torturing two women in Oregon after more than 24 years on the run. ](/news/2015/09/30/mexican-authorities-arrest-american-paul-erven-jackson-for-kidnapping-and-torturing-two-women-in-oregon-after-more-than-24-years-on-the-run.md)
 A man wanted on suspicion of kidnapping and torturing two women in Oregon is arrested in Mexico after more than two decades on the run.

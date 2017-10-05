@@ -19,7 +19,7 @@ The students refused to allow Anthony Lawlor into his own constituency office in
 _Context: Labor Party, Sydney, gay marriage_
 
 ### [Herman Cain announces that he will suspend his campaign for Republican nomination in the United States presidential election following a series of sexual harassment and other misconduct allegations. ](/news/2011/12/3/herman-cain-announces-that-he-will-suspend-his-campaign-for-republican-nomination-in-the-united-states-presidential-election-following-a-ser.md)
-_Context: Americans, Herman Cain, Republican, United States presidential election, 2012, his campaign, nomination, sexual harassment_
+_Context: Herman Cain, Republican, United States, United States presidential election, 2012, his campaign, nomination, sexual harassment_
 
 ## [Previous Day...](/news/2011/12/2/index.md)
 

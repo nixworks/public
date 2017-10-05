@@ -16,7 +16,7 @@ _Context: Yemen, al-Qaeda_
 _Context: EU, Shard London Bridge, United Kingdom, spire_
 
 ### [The United States' two acting unions, the Screen Actors Guild and American Federation of Television and Radio Artists, agree to merge forming the SAG-AFTRA. ](/news/2012/03/31/the-united-states-two-acting-unions-the-screen-actors-guild-and-american-federation-of-television-and-radio-artists-agree-to-merge-formin.md)
-_Context: American Federation of Television and Radio Artists, Americans, SAG-AFTRA, Screen Actors Guild_
+_Context: American Federation of Television and Radio Artists, SAG-AFTRA, Screen Actors Guild, United States_
 
 ### [In the Republic of Ireland government figures indicate less than half of the country's households have paid the household charge by today's deadline as thousands of people march on the governing Fine Gael party's annual conference at the Convention Centre Dublin. ](/news/2012/03/31/in-the-republic-of-ireland-government-figures-indicate-less-than-half-of-the-country-s-households-have-paid-the-household-charge-by-today-s.md)
 Thousands gathered outside the National Convention Centre, where Fine Gael&#8217;s Ard-Fheis is taking place this weekend.

@@ -5,7 +5,7 @@
 Ukraine suspends operations against pro-Russian militants occupying government offices in the east over Easter, but the stand-off remains.
 
 ### [A suspected meteorite explosion has been recorded over Murmansk, Russia. ](/news/2014/04/19/a-suspected-meteorite-explosion-has-been-recorded-over-murmansk-russia.md)
-_Context: Murmansk, Russia, meteorite_
+_Context: Murmansk, meteorite, the Russian Federation_
 
 ### [India is halfway through elections for 16th Lok Sabha in world's biggest election with an electorate of 815 million voters.](/news/2014/04/19/india-is-halfway-through-elections-for-16th-lok-sabha-in-world-s-biggest-election-with-an-electorate-of-815-million-voters.md)
 India called a quarter of its 815 million voters to polls on Thursday, the biggest day of its staggered election, in areas ranging from Himalayan passes to a southern IT hub and western sugarcane farms.

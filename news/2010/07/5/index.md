@@ -4,7 +4,7 @@
 The Tasmanian Aboriginal community are using National Aboriginal Islander Day Observance Committee (NAIDOC) Week to criticise the State Government for failing to recognise heritage values.
 
 ### [Imam Ahmad Afzali leaves the United States for Saudi Arabia, under plea deal in the case involving Najibullah Zazi's alleged plan to bomb the New York City subway. ](/news/2010/07/5/imam-ahmad-afzali-leaves-the-united-states-for-saudi-arabia-under-plea-deal-in-the-case-involving-najibullah-zazi-s-alleged-plan-to-bomb-th.md)
-_Context: Ahmad Afzali, Americans, Najibullah Zazi, Saudi Arabia, imam, subway_
+_Context: Ahmad Afzali, Najibullah Zazi, Saudi Arabia, United States, imam, subway_
 
 ### [Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capital-mogadis.md)
 _Context: AK-47s, AMISOM, African Union, Mogadishu, Somalian, high-powered rifles, hijab_

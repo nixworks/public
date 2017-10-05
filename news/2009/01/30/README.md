@@ -1,16 +1,16 @@
 ## [2009-01-30](/news/2009/01/30/index.md)
 
 ### [ The regional Court in Kurgan Oblast, Russia convicts the three prisoners, all born in 1990, of aggravated murder for strangling their cellmate, who had asked them to end his life in this fashion.](/news/2009/01/30/the-regional-court-in-kurgan-oblast-russia-convicts-the-three-prisoners-all-born-in-1990-of-aggravated-murder-for-strangling-their-cellm.md)
-_Context: Kurgan Oblast, Russia_
+_Context: Kurgan Oblast, the Russian Federation_
 
 ### [ Six people are killed when a Piper PA-34 Seneca crashes near Huntington, West Virginia, United States. ](/news/2009/01/30/six-people-are-killed-when-a-piper-pa-34-seneca-crashes-near-huntington-west-virginia-united-states.md)
 A small plane apparently low on fuel hit a power line and crashed into a wooded area near a West Virginia airport, killing all six people aboard, authorities said.
 
 ### [ The U.S. State Department will not renew security contractor Blackwater Worldwide's license when it expires in May 2009. ](/news/2009/01/30/the-u-s-state-department-will-not-renew-security-contractor-blackwater-worldwide-s-license-when-it-expires-in-may-2009.md)
-_Context: Americans, Blackwater Worldwide, Department of State, civilian contractor_
+_Context: Blackwater Worldwide, Department of State, United States, civilian contractor_
 
 ### [ Michael S. Steele becomes the U.S. Republican National Committee's first African-American chairman. ](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.md)
-_Context: African-American, Americans, Michael S. Steele, Republican National Committee, chairman, first_
+_Context: African-American, Michael S. Steele, Republican National Committee, United States, chairman, first_
 
 ### [ Somalia's Transitional Federal Government collapses after Al-Shabaab captures Baidoa. ](/news/2009/01/30/somalia-s-transitional-federal-government-collapses-after-al-shabaab-captures-baidoa.md)
 _Context: Al-Shabaab, Baidoa, Somalian, Transitional Federal Government_

@@ -64,7 +64,7 @@ An Indian guru shown on television fondling two women in bed last month was arre
 _Context: Arab, Syria_
 
 ### [U.S. pop singer Kelly Clarkson is criticised by anti-smoking groups in Indonesia and the United States for promoting cigarettes at an upcoming concert in Jakarta. ](/news/2010/04/21/u-s-pop-singer-kelly-clarkson-is-criticised-by-anti-smoking-groups-in-indonesia-and-the-united-states-for-promoting-cigarettes-at-an-upcomi.md)
-_Context: Americans, Indonesia, Jakarta, Kelly Clarkson_
+_Context: Indonesia, Jakarta, Kelly Clarkson, United States_
 
 ### [Five men accused of conspiring to extort GBP4.25 million for the safe return of "Madonna of the Yarnwinder", an oil painting by Leonardo da Vinci, are cleared. ](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-agbp4-25-million-for-the-safe-return-of-madonna-of-the-yarnwinder-an-oil-painting-by-leonardo-da.md)
 _Context: Leonardo da Vinci, Madonna of the Yarnwinder, oil painting_

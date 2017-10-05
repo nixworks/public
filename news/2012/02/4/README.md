@@ -28,7 +28,7 @@ _Context: Charlie White, Indiana, Secretary of State, voter fraud_
 _Context: China, Sichuan, Tibet_
 
 ### [2011-2012 Russian protests: Over 100,000 people protest for and against Russian Prime Minister Vladimir Putin in Moscow. ](/news/2012/02/4/2011a2012-russian-protests-over-100-000-people-protest-for-and-against-russian-prime-minister-vladimir-putin-in-moscow.md)
-_Context: Moscow, Russia, Vladimir Putin, rally_
+_Context: Moscow, Vladimir Putin, rally, the Russian Federation_
 
 ### [Julius Malema, formerly of the African National Congress Youth League, loses an appeal against a decision by South Africa's ruling African National Congress party to suspend him. ](/news/2012/02/4/julius-malema-formerly-of-the-african-national-congress-youth-league-loses-an-appeal-against-a-decision-by-south-africa-s-ruling-african-n.md)
 _Context: ANC Youth League, African National Congress, Julius Malema, South Africa_

@@ -7,7 +7,7 @@ A Jordanian policeman opens fire at a police training centre outside Amman, kill
 N&#x27;Djamena (AFP) - Chad&#x27;s government Monday decreed a state of emergency in the flashpoint Lake Chad region Monday, which also straddles Nigeria, Cameroon and Niger and is frequently targeted by Boko Haram Islamists. The announcement came as two female suicide bombers staged a fresh attack ...
 
 ### [Using social media, Russian investigative bloggers from the Conflict Intelligence Team photo-geolocate three Russian military personnel outside expected air support operations areas -- evidence of what the group says may be a broader Russian military role in Syria. ](/news/2015/11/9/using-social-media-russian-investigative-bloggers-from-the-conflict-intelligence-team-photo-geolocate-three-russian-military-personnel-outs.md)
-_Context: Russia, Russian military, Russian military intervention in the Syrian Civil War, Syria, Syrian Civil War, air support, blogger, photo-geolocate, social media_
+_Context: Russian military, Russian military intervention in the Syrian Civil War, Syria, Syrian Civil War, air support, blogger, photo-geolocate, social media, the Russian Federation_
 
 ### [In the U.S., after mounting criticism over his handling of racial issues, University of Missouri System president Tim Wolfe announces his resignation; the Board of Curators votes to accept his resignation. R. Bowen Loftin, chancellor of the flagship Columbia campus, announces he will step down from his post by the end of the year. ](/news/2015/11/9/in-the-u-s-after-mounting-criticism-over-his-handling-of-racial-issues-university-of-missouri-system-president-tim-wolfe-announces-his-re.md)
 University of Missouri system president Tim Wolfe resigned Monday amid student protests, and MU Chancellor R. Bowen Loftin announced he will transition to a new role at the end of this year.
@@ -40,7 +40,7 @@ The UVA frat that was a subject of a sensational article in Rolling Stone about 
 The 2-to-1 ruling from the New Orleans court sets stage for possible Supreme Court battle.
 
 ### [The Catalan Parliament passes a resolution calling for the Catalonian region to secede from Spain. Spanish prime minister Mariano Rajoy says his government will seek to invalidate the motion with an appeal to the Constitutional Court in the coming days. ](/news/2015/11/9/the-catalan-parliament-passes-a-resolution-calling-for-the-catalonian-region-to-secede-from-spain-spanish-prime-minister-mariano-rajoy-says.md)
-_Context: Catalonia, Constitutional Court of Spain, Mariano Rajoy, Parliament of Catalonia, Prime Minister, Spanish, secede_
+_Context: Catalonia, Constitutional Court of Spain, Mariano Rajoy, Parliament of Catalonia, Spanish, Spanish Prime Minister, secede_
 
 ### [Myanmar's ruling Union Solidarity and Development Party (USDP) concedes defeat in Sunday's first free nationwide election in a quarter of a century. Aung San Suu Kyi's National League for Democracy (NLD), which has won 49 of the first 54 declared seats for the 330-seat lower house, appears headed for a landslide victory that would ensure it forms the next government. ](/news/2015/11/9/myanmar-s-ruling-union-solidarity-and-development-party-usdp-concedes-defeat-in-sunday-s-first-free-nationwide-election-in-a-quarter-of-a.md)
 _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for Democracy, Union Solidarity and Development Party_

@@ -34,7 +34,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Russia, state prosecutors begin investigation for alleged fraud and abuse of official position against former prime minister Mikhail Kasyanov. He is potential future presidential candidate ](/news/2005/07/11/in-russia-state-prosecutors-begin-investigation-for-alleged-fraud-and-abuse-of-official-position-against-former-prime-minister-mikhail-kas.md)
-_Context: Mikhail Kasyanov, Russia, fraud_
+_Context: Mikhail Kasyanov, fraud, the Russian Federation_
 
 ### [ Sanjay Shah, man who has spent 13 months in Nairobi airport, goes through British citizenship ceremony ](/news/2005/07/11/sanjay-shah-man-who-has-spent-13-months-in-nairobi-airport-goes-through-british-citizenship-ceremony.md)
 _Context: Nairobi, Sanjay Shah_

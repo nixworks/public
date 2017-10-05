@@ -25,7 +25,7 @@ The death toll in the slaying of a family in Armenia blamed on a Russian soldier
 _Context: Orlando, Seminole County, Florida, Winter Springs High School, gang rape_
 
 ### [The city of Grozny in the Russian republic of Chechnya holds a protest with 60% of the population in attendance in opposition to the Charlie Hebdo cartoons. ](/news/2015/01/19/the-city-of-grozny-in-the-russian-republic-of-chechnya-holds-a-protest-with-60-of-the-population-in-attendance-in-opposition-to-the-charlie.md)
-_Context: Charlie Hebdo, Chechnya, Grozny, Russia_
+_Context: Charlie Hebdo, Chechnya, Grozny, the Russian Federation_
 
 ### [NASA releases new pictures from the Dawn spacecraft as it approaches from a distance of 238,000 miles of Ceres, the largest object in the asteroid belt between Mars and Jupiter. Dawn will go into orbit around the dwarf planet on March 6. ](/news/2015/01/19/nasa-releases-new-pictures-from-the-dawn-spacecraft-as-it-approaches-from-a-distance-of-238-000-miles-of-ceres-the-largest-object-in-the-as.md)
 _Context: ''Dawn'' spacecraft, Ceres, Jupiter, Mars, NASA, asteroid belt, dwarf planet_

@@ -22,7 +22,7 @@ Powerful blizzards have blasted across Canada&#039;s Atlantic coast as high wind
 VATICAN CITY -- Greeting a man he has called an “inspiration,” President Obama paid his first visit to Pope Francis on Thursday, opening a meeting the White House hopes will highlight the leaders’ shared views on economic inequality and poverty and perhaps drown out the president’s conflicts...
 
 ### [The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/the-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md)
-_Context: Crimea, General Assembly of the United Nations, Russia_
+_Context: Crimea, General Assembly of the United Nations, the Russian Federation_
 
 ### [As the scandal rages on, it emerges Martin Callinan, who resigned as Garda Commissioner this week, wished to withdraw his use of the word "disgusting" to describe the behaviour of whistleblowers but was prevented from doing so by officials in the Department of Justice. ](/news/2014/03/27/as-the-scandal-rages-on-it-emerges-martin-callinan-who-resigned-as-garda-commissioner-this-week-wished-to-withdraw-his-use-of-the-word-d.md)
 The former garda commissioner delayed withdrawing his use of the word &quot;disgusting&quot; to describe the behaviour of whistleblowers following advice from Department of Justice officials, according to sources.

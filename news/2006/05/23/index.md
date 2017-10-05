@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Hamas, Ibrahim Hamed, Israel, Ramallah_
 
 ### [ President of Mexico Vicente Fox begins a tour of the United States in Salt Lake City.](/news/2006/05/23/president-of-mexico-vicente-fox-begins-a-tour-of-the-united-states-in-salt-lake-city.md)
-_Context: Americans, President, Salt Lake City, Vicente Fox_
+_Context: President, Salt Lake City, United States, Vicente Fox_
 
 ## [Previous Day...](/news/2006/05/22/index.md)
 

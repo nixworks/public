@@ -31,13 +31,13 @@ WADAH KHANFAR, seated behind a vast desk and surrounded by TV screens, deep leat
 Floods and landslides in China triggered by days of heavy rain kill dozens of people and force more than a million from their homes.
 
 ### [An investigation by Russia's Interstate Aviation Committee into the fatal crash of RusAir Flight 9605 in June 2011 finds that the disaster, which killed 47 people, was caused by a combination of pilot error, an inadequate weather forecast and inadequate ground equipment. It is furthermore reported that the aircraft's navigator was intoxicated at the time of the crash.](/news/2011/09/20/an-investigation-by-russia-s-interstate-aviation-committee-into-the-fatal-crash-of-rusair-flight-9605-in-june-2011-finds-that-the-disaster.md)
-_Context: Interstate Aviation Committee, RusAir Flight 9605, Russia, alcohol poisoning_
+_Context: Interstate Aviation Committee, RusAir Flight 9605, alcohol poisoning, the Russian Federation_
 
 ### [The road to the Indian town of Mangan reopens after the 2011 Sikkim earthquake, with the death toll expected to rise as rescuers reach the worst affected areas. ](/news/2011/09/20/the-road-to-the-indian-town-of-mangan-reopens-after-the-2011-sikkim-earthquake-with-the-death-toll-expected-to-rise-as-rescuers-reach-the-w.md)
 Two days after the earthquake that hit Sikkim, the road connecting the worst affected town of Mangan was reopened on Tuesday.
 
 ### [The European Court of Human Rights rules that Russia did not abuse legal processes to destroy Yukos, once its largest oil company. ](/news/2011/09/20/the-european-court-of-human-rights-rules-that-russia-did-not-abuse-legal-processes-to-destroy-yukos-once-its-largest-oil-company.md)
-_Context: European Court of Human Rights, Russia, Yukos_
+_Context: European Court of Human Rights, Yukos, the Russian Federation_
 
 ### [2011 Atlantic hurricane season: Tropical Storm Ophelia forms in the central Atlantic Ocean, with no storm warnings currently in place. ](/news/2011/09/20/2011-atlantic-hurricane-season-tropical-storm-ophelia-forms-in-the-central-atlantic-ocean-with-no-storm-warnings-currently-in-place.md)
 Storm is too far away to be a threat to land for now

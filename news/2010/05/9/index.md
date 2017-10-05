@@ -13,10 +13,10 @@ _Context: 2009 L'Aquila earthquake, Italy, Sandro Bondi, minister of culture, wi
 An&#x20;earthquake&#x20;of&#x20;7.2&#x20;magnitude&#x20;on&#x20;the&#x20;Richter&#x20;scale&#x20;hit&#x20;the&#x20;northern&#x20;part&#x20;of&#x20;the&#x20;island&#x20;of&#x20;Sumatra,&#x20;raising&#x20;concerns&#x20;of&#x20;a&#x20;local&#x20;tsunami&#x20;threat.
 
 ### [A mine explosion in Mezhdurechensk (Kemerovo Oblast), Russia, kills at least 12 people and injures 24 others with 64 unaccounted for. ](/news/2010/05/9/a-mine-explosion-in-mezhdurechensk-kemerovo-oblast-russia-kills-at-least-12-people-and-injures-24-others-with-64-unaccounted-for.md)
-_Context: Mezhdurechensk, Russia_
+_Context: Mezhdurechensk, the Russian Federation_
 
 ### [U.S. missiles kill five people in North Waziristan, Pakistan. ](/news/2010/05/9/u-s-missiles-kill-five-people-in-north-waziristan-pakistan.md)
-_Context: Americans, North Waziristan, Pakistan_
+_Context: North Waziristan, Pakistan, United States_
 
 ### [A Chinese man is freed from prison after 10 years after the man he had been convicted of killing is found alive. ](/news/2010/05/9/a-chinese-man-is-freed-from-prison-after-10-years-after-the-man-he-had-been-convicted-of-killing-is-found-alive.md)
 A Chinese man who spent nearly 10 years in jail for murder has been cleared after the supposed victim reappeared alive and well.

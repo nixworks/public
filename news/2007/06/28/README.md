@@ -13,7 +13,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 _Context: Colombia, Colombian government, Revolutionary Armed Forces of Colombia, crossfire, guerilla, lawmakers, left-wing_
 
 ### [ Russia successfully test fires a sea-based ballistic missile, the Bulava. ](/news/2007/06/28/russia-successfully-test-fires-a-sea-based-ballistic-missile-the-bulava.md)
-_Context: Bulava, Russia, ballistic missile_
+_Context: Bulava, ballistic missile, the Russian Federation_
 
 ### [ A TAAG-Angola Airlines Boeing 737 crashes in northern Angola, resulting in the death of at least five passengers on the same day the European Union bans the airline from European airspace. ](/news/2007/06/28/a-taag-angola-airlines-boeing-737-crashes-in-northern-angola-resulting-in-the-death-of-at-least-five-passengers-on-the-same-day-the-europe.md)
 _Context: 737, Angola, EU, Europe, TAAG-Angola Airlines, commercial air traffic, international airspace_
@@ -25,7 +25,7 @@ _Context: bacteria, genetic material, synthetic life_
 _Context: Greek, Wildfire, heat stroke_
 
 ### [ A bill to legalize millions of illegal immigrants living in the United States is defeated in the United States Senate. ](/news/2007/06/28/a-bill-to-legalize-millions-of-illegal-immigrants-living-in-the-united-states-is-defeated-in-the-united-states-senate.md)
-_Context: Americans, United States Senate, illegal worker_
+_Context: United States, United States Senate, illegal worker_
 
 ### [ Former Libyan intelligence agent Abdelbaset al-Megrahi, convicted of the bombing of Pan Am Flight 103, wins a case for an appeal in the Scottish Criminal Cases Review Commission. ](/news/2007/06/28/former-libyan-intelligence-agent-abdelbaset-al-megrahi-convicted-of-the-bombing-of-pan-am-flight-103-wins-a-case-for-an-appeal-in-the-sco.md)
 _Context: Abdelbaset al-Megrahi, Libya, Lockerbie bombing, Scottish Criminal Cases Review Commission, appealed_

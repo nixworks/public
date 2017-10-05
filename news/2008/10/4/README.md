@@ -7,7 +7,7 @@ _Context: Mexico, Tijuana, anti-drug plan_
 _Context: Baghdad, Mahir al-Zubaydi, Tigris River, U.S., al-Qaeda in Iraq_
 
 ### [ Colonel Ivan Petrik, chief of staff of the Russian ground force in South Ossetia, is confirmed dead from wounds he suffered in the Friday blast in Tskhinvali.](/news/2008/10/4/colonel-ivan-petrik-chief-of-staff-of-the-russian-ground-force-in-south-ossetia-is-confirmed-dead-from-wounds-he-suffered-in-the-friday-b.md)
-_Context: Ivan Petrik, Russia, South Ossetia, Tskhinvali_
+_Context: Ivan Petrik, South Ossetia, Tskhinvali, the Russian Federation_
 
 ## [Previous Day...](/news/2008/10/3/index.md)
 

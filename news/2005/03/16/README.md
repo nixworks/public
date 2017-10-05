@@ -7,7 +7,7 @@ _Context: Israel, Jericho, Mahmoud Abbas, Palestinian Authority_
 _Context: Latvia, Riga, Waffen-SS_
 
 ### [ Russia announces that it will pay US$10 m to the people who betrayed Chechen separatist leader Aslan Maskhadov, who was killed by Russian special forces. ](/news/2005/03/16/russia-announces-that-it-will-pay-us-10-m-to-the-people-who-betrayed-chechen-separatist-leader-aslan-maskhadov-who-was-killed-by-russian-s.md)
-_Context: Aslan Maskhadov, Chechnya, Russia, US$_
+_Context: Aslan Maskhadov, Chechnya, US$, the Russian Federation_
 
 ### [ President of Bolivia Carlos Mesa has asked the country's congress to approve early elections in August to replace him to "prevent bloodbath". There are still widespread opposition protests against his economic policies. ](/news/2005/03/16/president-of-bolivia-carlos-mesa-has-asked-the-country-s-congress-to-approve-early-elections-in-august-to-replace-him-to-prevent-bloodbath.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
@@ -28,7 +28,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Ante Golovina, Croatia, EU, International Criminal Tribunal for the former Yugoslavia, Zagreb_
 
 ### [ A plane crash in Russia kills 28, some of them employees of Lukoil oil company. ](/news/2005/03/16/a-plane-crash-in-russia-kills-28-some-of-them-employees-of-lukoil-oil-company.md)
-_Context: Lukoil, Russia, plane crash_
+_Context: Lukoil, plane crash, the Russian Federation_
 
 ### [ Zambian government files corruption charges against ex-president Frederick Chiluba in a British High Court. He is accused of defrauding the state of the equivalent of US$35 million. ](/news/2005/03/16/zambian-government-files-corruption-charges-against-ex-president-frederick-chiluba-in-a-british-high-court-he-is-accused-of-defrauding-the.md)
 _Context: Frederick Chiluba, Zambia, anti-corruption_

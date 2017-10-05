@@ -10,7 +10,7 @@ _Context: Australia, Daily Telegraph, Sydney, child pornography, national postal
 _Context: Armin Meiwes, Bernd-Jrgen Brandes, Germany, Kassel, eat, penal code_
 
 ### [The Russian government backtracks on statements made the previous day on the Kyoto Protocol, saying it is still considering ratification. [http:--news.bbc.co.uk-2-hi-science-nature-3288683.stm]](/news/2003/12/3/the-russian-government-backtracks-on-statements-made-the-previous-day-on-the-kyoto-protocol-saying-it-is-still-considering-ratification-h.md)
-_Context: Kyoto Protocol, Russia, ratified_
+_Context: Kyoto Protocol, ratified, the Russian Federation_
 
 ### [Two media figures are sentenced to life imprisonment by the International Criminal Tribunal for Rwanda for fueling the 1994 Rwanda genocide; a third receives a 35-year prison term. ](/news/2003/12/3/two-media-figures-are-sentenced-to-life-imprisonment-by-the-international-criminal-tribunal-for-rwanda-for-fueling-the-1994-rwanda-genocide.md)
 _Context: International Criminal Tribunal for Rwanda, genocide, mass media_

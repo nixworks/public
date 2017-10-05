@@ -1,7 +1,7 @@
 ## [2005-12-21](/news/2005/12/21/index.md)
 
 ### [ The former President of Iraq, Saddam Hussein, claims in court that American officials tortured him. Part of his testimony is censored and the US strongly denies the accusations. ](/news/2005/12/21/the-former-president-of-iraq-saddam-hussein-claims-in-court-that-american-officials-tortured-him-part-of-his-testimony-is-censored-and-t.md)
-_Context: President, Saddam Hussein, torture_
+_Context: President of Iraq, Saddam Hussein, torture_
 
 ### [ In a 7-2 ruling, the Supreme Court of Canada rules that swingers clubs do not harm society and are legal as long as there is no exchange of money and the activities are conducted in private. ](/news/2005/12/21/in-a-7-2-ruling-the-supreme-court-of-canada-rules-that-swingers-clubs-do-not-harm-society-and-are-legal-as-long-as-there-is-no-exchange-of.md)
 _Context: Supreme Court of Canada, swingers clubs_

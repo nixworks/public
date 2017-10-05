@@ -43,7 +43,7 @@ The European Commission withdraws a video promoting EU enlargement after it was 
 R. Allen Stanford, a Texas financier, was found guilty on 13 out of 14 fraud counts in a scheme that lasted more than two decades.
 
 ### [Retired British businessman Christopher Tappin is denied bail in the US state of Texas as he faces arms dealing charges. ](/news/2012/03/6/retired-british-businessman-christopher-tappin-is-denied-bail-in-the-us-state-of-texas-as-he-faces-arms-dealing-charges.md)
-_Context: British people, Christopher Tappin, Texas_
+_Context: British, Christopher Tappin, Texas_
 
 ### [Japan's Securities and Exchange Surveillance Commission says that it will lodge criminal charges against Olympus Corporation as well as former advisers and executives over an accounting fraud. ](/news/2012/03/6/japan-s-securities-and-exchange-surveillance-commission-says-that-it-will-lodge-criminal-charges-against-olympus-corporation-as-well-as-form.md)
 _Context: Japan, Olympus Corp, Securities and Exchange Surveillance Commission_
@@ -70,7 +70,7 @@ Folks, our live coverage of state elections in Uttar Pradesh, Uttarakhand, Punja
 The head of the Pakistani Taliban has removed his deputy commander, the militant group confirms to the BBC, the latest sign of a growing power struggle.
 
 ### [The United States Congress votes to restore higher tariffs against the People's Republic of China and other nations that allegedly subsidize exports to the United States. ](/news/2012/03/6/the-united-states-congress-votes-to-restore-higher-tariffs-against-the-people-s-republic-of-china-and-other-nations-that-allegedly-subsidize.md)
-_Context: Americans, China, United States Congress, import tariffs_
+_Context: China, United States, United States Congress, import tariffs_
 
 ### [The Parliament of New South Wales officially appoints Bob Carr as a member of the Australian Senate filling a casual vacancy left by the resignation of Mark Arbib. ](/news/2012/03/6/the-parliament-of-new-south-wales-officially-appoints-bob-carr-as-a-member-of-the-australian-senate-filling-a-casual-vacancy-left-by-the-res.md)
 Despite earlier heckling from a protester, Bob Carr is officially endorsed by the NSW Parliament to fill the Senate vacancy left by Mark Arbib.

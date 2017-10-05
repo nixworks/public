@@ -7,7 +7,7 @@ _Context: India, Maoist, Munger, Naxalite_
 _Context: Pompeii, Roman_
 
 ### [Russia's Gazprom and Ukraine's Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md)
-_Context: Alexei Miller, Gazprom, Naftogaz Ukrainy, Russia, Ukraine, Ukrainian Fuel and Energy Minister, Yuri Boiko_
+_Context: Alexei Miller, Gazprom, Naftogaz Ukrainy, Ukraine, Ukrainian Fuel and Energy Minister, Yuri Boiko, the Russian Federation_
 
 ### [21 people are killed and several states declare a state of emergency after torrential rains in Venezuela. ](/news/2010/12/1/21-people-are-killed-and-several-states-declare-a-state-of-emergency-after-torrential-rains-in-venezuela.md)
 _Context: Venezuela, states of emergency_
@@ -19,7 +19,7 @@ _Context: Google, Google Earth, U.N. climate change talks, climate change, defor
 _Context: Kazakhstan, OSCE_
 
 ### [South Korea states that it will hold more military exercises with the United States following the conclusion of a naval exercise in the Yellow Sea, despite threats from North Korea. ](/news/2010/12/1/south-korea-states-that-it-will-hold-more-military-exercises-with-the-united-states-following-the-conclusion-of-a-naval-exercise-in-the-yell.md)
-_Context: Americans, North Korea, South Korea, Yellow Sea_
+_Context: North Korea, South Korea, United States, Yellow Sea_
 
 ### [Israel reveals plans to build 625 more homes in the Palestinian territories, close to East Jerusalem. ](/news/2010/12/1/israel-reveals-plans-to-build-625-more-homes-in-the-palestinian-territories-close-to-east-jerusalem.md)
 Israel on Wednesday revealed plans to build new homes on West Bank land it has annexed as part of its Jerusalem boundaries, a move likely to further hamper any resumption of peace talks with the Palestinians.

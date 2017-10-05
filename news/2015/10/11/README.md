@@ -7,7 +7,7 @@ An Arab Israeli stabbed four people near a bus stop in northern Israel on Sunday
 A suicide bomber targeted a foreign forces convoy in downtown Kabul during morning rush hour on Sunday, officials said, but there was no immediate confirmation of any casualties.
 
 ### [Following Russian airstrikes, the Syrian army and allied Lebanese Hezbollah militia take control of a highland area in Idlib province close to insurgent-held positions, according to the Syrian Observatory for Human Rights. ](/news/2015/10/11/following-russian-airstrikes-the-syrian-army-and-allied-lebanese-hezbollah-militia-take-control-of-a-highland-area-in-idlib-province-close.md)
-_Context: Hezbollah, Idlib, Lebanon, Russia, Russian military intervention in the Syrian Civil War, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Hezbollah, Idlib, Lebanon, Russian military intervention in the Syrian Civil War, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights, the Russian Federation_
 
 ### [At least eight people are killed following a suicide bomb attack in northern Cameroon's Sangueleri region near the Nigerian border. Boko Haram have previously carried out attacks in the region. ](/news/2015/10/11/at-least-eight-people-are-killed-following-a-suicide-bomb-attack-in-northern-cameroon-s-sangueleri-region-near-the-nigerian-border-boko-har.md)
 _Context: Boko Haram, Boko Haram insurgency in Cameroon, Cameroon, Far North Region, Nigeria, suicide bombing_
@@ -16,7 +16,7 @@ _Context: Boko Haram, Boko Haram insurgency in Cameroon, Cameroon, Far North Reg
 Turkish warplanes struck Kurdistan Workers Party (PKK) militant targets in northern Iraq and southeastern Turkey on Saturday and Sunday, pressing their military campaign a day after the rebel group ordered its fighters to halt attacks on Turkish soil.
 
 ### [Iraq's military reports bombing a convoy possibly carrying Islamic State of Iraq and the Levant leader, Abu Bakr al-Baghdadi. The group was headed to a meeting in the western Al Anbar Governorate, close to the Syrian border. Eight senior ISIS figures were killed, but al-Baghdadi did not appear to be among them according to Iraqi officials. ](/news/2015/10/11/iraq-s-military-reports-bombing-a-convoy-possibly-carrying-islamic-state-of-iraq-and-the-levant-leader-abu-bakr-al-baghdadi-the-group-was.md)
-_Context: Abu Bakr al-Baghdadi, Anbar province, Iraq, Iraqi Civil War (2014-present), Islamic State, Syria_
+_Context: Abu Bakr al-Baghdadi, Anbar province, ISIL, Iraq, Iraqi Civil War (2014-present), Syria_
 
 ### [An Arab coalition airstrike on a prison in Yemen's central Al Bayda Governorate, reportedly kills 20 prisoners. The prison which held more than 100 prisoners was controlled by the Houthis. ](/news/2015/10/11/an-arab-coalition-airstrike-on-a-prison-in-yemen-s-central-al-bayda-governorate-reportedly-kills-20-prisoners-the-prison-which-held-more-t.md)
 Sanaa, Oct 12 (IANS) At least 20 prisoners were killed when warplanes of the Saudi-led coalition bombed a prison in Yemen&#x27;s al-Bayda province on Sunday, medical sources and witnesses said. The prison which held more than 100 prisoners was controlled by the Shia Houthi group, the sources said, a...

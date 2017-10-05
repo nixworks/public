@@ -10,7 +10,7 @@ _Context: Abdullahi Yusuf Ahmed, President, Somalian, assassinated_
 _Context: Parliament, Treaty of Lisbon_
 
 ### [ The United States and China agree to negotiate an investment treaty and to cooperate more closely on energy security and global pollution. ](/news/2008/06/18/the-united-states-and-china-agree-to-negotiate-an-investment-treaty-and-to-cooperate-more-closely-on-energy-security-and-global-pollution.md)
-_Context: Americans, China, energy security_
+_Context: China, United States, energy security_
 
 ### [ The European Parliament passes legislation to allow undocumented aliens to be held in detention centres for up to 18 months and banned from European Union territory for five years. [http:--www.nytimes.com-2008-06-19-world-europe-19migrant.html "(The New York Times)"]](/news/2008/06/18/the-european-parliament-passes-legislation-to-allow-undocumented-aliens-to-be-held-in-detention-centres-for-up-to-18-months-and-banned-from.md)
 _Context: EU, European Parliament, detention facilities, illegal migrants_
@@ -22,7 +22,7 @@ _Context: Mexico_
 _Context: Abyei, Sudan_
 
 ### [ Russian prosecutors charge three men in the murder of journalist Anna Politkovskaya. ](/news/2008/06/18/russian-prosecutors-charge-three-men-in-the-murder-of-journalist-anna-politkovskaya.md)
-_Context: Anna Politkovskaya, Russia, murder_
+_Context: Anna Politkovskaya, murder, the Russian Federation_
 
 ### [ China and Japan agree to joint development of the Chunxiao gas field in a disputed area of the East China Sea. ](/news/2008/06/18/china-and-japan-agree-to-joint-development-of-the-chunxiao-gas-field-in-a-disputed-area-of-the-east-china-sea.md)
 _Context: China, Chunxiao gas field, East China Sea, Japan_
@@ -34,7 +34,7 @@ _Context: Dutchbat, Netherlands, Srebrenica massacre, United Nations_
 _Context: Banjara, Gujjar, Other Backward Class, Rabari, Rajasthan, reservations_
 
 ### [ American golfer Tiger Woods will miss the rest of the golf season to have additional surgery on his left knee. ](/news/2008/06/18/american-golfer-tiger-woods-will-miss-the-rest-of-the-golf-season-to-have-additional-surgery-on-his-left-knee.md)
-_Context: Americans, PGA Tour, Tiger Woods, golfer, knee, surgery_
+_Context: PGA Tour, Tiger Woods, United States, golfer, knee, surgery_
 
 ### [ Romanian villagers vote to re-elect a dead man as their mayor, to prevent his living rival winning. ](/news/2008/06/18/romanian-villagers-vote-to-re-elect-a-dead-man-as-their-mayor-to-prevent-his-living-rival-winning.md)
 _Context: Romania, mayor_

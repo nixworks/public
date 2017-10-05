@@ -1,7 +1,7 @@
 ## [2008-09-23](/news/2008/09/23/index.md)
 
 ### [ Pakistani soldiers and tribesmen reportedly shoot down a suspected U.S. military drone near the village of Jalal Khel in South Waziristan. The report comes a day after intelligence officers said two United States helicopters crossed a mile into Pakistan over North Waziristan, but flew off after Pakistani troops and tribesmen opened fire. ](/news/2008/09/23/pakistani-soldiers-and-tribesmen-reportedly-shoot-down-a-suspected-u-s-military-drone-near-the-village-of-jalal-khel-in-south-waziristan.md)
-_Context: Americans, North Waziristan, Pakistani, South Waziristan, helicopters_
+_Context: North Waziristan, Pakistani, South Waziristan, United States, helicopters_
 
 ### [ Government officials say that the Federal Bureau of Investigation is looking into possible fraud for mortgage financing companies Fannie Mae and Freddie Mac, Lehman Brothers, and insurer American International Group. ](/news/2008/09/23/government-officials-say-that-the-federal-bureau-of-investigation-is-looking-into-possible-fraud-for-mortgage-financing-companies-fannie-ma.md)
 _Context: AIG, FBI, Fannie Mae, Freddie Mac, Lehman Brothers, fraud_

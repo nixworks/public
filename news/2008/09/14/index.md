@@ -28,7 +28,7 @@ The acting prime minister of Thailand has lifted a state of emergency in the cap
 _Context: Alan Carpenter, Colin Barnett, Labor Party, Liberal Party, National Party of Western Australia, Premier, Western Australia, minority government_
 
 ### [ Boeing 737 Aeroflot Flight 821 crashes near the city of Perm in Russia, killing all 88 on board. The cause of the crash is attributed to engine failure. ](/news/2008/09/14/boeing-737-aeroflot-flight-821-crashes-near-the-city-of-perm-in-russia-killing-all-88-on-board-the-cause-of-the-crash-is-attributed-to-en.md)
-_Context: 737, Aeroflot Flight 821, Perm, Russia_
+_Context: 737, Aeroflot Flight 821, Perm, the Russian Federation_
 
 ### [ Brazil suffers severe natural gas shortages following the cut off of natural gas supplies from Bolivia, which provides half of Brazil's natural gas. ](/news/2008/09/14/brazil-suffers-severe-natural-gas-shortages-following-the-cut-off-of-natural-gas-supplies-from-bolivia-which-provides-half-of-brazil-s-nat.md)
 _Context: 2008 unrest in Bolivia, Brazil_

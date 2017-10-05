@@ -13,7 +13,7 @@ _Context: Leon, Mexico, Pakistan, World Karl Popper Debate Championships, Zainab
 More than 144 people have been killed as flash floods swept through parts of the Krasnodar region in southern Russia, officials say.
 
 ### [A bus crash in northeastern Ukraine kills at least 14 Russian pilgrims. ](/news/2012/07/7/a-bus-crash-in-northeastern-ukraine-kills-at-least-14-russian-pilgrims.md)
-_Context: Russia, Ukraine_
+_Context: Ukraine, the Russian Federation_
 
 ### [Up to 13 million in West Africa are at risk in a food crisis caused by a prolonged drought. ](/news/2012/07/7/up-to-13-million-in-west-africa-are-at-risk-in-a-food-crisis-caused-by-a-prolonged-drought.md)
 Cereal production has fallen by as much as 62 per cent in some countries. 
@@ -43,7 +43,7 @@ Saudi Arabia&#039;s Princess Sara bint Talal bin Abdulaziz is claiming political
 _Context: Hong Kong police, cocaine_
 
 ### [The lower house of parliament in Russia gives initial backing to a bill forcing internationally-funded non-governmental organisations to carry a "foreign agent" tag. ](/news/2012/07/7/the-lower-house-of-parliament-in-russia-gives-initial-backing-to-a-bill-forcing-internationally-funded-non-governmental-organisations-to-car.md)
-_Context: Non-governmental organisations, Russia, State Duma_
+_Context: Non-governmental organisations, State Duma, the Russian Federation_
 
 ### [Voters in Libya go to the polls for a General National Congress election with those elected responsible for appointing a Prime Minister, cabinet and establishing a new constitution. ](/news/2012/07/7/voters-in-libya-go-to-the-polls-for-a-general-national-congress-election-with-those-elected-responsible-for-appointing-a-prime-minister-cab.md)
 Louise Gumuchian and Hadeel Al Shalchi

@@ -16,7 +16,7 @@ Former U.S. intelligence officer says Rolando Sarraff Trujillo helped Havana&#x2
 The European Union banned investment in Crimea on Thursday, halting European help for Russian Black Sea oil and gas exploration and outlawing European cruise ships from calling at Crimean ports.
 
 ### [The United States refuses to extradite a United States Marine to the Philippines where he is charged with murder. ](/news/2014/12/18/the-united-states-refuses-to-extradite-a-united-states-marine-to-the-philippines-where-he-is-charged-with-murder.md)
-_Context: Americans, Death of Jennifer Laude, Philippines, U.S. Marine, murder_
+_Context: Death of Jennifer Laude, Philippines, U.S. Marine, United States, murder_
 
 ### [The Death Penalty Information Center states that thirty-five people have been executed in the United States in 2014, marking it the fewest number within two decades. ](/news/2014/12/18/the-death-penalty-information-center-states-that-thirty-five-people-have-been-executed-in-the-united-states-in-2014-marking-it-the-fewest-n.md)
 Driven in part by continuing legal disputes related to lethal injection drugs and state moratoriums on the death penalty, the 35 people executed in the U.S. this marks the fewest in two decades, according to a

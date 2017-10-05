@@ -19,7 +19,7 @@ _Context: Leonardo da Vinci, Louvre, Mona Lisa, Paris_
 _Context: Beijing, Hong Kong_
 
 ### [ Jalal Talabani, a Kurdish leader, is named as Iraq's President. ](/news/2005/04/6/jalal-talabani-a-kurdish-leader-is-named-as-iraq-s-president.md)
-_Context: Iraq, Jalal Talabani, President_
+_Context: Iraq, Jalal Talabani, President of Iraq_
 
 ### [ The United Nations is looking at the allegations that some UN staff added false details to a UN document about the conflict of Rwanda and Democratic Republic of Congo. William Church, former UN employee and US intelligence analyst, says that some UN staff added false information about Rwandan military incursions to Congo last year. ](/news/2005/04/6/the-united-nations-is-looking-at-the-allegations-that-some-un-staff-added-false-details-to-a-un-document-about-the-conflict-of-rwanda-and-d.md)
 _Context: Democratic Republic of Congo, Rwanda, United Nations, intelligence analyst_

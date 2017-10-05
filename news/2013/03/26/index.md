@@ -31,13 +31,13 @@ Amanda Knox and her former boyfriend Raffaele Sollecito were acquitted on appeal
 _Context: Afghan government's, Afghanistan, Arab League, Doha, Qatar, Syrian Civil War, Taliban, summit_
 
 ### [North Korea issues a new threat to strike targets on the United States mainland, Hawaii and Guam, as well as South Korea, days after a new US-South Korea military pact. ](/news/2013/03/26/north-korea-issues-a-new-threat-to-strike-targets-on-the-united-states-mainland-hawaii-and-guam-as-well-as-south-korea-days-after-a-new-u.md)
-_Context: Americans, Guam, Hawaii, North Korea, South Korea, US-South Korea, contiguous United States, military pact_
+_Context: Guam, Hawaii, North Korea, South Korea, US-South Korea, United States, contiguous United States, military pact_
 
 ### [Vietnam accuses a Chinese vessel of firing on one of its fishing boats in disputed waters in the South China Sea, setting it on fire. ](/news/2013/03/26/vietnam-accuses-a-chinese-vessel-of-firing-on-one-of-its-fishing-boats-in-disputed-waters-in-the-south-china-sea-setting-it-on-fire.md)
 China defends the action of one of its patrol boats which is accused of opening fire on a Vietnamese fishing boat last week in the South China Sea.
 
 ### [A post-mortem examination finds Russian oligarch Boris Berezovsky's death was "consistent with hanging", after the examination found nothing to indicate a violent struggle or involvement of another party. ](/news/2013/03/26/a-post-mortem-examination-finds-russian-oligarch-boris-berezovsky-s-death-was-consistent-with-hanging-after-the-examination-found-nothing.md)
-_Context: Boris Berezovsky, Russia, hanging, post-mortem examination_
+_Context: Boris Berezovsky, hanging, post-mortem examination, the Russian Federation_
 
 ### [Congolese war crimes suspect Bosco Ntaganda appears before the International Criminal Court at The Hague for the first time, following his surprise surrender last week. ](/news/2013/03/26/congolese-war-crimes-suspect-bosco-ntaganda-appears-before-the-international-criminal-court-at-the-hague-for-the-first-time-following-his-s.md)
 Congolese war crimes suspect Bosco Ntaganda appears in court at the Hague for the first time after surrendering to the International Criminal Court.

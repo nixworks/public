@@ -12,11 +12,11 @@ PHILIPPINES-ISLAMIC STATE/ (URGENT):Islamic state claims Philippines attack that
 
 ### Related:
 
-1. [Philippine security forces kill as many as 42 ISIL-linked militants, and captures their stronghold in the predominantly Muslim Lanao del Sur province. Three Philippine Army soldiers were also killed during the fighting. ](/news/2016/02/26/philippine-security-forces-kill-as-many-as-42-isil-linked-militants-and-captures-their-stronghold-in-the-predominantly-muslim-lanao-del-sur.md) _Context: Islamic State, Moro conflict, army_
+1. [Philippine security forces kill as many as 42 ISIL-linked militants, and captures their stronghold in the predominantly Muslim Lanao del Sur province. Three Philippine Army soldiers were also killed during the fighting. ](/news/2016/02/26/philippine-security-forces-kill-as-many-as-42-isil-linked-militants-and-captures-their-stronghold-in-the-predominantly-muslim-lanao-del-sur.md) _Context: ISIL, Moro conflict, army_
 2. [At least 12 Philippine Army soldiers die in clashes with the Abu Sayyaf. ](/news/2016/08/29/at-least-12-philippine-army-soldiers-die-in-clashes-with-the-abu-sayyaf.md) _Context: Moro conflict, army_
-3. [Islamic State of Iraq and the Levant militants break free supporters from a Marawi jail in the Philippines. ](/news/2016/08/28/islamic-state-of-iraq-and-the-levant-militants-break-free-supporters-from-a-marawi-jail-in-the-philippines.md) _Context: Islamic State, Moro conflict_
-4. [The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-against-newly-ele.md) _Context: Islamic State, Moro conflict_
-5. [The Islamic State of Iraq and the Levant declares war on the Philippines. ](/news/2016/06/22/the-islamic-state-of-iraq-and-the-levant-declares-war-on-the-philippines.md) _Context: Islamic State, Moro conflict_
+3. [Islamic State of Iraq and the Levant militants break free supporters from a Marawi jail in the Philippines. ](/news/2016/08/28/islamic-state-of-iraq-and-the-levant-militants-break-free-supporters-from-a-marawi-jail-in-the-philippines.md) _Context: ISIL, Moro conflict_
+4. [The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-against-newly-ele.md) _Context: ISIL, Moro conflict_
+5. [The Islamic State of Iraq and the Levant declares war on the Philippines. ](/news/2016/06/22/the-islamic-state-of-iraq-and-the-levant-declares-war-on-the-philippines.md) _Context: ISIL, Moro conflict_
 
 ### Changes:
 

@@ -43,7 +43,7 @@ _Context: Australia-Philippines relations, Philippine presidential election, 201
 The US is to send 200 extra troops to Iraq to help the fight against so-called Islamic State, officials say.
 
 ### [A Ukrainian court sentences two Russian nationals to 14 years in prison each on charges of fighting alongside Russian-backed separatists in eastern Ukraine. Moscow contends that the two Russians were no longer employed by the state when they were captured. ](/news/2016/04/18/a-ukrainian-court-sentences-two-russian-nationals-to-14-years-in-prison-each-on-charges-of-fighting-alongside-russian-backed-separatists-in.md)
-_Context: Donetsk People's Republic, Eastern Ukraine, Moscow, Russia, Russia-Ukraine relations, Ukraine, War in Donbass_
+_Context: Donetsk People's Republic, Eastern Ukraine, Moscow, Russia-Ukraine relations, Ukraine, War in Donbass, the Russian Federation_
 
 ### [Bongbong Marcos, the son of dictator Ferdinand Marcos and top vice presidential candidate, defends Duterte's remarks about rape. ](/news/2016/04/18/bongbong-marcos-the-son-of-dictator-ferdinand-marcos-and-top-vice-presidential-candidate-defends-duterte-s-remarks-about-rape.md)
 _Context: Bongbong Marcos, Ferdinand Marcos, Philippine general election, 2016, rape_

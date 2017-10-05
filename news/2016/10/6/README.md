@@ -10,7 +10,7 @@ The chief of a top civil judicial body died in the attack at the Atmeh crossing,
 A bomb attached to a motorbike exploded near a police station in southwest Istanbul on Thursday wounding 10 people, the provincial governor said.
 
 ### [Unknown assailants attack a refugee camp near the village of Tassalit, in Niger's Tahoua Region, killing at least 22 soldiers. ](/news/2016/10/6/unknown-assailants-attack-a-refugee-camp-near-the-village-of-tassalit-in-niger-s-tahoua-region-killing-at-least-22-soldiers.md)
-_Context: Niger, Tahoua Region, soldiers_
+_Context: Niger, Nigerien soldiers, Tahoua Region_
 
 ### [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md)
 Tropical storm conditions expected to reach parts of the Florida coast by early Thursday.

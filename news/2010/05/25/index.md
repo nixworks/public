@@ -43,7 +43,7 @@ Italy becomes the latest European country to announce tough austerity measures i
 A clothing advert showing Adolf Hitler dressed in pink causes outrage in Sicily.
 
 ### [Russia's new Cyrillic Internet domain (.rf) launches on 476 sites. ](/news/2010/05/25/russia-s-new-cyrillic-internet-domain-nn-launches-on-476-sites.md)
-_Context: .rf, Cyrillic, Russia_
+_Context: .rf, Cyrillic, the Russian Federation_
 
 ### [A study indicates that the Pac-Man game Google put on its home page Friday led to the loss of almost five million man-hours (or 550 years) of work time. ](/news/2010/05/25/a-study-indicates-that-the-pac-man-game-google-put-on-its-home-page-friday-led-to-the-loss-of-almost-five-million-man-hours-or-550-years-o.md)
 _Context: Google, Pac-Man, man-hour_

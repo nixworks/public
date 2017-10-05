@@ -22,7 +22,7 @@ _Context: Aftermath of Brexit, Bill Etheridge, Member of the European Parliament
 _Context: Lithuanian Peasant and Greens Union, Lithuanian parliamentary election, 2016, second round_
 
 ### [The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/the-socialist-workers-party-following-the-party-s-139a96-vote-approving-this-action-say-they-will-abstain-from-voting-against-acting-pr.md)
-_Context: Mariano Rajoy, People's Party, Prime Minister, Socialist Workers' Party, ten month interregnum_
+_Context: Mariano Rajoy, People's Party, Socialist Workers' Party, Spanish Prime Minister, ten month interregnum_
 
 ## [Previous Day...](/news/2016/10/22/index.md)
 
