@@ -1,4 +1,15 @@
-## [News](/news/2017/10/4/index.md)
+## [News](/news/2017/10/5/index.md)
+
+### [The Nobel Committee awards Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world" ](/news/2017/10/5/the-nobel-committee-awards-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-force-has-uncovered-the-abyss-be.md)
+_Context: Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/10/4/index.md)
 
 ### [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md)
 _Context: Battle of Hawija, Hawija, ISIL, Iraq, Iraqi Army, Kirkuk Governorate_
@@ -21,13 +32,9 @@ SPAIN has sent in the army to support the Barcelona riot cops despite the Catala
 ### [The Nobel Committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-for-deve.md)
 This year’s prize has been awarded for developing cryo-electron microscopy for the high resolution structure determination of biomolecules in solution – join us live for all the news and reaction
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/10/3/index.md)
+## [Day Before Yesterday](/news/2017/10/3/index.md)
 
 ### [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md)
 In the video, a man identifies himself and a companion as Russian soldiers captured by ISIS during a counteroffensive against Syrian troops in Deir Ezzor.
@@ -64,41 +71,7 @@ Rainer Weiss, Barry C. Barish and Kip S. Thorne have won the 2017 Nobel Prize in
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/2/index.md)
-
-### [The Luxor Hotel is placed on lockdown due to a bomb threat. ](/news/2017/10/2/the-luxor-hotel-is-placed-on-lockdown-due-to-a-bomb-threat.md)
-A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, Las Vegas. 
-
-### [Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. ](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.md)
-Two suicide bombers attacked a police station in Damascus on Monday, killing a number of civilians and policemen, the interior minister said, in the first such attack in the Syrian capital since July.
-
-### [After suffering a cardiac arrest in his Malibu, California home, American singer and songwriter Tom Petty dies at the UCLA Medical Center in Santa Monica, California, at the age of 66. ](/news/2017/10/2/after-suffering-a-cardiac-arrest-in-his-malibu-california-home-american-singer-and-songwriter-tom-petty-dies-at-the-ucla-medical-center-in.md)
-Tom Petty, the dynamic Hall of Fame frontman who led the Heartbreakers, has died at age 66 after suffering cardiac arrest.
-
-### [The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.md)
-Scientists share prize awarded for discoveries of molecular mechanisms controlling circadian rhythms – the body’s inner clock – fundamental to human health
-
-### [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md)
-_Context: EGBP, Egypt, Egypt-North Korea relations, North Korea, W_
-
-### [Thai Prime Minister Prayut Chan-o-cha meets with U.S. President Donald Trump in the Oval Office. Trump says he wants to lower the U.S. trade deficit with Thailand. ](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.md)
-_Context: Donald Trump, Oval Office, Prayut Chan-o-cha, Thai Prime Minister, Thailand, Thailand-United States relations, U.S. trade deficit_
-
-### [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.md)
-Russian blogger turned opposition figure Aleksey Navalny has been found guilty of repeatedly violating the law by organizing unauthorized public events, meetings or protests. He is now to be placed under administrative arrest for 20 days.
-
-### [Ecuador's Supreme Court orders that Vice President Jorge Glas be jailed for his alleged acceptance of bribes from the Odebrecht construction company. Prior to this, Glas had been free but barred from leaving the country. ](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.md)
- QUITO, Ecuador (AP) — Ecuador&#39;s Vice President Jorge Glas was jailed Monday after the Supreme Court ordered his arrest while he is investigated for allegedly taking bribes from a 
-
-### [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md)
-_Context: Assassination of Kim Jong-nam, Kim Jong-il, Kim Jong-nam, Kim Jong-un, Malaysia, North Korea_
-
-### [After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. ](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.md)
-_Context: Governor General of Canada, Julie Payette, Justin Trudeau, Politics of Canada, Prime Minister of Canada_
-
----
-
-## [Previous Day...](/news/2017/10/1/index.md)
+## [Previous Day...](/news/2017/10/2/index.md)
 
 ---
 

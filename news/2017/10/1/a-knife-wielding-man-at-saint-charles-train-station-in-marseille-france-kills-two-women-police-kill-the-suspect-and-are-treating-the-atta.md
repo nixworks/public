@@ -8,7 +8,7 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2017/10/01/europe/marseille-knife-attack-train-station/index.html)
-2. [Daily News](http://www.dailymail.co.uk/news/article-4938248/Police-shoot-dead-knife-wielding-man-Marseille-station.html)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-4938248/Police-shoot-dead-knife-wielding-man-Marseille-station.html)
 
 ### Related:
 

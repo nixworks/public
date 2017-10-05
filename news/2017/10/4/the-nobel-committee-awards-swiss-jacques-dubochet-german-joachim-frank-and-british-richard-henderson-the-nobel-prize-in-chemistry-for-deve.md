@@ -13,11 +13,11 @@ This year’s prize has been awarded for developing cryo-electron microscopy for
 
 ### Related:
 
-1. [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md) _Context: German_
-2. [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md) _Context: German_
-3. [The British people vote locally. ](/news/2017/05/4/the-british-people-vote-locally.md) _Context: British_
-4. [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md) _Context: Nobel Prize in Chemistry_
-5. [Eleven Turkish-German members of Germany's Parliament, the Bundestag, who voted in support of declaring the Ottoman Turks slaughter of Armenians in 1915 a genocide, are under police protection. The legislators have faced heavy criticism from Turkish officials, as well as from Turkish Germans. ](/news/2016/06/13/eleven-turkish-german-members-of-germany-s-parliament-the-bundestag-who-voted-in-support-of-declaring-the-ottoman-turks-slaughter-of-armen.md) _Context: German_
+1. [The Nobel Committee awards Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world" ](/news/2017/10/5/the-nobel-committee-awards-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-force-has-uncovered-the-abyss-be.md) _Context: Nobel Committee_
+2. [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md) _Context: German_
+3. [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md) _Context: German_
+4. [The British people vote locally. ](/news/2017/05/4/the-british-people-vote-locally.md) _Context: British_
+5. [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md) _Context: Nobel Prize in Chemistry_
 
 ### Changes:
 
