@@ -1,13 +1,16 @@
 ## [News](/news/2017/10/5/index.md)
 
-### [The Nobel Committee awards Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world" ](/news/2017/10/5/the-nobel-committee-awards-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-force-has-uncovered-the-abyss-be.md)
-_Context: Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature_
+### [The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. ](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.md)
+If confirmed, capture would mean only area of Iraq that remains under Islamic State control is stretch along Syrian border
+
+### [The Nobel Committee awards Japanese-born British Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-force-has.md)
+_Context: British, Japanese, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature_
 
 ### [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md)
-_Context: King Salman, Moscow Kremlin, Russia-Saudi Arabia relations, Saudi Arabia, Syrian Civil War, Vladimir Putin_
+_Context:  Russian President, King Salman, Moscow Kremlin, Russia-Saudi Arabia relations, Saudi Arabia, Syrian Civil War, Vladimir Putin_
 
-### [Jeff Sessions reverses an Obama-era policy which applied Title VII of the Civil Rights Act to disallow discrimination of transgender employees. ](/news/2017/10/5/jeff-sessions-reverses-an-obama-era-policy-which-applied-title-vii-of-the-civil-rights-act-to-disallow-discrimination-of-transgender-employe.md)
-_Context: Jeff Sessions, LGBT employment discrimination in the United States, Title VII of the Civil Rights Act, discrimination_
+### [The Trump administration, through the Department of Justice, reverses an Obama-era policy which applied Title VII of the Civil Rights Act to disallow discrimination of transgender employees. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-applied-title-vii-of-the-civil-rights-act-to.md)
+_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, Trump administration, discrimination, transgender_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -23,7 +26,7 @@ _Context: Battle of Hawija, Hawija, ISIL, Iraq, Iraqi Army, Kirkuk Governorate_
 ### [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md)
 Five soldiers from Niger and three U.S. Army Special Forces troops were killed and two wounded in an ambush on a joint patrol in southwest Niger on Wednesday, according to Nigerien and U.S. officials.
 
-### [According to the Russian Defense Ministry's spokesman Major General Igor Konashenkov, ISIL has undertaken several attacks on Syrian positions from U.S.-controlled areas, implying that the recent well-coordinated actions of the terrorists indicate that they somehow possess intelligence data that could only be obtained as a result of air reconnaissance. ](/news/2017/10/4/according-to-the-russian-defense-ministry-s-spokesman-major-general-igor-konashenkov-isil-has-undertaken-several-attacks-on-syrian-position.md)
+### [Suspected Russian military jets target makeshift rubber dinghies and boats carrying dozens of families fleeing the town of al-Ashara along the western banks of the Euphrates that lies south of Deir Ezzor city, killing at least 60 civilians. ](/news/2017/10/4/suspected-russian-military-jets-target-makeshift-rubber-dinghies-and-boats-carrying-dozens-of-families-fleeing-the-town-of-al-ashara-along-t.md)
 At least 60 civilians were killed trying to flee heavy fighting in Deir Ezzor province, war monitor says
 
 ### [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md)
@@ -41,6 +44,9 @@ This year’s prize has been awarded for developing cryo-electron microscopy for
 ---
 
 ## [Day Before Yesterday](/news/2017/10/3/index.md)
+
+### [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md)
+In the video, a man identifies himself and a companion as Russian soldiers captured by ISIS during a counteroffensive against Syrian troops in Deir Ezzor.
 
 ### [The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the process of hydraulic fracturing. ](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.md)
 Energy minister Paul Wheelhouse tells MSPs that fracking &quot;cannot and will not take place in Scotland&quot;.

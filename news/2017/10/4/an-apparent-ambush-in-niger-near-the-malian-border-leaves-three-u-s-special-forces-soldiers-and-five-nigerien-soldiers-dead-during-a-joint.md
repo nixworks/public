@@ -7,7 +7,7 @@ Five soldiers from Niger and three U.S. Army Special Forces troops were killed a
 
 ### Source:
 
-1. [NBC News](https://www.nbcnews.com/news/world/three-u-s-soldiers-killed-niger-suspected-ambush-n807821)
+1. [NBC](https://www.nbcnews.com/news/world/three-u-s-soldiers-killed-niger-suspected-ambush-n807821)
 2. [Reuters](https://www.reuters.com/article/us-nigeria-security/u-s-confirms-attack-on-joint-patrol-in-niger-no-word-on-u-s-casualties-idUSKBN1C9310?il=0)
 2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
