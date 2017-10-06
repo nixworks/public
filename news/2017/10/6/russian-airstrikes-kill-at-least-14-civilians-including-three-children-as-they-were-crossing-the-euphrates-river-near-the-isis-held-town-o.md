@@ -7,8 +7,9 @@ Syrian Observatory for Human Rights say civilians, including three children, wer
 
 ### Source:
 
-1. [TRT World](http://www.trtworld.com/mea/russia-air-strikes-kill-at-least-14-civilians-in-syria-monitor-11132)
-1. [Cover Image](http://dturwftxfecqm.cloudfront.net/w480/h270/20621_SYR-171005-Syria_1507278737376.jpg)
+1. [Al Masdar News](https://www.almasdarnews.com/article/jaysh-al-islam-reverses-syrian-armys-gains-east-ghouta/)
+2. [TRT World](http://www.trtworld.com/mea/russia-air-strikes-kill-at-least-14-civilians-in-syria-monitor-11132)
+2. [Cover Image](http://dturwftxfecqm.cloudfront.net/w480/h270/20621_SYR-171005-Syria_1507278737376.jpg)
 
 ### Related:
 
