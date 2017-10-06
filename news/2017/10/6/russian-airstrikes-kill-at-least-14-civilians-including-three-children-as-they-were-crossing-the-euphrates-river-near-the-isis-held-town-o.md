@@ -1,20 +1,18 @@
-### [2017-10-4](/news/2017/10/4/index.md)
+### [2017-10-6](/news/2017/10/6/index.md)
 
-# Suspected Russian military jets target makeshift rubber dinghies and boats carrying dozens of families fleeing the town of al-Ashara along the western banks of the Euphrates that lies south of Deir Ezzor city, killing at least 60 civilians. 
+# Russian airstrikes kill at least 14 civilians, including three children, as they were crossing the Euphrates river near the ISIS-held town of Mayadin in eastern Syria. The civilians were fleeing the village of Mahkan. 
 
-At least 60 civilians were killed trying to flee heavy fighting in Deir Ezzor province, war monitor says
+Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
 
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/2017/09/rights-group-condemns-attacks-syrian-hospitals-170928072406051.html)
-2. [CNBC](https://www.cnbc.com/2017/10/04/russia-says-is-attacks-in-syria-come-from-location-near-us-forces.html)
-3. [Middle East Eye](http://www.middleeasteye.net/news/russian-jets-kill-civilians-fleeing-across-euphrates-syrian-opposition-108491042)
-3. [Cover Image](http://www.middleeasteye.net/sites/default/files/main-images/Russian%20Syria%20Reuters.JPG)
+1. [TRT World](http://www.trtworld.com/mea/russia-air-strikes-kill-at-least-14-civilians-in-syria-monitor-11132)
+1. [Cover Image](http://dturwftxfecqm.cloudfront.net/w480/h270/20621_SYR-171005-Syria_1507278737376.jpg)
 
 ### Related:
 
-1. [Russian airstrikes kill at least 14 civilians, including three children, as they were crossing the Euphrates river near the ISIS-held town of Mayadin in eastern Syria. The civilians were fleeing the village of Mahkan. ](/news/2017/10/6/russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-were-crossing-the-euphrates-river-near-the-isis-held-town-o.md) _Context: Euphrates, Russia, Syrian Civil War_
+1. [Suspected Russian military jets target makeshift rubber dinghies and boats carrying dozens of families fleeing the town of al-Ashara along the western banks of the Euphrates that lies south of Deir Ezzor city, killing at least 60 civilians. ](/news/2017/10/4/suspected-russian-military-jets-target-makeshift-rubber-dinghies-and-boats-carrying-dozens-of-families-fleeing-the-town-of-al-ashara-along-t.md) _Context: Euphrates, Russia, Syrian Civil War_
 2. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md) _Context: Euphrates, Russia, Syrian Civil War_
 3. [After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-aircraft-west-of-the.md) _Context: Euphrates, Russia, Syrian Civil War_
 4. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: Russia, Syrian Civil War_
