@@ -7,7 +7,7 @@ The Nobel committee says &quot;the risk of nuclear weapons is greater than it ha
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-41524583?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [BBC](http://www.bbc.com/news/world-europe-41524583)
 2. [Nobel Prize.org](https://www.nobelprize.org/)
 2. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05j6g2p.jpg)
 

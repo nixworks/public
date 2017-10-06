@@ -18,7 +18,7 @@ An Indian airforce helicopter crashed in a remote mountain region near the borde
 ### [The Nobel Committee awards the global civil society coalition of The International Campaign to Abolish Nuclear Weapons the Nobel Peace Prize "for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons". ](/news/2017/10/6/the-nobel-committee-awards-the-global-civil-society-coalition-of-the-international-campaign-to-abolish-nuclear-weapons-the-nobel-peace-prize.md)
 The Nobel committee says &quot;the risk of nuclear weapons is greater than it has been for a long time&quot;.
 
-### [U.S. officials believe White House Chief of Staff John Kelly's personal cellphone was hacked, possibly since December 2016. Kelly was Secretary of Homeland Security from January 20 to July 31, 2017, when he moved to his current position. ](/news/2017/10/6/u-s-officials-believe-white-house-chief-of-staff-john-kelly-s-personal-cellphone-was-hacked-possibly-since-december-2016-kelly-was-secret.md)
+### [Unnamed White House officials believe White House Chief of Staff John F. Kelly's personal cellphone was hacked, possibly since December 2016. Kelly was Secretary of Homeland Security from January 20 to July 31, 2017, when he moved to his current position. ](/news/2017/10/6/unnamed-white-house-officials-believe-white-house-chief-of-staff-john-f-kelly-s-personal-cellphone-was-hacked-possibly-since-december-2016.md)
 White House tech support discovered the suspected breach after Kelly turned his phone in to tech support staff this summer.
 
 ## Opinion
@@ -51,7 +51,7 @@ A security guard sets fire to a childcare centre, killing four children and a te
 Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer, the Wall Street Journal reported on Thursday, citing unnamed sources.
 
 ### [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md)
-_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, Trump administration, discrimination, transgender_
+_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, White House officials, discrimination, transgender_
 
 ### [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md)
 A bill to make California a sanctuary state, by preventing police from inquiring about immigration status and curtailing law enforcement cooperation with immigration officers, was signed into law by the governor on Thursday.
