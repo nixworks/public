@@ -24,6 +24,9 @@ _Context: Secretary of Health and Human Services, Tom Price, Trump administratio
 ### [Sun Zhengcai is expelled from the Communist Party of China after the results into the internal disciplinary investigation are announced by the Central Commission for Discipline Inspection. ](/news/2017/09/29/sun-zhengcai-is-expelled-from-the-communist-party-of-china-after-the-results-into-the-internal-disciplinary-investigation-are-announced-by-t.md)
 Former rising Chinese political star Sun Zhengcai was expelled from the ruling Communist Party and dismissed from public office Friday amid a corruption investigation.
 
+### [ESPN misrepresents results from their own poll which show loss of ratings in response to anthem protests. ](/news/2017/09/29/espn-misrepresents-results-from-their-own-poll-which-show-loss-of-ratings-in-response-to-anthem-protests.md)
+Despite clear results showing Americans are unhappy with the NFL, ESPN insists its new poll shows that the country is &quot;divided.&quot;
+
 ### [The journal "Protein & Cell" publishes Sun Yat-sen University research describing the use of gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. Collectively, this study demonstrated the feasibility of curing this and a range of other inherited diseases using the same genome editing technology of CRISPR. ](/news/2017/09/29/the-journal-protein-cell-publishes-sun-yat-sen-university-research-describing-the-use-of-gene-therapy-in-the-removal-of-a-version-of-the.md)
 A Chinese team corrected the potentially fatal blood disorder beta-thalassemia.
 
